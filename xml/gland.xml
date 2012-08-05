@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gland.xml,v 1.21 2012/07/22 16:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>gland</rad>/o
+</kap>
+<drv mrk="gland.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">ANA</uzo>
+  <snc>
+    <dif>
+      Organo, kies funkcio estas produkti sekrecion:
+      <ekz>
+        ekstera, interna <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_l;&c_o;&c_z;&c_a;</trd>
+  <trd lng="ca">gl&agrave;ndula</trd>
+  <trd lng="de">Dr&uuml;se</trd>
+  <trd lng="en">gland</trd>
+  <trd lng="es">gl&aacute;ndula</trd>
+  <trd lng="fr">glande</trd>
+  <trd lng="it">ghiandola</trd>
+  <trd lng="nl">klier</trd>
+  <trd lng="pl">gruczo&lstroke;</trd>
+  <trd lng="pt">gl&acirc;ndula</trd>
+  <trd lng="ru">&c_zh;&c_je;&c_l;&c_je;&c_z;&c_a;</trd>
+  <trd lng="sv">k&ouml;rtel</trd>
+  <trd lng="tr">salg&inodot;bezi</trd>
+</drv>
+
+<drv mrk="gland.surrena0o">
+  <kap>surrena <tld/>o</kap>
+  <uzo tip="fak">ANA</uzo>
+  <snc>
+    <dif>
+      &Ccirc;iu el la malgrandaj <ref cel="endokrin.0a">endokrinaj</ref>
+      <ref tip="super" cel="gland.0o">glandoj</ref>, situanta super la
+      <ref cel="ren.0o">renoj</ref>.
+    </dif>
+  </snc>
+  <trd lng="ca"><ind>gl&agrave;ndula</ind> suprarenal</trd>
+  <trd lng="de">Nebenniere</trd>
+  <trd lng="en">adrenal gland</trd>
+  <trd lng="fr">glande surr&eacute;nale</trd>
+  <trd lng="it"><ind>ghiandola</ind> surrenale</trd>
+  <trd lng="nl">bijnier</trd>
+  <trd lng="sv">binjure</trd>
+</drv>
+</art>
+<!--
+$Log: gland.xml,v $
+Revision 1.21  2012/07/22 16:10:16  revo
+Marc Rausell: + trd ca
+
+Revision 1.20  2011/01/09 18:10:10  revo
+Wieland Pusch: +trd de
+
+Revision 1.19  2011/01/08 19:10:08  revo
+Russ Williams: +trd en
+
+Revision 1.18  2010/12/17 17:30:36  revo
+Antonio Codazzi: + ind al la trd it
+
+Revision 1.17  2010/11/21 17:30:23  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2009/11/28 17:30:55  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.15  2009/08/24 16:32:13  revo
+Emmanuel Debanne: +kor tr
+
+Revision 1.14  2009/07/08 16:30:39  revo
+-->
+</vortaro>

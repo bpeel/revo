@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mineralog.xml,v 1.2 2011/12/10 21:10:14 revo Exp $">
+<kap>
+    <ofc>7</ofc><rad>mineralog</rad>/o
+</kap>
+<drv mrk="mineralog.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mineralog.0o.SCI">
+    <uzo tip="fak">MIN</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <ref tip="dif" cel="minera1.0isto">mineralogiisto</ref>
+  </snc>
+  <trd lng="ca">mineralogista</trd>
+  <trd lng="en">mineralogist</trd>
+</drv>
+</art>
+
+<!--
+$Log: mineralog.xml,v $
+Revision 1.2  2011/12/10 21:10:14  revo
+Marc Rausell: +trd ca
+
+Revision 1.1  2011/01/08 12:10:18  revo
+Russ Williams: nova artikolo
+
+-->
+</vortaro>

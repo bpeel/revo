@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: eritrocit.xml,v 1.2 2011/11/26 23:10:12 revo Exp $">
+
+<kap>
+  <rad>eritrocit</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="eritrocit.0o">
+  <kap><tld/>o</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="eritrocit.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <ref tip="dif" cel="cxel.rugxasango0o.FIZL">ru&gcirc;a
+    sango&ccirc;elo</ref>
+    <ekz>
+      la minerala substanco fero estas konsistiga parto de
+      hemoglobino, la ru&gcirc;a pigmento en <tld/>oj
+      <fnt><aut>W. F. Rolt</aut>, <vrk>El la Polvo de la Tero</vrk>, 
+      <lok>1967</lok></fnt>.
+    </ekz>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>&eacute;rythrocyte</trd>,
+    <trd>globule rouge</trd>,
+    <trd>h&eacute;matie</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>erytrocyt</trd>,
+    <trd>czerwona <ind>krwinka</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: eritrocit.xml,v $
+Revision 1.2  2011/11/26 23:10:12  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.1  2010/12/10 20:17:35  revo
+Sebastian Cyprych: nova artikolo
+
+-->
+</vortaro>

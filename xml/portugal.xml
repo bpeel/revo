@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: portugal.xml,v 1.7 2011/09/01 22:10:14 revo Exp $">
+<kap>
+  <rad>portugal</rad>/o
+  <ofc>*</ofc>
+</kap>
+
+<drv mrk="portugal.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="portugal.0o.sxtatano">
+    <dif>
+      <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de
+      <ref tip="malprt" cel="portugal.P0ujo"><tld lit="P"/>ujo</ref>.
+    </dif>
+  </snc>
+  <snc mrk="portugal.0o.naciano">
+    <dif>
+      Homo kun <tld/>a nacieco.
+    </dif>
+  </snc>
+  <trd lng="es">portugu&eacute;s <klr>(habitante de Portugal)</klr></trd> 
+  <trd lng="pt">portugu&ecirc;s <klr tip="ind"> (subst.)</klr></trd>
+</drv>
+
+<drv mrk="portugal.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilatanta al <tld/>oj, ilia nacieco a&ubreve; &scirc;tato.
+    </dif>
+  </snc>
+    <trd lng="es">portugu&eacute;s</trd>  
+  <trd lng="pt">portugu&ecirc;s <klr tip="ind"> (adj.)</klr></trd>
+</drv>
+
+<drv mrk="portugal.P0ujo">
+  <kap>
+    <tld lit="P"/>ujo
+    <fnt>
+      <vrk>Oficiala Informo de AdE</vrk>,
+      <lok>numero 12</lok>
+    </fnt>
+  </kap>
+  <snc mrk="portugal.P0ujo.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="super" cel="sxtat.0o">&Scirc;tato</ref> en la sudokcidenta 
+      <ref tip="malprt" cel="euxrop1.E0o.geog">E&ubreve;ropo</ref>
+      (en Ibera Duoninsulo) kun &ccirc;efurbo Lisbono.
+      Teritorio de Respubliko Portugalujo.
+      ISO-3166 kodo: PT.
+      &Gcirc;i limas kun
+      <ref tip="vid" cel="hispan.H0ujo">Hispanujo</ref>
+      kaj <ref tip="vid" cel="atlant.A0o.GEOG">Atlantiko</ref>.
+    </dif>
+    <ref tip="sin" cel="portugali.P0o">Portugalio</ref>
+    <trd lng="bg">&c_P;&c_o;&c_r;&c_t;&c_u;&c_g;&c_a;&c_l;&c_i;&c_ja;</trd>
+    <trd lng="de">Portugal</trd>    
+    <trd lng="en">Portugal</trd>
+    <trd lng="es">Portugal</trd> 
+    <trd lng="nl">Portugal</trd>
+    <trd lng="no">Portugal</trd>
+    <trdgrp lng="pl">
+      <trd>Portugalia</trd>,
+      <trd>Republika <ind>Portugalska</ind></trd>
+    </trdgrp>
+    <trd lng="pt">Portugual</trd>
+  </snc>
+</drv>
+
+</art>
+
+<!--
+$Log: portugal.xml,v $
+Revision 1.7  2011/09/01 22:10:14  revo
+Carlos Garcia: +trd es -a
+
+Revision 1.6  2011/02/15 18:10:20  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.5  2011/02/12 11:10:09  revo
+Luiz Portella: +~o ~a +trd pt
+
+Revision 1.4  2010/01/28 17:30:31  revo
+ Filip van Laenen: Tradukoj en norvegan
+
+Revision 1.3  2009/10/27 17:30:28  revo
+Paul Peeraerts: +nl +ref
+
+Revision 1.2  2009/05/27 16:30:49  revo
+Wieland Pusch: +trd bg,de,en
+
+Revision 1.1  2009/05/20 16:30:49  revo
+Sebastian Cyprych: nova artikolo
+
+-->
+</vortaro>

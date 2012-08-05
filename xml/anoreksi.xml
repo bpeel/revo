@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: anoreksi.xml,v 1.3 2012/01/08 12:10:11 revo Exp $">
+<kap>
+  <rad>anoreksi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="anoreksi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="anoreksi.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Da&ubreve;ra malsaneca senapetiteco, kiu povas ka&ubreve;zi
+      subnutri&gcirc;on:
+      <ekz>
+         &scirc;i estis flegita en psikiatrejo pro <tld/>o
+         kaj sinvundigo
+        <fnt>
+          <aut>P. Desmet'</aut>,
+          <vrk><url
+          ref="http://www.ipernity.com/blog/petro_desmet/195396">
+          Peto kaj espereble respondoj</url></vrk>,
+          <lok>2009-10-23</lok>
+        </fnt>.       
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Anorexie</trd>,
+    <trd>Appetitlosigkeit</trd>,
+    <trd>Magersucht</trd>,
+    <trd>Essst&ouml;rung</trd>
+  </trdgrp>
+  <trd lng="ca">anor&egrave;xia</trd>
+  <trd lng="fr">anorexie</trd>
+  <adm>
+    "Anorexia nervosa" kiel aparta psike ka&ubreve;zita formo ne konfuzi&gcirc;u kun
+    la pli &gcirc;enerala simptomo "Anorexia". <aut>WD</aut>
+  </adm>
+</drv>
+</art>
+
+<!--
+$Log: anoreksi.xml,v $
+Revision 1.3  2012/01/08 12:10:11  revo
+Wolfram Diestel: germ trd, +adm
+
+Revision 1.2  2012/01/03 08:10:21  revo
+Marc Rausell: +trd ca
+
+Revision 1.1  2012/01/02 13:10:15  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pedikur.xml,v 1.2 2012/01/02 18:10:28 revo Exp $">
+<kap>
+  <rad>pedikur</rad>/i 
+</kap>
+
+<drv mrk="pedikur.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pedikur.0i.KOS">
+    <dif>
+      Piedflegi:
+      <ekz>
+        mi ne kredas, ke tia birdo <tld/>us siajn ungojn sola.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="manikur.0i.KOS">manikuri</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">fer la pedicura</trd>
+</drv>
+
+<drv mrk="pedikur.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pedikur.0o.KOS">
+    <dif>
+      Piedflego.
+    </dif>
+  </snc>
+  <trd lng="ca">pedicura</trd>
+</drv>
+
+<drv mrk="pedikur.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="pedikur.0isto.KOS">
+    <dif>
+      Piedflegisto.
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>pedicur</trd>,
+    <trd>callista</trd>
+  </trdgrp>
+</drv>
+</art>
+
+
+<!--
+$Log: pedikur.xml,v $
+Revision 1.2  2012/01/02 18:10:28  revo
+Marc Rausell: +trd ca
+
+Revision 1.1  2008/12/14 17:30:28  revo
+Luiz Portella: nova artikolo
+
+-->
+</vortaro>

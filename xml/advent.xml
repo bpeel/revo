@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: advent.xml,v 1.18 2011/12/03 19:10:10 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>advent</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="advent.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="advent.0o.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      La kvar semajnoj anta&ubreve; Kristnasko.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_ja;&c_d;&c_n;&c_y; <ind>&c_p;&c_o;&c_s;&c_t;</ind></trd>
+  <trd lng="ca">Advent</trd>
+  <trd lng="de">Advent</trd>
+  <trd lng="en">Advent</trd>
+  <trd lng="es">Adviento</trd>
+  <trd lng="fr">avent</trd>
+  <trd lng="hu">advent</trd>
+  <trd lng="it">avvento<klr> (festa rel.)</klr></trd>
+  <trd lng="nl">advent</trd>
+  <trd lng="pt">Advento</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_o;&c_zh;&c_d;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_s;&c_k;&c_i;&c_j; &c_p;&c_o;&c_s;&c_t;</trd>,
+    <trd>&c_a;&c_d;&c_v;&c_je;&c_n;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">advent</trd>
+  <trd lng="sv">advent</trd>
+</drv>
+
+<drv mrk="advent.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="advent.0ismo.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Doktrino kaj praktiko de
+      <ref tip="vid" cel="advent.0isto.KRI"><tld/>istoj</ref>;
+      bran&ccirc;o de
+      <ref tip="malprt" cel="protes1.0ismo.KRI">protestantismo</ref>
+      esti&gcirc;inta en la 19a jarcento,
+      predikanta pri la balda&ubreve;a reveno de Jesuo Kristo:
+      <ekz>
+        la&ubreve; <tld/>ismo kaj jehovismo la animo ne estas nature senmorta
+        <fnt><bib>Viki</bib>, <lok><url
+        ref="http://eo.wikipedia.org/wiki/Neniigeco">
+        neniigeco</url>, 2010-06-22</lok></fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">adventisme</trd>
+  <trd lng="fr">adventisme</trd>
+  <trd lng="it">avventismo</trd>
+</drv>
+
+<drv mrk="advent.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="advent.0isto.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Ano de <ref tip="vid" cel="advent.0ismo.KRI"><tld/>ismo</ref>:
+      <ekz>
+        De Kock estas profunda kristano, <ind><tld/>isto de la sepa
+        tago</ind>, 
+        kun granda atento pri la Malnova Testamento
+        <fnt>
+          <aut>C. Minnaja</aut>,
+          <vrk><url
+          ref="http://esperanto.net/literaturo/lf/konfliktrec.html">
+          La konflikto de la epokoj [recenzo]</url></vrk>,
+          <lok>Literatura foiro, 1988-04 (112)</lok>
+        </fnt>.
+        <trd lng="ca">adventista del set&eacute; dia</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">adventista</trd>
+  <trd lng="fr">adventiste<klr> (subts.)</klr></trd>
+  <trd lng="it">avventista</trd>
+</drv>
+</art>
+<!--
+$Log: advent.xml,v $
+Revision 1.18  2011/12/03 19:10:10  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.17  2011/11/02 11:10:10  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2010/11/11 17:30:39  revo
+Jeromo Vasxe: + ~ismo/isto
+
+Revision 1.15  2005/04/07 16:33:30  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.14  2003/05/17 16:31:19  revo
+Viliam Bur: +trd sk
+
+Revision 1.13  2002/10/30 18:37:20  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2002/02/14 17:38:05  revo
+Yury Finkel: +trd ru, +uzo KRI
+
+Revision 1.11 2001/06/19 18:13:18 revo
+-->
+</vortaro>

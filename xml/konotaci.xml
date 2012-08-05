@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konotaci.xml,v 1.2 2012/07/03 08:10:08 revo Exp $">
+<kap>
+  <rad>konotaci</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="konotaci.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="konotaci.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <ref tip="dif" cel="senc.kun0o.LIN">kunsenco</ref>
+    <ekz>
+      la&ubreve; la vortaroj la <tld/>oj de la du radikoj iom malsamas, 
+      sed la kernaj signifoj tre similas; kaj truo kaj kavo estas 
+      <ctl>malplena&jcirc;oj</ctl>  
+      <fnt>
+        <aut>K. Miner</aut>,
+        <vrk><url
+        ref="http://www.airbits.com/~miner/TAGLIBRO_package/Auxgusto_2008.html">
+        Taglibro</url></vrk>,
+        <lok>2008-08-25</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+</drv>
+</art>
+
+<!--
+$Log: konotaci.xml,v $
+Revision 1.2  2012/07/03 08:10:08  revo
+Jeromo Vasxe: ref dif
+
+Revision 1.1  2012/03/12 10:10:11  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

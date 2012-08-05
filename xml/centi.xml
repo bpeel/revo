@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: centi.xml,v 1.1 2011/01/05 21:10:12 revo Exp $">
+<kap>
+  <rad>centi</rad>- <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="centi.0">
+  <kap><tld/>-</kap>
+  <mlg>c</mlg>
+  <gra><vspec>prefikso</vspec></gra>
+  <snc mrk="centi.0.MEZ">
+    <dif>
+      &leftquot;Centono da&rightquot; (0,01)
+      en la Internacia Sistemo de unuoj (SI):
+        <ekz>
+          <ref tip="vid" cel="centil.0o"><tld/>litro</ref>;
+        </ekz>
+        <ekz>
+          <ref tip="vid" cel="centig.0o"><tld/>gramo</ref>.
+        </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">centi-</trd>
+</drv>
+</art>
+
+<!--
+$Log: centi.xml,v $
+Revision 1.1  2011/01/05 21:10:12  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

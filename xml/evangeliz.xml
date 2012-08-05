@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: evangeliz.xml,v 1.1 2010/11/11 17:30:35 revo Exp $">
+<kap>
+  <rad>evangeliz</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="evangeliz.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="evangeliz.0i.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      <ref tip="dif" cel="predik.0i">Prediki</ref>
+      kaj propagandi kristanismon:
+      <ekz>
+        Sankta Patriko <klr>...</klr> en 411 <klr>...</klr> revenas al 
+        Irlando, kiun li <tld/>as
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://www.chateaubriant.org/12-innogwen-et-sybille">
+          Innogwen et Sybille</url></vrk>,
+          <lok>[vidita en 2010]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">&eacute;vang&eacute;liser</trd>
+</drv>
+</art>
+
+<!--
+$Log: evangeliz.xml,v $
+Revision 1.1  2010/11/11 17:30:35  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>
