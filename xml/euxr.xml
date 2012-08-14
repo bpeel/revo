@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: euxr.xml,v 1.17 2010/04/09 16:31:34 revo Exp $">
+<art mrk="$Id: euxr.xml,v 1.18 2012/08/03 13:10:22 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>e&ubreve;r</rad>/o
 </kap>
@@ -28,6 +28,7 @@
     <ref tip="prt" cel="cend.0o">cendo</ref>
   </snc>
   <trd lng="be">&c_e;&c_w;&c_r;&c_a;</trd>
+  <trd lng="ca">euro</trd>
   <trd lng="de">Euro</trd>
   <trd lng="en">euro</trd>
   <trd lng="es">euro</trd>
@@ -56,6 +57,7 @@
       financa krizo</url></vrk>, <bib>Monato</bib>, <lok>jaro 2008a,
       numero 12a, p. 15a</lok></fnt>.
     </ekz>
+    <trd lng="ca">pa&iacute;s de la zona euro</trd>
     <trdgrp lng="nl">
       <trd>euroland</trd>,
       <trd>land van de <ind>eurozone</ind></trd>
@@ -66,6 +68,9 @@
 </art>
 <!--
 $Log: euxr.xml,v $
+Revision 1.18  2012/08/03 13:10:22  revo
+Marc Rausell: + trd ca
+
 Revision 1.17  2010/04/09 16:31:34  revo
 Sebastian Cyprych: +trd pl
 
@@ -85,8 +90,5 @@ Tulio Flores: +tr pt
 Revision 1.11 2003/12/21 17:31:37 revo
 Dmitri Gabinski: +trd be
 Revision 1.10 2003/06/10 20:10:32 revo
-Jozefo Horvath: +trd hu
-Revision 1.9 2002/09/24 16:33:32 revo
-Jeromo Vasxe: + ekz
 -->
 </vortaro>

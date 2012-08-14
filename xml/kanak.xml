@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kanak.xml,v 1.5 2005/02/01 17:31:57 revo Exp $">
+<art mrk="$Id: kanak.xml,v 1.6 2012/08/03 08:10:28 revo Exp $">
 <kap>
   <rad>kanak</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -15,16 +15,19 @@
       <ekz>
         <ctl><tld/>o el Kananam</ctl>
         <fnt><aut>Kenneth G. Linton</aut> <vrk>Kanako el Kananam. -
-        Rickmansworth: The Esperanto publishing company, 1960</vrk></fnt>.
+        Rickmansworth: The Esperanto publishing company,
+        1960</vrk></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="ca">canac<klr> (subst.)</klr></trd>
   <trdgrp lng="fr">
     <trd>Canaque<klr tip="ind"> (subst.)</klr></trd>,
     <trd>Kanak<klr tip="ind"> (subst.)</klr></trd>
   </trdgrp>
   <trd lng="hu">kanak</trd>
-  <trd lng="de">Kanake <klr tip="ind">(Einwohner von Neukaledonien)</klr></trd>
+  <trd lng="de">Kanake <klr tip="ind">(Einwohner von
+  Neukaledonien)</klr></trd>
   <trd lng="ru">&c_k;&c_a;&c_n;&c_a;&c_k;</trd>
 </drv>
 
@@ -35,6 +38,7 @@
       Rilata al la <tld/>oj.
     </dif>
   </snc>
+  <trd lng="ca">canac<klr> (adj.)</klr></trd>
   <trdgrp lng="fr">
     <trd>canaque<klr tip="ind"> (adj.)</klr></trd>,
     <trd>kanak<klr tip="ind"> (adj.)</klr></trd>
@@ -46,6 +50,9 @@
 
 <!--
 $Log: kanak.xml,v $
+Revision 1.6  2012/08/03 08:10:28  revo
+Marc Rausell: + trd ca
+
 Revision 1.5  2005/02/01 17:31:57  revo
 Wieland Pusch: +trd de
 
@@ -63,4 +70,3 @@ Jeromo Vasxe: nova artikolo
 
 -->
 </vortaro>
-

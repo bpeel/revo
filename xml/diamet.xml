@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: diamet.xml,v 1.19 2009/06/22 16:30:33 revo Exp $">
+<art mrk="$Id: diamet.xml,v 1.20 2012/08/04 08:10:38 revo Exp $">
 <kap>
 <ofc>1</ofc>
 <rad>diametr</rad>/o
@@ -45,6 +45,7 @@
   </snc>
   <trd lng="be">&c_d;&c_y;&c_ja;&c_m;&c_e;&c_t;&c_a;&c_r;</trd>
   <trd lng="bg">&c_d;&c_i;&c_a;&c_m;&c_je;&c_t;&c_malmol;&c_r;</trd>
+  <trd lng="ca">di&agrave;metre</trd>
   <trd lng="de">Durchmesser</trd>
   <trd lng="en">diameter</trd>
   <trd lng="es">di&aacute;metro</trd>
@@ -60,6 +61,9 @@
 </art>
 <!--
 $Log: diamet.xml,v $
+Revision 1.20  2012/08/04 08:10:38  revo
+Marc Rausell: + trd ca
+
 Revision 1.19  2009/06/22 16:30:33  revo
 Wieland Pusch: +trd bg
 
@@ -79,8 +83,5 @@ Revision 1.14  2003/01/02 17:44:37  revo
 Marc Bavant: +trd pl
 
 Revision 1.13  2002/09/13 16:35:03  revo
-Viliam Bur: +trd sk
-Revision 1.12  2002/05/27 17:17:18  revo
-Marc Bavant: ~o (subaro): mod fnt
 -->
 </vortaro>

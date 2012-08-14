@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nav.xml,v 1.15 2005/04/21 17:18:04 revo Exp $">
+<art mrk="$Id: nav.xml,v 1.16 2012/08/03 08:10:19 revo Exp $">
 <kap>
    <ofc>1</ofc>
    <rad>nav</rad>/o
@@ -23,6 +23,7 @@
    </snc>
    <trd lng="be">&c_n;&c_e;&c_f;</trd>
    <trd lng="br">nev<klr tip="ind"> (iliz)</klr></trd>
+   <trd lng="ca">nau<klr> (arquit.)</klr></trd>
    <trdgrp lng="de">
       <trd>Schiff</trd>,
       <trd>Kirchenschiff</trd>
@@ -39,6 +40,9 @@
 </art>
 <!--
 $Log: nav.xml,v $
+Revision 1.16  2012/08/03 08:10:19  revo
+Marc Rausell: + trd ca
+
 Revision 1.15  2005/04/21 17:18:04  revo
 Alan ar Gall: +trd br
 
@@ -58,8 +62,5 @@ Revision 1.10  2002/05/10 16:33:59  revo
 Alejandro Mejia Greene: ald his trd
 
 Revision 1.9  2002/04/02 17:57:10  revo
-Ulrich Fellmann: + 2 germ trdj
-
-Revision 1.8  2001/12/20 17:35:56  revo
 -->
 </vortaro>

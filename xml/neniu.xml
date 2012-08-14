@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: neniu.xml,v 1.19 2010/05/02 16:30:45 revo Exp $">
+  <art mrk="$Id: neniu.xml,v 1.20 2012/08/04 19:10:23 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>neniu</rad>
@@ -38,6 +38,7 @@
           <trd>den <ind>ebet</ind></trd>,
           <trd>hini <ind>ebet</ind></trd>
         </trdgrp>
+        <trd lng="ca">ning&uacute;</trd>
         <trdgrp lng="de">
           <trd>niemand</trd>,
           <trd>keiner</trd>
@@ -86,6 +87,10 @@
           </ekz>
         </dif>       
         <trd lng="br">ebet</trd>
+        <trdgrp lng="ca">
+          <trd>cap</trd>,
+          <trd>ningun</trd>
+        </trdgrp>
         <trd lng="nl">geen enkel</trd>
         <trd lng="pt">nenhum</trd>
         <trdgrp lng="ru">
@@ -111,6 +116,9 @@
   </art>
   <!--
   $Log: neniu.xml,v $
+  Revision 1.20  2012/08/04 19:10:23  revo
+  Marc Rausell: + trd ca
+
   Revision 1.19  2010/05/02 16:30:45  revo
   Antonio Codazzi: +trd it
 

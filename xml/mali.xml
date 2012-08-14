@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mali.xml,v 1.7 2011/02/13 03:10:23 revo Exp $">
+<art mrk="$Id: mali.xml,v 1.8 2012/08/10 14:11:51 revo Exp $">
 <kap>
   <rad>mali</rad>/o
 </kap>
@@ -33,6 +33,10 @@
       kaj <ref tip="vid" cel="senegal.S0o.GEOG">Senegalo</ref>.
     </dif>
     <trd lng="bg">&c_M;&c_a;&c_l;&c_i;</trd>
+    <trdgrp lng="ca">
+      <trd>Mali</trd>,
+      <trd>Rep&uacute;blica de Mali</trd>
+    </trdgrp>
     <trd lng="de">Mali</trd>
     <trd lng="en">Mali</trd>
     <trd lng="fr">R&eacute;publique de Mali</trd>
@@ -49,6 +53,9 @@
 
 <!--
 $Log: mali.xml,v $
+Revision 1.8  2012/08/10 14:11:51  revo
+Marc Rausell: + trd ca
+
 Revision 1.7  2011/02/13 03:10:23  revo
 Luiz Portella: kor. ref k mrk
 
@@ -68,7 +75,5 @@ Revision 1.2  2009/05/07 16:31:17  revo
 Wieland Pusch: +trd bg,de,en
 
 Revision 1.1  2009/05/04 16:32:34  revo
-Sebastian Cyprych: nova artikolo
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxokol.xml,v 1.26 2009/08/18 19:18:12 revo Exp $">
+<art mrk="$Id: cxokol.xml,v 1.27 2012/08/04 07:10:25 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;okolad</rad>/o
@@ -25,6 +25,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_sh;&c_a;&c_k;&c_a;&c_l;&c_ja;&c_d;</trd>
+  <trd lng="ca">xocolata</trd>
   <trd
   lng="el">&sigma;&omikron;&kappa;&omikron;&lambda;&alfa_ton;&tau;&alfa;</trd>
   <trd lng="en">chocolate</trd>
@@ -61,6 +62,7 @@
   </snc>
   <trd lng="be">&c_sh;&c_a;&c_k;&c_a;&c_l;&c_ja;&c_d;
   <klr>(&c_n;&c_a;&c_p;&c_ib;&c_t;&c_a;&c_k;)</klr></trd>
+  <trd lng="ca"><ind>xocolata</ind> desfeta</trd>
   <trdgrp lng="en">
     <trd>chocolate milk</trd>,
     <trd>hot <ind>chocolate</ind></trd>
@@ -89,6 +91,9 @@
 </art>
 <!--
 $Log: cxokol.xml,v $
+Revision 1.27  2012/08/04 07:10:25  revo
+Marc Rausell: + trd ca
+
 Revision 1.26  2009/08/18 19:18:12  revo
 Behnam Tabatabai: +trd fa
 
@@ -108,8 +113,5 @@ Revision 1.21  2003/12/10 17:30:51  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.20  2003/06/02 16:31:06  revo
-Allon Rothfarb: +trd he
-
-Revision 1.19  2003/03/19 17:31:05  revo
 -->
 </vortaro>

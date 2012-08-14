@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: melong.xml,v 1.15 2010/06/11 16:30:32 revo Exp $">
+<art mrk="$Id: melong.xml,v 1.16 2012/08/04 09:10:35 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>melongen</rad>/o
 </kap>
@@ -20,6 +20,7 @@ koloro.
     </dif>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_k;&c_l;&c_a;&c_zh;&c_a;&c_n;</trd>
+  <trd lng="ca">alberg&iacute;nia</trd>
   <trdgrp lng="de">
     <trd>Aubergine</trd>, <trd>Eierfrucht</trd>
   </trdgrp>
@@ -44,6 +45,9 @@ koloro.
 </art>
 <!--
 $Log: melong.xml,v $
+Revision 1.16  2012/08/04 09:10:35  revo
+Marc Rausell: + trd ca
+
 Revision 1.15  2010/06/11 16:30:32  revo
 Agustin Garcia Lopez: +trd es
 
@@ -63,8 +67,5 @@ Revision 1.10  2002/05/13 16:32:58  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2001/11/29 17:32:07  revo
-Karlo Freeman: +trd=en
-
-Revision 1.8  2001/11/26 17:33:47  revo
 -->
 </vortaro>

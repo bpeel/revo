@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: transe.xml,v 1.11 2006/02/16 17:33:38 revo Exp $">
+<art mrk="$Id: transe.xml,v 1.12 2012/08/03 08:10:20 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>transept</rad>/o
@@ -12,11 +12,13 @@
   <uzo tip="fak">ARKI</uzo>
   <snc>
     <dif>
-      Parto de la krucformaj pre&gcirc;ejoj, kiu rektangule kruci&gcirc;as kun la navo
+      Parto de la krucformaj pre&gcirc;ejoj, kiu rektangule kruci&gcirc;as kun la
+      navo
       kaj formas la brakojn de la kruco.
     </dif>
   </snc>
   <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;&c_e;&c_p;&c_t;</trd>
+  <trd lng="ca">transsepte</trd>
   <trdgrp lng="de">
     <trd>Transept</trd>,
     <trd>Querschiff</trd>
@@ -33,6 +35,9 @@
 </art>
 <!--
 $Log: transe.xml,v $
+Revision 1.12  2012/08/03 08:10:20  revo
+Marc Rausell: + trd ca
+
 Revision 1.11  2006/02/16 17:33:38  revo
 Tulio Flores: +trd pt
 
@@ -52,8 +57,5 @@ Revision 1.6 2001/07/31 18:12:28 revo
 Karlo Freeman: +trd=en
 
 Revision 1.5 2001/04/07 16:10:50 revo
-Dennis Wibrow: +trd germ
-
 -->
 </vortaro>
-

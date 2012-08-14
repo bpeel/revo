@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: konser1.xml,v 1.15 2009/09/07 16:31:16 revo Exp $">
+  <art mrk="$Id: konser1.xml,v 1.16 2012/08/04 12:10:30 revo Exp $">
     <kap>
       <ofc>3</ofc>
       <rad>konservativ</rad>/a
@@ -30,6 +30,7 @@
       </snc>
       <ref tip="sin" cel="konser.0isma">konservisma</ref>
       <trd lng="be">&c_k;&c_a;&c_n;&c_s;&c_e;&c_r;&c_v;&c_a;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>
+      <trd lng="ca">conservador<klr> (adj.)</klr></trd>
       <trdgrp lng="de">
         <trd>konservativ</trd>,
         <trd>altmodisch</trd>
@@ -67,6 +68,7 @@
       </snc>
       <ref tip="sin" cel="konser.0ismo">konservismo</ref>
       <trd lng="be">&c_k;&c_a;&c_n;&c_s;&c_e;&c_r;&c_v;&c_a;&c_t;&c_y;&c_z;&c_m;</trd>
+      <trd lng="ca">conservadorisme</trd>
       <trd lng="en">conservatism</trd>
       <trd lng="es">conservadurismo</trd>
       <trdgrp lng="fr">
@@ -94,6 +96,7 @@
         </dif>
       </snc>
       <trd lng="be">&c_k;&c_a;&c_n;&c_s;&c_e;&c_r;&c_v;&c_a;&c_t;&c_a;&c_r;</trd>
+      <trd lng="ca">conservador<klr> (subst.)</klr></trd>
       <trd lng="en">conservative</trd>
       <trd lng="es">conservador</trd>
       <trdgrp lng="fr">
@@ -106,6 +109,9 @@
   </art>
   <!--
   $Log: konser1.xml,v $
+  Revision 1.16  2012/08/04 12:10:30  revo
+  Marc Rausell: + trd ca
+
   Revision 1.15  2009/09/07 16:31:16  revo
   Paul Peeraerts: +nl
 

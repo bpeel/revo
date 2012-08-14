@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: subjun.xml,v 1.14 2009/09/05 16:30:53 revo Exp $">
+  <art mrk="$Id: subjun.xml,v 1.15 2012/08/04 08:10:19 revo Exp $">
     <kap>
       <ofc>2</ofc>
       <rad>subjunktiv</rad>/o
@@ -23,6 +23,7 @@
 	</refgrp>
       </snc>
       <trd lng="be">&c_u;&c_m;&c_o;&c_w;&c_n;&c_y; &c_l;&c_a;&c_d;</trd>
+      <trd lng="ca">subjuntiu</trd>
       <trdgrp lng="de">
 	<trd>Subjunktiv</trd>,
 	<trd>Konjunktiv</trd>
@@ -46,6 +47,9 @@
   </art>
   <!--
   $Log: subjun.xml,v $
+  Revision 1.15  2012/08/04 08:10:19  revo
+  Marc Rausell: + trd ca
+
   Revision 1.14  2009/09/05 16:30:53  revo
   Russ Williams: +trd en
 

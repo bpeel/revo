@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konsis1.xml,v 1.15 2012/05/18 20:10:11 revo Exp $">
+<art mrk="$Id: konsis1.xml,v 1.16 2012/08/04 10:10:15 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>konsistori</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -47,6 +47,7 @@
     </subsnc>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_n;&c_s;&c_ib;&c_s;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>
+  <trd lng="ca">consistori</trd>
   <trd lng="en">consistory</trd>
   <trd lng="fr">consistoire</trd>
   <trd lng="it">concistoro</trd>
@@ -58,6 +59,9 @@
 </art>
 <!--
 $Log: konsis1.xml,v $
+Revision 1.16  2012/08/04 10:10:15  revo
+Marc Rausell: + trd ca
+
 Revision 1.15  2012/05/18 20:10:11  revo
 Jeromo Vasxe: + gxenerala snc, + mrk, + 1 ekz, + trd fr
 
@@ -77,8 +81,5 @@ Revision 1.10  2004/08/11 16:31:53  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9  2002/08/05 17:31:24  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2002/03/16 17:31:19  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kromatografi.xml,v 1.2 2009/09/26 16:31:53 revo Exp $">
+<art mrk="$Id: kromatografi.xml,v 1.3 2012/08/02 09:10:41 revo Exp $">
 <kap>
   <rad>kromatografi</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -37,6 +37,7 @@
       <ref cel="spektrometri.0o.FIZ">spektrometrio</ref>
     </refgrp>
   </snc>
+  <trd lng="ca">cromatografia</trd>
   <trd lng="fr">chromatographie</trd>
   <trd lng="nl">chromatografie</trd>
 </drv>
@@ -44,6 +45,9 @@
 
 <!--
 $Log: kromatografi.xml,v $
+Revision 1.3  2012/08/02 09:10:41  revo
+Marc Rausell: + trd ca
+
 Revision 1.2  2009/09/26 16:31:53  revo
 Paul Peeraerts: +nl
 

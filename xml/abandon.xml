@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: abandon.xml,v 1.14 2010/07/10 16:30:32 revo Exp $">
+<art mrk="$Id: abandon.xml,v 1.15 2012/08/10 14:12:04 revo Exp $">
 <kap>
   <rad>abandon</rad>/i
 </kap>
@@ -17,6 +17,7 @@ difekti&gcirc;o
 al la asekuristo kontra&ubreve; postulo de la asekurita monsumo.
     </dif>
   </snc>
+  <trd lng="ca">abandonar<klr> (dr. civ.)</klr></trd>
   <trdgrp lng="de">
     <trd>abandonnieren</trd>,
     <trd>&uuml;berlassen</trd>
@@ -68,6 +69,7 @@ zg&lstroke;osi&cacute; <ind>abandon</ind>
     </ekz>
     </dif>
   </snc>
+  <trd lng="ca">aband&oacute;</trd>
   <trdgrp lng="de">
     <trd>Abandon</trd>,
     <trd>&Uuml;berlassung</trd>
@@ -106,6 +108,9 @@ juro).
 </art>
 <!--
 $Log: abandon.xml,v $
+Revision 1.15  2012/08/10 14:12:04  revo
+Marc Rausell: + trd ca
+
 Revision 1.14  2010/07/10 16:30:32  revo
 Agustin Garcia Lopez: +trd es
 
@@ -125,8 +130,5 @@ Revision 1.9  2003/08/17 17:31:27  revo
 Yury Finkel: +trd ru
 
 Revision 1.8 2003/04/10 16:30:38 revo
-Gert Bolten Maizonave: +trd pt
-
-Revision 1.7 2002/09/23 16:33:13 revo
 -->
 </vortaro>

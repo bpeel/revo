@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gips.xml,v 1.18 2009/11/09 17:30:28 revo Exp $">
+<art mrk="$Id: gips.xml,v 1.19 2012/08/02 09:10:56 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>gips</rad>/o</kap>
 <drv mrk="gips.0o">
@@ -18,6 +18,10 @@
     ajn, sed gxi estas gipsosxtono (enkondukota). <aut>MB</aut>
   </adm>
   <trd lng="be">&c_g;&c_ib;&c_p;&c_s;</trd>
+  <trdgrp lng="ca">
+    <trd>guix</trd>,
+    <trd>algeps</trd>
+  </trdgrp>
   <trd lng="de">Gips</trd>
   <trdgrp lng="en">
     <trd>gypsum</trd>,
@@ -89,10 +93,14 @@
     <trd lng="nl">gips toevoegen</trd>
     <trd lng="ru">&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>    
   </snc>
+  <trd lng="ca">enguixar</trd>
 </drv>
 </art>
 <!--
 $Log: gips.xml,v $
+Revision 1.19  2012/08/02 09:10:56  revo
+Marc Rausell: + trd ca
+
 Revision 1.18  2009/11/09 17:30:28  revo
 Behnam Tabatabai: +trd fa
 
@@ -112,8 +120,5 @@ Revision 1.13  2005/08/29 16:32:32  revo
 Yury Finkel: +trd ru
 
 Revision 1.12  2005/08/19 19:14:49  revo
-Luiz Portella: +trd pt
-
-Revision 1.11  2004/01/04 17:36:02  revo
 -->
 </vortaro>

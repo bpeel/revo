@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arsen.xml,v 1.22 2010/10/25 16:30:59 revo Exp $">
+<art mrk="$Id: arsen.xml,v 1.23 2012/08/04 17:10:28 revo Exp $">
 <kap>
   <rad>arsen</rad>/o
 </kap>
@@ -20,6 +20,7 @@
   <trd lng="be">&c_m;&c_y;&c_sh;'&c_ja;&c_k;</trd>     
   <trd lng="bg">&c_a;&c_r;&c_s;&c_je;&c_n;</trd>
   <trd lng="br">arsenik<klr tip="ind"> (elfenn eeun</klr></trd>
+  <trd lng="ca">ars&egrave;nic</trd>
   <trdgrp lng="de">
     <trd>Arsen</trd>,
     <trd>Fliegenstein</trd>
@@ -44,6 +45,9 @@
 </art>
 <!--
 $Log: arsen.xml,v $
+Revision 1.23  2012/08/04 17:10:28  revo
+Marc Rausell: + trd ca
+
 Revision 1.22  2010/10/25 16:30:59  revo
 Jerano Zachrisson: +trd sv
 
@@ -63,8 +67,5 @@ Revision 1.17  2004/04/14 16:31:37  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.16  2002/10/29 18:01:50  revo
-Christopher Zervic: + ang
-
-Revision 1.15  2002/09/30 16:31:50  revo
 -->
 </vortaro>

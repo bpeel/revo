@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: trema.xml,v 1.13 2006/02/16 17:34:04 revo Exp $">
+  <art mrk="$Id: trema.xml,v 1.14 2012/08/10 14:11:44 revo Exp $">
     <kap>
       <rad>trema</rad>/o
     </kap>
@@ -19,6 +19,7 @@
           kaj <ref cel="dierez.0o.FON">dierezon</ref>.
     	</dif>
      </snc>
+     <trd lng="ca">di&egrave;resi</trd>
      <trdgrp lng="de">
      	 <trd>Trema</trd>,
      	 <trd>Trennungspunkte</trd>,
@@ -40,6 +41,9 @@
   </art>
   <!--
   $Log: trema.xml,v $
+  Revision 1.14  2012/08/10 14:11:44  revo
+  Marc Rausell: + trd ca
+
   Revision 1.13  2006/02/16 17:34:04  revo
   Tulio Flores: +trd pt
 
@@ -72,4 +76,3 @@
 
   -->
 </vortaro>
-

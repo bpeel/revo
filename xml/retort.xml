@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: retort.xml,v 1.11 2009/07/01 17:21:45 revo Exp $">
+<art mrk="$Id: retort.xml,v 1.12 2012/08/04 08:10:22 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>retort</rad>/o
@@ -26,6 +26,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_t;&c_o;&c_r;&c_t;&c_a;</trd>
+  <trd lng="ca">retorta</trd>
   <trd lng="de">Retorte</trd>
   <trd lng="en">retort <klr>(glass vessel used in chemistry)</klr></trd>
   <trdgrp lng="hu">
@@ -43,6 +44,9 @@
 </art>
 <!--
 $Log: retort.xml,v $
+Revision 1.12  2012/08/04 08:10:22  revo
+Marc Rausell: + trd ca
+
 Revision 1.11  2009/07/01 17:21:45  revo
 Russ Williams: +trd en
 
@@ -62,7 +66,5 @@ Revision 1.6 2001/06/18 18:26:00 revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.5 2001/03/01 20:04:47 revo
-Dennis Wibrow: +trd germ
-
 -->
 </vortaro>

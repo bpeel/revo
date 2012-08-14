@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kurcxatovi.xml,v 1.11 2009/10/16 16:31:17 revo Exp $">
+<art mrk="$Id: kurcxatovi.xml,v 1.12 2012/08/02 19:10:13 revo Exp $">
 <kap>
   <rad>kur&ccirc;atovi</rad>/o
 </kap>
@@ -30,6 +30,11 @@ unnilkvadio
     Aldoni fontindikon.
     <aut>MB</aut>
   </adm>
+  <trdgrp lng="ca">
+    <trd>unnilquadi</trd>,
+    <trd>kurtxatovi</trd>,
+    <trd>rutherfordi</trd>
+  </trdgrp>
   <trd lng="be">&c_k;&c_u;&c_r;&c_ch;&c_a;&c_t;&c_o;&c_v;&c_ib;&c_j;</trd>
   <trd lng="de">Kurtschatovium</trd>
   <trd lng="en">Kurchatovium</trd>
@@ -43,6 +48,9 @@ unnilkvadio
 </art>
 <!--
 $Log: kurcxatovi.xml,v $
+Revision 1.12  2012/08/02 19:10:13  revo
+Marc Rausell: + trd ca
+
 Revision 1.11  2009/10/16 16:31:17  revo
 Antonio Codazzi: +trd it
 
@@ -62,8 +70,5 @@ Revision 1.6 2004/08/19 16:31:47 revo
 Edmund Grimley Evans: aldoni referencon al ruterfordio
 
 Revision 1.5 2003/04/23 16:32:32 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.4 2002/03/07 18:09:50 revo
 -->
 </vortaro>

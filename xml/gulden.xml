@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gulden.xml,v 1.16 2012/05/13 00:10:09 revo Exp $">
+<art mrk="$Id: gulden.xml,v 1.17 2012/08/03 13:10:24 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>gulden</rad>/o <fnt><bib>PV</bib></fnt> 
@@ -27,6 +27,7 @@
     <ref tip="prt" cel="cend.0o">cendo</ref>
   </snc>
   <trd lng="be">&c_g;&c_u;&c_l;&c_mol;&c_d;&c_e;&c_n;</trd>
+  <trd lng="ca">flor&iacute;</trd>
   <trd lng="de">Gulden</trd>
   <trd lng="en">gulden</trd>
   <trd lng="fr">florin<klr tip="ind"> (n&eacute;erlandais)</klr></trd>
@@ -42,6 +43,9 @@
 </art>
 <!--
 $Log: gulden.xml,v $
+Revision 1.17  2012/08/03 13:10:24  revo
+Marc Rausell: + trd ca
+
 Revision 1.16  2012/05/13 00:10:09  revo
 Jeromo Vasxe: + ekz
 
@@ -61,8 +65,5 @@ Revision 1.11  2003/11/10 17:31:19  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.10  2002/01/29 17:32:48  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.9 2001/09/06 18:13:05 revo
 -->
 </vortaro>
