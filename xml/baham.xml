@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: baham.xml,v 1.4 2010/09/19 16:30:28 revo Exp $">
+<art mrk="$Id: baham.xml,v 1.5 2012/08/24 19:10:29 revo Exp $">
 <kap>
   <rad>Baham</rad>/oj
 </kap>
@@ -24,6 +24,10 @@
       Teritorio de Komunumo de Bahamaj Insuloj.
       ISO-3166 kodo: BS.
     </dif>
+    <trdgrp lng="ca">
+      <trd>les <ind>Bahames</ind></trd>,
+      <trd>Commonwealth de les <ind>Bahames</ind></trd>
+    </trdgrp>
     <trd lng="de">Bahamas</trd>
     <trdgrp lng="hu">
       <trd>Baham&aacute;k</trd>,
@@ -40,6 +44,9 @@
 
 <!--
 $Log: baham.xml,v $
+Revision 1.5  2012/08/24 19:10:29  revo
+Marc Rausell: + trd ca
+
 Revision 1.4  2010/09/19 16:30:28  revo
 Jozefo Horvath: +trd hu
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tus.xml,v 1.18 2009/09/10 16:31:07 revo Exp $">
+<art mrk="$Id: tus.xml,v 1.19 2012/08/14 16:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tus</rad>/i
@@ -62,6 +62,7 @@
     </dif>
   </snc>
   <trd lng="bg">&c_k;&c_a;&c_sh;&c_l;&c_i;&c_c;&c_a;</trd>
+  <trd lng="ca">tos</trd>
   <trd lng="de">Husten</trd>
   <trd lng="pl">kaszel</trd>
   <trd lng="sv">hosta<klr> (subst.)</klr></trd>
@@ -70,6 +71,9 @@
 </art>
 <!--
 $Log: tus.xml,v $
+Revision 1.19  2012/08/14 16:10:11  revo
+Marc Rausell: ++ trd ca
+
 Revision 1.18  2009/09/10 16:31:07  revo
 Jerano Zachrisson: +trd sv
 
@@ -89,8 +93,5 @@ Revision 1.13  2006/01/08 17:32:23  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.12  2005/04/07 16:32:10  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.11  2004/11/24 17:31:02  revo
 -->
 </vortaro>

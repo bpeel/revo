@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dromed.xml,v 1.17 2011/06/29 05:10:12 revo Exp $">
+<art mrk="$Id: dromed.xml,v 1.18 2012/08/25 09:10:23 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>dromedar</rad>/o
@@ -18,6 +18,10 @@
     <ref tip="vid" cel="baktri.b0akamelo.ZOO">baktria kamelo</ref>
 
     <trd lng="be">&c_d;&c_r;&c_a;&c_m;&c_a;&c_d;&c_e;&c_r;</trd>
+    <trdgrp lng="ca">
+      <trd><ind>camell</ind> com&uacute;</trd>,
+      <trd>dromedari</trd>
+    </trdgrp>
     <trd lng="de">Dromedar</trd>
     <trd lng="en">dromedary</trd>
     <trd lng="es">dromedario</trd>
@@ -44,6 +48,9 @@
 </art>
 <!--
 $Log: dromed.xml,v $
+Revision 1.18  2012/08/25 09:10:23  revo
+Marc Rausell: + trd ca
+
 Revision 1.17  2011/06/29 05:10:12  revo
 Sebastian Cyprych: +ref baktria kamelo +trd pl
 
@@ -63,8 +70,5 @@ Revision 1.12  2002/06/29 17:47:39  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.11  2002/05/29 05:32:05  revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.10  2001/10/31 19:15:47  revo
 -->
 </vortaro>

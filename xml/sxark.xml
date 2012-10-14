@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxark.xml,v 1.27 2012/03/13 01:10:08 revo Exp $">
+<art mrk="$Id: sxark.xml,v 1.28 2012/08/14 16:10:25 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;ark</rad>/o
@@ -43,6 +43,7 @@
 <ind>&c_a;&c_k;&c_u;&c_l;&c_a;</ind> <klr tip="amb">(&c_r;&c_o;&c_d;)</klr>
 </trd>
   </snc>
+  <trd lng="ca">taur&oacute;</trd>
   <trd lng="en">shark</trd>
   <trd lng="es">tibur&oacute;n</trd>
   <trd lng="pt">tubar&atilde;o</trd>
@@ -68,6 +69,7 @@ risko
     </ekz>
   </dif>
   </snc>
+  <trd lng="ca">taur&oacute; balena</trd>
   <trd lng="en">whale shark</trd>
   <trd lng="es">tibur&oacute;n ballena</trd>
   <trd lng="fr">requin baleine</trd>
@@ -78,6 +80,9 @@ risko
 </art>
 <!--
 $Log: sxark.xml,v $
+Revision 1.28  2012/08/14 16:10:25  revo
+Marc Rausell: + trd ca
+
 Revision 1.27  2012/03/13 01:10:08  revo
 Agustin Garcia Lopez: +trd(es)
 
@@ -97,8 +102,5 @@ Revision 1.22  2006/11/03 17:30:20  revo
 Jeromo Vasxe: lingvo xy -> hu
 
 Revision 1.21  2006/08/25 14:12:55  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.20  2006/08/11 14:16:04  revo
 -->
 </vortaro>

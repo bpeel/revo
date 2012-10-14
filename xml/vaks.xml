@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vaks.xml,v 1.18 2009/04/17 19:49:25 revo Exp $">
+<art mrk="$Id: vaks.xml,v 1.19 2012/08/11 18:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vaks</rad>/o
@@ -43,6 +43,7 @@
     </trdgrp>
   </snc>                         
   <trd lng="br">koar</trd>
+  <trd lng="ca">cera</trd>
   <trd lng="de">Wachs</trd>
   <trd lng="es">cera</trd>
   <trd lng="fr">cire</trd>
@@ -70,6 +71,7 @@
     <trd>&c_v;&c_a;&c_k;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>             
   <trd lng="br">koara&ntilde;</trd>
+  <trd lng="ca">encerar</trd>
   <trdgrp lng="de">
     <trd>wachsen</trd>,
     <trd>mit Wachs <ind>einschmieren</ind></trd>
@@ -105,6 +107,7 @@
   </snc>
   <trd lng="be">&c_s;&c_u;&c_r;&c_g;&c_u;&c_ch;</trd>   
   <trd lng="br">koar siella&ntilde;</trd>
+  <trd lng="ca">lacre</trd>
   <trd lng="de">Siegelwachs</trd>
   <trd lng="fr">cire &agrave; cacheter</trd>
   <trd lng="hu">pecs&eacute;tviasz</trd>
@@ -116,6 +119,9 @@
 </art>
 <!--
 $Log: vaks.xml,v $
+Revision 1.19  2012/08/11 18:10:12  revo
+Marc Rausell: + trd ca
+
 Revision 1.18  2009/04/17 19:49:25  revo
 Antonio Codazzi: +trd it
 
@@ -135,8 +141,5 @@ Revision 1.13  2002/05/05 16:31:13  revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.12  2002/03/15 17:32:23  revo
-Yury Finkel: +trd ru
-
-Revision 1.11 2002/02/14 17:36:42 revo
 -->
 </vortaro>

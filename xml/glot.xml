@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: glot.xml,v 1.14 2010/11/21 17:30:25 revo Exp $">
+<art mrk="$Id: glot.xml,v 1.15 2012/08/19 00:10:35 revo Exp $">
 <kap><rad>glot</rad>/o</kap>
 <drv mrk="glot.0o">
   <kap><tld/>o</kap>
@@ -13,6 +13,7 @@
     </dif>
     <ref tip="vid" cel="plosiv.glota0o"><tld/>a plosivo.</ref>
   </snc>
+  <trd lng="ca">glotis</trd>
   <trdgrp lng="de">
     <trd>Glottis</trd>,
     <trd>Stimmritze</trd>
@@ -35,6 +36,9 @@
 </art>
 <!--
 $Log: glot.xml,v $
+Revision 1.15  2012/08/19 00:10:35  revo
+Marc Rausell: + trd ca
+
 Revision 1.14  2010/11/21 17:30:25  revo
 Antonio Codazzi: +trd it
 
@@ -54,8 +58,5 @@ Revision 1.9  2003/11/18 17:31:15  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.8  2002/01/06 17:47:36  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.7 2001/10/11 18:16:34 revo
 -->
 </vortaro>

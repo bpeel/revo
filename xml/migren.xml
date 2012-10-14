@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: migren.xml,v 1.7 2011/09/07 11:10:09 revo Exp $">
+<art mrk="$Id: migren.xml,v 1.8 2012/08/19 20:10:42 revo Exp $">
 <kap>
   <rad>migren</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -43,6 +43,10 @@
     <trd>&c_g;&c_je;&c_m;&c_ib;&c_k;&c_r;&c_a;&c_n;&c_ib;&c_ja;</trd>
   </trdgrp>
   <trd lng="bg">&c_m;&c_i;&c_g;&c_r;&c_je;&c_n;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>migranya</trd>,
+    <trd>hemicr&agrave;nia</trd>
+  </trdgrp>
   <trd lng="de">Migr&auml;ne</trd>
   <trd lng="en">migraine</trd>
   <trdgrp lng="es">
@@ -70,6 +74,9 @@
 
 <!--
 $Log: migren.xml,v $
+Revision 1.8  2012/08/19 20:10:42  revo
+Marc Rausell: + trd ca
+
 Revision 1.7  2011/09/07 11:10:09  revo
 Jeromo Vasxe: + ref dif hemikrani, + trd el hemikrani
 
@@ -89,7 +96,5 @@ Revision 1.2  2009/11/08 17:31:03  revo
 Wieland Pusch: +trd bg+de
 
 Revision 1.1  2009/11/07 17:30:49  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

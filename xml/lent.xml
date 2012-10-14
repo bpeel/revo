@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lent.xml,v 1.18 2010/10/20 16:31:14 revo Exp $">
+<art mrk="$Id: lent.xml,v 1.19 2012/08/27 05:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lent</rad>/o
@@ -32,6 +32,7 @@
   <trd lng="pt">lentilha</trd>
   <trd lng="hu">lencse</trd>
   <trd lng="nl">linze</trd>
+  <trd lng="pl">soczewica</trd>
   <trd lng="ru">&c_ch;&c_je;&c_ch;&c_je;&c_v;&c_i;&c_c;&c_a;</trd>
   <trd lng="sv">lins<klr tip="ind"> (v&auml;xt)</klr></trd>
   <trd lng="tr">mercimek</trd>
@@ -39,6 +40,9 @@
 </art>
 <!--
 $Log: lent.xml,v $
+Revision 1.19  2012/08/27 05:10:14  revo
+Sebastian Cyprych: +trd pl +ref rumekso
+
 Revision 1.18  2010/10/20 16:31:14  revo
 Jerano Zachrisson: +trd sv
 
@@ -58,8 +62,5 @@ Revision 1.13  2004/02/13 17:30:51  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.12  2003/07/13 16:30:52  revo
-Gert Bolten Maizonave: +trd pt
-
-Revision 1.11  2002/05/07 16:35:57  revo
 -->
 </vortaro>

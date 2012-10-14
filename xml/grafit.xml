@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: grafit.xml,v 1.14 2006/06/01 16:32:07 revo Exp $">
+<art mrk="$Id: grafit.xml,v 1.15 2012/08/19 00:10:58 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>grafit</rad>/o
@@ -18,6 +18,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_r;&c_a;&c_f;&c_ib;&c_t;</trd>
+  <trd lng="ca">grafit</trd>
   <trd lng="de">Graphit</trd>
   <trd lng="en">graphite</trd>
   <trd lng="es">grafito</trd>
@@ -34,6 +35,9 @@
 </art>
 <!--
 $Log: grafit.xml,v $
+Revision 1.15  2012/08/19 00:10:58  revo
+Marc Rausell: + trd ca
+
 Revision 1.14  2006/06/01 16:32:07  revo
 Sebastian Cyprych: +ref karbono +trd pl
 
@@ -53,8 +57,5 @@ Revision 1.9  2002/01/12 17:31:03  revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.8  2001/10/11 18:16:24  revo
-Marc Bavant: +trd fr, +uzo KEM
-
-Revision 1.7  2001/07/28 19:04:36  revo
 -->
 </vortaro>

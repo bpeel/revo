@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lap.xml,v 1.15 2010/10/28 16:30:24 revo Exp $">
+<art mrk="$Id: lap.xml,v 1.16 2012/09/03 17:10:17 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>lap</rad>/o
@@ -45,6 +45,10 @@
     <trd>&c_l;&c_o;&c_p;&c_u;&c_h;</trd>,
     <trd>&c_d;&c_z;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="ca">
+    <trd>llapassa</trd>,
+    <trd>rapalassa</trd>
+  </trdgrp>
   <trd lng="de">Klette</trd>
   <trd lng="en">burdock</trd>
   <trd lng="sv">kardborre</trd>
@@ -52,6 +56,9 @@
 </art>
 <!--
 $Log: lap.xml,v $
+Revision 1.16  2012/09/03 17:10:17  revo
+Marc Rausell: + trd ca
+
 Revision 1.15  2010/10/28 16:30:24  revo
 Russ Williams: +trd en
 
@@ -71,8 +78,5 @@ Revision 1.10  2001/08/27 18:15:07  revo
 Karlo Freeman: +trd=en
 
 Revision 1.9  2001/08/23 18:49:17  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.8  2001/04/18 18:55:12  revo
 -->
 </vortaro>

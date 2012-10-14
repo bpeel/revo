@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vibr.xml,v 1.14 2012/04/16 14:10:09 revo Exp $">
+<art mrk="$Id: vibr.xml,v 1.15 2012/08/12 11:10:23 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>vibr</rad>/i <fnt><bib>PV</bib></fnt>
@@ -83,6 +83,7 @@
       <trd>&c_v;&c_i;&c_b;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trd lng="ca">vibrar</trd>
   <trd lng="en">vibrate</trd>
   <trd lng="fr">vibrer</trd>
   <trdgrp lng="hu">
@@ -106,6 +107,7 @@
       <ref cel="trem.0o.MOV">tremo</ref>
     </refgrp>
   </snc>
+  <trd lng="ca">vibraci&oacute;</trd>
   <trd lng="fr">vibration</trd>
   <trd lng="hu">rezg&eacute;s</trd>  
   <trd lng="nl">trilling</trd>
@@ -138,6 +140,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="ca">reverberar</trd>
   <trdgrp lng="hu">
     <trd>ut&oacute;rezeg</trd>,
     <trd>ut&oacute;rezg&eacute;st v&eacute;gez</trd>
@@ -146,6 +149,9 @@
 </art>
 <!--
 $Log: vibr.xml,v $
+Revision 1.15  2012/08/12 11:10:23  revo
+Marc Rausell: + trd ca
+
 Revision 1.14  2012/04/16 14:10:09  revo
 Jeromo Vasxe: + 1 ref
 
@@ -165,8 +171,5 @@ Revision 1.9 2002/03/18 18:11:30 revo
 Yury Finkel: +trd ru
 
 Revision 1.8 2001/10/31 19:15:11 revo
-Jerome Vachey: + trd fr
-
-Revision 1.7 2001/03/17 17:12:55 revo
 -->
 </vortaro>

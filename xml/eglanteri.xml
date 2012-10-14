@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eglanteri.xml,v 1.4 2007/07/26 16:30:25 revo Exp $">
+<art mrk="$Id: eglanteri.xml,v 1.5 2012/09/05 07:10:17 revo Exp $">
 <kap>
   <rad>eglanteri</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -11,7 +11,8 @@
   <snc mrk="eglanteri.0o.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      Sova&gcirc;a <ref tip="vid" cel="roz.0o.ARBO">rozo</ref>, dorna arbeto kun
+      Sova&gcirc;a <ref tip="vid" cel="roz.0o.ARBO">rozo</ref>, dorna arbeto
+      kun
       belaj floroj kreskanta en mezvarmaj landoj de E&ubreve;razio
       el familio <ref tip="super" cel="rozac.0oj.BOT">rozacoj</ref>
       (<trd lng="la">Rosa canina</trd>):
@@ -25,11 +26,17 @@
         <aut>-</aut>,
         <vrk>OkSEJT: kio venos?</vrk>,
         <bib>LOdE</bib>,
-        <lok><url ref="http://esperanto.org/Ondo/72-lode.htm">2000:10</url></lok>
+        <lok><url
+        ref="http://esperanto.org/Ondo/72-lode.htm">2000:10</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="ca">
+    <trd>gavarrera</trd>,
+    <trd><ind>roser</ind> can&iacute;</trd>,
+    <trd><ind>roser</ind> silvestre</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&eacute;glantier</trd>,
     <trd>&eacute;glantine</trd>
@@ -40,6 +47,9 @@
 
 <!--
 $Log: eglanteri.xml,v $
+Revision 1.5  2012/09/05 07:10:17  revo
+Marc Rausell: + trd ca
+
 Revision 1.4  2007/07/26 16:30:25  revo
 Jeromo Vasxe: kor 1 ref
 

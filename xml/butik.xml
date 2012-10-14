@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: butik.xml,v 1.24 2010/04/21 16:30:22 revo Exp $">
+<art mrk="$Id: butik.xml,v 1.25 2012/08/23 05:10:08 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>butik</rad>/o <fnt><bib>PV</bib></fnt>
@@ -169,10 +169,14 @@
     <trd>boutique en ligne</trd>,
     <trd>e-boutique</trd>
   </trdgrp>
+  <trd lng="pl">sklep internetowy</trd>
 </drv>
 </art>
 <!--
 $Log: butik.xml,v $
+Revision 1.25  2012/08/23 05:10:08  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.24  2010/04/21 16:30:22  revo
 Jeromo Vasxe: + ret~o
 
@@ -192,8 +196,5 @@ Revision 1.19  2004/08/06 16:31:57  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.18  2003/12/07 17:30:36  revo
-Jeromo Vasxe: kor. ortog. trd fr, + 2 tld
-
-Revision 1.17 2003/05/15 16:32:09 revo
 -->
 </vortaro>

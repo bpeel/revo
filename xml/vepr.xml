@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vepr.xml,v 1.16 2009/07/07 16:31:08 revo Exp $">
+<art mrk="$Id: vepr.xml,v 1.17 2012/08/13 08:10:15 revo Exp $">
 <kap>
   <rad>vepr</rad>/o
 </kap>
@@ -68,6 +68,10 @@
     </dif>
     <ref tip="sub" cel="makis.0o.GEOG">makiso</ref>
   </snc>
+  <trdgrp lng="ca">
+    <trd>esbarzerar</trd>,
+    <trd>bardissar</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>broussaille</trd>,
     <trd>ronceraie</trd>
@@ -80,6 +84,9 @@
 </art>
 <!--
 $Log: vepr.xml,v $
+Revision 1.17  2012/08/13 08:10:15  revo
+Marc Rausell: ++ trd ca
+
 Revision 1.16  2009/07/07 16:31:08  revo
 Sebastian Cyprych: +trd pl
 
@@ -99,8 +106,5 @@ Revision 1.11 2005/02/01 17:31:42 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.10 2003/10/01 16:31:33 revo
-Philippe Combot: + trd fr, la
-
-Revision 1.9 2002/09/05 17:31:23 revo
 -->
 </vortaro>

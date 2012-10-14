@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vat.xml,v 1.15 2009/01/22 17:30:41 revo Exp $">
+<art mrk="$Id: vat.xml,v 1.17 2012/08/27 06:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vat</rad>/o
@@ -17,6 +17,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_a;&c_t;&c_a;</trd>
+  <trd lng="ca">buata</trd>
   <trd lng="de">Watte</trd>
   <trdgrp lng="en">
     <trd>cotton <ind>wool</ind></trd>
@@ -26,6 +27,7 @@
   </trdgrp>
   <trd lng="hu">vatta</trd>
   <trd lng="nl">watte</trd>
+  <trd lng="pl">wata</trd>
   <trdgrp lng="pt">
    <trd>algod&atilde;o em rama</trd>
   </trdgrp>
@@ -44,6 +46,7 @@
         <tld/>i veston, banda&gcirc;on.
       </ekz>
     </dif>
+  <trd lng="ca">embuatar</trd>
   <trdgrp lng="en">
     <trd>pad</trd>
   </trdgrp>
@@ -51,6 +54,7 @@
     <trd>vatt&aacute;val kit&ouml;m</trd>,
     <trd>kivatt&aacute;z</trd>
   </trdgrp>
+  <trd lng="pl">watowa&cacute;</trd>
   </snc>
   <snc mrk="vat.0i.FIG">
   <uzo tip="stl">FIG</uzo>
@@ -60,6 +64,10 @@
         la nebulo iom <tld/>as la konturojn.
       </ekz>
     </dif>
+    <trdgrp lng="ca">
+      <trd>difuminar</trd>,
+      <trd>desdibuixar</trd>
+    </trdgrp>
   </snc>
   <refgrp tip="vid">
     <ref cel="stomp.0i">stompi</ref>
@@ -79,6 +87,12 @@
 </art>
 <!--
 $Log: vat.xml,v $
+Revision 1.17  2012/08/27 06:10:17  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2012/08/12 09:10:11  revo
+Marc Rausell: + trd ca
+
 Revision 1.15  2009/01/22 17:30:41  revo
 Russ Williams: +ref kotono
 
@@ -95,11 +109,5 @@ Revision 1.11  2002/10/22 16:33:07  revo
 Christopher Zervic: + ang
 
 Revision 1.10  2002/05/16 16:33:54  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.9  2001/11/08 19:13:54  revo
-Jerome Vachey: disigis snc fig de ~i kun jama ekz, + lig al stompi, +
-trd fr
-
 -->
 </vortaro>

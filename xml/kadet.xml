@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kadet.xml,v 1.21 2010/06/06 16:30:45 revo Exp $">
+<art mrk="$Id: kadet.xml,v 1.22 2012/08/30 09:10:28 revo Exp $">
 <kap>
    <ofc>1</ofc>
    <rad>kadet</rad>/o
@@ -25,6 +25,7 @@ amo</url></vrk>,
      </dif>
    </snc>
    <trd lng="be">&c_k;&c_a;&c_d;&c_e;&c_t;</trd>
+   <trd lng="ca">cadet</trd>
    <trdgrp lng="de">
      <trd>Kadett</trd>,
      <trd>Offizierssch&uuml;ler</trd>
@@ -45,6 +46,9 @@ officier)</klr></trd>
 </art>
 <!--
 $Log: kadet.xml,v $
+Revision 1.22  2012/08/30 09:10:28  revo
+Marc Rausell: + trd ca
+
 Revision 1.21  2010/06/06 16:30:45  revo
 Antonio Codazzi: +trd it
 
@@ -64,8 +68,5 @@ Revision 1.16  2006/05/08 16:31:11  revo
 Jeromo Vasxe: + ekz
 
 Revision 1.15  2004/10/18 16:31:48  revo
-Marc Bavant: +trd fr, +uzo MIL
-
-Revision 1.14  2003/05/19 19:40:20  revo
 -->
 </vortaro>

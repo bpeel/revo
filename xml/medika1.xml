@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: medika1.xml,v 1.21 2010/09/19 16:30:22 revo Exp $">
+<art mrk="$Id: medika1.xml,v 1.22 2012/08/22 05:10:09 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>medikament</rad>/o
@@ -61,6 +61,11 @@
     <trd>medicijn</trd>,
     <trd>medicament</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>lekarstwo</trd>,
+    <trd>lek</trd>,
+    <trd>medykament</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>medicamento</trd>,
     <trd>rem&eacute;dio</trd>
@@ -77,6 +82,9 @@
 </art>
 <!--
 $Log: medika1.xml,v $
+Revision 1.22  2012/08/22 05:10:09  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.21  2010/09/19 16:30:22  revo
 Jerano Zachrisson: +trd sv
 
@@ -96,8 +104,5 @@ Revision 1.16  2005/04/27 16:33:03  revo
 Raul Salinas Monteagudo: +trd ca,es
 
 Revision 1.15  2004/06/08 16:31:35  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.14  2003/05/19 19:37:13  revo
 -->
 </vortaro>

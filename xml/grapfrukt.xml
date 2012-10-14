@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: grapfrukt.xml,v 1.11 2009/08/25 16:31:32 revo Exp $">
+<art mrk="$Id: grapfrukt.xml,v 1.12 2012/08/19 00:11:06 revo Exp $">
 <kap>
   <rad>grapfrukt</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -23,6 +23,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="ca">aranja</trd>
      <trdgrp lng="nl">
     <trd>pomelo</trd>
     </trdgrp>
@@ -30,11 +31,13 @@
   <snc mrk="grapfrukt.0o.BOT">
     <uzo tip="fak">BOT</uzo>
     <ref tip="dif" cel="grapfrukt.0arbo.BOT"><tld/>arbo</ref>
+     <trd lng="ca">aranger</trd>
      <trdgrp lng="nl">
     <trd>pomeloboom</trd>
   </trdgrp>
   </snc>
   <trd lng="bg">&c_g;&c_r;&c_je;&c_j;&c_p;&c_f;&c_r;&c_u;&c_t;</trd>
+  <trd lng="ca">aranja</trd>
   <trdgrp lng="de">
     <trd>Grapefruit</trd>,
     <trd>Grapefrucht</trd>
@@ -75,6 +78,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="ca">aranger</trd>
   <trd lng="de">Grapefruitbaum</trd>
   <trd lng="nl">pomeloboom</trd>
   <trd lng="pl">grejpfrut<klr> (drzewo)</klr></trd>
@@ -85,6 +89,9 @@
 
 <!--
 $Log: grapfrukt.xml,v $
+Revision 1.12  2012/08/19 00:11:06  revo
+Marc Rausell: + trd ca
+
 Revision 1.11  2009/08/25 16:31:32  revo
 Emmanuel Debanne: kor tr
 
@@ -104,8 +111,5 @@ Revision 1.6  2008/12/14 17:30:42  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.5  2007/05/11 16:30:28  revo
-Tulio Flores: +tr pt
-
-Revision 1.4  2007/04/18 16:30:25  revo
 -->
 </vortaro>

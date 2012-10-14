@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gres.xml,v 1.5 2008/02/12 17:30:27 revo Exp $">
+<art mrk="$Id: gres.xml,v 1.6 2012/08/19 00:11:22 revo Exp $">
 <kap>
   <rad>gres</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -28,6 +28,7 @@ ref="http://www.kke.org.br/esperanto/por_infanoj/la_magia_cxevaleto.php">La
     </dif>
   </snc>
   <trd lng="bg">&c_t;&c_r;&c_je;&c_v;&c_a;</trd>
+  <trd lng="ca">past</trd>
   <trd lng="de">Grass</trd>
   <trd lng="fr">p&acirc;ture<klr> (herbe)</klr></trd>
   <trd lng="pl">trawa<klr> (karmowa)</klr></trd>
@@ -56,6 +57,10 @@ ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/Cxarmo.html">La
       <ref cel="pasxt.0ejo">pa&scirc;tejo</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="ca">
+    <trd>pastura</trd>,
+    <trd>pastiu</trd>
+  </trdgrp>
   <trd lng="de">Weide</trd>
   <trdgrp lng="fr">
     <trd>herbage</trd>,
@@ -68,6 +73,9 @@ ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/Cxarmo.html">La
 
 <!--
 $Log: gres.xml,v $
+Revision 1.6  2012/08/19 00:11:22  revo
+Marc Rausell: + trd ca
+
 Revision 1.5  2008/02/12 17:30:27  revo
 Wieland Pusch: +trd bg
 

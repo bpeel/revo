@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mantis.xml,v 1.21 2010/05/16 16:31:19 revo Exp $">
+<art mrk="$Id: mantis.xml,v 1.22 2012/08/19 12:10:18 revo Exp $">
 <kap>
   <rad>mantis</rad>/o
 </kap>
@@ -52,12 +52,16 @@
     <trd lng="ru">&c_m;&c_a;&c_n;&c_t;&c_i;&c_s;&c_s;&c_a;</trd>
     <trd lng="sv">mantissa</trd>
   </snc>
+  <trd lng="ca">mantissa</trd>
   <trd lng="pl">mantysa</trd>
   <trd lng="hu">mantissza</trd>
 </drv>
 </art>
 <!--
 $Log: mantis.xml,v $
+Revision 1.22  2012/08/19 12:10:18  revo
+Marc Rausell: + trd ca
+
 Revision 1.21  2010/05/16 16:31:19  revo
 Behnam Tabatabai: +trd fa
 
@@ -77,8 +81,5 @@ Revision 1.16  2003/05/19 19:36:27  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.15  2003/05/12 16:33:15  revo
-Marc Bavant: mod ekz
-
-Revision 1.14  2002/11/30 17:36:08  revo
 -->
 </vortaro>

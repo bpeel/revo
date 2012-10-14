@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mi.xml,v 1.26 2009/08/27 16:32:27 revo Exp $">
+<art mrk="$Id: mi.xml,v 1.27 2012/08/19 20:10:39 revo Exp $">
 <kap>
    <ofc>*</ofc> <rad>mi</rad> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -65,6 +65,7 @@ al mi&rightquot;.
      <trd>&c_m;&c_o;&c_j;</trd>,
      <trd>&c_m;&c_i;</trd>
    </trdgrp>
+   <trd lng="ca">meu</trd>
    <trd lng="de">mein</trd>
    <trd lng="en">my</trd>
    <trdgrp lng="fi">
@@ -78,6 +79,9 @@ al mi&rightquot;.
 </art>
 <!--
 $Log: mi.xml,v $
+Revision 1.27  2012/08/19 20:10:39  revo
+Marc Rausell: ++ trd ca
+
 Revision 1.26  2009/08/27 16:32:27  revo
 Emmanuel Debanne: +trd ku
 
@@ -97,8 +101,5 @@ Revision 1.21  2006/11/10 17:30:21  revo
 Axel Rousseau: +trd tp
 
 Revision 1.20  2005/05/23 16:31:21  revo
-Alan ar Gall: +trd br
-
-Revision 1.19  2003/08/18 16:31:07  revo
 -->
 </vortaro>

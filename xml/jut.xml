@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jut.xml,v 1.15 2011/05/29 22:10:12 revo Exp $">
+<art mrk="$Id: jut.xml,v 1.16 2012/08/27 06:10:11 revo Exp $">
 <kap>
   <rad>jut</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -17,10 +17,12 @@
     </dif>
     <trd lng="de">Jute</trd>
     <trdgrp lng="it">
-    <trd>corcoro</trd>, 
-    <trd>iuta</trd>, 
-    <trd>juta</trd>
+      <trd>corcoro</trd>, 
+      <trd>iuta</trd>, 
+      <trd>juta</trd>
     </trdgrp>
+    <trd lng="la">Corchorus</trd>
+    <trd lng="pl">juta</trd>
   </snc>
   <snc mrk="jut.0o.TEKS">
     <uzo tip="fak">TEKS</uzo>
@@ -32,6 +34,7 @@
         el <tld/>o.
       </ekz>
     </dif>
+    <trd lng="pl">juta</trd>
   </snc>
   <trd lng="be">&c_d;&c_zh;&c_u;&c_t;</trd>
   <trd lng="bg">&c_ju;&c_t;&c_a;</trd>
@@ -57,6 +60,9 @@
 </art>
 <!--
 $Log: jut.xml,v $
+Revision 1.16  2012/08/27 06:10:11  revo
+Sebastian Cyprych: +trd pl,la
+
 Revision 1.15  2011/05/29 22:10:12  revo
 Jeromo Vasxe: - num + mrk
 
@@ -76,8 +82,5 @@ Revision 1.10  2003/04/28 16:32:48  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9  2002/10/14 16:33:31  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.8  2002/05/10 16:31:54  revo
 -->
 </vortaro>

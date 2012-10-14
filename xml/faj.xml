@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: faj.xml,v 1.11 2010/09/28 16:30:27 revo Exp $">
+<art mrk="$Id: faj.xml,v 1.12 2012/08/29 16:10:15 revo Exp $">
 <kap>
   <rad>faj</rad>/o <fnt>Z</fnt>
 </kap>
@@ -23,6 +23,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="ca">fai</trd>
   <trdgrp lng="de">
     <trd>Faille</trd>,
     <trd>Ripsseide</trd>
@@ -37,6 +38,9 @@
 </art>
 <!--
 $Log: faj.xml,v $
+Revision 1.12  2012/08/29 16:10:15  revo
+Marc Rausell: + trd ca
+
 Revision 1.11  2010/09/28 16:30:27  revo
 Russ Williams: +trd en
 
@@ -56,8 +60,5 @@ Revision 1..6 2001/07/22 18:13:53 revo
 Marc Bavant: +trd fr, +uzo TEKS
 
 Revision 1.5 2001/05/22 18:13:19 revo
-Ulrich Fellmann: + 2 germ trdj
-
-Revision 1.4 2001/04/03 16:41:57 revo
 -->
 </vortaro>

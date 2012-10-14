@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tof.xml,v 1.15 2009/05/07 16:31:39 revo Exp $">
+<art mrk="$Id: tof.xml,v 1.16 2012/08/14 11:10:17 revo Exp $">
 <kap>
   <rad>tof</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -30,6 +30,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_t;&c_u;&c_f;</trd>
+  <trdgrp lng="ca">
+    <trd>tuf</trd>,
+    <trd>cinerita</trd>
+  </trdgrp>
   <trd lng="de">Tuff</trd>
   <trd lng="fr">tuf</trd>
   <trd lng="hu">tufa</trd>
@@ -62,6 +66,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="ca">travert&iacute;</trd>
   <trdgrp lng="de">
     <trd>Kalktuff</trd>,
     <trd>S&uuml;&szlig;wasserkalk</trd>,
@@ -75,6 +80,9 @@
 </art>
 <!--
 $Log: tof.xml,v $
+Revision 1.16  2012/08/14 11:10:17  revo
+Marc Rausell: + trd ca
+
 Revision 1.15  2009/05/07 16:31:39  revo
 Jozefo Horvath: +trd hu
 
@@ -94,8 +102,5 @@ Revision 1.10  2006/02/15 17:35:21  revo
 Tulio Flores: +trd pt
 
 Revision 1.9  2004/12/07 17:31:26  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2004/12/06 17:32:22  revo
 -->
 </vortaro>

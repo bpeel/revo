@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lan.xml,v 1.15 2012/06/04 00:10:08 revo Exp $">
+<art mrk="$Id: lan.xml,v 1.17 2012/09/03 09:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lan</rad>/o
@@ -29,6 +29,7 @@
     <trd>&c_p;&c_o;&c_w;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="br">gloan</trd>
+  <trd lng="ca">llana</trd>
   <trd lng="de">Wolle</trd>
   <trd lng="el">&my;&alfa;&lambda;&lambda;&jota_ton;</trd>
   <trd lng="en">wool</trd>
@@ -36,6 +37,7 @@
   <trd lng="fr">laine</trd>
   <trd lng="hu">gyapj&uacute;</trd>
   <trd lng="nl">wol</trd>
+  <trd lng="pl">we&lstroke;na</trd>
   <trd lng="pt">l&atilde;</trd>
   <trd lng="ru">&c_sh;&c_je;&c_r;&c_s;&c_t;&c_mol;</trd>
   <trd lng="tr">y&uuml;n</trd>
@@ -43,6 +45,12 @@
 </art>
 <!--
 $Log: lan.xml,v $
+Revision 1.17  2012/09/03 09:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2012/08/27 06:10:14  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.15  2012/06/04 00:10:08  revo
 Tulio Flores: korekto traduko pt
 
@@ -59,11 +67,5 @@ Revision 1.11  2002/07/09 17:33:49  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.10  2001/11/14 19:12:30  revo
-Yury Finkel: +trd ru
-
-Revision 1.9  2001/10/14 08:44:52  revo
-Jerome Vachey: + fak teks
-
-Revision 1.8  2001/07/31 18:13:20  revo
 -->
 </vortaro>

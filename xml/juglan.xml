@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: juglan.xml,v 1.30 2012/04/01 10:10:12 revo Exp $">
+<art mrk="$Id: juglan.xml,v 1.31 2012/09/04 14:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>jugland</rad>/o
@@ -21,6 +21,7 @@
 &c_a;&c_r;&c_e;&c_h;</trd>
   <trd lng="bg">&c_o;&c_r;&c_je;&c_h;</trd>
   <trd lng="br">krao&ntilde;enn<klr tip="ind"> (frouezhenn)</klr></trd>
+  <trd lng="ca">nou</trd>
   <trd lng="de">Walnuss</trd>
   <trd lng="en">walnut</trd>
   <trd lng="es">nuez <klr>de nogal</klr></trd> 
@@ -64,6 +65,10 @@
     <trd>krao&ntilde;enn<klr tip="ind"> (gwezenn)</klr></trd>,
     <trd>gwezenn-grao&ntilde;</trd>,
   </trdgrp>
+  <trdgrp lng="ca">
+    <trd>nouer</trd>,
+    <trd>noguera</trd>
+  </trdgrp>
   <trd lng="de">Walnussbaum</trd>
   <trd lng="en">walnut</trd>
   <trd lng="es">nogal</trd> 
@@ -82,6 +87,9 @@
 </art>
 <!--
 $Log: juglan.xml,v $
+Revision 1.31  2012/09/04 14:10:16  revo
+Marc Rausell: + trd ca
+
 Revision 1.30  2012/04/01 10:10:12  revo
 Carlos Garcia: +trd es -o -ujo
 
@@ -101,8 +109,5 @@ Revision 1.25  2005/04/06 16:36:16  revo
 Alan ar Gall: +trd br
 
 Revision 1.24  2003/04/28 16:32:32  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.23  2002/05/09 18:42:27  revo
 -->
 </vortaro>

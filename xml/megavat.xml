@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: megavat.xml,v 1.5 2010/04/14 06:05:53 revo Exp $">
+<art mrk="$Id: megavat.xml,v 1.6 2012/08/19 18:10:36 revo Exp $">
 <kap>
   <rad>megavat</rad>/o
 </kap>
@@ -25,6 +25,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="ca">
+    <trd>megawatt</trd>,
+    <trd>MW</trd>
+  </trdgrp>
   <trd lng="de">Megawatt</trd>
     <trd lng="es">megavatio</trd>
   <trd lng="fr">m&eacute;gawatt</trd>
@@ -35,6 +39,9 @@
 
 <!--
 $Log: megavat.xml,v $
+Revision 1.6  2012/08/19 18:10:36  revo
+Marc Rausell: + trd ca
+
 Revision 1.5  2010/04/14 06:05:53  revo
 Jose Antonio del Barrio: aldono de hispana traduko
 

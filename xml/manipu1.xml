@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: manipu1.xml,v 1.8 2006/07/29 16:32:54 revo Exp $">
+<art mrk="$Id: manipu1.xml,v 1.9 2012/08/19 12:10:13 revo Exp $">
 <kap>
   <rad>manipulator</rad>/o
 </kap>
@@ -19,6 +19,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_n;&c_ib;&c_p;&c_u;&c_l;&c_ja;&c_t;&c_a;&c_r;</trd>
+  <trd lng="ca">manipulador<klr> (tecnol.)</klr></trd>
   <trd lng="hu">manipul&aacute;tor</trd>
   <trd lng="nl">manipulator</trd>
   <trd lng="pt">manipulador</trd>
@@ -27,6 +28,9 @@
 </art>
 <!--
 $Log: manipu1.xml,v $
+Revision 1.9  2012/08/19 12:10:13  revo
+Marc Rausell: + trd ca
+
 Revision 1.8  2006/07/29 16:32:54  revo
 Tulio Flores: +tr pt
 
@@ -44,4 +48,3 @@ Paul Peeraerts: ald trd nl
 
 -->
 </vortaro>
-

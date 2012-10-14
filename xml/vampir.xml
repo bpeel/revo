@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vampir.xml,v 1.17 2009/02/23 17:30:54 revo Exp $">
+<art mrk="$Id: vampir.xml,v 1.18 2012/08/11 18:10:21 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>vampir</rad>/o
@@ -58,6 +58,7 @@
     <trd lng="pt">vampiro<klr tip="amb"> (explorador)</klr></trd>
     <trd lng="sv">blodsugare</trd>
   </snc>
+  <trd lng="ca">vampir</trd>
   <trd lng="en">vampire</trd>
   <trd lng="es">vampiro</trd>
   <trdgrp lng="fr">
@@ -70,6 +71,9 @@
 </art>
 <!--
 $Log: vampir.xml,v $
+Revision 1.18  2012/08/11 18:10:21  revo
+Marc Rausell: + trd ca
+
 Revision 1.17  2009/02/23 17:30:54  revo
 Russ Williams: +trd en
 
@@ -89,8 +93,5 @@ Revision 1.12  2002/05/07 16:35:22  revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.11  2002/03/15 17:32:34  revo
-Yury Finkel: +trd ru
-
-Revision 1.10  2001/11/11 19:18:07  revo
 -->
 </vortaro>

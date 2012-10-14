@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: transl.xml,v 1.8 2006/02/16 17:33:45 revo Exp $">
+<art mrk="$Id: transl.xml,v 1.9 2012/08/14 13:10:15 revo Exp $">
 <kap>
   <rad>translaci</rad>/o
 </kap>
@@ -31,7 +31,8 @@
       <klr>(en <ref cel="spac.afina0o">afina spaco</ref>,
       la&ubreve; vektoro <frm>&tau;</frm>)</klr>
       <ref cel="afin.0a.bildigo">Afina</ref>
-      <ref tip="super" cel="bild.0igo.MAT">bildigo</ref>, kiu &jcirc;etas punkton
+      <ref tip="super" cel="bild.0igo.MAT">bildigo</ref>, kiu &jcirc;etas
+      punkton
       <frm>M</frm> al <frm>&tau;+M</frm>; alidire: <ref
       cel="operac.ekstera0o.elemento">operacio</ref>
       de vektoro <frm>&tau;</frm> super la koncerna afina spaco:
@@ -60,11 +61,16 @@
     <trd lng="nl">overdracht<klr tip="ind"> (recht)</klr></trd>
     <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_d;&c_a;&c_ch;&c_a; <klr tip="amb">(&c_p;&c_r;&c_a;&c_v;)</klr></trd>
   </snc>
-  <trd lng="fr">translation<klr tip="ind"> (m&eacute;c., math., droit)</klr></trd>
+  <trd lng="ca">translaci&oacute;</trd>
+  <trd lng="fr">translation<klr tip="ind"> (m&eacute;c., math.,
+  droit)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: transl.xml,v $
+Revision 1.9  2012/08/14 13:10:15  revo
+Marc Rausell: + trd ca
+
 Revision 1.8  2006/02/16 17:33:45  revo
 Tulio Flores: +trd pt
 
@@ -85,4 +91,3 @@ Revision 1.1 2001/10/14 08:50:49 revo
 Marc Bavant: nova artikolo
 -->
 </vortaro>
-

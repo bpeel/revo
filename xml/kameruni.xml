@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kameruni.xml,v 1.8 2011/02/15 16:10:16 revo Exp $">
+  <art mrk="$Id: kameruni.xml,v 1.9 2012/09/01 08:10:22 revo Exp $">
     <kap>
       <rad>Kameruni</rad>/o <fnt><bib>PIV1</bib></fnt>
     </kap>
@@ -45,6 +45,10 @@
       </snc>
       <ref tip="sin" cel="kamerun.K0o.GEOG">Kameruno<sncref/></ref>
       <trd lng="bg">&c_K;&c_a;&c_m;&c_je;&c_r;&c_u;&c_n;</trd>
+      <trdgrp lng="ca">
+        <trd>el <ind>Camerun</ind></trd>,
+        <trd>Rep&uacute;blica del <ind>Camerun</ind></trd>
+      </trdgrp>
       <trd lng="de">Kamerun</trd>
       <trd lng="en">Cameroon</trd>
       <trd lng="fr">Cameroun</trd>
@@ -84,6 +88,7 @@
           </ekz>
         </dif>
       </snc>
+      <trd lng="ca">camerun&eacute;s<klr> (adj.)</klr></trd>
       <trd lng="fr">camerounais<klr> (adj.)</klr></trd>
       <trdgrp lng="it">
       <trd>camerunese<klr> (agg.)</klr></trd>,
@@ -111,6 +116,7 @@
           </ekz>
         </dif>
       </snc>
+      <trd lng="ca">camerun&eacute;s<klr> (subst.)</klr></trd>
       <trd lng="fr">camerounais<klr> (subst.)</klr></trd>
       <trdgrp lng="it">
       <trd>camerunese<klr> (sost. m.)</klr></trd>,
@@ -137,6 +143,7 @@
           </ekz>
         </dif>
       </snc>
+      <trd lng="ca">camerunesa<klr> (subst.)</klr></trd>
       <trd lng="fr">camerounaise<klr> (subst.)</klr></trd>
       <trdgrp lng="it">
       <trd>camerunese<klr> (sost. f.)</klr></trd>,
@@ -150,6 +157,9 @@
 
   <!--
   $Log: kameruni.xml,v $
+  Revision 1.9  2012/09/01 08:10:22  revo
+  Marc Rausell: + trd ca
+
   Revision 1.8  2011/02/15 16:10:16  revo
   Luiz Portella: kor. ref k mrk
 

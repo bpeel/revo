@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekzemp1.xml,v 1.19 2011/03/27 12:10:10 revo Exp $">
+<art mrk="$Id: ekzemp1.xml,v 1.20 2012/09/05 09:10:32 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>ekzempler</rad>/o
@@ -57,6 +57,7 @@
      <trd>&c_e;&c_k;&c_z;&c_e;&c_m;&c_p;&c_l;&c_ja;&c_r;</trd>,
      <trd>&c_a;&c_s;&c_o;&c_b;&c_n;&c_ib;&c_k;</trd>
    </trdgrp>
+   <trd lng="ca">exemplar</trd>
    <trdgrp lng="de">
      <trd>Exemplar</trd>
    </trdgrp>
@@ -115,6 +116,7 @@
        <ref cel="specim.0o">specimeno</ref>
      </refgrp>
    </snc>
+   <trd lng="ca">exemplar de mostra</trd>
    <trdgrp lng="en">
      <trd>trial copy</trd>,
      <trd>sample</trd>,
@@ -141,6 +143,9 @@
 </art>
 <!--
 $Log: ekzemp1.xml,v $
+Revision 1.20  2012/09/05 09:10:32  revo
+Marc Rausell: + trd ca
+
 Revision 1.19  2011/03/27 12:10:10  revo
 Russ Williams: +trd en
 
@@ -160,8 +165,5 @@ Revision 1.14  2003/12/16 17:32:37  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.13  2003/09/11 16:30:34  revo
-Marc Bavant: +drv prov~o
-
-Revision 1.12 2002/07/26 17:30:38 revo
 -->
 </vortaro>

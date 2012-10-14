@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: acerb.xml,v 1.4 2011/09/29 12:10:16 revo Exp $">
+<art mrk="$Id: acerb.xml,v 1.5 2012/08/22 16:10:10 revo Exp $">
 <kap>
   <rad>acerb</rad>/a <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -50,11 +50,18 @@
     </trdgrp>
     <trd lng="it">immaturo</trd>
   </snc>
+  <trdgrp lng="ca">
+    <trd>acerb</trd>,
+    <trd>agrenc</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: acerb.xml,v $
+Revision 1.5  2012/08/22 16:10:10  revo
+Marc Rausell: + trd ca
+
 Revision 1.4  2011/09/29 12:10:16  revo
 Antonio Codazzi: +trd it
 

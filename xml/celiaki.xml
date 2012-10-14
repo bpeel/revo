@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: celiaki.xml,v 1.2 2010/12/09 17:31:15 revo Exp $">
+<art mrk="$Id: celiaki.xml,v 1.3 2012/08/26 11:10:18 revo Exp $">
 <kap>
     <rad>celiaki</rad>/o
 </kap>
@@ -14,6 +14,11 @@
       Malsano kiu dama&gcirc;as maldikan inteston pro netolereco por gluteno.
     </dif>
   </snc>
+  <trdgrp lng="ca">
+    <trd>malaltia <ind>cel&iacute;ac</ind>a</trd>,
+    <trd>celiaquia</trd>,
+    <trd>malaltia de Thaysen</trd>
+  </trdgrp>
   <trd lng="de">Z&ouml;liakie</trd>
   <trdgrp lng="fr">
     <trd>maladie coeliaque</trd>,
@@ -26,6 +31,9 @@
 
 <!--
 $Log: celiaki.xml,v $
+Revision 1.3  2012/08/26 11:10:18  revo
+Marc Rausell: + trd ca
+
 Revision 1.2  2010/12/09 17:31:15  revo
 Wieland Pusch: +trd de
 

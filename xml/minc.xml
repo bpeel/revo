@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: minc.xml,v 1.5 2010/05/18 16:30:34 revo Exp $">
+<art mrk="$Id: minc.xml,v 1.6 2012/09/19 09:10:19 revo Exp $">
 <kap>
 <rad>minc</rad>/a
 </kap>
@@ -18,6 +18,10 @@
     <vrk>La Baptofilino</vrk><lok>Fonto, jaro 2002a, p. 15a</lok></fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="ca">
+    <trd>prim</trd>,
+    <trd>minso</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>mager</trd>,
     <trd>d&uuml;nn</trd>,
@@ -51,6 +55,9 @@
 
 <!--
 $Log: minc.xml,v $
+Revision 1.6  2012/09/19 09:10:19  revo
+Marc Rausell: + trd ca
+
 Revision 1.5  2010/05/18 16:30:34  revo
 Behnam Tabatabai: +trd fa
 

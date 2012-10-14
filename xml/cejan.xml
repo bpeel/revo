@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cejan.xml,v 1.17 2009/08/08 16:33:33 revo Exp $">
+<art mrk="$Id: cejan.xml,v 1.18 2012/08/25 18:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>cejan</rad>/o
@@ -21,6 +21,11 @@
     </dif>
   <trd lng="be">&c_v;&c_a;&c_l;&c_o;&c_sh;&c_k;&c_a;</trd>
   <trd lng="br">glizinenn</trd>
+  <trdgrp lng="ca">
+    <trd>blauet</trd>,
+    <trd>angelet</trd>,
+    <trd>capblau</trd>
+  </trdgrp>
   <trd lng="de">Kornblume</trd>
   <trd lng="en">cornflower</trd>
   <trd lng="fr">bleuet <klr tip="ind">(fleur)</klr></trd>
@@ -41,6 +46,7 @@
 Koloro inter blua kaj verda, grava en subtrahaj kolormodeloj por inkaj 
 presiloj kaj fotokompostado.
     </dif>
+    <trd lng="ca">cian</trd>
     <trd lng="en">cyan</trd>
     <trd lng="it">ciano</trd>
   </snc>
@@ -54,6 +60,9 @@ Rilata al <tld/>o.
 </art>
 <!--
 $Log: cejan.xml,v $
+Revision 1.18  2012/08/25 18:10:15  revo
+Marc Rausell: + trd ca
+
 Revision 1.17  2009/08/08 16:33:33  revo
 Russ Williams: +trd en
 
@@ -73,8 +82,5 @@ Revision 1.12 2002/08/29 17:36:41 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.11 2002/03/20 17:35:10 revo
-Yury Finkel: formatigis
-
-Revision 1.10 2001/02/21 20:06:41 revo
 -->
 </vortaro>

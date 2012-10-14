@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: grinc.xml,v 1.17 2008/11/21 17:57:44 revo Exp $">
+<art mrk="$Id: grinc.xml,v 1.18 2012/08/19 00:11:26 revo Exp $">
 <kap><ofc>*</ofc>
   <rad>grinc</rad>/i
 </kap>
@@ -89,6 +89,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="ca">fer <ind>grinyolar</ind></trd>
   <trd lng="fr">faire <ind>grincer</ind></trd>
   <trdgrp lng="hu">
     <trd>csikorogat</trd>,
@@ -100,6 +101,9 @@
 </art>
 <!--
 $Log: grinc.xml,v $
+Revision 1.18  2012/08/19 00:11:26  revo
+Marc Rausell: ++ trd ca
+
 Revision 1.17  2008/11/21 17:57:44  revo
 Wieland Pusch: entoj por unikodo
 
@@ -119,8 +123,5 @@ Revision 1.12  2004/01/10 17:31:17  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.11  2003/11/22 17:30:30  revo
-Jeromo Vasxe: kor 1 mrk, + tez
-
-Revision 1.10  2003/11/13 18:50:48  revo
 -->
 </vortaro>

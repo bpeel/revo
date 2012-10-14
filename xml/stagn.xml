@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: stagn.xml,v 1.13 2009/03/01 17:31:26 revo Exp $">
+  <art mrk="$Id: stagn.xml,v 1.14 2012/08/19 12:10:22 revo Exp $">
     <kap>
       <ofc>9</ofc>
       <rad>stagn</rad>/i
@@ -41,6 +41,7 @@
               <trd>&c_z;&c_a;&c_s;&c_t;&c_o;&c_j;</trd>, 
               <trd>&c_s;&c_t;&c_a;&c_g;&c_n;&c_a;&c_c;&c_y;&c_ja;</trd> 
             </trdgrp>
+            <trd lng="ca">estancament</trd>
             <trd lng="hu">stagn&aacute;l&aacute;s</trd>
             <trd lng="es">estancamiento</trd>
             <trdgrp lng="ru">
@@ -64,6 +65,7 @@
         <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_n;&c_je;&c_r;&c_u;&c_h;&c_o;&c_m;&c_y;&c_m;</ind></trd>, 
         <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_z;&c_a;&c_s;&c_t;&c_o;&c_j;&c_n;&c_y;&c_m;</ind></trd>
       </trdgrp>
+      <trd lng="ca">estancar-se</trd>
       <trd lng="en">stagnate</trd>
       <trd lng="es">estancarse</trd>
       <trd lng="ru">&c_z;&c_a;&c_s;&c_t;&c_a;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
@@ -71,6 +73,9 @@
   </art>
   <!--
   $Log: stagn.xml,v $
+  Revision 1.14  2012/08/19 12:10:22  revo
+  Marc Rausell: + trd ca
+
   Revision 1.13  2009/03/01 17:31:26  revo
   Russ Williams: +trd en 9OA
 

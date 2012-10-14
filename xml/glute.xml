@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: glute.xml,v 1.16 2010/11/21 17:30:27 revo Exp $">
+<art mrk="$Id: glute.xml,v 1.17 2012/08/19 00:10:38 revo Exp $">
 <kap><rad>glute</rad>/o</kap>
 <drv mrk="glute.0o">
   <kap><tld/>o</kap>
@@ -14,6 +14,7 @@
     <trd>&c_s;&c_je;&c_d;&c_a;&c_w;&c_k;&c_a;</trd>,
     <trd>&c_ja;&c_g;&c_a;&c_d;&c_z;&c_ib;&c_c;&c_a;</trd>
   </trdgrp>
+  <trd lng="ca">natja</trd>
   <trdgrp lng="de">
     <trd>Ges&auml;&szlig;backe</trd>,
     <trd>Hinterbacke</trd>
@@ -36,6 +37,9 @@
 </art>
 <!--
 $Log: glute.xml,v $
+Revision 1.17  2012/08/19 00:10:38  revo
+Marc Rausell: + trd ca
+
 Revision 1.16  2010/11/21 17:30:27  revo
 Antonio Codazzi: +trd it
 
@@ -55,8 +59,5 @@ Revision 1.11  2004/02/22 17:31:30  revo
 Marc Bavant: mod ref tip cel al sidvango
 
 Revision 1.10  2004/01/06 17:31:18  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9  2003/11/18 17:31:08  revo
 -->
 </vortaro>

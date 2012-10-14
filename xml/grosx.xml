@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: grosx.xml,v 1.16 2008/11/21 17:57:45 revo Exp $">
+<art mrk="$Id: grosx.xml,v 1.17 2012/08/19 09:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>gro&scirc;</rad>/o
@@ -26,6 +26,7 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_g;&c_r;&c_o;&c_sh;</trd>
+  <trd lng="ca">groschen</trd>
   <trd lng="de">Groschen</trd>
   <trdgrp lng="en">
     <trd>groschen<klr tip="ind"> (low value coin)</klr></trd>,
@@ -48,6 +49,9 @@
 
 <!--
 $Log: grosx.xml,v $
+Revision 1.17  2012/08/19 09:10:20  revo
+Marc Rausell: + trd ca
+
 Revision 1.16  2008/11/21 17:57:45  revo
 Wieland Pusch: entoj por unikodo
 
@@ -67,8 +71,5 @@ Revision 1.11  2002/08/29 17:35:27  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.10  2002/01/10 20:33:31  revo
-fontindiko PrV per programo de Jerome
-
-Revision 1.9  2001/11/25 17:34:04  revo
 -->
 </vortaro>

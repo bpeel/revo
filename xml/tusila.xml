@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tusila.xml,v 1.16 2009/08/26 16:31:24 revo Exp $">
+<art mrk="$Id: tusila.xml,v 1.17 2012/08/14 16:10:12 revo Exp $">
 <kap>
   <rad>tusilag</rad>/o
 </kap>
@@ -29,6 +29,10 @@
     <tld/>o
   </bld>
   <trd lng="be">&c_p;&c_a;&c_d;&c_b;&c_je;&c_l;</trd>
+  <trdgrp lng="ca">
+    <trd>pota de cavall</trd>,
+    <trd>tuss&iacute;lag</trd>
+  </trdgrp>
   <trd lng="de">Huflattich</trd>
   <trd lng="fa">&f_p;&a_A;&f_y; &a_kh;&a_r;</trd>
   <trdgrp lng="fr">
@@ -51,6 +55,9 @@
 </art>
 <!--
 $Log: tusila.xml,v $
+Revision 1.17  2012/08/14 16:10:12  revo
+Marc Rausell: + trd ca
+
 Revision 1.16  2009/08/26 16:31:24  revo
 Behnam Tabatabai: +trd fa
 
@@ -70,8 +77,5 @@ Revision 1.11 2002/09/12 16:33:18 revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.10 2002/05/15 16:36:55 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9 2002/03/14 17:33:15 revo
 -->
 </vortaro>

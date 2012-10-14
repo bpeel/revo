@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gomb.xml,v 1.6 2009/07/12 16:30:28 revo Exp $">
+<art mrk="$Id: gomb.xml,v 1.7 2012/08/19 00:10:49 revo Exp $">
 <kap>
   <rad>gomb</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -45,6 +45,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="ca">
+    <trd>ocra</trd>,
+    <trd>gombo</trd>
+  </trdgrp>
   <trd lng="de">Okra</trd>
   <trd lng="en">okra</trd>
   <trd lng="fa">&a_b;&a_A;&a_m;&f_y;&a_h;</trd>
@@ -59,6 +63,9 @@
 
 <!--
 $Log: gomb.xml,v $
+Revision 1.7  2012/08/19 00:10:49  revo
+Marc Rausell: + trd ca
+
 Revision 1.6  2009/07/12 16:30:28  revo
 Behnam Tabatabai: +trd fa
 

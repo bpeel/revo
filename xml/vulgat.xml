@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vulgat.xml,v 1.7 2007/05/23 16:30:36 revo Exp $">
+<art mrk="$Id: vulgat.xml,v 1.8 2012/08/13 00:10:15 revo Exp $">
 <kap>
   <rad>Vulgat</rad>/o
   <fnt>PIV</fnt>
@@ -25,6 +25,7 @@
     </rim>
   </snc>
   <trd lng="be">&c_V;&c_u;&c_l;&c_mol;&c_g;&c_a;&c_t;&c_a;</trd>
+  <trd lng="ca">Vulgata</trd>
   <trd lng="de">Vulgata</trd>
   <trd lng="en">Vulgate</trd>
   <trd lng="hu">Vulgata</trd>
@@ -39,6 +40,9 @@
 
 <!--
 $Log: vulgat.xml,v $
+Revision 1.8  2012/08/13 00:10:15  revo
+Marc Rausell: + trd ca
+
 Revision 1.7  2007/05/23 16:30:36  revo
 Wieland Pusch: +trd de
 
@@ -58,7 +62,5 @@ Revision 1.2  2001/11/16 19:12:37  revo
 Sergio Pokrovskij: -tajperaro
 
 Revision 1.1  2001/11/15 19:16:31  revo
-Sergio Pokrovskij: nova artikolo
-
 -->
 </vortaro>

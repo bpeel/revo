@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tercet.xml,v 1.15 2010/10/20 16:31:12 revo Exp $">
+<art mrk="$Id: tercet.xml,v 1.16 2012/08/13 20:10:34 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>tercet</rad>/o
@@ -16,6 +16,10 @@
     </dif>
       <ref tip="sin" cel="tri1.0o">trio</ref>
       <trd lng="be">&c_t;&c_e;&c_r;&c_c;&c_e;&c_t;</trd>
+      <trdgrp lng="ca">
+        <trd>trio</trd>,
+        <trd>tercet</trd>
+      </trdgrp>
       <trd lng="de">Terzett</trd>
       <trd lng="en">trio</trd>
       <trd lng="fr">trio<klr> (pi&egrave;ce de musique)</klr></trd>
@@ -32,6 +36,9 @@
 </art>
 <!--
 $Log: tercet.xml,v $
+Revision 1.16  2012/08/13 20:10:34  revo
+Marc Rausell: + trd ca
+
 Revision 1.15  2010/10/20 16:31:12  revo
 Jerano Zachrisson: +trd sv
 
@@ -51,8 +58,5 @@ Revision 1.10 2004/11/26 17:32:01 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9 2003/09/18 16:31:06 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8 2002/03/11 17:33:23 revo
 -->
 </vortaro>

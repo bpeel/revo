@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: antecedent.xml,v 1.4 2010/04/30 12:25:25 revo Exp $">
+<art mrk="$Id: antecedent.xml,v 1.5 2012/08/26 19:10:09 revo Exp $">
 <kap>
   <rad>antecedent</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -11,7 +11,9 @@
   <uzo tip="stl">RAR</uzo>
   <snc mrk="antecedent.0o.KOMUNE">
     <dif>
-      Pli frua simila a&ubreve; samtema afero, anta&ubreve;a&jcirc;o:
+      Pli frua simila a&ubreve; samtema afero;
+      <ref tip="vid" cel="preced.0o">precedenco</ref>;
+      <ref tip="vid" cel="antaux.0ajxo.tempe">anta&ubreve;a&jcirc;o<sncref/></ref>:
       <ekz>
         la moderna matematika senco de <ctl>funkcio</ctl> havas siajn 
         <tld/>ojn en la analiza geometrio de Kartezio
@@ -83,6 +85,9 @@
 
 <!--
 $Log: antecedent.xml,v $
+Revision 1.5  2012/08/26 19:10:09  revo
+Jeromo Vasxe: + 2 ref
+
 Revision 1.4  2010/04/30 12:25:25  revo
 Antonio Codazzi: +trd it
 

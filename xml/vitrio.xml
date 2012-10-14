@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vitrio.xml,v 1.12 2009/08/18 19:17:26 revo Exp $">
+<art mrk="$Id: vitrio.xml,v 1.13 2012/08/12 17:10:24 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>vitriol</rad>/o
@@ -16,6 +16,10 @@
      </dif>
    </snc>
    <trd lng="be">&c_k;&c_u;&c_p;&c_a;&c_r;&c_v;&c_a;&c_s;</trd>
+   <trdgrp lng="ca">
+     <trd>oli de <ind>vidriol</ind></trd>,
+     <trd>&agrave;cid sulf&uacute;ric concentrat</trd>
+   </trdgrp>
    <trd lng="de">Vitriol</trd>
    <trdgrp lng="en">
      <trd>vitriol</trd>,
@@ -32,6 +36,9 @@ lng="el">&beta;&jota;&tau;&rho;&jota;&omikron_ton;&lambda;&jota;</trd>
 </art>
 <!--
 $Log: vitrio.xml,v $
+Revision 1.13  2012/08/12 17:10:24  revo
+Marc Rausell: + trd ca
+
 Revision 1.12  2009/08/18 19:17:26  revo
 Russ Williams: +trd en
 
@@ -51,8 +58,5 @@ Revision 1.7  2002/03/19 17:33:16  revo
 Yury Finkel: +trd ru
 
 Revision 1..6 2001/04/17 16:20:54 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.5 2001/03/16 17:10:59 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: univer.xml,v 1.25 2010/04/16 16:31:29 revo Exp $">
+<art mrk="$Id: univer.xml,v 1.26 2012/08/13 14:10:25 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>univers</rad>/o <fnt><bib>PV</bib></fnt>
@@ -118,12 +118,16 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="ca"><ind>univers</ind> paral&middot;lel</trd>
   <trd lng="fr">univers parall&egrave;le</trd>
   <trd lng="it"><ind>universo</ind> parallelo</trd>
 </drv>
 </art>
 <!--
 $Log: univer.xml,v $
+Revision 1.26  2012/08/13 14:10:25  revo
+Marc Rausell: ++ trd ca
+
 Revision 1.25  2010/04/16 16:31:29  revo
 Antonio Codazzi: +td it
 
@@ -143,8 +147,5 @@ Revision 1.20  2006/09/07 16:56:58  revo
 Axel Rousseau: +trd tp
 
 Revision 1.19  2005/12/21 17:32:49  revo
-Jeromo Vasxe: kor. tez.
-
-Revision 1.18 2005/04/24 16:33:21 revo
 -->
 </vortaro>

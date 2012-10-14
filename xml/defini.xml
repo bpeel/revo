@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: defini.xml,v 1.15 2009/05/24 11:27:11 revo Exp $">
+<art mrk="$Id: defini.xml,v 1.16 2012/09/04 08:10:12 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>definitiv</rad>/a
@@ -30,6 +30,11 @@
   <trdgrp lng="be">
     <trd>&c_k;&c_a;&c_n;&c_ch;&c_a;&c_t;&c_k;&c_o;&c_v;&c_y;</trd>,
     <trd>&c_d;&c_e;&c_f;&c_ib;&c_n;&c_ib;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>definitiu</trd>,
+    <trd>decisiu</trd>,
+    <trd>concloent</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>endg&uuml;tig</trd>,
@@ -76,6 +81,11 @@ lng="ru">&c_o;&c_k;&c_o;&c_n;&c_ch;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</
       <ref cel="difin.0i">difini</ref>.
     </refgrp>
   </snc>
+  <trdgrp lng="ca">
+    <trd>confirmar</trd>,
+    <trd>refermar</trd>,
+    <trd>ratificar</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>confirm</trd>,
     <trd>ratify</trd>
@@ -95,6 +105,9 @@ lng="ru">&c_o;&c_k;&c_o;&c_n;&c_ch;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</
 </art>
 <!--
 $Log: defini.xml,v $
+Revision 1.16  2012/09/04 08:10:12  revo
+Marc Rausell: + trd ca
+
 Revision 1.15  2009/05/24 11:27:11  revo
 Russ Williams: +trd en
 
@@ -114,8 +127,5 @@ Revision 1.10 2003/04/08 16:32:12 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9 2002/09/13 16:33:22 revo
-Viliam Bur: +trd sk
-
-Revision 1.8 2002/05/21 16:37:10 revo
 -->
 </vortaro>

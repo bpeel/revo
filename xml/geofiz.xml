@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: geofiz.xml,v 1.13 2009/08/24 16:31:40 revo Exp $">
+<art mrk="$Id: geofiz.xml,v 1.14 2012/08/18 20:10:18 revo Exp $">
 <kap>
   <rad>geofizik</rad>/o
 </kap>
@@ -18,6 +18,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_je;&c_a;&c_f;&c_ib;&c_z;&c_ib;&c_k;&c_a;</trd>
+  <trd lng="ca">geof&iacute;sica</trd>
   <trd lng="de">Geophysik</trd>
   <trd lng="fr">g&eacute;ophysique</trd>
   <trd lng="hu">geofizika</trd>
@@ -36,6 +37,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_je;&c_a;&c_f;&c_ib;&c_z;&c_ib;&c_k;</trd>
+  <trd lng="ca">geof&iacute;sic</trd>
   <trd lng="de">Geophysiker</trd>
   <trd lng="fr">g&eacute;ophysicien</trd>
   <trd lng="hu">geofizikus</trd>
@@ -46,6 +48,9 @@
 </art>
 <!--
 $Log: geofiz.xml,v $
+Revision 1.14  2012/08/18 20:10:18  revo
+Marc Rausell: + trd ca
+
 Revision 1.13  2009/08/24 16:31:40  revo
 Emmanuel Debanne: +trd tr
 
@@ -65,8 +70,5 @@ Revision 1.8  2001/12/17 17:32:33  revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.7  2001/10/15 18:22:29  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.6  2001/10/09 18:41:05  revo
 -->
 </vortaro>

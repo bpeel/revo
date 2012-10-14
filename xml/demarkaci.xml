@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: demarkaci.xml,v 1.4 2009/09/23 17:25:26 revo Exp $">
+<art mrk="$Id: demarkaci.xml,v 1.5 2012/09/04 11:10:15 revo Exp $">
 <kap>
   <rad>demarkaci</rad>/i
   <fnt><bib>SPV</bib></fnt>
@@ -12,6 +12,7 @@
   <uzo tip="stl">RAR</uzo>
   <snc mrk="demarkaci.0i.KOMUNE">
     <ref tip="dif" cel="lim.0igi.krei.limon">limigi <sncref/></ref>
+    <trd lng="ca">demarcar</trd>
     <trd lng="nl">aflijnen</trd>
     <trd lng="pt">demarcar</trd>
   </snc>
@@ -51,12 +52,16 @@
     </ekz>
     <trd lng="pl">linia <ind>demarkacyjna</ind></trd>
   </snc>
+  <trd lng="ca">demarcaci&oacute;</trd>
   <trd lng="nl">demarcatie</trd>
 </drv>
 </art>
 
 <!--
 $Log: demarkaci.xml,v $
+Revision 1.5  2012/09/04 11:10:15  revo
+Marc Rausell: + trd ca
+
 Revision 1.4  2009/09/23 17:25:26  revo
 Paul Peeraerts: +nl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: laf.xml,v 1.15 2005/04/06 16:36:49 revo Exp $">
+<art mrk="$Id: laf.xml,v 1.16 2012/08/13 00:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>laf</rad>/o
@@ -25,6 +25,7 @@
     <trd>lava</trd>,
     <trd>maen-teuz</trd>
   </trdgrp>
+  <trd lng="ca">lava</trd>
   <trd lng="de">Lava</trd>
   <trd lng="el">&lambda;&alfa_ton;&beta;&alfa;</trd>
   <trd lng="en">lava</trd>
@@ -39,6 +40,9 @@
 </art>
 <!--
 $Log: laf.xml,v $
+Revision 1.16  2012/08/13 00:10:19  revo
+Marc Rausell: + trd ca
+
 Revision 1.15  2005/04/06 16:36:49  revo
 Alan ar Gall: +trd br
 
@@ -58,8 +62,5 @@ Revision 1.10  2001/11/13 19:14:36  revo
 Yury Finkel: +trd ru, +uzo GEOL,MIN
 
 Revision 1.9  2001/09/05 19:00:41  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.8  2001/07/20 12:45:59  revo
 -->
 </vortaro>

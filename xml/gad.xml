@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gad.xml,v 1.16 2007/04/28 16:30:32 revo Exp $">
+<art mrk="$Id: gad.xml,v 1.17 2012/08/18 16:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>gad</rad>/o
@@ -16,6 +16,10 @@
       (<trd lng="la">Gadus</trd>), marfi&scirc;o.
     </dif>
   </snc>
+  <trdgrp lng="ca">
+    <trd>bacall&agrave;</trd>,
+    <trd>abadejo</trd>
+  </trdgrp>
   <trd lng="de">Dorsch</trd>
   <trdgrp lng="fr">
     <trd>cabillaud</trd>,
@@ -38,6 +42,7 @@
       (<trd lng="la">Gadiformes</trd>).
     </dif>
   </snc>
+  <trd lng="ca">gadiformes</trd>
   <trd lng="de">Dorschartige</trd>
   <trd lng="fr">gadiformes</trd>
   <trd lng="hu">t&odblac;kehal-alak&uacute;ak</trd>
@@ -47,6 +52,9 @@
 </art>
 <!--
 $Log: gad.xml,v $
+Revision 1.17  2012/08/18 16:10:16  revo
+Marc Rausell: + trd ca
+
 Revision 1.16  2007/04/28 16:30:32  revo
 Tulio Flores: +tr pt
 
@@ -66,9 +74,5 @@ Revision 1.11 2001/10/11 18:17:31 revo
 Marc Bavant: kompletigis trd fr
 
 Revision 1.10 2001/10/08 18:15:04 revo
-Marc Bavant: +trd fr
-
-Revision 1.9 2001/05/11 20:03:32 revo
 -->
 </vortaro>
-

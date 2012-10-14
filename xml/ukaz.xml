@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-   <art mrk="$Id: ukaz.xml,v 1.17 2009/08/28 16:32:22 revo Exp $">
+   <art mrk="$Id: ukaz.xml,v 1.18 2012/08/13 11:10:17 revo Exp $">
      <kap>
      	<ofc>2</ofc>
      	<rad>ukaz</rad>/o
@@ -32,6 +32,7 @@
          <aut>Sergio Pokrovskij</aut>
        </rim>
        <trd lng="be">&c_u;&c_k;&c_a;&c_z;</trd>
+       <trd lng="ca">uc&agrave;s</trd>
        <trd lng="de">Ukas</trd>
        <trd lng="en">ukase</trd>
        <trd lng="es">ucase</trd>
@@ -58,6 +59,9 @@
    </art>
    <!--
    $Log: ukaz.xml,v $
+   Revision 1.18  2012/08/13 11:10:17  revo
+   Marc Rausell: + trd ca
+
    Revision 1.17  2009/08/28 16:32:22  revo
    Sebastian Cyprych: +trd pl
 

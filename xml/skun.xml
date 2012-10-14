@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skun.xml,v 1.15 2011/02/15 11:10:09 revo Exp $">
+<art mrk="$Id: skun.xml,v 1.16 2012/08/19 00:10:46 revo Exp $">
 <kap>
   <rad>skun</rad>/o
   <fnt>Z</fnt>
@@ -23,6 +23,7 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_sh;&c_h;&c_u;&c_n;&c_a;</trd>
+  <trd lng="ca">goleta</trd>
   <trd lng="de">Schoner</trd>
   <trd lng="en">schooner</trd>
   <trdgrp lng="fr">
@@ -39,6 +40,9 @@
 </art>
 <!--
 $Log: skun.xml,v $
+Revision 1.16  2012/08/19 00:10:46  revo
+Marc Rausell: + trd ca
+
 Revision 1.15  2011/02/15 11:10:09  revo
 Russ Williams: +PV
 
@@ -58,8 +62,5 @@ Revision 1.10  2003/11/18 17:30:59  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2003/01/14 17:36:21  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.8  2003/01/03 17:31:56  revo
 -->
 </vortaro>

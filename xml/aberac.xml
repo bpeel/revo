@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aberac.xml,v 1.26 2011/01/17 16:10:12 revo Exp $">
+<art mrk="$Id: aberac.xml,v 1.28 2012/08/23 09:10:12 revo Exp $">
 <kap>
   <rad>aberaci</rad>/i
 </kap>
@@ -29,6 +29,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="ca">
+    <trd>desviar-se</trd>,
+    <trd>esgarriar-se</trd>
+  </trdgrp>
   <trd lng="es">aberrar</trd>
   <trd lng="it">aberrare</trd>
 </drv>
@@ -85,9 +89,7 @@
       <trd lng="de">Abbildungsunsch&auml;rfe</trd>
       <trdgrp lng="pl">
         <trd>aberracja<klr> &sacute;wiat&lstroke;a</klr></trd>,
-        <trd>aberracja<klr> uk&lstroke;adu optycznego (optyczna):
-        chromatyczna, sferyczna, astygmatyzm, dystorsja, koma, krzywizna
-        pola</klr></trd>
+        <trd>aberracja<klr> uk&lstroke;adu optycznego</klr></trd>
       </trdgrp>
       <trd lng="sk">chyba <klr>(&scaron;o&scaron;ovky)</klr></trd>
     </subsnc>
@@ -124,6 +126,12 @@
 </art>
 <!--
 $Log: aberac.xml,v $
+Revision 1.28  2012/08/23 09:10:12  revo
+Sebastian Cyprych: korekto de pola traduko
+
+Revision 1.27  2012/08/22 09:10:20  revo
+Marc Rausell: ++ trd ca
+
 Revision 1.26  2011/01/17 16:10:12  revo
 Antonio Codazzi: +trd it
 
@@ -140,11 +148,5 @@ Revision 1.22  2008/09/11 16:30:37  revo
 Jeromo Vasxe: kor stl/sci -> fak sci
 
 Revision 1.21  2008/09/04 19:07:51  revo
-Jeromo Vasxe: o -> i, + drv ~i, ~o: snc/subsnc + 1 ekz
-
-Revision 1.20 2007/05/11 16:30:47 revo
-Sebastian Cyprych: +snc KOMUNE; +snc MED; +uzo OPT; ~o1: +trd pl
-
-Revision 1.19 2006/05/04 16:32:23 revo
 -->
 </vortaro>

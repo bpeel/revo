@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: turkmeni.xml,v 1.5 2011/02/14 14:10:33 revo Exp $">
+<art mrk="$Id: turkmeni.xml,v 1.6 2012/08/14 15:10:38 revo Exp $">
 <kap>
   <rad>Turkmeni</rad>/o
 </kap>
@@ -23,6 +23,10 @@
       <ref tip="dif" cel="turkmen.T0ujo.GEOG">Turkmenujo</ref>.
     </dif>
     <trd lng="bg">&c_T;&c_u;&c_r;&c_k;&c_m;&c_je;&c_n;&c_i;&c_s;&c_t;&c_a;&c_n;</trd>
+    <trdgrp lng="ca">
+      <trd>el <ind>Turkmenistan</ind></trd>,
+      <trd>Rep&uacute;blica del <ind>Turkmenistan</ind></trd>
+    </trdgrp>
     <trd lng="de">Turkmenistan</trd>
     <trd lng="hu">T&uuml;rkmeniszt&aacute;n</trd>
     <trd lng="it">Turkmenistan</trd>
@@ -33,6 +37,9 @@
 
 <!--
 $Log: turkmeni.xml,v $
+Revision 1.6  2012/08/14 15:10:38  revo
+Marc Rausell: + trd ca
+
 Revision 1.5  2011/02/14 14:10:33  revo
 Luiz Portella: kor. ref k mrk
 

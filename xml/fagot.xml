@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fagot.xml,v 1.14 2011/12/21 14:10:10 revo Exp $">
+<art mrk="$Id: fagot.xml,v 1.15 2012/08/22 00:10:18 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>fagot</rad>/o <fnt><bib>PV</bib></fnt>
@@ -22,6 +22,7 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_f;&c_a;&c_g;&c_o;&c_t;</trd>
+  <trd lng="ca">fagot</trd>
   <trd lng="fr">basson</trd>
   <trd lng="en">bassoon</trd>
   <trd lng="de">Fagott</trd>
@@ -34,6 +35,9 @@
 </art>
 <!--
 $Log: fagot.xml,v $
+Revision 1.15  2012/08/22 00:10:18  revo
+Marc Rausell: + trd ca
+
 Revision 1.14  2011/12/21 14:10:10  revo
 Jeromo Vasxe: + mrk
 
@@ -53,8 +57,5 @@ Revision 1.9  2002/01/23 17:33:31  revo
 Karlo Freeman: +trd=en
 
 Revision 1.8  2001/09/28 18:14:20  revo
-Paul Peeraerts: ald trd nl + ald ref
-
-Revision 1.7  2001/04/03 16:42:22  revo
 -->
 </vortaro>

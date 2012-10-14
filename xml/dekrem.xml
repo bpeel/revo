@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: dekrem.xml,v 1.9 2007/07/19 16:31:23 revo Exp $">
+<art mrk="$Id: dekrem.xml,v 1.10 2012/09/04 09:10:21 revo Exp $">
 <kap>
   <rad>dekrement</rad>/o
 </kap>
@@ -18,6 +18,7 @@
       Esperanto, nome : malgrandi&gcirc;o de variablo. <aut>MB</aut>
     </adm>
   </snc>
+  <trd lng="ca">decrement</trd>
   <trd lng="de">Dekrement</trd>
   <trd lng="es">decremento</trd>
   <trd lng="fr">d&eacute;cr&eacute;ment</trd>
@@ -34,10 +35,12 @@
   <uzo tip="fak">FIZ</uzo>
   <snc>
     <dif>
-      Logaritmo de la rilato de la amplitudo de unu oscilo al la sekvanta
+      Logaritmo de la rilato de la amplitudo de unu oscilo al la
+      sekvanta
       oscilo.
     </dif>
   </snc>
+  <trd lng="ca"><ind>decrement</ind> logar&iacute;tmic</trd>
   <trd lng="de">logarithmisches <ind>Dekrement</ind></trd>
   <trd lng="es"><ind>decremento</ind> logar&iacute;tmico</trd>
   <trd lng="fr">d&eacute;cr&eacute;ment logarithmique</trd>
@@ -47,6 +50,9 @@
 </art>
 <!--
 $Log: dekrem.xml,v $
+Revision 1.10  2012/09/04 09:10:21  revo
+Marc Rausell: + trd ca
+
 Revision 1.9  2007/07/19 16:31:23  revo
 Tulio Flores: +tr pt
 
@@ -67,4 +73,3 @@ Marc Bavant: +trd fr; -uzo ELE, +uzo FIZ; +adm
 
 -->
 </vortaro>
-

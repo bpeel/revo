@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kanu.xml,v 1.2 2012/08/26 12:10:29 revo Exp $">
+<kap>
+    <rad>kanu</rad>/o
+    <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="kanu.0o">
+  <kap><tld/>o</kap>
+   <snc mrk="kanu.0o.SHI">
+     <uzo tip="fak">SHI</uzo>
+     <uzo tip="fak">SPO</uzo>
+     <dif>
+       Malpeza <ref tip="super" cel="boat.0o">boato</ref> kun rigida
+       &scirc;elo,
+       kondukata per simpla <ref tip="vid" cel="pagaj.0o">pagajo</ref>
+       kiajn
+       tradicie uzis indianoj.  En <tld/>o oni a&ubreve; <ref
+       cel="genu.0i">genuas</ref>
+       a&ubreve; sidas sur benko,
+     </dif>
+     <ref tip="vid" cel="kajak.0o.SHI">kajako</ref>
+     <trd lng="ca">canoa</trd>
+     <trd lng="en">canoe</trd>
+     <trdgrp lng="pl">
+       <trd>kanadyjka</trd>,
+       <trd>kanu</trd>,
+       <trd>canoe</trd>
+     </trdgrp>
+   </snc>
+</drv>
+</art>
+
+<!--
+$Log: kanu.xml,v $
+Revision 1.2  2012/08/26 12:10:29  revo
+Marc Rausell: + trd ca
+
+Revision 1.1  2012/08/24 06:10:10  revo
+Sebastian Cyprych: nova artikolo
+
+-->
+</vortaro>

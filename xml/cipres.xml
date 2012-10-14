@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cipres.xml,v 1.22 2009/08/14 16:30:39 revo Exp $">
+<art mrk="$Id: cipres.xml,v 1.23 2012/08/26 20:10:13 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>cipres</rad>/o
@@ -23,6 +23,7 @@
     <trd>siprezenn</trd>,
     <trd>gwezenn-siprez</trd>
   </trdgrp>
+  <trd lng="ca">xiprer</trd>
   <trd lng="de">Zypresse</trd>
   <trd
   lng="el">&kappa;&ypsilon;&pi;&alfa;&rho;&jota_ton;&sigma;&sigma;&jota;</trd>
@@ -42,6 +43,9 @@
 </art>
 <!--
 $Log: cipres.xml,v $
+Revision 1.23  2012/08/26 20:10:13  revo
+Marc Rausell: + trd ca
+
 Revision 1.22  2009/08/14 16:30:39  revo
 Antonio Codazzi: +trd it
 
@@ -61,8 +65,5 @@ Revision 1.17  2005/03/20 17:51:02  revo
 Alan ar Gall: + trd br
 
 Revision 1.16  2003/12/05 17:31:51  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.15  2002/05/25 16:56:59  revo
 -->
 </vortaro>

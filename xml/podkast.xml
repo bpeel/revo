@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: podkast.xml,v 1.5 2012/04/01 10:10:09 revo Exp $">
+<art mrk="$Id: podkast.xml,v 1.6 2012/08/21 09:10:22 revo Exp $">
 <kap>
   <rad>podkast</rad>/o
 </kap>
@@ -32,6 +32,7 @@
   </trdgrp>
   <trd lng="it">podcast</trd>
   <trd lng="nl">podcast</trd>
+  <trd lng="pl">podkast</trd>
 </drv>
 
 <drv mrk="podkast.0ado">
@@ -59,11 +60,15 @@
   </trdgrp>
   <trd lng="it">podcasting</trd>
   <trd lng="nl">podcasten</trd>
+  <trd lng="pl">podkasting</trd>
 </drv>
 </art>
 
 <!--
 $Log: podkast.xml,v $
+Revision 1.6  2012/08/21 09:10:22  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.5  2012/04/01 10:10:09  revo
 Wieland Pusch: +trd de
 

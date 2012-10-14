@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lar.xml,v 1.17 2011/05/05 14:10:10 revo Exp $">
+<art mrk="$Id: lar.xml,v 1.18 2012/09/03 17:10:16 revo Exp $">
 <kap>
   <rad>lar</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -18,6 +18,11 @@
   <trdgrp lng="be">
     <trd>&c_k;&c_ib;&c_r;&c_l;&c_ja;</trd>,
     <trd>&c_ch;&c_a;&c_j;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>gavi&agrave;</trd>,
+    <trd>gavina</trd>,
+    <trd>gavinot</trd>
   </trdgrp>
   <trd lng="de">M&ouml;we</trd>
   <trd lng="en">gull</trd>
@@ -44,6 +49,7 @@
       (<trd lng="la">Lariformes</trd>).
     </dif>
   </snc>
+  <trd lng="ca">caradriformes</trd>
   <trd lng="de">M&ouml;wenv&ouml;gel</trd>
   <trd lng="hu">sir&aacute;lyalak&uacute;ak</trd>
   <trdgrp lng="nl">
@@ -55,6 +61,9 @@
 </art>
 <!--
 $Log: lar.xml,v $
+Revision 1.18  2012/09/03 17:10:16  revo
+Marc Rausell: + trd ca
+
 Revision 1.17  2011/05/05 14:10:10  revo
 Russ Williams: +trd en
 
@@ -74,8 +83,5 @@ Revision 1.12  2004/08/21 19:44:58  revo
 Jeromo Vasxe: + 1 trd fr
 
 Revision 1.11 2004/05/06 16:32:00 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10 2002/07/05 17:33:40 revo
 -->
 </vortaro>

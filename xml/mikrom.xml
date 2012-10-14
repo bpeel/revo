@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mikrom.xml,v 1.14 2006/08/02 16:32:46 revo Exp $">
+<art mrk="$Id: mikrom.xml,v 1.15 2012/08/19 20:10:51 revo Exp $">
 <kap>
    <ofc>2</ofc>
    <rad>mikrometr</rad>/o
@@ -15,6 +15,7 @@
      </dif>
    </snc>
    <trd lng="be">&c_m;&c_ib;&c_k;&c_r;&c_o;&c_m;&c_e;&c_t;&c_a;&c_r;</trd>
+   <trd lng="ca">micr&ograve;metre<klr> (instrument)</klr></trd>
    <trd lng="de">Mikrometer</trd>
    <trd lng="en">micrometer</trd>
    <trd lng="es">micr&oacute;metro</trd>
@@ -27,6 +28,9 @@
 </art>
 <!--
 $Log: mikrom.xml,v $
+Revision 1.15  2012/08/19 20:10:51  revo
+Marc Rausell: + trd ca
+
 Revision 1.14  2006/08/02 16:32:46  revo
 Tulio Flores: +tr pt
 
@@ -46,9 +50,5 @@ Revision 1.9  2002/03/07 18:12:50  revo
 Dennis Wibrow: +trd germ
 
 Revision 1.8  2001/12/13 17:31:59  revo
-Karlo Freeman: gxustigis propran fusxajxon @ trd=en
-
-Revision 1.7  2001/12/12 17:31:23  revo
 -->
 </vortaro>
-

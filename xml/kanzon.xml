@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kanzon.xml,v 1.16 2009/08/23 16:33:37 revo Exp $">
+<art mrk="$Id: kanzon.xml,v 1.17 2012/09/01 12:10:12 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>kanzon</rad>/o
@@ -22,6 +22,7 @@
   </snc>
   <trd lng="be">&c_sh;&c_a;&c_n;&c_s;&c_o;&c_n;</trd>     
   <trd lng="br">kanaouenn</trd>
+  <trd lng="ca">can&ccedil;&oacute;</trd>
   <trdgrp lng="de">
      <trd>Kanzone</trd>,
      <trd>Chanson</trd>
@@ -52,6 +53,9 @@
 </art>
 <!--
 $Log: kanzon.xml,v $
+Revision 1.17  2012/09/01 12:10:12  revo
+Marc Rausell: + trd ca
+
 Revision 1.16  2009/08/23 16:33:37  revo
 Paul Peeraerts: +trd nl
 
@@ -71,8 +75,5 @@ Revision 1.11  2004/03/05 17:31:11  revo
 Jozefo Horvath: +trd hu kor. esti kantita > esti kantata
 
 Revision 1.10  2001/10/16 18:42:59  revo
-Ulrich Fellmann: + 2 germ trdj
-
-Revision 1.9  2001/10/15 18:23:07  revo
 -->
 </vortaro>

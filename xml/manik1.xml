@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: manik1.xml,v 1.7 2009/10/09 16:31:08 revo Exp $">
+<art mrk="$Id: manik1.xml,v 1.8 2012/08/19 11:10:51 revo Exp $">
 <kap>
   <rad>Manik</rad>/o
 </kap>
@@ -18,6 +18,10 @@
   </snc>
   <trd lng="be">&c_L;&c_a;-&c_M;&c_a;&c_n;&c_sh;</trd>
   <trd lng="br">Mor Breizh</trd>
+  <trdgrp lng="ca">
+    <trd>la <ind>M&agrave;nega</ind></trd>,
+    <trd>canal de la <ind>M&agrave;nega</ind></trd>
+  </trdgrp>
   <trd lng="de">&Auml;rmelkanal</trd>
   <trd lng="en">English Channel</trd>
   <trd lng="fr">Manche</trd>
@@ -29,6 +33,9 @@
 
 <!--
 $Log: manik1.xml,v $
+Revision 1.8  2012/08/19 11:10:51  revo
+Marc Rausell: + trd ca
+
 Revision 1.7  2009/10/09 16:31:08  revo
 Paul Peeraerts: +nl
 
@@ -48,7 +55,5 @@ Revision 1.2  2004/12/26 17:35:11  revo
 Marc Bavant: mod ref al markolo
 
 Revision 1.1  2004/11/07 17:32:29  revo
-Marc Bavant: nova artikolo
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vit.xml,v 1.15 2009/06/27 16:30:35 revo Exp $">
+<art mrk="$Id: vit.xml,v 1.16 2012/08/12 17:10:22 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>vit</rad>/o
@@ -17,6 +17,10 @@
   </snc>
   <trd lng="be">&c_v;&c_ib;&c_n;&c_a;&c_g;&c_r;&c_a;&c_d; 
     <klr tip="amb">(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>cep</trd>,
+    <trd>vinya</trd>
+  </trdgrp>
   <trd lng="de">Rebe</trd>
   <trd lng="el">&kappa;&lambda;&eta;&my;&alfa;&tau;&alfa;&rho;&jota;&alfa_ton;</trd>
   <trdgrp lng="en">
@@ -41,6 +45,9 @@ tip="amb">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>,
 </art>
 <!--
 $Log: vit.xml,v $
+Revision 1.16  2012/08/12 17:10:22  revo
+Marc Rausell: + trd ca
+
 Revision 1.15  2009/06/27 16:30:35  revo
 Behnam Tabatabai: +trd fa
 
@@ -60,8 +67,5 @@ Revision 1.10 2001/11/07 19:18:41 revo
 Karlo Freeman: +trd = en; deprenis "vine".
 
 Revision 1.9 2001/05/06 19:08:36 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.8 2001/04/29 12:40:30 revo
 -->
 </vortaro>

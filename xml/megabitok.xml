@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: megabitok.xml,v 1.3 2009/01/27 17:30:20 revo Exp $">
+<art mrk="$Id: megabitok.xml,v 1.4 2012/08/19 18:10:33 revo Exp $">
 <kap>
   <rad>megabitok</rad>/o
   <fnt><bib>GDFE</bib></fnt>
@@ -43,6 +43,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="ca">
+    <trd>megabyte</trd>,
+    <trd>MB</trd>
+  </trdgrp>
   <trd lng="de">Megabyte</trd>
   <trd lng="fr">m&eacute;gaoctet</trd>
   <trd lng="it">megabyte</trd>
@@ -52,6 +56,9 @@
 
 <!--
 $Log: megabitok.xml,v $
+Revision 1.4  2012/08/19 18:10:33  revo
+Marc Rausell: + trd ca
+
 Revision 1.3  2009/01/27 17:30:20  revo
 Sebastian Cyprych: +trd pl
 

@@ -2,15 +2,21 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fiziol.xml,v 1.13 2009/06/09 16:31:47 revo Exp $">
+<art mrk="$Id: fiziol.xml,v 1.14 2012/09/29 19:10:10 revo Exp $">
 <kap>
-<ofc>7</ofc>
-<rad>fiziolog</rad>/o
+  <ofc>7</ofc>
+  <rad>fiziolog</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="fiziol.0o">
   <kap><tld/>o</kap>
-  <snc>
-    <ref cel="fiziol1.0isto" tip="dif">fiziologiisto.</ref> 
+  <snc mrk="fiziol.0o.SCI">
+    <ref cel="fiziol1.0isto" tip="dif">fiziologiisto</ref>
+    <ekz>
+      <tld/>oj opinias ke ne estas esenca diferenco
+      inter sproso kaj ovolo dum la plej fruaj stadioj de
+      formi&gcirc;o
+      <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 1a</lok></fnt>.
+    </ekz> 
   </snc>
   <trd lng="be">&c_f;&c_ib;&c_z;&c_ib;&c_jo;&c_l;&c_ja;&c_g;</trd>
   <trd lng="de">Physiologe</trd>
@@ -26,6 +32,9 @@
 </art>
 <!--
 $Log: fiziol.xml,v $
+Revision 1.14  2012/09/29 19:10:10  revo
+Jeromo Vasxe: + ekz
+
 Revision 1.13  2009/06/09 16:31:47  revo
 Russ Williams: +trd en
 
@@ -45,8 +54,5 @@ Revision 1.8  2001/08/23 18:49:04  revo
 Marc Bavant: +trd fr, sxovis ref ekster dif
 
 Revision 1.7  2001/07/09 18:18:04  revo
-Ulrich Fellmann: + germ trd
-
-Revision 1.6  2001/05/04 16:12:01  revo
 -->
 </vortaro>

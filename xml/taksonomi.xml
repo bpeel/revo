@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: taksonomi.xml,v 1.2 2006/02/03 17:32:34 revo Exp $">
+<art mrk="$Id: taksonomi.xml,v 1.3 2012/08/13 15:10:40 revo Exp $">
 <kap>
   <rad>taksonomi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -21,6 +21,7 @@
       </fnt>.
     </ekz>
   </snc>
+  <trd lng="ca">taxonomia</trd>
   <trdgrp lng="fr">
     <trd>taxinomie</trd>,
     <trd>taxonomie</trd>
@@ -33,6 +34,9 @@
 
 <!--
 $Log: taksonomi.xml,v $
+Revision 1.3  2012/08/13 15:10:40  revo
+Marc Rausell: + trd ca
+
 Revision 1.2  2006/02/03 17:32:34  revo
 Tulio Flores: +trd pt
 

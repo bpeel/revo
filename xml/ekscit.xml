@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekscit.xml,v 1.21 2010/03/19 17:30:36 revo Exp $">
+<art mrk="$Id: ekscit.xml,v 1.22 2012/09/05 08:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ekscit</rad>/i <fnt><bib>PV</bib></fnt>
@@ -119,6 +119,7 @@
       <trd>&c_u;&c_z;&c_b;&c_u;&c_d;&c_zh;&c_a;&c_c;&c_c;&c_a;</trd>,
       <trd>&c_u;&c_z;&c_r;&c_u;&c_sh;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
     </trdgrp>
+    <trd lng="ca">excitar-se</trd>
     <trd lng="de">sich <ind>erregen</ind></trd>
     <trd lng="es">excitarse</trd>
     <trd lng="fr">s'<ind>exciter</ind></trd>
@@ -150,6 +151,7 @@
         pejza&gcirc;o</vrk>, <lok>Edistudio, 1984</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="ca">excitaci&oacute;</trd>
     <trd lng="fr">excitation<klr> (changement d'&eacute;tat)</klr></trd>
     <trdgrp lng="pl">
       <trd>ekscytacja</trd>,
@@ -196,6 +198,9 @@
 </art>
 <!--
 $Log: ekscit.xml,v $
+Revision 1.22  2012/09/05 08:10:26  revo
+Marc Rausell: ++ trd ca
+
 Revision 1.21  2010/03/19 17:30:36  revo
 Jeromo Vasxe: snc / subsnc
 
@@ -215,8 +220,5 @@ Revision 1.16 2007/04/29 16:31:22 revo
 jxeromo vasxe: + ~igxo
 
 Revision 1.15 2006/01/09 17:33:54 revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.14 2003/12/16 17:31:28 revo
 -->
 </vortaro>

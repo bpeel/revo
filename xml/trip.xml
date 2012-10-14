@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: trip.xml,v 1.13 2011/10/01 14:10:19 revo Exp $">
+  <art mrk="$Id: trip.xml,v 1.14 2012/08/14 13:10:25 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>trip</rad>/o
@@ -37,6 +37,7 @@
         <trd>&c_t;&c_r;&c_y;&c_b;&c_u;&c_h;&c_ib;</trd>,
         <trd>&c_v;&c_a;&c_n;&c_t;&c_r;&c_o;&c_b;&c_y;</trd>
       </trdgrp>
+      <trd lng="ca">budells</trd>
       <trdgrp lng="de">
         <trd>Eingeweide</trd>,
         <trd>Kaldaunen</trd>,
@@ -64,6 +65,9 @@
   </art>
   <!--
   $Log: trip.xml,v $
+  Revision 1.14  2012/08/14 13:10:25  revo
+  Marc Rausell: + trd ca
+
   Revision 1.13  2011/10/01 14:10:19  revo
   Behnam Tabatabai: +trd fa
 

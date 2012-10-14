@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-  <art mrk="$Id: tig.xml,v 1.21 2011/12/28 23:10:09 revo Exp $">
+  <art mrk="$Id: tig.xml,v 1.22 2012/08/14 00:10:13 revo Exp $">
     <kap>
       <ofc>8</ofc>
       <rad>tig</rad>/o
@@ -47,6 +47,7 @@
   <ref tip="sin" cel="trunk.0eto">trunketo</ref>
   </snc>
     <trd lng="be">&c_s;&c_mol;&c_c;&c_ja;&c_b;&c_l;&c_o;</trd>
+    <trd lng="ca">tija</trd>
     <trdgrp lng="de">
       <trd>Spross</trd>,
       <trd>St&auml;ngel</trd>,
@@ -78,6 +79,9 @@
   </art>
   <!--
   $Log: tig.xml,v $
+  Revision 1.22  2012/08/14 00:10:13  revo
+  Marc Rausell: + trd ca
+
   Revision 1.21  2011/12/28 23:10:09  revo
   Eduardo Navas: +trad es
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: cenobit.xml,v 1.5 2009/05/04 16:32:12 revo Exp $">
+  <art mrk="$Id: cenobit.xml,v 1.6 2012/08/26 11:10:24 revo Exp $">
     <kap>
       <rad>cenobit</rad>/o <fnt><bib>PIV1</bib></fnt>
     </kap>
@@ -23,6 +23,7 @@
     	  <ref cel="ermit.0o.REL">ermito <sncref/></ref>
     	</refgrp>
       </snc>
+      <trd lng="ca">cenobita</trd>
       <trdgrp lng="de">
          <trd>Klosterm&ouml;nch</trd>,
          <trd>Z&ouml;nobit</trd>
@@ -41,6 +42,9 @@
 
   <!--
   $Log: cenobit.xml,v $
+  Revision 1.6  2012/08/26 11:10:24  revo
+  Marc Rausell: ++ trd ca
+
   Revision 1.5  2009/05/04 16:32:12  revo
   Antonio Codazzi: +trd it
 

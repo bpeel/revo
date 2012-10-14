@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: makzel.xml,v 1.22 2010/12/02 17:30:50 revo Exp $">
+<art mrk="$Id: makzel.xml,v 1.23 2012/08/19 11:10:28 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>makzel</rad>/o
@@ -26,6 +26,10 @@
     <trd>javed</trd>,
     <trd>karvan</trd>
   </trdgrp>
+  <trdgrp lng="ca">
+    <trd>maxil&middot;lar</trd>,
+    <trd>mand&iacute;bula</trd>
+  </trdgrp>
   <trd lng="de">Kiefer</trd>
   <trd lng="en">jawbone</trd>
   <trd lng="es">maxilar</trd>
@@ -46,6 +50,9 @@
 </art>
 <!--
 $Log: makzel.xml,v $
+Revision 1.23  2012/08/19 11:10:28  revo
+Marc Rausell: + trd ca
+
 Revision 1.22  2010/12/02 17:30:50  revo
 Antonio Codazzi: +trd it
 
@@ -65,8 +72,5 @@ Revision 1.17  2005/04/10 16:33:00  revo
 Alan ar Gall: +trd br
 
 Revision 1.16  2005/02/21 18:55:40  revo
-Vito Redsky: +trd pl
-
-Revision 1.15  2003/05/15 16:31:53  revo
 -->
 </vortaro>

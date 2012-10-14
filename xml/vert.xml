@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vert.xml,v 1.18 2011/12/12 16:10:09 revo Exp $">
+<art mrk="$Id: vert.xml,v 1.19 2012/08/12 10:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vert</rad>/o <fnt><bib>PV</bib></fnt>
@@ -24,6 +24,7 @@
         frakasi ies <tld/>on<fnt>Z</fnt>.
       </ekz>
     </dif>
+    <trd lng="ca">coronell</trd>
     <trdgrp lng="en">
       <trd>pate</trd>,
       <trd>crown of the head</trd>,
@@ -58,6 +59,10 @@
     <refgrp tip="vid">
       <ref cel="pint.0o.ekstremo">pinto <sncref/></ref>
     </refgrp>
+    <trdgrp lng="ca">
+      <trd>cim</trd>,
+      <trd>&agrave;pex</trd>
+    </trdgrp>
     <trd lng="en">top</trd>
     <trdgrp lng="fa">
       <trd>&a_q;&a_l;&a_h;</trd>,
@@ -98,6 +103,9 @@
 </art>
 <!--
 $Log: vert.xml,v $
+Revision 1.19  2012/08/12 10:10:23  revo
+Marc Rausell: + trd ca
+
 Revision 1.18  2011/12/12 16:10:09  revo
 Eduardo Navas: +trad es
 
@@ -117,8 +125,5 @@ Revision 1.13  2006/07/21 18:03:50  revo
 Jeromo Vasxe: + mrk, kor tez
 
 Revision 1.12 2005/04/26 16:32:06 revo
-Vito Redsky: +trd pl
-
-Revision 1.11 2002/09/05 17:31:19 revo
 -->
 </vortaro>
