@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sxose.xml,v 1.20 2011/12/04 21:10:11 revo Exp $">
+  <art mrk="$Id: sxose.xml,v 1.22 2012/10/06 12:10:08 revo Exp $">
     <kap>
       <ofc>3</ofc>
       <rad>&scirc;ose</rad>/o
@@ -54,10 +54,12 @@
           <trd>&c_g;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_n;&c_je;&c_c;</trd>,
           <trd>&c_b;&c_a;&c_l;&c_mol;&c_sh;&c_a;&c_k;</trd>
         </trdgrp>
+        <trd lng="bg">&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_g;&c_i;&c_s;&c_t;&c_r;&c_a;&c_l;&c_a;</trd>
         <trdgrp lng="ca">
           <trd>carretera</trd>,
           <trd>via</trd>
         </trdgrp>
+        <trd lng="de">Autobahn</trd>
         <trd lng="en">highway</trd>
         <trdgrp lng="hu">
           <trd>m&udblac;&uacute;t</trd>,
@@ -92,6 +94,8 @@
             en 
             la venonta jarkolekto.
             <trd lng="ca">canal de transmissi&oacute;, d'informaci&oacute;</trd>
+            <trd lng="de">Datenautobahn</trd>
+            <trd lng="en">information superhighway</trd>
             <trd lng="hu">inform&aacute;ci&oacute;s szupersztr&aacute;da</trd>
             <trd lng="it">autostrada informatica</trd>
             <trd lng="nl">informatiesnelweg</trd>
@@ -115,6 +119,12 @@
   </art>
   <!--
   $Log: sxose.xml,v $
+  Revision 1.22  2012/10/06 12:10:08  revo
+  Wieland Pusch: +trd en+de
+
+  Revision 1.21  2012/10/06 00:10:08  revo
+  Wieland Pusch: +trd bg+de
+
   Revision 1.20  2011/12/04 21:10:11  revo
   Marc Rausell: kataluna traduko
 
