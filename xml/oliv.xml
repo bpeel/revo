@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: oliv.xml,v 1.26 2011/12/07 01:10:13 revo Exp $">
+<art mrk="$Id: oliv.xml,v 1.27 2012/10/23 00:13:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>oliv</rad>/o
@@ -61,7 +61,7 @@
 </drv>
 
 <drv mrk="oliv.0arbo">
-  <kap><tld/>arbo, <tld/>ujo</kap>
+  <kap><tld/>arbo, <var><kap><tld/>ujo</kap></var></kap>
   <uzo tip="fak">BOT</uzo>
   <fnt><bib>KrED</bib></fnt>
   <snc>
@@ -105,6 +105,9 @@
 </art>
 <!--
 $Log: oliv.xml,v $
+Revision 1.27  2012/10/23 00:13:12  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.26  2011/12/07 01:10:13  revo
 Marc Rausell: kataluna traduko
 
@@ -124,8 +127,5 @@ Revision 1.21  2008/11/23 19:13:16  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.20  2005/05/28 16:31:50  revo
-Alan ar Gall: +trd br
-
-Revision 1.19  2004/09/09 18:52:46  revo
 -->
 </vortaro>

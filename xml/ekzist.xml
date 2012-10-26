@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekzist.xml,v 1.26 2011/12/11 20:10:17 revo Exp $">
+<art mrk="$Id: ekzist.xml,v 1.27 2012/10/23 00:11:03 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ekzist</rad>/i
@@ -253,7 +253,7 @@
 </drv>
 
 <drv mrk="ekzist.0okialo0otialo">
-  <kap><tld/>okialo, <tld/>otialo</kap>
+  <kap><tld/>okialo, <var><kap><tld/>otialo</kap></var></kap>
   <snc>
     <dif>
       Celo praviganta ekziston de iu afero, socia fenomeno ktp:
@@ -295,6 +295,9 @@
 </art>
 <!--
 $Log: ekzist.xml,v $
+Revision 1.27  2012/10/23 00:11:03  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.26  2011/12/11 20:10:17  revo
 Marc Rausell: +trd ca
 
@@ -314,8 +317,5 @@ Revision 1.21  2007/03/06 17:30:40  revo
 Jeromo Vasxe: ~ismo var ~adismo
 
 Revision 1.20 2006/10/09 10:43:44 revo
-Axel Rousseau: +trd tp
-
-Revision 1.19 2003/12/16 17:32:42 revo
 -->
 </vortaro>

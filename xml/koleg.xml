@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koleg.xml,v 1.16 2009/08/26 16:31:46 revo Exp $">
+<art mrk="$Id: koleg.xml,v 1.17 2012/10/23 00:12:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>koleg</rad>/o
@@ -93,7 +93,7 @@
 </drv>
 
 <drv mrk="koleg.0amo0emo">
-  <kap><tld/>amo, <tld/>emo</kap>
+  <kap><tld/>amo, <var><kap><tld/>emo</kap></var></kap>
   <snc>
     <dif>
       Pensmaniero komuna al la diversaj membroj de <tld/>aro,
@@ -128,6 +128,9 @@
 </art>
 <!--
 $Log: koleg.xml,v $
+Revision 1.17  2012/10/23 00:12:12  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.16  2009/08/26 16:31:46  revo
 Russ Williams: +trd en
 
@@ -147,8 +150,5 @@ Revision 1.11  2003/08/07 16:30:57  revo
 Jeromo Vasxe: + mrk, + trd fr
 
 Revision 1.10 2003/01/02 17:40:35 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9 2002/01/11 19:09:35 revo
 -->
 </vortaro>

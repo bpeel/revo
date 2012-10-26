@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bomb.xml,v 1.19 2010/06/06 16:30:35 revo Exp $">
+<art mrk="$Id: bomb.xml,v 1.20 2012/10/23 00:10:53 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>bomb</rad>/o
@@ -130,7 +130,7 @@
 </drv>
 
 <drv mrk="bomb.0opafilo">
-  <kap><tld/>opafilo, <tld/>okanono</kap>
+  <kap><tld/>opafilo, <var><kap><tld/>okanono</kap></var></kap>
   <uzo tip="fak">MIL</uzo>
   <snc>
     <dif>
@@ -193,6 +193,9 @@
 </art>
 <!--
 $Log: bomb.xml,v $
+Revision 1.20  2012/10/23 00:10:53  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.19  2010/06/06 16:30:35  revo
 Antonio Codazzi: +trd it
 
@@ -212,8 +215,5 @@ Revision 1.14  2003/09/08 16:32:16  revo
 Yury Finkel: +trd ru
 
 Revision 1.13  2002/10/08 17:55:30  revo
-Jeromo Vasxe: + ~i ~ado horlogx~o, + ekz
-
-Revision 1.12 2002/09/09 19:54:20 revo
 -->
 </vortaro>

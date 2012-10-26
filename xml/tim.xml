@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tim.xml,v 1.29 2011/09/01 22:10:21 revo Exp $">
+<art mrk="$Id: tim.xml,v 1.30 2012/10/23 00:14:02 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tim</rad>/i <fnt><bib>PV</bib></fnt>
@@ -192,7 +192,7 @@
 </drv>
 
 <drv mrk="tim.0a0ema">
-  <kap><tld/>a, <tld/>ema</kap>
+  <kap><tld/>a, <var><kap><tld/>ema</kap></var></kap>
   <snc mrk="tim.0a.KOMUNE">
     <dif>
       Inklina al <tld/>o:
@@ -598,6 +598,9 @@
 </art>
 <!--
 $Log: tim.xml,v $
+Revision 1.30  2012/10/23 00:14:02  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.29  2011/09/01 22:10:21  revo
 Carlos Garcia: +trd es
 
@@ -617,8 +620,5 @@ Revision 1.24 2006/03/10 17:31:16 revo
 Wieland Pusch: +trd de
 
 Revision 1.23 2006/02/15 17:34:30 revo
-Tulio Flores: +trd pt
-
-Revision 1.22 2005/08/28 16:31:09 revo
 -->
 </vortaro>

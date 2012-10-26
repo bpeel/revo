@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: fand.xml,v 1.26 2010/08/15 16:30:18 revo Exp $">
+  <art mrk="$Id: fand.xml,v 1.27 2012/10/23 00:11:05 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>fand</rad>/i <fnt><bib>PV</bib></fnt>
@@ -335,7 +335,7 @@
     </drv>
 
     <drv mrk="fand.dis0ifor0i">
-      <kap>dis<tld/>i, for<tld/>i</kap>
+      <kap>dis<tld/>i, <var><kap>for<tld/>i</kap></var></kap>
       <gra><vspec>tr</vspec></gra>
       <snc>
         <dif>
@@ -561,6 +561,9 @@
   </art>
   <!--
   $Log: fand.xml,v $
+  Revision 1.27  2012/10/23 00:11:05  revo
+  Neil Roberts: aldonu la etikedon <var>
+
   Revision 1.26  2010/08/15 16:30:18  revo
   Jeromo Vasxe: - kramp, reord. drv
 

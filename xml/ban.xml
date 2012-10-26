@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: ban.xml,v 1.33 2012/08/25 11:10:09 revo Exp $">
+  <art mrk="$Id: ban.xml,v 1.34 2012/10/23 00:10:51 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>ban</rad>/i
@@ -490,7 +490,7 @@
     </drv>
 
     <drv mrk="ban.0urbo0loko">
-      <kap><tld/>urbo, <tld/>loko</kap>
+      <kap><tld/>urbo, <var><kap><tld/>loko</kap></var></kap>
       <snc mrk="ban.0urbo0loko.MED">
         <uzo tip="fak">MED</uzo>
         <dif>
@@ -521,6 +521,9 @@
   </art>
   <!--
   $Log: ban.xml,v $
+  Revision 1.34  2012/10/23 00:10:51  revo
+  Neil Roberts: aldonu la etikedon <var>
+
   Revision 1.33  2012/08/25 11:10:09  revo
   Marc Rausell: + trd ca
 

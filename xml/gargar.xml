@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gargar.xml,v 1.18 2012/08/27 05:10:18 revo Exp $">
+<art mrk="$Id: gargar.xml,v 1.19 2012/10/23 00:11:30 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>gargar</rad>/i</kap>
 <drv mrk="gargar.0i">
@@ -95,7 +95,7 @@
 </drv>
 
 <drv mrk="gargar.0ajxo0ilo">
-  <kap><tld/>a&jcirc;o, <tld/>ilo</kap>
+  <kap><tld/>a&jcirc;o, <var><kap><tld/>ilo</kap></var></kap>
   <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
@@ -114,6 +114,9 @@
 </art>
 <!--
 $Log: gargar.xml,v $
+Revision 1.19  2012/10/23 00:11:30  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.18  2012/08/27 05:10:18  revo
 Sebastian Cyprych: +trd pl
 
@@ -133,8 +136,5 @@ Revision 1.13  2002/09/19 16:33:54  revo
 Eduardo M. Kalinowski: ald trd el, pt
 
 Revision 1.12  2002/07/08 18:25:44  revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.11  2001/12/11 18:23:39  revo
 -->
 </vortaro>

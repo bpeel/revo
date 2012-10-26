@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dual.xml,v 1.29 2011/12/06 21:10:22 revo Exp $">
+<art mrk="$Id: dual.xml,v 1.30 2012/10/23 00:11:01 revo Exp $">
 <kap>
   <rad>dual</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -106,7 +106,7 @@
 </drv>
 
 <drv mrk="dual.du0o">
-  <kap>du<tld/>o, duobla <tld/>o</kap>
+  <kap>du<tld/>o, <var><kap>duobla <tld/>o</kap></var></kap>
   <uzo tip="fak">MAT</uzo>
   <snc>
     <dif>
@@ -232,6 +232,9 @@
 </art>
 <!--
 $Log: dual.xml,v $
+Revision 1.30  2012/10/23 00:11:01  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.29  2011/12/06 21:10:22  revo
 Marc Rausell: kataluna traduko
 
@@ -251,8 +254,5 @@ Sergio Pokrovskij: dif per dunombro
 Revision 1.23 2003/04/12 16:32:23 revo
 Marc Bavant: ~o MAT: mod trd ru
 Revision 1.22 2003/04/03 16:31:29 revo
-Marc Bavant: algebra ~o, topologia ~o: sxovis ref al vektora spaco
-Revision 1.21 2003/03/05 17:34:05 revo
-Marc Bavant: du~o: +trd pl, +ref al bidualo, +rim; topologia du~o: +rim
 -->
 </vortaro>

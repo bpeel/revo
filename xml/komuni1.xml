@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: komuni1.xml,v 1.18 2009/09/10 16:32:05 revo Exp $">
+<art mrk="$Id: komuni1.xml,v 1.19 2012/10/23 00:12:18 revo Exp $">
 <kap>
  <ofc>*</ofc>
  <rad>komunik</rad>/i <fnt><bib>PV</bib></fnt>
@@ -385,7 +385,7 @@
 </drv>
 
 <drv mrk="komuni1.0ejo">
- <kap><tld/>ejo, <tld/>i&gcirc;ejo</kap>
+ <kap><tld/>ejo, <var><kap><tld/>i&gcirc;ejo</kap></var></kap>
  <snc mrk="komuni1.0ejo.por_homoj">
    <dif>
      Loko, en kiu <tld/>i&gcirc;as
@@ -1094,6 +1094,9 @@
 </art>
 <!--
 $Log: komuni1.xml,v $
+Revision 1.19  2012/10/23 00:12:18  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.18  2009/09/10 16:32:05  revo
 Jeromo Vasxe: + gazetara ~o
 
@@ -1113,8 +1116,5 @@ Tulio Flores: +tr pt
 
 Revision 1.13  2005/05/16 17:48:52  revo
 Marc Bavant: +trd fr; ~i: sxangxis snc 1b al 3, +adm; ~o: +ekz; ~igi:
-+snc, +ekz; ~ejo: +snc; ~igxi: +refgrp al inter~(igx)i; ~ema: kor
-interpunkcion; inter~i, inter~igi, inter~igxi: reverkis; amas~ilo: mod
-dif
 -->
 </vortaro>

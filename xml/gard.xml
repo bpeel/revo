@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gard.xml,v 1.27 2011/04/12 20:10:10 revo Exp $">
+<art mrk="$Id: gard.xml,v 1.28 2012/10/23 00:11:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>gard</rad>/i <fnt><bib>PV</bib></fnt>
@@ -412,7 +412,7 @@ ripoze inter
 </drv>
 
 <drv mrk="gard.0estari">
-  <kap><tld/>estari, <tld/>ostari</kap>
+  <kap><tld/>estari, <var><kap><tld/>ostari</kap></var></kap>
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="gard.0estari.KOMUNE">
     <dif>
@@ -769,6 +769,9 @@ tip="amb"> (&c_s;&c_u;&c_shch;.)</klr></trd>
 </art>
 <!--
 $Log: gard.xml,v $
+Revision 1.28  2012/10/23 00:11:29  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.27  2011/04/12 20:10:10  revo
 Jeromo Vasxe: + nokto~isto
 
@@ -788,8 +791,5 @@ Revision 1.22  2005/12/01 17:30:59  revo
 Wieland Pusch: +trd de en
 
 Revision 1.21  2005/08/17 16:31:51  revo
-Luiz Portella: +trd pt
-
-Revision 1.20  2005/05/28 16:32:20  revo
 -->
 </vortaro>

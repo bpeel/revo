@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: super.xml,v 1.26 2012/04/17 00:10:09 revo Exp $">
+<art mrk="$Id: super.xml,v 1.27 2012/10/22 01:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>super</rad> <fnt><bib>PV</bib></fnt>
@@ -178,7 +178,7 @@
     </trdgrp>
   </drv>
   <drv mrk="super.al0">
-    <kap>al <tld/>, <tld/> ...-n</kap>
+    <kap>al <tld/>, <var><kap><tld/> ...-n</kap></var></kap>
     <snc>
       <dif>
         <ref cel="al.0">Al</ref> loko situanta
@@ -561,6 +561,9 @@
 </art>
 <!--
 $Log: super.xml,v $
+Revision 1.27  2012/10/22 01:10:19  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.26  2012/04/17 00:10:09  revo
 Jeromo Vasxe: kor. dif
 
@@ -580,8 +583,5 @@ Jozefo Horvath: +trd hu
 Revision 1.20 2004/07/15 19:05:06 revo
 Marc Bavant: subart I: sxovis dif al drv
 Revision 1.19 2004/05/17 16:31:32 revo
-Marc Bavant: +drv al ~; ~: +rim, -subsnc
-Revision 1.18 2004/04/29 16:31:41 revo
-Sergio Pokrovskij: interpunkcio, rim, ekz
 -->
 </vortaro>

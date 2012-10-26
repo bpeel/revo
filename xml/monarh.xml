@@ -2,11 +2,11 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: monarh.xml,v 1.15 2012/07/17 13:10:14 revo Exp $">
+<art mrk="$Id: monarh.xml,v 1.16 2012/10/23 00:13:03 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>monar&hcirc;</rad>/o, monark/o
-</kap>
+  <rad>monar&hcirc;</rad>/o, <var><kap>monark/o
+</kap></var></kap>
 
 <drv mrk="monarh.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -91,6 +91,9 @@
 </art>
 <!--
 $Log: monarh.xml,v $
+Revision 1.16  2012/10/23 00:13:03  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.15  2012/07/17 13:10:14  revo
 Marc Rausell: + trd ca
 
@@ -110,8 +113,5 @@ Revision 1.10  2005/05/26 16:31:06  revo
 Alan ar Gall: +trd br
 
 Revision 1.9  2003/06/05 16:30:43  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2002/08/26 17:35:47  revo
 -->
 </vortaro>

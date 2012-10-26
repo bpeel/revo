@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kurs.xml,v 1.21 2012/04/03 09:10:10 revo Exp $">
+<art mrk="$Id: kurs.xml,v 1.22 2012/10/23 00:12:40 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kurs</rad>/o <fnt><bib>PV</bib></fnt>
@@ -148,7 +148,7 @@
 </drv>
 
 <drv mrk="kurs.en0igilo">
-  <kap>en<tld/>igilo, <tld/>ilo</kap>
+  <kap>en<tld/>igilo, <var><kap><tld/>ilo</kap></var></kap>
   <fnt><lok><url
   ref="&KompLeks;/E.html#ENKURSIGILO">KompLeks</url></lok></fnt>
   <snc mrk="kurs.en0igilo.KOMP">
@@ -182,6 +182,9 @@
 </art>
 <!--
 $Log: kurs.xml,v $
+Revision 1.22  2012/10/23 00:12:40  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.21  2012/04/03 09:10:10  revo
 Jeromo Vasxe: + 2 fak
 
@@ -201,8 +204,5 @@ Revision 1.16  2004/04/12 16:32:12  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.15  2004/03/30 16:32:28  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14  2003/04/06 16:32:07  revo
 -->
 </vortaro>

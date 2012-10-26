@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: rus.xml,v 1.24 2012/08/04 19:10:25 revo Exp $">
+  <art mrk="$Id: rus.xml,v 1.25 2012/10/23 00:13:37 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>rus</rad>/o
@@ -105,7 +105,7 @@
     </drv>
 
     <drv mrk="rus.R0ujo">
-      <kap><tld lit="R"/>ujo, <tld lit="R"/>lando</kap>
+      <kap><tld lit="R"/>ujo, <var><kap><tld lit="R"/>lando</kap></var></kap>
       <uzo tip="fak">GEOG</uzo>
       <snc>
         <dif>
@@ -195,7 +195,7 @@
     </drv>
 
     <drv mrk="rus.0ujano">
-      <kap><tld/>ujano, <tld/>landano</kap>
+      <kap><tld/>ujano, <var><kap><tld/>landano</kap></var></kap>
       <snc>
         <dif>
           Civitano de <tld lit="R"/>ujo sendepende de etno:
@@ -240,7 +240,7 @@
     </drv>
 
     <drv mrk="rus.0uja">
-      <kap><tld/>uja, <tld/>landa</kap>
+      <kap><tld/>uja, <var><kap><tld/>landa</kap></var></kap>
       <snc>
         <dif>
           Rilatanta a&ubreve; apartenanta al <tld lit="R"/>ujo:
@@ -263,6 +263,9 @@
   </art>
   <!--
   $Log: rus.xml,v $
+  Revision 1.25  2012/10/23 00:13:37  revo
+  Neil Roberts: aldonu la etikedon <var>
+
   Revision 1.24  2012/08/04 19:10:25  revo
   Marc Rausell: + trd ca
 

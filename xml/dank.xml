@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dank.xml,v 1.50 2012/08/27 15:10:15 revo Exp $">
+<art mrk="$Id: dank.xml,v 1.51 2012/10/23 00:11:46 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dank</rad>/i <fnt><bib>PV</bib></fnt>
@@ -177,7 +177,7 @@
 </drv>
 
 <drv mrk="dank.0o0ado">
-  <kap><tld/>o, <tld/>ado</kap>
+  <kap><tld/>o, <var><kap><tld/>ado</kap></var></kap>
   <snc>
     <dif>
       Vortoj a&ubreve; faroj por <tld/>i:
@@ -459,7 +459,7 @@
 </drv>
 
 <drv mrk="dank.0emo">
-  <kap><tld/>emo, <tld/>emeco</kap>
+  <kap><tld/>emo, <var><kap><tld/>emeco</kap></var></kap>
   <snc>
     <dif>
       Inklino al <tld/>ado, <tld/>a sento:
@@ -605,6 +605,9 @@
 </art>
 <!--
 $Log: dank.xml,v $
+Revision 1.51  2012/10/23 00:11:46  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.50  2012/08/27 15:10:15  revo
 Marc Rausell: + trd ca
 
@@ -624,8 +627,5 @@ Revision 1.45  2009/02/11 19:43:09  revo
 Sebastian Cyprych: -fusxaj linirompoj en trd
 
 Revision 1.44  2008/01/30 17:30:18  revo
-Wieland Pusch: +trd bg
-
-Revision 1.43  2008/01/28 17:30:53  revo
 -->
 </vortaro>

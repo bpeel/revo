@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: brul.xml,v 1.35 2010/09/28 16:30:38 revo Exp $">
+<art mrk="$Id: brul.xml,v 1.36 2012/10/23 00:11:47 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>brul</rad>/i <fnt><bib>PV</bib></fnt>
@@ -569,7 +569,7 @@
 </drv>
 
 <drv mrk="brul.0difekti0vundi">
-  <kap><tld/>difekti, <tld/>vundi</kap>
+  <kap><tld/>difekti, <var><kap><tld/>vundi</kap></var></kap>
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
@@ -645,6 +645,9 @@
 </art>
 <!--
 $Log: brul.xml,v $
+Revision 1.36  2012/10/23 00:11:47  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.35  2010/09/28 16:30:38  revo
 Russ Williams: +ekz brulumo el Marta
 
@@ -664,8 +667,5 @@ Revision 1.30 2008/01/24 19:48:53 revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.29 2006/06/18 16:32:25 revo
-Eduardo Navas: kor trd es "quemar" -> "quemarse"
-
-Revision 1.28 2006/06/05 16:40:27 revo
 -->
 </vortaro>

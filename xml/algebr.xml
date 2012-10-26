@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: algebr.xml,v 1.45 2005/08/13 16:32:46 revo Exp $">
+<art mrk="$Id: algebr.xml,v 1.46 2012/10/23 00:11:28 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>algebr</rad>/o
@@ -319,7 +319,7 @@
 </drv>
 
 <drv mrk="algebr.sigma0o">
-  <kap>sigma-<tld/>o, &sigma;-<tld/>o</kap>
+  <kap>sigma-<tld/>o, <var><kap>&sigma;-<tld/>o</kap></var></kap>
   <uzo tip="fak">MAT</uzo>
   <snc>
     <dif>
@@ -375,7 +375,7 @@
 </drv>
 
 <drv mrk="algebr.borelasigma0o">
-  <kap>borela sigma-<tld/>o, borela &sigma;-<tld/>o</kap>
+  <kap>borela sigma-<tld/>o, <var><kap>borela &sigma;-<tld/>o</kap></var></kap>
   <uzo tip="fak">MAT</uzo>
   <snc>
     <dif>
@@ -401,6 +401,9 @@
 </art>
 <!--
 $Log: algebr.xml,v $
+Revision 1.46  2012/10/23 00:11:28  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.45  2005/08/13 16:32:46  revo
 Jozefo Horvath: +trd hu
 
@@ -420,8 +423,5 @@ Revision 1.39  2003/01/26 17:32:23  revo
 Marc Bavant: mod trd de cxe terminoj MAT
 Revision 1.38  2003/01/13 17:33:29  revo
 Marc Bavant: bulea ~o: sxovis trd al ambaux snc
-Revision 1.37  2003/01/02 17:52:34  revo
-Marc Bavant: + trd pl
-Revision 1.36  2002/12/15 19:51:57  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: inert.xml,v 1.20 2012/08/26 12:10:17 revo Exp $">
+<art mrk="$Id: inert.xml,v 1.21 2012/10/23 00:11:49 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>inert</rad>/a
@@ -106,7 +106,7 @@
 </drv>
 
 <drv mrk="inert.0eco">
-  <kap><tld/>eco, <tld/>o</kap>
+  <kap><tld/>eco, <var><kap><tld/>o</kap></var></kap>
   <snc mrk="inert.0eco.FIZ">
     <uzo tip="fak">FIZ</uzo>
     <fnt><bib>VdE</bib></fnt>
@@ -268,6 +268,9 @@
 </art>
 <!--
 $Log: inert.xml,v $
+Revision 1.21  2012/10/23 00:11:49  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.20  2012/08/26 12:10:17  revo
 Marc Rausell: + trd ca
 
@@ -287,8 +290,5 @@ Revision 1.15  2004/07/08 17:05:29  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.14  2004/01/21 19:01:34  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.13  2003/07/14 16:33:36  revo
 -->
 </vortaro>

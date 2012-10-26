@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korp.xml,v 1.40 2010/11/25 17:30:40 revo Exp $">
+<art mrk="$Id: korp.xml,v 1.41 2012/10/23 00:12:28 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>korp</rad>/o
@@ -302,8 +302,8 @@
 </drv>
 
 <drv mrk="korp.super0o">
-  <kap>super<tld/>o, supera <tld/>o<fnt><bib>EKV</bib>,
-  <lok>&para;234</lok></fnt></kap>
+  <kap>super<tld/>o, <var><kap>supera <tld/>o<fnt><bib>EKV</bib>,
+  <lok>&para;234</lok></fnt></kap></var></kap>
   <uzo tip="fak">MAT</uzo>
   <snc>
     <dif>
@@ -509,6 +509,9 @@
 </art>
 <!--
 $Log: korp.xml,v $
+Revision 1.41  2012/10/23 00:12:28  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.40  2010/11/25 17:30:40  revo
 Antonio Codazzi: +trd it
 
@@ -528,8 +531,5 @@ Revision 1.35 2006/09/22 12:26:40 revo
 Wolfram Diestel: +tezrad(ANA)
 
 Revision 1.34 2005/02/07 17:31:37 revo
-Vito Redsky: +trd pl
-
-Revision 1.33 2005/01/30 17:31:26 revo
 -->
 </vortaro>

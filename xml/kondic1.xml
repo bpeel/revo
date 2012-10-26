@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kondic1.xml,v 1.25 2011/12/30 18:10:07 revo Exp $">
+<art mrk="$Id: kondic1.xml,v 1.26 2012/10/23 00:12:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kondi&ccirc;</rad>/o
@@ -170,7 +170,7 @@
 </drv>
 
 <drv mrk="kondic1.0eke">
-  <kap><tld/>e, ke</kap>
+  <kap><tld/>e, <var><kap>ke</kap></var></kap>
   <snc>
     <dif>
       Kun tiu <tld/>o, ke...:
@@ -349,6 +349,9 @@
 </art>
 <!--
 $Log: kondic1.xml,v $
+Revision 1.26  2012/10/23 00:12:21  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.25  2011/12/30 18:10:07  revo
 Eduardo Navas: +trad es
 
@@ -368,8 +371,5 @@ Revision 1.20  2005/08/30 16:31:01  revo
 Marc Bavant: ~i: kor mrk, kor trd fr
 
 Revision 1.19  2005/04/04 16:33:20  revo
-Marc Bavant: +trd fr; ~o: +mrk, sxovis snc, +uzo klr; ~a: +mrk, +ARK;
-~i: +snc
-
 -->
 </vortaro>

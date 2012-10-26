@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: past.xml,v 1.26 2009/10/18 16:30:43 revo Exp $">
+<art mrk="$Id: past.xml,v 1.27 2012/10/23 00:13:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>past</rad>/o
@@ -162,7 +162,7 @@
 </drv>
 
 <drv mrk="past.modlo0o">
-  <kap>modlo<tld/>o, kned<tld/>o</kap>
+  <kap>modlo<tld/>o, <var><kap>kned<tld/>o</kap></var></kap>
   <fnt><bib>HejmVort</bib></fnt>
   <snc>
     <dif>
@@ -210,6 +210,9 @@
 </art>
 <!--
 $Log: past.xml,v $
+Revision 1.27  2012/10/23 00:13:21  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.26  2009/10/18 16:30:43  revo
 Paul Peeraerts: +nl
 
@@ -229,8 +232,5 @@ Revision 1.21  2006/01/12 21:52:48  revo
 Raul Salinas Monteagudo: +trd ca,en,es
 
 Revision 1.20  2005/12/17 17:31:28  revo
-Jeromo Vasxe: kor 1 mrk
-
-Revision 1.19 2005/07/02 16:32:33 revo
 -->
 </vortaro>

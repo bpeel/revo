@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dir.xml,v 1.32 2012/08/25 14:10:13 revo Exp $">
+<art mrk="$Id: dir.xml,v 1.33 2012/10/23 00:11:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dir</rad>/i <fnt><bib>PV</bib></fnt>
@@ -515,7 +515,7 @@
 </drv>
 
 <drv mrk="dir.kvazaux0iduon0i">
-  <kap>kvaza&ubreve;<tld/>i, duon<tld/>i</kap>
+  <kap>kvaza&ubreve;<tld/>i, <var><kap>duon<tld/>i</kap></var></kap>
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
@@ -877,6 +877,9 @@
 </art>
 <!--
 $Log: dir.xml,v $
+Revision 1.33  2012/10/23 00:11:35  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.32  2012/08/25 14:10:13  revo
 Evandro Avellar: Tradukado de el.diri al portugala
 
@@ -896,8 +899,5 @@ Revision 1.27  2008/04/11 16:30:32  revo
 Wieland Pusch: +trd bg
 
 Revision 1.26  2008/03/18 17:30:17  revo
-Jeromo Vasxe: + gxusta~e
-
-Revision 1.25  2007/08/08 16:30:41  revo
 -->
 </vortaro>

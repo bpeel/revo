@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: profes.xml,v 1.17 2008/12/07 07:18:03 revo Exp $">
+<art mrk="$Id: profes.xml,v 1.18 2012/10/23 00:13:31 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>profesi</rad>/o</kap>
 <drv mrk="profes.0o">
@@ -61,7 +61,7 @@
 </drv>
 
 <drv mrk="profes.0isto">
-  <kap><tld/>isto, <tld/>ulo</kap>
+  <kap><tld/>isto, <var><kap><tld/>ulo</kap></var></kap>
   <snc>
     <dif>
       Homo, kiu praktikas okupon por gajni vivpanon.
@@ -120,6 +120,9 @@
 </art>
 <!--
 $Log: profes.xml,v $
+Revision 1.18  2012/10/23 00:13:31  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.17  2008/12/07 07:18:03  revo
 Marc Bavant: libera ~o: kor mrk
 
@@ -139,6 +142,5 @@ Revision 1.10  2003/06/11 17:07:17  revo
 Paul Peeraerts: ald trd nl + belarangho
 Revision 1.9 2003/03/11 17:31:51 revo
 Ulrich Fellmann: + 2 pliaj trd = vo
-Revision 1.8 2003/03/10 17:32:32 revo
 -->
 </vortaro>

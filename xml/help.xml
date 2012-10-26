@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: help.xml,v 1.34 2010/02/21 17:30:42 revo Exp $">
+<art mrk="$Id: help.xml,v 1.35 2012/10/23 00:11:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>help</rad>/i <fnt><bib>PV</bib></fnt>
@@ -371,7 +371,7 @@
 </drv>
 
 <drv mrk="help.0anto0isto">
-  <kap><tld/>anto, <tld/>isto</kap>
+  <kap><tld/>anto, <var><kap><tld/>isto</kap></var></kap>
   <snc>
     <dif>
       Tiu, kiu <tld/>as alian, sed ne anstata&ubreve;as.
@@ -914,6 +914,9 @@
 </drv></art>
 <!--
 $Log: help.xml,v $
+Revision 1.35  2012/10/23 00:11:40  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.34  2010/02/21 17:30:42  revo
 Russ Williams: +trd en
 
@@ -933,8 +936,5 @@ Revision 1.29  2008/04/24 17:20:24  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.28  2007/11/19 17:30:35  revo
-Wieland Pusch: +trd bg
-
-Revision 1.27  2005/10/15 16:31:48  revo
 -->
 </vortaro>

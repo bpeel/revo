@@ -2,9 +2,9 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: ordinac.xml,v 1.14 2009/07/01 17:22:05 revo Exp $">
+  <art mrk="$Id: ordinac.xml,v 1.15 2012/10/23 00:13:19 revo Exp $">
     <kap>
-      <rad>ordinaci</rad>/o, ordin/o</kap>
+      <rad>ordinaci</rad>/o, <var><kap>ordin/o</kap></var></kap>
     <drv mrk="ordinac.0">
       <kap><tld/>o</kap>
       <uzo tip="fak">KRI</uzo>
@@ -108,6 +108,9 @@
   </art>
   <!--
   $Log: ordinac.xml,v $
+  Revision 1.15  2012/10/23 00:13:19  revo
+  Neil Roberts: aldonu la etikedon <var>
+
   Revision 1.14  2009/07/01 17:22:05  revo
   Paul Peeraerts: +trd nl
 

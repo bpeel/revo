@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kun.xml,v 1.36 2011/11/07 01:10:13 revo Exp $">
+  <art mrk="$Id: kun.xml,v 1.37 2012/10/23 00:12:38 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>kun</rad> <fnt><bib>PV</bib></fnt>
@@ -666,7 +666,7 @@
       </drv>
 
       <drv mrk="kun.seks0igxo">
-        <kap>seks<tld/>i&gcirc;o, seksa <tld/>i&gcirc;o</kap>
+        <kap>seks<tld/>i&gcirc;o, <var><kap>seksa <tld/>i&gcirc;o</kap></var></kap>
         <snc>
           <dif>
             Ago seks<tld/>i&gcirc;i:
@@ -867,6 +867,9 @@
   </art>
   <!--
   $Log: kun.xml,v $
+  Revision 1.37  2012/10/23 00:12:38  revo
+  Neil Roberts: aldonu la etikedon <var>
+
   Revision 1.36  2011/11/07 01:10:13  revo
    Anchise Inzaghi: traduko q'eqchi'
 

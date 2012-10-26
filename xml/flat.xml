@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flat.xml,v 1.18 2011/12/02 19:10:08 revo Exp $">
+<art mrk="$Id: flat.xml,v 1.19 2012/10/23 00:11:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>flat</rad>/i
@@ -86,7 +86,7 @@
 </drv>
 
 <drv mrk="flat.0anto0ulo">
-  <kap><tld/>anto, <tld/>ulo</kap>
+  <kap><tld/>anto, <var><kap><tld/>ulo</kap></var></kap>
   <snc>
     <dif>
       Homo, kiu emas <tld/>i.
@@ -130,6 +130,9 @@
 </art>
 <!--
 $Log: flat.xml,v $
+Revision 1.19  2012/10/23 00:11:09  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.18  2011/12/02 19:10:08  revo
 Marc Rausell: kataluna traduko
 
@@ -149,8 +152,5 @@ Revision 1.13 2003/09/30 16:30:43 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.12 2002/11/05 17:31:55 revo
-Paul Peeraerts: aldonis nl trd
-
-Revision 1.11 2002/09/13 16:35:22 revo
 -->
 </vortaro>

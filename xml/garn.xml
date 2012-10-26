@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: garn.xml,v 1.19 2010/01/13 17:30:57 revo Exp $">
+<art mrk="$Id: garn.xml,v 1.20 2012/10/23 00:11:31 revo Exp $">
 <kap>
 <ofc>3</ofc>
 <rad>garn</rad>/i
@@ -142,7 +142,7 @@
 </drv>
 
 <drv mrk="garn.0ajxo0ilo">
-  <kap><tld/>a&jcirc;o, <tld/>ilo</kap>
+  <kap><tld/>a&jcirc;o, <var><kap><tld/>ilo</kap></var></kap>
   <snc>
     <dif>
       Tio, kio <tld/>as:
@@ -195,6 +195,9 @@
 </art>
 <!--
 $Log: garn.xml,v $
+Revision 1.20  2012/10/23 00:11:31  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.19  2010/01/13 17:30:57  revo
 Russ Williams: +trd en
 
@@ -214,8 +217,5 @@ Revision 1.14  2002/10/23 20:38:39  revo
 aktualigo de malnovaj fnt-indikoj enkondukante <bib>
 
 Revision 1.13  2002/09/19 16:33:59  revo
-Eduardo M. Kalinowski: ald trd pt
-
-Revision 1.12  2002/08/03 18:52:17  revo
 -->
 </vortaro>

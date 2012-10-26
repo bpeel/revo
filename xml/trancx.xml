@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trancx.xml,v 1.33 2011/07/05 14:10:17 revo Exp $">
+<art mrk="$Id: trancx.xml,v 1.34 2012/10/23 00:14:05 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tran&ccirc;</rad>/i
@@ -219,7 +219,7 @@
 </drv>
 
 <drv mrk="trancx.de0ifor0i">
-  <kap>de<tld/>i, for<tld/>i</kap>
+  <kap>de<tld/>i, <var><kap>for<tld/>i</kap></var></kap>
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
@@ -394,6 +394,9 @@
 </art>
 <!--
 $Log: trancx.xml,v $
+Revision 1.34  2012/10/23 00:14:05  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.33  2011/07/05 14:10:17  revo
 Jozefo Horvath: kor hu detranchi
 
@@ -413,8 +416,5 @@ Revision 1.28 2004/12/10 17:31:31 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.27 2004/08/23 16:33:35 revo
-Marc Bavant: +drv cxirkaux~i
-
-Revision 1.26 2003/05/13 16:35:11 revo
 -->
 </vortaro>

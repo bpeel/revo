@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kotang.xml,v 1.17 2006/11/09 17:30:52 revo Exp $">
+<art mrk="$Id: kotang.xml,v 1.18 2012/10/23 00:12:31 revo Exp $">
 <kap>
   <rad>kotangent</rad>/o
 </kap>
@@ -63,7 +63,7 @@
 </drv>
 
 <drv mrk="kotang.ark0o">
-  <kap>ark<tld/>o, arko<tld/>o</kap>
+  <kap>ark<tld/>o, <var><kap>arko<tld/>o</kap></var></kap>
   <uzo tip="fak">MAT</uzo>
   <fnt><bib>MatVort</bib></fnt>
   <snc>
@@ -149,6 +149,9 @@
 </art>
 <!--
 $Log: kotang.xml,v $
+Revision 1.18  2012/10/23 00:12:31  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.17  2006/11/09 17:30:52  revo
 Tulio Flores: +tr pt
 
@@ -168,9 +171,5 @@ Marc Bavant: kor frm
 Revision 1.11  2002/11/24 17:34:54  revo
 Marc Bavant: mod frm
 Revision 1.10  2002/11/19 17:31:59  revo
-Marc Bavant: +frm
-Revision 1.9  2002/08/25 19:01:37  revo
-Marc Bavant: +drv are~o, hiperbola ~o, inversa hiperbola ~o; +trd pl
 -->
 </vortaro>
-

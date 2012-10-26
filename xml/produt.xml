@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: produt.xml,v 1.39 2010/06/06 16:31:02 revo Exp $">
+<art mrk="$Id: produt.xml,v 1.40 2012/10/23 00:13:29 revo Exp $">
 <kap>
   <rad>produt</rad>/o
   <fnt>Z</fnt>
@@ -145,7 +145,7 @@
 </drv>
 
 <drv mrk="produt.hermita_skalara0o">
-  <kap>hermita skalara <tld/>o, hermita <tld/>o</kap>
+  <kap>hermita skalara <tld/>o, <var><kap>hermita <tld/>o</kap></var></kap>
   <uzo tip="fak">MAT</uzo>
   <snc mrk="produt.hermita_skalara0o.operacio">
     <dif>
@@ -309,6 +309,9 @@
 </art>
 <!--
 $Log: produt.xml,v $
+Revision 1.40  2012/10/23 00:13:29  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.39  2010/06/06 16:31:02  revo
 Agustin Garcia Lopez: +trd es
 
@@ -328,8 +331,5 @@ Revision 1.34  2005/03/28 17:14:01  revo
 Raul Salinas Monteagudo: +trd ca,es
 
 Revision 1.33  2004/09/06 16:37:53  revo
-Marc Bavant: kor duobligitan punkton
-
-Revision 1.32  2004/08/24 16:32:34  revo
 -->
 </vortaro>

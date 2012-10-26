@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: topolo.xml,v 1.30 2006/02/15 17:36:09 revo Exp $">
+<art mrk="$Id: topolo.xml,v 1.31 2012/10/23 00:14:03 revo Exp $">
 <kap>
   <rad>topologi</rad>/o
 </kap>
@@ -232,7 +232,7 @@ tiu,
 </drv>
 
 <drv mrk="topolo.dualmalforta0o">
-  <kap>dualmalforta <tld/>o, *-malforta <tld/>o</kap>
+  <kap>dualmalforta <tld/>o, <var><kap>*-malforta <tld/>o</kap></var></kap>
   <uzo tip="fak">MAT</uzo>
   <snc>
     <dif>
@@ -320,6 +320,9 @@ tiu,
 </art>
 <!--
 $Log: topolo.xml,v $
+Revision 1.31  2012/10/23 00:14:03  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.30  2006/02/15 17:36:09  revo
 Tulio Flores: +trd pt
 
@@ -339,9 +342,5 @@ Marc Bavant: ~a (modulo): kor dif
 Revision 1.23  2003/04/11 16:33:21  revo
 Marc Bavant: ~a (spaco): -dif, rearangxis la subsnc; ~o (fako): mod rim; ~o
 (strukt): mod dif
-Revision 1.22 2003/01/02 17:51:51 revo
-Marc Bavant: +ref internaj, simpligis sncref
-Revision 1.21 2002/11/30 17:38:50 revo
 -->
 </vortaro>
-

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: mont.xml,v 1.28 2009/02/06 17:59:29 revo Exp $">
+  <art mrk="$Id: mont.xml,v 1.29 2012/10/23 00:13:05 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>mont</rad>/o
@@ -146,7 +146,7 @@
     </drv>
 
     <drv mrk="mont.inter0o0pasejo">
-      <kap>inter<tld/>o, <tld/>pasejo</kap>
+      <kap>inter<tld/>o, <var><kap><tld/>pasejo</kap></var></kap>
       <uzo tip="fak">GEOG</uzo>
       <snc>
         <dif>
@@ -288,6 +288,9 @@
   </art>
   <!--
   $Log: mont.xml,v $
+  Revision 1.29  2012/10/23 00:13:05  revo
+  Neil Roberts: aldonu la etikedon <var>
+
   Revision 1.28  2009/02/06 17:59:29  revo
   Wieland Pusch: korr pl, +trd de
 

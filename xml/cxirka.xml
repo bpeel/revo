@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxirka.xml,v 1.39 2011/12/23 20:10:12 revo Exp $">
+<art mrk="$Id: cxirka.xml,v 1.40 2012/10/22 01:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;irka&ubreve;</rad> <fnt><bib>PV</bib></fnt>
@@ -265,7 +265,7 @@ ref="http://home.t-online.de/home/kaiser-altenburg/u/B.Traven/dl42.html">
   </drv>
 
   <drv mrk="cxirka.al0">
-    <kap>al <tld/>, <tld/> ...-n</kap>
+    <kap>al <tld/>, <var><kap><tld/> ...-n</kap></var></kap>
     <snc>
       <dif>
         <ref cel="al.0">Al</ref> loko situanta
@@ -1048,6 +1048,9 @@ ref="http://www.angelfire.com/ny2/ts/intergazeto/interarkivo_u.htm">
 </art>
 <!--
 $Log: cxirka.xml,v $
+Revision 1.40  2012/10/22 01:10:13  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.39  2011/12/23 20:10:12  revo
 Jeromo Vasxe: kor. 1 ref
 

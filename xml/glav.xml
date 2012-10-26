@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: glav.xml,v 1.22 2011/12/06 10:10:15 revo Exp $">
+<art mrk="$Id: glav.xml,v 1.23 2012/10/23 00:11:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>glav</rad>/o
@@ -84,7 +84,7 @@
 </drv>
 
 <drv mrk="glav.0bati0otrancxi0opiki">
-  <kap><tld/>bati, <tld/>otran&ccirc;i, <tld/>opiki</kap>
+  <kap><tld/>bati, <var><kap><tld/>otran&ccirc;i</kap></var>, <var><kap><tld/>opiki</kap></var></kap>
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
@@ -112,6 +112,9 @@
 </art>
 <!--
 $Log: glav.xml,v $
+Revision 1.23  2012/10/23 00:11:34  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.22  2011/12/06 10:10:15  revo
 Marc Rausell: kataluna traduko
 
@@ -131,8 +134,5 @@ Revision 1.17  2004/09/12 17:43:57  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.16  2004/01/31 17:31:40  revo
-Jeromo Vasxe: + fak mil, + ekz, + mrk
-
-Revision 1.15 2003/07/14 16:33:34 revo
 -->
 </vortaro>

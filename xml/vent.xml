@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: vent.xml,v 1.32 2010/05/24 16:30:21 revo Exp $">
+  <art mrk="$Id: vent.xml,v 1.33 2012/10/23 00:14:13 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>vent</rad>/o <fnt><bib>PV</bib></fnt>
@@ -294,7 +294,7 @@
     </drv>
 
     <drv mrk="vent.0kapa">
-      <kap><tld/>anima<fnt>Z</fnt>, <tld/>kapa<fnt>Z</fnt></kap>
+      <kap><tld/>anima<fnt>Z</fnt>, <var><kap><tld/>kapa<fnt>Z</fnt></kap></var></kap>
       <snc mrk="vent.0kapa.KOMUNE">
         <dif>
           Senpripensema, malsa&gcirc;a, sencerba.
@@ -390,6 +390,9 @@
   </art>
   <!--
   $Log: vent.xml,v $
+  Revision 1.33  2012/10/23 00:14:13  revo
+  Neil Roberts: aldonu la etikedon <var>
+
   Revision 1.32  2010/05/24 16:30:21  revo
   Antonio Codazzi: +trd it
 

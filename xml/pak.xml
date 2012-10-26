@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: pak.xml,v 1.21 2012/01/25 08:10:11 revo Exp $">
+  <art mrk="$Id: pak.xml,v 1.22 2012/10/23 00:13:20 revo Exp $">
     <kap>
       <ofc>*</ofc><rad>pak</rad>/i <fnt><bib>PV</bib></fnt>
     </kap>
@@ -234,7 +234,7 @@
     </drv>
 
     <drv mrk="pak.mal0i">
-      <kap>el<tld/>i<fnt>Z</fnt>, mal<tld/>i</kap>
+      <kap>el<tld/>i<fnt>Z</fnt>, <var><kap>mal<tld/>i</kap></var></kap>
       <gra><vspec>tr</vspec></gra>
       <snc mrk="pak.mal0i.KOMUNE">
         <dif>
@@ -266,6 +266,9 @@
   </art>
   <!--
   $Log: pak.xml,v $
+  Revision 1.22  2012/10/23 00:13:20  revo
+  Neil Roberts: aldonu la etikedon <var>
+
   Revision 1.21  2012/01/25 08:10:11  revo
   Sergio Pokrovskij: +~ajxujo
 

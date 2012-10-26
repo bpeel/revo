@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: komple4.xml,v 1.18 2012/01/12 18:10:14 revo Exp $">
+<art mrk="$Id: komple4.xml,v 1.19 2012/10/23 00:12:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>komplez</rad>/o
@@ -80,7 +80,7 @@
 </drv>
 
 <drv mrk="komple4.0ema">
-  <kap><tld/>a<fnt>Z</fnt>, <tld/>ema<fnt>Z</fnt></kap>
+  <kap><tld/>a<fnt>Z</fnt>, <var><kap><tld/>ema<fnt>Z</fnt></kap></var></kap>
   <snc>
     <dif>
       Inklina fari <tld/>ojn:
@@ -196,6 +196,9 @@
 </art>
 <!--
 $Log: komple4.xml,v $
+Revision 1.19  2012/10/23 00:12:15  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.18  2012/01/12 18:10:14  revo
 Eduardo Iriarte Gahete: +trd es
 
@@ -215,8 +218,5 @@ Revision 1.13 2003/09/10 16:31:19 revo
 Philippe Combot: korekto trd en complaisant
 
 Revision 1.12 2003/04/07 16:37:48 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11 2002/02/06 17:32:32 revo
 -->
 </vortaro>

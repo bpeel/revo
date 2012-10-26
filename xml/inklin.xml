@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: inklin.xml,v 1.20 2009/06/24 16:30:48 revo Exp $">
+<art mrk="$Id: inklin.xml,v 1.21 2012/10/23 00:11:51 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>inklin</rad>/a
@@ -421,7 +421,7 @@
 </drv>
 
 <drv mrk="inklin.kor0o">
-  <kap>kor<tld/>o, kora <tld/>o</kap>
+  <kap>kor<tld/>o, <var><kap>kora <tld/>o</kap></var></kap>
   <snc>
     <dif>
       Ama <tld/>o:
@@ -476,6 +476,9 @@
 </art>
 <!--
 $Log: inklin.xml,v $
+Revision 1.21  2012/10/23 00:11:51  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.20  2009/06/24 16:30:48  revo
 Sebastian Cyprych: +trd pl
 
@@ -495,8 +498,5 @@ Revision 1.15  2004/01/22 17:31:19  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.14  2003/11/28 17:31:30  revo
-Jeromo Vasxe: kor ortog trd fr, preciz kk ref
-
-Revision 1.13  2003/07/15 16:32:35  revo
 -->
 </vortaro>

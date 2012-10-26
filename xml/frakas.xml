@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frakas.xml,v 1.18 2011/12/02 20:10:10 revo Exp $">
+<art mrk="$Id: frakas.xml,v 1.19 2012/10/23 00:11:13 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>frakas</rad>/i</kap>
 <drv mrk="frakas.0i">
@@ -184,7 +184,7 @@
 </drv>
 
 <drv mrk="frakas.0o0ado">
-  <kap><tld/>o, <tld/>ado</kap>
+  <kap><tld/>o, <var><kap><tld/>ado</kap></var></kap>
   <snc>
     <dif>
       Disrompo, dispecetigo.
@@ -241,6 +241,9 @@
 </art>
 <!--
 $Log: frakas.xml,v $
+Revision 1.19  2012/10/23 00:11:13  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.18  2011/12/02 20:10:10  revo
 Marc Rausell: kataluna traduko
 
@@ -260,8 +263,5 @@ Revision 1.13  2003/01/05 17:32:20  revo
 Paul Peeraerts: ald trd nl + belarangho
 
 Revision 1.12 2002/10/23 20:38:37 revo
-aktualigo de malnovaj fnt-indikoj enkondukante <bib>
-
-Revision 1.11 2002/01/10 20:33:26 revo
 -->
 </vortaro>

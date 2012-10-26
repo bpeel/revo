@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: operac.xml,v 1.48 2010/09/12 16:30:22 revo Exp $">
+<art mrk="$Id: operac.xml,v 1.49 2012/10/23 00:13:17 revo Exp $">
 <kap>
   <rad>operaci</rad>/o
   <ofc>1</ofc>
@@ -431,7 +431,7 @@
 </drv>
 
 <drv mrk="operac.interna0o">
-  <kap>interna <tld/>o<fnt><bib>Deneva</bib></fnt>, ena <tld/>o</kap>
+  <kap>interna <tld/>o<fnt><bib>Deneva</bib></fnt>, <var><kap>ena <tld/>o</kap></var></kap>
   <uzo tip="fak">MAT</uzo>
   <snc>
     <dif>
@@ -551,6 +551,9 @@
 </art>
 <!--
 $Log: operac.xml,v $
+Revision 1.49  2012/10/23 00:13:17  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.48  2010/09/12 16:30:22  revo
 Antonio Codazzi: +it
 
@@ -570,8 +573,5 @@ Revision 1.43 2003/05/13 16:32:56 revo
 Marc Bavant: mod "oni diras"
 
 Revision 1.42 2003/05/09 16:31:33 revo
-Marc Bavant: ekstera ~o: kor interpunkcion en ekz
-Revision 1.41 2003/04/11 16:32:43 revo
-Marc Bavant: ~o (elementa): mod dif, +frm en rim
 -->
 </vortaro>

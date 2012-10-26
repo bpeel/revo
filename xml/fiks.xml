@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fiks.xml,v 1.28 2011/11/30 10:10:07 revo Exp $">
+<art mrk="$Id: fiks.xml,v 1.29 2012/10/23 00:12:44 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>fiks</rad>/i <fnt><bib>PV</bib></fnt>
@@ -359,7 +359,7 @@
 </drv>
 
 <drv mrk="fiks.0punkta.koma">
-  <kap><tld/>punkta, <tld/>koma</kap>
+  <kap><tld/>punkta, <var><kap><tld/>koma</kap></var></kap>
   <uzo tip="fak">KOMP</uzo>
   <snc>
     <dif>
@@ -391,6 +391,9 @@
 </art>
 <!--
 $Log: fiks.xml,v $
+Revision 1.29  2012/10/23 00:12:44  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.28  2011/11/30 10:10:07  revo
 Jeromo Vasxe: ~i + snc kem
 
@@ -410,8 +413,5 @@ Revision 1.23  2004/08/29 16:32:38  revo
 Marc Bavant: cxirkaux~igxi: mod dif
 
 Revision 1.22  2004/08/23 16:32:27  revo
-Marc Bavant: +drv cxirkaux~igxi
-
-Revision 1.21 2004/02/15 17:32:04 revo
 -->
 </vortaro>

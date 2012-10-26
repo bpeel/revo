@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tag.xml,v 1.39 2010/11/01 17:30:29 revo Exp $">
+<art mrk="$Id: tag.xml,v 1.40 2012/10/23 00:13:58 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tag</rad>/o
@@ -194,7 +194,7 @@
 </drv>
 
 <drv mrk="tag.antaux0o">
-  <kap>anta&ubreve;<tld/>o, anta&ubreve;a <tld/>o</kap>
+  <kap>anta&ubreve;<tld/>o, <var><kap>anta&ubreve;a <tld/>o</kap></var></kap>
   <snc>
     <dif>
       La <tld/>o &gcirc;uste anta&ubreve;a al la koncerna:
@@ -402,6 +402,9 @@
 </art>
 <!--
 $Log: tag.xml,v $
+Revision 1.40  2012/10/23 00:13:58  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.39  2010/11/01 17:30:29  revo
 Agustin Garcia Lopez: +trd es (cxiu - a)
 
@@ -421,8 +424,5 @@ Revision 1.34  2008/10/09 16:31:01  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.33  2006/03/25 17:31:04  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.32  2006/02/03 17:32:16  revo
 -->
 </vortaro>

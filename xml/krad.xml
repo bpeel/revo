@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krad.xml,v 1.20 2006/11/02 17:31:59 revo Exp $">
+<art mrk="$Id: krad.xml,v 1.21 2012/10/23 00:12:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>krad</rad>/o
@@ -179,7 +179,7 @@
 </drv>
 
 <drv mrk="krad.0eca">
-  <kap><tld/>a<fnt>Z</fnt>, <tld/>eca</kap>
+  <kap><tld/>a<fnt>Z</fnt>, <var><kap><tld/>eca</kap></var></kap>
   <snc>
     <dif>
       Prezentanta intencajn interspacojn, same kiel <tld/>o:
@@ -279,6 +279,9 @@ a&ubreve; kiel
 </art>
 <!--
 $Log: krad.xml,v $
+Revision 1.21  2012/10/23 00:12:33  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.20  2006/11/02 17:31:59  revo
 Tulio Flores: +tr pt
 
@@ -298,9 +301,5 @@ Revision 1.15  2004/04/21 17:08:50  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.14  2003/09/09 16:31:02  revo
-Yury Finkel: +trd ru
-
-Revision 1.13  2003/08/06 16:31:51  revo
 -->
 </vortaro>
-

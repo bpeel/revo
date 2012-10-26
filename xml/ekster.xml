@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekster.xml,v 1.27 2011/12/10 14:10:08 revo Exp $">
+<art mrk="$Id: ekster.xml,v 1.28 2012/10/22 01:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ekster</rad>
@@ -128,7 +128,7 @@
     </trdgrp>
   </drv>
   <drv mrk="ekster.al0">
-    <kap>al <tld/>, <tld/> ...-n</kap>
+    <kap>al <tld/>, <var><kap><tld/> ...-n</kap></var></kap>
     <snc>
       <dif>
         <ref cel="al.0">Al</ref> loko situanta
@@ -619,6 +619,9 @@ zagranicznych</trd>
 </art>
 <!--
 $Log: ekster.xml,v $
+Revision 1.28  2012/10/22 01:10:14  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.27  2011/12/10 14:10:08  revo
 Marc Rausell: +trd ca
 
@@ -638,8 +641,5 @@ Revision 1.22 2005/05/16 17:47:20 revo
 Yury Finkel: +trd ru
 
 Revision 1.21 2004/07/18 16:31:16 revo
-Marc Bavant: ~: sxovis dif al drv
-
-Revision 1.20 2004/05/22 16:32:55 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konsek1.xml,v 1.12 2011/12/06 23:10:26 revo Exp $">
+<art mrk="$Id: konsek1.xml,v 1.13 2012/10/23 00:12:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konsekvenc</rad>/o
@@ -202,8 +202,8 @@ konkludon de la
 
 <drv mrk="konsek1.ne0osen0o">
   <kap>
-    ne<tld/>o, sen<tld/>o
-  </kap>
+    ne<tld/>o, <var><kap>sen<tld/>o
+  </kap></var></kap>
   <snc>
     <dif>
       Io, kio ne logike interligi&gcirc;as kun anta&ubreve;a&jcirc;oj:
@@ -232,6 +232,9 @@ sen<tld/>oj<fnt>Z</fnt>;
 </art>
 <!--
 $Log: konsek1.xml,v $
+Revision 1.13  2012/10/23 00:12:23  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.12  2011/12/06 23:10:26  revo
 Marc Rausell: kataluna traduko
 
@@ -251,8 +254,5 @@ Revision 1.7  2002/03/02 18:00:20  revo
 Ulrich Fellmann: + 21 germ trdj
 
 Revision 1.6  2001/10/22 18:14:26  revo
-Yury Finkel: +trd ru, kor erarojn
-
-Revision 1.5  2001/03/20 20:00:56  revo
 -->
 </vortaro>

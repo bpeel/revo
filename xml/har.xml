@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: har.xml,v 1.36 2011/10/21 10:10:08 revo Exp $">
+  <art mrk="$Id: har.xml,v 1.37 2012/10/23 00:11:39 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>har</rad>/o <fnt><bib>PV</bib></fnt>
@@ -311,7 +311,7 @@
     </drv>
 
     <drv mrk="har.kol0aro">
-      <kap>kol<tld/>aro, <ofc>*</ofc>kol<tld/>oj</kap>
+      <kap>kol<tld/>aro, <var><kap><ofc>*</ofc>kol<tld/>oj</kap></var></kap>
       <snc mrk="har.kol0aro.ANA">
         <dif>
           Longaj pendantaj <tld/>oj &ccirc;e kolo de iuj bestoj: leono,
@@ -514,6 +514,9 @@
   </art>
   <!--
   $Log: har.xml,v $
+  Revision 1.37  2012/10/23 00:11:39  revo
+  Neil Roberts: aldonu la etikedon <var>
+
   Revision 1.36  2011/10/21 10:10:08  revo
   Sergio Pokrovskij: +~plektajxo
 

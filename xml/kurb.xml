@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kurb.xml,v 1.35 2010/01/18 17:31:35 revo Exp $">
+<art mrk="$Id: kurb.xml,v 1.36 2012/10/23 00:12:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kurb</rad>/a
@@ -366,8 +366,8 @@
 </drv>
 
 <drv mrk="kurb.gauxsa0o">
-  <kap>ga&ubreve;sa <tld/>o, klo&scirc;forma
-  <tld/>o<fnt><bib>MatVort</bib></fnt></kap>
+  <kap>ga&ubreve;sa <tld/>o, <var><kap>klo&scirc;forma
+  <tld/>o<fnt><bib>MatVort</bib></fnt></kap></var></kap>
   <uzo tip="fak">MAT</uzo>
   <snc>
     <dif>
@@ -413,6 +413,9 @@
 </art>
 <!--
 $Log: kurb.xml,v $
+Revision 1.36  2012/10/23 00:12:39  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.35  2010/01/18 17:31:35  revo
 Mireille Corobu: svg->gif
 
@@ -432,8 +435,5 @@ Revision 1.30  2004/03/31 16:31:32  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.29  2003/08/28 06:16:25  revo
-Yury Finkel: gheneraligis trd ru
-
-Revision 1.28  2003/05/09 16:31:29  revo
 -->
 </vortaro>

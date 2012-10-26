@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kamfor.xml,v 1.14 2012/01/05 16:10:35 revo Exp $">
+<art mrk="$Id: kamfor.xml,v 1.15 2012/10/23 00:12:05 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kamfor</rad>/o
@@ -32,7 +32,7 @@
 </drv>
 
 <drv mrk="kamfor.0ujo">
-  <kap><tld/>arbo, <tld/>ujo</kap>
+  <kap><tld/>arbo, <var><kap><tld/>ujo</kap></var></kap>
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
@@ -55,6 +55,9 @@
 </art>
 <!--
 $Log: kamfor.xml,v $
+Revision 1.15  2012/10/23 00:12:05  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.14  2012/01/05 16:10:35  revo
 Marc Rausell: +trd ca (kor)
 
@@ -74,8 +77,5 @@ Revision 1.9 2002/10/08 17:56:33 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.8 2001/10/25 18:47:41 revo
-Karlo Freeman: +trd = en
-
-Revision 1.7 2001/09/03 18:12:14 revo
 -->
 </vortaro>

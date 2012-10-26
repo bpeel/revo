@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hok.xml,v 1.24 2011/12/02 20:10:09 revo Exp $">
+<art mrk="$Id: hok.xml,v 1.25 2012/10/23 00:11:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hok</rad>/o <fnt><bib>PV</bib></fnt>
@@ -402,7 +402,7 @@
 </drv>
 
 <drv mrk="hok.0fadeno0sxnuro">
-  <kap><tld/>fadeno, <tld/>&scirc;nuro</kap>
+  <kap><tld/>fadeno, <var><kap><tld/>&scirc;nuro</kap></var></kap>
   <snc>
     <dif>
       Fadeno provizita per <tld/>o(j) por fi&scirc;kapti.
@@ -530,6 +530,9 @@
 </art>
 <!--
 $Log: hok.xml,v $
+Revision 1.25  2012/10/23 00:11:41  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.24  2011/12/02 20:10:09  revo
 Marc Rausell: kataluna traduko
 
@@ -548,9 +551,6 @@ Sebastian Cyprych: +snc .ubreve, .ccaron, .formi +eks cxe ~i, ~fadeno,
 
 Revision 1.19  2007/12/09 17:30:59  revo
 Wieland Pusch: +trd bg
-
-Revision 1.18  2006/04/30 16:31:24  revo
-Eduardo Navas: +trd es
 
 -->
 </vortaro>

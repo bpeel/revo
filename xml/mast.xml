@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: mast.xml,v 1.24 2012/01/05 14:10:19 revo Exp $">
+<art mrk="$Id: mast.xml,v 1.25 2012/10/23 00:12:57 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mast</rad>/o
@@ -81,7 +81,7 @@
 </drv>
 
 <drv mrk="mast.front0o">
-  <kap>anta&ubreve;a <tld/>o, anta&ubreve;<tld/>o, front<tld/>o</kap>
+  <kap>anta&ubreve;a <tld/>o, <var><kap>anta&ubreve;<tld/>o</kap></var>, <var><kap>front<tld/>o</kap></var></kap>
   <snc>
     <uzo tip="fak">MAR</uzo>
     <dif>
@@ -100,7 +100,7 @@
 </drv>
 
 <drv mrk="mast.cxef0o">
-  <kap>meza <tld/>o, &ccirc;ef<tld/>o, grand<tld/>o</kap>
+  <kap>meza <tld/>o, <var><kap>&ccirc;ef<tld/>o</kap></var>, <var><kap>grand<tld/>o</kap></var></kap>
   <snc>
     <uzo tip="fak">MAR</uzo>
     <dif>
@@ -123,7 +123,7 @@
 </drv>
 
 <drv mrk="mast.post0o">
-  <kap>post<tld/>o, kruc<tld/>o</kap>
+  <kap>post<tld/>o, <var><kap>kruc<tld/>o</kap></var></kap>
   <snc>
     <uzo tip="fak">MAR</uzo>
     <dif>
@@ -183,6 +183,9 @@
 </art>
 <!--
 $Log: mast.xml,v $
+Revision 1.25  2012/10/23 00:12:57  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.24  2012/01/05 14:10:19  revo
 Marc Rausell: +trd ca
 
@@ -202,8 +205,5 @@ Revision 1.19  2006/05/18 16:31:28  revo
 Yury Finkel: kor dif
 
 Revision 1.18  2006/05/17 16:31:34  revo
-Yury Finkel: +ekz
-
-Revision 1.17  2006/05/15 16:32:29  revo
 -->
 </vortaro>

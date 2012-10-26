@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: indust.xml,v 1.17 2010/04/24 17:08:02 revo Exp $">
+<art mrk="$Id: indust.xml,v 1.18 2012/10/23 00:11:48 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>industri</rad>/o
@@ -110,7 +110,7 @@
 </drv>
 
 <drv mrk="indust.0isto0ulo">
-  <kap><tld/>isto, <tld/>ulo</kap>
+  <kap><tld/>isto, <var><kap><tld/>ulo</kap></var></kap>
   <snc>
     <dif>
       Profesiulo, kiu mastras a&ubreve; direktas <tld/>an aferon.
@@ -140,6 +140,9 @@
 </art>
 <!--
 $Log: indust.xml,v $
+Revision 1.18  2012/10/23 00:11:48  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.17  2010/04/24 17:08:02  revo
 Behnam Tabatabai: +trd fa
 
@@ -159,8 +162,5 @@ Revision 1.12  2004/01/20 18:35:05  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.11  2003/06/15 16:31:06  revo
-Marc Bavant: ~a: kor trd fr
-
-Revision 1.10  2003/01/16 17:33:12  revo
 -->
 </vortaro>

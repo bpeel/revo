@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: farm.xml,v 1.16 2009/07/07 16:31:31 revo Exp $">
+<art mrk="$Id: farm.xml,v 1.17 2012/10/23 00:12:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>farm</rad>/i
@@ -97,7 +97,7 @@
 </drv>
 
 <drv mrk="farm.0anto0isto0ulo">
-  <kap><tld/>anto, <tld/>isto, <tld/>ulo</kap>
+  <kap><tld/>anto, <var><kap><tld/>isto</kap></var>, <var><kap><tld/>ulo</kap></var></kap>
   <uzo tip="fak">AGR</uzo>
   <snc>
     <dif>
@@ -164,6 +164,9 @@ pensado</url></vrk>,
 </art>
 <!--
 $Log: farm.xml,v $
+Revision 1.17  2012/10/23 00:12:45  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.16  2009/07/07 16:31:31  revo
 Paul Peeraerts: +trd nl
 
@@ -183,8 +186,5 @@ Revision 1.11  2001/07/27 19:34:02  revo
 Marc Bavant: +trd fr, +uzo AGR; ~o: +ekz, +rim, +adm; ~anto: +adm
 
 Revision 1.10  2001/07/22 18:16:39  revo
-Bertil Wennergren: Forigis superfluan komon.
-
-Revision 1.9  2001/06/20 18:12:21  revo
 -->
 </vortaro>

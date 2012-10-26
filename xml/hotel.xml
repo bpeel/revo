@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hotel.xml,v 1.17 2009/09/19 16:30:40 revo Exp $">
+<art mrk="$Id: hotel.xml,v 1.18 2012/10/23 00:11:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hotel</rad>/o
@@ -48,7 +48,7 @@
 </drv>
 
 <drv mrk="hotel.0isto0mastro">
-  <kap><tld/>isto, <tld/>mastro</kap>
+  <kap><tld/>isto, <var><kap><tld/>mastro</kap></var></kap>
   <snc>
     <dif>
       Posedanto a&ubreve; administranto de <tld/>o.
@@ -74,6 +74,9 @@
 </art>
 <!--
 $Log: hotel.xml,v $
+Revision 1.18  2012/10/23 00:11:43  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.17  2009/09/19 16:30:40  revo
 Antonio Codazzi: +trd it
 
@@ -93,8 +96,5 @@ Revision 1.12  2003/01/04 17:32:01  revo
 Viliam Bur: +trd sk
 
 Revision 1.11  2002/10/14 16:34:58  revo
-Alejandro Mejia Greene: ald 2 his trd
-
-Revision 1.10  2002/07/17 17:32:39  revo
 -->
 </vortaro>

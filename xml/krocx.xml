@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krocx.xml,v 1.24 2010/07/04 16:30:19 revo Exp $">
+<art mrk="$Id: krocx.xml,v 1.25 2012/10/23 00:12:34 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>kro&ccirc;</rad>/i</kap>
 <drv mrk="krocx.0i">
@@ -363,7 +363,7 @@
 </drv>
 
 <drv mrk="krocx.de0imal0i">
-  <kap>de<tld/>i, mal<tld/>i</kap>
+  <kap>de<tld/>i, <var><kap>mal<tld/>i</kap></var></kap>
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
@@ -407,6 +407,9 @@
 </art>
 <!--
 $Log: krocx.xml,v $
+Revision 1.25  2012/10/23 00:12:34  revo
+Neil Roberts: aldonu la etikedon <var>
+
 Revision 1.24  2010/07/04 16:30:19  revo
 Agustin Garcia Lopez: +trd es
 
@@ -426,8 +429,5 @@ Revision 1.19  2005/02/20 17:34:06  revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.18 2004/04/15 16:31:59 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.17 2003/03/15 17:31:27 revo
 -->
 </vortaro>
