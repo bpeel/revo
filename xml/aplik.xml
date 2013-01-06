@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aplik.xml,v 1.14 2003/03/04 17:32:05 revo Exp $">
+<art mrk="$Id: aplik.xml,v 1.15 2012/11/29 21:10:08 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>aplik</rad>/i
@@ -69,6 +69,11 @@
   </trdgrp>
   <trd lng="en">apply</trd>
   <trd lng="es">aplicar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_h; &f_k;&a_A;&a_r; &a_b;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_b;&a_h; &f_k;&a_A;&a_r; &f_g;&a_r;&a_f;&a_t;&a_n;</trd>,
+    <trd>&a_A;&a_s;&a_t;&a_f;&a_A;&a_d;&a_h; &f_k;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
   <trd lng="fr">appliquer</trd>
   <trd lng="it">applicare</trd>
   <trdgrp lng="ru">
@@ -81,6 +86,9 @@
 </art>
 <!--
 $Log: aplik.xml,v $
+Revision 1.15  2012/11/29 21:10:08  revo
+Behnam Tabatabai: +trd fa
+
 Revision 1.14  2003/03/04 17:32:05  revo
 Ulrich Fellmann: + 2 pliaj trd=de
 
@@ -100,9 +108,5 @@ Revision 1.9 2001/02/08 09:22:35 revo
 korektis oficialecon
 
 Revision 1.8 2000/10/03 19:49:20 revo
-Marc Bavant: aldono de franca traduko
-
-Revision 1.7 2000/08/10 18:25:26 revo
 -->
 </vortaro>
-

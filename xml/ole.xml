@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ole.xml,v 1.26 2011/03/04 10:10:10 revo Exp $">
+<art mrk="$Id: ole.xml,v 1.28 2012/11/26 18:10:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ole</rad>/o <fnt><bib>PV</bib></fnt>
@@ -162,7 +162,8 @@
     <uzo tip="fak">KEM</uzo>
     <dif>
       Naftoderiva&jcirc;o ta&ubreve;ga kiel brula&jcirc;o por
-      <ref tip="vid" cel="dizel.0o">dizeloj</ref>:
+      <ref tip="vid" cel="dizel.0o">dizeloj</ref>;
+      <ref tip="sin" cel="gasojl.0o.KEM">gasojlo</ref>:
       <ekz>
         evidenti&gcirc;is, ke estas akvo anka&ubreve; en la gas<tld/>o
         <fnt><aut>E. de Zilah</aut>, <vrk>Vivi sur barko</vrk>, 
@@ -181,6 +182,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">Diesel</trd>
   <trdgrp lng="fr">
     <trd>diesel</trd>,
     <trd>gazole</trd>
@@ -197,6 +199,8 @@
       preparo de man&gcirc;a&jcirc;oj.
     </dif>
   </snc>
+  <trd lng="bg">&c_z;&c_je;&c_h;&c_t;&c_i;&c_n;</trd>
+  <trd lng="de">Oliven&ouml;l</trd>
   <trd lng="fr">huile d'olive</trd>
   <trd lng="pl">oliwa z oliwek</trd>
 </drv>
@@ -217,6 +221,8 @@
         1a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="bg">&c_p;&c_a;&c_l;&c_m;&c_o;&c_v;&c_o; &c_m;&c_a;&c_s;&c_l;&c_o;</trd>
+    <trd lng="de">Palm&ouml;l</trd>
     <trd lng="fr">huile de palme</trd>
     <trd lng="pl">olej palmowy</trd>
   </snc>
@@ -270,6 +276,12 @@
 </art>
 <!--
 $Log: ole.xml,v $
+Revision 1.28  2012/11/26 18:10:09  revo
+Wieland Pusch: +trd de+bg
+
+Revision 1.27  2012/11/22 20:10:10  revo
+Jeromo Vasxe: + 1 sin
+
 Revision 1.26  2011/03/04 10:10:10  revo
 Jeromo Vasxe: + gas~o
 
@@ -286,11 +298,5 @@ Revision 1.22  2007/06/03 18:34:35  revo
 Wieland Pusch: +trd de
 
 Revision 1.21  2006/09/18 16:31:12  revo
-Jeromo Vasxe: + palm~o
-
-Revision 1.20  2005/05/28 16:31:48  revo
-Alan ar Gall: +trd br
-
-Revision 1.19  2005/04/28 16:35:46  revo
 -->
 </vortaro>

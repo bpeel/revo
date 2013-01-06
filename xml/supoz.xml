@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: supoz.xml,v 1.15 2011/05/05 22:10:11 revo Exp $">
+<art mrk="$Id: supoz.xml,v 1.16 2012/12/22 15:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>supoz</rad>/i <fnt><bib>PV</bib></fnt>
@@ -41,6 +41,7 @@
     <trd>vermuten</trd>
   </trdgrp>
   <trd lng="en">suppose</trd>
+  <trd lng="es">suponer</trd>
   <trd lng="fr">supposer</trd>
   <trdgrp lng="hu">
     <trd>felt&eacute;telez</trd>,
@@ -104,6 +105,7 @@
     </dif>
   </snc>
   <trd lng="de">Vermutung</trd>
+  <trd lng="es">suposici&oacute;n</trd>
   <trd lng="fr">supposition</trd>
   <trdgrp lng="hu">
     <trd>felt&eacute;telez&eacute;s</trd>,
@@ -250,6 +252,9 @@
 </art>
 <!--
 $Log: supoz.xml,v $
+Revision 1.16  2012/12/22 15:10:12  revo
+Agustin Garcia Lopez: +trd(es)
+
 Revision 1.15  2011/05/05 22:10:11  revo
 Jeromo Vasxe: + antaux~o
 
@@ -269,8 +274,5 @@ Revision 1.10 2004/06/16 16:32:01 revo
 Sergio Pokrovskij: +~igi
 
 Revision 1.9 2003/09/02 16:30:44 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8 2002/02/27 18:01:08 revo
 -->
 </vortaro>

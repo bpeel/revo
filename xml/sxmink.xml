@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sxmink.xml,v 1.22 2010/10/18 16:30:35 revo Exp $">
+  <art mrk="$Id: sxmink.xml,v 1.23 2012/12/24 10:10:08 revo Exp $">
     <kap>
       <rad>&scirc;mink</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
     </kap>
@@ -31,6 +31,7 @@
       </trdgrp>
       <trd lng="de">schminken</trd>
       <trd lng="en">put on <ind>make-up</ind></trd>
+      <trd lng="es">maquillar</trd>
       <trd lng="he">&lamed;&he;&tav;<ind>&alef;&pe;&resh;</ind></trd>
       <trdgrp lng="hu">
         <trd>beken<klr tip="ind"> (arcot)</klr></trd>,
@@ -67,6 +68,7 @@
           </ekz>
         </dif>
       </snc>
+      <trd lng="es">maquillaje</trd>
       <trdgrp lng="it">
         <trd>trucco<klr> (il truccare/si)</klr></trd>,
         <trd>il <ind>truccare</ind></trd>, 
@@ -222,6 +224,9 @@
   </art>
   <!--
   $Log: sxmink.xml,v $
+  Revision 1.23  2012/12/24 10:10:08  revo
+  Agustin Garcia Lopez: +trd(es)
+
   Revision 1.22  2010/10/18 16:30:35  revo
   Jeromo Vasxe: aux -> u hoko
 
