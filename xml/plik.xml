@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plik.xml,v 1.11 2011/09/01 22:10:20 revo Exp $">
+<art mrk="$Id: plik.xml,v 1.12 2013/01/01 14:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>plik</rad>/o
@@ -20,6 +20,7 @@
   <trd lng="es">plica <klr>(med.)</klr></trd> 
   <trd lng="hu">lengyelf&uuml;rt</trd>
   <trd lng="nl">Poolse <ind>vlecht</ind></trd>
+  <trd lng="pl">ko&lstroke;tun</trd>
   <trdgrp lng="pt">
     <trd>plica</trd>,
     <trd>tricoma</trd>
@@ -29,6 +30,9 @@
 </art>
 <!--
 $Log: plik.xml,v $
+Revision 1.12  2013/01/01 14:10:26  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.11  2011/09/01 22:10:20  revo
 Carlos Garcia: +trd es
 
@@ -48,7 +52,5 @@ Revision 1.6 2001/07/26 18:12:31 revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.5 2001/07/09 18:14:17 revo
-Dennis Wibrow: +trd germ
-
 -->
 </vortaro>

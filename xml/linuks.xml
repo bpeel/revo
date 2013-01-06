@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: linuks.xml,v 1.11 2011/12/06 23:10:30 revo Exp $">
+<art mrk="$Id: linuks.xml,v 1.12 2013/01/01 12:10:16 revo Exp $">
 <kap>
   <rad>Linuks</rad>/o
 </kap>
@@ -36,6 +36,7 @@
   </trdgrp>
   <trd lng="hu">Linux</trd>
   <trd lng="nl">Linux</trd>
+  <trd lng="pl">Linux</trd>
   <trd lng="pt">Linux</trd>
   <trd lng="ru">&c_L;&c_i;&c_n;&c_u;&c_k;&c_s;</trd>
   <trd lng="sk">Linux</trd>
@@ -44,6 +45,9 @@
 </art>
 <!--
 $Log: linuks.xml,v $
+Revision 1.12  2013/01/01 12:10:16  revo
+Sebastian Cyprych: kor trd pl
+
 Revision 1.11  2011/12/06 23:10:30  revo
 Marc Rausell: kataluna traduko
 
@@ -63,8 +67,5 @@ Revision 1.6  2003/05/08 16:30:50  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.5  2003/01/15 20:20:13  revo
-Viliam Bur: +trd sk
-
-Revision 1..4  2002/09/08 18:05:20  revo
 -->
 </vortaro>

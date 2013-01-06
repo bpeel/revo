@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kult.xml,v 1.17 2011/12/29 12:10:09 revo Exp $">
+<art mrk="$Id: kult.xml,v 1.18 2013/01/03 17:10:10 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kult</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,7 +12,9 @@
   <snc mrk="kult.0o.REL">
     <uzo tip="fak">REL</uzo>
     <dif>
-      Religia ceremoniaro, diservado.
+      Religia
+      <ref tip="super" cel="ceremo.0o.solena">ceremoni</ref>aro,
+      diservado, plenumo de <ref tip="vid" cel="rit.0o.MOR">rito</ref>.
     </dif>
     <trdgrp lng="de">
       <trd>Kultus</trd>,
@@ -69,7 +71,8 @@
   <gra><vspec>x</vspec></gra>
   <snc mrk="kult.0i.REL">
     <dif>
-      Honori per <tld/>o:
+      Honori per <tld/>o,
+      <ref tip="vid" cel="ador.0i.religie">adori</ref>:
       <ekz>
         <tld/>i Dion;
       </ekz>
@@ -146,6 +149,9 @@
 </art>
 <!--
 $Log: kult.xml,v $
+Revision 1.18  2013/01/03 17:10:10  revo
+Jeromo Vasxe: + ref
+
 Revision 1.17  2011/12/29 12:10:09  revo
 Jeromo Vasxe: - 1 ref
 
@@ -165,8 +171,5 @@ Revision 1.12  2006/10/14 16:30:32  revo
 Tulio Flores: +tr pt
 
 Revision 1.11  2005/06/09 17:41:31  revo
-Yury Finkel: +trd ru
-
-Revision 1.10  2004/04/07 16:32:39  revo
 -->
 </vortaro>
