@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxel.xml,v 1.29 2010/10/11 16:30:21 revo Exp $">
+<art mrk="$Id: sxel.xml,v 1.30 2013/01/07 01:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;el</rad>/o <fnt><bib>PV</bib></fnt>
@@ -230,10 +230,7 @@
       <trd>sch&auml;len</trd>,
       <trd>pellen</trd>
     </trdgrp>
-    <trdgrp lng="es">
-      <trd>pelar <klr>(una fruta)</klr></trd>,
-      <trd></trd>
-    </trdgrp>
+    <trd lng="es">pelar <klr>(una fruta)</klr></trd>
     <trdgrp lng="it">
       <trd>sgusciare<klr> (tirar fuori dal guscio)</klr></trd>,
       <trd>sbucciare</trd>
@@ -378,6 +375,9 @@
 </art>
 <!--
 $Log: sxel.xml,v $
+Revision 1.30  2013/01/07 01:10:22  revo
+Neil Roberts: Forigo de malplena traduko
+
 Revision 1.29  2010/10/11 16:30:21  revo
 Jerano Zachrisson: +trd sv
 
@@ -397,8 +397,5 @@ Revision 1.24 2005/03/28 17:13:14 revo
 Raul Salinas Monteagudo: +trd ca,es; reordigo de tradukoj
 
 Revision 1.23 2005/01/30 17:31:18 revo
-Wieland Pusch: +trd de
-
-Revision 1.22 2004/11/18 17:31:31 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: produk.xml,v 1.25 2011/12/12 10:10:09 revo Exp $">
+<art mrk="$Id: produk.xml,v 1.26 2013/01/07 01:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>produkt</rad>/i <fnt><bib>PV</bib></fnt>
@@ -77,10 +77,7 @@
       <ref cel="tir.el0i">eltiri</ref>,
       <ref cel="fabrik.0i">fabriki</ref>
     </refgrp>
-    <trdgrp lng="ca">
-      <trd>fabricar</trd>,
-      <trd></trd>
-    </trdgrp>
+    <trd lng="ca">fabricar</trd>
     <trdgrp lng="hu">
       <trd>termel</trd>,
       <trd>gy&aacute;rt</trd>
@@ -455,6 +452,9 @@
 </art>
 <!--
 $Log: produk.xml,v $
+Revision 1.26  2013/01/07 01:10:14  revo
+Neil Roberts: Forigo de malplena traduko al la kataluna lingvo
+
 Revision 1.25  2011/12/12 10:10:09  revo
 Marc Rausell: +trd ca
 
@@ -474,8 +474,5 @@ Revision 1.20  2009/02/19 20:26:05  revo
 Marcus Curdeius: +trd pl
 
 Revision 1.19  2008/07/13 16:30:16  revo
-Carlos Garcia: +trd "es"
-
-Revision 1.18  2007/09/23 16:30:27  revo
 -->
 </vortaro>

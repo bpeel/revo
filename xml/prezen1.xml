@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prezen1.xml,v 1.25 2011/11/23 12:10:07 revo Exp $">
+<art mrk="$Id: prezen1.xml,v 1.26 2013/01/07 01:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>prezent</rad>/i
@@ -279,10 +279,8 @@
       <trd>k&eacute;pvisel</trd>
     </trdgrp>
   </snc>
-  <trdgrp lng="ca">
-    <trd>presentar</trd>,
-    <trd><klr>(mostrar, representar, constituir)</klr></trd>
-  </trdgrp>
+  <trd lng="ca">presentar <klr>(mostrar, representar,
+  constituir)</klr></trd>
   <trdgrp lng="cs">
     <trd>p&rcaron;edv&eacute;st</trd>,
     <trd>p&rcaron;edstavit</trd>
@@ -576,6 +574,9 @@
 </art>
 <!--
 $Log: prezen1.xml,v $
+Revision 1.26  2013/01/07 01:10:19  revo
+Neil Roberts: Forigo de malplena traduko al la kataluna lingvo
+
 Revision 1.25  2011/11/23 12:10:07  revo
 Marc Rausell: kataluna traduko
 
@@ -595,8 +596,5 @@ Revision 1.20  2004/09/06 16:37:49  revo
 Marc Bavant: kor duobligitan punkton
 
 Revision 1.19  2004/08/26 16:31:49  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.18  2004/02/15 17:32:54  revo
 -->
 </vortaro>

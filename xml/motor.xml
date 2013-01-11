@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: motor.xml,v 1.22 2012/06/19 13:10:08 revo Exp $">
+  <art mrk="$Id: motor.xml,v 1.23 2013/01/07 01:10:23 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>motor</rad>/o
@@ -137,10 +137,7 @@
         <trd>robban&oacute;motor</trd>,
         <trd>bels&odblac; &eacute;g&eacute;s&udblac; <ind>motor</ind></trd>
       </trdgrp>
-      <trdgrp lng="nl">
-        <trd>ontploffingsmotor</trd>,
-        <trd></trd>
-      </trdgrp>
+      <trd lng="nl">ontploffingsmotor</trd>
       <trd lng="ru">&c_d;&c_v;&c_i;&c_g;&c_a;&c_t;&c_je;&c_l;&c_mol;
 &c_v;&c_n;&c_u;&c_t;&c_r;&c_je;&c_n;&c_n;&c_je;&c_g;&c_o;
 &c_s;&c_g;&c_o;&c_r;&c_a;&c_n;&c_i;&c_ja;</trd>
@@ -181,6 +178,9 @@
   </art>
   <!--
   $Log: motor.xml,v $
+  Revision 1.23  2013/01/07 01:10:23  revo
+  Neil Roberts: Forigo de malplena traduko
+
   Revision 1.22  2012/06/19 13:10:08  revo
   Tulio Flores: korekto de tajperaro
 

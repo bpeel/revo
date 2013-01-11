@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekzot.xml,v 1.15 2011/12/06 23:10:25 revo Exp $">
+<art mrk="$Id: ekzot.xml,v 1.16 2013/01/07 01:10:12 revo Exp $">
 <kap>
   <rad>ekzot</rad>/a
 </kap>
@@ -25,10 +25,7 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_e;&c_k;&c_z;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
-  <trdgrp lng="ca">
-    <trd>ex&ograve;tic</trd>,
-    <trd></trd>
-  </trdgrp>
+  <trd lng="ca">ex&ograve;tic</trd>
   <trdgrp lng="de">
     <trd>exotisch</trd>,
     <trd>fremdartig</trd>,
@@ -123,6 +120,9 @@
 </art>
 <!--
 $Log: ekzot.xml,v $
+Revision 1.16  2013/01/07 01:10:12  revo
+Neil Roberts: Forigo de malplena traduko al la kataluna lingvo
+
 Revision 1.15  2011/12/06 23:10:25  revo
 Marc Rausell: kataluna traduko
 
@@ -142,8 +142,5 @@ Revision 1.10  2003/12/16 17:32:46  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9  2002/09/28 16:37:37  revo
-Ulrich Fellmann: + 5 pliaj trd de
-
-Revision 1.8  2002/09/25 16:32:56  revo
 -->
 </vortaro>

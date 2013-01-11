@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: matur.xml,v 1.20 2012/08/19 18:10:17 revo Exp $">
+  <art mrk="$Id: matur.xml,v 1.21 2013/01/07 01:10:16 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>matur</rad>/a
@@ -99,10 +99,7 @@
         <trd>azvder</trd>,
         <trd>darevder</trd>
       </trdgrp>       
-      <trdgrp lng="ca">
-        <trd>maduresa</trd>,
-        <trd></trd>
-      </trdgrp>           
+      <trd lng="ca">maduresa</trd>
       <trd lng="de">Reife</trd>
       <trdgrp lng="en">
         <trd>maturity</trd>,
@@ -196,6 +193,9 @@
   </art>
   <!--
   $Log: matur.xml,v $
+  Revision 1.21  2013/01/07 01:10:16  revo
+  Neil Roberts: Forigo de malplena traduko al la kataluna lingvo
+
   Revision 1.20  2012/08/19 18:10:17  revo
   Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: viol.xml,v 1.28 2012/08/02 00:10:09 revo Exp $">
+<art mrk="$Id: viol.xml,v 1.29 2013/01/07 01:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>viol</rad>/o <fnt><bib>PV</bib></fnt>
@@ -73,10 +73,7 @@
   <trd lng="fa">&a_b;&a_n;&a_f;&a_sh;&a_h;&a_hamza_sure; &a_s;&a_h;&zwnj;&a_r;&a_n;&f_g;</trd>
   <trd lng="fr">pens&eacute;e<klr> (botanique)</klr></trd>
   <trd lng="hu">&aacute;rv&aacute;cska</trd>
-  <trdgrp lng="nl">
-    <trd>driekleurig <ind>viooltje</ind></trd>,
-    <trd></trd>
-  </trdgrp>
+  <trd lng="nl">driekleurig <ind>viooltje</ind></trd>
   <trdgrp lng="pl">
     <trd>bratek</trd>,
     <trd>fio&lstroke;ek tr&oacute;jbarwn</trd>
@@ -186,6 +183,9 @@
 </art>
 <!--
 $Log: viol.xml,v $
+Revision 1.29  2013/01/07 01:10:21  revo
+Neil Roberts: Forigo de malplena traduko
+
 Revision 1.28  2012/08/02 00:10:09  revo
 Jeromo Vasxe: + mrk
 
@@ -205,8 +205,5 @@ Revision 1.23  2007/01/30 17:30:51  revo
 Wieland Pusch: +trd de
 
 Revision 1.22  2006/09/18 16:31:08  revo
-Russ Williams: +trd en
-
-Revision 1.21  2006/07/04 16:32:25  revo
 -->
 </vortaro>
