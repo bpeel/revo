@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: leuxg.xml,v 1.7 2012/08/21 09:10:14 revo Exp $">
+<art mrk="$Id: leuxg.xml,v 1.8 2013/01/18 01:10:13 revo Exp $">
 <kap>
   <rad>le&ubreve;g</rad>/o <fnt><bib>NeoGlo</bib></fnt>
 </kap>
@@ -31,7 +31,9 @@
   <trd lng="es">legua</trd>
   <trd lng="fr">lieue</trd>
   <trd lng="hu">m&eacute;rf&ouml;ld</trd>
+  <trd lng="ca">llegua</trd>
   <trd lng="nl">mijl</trd>
+  <trd lng="oc">l&egrave;ga</trd>
   <trd lng="pl">liga <klr>(jedn. d&lstroke;ugo&sacute;ci)</klr></trd>
   <trd lng="pt">l&eacute;gua</trd>
   <trdgrp lng="ru">
@@ -44,6 +46,9 @@
 
 <!--
 $Log: leuxg.xml,v $
+Revision 1.8  2013/01/18 01:10:13  revo
+Benito Subejrano: +trd ca oc
+
 Revision 1.7  2012/08/21 09:10:14  revo
 Sebastian Cyprych: +trd pl
 
@@ -63,7 +68,5 @@ Revision 1.2  2006/06/18 16:34:34  revo
 Yury Finkel: +trd ru
 
 Revision 1.1  2006/06/11 16:31:37  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

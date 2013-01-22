@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: oriks.xml,v 1.6 2012/08/21 09:10:12 revo Exp $">
+<art mrk="$Id: oriks.xml,v 1.7 2013/01/18 01:10:14 revo Exp $">
 <kap>
   <rad>oriks</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -40,11 +40,13 @@
   <trd lng="es">oryx</trd> 
   <trd lng="fr">oryx</trd>
   <trd lng="it">orice</trd>
+  <trd lng="ca">&ograve;rix</trd>
   <trd lng="nl">sabelantiloop</trd>
   <trdgrp lng="pl">
     <trd>oryx</trd>,
     <trd>oryks</trd>
   </trdgrp>
+  <trd lng="oc">orix</trd>
   <trdgrp lng="pt">
     <trd>&oacute;rix</trd>,
     <trd>guelengue</trd>
@@ -54,6 +56,9 @@
 
 <!--
 $Log: oriks.xml,v $
+Revision 1.7  2013/01/18 01:10:14  revo
+Benito Subejrano: +trd ca oc
+
 Revision 1.6  2012/08/21 09:10:12  revo
 Sebastian Cyprych: +trd pl
 

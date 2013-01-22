@@ -2,14 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tineed.xml,v 1.7 2012/08/14 00:10:25 revo Exp $">
+<art mrk="$Id: tineed.xml,v 1.8 2013/01/18 01:10:10 revo Exp $">
 <kap>
-  <rad>tineed</rad>/oj
+  <rad>tineed</rad>/oj <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="tineed.0oj">
   <kap><tld/>oj</kap>
-  <uzo tip="fak">ZOO</uzo>
-  <snc>
+  <snc mrk="tineed.0oj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
     <dif>
       Familio el la ordo <ref tip="super"
       cel="lepido1.0oj">lepidopteroj</ref>
@@ -21,6 +21,7 @@
   <trd lng="ca">tineids</trd>
   <trd lng="de"><klr>(Echte)</klr> Motten<klr tip="ind">
   (Familie)</klr></trd>
+  <trd lng="fr">mites</trd>
   <trd lng="hu">val&oacute;di <ind>molyok</ind><klr tip="ind">
   (csal&aacute;d)</klr></trd>
   <trd lng="nl">motten<klr tip="ind"> (fam.)</klr></trd>
@@ -33,6 +34,9 @@
 </art>
 <!--
 $Log: tineed.xml,v $
+Revision 1.8  2013/01/18 01:10:10  revo
+Jeromo Vasxe: + mrk, + trd fr
+
 Revision 1.7  2012/08/14 00:10:25  revo
 Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
  
 <vortaro>
-<art mrk="$Id: spermatozo.xml,v 1.5 2012/01/01 21:10:12 revo Exp $">
+<art mrk="$Id: spermatozo.xml,v 1.6 2013/01/16 10:10:14 revo Exp $">
 <kap>
   <rad>spermatozo</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -16,7 +16,9 @@
       <ref tip="super" cel="cxel.0o.BIO">&ccirc;elo<sncref/></ref>.      
     </dif>
   </snc>
-  <ref tip="vid" cel="ov.0ocxelo">ovo&ccirc;elo</ref>
+  <refgrp tip="vid">
+    <ref cel="cxel.ovo0o.FIZL">ovo&ccirc;elo</ref>
+  </refgrp>
   <trd lng="ca">espermatozou</trd>
   <trd lng="en">spermatozoon</trd>
   <trd lng="es">espermatozoide</trd>
@@ -28,6 +30,9 @@
 
 <!--
 $Log: spermatozo.xml,v $
+Revision 1.6  2013/01/16 10:10:14  revo
+Jeromo Vasxe: kor 1 ref
+
 Revision 1.5  2012/01/01 21:10:12  revo
 Marc Rausell: +trd ca
 
