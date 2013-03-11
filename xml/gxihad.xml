@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: gxihad.xml,v 1.6 2009/03/25 17:30:45 revo Exp $">
+  <art mrk="$Id: gxihad.xml,v 1.7 2013/02/13 15:10:19 revo Exp $">
     <kap>
       <rad>&gcirc;ihad</rad>/o <fnt><bib>KrED</bib></fnt>
     </kap>
@@ -13,7 +13,7 @@
         <uzo tip="fak">REL</uzo>
         <dif>
           En <ref tip="malprt" cel="islam.0o">islamo</ref>,
-          lukto a&ubreve; fortostre&ccirc;o celanta venkon de tiu kredo &dash;
+          lukto a&ubreve; fortostre&ccirc;o celanta venkon de tiu kredo &#8208;
           &ccirc;u en la menso de islamano mem (la granda <tld/>o),
           a&ubreve; en la ekstera mondo (la malgranda <tld/>o).
         </dif>
@@ -38,6 +38,7 @@
         </dif>
         <ref tip="vid" cel="milit.kruc0o">krucmilito</ref>
       </snc>
+      <trd lng="be">&c_d;&c_zh;&c_y;&c_h;&c_a;&c_d;</trd>
       <trd lng="cs">d&zcaron;ihad</trd>
       <trd lng="de">Dschihad</trd>
       <trd lng="en">jihad</trd>
@@ -51,6 +52,9 @@
   </art>
   <!--
   $Log: gxihad.xml,v $
+  Revision 1.7  2013/02/13 15:10:19  revo
+  Dmitri Gabinski: redakto: +trd be
+
   Revision 1.6  2009/03/25 17:30:45  revo
   Wieland Pusch: +trd de
 

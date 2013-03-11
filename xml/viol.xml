@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: viol.xml,v 1.29 2013/01/07 01:10:21 revo Exp $">
+<art mrk="$Id: viol.xml,v 1.30 2013/02/15 06:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>viol</rad>/o <fnt><bib>PV</bib></fnt>
@@ -154,7 +154,7 @@
       <ref cel="rugx.trans0a">transru&gcirc;a</ref>
     </refgrp>
   </snc>
-  <trd lng="be">&c_u;&c_l;&c_mol;&c_t;&c_r;&c_a;&c_f;&c_ib;&c_ja;&c_l;&c_je;&c_t;&c_a; &c_v;&c_y;</trd>
+  <trd lng="be">&c_u;&c_l;&c_mol;&c_t;&c_r;&c_a;&c_f;&c_ib;&c_ja;&c_l;&c_je;&c_t;&c_a;&c_v;&c_y;</trd>
   <trd lng="de">ultraviolett</trd>
   <trd lng="en">ultraviolet</trd>
   <trdgrp lng="fa">
@@ -183,6 +183,9 @@
 </art>
 <!--
 $Log: viol.xml,v $
+Revision 1.30  2013/02/15 06:10:14  revo
+Dmitri Gabinski: kor de trd be
+
 Revision 1.29  2013/01/07 01:10:21  revo
 Neil Roberts: Forigo de malplena traduko
 
@@ -202,8 +205,5 @@ Revision 1.24  2009/02/10 14:18:36  revo
 Sebastian Cyprych: -fusxaj linirompoj
 
 Revision 1.23  2007/01/30 17:30:51  revo
-Wieland Pusch: +trd de
-
-Revision 1.22  2006/09/18 16:31:08  revo
 -->
 </vortaro>

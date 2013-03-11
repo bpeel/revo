@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ventri.xml,v 1.17 2012/08/13 08:10:16 revo Exp $">
+<art mrk="$Id: ventri.xml,v 1.18 2013/02/15 07:10:15 revo Exp $">
 <kap>
   <rad>ventrikl</rad>/o
 </kap>
@@ -26,6 +26,7 @@
     <trd>Ventrikel</trd>,
     <trd>Kammer</trd>
   </trdgrp>
+  <trd lng="be">&c_sh;&c_l;&c_u;&c_n;&c_a;&c_ch;&c_a;&c_k;</trd>
   <trd lng="en">ventricle</trd>
   <trd lng="es">ventr&iacute;culo</trd>
   <trd lng="fr">ventricule</trd>
@@ -46,6 +47,9 @@
 </art>
 <!--
 $Log: ventri.xml,v $
+Revision 1.18  2013/02/15 07:10:15  revo
+Dmitri Gabinski: redakto: +trd be
+
 Revision 1.17  2012/08/13 08:10:16  revo
 Marc Rausell: + trd ca
 
@@ -65,8 +69,5 @@ Revision 1.12  2005/04/26 16:32:00  revo
 Vito Redsky: +trd pl
 
 Revision 1.11  2005/02/02 17:32:54  revo
-Jozefo Horvath: +ind en trd hu
-
-Revision 1.10  2005/02/01 17:31:32  revo
 -->
 </vortaro>

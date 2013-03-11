@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: montr.xml,v 1.29 2011/11/28 13:10:08 revo Exp $">
+  <art mrk="$Id: montr.xml,v 1.30 2013/02/18 02:10:17 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>montr</rad>/i <fnt><bib>PV</bib></fnt>
@@ -37,6 +37,10 @@
         </trdgrp>
         <trd lng="nl">tonen</trd>
         <trd lng="de">zeigen</trd>
+        <trdgrp lng="pt">
+          <trd>mostrar</trd>,
+          <trd>apontar</trd>
+        </trdgrp>
         <trdgrp lng="ru">
           <trd>&c_p;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;</trd>,
           <trd>&c_p;&c_o;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
@@ -527,6 +531,9 @@
   </art>
   <!--
   $Log: montr.xml,v $
+  Revision 1.30  2013/02/18 02:10:17  revo
+  Evandro Avellar: +tr pt
+
   Revision 1.29  2011/11/28 13:10:08  revo
   Marc Rausell: kataluna traduko
 

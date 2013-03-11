@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ole.xml,v 1.28 2012/11/26 18:10:09 revo Exp $">
+<art mrk="$Id: ole.xml,v 1.30 2013/02/05 19:10:08 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ole</rad>/o <fnt><bib>PV</bib></fnt>
@@ -182,11 +182,17 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_z;&c_o;&c_j;&c_l;&c_mol;</trd>,
+    <trd>&c_d;&c_y;&c_z;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_je; &c_p;&c_a;&c_l;&c_ib;&c_v;&c_a;</trd>
+  </trdgrp>
   <trd lng="de">Diesel</trd>
   <trdgrp lng="fr">
     <trd>diesel</trd>,
     <trd>gazole</trd>
   </trdgrp>
+  <trd lng="pt">&oacute;leo diesel</trd>
+
 </drv>
 
 <drv mrk="ole.oliv0o">
@@ -199,6 +205,7 @@
       preparo de man&gcirc;a&jcirc;oj.
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_l;&c_je;&c_j; &c_a;&c_l;&c_ib;&c_w;&c_k;&c_a;&c_v;&c_y;</trd>
   <trd lng="bg">&c_z;&c_je;&c_h;&c_t;&c_i;&c_n;</trd>
   <trd lng="de">Oliven&ouml;l</trd>
   <trd lng="fr">huile d'olive</trd>
@@ -221,11 +228,12 @@
         1a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_a;&c_l;&c_je;&c_j; &c_p;&c_a;&c_l;&c_mol;&c_m;&c_a;&c_v;&c_y;</trd>
     <trd lng="bg">&c_p;&c_a;&c_l;&c_m;&c_o;&c_v;&c_o; &c_m;&c_a;&c_s;&c_l;&c_o;</trd>
     <trd lng="de">Palm&ouml;l</trd>
     <trd lng="fr">huile de palme</trd>
     <trd lng="pl">olej palmowy</trd>
-  </snc>
+    <trd lng="pt">azeite de dend&ecirc;</trd>  </snc>
 </drv>
 
 <drv mrk="ole.sankt0i">
@@ -267,15 +275,23 @@
   <kap>&scirc;ton<tld/>o</kap>
   <snc mrk="ole.sxton0o.MIN">
     <ref tip="dif" cel="petrol.0o.rafinita">petrolo</ref>
-  </snc>                        
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_f;&c_t;&c_a;</trd>                        
   <trd lng="br">tireoul</trd>
   <trd lng="de">Erd&ouml;l</trd>
   <trd lng="es">petr&oacute;leo</trd>
   <trd lng="fr">p&eacute;trole<klr> (raffin&eacute;)</klr></trd>
+  <trd lng="pt">&oacute;leo (petr&oacute;leo)</trd>
 </drv>
 </art>
 <!--
 $Log: ole.xml,v $
+Revision 1.30  2013/02/05 19:10:08  revo
+Paulo Rodrigo Barros: + trd pt gasoleo palmoleo
+
+Revision 1.29  2013/02/05 16:10:16  revo
+Dmitri Gabinski: redakto: +trd be
+
 Revision 1.28  2012/11/26 18:10:09  revo
 Wieland Pusch: +trd de+bg
 
@@ -292,11 +308,5 @@ Revision 1.24  2009/06/23 16:31:45  revo
 Sebastian Cyprych: +oliv~o +trd pl
 
 Revision 1.23  2009/02/23 17:30:25  revo
-Mireille Corobu: korektis tajperaron en palmoleo
-
-Revision 1.22  2007/06/03 18:34:35  revo
-Wieland Pusch: +trd de
-
-Revision 1.21  2006/09/18 16:31:12  revo
 -->
 </vortaro>

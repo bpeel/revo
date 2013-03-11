@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sxangx.xml,v 1.31 2013/01/10 01:10:07 revo Exp $">
+  <art mrk="$Id: sxangx.xml,v 1.32 2013/01/31 21:10:09 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>&scirc;an&gcirc;</rad>/i
@@ -227,8 +227,8 @@ oro
         <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_c;&c_a;</trd>
       </trdgrp>
       <trdgrp lng="de">
-        <trd><klr>sich </klr>&auml;ndern</trd>,
-        <trd><klr>sich </klr>ver&auml;ndern</trd>
+        <trd>sich <ind>&auml;ndern</ind></trd>,
+        <trd>sich <ind>ver&auml;ndern</ind></trd>
       </trdgrp>
       <trdgrp lng="en">
         <trd>change</trd>,
@@ -359,6 +359,9 @@ oro
   </art>
   <!--
   $Log: sxangx.xml,v $
+  Revision 1.32  2013/01/31 21:10:09  revo
+  Bart Demeyere: trd de: ind anstatau klr
+
   Revision 1.31  2013/01/10 01:10:07  revo
   Bart Demeyere: +trd en,fr,nl
 

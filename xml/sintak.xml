@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sintak.xml,v 1.19 2010/10/27 16:30:27 revo Exp $">
+  <art mrk="$Id: sintak.xml,v 1.20 2013/02/15 06:10:13 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>sintaks</rad>/o
@@ -24,8 +24,7 @@
               <lok>jaro 2001a, numero 12a, p. 13a</lok></fnt>.
           </ekz>
         </dif>
-        <trd lng="be">
-        &c_s;&c_ib;&c_n;&c_t;&c_a;&c_k;&c_s;&c_ib;&c_s;</trd>
+        <trd lng="be">&c_s;&c_ib;&c_n;&c_t;&c_a;&c_k;&c_s;&c_ib;&c_s;</trd>
         <trd lng="pl">sk&lstroke;adnia</trd>
         <trd lng="pt">sintaxe</trd>
       </snc>
@@ -35,6 +34,7 @@
         </dif>
         <trd lng="pt">livro de <ind>sintaxe</ind></trd>
       </snc>
+      <trd lng="be">&c_s;&c_ib;&c_n;&c_t;&c_a;&c_k;&c_s;&c_ib;&c_s;</trd>
       <trd lng="ca">sintaxi</trd>
       <trd lng="de">Syntax</trd>
       <trd lng="en">syntax</trd>
@@ -91,6 +91,9 @@
   </art>
   <!--
   $Log: sintak.xml,v $
+  Revision 1.20  2013/02/15 06:10:13  revo
+  Dmitri Gabinski: redakto: +trd be
+
   Revision 1.19  2010/10/27 16:30:27  revo
   Russ Williams: +trd en
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bulgar.xml,v 1.17 2012/10/23 00:10:57 revo Exp $">
+<art mrk="$Id: bulgar.xml,v 1.18 2013/02/12 02:10:17 revo Exp $">
 <kap>
    <ofc>8</ofc>
    <rad>bulgar</rad>/o
@@ -111,9 +111,12 @@
    <trd lng="fr">Bulgarie</trd>
    <trd lng="hu">Bulg&aacute;ria</trd>
    <trd lng="pl">Bu&lstroke;garia</trd>
+   <trdgrp lng="pt">
+     <trd>Bulg&aacute;ria</trd>,
+     <trd>Rep&uacute;blica da Bulg&aacute;ria</trd>
+   </trdgrp>
    <trd lng="ru">&c_B;&c_o;&c_l;&c_g;&c_a;&c_r;&c_i;&c_ja;</trd>
    <trd lng="sk">Bulharsko</trd>
-   <trd lng="pt">Bulg&aacute;ria</trd>
 </drv>
 
 <drv mrk="bulgar.pra0o">
@@ -186,6 +189,9 @@
 
 <!--
 $Log: bulgar.xml,v $
+Revision 1.18  2013/02/12 02:10:17  revo
+Evandro Avellar: Tr+ pt
+
 Revision 1.17  2012/10/23 00:10:57  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -205,8 +211,5 @@ Revision 1.12  2007/06/14 16:31:39  revo
 Wieland Pusch: +trd de
 
 Revision 1.11  2004/02/02 19:42:27  revo
-Axel Rousseau: +trd fr
-
-Revision 1.10  2004/01/23 17:30:49  revo
 -->
 </vortaro>

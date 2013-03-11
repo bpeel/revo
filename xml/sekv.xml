@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sekv.xml,v 1.26 2012/10/23 00:13:41 revo Exp $">
+<art mrk="$Id: sekv.xml,v 1.27 2013/02/18 02:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sekv</rad>/i <fnt><bib>PV</bib></fnt>
@@ -42,6 +42,7 @@
       <trd>&c_ib;&c_s;&c_mol;&c_c;&c_ib; <klr>(&c_z;&c_a; &c_k;&c_ib;&c_m;)</klr></trd>
     </trdgrp>
     <trd lng="ca">empaitar</trd>
+    <trd lng="pt">seguir</trd>
     <trdgrp lng="ru">
       <trd>&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol; <klr>(&c_z;&c_a; &c_k;&c_je;&c_m;-&c_l;.,
       &c_ch;&c_je;&c_m;-&c_l;.)</klr></trd>,
@@ -589,6 +590,9 @@
 </art>
 <!--
 $Log: sekv.xml,v $
+Revision 1.27  2013/02/18 02:10:19  revo
+Evandro Avellar: +tr pt
+
 Revision 1.26  2012/10/23 00:13:41  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -608,8 +612,5 @@ Revision 1.21  2004/10/05 16:58:58  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.20  2004/07/20 22:22:22  revo
-Marc Bavant: ~i: +mrk, +2snc, +ekz, apartigis ~o, ~e; ~i1: mod dif, +ref
-al "postiri", "postveni"; kor ref tip sin, +drv ~o, ~e, post~i,
-post~anta
 -->
 </vortaro>

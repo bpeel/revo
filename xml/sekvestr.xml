@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sekvestr.xml,v 1.2 2010/04/09 16:31:29 revo Exp $">
+<art mrk="$Id: sekvestr.xml,v 1.3 2013/02/20 15:10:09 revo Exp $">
 <kap>
   <rad>sekvestr</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -13,7 +13,9 @@
     <uzo tip="fak">JUR</uzo>
     <dif>
       Konfidi al administra <ref tip="vid" cel="gard.0i">gardo</ref> 
-      atendante donon a&ubreve; redonon al la la&ubreve;le&gcirc;a posedanto:
+      atendante donon a&ubreve; redonon al la la&ubreve;le&gcirc;a posedanto;
+      <ref tip="sin" cel="sekves.0i.JUR">sekvestracii</ref>;
+      <ref tip="sin" cel="sekest.0i.JUR">sekestri</ref>:
       <ekz>
         oni devas vin kuratori kaj <tld/>i la kapitalon &gcirc;is via
         plena&gcirc;i&gcirc;o
@@ -23,8 +25,23 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_e;&c_k;&c_v;&c_e;&c_s;&c_t;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">segrest<klr> (dret)</klr></trd>
+  <trd lng="de">unter <ind>Zwangsverwaltung</ind> stellen</trd>
   <trd lng="en">sequester</trd>
   <trd lng="fr">mettre sous <ind>s&eacute;questre</ind></trd>
+  <trdgrp lng="hu">
+    <trd>lefoglal<klr tip="ind"> (z&aacute;rol)</klr></trd>,
+    <trd>z&aacute;r al&aacute; vesz</trd>
+  </trdgrp>
+  <trd lng="it">sequestrare<klr> (lex)</klr></trd>
+  <trd lng="nl">sekwesteren</trd>
+  <trd lng="pl">sekwestrowa&cacute;</trd>
+  <trd lng="pt">seq&uuml;estrar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_je;&c_k;&c_v;&c_je;&c_s;&c_t;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol; <ind>&c_s;&c_je;&c_k;&c_v;&c_je;&c_s;&c_t;&c_r;</ind></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sekvestr.0o">
@@ -51,6 +68,9 @@
 
 <!--
 $Log: sekvestr.xml,v $
+Revision 1.3  2013/02/20 15:10:09  revo
+Jeromo Vasxe: + ref sin, + trd el sekvestraci k sekestri
+
 Revision 1.2  2010/04/09 16:31:29  revo
 Lucas Larson: +trd en
 

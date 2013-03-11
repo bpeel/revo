@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hxirur.xml,v 1.31 2011/12/03 18:10:16 revo Exp $">
+<art mrk="$Id: hxirur.xml,v 1.32 2013/02/09 17:10:16 revo Exp $">
 <kap>
   <ofc>8</ofc> <rad>&hcirc;irurgi</rad>/o <fnt>Z</fnt>
   <fnt><bib>PV</bib></fnt>
@@ -47,6 +47,7 @@
       <ref tip="sin" cel="kirurg1.0a">kirurgia</ref>.
     </dif>
   </snc>
+  <trd lng="be">&c_h;&c_ib;&c_r;&c_u;&c_r;&c_g;&c_ib;&c_ch;&c_n;&c_y;</trd>
   <trd lng="bg">&c_h;&c_i;&c_r;&c_u;&c_r;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;</trd>
   <trd lng="ca">quir&uacute;rgic</trd>
   <trd lng="de">chirurgisch</trd>
@@ -88,6 +89,9 @@
 </art>
 <!--
 $Log: hxirur.xml,v $
+Revision 1.32  2013/02/09 17:10:16  revo
+Dmitri Gabinski: +trd be
+
 Revision 1.31  2011/12/03 18:10:16  revo
 Marc Rausell: kataluna traduko
 
@@ -107,8 +111,5 @@ Revision 1.26  2009/03/13 17:31:00  revo
 Antonio Codazzi: +trd it
 
 Revision 1.25  2008/11/16 17:30:38  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.24  2007/07/06 18:04:22  revo
 -->
 </vortaro>

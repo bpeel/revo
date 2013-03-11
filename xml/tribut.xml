@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tribut.xml,v 1.13 2012/04/17 00:10:14 revo Exp $">
+<art mrk="$Id: tribut.xml,v 1.14 2013/02/02 19:10:09 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>tribut</rad>/o <fnt><bib>PV</bib></fnt>
@@ -28,6 +28,9 @@
         <tld/>o de admiro, de respekto.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="kontri1.0o.POL">kontribucio</ref>.
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_d;&c_a;&c_n;&c_ib;&c_n;&c_a;</trd>, 
@@ -56,10 +59,6 @@
         <tld/>u al Dio gloron kaj potencon<fnt>Z</fnt>.
       </ekz>
     </dif>
-    <refgrp tip="vid">
-      <ref cel="impost.0o">imposto</ref>,
-      <ref cel="kontri1.0o">kontribucio</ref>.
-    </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_l;&c_a;&c_c;&c_ib;&c_c;&c_mol; 
     <ind>&c_d;&c_a;&c_n;&c_ib;&c_n;&c_u;</ind></trd>
@@ -77,6 +76,9 @@
 </art>
 <!--
 $Log: tribut.xml,v $
+Revision 1.14  2013/02/02 19:10:09  revo
+Jeromo Vasxe: preciz. 1 ref
+
 Revision 1.13  2012/04/17 00:10:14  revo
 Jeromo Vasxe: + ekz + trd fr
 
@@ -96,8 +98,5 @@ Revision 1.8  2002/09/16 16:31:32  revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.7  2002/03/13 17:34:29  revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/09/30 19:13:19 revo
 -->
 </vortaro>

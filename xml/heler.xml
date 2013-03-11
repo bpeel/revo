@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: heler.xml,v 1.7 2009/09/04 16:30:48 revo Exp $">
+<art mrk="$Id: heler.xml,v 1.8 2013/02/15 07:10:17 revo Exp $">
 <kap>
   <rad>heler</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -22,6 +22,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_g;&c_je;&c_l;&c_je;&c_r; <klr>(&c_m;&c_a;&c_n;&c_e;&c_t;&c_a;)</klr></trd>
   <trd lng="de">Heller<klr tip="amb"> (M&uuml;nze)</klr></trd>
   <trd lng="en">heller<klr tip="amb"> (monetary unit)</klr></trd>
   <trd lng="fr">heller<klr tip="amb"> (monnaie)</klr></trd>
@@ -40,6 +41,9 @@
 
 <!--
 $Log: heler.xml,v $
+Revision 1.8  2013/02/15 07:10:17  revo
+Dmitri Gabinski: redakto: +trd be
+
 Revision 1.7  2009/09/04 16:30:48  revo
 Antonio Codazzi: +trd it
 
@@ -59,7 +63,5 @@ Revision 1.2  2005/06/08 16:31:47  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.1  2005/06/05 16:57:26  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

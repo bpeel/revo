@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: rus.xml,v 1.25 2012/10/23 00:13:37 revo Exp $">
+  <art mrk="$Id: rus.xml,v 1.26 2013/02/12 03:10:14 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>rus</rad>/o
@@ -105,7 +105,8 @@
     </drv>
 
     <drv mrk="rus.R0ujo">
-      <kap><tld lit="R"/>ujo, <var><kap><tld lit="R"/>lando</kap></var></kap>
+      <kap><tld lit="R"/>ujo, <var><kap><tld
+      lit="R"/>lando</kap></var></kap>
       <uzo tip="fak">GEOG</uzo>
       <snc>
         <dif>
@@ -140,6 +141,7 @@
       <trd lng="hu">Oroszorsz&aacute;g</trd>   
       <trd lng="nl">Rusland</trd>
       <trd lng="pl">Rosja</trd>
+      <trd lng="pt">R&uacute;ssia</trd>
       <trd lng="ru">&c_R;&c_o;&c_s;&c_s;&c_i;&c_ja;</trd>
       <trd lng="vo">Lus&auml;n</trd>
       <trdgrp lng="zh">
@@ -263,6 +265,9 @@
   </art>
   <!--
   $Log: rus.xml,v $
+  Revision 1.26  2013/02/12 03:10:14  revo
+  Evandro Avellar: kor de trd pt
+
   Revision 1.25  2012/10/23 00:13:37  revo
   Neil Roberts: aldonu la etikedon <var>
 

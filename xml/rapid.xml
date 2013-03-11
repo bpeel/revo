@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rapid.xml,v 1.25 2009/07/08 16:31:46 revo Exp $">
+<art mrk="$Id: rapid.xml,v 1.26 2013/02/18 14:10:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rapid</rad>/a
@@ -322,6 +322,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_k;&c_a;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>
   <trd lng="fr">s'<ind>acc&eacute;l&eacute;rer</ind></trd>
   <trdgrp lng="es">
     <trd>acelerarse</trd>,
@@ -389,6 +390,9 @@
 </art>
 <!--
 $Log: rapid.xml,v $
+Revision 1.26  2013/02/18 14:10:09  revo
+Dmitri Gabinski: redakto: +trd be
+
 Revision 1.25  2009/07/08 16:31:46  revo
 Paul Peeraerts: +trd nl
 
@@ -407,9 +411,6 @@ Tulio Flores: +trd pt
 
 Revision 1.20 2005/12/12 17:31:09 revo
 jxeromo vasxe: + ~igxi
-
-Revision 1.19 2005/05/24 16:35:01 revo
-Yury Finkel: +trd ru, kor ekz
 
 -->
 </vortaro>

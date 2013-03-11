@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rafin.xml,v 1.18 2013/01/13 18:10:09 revo Exp $">
+<art mrk="$Id: rafin.xml,v 1.19 2013/02/09 17:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rafin</rad>/i <fnt><bib>PV</bib></fnt>
@@ -104,6 +104,7 @@
     </ekz>
     </dif>
     </snc>
+    <trd lng="be">&c_n;&c_a;&c_f;&c_t;&c_a;&c_p;&c_je;&c_r;&c_a;&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_ch;&c_y; &c_z;&c_a;&c_v;&c_o;&c_d;</trd>
   <trd lng="en">refinery</trd>
   <trd lng="nl">raffinaderij</trd>	
   <trd lng="pt">refinaria</trd>	  
@@ -111,6 +112,9 @@
 </art>
 <!--
 $Log: rafin.xml,v $
+Revision 1.19  2013/02/09 17:10:13  revo
+Dmitri Gabinski: +trd be
+
 Revision 1.18  2013/01/13 18:10:09  revo
 Paulo Rodrigo Barros: + trd pt rafinita k rafinejo
 
@@ -130,8 +134,5 @@ Revision 1.13  2006/02/18 17:32:24  revo
 Tulio Flores: +trd pt
 
 Revision 1.12  2005/11/25 17:31:07  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.11  2004/08/30 16:33:03  revo
 -->
 </vortaro>

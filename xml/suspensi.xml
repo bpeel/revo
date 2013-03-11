@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: suspensi.xml,v 1.5 2012/07/14 13:10:26 revo Exp $">
+<art mrk="$Id: suspensi.xml,v 1.6 2013/02/11 10:10:14 revo Exp $">
 <kap>
   <rad>suspensi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -22,6 +22,10 @@
       </fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_v;&c_ib;&c_s;&c_mol;</trd>,
+    <trd>&c_s;&c_u;&c_s;&c_p;&c_e;&c_n;&c_z;&c_ib;&c_ja;</trd>
+  </trdgrp>
   <trd lng="ca">suspensi&oacute;</trd>
   <trdgrp lng="fr">
     <trd>flottement<klr> (chimie)</klr></trd>,
@@ -41,6 +45,9 @@
 
 <!--
 $Log: suspensi.xml,v $
+Revision 1.6  2013/02/11 10:10:14  revo
+Dmitri Gabinski: redakto: +trd be
+
 Revision 1.5  2012/07/14 13:10:26  revo
 Marc Rausell: + trd ca
 

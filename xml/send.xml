@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: send.xml,v 1.28 2011/06/24 19:10:17 revo Exp $">
+  <art mrk="$Id: send.xml,v 1.30 2013/02/20 06:10:09 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>send</rad>/i <fnt><bib>PV</bib></fnt>
@@ -102,6 +102,10 @@
       <trdgrp lng="nl">
         <trd>verzenden</trd>,
         <trd>zenden</trd>
+      </trdgrp>
+      <trdgrp lng="pt">
+        <trd>enviar</trd>,
+        <trd>remeter</trd>
       </trdgrp>
       <trdgrp lng="ru">
         <trd>&c_s;&c_l;&c_a;&c_t;&c_mol;</trd>,
@@ -307,6 +311,7 @@
           en la sama a&ubreve; en alia direkto (precipe por pligrandigi la
           distancon de komunikado).
         </dif>
+        <trd lng="be">&c_r;&c_e;&c_t;&c_r;&c_a;&c_n;&c_s;&c_mol;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
         <trdgrp lng="en">
           <trd>retransmit</trd>,
           <trd>relay</trd>
@@ -376,6 +381,7 @@
             </fnt>.
           </ekz>
         </dif>
+        <trd lng="be">&c_r;&c_e;&c_t;&c_r;&c_a;&c_n;&c_s;&c_mol;&c_l;&c_ja;&c_t;&c_a;&c_r;</trd>
         <trdgrp lng="en">
           <trd>broadcast relay station</trd>,
           <trd>broadcast translator</trd>,
@@ -393,6 +399,12 @@
   </art>
   <!--
   $Log: send.xml,v $
+  Revision 1.30  2013/02/20 06:10:09  revo
+  Dmitri Gabinski: redakto: +trd be
+
+  Revision 1.29  2013/02/18 02:10:20  revo
+  Evandro Avellar: +tr pt
+
   Revision 1.28  2011/06/24 19:10:17  revo
   Dominique Pelle: au -> aux
 

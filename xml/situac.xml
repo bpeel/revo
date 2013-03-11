@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: situac.xml,v 1.18 2012/10/10 00:10:12 revo Exp $">
+<art mrk="$Id: situac.xml,v 1.19 2013/02/15 07:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>situaci</rad>/o <fnt><bib>PV</bib></fnt>
@@ -118,6 +118,10 @@
       Esti en iu <tld/>o.
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_y;&c_c;&c_mol; &c_u; <ind>&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_y;</ind></trd>,
+    <trd>&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_c;&c_a; &c_w; <ind>&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_y;</ind></trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd><klr tip="amb">(vmilyen)</klr> helyzetben van</trd>,
     <trd><klr tip="amb">(vmilyen)</klr> poz&iacute;ci&oacute;ban van</trd>
@@ -135,6 +139,9 @@
 </art>
 <!--
 $Log: situac.xml,v $
+Revision 1.19  2013/02/15 07:10:12  revo
+Dmitri Gabinski: redakto: +trd be
+
 Revision 1.18  2012/10/10 00:10:12  revo
 Jeromo Vasxe: + 1 ref
 
@@ -154,8 +161,5 @@ Revision 1.13  2006/09/24 16:30:34  revo
 Eduardo Navas: +trd es
 
 Revision 1.12  2004/10/13 16:33:19  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11  2003/09/04 16:31:18  revo
 -->
 </vortaro>

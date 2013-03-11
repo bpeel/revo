@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: linuks.xml,v 1.12 2013/01/01 12:10:16 revo Exp $">
+<art mrk="$Id: linuks.xml,v 1.13 2013/01/30 08:10:13 revo Exp $">
 <kap>
   <rad>Linuks</rad>/o
 </kap>
@@ -30,6 +30,7 @@
   <trd lng="ca">Linux</trd>
   <trd lng="de">Linux</trd>
   <trd lng="en">Linux</trd>
+  <trd lng="es">linux</trd>
   <trd lng="fa">&a_l;&f_y;&a_n;&a_w;&f_k;&a_s;</trd>
   <trdgrp lng="fr">
     <trd>Linux</trd>
@@ -45,6 +46,9 @@
 </art>
 <!--
 $Log: linuks.xml,v $
+Revision 1.13  2013/01/30 08:10:13  revo
+Agustin Garcia Lopez: +trd(es)
+
 Revision 1.12  2013/01/01 12:10:16  revo
 Sebastian Cyprych: kor trd pl
 
@@ -64,8 +68,5 @@ Revision 1.7  2004/05/26 16:32:08  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.6  2003/05/08 16:30:50  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.5  2003/01/15 20:20:13  revo
 -->
 </vortaro>

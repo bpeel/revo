@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aspekt.xml,v 1.24 2012/08/28 12:10:10 revo Exp $">
+<art mrk="$Id: aspekt.xml,v 1.25 2013/02/18 02:10:24 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>aspekt</rad>/i <fnt><bib>PV</bib></fnt>
@@ -75,6 +75,10 @@
   <trdgrp lng="pl">
     <trd>wygl&aogonek;da&cacute;</trd>,
     <trd>mie&cacute; <ind>wygl&aogonek;d</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>ter aspecto de</trd>,
+    <trd>ter apar&ecirc;ncia</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_v;&c_y;&c_g;&c_l;&c_ja;&c_d;&c_je;&c_t;&c_mol;</trd>,
@@ -229,6 +233,9 @@
 </art>
 <!--
 $Log: aspekt.xml,v $
+Revision 1.25  2013/02/18 02:10:24  revo
+Evandro Avellar: +tr pt
+
 Revision 1.24  2012/08/28 12:10:10  revo
 Sebastian Cyprych: +trd pl
 
@@ -248,8 +255,5 @@ Revision 1.19  2005/03/30 16:31:41  revo
 Adam Raizen: +trd en, he
 
 Revision 1.18  2002/11/01 09:16:03  revo
-Christopher Zervic: + ang
-
-Revision 1.17  2002/10/23 20:37:45  revo
 -->
 </vortaro>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-  <art mrk="$Id: vetur.xml,v 1.35 2009/09/10 16:31:27 revo Exp $">
+  <art mrk="$Id: vetur.xml,v 1.36 2013/02/18 02:10:23 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>vetur</rad>/i <fnt><bib>PV</bib></fnt>
@@ -73,8 +73,11 @@
         <trd>je&zacute;dzi&cacute;</trd>,
         <trd>jecha&cacute;</trd>
       </trdgrp>
-      <trd lng="pt">ir<klr tip="ind">(com alguma esp&eacute;cie de
+      <trdgrp lng="pt">
+      <trd>andar de ve&iacute;culo</trd>,
+      <trd>ir<klr tip="ind">(com alguma esp&eacute;cie de
           ve&iacute;culo)</klr></trd>
+      </trdgrp>
       <trdgrp lng="ru">
         <trd><ofc>*</ofc>&c_je;&c_h;&c_a;&c_t;&c_mol;</trd>,
         <trd>&c_je;&c_z;&c_d;&c_i;&c_t;&c_mol;</trd>
@@ -472,7 +475,8 @@
           <ref tip="super" cel="vetur.0ilo.TRA"><tld lit="V"/>ilo</ref>
           kapabla iri tra la kosmo:
           <ekz>
-            la projekto de traktato malpermesas <klr>...</klr> la uzadon a&ubreve;
+            la projekto de traktato malpermesas <klr>...</klr> la uzadon
+            a&ubreve;
             minacon de forto kontra&ubreve; satelitoj a&ubreve; alia kosmo<tld/>ilo
             <fnt>
               <aut>-</aut>,
@@ -502,7 +506,8 @@
               <aut>A. Makarov</aut>,
               <vrk>15 julio 2004, Esperanto Koresponda Servo</vrk>,
               <lok>
-                <url ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo"
+                <url
+                ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo"
                   >soc.culture.esperanto</url>,
                 2004-07-15</lok></fnt>.
           </ekz>
@@ -643,6 +648,9 @@
   </art>
   <!--
   $Log: vetur.xml,v $
+  Revision 1.36  2013/02/18 02:10:23  revo
+  Evandro Avellar: +tr pt
+
   Revision 1.35  2009/09/10 16:31:27  revo
   Sergio Pokrovskij: +trd=pl
 
