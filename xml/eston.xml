@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eston.xml,v 1.6 2013/02/12 02:10:20 revo Exp $">
+<art mrk="$Id: eston.xml,v 1.7 2013/02/25 21:10:08 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>eston</rad>/o
@@ -24,6 +24,7 @@
   <trd lng="bg">&c_je;&c_s;&c_t;&c_o;&c_n;&c_je;&c_c;</trd>
   <trd lng="de">Este</trd>
   <trd lng="en">Estonian</trd>
+  <trd lng="es">estonio <klr tip="amb">(natural de Estonia)</klr></trd>
   <trd lng="nl">Est</trd>
   <trd lng="pl">Esto&nacute;czyk</trd>
 </drv>
@@ -57,6 +58,7 @@
   <trd lng="da">Estland</trd>
   <trd lng="de">Estland</trd>
   <trd lng="en">Estonia</trd>
+  <trd lng="es">Estonia</trd>
   <trd lng="fr">Estonie</trd>
   <trd lng="nl">Estland</trd>
   <trd lng="no">Estland</trd>
@@ -69,6 +71,9 @@
 
 <!--
 $Log: eston.xml,v $
+Revision 1.7  2013/02/25 21:10:08  revo
+Agustin Garcia Lopez: +trd(es)
+
 Revision 1.6  2013/02/12 02:10:20  revo
 Evandro Avellar: Tr+ pt
 
