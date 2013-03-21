@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: pak.xml,v 1.22 2012/10/23 00:13:20 revo Exp $">
+  <art mrk="$Id: pak.xml,v 1.23 2013/03/09 16:10:14 revo Exp $">
     <kap>
       <ofc>*</ofc><rad>pak</rad>/i <fnt><bib>PV</bib></fnt>
     </kap>
@@ -140,6 +140,10 @@
             <lok>numero 2002-11, p.14a</lok>
           </fnt>.
         </ekz>
+        <trdgrp lng="be">
+          <trd>&c_p;&c_a;&c_k;&c_je;&c_t;</trd>,
+          <trd>&c_p;&c_a;&c_k;&c_u;&c_n;&c_a;&c_k;</trd>
+        </trdgrp>
         <trd lng="fr">paquet</trd>
         <trdgrp lng="nl">
           <trd>pak</trd>,
@@ -266,6 +270,9 @@
   </art>
   <!--
   $Log: pak.xml,v $
+  Revision 1.23  2013/03/09 16:10:14  revo
+  Dmitri Gabinski: +trd be
+
   Revision 1.22  2012/10/23 00:13:20  revo
   Neil Roberts: aldonu la etikedon <var>
 
