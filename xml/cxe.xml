@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxe.xml,v 1.36 2012/10/22 01:10:12 revo Exp $">
+<art mrk="$Id: cxe.xml,v 1.38 2013/04/25 19:10:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;e</rad>
@@ -1053,6 +1053,7 @@ ideo<fnt>Z</fnt>.
     </trdgrp>
     <trdgrp lng="de">
       <trd>bei</trd>,
+      <trd>neben</trd>,
       <trd>an</trd>,
       <trd>zu</trd>
     </trdgrp>
@@ -1191,7 +1192,8 @@ krom
         pasinta": en la lingvoj, kie &gcirc;i estas sisteme farata
         (ekz-e en la rusa) &gcirc;i ofte aperas kun &ccirc;iuj tempoj:
         "Morga&ubreve; mi veturos al Parizo, al la Sudo" (direkte al
-        Parizo, sed ne nepre &gcirc;is Parizo mem) &#8208; "Morga&ubreve;
+        Parizo, sed ne nepre &gcirc;is Parizo mem) &#8208;
+        "Morga&ubreve;
         mi veturos en Parizon" (mia celo estas ene).
         <aut>Sergio</aut>
       </adm>
@@ -1539,6 +1541,12 @@ nuboj
 </art>
 <!--
 $Log: cxe.xml,v $
+Revision 1.38  2013/04/25 19:10:09  revo
+Norbert Luckhardt: riparo de artikolo - pardonu
+
+Revision 1.37  2013/04/18 16:10:11  revo
+Norbert Luckhardt: +trd(de)
+
 Revision 1.36  2012/10/22 01:10:12  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -1555,11 +1563,5 @@ Revision 1.32 2006/10/09 10:43:41 revo
 Axel Rousseau: +trd tp
 Revision 1.31 2005/05/17 16:32:50 revo
 Sergio Pokrovskij: +2 adm
-Revision 1.30 2005/05/16 17:48:41 revo
-Marc Bavant: kor duobligitajn punktojn
-Revision 1.29 2005/05/08 16:32:07 revo
-Jozefo Horvath: trd hu
-Revision 1.28 2004/08/16 16:31:54 revo
-Marc Bavant: kor [...] en ekz
 -->
 </vortaro>

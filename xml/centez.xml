@@ -2,18 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: centez.xml,v 1.16 2012/08/26 11:10:30 revo Exp $">
+<art mrk="$Id: centez.xml,v 1.17 2013/04/12 12:10:10 revo Exp $">
 <kap>
-  <rad>centezimal</rad>/a
-  <fnt>Z</fnt>
+  <rad>centezimal</rad>/a <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="centez.0a">
   <kap><tld/>a</kap>
-  <snc>
-    <dif>
-      <ref tip="dif" cel="cent.0uma">Centuma</ref> a&ubreve; centona a&ubreve;
-      <ref tip="vid" cel="celsi.0a">celsia</ref>.
-    </dif>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="centez.0a.MAT">
+    <ref tip="dif" cel="cent.0uma.MAT">centuma</ref>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_o;&c_g;&c_r;&c_a;&c_d;&c_u;&c_s;&c_n;&c_y;</trd>
   <trd lng="ca">centesimal</trd>
@@ -41,6 +38,9 @@
 </art>
 <!--
 $Log: centez.xml,v $
+Revision 1.17  2013/04/12 12:10:10  revo
+Jeromo Vasxe: + rar, 1 sola ref dif
+
 Revision 1.16  2012/08/26 11:10:30  revo
 Marc Rausell: + trd ca
 
@@ -60,8 +60,5 @@ Revision 1.11  2003/06/01 16:32:15  revo
 Alejandro Mejia Greene: ald 1 his trd
 
 Revision 1.10  2003/04/08 16:31:53  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.9  2002/09/20 16:32:37  revo
 -->
 </vortaro>

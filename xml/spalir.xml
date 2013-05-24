@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: spalir.xml,v 1.13 2010/10/04 16:31:03 revo Exp $">
+<art mrk="$Id: spalir.xml,v 1.14 2013/03/17 07:10:25 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>spalir</rad>/o
@@ -22,11 +22,7 @@
     </dif>
     <trd lng="en">espalier</trd>
     <trd lng="fr">espalier</trd>
-    <trdgrp lng="hu">
-      <trd>r&aacute;csfal</trd>,
-      <trd>l&eacute;cfal</trd>,
-      <trd>spal&iacute;r</trd>
-    </trdgrp>
+    <trd lng="hu">gy&uuml;m&ouml;lcss&ouml;v&eacute;ny</trd>
     <trd lng="nl">rij leibomen</trd>
     <trdgrp lng="pl">
       <trd>szpaler</trd>,
@@ -142,6 +138,9 @@
 </art>
 <!--
 $Log: spalir.xml,v $
+Revision 1.14  2013/03/17 07:10:25  revo
+Jozefo Horvath: kor. tr hu
+
 Revision 1.13  2010/10/04 16:31:03  revo
 Russ Williams: +trd en
 
@@ -161,8 +160,5 @@ Revision 1.8 2002/02/15 17:33:17 revo
 Yury Finkel: +trd ru
 
 Revision 1.7 2001/10/07 18:16:32 revo
-Dennis Wibrow: +trd germ
-
-Revision 1.6 2001/08/01 18:12:12 revo
 -->
 </vortaro>

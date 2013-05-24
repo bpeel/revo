@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: jakv.xml,v 1.2 2013/04/03 10:10:16 revo Exp $">
+<kap>
+  <rad>jakv</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="jakv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="jakv.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Man&gcirc;ebla <ref tip="super" cel="frukt.0o.KUI">frukto</ref> de 
+      <tld/>arbo, granda, kun malglata, helverda &scirc;elo, forta odoro, 
+      mildagusta karno:
+      <ekz>
+        durioj kaj <tld/>oj staras en plenplenaj korboj el plekta&jcirc;o
+        <fnt>
+          <aut>Riskemulo</aut>,
+          <vrk><url
+          ref="http://www.ipernity.com/blog/mondovojagxanto/420194">
+          Prapradaeng - La verda pulmo de Bankoko</url></vrk>,
+          <lok>2012-10-07</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">jackfruit</trd>
+  <trdgrp lng="fr">
+    <trd>jacque<klr> (fruit)</klr></trd>,
+    <trd>jaque<klr> (fruit)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">d&zdot;akfrut</trd>
+</drv>
+
+<drv mrk="jakv.0arbo">
+  <kap><tld/>arbo, <var><kap><tld/>ujo</kap></var></kap>
+  <snc mrk="jakv.0arbo.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Hinddevena, tropika arbo kun densa bran&ccirc;aro,
+      kultivata por fruktoj kaj ligno,
+      specio el familio <ref tip="super" 
+      cel="morusa.0oj.BOT">morusacoj</ref>
+      (<trd lng="la">Artocarpus heterophyllus</trd>).
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>jacquier</trd>,
+    <trd>jaquier</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>chlebowiec r&oacute;&zdot;nolistny</trd>,
+    <trd>drzewo bochenkowe</trd>
+</trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: jakv.xml,v $
+Revision 1.2  2013/04/03 10:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.1  2013/03/21 20:10:38  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

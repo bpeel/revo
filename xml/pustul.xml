@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pustul.xml,v 1.10 2011/04/29 19:10:50 revo Exp $">
+<art mrk="$Id: pustul.xml,v 1.11 2013/04/25 06:10:16 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>pustul</rad>/o
@@ -23,7 +23,9 @@
     <trd>pimple</trd>
   </trdgrp>
   <trd lng="hu">gennyh&oacute;lyag</trd>
+  <trd lng="la">pustula</trd>
   <trd lng="nl">etterblaasje</trd>
+  <trd lng="pl">krosta</trd>
   <trdgrp lng="pt">
    <trd>p&uacute;stula</trd>
   </trdgrp>
@@ -35,6 +37,9 @@
 </art>
 <!--
 $Log: pustul.xml,v $
+Revision 1.11  2013/04/25 06:10:16  revo
+Sebastian Cyprych: +trd pl,la
+
 Revision 1.10  2011/04/29 19:10:50  revo
 Russ Williams: +trd en
 

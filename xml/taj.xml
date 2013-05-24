@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: taj.xml,v 1.5 2013/02/11 05:10:17 revo Exp $">
+<art mrk="$Id: taj.xml,v 1.7 2013/05/01 16:10:25 revo Exp $">
 <kap>
   <rad>taj</rad>/o
 </kap>
@@ -28,6 +28,7 @@
       <ref tip="vid" cel="laos.L0o.GEOG">Laoso</ref>
       kaj <ref tip="vid" cel="hind.H0aOceano">Hinda Oceano</ref>.
     </dif>
+    <trd lng="be">&c_T;&c_a;&c_j;&c_l;&c_ja;&c_n;&c_d;</trd>
     <trd lng="bg">&c_T;&c_a;&c_j;&c_l;&c_a;&c_n;&c_d;</trd>
     <trdgrp lng="ca">
       <trd>Tail&agrave;ndia</trd>,
@@ -35,6 +36,7 @@
     </trdgrp>
     <trd lng="de">Thailand</trd>
     <trd lng="en">Thailand</trd>
+    <trd lng="id">Thailand</trd>
     <trdgrp lng="pl">
       <trd>Tajlandia</trd>,
       <trd>Kr&oacute;lestwo <ind>Tajlandii</ind></trd>
@@ -47,6 +49,12 @@
 
 <!--
 $Log: taj.xml,v $
+Revision 1.7  2013/05/01 16:10:25  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.6  2013/03/21 20:10:32  revo
+Dmitri Gabinski: redakto: +trd be
+
 Revision 1.5  2013/02/11 05:10:17  revo
 Evandro Avellar: Tr+ pt
 

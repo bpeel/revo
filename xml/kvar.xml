@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-    <art mrk="$Id: kvar.xml,v 1.39 2010/10/21 16:30:30 revo Exp $">
+    <art mrk="$Id: kvar.xml,v 1.40 2013/04/26 15:10:13 revo Exp $">
       <kap>
         <ofc>*</ofc>
         <rad>kvar</rad>
@@ -33,6 +33,7 @@
         <trd lng="fr">quatre</trd>
         <trd lng="he">&alef;&resh;&bet;&ayin;</trd>
         <trd lng="hu">n&eacute;gy</trd>
+        <trd lng="id">empat</trd>
         <trd lng="ja">&#22235; [<ind>&#12375;</ind>]
           [<ind>&#12424;&#12435;</ind>]</trd>
         <trd lng="ku">&ccedil;ar</trd>
@@ -204,6 +205,7 @@ Jo&ccirc;jo</vrk>
           <uzo tip="fak">KAL</uzo>
           <ref tip="dif" cel="kvar.jar0ono.KAL">jar<tld/>ono</ref>
         </snc>
+        <trd lng="id">triwulan</trd>
         <trdgrp lng="nl">
           <trd>kwartaal</trd>,
           <trd>trimester</trd>
@@ -304,6 +306,9 @@ ref="http://radioarkivo.org/vidu.php/2312">2005-07-30</url></lok>
     </art>
     <!--
     $Log: kvar.xml,v $
+    Revision 1.40  2013/04/26 15:10:13  revo
+    Eko Nur Syah Hidayat: +trd id
+
     Revision 1.39  2010/10/21 16:30:30  revo
     Russ Williams: +trd en
 

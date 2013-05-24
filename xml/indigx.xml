@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: indigx.xml,v 1.19 2010/08/03 16:31:24 revo Exp $">
+<art mrk="$Id: indigx.xml,v 1.21 2013/04/16 06:10:12 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>indi&gcirc;en</rad>/o
@@ -51,6 +51,12 @@
   <trdgrp lng="nl">
     <trd>autochtoon<klr tip="ind"> (zn.)</klr></trd>,
     <trd>inboorling</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>tubylec</trd>,
+    <trd>autochton</trd>,
+    <trd>tuziemiec</trd>,
+    <trd>rdzenny <ind>mieszkaniec</ind></trd>
   </trdgrp>
   <trd lng="pt">ind&iacute;gena<klr tip="amb"> (pessoa)</klr></trd>
   <trdgrp lng="ru">
@@ -104,6 +110,12 @@
     <trd>&odblac;shonos</trd>
   </trdgrp>
   <trd lng="nl">inheems</trd>
+  <trdgrp lng="pl">
+    <trd>rdzenny</trd>,
+    <trd>tubylczy</trd>,
+    <trd>autochtoniczny</trd>,
+    <trd>miejscowy</trd>
+  </trdgrp>
   <trd lng="pt">ind&iacute;gena<klr tip="amb"> (adj.)</klr></trd>
   <trdgrp lng="ru">
     <trd>&c_m;&c_je;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>,
@@ -116,6 +128,12 @@
 </art>
 <!--
 $Log: indigx.xml,v $
+Revision 1.21  2013/04/16 06:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2013/04/04 17:10:12  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.19  2010/08/03 16:31:24  revo
 Russ Williams: +trd en
 
@@ -132,11 +150,5 @@ Revision 1.15 2005/02/04 17:31:11 revo
 Marc Bavant: mod trd fr
 
 Revision 1.14 2005/01/12 18:20:58 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.13 2004/01/20 18:34:45 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12 2003/09/12 16:32:46 revo
 -->
 </vortaro>

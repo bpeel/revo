@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sukot.xml,v 1.1 2011/05/20 22:10:09 revo Exp $">
+<art mrk="$Id: sukot.xml,v 1.2 2013/04/11 10:10:19 revo Exp $">
 <kap>
   <rad>Sukot</rad>/o
 </kap>
@@ -34,11 +34,19 @@
     </ekz>
   </snc>
   <trd lng="fr">Souccot</trd>
+  <trdgrp lng="pl">
+    <trd>Sukkot</trd>,
+    <trd>Kuczki</trd>,
+    <trd>&Sacute;wi&eogonek;to <ind>Namiot&oacute;w</ind></trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: sukot.xml,v $
+Revision 1.2  2013/04/11 10:10:19  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.1  2011/05/20 22:10:09  revo
 Jeromo Vasxe: nova artikolo
 

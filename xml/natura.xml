@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: natura.xml,v 1.15 2009/12/15 17:30:33 revo Exp $">
+  <art mrk="$Id: natura.xml,v 1.16 2013/04/09 09:10:14 revo Exp $">
     <kap>
       <ofc>3</ofc>
       <rad>naturalism</rad>/o
@@ -67,6 +67,7 @@ ref="http://www.uni-paderborn.de/extern/fb/2/Kyb.Paed/INT/04-int.htm">Paderborn<
       <trd lng="hu">naturalizmus</trd>
       <trd lng="it">naturalismo</trd>
       <trd lng="nl">naturalisme</trd>
+      <trd lng="pl">naturalizm</trd>
       <trd lng="pt">naturalismo</trd>
       <trd lng="ru">&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
       <trd lng="sv">naturalism</trd>
@@ -74,6 +75,9 @@ ref="http://www.uni-paderborn.de/extern/fb/2/Kyb.Paed/INT/04-int.htm">Paderborn<
   </art>
 <!--
 $Log: natura.xml,v $
+Revision 1.16  2013/04/09 09:10:14  revo
+Sebastian Cyprych: +trd
+
 Revision 1.15  2009/12/15 17:30:33  revo
 Antonio Codazzi: +trd it
 
@@ -93,8 +97,5 @@ Revision 1.10  2002/08/22 17:31:05  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2002/06/08 17:31:26  revo
-Eduardo M. Kalinowski: ald trd el, pt
-
-Revision 1.8  2001/12/20 17:32:46  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: legumi.xml,v 1.9 2004/02/13 17:30:41 revo Exp $">
+<art mrk="$Id: legumi.xml,v 1.10 2013/04/09 13:10:09 revo Exp $">
 <kap>
   <rad>legumin</rad>/o
   <fnt>Z</fnt>
@@ -26,12 +26,16 @@ plantoj.
   <trd lng="de">Legumin</trd>
   <trd lng="hu">legumin</trd>
   <trd lng="nl">legumine</trd>
+  <trd lng="pl">legumina <klr>(bia&lstroke;ko)</klr></trd>
   <trd lng="pt">legumina</trd>
   <trd lng="ru">&c_l;&c_je;&c_g;&c_u;&c_m;&c_i;&c_n;</trd>
 </drv>
 </art>
 <!--
 $Log: legumi.xml,v $
+Revision 1.10  2013/04/09 13:10:09  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.9  2004/02/13 17:30:41  revo
 Dmitri Gabinski: +trd be
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: zorg.xml,v 1.39 2011/02/02 17:10:08 revo Exp $">
+<art mrk="$Id: zorg.xml,v 1.41 2013/04/25 20:10:08 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>zorg</rad>/i
@@ -39,7 +39,6 @@
       <trd>&c_k;&c_l;&c_a;&c_p;&c_a;&c_c;&c_ib;&c_c;&c_c;&c_a;</trd>,
       <trd>&c_a;&c_p;&c_je;&c_k;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
     </trdgrp>
-    <trd lng="es">preocupar</trd>
     <trdgrp lng="hu">
       <trd>gondoskodik</trd>,
       <trd>t&ouml;r&odblac;dik</trd>
@@ -169,6 +168,7 @@ sz&oacute;rakoz&aacute;s</trd>
       <trd>&c_z;&c_a;&c_b;&c_o;&c_t;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
     </trdgrp>
   </snc>
+  <trd lng="es">preocuparse</trd>
   <trdgrp lng="cs">
     <trd>pe&ccaron;ovat</trd>,
     <trd>starat se</trd>
@@ -213,6 +213,7 @@ sz&oacute;rakoz&aacute;s</trd>
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_z;&c_ja;&c_k;&c_u;&c_ju;&c_ch;&c_y; <klr>(&c_ch;&c_y;&c_m;&c_s;&c_mol;&c_c;&c_ib; &c_v;&c_y;&c_s;&c_ib;&c_l;&c_k;&c_a;&c_m;, &c_k;&c_l;&c_o;&c_p;&c_a;&c_t;&c_u;)</klr></trd>
   <trd lng="fr">par les soins de</trd>
   <trd lng="hu">gondoz&aacute;s&aacute;ban</trd>
   <trd lng="it">a cura di</trd>
@@ -766,6 +767,12 @@ malbonon:
 </art>
 <!--
 $Log: zorg.xml,v $
+Revision 1.41  2013/04/25 20:10:08  revo
+Norbert Luckhardt: kor trd(es)
+
+Revision 1.40  2013/04/12 09:10:14  revo
+Dmitri Gabinski: redakto: +trd be
+
 Revision 1.39  2011/02/02 17:10:08  revo
 Agustin Garcia Lopez: +trd es (-o)
 
@@ -782,11 +789,5 @@ Revision 1.35  2008/07/11 16:30:35  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.34  2005/05/16 17:49:20  revo
-Luiz Portella: +trd pt
-
-Revision 1.33  2005/04/27 16:31:38  revo
-Yury Finkel: +trd ru
-
-Revision 1.32  2004/11/25 17:31:04  revo
 -->
 </vortaro>

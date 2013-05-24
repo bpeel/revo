@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: babel.xml,v 1.27 2012/08/02 08:10:14 revo Exp $">
+<art mrk="$Id: babel.xml,v 1.28 2013/04/28 14:10:09 revo Exp $">
 <kap>
   <rad>Babel</rad>/o <fnt>Z</fnt> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -35,6 +35,7 @@
   <trd lng="fr">Babel</trd>
   <trd lng="he">&bet;&bet;&lamed;</trd>
   <trd lng="hu">B&aacute;bel</trd>
+  <trd lng="id">Babel</trd>
   <trd lng="it">Babele</trd>
   <trd lng="nl">Babel</trd>
   <trd lng="pl">Babel</trd>
@@ -74,6 +75,7 @@
       <trd>B&aacute;bel tornya</trd>,
       <trd>b&aacute;beli torony</trd>
     </trdgrp>
+    <trd lng="id">Menara Babel</trd>
     <trd lng="it">Torre di <ind>Babele</ind></trd>
     <trd lng="nl">toren van Babel</trd>
     <trd lng="pl">wie&zdot;a Babel</trd>
@@ -87,6 +89,9 @@
 
 <!--
 $Log: babel.xml,v $
+Revision 1.28  2013/04/28 14:10:09  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.27  2012/08/02 08:10:14  revo
 Marc Rausell: ++ trd ca
 
@@ -106,8 +111,5 @@ Revision 1.22  2009/08/20 16:30:28  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.21  2009/07/01 17:20:53  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.20  2009/03/09 17:30:38  revo
 -->
 </vortaro>

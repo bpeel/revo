@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dan.xml,v 1.11 2013/02/12 02:10:19 revo Exp $">
+<art mrk="$Id: dan.xml,v 1.12 2013/03/27 15:10:17 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>dan</rad>/o
@@ -20,6 +20,7 @@
       Homo kun <tld/>a nacieco.
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_a;&c_t;&c_ch;&c_a;&c_n;&c_ib;&c_n;</trd>
   <trd lng="bg">&c_d;&c_a;&c_t;&c_ch;&c_a;&c_n;&c_i;&c_n;</trd>
   <trd lng="ca">dan&eacute;s<klr> (subst.)</klr></trd>
   <trd lng="de">D&auml;ne</trd>
@@ -40,6 +41,7 @@
       Rilatanta al <tld/>oj, ilia nacieco a&ubreve; &scirc;tato.
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_a;&c_c;&c_k;&c_ib;</trd>
   <trd lng="bg">&c_d;&c_a;&c_t;&c_s;&c_k;&c_i;</trd>
   <trd lng="ca">dan&eacute;s <klr>(adj.)</klr></trd>
   <trd lng="de">d&auml;nisch</trd>
@@ -63,6 +65,7 @@
        sudokcidente de Svedio, kaj sude de Norvegio.
     </dif>
   </snc>
+  <trd lng="be">&c_D;&c_a;&c_n;&c_ib;&c_ja;</trd>
   <trd lng="bg">&c_D;&c_a;&c_n;&c_i;&c_ja;</trd>
   <trdgrp lng="ca">
     <trd>Dinamarca</trd>,
@@ -84,6 +87,9 @@
 
 <!--
 $Log: dan.xml,v $
+Revision 1.12  2013/03/27 15:10:17  revo
+Dmitri Gabinski: redakto: +trd be; kor de uksleco en urbonomo
+
 Revision 1.11  2013/02/12 02:10:19  revo
 Evandro Avellar: Tr+ pt
 
@@ -103,8 +109,5 @@ Revision 1.6  2010/01/26 17:30:21  revo
  Filip van Laenen: Tradukoj en norvegan kaj nederlandan
 
 Revision 1.5  2009/06/06 16:30:47  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.4  2009/04/28 16:30:41  revo
 -->
 </vortaro>

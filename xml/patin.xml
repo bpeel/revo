@@ -2,35 +2,60 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: patin.xml,v 1.11 2011/12/03 21:10:27 revo Exp $">
+<art mrk="$Id: patin.xml,v 1.13 2013/04/03 11:10:13 revo Exp $">
 <kap>
-  <rad>patin</rad>/o
+  <rad>patin</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="patin.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">KEM</uzo>
-  <uzo tip="fak">MIN</uzo>
-  <snc>
+  <snc mrk="patin.0o..KEM">
+    <uzo tip="fak">BELA</uzo>
+    <uzo tip="fak">KEM</uzo>
     <dif>
       Natura verdgriza tavolo krei&gcirc;anta sur &scirc;tono, vitro kaj
-plej ofte sur
-      metaloj, pro malkompona efiko de aero, akvo a&ubreve; tero.
+      plej ofte sur metaloj, pro malkompona efiko de aero
+      akvo a&ubreve; tero:
+      <ekz>
+        unu post alia ili estis malpendigataj, senpolvigataj,
+        lavataj, skrapataj, &gcirc;is ili perdis &ccirc;ian postsignon
+        de la <tld/>o, kiun al ili donis la tempo
+        <fnt>
+          <aut>V. Catal&agrave;, trad. J. Ventura i Freixas</aut>,
+          <vrk>Soleco</vrk>,
+          <lok>1967</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="verdig.0o">verdigro</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_c;&c_ib;&c_n;&c_a;</trd>
   <trd lng="ca">p&agrave;tina</trd>
   <trd lng="de">Patina</trd>
+  <trd lng="fr">patine</trd>
   <trdgrp lng="hu">
     <trd>patina</trd>,
     <trd>r&eacute;zrozsda</trd>
   </trdgrp>
   <trd lng="nl">patina</trd>
+  <trdgrp lng="pl">
+    <trd>patyna</trd>,
+    <trd>&sacute;nied&zacute;</trd>,
+    <trd>grynszpan</trd>
+  </trdgrp>
   <trd lng="pt">p&aacute;tina</trd>
   <trd lng="ru">&c_p;&c_a;&c_t;&c_i;&c_n;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log: patin.xml,v $
+Revision 1.13  2013/04/03 11:10:13  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2013/03/21 20:10:37  revo
+Jeromo Vasxe: + ekz + trd fr + ref
+
 Revision 1.11  2011/12/03 21:10:27  revo
 Marc Rausell: kataluna traduko
 
@@ -47,11 +72,5 @@ Revision 1.7  2002/03/08 17:31:13  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.6  2001/12/13 17:33:00  revo
-Yury Finkel: +trd ru
-
-Revision 1.5 2001/08/22 18:14:15 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.4 2001/07/11 18:11:37 revo
 -->
 </vortaro>

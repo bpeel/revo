@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: zom.xml,v 1.7 2012/08/11 15:10:34 revo Exp $">
+<art mrk="$Id: zom.xml,v 1.8 2013/04/08 12:10:30 revo Exp $">
 <kap>
   <rad>zom</rad>/o <fnt><bib>SPIV</bib></fnt>
 </kap>
@@ -40,6 +40,10 @@ oktobro venos en la merkaton fotiloj je na&ubreve; megapikseloj</url></vrk>,
     <trd>varioobjekt&iacute;v</trd>
     <trd>gumiobjekt&iacute;v</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>obiekty zmiennoogniskowy</trd>,
+    <trd>obiektyw typu <ind>zoom</ind></trd>
+  </trdgrp>
   <trd lng="pt">zoom</trd>
   <trd lng="it">zoom</trd>
 </drv>
@@ -76,6 +80,10 @@ Girl</url></vrk>,
     <trd>kinagy&iacute;t</trd>
   </trdgrp>
  <trd lng="it">zumare</trd>
+ <trdgrp lng="pl">
+  <trd>powi&eogonek;ksza&cacute;</trd>,
+  <trd>przybli&zdot;a&cacute;</trd>
+ </trdgrp>
 </drv>
 
 <drv mrk="zom.mal0i">
@@ -107,6 +115,10 @@ diskurso</url></vrk>,
     <trd>kizoomol</trd>
   </trdgrp>
   <trd lng="it">allargare<klr> (il campo di ripresa)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>zmniejsza&cacute;</trd>,
+    <trd>oddala&cacute;</trd>
+  </trdgrp>
 </drv>
 
 <rim mrk="zom.0o.RIM_DERIV">
@@ -120,6 +132,9 @@ diskurso</url></vrk>,
 
 <!--
 $Log: zom.xml,v $
+Revision 1.8  2013/04/08 12:10:30  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.7  2012/08/11 15:10:34  revo
 Marc Rausell: + trd ca
 
@@ -139,7 +154,5 @@ Revision 1.2  2006/01/22 17:31:10  revo
 Tulio Flores: +trd pt
 
 Revision 1.1  2006/01/21 17:32:01  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

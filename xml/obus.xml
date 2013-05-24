@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: obus.xml,v 1.15 2012/08/02 09:10:28 revo Exp $">
+<art mrk="$Id: obus.xml,v 1.16 2013/04/04 19:10:11 revo Exp $">
 <kap>
    <rad>obus</rad>/o
 </kap>
@@ -40,13 +40,17 @@ eksploda&jcirc;o kaj
    <trdgrp lng="nl">
      <trd>obus</trd>,
      <trd>houwitsergranaat</trd>
-   </trdgrp>   
+   </trdgrp>
+   <trd lng="pl">pocisk <klr>(artyleryjski)</klr></trd> 
    <trd lng="pt">obus</trd>
    <trd lng="ru">&c_s;&c_n;&c_a;&c_r;&c_ja;&c_d;</trd>
 </drv>
 </art>
 <!--
 $Log: obus.xml,v $
+Revision 1.16  2013/04/04 19:10:11  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.15  2012/08/02 09:10:28  revo
 Marc Rausell: + trd ca
 
@@ -66,8 +70,5 @@ Revision 1.10  2004/06/24 16:33:25  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2004/03/16 17:30:37  revo
-Emmanuel Debanne: + trd fr
-
-Revision 1.8  2002/11/21 17:32:58  revo
 -->
 </vortaro>

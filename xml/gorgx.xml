@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gorgx.xml,v 1.22 2011/06/10 20:10:09 revo Exp $">
+<art mrk="$Id: gorgx.xml,v 1.23 2013/04/09 11:10:46 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>gor&gcirc;</rad>/o
@@ -132,6 +132,10 @@
   </snc>
   <trd lng="en">robin</trd>
   <trd lng="fr">rouge-gorge</trd>
+  <trdgrp lng="pl">
+    <trd>rudzik <klr>zwyczajny</klr></trd>,
+    <trd>raszka</trd>
+  </trdgrp>
 </drv>
   
 <drv mrk="gorgx.tralavila0on">
@@ -156,6 +160,9 @@
 </art>
 <!--
 $Log: gorgx.xml,v $
+Revision 1.23  2013/04/09 11:10:46  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.22  2011/06/10 20:10:09  revo
 Mireille Corobu: + rugxgorgxulo
 
@@ -175,8 +182,5 @@ Revision 1.17  2005/07/02 16:33:02  revo
 Vito Redsky: +trd pl
 
 Revision 1.16  2005/03/08 18:48:43  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.15  2005/03/06 17:37:29  revo
 -->
 </vortaro>

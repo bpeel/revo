@@ -2,43 +2,33 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kolokasi.xml,v 1.5 2009/08/25 16:31:18 revo Exp $">
+<art mrk="$Id: kolokasi.xml,v 1.7 2013/05/17 01:10:19 revo Exp $">
 <kap>
   <rad>kolokasi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 
 <drv mrk="kolokasi.0o">
   <kap><tld/>o</kap>
-  <snc mrk="kolokasi.0o.BOT">
-    <uzo tip="fak">BOT</uzo>
-    <dif>
-      Genro de rizomaj vegeta&jcirc;oj kun man&gcirc;eblaj radiktuberoj kaj
-      folioj, el
-      varmaj landoj (<trd lng="la">Colocasia</trd>):
-      <ekz>
-        ili povus travivi per <tld/>oj nutrori&ccirc;aj
-        <fnt><bib>HomojMan&gcirc;antaj</bib>, <lok>&leftquot;tragedio de man&gcirc;o en
-        la
-        insulo Mindanao&rightquot;, p. 40a</lok></fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="de">Colocasia</trd>
-  <trdgrp lng="fr">
-    <trd>chou de chine</trd>,
-    <trd>colocase</trd>
-  </trdgrp>
-  <trd lng="hu">kolok&aacute;zia</trd>
-  <trd lng="nl">colocasia</trd>
-  <trdgrp lng="pt">
-    <trd>coloc&aacute;sia</trd>,
-    <trd>inhame</trd>
-  </trdgrp>
+  <uzo tip="stl">EVI</uzo>
+  <uzo tip="fak">BOT</uzo>
+  <ref tip="dif" cel="kolokazi.0o">kolokazio</ref>
+  <ekz>
+    ili povus travivi per <tld/>oj nutrori&ccirc;aj
+    <fnt><bib>HomojMan&gcirc;antaj</bib>, <lok>&leftquot;tragedio de man&gcirc;o en
+    la insulo Mindanao&rightquot;, p. 40a</lok></fnt>.
+  </ekz>
+  <!-- formon evitindan prefere ne traduku -->
 </drv>
 </art>
 
 <!--
 $Log: kolokasi.xml,v $
+Revision 1.7  2013/05/17 01:10:19  revo
+Jeromo Vasxe: ref dif
+
+Revision 1.6  2013/04/08 06:10:26  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.5  2009/08/25 16:31:18  revo
 Paul Peeraerts: +trd nl
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: valid.xml,v 1.20 2012/08/12 08:10:13 revo Exp $">
+<art mrk="$Id: valid.xml,v 1.21 2013/04/12 10:10:12 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>valid</rad>/a
@@ -68,15 +68,11 @@
     </dif>
   </snc>
   <trdgrp lng="be">
-    <trd>&c_b;&c_y;&c_c;&c_mol;
-    <ind>&c_d;&c_z;&c_je;&c_j;&c_s;&c_n;&c_y;&c_m;</ind></trd>,
-    <trd>&c_b;&c_y;&c_c;&c_mol;
-    <ind>&c_s;&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_n;&c_y;&c_m;</ind></trd>,
-    <trd>&c_b;&c_y;&c_c;&c_mol;
-    <ind>&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_z;&c_je;&c_j;&c_n;&c_y;&c_m;</ind>
-    </trd>,
-    <trd>&c_b;&c_y;&c_c;&c_mol;
-    <ind>&c_z;&c_a;&c_k;&c_o;&c_n;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_d;&c_z;&c_je;&c_j;&c_s;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_s;&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_z;&c_je;&c_j;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_z;&c_a;&c_k;&c_o;&c_n;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_m;&c_je;&c_c;&c_mol; <ind>&c_m;&c_o;&c_c;</ind></trd>,
     <trd>&c_m;&c_je;&c_c;&c_mol; <ind>&c_s;&c_ib;&c_l;&c_u;</ind></trd>
   </trdgrp>
   <trd lng="ca">&eacute;sser v&agrave;lid</trd>
@@ -122,6 +118,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_r;&c_a;&c_c;&c_ib;&c_c;&c_mol; <ind>&c_m;&c_o;&c_c;</ind></trd>,
+    <trd>&c_s;&c_t;&c_r;&c_a;&c_c;&c_ib;&c_c;&c_mol; <ind>&c_s;&c_ib;&c_l;&c_u;</ind></trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>caducar</trd>,
     <trd>perdre la <ind>validesa</ind></trd>
@@ -140,6 +140,9 @@
 </art>
 <!--
 $Log: valid.xml,v $
+Revision 1.21  2013/04/12 10:10:12  revo
+Dmitri Gabinski: redakto: +trd be
+
 Revision 1.20  2012/08/12 08:10:13  revo
 Marc Rausell: + trd ca
 
@@ -159,8 +162,5 @@ Revision 1.15 2002/10/01 16:38:49 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.14 2002/07/18 11:23:45 revo
-Eduardo M. Kalinowski: ald trd pt
-
-Revision 1.13 2002/05/05 16:31:20 revo
 -->
 </vortaro>

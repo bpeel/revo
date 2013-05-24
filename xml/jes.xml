@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jes.xml,v 1.36 2012/02/07 12:10:10 revo Exp $">
+<art mrk="$Id: jes.xml,v 1.38 2013/05/12 14:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>jes</rad> <fnt><bib>PV</bib></fnt> 
@@ -67,6 +67,7 @@
       <trd>d'<ind>accord</ind><klr tip="ind"> (oui)</klr></trd>
     </trdgrp>
     <trd lng="hu">igen</trd>
+    <trd lng="id">ya</trd>
     <trd lng="it">s&igrave;</trd>
     <trd lng="nl">ja</trd>
     <trd lng="pl">tak</trd>
@@ -434,6 +435,7 @@
         signe de t&ecirc;te)</klr></trd>,
     <trd>opiner du chef</trd>
   </trdgrp>
+  <trd lng="id">[<ind>angguk</ind>] mengangguk</trd>
   <trd lng="nl">ja knikken</trd>
   <trdgrp lng="pl">
     <trd>potakn&aogonek;&cacute;</trd>,
@@ -446,6 +448,12 @@
 </art>
 <!--
 $Log: jes.xml,v $
+Revision 1.38  2013/05/12 14:10:10  revo
+Eko Nur Syah Hidayat: korekto de verba skribformo
+
+Revision 1.37  2013/05/10 16:10:19  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.36  2012/02/07 12:10:10  revo
 Jeromo Vasxe: + ~ulo
 
@@ -462,11 +470,5 @@ Revision 1.32  2009/03/12 17:31:26  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.31  2009/02/22 17:30:48  revo
-Sergej Chlutchin: -rompitaj vortoj ru
-
-Revision 1.30  2009/02/10 14:19:08  revo
-Harri Laine: lingvoindiko aldonita al trd fi
-
-Revision 1.29  2008/06/19 16:44:13  revo
 -->
 </vortaro>

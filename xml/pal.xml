@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pal.xml,v 1.22 2011/12/04 21:10:09 revo Exp $">
+<art mrk="$Id: pal.xml,v 1.23 2013/04/18 07:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>pal</rad>/a <fnt><bib>PV</bib></fnt>
 </kap>
@@ -198,6 +198,10 @@
       <trd>decaure</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_l;&c_ja;&c_d;&c_n;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_b;&c_l;&c_ja;&c_k;&c_n;&c_u;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>palidecer</trd>
   </trdgrp>
@@ -217,6 +221,9 @@
 </art>
 <!--
 $Log: pal.xml,v $
+Revision 1.23  2013/04/18 07:10:13  revo
+Dmitri Gabinski: redakto: +trd be
+
 Revision 1.22  2011/12/04 21:10:09  revo
 Marc Rausell: kataluna traduko
 
@@ -236,8 +243,5 @@ Revision 1.17  2006/11/11 17:30:21  revo
 Jeromo Vasxe: ~igxi + snc fig
 
 Revision 1.16 2006/03/23 17:31:51 revo
-Sergio Pokrovskij: TEZ
-
-Revision 1.15 2006/02/24 17:34:42 revo
 -->
 </vortaro>

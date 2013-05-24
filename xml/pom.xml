@@ -2,15 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pom.xml,v 1.35 2012/01/05 10:10:09 revo Exp $">
+<art mrk="$Id: pom.xml,v 1.39 2013/04/03 11:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pom</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="pom.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <snc mrk="pom.0o.BOT">
-    <uzo tip="fak">BOT</uzo>
+  <snc mrk="pom.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
     <dif>
       Frukto de la <tld/>arbo.
     </dif>
@@ -44,7 +44,7 @@
   <snc mrk="pom.0ejo.HOR">
     <uzo tip="fak">HOR</uzo>
     <dif>
-      Kampo kie pomarboj estas plantitaj.
+      Kampo kie <tld/>arboj estas plantitaj.
     </dif>
   </snc>
   <trd lng="ca">pomereda</trd>
@@ -65,7 +65,7 @@
     <dif>
       Genro el familio <ref tip="super" cel="rozac.0oj">rozacoj</ref>
       (<trd lng="la">Malus</trd>); unu specio (<trd lng="la">Malus
-      domestica</trd>) estas kulturata en multaj varia&jcirc;oj.
+      domestica</trd>) estas kultivata en multaj varia&jcirc;oj.
     </dif>
   </snc>
   <trd lng="be">&c_ja;&c_b;&c_l;&c_y;&c_n;&c_ja;</trd>
@@ -89,7 +89,7 @@
   <snc mrk="pom.gorgxo0o.ANA">
     <uzo tip="fak">ANA</uzo>
     <dif>
-      Elstaro de la <ref tip="vid" cel="tiroid.0o.ANA">tiroida</ref>
+      Elstaro de la tiroida
       kartilago videbla sur la kolo precipe de plenkreskaj viroj:
       <ekz>
         pro la tusado, lia viza&gcirc;o ru&gcirc;i&gcirc;is purpure, la gor&gcirc;a <tld/>o 
@@ -114,10 +114,119 @@
     </dif>
   </snc>
   <trd lng="fr">pomme d'Adam</trd>
+  <trdgrp lng="pl">
+    <trd>grdyka</trd>,
+    <trd>jab&lstroke;ko Adama <klr>(pot.)</klr></trd>
+  </trdgrp>
 </drv>     
+
+<drv mrk="pom.stel0o">
+  <kap>stel<tld/>o</kap>
+  <snc mrk="pom.stel0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Man&gcirc;ebla <ref tip="super" cel="frukt.0o.KUI">frukto</ref> de 
+      stel<tld/>arbo, kun globaj, dol&ccirc;aj fruktoj, kiuj post tratran&ccirc;o
+      elmontras stelforman hela&jcirc;on &ccirc;irka&ubreve; la semoj:
+      <ekz>
+        parencaj specioj, anka&ubreve; nomitaj stel<tld/>oj
+        estas kultivitaj en Afriko, inkluzive de
+        C. albidum kaj C. africanum
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Stelpomo">
+          stelpomo</url>, 2013-02-02</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">pomme de lait</trd>
+</drv>
+
+<drv mrk="pom.stel0arbo">
+  <kap>stel<tld/>arbo, <var><kap>stel<tld/>ujo</kap></var></kap>
+  <snc mrk="pom.stel0arbo.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Alta arbo el Centrameriko, Karibio, Antiloj
+      el familio <ref tip="super" cel="sapot.0oj.BOT">sapotacoj</ref>
+      donanta fruktojn kaj plurajn kuracajn substancojn
+      (<trd lng="la">Chrysophyllum cainito</trd>).
+    </dif>
+  </snc>
+  <trd lng="fr">ca&iuml;nitier</trd>
+</drv>
+
+<drv mrk="pom.suker0o">
+  <kap>suker<tld/>o</kap>
+  <snc mrk="pom.suker0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Man&gcirc;ebla <ref tip="super" cel="frukt.0o.KUI">frukto</ref>
+      de suker<tld/>arbo, kun plejofte
+      verda skvameca &scirc;elo kaj je matureco blanka kaj mola
+      karno:
+      <ekz>
+        ne forgeseblaj fruktoj estas drakofrukto
+        (<ctl>Thanh long</ctl>) kaj suker<tld/>o
+        (<ctl>m&atilde;ng c&#7847;u ta</ctl>) por oferi al prapatroj
+        <fnt>
+          <aut>Rejko</aut>,
+          <vrk><url
+          ref="http://blog.livedoor.jp/deziras_pacon/archives/51422109.html">
+          Preparado por Tet'o</url></vrk>,
+          <lok>2009-01-22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">sugar-apple</trd>
+  <trdgrp lng="fr">
+    <trd>atte</trd>,
+    <trd>pomme cannelle</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pom.suker0arbo">
+  <kap>suker<tld/>arbo, <var><kap>suker<tld/>ujo</kap></var></kap>
+  <snc mrk="pom.suker0arbo.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Sudamerikdevena arbeto kutivata en
+      tropikaj kaj subtropikaj landoj pro la fruktoj
+      el familio anonacoj
+      (<trd lng="la">Annona squamosa</trd>):
+      <ekz>
+        la kunmetita frukto de la suker<tld/>arbo havas rondan formon
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Sukerpomo">
+          sukerpomo</url>, 2013-03-12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>attier</trd>,
+    <trd>pommier cannelle</trd>
+  </trdgrp>
+  <trd lng="pl">flaszowiec &lstroke;uskowaty</trd>
+</drv>
 </art>
 <!--
 $Log: pom.xml,v $
+Revision 1.39  2013/04/03 11:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.38  2013/03/24 02:10:11  revo
+Jeromo Vasxe: + stel~o/arbo
+
+Revision 1.37  2013/03/23 19:10:08  revo
+Jeromo Vasxe: + familio anonacoj
+
+Revision 1.36  2013/03/21 20:10:41  revo
+Jeromo Vasxe: + suker~o/arbo
+
 Revision 1.35  2012/01/05 10:10:09  revo
 Jeromo Vasxe: + gorgxo~o
 
@@ -128,17 +237,5 @@ Revision 1.33  2010/08/03 16:30:51  revo
 Bart Demeyere: +mrkoj
 
 Revision 1.32  2010/06/06 16:31:23  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.31  2009/07/01 17:22:51  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.30  2009/06/22 16:30:26  revo
-Wieland Pusch: korr arabaj/persaj koderoj
-
-Revision 1.29  2009/05/17 16:31:12  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.28  2006/03/09 17:31:25  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ta1.xml,v 1.2 2009/07/05 16:40:15 revo Exp $">
+<art mrk="$Id: ta1.xml,v 1.3 2013/04/25 06:10:14 revo Exp $">
 <kap>
   <rad>ta</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -33,6 +33,10 @@
       </ekz>
     </dif>
     <trd lng="fr">taratata !</trd>
+    <trdgrp lng="pl">
+      <trd>tak, tak!</trd>,
+      <trd>jasne, jasne!</trd>
+    </trdgrp>
   </snc>
   <snc mrk="ta1.0.sonimito">
     <gra><vspec>sonimito</vspec></gra>
@@ -66,12 +70,16 @@
       <ref cel="paf.0">paf</ref>
     </refgrp>
     <trd lng="fr">tacatacatac !</trd>
+    <trd lng="pl">tra-ta-ta!</trd>
   </snc>
 </drv>
 </art>
 
 <!--
 $Log: ta1.xml,v $
+Revision 1.3  2013/04/25 06:10:14  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.2  2009/07/05 16:40:15  revo
 Jeromo Vasxe: lauxliteraj ta en kap por konservi spacetojn
 

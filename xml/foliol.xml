@@ -2,23 +2,24 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: foliol.xml,v 1.8 2004/02/25 20:36:07 revo Exp $">
+<art mrk="$Id: foliol.xml,v 1.9 2013/04/19 09:10:09 revo Exp $">
 <kap>
-<rad>foliol</rad>/o
+  <rad>foliol</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="foliol.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <uzo tip="stl">EVI</uzo>
+  <snc mrk="foliol.0o.BOT">
     <uzo tip="fak">BOT</uzo>
-    <uzo tip="stl">EVI</uzo>
-    <dif>
-      <ref tip="sin" cel="foli.0ero.BOT">Foliero</ref> de kunmetita folio.
-    </dif>
+    <ref tip="dif" cel="foli.0ero.BOT">foliero</ref>
   </snc>
 </drv>
 </art>
 <!--
 $Log: foliol.xml,v $
+Revision 1.9  2013/04/19 09:10:09  revo
+Jeromo Vasxe: ref -sin +dif
+
 Revision 1.8  2004/02/25 20:36:07  revo
 Wolfram Diestel: -snc 1 = brakteo, snc 2 = foliero, -trdoj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: furz.xml,v 1.16 2012/01/02 18:10:23 revo Exp $">
+<art mrk="$Id: furz.xml,v 1.17 2013/05/07 13:10:08 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>furz</rad>/i
 </kap>
@@ -32,6 +32,11 @@
   </trdgrp>
   <trdgrp lng="lat"><trd>pedo, ere</trd>, <trd>crepo, are</trd></trdgrp>
   <trd lng="nl">een <ind>wind</ind> laten</trd>
+  <trdgrp lng="pl">
+    <trd>pierdzie&cacute;</trd>,
+    <trd>puszcza&cacute; <ind>b&aogonek;ki</ind></trd>,
+    <trd>puszcza&cacute; <ind>gazy</ind></trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>peidar</trd>,
     <trd>soltar um <ind>pum</ind></trd>,
@@ -62,6 +67,9 @@
 </art>
 <!--
 $Log: furz.xml,v $
+Revision 1.17  2013/05/07 13:10:08  revo
+Sebastian Cyprych: +tdr pl
+
 Revision 1.16  2012/01/02 18:10:23  revo
 Marc Rausell: +trd ca
 
@@ -81,8 +89,5 @@ Revision 1.11  2006/09/17 16:30:49  revo
 Russ Williams: +trd en
 
 Revision 1.10  2005/04/05 16:33:36  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.9  2003/10/21 16:30:54  revo
 -->
 </vortaro>

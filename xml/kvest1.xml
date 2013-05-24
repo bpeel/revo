@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kvest1.xml,v 1.6 2009/08/28 16:31:11 revo Exp $">
+<art mrk="$Id: kvest1.xml,v 1.7 2013/04/15 11:10:19 revo Exp $">
 <kap>
   <rad>kvest</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -38,6 +38,7 @@
     <trd>inzamelen<klr tip="ind"> (geld, kleding)</klr></trd>,
     <trd>ophalen<klr tip="ind"> (voor armen b.v.)</klr></trd>
   </trdgrp>
+  <trd lng="pl">kwestowa&cacute;</trd>
   <trdgrp lng="pt">
     <trd>angariar</trd>,
     <trd>granjear</trd>
@@ -64,6 +65,7 @@
     <trd>collecte</trd>,
     <trd>omhaling</trd>
   </trdgrp>
+  <trd lng="pl">kwesta</trd>
 </drv>
 
 <drv mrk="kvest1.0ajxo">
@@ -94,11 +96,15 @@
     <trd>gift</trd>,
     <trd>schenking</trd>
   </trdgrp>
+  <trd lng="pl">kwesta</trd>
 </drv>
 </art>
 
 <!--
 $Log: kvest1.xml,v $
+Revision 1.7  2013/04/15 11:10:19  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.6  2009/08/28 16:31:11  revo
 Behnam Tabatabai: +trd fa
 

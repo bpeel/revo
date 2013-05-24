@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: traban.xml,v 1.8 2004/12/08 20:30:14 revo Exp $">
+<art mrk="$Id: traban.xml,v 1.9 2013/04/04 19:10:18 revo Exp $">
 <kap>
   <rad>trabant</rad>/o
 </kap>
@@ -25,11 +25,19 @@
     <trd>csatl&oacute;s</trd>
   </trdgrp>
   <trd lng="nl">satelliet</trd>
+  <trdgrp lng="pl">
+    <trd>trabant</trd>,
+    <trd>&zdot;o&lstroke;nierz stra&zdot;y przybocznej</trd>,
+    <trd>wsp&oacute;&lstroke;towarzysz</trd>
+  </trdgrp>
   <trd lng="ru">&c_s;&c_p;&c_u;&c_t;&c_n;&c_i;&c_k;</trd>
 </drv>
 </art>
 <!--
 $Log: traban.xml,v $
+Revision 1.9  2013/04/04 19:10:18  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.8  2004/12/08 20:30:14  revo
 Jozefo Horvath: +trd hu
 
@@ -47,4 +55,3 @@ Dennis Wibrow: +trd germ
 
 -->
 </vortaro>
-

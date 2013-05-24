@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pedel.xml,v 1.12 2010/09/05 16:30:33 revo Exp $">
+<art mrk="$Id: pedel.xml,v 1.13 2013/04/11 10:10:10 revo Exp $">
 <kap>
    <ofc>1</ofc>
    <rad>pedel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -48,6 +48,11 @@
     <trd>sekresty&eacute;s</trd>,
     <trd>egyh&aacute;zfi</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pedel</trd>,
+    <trd>wo&zacute;ny <klr>(uniwersytecki, s&aogonek;dowy)</klr></trd>,
+    <trd>zakrystian</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>bedel <klr>(de igreja)</klr></trd>,
     <trd>bedel <klr>(de col&eacute;gio, universidade)</klr></trd>,
@@ -58,6 +63,9 @@
 </art>
 <!--
 $Log: pedel.xml,v $
+Revision 1.13  2013/04/11 10:10:10  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.12  2010/09/05 16:30:33  revo
 Jeromo Vasxe: + ekz
 
@@ -77,8 +85,5 @@ Revision 1.7  2001/12/13 17:33:30  revo
 Yury Finkel: +trd ru
 
 Revision 1.6 2001/10/17 18:14:05 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.5 2001/07/10 18:11:15 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aha.xml,v 1.4 2012/10/01 14:10:10 revo Exp $">
+<art mrk="$Id: aha.xml,v 1.5 2013/04/15 11:10:20 revo Exp $">
 <kap>
   <rad>aha</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -25,6 +25,10 @@
     <trd>aha !</trd>,
     <trd>tiens-tiens !</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>aha!</trd>,
+    <trd>ha!</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_a;&c_g;&c_a;!</trd>
   </trdgrp>
@@ -33,6 +37,9 @@
 
 <!--
 $Log: aha.xml,v $
+Revision 1.5  2013/04/15 11:10:20  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.4  2012/10/01 14:10:10  revo
 Valentin Safonnikov: aldonas traduko
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hund.xml,v 1.59 2011/11/21 21:10:08 revo Exp $">
+<art mrk="$Id: hund.xml,v 1.60 2013/05/12 10:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hund</rad>/o <fnt><bib>PV</bib></fnt>
@@ -93,6 +93,7 @@
   <trd lng="fa">&a_s;&f_g;</trd>
   <trd lng="fr">chien</trd>
   <trd lng="hu">kutya</trd>
+  <trd lng="id">anjing</trd>
   <trd lng="it">cane</trd>
   <trd lng="nl">hond</trd>
   <trd lng="pl">pies</trd>
@@ -434,6 +435,9 @@
 </art>
 <!--
 $Log: hund.xml,v $
+Revision 1.60  2013/05/12 10:10:10  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.59  2011/11/21 21:10:08  revo
 Marc Rausell: kataluna traduko
 
@@ -453,8 +457,5 @@ Revision 1.54  2009/06/23 16:31:14  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.53  2009/02/10 14:17:54  revo
-Sebastian Cyprych: -fusxaj linirompoj en trd
-
-Revision 1.52  2008/11/25 17:30:30  revo
 -->
 </vortaro>

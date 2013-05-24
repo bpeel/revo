@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: minoritat.xml,v 1.2 2009/10/09 16:30:47 revo Exp $">
+<art mrk="$Id: minoritat.xml,v 1.3 2013/04/04 18:10:10 revo Exp $">
 <kap>
   <rad>minoritat</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -36,11 +36,15 @@
   </snc>
   <ref tip="ant" cel="majoritat.0o">majoritato</ref>
   <trd lng="nl">minderheid<klr tip="ind"> (ontr.)</klr></trd>
+  <trd lng="pl">mniejszo&sacute;&cacute;</trd>
 </drv>
 </art>
 
 <!--
 $Log: minoritat.xml,v $
+Revision 1.3  2013/04/04 18:10:10  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.2  2009/10/09 16:30:47  revo
 Paul Peeraerts: +nl +ref
 

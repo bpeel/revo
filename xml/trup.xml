@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trup.xml,v 1.20 2010/06/06 16:30:46 revo Exp $">
+<art mrk="$Id: trup.xml,v 1.21 2013/04/27 05:10:08 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>trup</rad>/o
@@ -76,6 +76,10 @@
       <trdgrp lng="hu">
         <trd>csapat</trd>,
         <trd>osztag</trd>
+      </trdgrp>
+      <trdgrp lng="id">
+        <trd>laskar</trd>,
+        <trd>pasukan</trd>
       </trdgrp>
       <trdgrp lng="it">
         <trd>reparto</trd>,
@@ -170,6 +174,9 @@
 </art>
 <!--
 $Log: trup.xml,v $
+Revision 1.21  2013/04/27 05:10:08  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.20  2010/06/06 16:30:46  revo
 Antonio Codazzi: +trd it
 
@@ -189,8 +196,5 @@ Revision 1.15 2006/02/16 17:35:55 revo
 Tulio Flores: +trd pt
 
 Revision 1.14 2006/01/09 17:33:36 revo
-Raul Salinas Monteagudo: +trd es
-
-Revision 1.13 2005/11/02 17:31:10 revo
 -->
 </vortaro>

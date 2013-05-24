@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ju.xml,v 1.17 2012/07/20 09:10:20 revo Exp $">
+<art mrk="$Id: ju.xml,v 1.19 2013/04/27 15:10:10 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>ju</rad></kap>
@@ -26,11 +26,12 @@ kritiko<fnt><bib>PrV</bib></fnt>;</ekz>
   <trd>com...</trd>,
   <trd>com m&eacute;s...</trd>
 </trdgrp>
-<trd lng="de">je</trd>
+<trd lng="de">je <klr tip="amb">[... desto]</klr></trd>
 <trd lng="en">the (more, less)</trd>
 <trd lng="he">&kaf;&kaf;&lamed; &shin;-</trd>
 <trd lng="hu">min&eacute;l<klr tip="ind"> (pl. ink&aacute;bb)</klr></trd>
 <trd lng="nl">hoe ...</trd>
+<trd lng="pl">im</trd>
 <trd lng="pt">quanto <klr tip="amb">(comparativo)</klr></trd>
 <trd lng="ru">&c_ch;&c_je;&c_m;...</trd>
 <trd lng="sv">ju</trd>
@@ -38,6 +39,12 @@ kritiko<fnt><bib>PrV</bib></fnt>;</ekz>
 </art>
 <!--
 $Log: ju.xml,v $
+Revision 1.19  2013/04/27 15:10:10  revo
+Norbert Luckhardt: +klr trd(de)
+
+Revision 1.18  2013/04/07 20:10:38  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.17  2012/07/20 09:10:20  revo
 Marc Rausell: + trd ca
 
@@ -54,11 +61,5 @@ Revision 1.13  2005/04/06 16:36:14  revo
 Alan ar Gall: +trd br
 
 Revision 1.12  2003/04/28 16:32:24  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2002/10/11 16:32:15  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2002/08/19 13:53:30  revo
 -->
 </vortaro>

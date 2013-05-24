@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: radar.xml,v 1.7 2013/02/09 17:10:12 revo Exp $">
+<art mrk="$Id: radar.xml,v 1.8 2013/05/08 10:10:13 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>radar</rad>/o
   <fnt><bib>PIV1</bib></fnt>
@@ -31,6 +31,7 @@
   <trd lng="de">Radar</trd>
   <trd lng="en">radar</trd>
   <trd lng="nl">radar</trd>
+  <trd lng="pl">radar</trd>
   <trd lng="pt">radar</trd>
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_d;&c_a;&c_r;</trd>,
@@ -41,6 +42,9 @@
 
 <!--
 $Log: radar.xml,v $
+Revision 1.8  2013/05/08 10:10:13  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.7  2013/02/09 17:10:12  revo
 Dmitri Gabinski: +trd be
 
@@ -60,7 +64,5 @@ Revision 1.2  2006/02/18 17:31:19  revo
 Tulio Flores: +trd pt
 
 Revision 1.1  2005/11/21 17:31:12  revo
-Yury Finkel: nova artikolo
-
 -->
 </vortaro>

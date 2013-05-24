@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-    <art mrk="$Id: proces.xml,v 1.18 2009/10/30 17:30:43 revo Exp $">
+    <art mrk="$Id: proces.xml,v 1.19 2013/04/03 09:10:14 revo Exp $">
       <kap>
         <ofc>*</ofc>
         <rad>proces</rad>/o
@@ -95,7 +95,7 @@
           <trd>beperel</trd>
         </trdgrp>
         <trd lng="nl">procederen</trd>
-        <trd lng="pl">pocesowa&cacute; si&eogonek;</trd>
+        <trd lng="pl">procesowa&cacute; si&eogonek;</trd>
         <trdgrp lng="ru">
           <trd>&c_v;&c_je;&c_s;&c_t;&c_i;,
 &c_v;&c_o;&c_z;&c_b;&c_u;&c_d;&c_i;&c_t;&c_mol;
@@ -124,6 +124,9 @@
 
 <!--
 $Log: proces.xml,v $
+Revision 1.19  2013/04/03 09:10:14  revo
+Sebastian Cyprych: kor trd pl
+
 Revision 1.18  2009/10/30 17:30:43  revo
 Paul Peeraerts: +nl
 

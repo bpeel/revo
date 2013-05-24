@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dev.xml,v 1.27 2009/02/11 19:43:01 revo Exp $">
+<art mrk="$Id: dev.xml,v 1.29 2013/05/12 14:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dev</rad>/i <fnt><bib>PV</bib></fnt>
@@ -163,6 +163,7 @@
   </trdgrp>
   <trd lng="en">must</trd>
   <trd lng="es">deber</trd>
+  <trd lng="id">harus</trd>
   <trdgrp lng="pt">
     <trd>dever</trd>,
     <trd>ter <ind>obriga&ccedil;&atilde;o</ind> de</trd>,
@@ -270,6 +271,7 @@
   </trdgrp>
   <trd lng="fr">obligatoire</trd>
   <trd lng="hu">k&ouml;telez&odblac;</trd>
+  <trd lng="id">wajib</trd>
   <trdgrp lng="pl">
     <trd>obowi&aogonek;zkowy</trd>
   </trdgrp>
@@ -329,6 +331,10 @@
     <trd>forcer<klr tip="ind"> (obliger)</klr></trd>
   </trdgrp>
   <trd lng="hu">k&ouml;telez</trd>
+  <trdgrp lng="id">
+    <trd>[<ind>wajib</ind>] mewajibkan</trd>,
+    <trd>[<ind>harus</ind>] mengharuskan</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>zmusza&cacute;</trd>,
     <trd>wmusz&cacute;</trd>,
@@ -535,6 +541,12 @@
 </art>
 <!--
 $Log: dev.xml,v $
+Revision 1.29  2013/05/12 14:10:15  revo
+Eko Nur Syah Hidayat: korekto de verba skribformo
+
+Revision 1.28  2013/05/10 08:10:16  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.27  2009/02/11 19:43:01  revo
 Sebastian Cyprych: -fusxaj linirompoj en trd
 
@@ -551,11 +563,5 @@ Revision 1.23  2007/04/20 16:31:44  revo
 Wieland Pusch: +trd de
 
 Revision 1.22  2007/01/07 17:31:42  revo
-Russ Williams: +trd en tp
-
-Revision 1.21  2005/06/15 16:31:20  revo
-Yury Finkel: +trd ru, -tajperaro
-
-Revision 1.20  2004/10/10 16:31:00  revo
 -->
 </vortaro>

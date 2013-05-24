@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: muhama.xml,v 1.20 2012/08/19 11:10:15 revo Exp $">
+<art mrk="$Id: muhama.xml,v 1.22 2013/04/03 13:10:08 revo Exp $">
 <kap>
 <rad>Muhamad</rad>/o
 </kap>
@@ -76,7 +76,9 @@
   <trd lng="en">Mohammed</trd>
   <trd lng="he">&mem;&vav;&het;&mem;&dalet;</trd>
   <trd lng="hu">Mohamed</trd>
+  <trd lng="id">Muhammad</trd>
   <trd lng="nl">Mohammed</trd>
+  <trd lng="pl">Mahomet</trd>
   <trdgrp lng="pt">
     <trd>Maom&eacute;</trd>,
     <trd>Moamede</trd>,
@@ -92,6 +94,12 @@
 </art>
 <!--
 $Log: muhama.xml,v $
+Revision 1.22  2013/04/03 13:10:08  revo
+Sebastian Cyprych: kor trd pl
+
+Revision 1.21  2013/03/26 11:10:13  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.20  2012/08/19 11:10:15  revo
 Marc Rausell: kor trd ca
 
@@ -108,11 +116,5 @@ Revision 1.16  2003/06/07 12:25:10  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.15  2003/06/01 16:32:51  revo
-Allon Rothfarb: +trd he
-
-Revision 1.14  2003/01/15 20:19:45  revo
-Viliam Bur: +trd sk
-
-Revision 1.13  2002/10/30 18:36:27  revo
 -->
 </vortaro>

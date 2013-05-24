@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mastik.xml,v 1.14 2012/08/19 15:10:43 revo Exp $">
+<art mrk="$Id: mastik.xml,v 1.15 2013/04/09 10:10:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mastik</rad>/o
@@ -53,6 +53,7 @@
     <trd>putty</trd>
   </trdgrp>
   <trd lng="fr">mastic</trd>
+  <trd lng="pl">kit</trd>
   <trdgrp lng="pt">
     <trd>m&aacute;stique</trd>,
     <trd>massa de vidraceiro</trd>
@@ -86,6 +87,7 @@
   <trd lng="fr">mastiquer<klr tip="amb"> (mettre du mastic)</klr></trd>
   <trd lng="hu">gittel</trd>
   <trd lng="nl">plamuren</trd>
+  <trd lng="pl">kitowa&cacute;</trd>
   <trdgrp lng="pt">
     <trd>calafetar</trd>,
     <trd>almecegar</trd>,
@@ -96,6 +98,9 @@
 </art>
 <!--
 $Log: mastik.xml,v $
+Revision 1.15  2013/04/09 10:10:38  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.14  2012/08/19 15:10:43  revo
 Marc Rausell: + trd ca
 
@@ -115,8 +120,5 @@ Revision 1.9 2004/06/07 17:23:50 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.8 2004/02/16 20:47:46 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.7 2002/01/07 21:13:46 revo
 -->
 </vortaro>
