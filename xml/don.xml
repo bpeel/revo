@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: don.xml,v 1.45 2013/01/09 11:10:08 revo Exp $">
+  <art mrk="$Id: don.xml,v 1.46 2013/06/30 15:10:09 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>don</rad>/i <fnt><bib>PV</bib></fnt>
@@ -119,6 +119,7 @@
         <trd>&c_d;&c_a;&c_v;&c_a;&c_m;</trd>,
         <trd>&c_d;&c_a;&c_m;</trd>
       </trdgrp>
+      <trd lng="ca">donar</trd>
       <trd lng="cs">d&aacute;t</trd>
       <trd lng="de">geben</trd>
       <trd lng="en">give</trd>
@@ -132,6 +133,10 @@
       <trdgrp lng="ku">
         <trd>day&icirc;n</trd>,
         <trd>dan</trd>
+      </trdgrp>
+      <trdgrp lng="oc">
+        <trd>donar</trd>,
+        <trd>balhar</trd>
       </trdgrp>
       <trdgrp lng="ru">
         <trd>&c_d;&c_a;&c_t;&c_mol;</trd>,
@@ -220,6 +225,7 @@
           <ref cel="pli.0igi">pliigi</ref>
         </refgrp>
       </snc>
+      <trd lng="ca">afegir</trd>
       <trd lng="de">hinzuf&uuml;gen</trd>
       <trd lng="en">add</trd>
       <trd lng="fr">ajouter</trd>
@@ -233,6 +239,7 @@
         <trd>hozz&aacute;f&udblac;z</trd>
       </trdgrp>
       <trd lng="nl">toevoegen</trd>
+      <trd lng="oc">ajustar</trd>
       <trd lng="pl">dodawa&cacute;</trd>
       <trd lng="ru">&c_d;&c_o;&c_b;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
     </drv>
@@ -1050,6 +1057,9 @@
   </art>
   <!--
   $Log: don.xml,v $
+  Revision 1.46  2013/06/30 15:10:09  revo
+  Benito Subejrano: + trd ca oc
+
   Revision 1.45  2013/01/09 11:10:08  revo
   Sergio Pokrovskij: apartigis for~igxi; +ekz
 

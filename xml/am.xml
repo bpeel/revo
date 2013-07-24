@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: am.xml,v 1.47 2010/08/29 16:30:21 revo Exp $">
+<art mrk="$Id: am.xml,v 1.49 2013/07/03 01:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>am</rad>/i <fnt><bib>PV</bib></fnt>
@@ -111,6 +111,7 @@
     <trd>&c_k;&c_a;&c_h;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_l;&c_ju;&c_b;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="ca">estimar</trd>
   <trdgrp lng="cs">
     <trd>milovat</trd>,
     <trd>m&iacute;t r&aacute;d</trd>
@@ -125,6 +126,7 @@
   </trdgrp>
   <trd lng="it">amare</trd>
   <trd lng="ku">hez kirin</trd>
+  <trd lng="oc">aimar</trd>
   <trdgrp lng="pl">
     <trd>kocha&cacute;</trd>,
     <trd>uwielbia&cacute;</trd>
@@ -165,6 +167,7 @@
     <trd>&c_l;&c_ju;&c_b;&c_o;&c_w;</trd>
   </trdgrp>
   <trd lng="bg">&c_l;&c_ju;&c_b;&c_o;&c_v;</trd>
+  <trd lng="ca">amor</trd>
   <trd lng="es">amor</trd>
   <trd lng="de">Liebe</trd>
   <trd lng="en">love</trd>
@@ -175,6 +178,7 @@
   </trdgrp>
   <trd lng="it">amore</trd>
   <trd lng="nl">liefde</trd>
+  <trd lng="oc">amor</trd>
   <trd lng="pl">mi&lstroke;o&sacute;&cacute;</trd>
   <trd lng="ru">&c_l;&c_ju;&c_b;&c_o;&c_v;&c_mol;</trd>
   <trdgrp lng="tr">
@@ -844,6 +848,12 @@
 </art>
 <!--
 $Log: am.xml,v $
+Revision 1.49  2013/07/03 01:10:11  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.48  2013/06/30 10:10:12  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.47  2010/08/29 16:30:21  revo
 Jeromo Vasxe: - kramp
 
@@ -860,11 +870,5 @@ Revision 1.43  2010/03/13 17:30:38  revo
  Evandro Avellar: + trd pt
 
 Revision 1.42  2009/08/27 16:32:35  revo
-Emmanuel Debanne: +trd ku
-
-Revision 1.41  2009/08/14 16:30:53  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.40  2009/02/04 19:20:03  revo
 -->
 </vortaro>

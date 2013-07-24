@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: turn.xml,v 1.23 2012/10/23 00:14:07 revo Exp $">
+<art mrk="$Id: turn.xml,v 1.24 2013/05/31 18:10:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>turn</rad>/i
@@ -379,6 +379,10 @@
       Eliri el malfacila situacio per sia lerto.
     </dif>
   </snc>
+  <trdgrp lng="ca">
+    <trd><ind>arreglar</ind>-s'ho</trd>,
+    <trd><ind>arreglar</ind>-se</trd>
+  </trdgrp>
   <trd lng="de"><klr>sich </klr>herauswinden</trd>
   <trdgrp lng="fr">
     <trd>se <ind>d&eacute;brouiller</ind></trd>,
@@ -386,6 +390,7 @@
   </trdgrp>
   <trd lng="hu">kiv&aacute;gja mag&aacute;t</trd>
   <trd lng="nl">zich eruit <ind>redden</ind></trd>
+  <trd lng="oc">s'<ind>adobar</ind></trd>
   <trdgrp lng="pl">
     <trd>wykr&eogonek;ci&cacute; si&eogonek;</trd>,
     <trd>wykaraska&cacute; si&eogonek;</trd>
@@ -627,6 +632,9 @@
 </art>
 <!--
 $Log: turn.xml,v $
+Revision 1.24  2013/05/31 18:10:09  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.23  2012/10/23 00:14:07  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -646,8 +654,5 @@ Revision 1.18  2006/01/12 21:52:00  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.17  2005/07/04 16:31:57  revo
-Jeromo Vasxe: + akvo~o, + kk fnt
-
-Revision 1.16 2005/03/11 16:51:56 revo
 -->
 </vortaro>

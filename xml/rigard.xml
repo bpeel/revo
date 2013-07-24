@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rigard.xml,v 1.31 2011/09/05 19:10:08 revo Exp $">
+<art mrk="$Id: rigard.xml,v 1.32 2013/06/28 08:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rigard</rad>/i <fnt><bib>PV</bib></fnt>
@@ -173,6 +173,10 @@
     <trd lng="ru">&c_r;&c_a;&c_s;&c_s;&c_m;&c_a;&c_t;&c_r;&c_i;&c_v;&c_a;&c_t;&c_mol;<klr>
     (&c_v; &c_k;&c_a;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_je;...)</klr></trd>
   </snc>
+  <trdgrp lng="ca">
+      <trd>mirar</trd>,
+      <trd>mirar-se</trd>
+      </trdgrp>
   <trd lng="cs">hled&ecaron;t</trd>
   <trd lng="en">look</trd>
   <trd lng="fr">regarder</trd>
@@ -181,6 +185,7 @@
     <trd>bekijken</trd>,
     <trd>beschouwen</trd>
   </trdgrp>
+  <trd lng="oc">agachar</trd>
   <trdgrp lng="pt">
     <trd>olhar</trd>,
     <trd>mirar</trd>,
@@ -651,6 +656,9 @@ ref="http://vikio.ikso.net/Projektoj/Prelegejo">
 </art>
 <!--
 $Log: rigard.xml,v $
+Revision 1.32  2013/06/28 08:10:14  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.31  2011/09/05 19:10:08  revo
 Jeromo Vasxe: + super~i
 
@@ -670,8 +678,5 @@ Revision 1.26  2006/10/09 10:43:48  revo
 Axel Rousseau: +trd tp
 
 Revision 1.25  2006/02/21 17:32:11  revo
-Tulio Flores: +trd pt
-
-Revision 1.24  2005/12/22 17:31:28  revo
 -->
 </vortaro>

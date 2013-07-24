@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: ident.xml,v 1.20 2012/04/21 17:10:18 revo Exp $">
+  <art mrk="$Id: ident.xml,v 1.21 2013/06/17 16:10:19 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>ident</rad>/a
@@ -45,6 +45,10 @@
         <trd lng="de">identisch</trd>
         <trd lng="hu">azonos</trd>
       </snc>
+      <trdgrp lng="be">
+        <trd>&c_ib;&c_d;&c_e;&c_n;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>,
+        <trd>&c_t;&c_o;&c_je;&c_s;&c_n;&c_y;</trd>
+      </trdgrp>
       <trd lng="en">identical</trd>
       <trd lng="fr">identique</trd>
       <trd lng="nl">identiek</trd>
@@ -221,6 +225,9 @@ lng="ru">&c_o;&c_t;&c_o;&c_zh;&c_d;&c_je;&c_s;&c_t;&c_v;&c_i;&c_t;&c_mol;&c_s;&c
   </art>
   <!--
   $Log: ident.xml,v $
+  Revision 1.21  2013/06/17 16:10:19  revo
+  Dmitri Gabinski: redakto: +trd be
+
   Revision 1.20  2012/04/21 17:10:18  revo
   Dominique Pelle: nur unu punkto cxe fino de frazo, ne du
 

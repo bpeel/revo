@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: moskul.xml,v 1.4 2006/08/15 12:20:08 revo Exp $">
+<art mrk="$Id: moskul.xml,v 1.5 2013/07/05 20:10:19 revo Exp $">
 <kap>
   <rad>moskul</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -11,7 +11,8 @@
   <snc mrk="moskul.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Genro el familio <ref tip="super" cel="mused.0oj">musedoj</ref>
+      <ref tip="super" cel="genr.0o.BIO">Genro</ref> el familio 
+      <ref tip="malprt" cel="mused.0oj">musedoj</ref>
       (<trd lng="la">Ondatra</trd>), granda ron&gcirc;ulo el Norda Ameriko kun
       longa vosto, vivanta apud mar&ccirc;oj a&ubreve; malrapidaj riveroj:
       <ekz>
@@ -35,6 +36,9 @@
 
 <!--
 $Log: moskul.xml,v $
+Revision 1.5  2013/07/05 20:10:19  revo
+Wolfram Diestel: referencoj
+
 Revision 1.4  2006/08/15 12:20:08  revo
 Tulio Flores: +tr pt
 
@@ -49,4 +53,3 @@ Jeromo Vasxe: nova artikolo
 
 -->
 </vortaro>
-

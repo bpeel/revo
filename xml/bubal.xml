@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bubal.xml,v 1.18 2009/03/31 16:30:32 revo Exp $">
+<art mrk="$Id: bubal.xml,v 1.19 2013/07/07 15:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bubal</rad>/o <fnt><bib>PV</bib></fnt>
@@ -14,7 +14,8 @@
     <dif>
       Peza kvarpiedulo, simila al bovo, kun grandaj kornoj,
       &scirc;atanta akvejojn, hejma en Azio kaj en Afriko,
-      genro el familio <ref tip="super" cel="boved.0oj">bovedoj</ref>
+      <ref tip="super" cel="genr.0o.BIO">genro</ref> el familio 
+      <ref tip="malprt" cel="boved.0oj">bovedoj</ref>
       (<trd lng="la">Bubalus</trd>):
       <ekz>
         estis preska&ubreve; nokto-mezo kiam li sukceis kapti la
@@ -44,6 +45,9 @@
 </art>
 <!--
 $Log: bubal.xml,v $
+Revision 1.19  2013/07/07 15:10:18  revo
+Wolfram Diestel: referencoj
+
 Revision 1.18  2009/03/31 16:30:32  revo
 Sebastian Cyprych: +trd pl
 
@@ -63,8 +67,5 @@ Revision 1.13 2002/11/16 17:31:20 revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.12 2002/05/17 16:34:50 revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.11 2001/11/05 19:13:05 revo
 -->
 </vortaro>

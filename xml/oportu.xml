@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: oportu.xml,v 1.18 2010/03/27 17:30:24 revo Exp $">
+<art mrk="$Id: oportu.xml,v 1.19 2013/06/30 13:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>oportun</rad>/a <fnt><bib>PV</bib></fnt>
@@ -36,7 +36,9 @@
       <ref cel="konven.0a">konvena</ref>,
       <ref cel="tauxg.0a">ta&ubreve;ga</ref>
     </refgrp>
+    <trd lng="ca">c&ograve;mode</trd>
     <trd lng="hu">k&eacute;nyelmes</trd>
+    <trd lng="oc">aisit</trd>
     <trd lng="ru">&c_u;&c_d;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>
   </snc>
   <snc mrk="oportu.0a.trafa">
@@ -406,6 +408,9 @@
 </art>
 <!--
 $Log: oportu.xml,v $
+Revision 1.19  2013/06/30 13:10:10  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.18  2010/03/27 17:30:24  revo
 Jeromo Vasxe: + kk mrk + 1 ekz
 
@@ -425,8 +430,5 @@ Revision 1.13  2004/07/13 16:31:19  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.12  2004/02/24 17:31:27  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2002/06/02 06:27:07  revo
 -->
 </vortaro>

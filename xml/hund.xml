@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hund.xml,v 1.60 2013/05/12 10:10:10 revo Exp $">
+<art mrk="$Id: hund.xml,v 1.61 2013/06/15 18:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hund</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,7 +13,7 @@
   <uzo tip="fak">ZOO</uzo>
   <snc mrk="hund.0o.genro">
     <dif>
-      Genro el familio <ref tip="super" cel="hunded.0oj"><tld/>edoj
+      Genro el familio <ref tip="malprt" cel="hunded.0oj"><tld/>edoj
       </ref> (<trd lng="la">Canis</trd>).
     </dif>
   </snc>
@@ -435,6 +435,9 @@
 </art>
 <!--
 $Log: hund.xml,v $
+Revision 1.61  2013/06/15 18:10:12  revo
+Wolfram Diestel: kor. ref al hundedoj
+
 Revision 1.60  2013/05/12 10:10:10  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -454,8 +457,5 @@ Revision 1.55  2009/09/14 16:31:55  revo
 Antonio Codazzi: ++trd it
 
 Revision 1.54  2009/06/23 16:31:14  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.53  2009/02/10 14:17:54  revo
 -->
 </vortaro>

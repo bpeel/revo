@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxirka.xml,v 1.40 2012/10/22 01:10:13 revo Exp $">
+<art mrk="$Id: cxirka.xml,v 1.41 2013/06/30 18:10:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;irka&ubreve;</rad> <fnt><bib>PV</bib></fnt>
@@ -112,6 +112,7 @@
           </ekz>
         </dif>
         <trd lng="be">&c_k;&c_a;&c_l;&c_ja;</trd>
+        <trd lng="ca">a l'entorn de</trd>
         <trd lng="de">um</trd>
         <trdgrp lng="fr">
           <trd>autour de<klr tip="ind"> (temps)</klr></trd>,
@@ -126,6 +127,7 @@
           <trd>verso<klr> (all'incirca)</klr></trd>
           <trd>all'incirca</trd>
         </trdgrp>
+        <trd lng="oc">a l'entorn de</trd>
         <trdgrp lng="pl">
           <trd>ko&lstroke;o</trd>
           <trd>oko&lstroke;o</trd>
@@ -424,6 +426,7 @@ ref="http://home.t-online.de/home/kaiser-altenburg/u/B.Traven/dl42.html">
         <trd>&c_n;&c_a;&c_v;&c_a;&c_k;&c_o;&c_l;</trd>,
         <trd>&c_n;&c_a;&c_v;&c_o;&c_k;&c_a;&c_l;</trd>
       </trdgrp>
+      <trd lng="ca">a l'entorn</trd>
       <trdgrp lng="de">
         <trd>ringsum</trd>,
         <trd>ringsumher</trd>
@@ -448,6 +451,7 @@ ref="http://home.t-online.de/home/kaiser-altenburg/u/B.Traven/dl42.html">
       <trd>intorno</trd>,
       <trd>dittorno</trd>
     </trdgrp>
+    <trd lng="oc">a l'entorn</trd>
       <trdgrp lng="pl">
         <trd>dooko&lstroke;a</trd>,
         <trd>wok&oacute;&lstroke;</trd>,
@@ -1048,6 +1052,9 @@ ref="http://www.angelfire.com/ny2/ts/intergazeto/interarkivo_u.htm">
 </art>
 <!--
 $Log: cxirka.xml,v $
+Revision 1.41  2013/06/30 18:10:09  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.40  2012/10/22 01:10:13  revo
 Neil Roberts: aldonu la etikedon <var>
 

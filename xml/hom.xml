@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: hom.xml,v 1.44 2012/05/28 13:10:09 revo Exp $">
+  <art mrk="$Id: hom.xml,v 1.45 2013/06/15 18:10:14 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>hom</rad>/o <fnt><bib>PV</bib></fnt>
@@ -14,7 +14,7 @@
         <uzo tip="fak">ZOO</uzo>
         <tezrad/>
         <dif>
-          Genro el familio <ref tip="super"
+          Genro el familio <ref tip="malprt"
           cel="homed.0oj"><tld/>edoj</ref>
           (<trd lng="la">Homo</trd>), el kiu plu nur vivas la specio
           <trd lng="la">Homo sapiens</trd>, plej evoluinta viva&jcirc;o de
@@ -798,6 +798,9 @@
   </art>
   <!--
   $Log: hom.xml,v $
+  Revision 1.45  2013/06/15 18:10:14  revo
+  Wolfram Diestel: kor. ref al homedoj
+
   Revision 1.44  2012/05/28 13:10:09  revo
   Sergio Pokrovskij: +~eco +~eca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: help.xml,v 1.36 2013/05/17 14:10:09 revo Exp $">
+<art mrk="$Id: help.xml,v 1.39 2013/06/30 13:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>help</rad>/i <fnt><bib>PV</bib></fnt>
@@ -11,75 +11,83 @@
 <drv mrk="help.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
   <gra><vspec>x</vspec></gra>
-  <snc mrk="help.0i.faciligi">
-    <uzo tip="klr">(iu)</uzo>
+  <snc mrk="help.0i.KOMUNE">
     <dif>
-      Faciligi ies agadon, partoprenante &gcirc;in:
-      <ekz>
-        <tld/>i unu la alian
-        <fnt>(<aut>Zamenhof</aut>, <vrk>Parolo anta&ubreve;
-        la Unua Kongreso Esperantista en Boulogne sur Mer,
-        1905</vrk>)</fnt>;
-      </ekz>
-      <ekz>
-        se via tasko estas tro longa, mi <tld/>os vin;
-      </ekz>
-      <ekz>
-        li <tld/>is la infanon, al la infano porti la pezan sitelon;
-      </ekz>
-      <ekz>
-        li tre multe <tld/>is la disvastigon (a&ubreve; al la
-        disvastigo) de la lingvo;
-      </ekz>
-      <ekz>
-        nek <tld/>eble, nek konsileble
-        <klr>(senrimede perdita, ruinigita)</klr>
-        <fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
-        li <tld/>is al mi la tradukon (a&ubreve;: li <tld/>is min por
-        la traduko) de tiu malfacila teksto.
-      </ekz>
+      Faciligi ies agadon.
     </dif>
-    <refgrp tip="vid">
-      <ref cel="apog.0i">apogi</ref>,
-      <ref cel="ten.sub0i">subteni</ref>
-    </refgrp>
-    <trdgrp lng="pl">
-      <trd>pomaga&cacute;</trd>,
-      <trd>wspomaga&cacute;</trd>,
-      <trd>wspiera&cacute;</trd>
-    </trdgrp>
-  </snc>
-  <snc mrk="help.0i.havigi">
-    <uzo tip="klr">(iu)</uzo>
-    <dif>
-      Havigi al iu rimedon kontra&ubreve; malfacila&jcirc;o a&ubreve;
-      malbono
-      (dan&gcirc;ero, peniga laboro, mizero ktp):
-      <ekz>
-        oni konsilas kaj konsolas, sed <tld/>i ne volas
-        <fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
-        <tld/>i senlaborulon;
-      </ekz>
-      <ekz>
-        ni neniel povas <tld/>i al &scirc;i;
-      </ekz>
-      <ekz>
-        sed malgra&ubreve; tuta via perfekteco kiel vi povas
-        <tld/>i miajn embarasojn?
-        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 14</lok></fnt>.
-      </ekz>
-    </dif>
-    <refgrp tip="vid">
-      <ref cel="defend.0i">defendi</ref>,
-      <ref cel="protek.0i">protekti</ref>
-    </refgrp>
-    <trdgrp lng="pl">
-      <trd>pomaga&cacute;</trd>
-    </trdgrp>
+    <subsnc mrk="help.0i.faciligi">
+      <uzo tip="klr">(iu)</uzo>
+      <dif>
+        Faciligi ies agadon, partoprenante &gcirc;in:
+        <ekz>
+          <tld/>i unu la alian
+          <fnt>
+            <bib>Paroloj</bib>,
+            <vrk>Parolo anta&ubreve;
+            la Unua Kongreso Esperantista en Boulogne sur Mer,
+            1905</vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          se via tasko estas tro longa, mi <tld/>os vin;
+        </ekz>
+        <ekz>
+          li <tld/>is la infanon, al la infano porti la pezan sitelon;
+        </ekz>
+        <ekz>
+          li tre multe <tld/>is la disvastigon (a&ubreve; al la
+          disvastigo) de la lingvo;
+        </ekz>
+        <ekz>
+          nek <tld/>eble, nek konsileble
+          <klr>(senrimede perdita, ruinigita)</klr>
+          <fnt><bib>PrV</bib></fnt>;
+        </ekz>
+        <ekz>
+          li <tld/>is al mi la tradukon (a&ubreve;: li <tld/>is min por
+          la traduko) de tiu malfacila teksto.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="apog.0i">apogi</ref>,
+        <ref cel="ten.sub0i">subteni</ref>
+      </refgrp>
+      <trdgrp lng="pl">
+        <trd>pomaga&cacute;</trd>,
+        <trd>wspomaga&cacute;</trd>,
+        <trd>wspiera&cacute;</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="help.0i.havigi">
+      <uzo tip="klr">(iu)</uzo>
+      <dif>
+        Faciligi ies agadon, havigante rimedon
+        kontra&ubreve; embaraso a&ubreve; malbono
+        (dan&gcirc;ero, peniga laboro, mizero ktp):
+        <ekz>
+          oni konsilas kaj konsolas, sed <tld/>i ne volas
+          <fnt><bib>PrV</bib></fnt>;
+        </ekz>
+        <ekz>
+          <tld/>i senlaborulon;
+        </ekz>
+        <ekz>
+          ni neniel povas <tld/>i al &scirc;i;
+        </ekz>
+        <ekz>
+          sed malgra&ubreve; tuta via perfekteco kiel vi povas
+          <tld/>i miajn embarasojn?
+          <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 14</lok></fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="defend.0i">defendi</ref>,
+        <ref cel="protek.0i">protekti</ref>
+      </refgrp>
+      <trdgrp lng="pl">
+        <trd>pomaga&cacute;</trd>
+      </trdgrp>
+    </subsnc>
   </snc>
   <snc mrk="help.0i.ion">
     <uzo tip="klr">(io)</uzo>
@@ -145,6 +153,7 @@
     <trd>sikour<klr tip="ind"> (v.)</klr></trd>,
     <trd>skoazella&ntilde;</trd>
   </trdgrp>
+  <trd lng="ca">ajudar</trd>
   <trd lng="cs">pom&aacute;hat</trd>
   <trdgrp lng="de">
     <trd>helfen</trd>,
@@ -172,6 +181,7 @@
    <trd>soccorrere</trd>
   </trdgrp>
   <trd lng="nl">helpen</trd>
+  <trd lng="oc">ajudar</trd>
   <trdgrp lng="pt">
    <trd>ajudar</trd>, 
    <trd>socorrer</trd> 
@@ -185,9 +195,10 @@
 
 <drv mrk="help.0ialsi">
   <kap><tld/>i al si</kap>
-  <snc>
+  <snc mrk="help.0ialsi.KOMUNE">
     <dif>
-      Trovi rimedon por eliri per propraj fortoj el embarasa situacio:
+      Trovi rimedon por eliri per propraj fortoj el embarasa situacio,
+      <ref tip="vid" cel="turn.el0igxi">elturni&gcirc;i</ref>:
       <ekz>
         e&ccirc; en fremda lando li al si <tld/>as;
       </ekz>
@@ -203,7 +214,6 @@
         <klr>(uzi ion por sin <tld/>i)</klr>.
       </ekz>
     </dif>
-    <ref tip="vid" cel="turn.el0igxi">elturni&gcirc;i</ref>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_c;&c_mol; &c_s;&c_a;&c_b;&c_je; &c_r;&c_a;&c_d;&c_y;</trd>
   <trd lng="br">en em zibab</trd>
@@ -222,7 +232,7 @@
 
 <drv mrk="help.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <snc mrk="help.0o.KOMUNE">
     <dif>
       Ago de <tld/>anto; io, kio helpas:
       <ekz>
@@ -285,7 +295,7 @@
 
 <drv mrk="help.0a">
   <kap><tld/>a</kap>
-  <snc>
+  <snc mrk="help.0a.KOMUNE">
     <dif>
       <tld lit="H"/>anta, donanta <tld/>on en okazo de bezono:
       <ekz>
@@ -334,7 +344,7 @@
 
 <drv mrk="help.0e">
   <kap><tld/>e</kap>
-  <snc>
+  <snc mrk="help.0e.KOMUNE">
     <dif>
       La&ubreve; <tld/>a maniero:
       <ekz>
@@ -370,12 +380,19 @@
   </trdgrp>
 </drv>
 
-<drv mrk="help.0anto0isto">
+<drv mrk="help.0anto">
   <kap><tld/>anto, <var><kap><tld/>isto</kap></var></kap>
-  <snc>
+  <snc mrk="help.0anto.KOMUNE">
     <dif>
       Tiu, kiu <tld/>as alian, sed ne anstata&ubreve;as.
     </dif>
+    <refgrp tip="sub">
+      <ref cel="adjunk.0o.KOMUNE">adjunkto</ref>,
+      <ref cel="akolit.0o.REL">akolito</ref>,
+      <ref cel="asesor.0o.JUR">asesoro</ref>,
+      <ref cel="asist.0anto.KOMUNE">asistanto</ref>,
+      <ref cel="diakon.0o.KRI">diakono</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_m;&c_a;&c_g;&c_a;&c_t;&c_y;</trd>,
@@ -409,11 +426,11 @@
 
 <drv mrk="help.0ema">
   <kap><tld/>ema</kap>
-  <snc>
+  <snc mrk="help.0ema.KOMUNE">
     <dif>
-      Volonte <tld/>anta.
-    </dif>
-    <ref tip="vid" cel="komple4.0ema">komplezema</ref>
+      Volonte <tld/>anta,
+      <ref tip="vid" cel="komple4.0ema">komplezema</ref>.
+    </dif>  
   </snc>                         
   <trd lng="de">hilfsbereit</trd>
   <trd lng="br">sikourus</trd>
@@ -433,7 +450,7 @@
 
 <drv mrk="help.0ilo">
   <kap><tld/>ilo</kap>
-  <snc>
+  <snc mrk="help.0ilo.KOMUNE">
     <dif>
       Rimedo por <tld/>i:
       <ekz>
@@ -470,17 +487,14 @@
   <kap>anta&ubreve;mal<tld/>i</kap>
   <fnt><bib>PIV1</bib>,
   <lok>artikolo &leftquot;preventi&rightquot;</lok></fnt>
-  <snc>
+  <snc mrk="help.antauxmal0i.KOMUNE">
     <dif>
-      Neebligi, ke io malbona okazu, aperu.
+      Neebligi, ke io malbona okazu, aperu;
+      <ref tip="sin" cel="preven.0i">preventi</ref>.
     </dif>
-    <refgrp tip="sin">
-      <ref cel="preven.0i">preventi</ref>;
-    </refgrp>
     <refgrp tip="vid">
-      <ref cel="gard.antaux0i">anta&ubreve;gardi</ref>;
-      Preska&ubreve;aj sinonimoj:
       <ref cel="for.antaux0igi">anta&ubreve;forigi</ref>,
+      <ref cel="gard.antaux0i">anta&ubreve;gardi</ref>,
       <ref cel="halt.antaux0igi">anta&ubreve;haltigi</ref>
     </refgrp>
   </snc>     
@@ -505,16 +519,14 @@
     <trd>powstrzymywa&cacute;</trd>
   </trdgrp>
   <trd lng="pt">prevenir</trd>
-  <trd lng="ru">
-  &c_p;&c_r;&c_je;&c_d;&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;
-  </trd>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</trd>
   <trd lng="sv">f&ouml;rhindra</trd>
 </drv>
 
 <drv mrk="help.kun0i">
   <kap>kun<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="help.kun0i.KOMUNE">
     <dif>
       Kunlabori, doni <tld/>on en komuna afero:
       <ekz>
@@ -617,11 +629,9 @@
     <refgrp tip="vid">
       <ref cel="bar.0i">bari</ref>,
       <ref cel="brid.0i">bridi</ref>,
-      <ref cel="esting.0i">estingi</ref>,
       <ref cel="gxen.0i">&gcirc;eni</ref>,
       <ref cel="halt.0igi">haltigi</ref>,
-      <ref cel="kontraux.0i">kontra&ubreve;i</ref>,
-      <ref cel="sufok.0i">sufoki</ref>
+      <ref cel="kontraux.0i">kontra&ubreve;i</ref>
     </refgrp>
   </snc>
   <trdgrp lng="be">
@@ -682,7 +692,7 @@
 
 <drv mrk="help.mal0o">
   <kap>mal<tld/>o</kap>
-  <snc>
+  <snc mrk="help.mal0o.KOMUNE">
     <dif>
       Io, kio mal<tld/>as; malfaciligo, malfacila&jcirc;o:
       <ekz>
@@ -752,7 +762,7 @@
 
 <drv mrk="help.mal0a">
   <kap>mal<tld/>a</kap>
-  <snc>
+  <snc mrk="help.mal0a.KOMUNE">
     <dif>
       Malfaciliga, &gcirc;enanta:
       <ekz>
@@ -813,9 +823,7 @@
       </ekz>
     </dif>
     <trdgrp lng="be">
-      <trd>
-      &c_b;&c_je;&c_z;&c_d;&c_a;&c_p;&c_a;&c_m;&c_o;&c_zh;&c_n;&c_y;
-      </trd>,
+      <trd>&c_b;&c_je;&c_z;&c_d;&c_a;&c_p;&c_a;&c_m;&c_o;&c_zh;&c_n;&c_y;</trd>,
       <trd>&c_b;&c_ja;&c_s;&c_p;&c_o;&c_m;&c_a;&c_ch;&c_n;&c_y;</trd>
     </trdgrp>   
     <trdgrp lng="br">
@@ -918,13 +926,13 @@
   <kap>mon<tld/>o</kap>
   <snc mrk="help.mon0o.KOMUNE">
     <dif>
-      <tld lit="H"/>o donata al bezonanto, konsistanta en mono:
+      <tld lit="H"/>o konsistanta en mono:
       <ekz>
         mi apartenas al homgrupo kiu tute ne subtenas &gcirc;eneralan
         mon<tld/>on en la kazo de katastrofoj
          <fnt>
           <aut>M. Sch&auml;ffer</aut>,
-          <vrk>en <url
+          <vrk>en: <url
           ref="http://www.liberafolio.org/2010/esperantistoj-kolektas-helpon-por-uea-delegito-en-haitio">
            Esperantistoj kolektas helpon por UEA-delegito en
            Haitio</url></vrk>,
@@ -932,12 +940,13 @@
         </fnt>.
      </ekz>
     </dif>
+    <refgrp tip="sub">
+      <ref cel="aliment.0o.JUR">alimento</ref>,
+      <ref cel="pensi.0o.EKON">pensio</ref>,
+      <ref cel="stipen.0o.EKON">stipendio</ref>,
+      <ref cel="subven.0o.POL">subvencio</ref>
+    </refgrp>
   </snc>
-  <refgrp tip="sub">
-    <ref cel="pensi.0o.EKON">pensio</ref>,
-    <ref cel="stipen.0o.EKON">stipendio</ref>,
-    <ref cel="subven.0o.POL">subvencio</ref>
-  </refgrp>
   <trdgrp lng="fr">
     <trd>aide p&eacute;cuniaire</trd>,
     <trd>subvention</trd>
@@ -946,6 +955,15 @@
 </art>
 <!--
 $Log: help.xml,v $
+Revision 1.39  2013/06/30 13:10:12  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.38  2013/06/30 01:10:10  revo
+Jeromo Vasxe: + 1 ref sup, + 1 ref sub
+
+Revision 1.37  2013/06/28 19:10:17  revo
+Jeromo Vasxe: ~anto + ref sub
+
 Revision 1.36  2013/05/17 14:10:09  revo
 Jeromo Vasxe: + mon~o
 
@@ -959,14 +977,5 @@ Revision 1.33  2009/09/07 16:31:11  revo
 Antonio Codazzi: +trd it
 
 Revision 1.32  2009/02/19 20:26:40  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.31  2009/02/10 14:18:01  revo
-Sebastian Cyprych: -fusxaj linirompoj en trd
-
-Revision 1.30  2009/02/04 19:20:11  revo
-Jeromo Vasxe: + hom~a
-
-Revision 1.29  2008/04/24 17:20:24  revo
 -->
 </vortaro>

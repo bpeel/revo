@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gad.xml,v 1.18 2013/03/05 02:10:11 revo Exp $">
+<art mrk="$Id: gad.xml,v 1.19 2013/05/31 10:10:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>gad</rad>/o <fnt><bib>PV</bib></fnt>
@@ -31,6 +31,7 @@
     <trd>abadejo</trd>
   </trdgrp>
   <trd lng="de">Dorsch</trd>
+  <trd lng="en">cod</trd>
   <trdgrp lng="fr">
     <trd>cabillaud</trd>,
     <trd>morue</trd>
@@ -62,6 +63,9 @@
 </art>
 <!--
 $Log: gad.xml,v $
+Revision 1.19  2013/05/31 10:10:09  revo
+Russ Williams: +trd en
+
 Revision 1.18  2013/03/05 02:10:11  revo
 Jeromo Vasxe: + ekz
 
@@ -81,8 +85,5 @@ Revision 1.13  2002/03/13 17:35:51  revo
 Yury Finkel: +trd ru
 
 Revision 1.12 2001/12/02 17:33:07 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.11 2001/10/11 18:17:31 revo
 -->
 </vortaro>

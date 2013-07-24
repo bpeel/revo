@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konklu.xml,v 1.13 2009/12/06 17:30:41 revo Exp $">
+<art mrk="$Id: konklu.xml,v 1.14 2013/07/05 19:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konklud</rad>/i
@@ -14,8 +14,12 @@
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
-      Tiri per rezono logikajn konsekvencojn el argumentoj,
-      principoj a&ubreve; faktoj:
+      Tiri per <ref cel="rezon.0o">rezono</ref> 
+      <ref cel="logik.0a">logikajn</ref> 
+      <ref tip="sin" cel="konsek1.0o">konsekvencojn</ref> el 
+      <ref cel="argument.0o.LOG">argumentoj</ref>,
+      <ref cel="princi.0o.regulo">principoj</ref> a&ubreve; 
+      <ref cel="fakt.0o">faktoj</ref>:
       <ekz>
         el tio, kion ni scias, ni povas <tld/>i, ke...;
       </ekz>
@@ -56,10 +60,11 @@
   </kap>
   <snc>
     <dif>
-      Fina konsekvenco de rezonado.
+      Fina <ref tip="sin" cel="konsek1.0o">konsekvenco</ref> de 
+      <ref cel="rezon.0i">rezonado</ref>
     </dif>
     <refgrp tip="vid">
-      <ref cel="flu.el0i">elflui</ref>
+      <ref cel="flu.el0i">elflui</ref>.
     </refgrp>
   </snc>
   <trdgrp lng="be">
@@ -145,6 +150,9 @@
 </art>
 <!--
 $Log: konklu.xml,v $
+Revision 1.14  2013/07/05 19:10:10  revo
+Wolfram Diestel: aldonis referencojn
+
 Revision 1.13  2009/12/06 17:30:41  revo
 Jozefo Horvath: +trd hu
 
@@ -164,8 +172,5 @@ Revision 1.8  2001/10/19 18:12:58  revo
 Yury Finkel: +trd ru
 
 Revision 1.7  2001/04/05 16:13:22  revo
-Karlo Freeman: +trd=en
-
-Revision 1.6  2001/03/20 20:00:32  revo
 -->
 </vortaro>

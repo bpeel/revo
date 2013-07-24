@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: argume.xml,v 1.35 2010/02/27 17:30:22 revo Exp $">
+<art mrk="$Id: argume.xml,v 1.36 2013/07/05 19:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>argument</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,7 +13,8 @@
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="argume.0i.LOG">
     <dif>
-      Prezenti <tld/>ojn en diskuto.
+      Prezenti <tld/>ojn en <ref tip="malprt"
+      cel="diskut.0i">diskuto</ref>.
     </dif>
     <ref tip="super" cel="pruv.0i">pruvi</ref>
   </snc>
@@ -37,7 +38,9 @@
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="argume.0o.LOG">
     <dif>
-      Rezona pruvo en diskuto:
+      <ref cel="rezon.0o">Rezona</ref> <ref
+      cel="pruv.0o.KOMUNE">pruvo</ref> 
+      en <ref cel="diskut.0i">diskuto</ref>:
       <ekz>
         tiel la granda <tld/>o de niaj kontra&ubreve;uloj disfalas;
       </ekz>
@@ -46,8 +49,8 @@
         batalas<fnt>Z</fnt>;
       </ekz>
       <ekz>
-        se niaj <tld/>oj estas mal&gcirc;ustaj, for&jcirc;etu
-        ilin<fnt>Z</fnt>.
+        se niaj <tld/>oj estas <klr>[...]</klr> mal&gcirc;ustaj, for&jcirc;etu
+        ilin<fnt><bib>EE</bib>, <lok>&ccirc;ap. 1</lok></fnt>.
       </ekz>
     </dif>
     <trd lng="br">arguzenn</trd>
@@ -196,6 +199,9 @@
 </art>
 <!--
 $Log: argume.xml,v $
+Revision 1.36  2013/07/05 19:10:11  revo
+Wolfram Diestel: aldonis referencojn, fontindikon
+
 Revision 1.35  2010/02/27 17:30:22  revo
 Filip van Laenen: Tradukoj en norvegan kaj nederlandan
 
@@ -215,8 +221,5 @@ Revision 1.30  2005/05/24 16:35:37  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.29  2005/04/18 16:31:59  revo
-Alan ar Gall: +trd br
-
-Revision 1.28  2005/01/13 18:39:02  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aj.xml,v 1.3 2010/07/10 16:30:50 revo Exp $">
+<art mrk="$Id: aj.xml,v 1.4 2013/06/28 11:10:11 revo Exp $">
 <kap>
   <rad>aj</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -18,6 +18,8 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="ca">ai</trd>
+  <trd lng="oc">ai !</trd>
   <trd lng="pt">ai!</trd>
   <trdgrp lng="fr">
     <trd>a&iuml;e</trd>,
@@ -29,6 +31,9 @@
 
 <!--
 $Log: aj.xml,v $
+Revision 1.4  2013/06/28 11:10:11  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.3  2010/07/10 16:30:50  revo
 Agustin Garcia Lopez: +trd es
 

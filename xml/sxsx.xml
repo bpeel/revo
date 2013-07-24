@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxsx.xml,v 1.5 2009/04/17 19:47:40 revo Exp $">
+<art mrk="$Id: sxsx.xml,v 1.6 2013/07/16 08:10:11 revo Exp $">
 <kap>
   <rad>&scirc;&scirc;</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -19,6 +19,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="ca">
+    <trd>xit!</trd>,
+    <trd>xist!</trd>
+  </trdgrp>
   <trd lng="fr">chut !</trd>
   <trdgrp lng="hu">
     <trd>pszt!</trd>,
@@ -41,6 +45,9 @@
 
 <!--
 $Log: sxsx.xml,v $
+Revision 1.6  2013/07/16 08:10:11  revo
+Marc Rausell: + trd ca
+
 Revision 1.5  2009/04/17 19:47:40  revo
 Antonio Codazzi: +trd it
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jen.xml,v 1.29 2009/03/18 17:31:24 revo Exp $">
+<art mrk="$Id: jen.xml,v 1.30 2013/06/29 20:10:23 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>jen</rad>
@@ -61,6 +61,10 @@ sinjoron,
      <trd>setu</trd>,
      <trd>setu ama&ntilde;</trd>
    </trdgrp>
+   <trdgrp lng="ca">
+     <trd>vet aqu&iacute;</trd>,
+     <trd>heus aqu&iacute;</trd>
+   </trdgrp>
    <trdgrp lng="cs">
      <trd>hle</trd>,
      <trd>zde</trd>,
@@ -93,6 +97,10 @@ sinjoron,
      <trd>ziehier</trd>,
      <trd>hier</trd>,
      <trd>kijk</trd>
+   </trdgrp>
+   <trdgrp lng="oc">
+     <trd>aic&iacute;</trd>,
+     <trd>vaqu&iacute;</trd>
    </trdgrp>
    <trd lng="pt">eis</trd>
    <trdgrp lng="ru">
@@ -323,6 +331,9 @@ d&eacute;convenue)</klr></trd>,
 </art>
 <!--
 $Log: jen.xml,v $
+Revision 1.30  2013/06/29 20:10:23  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.29  2009/03/18 17:31:24  revo
 Antonio Codazzi: korek trd
 
@@ -342,8 +353,5 @@ Revision 1.24  2005/04/06 16:34:32  revo
 Alan ar Gall: +trd br
 
 Revision 1.23  2005/03/20 17:51:21  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.22  2004/11/14 17:31:18  revo
 -->
 </vortaro>
