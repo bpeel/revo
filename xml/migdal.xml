@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: migdal.xml,v 1.21 2012/08/19 20:10:41 revo Exp $">
+<art mrk="$Id: migdal.xml,v 1.22 2013/08/29 09:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>migdal</rad>/o <fnt><bib>PV</bib></fnt>
@@ -59,7 +59,9 @@
   <snc mrk="migdal.0arbo.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      Specio de <ref tip="super" cel="prunus.0o">prunuso</ref>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:botanikaj_specioj">specio</ref> de <ref tip="super"
+      cel="prunus.0o">prunuso</ref>
       (<trd lng="la">Prunus dulcis</trd>).
     </dif>
   </snc>
@@ -85,6 +87,9 @@
 </art>
 <!--
 $Log: migdal.xml,v $
+Revision 1.22  2013/08/29 09:10:15  revo
+Wolfram Diestel: referenco al listo bot specioj
+
 Revision 1.21  2012/08/19 20:10:41  revo
 Marc Rausell: + trd ca
 
@@ -104,8 +109,5 @@ Revision 1.16  2006/08/02 16:32:32  revo
 Tulio Flores: +tr pt
 
 Revision 1.15  2005/05/23 16:31:24  revo
-Alan ar Gall: +trd br
-
-Revision 1.14  2003/05/25 17:03:39  revo
 -->
 </vortaro>

@@ -2,13 +2,18 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: an.xml,v 1.21 2013/07/16 08:10:16 revo Exp $">
-    <kap>
-      <ofc>*</ofc>
-      -<rad>an</rad>/</kap>
+  <art mrk="$Id: an.xml,v 1.24 2013/10/31 16:10:12 revo Exp $">
+    <kap><ofc>*</ofc>-<rad>an</rad>/</kap>
+ 
     <subart>
-      <dif>
-	Sufikso signifanta membron de grupo, kiun la anta&ubreve;metita
+    <dif>
+	Sufikso signifanta membron de grupo:  
+    </dif>
+    <drv mrk="an.0">
+    <kap>-<tld/></kap>
+    <snc>
+       <dif>
+          kiun la anta&ubreve;metita
 	radikalo indikas rekte (la radikalo indikas grupon):
 	<ekz>
 	  akademi<tld/>o, komitat<tld/>o, &scirc;tat<tld/>o, famili<tld/>o,
@@ -51,24 +56,30 @@
 	ktp.  Tio estas pia memtrompo.
 	<aut>Sergio Pokrovskij</aut>
       </rim>
+      </snc>
       <trdgrp lng="de">
 	<trd><klr>-</klr>aner</trd>,
 	<trd><klr>-</klr>er</trd>
       </trdgrp>
       <trd lng="vo">-an</trd>
+      </drv>
     </subart>
-    <subart>
-      <dif>
-	Samsignifa radiko:
+   
+   <subart>
+     <dif>
+       Samsignifa radiko:
       </dif>
-      <drv mrk="an.0o">
-	<kap><tld/>o</kap>
-	<snc>
-	  <ekz>
+      
+    <drv mrk="an.0o">
+    <kap><tld/>o</kap>
+    <snc>
+      <dif>
+        <ref tip="sin" cel="membr.0o.ano">Membro</ref>:
+      	 <ekz>
 	    <tld/>o de la Berlina  grupo.
 	  </ekz>
-	  <ref tip="sin" cel="membr.0o.ano">membro</ref>
-	</snc>
+      </dif>
+     </snc>
 	<trdgrp lng="be">
 	  <trd>&c_ch;&c_l;&c_je;&c_n;</trd>,
 	  <trd>&c_ch;&c_a;&c_l;&c_je;&c_c;</trd>,
@@ -161,6 +172,15 @@
   </art>
   <!--
   $Log: an.xml,v $
+  Revision 1.24  2013/10/31 16:10:12  revo
+  Wolfram Diestel: forigis / por subteni sercxilon, iom (re)plibonigis la strukturon
+
+  Revision 1.23  2013/10/28 09:10:10  revo
+  Damien Brucker: dauxrigo: sxangxo por la sercxilo
+
+  Revision 1.22  2013/10/24 13:10:10  revo
+  Damien Brucker: sxangxo por la sercxilo
+
   Revision 1.21  2013/07/16 08:10:16  revo
   Marc Rausell: + trd ca
 

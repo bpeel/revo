@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konvol.xml,v 1.14 2011/01/26 17:10:08 revo Exp $">
+<art mrk="$Id: konvol.xml,v 1.15 2013/08/27 07:10:31 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>konvolvul</rad>/o
@@ -15,7 +15,9 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
       cel="konvol1.0oj"><tld/>acoj</ref>
       (<trd lng="la">Convolvulus</trd>), volvegrimpanta herbo kun
       funelformaj floroj.
@@ -35,6 +37,9 @@
 </art>
 <!--
 $Log: konvol.xml,v $
+Revision 1.15  2013/08/27 07:10:31  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.14  2011/01/26 17:10:08  revo
 Russ Williams: +trd en
 
@@ -54,8 +59,5 @@ Revision 1.9  2001/04/28 19:14:49  revo
 Karlo Freeman: +trd=en
 
 Revision 1.8  2001/04/20 12:48:35  revo
-konvol.0acoj -> konvol1.0oj
-
-Revision 1.7  2001/04/20 12:48:05  revo
 -->
 </vortaro>

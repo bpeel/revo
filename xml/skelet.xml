@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skelet.xml,v 1.18 2012/08/30 09:10:26 revo Exp $">
+<art mrk="$Id: skelet.xml,v 1.19 2013/08/01 12:10:12 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>skelet</rad>/o
@@ -27,6 +27,7 @@
       <trd>&c_sh;&c_k;&c_ib;&c_l;&c_je;&c_t;</trd>,
       <trd>&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_k;</trd>
     </trdgrp>
+    <trd lng="bg">&c_s;&c_k;&c_je;&c_l;&c_je;&c_t;</trd>
     <trd lng="en">skeleton</trd>
     <trd lng="hu">csontv&aacute;z</trd>
     <trd lng="pl">szkielet</trd>
@@ -153,6 +154,9 @@
 </art>
 <!--
 $Log: skelet.xml,v $
+Revision 1.19  2013/08/01 12:10:12  revo
+Joop Eggen: +trd bg
+
 Revision 1.18  2012/08/30 09:10:26  revo
 Marc Rausell: + trd ca
 
@@ -172,8 +176,5 @@ Revision 1.13 2004/10/14 16:31:34 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.12 2004/03/01 17:31:52 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11 2002/03/27 17:31:40 revo
 -->
 </vortaro>

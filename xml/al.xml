@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: al.xml,v 1.55 2013/05/09 20:10:10 revo Exp $">
+<art mrk="$Id: al.xml,v 1.56 2013/10/23 18:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>al</rad> <fnt><bib>PV</bib></fnt>
@@ -58,10 +58,12 @@
           </ekz>
         </dif>
         <trd lng="bg">&c_n;&c_a;</trd>
+        <trd lng="ca">cap a</trd>
         <trdgrp lng="en">
           <trd>toward(s)</trd>,
           <trd>to</trd>
         </trdgrp>
+        <trd lng="oc">cap a</trd>
         <trdgrp lng="sk">
           <trd>k</trd>,
           <trd>ku</trd>
@@ -939,6 +941,9 @@
 </art>
 <!--
 $Log: al.xml,v $
+Revision 1.56  2013/10/23 18:10:26  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.55  2013/05/09 20:10:10  revo
 Benito Subejrano: + trd ca oc
 
@@ -958,8 +963,5 @@ Revision 1.50  2006/08/25 14:12:56  revo
 Wieland Pusch: +trd de
 
 Revision 1.49  2005/09/30 16:31:02  revo
-Mario Mazzalai: +trd it
-
-Revision 1.48  2005/03/11 16:51:46  revo
 -->
 </vortaro>

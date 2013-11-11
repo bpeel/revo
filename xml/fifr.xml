@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fifr.xml,v 1.15 2012/03/13 18:10:09 revo Exp $">
+<art mrk="$Id: fifr.xml,v 1.16 2013/09/08 18:10:37 revo Exp $">
 <kap>
 <rad>fifr</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -11,8 +11,9 @@
   <snc mrk="fifr.0o.MUZ">
     <uzo tip="fak">MUZ</uzo>
     <dif>
-      Mallonga <ref tip="super"
-      cel="instru2.blov0o">blovinstrumento</ref>,
+      Mallonga <ref tip="lst"
+      cel="instru2.blov0o"
+      lst="voko:blovinstrumentoj">blovinstrumento</ref>,
       soprana <ref tip="vid" cel="flut.transversa0o">transversa
       fluto</ref>:
       <ekz>
@@ -46,6 +47,9 @@
 </art>
 <!--
 $Log: fifr.xml,v $
+Revision 1.16  2013/09/08 18:10:37  revo
+Wolfram Diestel: ref al listo blovinstrumentoj
+
 Revision 1.15  2012/03/13 18:10:09  revo
 Marc Rausell: + trd ca
 
@@ -65,8 +69,5 @@ Revision 1.10  2003/09/26 19:12:07  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2002/07/05 11:04:56  revo
-Wolfram Diestel: kor. ref-cel
-
-Revision 1.8  2002/06/22 13:00:03  revo
 -->
 </vortaro>

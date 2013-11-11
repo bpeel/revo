@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: likvor.xml,v 1.15 2009/10/08 16:31:01 revo Exp $">
+<art mrk="$Id: likvor.xml,v 1.16 2013/08/19 17:10:12 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>likvor</rad>/o
@@ -19,7 +19,9 @@
       aroma&jcirc;oj kaj sukero:
       <ekz>
         <ind>ovo<tld/>o</ind>;
+        <trd lng="bg">&c_ja;&c_j;&c_ch;&c_je;&c_n;</trd>
         <trd lng="de">Eierlik&ouml;r</trd>
+        <trd lng="en">eggnog</trd>
         <trd lng="nl">advocaat</trd>
       </ekz>
       <ekz>
@@ -28,6 +30,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_ib;&c_k;&c_jo;&c_r;</trd>
+  <trd lng="bg">&c_l;&c_i;&c_k;&c_mol;&c_o;&c_r;</trd>
   <trd lng="de">Lik&ouml;r</trd>
   <trd lng="en">liqueur</trd>
   <trd lng="es">licor</trd>
@@ -39,6 +42,9 @@
 </art>
 <!--
 $Log: likvor.xml,v $
+Revision 1.16  2013/08/19 17:10:12  revo
+Joop Eggen: +trd bg en
+
 Revision 1.15  2009/10/08 16:31:01  revo
 Paul Peeraerts: +nl
 
@@ -58,8 +64,5 @@ Revision 1.10  2003/01/05 17:32:06  revo
 Wolfram Diestel: prilaboris dif
 
 Revision 1.9  2002/10/06 17:35:10  revo
-Ulrich Fellmann: + 1 trd de
-
-Revision 1.8  2001/11/19 17:32:33  revo
 -->
 </vortaro>

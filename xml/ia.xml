@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ia.xml,v 1.16 2011/06/12 19:10:09 revo Exp $">
+<art mrk="$Id: ia.xml,v 1.17 2013/10/28 19:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ia</rad>
@@ -80,6 +80,10 @@
     <trd>&c_ja;&c_k;&c_ib;&c_s;&c_mol;&c_c;&c_ib;</trd>,
     <trd>&c_ja;&c_k;&c_ib;-&c_n;&c_je;&c_b;&c_u;&c_d;&c_z;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="ca">
+    <trd>algun</trd>,
+    <trd>una <ind>mena</ind> de</trd>
+  </trdgrp>
   <trd lng="de">irgendein</trd>
   <trd lng="es">alg&uacute;n <klr>(de alguna clase)</klr></trd>
   <trdgrp lng="fr">
@@ -92,6 +96,7 @@
     <trd>egyfajta</trd>
   </trdgrp>
   <trd lng="nl">een of ander</trd>
+  <trd lng="oc">una <ind>mena</ind> de</trd>
   <trdgrp lng="pt">
    <trd>algum</trd>, 
    <trd>um</trd>, 
@@ -187,6 +192,9 @@
 </art>
 <!--
 $Log: ia.xml,v $
+Revision 1.17  2013/10/28 19:10:21  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.16  2011/06/12 19:10:09  revo
 Carlos Horny: +trd es
 
@@ -205,9 +213,6 @@ Dmitri Gabinski: +trd be
 Revision 1.11  2003/12/26 17:30:41  revo
 Marc Bavant: ~: +trd fr; +drv sen ~, sen ~ ecx plej malgranda; sxovis
 koncernajn ekz-oj
-
-Revision 1.10 2002/10/23 20:38:58 revo
-aktualigo de malnovaj fnt-indikoj enkondukante <bib>
 
 -->
 </vortaro>

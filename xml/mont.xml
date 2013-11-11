@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: mont.xml,v 1.29 2012/10/23 00:13:05 revo Exp $">
+  <art mrk="$Id: mont.xml,v 1.30 2013/08/25 08:10:41 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>mont</rad>/o
@@ -273,7 +273,8 @@
         <uzo tip="fak">AST</uzo>
         <mlg>Men</mlg>
         <dif>
-          <ref tip="super" cel="stel.0figuro">Stelfiguro</ref>
+          <ref tip="lst" cel="stel.0figuro"
+          lst="voko:stelfiguroj">Stelfiguro</ref>
           en la suda duonsfero (<trd lng="la">Mensa</trd>).
         </dif>
       </snc>
@@ -288,6 +289,9 @@
   </art>
   <!--
   $Log: mont.xml,v $
+  Revision 1.30  2013/08/25 08:10:41  revo
+  Wolfram Diestel: referenco al listo stelfiguroj
+
   Revision 1.29  2012/10/23 00:13:05  revo
   Neil Roberts: aldonu la etikedon <var>
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: strat.xml,v 1.23 2009/10/29 17:31:14 revo Exp $">
+<art mrk="$Id: strat.xml,v 1.24 2013/10/23 20:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>strat</rad>/o <fnt><bib>PV</bib></fnt>
@@ -35,6 +35,7 @@
   </snc>
   <trd lng="be">&c_v;&c_u;&c_l;&c_ib;&c_c;&c_a;</trd>
   <trd lng="bg">&c_u;&c_l;&c_i;&c_c;&c_a;</trd>
+  <trd lng="ca">carrer</trd>
   <trd lng="cs">ulice</trd>
   <trd lng="de">Stra&szlig;e</trd>
   <trd lng="en">street</trd>
@@ -43,6 +44,7 @@
   <trd lng="hu">utca</trd>  
   <trd lng="kk">&c_k;&#1257;&c_sh;&c_je;</trd>
   <trd lng="nl">straat</trd>
+  <trd lng="oc">carri&egrave;ra</trd>
   <trd lng="pl">ulica</trd>
   <trd lng="pt">rua</trd>
   <trd lng="ru">&c_u;&c_l;&c_i;&c_c;&c_a;</trd>
@@ -147,6 +149,9 @@
 </art>
 <!--
 $Log: strat.xml,v $
+Revision 1.24  2013/10/23 20:10:18  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.23  2009/10/29 17:31:14  revo
 Jozefo Horvath: +trd hu
 
@@ -166,8 +171,5 @@ Revision 1.18  2008/01/16 17:30:20  revo
 Wieland Pusch: +trd bg
 
 Revision 1.17  2005/12/07 17:32:04  revo
-Dmitri Gabinski: +trd kk
-
-Revision 1.16  2004/11/02 17:31:42  revo
 -->
 </vortaro>

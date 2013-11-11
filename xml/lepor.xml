@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lepor.xml,v 1.26 2013/07/05 19:10:21 revo Exp $">
+<art mrk="$Id: lepor.xml,v 1.29 2013/10/19 16:10:10 revo Exp $">
 <kap>
  <ofc>*</ofc>
  <rad>lepor</rad>/o
@@ -13,8 +13,9 @@
  <uzo tip="fak">ZOO</uzo>
  <snc>
    <dif>
-     <ref tip="super" cel="genr.0o.BIO">Genro</ref> (<trd
-     lng="la">Lepus</trd>) 
+     <ref tip="lst" cel="genr.0o.BIO"
+     lst="voko:zoologiaj_genroj">Genro</ref> 
+     (<trd lng="la">Lepus</trd>) 
      el familio <ref tip="malprt" cel="lepore.0oj"><tld/>edoj</ref>, 
      kun longaj malanta&ubreve;aj kruroj, per kiuj ili povas rapide 
      <ref cel="salt.0i.sin_levi">salt</ref>kuri:
@@ -40,10 +41,9 @@
      </ekz>
    </dif>
  </snc>
- <refgrp>
-    <ref cel="kunikl.0o">kuniklo</ref>,
-    <ref cel="pask.0o.KRI">Pasko</ref>
- </refgrp>
+ <ref tip="lst" cel="lepor.0uloj" lst="voko:leporuloj">leporulo</ref>
+ <ref tip="vid" cel="kunikl.0o">kuniklo</ref>
+ <ref tip="malprt" cel="pask.0o.KRI">Pasko</ref>
  <trd lng="be">&c_z;&c_a;&c_ja;&c_c;</trd>
  <trd lng="bg">&c_z;&c_a;&c_je;&c_k;</trd>
  <trd lng="br">gad</trd>
@@ -67,7 +67,8 @@
  <mlg>Lep</mlg>
  <snc>
    <dif>
-     Sud-hemisfera <ref tip="super" cel="stel.0figuro">stelfiguro</ref> 
+     Sud-hemisfera <ref tip="lst" cel="stel.0figuro"
+     lst="voko:stelfiguroj">stelfiguro</ref> 
 (<trd lng="la">Lepus</trd>).
    </dif>
  </snc>
@@ -83,8 +84,9 @@
  <uzo tip="fak">ZOO</uzo>
  <snc>
    <dif>
-     <ref tip="super" cel="ord.0o.BIO">Ordo</ref> el la klaso <ref
-     tip="super" cel="mam.0uloj">mamuloj</ref>
+     <ref tip="lst" cel="ord.0o.BIO"
+     lst="voko:zoologiaj_ordoj">Ordo</ref> 
+     de <ref tip="malprt" cel="mam.0uloj">mamuloj</ref>
      (<trd lng="la">Lagomorpha</trd>), kun longaj malanta&ubreve;aj 
      kruroj, mallonga a&ubreve; mankanta vosto kaj du paroj da supraj
      tran&ccirc;dentoj.
@@ -105,6 +107,15 @@
 </art>
 <!--
 $Log: lepor.xml,v $
+Revision 1.29  2013/10/19 16:10:10  revo
+Wolfram Diestel: ref al leporuloj, prilaboris dif
+
+Revision 1.28  2013/09/01 10:10:19  revo
+Wolfram Diestel: ~uloj: referenco al listo zoo ordoj
+
+Revision 1.27  2013/08/25 08:10:34  revo
+Wolfram Diestel: referenco al listo stelfiguroj
+
 Revision 1.26  2013/07/05 19:10:21  revo
 Wolfram Diestel: referencoj
 
@@ -118,14 +129,5 @@ Revision 1.23  2008/01/16 17:30:40  revo
 Wieland Pusch: +trd bg
 
 Revision 1.22  2008/01/07 17:30:20  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.21  2006/02/19 19:55:06  revo
-H. Neal Parker: +drv; kor trd en; ref kuniklo
-
-Revision 1.20  2005/04/28 16:33:40  revo
-Vito Redsky: +trd pl
-
-Revision 1.19  2005/04/09 18:42:06  revo
 -->
 </vortaro>

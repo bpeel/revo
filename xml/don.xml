@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: don.xml,v 1.46 2013/06/30 15:10:09 revo Exp $">
+  <art mrk="$Id: don.xml,v 1.47 2013/09/07 01:10:17 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>don</rad>/i <fnt><bib>PV</bib></fnt>
@@ -48,10 +48,7 @@
               <trd>ad&aacute;s</trd>,
               <trd>adom&aacute;ny</trd>
             </trdgrp>
-            <trdgrp lng="pl">
-              <trd>da&cacute;</trd>,
-              <trd>dawa&cacute;</trd>
-            </trdgrp>
+            <trd lng="pl">dar</trd>
             <trdgrp lng="pt">
               <trd>dar</trd>,
               <trd>entregar</trd>
@@ -138,6 +135,12 @@
         <trd>donar</trd>,
         <trd>balhar</trd>
       </trdgrp>
+      <trdgrp lng="pl">
+        <trd>da&cacute;</trd>,
+        <trd>dawa&cacute;</trd>
+        <trd>udziela&cacute;</trd>
+      </trdgrp>
+      <trd lng="ro">a da</trd>
       <trdgrp lng="ru">
         <trd>&c_d;&c_a;&c_t;&c_mol;</trd>,
         <trd>&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol;</trd>
@@ -1057,6 +1060,9 @@
   </art>
   <!--
   $Log: don.xml,v $
+  Revision 1.47  2013/09/07 01:10:17  revo
+  Vito Redsky: kor trd pl+trd ro
+
   Revision 1.46  2013/06/30 15:10:09  revo
   Benito Subejrano: + trd ca oc
 

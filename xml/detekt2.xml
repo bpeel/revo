@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: detekt2.xml,v 1.11 2009/06/05 16:30:55 revo Exp $">
+<art mrk="$Id: detekt2.xml,v 1.12 2013/09/02 15:10:28 revo Exp $">
 <kap>
 <rad>detektor</rad>/o
 </kap>
@@ -13,23 +13,27 @@
     <ref tip="dif" cel="detekt.0ilo">detektilo.</ref>
   </snc>
   <trd lng="be">&c_d;&c_e;&c_t;&c_e;&c_k;&c_t;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_t;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
   <trd lng="de">Detektor</trd>
+  <trd lng="en">detector</trd>
   <trd lng="es">detector</trd>
+  <trd lng="fr">d&eacute;tecteur<klr tip="ind"> (d'ondes)</klr></trd>
   <trd lng="hu">detektor</trd>
+  <trd lng="nl">detector</trd>
   <trdgrp lng="pl">
     <trd>detektor</trd>,
     <trd>czujnik</trd>,
     <trd>wykrywacz</trd>
   </trdgrp>
-  <trdgrp lng="pt">
-    <trd>detector</trd>,
-    <trd>detetor</trd>
-  </trdgrp>
+  <trd lng="pt">detector</trd>
   <trd lng="ru">&c_d;&c_je;&c_t;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
 </drv>
 </art>
 <!--
 $Log: detekt2.xml,v $
+Revision 1.12  2013/09/02 15:10:28  revo
+Joop Eggen: +trd bg en fr nl
+
 Revision 1.11  2009/06/05 16:30:55  revo
 Sebastian Cyprych: +trd pl
 
@@ -49,8 +53,5 @@ Revision 1.6  2002/04/22 16:31:35  revo
 Ulrich Fellmann: + germ trd
 
 Revision 1.5  2001/05/08 17:52:17  revo
-Marc Bavant: sxovis ref ekster dif
-
-Revision 1.4  2001/03/27 16:19:16  revo
 -->
 </vortaro>

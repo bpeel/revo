@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vendre.xml,v 1.29 2013/03/24 17:10:17 revo Exp $">
+<art mrk="$Id: vendre.xml,v 1.31 2013/09/23 07:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vendred</rad>/o
@@ -13,8 +13,10 @@
   <uzo tip="fak">KAL</uzo>
   <snc>
     <dif>
-      Sesa <ref tip="super" cel="tag.0o.diurn">tago<sncref
-      ref="tag.0o.diurn"/></ref> de la semajno, inter &jcirc;a&ubreve;do kaj
+      Sesa <ref tip="lst" cel="tag.0o.diurn"
+      lst="voko:semajntagoj" val="6">tago<sncref
+      ref="tag.0o.diurn"/></ref> de la <ref tip="malprt"
+      cel="semajn.0o.KAL">semajno</ref>, inter &jcirc;a&ubreve;do kaj
       sabato:
       <ekz>
         la Sankta Sabato komenci&gcirc;as <tld/>e vespere kaj fini&gcirc;as
@@ -61,6 +63,12 @@ lng="el">&Pi;&alfa;&rho;&alfa;&sigma;&kappa;&epsilon;&ypsilon;&eta_ton;</trd>
 </art>
 <!--
 $Log: vendre.xml,v $
+Revision 1.31  2013/09/23 07:10:13  revo
+Wolfram Diestel: +val
+
+Revision 1.30  2013/09/05 19:10:15  revo
+Wolfram Diestel: referenco al listo semajntagoj
+
 Revision 1.29  2013/03/24 17:10:17  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -77,11 +85,5 @@ Revision 1.25  2007/11/25 17:30:21  revo
 Wieland Pusch: +trd bg
 
 Revision 1.24  2006/03/29 16:31:05  revo
-Vito Redsky: +trd ro
-
-Revision 1.23  2005/04/10 16:33:10  revo
-Alan ar Gall: +trd br
-
-Revision 1.22  2003/11/08 08:20:07  revo
 -->
 </vortaro>

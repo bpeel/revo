@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: epifor.xml,v 1.7 2010/02/05 17:30:40 revo Exp $">
+<art mrk="$Id: epifor.xml,v 1.8 2013/10/09 19:10:44 revo Exp $">
 <kap>
   <rad>epifor</rad>/o
 </kap>
@@ -13,6 +13,7 @@
     <dif>
       Sen&ccirc;esa nevola eli&gcirc;o de larmoj.  
     </dif>
+    <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
   </snc>
   <trdgrp lng="de">
      <trd>Tr&auml;nenfluss</trd>,
@@ -26,6 +27,9 @@
 </art>
 <!--
 $Log: epifor.xml,v $
+Revision 1.8  2013/10/09 19:10:44  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.7  2010/02/05 17:30:40  revo
 Sebastian Cyprych: +trd pl
 

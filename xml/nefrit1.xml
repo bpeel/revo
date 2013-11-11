@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nefrit1.xml,v 1.7 2011/12/05 00:10:25 revo Exp $">
+<art mrk="$Id: nefrit1.xml,v 1.8 2013/10/09 19:11:37 revo Exp $">
 <kap>
   <rad>nefrit</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -11,7 +11,8 @@
   <snc mrk="nefrit1.0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Ren<ref tip="super" cel="brul.0umo.MED">brulumo</ref>:
+      Ren<ref tip="lst" cel="brul.0umo.MED"
+      lst="voko:malsanoj">brulumo</ref>:
       <ekz>
         &gcirc;i resanigas la malsanojn kiel la <tld/>o, la artika
         re&ubreve;matismo kaj la podagro
@@ -51,6 +52,9 @@
 
 <!--
 $Log: nefrit1.xml,v $
+Revision 1.8  2013/10/09 19:11:37  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.7  2011/12/05 00:10:25  revo
 Marc Rausell: kataluna traduko
 
@@ -70,7 +74,5 @@ Revision 1.2  2007/02/09 17:30:30  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.1  2006/09/01 18:31:07  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

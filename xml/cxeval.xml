@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxeval.xml,v 1.64 2013/07/05 19:10:12 revo Exp $">
+<art mrk="$Id: cxeval.xml,v 1.67 2013/10/27 15:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;eval</rad>/o <fnt><bib>PV</bib></fnt>
@@ -15,7 +15,8 @@
     <dif>
       <ref tip="super" cel="speci.0o.BIO">Specio</ref> 
       (<trd lng="la">Equus caballus</trd>) de grandaj
-      <ref tip="malprt" cel="huf.nepar0uloj">neparhufulaj</ref>
+      <ref tip="lst" cel="huf.nepar0ulo"
+      lst="voko:neparhufuloj">neparhufulaj</ref>
       <ref tip="malprt" cel="mam.0uloj">mamuloj</ref> uzataj ekde
       la antikva epoko kiel rajd- kaj tir-bestoj:
       <ekz>
@@ -69,6 +70,7 @@
     <trd lng="ru">&c_k;&c_o;&c_n;&c_mol;</trd>
   </snc>
   <trd lng="be">&c_k;&c_o;&c_n;&c_mol;</trd>
+  <trd lng="ca">cavall</trd>
   <trd lng="es">caballo</trd>
   <trd lng="fr">cheval</trd>
   <trd lng="nl">paard</trd>
@@ -78,6 +80,7 @@
     <trd>ko&nacute;</trd>,
     <trd>skoczek</trd>
   </trdgrp>
+  <trd lng="oc">caval</trd>
   <trd lng="pt">cavalo</trd>
   <trd lng="sk">k&ocirc;&ncaron;</trd>
   <trd lng="tr">at</trd>
@@ -429,13 +432,16 @@
   <snc mrk="cxeval.0povo.MEZ">
     <uzo tip="fak">FIZ</uzo>
     <uzo tip="fak">TEK</uzo>
+    <mlg>&Ccirc;P</mlg>
     <dif>
       Malnova komunuza
-      <ref tip="super" cel="unu.mezur0o">mezurunuo</ref> de
-      me&hcirc;anika povo, egala en E&ubreve;ropo al 75
-      <ref cel="kilogr.0metro">kilogrammetroj</ref> en sekundo, t.e.
-      735,75W, kaj, en Usono, al 550 futfuntoj en sekundo,
-      t.e. 745,7W; simb. &Ccirc;P.
+      <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:mezurunuoj">mezurunuo</ref> de
+      me&hcirc;anika povo responda al forto de avera&gcirc;a &ccirc;evalo, 
+      egala en E&ubreve;ropo al 75
+      <ref cel="kilogr.0metro">kilogrammetroj</ref> en sekundo
+      <klr>(735,75 W)</klr>, en Usono al 550 futfuntoj en sekundo
+      <klr>(745,7 W)</klr>.
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_o;&c_n;&c_s;&c_k;&c_a;&c_ja; &c_s;&c_ib;&c_l;&c_a;</trd>
@@ -462,6 +468,15 @@
 </art>
 <!--
 $Log: cxeval.xml,v $
+Revision 1.67  2013/10/27 15:10:15  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.66  2013/10/19 15:10:21  revo
+Wolfram Diestel: ref al neparhufuloj
+
+Revision 1.65  2013/09/15 11:10:22  revo
+Wolfram Diestel: ~povo: ref al lst mezurunuoj
+
 Revision 1.64  2013/07/05 19:10:12  revo
 Wolfram Diestel: referencoj
 
@@ -475,14 +490,5 @@ Revision 1.61  2011/05/28 22:10:11  revo
 Jeromo Vasxe: + mar~eto
 
 Revision 1.60  2011/04/15 22:10:33  revo
-Nicolas Bros: +trd en, fr
-
-Revision 1.59  2010/03/10 17:30:43  revo
- Evandro Avellar: + trd pt
-
-Revision 1.58  2009/08/28 16:31:26  revo
-Emmanuel Debanne: +trd ku
-
-Revision 1.57  2009/08/27 16:31:30  revo
 -->
 </vortaro>

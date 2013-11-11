@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: laring1.xml,v 1.15 2012/09/03 17:10:23 revo Exp $">
+<art mrk="$Id: laring1.xml,v 1.16 2013/10/09 19:11:26 revo Exp $">
 <kap>
   <rad>laringit</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -11,7 +11,8 @@
   <snc mrk="laring1.0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      <ref tip="super" cel="inflam.0o">Inflamo</ref> de la laringo:
+      <ref tip="lst" cel="inflam.0o" lst="voko:malsanoj">Inflamo</ref>
+      de la laringo:
       <ekz>
         <tld/>o akuta, kronika.
       </ekz>
@@ -43,6 +44,9 @@
 </art>
 <!--
 $Log: laring1.xml,v $
+Revision 1.16  2013/10/09 19:11:26  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.15  2012/09/03 17:10:23  revo
 Marc Rausell: + trd ca
 
@@ -62,8 +66,5 @@ Revision 1.10 2002/09/14 18:52:04 revo
 Ulrich Fellmann: + 2 trd de
 
 Revision 1.9 2002/08/23 17:31:01 revo
-Eduardo M. Kalinowski: ald trd el, pt
-
-Revision 1.8 2001/11/23 10:46:41 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: alergi.xml,v 1.7 2010/11/05 17:30:20 revo Exp $">
+<art mrk="$Id: alergi.xml,v 1.9 2013/10/07 15:10:34 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>alergi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -12,7 +12,8 @@
     <uzo tip="fak">FIZL</uzo>
     <uzo tip="fak">MED</uzo>
     <dif>
-      <ref tip="super" cel="san.mal0o">Malsano</ref>,
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsano</ref>,
       ka&ubreve;zita de forta reago de la <ref
       cel="sistem.imun0o">imunsistemo</ref>
       kontra&ubreve; substancoj, kiuj normale estas sendan&gcirc;eraj, ekzemple 
@@ -30,11 +31,13 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_a;&c_l;&c_je;&c_r;&c_g;&c_i;&c_ja;</trd>
   <trd lng="de">Allergie</trd>
   <trd lng="en">allergy</trd>
   <trd lng="es">alergia</trd>
   <trd lng="fr">allergie</trd>
   <trd lng="it">allergia</trd>
+  <trd lng="nl">allergie</trd>
   <trd lng="ru">&c_a;&c_l;&c_l;&c_je;&c_r;&c_g;&c_i;&c_ja;</trd>
 </drv>
 
@@ -55,13 +58,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_a;&c_l;&c_je;&c_r;&c_g;&c_i;&c_ch;&c_je;&c_n;</trd>
   <trd lng="de">allergisch</trd>
   <trd lng="en">allergic</trd>
   <trd lng="es">al&eacute;rgico</trd>
   <trd lng="fr">allergique</trd>
   <trd lng="it">allergico</trd>
-  <trd
-  lng="ru">&c_a;&c_l;&c_l;&c_je;&c_r;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="nl">allergisch</trd>
+  <trd lng="ru">&c_a;&c_l;&c_l;&c_je;&c_r;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="alergi.0iga">
@@ -84,10 +88,13 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_a;&c_l;&c_je;&c_r;&c_g;&c_i;&c_z;&c_i;&c_r;&c_a;&c_shch;</trd>
   <trd lng="de">allergen</trd>
+  <trd lng="en">allergenic</trd>
   <trd lng="es">alerg&eacute;nico</trd>
   <trd lng="fr">allerg&egrave;ne<klr> (adj.)</klr></trd>
   <trd lng="it">allergenico</trd>
+  <trd lng="nl">allergeen</trd>
   <trdgrp lng="ru">
     <trd>&c_a;&c_l;&c_l;&c_je;&c_r;&c_g;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_v;&c_y;&c_z;&c_y;&c_v;&c_a;&c_ju;&c_shch;&c_i;&c_j;
@@ -97,6 +104,12 @@
 </art>
 <!--
 $Log: alergi.xml,v $
+Revision 1.9  2013/10/07 15:10:34  revo
+Wolfram Diestel: ref la lst malsanoj
+
+Revision 1.8  2013/08/15 18:10:12  revo
+Joop Eggen: +trd bg nl
+
 Revision 1.7  2010/11/05 17:30:20  revo
 Antonio Codazzi: +trd it
 
@@ -113,10 +126,5 @@ Revision 1.3 2007/05/20 16:30:42 revo
 Wieland Pusch: +trd de
 
 Revision 1.2 2006/06/18 16:33:33 revo
-Yury Finkel: +trd ru
-
-Revision 1.1 2006/06/11 16:31:43 revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

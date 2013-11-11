@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: katapult.xml,v 1.15 2013/04/22 06:10:10 revo Exp $">
+<art mrk="$Id: katapult.xml,v 1.17 2013/09/17 01:10:20 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>katapult</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -37,7 +37,9 @@
     </subsnc >
     <subsnc mrk="katapult.0o.SPO">
       <dif>
-        Knaba ludilo, konsistanta el ligna a&ubreve; fera forketo kun
+        Knaba <ref tip="lst" cel="lud.0ilo"
+        lst="voko:ludiloj">ludilo</ref>, konsistanta el ligna a&ubreve; fera
+        forketo kun
         elasta rubando, por pafi &scirc;tonetojn ktp.
       </dif>
       <trd lng="be">&c_r;&c_a;&c_g;&c_a;&c_t;&c_k;&c_a;</trd>
@@ -92,6 +94,7 @@
   <trd lng="es">catapulta</trd>
   <trd lng="fr">catapulte</trd>
   <trd lng="hu">katapult</trd>
+  <trd lng="pl">katapulta</trd>
 </drv>
 
 <drv mrk="katapult.0i">
@@ -125,6 +128,12 @@
 
 <!--
 $Log: katapult.xml,v $
+Revision 1.17  2013/09/17 01:10:20  revo
+Vito Redsky: +trd pl
+
+Revision 1.16  2013/09/08 19:10:32  revo
+Wolfram Diestel: ref al listo ludiloj
+
 Revision 1.15  2013/04/22 06:10:10  revo
 Sebastian Cyprych: +trd pl
 
@@ -141,11 +150,5 @@ Revision 1.11  2009/03/01 17:32:28  revo
 Russ Williams: + 9OA
 
 Revision 1.10  2005/12/06 17:33:53  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.9  2003/02/03 17:31:09  revo
-Ulrich Fellmann: + 3 trd = de por ~i
-
-Revision 1.8  2003/01/31 17:30:45  revo
 -->
 </vortaro>

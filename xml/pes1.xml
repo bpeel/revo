@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pes1.xml,v 1.18 2007/11/19 17:30:54 revo Exp $">
+<art mrk="$Id: pes1.xml,v 1.19 2013/09/22 19:11:42 revo Exp $">
 <kap>
   <rad>pes</rad>/o
 </kap>
@@ -11,7 +11,8 @@
   <uzo tip="fak">EKON</uzo>
   <snc>
     <dif>
-      <ref tip="super" cel="unu.mon0o">Monunuo</ref> de Filipinoj kaj de 
+      <ref tip="lst" cel="unu.mon0o" lst="voko:monunuoj">Monunuo</ref>
+      de Filipinoj kaj de 
 pluraj hispanlingvaj landoj de Ameriko.
     </dif>
     <ref tip="prt" cel="centav.0o">centavo.</ref>
@@ -29,6 +30,9 @@ pluraj hispanlingvaj landoj de Ameriko.
 </art>
 <!--
 $Log: pes1.xml,v $
+Revision 1.19  2013/09/22 19:11:42  revo
+Wolfram Diestel: referenco al listo monunuoj
+
 Revision 1.18  2007/11/19 17:30:54  revo
 Sebastian Cyprych: +trd pl
 
@@ -48,8 +52,5 @@ Revision 1.13  2001/12/19 11:59:29  revo
 Yury Finkel: +trd ru
 
 Revision 1.12 2001/10/31 19:14:45 revo
-Karlo Freeman: +trd = en
-
-Revision 1.11 2001/09/06 18:13:07 revo
 -->
 </vortaro>

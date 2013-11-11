@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mononukleoz.xml,v 1.3 2012/01/08 12:10:14 revo Exp $">
+<art mrk="$Id: mononukleoz.xml,v 1.4 2013/10/09 19:11:35 revo Exp $">
 <kap>
   <rad>mononukleoz</rad>/o
 </kap>
@@ -11,7 +11,8 @@
   <snc mrk="mononukleoz.0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Konta&gcirc;a virusa malsano ka&ubreve;zanta gor&gcirc;odoloron,
+      Konta&gcirc;a virusa <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref> ka&ubreve;zanta gor&gcirc;odoloron,
       da&ubreve;ran lacecon, malgrava &ccirc;e junaj homoj, pli
       forta &ccirc;e plenkreskuloj:
       <ekz>
@@ -47,6 +48,9 @@
 
 <!--
 $Log: mononukleoz.xml,v $
+Revision 1.4  2013/10/09 19:11:35  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.3  2012/01/08 12:10:14  revo
 Wolfram Diestel: germ trd
 

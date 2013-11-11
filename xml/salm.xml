@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: salm.xml,v 1.21 2012/02/18 21:10:15 revo Exp $">
+<art mrk="$Id: salm.xml,v 1.25 2013/10/08 19:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>salm</rad>/o
@@ -12,12 +12,13 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super"
-      cel="salmed.0oj"><tld/>edoj</ref>
-      (<trd lng="la">Salmo</trd>), mara fi&scirc;o kun rozkolora
-      bongusta
-      viando,
-      kiu kontra&ubreve;fluen migras en la riverojn por demeti frajon.
+      <ref tip="lst" cel="fisx.mar0o" lst="voko:fi&scirc;oj">Mara fi&scirc;o</ref> 
+      kun rozkolora bongusta viando,
+      kiu kontra&ubreve;fluen migras en la riverojn por fraji;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="salmed.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Salmo</trd>), 
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -52,8 +53,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Ordo el la klaso
-      <ref tip="super" cel="fisx.osto0oj">ostofi&scirc;oj</ref>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> de
+      <ref tip="malprt" cel="fisx.osto0oj">ostofi&scirc;oj</ref>
       (<trd lng="la">Salmoniformes</trd>).
     </dif>
   </snc>
@@ -69,6 +71,18 @@
 </art>
 <!--
 $Log: salm.xml,v $
+Revision 1.25  2013/10/08 19:10:14  revo
+Wolfram Diestel: fishoj, prilaboris dif
+
+Revision 1.24  2013/10/07 20:10:12  revo
+Wolfram Diestel: ref-tip
+
+Revision 1.23  2013/09/03 18:10:13  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.22  2013/08/31 17:10:24  revo
+Wolfram Diestel: ~oformaj: referenco al listo zoo ordoj
+
 Revision 1.21  2012/02/18 21:10:15  revo
 Marc Rausell: ++trd ca
 
@@ -79,17 +93,5 @@ Revision 1.19  2009/09/23 17:25:42  revo
 Antonio Codazzi: +trd it
 
 Revision 1.18  2009/06/22 16:30:56  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.17  2009/06/04 16:31:03  revo
-Wieland Pusch: +trd bg
-
-Revision 1.16  2009/06/02 18:47:42  revo
-Russ Williams: +trd en
-
-Revision 1.15  2006/02/07 17:31:14  revo
-Tulio Flores: +trd pt
-
-Revision 1.14  2002/12/10 17:31:52  revo
 -->
 </vortaro>

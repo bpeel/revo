@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: solana.xml,v 1.11 2011/12/10 15:10:19 revo Exp $">
+<art mrk="$Id: solana.xml,v 1.14 2013/11/02 14:10:33 revo Exp $">
 <kap>
   <rad>solanac</rad>/oj
 </kap>
@@ -11,13 +11,15 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Familio de <ref tip="super" cel="kotile.du0aj">dukotiledonaj</ref>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
       unupetalaj plantoj (<trd lng="la">Solanaceae</trd>), al kiu
       apartenas multaj kuracaj, man&gcirc;eblaj kaj venenaj plantoj,
       ekzemple
-      <refgrp tip="sub">
+      <refgrp tip="prt">
         <ref cel="solan.0o">solano</ref>,
-        <ref cel="tomat.0o">tomato</ref>,
+        <ref cel="tomat.0ujo">tomatujo</ref>,
         <ref cel="kapsik.0o">kapsiko</ref>,
         <ref cel="nikoti.0o">nikotiano</ref>,
         <ref cel="belado.0o">beladono</ref>.
@@ -42,6 +44,15 @@
 </art>
 <!--
 $Log: solana.xml,v $
+Revision 1.14  2013/11/02 14:10:33  revo
+Wolfram Diestel: kor. ref-tip
+
+Revision 1.13  2013/08/29 13:10:22  revo
+Wolfram Diestel: tomatujo
+
+Revision 1.12  2013/08/25 16:11:18  revo
+Wolfram Diestel: referenco al listo bot familio
+
 Revision 1.11  2011/12/10 15:10:19  revo
 Marc Rausell: +trd ca
 
@@ -55,10 +66,5 @@ Revision 1.8  2002/05/14 16:32:57  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.7  2002/02/14 17:34:50  revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/08/01 18:12:57 revo
-Paul Peeraerts: ald trd nl
-
 -->
 </vortaro>

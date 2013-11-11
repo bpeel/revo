@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: likopo1.xml,v 1.7 2012/01/02 11:10:29 revo Exp $">
+<art mrk="$Id: likopo1.xml,v 1.8 2013/08/25 16:11:39 revo Exp $">
 <kap>
   <rad>likopodiac</rad>/oj
   <fnt>Z</fnt>
@@ -14,8 +14,9 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Familio de
-      <ref tip="super" cel="likopo.0oplantoj">likopodioplantoj</ref>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de
+      <ref tip="malprt" cel="likopo.0oplantoj">likopodioplantoj</ref>
       (<trd lng="la">Lycopodiaceae</trd>), kies &ccirc;efa tipo estas
       <ref tip="prt" cel="likopo.0o">likopodio</ref>.
     </dif>
@@ -31,6 +32,9 @@ tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
 
 <!--
 $Log: likopo1.xml,v $
+Revision 1.8  2013/08/25 16:11:39  revo
+Wolfram Diestel: referencoj al listo bot familioj
+
 Revision 1.7  2012/01/02 11:10:29  revo
 Marc Rausell: +trd ca (kor)
 

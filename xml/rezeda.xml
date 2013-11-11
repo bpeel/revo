@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rezeda.xml,v 1.7 2006/02/20 17:34:19 revo Exp $">
+<art mrk="$Id: rezeda.xml,v 1.8 2013/08/25 16:11:09 revo Exp $">
 <kap>
   <rad>rezedac</rad>/oj
 </kap>
@@ -11,7 +11,9 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Familio de <ref tip="super" cel="kotile.du0aj">dukotiledonaj</ref>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
       plantoj (<trd lng="la">Resedaceae</trd>).
     </dif>
   </snc>
@@ -25,6 +27,9 @@
 </art>
 <!--
 $Log: rezeda.xml,v $
+Revision 1.8  2013/08/25 16:11:09  revo
+Wolfram Diestel: referenco al listo bot familio
+
 Revision 1.7  2006/02/20 17:34:19  revo
 Tulio Flores: +trd pt
 
@@ -45,4 +50,3 @@ Ulrich Fellmann: kor de erara indiko "la" -> "de"
 
 -->
 </vortaro>
-

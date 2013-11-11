@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mart.xml,v 1.35 2013/03/26 16:10:11 revo Exp $">
+<art mrk="$Id: mart.xml,v 1.36 2013/09/06 18:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mart</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,7 +12,9 @@
   <snc mrk="mart.0o.KAL">
     <uzo tip="fak">KAL</uzo>
     <dif>
-      Tria monato de la jaro la&ubreve; la gregoria kalendaro:
+      Tria <ref tip="lst" cel="monat.0o.KAL"
+      lst="voko:monatoj" val="3">monato</ref>  de la <ref tip="malprt"
+      cel="jar.0o.KAL">jaro</ref> la&ubreve; la gregoria kalendaro:
       <ekz>
         &ccirc;e la romianoj la jaro iam komenci&gcirc;is la unuan de
         <tld/>o, sed en la jaro 153 anta&ubreve; Kristo la jarkomenco estis 
@@ -79,6 +81,9 @@
 </art>
 <!--
 $Log: mart.xml,v $
+Revision 1.36  2013/09/06 18:10:19  revo
+Wolfram Diestel: ref-oj, lst monatoj
+
 Revision 1.35  2013/03/26 16:10:11  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -98,8 +103,5 @@ Revision 1.30 2007/01/10 17:30:29 revo
 Wieland Pusch: +trd bg
 
 Revision 1.29 2006/07/29 16:35:11 revo
-Tulio Flores: +tr pt
-
-Revision 1.28 2006/03/05 17:32:25 revo
 -->
 </vortaro>

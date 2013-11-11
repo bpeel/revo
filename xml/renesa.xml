@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: renesa.xml,v 1.17 2011/12/07 18:10:15 revo Exp $">
+<art mrk="$Id: renesa.xml,v 1.18 2013/10/06 16:10:13 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>renesanc</rad>/o
@@ -12,8 +12,12 @@
   <snc mrk="renesa.0o.HIS">
   <uzo tip="fak">HIS</uzo>
     <dif>
-      E&ubreve;ropa arta kaj scienca movado en la 15a kaj 16a jarcentoj,
-      karakterizata interalie per imitado de la helenlatina antikveco.
+      E&ubreve;ropa arta kaj scienca 
+      <ref tip="lst" cel="evolu.0o" lst="voko:eventoj">evoluo</ref> 
+      en la 15a kaj 16a jarcentoj,
+      karakterizata interalie per 
+      revivi&gcirc;o de la beletro kaj artoj influita 
+      de la helenlatina antikveco.
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -40,6 +44,9 @@
 </art>
 <!--
 $Log: renesa.xml,v $
+Revision 1.18  2013/10/06 16:10:13  revo
+Wolfram Diestel: ref al eventoj
+
 Revision 1.17  2011/12/07 18:10:15  revo
 Marc Rausell: kataluna traduko
 
@@ -59,8 +66,5 @@ Revision 1.12 2002/08/08 17:32:32 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.11 2002/02/12 17:31:30 revo
-jxeromo vasxe: remeto de antauxa difino
-
-Revision 1.10 2002/02/09 19:59:10 revo
 -->
 </vortaro>

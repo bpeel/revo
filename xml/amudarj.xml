@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: amudarj.xml,v 1.10 2011/02/15 13:10:10 revo Exp $">
+  <art mrk="$Id: amudarj.xml,v 1.11 2013/09/06 19:10:34 revo Exp $">
     <kap>
       <rad>Amudarj</rad>/o <fnt><bib>BoER</bib></fnt>
     </kap>
@@ -12,7 +12,8 @@
       <uzo tip="fak">GEOG</uzo>
       <snc>
 	<dif>
-	  La plej granda rivero de la
+	  La plej granda <ref tip="lst" cel="river.0o"
+      lst="voko:riveroj">rivero</ref> de la
 	  <ref tip="malprt" cel="azi.InternaA0o">Interna Azio</ref>,
 	  2540km longa, naski&gcirc;anta el kunfluo de
           <ref cel="pjangx.P0o">Pjan&gcirc;o</ref> kaj Va&hcirc;&scirc;o,
@@ -45,6 +46,9 @@
 
   <!--
   $Log: amudarj.xml,v $
+  Revision 1.11  2013/09/06 19:10:34  revo
+  Wolfram Diestel: ref al lst riveroj
+
   Revision 1.10  2011/02/15 13:10:10  revo
   Luiz Portella: kor. ref k mrk
 

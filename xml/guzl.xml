@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: guzl.xml,v 1.13 2012/08/19 09:10:37 revo Exp $">
+<art mrk="$Id: guzl.xml,v 1.14 2013/09/08 18:11:23 revo Exp $">
 <kap>
   <rad>guzl</rad>/o
   <fnt>Z</fnt>
@@ -12,8 +12,9 @@
   <snc mrk="guzl.0o.MUZ">
     <uzo tip="fak">MUZ</uzo>
     <dif>
-      Gitarforma unukorda <ref tip="super"
-      cel="instru2.kord0o">kordinstrumento</ref> uzata &ccirc;e kelkaj slavaj
+      Gitarforma unukorda <ref tip="lst" cel="instru2.kord0o.MUZ"
+      lst="voko:kordinstrumentoj">kordinstrumento</ref> uzata &ccirc;e kelkaj
+      slavaj
       popoloj:
       <ekz>
         unu el la <klr>...</klr> popolrakontoj <klr>...</klr>, kiujn la
@@ -54,6 +55,9 @@
 </art>
 <!--
 $Log: guzl.xml,v $
+Revision 1.14  2013/09/08 18:11:23  revo
+Wolfram Diestel: ref al listo kordinstrumentoj
+
 Revision 1.13  2012/08/19 09:10:37  revo
 Marc Rausell: + trd ca
 
@@ -73,8 +77,5 @@ Revision 1.8 2002/08/29 17:35:45 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.7 2001/11/25 17:33:57 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.6 2001/10/15 18:15:59 revo
 -->
 </vortaro>

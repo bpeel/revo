@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxinto.xml,v 1.14 2013/04/10 09:10:14 revo Exp $">
+<art mrk="$Id: sxinto.xml,v 1.15 2013/09/22 19:11:13 revo Exp $">
 <kap>
   <rad>&scirc;intoism</rad>/o
 </kap>
@@ -11,7 +11,8 @@
   <uzo tip="fak">REL</uzo>
   <snc>
     <dif>
-      Indi&gcirc;ene japana <ref tip="super" cel="religi.0o">religio</ref>
+      Indi&gcirc;ene japana <ref tip="lst" cel="religi.0o.REL"
+      lst="voko:religioj">religio</ref>
       plurdia, kultanta natura&jcirc;ojn, spiritojn, heroojn.
     </dif>
     <refgrp tip="sin">
@@ -43,6 +44,9 @@
 </art>
 <!--
 $Log: sxinto.xml,v $
+Revision 1.15  2013/09/22 19:11:13  revo
+Wolfram Diestel: referenco al listo religioj
+
 Revision 1.14  2013/04/10 09:10:14  revo
 Sebastian Cyprych: +trd pl
 
@@ -62,8 +66,5 @@ Revision 1.9  2002/05/22 16:32:06  revo
 Eduardo M. Kalinowski: ald trd pt
 
 Revision 1.8  2002/05/14 16:31:37  revo
-Jeromo Vasxe: + fak rel, retusxis dif, + trd fr
-
-Revision 1.7 2002/02/28 19:45:28 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plik.xml,v 1.12 2013/01/01 14:10:26 revo Exp $">
+<art mrk="$Id: plik.xml,v 1.13 2013/10/09 19:10:48 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>plik</rad>/o
@@ -12,7 +12,9 @@
   <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
-      Malsano de kraniha&ubreve;to, karakterizata per troa grasa sekrecio.
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsano</ref> de kraniha&ubreve;to, karakterizata per
+      troa grasa sekrecio.
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_w;&c_t;&c_u;&c_n;</trd>
@@ -30,6 +32,9 @@
 </art>
 <!--
 $Log: plik.xml,v $
+Revision 1.13  2013/10/09 19:10:48  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.12  2013/01/01 14:10:26  revo
 Sebastian Cyprych: +trd pl
 
@@ -49,8 +54,5 @@ Revision 1.7  2001/12/19 17:35:32  revo
 Yury Finkel: +trd ru
 
 Revision 1.6 2001/07/26 18:12:31 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.5 2001/07/09 18:14:17 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rabat.xml,v 1.20 2009/11/11 17:30:28 revo Exp $">
+<art mrk="$Id: rabat.xml,v 1.21 2013/09/24 01:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rabat</rad>/o
@@ -58,8 +58,16 @@
   <trd lng="hu">&aacute;rengedm&eacute;ny</trd>
   <trd lng="cs">sleva</trd>
   <trd lng="nl">korting</trd>
+  <trdgrp lng="pl">
+    <trd>rabat</trd>,
+    <trd>zni&zdot;ka</trd>
+  </trdgrp>
   <trdgrp lng="pt">
    <trd>desconto</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>rabat</trd>,
+    <trd>reducere</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_k;&c_i;&c_d;&c_k;&c_a;</trd>
   <trd lng="sv">rabatt <klr>(prisneds&auml;ttning)</klr></trd>
@@ -94,11 +102,18 @@
   <trd lng="fr">faire une <ind>remise</ind></trd>
   <trd lng="hu">&aacute;rengedm&eacute;nyt ad</trd>
   <trd lng="nl"><ind>korting</ind> geven</trd>
+  <trdgrp lng="pl">
+    <trd>udziela&cacute; rabatu</trd>,
+    <trd>udziela&cacute; zni&zdot;ki</trd>
+  </trdgrp>
   <trd lng="ru">&c_s;&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; &c_s;&c_k;&c_i;&c_d;&c_k;&c_u;</trd>
 </drv>
 </art>
 <!--
 $Log: rabat.xml,v $
+Revision 1.21  2013/09/24 01:10:17  revo
+Vito Redsky: trd pl trd ro
+
 Revision 1.20  2009/11/11 17:30:28  revo
 Paul Peeraerts: +nl
 
@@ -118,8 +133,5 @@ Revision 1.14 2002/07/19 17:30:59 revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.13 2002/05/17 16:32:52 revo
-Jeromo Vasxe: fak - ekon + kome, - sin + vid
-
-Revision 1.12 2002/01/08 19:27:49 revo
 -->
 </vortaro>

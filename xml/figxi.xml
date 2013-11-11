@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: figxi.xml,v 1.4 2013/02/12 03:10:19 revo Exp $">
+<art mrk="$Id: figxi.xml,v 1.5 2013/09/14 14:10:18 revo Exp $">
 <kap>
   <rad>fi&gcirc;i</rad>/o
 </kap>
@@ -18,12 +18,12 @@
   <snc mrk="figxi.0o.sxtato">
     <uzo tip="fak">GEOG</uzo>
     <uzo tip="fak">POL</uzo>
+    <mlg kod="ISO-3166">FJ</mlg>
     <dif>
       Insulara, <ref tip="malprt" cel="oceani.O0o">Oceania</ref>
-      &scirc;tato
-      kun &ccirc;efurbo Suvo.
+      <ref tip="lst" cel="sxtat.0o" lst="voko:&scirc;tatoj">&scirc;tato</ref>
+      kun &ccirc;efurbo <ref tip="prt" cel="suv.0o">Suvo</ref>, 
       Respubliko Insuloj Fi&gcirc;io.
-      ISO-3166 kodo: FJ.
     </dif>
     <trd lng="be">&c_F;&c_ib;&#769;&c_d;&c_zh;&c_y;</trd>
     <trdgrp lng="bg">
@@ -47,6 +47,9 @@
 
 <!--
 $Log: figxi.xml,v $
+Revision 1.5  2013/09/14 14:10:18  revo
+Wolfram Diestel: ref al lst sxtatoj
+
 Revision 1.4  2013/02/12 03:10:19  revo
 Evandro Avellar: Tr+ pt
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-  <art mrk="$Id: dorm.xml,v 1.43 2013/01/07 01:10:18 revo Exp $">
+  <art mrk="$Id: dorm.xml,v 1.44 2013/10/09 18:11:05 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>dorm</rad>/i
@@ -739,7 +739,9 @@
       <uzo tip="fak">MED</uzo>
       <snc mrk="dorm.0omalsano.MED">
         <dif>
-          Infekta malsano karakterizata de konstanta <tld/>emo.
+          Infekta <ref tip="lst" cel="san.mal0o.MED"
+          lst="voko:malsanoj">malsano</ref> karakterizata de konstanta
+          <tld/>emo.
         </dif>
       </snc>
       <trd lng="be">&c_s;&c_o;&c_n;&c_n;&c_a;&c_ja; &c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_a;</trd>
@@ -757,6 +759,9 @@
   </art>
   <!--
   $Log: dorm.xml,v $
+  Revision 1.44  2013/10/09 18:11:05  revo
+  Wolfram Diestel: ref al lst malsanoj
+
   Revision 1.43  2013/01/07 01:10:18  revo
   Neil Roberts: Forigo de malplena traduko al la kataluna lingvo
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skombr1.xml,v 1.6 2006/05/19 16:31:27 revo Exp $">
+<art mrk="$Id: skombr1.xml,v 1.7 2013/08/31 14:10:41 revo Exp $">
 <kap>
   <rad>skombred</rad>/oj
 </kap>
@@ -11,7 +11,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Familio el la ordo <ref tip="super" cel="perk.0oformaj">perkoformaj
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:zoologiaj_familioj">Familio</ref> el la ordo <ref
+      tip="malprt" cel="perk.0oformaj">perkoformaj
       fi&scirc;oj</ref> (<trd lng="la">Scombridae</trd>).
     </dif>
   </snc>
@@ -30,6 +32,9 @@
 </art>
 <!--
 $Log: skombr1.xml,v $
+Revision 1.7  2013/08/31 14:10:41  revo
+Wolfram Diestel: referenco al listo zoo familioj
+
 Revision 1.6  2006/05/19 16:31:27  revo
 Sebastian Cyprych: +trd pl
 

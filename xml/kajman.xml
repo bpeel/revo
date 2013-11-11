@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kajman.xml,v 1.2 2012/12/09 20:10:07 revo Exp $">
+<art mrk="$Id: kajman.xml,v 1.6 2013/10/26 09:10:20 revo Exp $">
 <kap>
   <rad>kajman</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -11,8 +11,12 @@
   <snc mrk="kajman.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      <ref tip="super" cel="krokod.0o.ZOO">Krokodilo</ref> amerika,
-      genro el familio <ref tip="super"
+      <ref tip="lst" cel="reptil.0o"
+      lst="voko:krokodiluloj">Reptilio</ref> 
+      granda sudamerika,
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
       cel="aligat1.0oj.ZOO">aligatoredoj</ref>
       (<trd lng="la">Caiman</trd>): 
       <ekz>
@@ -24,13 +28,31 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_k;&c_a;&c_j;&c_m;&c_a;&c_n;</trd>
+  <trd lng="da">kaiman</trd>
   <trd lng="de">Kaiman</trd>
+  <trd lng="en">caiman</trd>
+  <trd lng="es">caiman</trd>
   <trd lng="fr">ca&iuml;man</trd>
+  <trd lng="nl">kaaiman</trd>
+  <trd lng="ru">&c_k;&c_a;&c_j;&c_m;&c_a;&c_n;</trd>
 </drv>
 </art>
 
 <!--
 $Log: kajman.xml,v $
+Revision 1.6  2013/10/26 09:10:20  revo
+Wolfram Diestel: ref al lst krokodiluloj
+
+Revision 1.5  2013/10/25 16:10:12  revo
+Wolfram Diestel: ref al lst reptilioj
+
+Revision 1.4  2013/09/20 15:10:12  revo
+Joop Eggen: +trd bg k.a.
+
+Revision 1.3  2013/09/01 13:10:39  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.2  2012/12/09 20:10:07  revo
 Wieland Pusch: +trd de
 

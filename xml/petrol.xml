@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: petrol.xml,v 1.19 2012/08/30 20:10:09 revo Exp $">
+  <art mrk="$Id: petrol.xml,v 1.20 2013/09/14 16:10:19 revo Exp $">
     <kap><ofc>*</ofc>
       <rad>petrol</rad>/o</kap>
 
@@ -57,8 +57,9 @@
       <fnt><bib>ManPol</bib></fnt>
       <snc>
  <dif>
-   <ref tip="super" cel="organi2.0ajxo">Organiza&jcirc;o</ref>, kiu celas
-   kunordigi la politikon pri petrolo en siaj <ref tip="vid"
+   <ref tip="lst" cel="organi2.0ajxo"
+   lst="voko:organiza&jcirc;oj">Organiza&jcirc;o</ref>, 
+   kiu celas kunordigi la politikon pri petrolo en siaj <ref tip="vid"
      cel="sxtat.membro0o">membro-&scirc;tato</ref>j:
    <ekz>
      je la 10a de septembro 2000 la Organiza&jcirc;o de <tld
@@ -110,8 +111,12 @@
   </art>
   <!--
   $Log: petrol.xml,v $
+  Revision 1.20  2013/09/14 16:10:19  revo
+  Wolfram Diestel: OPEL: ref al lst organizajhoj
+
   Revision 1.19  2012/08/30 20:10:09  revo
-  Carlos Garcia: nafto kaj petrolo estas malveraj amikoj de la hispanaj nafta kaj petroleo
+  Carlos Garcia: nafto kaj petrolo estas malveraj amikoj de la hispanaj
+  nafta kaj petroleo
 
   Revision 1.18  2010/06/28 17:53:29  revo
   Agustin Garcia Lopez: +trd es

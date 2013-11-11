@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: brak.xml,v 1.42 2012/08/27 06:10:23 revo Exp $">
+<art mrk="$Id: brak.xml,v 1.43 2013/10/16 08:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>brak</rad>/o <fnt><bib>PV</bib></fnt>
@@ -107,6 +107,7 @@
     <trd>rameno</trd>
   </trdgrp>
   <trd lng="br">brec'h</trd>
+  <trd lng="ca">bra&ccedil;</trd>
   <trd lng="en">arm</trd>
   <trd lng="es">brazo</trd>
   <trd lng="fr">bras</trd>
@@ -117,6 +118,7 @@
     <trd>mil</trd>,
     <trd>nig</trd>
   </trdgrp>
+  <trd lng="oc">bra&ccedil;</trd>
   <trd lng="tr">kol</trd>
   <trd lng="tp">luka</trd>
   <trd lng="vo">lam</trd>
@@ -434,6 +436,9 @@
 </art>
 <!--
 $Log: brak.xml,v $
+Revision 1.43  2013/10/16 08:10:15  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.42  2012/08/27 06:10:23  revo
 Sebastian Cyprych: ~segxo movita al artikolo segx'
 
@@ -453,8 +458,5 @@ Revision 1.37  2009/08/28 16:31:31  revo
 Emmanuel Debanne: +trd ku
 
 Revision 1.36  2009/08/27 16:31:23  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.35  2009/08/24 16:32:01  revo
 -->
 </vortaro>

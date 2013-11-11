@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: san.xml,v 1.53 2013/07/18 09:10:10 revo Exp $">
+<art mrk="$Id: san.xml,v 1.57 2013/10/09 19:10:51 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>san</rad>/a <fnt><bib>PV</bib></fnt>
@@ -113,8 +113,8 @@
   <snc mrk="san.0o.MOS.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Speciala <ref tip="super"
-      cel="organi2.0ajxo">organiza&jcirc;o</ref> de
+      Speciala <ref tip="lst"
+      cel="organi2.0ajxo" lst="voko:organiza&jcirc;oj">organiza&jcirc;o</ref> de
       <ref tip="malprt" cel="naci.Unuigxintaj_0oj">Unui&gcirc;intaj
       Nacioj</ref>
       por kontra&ubreve;batali <ref cel="epidem.0o">epidemiojn</ref> kaj
@@ -234,8 +234,8 @@
     <trd>&c_c;&c_je;&c_l;&c_je;&c_b;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_o;&c_l;&c_je;&c_z;&c_n;&c_y;&c_j; &c_d;&c_l;&c_ja;
     &c_z;&c_d;&c_o;&c_r;&c_o;&c_v;&c_mol;&c_ja;</trd>
-    <trd lng="tr">sa&gbreve;l&inodot;&gbreve;a yararl&inodot;</trd>
   </trdgrp>
+  <trd lng="tr">sa&gbreve;l&inodot;&gbreve;a yararl&inodot;</trd>
 </drv>
 
 <drv mrk="san.0ilo">
@@ -396,6 +396,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <lstref lst="voko:malsanoj">malsanoj</lstref>
   </snc>
   <trdgrp lng="be">
     <trd>&c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_a;</trd>,
@@ -641,7 +642,9 @@
   <snc mrk="san.flavmal0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Akra inflamo de la hepato, unu el kies simptomoj estas
+      Akra <ref tip="lst" cel="inflam.0o"
+      lst="voko:malsanoj">inflamo</ref> de la hepato, unu el kies
+      simptomoj estas
       <ref cel="flav.0igxo.MED">flavi&gcirc;o<sncref/></ref> de la
       ha&ubreve;to, mukozoj kaj okuloj:
       <ekz>
@@ -777,6 +780,18 @@
 </art>
 <!--
 $Log: san.xml,v $
+Revision 1.57  2013/10/09 19:10:51  revo
+Wolfram Diestel: flav~o : ref al lst malsanoj
+
+Revision 1.56  2013/10/08 10:10:15  revo
+Wolfram Diestel: lstref malsanoj
+
+Revision 1.55  2013/09/14 16:10:24  revo
+Wolfram Diestel: MOS: ref al lst organizajhoj
+
+Revision 1.54  2013/09/03 08:10:09  revo
+Joop Eggen: korekto de ru/tr mikso
+
 Revision 1.53  2013/07/18 09:10:10  revo
 Wolfram Diestel: ref al kuraci
 
@@ -787,17 +802,5 @@ Revision 1.51  2010/01/19 17:30:42  revo
 Russ Williams: +trd en
 
 Revision 1.50  2009/12/22 17:30:49  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.49  2009/10/29 17:30:47  revo
-Paul Peeraerts: +nl
-
-Revision 1.48  2009/10/15 16:32:52  revo
-Jeromo Vasxe: + mensmal~ulo
-
-Revision 1.47 2009/09/26 16:32:03 revo
-Antonio Codazzi: +trd it
-
-Revision 1.46 2009/09/01 04:54:14 revo
 -->
 </vortaro>

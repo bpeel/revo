@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kan.xml,v 1.22 2012/08/03 13:10:29 revo Exp $">
+<art mrk="$Id: kan.xml,v 1.26 2013/10/29 19:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kan</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,9 +12,12 @@
   <uzo tip="fak">BOT</uzo>
   <snc mrk="kan.0o.BOT">
     <dif>
-      Alta herbo, kies trunketoj i&gcirc;as per seki&gcirc;ado fortikaj,
+      Alta <ref tip="lst" cel="herb.0o"
+      lst="voko:pooparencoj">herbo</ref>,
+      kies trunketoj i&gcirc;as per seki&gcirc;ado fortikaj,
       ordinare el familio <ref tip="super" cel="poac.0oj">poacoj</ref>, 
-      kiel ekzemple fragmito:
+      kiel ekzemple 
+      <ref tip="sub" cel="fragmi.0o">fragmito</ref>:
       <ekz>
         <klr>[&scirc;i metis la infanon]</klr> inter la <tld/>ojn
         sur la bordo de la Rivero
@@ -108,7 +111,9 @@
     <uzo tip="fak">BOT</uzo>
     <dif>
       alta herbo, kies suko donas sukeron,
-      genro el familio <ref tip="super" cel="poac.0oj">poacoj</ref>
+      <ref tip="lst" cel="genr.0o"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="poac.0oj">poacoj</ref>
       (<trd lng="la">Saccharum</trd>).
     </dif>
   </snc>
@@ -132,6 +137,18 @@
 </art>
 <!--
 $Log: kan.xml,v $
+Revision 1.26  2013/10/29 19:10:21  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.25  2013/10/27 19:10:18  revo
+Wolfram Diestel: ref al pooparencoj
+
+Revision 1.24  2013/08/28 16:10:28  revo
+Wolfram Diestel: -tajperaro
+
+Revision 1.23  2013/08/28 15:10:21  revo
+Wolfram Diestel: referencoj al bot genroj
+
 Revision 1.22  2012/08/03 13:10:29  revo
 Marc Rausell: + trd ca
 
@@ -142,17 +159,5 @@ Revision 1.20  2008/06/05 16:30:19  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.19  2008/01/29 17:30:24  revo
-Jeromo Vasxe: ~o relargxig. dif: ne nur fragmito
-
-Revision 1.18  2007/09/28 16:30:26  revo
-Tulio Flores: +tr pt
-
-Revision 1.17  2005/12/05 17:31:13  revo
-Wieland Pusch: +trd de
-
-Revision 1.16  2005/04/21 17:17:40  revo
-Alan ar Gall: +trd br
-
-Revision 1.15  2005/01/26 17:31:44  revo
 -->
 </vortaro>

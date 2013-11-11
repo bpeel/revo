@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: perse.xml,v 1.2 2009/10/24 16:31:27 revo Exp $">
+<art mrk="$Id: perse.xml,v 1.3 2013/08/25 08:10:39 revo Exp $">
 <kap>
 <rad>Perse</rad>/o
 </kap>
@@ -25,7 +25,8 @@ estis transformita en samnoma stelaro.
   <uzo tip="fak">AST</uzo>
     <dif>
 Nord-hemisfera 
-<ref tip="super" cel="stel.0figuro">stelfiguro</ref> (
+<ref tip="lst" cel="stel.0figuro"
+lst="voko:stelfiguroj">stelfiguro</ref> (
 <trd lng="la">Perseus</trd>).
     </dif>
   </snc>
@@ -37,6 +38,9 @@ Nord-hemisfera
 
 <!--
 $Log: perse.xml,v $
+Revision 1.3  2013/08/25 08:10:39  revo
+Wolfram Diestel: referenco al listo stelfiguroj
+
 Revision 1.2  2009/10/24 16:31:27  revo
 Paul Peeraerts: +nl
 

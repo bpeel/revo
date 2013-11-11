@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pavan.xml,v 1.6 2006/02/27 17:32:45 revo Exp $">
+<art mrk="$Id: pavan.xml,v 1.7 2013/09/08 15:10:23 revo Exp $">
 <kap>
   <rad>pavan</rad>/o <fnt><bib>MuzTerm</bib></fnt>
 </kap>
@@ -11,7 +11,8 @@
   <uzo tip="fak">MUZ</uzo>
   <snc mrk="pavan.0o.danco">
     <dif>
-      E&ubreve;ropa kortega <ref tip="super" cel="danc.0o">danco</ref>
+      E&ubreve;ropa kortega <ref tip="lst" cel="danc.0o"
+      lst="voko:dancoj">danco</ref>
       du-takta, malrapida, populara de la 16a &gcirc;is meze de la 17a
       jarcento.
     </dif>
@@ -33,6 +34,9 @@
 </art>
 <!--
 $Log: pavan.xml,v $
+Revision 1.7  2013/09/08 15:10:23  revo
+Wolfram Diestel: ref-o al listo dancoj
+
 Revision 1.6  2006/02/27 17:32:45  revo
 Tulio Flores: +tr pt
 
@@ -53,4 +57,3 @@ Jerome Vachey: nova artikolo
 
 -->
 </vortaro>
-

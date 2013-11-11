@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: nom.xml,v 1.44 2013/07/13 13:10:22 revo Exp $">
+  <art mrk="$Id: nom.xml,v 1.45 2013/10/11 18:10:13 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>nom</rad>/o <fnt><bib>PV</bib></fnt>
@@ -602,7 +602,7 @@
         <trd lng="ru">&c_k;&c_r;&c_jo;&c_s;&c_t;&c_n;&c_o;&c_je; <ind>&c_i;&c_m;&c_ja;</ind></trd>
       </snc>
       <snc mrk="nom.bapto0o.antauxnomo">
-        <ref tip="dif" cel="nom.bapto0o">anta&ubreve;nomo</ref>
+        <ref tip="dif" cel="nom.antaux0o">anta&ubreve;nomo</ref>
         <trd lng="en">first <ind>name</ind></trd>
         <trd lng="hu">ut&oacute;n&eacute;v</trd>
         <trd lng="nl">voornaam<klr tip="ind"> (doopnaam)</klr></trd>
@@ -865,6 +865,9 @@
   </art>
   <!--
   $Log: nom.xml,v $
+  Revision 1.45  2013/10/11 18:10:13  revo
+  Wolfram Diestel: kor. ref-cel
+
   Revision 1.44  2013/07/13 13:10:22  revo
   Benito Subejrano: + trd oc ca
 

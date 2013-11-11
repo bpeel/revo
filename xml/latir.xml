@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: latir.xml,v 1.13 2006/09/01 18:29:59 revo Exp $">
+<art mrk="$Id: latir.xml,v 1.15 2013/08/30 10:10:15 revo Exp $">
 <kap>
   <rad>latir</rad>/o
 </kap>
@@ -13,7 +13,9 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super" cel="fabac.0oj">fabacoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="fabac.0oj">fabacoj</ref>
       (<trd lng="la">Lathyrus</trd>),
       kies kelkaj specioj estas kulturataj kiel fura&gcirc;o.
     </dif>
@@ -27,6 +29,7 @@
     <trd lng="la">Lathyrus pratensis</trd>
   </bld>
   <trd lng="be">&c_g;&c_a;&c_r;&c_a;&c_sh;&c_o;&c_k;</trd>
+  <trd lng="bg">&c_s;&c_je;&c_k;&c_i;&c_r;&c_ch;&c_je;</trd>
   <trd lng="de">Platterbse</trd>
   <trdgrp lng="en">
     <trd>vetchling</trd>,
@@ -41,6 +44,12 @@
 </art>
 <!--
 $Log: latir.xml,v $
+Revision 1.15  2013/08/30 10:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2013/08/26 19:10:18  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.13  2006/09/01 18:29:59  revo
 Tulio Flores: +tr pt
 
@@ -57,12 +66,5 @@ Revision 1.9  2001/09/17 18:14:21  revo
 Karlo Freeman: +trd=en
 
 Revision 1.8  2001/04/19 14:31:03  revo
-fab.0acoj -> fabac.0oj
-
-Revision 1.7  2001/03/28 20:03:21  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.6  2000/12/20 17:10:32  revo
 -->
 </vortaro>
-

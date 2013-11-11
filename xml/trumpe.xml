@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trumpe.xml,v 1.19 2011/12/11 13:10:13 revo Exp $">
+<art mrk="$Id: trumpe.xml,v 1.21 2013/08/26 15:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>trumpet</rad>/o
@@ -12,8 +12,10 @@
   <snc mrk="trumpe.0o.MUZ">
     <uzo tip="fak">MUZ</uzo>
     <dif>
-      Brilsona latuna <ref tip="super"
-      cel="instru2.blov0o">blovinstrumento</ref> kun longa ordinare
+      Brilsona latuna <ref tip="lst"
+      cel="instru2.blov0o"
+      lst="voko:blovinstrumentoj">blovinstrumento</ref> kun longa
+      ordinare
       kunrulita tubo, senvalva a&ubreve; kun tri valvoj:
       <ekz>
         se la <tld/>o donos necertan vo&ccirc;on, kiu preti&gcirc;os por
@@ -104,6 +106,12 @@
 </art>
 <!--
 $Log: trumpe.xml,v $
+Revision 1.21  2013/08/26 15:10:23  revo
+Wolfram Diestel: referenco al listo blovinstrumentoj
+
+Revision 1.20  2013/08/25 13:10:14  revo
+Wolfram Diestel: referencoj al listo muzikiloj
+
 Revision 1.19  2011/12/11 13:10:13  revo
 Marc Rausell: +trd ca
 
@@ -120,11 +128,5 @@ Revision 1.15  2006/02/16 17:35:51  revo
 Tulio Flores: +trd pt
 
 Revision 1.14  2006/01/08 17:32:30  revo
-Yury Finkel: tr, +rim
-
-Revision 1.13  2005/08/17 16:31:47  revo
-Jeromo Vasxe: preciz. dif., + 1 ekz, + 1 trd fr
-
-Revision 1.12 2005/01/12 18:22:25 revo
 -->
 </vortaro>

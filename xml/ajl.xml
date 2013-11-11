@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ajl.xml,v 1.26 2007/07/27 16:30:31 revo Exp $">
+<art mrk="$Id: ajl.xml,v 1.28 2013/08/30 14:10:31 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>ajl</rad>/o
@@ -13,7 +13,9 @@
   <snc mrk="ajl.0o.genro">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      Genro el familio <ref tip="super" cel="liliac.0oj">liliacoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="liliac.0oj">liliacoj</ref>
       (<trd lng="la">Allium</trd>).
     </dif>
     <trdgrp lng="be">
@@ -29,10 +31,13 @@
   <snc mrk="ajl.0o.specio">
     <uzo tip="fak">KUI</uzo>
     <dif>
-      Specio de <ref tip="super" cel="ajl.0o.genro"><tld/>o
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:botanikaj_specioj">Specio</ref> 
+      de <ref tip="super" cel="ajl.0o.genro"><tld/>o
       <sncref ref="ajl.0o.genro"/></ref>
       (<trd lng="la">Allium sativum</trd>),
-      uzata kiel spica&jcirc;o kaj kuracilo.
+      uzata kiel <ref tip="lst" cel="spic.0ajxo"
+      lst="voko:spicoj">spica&jcirc;o</ref> kaj kuracilo.
     </dif>
     <trd lng="be">&c_ch;&c_a;&c_s;&c_n;&c_o;&c_k;</trd>
     <trd lng="bg">&c_ch;&c_je;&c_s;&c_malmol;&c_n;</trd>
@@ -56,6 +61,12 @@
 </art>
 <!--
 $Log: ajl.xml,v $
+Revision 1.28  2013/08/30 14:10:31  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.27  2013/08/27 10:10:28  revo
+Wolfram Diestel: referenco al listo bot grupoj, spicoj, specioj
+
 Revision 1.26  2007/07/27 16:30:31  revo
 Wieland Pusch: +trd bg
 
@@ -72,11 +83,5 @@ Revision 1.22  2005/02/20 17:33:52  revo
 Alan ar Gall: + trd br
 
 Revision 1.21  2003/06/02 16:30:43  revo
-Allon Rothfarb: +trd he
-
-Revision 1.20  2002/09/07 17:36:53  revo
-Viliam Bur: +sk trd
-
-Revision 1.19  2002/05/15 16:41:28  revo
 -->
 </vortaro>

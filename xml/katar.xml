@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: katar.xml,v 1.17 2009/08/27 16:31:54 revo Exp $">
+<art mrk="$Id: katar.xml,v 1.18 2013/10/09 19:11:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>katar</rad>/o
@@ -13,7 +13,8 @@
   <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
-      Muka fluo pro inflamo de muka membrano:
+      Muka fluo pro <ref tip="lst" cel="inflam.0o"
+      lst="voko:malsanoj">inflamo</ref> de muka membrano:
       <ekz>
         <tld/>o de l' nazo, de l' intesto, ktp.
       </ekz>
@@ -76,6 +77,9 @@
 </art>
 <!--
 $Log: katar.xml,v $
+Revision 1.18  2013/10/09 19:11:14  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.17  2009/08/27 16:31:54  revo
 Behnam Tabatabai: +trd fa
 
@@ -95,8 +99,5 @@ Revision 1.12  2004/12/13 17:31:31  revo
 Marc Bavant: kor ref al "malvarmumi"
 
 Revision 1.11  2004/12/05 17:34:00  revo
-Marc Bavant: +trd fr, +MED
-
-Revision 1.10 2004/11/18 17:32:04 revo
 -->
 </vortaro>

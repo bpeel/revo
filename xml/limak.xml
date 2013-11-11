@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: limak.xml,v 1.31 2012/08/10 14:11:24 revo Exp $">
+<art mrk="$Id: limak.xml,v 1.34 2013/09/08 19:10:58 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>limak</rad>/o
@@ -27,6 +27,7 @@
     </dif>
     <trd lng="de">Schnecke</trd>
     <trd lng="en">slug</trd>
+    <trd lng="es">babosa</trd>
     <trd lng="fr">limace</trd>
     <trd lng="hu">csiga</trd>
     <trdgrp lng="nl">
@@ -39,7 +40,9 @@
   <snc mrk="limak.0o.genro">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Genro el la familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el la familio <ref
+      tip="malprt"
       cel="limake.0oj"><tld/>edoj</ref>
       (<trd lng="la">Limax</trd>).
     </dif>
@@ -115,6 +118,15 @@
 </art>
 <!--
 $Log: limak.xml,v $
+Revision 1.34  2013/09/08 19:10:58  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.33  2013/09/01 15:46:28  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.32  2013/08/31 17:10:35  revo
+Carlos Garcia: +trd es -o
+
 Revision 1.31  2012/08/10 14:11:24  revo
 Marc Rausell: + trd ca
 
@@ -128,14 +140,5 @@ Revision 1.28  2004/05/06 16:33:08  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.27  2003/02/17 17:31:33  revo
-Axel Rousseau: +trd fr
-
-Revision 1.26  2003/02/16 17:32:26  revo
-Marc Bavant: paskala ~o: mod dif, mod rim, +ref al konhxoido
-
-Revision 1.25  2003/02/01 17:33:34  revo
-Marc Bavant: +bld SVG
-Revision 1.24  2002/11/30 17:35:54  revo
-Marc Bavant: +frm, +trd pl
 -->
 </vortaro>

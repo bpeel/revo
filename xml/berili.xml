@@ -2,20 +2,20 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: berili.xml,v 1.19 2010/10/25 16:30:41 revo Exp $">
+<art mrk="$Id: berili.xml,v 1.22 2013/09/17 19:10:52 revo Exp $">
 <kap>
   <rad>berili</rad>/o
   <fnt>Z</fnt>
 </kap>
 <drv mrk="berili.0o">
   <kap><tld/>o</kap>
-  <mlg>Be</mlg>
+  <mlg kod="IUPAC">Be</mlg>
   <snc mrk="berili.0o.KEM">
     <uzo tip="fak">KEM</uzo>
     <dif>
-      &Hcirc;emia <ref tip="super" cel="elemen.0o.KEM">elemento</ref> kun
-      atomnumero 4, atompezo 9,0122, simbolo <frm>Be</frm>. Malofta
-      elemento,
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+      lst="voko:&hcirc;emiaj_elementoj" val="4">elemento</ref> kun
+      atomnumero 4, atompezo 9,0122; malofta elemento,
       <ref tip="super" cel="metal.teralkala0o">teralkala metalo</ref>.
     </dif>
   </snc>
@@ -39,6 +39,15 @@
 </art>
 <!--
 $Log: berili.xml,v $
+Revision 1.22  2013/09/17 19:10:52  revo
+Wolfram Diestel: val
+
+Revision 1.21  2013/09/15 15:10:39  revo
+Wolfram Diestel: simb. laux IUPAC
+
+Revision 1.20  2013/08/24 20:10:38  revo
+Wolfram Diestel: referenco al listo elementoj
+
 Revision 1.19  2010/10/25 16:30:41  revo
 Jerano Zachrisson: +trd sv
 
@@ -52,14 +61,5 @@ Revision 1.16  2010/04/27 16:30:50  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.15  2007/03/28 16:30:24  revo
-Jeromo Vasxe: kor lng "ber'ilio" en -> pt
-
-Revision 1.14 2006/06/01 16:32:37 revo
-Sebastian Cyprych: -ref metalo +ref teralkala metalo +trd pl,la
-
-Revision 1.13 2006/01/02 17:33:50 revo
-H. Neal Parker: +trd es,it,pt
-
-Revision 1.12 2005/04/16 16:32:13 revo
 -->
 </vortaro>

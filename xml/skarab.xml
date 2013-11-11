@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skarab.xml,v 1.27 2009/09/11 16:31:36 revo Exp $">
+<art mrk="$Id: skarab.xml,v 1.32 2013/09/08 19:11:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>skarab</rad>/o <fnt><bib>PV</bib></fnt>
@@ -15,6 +15,7 @@
     <dif>
       Iu el <ref tip="malprt" cel="koleop.0oj">koleopteroj</ref>.
     </dif>
+    <trd lng="bg">&c_b;&c_r;&c_malmol;&c_m;&c_b;&c_a;&c_r;</trd>
     <trdgrp lng="en">
       <trd>scarab</trd>,
       <trd>beetle</trd>
@@ -25,12 +26,15 @@
   <snc mrk="skarab.0o.genro">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Genro el familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
       cel="skarab1.0oj"><tld/>edoj</ref>
       (<trd lng="la">Scarabaeus</trd>),
       karakterizata per lamenformaj kornoj kaj metanta la
       ovojn en sterkoglobetojn.
     </dif>
+    <trd lng="bg">&c_s;&c_k;&c_a;&c_r;&c_a;&c_b;&c_je;&c_j;</trd>
     <trd lng="de">Skarab&auml;us</trd>
     <trd lng="fr">scarab&eacute;e</trd>
     <trd lng="hu">galacsinhajt&oacute;</trd>
@@ -45,8 +49,9 @@
   <snc mrk="skarab.cervo0o.ZOO">
     <dif>
       Granda koleoptero, kies vira genro posedas fortajn
-      prenilojn sur la kapo, genro el la familio
-      <ref tip="super" cel="lukane.0oj">lukanedoj</ref>
+      prenilojn sur la kapo, <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el la familio
+      <ref tip="malprt" cel="lukane.0oj">lukanedoj</ref>
       (<trd lng="la">Lucanus</trd>).
     </dif>    
     <ref tip="sin" cel="lukan.0o.ZOO">lukano</ref>
@@ -56,6 +61,7 @@
     <trd>lucane</trd>
   </trdgrp>
   <trd lng="be">&c_zh;&c_u;&c_k;-&c_a;&c_l;&c_je;&c_n;&c_mol;</trd>
+  <trd lng="bg">&c_b;&c_r;&c_malmol;&c_m;&c_b;&c_a;&c_r; &c_r;&c_o;&c_g;&c_a;&c_ch;</trd>
   <trd lng="de">Hirschk&auml;fer</trd>
   <trd lng="en">stag beetle</trd>
   <trd lng="hu">szarvasbog&aacute;r</trd>
@@ -72,7 +78,9 @@
   <uzo tip="stl">KOMUNE</uzo>
   <snc mrk="skarab.gren0o.ZOO">
     <dif>
-      Genro el familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
       cel="kurkul1.0oj">kurkuliedoj</ref>
       (<trd lng="la">Sitophilus</trd>), kies larvo kreskas ene de
       grengrajnoj.
@@ -82,6 +90,7 @@
       <ref cel="kaland.0o.ZOO">kalandro</ref>
     </refgrp>
   </snc>
+  <trd lng="bg">&c_c;&c_a;&c_r;&c_je;&c_v;&c_i;&c_ch;&c_je;&c_n; &c_h;&c_o;&c_b;&c_o;&c_t;&c_n;&c_i;&c_k;</trd>
   <trd lng="de">Kornk&auml;fer</trd>
   <trd lng="en">corn weevil</trd>
   <trdgrp lng="fi">
@@ -117,6 +126,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_d;&c_malmol;&c_r;&c_v;&c_o; &c_b;&c_r;&c_malmol;&c_m;&c_b;&c_a;&c_r;</trd>
   <trd lng="de">Holzk&auml;fer</trd>
   <trd lng="en">woodboring beetle</trd>
   <trdgrp lng="fr">
@@ -134,7 +144,9 @@
   <snc mrk="skarab.maj0o.ZOO">
     <dif>
       Herboman&gcirc;a koleoptero, tre malutila same kiel &gcirc;ia
-      larvo, tielnomata blanka vermo, genro el familio <ref tip="super" 
+      larvo, tielnomata blanka vermo, <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt" 
       cel="skarab1.0oj">skarabedoj</ref>
       (<trd lng="la">Melolontha</trd>):
       <ekz>
@@ -145,6 +157,7 @@
     <ref tip="sin" cel="melolo.0o.ZOO">melolonto</ref>
   </snc>
   <trd lng="be">&c_h;&c_r;&c_u;&c_sh;&c_ch;</trd>
+  <trd lng="bg">&c_m;&c_a;&c_j;&c_s;&c_k;&c_i; &c_b;&c_r;&c_malmol;&c_m;&c_b;&c_a;&c_r;</trd>
   <trd lng="de">Maik&auml;fer</trd>
   <trd lng="en">may bug</trd>
   <trdgrp lng="fr">
@@ -172,7 +185,9 @@
     <dif>
       Koleoptero, kun duonsfera korpo kaj beletaj rondaj makuletoj sur 
       &gcirc;ia kiraso, nutrantanta sin de afidoj,
-      genro el familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
       cel="kokcin1.0oj"><tld/>edoj</ref>
       (<trd lng="la">Coccinella</trd>):
       <ekz>
@@ -188,6 +203,7 @@
     <ref tip="sin" cel="kokcin.0o.ZOO">kokcinelo</ref>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_r;&c_o;&c_w;&c_k;&c_a;-&c_b;&c_a;&c_g;&c_o;&c_w;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_k;&c_a;&c_l;&c_i;&c_n;&c_k;&c_a;</trd>
   <trdgrp lng="br">
     <trd>buoc'h-Doue</trd>,
     <trd>c'hwilig-Doue</trd>,
@@ -212,7 +228,9 @@
   <snc mrk="skarab.sterko0o.ZOO">
     <dif>
       Koleoptero nigre, blue a&ubreve; verde brila kaj
-      vivanta en sterka&jcirc;oj, genro el la familio <ref tip="super"
+      vivanta en sterka&jcirc;oj, <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el la familio <ref
+      tip="malprt"
       cel="geotru1.0oj">geotrupedoj</ref>
       (<trd lng="la">Geotrupes</trd>).
       <ekz>
@@ -222,6 +240,7 @@
     </dif>
     <ref tip="sin" cel="geotru.0o.ZOO">geotrupo</ref>
   </snc>
+  <trd lng="bg">&c_t;&c_o;&c_r; &c_b;&c_r;&c_malmol;&c_m;&c_b;&c_a;&c_r;</trd>
   <trd lng="de">Mistk&auml;fer</trd>
   <trd lng="en">dung beetle</trd>
   <trdgrp lng="fr">
@@ -236,6 +255,21 @@
 </art>
 <!--
 $Log: skarab.xml,v $
+Revision 1.32  2013/09/08 19:11:21  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.31  2013/09/01 16:10:21  revo
+Wolfram Diestel: referencoj al listo zoo genroj
+
+Revision 1.30  2013/09/01 15:46:18  revo
+Wolfram Diestel: mari~o: referenco al listo zoo genroj
+
+Revision 1.29  2013/09/01 15:10:32  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.28  2013/08/08 18:10:10  revo
+Joop Eggen: +trd bg
+
 Revision 1.27  2009/09/11 16:31:36  revo
 Paul Peeraerts: +nl
 
@@ -243,20 +277,5 @@ Revision 1.26  2009/07/08 16:31:31  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.25  2008/12/20 17:30:28  revo
-Jeromo Vasxe: + mari~o + kk mrk + 1 var + dif cxe cervo~o k aliaj
-popolaj nomoj
-
-Revision 1.24  2008/12/12 17:57:45  revo
-Russ Williams: +trd en
-
-Revision 1.23  2007/03/06 17:31:37  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.22  2006/10/27 16:30:26  revo
-Wieland Pusch: +trd de
-
-Revision 1.21  2004/10/24 16:33:20  revo
-Marc Bavant: gren~o: mod trd fr
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konsul.xml,v 1.20 2012/07/17 11:10:22 revo Exp $">
+<art mrk="$Id: konsul.xml,v 1.21 2013/08/16 07:10:13 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>konsul</rad>/o
@@ -24,6 +24,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;</trd>
+  <trd lng="bg">&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;</trd>
   <trd lng="ca">c&ograve;nsol</trd>
   <trd lng="de">Konsul</trd>
   <trd lng="en">consul</trd>
@@ -56,6 +57,7 @@
     <trd>&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_a;</trd>,
     <trd>&c_k;&c_a;&c_n;&c_s;&c_u;&c_l;&c_ja;&c_t;</trd>
   </trdgrp>
+  <trd lng="bg">&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;&c_s;&c_t;&c_v;&c_o;</trd>
   <trd lng="ca">consolat</trd>
   <trd lng="de">Konsulat</trd>
   <trd lng="en">consulate</trd>
@@ -71,6 +73,9 @@
 </art>
 <!--
 $Log: konsul.xml,v $
+Revision 1.21  2013/08/16 07:10:13  revo
+Joop Eggen: +trd bg
+
 Revision 1.20  2012/07/17 11:10:22  revo
 Marc Rausell: + trd ca
 
@@ -90,8 +95,5 @@ Revision 1.15  2005/06/23 16:31:38  revo
 Yury Finkel: +trd ru
 
 Revision 1.14  2004/08/25 16:31:54  revo
-Elmer D. Escoto: +trd es
-
-Revision 1.13  2003/04/23 16:31:31  revo
 -->
 </vortaro>

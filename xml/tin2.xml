@@ -2,17 +2,18 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tin2.xml,v 1.6 2012/10/30 12:10:08 revo Exp $">
+<art mrk="$Id: tin2.xml,v 1.8 2013/10/30 02:10:14 revo Exp $">
 <kap>
   <rad>tin</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="tin2.00">
-  <kap><tld/>-<tld/>,
-  <var><kap><tld/>-<tld/>-<tld/></kap></var></kap>
+  <kap><tld/>&nbsp;<tld/>,
+  <var><kap><tld/>&nbsp;<tld/>&nbsp;<tld/></kap></var></kap>
   <gra><vspec>sonimito</vspec></gra>
   <snc mrk="tin2.00.SON">
     <dif>
-      Bruo de iom akuta <ref tip="vid" cel="tint.0o">tinto</ref>,
+      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
+      de iom akuta <ref tip="vid" cel="tint.0o">tinto</ref>,
       ekzemple tiu de batata metala&jcirc;o:
       <ekz>
         &leftquot;<tld/>, <tld/>&rightquot; sonoris la sonoriletoj
@@ -26,8 +27,8 @@
     </dif>
   </snc>
   <trdgrp lng="fr">
-    <trd>ding-dong</trd>,
-    <trd>dring-dring</trd>
+    <trd>drelin-drelin</trd>,
+    <trd>ding-dong</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>dzy&nacute;-dzy&nacute;</trd>,
@@ -45,6 +46,12 @@
 
 <!--
 $Log: tin2.xml,v $
+Revision 1.8  2013/10/30 02:10:14  revo
+Jeromo Vasxe: uzo de tld kun nerompebla spaco
+
+Revision 1.7  2013/10/15 20:10:25  revo
+Jeromo Vasxe: ref al lst sonoj
+
 Revision 1.6  2012/10/30 12:10:08  revo
 Valentin Safonnikov: +trd ru
 
@@ -61,7 +68,5 @@ Revision 1.2  2005/03/08 18:48:59  revo
 Jeromo Vasxe: kor mrk
 
 Revision 1.1  2005/03/06 17:38:00  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

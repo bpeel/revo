@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tetra.xml,v 1.12 2012/08/13 20:10:51 revo Exp $">
+<art mrk="$Id: tetra.xml,v 1.14 2013/09/05 18:10:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tetra</rad>/o
@@ -12,12 +12,15 @@
   <snc mrk="tetra.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Genro el familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
       cel="tetraon1.0oj">tetraonedoj</ref>
       (<trd lng="la">Tetrastes</trd>).
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_b;&c_ch;&c_y;&c_k;</trd>
+  <trd lng="bg">&c_l;&c_je;&c_shch;&c_a;&c_r;&c_k;&c_a;</trd>
   <trdgrp lng="ca">
     <trd>gr&egrave;vol</trd>,
     <trd>g&egrave;nere Tetrastes</trd>
@@ -38,6 +41,12 @@
 </art>
 <!--
 $Log: tetra.xml,v $
+Revision 1.14  2013/09/05 18:10:36  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.13  2013/08/30 16:10:14  revo
+Joop Eggen: +trd bg
+
 Revision 1.12  2012/08/13 20:10:51  revo
 Marc Rausell: + trd ca
 
@@ -54,11 +63,5 @@ Revision 1.8 2001/06/06 18:11:48 revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.7 2001/05/05 12:46:27 revo
-tetraon.0edoj -> tetraon1.0oj
-
-Revision 1.6 2000/10/09 08:11:40 revo
-Wolfram Diestel: ref al fam
-
-Revision 1.5 2000/02/05 21:29:22 revo
 -->
 </vortaro>

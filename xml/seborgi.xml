@@ -2,14 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: seborgi.xml,v 1.5 2012/08/04 18:10:18 revo Exp $">
+<art mrk="$Id: seborgi.xml,v 1.6 2013/09/15 19:10:19 revo Exp $">
 <kap>
 <rad>seborgi</rad>/o
 </kap>
-<mlg>Sg</mlg>
 <drv mrk="seborgi.0o">
   <kap><tld/>o</kap>
   <uzo tip="fak">KEM</uzo>
+  <mlg kod="IUPAC">Sg</mlg>
   <snc>
     <ref tip="dif" cel="seaborgi.0o">seaborgio</ref>
   </snc>
@@ -32,6 +32,9 @@
 
 <!--
 $Log: seborgi.xml,v $
+Revision 1.6  2013/09/15 19:10:19  revo
+Wolfram Diestel: simb. laux IUPAC, val, +adm
+
 Revision 1.5  2012/08/04 18:10:18  revo
 Marc Rausell: + trd ca
 

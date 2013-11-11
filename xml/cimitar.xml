@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cimitar.xml,v 1.5 2013/05/08 10:10:12 revo Exp $">
+<art mrk="$Id: cimitar.xml,v 1.6 2013/08/13 13:10:10 revo Exp $">
 <kap>
   <rad>cimitar</rad>/o <fnt><bib>NeoGlo</bib></fnt>
 </kap>
@@ -20,20 +20,29 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_ja;&c_t;&c_a;&c_g;&c_a;&c_n;</trd>
   <trd lng="ca">simitarra</trd>
   <trdgrp lng="de">
     <trd>Scimitar</trd>,
     <trd>Krumms&auml;bel</trd>
   </trdgrp>
+  <trd lng="en">scimitar</trd>
   <trd lng="es">cimitarra</trd>
   <trd lng="fr">cimeterre</trd>
   <trd lng="it">scimitarra</trd>
+  <trdgrp lng="nl">
+    <trd>kromzwaard</trd>,
+    <trd>scimitar</trd>
+  </trdgrp>
   <trd lng="pl">bu&lstroke;at</trd>
 </drv>
 </art>
 
 <!--
 $Log: cimitar.xml,v $
+Revision 1.6  2013/08/13 13:10:10  revo
+Joop Eggen: +trd bg nl en
+
 Revision 1.5  2013/05/08 10:10:12  revo
 Sebastian Cyprych: +trd pl
 

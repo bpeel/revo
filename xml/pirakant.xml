@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pirakant.xml,v 1.4 2011/12/03 16:10:12 revo Exp $">
+<art mrk="$Id: pirakant.xml,v 1.5 2013/08/29 07:10:38 revo Exp $">
 <kap>
   <rad>pirakant</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -14,7 +14,9 @@
       Vepra arbeto el sudaj E&ubreve;ropo kaj Azio,
       kultivata en plezur&gcirc;ardenoj pro floretoj kaj pro flavaj a&ubreve;
       ru&gcirc;aj 
-      beretoj, genro el familio <ref tip="super" 
+      beretoj, <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" 
       cel="rozac.0oj.BOT">rozacoj</ref>
       (<trd lng="la">Pyracantha</trd>):
       <ekz>
@@ -44,6 +46,9 @@
 
 <!--
 $Log: pirakant.xml,v $
+Revision 1.5  2013/08/29 07:10:38  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.4  2011/12/03 16:10:12  revo
 Marc Rausell: kataluna traduko
 

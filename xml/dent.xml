@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dent.xml,v 1.48 2012/09/23 00:10:07 revo Exp $">
+<art mrk="$Id: dent.xml,v 1.49 2013/09/18 12:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dent</rad>/o <fnt><bib>PV</bib></fnt>
@@ -354,6 +354,7 @@
     </dif>    
   </snc>
   <trd lng="be">&c_ib;&c_k;&c_o;&c_l;</trd>
+  <trd lng="bg">&c_k;&c_u;&c_ch;&c_je;&c_sh;&c_k;&c_i; <ind>&c_z;&c_malmol;&c_b;</ind></trd>
   <trdgrp lng="ca">
     <trd>ullal</trd>,
     <trd>canina</trd>,
@@ -570,6 +571,9 @@
 </art>
 <!--
 $Log: dent.xml,v $
+Revision 1.49  2013/09/18 12:10:26  revo
+Joop Eggen: +trd bg
+
 Revision 1.48  2012/09/23 00:10:07  revo
 Jeromo Vasxe: + sen~ulo, reord drv
 
@@ -589,8 +593,5 @@ Revision 1.43  2010/08/16 16:30:17  revo
 Jeromo Vasxe: - kramp
 
 Revision 1.42  2009/06/03 16:30:58  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.41  2009/04/29 16:30:47  revo
 -->
 </vortaro>

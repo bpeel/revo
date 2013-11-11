@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: luf.xml,v 1.4 2013/04/15 11:10:17 revo Exp $">
+<art mrk="$Id: luf.xml,v 1.5 2013/08/27 07:10:38 revo Exp $">
 <kap>
   <rad>luf</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -13,7 +13,9 @@
     <dif>
       Liano kreskanta en varmaj landoj, precipe en Afriko kaj en Azio,
       en pluraj lingvoj anka&ubreve; nomata spongokukurbo,
-      Genro el familio <ref tip="super" 
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" 
       cel="kukurb1.0oj.BOT">kukurbacoj</ref>
       (<trd lng="la">Luffa</trd>).
     </dif>
@@ -62,6 +64,9 @@
 
 <!--
 $Log: luf.xml,v $
+Revision 1.5  2013/08/27 07:10:38  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.4  2013/04/15 11:10:17  revo
 Sebastian Cyprych: +trd pl
 

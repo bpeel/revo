@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dispep.xml,v 1.14 2011/01/21 14:10:08 revo Exp $">
+<art mrk="$Id: dispep.xml,v 1.16 2013/10/09 18:11:02 revo Exp $">
   <kap>
     <ofc>1</ofc>
     <rad>dispepsi</rad>/o
@@ -14,7 +14,10 @@
       <dif>
         Malfacila k doloriga digesto.  
       </dif>
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref>
     </snc>
+    <trd lng="bg">&c_d;&c_i;&c_s;&c_p;&c_je;&c_p;&c_s;&c_i;&c_ja;</trd>
     <trd lng="ca">disp&egrave;psia</trd>
     <trdgrp lng="de">
        <trd>Verdauungsst&ouml;rung</trd>,
@@ -35,6 +38,10 @@
       <trd>diszpepszia</trd>,
       <trd>em&eacute;szt&eacute;si zavar</trd>
     </trdgrp>
+    <trdgrp lng="nl">
+      <trd>indigestie</trd>,
+      <trd>slechte <ind>spijsvertering</ind></trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd>niestrawno&sacute;&cacute;</trd>,
       <trd>dyspepsja</trd>
@@ -48,6 +55,12 @@
 </art>
 <!--
 $Log: dispep.xml,v $
+Revision 1.16  2013/10/09 18:11:02  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.15  2013/08/08 16:10:12  revo
+Joop Eggen: +trd bg nl
+
 Revision 1.14  2011/01/21 14:10:08  revo
 Russ Williams: +trd en
 
@@ -64,11 +77,5 @@ Revision 1.10  2005/04/05 16:36:01  revo
 Raul Salinas Monteagudo: +trd ca,es
 
 Revision 1.9  2003/05/16 16:31:07  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2002/05/10 16:33:06  revo
-Ulrich Fellmann: ort kor en germ trd
-
-Revision 1.7  2002/05/08 16:33:23  revo
 -->
 </vortaro>

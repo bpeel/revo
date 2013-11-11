@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aviad.xml,v 1.33 2012/10/23 00:12:01 revo Exp $">
+<art mrk="$Id: aviad.xml,v 1.34 2013/10/09 16:10:18 revo Exp $">
 <kap>
   <ofc>5</ofc>
   <rad>aviad</rad>/o
@@ -101,6 +101,7 @@
     <aut>MB</aut>
   </adm>
   <ref tip="sin" cel="avi.0o">avio</ref>
+  <trd lng="ca">avi&oacute;</trd>
   <trd lng="be">&c_s;&c_a;&c_m;&c_a;&c_l;&c_jo;&c_t;</trd>
   <trd lng="bg">&c_s;&c_a;&c_m;&c_o;&c_l;&c_je;&c_t;</trd>
   <trd lng="de">Flugzeug</trd>
@@ -114,6 +115,7 @@
     <trd>aeroplano</trd>
   </trdgrp>
   <trd lng="nl">vliegtuig</trd>
+  <trd lng="oc">avion</trd>
   <trd lng="os">&c_h;&aelig;&c_d;&c_t;&aelig;&c_h;&aelig;&c_g;</trd>
   <trd lng="pl">samolot</trd>
   <trdgrp lng="ru">
@@ -296,6 +298,9 @@
 </art>
 <!--
 $Log: aviad.xml,v $
+Revision 1.34  2013/10/09 16:10:18  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.33  2012/10/23 00:12:01  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -315,8 +320,5 @@ Revision 1.28 2005/04/29 16:32:46 revo
 Sergio Pokrovskij: TEZ
 Revision 1.27 2005/04/28 16:32:00 revo
 Yury Finkel: +trd ru
-Revision 1.26 2005/04/27 16:32:43 revo
-Raul Salinas Monteagudo: +trd ca,es; korekto trd es
-Revision 1.25 2005/03/29 16:32:23 revo
 -->
 </vortaro>

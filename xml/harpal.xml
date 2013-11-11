@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: harpal.xml,v 1.8 2007/04/26 16:30:37 revo Exp $">
+<art mrk="$Id: harpal.xml,v 1.9 2013/09/01 15:10:56 revo Exp $">
 <kap>
 <rad>harpal</rad>/o
 </kap>
@@ -11,7 +11,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super" cel="karab.0oj">karabedoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="karab.0oj">karabedoj</ref>
       (<trd lng="la">Harpalus</trd>).
     </dif>
   </snc>
@@ -20,11 +22,14 @@
     <trd>f&eacute;mfut&oacute;</trd>,
     <trd>futrinka</trd>
   </trdgrp>
-  <trd lng="pt">carab&#237;deo</trd>
+  <trd lng="pt">carab&iacute;deo</trd>
 </drv>
 </art>
 <!--
 $Log: harpal.xml,v $
+Revision 1.9  2013/09/01 15:10:56  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.8  2007/04/26 16:30:37  revo
 Tulio Flores: +tr pt
 
@@ -42,4 +47,3 @@ Wolfram Diestel: prilaboretis difinon, germ. trd..
 
 -->
 </vortaro>
-

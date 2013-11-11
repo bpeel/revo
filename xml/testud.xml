@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: testud.xml,v 1.19 2012/08/13 20:10:48 revo Exp $">
+<art mrk="$Id: testud.xml,v 1.22 2013/11/02 14:10:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>testud</rad>/o
@@ -10,9 +10,10 @@
 <drv mrk="testud.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="testud.0o.ZOO">
-    <uzo tip="fak">ZOO</uzo>
     <dif>
-      <ref tip="super" cel="ramp.0uloj">Rampulo</ref>,
+      <ref tip="lst" cel="reptil.0o"
+      lst="voko:reptilioj">Reptilio</ref>
+      el la ordo <ref tip="malprt" cel="testud.0oj"><tld/>oj</ref>,
       kies tuta korpo, estas entenata en korneca kiraso el kiu
       povas eli&gcirc;i la kapo, la kvar piedoj kaj la vosto:
       <ekz>
@@ -41,6 +42,18 @@
     <trd>tartaruga</trd>
   </trdgrp>
   <trd lng="ru">&c_ch;&c_je;&c_r;&c_je;&c_p;&c_a;&c_h;&c_a;</trd>
+</drv>
+
+<drv mrk="testud.0oj">
+  <kap><tld/>oj</kap>
+  <snc mrk="testud.0oj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref>
+      de reptilioj (<trd lng="la">Testudinata</trd>).
+    </dif>
+  </snc>
 </drv>
 
 <drv mrk="testud.0ajxo">
@@ -93,8 +106,11 @@
   <snc mrk="testud.verdamar0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Genro de mar<tld/>oj vivantaj en tropikaj maroj, pezantaj
-      &gcirc;is 130 kilogramoj, kun unu specio
+      Mar<ref tip="super" cel="testud.0o"><tld/>o</ref> 
+      vivanta en tropikaj maroj, pezanta
+      &gcirc;is 130 kilogramoj; genro kun unu 
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">specio</ref>
       (<trd lng="la">Chelonia mydas</trd>):
       <ekz>
         la <klr>...</klr> verda mar<tld/>o <klr>...</klr> sin trovas en
@@ -121,6 +137,15 @@
 </art>
 <!--
 $Log: testud.xml,v $
+Revision 1.22  2013/11/02 14:10:32  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.21  2013/10/26 09:10:16  revo
+Wolfram Diestel: verda mar~o: ref al lst zoo specioj
+
+Revision 1.20  2013/10/25 16:10:18  revo
+Wolfram Diestel: ref al lst reptilioj, prilaboris dif, +drv ~oj
+
 Revision 1.19  2012/08/13 20:10:48  revo
 Marc Rausell: + trd ca
 
@@ -134,14 +159,5 @@ Revision 1.16  2006/05/22 16:31:58  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.15  2006/02/20 17:32:49  revo
-Jeromo Vasxe: + verda mar~o
-
-Revision 1.14  2006/02/15 17:33:48  revo
-Tulio Flores: +trd pt
-
-Revision 1.13  2004/11/30 17:31:35  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12  2004/02/01 17:30:36  revo
 -->
 </vortaro>

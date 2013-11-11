@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: panter.xml,v 1.20 2013/03/09 16:10:19 revo Exp $">
+<art mrk="$Id: panter.xml,v 1.21 2013/09/01 14:10:41 revo Exp $">
 <kap><ofc>*</ofc><rad>panter</rad>/o</kap>
 <drv mrk="panter.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -29,7 +29,9 @@
   </snc>
   <snc mrk="panter.0o.genro">
     <dif>
-      Genro el familio <ref tip="super" cel="felise.0oj">felisedoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="felise.0oj">felisedoj</ref>
       (<trd lng="la">Panther</trd>), al kiu apartenas
       <refgrp tip="sub">
         <ref cel="jaguar.0o">jaguaro</ref>,
@@ -49,6 +51,9 @@
 </art>
 <!--
 $Log: panter.xml,v $
+Revision 1.21  2013/09/01 14:10:41  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.20  2013/03/09 16:10:19  revo
 Dmitri Gabinski: +trd be
 
@@ -68,8 +73,5 @@ Revision 1.15  2004/07/15 19:03:49  revo
 Jozefo Horvath: kor. trd hu
 
 Revision 1.14  2003/11/08 08:20:20  revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.13  2003/07/15 16:30:48  revo
 -->
 </vortaro>

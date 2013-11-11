@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bemol.xml,v 1.18 2010/05/28 16:30:38 revo Exp $">
+<art mrk="$Id: bemol.xml,v 1.19 2013/08/16 16:10:10 revo Exp $">
 <kap>
   <ofc>9</ofc>
   <rad>bemol</rad>/o <fnt><bib>PV</bib></fnt>
@@ -23,6 +23,7 @@
   <trd lng="fr">b&eacute;mol</trd>
   <trd lng="hu">b&eacute;</trd>
   <trd lng="it">bemolle</trd>
+  <trd lng="nl">mol</trd>
   <trd lng="pl">bemol</trd>
   <trd lng="ru">&c_b;&c_je;&c_m;&c_o;&c_l;&c_mol;</trd>
   <trd lng="sk">b&eacute;&ccaron;ko</trd>
@@ -48,6 +49,9 @@
 </art>
 <!--
 $Log: bemol.xml,v $
+Revision 1.19  2013/08/16 16:10:10  revo
+Joop Eggen: +trd nl
+
 Revision 1.18  2010/05/28 16:30:38  revo
 Antonio Codazzi: +trd it
 
@@ -67,8 +71,5 @@ Wieland Pusch: +trd de
 Revision 1.12  2005/03/14 18:36:00  revo
 Yury Finkel: +trd ru
 Revision 1.11 2003/11/26 17:31:36 revo
-Dmitri Gabinski: +trd be
-Revision 1.10 2003/01/16 17:31:46 revo
-Jozefo Horvath: +trd hu
 -->
 </vortaro>

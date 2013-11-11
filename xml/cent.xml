@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: cent.xml,v 1.44 2013/04/27 05:10:10 revo Exp $">
+<art mrk="$Id: cent.xml,v 1.47 2013/10/31 11:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>cent</rad>
@@ -17,6 +17,8 @@
         <fnt><bib>F</bib>, <lok>&FE; 14</lok></fnt>.
       </ekz>
     </dif>
+    <ref tip="lst" cel="nombr.0o.MAT" lst="voko:nombroj"
+    val="100">nombro</ref>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_o;</trd>
   <trd lng="br">kant</trd>
@@ -35,6 +37,7 @@
   <trd lng="ku">sed</trd>
   <trd lng="nl">honderd</trd>
   <trd lng="no">hundre</trd>
+  <trd lng="oc">cent</trd>
   <trd lng="pl">sto</trd>
   <trd lng="pt">cem</trd>
   <trd lng="ro">o sut&abreve;</trd>
@@ -290,6 +293,15 @@
 <!--
 
 $Log: cent.xml,v $
+Revision 1.47  2013/10/31 11:10:26  revo
+Wolfram Diestel: +val
+
+Revision 1.46  2013/10/27 15:10:17  revo
+Benito Subejrano: + trd oc
+
+Revision 1.45  2013/08/22 16:10:19  revo
+Wolfram Diestel: referenco al nombro/listo nombroj
+
 Revision 1.44  2013/04/27 05:10:10  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -303,14 +315,5 @@ Revision 1.41  2011/11/26 23:10:11  revo
 Jeromo Vasxe: + formo el~ajxo
 
 Revision 1.40  2011/01/25 11:10:11  revo
-Russ Williams: +trd en
-
-Revision 1.39  2010/01/21 17:30:27  revo
- Filip van Laenen: Norvega traduko
-
-Revision 1.38  2009/08/27 16:32:50  revo
-Emmanuel Debanne: +trd ku
-
-Revision 1.37  2009/08/11 16:31:15  revo
 -->
 </vortaro>

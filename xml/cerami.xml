@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cerami.xml,v 1.27 2013/01/14 11:10:08 revo Exp $">
+<art mrk="$Id: cerami.xml,v 1.28 2013/09/22 18:10:14 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>ceramik</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,7 +12,7 @@
   <kap><tld/>o</kap>
   <snc mrk="cerami.0o.VAZ">
     <dif>
-      <ref tip="super" cel="art.0o">Arto</ref>
+      <ref tip="lst" cel="art.0o" lst="voko:artoj">Arto</ref>
       baki teron por fari potojn a&ubreve; kahelojn:
       <ekz>
         la &ccirc;ina <tld/>o havas historion de 10 mil jaroj
@@ -159,6 +159,9 @@
 </art>
 <!--
 $Log: cerami.xml,v $
+Revision 1.28  2013/09/22 18:10:14  revo
+Wolfram Diestel: referenco al listo artoj
+
 Revision 1.27  2013/01/14 11:10:08  revo
 Jeromo Vasxe: kor. 1 ref
 
@@ -178,8 +181,5 @@ Revision 1.22  2009/08/12 16:30:32  revo
 Russ Williams: +trd en
 
 Revision 1.21  2009/05/22 16:30:51  revo
-Antonio Codazzi: +trd it
-
-Revision 1.20  2009/04/17 19:48:07  revo
 -->
 </vortaro>

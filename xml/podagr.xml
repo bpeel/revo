@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: podagr.xml,v 1.14 2009/08/28 16:32:00 revo Exp $">
+<art mrk="$Id: podagr.xml,v 1.16 2013/11/08 19:10:22 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>podagr</rad>/o
@@ -12,7 +12,8 @@
   <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
-      Dolora <ref tip="super" cel="san.mal0o">malsano</ref> de artikoj:
+      Dolora <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref> de artikoj:
       <ekz>
         homo &ccirc;irka&ubreve; kvindekjara, jam tute griza kaj kvaza&ubreve; suferanta
         la
@@ -28,6 +29,7 @@
     <trd>Fu&szlig;gicht</trd>,
     <trd>Zehengicht</trd>
   </trdgrp>
+  <trd lng="en">gout</trd>
   <trd lng="fa">&a_n;&a_q;&a_r;&a_s;</trd>
   <trdgrp lng="fr">
     <trd>goutte aux pieds<klr tip="ind"> (podagre)</klr></trd>,
@@ -47,6 +49,12 @@
 </art>
 <!--
 $Log: podagr.xml,v $
+Revision 1.16  2013/11/08 19:10:22  revo
+Russ Williams: +trd en
+
+Revision 1.15  2013/10/07 15:10:42  revo
+Wolfram Diestel: ref la lst malsanoj
+
 Revision 1.14  2009/08/28 16:32:00  revo
 Behnam Tabatabai: +trd fa
 
@@ -63,11 +71,5 @@ Revision 1.10  2003/07/17 16:36:50  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9  2003/01/23 20:43:29  revo
-Jeromo Vasxe: + fak med, + tez, + ekz, + trd fr
-
-Revision 1.8 2002/07/29 18:14:10 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.7 2001/12/20 17:33:37 revo
 -->
 </vortaro>

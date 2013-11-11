@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tiu.xml,v 1.16 2009/01/05 18:13:11 revo Exp $">
+<art mrk="$Id: tiu.xml,v 1.17 2013/09/13 09:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tiu</rad>
@@ -34,6 +34,10 @@
         doktrino apogita sur <tld/> de Platono.
       </ekz>
     </dif>
+    <trdgrp lng="ca">
+      <trd>aquell</trd>,
+      <trd>aquest</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>celle-l&agrave;</trd>,
       <trd>celles-l&agrave;</trd>,
@@ -42,6 +46,7 @@
     </trdgrp>
     <trd lng="hu">az <klr tip="ind">(mutat&oacute;
     n&eacute;vm&aacute;s)></klr></trd>
+    <trd lng="oc">aquel</trd>
   </snc>
   <snc mrk="tiu.0.adjektivo">
     <dif>
@@ -193,7 +198,12 @@
       <trd>ez az</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="ca">
+    <trd>aquest</trd>,
+    <trd>aquell</trd>
+  </trdgrp>
   <trd lng="en">this</trd>
+  <trd lng="oc">aquel</trd>
   <trdgrp lng="pl">
     <trd>ten</trd>,
     <trd>&oacute;w</trd>,
@@ -209,6 +219,9 @@
 </art>
 <!--
 $Log: tiu.xml,v $
+Revision 1.17  2013/09/13 09:10:11  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.16  2009/01/05 18:13:11  revo
 Sebastian Cyprych: +trd pl
 
@@ -228,8 +241,5 @@ Revision 1.11 2003/03/12 17:31:41 revo
 Ulrich Fellmann: + 2 trd = vo
 
 Revision 1.10 2002/03/11 17:35:09 revo
-Yury Finkel: +trd ru
-
-Revision 1.9 2002/01/21 21:48:39 revo
 -->
 </vortaro>

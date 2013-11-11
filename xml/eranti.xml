@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eranti.xml,v 1.11 2007/06/28 16:33:15 revo Exp $">
+<art mrk="$Id: eranti.xml,v 1.13 2013/08/30 14:10:53 revo Exp $">
 <kap>
 <rad>erantid</rad>/o
 </kap>
@@ -11,7 +11,9 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Genro el la familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el la familio <ref
+      tip="malprt"
       cel="ranunk1.0oj">ranunkolacoj</ref>
       (<trd lng="la">Eranthis</trd>), tre frue en vintro
       floranta, kun flavaj floroj.
@@ -36,6 +38,12 @@
 </art>
 <!--
 $Log: eranti.xml,v $
+Revision 1.13  2013/08/30 14:10:53  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.12  2013/08/29 07:10:23  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.11  2007/06/28 16:33:15  revo
 Tulio Flores: +tr pt
 
@@ -52,12 +60,5 @@ Revision 1.7  2001/04/27 18:53:32  revo
 ranunk.0acoj -> ranunk1.0oj
 
 Revision 1.6  2001/04/17 16:20:33  revo
-Yury Finkel: +trd ru
-
-Revision 1.5  2000/11/26 17:11:17  revo
-Wolfram Diestel: kor. ref-cel
-
-Revision 1.4  2000/09/03 16:12:32  revo
 -->
 </vortaro>
-

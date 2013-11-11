@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: venus.xml,v 1.15 2012/07/16 10:10:16 revo Exp $">
+  <art mrk="$Id: venus.xml,v 1.17 2013/09/23 08:10:20 revo Exp $">
     <kap>
       <rad>Venus</rad>/o <fnt><bib>PIV1</bib></fnt>
     </kap>
@@ -16,10 +16,12 @@
       </snc>
       <snc mrk="venus.0o.AST">
         <uzo tip="fak">AST</uzo>
+        <mlg>&#9792;</mlg>
         <dif>
           La dua (la&ubreve; distanco de la <ref tip="vid"
             cel="sun.0o.nia">Suno</ref>)
-          <ref tip="super" cel="planed.0o">planedo</ref>
+          <ref tip="lst" cel="planed.0o"
+          lst="voko:planedoj">planedo</ref>
           de la <ref tip="malprt" cel="sun.0sistemo">sunsistemo</ref>.
         </dif>
         <trd lng="hu">V&eacute;nusz</trd>
@@ -72,6 +74,12 @@
   </art>
   <!--
   $Log: venus.xml,v $
+  Revision 1.17  2013/09/23 08:10:20  revo
+  Wolfram Diestel: simb
+
+  Revision 1.16  2013/08/25 18:10:20  revo
+  Wolfram Diestel: referencoj
+
   Revision 1.15  2012/07/16 10:10:16  revo
   Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: odonat.xml,v 1.7 2004/05/20 20:14:38 revo Exp $">
+<art mrk="$Id: odonat.xml,v 1.8 2013/07/29 11:10:10 revo Exp $">
 <kap>
   <rad>odonat</rad>/oj
 </kap>
@@ -17,6 +17,7 @@
     <ref tip="prt" cel="libel.0o">libelo</ref>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_k;&c_o;&c_z;&c_y; <klr tip="amb">(&c_a;&c_t;&c_r;&c_a;&c_d;)</klr></trd>
+  <trd lng="bg">&c_v;&c_o;&c_d;&c_n;&c_i; &c_k;&c_o;&c_n;&c_ch;&c_je;&c_t;&c_a;</trd>
   <trd lng="de">Libellen<klr tip="ind"> (Ordnung)</klr></trd>
   <trd lng="hu">szitak&ouml;t&odblac;k<klr tip="amb"> (rend)</klr></trd>
   <trdgrp lng="nl">
@@ -29,6 +30,9 @@
 </art>
 <!--
 $Log: odonat.xml,v $
+Revision 1.8  2013/07/29 11:10:10  revo
+Joop Eggen: +trd bg
+
 Revision 1.7  2004/05/20 20:14:38  revo
 Dmitri Gabinski: +trd be
 
@@ -48,7 +52,5 @@ Revision 1.2 2000/11/07 18:30:47 revo
 Wolfram Diestel: -tajperaro
 
 Revision 1.1 2000/11/01 17:11:15 revo
-Wolfram Diestel: nova artikolo
-
 -->
 </vortaro>

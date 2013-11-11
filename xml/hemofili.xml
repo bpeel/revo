@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hemofili.xml,v 1.3 2012/01/08 12:10:17 revo Exp $">
+<art mrk="$Id: hemofili.xml,v 1.4 2013/10/09 19:10:58 revo Exp $">
 <kap>
   <rad>hemofili</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -11,7 +11,8 @@
   <snc mrk="hemofili.0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Hereda sangomalsano, precipe de viroj, pro kiu
+      Hereda sango<ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref>, precipe de viroj, pro kiu
       sango tro fluemas, ne koaguli&gcirc;as:
       <ekz>
         biologio <klr>...</klr> sukcesis klarigi iujn malsanojn kaj 
@@ -44,6 +45,9 @@
 
 <!--
 $Log: hemofili.xml,v $
+Revision 1.4  2013/10/09 19:10:58  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.3  2012/01/08 12:10:17  revo
 Wolfram Diestel: germ trd
 

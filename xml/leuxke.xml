@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: leuxke.xml,v 1.13 2009/10/06 16:44:42 revo Exp $">
+<art mrk="$Id: leuxke.xml,v 1.14 2013/10/09 19:11:27 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>le&ubreve;kemi</rad>/o
 </kap>
@@ -13,7 +13,9 @@
   <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
-      Malsano karakterizata per tromulti&gcirc;o de blankaj globetoj en la
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsano</ref> karakterizata per tromulti&gcirc;o de
+      blankaj globetoj en la
       sango.
     </dif>
   </snc>
@@ -44,6 +46,9 @@
 </art>
 <!--
 $Log: leuxke.xml,v $
+Revision 1.14  2013/10/09 19:11:27  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.13  2009/10/06 16:44:42  revo
 Paul Peeraerts: +nl
 
@@ -63,8 +68,5 @@ Revision 1.8  2002/08/29 17:33:05  revo
 Eduardo M. Kalinowski: ald trd el, pt
 
 Revision 1.7  2001/11/16 19:13:05  revo
-Yury Finkel: +trd ru
-
-Revision 1.6  2001/08/31 18:13:34  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sxangx.xml,v 1.32 2013/01/31 21:10:09 revo Exp $">
+  <art mrk="$Id: sxangx.xml,v 1.33 2013/10/20 14:10:15 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>&scirc;an&gcirc;</rad>/i
@@ -130,12 +130,14 @@ oro
         <trd>&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_mol;</trd>,
         <trd>&c_z;&c_a;&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_mol;</trd>
       </trdgrp>
+      <trd lng="ca">canviar</trd>
       <trd lng="cs">m&ecaron;nit</trd>
       <trd lng="en">change</trd>
       <trd lng="es">cambiar</trd>
       <trd lng="fr">changer<klr> (tr.)</klr></trd>
       <trd lng="hr">promjeniti</trd>
       <trd lng="it">cambiare</trd>
+      <trd lng="oc">cambiar</trd>
       <trd lng="pl">zmienia&cacute;</trd>
       <trd lng="ro">a schimba</trd>
       <trd lng="ru">&c_m;&c_je;&c_n;&c_ja;&c_t;&c_mol;</trd>
@@ -226,6 +228,7 @@ oro
         <trd>&c_z;&c_mol;&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_c;&c_a;</trd>,
         <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_c;&c_a;</trd>
       </trdgrp>
+      <trd lng="ca">canviar</trd>
       <trdgrp lng="de">
         <trd>sich <ind>&auml;ndern</ind></trd>,
         <trd>sich <ind>ver&auml;ndern</ind></trd>
@@ -258,6 +261,7 @@ oro
         <trd>kenteren</trd>,
         <trd>zich aanpassen</trd>,
       </trdgrp>
+      <trd lng="oc">cambiar</trd>
       <trd lng="pl">zmienia&cacute; si&eogonek;</trd>
       <trdgrp lng="ru">
         <trd>&c_m;&c_je;&c_n;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>,
@@ -359,6 +363,9 @@ oro
   </art>
   <!--
   $Log: sxangx.xml,v $
+  Revision 1.33  2013/10/20 14:10:15  revo
+  Benito Subejrano: + trd ca oc
+
   Revision 1.32  2013/01/31 21:10:09  revo
   Bart Demeyere: trd de: ind anstatau klr
 

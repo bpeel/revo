@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: cirkum1.xml,v 1.14 2009/08/14 16:31:03 revo Exp $">
+  <art mrk="$Id: cirkum1.xml,v 1.15 2013/08/12 10:10:12 revo Exp $">
     <kap>
       <ofc>2</ofc>
       <rad>cirkumfleks</rad>/o
@@ -40,10 +40,17 @@
       <trd lng="it">accento <ind>circonflesso</ind></trd>
       <trd lng="nl">circumflex</trd>
       <trd lng="pl">cyrkumfleks</trd>
+      <trdgrp lng="en">
+        <trd>cirkumflex</trd>,
+        <trd>ins&auml;ttningstecken</trd>
+      </trdgrp>
     </drv>
   </art>
   <!--
   $Log: cirkum1.xml,v $
+  Revision 1.15  2013/08/12 10:10:12  revo
+  Joop Eggen: +trd sv
+
   Revision 1.14  2009/08/14 16:31:03  revo
   Antonio Codazzi: +trd it
 

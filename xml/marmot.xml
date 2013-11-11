@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: marmot.xml,v 1.19 2013/07/05 20:10:21 revo Exp $">
+<art mrk="$Id: marmot.xml,v 1.21 2013/10/24 14:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>marmot</rad>/o
@@ -12,11 +12,16 @@
   <snc mrk="marmot.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      <ref tip="super" cel="genr.0o">Genro</ref> el familio 
+      Granda <ref tip="lst" cel="rongx.0ulo"
+      lst="voko:ron&gcirc;uloj">ron&gcirc;ulo</ref>
+      lo&gcirc;anta grupe en vastaj subteraj fosa&jcirc;oj kaj kavernoj
+      de <ref cel="mont.0aro">montaroj</ref> kaj malvarmaj 
+      <ref cel="step.0o">stepoj</ref> de la 
+      norda duonsfero; 
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref>  el familio 
       <ref tip="malprt" cel="sciure.0oj">sciuredoj</ref>
-      (<trd lng="la">Marmota</trd>), granda ron&gcirc;ulo de altaj e&ubreve;ropaj
-      nordamerikaj kaj himalaja <ref cel="mont.0aro">montaroj</ref>, 
-      grupe lo&gcirc;anta en vastaj subteraj fosa&jcirc;oj.
+      (<trd lng="la">Marmota</trd>).
     </dif>
     <bld lok="../bld/marmot.jpg">
       <ind>monta <tld/>o</ind>
@@ -48,6 +53,12 @@
 </art>
 <!--
 $Log: marmot.xml,v $
+Revision 1.21  2013/10/24 14:10:13  revo
+Wolfram Diestel: ref al lst rongxuloj, prilaboris dif
+
+Revision 1.20  2013/09/03 18:10:14  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.19  2013/07/05 20:10:21  revo
 Wolfram Diestel: referencoj
 
@@ -64,11 +75,5 @@ Revision 1.15  2009/08/14 16:30:27  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.14  2006/07/29 16:34:43  revo
-Tulio Flores: +tr pt
-
-Revision 1.13  2004/08/16 16:33:21  revo
-Jeromo Vasxe: ampleksig. dif, + trd fr it
-
-Revision 1.12 2004/02/15 17:31:44 revo
 -->
 </vortaro>

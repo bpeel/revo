@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: harmon2.xml,v 1.23 2012/01/22 14:10:09 revo Exp $">
+<art mrk="$Id: harmon2.xml,v 1.25 2013/09/22 19:10:49 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>harmonik</rad>/o
@@ -12,7 +12,8 @@
   <uzo tip="fak">MUZ</uzo>
   <snc mrk="harmon2.0o.SCI">
     <dif>
-      <ref tip="super" cel="scienc.0o.fako">Scienco</ref> pri la
+      <ref tip="lst" cel="scienc.0o.fako"
+      lst="voko:sciencoj">Scienco</ref> pri la
       harmonio.
     </dif>
     <adm>
@@ -109,7 +110,9 @@
   <uzo tip="fak">MUZ</uzo>
   <snc>
     <dif>
-      <ref tip="super" cel="instru2.blov0o">Blovinstrumento</ref>,
+      <ref tip="lst"
+      cel="instru2.blov0o"
+      lst="voko:blovinstrumentoj">Blovinstrumento</ref>,
       konsistanta el vico da truoj garnitaj per vibrantaj
       lamenetoj, tra kiu oni blovas.
     </dif>
@@ -205,6 +208,12 @@
 </art>
 <!--
 $Log: harmon2.xml,v $
+Revision 1.25  2013/09/22 19:10:49  revo
+Wolfram Diestel: astro~o: referenco al listo sciencoj
+
+Revision 1.24  2013/09/08 18:10:34  revo
+Wolfram Diestel: ref al listo blovinstrumentoj
+
 Revision 1.23  2012/01/22 14:10:09  revo
 Marc Rausell: +trd ca
 
@@ -221,11 +230,5 @@ Revision 1.19  2005/10/14 18:03:49  revo
 Luiz Portella: +trd pt
 
 Revision 1.18  2005/06/26 16:34:07  revo
-Alan ar Gall: +trd br
-
-Revision 1.17  2004/08/02 18:56:01  revo
-Jean Hennebert: +trd fr
-
-Revision 1.16  2003/11/27 17:30:49  revo
 -->
 </vortaro>

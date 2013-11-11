@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: du.xml,v 1.63 2013/04/26 15:10:11 revo Exp $">
+<art mrk="$Id: du.xml,v 1.65 2013/10/31 11:10:28 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>du</rad> <fnt><bib>PV</bib></fnt>
@@ -18,6 +18,8 @@
         <fnt><bib>F</bib>, <lok>&FE; 12</lok></fnt>.
       </ekz>
     </dif>
+     <ref tip="lst" cel="nombr.0o.MAT" lst="voko:nombroj"
+     val="2">nombro</ref>
   </snc>
   <trd lng="be">&c_d;&c_v;&c_a;</trd>
   <trdgrp lng="br">
@@ -444,6 +446,12 @@
  <!--
 
  $Log: du.xml,v $
+ Revision 1.65  2013/10/31 11:10:28  revo
+ Wolfram Diestel: +val
+
+ Revision 1.64  2013/09/25 18:10:15  revo
+ Wolfram Diestel: ref al listo nombroj
+
  Revision 1.63  2013/04/26 15:10:11  revo
  Eko Nur Syah Hidayat: +trd id
 

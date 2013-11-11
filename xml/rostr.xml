@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rostr.xml,v 1.17 2013/04/10 10:10:17 revo Exp $">
+<art mrk="$Id: rostr.xml,v 1.20 2013/10/23 11:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rostr</rad>/o
@@ -44,14 +44,26 @@
   <trd lng="nl">slurf</trd>
 </drv>
 
+<drv mrk="rostr.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="rostr.0ulo.ZOO">
+    <dif>
+      Iu el <ref tip="malprt" cel="rostr.0uloj"><tld/>uloj</ref>.
+    </dif>
+  </snc>
+</drv>
+
 <drv mrk="rostr.0uloj">
   <kap><tld/>uloj</kap>
-  <uzo tip="fak">ZOO</uzo>
   <snc>
+    <uzo tip="fak">ZOO</uzo>
     <dif>
-      Ordo el la klaso <ref tip="super" cel="mam.0uloj">mamuloj</ref>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> 
+      de <ref tip="malprt" cel="mam.0uloj">mamuloj</ref>
       (<trd lng="la">Proboscidea</trd>).
     </dif>
+    <lstref lst="voko:rostruloj"><tld/>uloj</lstref>
     <ref tip="sub" cel="elefan2.0oj">elefantedoj</ref>
   </snc>
   <trd lng="ca">proboscidis</trd>
@@ -64,6 +76,15 @@
 </art>
 <!--
 $Log: rostr.xml,v $
+Revision 1.20  2013/10/23 11:10:18  revo
+Wolfram Diestel: lstref al rostruloj, +~ulo
+
+Revision 1.19  2013/10/19 15:10:17  revo
+Wolfram Diestel: kor. ref-tip
+
+Revision 1.18  2013/09/01 13:10:25  revo
+Wolfram Diestel: ~uloj: referenco al listo zoo ordoj
+
 Revision 1.17  2013/04/10 10:10:17  revo
 Sebastian Cyprych: +trd pl
 
@@ -77,14 +98,5 @@ Revision 1.14  2004/05/25 16:34:34  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.13  2002/07/11 17:32:34  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12  2002/02/01 17:31:23  revo
-Yury Finkel: +trd ru
-
-Revision 1.11 2002/01/30 17:31:39 revo
-Karlo Freeman: +trd=en
-
-Revision 1.10 2001/05/20 11:55:25 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stab.xml,v 1.17 2013/04/21 18:10:11 revo Exp $">
+<art mrk="$Id: stab.xml,v 1.18 2013/08/13 10:10:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>stab</rad>/o
@@ -52,6 +52,7 @@
     <trd lng="pl">sztab</trd>
   </snc>
   <trd lng="be">&c_sh;&c_t;&c_a;&c_b;</trd>
+  <trd lng="bg">&c_shch;&c_a;&c_b;</trd>
   <trdgrp lng="de">
     <trd>Stab</trd>,
     <trd>F&uuml;hrungsstab</trd>
@@ -78,14 +79,20 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_shch;&c_a;&c_b;</trd>
+  <trd lng="de">Hauptquartier</trd>
   <trd lng="en">headquarters</trd>
   <trd lng="fr">poste de commandement</trd>
   <trd lng="it">quartier generale</trd>
+  <trd lng="nl">hoofdkwartier</trd>
   <trd lng="pl">sztab</trd>
 </drv>
 </art>
 <!--
 $Log: stab.xml,v $
+Revision 1.18  2013/08/13 10:10:09  revo
+Joop Eggen: +trd bg
+
 Revision 1.17  2013/04/21 18:10:11  revo
 Sebastian Cyprych: +trd pl
 
@@ -105,8 +112,5 @@ Revision 1.12 2004/10/27 16:31:46 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.11 2003/06/14 20:48:03 revo
-jxeromo vasxe: + fak mil, + mrk, + ekz, + trd fr
-
-Revision 1.10 2003/02/04 17:31:33 revo
 -->
 </vortaro>

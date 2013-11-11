@@ -2,9 +2,8 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lam1.xml,v 1.20 2009/09/22 17:18:02 revo Exp $">
+<art mrk="$Id: lam1.xml,v 1.22 2013/09/08 10:10:11 revo Exp $">
 <kap>
-<ofc>*</ofc>
 <rad>lam</rad>/o
 <fnt>Z</fnt>
 </kap>
@@ -15,7 +14,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super" cel="kameled.0oj">kameledoj
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="kameled.0oj">kameledoj
       </ref> (<trd lng="la">Lama</trd>), vivanta en Sudameriko:
       <ekz>
         la <ind>vikunja <tld/>o</ind> vivas en la altaj regionoj de
@@ -56,6 +57,12 @@ tip="amb">(&c_zh;&c_y;&c_v;&c_jo;&c_l;&c_a;)</klr></trd>
 </art>
 <!--
 $Log: lam1.xml,v $
+Revision 1.22  2013/09/08 10:10:11  revo
+Wolfram Diestel: forigis ofc *
+
+Revision 1.21  2013/09/01 15:10:55  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.20  2009/09/22 17:18:02  revo
 Paul Peeraerts: +nl
 
@@ -72,11 +79,5 @@ Revision 1.16  2006/07/10 16:30:58  revo
 Axel Rousseau: +trd fr
 
 Revision 1.15  2004/07/06 16:33:07  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14  2002/10/25 16:34:13  revo
-Jose Martin del Pozo: ald chiuj hisp trd
-
-Revision 1.13  2002/08/18 18:00:37  revo
 -->
 </vortaro>

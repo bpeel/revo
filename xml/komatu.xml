@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: komatu.xml,v 1.8 2007/11/06 18:57:27 revo Exp $">
+<art mrk="$Id: komatu.xml,v 1.9 2013/09/01 09:10:19 revo Exp $">
 <kap>
   <rad>komatul</rad>/oj
 </kap>
@@ -11,8 +11,10 @@
   <snc mrk="komatu.0oj.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Ordo el la filumo
-      <ref tip="super" cel="ehxinoderm.0oj.ZOO">e&hcirc;inodermoj</ref>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> 
+      el la filumo <ref tip="super"
+      cel="ehxinoderm.0oj.ZOO">e&hcirc;inodermoj</ref>
       (<trd lng="la">Comatulida</trd>).
     </dif>
   </snc>
@@ -28,6 +30,9 @@
 
 <!--
 $Log: komatu.xml,v $
+Revision 1.9  2013/09/01 09:10:19  revo
+Wolfram Diestel: referenco al listo zoo ordoj
+
 Revision 1.8  2007/11/06 18:57:27  revo
 Jeromo Vasxe: ref al e*hx*inodermoj, + trd fr
 

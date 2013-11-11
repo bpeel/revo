@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arkite1.xml,v 1.24 2012/02/19 10:10:12 revo Exp $">
+<art mrk="$Id: arkite1.xml,v 1.25 2013/09/22 18:10:18 revo Exp $">
 <kap>
   <ofc>8</ofc><rad>arkitektur</rad>/o
 </kap>
@@ -12,7 +12,8 @@
     <uzo tip="fak">ARKI</uzo>
     <uzo tip="fak">BELA</uzo>
     <dif>
-      La <ref tip="super" cel="art.bel0o">belarto</ref> de la
+      La <ref tip="lst" cel="art.bel0o" lst="voko:artoj">belarto</ref>
+      de la
       konstruado:
       <ekz>
         kial vi vizitis tiujn urbojn?
@@ -78,6 +79,9 @@
 </art>
 <!--
 $Log: arkite1.xml,v $
+Revision 1.25  2013/09/22 18:10:18  revo
+Wolfram Diestel: referenco al listo artoj, germ trd
+
 Revision 1.24  2012/02/19 10:10:12  revo
 Marc Rausell: +trd ca
 
@@ -97,8 +101,5 @@ Revision 1.19  2005/04/18 16:32:05  revo
 Alan ar Gall: +trd br
 
 Revision 1.18  2004/09/29 16:31:11  revo
-Jeromo Vasxe: postkor manka rad
-
-Revision 1.17  2004/09/27 19:07:14  revo
 -->
 </vortaro>

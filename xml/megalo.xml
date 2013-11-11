@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: megalo.xml,v 1.13 2011/12/03 16:10:14 revo Exp $">
+<art mrk="$Id: megalo.xml,v 1.15 2013/10/26 15:10:10 revo Exp $">
 <kap>
   <rad>megalosa&ubreve;r</rad>/o
 </kap>
@@ -12,8 +12,8 @@
     <uzo tip="fak">PAL</uzo>
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Genro de dinosa&ubreve;raj <ref tip="super"
-      cel="ramp.0uloj">rampuloj</ref>,
+      Genro de <ref tip="lst" cel="dinosa.0o"
+      lst="voko:dinosa&ubreve;roj">dinosa&ubreve;roj</ref>,
       vivinta en &jcirc;uraso kaj kretaceo.
     </dif>
   </snc>
@@ -29,6 +29,12 @@
 </art>
 <!--
 $Log: megalo.xml,v $
+Revision 1.15  2013/10/26 15:10:10  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.14  2013/10/26 09:10:24  revo
+Wolfram Diestel: ref al lst sauxroj, prilaboris dif
+
 Revision 1.13  2011/12/03 16:10:14  revo
 Marc Rausell: kataluna traduko
 
@@ -45,11 +51,5 @@ Revision 1.9 2003/01/04 17:33:00 revo
 Viliam Bur: +trd sk
 
 Revision 1.8 2002/07/05 17:34:53 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.7 2001/11/25 17:33:09 revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/10/23 18:30:31 revo
 -->
 </vortaro>

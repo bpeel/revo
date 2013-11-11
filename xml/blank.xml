@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: blank.xml,v 1.34 2010/09/02 16:30:31 revo Exp $">
+<art mrk="$Id: blank.xml,v 1.36 2013/10/12 01:10:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>blank</rad>/a <fnt><bib>PV</bib></fnt>
@@ -13,7 +13,9 @@
   <kap><ofc>*</ofc><tld/>a</kap>
   <snc>
     <dif>
-      Havanta koloron de ne&gcirc;o, eburo a&ubreve; lakto:
+      Havanta koloron de <ref cel="negx.0o">ne&gcirc;o</ref>, 
+      <ref cel="ebur.0o">eburo</ref> a&ubreve; 
+      <ref cel="lakt.0o">lakto</ref>:
       <ekz>
         lavu min, kaj mi estos pli <tld/>a ol ne&gcirc;o
         <fnt><bib>MT</bib> <lok>&Psa; 51:7</lok></fnt>.
@@ -25,6 +27,7 @@
   <trd lng="be">&c_b;&c_je;&c_l;&c_y;</trd>
   <trd lng="bg">&c_b;&c_ja;&c_l;</trd>
   <trd lng="br">gwenn</trd>
+  <trd lng="ca">blanc</trd>
   <trd lng="cs">b&iacute;l&yacute;</trd>
   <trd lng="de">wei&szlig;</trd>
   <trd lng="en">white</trd>
@@ -35,6 +38,7 @@
   <trd lng="ja">
   &#30333;&#12356; [<ind>&#12375;&#12429;&#12356;</ind>]</trd>
   <trd lng="nl">wit</trd>
+  <trd lng="oc">blanc</trd>
   <trd lng="pl">bia&lstroke;y</trd>
   <trd lng="ru">&c_b;&c_je;&c_l;&c_y;&c_j;</trd>
   <trd lng="sk">biely</trd>
@@ -52,9 +56,11 @@
   <snc>
     <dif>
       <tld lit="B"/>a
-      <ref tip="super" cel="kolor.0o.propre">koloro</ref>
+      <ref tip="lst" cel="kolor.0o.propre"
+      lst="voko:koloroj">koloro</ref>
       a&ubreve; kolorilo.
     </dif>
+    <ref tip="super" cel="kolor.sen0a">senkolora</ref>
     <trd lng="pl">biel</trd>
   </snc>
   <snc mrk="blank.0o.ludanto">
@@ -256,6 +262,12 @@
 <!--
 
 $Log: blank.xml,v $
+Revision 1.36  2013/10/12 01:10:29  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.35  2013/09/14 09:10:47  revo
+Wolfram Diestel: ref al lst koloroj, ref-oj
+
 Revision 1.34  2010/09/02 16:30:31  revo
 Jeromo Vasxe: - kramp, reord. drv, + 2 fak
 
@@ -272,12 +284,6 @@ Revision 1.30  2009/06/20 18:01:08  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.29  2008/01/18 17:30:20  revo
-Sebastian Cyprych: +drv ov~o +trd pl
-
-Revision 1.28  2007/11/30 17:30:46  revo
-Wieland Pusch: +trd bg
-
-Revision 1.27  2007/11/08 17:30:18  revo
 -->
 
 </vortaro>

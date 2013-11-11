@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nod.xml,v 1.19 2012/01/27 10:10:08 revo Exp $">
+<art mrk="$Id: nod.xml,v 1.22 2013/09/16 20:10:15 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>nod</rad>/o <fnt><bib>PV</bib></fnt>
@@ -18,6 +18,8 @@
     </refgrp>
     <trd lng="hu">csom&oacute;</trd>
     <trd lng="nl">knoop</trd>
+    <trd lng="pl">w&eogonek;ze&lstroke;</trd>
+    <trd lng="ro">nod</trd>
   </snc>
   <snc>
     <uzo tip="stl">FIG</uzo>
@@ -29,6 +31,8 @@
     </dif>
     <trd lng="hu">k&ouml;tel&eacute;k</trd>	
     <trd lng="nl">knoop</trd>
+    <trd lng="pl">w&eogonek;ze&lstroke;</trd>
+    <trd lng="ro">nod</trd>
   </snc>
   <snc>
     <dif>
@@ -60,7 +64,8 @@
   <snc mrk="nod.0o.MEZ">
     <uzo tip="fak">MAR</uzo>
     <dif>
-      <ref tip="super" cel="unu.mezur0o.SCI">Mezurunuo</ref>
+      <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:mezurunuoj">Mezurunuo</ref>
       de rapido, nombro de marmejloj trairitaj dum 1 horo
       (1 <tld/>o = 1,85 km/h):
       <ekz>
@@ -71,13 +76,17 @@
     <trd lng="es">nudo</trd>
     <trd lng="hu">csom&oacute;</trd>	
     <trd lng="nl">knoop</trd>
+    <trd lng="pl">w&eogonek;ze&lstroke;</trd>
+    <trd lng="ro">nod</trd>
   </snc>
   <trd lng="be">&c_v;&c_u;&c_z;&c_je;&c_l;</trd>
   <trd lng="de">Knoten</trd>
   <trd lng="en">knot</trd>
   <trd lng="es">nodo</trd>
   <trd lng="fr">n&oelig;ud</trd>
+  <trd lng="pl">w&eogonek;ze&lstroke;</trd>
   <trd lng="pt">n&oacute;</trd>
+  <trd lng="ro">nod</trd>
   <trd lng="ru">&c_u;&c_z;&c_je;&c_l;</trd>
 </drv>
 
@@ -149,6 +158,26 @@
   </trdgrp>
 </drv>
 
+<drv mrk="nod.gordia0o">
+  <kap>gordia <tld/>o</kap>
+  <uzo tip="stl">FRAZ</uzo>
+  <snc mrk="nod.gordia0o.MIT">
+    <dif>
+      Nesolvebla enigmo, tre malfacila problemo,
+      kiel nodego en urbo Gordio, kiun povis
+      fine disigi nur glavobato:
+      <ekz>
+        &ccirc;i tiu vidpunkto tran&ccirc;as la Gordian <tld lit="N"/>on
+        <klr>...</klr> kaj forigas multajn malfacila&jcirc;ojn
+        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 11a</lok></fnt>.
+      </ekz>
+    </dif>                           
+  </snc>
+  <trd lng="fr">n&oelig;ud gordien</trd>
+  <trd lng="pl">w&eogonek;ze&lstroke; gordyjski</trd>
+  <trd lng="ro">nodul gordian</trd>
+</drv>
+
 <drv mrk="nod.voj0o">
   <kap>voj<tld/>o</kap>
   <snc mrk="nod.voj0o.TRA">
@@ -174,10 +203,20 @@
     </refgrp>
   </snc>
   <trd lng="fr">&eacute;changeur routier</trd>
-</drv>
+  <trd lng="pl">w&eogonek;ze&lstroke; drogowy</trd>
+  </drv>
 </art>
 <!--
 $Log: nod.xml,v $
+Revision 1.22  2013/09/16 20:10:15  revo
+Vito Redsky: +trd pl, ro
+
+Revision 1.21  2013/09/15 11:10:27  revo
+Wolfram Diestel: ref al lst mezurunuoj
+
+Revision 1.20  2013/08/29 01:10:26  revo
+Jeromo Vasxe: gordia ~o
+
 Revision 1.19  2012/01/27 10:10:08  revo
 Jeromo Vasxe: + ref
 
@@ -191,14 +230,5 @@ Revision 1.16  2011/04/15 20:10:12  revo
 Nicolas Bros: +trd fr
 
 Revision 1.15  2004/06/23 16:31:32  revo
-Jozefo Horvath: +trd hu, kompletigo de trd ru klr
-
-Revision 1.14  2003/06/16 16:31:17  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.13  2003/04/04 16:30:39  revo
-Sergio Pokrovskij: +en~igxo
-
-Revision 1.12  2003/04/03 16:30:51  revo
 -->
 </vortaro>

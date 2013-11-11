@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jasmen.xml,v 1.20 2009/08/08 16:33:28 revo Exp $">
+<art mrk="$Id: jasmen.xml,v 1.22 2013/08/30 14:11:26 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>jasmen</rad>/o
@@ -12,7 +12,9 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super" cel="oleac.0oj">oleacoj</ref>
+      <ref tip="lst" cel="genr.0o"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="oleac.0oj">oleacoj</ref>
       (<trd lng="la">Jasminum</trd>),
       arbusto kun nepare plumaj folioj kaj funelformaj, blankaj
       a&ubreve; flavaj, bonodoraj floroj.
@@ -40,6 +42,12 @@
 </art>
 <!--
 $Log: jasmen.xml,v $
+Revision 1.22  2013/08/30 14:11:26  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.21  2013/08/28 13:10:18  revo
+Wolfram Diestel: referencoj al bot genroj
+
 Revision 1.20  2009/08/08 16:33:28  revo
 Russ Williams: +trd en
 
@@ -56,11 +64,5 @@ Revision 1.16  2003/04/28 16:32:12  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.15  2003/01/04 17:32:16  revo
-Viliam Bur: +trd sk
-
-Revision 1.14  2002/05/08 16:31:51  revo
-Eduardo M. Kalinowski: ald trd el, it, pt
-
-Revision 1.13  2002/05/03 16:33:55  revo
 -->
 </vortaro>

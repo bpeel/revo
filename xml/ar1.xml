@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ar1.xml,v 1.18 2009/12/09 17:30:28 revo Exp $">
+<art mrk="$Id: ar1.xml,v 1.20 2013/10/03 08:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ar</rad>/o
@@ -10,13 +10,13 @@
 </kap>
 <drv mrk="ar1.0o">
   <kap><tld/>o</kap>
+  <mlg>a</mlg>
   <snc>
     <dif>
-      Komunuza <ref tip="super" cel="unu.mezur0o">mezurunuo</ref> de
-      areo, 
-      uzata &ccirc;efe por mezuri terenon, egala al cent 
-      <ref tip="prt" cel="metr.kvadrata0o">kvadrataj metroj</ref>; simb.
-      a.
+      Komunuza <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:areoj">mezurunuo</ref> de
+      areo, uzata &ccirc;efe por mezuri terenon, egala al cent 
+      <ref tip="prt" cel="metr.kvadrata0o">kvadrataj metroj</ref>.
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_r;</trd> 
@@ -36,6 +36,12 @@
 </art>
 <!--
 $Log: ar1.xml,v $
+Revision 1.20  2013/10/03 08:10:24  revo
+Wolfram Diestel: precizigis klaso al voko:areoj
+
+Revision 1.19  2013/09/15 15:10:25  revo
+Wolfram Diestel: ref al lst mezurunuoj
+
 Revision 1.18  2009/12/09 17:30:28  revo
  Fabio Bettani: +trd it
 
@@ -52,11 +58,5 @@ Revision 1.14  2005/04/07 16:32:48  revo
 Raul Salinas Monteagudo: +trd es
 
 Revision 1.13  2003/11/10 17:31:15  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12  2002/10/29 18:01:32  revo
-Christopher Zervic: + ang
-
-Revision 1.11  2002/09/25 16:32:07  revo
 -->
 </vortaro>

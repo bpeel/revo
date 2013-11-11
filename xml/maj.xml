@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: maj.xml,v 1.32 2013/03/26 16:10:12 revo Exp $">
+<art mrk="$Id: maj.xml,v 1.33 2013/09/06 18:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>maj</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,7 +12,9 @@
   <snc mrk="maj.0o.KAL">
     <uzo tip="fak">KAL</uzo>
     <dif>
-      Kvina monato de la jaro la&ubreve; la gregoria kalendaro.
+      Kvina <ref tip="lst" cel="monat.0o.KAL"
+      lst="voko:monatoj" val="5">monato</ref>  de la <ref tip="malprt"
+      cel="jar.0o.KAL">jaro</ref> la&ubreve; la gregoria kalendaro.
     </dif>
   </snc>
   <ref tip="vid" cel="januar.0o.RIM">januaro, Rim.</ref>
@@ -49,6 +51,9 @@
 </art>
 <!--
 $Log: maj.xml,v $
+Revision 1.33  2013/09/06 18:10:18  revo
+Wolfram Diestel: ref-oj, lst monatoj, pers nomoj
+
 Revision 1.32  2013/03/26 16:10:12  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -68,8 +73,5 @@ Revision 1.27 2008/09/20 16:30:23 revo
 HIROTAKA Masaaki: +trd ja
 
 Revision 1.26 2007/01/10 17:30:30 revo
-Wieland Pusch: +trd bg
-
-Revision 1.25 2006/07/17 16:31:19 revo
 -->
 </vortaro>

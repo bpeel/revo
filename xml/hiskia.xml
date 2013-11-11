@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hiskia.xml,v 1.16 2010/10/04 16:30:30 revo Exp $">
+<art mrk="$Id: hiskia.xml,v 1.18 2013/11/02 18:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hiskiam</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,8 +12,15 @@
   <snc mrk="hiskia.0o.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      Venena vegeta&jcirc;o,
-      genro el la familio <ref tip="super"
+      Venena 
+      <ref tip="lst" cel="herb.0o" lst="voko:solanoparencoj">herbo</ref>
+      kun betoforma a&ubreve; plurkapa rizoma radiko,
+      kaj kun <ref tip="prt" cel="kapsul.0o">kapsuloj</ref>
+      kun kovrilo, ordinare tute envolvita en la urnoforma kaliko,
+      enhavantaj plurcent semojn;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el la familio <ref
+      tip="malprt"
       cel="solana.0oj">solanacoj</ref>
       (<trd lng="la">Hyoscyamus</trd>):
       <ekz>
@@ -47,6 +54,12 @@
 </art>
 <!--
 $Log: hiskia.xml,v $
+Revision 1.18  2013/11/02 18:10:13  revo
+Wolfram Diestel: prilaboris dif, ref al lst solanoparencoj
+
+Revision 1.17  2013/08/29 13:10:13  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.16  2010/10/04 16:30:30  revo
 Russ Williams: +trd en
 
@@ -63,11 +76,5 @@ Revision 1.12  2004/01/14 18:46:49  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.11  2002/07/19 17:31:04  revo
-Eduardo M. Kalinowski: ald trd el, pt
-
-Revision 1.10  2002/04/04 16:32:36  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2002/01/22 17:31:39  revo
 -->
 </vortaro>

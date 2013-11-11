@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bier.xml,v 1.28 2009/06/16 16:32:06 revo Exp $">
+<art mrk="$Id: bier.xml,v 1.29 2013/10/12 01:10:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bier</rad>/o <fnt><bib>PV</bib></fnt>
@@ -53,6 +53,7 @@
   (&mem;&shin;&qof;&he;)</klr></trd>
   <trd lng="hu">s&ouml;r</trd>
   <trd lng="nl">bier</trd>
+  <trd lng="oc">bi&egrave;rra</trd>
   <trdgrp lng="pl">
     <trd>piwo</trd>,
     <trd>browar<klr> (pot.)</klr></trd>
@@ -67,6 +68,9 @@
 <!--
 
 $Log: bier.xml,v $
+Revision 1.29  2013/10/12 01:10:30  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.28  2009/06/16 16:32:06  revo
 Behnam Tabatabai: +trd fa
 
@@ -86,9 +90,6 @@ Revision 1.23 2003/11/28 17:31:40 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.22 2003/06/02 16:30:45 revo
-
-Allon Rothfarb: +trd he
-
 -->
 
 </vortaro>

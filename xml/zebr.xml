@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: zebr.xml,v 1.25 2013/07/05 19:10:14 revo Exp $">
+<art mrk="$Id: zebr.xml,v 1.26 2013/10/19 15:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>zebr</rad>/o
@@ -13,7 +13,8 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      &Ccirc;evalsimila <ref tip="malprt" cel="mam.0uloj">mamulo</ref> (<trd 
+      &Ccirc;evalsimila <ref tip="lst" cel="huf.nepar0ulo"
+      lst="voko:neparhufuloj">neparhufulo</ref> (<trd 
 lng="la">Equus zebra</trd> kaj aliaj specioj) el la genro <ref 
 tip="super" cel="ekv.0o">ekvo</ref>, vivanta en <ref tip="malprt"
 cel="afrik.A0o">Afriko</ref> kaj kies felo 
@@ -51,6 +52,9 @@ ref="&Monato;/006047.html">Gigantoj sur
 </art>
 <!--
 $Log: zebr.xml,v $
+Revision 1.26  2013/10/19 15:10:22  revo
+Wolfram Diestel: ref al neparhufuloj
+
 Revision 1.25  2013/07/05 19:10:14  revo
 Wolfram Diestel: referencoj
 
@@ -70,8 +74,5 @@ Revision 1.20  2003/01/18 17:30:38  revo
 Miroslav Malovec: ald tr cs
 
 Revision 1.19  2002/09/22 08:14:14  revo
-Oscar Puig: + trd ca
-
-Revision 1.18  2002/09/11 16:20:20  revo
 -->
 </vortaro>

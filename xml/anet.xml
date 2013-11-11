@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: anet.xml,v 1.8 2012/07/20 08:10:25 revo Exp $">
+<art mrk="$Id: anet.xml,v 1.9 2013/08/26 08:10:27 revo Exp $">
 <kap>
   <rad>anet</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -13,8 +13,11 @@
     <dif>
       Jara herba vegeta&jcirc;o el mezvarmaj kaj varmaj landoj,
       kies folipintoj, floroj kaj semoj estas uzataj
-      kiel <ref tip="super" cel="spic.0o.KUI">spico</ref> en kuirarto,
-      genro el familio <ref tip="super" cel="apiac.0oj">apiacoj</ref>
+      kiel <ref tip="lst" cel="spic.0o.KUI"
+      lst="voko:spicoj">spico</ref> en kuirarto,
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="apiac.0oj">apiacoj</ref>
       (<trd lng="la">anethum graveolens</trd>).
     </dif>
   </snc>
@@ -36,6 +39,9 @@
 
 <!--
 $Log: anet.xml,v $
+Revision 1.9  2013/08/26 08:10:27  revo
+Wolfram Diestel: referencoj al listoj bot genroj, spicoj
+
 Revision 1.8  2012/07/20 08:10:25  revo
 Marc Rausell: + trd ca
 
@@ -55,8 +61,5 @@ Revision 1.3  2006/09/13 16:30:43  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.2  2006/09/06 15:15:50  revo
-Yury Finkel: kor dif, +trd ru
-
-Revision 1.1  2006/08/28 17:57:02  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: daux.xml,v 1.10 2012/01/02 18:10:29 revo Exp $">
+<art mrk="$Id: daux.xml,v 1.12 2013/09/24 15:10:11 revo Exp $">
 <kap>
   <rad>da&ubreve;</rad>/o
 </kap>
@@ -19,6 +19,10 @@
     </dif>
     <ref tip="sin" cel="ta.0o">tao</ref>
   </snc>
+  <trdgrp lng="bg">
+    <trd>&c_d;&c_a;&c_o;</trd>,
+    <trd>&c_t;&c_a;&c_o;</trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>dao</trd>,
     <trd>tao</trd>
@@ -50,12 +54,14 @@
     <uzo tip="fak">FIL</uzo>
     <uzo tip="fak">REL</uzo>
     <dif>
-      &Ccirc;indevena <ref tip="super" cel="religi.0o.REL">religio</ref>
+      &Ccirc;indevena <ref tip="lst" cel="religi.0o.REL"
+      lst="voko:religioj">religio</ref>
       kuniganta ekde la 2a jarcento popolajn kultojn kaj filozofiajn
       instruojn pri ne-agado, konformi&gcirc;o al naturo kaj al <tld/>o.
     </dif>
     <ref tip="sin" cel="taoism.0o">taoismo</ref>
   </snc>
+  <trd lng="bg">&c_t;&c_a;&c_o;&c_i;&c_z;&c_m;</trd>
   <trdgrp lng="ca">
     <trd>daoisme</trd>,
     <trd>taoisme</trd>
@@ -86,6 +92,7 @@
     </dif>
     <ref tip="sin" cel="taoist.0o">taoisto</ref>
   </snc>
+  <trd lng="bg">&c_t;&c_a;&c_o;&c_i;&c_s;&c_t;</trd>
   <trdgrp lng="ca">
     <trd>daoista</trd>,
     <trd>taoista</trd>
@@ -103,6 +110,12 @@
 </art>
 <!--
 $Log: daux.xml,v $
+Revision 1.12  2013/09/24 15:10:11  revo
+Joop Eggen: +trd bg
+
+Revision 1.11  2013/09/22 19:11:04  revo
+Wolfram Diestel: referenco al listo religioj
+
 Revision 1.10  2012/01/02 18:10:29  revo
 Marc Rausell: +trd ca
 
@@ -119,11 +132,5 @@ Revision 1.6  2008/10/09 16:31:06  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.5  2007/07/15 16:30:53  revo
-Tulio Flores: +tr pt
-
-Revision 1.4  2005/12/21 17:32:59  revo
-Jeromo Vasxe: kor 1 ref
-
-Revision 1.3 2004/11/17 19:24:47 revo
 -->
 </vortaro>

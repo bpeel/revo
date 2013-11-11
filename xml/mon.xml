@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mon.xml,v 1.46 2013/04/01 11:10:16 revo Exp $">
+<art mrk="$Id: mon.xml,v 1.48 2013/10/08 10:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mon</rad>/o <fnt><bib>PV</bib></fnt>
@@ -38,6 +38,7 @@
     <trd>arc'hant</trd>,
     <trd>moneiz</trd>
   </trdgrp>
+  <trd lng="ca">diners</trd>
   <trd lng="cs">pen&iacute;ze</trd>
   <trd lng="de">Geld</trd>
   <trd lng="en">money</trd>
@@ -53,6 +54,7 @@
     <trd>draf</trd>
   </trdgrp>
   <trd lng="nl">geld</trd>
+  <trd lng="oc">argent</trd>
   <trd lng="pl">pieni&aogonek;dze</trd>
   <trd lng="pt">dinheiro</trd>
   <trd lng="ro">ban</trd>
@@ -280,7 +282,8 @@
     <uzo tip="fak">EKON</uzo>
     <dif>
       Speciala
-      <ref tip="super" cel="organi2.0ajxo">organiza&jcirc;o</ref> de
+      <ref tip="lst" cel="organi2.0ajxo"
+      lst="voko:organiza&jcirc;oj">organiza&jcirc;o</ref> de
       <ref tip="malprt" cel="naci.Unuigxintaj_0oj">Unui&gcirc;intaj
       Nacioj</ref>, kiu kontrolas la internacian valutosistemon
       kaj provas ekvilibrigi la kreskadon de la monda komerco:
@@ -397,6 +400,12 @@
 </art>
 <!--
 $Log: mon.xml,v $
+Revision 1.48  2013/10/08 10:10:16  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.47  2013/09/14 16:10:26  revo
+Wolfram Diestel: IMF: ref al lst organizajhoj
+
 Revision 1.46  2013/04/01 11:10:16  revo
 Jeromo Vasxe: - ~puno jam en pun.xml, + kk trd fr
 
@@ -413,11 +422,5 @@ Revision 1.42  2009/09/13 16:56:38  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.41  2009/08/27 16:33:16  revo
-Emmanuel Debanne: +trd ku
-
-Revision 1.40  2009/08/26 16:32:02  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.39  2009/02/15 14:17:43  revo
 -->
 </vortaro>

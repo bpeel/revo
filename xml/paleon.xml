@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: paleon.xml,v 1.19 2011/03/15 14:10:08 revo Exp $">
+<art mrk="$Id: paleon.xml,v 1.21 2013/09/22 19:10:56 revo Exp $">
 <kap>
   <ofc>2</ofc><rad>paleontologi</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -13,12 +13,14 @@
     <uzo tip="fak">SCI</uzo>
     <dif>
       Bran&ccirc;o de <ref tip="malprt" cel="biolog1.0o.SCI">biologio
-      </ref>, <ref tip="super" cel="scienc.0o.fako">scienco</ref> 
+      </ref>, <ref tip="lst" cel="scienc.0o.fako" 
+      lst="voko:sciencoj">scienco</ref> 
       pri la elfositaj resta&jcirc;oj a&ubreve; postsignoj de praaj 
       bestoj kaj vegeta&jcirc;oj.
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_l;&c_je;&c_a;&c_n;&c_t;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_l;&c_je;&c_o;&c_n;&c_t;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
   <trd lng="de">Pal&auml;ontologie</trd>
   <trd lng="en">paleontology</trd>
   <trd lng="fa">&a_d;&f_y;&a_r;&f_y;&a_n;&zwnj;&a_sh;&a_n;&a_A;&a_s;&f_y;</trd>
@@ -41,6 +43,8 @@
       Fakulo pri <tld/>o.
     </dif>
   </snc>
+  <trd lng="bg">&c_p;&c_a;&c_l;&c_je;&c_o;&c_n;&c_t;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="de">Pal&auml;ontologe</trd>
   <trd lng="en">paleontologist</trd>
   <trd lng="fa">&a_d;&f_y;&a_r;&f_y;&a_n;&zwnj;&a_sh;&a_n;&a_A;&a_s;</trd>
   <trdgrp lng="fr">
@@ -56,6 +60,12 @@
 </art>
 <!--
 $Log: paleon.xml,v $
+Revision 1.21  2013/09/22 19:10:56  revo
+Wolfram Diestel: referenco al listo sciencoj
+
+Revision 1.20  2013/08/05 09:10:13  revo
+Joop Eggen: +trd bg
+
 Revision 1.19  2011/03/15 14:10:08  revo
 Russ Williams: +trd en
 
@@ -72,11 +82,5 @@ Revision 1.15  2006/07/21 18:04:11  revo
 Jeromo Vasxe: + ~isto
 
 Revision 1.14  2006/06/18 16:31:49  revo
-Jeromo Vasxe: + fak pal
-
-Revision 1.13  2006/02/24 17:34:58  revo
-Tulio Flores: +trd pt
-
-Revision 1.12  2005/08/18 16:31:57  revo
 -->
 </vortaro>

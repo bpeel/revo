@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mark2.xml,v 1.5 2009/06/21 16:31:20 revo Exp $">
+<art mrk="$Id: mark2.xml,v 1.6 2013/09/22 19:11:19 revo Exp $">
 <kap>
   <rad>mark</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -11,7 +11,8 @@
   <snc mrk="mark2.0o.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Iama <ref tip="super" cel="unu.mon0o.EKON">monunuo</ref> de 
+      Iama <ref tip="lst" cel="unu.mon0o.EKON"
+      lst="voko:monunuoj">monunuo</ref> de 
       Estonio, Finlando, Germanujo kaj aliaj:
       <ekz>
         en Bosnio kaj Hercegovino la monunuo estas bosna <tld/>o, 
@@ -50,6 +51,9 @@
 
 <!--
 $Log: mark2.xml,v $
+Revision 1.6  2013/09/22 19:11:19  revo
+Wolfram Diestel: referenco al listo monunuoj
+
 Revision 1.5  2009/06/21 16:31:20  revo
 Behnam Tabatabai: +trd fa
 

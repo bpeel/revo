@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxanaj.xml,v 1.6 2011/12/05 13:10:25 revo Exp $">
+<art mrk="$Id: sxanaj.xml,v 1.7 2013/09/08 18:10:52 revo Exp $">
 <kap>
   <rad>&scirc;anaj</rad>/o <fnt><bib>NeoGlo</bib></fnt>
 </kap>
@@ -12,7 +12,9 @@
   <snc>
     <dif>
       Nord-hinda 
-      <ref tip="super" cel="instru2.blov0o">blovinstrumento</ref>
+      <ref tip="lst"
+      cel="instru2.blov0o"
+      lst="voko:blovinstrumentoj">blovinstrumento</ref>
       el ligna, ok-trua tubo,
       provizita per kupraj klo&scirc;o kaj bu&scirc;peco,
       kun du paroj de an&ccirc;oj ligitaj al tubeto,      
@@ -39,6 +41,9 @@
 
 <!--
 $Log: sxanaj.xml,v $
+Revision 1.7  2013/09/08 18:10:52  revo
+Wolfram Diestel: ref al listo blovinstrumentoj
+
 Revision 1.6  2011/12/05 13:10:25  revo
 Marc Rausell: kataluna traduko
 

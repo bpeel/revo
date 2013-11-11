@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: link.xml,v 1.22 2013/01/01 12:10:09 revo Exp $">
+<art mrk="$Id: link.xml,v 1.25 2013/10/20 16:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>link</rad>/o
@@ -12,9 +12,14 @@
   <snc mrk="link.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Genro (<trd lng="la">Lynx</trd>) el familio <ref tip="super" 
-      cel="felise.0oj">felisedoj</ref> el Norda Azio kaj Norda Ameriko, 
-      sova&gcirc;a karnoman&gcirc;anta mamulo, kun hartufoj &ccirc;e la oreloj.
+      <ref tip="lst" cel="best.rabo0o"
+      lst="voko:rabobestoj">rabobesto</ref>,
+      kun <ref tip="prt" cel="tuf.har0o">hartufoj</ref> &ccirc;e la 
+      oreloj kaj nigra vostopinto, vivante en la norda duonsfero;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> (<trd lng="la">Lynx</trd>)
+      el familio <ref tip="malprt" 
+      cel="felise.0oj">felisedoj</ref> kun kvar vivantaj specioj.
     </dif>
   </snc>
   <bld lok="../bld/link.jpg">
@@ -45,8 +50,9 @@
   <mlg>Lyn</mlg>
   <snc>
     <dif>
-      Nord-hemisfera <ref tip="super" 
-cel="stel.0figuro">stelfiguro</ref> (<trd lng="la">Lynx</trd>).
+      Nord-hemisfera <ref tip="lst" 
+cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref> (<trd
+lng="la">Lynx</trd>).
     </dif>
   </snc>
   <trd lng="bg">&c_R;&c_i;&c_s;<klr tip="amb"> (&c_s;&c_malmol;&c_z;&c_v;&c_je;&c_z;&c_d;&c_i;&c_je;)</klr></trd>
@@ -61,6 +67,15 @@ cel="stel.0figuro">stelfiguro</ref> (<trd lng="la">Lynx</trd>).
 </art>
 <!--
 $Log: link.xml,v $
+Revision 1.25  2013/10/20 16:10:22  revo
+Wolfram Diestel: ref al lst rabobestoj, prilaboris dif
+
+Revision 1.24  2013/09/01 14:10:40  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.23  2013/08/25 08:10:35  revo
+Wolfram Diestel: referenco al listo stelfiguroj
+
 Revision 1.22  2013/01/01 12:10:09  revo
 Sebastian Cyprych: +trd pl
 
@@ -74,14 +89,5 @@ Revision 1.19  2009/09/20 16:30:56  revo
 Wieland Pusch: +trd bg
 
 Revision 1.18  2006/02/19 19:54:56  revo
-H. Neal Parker: +drv
-
-Revision 1.17  2004/08/16 16:33:24  revo
-Jeromo Vasxe: + geog en dif, + trd fr
-
-Revision 1.16 2003/05/08 16:30:46 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.15 2003/03/15 17:32:05 revo
 -->
 </vortaro>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-  <art mrk="$Id: mangx.xml,v 1.71 2013/05/29 01:10:12 revo Exp $">
+  <art mrk="$Id: mangx.xml,v 1.76 2013/11/02 11:10:19 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>man&gcirc;</rad>/i <fnt><bib>PV</bib></fnt>
@@ -759,10 +759,23 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="de">Ameisenfresser</trd>
+      <trdgrp lng="de">
+        <trd>Ameisenfresser</trd>,
+        <trd>Ameisenb&auml;r</trd>
+      </trdgrp>
       <trd lng="fr">fourmilier</trd>
       <trd lng="nl">diereneter</trd>
       <trd lng="ru">&c_m;&c_u;&c_r;&c_a;&c_v;&c_mol;&c_je;&c_d;</trd>
+    </drv>
+    
+    <drv mrk="mangx.insekto0ulo">
+      <kap>insekto<tld/>ulo</kap>
+      <snc mrk="mangx.insekto0ulo.ZOO">
+        <dif>
+          Iu el <ref tip="malprt"
+          cel="mangx.insekto0uloj">insekto<tld/>uloj</ref>.
+        </dif>
+      </snc>
     </drv>
 
     <drv mrk="mangx.insekto0uloj">
@@ -770,9 +783,10 @@
       <snc mrk="mangx.insekto0uloj.ZOO">
         <uzo tip="fak">ZOO</uzo>
         <dif>
-          Ordo el la klaso <ref tip="super"
-          cel="mam.0uloj">mamuloj</ref>
-          (<trd lng="la">Insectivora</trd>).
+          <ref tip="lst" cel="ord.0o.BIO"
+          lst="voko:zoologiaj_ordoj">Ordo</ref> 
+          el la klaso <ref tip="malprt" cel="mam.0uloj">mamuloj</ref>
+          (<trd lng="la">Eulipotyphla</trd>).
         </dif>
       </snc>
       <trd
@@ -783,6 +797,7 @@
       <trd lng="fr">insectivores</trd>
       <trd lng="hu">rovarev&odblac; eml&odblac;s&ouml;k</trd>
       <trd lng="id">insektivora</trd>
+      <trd lng="la">Insectivora</trd>
       <trd lng="nl">insecteneters</trd>
       <trd lng="pl">owado&zdot;erne</trd>
       <trd
@@ -1098,6 +1113,22 @@
   </art>
   <!--
   $Log: mangx.xml,v $
+  Revision 1.76  2013/11/02 11:10:19  revo
+  Wolfram Diestel: +insekto~ulo
+
+  Revision 1.75  2013/10/29 19:10:25  revo
+  Wolfram Diestel: kor. lst-ref
+
+  Revision 1.74  2013/10/19 15:10:19  revo
+  Wolfram Diestel: kor. ref-tip
+
+  Revision 1.73  2013/09/01 10:10:17  revo
+  Wolfram Diestel: formik~ulo: +germ trd
+
+  Revision 1.72  2013/08/31 19:10:22  revo
+  Wolfram Diestel: insekto~uloj: referencoj al listo zoo ordoj,
+  aktualigita trd la
+
   Revision 1.71  2013/05/29 01:10:12  revo
   Norbert Luckhardt: ~ilo: +trd (de), ~ilaro: +klr trd (de)
 

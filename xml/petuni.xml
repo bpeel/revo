@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: petuni.xml,v 1.1 2013/11/02 18:10:19 revo Exp $">
+<kap>
+    <rad>petuni</rad>/o <fnt><bib>Viki</bib></fnt>
+</kap>
+<drv mrk="petuni.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="petuni.0o.SNC">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref>
+      el familio <ref tip="malprt" cel="solana.0oj">solanacoj</ref>
+      (<trd lng="la">Petunia</trd>), 
+      <ref tip="lst" cel="plant.floro0o" 
+      lst="voko:solanoparencoj">floroplanto</ref>
+      uzata pro ornami 
+      <ref tip="malprt" cel="balkon.0o">balkonojn</ref>.
+    </dif>
+  </snc>
+  <trd lng="de">Petunie</trd>
+</drv>
+</art>
+
+<!--
+$Log: petuni.xml,v $
+Revision 1.1  2013/11/02 18:10:19  revo
+Wolfram Diestel: nova artikolo
+
+-->
+</vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hungar.xml,v 1.20 2010/10/26 16:31:40 revo Exp $">
+<art mrk="$Id: hungar.xml,v 1.21 2013/08/25 10:10:13 revo Exp $">
 <kap><ofc>8</ofc><rad>hungar</rad>/o</kap>
 <drv mrk="hungar.0o">
    <kap><tld/>o</kap>
@@ -22,7 +22,8 @@
    </snc>
    <snc mrk="hungar.0o.naciano">
      <dif>
-       Homo kun <tld/>a nacieco:
+       Homo kun <tld/>a <ref tip="lst" cel="naci.0eco"
+       lst="voko:popolanoj">nacieco</ref>:
        <ekz>
          sufi&ccirc;as mencii la situacion de <tld/>oj en Rumanio,
          poloj en &Ccirc;e&hcirc;io, ukrainoj en Pollando ktp.
@@ -120,7 +121,8 @@
    <fnt><bib>ZR</bib></fnt>
    <snc>
      <dif>
-       <ref tip="super" cel="sxtat.0o">&Scirc;tato</ref> situanta
+       <ref tip="lst" cel="sxtat.0o" lst="voko:&scirc;tatoj">&Scirc;tato</ref>
+       situanta
        en meza <ref tip="malprt" cel="euxrop1.E0o">E&ubreve;ropo</ref>
        kaj limanta oriente al Ukrainujo kaj Rumanujo, okcidente al
        A&ubreve;strujo, norde
@@ -148,6 +150,9 @@
 </art>
 <!--
 $Log: hungar.xml,v $
+Revision 1.21  2013/08/25 10:10:13  revo
+Wolfram Diestel: referencoj
+
 Revision 1.20  2010/10/26 16:31:40  revo
 Russ Williams: +8OA
 
@@ -167,8 +172,5 @@ Revision 1.15  2009/04/29 16:31:50  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.14  2005/10/17 16:31:58  revo
-Luiz Portella: +trd pt
-
-Revision 1.13  2005/06/26 16:34:00  revo
 -->
 </vortaro>

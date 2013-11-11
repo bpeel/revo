@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: epok.xml,v 1.24 2011/12/13 03:10:08 revo Exp $">
+<art mrk="$Id: epok.xml,v 1.27 2013/10/06 16:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>epok</rad>/o <fnt><bib>PV</bib></fnt>
@@ -105,7 +105,10 @@
   <snc mrk="epok.glaci0o.PRA">
     <uzo tip="fak">PRA</uzo>
     <dif>
-      Iu el la longaj <tld/>oj de malvarma klimato en la historio de la
+      Iu el la longaj <ref tip="lst" cel="epok.0o.periodo"
+      lst="voko:geologiaj_epokoj" val="-2600000"><tld/>oj</ref> de
+      malvarma klimato en
+      la historio de la
       tero:
       <ekz>
         en iu poemo de William AULD oni povas legi: Glaci<tld/>o
@@ -139,13 +142,23 @@
   <trd lng="es">era glacial</trd>
 </drv>
 
+<drv mrk="epok.malnov0o">
+  <kap>malnov<tld/>o</kap>
+  <uzo tip="fak">HIS</uzo>
+  <snc mrk="epok.malnov0o.antikvo">
+    <ref tip="dif" cel="antikv.0o">antikvo</ref>
+  </snc>
+</drv>
+
 <drv mrk="epok.sxton0o">
   <kap>&scirc;ton<tld/>o</kap>
   <snc mrk="epok.sxton0o.PRA">
     <uzo tip="fak">ARKE</uzo>
     <uzo tip="fak">PRA</uzo>
     <dif>
-      La plej antikva parto de la homa historio, kiam la iloj
+      La plej antikva parto de la homa <ref tip="lst"
+      cel="histor.0o.SCI" lst="voko:historiaj_epokoj">historio</ref>,
+      kiam la iloj
       estis farataj nur el &scirc;tono, ligno kaj ostoj:
       <ekz>
         la tempo, kiam la &scirc;ton<tld/>o sin tiris al fino
@@ -172,7 +185,8 @@
     <uzo tip="fak">ARKE</uzo>
     <uzo tip="fak">PRA</uzo>
     <dif>
-      Tiu antikva parto de la homa historio, kiam disvasti&gcirc;is
+      Tiu antikva parto de la homa <ref tip="lst" cel="histor.0o.SCI"
+      lst="voko:historiaj_epokoj">historio</ref>, kiam disvasti&gcirc;is
       la iloj faritaj el kupro:
       <ekz>
         la kupr<tld/>o situas inter &scirc;ton<tld/>o kaj bronz<tld/>o.
@@ -194,7 +208,8 @@
     <uzo tip="fak">ARKE</uzo>
     <uzo tip="fak">PRA</uzo>
     <dif>
-      Tiu antikva parto de la homa historio, kiam disvasti&gcirc;is
+      Tiu antikva parto de la homa <ref tip="lst" cel="histor.0o.SCI"
+      lst="voko:historiaj_epokoj">historio</ref>, kiam disvasti&gcirc;is
       la iloj faritaj el bronzo:
       <ekz>
         la bronz<tld/>o situas inter kupr<tld/>o kaj fer<tld/>o.
@@ -217,7 +232,8 @@
     <uzo tip="fak">ARKE</uzo>
     <uzo tip="fak">PRA</uzo>
     <dif>
-      Tiu parto de la homa historio, kiam disvasti&gcirc;is
+      Tiu parto de la homa <ref tip="lst" cel="histor.0o.SCI"
+      lst="voko:historiaj_epokoj">historio</ref>, kiam disvasti&gcirc;is
       la iloj faritaj el fero:
       <ekz>
         la fer<tld/>o venis post la bronz<tld/>o.
@@ -239,7 +255,9 @@
   <snc mrk="epok.mez0o.HIS">
     <uzo tip="fak">HIS</uzo>
     <dif>
-      En la e&ubreve;ropa historio, la periodo ekde la falo de la Okcidenta
+      En la e&ubreve;ropa <ref tip="lst" cel="histor.0o.okazajxoj"
+      lst="voko:historiaj_epokoj">historio</ref>, la periodo ekde la
+      falo de la Okcidenta
       Romio &gcirc;is la pereo de Bizancio (do, proksimume la jarmilo
       inter la jaroj 476a &ndash; 1453a).
     </dif>
@@ -348,6 +366,15 @@
 </art>
 <!--
 $Log: epok.xml,v $
+Revision 1.27  2013/10/06 16:10:12  revo
+Wolfram Diestel: +malnov~o
+
+Revision 1.26  2013/10/03 18:10:14  revo
+Wolfram Diestel: val
+
+Revision 1.25  2013/08/23 12:10:12  revo
+Wolfram Diestel: +referencoj al listoj
+
 Revision 1.24  2011/12/13 03:10:08  revo
 Eduardo Navas: +trad es, +divido de la difino de orepoko
 
@@ -361,14 +388,5 @@ Revision 1.21 2007/06/29 16:30:15 revo
 Tulio Flores: =tr pt, sxangxo en difino
 
 Revision 1.20 2006/06/08 16:31:19 revo
-Sergio Pokrovskij: kunfandis la du mez~ojn (+trd el mez...)
-
-Revision 1.19 2006/06/05 16:41:07 revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.18 2005/09/01 16:31:06 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.17 2005/08/25 16:33:37 revo
 -->
 </vortaro>

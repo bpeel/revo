@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fistul.xml,v 1.12 2007/06/01 16:31:10 revo Exp $">
+<art mrk="$Id: fistul.xml,v 1.14 2013/10/09 19:10:50 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>fistul</rad>/o
@@ -12,13 +12,16 @@
   <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
-      Da&ubreve;ra absceso kun konstante fluanta puskanaleto.  
+      Da&ubreve;ra <ref tip="lst" cel="absces.0o"
+      lst="voko:malsanoj">absceso</ref> kun konstante fluanta
+      puskanaleto.  
     </dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_mol;&c_v;&c_ib;&c_sh;&c_ch;</trd>,
     <trd>&c_f;&c_ib;&c_s;&c_t;&c_u;&c_l;&c_a;</trd>
   </trdgrp>
+  <trd lng="bg">&c_f;&c_i;&c_s;&c_t;&c_u;&c_l;&c_a;</trd>
   <trd lng="ca">f&iacute;stula</trd>
   <trd lng="de">Fistel</trd>
   <trd lng="es">f&iacute;stula</trd>
@@ -29,7 +32,7 @@
   </trdgrp>
   <trd lng="la">fistula</trd>
   <trd lng="nl">fistel</trd>
-  <trd lng="pt">f&#237;stula</trd>
+  <trd lng="pt">f&iacute;stula</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_v;&c_i;&c_shch;</trd>,
     <trd>&c_f;&c_i;&c_s;&c_t;&c_u;&c_l;&c_a;</trd>
@@ -38,6 +41,12 @@
 </art>
 <!--
 $Log: fistul.xml,v $
+Revision 1.14  2013/10/09 19:10:50  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.13  2013/08/20 16:10:11  revo
+Joop Eggen: +trd bg
+
 Revision 1.12  2007/06/01 16:31:10  revo
 Tulio Flores: +tr pt
 
@@ -54,12 +63,5 @@ Revision 1.8  2002/10/11 16:33:32  revo
 Paul Peeraerts: +trd nl+la
 
 Revision 1.7  2001/08/23 18:48:51  revo
-Marc Bavant: +trd fr, +uzo MED
-
-Revision 1.6  2001/07/09 18:17:29  revo
-Ulrich Fellmann: + germ trd
-
-Revision 1.5  2001/05/04 16:11:45  revo
 -->
 </vortaro>
-

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: feniko.xml,v 1.18 2010/04/14 16:30:21 revo Exp $">
+<art mrk="$Id: feniko.xml,v 1.20 2013/09/01 14:10:43 revo Exp $">
 <kap>
   <rad>fenikopter</rad>/o
   <fnt>Z</fnt>
@@ -15,7 +15,9 @@
     <dif>
       Granda longakrura birdo kun rozkoloraj kaj ru&gcirc;aj plumoj,
       ofte staranta sur nur unu piedo,
-      genro el <ref tip="super" cel="feniko1.0oj"><tld/>edoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el <ref tip="malprt"
+      cel="feniko1.0oj"><tld/>edoj</ref>
       (<trd lng="la">Phoenicopterus</trd>).
     </dif>
   </snc>
@@ -49,10 +51,13 @@
   <snc mrk="feniko.0oformaj.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Ordo el la klaso <ref tip="super" cel="bird.0oj">birdoj</ref>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> el la klaso <ref
+      tip="malprt" cel="bird.0oj">birdoj</ref>
       (<trd lng="la">Phoenicopteriformes</trd>).
     </dif>
   </snc>
+  <trd lng="de">Flamingov&ouml;gel</trd>
   <trd lng="fr">ph&oelig;nicopt&eacute;riformes</trd>
   <trd lng="hu">flaming&oacute;alak&uacute;ak</trd>
   <trd lng="ru">&c_f;&c_l;&c_a;&c_m;&c_i;&c_n;&c_g;&c_o;<klr tip="amb">
@@ -61,6 +66,12 @@
 </art>
 <!--
 $Log: feniko.xml,v $
+Revision 1.20  2013/09/01 14:10:43  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.19  2013/08/31 17:10:22  revo
+Wolfram Diestel: ~oformaj: referenco al listo zoo ordoj
+
 Revision 1.18  2010/04/14 16:30:21  revo
 Sebastian Cyprych: egal. trd fenikoptero k. flamengo
 
@@ -77,11 +88,5 @@ Revision 1.14  2003/10/20 17:53:06  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.13  2003/08/25 16:31:01  revo
-Yury Finkel: +trd ru
-
-Revision 1.12  2003/03/16 19:30:22  revo
-Miroslav Malovec: korekt cs
-
-Revision 1.11  2002/02/13 17:31:37  revo
 -->
 </vortaro>

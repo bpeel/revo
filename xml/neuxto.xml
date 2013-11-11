@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: neuxto.xml,v 1.16 2012/10/02 07:10:09 revo Exp $">
+<art mrk="$Id: neuxto.xml,v 1.18 2013/09/14 16:10:31 revo Exp $">
 <kap>
   <rad>Ne&ubreve;ton</rad>/o
 </kap>
@@ -12,13 +12,17 @@
   <fnt><bib>PIV1</bib></fnt>
   <snc>
     <dif>
-      Anglalingve: Isaac <trd lng="en">Newton</trd>, 1643-1727.
-      Angla fizikisto kaj astronomo.
+      Anglalingve:  <trd lng="en">Newton <klr
+      tip="amb">(Isaac)</klr></trd>, 
+      1643-1727,
+      angla <ref tip="lst" cel="fizik.0isto"
+      lst="voko:historiaj_personoj">fizikisto</ref> kaj astronomo.
     </dif>
   </snc>
   <trd lng="be">&c_N;&c_mol;&c_ju;&c_t;&c_a;&c_n;</trd>
+  <trd lng="bg">&c_I;&c_s;&c_a;&c_k; <ind>&c_N;&c_ju;&c_t;&c_o;&c_n;</ind></trd>
   <trd lng="de">Newton</trd>
-    <trd lng="es">Newton</trd>
+  <trd lng="es">Newton</trd>
   <trd lng="fr">Newton</trd>
   <trd lng="hu">Newton</trd>
   <trd lng="it">Newton</trd>
@@ -33,12 +37,13 @@
   <kap><tld lit="n"/>o</kap>
   <uzo tip="fak">FIZ</uzo>
   <fnt><bib>PIV1</bib></fnt>
+  <mlg kod="SI">N</mlg>
   <snc>
     <dif>
-      <ref tip="super" cel="unu.mezur0o">Mezurunuo</ref> de
+      <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:mezurunuoj">Mezurunuo</ref> de
       <ref cel="fort.0o.FIZ">forto</ref> en la Internacia Sistemo de
-      unuoj;
-      simb. N:
+      unuoj:
       <ekz>
         unu <tld lit="n"/>o egalas al la forto, kiu aplikate al korpo
         kun maso
@@ -47,6 +52,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_n;&c_mol;&c_ju;&c_t;&c_a;&c_n;</trd>
+    <trd lng="bg">&c_n;&c_ju;&c_t;&c_o;&c_n;</trd>
     <trd lng="ca">newton</trd>
     <trd lng="de">Newton</trd>
     <trdgrp lng="es">
@@ -74,6 +80,12 @@
 </art>
 <!--
 $Log: neuxto.xml,v $
+Revision 1.18  2013/09/14 16:10:31  revo
+Wolfram Diestel: ref al lst mezurunuoj, historiaj  personoj
+
+Revision 1.17  2013/08/01 12:10:11  revo
+Joop Eggen: +trd bg
+
 Revision 1.16  2012/10/02 07:10:09  revo
 Sebastian Cyprych: +trd pl
 
@@ -90,11 +102,5 @@ Revision 1.12  2009/10/15 16:31:30  revo
 Paul Peeraerts: +nl
 
 Revision 1.11  2006/06/18 16:33:19  revo
-Tulio Flores: +tr pt
-
-Revision 1.10  2005/04/14 16:34:29  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.9  2004/08/12 16:31:45  revo
 -->
 </vortaro>

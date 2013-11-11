@@ -2,14 +2,16 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
  
 <vortaro>
-<art mrk="$Id: limaed.xml,v 1.3 2002/07/05 17:34:00 revo Exp $">
+<art mrk="$Id: limaed.xml,v 1.5 2013/08/31 19:10:14 revo Exp $">
 <kap><rad>limaed</rad>/oj</kap>
 <drv mrk="limaed.0oj">
   <kap><tld/>oj</kap>
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Familio el la ordo <ref tip="super" cel="brank.faden0uloj">fadenbrankuloj</ref>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:zoologiaj_familioj">Familio</ref> de <ref
+      tip="malprt" cel="valv.du0uloj">duvalvuloj</ref>
       (<trd lng="la">Limidae</trd>).
     </dif>
   </snc>
@@ -24,6 +26,12 @@
 
 <!--
 $Log: limaed.xml,v $
+Revision 1.5  2013/08/31 19:10:14  revo
+Wolfram Diestel: aktualigis dif
+
+Revision 1.4  2013/08/31 16:10:29  revo
+Wolfram Diestel: referenco al listo zoo familioj
+
 Revision 1.3  2002/07/05 17:34:00  revo
 Jozefo Horvath: +trd hu
 
@@ -32,4 +40,3 @@ Paul Peeraerts: ald trd nl
 
 -->
 </vortaro>
-

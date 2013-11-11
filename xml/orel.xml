@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: orel.xml,v 1.29 2012/02/18 01:10:13 revo Exp $">
+<art mrk="$Id: orel.xml,v 1.31 2013/10/09 19:11:43 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>orel</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -98,6 +98,7 @@
   <trd lng="hu">f&uuml;l</trd>
   <trd lng="it">orecchio</trd>
   <trd lng="nl">oor</trd>
+  <trd lng="oc">aurelha</trd>
   <trd lng="pl">ucho</trd>
   <trd lng="ru">&c_u;&c_h;&c_o;</trd>
   <trd lng="sv">&ouml;ra</trd>
@@ -139,13 +140,24 @@
       &Gcirc;ena elorela bruo kiun iuj personoj povas a&ubreve;de percepti kaj kiu
       ne devenas de ekstera &ccirc;irka&ubreve;anta sono.
     </dif>
+    <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
   </snc>
+  <trdgrp lng="de">
+    <trd>Tinnitus</trd>,
+    <trd>Ohrger&auml;usch</trd>
+  </trdgrp>
   <trd lng="fr">acouph&egrave;ne</trd>
   <trd lng="it">acufene</trd>
 </drv>
 </art>
 <!--
 $Log: orel.xml,v $
+Revision 1.31  2013/10/09 19:11:43  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.30  2013/10/08 19:10:23  revo
+Benito Subejrano: + trd oc
+
 Revision 1.29  2012/02/18 01:10:13  revo
 Eduardo Iriarte Gahete: +trd +mankantan <ind>-etikedon
 
@@ -162,11 +174,5 @@ Revision 1.25 2008/01/05 17:30:23 revo
 Wieland Pusch: +trd bg
 
 Revision 1.24 2006/01/12 21:53:00 revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.23 2005/05/29 18:41:24 revo
-Alan ar Gall: +trd br, +2 trd fr
-
-Revision 1.22 2005/03/28 17:17:08 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vintr.xml,v 1.23 2012/08/13 10:10:22 revo Exp $">
+<art mrk="$Id: vintr.xml,v 1.25 2013/09/23 07:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vintr</rad>/o
@@ -13,7 +13,9 @@
   <snc mrk="vintr.0o.KAL">
     <uzo tip="fak">KAL</uzo>
     <dif>
-      Malvarma sezono, post a&ubreve;tuno, anta&ubreve; printempo 
+      Malvarma <ref tip="lst" cel="sezon.0o.KAL"
+      lst="voko:sezonoj" val="4">sezono</ref>, post a&ubreve;tuno, anta&ubreve;
+      printempo 
 (la&ubreve; la gregoria
       kalendaro en la norda hemisfero de proksimume la 21a tago de
       decembro &gcirc;is la 21a de marto; en la suda de proksimume la 21a de
@@ -120,6 +122,12 @@ lng="el">&chi;&epsilon;&jota;&my;&omega_ton;&ny;&alfa;&sigma_fina;</trd>
 </art>
 <!--
 $Log: vintr.xml,v $
+Revision 1.25  2013/09/23 07:10:24  revo
+Wolfram Diestel: +val
+
+Revision 1.24  2013/08/25 18:10:23  revo
+Wolfram Diestel: referenco al list sezonoj
+
 Revision 1.23  2012/08/13 10:10:22  revo
 Marc Rausell: + trd ca
 
@@ -136,11 +144,5 @@ Revision 1.19  2005/11/04 17:31:19  revo
 Jeromo Vasxe: + ~a, ~o + fak kal, ~i/tra~i disig. + ekz.
 
 Revision 1.18 2003/10/24 16:31:01 revo
-Zmicier Lapcionak: kor trd be
-
-Revision 1.17 2003/03/10 17:32:42 revo
-Ulrich Fellmann: + 1 trd=vo
-
-Revision 1.16 2002/07/27 19:01:45 revo
 -->
 </vortaro>

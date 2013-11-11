@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: talp.xml,v 1.21 2013/07/05 19:10:18 revo Exp $">
+<art mrk="$Id: talp.xml,v 1.24 2013/10/21 19:10:25 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>talp</rad>/o
@@ -12,10 +12,12 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      <ref tip="super" cel="genr.0o.BIO">Genro</ref> el familio 
+      Subtere vivanta <ref tip="lst" cel="mangx.insekto0ulo"
+      lst="voko:insektoman&gcirc;uloj">insektoman&gcirc;ulo</ref>
+      kun velureca felo; <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio 
       <ref tip="malprt" cel="talped.0oj"><tld/>edoj</ref>
-      (<trd lng="la">Talpa</trd>), subtere vivanta insektoman&gcirc;ulo
-      kun velureca felo:
+      (<trd lng="la">Talpa</trd>):
       <ekz>
         <ref cel="blind.0a">blinda</ref> kiel <tld/>o.
       </ekz>
@@ -38,6 +40,15 @@
 </art>
 <!--
 $Log: talp.xml,v $
+Revision 1.24  2013/10/21 19:10:25  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.23  2013/10/20 14:10:14  revo
+Wolfram Diestel: ref al lst insektomanghuloj
+
+Revision 1.22  2013/09/05 18:10:34  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.21  2013/07/05 19:10:18  revo
 Wolfram Diestel: referencoj
 
@@ -51,14 +62,5 @@ Revision 1.18  2006/02/03 17:33:15  revo
 Tulio Flores: +trd pt
 
 Revision 1.17  2002/07/12 17:32:30  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.16  2002/04/04 16:33:10  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.15  2002/03/01 17:35:02  revo
-Yury Finkel: +trd ru
-
-Revision 1.14 2001/07/27 19:32:11 revo
 -->
 </vortaro>

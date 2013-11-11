@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kunikl.xml,v 1.20 2013/07/05 19:10:20 revo Exp $">
+<art mrk="$Id: kunikl.xml,v 1.23 2013/10/19 15:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kunikl</rad>/o
@@ -15,11 +15,13 @@
   <uzo tip="fak">ZOO</uzo>
   <snc mrk="kunikl.0o.ZOO">
     <dif>
-      <ref tip="super" cel="genr.0o.BIO">Genro</ref> el familio 
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio 
       <ref tip="malprt" cel="lepore.0oj">leporedoj</ref>
       (<trd lng="la">Oryctolagus</trd>), kun pli mallongaj 
       postaj kruroj, kaj bredata pro karno kaj felo.
     </dif>
+    <ref tip="lst" cel="lepor.0uloj" lst="voko:leporuloj">leporulo</ref>
   </snc>
   <trdgrp lng="be">
     <trd>&c_t;&c_r;&c_u;&c_s;</trd>,
@@ -43,6 +45,15 @@
 </art>
 <!--
 $Log: kunikl.xml,v $
+Revision 1.23  2013/10/19 15:10:26  revo
+Wolfram Diestel: ref al leporuloj, prilaboris dif
+
+Revision 1.22  2013/09/08 19:10:51  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.21  2013/09/01 15:46:26  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.20  2013/07/05 19:10:20  revo
 Wolfram Diestel: referencoj
 
@@ -56,14 +67,5 @@ Revision 1.17  2008/01/07 17:30:22  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.16  2005/04/21 17:18:26  revo
-Alan ar Gall: +trd br
-
-Revision 1.15  2004/12/04 20:22:41  revo
-Marco Trevisan Herraz: +trd hi
-
-Revision 1.14  2004/02/11 19:21:18  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.13  2002/07/04 19:11:12  revo
 -->
 </vortaro>

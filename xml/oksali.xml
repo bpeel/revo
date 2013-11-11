@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: oksali.xml,v 1.17 2011/12/06 17:10:14 revo Exp $">
+<art mrk="$Id: oksali.xml,v 1.19 2013/08/30 15:10:19 revo Exp $">
 <kap>
   <rad>oksalid</rad>/o
 </kap>
@@ -11,8 +11,10 @@
   <uzo tip="fak">BOT</uzo>
   <snc mrk="oksali.0o.BOT">
     <dif>
-      Genro de herboj kreskantaj en malsekaj lokoj, el familio <ref
-      tip="super" cel="oksali1.0oj"><tld/>acoj</ref> (<trd
+      <ref tip="lst" cel="genr.0o"
+      lst="voko:botanikaj_genroj">Genro</ref> 
+      de herboj kreskantaj en malsekaj lokoj, el familio <ref
+      tip="malprt" cel="oksali1.0oj"><tld/>acoj</ref> (<trd
       lng="la">Oxalis</trd>).
     </dif>
     <refgrp tip="vid">
@@ -34,6 +36,12 @@
 </art>
 <!--
 $Log: oksali.xml,v $
+Revision 1.19  2013/08/30 15:10:19  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.18  2013/08/28 13:10:15  revo
+Wolfram Diestel: referencoj al bot genroj
+
 Revision 1.17  2011/12/06 17:10:14  revo
 Marc Rausell: kataluna traduko
 
@@ -50,11 +58,5 @@ Revision 1.13 2003/07/29 16:30:35 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.12 2002/06/01 05:59:43 revo
-Eduardo M. Kalinowski: ald trd pt
-
-Revision 1.11 2001/12/04 17:31:44 revo
-Yury Finkel: +trd ru
-
-Revision 1.10 2001/10/24 18:25:40 revo
 -->
 </vortaro>

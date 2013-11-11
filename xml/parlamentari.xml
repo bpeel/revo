@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: parlamentari.xml,v 1.8 2011/12/06 20:10:12 revo Exp $">
+<art mrk="$Id: parlamentari.xml,v 1.9 2013/08/08 17:10:14 revo Exp $">
 <kap>
 <rad>parlamentari</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -39,7 +39,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_n;&c_i;&c_k;</trd>
   <trd lng="ca">parlamentari</trd>
+  <trd lng="en">negotiator</trd>
   <trd lng="fr">parlementaire<klr> (subst.)</klr></trd>
   <trd lng="it">parlamentare<klr> (di una trattativa)</klr></trd>
   <trd lng="nl">parlamentari&euml;r</trd>
@@ -49,6 +51,9 @@
 </art>
 <!--
 $Log: parlamentari.xml,v $
+Revision 1.9  2013/08/08 17:10:14  revo
+Joop Eggen: +trd bg
+
 Revision 1.8  2011/12/06 20:10:12  revo
 Marc Rausell: kataluna traduko
 
@@ -68,8 +73,5 @@ Revision 1.3  2006/04/25 16:32:43  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.2  2006/04/11 16:31:59  revo
-Tulio Flores: +tr pt
-
-Revision 1.1  2006/04/09 17:52:40  revo
 -->
 </vortaro>

@@ -2,19 +2,20 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rodi.xml,v 1.10 2010/10/25 16:31:08 revo Exp $">
+<art mrk="$Id: rodi.xml,v 1.12 2013/09/15 19:10:25 revo Exp $">
 <kap>
   <rad>rodi</rad>/o
 </kap>
 <drv mrk="rodi.0o">
   <kap><tld/>o</kap>
-  <mlg>Rh</mlg>
+  <mlg kod="IUPAC">Rh</mlg>
   <uzo tip="fak">KEM</uzo>
   <snc>
     <dif>
-      &Hcirc;emia <ref tip="super" cel="elemen.0o.KEM">elemento</ref> kun
-      atomnumero 45, atompezo 102,905, simbolo <frm>Rh</frm>. 
-      Transir<ref tip="super" cel="metal.0o">metalo</ref>.
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+      lst="voko:&hcirc;emiaj_elementoj" val="45">elemento</ref> kun
+      atomnumero 45, atompezo 102,905;
+      transir<ref tip="super" cel="metal.0o">metalo</ref>.
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_o;&c_d;&c_y;&c_j;</trd>  
@@ -35,6 +36,12 @@
 </art>
 <!--
 $Log: rodi.xml,v $
+Revision 1.12  2013/09/15 19:10:25  revo
+Wolfram Diestel: simb. laux IUPAC, val
+
+Revision 1.11  2013/08/25 07:10:53  revo
+Wolfram Diestel: referenco al listo elementoj
+
 Revision 1.10  2010/10/25 16:31:08  revo
 Jerano Zachrisson: +trd sv
 
@@ -51,11 +58,5 @@ Revision 1.6  2003/08/17 17:32:50  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.5  2002/03/11 17:34:04  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.4  2002/01/31 17:32:05  revo
-Yury Finkel: +trd ru
-
-Revision 1.3 2001/09/27 18:16:03 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: adsorb.xml,v 1.7 2011/10/05 16:10:17 revo Exp $">
+<art mrk="$Id: adsorb.xml,v 1.8 2013/11/07 02:10:25 revo Exp $">
 <kap>
   <rad>adsorb</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -34,6 +34,7 @@
   <trd lng="fr">adsorber</trd>
   <trd lng="it">assorbire<klr> (impregnarsi)</klr></trd>
   <trd lng="nl">adsorberen</trd>
+  <trd lng="pl">osadza&cacute;</trd>
   <trd lng="sv">adsorbera</trd>
 </drv>
 
@@ -61,12 +62,16 @@
   <trd lng="fr">adsorption</trd>
   <trd lng="it">assorbimento<klr> (impregnarsi)</klr></trd>
   <trd lng="nl">adsorptie</trd>
+  <trd lng="pl">osad</trd>
   <trd lng="sv">adsorption</trd>
 </drv>
 </art>
 
 <!--
 $Log: adsorb.xml,v $
+Revision 1.8  2013/11/07 02:10:25  revo
+Vito Redsky: +trd  pl
+
 Revision 1.7  2011/10/05 16:10:17  revo
 Antonio Codazzi: +trd it
 
@@ -86,7 +91,5 @@ Revision 1.2  2009/09/26 16:31:35  revo
 Wieland Pusch: viki url
 
 Revision 1.1  2009/09/23 17:25:30  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lihxtensxtejn.xml,v 1.7 2013/02/12 02:10:28 revo Exp $">
+<art mrk="$Id: lihxtensxtejn.xml,v 1.8 2013/08/25 10:10:15 revo Exp $">
 <kap>
   <rad>Li&hcirc;ten&scirc;tejn</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -11,7 +11,8 @@
   <snc mrk="lihxtensxtejn.L0o.GEOG">
     <uzo tip="fak">GEOG</uzo>
     <dif>
-      Tre malgranda <ref tip="super" cel="sxtat.0o">&scirc;tato</ref> 
+      Tre malgranda <ref tip="lst" cel="sxtat.0o"
+      lst="voko:&scirc;tatoj">&scirc;tato</ref> 
       en <ref tip="malprt" cel="euxrop1.E0o.geog">E&ubreve;ropo</ref> inter 
       Svisujo kaj A&ubreve;strujo:
       <ekz>
@@ -35,6 +36,9 @@
 </art>
 <!--
 $Log: lihxtensxtejn.xml,v $
+Revision 1.8  2013/08/25 10:10:15  revo
+Wolfram Diestel: referencoj al listo sxtatoj
+
 Revision 1.7  2013/02/12 02:10:28  revo
 Evandro Avellar: Tr+ pt
 
@@ -54,7 +58,5 @@ Revision 1.2 2008/03/29 17:30:16 revo
 jxeromo vasxe: kor mrk, + dif, + trd fr
 
 Revision 1.1 2008/02/01 17:30:27 revo
-Wieland Pusch: nova artikolo
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: artik.xml,v 1.37 2012/10/20 00:10:09 revo Exp $">
+<art mrk="$Id: artik.xml,v 1.39 2013/09/01 10:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>artik</rad>/o <fnt><bib>PV</bib></fnt>
@@ -134,15 +134,17 @@
   <snc mrk="artik.0uloj.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      <ref tip="super" cel="verteb.sen0uloj">Senvertebraj 
+      <ref tip="malprt" cel="verteb.sen0uloj">Senvertebraj 
       animaloj</ref>, kies korpo konsistas el ringoformaj 
       segmentoj kaj kies membroj havas plurajn 
-      <ref tip="super" cel="artik.0o.ANA">artikojn</ref>, 
-      ekzemple <ref tip="vid" cel="krust.0uloj">krustuloj</ref>, 
-      <ref tip="vid" cel="arane.0uloj">araneuloj</ref>, 
-      <ref tip="vid" cel="miriap.0oj.ZOO">miriapodoj</ref> 
-      kaj <ref tip="vid" cel="insekt.0oj">insektoj</ref>;
-      filumo de la <ref tip="super" cel="best.0oj">bestoj</ref>
+      <ref tip="prt" cel="artik.0o.ANA">artikojn</ref>, 
+      ekzemple <ref tip="prt" cel="krust.0uloj">krustuloj</ref>, 
+      <ref tip="prt" cel="arane.0uloj">araneuloj</ref>, 
+      <ref tip="prt" cel="miriap.0oj.ZOO">miriapodoj</ref> 
+      kaj <ref tip="prt" cel="insekt.0oj">insektoj</ref>;
+      <ref tip="lst" cel="filum.0o"
+      lst="voko:zoologiaj_grupoj">filumo</ref> 
+      de la <ref tip="malprt" cel="best.0oj">bestoj</ref>
       (<trd lng="la">Arthropoda</trd>);
       <ref tip="sin" cel="artropod.0o.ZOO">artropodoj</ref>:
       <ekz>
@@ -230,10 +232,18 @@
   <snc mrk="artik.krom0uloj.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Ordo el la klaso <ref tip="super" cel="mam.0uloj">mamuloj</ref>
-      (<trd lng="la">Xenarthra</trd>), kun kromaj artikoj &ccirc;e la
-      brustaj kaj lumbaj vertebroj.
+      <ref tip="lst" cel="grup.0o.BIO"
+      lst="voko:zoologiaj_grupoj">Grupo</ref>  
+      de <ref tip="malprt" cel="mam.0uloj">mamuloj</ref>
+      (<trd lng="la">Xenarthra</trd>) kun kromaj artikoj &ccirc;e la
+      brustaj kaj lumbaj vertebroj, ampleksanta la ordojn
+      <trd lng="la">Pilosa</trd> kaj <trd lng="la">Cingulata</trd>.
     </dif>
+    <refgrp tip="prt">
+      <ref cel="dazip.0o">dazipo</ref>,
+      <ref cel="bradip.0o">bradipo</ref>,
+      <ref cel="mangx.formik0ulo">formikman&gcirc;ulo</ref>
+    </refgrp>
   </snc>
   <trd lng="ca">xenartres</trd>
   <trdgrp lng="de">
@@ -272,6 +282,12 @@
 </art>
 <!--
 $Log: artik.xml,v $
+Revision 1.39  2013/09/01 10:10:16  revo
+Wolfram Diestel: krom~uloj: dif: ampleksas du ordojn anst. nur unu
+
+Revision 1.38  2013/09/01 09:10:18  revo
+Wolfram Diestel: ~uloj: referencoj/-tipoj
+
 Revision 1.37  2012/10/20 00:10:09  revo
 Jeromo Vasxe: + formo ~uloj
 
@@ -288,11 +304,5 @@ Revision 1.33  2007/08/28 16:30:20  revo
 Sebastian Cyprych: +trd pl; ~pieduloj.ZOO +refredakto: +trd pl;
 ~pieduloj.ZOO +refredakto: +trd pl; ~pieduloj.ZOO +refredakto: +trd pl;
 ~pieduloj.ZOO +ref
-
-Revision 1.32  2006/02/04 17:32:17  revo
-Steven Augart: +trd en
-
-Revision 1.31  2005/07/24 16:32:15  revo
-Jeromo Vasxe: + el~igi/igxi, ~o simplig. dif ana, + 1 fnt
 -->
 </vortaro>

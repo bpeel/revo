@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pusx.xml,v 1.24 2013/02/03 02:10:11 revo Exp $">
+<art mrk="$Id: pusx.xml,v 1.25 2013/10/16 08:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pu&scirc;</rad>/i <fnt><bib>PV</bib></fnt>
@@ -110,6 +110,7 @@
     <trd>&c_p;&c_ib;&c_h;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_h;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="ca">emp&egrave;nyer</trd>
   <trd lng="cs">strkat</trd>
   <trd lng="es">empujar</trd>
   <trd lng="fr">pousser</trd>
@@ -118,6 +119,7 @@
     <trd>duwen</trd>,
     <trd>stoten</trd>
   </trdgrp>
+  <trd lng="oc">butar</trd>
   <trdgrp lng="pl">
     <trd>pcha&cacute;</trd>,
     <trd>przepycha&cacute;</trd>,
@@ -567,6 +569,9 @@
 </art>
 <!--
  $Log: pusx.xml,v $
+ Revision 1.25  2013/10/16 08:10:18  revo
+ Benito Subejrano: + trd ca oc
+
  Revision 1.24  2013/02/03 02:10:11  revo
  Jeromo Vasxe: + inter~igxo
 
@@ -586,8 +591,5 @@
  Yury Finkel: +trd ru
 
  Revision 1.18 2004/06/11 16:31:39 revo
- Jeromo Vasxe: - sin + vid, + trd fr
-
- Revision 1.17 2004/02/26 17:30:45 revo
 -->
 </vortaro>

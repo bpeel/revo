@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: spire.xml,v 1.4 2012/08/22 13:10:08 revo Exp $">
+<art mrk="$Id: spire.xml,v 1.5 2013/08/29 09:10:13 revo Exp $">
 <kap>
 <rad>spire</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -17,10 +17,13 @@
       korimboj a&ubreve; panikloj, kaj kun kapsulecaj fruktoj;
       80-100 specoj vivas en norda hemisfero, pluraj estas
       pororname kultivataj;
-      genro el familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
       cel="rozac.0oj.BOT">rozacoj</ref>
       (<trd lng="la">Spiraea</trd>).
     </dif>
+    <trd lng="de">Spierstrauch</trd>
     <trd lng="pl">tawu&lstroke;a</trd>
   </snc>
   <snc mrk="spire.0o.vaste">
@@ -50,6 +53,9 @@
 
 <!--
 $Log: spire.xml,v $
+Revision 1.5  2013/08/29 09:10:13  revo
+Wolfram Diestel: referenco al listo bot genroj, germ trd
+
 Revision 1.4  2012/08/22 13:10:08  revo
 Jeromo Vasxe: + fnt + trd fr, la
 

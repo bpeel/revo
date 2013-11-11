@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nimfe.xml,v 1.15 2011/05/05 14:10:13 revo Exp $">
+<art mrk="$Id: nimfe.xml,v 1.16 2013/08/27 15:10:36 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>nimfe</rad>/o
@@ -12,7 +12,9 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
       cel="nimfea.0oj"><tld/>acoj</ref>
       (<trd lng="la">Nymphaea</trd>),
       akva vegeta&jcirc;o kun lar&gcirc;aj folioj kaj blankaj floroj:
@@ -50,6 +52,9 @@
 </art>
 <!--
 $Log: nimfe.xml,v $
+Revision 1.16  2013/08/27 15:10:36  revo
+Wolfram Diestel: referencoj al frukto, al listoj bot genroj
+
 Revision 1.15  2011/05/05 14:10:13  revo
 Russ Williams: +trd en
 
@@ -69,8 +74,5 @@ Revision 1.10 2001/04/29 16:49:44 revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.9 2001/04/23 19:23:29 revo
-nimfe.0acoj -> nimfea.0oj
-
-Revision 1.8 2001/04/23 19:23:23 revo
 -->
 </vortaro>

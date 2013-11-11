@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: parued.xml,v 1.7 2006/02/27 17:35:42 revo Exp $">
+<art mrk="$Id: parued.xml,v 1.8 2013/08/31 08:11:28 revo Exp $">
 <kap>
   <rad>parued</rad>/oj
 </kap>
@@ -11,7 +11,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Familio el la ordo <ref tip="super" cel="paser.0oformaj">paseroformaj
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:zoologiaj_familioj">Familio</ref> el la ordo <ref
+      tip="malprt" cel="paser.0oformaj">paseroformaj
       birdoj</ref> (<trd lng="la">Paridae</trd>).
     </dif>
   </snc>
@@ -29,6 +31,9 @@
 </art>
 <!--
 $Log: parued.xml,v $
+Revision 1.8  2013/08/31 08:11:28  revo
+Wolfram Diestel: referenco al listozoo familioj
+
 Revision 1.7  2006/02/27 17:35:42  revo
 Miroslav Malovec: traduko cs
 
@@ -49,4 +54,3 @@ Paul Peeraerts: ald trd nl
 
 -->
 </vortaro>
-

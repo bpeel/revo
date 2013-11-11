@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kipr.xml,v 1.7 2013/02/12 02:10:25 revo Exp $">
+<art mrk="$Id: kipr.xml,v 1.8 2013/09/14 13:10:31 revo Exp $">
 <kap>
   <rad>Kipr</rad>/o
 </kap>
@@ -18,10 +18,12 @@
   <snc mrk="kipr.K0o.sxtato">
     <uzo tip="fak">GEOG</uzo>
     <uzo tip="fak">POL</uzo>
+    <mlg>CY</mlg>
     <dif>
-      &Scirc;tato en la samnoma insulo kun &ccirc;efurbo Nikosio.
-      Teritorio de Respubliko Kipro.
-      ISO-3166 kodo: CY.
+      <ref tip="lst" cel="sxtat.0o" lst="voko:&scirc;tatoj">&Scirc;tato</ref>
+      en la samnoma insulo kun &ccirc;efurbo <ref tip="prt"
+      cel="nikosi.0o">Nikosio</ref>,
+      teritorio de Respubliko Kipro.
     </dif>
     <trdgrp lng="pl">
       <trd>Cypr</trd>,
@@ -31,8 +33,9 @@
   <snc mrk="kipr.K0o.insulo">
     <uzo tip="fak">GEOG</uzo>
     <dif>
-      Insulo en <ref tip="vid" cel="mediterane.M0o.GEOG">
-      Mediteranea Maro</ref>.
+      <ref tip="lst" cel="insul.0o" lst="voko:insuloj">Insulo</ref>
+      en <ref tip="vid" cel="mediterane.M0o.GEOG">Mediteranea
+      Maro</ref>.
     </dif>
     <trdgrp lng="pl">
       <trd>Cypr</trd>,
@@ -51,6 +54,9 @@
 
 <!--
 $Log: kipr.xml,v $
+Revision 1.8  2013/09/14 13:10:31  revo
+Wolfram Diestel: ref al lst sxtatoj, insuloj
+
 Revision 1.7  2013/02/12 02:10:25  revo
 Evandro Avellar: Tr+ pt
 
@@ -70,7 +76,5 @@ Revision 1.2  2009/05/28 16:30:31  revo
 Wieland Pusch: +trd bg,de,en
 
 Revision 1.1  2009/05/20 16:30:39  revo
-Sebastian Cyprych: nova artikolo
-
 -->
 </vortaro>

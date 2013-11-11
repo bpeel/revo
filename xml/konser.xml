@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konser.xml,v 1.19 2010/07/14 16:30:24 revo Exp $">
+<art mrk="$Id: konser.xml,v 1.20 2013/10/09 01:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konserv</rad>/i <fnt><bib>PV</bib></fnt>
@@ -424,9 +424,29 @@
     <trd>&c_k;&c_o;&c_n;&c_s;&c_je;&c_r;&c_v;&c_n;&c_a;&c_ja; &c_b;&c_a;&c_n;&c_k;&c_a;</trd>
   </trdgrp>
 </drv>
+
+<drv mrk="konser.mem0o">
+  <kap>mem<tld/>o</kap>
+  <snc mrk="konser.mem0o.KOMUNE">
+    <dif>
+      <tld lit="K"/>o de si mem, eltenado, sindefendo:
+      <ekz>
+        instinkto de mem<tld/>o
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc> 
+  <trdgrp lng="fr">
+    <trd>autoconservation</trd>,
+    <trd>survie</trd>
+  </trdgrp>
+</drv>
 </art>
 <!--
 $Log: konser.xml,v $
+Revision 1.20  2013/10/09 01:10:26  revo
+Jeromo Vasxe: + mem~o
+
 Revision 1.19  2010/07/14 16:30:24  revo
 Jeromo Vasxe: - kramp, + kk trd fr
 

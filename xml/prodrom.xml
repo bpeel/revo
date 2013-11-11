@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prodrom.xml,v 1.2 2012/01/03 08:10:15 revo Exp $">
+<art mrk="$Id: prodrom.xml,v 1.3 2013/09/02 15:10:31 revo Exp $">
 <kap>
   <rad>prodrom</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -23,16 +23,28 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="bg">
+    <trd>&c_p;&c_r;&c_o;&c_d;&c_r;&c_o;&c_m;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_sh;&c_je;&c_s;&c_t;&c_v;&c_u;&c_v;&c_a;&c_shch; &c_s;&c_i;&c_m;&c_p;&c_t;&c_o;&c_m;</trd>
+  </trdgrp>
   <trd lng="ca">pr&ograve;drom</trd>
+  <trd lng="en">prodrome</trd>
   <trdgrp lng="fr">
     <trd>signe avant-coureur</trd>,
     <trd>prodrome</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>prodromale</trd>,
+    <trd>voorloper</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: prodrom.xml,v $
+Revision 1.3  2013/09/02 15:10:31  revo
+Joop Eggen: +trd bg en nl
+
 Revision 1.2  2012/01/03 08:10:15  revo
 Marc Rausell: +trd ca
 

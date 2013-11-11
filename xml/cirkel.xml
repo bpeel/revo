@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cirkel.xml,v 1.22 2012/08/26 20:10:19 revo Exp $">
+<art mrk="$Id: cirkel.xml,v 1.23 2013/08/25 08:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>cirkel</rad>/o
@@ -39,7 +39,8 @@
   <mlg>Cir</mlg>
   <snc>
     <dif>
-      Sud-hemisfera <ref tip="super" cel="stel.0figuro">stelfiguro</ref>
+      Sud-hemisfera <ref tip="lst" cel="stel.0figuro"
+      lst="voko:stelfiguroj">stelfiguro</ref>
       
 (<trd lng="la">Circinus</trd>).
     </dif>
@@ -56,6 +57,9 @@
 </art>
 <!--
 $Log: cirkel.xml,v $
+Revision 1.23  2013/08/25 08:10:23  revo
+Wolfram Diestel: referenco al listo stelfiguroj
+
 Revision 1.22  2012/08/26 20:10:19  revo
 Marc Rausell: + trd ca
 
@@ -75,8 +79,5 @@ Revision 1.17  2005/03/20 17:51:07  revo
 Alan ar Gall: + trd br
 
 Revision 1.16  2003/12/05 17:31:57  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.15  2003/04/21 16:33:53  revo
 -->
 </vortaro>

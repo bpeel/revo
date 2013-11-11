@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rusul.xml,v 1.2 2011/12/08 13:10:17 revo Exp $">
+<art mrk="$Id: rusul.xml,v 1.3 2013/10/27 18:10:12 revo Exp $">
 <kap>
   <rad>rusul</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -11,9 +11,14 @@
   <snc mrk="rusul.0o.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      Lamena fungo kun kolora &ccirc;apelo, blanka &scirc;tipo, el kiu kelkaj 
-      specioj man&gcirc;eblas, genro el familio rusulacoj (<trd 
-      lng="la">Russula</trd>):
+      Lamena <ref tip="lst" cel="fung.0o.fruktokorpo"
+      lst="voko:fungoj">fungo</ref> kun kolora &ccirc;apelo, blanka &scirc;tipo, de
+      kiu kelkaj 
+      specioj estas man&gcirc;eblaj;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref>
+       el familio <ref tip="malprt" cel="rusula.0oj">rusulacoj</ref>
+       (<trd lng="la">Russula</trd>):
       <ekz>
         <ctl>Esperantlingva nomenklaturo de la fungogenro <tld/>o</ctl>
         <fnt>
@@ -40,6 +45,7 @@
     <trd>cualba</trd>,
     <trd>r&uacute;ssula</trd>
   </trdgrp>
+  <trd lng="de">T&auml;ubling</trd>
   <trd lng="fr">russule</trd>
   <trd lng="it">rossola</trd>
 </drv>
@@ -47,6 +53,9 @@
 
 <!--
 $Log: rusul.xml,v $
+Revision 1.3  2013/10/27 18:10:12  revo
+Wolfram Diestel: ref al fungoj, bot genroj
+
 Revision 1.2  2011/12/08 13:10:17  revo
 Marc Rausell: kataluna traduko
 

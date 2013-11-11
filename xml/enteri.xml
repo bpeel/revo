@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: enteri.xml,v 1.13 2009/07/05 16:39:10 revo Exp $">
+<art mrk="$Id: enteri.xml,v 1.14 2013/10/09 19:10:42 revo Exp $">
   <kap>
     <rad>enterit</rad>/o
   </kap>
@@ -11,7 +11,8 @@
     <uzo tip="fak">MED</uzo>
     <snc>
       <dif>
-        Inflamo de la maldika intesto.  
+        <ref tip="lst" cel="inflam.0o" lst="voko:malsanoj">Inflamo</ref>
+        de la maldika intesto.  
       </dif>
     </snc>
     <trd lng="be">&c_e;&c_n;&c_t;&c_e;&c_r;&c_y;&c_t;</trd>
@@ -43,6 +44,9 @@
 </art>
 <!--
 $Log: enteri.xml,v $
+Revision 1.14  2013/10/09 19:10:42  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.13  2009/07/05 16:39:10  revo
 Paul Peeraerts: +trd nl
 
@@ -62,8 +66,5 @@ Revision 1.8  2005/04/04 16:32:27  revo
 Raul Salinas Monteagudo: +trd ca,es
 
 Revision 1.7  2004/07/21 20:45:36  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.6  2002/06/18 17:31:10  revo
 -->
 </vortaro>

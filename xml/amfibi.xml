@@ -2,21 +2,31 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: amfibi.xml,v 1.16 2006/09/07 16:56:55 revo Exp $">
+<art mrk="$Id: amfibi.xml,v 1.19 2013/10/21 19:10:28 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>amfibi</rad>/oj
 </kap>
+<drv mrk="amfibi.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Iu el <tld/>oj.
+    </dif>
+  </snc>
+</drv>
 <drv mrk="amfibi.0oj">
   <kap><tld/>oj</kap>
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Klaso de <ref tip="super" cel="verteb.0uloj">vertebruloj</ref>
+      <ref tip="lst" cel="klas.0o.BIO"
+      lst="voko:zoologiaj_klasoj">Klaso</ref> de <ref tip="malprt"
+      cel="verteb.0uloj">vertebruloj</ref>
       (<trd lng="la">Amphibia</trd>), nudha&ubreve;taj, kies larvoj
       vivas en dol&ccirc;akvo spirante per brankoj kaj kies plenkreskuloj
       vivas surtere spirante per pulmoj.
     </dif>
-    <refgrp tip="sub">
+    <refgrp tip="prt">
       <ref cel="vost.sen0uloj">senvostuloj</ref>,
       <ref cel="urodel.0oj">urodeloj</ref>
     </refgrp>
@@ -45,6 +55,15 @@ tip="amb">(&c_k;&c_l;&c_a;&c_s;&c_s;)</klr></trd>
 </art>
 <!--
 $Log: amfibi.xml,v $
+Revision 1.19  2013/10/21 19:10:28  revo
+Wolfram Diestel: sen~uloj: kor. ref-tip
+
+Revision 1.18  2013/10/07 16:10:18  revo
+Wolfram Diestel: +~o
+
+Revision 1.17  2013/08/31 16:10:36  revo
+Wolfram Diestel: referenco al listo zoo klasoj
+
 Revision 1.16  2006/09/07 16:56:55  revo
 Axel Rousseau: +trd tp
 
@@ -58,14 +77,5 @@ Revision 1.13  2005/02/14 18:20:48  revo
 Dmitri Gabinski: +ref, trd be
 
 Revision 1.12  2003/05/18 18:02:41  revo
-Viliam Bur: +trd sk
-
-Revision 1.11  2003/05/17 16:30:47  revo
-Bart Demeyere: plibonigo trd nl
-
-Revision 1.10  2002/06/26 19:29:53  revo
-Allon Rothfarb: +trd he k en
-
-Revision 1.9  2002/06/20 17:31:34  revo
 -->
 </vortaro>

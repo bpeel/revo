@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: magnoli1.xml,v 1.7 2011/12/03 19:10:15 revo Exp $">
+<art mrk="$Id: magnoli1.xml,v 1.8 2013/08/25 16:10:50 revo Exp $">
 <kap>
   <rad>magnoliac</rad>/oj
 </kap>
@@ -13,7 +13,9 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Familio el <ref tip="super" cel="kotile.du0aj">dukotiledonaj
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> el <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj
       plantoj</ref> (<trd lng="la">Magnoliaceae</trd>).
     </dif>
   </snc>
@@ -31,6 +33,9 @@
 </art>
 <!--
 $Log: magnoli1.xml,v $
+Revision 1.8  2013/08/25 16:10:50  revo
+Wolfram Diestel: referencoj al listo bot familioj
+
 Revision 1.7  2011/12/03 19:10:15  revo
 Marc Rausell: kataluna traduko
 

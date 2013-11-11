@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: peg.xml,v 1.18 2011/12/11 13:10:18 revo Exp $">
+<art mrk="$Id: peg.xml,v 1.21 2013/09/03 18:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>peg</rad>/o
@@ -33,7 +33,9 @@
   <snc mrk="peg.0o.genro">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Genro el familio <ref tip="super" cel="peged.0oj"><tld/>edoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="peged.0oj"><tld/>edoj</ref>
       (<trd lng="la">Picus</trd>).
     </dif>
     <trd lng="ca">g&egrave;nere Picus</trd>
@@ -52,7 +54,9 @@
   <snc mrk="peg.0oformaj.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Ordo el la klaso <ref tip="super" cel="bird.0oj">birdoj</ref>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> el la klaso <ref
+      tip="malprt" cel="bird.0oj">birdoj</ref>
       (<trd lng="la">Piciformes</trd>).
     </dif>
   </snc>
@@ -79,11 +83,13 @@
        </vrk>
     </fnt>
     <dif>
-      Specio de <ref tip="super" cel="peg.0o.genro">pego</ref>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">Specio</ref> de <ref tip="super"
+      cel="peg.0o.genro">pego</ref>
       (<trd lng="la">Dryocopus martius</trd>).
     </dif>
     <trd lng="ca">picot negre</trd>
-    <trd lng="en">>black <ind>woodpecker</ind></trd>
+    <trd lng="en">black <ind>woodpecker</ind></trd>
     <trd lng="pl">dzi&eogonek;cio&lstroke; czarny</trd>
     <trd lng="sv">spillkr&aring;ka</trd>
   </snc>
@@ -103,7 +109,9 @@
        </vrk>
     </fnt>
     <dif>
-      Specio de <ref tip="super" cel="peg.0o.genro">pego</ref>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">Specio</ref> de <ref tip="super"
+      cel="peg.0o.genro">pego</ref>
       (<trd lng="la">Picus viridis</trd>).
     </dif>
     <trd lng="ca">picot verd</trd>
@@ -127,7 +135,9 @@
        </vrk>
     </fnt>
     <dif>
-      Specio de <ref tip="super" cel="peg.0o.genro">pego</ref>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">Specio</ref> de <ref tip="super"
+      cel="peg.0o.genro">pego</ref>
       (<trd lng="la">Picus canus</trd>).
     </dif>
     <trd lng="ca">picot cendr&oacute;s</trd>
@@ -151,7 +161,9 @@
        </vrk>
     </fnt>
     <dif>
-      Ordo el la klaso (<trd lng="la">Dendrocopos</trd>).
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el la <ref tip="malprt"
+      cel="peged.0oj">pegedoj</ref> (<trd lng="la">Dendrocopos</trd>).
     </dif>
     <trd lng="ca">picot garser</trd>
     <trd lng="de">Buntspecht</trd>
@@ -178,7 +190,9 @@
        </vrk>
     </fnt>
     <dif>
-      Specio de <ref tip="super" cel="peg.bunt0o">buntpego</ref>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">Specio</ref> de <ref tip="super"
+      cel="peg.bunt0o">bunt<tld/>o</ref>
       (<trd lng="la">Dendrocopos major</trd>).
     </dif>
     <trd lng="ca">picot garser gros</trd>
@@ -202,7 +216,9 @@
        </vrk>
     </fnt>
     <dif>
-      Specio de <ref tip="super" cel="peg.bunt0o">buntpego</ref>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">Specio</ref> de <ref tip="super"
+      cel="peg.bunt0o">bunt<tld/>o</ref>
       (<trd lng="la">Dendrocopos medius</trd>).
     </dif>
     <trd lng="ca">picot garser mitj&agrave;</trd>
@@ -226,7 +242,9 @@
        </vrk>
     </fnt>
     <dif>
-      Specio de <ref tip="super" cel="peg.bunt0o">buntpego</ref>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">Specio</ref> de <ref tip="super"
+      cel="peg.bunt0o">bunt<tld/>o</ref>
       (<trd lng="la">Dendrocopos minor</trd>).
     </dif>
     <trd lng="ca">picot garser petit</trd>
@@ -253,7 +271,9 @@
        </vrk>
     </fnt>
     <dif>
-      Specio de <ref tip="super" cel="peg.bunt0o">buntpego</ref>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">Specio</ref> de <ref tip="super"
+      cel="peg.bunt0o">bunt<tld/>o</ref>
       (<trd lng="la">Dendrocopos syriacus</trd>).
     </dif>
     <trd lng="ca">picot garser sir&iacute;ac</trd>
@@ -276,7 +296,9 @@
        </vrk>
     </fnt>
     <dif>
-      Specio de <ref tip="super" cel="peg.bunt0o">buntpego</ref>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">Specio</ref> de <ref tip="super"
+      cel="peg.bunt0o">bunt<tld/>o</ref>
       (<trd lng="la">Dendrocopos leucotos</trd>).
     </dif>
     <trd lng="ca">picot garser dorsblanc</trd>
@@ -300,7 +322,9 @@
        </vrk>
     </fnt>
     <dif>
-      Specio de <ref tip="super" cel="peg.bunt0o">buntpego</ref>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">Specio</ref> de <ref tip="super"
+      cel="peg.bunt0o">bunt<tld/>o</ref>
       (<trd lng="la">Picoides tridactylus</trd>).
     </dif>
     <trd lng="ca">picot trid&agrave;ctil</trd>
@@ -313,6 +337,15 @@
 </art>
 <!--
 $Log: peg.xml,v $
+Revision 1.21  2013/09/03 18:10:17  revo
+Wolfram Diestel: referencoj al listo zoo specioj, korektetoj
+
+Revision 1.20  2013/09/03 17:10:24  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.19  2013/08/31 16:10:52  revo
+Wolfram Diestel: ~oformaj: referenco al listo zoo ordoj
+
 Revision 1.18  2011/12/11 13:10:18  revo
 Marc Rausell: +trd ca
 
@@ -326,14 +359,5 @@ Revision 1.15  2006/02/27 17:32:27  revo
 Tulio Flores: +tr pt
 
 Revision 1.14  2004/08/19 16:33:38  revo
-Jeromo Vasxe: + 1 trd fr
-
-Revision 1.13 2003/07/26 08:42:48 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12 2001/12/13 17:33:41 revo
-Yury Finkel: +trd ru
-
-Revision 1.11 2001/11/29 17:32:37 revo
 -->
 </vortaro>

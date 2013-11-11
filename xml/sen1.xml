@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sen1.xml,v 1.2 2009/10/24 16:33:10 revo Exp $">
+<art mrk="$Id: sen1.xml,v 1.3 2013/09/22 19:12:03 revo Exp $">
 <kap>
   <rad>sen</rad>/o <fnt><bib>EncJap</bib></fnt>
 </kap>
@@ -11,7 +11,8 @@
   <snc mrk="sen1.0o.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Eksa <ref tip="super" cel="unu.monasub0o">mona subunuo</ref> en 
+      Eksa <ref tip="lst" cel="unu.monasub0o" lst="voko:monunuoj">mona
+      subunuo</ref> en 
       japanujo egala al centono de <ref tip="malprt" 
       cel="en1.0o.EKON">eno</ref>:
       <ekz>
@@ -38,6 +39,9 @@
 
 <!--
 $Log: sen1.xml,v $
+Revision 1.3  2013/09/22 19:12:03  revo
+Wolfram Diestel: referenco al listo monunuoj
+
 Revision 1.2  2009/10/24 16:33:10  revo
 Antonio Codazzi: +trd it
 

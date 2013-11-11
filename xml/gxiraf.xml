@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: gxiraf.xml,v 1.27 2010/05/16 16:30:49 revo Exp $">
+<art mrk="$Id: gxiraf.xml,v 1.28 2013/09/01 15:10:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&gcirc;iraf</rad>/o
@@ -12,7 +12,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
       cel="gxiraf1.0oj"><tld/>edoj</ref>
       (<trd lng="la"><ind>Giraffa</ind> camelopardalis</trd>), vivanta
       sude 
@@ -62,6 +64,9 @@
 
 <!--
 $Log: gxiraf.xml,v $
+Revision 1.28  2013/09/01 15:10:38  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.27  2010/05/16 16:30:49  revo
 Behnam Tabatabai: +trd fa
 
@@ -81,8 +86,5 @@ Revision 1.22  2006/06/01 16:31:45  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.21  2006/01/27 17:31:26  revo
-H. Neal Parker: +drv
-
-Revision 1.20  2005/03/06 17:36:49  revo
 -->
 </vortaro>

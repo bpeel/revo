@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hemion.xml,v 1.13 2009/09/05 16:31:04 revo Exp $">
+<art mrk="$Id: hemion.xml,v 1.14 2013/10/19 15:10:23 revo Exp $">
 <kap>
   <rad>hemion</rad>/o
 </kap>
@@ -18,6 +18,8 @@
       okcidenta
       Azio kaj iom simila al <ref tip="vid" cel="azen.0o">azeno</ref>.
     </dif>
+    <ref tip="lst" cel="huf.nepar0ulo"
+    lst="voko:neparhufuloj">neparhufulo</ref>
   </snc>
   <trd lng="be">&c_k;&c_u;&c_l;&c_a;&c_n;</trd>
   <trd lng="de">Halbesel</trd>
@@ -37,6 +39,9 @@
 </art>
 <!--
 $Log: hemion.xml,v $
+Revision 1.14  2013/10/19 15:10:23  revo
+Wolfram Diestel: ref al neparhufuloj
+
 Revision 1.13  2009/09/05 16:31:04  revo
 Antonio Codazzi: +trd it
 
@@ -56,8 +61,5 @@ Revision 1.8  2002/03/20 17:34:01  revo
 Yury Finkel: +trd ru
 
 Revision 1.7  2002/01/04 17:34:23  revo
-Marc Bavant: +trd fr
-
-Revision 1.6  2001/11/20 17:38:16  revo
 -->
 </vortaro>

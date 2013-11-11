@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: merkur1.xml,v 1.13 2010/02/07 17:30:23 revo Exp $">
+<art mrk="$Id: merkur1.xml,v 1.15 2013/09/23 08:10:19 revo Exp $">
 <kap><rad>Merkur</rad>/o <fnt><bib>PIV1</bib></fnt></kap>
 <drv mrk="merkur1.0o">
   <kap><tld/>o</kap>
@@ -17,9 +17,10 @@
   </snc>
   <snc mrk="merkur1.0o.AST">
     <uzo tip="fak">AST</uzo>
+    <mlg>&#9791;</mlg>
     <dif>
       La plej proksima al la <ref tip="vid" cel="sun.0o.nia">Suno</ref>
-      <ref tip="super" cel="planed.0o">planedo</ref>
+      <ref tip="lst" cel="planed.0o" lst="voko:planedoj">planedo</ref>
       de la <ref tip="malprt" cel="sun.0sistemo">sunsistemo</ref>.
     </dif>
     <trdgrp lng="fa">
@@ -75,6 +76,12 @@
 </art>
 <!--
 $Log: merkur1.xml,v $
+Revision 1.15  2013/09/23 08:10:19  revo
+Wolfram Diestel: simb
+
+Revision 1.14  2013/08/25 18:10:15  revo
+Wolfram Diestel: referencoj al listo palnedoj
+
 Revision 1.13  2010/02/07 17:30:23  revo
 Russ Williams: +trd en
 
@@ -91,11 +98,5 @@ Revision 1.9  2006/07/31 16:33:28  revo
 Tulio Flores: +tr pt
 
 Revision 1.8  2005/02/22 17:32:21  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.7 2004/11/29 17:31:29 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.6 2004/08/25 19:00:39 revo
 -->
 </vortaro>

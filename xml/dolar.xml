@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dolar.xml,v 1.20 2012/08/02 09:10:58 revo Exp $">
+<art mrk="$Id: dolar.xml,v 1.21 2013/09/22 19:11:24 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>dolar</rad>/o
@@ -12,9 +12,8 @@
   <snc mrk="dolar.0o.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      <ref tip="super" cel="unu.mon0o">Monunuo</ref>, interalie de
-      Usono,
-      Kanado, A&ubreve;stralio kaj Singapuro:
+      <ref tip="lst" cel="unu.mon0o" lst="voko:monunuoj">Monunuo</ref>, 
+      interalie de Usono, Kanado, A&ubreve;stralio kaj Singapuro:
       <ekz>
         plej ofte oni falsas &ccirc;e ni usonajn <tld/>ojn
         <fnt><aut>Dmitrij Cibulevskij</aut>:
@@ -44,6 +43,9 @@
 </art>
 <!--
 $Log: dolar.xml,v $
+Revision 1.21  2013/09/22 19:11:24  revo
+Wolfram Diestel: referenco al listo monunuoj
+
 Revision 1.20  2012/08/02 09:10:58  revo
 Marc Rausell: + trd ca
 
@@ -63,8 +65,5 @@ Revision 1.15  2003/12/13 17:35:08  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.14  2003/07/20 18:15:51  revo
-Jeromo Vasxe: koncizigis ekz, - adm
-
-Revision 1.13 2003/06/02 16:31:13 revo
 -->
 </vortaro>

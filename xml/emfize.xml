@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: emfize.xml,v 1.14 2011/01/28 15:10:08 revo Exp $">
+<art mrk="$Id: emfize.xml,v 1.15 2013/10/09 19:10:36 revo Exp $">
 <kap>
 <rad>emfizem</rad>/o
 </kap>
@@ -11,7 +11,9 @@
   <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
-      Malsano ka&ubreve;zata de la dilati&gcirc;o de histo a&ubreve; organo
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsano</ref> ka&ubreve;zata de la dilati&gcirc;o de histo
+      a&ubreve; organo
       pro gasa dispremo:
       <ekz>ha&ubreve;ta, pulma <tld/>o.</ekz>
     </dif>
@@ -33,6 +35,9 @@
 </art>
 <!--
 $Log: emfize.xml,v $
+Revision 1.15  2013/10/09 19:10:36  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.14  2011/01/28 15:10:08  revo
 Russ Williams: +trd en
 
@@ -52,8 +57,5 @@ Revision 1.9  2003/12/17 17:30:59  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.8  2002/06/14 18:01:51  revo
-Ulrich Fellmann: + 3 trd de
-
-Revision 1.7  2002/06/06 17:31:39  revo
 -->
 </vortaro>

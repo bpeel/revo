@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: merkur.xml,v 1.11 2011/12/06 18:10:28 revo Exp $">
+<art mrk="$Id: merkur.xml,v 1.14 2013/11/01 18:10:15 revo Exp $">
 <kap>
   <rad>merkurial</rad>/o
 </kap>
@@ -13,9 +13,15 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Genro el familio
-      <ref tip="super" cel="euxfor1.0oj">e&ubreve;forbiacoj</ref>
-      (<trd lng="la">Mercurialis</trd>).
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio
+      <ref tip="malprt" cel="euxfor1.0oj">e&ubreve;forbiacoj</ref>
+      (<trd lng="la">Mercurialis</trd>);
+      <ref tip="lst" cel="veget.0ajxo" 
+      lst="voko:malpigioparencoj">vegeta&jcirc;o</ref>
+      kun kontra&ubreve;sidaj segilrandaj ovo- a&ubreve; lancetformaj folioj,
+      verdaj a&ubreve; flave verdaj tri- a&ubreve; kvarnombraj floretoj
+      kaj haraj fruktoj similantaj testikujon.
     </dif>
   </snc>
   <bld lok="../bld/merkur.jpg">
@@ -36,6 +42,15 @@
 </art>
 <!--
 $Log: merkur.xml,v $
+Revision 1.14  2013/11/01 18:10:15  revo
+Wolfram Diestel: ref al malpigioparencoj; prilaboris dif
+
+Revision 1.13  2013/08/30 15:10:15  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.12  2013/08/26 15:10:29  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.11  2011/12/06 18:10:28  revo
 Marc Rausell: kataluna traduko
 
@@ -49,14 +64,5 @@ Revision 1.8  2001/11/26 17:34:55  revo
 Yury Finkel: +trd ru
 
 Revision 1.7  2001/09/07 09:54:13  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.6  2001/04/19 14:28:03  revo
-euxfor.0acoj -> euxfor1.0oj
-
-Revision 1.5  2001/04/08 18:31:52  revo
-Wolfram Diestel: +bld
-
-Revision 1.4  1999/12/29 10:22:02  revo
 -->
 </vortaro>

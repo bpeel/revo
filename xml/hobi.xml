@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hobi.xml,v 1.13 2012/07/30 12:10:16 revo Exp $">
+<art mrk="$Id: hobi.xml,v 1.14 2013/08/02 11:10:10 revo Exp $">
 <kap>
   <rad>hobi</rad>/o
 </kap>
@@ -23,6 +23,7 @@
     <trd>&c_h;&c_o;&c_b;&c_ib;</trd>,
     <trd>&c_z;&c_a;&c_h;&c_a;&c_p;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
   </trdgrp>
+  <trd lng="bg">&c_h;&c_o;&c_b;&c_i;</trd>
   <trd lng="ca">passatemps</trd>
   <trdgrp lng="de">
     <trd>Hobby</trd>,
@@ -84,6 +85,9 @@
 </art>
 <!--
 $Log: hobi.xml,v $
+Revision 1.14  2013/08/02 11:10:10  revo
+Joop Eggen: +trd bg
+
 Revision 1.13  2012/07/30 12:10:16  revo
 Marc Rausell: + trd ca
 
@@ -103,8 +107,5 @@ Revision 1.8  2002/09/18 16:35:43  revo
 Jeromo Vasxe: + ~a, + ekz
 
 Revision 1.7 2002/07/17 17:32:05 revo
-Eduardo M. Kalinowski: ald trd el, pt
-
-Revision 1.6 2002/07/12 17:34:02 revo
 -->
 </vortaro>

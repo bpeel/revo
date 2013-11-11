@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: abel.xml,v 1.60 2013/02/15 11:10:07 revo Exp $">
+<art mrk="$Id: abel.xml,v 1.62 2013/10/26 20:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>abel</rad>/o
 </kap>
@@ -12,8 +12,10 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Genro el la familio
-      <ref tip="super" cel="abeled.0oj"><tld/>edoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref>
+       el la familio
+      <ref tip="malprt" cel="abeled.0oj"><tld/>edoj</ref>
       (<trd lng="la">Apis</trd>), el kiu unu specio
       (<trd lng="la">Apis mellifera</trd>) estas bredata
       pro la <ref cel="miel.0o">mielo</ref>.
@@ -27,6 +29,7 @@
   <trd lng="br">gwenanenn</trd>
   <trd lng="ca">abella</trd>
   <trd lng="de">Biene</trd>
+   <trd lng="en">&my;&epsilon_ton;&lambda;&jota;&sigma;&sigma;&alfa;</trd>
   <trd lng="en">bee</trd>
   <trd lng="es">abeja</trd>
   <trdgrp lng="fa">
@@ -347,6 +350,12 @@ nutra&jcirc;o
 </art>
 <!--
 $Log: abel.xml,v $
+Revision 1.62  2013/10/26 20:10:10  revo
+Glavkos Xaon: greka signifo de la vorto
+
+Revision 1.61  2013/09/01 13:10:29  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.60  2013/02/15 11:10:07  revo
 Dmitri Gabinski: redakto: +trd be
 
@@ -363,12 +372,6 @@ Revision 1.56  2009/11/08 17:30:29  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.55  2009/08/23 16:32:31  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.54  2009/07/05 16:40:27  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.53  2008/11/02 17:30:57  revo
 -->
 
 </vortaro>

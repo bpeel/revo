@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: brav.xml,v 1.23 2009/03/26 17:30:38 revo Exp $">
+<art mrk="$Id: brav.xml,v 1.24 2013/09/08 13:10:10 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>brav</rad>/a
@@ -31,6 +31,11 @@
        <trd>tapfer</trd>,
        <trd>edel</trd>,
        <trd>wacker</trd>
+     </trdgrp>
+     <trdgrp lng="es">
+       <trd>bravo</trd>,
+       <trd>valeroso</trd>,
+       <trd>aguerrido</trd>
      </trdgrp>
      <trdgrp lng="hu">
        <trd>vit&eacute;z</trd>,
@@ -74,6 +79,7 @@
        <trd>fidel</trd>,
        <trd>t&uuml;chtig</trd>
      </trdgrp>
+     <trd lng="es">devoto</trd>
      <trdgrp lng="hu">
        <trd>der&eacute;k</trd>,
        <trd>j&oacute;raval&oacute;</trd>
@@ -136,6 +142,11 @@
        <trd>t&uuml;chtig</trd>,
        <trd>g&uuml;tig</trd>
      </trdgrp>
+     <trdgrp lng="es">
+       <trd>bravamente</trd>,
+       <trd>valerosamente</trd>,
+       <trd>aguerridamente</trd>
+     </trdgrp>
      <trd lng="fr">bravement</trd>
      <trdgrp lng="hu">
        <trd>vit&eacute;z&uuml;l</trd>,
@@ -165,6 +176,7 @@
      <trd lng="be">&c_b;&c_r;&c_a;&c_v;&c_a;!</trd>
      <trd lng="de">bravo</trd>
      <trd lng="en">bravo!</trd>
+     <trd lng="es">bravo <klr>(expresi&oacute;n de aplauso)</klr></trd>
      <trd lng="fr">bravo!</trd>
      <trd lng="hu">brav&oacute;!</trd>
      <trd lng="pl">brawo!</trd>
@@ -262,6 +274,7 @@
      <trd>t&uuml;chtiger <ind>Bursche</ind></trd>,
      <trd>g&uuml;tiger <ind>Mensch</ind></trd>
    </trdgrp>
+   <trd lng="es">valiente <klr>(persona de sexo masculino)</klr></trd>
    <trdgrp lng="pl">
      <trd>chwat</trd>,
      <trd>zuch</trd>,
@@ -294,6 +307,7 @@
      <trd>t&uuml;chtiges <ind>M&auml;dchen</ind></trd>,
      <trd>g&uuml;tige <ind>Frau</ind></trd>
    </trdgrp>
+   <trd lng="es">valiente <klr>(persona de sexo femenino)</klr></trd>
    <trd lng="pl">zuch <klr>dziewczyna</klr></trd>
    <trdgrp lng="ru">
      <trd>&c_s;&c_l;&c_a;&c_v;&c_n;&c_a;&c_ja;
@@ -305,6 +319,9 @@
 </art>
 <!--
 $Log: brav.xml,v $
+Revision 1.24  2013/09/08 13:10:10  revo
+Carlos Garcia: +trd es -a -e
+
 Revision 1.23  2009/03/26 17:30:38  revo
 Sebastian Cyprych: +trd pl
 
@@ -324,8 +341,5 @@ Revision 1.18  2003/09/13 16:30:33  revo
 Jeromo Vasxe: memkor -acx
 
 Revision 1.17  2003/09/11 16:31:22  revo
-Jeromo Vasxe: + ~acxa ~acxe
-
-Revision 1.16 2003/02/25 17:30:55 revo
 -->
 </vortaro>

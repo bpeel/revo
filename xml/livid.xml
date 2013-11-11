@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: livid.xml,v 1.6 2009/10/08 16:31:21 revo Exp $">
+<art mrk="$Id: livid.xml,v 1.7 2013/10/09 18:10:43 revo Exp $">
 <kap>
    <rad>livid</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -19,6 +19,10 @@
          411a</lok></fnt>
        </ekz>
      </dif>
+     <refgrp tip="super">
+       <ref cel="sang.0umo">sangumo</ref>, 
+       <ref cel="ehximoz.0o">e&hcirc;imozo</ref>
+     </refgrp>
    </snc>
    <trdgrp lng="fr">
      <trd>bleu<klr> (h&eacute;matome)</klr></trd>,
@@ -63,6 +67,9 @@
 
 <!--
 $Log: livid.xml,v $
+Revision 1.7  2013/10/09 18:10:43  revo
+Wolfram Diestel: ref al sangumo, ehhimozo
+
 Revision 1.6  2009/10/08 16:31:21  revo
 Paul Peeraerts: +nl
 

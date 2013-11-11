@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: artiko.xml,v 1.19 2012/07/17 11:10:21 revo Exp $">
+<art mrk="$Id: artiko.xml,v 1.20 2013/09/12 08:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>artikol</rad>/o
@@ -42,6 +42,10 @@
         <trd lng="ru">&c_n;&c_u;&c_l;&c_je;&c_v;&c_o;&c_j; &c_a;&c_r;&c_t;&c_i;&c_k;&c_l;&c_mol;</trd>
       </ekz>
     </dif>
+    <rim> Por la uzado de ia nedifina artikolo vidu &ccirc;e <ref tip="sin"
+    cel="iu.0.elektajxo">iu</ref>, <ref tip="sin"
+    cel="unu.0.artikolo">unu</ref>, <ref tip="sin"
+    cel="cert.0a.difinebla">certa</ref>.</rim>
     <trd lng="be">&c_a;&c_r;&c_t;&c_y;&c_k;&c_l;&c_mol;</trd>  
     <trd lng="br">ger-mell</trd>
     <trd lng="ru">&c_a;&c_r;&c_t;&c_i;&c_k;&c_l;&c_mol;</trd>
@@ -133,6 +137,9 @@
 </art>
 <!--
 $Log: artiko.xml,v $
+Revision 1.20  2013/09/12 08:10:11  revo
+Damien Brucker: Aldono de rimarko
+
 Revision 1.19  2012/07/17 11:10:21  revo
 Marc Rausell: + trd ca
 
@@ -152,8 +159,5 @@ Revision 1.14  2002/05/15 16:43:01  revo
 Alejandro Mejia Greene: krk his trd
 
 Revision 1.13  2002/03/24 10:00:59  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.12  2001/12/11 18:24:22  revo
 -->
 </vortaro>

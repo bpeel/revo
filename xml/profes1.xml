@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: profes1.xml,v 1.15 2010/08/12 16:30:20 revo Exp $">
+  <art mrk="$Id: profes1.xml,v 1.16 2013/07/26 10:10:15 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>profesor</rad>/o
@@ -31,6 +31,7 @@
           </ekz>
         </dif>
         <trd lng="be">&c_p;&c_r;&c_a;&c_f;&c_e;&c_s;&c_a;&c_r;</trd>
+        <trd lng="bg">&c_p;&c_r;&c_o;&c_f;&c_je;&c_s;&c_o;&c_r;</trd>
         <trd lng="en">professor</trd>
         <trd lng="de">Professor</trd>
         <trdgrp lng="fa">
@@ -69,6 +70,9 @@
   </art>
   <!--
   $Log: profes1.xml,v $
+  Revision 1.16  2013/07/26 10:10:15  revo
+  Joop Eggen: +trd bg
+
   Revision 1.15  2010/08/12 16:30:20  revo
   Behnam Tabatabai: +trd fa
 

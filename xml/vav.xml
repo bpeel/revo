@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vav.xml,v 1.2 2013/11/06 15:10:12 revo Exp $">
+<kap>
+    <rad>vav</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="vav.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="vav.0o.SNC">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <refgrp tip="vid">
+        <ref cel="v.0.duobla">Duobla vo</ref>
+      </refgrp>
+     </dif>
+  </snc>
+  <trdgrp lng="fr">
+  <trd>w</trd>,
+  <trd>W <klr>(double v)</klr></trd>
+</trdgrp>
+  </drv>
+</art>
+
+<!--
+$Log: vav.xml,v $
+Revision 1.2  2013/11/06 15:10:12  revo
+Damien Brucker: +vid cxe refgrp
+
+Revision 1.1  2013/10/30 09:10:10  revo
+Damien Brucker: nova artikolo
+
+-->
+</vortaro>

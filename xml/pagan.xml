@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pagan.xml,v 1.14 2009/04/30 16:30:33 revo Exp $">
+<art mrk="$Id: pagan.xml,v 1.15 2013/09/22 19:11:09 revo Exp $">
 <kap>
   <rad>pagan</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -35,7 +35,8 @@
   <snc mrk="pagan.0ismo.REL">
     <uzo tip="fak">REL</uzo>
     <dif>
-      Praa formo de <ref tip="super" cel="religi.0o">religio</ref>,
+      Praa formo de <ref tip="lst" cel="religi.0o.REL"
+      lst="voko:religioj">religio</ref>,
       plejofte plurdia, tipa por la socioj tribe gentaj
       a&ubreve; frue sklavismaj,
       kontraste al historiaj, precipe unudiaj religioj.
@@ -77,6 +78,9 @@
 </art>
 <!--
 $Log: pagan.xml,v $
+Revision 1.15  2013/09/22 19:11:09  revo
+Wolfram Diestel: referenco al listo religioj
+
 Revision 1.14  2009/04/30 16:30:33  revo
 Jeromo Vasxe: + nov~ismo, + fak rel, + trd fr
 
@@ -96,8 +100,5 @@ Revision 1.9 2004/03/17 17:30:48 revo
 Sergio Pokrovskij: dif
 
 Revision 1.8 2002/09/01 19:07:17 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.7 2002/07/03 19:04:33 revo
 -->
 </vortaro>

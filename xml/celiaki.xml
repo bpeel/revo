@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: celiaki.xml,v 1.3 2012/08/26 11:10:18 revo Exp $">
+<art mrk="$Id: celiaki.xml,v 1.4 2013/10/07 15:10:49 revo Exp $">
 <kap>
     <rad>celiaki</rad>/o
 </kap>
@@ -11,7 +11,9 @@
   <snc mrk="celiaki.0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Malsano kiu dama&gcirc;as maldikan inteston pro netolereco por gluteno.
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsano</ref> kiu dama&gcirc;as maldikan inteston
+      pro netolereco por gluteno.
     </dif>
   </snc>
   <trdgrp lng="ca">
@@ -31,6 +33,9 @@
 
 <!--
 $Log: celiaki.xml,v $
+Revision 1.4  2013/10/07 15:10:49  revo
+Wolfram Diestel: ref la lst malsanoj
+
 Revision 1.3  2012/08/26 11:10:18  revo
 Marc Rausell: + trd ca
 

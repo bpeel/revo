@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sturn.xml,v 1.13 2007/07/25 20:12:26 revo Exp $">
+<art mrk="$Id: sturn.xml,v 1.15 2013/09/05 18:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sturn</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,7 +13,9 @@
     <uzo tip="fak">ZOO</uzo>
     <dif>
       Nigra birdo kun rapida flugo, kapabla imiti kantojn, bruojn, 
-      parolon, genro el la familio <ref tip="super"
+      parolon, <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el la familio <ref
+      tip="malprt"
       cel="sturne.0oj"><tld/>edoj</ref> (<trd lng="la">Sturnus</trd>):
       <ekz>
         en tiu kavo havis la <tld/>o siajn idojn
@@ -28,6 +30,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_sh;&c_p;&c_a;&c_k;</trd>
+  <trd lng="bg">&c_o;&c_b;&c_i;&c_k;&c_n;&c_o;&c_v;&c_je;&c_n; <ind>&c_s;&c_k;&c_o;&c_r;&c_je;&c_c;</ind></trd>
   <trd lng="cs">&scaron;pa&ccaron;ek</trd>
   <trd lng="de">Star</trd>
   <trd lng="en">starling</trd>
@@ -41,6 +44,12 @@
 </art>
 <!--
 $Log: sturn.xml,v $
+Revision 1.15  2013/09/05 18:10:19  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.14  2013/08/08 15:10:13  revo
+Joop Eggen: +trd bg en
+
 Revision 1.13  2007/07/25 20:12:26  revo
 Jeromo Vasxe: + ekz
 
@@ -57,11 +66,5 @@ Revision 1.9 2001/08/29 18:11:42 revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.8 2001/05/05 15:37:13 revo
-sturn.0edoj -> sturne.0oj
-
-Revision 1.7 2001/05/05 15:37:04 revo
-shovis sturn.0edoj al sturne.0oj
-
-Revision 1.6 2000/11/25 14:38:08 revo
 -->
 </vortaro>

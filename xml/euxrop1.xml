@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: euxrop1.xml,v 1.23 2012/08/03 08:10:16 revo Exp $">
+<art mrk="$Id: euxrop1.xml,v 1.24 2013/09/15 19:10:34 revo Exp $">
 <kap>
   <rad>E&ubreve;rop</rad>/o
 </kap>
@@ -14,7 +14,8 @@
     <uzo tip="fak">GEOG</uzo>
     <dif>
 La plej malgranda el la
-<ref tip="super" cel="mond.0oparto">mondopartoj</ref>,
+<ref tip="lst" cel="mond.0oparto"
+lst="voko:mondopartoj">mondopartoj</ref>,
 situanta okcidente de Azio kaj norde de Afriko:
       <ekz>
         kiam en la centra <tld/>o la barbaroj, vestitaj
@@ -158,6 +159,9 @@ Eur&oacute;pa
 </art>
 <!--
 $Log: euxrop1.xml,v $
+Revision 1.24  2013/09/15 19:10:34  revo
+Wolfram Diestel: ref al lst-oj mondopartoj
+
 Revision 1.23  2012/08/03 08:10:16  revo
 Marc Rausell: + trd ca
 
@@ -176,9 +180,6 @@ Russ Williams: +trd en
 Revision 1.18  2008/08/29 16:30:34  revo
 Antonio Codazzi: aldono de itala traduko, aldono de difinoj (fakoj: MIT
 kaj AST)
-
-Revision 1.17  2008/01/16 17:30:49  revo
-Wieland Pusch: +trd bg
 
 -->
 </vortaro>

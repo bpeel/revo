@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eglanteri.xml,v 1.5 2012/09/05 07:10:17 revo Exp $">
+<art mrk="$Id: eglanteri.xml,v 1.6 2013/08/29 07:10:32 revo Exp $">
 <kap>
   <rad>eglanteri</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -13,8 +13,10 @@
     <dif>
       Sova&gcirc;a <ref tip="vid" cel="roz.0o.ARBO">rozo</ref>, dorna arbeto
       kun
-      belaj floroj kreskanta en mezvarmaj landoj de E&ubreve;razio
-      el familio <ref tip="super" cel="rozac.0oj.BOT">rozacoj</ref>
+      belaj floroj kreskanta en mezvarmaj landoj de E&ubreve;razio,
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:botanikaj_specioj">specio</ref> de <ref tip="super"
+      cel="roz.0arbo">rozarbo</ref>
       (<trd lng="la">Rosa canina</trd>):
       <ekz>
         dol&ccirc;a kaj ekscita aromo de <tld/>oj
@@ -37,6 +39,10 @@
     <trd><ind>roser</ind> can&iacute;</trd>,
     <trd><ind>roser</ind> silvestre</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd>Hundsrose</trd>,
+    <trd>Heckenrose</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&eacute;glantier</trd>,
     <trd>&eacute;glantine</trd>
@@ -47,6 +53,9 @@
 
 <!--
 $Log: eglanteri.xml,v $
+Revision 1.6  2013/08/29 07:10:32  revo
+Wolfram Diestel: referenco al listo bot specioj, germ trd
+
 Revision 1.5  2012/09/05 07:10:17  revo
 Marc Rausell: + trd ca
 

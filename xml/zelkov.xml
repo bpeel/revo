@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: zelkov.xml,v 1.5 2012/07/31 16:10:17 revo Exp $">
+<art mrk="$Id: zelkov.xml,v 1.6 2013/08/29 15:10:30 revo Exp $">
 <kap>
   <rad>zelkov</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -13,8 +13,10 @@
     <uzo tip="fak">BOT</uzo>
     <dif>
       Falfolia arbo a&ubreve; arbeto kelkfoje rigardata kiel subspeco de
-      <ref tip="vid" cel="ulm.0o.BOT">ulmo</ref>, genro el familio <ref 
-      tip="super" cel="ulmac.0oj.BOT">ulmacoj</ref> (<trd 
+      <ref tip="vid" cel="ulm.0o.BOT">ulmo</ref>, <ref tip="lst"
+      cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref 
+      tip="malprt" cel="ulmac.0oj.BOT">ulmacoj</ref> (<trd 
       lng="la">Zelkova</trd>):
       <ekz>
         sub maljuna <tld/>o staki&gcirc;is flavaj folioj
@@ -50,6 +52,9 @@
 
 <!--
 $Log: zelkov.xml,v $
+Revision 1.6  2013/08/29 15:10:30  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.5  2012/07/31 16:10:17  revo
 Marc Rausell: + trd ca
 

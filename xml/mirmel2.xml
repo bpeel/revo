@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mirmel2.xml,v 1.5 2011/12/07 14:10:08 revo Exp $">
+<art mrk="$Id: mirmel2.xml,v 1.6 2013/08/31 16:10:22 revo Exp $">
 <kap>
   <rad>mirmeleoned</rad>/oj
 </kap>
@@ -11,8 +11,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Familio el la ordo
-      <ref tip="super" cel="flug.ret0iluloj">retflugiluloj</ref>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:zoologiaj_familioj">Familio</ref> el la ordo
+      <ref tip="malprt" cel="flug.ret0iluloj">retflugiluloj</ref>
       (<trd lng="la">Myrmeleonidae</trd>).
     </dif>
   </snc>
@@ -27,6 +28,9 @@
 
 <!--
 $Log: mirmel2.xml,v $
+Revision 1.6  2013/08/31 16:10:22  revo
+Wolfram Diestel: referenco al listo zoo familioj
+
 Revision 1.5  2011/12/07 14:10:08  revo
 Marc Rausell: kataluna traduko
 

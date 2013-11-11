@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kredit.xml,v 1.19 2009/09/13 16:57:14 revo Exp $">
+<art mrk="$Id: kredit.xml,v 1.22 2013/10/17 18:10:11 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kredit</rad>/o <fnt><bib>PV</bib></fnt>
@@ -245,9 +245,39 @@
   <trd lng="fr">discr&eacute;diter</trd>
   <trd lng="pt">desacreditar</trd>
 </drv>
+
+<drv mrk="kredit.0social">
+  <kap>social<tld/>o, <var><kap>sociala <tld/>o</kap></var> 
+</kap>
+  <snc mrk="kredit.0social.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+    Ekonomika <ref tip="malprt" cel="ideolo.0o.KOMUNE">ideologio</ref>
+    ellaborita de C.H. Douglas en 1918 postulanta, ke la eldonita
+    monkvanto 
+    estu &ccirc;iam samgranda kiel la valoro de &ccirc;iuj produktitaj varoj.
+    </dif>
+    <adm>
+       mankas cita&jcirc;o pruvanta la ekziston de tiu &ccirc;i vorto en E-o
+    </adm>
+  </snc>
+   <trdgrp lng="fr">
+    <trd>cr&eacute;dit social</trd>,
+    <trd>d&eacute;mocratie &eacute;conomique</trd>
+  </trdgrp>
+  </drv>
 </art>
 <!--
 $Log: kredit.xml,v $
+Revision 1.22  2013/10/17 18:10:11  revo
+Wolfram Diestel: koncizigis social~o, Revo ne estas leksikono!
+
+Revision 1.21  2013/10/11 08:10:12  revo
+Damien Brucker: +ref cxe socialkredito
+
+Revision 1.20  2013/10/10 15:10:09  revo
+Damien Brucker: Aldono de la sociala kredito
+
 Revision 1.19  2009/09/13 16:57:14  revo
 Paul Peeraerts: +nl
 
@@ -261,14 +291,5 @@ Revision 1.16  2009/02/15 14:17:52  revo
 Russ Williams: +trd en
 
 Revision 1.15  2008/07/20 16:30:18  revo
-Jeromo Vasxe: + mrk, reordig snc, + trd fr
-
-Revision 1.14 2004/10/20 16:31:49 revo
-Wolfram Diestel: germ trd
-
-Revision 1.13 2002/12/22 17:30:54 revo
-Ulrich Fellmann: plibonigo de la germ trdj (elpreno de pronomoj el la
-indekso) + 5 pliaj trd de
-
 -->
 </vortaro>

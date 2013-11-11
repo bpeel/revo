@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: karnav.xml,v 1.16 2009/08/18 19:17:38 revo Exp $">
+<art mrk="$Id: karnav.xml,v 1.17 2013/09/08 15:10:49 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>karnaval</rad>/o <fnt><bib>PV</bib></fnt>
@@ -14,7 +14,8 @@
   <snc mrk="karnav.0o.KAL">
     <uzo tip="fak">KAL</uzo>
     <dif>
-      Popola <ref tip="super" cel="fest.0o.KAL">festo</ref> kun 
+      Popola <ref tip="lst" cel="fest.0o" lst="voko:festoj">festo</ref>
+      kun 
       alivesti&gcirc;oj, burleskaj procesioj, festenoj, 
       en E&ubreve;ropo kaj Sudameriko ofte okazanta anta&ubreve; la
       <ref tip="vid" cel="fast.granda0o.KRI">granda fasto</ref>.
@@ -46,6 +47,9 @@
 </art>
 <!--
 $Log: karnav.xml,v $
+Revision 1.17  2013/09/08 15:10:49  revo
+Wolfram Diestel: ref al listo festoj
+
 Revision 1.16  2009/08/18 19:17:38  revo
 Russ Williams: +trd en
 
@@ -65,8 +69,5 @@ Revision 1.11  2004/12/05 17:32:34  revo
 Marc Bavant: +trd fr, mod dif, +snc
 
 Revision 1.10  2004/03/10 17:30:54  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2002/10/24 16:31:27  revo
 -->
 </vortaro>

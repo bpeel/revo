@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: hel.xml,v 1.21 2009/09/04 16:30:45 revo Exp $">
+  <art mrk="$Id: hel.xml,v 1.22 2013/10/28 19:10:26 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>hel</rad>/a
@@ -99,6 +99,7 @@
         <trd>&c_ja;&c_r;&c_k;&c_ib;</trd>,
         <trd>&c_ja;&c_s;&c_n;&c_y;</trd>
       </trdgrp>
+      <trd lng="ca">clar</trd>
       <trd lng="cs">sv&ecaron;tl&yacute;</trd>
       <trd lng="de">hell</trd>
       <trd lng="en">bright</trd>
@@ -111,6 +112,7 @@
         <trd>&eacute;clair&eacute;<klr tip="ind"> (lumineux)</klr></trd>,
         <trd>lumineux</trd>
       </trdgrp>
+      <trd lng="oc">clar</trd>
       <trd lng="pt">claro<klr tip="ind"> (adj.)</klr></trd>
       <trd lng="vo">klilik</trd>
     </drv>
@@ -227,6 +229,9 @@
   </art>
   <!--
   $Log: hel.xml,v $
+  Revision 1.22  2013/10/28 19:10:26  revo
+  Benito Subejrano: + trd ca oc
+
   Revision 1.21  2009/09/04 16:30:45  revo
   Antonio Codazzi: +trd it
 

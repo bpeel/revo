@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kocxen.xml,v 1.16 2012/07/31 16:10:20 revo Exp $">
+<art mrk="$Id: kocxen.xml,v 1.17 2013/09/01 15:11:05 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>ko&ccirc;enil</rad>/o
@@ -13,7 +13,9 @@
     <uzo tip="fak">ZOO</uzo>
     <fnt><bib>VdE</bib></fnt>
     <dif>
-      Genro el familio <ref tip="super" cel="kocxed.0oj">ko&ccirc;edoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="kocxed.0oj">ko&ccirc;edoj</ref>
       (<trd lng="la">Coccus</trd>), kelkajn speciojn de kiu oni bredas
       pro
       la <ref cel="karmin.0o">karmino</ref>, kiun eblas prepari el ili.
@@ -55,6 +57,9 @@
 </art>
 <!--
 $Log: kocxen.xml,v $
+Revision 1.17  2013/09/01 15:11:05  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.16  2012/07/31 16:10:20  revo
 Marc Rausell: + trd ca
 
@@ -74,8 +79,5 @@ Revision 1.11 2003/04/07 16:37:32 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.10 2001/10/31 19:15:28 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.9 2001/09/26 18:12:56 revo
 -->
 </vortaro>

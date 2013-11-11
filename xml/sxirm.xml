@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sxirm.xml,v 1.22 2012/10/05 08:10:09 revo Exp $">
+  <art mrk="$Id: sxirm.xml,v 1.24 2013/08/23 07:10:16 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>&scirc;irm</rad>/i <fnt><bib>PV</bib></fnt>
@@ -129,6 +129,12 @@
         <trd>couvrir</trd>,
         <trd>prot&eacute;ger</trd>
       </trdgrp>
+      <trdgrp lng="es">
+        <trd>cubrir</trd>,
+        <trd>escudar</trd>
+        <trd>guardar</trd>
+        <trd>proteger</trd>
+      </trdgrp>
       <trdgrp lng="hu">
         <trd>v&eacute;d</trd>,
         <trd>&oacute;v</trd>,
@@ -211,6 +217,7 @@
           </ekz>
         </dif>
         <trd lng="en">folding screen</trd>
+        <trd lng="es">biombo</trd>
         <trd lng="fr">paravent</trd>
         <trdgrp lng="hu">
           <trd>spanyolfal</trd>,
@@ -249,6 +256,7 @@
     <drv mrk="sxirm.faldo0ilo">
       <kap>faldo<tld/>ilo</kap>
       <ref tip="dif" cel="sxirm.0ilo.meblo"><tld/>ilo<sncref/></ref>
+      <trd lng="es">biombo</trd>
     </drv>
 
     <drv mrk="sxirm.fulmo0ilo">
@@ -378,6 +386,12 @@
   </art>
   <!--
   $Log: sxirm.xml,v $
+  Revision 1.24  2013/08/23 07:10:16  revo
+  Agustin Garcia Lopez: +trd(es) -i
+
+  Revision 1.23  2013/08/18 10:10:19  revo
+  Carlos Garcia: +trd es -ilo
+
   Revision 1.22  2012/10/05 08:10:09  revo
   Sergio Pokrovskij: + faldo~ilo
 

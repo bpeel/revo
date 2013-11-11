@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxarang.xml,v 1.2 2011/08/04 22:10:11 revo Exp $">
+<art mrk="$Id: cxarang.xml,v 1.3 2013/09/08 18:11:18 revo Exp $">
 <kap>
   <rad>&ccirc;arang</rad>/o
 </kap>
@@ -12,7 +12,8 @@
     <uzo tip="fak">MUZ</uzo>
     <dif>
       Sudamerika
-      <ref tip="super" cel="instru2.kord0o.MUZ">kordinstrumento</ref>
+      <ref tip="lst" cel="instru2.kord0o.MUZ"
+      lst="voko:kordinstrumentoj">kordinstrumento</ref>
       derivita de akut-sonaj gitaroj, kies sonkesto origine konsistis
       el kiraso de dazipo:
       <ekz>
@@ -43,6 +44,9 @@
 
 <!--
 $Log: cxarang.xml,v $
+Revision 1.3  2013/09/08 18:11:18  revo
+Wolfram Diestel: ref al listo kordinstrumentoj
+
 Revision 1.2  2011/08/04 22:10:11  revo
 Wieland Pusch: +trd de
 

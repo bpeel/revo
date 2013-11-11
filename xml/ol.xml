@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: ol.xml,v 1.18 2013/04/24 04:10:08 revo Exp $">
+  <art mrk="$Id: ol.xml,v 1.19 2013/09/01 09:10:12 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>ol</rad>
@@ -157,6 +157,7 @@
       <trd lng="en">than</trd>
       <trd lng="fi">kuin<klr tip="ind"> (erilaisuutta
           ilmaiseva)</klr></trd>
+      <trd lng="fr">que (comparatif)</trd>
       <trdgrp lng="he">
         <trd>&mem;-<klr tip="ind"> (&mem;&alef;&shin;&resh;)</klr></trd>,
         <trd>&mem;&alef;&shin;&resh;</trd>
@@ -173,6 +174,9 @@
   </art>
   <!--
   $Log: ol.xml,v $
+  Revision 1.19  2013/09/01 09:10:12  revo
+  Damien Brucker: +trd fr
+
   Revision 1.18  2013/04/24 04:10:08  revo
   Sergio Pokrovskij: alia ol + Ak.
 

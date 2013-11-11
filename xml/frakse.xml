@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frakse.xml,v 1.20 2010/04/24 17:07:44 revo Exp $">
+<art mrk="$Id: frakse.xml,v 1.22 2013/08/30 14:11:04 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fraksen</rad>/o <fnt><bib>PV</bib></fnt>
@@ -16,7 +16,9 @@
       fari
       tenilojn, meblojn, bastonojn... kaj kies folioj servas por prepari
       sanigan trinka&jcirc;on,
-      genro el familio <ref tip="super" cel="oleac.0oj">oleacoj</ref>
+      <ref tip="lst" cel="genr.0o"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="oleac.0oj">oleacoj</ref>
       (<trd lng="la">Fraxinus</trd>):
       <ekz>
         kie la tero iom pli humidas, tie levi&gcirc;is svelta hela <tld/>o
@@ -49,6 +51,12 @@
 </art>
 <!--
 $Log: frakse.xml,v $
+Revision 1.22  2013/08/30 14:11:04  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.21  2013/08/28 13:10:17  revo
+Wolfram Diestel: referencoj al bot genroj
+
 Revision 1.20  2010/04/24 17:07:44  revo
 Behnam Tabatabai: +trd fa
 
@@ -65,11 +73,5 @@ Revision 1.16 2005/04/06 16:34:45 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.15 2004/01/04 17:32:35 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14 2003/01/05 17:32:38 revo
-Paul Peeraerts: ald trd nl + belarangho
-
-Revision 1.13 2001/09/25 18:14:55 revo
 -->
 </vortaro>

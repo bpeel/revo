@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lukane.xml,v 1.7 2007/05/31 17:39:16 revo Exp $">
+<art mrk="$Id: lukane.xml,v 1.8 2013/08/31 15:10:49 revo Exp $">
 <kap>
   <rad>lukaned</rad>/oj
 </kap>
@@ -14,8 +14,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Familio el la ordo
-      <ref tip="super" cel="koleop.0oj">koleopteroj</ref>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:zoologiaj_familioj">Familio</ref> el la ordo
+      <ref tip="malprt" cel="koleop.0oj">koleopteroj</ref>
       (<trd lng="la">Lucanidae</trd>).
     </dif>
   </snc>
@@ -33,6 +34,9 @@
 </art>
 <!--
 $Log: lukane.xml,v $
+Revision 1.8  2013/08/31 15:10:49  revo
+Wolfram Diestel: referenco al listo zoo familioj
+
 Revision 1.7  2007/05/31 17:39:16  revo
 Wieland Pusch: +trd de
 

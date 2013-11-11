@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: srilank.xml,v 1.4 2013/02/11 05:10:15 revo Exp $">
+<art mrk="$Id: srilank.xml,v 1.5 2013/09/14 14:10:15 revo Exp $">
 <kap>
   <rad>srilank</rad>/o
 </kap>
@@ -18,12 +18,14 @@
   <snc mrk="srilank.0o.GEOG">
     <uzo tip="fak">GEOG</uzo>
     <uzo tip="fak">POL</uzo>
+    <mlg kod="ISO-3166">LK</mlg>
     <dif>
-      <ref tip="malprt" cel="azi.A0o">Azia</ref> lando
-      en la insulo Cejlono kun &ccirc;efurbo Kolombo.
-      &Gcirc;is 1972 nomata Cejlono.
-      Teritorio de Respubliko Srilanko.
-      ISO-3166 kodo: LK.
+      <ref tip="malprt" cel="azi.A0o">Azia</ref> 
+      <ref tip="lst" cel="sxtat.0o" lst="voko:&scirc;tatoj">lando</ref>
+      en la insulo <ref tip="malprt" cel="cejlon.0o">Cejlono</ref> 
+      kun &ccirc;efurbo <ref tip="prt" cel="kolomb.0o">Kolombo</ref>.
+      &Gcirc;is 1972 nomata Cejlono,
+      teritorio de Respubliko Srilanko.
     </dif>
     <trd lng="bg">&c_Sh;&c_r;&c_i; &c_L;&c_a;&c_n;&c_k;&c_a;</trd>
     <trdgrp lng="ca">
@@ -45,6 +47,9 @@
 
 <!--
 $Log: srilank.xml,v $
+Revision 1.5  2013/09/14 14:10:15  revo
+Wolfram Diestel: ref al lst sxtatoj
+
 Revision 1.4  2013/02/11 05:10:15  revo
 Evandro Avellar: Tr+ pt
 

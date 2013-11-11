@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pir.xml,v 1.26 2011/08/07 20:10:11 revo Exp $">
+<art mrk="$Id: pir.xml,v 1.30 2013/10/29 08:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pir</rad>/o <fnt><bib>PV</bib></fnt>
@@ -47,9 +47,12 @@
   <snc mrk="pir.0ujo.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      Arbo el kiu unu specio (<trd lng="la">Pyrus communis</trd>) estas 
+      <ref tip="lst" cel="arb.0o" lst="voko:rozoparencoj">Arbo</ref> 
+      el kiu unu specio (<trd lng="la">Pyrus communis</trd>) estas 
       kulturata en multaj varia&jcirc;oj pro la  fruktoj,
-      genro el familio <ref tip="super" cel="rozac.0oj">rozacoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="rozac.0oj">rozacoj</ref>
       (<trd lng="la">Pyrus</trd>).
     </dif>
   </snc>
@@ -81,7 +84,8 @@
   <snc mrk="pir.ter0o.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      <ref tip="super" cel="flor.sun0o.BOT">Sunfloro</ref>
+      <ref tip="lst" cel="flor.sun0o.BOT"
+      lst="voko:asteroparencoj">Sunfloro</ref>
       kreskanta precipe en norda Ameriko, kies tubera radiko estas 
       uzata kiel man&gcirc;a&jcirc;o por homoj a&ubreve; brutoj
       (<trd lng="la">Helianthus tuberosus</trd>).
@@ -129,6 +133,18 @@
 </art>
 <!--
 $Log: pir.xml,v $
+Revision 1.30  2013/10/29 08:10:19  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.29  2013/10/28 20:10:12  revo
+Wolfram Diestel: ter~o: ref al asteroparencoj
+
+Revision 1.28  2013/10/28 19:10:19  revo
+Wolfram Diestel: ~ujo: ref al rozoparencoj
+
+Revision 1.27  2013/08/29 07:10:39  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.26  2011/08/07 20:10:11  revo
 Carlos Garcia: +trd es -o -ujo
 
@@ -139,17 +155,5 @@ Revision 1.24  2008/12/21 17:30:33  revo
 Jeromo Vasxe: + mrk + fak, + dif cxe ter~o
 
 Revision 1.23 2007/11/22 17:30:32 revo
-Wieland Pusch: +trd bg
-
-Revision 1.22 2006/09/14 16:30:57 revo
-Russ Williams: +trd en
-
-Revision 1.21 2006/03/04 17:32:17 revo
-Tulio Flores: +tr pt
-
-Revision 1.20 2005/05/02 16:30:58 revo
-Alan ar Gall: +trd br, +1 trd fr, + ter~o
-
-Revision 1.19 2005/01/27 17:31:56 revo
 -->
 </vortaro>

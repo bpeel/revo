@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vost.xml,v 1.30 2013/04/19 06:10:11 revo Exp $">
+<art mrk="$Id: vost.xml,v 1.32 2013/10/21 19:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vost</rad>/o <fnt><bib>PV</bib></fnt>
@@ -138,12 +138,14 @@
   <snc mrk="vost.sen0uloj.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Ordo el la klaso <ref tip="super" cel="amfibi.0oj">amfibioj</ref>,
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> 
+      de <ref tip="super" cel="amfibi.0oj">amfibioj</ref>,
       kies lasta evoluformo ne havas voston;
-      <ref tip="sin" cel="anur.0oj.ZOO">anuroj</ref>
       (<trd lng="la">Anura</trd>).
     </dif>
-    <refgrp tip="sub">
+    <ref tip="sin" cel="anur.0oj.ZOO">anuroj</ref>
+    <refgrp tip="prt">
       <ref cel="raned.0oj">ranedoj</ref>,
       <ref cel="bufed1.0oj">bufedoj</ref>
     </refgrp>
@@ -167,6 +169,12 @@
 </art>
 <!--
 $Log: vost.xml,v $
+Revision 1.32  2013/10/21 19:10:20  revo
+Wolfram Diestel: sen~uloj: kor. ref-tip
+
+Revision 1.31  2013/09/01 12:10:12  revo
+Wolfram Diestel: sen~uloj: referenco al listo zoo ordoj
+
 Revision 1.30  2013/04/19 06:10:11  revo
 Sebastian Cyprych: +trd pl
 
@@ -183,11 +191,5 @@ Revision 1.26  2007/05/23 16:30:35  revo
 Wieland Pusch: +trd de
 
 Revision 1.25  2007/02/06 17:30:34  revo
-Jeromo Vasxe: + har~o
-
-Revision 1.24  2006/02/02 17:32:48  revo
-Tulio Flores: +trd pt
-
-Revision 1.23  2005/04/12 16:31:48  revo
 -->
 </vortaro>

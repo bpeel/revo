@@ -2,8 +2,11 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: palpeb.xml,v 1.20 2010/12/05 17:30:35 revo Exp $">
-<kap><ofc>*</ofc><rad>palpebr</rad>/o</kap>
+<art mrk="$Id: palpeb.xml,v 1.21 2013/08/30 01:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>palpebr</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
 <drv mrk="palpeb.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="palpeb.0o.ANA">
@@ -45,26 +48,24 @@
 <drv mrk="palpeb.0umi">
   <kap><tld/>umi</kap>
   <gra><vspec>ntr</vspec></gra>
-  <snc mrk="palpeb.0umi.KOMUNE">
+  <snc mrk="palpeb.0umi.MIEN">
     <dif>
-      Rapide fermi kaj malfermi la <tld/>ojn &ccirc;u por ripozigi, la
-      okulon,
+      Rapide fermi kaj malfermi la <tld/>ojn,
+      &ccirc;u por ripozigi la okulon,
       &ccirc;u por interkonsente signi kun iu:
       <ekz>
-        <uzo tip="stl">FRAZ</uzo>
-        <ind>en <tld/>uma da&ubreve;ro</ind>
-        <trd lng="fr">en un clin d'&oelig;il</trd>
-        <klr>(tre rapide)</klr>;
+        mi <klr>...</klr> <tld/>umis kun ia filino de komercisto
+        <fnt><bib>Revizoro</bib>, <lok>akto 2a, sceno 7a</lok></fnt>;
       </ekz>
       <ekz>
-        mi <klr>...</klr> <tld/>umis kun ia filino de komercisto
-        <fnt><bib>Revizoro</bib>, <lok>akto 2a, sceno 7a</lok></fnt>.
+        <ref tip="vid" cel="dauxr.enpalpebruma0o.KAL">en <tld/>uma
+        da&ubreve;ro</ref>.
       </ekz>
     </dif>
-    <refgrp tip="sin">
-      <ref cel="okul">okulumi</ref>.
+    <refgrp tip="vid">
+      <ref cel="sign.okul0i.MIEN">okulsigni</ref>,
+      <ref cel="okul.0i.KOMUNE">okulumi</ref>.
     </refgrp>
-    <trd lng="en">wink</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_m;&c_ib;&c_r;&c_g;&c_a;&c_c;&c_mol;</trd>,
@@ -77,7 +78,11 @@
     <trd>zwinkern</trd>,
     <trd>blinzeln</trd>
   </trdgrp>
-  <trd lng="fr">cligner de l'&oelig;il</trd>
+  <trd lng="en">wink</trd>
+  <trdgrp lng="fr">
+    <trd>cligner de l'&oelig;il</trd>,
+    <trd>cligner des yeux</trd>
+  </trdgrp>
   <trd lng="hu">pislog</trd>
   <trdgrp lng="it">
     <trd>ammiccare</trd>,
@@ -101,6 +106,9 @@
 </art>
 <!--
 $Log: palpeb.xml,v $
+Revision 1.21  2013/08/30 01:10:16  revo
+Jeromo Vasxe: + 1 ref
+
 Revision 1.20  2010/12/05 17:30:35  revo
 Antonio Codazzi: +trd it
 
@@ -120,8 +128,5 @@ Revision 1.15  2005/08/05 16:31:05  revo
 Luiz Portella: +trd pt
 
 Revision 1.14  2005/06/28 20:27:01  revo
-Alan ar Gall: +trd br
-
-Revision 1.13  2005/04/21 17:17:54  revo
 -->
 </vortaro>

@@ -2,27 +2,51 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: musk.xml,v 1.16 2012/07/01 19:10:09 revo Exp $">
+<art mrk="$Id: musk.xml,v 1.20 2013/10/27 10:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>musk</rad>/oj
+  <rad>musk</rad>/o
 </kap>
-<drv mrk="musk.0oj">
-  <kap><ofc>*</ofc><tld/>oj</kap>
-  <uzo tip="fak">BOT</uzo>
-  <snc>
+
+<drv mrk="musk.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="musk.0o.KOMUNE">
     <dif>
-      Klaso de <ref tip="super"
-      cel="musk.0oplantoj"><tld/>oplantoj</ref>
-      (<trd lng="la">Musci</trd>), sen vera radiko kaj kun
-      mallar&gcirc;aj folietoj, ofte dense kreskantaj sur
-      malsekaj &scirc;tonoj, arboj, kc.
+      Aro da senradikaj malgrandaj vegeta&jcirc;oj 
+       ofte dense kreskantaj sur
+      malsekaj &scirc;tonoj, arboj, kc:
+      <ekz>
+        kiel musko sur tegmentoj 
+        <fnt><bib>MT</bib>, <lok>Jesaja 37:27</lok></fnt>;
+      </ekz>
+      <ekz>
+         fre&scirc;e verde briletis la musko &ccirc;e la trunkoj de la arboj
+         <fnt><bib>Fab3</bib>, <lok>Historio de la jaro</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Moos</trd>
+  </snc>
+</drv>
+
+<drv mrk="musk.0oj">
+  <kap><tld/>oj</kap>
+  <snc>
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="divizi.0o.BOT"
+      lst="voko:botanikaj_grupoj">Divizio</ref> de <ref tip="malprt"
+      cel="plant.0oj">plantoj</ref>
+      (<trd lng="la">Bryophyta</trd>);
+      <ref tip="lst " cel="plant.sporo0oj" 
+      lst="voko:sporoplantoj">sporoplantoj</ref>
+      sen vera radiko kaj kun mallar&gcirc;aj folietoj.
     </dif>
   </snc>
   <trd lng="bg">&c_m;&c_malmol;&c_h;&c_o;&c_v;&c_je;</trd>
   <trd lng="de">Laubmoose</trd>
   <trd lng="en">mosses</trd>
   <trd lng="hu">lombos <ind>moh&aacute;k</ind></trd>
+  <trd lng="la">Musci</trd>
   <trd lng="nl">mossen</trd>
   <trd lng="pt">musgos</trd>
   <trdgrp lng="ru">
@@ -33,31 +57,54 @@
   </trdgrp>
 </drv>
 
-<drv mrk="musk.0oplantoj">
-  <kap><tld/>oplantoj</kap>
-  <uzo tip="fak">BOT</uzo>
-  <snc>
+<drv mrk="musk.korno0oj">
+  <kap>korno<tld/>oj</kap>
+  <snc mrk="musk.korno0oj.BOT">
+    <uzo tip="fak">BOT</uzo>
     <dif>
-      Divizio de la <ref tip="super" cel="plant.0oj">plantoj</ref>
-      (<trd lng="la">Bryophyta</trd>), sporoplantoj
-      sen veraj radikoj kaj angioj.
+      <ref tip="lst " cel="plant.sporo0oj" 
+      lst="voko:sporoplantoj">Sporoplantoj</ref> el
+      <ref tip="lst" cel="divizi.0o.BOT"
+      lst="voko:botanikaj_grupoj">divizio</ref> de <ref tip="malprt"
+      cel="plant.0oj">plantoj</ref>
+      (<trd lng="la">Anthocerotophyta</trd>).
     </dif>
+    <trd lng="de">Hornmoose</trd>
   </snc>
-  <trd lng="bg">&c_m;&c_malmol;&c_h;&c_o;&c_v;&c_je;</trd>
-  <trd lng="de">Moose</trd>
-  <trd lng="en">mosses</trd>
-  <trd lng="hu">moh&aacute;k</trd>
-  <trd lng="nl">mossen</trd>
-  <trdgrp lng="ru">
-    <trd>&c_m;&c_o;&c_h;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_je;<klr tip="ind"> (&c_o;&c_t;&c_d;&c_je;&c_l;
-    &c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_j;)</klr></trd>,
-    <trd>&c_m;&c_o;&c_h;&c_o;&c_v;&c_i;&c_d;&c_n;&c_y;&c_je; <klr tip="amb">(&c_o;&c_t;&c_d;&c_je;&c_l;
-    &c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_j;)</klr></trd>    
-  </trdgrp>
 </drv>
+
+<drv mrk="musk.hepato0oj">
+  <kap>hepato<tld/>oj<fnt>PIV2</fnt></kap>
+  <snc mrk="musk.hepato0oj.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst " cel="plant.sporo0oj" 
+      lst="voko:sporoplantoj">Sporoplantoj</ref> el
+      <ref tip="lst" cel="divizi.0o.BOT"
+      lst="voko:botanikaj_grupoj">divizio</ref> de <ref tip="malprt"
+      cel="plant.0oj">plantoj</ref>
+      (<trd lng="la">Marchantiophyta</trd>).
+    </dif>
+    <trd lng="de">Lebermoose</trd>
+  </snc>
+</drv>
+
+
 </art>
 <!--
 $Log: musk.xml,v $
+Revision 1.20  2013/10/27 10:10:13  revo
+Wolfram Diestel: ref al sporoplantoj
+
+Revision 1.19  2013/08/30 15:10:16  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.18  2013/08/29 19:10:10  revo
+Wolfram Diestel: + drv ~o, korno~oj, hepato~oj, - ~oplantoj
+
+Revision 1.17  2013/08/25 16:11:41  revo
+Wolfram Diestel: referencoj al listo bot klasoj
+
 Revision 1.16  2012/07/01 19:10:09  revo
 Joop Eggen: +trd bg
 
@@ -68,17 +115,5 @@ Revision 1.14  2006/08/16 19:53:55  revo
 Tulio Flores: +tr pt
 
 Revision 1.13  2002/12/12 17:30:57  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12  2001/11/28 19:05:33  revo
-Yury Finkel: +trd ru
-
-Revision 1.11 2001/09/23 18:33:08 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.10 2000/12/12 17:11:08 revo
-Wolfram Diestel: divizio, ref al plantoj
-
-Revision 1.9 2000/11/30 08:54:24 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korn.xml,v 1.24 2012/10/23 00:12:27 revo Exp $">
+<art mrk="$Id: korn.xml,v 1.26 2013/10/09 17:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>korn</rad>/o <fnt><bib>PV</bib></fnt>
@@ -56,8 +56,9 @@
       <uzo tip="fak">MUZ</uzo>
       <dif>
         Besta korno truita &ccirc;e la pinto a&ubreve; &ccirc;e flanko,
-        uzata kiel <ref tip="vid"
-        cel="instru2.blov0o">blovinstrumento</ref>:
+        uzata kiel <ref tip="lst"
+      cel="instru2.blov0o"
+      lst="voko:blovinstrumentoj">blovinstrumento</ref>:
         <ekz>
           de la supro eksonis <tld/>o, al kiu tuj respondis la princa
           ta&ccirc;mento
@@ -208,8 +209,9 @@
   <snc mrk="korn.cxas0o.MUZ">
     <uzo tip="fak">MUZ</uzo>
     <dif>
-      E&ubreve;ropa metala <ref tip="super"
-      cel="instru2.blov0o">blovinstrumento</ref>
+      E&ubreve;ropa metala <ref tip="lst"
+      cel="instru2.blov0o"
+      lst="voko:blovinstrumentoj">blovinstrumento</ref>
       kun longa, cirkle volvita tubo kaj vasta klo&scirc;o:
       <ekz>
         jen inter la montoj eka&ubreve;di&gcirc;is la sonoj de &ccirc;as<tld/>o
@@ -302,6 +304,8 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_n;&c_a;&c_r;&c_o;&c_g;</trd>
+  <trd lng="de">Einhorn</trd>
+  <trd lng="en">unicorn</trd>
   <trdgrp lng="fr">
     <trd>licorne</trd>,
     <trd>unicorne</trd>
@@ -331,6 +335,12 @@
 </art>
 <!--
 $Log: korn.xml,v $
+Revision 1.26  2013/10/09 17:10:11  revo
+Jessica Grasso: +tr en, de
+
+Revision 1.25  2013/09/08 18:10:35  revo
+Wolfram Diestel: ref al listo blovinstrumentoj
+
 Revision 1.24  2012/10/23 00:12:27  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -347,11 +357,5 @@ Revision 1.20  2005/05/23 16:31:57  revo
 Jeromo Vasxe: + kk ekz, + kk fnt
 
 Revision 1.19 2004/10/08 16:32:40 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.18 2004/09/09 18:53:22 revo
-Ulrich Fellmann: + 1 trd=de
-
-Revision 1.17 2004/04/29 16:32:05 revo
 -->
 </vortaro>

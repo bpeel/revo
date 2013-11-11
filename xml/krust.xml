@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krust.xml,v 1.22 2013/01/15 08:10:11 revo Exp $">
+<art mrk="$Id: krust.xml,v 1.24 2013/11/02 12:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>krust</rad>/o <fnt><bib>PV</bib></fnt>
@@ -76,6 +76,15 @@
   </trdgrp>
 </drv>
 
+<drv mrk="krust.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="krust.0ulo.ZOO">
+    <dif>
+      Iu el <ref tip="malprt" cel="krust.0uloj"><tld/>uloj</ref>.
+    </dif>
+  </snc>
+</drv>
+
 <drv mrk="krust.0uloj">
   <kap><tld/>uloj</kap>
   <snc mrk="krust.0uloj.ZOO">
@@ -83,9 +92,11 @@
     <dif>
       Bestoj kovritaj de karapaco
       kaj spirantaj per brankoj, plej ofte vivantaj en akvo,
-      klaso de <ref tip="super"
+      <ref tip="lst" cel="grup.0o.BIO"
+      lst="voko:zoologiaj_grupoj">grupo</ref> de <ref tip="malprt"
       cel="artik.0uloj">artikuloj</ref>
-      (<trd lng="la">Crustacea</trd>):
+      (<trd lng="la">Crustacea</trd>), al kiu apartenas i.a. la klaso
+      <trd lng="la">Malacostraca</trd>:
       <ekz>
         <tld/>ulo <klr>...</klr> havas ekstreme kompleksan bu&scirc;on
         konsistantan de multaj partoj
@@ -131,7 +142,8 @@
   <snc mrk="krust.dekpiedaj0uloj.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Ordo el la klaso <ref tip="super"
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> de <ref tip="malprt"
       cel="krust.0uloj"><tld/>uloj</ref>
       kun dek piedoj (<trd lng="la">Decapoda</trd>).
     </dif>
@@ -147,6 +159,12 @@
 </art>
 <!--
 $Log: krust.xml,v $
+Revision 1.24  2013/11/02 12:10:26  revo
+Wolfram Diestel: ~ulo
+
+Revision 1.23  2013/08/31 17:10:34  revo
+Wolfram Diestel: 10piedaj ~uloj: referenco al listo zoo ordoj
+
 Revision 1.22  2013/01/15 08:10:11  revo
 Jeromo Vasxe: kor 1 ref
 
@@ -163,11 +181,5 @@ Revision 1.18  2008/02/12 17:30:32  revo
 Russ Williams: +trd en
 
 Revision 1.17  2006/10/27 16:30:57  revo
-Tulio Flores: +tr pt
-
-Revision 1.16  2006/01/09 17:32:41  revo
-Jeromo Vasxe: ~o preciz. dif, + kk mrk
-
-Revision 1.15 2004/08/02 18:56:16 revo
 -->
 </vortaro>

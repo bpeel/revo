@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sapor.xml,v 1.4 2012/07/23 14:10:31 revo Exp $">
+<art mrk="$Id: sapor.xml,v 1.5 2013/09/29 20:10:12 revo Exp $">
 <kap>
   <rad>sapor</rad>/o
   <fnt><bib>PIV2</bib></fnt>
@@ -35,6 +35,7 @@
     <trd lng="it">sapore<klr> (elemento sensoriale)</klr></trd>
     <trd lng="nl">smaak</trd>
     <trd lng="pl">smak</trd>
+    <trd lng="ro">gust</trd>
   </snc>
 </drv>
 <drv mrk="sapor.0i">
@@ -51,12 +52,16 @@
     <trd lng="it">degustare</trd>
     <trd lng="nl">smaken naar</trd>
     <trd lng="pl">smakowa&cacute;</trd>
+    <trd lng="ro">a pl&abreve;cea</trd>
   </snc>
 </drv>
 </art>
 
 <!--
 $Log: sapor.xml,v $
+Revision 1.5  2013/09/29 20:10:12  revo
+Vito Redsky: +trd ro
+
 Revision 1.4  2012/07/23 14:10:31  revo
 Marc Rausell: + trd ca
 

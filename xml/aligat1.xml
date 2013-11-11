@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aligat1.xml,v 1.6 2012/12/10 08:10:11 revo Exp $">
+<art mrk="$Id: aligat1.xml,v 1.7 2013/08/31 15:10:18 revo Exp $">
 <kap>
   <rad>aligatored</rad>/oj
 </kap>
@@ -13,7 +13,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc mrk="aligat1.0oj.ZOO">
     <dif>
-      Familio el la ordo <ref tip="super"
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:zoologiaj_familioj">Familio</ref> el la ordo <ref
+      tip="malprt"
       cel="krokod.0uloj">krokodiluloj</ref>
       (<trd lng="la">Alligatoridae</trd>), &ccirc;e kiuj la kvara dento estas
       ne videbla &ccirc;e fermita bu&scirc;o.
@@ -32,6 +34,9 @@
 
 <!--
 $Log: aligat1.xml,v $
+Revision 1.7  2013/08/31 15:10:18  revo
+Wolfram Diestel: referenco al listo zoo familioj
+
 Revision 1.6  2012/12/10 08:10:11  revo
 Wieland Pusch: snc mrk-oj
 

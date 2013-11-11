@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: gol.xml,v 1.16 2009/08/24 16:32:35 revo Exp $">
+  <art mrk="$Id: gol.xml,v 1.17 2013/09/05 01:10:14 revo Exp $">
     <kap>
       <rad>gol</rad>/i
     </kap>
@@ -91,7 +91,7 @@
         <trd>goal</trd>
       </trdgrp>
       <trdgrp lng="pl">
-        <trd>bramka<klr> (w pi&lstroke;ce no&zdot;nej, r&eogonek;cznj,
+        <trd>bramka<klr> (w pi&lstroke;ce no&zdot;nej, r&eogonek;cznej,
 hokeju, itp.)</klr></trd>, 
         <trd>kosz<klr> (w koszyk&oacute;wce)</klr></trd> 
       </trdgrp>
@@ -175,12 +175,16 @@ Cagliari</url></vrk>
         <trd>arqueiro</trd>, 
         <trd>guarda-redes</trd> 
       </trdgrp>
+      <trd lng="ro">portar</trd>
       <trd lng="ru">&c_v;&c_r;&c_a;&c_t;&c_a;&c_r;&c_mol;</trd>
       <trd lng="tr">kaleci</trd>
     </drv>
   </art>
   <!--
   $Log: gol.xml,v $
+  Revision 1.17  2013/09/05 01:10:14  revo
+  Vito Redsky: kor trd pl +trd ro
+
   Revision 1.16  2009/08/24 16:32:35  revo
   Emmanuel Debanne: +kor tr
 

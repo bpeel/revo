@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pinac.xml,v 1.8 2011/12/08 12:10:18 revo Exp $">
+<art mrk="$Id: pinac.xml,v 1.10 2013/08/31 19:10:31 revo Exp $">
 <kap>
   <rad>pinac</rad>/oj
 </kap>
@@ -11,8 +11,9 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Familio de <ref tip="super"
-      cel="konifer.0oplantoj">koniferoplantoj</ref>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="konifer.0oj">koniferoj</ref>
       (<trd lng="la">Pinaceae</trd>).
     </dif>
   </snc>
@@ -29,6 +30,12 @@ tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
 </art>
 <!--
 $Log: pinac.xml,v $
+Revision 1.10  2013/08/31 19:10:31  revo
+Wolfram Diestel: koniferoplantoj -> koniferoj
+
+Revision 1.9  2013/08/25 16:11:36  revo
+Wolfram Diestel: referencoj al listo bot familioj
+
 Revision 1.8  2011/12/08 12:10:18  revo
 Marc Rausell: kataluna traduko
 
@@ -45,10 +52,5 @@ Revision 1.4  2002/05/11 10:27:28  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.3  2001/12/19 12:00:34  revo
-Yury Finkel: +trd ru
-
-Revision 1.2 2001/09/24 18:11:49 revo
-Jerano Zachrisson: +trd sv
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: zimbalon.xml,v 1.11 2011/12/11 12:10:12 revo Exp $">
+<art mrk="$Id: zimbalon.xml,v 1.12 2013/09/08 18:11:46 revo Exp $">
 <kap>
   <rad>zimbalon</rad>/o <fnt><bib>MuzTerm</bib></fnt>
 </kap>
@@ -12,7 +12,8 @@
   <snc>
     <dif>
       Cigan- kaj hungar-devena 
-<ref tip="super" cel="instru2.kord0o">kordinstrumento</ref>,
+<ref tip="lst" cel="instru2.kord0o.MUZ"
+lst="voko:kordinstrumentoj">kordinstrumento</ref>,
       speco de 35-korda <ref tip="vid" cel="citr.0o.MUZ">citro</ref>
       sonigata per du bastonetoj kun kurba, lede a&ubreve; &scirc;tofe
       garnita ekstrema&jcirc;o.
@@ -41,6 +42,9 @@
 
 <!--
 $Log: zimbalon.xml,v $
+Revision 1.12  2013/09/08 18:11:46  revo
+Wolfram Diestel: ref al listo kordinstrumentoj
+
 Revision 1.11  2011/12/11 12:10:12  revo
 Marc Rausell: +trd ca
 
@@ -60,8 +64,5 @@ Revision 1.6  2003/08/26 16:32:17  revo
 Yury Finkel: +trd ru
 
 Revision 1.5  2003/01/09 17:32:02  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.4  2002/09/13 16:35:31  revo
 -->
 </vortaro>

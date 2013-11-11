@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hien.xml,v 1.21 2011/12/05 10:10:23 revo Exp $">
+<art mrk="$Id: hien.xml,v 1.24 2013/10/20 16:10:19 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>hien</rad>/o
@@ -12,13 +12,17 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super"
-      cel="hiened.0oj"><tld/>edoj</ref>
-      (<trd lng="la">Hyaena</trd>), nokta rabobesto el Afriko kaj Azio,
-      sin nutranta per kadavra&jcirc;oj.
+      Nokta <ref tip="lst" cel="best.rabo0o"
+      lst="voko:rabobestoj">rabobesto</ref> el Afriko kaj Azio,
+      sin nutranta per kadavra&jcirc;oj;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="hiened.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Hyaena</trd>), 
     </dif>
   </snc>                     
   <trd lng="be">&c_g;&c_ib;&c_je;&c_n;&c_a;</trd>
+  <trd lng="bg">&c_h;&c_i;&c_je;&c_n;&c_a;</trd>
   <trd lng="br">bleiz-broc'h</trd>
   <trd lng="ca">hiena</trd>
   <trd lng="de">Hy&auml;ne</trd>
@@ -38,6 +42,15 @@
 </art>
 <!--
 $Log: hien.xml,v $
+Revision 1.24  2013/10/20 16:10:19  revo
+Wolfram Diestel: ref al lst rabobestoj
+
+Revision 1.23  2013/09/01 15:10:44  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.22  2013/08/01 16:10:11  revo
+Joop Eggen: +trd bg
+
 Revision 1.21  2011/12/05 10:10:23  revo
 Marc Rausell: kataluna traduko
 
@@ -51,14 +64,5 @@ Revision 1.18  2009/09/10 16:32:19  revo
 Antonio Codazzi: +trd it
 
 Revision 1.17  2005/06/27 19:20:21  revo
-Alan ar Gall: +trd br
-
-Revision 1.16  2004/01/10 17:34:23  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.15  2002/07/11 17:35:09  revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.14  2002/07/06 17:31:48  revo
 -->
 </vortaro>

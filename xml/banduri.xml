@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: banduri.xml,v 1.6 2009/08/23 16:31:28 revo Exp $">
+<art mrk="$Id: banduri.xml,v 1.7 2013/09/08 18:11:12 revo Exp $">
 <kap>
   <rad>banduri</rad>/o <fnt><bib>MuzTerm</bib></fnt>
 </kap>
@@ -11,8 +11,8 @@
   <kap><tld/>o</kap>
   <snc>
     <dif>
-      Hispana <ref tip="super"
-      cel="instru2.kord0o">kordinstrumento</ref>
+      Hispana <ref tip="lst" cel="instru2.kord0o.MUZ"
+      lst="voko:kordinstrumentoj">kordinstrumento</ref>
       uzata en urbaj popolaj bandoj,
       kun mallonga kolo kaj ses duoblaj kordoj.
     </dif>
@@ -33,6 +33,9 @@
 </art>
 <!--
 $Log: banduri.xml,v $
+Revision 1.7  2013/09/08 18:11:12  revo
+Wolfram Diestel: ref al listo kordinstrumentoj
+
 Revision 1.6  2009/08/23 16:31:28  revo
 Paul Peeraerts: +trd nl
 

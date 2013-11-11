@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: leuxkoj.xml,v 1.6 2009/10/06 16:44:43 revo Exp $">
+<art mrk="$Id: leuxkoj.xml,v 1.7 2013/08/26 08:10:22 revo Exp $">
 <kap>
   <rad>le&ubreve;koj</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -13,7 +13,9 @@
     <dif>
       Plurjara bulboherbo kreskanta en E&ubreve;ropo,
       Nordafriko kaj Okcidentazio, kun mallar&gcirc;aj folioj kaj pendaj,
-      klo&scirc;aj, blankaj floroj, genro el familio <ref tip="super"
+      klo&scirc;aj, blankaj floroj, <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
       cel="amaril1.0oj">amarilidacoj</ref> (<trd
       lng="la">Leucojum</trd>):
       <ekz>
@@ -47,6 +49,9 @@
 
 <!--
 $Log: leuxkoj.xml,v $
+Revision 1.7  2013/08/26 08:10:22  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.6  2009/10/06 16:44:43  revo
 Paul Peeraerts: +nl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: talasemi.xml,v 1.1 2013/06/01 11:10:09 revo Exp $">
+<art mrk="$Id: talasemi.xml,v 1.2 2013/10/09 20:10:21 revo Exp $">
 <kap>
   <rad>talasemi</rad>/o
 </kap>
@@ -35,6 +35,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
   </snc>
   <trd lng="en">thamassemia</trd>
   <trd lng="fr">thalass&eacute;mie</trd>
@@ -43,6 +44,9 @@
 
 <!--
 $Log: talasemi.xml,v $
+Revision 1.2  2013/10/09 20:10:21  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.1  2013/06/01 11:10:09  revo
 Jeromo Vasxe: nova artikolo
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: setari.xml,v 1.3 2009/10/29 17:31:30 revo Exp $">
+<art mrk="$Id: setari.xml,v 1.4 2013/08/28 16:10:14 revo Exp $">
 <kap>
   <rad>setari</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -11,16 +11,18 @@
   <snc mrk="setari.0o.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      Neda&ubreve;ra herbo kun rigidaj haroj, genro
-      el familio <ref tip="super" cel="poac.0oj.BOT">poacoj</ref>:
+      Neda&ubreve;ra herbo kun rigidaj haroj, <ref tip="lst" cel="genr.0o"
+      lst="voko:botanikaj_genroj">genro</ref>
+      el familio <ref tip="malprt" cel="poac.0oj.BOT">poacoj</ref>
+      (<trd lng="la">Setaria</trd>):
       <ekz>
         &ccirc;iutage &scirc;i man&gcirc;is riza&jcirc;on kun <tld/>o
         <fnt><bib>HomojMan&gcirc;antaj</bib>, <lok>&leftquot;iun tagon por mortigi
-        tiun
-        memoron&rightquot;, p. 236a</lok></fnt>.
+        tiun memoron&rightquot;, p. 236a</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">Borstenhirse</trd>
   <trdgrp lng="fr">
     <trd>millet<klr tip="amb"> (&agrave; grappes, d'italie...)</klr></trd>,
     <trd>s&eacute;taire</trd>
@@ -35,6 +37,9 @@
 
 <!--
 $Log: setari.xml,v $
+Revision 1.4  2013/08/28 16:10:14  revo
+Wolfram Diestel: referencoj al bot genroj, trd la, de
+
 Revision 1.3  2009/10/29 17:31:30  revo
 Antonio Codazzi: +trd it
 

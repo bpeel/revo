@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sterle.xml,v 1.10 2003/02/21 17:32:05 revo Exp $">
+<art mrk="$Id: sterle.xml,v 1.11 2013/10/05 08:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sterled</rad>/o
@@ -12,8 +12,12 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Specio de <ref tip="super" cel="acipenser.0o">acipensero</ref>
-      (<trd lng="la">Acipenser ruthenus</trd>).
+      Specio de <ref tip="lst" cel="acipenser.0o" 
+      lst="voko:fi&scirc;oj">acipensero</ref>
+      (<trd lng="la">Acipenser ruthenus</trd>), kun malgranda mallar&gcirc;a
+      korpo &gcirc;is maksimume 1&nbsp;m longa,
+      kun kapo pli longa kaj maldika ol <ref
+      cel="sturg.0o">sturgo</ref>.
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_c;&c_je;&c_r;&c_l;&c_ja;&c_d;&c_z;&c_mol;</trd>
@@ -26,6 +30,9 @@
 </art>
 <!--
 $Log: sterle.xml,v $
+Revision 1.11  2013/10/05 08:10:21  revo
+Wolfram Diestel: prilaboris dif, ref al lst fishoj
+
 Revision 1.10  2003/02/21 17:32:05  revo
 Zmicier Lapcionak: + trd be
 
@@ -46,4 +53,3 @@ Wolfram Diestel: prilaboris dif, germ trd, ZOO
 
 -->
 </vortaro>
-

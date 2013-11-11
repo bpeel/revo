@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: romp.xml,v 1.28 2010/10/23 16:30:18 revo Exp $">
+<art mrk="$Id: romp.xml,v 1.30 2013/11/08 19:10:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>romp</rad>/i <fnt><bib>PV</bib></fnt>
@@ -90,13 +90,13 @@
   </snc>
   <snc mrk="romp.0i.cxesigi">
     <uzo tip="stl">FIG</uzo>
-    <ref tip="dif" cel="romp.inter0i.cxesigi">inter<tld/>i
-    <sncref/></ref>
+    <ref tip="dif"
+    cel="romp.inter0i.cxesigi">inter<tld/>i<sncref/></ref>
     <ekz>
-      <tld/>i la silenton<fnt>B</fnt>,
+      <tld/>i la silenton<fnt>B</fnt>;
     </ekz>
     <ekz>
-      la ekvilibron;
+      <tld/>i la ekvilibron;
     </ekz>
     <ekz>
       eksploda bruo <tld/>is la kvietecon;
@@ -272,6 +272,31 @@
   <trd lng="nl">breekbaar</trd>
 </drv>
 
+<drv mrk="romp.igxem0a">
+  <kap><tld/>i&gcirc;ema</kap>
+  <snc mrk="romp.igxem0a.KOMUNE">
+    <dif>
+      Facile <tld/>i&gcirc;anta;
+      <ref tip="vid" cel="fortik.mal0a.KOMUNE">malfortika</ref>,
+      <ref tip="sin" cel="fragil.0a.KOMUNE">fragila</ref>:
+      <ekz>
+        paco estas same <tld/>i&gcirc;ema kiel ovo 
+        <fnt>
+          <aut>H. Y. Guezo, trad. Mirejo</aut>,
+          <vrk><url
+          ref="http://mirejo3.blogspot.fr/2011/01/fragile-rompigh-ema.html">
+          Fragile / Rompi&gcirc;ema</url></vrk>,
+          <lok>2011-01-28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>cassant<klr> (fragile)</klr></trd>,
+    <trd>fragile</trd>
+  </trdgrp>
+</drv>
+
 <drv mrk="romp.0igxi">
   <kap><tld/>i&gcirc;i</kap>
   <snc mrk="romp.0igxi.KOMUNE">
@@ -311,6 +336,41 @@
     <trd>spaccarsi</trd>,
     <trd>fratturarsi</trd>,
     <trd>sfiancarsi</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="romp.0itajxo">
+  <kap><tld/>ita&jcirc;o<fnt>Z</fnt>,
+  <var><kap><tld/>opeco<fnt>Z</fnt></kap></var></kap>
+  <snc mrk="romp.0itajx.KOMUNE">
+    <dif>
+      Peco de io <tld/>ita; dis<tld/>a&jcirc;o:
+      <ekz>
+	<tld/>ita&jcirc;oj de &scirc;ipoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_l;&c_o;&c_m;&c_a;&c_k;</trd>,
+    <trd>&c_a;&c_s;&c_k;&c_o;&c_l;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;bris</trd>,
+    <trd>fragment</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>t&ouml;red&eacute;k</trd>,
+    <trd>let&ouml;rt darab</trd>,
+    <trd>szil&aacute;nk</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>pezzo<klr> (di cosa rota)</klr></trd>,
+    <trd>frammento</trd>
+  </trdgrp>
+  <trd lng="nl">brokstuk</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_l;&c_o;&c_m;&c_o;&c_k;</trd>,
+    <trd>&c_o;&c_s;&c_k;&c_o;&c_l;&c_o;&c_k;</trd>
   </trdgrp>
 </drv>
 
@@ -411,12 +471,12 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="romp.inter0i.cxesigi">
     <dif>
-      &Ccirc;esigi la kontinuecon de io.
+      &Ccirc;esigi la kontinuecon de io;
+      <ref tip="sin" cel="romp.0i.cxesigi"><tld/>i<sncref/></ref>.
     </dif>
     <ekz>
       seninter<tld/>a aktiveco.
-    </ekz>
-    <ref tip="sin" cel="romp.0i.cxesigi"><tld/>i <sncref/></ref>
+    </ekz>    
   </snc>
   <snc mrk="romp.inter0i.parolante">
     <dif>
@@ -443,6 +503,29 @@
     <trd>&c_p;&c_r;&c_je;&c_r;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_je;&c_r;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+</drv>
+
+<drv mrk="romp.tra0o">
+  <kap>tra<tld/>o</kap>
+  <snc mrk="romp.tra0o.KOMUNE">
+    <dif>
+      Sukcesa transpaso de bara&jcirc;o:
+      <ekz>
+        unu atentindan tra<tld/>on Esperanto jam atingis:
+        &gcirc;i fari&gcirc;is transgeneracia vivanta lingvo
+        <fnt>
+          <aut>Komunika Komitato de SAT</aut>,
+          <vrk><url
+          ref="http://www.nodo50.org/esperanto/kongreso82.htm">
+          Eksternacia interkontakti&gcirc;o de laboristoj kaj
+          progresemuloj</url></vrk>,
+          <lok>82a Kongreso de SAT, [2009]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">breakthrough</trd>
+  <trd lng="fr">perc&eacute;e</trd>
 </drv>
 
 <drv mrk="romp.kap0a">
@@ -475,7 +558,7 @@
     <fnt><bib>PV</bib></fnt>
     <ref tip="dif" cel="romp.kol0a">kol<tld/>a</ref>
     <ekz>
-      <tld/>rompa salto<fnt>Z</fnt>.
+      kap<tld/>a salto<fnt>Z</fnt>.
     </ekz>
     <trd lng="en">fatal</trd>
     <trdgrp lng="fr">
@@ -577,41 +660,6 @@ ref="http://www.geocities.com/cigneto/apokrifo/2Makabeoj.html"></url>
   <trd lng="it">ariete<klr> (macchina bellica)</klr></trd>
 </drv>
 
-<drv mrk="romp.0opeco">
-  <kap><tld/>opeco<fnt>Z</fnt>,
-<var><kap><tld/>ita&jcirc;o</kap></var><fnt>Z</fnt></kap>
-  <snc mrk="romp.0opeco.KOMUNE">
-    <dif>
-      Peco de io <tld/>ita; dis<tld/>a&jcirc;o:
-      <ekz>
-	<tld/>ita&jcirc;oj de &scirc;ipoj<fnt>Z</fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trdgrp lng="be">
-    <trd>&c_a;&c_b;&c_l;&c_o;&c_m;&c_a;&c_k;</trd>,
-    <trd>&c_a;&c_s;&c_k;&c_o;&c_l;&c_a;&c_k;</trd>
-  </trdgrp>
-  <trdgrp lng="fr">
-    <trd>d&eacute;bris</trd>,
-    <trd>fragment</trd>
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>t&ouml;red&eacute;k</trd>,
-    <trd>let&ouml;rt darab</trd>,
-    <trd>szil&aacute;nk</trd>
-  </trdgrp>
-  <trdgrp lng="it">
-    <trd>pezzo<klr> (di cosa rota)</klr></trd>,
-    <trd>frammento</trd>
-  </trdgrp>
-  <trd lng="nl">brokstuk</trd>
-  <trdgrp lng="ru">
-    <trd>&c_o;&c_b;&c_l;&c_o;&c_m;&c_o;&c_k;</trd>,
-    <trd>&c_o;&c_s;&c_k;&c_o;&c_l;&c_o;&c_k;</trd>
-  </trdgrp>
-</drv>
-
 <drv mrk="romp.sen0a">
   <kap>sen<tld/>a</kap>
   <snc mrk="romp.sen0a.KOMUNE">
@@ -625,7 +673,8 @@ ref="http://www.geocities.com/cigneto/apokrifo/2Makabeoj.html"></url>
     </dif>
     <refgrp tip="vid">
       <ref cel="glat.0a">glata</ref>,
-      <ref cel="kontin3.0a">kontinua</ref>
+      <ref cel="kontin3.0a">kontinua</ref>,
+      <ref cel="interm.sen0a.KOMUNE">senintermita</ref>
     </refgrp>
   </snc>
   <trdgrp lng="fr">
@@ -637,6 +686,12 @@ ref="http://www.geocities.com/cigneto/apokrifo/2Makabeoj.html"></url>
 </art>
 <!--
 $Log: romp.xml,v $
+Revision 1.30  2013/11/08 19:10:36  revo
+Jeromo Vasxe: + ~igxema
+
+Revision 1.29  2013/10/09 20:10:31  revo
+Jeromo Vasxe: + tra~o
+
 Revision 1.28  2010/10/23 16:30:18  revo
 Antonio Codazzi: +trd it
 
@@ -653,11 +708,5 @@ Revision 1.24  2008/11/14 17:31:26  revo
 Wieland Pusch: +trd de
 
 Revision 1.23  2008/04/25 16:30:24  revo
-Jeromo Vasxe: + mur~ilo
-
-Revision 1.22  2008/04/11 16:30:25  revo
-Jeromo Vasxe: + sen~a
-
-Revision 1.21  2007/01/07 17:31:32  revo
 -->
 </vortaro>

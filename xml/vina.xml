@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vina.xml,v 1.6 2012/08/13 10:10:16 revo Exp $">
+<art mrk="$Id: vina.xml,v 1.7 2013/09/08 18:11:42 revo Exp $">
 <kap>
   <rad>vina</rad>/o <fnt><bib>NeoGlo</bib></fnt>
 </kap>
@@ -11,8 +11,8 @@
   <uzo tip="fak">MUZ</uzo>
   <snc>
     <dif>
-      Sudhinda <ref tip="super"
-      cel="instru2.kord0o">kordinstrumento</ref>,
+      Sudhinda <ref tip="lst" cel="instru2.kord0o.MUZ"
+      lst="voko:kordinstrumentoj">kordinstrumento</ref>,
       granda liuto kun longa kolo,
       4 &ccirc;efaj, 3 ritmaj, pin&ccirc;e sonigataj kordoj, 24 fretoj,
       du sonkestoj, el kiuj la pli eta fiksitas supre &ccirc;e la kolo.
@@ -37,6 +37,9 @@
 
 <!--
 $Log: vina.xml,v $
+Revision 1.7  2013/09/08 18:11:42  revo
+Wolfram Diestel: ref al listo kordinstrumentoj
+
 Revision 1.6  2012/08/13 10:10:16  revo
 Marc Rausell: + trd ca
 

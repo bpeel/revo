@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koksal.xml,v 1.8 2011/12/04 12:10:26 revo Exp $">
+<art mrk="$Id: koksal.xml,v 1.9 2013/10/09 19:11:18 revo Exp $">
 <kap>
   <rad>koksalgi</rad>/o
 </kap>
@@ -12,7 +12,8 @@
   <snc mrk="koksal.0o.tuberkuloza">
     <fnt><bib>PV</bib></fnt>
     <dif>
-      Tuberkuloza malsano de la koksa artiko:
+      Tuberkuloza <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref> de la koksa artiko:
       <ekz>
         malbona higieno ka&ubreve;zas la <tld/>on.
       </ekz>
@@ -40,6 +41,9 @@
 </art>
 <!--
 $Log: koksal.xml,v $
+Revision 1.9  2013/10/09 19:11:18  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.8  2011/12/04 12:10:26  revo
 Marc Rausell: kataluna traduko
 

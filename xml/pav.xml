@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pav.xml,v 1.22 2013/04/17 07:10:16 revo Exp $">
+<art mrk="$Id: pav.xml,v 1.23 2013/09/01 14:10:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pav</rad>/o
@@ -12,7 +12,9 @@
   <snc mrk="pav.0o.ZOO">
   <uzo tip="fak">ZOO</uzo>
     <dif>
-      Genro el familio <ref tip="super" cel="fazane.0oj">fazanedoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="fazane.0oj">fazanedoj</ref>
       (<trd lng="la">Pavo</trd>), kun granda belkolora ventumilforme
       etendebla vosto kovrita per brilaj okulformaj makuloj.
     </dif>
@@ -88,6 +90,9 @@
 </art>
 <!--
 $Log: pav.xml,v $
+Revision 1.23  2013/09/01 14:10:36  revo
+Wolfram Diestel: referenco al listo bot genroj, germ trd
+
 Revision 1.22  2013/04/17 07:10:16  revo
 Sebastian Cyprych: +trd pl
 
@@ -107,8 +112,5 @@ Revision 1.17  2007/11/30 17:30:23  revo
 Eduardo Navas: +trd es
 
 Revision 1.16  2006/02/27 17:31:54  revo
-Tulio Flores: +tr pt
-
-Revision 1.15  2005/07/04 16:31:46  revo
 -->
 </vortaro>

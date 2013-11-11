@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: braman.xml,v 1.12 2009/10/16 16:31:22 revo Exp $">
+<art mrk="$Id: braman.xml,v 1.13 2013/09/22 19:11:18 revo Exp $">
   <kap>
     <ofc>2</ofc>
     <rad>braman</rad>/o
@@ -36,7 +36,9 @@
     <kap><tld/>ismo</kap>
     <snc>
       <dif>
-        Religio de Bramao.  
+        <ref tip="lst" cel="religi.0o.REL"
+        lst="voko:religioj">Religio</ref> 
+        de Bramao.  
       </dif>
       <trd lng="be">&c_b;&c_r;&c_a;&c_m;&c_a;&c_n;&c_ib;&c_z;&c_m;</trd>
       <trd lng="de">Brahmanismus</trd>
@@ -54,6 +56,9 @@
 </art>
 <!--
 $Log: braman.xml,v $
+Revision 1.13  2013/09/22 19:11:18  revo
+Wolfram Diestel: referenco al religioj
+
 Revision 1.12  2009/10/16 16:31:22  revo
 Russ Williams: +trd en
 
@@ -73,8 +78,5 @@ Revision 1.7  2002/09/10 17:33:24  revo
 Viliam Bur: +trd sk
 
 Revision 1.6  2001/02/18 17:12:26  revo
-Marc Bavant: +trd fr, +adm
-
-Revision 1.5  2001/02/09 11:26:38  revo
 -->
 </vortaro>

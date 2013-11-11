@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jard1.xml,v 1.5 2011/12/11 21:10:23 revo Exp $">
+<art mrk="$Id: jard1.xml,v 1.7 2013/10/03 08:10:53 revo Exp $">
 <kap>
   <rad>jard</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -10,7 +10,8 @@
   <kap><tld/>o</kap>
   <snc mrk="jard1.0o.MEZ">
     <dif>
-      <ref tip="super" cel="unu.mezur0o">Mezurunuo</ref> de
+      <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:longoj">Mezurunuo</ref> de
       longo uzata en anglolingvaj landoj:
       <ekz>
         anta&ubreve; multaj jaroj ili vendis la lastan <tld/>on da drapo
@@ -52,6 +53,12 @@
 
 <!--
 $Log: jard1.xml,v $
+Revision 1.7  2013/10/03 08:10:53  revo
+Wolfram Diestel: precizigis klason al voko:longoj
+
+Revision 1.6  2013/09/14 16:10:30  revo
+Wolfram Diestel: ref al lst mezurunuoj
+
 Revision 1.5  2011/12/11 21:10:23  revo
 Marc Rausell: +trd ca
 

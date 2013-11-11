@@ -2,14 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: iks.xml,v 1.14 2009/04/01 16:30:27 revo Exp $">
+<art mrk="$Id: iks.xml,v 1.16 2013/10/08 15:10:10 revo Exp $">
 <kap>
    <ofc>9</ofc><rad>iks</rad>/o
 </kap>
 <drv mrk="iks.0o">
    <kap><tld/>o</kap>
-   <uzo tip="fak">TIP</uzo>
    <snc>
+   <uzo tip="fak">TIP</uzo>
      <dif>
        Neesperanta <ref tip="super" cel="liter.0o.propra">litero</ref>
        <em>X, x</em>:
@@ -33,7 +33,10 @@
       <trd>x</trd>,
       <trd>&auml;ks&auml;</trd>
    </trdgrp>
-   <trd lng="fr">x</trd>
+   <trdgrp lng="fr">
+  <trd>x</trd>,
+  <trd>X <klr> (iks)</klr></trd>
+   </trdgrp>   
    <trd lng="hu">iksz</trd>
    <trdgrp lng="it">
    <trd>ics</trd>, 
@@ -48,6 +51,12 @@
 </art>
 <!--
 $Log: iks.xml,v $
+Revision 1.16  2013/10/08 15:10:10  revo
+Damien Brucker: +tipo
+
+Revision 1.15  2013/10/08 09:10:14  revo
+Damien Brucker: klarigo de la fr trd
+
 Revision 1.14  2009/04/01 16:30:27  revo
 Antonio Codazzi: +trd it
 
@@ -64,11 +73,5 @@ Revision 1.10  2006/05/15 16:31:58  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.9  2005/10/25 16:31:36  revo
-Luiz Portella: +trd pt
-
-Revision 1.8  2004/01/20 18:35:12  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.7  2003/01/02 17:52:53  revo
 -->
 </vortaro>

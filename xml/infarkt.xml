@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: infarkt.xml,v 1.4 2012/01/12 18:10:15 revo Exp $">
+<art mrk="$Id: infarkt.xml,v 1.5 2013/10/09 19:11:08 revo Exp $">
 <kap>
   <rad>infarkt</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -23,6 +23,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
   </snc>
   <trd lng="ca">infart</trd>
   <trd lng="de">Infarkt</trd>
@@ -33,6 +34,9 @@
 
 <!--
 $Log: infarkt.xml,v $
+Revision 1.5  2013/10/09 19:11:08  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.4  2012/01/12 18:10:15  revo
 Marc Rausell: +trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ulmac.xml,v 1.12 2012/07/31 16:10:19 revo Exp $">
+<art mrk="$Id: ulmac.xml,v 1.13 2013/08/25 16:11:24 revo Exp $">
 <kap>
   <rad>ulmac</rad>/oj
 </kap>
@@ -11,9 +11,11 @@
   <snc mrk="ulmac.0oj.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      Lignaj plantoj plimulte kreskantaj en tropikaj regionoj de Azio
+      Lignaj vegeta&jcirc;oj pli multe kreskantaj en tropikaj regionoj
+      de Azio
       kaj
-      Ameriko, familio de <ref tip="super"
+      Ameriko, <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">familio</ref> de <ref tip="malprt"
       cel="kotile.du0aj">dukotiledonaj</ref>
       (<trd lng="la">Ulmaceae</trd>):
     </dif>
@@ -37,6 +39,9 @@
 </art>
 <!--
 $Log: ulmac.xml,v $
+Revision 1.13  2013/08/25 16:11:24  revo
+Wolfram Diestel: referenco al listo bot familio
+
 Revision 1.12  2012/07/31 16:10:19  revo
 Marc Rausell: + trd ca
 
@@ -56,8 +61,5 @@ Revision 1.7 2002/08/13 17:32:10 revo
 Jose Martin del Pozo: ald es trd
 
 Revision 1.6 2002/05/15 16:37:07 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.5 2002/05/09 18:45:18 revo
 -->
 </vortaro>

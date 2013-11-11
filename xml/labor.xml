@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: labor.xml,v 1.46 2012/09/03 00:10:08 revo Exp $">
+<art mrk="$Id: labor.xml,v 1.48 2013/10/21 20:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>labor</rad>/i <fnt><bib>PV</bib></fnt>
@@ -818,6 +818,16 @@
   <trd lng="ru">&c_b;&c_je;&c_z;&c_r;&c_a;&c_b;&c_o;&c_t;&c_i;&c_c;&c_a;</trd>
 </drv>
 
+<drv mrk="labor.sen0ulo">
+  <kap>sen<tld/>ulo</kap>
+  <snc>
+    <dif>
+      Persono, kiu ne havas <tld/>on.
+    </dif>
+  <trd lng="pl">bezrobotny</trd>
+  </snc>
+</drv>
+
 <drv mrk="labor.0o.ILO">
   <kap>Internacia <tld lit="L"/>-Organiza&jcirc;o</kap>
   <mlg>ILO</mlg>
@@ -825,7 +835,8 @@
   <snc>
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Speciala <ref tip="super" cel="organi2.0ajxo">organiza&jcirc;o</ref> de
+      Speciala <ref tip="lst" cel="organi2.0ajxo"
+      lst="voko:organiza&jcirc;oj">organiza&jcirc;o</ref> de
       <ref tip="malprt" cel="naci.Unuigxintaj_0oj">Unui&gcirc;intaj
       Nacioj</ref>,
       kiu celas akceli la socialan justecon per plibonigoj de la viv-
@@ -1227,6 +1238,12 @@
 </art>
 <!--
 $Log: labor.xml,v $
+Revision 1.48  2013/10/21 20:10:11  revo
+Sebastian Cyprych: +sen~ulo
+
+Revision 1.47  2013/09/14 16:10:27  revo
+Wolfram Diestel: ILO: ref al lst organizajhoj
+
 Revision 1.46  2012/09/03 00:10:08  revo
 Marc Rausell: + trd ca
 
@@ -1243,11 +1260,5 @@ Revision 1.42  2009/03/03 17:30:31  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.41  2008/11/30 17:30:22  revo
-Marc Bavant: +drv ~anto, ~antaro; +tld; ~donanto: +ref al dunganto, +trd
-fr
-
-Revision 1.40 2008/04/07 16:30:14 revo
-Carlos Garcia: korektado trd "es" -isto
-Revision 1.39 2008/04/06 19:47:29 revo
 -->
 </vortaro>

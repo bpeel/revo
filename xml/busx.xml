@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: busx.xml,v 1.44 2011/10/14 12:10:18 revo Exp $">
+<art mrk="$Id: busx.xml,v 1.48 2013/10/12 01:10:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bu&scirc;</rad>/o <fnt><bib>PV</bib></fnt>
@@ -178,6 +178,7 @@
     </trdgrp>
   </snc>
   <trd lng="br">geno&ugrave;</trd>
+  <trd lng="ca">boca</trd>
   <trd lng="cs">&uacute;sta</trd>
   <trd lng="en">mouth</trd>
   <trd lng="es">boca</trd>
@@ -189,6 +190,7 @@
   </trdgrp>
   <trd lng="he">&pe;&he;</trd>
   <trd lng="it">bocca</trd>
+  <trd lng="oc">boca</trd>
   <trd lng="sk">&uacute;sta</trd>
   <trd lng="tr">a&gbreve;&inodot;z</trd>
   <trd lng="vo">mud</trd>
@@ -432,7 +434,8 @@
   <kap>plen<tld/>o</kap>
   <snc mrk="busx.plen0o.KOMUNE">
     <dif>
-      Kvanto, kiun povas enteni la <tld/>o:
+      <ref tip="lst" cel="kvant.0o" lst="voko:kvantoj">Kvanto</ref>, 
+      kiun povas enteni la <tld/>o:
       <ekz>
         S-ro Veselov eltrinkis unu plen<tld/>on da ru&gcirc;a vino el
         glaso
@@ -474,8 +477,10 @@
   <snc mrk="busx.rond0uloj.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Klaso de <ref tip="super" cel="verteb.0uloj">vertebruloj</ref>,
-      serpento- a&ubreve; vermo-formaj senmakzelaj fi&scirc;oj
+      <ref tip="lst" cel="klas.super0o"
+      lst="voko:zoologiaj_klasoj">Superklaso</ref> 
+      el <ref tip="malprt" cel="verteb.0uloj">vertebruloj</ref> de
+      serpento- a&ubreve; vermoformaj senmakzelaj fi&scirc;oj
       (<trd lng="la">Cyclostomata</trd>).
     </dif>
   </snc>
@@ -494,6 +499,18 @@
 </art>
 <!--
 $Log: busx.xml,v $
+Revision 1.48  2013/10/12 01:10:32  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.47  2013/10/03 08:10:42  revo
+Wolfram Diestel: precizigis klason al voko:kvantoj
+
+Revision 1.46  2013/09/15 11:10:16  revo
+Wolfram Diestel: ref al lst mezurunuoj
+
+Revision 1.45  2013/09/01 10:10:24  revo
+Wolfram Diestel: rond~uloj: aktualigis dif
+
 Revision 1.44  2011/10/14 12:10:18  revo
 Jeromo Vasxe: + 1 ekz
 
@@ -504,17 +521,5 @@ Revision 1.42  2009/06/20 18:01:13  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.41  2009/04/07 16:30:35  revo
-Sebastian Cyprych: kor trd pl; +trd pl
-
-Revision 1.40  2008/05/06 16:37:29  revo
-Jeromo Vasxe: kor 2 fnt
-
-Revision 1.39 2008/05/04 17:00:33 revo
-Sergio Pokrovskij: +ekz, +0o.vizagxa
-
-Revision 1.38 2008/01/24 19:48:54 revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.37 2008/01/05 17:30:20 revo
 -->
 </vortaro>

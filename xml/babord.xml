@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
- <art mrk="$Id: babord.xml,v 1.17 2011/12/03 21:10:24 revo Exp $">
+ <art mrk="$Id: babord.xml,v 1.18 2013/08/05 13:10:13 revo Exp $">
   <kap>
    <rad>babord</rad>/o
    <fnt>Z</fnt>
@@ -22,6 +22,7 @@
      <ref cel="tribor.0o">tribordo</ref>.
    </refgrp>
   </snc>
+  <trd lng="bg">&c_p;&c_o;&c_r;&c_t;</trd>
   <trd lng="br">babourzh</trd>
   <trd lng="ca">babord</trd>
   <trd lng="de">Backbord</trd>
@@ -45,6 +46,9 @@
  </art>
 <!--
 $Log: babord.xml,v $
+Revision 1.18  2013/08/05 13:10:13  revo
+Joop Eggen: +trd bg
+
 Revision 1.17  2011/12/03 21:10:24  revo
 Marc Rausell: kataluna traduko
 
@@ -64,8 +68,5 @@ Revision 1.12  2002/01/06 17:46:45  revo
 Karlo Freeman: +trd=en
 
 Revision 1.11  2001/11/16 19:13:30  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2001/04/05 16:12:49  revo
 -->
 </vortaro>

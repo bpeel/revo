@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gemologi.xml,v 1.8 2012/08/18 19:10:34 revo Exp $">
+<art mrk="$Id: gemologi.xml,v 1.9 2013/08/15 18:10:17 revo Exp $">
 <kap>
   <rad>gemologi</rad>/o
 </kap>
@@ -28,11 +28,13 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_g;&c_je;&c_m;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
   <trd lng="ca">gemmologia</trd>
   <trdgrp lng="de">
     <trd>Gemmologie</trd>,
     <trd>Edelsteinkunde</trd>
   </trdgrp>
+  <trd lng="en">gemology</trd>
   <trd lng="fr">gemmologie</trd>
   <trd lng="es">gemolog&iacute;a</trd>
   <trd lng="hu">gemol&oacute;gia</trd>
@@ -48,6 +50,9 @@
 
 <!--
 $Log: gemologi.xml,v $
+Revision 1.9  2013/08/15 18:10:17  revo
+Joop Eggen: +trd bg en
+
 Revision 1.8  2012/08/18 19:10:34  revo
 Marc Rausell: + trd ca
 
@@ -67,8 +72,5 @@ Revision 1.3  2006/09/13 16:30:35  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.2  2006/02/22 17:31:42  revo
-Tulio Flores: +trd pt
-
-Revision 1.1  2006/02/20 17:32:21  revo
 -->
 </vortaro>

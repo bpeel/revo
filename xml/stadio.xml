@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stadio.xml,v 1.13 2005/04/12 16:33:55 revo Exp $">
+<art mrk="$Id: stadio.xml,v 1.14 2013/09/24 20:10:18 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>stadion</rad>/o
@@ -32,11 +32,15 @@
   <trd lng="fr">stade<klr tip="ind"> (de sport)</klr></trd>
   <trd lng="hu">stadion</trd>
   <trd lng="nl">stadion</trd>
+  <trd lng="pl">stadion</trd>
   <trd lng="ru">&c_s;&c_t;&c_a;&c_d;&c_i;&c_o;&c_n;</trd>
 </drv>
 </art>
 <!--
 $Log: stadio.xml,v $
+Revision 1.14  2013/09/24 20:10:18  revo
+Vito Redsky: +trd pl
+
 Revision 1.13  2005/04/12 16:33:55  revo
 Raul Salinas Monteagudo: +trd ca,es
 
@@ -56,8 +60,5 @@ Revision 1.8 2002/02/15 17:38:10 revo
 Yury Finkel: +trd ru
 
 Revision 1.7 2001/10/07 18:16:10 revo
-Dennis Wibrow: +trd germ
-
-Revision 1.6 2001/08/22 18:14:22 revo
 -->
 </vortaro>

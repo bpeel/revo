@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cejan.xml,v 1.19 2013/05/17 01:10:11 revo Exp $">
+<art mrk="$Id: cejan.xml,v 1.21 2013/10/09 17:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>cejan</rad>/o
@@ -20,6 +20,7 @@
 </ekz>
     </dif>
   <trd lng="be">&c_v;&c_a;&c_l;&c_o;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_s;&c_i;&c_n;&c_ja; <ind>&c_m;&c_je;&c_t;&c_l;&c_i;&c_ch;&c_i;&c_n;&c_a;</ind></trd>
   <trd lng="br">glizinenn</trd>
   <trdgrp lng="ca">
     <trd>blauet</trd>,
@@ -27,16 +28,21 @@
     <trd>capblau</trd>
   </trdgrp>
   <trd lng="de">Kornblume</trd>
-  <trd lng="en">cornflower</trd>
+  <trdgrp lng="en">
+     <trd>cornflower</trd>
+     <trd>bluebottle</trd>
+  </trdgrp>
   <trd lng="fr">bleuet <klr tip="ind">(fleur)</klr></trd>
   <trd lng="hu">b&uacute;zavir&aacute;g</trd>
   <trd lng="it">fiordaliso</trd>
+  <trd lng="nl">korenbloem</trd>
   <trd lng="pl">chaber b&lstroke;awatek</trd>
   <trd lng="ru">&c_v;&c_a;&c_s;&c_i;&c_l;&c_jo;&c_k; <klr>(&c_g;&c_o;&c_l;&c_u;&c_b;&c_o;&c_j;)</klr></trd>
   </snc>
   <snc mrk="cejan.0o.koloro">
     <ref tip="dif" cel="cejan.0a.koloro">cejana</ref>
     <trd lng="pl">cyjan</trd>
+    <trd lng="en">cyan</trd>
   </snc>
   <adm>
   Koloro de floro de cejano neniel samas al la cejana kolor uzata en
@@ -52,9 +58,12 @@
 Koloro inter blua kaj verda, grava en subtrahaj kolormodeloj por inkaj 
 presiloj kaj fotokompostado.
     </dif>
+    <trd lng="bg">&c_c;&c_i;&c_a;&c_n;</trd>
     <trd lng="ca">cian</trd>
+    <trd lng="de">Cyan</trd>
     <trd lng="en">cyan</trd>
     <trd lng="it">ciano</trd>
+    <trd lng="nl">cyaan</trd>
     <trd lng="pl">cyjan <klr>(b&lstroke;&eogonek;kitny)</klr></trd>
   </snc>
  <snc mrk="cejan.0a.floro">
@@ -67,6 +76,12 @@ presiloj kaj fotokompostado.
 </art>
 <!--
 $Log: cejan.xml,v $
+Revision 1.21  2013/10/09 17:10:15  revo
+Jessica Grasso: +tr en
+
+Revision 1.20  2013/09/23 15:10:13  revo
+Joop Eggen: +trd bg nl
+
 Revision 1.19  2013/05/17 01:10:11  revo
 Sebastian Cyprych: +trd pl +adm
 
@@ -83,11 +98,5 @@ Revision 1.15  2005/03/20 17:50:49  revo
 Alan ar Gall: +trd br
 
 Revision 1.14  2003/01/14 17:33:57  revo
-Jeromo Vasxe: + 1 ekz
-
-Revision 1.13 2002/09/18 16:35:44 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12 2002/08/29 17:36:41 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kastan.xml,v 1.13 2009/04/02 16:30:53 revo Exp $">
+<art mrk="$Id: kastan.xml,v 1.14 2013/09/08 18:11:00 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>kastanjet</rad>/o
@@ -13,7 +13,8 @@
   <snc>
     <dif>
       Ligna a&ubreve; ebura
-      <ref tip="super" cel="instru2.frap0o">frapinstrumento</ref>
+      <ref tip="lst" cel="instru2.frap0o"
+      lst="voko:frapinstrumentoj">frapinstrumento</ref>
       el du &scirc;eloj, kiujn oni alligas al fingroj kaj sonigas per
       rapida interfrapado.
     </dif>
@@ -36,6 +37,9 @@
 </art>
 <!--
 $Log: kastan.xml,v $
+Revision 1.14  2013/09/08 18:11:00  revo
+Wolfram Diestel: ref al listo frapinstrumentoj
+
 Revision 1.13  2009/04/02 16:30:53  revo
 Sebastian Cyprych: +trd pl
 
@@ -55,8 +59,5 @@ Revision 1.8 2001/10/26 18:14:29 revo
 Yury Finkel: +trd ru
 
 Revision 1.7 2001/10/25 18:47:17 revo
-Jerome Vachey: kor dif, + lig al frapinstr., + trd fr
-
-Revision 1.6 2001/02/17 19:46:43 revo
 -->
 </vortaro>

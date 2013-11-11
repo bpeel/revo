@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rat.xml,v 1.19 2013/07/05 20:10:20 revo Exp $">
+<art mrk="$Id: rat.xml,v 1.22 2013/10/23 18:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rat</rad>/o
@@ -12,12 +12,15 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      <ref tip="super" cel="genr.0o.BIO">Genro</ref> el familio 
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio 
       <ref tip="malprt" cel="mused.0oj">musedoj</ref>
-      (<trd lng="la">Rattus</trd>), rodulo, pli granda ol muso,
+      (<trd lng="la">Rattus</trd>), 
+      <ref tip="lst" cel="rongx.0ulo" lst="voko:ron&gcirc;uloj">ron&gcirc;ulo</ref>,
+      
+      pli granda ol muso,
       konta&gcirc;anto de pluraj <ref cel="san.mal0o.MED">malsanoj</ref> kaj
-      ofte 
-      uzata por bestaj <ref cel="eksper.0o">eksperimentoj</ref>:
+      ofte uzata por bestaj <ref cel="eksper.0o">eksperimentoj</ref>:
       <ekz>
         eksperimentoj protofazaj por kloni blankan
         <tld/>on<fnt><aut>Peng
@@ -48,6 +51,15 @@
 </art>
 <!--
 $Log: rat.xml,v $
+Revision 1.22  2013/10/23 18:10:23  revo
+Wolfram Diestel: ref al lst rongxuloj
+
+Revision 1.21  2013/10/07 16:10:16  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.20  2013/09/01 16:10:26  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.19  2013/07/05 20:10:20  revo
 Wolfram Diestel: referencoj
 
@@ -61,14 +73,5 @@ Revision 1.16  2006/02/19 17:31:27  revo
 Tulio Flores: +trd pt
 
 Revision 1.15  2003/08/06 16:30:39  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14  2002/08/03 18:53:54  revo
-Jeromo Vasxe: + ekz, + trd fr
-
-Revision 1.13 2002/07/10 18:08:34 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12 2002/02/26 17:59:03 revo
 -->
 </vortaro>

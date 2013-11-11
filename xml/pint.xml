@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pint.xml,v 1.19 2010/12/10 20:17:20 revo Exp $">
+<art mrk="$Id: pint.xml,v 1.20 2013/10/23 18:10:25 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pint</rad>/o <fnt><bib>PV</bib></fnt>
@@ -84,6 +84,10 @@
       <trd>&c_p;&c_i;&c_k;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="ca">
+    <trd>punta</trd>,
+    <trd>cap</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>bout</trd>,
     <trd>pointe</trd>
@@ -97,6 +101,10 @@
     <trd>punt</trd>,
     <trd>spits</trd>,
     <trd>top</trd>
+  </trdgrp>
+  <trdgrp lng="oc">
+    <trd>poncha</trd>,
+    <trd>cap</trd>
   </trdgrp>
   <trd lng="pt">ponta</trd>
 </drv>
@@ -326,6 +334,9 @@
 </art>
 <!--
 $Log: pint.xml,v $
+Revision 1.20  2013/10/23 18:10:25  revo
+Benito Subejrano: + trd ca oc
+
 Revision 1.19  2010/12/10 20:17:20  revo
 Antonio Codazzi: +trd it
 
@@ -345,8 +356,5 @@ Tulio Flores: +tr pt
 Revision 1.13  2004/10/21 16:31:30  revo
 Jeromo Vasxe: - ~arko jam en ark.xml, + mrk, + trd fr
 Revision 1.12 2003/08/20 16:31:50 revo
-Zmicier Lapcionak: kor trd be
-Revision 1.11 2003/07/17 16:35:03 revo
-Dmitri Gabinski: +trd be
 -->
 </vortaro>

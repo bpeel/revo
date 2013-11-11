@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: akv.xml,v 1.63 2013/06/29 20:10:24 revo Exp $">
+<art mrk="$Id: akv.xml,v 1.66 2013/09/23 19:10:27 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>akv</rad>/o <fnt><bib>PV</bib></fnt>
@@ -151,10 +151,13 @@
 <drv mrk="akv.A0isto">
   <kap><tld lit="A"/>isto <fnt><bib>PIV2</bib></fnt></kap>
   <mlg>Aqr</mlg>
+  <mlg>&#9810;</mlg>
   <snc mrk="akv.0isto.AST">
     <uzo tip="fak">AST</uzo>
     <dif>
-      Ekvatora <ref tip="super" cel="konste.0o">konstelacio</ref>
+      Ekvatora <ref tip="lst" cel="stel.0figuro"
+      lst="voko:zodiakaj_signoj"
+      val="11">stelfiguro</ref>
       kaj signo de la <ref tip="malprt"
       cel="zodiak.0o">zodiako</ref>
       (<trd lng="la">Aquarius</trd>).
@@ -896,6 +899,15 @@
 </art>
 <!--
 $Log: akv.xml,v $
+Revision 1.66  2013/09/23 19:10:27  revo
+Wolfram Diestel: ref al list zodiakoaj signoj, mlg
+
+Revision 1.65  2013/08/28 17:10:16  revo
+Wolfram Diestel: kor. ref
+
+Revision 1.64  2013/08/25 08:10:46  revo
+Wolfram Diestel: referenco al listo stelfiguroj
+
 Revision 1.63  2013/06/29 20:10:24  revo
 Benito Subejrano: + trd oc
 
@@ -909,14 +921,5 @@ Revision 1.60  2012/01/02 16:10:12  revo
 Marc Rausell: +trd ca
 
 Revision 1.59  2011/11/07 01:10:16  revo
- Anchise Inzaghi: traduko q'eqchi'
-
-Revision 1.58  2011/06/15 20:10:12  revo
-Jeromo Vasxe: + mineral~o
-
-Revision 1.57  2010/11/11 17:30:48  revo
-Jeromo Vasxe: + sankt~ujo
-
-Revision 1.56  2010/07/22 16:30:23  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: alkoho.xml,v 1.30 2009/11/10 17:30:33 revo Exp $">
+<art mrk="$Id: alkoho.xml,v 1.31 2013/10/09 18:10:32 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>alkohol</rad>/o
@@ -118,7 +118,9 @@
   <snc mrk="alkoho.0ismo.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Malsana stato ka&ubreve;zita de trouzado de <tld/>a&jcirc;oj.
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsana</ref> stato ka&ubreve;zita de trouzado de
+      <tld/>a&jcirc;oj.
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_l;&c_mol;&c_k;&c_a;&c_g;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
@@ -146,6 +148,9 @@
 </art>
 <!--
 $Log: alkoho.xml,v $
+Revision 1.31  2013/10/09 18:10:32  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.30  2009/11/10 17:30:33  revo
 Wieland Pusch: +trd bg+de
 
@@ -165,8 +170,5 @@ Revision 1.25  2005/04/19 16:31:53  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.24  2004/03/09 17:31:31  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.23  2003/02/16 17:33:16  revo
 -->
 </vortaro>

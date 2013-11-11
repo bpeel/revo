@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: dek.xml,v 1.41 2013/04/26 15:10:19 revo Exp $">
+<art mrk="$Id: dek.xml,v 1.47 2013/10/31 11:10:27 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>dek</rad></kap>
 
@@ -21,6 +21,8 @@
          rikoltoj..
        </ekz>
      </dif>
+     <ref tip="lst" cel="nombr.0o.MAT" lst="voko:nombroj"
+     val="10">nombro</ref>
    </snc>
    <trd lng="be">&c_d;&c_z;&c_je;&c_s;&c_ja;&c_c;&c_mol;</trd>
    <trd lng="bg">&c_d;&c_je;&c_s;&c_je;&c_t;</trd>
@@ -110,8 +112,28 @@
        <tld/>obloj (a&ubreve; centobloj, milobloj a&ubreve; aliaj obloj
        a&ubreve; onoj
        per potenco de <tld/>):
+       <ref tip="dif" cel="jota.0.MEZ">jota-</ref> Y- 10<sup>24</sup>,
+       <ref tip="dif" cel="zeta.0">zeta-</ref> Z- 10<sup>21</sup>,
+       <ref tip="dif" cel="eksa.0.MEZ">eksa-</ref> E- 10<sup>18</sup>,
+       <ref tip="dif" cel="peta.0.MEZ">peta-</ref> P- 10<sup>15</sup>,
+       <ref tip="dif" cel="tera.0.MEZ">tera-</ref> Y- 10<sup>12</sup>,
+       <ref tip="dif" cel="giga.0">giga-</ref> G- 10<sup>9</sup>,
+       <ref tip="dif" cel="mega.0">mega-</ref> M- 10<sup>6</sup>,
+       <ref tip="dif" cel="kilo.0">kilo-</ref> k- 10<sup>3</sup>,
+       <ref tip="dif" cel="hekto.0">hekto-</ref> h- 10<sup>2</sup>,
+       <ref tip="dif" cel="deka.0">deka-</ref> da- 10<sup>1</sup>,
+       <ref tip="dif" cel="deci.0">deci</ref> d- 10<sup>-1</sup>,
+       <ref tip="dif" cel="centi.0">centi-</ref> c- 10<sup>-2</sup>,
+       <ref tip="dif" cel="mili1.0.MEZ">mili-</ref> m- 10<sup>-3</sup>,
+       <ref tip="dif" cel="mikro.0">mikro-</ref> &#181;- 10<sup>-6</sup>,
+       <ref tip="dif" cel="nano.0">nano-</ref> n- 10<sup>-9</sup>,
+       <ref tip="dif" cel="piko.0">piko-</ref> p- 10<sup>-12</sup>,
+       <ref tip="dif" cel="femto.0">femto-</ref> f- 10<sup>-15</sup>,
+       <ref tip="dif" cel="ato.0">ato-</ref> a- 10<sup>-18</sup>,
+       <ref tip="dif" cel="zepto.0">zepto-</ref> z- 10<sup>-21</sup>,
+       <ref tip="dif" cel="jokto.0">jokto-</ref> y- 10<sup>-24</sup>.
        <ekz>
-         la metra sistemo estas <tld/>uma:
+         La metra sistemo estas <tld/>uma:
          1m = 10dm = 100cm = 1000mm;
        </ekz>
        <ekz>
@@ -200,28 +222,28 @@
 <!--
 
 $Log: dek.xml,v $
+Revision 1.47  2013/10/31 11:10:27  revo
+Wolfram Diestel: +val
+
+Revision 1.46  2013/09/22 20:10:12  revo
+Wolfram Diestel: dekuma: kor. ref-cel-ojn
+
+Revision 1.45  2013/09/12 08:10:10  revo
+Joop Eggen: korekto
+
+Revision 1.44  2013/09/10 09:10:11  revo
+Joop Eggen: korekto en ref por mili-
+
+Revision 1.43  2013/09/09 12:10:14  revo
+Joop Eggen: Aldono de dekopotencaj prefiksoj de mezurunuoj
+
+Revision 1.42  2013/08/22 16:10:18  revo
+Wolfram Diestel: referenco al nombro/listo nombroj
+
 Revision 1.41  2013/04/26 15:10:19  revo
 Eko Nur Syah Hidayat: +trd id
 
 Revision 1.40  2011/12/07 23:10:14  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.39  2009/08/27 16:32:49  revo
-Emmanuel Debanne: +trd ku
-
-Revision 1.38  2009/04/30 16:30:50  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.37  2007/12/07 17:30:33  revo
-Miguel Hernandez: +trd es
-
-Revision 1.36  2007/11/13 17:30:19  revo
-Zmicier Lapcionak: + ja trd (dek)
-
-Revision 1.35  2007/07/22 16:30:23  revo
-Harri Laine: +trd fi
-
-Revision 1.34  2007/06/24 16:30:55  revo
 -->
 
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: agl.xml,v 1.39 2012/07/14 09:10:15 revo Exp $">
+<art mrk="$Id: agl.xml,v 1.40 2013/08/25 08:10:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>agl</rad>/o
@@ -69,7 +69,8 @@
   <snc mrk="agl.A0o.AST">
     <uzo tip="fak">AST</uzo>
     <dif>
-      Ekvatora <ref tip="super" cel="konste.0o">konstelacio</ref> (<trd
+      Ekvatora <ref tip="lst" cel="stel.0figuro"
+      lst="voko:stelfiguroj">stelfiguro</ref> (<trd
       lng="la">Aquila</trd>).
     </dif>
   </snc>
@@ -545,6 +546,9 @@
 </art>
 <!--
 $Log: agl.xml,v $
+Revision 1.40  2013/08/25 08:10:45  revo
+Wolfram Diestel: referenco al listo stelfiguroj
+
 Revision 1.39  2012/07/14 09:10:15  revo
 Marc Rausell: ++ trd ca
 
@@ -564,8 +568,5 @@ Revision 1.34  2010/04/14 16:30:18  revo
 Sebastian Cyprych: +trd sv,la
 
 Revision 1.33  2009/08/08 16:31:46  revo
-Jeromo Vasxe: - aparta ligo al vikipedio, la auxtomata ekzistas, + dif
-cxe fisx~o
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: efemer.xml,v 1.23 2011/12/04 21:10:12 revo Exp $">
+<art mrk="$Id: efemer.xml,v 1.26 2013/10/04 20:10:10 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>efemer</rad>/o
@@ -11,11 +11,21 @@
   <kap>
     <tld/>o
   </kap>
-  <uzo tip="fak">ZOO</uzo>
-  <snc>
+  <snc mrk="efemer.0o.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
     <dif>
-      Genro el la familio
-      <ref tip="super" cel="efemer2.0oj"><tld/>edoj</ref>
+      Iu el <tld/>oformaj <ref tip="lst" cel="insekt.0o"
+      lst="voko:insektoj">insektoj</ref>, kiuj en plenkreska stadio
+      ne plu nutras sin, vivantaj nur inter kelkaj minutoj kaj kvar
+      tagoj.
+    </dif>
+  </snc>
+  <snc mrk="efemer.0o.genro">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el la familio
+      <ref tip="malprt" cel="efemer2.0oj"><tld/>edoj</ref>
       (<trd lng="la">Ephemera</trd>).
     </dif>
   </snc>
@@ -44,6 +54,7 @@
     <tld/>a
   </kap>
   <snc>
+    <uzo tip="stl">FIG</uzo>
     <dif>
       Unutaga, neda&ubreve;ra, rapide pasanta:
       <ekz>
@@ -101,10 +112,12 @@
   <kap>
     <tld/>oformaj
   </kap>
-  <uzo tip="fak">ZOO</uzo>
   <snc>
+    <uzo tip="fak">ZOO</uzo>
     <dif>
-      Ordo el la klaso <ref tip="super" cel="insekt.0oj">insektoj</ref>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> el la klaso <ref
+      tip="malprt" cel="insekt.0oj">insektoj</ref>
       (<trd lng="la">Ephemeroptera</trd>),
       kies anoj vivas en matura stato nur plurajn horojn.
     </dif>
@@ -121,6 +134,15 @@
 </art>
 <!--
 $Log: efemer.xml,v $
+Revision 1.26  2013/10/04 20:10:10  revo
+Wolfram Diestel: +snc KOMUNE, ref al lst insektoj
+
+Revision 1.25  2013/09/01 14:10:24  revo
+Wolfram Diestel: forigis ~oformaj
+
+Revision 1.24  2013/08/31 17:10:23  revo
+Wolfram Diestel: ~oformaj: referenco al listo zoo ordoj
+
 Revision 1.23  2011/12/04 21:10:12  revo
 Marc Rausell: kataluna traduko
 
@@ -134,14 +156,5 @@ Revision 1.20  2008/11/21 17:56:57  revo
 Wieland Pusch: entoj por unikode
 
 Revision 1.19  2008/11/09 17:30:47  revo
-Russ Williams: +trd en
-
-Revision 1.18  2007/06/22 17:25:23  revo
-Tulio Flores: +tr pt
-
-Revision 1.17  2006/02/24 17:33:06  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.16  2004/04/15 16:32:33  revo
 -->
 </vortaro>

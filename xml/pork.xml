@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pork.xml,v 1.24 2012/08/02 09:10:22 revo Exp $">
+<art mrk="$Id: pork.xml,v 1.26 2013/09/03 18:10:18 revo Exp $">
   <kap>
     <ofc>*</ofc>
     <rad>pork</rad>/o
@@ -13,17 +13,21 @@
     <snc mrk="pork.0o.ZOO">
       <uzo tip="fak">ZOO</uzo>
       <dif>
-        Genro el familio <ref tip="super"
+        <ref tip="lst" cel="genr.0o.BIO"
+        lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+        tip="malprt"
         cel="porked.0oj"><tld/>edoj</ref>
         (<trd lng="la">Sus</trd>), kun mallongaj kruroj kaj rostreto.
         Unu specio estas en iuj kulturoj hejme bredata pro viando kaj
         ledo:
         <ekz>
-          malavarulo kaj <tld/>o estas bonaj post la morto<fnt>Z</fnt>;
+          avarulo kaj <tld/>o estas bonaj post la
+          morto <fnt><bib>PrV</bib></fnt>;
         </ekz>
         <ekz>
           <ind>&jcirc;eti perlojn anta&ubreve; la <tld/>ojn</ind>
-          <klr>(esprimi altajn ideojn anta&ubreve; malkleruloj)</klr>;
+          <fnt><bib>PrV</bib></fnt>
+          <klr> (esprimi altajn ideojn anta&ubreve; malkleruloj)</klr>;
           <trd lng="de">Perlen vor die <ind>S&auml;ue</ind> werfen</trd>
           <trd lng="hu">gy&ouml;ngy&ouml;t sz&oacute;r a diszn&oacute;k
           el&eacute;</trd>
@@ -33,7 +37,7 @@
           <trd lng="ru">&c_m;&c_je;&c_t;&c_a;&c_t;&c_mol;
           &c_b;&c_i;&c_s;&c_je;&c_r; &c_p;&c_je;&c_r;&c_je;&c_d;
           &c_s;&c_v;&c_i;&c_n;&c_mol;&c_ja;&c_m;&c_i;</trd>
-          <fnt><bib>PrV</bib></fnt>
+          
         </ekz>
         <ekz>
           paperujo el <tld/>ledo.
@@ -151,6 +155,12 @@
 </art>
 <!--
 $Log: pork.xml,v $
+Revision 1.26  2013/09/03 18:10:18  revo
+Wolfram Diestel: kor. PrV ekz
+
+Revision 1.25  2013/09/03 17:10:33  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.24  2012/08/02 09:10:22  revo
 Marc Rausell: + trd ca
 
@@ -167,11 +177,5 @@ Revision 1.20  2006/05/30 18:09:24  revo
 Jeromo Vasxe: + mrk
 
 Revision 1.19 2006/03/14 17:31:07 revo
-Tulio Flores: +tr pt
-
-Revision 1.18 2003/02/20 17:31:21 revo
-Ulrich Fellmann: + 1 plia trd = de
-
-Revision 1.17 2003/02/15 17:34:27 revo
 -->
 </vortaro>

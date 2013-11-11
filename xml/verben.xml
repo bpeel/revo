@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: verben.xml,v 1.18 2012/08/13 08:10:21 revo Exp $">
+<art mrk="$Id: verben.xml,v 1.20 2013/08/29 15:10:34 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>verben</rad>/o
@@ -12,12 +12,15 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
       cel="verben1.0oj"><tld/>acoj</ref>
       (<trd lng="la">Verbena</trd>), ornama bonodora vegeta&jcirc;o.
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_e;&c_r;&c_b;&c_e;&c_n;&c_a;</trd>
+  <trd lng="bg">&c_v;&c_malmol;&c_r;&c_b;&c_i;&c_n;&c_k;&c_a;</trd>
   <trd lng="ca">berbena</trd>
   <trd lng="de">Eisenkraut</trd>
   <trd lng="el">&jota;&epsilon;&rho;&omikron;&beta;&omikron;&tau;&alfa_ton;&ny;&eta;</trd>
@@ -41,6 +44,12 @@
 </art>
 <!--
 $Log: verben.xml,v $
+Revision 1.20  2013/08/29 15:10:34  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.19  2013/08/16 15:10:15  revo
+Joop Eggen: +trd bg
+
 Revision 1.18  2012/08/13 08:10:21  revo
 Marc Rausell: + trd ca
 
@@ -57,11 +66,5 @@ Revision 1.14  2003/10/01 16:31:35  revo
 Philippe Combot: + trd fr
 
 Revision 1.13  2002/07/25 17:32:44  revo
-Eduardo M. Kalinowski: ald trd el, pt
-
-Revision 1.12  2002/05/16 16:34:20  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11  2002/03/18 18:09:53  revo
 -->
 </vortaro>

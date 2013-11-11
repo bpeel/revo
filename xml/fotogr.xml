@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fotogr.xml,v 1.22 2013/05/08 11:10:11 revo Exp $">
+<art mrk="$Id: fotogr.xml,v 1.23 2013/09/22 18:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fotograf</rad>/i
@@ -286,8 +286,8 @@
   <uzo tip="fak">FOT</uzo>
   <snc>
     <dif>
-      Arto <tld/>i kaj &ccirc;iuj kun
-      &gcirc;i ligitaj laboroj.
+      <ref tip="lst" cel="art.0o.tehxniko" lst="voko:artoj">Arto</ref> 
+      <tld/>i kaj &ccirc;iuj kun &gcirc;i ligitaj laboroj.
     </dif>
     <ref tip="sin" cel="fotogr1.0o">fotografio</ref>
   </snc>
@@ -312,6 +312,9 @@
 </art>
 <!--
 $Log: fotogr.xml,v $
+Revision 1.23  2013/09/22 18:10:23  revo
+Wolfram Diestel: referenco al listo artoj
+
 Revision 1.22  2013/05/08 11:10:11  revo
 Sebastian Cyprych: +trd pl
 
@@ -331,8 +334,5 @@ Revision 1.17  2007/05/13 16:31:17  revo
 Wieland Pusch: +trd de
 
 Revision 1.16  2004/07/06 16:34:49  revo
-Marc Bavant: ~arto: mod dif, mod ref al "fotografio"; ~o: -snc 2, +rim;
-~ilo: +ref al foto-aparato; +drv ~a aparato, ~ado
-
 -->
 </vortaro>

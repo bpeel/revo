@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kvanka.xml,v 1.18 2010/08/03 16:30:57 revo Exp $">
+<art mrk="$Id: kvanka.xml,v 1.19 2013/10/05 01:10:21 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>kvankam</rad> <fnt><bib>PV</bib></fnt>
@@ -42,6 +42,7 @@ pre&gcirc;i<fnt>Z</fnt>.
      <trd>&c_h;&c_o;&c_c;&c_mol;</trd>,
      <trd>&c_h;&c_a;&c_c;&c_ja;</trd>
    </trdgrp>
+   <trd lng="bg">&c_v;&c_malmol;&c_p;&c_r;&c_je;&c_k;&c_i; &c_ch;&c_je;</trd>
    <trd lng="cs">a&ccaron;koliv</trd>
    <trdgrp lng="de">
      <trd>obwohl</trd>,
@@ -79,6 +80,9 @@ pre&gcirc;i<fnt>Z</fnt>.
 </art>
 <!--
 $Log: kvanka.xml,v $
+Revision 1.19  2013/10/05 01:10:21  revo
+Joop Eggen: +trd bg
+
 Revision 1.18  2010/08/03 16:30:57  revo
 Agustin Garcia Lopez: +trd es
 
@@ -98,8 +102,5 @@ Revision 1.13  2003/04/24 16:31:43  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.12  2003/03/09 17:34:56  revo
-Ulrich Fellmann: + 1 trd=vo
-
-Revision 1.11  2002/09/27 16:31:59  revo
 -->
 </vortaro>

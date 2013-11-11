@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: visk.xml,v 1.17 2012/08/12 17:10:17 revo Exp $">
+<art mrk="$Id: visk.xml,v 1.18 2013/08/27 10:10:43 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>visk</rad>/o
@@ -12,7 +12,9 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
       cel="lorant1.0oj">lorantacoj</ref>
       (<trd lng="la">Viscum</trd>),
       duonparazita vegeta&jcirc;o kun blanketaj &scirc;ajnberoj,
@@ -37,6 +39,9 @@
 </art>
 <!--
 $Log: visk.xml,v $
+Revision 1.18  2013/08/27 10:10:43  revo
+Wolfram Diestel: ref al listo bot genroj
+
 Revision 1.17  2012/08/12 17:10:17  revo
 Marc Rausell: + trd ca
 
@@ -56,8 +61,5 @@ Revision 1.12  2004/05/27 16:32:51  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.11  2002/05/16 16:34:31  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2002/03/19 17:33:04  revo
 -->
 </vortaro>

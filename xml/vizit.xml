@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: vizit.xml,v 1.22 2012/08/13 10:10:27 revo Exp $">
+  <art mrk="$Id: vizit.xml,v 1.24 2013/08/29 11:10:15 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>vizit</rad>/i
@@ -79,11 +79,10 @@
         <trd>&c_n;&c_a;&c_v;&c_je;&c_d;&c_v;&c_a;&c_c;&c_mol;</trd>,
         <trd>&c_v;&c_ib;&c_z;&c_ib;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
       </trdgrp>
+      <trd lng="bg">&c_p;&c_o;&c_s;&c_je;&c_shch;&c_a;&c_v;&c_a;&c_m;</trd>
       <trd lng="ca">visitar</trd>
       <trd lng="cs">nav&scaron;t&iacute;vit</trd>
-      <trd
-       
-lng="el">&epsilon;&pi;&jota;&sigma;&kappa;&epsilon_ton;&pi;&tau;&omikron;&my;&alfa;&jota;</trd>
+      <trd lng="el">&epsilon;&pi;&jota;&sigma;&kappa;&epsilon_ton;&pi;&tau;&omikron;&my;&alfa;&jota;</trd>
       <trd lng="en">visit</trd>
       <trd lng="es">visitar</trd>
       <trdgrp lng="fr">
@@ -172,9 +171,14 @@ lng="el">&epsilon;&pi;&jota;&sigma;&kappa;&epsilon_ton;&pi;&tau;&omikron;&my;&al
         <trd>&c_n;&c_a;&c_v;&c_je;&c_d;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
         <trd>&c_v;&c_ib;&c_z;&c_ib;&c_t;</trd>
       </trdgrp>
+      <trdgrp lng="bg">
+        <trd>&c_p;&c_o;&c_s;&c_je;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>,
+        <trd>&c_v;&c_i;&c_z;&c_i;&c_t;&c_a;</trd>
+      </trdgrp>
       <trd lng="ca">visita</trd>
       <trd lng="de">Besuch</trd>
       <trd lng="el">&epsilon;&pi;&jota_ton;&sigma;&kappa;&epsilon;&psi;&eta;</trd>
+      <trd lng="en">visit</trd>
       <trd lng="es">visita</trd>
       <trdgrp lng="fr">
         <trd>visite</trd>
@@ -196,6 +200,12 @@ lng="el">&epsilon;&pi;&jota;&sigma;&kappa;&epsilon_ton;&pi;&tau;&omikron;&my;&al
   </art>
   <!--
   $Log: vizit.xml,v $
+  Revision 1.24  2013/08/29 11:10:15  revo
+  Joop Eggen: korekto bg
+
+  Revision 1.23  2013/08/02 16:10:12  revo
+  Joop Eggen: +trd bg
+
   Revision 1.22  2012/08/13 10:10:27  revo
   Marc Rausell: + trd ca
 

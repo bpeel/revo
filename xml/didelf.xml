@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: didelf.xml,v 1.18 2013/07/06 13:10:10 revo Exp $">
+<art mrk="$Id: didelf.xml,v 1.20 2013/10/20 16:10:14 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>didelf</rad>/o
@@ -12,7 +12,13 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      <ref tip="super" cel="genr.0o.BIO">Genro</ref> el familio 
+      <ref tip="lst" cel="marsup.0o"
+      lst="voko:marsupiuloj">Marsupiulo</ref>
+      &gcirc;is inter 32&nbsp;cm kaj 50&nbsp;cm longa kun samlonga nuda vosto,
+      per kiu &gcirc;i kapablas bone grimpi,
+      ofte kun tri nigraj strioj sur la kapo;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio 
       <ref tip="malprt" cel="didelf1.0oj"><tld/>edoj</ref>
       (<trd lng="la">Didelphis</trd>).
     </dif>
@@ -45,6 +51,12 @@
 </art>
 <!--
 $Log: didelf.xml,v $
+Revision 1.20  2013/10/20 16:10:14  revo
+Wolfram Diestel: ref al lst marsupiuloj, prilaboretis dif
+
+Revision 1.19  2013/09/01 14:10:21  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.18  2013/07/06 13:10:10  revo
 Wolfram Diestel: referencoj
 
@@ -61,11 +73,5 @@ Revision 1.14  2003/03/15 17:31:39  revo
 Miroslav Malovec: ald cs
 
 Revision 1.13  2002/06/29 17:47:26  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12  2001/05/18 14:58:04  revo
-didelf.0edoj -> didelf1.0oj
-
-Revision 1.11  2001/05/18 14:57:09  revo
 -->
 </vortaro>

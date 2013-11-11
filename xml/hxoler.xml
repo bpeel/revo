@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hxoler.xml,v 1.22 2010/01/25 17:30:31 revo Exp $">
+<art mrk="$Id: hxoler.xml,v 1.23 2013/10/07 15:10:30 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>&hcirc;oler</rad>/o
@@ -14,7 +14,8 @@
    <uzo tip="fak">MED</uzo>
    <snc>
      <dif>
-       Epidemia <ref tip="super" cel="san.mal0o">malsano</ref>,
+       Epidemia <ref tip="lst" cel="san.mal0o"
+       lst="voko:malsanoj">malsano</ref>,
        preska&ubreve; &ccirc;iam mortiga, karakterizata per
        gravaj intestaj malordoj, intensa malvarmi&gcirc;o kaj spasmaj
        kuntiri&gcirc;oj de membroj.
@@ -47,6 +48,9 @@
 </art>
 <!--
 $Log: hxoler.xml,v $
+Revision 1.23  2013/10/07 15:10:30  revo
+Wolfram Diestel: ref la lst malsanoj
+
 Revision 1.22  2010/01/25 17:30:31  revo
  Filip van Laenen: Tradukoj en norvegan
 
@@ -66,8 +70,5 @@ Revision 1.17  2003/05/10 16:51:52  revo
 Paul Peeraerts: ald ref al malsan
 
 Revision 1.16  2003/03/13 17:33:26  revo
-Allon Rothfarb: +trd he
-
-Revision 1.15  2002/10/21 16:36:30  revo
 -->
 </vortaro>

@@ -2,15 +2,16 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
  
 <vortaro>
-<art mrk="$Id: sxarke.xml,v 1.6 2012/03/13 01:10:09 revo Exp $">
+<art mrk="$Id: sxarke.xml,v 1.7 2013/08/31 14:10:27 revo Exp $">
 <kap><rad>&scirc;arked</rad>/oj</kap>
 <drv mrk="sxarke.0oj">
   <kap><tld/>oj</kap>
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Familio de
-      <ref tip="super" cel="fisx.kartilago0oj">kartilagofi&scirc;oj</ref>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:zoologiaj_familioj">Familio</ref> de
+      <ref tip="malprt" cel="fisx.kartilago0oj">kartilagofi&scirc;oj</ref>
       (<trd lng="la">Carchariidae</trd>).
     </dif>
   </snc>
@@ -28,6 +29,9 @@
 
 <!--
 $Log: sxarke.xml,v $
+Revision 1.7  2013/08/31 14:10:27  revo
+Wolfram Diestel: referenco al listozoo familioj
+
 Revision 1.6  2012/03/13 01:10:09  revo
 Agustin Garcia Lopez: +trd(es)
 

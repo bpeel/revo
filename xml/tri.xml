@@ -1,14 +1,15 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-  <art mrk="$Id: tri.xml,v 1.42 2013/04/26 15:10:12 revo Exp $">
+  <art mrk="$Id: tri.xml,v 1.44 2013/10/31 11:10:38 revo Exp $">
     <kap> <ofc>*</ofc> <rad>tri</rad> </kap>
     <drv mrk = "tri.0">
       <kap> <ofc>*</ofc> <tld/>
       </kap>
+      <mlg>3</mlg>
       <snc>
         <dif>
-          Du kaj unu. Matematika simbolo 3:
+          Du kaj unu:
           <ekz>kie iam lo&gcirc;is unu malliberulo, nun lo&gcirc;as du,
             <tld/>, e&ccirc; kvar
             <fnt>
@@ -18,6 +19,8 @@
             </fnt>.
           </ekz>
         </dif>
+        <ref tip="lst" cel="nombr.0o.MAT"
+        lst="voko:nombroj" val="3">nombro</ref>
       </snc>
       <trd lng = "be">&c_t;&c_r;&c_y;</trd>
       <trd lng = "bg">&c_t;&c_r;&c_i;</trd>
@@ -205,6 +208,12 @@
 
   <!--
   $Log: tri.xml,v $
+  Revision 1.44  2013/10/31 11:10:38  revo
+  Wolfram Diestel: +val, smb
+
+  Revision 1.43  2013/09/25 18:10:16  revo
+  Wolfram Diestel: ref al listo nombroj
+
   Revision 1.42  2013/04/26 15:10:12  revo
   Eko Nur Syah Hidayat: +trd id
 

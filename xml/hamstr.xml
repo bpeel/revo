@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hamstr.xml,v 1.28 2013/07/05 20:10:13 revo Exp $">
+<art mrk="$Id: hamstr.xml,v 1.31 2013/10/29 19:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hamstr</rad>/o
@@ -13,10 +13,13 @@
   <snc mrk="hamstr.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Ron&gcirc;ulo vivanta en grenkampoj kaj stepoj, povanta porti 
+      <ref tip="lst" cel="rongx.0ulo" lst="voko:ron&gcirc;uloj">Ron&gcirc;ulo</ref> 
+      vivanta en grenkampoj kaj stepoj, povanta porti 
       <ref cel="gren.0o">grenon</ref> en siaj 
-      <ref cel="vang.0o">vango</ref>sakoj, 
-      <ref tip="super" cel="genr.0o.BIO">genro</ref> el familio
+      <ref cel="vang.0o">vango</ref>sakoj; 
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> 
+      el familio
       <ref tip="malprt" cel="hamstr1.0oj"><tld/>edoj</ref>
       (<trd lng="la">Cricetus</trd>).
     </dif>
@@ -75,6 +78,15 @@
 </art>
 <!--
 $Log: hamstr.xml,v $
+Revision 1.31  2013/10/29 19:10:15  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.30  2013/10/23 18:10:21  revo
+Wolfram Diestel: ref al lst rongxuloj
+
+Revision 1.29  2013/08/20 14:10:11  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.28  2013/07/05 20:10:13  revo
 Wolfram Diestel: referencoj
 
@@ -88,14 +100,5 @@ Revision 1.25  2009/08/08 16:32:28  revo
 Russ Williams: +trd en
 
 Revision 1.24  2008/09/11 16:31:03  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.23  2007/07/04 16:30:34  revo
-Wieland Pusch: +trd de
-
-Revision 1.22  2006/04/09 17:52:08  revo
-Jeromo Vasxe: postkor uzo fig.
-
-Revision 1.21  2006/04/03 16:32:01  revo
 -->
 </vortaro>

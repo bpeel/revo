@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: medici.xml,v 1.19 2011/12/07 13:10:09 revo Exp $">
+<art mrk="$Id: medici.xml,v 1.20 2013/08/26 09:10:31 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>medicin</rad>/o
@@ -13,7 +13,9 @@
     <uzo tip="fak">MED</uzo>
     <uzo tip="fak">SCI</uzo>
     <dif>
-      Scienco pri sano kaj malsano, aplikata al kuracado:
+      <ref tip="lst" cel="scienc.0o.fako"
+      lst="voko:sciencoj">Scienco</ref> pri sano kaj malsano, aplikata
+      al kuracado:
       <ekz>
         fakultato pri <tld/>o
         <fnt><aut>Bardhyl Selimi</aut>, <vrk>Voja&gcirc;impresoj, somero
@@ -157,6 +159,9 @@
 </art>
 <!--
 $Log: medici.xml,v $
+Revision 1.20  2013/08/26 09:10:31  revo
+Wolfram Diestel: referenco al listo sciencoj
+
 Revision 1.19  2011/12/07 13:10:09  revo
 Marc Rausell: kataluna traduko
 
@@ -176,8 +181,5 @@ Revision 1.14  2005/08/25 16:33:09  revo
 Jeromo Vasxe: + mrk, + 1 tld
 
 Revision 1.13 2005/07/08 16:33:21 revo
-Alan ar Gall: +trd br, +1 trd fr
-
-Revision 1.12 2004/06/08 16:31:37 revo
 -->
 </vortaro>

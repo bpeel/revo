@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: narcis.xml,v 1.21 2011/12/11 21:10:27 revo Exp $">
+<art mrk="$Id: narcis.xml,v 1.23 2013/10/26 17:10:26 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>narcis</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,10 +12,14 @@
    <snc mrk="narcis.0o.BOT">
      <uzo tip="fak">BOT</uzo>
      <dif>
-       Vegeta&jcirc;o el la mediteranea zono,
+       Vegeta&jcirc;o <ref tip="lst" cel="plant.floro0o"
+       lst="voko:asparagoparencoj">asparagoparenca</ref> el la
+       mediteranea zono,
        kies floroj havas pokalforman
        kromkoronon kaj intensan bonodoron;
-       genro el familio <ref tip="super"
+       <ref tip="lst" cel="genr.0o.BIO"
+       lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+       tip="malprt"
        cel="amaril1.0oj">amarilidacoj</ref>
        (<trd lng="la">Narcissus</trd>):
        <ekz>
@@ -56,7 +60,8 @@
   <snc mrk="narcis.N0o.NOM">
     <uzo tip="fak">NOM</uzo>
     <dif>
-      Vira anta&ubreve;nomo grekdevena:
+      Vira <ref tip="lst" cel="nom.antaux0o"
+      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref> grekdevena:
       <ekz>
         kiel infano, <tld lit="N"/>o eklernis la gitaron, kaj balda&ubreve; li 
         koncertis
@@ -119,6 +124,12 @@
 </art>
 <!--
 $Log: narcis.xml,v $
+Revision 1.23  2013/10/26 17:10:26  revo
+Wolfram Diestel: ref al asparagoparencoj, personaj nomoj
+
+Revision 1.22  2013/08/26 08:10:23  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.21  2011/12/11 21:10:27  revo
 Marc Rausell: +trd ca
 
@@ -135,11 +146,5 @@ Revision 1.17  2005/03/20 17:50:18  revo
 Raul Salinas Monteagudo: +trd es,ca; reordigis trdkjn
 
 Revision 1.16  2004/02/04 20:09:25  revo
-Emmanuel Debanne: + trd fr
-
-Revision 1.15  2003/06/09 16:31:32  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14  2003/04/07 16:38:21  revo
 -->
 </vortaro>

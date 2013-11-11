@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nun.xml,v 1.26 2012/01/05 14:10:14 revo Exp $">
+<art mrk="$Id: nun.xml,v 1.27 2013/10/08 10:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nun</rad> <fnt><bib>PV</bib></fnt>
@@ -115,6 +115,7 @@
     <trd>jelenleg</trd>
   </trdgrp>
   <trd lng="nl">nu</trd>
+  <trd lng="oc">ara</trd>
   <trd lng="pl">teraz</trd>
   <trd lng="pt">agora</trd>
   <trd lng="ro">acum</trd>
@@ -240,6 +241,9 @@
 </art>
 <!--
 $Log: nun.xml,v $
+Revision 1.27  2013/10/08 10:10:12  revo
+Benito Subejrano: + trd oc
+
 Revision 1.26  2012/01/05 14:10:14  revo
 Marc Rausell: +trd ca
 
@@ -259,8 +263,5 @@ kiun
 oni prefere transloku sub la radikon "temp".
 
 Revision 1.21 2006/03/09 17:31:46 revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.20 2005/06/15 16:32:03 revo
 -->
 </vortaro>

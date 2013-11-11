@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: versx.xml,v 1.26 2012/08/31 17:10:11 revo Exp $">
+<art mrk="$Id: versx.xml,v 1.27 2013/08/25 08:10:50 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ver&scirc;</rad>/i <fnt><bib>PV</bib></fnt>
@@ -152,7 +152,8 @@
   <snc mrk="versx.V0isto.AST">
     <uzo tip="fak">AST</uzo>
     <dif>
-      Ekvatora <ref tip="super" cel="konste.0o">konstelacio</ref>
+      Ekvatora <ref tip="lst" cel="stel.0figuro"
+      lst="voko:stelfiguroj">stelfiguro</ref>
       kaj signo de la <ref tip="malprt"
       cel="zodiak.0o">zodiako</ref>
       (<trd lng="la">Aquarius</trd>).
@@ -491,6 +492,9 @@
 </art>
 <!--
 $Log: versx.xml,v $
+Revision 1.27  2013/08/25 08:10:50  revo
+Wolfram Diestel: referenco al listo stelfiguroj
+
 Revision 1.26  2012/08/31 17:10:11  revo
 Agustin Garcia Lopez: +trd(es)
 
@@ -510,8 +514,5 @@ Revision 1.21  2005/02/02 17:32:40  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.20  2004/08/23 16:33:40  revo
-Marc Bavant: +drv cxirkaux~i
-
-Revision 1.19 2003/02/17 17:31:29 revo
 -->
 </vortaro>

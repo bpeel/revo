@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tuj1.xml,v 1.16 2012/08/10 14:11:04 revo Exp $">
+<art mrk="$Id: tuj1.xml,v 1.18 2013/10/26 16:10:33 revo Exp $">
 <kap>
    <rad>tuj</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -11,9 +11,12 @@
    <snc mrk="tuj1.0o.BOT">
      <uzo tip="fak">BOT</uzo>
      <dif>
-       &Ccirc;iamverda arbeto, tre ofta en
+       &Ccirc;iamverda rapidkreska arbeto el <ref tip="lst" cel="konifer.0o"
+       lst="voko:koniferoj">koniferoj</ref>, tre ofta en
        &gcirc;ardenoj kaj kies ligno estas valora;
-       genro el familio <ref tip="super"
+       <ref tip="lst" cel="genr.0o.BIO"
+       lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+       tip="malprt"
        cel="cipres1.0oj">cipresacoj</ref>
        (<trd lng="la">Thuja</trd>):
        <ekz>
@@ -47,6 +50,12 @@
 </art>
 <!--
 $Log: tuj1.xml,v $
+Revision 1.18  2013/10/26 16:10:33  revo
+Wolfram Diestel: ref al lst koniferoj
+
+Revision 1.17  2013/08/26 11:10:21  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.16  2012/08/10 14:11:04  revo
 Marc Rausell: + trd ca
 
@@ -63,11 +72,5 @@ Revision 1.12  2004/05/17 16:32:20  revo
 Dmitri Gabinski: +trd be, uk
 
 Revision 1.11  2004/01/20 18:34:26  revo
-Emmanuel Debanne: +trd fr
-
-Revision 1.10  2002/05/15 16:36:51  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2002/03/14 17:32:32  revo
 -->
 </vortaro>

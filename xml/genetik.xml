@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: genetik.xml,v 1.18 2011/12/04 23:10:30 revo Exp $">
+<art mrk="$Id: genetik.xml,v 1.19 2013/09/22 19:10:44 revo Exp $">
 <kap>
 <rad>genetik</rad>/o
 </kap>
@@ -11,8 +11,9 @@
   <uzo tip="fak">BIO</uzo>
   <snc>
     <dif>
-      <ref tip="super" cel="scienc.0o.fako">Scienco</ref> pri la
-      heredeco, &gcirc;ia kemia fundamento kaj &gcirc;ia efiko sur
+      <ref tip="lst" cel="scienc.0o.fako"
+      lst="voko:sciencoj">Scienco</ref> 
+      pri la heredeco, &gcirc;ia kemia fundamento kaj &gcirc;ia efiko sur
       disvolvi&gcirc;on de la individuo kaj la evoluon de la specio:
       <ekz>
         universitata profesoro pri <tld/>o<fnt><aut>Marteno Ecott</aut>:
@@ -116,6 +117,9 @@
 </art>
 <!--
 $Log: genetik.xml,v $
+Revision 1.19  2013/09/22 19:10:44  revo
+Wolfram Diestel: astro~o: referenco al listo sciencoj
+
 Revision 1.18  2011/12/04 23:10:30  revo
 Marc Rausell: kataluna traduko
 
@@ -135,8 +139,5 @@ Revision 1.13  2006/04/25 16:32:24  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.12  2005/08/18 16:32:08  revo
-Luiz Portella: +trd pt
-
-Revision 1.11  2005/03/06 17:36:02  revo
 -->
 </vortaro>

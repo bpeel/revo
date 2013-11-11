@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tim.xml,v 1.32 2013/04/07 20:10:36 revo Exp $">
+<art mrk="$Id: tim.xml,v 1.33 2013/08/22 17:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tim</rad>/i <fnt><bib>PV</bib></fnt>
@@ -132,7 +132,8 @@
   <kap><tld/>o</kap>
   <snc mrk="tim.0o.KOMUNE">
     <dif>
-      Sento de tiu, kiu <tld/>as:
+      <ref tip="lst" cel="sent.0o" lst="voko:sentoj">Sento</ref> 
+      de tiu, kiu <tld/>as:
       <ekz>
         pali&gcirc;i de <tld/>o;
       </ekz>
@@ -623,6 +624,9 @@
 </art>
 <!--
 $Log: tim.xml,v $
+Revision 1.33  2013/08/22 17:10:22  revo
+Wolfram Diestel: referenco al listo sentoj
+
 Revision 1.32  2013/04/07 20:10:36  revo
 Sebastian Cyprych: +trd pl
 
@@ -642,8 +646,5 @@ Revision 1.27  2009/01/11 17:30:16  revo
 Jeromo Vasxe: + kulis~o
 
 Revision 1.26  2009/01/05 18:12:56  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.25  2006/03/23 17:31:45  revo
 -->
 </vortaro>

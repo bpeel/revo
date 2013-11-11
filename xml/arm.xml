@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: arm.xml,v 1.24 2012/02/18 10:10:09 revo Exp $">
+  <art mrk="$Id: arm.xml,v 1.25 2013/10/11 18:10:11 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>arm</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,7 +13,7 @@
       <uzo tip="stl">ARK</uzo>
       <snc mrk="arm.0o.ARM">
         <uzo tip="fak">MIL</uzo>
-        <ref tip="dif" cel="arm.0o"><tld/>ilo</ref>
+        <ref tip="dif" cel="arm.0ilo"><tld/>ilo</ref>
 	  <ekz>
 	    ne servas larmo anstata&ubreve; <tld/>o<fnt><bib>PrV</bib></fnt>.
 	  </ekz>
@@ -323,6 +323,9 @@
   </art>
   <!--
   $Log: arm.xml,v $
+  Revision 1.25  2013/10/11 18:10:11  revo
+  Wolfram Diestel: kor. ref-cel
+
   Revision 1.24  2012/02/18 10:10:09  revo
   Carlos Garcia: +trd es -ejo -i sen-i amasdetrua -ilo
 

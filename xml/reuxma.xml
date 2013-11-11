@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: reuxma.xml,v 1.13 2011/10/01 20:10:20 revo Exp $">
+<art mrk="$Id: reuxma.xml,v 1.14 2013/10/09 18:10:39 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>re&ubreve;matism</rad>/o
@@ -12,7 +12,8 @@
   <snc mrk="reuxma.0o.MED">
   <uzo tip="fak">MED</uzo>
     <dif>
-      Malsaneca doloro en artikoj a&ubreve; muskoloj:
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsan</ref>eca doloro en artikoj a&ubreve; muskoloj:
       <ekz>
         la princino kuracas sian <tld/>on, kaj la filino dio-scias-kion
         <fnt><bib>Mary</bib></fnt>.
@@ -35,6 +36,9 @@
 </art>
 <!--
 $Log: reuxma.xml,v $
+Revision 1.14  2013/10/09 18:10:39  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.13  2011/10/01 20:10:20  revo
 Behnam Tabatabai: +trd fa
 
@@ -54,8 +58,5 @@ Revision 1.8  2003/08/17 17:28:45  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.7  2002/01/25 17:32:39  revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/03/01 20:04:43 revo
 -->
 </vortaro>

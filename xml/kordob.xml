@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kordob.xml,v 1.3 2013/04/22 06:10:18 revo Exp $">
+<art mrk="$Id: kordob.xml,v 1.4 2013/09/22 19:11:36 revo Exp $">
 <kap>
   <rad>kordob</rad>/o
 </kap>
@@ -10,7 +10,8 @@
   <kap><tld/>o</kap>
   <snc mrk="kordob.0o.EKON">
     <dif>
-      <ref tip="super" cel="unu.mon0o.EKON">Monunuo</ref> de Nikaragvo.
+      <ref tip="lst" cel="unu.mon0o.EKON"
+      lst="voko:monunuoj">Monunuo</ref> de Nikaragvo.
     </dif>
    </snc>
   <trd lng="en">cordoba</trd>
@@ -27,6 +28,9 @@
 
 <!--
 $Log: kordob.xml,v $
+Revision 1.4  2013/09/22 19:11:36  revo
+Wolfram Diestel: referenco al listo monunuoj
+
 Revision 1.3  2013/04/22 06:10:18  revo
 Sebastian Cyprych: +trd pl
 

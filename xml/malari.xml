@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: malari.xml,v 1.18 2010/11/16 17:30:23 revo Exp $">
+  <art mrk="$Id: malari.xml,v 1.19 2013/10/07 15:10:37 revo Exp $">
     <kap>
       <ofc>2</ofc>
       <rad>malari</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,7 +13,8 @@
       <snc mrk="malari.0o.MED">
         <uzo tip="fak">MED</uzo>
         <dif>
-          Febra <ref tip="super" cel="san.mal0o">malsano</ref>, propra al
+          Febra <ref tip="lst" cel="san.mal0o.MED"
+          lst="voko:malsanoj">malsano</ref>, propra al
           mar&ccirc;aj regionoj, transinokulata per piko de kuloj.
         </dif>
       </snc>
@@ -40,6 +41,9 @@
   </art>
   <!--
   $Log: malari.xml,v $
+  Revision 1.19  2013/10/07 15:10:37  revo
+  Wolfram Diestel: ref la lst malsanoj
+
   Revision 1.18  2010/11/16 17:30:23  revo
   Sergio Pokrovskij: -ata
 

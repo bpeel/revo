@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kurkul1.xml,v 1.7 2012/07/31 16:10:15 revo Exp $">
+<art mrk="$Id: kurkul1.xml,v 1.8 2013/08/31 15:10:46 revo Exp $">
 <kap>
   <rad>kurkulied</rad>/oj
 </kap>
@@ -13,7 +13,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Familio el la ordo <ref tip="super"
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:zoologiaj_familioj">Familio</ref> el la ordo <ref
+      tip="malprt"
       cel="koleop.0oj">koleopteroj</ref>
       (<trd lng="la">Curculionidae</trd>), kun rostre longigita kapo.
     </dif>
@@ -33,6 +35,9 @@
 </art>
 <!--
 $Log: kurkul1.xml,v $
+Revision 1.8  2013/08/31 15:10:46  revo
+Wolfram Diestel: referenco al listo zoo familioj
+
 Revision 1.7  2012/07/31 16:10:15  revo
 Marc Rausell: + trd ca
 

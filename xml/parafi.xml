@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: parafi.xml,v 1.13 2006/02/24 17:36:34 revo Exp $">
+<art mrk="$Id: parafi.xml,v 1.14 2013/09/19 15:10:16 revo Exp $">
 <kap><ofc>1</ofc> <rad>parafin</rad>/o</kap>
 <drv mrk="parafi.0o">
   <kap><tld/>o</kap>
@@ -13,6 +13,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_f;&c_ib;&c_n;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_r;&c_a;&c_f;&c_i;&c_n;</trd>
   <trd lng="ca">parafina</trd>
   <trd lng="de">Paraffin</trd>
   <trd lng="en">paraffin</trd>
@@ -26,6 +27,9 @@
 </art>
 <!--
 $Log: parafi.xml,v $
+Revision 1.14  2013/09/19 15:10:16  revo
+Joop Eggen: +trd bg
+
 Revision 1.13  2006/02/24 17:36:34  revo
 Tulio Flores: +trd pt
 
@@ -45,9 +49,5 @@ Revision 1.8  2001/12/11 18:25:21  revo
 Yury Finkel: +trd ru
 
 Revision 1.7 2001/08/27 18:13:40 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.6 2001/07/17 18:11:55 revo
 -->
 </vortaro>
-

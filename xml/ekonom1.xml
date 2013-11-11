@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekonom1.xml,v 1.27 2012/08/01 09:10:30 revo Exp $">
+<art mrk="$Id: ekonom1.xml,v 1.28 2013/09/14 16:10:20 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>ekonomi</rad>/o
@@ -216,8 +216,8 @@
   <snc mrk="ekonom1.0a.OEKE.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Speciala <ref tip="super"
-      cel="organi2.0ajxo">organiza&jcirc;o</ref>
+      Speciala <ref tip="lst"
+      cel="organi2.0ajxo" lst="voko:organiza&jcirc;oj">organiza&jcirc;o</ref>
       de <ref tip="malprt" cel="naci.Unuigxintaj_0oj">Unui&gcirc;intaj
       Nacioj</ref>, kiu celas plani, kunordigi kaj profundigi <tld/>ajn
       kunlaboron kaj evoluigon:
@@ -292,6 +292,9 @@
 </art>
 <!--
 $Log: ekonom1.xml,v $
+Revision 1.28  2013/09/14 16:10:20  revo
+Wolfram Diestel: OEKE: ref al lst organizajhoj
+
 Revision 1.27  2012/08/01 09:10:30  revo
 Marc Rausell: + trd ca
 
@@ -311,8 +314,5 @@ Revision 1.22  2006/09/20 10:21:42  revo
 Wolfram Diestel: +tezrad(EKON)
 
 Revision 1.21  2006/07/13 18:09:35  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.20  2006/06/05 16:41:05  revo
 -->
 </vortaro>

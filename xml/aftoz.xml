@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aftoz.xml,v 1.12 2012/08/01 09:10:19 revo Exp $">
+<art mrk="$Id: aftoz.xml,v 1.13 2013/10/07 15:10:47 revo Exp $">
 <kap>
   <rad>aftoz</rad>/o
 </kap>
@@ -11,7 +11,8 @@
   <snc>
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Brutara malsano kies simptomoj estas
+      Brutara <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref> kies simptomoj estas
       <ref tip="vid" cel="aft.0o.epizootia">aftoj</ref> &ccirc;e la brusto,
 mamo
       kaj hufoj; afta malsano:
@@ -57,6 +58,9 @@ k&ouml;r&ouml;mf&aacute;j&aacute;s</trd>
 </art>
 <!--
 $Log: aftoz.xml,v $
+Revision 1.13  2013/10/07 15:10:47  revo
+Wolfram Diestel: ref la lst malsanoj
+
 Revision 1.12  2012/08/01 09:10:19  revo
 Marc Rausell: + trd ca
 
@@ -76,8 +80,5 @@ Revision 1.7  2003/02/03 17:31:22  revo
 Ulrich Fellmann: + <ind> en trd = de
 
 Revision 1.6  2002/06/26 19:29:36  revo
-Allon Rothfarb: +trd he
-
-Revision 1.5  2002/06/20 17:31:14  revo
 -->
 </vortaro>

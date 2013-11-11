@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tomat.xml,v 1.25 2013/01/07 01:10:11 revo Exp $">
+<art mrk="$Id: tomat.xml,v 1.27 2013/11/02 18:10:18 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>tomat</rad>/o
@@ -59,12 +59,15 @@
   <snc mrk="tomat.0ujo.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      Genro el familio <ref tip="super" cel="solana.0oj">solanacoj</ref>
-      (<trd lng="la">Lycopersicon</trd>), kun man&gcirc;eblaj brile
-      ru&gcirc;aj
-      fruktoj. Unu specio (<trd lng="la">Lycopersicon
-      lycopersicum</trd>)
-      estas multe kulturata.
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_specioj">Specio</ref> de <ref
+      tip="super" cel="solan.0o">solano</ref>
+      (<trd lng="la">Solanum lycopersicum</trd>);
+      multe kulturata
+      unu- a&ubreve; plurjara <ref tip="lst" cel="herb.0o" 
+      lst="voko:solanoparencoj">herbo</ref> 
+      kun man&gcirc;eblaj brile ru&gcirc;aj
+      <ref tip="prt" cel="ber.0o">beroj</ref>.
     </dif>
   </snc>
   <bld lok="../bld/tomat.jpg">
@@ -91,6 +94,12 @@
 </art>
 <!--
 $Log: tomat.xml,v $
+Revision 1.27  2013/11/02 18:10:18  revo
+Wolfram Diestel: ref al lst solanoparencoj, specio, prilaboretis dif
+
+Revision 1.26  2013/08/29 13:10:21  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.25  2013/01/07 01:10:11  revo
 Neil Roberts: Forigo de malplena traduko al la kataluna lingvo
 
@@ -107,11 +116,5 @@ Revision 1.21  2009/08/23 16:31:46  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.20  2009/06/22 16:31:00  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.19  2007/01/13 17:30:29  revo
-Wieland Pusch: +trd bg
-
-Revision 1.18  2006/09/14 16:31:12  revo
 -->
 </vortaro>

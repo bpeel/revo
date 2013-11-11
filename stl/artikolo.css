@@ -19,6 +19,7 @@ H2 {color: #000000;
     }
 H3 {font-size: 90%; border-top-width: 2px; border-top-style: solid; 
   border-top-color: #E0E0A0; padding-top: 0.5ex}
+
 HR {border-style: dotted; border-color: black; 
   border-top-width: 2px;
   border-bottom-width: 0px;
@@ -84,6 +85,15 @@ A.trdeo:link {text-decoration: underline; font-weight: bold; color: black}
 A.trdeo:visited {text-decoration: underline; font-weight: bold; color:
 black}
 A.trdeo:active {text-decoration: underline; font-weight: bold; color: gray}
+
+/* pli densa arangxo de tradukoj */
+div.trd_lng { margin-top: 0.5em; border-top-width: 2px; border-top-style: solid;
+  border-top-color: #E0E0A0; padding-top: 0ex; margin-top: 0.7em }
+div.trd_lng h3 { display: inline; margin-right: 0.5em; border-style: none;
+        /* background: #E0E0A0; */ color: gray; padding-right: 0.7em; 
+          padding-left: 0.3em; border-left: 0.5em solid #E0E0A0; }
+div.trd_lng_2 { display: inline; line-height: 135%;  }
+
 
 /* fontindikoj en la teksto */
 .fnt {font-style: normal}

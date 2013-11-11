@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kramb.xml,v 1.11 2009/08/18 19:18:15 revo Exp $">
+<art mrk="$Id: kramb.xml,v 1.14 2013/11/02 12:10:28 revo Exp $">
 <kap>
   <rad>kramb</rad>/o
 </kap>
@@ -13,7 +13,14 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super"
+      Plurjara <ref tip="lst" cel="herb.0o.BOT" 
+      lst="voko:brasikoparencoj">herbo</ref>
+      kun longa <ref tip="prt" cel="bet.0o.radiko">beto</ref>,
+      parenca al brasiko, sed kun blankaj floretoj kaj
+      dupartaj silikvoj kun po unu globforma semgrajno;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
       cel="brasik1.0oj">brasikacoj</ref>
       (<trd lng="la">Crambe</trd>).
     </dif>
@@ -34,6 +41,15 @@
 </art>
 <!--
 $Log: kramb.xml,v $
+Revision 1.14  2013/11/02 12:10:28  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.13  2013/10/31 17:10:12  revo
+Wolfram Diestel: prilaboris dif, ref al brasikoparencoj
+
+Revision 1.12  2013/08/26 09:10:49  revo
+Wolfram Diestel: referenco al listo sciencoj
+
 Revision 1.11  2009/08/18 19:18:15  revo
 Behnam Tabatabai: +trd fa
 
@@ -47,14 +63,5 @@ Revision 1.8  2001/11/05 19:12:47  revo
 Yury Finkel: +trd ru
 
 Revision 1.7  2001/05/07 16:12:56  revo
-Karlo Freeman: +trd=en
-
-Revision 1.6  2001/04/19 13:57:27  revo
-brasik.0acoj -> brasik1.0oj
-
-Revision 1.5  2000/08/24 10:58:54  revo
-Wolfram Diestel: prilaboris dif
-
-Revision 1.4  1999/11/21 15:49:57  revo
 -->
 </vortaro>

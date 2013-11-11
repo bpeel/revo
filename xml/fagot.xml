@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fagot.xml,v 1.15 2012/08/22 00:10:18 revo Exp $">
+<art mrk="$Id: fagot.xml,v 1.16 2013/09/08 18:10:36 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>fagot</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,7 +12,9 @@
   <snc mrk="fagot.0o.MUZ">
     <uzo tip="fak">MUZ</uzo>
     <dif>
-      Ligna <ref tip="super" cel="instru2.blov0o">blovinstrumento</ref>,
+      Ligna <ref tip="lst"
+      cel="instru2.blov0o"
+      lst="voko:blovinstrumentoj">blovinstrumento</ref>,
       kun
       langeto kaj klapetoj, por ludi la malakutajn partiojn. 
     </dif>
@@ -35,6 +37,9 @@
 </art>
 <!--
 $Log: fagot.xml,v $
+Revision 1.16  2013/09/08 18:10:36  revo
+Wolfram Diestel: ref al listo blovinstrumentoj
+
 Revision 1.15  2012/08/22 00:10:18  revo
 Marc Rausell: + trd ca
 
@@ -54,8 +59,5 @@ Revision 1.10  2002/09/03 17:31:54  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2002/01/23 17:33:31  revo
-Karlo Freeman: +trd=en
-
-Revision 1.8  2001/09/28 18:14:20  revo
 -->
 </vortaro>

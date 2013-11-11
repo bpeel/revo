@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: segx.xml,v 1.32 2012/11/27 20:10:10 revo Exp $">
+<art mrk="$Id: segx.xml,v 1.34 2013/10/16 16:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>se&gcirc;</rad>/o <fnt><bib>PV</bib></fnt>
@@ -23,7 +23,7 @@
           <vrk>Propono por elimini la lingvokaoson en E&ubreve;ropa
           Unio</vrk>,
           <bib>Monato</bib>,
-          <lok>jaro 1997a, numero 5a, p. 34a</lok>
+          <lok>1997:5, p. 34a</lok>
          </fnt>.
       </ekz>
     </dif>
@@ -45,7 +45,7 @@
           <aut>G. Van Damme</aut>,
           <vrk>Demokratio blokita</vrk>,
           <bib>Monato</bib>,
-          <lok>jaro 2001a, numero 1a, p. 8a</lok>
+          <lok>2001:1, p. 8a</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -65,6 +65,7 @@
     <trd>&c_k;&c_r;&c_e;&c_s;&c_l;&c_a;</trd>
   </trdgrp>
   <trd lng="bg">&c_s;&c_t;&c_o;&c_l;</trd>
+  <trd lng="ca">cadira</trd>
   <trd lng="cs">&zcaron;idle</trd>
   <trdgrp lng="de">
     <trd>Sitz</trd>,
@@ -77,6 +78,7 @@
     <trd>&mem;&vav;&shin;&bet;</trd>
   </trdgrp>
   <trd lng="hu">sz&eacute;k</trd>
+  <trd lng="oc">cadi&egrave;ra</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_t;&c_u;&c_l;</trd>,
     <trd>&c_s;&c_i;&c_d;&c_je;&c_n;&c_mol;&c_je;</trd>
@@ -192,7 +194,7 @@
 </drv>
 
 <drv mrk="segx.rul0o">
-  <kap>rul<tld/>o</kap>
+  <kap>rul<tld/>o, <var><kap>rad<tld/>o</kap></var></kap>
   <snc mrk="segx.rul0o.MEBL">
     <dif>
       Radhava <tld/>o per kiu eblas sin movi sidante:
@@ -203,7 +205,16 @@
           <aut>A. Tilmont</aut>,
           <vrk>Arthur C. Clarke, kosmopolita civitano...</vrk>,
           <bib>Monato</bib>,
-          <lok>jaro 1998a, numero 4a, p. 9a</lok>
+          <lok>1998:4, p. 9a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>...</klr> rezulte sidas paralizite sur rad<tld/>o
+        <fnt>
+          <aut>J. Camacho</aut>,
+          <vrk><url ref="http://www.liberafolio.org/2006/kantojdeanteo">
+          Poeto &ccirc;e mar&ccirc;ando kun Anubo</url></vrk>,
+          <lok>libera folio, 2008-01-26</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -230,6 +241,12 @@
 </art>
 <!--
 $Log: segx.xml,v $
+Revision 1.34  2013/10/16 16:10:14  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.33  2013/08/01 01:10:21  revo
+Jeromo Vasxe: + rad~o
+
 Revision 1.32  2012/11/27 20:10:10  revo
 Behnam Tabatabai: +trd fa
 
@@ -246,11 +263,5 @@ Revision 1.28  2007/11/15 17:30:17  revo
 Wieland Pusch: +trd bg
 
 Revision 1.27  2006/09/23 15:56:18  revo
-Russ Williams: +trd en
-
-Revision 1.26  2006/01/07 17:31:44  revo
-Jerano Zachrisson: ald 3 sv trd
-
-Revision 1.25  2005/05/17 16:32:53  revo
 -->
 </vortaro>

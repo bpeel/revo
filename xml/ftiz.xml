@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ftiz.xml,v 1.16 2012/09/19 13:10:10 revo Exp $">
+<art mrk="$Id: ftiz.xml,v 1.17 2013/10/09 19:10:54 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>
   ftiz</rad>/o <fnt><bib>PV</bib></fnt>
@@ -27,6 +27,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_u;&c_h;&c_o;&c_t;&c_y;</trd>,
@@ -79,6 +80,9 @@
 </art>
 <!--
 $Log: ftiz.xml,v $
+Revision 1.17  2013/10/09 19:10:54  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.16  2012/09/19 13:10:10  revo
 Jeromo Vasxe: + ekz
 
@@ -98,8 +102,5 @@ Revision 1.11  2008/08/23 16:31:17  revo
 Russ Williams: trd +en
 
 Revision 1.10  2007/06/13 16:32:38  revo
-Tulio Flores: +tr pt
-
-Revision 1.9  2004/01/04 17:33:32  revo
 -->
 </vortaro>

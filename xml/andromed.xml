@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: andromed.xml,v 1.5 2012/07/30 13:10:19 revo Exp $">
+<art mrk="$Id: andromed.xml,v 1.6 2013/08/25 08:10:19 revo Exp $">
 <kap>
   <rad>Andromed</rad>/o
 </kap>
@@ -12,7 +12,8 @@
     <uzo tip="fak">AST</uzo>
     <mlg>And</mlg>
     <dif>
-    Nord-hemisfera <ref tip="super" cel="stel.0figuro">stelfiguro</ref>
+    Nord-hemisfera <ref tip="lst" cel="stel.0figuro"
+    lst="voko:stelfiguroj">stelfiguro</ref>
     (<trd lng="la">Andromeda</trd>).
     </dif>
     <rim>La &leftquot;<ref tip="dif" cel="nebulo.0o">Nebulozo</ref> de
@@ -41,6 +42,9 @@
 </art>
 <!--
 $Log: andromed.xml,v $
+Revision 1.6  2013/08/25 08:10:19  revo
+Wolfram Diestel: referenco al listo stelfiguroj
+
 Revision 1.5  2012/07/30 13:10:19  revo
 Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fisx.xml,v 1.38 2012/01/03 23:10:26 revo Exp $">
+<art mrk="$Id: fisx.xml,v 1.48 2013/11/02 14:10:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fi&scirc;</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,15 +13,19 @@
   <snc mrk="fisx.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Vertebrulo, kun brankoj kaj na&gcirc;iloj, vivanta en akvo:
+      <ref tip="malprt" cel="verteb.0uloj">Vertebrulo</ref>, 
+      kun <ref tip="prt" cel="brank.0o">brankoj</ref> kaj 
+      <ref tip="prt" cel="nagx.0ilo">na&gcirc;iloj</ref>, vivanta en 
+      <ref cel="akv.0o">akvo</ref>:
       <ekz>
         <ind>la man&gcirc;ota <tld/>o estas ankora&ubreve; en la rivero</ind>
         <trd lng="fr">il ne faut pas vendre la peau de l'ours...</trd>
-        <klr>la afero ne certas</klr>
+        <klr>(la afero ne certas)</klr>
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
   </snc>
+  <lstref lst="voko:fi&scirc;oj">fi&scirc;oj</lstref>
   <trd lng="be">&c_r;&c_y;&c_b;&c_a;</trd>
   <trd lng="bg">&c_r;&c_i;&c_b;&c_a;</trd>
   <trd lng="ca">peix</trd>
@@ -79,11 +83,15 @@
 
 <drv mrk="fisx.F0oj">
   <kap><tld lit="F"/>oj</kap>
+  <mlg>Psc</mlg>
+  <mlg>&#9811;</mlg>
   <snc mrk="fisx.F0oj.ZOO">
     <uzo tip="fak">AST</uzo>
     <dif>
-      Stelaro kaj signo de la <ref tip="malprt" cel="zodiak.0o">zodiako
-      </ref> (<trd lng="la">Pisces</trd>).
+      <ref tip="lst" cel="stel.0figuro" lst="voko:zodiakaj_signoj"
+      val="12">Stelfiguro</ref> kaj signo de la 
+      <ref tip="malprt" cel="zodiak.0o">zodiako</ref> 
+      (<trd lng="la">Pisces</trd>).
     </dif>
   </snc>
   <trd lng="be">&c_R;&c_y;&c_b;&c_y;</trd>
@@ -165,88 +173,6 @@
   </adm> 
 </drv>
 
-<drv mrk="fisx.0vendisto">
-  <kap><tld/>isto, <var><kap><tld/>vendisto</kap></var></kap>
-  <snc>
-    <dif>
-      Tiu, kiu vendas <tld/>ojn.
-    </dif>
-    <trdgrp lng="pl">
-      <trd>sprzedawca <ind>ryb</ind></trd>,
-      <trd>handlarz <ind>rybami</ind></trd>
-    </trdgrp>
-  </snc>
-  <trdgrp lng="ca">
-    <trd>pescater</trd>,
-    <trd>peixater</trd>
-  </trdgrp>
-  <trd lng="fr">poissonnier</trd>
-  <adm>
-    Enkondukita laux rimarko de MB el ~isto.
-    <aut>SC</aut>
-  </adm> 
-</drv>
-
-<drv mrk="fisx.dorn0eto">
-  <kap>dorn<tld/>eto</kap>
-  <uzo tip="stl">KOMUNE</uzo>
-  <snc mrk="fisx.dorn0eto.ZOO">
-    <uzo tip="fak">ZOO</uzo>
-    <ref tip="dif" cel="gaster.0o">gasterosteo</ref>
-  </snc>
-  <trd lng="ca">espina</trd>
-  <trd lng="es">espina</trd>
-  <trd lng="fr">&eacute;pinoche</trd>
-  <trd lng="ru">&c_k;&c_o;&c_l;&c_ju;&c_sh;&c_k;&c_a;</trd>
-</drv>
-
-<drv mrk="fisx.kartilago0oj">
-  <kap>kartilago<tld/>oj</kap>
-  <snc mrk="fisx.kartilago0oj.ZOO">
-    <uzo tip="fak">ZOO</uzo>
-    <dif>
-      <tld lit="F"/>oj kun kartilaga skeleto,
-      klaso de <ref tip="super" cel="verteb.0uloj">vertebruloj</ref>
-      (<trd lng="la">Chondrichtyes</trd>), .
-    </dif>
-  </snc>
-  <trdgrp lng="ca">
-    <trd>condrictis</trd>,
-    <trd>peixos cartilaginosos</trd>
-  </trdgrp>
-  <trd lng="de">Knorpelfische</trd>
-  <trd lng="fr">chondrichtyens</trd>
-  <trd lng="hu">porcoshalak</trd>
-  <trd lng="nl">kraakbeenvissen</trd>
-  <trd lng="pl">ryby chrz&eogonek;stnoszkieletowe</trd>
-  <trd lng="ru">&c_h;&c_r;&c_ja;&c_shch;&c_je;&c_v;&c_y;&c_je; &c_r;&c_y;&c_b;&c_y;</trd>
-</drv>
-
-<drv mrk="fisx.osto0oj">
-  <kap>osto<tld/>oj</kap>
-  <snc mrk="fisx.osto0oj.ZOO">
-    <uzo tip="fak">ZOO</uzo>
-    <dif>
-      <tld lit="F"/>oj kun osta skeleto,
-      klaso de <ref tip="super" cel="verteb.0uloj">vertebruloj</ref>
-      (<trd lng="la">Osteichtyes</trd>).
-    </dif>
-  </snc>
-  <trdgrp lng="ca">
-    <trd>oste&iuml;ctis</trd>,
-    <trd>peixos ossis</trd>
-  </trdgrp>
-  <trd lng="de">Knochenfische</trd>
-  <trd lng="hu">csontoshalak</trd>
-  <trdgrp lng="fr">
-    <trd>poissons osseux</trd>,
-    <trd>ost&eacute;ichtyens</trd>
-  </trdgrp>
-  <trd lng="nl">beenvissen</trd>
-  <trd lng="pl">ryby ko&sacute;ciste</trd>
-  <trd lng="ru">&c_k;&c_o;&c_s;&c_t;&c_i;&c_s;&c_t;&c_y;&c_je; &c_r;&c_y;&c_b;&c_y;</trd>
-</drv>
-
 <drv mrk="fisx.0hoko">
   <kap><tld/>hoko</kap>
   <snc mrk="fisx.0hoko.CXAS">
@@ -289,30 +215,185 @@
   &c_u;&c_d;&c_a;, &c_u;&c_d;&c_o;&c_ch;&c_k;&c_a; | w&eogonek;dka
   </adm>
 </drv>
+
+<drv mrk="fisx.0vendisto">
+  <kap><tld/>isto, <var><kap><tld/>vendisto</kap></var></kap>
+  <snc>
+    <dif>
+      Tiu, kiu vendas <tld/>ojn.
+    </dif>
+    <trdgrp lng="pl">
+      <trd>sprzedawca <ind>ryb</ind></trd>,
+      <trd>handlarz <ind>rybami</ind></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>pescater</trd>,
+    <trd>peixater</trd>
+  </trdgrp>
+  <trd lng="fr">poissonnier</trd>
+  <adm>
+    Enkondukita laux rimarko de MB el ~isto.
+    <aut>SC</aut>
+  </adm> 
+</drv>
+
+<drv mrk="fisx.dorn0eto">
+  <kap>dorn<tld/>eto</kap>
+  <uzo tip="stl">KOMUNE</uzo>
+  <snc mrk="fisx.dorn0eto.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <ref tip="dif" cel="gaster.0o">gasterosteo</ref>
+  </snc>
+  <trd lng="ca">espina</trd>
+  <trd lng="es">espina</trd>
+  <trd lng="fr">&eacute;pinoche</trd>
+  <trd lng="ru">&c_k;&c_o;&c_l;&c_ju;&c_sh;&c_k;&c_a;</trd>
+</drv>
+
+<drv mrk="fisx.kartilago0o">
+  <kap>kartilago<tld/>o</kap>
+  <snc mrk="fisx.kartilago0o.ZOO">
+    <dif>
+      Iu el <ref tip="malprt"
+      cel="fisx.kartilago0oj">kartilago<tld/>oj</ref>.
+    </dif>
+  </snc>
+</drv>
+
+<drv mrk="fisx.kartilago0oj">
+  <kap>kartilago<tld/>oj</kap>
+  <snc mrk="fisx.kartilago0oj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <tld lit="F"/>oj kun kartilaga skeleto,
+      <ref tip="lst" cel="klas.0o.BIO"
+      lst="voko:zoologiaj_klasoj">klaso</ref> de <ref tip="malprt"
+      cel="verteb.0uloj">vertebruloj</ref>
+      (<trd lng="la">Chondrichtyes</trd>).
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>condrictis</trd>,
+    <trd>peixos cartilaginosos</trd>
+  </trdgrp>
+  <trd lng="de">Knorpelfische</trd>
+  <trd lng="fr">chondrichtyens</trd>
+  <trd lng="hu">porcoshalak</trd>
+  <trd lng="nl">kraakbeenvissen</trd>
+  <trd lng="pl">ryby chrz&eogonek;stnoszkieletowe</trd>
+  <trd lng="ru">&c_h;&c_r;&c_ja;&c_shch;&c_je;&c_v;&c_y;&c_je; &c_r;&c_y;&c_b;&c_y;</trd>
+</drv>
+
+<drv mrk="fisx.mar0o">
+  <kap>mar<tld/>o</kap>
+  <snc mrk="fisx.mar0o.salakva">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      <tld lit="F"/>o vivanta precipe en maroj, t.e. adaptita al
+      salakvo.
+    </dif>
+    <ref tip="vid" cel="fisx.river0o">river<tld/>o</ref>
+    <rim num="1">Pluraj <tld/>oj vivas plenkreske en salakvo, sed migras
+    por
+    frajado en riverojn.  
+    </rim>
+    <rim num="2">
+      Ne temas pri biologia grupo, sed pri distingo el vidpunkto de
+      kaptanto kaj konsumanto de <tld/>oj.
+    </rim>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Seefisch</trd>,
+    <trd>Meeresfisch</trd>,
+    <trd>Salzwasserfisch</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fisx.osto0oj">
+  <kap>osto<tld/>oj</kap>
+  <snc mrk="fisx.osto0oj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <tld lit="F"/>oj kun osta skeleto,
+      granda <ref tip="lst" cel="grup.0o.BIO"
+      lst="voko:zoologiaj_grupoj">grupo</ref> de <ref tip="malprt"
+      cel="verteb.0uloj">vertebruloj</ref>, al kiu apartenas i.a. la
+      klaso <trd lng="la">Actinopteri</trd> de la plej multaj vivantaj
+      fi&scirc;oj.
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>oste&iuml;ctis</trd>,
+    <trd>peixos ossis</trd>
+  </trdgrp>
+  <trd lng="de">Knochenfische</trd>
+  <trd lng="hu">csontoshalak</trd>
+  <trdgrp lng="fr">
+    <trd>poissons osseux</trd>,
+    <trd>ost&eacute;ichtyens</trd>
+  </trdgrp>
+  <trd lng="la">Osteichtyes</trd>
+  <trd lng="nl">beenvissen</trd>
+  <trd lng="pl">ryby ko&sacute;ciste</trd>
+  <trd lng="ru">&c_k;&c_o;&c_s;&c_t;&c_i;&c_s;&c_t;&c_y;&c_je; &c_r;&c_y;&c_b;&c_y;</trd>
+</drv>
+
+<drv mrk="fisx.rabo0o">
+  <kap>rabo<tld/>o</kap>
+  <snc mrk="fisx.rabo0o.konduto">
+    <dif>
+      <tld lit="F"/>o &ccirc;asanta aliajn fi&scirc;ojn kaj rapidajn 
+      relative grandajn bestojn por nutri sin.
+    </dif>
+  </snc>
+  <trd lng="de">Raubfisch</trd>
+</drv>
+
+<drv mrk="fisx.river0o">
+  <kap>river<tld/>o</kap>
+  <snc mrk="fisx.river0o.dolcxakva">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+       <tld lit="F"/>o vivanta kaj kaptata precipe en riveroj.
+    </dif>
+    <ref tip="vid" cel="fisx.mar0o">mar<tld/>o</ref>
+    <rim>La vorto estas komunuza el la vidpunkto de kaptanto kaj
+    konsumanto de 
+    <tld/>oj, sed ne utilas por dividi <tld/>ojn la&ubreve; biologiaj specioj,
+    &ccirc;ar 
+    multaj specioj vivas en nesala akvo de riveroj kaj lagoj kaj e&ccirc;
+    pluraj 
+    mar<tld/>oj iras regule en riverojn por fraji.
+    </rim>
+  </snc>
+</drv>
+
+
 </art>
 <!--
 $Log: fisx.xml,v $
-Revision 1.38  2012/01/03 23:10:26  revo
-Marc Rausell: ++trd ca (kor)
+Revision 1.48  2013/11/02 14:10:30  revo
+Wolfram Diestel: +kartilago~o
 
-Revision 1.37  2010/08/13 16:30:18  revo
-Jeromo Vasxe: - kramp, reord. drv
+Revision 1.47  2013/10/31 11:10:25  revo
+Wolfram Diestel: kor. ref-cel
 
-Revision 1.36  2010/03/11 17:30:27  revo
- Evandro Avellar: + trd pt
+Revision 1.46  2013/10/16 18:10:11  revo
+Wolfram Diestel: lstref fishoj
 
-Revision 1.35  2008/06/06 16:30:20  revo
-Sebastian Cyprych: kor trd pl cxe fisx~o, kor adm
+Revision 1.45  2013/10/13 09:10:13  revo
+Wolfram Diestel: +rabo~o
 
-Revision 1.34  2008/03/28 17:30:30  revo
-Sebastian Cyprych: +trd pl
+Revision 1.44  2013/10/06 18:10:16  revo
+Wolfram Diestel: korektetoj
 
-Revision 1.33  2008/01/05 17:30:15  revo
-Wieland Pusch: +trd bg
+Revision 1.43  2013/10/06 13:10:15  revo
+Wolfram Diestel: +mar~o, river~o, ref-oj el ~o
 
-Revision 1.32  2006/09/14 16:31:27  revo
-Axel Rousseau: +trd tp
+Revision 1.42  2013/09/23 19:10:28  revo
+Wolfram Diestel: ref al list zodiakoaj signoj, mlg
 
-Revision 1.31  2005/04/30 16:31:12  revo
+Revision 1.41  2013/09/08 19:10:44  revo
 -->
 </vortaro>

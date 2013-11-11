@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: grad.xml,v 1.36 2011/04/30 20:10:18 revo Exp $">
+<art mrk="$Id: grad.xml,v 1.37 2013/09/15 11:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>grad</rad>/o <fnt><bib>PV</bib></fnt>
@@ -93,9 +93,10 @@
     <subsnc mrk="grad.0o.unuo">
       <fnt><bib>VdE</bib></fnt>
       <dif>
-        Komunuza <ref tip="super" cel="unu.mezur0o">mezurunuo</ref> de
+        Komunuza <ref tip="lst" cel="unu.mezur0o"
+        lst="voko:mezurunuoj">mezurunuo</ref> de
         <ref cel="angul.ebena0o">ebena angulo</ref>, egala al la
-        180a parto de stre&ccirc;ita angulo; simb. <frm>&#730;</frm> :
+        180a parto de stre&ccirc;ita angulo; simb. <frm>&#730;</frm>:
         <ekz>
           <tld/>o egalas al <frm>&pi;/180</frm>
           <ref cel="radian.0o">radianoj</ref>.
@@ -421,6 +422,9 @@
 </art>
 <!--
 $Log: grad.xml,v $
+Revision 1.37  2013/09/15 11:10:26  revo
+Wolfram Diestel: ref al lst mezurunuoj
+
 Revision 1.36  2011/04/30 20:10:18  revo
 Jeromo Vasxe: + ia~e
 
@@ -440,8 +444,5 @@ Revision 1.31  2005/06/09 17:41:12  revo
 Yury Finkel: +trd ru
 
 Revision 1.30  2003/12/24 17:30:33  revo
-Marc Bavant: kor duobligitan punkton
-
-Revision 1.29  2003/11/19 20:02:11  revo
 -->
 </vortaro>

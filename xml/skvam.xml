@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skvam.xml,v 1.20 2011/12/05 01:10:21 revo Exp $">
+<art mrk="$Id: skvam.xml,v 1.24 2013/10/25 16:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>skvam</rad>/o
@@ -48,6 +48,7 @@ post la boato
     <trd>&c_l;&c_u;&c_s;&c_k;&c_a;</trd>,
     <trd>&c_l;&c_u;&c_s;&c_k;&c_a;&c_v;&c_ib;&c_n;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="bg">&c_l;&c_ju;&c_s;&c_p;&c_a;</trd>
   <trd lng="ca">escata</trd>
   <trd lng="de">Schuppe</trd>
   <trd lng="en">scale<klr> (of fish, etc)</klr></trd>
@@ -66,10 +67,13 @@ post la boato
   <snc mrk="skvam.0uloj.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Ordo el la klaso <ref tip="super" cel="ramp.0uloj">rampuloj</ref>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref>
+      de <ref tip="malprt" cel="reptil.0oj">reptilioj</ref>
       (<trd lng="la">Squamata</trd>).
     </dif>
   </snc>
+  <trd lng="bg">&c_l;&c_ju;&c_s;&c_p;&c_je;&c_s;&c_t;&c_i;</trd>
   <trd lng="ca">escamosos</trd>
   <trd lng="de">Schuppenkriechtiere</trd>
   <trd lng="fr">squamates</trd>
@@ -85,6 +89,18 @@ tip="amb">(&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
 </art>
 <!--
 $Log: skvam.xml,v $
+Revision 1.24  2013/10/25 16:10:15  revo
+Wolfram Diestel: kor. ref-tip
+
+Revision 1.23  2013/10/07 16:10:19  revo
+Wolfram Diestel: kor. ref
+
+Revision 1.22  2013/09/01 12:10:10  revo
+Wolfram Diestel: ~uloj: referenco al listo zoo ordoj
+
+Revision 1.21  2013/08/16 07:10:17  revo
+Joop Eggen: +trd bg k.a.
+
 Revision 1.20  2011/12/05 01:10:21  revo
 Marc Rausell: kataluna traduko
 
@@ -95,17 +111,5 @@ Revision 1.18  2009/08/30 16:30:58  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.17  2009/02/26 17:31:20  revo
-Russ Williams: +trd en
-
-Revision 1.16  2006/05/11 16:31:26  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.15  2006/02/27 17:33:09  revo
-Jeromo Vasxe: + 1 eke + 1 fnt
-
-Revision 1.14 2003/10/24 16:30:50 revo
-Zmicier Lapcionak: kor trd be
-
-Revision 1.13 2003/01/14 17:36:29 revo
 -->
 </vortaro>

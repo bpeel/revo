@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: majoli.xml,v 1.14 2010/12/04 17:30:21 revo Exp $">
+<art mrk="$Id: majoli.xml,v 1.15 2013/08/19 13:10:17 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>majolik</rad>/o <fnt><bib>PV</bib></fnt>
@@ -24,6 +24,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_jo;&c_l;&c_ib;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_m;&c_a;&c_j;&c_o;&c_l;&c_i;&c_k;&c_a;</trd>
   <trd lng="ca">maj&ograve;lica</trd>
   <trd lng="de">Majolika</trd>
   <trd lng="en">majolica</trd>
@@ -37,10 +38,14 @@
   </trdgrp>
   <trd lng="ru">&c_m;&c_a;&c_j;&c_o;&c_l;&c_i;&c_k;&c_a;</trd>
   <trd lng="sk">majolika</trd>
+  <trd lng="sv">majolika</trd>
 </drv>
 </art>
 <!--
 $Log: majoli.xml,v $
+Revision 1.15  2013/08/19 13:10:17  revo
+Joop Eggen: +trd bg sv
+
 Revision 1.14  2010/12/04 17:30:21  revo
 Jeromo Vasxe: + ekz + trd fr
 
@@ -60,8 +65,5 @@ Revision 1.9  2002/07/04 19:12:07  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.8  2001/12/02 17:32:43  revo
-Dennis Wibrow: +trd germ
-
-Revision 1.7  2001/11/27 17:33:38  revo
 -->
 </vortaro>

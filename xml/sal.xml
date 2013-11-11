@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sal.xml,v 1.31 2012/07/15 10:10:27 revo Exp $">
+  <art mrk="$Id: sal.xml,v 1.33 2013/09/29 19:10:10 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>sal</rad>/o <fnt><bib>PV</bib></fnt>
@@ -37,6 +37,7 @@
       <trd lng="nl">zout<klr tip="ind"> (zn.)</klr></trd>
       <trd lng="pl">s&oacute;l</trd>
       <trd lng="pt">sal</trd>
+      <trd lng="ro">sare</trd>
       <trd lng="ru">&c_s;&c_o;&c_l;&c_mol;</trd>
       <trd lng="sv">salt</trd>
     </drv>
@@ -45,7 +46,8 @@
       <kap><tld/>a</kap>
       <snc mrk="sal.0a.KUI">
         <dif>
-          <tld lit="S"/>gusta.
+          <tld lit="S"/><ref tip="lst" cel="gust.0o.eco"
+          lst="voko:gustoj">gusta</ref>.
         </dif>
       </snc>
       <trd lng="be">&c_s;&c_a;&c_l;&c_jo;&c_n;&c_y;</trd>
@@ -203,6 +205,12 @@
   </art>
   <!--
   $Log: sal.xml,v $
+  Revision 1.33  2013/09/29 19:10:10  revo
+  Vito Redsky: +trd ro
+
+  Revision 1.32  2013/08/22 17:10:13  revo
+  Wolfram Diestel: referenco al listo gustoj
+
   Revision 1.31  2012/07/15 10:10:27  revo
   Marc Rausell: + trd ca
 

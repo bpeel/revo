@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: herc.xml,v 1.6 2011/10/15 18:10:13 revo Exp $">
+<art mrk="$Id: herc.xml,v 1.7 2013/09/15 14:10:14 revo Exp $">
 <kap>
   <rad>herc</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -10,8 +10,10 @@
   <kap><tld/>o</kap>
   <snc mrk="herc.0o.MEZ">
     <uzo tip="fak">FIZ</uzo>
+    <mlg kod="SI">Hz</mlg>
     <dif>
-      <ref tip="super" cel="unu.mezur0o.SCI">Mezurunuo</ref> de 
+      <ref tip="lst" cel="unu.mezur0o.SCI"
+      lst="voko:mezurunuoj">Mezurunuo</ref> de 
       <ref tip="vid" cel="frekve.0o.TEK">frekvenco</ref>
       en la Internacia Sistemo de unuoj, egala al unu 
       oscilo en unu sekundo:
@@ -40,6 +42,9 @@
 
 <!--
 $Log: herc.xml,v $
+Revision 1.7  2013/09/15 14:10:14  revo
+Wolfram Diestel: ref al lst mezurunuoj, mlg
+
 Revision 1.6  2011/10/15 18:10:13  revo
 Behnam Tabatabai: +trd fa
 

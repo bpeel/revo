@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tarant.xml,v 1.16 2012/01/03 23:10:27 revo Exp $">
+<art mrk="$Id: tarant.xml,v 1.18 2013/09/08 15:10:35 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>tarantel</rad>/o
@@ -12,10 +12,12 @@
   <snc mrk="tarant.0o.MUZ">
     <uzo tip="fak">MUZ</uzo>
     <dif>
-      Vigla itala <ref tip="super" cel="danc.0o.MUZ">danco</ref>.
+      Vigla itala <ref tip="lst" cel="danc.0o"
+      lst="voko:dancoj">danco</ref>.
     </dif>
   </snc>
   <trd lng="be">&c_t;&c_a;&c_r;&c_a;&c_n;&c_t;&c_e;&c_l;&c_a;</trd>
+  <trd lng="bg">&c_t;&c_a;&c_r;&c_a;&c_n;&c_t;&c_je;&c_l;&c_a;</trd>
   <trd lng="ca">tarantel&middot;la</trd>
   <trd lng="de">Tarantella</trd>
   <trd lng="en">tarantella</trd>
@@ -33,6 +35,12 @@
 </art>
 <!--
 $Log: tarant.xml,v $
+Revision 1.18  2013/09/08 15:10:35  revo
+Wolfram Diestel: ref al listo dancoj
+
+Revision 1.17  2013/08/05 11:10:11  revo
+Joop Eggen: +trd bg
+
 Revision 1.16  2012/01/03 23:10:27  revo
 Marc Rausell: ++trd ca (kor)
 
@@ -49,11 +57,5 @@ Revision 1.12  2006/07/20 19:41:07  revo
 Jeromo Vasxe: + tez, + trd fr
 
 Revision 1.11 2006/02/03 17:34:09 revo
-Tulio Flores: +trd pt
-
-Revision 1.10 2003/09/08 16:33:09 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9 2002/08/16 17:31:32 revo
 -->
 </vortaro>

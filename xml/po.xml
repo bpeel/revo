@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: po.xml,v 1.20 2013/04/27 15:10:11 revo Exp $">
+  <art mrk="$Id: po.xml,v 1.22 2013/11/07 14:10:10 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>po</rad> <fnt><bib>PV</bib></fnt>
@@ -48,10 +48,31 @@
             </ekz><ekz>
               la kurso da&ubreve;ras dum 10 tagoj <tld/> 30 minutoj.
             </ekz>
-          </dif>
-          <refgrp tip="sin">
-            <ref cel="cxiu.0">&ccirc;iu</ref>.
-          </refgrp>
+             </dif>
+             <refgrp tip="sin">
+            <ref cel="cxiu.0">&ccirc;iu</ref>
+            </refgrp>
+          <rim>
+          En multaj frazoj kun <tld/>, unu substantivo estas
+          subkomprenita a&ubreve; forlasita. La kazo de la sekva &ccirc;eestanta
+          substantivo (inter parentezoj) dependas de ties funkcio en la
+          frazo:<ekz> mi fumadis cigaredojn (kostantajn) <tld/> 20
+          rubloj por cento<fnt>Z</fnt>;
+&ccirc;iu grupo havas la rajton sendi al
+          la kongreso (delegitaron) <tld/> unu delegito por &ccirc;iu plena
+          deko da siaj membroj<fnt>Z</fnt>; mi legos (la libron) en
+          &ccirc;iu tago <tld/>
+          dek kvin pa&gcirc;oj<fnt>Z</fnt>; eniris al Noa en la arkeon
+          (bestoj) <tld/> du el &ccirc;iu karno<fnt>MT</fnt>; veluro,
+          kostanta
+          (monon) <tld/> tri guldenoj por ulno<fnt>Z</fnt>.</ekz>
+          Konsekvence, kiam la &ccirc;eestanta substantivo estas
+          akuzativigita, &gcirc;i
+          evidente ne dependas de <tld/>, sed de la verbo:<ekz> al &ccirc;iuj
+          li donis dolarojn <tld/> unu; tiuj studentinoj havas amantojn
+          <tld/>
+          pluraj.</ekz> 
+          </rim>
           <trdgrp lng="de">
             <trd>zu</trd>,
             <trd>f&uuml;r</trd>
@@ -121,7 +142,7 @@
             </ekz>
             Z mem skribis:
             <ekz>
-              al tiu li donis <tld/> 5 dolarojn
+              al tiuj li donis <tld/> 5 dolarojn
             </ekz>
             kaj deklaris en siaj L. R.: &leftquot;Inter la esprimoj
             <ekz>
@@ -303,6 +324,12 @@
   </art>
   <!--
   $Log: po.xml,v $
+  Revision 1.22  2013/11/07 14:10:10  revo
+  Damien Brucker: Dauxrigo cxe la unua rimarko
+
+  Revision 1.21  2013/11/06 11:10:09  revo
+  Damien Brucker: Aldono al la unua rimarko
+
   Revision 1.20  2013/04/27 15:10:11  revo
   Norbert Luckhardt: +trd(de); ~-signo: +trd(es,de)
 

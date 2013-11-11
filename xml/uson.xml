@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: uson.xml,v 1.22 2011/02/13 02:10:53 revo Exp $">
+<art mrk="$Id: uson.xml,v 1.24 2013/08/23 08:10:15 revo Exp $">
 <kap>
      <ofc>9</ofc><rad>Uson</rad>/o
 </kap>
@@ -13,7 +13,8 @@
      <fnt><bib>ZR</bib></fnt>
      <snc>
        <dif>
-         Granda <ref tip="super" cel="sxtat.0o">&scirc;tato</ref>
+         Granda <ref tip="lst" cel="sxtat.0o"
+         lst="voko:&scirc;tatoj">&scirc;tato</ref>
          <ref tip="malprt" cel="amerik.Nord0o">Nordamerika</ref>,
          federanta 50 <ref cel="sxtat.sub0o">sub&scirc;tatojn</ref>; la
          federa &ccirc;efurbo estas Va&scirc;in(g)tono:
@@ -47,6 +48,10 @@
        <trd>&c_Z;&c_l;&c_u;&c_ch;&c_a;&c_n;&c_y;&c_ja;
        &c_Sh;&c_t;&c_a;&c_t;&c_y;
        &c_A;&c_m;&c_e;&c_r;&c_y;&c_k;&c_ib;</trd>
+     </trdgrp>
+     <trdgrp lng="bg">
+       <trd>&c_S;&c_malmol;&c_je;&c_d;&c_i;&c_n;&c_je;&c_n;&c_i; &c_a;&c_m;&c_je;&c_r;&c_i;&c_k;&c_a;&c_n;&c_s;&c_k;&c_i; &c_shch;&c_a;&c_t;&c_i;</trd>,
+       <trd>&c_S;&c_A;&c_Shch;</trd>
      </trdgrp>
      <trdgrp lng="de">
        <trd>Vereinigte Staaten von <ind>Amerika</ind></trd>,
@@ -251,6 +256,12 @@
 </art>
 <!--
 $Log: uson.xml,v $
+Revision 1.24  2013/08/23 08:10:15  revo
+Wolfram Diestel: referencoj al listo sxtatoj
+
+Revision 1.23  2013/08/15 15:10:12  revo
+Joop Eggen: +trd bg
+
 Revision 1.22  2011/02/13 02:10:53  revo
 Luiz Portella: kor. ref k mrk
 
@@ -266,12 +277,6 @@ Sebastian Cyprych: +trd pl
 
 Revision 1.18  2009/03/01 17:34:13  revo
 Russ Williams: + 9OA
-
-Revision 1.17  2008/12/12 17:57:29  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.16  2007/07/08 16:30:25  revo
-Harri Laine: +trd fi
 
 -->
 </vortaro>

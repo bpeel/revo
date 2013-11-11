@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vitr.xml,v 1.35 2013/05/29 01:10:10 revo Exp $">
+<art mrk="$Id: vitr.xml,v 1.36 2013/07/22 17:10:18 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>vitr</rad>/o
@@ -44,6 +44,7 @@
     <trd lng="nl">ruit</trd>
   </snc>
   <trd lng="be">&c_sh;&c_k;&c_l;&c_o;</trd>
+  <trd lng="bg">&c_s;&c_t;&c_malmol;&c_k;&c_l;&c_o;</trd>
   <trd lng="de">Glas <klr tip="amb">(Substanz)</klr></trd>
   <trdgrp lng="el">
     <trd>(&gamma;)&ypsilon;&alfa;&lambda;&jota_ton;</trd>,
@@ -325,6 +326,9 @@
 </art>
 <!--
 $Log: vitr.xml,v $
+Revision 1.36  2013/07/22 17:10:18  revo
+Joop Eggen: +trd bg
+
 Revision 1.35  2013/05/29 01:10:10  revo
 Norbert Luckhardt: ~o: +klr trd (de)
 
@@ -344,8 +348,5 @@ Revision 1.30  2007/11/25 17:30:29  revo
 Wieland Pusch: +drv sunokulvitroj
 
 Revision 1.29  2007/11/22 17:31:00  revo
-Wieland Pusch: +trd bg
-
-Revision 1.28  2007/05/19 17:02:40  revo
 -->
 </vortaro>

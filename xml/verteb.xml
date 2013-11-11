@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: verteb.xml,v 1.30 2012/08/12 11:10:12 revo Exp $">
+  <art mrk="$Id: verteb.xml,v 1.35 2013/10/29 19:10:18 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>vertebr</rad>/o
@@ -117,22 +117,34 @@
       <trd lng="ru">&c_p;&c_o;&c_z;&c_v;&c_o;&c_n;&c_o;&c_ch;&c_n;&c_i;&c_k;</trd>
       <trd lng="tr">omurga</trd>
     </drv>
+    
+    <drv mrk="verteb.0ulo">
+      <kap><tld/>ulo</kap>
+      <snc mrk="verteb.0ulo.ZOO">
+        <uzo tip="fak">ZOO</uzo>
+        <dif>
+          Iu el <ref tip="malprt" cel="verteb.0uloj"><tld/>uloj</ref>.
+        </dif>
+      </snc>
+    </drv>
 
     <drv mrk="verteb.0uloj">
       <kap><tld/>uloj</kap>
-      <uzo tip="fak">ZOO</uzo>
       <snc>
+        <uzo tip="fak">ZOO</uzo>
         <dif>
-          Subfilumo de <ref tip="super"
+          <ref tip="lst" cel="filum.sub0o"
+          lst="voko:zoologiaj_grupoj">Subfilumo</ref>
+          de <ref tip="malprt"
           cel="hxord.0uloj">&hcirc;orduloj</ref>
           (<trd lng="la">Vertebrata</trd>),
-          havantaj <tld/>aron, al kiu apartenas i.a. la klasoj
-          <refgrp tip="sub">
+          havantaj <tld/>aron, al kiu apartenas i.a. la grupoj
+          <refgrp tip="prt">
             <ref cel="busx.rond0uloj">rondbu&scirc;uloj</ref>,
             <ref cel="fisx.kartilago0oj">kartilagofi&scirc;oj</ref>,
             <ref cel="fisx.osto0oj">ostofi&scirc;oj</ref>,
             <ref cel="amfibi.0oj">amfibioj</ref>,
-            <ref cel="ramp.0uloj">rampuloj</ref>,
+            <ref cel="reptil.0oj">reptilioj</ref>,
             <ref cel="bird.0oj">birdoj</ref> kaj
             <ref cel="mam.0uloj">mamuloj</ref>.
           </refgrp>
@@ -158,10 +170,11 @@
       <uzo tip="fak">ZOO</uzo>
       <snc>
         <dif>
-          <trd lng="la">Evertebrata</trd> - bestoj ne havantaj
+          <ref tip="malprt" cel="best.0oj">Bestoj</ref> ne havantaj
           <tld/>aron, 
           kontra&ubreve;aj al la
-          <ref tip="ant" cel="verteb.0uloj">vertebuloj</ref>.
+          <ref tip="ant" cel="verteb.0uloj">vertebruloj</ref>
+          (<trd lng="la">Evertebrata</trd>).
         </dif>
       </snc>
       <trd lng="ca">invertebrats</trd>
@@ -177,6 +190,21 @@
   </art>
   <!--
   $Log: verteb.xml,v $
+  Revision 1.35  2013/10/29 19:10:18  revo
+  Wolfram Diestel: kor. ref-cel
+
+  Revision 1.34  2013/10/15 15:10:12  revo
+  Wolfram Diestel: vertebruloj: kor. ref-tip al subgrupoj
+
+  Revision 1.33  2013/09/01 13:10:24  revo
+  Wolfram Diestel: kor. ref-cel
+
+  Revision 1.32  2013/09/01 12:10:13  revo
+  Wolfram Diestel: sen~uloj: prilaboris dif
+
+  Revision 1.31  2013/09/01 10:10:23  revo
+  Wolfram Diestel: ~uloj: aktualigis dif
+
   Revision 1.30  2012/08/12 11:10:12  revo
   Marc Rausell: + trd ca
 

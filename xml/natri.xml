@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: natri.xml,v 1.17 2006/06/02 16:31:16 revo Exp $">
+<art mrk="$Id: natri.xml,v 1.20 2013/09/17 19:10:25 revo Exp $">
 <kap>
    <ofc>4</ofc>
    <rad>natri</rad>/o
@@ -10,20 +10,22 @@
 </kap>
 <drv mrk="natri.0o">
    <kap><tld/>o</kap>
-   <mlg>Na</mlg>
+   <mlg kod="IUPAC">Na</mlg>
    <uzo tip="fak">KEM</uzo>
    <snc>
      <dif>
-       &Hcirc;emia <ref tip="super" cel="elemen.0o.KEM">elemento</ref> kun
-       atomnumero 11, atompezo 22,9898, simbolo <frm>Na</frm>.
-       <ref tip="super" cel="alkal.0eca">Alkala</ref> blanka 
+       &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+       lst="voko:&hcirc;emiaj_elementoj" val="11">elemento</ref> kun
+       atomnumero 11, atompezo 22,9898;
+       <ref tip="super" cel="alkal.0eca">alkala</ref> blanka 
        <ref tip="super" cel="metal.0o.KEM">metalo</ref>, 
        kiu malkomponas akvon kaj kies kombino kun
-       <ref tip="super" cel="klor.0o">kloro</ref> estigas la vulgaran salon
-uzatan en man&gcirc;a&jcirc;oj.
+       <ref tip="super" cel="klor.0o">kloro</ref> estigas la vulgaran
+       salon uzatan en man&gcirc;a&jcirc;oj.
      </dif>
    </snc>
    <trd lng="be">&c_n;&c_a;&c_t;&c_r;&c_y;&c_j;</trd>
+   <trd lng="bg">&c_n;&c_a;&c_t;&c_r;&c_i;&c_j;</trd>
    <trdgrp lng="br">
      <trd>sodiom</trd>,
      <trd>natriom</trd>
@@ -46,6 +48,15 @@ uzatan en man&gcirc;a&jcirc;oj.
 </art>
 <!--
 $Log: natri.xml,v $
+Revision 1.20  2013/09/17 19:10:25  revo
+Wolfram Diestel: simb. lau IUPAC, val
+
+Revision 1.19  2013/08/25 07:10:33  revo
+Wolfram Diestel: referenco al listo elementoj
+
+Revision 1.18  2013/07/26 15:10:14  revo
+Joop Eggen: +trd bg
+
 Revision 1.17  2006/06/02 16:31:16  revo
 Sebastian Cyprych: +trd pl
 
@@ -59,14 +70,5 @@ Revision 1.14  2005/04/14 16:33:32  revo
 Raul Salinas Monteagudo: +trd ca,es
 
 Revision 1.13  2004/03/12 17:30:48  revo
-Emmanuel Debanne: + trd fr
-
-Revision 1.12  2003/06/09 16:31:35  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2002/10/18 16:38:38  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2002/06/08 17:31:20  revo
 -->
 </vortaro>

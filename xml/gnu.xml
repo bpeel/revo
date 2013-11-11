@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gnu.xml,v 1.6 2013/07/07 15:10:25 revo Exp $">
+<art mrk="$Id: gnu.xml,v 1.7 2013/09/01 13:11:01 revo Exp $">
 <kap>
   <rad>gnu</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -15,7 +15,8 @@
       <ref tip="super" cel="antilo.0o.subfamiliano">Antilopo</ref> el 
       afrika savano, 
       nigra, kun lar&gcirc;a kapo kaj kolhararo, vivanta en grandaj aroj,
-      <ref tip="super" cel="genr.0o.BIO">genro</ref> el familio 
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio 
       <ref tip="malprt" cel="boved.0oj.ZOO">bovedoj</ref> 
       (<trd lng="la">Connochaetes</trd>):
       <ekz>
@@ -47,6 +48,9 @@
 
 <!--
 $Log: gnu.xml,v $
+Revision 1.7  2013/09/01 13:11:01  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.6  2013/07/07 15:10:25  revo
 Wolfram Diestel: referencoj
 

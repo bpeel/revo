@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: filolo.xml,v 1.10 2007/06/01 16:30:51 revo Exp $">
+<art mrk="$Id: filolo.xml,v 1.11 2013/08/21 14:10:12 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>filolog</rad>/o
@@ -20,6 +20,7 @@
     </ekz>
   </snc>
   <trd lng="be">&c_f;&c_ib;&c_l;&c_jo;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="bg">&c_f;&c_i;&c_l;&c_o;&c_l;&c_o;&c_g;</trd>
   <trdgrp lng="de">
     <trd>Philologe</trd>,
     <trd>Sprachforscher</trd>,
@@ -28,12 +29,15 @@
     <trd>Sprach- und Literaturlehrer</trd>
   </trdgrp>
   <trd lng="fr">philologue</trd>
-  <trd lng="pt">fil&#243;logo</trd>
+  <trd lng="pt">fil&oacute;logo</trd>
   <trd lng="ru">&c_f;&c_i;&c_l;&c_o;&c_l;&c_o;&c_g;</trd>
 </drv>
 </art>
 <!--
 $Log: filolo.xml,v $
+Revision 1.11  2013/08/21 14:10:12  revo
+Joop Eggen: +trd bg
+
 Revision 1.10  2007/06/01 16:30:51  revo
 Tulio Flores: +tr pt
 
@@ -54,4 +58,3 @@ Yury Finkel: +trd ru
 
 -->
 </vortaro>
-

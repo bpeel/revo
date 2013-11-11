@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hister.xml,v 1.18 2009/09/13 16:57:33 revo Exp $">
+<art mrk="$Id: hister.xml,v 1.19 2013/10/07 15:10:57 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>histeri</rad>/o
@@ -14,7 +14,9 @@
     <uzo tip="fak">MED</uzo>
     <uzo tip="fak">PSI</uzo>
     <dif>
-      Nerva malsano, karakterizata per sufoki&gcirc;oj, konvulsioj kaj
+      Nerva <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref>, karakterizata per sufoki&gcirc;oj,
+      konvulsioj kaj
       aliaj mensaj kaj korpaj simptomoj, sed sen perceptebla
       fiziologia difekto.
     </dif>
@@ -148,6 +150,9 @@
 </art>
 <!--
 $Log: hister.xml,v $
+Revision 1.19  2013/10/07 15:10:57  revo
+Wolfram Diestel: ref la lst malsanoj
+
 Revision 1.18  2009/09/13 16:57:33  revo
 Antonio Codazzi: +trd it
 
@@ -167,8 +172,5 @@ Revision 1.13  2004/01/14 18:46:52  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.12  2003/12/18 17:30:58  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11  2002/09/19 16:31:41  revo
 -->
 </vortaro>

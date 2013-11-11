@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: murene.xml,v 1.7 2012/01/01 23:10:43 revo Exp $">
+<art mrk="$Id: murene.xml,v 1.8 2013/08/31 14:10:30 revo Exp $">
 <kap>
   <rad>murened</rad>/oj
 </kap>
@@ -11,8 +11,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Familio el la ordo
-      <ref tip="super" cel="angil.0oformaj">angiloformaj fi&scirc;oj</ref>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:zoologiaj_familioj">Familio</ref> el la ordo
+      <ref tip="malprt" cel="angil.0oformaj">angiloformaj fi&scirc;oj</ref>
       (<trd lng="la">Muraenidae</trd>).
     </dif>
   </snc>
@@ -31,6 +32,9 @@
 </art>
 <!--
 $Log: murene.xml,v $
+Revision 1.8  2013/08/31 14:10:30  revo
+Wolfram Diestel: referenco al listo zoo familioj
+
 Revision 1.7  2012/01/01 23:10:43  revo
 Marc Rausell: +trd ca
 

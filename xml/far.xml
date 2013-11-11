@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: far.xml,v 1.30 2013/03/08 14:10:07 revo Exp $">
+<art mrk="$Id: far.xml,v 1.32 2013/09/10 15:10:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>far</rad>/i <fnt><bib>PV</bib></fnt>
@@ -321,9 +321,13 @@
   <uzo tip="stl">NEO</uzo>
   <gra><vspec>prepozicio</vspec></gra>
   <snc mrk="far.0.KOMUNE">
+  <uzo tip="stl">EVI</uzo>
     <refgrp tip="dif">
-      <ref cel="de.0.aganto">de <sncref/></ref>,
-      <ref cel="far.0ede"><tld/>e de</ref>
+      <ref cel="de.0.aganto">de <sncref/></ref>
+    </refgrp>
+    <refgrp tip="sin">
+      <ref cel="far.0ede"><tld/>e de</ref>,
+      <ref cel="flank.0ede.far">flanke de<sncref/></ref>
     </refgrp>
     <ekz>
       rezisti al la malestimo <tld/> la homoj
@@ -481,8 +485,11 @@
   <gra><vspec>prepozicia&jcirc;o</vspec></gra>
   <snc>
     <refgrp tip="dif">
-      <ref cel="de.0.aganto">de<sncref/></ref>
+      <ref cel="de.0.aganto">de<sncref/></ref> 
     </refgrp>
+    <refgrp tip="sin">
+    <ref cel="flank.0ede.far">flanke de<sncref/></ref>
+    </refgrp>    
     <ekz>
       la ekspluatado de la homo <tld/>e de la homo;
     </ekz>
@@ -502,10 +509,6 @@
       kelkaj membroj postulas la administradon
       de la filioj <tld/>e de la asekuritoj mem.
     </ekz>
-    <refgrp tip="sin">
-      <ref cel="far.0"><tld/></ref>,
-      <ref cel="flank.0ede.far">flanke de <sncref/></ref>
-    </refgrp>
   </snc>
   <trdgrp lng="de">
     <trd><ind>durch</ind> den</trd>,
@@ -884,7 +887,8 @@
   <kap>neni<tld/>o, <var><kap>nenio<tld/>o</kap></var></kap>
   <snc mrk="far.neni0o.KOMUNE">
     <dif>
-      Senageco:
+      Senageco;
+      <ref tip="sin" cel="farnient.0o.KOMUNE">farniento</ref>:
       <ekz>
         plej ver&scirc;ajne li dedi&ccirc;as siajn tagojn al nenio<tld/>o, kiel la 
         aliaj dibo&ccirc;uloj
@@ -934,6 +938,12 @@
 </art>
 <!--
 $Log: far.xml,v $
+Revision 1.32  2013/09/10 15:10:09  revo
+Damien Brucker: far +evitinde
+
+Revision 1.31  2013/07/29 01:10:16  revo
+Jeromo Vasxe: + 1 ref sin
+
 Revision 1.30  2013/03/08 14:10:07  revo
 Jeromo Vasxe: ~i snc/subsnc, + kun~i
 
@@ -950,11 +960,5 @@ Revision 1.26  2005/04/01 17:49:15  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.25  2004/08/26 16:32:45  revo
-Ulrich Fellmann: + 1 plia trd=de
-
-Revision 1.24  2004/03/10 17:31:15  revo
-Marc Bavant: +drv ~; ~e de: mod trd fr, mod refgrp tip dif, +refgrp tip
-sin
-
 -->
 </vortaro>

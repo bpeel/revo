@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxton.xml,v 1.31 2013/03/21 20:10:30 revo Exp $">
+<art mrk="$Id: sxton.xml,v 1.32 2013/10/07 15:10:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;ton</rad>/o <fnt><bib>PV</bib></fnt>
@@ -630,7 +630,8 @@
   <snc mrk="sxton.gal0amalsano.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      <ref tip="super" cel="san.mal0o">Malsano</ref> ka&ubreve;zata de
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsano</ref> ka&ubreve;zata de
       <ref cel="sxton.0o.MED"><tld/>o<sncref/></ref> en la
       <ref cel="gal.0veziko">galveziko</ref> kaj (a&ubreve;) ties
       duktoj.
@@ -658,7 +659,8 @@
   <snc mrk="sxton.saliv0amalsano.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      <ref tip="super" cel="san.mal0o">Malsano</ref> ka&ubreve;zata de
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsano</ref> ka&ubreve;zata de
       <ref cel="sxton.0o.MED"><tld/>o<sncref/></ref> en salivglando.
     </dif>
   </snc>
@@ -682,7 +684,8 @@
   <snc mrk="sxton.urin0amalsano.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      <ref tip="super" cel="san.mal0o">Malsano</ref> ka&ubreve;zata de
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsano</ref> ka&ubreve;zata de
       <ref cel="sxton.0o.MED"><tld/>o<sncref/></ref> en reno.
     </dif>
   </snc>
@@ -697,6 +700,9 @@
 </art>
 <!--
 $Log: sxton.xml,v $
+Revision 1.32  2013/10/07 15:10:35  revo
+Wolfram Diestel: ref la lst malsanoj
+
 Revision 1.31  2013/03/21 20:10:30  revo
 Dmitri Gabinski: redakto: +trd be
 
@@ -716,8 +722,5 @@ Revision 1.26 2009/04/05 16:30:44 revo
 Antonio Codazzi: +trd it
 
 Revision 1.25 2009/01/27 17:30:28 revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.24 2007/09/01 16:30:23 revo
 -->
 </vortaro>

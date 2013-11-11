@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mus.xml,v 1.33 2013/07/05 20:10:11 revo Exp $">
+<art mrk="$Id: mus.xml,v 1.38 2013/10/23 18:10:27 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mus</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,10 +12,13 @@
   <snc mrk="mus.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      <ref tip="super" cel="genr.0o.BIO">Genro</ref> el familio 
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio 
       <ref tip="malprt" cel="mused.0oj"><tld/>edoj</ref>
-      (<trd lng="la">Mus</trd>), tre malgranda ron&gcirc;ulo vivanta kutime en
-      domoj:
+      (<trd lng="la">Mus</trd>), tre malgranda 
+      <ref tip="lst" cel="rongx.0ulo" lst="voko:ron&gcirc;uloj">ron&gcirc;ulo</ref>,
+      ordinare kun griza felo kaj longa nuda vosto,
+       vivanta kutime en domoj:
       <ekz>
         <tld/>o la <ref cel="kat.0o">katon</ref> &ccirc;iam ofendis
         (<ref tip="vid" cel="rabi.0a">rabia</ref>)
@@ -69,10 +72,13 @@
   <snc mrk="mus.dormo0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Eta griza ron&gcirc;ulo vivanta en arbaroj de Centrazio &gcirc;is 
-      E&ubreve;ropo, noktema, tradormanta la vintron,      
-      genro el la familio <ref tip="malprt"
-      cel="glired.0oj">gliredoj</ref>
+      Eta griza <ref tip="lst" cel="rongx.0ulo"
+      lst="voko:ron&gcirc;uloj">ron&gcirc;ulo</ref> vivanta en arbaroj de Centrazio
+      &gcirc;is 
+      E&ubreve;ropo, noktema, tradormanta la vintron;      
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el la familio <ref
+      tip="malprt" cel="glired.0oj">gliredoj</ref>
       (<trd lng="la">Glis</trd>):
       <ekz>
         mi trinkas kiel fi&scirc;o, mi dormas kiel dormo<tld/>o
@@ -102,36 +108,43 @@
 </drv>
 
 <drv mrk="mus.kampo0o">
-  <kap>kampo<tld/>o</kap>
-  <uzo tip="stl">KOMUNE</uzo>
+  <kap>kampo<tld/>o</kap>  
+  <snc mrk="mus.kampo0o.mikroto">
+    <uzo tip="stl">KOMUNE</uzo>
+    <ref tip="sin" cel="mikrot.0o">mikroto</ref>
+    <trd lng="de">Feldmaus</trd>
+    <trd lng="en">grass <ind>vole</ind></trd>
+    <trdgrp lng="fr">
+      <trd>campagnol</trd>,
+      <trd>mulot</trd>
+    </trdgrp>
+    <trd lng="es">campa&ntilde;ol</trd>
+    <trd lng="hu">pocok</trd>
+    <trd lng="it">topo<klr> selvatico</klr></trd>
+    <trd lng="nl">veldmuis</trd>
+    <trd lng="ru">&c_p;&c_o;&c_l;&c_jo;&c_v;&c_k;&c_a;</trd>
+  </snc>
   <snc mrk="mus.kampo0o.ZOO">
+    <fnt><bib>Viki</bib></fnt>
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Eta ron&gcirc;ulo simila al muso, ne vivanta
-      en domoj sed en kamparo.
+      <ref tip="lst" cel="rongx.0ulo"
+      lst="voko:ron&gcirc;uloj">Ron&gcirc;ulo</ref>
+      el la subfamilio <trd lng="la">Arvicolinae</trd>,
+      simila al muso sed kun pli fortika korpo, pli mallonga hareca
+      vosto, iom rondoforma kapo, pli malgrandaj oreloj kaj okuloj, kaj
+      aliformaj vangodentoj, ne vivanta en domoj sed ekstere.
     </dif>
-<adm>
-&Ccirc;u tio estas Apodemus sylvaticus?
-</adm>
-<adm>
-La&ubreve; la kapvorto mi dirus, ke temas pri Apodemus agrarius, sed pli multo
-de tradukoj priskirbas Microtus arvalis (sed &gcirc;i esperante estas
-mikroto). Pro manko de fonto, ne eblas kontroli.
-La artikolo bezonas precizigon.
-<aut>SC</aut>
-</adm>
+    <refgrp tip="sub">
+      <ref cel="mikrot.0o">mikroto</ref>,
+      <ref cel="leming.0o">lemingo</ref>,
+      <ref cel="ondatr.0o">ondatro</ref>,
+      <ref cel="hamstr.0o">hamstro</ref>
+    </refgrp>
+    <trd lng="de">W&uuml;hlmaus</trd>
   </snc>
-  <trd lng="de">Feldmaus</trd>
-  <trd lng="en">grass <ind>vole</ind></trd>
-  <trdgrp lng="fr">
-    <trd>campagnol</trd>,
-    <trd>mulot</trd>
-  </trdgrp>
-  <trd lng="es">campa&ntilde;ol</trd>
-  <trd lng="hu">pocok</trd>
-  <trd lng="it">topo<klr> selvatico</klr></trd>
-  <trd lng="nl">veldmuis</trd>
-  <trd lng="ru">&c_p;&c_o;&c_l;&c_jo;&c_v;&c_k;&c_a;</trd>
+ 
+  
 </drv>
 
 <drv mrk="mus.micxj0o">
@@ -141,8 +154,7 @@ La artikolo bezonas precizigon.
   <snc>
     <dif>
     Anglalingve <trd lng="en">Mickey Mouse</trd>. Imaga persono kreita
-    de
-    Walt Disney en 1928.
+    de Walt Disney en 1928.
     </dif>
   </snc>
   <trd lng="it">Topolino</trd>
@@ -153,6 +165,21 @@ La artikolo bezonas precizigon.
 </art>
 <!--
 $Log: mus.xml,v $
+Revision 1.38  2013/10/23 18:10:27  revo
+Wolfram Diestel: disigis kampo~o al du sencoj
+
+Revision 1.37  2013/10/23 17:10:13  revo
+Wolfram Diestel: ref al lst rongxuloj, prilaboris kampo~o
+
+Revision 1.36  2013/09/08 19:11:11  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.35  2013/09/01 16:10:25  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.34  2013/09/01 15:10:35  revo
+Wolfram Diestel: dormo~o: referenco al listo bot genroj
+
 Revision 1.33  2013/07/05 20:10:11  revo
 Wolfram Diestel: referencoj
 
@@ -160,20 +187,5 @@ Revision 1.32  2013/05/12 10:10:11  revo
 Eko Nur Syah Hidayat: +trd id
 
 Revision 1.31  2013/04/25 06:10:10  revo
-Sebastian Cyprych: +trd pl +adm
-
-Revision 1.30  2011/07/14 12:10:13  revo
-Alejandro Escobedo: aldonoj hispane
-
-Revision 1.29  2010/06/16 16:30:38  revo
-Russ Williams: +trd en
-
-Revision 1.28  2009/04/17 19:48:02  revo
-Alejandro Mejia Greene: ald his trd
-
-Revision 1.27  2009/03/23 17:30:27  revo
-Antonio Codazzi: Micxjo ~o: korek usklecon
-
-Revision 1.26  2009/03/18 17:32:06  revo
 -->
 </vortaro>

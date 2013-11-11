@@ -2,19 +2,21 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hektar.xml,v 1.20 2009/09/04 16:30:38 revo Exp $">
+<art mrk="$Id: hektar.xml,v 1.22 2013/10/03 08:10:25 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>hektar</rad>/o
 </kap>
 <drv mrk="hektar.0o">
   <kap><tld/>o</kap>
+  <mlg>ha</mlg>
   <snc>
     <dif>
-      Praktika <ref tip="super" cel="unu.mezur0o">mezurunuo</ref> de
+      Praktika <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:areoj">mezurunuo</ref> de
       areo, egala al cent <ref tip="prt" cel="ar1.0o">aroj</ref> kaj
-      dek mil <ref tip="prt" cel="metr.kvadrata0o">kvadrataj metroj
-      </ref>; simbolo ha:
+      dek mil <ref tip="prt" cel="metr.kvadrata0o">kvadrataj
+      metroj</ref>:
       <ekz>
         la nova tombejo, malfermita lastjare, kovras areon de du
         <tld/>oj<fnt><aut>Hamza Baksi&cacute;</aut>: <vrk>La fino de la
@@ -43,6 +45,12 @@
 </art>
 <!--
 $Log: hektar.xml,v $
+Revision 1.22  2013/10/03 08:10:25  revo
+Wolfram Diestel: precizigis klaso al voko:areoj
+
+Revision 1.21  2013/09/15 12:10:17  revo
+Wolfram Diestel: ref al lst mezurunuoj
+
 Revision 1.20  2009/09/04 16:30:38  revo
 Antonio Codazzi: +trd it
 
@@ -59,11 +67,5 @@ Revision 1.16  2005/06/26 16:34:10  revo
 Alan ar Gall: +trd br
 
 Revision 1.15  2004/01/10 17:33:14  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14  2003/12/05 17:30:56  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.13  2002/09/19 16:32:02  revo
 -->
 </vortaro>

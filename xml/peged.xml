@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: peged.xml,v 1.7 2011/12/11 13:10:17 revo Exp $">
+<art mrk="$Id: peged.xml,v 1.8 2013/08/31 08:11:34 revo Exp $">
 <kap>
   <rad>peged</rad>/oj
 </kap>
@@ -11,7 +11,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Familio el la ordo <ref tip="super" cel="peg.0oformaj">pegoformaj
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:zoologiaj_familioj">Familio</ref> el la ordo <ref
+      tip="malprt" cel="peg.0oformaj">pegoformaj
       birdoj</ref> (<trd lng="la">Picidae</trd>).
     </dif>
   </snc>
@@ -27,6 +29,9 @@
 </art>
 <!--
 $Log: peged.xml,v $
+Revision 1.8  2013/08/31 08:11:34  revo
+Wolfram Diestel: referenco al listozoo familioj
+
 Revision 1.7  2011/12/11 13:10:17  revo
 Marc Rausell: +trd ca
 

@@ -2,14 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: brazil.xml,v 1.15 2011/12/05 17:10:16 revo Exp $">
+<art mrk="$Id: brazil.xml,v 1.16 2013/08/23 09:10:10 revo Exp $">
 <kap><ofc>8</ofc><rad>Brazil</rad>/o</kap>
 <drv mrk="brazil.B0o">
   <kap><tld/>o</kap>
   <uzo tip="fak">GEOG</uzo>
   <snc>
     <dif>
-      Sudamerika <ref tip="super" cel="sxtat.0o">&scirc;tato</ref>,
+      Sudamerika <ref tip="lst" cel="sxtat.0o"
+      lst="voko:&scirc;tatoj">&scirc;tato</ref>,
       limanta
       al <ref tip="vid" cel="urugvaj.U0o">Urugvajo</ref>, 
       <ref tip="vid" cel="paragvaj.P0o">Paragvajo</ref>,
@@ -128,6 +129,9 @@
 
 <!--
 $Log: brazil.xml,v $
+Revision 1.16  2013/08/23 09:10:10  revo
+Wolfram Diestel: referencoj al listo sxtatoj
+
 Revision 1.15  2011/12/05 17:10:16  revo
 Marc Rausell: kataluna traduko
 
@@ -147,8 +151,5 @@ Revision 1.10  2010/10/16 16:30:36  revo
 Russ Williams: +ofc 8
 
 Revision 1.9  2010/01/18 17:32:02  revo
-Russ Williams: +trd en
-
-Revision 1.8  2009/05/22 16:30:27  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ral.xml,v 1.11 2010/04/24 17:06:48 revo Exp $">
+<art mrk="$Id: ral.xml,v 1.13 2013/09/03 17:10:37 revo Exp $">
 <kap>
   <rad>ral</rad>/o
 </kap>
@@ -12,7 +12,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Genro el la familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el la familio <ref
+      tip="malprt"
       cel="raled.0oj"><tld/>edoj</ref>
       (<trd lng="la">Rallus</trd>).
     </dif>
@@ -58,7 +60,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Ordo el la klaso <ref tip="super" cel="bird.0oj">birdoj</ref>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> el la klaso <ref
+      tip="malprt" cel="bird.0oj">birdoj</ref>
       (<trd lng="la">Ralliformes</trd>).
     </dif>
   </snc>
@@ -69,6 +73,12 @@
 </art>
 <!--
 $Log: ral.xml,v $
+Revision 1.13  2013/09/03 17:10:37  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.12  2013/08/31 16:10:49  revo
+Wolfram Diestel: ~oformaj: referenco al listo zoo ordoj
+
 Revision 1.11  2010/04/24 17:06:48  revo
 Sebastian Cyprych: +akvo~o
 
@@ -85,11 +95,5 @@ Revision 1.7  2002/07/10 18:08:27  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.6  2002/01/08 19:28:09  revo
-Yury Finkel: +trd ru
-
-Revision 1.5 2001/06/14 19:51:03 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.4 2001/05/07 20:04:35 revo
 -->
 </vortaro>

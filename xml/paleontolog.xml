@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: paleontolog.xml,v 1.4 2013/03/09 16:10:15 revo Exp $">
+<art mrk="$Id: paleontolog.xml,v 1.5 2013/08/05 09:10:12 revo Exp $">
 <kap>
   <ofc>7</ofc><rad>paleontolog</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -34,6 +34,8 @@
       </ekz>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_l;&c_je;&c_a;&c_n;&c_t;&c_o;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_l;&c_je;&c_o;&c_n;&c_t;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="de">Pal&auml;ontologe</trd>
   <trd lng="en">paleontologist</trd>
   <trdgrp lng="fr">
     <trd>pal&eacute;ontologiste</trd>,
@@ -48,6 +50,9 @@
 
 <!--
 $Log: paleontolog.xml,v $
+Revision 1.5  2013/08/05 09:10:12  revo
+Joop Eggen: +trd bg de
+
 Revision 1.4  2013/03/09 16:10:15  revo
 Dmitri Gabinski: +trd be
 

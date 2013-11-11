@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: setar.xml,v 1.9 2012/07/20 17:10:08 revo Exp $">
+<art mrk="$Id: setar.xml,v 1.10 2013/09/08 18:11:37 revo Exp $">
 <kap>
   <rad>setar</rad>/o <fnt><bib>NeoGlo</bib></fnt>
 </kap>
@@ -11,7 +11,8 @@
   <snc mrk="setar.0o.MUZ">
   <uzo tip="fak">MUZ</uzo>
     <dif>
-      Persa <ref tip="super" cel="instru2.kord0o">kordinstrumento</ref>
+      Persa <ref tip="lst" cel="instru2.kord0o.MUZ"
+      lst="voko:kordinstrumentoj">kordinstrumento</ref>
       liuteto origine trikorda, de la 1900aj jaroj kun plusa
       kunvibra kordo, kun ligna duongutforma sonkesto, longa 25-freta
       kolo:
@@ -50,6 +51,9 @@
 
 <!--
 $Log: setar.xml,v $
+Revision 1.10  2013/09/08 18:11:37  revo
+Wolfram Diestel: ref al listo kordinstrumentoj
+
 Revision 1.9  2012/07/20 17:10:08  revo
 Jeromo Vasxe: + ekz, + trd fa, kor. kk trd
 
@@ -69,8 +73,5 @@ Revision 1.4  2002/12/20 17:34:20  revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.3  2002/10/30 18:37:54  revo
-Christopher Zervic: + ang
-
-Revision 1.2  2002/10/28 19:21:19  revo
 -->
 </vortaro>

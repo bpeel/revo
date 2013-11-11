@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: torent.xml,v 1.13 2009/01/22 17:30:35 revo Exp $">
+<art mrk="$Id: torent.xml,v 1.14 2013/08/05 16:10:16 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>torent</rad>/o
@@ -73,6 +73,10 @@
     <trd lng="hu">&ouml;z&ouml;n</trd>
     <trd lng="nl">stroom</trd>
   </snc>
+  <trdgrp lng="bg">
+    <trd>&c_p;&c_o;&c_r;&c_o;&c_j;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_je;&c_m;&c_i;&c_t;&c_je;&c_l;&c_je;&c_n; &c_p;&c_o;&c_t;&c_o;&c_k;</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>torrent</trd>,
     <trd>stream</trd>
@@ -129,6 +133,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_p;&c_o;&c_r;&c_o;&c_je;&c_n;</trd>
   <trd lng="en">torrential</trd>
   <trdgrp lng="de">
     <trd>wildbachartig</trd>,
@@ -186,6 +191,7 @@
     <trd lng="hu">r&aacute;z&uacute;dul</trd>
     <trd lng="nl">zich <ind>storten</ind></trd>
   </snc>
+  <trd lng="bg">&c_p;&c_o;&c_t;&c_o;&c_k;&c_a;</trd>
   <trd lng="de">str&ouml;men</trd>
   <trdgrp lng="ru">
     <trd>&c_t;&c_je;&c_ch;&c_mol;
@@ -197,6 +203,9 @@
 </art>
 <!--
 $Log: torent.xml,v $
+Revision 1.14  2013/08/05 16:10:16  revo
+Joop Eggen: +trd bg
+
 Revision 1.13  2009/01/22 17:30:35  revo
 Sebastian Cyprych: +trd pl
 
@@ -216,8 +225,5 @@ Revision 1.8  2002/03/12 17:32:24  revo
 Yury Finkel: +trd ru
 
 Revision 1.7 2001/05/11 18:11:23 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.6 2001/04/14 17:24:45 revo
 -->
 </vortaro>

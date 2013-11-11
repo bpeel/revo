@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: migren.xml,v 1.8 2012/08/19 20:10:42 revo Exp $">
+<art mrk="$Id: migren.xml,v 1.9 2013/10/09 19:10:56 revo Exp $">
 <kap>
   <rad>migren</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -37,6 +37,7 @@
       la tigroj &ccirc;e la ver&scirc;tablo per sia blekado min preska&ubreve; <tld/>igis
       <fnt><bib>MkM</bib></fnt>.
     </ekz>
+    <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
   </snc>
   <trdgrp lng="be">
     <trd>&c_m;&c_ib;&c_g;&c_r;&c_e;&c_n;&c_mol;</trd>,
@@ -74,6 +75,9 @@
 
 <!--
 $Log: migren.xml,v $
+Revision 1.9  2013/10/09 19:10:56  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.8  2012/08/19 20:10:42  revo
 Marc Rausell: + trd ca
 
@@ -93,8 +97,5 @@ Revision 1.3  2009/11/09 17:30:22  revo
 Paul Peeraerts: +nl
 
 Revision 1.2  2009/11/08 17:31:03  revo
-Wieland Pusch: +trd bg+de
-
-Revision 1.1  2009/11/07 17:30:49  revo
 -->
 </vortaro>

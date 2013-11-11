@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: zamenhof.xml,v 1.20 2012/08/11 15:10:17 revo Exp $">
+<art mrk="$Id: zamenhof.xml,v 1.21 2013/08/22 17:10:23 revo Exp $">
 <kap>
 <ofc>*</ofc><ofc>8</ofc>
 <rad>Zamenhof</rad>/o
@@ -25,6 +25,8 @@
         <bib>Monato</bib><lok>jaro 2001a, numero 1a, p. 31a</lok></fnt>.
       </ekz>
     </dif>
+    <ref tip="lst" cel="person.0o.homo"
+    lst="voko:historiaj_personoj">persono</ref>
   </snc>
   <rim>
     La vorto aperas en la Fundamento nur en la formo
@@ -78,6 +80,9 @@ parolturnoj</vrk>,
 </art>
 <!--
 $Log: zamenhof.xml,v $
+Revision 1.21  2013/08/22 17:10:23  revo
+Wolfram Diestel: referenco al listo sentoj
+
 Revision 1.20  2012/08/11 15:10:17  revo
 Marc Rausell: ++ trd ca
 
@@ -97,8 +102,5 @@ Revision 1.15  2005/06/09 17:41:52  revo
 Yury Finkel: +trd ru
 
 Revision 1.14  2005/05/09 16:30:58  revo
-Luiz Portella: +trd pt
-
-Revision 1.13  2005/02/09 17:31:19  revo
 -->
 </vortaro>

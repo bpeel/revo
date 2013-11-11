@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: april.xml,v 1.26 2013/05/26 14:10:11 revo Exp $">
+<art mrk="$Id: april.xml,v 1.28 2013/09/23 07:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>april</rad>/o
@@ -11,7 +11,9 @@
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc>
     <dif>
-      Kvara monato de la jaro.
+      Kvara <ref tip="lst" cel="monat.0o.KAL"
+      lst="voko:monatoj" val="4">monato</ref>  de la <ref tip="malprt"
+      cel="jar.0o.KAL">jaro</ref>.
     </dif>
   </snc>
   <ref tip="vid" cel="januar.0o">januaro, Rim.</ref>
@@ -43,6 +45,12 @@
 </art>
 <!--
 $Log: april.xml,v $
+Revision 1.28  2013/09/23 07:10:19  revo
+Wolfram Diestel: +val
+
+Revision 1.27  2013/09/06 16:10:11  revo
+Wolfram Diestel: ref-oj, lst monatoj
+
 Revision 1.26  2013/05/26 14:10:11  revo
 Benito Subejrano: + trd ca oc
 
@@ -59,11 +67,5 @@ Revision 1.22  2006/02/21 17:33:11  revo
 Vito Redsky: +trd ro
 
 Revision 1.21  2005/08/28 16:31:20  revo
-Wieland Pusch: +trd bg
-
-Revision 1.20  2005/02/25 17:33:41  revo
-Alan ar Gall: +trd br
-
-Revision 1.19  2003/04/27 13:20:04  revo
 -->
 </vortaro>

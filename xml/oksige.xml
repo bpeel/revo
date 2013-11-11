@@ -2,19 +2,20 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: oksige.xml,v 1.25 2013/02/18 07:10:08 revo Exp $">
+<art mrk="$Id: oksige.xml,v 1.28 2013/09/15 19:10:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>oksigen</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="oksige.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <mlg>O</mlg>
+  <mlg kod="IUPAC">O</mlg>
   <snc mrk="oksige.0o.KEM">
     <uzo tip="fak">KEM</uzo>
     <dif>
-      &Hcirc;emia <ref tip="super" cel="elemen.0o.KEM">elemento</ref> kun
-      atomnumero 8, atompezo 15,9994, simbole <frm>O</frm>;
+      <ref tip="lst" cel="elemen.0o.KEM"
+      lst="voko:&hcirc;emiaj_elementoj" val="8">&Hcirc;emia elemento</ref> kun
+      atomnumero 8, atompezo 15,9994;
       senkolora, senodora gaso, ne bruligebla, sed nepre necesa por
       brulado kaj spirado, kiu miksite kun <ref tip="vid" 
       cel="azot.0o">nitrogeno (azoto)</ref> kaj aliaj gasoj
@@ -99,6 +100,15 @@
 </art>
 <!--
 $Log: oksige.xml,v $
+Revision 1.28  2013/09/15 19:10:31  revo
+Wolfram Diestel: simb. laux IUPAC, val
+
+Revision 1.27  2013/08/25 09:10:12  revo
+Wolfram Diestel: -tajperaro
+
+Revision 1.26  2013/08/20 19:10:14  revo
+Wolfram Diestel: referenco al listo hxem elementoj
+
 Revision 1.25  2013/02/18 07:10:08  revo
 Dmitri Gabinski: redakto: +trd be
 
@@ -112,14 +122,5 @@ Revision 1.22  2010/10/25 16:30:43  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.21  2009/10/15 16:32:36  revo
-Paul Peeraerts: +nl
-
-Revision 1.20  2009/08/26 16:31:29  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.19  2006/06/14 16:31:41  revo
-Sebastian Cyprych: sangxo en dif de oksigi +trd pl,la +ref
-azoto,hidrogeno +frm
-
 -->
 </vortaro>

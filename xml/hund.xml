@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hund.xml,v 1.61 2013/06/15 18:10:12 revo Exp $">
+<art mrk="$Id: hund.xml,v 1.64 2013/10/21 17:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hund</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,7 +13,11 @@
   <uzo tip="fak">ZOO</uzo>
   <snc mrk="hund.0o.genro">
     <dif>
-      Genro el familio <ref tip="malprt" cel="hunded.0oj"><tld/>edoj
+      <ref tip="lst" cel="best.rabo0o"
+      lst="voko:rabobestoj">Rabobesto</ref>,
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="hunded.0oj"><tld/>edoj
       </ref> (<trd lng="la">Canis</trd>).
     </dif>
   </snc>
@@ -96,6 +100,7 @@
   <trd lng="id">anjing</trd>
   <trd lng="it">cane</trd>
   <trd lng="nl">hond</trd>
+  <trd lng="oc">can</trd>
   <trd lng="pl">pies</trd>
   <trdgrp lng="pt">
     <trd>cachorro</trd>,
@@ -435,6 +440,15 @@
 </art>
 <!--
 $Log: hund.xml,v $
+Revision 1.64  2013/10/21 17:10:15  revo
+Benito Subejrano: + trd oc
+
+Revision 1.63  2013/10/20 19:10:16  revo
+Wolfram Diestel: ref al lst rabobestoj
+
+Revision 1.62  2013/09/01 15:10:51  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.61  2013/06/15 18:10:12  revo
 Wolfram Diestel: kor. ref al hundedoj
 
@@ -448,14 +462,5 @@ Revision 1.58  2010/09/14 16:30:15  revo
 Jeromo Vasxe: cxas~o + trd el cxas.xml
 
 Revision 1.57  2010/04/14 06:05:41  revo
-Russ Williams: +trd en
-
-Revision 1.56  2009/09/29 16:30:54  revo
-Wieland Pusch: +trd bg
-
-Revision 1.55  2009/09/14 16:31:55  revo
-Antonio Codazzi: ++trd it
-
-Revision 1.54  2009/06/23 16:31:14  revo
 -->
 </vortaro>

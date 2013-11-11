@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kornus1.xml,v 1.5 2006/11/14 17:30:44 revo Exp $">
+<art mrk="$Id: kornus1.xml,v 1.6 2013/08/25 16:10:42 revo Exp $">
 <kap>
   <rad>kornusac</rad>/oj
 </kap>
@@ -13,7 +13,9 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Familio de <ref tip="super" cel="kotile.du0aj">dukotiledonaj</ref>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
       plantoj (<trd lng="la">Cornaceae</trd>).
     </dif>
   </snc>
@@ -27,6 +29,9 @@
 
 <!--
 $Log: kornus1.xml,v $
+Revision 1.6  2013/08/25 16:10:42  revo
+Wolfram Diestel: referencoj al listo bot familioj
+
 Revision 1.5  2006/11/14 17:30:44  revo
 Tulio Flores: +tr pt
 
@@ -41,4 +46,3 @@ Yury Finkel: +trd ru
 
 -->
 </vortaro>
-

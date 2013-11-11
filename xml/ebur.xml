@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ebur.xml,v 1.23 2013/02/10 02:10:27 revo Exp $">
+<art mrk="$Id: ebur.xml,v 1.24 2013/09/14 09:10:46 revo Exp $">
 <kap>
   <ofc>2</ofc><rad>ebur</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -54,7 +54,8 @@
   </snc>
   <snc mrk="ebur.0a.KOL">
     <dif>
-      Kies koloro a&ubreve; &scirc;ajno similas tiun do <tld/>o:
+      Kies <ref tip="lst" cel="kolor.0o.propre"
+      lst="voko:koloroj">koloro</ref> a&ubreve; &scirc;ajno similas tiun de <tld/>o:
       <ekz>
         <tld/>aj &scirc;ultroj de virino;
       </ekz>
@@ -119,6 +120,9 @@
 </art>
 <!--
 $Log: ebur.xml,v $
+Revision 1.24  2013/09/14 09:10:46  revo
+Wolfram Diestel: ref al lst koloroj
+
 Revision 1.23  2013/02/10 02:10:27  revo
 Evandro Avellar: Traduko al Pt
 
@@ -138,8 +142,5 @@ Revision 1.18  2009/08/25 16:31:35  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.17  2009/05/20 16:31:12  revo
-Sebastian Cyprych: kor ref atlant.
-
-Revision 1.16  2009/05/08 16:30:37  revo
 -->
 </vortaro>

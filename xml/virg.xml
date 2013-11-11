@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: virg.xml,v 1.25 2012/01/05 16:10:23 revo Exp $">
+<art mrk="$Id: virg.xml,v 1.26 2013/09/23 19:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>virg</rad>/a
@@ -137,10 +137,13 @@
 <drv mrk="virg.V0ulino">
   <kap><tld lit="V"/>ulino</kap> <fnt><bib>PV</bib>,
   <lok>konstelacio</lok></fnt>
+ <mlg>Vir</mlg>
+  <mlg>&#9805;</mlg>
   <snc mrk="virg.V0ulino.AST">
     <uzo tip="fak">AST</uzo>
     <dif>
-      Stelaro kaj signo de la <ref tip="malprt"
+      <ref tip="lst" cel="stel.0figuro" lst="voko:zodiakaj_signoj"
+      val="6">Stelfiguro</ref> kaj signo de la <ref tip="malprt"
       cel="zodiak.0o">zodiako</ref>
       (<trd lng="la">Virgo</trd>).
     </dif>
@@ -193,6 +196,9 @@
 </art>
 <!--
 $Log: virg.xml,v $
+Revision 1.26  2013/09/23 19:10:22  revo
+Wolfram Diestel: ref al list zodiakoaj signoj, mlg
+
 Revision 1.25  2012/01/05 16:10:23  revo
 Marc Rausell: +trd ca (kor)
 
@@ -212,8 +218,5 @@ Revision 1.20  2005/03/09 18:18:29  revo
 Yury Finkel: +trd ru
 
 Revision 1.19  2004/11/28 19:42:04  revo
-Jeromo Vasxe: postkor. kap ~ul/ulin
-
-Revision 1.18  2004/11/26 17:31:13  revo
 -->
 </vortaro>

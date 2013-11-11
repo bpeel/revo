@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: art.xml,v 1.42 2012/09/08 00:10:11 revo Exp $">
+<art mrk="$Id: art.xml,v 1.44 2013/10/19 16:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>art</rad>/o <fnt><bib>PV</bib></fnt>
@@ -88,6 +88,11 @@
   </trdgrp>
   <trd lng="hu">m&udblac;v&eacute;szet</trd>
   <trd lng="it">arte</trd>
+  <trdgrp lng="pl">
+    <trd>sztuka</trd>,
+    <trd>kunszt</trd>
+  </trdgrp>
+  <trd lng="ro">art&abreve;</trd>
   <trd lng="ru">&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>
   <trd lng="sk">umenie</trd>
   <trd lng="sv">konst</trd>
@@ -118,6 +123,7 @@
       <trd lng="hu">m&udblac;v&eacute;szi</trd>
       <trd lng="it">artistico</trd>
       <trd lng="pl">artystyczny</trd>
+      <trd lng="ro">artistic</trd>
       <trd lng="ru">&c_h;&c_u;&c_d;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y; &c_j;</trd>
       <trd lng="sk">umeleck&yacute;</trd>
     </subsnc>
@@ -144,6 +150,7 @@
       <trd lng="hu">m&udblac;-</trd>
       <trd lng="it">artificiale</trd>
       <trd lng="pl">sztuczny</trd>
+      <trd lng="ro">artificial</trd>
       <trd lng="ru">&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
       <trd lng="sk">umel&yacute;</trd>
     </subsnc>
@@ -154,6 +161,7 @@
   </trdgrp>
   <trd lng="de">Kunst-</trd>
   <trd lng="hu">m&udblac;v&eacute;szeti</trd>
+  <trd lng="ro">artistic</trd>
   <trd lng="ru">&c_i;&c_s;&c_k;&c_u;&c_s;&c_n;&c_y;&c_j;</trd>
 </drv>
 
@@ -194,6 +202,8 @@
   <trd lng="de">Kunstwerk</trd>
   <trd lng="fr">&oelig;uvre</trd>
   <trd lng="hu">m&udblac;alkot&aacute;s</trd>
+  <trd lng="pl">dzie&lstroke;o sztuki</trd>
+  <trd lng="ro">oper&abreve; de art&abreve;</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="sv">konstverk</trd>
 </drv>
@@ -217,6 +227,7 @@
   <trd lng="hu">m&udblac;&eacute;rz&eacute;k</trd>
   <trd lng="it">senso artistico</trd>
   <trd lng="pl">artyzm</trd>
+  <trd lng="ro">art&abreve;</trd>
   <trdgrp lng="ru">
     <trd>&c_h;&c_u;&c_d;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o; &c_je; &c_ch;&c_u;&c_t;&c_mol;&c_jo;</trd>,
     <trd>&c_h;&c_u;&c_d;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y; &c_j; &c_v;&c_k;&c_u;&c_s;</trd>,
@@ -247,6 +258,7 @@
   <trd lng="hu">m&udblac;v&eacute;sz</trd>
   <trd lng="it">artista</trd>
   <trd lng="pl">artysta</trd>
+  <trd lng="ro">artist</trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_je;&c_ja;&c_t;&c_je;&c_l;&c_mol; &c_i;&c_s;&c_k;&c_u;&c_s; &c_s;&c_t;&c_v;&c_a;</trd>,
     <trd>&c_h;&c_u;&c_d;&c_o;&c_zh;&c_n;&c_i;&c_k;<klr> (&c_v; &c_sh;&c_i;&c_r;&c_o;&c_k;&c_o;&c_m; &c_s;&c_m;&c_y;&c_s;&c_l;&c_je; &c_s;&c_l;&c_o;&c_v;&c_a;)</klr>
@@ -280,6 +292,7 @@
     <trd>artefatto<klr> (agg.)</klr></trd>
   </trdgrp>
   <trd lng="pl">sztuczny</trd>
+  <trd lng="ro">artificial</trd>
   <trd lng="ru">&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">umel&yacute;</trd>
   <trd lng="sv">konstgjord</trd>
@@ -301,11 +314,13 @@
       <ref cel="art.0ajxo.artefaritajxo">arta&jcirc;o <sncref/></ref>
     </refgrp>
   </snc>
+  <trd lng="de">Artefakt</trd>
   <trdgrp lng="fr">
     <trd>artefact</trd>
   </trdgrp>
   <trd lng="it">artefatto</trd>
   <trd lng="pl">artefakt</trd>
+  <trd lng="ro">artefact</trd>
   <trdgrp lng="ru">
     <trd>&c_a;&c_r;&c_t;&c_je;&c_f;&c_a;&c_k;&c_t;</trd>,
     <trd>&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o; &c_s;&c_o;&c_z;&c_d;&c_a;&c_n;&c_n;&c_y;&c_j; &c_p;&c_r;&c_je;&c_d;&c_m;&c_je;&c_t;</trd>
@@ -318,8 +333,7 @@
   <snc mrk="art.bel0a.BELA">
     <dif>
       Konforma al la reguloj de bel<tld/>o, de &gcirc;i produktita 
-      a&ubreve; al &gcirc;i
-      rilata:
+      a&ubreve; al &gcirc;i rilata:
       <ekz>
         bel<tld/>aj konkursoj.
       </ekz>
@@ -330,6 +344,7 @@
   <trd lng="fr">artistique</trd>
   <trd lng="it">artistico</trd>
   <trd lng="pl">artystyczny</trd>
+  <trd lng="ro">artistic</trd>
   <trd lng="ru">&c_h;&c_u;&c_d;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y; &c_j;</trd>
 </drv>
 
@@ -352,10 +367,12 @@
     </dif>
   </snc>
   <trd lng="ca">belles <ind>arts</ind></trd>
+  <trd lng="de">Sch&ouml;ne K&uuml;nste</trd>
   <trd lng="fr">beaux-arts</trd>
   <trd lng="hu">sz&eacute;pm&udblac;v&eacute;szet</trd>
   <trd lng="it">belle arti</trd>
   <trd lng="pl"><ind>sztuka</ind> pi&eogonek;kna</trd>
+  <trd lng="ro">art&abreve; de frumuse&tcedil;ea</trd>
   <trdgrp lng="ru">
     <trd>&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_i;&c_z;&c_ja;&c_shch;&c_n;&c_o;&c_je; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>
@@ -376,6 +393,8 @@
   <trd lng="de">Kunstwerk</trd>
   <trd lng="fr">&oelig;uvre d'art</trd>
   <trd lng="hu">m&udblac;t&aacute;rgy</trd>
+  <trd lng="pl">dzie&lstroke;o sztuki</trd>
+  <trd lng="ro">oper&abreve; de art&abreve;</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_a;</trd>
 </drv>
 
@@ -385,7 +404,8 @@
     <uzo tip="fak">BELA</uzo>
     <uzo tip="fak">MUZ</uzo>
     <dif>
-      Korpa <ref tip="super" cel="art.bel0o">bel<tld/>o</ref>
+      Korpa <ref tip="lst" cel="art.bel0o"
+      lst="voko:artoj">bel<tld/>o</ref>
       de ritma sinmovo, ordinare la&ubreve;muzika:
       <ekz>
         sklavigitaj nigruloj kreis por supervivi originalan 
@@ -406,6 +426,7 @@
   <trd lng="hu">t&aacute;ncm&udblac;v&eacute;szet</trd>
   <trd lng="it">danca<klr> (arte)</klr></trd>
   <trd lng="pl">taniec artystyczny</trd>
+  <trd lng="ro">dans artistice</trd>
   <trdgrp lng="ru">
     <trd>&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o; &c_t;&c_a;&c_n;&c_c;&c_a;</trd>,
     <trd>&c_h;&c_o;&c_r;&c_je;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ja;</trd>
@@ -417,7 +438,8 @@
   <snc mrk="art.desegn0o.BELA">
     <uzo tip="fak">BELA</uzo>
     <dif>
-      Grafika <ref tip="super" cel="art.bel0o">bel<tld/>o</ref> 
+      Grafika <ref tip="lst" cel="art.bel0o"
+      lst="voko:artoj">bel<tld/>o</ref> 
       produktanta bildojn per strekoj.
     </dif>
   </snc>
@@ -432,6 +454,7 @@
   </trdgrp>
   <trd lng="it">disegno<klr> (arte)</klr></trd>
   <trd lng="pl">grafika</trd>
+  <trd lng="ro">grafica</trd>
   <trd lng="ru">&c_g;&c_r;&c_a;&c_f;&c_i;&c_k;&c_a;</trd>
 </drv>
 
@@ -456,6 +479,11 @@
     <trd>sztuka dramatyczna</trd>,
     <trd>dramat</trd>,
     <trd>teatr dramatyczny</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>art&abreve; dramatic&abreve;</trd>,
+    <trd>drama</trd>,
+    <trd>teatrul dramatic</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_d;&c_r;&c_a;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>,
@@ -492,6 +520,10 @@
     <trd>fotografika</trd>,
     <trd>fotografia artystyczna</trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>fotografie</trd>,
+    <trd>fotografie artistica</trd>,
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_f;&c_o;&c_t;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ja;</trd>,
     <trd>&c_f;&c_o;&c_t;&c_o;&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>
@@ -503,11 +535,16 @@
   <snc mrk="art.juvel0o.BELA">
     <uzo tip="fak">BELA</uzo>
     <dif>
-      <ref tip="super" cel="art.bel0o">Bel<tld/>o</ref> pri planado
+      <ref tip="lst" cel="art.bel0o" lst="voko:artoj">Bel<tld/>o</ref> 
+      pri planado
       kaj farado de juveloj el metalo, gemoj kaj aliaj materialoj.
     </dif>
   </snc>
   <trd lng="ca">joieria</trd>
+  <trdgrp lng="de">
+    <trd>Juvelierskunst</trd>,
+    <trd>Goldschmiedekunst</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>joaillerie</trd>
   </trdgrp>
@@ -515,6 +552,7 @@
     <trd>&eacute;kszer&eacute;szet</trd>
   </trdgrp>
   <trd lng="it">gioielleria</trd>
+  <trd lng="pl">z&lstroke;otnictwo</trd>
   <trd lng="ru">&c_ju;&c_v;&c_je;&c_l;&c_i;&c_r;&c_n;&c_o;&c_je; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>
 </drv>
 
@@ -523,7 +561,8 @@
   <snc mrk="art.kant0o.MUZ">
     <uzo tip="fak">MUZ</uzo>
     <dif>
-      <ref tip="super" cel="art.bel0o">Bel<tld/>o</ref> de vo&ccirc;a 
+      <ref tip="lst" cel="art.bel0o" lst="voko:artoj">Bel<tld/>o</ref>
+      de vo&ccirc;a 
       muzikado:
       <ekz>
         iliaj vo&ccirc;aj organoj tute ne montris ian grandan 
@@ -532,12 +571,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">Gesangskunst</trd>
   <trd lng="fr">art du <ind>chant</ind></trd>
   <trd lng="it">bel <ind>canto</ind><klr> (arte)</klr></trd>
   <trdgrp lng="pl">
     <trd>&sacute;piew</trd>,
     <trd>sztuka oratoryjna</trd>
   </trdgrp>
+  <trd lng="ro">voce</trd>
   <trd lng="ru">&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o; &c_p;&c_je;&c_n;&c_i; &c_ja;</trd>
 </drv>
 
@@ -573,6 +614,11 @@
     <trd>sztuka filmowa</trd>,
     <trd>kinematografia</trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>film</trd>,
+    <trd>film art&abreve;</trd>,
+    <trd>cinematografie</trd>
+  </trdgrp>
   <trd lng="ru">&c_k;&c_i;&c_n;&c_je;&c_m;&c_a;&c_t;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ja;</trd>
 </drv>
 
@@ -589,7 +635,10 @@
     </ekz>
   </snc>
   <trd lng="be">&c_a;&c_r;&c_h;&c_ib;&c_t;&c_e;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>
-  <trd lng="de">Architektur</trd>
+  <trdgrp lng="de">
+    <trd>Baukunst</trd>,
+    <trd>Architektur</trd>
+  </trdgrp>
   <trd lng="en">architecture</trd>
   <trd lng="es">arquitectura</trd>
   <trd lng="fr">architecture</trd>
@@ -599,6 +648,7 @@
   </trdgrp>
   <trd lng="it">architettura</trd>
   <trd lng="pl">architektura</trd>
+  <trd lng="ro">arhitektur&abreve;</trd>
   <trd lng="ru">&c_a;&c_r;&c_h;&c_i;&c_t;&c_je;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>
   <trd lng="sv">arkitektur</trd>
 </drv>
@@ -608,7 +658,8 @@
   <snc mrk="art.kuir0o.KUI">
     <uzo tip="fak">KUI</uzo>
     <dif>
-      <ref tip="super" cel="art.0o.tehxniko">Arto</ref> prepari 
+      <ref tip="lst" cel="art.0o.tehxniko" lst="voko:artoj">Arto</ref>
+      prepari 
       man&gcirc;a&jcirc;ojn per kuirado, kaj anka&ubreve; per aliaj 
       procedoj, tran&ccirc;o, spicado kaj ceteraj:
       <ekz>
@@ -622,9 +673,11 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">Kochkunst</trd>
   <trd lng="fr">cuisine<klr tip="amb"> (discipline)</klr></trd>
   <trd lng="it"><ind>arte</ind> culinaria</trd>
   <trd lng="pl">sztuka kulinarna</trd>
+  <trd lng="ro">arte culinare</trd>
 </drv>
 
 <drv mrk="art.kurac0o">
@@ -632,7 +685,8 @@
   <snc mrk="art.kurac0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      <ref tip="super" cel="art.0o.tehxniko">Arto</ref> resanigi, 
+      <ref tip="lst" cel="art.0o.tehxniko" lst="voko:artoj">Arto</ref>
+      resanigi, 
       praktika parto de <ref tip="malprt" 
       cel="medici.0o">medicino</ref>:
       <ekz>
@@ -642,8 +696,11 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">Heilkunst</trd>
   <trd lng="fr">th&eacute;rapeutique<klr tip="amb"> (subst.)</klr></trd>
   <trd lng="it"><ind>arte</ind> terapeutica</trd>
+  <trd lng="pl">terapia</trd>
+  <trd lng="ro">terapie</trd>
   <trd lng="ru">&c_t;&c_je;&c_r;&c_a;&c_p;&c_i;&c_ja;</trd>
 </drv>
 
@@ -651,7 +708,8 @@
   <kap>memor<tld/>o</kap>
   <snc mrk="art.memor0o.TEK">
     <dif>
-      <ref tip="super" cel="art.0o.tehxniko">Arto</ref> helpi kaj
+      <ref tip="lst" cel="art.0o.tehxniko" lst="voko:artoj">Arto</ref>
+      helpi kaj
       plibonigi la memorkapablon.
     </dif>
   </snc>
@@ -673,6 +731,7 @@
     <trd>mnemonika</trd>,
     <trd>mnemotechnika</trd>
   </trdgrp>
+  <trd lng="ro">mnemonics</trd>
   <trdgrp lng="ru">
     <trd>&c_m;&c_n;&c_je;&c_m;&c_o;&c_n;&c_i;&c_k;&c_a;</trd>,
     <trd>&c_m;&c_n;&c_je;&c_m;&c_o;&c_t;&c_je;&c_h;&c_n;&c_i;&c_k;&c_a;</trd>
@@ -685,12 +744,17 @@
   <snc mrk="art.ornam0o.BELA">
     <uzo tip="fak">BELA</uzo>
     <dif>
-      Iu el la <ref tip="super" cel="art.bel0o">bel<tld/>oj</ref>, kiuj
+      Iu el la <ref tip="lst" cel="art.bel0o"
+      lst="voko:artoj">bel<tld/>oj</ref>, kiuj
       produktas a&ubreve; ornamas a&jcirc;ojn por hejmo a&ubreve; &ccirc;iutaga uzo: ceramiko, 
       teksarto, miniaturo...
     </dif>
   </snc>
   <trd lng="ca">arts <ind>decoratives</ind></trd>
+  <trdgrp lng="de">
+    <trd>dekorative Kunst</trd>,
+    <trd>Kunstegewerbe</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>arts d&eacute;coratifs</trd>
   </trdgrp>
@@ -698,6 +762,7 @@
   <trd lng="it"><ind>arte</ind> decorativa</trd>
   <trd lng="nl">decoratiekunst</trd>
   <trd lng="pl">sztuka zdobnicza</trd>
+  <trd lng="ro">art&abreve; decorativ&abreve;</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_i;&c_k;&c_l;&c_a;&c_d;&c_n;&c_o;&c_je; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_d;&c_je;&c_k;&c_o;&c_r;&c_a;&c_t;&c_i;&c_v;&c_n;&c_o;&c_je; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>
@@ -737,8 +802,12 @@
   <trdgrp lng="pl">
     <trd>retoryka</trd>,
     <trd>sztuka <ind>krasom&oacute;wstwa</ind></trd>,
-    <trd lng="pl">krasom&oacute;wstwo</trd>
+    <trd>krasom&oacute;wstwo</trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>retorica</trd>,
+    <trd>art&abreve; oratoriei</trd>
+  </trdgrp>  
   <trdgrp lng="ru">
     <trd>&c_r;&c_i;&c_t;&c_o;&c_r;&c_i;&c_k;&c_a;</trd>,
     <trd>&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o; <ind>&c_k;&c_r;&c_a;&c_s;&c_n;&c_o;&c_r;&c_je;&c_ch;&c_i;&c_ja;</ind></trd>
@@ -750,7 +819,8 @@
   <snc mrk="art.pentr0o.BELA">
     <uzo tip="fak">BELA</uzo>
     <dif>
-      Grafika <ref tip="super" cel="art.bel0o">bel<tld/>o</ref> 
+      Grafika <ref tip="lst" cel="art.bel0o"
+      lst="voko:artoj">bel<tld/>o</ref> 
       produktanta bildojn per koloriloj:
       <ekz>
         sur la monumento trovi&gcirc;as <klr>...</klr> anka&ubreve; tri 
@@ -760,6 +830,7 @@
     </dif>
   </snc>
   <trd lng="ca">pintura</trd>
+  <trd lng="de">Malerei</trd>
   <trdgrp lng="fr">
     <trd>peinture<klr> (art)</klr></trd>
   </trdgrp>
@@ -767,6 +838,7 @@
   <trd lng="it">pittura<klr> (arte)</klr></trd>
   <trd lng="nl">schilderkunst</trd>
   <trd lng="pl">malarstwo</trd>
+  <trd lng="ro">pictur&abreve;</trd>
   <trd lng="ru">&c_zh;&c_i;&c_v;&c_o;&c_p;&c_i;&c_s;&c_mol;</trd>
 </drv>
 
@@ -774,7 +846,9 @@
   <kap>rajd<tld/>o</kap>
   <snc mrk="art.rajd0o.RAJ">
     <dif>
-      Arto sursidi &ccirc;evalon a&ubreve; alian <ref tip="vid" 
+      <ref tip="lst" lst="voko:artoj"
+      cel="art.0o.tehxniko"><tld/>o</ref> 
+      sursidi &ccirc;evalon a&ubreve; alian <ref tip="vid" 
       cel="rajd.0i">rajdo</ref>beston kaj &gcirc;in gvidi:
       <ekz>
         por restarigi la tradicion de la araba nacio pri lerto en 
@@ -788,6 +862,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="de">
+    <trd>Reitkunst</trd>,
+    <trd>Voltigieren</trd>
+  </trdgrp>
   <trd lng="fr">&eacute;quitation</trd>
   <trd lng="it">equitazione</trd>
   <trd lng="pt">equita&ccedil;&atilde;o</trd>
@@ -798,7 +876,8 @@
   <snc mrk="art.skulpt0o.BELA">
     <uzo tip="fak">BELA</uzo>
     <dif>
-      Plastika <ref tip="super" cel="art.bel0o">bel<tld/>o</ref>
+      Plastika <ref tip="lst" cel="art.bel0o"
+      lst="voko:artoj">bel<tld/>o</ref>
       produktanta bareliefajn, mez-reliefajn a&ubreve; plen-reliefajn
       verkojn:
       <ekz>
@@ -811,6 +890,7 @@
     </dif>
   </snc>
   <trd lng="ca">escultura</trd>
+  <trd lng="de">Bildhauerei</trd>
   <trdgrp lng="fr">
     <trd>sculpture<klr> (art)</klr></trd>
   </trdgrp>
@@ -820,6 +900,7 @@
   </trdgrp>
   <trd lng="it">scultura<klr> (arte)</klr></trd>
   <trd lng="pl">rze&zacute;biarstwo</trd>
+  <trd lng="ro">sculptur&abreve;</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_a;&c_ja;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_s;&c_k;&c_u;&c_l;&c_mol;&c_p;&c_t;&c_u;&c_r;&c_a;
@@ -849,6 +930,10 @@
   <trdgrp lng="pl">
     <trd>magia</trd>,
     <trd>sztuka magiczna</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>magie</trd>,
+    <trd>art&abreve; de magie</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_l;&c_d;&c_o;&c_v;&c_s;&c_t;&c_v;&c_o;</trd>,
@@ -890,6 +975,12 @@
 </art>
 <!--
 $Log: art.xml,v $
+Revision 1.44  2013/10/19 16:10:11  revo
+Vito Redsky: +trd ro pl
+
+Revision 1.43  2013/09/22 18:10:16  revo
+Wolfram Diestel: referencoj al listo artoj, germ trd
+
 Revision 1.42  2012/09/08 00:10:11  revo
 Jeromo Vasxe: snc / subsnc, + mrk
 
@@ -905,12 +996,6 @@ Antonio Codazzi: +trd it
 
 Revision 1.38  2010/12/25 12:59:57  revo
 Glavkos Xaon: greka defino de arto
-
-Revision 1.37  2010/11/25 17:30:23  revo
-Jeromo Vasxe: + vide~o
-
-Revision 1.36  2010/06/01 16:30:19  revo
-Wieland Pusch: +trd bg
 
 -->
 </vortaro>

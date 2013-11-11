@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fok.xml,v 1.21 2010/05/02 16:30:36 revo Exp $">
+<art mrk="$Id: fok.xml,v 1.23 2013/10/20 16:10:20 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>fok</rad>/o</kap>
 <drv mrk="fok.0o">
@@ -10,8 +10,12 @@
   <uzo tip="fak">ZOO</uzo>
   <snc mrk="fok.0o.ZOO">
     <dif>
-       Mara amfibia felhava mambesto,
-       genro el familio <ref tip="super"
+       Mara amfibia felhava 
+       <ref tip="lst" cel="best.rabo0o"
+       lst="voko:rabobestoj">rabobesto</ref>;
+       <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
        cel="foked.0oj"><tld/>edoj</ref>
       (<trd lng="la">Phoca</trd>):
       <ekz>
@@ -46,6 +50,12 @@
 </art>
 <!--
 $Log: fok.xml,v $
+Revision 1.23  2013/10/20 16:10:20  revo
+Wolfram Diestel: ref al lst rabobestoj
+
+Revision 1.22  2013/09/01 14:10:45  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.21  2010/05/02 16:30:36  revo
 Behnam Tabatabai: +trd fa
 
@@ -62,11 +72,5 @@ Revision 1.17  2003/12/23 17:40:05  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.16  2002/11/26 17:31:12  revo
-Paul Peeraerts: ald trd nl + belarangho
-
-Revision 1.15 2002/07/01 17:32:55 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.14 2002/06/28 18:04:02 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ies.xml,v 1.17 2006/09/13 16:31:01 revo Exp $">
+<art mrk="$Id: ies.xml,v 1.18 2013/09/25 14:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ies</rad>
@@ -37,6 +37,7 @@
     <trd>jemandes</trd>,
     <trd>irgendjemandes</trd>
   </trdgrp>
+  <trd lng="en">someone's</trd>
   <trd lng="fr">de <ind>quelqu'un</ind></trd>
   <trd lng="hu">valakinek a</trd>
   <trd lng="nl">iemands</trd>
@@ -53,6 +54,9 @@
 </art>
 <!--
 $Log: ies.xml,v $
+Revision 1.18  2013/09/25 14:10:12  revo
+Jessica Grasso: aldonis anglan tradukon de ies
+
 Revision 1.17  2006/09/13 16:31:01  revo
 Axel Rousseau: +trd tp
 
@@ -72,8 +76,5 @@ Revision 1..12  2002/01/24 17:33:43  revo
 Marc Bavant: +trd fr
 
 Revision 1.11 2002/01/11 19:09:15 revo
-fontindiko PrV per programo de Jerome
-
-Revision 1.10 2002/01/07 17:32:42 revo
 -->
 </vortaro>

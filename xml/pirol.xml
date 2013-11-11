@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pirol.xml,v 1.13 2011/12/03 19:10:09 revo Exp $">
+<art mrk="$Id: pirol.xml,v 1.14 2013/09/01 14:10:53 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pirol</rad>/o
@@ -12,7 +12,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc mrk="pirol.0o.ZOO">
     <dif>
-      Genro el la familio <ref tip="super"
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el la familio <ref
+      tip="malprt"
       cel="fringe1.0oj">fringedoj</ref>
       (<trd lng="la">Pyrrhula</trd>).
     </dif>
@@ -43,6 +45,9 @@
 </art>
 <!--
 $Log: pirol.xml,v $
+Revision 1.14  2013/09/01 14:10:53  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.13  2011/12/03 19:10:09  revo
 Marc Rausell: kataluna traduko
 
@@ -62,8 +67,5 @@ Revision 1.8 2001/07/27 19:37:07 revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.7 2001/05/05 13:08:00 revo
-fring.0edoj -> fringe1.0oj
-
-Revision 1.6 2000/08/24 17:49:48 revo
 -->
 </vortaro>

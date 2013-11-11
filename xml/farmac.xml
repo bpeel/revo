@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: farmac.xml,v 1.22 2011/01/08 12:10:21 revo Exp $">
+<art mrk="$Id: farmac.xml,v 1.23 2013/09/22 19:10:41 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>farmaci</rad>/o
@@ -15,7 +15,8 @@
   <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
-      <ref tip="super" cel="scienc.0o.fako">Scienco</ref> pri
+      <ref tip="lst" cel="scienc.0o.fako"
+      lst="voko:sciencoj">Scienco</ref> pri
       medikamentoj kaj ilia preparado.
     </dif>
     <ref tip="vid" cel="farmak.0o">farmakologio</ref>
@@ -124,6 +125,9 @@
 </art>
 <!--
 $Log: farmac.xml,v $
+Revision 1.23  2013/09/22 19:10:41  revo
+Wolfram Diestel: astro~o: referenco al listo sciencoj
+
 Revision 1.22  2011/01/08 12:10:21  revo
 Russ Williams: +ref farmakologio, +trd en
 
@@ -143,8 +147,5 @@ Revision 1.17  2005/03/06 17:36:00  revo
 Yury Finkel: +trd ru
 
 Revision 1.16  2003/12/21 17:33:07  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.15  2003/09/25 16:30:47  revo
 -->
 </vortaro>

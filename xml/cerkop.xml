@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cerkop.xml,v 1.11 2012/01/03 09:10:13 revo Exp $">
+<art mrk="$Id: cerkop.xml,v 1.13 2013/10/22 17:10:16 revo Exp $">
 <kap>
   <rad>cerkopitek</rad>/o
 </kap>
@@ -13,7 +13,15 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super"
+      Mezgranda <ref tip="lst" cel="simi.0o"
+      lst="voko:simioj">simio</ref>,
+      kun longaj kruroj kaj vosto, diverskolora felo kaj hela
+      viza&gcirc;desegno,
+      vivanta en Afriko sude de Saharo sur arboj nutranta sin precipe de
+      fruktoj;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
       cel="cerkop1.0oj"><tld/>edoj</ref>
       (<trd lng="la">Cercopithecus</trd>).
     </dif>
@@ -34,6 +42,12 @@
 </art>
 <!--
 $Log: cerkop.xml,v $
+Revision 1.13  2013/10/22 17:10:16  revo
+Wolfram Diestel: ref al lst simioj, prilaboris dif
+
+Revision 1.12  2013/09/01 13:11:07  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.11  2012/01/03 09:10:13  revo
 Marc Rausell: +trd ca
 
@@ -50,11 +64,5 @@ Revision 1.7  2003/12/05 17:31:02  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.6  2002/06/25 19:41:21  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.5  2001/11/16 19:14:11  revo
-Yury Finkel: +trd ru
-
-Revision 1.4  2001/05/20 12:01:14  revo
 -->
 </vortaro>

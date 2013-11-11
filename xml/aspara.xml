@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aspara.xml,v 1.23 2012/07/16 10:10:37 revo Exp $">
+<art mrk="$Id: aspara.xml,v 1.24 2013/08/27 10:10:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>asparag</rad>/o
@@ -14,7 +14,9 @@
     <dif>
       Vegeta&jcirc;o kies tigojn ankora&ubreve; subterajn oni
       man&gcirc;as kiel legomo,
-      genro el familio <ref tip="super" cel="liliac.0oj">liliacoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="liliac.0oj">liliacoj</ref>
       (<trd lng="la">Asparagus</trd>):
       <ekz>
         kiel &scirc;ildojn ili uzis fungojn, kaj tigojn de <tld/>oj kiel
@@ -54,6 +56,9 @@
 </art>
 <!--
 $Log: aspara.xml,v $
+Revision 1.24  2013/08/27 10:10:32  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.23  2012/07/16 10:10:37  revo
 Marc Rausell: + trd ca
 
@@ -73,8 +78,5 @@ Revision 1.18  2006/09/20 10:21:31  revo
 Jeromo Vasxe: + mrk + 1 ekz
 
 Revision 1.17  2005/04/19 16:31:18  revo
-Alan ar Gall: +trd br
-
-Revision 1.16  2004/06/24 16:33:38  revo
 -->
 </vortaro>

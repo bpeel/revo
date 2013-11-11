@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lir1.xml,v 1.3 2007/11/19 17:30:55 revo Exp $">
+<art mrk="$Id: lir1.xml,v 1.4 2013/09/22 19:11:39 revo Exp $">
 <kap>
   <rad>lir</rad>/o
 </kap>
@@ -12,7 +12,8 @@
   <fnt><bib>PV</bib><lok>samloke kiel la homonima muzikilo</lok></fnt>
   <snc>
     <dif>
-      Iama <ref tip="super" cel="unu.mon0o">monunuo</ref> de
+      Iama <ref tip="lst" cel="unu.mon0o"
+      lst="voko:monunuoj">monunuo</ref> de
       <ref cel="ital.I0ujo">Italujo</ref>, nun
       anstata&ubreve;ita de <ref cel="euxr.0o">e&ubreve;ro</ref>:
       <ekz>
@@ -48,6 +49,9 @@
 
 <!--
 $Log: lir1.xml,v $
+Revision 1.4  2013/09/22 19:11:39  revo
+Wolfram Diestel: referenco al listo monunuoj
+
 Revision 1.3  2007/11/19 17:30:55  revo
 Sebastian Cyprych: +trd pl
 

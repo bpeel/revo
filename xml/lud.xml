@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lud.xml,v 1.46 2012/01/08 12:10:10 revo Exp $">
+<art mrk="$Id: lud.xml,v 1.48 2013/09/27 01:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lud</rad>/i <fnt><bib>PV</bib></fnt>
@@ -218,6 +218,27 @@
   <trd lng="sk">hra&tcaron;</trd>
 </drv>
 
+<drv mrk="lud.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="lud.0ema.KOMUNE">
+    <dif>
+      Ema al <tld/>oj kaj amuzoj:
+      <ekz>
+        Ivar Arosenius <klr>...</klr> estis
+        <tld/>ema, &scirc;ajne facilhumora tipo de artisto
+        <fnt>
+          <aut>F. Szil&aacute;gyi</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5606/arosenius.html">
+          Anta&ubreve; la hejma altaro</url></vrk>,
+          <lok>Norda Prismo, 1956:6, p. 246a-249a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">joueur<klr> (adj.)</klr></trd>
+</drv>
+
 <drv mrk="lud.0o">
   <kap><tld/>o</kap>
   <snc mrk="lud.0o.ago">
@@ -412,8 +433,8 @@
 
 <drv mrk="lud.flug0ilo">
   <kap>flug<tld/>ilo</kap>
-  <uzo tip="fak">SPO</uzo>
   <snc>
+    <uzo tip="fak">SPO</uzo>
     <ref tip="dif" cel="kajt.0o">kajto</ref>
   </snc>
   <trd lng="br">sarpant-nij</trd>
@@ -428,6 +449,29 @@
   <trd lng="sk">&scaron;arkan <klr>(papierov&yacute;)</klr></trd>
   <trd lng="ru">&c_v;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;
   &c_z;&c_m;&c_je;&c_j;</trd>
+</drv>
+
+<drv mrk="lud.glitsxton0o">
+  <kap>glit&scirc;ton<tld/>o</kap>
+  <snc mrk="lud.glitsxton0o.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Surglacia sporto en kiu ludantoj glitigas pezajn &scirc;tonojn
+      kiom eble proksimen al celloko:
+      <ekz>
+        mi televidile rigardis olimpikan glit&scirc;ton<tld/>on
+        <fnt>
+          <aut>J. Jonikima</aut>,
+          <vrk><url
+          ref="http://dunudaj.blogspot.com/2010/02/gravede.html">
+          Gravede</url></vrk>,
+          <lok>Du nudaj amikinoj, 2010-02-27</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">curling</trd>
+  <trd lng="fr">curling</trd>
 </drv>
 
 <drv mrk="lud.hazard0o">
@@ -459,9 +503,10 @@
 
 <drv mrk="lud.kart0i">
   <kap>kart<tld/>i</kap>
-  <snc>
+  <snc mrk="lud.kart0i.SPO">
     <dif>
-      <ref tip="super" cel="lud.0i.SPO">Ludi</ref> per ludkartoj:
+      <ref tip="super" cel="lud.0i.SPO"><tld lit="L"/>i</ref>
+      per <tld/>kartoj:
       <ekz>
         Anna Sergeevna majstre kart<tld/>is
         <fnt><bib>PatrojFiloj</bib>, <lok>&ccirc;apitro 16a, p.
@@ -477,8 +522,7 @@
   <trd lng="fr">jouer aux cartes</trd>
   <trd lng="hu">k&aacute;rty&aacute;zik</trd>
   <trd lng="pl">gra&cacute; w karty</trd>
-  <trd lng="ru">&c_i;&c_g;&c_r;&c_a;&c_t;&c_mol; &c_v;
-  &c_k;&c_a;&c_r;&c_t;&c_y;</trd>
+  <trd lng="ru">&c_i;&c_g;&c_r;&c_a;&c_t;&c_mol; &c_v; &c_k;&c_a;&c_r;&c_t;&c_y;</trd>
 </drv>
 
 <drv mrk="lud.pacienc0o">
@@ -529,7 +573,7 @@
     <trd lng="en">solitaire</trd>
     <trd lng="es">solitario</trd>
     <trd lng="fi">pasianssi</trd>
-    <trd lng="fr">patience</trd>
+    <trd lng="fr">pacience</trd>
     <trd lng="it">solitario</trd>
     <trd lng="pl">pasjans</trd>
     <trd lng="pt">paci&ecirc;ncia</trd>
@@ -540,9 +584,9 @@
 
 <drv mrk="lud.prov0i">
   <kap>prov<tld/>i</kap>
-  <uzo tip="fak">TEA</uzo>
-  <uzo tip="fak">MUZ</uzo>
-  <snc>
+  <snc mrk="lud.prov0i.TEA">
+    <uzo tip="fak">TEA</uzo>
+    <uzo tip="fak">MUZ</uzo>
     <dif>
       <tld lit="L"/>i teatra&jcirc;on a&ubreve; muzikpecon sen publiko,
       por sperti&gcirc;i kaj plibonigi la <tld/>adon:
@@ -749,10 +793,13 @@
       kiu amuzas per eluzo de similsoneco, dusenceco
       a&ubreve; aliaj vort-aparta&jcirc;oj:
       <ekz>
-        LA-STRANGA-BUTIKO &dash; LAST-RANGA-BUTIKO;
-        <fnt><aut>Schwartz, Raymond</aut>: <vrk>La stranga butiko</vrk>,
-        <lok><url>http://www.steloj.de/esperanto/butiko/</url></lok>
-        </fnt>
+        LA-STRANGA-BUTIKO &#8208; LAST-RANGA-BUTIKO;
+        <fnt>
+          <aut>R. Schwartz</aut>,
+          <vrk><url ref="http://www.steloj.de/esperanto/butiko/">
+          La stranga butiko</url></vrk>,
+          <lok>1931</lok>
+        </fnt>.
       </ekz>
       <ekz>
         plej ofte oni ne povas perfekte traduki vort<tld/>ojn
@@ -768,6 +815,12 @@
 </art>
 <!--
 $Log: lud.xml,v $
+Revision 1.48  2013/09/27 01:10:13  revo
+Jeromo Vasxe: + ~ema
+
+Revision 1.47  2013/08/29 01:10:21  revo
+Jeromo Vasxe: + glitsxton~o
+
 Revision 1.46  2012/01/08 12:10:10  revo
 Wolfram Diestel: ref al sxarado, ekz. de vortludo
 
@@ -784,11 +837,5 @@ Revision 1.42  2010/11/25 17:30:29  revo
 Jeromo Vasxe: + vide~o
 
 Revision 1.41  2009/11/15 17:30:20  revo
-Wieland Pusch: +trd bg
-
-Revision 1.40  2009/05/17 16:31:46  revo
-Jeromo Vasxe: kor. malgxusta ref.
-
-Revision 1.39  2009/02/04 19:20:10  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: anser.xml,v 1.28 2010/05/21 16:31:00 revo Exp $">
+<art mrk="$Id: anser.xml,v 1.31 2013/10/27 19:10:13 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>anser</rad>/o
@@ -12,8 +12,9 @@
   <snc mrk="anser.0o.genro">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Genroj el la familio
-      <ref tip="super" cel="anased.0oj">anasedoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genroj</ref> el la familio
+      <ref tip="malprt" cel="anased.0oj">anasedoj</ref>
       (<trd lng="la">Anser</trd>, <trd lng="la">Branta</trd> k.a.):
       <ekz>
         celante <tld/>on li trafis aeron<fnt>Z</fnt>.
@@ -35,8 +36,9 @@
   <snc mrk="anser.0o.hejmbesto">
     <uzo tip="fak">AGR</uzo>
     <dif>
-       Hejme bredata besto, deveninta de la specio 
-       <trd lng="la">Anser anser</trd>.
+       <ref tip="lst" cel="bird.korto0o"
+       lst="voko:birdoj">Kortobirdo</ref>,
+        deveninta de la specio <trd lng="la">Anser anser</trd>.
     </dif>
     <bld lok="../bld/anser.jpg">korta <tld/>o</bld>
     <trd lng="de">Gans</trd>
@@ -65,7 +67,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Ordo el la klaso <ref tip="super" cel="bird.0oj">birdoj</ref>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> el la klaso <ref
+      tip="malprt" cel="bird.0oj">birdoj</ref>
       (<trd lng="la">Anseriformes</trd>).
     </dif>
   </snc>
@@ -79,6 +83,15 @@
 </art>
 <!--
 $Log: anser.xml,v $
+Revision 1.31  2013/10/27 19:10:13  revo
+Wolfram Diestel: ref al birdoj
+
+Revision 1.30  2013/09/01 13:10:41  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.29  2013/08/31 16:10:43  revo
+Wolfram Diestel: ~uloj: referenco al listo zoo ordoj
+
 Revision 1.28  2010/05/21 16:31:00  revo
 Antonio Codazzi: +trd it
 
@@ -92,14 +105,5 @@ Revision 1.25  2005/02/02 17:33:10  revo
 Wieland Pusch: +trd de
 
 Revision 1.24  2005/01/06 17:31:12  revo
-Vito Redsky: +trd pl
-
-Revision 1.23  2003/08/28 16:30:33  revo
-Yury Finkel: +trd ru
-
-Revision 1.22  2003/05/19 19:38:20  revo
-Viliam Bur: +trd sk
-
-Revision 1.21  2002/06/29 17:47:02  revo
 -->
 </vortaro>

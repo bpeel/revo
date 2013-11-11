@@ -75,7 +75,7 @@ artikolo estas avantaĝe difini tiun ĉi unuon.-->
 
 <!-- priskribaj elementoj -->
 <!ENTITY % priskribaj-elementoj 
-  "fnt|gra|uzo|dif|ekz|rim|ref|refgrp|trd|trdgrp|bld|adm|url|mlg|tez|tezrad">
+  "fnt|gra|uzo|dif|ekz|rim|ref|refgrp|trd|trdgrp|bld|adm|url|mlg|lstref|tezrad">
 
 <!-- [%tekst-stiloj] La unuo <dfn>tekst-stiloj</dfn> 
 listigas ĉiujn strukturilojn, kiuj donas stilon al tekstoparto,
@@ -255,20 +255,25 @@ Tiukaze ne uzu la atributon <dfn>tip</dfn> en la subelementoj
 oni povas distingi diversajn rilattipon al la
 referencita vorto. La enhavo de la referenco estas tio, kio
 aperas en la legebla teksto. La referencitan vorton mem
-oni difinas per la atributo "celo". La celon oni plej
+oni difinas per la atributo "cel". La celon oni plej
 bone difinas per: radiko.derivaĵo.difino, oni povas uzi
 la numeron de la difino au derivaĵo. Plej bone oni
 generas la markojn (t.e. la eblaj celoj de referenco)
 aŭtomate por minimumigi erarojn.
+La atributoj "lst" kaj "val" servas por referenci al vortlisto (tip="lst"),
+ekz. monatoj. Se temas pri ordigita listo, vi povas indiki valoron per "val",
+ekz. "3" che la monato marto.
 -->
 
 <!ELEMENT ref (#PCDATA|tld|klr|sncref)*>
 <!ATTLIST ref
 	tip (vid|hom|dif|sin|ant|super|sub|prt|malprt|lst|ekz) #IMPLIED
 	cel CDATA #REQUIRED
+        lst CDATA #IMPLIED
+	val CDATA #IMPLIED
 >
 
-<!-- [tez] Tezaŭra nodo. Ĝi permesas referenci al tio, same kiel
+<!-- [tez] NE PLU UZU! Tezaŭra nodo. Ĝi permesas referenci al tio, same kiel
  al kap kaj mem povas referenci al alia nodo.
 -->
 <!ELEMENT tez (#PCDATA|tld|klr|ref|refgrp)*>
@@ -276,6 +281,13 @@ aŭtomate por minimumigi erarojn.
         mrk CDATA #REQUIRED
         tip (super|malprt|listo) #IMPLIED
 	cel CDATA #REQUIRED
+>
+
+<!-- [lstref] Referenco al vortlisto el artikolo.
+-->
+<!ELEMENT lstref (#PCDATA|tld|klr)*>
+<!ATTLIST lstref
+        lst CDATA #REQUIRED
 >
 
 <!-- [tezrad] Tezaŭraradiko. La kapvorto aperas en la enir-listo
@@ -398,9 +410,13 @@ ofte malvalidiĝus. -->
 <!ATTLIST url 
           ref CDATA #IMPLIED>
 
-<!-- [mlg] mallongigo de la kapvorto, ekz. che nomoj de organizajhoj. -->
+<!-- [mlg] mallongigo de la kapvorto, ekz. che nomoj de organizajhoj. 
+Per "kod" vi povas indiki devenon de la mallongigo, ekz. ISO-3166 ĉe landokodoj -->
 
 <!ELEMENT mlg (#PCDATA)>
+<!ATTLIST mlg
+          kod CDATA #IMPLIED>
+
 
 
 

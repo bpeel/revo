@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gavot.xml,v 1.14 2012/08/18 19:10:23 revo Exp $">
+<art mrk="$Id: gavot.xml,v 1.15 2013/08/06 16:10:18 revo Exp $">
 <kap><rad>gavot</rad>/o
 <fnt>Z</fnt></kap>
 <drv mrk="gavot.0o">
@@ -21,8 +21,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_v;&c_o;&c_t;</trd>
+  <trd lng="bg">&c_g;&c_a;&c_v;&c_o;&c_t;</trd>
   <trd lng="ca">gavota</trd>
   <trd lng="de">Gavotte</trd>
+  <trd lng="en">gavotte</trd>
   <trd lng="fr">gavotte</trd>
   <trd lng="hu">gavotte</trd>
   <trd lng="it">gavotta</trd>
@@ -33,6 +35,9 @@
 </art>
 <!--
 $Log: gavot.xml,v $
+Revision 1.15  2013/08/06 16:10:18  revo
+Joop Eggen: +trd bg en
+
 Revision 1.14  2012/08/18 19:10:23  revo
 Marc Rausell: + trd ca
 
@@ -52,8 +57,5 @@ Revision 1.9  2002/02/13 17:34:35  revo
 Jerome Vachey: reverkis dif
 
 Revision 1.8  2001/12/11 18:23:58  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.7 2001/10/09 18:40:51 revo
 -->
 </vortaro>

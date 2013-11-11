@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mustel.xml,v 1.17 2008/11/14 17:31:47 revo Exp $">
+<art mrk="$Id: mustel.xml,v 1.21 2013/10/21 20:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mustel</rad>/o
@@ -13,20 +13,22 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super" cel="mustel1.0oj"><tld/>edoj</ref>
+      Tre malgranda <ref tip="lst" cel="best.rabo0o"
+      lst="voko:rabobestoj">rabobesto</ref>;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="mustel1.0oj"><tld/>edoj</ref>
       (<trd lng="la">Mustela</trd>), al kiu apartenas
-      <refgrp tip="sub">
-	<ref cel="ermen.0o">ermeno</ref>
-	<ref cel="fur.0o">furo</ref>,
-	<ref cel="putor.0o">putoro</ref>,
-	k.a.
-      </refgrp>
+      la <ref cel="ermen.0o">ermeno</ref>
+      kaj la plej malgranda vivanta rabobesto
+      (<trd lng="la">Mustela nivalis</trd>).
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_u;&c_n;&c_ib;&c_c;&c_a;</trd>
   <trdgrp lng="de">
-    <trd>Marder</trd>,
     <trd>Wiesel</trd>
+    <trd>Hermelin</trd>,
+    <trd>Nerz</trd>
   </trdgrp>
   <trd lng="en">weasel</trd>
   <trd lng="hu">meny&eacute;t</trd>
@@ -40,6 +42,18 @@
 </art>
 <!--
 $Log: mustel.xml,v $
+Revision 1.21  2013/10/21 20:10:10  revo
+Wolfram Diestel: +germ trd Nerz
+
+Revision 1.20  2013/10/21 19:10:16  revo
+Wolfram Diestel: ref al lst rabobestoj, prilaboris dif
+
+Revision 1.19  2013/10/07 16:10:14  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.18  2013/09/01 16:10:31  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
 Revision 1.17  2008/11/14 17:31:47  revo
 Russ Williams: redakto: +trd en
 
@@ -50,17 +64,5 @@ Revision 1.15  2006/08/16 19:53:52  revo
 Tulio Flores: +tr pt
 
 Revision 1.14  2003/06/09 16:30:51  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.13  2002/07/05 17:35:36  revo
-Jozefo Horvath: kor. trd hu
-
-Revision 1.12  2002/06/28 18:02:45  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11  2002/03/04 17:31:13  revo
-Yury Finkel: kor eraron de skripto kun "k.a."
-
-Revision 1.10  2001/11/28 19:05:52  revo
 -->
 </vortaro>

@@ -2,11 +2,33 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klak.xml,v 1.19 2012/04/21 17:10:21 revo Exp $">
+<art mrk="$Id: klak.xml,v 1.21 2013/10/15 01:10:18 revo Exp $">
 <kap>
   <ofc>3</ofc>
-  <rad>klak</rad>/i
+  <rad>klak</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
+<drv mrk="klak.0">
+  <kap><tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="klak.0.SON">
+    <dif>
+      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
+      de io <tld/>anta, subite fermi&gcirc;anta,
+      fendi&gcirc;anta...:
+      <ekz>
+        lia po&scirc;o estis plena de nuksoj;
+        oni a&ubreve;dis sen&ccirc;ese: <tld/>! <tld/>!
+        <fnt>
+          <bib>Fab4</bib>, <vrk>Dekdu per la po&scirc;to</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>clic !</trd>,
+    <trd>clac !</trd>
+  </trdgrp>
+</drv>
 
 <drv mrk="klak.0i">
   <kap><tld/>i</kap>
@@ -14,11 +36,7 @@
   <snc mrk="klak.0i.KOMUNE">
     <dif>
       <ref tip="super" cel="bru.0i.soni">Brui</ref> per seka mallonga
-      sono
-      pro rapida kruda movo de io kontra&ubreve; io:
-      <ekz>
-        <tld/>i per la manoj<fnt>Z</fnt>;
-      </ekz>
+      sono pro rapida kruda movo de io kontra&ubreve; io:
       <ekz>
         li <klr>[...]</klr> <tld/>is malpacience per la fingroj
         <fnt><bib>Marta</bib></fnt>;
@@ -193,6 +211,25 @@
   <trd lng="ru">&c_k;&c_a;&c_s;&c_t;&c_a;&c_n;&c_mol;&c_je;&c_t;&c_a;</trd>
 </drv>
 
+<drv mrk="klak.man0i">
+  <kap>man<tld/>i, <var><kap><tld/>i per la manoj</kap></var></kap>
+  <snc mrk="klak.man0i.KOMUNE">
+    <dif>
+      <tld lit="K"/>e bruigi la manojn, ilin kunbatante:
+      <ekz>
+        damo Laji man<tld/>is kaj enkuris
+        Lilio kaj Papilio
+        <fnt><aut>E. de Zilah</aut>, <vrk>La Princo &ccirc;e la Hunoj</vrk>, 
+        <lok>2011</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="aplaux.0i.KOMUNE">apla&ubreve;di</ref>
+    </refgrp>
+  </snc>
+  <trd lng="fr">claquer des mains</trd>
+</drv>
+
 <drv mrk="klak.0cxapelo">
   <kap><tld/>&ccirc;apelo</kap>
   <uzo tip="fak">TEKS</uzo>
@@ -227,6 +264,12 @@
 </art>
 <!--
 $Log: klak.xml,v $
+Revision 1.21  2013/10/15 01:10:18  revo
+Jeromo Vasxe: + ~
+
+Revision 1.20  2013/10/09 01:10:25  revo
+Jeromo Vasxe: + man~i
+
 Revision 1.19  2012/04/21 17:10:21  revo
 Dominique Pelle: (ripetita vorto) kaj kaj -> kaj
 
@@ -243,11 +286,5 @@ Revision 1.15  2004/12/13 17:33:19  revo
 Marc Bavant: mod trd fr; ~i: +ekz kun ~o
 
 Revision 1.14 2004/07/26 17:24:28 revo
-Jeromo Vasxe: + kk ekz
-
-Revision 1.13 2004/05/14 17:48:22 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12 2002/11/14 17:32:22 revo
 -->
 </vortaro>

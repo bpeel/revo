@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gomb.xml,v 1.7 2012/08/19 00:10:49 revo Exp $">
+<art mrk="$Id: gomb.xml,v 1.8 2013/08/08 18:10:11 revo Exp $">
 <kap>
   <rad>gomb</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -45,6 +45,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_b;&c_a;&c_m;&c_ja;</trd>
   <trdgrp lng="ca">
     <trd>ocra</trd>,
     <trd>gombo</trd>
@@ -56,6 +57,7 @@
     <trd>corne grecque</trd>,
     <trd>gombo</trd>
   </trdgrp>
+  <trd lng="nl">okra</trd>
   <trd lng="pt">quiabo</trd>
   <trd lng="sv">okra</trd>
 </drv>
@@ -63,6 +65,9 @@
 
 <!--
 $Log: gomb.xml,v $
+Revision 1.8  2013/08/08 18:10:11  revo
+Joop Eggen: +trd bg nl
+
 Revision 1.7  2012/08/19 00:10:49  revo
 Marc Rausell: + trd ca
 
@@ -82,7 +87,5 @@ Revision 1.2  2006/08/27 14:16:51  revo
 Jeromo Vasxe: kor. lokon de krampoj
 
 Revision 1.1  2006/08/25 14:12:46  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vatikan.xml,v 1.16 2013/03/13 12:10:16 revo Exp $">
+<art mrk="$Id: vatikan.xml,v 1.17 2013/08/23 08:10:14 revo Exp $">
 <kap><rad>Vatikan</rad>/o</kap>
 <drv mrk="vatikan.V0o">
   <kap><tld/>o</kap>
@@ -49,7 +49,9 @@
   <snc mrk="vatikan.V0o.POL">
     <uzo tip="fak">POL</uzo>
     <dif>
-      La regno kies absoluta monarko estas la
+      La <ref tip="lst" cel="regn.0o.POL" lst="voko:&scirc;tatoj">regno</ref>
+      kies
+      absoluta monarko estas la
       <ref cel="pap.0o.KAT">papo</ref> de Romo:
       <ekz>
         kiam la e&ubreve;skaj episkopoj publikigis eklezian dokumenton,
@@ -104,6 +106,9 @@
 </art>
 <!--
 $Log: vatikan.xml,v $
+Revision 1.17  2013/08/23 08:10:14  revo
+Wolfram Diestel: referencoj al listo sxtatoj
+
 Revision 1.16  2013/03/13 12:10:16  revo
 Dmitri Gabinski: redakto: +trd be
 
@@ -123,8 +128,5 @@ Revision 1.11  2006/02/01 17:32:13  revo
 Tulio Flores: +trd pt
 
 Revision 1.10  2005/05/20 16:35:57  revo
-Yury Finkel: +trd ru
-
-Revision 1.9  2005/05/08 16:31:55  revo
 -->
 </vortaro>

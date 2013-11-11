@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sapot.xml,v 1.8 2009/09/29 16:30:41 revo Exp $">
+<art mrk="$Id: sapot.xml,v 1.9 2013/08/25 16:11:15 revo Exp $">
 <kap>
   <rad>sapotac</rad>/oj
 </kap>
@@ -11,7 +11,9 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Familio de <ref tip="super" cel="kotile.du0aj">dukotiledonaj</ref>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
       tropikaj arboj (<trd lng="la">Sapotaceae</trd>).
     </dif>
   </snc>
@@ -29,6 +31,9 @@
 </art>
 <!--
 $Log: sapot.xml,v $
+Revision 1.9  2013/08/25 16:11:15  revo
+Wolfram Diestel: referenco al listo bot familio
+
 Revision 1.8  2009/09/29 16:30:41  revo
 Antonio Codazzi: +trd it
 
@@ -48,8 +53,5 @@ Revision 1.3 2000/11/30 13:28:45 revo
 Wolfram Diestel: ref al klaso
 
 Revision 1.2 2000/08/31 21:10:38 revo
-Wolfram Diestel: -tajperaro
-
-Revision 1.1 2000/07/10 20:55:44 revo
 -->
 </vortaro>

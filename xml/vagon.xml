@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vagon.xml,v 1.27 2012/08/11 17:10:19 revo Exp $">
+<art mrk="$Id: vagon.xml,v 1.30 2013/09/08 19:10:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>vagon</rad>/o
+  <rad>vagon</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 
 <drv mrk="vagon.0o">
@@ -13,13 +13,17 @@
   <snc mrk="vagon.0o.FER">
     <uzo tip="fak">FER</uzo>
     <dif>
-      Surrela <ref tip="super" cel="vetur.0ilo">veturilo</ref>
-      por pasa&gcirc;eroj a&ubreve; varoj:
+      Surrela <ref tip="lst" cel="vetur.0ilo"
+      lst="voko:veturiloj">veturilo</ref>
+      por voja&gcirc;antoj a&ubreve; komerca&jcirc;oj:
       <ekz>
-        li veturis en <tld/>o de la unua klaso, kaj li ne estis
-        blankha&ubreve;ta<fnt><aut>A. Giridhar Rao</aut>, <vrk>La formi&gcirc;o de
-        Mahatmo</vrk>, <bib>Monato</bib>, <lok>jaro 1997a, numero 7a, p.
-        26a</lok></fnt>.
+        li veturis en <tld/>o de la unua klaso
+        <fnt>
+          <aut>A. Giridhar Rao</aut>,
+          <vrk>La formi&gcirc;o de Mahatmo</vrk>,
+          <bib>Monato</bib>,
+          <lok>1997:7, p. 26a</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>                      
@@ -65,17 +69,20 @@
   <uzo tip="fak">FER</uzo>
     <dif>
       <ref tip="super" cel="vetur.0ilo">Veturilo</ref>
-      el serio de <tld/>oj, ligitaj inter si kaj trenataj de
-      lokomotivo a&ubreve; alia motorveturilo:
+      el serio de <tld/>oj, ligitaj inter si kaj tirataj de
+      lokomotivo a&ubreve; alia motorveturilo;
+      <ref tip="sin" cel="trajn.0o.FER">trajno</ref>:
       <ekz>
         mankas a&ubreve;tomata trajnbremsado
-        ta&ubreve;ga por la plej rapidaj <tld/>aroj<fnt><aut>Paul
-        Gubbins</aut>, <vrk>Politiko elreligita</vrk>,
-        <bib>Monato</bib>, <lok>jaro 2001a, numero 2a, p.
-        6a</lok></fnt>.
+        ta&ubreve;ga por la plej rapidaj <tld/>aroj
+        <fnt>
+          <aut>P. Gubbins</aut>, 
+          <vrk>Politiko elreligita</vrk>,
+          <bib>Monato</bib>,
+          <lok>2001:2, p. 6a</lok>
+        </fnt>.
       </ekz>
     </dif>
-    <ref tip="sin" cel="trajn.0o">trajno</ref>
   </snc>                         
   <trd lng="be">&c_c;&c_ja;&c_g;&c_n;&c_ib;&c_k;</trd>
   <trd lng="bg">&c_v;&c_l;&c_a;&c_k;</trd>
@@ -89,20 +96,51 @@
   <trd lng="he">&resh;&kaf;&bet;&tav;</trd>
   <trd lng="hu">vonat</trd>
   <trd lng="nl">trein</trd>
+  <trd lng="pl">poci&aogonek;g</trd>
   <trdgrp lng="pt">
     <trd>trem</trd>,
     <trd>comboio</trd>
   </trdgrp>
-  <trd lng="pl">poci&aogonek;g</trd>
   <trd lng="ru">&c_p;&c_o;&c_je;&c_z;&c_d;</trd>
   <trdgrp lng="zh">
     <trd>&#28779;&#36710;</trd>,
     <trd><klr>tr. </klr>&#28779;&#36554;<klr> [hu&#466;ch&#275;]</klr></trd>
   </trdgrp>
 </drv>
+
+<drv mrk="vagon.mangx0o">
+  <kap>man&gcirc;<tld/>o</kap>
+  <snc mrk="vagon.mangx0o.FER">
+    <uzo tip="fak">FER</uzo>
+    <dif>
+      <tld lit="V"/>o en kiu oni provizas man&gcirc;ojn
+      al la veturantoj:
+      <ekz>
+        la grafo malvolonte cedis; li sin klinis
+        kaj forlasis la man&gcirc;-<tld/>on
+        <fnt>
+          <aut>A. Christie, trad. [O. Goldsmith]</aut>,
+          <vrk>Murdo en la Orienta Ekspreso</vrk>,
+          <lok>[1936?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">wagon-restaurant</trd>
+  <trd lng="pl">wagon restauracyjny</trd>
+</drv>
 </art>
 <!--
 $Log: vagon.xml,v $
+Revision 1.30  2013/09/08 19:10:41  revo
+Wolfram Diestel: ref al listo veturiloj
+
+Revision 1.29  2013/09/02 18:10:14  revo
+Vito Redsky: ald. trd pl
+
+Revision 1.28  2013/08/09 20:10:11  revo
+Jeromo Vasxe: + ekz
+
 Revision 1.27  2012/08/11 17:10:19  revo
 Marc Rausell: + trd ca
 
@@ -116,14 +154,5 @@ Revision 1.24  2005/03/31 16:32:01  revo
 Jeromo Vasxe: + mrk
 
 Revision 1.23 2003/09/25 16:31:54 revo
-Allon Rothfarb: +trd he
-
-Revision 1.22 2003/09/18 16:31:35 revo
-Yury Finkel: +trd zh
-
-Revision 1.21 2003/03/16 19:30:51 revo
-Miroslav Malovec: korekt cs
-
-Revision 1.20 2002/08/09 19:32:52 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hor.xml,v 1.38 2013/03/27 16:10:17 revo Exp $">
+<art mrk="$Id: hor.xml,v 1.39 2013/08/22 18:10:11 revo Exp $">
 <kap>
  <ofc>*</ofc>
  <rad>hor</rad>/o <fnt><bib>PV</bib></fnt>
@@ -72,6 +72,7 @@
        la <tld/>montra ombro de la sunhorlo&gcirc;o<fnt>Z</fnt>.
      </ekz>
    </dif>
+   <ref tip="lst" cel="dauxr.0o" lst="voko:da&ubreve;roj">da&ubreve;ro</ref>
    <trd lng="sv">timma</trd>
  </snc>
  <snc mrk="hor.0o.tagmomento">
@@ -326,6 +327,9 @@
 </art>
 <!--
 $Log: hor.xml,v $
+Revision 1.39  2013/08/22 18:10:11  revo
+Wolfram Diestel: referenco al listo dauroj
+
 Revision 1.38  2013/03/27 16:10:17  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -345,8 +349,5 @@ Revision 1.33  2006/09/18 16:31:10  revo
 Russ Williams: +trd en
 
 Revision 1.32  2006/04/03 16:31:55  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.31  2006/01/23 17:31:04  revo
 -->
 </vortaro>

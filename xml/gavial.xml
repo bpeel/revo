@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gavial.xml,v 1.14 2012/08/18 19:10:21 revo Exp $">
+<art mrk="$Id: gavial.xml,v 1.17 2013/10/26 09:10:18 revo Exp $">
 <kap>
   <rad>gavial</rad>/o
 </kap>
@@ -11,7 +11,14 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Genro el la familio <ref tip="super"
+      Granda <ref tip="lst" cel="reptil.0o"
+      lst="voko:krokodiluloj">reptilio</ref>
+      kun mallar&gcirc;a muzelo, vivanta en norda 
+      <ref tip="malprt" cel="hind.H0ujo">Hindujo</ref> kaj 
+      <ref tip="malprt" cel="nepal.N0o">Nepalo</ref>;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el la familio <ref
+      tip="malprt"
       cel="gavial1.0oj"><tld/>edoj</ref>
       (<trd lng="la">Gavialis</trd>).
     </dif>
@@ -33,6 +40,15 @@
 
 <!--
 $Log: gavial.xml,v $
+Revision 1.17  2013/10/26 09:10:18  revo
+Wolfram Diestel: ref al lst krokodiluloj
+
+Revision 1.16  2013/10/25 16:10:13  revo
+Wolfram Diestel: ref al lst reptilioj, prilaboris dif
+
+Revision 1.15  2013/09/01 15:10:29  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.14  2012/08/18 19:10:21  revo
 Marc Rausell: + trd ca
 
@@ -46,14 +62,5 @@ Revision 1.11  2002/07/05 17:33:34  revo
 Jozefo Horvath: kor. trd hu
 
 Revision 1.10  2002/07/02 17:32:02  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2001/10/08 18:14:17  revo
-Marc Bavant: +trd fr
-
-Revision 1.8  2001/05/23 18:11:24  revo
-Ulrich Fellmann: + 2 germ trdj
-
-Revision 1.7  2001/05/20 17:41:12  revo
 -->
 </vortaro>

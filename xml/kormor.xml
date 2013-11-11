@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kormor.xml,v 1.13 2008/04/21 16:46:34 revo Exp $">
+<art mrk="$Id: kormor.xml,v 1.14 2013/09/01 15:11:12 revo Exp $">
 <kap>
   <rad>kormoran</rad>/o
 </kap>
@@ -11,7 +11,9 @@
   <snc mrk="kormor.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Genro el familio <ref tip="super" cel="kormor1.0oj"><tld/>edoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="kormor1.0oj"><tld/>edoj</ref>
       (<trd lng="la">Phalacrocorax</trd>), sin nutranta per fi&scirc;oj:
       <ekz>
         en &Ccirc;inujo oni dresas <tld/>ojn al fi&scirc;kaptado.
@@ -43,6 +45,9 @@
 </art>
 <!--
 $Log: kormor.xml,v $
+Revision 1.14  2013/09/01 15:11:12  revo
+Wolfram Diestel: referenco al listo bot genroj
+
 Revision 1.13  2008/04/21 16:46:34  revo
 Miguel Hernandez: +trd es
 
@@ -62,8 +67,5 @@ Revision 1.8 2001/11/30 17:33:17 revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.7 2001/05/07 19:59:49 revo
-kormor.0edoj -> pormor1.0oj
-
-Revision 1.6 2001/05/07 19:58:09 revo
 -->
 </vortaro>

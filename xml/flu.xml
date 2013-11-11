@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: flu.xml,v 1.46 2013/07/07 04:10:18 revo Exp $">
+  <art mrk="$Id: flu.xml,v 1.47 2013/09/07 01:10:18 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>flu</rad>/i <fnt><bib>PV</bib></fnt>
@@ -29,7 +29,7 @@
         <trdgrp lng="pl">
           <trd>p&lstroke;yn&aogonek;&cacute;</trd>,
           <trd>sp&lstroke;ywa&cacute;</trd>,
-          <trd>scieka&cacute;</trd>
+          <trd>&sacute;cieka&cacute;</trd>
         </trdgrp>
       </snc>
       <snc mrk="flu.0i.amase">
@@ -217,7 +217,7 @@
             <ind><tld/>a akvo</ind>
             <trdgrp lng="pl">
               <trd><klr tip="ind">woda</klr> p&lstroke;yn&aogonek;ca</trd>,
-              <trd><klr tip="ind">woda</klr> bie&zdot;&aogonek;ca</trd>
+              <trd><klr tip="ind">woda</klr> bie&zdot;&aogonek;ca woda</trd>
             </trdgrp>.
           </ekz>
         </dif>
@@ -1080,6 +1080,9 @@
   </art>
   <!--
   $Log: flu.xml,v $
+  Revision 1.47  2013/09/07 01:10:18  revo
+  Vito Redsky: kor trd pl
+
   Revision 1.46  2013/07/07 04:10:18  revo
   Sergio Pokrovskij: +~a konsonanto
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: ulcer.xml,v 1.21 2013/05/30 19:10:09 revo Exp $">
+<art mrk="$Id: ulcer.xml,v 1.22 2013/10/09 20:10:27 revo Exp $">
    <kap>
      <ofc>*</ofc>
      <rad>ulcer</rad>/o
@@ -14,7 +14,8 @@
    <uzo tip="fak">MED</uzo>
    <snc>
      <dif>
-       Vundo de histo, kiu ne povas cikatri&gcirc;i:
+       <ref tip="lst" cel="vund.0o" lst="voko:malsanoj">Vundo</ref> de
+       histo, kiu ne povas cikatri&gcirc;i:
        <ekz><tld/>o de la stomako.</ekz>
      </dif>
    </snc>
@@ -47,6 +48,9 @@
 </art>
 <!--
 $Log: ulcer.xml,v $
+Revision 1.22  2013/10/09 20:10:27  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.21  2013/05/30 19:10:09  revo
 Joop Eggen: +trd bg
 
@@ -66,8 +70,5 @@ Revision 1.16  2007/06/19 16:30:56  revo
 Harri Laine: +trd fi
 
 Revision 1.15  2005/04/06 16:37:15  revo
-Alan ar Gall: +trd br
-
-Revision 1.14  2003/07/14 16:32:22  revo
 -->
 </vortaro>

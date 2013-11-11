@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: anatom.xml,v 1.22 2011/08/03 06:10:09 revo Exp $">
+<art mrk="$Id: anatom.xml,v 1.23 2013/09/22 19:10:35 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>anatomi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -14,7 +14,9 @@
     <uzo tip="fak">ANA</uzo>
     <uzo tip="fak">SCI</uzo>
     <dif>
-      <ref tip="super" cel="scienc.0o.fako">Scienco</ref> pri la
+      <ref tip="lst" cel="scienc.0o.fako"
+      lst="voko:sciencoj">Scienco</ref> 
+      pri la
       konsisto de korpoj de vivuloj, parto de <ref tip="malprt"
       cel="biolog1.0o.SCI">biologio</ref>.
     </dif>
@@ -77,6 +79,9 @@
 </art>
 <!--
 $Log: anatom.xml,v $
+Revision 1.23  2013/09/22 19:10:35  revo
+Wolfram Diestel: referenco al listo sciencoj
+
 Revision 1.22  2011/08/03 06:10:09  revo
 Jozefo Horvath: +trd hu
 
@@ -96,8 +101,5 @@ Revision 1.17  2007/04/24 16:30:29  revo
 Jeromo Vasxe: + ~isto
 
 Revision 1.16 2006/06/18 16:32:47 revo
-jxeromo vasxe: + fak ana sci, + tez
-
-Revision 1.15 2005/01/12 18:23:02 revo
 -->
 </vortaro>

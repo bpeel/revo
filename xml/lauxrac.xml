@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lauxrac.xml,v 1.6 2004/07/06 16:32:55 revo Exp $">
+<art mrk="$Id: lauxrac.xml,v 1.7 2013/08/25 16:10:46 revo Exp $">
 <kap>
   <rad>la&ubreve;rac</rad>/oj
 </kap>
@@ -13,7 +13,9 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Familio de <ref tip="super" cel="kotile.du0aj">dukotiledonaj</ref>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
       plantoj (<trd lng="la">Lauraceae</trd>).
     </dif>
   </snc>
@@ -29,6 +31,9 @@
 </art>
 <!--
 $Log: lauxrac.xml,v $
+Revision 1.7  2013/08/25 16:10:46  revo
+Wolfram Diestel: referencoj al listo bot familioj
+
 Revision 1.6  2004/07/06 16:32:55  revo
 Dmitri Gabinski: +trd be
 

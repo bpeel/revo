@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bronz.xml,v 1.21 2013/04/27 16:10:10 revo Exp $">
+<art mrk="$Id: bronz.xml,v 1.22 2013/09/14 09:10:52 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bronz</rad>/o <fnt><bib>PV</bib></fnt>
@@ -74,7 +74,8 @@
       <tld/>a koro <klr>(malmola kiel <tld/>o)</klr>;
     </ekz>
     <ekz>
-      <tld/>a viza&gcirc;o <klr>(<tld/>kolora)</klr>.
+      <tld/>a viza&gcirc;o <klr>(<tld/><ref tip="lst" cel="kolor.0o.propre"
+      lst="voko:koloroj">kolora</ref>)</klr>.
     </ekz>
   </dif>
   <trdgrp lng="fa">
@@ -162,6 +163,9 @@
 <!--
 
 $Log: bronz.xml,v $
+Revision 1.22  2013/09/14 09:10:52  revo
+Wolfram Diestel: ref al lst koloroj per ekz
+
 Revision 1.21  2013/04/27 16:10:10  revo
 Norbert Luckhardt: - malgxusta trd(de)
 
@@ -181,9 +185,6 @@ Revision 1.16  2005/12/26 19:19:56  revo
 H. Neal Parker: +trd en,es
 
 Revision 1.15  2005/03/06 17:32:58  revo
-Alan ar Gall: +trd br
-
-
 -->
 
 </vortaro>

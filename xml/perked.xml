@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: perked.xml,v 1.6 2011/12/07 20:10:13 revo Exp $">
+<art mrk="$Id: perked.xml,v 1.7 2013/08/31 14:10:40 revo Exp $">
 <kap>
   <rad>perked</rad>/oj
 </kap>
@@ -11,8 +11,9 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Familio el la ordo
-      <ref tip="super" cel="perk.0oformaj">perkoformaj</ref>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:zoologiaj_familioj">Familio</ref> el la ordo
+      <ref tip="malprt" cel="perk.0oformaj">perkoformaj</ref>
       fi&scirc;oj (<trd lng="la">Percidae</trd>).
     </dif>
   </snc>
@@ -28,6 +29,9 @@
 
 <!--
 $Log: perked.xml,v $
+Revision 1.7  2013/08/31 14:10:40  revo
+Wolfram Diestel: referenco al listo zoo familioj
+
 Revision 1.6  2011/12/07 20:10:13  revo
 Marc Rausell: kataluna traduko
 

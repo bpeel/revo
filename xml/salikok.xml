@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: salikok.xml,v 1.5 2009/10/01 16:30:40 revo Exp $">
+<art mrk="$Id: salikok.xml,v 1.6 2013/10/31 20:10:32 revo Exp $">
 <kap>
   <ofc>9</ofc>
   <rad>salikok</rad>/o
@@ -13,8 +13,8 @@
   <snc mrk="salikok.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Na&gcirc;a <ref tip="super" 
-      cel="krust.0uloj.ZOO">krustulo</ref> kun longa korpo 
+      Na&gcirc;a <ref tip="lst" cel="krust.0ulo"
+      lst="voko:krustuloj">krustulo</ref> kun longa korpo 
       kaj kiraso el sinsekvaj loboj:
       <ekz>
         movplena popolsvarmo elfluas el la fa&ubreve;koj de la
@@ -41,6 +41,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">Garnele</trd>
   <trd lng="en">shrimp</trd>
   <trd lng="fr">crevette</trd>
   <trd lng="it">gamberetto</trd>
@@ -51,6 +52,9 @@
 
 <!--
 $Log: salikok.xml,v $
+Revision 1.6  2013/10/31 20:10:32  revo
+Wolfram Diestel: ref al lst krustuloj, germ trd
+
 Revision 1.5  2009/10/01 16:30:40  revo
 Paul Peeraerts: +nl
 

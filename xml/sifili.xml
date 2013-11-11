@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sifili.xml,v 1.12 2012/11/06 15:10:11 revo Exp $">
+<art mrk="$Id: sifili.xml,v 1.13 2013/10/09 19:11:55 revo Exp $">
 <kap>
    <ofc>2</ofc>
    <rad>sifilis</rad>/o
@@ -12,7 +12,8 @@
    <uzo tip="fak">MED</uzo>
    <snc>
      <dif>
-       Infekta hereda seksa malsano.
+       Infekta hereda seksa <ref tip="lst" cel="san.mal0o.MED"
+       lst="voko:malsanoj">malsano</ref>.
      </dif>
    </snc>
    <trdgrp lng="be">
@@ -34,6 +35,9 @@
 </art>
 <!--
 $Log: sifili.xml,v $
+Revision 1.13  2013/10/09 19:11:55  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.12  2012/11/06 15:10:11  revo
 Wieland Pusch: +trd bg
 
@@ -53,8 +57,5 @@ Revision 1.7  2002/02/12 17:31:56  revo
 Yury Finkel: +trd ru, +uzo MED
 
 Revision 1.6 2001/09/08 19:10:56 revo
-Dennis Wibrow: +trd germ
-
-Revision 1.5 2001/02/17 20:33:08 revo
 -->
 </vortaro>

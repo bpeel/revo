@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: idiot.xml,v 1.20 2009/07/06 16:30:24 revo Exp $">
+<art mrk="$Id: idiot.xml,v 1.21 2013/10/09 19:11:06 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>idiot</rad>/o
@@ -60,7 +60,9 @@
   <snc mrk="idiot.0eco.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Malsano de <tld/>o <sncref ref="idiot.0o.MED"/>.
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsano</ref> de <tld/>o <sncref
+      ref="idiot.0o.MED"/>.
     </dif>
     <adm>
     Kontroli trd nl. La antauxa difino tekstis nur
@@ -118,6 +120,9 @@
 </art>
 <!--
 $Log: idiot.xml,v $
+Revision 1.21  2013/10/09 19:11:06  revo
+Wolfram Diestel: ref al lst malsanoj
+
 Revision 1.20  2009/07/06 16:30:24  revo
 Russ Williams: +trd en
 
@@ -137,8 +142,5 @@ Revision 1.15  2004/01/06 17:32:33  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.14  2003/12/09 17:30:44  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.13  2003/08/19 16:31:42  revo
 -->
 </vortaro>
