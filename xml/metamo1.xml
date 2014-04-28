@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: metamo1.xml,v 1.15 2012/07/15 10:10:33 revo Exp $">
+<art mrk="$Id: metamo1.xml,v 1.16 2014/04/12 14:10:29 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>metamorfoz</rad>/o
@@ -52,6 +52,7 @@
     <trd>metamorphosis</trd>,
     <trd>transformation</trd>
   </trdgrp>
+  <trd lng="fr">m&eacute;tamorphose</trd>
   <trdgrp lng="hu">
     <trd>metamorf&oacute;zis</trd>,
     <trd>&aacute;talakul&aacute;s</trd>
@@ -87,6 +88,7 @@
     <trd>umwandeln</trd>
   </trdgrp>
   <trd lng="en">transform</trd>
+  <trd lng="fr">m&eacute;tamorphoser</trd>
   <trd lng="nl">van <ind>gedaante</ind> doen veranderen</trd>
   <trd lng="hu">&aacute;talak&iacute;t</trd>
   <trdgrp lng="ru">
@@ -97,6 +99,9 @@
 </art>
 <!--
 $Log: metamo1.xml,v $
+Revision 1.16  2014/04/12 14:10:29  revo
+Damien Brucker: +trd fr
+
 Revision 1.15  2012/07/15 10:10:33  revo
 Marc Rausell: + trd ca
 
@@ -116,8 +121,5 @@ Revision 1.10  2003/05/25 17:02:54  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9  2002/01/11 17:33:49  revo
-Dennis Wibrow: +trd germ
-
-Revision 1.8  2001/12/05 19:09:42  revo
 -->
 </vortaro>

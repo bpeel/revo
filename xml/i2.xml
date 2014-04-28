@@ -2,14 +2,13 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: i2.xml,v 1.4 2014/01/03 10:10:11 revo Exp $">
+<art mrk="$Id: i2.xml,v 1.6 2014/04/12 07:10:32 revo Exp $">
 <kap>
     <ofc>*</ofc><rad>i</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="i2.0.vokalo">
   <kap><tld/></kap>
     <uzo tip="fak">LIN</uzo>
-    <uzo tip="fak">TIP</uzo>
     <uzo tip="fak">GRA</uzo>
     <uzo tip="fak">FON</uzo>
   <snc>    
@@ -77,8 +76,7 @@
 
 <drv mrk="i2.0.greka">
   <kap><tld/> greka</kap>
-    <snc>  
-    <uzo tip="fak">TIP</uzo>  
+    <snc>    
     <ref tip="dif" cel="ipsilon.0o">ipsilono</ref>
     </snc>
     <trd lng="fr">i grec</trd>
@@ -87,6 +85,12 @@
 
 <!--
 $Log: i2.xml,v $
+Revision 1.6  2014/04/12 07:10:32  revo
+Damien Brucker: aldono (dauxrigo)
+
+Revision 1.5  2014/04/10 16:10:33  revo
+Damien Brucker: fak
+
 Revision 1.4  2014/01/03 10:10:11  revo
 Damien Brucker: +jodo
 

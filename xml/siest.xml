@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: siest.xml,v 1.10 2004/10/11 16:34:08 revo Exp $">
+<art mrk="$Id: siest.xml,v 1.11 2014/04/12 14:10:24 revo Exp $">
 <kap>
   <rad>siest</rad>/o
   <fnt>B</fnt>
@@ -21,6 +21,7 @@
   </trdgrp>
   <trd lng="en">siesta</trd>
   <trd lng="es">siesta</trd>
+  <trd lng="fr">sieste</trd>
   <trd lng="hu">szieszta</trd>
   <trd lng="nl">si&euml;sta</trd>
   <trdgrp lng="ru">
@@ -31,6 +32,9 @@
 </art>
 <!--
 $Log: siest.xml,v $
+Revision 1.11  2014/04/12 14:10:24  revo
+Damien Brucker: +trd fr
+
 Revision 1.10  2004/10/11 16:34:08  revo
 Jozefo Horvath: +trd hu
 
@@ -50,8 +54,5 @@ Revision 1.5 2001/09/09 18:16:36 revo
 Dennis Wibrow: +trd germ
 
 Revision 1.4 2001/07/27 19:31:12 revo
-Paul Peeraerts: ald trd nl
-
 -->
 </vortaro>
-

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: deontologi.xml,v 1.2 2007/07/19 16:32:08 revo Exp $">
+<art mrk="$Id: deontologi.xml,v 1.3 2014/04/12 14:10:19 revo Exp $">
 <kap>
   <rad>deontologi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -17,7 +17,8 @@
       obsedas
       <fnt>
         <aut>LinguaForce</aut>,
-        <vrk><url ref="http://www.linguaforce.com/esperanto/traducteur.htm">
+        <vrk><url
+        ref="http://www.linguaforce.com/esperanto/traducteur.htm">
         Kiuj ni estas?</url></vrk>,
         <lok>2004</lok>
       </fnt>;
@@ -33,12 +34,16 @@
       </fnt>.
     </ekz>
   </snc>
+  <trd lng="fr">d&eacute;ontologie</trd>
   <trd lng="pt">deontologia</trd>
 </drv>
 </art>
 
 <!--
 $Log: deontologi.xml,v $
+Revision 1.3  2014/04/12 14:10:19  revo
+Damien Brucker: +trd fr
+
 Revision 1.2  2007/07/19 16:32:08  revo
 Tulio Flores: +tr pt
 

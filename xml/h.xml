@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: h.xml,v 1.10 2014/03/04 09:10:13 revo Exp $">
+<art mrk="$Id: h.xml,v 1.12 2014/04/12 07:10:30 revo Exp $">
 <kap>
     <ofc>*</ofc><rad>h</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -10,7 +10,6 @@
 <drv mrk="h.0.konsonanto">
   <kap><tld/></kap>
     <uzo tip="fak">LIN</uzo>
-    <uzo tip="fak">TIP</uzo>
     <uzo tip="fak">GRA</uzo>
     <uzo tip="fak">FON</uzo>
   <snc>    
@@ -79,9 +78,7 @@
 <subart>
 <drv mrk="h.0o.nomo">
   <kap><tld/>o</kap>
-  <snc>
-    <uzo tip="fak">GRA</uzo>
-    <uzo tip="fak">FON</uzo>    
+  <snc>  
     <dif>
       Nomo de tiuj <ref tip="dif" cel="fonem.0o">fonemo</ref> kaj
       grafemo.    
@@ -94,6 +91,12 @@
 
 <!--
 $Log: h.xml,v $
+Revision 1.12  2014/04/12 07:10:30  revo
+Damien Brucker: aldono (dauxrigo)
+
+Revision 1.11  2014/04/10 16:10:32  revo
+Damien Brucker: fak
+
 Revision 1.10  2014/03/04 09:10:13  revo
 Damien Brucker: Aldono al la rim
 
@@ -110,11 +113,5 @@ Revision 1.6  2013/12/30 12:10:12  revo
 Damien Brucker: aldono
 
 Revision 1.5  2013/12/28 16:10:15  revo
-Damien Brucker: +trd fr
-
-Revision 1.4  2013/12/28 14:10:18  revo
-Damien Brucker: -tajperaro
-
-Revision 1.3  2013/12/27 21:10:23  revo
 -->
 </vortaro>

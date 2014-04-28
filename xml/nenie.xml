@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nenie.xml,v 1.18 2012/01/04 09:10:10 revo Exp $">
+<art mrk="$Id: nenie.xml,v 1.19 2014/04/12 14:10:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nenie</rad>
@@ -43,6 +43,7 @@
     <trd>en ninguna <ind>parte</ind></trd>,
     <trd>en ning&uacute;n <ind>lugar</ind></trd>
   </trdgrp>
+  <trd lng="fr">nulle part</trd>
   <trd lng="hu">sehol</trd>
   <trd lng="nl">nergens</trd>
   <trdgrp lng="pt">
@@ -55,6 +56,9 @@
 </art>
 <!--
 $Log: nenie.xml,v $
+Revision 1.19  2014/04/12 14:10:34  revo
+Damien Brucker: +trd fr
+
 Revision 1.18  2012/01/04 09:10:10  revo
 Marc Rausell: +trd ca
 
@@ -74,8 +78,5 @@ Revision 1.13  2002/06/09 11:02:42  revo
 Eduardo M. Kalinowski: kor trd el, kiu aperis kvazaux pt
 
 Revision 1.12  2002/06/08 17:32:36  revo
-Eduardo M. Kalinowski: ald trd el
-
-Revision 1.11  2001/12/24 19:28:31  revo
 -->
 </vortaro>

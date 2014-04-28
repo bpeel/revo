@@ -2,14 +2,13 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: o1.xml,v 1.3 2013/12/30 11:10:12 revo Exp $">
+<art mrk="$Id: o1.xml,v 1.5 2014/04/12 07:10:39 revo Exp $">
 <kap>
     <ofc>*</ofc><rad>o</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="o1.0.vokalo">
   <kap><tld/></kap>
     <uzo tip="fak">LIN</uzo>
-    <uzo tip="fak">TIP</uzo>
     <uzo tip="fak">GRA</uzo>
     <uzo tip="fak">FON</uzo>
   <snc>    
@@ -51,6 +50,12 @@
 
 <!--
 $Log: o1.xml,v $
+Revision 1.5  2014/04/12 07:10:39  revo
+Damien Brucker: aldono (dauxrigo)
+
+Revision 1.4  2014/04/10 16:10:40  revo
+Damien Brucker: fak
+
 Revision 1.3  2013/12/30 11:10:12  revo
 Damien Brucker: -tajperaro
 

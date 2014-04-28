@@ -2,13 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: retro.xml,v 1.13 2013/10/10 12:10:12 revo Exp $">
+  <art mrk="$Id: retro.xml,v 1.14 2014/04/13 16:10:13 revo Exp $">
     <kap>
       <rad>retro</rad>
     </kap>
-
     <drv mrk="retro.0">
       <kap><tld/>-</kap>
+      <gra><vspec>prefikso</vspec></gra>
+      <uzo tip="stl">RAR</uzo>
       <snc>
         <dif>
           Neoficiala <ref tip="malprt"
@@ -84,7 +85,7 @@
               <bib>Monato</bib>
             </fnt>;
           </ekz><ekz>
-            &dash; Plenan po&scirc;on da &scirc;an&gcirc;mono mi havas! &dash; blekegis
+            &#8208; Plenan po&scirc;on da &scirc;an&gcirc;mono mi havas! &#8208; blekegis
             la &scirc;oforo, kaj Lasto&ccirc;kin vidis en la <tld/>spegulo
             liajn sango&scirc;velajn okulojn
             <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 17a</lok></fnt>.
@@ -100,6 +101,9 @@
   </art>
   <!--
   $Log: retro.xml,v $
+  Revision 1.14  2014/04/13 16:10:13  revo
+  Damien Brucker: +slt
+
   Revision 1.13  2013/10/10 12:10:12  revo
   Damien Brucker: -tajperaro +ref
 

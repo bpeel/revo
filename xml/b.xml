@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: b.xml,v 1.4 2013/12/30 10:10:18 revo Exp $">
+<art mrk="$Id: b.xml,v 1.6 2014/04/12 07:10:22 revo Exp $">
 <kap>
     <ofc>*</ofc><rad>b</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -10,7 +10,6 @@
 <drv mrk="b.0.konsonanto">
   <kap><tld/></kap>
     <uzo tip="fak">LIN</uzo>
-    <uzo tip="fak">TIP</uzo>
     <uzo tip="fak">GRA</uzo>
     <uzo tip="fak">FON</uzo>
   <snc>    
@@ -57,9 +56,7 @@
 <subart>
 <drv mrk="b.0.nomo">
   <kap><tld/>o</kap>
-  <snc>
-    <uzo tip="fak">GRA</uzo>
-    <uzo tip="fak">FON</uzo>    
+  <snc> 
     <dif>
       Nomo de tiuj <ref tip="dif" cel="fonem.0o">fonemo</ref> kaj
       grafemo.    
@@ -72,6 +69,12 @@
 
 <!--
 $Log: b.xml,v $
+Revision 1.6  2014/04/12 07:10:22  revo
+Damien Brucker: aldono (dauxrigo)
+
+Revision 1.5  2014/04/10 16:10:24  revo
+Damien Brucker: fak
+
 Revision 1.4  2013/12/30 10:10:18  revo
 Damien Brucker: aldono
 
