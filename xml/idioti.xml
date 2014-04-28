@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: idioti.xml,v 1.14 2006/01/08 17:31:31 revo Exp $">
+<art mrk="$Id: idioti.xml,v 1.17 2014/03/21 14:10:22 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>idiotism</rad>/o
@@ -12,15 +12,28 @@
   <snc mrk="idioti.0o.LIN">
     <uzo tip="fak">LIN</uzo>
     <dif>
-      Vorta&jcirc;o kun senco ne facile komprenebla el &gcirc;iaj partoj, ofte propra
+      Vorta&jcirc;o kun senco ne facile komprenebla el &gcirc;iaj partoj, ofte
+      propra
       al iu lingvo:
       <ekz>
         anka&ubreve; en Esperanto trovi&gcirc;as diversaj nemultaj
         <tld/>oj<fnt>Z</fnt>;
       </ekz>
       <ekz>
-        lingvo absolute logika kaj tute sen <tld/>oj estus lingvo senviva
-        kaj tro peza<fnt>Z</fnt>.
+        lingvo absolute logika kaj tute sen <tld/>oj estus lingvo
+        senviva
+        kaj tro peza<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+      mi esperas, ke iom post iom &ccirc;iuj <tld/>oj malaperos kaj cedos sian
+      lokon al esprimoj tute logikaj kaj internaciaj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+      [...] en okazo, se ni por ia <tld/>o ne trovos pli bonan esprimon
+      pure logikan, tio &ccirc;i ne devas nin &ccirc;agreni, kaj la <tld/>o povas
+      tute oportune resti kiel <ref tip="dif"
+      cel="espera.0ismo.LIN">esperantismo</ref>,
+      se &gcirc;i nur estos komune akceptata<fnt>Z</fnt>.
       </ekz>
     </dif>
   </snc>
@@ -59,6 +72,15 @@
 </art>
 <!--
 $Log: idioti.xml,v $
+Revision 1.17  2014/03/21 14:10:22  revo
+Damien Brucker: +ekz (dauxrigo)
+
+Revision 1.16  2014/02/24 19:10:12  revo
+Damien Brucker: +ref
+
+Revision 1.15  2014/02/22 20:10:11  revo
+Damien Brucker: +ekz
+
 Revision 1.14  2006/01/08 17:31:31  revo
 Jeromo Vasxe: preciz. dif
 
@@ -72,14 +94,5 @@ Revision 1.11 2004/01/19 17:31:05 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.10 2004/01/10 17:31:01 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9 2002/01/23 17:32:59 revo
-Marc Bavant: +trd fr, +uzo LIN
-
-Revision 1.8 2001/11/07 19:19:22 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.7 2001/09/03 18:13:13 revo
 -->
 </vortaro>

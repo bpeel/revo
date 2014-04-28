@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fusx.xml,v 1.17 2012/10/23 00:11:16 revo Exp $">
+<art mrk="$Id: fusx.xml,v 1.18 2014/01/16 17:10:19 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>fu&scirc;</rad>/i</kap>
 <drv mrk="fusx.0i">
@@ -63,6 +63,10 @@
     <trd>bungle</trd>,
     <trd>botch</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>hacer mal</trd>,
+    <trd>hacer chapuceramente</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>b&acirc;cler</trd>,
     <trd>bousiller<klr tip="ind"> (g&acirc;cher)</klr></trd>,
@@ -113,6 +117,7 @@
     <trd>&c_p;&c_r;&c_o;&c_m;&c_a;&c_h;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_m;&c_a;&c_sh;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="es">chapuza</trd>
   <trdgrp lng="fr">
     <trd>b&eacute;vue</trd>,
     <trd>g&acirc;chis</trd>,
@@ -272,6 +277,9 @@
 </art>
 <!--
 $Log: fusx.xml,v $
+Revision 1.18  2014/01/16 17:10:19  revo
+Guillermo Molleda Jimena: Hispana tradukado
+
 Revision 1.17  2012/10/23 00:11:16  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -291,8 +299,5 @@ Revision 1.12  2003/10/21 16:30:50  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.11  2003/09/19 16:30:47  revo
-Yury Finkel: +trd ru
-
-Revision 1.10  2002/03/11 17:32:57  revo
 -->
 </vortaro>

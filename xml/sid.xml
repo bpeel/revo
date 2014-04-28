@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sid.xml,v 1.25 2013/10/08 17:10:10 revo Exp $">
+<art mrk="$Id: sid.xml,v 1.27 2013/12/08 20:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sid</rad>/i <fnt><bib>PV</bib></fnt>
@@ -229,12 +229,20 @@
   <kap><ofc>*</ofc><tld/>i&gcirc;i</kap>
   <snc mrk="sid.0igxi.MOV">
     <ref tip="dif" cel="sid.ek0i.MOV">eksidi</ref>
+    <dif>
     <ekz>
       <ind><tld/>i&gcirc;u</ind>, sinjoro
       <trd lng="hu">&uuml;lj&ouml;n le</trd>
       <trd lng="ru">&c_s;&c_a;&c_d;&c_i;&c_t;&c_je;&c_s;&c_mol;</trd>
       <fnt><bib>F</bib>, <lok>&FE; 39</lok></fnt>.
     </ekz>
+    </dif>
+    <rim> Z. konsilas, ke <ctl> anstata&ubreve; "<tld/>i&gcirc;u" estus pli bone diri
+    "<tld/>igu vin" a&ubreve; "ek<tld/>u" tamen &ccirc;ar la formo "<tld/>i&gcirc;u" jam de
+    tre longe estas uzata preska&ubreve; de &ccirc;iuj Esperantistoj, tial &gcirc;i fari&gcirc;is
+    jam "esperantismo" kaj nomi &gcirc;in eraro oni jam ne
+    povas</ctl><fnt><bib>LR</bib></fnt>.    
+    </rim>
   </snc>
   <trd lng="ca"><ind>seure</ind>'s</trd>
   <trd lng="de"><klr>sich </klr>setzen</trd>
@@ -482,6 +490,12 @@
 </art>
 <!--
 $Log: sid.xml,v $
+Revision 1.27  2013/12/08 20:10:10  revo
+Damien Brucker: -tajperaro
+
+Revision 1.26  2013/12/08 11:10:12  revo
+Damien Brucker: +rim
+
 Revision 1.25  2013/10/08 17:10:10  revo
 Benito Subejrano: + trd ca oc
 
@@ -498,11 +512,5 @@ Revision 1.21  2010/03/07 17:30:16  revo
  Evandro Avellar: klarigo de la sxangxo
 
 Revision 1.20  2005/05/19 16:31:51  revo
-Vito Redsky: +trd pl
-
-Revision 1.19  2005/05/17 16:32:32  revo
-Yury Finkel: +trd ru
-
-Revision 1.18  2004/10/11 16:34:04  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stup.xml,v 1.11 2011/04/01 13:10:10 revo Exp $">
+<art mrk="$Id: stup.xml,v 1.12 2014/01/14 14:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>stup</rad>/o
@@ -27,6 +27,9 @@
     <trd>tow<klr tip="amb"> (fiber)</klr></trd>,
     <trd>oakum</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>estopa</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>csep&udblac;</trd>, 
     <trd>k&oacute;c</trd> 
@@ -41,6 +44,9 @@
 </art>
 <!--
 $Log: stup.xml,v $
+Revision 1.12  2014/01/14 14:10:15  revo
+Manuel Pancorbo: aldono hispanan tradukon
+
 Revision 1.11  2011/04/01 13:10:10  revo
 Russ Williams: +trd en
 
@@ -60,7 +66,5 @@ Revision 1.6  2002/02/23 19:55:22  revo
 Yury Finkel: +trd ru
 
 Revision 1.5 2001/08/27 18:13:09 revo
-Paul Peeraerts: ald trd nl
-
 -->
 </vortaro>

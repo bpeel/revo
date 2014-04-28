@@ -2,21 +2,22 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ist.xml,v 1.19 2007/04/20 16:31:38 revo Exp $">
+<art mrk="$Id: ist.xml,v 1.22 2014/03/20 18:10:16 revo Exp $">
 <kap>
 <ofc>*</ofc>
--<rad>ist</rad>
+-<rad>ist</rad>/
 </kap>
 <drv mrk="ist.0">
   <kap>
-  <ofc>*</ofc> -<tld/>
+  -<tld/>
   </kap>
   <dif>
     Sufikso esprimanta:
   </dif>
   <snc mrk="ist.0.okupa">
     <dif>
-      <ref tip="super" cel="person.0o.homo">Personon</ref>, kiu profesie, da&ubreve;re, 
+      <ref tip="super" cel="person.0o.homo">Personon</ref>, kiu
+      profesie, da&ubreve;re, 
       prefere a&ubreve; ofte sin okupas pri la afero difinita de la radiko:
       <ekz>
         dent<tld/>o
@@ -54,6 +55,19 @@
         <fnt><bib>PrV</bib></fnt>
       </ekz>
     </dif>
+    <rim>
+    Ekzistas multaj simplaj vortoj por profesiuloj ks. Al tia vorto, kiu
+    jam per si mem montras personon, oni ne aldonu -<tld/>/: kirurgo,
+    astronomo, ekologo, diplomato, gimnasto, &scirc;oforo, barbiro, studento,
+    kelnero, aktoro, mimo, generalo, soldato, kuratoro, profesoro ktp.
+Oni do nepre ne diru *kirurg<tld/>o*, *astronom<tld/>o*, *ekolog<tld/>o*
+ktp. Sed en multaj okazoj oni povas tamen per la sufikso -<tld/>/ krei
+paralelan vorton por tia persono, se ekzistas aparta vorto por tio, pri
+kio li okupi&gcirc;as:<ekz> kirurgio &#8594; kirurgiisto = kirurgo; astronomio &#8594;
+astronomiisto = astronomo; ekologio &#8594; ekologiisto = ekologo; diplomatio
+&#8594; diplomatiisto = diplomato</ekz>
+    <fnt><bib>PMEG</bib></fnt>.
+    </rim>
     <trdgrp lng="hu">
       <trd>-<ind>&aacute;sz</ind> <klr tip="ind">(foglakoz&aacute;sk&eacute;pz&odblac;)</klr></trd>,
       <trd>-<ind>&eacute;sz</ind> <klr tip="ind">(foglakoz&aacute;sk&eacute;pz&odblac;)</klr></trd>,
@@ -91,21 +105,26 @@
       Tamen kiam amba&ubreve; formoj ekzistas, la <tld/>-formo povas
       esprimi pli aktivan, militantan nuancon; kp
       <ekz>
-        <ref cel="islam.0ano">islamano</ref> &dash;
+        <ref cel="islam.0ano">islamano</ref> &#8208;
         <ref cel="islam.0isto">islam<tld/>o</ref>;
       </ekz>
       <ekz>
-        <ref cel="naci.0ano">naciano</ref> &dash;
+        <ref cel="naci.0ano">naciano</ref> &#8208;
         <ref cel="naci.0isto">naci<tld/>o</ref>;
       </ekz>
       <ekz>
-        <ref cel="respub.0o.sxtatano">respublikano</ref> &dash;
+        <ref cel="respub.0o.sxtatano">respublikano</ref> &#8208;
         <ref cel="respub.0isto">respublk<tld/>o</ref>.
       </ekz>
     </rim>
   </snc>
   <trd lng="be">-<ind>&c_ib;&c_s;&c_t;</ind></trd>
   <trd lng="de"><klr>-</klr>ist</trd>
+  <trdgrp lng="fr">
+  <trd>-eur</trd>,
+  <trd>-ate</trd>,
+  <trd>-iste</trd>
+  </trdgrp>
     <trdgrp lng="hu">
       <trd>-<ind>&aacute;nus</ind> <klr tip="ind">(h&iacute;ve)</klr></trd>,
       <trd>-<ind>ista</ind> <klr tip="ind">(h&iacute;ve)</klr></trd>
@@ -117,6 +136,15 @@
 </art>
 <!--
 $Log: ist.xml,v $
+Revision 1.22  2014/03/20 18:10:16  revo
+Damien Brucker: -ofc cxe drv
+
+Revision 1.21  2014/02/19 09:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.20  2013/12/29 09:10:13  revo
+Damien Brucker: +rim
+
 Revision 1.19  2007/04/20 16:31:38  revo
 Tulio Flores: +tr pt
 
@@ -130,15 +158,5 @@ Revision 1.16  2003/04/08 16:32:50  revo
 Sergio Pokrovskij: rim-mrk
 
 Revision 1.15  2003/03/05 17:37:18  revo
-Ulrich Fellmann: + 1 trd = vo
-
-Revision 1.14  2003/01/14 17:33:04  revo
-Wolfram Diestel: ref al persono
-
-Revision 1.13  2002/07/11 17:34:06  revo
-Ulrich Fellmann: ort kor en germ trd
-
-Revision 1.12  2002/01/11 19:09:23  revo
 -->
 </vortaro>
-

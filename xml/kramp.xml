@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kramp.xml,v 1.21 2013/10/02 10:10:10 revo Exp $">
+<art mrk="$Id: kramp.xml,v 1.25 2013/12/16 11:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kramp</rad>/o <fnt><bib>PV</bib></fnt>
@@ -105,13 +105,19 @@
   <snc mrk="kramp.0o.TIP">
     <uzo tip="fak">TIP</uzo>
     <uzo tip="fak">MAT</uzo>
+    <uzo tip="fak">GRA</uzo>
     <dif>
       <ref tip="malprt" cel="interp3.0o">Interpunkcia</ref>
-      <ref tip="super" cel="sign.0o.KOMP">signo</ref> montranta
+      <ref tip="super" cel="sign.0o.KOMP">signo</ref>, a&ubreve; <ref tip="dif"
+      cel="kramp.rekta0o">rekta []</ref> a&ubreve;
+      <ref tip="dif" cel="kramp.ronda0o">ronda ()</ref> a&ubreve; <ref
+      tip="dif" cel="kramp.angula0o">angula
+      &lt;&gt;</ref> a&ubreve; <ref tip="dif" cel="kramp.kuniga0o">kuniga
+      {}</ref>, montranta
       komencon kaj finon de <ref
       cel="parent.0o.subfrazo">parentezo</ref>:
       <ekz>
-	kelkaj vortoj estas enbrakitaj de <tld/>oj..
+	kelkaj vortoj estas enbrakitaj de <tld/>oj.
       </ekz>
     </dif>
     <trd lng="be">&c_d;&c_u;&c_zh;&c_k;&c_a;</trd>
@@ -148,6 +154,7 @@
     <trd lng="de">klammern</trd>
     <trd lng="en">clamp</trd>
     <trd lng="es">grapar</trd>
+    <trd lng="fr">agrafer</trd>
     <trd lng="ca">grapar</trd>
     <trdgrp lng="hu">
       <trd>&ouml;sszekapcsol</trd>,
@@ -230,10 +237,11 @@
 
 <drv mrk="kramp.angula0o">
   <kap>angula <tld/>o</kap>
+    <snc>
   <uzo tip="fak">TIP</uzo>
   <uzo tip="fak">MAT</uzo>
   <uzo tip="fak">KOMP</uzo>
-  <snc>
+  <uzo tip="fak">GRA</uzo>
     <dif>
       Unu el du tipografiaj signoj &lt; &gt;, kun du linioj,
       kiu montras komencon kaj finon de grupo, speciale de parentezo.
@@ -249,9 +257,10 @@
 
 <drv mrk="kramp.kuniga0o">
   <kap>kuniga <tld/>o</kap>
-  <uzo tip="fak">TIP</uzo>
-  <uzo tip="fak">MAT</uzo>
-  <snc mrk="kramp.kuniga0o.eksterlinia">
+    <snc mrk="kramp.kuniga0o.eksterlinia">
+    <uzo tip="fak">TIP</uzo>
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="fak">GRA</uzo>
     <dif>
       Unu el du tipografiaj signoj { }, kun duobla kurbo, kiu servas por
       vertikale kunigi plurajn tekstajn liniojn.
@@ -280,6 +289,7 @@
     <trd>curly bracket</trd>,
     <trd>curly brace</trd>
   </trdgrp>
+  <trd lng="fr">accolade</trd>
   <trdgrp lng="hu">
     <trd>kapcsos <ind>z&aacute;r&oacute;jel</ind></trd>,
     <trd>kapcsol&oacute;jel</trd>
@@ -291,9 +301,10 @@
 
 <drv mrk="kramp.rekta0o">
   <kap>rekta <tld/>o, <var><kap>kvadrata <tld/>o</kap></var></kap>
-  <uzo tip="fak">TIP</uzo>
-  <uzo tip="fak">MAT</uzo>
-  <snc>
+    <snc>
+    <uzo tip="fak">TIP</uzo>
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="fak">GRA</uzo>
     <dif>
       Unu el du tipografiaj signoj [ ], kun vertikala linio kaj du
       horizontalaj linietoj je ekstremoj,
@@ -305,14 +316,16 @@
     <trd>square bracket</trd>,
     <trd>bracket</trd>
   </trdgrp>
+  <trd lng="fr">crochet</trd>
   <trd lng="pl">nawias kwadratowy</trd>
 </drv>
 
 <drv mrk="kramp.ronda0o">
   <kap>ronda <tld/>o</kap>
-  <uzo tip="fak">TIP</uzo>
-  <uzo tip="fak">MAT</uzo>
-  <snc>
+    <snc>
+    <uzo tip="fak">TIP</uzo>
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="fak">GRA</uzo>
     <dif>
       Unu el du kurbaj tipografiaj signoj ( ),
       kiu montras komencon kaj finon de grupo, speciale de parentezo.
@@ -323,11 +336,24 @@
     <trd>parenthesis</trd>,
     <trd>round bracket</trd>
   </trdgrp>
+  <trd lng="fr">parenth&egrave;se</trd>
   <trd lng="pl">nawias okr&aogonek;g&lstroke;y</trd>
 </drv>
 </art>
 <!--
 $Log: kramp.xml,v $
+Revision 1.25  2013/12/16 11:10:23  revo
+Damien Brucker: +ref
+
+Revision 1.24  2013/12/09 16:10:15  revo
+Damien Brucker: +fak
+
+Revision 1.23  2013/12/04 15:10:16  revo
+Damien Brucker: +trd fr
+
+Revision 1.22  2013/12/04 08:10:17  revo
+Damien Brucker: -tajperaro
+
 Revision 1.21  2013/10/02 10:10:10  revo
 Sebastian Cyprych: +trd pl
 

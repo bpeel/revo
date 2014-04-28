@@ -2,18 +2,17 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: an.xml,v 1.24 2013/10/31 16:10:12 revo Exp $">
+  <art mrk="$Id: an.xml,v 1.28 2014/02/05 10:10:15 revo Exp $">
     <kap><ofc>*</ofc>-<rad>an</rad>/</kap>
- 
-    <subart>
-    <dif>
-	Sufikso signifanta membron de grupo:  
-    </dif>
+     <subart>
     <drv mrk="an.0">
     <kap>-<tld/></kap>
-    <snc>
+    <dif>
+	Sufikso signifanta membron de:  
+    </dif>
+    <snc mrk="an.0.grupo">
        <dif>
-          kiun la anta&ubreve;metita
+          grupo, kiun la anta&ubreve;metita
 	radikalo indikas rekte (la radikalo indikas grupon):
 	<ekz>
 	  akademi<tld/>o, komitat<tld/>o, &scirc;tat<tld/>o, famili<tld/>o,
@@ -56,14 +55,41 @@
 	ktp.  Tio estas pia memtrompo.
 	<aut>Sergio Pokrovskij</aut>
       </rim>
-      </snc>
       <trdgrp lng="de">
 	<trd><klr>-</klr>aner</trd>,
 	<trd><klr>-</klr>er</trd>
       </trdgrp>
       <trd lng="vo">-an</trd>
-      </drv>
-    </subart>
+      </snc>
+      
+  <snc mrk="an.0.lando">
+    <dif>
+      lando, kies radikalo havas landan signifon. La aldonita sufikso
+      -<tld/> formas nomon de la land<tld/>oj, la&ubreve; la sistemo
+      <ctl>Lando-land<tld/>o</ctl>:<ekz> Kanado-kanad<tld/>o;
+      A&ubreve;stralio-a&ubreve;strali<tld/>o; Al&gcirc;erio-al&gcirc;eri<tld/>o;
+      Irlando-irland<tld/>o;
+      Sud-Afriko - sud-afrik<tld/>o; Pakistano-pakistan<tld/>o</ekz>.
+      </dif>
+      <ref tip="vid" cel="land.0nomo">landnomo</ref>
+  </snc>
+  <trdgrp lng="fr">
+      <trd>-ien</trd>,
+      <trd>-and</trd>,
+      <trd>-ais</trd>,
+      <trd>-ol</trd>,
+      <trd>-ois</trd>,
+      <trd>-in</trd>,
+      <trd>-ain</trd>,
+      <trd>-ard</trd>,
+      <trd>-en</trd>,
+      <trd>-an</trd>,
+      <trd>-ant</trd>,
+      <trd>-ier</trd>,
+      <trd>-iste</trd>,
+    </trdgrp>
+  </drv>
+  </subart>
    
    <subart>
      <dif>
@@ -172,8 +198,21 @@
   </art>
   <!--
   $Log: an.xml,v $
+  Revision 1.28  2014/02/05 10:10:15  revo
+  Damien Brucker: +kap
+
+  Revision 1.27  2014/02/04 11:10:15  revo
+  Damien Brucker: +ref
+
+  Revision 1.26  2013/12/16 15:10:12  revo
+  Damien Brucker: +trd fr
+
+  Revision 1.25  2013/11/10 20:10:11  revo
+  Damien Brucker: Aldono de -an/ por landnomoj
+
   Revision 1.24  2013/10/31 16:10:12  revo
-  Wolfram Diestel: forigis / por subteni sercxilon, iom (re)plibonigis la strukturon
+  Wolfram Diestel: forigis / por subteni sercxilon, iom (re)plibonigis
+  la strukturon
 
   Revision 1.23  2013/10/28 09:10:10  revo
   Damien Brucker: dauxrigo: sxangxo por la sercxilo

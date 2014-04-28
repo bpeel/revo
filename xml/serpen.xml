@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: serpen.xml,v 1.22 2013/08/25 08:10:49 revo Exp $">
+<art mrk="$Id: serpen.xml,v 1.23 2014/02/08 18:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>serpent</rad>/o <fnt><bib>PV</bib></fnt>
@@ -50,7 +50,7 @@
     <trd>serpent</trd>,
     <trd>snake</trd>
   </trdgrp>
-  <trd lng="es">serpiente, culebra</trd>
+  <trd lng="es">serpiente</trd>
   <trd lng="fr">serpent</trd>
   <trd lng="hu">k&iacute;gy&oacute;</trd>  
   <trd lng="it">serpente</trd>
@@ -258,6 +258,9 @@
 </art>
 <!--
 $Log: serpen.xml,v $
+Revision 1.23  2014/02/08 18:10:21  revo
+Carlos Garcia: korektado es -o
+
 Revision 1.22  2013/08/25 08:10:49  revo
 Wolfram Diestel: referenco al listo stelfiguroj
 
@@ -277,8 +280,5 @@ Revision 1.17  2010/05/12 16:30:22  revo
 Agustin Garcia Lopez: +trd es
 
 Revision 1.16  2009/02/15 14:18:52  revo
-Russ Williams: +trd en
-
-Revision 1.15  2004/10/08 16:32:07  revo
 -->
 </vortaro>

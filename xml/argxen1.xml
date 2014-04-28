@@ -2,14 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: argxen1.xml,v 1.9 2002/10/29 18:00:51 revo Exp $">
+<art mrk="$Id: argxen1.xml,v 1.10 2013/12/31 19:10:13 revo Exp $">
 <kap>
-  <rad>ar&gcirc;entan</rad>/o
+  <rad>ar&gcirc;entan</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="argxen1.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">KEM</uzo>
-  <snc>
+  <snc mrk="argxen1.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
     <dif>
       Alojo el kupro, nikelo kaj zinko, imitanta ar&gcirc;enton.
     </dif>
@@ -23,7 +23,11 @@
     <trd>argentan</trd>,
     <trd>German <ind>silver</ind></trd>
   </trdgrp>
-  <trd lng="fr">argentan</trd>
+  <trdgrp lng="fr">
+    <trd>alpaca</trd>,
+    <trd>argentan</trd>,
+    <trd>maillechort</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>&uacute;jez&uuml;st</trd>,
     <trd>argent&aacute;n</trd>
@@ -37,6 +41,9 @@
 </art>
 <!--
 $Log: argxen1.xml,v $
+Revision 1.10  2013/12/31 19:10:13  revo
+Jeromo Vasxe: + 2 trd fr
+
 Revision 1.9  2002/10/29 18:00:51  revo
 Christopher Zervic: + ang
 
@@ -57,4 +64,3 @@ Marc Bavant: aldono de franca traduko, precizigo de difino
 
 -->
 </vortaro>
-

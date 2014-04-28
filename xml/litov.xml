@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: litov.xml,v 1.7 2011/12/03 21:10:17 revo Exp $">
+<art mrk="$Id: litov.xml,v 1.8 2013/12/22 09:10:12 revo Exp $">
 <kap>
   <rad>litov</rad>/o
 </kap>
@@ -17,7 +17,7 @@
   </snc>
   <trd lng="ca">litu&agrave; <klr>(subst.)</klr></trd>
   <trd lng="en">Lithuanian</trd>
-  <trd lng="fr">Lituanien</trd>
+  <trd lng="fr">Lituanien<klr> (subst.)</klr></trd>
   <trd lng="nl">Litouwer</trd>
   <trd lng="pt">lituano <klr tip="ind"> (subst.)</klr></trd>
 </drv>
@@ -30,6 +30,7 @@
     </dif>
   </snc>
   <trd lng="ca">litu&agrave; <klr>(adj.)</klr></trd>
+  <trd lng="fr">lituanien<klr> (adj.)</klr></trd>
   <trd lng="pt">lituano <klr tip="ind"> (adj.)</klr></trd>
 </drv>
 
@@ -78,6 +79,9 @@
 
 <!--
 $Log: litov.xml,v $
+Revision 1.8  2013/12/22 09:10:12  revo
+Damien Brucker: +trd fr
+
 Revision 1.7  2011/12/03 21:10:17  revo
 Marc Rausell: kataluna traduko
 
@@ -97,7 +101,5 @@ Revision 1.2  2009/06/19 05:09:21  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.1  2009/05/07 16:31:01  revo
-Sebastian Cyprych: nova artikolo
-
 -->
 </vortaro>

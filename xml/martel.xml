@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: martel.xml,v 1.22 2013/04/04 19:10:23 revo Exp $">
+<art mrk="$Id: martel.xml,v 1.23 2013/12/02 11:10:20 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>martel</rad>/o
@@ -131,6 +131,7 @@
     <trd>Presslufthammer</trd>
   </trdgrp>
   <trd lng="en">jackhammer</trd>
+  <trd lng="fr">marteau pneumatique</trd>
   <trd lng="it"><ind>martello</ind> pneumatico</trd>
   <trd lng="fa">&f_ch;&f_k;&a_sh; &a_b;&a_A;&a_d;&f_y;</trd>
   <trd lng="pl">m&lstroke;ot pneumatyczny</trd>
@@ -138,6 +139,9 @@
 </art>
 <!--
 $Log: martel.xml,v $
+Revision 1.23  2013/12/02 11:10:20  revo
+Damien Brucker: +trd fr
+
 Revision 1.22  2013/04/04 19:10:23  revo
 Sebastian Cyprych: +trd pl
 
@@ -157,8 +161,5 @@ Revision 1.17  2009/02/11 19:42:16  revo
 Wieland Pusch: +drv martel.pneuxmata0o
 
 Revision 1.16  2007/12/10 17:30:15  revo
-Wieland Pusch: +trd bg
-
-Revision 1.15  2006/07/29 16:35:07  revo
 -->
 </vortaro>

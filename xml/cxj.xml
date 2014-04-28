@@ -2,17 +2,17 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxj.xml,v 1.22 2013/08/12 16:10:12 revo Exp $">
+<art mrk="$Id: cxj.xml,v 1.24 2014/02/05 21:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  -<rad>&ccirc;j</rad> <fnt><bib>PV</bib></fnt>
+  -<rad>&ccirc;j</rad>/ <fnt><bib>PV</bib></fnt>
 </kap>
+<subart>
 <drv mrk="cxj.0">
-  <kap><ofc>*</ofc><tld/></kap>
-  <gra><vspec>sufikso</vspec></gra>
-  <snc mrk="cxj.0.KOMUNE">
+  <kap>-<tld/></kap>
+  <snc>
     <dif>
-      Karesa sufikso almetata post la unua a&ubreve; unuaj silaboj 
+      Sufikso karesa almetata post la unua a&ubreve; unuaj silaboj 
       de vira nomo:
       <ekz>
         <ind>se Pe<tld/>o ne semos, Petro ne rikoltos</ind>
@@ -25,6 +25,10 @@
         Nikolao, Nikol<tld/>o, Nik<tld/>o, Ni<tld/>o.
       </ekz>
     </dif>
+  <refgrp tip="vid">
+    <ref cel="nj.0">nj</ref>,
+    <ref cel="et.0.sufikso">et</ref>
+  </refgrp>  
   </snc>
   <trd lng="es">-ito<klr> (diminutivo masculino)</klr></trd>
   <trdgrp lng="fr">
@@ -72,7 +76,12 @@
     &c_r;&c_o;&c_d;&c_a;)</klr></trd>
   </trdgrp>
 </drv>
+</subart>
 
+<subart>
+<dif>
+Samsignifa memstara vortero.
+</dif>
 <drv mrk="cxj.av0o">
   <kap>av<tld/>o</kap>
   <snc mrk="cxj.av0o.KOMUNE">
@@ -196,10 +205,16 @@
     <trd>synu&sacute;</trd>
   </trdgrp>
 </drv>
-
+</subart>
 </art>
 <!--
 $Log: cxj.xml,v $
+Revision 1.24  2014/02/05 21:10:16  revo
+Damien Brucker: +ref
+
+Revision 1.23  2014/02/05 16:10:15  revo
+Damien Brucker: +kap
+
 Revision 1.22  2013/08/12 16:10:12  revo
 Joop Eggen: +trd bg en de
 
@@ -216,11 +231,5 @@ Revision 1.18  2009/03/02 17:30:35  revo
 Antonio Codazzi: + korekt tajperaro (en it) ++trd it
 
 Revision 1.17  2009/02/28 17:31:21  revo
-Antonio Codazzi: +trd it
-
-Revision 1.16  2008/11/21 17:57:34  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.15  2008/01/29 17:30:23  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: ol.xml,v 1.19 2013/09/01 09:10:12 revo Exp $">
+  <art mrk="$Id: ol.xml,v 1.20 2014/01/13 07:10:20 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>ol</rad>
@@ -164,6 +164,7 @@
       </trdgrp>
       <trd lng="hu">mint</trd>
       <trd lng="nl">dan</trd>
+      <trd lng="pl">ni&zdot; <klr>(przy stopniowaniu)</klr></trd>
       <trdgrp lng="pt">
         <trd>que</trd>,
         <trd>do <ind>que</ind></trd>
@@ -174,6 +175,9 @@
   </art>
   <!--
   $Log: ol.xml,v $
+  Revision 1.20  2014/01/13 07:10:20  revo
+  Sebastian Cyprych: +trd pl
+
   Revision 1.19  2013/09/01 09:10:12  revo
   Damien Brucker: +trd fr
 

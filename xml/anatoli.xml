@@ -2,14 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: anatoli.xml,v 1.7 2011/02/13 03:10:32 revo Exp $">
+  <art mrk="$Id: anatoli.xml,v 1.9 2014/02/08 08:10:18 revo Exp $">
     <kap>
       <rad>Anatoli</rad>/o
     </kap>
-    <drv mrk="anatoli.A0o">
+    <drv mrk="anatoli.0o">
       <kap><tld/>o</kap>
-      <uzo tip="fak">GEOG</uzo>
       <snc>
+      <uzo tip="fak">GEOG</uzo>
         <dif>
           Granda duoninsulo inter la maroj Nigra, Egea kaj
           Mediteraneo; la azia parto de <ref
@@ -19,6 +19,7 @@
       <trd lng="be">&c_A;&c_n;&c_a;&c_t;&c_o;&c_l;&c_ib;&c_ja;</trd>
       <trd lng="de">Anatolien</trd>
       <trd lng="en">Anatolia</trd>
+      <trd lng="fr">Anatolie</trd>
       <trd lng="nl">Anatoli&euml;</trd>
       <trd lng="hu">Anat&oacute;lia</trd>
       <trdgrp lng="ru">
@@ -30,6 +31,12 @@
 
 <!--
 $Log: anatoli.xml,v $
+Revision 1.9  2014/02/08 08:10:18  revo
+Damien Brucker: -eraro cxe drv
+
+Revision 1.8  2014/01/05 13:10:22  revo
+Damien Brucker: +trd fr
+
 Revision 1.7  2011/02/13 03:10:32  revo
 Luiz Portella: kor. ref k mrk
 
@@ -46,10 +53,5 @@ Revision 1.3  2001/09/07 09:54:20  revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.2  2001/09/05 19:04:04  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.1  2001/08/19 06:21:17  revo
-Sergio Pokrovskij: nova artikolo
-
 -->
 </vortaro>

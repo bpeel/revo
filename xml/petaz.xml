@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: petaz.xml,v 1.2 2013/02/24 20:10:11 revo Exp $">
+<art mrk="$Id: petaz.xml,v 1.3 2014/02/17 16:10:15 revo Exp $">
 <kap>
   <rad>petaz</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -25,14 +25,19 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_p;&c_je;&c_t;&c_a;&c_s;&c_o;&c_s;</trd>
   <trd lng="de">Petasos</trd>
   <trd lng="en">petasos</trd>
   <trd lng="fr">p&eacute;tase</trd>
+  <trd lng="nl">petasos</trd>
 </drv>
 </art>
 
 <!--
 $Log: petaz.xml,v $
+Revision 1.3  2014/02/17 16:10:15  revo
+Joop Eggen: +trd bg nl
+
 Revision 1.2  2013/02/24 20:10:11  revo
 Wieland Pusch: +trd de
 

@@ -2,16 +2,17 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ho.xml,v 1.15 2009/09/15 16:31:12 revo Exp $">
+<art mrk="$Id: ho.xml,v 1.17 2014/02/25 02:10:20 revo Exp $">
 <kap>
    <ofc>*</ofc>
-   <rad>ho</rad>
+   <rad>ho</rad> <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="ho.0">
    <kap><ofc>*</ofc><tld/></kap>
+   <gra><vspec>ekkrio</vspec></gra>
    <snc mrk="ho.0.surprizo">
      <dif>
-       Interj. esprimanta la surprizon, indignon, doloron:
+       Surprize, indigne, dolore!:
        <ekz>
          <tld/>! kia ridinda vesto!
        </ekz>
@@ -30,10 +31,9 @@
        <trd>&c_o;&c_h;</trd>
      </trdgrp>
    </snc>
-
    <snc mrk="ho.0.alvoko">
      <dif>
-       Interj. signifanta alvokon:
+       Atentigo al alparolato:
        <ekz>
          <tld/> vi, granda fonto de l' amo kaj vero<fnt>Z</fnt>!
        </ekz>
@@ -74,6 +74,12 @@
 </art>
 <!--
 $Log: ho.xml,v $
+Revision 1.17  2014/02/25 02:10:20  revo
+Jeromo Vasxe: - ref, + vspec
+
+Revision 1.16  2014/02/18 12:10:19  revo
+Damien Brucker: +ref
+
 Revision 1.15  2009/09/15 16:31:12  revo
 Antonio Codazzi: +trd it
 
@@ -90,11 +96,5 @@ Revision 1.11  2003/12/18 17:31:25  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.10  2003/11/18 17:31:58  revo
-Bart Demeyere: +mrkoj
-
-Revision 1.9  2002/10/18 16:40:57  revo
-Christopher Zervic: + ang
-
-Revision 1.8  2002/01/22 17:32:11  revo
 -->
 </vortaro>

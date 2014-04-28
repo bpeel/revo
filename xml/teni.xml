@@ -2,16 +2,16 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: teni.xml,v 1.13 2013/10/09 20:10:22 revo Exp $">
+<art mrk="$Id: teni.xml,v 1.14 2013/12/02 13:10:34 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>teni</rad>/o
 </kap>
 <drv mrk="teni.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">ZOO</uzo>
+    <snc>
+   <uzo tip="fak">ZOO</uzo>
   <uzo tip="fak">MED</uzo>
-  <snc>
     <dif>
       Longa rubandoforma vermo vivanta en intesto de homo a&ubreve; besto.
     </dif>
@@ -27,6 +27,7 @@
     <trd>tape-worm</trd>,
     <trd>tapeworm</trd>
   </trdgrp>
+  <trd lng="fr">t&eacute;nia</trd>
   <trd lng="hu">garandf&eacute;reg</trd>
   <trd lng="nl">lintworm</trd>
   <trdgrp lng="pt">
@@ -37,6 +38,9 @@
 </art>
 <!--
 $Log: teni.xml,v $
+Revision 1.14  2013/12/02 13:10:34  revo
+Damien Brucker: +trd fr
+
 Revision 1.13  2013/10/09 20:10:22  revo
 Wolfram Diestel: ref al lst malsanoj
 
@@ -56,8 +60,5 @@ Revision 1.8  2002/07/12 17:32:26  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.7  2002/03/07 18:11:05  revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/10/15 18:18:46 revo
 -->
 </vortaro>

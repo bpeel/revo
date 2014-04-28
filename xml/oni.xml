@@ -2,20 +2,24 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: oni.xml,v 1.13 2007/07/26 16:30:56 revo Exp $">
+<art mrk="$Id: oni.xml,v 1.16 2013/12/10 12:10:12 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>oni</rad></kap>
 <drv mrk="oni.0">
 <kap><ofc>*</ofc><tld/></kap>
 <snc>
+<uzo tip="fak">GRA</uzo>
 <dif>
-Persona nedifinita pronomo, signifanta "la homoj; multaj a&ubreve; kelkaj personoj": <ekz><tld/> 
+Persona nedifinita pronomo, signifanta "la homoj; multaj a&ubreve; kelkaj
+personoj": <ekz><tld/> 
 kredas, ke kometoj anoncas malfeli&ccirc;on;
 </ekz> <ekz>al la bu&scirc;o de <tld/> neniu povas ordoni
 <klr>(kontra&ubreve; kalumnio helpas nenio)</klr>
-<fnt><bib>PrV</bib></fnt>;</ekz>  <ekz>la formoj <tld/>n k <tld/>a estas tute regulaj<fnt>Z</fnt>;
-</ekz> <ekz>&ccirc;iuj kalumnioj k malbrava&jcirc;oj estas ordinare elmetitaj sur la <tld/>an dorson;
+<fnt><bib>PrV</bib></fnt>;</ekz>  <ekz>la formoj <tld/>n k <tld/>a estas
+tute regulaj<fnt>Z</fnt>;
+</ekz> <ekz>&ccirc;iuj kalumnioj k malbrava&jcirc;oj estas ordinare elmetitaj sur la
+<tld/>an dorson;
 </ekz> <ekz><tld/> estas maljustaj koncerne ilin<fnt>Z</fnt>;
 </ekz> <ekz><tld/> estas konvinkitaj, ke li pereis<fnt>Z</fnt>;
 </ekz> <ekz><tld/> estas super&scirc;utita(j) de similaj proponoj.
@@ -45,9 +49,33 @@ kredas, ke kometoj anoncas malfeli&ccirc;on;
    </trdgrp>
 <trd lng="sv">man</trd>
 </drv>
+
+<drv mrk="oni.0a">
+<kap><ofc>*</ofc><tld/>a</kap>
+<snc>
+<uzo tip="fak">GRA</uzo>
+<dif>
+Rilata a&ubreve; apartenanta al <tld/>:<ekz> la kulpinto metis &ccirc;ion sur
+<tld/>an
+dorson</ekz>.
+</dif>
+</snc>
+<trd lng="fr">on<klr> (possessif ind&eacute;termin&eacute;)</klr></trd>
+</drv>
+
+
 </art>
 <!--
 $Log: oni.xml,v $
+Revision 1.16  2013/12/10 12:10:12  revo
+Damien Brucker: +FAK
+
+Revision 1.15  2013/12/09 11:10:11  revo
+Damien Brucker: -tajperaro
+
+Revision 1.14  2013/12/09 10:10:13  revo
+Damien Brucker: +onia
+
 Revision 1.13  2007/07/26 16:30:56  revo
 Harri Laine: +trd fi
 
@@ -61,14 +89,5 @@ Revision 1.10  2004/07/12 16:46:40  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2003/02/20 17:31:49  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2002/01/18 21:59:52  revo
-fontindiko PrV per programo de Jerome
-
-Revision 1.7  2001/07/17 18:12:31  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.6  2001/04/04 16:19:06  revo
 -->
 </vortaro>

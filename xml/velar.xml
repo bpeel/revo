@@ -2,27 +2,31 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: velar.xml,v 1.14 2012/08/19 09:10:35 revo Exp $">
+<art mrk="$Id: velar.xml,v 1.17 2014/01/03 15:10:14 revo Exp $">
 <kap>
   <rad>velar</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="velar.0o">
-  <kap><tld/>o</kap>
+      <kap><tld/>o, <var>
+          <kap>velsono</kap>
+        </var>
+      </kap>
   <snc mrk="velar.0o.FON">
     <uzo tip="fak">FON</uzo>
     <dif>
-      <ref tip="super" cel="konson1.0o">Konsonanto</ref> a&ubreve; 
-      <ref tip="super" cel="vokal.kvazaux0o.FON">kvaza&ubreve;vokalo</ref>, 
+      <ref tip="super" cel="son.parol0o">Parolsono</ref>,
+      <ref tip="super" cel="konson1.0o">konsonanto</ref>, 
       kies brueron naskas la fermo a&ubreve; la
       malvastigo de la bu&scirc;kanalo per la alproksimigo de la langa dorso
-      al la velo (k, g, r, &hcirc;).
+      al la <ref cel="vel.0o.ANA">velo<sncref/></ref> (k, g, &hcirc;).
     </dif>
-    <ref tip="sin" cel="gutura.0o">guturalo</ref>
     <refgrp tip="vid">
       <ref cel="labial.0o">labialo</ref>,
       <ref cel="dental.0o">dentalo</ref>,
-      <ref cel="palata.0o">palatalo</ref>.
+      <ref cel="palata.0o">palatalo</ref>,
+      <ref cel="glotal.0o">glotalo</ref>.
     </refgrp>
+  <ref tip="sin" cel="gutura.0o">guturalo</ref>
   </snc>
   <trd lng="be">&c_v;&c_e;&c_l;&c_ja;&c_r;&c_n;&c_y; &c_g;&c_u;&c_k;</trd>
   <trd lng="ca">velar</trd>
@@ -49,6 +53,15 @@
 </art>
 <!--
 $Log: velar.xml,v $
+Revision 1.17  2014/01/03 15:10:14  revo
+Damien Brucker: +ref (dauxrigo)
+
+Revision 1.16  2014/01/02 14:10:16  revo
+Damien Brucker: +ref
+
+Revision 1.15  2013/12/30 10:10:17  revo
+Sergio Pokrovskij: +var
+
 Revision 1.14  2012/08/19 09:10:35  revo
 Marc Rausell: + trd ca
 
@@ -62,14 +75,5 @@ Revision 1.11  2005/01/28 17:31:30  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.10  2004/10/11 16:34:27  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9  2003/10/01 16:31:12  revo
-Philippe Combot: + trd fr
-
-Revision 1.8  2002/07/25 17:32:59  revo
-Eduardo M. Kalinowski: ald trd pt
-
-Revision 1.7  2002/03/18 18:09:09  revo
 -->
 </vortaro>

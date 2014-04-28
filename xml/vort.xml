@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vort.xml,v 1.63 2013/10/17 01:10:13 revo Exp $">
+<art mrk="$Id: vort.xml,v 1.73 2014/02/07 17:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vort</rad>/o <fnt><bib>PV</bib></fnt>
@@ -16,7 +16,8 @@
     <uzo tip="fak">LIN</uzo>
     <dif>
       Areto da parolsonoj havanta difinitan signifon
-      kaj difinitan gramatikan uzon en homa
+      kaj difinitan <ref tip="dif" cel="gramat.0o.SCI">gramatikon</ref>
+      uzon en homa
       <ref tip="malprt" cel="lingv.0o.homa">lingvo</ref>:
       <ekz>
         simpla, kunmetita, dubsenca <tld/>o;
@@ -228,6 +229,21 @@
     <trd>&c_s;&c_l;&c_a;&c_v;&c_je;&c_s;&c_n;&c_y;</trd>
   </trdgrp>
   <trd lng="hu">sz&oacute;-</trd>
+</drv>
+
+<drv mrk="vort.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="vort.0i.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <ref tip="dif" cel="parol.0i.diri">paroli</ref>
+    <ekz>
+      oni <tld/>as kaj <tld/>as, ekzalti&gcirc;as
+      <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u li bremsis 
+      sufi&ccirc;e?</vrk>, <lok>1979</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="fr">causer</trd>
 </drv>
 
 <drv mrk="vort.0aro">
@@ -661,7 +677,7 @@
         la kap<tld/>oj estas ordigitaj sen konsidero al la
         fina&jcirc;oj
         <fnt>
-          <aut>Gaston Waringhien</aut>,
+          <aut>G. Waringhien</aut>,
           <bib>PIV2</bib>,
           <lok>&leftquot;kiel uzi la vortaron&rightquot;, p.
           34a</lok>
@@ -884,6 +900,20 @@
         </fnt>.
       </ekz>
     </dif>
+    <ref tip="vid" cel="strek.divid0o">dividstreko</ref>
+    <rim num="1">
+     Z. konsilis, ke <ctl>transportante la vortojn el unu linio en la
+     sekvantan, ni ordinare
+     dividas ilin par iliaj partoj gramatikaj, &ccirc;ar &ccirc;iu parto gramatika
+     en nia lingvo prezentas apartan vorton. Tiel ni ekzemple
+     dividas: "Esper-anto; ricev-ita"</ctl><fnt><bib>LR</bib></fnt>.
+    </rim>
+    <rim num="2">
+    La Plena Analiza Gramatiko donas sufi&ccirc;e prudentajn rekomendojn, kiuj
+    kombinas la principojn la&ubreve;morfeman kaj la&ubreve;silaban. &Gcirc;i respektas la
+    prefiksojn kaj sufiksojn (ek-iri, dorm-ema), sed permesas dividi
+    radikojn (ba-lo, sce-no, ko-le-ro)<fnt><bib>Viki</bib></fnt>.
+    </rim>
     <trd lng="en">hyphenation</trd>
     <trdgrp lng="pl">
       <trd>podzia&lstroke; wyraz&oacute;w</trd>,
@@ -899,11 +929,12 @@
   <kap><tld/>farado</kap>
   <snc mrk="vort.0farado.LIN">
     <uzo tip="fak">LIN</uzo>
+    <uzo tip="fak">GRA</uzo>
     <dif>
       Konstruado de <tld/>oj per kunmeto de vorteroj
       afiksaj a&ubreve; radikaj &ndash;
       <refgrp tip="sub">
-        <ref cel="deriv.0i.GRA">derivado</ref>,
+        <ref cel="deriv.0ado.GRA">derivado</ref>,
         <ref cel="vort.0kunmeto">vortkunmeto</ref>,
         <ref cel="fleksi.0o.paradigmo">fleksio <sncref/></ref>
       </refgrp>
@@ -920,6 +951,12 @@
         <fnt><bib>TermKurs</bib>, <lok>&FE; 4.915</lok></fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="espera.0igo.ESP">esperantigo</ref>,
+       <ref cel="land.0nomo">landnomo</ref>,
+       <ref cel="prefik.0pseuxdo">pse&ubreve;doprefikso</ref>,
+       <ref cel="sufiks.0pseuxdo">pse&ubreve;dosufikso</ref>
+    </refgrp>
   </snc>
   <trd
   lng="be">&c_s;&c_l;&c_o;&c_v;&c_a;&c_w;&c_t;&c_v;&c_a;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
@@ -982,6 +1019,7 @@
   <kap><tld/>kunmeto</kap>
   <snc mrk="vort.0kunmeto.LIN">
     <uzo tip="fak">LIN</uzo>
+    <uzo tip="fak">GRA</uzo>
     <dif>
       Konstruado de <tld/>oj per kunmeto de
       <ref tip="vid" cel="radika1.0o.GRA">radikaloj</ref>:
@@ -995,9 +1033,37 @@
           <vrk>Pracelojn fasonis recelano</vrk>,
           <bib>Monato</bib>,
           <lok>2002:3, p. 26a</lok>
-        </fnt>.
+        </fnt>.          
       </ekz>
     </dif>
+    <rim num="1">
+    <tld lit="V"/>oj kunmetitaj estas kreataj per simpla kunligado de
+    <tld/>oj; oni prenas ordinare la purajn radikojn, sed, se la
+    bonsoneco a&ubreve; la klareco
+postulas, oni povas anka&ubreve; preni la tutan <tld/>on, t. e. la radikon kune
+kun
+&gcirc;ia gramatika fini&gcirc;o:<ekz> skribtablo a&ubreve; skribotablo (=
+tablo, sur
+kiu oni skribas); internacia (= kiu estas inter diversaj nacioj);
+tutmonda
+(= de la tuta mondo); unutaga (= kiu da&ubreve;ras unu tagon); unuataga
+(= kiu estas en la unua tago); vapor&scirc;ipo (= &scirc;ipo, kiu sin movas per
+vaporo); matenman&gcirc;i, tagman&gcirc;i, vesperman&gcirc;i; abonpago (= pago por
+la abono)</ekz><fnt>Z</fnt>.
+    </rim>
+    <rim num="2">
+    <tld lit="V"/>kunmeta&jcirc;o konsistas el du partoj: &ccirc;efelemento, kiu
+    donas la &gcirc;eneralan signifon de la <tld/>o, kaj preciziga
+    anta&ubreve;elemento, kiu precizigas la &gcirc;eneralan signifon.[...] Post
+    preciziga
+    anta&ubreve;elemento oni povas meti interligan o-fina&jcirc;on por faciligi la
+    elparolon a&ubreve; komprenon de la kombino:<ekz> pu&scirc;o&scirc;ipo;
+    sangoru&gcirc;o</ekz>. [...] Kiam oni faras tian kombinon, oni kreas
+    <tld/>on
+    por speciala ideo, por certa speco. Kiam oni uzas substantivon kun
+    epiteto, oni normale nur montras okazan a&ubreve; hazardan
+    econ<fnt><bib>PMEG</bib></fnt>.
+    </rim>
   </snc>
   <ref tip="super" cel="vort.0farado"><tld/>farado</ref>
   <trd lng="br">kenstrollad<klr tip="ind"> (anvio&ugrave;,
@@ -1018,8 +1084,8 @@
 
 <drv mrk="vort.0oprovizo">
   <kap><tld/>oprovizo, <var><kap><tld/>provizo</kap></var></kap>
-  <uzo tip="fak">LIN</uzo>
   <snc mrk="vort.0oprovizo.LIN">
+  <uzo tip="fak">LIN</uzo>
     <dif>
       &Ccirc;iom da <tld/>oj de
       <ref tip="malprt" cel="lingv.0o.homa">lingvo<sncref/></ref>
@@ -1065,27 +1131,27 @@
 </art>
 <!--
 $Log: vort.xml,v $
-Revision 1.63  2013/10/17 01:10:13  revo
-Jeromo Vasxe: + bild/difin/dulingva ~aro
+Revision 1.73  2014/02/07 17:10:13  revo
+Damien Brucker: +rim (dauxrigo)
 
-Revision 1.62  2011/11/07 00:10:16  revo
- Anchise Inzaghi: traduko q'eqchi'
+Revision 1.72  2014/02/05 21:10:20  revo
+Damien Brucker: +ref (dauxrigo)
 
-Revision 1.61  2011/07/05 05:10:28  revo
-Sebastian Cyprych: +trd pl
+Revision 1.71  2014/02/03 13:10:15  revo
+Damien Brucker: +refgrp
 
-Revision 1.60  2011/06/29 03:10:09  revo
-Sergio Pokrovskij: -tajperaro
+Revision 1.70  2014/02/02 09:10:13  revo
+Damien Brucker: +ref
 
-Revision 1.59  2011/06/27 08:10:08  revo
-Sergio Pokrovskij: +~odivido
+Revision 1.69  2014/01/27 13:10:13  revo
+Damien Brucker: +rim 2
 
-Revision 1.58  2010/11/20 17:30:24  revo
-Jeromo Vasxe: + en~igi
+Revision 1.68  2013/12/29 20:10:11  revo
+Damien Brucker: +rim
 
-Revision 1.57  2010/09/02 16:30:24  revo
-Agustin Garcia Lopez: +trd es (kap - o)
+Revision 1.67  2013/12/29 18:10:14  revo
+Damien Brucker: +ref
 
-Revision 1.56  2010/05/04 16:31:05  revo
+Revision 1.66  2013/12/22 09:10:11  revo
 -->
 </vortaro>

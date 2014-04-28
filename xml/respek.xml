@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: respek.xml,v 1.19 2011/04/30 20:10:26 revo Exp $">
+<art mrk="$Id: respek.xml,v 1.20 2014/01/02 21:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>respekt</rad>/o <fnt><bib>PV</bib></fnt>
@@ -335,6 +335,27 @@
   </trdgrp>
 </drv>
 
+<drv mrk="respek.mem0o">
+  <kap>mem<tld/>o</kap>
+  <snc mrk="respek.mem0o.MOR">
+    <dif>
+      <tld lit="R"/>o al si mem,
+      interna sento de propra valoro:
+      <ekz>
+        &Scirc;jangzi devas rezigni la monon por konservi sian mem<tld/>on
+        <fnt>
+          <aut>Lao She, trad. Wang Chongfang</aut>,
+          <vrk><url
+          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
+          Kamelo &Scirc;jangzi</url></vrk>,
+          <lok>1988</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">respect de soi</trd>
+</drv>
+
 <drv mrk="respek.sen0eal">
   <kap>sen<tld/>e al</kap>
   <gra><vspec>prepozicia&jcirc;o</vspec></gra>
@@ -361,6 +382,9 @@
 </art>
 <!--
 $Log: respek.xml,v $
+Revision 1.20  2014/01/02 21:10:26  revo
+Jeromo Vasxe: + mem~o
+
 Revision 1.19  2011/04/30 20:10:26  revo
 Jeromo Vasxe: + sen~e al
 
@@ -380,8 +404,5 @@ Revision 1.14  2004/09/21 16:31:14  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.13  2004/09/10 16:30:59  revo
-Jeromo Vasxe: + ~ega/i/o ~inda mal~a/i/o, + kk ekz, + trd fr
-
-Revision 1.12 2003/08/17 17:28:02 revo
 -->
 </vortaro>

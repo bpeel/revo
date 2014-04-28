@@ -2,16 +2,18 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: a.xml,v 1.17 2012/11/11 01:10:08 revo Exp $">
+<art mrk="$Id: a.xml,v 1.18 2013/12/17 20:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>-<rad>a</rad>
 </kap>
 <drv mrk="a.0">
   <kap>-<tld/></kap>
   <snc>
+  <uzo tip="fak">GRA</uzo>
     <dif>
-      Fina&jcirc;o (lingvoscience: sufikso) markanta la vorton kiel
-      adjektivon:
+      <ref tip="dif" cel="fin.0ajxo.GRA">Fina&jcirc;o</ref> (lingvoscience:
+      sufikso) markanta la vorton kiel
+      <ref tip="dif" cel="adjekt.0o">adjektivon</ref>:
       <ekz>hom' - homa <fnt>F</fnt>.
       </ekz>
     </dif>
@@ -64,6 +66,9 @@
 </art>
 <!--
 $Log: a.xml,v $
+Revision 1.18  2013/12/17 20:10:14  revo
+Damien Brucker: +fak
+
 Revision 1.17  2012/11/11 01:10:08  revo
 Alejandro Escobedo: tradukaldono hispana
 
@@ -83,8 +88,5 @@ Revision 1.12  2008/12/20 17:30:23  revo
 J. Pablo Fernandez: Ekzemplo en dif
 
 Revision 1.11  2008/11/16 17:30:59  revo
-Wieland Pusch: entoj por unikodo
-
-Revision 1.10  2007/09/11 16:30:20  revo
 -->
 </vortaro>

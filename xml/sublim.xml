@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sublim.xml,v 1.9 2004/12/06 17:32:58 revo Exp $">
+<art mrk="$Id: sublim.xml,v 1.10 2014/02/27 08:10:14 revo Exp $">
 <kap>
   <rad>sublim</rad>/a
   <fnt>N</fnt>
@@ -17,6 +17,7 @@
       <trd>sublim</trd>,
       <trd>gro&szlig;artig</trd>
     </trdgrp>
+    <trd lng="fr">sublime</trd>
     <trdgrp lng="hu">
       <trd>gy&ouml;ny&ouml;r&udblac;</trd>,
       <trd>k&aacute;pr&aacute;zatos</trd>
@@ -30,6 +31,10 @@
       <trd>sublim</trd>,
       <trd>majest&auml;tisch</trd>,
       <trd>erhaben</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+    <trd>noble</trd>,
+    <trd>majestueux</trd>
     </trdgrp>
     <trdgrp lng="hu">
       <trd>fens&eacute;ges</trd>,
@@ -54,6 +59,9 @@
 </art>
 <!--
 $Log: sublim.xml,v $
+Revision 1.10  2014/02/27 08:10:14  revo
+Damien Brucker: +trd fr
+
 Revision 1.9  2004/12/06 17:32:58  revo
 Dmitri Gabinski: +trd be
 

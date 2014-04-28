@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: tiom.xml,v 1.15 2013/05/21 17:10:11 revo Exp $">
+  <art mrk="$Id: tiom.xml,v 1.17 2014/02/24 02:10:14 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>tiom</rad>
@@ -144,6 +144,10 @@
         <trd>annyit</trd>,
         <trd>annyira</trd>
       </trdgrp>
+      <trdgrp lng="es">
+        <trd>tanto</trd>,
+        <trd>tanta</trd>
+      </trdgrp>
       <trd lng="nl">zoveel</trd>
       <trdgrp lng="ru">
         <trd>&c_s;&c_t;&c_o;&c_l;&c_mol;&c_k;&c_o;</trd>,
@@ -153,6 +157,11 @@
         <trd>autant <klr>(de)</klr></trd>,
         <trd>tant <klr>(de)</klr></trd>
       </trdgrp>
+      <rim>
+      Z klarigas, ke "[...] egale bonaj anka&ubreve; estas la esprimoj <ekz>mi
+      konas tiom homojn</ekz> kaj <ekz>mi konas tiom da
+      homoj</ekz>"<fnt><bib>LR</bib></fnt>.
+      </rim>
     </drv>
 
     <drv mrk="tiom.0a">
@@ -219,6 +228,12 @@
   </art>
   <!--
   $Log: tiom.xml,v $
+  Revision 1.17  2014/02/24 02:10:14  revo
+  Carlos Garcia: trd+ es
+
+  Revision 1.16  2014/02/22 18:10:12  revo
+  Damien Brucker: +rim
+
   Revision 1.15  2013/05/21 17:10:11  revo
   Sergio Pokrovskij: +ekz, +ref
 

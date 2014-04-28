@@ -2,14 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: diafan.xml,v 1.17 2009/06/09 16:31:20 revo Exp $">
+<art mrk="$Id: diafan.xml,v 1.18 2014/01/09 02:10:19 revo Exp $">
 <kap>
   <ofc>2</ofc>
-  <rad>diafan</rad>/a
+  <rad>diafan</rad>/a <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="diafan.0a">
   <kap><tld/>a</kap>
-  <snc>
+  <snc mrk="diafan.0a.KOMUNE">
     <dif>
       Trairebla per lumradioj, sed ne travidebla:
       <ekz>
@@ -58,9 +58,33 @@
   </trdgrp>
   <trd lng="sk">priesvitn&yacute;</trd>
 </drv>
+
+<drv mrk="diafan.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="diafan.mal0a.KOMUNE">
+    <dif>
+      Ne a&ubreve; tre malmulte tralasanta lumon:
+      <ekz>
+        la mal<tld/>a, ekstera kovra&jcirc;o rompi&gcirc;as pro la 
+        ekfrapo, malkovrante vitran cilindron
+        <fnt>
+          <aut>E. R. Burroughs, trad. K. R. C. Sturmer</aut>,
+          <vrk><url
+          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0029/index.php">
+          Princino de Marso</url></vrk>,
+          <lok>1938</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">opaque</trd>
+</drv>
 </art>
 <!--
 $Log: diafan.xml,v $
+Revision 1.18  2014/01/09 02:10:19  revo
+Jeromo Vasxe: + mal~a
+
 Revision 1.17  2009/06/09 16:31:20  revo
 Sebastian Cyprych: +trd pl
 
@@ -80,8 +104,5 @@ Revision 1.12  2004/10/13 16:31:48  revo
 Wolfram Diestel: kor. germ trd.
 
 Revision 1.11  2003/12/13 17:32:23  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10  2003/11/25 17:30:40  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: manife1.xml,v 1.17 2013/09/02 16:10:22 revo Exp $">
+<art mrk="$Id: manife1.xml,v 1.18 2014/01/30 10:10:13 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>manifestaci</rad>/o <fnt><bib>PV</bib></fnt>
@@ -28,7 +28,8 @@
     <trd>&c_m;&c_a;&c_n;&c_ib;&c_f;&c_e;&c_s;&c_t;&c_a;&c_c;&c_y;&c_ja;</trd>,
     <trd>&c_d;&c_e;&c_m;&c_a;&c_n;&c_s;&c_t;&c_r;&c_a;&c_c;&c_y;&c_ja;</trd>
   </trdgrp>
-  <trd lng="bg">&c_m;&c_a;&c_n;&c_i;&c_f;&c_je;&c_s;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trd
+  lng="bg">&c_m;&c_a;&c_n;&c_i;&c_f;&c_je;&c_s;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>
   <trd lng="br">manifestadeg</trd>
   <trd lng="ca">manifestaci&oacute;</trd>
   <trd lng="de">Demonstration</trd>
@@ -37,7 +38,9 @@
   <trd lng="fr">manifestation</trd>
   <trdgrp lng="nl">
     <trd>betoging</trd>,
-    <trd>manifestatie</trd>
+    <trd>manifestatie</trd>,
+    <trd>demonstratie</trd>,
+    <trd>protestmars</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>manifestacja</trd>,
@@ -52,6 +55,9 @@
 </art>
 <!--
 $Log: manife1.xml,v $
+Revision 1.18  2014/01/30 10:10:13  revo
+Bart Demeyere: +trd nl
+
 Revision 1.17  2013/09/02 16:10:22  revo
 Joop Eggen: +trd bg
 
@@ -71,8 +77,5 @@ Revision 1.12  2005/07/08 16:32:33  revo
 Alan ar Gall: +trd br
 
 Revision 1.11  2005/04/11 16:31:49  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.10  2003/05/14 16:31:13  revo
 -->
 </vortaro>

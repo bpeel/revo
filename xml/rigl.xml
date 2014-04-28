@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rigl.xml,v 1.12 2006/02/21 17:32:15 revo Exp $">
+<art mrk="$Id: rigl.xml,v 1.13 2014/01/13 07:10:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rigl</rad>/i
@@ -11,7 +11,8 @@
   <kap><ofc>*</ofc><tld/>i</kap>
   <snc>
     <dif>
-      Senmovebligi pordon, fenestron, klapon a&ubreve; kovrilon per speciala ilo
+      Senmovebligi pordon, fenestron, klapon a&ubreve; kovrilon per speciala
+      ilo
       konsistanta el fortika metala peco &scirc;ovebla en truon.
     </dif>
   </snc>
@@ -27,6 +28,7 @@
     <trd>vergrendelen</trd>,
     <trd>sluiten</trd>
   </trdgrp>
+  <trd lng="pl">ryglowa&cacute;</trd>
   <trdgrp lng="pt">
     <trd>aferrolhar</trd>,
     <trd>trancar</trd>
@@ -57,6 +59,7 @@
     <trd>rigli</trd>
   </trdgrp>
   <trd lng="nl">grendel</trd>
+  <trd lng="pl">rygiel</trd>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_s;&c_o;&c_v;</trd>,
     <trd>&c_z;&c_a;&c_d;&c_v;&c_i;&c_zh;&c_k;&c_a;</trd>,
@@ -66,6 +69,9 @@
 </art>
 <!--
 $Log: rigl.xml,v $
+Revision 1.13  2014/01/13 07:10:29  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.12  2006/02/21 17:32:15  revo
 Tulio Flores: +trd pt
 
@@ -85,8 +91,5 @@ Revision 1.7 2001/06/19 18:13:32 revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.6 2001/03/05 17:12:03 revo
-Dennis Wibrow: +trd germ
-
 -->
 </vortaro>
-

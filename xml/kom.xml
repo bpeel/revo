@@ -2,19 +2,21 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kom.xml,v 1.17 2012/07/20 09:10:28 revo Exp $">
+<art mrk="$Id: kom.xml,v 1.22 2014/01/02 10:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kom</rad>/o
 </kap>
 <drv mrk="kom.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <uzo tip="fak">GRA</uzo>
-  <snc>
+   <snc>
+   <uzo tip="fak">TIP</uzo>
+   <uzo tip="fak">GRA</uzo>
     <dif>
-      Interpunkcia <ref tip="super" cel="sign.0o">signo</ref> (,)
-      indikanta, ke oni devas apartigi partojn de propozicio a&ubreve;
-      propoziciojn unu de la alia, intermetante tre mallongan pa&ubreve;zon:
+      <ref tip="dif" cel="interp3.0o">Interpunkcia</ref> <ref
+      tip="super" cel="sign.0o">signo</ref> (,) indikanta, ke oni devas
+      apartigi partojn de propozicio a&ubreve; propoziciojn unu de la alia,
+      intermetante tre mallongan pa&ubreve;zon:
       <ekz>
         ha, li remalkovris <tld/>ojn kaj punktojn, sed ankora&ubreve; ne la
         majusklon
@@ -23,6 +25,29 @@
         numero 4a, p. 22a</lok></fnt>.
       </ekz>
     </dif>
+    <rim> <tld lit="K"/>on oni uzas: 1&deg;) post vortoj de alparolo:<ekz>
+    Dio, helpu min!</ekz>; 2&deg;) anta&ubreve; kaj post apozicio:<ekz> Parizo, la
+    urbo de la lumo, estis malluma</ekz>; 3&deg;) por apartigi samspecajn
+    frazelementojn ne ligitajn per konjunkcio:<ekz> Petro, Pa&ubreve;lo kaj
+    Karlo estas amikoj</ekz>; 4&deg;) post anta&ubreve;metitaj
+    particip-adverboj:<ekz> Trovinte pomon, mi &gcirc;in man&gcirc;is</ekz>; 5&deg;)
+    post adjektivaj predikativoj anta&ubreve;metitaj:<ekz> plenplena de homoj,
+    la
+    salono havis sufokan aeron</ekz>; 6&deg;) anta&ubreve; postmetitaj
+    particip-adjektivoj, kiam ili havas plurajn komplementojn; se ili
+    estas intermetitaj, oni metas ilin inter du komojn:<ekz> la
+    kastelon, forbruligitan de la turkoj, oni rekonstruis</ekz>; 7&deg;)
+    inter plurajn frazelementojn starantajn inter la subjekto kaj la
+    predikato:<ekz> fine, mia amiko, ne sen grandaj malfacila&jcirc;oj, finis
+    sian taskon</ekz>; 8&deg;) inter kunorditaj propozicioj:<ekz> mi vokis
+    lin, sed li ne
+    venis</ekz>;
+    9&deg;) por apartigi suborditajn propoziciojn disde la
+    &ccirc;efpropozicio:<ekz>
+    mi vidis, ke li venas; min &gcirc;enas la bruo, kiun vi faras</ekz>;
+ 10&deg;) en la matematiko, por apartigi la entjerojn disde la decimalaj
+ frakcioj: <ekz> 3,14 (tri <tld/>o unu kvar)</ekz>.
+    </rim>
   </snc>
   <trd lng="be">&c_k;&c_o;&c_s;&c_k;&c_a;</trd>
   <trd lng="ca">coma</trd>
@@ -43,20 +68,27 @@
 
 <drv mrk="kom.punkto0o">
   <kap>punkto<tld/>o</kap>
-  <uzo tip="fak">GRA</uzo>
   <snc>
+  <uzo tip="fak">TIP</uzo>
+  <uzo tip="fak">GRA</uzo>
     <dif>
-      Interpunkcia <ref tip="super" cel="sign.0o">signo</ref> (;)
-      indikanta iom pli longan pa&ubreve;zon ol <tld/>o inter partoj de
-frazo:
+      <ref tip="dif" cel="interp3.0o">Interpunkcia</ref> <ref
+      tip="super" cel="sign.0o">signo</ref> (;) indikanta iom pli longan
+      pa&ubreve;zon ol <tld/>o inter partoj de frazo:
       <ekz>
         &ccirc;e mia brita klavaro la punkto<tld/>o estas sub mia dekstra
         etfingro, do mi ne devas movi la manon
         <fnt><aut>Edmund Grimley
         Evans</aut>: <vrk>Uniksulo ekspertas Unikodon</vrk>,
-        <bib>Monato</bib><lok>jaro 2000a, numero 2a, p. 20a</lok></fnt>.
+        <bib>Monato</bib><lok>jaro 2000a, numero 2a, p. 20a</lok></fnt>;
+        vi ludas; mi vin petas, batu forte; mi timas, ke vi faras kun mi
+        &scirc;ercojn<fnt>Z</fnt>.
       </ekz>
     </dif>
+    <rim> Cetere la uzo de punkto<tld/>o ne estas strikte fiksebla; gi
+    dependas de la okaza neceso evidentigi pli klare la konstruon de la
+    frazo, kaj e&ccirc; de individuaj kutimoj.
+    </rim>
   </snc>
   <trd lng="be">&c_k;&c_r;&c_o;&c_p;&c_k;&c_a; &c_z;
 &c_k;&c_o;&c_s;&c_k;&c_a;&c_j;</trd>
@@ -81,6 +113,21 @@ frazo:
 </art>
 <!--
 $Log: kom.xml,v $
+Revision 1.22  2014/01/02 10:10:12  revo
+Damien Brucker: kompletigo
+
+Revision 1.21  2013/12/24 02:10:10  revo
+Damien Brucker: +ref
+
+Revision 1.20  2013/12/16 11:10:22  revo
+Damien Brucker: +fak
+
+Revision 1.19  2013/12/03 15:10:13  revo
+Damien Brucker: -tajperaro
+
+Revision 1.18  2013/12/03 14:10:12  revo
+Damien Brucker: +rim
+
 Revision 1.17  2012/07/20 09:10:28  revo
 Marc Rausell: + trd ca
 
@@ -88,20 +135,5 @@ Revision 1.16  2009/09/02 16:31:38  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.15  2007/01/06 17:30:22  revo
-Tulio Flores: +tr pt
-
-Revision 1.14  2006/02/07 17:32:38  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.13  2005/01/09 17:32:02  revo
-Marc Bavant: +GRA
-
-Revision 1.12  2003/01/05 17:33:58  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2002/08/03 18:54:01  revo
-Jeromo Vasxe: + ekz, + trd fr
-
-Revision 1.10 2002/01/23 17:33:45 revo
 -->
 </vortaro>

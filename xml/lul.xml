@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lul.xml,v 1.15 2009/11/07 17:30:48 revo Exp $">
+<art mrk="$Id: lul.xml,v 1.16 2014/02/11 10:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lul</rad>/i <fnt><bib>PV</bib></fnt>
@@ -17,7 +17,10 @@
         <tld/>i iun al la dormo<fnt>B</fnt>.
       </ekz>
     </dif>
-    <trd lng="es">mecer</trd>
+    <trdgrp lng="es">
+      <trd>acunar</trd>,
+      <trd>mecer</trd>
+    </trdgrp>
   </snc>
   <snc mrk="lul.0i.balanceti">
     <dif>
@@ -29,6 +32,7 @@
         <tld/>a pa&scirc;ado.
       </ekz>
     </dif>
+    <trd lng="es">mecer</trd>
   </snc>
   <snc mrk="lul.0i.kvietigi">
     <uzo tip="stl">FIG</uzo>
@@ -101,6 +105,9 @@
 </art>
 <!--
 $Log: lul.xml,v $
+Revision 1.16  2014/02/11 10:10:12  revo
+Carlos Garcia: trd+ es -i
+
 Revision 1.15  2009/11/07 17:30:48  revo
 Jeromo Vasxe: - ~kanto/segxo portitaj al resp. art.
 
@@ -120,8 +127,5 @@ Revision 1.10 2002/09/13 16:36:42 revo
 Eduardo M. Kalinowski: ald trd pt
 
 Revision 1.9 2001/11/20 17:36:04 revo
-Yury Finkel: +trd ru
-
-Revision 1.8 2001/04/24 16:26:00 revo
 -->
 </vortaro>

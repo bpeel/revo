@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koresp.xml,v 1.12 2009/09/11 16:30:40 revo Exp $">
+<art mrk="$Id: koresp.xml,v 1.13 2014/01/16 13:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>korespond</rad>/i
@@ -32,6 +32,7 @@
   <trd lng="en">correspond</trd>
   <trd lng="es">mantener <ind>correspondencia</ind><klr> (por
   correo)</klr></trd>
+  <trd lng="fr">correspondre<klr> (par courrier)</klr></trd>
   <trd lng="hu">levelez</trd>
   <trdgrp lng="pt">
     <trd>corresponder-se (com)</trd>,
@@ -45,6 +46,9 @@
 
 <!--
 $Log: koresp.xml,v $
+Revision 1.13  2014/01/16 13:10:18  revo
+Damien Brucker: +trd fr
+
 Revision 1.12  2009/09/11 16:30:40  revo
 Paul Peeraerts: +nl
 
@@ -64,7 +68,5 @@ Revision 1.7  2002/03/21 18:33:51  revo
 Ulrich Fellmann: + 2 germ trdj
 
 Revision 1.6  2001/11/02 19:12:19  revo
-Yury Finkel: +trd ru
-
 -->
 </vortaro>

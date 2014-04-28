@@ -2,14 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: rikord.xml,v 1.7 2010/12/08 19:04:33 revo Exp $">
+  <art mrk="$Id: rikord.xml,v 1.8 2014/03/26 16:10:24 revo Exp $">
     <kap>
       <rad>rikord</rad>/o
     </kap>
     <drv mrk="rikord.0o">
       <kap><tld/>o</kap>
-      <uzo tip="fak">KOMP</uzo>
       <snc mrk="rikord.0o.KOMP">
+      <uzo tip="fak">KOMP</uzo>
         <dif>
           Grupo de datumoj uzebla en iuj operacioj (precipe &ccirc;e
           eneligo) kiel
@@ -47,6 +47,10 @@
         <trd lng="de">Datensatz</trd>
         <trd lng="en">record <klr>(of data)</klr></trd>
         <trd lng="es">registro <klr> (de datos)</klr></trd>
+        <trdgrp lng="fr">
+          <trd>enregistrement<klr> (de donn&eacute;es)</klr></trd>,
+          <trd>structure<klr> (de donn&eacute;es)</klr></trd>
+        </trdgrp>
         <trd lng="hu">rekord <klr>(adat-)</klr></trd>
         <trdgrp lng="pl">
           <trd>rekord</trd>,
@@ -61,6 +65,9 @@
   </art>
   <!--
   $Log: rikord.xml,v $
+  Revision 1.8  2014/03/26 16:10:24  revo
+  Damien Brucker: +trd fr
+
   Revision 1.7  2010/12/08 19:04:33  revo
   Sebastian Cyprych: +trd pl +ref datenopo, kampo
 

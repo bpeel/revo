@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: plu.xml,v 1.18 2013/04/18 17:10:08 revo Exp $">
+  <art mrk="$Id: plu.xml,v 1.21 2014/02/26 18:10:13 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>plu</rad>
@@ -58,8 +58,18 @@
       </snc>
 
       <rim num="1">
-        Diri <em>pli</em> anstata&ubreve; <em>plu</em> oni povas tre
-        ofte, sed ne &ccirc;iam<sup>Z</sup>.
+        Z klarigas, ke "diri <em>pli</em> anstata&ubreve; <em><tld/></em> oni
+        povas tre
+        ofte, sed ne &ccirc;iam. <em>Pli</em> = pli multe,
+        <em><tld/></em> = da&ubreve;re, pli
+        malproksimen; <em>pli</em> signifas kvanton, multecon,
+        <em><tld/></em>
+        signifas
+        da&ubreve;radon (en loko a&ubreve; tempo); en abstraktaj okazoj ni ofte povas
+        uzi unu esprimon anstata&ubreve; la dua, &ccirc;ar tiam ilia senco fari&gcirc;as
+        preska&ubreve; la sama; sed kiam ni volas paroli
+        rekte pri kvanto a&ubreve; pri da&ubreve;rado (a&ubreve; malproksimi&gcirc;ado), tiam ni ne
+        povas intermiksi amba&ubreve; vortojn"<fnt><bib>LR</bib></fnt>.
       </rim>
       <rim num="2">
         Kun nea vorto, <em>plu</em> signifas la malda&ubreve;ron,
@@ -116,6 +126,10 @@
         <trd>yh&auml;</trd>,
         <trd>viel&auml;</trd>,
         <trd><klr>(kun nea vorto:) </klr> en&auml;&auml;</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>plus</trd>,
+        <trd>davantage</trd>
       </trdgrp>
       <trdgrp lng="hu">
         <trd>tova</trd>,
@@ -174,6 +188,10 @@
         <trd>lis&auml;ksi</trd>,
         <trd>pidemm&auml;lle</trd>
       </trdgrp>
+      <trdgrp lng="fr">
+        <trd>davantage</trd>,
+        <trd>continuellement</trd>
+      </trdgrp>
       <trdgrp lng="hu">
         <trd>tov&aacute;bbiakban</trd>,
         <trd>tov&aacute;bb&aacute;</trd>
@@ -211,6 +229,7 @@
         <trd>edelleen</trd>,
         <trd>kauemmas</trd>
       </trdgrp>
+      <trd lng="fr">de l'avant</trd>
       <trdgrp lng="pl">
         <trd>dalej</trd>,
         <trd>d&lstroke;u&zdot;ej</trd>
@@ -237,6 +256,10 @@
         <trd>tuleva</trd>,
         <trd>vastainen</trd>,
         <trd>lis&auml;-</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>continuel</trd>,
+        <trd>de plus</trd>
       </trdgrp>
       <trd lng="hu">tov&aacute;bbi</trd>
       <trd lng="pl">dalszy</trd>
@@ -268,6 +291,7 @@
       <trdgrp lng="fi">
         <trd>jatkua (edelleen)</trd>
       </trdgrp>
+      <trd lng="fr">continuer<klr> (intransitif)</klr></trd>
       <trdgrp lng="hu">
         <trd>folytat&oacute;dik</trd>,
         <trd>tov&aacute;bb tart</trd>
@@ -302,6 +326,7 @@
         <trd>jatkaa</trd>,
         <trd>pident&auml;&auml;</trd>
       </trdgrp>
+      <trd lng="fr">continuer<klr> (transitif)</klr></trd>
       <trdgrp lng="hu">
         <trd>folytat</trd>,
         <trd>meghosszabb&iacute;t</trd>
@@ -316,6 +341,15 @@
   </art>
   <!--
       $Log: plu.xml,v $
+      Revision 1.21  2014/02/26 18:10:13  revo
+      Damien Brucker: +ref
+
+      Revision 1.20  2014/02/22 20:10:12  revo
+      Damien Brucker: +rim
+
+      Revision 1.19  2013/12/12 13:10:18  revo
+      Damien Brucker: +trd fr
+
       Revision 1.18  2013/04/18 17:10:08  revo
       Sergio Pokrovskij: dif, TEZ, ekz
 

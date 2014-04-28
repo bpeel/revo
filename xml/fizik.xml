@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fizik.xml,v 1.30 2013/09/22 19:10:37 revo Exp $">
+<art mrk="$Id: fizik.xml,v 1.31 2014/01/05 10:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fizik</rad>/o
@@ -105,6 +105,7 @@
   <trd lng="ca">f&iacute;sic <klr>(subst.)</klr></trd>
   <trd lng="de">Physiker</trd>
   <trd lng="en">physicist</trd>
+  <trd lng="fr">physicien</trd>
   <trd lng="id">fisikawan</trd>
   <trd lng="nl">fysicus</trd>
   <trd lng="sv">fysiker</trd>
@@ -151,6 +152,9 @@
 </art>
 <!--
 $Log: fizik.xml,v $
+Revision 1.31  2014/01/05 10:10:14  revo
+Damien Brucker: +trd fr
+
 Revision 1.30  2013/09/22 19:10:37  revo
 Wolfram Diestel: astro~o: referenco al listo sciencoj
 
@@ -170,8 +174,5 @@ Revision 1.25  2010/09/05 16:30:39  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.24  2010/03/11 17:30:20  revo
- Evandro Avellar: + trd pt
-
-Revision 1.23  2009/10/15 16:32:58  revo
 -->
 </vortaro>

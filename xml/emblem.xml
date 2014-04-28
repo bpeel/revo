@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: emblem.xml,v 1.16 2011/12/06 15:10:11 revo Exp $">
+  <art mrk="$Id: emblem.xml,v 1.17 2014/03/13 08:10:20 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>emblem</rad>/o
@@ -75,7 +75,7 @@
           <trd>Farbe</trd>,
           <trd>Kartenfarbe</trd></trdgrp>
         <trd lng="en">suit <klr tip="ind">(of cards)</klr></trd>
-        <trd lng="es">palo <klr tip="ind">(baraja, cartas)</klr></trd>
+        <trd lng="es">palo<klr tip="amb"> (de la baraja)</klr></trd>
         <trd lng="fr">couleur<klr tip="ind"> (tr&egrave;fle, carreau,
         etc.)</klr></trd>
         <trd lng="pl">kolor<klr> karciany</klr></trd>
@@ -86,6 +86,9 @@
   </art>
   <!--
   $Log: emblem.xml,v $
+  Revision 1.17  2014/03/13 08:10:20  revo
+  Agustin Garcia Lopez: +klr(es)
+
   Revision 1.16  2011/12/06 15:10:11  revo
   Marc Rausell: kataluna traduko
 

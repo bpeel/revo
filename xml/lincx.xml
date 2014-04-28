@@ -2,15 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lincx.xml,v 1.18 2013/08/09 09:10:11 revo Exp $">
+<art mrk="$Id: lincx.xml,v 1.19 2014/03/29 08:10:22 revo Exp $">
 <kap>
   <rad>lin&ccirc;</rad>/i
 </kap>
 <drv mrk="lincx.0i">
   <kap><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <uzo tip="fak">JUR</uzo>
   <snc>
+  <uzo tip="fak">JUR</uzo>
     <dif>
       Grupe punmortigi iun sen ju&gcirc;ista regula verdikto:
       <ekz>
@@ -117,6 +117,7 @@
     </dif>
   </snc>
   <trd lng="ca">linxament</trd>
+  <trd lng="fr">lynchage</trd>
   <trd lng="nl">lynchpartij</trd>
   <trdgrp lng="pl">
     <trd>lincz</trd>,
@@ -129,6 +130,9 @@
 </art>
 <!--
 $Log: lincx.xml,v $
+Revision 1.19  2014/03/29 08:10:22  revo
+Damien Brucker: +trd fr
+
 Revision 1.18  2013/08/09 09:10:11  revo
 Joop Eggen: +trd bg
 
@@ -148,8 +152,5 @@ Revision 1.13  2004/05/26 16:31:48  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.12  2004/02/16 20:47:17  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2002/09/12 16:36:00  revo
 -->
 </vortaro>

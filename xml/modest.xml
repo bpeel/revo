@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: modest.xml,v 1.16 2013/06/24 13:10:09 revo Exp $">
+<art mrk="$Id: modest.xml,v 1.17 2014/02/08 15:10:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>modest</rad>/a <fnt><bib>PV</bib></fnt>
@@ -85,7 +85,7 @@
   <snc mrk="modest.mal0a.PSI">
     <dif>
       Fiere montranta siajn kvalitojn,
-      <ref tip="vid" cel="glor.0ama.PSI">glorama</ref>,
+      <ref tip="vid" cel="glor.0a">glorama</ref>,
       <ref tip="vid" cel="vant.0a.iu">vanta</ref>:
       <ekz>
         &scirc;i estis bela virino, sed fiera kaj mal<tld/>a
@@ -101,6 +101,9 @@
 </art>
 <!--
 $Log: modest.xml,v $
+Revision 1.17  2014/02/08 15:10:36  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.16  2013/06/24 13:10:09  revo
 Jeromo Vasxe: + mal~a
 
@@ -120,8 +123,5 @@ Revision 1.11  2005/02/24 17:33:43  revo
 Dennis Wibrow: + trd de
 
 Revision 1.10  2004/06/17 16:31:05  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2003/06/03 16:31:29  revo
 -->
 </vortaro>

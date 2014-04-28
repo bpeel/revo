@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: metalu.xml,v 1.14 2012/08/21 11:10:12 revo Exp $">
+<art mrk="$Id: metalu.xml,v 1.15 2013/12/01 10:10:19 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>metalurgi</rad>/o
@@ -27,6 +27,7 @@
   <trdgrp lng="hu">
     <trd>f&eacute;mkoh&aacute;szat</trd>,
     <trd>metallurgia</trd></trdgrp>
+  <trd lng="fr">m&eacute;tallurgie</trd>
   <trd lng="nl">metallurgie</trd>
   <trd lng="pl">metalurgia</trd>
   <trd lng="pt">metalurgia</trd>
@@ -36,6 +37,9 @@
 </art>
 <!--
 $Log: metalu.xml,v $
+Revision 1.15  2013/12/01 10:10:19  revo
+Damien Brucker: +trd fr
+
 Revision 1.14  2012/08/21 11:10:12  revo
 Sebastian Cyprych: +trd pl
 
@@ -55,8 +59,5 @@ Revision 1.9  2002/08/26 17:34:45  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.8  2002/01/11 17:33:45  revo
-Dennis Wibrow: +trd germ
-
-Revision 1.7  2001/12/02 17:32:20  revo
 -->
 </vortaro>

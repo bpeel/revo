@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mus.xml,v 1.38 2013/10/23 18:10:27 revo Exp $">
+<art mrk="$Id: mus.xml,v 1.40 2014/02/08 15:10:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mus</rad>/o <fnt><bib>PV</bib></fnt>
@@ -137,7 +137,6 @@
     </dif>
     <refgrp tip="sub">
       <ref cel="mikrot.0o">mikroto</ref>,
-      <ref cel="leming.0o">lemingo</ref>,
       <ref cel="ondatr.0o">ondatro</ref>,
       <ref cel="hamstr.0o">hamstro</ref>
     </refgrp>
@@ -148,10 +147,10 @@
 </drv>
 
 <drv mrk="mus.micxj0o">
-  <kap>Mi&ccirc;jo <tld lit="M"/>o</kap><fnt>ItEsp</fnt>
-    <uzo tip="fak">KIN</uzo>
-    <uzo tip="fak">PERS</uzo>
-  <snc>
+  <kap>Mi&ccirc;jo <tld lit="M"/>o</kap>
+      <snc>
+     <uzo tip="fak">KIN</uzo>
+    <uzo tip="fak">PERS</uzo> 
     <dif>
     Anglalingve <trd lng="en">Mickey Mouse</trd>. Imaga persono kreita
     de Walt Disney en 1928.
@@ -159,12 +158,19 @@
   </snc>
   <trd lng="it">Topolino</trd>
   <trd lng="es">Mickey Mouse</trd>
+  <trd lng="fr">Mickey Mouse</trd>
   <trd lng="pl">Myszka Miki</trd>
 </drv>
 
 </art>
 <!--
 $Log: mus.xml,v $
+Revision 1.40  2014/02/08 15:10:33  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.39  2013/12/02 13:10:46  revo
+Damien Brucker: +trd fr
+
 Revision 1.38  2013/10/23 18:10:27  revo
 Wolfram Diestel: disigis kampo~o al du sencoj
 
@@ -181,11 +187,5 @@ Revision 1.34  2013/09/01 15:10:35  revo
 Wolfram Diestel: dormo~o: referenco al listo bot genroj
 
 Revision 1.33  2013/07/05 20:10:11  revo
-Wolfram Diestel: referencoj
-
-Revision 1.32  2013/05/12 10:10:11  revo
-Eko Nur Syah Hidayat: +trd id
-
-Revision 1.31  2013/04/25 06:10:10  revo
 -->
 </vortaro>

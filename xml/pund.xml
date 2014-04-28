@@ -2,12 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pund.xml,v 1.15 2013/09/22 19:11:44 revo Exp $">
+<art mrk="$Id: pund.xml,v 1.16 2014/02/13 17:10:15 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>pund</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="pund.0o">
   <kap><ofc>9</ofc><tld/>o</kap>
+  <mlg>GBP</mlg>
+  <mlg>&#163;</mlg>
   <snc mrk="pund.0o.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
@@ -45,6 +47,9 @@
 </art>
 <!--
 $Log: pund.xml,v $
+Revision 1.16  2014/02/13 17:10:15  revo
+Damien Brucker: +mlg
+
 Revision 1.15  2013/09/22 19:11:44  revo
 Wolfram Diestel: referenco al listo monunuoj
 
@@ -64,8 +69,5 @@ Revision 1.10  2007/08/11 16:30:57  revo
 Jeromo Vasxe: + mrk
 
 Revision 1.9  2006/04/18 16:31:22  revo
-Tulio Flores: +tr pt
-
-Revision 1.8  2005/05/12 16:32:34  revo
 -->
 </vortaro>

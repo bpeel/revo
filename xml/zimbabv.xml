@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: zimbabv.xml,v 1.11 2013/02/10 02:11:05 revo Exp $">
+<art mrk="$Id: zimbabv.xml,v 1.12 2013/12/05 14:10:20 revo Exp $">
 <kap>
   <rad>Zimbabv</rad>/o
 </kap>
@@ -30,6 +30,7 @@
       <ref tip="vid" cel="afrik.SudA0o.GEOG">Sud-Afriko</ref>,
       kaj <ref tip="vid" cel="zambi.Z0o.GEOG">Zambio</ref>.
     </dif>
+    </snc>
     <trdgrp lng="be">
       <trd>&c_Z;&c_ib;&c_m;&c_b;&c_a;&c_b;&c_v;&c_e;</trd>,
       <trd>&c_R;&c_e;&c_s;&c_p;&c_u;&c_b;&c_l;&c_ib;&c_k;&c_a; <ind>&c_Z;&c_ib;&c_m;&c_b;&c_a;&c_b;&c_v;&c_e;</ind></trd>
@@ -50,6 +51,10 @@
       <trd>Zimbabwe</trd>,
       <trd>Republic of <ind>Zimbabwe</ind></trd>
     </trdgrp>
+    <trdgrp lng="fr">
+  <trd>Zimbabwe</trd>,
+  <trd>R&eacute;publique du Zimbabwe</trd>
+</trdgrp>
     <trd lng="hu">Zimbabwe</trd>
     <trdgrp lng="it">
       <trd>Zimbabwe</trd>,
@@ -72,13 +77,15 @@
       <trd>Zimbabwe</trd>,
       <trd>Republiken Zimbabwe</trd>
     </trdgrp>
-  </snc>
 </drv>
 
 </art>
 
 <!--
 $Log: zimbabv.xml,v $
+Revision 1.12  2013/12/05 14:10:20  revo
+Damien Brucker: +trd fr
+
 Revision 1.11  2013/02/10 02:11:05  revo
 Evandro Avellar: Traduko al Pt
 
@@ -98,8 +105,5 @@ Revision 1.6  2010/04/01 16:30:49  revo
 Wieland Pusch: korr de,en
 
 Revision 1.5  2009/09/26 16:32:23  revo
-Jozefo Horvath: + trd hu
-
-Revision 1.4  2009/08/18 19:18:41  revo
 -->
 </vortaro>

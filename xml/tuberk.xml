@@ -2,15 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tuberk.xml,v 1.15 2013/10/09 20:10:26 revo Exp $">
+<art mrk="$Id: tuberk.xml,v 1.16 2014/01/07 13:10:13 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>tuberkuloz</rad>/o
 </kap>
 <drv mrk="tuberk.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">MED</uzo>
   <snc>
+  <uzo tip="fak">MED</uzo>
     <dif>
       Bacila <ref tip="lst" cel="san.mal0o.MED"
       lst="voko:malsanoj">malsano</ref> karakterizata de formi&gcirc;o de
@@ -36,6 +36,7 @@
     <trd>&a_s;&a_kasra;&a_l;&a_shadda;</trd>,
     <trd>&a_t;&a_b; &a_l;&a_A;&a_z;&a_m;</trd>
   </trdgrp>
+  <trd lng="fr">tuberculose</trd>
   <trdgrp lng="hu">
     <trd>g&uuml;m&odblac;k&oacute;r</trd>,
     <trd>tuberkul&oacute;zis</trd>
@@ -53,6 +54,9 @@
 </art>
 <!--
 $Log: tuberk.xml,v $
+Revision 1.16  2014/01/07 13:10:13  revo
+Damien Brucker: +trd fr
+
 Revision 1.15  2013/10/09 20:10:26  revo
 Wolfram Diestel: ref al lst malsanoj
 
@@ -72,8 +76,5 @@ Revision 1.10  2006/02/16 17:36:07  revo
 Tulio Flores: +trd pt
 
 Revision 1.9  2005/01/12 18:22:15  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2003/10/01 16:33:12  revo
 -->
 </vortaro>

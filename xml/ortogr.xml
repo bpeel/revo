@@ -2,10 +2,11 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ortogr.xml,v 1.13 2012/08/04 19:10:15 revo Exp $">
+<art mrk="$Id: ortogr.xml,v 1.18 2014/03/04 09:10:14 revo Exp $">
 <kap><ofc>1</ofc> <rad>ortografi</rad>/o</kap>
 <drv mrk="ortogr.0o">
   <kap><tld/>o</kap>
+  <uzo tip="fak">GRA</uzo>
   <snc>
     <dif>
       Maniero &gcirc;uste skribi la vortojn de iu lingvo:
@@ -20,18 +21,21 @@
      <trd>Rechtschreibung</trd>,
      <trd>Orthografie</trd>
     </trdgrp>
+    <trd lng="fr">graphie</trd>
   </snc>
   <snc>
     <dif>
       Maniero skribi la vortojn:
       <ekz>
-        &gcirc;usta, erara <tld/>o.
+        la fina le&gcirc;o por nia <tld/>o estos <ctl>por unu sono unu
+        litero</ctl><fnt><bib>LR</bib></fnt>.
       </ekz>
     </dif>
     <trdgrp lng="de">
      <trd>Schreibung</trd>,
      <trd>Schreibweise</trd>
     </trdgrp>
+  <ref tip="vid" cel="alfabe.0o">alfabeto</ref>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_v;&c_a;&c_p;&c_ib;&c_s;</trd>,
@@ -40,6 +44,7 @@
   <trd lng="ca">ortografia</trd>
   <trd lng="el">&omikron;&rho;&theta;&omikron;&gamma;&rho;&alfa;&phi;&jota_ton;&alfa;</trd>
   <trd lng="en">orthography</trd>
+  <trd lng="fr">orthographe</trd>
   <trd lng="hu">helyes&iacute;r&aacute;s</trd>
   <trdgrp lng="nl">
     <trd>orthografie</trd>,
@@ -55,6 +60,21 @@
 </art>
 <!--
 $Log: ortogr.xml,v $
+Revision 1.18  2014/03/04 09:10:14  revo
+Damien Brucker: +ctl
+
+Revision 1.17  2014/01/08 08:10:11  revo
+Damien Brucker: +trd fr
+
+Revision 1.16  2013/12/24 11:10:11  revo
+Damien Brucker: -em
+
+Revision 1.15  2013/12/23 10:10:11  revo
+Damien Brucker: Translokigo de la rim
+
+Revision 1.14  2013/12/09 13:10:18  revo
+Damien Brucker: +rim
+
 Revision 1.13  2012/08/04 19:10:15  revo
 Marc Rausell: + trd ca
 
@@ -62,20 +82,5 @@ Revision 1.12  2009/10/15 16:33:11  revo
 Paul Peeraerts: +nl +kor
 
 Revision 1.11  2003/07/13 16:31:25  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10  2003/03/09 17:35:52  revo
-Ulrich Fellmann: + 3 pliaj trd=de + 1 trd=vo
-
-Revision 1.9  2002/06/07 17:32:19  revo
-Eduardo M. Kalinowski: ald trd de, el, pt
-
-Revision 1.8  2002/01/08 19:26:20  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.7  2001/12/06 16:18:24  revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/03/28 20:02:57 revo
 -->
 </vortaro>

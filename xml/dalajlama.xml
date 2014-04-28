@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: dalajlama.xml,v 1.5 2011/12/07 23:10:17 revo Exp $">
+  <art mrk="$Id: dalajlama.xml,v 1.6 2013/12/02 13:10:27 revo Exp $">
     <kap><rad>dalajlama</rad>/o</kap>
 
     <drv mrk="dalajlama.0o">
@@ -32,13 +32,13 @@
             </fnt>.
           </ekz>
 	</dif>
-      </snc>
       <rim>
         La PIV-oj ial preferas skribon per <em>i</em>:
         <ctl>Dalai-lamao</ctl>.  La budaistoj mem tamen skribas per
         <em>j</em>.
         <aut>Sergio Pokrovskij</aut>
       </rim>
+      </snc>
       <trd lng="bg">&c_D;&c_a;&c_l;&c_a;&c_j; &c_L;&c_a;&c_m;&c_a;</trd>
       <trdgrp lng="ca">
         <trd>dalai-lama</trd>,
@@ -46,6 +46,7 @@
       </trdgrp>
       <trd lng="de">Dalai Lama</trd>
       <trd lng="en">Dalai Lama</trd>
+      <trd lng="fr">dala&iuml;-lama</trd>
       <trd lng="pl">Dalaj Lama</trd>
       <trdgrp lng="pt">
         <trd>dalai-lama</trd>,
@@ -59,6 +60,9 @@
 
 <!--
 $Log: dalajlama.xml,v $
+Revision 1.6  2013/12/02 13:10:27  revo
+Damien Brucker: +trd fr
+
 Revision 1.5  2011/12/07 23:10:17  revo
 Wieland Pusch: +trd bg
 

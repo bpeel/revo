@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sxose.xml,v 1.23 2013/03/21 20:10:28 revo Exp $">
+  <art mrk="$Id: sxose.xml,v 1.24 2014/03/24 17:10:39 revo Exp $">
     <kap>
       <ofc>3</ofc>
       <rad>&scirc;ose</rad>/o
@@ -61,6 +61,10 @@
         </trdgrp>
         <trd lng="de">Autobahn</trd>
         <trd lng="en">highway</trd>
+        <trdgrp lng="fr">
+          <trd>chauss&eacute;e</trd>,
+          <trd>route</trd>
+        </trdgrp>
         <trdgrp lng="hu">
           <trd>m&udblac;&uacute;t</trd>,
           <trd>k&ouml;z&uacute;t</trd>,
@@ -100,6 +104,7 @@
             <trd lng="ca">canal de transmissi&oacute;, d'informaci&oacute;</trd>
             <trd lng="de">Datenautobahn</trd>
             <trd lng="en">information superhighway</trd>
+            <trd lng="fr">autoroute de l'information</trd>
             <trd lng="hu">inform&aacute;ci&oacute;s szupersztr&aacute;da</trd>
             <trd lng="it">autostrada informatica</trd>
             <trd lng="nl">informatiesnelweg</trd>
@@ -123,6 +128,9 @@
   </art>
   <!--
   $Log: sxose.xml,v $
+  Revision 1.24  2014/03/24 17:10:39  revo
+  Damien Brucker: +trd fr
+
   Revision 1.23  2013/03/21 20:10:28  revo
   Dmitri Gabinski: redakto: +trd be
 

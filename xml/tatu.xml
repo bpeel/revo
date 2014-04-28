@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tatu.xml,v 1.15 2010/04/30 12:25:37 revo Exp $">
+<art mrk="$Id: tatu.xml,v 1.16 2013/11/22 13:10:23 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>tatu</rad>/i
@@ -12,7 +12,8 @@
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
-      Enpiki sub la ha&ubreve;to de iu neforigeblajn desegna&jcirc;ojn.
+      Enpiki sub ies ha&ubreve;to neforigeblajn desegna&jcirc;ojn per koloraj
+      pigmentoj.
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -53,6 +54,7 @@
     </dif>
   </snc>
   <trd lng="en">tattoo</trd>
+  <trd lng="fr">tatouage</trd>
   <trd lng="es">tatuaje</trd>
   <trd lng="pl">tatua&zdot;</trd>
   <trd lng="sv">tatuering</trd>
@@ -61,6 +63,9 @@
 </art>
 <!--
 $Log: tatu.xml,v $
+Revision 1.16  2013/11/22 13:10:23  revo
+Damien Brucker: +trd fr
+
 Revision 1.15  2010/04/30 12:25:37  revo
 Agustin Garcia Lopez: Aldoni hispanan lingvon
 
@@ -80,8 +85,5 @@ Revision 1.10  2005/11/02 17:31:48  revo
 Axel Rousseau: +trd fr
 
 Revision 1.9  2005/01/10 20:40:33  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2004/03/29 18:32:34  revo
 -->
 </vortaro>

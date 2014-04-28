@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: embara.xml,v 1.15 2013/07/07 01:10:09 revo Exp $">
+<art mrk="$Id: embara.xml,v 1.16 2014/02/08 10:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>embaras</rad>/o <fnt><bib>PV</bib></fnt>
@@ -272,7 +272,7 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="pez.mal0igi.FIZ">malpezigi<sncref/></ref>
+      <ref cel="pez.mal0igi">malpezigi</ref>
     </refgrp>
     <trdgrp lng="fr">
       <trd>d&eacute;barrasser</trd>,
@@ -297,7 +297,7 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="pez.mal0igi.PSI">malpezigi<sncref/></ref>
+      <ref cel="pez.mal0igi">malpezigi</ref>
     </refgrp>
     <trdgrp lng="fr">
       <trd>d&eacute;livrer<klr> (d'un embarras)</klr></trd>,
@@ -308,6 +308,9 @@
 </art>
 <!--
 $Log: embara.xml,v $
+Revision 1.16  2014/02/08 10:10:18  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.15  2013/07/07 01:10:09  revo
 Jeromo Vasxe: + mal~i
 
@@ -327,8 +330,5 @@ Revision 1.10  2005/09/04 17:49:21  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2004/08/01 19:37:18  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2002/10/23 20:38:18  revo
 -->
 </vortaro>

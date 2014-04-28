@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frangx.xml,v 1.15 2013/08/26 15:10:18 revo Exp $">
+<art mrk="$Id: frangx.xml,v 1.16 2014/01/16 16:10:12 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>fran&gcirc;</rad>/o</kap>
 <drv mrk="frangx.0o">
@@ -24,6 +24,10 @@
   <trd lng="ca">serrell</trd>
   <trd lng="de">Franse</trd>
   <trd lng="en">fringe</trd>
+  <trdgrp lng="es">
+    <trd>adorno</trd>,
+    <trd>flequillo</trd>
+  </trdgrp>
   <trd lng="fr">frange<klr tip="ind"> (ornement)</klr></trd>
   <trd lng="hu">rojt</trd>
   <trd lng="nl">franje</trd>
@@ -56,6 +60,9 @@
 </art>
 <!--
 $Log: frangx.xml,v $
+Revision 1.16  2014/01/16 16:10:12  revo
+Guillermo Molleda Jimena: Hispana tradukado
+
 Revision 1.15  2013/08/26 15:10:18  revo
 Joop Eggen: +trd bg
 
@@ -75,8 +82,5 @@ Revision 1.10  2006/03/10 17:31:15  revo
 Wieland Pusch: +trd de
 
 Revision 1.9  2005/07/27 16:32:03  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2004/01/04 17:32:48  revo
 -->
 </vortaro>

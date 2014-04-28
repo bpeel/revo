@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: radika1.xml,v 1.13 2011/03/27 12:10:09 revo Exp $">
+  <art mrk="$Id: radika1.xml,v 1.14 2013/12/02 13:10:36 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>radikal</rad>/o
@@ -57,6 +57,7 @@
         <trd lng="ru">&c_r;&c_a;&c_d;&c_i;&c_k;&c_a;&c_l;<klr tip="ind">
           (&c_h;&c_i;&c_m;.)</klr></trd>
       </snc>
+      <trd lng="fr">radical</trd>
     </drv>
     <drv mrk="radika1.0a">
       <kap><tld/>a</kap>
@@ -78,10 +79,14 @@
         <trd lng="ru">&c_r;&c_a;&c_d;&c_i;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
       </snc>
       <ref tip="hom" cel="radika.0a">radikala</ref>
+      <trd lng="fr">radical</trd>
     </drv>
   </art>
   <!--
   $Log: radika1.xml,v $
+  Revision 1.14  2013/12/02 13:10:36  revo
+  Damien Brucker: +trd fr
+
   Revision 1.13  2011/03/27 12:10:09  revo
   Russ Williams: +trd en
 

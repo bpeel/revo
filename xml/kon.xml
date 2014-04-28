@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kon.xml,v 1.37 2013/10/09 01:10:20 revo Exp $">
+<art mrk="$Id: kon.xml,v 1.40 2014/02/23 09:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kon</rad>/i <fnt><bib>PV</bib></fnt>
@@ -314,6 +314,45 @@
   lng="ru">&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
 </drv>
 
+<drv mrk="kon.0atigxi">
+  <kap><tld/>ati&gcirc;i</kap>
+  <snc>
+    <dif>
+       I&gcirc;i <tld/>ato kun iu:
+      <ekz>
+        mi vidu, &ccirc;u mi povas <tld/>ati&gcirc;i kun &scirc;i!<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  <trd lng="fr">devenir la connaissance</trd>  
+  </snc>
+  <snc>
+    <dif>
+      I&gcirc;i <tld/>anto de io:
+  <ekz>
+  mi <tld/>ati&gcirc;is kun la libroj el la biblioteko de la
+  metilernantoj<fnt>Z</fnt>;
+  </ekz>
+  <ekz>
+  tiujn &ccirc;i ideojn moki, e&ccirc; ne <tld/>ati&gcirc;inte kun ili<fnt>Z</fnt>;
+  </ekz>
+  <ekz>
+  per tradukoj <tld/>ati&gcirc;i kun fremdaj literaturoj<fnt>Z</fnt>;
+  </ekz>
+  <ekz>
+  per ili la vila&gcirc;ano <tld/>ati&gcirc;as kun la malaperintaj
+  tempoj<fnt>Z</fnt>.
+  </ekz>
+  </dif>
+  <trd lng="fr">prendre connaissance</trd>
+  </snc>
+  <rim>
+  Z klarigis, ke <ctl>ni uzas ordinare la formon "<tld/>ati&gcirc;i" (=fari&gcirc;i
+  <tld/>ato kun
+  iu), sed anka&ubreve; la formo "<tld/>i&gcirc;i" estas tute bona (=fari sin <tld/>i
+  ion)</ctl><fnt><bib>LR</bib></fnt>.
+  </rim>
+</drv>
+
 <drv mrk="kon.0igi">
   <kap><tld/>igi</kap>
   <snc>
@@ -452,6 +491,10 @@
       <ref cel="propag.0i.KOMUNE">propagandi</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="es">
+    <trd>darse a conocer</trd>,
+    <trd>anunciarse</trd>
+  </trdgrp>
   <trd lng="fr">diffuser<klr> (nouvelle, savoir...)</klr></trd>
 </drv>
 
@@ -812,6 +855,15 @@
 </art>
 <!--
 $Log: kon.xml,v $
+Revision 1.40  2014/02/23 09:10:12  revo
+Damien Brucker: +"
+
+Revision 1.39  2014/02/22 09:10:12  revo
+Damien Brucker: +~atigxi
+
+Revision 1.38  2014/02/13 06:10:12  revo
+Agustin Garcia Lopez: +trd(es) dis - igi
+
 Revision 1.37  2013/10/09 01:10:20  revo
 Jeromo Vasxe: + dis~igi/iginda
 
@@ -825,14 +877,5 @@ Revision 1.34  2009/09/30 16:31:10  revo
 Paul Peeraerts: +nl
 
 Revision 1.33  2009/07/01 17:22:14  revo
-Paul Peeraerts: korekto en nl
-
-Revision 1.32  2009/06/24 16:30:35  revo
-Jeromo Vasxe: + inter~atigxi
-
-Revision 1.31  2007/08/05 16:31:31  revo
-Wieland Pusch: +trd de
-
-Revision 1.30  2007/03/06 17:31:04  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: amaran.xml,v 1.14 2005/07/27 16:31:44 revo Exp $">
+<art mrk="$Id: amaran.xml,v 1.15 2014/03/13 18:10:12 revo Exp $">
 <kap>
   <rad>amarant</rad>/o
   <fnt>Z</fnt>
@@ -19,6 +19,10 @@
   <trdgrp lng="be">
     <trd>&c_a;&c_m;&c_a;&c_r;&c_a;&c_n;&c_t;</trd>,
     <trd>&c_a;&c_k;&c_s;&c_a;&c_m;&c_ib;&c_t;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_shch;&c_i;&c_r;</trd>,
+    <trd>&c_a;&c_m;&c_a;&c_r;&c_a;&c_n;&c_t;</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Amarant</trd>, <trd>Fuchsschwanz</trd>
@@ -49,6 +53,9 @@
 </art>
 <!--
 $Log: amaran.xml,v $
+Revision 1.15  2014/03/13 18:10:12  revo
+Joop Eggen: +trd bg
+
 Revision 1.14  2005/07/27 16:31:44  revo
 Jozefo Horvath: +trd h
 
@@ -68,8 +75,5 @@ Revision 1.9 2001/01/05 17:12:31 revo
 Karlo Freeman: aldonis komojn al la A-aj tradukoj
 
 Revision 1.8 2001/01/04 11:11:46 revo
-Karlo Freeman: aldono de Angla traduko.
-
-Revision 1.7 2000/09/16 16:13:59 revo
 -->
 </vortaro>

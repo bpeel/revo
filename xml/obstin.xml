@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: obstin.xml,v 1.26 2009/09/19 16:30:38 revo Exp $">
+<art mrk="$Id: obstin.xml,v 1.27 2014/03/24 20:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>obstin</rad>/a
@@ -56,6 +56,7 @@
     <trd>&c_z;&c_a;&c_w;&c_z;&c_ja;&c_t;&c_y;</trd>
   </trdgrp>
   <trd lng="cs">vzdorn&yacute;</trd>
+  <trd lng="es">obstinado</trd>
   <trdgrp lng="fr">
     <trd>obstin&eacute;</trd>,
     <trd>ent&ecirc;t&eacute;</trd>
@@ -128,6 +129,7 @@
     <trd>dickk&ouml;pfig sein</trd>
   </trdgrp>
   <trd lng="en">persist</trd>
+  <trd lng="es">obstinar</trd>
   <trdgrp lng="fr">
     <trd>s'<ind>obstiner</ind></trd>,
     <trd>s'<ind>ent&ecirc;ter</ind></trd>
@@ -185,6 +187,7 @@
     <trd>obstinance</trd>,
     <trd>stubbornness</trd>
   </trdgrp>
+  <trd lng="es">obstinaci&oacute;n</trd>
   <trdgrp lng="fr">
     <trd>obstination</trd>,
     <trd>ent&ecirc;tement</trd>
@@ -308,6 +311,9 @@
 </art>
 <!--
 $Log: obstin.xml,v $
+Revision 1.27  2014/03/24 20:10:22  revo
+Agustin Garcia Lopez: +trd(es)
+
 Revision 1.26  2009/09/19 16:30:38  revo
 Paul Peeraerts: +nl
 
@@ -327,8 +333,5 @@ Revision 1.21  2005/01/24 19:03:07  revo
 Jeromo Vasxe: + ~igi ~ulo, - () en rad
 
 Revision 1.20 2005/01/05 17:31:31 revo
-Wieland Pusch: aldono de germana traduko dickkoepfig
-(wp@wielandpusch.de)
-
 -->
 </vortaro>

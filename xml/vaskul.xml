@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vaskul.xml,v 1.4 2013/08/29 18:10:10 revo Exp $">
+<art mrk="$Id: vaskul.xml,v 1.5 2014/02/07 18:10:15 revo Exp $">
 <kap>
 <rad>vaskul</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -30,7 +30,7 @@
   <snc mrk="vaskul.0ajplantoj.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-       <ref tip="lst" cel="divizi.0o.BIO"
+       <ref tip="lst" cel="divizi.0o.BOT"
        lst="voko:botanikaj_grupoj">Divizio</ref> de <ref tip="malprt"
        cel="plant.0oj">plantoj</ref> (<trd lng="la">Tracheophyta</trd>)
        havanta <tld/>ojn.
@@ -41,6 +41,9 @@
 </art>
 <!--
 $Log: vaskul.xml,v $
+Revision 1.5  2014/02/07 18:10:15  revo
+Damien Brucker: -erarao cxe ref
+
 Revision 1.4  2013/08/29 18:10:10  revo
 Wolfram Diestel: +~aj plantoj
 

@@ -2,17 +2,19 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: brazil.xml,v 1.16 2013/08/23 09:10:10 revo Exp $">
+<art mrk="$Id: brazil.xml,v 1.20 2014/03/10 13:10:24 revo Exp $">
 <kap><ofc>8</ofc><rad>Brazil</rad>/o</kap>
 <drv mrk="brazil.B0o">
-  <kap><tld/>o</kap>
-  <uzo tip="fak">GEOG</uzo>
+  <kap><tld/>o</kap> 
   <snc>
+  <uzo tip="fak">GEOG</uzo>
+  <uzo tip="fak">POL</uzo>
     <dif>
       Sudamerika <ref tip="lst" cel="sxtat.0o"
-      lst="voko:&scirc;tatoj">&scirc;tato</ref>,
-      limanta
-      al <ref tip="vid" cel="urugvaj.U0o">Urugvajo</ref>, 
+      lst="voko:&scirc;tatoj">&scirc;tato</ref> kun &ccirc;efurbo <ref tip="dif"
+      cel="brazilj.0o">Braziljo</ref>, limanta al <ref
+      tip="vid"
+      cel="urugvaj.U0o">Urugvajo</ref>, 
       <ref tip="vid" cel="paragvaj.P0o">Paragvajo</ref>,
       <ref tip="vid" cel="argentin.A0o">Argentino</ref>, 
       <ref tip="vid" cel="bolivi.B0o">Bolivio</ref>,
@@ -58,6 +60,7 @@
     </dif>
   </snc>
   <trd lng="ca">brasiler <klr>(adj.)</klr></trd>
+  <trd lng="fr">br&eacute;silien<klr> (adj.)</klr></trd>
   <trd lng="pt">brasileiro <klr tip="amb"> (adj.)</klr></trd>
 </drv>
 
@@ -69,6 +72,7 @@
     </dif>
   </snc>
   <trd lng="ca">brasiler <klr>(individu)</klr></trd>
+  <trd lng="fr">Br&eacute;silien<klr> (subst.)</klr></trd>
   <trd lng="pt">brasileiro<klr tip="amb"> (subs.)</klr></trd>
 </drv>
 
@@ -129,6 +133,18 @@
 
 <!--
 $Log: brazil.xml,v $
+Revision 1.20  2014/03/10 13:10:24  revo
+Damien Brucker: -tajperaro
+
+Revision 1.19  2014/03/08 14:10:12  revo
+Damien Brucker: +ref al cxefurbo
+
+Revision 1.18  2014/03/08 12:10:37  revo
+Damien Brucker: +fak
+
+Revision 1.17  2014/03/08 09:10:21  revo
+Damien Brucker: +trd fr
+
 Revision 1.16  2013/08/23 09:10:10  revo
 Wolfram Diestel: referencoj al listo sxtatoj
 
@@ -139,17 +155,5 @@ Revision 1.14  2011/02/18 18:10:09  revo
 Luiz Portella: ~ajxo: <tld/> igxas <tld/>o
 
 Revision 1.13  2011/02/18 16:10:10  revo
-Luiz Portella: +~a ~ano ~ana ~ajxo ~eco ~ismo
-
-Revision 1.12  2011/02/16 15:10:18  revo
-Luiz Portella: kor. ref k mrk
-
-Revision 1.11  2011/02/13 02:10:32  revo
-Luiz Portella: kor. ref k mrk
-
-Revision 1.10  2010/10/16 16:30:36  revo
-Russ Williams: +ofc 8
-
-Revision 1.9  2010/01/18 17:32:02  revo
 -->
 </vortaro>

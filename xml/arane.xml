@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arane.xml,v 1.35 2013/09/08 19:10:42 revo Exp $">
+<art mrk="$Id: arane.xml,v 1.36 2014/02/07 21:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>arane</rad>/o <fnt><bib>PV</bib></fnt>
@@ -126,8 +126,7 @@
       Granda dorna krabo kun longaj kruroj, &scirc;ate man&gcirc;ata en iuj
       landoj, 
       <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
-      tip="malprt" cel="majed.0oj">majedoj</ref> (<trd
+      lst="voko:zoologiaj_genroj">genro</ref> el familio majedoj (<trd
       lng="la">Maja</trd>):
       <ekz>
         - Belegaj estas &ccirc;i tiuj soleoj!...
@@ -152,6 +151,9 @@
 </art>
 <!--
 $Log: arane.xml,v $
+Revision 1.36  2014/02/07 21:10:14  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.35  2013/09/08 19:10:42  revo
 Wolfram Diestel: kor. lst-ref
 
@@ -171,8 +173,5 @@ Revision 1.30  2009/08/18 19:17:06  revo
 Wieland Pusch: +trd bg
 
 Revision 1.29  2009/02/15 14:18:26  revo
-Wieland Pusch: +trd de,en
-
-Revision 1.28  2007/05/22 16:30:54  revo
 -->
 </vortaro>

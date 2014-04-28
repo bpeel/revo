@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: virt.xml,v 1.16 2013/04/08 13:10:40 revo Exp $">
+<art mrk="$Id: virt.xml,v 1.17 2013/12/05 13:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>virt</rad>/o
@@ -155,6 +155,7 @@
   </trdgrp>
   <trd lng="de">lasterhaft</trd>
   <trd lng="en">vicious</trd>
+  <trd lng="fr">pervers</trd>
   <trdgrp lng="hu">
     <trd>b&udblac;n&ouml;s</trd>,
     <trd>erk&ouml;lcstelen</trd>
@@ -170,6 +171,9 @@
 </art>
 <!--
 $Log: virt.xml,v $
+Revision 1.17  2013/12/05 13:10:11  revo
+Damien Brucker: +trd fr
+
 Revision 1.16  2013/04/08 13:10:40  revo
 Sebastian Cyprych: +trd pl
 
@@ -189,8 +193,5 @@ Revision 1.11  2005/02/03 17:33:38  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.10  2002/09/10 17:32:35  revo
-Viliam Bur: +sk trd
-
-Revision 1.9  2002/07/27 19:01:47  revo
 -->
 </vortaro>

@@ -2,13 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: origin1.xml,v 1.14 2008/04/17 17:52:07 revo Exp $">
+<art mrk="$Id: origin1.xml,v 1.16 2014/03/17 14:10:13 revo Exp $">
 <kap><ofc>1</ofc> <rad>original</rad>/a</kap>
 <drv mrk="origin1.0a">
    <kap><tld/>a</kap>
    <snc>
      <dif>
-       Karakterizas la unuan primitivan formon de io, kontraste al kopioj,
+       Karakterizas la unuan primitivan formon de io, kontraste al
+       kopioj,
        tradukoj a&ubreve; misformoj, kiujn oni devenigis de &gcirc;i:
        <ekz>
          tio estas nur
@@ -107,6 +108,14 @@
        <trd>&c_p;&c_r;&c_i;&c_ch;&c_u;&c_d;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>
      </trdgrp>
    </snc>
+   <snc>
+   <uzo tip="stl">EVI</uzo>
+   <ref tip="sin" cel="origin.0a">origina</ref>
+   <ekz>
+   se la adverbo estas vorto ne devena, sed <tld/>a
+   [&#8230;]<fnt><bib>LR</bib></fnt>
+   </ekz>
+   </snc>
    <trd lng="en">original</trd>
    <trd lng="hu">eredeti <klr tip="ind"> 
 (mell&eacute;kn&eacute;v)</klr></trd>
@@ -178,6 +187,12 @@ a&ubreve;
 </art>
 <!--
 $Log: origin1.xml,v $
+Revision 1.16  2014/03/17 14:10:13  revo
+Damien Brucker: +ref
+
+Revision 1.15  2014/03/17 13:10:14  revo
+Damien Brucker: +snc
+
 Revision 1.14  2008/04/17 17:52:07  revo
 Mireille Corobu: +trd fr
 
@@ -194,11 +209,5 @@ Revision 1.10  2002/06/07 17:31:47  revo
 Eduardo M. Kalinowski: ald trd pt
 
 Revision 1.9  2001/12/06 16:18:17  revo
-Yury Finkel: +trd ru
-
-Revision 1.8 2001/11/19 17:34:51 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.7 2001/11/04 19:14:37 revo
 -->
 </vortaro>

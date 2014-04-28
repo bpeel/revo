@@ -2,18 +2,18 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: he.xml,v 1.13 2010/05/31 16:30:22 revo Exp $">
+<art mrk="$Id: he.xml,v 1.15 2014/02/25 02:10:19 revo Exp $">
 <kap>
   <ofc>1</ofc>
-  <rad>he</rad>
+  <rad>he</rad> <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="he.0">
-  <kap>
-    <tld/>
-  </kap>
-  <snc>
+  <kap><tld/></kap>
+  <gra><vspec>ekkrio atentiga</vspec></gra>
+  <snc mrk="he.0.SON">
     <dif>
-      Ekkrio por alvoki, alturni la atenton.
+      Atentu, vigli&gcirc;u;
+      <ref tip="sin" cel="hej.0.SON">hej</ref>.
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_e;&c_j;</trd>
@@ -37,6 +37,12 @@
 </art>
 <!--
 $Log: he.xml,v $
+Revision 1.15  2014/02/25 02:10:19  revo
+Jeromo Vasxe: - ref, + vspec
+
+Revision 1.14  2014/02/18 12:10:18  revo
+Damien Brucker: +ref
+
 Revision 1.13  2010/05/31 16:30:22  revo
 Russ Williams: +trd en
 
@@ -53,11 +59,5 @@ Revision 1.9  2003/11/28 17:31:50  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.8  2002/01/04 17:35:07  revo
-Marc Bavant: +trd fr
-
-Revision 1.7  2001/11/20 17:38:04  revo
-Paul Peeraerts: aldonis nl trd
-
-Revision 1.6  2001/05/28 18:12:30  revo
 -->
 </vortaro>

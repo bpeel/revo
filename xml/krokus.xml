@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krokus.xml,v 1.18 2013/08/30 14:11:30 revo Exp $">
+<art mrk="$Id: krokus.xml,v 1.19 2014/03/26 16:10:26 revo Exp $">
 <kap>
   <rad>krokus</rad>/o
 </kap>
@@ -10,8 +10,8 @@
   <kap>
     <tld/>o
   </kap>
-  <uzo tip="fak">BOT</uzo>
   <snc>
+  <uzo tip="fak">BOT</uzo>
     <dif>
       <ref tip="lst" cel="genr.0o.BIO"
       lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
@@ -28,6 +28,7 @@
   <trd lng="ca">crocus</trd>
   <trd lng="de">Krokus</trd>
   <trd lng="en">crocus</trd>
+  <trd lng="fr">crocus</trd>
   <trd lng="hu">s&aacute;fr&aacute;ny</trd>
   <trd lng="nl">krokus</trd>
   <trdgrp lng="pt">
@@ -40,6 +41,9 @@
 </art>
 <!--
 $Log: krokus.xml,v $
+Revision 1.19  2014/03/26 16:10:26  revo
+Damien Brucker: +trd fr
+
 Revision 1.18  2013/08/30 14:11:30  revo
 Wolfram Diestel: kor. lst-ref
 
@@ -59,8 +63,5 @@ Revision 1.13  2006/11/02 17:30:52  revo
 Tulio Flores: +tr pt
 
 Revision 1.12  2004/04/15 16:31:53  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11  2003/04/23 16:32:01  revo
 -->
 </vortaro>

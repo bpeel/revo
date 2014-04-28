@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hok.xml,v 1.25 2012/10/23 00:11:41 revo Exp $">
+<art mrk="$Id: hok.xml,v 1.27 2013/12/28 19:10:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hok</rad>/o <fnt><bib>PV</bib></fnt>
@@ -161,9 +161,12 @@
 	        <bib>KompLeks</bib>
 	     </fnt>
       </ekz>
-    </dif> 
+    </dif>
+    <ref tip="vid" cel="ux.0.nomo">&ubreve;</ref>
     <trd lng="ca">breu <klr>(signe)</klr></trd>                         
-                     
+    
+    
+                    
     <trd lng="de">K&uuml;rzezeichen</trd>
     <trd lng="en">breve</trd>
     <trd lng="it">breve<klr> (fon.)</klr></trd>
@@ -530,6 +533,12 @@
 </art>
 <!--
 $Log: hok.xml,v $
+Revision 1.27  2013/12/28 19:10:09  revo
+Damien Brucker: +refgrp
+
+Revision 1.26  2013/12/28 18:10:14  revo
+Damien Brucker: +ref
+
 Revision 1.25  2012/10/23 00:11:41  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -546,11 +555,5 @@ Revision 1.21  2009/09/15 16:31:19  revo
 Antonio Codazzi: +trd it
 
 Revision 1.20  2008/06/06 16:30:16  revo
-Sebastian Cyprych: +snc .ubreve, .ccaron, .formi +eks cxe ~i, ~fadeno,
-~stango+trd pl
-
-Revision 1.19  2007/12/09 17:30:59  revo
-Wieland Pusch: +trd bg
-
 -->
 </vortaro>

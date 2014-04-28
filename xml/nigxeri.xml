@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nigxeri.xml,v 1.6 2013/02/10 02:10:50 revo Exp $">
+<art mrk="$Id: nigxeri.xml,v 1.7 2014/03/14 10:10:14 revo Exp $">
 <kap>
   <rad>ni&gcirc;eri</rad>/o
 </kap>
@@ -35,6 +35,10 @@
     <trd lng="bg">&c_N;&c_i;&c_g;&c_je;&c_r;&c_i;&c_ja;</trd>
     <trd lng="de">Nigeria</trd>
     <trd lng="en">Nigeria</trd>
+    <trdgrp lng="fr">
+      <trd>Nigeria</trd>,
+      <trd>R&eacute;publique f&eacute;d&eacute;rale du Nigeria</trd>
+    </trdgrp>
     <trdgrp lng="nl">
       <trd>Nigeria</trd>,
       <trd>Nigeri&euml;</trd>
@@ -51,6 +55,9 @@
 
 <!--
 $Log: nigxeri.xml,v $
+Revision 1.7  2014/03/14 10:10:14  revo
+Damien Brucker: +trd fr
+
 Revision 1.6  2013/02/10 02:10:50  revo
 Evandro Avellar: Traduko al Pt
 

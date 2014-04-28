@@ -2,18 +2,16 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: buhxor.xml,v 1.6 2010/11/10 17:30:41 revo Exp $">
+  <art mrk="$Id: buhxor.xml,v 1.7 2013/12/02 10:10:25 revo Exp $">
     <kap>
       <rad>Bu&hcirc;or</rad>/o
     </kap>
-
-    <uzo tip="fak">GEOG</uzo>
-
     <drv mrk="buhxor.B0o">
       <kap>
         <tld/>o
       </kap>
       <snc>
+      <uzo tip="fak">GEOG</uzo>
         <dif>
           Provinca &ccirc;efurbo en Uzbekujo; historie, grava centro
           budaisma, poste kaj precipe, granda kaj fama urbo de la
@@ -28,6 +26,7 @@
         <trd>Bukhara</trd>,
         <trd>Buxoro</trd>
       </trdgrp>
+      <trd lng="fr">Boukhara</trd>
       <trd lng="hu">Buhara</trd>
       <trd lng="ru">&c_B;&c_u;&c_h;&c_a;&c_r;&c_a;</trd>
       <trdgrp lng="sv">
@@ -41,6 +40,9 @@
 
 <!--
 $Log: buhxor.xml,v $
+Revision 1.7  2013/12/02 10:10:25  revo
+Damien Brucker: +trd fr
+
 Revision 1.6  2010/11/10 17:30:41  revo
 Wieland Pusch: +trd bg+de
 

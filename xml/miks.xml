@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: miks.xml,v 1.19 2013/04/16 07:10:09 revo Exp $">
+<art mrk="$Id: miks.xml,v 1.21 2014/01/09 20:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>miks</rad>/i
+  <rad>miks</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="miks.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
@@ -168,7 +168,7 @@
 
 <drv mrk="miks.0a">
   <kap><tld/>a</kap>
-  <snc>
+  <snc mrk="miks.0a.miksita">
     <dif>
       <tld lit="M"/>ita.
     </dif>
@@ -200,7 +200,7 @@
 
 <drv mrk="miks.0ajxo">
   <kap><tld/>a&jcirc;o</kap>
-  <snc>
+  <snc mrk="miks.0ajxo.KOMUNE">
     <dif>
       Io konsistanta el <tld/>itaj aferoj:
       <ekz>
@@ -231,7 +231,7 @@
 
 <drv mrk="miks.0igxi">
   <kap><tld/>i&gcirc;i</kap>
-  <snc>
+  <snc mrk="miks.0igxi.KOMUNE">
     <dif>
       I&gcirc;i <tld/>ita a&ubreve; sin <tld/>i:
       <ekz>
@@ -241,7 +241,7 @@
         rido <tld/>i&gcirc;is kun larmoj
       </ekz>
     </dif>
-    <refgrp tip="sin">
+    <refgrp tip="vid">
       <ref cel="fand">kunfandi&gcirc;i</ref>,
       <ref cel="konfuz">konfuzi&gcirc;i</ref>,
       <ref cel="plekt">interplektigi</ref>.
@@ -263,7 +263,7 @@
 <drv mrk="miks.al0i">
   <kap>al<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="miks.al0i.KOMUNE">
     <dif>
       Aldoni <tld/>ante:
       <ekz>
@@ -290,7 +290,7 @@
 <drv mrk="miks.en0i">
   <kap>en<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="miks.en0i.KOMUNE">
     <dif>
       Enmeti, enkonduki en fremdan aferon:
       <ekz>
@@ -323,10 +323,33 @@
   </trdgrp>
 </drv>
 
+<drv mrk="miks.en0igxema">
+  <kap>en<tld/>i&gcirc;ema</kap>
+  <snc mrk="miks.en0igxema.PSI">
+    <dif>
+      Kiu volonte en<tld/>i&gcirc;as,
+      trudas sin en aferojn de aliuloj,
+      ne estas
+      <ref tip="ant" cel="ten.de0igxema.PSI">deteni&gcirc;ema</ref>:
+      <ekz>
+        la kuba registaro plej akre kritikas la 
+        en<tld/>i&gcirc;eman kaj agresan karakteron de tiu politiko  
+        <fnt>
+          <aut>S. Niese, trad. V. Lutermano</aut>,
+          <vrk><url ref="http://www.mas-eo.org/spip.php?article454">
+          Obama kaj la Kubo-politiko de Usono</url></vrk>,
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">importun</trd>
+</drv>
+
 <drv mrk="miks.inter0i">
   <kap>inter<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="miks.inter0i.KOMUNE">
     <dif>
       Senorde, konfuze <tld/>i:
       <ekz>
@@ -356,37 +379,31 @@
   </trdgrp>
 </drv>
 
-<drv mrk="miks.sen0a">
-  <kap>sen<tld/>a</kap>
-  <snc>
+<drv mrk="miks.inter0igxi">
+  <kap>inter<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="miks.inter0igxi.KOMUNE">
     <dif>
-      Ne<tld/>ita, pura:
+      Reciproke <tld/>i&gcirc;i, inter diversspecaj aferoj:
       <ekz>
-        sen<tld/>a raso.
+        la praavoj de &scirc;ia raso <klr>...</klr> inter<tld/>i&gcirc;is kun la 
+        alia granda raso
+        <fnt>
+          <aut>E. R. Burroughs, trad. K. R. C. Sturmer</aut>,
+          <vrk><url
+          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0029/index.php">
+          Princino de Marso</url></vrk>,
+          <lok>1938</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_b;&c_je;&c_z; <ind>&c_d;&c_a;&c_m;&c_je;&c_sh;&c_k;&c_a;&c_w;</ind></trd>
-  <trd lng="br">divesk</trd>
-  <trd lng="fr">sans <ind>m&eacute;lange</ind></trd>
-  <trdgrp lng="hu">
-    <trd>tiszta</trd>,
-    <trd>nem kevert</trd>
-  </trdgrp>
-  <trdgrp lng="nl">
-    <trd>onvermengd</trd>,
-    <trd>zuiver<klr tip="ind"> (onvermengd)</klr></trd>
-  </trdgrp>
-  <trdgrp lng="pl">
-    <trd>bez <ind>domieszek</ind></trd>,
-    <trd>niedomieszkowany</trd>
-  </trdgrp>
-  <trd lng="ru">&c_b;&c_je;&c_z; <ind>&c_p;&c_r;&c_i;&c_m;&c_je;&c_s;&c_je;&c_j;</ind></trd>
+  <trd lng="fr">se <ind>m&eacute;langer</ind></trd>
 </drv>
 
 <drv mrk="miks.mal0i">
   <kap>mal<tld/>i<fnt>Z</fnt></kap>
-  <snc>
+  <snc mrk="miks.mal0i.KOMUNE">
     <dif>
       Malimpliki, malkonfuzi, diferencigi, ordigi.
     </dif>
@@ -419,9 +436,43 @@
     <trd>&c_r;&c_a;&c_z;&c_o;&c_b;&c_r;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
 </drv>
+
+<drv mrk="miks.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="miks.sen0a.KOMUNE">
+    <dif>
+      Ne<tld/>ita, pura:
+      <ekz>
+        sen<tld/>a raso.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_je;&c_z; <ind>&c_d;&c_a;&c_m;&c_je;&c_sh;&c_k;&c_a;&c_w;</ind></trd>
+  <trd lng="br">divesk</trd>
+  <trd lng="fr">sans <ind>m&eacute;lange</ind></trd>
+  <trdgrp lng="hu">
+    <trd>tiszta</trd>,
+    <trd>nem kevert</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>onvermengd</trd>,
+    <trd>zuiver<klr tip="ind"> (onvermengd)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>bez <ind>domieszek</ind></trd>,
+    <trd>niedomieszkowany</trd>
+  </trdgrp>
+  <trd lng="ru">&c_b;&c_je;&c_z; <ind>&c_p;&c_r;&c_i;&c_m;&c_je;&c_s;&c_je;&c_j;</ind></trd>
+</drv>
 </art>
 <!--
 $Log: miks.xml,v $
+Revision 1.21  2014/01/09 20:10:12  revo
+Jeromo Vasxe: + ~igxi
+
+Revision 1.20  2014/01/02 21:10:31  revo
+Jeromo Vasxe: + en~igxema
+
 Revision 1.19  2013/04/16 07:10:09  revo
 Sebastian Cyprych: +trd pl
 
@@ -438,11 +489,5 @@ Revision 1.15  2005/05/23 16:31:32  revo
 Alan ar Gall: +trd br
 
 Revision 1.14  2004/08/18 16:32:15  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.13  2004/06/10 16:32:01  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12  2003/12/15 18:16:21  revo
 -->
 </vortaro>

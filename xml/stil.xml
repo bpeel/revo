@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stil.xml,v 1.14 2010/05/18 16:30:47 revo Exp $">
+<art mrk="$Id: stil.xml,v 1.17 2013/12/24 11:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>stil</rad>/o <fnt><bib>PV</bib></fnt>
@@ -20,7 +20,12 @@
         karakteriza de homo, grupo, skolo:
         <ekz>
           ili skribas senerare, sed per multepeza malagrabla
-          <tld/>o<fnt>Z</fnt>.
+          <tld/>o<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+        la vera <tld/>o Esperanta estas nek slava, nek
+    germana, nek romana, gis estas -a&ubreve; almena&ubreve; devas esti- nur <tld/>o
+    simpla kaj logika<fnt><bib>LR</bib></fnt>.
         </ekz>
       </dif>
     </subsnc>
@@ -96,6 +101,15 @@
 </art>
 <!--
 $Log: stil.xml,v $
+Revision 1.17  2013/12/24 11:10:10  revo
+Damien Brucker: -em
+
+Revision 1.16  2013/12/23 10:10:14  revo
+Damien Brucker: -rim +ekz
+
+Revision 1.15  2013/12/09 09:10:12  revo
+Damien Brucker: +rim
+
 Revision 1.14  2010/05/18 16:30:47  revo
 Agustin Garcia Lopez: +korekti es
 
@@ -109,14 +123,5 @@ Revision 1.11  2005/04/03 17:17:20  revo
 Jeromo Vasxe: + bon~a, ~o snc/subsnc + tez
 
 Revision 1.10 2004/10/29 16:32:47 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9 2003/02/21 17:32:17 revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.8 2002/05/06 16:32:49 revo
-jxeromo vasxe: + sin koloro
-
-Revision 1.7 2002/02/23 19:51:05 revo
 -->
 </vortaro>

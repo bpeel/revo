@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ulmac.xml,v 1.13 2013/08/25 16:11:24 revo Exp $">
+<art mrk="$Id: ulmac.xml,v 1.15 2014/02/21 20:10:13 revo Exp $">
 <kap>
   <rad>ulmac</rad>/oj
 </kap>
@@ -20,14 +20,18 @@
       (<trd lng="la">Ulmaceae</trd>):
     </dif>
   </snc>
+  <trd lng="bg">&c_b;&c_r;&c_ja;&c_s;&c_t;&c_o;&c_v;&c_i;</trd>
   <trd lng="ca">ulm&agrave;cies</trd>
+  <trd lng="da">elme-familien</trd>
   <trd lng="de">Ulmengew&auml;chse</trd>
+  <trd lng="en">ulmaceae</trd>
   <trd lng="es">ulm&aacute;ceas</trd>
   <trd lng="fi">jalavakasvit</trd>
   <trd lng="fr">ulmac&eacute;es</trd>
   <trd lng="hu">szil(fa)f&eacute;l&eacute;k</trd>
   <trd lng="it">ulmacee</trd>
   <trd lng="nl">iepenfamilie</trd>
+  <trd lng="pl">wi&aogonek;zowate</trd>
   <trd lng="pt">ulm&aacute;ceas</trd>
   <trdgrp lng="ru">
     <trd>&c_i;&c_l;&c_mol;&c_m;&c_o;&c_v;&c_y;&c_je;</trd>,
@@ -39,6 +43,12 @@
 </art>
 <!--
 $Log: ulmac.xml,v $
+Revision 1.15  2014/02/21 20:10:13  revo
+Joop Eggen: +trd bg da en
+
+Revision 1.14  2014/01/13 07:10:32  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.13  2013/08/25 16:11:24  revo
 Wolfram Diestel: referenco al listo bot familio
 
@@ -55,11 +65,5 @@ Revision 1.9  2007/08/13 16:30:21  revo
 Jeromo Vasxe: + mrk
 
 Revision 1.8 2007/06/19 16:31:00 revo
-Harri Laine: +trd fi
-
-Revision 1.7 2002/08/13 17:32:10 revo
-Jose Martin del Pozo: ald es trd
-
-Revision 1.6 2002/05/15 16:37:07 revo
 -->
 </vortaro>

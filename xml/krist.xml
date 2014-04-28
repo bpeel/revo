@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krist.xml,v 1.37 2013/09/22 19:11:01 revo Exp $">
+<art mrk="$Id: krist.xml,v 1.38 2014/02/08 10:10:25 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>Krist</rad>/o
@@ -209,8 +209,7 @@
   <snc mrk="krist.0nasko.KRI">
     <uzo tip="fak">KRI</uzo>
     <dif>
-      Granda <ref tip="lst" cel="krist.0anajfestoj">kristana
-      festo</ref>,
+      Granda <ref tip="dif" cel="krist.0ano.KRI">kristana</ref> festo,
       memoriganta la naski&gcirc;on de Jesuo la <tld/>o (en la
       plimulto de la
       modernaj eklezioj festata je la 25a de decembro, en la
@@ -252,6 +251,9 @@
 </art>
 <!--
 $Log: krist.xml,v $
+Revision 1.38  2014/02/08 10:10:25  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.37  2013/09/22 19:11:01  revo
 Wolfram Diestel: referenco al listo religioj
 
@@ -271,8 +273,5 @@ Revision 1.32  2006/11/02 17:30:58  revo
 Tulio Flores: +tr pt
 
 Revision 1.31  2006/09/22 12:26:57  revo
-Wolfram Diestel: +tezrad(KRI)
-
-Revision 1.30  2006/06/19 16:32:19  revo
 -->
 </vortaro>

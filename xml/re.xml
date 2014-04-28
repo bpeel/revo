@@ -2,11 +2,13 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: re.xml,v 1.13 2010/10/30 16:30:45 revo Exp $">
+<art mrk="$Id: re.xml,v 1.16 2014/03/04 09:10:16 revo Exp $">
 <kap><ofc>*</ofc> <rad>re</rad>-</kap>
 <subart>
+  <drv mrk="re.0">
+  <kap><tld/>-</kap>
   <dif>
-    Pref. montranta:
+    Prefikso montranta:
   </dif>
   <snc>
     <dif>
@@ -83,11 +85,12 @@
     </trdgrp>
     <trd lng="nl">her-</trd>
   </snc>
+  </drv>
 </subart>
 
 <subart>
   <dif>
-    Samsignifa memstara vortero:
+    Samsignifa memstara vortero.
   </dif>
   <drv mrk="re.0e">
     <kap><tld/>e</kap>
@@ -177,12 +180,28 @@
         <trd>&c_z;&c_a;&c_d;&c_o;&c_m; &c_n;&c_a;&c_p;&c_je;&c_r;&c_jo;&c_d;</trd>
       </trdgrp>
     </snc>
+    <rim>
+        Atentu, ke en vortkunmeta&jcirc;oj <em>reen</em> iafoje povus esti
+        miskomprenata kiel la prefikso re- plus la rolvorteto -en:
+        <ekz>reeniri = &rightquot;iri reen&#8221;</ekz> a&ubreve; <ekz>&rightquot;denove eniri&#8221;</ekz>.
+        Ordinare la kunteksto tamen malebligas
+        miskomprenon<fnt><bib>PMEG</bib></fnt>.
+    </rim>
     <trd lng="nl">terug</trd>
   </drv>
 </subart>
 </art>
 <!--
 $Log: re.xml,v $
+Revision 1.16  2014/03/04 09:10:16  revo
+Damien Brucker: +rim
+
+Revision 1.15  2014/02/05 17:10:21  revo
+Damien Brucker: +ref
+
+Revision 1.14  2014/02/04 15:10:29  revo
+Damien Brucker: +kap
+
 Revision 1.13  2010/10/30 16:30:45  revo
 Russ Williams: +trd en
 
@@ -196,14 +215,5 @@ Revision 1.10  2003/08/06 16:30:58  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9  2003/03/09 17:35:06  revo
-Ulrich Fellmann: + 1 trd=vo
-
-Revision 1.8  2002/01/11 17:34:05  revo
-Yury Finkel: +trd ru
-
-Revision 1.7 2001/10/16 18:44:16 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.6 2001/09/05 19:03:03 revo
 -->
 </vortaro>

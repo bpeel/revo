@@ -2,14 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vitrin.xml,v 1.12 2011/02/08 11:10:13 revo Exp $">
+<art mrk="$Id: vitrin.xml,v 1.13 2013/12/01 10:10:25 revo Exp $">
 <kap>
   <rad>vitrin</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="vitrin.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">TEK</uzo>
-  <snc>
+    <snc>
+    <uzo tip="fak">TEK</uzo>
     <dif>
       Elmontra vitro&scirc;ranko.
     </dif>
@@ -21,6 +21,7 @@
     <trd>&pi;&rho;&omikron;&theta;&eta_ton;&kappa;&eta;</trd>
   </trdgrp>
   <trd lng="en">glass show-case</trd>
+  <trd lng="fr">vitrine</trd>
   <trd lng="hu">vitrin</trd>
   <trd lng="nl">vitrine</trd>
   <trdgrp lng="pl">
@@ -38,6 +39,9 @@
 </art>
 <!--
 $Log: vitrin.xml,v $
+Revision 1.13  2013/12/01 10:10:25  revo
+Damien Brucker: +trd fr
+
 Revision 1.12  2011/02/08 11:10:13  revo
 Russ Williams: +trd en
 
@@ -57,8 +61,5 @@ Revision 1.7  2002/07/27 19:02:18  revo
 Eduardo M. Kalinowski: ald trd el, pt
 
 Revision 1.6  2002/03/19 17:33:14  revo
-Yury Finkel: +trd ru
-
-Revision 1.5 2001/04/17 16:20:52 revo
 -->
 </vortaro>

@@ -2,15 +2,16 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kondic.xml,v 1.14 2011/12/05 01:10:29 revo Exp $">
+<art mrk="$Id: kondic.xml,v 1.15 2013/12/25 10:10:14 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>kondicional</rad>/o
 </kap>
 <drv mrk="kondic.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">GRA</uzo>
   <snc>
+  <uzo tip="fak">GRA</uzo>
+  <uzo tip="fak">LIN</uzo>
     <dif>
       Verba modo, esprimanta agon, kies plenumo dependas de la kondi&ccirc;o,
       a&ubreve;
@@ -43,6 +44,9 @@
 </art>
 <!--
 $Log: kondic.xml,v $
+Revision 1.15  2013/12/25 10:10:14  revo
+Damien Brucker: +fak LIN
+
 Revision 1.14  2011/12/05 01:10:29  revo
 Marc Rausell: kataluna traduko
 
@@ -62,8 +66,5 @@ Revision 1.9 2002/01/28 17:31:08 revo
 Ulrich Fellmann: + 4 germ trdj
 
 Revision 1.8 2001/11/07 19:19:07 revo
-Karlo Freeman: +trd = en
-
-Revision 1.7 2001/10/11 18:16:26 revo
 -->
 </vortaro>

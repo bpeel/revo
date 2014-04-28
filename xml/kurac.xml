@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kurac.xml,v 1.28 2012/08/22 06:10:08 revo Exp $">
+<art mrk="$Id: kurac.xml,v 1.29 2013/11/13 02:10:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kurac</rad>/i <fnt><bib>PV</bib></fnt>
@@ -114,6 +114,41 @@
     <trd>terapia</trd>
   </trdgrp>
   <trd lng="ru">&c_l;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+</drv>
+
+<drv mrk="kurac.0ato">
+  <kap><tld/>ato</kap>
+  <snc mrk="kurac.0ato.MED">
+    <uzo tip="fak">MED</uzo>
+    <ref tip="dif" cel="pacien1.0o.MED">paciento</ref>
+    <ekz>
+      venigu la <tld/>aton 33
+      <fnt>
+        <aut>trad. senlime</aut>,
+        <vrk><url ref="http://www.senlime.be/Kino/Diktator.htm">
+        La Granda Diktatoro</url></vrk>,
+        <lok>2005</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_c;&c_y;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_h;&c_v;&c_o;&c_r;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">Patient</trd>
+  <trd lng="en">patient</trd>
+  <trd lng="fr">patient<klr> (m&eacute;d.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>p&aacute;ciens</trd>,
+    <trd>beteg</trd>
+  </trdgrp>
+  <trd lng="it">paziente</trd>
+  <trd lng="nl">pati&euml;nt</trd>
+  <trd lng="pt">paciente</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_a;&c_c;&c_i;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_b;&c_o;&c_l;&c_mol;&c_n;&c_o;&c_j;<klr> (&c_v; &c_z;&c_n;. &c_s;&c_u;&c_shch;.)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kurac.0ejo">
@@ -317,6 +352,9 @@
 </art>
 <!--
 $Log: kurac.xml,v $
+Revision 1.29  2013/11/13 02:10:41  revo
+Jeromo Vasxe: + ~ato
+
 Revision 1.28  2012/08/22 06:10:08  revo
 Sebastian Cyprych: +trd pl
 
@@ -336,8 +374,5 @@ Revision 1.23  2006/09/22 12:27:49  revo
 Wolfram Diestel: +tezrad(MED)
 
 Revision 1.22  2006/05/08 16:31:33  revo
-Jeromo Vasxe: + best~isto, + mrk
-
-Revision 1.21 2005/08/28 16:31:26 revo
 -->
 </vortaro>

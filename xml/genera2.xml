@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: genera2.xml,v 1.14 2010/03/04 17:30:34 revo Exp $">
+<art mrk="$Id: genera2.xml,v 1.15 2014/02/02 16:10:12 revo Exp $">
 <kap><rad>generator</rad>/o</kap>
 <drv mrk="genera2.0o">
   <kap><tld/>o</kap>
@@ -14,10 +14,15 @@
       energion de alta a&ubreve; malalta frekvenco a&ubreve; tensio:
       <ekz>
         kiam oni parolas pri elektra <tld/>o temas en realeco nur pri
-        transformi&gcirc;o de mekanika, kaloria a&ubreve; &hcirc;emia
+        transformi&gcirc;o de me&hcirc;anika, kaloria a&ubreve; &hcirc;emia
         energio en elektran.
       </ekz>
     </dif>
+    <refgrp tip="prt">
+      <ref cel="dinam.0o">dinamo</ref>,
+      <ref cel="altern3.0o">alternatoro</ref>,
+      <ref cel="bateri.0o.ELE">baterio</ref>
+    </refgrp>
     <trdgrp lng="pl">
       <trd>pr&aogonek;dnica</trd>,
       <trd>alternator</trd>,
@@ -60,6 +65,9 @@
 </art>
 <!--
 $Log: genera2.xml,v $
+Revision 1.15  2014/02/02 16:10:12  revo
+Damien Brucker: +ref
+
 Revision 1.14  2010/03/04 17:30:34  revo
 Russ Williams: +trd en
 
@@ -79,8 +87,5 @@ Revision 1.9  2002/07/08 18:26:11  revo
 Alejandro Mejia Greene: ald 1 his trd
 
 Revision 1.8  2001/12/11 18:24:15  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.7 2001/10/08 18:15:38 revo
 -->
 </vortaro>

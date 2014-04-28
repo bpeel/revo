@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kimcxi.xml,v 1.6 2012/01/21 12:10:08 revo Exp $">
+<art mrk="$Id: kimcxi.xml,v 1.8 2014/02/22 02:10:12 revo Exp $">
 <kap>
   <rad>kim&ccirc;i</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -23,7 +23,10 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_k;&c_i;&c_m;&c_ch;&c_i;</trd>
+  <trd lng="cs">kim&ccaron;i</trd>
   <trd lng="de">Kimchi</trd>
+  <trd lng="en">kimchi</trd>
   <trd lng="fr">kimchi</trd>
   <trd lng="hu">kimcsi</trd>
   <trd lng="it">kimchi</trd>
@@ -34,6 +37,12 @@
 
 <!--
 $Log: kimcxi.xml,v $
+Revision 1.8  2014/02/22 02:10:12  revo
+Joop Eggen: +trd bg cs
+
+Revision 1.7  2014/02/17 13:10:25  revo
+Jessica Grasso: +tr en
+
 Revision 1.6  2012/01/21 12:10:08  revo
 Antonio Codazzi: +trd it
 
@@ -50,7 +59,5 @@ Revision 1.2  2005/12/21 17:31:59  revo
 Yury Finkel: +trd ru
 
 Revision 1.1  2005/09/28 16:31:12  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

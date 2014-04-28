@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trigle.xml,v 1.7 2013/08/31 14:10:47 revo Exp $">
+<art mrk="$Id: trigle.xml,v 1.8 2014/01/09 11:10:13 revo Exp $">
 <kap>
   <rad>trigled</rad>/oj
 </kap>
@@ -22,6 +22,7 @@
   <trd lng="de">Knurrh&auml;hne<klr tip="ind"> (Familie)</klr></trd>
   <trd lng="hu">morg&oacute;half&eacute;l&eacute;k</trd>
   <trd lng="nl">ponen<klr tip="ind"> (fam.)</klr></trd>
+  <trd lng="pl">kurkowate</trd>
   <trd lng="pt">trigl&iacute;deos</trd>
   <trdgrp lng="ru">
     <trd>&c_t;&c_r;&c_i;&c_g;&c_l;&c_y;<klr tip="ind"> (&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>,
@@ -31,6 +32,9 @@
 </art>
 <!--
 $Log: trigle.xml,v $
+Revision 1.8  2014/01/09 11:10:13  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.7  2013/08/31 14:10:47  revo
 Wolfram Diestel: referenco al listo zoo familioj
 

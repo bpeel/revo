@@ -2,18 +2,24 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ablati.xml,v 1.23 2011/01/17 17:10:10 revo Exp $">
+<art mrk="$Id: ablati.xml,v 1.25 2013/12/25 11:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ablativ</rad>/o
 </kap>
 <drv mrk="ablati.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <uzo tip="fak">GRA</uzo>
   <snc>
+  <uzo tip="fak">GRA</uzo>
     <dif>
-      Kazo de deklinacio en hinde&ubreve;ropaj lingvoj, esprimanta
-      propre la deirpunkton.
+      <ref tip="dif" cel="kaz.0o.GRA">Kazo</ref> de deklinacio en
+      hinde&ubreve;ropaj lingvoj, esprimanta
+      propre la deirpunkton:
+      <ekz>
+     <tld/>o absoluta estas speciala formo, uzata nur en kelkaj
+     malmultaj lingvoj: en Esperanto &gcirc;i ne
+     ekzistas<fnt><bib>LR</bib></fnt>. 
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -55,6 +61,12 @@
 </art>
 <!--
 $Log: ablati.xml,v $
+Revision 1.25  2013/12/25 11:10:12  revo
+Damien Brucker: +ref -rim->+ekz
+
+Revision 1.24  2013/12/09 09:10:13  revo
+Damien Brucker: +rim
+
 Revision 1.23  2011/01/17 17:10:10  revo
 Antonio Codazzi: +trd it
 
@@ -71,12 +83,6 @@ Revision 1.19  2008/09/20 07:21:52  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.18  2006/07/04 16:32:39  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.17  2005/08/31 16:32:04  revo
-Marc Bavant: belarangho
-
-Revision 1.16 2005/03/06 17:35:11 revo
 -->
 
 </vortaro>

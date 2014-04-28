@@ -2,17 +2,17 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ajx.xml,v 1.21 2013/06/01 20:10:09 revo Exp $">
+<art mrk="$Id: ajx.xml,v 1.23 2014/03/11 18:10:21 revo Exp $">
 <kap>
 <ofc>*</ofc>
 -<rad>a&jcirc;</rad>/
 </kap>
 <subart>
+  <drv mrk="ajx.0">
+  <kap>-<tld/></kap>
   <dif>
     Sufikso, kiu:
   </dif>
-  <drv mrk="ajx.0">
-  <kap>-<tld/></kap>
   <snc mrk="ajx.0.kun_adj">
     <dif>
       aplikate al adjektivo a&ubreve; adverbo, foje al substantivo
@@ -210,6 +210,7 @@ abstraktajn aferojn.
       </dif>
     </snc>
     <trd lng="be">&c_r;&c_e;&c_ch;</trd>
+    <trd lng="bg">&c_n;&c_je;&c_shch;&c_o;</trd>
     <trd lng="ca">cosa</trd>
     <trdgrp lng="fr">
       <trd>chose</trd>,
@@ -222,6 +223,7 @@ abstraktajn aferojn.
       <trd>Gegenstand</trd>.
     </trdgrp>
     <trd lng="en">thing</trd>
+    <trd lng="nl">ding</trd>
     <trd lng="oc">causa</trd>
     <trd lng="pl">rzecz</trd>
     <trd lng="ru">&c_v;&c_je;&c_shch;&c_mol;</trd>
@@ -233,6 +235,12 @@ abstraktajn aferojn.
 </art>
 <!--
 $Log: ajx.xml,v $
+Revision 1.23  2014/03/11 18:10:21  revo
+Joop Eggen: +trd bg nl
+
+Revision 1.22  2014/02/05 10:10:14  revo
+Damien Brucker: +kap
+
 Revision 1.21  2013/06/01 20:10:09  revo
 Benito Subejrano: + trd ca oc
 
@@ -249,11 +257,5 @@ Revision 1.17  2006/09/10 15:40:19  revo
 Axel Rousseau: +trd tp fr
 
 Revision 1.16  2005/03/06 17:37:07  revo
-Yury Finkel: +trd ru
-
-Revision 1.15  2003/10/30 17:31:18  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14  2003/05/17 16:32:49  revo
 -->
 </vortaro>

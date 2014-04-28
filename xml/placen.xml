@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: placen.xml,v 1.11 2010/12/10 20:17:21 revo Exp $">
+<art mrk="$Id: placen.xml,v 1.12 2014/03/25 20:10:18 revo Exp $">
 <kap>
   <rad>placent</rad>/o
   <fnt>Z</fnt>
@@ -21,6 +21,7 @@ la
       <trd>Mutterkuchen</trd>
     </trdgrp>
     <trd lng="en">placenta</trd>
+    <trd lng="fr">placenta</trd>
     <trd lng="hu">m&eacute;hlep&eacute;ny</trd>
     <trdgrp lng="nl">
       <trd>placenta</trd>,
@@ -53,6 +54,9 @@ la
 </art>
 <!--
 $Log: placen.xml,v $
+Revision 1.12  2014/03/25 20:10:18  revo
+Damien Brucker: +trd fr
+
 Revision 1.11  2010/12/10 20:17:21  revo
 Antonio Codazzi: +trd it
 
@@ -72,8 +76,5 @@ Revision 1.6  2001/12/19 17:33:35  revo
 Yury Finkel: +trd ru
 
 Revision 1.5 2001/07/27 19:33:02 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.4 2001/07/09 18:16:31 revo
 -->
 </vortaro>

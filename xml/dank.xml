@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: dank.xml,v 1.57 2013/10/07 07:10:09 revo Exp $">
+  <art mrk="$Id: dank.xml,v 1.59 2013/12/29 02:10:13 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>dank</rad>/i <fnt><bib>PV</bib></fnt>
@@ -299,8 +299,7 @@
       <snc>
       <dif>
       Prepozicia&jcirc;o regula devenanta de la mallongigita esprimo
-      <ctl>(estu
-      dirita) dank(o) al</ctl>.
+      "(estu dirita) dank(o) al".
       </dif>
       <rim> La apostrofo &ccirc;i-okaze ne anstata&ubreve;as la forlasitan literon e,
       &ccirc;ar tion ne ebligas la 16-a regulo de gramatiko.
@@ -458,7 +457,11 @@
         </dif>
         <rim>
           La nuanco kun <ctl><tld/>a</ctl> ne estas tre granda. Teorie
-          iu <tld/>ema facile havas la kapablon senti sin <tld/>a.
+          iu <tld/>ema facile havas la kapablon senti sin <tld/>a:<ekz>
+          oni ne uzu <ctl><tld/>ema</ctl>, kiam ne temas pri konstanta
+          emo al <tld/>o, sed pri la momenta manifesti&gcirc;o de <tld/>o pro
+          konkreta
+          servo oni simple uzu <ctl><tld/>a</ctl><fnt>AdE</fnt></ekz>.
         </rim>
       </snc>
       <trd lng="be">&c_u;&c_d;&c_z;&c_ja;&c_ch;&c_n;&c_y;</trd>
@@ -635,6 +638,12 @@
   </art>
   <!--
   $Log: dank.xml,v $
+  Revision 1.59  2013/12/29 02:10:13  revo
+  Damien Brucker: +ref
+
+  Revision 1.58  2013/11/28 14:10:14  revo
+  Damien Brucker: +rim cxe dankema
+
   Revision 1.57  2013/10/07 07:10:09  revo
   Damien Brucker: Aldono de citiloj
 

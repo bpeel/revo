@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tarok.xml,v 1.13 2012/08/13 16:10:33 revo Exp $">
+<art mrk="$Id: tarok.xml,v 1.14 2013/12/02 13:10:35 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>tarok</rad>/o
@@ -25,6 +25,7 @@
     <trd>tarok</trd>,
     <trd>tarot</trd>
   </trdgrp>
+  <trd lng="fr">tarot</trd>
   <trd lng="hu">tarokk</trd>
   <trd lng="nl">tarok</trd>
   <trd lng="pl">tarok</trd>
@@ -36,6 +37,9 @@
 </art>
 <!--
 $Log: tarok.xml,v $
+Revision 1.14  2013/12/02 13:10:35  revo
+Damien Brucker: +trd fr
+
 Revision 1.13  2012/08/13 16:10:33  revo
 Marc Rausell: + trd ca
 
@@ -55,8 +59,5 @@ Revision 1.8  2002/08/16 17:31:28  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.7  2002/03/01 17:35:45  revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/05/27 18:15:20 revo
 -->
 </vortaro>

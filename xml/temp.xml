@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: temp.xml,v 1.64 2013/07/02 01:10:11 revo Exp $">
+<art mrk="$Id: temp.xml,v 1.70 2014/03/13 02:10:25 revo Exp $">
 <kap>
  <ofc>*</ofc>
  <rad>temp</rad>/o <fnt><bib>PV</bib></fnt>
@@ -148,14 +148,15 @@
    <uzo tip="fak">GRA</uzo>
    <dif>
      Fleksio de verbo montranta, ke la priparolata
-     ago estas nuna (prezenco), pasinta (preterito)
-     a&ubreve; estonta (futuro).
+     ago estas estanta (prezenco, fina&jcirc;o -as), pasinta (preterito,
+     fina&jcirc;o -is)
+     a&ubreve; venonta (futuro, fina&jcirc;o -os).
    </dif>
    <refgrp tip="vid">
      <ref cel="modal.0o.GRA.modo">modalo <sncref/></ref>
      <!-- , <ref cel="tens.0o">tenso</ref> mankas artikolo "tenso" -->
    </refgrp>
-   <trdgrp lng="de">
+     <trdgrp lng="de">
      <trd>Zeit</trd>,
      <trd>Tempus</trd>
    </trdgrp>
@@ -380,17 +381,46 @@
 </drv>
 
 <drv mrk="temp.dum0a">
- <kap>dum<tld/>a</kap>
- <dif>
-       Da&ubreve;ranta a&ubreve; okazanta nur dum difinita tempo
- </dif>
- <trd lng="en">temporary</trd>
- <trdgrp lng="it">
-   <trd>temporaneo</trd>, <trd>transitorio</trd>
- </trdgrp>
- <trdgrp lng="pl">
-   <trd>tymczasowy</trd>
- </trdgrp>
+  <kap>dum<tld/>a, <var><kap>por<tld/>a</kap></var></kap>
+  <snc>
+    <dif>
+      Da&ubreve;ranta a&ubreve; okazanta nur dum difinita tempo.
+    </dif>
+  </snc>
+  <trd lng="en">temporary</trd>
+  <trdgrp lng="fr">
+    <trd>temporaire</trd>,
+    <trd>transitoire</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>temporaneo</trd>,
+    <trd>transitorio</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>tymczasowy</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="temp.eks0a">
+  <kap>eks<tld/>a</kap>
+  <snc mrk="temp.eks0a.KOMUNE">
+    <dif>
+      El pasinta tempo;
+      <ref tip="vid" cel="arkaik.0a.KOMUNE">arkaika</ref>:
+      <ekz>
+        lasu la eks<tld/>ajn idealojn
+        <fnt>
+          <aut>I. Mad&aacute;ch, trad. K. Kalocsay</aut>, 
+          <vrk>La Tragedio de l' Homo</vrk>, 
+          <lok>1965</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>d&eacute;pass&eacute;</trd>
+    <trd>d&eacute;suet</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="temp.fiks0o">
@@ -423,34 +453,34 @@
 </drv>
 
 <drv mrk="temp.for0igxi">
- <kap>for<tld/>i&gcirc;i</kap>
- <snc mrk="temp.for0igxi.kiam">
-   <dif>
-   Arkaiki&gcirc;i, malaktuali&gcirc;i; perdi&gcirc;i, senvalori&gcirc;i
-     pro troa prokrasto.
-   </dif>
-   <refgrp tip="vid">
-     <ref cel="kaduk.0igxi">kaduki&gcirc;i</ref>,
-     <ref cel="valid">senvalidi&gcirc;i</ref>
-   </refgrp>
- </snc>
- <trd lng="be">&c_s;&c_a;&c_s;&c_t;&c_a;&c_r;&c_e;&c_c;&c_mol;</trd>
- <trdgrp lng="en">
-   <trd>expire</trd>,
-   <trd>run out</trd>,
-   <trd>terminate</trd>
- </trdgrp>
- <trdgrp lng="fr">
-   <trd>&ecirc;tre <ind>d&eacute;pass&eacute;</ind><klr> (dans le
-   temps)</klr></trd>,
-   <trd>avoir fait son <ind>temps</ind></trd>
- </trdgrp>
- <trdgrp lng="hu">
-   <trd>el&eacute;v&uuml;l</trd>,
-   <trd>elavul</trd>
- </trdgrp>
- <trd lng="pl">przedawni&cacute; si&eogonek;</trd>
- <trd lng="ru">&c_u;&c_s;&c_t;&c_a;&c_r;&c_je;&c_t;&c_mol;</trd>
+  <kap>for<tld/>i&gcirc;i</kap>
+  <snc mrk="temp.for0igxi.kiam">
+    <dif>
+      Arkaiki&gcirc;i,
+      <ref tip="vid" cel="kaduk.0igxi">kaduki&gcirc;i</ref>,
+      senvalori&gcirc;i pro troa prokrasto.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="valid">senvalidi&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_s;&c_t;&c_a;&c_r;&c_e;&c_c;&c_mol;</trd>
+  <trdgrp lng="en">
+    <trd>expire</trd>,
+    <trd>run out</trd>,
+    <trd>terminate</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre <ind>d&eacute;pass&eacute;</ind><klr> (dans le
+    temps)</klr></trd>,
+    <trd>avoir fait son <ind>temps</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>el&eacute;v&uuml;l</trd>,
+    <trd>elavul</trd>
+  </trdgrp>
+  <trd lng="pl">przedawni&cacute; si&eogonek;</trd>
+  <trd lng="ru">&c_u;&c_s;&c_t;&c_a;&c_r;&c_je;&c_t;&c_mol;</trd>
 </drv>
 
 <drv mrk="temp.gxusta0e">
@@ -501,16 +531,14 @@
  <kap>inter<tld/>e</kap>
  <snc mrk="temp.inter0e.KOMUNE">
    <dif>
-     Inter du okaza&jcirc;oj, inter tiam kaj nun:
+     Inter du okaza&jcirc;oj, inter tiam kaj nun;
+     <ref tip="sin" cel="dum.0e.kiam">dume<sncref/></ref>:
      <ekz>
        la muroj e&ccirc; &scirc;ajnis fremdaj, nekonataj, &ccirc;ar
        inter<tld/>e oni riparis fundamente
        <fnt><bib>Metrop</bib></fnt>.
      </ekz>
    </dif>
-   <refgrp tip="sin">
-     <ref cel="dum.0e.kiam">dume <sncref/></ref>
-   </refgrp>
  </snc>
  <trd lng="be">&c_t;&c_y;&c_m; &c_ch;&c_a;&c_s;&c_a;&c_m;</trd>
  <trdgrp lng="de">
@@ -539,6 +567,24 @@
  </trdgrp>
  <trd lng="ro">&icirc;ntre timp</trd>
  <trd lng="ru">&c_t;&c_je;&c_m; &c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_je;&c_m;</trd>
+</drv>
+
+<drv mrk="temp.inter0o">
+  <kap>inter<tld/>o</kap>
+  <snc mrk="temp.inter0o.KOMUNE">
+    <dif>
+      <tld lit="T"/>o inter du limoj, du okaza&jcirc;oj:
+      <ekz>
+        post inter<tld/>o de dek kvar jaroj, mi denove supreniris al 
+        Jerusalem
+        <fnt>
+          <bib>NT</bib>,
+          <lok>&Gal; 2:1</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">intervalle<klr> (de temps)</klr></trd>
 </drv>
 
 <drv mrk="temp.lasta0e">
@@ -737,6 +783,24 @@
    <trd>zaleg&lstroke;y</trd>,
  </trdgrp>
  <trd lng="ro">ulterior</trd>
+</drv>
+
+<drv mrk="temp.pra0o">
+  <kap>pra<tld/>o</kap>
+  <snc mrk="temp.pra0o.KOMUNE">
+    <dif>
+      Tre antikva tempo:
+      <ekz>
+        elmortintaj bestoj de l' pra<tld/>oj
+        <fnt>
+          <aut>I. Mad&aacute;ch, trad. K. Kalocsay</aut>, 
+          <vrk>La Tragedio de l' Homo</vrk>, 
+          <lok>1965</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">temps anciens</trd>
 </drv>
 
 <drv mrk="temp.prov0o">
@@ -996,6 +1060,19 @@
        </fnt>.
      </ekz>
    </dif>
+   <rim num="1">
+   Z. klarigis, ke <ctl>se anstata&ubreve; "sia<tld/>e" vi diros "&gcirc;ia<tld/>e",
+   vi ne faros eraron; sed &scirc;ajnas al me, ke en la plimulto da okazoj
+   "sia<tld/>e" estas pli bona ol
+   "&gcirc;ia<tld/>e"</ctl><fnt><bib>LR</bib></fnt>.
+   </rim>
+   <rim num="2">
+   Z. atentigis, ke <ctl> diri "iam" anstata&ubreve; "sia<tld/>e" ni en la
+   plimulto da okazoj ne povas, &ccirc;ar la senco de amba&ubreve; vortoj estas
+   malsama. "Iam" esprimas tempon nedifinitian, dum "sia<tld/>e"
+   esprimas tempon kvankam ne klare nomitan, tamen pli-malpli
+   difinitan</ctl><fnt><bib>LR</bib></fnt>.
+   </rim>
  </snc>
  <trd lng="be">&c_u; &c_s;&c_v;&c_o;&c_j;
  <ind>&c_ch;&c_a;&c_s;</ind></trd>
@@ -1050,6 +1127,7 @@
        ni atentigu, ke la&ubreve; la somera <tld/>o niaj programoj
        a&ubreve;di&gcirc;os je unu horo pli frue
        <fnt>
+         <aut>B. Pietrzak</aut>,
          <vrk><url
          ref="http://www.bavaresperantoinfo.de/0203/aktuell1.htm">
          Somera elsendohoraro de Pola Radio</url></vrk>,
@@ -1164,27 +1242,27 @@
 </art>
 <!--
 $Log: temp.xml,v $
+Revision 1.70  2014/03/13 02:10:25  revo
+Jeromo Vasxe: + pra~o
+
+Revision 1.69  2014/03/11 08:10:15  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.68  2014/03/07 02:10:25  revo
+Jeromo Vasxe: + eks~a
+
+Revision 1.67  2014/01/14 02:10:25  revo
+Jeromo Vasxe: + inter~o
+
+Revision 1.66  2013/12/19 10:10:14  revo
+Damien Brucker: +ekz
+
+Revision 1.65  2013/12/09 10:10:14  revo
+Damien Brucker: +rim 1 kaj 2
+
 Revision 1.64  2013/07/02 01:10:11  revo
 Benito Subejrano: + trd ca oc
 
 Revision 1.63  2011/03/08 12:10:08  revo
-Russ Williams: provo ripari formaton (aldoni snc)
-
-Revision 1.62  2010/11/04 17:30:46  revo
-Jeromo Vasxe: kor. fusxitan fnt
-
-Revision 1.61  2009/12/13 17:30:29  revo
-Antonio Codazzi: +trd it
-
-Revision 1.60  2009/02/10 14:18:29  revo
-Sebastian Cyprych: -fusxaj linirompoj en trd
-
-Revision 1.59  2008/12/22 17:30:36  revo
-Jeromo Vasxe: + ~ismo
-
-Revision 1.58  2008/11/05 17:31:15  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.57  2008/01/08 17:30:16  revo
 -->
 </vortaro>

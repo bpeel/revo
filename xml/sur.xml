@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sur.xml,v 1.25 2011/12/05 14:10:13 revo Exp $">
+<art mrk="$Id: sur.xml,v 1.26 2014/02/18 12:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sur</rad> <fnt><bib>PV</bib></fnt>
@@ -448,7 +448,6 @@
 </subart>
 
 <subart>
-  <snc>
     <dif>
       Prefikso samsignifa:
       <ekz>
@@ -473,12 +472,14 @@
         <klr>(&c_n;&c_a; &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
       </ekz>
     </dif>
-  </snc>
   <trd lng="hu">r&aacute;-</trd>
 </subart>
 </art>
 <!--
 $Log: sur.xml,v $
+Revision 1.26  2014/02/18 12:10:13  revo
+Damien Brucker: -snc cxe II.
+
 Revision 1.25  2011/12/05 14:10:13  revo
 Marc Rausell: kataluna traduko
 
@@ -498,8 +499,5 @@ Revision 1.20 2007/01/12 17:30:54 revo
 Russ Williams: +trd en
 
 Revision 1.19 2006/10/09 10:43:42 revo
-Axel Rousseau: +trd tp
-
-Revision 1.18 2004/11/05 17:32:22 revo
 -->
 </vortaro>

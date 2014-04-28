@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: heder.xml,v 1.20 2013/08/26 09:10:22 revo Exp $">
+<art mrk="$Id: heder.xml,v 1.21 2014/03/09 20:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>heder</rad>/o
@@ -26,7 +26,8 @@
   <bld lok="../bld/heder.jpg">
     folioj de hedero <klr>(Hedera helix)</klr>
   </bld>
-  <trd lng="be">&c_p;&c_l;&c_ju;&c_sh;&c_ch;</trd>    
+  <trd lng="be">&c_p;&c_l;&c_ju;&c_sh;&c_ch;</trd>
+  <trd lng="bg">&c_b;&c_r;&c_malmol;&c_sh;&c_l;&c_ja;&c_n;</trd>
   <trd lng="br">iliav(enn)</trd>
   <trd lng="de">Efeu</trd>
   <trd lng="en">ivy</trd>
@@ -48,6 +49,9 @@
 </art>
 <!--
 $Log: heder.xml,v $
+Revision 1.21  2014/03/09 20:10:12  revo
+Joop Eggen: +trd bg
+
 Revision 1.20  2013/08/26 09:10:22  revo
 Wolfram Diestel: referenco al listoj bot genro
 
@@ -67,8 +71,5 @@ Revision 1.15  2004/01/10 17:33:03  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.14  2002/10/28 19:21:22  revo
-Christopher Zervic: + ang
-
-Revision 1.13  2002/07/11 17:32:38  revo
 -->
 </vortaro>

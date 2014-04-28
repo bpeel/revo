@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kluk.xml,v 1.16 2013/10/10 20:10:19 revo Exp $">
+<art mrk="$Id: kluk.xml,v 1.17 2014/01/09 10:10:16 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>kluk</rad>/i <fnt><bib>PV</bib></fnt>
@@ -27,6 +27,7 @@
     </dif>
   </snc>
   <trd lng="fr">cot !</trd>
+  <trd lng="pl">ko!</trd>
 </drv>
 
 <drv mrk="kluk.0i">
@@ -54,6 +55,7 @@
       <trd>glousser</trd>
     </trdgrp>
     <trd lng="nl">kakelen</trd>
+    <trd lng="pl">gdaka&cacute;</trd>
     <trdgrp lng="ru">
       <trd>&c_k;&c_u;&c_d;&c_a;&c_h;&c_t;&c_a;&c_t;&c_mol;</trd>,
       <trd>&c_k;&c_v;&c_o;&c_h;&c_t;&c_a;&c_t;&c_mol;</trd>
@@ -124,6 +126,9 @@
 </art>
 <!--
 $Log: kluk.xml,v $
+Revision 1.17  2014/01/09 10:10:16  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.16  2013/10/10 20:10:19  revo
 Jeromo Vasxe: + ~
 
@@ -143,8 +148,5 @@ Revision 1.11  2002/06/04 18:01:26  revo
 Axel Rousseau: +trd fr
 
 Revision 1.10  2002/02/07 17:33:50  revo
-Yury Finkel: konv (f)
-
-Revision 1.9 2001/11/26 17:36:30 revo
 -->
 </vortaro>

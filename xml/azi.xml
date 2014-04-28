@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: azi.xml,v 1.34 2013/09/15 19:10:33 revo Exp $">
+<art mrk="$Id: azi.xml,v 1.36 2014/02/16 17:10:12 revo Exp $">
 <kap>
   <rad>Azi</rad>/o
   <ofc>8</ofc>
@@ -45,6 +45,7 @@
     </dif>
     <ref tip="malprt" cel="euxraz.E0o">E&ubreve;razio</ref>
   </snc>
+  <trd lng="be">&c_A;&c_z;&c_ib;&c_ja;</trd>
   <trd lng="bg">&c_A;&c_z;&c_i;&c_ja;</trd>
   <trd lng="ca">&Agrave;sia</trd>
   <trd lng="de">Asien</trd>
@@ -81,6 +82,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_z;&c_ib;&c_ja;&c_t;</trd>
   <trd lng="bg">&c_a;&c_z;&c_i;&c_a;&c_t;&c_je;&c_c;</trd>
   <trd lng="ca">asi&agrave;tic</trd>
   <trd lng="de">Asiate</trd>
@@ -166,7 +168,7 @@
     <dif>
       La okcidenta parto de <ref tip="malprt" cel="azi.A0o">
       <tld/>o</ref>
-      (<ref tip="prt" cel="anatoli.A0o">Anatolio</ref>,
+      (<ref tip="prt" cel="anatoli.0o">Anatolio</ref>,
       Ka&ubreve;kazo,
       <ref tip="prt" cel="mezopotami.M0o">Mezopotamio</ref>,
       Irano, Arabujo).
@@ -250,7 +252,7 @@
   <kap>Malgrand-<tld/>o</kap>
   <snc>
     <uzo tip="fak">GEOG</uzo>
-    <ref tip="dif" cel="anatoli.A0o">Anatolio</ref>
+    <ref tip="dif" cel="anatoli.0o">Anatolio</ref>
   </snc>
   <trdgrp lng="ca">
     <trd>&Agrave;sia Menor</trd>,
@@ -274,6 +276,12 @@
 </art>
 <!--
 $Log: azi.xml,v $
+Revision 1.36  2014/02/16 17:10:12  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.35  2014/02/09 09:10:12  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.34  2013/09/15 19:10:33  revo
 Wolfram Diestel: ref al lst-oj mondopartoj
 
@@ -290,11 +298,5 @@ Revision 1.30  2010/11/10 17:30:44  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.29  2010/03/13 17:30:35  revo
- Evandro Avellar: + trd pt
-
-Revision 1.28  2009/06/02 18:47:22  revo
-Russ Williams: +trd en
-
-Revision 1.27  2009/05/21 16:30:22  revo
 -->
 </vortaro>

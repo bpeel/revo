@@ -2,15 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bulgari.xml,v 1.5 2013/10/09 18:10:24 revo Exp $">
+<art mrk="$Id: bulgari.xml,v 1.6 2013/11/22 14:10:36 revo Exp $">
 <kap>
   <rad>Bulgari</rad>/o
 </kap>
 
 <drv mrk="bulgari.B0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">GEOG</uzo>
-  <snc>
+    <snc>
+    <uzo tip="fak">GEOG</uzo>
     <dif>
       <ekz>
         <tld lit="B"/>o estas lando en la balkana duoninsulo.
@@ -23,12 +23,16 @@
   <trd lng="bg">&c_B;&c_malmol;&c_l;&c_g;&c_a;&c_r;&c_i;&c_ja;</trd>
   <trd lng="de">Bulgarien</trd>
   <trd lng="en">Bulgaria</trd>
+  <trd lng="fr">Bulgarie</trd>
   <trd lng="pl">Bu&lstroke;garia</trd>
 </drv>
 </art>
 
 <!--
 $Log: bulgari.xml,v $
+Revision 1.6  2013/11/22 14:10:36  revo
+Damien Brucker: +trd fr
+
 Revision 1.5  2013/10/09 18:10:24  revo
 Jessica Grasso: +tr en
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kalkul.xml,v 1.37 2013/09/21 20:10:12 revo Exp $">
+<art mrk="$Id: kalkul.xml,v 1.38 2014/02/04 21:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kalkul</rad>/i <fnt><bib>PV</bib></fnt>
@@ -418,6 +418,31 @@
     <trd>compte<klr tip="ind"> (calcul)</klr></trd>,
     <trd>addition<klr tip="ind"> (&agrave; payer)</klr></trd>,
     <trd>note<klr tip="ind"> (&agrave; payer)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="kalkul.0ema.PSI">
+    <dif>
+      Kiu <tld/>as, en &ccirc;iuj situacioj taksas sian profiton kaj 
+      malprofiton:
+      <ekz>
+        mi <klr>...</klr> volis iom vundi &scirc;ian <tld/>eman koron
+        <fnt>
+          <aut>K. Pap, trad. A. Reiber</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr63/revado.html">
+          Revado nenifara</url></vrk>,
+          <lok>la nica literatura revuo, 1961-01 (6/3), p.
+          112a-117a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>calculateur<klr> (adj., int&eacute;ress&eacute;)</klr></trd>,
+    <trd>int&eacute;ress&eacute;<klr> (calculateur)</klr></trd>
   </trdgrp>
 </drv>
 
@@ -915,6 +940,9 @@
 </art>
 <!--
 $Log: kalkul.xml,v $
+Revision 1.38  2014/02/04 21:10:12  revo
+Jeromo Vasxe: + ~ema
+
 Revision 1.37  2013/09/21 20:10:12  revo
 Jeromo Vasxe: retro~o + 2 kor en dif
 
@@ -933,9 +961,6 @@ Sebastian Cyprych: +trd pl +ref sorobano
 
 Revision 1.32  2005/12/12 17:31:03  revo
 Wieland Pusch: +trd de
-
-Revision 1.31  2005/05/08 16:31:38  revo
-Yury Finkel: +trd ru
 
 -->
 </vortaro>

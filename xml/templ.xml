@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: templ.xml,v 1.22 2009/06/16 16:30:58 revo Exp $">
+  <art mrk="$Id: templ.xml,v 1.23 2014/02/07 19:10:16 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>templ</rad>/o
@@ -81,9 +81,10 @@
         <uzo tip="fak">KRI</uzo>
         <dif>
           En la tradicia (ortodoksa, katolika) kristanismo,
-          la <ref tip="lst" cel="fest.dipatrinaj0oj">dipatrina festo
+          la <ref tip="dif" cel="fest.dipatrina0o">dipatrina festo
           </ref> (unu el la
-          <ref tip="lst" cel="fest.dekduopaj0oj">dekduopaj festoj</ref>)
+          <ref tip="dif" cel="fest.dekduopa0o">dekduopaj
+          festoj</ref>)
           per kiu la Eklezio rememoras enkondukon de la sanktega
           virgulino Mario en la Templon (je la a&gcirc;o de 3 jaroj) por
           edukado &ccirc;e la Templo.
@@ -105,6 +106,9 @@
   </art>
   <!--
   $Log: templ.xml,v $
+  Revision 1.23  2014/02/07 19:10:16  revo
+  Damien Brucker: -eraro cxe ref
+
   Revision 1.22  2009/06/16 16:30:58  revo
   Behnam Tabatabai: +trd fa
 

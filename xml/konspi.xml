@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konspi.xml,v 1.17 2013/04/04 19:10:20 revo Exp $">
+<art mrk="$Id: konspi.xml,v 1.18 2013/12/01 10:10:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konspir</rad>/i
@@ -38,6 +38,7 @@
 <ind>&c_z;&c_m;&c_o;&c_v;&c_u;</ind></trd>
   <trd lng="ca">conspirar</trd>
   <trd lng="en">conspire</trd>
+  <trd lng="fr">conspirer</trd>
   <trd lng="nl">samenzweren</trd>
   <trdgrp lng="pl">
     <trd>konspirowa&cacute;</trd>,
@@ -84,6 +85,7 @@
      <trd>Konspiration</trd>
   </trdgrp>
   <trd lng="en">conspiracy</trd>
+  <trd lng="fr">conspiration</trd>
   <trd lng="nl">samenzwering</trd>
   <trdgrp lng="pl">
     <trd>konspiracja</trd>,
@@ -95,6 +97,9 @@
 </art>
 <!--
 $Log: konspi.xml,v $
+Revision 1.18  2013/12/01 10:10:29  revo
+Damien Brucker: +trd fr
+
 Revision 1.17  2013/04/04 19:10:20  revo
 Sebastian Cyprych: +trd pl
 
@@ -114,8 +119,5 @@ Revision 1.12  2004/08/12 16:32:03  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.11  2002/02/14 17:34:18  revo
-Ulrich Fellmann: + 2 germ trdj
-
-Revision 1.10  2002/01/11 19:09:37  revo
 -->
 </vortaro>

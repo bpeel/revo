@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pel.xml,v 1.24 2012/09/21 12:10:13 revo Exp $">
+<art mrk="$Id: pel.xml,v 1.26 2014/02/11 02:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pel</rad>/i <fnt><bib>PV</bib></fnt>
@@ -38,10 +38,6 @@
       <ekz>
         kiu tro <tld/>as, nur malakcelas
         <fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
-        sin <tld/>i<fnt>Z</fnt>
-        <klr>(vole rapidi)</klr>;
       </ekz>
       <ekz>
         lace<tld/>i, konsum<tld/>i &ccirc;evalon;
@@ -284,11 +280,7 @@
         dis<tld/>i la mu&scirc;ojn;
       </ekz>
       <ekz>
-        kantu por dis<tld/>i mian &ccirc;agrenon<fnt>B</fnt>;
-      </ekz>
-      <ekz>
-        kiel dis<tld/>i&gcirc;as fumo, tiel Vi ilin dis<tld/>u
-        <fnt><bib>MT</bib>, <lok>&Psa; 68:3</lok></fnt>.
+        kantu por dis<tld/>i mian &ccirc;agrenon<fnt>B</fnt>.
       </ekz>
     </dif>
   </snc>
@@ -308,6 +300,23 @@
   </trdgrp>
   <trd lng="nl">verdrijven</trd>
   <trd lng="ru">&c_r;&c_a;&c_z;&c_o;&c_g;&c_n;&c_a;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="pel.dis0igxi">
+  <kap>dis<tld/>i&gcirc;i</kap>
+  <snc mrk="pel.dis0igxi.KOMUNE">
+    <dif>
+      Rapide disiri:
+      <ekz>
+        dis<tld/>i&gcirc;as fumo
+        <fnt><bib>MT</bib>, <lok>&Psa; 68:3</lok></fnt>.
+      </ekz>      
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>se <ind>diperser</ind></trd>,
+    <trd>se <ind>dissiper</ind></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pel.el0i">
@@ -458,6 +467,22 @@
   </trdgrp>
 </drv>
 
+<drv mrk="pel.musx0ilo">
+  <kap>mu&scirc;<tld/>ilo</kap>
+  <snc mrk="pel.musx0ilo.HEJM">
+    <dif>
+      Iaspeca vipo a&ubreve; ventumilo, per kiu oni for<tld/>as mu&scirc;ojn:
+      <ekz>
+        la du aliaj, per bovvostaj mu&scirc;<tld/>iloj,
+        &ccirc;asadis la mu&scirc;ojn
+        <fnt><aut>E. de Zilah</aut>, <vrk>La Princo &ccirc;e la Hunoj</vrk>, 
+        <lok>2011</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">chasse-mouche</trd>
+</drv>
+
 <drv mrk="pel.re0i">
   <kap>re<tld/>i</kap>
   <snc mrk="pel.re0i.KOMUNE">
@@ -474,9 +499,26 @@
   </snc>
   <trd lng="fr">repousser</trd>
 </drv>
+
+<drv mrk="pel.sin0i">
+  <kap>sin <tld/>i</kap>
+  <snc mrk="pel.sin0i.KOMUNE">
+    <dif>
+      Rapide iri, sub premo, en
+      <ref tip="vid" cel="hast.0i">hasto</ref>.
+    </dif>
+  </snc>
+  <trd lng="fr">se <ind>d&eacute;p&ecirc;cher</ind></trd>
+</drv>
 </art>
 <!--
 $Log: pel.xml,v $
+Revision 1.26  2014/02/11 02:10:18  revo
+Jeromo Vasxe: + musx~ilo
+
+Revision 1.25  2014/01/01 21:10:20  revo
+Jeromo Vasxe: memstar dis~igxi, sin ~i
+
 Revision 1.24  2012/09/21 12:10:13  revo
 Jeromo Vasxe: + subsnc MAS
 
@@ -493,11 +535,5 @@ Revision 1.20  2009/10/19 16:30:25  revo
 Paul Peeraerts: +nl
 
 Revision 1.19  2008/05/11 16:30:16  revo
-Carlos Garcia: +trd "es": -i
-
-Revision 1.18  2006/03/20 17:31:57  revo
-Jeromo Vasxe: + el~isto, + kk fnt, + kk trd fr
-
-Revision 1.17 2005/01/30 17:31:30 revo
 -->
 </vortaro>

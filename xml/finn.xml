@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: finn.xml,v 1.10 2013/11/04 03:10:12 revo Exp $">
+  <art mrk="$Id: finn.xml,v 1.12 2014/03/31 12:10:23 revo Exp $">
     <kap>
       <rad>finn</rad>/o
     </kap>
@@ -19,6 +19,7 @@
       <trd lng="de">Finne</trd>
       <trd lng="en">Finn</trd>
       <trd lng="fa">&a_f;&a_n;&a_l;&a_A;&a_n;&a_d;&f_y;</trd>
+      <trd lng="fr">Finlandais<klr> (habitant)</klr></trd>
       <trdgrp lng="no">
         <trd>finne</trd>,
         <trd>finlender</trd>,
@@ -40,6 +41,7 @@
       <trd lng="bg">&c_f;&c_i;&c_n;&c_s;&c_k;&c_i;</trd>
       <trd lng="de">finnisch</trd>
       <trd lng="en">Finnish</trd>
+      <trd lng="fr">finlandais<klr> (adjectif)</klr></trd>
       <trd lng="fa">&a_f;&a_n;&a_l;&a_A;&a_n;&a_d;&f_y;</trd>
       <trd lng="nl">Fins</trd>
       <trd lng="no">finsk</trd>
@@ -52,8 +54,9 @@
         <tld lit="F"/>lando,
         <var><kap><tld lit="F"/>ujo</kap></var>
       </kap>
-      <uzo tip="fak">GEOG</uzo>
       <snc>
+      <uzo tip="fak">GEOG</uzo>
+      <uzo tip="fak">POL</uzo>
         <dif>
           <ekz>
             <tld lit="F"/>lando estas lando en Norda E&ubreve;ropo &ccirc;e
@@ -68,14 +71,18 @@
       <trd lng="de">Finnland</trd>
       <trd lng="en">Finnland</trd>
       <trd lng="fa">&a_f;&a_n;&a_l;&a_A;&a_n;&a_d;</trd>
+      <trd lng="fr">Finlande</trd>
       <trd lng="nl">Finland</trd>
       <trd lng="no">Finland</trd>
       <trd lng="pl">Finlandia</trd>
       <trd lng="pt">Finl&acirc;ndia</trd>
       <trd lng="ru">&c_F;&c_i;&c_n;&c_l;&c_ja;&c_n;&c_d;&c_i;&c_ja;</trd>
    </drv>
-
-    <rim>
+    <rim num="1">
+    <tld lit="F"/>lando estas <ref tip="dif"
+    cel="espera.0ismo.LIN">esperantismo</ref>.
+    </rim>
+    <rim num="2">
       Oni jes povas escepte prononci <ctl><tld/>o</ctl> simile al
       <ctl>sen-noma</ctl>, distribuante <em>nn</em> inter du silaboj;
       tamen tio fiaskas pri <em>nnl</em> el
@@ -93,6 +100,12 @@
 
   <!--
   $Log: finn.xml,v $
+  Revision 1.12  2014/03/31 12:10:23  revo
+  Damien Brucker: +rim
+
+  Revision 1.11  2013/11/22 16:10:13  revo
+  Damien Brucker: +trd fr
+
   Revision 1.10  2013/11/04 03:10:12  revo
   Sergio Pokrovskij: +trd=ru, rim
 

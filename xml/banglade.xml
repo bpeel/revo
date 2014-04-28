@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: banglade.xml,v 1.6 2013/02/11 04:10:14 revo Exp $">
+<art mrk="$Id: banglade.xml,v 1.7 2013/12/10 13:10:22 revo Exp $">
 <kap>
   <rad>banglade&scirc;</rad>/o
 </kap>
@@ -28,24 +28,28 @@
       kaj <ref tip="vid" cel="hind.H0aOceano">Hinda Oceano</ref> 
       (Bengala Golfo).
     </dif>
+    </snc>
     <trd lng="be">&c_B;&c_a;&c_n;&c_g;&c_l;&c_ja;&c_d;&c_e;&c_sh;</trd>
     <trdgrp lng="ca">
       <trd>Bangla Desh</trd>,
       <trd>Rep&uacute;blica Popular de Bangla Desh</trd>
     </trdgrp>
+    <trd lng="fr">Bangladesh</trd>
     <trd lng="nl">Bangladesh</trd>
     <trdgrp lng="pl">
       <trd>Bangladesz</trd>,
       <trd>Ludowa Republika <ind>Bangladeszu</ind></trd>
     </trdgrp>
     <trd lng="pt">Bangladesh</trd>
-  </snc>
 </drv>
 
 </art>
 
 <!--
 $Log: banglade.xml,v $
+Revision 1.7  2013/12/10 13:10:22  revo
+Damien Brucker: +trd fr
+
 Revision 1.6  2013/02/11 04:10:14  revo
 Evandro Avellar: Tr+ pt
 

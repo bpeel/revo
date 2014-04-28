@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: svis.xml,v 1.18 2010/06/15 16:30:51 revo Exp $">
+<art mrk="$Id: svis.xml,v 1.20 2014/03/31 12:10:22 revo Exp $">
 <kap>
   <rad>svis</rad>/o
   <ofc>*</ofc>
@@ -14,6 +14,7 @@
       <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de
       <ref tip="malprt" cel="svis.S0ujo"><tld lit="S"/>ujo</ref>.
     </dif>
+    <trd lng="fr">Suisse<klr> (subst.)</klr></trd>
     <trd lng="de">schweizer Staatsb&uuml;rger</trd>
     <trd lng="nl">Zwitser</trd>
   </snc>
@@ -35,7 +36,7 @@
     <trd lng="de">Schweizer</trd>
     <trd lng="en">Swiss</trd>
     <trd lng="es">suizo</trd>
-    <trd lng="fr">suisse</trd>
+    <trd lng="fr">Suisse<klr> (subst.)</klr></trd>
     <trd lng="nl">Zwitser</trd>
     <trd lng="no">sveitser</trd>
     <trd lng="pl">Szwajcar</trd>
@@ -98,7 +99,7 @@
   <trd lng="ca">su&iacute;s</trd>
   <trd lng="en">swiss</trd>
   <trd lng="es">suizo</trd>
-  <trd lng="fr">suisse</trd>
+  <trd lng="fr">suisse<klr> (adj.)</klr></trd>
   <trd lng="hu">sv&aacute;jci</trd>
   <trdgrp lng="it">
     <trd>svizzero<klr> (agg.)</klr></trd>, 
@@ -139,7 +140,7 @@
   <trd lng="el">&Epsilon;&lambda;&beta;&epsilon;&tau;&jota_acute;&alfa;</trd>
   <trd lng="en">Switzerland</trd>
   <trd lng="es">Suiza<klr tip="amb"> (naci&oacute;n)</klr></trd>
-  <trd lng="fr">Suisse</trd>
+  <trd lng="fr">Suisse<klr> (pays)</klr></trd>
   <trd lng="gd">an <ind>Eilv&eacute;is</ind></trd>
   <trd lng="hu">Sv&aacute;jc</trd>  
   <trd lng="is">Sviss</trd>
@@ -169,9 +170,12 @@
   <snc mrk="svis.S0lando.GEOG">
     <uzo tip="fak">GEOG</uzo>
     <uzo tip="fak">POL</uzo>
-    <dif>
       <ref tip="dif" cel="svis.S0ujo">Svisujo</ref>
-    </dif>
+      <rim>
+      <tld lit="S"/>lando estas <ref tip="dif"
+      cel="espera.0ismo.LIN">esperantismo</ref>.
+      </rim>
+  </snc>
   <trd lng="be">&c_Sh;&c_v;&c_a;&c_j;&c_c;&c_a;&c_r;&c_y;&c_ja;</trd>
   <trd lng="bg">&c_Sh;&c_v;&c_je;&c_j;&c_c;&c_a;&c_r;&c_i;&c_ja;</trd>
   <trd lng="ca">Su&iuml;ssa</trd>
@@ -180,7 +184,7 @@
   <trd lng="da">Svejts</trd>
   <trd lng="el">&Epsilon;&lambda;&beta;&epsilon;&tau;&jota_acute;&alfa;</trd>
   <trd lng="en">Switzerland</trd>
-  <trd lng="fr">Suisse</trd>
+  <trd lng="fr">Suisse<klr> (pays)</klr></trd>
   <trd lng="gd">an <ind>Eilv&eacute;is</ind></trd>
   <trd lng="hu">Sv&aacute;jc</trd>  
   <trd lng="is">Sviss</trd>
@@ -197,11 +201,16 @@
   <trd lng="sv">Svejts</trd>
   <trd lng="tr">&Idot;svi&ccedil;re</trd>
   <trd lng="vo">Jveiz</trd>
-  </snc>
 </drv>
 </art>
 <!--
 $Log: svis.xml,v $
+Revision 1.20  2014/03/31 12:10:22  revo
+Damien Brucker: +rim
+
+Revision 1.19  2014/03/14 09:10:15  revo
+Damien Brucker: +trd fr
+
 Revision 1.18  2010/06/15 16:30:51  revo
 Agustin Garcia Lopez: +trd es
 
@@ -218,11 +227,5 @@ Revision 1.14  2004/11/05 17:31:19  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.13  2004/10/17 16:32:12  revo
-Wolfram Diestel: kor. germ trd
-
-Revision 1.12  2003/09/04 16:30:47  revo
-Dmitri Gabinski: +trd be, kor de malgxusta lingvoetikedo (sv -> pl)
-
-Revision 1.11  2003/03/14 17:33:10  revo
 -->
 </vortaro>

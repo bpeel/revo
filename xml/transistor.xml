@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: transistor.xml,v 1.4 2013/10/18 09:10:14 revo Exp $">
+<art mrk="$Id: transistor.xml,v 1.5 2014/03/20 15:10:15 revo Exp $">
 <kap>
     <ofc>9</ofc><rad>transistor</rad>/o <fnt><bib>PIV3</bib></fnt>
     <fnt><bib>Viki</bib></fnt>
@@ -10,9 +10,11 @@
 <drv mrk="transistor.0o">
   <kap><tld/>o</kap>
   <snc mrk="transistor.0o.ELET">
-    <uzo tip="fak">ELET</uzo>
+    <uzo tip="fak">ELE</uzo>
     <dif>
-     Elektronika duonkonduka elemento uzata kiel signalfortigilo
+     <ref tip="dif" cel="elektronik.0o">Elektronika</ref> duonkonduka
+     elemento uzata
+     kiel signalfortigilo
      (analoge) a&ubreve; kiel &scirc;altilo (ciferece), ordinare kun tri kondukiloj.
      La vorto estas <ref tip="super" cel="akronim.0o">akronimo</ref> de
      la angla lingva&jcirc;o <ctl><em>trans</em>fer res<em>istor</em></ctl>:
@@ -35,6 +37,9 @@
 
 <!--
 $Log: transistor.xml,v $
+Revision 1.5  2014/03/20 15:10:15  revo
+Damien Brucker: +ref
+
 Revision 1.4  2013/10/18 09:10:14  revo
 Damien Brucker: Sxangxo de la stilo
 

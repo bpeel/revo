@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: rektum.xml,v 1.14 2012/08/10 14:10:41 revo Exp $">
+  <art mrk="$Id: rektum.xml,v 1.15 2014/03/13 02:10:27 revo Exp $">
     <kap>
       <rad>rektum</rad>/o
     </kap>
@@ -13,6 +13,10 @@
       <snc>
         <ref tip="dif" cel="intest.rekta0o">rekta intesto</ref>
       </snc>
+      <trdgrp lng="bg">
+        <trd>&c_p;&c_r;&c_a;&c_v;&c_o; &c_ch;&c_je;&c_r;&c_v;&c_o;</trd>,
+        <trd>&c_r;&c_je;&c_k;&c_t;&c_u;&c_m;</trd>
+      </trdgrp>
       <trdgrp lng="ca">
         <trd>budell cul&agrave;</trd>,
         <trd>budell darrer</trd>,
@@ -41,6 +45,9 @@
   </art>
   <!--
   $Log: rektum.xml,v $
+  Revision 1.15  2014/03/13 02:10:27  revo
+  Joop Eggen: +trd bg
+
   Revision 1.14  2012/08/10 14:10:41  revo
   Marc Rausell: kor trd ca
 

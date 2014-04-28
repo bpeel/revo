@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: strek.xml,v 1.38 2012/10/23 00:13:52 revo Exp $">
+<art mrk="$Id: strek.xml,v 1.43 2014/02/07 18:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>strek</rad>/i
@@ -175,11 +175,15 @@
 <drv mrk="strek.divid0o">
   <kap>divid<tld/>o, <var><kap><tld/>eto</kap></var></kap>
   <snc>
+  <uzo tip="fak">GRA</uzo>
+  <uzo tip="fak">TIP</uzo>
     <dif>
-      Interpunkcia <ref tip="super" cel="sign.0o">signo</ref> (-)
-      i.a. uzata por dividi kunmetitajn vortojn, por transporti
-      parton de vorto al alia linio.
+      <ref tip="vid" cel="interp3.0o">Interpunkcia</ref> <ref
+      tip="super" cel="sign.0o">signo</ref> (-), uzata i.a. por dividi
+      la elementojn de aparte longa a&ubreve; nekutima kunmetita vorto, a&ubreve; por
+      transporti parton de vorto sur la sekvan linion.
     </dif>
+    <ref tip="vid" cel="vort.0odivido">vortodivido</ref>
     <rim>
       Askio kaj tajpiloj konfuzas divid<tld/>on kun
       <ref cel="minus.0o.signo">minuso</ref>; tamen en normala
@@ -200,8 +204,11 @@
 <drv mrk="strek.halto0o">
   <kap>halto<tld/>o</kap>
   <snc>
+  <uzo tip="fak">GRA</uzo>
+  <uzo tip="fak">TIP</uzo>
     <dif>
-      Interpunkcia <ref tip="super" cel="sign.0o">signo</ref>,
+      <ref tip="vid" cel="interp3.0o">Interpunkcia</ref> <ref
+      tip="super" cel="sign.0o">signo</ref> (--),
       iom pli longa ol
       <ref tip="vid" cel="strek.divid0o">divid<tld/>o</ref>,
       uzata por signi dialogon a&ubreve; por apartigi frazpartojn pli
@@ -313,11 +320,13 @@
 
 <drv mrk="strek.sub0o">
   <kap>sub<tld/>o</kap>
-  <uzo tip="fak">TIP</uzo>
-  <uzo tip="fak">MAT</uzo>
-  <snc>
+    <snc>
+    <uzo tip="fak">TIP</uzo>
+   <uzo tip="fak">MAT</uzo>
     <dif>
-      Tipografia signo _, malalta horizontala linio,
+      Tipografia <ref
+      tip="super" cel="sign.0o">signo</ref> (_), malalta horizontala
+      linio,
       ofte uzata por apartigi simbolojn en programlingvoj a&ubreve;
 por substreki vorton per skribma&scirc;ino.
     </dif>
@@ -417,6 +426,21 @@ por substreki vorton per skribma&scirc;ino.
 </art>
 <!--
 $Log: strek.xml,v $
+Revision 1.43  2014/02/07 18:10:14  revo
+Damien Brucker: +ref (dauxrigo)
+
+Revision 1.42  2014/02/07 17:10:12  revo
+Damien Brucker: +ref
+
+Revision 1.41  2013/12/09 16:10:14  revo
+Damien Brucker: +fak
+
+Revision 1.40  2013/12/09 07:10:12  revo
+Damien Brucker: -tajperaro
+
+Revision 1.39  2013/12/08 19:10:12  revo
+Damien Brucker: +rim
+
 Revision 1.38  2012/10/23 00:13:52  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -424,20 +448,5 @@ Revision 1.37  2011/11/28 10:10:09  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.36  2011/05/31 14:10:09  revo
-Axel Rousseau: +trd fr
-
-Revision 1.35  2009/07/01 17:22:24  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.34  2007/02/06 17:30:44  revo
-Wieland Pusch: +trd de
-
-Revision 1.33  2006/09/20 10:21:36  revo
-Russ Williams: +trd en; +streketo, substreko
-
-Revision 1.32  2006/03/06 17:31:50  revo
-Wieland Pusch: +trd de
-
-Revision 1.31  2005/12/26 19:20:11  revo
 -->
 </vortaro>

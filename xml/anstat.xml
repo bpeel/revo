@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: anstat.xml,v 1.35 2013/06/30 20:10:09 revo Exp $">
+<art mrk="$Id: anstat.xml,v 1.37 2014/02/22 17:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>anstata&ubreve;</rad>
@@ -23,7 +23,7 @@
           <ind>ne servas larmo <tld/> armo</ind>
           <fnt><bib>PrV</bib></fnt>.
           <trd lng="hu">fegyver helyett nem szolg&aacute;l a k&ouml;nny
-          </trd>r
+          </trd>
         </ekz>
       </dif>
     </snc>
@@ -86,13 +86,7 @@ Respubliko</vrk>.
         do iel "kunligas frazpartojn kun sama funkcio" (difino de
         "konjunkcio"), sed la tradicia maniero klarigi cxi tion
         per subkomprenita infinitivo sxajnas al mi pli klara kaj
-        entute preferinda.
-
-        Cetere, indus reliefigi en rimarko la eblecon uzi aux ne uzi
-        akuzativon, kiam la vorto enkondukata de "anstataux" montras
-        al io, kion anstatauxas la objekto de la koncerna verbo (~ kafo
-        li donis al mi teon (F), Petro batis Pauxlon ~ Vilhelmon (LR)).
-        <aut>MB</aut>
+        entute preferinda.<aut>MB</aut>
       </adm>
     </snc>
     <trd lng="be">&c_z;&c_a;&c_m;&c_je;&c_s;&c_t;</trd>
@@ -138,7 +132,18 @@ Respubliko</vrk>.
     <trd lng="ru">&c_v;&c_m;&c_je;&c_s;&c_t;&c_o;</trd>
     <trd lng="sk">namiesto</trd>
     <trd lng="sv">ist&auml;llet f&ouml;r</trd>
-  </drv>
+    <rim> Z klarigas, ke "kiel &ccirc;iu alia prepozicio, tiel anka&ubreve;
+    "<tld/>" per si mem postulas &ccirc;iam la nominativon: se tamen ofte oni
+    trovas &ccirc;e bonaj a&ubreve;toroj post "<tld/>" la akuzativon, tiu &ccirc;i lasta
+    estas uzita ne pro la prepozicio, sed pro aliaj cirkonstancoj.
+    Ekzemple, en la frazo: <ekz>Petro batis Pa&ubreve;lon <tld/>
+    Vilhelmo<em>n</em></ekz>, la lasta parto de la frazo prezentas nur
+    mallongigon (=<ekz> <tld/> bati Vilhelmo<em>n</em></ekz>),
+    kaj la
+    akuzativo forigas &ccirc;iun dubon pro tio, ke <tld/>igita estis ne la
+    batanto, sed la batato"<fnt><bib>LR</bib></fnt>.
+    </rim> 
+    </drv>    
 </subart>
 
 <subart>
@@ -601,6 +606,12 @@ orta.html">Norda Prismo 57/5</url></lok>
 </art>
 <!--
 $Log: anstat.xml,v $
+Revision 1.37  2014/02/22 17:10:14  revo
+Damien Brucker: sxangxo cxe rim 1
+
+Revision 1.36  2013/11/25 14:10:13  revo
+Damien Brucker: +rim 1 -tajperaro
+
 Revision 1.35  2013/06/30 20:10:09  revo
 Benito Subejrano: + trd oc
 
@@ -617,11 +628,5 @@ Revision 1.31  2007/05/01 18:24:48  revo
 Luiz Portella: +trd pt
 
 Revision 1.30  2005/09/30 16:31:04  revo
-Mario Mazzalai: +trd it
-
-Revision 1.29  2005/05/17 16:32:12  revo
-Yury Finkel: +trd ru
-
-Revision 1.28  2005/03/28 17:12:43  revo
 -->
 </vortaro>

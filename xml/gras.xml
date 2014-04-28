@@ -2,9 +2,11 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gras.xml,v 1.19 2009/08/25 16:31:34 revo Exp $">
-<kap><ofc>*</ofc>
-<rad>gras</rad>/o</kap>
+<art mrk="$Id: gras.xml,v 1.21 2014/02/08 10:10:23 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>gras</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
 <drv mrk="gras.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="gras.0o.besta">
@@ -193,12 +195,10 @@
   </snc>
   <snc mrk="gras.0igi.sterki">
     <uzo tip="fak">AGR</uzo>
-    <dif>
-      <ref tip="dif" cel="sterk.0i">Sterki</ref>:
-      <ekz>
-        <tld/>igi teron, &gcirc;ardenon.
-      </ekz>
-    </dif>
+    <ref tip="dif" cel="sterk.0i">sterki</ref>
+    <ekz>
+      <tld/>igi teron, &gcirc;ardenon.
+    </ekz>
     <trd lng="de">d&uuml;ngen</trd>
     <trd lng="hu">tr&aacute;gy&aacute;z</trd>    
     <trd lng="nl">bemesten</trd>
@@ -309,9 +309,37 @@
   </trdgrp>
   <trd lng="nl">arm<klr tip="ind"> (mager)</klr></trd>
 </drv>
+
+<drv mrk="gras.mal0igxi">
+  <kap>mal<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="gras.mal0igxi.DIET">
+    <dif>
+      Seni&gcirc;i je <tld/>o,
+      <ref tip="vid" cel="dik.mal0igxi">maldiki&gcirc;i</ref>:
+      <ekz>
+        li povis vidi, ke li multe mal<tld/>i&gcirc;is
+        <fnt>
+          <aut>Lao She, trad. Wang Chongfang</aut>,
+          <vrk><url
+          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
+          Kamelo &Scirc;jangzi</url></vrk>,
+          <lok>1988</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">maigrir</trd>
+</drv>
 </art>
 <!--
 $Log: gras.xml,v $
+Revision 1.21  2014/02/08 10:10:23  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.20  2014/01/02 21:10:34  revo
+Jeromo Vasxe: + mal~igxi
+
 Revision 1.19  2009/08/25 16:31:34  revo
 Emmanuel Debanne: kor tr
 
@@ -328,11 +356,5 @@ Revision 1.15  2004/07/17 18:19:45  revo
 Jean Hennebert: kor. fr trd -igxi
 
 Revision 1.14  2003/11/18 17:31:38  revo
-Bart Demeyere: +mrkoj
-
-Revision 1.13  2002/11/01 22:04:39  revo
-bib-igis fnt-ojn precipe MT
-
-Revision 1.12  2002/07/09 17:32:56  revo
 -->
 </vortaro>

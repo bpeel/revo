@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hxin.xml,v 1.16 2011/02/17 12:10:58 revo Exp $">
+<art mrk="$Id: hxin.xml,v 1.19 2014/03/08 09:10:19 revo Exp $">
 <kap>
   <rad>&hcirc;in</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,7 +27,7 @@
   <trd lng="el">&kappa;&jota;&ny;&epsilon_ton;&zeta;&omikron;&sigma_fina;</trd>
   <trd lng="en">Chinaman</trd>
   <trd lng="es">chino</trd>
-  <trd lng="fr">chinois</trd>
+  <trd lng="fr">Chinois<klr> (subst.)</klr></trd>
   <trd lng="hu">k&iacute;nai</trd>
   <trd lng="nl">Chinees</trd>
   <trd lng="pl">Chi&nacute;czyk</trd>
@@ -63,7 +63,7 @@
   <trd lng="be">&c_k;&c_ib;&c_t;&c_a;&c_j;&c_s;&c_k;&c_ib;</trd>
   <trd lng="de">chinesisch</trd>
   <trd lng="en">Chinese</trd>
-  <trd lng="fr">chinois</trd>
+  <trd lng="fr">chinois<klr> (adj.)</klr></trd>
   <trd lng="nl">Chinees</trd>
   <trd lng="hu">k&iacute;nai</trd>
   <trd lng="pl">chi&nacute;ski</trd>
@@ -94,10 +94,39 @@
   <trd lng="zh">&#20013;&#22269;</trd>
   <trd lng="it">Cina</trd>
 </drv>
+
+    <rim mrk="hxin.0rim">
+      La misa radiko <ctl><tld/>-</ctl> estas &scirc;uldata al la malprecizo
+      de la novlatinaj skribosistemoj. &Gcirc;i devenas de la portugala
+      transskribo (Duarte Barbosa, 1516) de la sanskrita-persa-araba
+      landonomo, kies etimo estas la nomo de la dinastio &Ccirc;in' (&#31206;;
+      pinjine Q&iacute;n), kiu unue, en la 3&#170; jc a.K., unuigis la &Ccirc;inian
+      regnon.
+
+      La portugala <ctl>ch</ctl> anta&ubreve;e sonis [&ccirc;], poste [&scirc;];
+      sed en la norda E&ubreve;ropo la dulitera&jcirc;on <ctl>ch</ctl> oni plu
+      vo&ccirc;legis la&ubreve; la loka tradicio latinista, kiel [&hcirc;]. Tial
+      Zamenhofo transprenis la misan formon <ctl><tld/>-</ctl> la&ubreve; la
+      prononco germana-pola.  Do, male ol en la okazo de &hcirc;o-fobiaj
+      kripligoj de la vortoj grekdevenaj, la &scirc;an&gcirc;o <tld/>o&#8594;&ccirc;ino estas
+      salutinda korekto de etimologia eraro.
+
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+
 </art>
 
 <!--
 $Log: hxin.xml,v $
+Revision 1.19  2014/03/08 09:10:19  revo
+Damien Brucker: +trd fr
+
+Revision 1.18  2013/12/19 10:10:17  revo
+Damien Brucker: -eraro cxe rim en mrk
+
+Revision 1.17  2013/12/07 07:10:11  revo
+Sergio Pokrovskij: +rim
+
 Revision 1.16  2011/02/17 12:10:58  revo
 Luiz Portella: kor. ref k mrk
 
@@ -111,14 +140,5 @@ Revision 1.13  2008/11/16 17:30:40  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.12  2007/04/21 07:06:40  revo
-Tulio Flores: +tr pt
-
-Revision 1.11  2006/05/22 16:32:29  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.10  2005/10/22 17:23:07  revo
-Luiz Portella: -trd pt
-
-Revision 1.9  2004/01/19 17:30:52  revo
 -->
 </vortaro>

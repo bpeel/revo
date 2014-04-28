@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: opini.xml,v 1.33 2013/02/02 21:10:08 revo Exp $">
+<art mrk="$Id: opini.xml,v 1.35 2013/12/17 02:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>opini</rad>/i <fnt><bib>PV</bib></fnt>
@@ -60,7 +60,7 @@
         &hcirc;aosaj, senle&gcirc;aj kaj tro perfortemaj
         <fnt>
         <aut>K. Enderby</aut>,
-        <vrk>Unu grandan rondon familian</vrk>.
+        <vrk>Unu grandan rondon familian</vrk>,
         <bib>Monato</bib>
         </fnt>.
       </ekz>
@@ -144,12 +144,7 @@
         la piulo trovos bonan <tld/>on &ccirc;e Dio<fnt>Z</fnt>;
       </ekz>
       <ekz>
-        &scirc;an&gcirc;i sian <tld/>on;
-      </ekz>
-      <ekz>
-        la&ubreve; mia <tld/>o
-        (<ref tip="vid" cel="okul.0o">okulo</ref>)
-        vi estas malprava.
+        &scirc;an&gcirc;i sian <tld/>on.
       </ekz>
     </dif>
   </snc>
@@ -194,6 +189,31 @@
   <trd lng="kek">aatin</trd>
 </drv>
 
+<drv mrk="opini.0ema">
+  <kap><tld/>ema,
+  <var><kap><tld/>ama<fnt>Z</fnt></kap></var></kap>
+  <snc mrk="opini.0ema.KOMUNE">
+    <dif>
+      Ema al <tld/>ado, al asertado de siaj <tld/>oj,
+      al disputo:
+      <ekz>
+        <klr>[en SAT]</klr> &gcirc;enerale la homoj estas <tld/>emaj
+        <fnt>
+          <aut>G. Mickle</aut>,
+          <vrk>en: <url
+          ref="http://www.ipernity.com/blog/porkido/375191">
+          Sennacieca sen sennaciistoj</url></vrk>,
+          <lok>2012-02</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>argumenteur<klr> (adj.)</klr></trd>,
+    <trd>raisonneur<klr> (adj.)</klr></trd>
+  </trdgrp>
+</drv>
+
 <drv mrk="opini.dis0i">
   <kap>dis<tld/>i,
   <var><kap>malsam<tld/>i</kap></var></kap>
@@ -234,6 +254,24 @@
     <trd>s&aogonek;dzi&cacute; inaczej</trd>
   </trdgrp>
   <trd lng="ru">&c_i;&c_m;&c_je;&c_t;&c_mol; <ind>&c_r;&c_a;&c_z;&c_n;&c_o;&c_g;&c_l;&c_a;&c_s;&c_i;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="opini.mia0e">
+  <kap>mia<tld/>e, <var><kap>la&ubreve; mia <tld/>o</kap></var></kap>
+  <snc mrk="opini.mia0e.ARG">
+    <dif>
+      La&ubreve; la vidpunkto de la parolanto:
+      <ekz>
+        ni nun disponas lingvon, anta&ubreve; kiu, mia<tld/>e, la 
+        plej konvena sinteno estas respekti &gcirc;in
+        <fnt><bib>BonaLingvo</bib></fnt>;        
+      </ekz>
+      <ekz>
+        la&ubreve; mia <tld/>o vi estas malprava.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">&agrave; mon avis</trd>
 </drv>
 
 <drv mrk="opini.sam0i">
@@ -346,30 +384,15 @@
   <trd lng="pl">opnia publiczna</trd>
   <trd lng="ru">&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je; &c_m;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
 </drv>
-
-<drv mrk="opini.0ama">
-  <kap><tld/>ama<fnt>Z</fnt></kap>
-  <snc>
-    <ref tip="dif" cel="vant.0a.iu">vanta<sncref/></ref>
-  </snc>
-  <trd lng="be">&c_s;&c_l;&c_a;&c_v;&c_a;&c_l;&c_ju;&c_b;&c_n;&c_y;</trd>
-  <trdgrp lng="de">
-    <trd>eitel</trd>,
-    <trd>eingebildet</trd>,
-    <trd>selbstdarstellerisch</trd>
-  </trdgrp>
-  <trd lng="he">&dalet;&ayin;&tav;&fnun;</trd>
-  <trdgrp lng="hu">
-    <trd>hi&uacute;</trd>,
-    <trd>bek&eacute;pzelt</trd>
-  </trdgrp>
-  <trd lng="nl">ijdel</trd>
-  <trd lng="pl">pr&oacute;&zdot;ny</trd>
-  <trd lng="ru">&c_t;&c_shch;&c_je;&c_s;&c_l;&c_a;&c_v;&c_n;&c_y;&c_j;</trd>
-</drv>
 </art>
 <!--
 $Log: opini.xml,v $
+Revision 1.35  2013/12/17 02:10:13  revo
+Jeromo Vasxe: ~ema/ama
+
+Revision 1.34  2013/12/13 02:10:13  revo
+Jeromo Vasxe: + mia~e
+
 Revision 1.33  2013/02/02 21:10:08  revo
 Jeromo Vasxe: + gxenerala ~o
 
@@ -386,11 +409,5 @@ Revision 1.29  2008/12/12 17:57:18  revo
 Luiz Portella: malsam~i: ref cel= >> cel=opini.dis0i.KOMUNE
 
 Revision 1.28  2008/05/12 17:55:44  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.27  2008/05/01 16:30:23  revo
-Jeromo Vasxe: +sam/malsam~i, + mrk
-
-Revision 1.26 2008/04/30 16:30:16 revo
 -->
 </vortaro>

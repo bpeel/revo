@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: proviz1.xml,v 1.12 2009/02/15 14:17:28 revo Exp $">
+<art mrk="$Id: proviz1.xml,v 1.13 2013/12/01 15:10:23 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>provizor</rad>/a
@@ -28,6 +28,7 @@ anstata&ubreve;igota per definitiva;
     <trd>provisional</trd>,
     <trd>temporary</trd>
   </trdgrp>
+  <trd lng="fr">provisoire</trd>
   <trdgrp lng="hu">
     <trd>ideiglenes</trd>,
     <trd>&aacute;tmeneti</trd>,
@@ -47,6 +48,9 @@ anstata&ubreve;igota per definitiva;
 </art>
 <!--
 $Log: proviz1.xml,v $
+Revision 1.13  2013/12/01 15:10:23  revo
+Damien Brucker: +trd fr
+
 Revision 1.12  2009/02/15 14:17:28  revo
 Russ Williams: +trd en
 
@@ -66,8 +70,5 @@ Revision 1.7 2001/09/19 18:12:17 revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.6 2001/06/24 18:53:56 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.5 2001/05/20 18:12:07 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: afrika.xml,v 1.17 2012/09/21 13:10:09 revo Exp $">
+<art mrk="$Id: afrika.xml,v 1.19 2014/03/31 15:10:26 revo Exp $">
 <kap>
   <rad>afrikat</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -18,6 +18,12 @@
       &ccirc;e kiu plosiva alteno
       estas sekvata de frikativa forteno (c, &ccirc;, &gcirc;).
     </dif>
+  <refgrp tip="vid">
+  <ref cel="nazal.0o.FON">nazalo</ref>,
+  <ref cel="likvid1.0o.FON">likvido</ref>,
+  <ref cel="frikat.0o.FON">frikativo</ref>,
+  <ref cel="plosiv.0o.FON">plosivo</ref>
+  </refgrp>  
   </snc>
   <trd lng="be">&c_a;&c_f;&c_r;&c_y;&c_k;&c_a;&c_t;&c_a;</trd>
   <trdgrp lng="de">
@@ -45,6 +51,12 @@
 </art>
 <!--
 $Log: afrika.xml,v $
+Revision 1.19  2014/03/31 15:10:26  revo
+Damien Brucker: +ref (dauxrigo)
+
+Revision 1.18  2014/01/02 13:10:18  revo
+Damien Brucker: +ref
+
 Revision 1.17  2012/09/21 13:10:09  revo
 Jeromo Vasxe: + mrk
 
@@ -61,11 +73,5 @@ Revision 1.13  2007/10/30 17:30:28  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.12  2003/10/28 17:31:53  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2002/09/22 08:14:37  revo
-Christopher Zervic: + eng
-
-Revision 1.10  2002/08/09 19:32:44  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: friz.xml,v 1.18 2010/09/27 16:30:25 revo Exp $">
+<art mrk="$Id: friz.xml,v 1.19 2014/01/16 16:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>friz</rad>/i <fnt><bib>PV</bib></fnt>
@@ -43,6 +43,10 @@
     <trd>friz</trd>,
     <trd>frizz</trd>,
     <trd>dress <klr tip="amb">(hair)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>frisar <klr tip="amb">(cabello)</klr></trd>,
+    <trd>encrespar <klr tip="amb">(cabello)</klr></trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>coiffer</trd>,
@@ -151,9 +155,13 @@
   <trd lng="nl">kapper</trd>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_i;&c_k;&c_m;&c_a;&c_h;&c_je;&c_r;</trd>
 </drv>
+
 </art>
 <!--
 $Log: friz.xml,v $
+Revision 1.19  2014/01/16 16:10:14  revo
+Guillermo Molleda Jimena: Hispana tradukado
+
 Revision 1.18  2010/09/27 16:30:25  revo
 Russ Williams: +trd en
 
@@ -173,8 +181,5 @@ Revision 1.13 2005/05/19 16:31:11 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.12 2005/04/01 17:48:44 revo
-jxeromo vasxe: + 1 ekz
-
-Revision 1.11 2003/01/05 17:33:45 revo
 -->
 </vortaro>

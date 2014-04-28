@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kol.xml,v 1.38 2011/02/16 16:10:25 revo Exp $">
+  <art mrk="$Id: kol.xml,v 1.39 2014/02/16 16:10:19 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>kol</rad>/o <fnt><bib>PV</bib></fnt>
@@ -315,6 +315,10 @@
           tero, komunikiganta najbarajn marojn kaj oceanojn.
         </dif>
       </snc>
+      <trdgrp lng="be">
+        <trd>&c_p;&c_r;&c_a;&c_l;&c_ib;&c_w;</trd>,
+        <trd>&c_p;&c_r;&c_a;&c_t;&c_o;&c_k;&c_a;</trd>
+      </trdgrp>
       <trdgrp lng="en">
         <trd>strait</trd>
       </trdgrp>
@@ -425,6 +429,9 @@
   </art>
   <!--
   $Log: kol.xml,v $
+  Revision 1.39  2014/02/16 16:10:19  revo
+  Dmitri Gabinski: +trd be
+
   Revision 1.38  2011/02/16 16:10:25  revo
   Luiz Portella: kor. ref k mrk
 

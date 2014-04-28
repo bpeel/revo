@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kamera.xml,v 1.14 2012/09/01 08:10:20 revo Exp $">
+<art mrk="$Id: kamera.xml,v 1.15 2014/03/04 19:10:23 revo Exp $">
 <kap>
   <rad>kamera</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -75,6 +75,10 @@
   </trdgrp>
   <trd lng="de">filmen</trd>
   <trd lng="en">film</trd>
+  <trdgrp lng="es">
+    <trd>grabar con una c&aacute;mara</trd>,
+    <trd>filmar</trd>
+  </trdgrp>
   <trd lng="fr">filmer</trd>
   <trdgrp lng="hu">
     <trd>felvesz <klr tip="ind">(filmet)</klr></trd>,
@@ -156,6 +160,9 @@
 </art>
 <!--
 $Log: kamera.xml,v $
+Revision 1.15  2014/03/04 19:10:23  revo
+Agustin Garcia Lopez: +trd (es) -i
+
 Revision 1.14  2012/09/01 08:10:20  revo
 Marc Rausell: + trd ca
 
@@ -175,8 +182,5 @@ Revision 1.9  2007/05/30 16:31:28  revo
 Wieland Pusch: +trd de
 
 Revision 1.8  2006/02/20 17:32:42  revo
-Jeromo Vasxe: + mrk + 1 ekz
-
-Revision 1.7 2006/01/12 21:53:17 revo
 -->
 </vortaro>

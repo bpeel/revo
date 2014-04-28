@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: genist.xml,v 1.16 2013/08/30 14:11:10 revo Exp $">
+<art mrk="$Id: genist.xml,v 1.17 2013/12/01 21:10:12 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>genist</rad>/o
@@ -33,6 +33,7 @@
     <trd>g&egrave;nere Genista</trd>
   </trdgrp>
   <trd lng="de">Ginster</trd>
+  <trd lng="en">broom</trd>
   <trd lng="fr">gen&ecirc;t</trd>
   <trd lng="hu">rekettye</trd>
   <trd lng="nl">brem</trd>
@@ -42,6 +43,9 @@
 </art>
 <!--
 $Log: genist.xml,v $
+Revision 1.17  2013/12/01 21:10:12  revo
+Jessica Grasso: +tr en
+
 Revision 1.16  2013/08/30 14:11:10  revo
 Wolfram Diestel: kor. lst-ref
 
@@ -61,8 +65,5 @@ Revision 1.11  2004/01/04 17:34:54  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.10  2002/03/27 17:32:07  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2001/12/14 17:31:11  revo
 -->
 </vortaro>

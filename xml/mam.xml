@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mam.xml,v 1.39 2013/11/02 12:10:21 revo Exp $">
+<art mrk="$Id: mam.xml,v 1.42 2014/03/26 02:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mam</rad>/o <fnt><bib>PV</bib></fnt>
@@ -104,6 +104,28 @@
   <trd lng="ru">&c_s;&c_o;&c_s;&c_o;&c_k;</trd>
   <trd lng="sv">br&ouml;stv&aring;rta</trd>
   <trd lng="tr">meme ba&scedil;&inodot;</trd>
+</drv>
+
+<drv mrk="mam.0ingo">
+  <kap><tld/>ingo</kap>
+  <snc mrk="mam.0ingo.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Parto de
+      <ref tip="malprt" cel="zon.mam0o.TEKS">mamzono</ref>,
+      kiu kovras unu mamon:
+      <ekz>
+        bikino havas mamzonon kun &scirc;elketoj
+        kaj rondaj <tld/>ingoj
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Bikino">
+          bikino</url>, 2013-10-29</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">bonnet de soutien-gorge</trd>
 </drv>
 
 <drv mrk="mam.0ulo">
@@ -220,6 +242,15 @@
 </art>
 <!--
 $Log: mam.xml,v $
+Revision 1.42  2014/03/26 02:10:24  revo
+Jeromo Vasxe: ~ingo preciz. dif + ekz
+
+Revision 1.41  2014/01/21 13:10:17  revo
+Damien Brucker: +ref
+
+Revision 1.40  2013/11/22 09:10:16  revo
+Damien Brucker: aldono de mamingo
+
 Revision 1.39  2013/11/02 12:10:21  revo
 Wolfram Diestel: +~ulo
 
@@ -233,14 +264,5 @@ Revision 1.36  2013/10/23 11:10:17  revo
 Wolfram Diestel: lstref al mamuloj
 
 Revision 1.35  2013/08/31 16:10:40  revo
-Wolfram Diestel: ~uloj: referenco al listo zoo klasoj
-
-Revision 1.34  2013/08/25 10:10:19  revo
-Mireille Corobu: anstatauxigo: bestoj ->animaloj en mamuloj
-
-Revision 1.33  2013/01/14 11:10:10  revo
-Jeromo Vasxe: + mrk
-
-Revision 1.32  2011/03/06 19:10:14  revo
 -->
 </vortaro>

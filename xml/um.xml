@@ -2,13 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: um.xml,v 1.21 2013/03/01 14:10:12 revo Exp $">
+<art mrk="$Id: um.xml,v 1.23 2014/02/05 15:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   -<rad>um</rad>/ <fnt><bib>PV</bib></fnt>
 </kap>
+
+<subart>
 <drv mrk="um.0">
-  <kap><ofc>*</ofc><tld/></kap>
+  <kap>-<tld/></kap>
   <dif>
     Sufikso sen difinita senco, uzata por derivi vortojn, kies
     rilato al la radiko estas malpreciza kaj ne esprimebla per alia
@@ -165,7 +167,12 @@
     </ekz>
   </rim>
 </drv>
+</subart>
 
+<subart>
+<dif>
+Samsignifa memstara vortero.
+</dif>
 <drv mrk="um.0i">
   <kap><tld/>i</kap>
   <gra><vspec>ntr</vspec></gra>
@@ -187,9 +194,16 @@
   </snc>
   <trd lng="fr">farfouiller</trd>
 </drv>
+</subart>
 </art>
 <!--
 $Log: um.xml,v $
+Revision 1.23  2014/02/05 15:10:16  revo
+Damien Brucker: +kap
+
+Revision 1.22  2014/02/04 15:10:27  revo
+Damien Brucker: +kap
+
 Revision 1.21  2013/03/01 14:10:12  revo
 Jeromo Vasxe: + ~i
 
@@ -206,11 +220,5 @@ Paul Peeraerts: movis la trd de dek~a logaritmo al logaritm, kiel
 rekomendita enla manlibro
 Revision 1.16 2003/01/17 17:34:02 revo
 Marc Bavant: ~: kor trd de cxe dek~a logaritmo
-Revision 1.15 2003/01/02 17:52:09 revo
-Marc Bavant: mod fnt "artikolo"
-Revision 1.14 2002/11/30 17:39:08 revo
-Marc Bavant: +frm
-Revision 1.13 2002/09/12 16:34:29 revo
-Jozefo Horvath: +trd hu
 -->
 </vortaro>

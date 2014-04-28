@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sxinob.xml,v 1.6 2011/12/03 20:10:16 revo Exp $">
+  <art mrk="$Id: sxinob.xml,v 1.7 2014/03/26 16:10:20 revo Exp $">
     <kap>
       <rad>&scirc;inob</rad>/o
     </kap>
@@ -36,6 +36,10 @@
         <trd>Shinobi</trd>,
         <trd>Ninja</trd>
       </trdgrp>
+      <trdgrp lng="fr">
+        <trd>ninja</trd>,
+        <trd>shinobi</trd>
+      </trdgrp>
       <trd lng="hu">nindzsa</trd>
       <trdgrp lng="it">
         <trd>shinobi</trd>, 
@@ -47,6 +51,9 @@
 
 <!--
 $Log: sxinob.xml,v $
+Revision 1.7  2014/03/26 16:10:20  revo
+Damien Brucker: +trd fr
+
 Revision 1.6  2011/12/03 20:10:16  revo
 Marc Rausell: kataluna traduko
 

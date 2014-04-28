@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: nom.xml,v 1.45 2013/10/11 18:10:13 revo Exp $">
+  <art mrk="$Id: nom.xml,v 1.46 2014/02/22 09:10:14 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>nom</rad>/o <fnt><bib>PV</bib></fnt>
@@ -321,7 +321,10 @@
       <kap><tld/>i&gcirc;i</kap>
       <snc mrk="nom.0igxi.KOMUNE">
         <dif>
-          Havi kiel <tld/>on, esti <tld/>ata.
+          Havi kiel <tld/>on, esti <tld/>ata:
+          <ekz>
+          kiel &scirc;i nomi&gcirc;as? &Scirc;i nomi&gcirc;as Johanino.
+          </ekz>
         </dif>
       </snc>
       <trdgrp lng="be">
@@ -865,6 +868,9 @@
   </art>
   <!--
   $Log: nom.xml,v $
+  Revision 1.46  2014/02/22 09:10:14  revo
+  Damien Brucker: +ekz
+
   Revision 1.45  2013/10/11 18:10:13  revo
   Wolfram Diestel: kor. ref-cel
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: origin.xml,v 1.20 2005/01/17 17:32:26 revo Exp $">
+<art mrk="$Id: origin.xml,v 1.23 2014/03/17 15:10:12 revo Exp $">
 <kap><ofc>1</ofc> <rad>origin</rad>/o</kap>
 <drv mrk="origin.0o">
   <kap><tld/>o</kap>
@@ -106,13 +106,42 @@
   <trd lng="pt">origem</trd>
 </drv>
 
+<drv mrk="origin.0a">
+  <kap><tld/>a</kap>
+   <snc>
+    <dif>
+     Apartenanta a&ubreve; rilata al la <ref tip="dif"
+     cel="origin.0o">origino</ref> de io:
+    </dif>
+     <ekz>
+      konservi al frukto &gcirc;ian <tld/>an guston.
+     </ekz>
+   </snc>
+<trd lng="fr">originel</trd>
+</drv> 
+
+<drv mrk="origin.0e">
+  <kap><tld/>e</kap>
+   <snc>
+    <dif>
+     &Ccirc;e la <ref tip="dif" cel="origin.0o">origino</ref>:
+    </dif>
+     <ekz>
+      kontrakto <tld/>e falsita.
+     </ekz>
+   </snc>
+<trd lng="fr">originellement</trd>
+</drv> 
+
+
 <drv mrk="origin.0i">
   <kap><tld/>i</kap>
   <gra><vspec>ntr</vspec></gra>
   <snc>
-    <dif>
-      Deveni.
-    </dif>
+      <ref tip="sin" cel="ven.de0i">deveni</ref>
+      <ekz>
+      lia familio <tld/>as el Napoleono la 1a.
+      </ekz>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
@@ -122,6 +151,7 @@
     <trd>abstammen</trd>,
     <trd>herkommen</trd>
   </trdgrp>
+  <trd lng="fr">descendre de</trd>
   <trdgrp lng="hu">
     <trd>ered</trd>,
     <trd>sz&aacute;rmazik</trd>
@@ -135,6 +165,15 @@
 </art>
 <!--
 $Log: origin.xml,v $
+Revision 1.23  2014/03/17 15:10:12  revo
+Damien Brucker: +tld
+
+Revision 1.22  2014/03/17 14:10:14  revo
+Damien Brucker: +trd fr
+
+Revision 1.21  2014/03/17 13:10:15  revo
+Damien Brucker: +~a ~e
+
 Revision 1.20  2005/01/17 17:32:26  revo
 Vito Redsky: +trd pl
 
@@ -148,15 +187,5 @@ Revision 1.17  2003/01/02 17:49:19  revo
 Marc Bavant: +trd pl
 
 Revision 1.16  2002/06/07 17:32:05  revo
-Eduardo M. Kalinowski: ald trd pt
-Revision 1.15  2002/05/20 16:35:18  revo
-Marc Bavant: ~o MAT: mod rim
-Revision 1.14  2002/05/13 16:32:22  revo
-Marc Bavant: ~o MAT: mod dif, mod rim
-Revision 1.13  2002/05/12 16:36:06  revo
-Marc Bavant: ~o MAT: -dif
-Revision 1.12  2002/03/12 17:31:18  revo
-Marc Bavant: ~o MAT: +rim, +trd de/en
 -->
 </vortaro>
-

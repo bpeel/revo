@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prefik.xml,v 1.20 2012/07/20 09:10:17 revo Exp $">
+<art mrk="$Id: prefik.xml,v 1.26 2014/03/25 08:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>prefiks</rad>/o <fnt><bib>PV</bib></fnt>
@@ -15,13 +15,11 @@
     <dif>
       <ref tip="super" cel="afiks.0o.GRA">Afikso</ref> kiu, metite
       anta&ubreve; vorto, modifas ties sencon, formante alian novan
-      vorton; ekzemple
-      <refgrp tip="ekz">
-        <ref cel="pra">pra-</ref>,
-        <ref cel="ge">ge-</ref>,
-        <ref cel="mal">mal-</ref>
-      </refgrp>;
-      <ref tip="sin" cel="afiks.antaux0o.GRA">anta&ubreve;afikso</ref>.
+      vorton; <ref tip="sin" cel="afiks.antaux0o.GRA">anta&ubreve;afikso</ref>:
+      <ekz>
+      bo-, &ccirc;ef-, dis-, ek-, eks-, ge-, mal-, mis-, pra-, re-  estas
+      oficiale konsiderataj Esperantaj <tld/>oj.
+      </ekz>
     </dif>
   <refgrp tip="ant">
     <ref cel="sufiks.0o">sufikso</ref>.
@@ -39,6 +37,7 @@
   <trd lng="en">prefix</trd>
   <trd lng="es">prefijo</trd>
   <trd lng="fa">&f_p;&f_y;&a_sh;&a_w;&a_n;&a_d;</trd>
+  <trd lng="fr">pr&eacute;fixe</trd>
   <trdgrp lng="hu">
     <trd>el&odblac;k&eacute;pz&odblac;</trd>,
     <trd>prefixum</trd>
@@ -77,30 +76,46 @@
   </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_je;&c_f;&c_i;&c_k;&c_s;&c_a;&c_c;&c_i;&c_ja;</trd>
 </drv>
+
+<drv mrk="prefik.0pseuxdo">
+  <kap>pse&ubreve;do<tld/>o</kap>
+  <snc mrk="prefik.0pseuxdo.LIN">
+  <uzo tip="fak">LIN</uzo>
+    <dif>
+      &Scirc;ajna <tld/>o, kiu fakte apartenas al la radikalo de la
+      internaciaj kulturvortoj, kaj kiu ne estas uzata por derivado:
+      <ekz> <ref tip="sin" cel="anti.0.KOMUNE">anti-</ref> &ccirc;e
+      <em>anti</em>biotiko, <em>anti</em>doto; <ref tip="sin"
+      cel="geo.0">geo-</ref> &ccirc;e <em>geo</em>logio</ekz>.
+    </dif>
+   <ref tip="vid" cel="sufiks.0pseuxdo">pse&ubreve;dosufikso</ref> 
+  </snc>
+  <trd lng="fr">pseudopr&eacute;fixe</trd>
+  </drv>
 </art>
 <!--
 $Log: prefik.xml,v $
+Revision 1.26  2014/03/25 08:10:13  revo
+Damien Brucker: +ekz (dauxrigo)
+
+Revision 1.25  2014/02/16 10:10:17  revo
+Damien Brucker: -tajperaro
+
+Revision 1.24  2014/02/13 12:10:12  revo
+Damien Brucker: +ekz
+
+Revision 1.23  2014/02/06 08:10:13  revo
+Damien Brucker: +trd fr
+
+Revision 1.22  2013/12/23 11:10:10  revo
+Damien Brucker: +ref
+
+Revision 1.21  2013/12/03 09:10:19  revo
+Damien Brucker: +pseuxdoprefikso
+
 Revision 1.20  2012/07/20 09:10:17  revo
 Marc Rausell: ++ trd ca
 
 Revision 1.19  2011/06/22 18:10:19  revo
-Jeromo Vasxe: + ref sin
-
-Revision 1.18  2011/03/25 12:10:10  revo
-Jeromo Vasxe: + mrk + fak gra
-
-Revision 1.17  2010/05/15 16:30:36  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.16  2009/09/27 16:30:35  revo
-Paul Peeraerts: +nl +kor ref
-
-Revision 1.15  2008/11/05 17:31:57  revo
-Marc Bavant: ~ado: kor mrk, koherigis "vortofarado" kun la vortara
-formo
-
-Revision 1.14  2008/07/04 18:52:28  revo
-Sergio Pokrovskij: -tajperaro
-
 -->
 </vortaro>

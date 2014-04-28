@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: river.xml,v 1.28 2010/03/19 17:30:42 revo Exp $">
+<art mrk="$Id: river.xml,v 1.29 2014/02/16 16:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>river</rad>/o
@@ -146,6 +146,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_H;&c_u;&c_a;&c_n;&c_h;&c_e;</trd>,
+    <trd>&c_Zh;&c_o;&c_w;&c_t;&c_a;&c_ja; &c_r;&c_a;&c_k;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="bg">
     <trd>&c_H;&c_u;&c_a;&c_n;&c_h;&c_malmol;</trd>,
     <trd>&c_Zh;&c_malmol;&c_l;&c_t;&c_a;&c_t;&c_a; &c_r;&c_je;&c_k;&c_a;</trd>
@@ -179,6 +183,9 @@
 </art>
 <!--
 $Log: river.xml,v $
+Revision 1.29  2014/02/16 16:10:18  revo
+Dmitri Gabinski: +trd be
+
 Revision 1.28  2010/03/19 17:30:42  revo
 Carlos Garcia: +trd "es" -eto
 
@@ -198,8 +205,5 @@ Tulio Flores: +trd pt
 Revision 1.22 2005/04/09 18:41:32 revo
 Lluis Batlle i Rossell: +trd es,ca
 Revision 1.21 2004/09/14 16:31:47 revo
-Jozefo Horvath: +trd hu
-Revision 1..20 2004/04/24 19:19:13 revo
-Emmanuel Debanne: + 1 trd id
 -->
 </vortaro>

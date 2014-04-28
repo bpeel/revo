@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fingr.xml,v 1.39 2013/10/03 08:10:51 revo Exp $">
+<art mrk="$Id: fingr.xml,v 1.40 2014/02/08 10:10:22 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>fingr</rad>/o</kap>
 
@@ -47,8 +47,7 @@
       <ekz>
         <uzo tip="stl">FIG</uzo>
         <ind>bruligi siajn <tld/>ojn</ind>
-        <klr>(kompromiti sin, sperti malagrabla&jcirc;ojn;
-        <ref tip="vid" cel="har.lip0oj">lipharo</ref>)</klr>
+        <klr>(kompromiti sin, sperti malagrabla&jcirc;ojn)</klr>
         en ia afero.
         <trd lng="fr">se <ind>br&ucirc;ler</ind> les doigts</trd>
         <trdgrp lng="hu">
@@ -493,6 +492,9 @@
 </art>
 <!--
 $Log: fingr.xml,v $
+Revision 1.40  2014/02/08 10:10:22  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.39  2013/10/03 08:10:51  revo
 Wolfram Diestel: precizigis klason al voko:longoj
 
@@ -512,8 +514,5 @@ Revision 1.34  2010/06/10 16:30:28  revo
 Agustin Garcia Lopez: +klr es
 
 Revision 1.33  2008/12/07 07:18:22  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.32  2008/03/20 17:30:18  revo
 -->
 </vortaro>

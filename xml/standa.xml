@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: standa.xml,v 1.12 2011/12/28 04:10:07 revo Exp $">
+<art mrk="$Id: standa.xml,v 1.13 2013/12/02 10:10:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>standard</rad>/o
@@ -39,6 +39,7 @@
     <trd>Banner</trd>
   </trdgrp>
   <trd lng="en">flag</trd>
+  <trd lng="fr">&eacute;tandard</trd>
   <trdgrp lng="hu">
     <trd>z&aacute;szl&oacute;</trd>,
     <trd>lobog&oacute;</trd>
@@ -59,6 +60,9 @@
 </art>
 <!--
 $Log: standa.xml,v $
+Revision 1.13  2013/12/02 10:10:31  revo
+Damien Brucker: +trd fr
+
 Revision 1.12  2011/12/28 04:10:07  revo
 Eduardo Navas: +trad es
 
@@ -78,8 +82,5 @@ Revision 1.7  2002/02/15 17:37:46  revo
 Yury Finkel: +trd ru
 
 Revision 1.6 2001/10/07 18:17:02 revo
-Dennis Wibrow: +trd germ
-
-Revision 1.5 2000/11/15 17:12:08 revo
 -->
 </vortaro>

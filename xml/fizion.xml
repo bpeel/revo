@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fizion.xml,v 1.17 2011/12/03 23:10:37 revo Exp $">
+<art mrk="$Id: fizion.xml,v 1.18 2013/12/01 20:10:22 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>fizionomi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -73,7 +73,11 @@
      <trd>Gesicht</trd>,
      <trd>Gepr&auml;ge</trd>,
      <trd>Charakteristika</trd></trdgrp>
-  <trd lng="en">physigonomy</trd>
+  <trdgrp lng="en">
+     <trd>physiognomy</trd>,
+     <trd>facial features</trd>,
+     <trd>facial expression</trd> 
+  </trdgrp>
   <trdgrp lng="fa">
     <trd>&a_q;&f_y;&a_A;&a_f;&a_h;</trd>,
     <trd>&a_s;&f_y;&a_m;&a_A;</trd>,
@@ -100,6 +104,9 @@
 </art>
 <!--
 $Log: fizion.xml,v $
+Revision 1.18  2013/12/01 20:10:22  revo
+Jessica Grasso: +tr en, korektis tajp-/literum-eraron
+
 Revision 1.17  2011/12/03 23:10:37  revo
 Marc Rausell: kataluna traduko
 
@@ -119,8 +126,5 @@ Revision 1.12  2007/06/01 16:31:15  revo
 Tulio Flores: +tr pt
 
 Revision 1.11  2003/12/23 17:39:23  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10  2003/09/29 16:31:00  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sam.xml,v 1.23 2009/09/26 16:31:19 revo Exp $">
+  <art mrk="$Id: sam.xml,v 1.24 2013/12/24 02:10:12 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>sam</rad>/a
@@ -194,7 +194,11 @@ anta&ubreve; 14
       <trd lng="de">selb(-er, -e, -es)</trd>
       <trd lng="en">same</trd>
       <trd lng="es">mismo</trd>
-      <trd lng="fr">m&ecirc;me</trd>
+      <trdgrp lng="fr">
+        <trd>identique</trd>,
+        <trd>similaire</trd>,
+        <trd>m&ecirc;me</trd>
+      </trdgrp>
       <trd lng="hu">ugyanaz</trd>
      <trdgrp lng="it">
         <trd>stesso</trd>,
@@ -269,6 +273,9 @@ popoloj<fnt>Z</fnt>;
   </art>
   <!--
   $Log: sam.xml,v $
+  Revision 1.24  2013/12/24 02:10:12  revo
+  Damien Brucker: +trd fr
+
   Revision 1.23  2009/09/26 16:31:19  revo
   Antonio Codazzi: +trd it
 

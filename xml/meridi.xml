@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: meridi.xml,v 1.24 2012/07/16 10:10:22 revo Exp $">
+<art mrk="$Id: meridi.xml,v 1.25 2014/01/09 11:10:16 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>meridian</rad>/o <fnt><bib>PV</bib></fnt>
@@ -31,6 +31,7 @@
       <trd>d&eacute;lk&ouml;r</trd>
     </trdgrp>    
     <trd lng="fr">m&eacute;ridien<klr tip="ind"> (subst., g&eacute;og.)</klr></trd>
+    <trd lng="pl">po&lstroke;udnik</trd>
   </snc>
   <snc mrk="meridi.0o.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -89,6 +90,9 @@
 </art>
 <!--
 $Log: meridi.xml,v $
+Revision 1.25  2014/01/09 11:10:16  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.24  2012/07/16 10:10:22  revo
 Marc Rausell: + trd ca
 
@@ -108,8 +112,5 @@ Revision 1.19  2005/03/19 17:32:54  revo
 Raul Salinas Monteagudo: +trd es
 
 Revision 1.18  2003/06/13 16:30:38  revo
-Paul Peeraerts: ald plian trd nl
-
-Revision 1.17  2003/05/22 16:30:46  revo
 -->
 </vortaro>

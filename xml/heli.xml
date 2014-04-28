@@ -2,17 +2,20 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: heli.xml,v 1.4 2010/10/20 16:30:54 revo Exp $">
+<art mrk="$Id: heli.xml,v 1.5 2013/12/02 12:10:21 revo Exp $">
   <kap>
     <rad>heli</rad>/o
   </kap>
 <drv mrk="heli.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">KEM</uzo>
-  <fnt><bib>VdE</bib></fnt>
+    <fnt><bib>VdE</bib></fnt>
   <snc>
+  <uzo tip="fak">KEM</uzo>
     <ref tip="dif" cel="helium.0o">heliumo.</ref>
+    <dif>
+    </dif>
   </snc>
+  <trd lng="fr">h&eacute;lium</trd>
   <trd lng="it">elio<klr tip="amb"> (ch.)</klr></trd>
   <trd lng="pt">h&eacute;lio</trd>
   <trd lng="sv">helium</trd>
@@ -21,6 +24,9 @@
 
 <!--
 $Log: heli.xml,v $
+Revision 1.5  2013/12/02 12:10:21  revo
+Damien Brucker: +trd fr
+
 Revision 1.4  2010/10/20 16:30:54  revo
 Jerano Zachrisson: +trd sv
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: krom1.xml,v 1.25 2013/10/07 02:10:10 revo Exp $">
+  <art mrk="$Id: krom1.xml,v 1.27 2014/01/30 12:10:30 revo Exp $">
     <kap>
       <rad>krom</rad>/o<fnt>Z</fnt>,
       <var>
@@ -32,16 +32,18 @@
             <fnt>
               <aut>Petr RAJLICH</aut>:
               <vrk><url
-              ref="www.eventoj.hu/steb/geologio/bohemia-kratero.pdf"
+                  ref="www.eventoj.hu/steb/geologio/bohemia-kratero.pdf"
                   >Bohemia kratero</url></vrk>.
-              <lok>Scienca Revuo 2007:1 &ndash;  GEOLOGIO INTERNACIA-10, p.
-              38.</lok>
+              <lok>Scienca Revuo 2007:1 &ndash;  GEOLOGIO INTERNACIA-10,
+              p.
+                38.</lok>
             </fnt>.
           </ekz>
         </dif>
       </snc>
       <ref tip="sin" cel="kromi.0o">kromio</ref>
-      <trd lng="be">&c_h;&c_r;&c_o;&c_m;</trd>    
+      <trd lng="be">&c_h;&c_r;&c_o;&c_m;</trd>
+      <trd lng="bg">&c_h;&c_r;&c_o;&c_m;</trd>
       <trd lng="br">krom</trd>
       <trd lng="de">Chrom</trd>
       <trd lng="en">chromium</trd>
@@ -102,29 +104,33 @@
 
     <rim>
       PV kaj PIV nomas la elementon <ctl><tld/>o</ctl>, kaj markas
-      tiun nomon kiel zamenhofan. Atribuitaj ekzemploj en amba&ubreve; vortaroj
-      mankas. Fonton de la zamenhofeco ni ne trovis (supozeble &gcirc;i
-      aperis en iu el diversaj vortlistoj, aprobitaj de Zamenhofo, kion
-      la PIV-oj egaligas al <ctl>uzo zamenhofa</ctl>).
+      tiun nomon kiel zamenhofan. Atribuitaj ekzemploj en amba&ubreve;
+      vortaroj mankas. (&Gcirc;i jes aperis en la germana-esperanta vortaro
+      fare de J&uuml;rgensen, kiun Zamenhofo aprobis, kion la PIV-oj
+      egaligas al <ctl>uzo zamenhofa</ctl>.)
 
       Okulfrapa difekto de la termino <ctl><tld/>o</ctl> estas &gcirc;ia
       homonimeco kun la fundamenta <ref tip="hom" cel="krom">krom</ref>,
-      precipe &gcirc;ena
-      en la formo adjektiva kaj en kunmeta&jcirc;oj (<em>kromklorido</em>
-      ktp). PIV rekomendas diversajn elturni&gcirc;ojn &mdash; sed tiaj
-      komplika&jcirc;oj estas kontra&ubreve;aj al la ideo pri facila kaj logika
-      planlingvo internacia.  Tiaj elturni&gcirc;oj aperas tiom pli
-      malkonvene, ke la komplika&jcirc;on ka&ubreve;zas nur la malracia
-      <ref cel="fobi.hxo0o">&hcirc;o-fobio</ref>: ja la regula esperantigo de
-      la greka etimo &chi;&rho;&omega_circ;&my;&alfa; estas la senkolizia <ctl>&hcirc;romo</ctl>; kaj
-      la anstata&ubreve;igo &hcirc;&#8594;k estas &ccirc;i-okaze same malkonvena, kiel &ccirc;e
-      &hcirc;oro&#8594;koro a&ubreve; &hcirc;olero&#8594;kolero.
-      <aut>Sergio Pokrovskij</aut>
+      precipe &gcirc;ena en la formo adjektiva kaj en kunmeta&jcirc;oj
+      (<em>kromklorido</em> ktp). PIV rekomendas diversajn elturni&gcirc;ojn
+      &mdash; sed tiaj komplika&jcirc;oj estas kontra&ubreve;aj al la ideo pri
+      facila kaj logika planlingvo internacia.  Tiaj elturni&gcirc;oj aperas
+      tiom pli malkonvene, ke la komplika&jcirc;on ka&ubreve;zas nur la malracia
+      <ref cel="fobi.hxo0o">&hcirc;o-fobio</ref>: ja la regula esperantigo
+      de la greka etimo &chi;&rho;&omega_circ;&my;&alfa; estas la senkolizia <ctl>&hcirc;romo</ctl>;
+      kaj la anstata&ubreve;igo &hcirc;&#8594;k estas &ccirc;i-okaze same malkonvena, kiel &ccirc;e
+      &hcirc;oro&#8594;koro a&ubreve; &hcirc;olero&#8594;kolero.  <aut>Sergio Pokrovskij</aut>
     </rim>
 
   </art>
   <!--
   $Log: krom1.xml,v $
+  Revision 1.27  2014/01/30 12:10:30  revo
+  Joop Eggen: +trd bg
+
+  Revision 1.26  2013/12/02 11:10:27  revo
+  Sergio Pokrovskij: +fnt
+
   Revision 1.25  2013/10/07 02:10:10  revo
   Sergio Pokrovskij: klarigo
 

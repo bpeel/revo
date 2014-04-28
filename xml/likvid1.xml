@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: likvid1.xml,v 1.14 2013/07/07 04:10:17 revo Exp $">
+  <art mrk="$Id: likvid1.xml,v 1.15 2014/01/02 13:10:17 revo Exp $">
     <kap>
       <rad>likvid</rad>/o <fnt><bib>PV</bib></fnt>
     </kap>
@@ -26,8 +26,14 @@
                   20a</lok></fnt>.
           </ekz>
         </dif>
+        <refgrp tip="vid">
+            <ref cel="plosiv.0o.FON">plosivo</ref>,
+            <ref cel="frikat.0o.FON">frikativo</ref>,
+            <ref cel="nazal.0o.FON">nazalo</ref>,
+            <ref cel="afrika.0o.FON">afrikato</ref>,
+        </refgrp>
         <refgrp tip="hom">
-          <ref cel="likvid.0o">likvido</ref>
+            <ref cel="likvid.0o">likvido</ref>
         </refgrp>
       </snc>
       <rim num="1">
@@ -89,6 +95,9 @@
   </art>
   <!--
   $Log: likvid1.xml,v $
+  Revision 1.15  2014/01/02 13:10:17  revo
+  Damien Brucker: +ref
+
   Revision 1.14  2013/07/07 04:10:17  revo
   Sergio Pokrovskij: +rim, +adm
 

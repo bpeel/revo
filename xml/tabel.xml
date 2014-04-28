@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tabel.xml,v 1.25 2012/10/23 00:13:57 revo Exp $">
+<art mrk="$Id: tabel.xml,v 1.31 2014/03/10 13:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tabel</rad>/o
@@ -101,6 +101,40 @@
         <em>ial, kial, tial, nenial, &ccirc;ial</em>.
       </ekz>
     </dif>
+    <bld lok="../bld/tabelvortoj.png">
+       <tld/>vortoj
+    </bld>
+    <rim num="1">
+    ti-, ki-, neni- ktp ne estas radikoj per si mem, nur kun korelativa
+    fina&jcirc;o ili havas signifon. Oni devas do almeti ne<tld/>vortajn
+    fina&jcirc;ojn al plenaj <tld/>vortoj (ekzemple: <ekz>kialo; tiama;
+    tiamaniere</ekz>), krom en malmultaj okazoj (ekzemple: <ekz><ref
+    tip="dif" cel="neni.0igi">neniigi</ref>;
+    nenii&gcirc;i</ekz>), kie la rezulta vorto estas
+    jam establita. 
+    </rim>
+    <rim num="2">
+    Z klarigas, ke "&ccirc;iuj vortoj de la <ctl>interrilata <tld/>o</ctl>
+    konsistas el du partoj: a) radiko, b) karakteriza fini&gcirc;o (ekzemple
+    <ekz>ki-al, ki-o, neni-u, neni-a ktp.</ekz>). &Ccirc;ar pro diversaj
+    ka&ubreve;zoj, [...]
+    la karakterizaj fini&gcirc;oj de la diritaj vortoj ne povis esti fiksitaj
+    kiel fini&gcirc;oj sendependaj kaj &gcirc;eneralaj (ekzemple mi estis devigita
+    preni la fini&gcirc;ojn -e kaj -u, kiuj kiel sendependaj fini&gcirc;oj havis jam
+    alian sencon), tial mi devis
+    alkro&ccirc;i ilin nedisigeble al la radiko. Tiamaniere ilia uzado
+    sendependa (ekzemple en formoj <ekz><ctl>ali-u</ctl>,
+    <ctl>ali-es</ctl>,
+    <ctl>kelk-om</ctl> ktp.</ekz>, kiuj per gramatika instinkto estis
+    uzataj
+    de kelkaj Esperantistoj) estas
+    kontra&ubreve;regula"<fnt><bib>LR</bib></fnt>.
+    </rim>
+    <rim num="3">
+    Iuj uzas la vorton <ref tip="dif"
+    cel="korela.0a">korelativoj</ref> anstata&ubreve; <tld/>vortoj: tio
+    estas eraro, &ccirc;ar ne &ccirc;iuj vortoj de la <tld/>o estas korelativoj.
+    </rim>
   </snc>
   <ref tip="super" cel="pronom.0o.gxenerala">pronomoj<sncref/></ref>
   <trd lng="be">&c_t;&c_a;&c_b;&c_l;&c_ib;&c_ch;&c_n;&c_y;
@@ -190,27 +224,27 @@
 </art>
 <!--
 $Log: tabel.xml,v $
+Revision 1.31  2014/03/10 13:10:23  revo
+Damien Brucker: korekto cxe rim 1
+
+Revision 1.30  2014/02/26 07:10:13  revo
+Damien Brucker: +ekz
+
+Revision 1.29  2014/02/25 11:10:12  revo
+Damien Brucker: +rim 3
+
+Revision 1.28  2014/02/24 13:10:11  revo
+Damien Brucker: +rim
+
+Revision 1.27  2014/02/11 10:10:11  revo
+Damien Brucker: +bld
+
+Revision 1.26  2014/01/21 13:10:16  revo
+Damien Brucker: +rim
+
 Revision 1.25  2012/10/23 00:13:57  revo
 Neil Roberts: aldonu la etikedon <var>
 
 Revision 1.24  2011/11/22 19:10:08  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.23  2008/09/29 16:30:24  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.22  2006/08/29 16:41:31  revo
-Wieland Pusch: +trd de
-
-Revision 1.21  2006/02/02 17:33:01  revo
-Tulio Flores: +trd pt
-
-Revision 1.20  2006/01/22 17:31:18  revo
-Jeromo Vasxe: ~o fandis snc 1 kaj 2, + fak tip, + enhav~o hor~o
-
-Revision 1.19 2005/01/17 17:34:36 revo
-Vito Redsky: korekto trd pl + trd tabelvorto
-
-Revision 1.18 2004/11/16 17:31:36 revo
 -->
 </vortaro>

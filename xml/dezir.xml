@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dezir.xml,v 1.25 2009/03/01 17:32:10 revo Exp $">
+<art mrk="$Id: dezir.xml,v 1.28 2014/02/11 09:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dezir</rad>/i
@@ -70,6 +70,11 @@
         <trd lng="hu">j&oacute;k&iacute;v&aacute;ns&aacute;gok</trd>
       </ekz>
     </dif>
+    <rim>
+    La frazparto <ctl>(mi <tld/>as al vi)</ctl> estas
+    subkomprenita kaj forlasita, apud izolita akuzativigita vorto, kiel
+    <ctl>saluton!</ctl>, <ctl>gratulon!</ctl>, ktp.
+    </rim>
     <trdgrp lng="be">
       <trd>&c_zh;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_z;&c_y;&c_ch;&c_y;&c_c;&c_mol;</trd>
@@ -233,6 +238,15 @@
 </art>
 <!--
 $Log: dezir.xml,v $
+Revision 1.28  2014/02/11 09:10:11  revo
+Damien Brucker: +tld
+
+Revision 1.27  2013/11/25 08:10:14  revo
+Damien Brucker: +ctl
+
+Revision 1.26  2013/11/19 15:10:17  revo
+Damien Brucker: +rim cxe deziri
+
 Revision 1.25  2009/03/01 17:32:10  revo
 Wieland Pusch: +trd bg
 
@@ -246,14 +260,5 @@ Revision 1.22  2008/11/07 17:30:49  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.21  2008/02/29 17:30:35  revo
-Sebastian Cyprych: +~o +trd pl
-
-Revision 1.20  2007/11/15 17:30:21  revo
-Wieland Pusch: +trd bg
-
-Revision 1.19  2007/07/23 16:31:34  revo
-Tulio Flores: +tr pt
-
-Revision 1.18  2007/01/07 17:31:41  revo
 -->
 </vortaro>

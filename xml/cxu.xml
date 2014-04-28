@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxu.xml,v 1.24 2009/09/27 16:30:31 revo Exp $">
+<art mrk="$Id: cxu.xml,v 1.26 2014/03/04 10:10:16 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>&ccirc;u</rad>
@@ -36,11 +36,15 @@
        </ekz>
      </dif>
      <rim>
-       La vorton <em>&ccirc;u</em> ni devas, kiom eble, uzadi nur en
-       senco demanda, anka&ubreve; en la senco de necerteco a&ubreve;
-       de dubo. Sed mi neniam konsilus uzi &gcirc;in tute senbezone
-       anstata&ubreve; <em>jen</em> kaj <em>a&ubreve;</em> 
-       (Z. Ling. Resp.).
+     Z atentigas, ke "la vorton &rightquot;<tld/>&#8221; ni devas, kiom eble, uzadi nur
+     en senco demanda [...]. Ni povas &gcirc;in uzi anka&ubreve; en la senco de
+     necerteco, a&ubreve; de dubo, a&ubreve; en aliaj similaj sencoj, kiam ni ne havas
+     pli bonan vorton (kiel en via ekzemplo: <ekz><tld/> pro timo,
+     <tld/>
+     pro
+     fiereco, li nenion respondis</ekz>), sed mi neniam konsilus uzi &gcirc;in
+     tute
+     senbezone anstata&ubreve; &rightquot;jen&#8221;, &rightquot;a&ubreve;&#8221; ktp."<fnt><bib>LR</bib></fnt>
      </rim>
    </snc>
    <trd lng="be">&c_c;&c_ib; 
@@ -95,7 +99,7 @@
        </ekz>
      </dif>
      <refgrp tip="vid">
-       <ref cel="au">a&ubreve;</ref>,
+       <ref cel="au.00">a&ubreve;... a&ubreve;...</ref>,
        <ref cel="jen.00">jen... jen...</ref>
      </refgrp>
    </snc>
@@ -115,6 +119,12 @@
 </art>
 <!--
 $Log: cxu.xml,v $
+Revision 1.26  2014/03/04 10:10:16  revo
+Damien Brucker: +ref
+
+Revision 1.25  2014/02/25 12:10:12  revo
+Damien Brucker: rim
+
 Revision 1.24  2009/09/27 16:30:31  revo
 Paul Peeraerts: +nl
 
@@ -131,11 +141,5 @@ Revision 1.20  2007/07/23 16:30:45  revo
 Harri Laine: +trd fi
 
 Revision 1.19  2007/06/06 16:30:25  revo
-Wieland Pusch: +trd de
-
-Revision 1.18  2005/12/07 17:31:20  revo
-Jeromo Vasxe: apartig. ~... ~..., ~ + 1 ekz
-
-Revision 1.17  2003/12/10 17:30:53  revo
 -->
 </vortaro>

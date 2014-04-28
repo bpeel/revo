@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxov.xml,v 1.25 2013/10/15 01:10:20 revo Exp $">
+<art mrk="$Id: sxov.xml,v 1.26 2014/02/19 12:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;ov</rad>/i <fnt><bib>PV</bib></fnt>
@@ -515,11 +515,16 @@
       </ekz>
     </dif>
     <trd lng="fr">refiler</trd>
+    <trd lng="es">colar <klr tip="amb">(pasar o meter algo o alguien de
+    forma desapercibida)</klr></trd>
   </snc>
 </drv>
 </art>
 <!--
 $Log: sxov.xml,v $
+Revision 1.26  2014/02/19 12:10:11  revo
+Carlos Garcia: trd+ es sub-i
+
 Revision 1.25  2013/10/15 01:10:20  revo
 Jeromo Vasxe: + ~
 
@@ -539,8 +544,5 @@ Revision 1.20  2004/12/05 17:35:44  revo
 Marc Bavant: kor duobligitajn punktojn
 
 Revision 1.19  2004/11/16 17:31:22  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.18  2003/10/14 16:30:40  revo
 -->
 </vortaro>

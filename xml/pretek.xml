@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pretek.xml,v 1.17 2013/05/08 11:10:13 revo Exp $">
+<art mrk="$Id: pretek.xml,v 1.18 2013/12/02 13:10:48 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pretekst</rad>/o
@@ -35,6 +35,7 @@
     <trd>Vorwand</trd>,
     <trd>Ausrede</trd>
   </trdgrp>
+  <trd lng="fr">pr&eacute;texte</trd>
   <trdgrp lng="hu">
     <trd>&uuml;r&uuml;gy</trd>,
     <trd>kifog&aacute;s</trd>
@@ -72,6 +73,7 @@
   </snc>
   <trd lng="de">vorgeben</trd>
   <trd lng="en">allege as excuse</trd>
+  <trd lng="fr">pr&eacute;texter</trd>
   <trd lng="hu">&uuml;r&uuml;gy&uuml;l felhoz</trd>  
   <trd lng="nl">voorwenden</trd>
   <trdgrp lng="pl">
@@ -83,6 +85,9 @@
 </art>
 <!--
 $Log: pretek.xml,v $
+Revision 1.18  2013/12/02 13:10:48  revo
+Damien Brucker: +trd fr
+
 Revision 1.17  2013/05/08 11:10:13  revo
 Sebastian Cyprych: +trd pl
 
@@ -102,8 +107,5 @@ Revision 1.12  2006/03/20 17:32:22  revo
 Tulio Flores: +tr pt
 
 Revision 1.11  2004/08/26 16:31:56  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2003/07/19 16:31:26  revo
 -->
 </vortaro>

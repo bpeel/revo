@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arog.xml,v 1.12 2012/08/21 09:10:15 revo Exp $">
+<art mrk="$Id: arog.xml,v 1.13 2013/12/02 09:10:20 revo Exp $">
 <kap>
   <rad>arog</rad>/i
   <fnt>Z</fnt>
@@ -43,6 +43,7 @@
   </trdgrp>
   <trd lng="en">arrogate</trd>
   <trd lng="es">arrogar</trd>
+  <trd lng="fr">arroger</trd>
   <trdgrp lng="hu">
     <trd>arrog&aacute;l</trd>,
     <trd>mag&aacute;nak <ind>k&ouml;vetel</ind></trd>,
@@ -64,6 +65,9 @@
 </art>
 <!--
 $Log: arog.xml,v $
+Revision 1.13  2013/12/02 09:10:20  revo
+Damien Brucker: +trd fr
+
 Revision 1.12  2012/08/21 09:10:15  revo
 Sebastian Cyprych: +trd pl
 
@@ -83,8 +87,5 @@ Revision 1.7  2002/10/29 18:01:36  revo
 Christopher Zervic: + ang
 
 Revision 1.6  2002/09/25 16:32:09  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.5  2002/03/20 17:36:36  revo
 -->
 </vortaro>

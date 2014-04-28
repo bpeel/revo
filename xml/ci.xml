@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ci.xml,v 1.24 2012/01/30 01:10:07 revo Exp $">
+<art mrk="$Id: ci.xml,v 1.27 2014/02/17 02:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ci</rad> <fnt><bib>PV</bib></fnt>
@@ -10,29 +10,49 @@
 <drv mrk="ci.0">
   <kap><tld/></kap>
   <uzo tip="stl">RAR</uzo>
+  <uzo tip="fak">GRA</uzo>
   <snc mrk="ci.0.MOR">
     <dif>
       Pronomo de la dua persono en ununombro, uzata por alparoli iun
-      senceremonie.
+      senceremonie:
+      <ekz>
+      anstata&ubreve; &rightquot;<tld/>&#8221; oni uzas ordinare &rightquot;vi&#8221;<fnt><bib>F</bib></fnt>.
+      </ekz>
     </dif>
     <trd lng="es">t&uacute;<klr tip="amb"> (2&#170; persona singular tratamiento de
     t&uacute;)</klr></trd>
+    <trd lng="fr">tu</trd>
     <trd lng="pl">ty</trd>
   </snc>
   <snc mrk="ci.0.REL">
     <dif>
       Kelkfoje alparolante al Dio.
     </dif>
+    <trd lng="fr">Tu</trd>
     <trd lng="pl">Ty</trd>
   </snc>
+  <ref tip="sin" cel="vi.0">vi</ref>
+  <rim>
+  Tre multaj Esperantistoj ne komprenas la pronomon <tld/>. Tial tiuj,
+  kiuj provas uzi <tld/> en interparolado, renkontas multajn
+  malfacila&jcirc;ojn. En normala Esperanto oni simple uzas &ccirc;iam vi, &ccirc;u oni
+  parolas al unu persono, &ccirc;u al pluraj, &ccirc;u oni parolas al intime konata
+  persono, &ccirc;u al fremdulo, &ccirc;u oni parolas al
+amiko, &ccirc;u al malamiko. Tio funkcias tre bone. Je bezono oni povas
+pliprecizigi per: <ekz>vi sinjoro, vi amiko, vi kara, vi &ccirc;iuj, vi
+amikoj,
+vi
+karaj, vi
+amba&ubreve; k.t.p.</ekz><fnt><bib>PMEG</bib></fnt>
+  </rim>
   <trd lng="be">&c_t;&c_y;</trd>
+  <trd lng="bg">&c_t;&c_i;</trd>
   <trd lng="br">te</trd>
   <trd lng="de">du</trd>
   <trd lng="el">(&epsilon;)&sigma;&ypsilon_ton;</trd>
   <trd lng="en">thou<klr> (ne plu uzata krom en
   pre&gcirc;oj)</klr></trd>
   <trd lng="fa">&a_t;&a_w;</trd>
-  <trd lng="fr">tu</trd>
   <trd lng="hu">te</trd>
   <trd lng="it">tu</trd>
   <trd lng="nl">jij</trd>
@@ -42,10 +62,55 @@
   <trd lng="sv">du</trd>
   <trd lng="vo">ol</trd>
 </drv>
+
+<drv mrk="ci.0a">
+    <kap><tld/>a</kap>
+    <uzo tip="stl">RAR</uzo>
+    <uzo tip="fak">GRA</uzo>
+    <snc mrk="ci.0a.unu">
+      <dif>
+        Poseda adjektivo a&ubreve; pronomo signifanta:
+&leftquot;posedata de <tld/>, rilata al <tld/>&rightquot; (unu-nombra).
+      </dif>
+  <trdgrp lng="fr">
+    <trd>ta</trd>,
+    <trd>le tien</trd>,
+    <trd>la tienne</trd>
+  </trdgrp>
+    </snc>
+    <snc mrk="ci.0a.plur">
+      <dif>
+        Poseda adjektivo a&ubreve; pronomo signifanta:
+&leftquot;posedata de <tld/>, rilata al <tld/>&rightquot; 
+        (multe-nombra).
+      </dif>
+  <trdgrp lng="fr">
+    <trd>tes</trd>,
+    <trd>les tiens</trd>,
+    <trd>les tiennes</trd>
+  </trdgrp>
+  </snc>
+<ref tip="sin" cel="vi.0a">via</ref>
+<rim>
+<tld lit="C"/> kaj <tld/>a ekzistas nur teorie, kaj estas preska&ubreve; neniam
+praktike uzataj. [...] Krome <tld/> kaj <tld/>a estas menciitaj en la
+Universala Vortaro de la Fundamento, sed en la Fundamenta Gramatiko (&rightquot;la
+16 reguloj&#8221;) aperas nek <tld/> nek <tld/>a. Anka&ubreve; en la Unua Libro ili
+ne trovi&gcirc;as<fnt><bib>PMEG</bib></fnt>.</rim>
+</drv>
 </art>
 
 <!--
 $Log: ci.xml,v $
+Revision 1.27  2014/02/17 02:10:15  revo
+Damien Brucker: +ekz
+
+Revision 1.26  2014/02/16 09:10:16  revo
+Joop Eggen: +trd bg
+
+Revision 1.25  2014/01/27 14:10:12  revo
+Damien Brucker: +rim +~a
+
 Revision 1.24  2012/01/30 01:10:07  revo
 Agustin Garcia Lopez: +trd(es) eraro
 
@@ -59,15 +124,6 @@ Revision 1.21  2009/04/17 19:49:15  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.20  2005/03/06 17:33:48  revo
-Alan ar Gall: +trd br
-
-Revision 1.19 2003/03/07 17:31:47 revo
-Ulrich Fellmann: + 1 trd=vo
-
-Revision 1.18 2002/09/20 16:32:49 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.17 2002/09/11 17:34:46 revo
 -->
 
 </vortaro>

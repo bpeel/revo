@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kirl.xml,v 1.27 2013/05/08 10:10:11 revo Exp $">
+<art mrk="$Id: kirl.xml,v 1.29 2014/02/11 02:10:16 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>kirl</rad>/i
@@ -157,6 +157,7 @@
       la intenco de la Z-a "vento~o". <aut>MB</aut>
     </adm>
     <trd lng="de">Wirbel</trd>
+    <trd lng="es">remolino</trd>
     <trdgrp lng="fr">
       <trd>tourbillon</trd>,
       <trd>maelstr&ouml;m</trd>
@@ -204,6 +205,7 @@
       <trd>curl<klr tip="ind"> (of a vector field)</klr></trd>,
       <trd>rotor<klr tip="ind"> (of a vector field)</klr></trd>
     </trdgrp>
+    <trd lng="es">rotacional</trd>
     <trdgrp lng="fr">
       <trd>rotationnel</trd>,
       <trd>tourbillon<klr tip="ind"> (d'un champ vectoriel)</klr></trd>
@@ -241,6 +243,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">remolino</trd>
   <trdgrp lng="nl">
     <trd>dwarreling</trd>,
     <trd>warreling</trd>
@@ -259,6 +262,7 @@
     <dif>
       Aparato por <tld/>i ovojn, kremon ktp.
     </dif>
+  <trd lng="es">batidora</trd>
   <trdgrp lng="fr">
     <trd>batteur<klr tip="ind"> (cuisine)</klr></trd>,
     <trd>fouet<klr tip="ind"> (cuisine)</klr></trd>
@@ -313,6 +317,7 @@
     </adm>
     <ref tip="vid" cel="potenc1.0hava">potencialhava.</ref>
     <trd lng="de">wirbelfrei<klr tip="ind"> (-es Vektorfeld)</klr></trd>
+    <trd lng="es">irrotacional</trd>
     <trd lng="en">irrotational<klr tip="ind"> (field)</klr></trd>
     <trd lng="fr"><klr tip="ind">(champ) </klr>irrotationnel</trd>
     <trd lng="hu">rot&aacute;ci&oacute;mentes</trd>
@@ -350,6 +355,12 @@
 </art>
 <!--
 $Log: kirl.xml,v $
+Revision 1.29  2014/02/11 02:10:16  revo
+Carlos Garcia: (re)korektado es -o ratacional -> rotacional
+
+Revision 1.28  2014/02/10 15:10:14  revo
+Carlos Garcia: +trd es -o -il -ajx sen-a
+
 Revision 1.27  2013/05/08 10:10:11  revo
 Sebastian Cyprych: +trd pl +~ilo.KOMUNE
 
@@ -366,11 +377,5 @@ Revision 1.23  2009/02/02 17:30:25  revo
 Sebastian Cyprych: +akvo~o (movita el ekzemplo) +trd pl
 
 Revision 1.22  2005/06/20 16:32:10  revo
-Lluis Batlle i Rossell: +trd ca,es
-
-Revision 1.21  2004/12/13 17:33:00  revo
-Marc Bavant: +trd fr
-
-Revision 1.20  2004/11/28 19:44:01  revo
 -->
 </vortaro>

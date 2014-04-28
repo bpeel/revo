@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: matema.xml,v 1.31 2013/09/22 19:10:53 revo Exp $">
+<art mrk="$Id: matema.xml,v 1.33 2014/01/03 16:10:11 revo Exp $">
 <kap>
    <ofc>1</ofc>
    <rad>matematik</rad>/o
@@ -21,6 +21,18 @@
        (nombroj,
        geometriaj figuroj, strukturoj, ktp) kaj la rilatojn inter ili.
      </dif>
+     <refgrp tip="sub">
+       <ref cel="nombr.0o.MAT">nombro</ref>,
+       <ref cel="operac.0o.MAT_supersenco">operacio</ref>,
+       <ref cel="algebr.0o.fako">algebro</ref>,
+       <ref cel="geomet1.0o.MAT">geometrio</ref>,
+       <ref cel="funkci.0o.MAT.elemente">funkcio</ref>,
+       <ref cel="strukt.0o.MAT">strukturo</ref>,
+       <ref cel="ar.0teorio">aroteorio</ref>,
+       <ref cel="topolo.0o.fako">topologio</ref>,
+       <ref cel="analit.0o">analitiko</ref>,
+       <ref cel="bild.0o.MAT">bildigo</ref>
+     </refgrp>
      <adm>
        La &ccirc;e&hcirc;a traduko &scirc;ajnas al mi iom
        nefaka. &Ccirc;u &gcirc;i ta&ubreve;gas? <aut>MB</aut>
@@ -81,6 +93,12 @@ C&eacute;r&eacute;sole, in&gcirc;eniero kaj
 </art>
 <!--
 $Log: matema.xml,v $
+Revision 1.33  2014/01/03 16:10:11  revo
+Damien Brucker: +ref (dauxrigo)
+
+Revision 1.32  2014/01/03 13:10:12  revo
+Damien Brucker: +ref
+
 Revision 1.31  2013/09/22 19:10:53  revo
 Wolfram Diestel: referenco al listo sciencoj
 
@@ -97,11 +115,5 @@ Revision 1.27  2009/06/24 16:30:31  revo
 Wieland Pusch: korr arabaj/persaj koderoj
 
 Revision 1.26  2009/04/30 16:31:12  revo
-Wieland Pusch: +trd bg
-
-Revision 1.25  2009/04/29 16:31:05  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.24  2007/06/10 16:31:31  revo
 -->
 </vortaro>

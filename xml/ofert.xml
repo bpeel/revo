@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ofert.xml,v 1.15 2012/02/13 14:10:15 revo Exp $">
+<art mrk="$Id: ofert.xml,v 1.16 2014/01/05 14:10:16 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>ofert</rad>/i
@@ -40,6 +40,10 @@
     <trd>ofertar</trd>,
     <trd>ofrecer</trd>
   </trdgrp>
+  <trdgrp lng="fr">
+    <trd>offrir</trd>,
+    <trd>proposer</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>aj&aacute;nlatot tesz</trd>,
     <trd>megaj&aacute;nl</trd>
@@ -69,7 +73,10 @@
     <trd>Angebot</trd>,
     <trd>Offerte</trd>
   </trdgrp>
-  <trd lng="fr">offre</trd>
+  <trdgrp lng="fr">
+    <trd>offre</trd>,
+    <trd>proposition</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>offerte</trd>,
     <trd>prijsopgave</trd>
@@ -78,6 +85,9 @@
 </art>
 <!--
 $Log: ofert.xml,v $
+Revision 1.16  2014/01/05 14:10:16  revo
+Damien Brucker: +trd fr
+
 Revision 1.15  2012/02/13 14:10:15  revo
 Carlos Garcia: +trd es -i
 
@@ -97,8 +107,5 @@ Revision 1.10  2002/05/30 15:02:05  revo
 Eduardo M. Kalinowski: ald trd pt
 
 Revision 1.9  2001/12/03 17:31:48  revo
-Yury Finkel: +trd ru
-
-Revision 1.8 2001/09/09 18:17:47 revo
 -->
 </vortaro>

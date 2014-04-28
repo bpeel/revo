@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gujan.xml,v 1.5 2011/12/06 23:10:22 revo Exp $">
+<art mrk="$Id: gujan.xml,v 1.6 2014/03/29 08:10:24 revo Exp $">
 <kap>
   <rad>Gujan</rad>/o
 </kap>
@@ -30,6 +30,7 @@
       <ref tip="vid" cel="atlant.A0o">Atlantiko</ref>.
     </dif>
     <ref tip="sin" cel="gvajan.G0o">Gvajano</ref>
+    </snc>
     <trd lng="bg">&c_G;&c_v;&c_i;&c_a;&c_n;&c_a;</trd>
     <trdgrp lng="ca">
       <trd>Guyana</trd>,
@@ -37,12 +38,12 @@
     </trdgrp>
     <trd lng="de">Guyana</trd>
     <trd lng="en">Guyana</trd>
+    <trd lng="fr">Guyane</trd>
     <trdgrp lng="pl">
       <trd>Gujana</trd>,
       <trd>Kooperacyjna Republika <ind>Gujany</ind></trd>
     </trdgrp>
     <trd lng="pt">Guiana</trd>
-  </snc>
 </drv>
 
 <drv mrk="gujan.FrancaG0o">
@@ -83,6 +84,9 @@
 
 <!--
 $Log: gujan.xml,v $
+Revision 1.6  2014/03/29 08:10:24  revo
+Damien Brucker: +trd fr
+
 Revision 1.5  2011/12/06 23:10:22  revo
 Marc Rausell: kataluna traduko
 

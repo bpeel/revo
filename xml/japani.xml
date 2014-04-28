@@ -2,19 +2,21 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: japani.xml,v 1.4 2010/03/13 17:30:36 revo Exp $">
+<art mrk="$Id: japani.xml,v 1.5 2014/03/21 15:10:13 revo Exp $">
 <kap>
   <rad>Japani</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="japani.0o">
   <kap><tld/>o</kap>
+  <snc>
   <uzo tip="fak">GEOG</uzo>
-  <ref tip="dif" cel="japan.0ujo.GEOG">Japanujo</ref>
+  <ref tip="sin" cel="japan.0ujo.GEOG">Japanujo</ref>
   <ekz>
     fine venis respondo el <tld/>o. Pasis jam kvin semajnoj, de kiam mi
     skribis tien
     <fnt><bib>InfanTorent2</bib>,<lok>&ccirc;apitro 2a</lok></fnt>.
   </ekz>
+  </snc>
   <trd lng="bg">&c_Ja;&c_p;&c_o;&c_n;&c_i;&c_ja;</trd>
   <trd lng="de">Japan</trd>
   <trd lng="fr">Japon</trd>
@@ -32,6 +34,9 @@
 
 <!--
 $Log: japani.xml,v $
+Revision 1.5  2014/03/21 15:10:13  revo
+Damien Brucker: +snc
+
 Revision 1.4  2010/03/13 17:30:36  revo
  Evandro Avellar: + trd pt
 

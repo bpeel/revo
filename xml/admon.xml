@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: admon.xml,v 1.33 2013/11/07 02:10:24 revo Exp $">
+<art mrk="$Id: admon.xml,v 1.34 2014/02/07 20:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>admon</rad>/i
 </kap>
@@ -313,7 +313,7 @@
     <ref tip="ant" cel="admon.0i"><tld/>i;</ref>
     <refgrp tip="vid">
       <ref cel="instig.mal0i">malinstigi</ref>,
-      <ref cel="konsil.de0imal0i">dekonsili, malkonsili</ref>.
+      <ref cel="konsil.de0i">dekonsili, malkonsili</ref>.
     </refgrp>
   </snc>
   <trdgrp lng="br">
@@ -350,8 +350,8 @@
 
 <drv mrk="admon.Re0o">
   <kap>Re<tld/>o</kap>
-  <uzo tip="fak">BIB</uzo>
   <snc>
+  <uzo tip="fak">BIB</uzo>
     <dif>
       Kvina libro de la hebrea Le&gcirc;o, parto de la <ref tip="malprt"
       cel="bibli.0o">Biblio</ref>, kie Dio denove <tld/>as la
@@ -379,6 +379,9 @@
 </art>
 <!--
 $Log: admon.xml,v $
+Revision 1.34  2014/02/07 20:10:19  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.33  2013/11/07 02:10:24  revo
 Vito Redsky: +trd  pl ro
 
@@ -398,8 +401,5 @@ Revision 1.28  2005/08/31 16:31:35  revo
 Wieland Pusch: +trd de
 
 Revision 1.27  2005/05/28 16:31:56  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.26  2005/03/06 17:34:08  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxapel.xml,v 1.29 2010/08/12 16:30:34 revo Exp $">
+<art mrk="$Id: cxapel.xml,v 1.30 2013/12/28 18:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;apel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -88,6 +88,8 @@
         4a, p. 18a</lok></fnt>.
       </ekz>
     </dif>
+   <ref tip="vid" cel="h.0.konsonanto">h</ref>
+   <ref tip="vid" cel="iks.0o">x</ref> 
     <trdgrp lng="de">
       <trd>Zirkumflex</trd>,
       <trd>Dach<klr> (diakritisches Zeichen)</klr></trd>
@@ -153,6 +155,9 @@
 </art>
 <!--
 $Log: cxapel.xml,v $
+Revision 1.30  2013/12/28 18:10:13  revo
+Damien Brucker: +ref
+
 Revision 1.29  2010/08/12 16:30:34  revo
 Jeromo Vasxe: + funga ~o
 
@@ -172,8 +177,5 @@ Revision 1.24  2007/06/06 16:30:19  revo
 Wieland Pusch: +trd de
 
 Revision 1.23  2006/03/03 17:31:03  revo
-Jeromo Vasxe: + ~isto
-
-Revision 1.22 2005/03/29 16:32:03 revo
 -->
 </vortaro>

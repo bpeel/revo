@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: univer.xml,v 1.27 2013/07/13 13:10:15 revo Exp $">
+<art mrk="$Id: univer.xml,v 1.28 2014/02/07 19:10:13 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>univers</rad>/o <fnt><bib>PV</bib></fnt>
@@ -15,7 +15,7 @@
      <uzo tip="fak">AST</uzo>
      <uzo tip="fak">FIZ</uzo>
      <dif>
-       La tuto de <ref cel="cxi.0o">&ccirc;io</ref>, kio ekzistas:
+       La tuto de <ref cel="cxio.0">&ccirc;io</ref>, kio ekzistas:
        <ekz>
          post tempo la antimaterio malaperis el la <tld/>o
          <fnt>
@@ -125,6 +125,9 @@
 </art>
 <!--
 $Log: univer.xml,v $
+Revision 1.28  2014/02/07 19:10:13  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.27  2013/07/13 13:10:15  revo
 Wolfram Diestel: referenco al cxio
 
@@ -144,8 +147,5 @@ Revision 1.22  2007/06/19 16:31:23  revo
 Harri Laine: +trd fi
 
 Revision 1.21  2006/09/19 05:36:16  revo
-Wolfram Diestel: +tezrad(AST)
-
-Revision 1.20  2006/09/07 16:56:58  revo
 -->
 </vortaro>

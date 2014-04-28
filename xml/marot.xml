@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: marot.xml,v 1.1 2013/11/08 19:10:27 revo Exp $">
+<art mrk="$Id: marot.xml,v 1.2 2014/02/08 15:10:42 revo Exp $">
 <kap>
   <rad>marot</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -11,7 +11,7 @@
   <uzo tip="stl">RAR</uzo>
   <snc mrk="marot.0o.PSI">
     <dif>
-      <ref tip="vid" cel="okup.sxat0o.KOMUNE">&Scirc;atokupo</ref>,
+      &Scirc;at<ref tip="vid" cel="okup.0o">okupo</ref>,
       <ref tip="vid" cel="ide.fiksa0o.PSI">fiksa ideo</ref>,
       temo, al kiu homo dedi&ccirc;as multan atenton:
       <ekz>
@@ -36,6 +36,9 @@
 
 <!--
 $Log: marot.xml,v $
+Revision 1.2  2014/02/08 15:10:42  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.1  2013/11/08 19:10:27  revo
 Jeromo Vasxe: nova artikolo
 

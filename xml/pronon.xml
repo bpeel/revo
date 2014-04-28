@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pronon.xml,v 1.18 2013/08/28 20:10:10 revo Exp $">
+<art mrk="$Id: pronon.xml,v 1.20 2013/12/24 17:10:13 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>prononc</rad>/i
@@ -11,8 +11,10 @@
   <kap><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
   <snc>
+  <uzo tip="fak">LIN</uzo>
+  <uzo tip="fak">FON</uzo>
     <dif>
-      <ref tip="dif" cel="parol.el0i">Elparoli</ref>.
+      <ref tip="dif" cel="parol.el0i">Elparoli</ref>:
       <ekz>
         en Esperanto oni skribas la vortojn tiel same, kiel oni ilin
         <tld/>as;
@@ -25,7 +27,7 @@
         </refgrp>);
       </ekz>
       <ekz>
-        malfacile <tld/>ebla nomo;
+        malfacile <tld/>ebla nomo.
       </ekz>
     </dif>
   </snc>
@@ -48,9 +50,12 @@
   <trd lng="sv">uttala</trd>
   <trd lng="vo">sep&uuml;k&ouml;n</trd>
 </drv>
+
 <drv mrk="pronon.0o">
   <kap><tld/>o</kap>
   <snc mrk="pronon.0o.KOMUNE">
+  <uzo tip="fak">LIN</uzo>
+  <uzo tip="fak">FON</uzo>
     <dif>
       Ago <tld/>i, rezulto de la ago:
       <ekz>
@@ -70,6 +75,12 @@
 </art>
 <!--
 $Log: pronon.xml,v $
+Revision 1.20  2013/12/24 17:10:13  revo
+Damien Brucker: translokigo de la rim
+
+Revision 1.19  2013/12/10 09:10:12  revo
+Damien Brucker: +fak +rim
+
 Revision 1.18  2013/08/28 20:10:10  revo
 Joop Eggen: +trd bg
 
@@ -86,11 +97,5 @@ Revision 1.14  2004/08/19 16:32:26  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.13  2003/07/23 17:41:58  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12  2003/03/10 17:32:02  revo
-Ulrich Fellmann: + 1 trd=vo
-
-Revision 1.11  2001/12/25 17:33:20  revo
 -->
 </vortaro>

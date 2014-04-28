@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: panam.xml,v 1.7 2013/03/09 16:10:16 revo Exp $">
+<art mrk="$Id: panam.xml,v 1.8 2014/01/05 10:10:20 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>panam</rad>/o
@@ -32,23 +32,27 @@
       <ref tip="vid" cel="atlant.A0o">Atlantiko</ref>
       kaj <ref tip="vid" cel="pacifik.P0o">Pacifiko</ref>.
     </dif>
+    </snc>
     <trd lng="be">&c_P;&c_a;&c_n;&c_a;&c_m;&c_a;</trd>
     <trd lng="bg">&c_P;&c_a;&c_n;&c_a;&c_m;&c_a;</trd>
     <trd lng="de">Panama</trd>
     <trd lng="en">Panama</trd>
+    <trd lng="fr">Panama</trd>
     <trd lng="nl">Panama</trd>
     <trdgrp lng="pl">
       <trd>Panama</trd>,
       <trd>Republika <ind>Panamy</ind></trd>
     </trdgrp>
     <trd lng="pt">Panam&aacute;</trd>
-  </snc>
 </drv>
 
 </art>
 
 <!--
 $Log: panam.xml,v $
+Revision 1.8  2014/01/05 10:10:20  revo
+Damien Brucker: +trd fr
+
 Revision 1.7  2013/03/09 16:10:16  revo
 Dmitri Gabinski: +trd be
 
@@ -68,7 +72,5 @@ Revision 1.2  2009/05/27 16:30:46  revo
 Wieland Pusch: +trd bg,de,en
 
 Revision 1.1  2009/05/22 16:30:37  revo
-Sebastian Cyprych: nova artikolo
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arhxitektur.xml,v 1.4 2012/02/19 10:10:11 revo Exp $">
+<art mrk="$Id: arhxitektur.xml,v 1.6 2014/01/29 02:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ar&hcirc;itektur</rad>/o
@@ -13,7 +13,15 @@
   <ekz>
     &ccirc;i tiuj gigantaj laboroj postulis, krom konoj de la astronomio,
     geometrio, me&hcirc;aniko kaj <tld/>o, anka&ubreve; perfektan organizon
-    <fnt><bib>Far1</bib>, <lok>anta&ubreve;parolo</lok></fnt>.
+    <fnt><bib>Far1</bib>, <lok>anta&ubreve;parolo</lok></fnt>;
+  </ekz><ekz>
+        imponas <tld/>o en <klr>[...]</klr> irakaj urboj &mdash; oficejoj,
+        hospitaloj, e&ccirc; simplaj vendejoj okulfrapas pro (almena&ubreve; la&ubreve;
+        mi) avangarda beleco
+        <fnt>
+          <aut>Paul BLASKOWICZ</aut>: <vrk>Iraka ar&hcirc;itekturo</vrk>.
+          <bib>Monato</bib>, <lok>2003</lok>
+        </fnt>.
   </ekz>
   <trd lng="be">&c_a;&c_r;&c_h;&c_ib;&c_t;&c_e;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>  
   <trdgrp lng="br">      
@@ -30,6 +38,7 @@
     <trd>&eacute;p&iacute;t&odblac;m&udblac;v&eacute;szet</trd>,
     <trd>architekt&uacute;ra</trd>
   </trdgrp>
+  <trd lng="pl">architektura</trd>
   <trd lng="ru">&c_a;&c_r;&c_h;&c_i;&c_t;&c_je;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>
   <trd lng="sv">arkitektur</trd>
 </drv>
@@ -60,6 +69,7 @@
     <trd>&eacute;p&iacute;t&odblac;m&udblac;v&eacute;sz</trd>,
     <trd>&eacute;p&iacute;t&eacute;sz</trd>
   </trdgrp>
+  <trd lng="pl">architekt</trd>
   <trd lng="ru">&c_a;&c_r;&c_h;&c_i;&c_t;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
   <trd lng="sk">architekt</trd>
   <trd lng="sv">arkitekt</trd>
@@ -68,6 +78,12 @@
 
 <!--
 $Log: arhxitektur.xml,v $
+Revision 1.6  2014/01/29 02:10:13  revo
+Sergio Pokrovskij: +ekz
+
+Revision 1.5  2014/01/13 07:10:24  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.4  2012/02/19 10:10:11  revo
 Marc Rausell: +trd ca
 

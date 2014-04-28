@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: merd.xml,v 1.4 2012/08/19 19:10:24 revo Exp $">
+<art mrk="$Id: merd.xml,v 1.5 2013/12/03 08:10:11 revo Exp $">
 <kap>
 <rad>merd</rad>/o
 </kap>
@@ -11,14 +11,17 @@
   <uzo tip="stl">EVI</uzo>
   <snc>
     <ref tip="dif" cel="fek.0ajxo">feka&jcirc;o</ref>
+    <dif>
     <ekz>
     estas hunda <tld/>o sur la strato;
     </ekz>
     <ekz>
     tiu libro estas <tld/>o.
     </ekz>
+    </dif>
   </snc>
   <trd lng="ca">merda</trd>
+  <trd lng="fr">merde</trd>
   <trdgrp lng="nl">
     <trd>kak<klr tip="ind"> (ontr.)</klr></trd>,
     <trd>poep<klr tip="ind"> (ontr.)</klr></trd>
@@ -28,6 +31,9 @@
 
 <!--
 $Log: merd.xml,v $
+Revision 1.5  2013/12/03 08:10:11  revo
+Damien Brucker: +trd fr
+
 Revision 1.4  2012/08/19 19:10:24  revo
 Marc Rausell: + trd ca
 

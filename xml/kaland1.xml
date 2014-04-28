@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kaland1.xml,v 1.14 2009/08/23 16:32:25 revo Exp $">
+<art mrk="$Id: kaland1.xml,v 1.15 2014/03/04 19:10:19 revo Exp $">
 <kap>
    <rad>kalandr</rad>/i
    <fnt>Z</fnt>
@@ -19,6 +19,10 @@
    </snc>
    <trd lng="de">mangeln</trd>
    <trd lng="en">mangle</trd>
+   <trdgrp lng="es">
+     <trd>satinar</trd>,
+     <trd>calandrar</trd>
+   </trdgrp>
    <trdgrp lng="fi">
      <trd>mankeloida</trd>,
      <trd>kalanteroida <klr> (paperon en fabriko)</klr></trd>
@@ -102,6 +106,9 @@ paperon:
 </art>
 <!--
 $Log: kaland1.xml,v $
+Revision 1.15  2014/03/04 19:10:19  revo
+Agustin Garcia Lopez: +trd (es)
+
 Revision 1.14  2009/08/23 16:32:25  revo
 Paul Peeraerts: +trd nl
 
@@ -120,9 +127,6 @@ Jozefo Horvath: +trd hu
 
 Revision 1.9 2001/10/03 18:17:41 revo
 Ulrich Fellmann: + 3 germ trdj
-
-Revision 1.8 2001/08/31 18:14:29 revo
-Yury Finkel: +trd ru
 
 -->
 </vortaro>

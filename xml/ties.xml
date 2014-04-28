@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ties.xml,v 1.12 2008/12/19 17:30:39 revo Exp $">
+<art mrk="$Id: ties.xml,v 1.13 2013/12/09 16:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ties</rad>
@@ -81,6 +81,12 @@
     <trd>deren</trd> (de &scirc;i),
     <trd>deren</trd> (de ili)
   </trdgrp>
+  <trdgrp lng="fr">
+    <trd>de celui-ci</trd>,
+    <trd>de celui-l&agrave;</trd>,
+    <trd>de ceci</trd>,
+    <trd>de ceux-ci</trd>,
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>ennek a</trd>,
     <trd>annak a</trd>,
@@ -125,6 +131,9 @@
 </art>
 <!--
 $Log: ties.xml,v $
+Revision 1.13  2013/12/09 16:10:13  revo
+Damien Brucker: +trd fr
+
 Revision 1.12  2008/12/19 17:30:39  revo
 Sebastian Cyprych: +trd pl
 
@@ -144,8 +153,5 @@ Revision 1.7 2001/04/26 16:15:32 revo
 Dennis Wibrow: +trd germ
 
 Revision 1.6 2000/11/22 17:12:40 revo
-Joost Witteveen: aldonis () cxirkaux la klarigoj de la tradukoj
-
-Revision 1.5 2000/11/21 17:12:10 revo
 -->
 </vortaro>

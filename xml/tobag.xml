@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tobag.xml,v 1.7 2013/09/14 13:10:18 revo Exp $">
+<art mrk="$Id: tobag.xml,v 1.9 2014/01/06 15:10:12 revo Exp $">
 <kap>
   <rad>tobag</rad>/o
 </kap>
@@ -16,8 +16,8 @@
     </fnt>
   </kap>
   <snc mrk="tobag.T0o.GEOG">
-    <uzo tip="fak">GEOG</uzo>
-    <uzo tip="fak">POL</uzo>
+  <uzo tip="fak">GEOG</uzo>
+  <uzo tip="fak">POL</uzo>
     <dif>
       <ref tip="lst" cel="insul.0o" lst="voko:insuloj">Insulo</ref> 
       en la <ref tip="vid" cel="atlant.A0o">Atlantiko</ref>
@@ -26,22 +26,29 @@
       teritorio de <ref tip="malprt"
       cel="trinidad.T0otobago.sxtato">Trinidado kaj Tobago</ref>.
     </dif>
-    <ref tip="vid" cel="tobag.T0o.GEOG">Trinidado</ref>
+    <ref tip="vid" cel="trinidad.T0o.GEOG">Trinidado</ref>
+    </snc>
     <trd lng="ca">Tobago</trd>
     <trd lng="de">Tobago</trd>
     <trd lng="en">Tobago</trd>
+    <trd lng="fr">Tobago</trd>
     <trd lng="hu">Tobago</trd>
     <trd lng="nl">Tobago</trd>
     <trdgrp lng="pl">
       <trd>Tobago</trd>
     </trdgrp>
-  </snc>
 </drv>
 
 </art>
 
 <!--
 $Log: tobag.xml,v $
+Revision 1.9  2014/01/06 15:10:12  revo
+Damien Brucker: korekto en la ref
+
+Revision 1.8  2014/01/06 14:10:13  revo
+Damien Brucker: +trd fr
+
 Revision 1.7  2013/09/14 13:10:18  revo
 Wolfram Diestel: ref al lst insuloj
 
@@ -58,10 +65,5 @@ Revision 1.3  2009/09/26 16:31:51  revo
 Paul Peeraerts: +nl
 
 Revision 1.2  2009/05/27 16:30:41  revo
-Wieland Pusch: +trd de,en
-
-Revision 1.1  2009/05/22 16:30:39  revo
-Sebastian Cyprych: nova artikolo
-
 -->
 </vortaro>

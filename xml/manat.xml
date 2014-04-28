@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: manat.xml,v 1.17 2013/10/20 13:10:12 revo Exp $">
+<art mrk="$Id: manat.xml,v 1.18 2014/02/08 15:10:43 revo Exp $">
 <kap>
   <rad>manat</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -13,7 +13,7 @@
     <dif>
       Na&gcirc;a mamulo vivanta en estuaroj kaj riveroj de tropika zono
       atlantika, genro el familio tri&hcirc;e&hcirc;edoj el ordo <ref tip="lst"
-      cel="siren.0o.ZOO" lst="voko:sirenoj">sirenoj</ref> 
+      cel="siren.0oj.ZOO" lst="voko:sirenoj">sirenoj</ref> 
       (<trd lng="la">Trichechus</trd>):
       <ekz>
         la kariba manato (<em>Trichechus manatus</em>)
@@ -64,6 +64,9 @@
 </art>
 <!--
 $Log: manat.xml,v $
+Revision 1.18  2014/02/08 15:10:43  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.17  2013/10/20 13:10:12  revo
 Wolfram Diestel: ref al lst sirenoj
 
@@ -82,9 +85,6 @@ Sebastian Cyprych: -snc EKON: movita la manat1.xml
 
 Revision 1.12 2007/11/22 17:31:04 revo
 Sebastian Cyprych: sxangx ~. al ~.ZOO +rim; +snc EKON +trd pl
-
-Revision 1.11 2004/08/16 16:32:55 revo
-Dmitri Gabinski: +trd be
 
 -->
 </vortaro>

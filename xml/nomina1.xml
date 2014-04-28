@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: nomina1.xml,v 1.15 2005/08/05 16:31:18 revo Exp $">
+  <art mrk="$Id: nomina1.xml,v 1.17 2014/03/03 08:10:13 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>nominativ</rad>/o
@@ -10,10 +10,11 @@
 
     <drv mrk="nomina1.0o">
       <kap><ofc>*</ofc><tld/>o</kap>
-      <uzo tip="fak">GRA</uzo>
       <snc>
+      <uzo tip="fak">GRA</uzo>
         <dif>
-          En diversaj lingvoj, la <ref tip="super" cel="kaz.0o.GRA">kazo</ref>
+          En diversaj lingvoj, la <ref tip="super"
+          cel="kaz.0o.GRA">kazo</ref>
           indikanta subjekton de verbo a&ubreve; predikaton:
           <ekz>
             kiam la dispartigota aro estas rekta objekto, &ccirc;u ni uzu
@@ -21,7 +22,17 @@
             tradicio?
             <fnt><aut>Christiane De Vleminck</aut>: <vrk>&Ccirc;u vi poas
                 &gcirc;uste? (Andr&eacute; Cherpillod, Po, la diabla vorto)</vrk>,
-              <bib>Monato</bib><lok>jaro 1997a, numero 9a, p. 24a</lok></fnt>.
+              <bib>Monato</bib><lok>jaro 1997a, numero 9a, p.
+              24a</lok></fnt>;
+          </ekz>
+          <ekz>
+          &ccirc;ie, kie oni dubas inter la <tld/>o kaj akuzativo, oni devas
+          uzi la <tld/>on<fnt><bib>LR</bib></fnt>;
+          </ekz>
+          <ekz>
+          en Esperanto e&ccirc; la objekta <ref tip="dif"
+          cel="predik2.0o">predikativo</ref> staras en
+          <tld/>o<fnt><bib>PIV3</bib></fnt>. 
           </ekz>
         </dif>
       </snc>
@@ -55,6 +66,12 @@
   </art>
   <!--
   $Log: nomina1.xml,v $
+  Revision 1.17  2014/03/03 08:10:13  revo
+  Damien Brucker: fak
+
+  Revision 1.16  2014/02/28 10:10:12  revo
+  Damien Brucker: +ekz
+
   Revision 1.15  2005/08/05 16:31:18  revo
   Sergio Pokrovskij: TEZ
 

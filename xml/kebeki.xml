@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kebeki.xml,v 1.2 2012/03/12 01:10:10 revo Exp $">
+<art mrk="$Id: kebeki.xml,v 1.4 2014/03/02 10:10:15 revo Exp $">
 <kap>
   <rad>Kebeki</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -29,15 +29,23 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_K;&c_v;&c_e;&c_b;&c_e;&c_k;</trd>
   <trd lng="bg">&c_K;&c_v;&c_je;&c_b;&c_je;&c_k;</trd>
   <trd lng="de">Qu&eacute;bec</trd>
   <trd lng="en">Quebec</trd>
   <trd lng="fr">Qu&eacute;bec<klr> (province)</klr></trd>
+  <trd lng="pl">Quebec</trd>
 </drv>
 </art>
 
 <!--
 $Log: kebeki.xml,v $
+Revision 1.4  2014/03/02 10:10:15  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.3  2014/01/13 07:10:23  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.2  2012/03/12 01:10:10  revo
 Wieland Pusch: +trd bg+de
 

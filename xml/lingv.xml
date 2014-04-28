@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-  <art mrk="$Id: lingv.xml,v 1.53 2013/10/07 15:10:54 revo Exp $">
+  <art mrk="$Id: lingv.xml,v 1.54 2014/02/02 09:10:11 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>lingv</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,7 +13,8 @@
         <tezrad/>
         <uzo tip="fak">LIN</uzo>
         <dif>
-          Sistemo da vortoj uzata de
+          Sistemo da <ref tip="dif" cel="vort.0o.LIN">vortoj</ref> uzata
+          de
           <ref tip="malprt" cel="etn.0o">etno</ref>
           a&ubreve; alia homgrupo por interkompreni&gcirc;o:
           <ekz>
@@ -954,6 +955,9 @@
   </art>
   <!--
   $Log: lingv.xml,v $
+  Revision 1.54  2014/02/02 09:10:11  revo
+  Damien Brucker: +ref
+
   Revision 1.53  2013/10/07 15:10:54  revo
   Sergio Pokrovskij: precizigo de ekz; +trd=ru; dispartigo de ~ajxo
 

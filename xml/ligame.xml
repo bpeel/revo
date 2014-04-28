@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ligame.xml,v 1.15 2012/07/31 08:10:11 revo Exp $">
+<art mrk="$Id: ligame.xml,v 1.16 2013/12/02 15:10:19 revo Exp $">
 <kap>
   <rad>ligament</rad>/o
 </kap>
@@ -10,8 +10,8 @@
   <kap>
     <tld/>o
   </kap>
-  <uzo tip="fak">ANA</uzo>
-  <snc>
+    <snc>
+    <uzo tip="fak">ANA</uzo>
     <dif>
       Fibreca liga&jcirc;o, kiu kunligas ostojn a&ubreve; altenas internajn
       korpopartojn.
@@ -30,6 +30,7 @@
     <trd>&a_z;&a_r;&a_d;&f_p;&f_y;</trd>,
     <trd>&a_r;&a_b;&a_A;&a_T;</trd>
   </trdgrp>
+  <trd lng="fr">ligament</trd>
   <trd lng="hu">&iacute;nszalag</trd>
   <trd lng="it">legamento<klr> (anat.)</klr></trd>
   <trdgrp lng="nl">
@@ -44,6 +45,9 @@
 </art>
 <!--
 $Log: ligame.xml,v $
+Revision 1.16  2013/12/02 15:10:19  revo
+Damien Brucker: +trd fr
+
 Revision 1.15  2012/07/31 08:10:11  revo
 Marc Rausell: + trd ca
 
@@ -63,8 +67,5 @@ Revision 1.10  2004/05/06 16:32:40  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9  2002/10/06 17:35:04  revo
-Ulrich Fellmann: + 3 trd de
-
-Revision 1.8  2002/08/29 17:33:24  revo
 -->
 </vortaro>
