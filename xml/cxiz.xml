@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxiz.xml,v 1.19 2009/04/24 16:31:21 revo Exp $">
+<art mrk="$Id: cxiz.xml,v 1.20 2014/04/06 18:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;iz</rad>/i
@@ -113,7 +113,10 @@
   <mlg>Cae</mlg>
   <snc>
     <dif>
-      Nord-hemisfera stelfiguro (<trd lng="la">Caelum</trd>).
+      Sud-hemisfera 
+      <ref tip="lst" cel="stel.0figuro"
+      lst="voko:stelfiguroj">stelfiguro</ref> (<trd
+      lng="la">Caelum</trd>).
     </dif>
   </snc>
   <trd lng="de">Grabstichel</trd>
@@ -173,6 +176,9 @@
 </art>
 <!--
 $Log: cxiz.xml,v $
+Revision 1.20  2014/04/06 18:10:14  revo
+Wolfram Diestel: kor. sud-hemisfera, ref al stelfiguroj
+
 Revision 1.19  2009/04/24 16:31:21  revo
 Sebastian Cyprych: +trd pl
 
@@ -192,8 +198,5 @@ Revision 1.14  2005/11/24 17:32:36  revo
 Raul Salinas Monteagudo: +trd ca,es
 
 Revision 1.13  2005/06/26 16:32:12  revo
-Yury Finkel: +trd ru
-
-Revision 1.12  2004/08/29 16:32:34  revo
 -->
 </vortaro>

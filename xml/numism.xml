@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: numism.xml,v 1.10 2004/06/15 21:33:47 revo Exp $">
+<art mrk="$Id: numism.xml,v 1.11 2014/04/04 10:10:13 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>numismatik</rad>/o
@@ -16,6 +16,7 @@
   </snc>
   <trd lng="be">&c_n;&c_u;&c_m;&c_ib;&c_z;&c_m;&c_a;&c_t;&c_y;&c_k;&c_a;</trd>
   <trd lng="de">Numismatik</trd>
+  <trd lng="fr">numismatique</trd>
   <trd lng="el">&ny;&omikron;&my;&jota;&sigma;&my;&alfa;&tau;&jota;&kappa;&eta_ton;</trd>
   <trd lng="hu">numizmatika</trd>
   <trd lng="nl">numismatiek</trd>
@@ -25,6 +26,9 @@
 </art>
 <!--
 $Log: numism.xml,v $
+Revision 1.11  2014/04/04 10:10:13  revo
+Damien Brucker: +trd fr
+
 Revision 1.10  2004/06/15 21:33:47  revo
 Jozefo Horvath: +trd hu
 
@@ -45,4 +49,3 @@ Paul Peeraerts: ald trd nl
 
 -->
 </vortaro>
-

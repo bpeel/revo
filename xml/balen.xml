@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: balen.xml,v 1.28 2013/10/20 12:10:15 revo Exp $">
+<art mrk="$Id: balen.xml,v 1.29 2014/04/06 18:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>balen</rad>/o <fnt><bib>PV</bib></fnt>
@@ -67,7 +67,7 @@
   <snc mrk="balen.B0o.AST">
     <uzo tip="fak">AST</uzo>
     <dif>
-      Nord-hemisfera 
+      Ekvatora 
       <ref tip="lst" cel="stel.0figuro"
       lst="voko:stelfiguroj">stelfiguro</ref>
       (<trd lng="la">Cetus</trd>).
@@ -133,6 +133,9 @@
 </art>
 <!--
 $Log: balen.xml,v $
+Revision 1.29  2014/04/06 18:10:15  revo
+Wolfram Diestel: kor. nord-hemisfera al ekvatora
+
 Revision 1.28  2013/10/20 12:10:15  revo
 Wolfram Diestel: ref al cetacoj, stelfiguroj, prilaboris dif-ojn
 
@@ -152,8 +155,5 @@ Revision 1.23  2007/05/22 16:31:26  revo
 Wieland Pusch: +trd de
 
 Revision 1.22  2006/06/29 16:31:55  revo
-Jeromo Vasxe: + gxibdorsa ~o
-
-Revision 1.21 2006/05/11 16:31:12 revo
 -->
 </vortaro>

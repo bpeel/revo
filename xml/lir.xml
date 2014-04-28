@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lir.xml,v 1.24 2013/09/08 18:11:30 revo Exp $">
+<art mrk="$Id: lir.xml,v 1.25 2014/04/06 18:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lir</rad>/o
@@ -60,7 +60,7 @@
   <mlg>Lyr</mlg>
   <snc>
     <dif>
-      Sud-hemisfera <ref tip="lst" cel="stel.0figuro"
+      Nord-hemisfera <ref tip="lst" cel="stel.0figuro"
       lst="voko:stelfiguroj">stelfiguro</ref>
       
 (<trd lng="la">Lyra</trd>).
@@ -100,6 +100,9 @@ lng="el">&lambda;&ypsilon;&rho;&jota;&sigma;&my;&omikron_ton;&sigma_fina;</trd>
 </art>
 <!--
 $Log: lir.xml,v $
+Revision 1.25  2014/04/06 18:10:21  revo
+Wolfram Diestel: kor. nord-hemisfera stelfiguro
+
 Revision 1.24  2013/09/08 18:11:30  revo
 Wolfram Diestel: ref al listo kordinstrumentoj
 
@@ -119,8 +122,5 @@ Revision 1.19  2006/02/19 19:54:57  revo
 H. Neal Parker: +drv
 
 Revision 1.18  2004/05/26 16:32:27  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.17  2004/02/08 17:49:47  revo
 -->
 </vortaro>

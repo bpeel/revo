@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kontro.xml,v 1.16 2012/01/12 18:10:20 revo Exp $">
+<art mrk="$Id: kontro.xml,v 1.17 2014/04/08 10:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc> <ofc>1</ofc> <ofc>7</ofc>
   <rad>kontrol</rad>/i
@@ -99,6 +99,10 @@
     <trd>inspeccionar</trd>,
     <trd>verificar</trd>,
     <trd>revisar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>contr&ocirc;ler</trd>,
+    <trd>v&eacute;rifier</trd>
   </trdgrp> 
   <trd lng="hu">ellen&odblac;riz</trd>  
   <trdgrp lng="pt">
@@ -163,6 +167,10 @@
     <trd>inspecci&oacute;n</trd>,
     <trd>verificaci&oacute;n</trd>,
     <trd>revisi&oacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>contr&ocirc;le</trd>,
+    <trd>v&eacute;rification</trd>
   </trdgrp> 
   <trd lng="hu">ellen&odblac;riz</trd>    
   <trdgrp lng="ru">
@@ -198,6 +206,10 @@
     <trd>inspeccionable</trd>,
     <trd>verificable</trd>,
     <trd>revisable</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>contr&ocirc;lable</trd>,
+    <trd>v&eacute;rifiable</trd>
   </trdgrp> 
   <trd lng="hu">ellen&odblac;rizhet&odblac;</trd>  
   <trd lng="nl">controleerbaar</trd>  
@@ -210,6 +222,9 @@
 
 <!--
 $Log: kontro.xml,v $
+Revision 1.17  2014/04/08 10:10:12  revo
+Damien Brucker: +trd fr
+
 Revision 1.16  2012/01/12 18:10:20  revo
 Eduardo Navas: +trad es
 
@@ -229,8 +244,5 @@ Revision 1.11  2003/04/22 16:31:24  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.10  2002/03/14 17:31:58  revo
-Ulrich Fellmann: + 10 germ trdj
-
-Revision 1.9  2002/01/11 19:09:37  revo
 -->
 </vortaro>

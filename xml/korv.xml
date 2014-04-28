@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korv.xml,v 1.28 2013/08/22 15:10:24 revo Exp $">
+<art mrk="$Id: korv.xml,v 1.29 2014/04/06 18:10:17 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>korv</rad>/o
@@ -88,7 +88,7 @@
   <mlg>Crv</mlg>
   <snc>
     <uzo tip="fak">AST</uzo> 
-    <dif> Nord-hemisfera
+    <dif> Sud-hemisfera
       <ref tip="lst" cel="stel.0figuro"
       lst="voko:stelfiguroj">stelfiguro</ref> 
       (<trd lng="la">Corvus</trd>).
@@ -126,6 +126,9 @@
 </art>
 <!--
 $Log: korv.xml,v $
+Revision 1.29  2014/04/06 18:10:17  revo
+Wolfram Diestel: kor. sud-hemisfera stelfiguro
+
 Revision 1.28  2013/08/22 15:10:24  revo
 Wolfram Diestel: referencoj al listoj zoo specioj, genroj, stelfiguroj
 
@@ -145,8 +148,5 @@ Revision 1.23  2009/09/13 16:57:03  revo
 Paul Peeraerts: +nl
 
 Revision 1.22  2009/08/24 16:32:39  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.21  2009/01/03 17:31:39  revo
 -->
 </vortaro>

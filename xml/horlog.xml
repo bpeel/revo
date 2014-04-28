@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: horlog.xml,v 1.35 2013/08/25 08:10:29 revo Exp $">
+<art mrk="$Id: horlog.xml,v 1.36 2014/04/06 18:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>horlo&gcirc;</rad>/o
@@ -75,7 +75,7 @@ sa&gcirc;uloj</lok></fnt>;
   <mlg>Hor</mlg>
   <snc>
     <dif>
-      Nord-hemisfera <ref tip="lst"
+      Sud-hemisfera <ref tip="lst"
 cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref> (<trd
 lng="la">Horologium</trd>).
     </dif>
@@ -396,6 +396,9 @@ funelo:
 </art>
 <!--
 $Log: horlog.xml,v $
+Revision 1.36  2014/04/06 18:10:20  revo
+Wolfram Diestel: kor. sud-hemisfera stelfiguro
+
 Revision 1.35  2013/08/25 08:10:29  revo
 Wolfram Diestel: referenco al listo stelfiguroj
 
@@ -415,8 +418,5 @@ Revision 1.30  2009/07/09 16:30:39  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.29  2007/12/11 17:30:16  revo
-Wieland Pusch: +trd bg
-
-Revision 1.28  2006/10/22 18:04:00  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: palaux.xml,v 1.4 2009/10/29 17:30:54 revo Exp $">
+<art mrk="$Id: palaux.xml,v 1.5 2014/04/05 19:10:21 revo Exp $">
 <kap>
   <rad>Pala&ubreve;</rad>/o
 </kap>
@@ -28,6 +28,10 @@
     <trd lng="bg">&c_P;&c_a;&c_l;&c_a;&c_u;</trd>
     <trd lng="de">Palau</trd>
     <trd lng="en">Palau</trd>
+    <trdgrp lng="fr">
+      <trd>Palaos</trd>,
+      <trd>R&eacute;publique des Palaos</trd>
+    </trdgrp>
     <trd lng="hu">Palau</trd>
     <trd lng="nl">Palau</trd>
     <trdgrp lng="pl">
@@ -41,6 +45,9 @@
 
 <!--
 $Log: palaux.xml,v $
+Revision 1.5  2014/04/05 19:10:21  revo
+Damien Brucker: +trd fr
+
 Revision 1.4  2009/10/29 17:30:54  revo
 Jozefo Horvath: +trd
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lunati.xml,v 1.11 2009/06/10 16:30:34 revo Exp $">
+<art mrk="$Id: lunati.xml,v 1.12 2014/04/08 10:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lunatik</rad>/o
@@ -24,6 +24,7 @@
       <trd>Monds&uuml;chtiger</trd>
     </trdgrp>
     <trd lng="en">sleepwalker</trd>
+    <trd lng="fr">somnanbule</trd>
     <trdgrp lng="hu">
       <trd>holdk&oacute;r&oacute;s</trd>,
       <trd>alvaj&aacute;r&oacute;</trd>
@@ -41,16 +42,20 @@
       <trd>Maniker</trd>
     </trdgrp>
     <trd lng="en">lunatic</trd>
+    <trd lng="fr">lunatique<klr> (subst.)</klr></trd>
     <trdgrp lng="hu">
       <trd>h&oacute;bortos alak</trd>,
       <trd>szesz&eacute;lyes ember</trd>
     </trdgrp>
     <trd lng="nl">grillig persoon</trd>
   </snc>
-</drv>
+  </drv>
 </art>
 <!--
 $Log: lunati.xml,v $
+Revision 1.12  2014/04/08 10:10:13  revo
+Damien Brucker: +trd fr
+
 Revision 1.11  2009/06/10 16:30:34  revo
 Russ Williams: +trd en
 
@@ -70,7 +75,5 @@ Revision 1.6  2001/11/20 17:36:16  revo
 Yury Finkel: +trd ru
 
 Revision 1.5  2001/04/24 16:25:13  revo
-Paul Peeraerts: ald trd nl
-
 -->
 </vortaro>
