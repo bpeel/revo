@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vampir.xml,v 1.19 2013/10/22 18:10:18 revo Exp $">
+<art mrk="$Id: vampir.xml,v 1.20 2014/04/22 18:11:14 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>vampir</rad>/o
@@ -63,6 +63,7 @@
     <trd lng="pt">vampiro<klr tip="amb"> (explorador)</klr></trd>
     <trd lng="sv">blodsugare</trd>
   </snc>
+  <trd lng="bg">&c_v;&c_a;&c_m;&c_p;&c_i;&c_r;</trd>
   <trd lng="ca">vampir</trd>
   <trd lng="en">vampire</trd>
   <trd lng="es">vampiro</trd>
@@ -76,6 +77,9 @@
 </art>
 <!--
 $Log: vampir.xml,v $
+Revision 1.20  2014/04/22 18:11:14  revo
+Wieland Pusch: +trd bg
+
 Revision 1.19  2013/10/22 18:10:18  revo
 Wolfram Diestel: ref al lst vespertoj, prilaboris dif
 
@@ -95,8 +99,5 @@ Revision 1.14  2002/07/18 11:23:53  revo
 Eduardo M. Kalinowski: ald trd el, pt
 
 Revision 1.13  2002/07/11 17:32:46  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12  2002/05/07 16:35:22  revo
 -->
 </vortaro>

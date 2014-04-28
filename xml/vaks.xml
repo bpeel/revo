@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vaks.xml,v 1.19 2012/08/11 18:10:12 revo Exp $">
+<art mrk="$Id: vaks.xml,v 1.20 2014/04/22 18:11:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vaks</rad>/o
@@ -19,6 +19,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_v;&c_o;&c_s;&c_k;</trd>
+    <trd lng="bg">&c_v;&c_o;&c_s;&c_malmol;&c_k;</trd>
     <trd lng="pt">cera de abelha</trd>
     <trd lng="ru">&c_v;&c_o;&c_s;&c_k;</trd>
   </snc>
@@ -119,6 +120,9 @@
 </art>
 <!--
 $Log: vaks.xml,v $
+Revision 1.20  2014/04/22 18:11:10  revo
+Wieland Pusch: +trd bg
+
 Revision 1.19  2012/08/11 18:10:12  revo
 Marc Rausell: + trd ca
 
@@ -138,8 +142,5 @@ Revision 1.14  2002/07/18 11:23:39  revo
 Eduardo M. Kalinowski: ald trd pt
 
 Revision 1.13  2002/05/05 16:31:13  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.12  2002/03/15 17:32:23  revo
 -->
 </vortaro>

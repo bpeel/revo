@@ -2,20 +2,21 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: separ.xml,v 1.9 2010/03/05 17:30:56 revo Exp $">
+<art mrk="$Id: separ.xml,v 1.10 2014/04/14 12:10:31 revo Exp $">
 <kap>
   <rad>separ</rad>/o
 </kap>
 <drv mrk="separ.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">JUR</uzo>
   <snc>
+  <uzo tip="fak">JUR</uzo>
     <dif>
       La&ubreve;le&gcirc;a (tempa a&ubreve; dumviva) izoligo de geedzoj.
     </dif>
   </snc>
   <trd lng="de">Trennung</trd>
   <trd lng="en">legal separation<klr tip="amb"> (of spouses)</klr></trd>
+  <trd lng="fr">s&eacute;paration<klr> (conjuguale)</klr></trd>
   <trdgrp lng="hu">
     <trd>elv&aacute;laszt&aacute;s<klr tip="ind"> (h&aacute;zast&aacute;rsak&eacute;)</klr></trd>,
     <trd>k&uuml;l&ouml;nv&aacute;laszt&aacute;s<klr tip="ind"> (h&aacute;zast&aacute;rsak&eacute;)</klr></trd>
@@ -31,6 +32,9 @@
 </art>
 <!--
 $Log: separ.xml,v $
+Revision 1.10  2014/04/14 12:10:31  revo
+Damien Brucker: +trd fr
+
 Revision 1.9  2010/03/05 17:30:56  revo
 Russ Williams: +trd en
 

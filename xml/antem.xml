@@ -2,20 +2,21 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: antem.xml,v 1.9 2002/03/19 17:34:12 revo Exp $">
+<art mrk="$Id: antem.xml,v 1.10 2014/04/15 11:10:19 revo Exp $">
 <kap>
   <rad>antem</rad>/o
 </kap>
 <drv mrk="antem.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">BOT</uzo>
   <snc>
+  <uzo tip="fak">BOT</uzo>
     <dif>
       Genro el familio <ref tip="super" cel="astera.0oj">asteracoj</ref>
       (<trd lng="la">Anthemis</trd>).
     </dif>
   </snc>
   <trd lng="de">Hundskamille</trd>
+  <trd lng="fr">anth&eacute;mis</trd>
   <trd lng="hu">pipit&eacute;r</trd>
   <trdgrp lng="ru">
     <trd>&c_a;&c_n;&c_t;&c_je;&c_m;&c_i;&c_s;</trd>,
@@ -26,6 +27,9 @@
 </art>
 <!--
 $Log: antem.xml,v $
+Revision 1.10  2014/04/15 11:10:19  revo
+Damien Brucker: +trd fr
+
 Revision 1.9  2002/03/19 17:34:12  revo
 Jozefo Horvath: +trd hu
 

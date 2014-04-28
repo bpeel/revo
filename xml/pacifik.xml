@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pacifik.xml,v 1.14 2012/06/26 10:10:08 revo Exp $">
+<art mrk="$Id: pacifik.xml,v 1.15 2014/04/22 18:11:17 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>Pacifik</rad>/o
@@ -23,6 +23,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_C;&c_ib;&c_h;&c_ib; <ind>&c_a;&c_k;&c_ib;&c_ja;&c_n;</ind></trd>
+  <trd lng="bg">&c_t;&c_i;&c_h;&c_i; &c_o;&c_k;&c_je;&c_a;&c_n;</trd>
   <trdgrp lng="de">
     <trd>Stiller <ind>Ozean</ind></trd>,
     <trd>Pazifik</trd>
@@ -46,6 +47,9 @@
 </art>
 <!--
 $Log: pacifik.xml,v $
+Revision 1.15  2014/04/22 18:11:17  revo
+Wieland Pusch: +trd bg
+
 Revision 1.14  2012/06/26 10:10:08  revo
 Tulio Flores: korekto de traduko pt
 
@@ -65,8 +69,5 @@ Revision 1.9  2005/04/18 16:33:35  revo
 Raul Salinas Monteagudo: +trd es
 
 Revision 1.8  2003/07/23 17:41:49  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.7  2003/01/06 17:32:37  revo
 -->
 </vortaro>

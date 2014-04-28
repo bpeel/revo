@@ -2,14 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ux.xml,v 1.10 2014/04/10 16:10:46 revo Exp $">
+<art mrk="$Id: ux.xml,v 1.11 2014/04/22 18:11:25 revo Exp $">
 <kap>
     <ofc>*</ofc><rad>&ubreve;</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
 <subart>
 <drv mrk="ux.0.konsonanto">
   <kap><tld/></kap>
-    <uzo tip="fak">TIP</uzo>
+    <uzo tip="fak">LIN</uzo>
     <uzo tip="fak">GRA</uzo>
     <uzo tip="fak">FON</uzo>
   <snc>    
@@ -73,6 +73,9 @@
 
 <!--
 $Log: ux.xml,v $
+Revision 1.11  2014/04/22 18:11:25  revo
+Damien Brucker: +ref
+
 Revision 1.10  2014/04/10 16:10:46  revo
 Damien Brucker: fak
 
@@ -92,8 +95,5 @@ Revision 1.5  2013/12/28 17:10:12  revo
 Damien Brucker: +ref
 
 Revision 1.4  2013/12/28 15:10:16  revo
-Damien Brucker: +IFA
-
-Revision 1.3  2013/12/28 02:10:14  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pakt.xml,v 1.4 2009/10/16 16:30:44 revo Exp $">
+<art mrk="$Id: pakt.xml,v 1.5 2014/04/14 12:10:24 revo Exp $">
 <kap>
   <rad>pakt</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -40,12 +40,16 @@
     </ekz>
     <trd lng="pl">pakt</trd>
   </snc>
+  <trd lng="fr">pacte</trd>
   <trd lng="nl">pakt<klr tip="ind"> (zeldz.)</klr></trd>
 </drv>
 </art>
 
 <!--
 $Log: pakt.xml,v $
+Revision 1.5  2014/04/14 12:10:24  revo
+Damien Brucker: +trd fr
+
 Revision 1.4  2009/10/16 16:30:44  revo
 Paul Peeraerts: +nl
 
