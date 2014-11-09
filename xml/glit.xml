@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: glit.xml,v 1.31 2009/02/10 14:18:09 revo Exp $">
+<art mrk="$Id: glit.xml,v 1.32 2014/10/25 08:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>glit</rad>/i <fnt><bib>PV</bib></fnt>
@@ -370,6 +370,10 @@
     <trd>&c_n;&c_a;&c_sh;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_sh;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="fr">
+    <trd>lubrifier</trd>,
+    <trd>graisser</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>megken</trd>,
     <trd>beolajoz</trd>
@@ -488,7 +492,6 @@
   <snc mrk="glit.de0ilo.tobogano">
     <uzo tip="fak">SPO</uzo>
     <uzo tip="stl">EVI</uzo>
-    <dif>
       <ref tip="dif" cel="tobogan.0o.SPO">tobogano</ref>
       <ekz>
       Deglitilo estas infana atrakcio trovi&gcirc;anta plej ofte en 
@@ -503,20 +506,19 @@
         <bib>Viki</bib>
      </fnt>
      </ekz>
-    </dif>
   </snc>
   <adm>
     Trovebla nur &ccirc;e Vikipedio. &Ccirc;ie alie uzatas deglitejo
     a&ubreve; preferinda tobogano.
     <aut>SC</aut>
   </adm>
+  <trd lng="fr">tobogan</trd>
 </drv>
 
 <drv mrk="glit.de0ejo">
   <kap>de<tld/>ejo</kap>
   <snc mrk="glit.de0ejo.tobogano">
     <uzo tip="fak">SPO</uzo>
-    <dif>
       <ref tip="dif" cel="tobogan.0o.SPO">tobogano</ref>
       <ekz>
       12. tobogano, deglitejo
@@ -528,8 +530,8 @@
         <lok>&ccirc;. 84, Urbaj parkoj</lok>
      </fnt>
      </ekz>
-    </dif>
   </snc>
+  <trd lng="fr">tobogan</trd>
 </drv>
 
 <drv mrk="glit.el0i">
@@ -761,6 +763,9 @@
 </art>
 <!--
 $Log: glit.xml,v $
+Revision 1.32  2014/10/25 08:10:12  revo
+Damien Brucker: +trd fr
+
 Revision 1.31  2009/02/10 14:18:09  revo
 Sebastian Cyprych: -fusxaj linirompoj en trd
 
@@ -780,8 +785,5 @@ Revision 1.26 2005/08/21 16:32:51 revo
 Luiz Portella: +trd pt
 
 Revision 1.25 2005/04/29 16:31:57 revo
-Jozefo Horvath: alvono de mankantaj lingvokodoj hu
-
-Revision 1.24 2005/04/28 16:31:44 revo
 -->
 </vortaro>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: mantel.xml,v 1.29 2012/06/08 14:10:18 revo Exp $">
+<art mrk="$Id: mantel.xml,v 1.30 2014/10/27 08:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mantel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -242,7 +242,7 @@
       &ccirc;irka&ubreve; la
       <ref tip="vid" cel="kern.ter0o.GEOL">terkerno</ref>
       kaj sub la
-      <ref tip="vid" cel="ter.0krusto.GEOL">terkrusto</ref>:
+      <ref tip="vid" cel="krust.ter0o.GEOL">terkrusto</ref>:
       <ekz>
         helpe de la esplorado pri tertremo de interna lando de Antarko 
         oni konos la profundan strukturon de terkrusto kaj ter<tld/>o
@@ -262,6 +262,9 @@
 </art>
 <!--
 $Log: mantel.xml,v $
+Revision 1.30  2014/10/27 08:10:15  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.29  2012/06/08 14:10:18  revo
 Tulio Flores: korekto traduko pt
 
@@ -281,8 +284,5 @@ Revision 1.24  2007/12/22 17:30:35  revo
 Wieland Pusch: +trd bg
 
 Revision 1.23  2007/06/01 16:32:16  revo
-Wieland Pusch: +trd de
-
-Revision 1.22  2006/10/11 16:30:30  revo
 -->
 </vortaro>

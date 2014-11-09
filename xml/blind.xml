@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: blind.xml,v 1.31 2013/10/09 01:10:16 revo Exp $">
+<art mrk="$Id: blind.xml,v 1.33 2014/10/25 03:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>blind</rad>/a <fnt><bib>PV</bib></fnt>
@@ -11,9 +11,10 @@
 <drv mrk="blind.0a">
   <kap><ofc>*</ofc><tld/>a</kap>
   <snc mrk="blind.0a.MED">
+    <uzo tip="fak">MED</uzo>
     <dif>
       <ref tip="super" cel="kripl.0a.MED">Kripla</ref> pro manko de 
-      vidkapablo:
+      vidpovo:
       <ekz>
         li vidis viron <tld/>an de post la naski&gcirc;o
         <fnt><bib>NT</bib>, <lok>&Joh; 9:1</lok></fnt>.
@@ -66,6 +67,10 @@
   <trd lng="es">ciego</trd>
   <trd lng="fr">aveugle<klr tip="ind"> (adj.)</klr></trd>
   <trd lng="hu">vak</trd>
+  <trdgrp lng="id">
+    <trd>buta</trd>,
+    <trd>tunanetra</trd>
+  </trdgrp>
   <trd lng="nl">blind<klr tip="ind"> (b.nw.)</klr></trd>
   <trd lng="ru">&c_s;&c_l;&c_je;&c_p;&c_o;&c_j;</trd>
   <trd lng="sk">zaslepen&yacute;</trd>
@@ -124,9 +129,9 @@
 
 <drv mrk="blind.0eco">
   <kap><tld/>eco</kap>
-  <snc>
+  <snc mrk="blind.0eco.MED">
     <dif>
-      Nekapablo vidi:
+      Nepovo vidi:
       <ekz>
         kaj Li frapis ilin per <tld/>eco, konforme al la
         vorto de Eli&scirc;a
@@ -138,6 +143,7 @@
   <trd lng="br">dallentez</trd>
   <trd lng="de">Blindheit</trd>
   <trd lng="fr">c&eacute;cit&eacute;</trd>
+  <trd lng="id">[<ind>buta</ind>] kebutaan</trd>
   <trd lng="pl">&sacute;lepota</trd>
   <trd lng="ru">&c_s;&c_l;&c_je;&c_p;&c_o;&c_t;&c_a;</trd>
   </snc>
@@ -145,9 +151,10 @@
 
 <drv mrk="blind.0igi">
   <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
   <snc mrk="blind.0igi.MED">
     <dif>
-      Senigi momente a&ubreve; definitive je la vidkapablo:
+      Senigi momente a&ubreve; definitive je la vidpovo:
       <ekz>
         la eksplodo <tld/>igis laboriston;
       </ekz>
@@ -167,7 +174,7 @@
   <snc mrk="blind.0igi.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Konfuzi la ju&gcirc;kapablon, senigi je sagaco:
+      Konfuzi la ju&gcirc;povon, senigi je sagaco:
       <ekz>
         <tld/>igita de pasio, de rutino<fnt>Z</fnt>,
       </ekz>
@@ -187,12 +194,39 @@
   <trd lng="de">blenden</trd>
   <trd lng="es">cegar</trd>
   <trd lng="fr">aveugler</trd>
+  <trd lng="id">[<ind>buta</ind>] membutakan</trd>
   <trd lng="nl">verblinden</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_s;&c_l;&c_je;&c_p;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_s;&c_l;&c_je;&c_p;&c_l;&c_ja;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sv">bl&auml;nda</trd>
+</drv>
+
+<drv mrk="blind.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="blind.0igxi.MED">
+    <dif>
+      I&gcirc;i <tld/>a, perdi la vidpovon:
+      <ekz>
+        pro la suna lumo malsani&gcirc;is liaj okuloj, kaj li 
+        <tld/>i&gcirc;is
+        <fnt>
+          <aut>L. Tolstoj, trad. A. &Scirc;aparov</aut>,
+          <vrk>Dio &ndash; unu por &ccirc;iuj</vrk>,
+          <lok>1912</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="blind.0igxi.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Mal&gcirc;uste taksi situacion, ne vidi la realon, la veron.
+    </dif>
+  </snc>
+  <trd lng="fr">s'<ind>aveugler</ind></trd>
 </drv>
 
 <drv mrk="blind.0ulo">
@@ -237,6 +271,7 @@
 
 <drv mrk="blind.0umi">
   <kap><tld/>umi</kap>
+  <gra><vspec>tr</vspec></gra>
   <snc mrk="blind.0umi.KOMUNE">
     <dif>
       Momente <tld/>igi:
@@ -251,10 +286,12 @@
     </dif>
   </snc>
   <trd lng="fr">aveugler<klr> (momentan&eacute;ment)</klr></trd>
+  <trd lng="id">[<ind>buta</ind>] membutakan</trd>
 </drv>
 
 <drv mrk="blind.mal0igi">
   <kap>mal<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
   <snc mrk="blind.mal0igi.MED">
     <dif>
       Vidkapabligi <klr>(blindulon)</klr>:
@@ -292,7 +329,7 @@
   <snc mrk="blind.mal0igi.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Revenigi al iu la prudenton kaj ju&gcirc;okapablon, igi iun
+      Revenigi al iu la prudenton kaj ju&gcirc;opovon, igi iun
       &gcirc;uste kompreni situacion pri kiu anta&ubreve;e li havis
       iluziojn.
     </dif>
@@ -330,9 +367,11 @@
 
 <drv mrk="blind.mal0igxi">
   <kap>mal<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
   <snc mrk="blind.mal0igxi.MED">
+    <uzo tip="klr">(pri blindulo)</uzo>
     <dif>
-      Akiri vidkapablon <klr>(pri blindulo)</klr>.
+      Akiri a&ubreve; regajni vidpovon.
     </dif>
     <trdgrp lng="be">
       <trd>&c_s;&c_t;&c_a;&c_c;&c_mol;
@@ -349,7 +388,7 @@
   <snc mrk="blind.mal0igxi.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Retrovi la prudenton kaj ju&gcirc;okapablon, &gcirc;uste kompreni
+      Retrovi la prudenton kaj ju&gcirc;opovon, &gcirc;uste kompreni
       situacion pri kiu anta&ubreve;e oni havis iluziojn:
       <ekz>
         Kaj subite Vatalij mal<tld/>i&gcirc;is. Kion li faras?..
@@ -412,6 +451,7 @@
       <ref tip="sin" cel="disleksi.0o.MED">disleksio</ref>.
     </dif>
     <trd lng="fr">dyslexie</trd>
+    <trd lng="id">disleksia</trd>
     <trd lng="pl">dysleksja</trd>
   </snc>
 </drv>
@@ -419,6 +459,12 @@
 <!--
 
 $Log: blind.xml,v $
+Revision 1.33  2014/10/25 03:10:14  revo
+Jeromo Vasxe: + ~igxi
+
+Revision 1.32  2014/10/24 15:10:16  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.31  2013/10/09 01:10:16  revo
 Jeromo Vasxe: ~a + 1 snc fig
 
@@ -435,12 +481,6 @@ Revision 1.27  2009/03/13 17:30:37  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.26  2007/06/13 16:32:59  revo
-Wieland Pusch: +trd de
-
-Revision 1.25  2007/03/16 17:30:27  revo
-Jeromo Vasxe: + vort~a vort~eco
-
-Revision 1.24 2005/06/10 16:31:04 revo
 -->
 
 </vortaro>

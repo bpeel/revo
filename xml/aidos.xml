@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aidos.xml,v 1.18 2013/10/09 18:10:30 revo Exp $">
+<art mrk="$Id: aidos.xml,v 1.19 2014/10/28 04:10:36 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>aidos</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -53,6 +53,7 @@
     <trd>sida</trd>
   </trdgrp>
   <trd lng="hu">AIDS</trd>
+  <trd lng="id">AIDS</trd>
   <trd lng="nl">aids</trd>
   <trdgrp lng="pl">
     <trd>AIDS<klr> (zesp&oacute;&lstroke; nabytej niewydolno&sacute;ci
@@ -99,6 +100,7 @@
     <trd>AIDS-es</trd>,
     <trd>AIDS-beteg</trd>
   </trdgrp>
+  <trd lng="id">ODHA</trd>
   <trd lng="nl">aidspati&euml;nt</trd>
   <trdgrp lng="pl">
     <trd>chory na <ind>AIDS</ind></trd>,
@@ -118,6 +120,9 @@
 </art>
 <!--
 $Log: aidos.xml,v $
+Revision 1.19  2014/10/28 04:10:36  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.18  2013/10/09 18:10:30  revo
 Wolfram Diestel: ref al lst malsanoj
 
@@ -137,8 +142,5 @@ Revision 1.13 2007/10/31 17:30:20 revo
 Sebastian Cyprych: +trd pl
 Revision 1.12 2007/07/27 16:30:32 revo
 Wieland Pusch: +trd bg
-Revision 1.11 2006/02/24 17:35:25 revo
-Tulio Flores: +trd pt
-Revision 1.10 2005/06/05 16:56:57 revo
 -->
 </vortaro>

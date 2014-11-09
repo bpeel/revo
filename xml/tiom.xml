@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: tiom.xml,v 1.18 2014/05/03 20:10:21 revo Exp $">
+  <art mrk="$Id: tiom.xml,v 1.19 2014/10/28 04:10:35 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>tiom</rad>
@@ -148,6 +148,7 @@
         <trd>tanto</trd>,
         <trd>tanta</trd>
       </trdgrp>
+      <trd lng="id">se<ind>banyak</ind> itu</trd>
       <trd lng="nl">zoveel</trd>
       <trdgrp lng="ru">
         <trd>&c_s;&c_t;&c_o;&c_l;&c_mol;&c_k;&c_o;</trd>,
@@ -228,6 +229,9 @@
   </art>
   <!--
   $Log: tiom.xml,v $
+  Revision 1.19  2014/10/28 04:10:35  revo
+  Eko Nur Syah Hidayat: +trd id
+
   Revision 1.18  2014/05/03 20:10:21  revo
   Damien Brucker: +tld
 

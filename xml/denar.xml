@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: denar.xml,v 1.17 2013/09/14 17:10:28 revo Exp $">
+<art mrk="$Id: denar.xml,v 1.18 2014/10/26 15:10:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>denar</rad>/o <fnt><bib>PV</bib></fnt>
@@ -30,6 +30,7 @@
   <trd lng="es">denario</trd>
   <trd lng="fr">denier</trd>
   <trd lng="hu">d&eacute;n&aacute;r</trd>
+  <trd lng="id">dinar</trd>
   <trd lng="lat">denarius</trd>
   <trd lng="pl">denar</trd>
   <trd lng="pt">den&aacute;rio</trd>
@@ -38,6 +39,9 @@
 </art>
 <!--
 $Log: denar.xml,v $
+Revision 1.18  2014/10/26 15:10:39  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.17  2013/09/14 17:10:28  revo
 Wolfram Diestel: ref al lst monunuoj, kor. germ trd
 
@@ -57,8 +61,5 @@ Revision 1.12  2007/06/20 16:30:39  revo
 Wieland Pusch: +trd de, lat
 
 Revision 1.11  2006/05/10 16:31:17  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.10  2005/04/05 16:33:40  revo
 -->
 </vortaro>

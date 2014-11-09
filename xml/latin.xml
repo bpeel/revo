@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: latin.xml,v 1.13 2013/08/22 16:10:23 revo Exp $">
+  <art mrk="$Id: latin.xml,v 1.14 2014/10/26 02:10:21 revo Exp $">
     <kap>
       <rad>Latin</rad>/o<fnt>Z</fnt>
     </kap>
@@ -75,6 +75,7 @@
       <trd lng="en">Latin</trd>
       <trd lng="fr">latin</trd>
       <trd lng="hu">latin</trd>
+      <trd lng="id">Latin</trd>
       <trd lng="nl">Latijn</trd>
       <trd lng="pt">latim</trd>
       <trdgrp lng="ru">
@@ -110,6 +111,7 @@
         <trd>langues romanes</trd>
       </trdgrp>
       <trd lng="hu">latin nyelvek</trd>
+      <trd lng="id"><ind>bahasa</ind> Romanik</trd>
       <trd lng="nl">Romaanse talen</trd>
       <trd lng="pt">l&iacute;nguas latinas</trd>
       <trd lng="ru">&c_r;&c_o;&c_m;&c_a;&c_n;&c_s;&c_k;&c_i;&c_je;
@@ -118,6 +120,9 @@
   </art>
   <!--
   $Log: latin.xml,v $
+  Revision 1.14  2014/10/26 02:10:21  revo
+  Eko Nur Syah Hidayat: +trd id
+
   Revision 1.13  2013/08/22 16:10:23  revo
   Wolfram Diestel: referenco al listo lingvoj
 

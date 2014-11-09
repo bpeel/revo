@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: omar.xml,v 1.24 2013/10/31 20:10:31 revo Exp $">
+<art mrk="$Id: omar.xml,v 1.25 2014/10/28 11:10:37 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>omar</rad>/o
@@ -35,6 +35,7 @@
    lng="el">&alfa;&sigma;&tau;&alfa;&kappa;&omikron_ton;&sigma_fina;</trd>
    <trd lng="en">lobster</trd>
    <trd lng="hu">hom&aacute;r</trd>
+   <trd lng="id">lobster</trd>
    <trdgrp lng="nl">
      <trd>kreeft<klr tip="ind"> (zee-)</klr></trd>,
      <trd>zeekreeft</trd>
@@ -48,6 +49,9 @@
 </art>
 <!--
 $Log: omar.xml,v $
+Revision 1.25  2014/10/28 11:10:37  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.24  2013/10/31 20:10:31  revo
 Wolfram Diestel: ref al lst krustuloj
 
@@ -67,8 +71,5 @@ Revision 1.19  2005/05/28 16:32:00  revo
 Alan ar Gall: +trd br
 
 Revision 1.18  2004/04/14 16:32:11  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.17  2004/02/08 17:48:12  revo
 -->
 </vortaro>

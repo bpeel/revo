@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fal.xml,v 1.38 2013/10/09 20:10:29 revo Exp $">
+<art mrk="$Id: fal.xml,v 1.40 2014/10/27 04:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fal</rad>/i <fnt><bib>PV</bib></fnt> 
@@ -87,7 +87,7 @@
     <adm>
       PIV1 havas ekzemplon samtipan &leftquot;la &scirc;trumpoj ~as
       &gcirc;is la kalkanoj&rightquot;, kiun la nuna difino ne kovras.
-      Cxu tia uzo vere ekzistas? <aut>MB</aut>
+      &Ccirc;u tia uzo vere ekzistas? <aut>MB</aut>
     </adm>
     <trdgrp lng="hu">
       <trd>le&eacute;r</trd>,
@@ -390,6 +390,7 @@ tio;
     <trd>s'<ind>effondrer</ind></trd>,
     <trd>pleuvoir<klr tip="ind"> (en p. des ennuis)</klr></trd>,
   </trdgrp>
+  <trd lng="id">jatuh</trd>
   <trd lng="nl">vallen</trd>
   <trdgrp lng="pt">
     <trd>cair</trd>,
@@ -487,6 +488,7 @@ originel)</klr></trd>,
     <trd>es&eacute;s</trd>,
     <trd>cs&ouml;kken&eacute;s</trd>
   </trdgrp>
+  <trd lng="id">[<ind>jatuh</ind>] kejatuhan</trd>
   <trd lng="nl">val<klr tip="ind"> (het vallen)</klr></trd>
   <trdgrp lng="pl">
     <trd>upadek</trd>,
@@ -527,6 +529,7 @@ originel)</klr></trd>,
     <trd>tr&eacute;bucher</trd>
   </trdgrp>
   <trd lng="hu">megbotlik</trd>
+  <trd lng="id">[<ind>sandung</ind>] tersandung</trd>
   <trd lng="nl">struikelen</trd>
   <trdgrp lng="pl">
     <trd>potyka&cacute; si&eogonek;</trd>,
@@ -631,6 +634,7 @@ originel)</klr></trd>,
     (des balles, des ennuis)</klr></trd>,
     <trd>renverser<klr tip="ind"> (faire tomber)</klr></trd>
   </trdgrp>
+  <trd lng="id">[<ind>jatuh</ind>] menjatuhkan</trd>
   <trdgrp lng="nl">
     <trd>doen <ind>vallen</ind></trd>,
     <trd>vellen</trd>
@@ -758,6 +762,7 @@ originel)</klr></trd>,
     <trd>cascade</trd>,
     <trd><ind>chute</ind> d'eau</trd>
   </trdgrp>
+  <trd lng="id"><ind>air</ind> terjun</trd>
   <trd lng="nl">waterval</trd>
   <trdgrp lng="pt">
     <trd>cachoeira</trd>,
@@ -937,6 +942,7 @@ originel)</klr></trd>,
   <trd lng="de">Abfall</trd>
   <trd lng="fr">d&eacute;chet</trd>
   <trd lng="hu">hullad&eacute;k</trd>
+  <trd lng="id">limbah</trd>
   <trd lng="nl">afval</trd>
   <trd lng="pl">odpadek</trd>
   <trd lng="ru">&c_o;&c_t;&c_b;&c_r;&c_o;&c_s;&c_y;</trd>
@@ -1349,6 +1355,26 @@ lieu)</klr></trd>,
   </trdgrp>
 </drv>
 
+<drv mrk="fal.piedbare0igi">
+  <kap>piedbare <tld/>igi</kap>
+  <snc mrk="fal.piedbare0igi.KOMUNE">
+    <dif>
+      <tld lit="F"/>igi iun &scirc;ovante sian piedon anta&ubreve; lian pa&scirc;on:
+      <ekz>
+        tio ne okazis honeste. Li piedbare <tld/>igis vin
+        <fnt>
+          <aut>A. Kivi, trad. H. Hall</aut>
+          <vrk><url
+          ref="http://www.gutenberg.org/files/28968/28968-h/28968-h.htm">
+          La Botistoj</url></vrk>
+          <lok>1919</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">faire un <ind>croc-en-jambe</ind></trd>
+</drv>
+
 <drv mrk="fal.rul0i">
   <kap>rul<tld/>i</kap>
   <gra><vspec>ntr</vspec></gra>
@@ -1373,6 +1399,7 @@ lieu)</klr></trd>,
     </trd>
   </trdgrp>
   <trd lng="hu">felbukfencezik</trd>
+  <trd lng="id">[<ind>gelinding</ind>] menggelinding</trd>
   <trd lng="pl">stacza&cacute; si&eogonek;</trd>
 </drv>
 
@@ -1497,26 +1524,6 @@ lieu)</klr></trd>,
   </trdgrp>
 </drv>
 
-<drv mrk="fal.piedbare0igi">
-  <kap>piedbare <tld/>igi</kap>
-  <snc mrk="fal.piedbare0igi.KOMUNE">
-    <dif>
-      <tld lit="F"/>igi iun &scirc;ovante sian piedon anta&ubreve; lian pa&scirc;on:
-      <ekz>
-        tio ne okazis honeste. Li piedbare <tld/>igis vin
-        <fnt>
-          <aut>A. Kivi, trad. H. Hall</aut>
-          <vrk><url
-          ref="http://www.gutenberg.org/files/28968/28968-h/28968-h.htm">
-          La Botistoj</url></vrk>
-          <lok>1919</lok>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="fr">faire un <ind>croc-en-jambe</ind></trd>
-</drv>
-
 <drv mrk="fal.sxtonode0pusxigxo">
   <kap>&scirc;tono de <tld/>pu&scirc;i&gcirc;o<fnt><bib>PrV</bib></fnt></kap>
   <uzo tip="stl">FRAZ</uzo>
@@ -1539,9 +1546,39 @@ lieu)</klr></trd>,
   <trd lng="nl">steen des aanstoots</trd>
   <trd lng="ru">&c_k;&c_a;&c_m;&c_je;&c_n;&c_mol; &c_p;&c_r;&c_je;&c_t;&c_k;&c_n;&c_o;&c_v;&c_je;&c_n;&c_i;&c_ja;</trd>
 </drv>
+
+<drv mrk="fal.veterdis0o">
+  <kap>veterdis<tld/>o</kap>
+  <snc mrk="fal.veterdis0o.GEOL">
+    <uzo tip="fak">GEOL</uzo>
+    <dif>
+      Efiko de erozio, &hcirc;emiaj reakcioj kaj viva&jcirc;oj sur
+      &scirc;tonoj, ka&ubreve;zanta supra&jcirc;an diseri&gcirc;on kaj kolor&scirc;an&gcirc;on:
+      <ekz>
+        bakterioj &ccirc;eestantaj en la tero agas kiel katalizilo en la 
+        procezo de veterdis<tld/>o de la petroj
+        <fnt>
+          <aut>Kvantumo</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/kvantumo/291771">
+          Hipotezo de Gaja...</url></vrk>,
+          <lok>2010-11-25</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">weathering</trd>
+  <trd lng="fr">m&eacute;t&eacute;orisation</trd>
+  <trd lng="it">meteorizzazione</trd>
+</drv>
 </art>
 <!--
 $Log: fal.xml,v $
+Revision 1.40  2014/10/27 04:10:15  revo
+Jeromo Vasxe: + veterdis~o
+
+Revision 1.39  2014/10/26 03:10:30  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.38  2013/10/09 20:10:29  revo
 Jeromo Vasxe: memstar. sxtono de ~pusxigxo
 
@@ -1558,11 +1595,5 @@ Revision 1.34  2010/04/11 16:30:22  revo
 Jeromo Vasxe: + piedbare ~igi
 
 Revision 1.33  2009/09/01 16:30:43  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.32  2009/01/30 17:30:22  revo
-Wieland Pusch: +trd bg
-
-Revision 1.31  2008/11/09 17:30:28  revo
 -->
 </vortaro>

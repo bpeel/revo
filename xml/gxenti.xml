@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gxenti.xml,v 1.26 2014/04/10 01:10:13 revo Exp $">
+<art mrk="$Id: gxenti.xml,v 1.28 2014/10/25 13:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>&gcirc;entil</rad>/a <fnt><bib>PV</bib></fnt>
 </kap>
@@ -44,7 +44,9 @@
   </trdgrp>
   <trd lng="nl">beleefd</trd>
   <trd lng="hu">udvarias</trd>
+  <trd lng="id">sopan</trd>
   <trd lng="it">gentile</trd>
+  <trd lng="no">h&oslash;flig</trd>
   <trd lng="oc">aimable</trd>
   <trd lng="pt">gentil</trd>
   <trdgrp lng="ru">
@@ -79,6 +81,7 @@
     <trd>politesse</trd>
   </trdgrp>
   <trd lng="en">politeness</trd>
+  <trd lng="id">[<ind>sopan</ind>] kesopanan</trd>
   <trd lng="it">gentilezza</trd>
   <trd lng="pt">gentileza</trd>
   <trdgrp lng="ru">
@@ -120,11 +123,16 @@
     <trd>mals&eacute;ant</trd>
   </trdgrp>
   <trd lng="hu">udvariatlan</trd>
+  <trdgrp lng="id">
+    <trd>kasar</trd>,
+    <trd>songong</trd>
+  </trdgrp>
   <trdgrp lng="it">
     <trd>scortese</trd>,
     <trd>maleducato<klr> (agg.)</klr></trd>
   </trdgrp>
   <trd lng="nl">onbeleefd</trd>
+  <trd lng="no">uh&oslash;flig</trd>
   <trdgrp lng="pt">
     <trd>descort&ecirc;s</trd>,
     <trd>mal-educado</trd>
@@ -220,6 +228,12 @@
 </art>
 <!--
 $Log: gxenti.xml,v $
+Revision 1.28  2014/10/25 13:10:15  revo
+Filip van Laenen: norvega traduko
+
+Revision 1.27  2014/10/24 15:10:22  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.26  2014/04/10 01:10:13  revo
 Jeromo Vasxe: + kk mrk
 
@@ -236,11 +250,5 @@ Revision 1.22  2005/04/29 16:32:12  revo
 Yury Finkel: +trd ru
 
 Revision 1.21  2004/04/21 17:08:20  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.20  2003/03/09 17:35:25  revo
-Ulrich Fellmann: + 1 trd=vo
-
-Revision 1.19  2002/10/23 20:38:48  revo
 -->
 </vortaro>

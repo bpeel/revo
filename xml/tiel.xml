@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tiel.xml,v 1.20 2014/05/09 09:10:15 revo Exp $">
+<art mrk="$Id: tiel.xml,v 1.21 2014/10/28 04:10:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tiel</rad>
@@ -152,6 +152,7 @@
     <trd>auf diese <ind>Weise</ind></trd>
   </trdgrp>
   <trd lng="fr">ainsi</trd>
+  <trd lng="id"><ind>seperti</ind> itu</trd>
   <trdgrp lng="nl">
     <trd>zo</trd>,
     <trd>op die <ind>manier</ind></trd>
@@ -216,6 +217,9 @@
 </art>
 <!--
 $Log: tiel.xml,v $
+Revision 1.21  2014/10/28 04:10:33  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.20  2014/05/09 09:10:15  revo
 Damien Brucker: +ctl
 
@@ -235,8 +239,5 @@ Revision 1.15  2005/08/13 16:33:34  revo
 Jeromo Vasxe: + trd fr, + uzo emfaze
 
 Revision 1.14 2003/09/22 16:30:50 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.13 2003/03/05 17:36:42 revo
 -->
 </vortaro>

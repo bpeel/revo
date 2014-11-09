@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nu.xml,v 1.19 2014/02/18 13:10:26 revo Exp $">
+<art mrk="$Id: nu.xml,v 1.20 2014/10/27 09:10:12 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>nu</rad>
@@ -49,6 +49,12 @@
        <trd>h&aacute;t</trd>
      </trdgrp>
    </snc>
+   <rim>
+   Rilate al la interjekcia senco oni povas sekvigi senpere la vorton
+   <tld/> per
+   krisigno (!) a&ubreve; tripunkto (...), por pli bone distingi &gcirc;in de la
+   konjunkcia senco.
+   </rim>
    <trd lng="be">&c_n;&c_u;</trd>
    <trdgrp lng="cs">
      <trd>no</trd>,
@@ -76,6 +82,9 @@
 </art>
 <!--
 $Log: nu.xml,v $
+Revision 1.20  2014/10/27 09:10:12  revo
+Damien Brucker: +rim
+
 Revision 1.19  2014/02/18 13:10:26  revo
 Damien Brucker: +ref
 
@@ -95,8 +104,5 @@ Revision 1.14  2006/09/06 15:15:41  revo
 Axel Rousseau: +trd tp
 
 Revision 1.13  2006/07/09 16:53:23  revo
-Tulio Flores: +tr pt
-
-Revision 1.12  2004/06/23 16:31:34  revo
 -->
 </vortaro>

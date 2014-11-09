@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sonor.xml,v 1.21 2014/06/10 20:10:13 revo Exp $">
+<art mrk="$Id: sonor.xml,v 1.22 2014/10/26 02:10:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sonor</rad>/i <fnt><bib>PV</bib></fnt>
@@ -51,6 +51,10 @@
     <trd>bong</trd>,
     <trd>z&uacute;g</trd>,
     <trd>b&uacute;g</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>[<ind>dering</ind>] berdering</trd>,
+    <trd>[<ind>dentang</ind>] berdentang</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>galmen</trd>,
@@ -222,6 +226,7 @@
     <trd>clocher</trd>
   </trdgrp>
   <trd lng="hu">harangtorony</trd>
+  <trd lng="id"><ind>menara</ind> lonceng</trd>
   <trd lng="nl">klokkentoren</trd>
   <trd lng="ru">&c_z;&c_v;&c_o;&c_n;&c_n;&c_i;&c_c;&c_a;</trd>
 </drv>
@@ -255,6 +260,10 @@
     <trd>cseng&odblac;</trd>,
     <trd>harang</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>bel</trd>,
+    <trd>lonceng</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>bel</trd>,
     <trd>klok</trd>
@@ -267,6 +276,9 @@
 </art>
 <!--
 $Log: sonor.xml,v $
+Revision 1.22  2014/10/26 02:10:40  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.21  2014/06/10 20:10:13  revo
 Jeromo Vasxe: + ~ego
 
@@ -286,8 +298,5 @@ Revision 1.16  2006/09/14 16:31:31  revo
 Axel Rousseau: +trd tp
 
 Revision 1.15  2005/08/17 16:31:34  revo
-Jeromo Vasxe: + ekz, + trd fr
-
-Revision 1.14 2004/10/24 16:33:32 revo
 -->
 </vortaro>

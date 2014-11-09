@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ties.xml,v 1.13 2013/12/09 16:10:13 revo Exp $">
+<art mrk="$Id: ties.xml,v 1.14 2014/10/28 04:10:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ties</rad>
@@ -93,6 +93,7 @@
     <trd>ez&eacute;</trd>,
     <trd>az&eacute;</trd>
   </trdgrp>
+  <trd lng="id"><ind>milik</ind> (orang) itu</trd>
   <trdgrp lng="nl">
     <trd>diens</trd>,
     <trd>zijn</trd> (de li),
@@ -131,6 +132,9 @@
 </art>
 <!--
 $Log: ties.xml,v $
+Revision 1.14  2014/10/28 04:10:34  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.13  2013/12/09 16:10:13  revo
 Damien Brucker: +trd fr
 
@@ -150,8 +154,5 @@ Revision 1.8 2001/06/07 18:13:47 revo
 Paul Peeraerts: ald pliajn trd nl
 
 Revision 1.7 2001/04/26 16:15:32 revo
-Dennis Wibrow: +trd germ
-
-Revision 1.6 2000/11/22 17:12:40 revo
 -->
 </vortaro>

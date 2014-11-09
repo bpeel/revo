@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kia.xml,v 1.12 2004/12/13 17:32:06 revo Exp $">
+<art mrk="$Id: kia.xml,v 1.13 2014/10/27 07:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kia</rad>
@@ -48,6 +48,7 @@
       <trd>milyen</trd>,
       <trd>micsoda</trd>
     </trdgrp>
+    <trd lng="id">betapa</trd>
   </snc>
   <snc>
     <dif>
@@ -64,7 +65,8 @@
         ekrigardu, <tld/>jn okulojn li havas, nigrajn a&ubreve; ne<fnt>Z</fnt>;
       </ekz>
       <ekz>
-        mi ne scias, <tld/>n komprenon vi havas pri la libereco<fnt>Z</fnt>;
+        mi ne scias, <tld/>n komprenon vi havas pri la
+        libereco<fnt>Z</fnt>;
       </ekz>
       <ekz>
         li ofte ne povas diri, <tld/>n formon ni devas uzi<fnt>Z</fnt>.
@@ -127,6 +129,7 @@
     </dif>
     <trd lng="de">wie</trd>
     <trd lng="hu">amilyen</trd>
+    <trd lng="id"><ind>seperti</ind> apa</trd>
   </snc>
   <trd lng="be">&c_ja;&c_k;&c_ib;</trd>
   <trdgrp lng="cs">
@@ -147,6 +150,9 @@
 </art>
 <!--
 $Log: kia.xml,v $
+Revision 1.13  2014/10/27 07:10:16  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.12  2004/12/13 17:32:06  revo
 Marc Bavant: +trd fr, kor interpunkcion en ekz
 
@@ -166,7 +172,5 @@ Revision 1.7 2001/10/23 18:30:56 revo
 Ulrich Fellmann: + 3 germ trdj
 
 Revision 1.6 2001/09/18 18:20:00 revo
-Yury Finkel: +trd ru
-
 -->
 </vortaro>
