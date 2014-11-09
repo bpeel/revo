@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: protok.xml,v 1.21 2014/10/09 11:10:27 revo Exp $">
+<art mrk="$Id: protok.xml,v 1.22 2014/11/01 20:10:26 revo Exp $">
 <kap>
   <ofc>1</ofc> <rad>protokol</rad>/o
 </kap>
@@ -57,7 +57,8 @@
     <trd lng="en">log file</trd>
     <trdgrp lng="es">
       <trd>registro</trd>,
-      <trd>registro de eventos<klr> (log)</klr></trd>
+      <trd>registro de eventos<klr> (log)</klr></trd>,
+      <trd>fichero de registro<klr> (log)</klr></trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>fichier log</trd>,
@@ -159,6 +160,9 @@
 </art>
 <!--
 $Log: protok.xml,v $
+Revision 1.22  2014/11/01 20:10:26  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.21  2014/10/09 11:10:27  revo
 Guillermo Molleda Jimena: vivoprotokolo -> vivprotokolo
 
@@ -178,8 +182,5 @@ Revision 1.16 2006/02/02 17:33:13 revo
 Tulio Flores: +trd pt
 
 Revision 1.15 2004/08/18 16:32:05 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.14 2003/07/23 17:42:25 revo
 -->
 </vortaro>

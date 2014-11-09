@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: proviz1.xml,v 1.14 2014/07/01 15:10:12 revo Exp $">
+<art mrk="$Id: proviz1.xml,v 1.15 2014/11/02 08:10:16 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>provizor</rad>/a
@@ -27,6 +27,9 @@ anstata&ubreve;igota per definitiva;
   <trdgrp lng="en">
     <trd>provisional</trd>,
     <trd>temporary</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>provisional</trd>
   </trdgrp>
   <trd lng="fr">provisoire</trd>
   <trdgrp lng="hu">
@@ -54,6 +57,9 @@ anstata&ubreve;igota per definitiva;
 </art>
 <!--
 $Log: proviz1.xml,v $
+Revision 1.15  2014/11/02 08:10:16  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.14  2014/07/01 15:10:12  revo
 Eko Nur Syah Hidayat: +id
 
@@ -73,8 +79,5 @@ Revision 1.9  2003/07/26 08:41:27  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.8  2001/12/25 17:34:01  revo
-Yury Finkel: +trd ru; anstata&ubreve;IGota
-
-Revision 1.7 2001/09/19 18:12:17 revo
 -->
 </vortaro>
