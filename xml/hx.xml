@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hx.xml,v 1.11 2014/04/12 07:10:31 revo Exp $">
+<art mrk="$Id: hx.xml,v 1.12 2014/05/01 08:10:36 revo Exp $">
 <kap>
     <ofc>*</ofc><rad>&hcirc;</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -43,7 +43,8 @@
     <rim num="1">
     La Lingva Komitato aprobis en 1921 la la&ubreve;volan anstata&ubreve;igon de
     <tld/> per k
-    <ctl>en la okazoj, kiam &gcirc;i senpere sekvas post la litero r</ctl>.
+    <ctl>en la okazoj, kiam &gcirc;i senpere sekvas post la litero
+    r</ctl>:<ekz> ar&hcirc;itekturo &#8594; arkitekturo</ekz>.
     Iuj opinias, ke la tendenco k-igi <tld/>-on estas etnocentrisma fare
     de anoj de lingvoj, kiuj ne konas la sonon.
     </rim>
@@ -63,6 +64,9 @@
 
 <!--
 $Log: hx.xml,v $
+Revision 1.12  2014/05/01 08:10:36  revo
+Damien Brucker: +ekz
+
 Revision 1.11  2014/04/12 07:10:31  revo
 Damien Brucker: aldono (dauxrigo)
 
@@ -82,8 +86,5 @@ Revision 1.6  2013/12/27 21:10:24  revo
 Damien Brucker: +ref
 
 Revision 1.5  2013/12/20 10:10:09  revo
-Damien Brucker: +ref
-
-Revision 1.4  2013/12/18 10:10:12  revo
 -->
 </vortaro>

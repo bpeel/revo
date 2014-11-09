@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: foli.xml,v 1.42 2013/08/30 14:11:02 revo Exp $">
+<art mrk="$Id: foli.xml,v 1.44 2014/09/27 15:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>foli</rad>/o
@@ -161,6 +161,7 @@
       <ref tip="malprt" cel="foli.0o.BOT"><tld/>on</ref>.
     </dif>
   </snc>
+  <trd lng="fr">foliole</trd>
 </drv>
 
 <drv mrk="foli.0umi">
@@ -283,6 +284,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd>caducifolia</trd>,
+    <trd>de hoja <ind>caduca</ind></trd>
+  </trdgrp>
   <trd lng="fr">&agrave; feuilles <ind>caduques</ind></trd>
   <trdgrp lng="pt">
     <trd>caducif&oacute;lio</trd>,
@@ -374,6 +379,12 @@
 </art>
 <!--
 $Log: foli.xml,v $
+Revision 1.44  2014/09/27 15:10:10  revo
+Alain Gerard: +trd fr
+
+Revision 1.43  2014/08/30 19:10:17  revo
+Carlos Garcia: +trd es fal-a
+
 Revision 1.42  2013/08/30 14:11:02  revo
 Wolfram Diestel: kor. lst-ref
 
@@ -390,11 +401,5 @@ Revision 1.38  2010/01/18 17:31:37  revo
 Mireille Corobu: svg->gif
 
 Revision 1.37  2007/06/02 19:47:40  revo
-Tulio Flores: +tr pt
-
-Revision 1.36  2006/09/14 16:31:49  revo
-Axel Rousseau: +trd tp
-
-Revision 1.35  2006/03/30 16:31:54  revo
 -->
 </vortaro>

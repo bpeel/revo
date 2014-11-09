@@ -2,9 +2,9 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pac.xml,v 1.37 2014/04/22 18:11:16 revo Exp $">
+<art mrk="$Id: pac.xml,v 1.41 2014/09/02 01:10:10 revo Exp $">
 <kap>
-  <ofc>*</ofc><rad>pac</rad>/o
+  <ofc>*</ofc><rad>pac</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 
 <drv mrk="pac.0o">
@@ -75,15 +75,12 @@
   <trd lng="fr">paix</trd>
   <trd lng="es">paz</trd>
   <trd lng="hu">b&eacute;ke</trd>
+  <trd lng="id">[<ind>damai</ind>] kedamaian</trd>
   <trd lng="nl">vrede</trd>
- <trdgrp lng="pt">
-   <trd>paz</trd>
- </trdgrp>
-  <trd lng="ru">
-&c_m;&c_i;&c_r; 
-<klr tip="amb">
-(&c_o;&c_t;&c_s;&c_u;&c_t;&c_s;&c_t;&c_v;&c_i;&c_je;&c_v;&c_o;&c_j;&c_n;&c_y;)
-</klr></trd>
+  <trdgrp lng="pt">
+    <trd>paz</trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_i;&c_r; <klr tip="amb">(&c_o;&c_t;&c_s;&c_u;&c_t;&c_s;&c_t;&c_v;&c_i;&c_je;&c_v;&c_o;&c_j;&c_n;&c_y;)</klr></trd>
   <trd lng="vo">p&uuml;d</trd>
   <trd lng="zh">&#21644;&#24179;<klr> [h&eacute;p&iacute;ng]</klr></trd>
   <trd lng="it">pace</trd>
@@ -125,13 +122,11 @@
       </ekz>
       <ekz>
         estis trankvile kaj <tld/>e en la buduareto 
-        <fnt><bib>FK</bib>, <lok>4, rakontoj, la porcio da glacia&jcirc;o, 
-        (rakonto de L. Dilling, tradukita de Eduard Hall el Joensuu 
-        (Finnlando))</lok></fnt>.
+        <fnt><bib>FK</bib>, <lok>la porcio da glacia&jcirc;o</lok></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="kviet.0a.paciga">kvieta <sncref/></ref>
+      <ref cel="kviet.0a.paciga">kvieta<sncref/></ref>
     </refgrp>
     <trd lng="sv">fridfull</trd>
   </snc>
@@ -157,6 +152,7 @@
   <trd lng="fr">pacifique<klr tip="amb"> (adj.)</klr></trd>
   <trd lng="he">&shin;&lamed;&vav;</trd>
   <trd lng="hu">b&eacute;k&eacute;s</trd>
+  <trd lng="id">damai</trd>
   <trdgrp lng="nl">
     <trd>vredig</trd>,
     <trd>vreedzaam</trd>
@@ -182,6 +178,7 @@
     <trd>friedvoll</trd>,
     <trd>friedfertig</trd>
   </trdgrp>
+  <trd lng="es">pac&iacute;fico</trd>
   <trdgrp lng="fr">
     <trd>doux<klr tip="amb"> (pacifique)</klr></trd>,
     <trd>pacifique<klr tip="amb"> (adj.)</klr></trd>
@@ -248,12 +245,16 @@
     <trd>vers&ouml;hnen</trd>,
     <trd>beruhigen</trd>
   </trdgrp>
-  <trd lng="es">pacificar</trd>
+  <trdgrp lng="es">
+    <trd>pacificar</trd>,
+    <trd>apaciguar</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>apaiser</trd>,
     <trd>pacifier</trd>
   </trdgrp>
   <trd lng="hu">lecsendes&iacute;t</trd>
+  <trd lng="id">[<ind>damai</ind>] mendamaikan</trd>
   <trd lng="nl">verzoenen</trd>
   <trdgrp lng="ru">
     <trd>&c_m;&c_i;&c_r;&c_i;&c_t;&c_mol;</trd>,
@@ -289,11 +290,16 @@
     </dif>
   </snc>
   <trd lng="de">sich <ind>vers&ouml;hnen</ind></trd>
+  <trdgrp lng="es">
+    <trd><ind>reconciliar</ind>se</trd>,
+    <trd>dar la paz</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>faire la paix</trd>, 
     <trd>se <ind>r&eacute;concilier</ind></trd>
   </trdgrp>
   <trd lng="hu">megb&eacute;k&eacute;l</trd>  
+  <trd lng="id">[<ind>damai</ind>] berdamai</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_i;&c_m;&c_i;&c_r;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_p;&c_o;&c_m;&c_i;&c_r;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
@@ -316,6 +322,7 @@
   <trd lng="fr">pacifisme</trd>
   <trd lng="he">&pe;&tsadi;&yod;&pe;&yod;&zayin;&fmem;</trd>
   <trd lng="hu">pacifizmus</trd>
+  <trd lng="id">pasifisme</trd>
   <trd lng="nl">pacifisme</trd>
   <trd lng="ru">&c_p;&c_a;&c_c;&c_i;&c_f;&c_i;&c_z;&c_m;</trd>
   <trd lng="sv">pacifism</trd>
@@ -357,6 +364,22 @@
  <trd lng="it">pacifista</trd>
 </drv>
 
+<drv mrk="pac.inter0igxo">
+  <kap>inter<tld/>i&gcirc;o</kap>
+  <snc mrk="pac.inter0igxo.KOMUNE">
+    <dif>
+      Reciproka rezigno je milito, kverelo,
+      malakordo:
+      <ekz>
+        naski&gcirc;os balda&ubreve; la serena tago de &gcirc;enerala inter<tld/>i&gcirc;o
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">r&eacute;conciliation</trd>
+</drv>
+
 <drv mrk="pac.mal0ema">
   <kap>mal<tld/>ema</kap>
   <snc mrk="pac.mal0ema.KOMUNE">
@@ -380,6 +403,10 @@
     <trd>streits&uuml;chtig</trd>,
     <trd>kriegerisch</trd>,
     <trd>kriegsstiftend</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>belicoso</trd>,
+    <trd>vengativo</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>querelleur</trd>,
@@ -419,6 +446,10 @@
     <trd>Zerw&uuml;rfnis</trd>,
     <trd>Zwietracht</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>escaramuza</trd>,
+    <trd>refriega</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>brouille</trd>,
     <trd>chamaillerie</trd>
@@ -455,6 +486,10 @@
     <trd><ind>Krieg</ind> f&uuml;hren</trd>,
     <trd>sich <ind>bekriegen</ind></trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd><ind>disputar</ind>se</trd>,
+    <trd><ind>querellar</ind>se</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>disputer</ind></trd>,
     <trd>se <ind>quereller</ind></trd>
@@ -488,12 +523,15 @@ e&ccirc; sange, &ndash;
         homoj granda&gcirc;aj <klr>[...]</klr> volas preni la manon unu de la
         
         alia 
-        <fnt><bib>Voja&gcirc;Imp</bib>, <lok>&ccirc;u mi devas plendi, ke mi 
-        lernis Esperanton?, Impreso el voja&gcirc;o</lok></fnt>.
+        <fnt><bib>Voja&gcirc;Imp</bib>, <lok>&Ccirc;u mi devas plendi, ke mi 
+        lernis Esperanton?</lok></fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="de">zusammensto&szlig;en</trd>
+  <trdgrp lng="es">
+    <trd>entrar en conflicto</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>entrer en conflit</trd>,
     <trd>se <ind>prendre</ind> de querelle</trd>
@@ -544,6 +582,10 @@ rabado kaj perfortado estas anta&ubreve; mi, levi&gcirc;as disputoj kaj
     <trd>Zwist</trd>,
     <trd>Zwietracht</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>conflicto</trd>,
+    <trd>hostilidad</trd>
+  </trdgrp>
   <trd lng="fr">conflit</trd>
   <trd lng="hu">b&eacute;k&eacute;tlens&eacute;g</trd>  
   <trdgrp lng="ru">
@@ -563,7 +605,8 @@ rabado kaj perfortado estas anta&ubreve; mi, levi&gcirc;as disputoj kaj
   <gra><vspec>tr</vspec></gra>
   <snc mrk="pac.re0igi.KOMUNE">
     <dif>
-      Estingi koleron, rebonigi la rilatojn: 
+      Post mal<tld/>o estigi denove <tld/>on
+      inter homoj: 
       <ekz>
         mi re<tld/>igos vin kun Herhor 
         <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 16a</lok></fnt>;
@@ -578,6 +621,7 @@ vi devas re<tld/>igi Serpentdion, kaj li deprenos la malbenon de sur vi
     <trd>vers&ouml;hnen</trd>,
     <trd>befrieden</trd>
   </trdgrp>
+  <trd lng="es">reconciliar</trd>
   <trd lng="fr">r&eacute;concilier</trd>
   <trdgrp lng="hu">
     <trd>kib&eacute;k&iacute;t</trd>,
@@ -586,9 +630,38 @@ vi devas re<tld/>igi Serpentdion, kaj li deprenos la malbenon de sur vi
   <trd lng="ru">&c_p;&c_o;&c_m;&c_i;&c_r;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
   <trd lng="it">riappacificarsi</trd>
 </drv>
+
+<drv mrk="pac.re0igxi">
+  <kap>re<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="pac.re0igxi.KOMUNE">
+    <dif>
+      I&gcirc;i denove <tld/>a, rebonigi siajn interrilatojn:
+      <ekz>
+        ili <klr>...</klr> etendas al siaj anta&ubreve;aj malamikoj la manon 
+        de re<tld/>i&gcirc;o
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">se <ind>r&eacute;concilier</ind></trd>
+</drv>
 </art>
 <!--
 $Log: pac.xml,v $
+Revision 1.41  2014/09/02 01:10:10  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.40  2014/07/16 01:10:12  revo
+Jeromo Vasxe: + re~igxi
+
+Revision 1.39  2014/07/07 01:10:19  revo
+Jeromo Vasxe: + inter~igxo
+
+Revision 1.38  2014/06/23 02:10:24  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.37  2014/04/22 18:11:16  revo
 Wieland Pusch: +trd bg
 
@@ -599,17 +672,5 @@ Revision 1.35  2013/03/09 16:10:13  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.34  2010/10/11 16:30:22  revo
-Bart Demeyere: +trd de
-
-Revision 1.33  2009/08/27 16:32:10  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.32  2009/02/22 17:30:58  revo
-Antonio Codazzi: +trd it
-
-Revision 1.31  2008/11/21 17:57:31  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.30  2007/12/23 17:30:42  revo
 -->
 </vortaro>

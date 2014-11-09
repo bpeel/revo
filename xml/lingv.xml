@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-  <art mrk="$Id: lingv.xml,v 1.54 2014/02/02 09:10:11 revo Exp $">
+  <art mrk="$Id: lingv.xml,v 1.60 2014/07/10 09:10:19 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>lingv</rad>/o <fnt><bib>PV</bib></fnt>
@@ -20,13 +20,19 @@
           <ekz>
             fremda, hejma, gepatra <tld/>o;
           </ekz><ekz>
-            etna, nacia <tld/>o;
+            mi ne scias la <tld/>on hispanan
+            <fnt><bib>F</bib>, <lok>&FE; 34</lok></fnt>;
           </ekz><ekz>
-            elekti ian el la <ind><tld/>oj mortintaj</ind> (ekzemple
-            latinan, grekan, hebrean)
-            <fnt><bib>EE</bib>, <lok>&ccirc;ap. 5a</lok></fnt>;
-            <trd lng="en">dead languages</trd>
-            <trd lng="ru">&c_m;&c_jo;&c_r;&c_t;&c_v;&c_y;&c_je; &c_ja;&c_z;&c_y;&c_k;&c_i;</trd>
+          <tld/>o internacia, kiu, ne entrudi&gcirc;ante en la doman vivon de
+          la popoloj, povus, almena&ubreve; en landoj kun diverslingva
+          lo&gcirc;antaro, esti <tld/>o regna kaj societa<fnt><aut>L.
+          &Z;</aut>:
+          <vrk>El la unua libro de la lingvo Esperanto.</vrk></fnt>;
+          </ekz><ekz>
+            se ni volas havi <tld/>on tutmondan, ni devas anta&ubreve; &ccirc;io
+            kutimi meti niajn personajn gustojn sur la lastan
+            planon<fnt><bib>LR</bib>, <lok>La Esperantisto, 1891, p.
+            49</lok></fnt>;
           </ekz><ekz>
             el &ccirc;iuj ekzistantaj <ind><tld/>oj vivaj</ind>, mortintaj
             kaj artaj la kongreso povas elekti sole nur unu <tld/>on:
@@ -35,12 +41,24 @@
             <trd lng="en">living languages</trd>
             <trd lng="ru">&c_zh;&c_i;&c_v;&c_y;&c_je; &c_ja;&c_z;&c_y;&c_k;&c_i;</trd>
           </ekz><ekz>
-            mi ne scias la <tld/>on hispanan
-            <fnt><bib>F</bib>, <lok>&FE; 34</lok></fnt>;
+            la <tld/>o internacia devas vivi, kreski kaj progresi la&ubreve; la
+            samaj le&gcirc;oj, la&ubreve; kiaj estis ellaborataj &ccirc;iuj vivaj
+            <tld/>oj<fnt><aut>L. &Z;</aut>:
+          <vrk>Aldono al la dua libro de la lingvo
+          internacia.</vrk></fnt>;
           </ekz><ekz>
-            <ctl><tld lit="L"/>o internacia</ctl> kaj
-            <ctl><tld/>o tutmonda</ctl> estas du tute malsamaj
-            objektoj <fnt><bib>EE</bib></fnt>.
+          unu el la plej &ccirc;efaj taskoj de niaj verkistoj devas esti la
+          ellaborado de la <tld/>o<fnt><bib>LR</bib>, <lok>Respondo 25,
+          La Revuo, 1907, Oktobro</lok></fnt>;
+          </ekz><ekz>
+          nia <tld/>o devas servi ne sole por dokumentoj kaj kontraktoj,
+          sed anka&ubreve; por la vivo<fnt><bib>LR</bib>, <lok>Respondo 25,
+          La Revuo, 1907, Oktobro</lok></fnt>;
+          </ekz><ekz>
+          la <tld/>o internacia restas sen&scirc;an&gcirc;a en tiu formo, en kiu &gcirc;i
+          estas proponita de mi<fnt><aut>L. &Z;</aut>:
+          <vrk>Aldono al la dua libro de la lingvo
+          internacia.</vrk></fnt>.
           </ekz>
         </dif>
         <trd lng="he">&lamed;&shin;&vav;&fnun;</trd>
@@ -312,6 +330,10 @@
       <trd lng="fr">linguiste</trd>
       <trd lng="he">&bet;&lamed;&shin;&fnun;</trd>
       <trd lng="hu">nyelv&eacute;sz</trd>
+      <trdgrp lng="id">
+        <trd><ind>ahli</ind> bahasa</trd>,
+        <trd>linguis</trd>
+      </trdgrp>
       <trd lng="nl">taalkundige</trd>
       <trd lng="pt">ling&uuml;ista</trd>
       <trdgrp lng="ru">
@@ -341,6 +363,7 @@
       <trd lng="fr">langue cible</trd>
       <trd lng="he">&shin;&pe;&tav; &mem;&tet;&resh;&he;</trd>
       <trd lng="hu">c&eacute;lnyelv</trd>
+      <trd lng="id"><ind>bahasa</ind> target</trd>
       <trd lng="nl">doeltaal</trd>
       <trd lng="ru">&c_v;&c_y;&c_h;&c_o;&c_d;&c_n;&c_o;&c_j; &c_ja;&c_z;&c_y;&c_k;</trd>
     </drv>
@@ -374,6 +397,7 @@
         <trd lng="be">&c_z;&c_y;&c_h;&c_o;&c_d;&c_n;&c_a;&c_ja; <ind>&c_m;&c_o;&c_v;&c_a;</ind></trd>
         <trd lng="de">Quellsprache</trd>
         <trd lng="hu">ford&iacute;tand&oacute; <ind>nyelv</ind></trd>
+        <trd lng="id"><ind>bahasa</ind> sumber</trd>
         <trd lng="nl">brontaal</trd>
         <trd lng="ru">&c_i;&c_s;&c_h;&c_o;&c_d;&c_n;&c_y;&c_j; &c_ja;&c_z;&c_y;&c_k;</trd>
       </snc>
@@ -438,6 +462,7 @@
           </fnt>.
         </ekz>
       </snc>
+      <trd lng="id"><ind>bahasa</ind> pengantar</trd>
       <trd lng="ru">&c_ja;&c_z;&c_y;&c_k;-&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_n;&c_i;&c_k;</trd>
     </drv>
 
@@ -460,6 +485,7 @@
       <trd lng="fr">langage machine</trd>
       <trd lng="he">&shin;&pe;&tav; &mem;&kaf;&vav;&nun;&he;</trd>
       <trd lng="hu">g&eacute;pi <ind>nyelv</ind></trd>
+      <trd lng="id"><ind>bahasa</ind> mesin</trd>
       <trd lng="nl">machinetaal</trd>
       <trd lng="pt">linguagem de m&aacute;quina</trd>
       <trd lng="ru">&c_m;&c_a;&c_sh;&c_i;&c_n;&c_n;&c_y;&c_j; &c_ja;&c_z;&c_y;&c_k;</trd>
@@ -488,6 +514,7 @@
         <trd>langue construite</trd>,
         <trd>langue planifi&eacute;e</trd>
       </trdgrp>
+      <trd lng="id"><ind>bahasa</ind> buatan</trd>
     </drv>
 
     <drv mrk="lingv.plur0eco">
@@ -537,6 +564,7 @@
         </ekz>
       </snc>
       <trd lng="fr">multilinguisme</trd>
+      <trd lng="id">multilingualisme</trd>
     </drv>
 
     <drv mrk="lingv.plur0ismo">
@@ -564,6 +592,7 @@
         </refgrp>
       </snc>
       <trd lng="fr">multilinguisme</trd>
+      <trd lng="id">multilingualisme</trd>
       <trdgrp lng="ru">
         <trd>&c_m;&c_n;&c_o;&c_g;&c_o;&c_ja;&c_z;&c_y;&c_ch;&c_i;&c_je;</trd>,
         <trd>&c_r;&c_f;&c_z;&c_n;&c_o;&c_ja;&c_z;&c_y;&c_ch;&c_i;&c_je;</trd>
@@ -599,6 +628,7 @@
       <trd lng="de">Polyglotte</trd>
       <trd lng="en">polyglot</trd>
       <trd lng="fr">polyglotte<klr> (subst.)</klr></trd>
+      <trd lng="id">poliglot</trd>
       <trd lng="es">pol&iacute;glota</trd>
       <trd lng="nl">polyglot</trd>
       <trd lng="pt">poliglota</trd>
@@ -691,6 +721,7 @@
       <trd lng="fr">langage de programmation</trd>
       <trd lng="he">&shin;&pe;&tav; &tav;&kaf;&nun;&vav;&tav;</trd>
       <trd lng="hu">programnyelv</trd>
+      <trd lng="id"><ind>bahasa</ind> pemrograman</trd>
       <trd lng="nl">programmeertaal</trd>
       <trd lng="pt">linguagem de programa&ccedil;&atilde;o</trd>
       <trd lng="ru">&c_ja;&c_z;&c_y;&c_k; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_ja;</trd>
@@ -713,6 +744,7 @@
       <trd lng="en">translate</trd>
       <trd lng="fr">traduire</trd>
       <trd lng="hu">&aacute;t&uuml;ltet<klr tip="ind">(m&aacute;s nyelvre)</klr></trd>
+      <trd lng="id">[<ind>terjemah</ind>] menerjemahkan</trd>
       <trd lng="nl">vertalen</trd>
       <trdgrp lng="ru">
         <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>,
@@ -761,6 +793,7 @@
         </dif>
       </snc>
       <trd lng="fr">monolinguisme</trd>
+      <trd lng="id">monolingualisme</trd>
       <trd lng="ru">&c_o;&c_d;&c_n;&c_o;&c_ja;&c_z;&c_y;&c_ch;&c_i;&c_je;</trd>
     </drv>
 
@@ -793,6 +826,7 @@
           
       </snc>
       <trd lng="fr">monolinguisme</trd>
+      <trd lng="id">monolingualisme</trd>
       <trd lng="ru">&c_o;&c_d;&c_n;&c_o;&c_ja;&c_z;&c_y;&c_ch;&c_i;&c_je;</trd>
     </drv>
 
@@ -876,6 +910,7 @@
         <trd>nyelv&eacute;szet</trd>,
         <trd>nyelvtudom&aacute;ny</trd>
       </trdgrp>
+      <trd lng="id">linguistik</trd>
       <trd lng="nl">lingu&iuml;stiek</trd>
       <trd lng="pt">ling&uuml;&iacute;stica</trd>
       <trdgrp lng="ru">
@@ -955,6 +990,24 @@
   </art>
   <!--
   $Log: lingv.xml,v $
+  Revision 1.60  2014/07/10 09:10:19  revo
+  Damien Brucker: +fnt
+
+  Revision 1.59  2014/07/01 12:10:17  revo
+  Damien Brucker: +ekz
+
+  Revision 1.58  2014/06/11 07:10:12  revo
+  Damien Brucker: +ekz
+
+  Revision 1.57  2014/06/09 16:10:59  revo
+  Eko Nur Syah Hidayat: +id
+
+  Revision 1.56  2014/05/19 20:10:12  revo
+  Damien Brucker: +ekz (dauxrigo)
+
+  Revision 1.55  2014/05/19 19:10:15  revo
+  Damien Brucker: +ekz
+
   Revision 1.54  2014/02/02 09:10:11  revo
   Damien Brucker: +ref
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sciur.xml,v 1.28 2013/10/24 14:10:14 revo Exp $">
+<art mrk="$Id: sciur.xml,v 1.30 2014/09/13 08:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sciur</rad>/o <fnt><bib>PV</bib></fnt>
@@ -37,9 +37,11 @@
   <trd lng="ca">esquirol</trd>
   <trd lng="de">Eichh&ouml;rnchen</trd>
   <trd lng="en">squirrel</trd>
+  <trd lng="es">ardilla</trd>
   <trd lng="fr">&eacute;cureuil</trd>
   <trd lng="he">&samekh;&nun;&alef;&yod;</trd>
   <trd lng="hu">m&oacute;kus</trd>
+  <trd lng="id">tupai</trd>
   <trd lng="it">scoiattolo</trd>
   <trd lng="nl">eekhoorn</trd>
   <trd lng="ru">&c_b;&c_je;&c_l;&c_k;&c_a;</trd>
@@ -67,6 +69,7 @@
     </dif>
     <trd lng="de">Gleith&ouml;rnchen</trd>
     <trd lng="fr">&eacute;cureuil volant</trd>
+    <trd lng="id"><ind>tupai</ind> terbang</trd>
     <trd lng="it">scoiattolo volante</trd>
   </snc>
 </drv>
@@ -104,6 +107,12 @@
 </art>
 <!--
 $Log: sciur.xml,v $
+Revision 1.30  2014/09/13 08:10:12  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.29  2014/06/11 17:10:18  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.28  2013/10/24 14:10:14  revo
 Wolfram Diestel: ref al lst rongxuloj, prilaboretis dif
 
@@ -120,11 +129,5 @@ Revision 1.24  2012/09/29 17:10:14  revo
 Jeromo Vasxe: + var ekz k akuzativoj en dif de flug~o
 
 Revision 1.23  2009/03/19 18:17:19  revo
-Wieland Pusch: +trd de
-
-Revision 1.22  2009/03/18 17:31:25  revo
-Antonio Codazzi: flug~o: plibon dif
-
-Revision 1.21  2009/03/15 17:30:58  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: si.xml,v 1.21 2014/02/11 12:10:12 revo Exp $">
+<art mrk="$Id: si.xml,v 1.28 2014/10/20 08:10:33 revo Exp $">
 <kap>
      <ofc>*</ofc>
      <rad>si</rad>
@@ -11,7 +11,8 @@
      <kap><ofc>*</ofc><tld/></kap>
      <snc>
        <dif>
-         Resenda pronomo de la tria persono, uzata kiam &gcirc;i rilatas al
+         Resenda <ref tip="dif" cel="pronom.0o">pronomo</ref> de la tria
+         persono, uzata kiam &gcirc;i rilatas al
          la
          subjekto de la propozicio atentante tamen, ke, en dependaj
          partoj de
@@ -82,10 +83,10 @@
            <trd lng="ru">&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>
          </ekz>
        </dif>
-       <rim num="1">
+       <rim mrk="si.0.rim1" num="1">
          La akuz. <em>sin</em> estas ofte uzata kiel prefikso samsignifa
          kiel
-         &leftquot;mem&rightquot;:
+         "mem":
          <ekz>
            <tld/>ndefendo,
            <tld/>nregado,
@@ -93,8 +94,23 @@
            <tld/>ndona,
            <tld/>ntrotakseco<fnt>Z</fnt>.
          </ekz>
+         La sin-kunmetoj (<ekz><tld/>nmortiga, <tld/>nfida</ekz>) pli
+         kaj pli
+         ekradikis anstata&ubreve; la originaj mem-kunmetoj (<ekz>memmortiga,
+         memfida</ekz>). Nome, oni sentis la bezonon distingi inter la
+         aktiva kaj pasiva formoj de "mem". La &gcirc;usta formo estus
+         propre "si" (<ekz>*<tld/>mortigo*, *<tld/>fido*</ekz>); sed,
+         sendube,
+         la
+         sin-formo estas pli belsona en kunmetoj kaj anka&ubreve; pli klara.
+         Cetere, "sin" en tiu &ccirc;i funkcio tute perdis sian originan
+         sencon kaj akiris la sencon de pasiva "mem". En tia okazo sin
+         perdas &ccirc;ian ligitecon kun la tria persono: (<ekz>mia
+         <tld/>nfido, via <tld/>ndonemo estas
+         senfina<fnt>Z</fnt></ekz>).
        </rim>
-       <rim num="2">
+       <ref tip="vid" cel="mem.0.prefikso">mem-</ref>
+       <rim mrk="si.0.rim2" num="2">
          &Ccirc;ar la esprimoj <em>per si mem</em> kaj <em>inter si</em>
          havas
          apartan propran sencon, ili estas konsiderataj kaj uzataj kiel
@@ -131,7 +147,7 @@ afero<fnt>Z</fnt>;
          </ekz>
          <ekz>
            tiujn malsamajn objektojn miksi <ind>inter <tld/></ind>
-           <klr>(reciproke)</klr> oni neniel devas<fnt>Z</fnt>;
+           <klr> (reciproke)</klr> oni neniel devas<fnt>Z</fnt>;
            <trd lng="fi">kesken&auml;&auml;n</trd>
            <trd lng="hu">egym&aacute;s k&ouml;z&ouml;tt</trd>
            <trd lng="ru">&c_m;&c_je;&c_zh;&c_d;&c_u;
@@ -143,8 +159,9 @@ afero<fnt>Z</fnt>;
          </ekz>
          <ekz>
            ili malpacas inter <tld/>.
-         </ekz>
+         </ekz>  
        </rim>
+     <ref tip="vid" cel="recipr.0e">reciproke</ref>
      </snc>
      <trdgrp lng="be">
        <trd>&c_s;&c_a;&c_b;&c_je;</trd>,
@@ -161,6 +178,11 @@ afero<fnt>Z</fnt>;
      <trdgrp lng="fi">
        <trd><klr tip="amb">(3. pers.
        refleksiivipronomini)</klr>itse(ns&auml;)</trd>
+     </trdgrp>
+     <trdgrp lng="fr">
+       <trd>se</trd>,
+       <trd>s'</trd>,
+       <trd>soi</trd>
      </trdgrp>
      <trd lng="hu">maga</trd>
      <trd lng="nl">zich</trd>
@@ -303,6 +325,8 @@ afero<fnt>Z</fnt>;
            al
            vi je via letero<fnt>Z</fnt>.
          </ekz>
+         La regulaj sia-kunmetoj koncernas nur la trian personon
+         (<ekz>miaflanke, viaflanke, siaflanke</ekz>).
        </rim>
        <trdgrp lng="fi">
          <trd>oma(nsa)</trd>,
@@ -319,33 +343,38 @@ afero<fnt>Z</fnt>;
        <trd>their own</trd>
      </trdgrp>
      <trd lng="cs">sv&uring;j</trd>
+     <trdgrp lng="fr">
+       <trd>son</trd>,
+       <trd>sa</trd>,
+       <trd>ses<klr> (propre)</klr></trd>
+     </trdgrp>
      <trd lng="hu">saj&aacute;t</trd>
      <trd lng="ru">&c_s;&c_v;&c_o;&c_j;</trd>
 </drv>
 </art>
 <!--
 $Log: si.xml,v $
+Revision 1.28  2014/10/20 08:10:33  revo
+Damien Brucker: -tajperaro
+
+Revision 1.27  2014/09/01 11:10:10  revo
+Damien Brucker: +ref al rim
+
+Revision 1.26  2014/08/28 07:10:11  revo
+Damien Brucker: +ekz en rim
+
+Revision 1.25  2014/08/25 14:10:12  revo
+Damien Brucker: +ref al mem-
+
+Revision 1.24  2014/08/25 12:10:12  revo
+Damien Brucker: Aldono al rim
+
+Revision 1.23  2014/05/25 12:10:37  revo
+Damien Brucker: +trd fr
+
+Revision 1.22  2014/05/24 08:10:13  revo
+Damien Brucker: +ref
+
 Revision 1.21  2014/02/11 12:10:12  revo
-Damien Brucker: +ekz
-
-Revision 1.20  2009/02/28 17:31:10  revo
-Russ Williams: +trd en
-
-Revision 1.19  2007/08/05 16:30:35  revo
-Harri Laine: +trd fi
-
-Revision 1.18  2004/10/08 16:32:27  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.17  2004/03/03 17:30:54  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.16  2004/01/14 18:45:59  revo
-Jeromo Vasxe: + bib fundamento en ekz
-
-Revision 1.15 2003/03/16 19:30:45 revo
-Miroslav Malovec: korekt cs
-
-Revision 1.14 2003/03/10 17:32:29 revo
 -->
 </vortaro>

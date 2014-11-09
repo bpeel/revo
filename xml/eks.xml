@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eks.xml,v 1.21 2013/12/29 17:10:15 revo Exp $">
+<art mrk="$Id: eks.xml,v 1.22 2014/08/17 12:10:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>eks</rad>- <fnt><bib>PV</bib></fnt>
@@ -26,9 +26,16 @@
           </ekz>
           <ekz>
             <tld/>fabrikanto;
-          </ekz>
-          <ekz>
-            <tld/>re&gcirc;o.
+          </ekz><ekz>
+            <tld/>re&gcirc;o;
+          </ekz><ekz>
+                Li estas <tld/>generalo; servinte en la militistaro
+                tridek jarojn, li <tld/>i&gcirc;is
+            <fnt>
+              <aut>&Z;</aut>:
+                  <vrk>Dua Libro de l' Lingvo Internacia</vrk>,
+                  <lok>11:16</lok>.
+            </fnt>.
           </ekz>
         </dif>
       </subsnc>
@@ -37,14 +44,18 @@
           Forlasinta staton:
           <ekz>
             <tld/>kutima;
-          </ekz>
-          <ekz>
-            <tld/>edzi&gcirc;i;
-          </ekz>
-          <ekz>
+          </ekz><ekz>
+            malpacinte kun sia edzino, li <tld/>edzi&gcirc;is je &scirc;i
+            <fnt>
+              <aut>&Z;</aut>:
+                  <vrk>Dua Libro de l' Lingvo Internacia</vrk>,
+                  <lok>11:15</lok>.
+            </fnt>;
+          </ekz><ekz>
             <tld/>blanka torstrika&jcirc;o
-            <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u li 
-            venis trakosme?</vrk>, <lok>1980</lok></fnt>.
+            <fnt><aut>C. Piron</aut>,
+                  <vrk>&Ccirc;u li venis trakosme?</vrk>,
+                  <lok>1980</lok></fnt>.
           </ekz>        
         </dif>
       </subsnc>
@@ -336,6 +347,9 @@
 </art>
 <!--
 $Log: eks.xml,v $
+Revision 1.22  2014/08/17 12:10:09  revo
+Sergio Pokrovskij: +ekz
+
 Revision 1.21  2013/12/29 17:10:15  revo
 Jeromo Vasxe: + ekz
 
@@ -354,9 +368,6 @@ Tulio Flores: +tr pt
 
 Revision 1.16 2006/06/06 16:32:00 revo
 Vito Redsky: +trd pl +trd ro
-
-Revision 1.15 2005/05/16 17:47:17 revo
-Yury Finkel: +trd ru
 
 -->
 </vortaro>

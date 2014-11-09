@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: natri.xml,v 1.20 2013/09/17 19:10:25 revo Exp $">
+<art mrk="$Id: natri.xml,v 1.21 2014/06/03 09:10:18 revo Exp $">
 <kap>
    <ofc>4</ofc>
    <rad>natri</rad>/o
@@ -37,6 +37,7 @@
    <trd lng="es">sodio</trd>
    <trd lng="fr">sodium</trd>
    <trd lng="hu">n&aacute;trium</trd>
+   <trd lng="id">natrium</trd>
    <trd lng="it">sodio</trd>
    <trd lng="la">Natrium</trd>
    <trd lng="nl">natrium</trd>
@@ -48,6 +49,9 @@
 </art>
 <!--
 $Log: natri.xml,v $
+Revision 1.21  2014/06/03 09:10:18  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.20  2013/09/17 19:10:25  revo
 Wolfram Diestel: simb. lau IUPAC, val
 
@@ -67,8 +71,5 @@ Revision 1.15  2005/04/18 16:32:25  revo
 Alan ar Gall: +trd br, +fak KEM, +ref super
 
 Revision 1.14  2005/04/14 16:33:32  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.13  2004/03/12 17:30:48  revo
 -->
 </vortaro>

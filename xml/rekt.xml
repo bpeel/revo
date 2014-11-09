@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: rekt.xml,v 1.51 2009/06/11 16:30:17 revo Exp $">
+  <art mrk="$Id: rekt.xml,v 1.54 2014/07/03 15:10:16 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>rekt</rad>/a
@@ -123,7 +123,8 @@
           <fnt><bib>EKV</bib>, <lok>&para;372</lok></fnt>
           <dif>
             <klr>(p.p. <ref cel="sum.0o.vektorasubspaco">sumo</ref> de
-              <ref cel="spac.vektorasub0o">vektoraj subspacoj</ref>)</klr>
+              <ref cel="spac.vektorasub0o">vektoraj
+              subspacoj</ref>)</klr>
             Tia, ke ajna &gcirc;ia elemento esprimi&gcirc;as nur unumaniere
             kiel sumo de elementoj en la subspacoj:
             <ekz>
@@ -144,19 +145,31 @@
               (&c_s;&c_u;&c_m;&c_m;&c_a;)</klr></trd>
         </subsnc>
       </snc>
-
       <snc mrk="rekt.0a.ELE">
         <uzo tip="fak">ELE</uzo>
         <dif>
           Unudirekta (pri kurento).
-          Vd &ccirc;e <ref tip="dif" cel="kurent.rekta0o"><tld/>a kurento</ref>.
+          Vd &ccirc;e <ref tip="dif" cel="kurent.rekta0o"><tld/>a
+          kurento</ref>.
         </dif>
         <ref tip="ant" cel="kurent.alterna0o">Alterna kurento</ref>
         <trd lng="cs">stejnosm&ecaron;rn&yacute;</trd>
         <trd lng="en">direct<klr> (current)</klr></trd>
         <trd lng="pl">sta&lstroke;y</trd>
+      </snc>  
+      <snc mrk="rekt.0a.LIN">
+        <uzo tip="fak">LIN</uzo>
+        <dif>
+          Citanta ies vortojn, sen subordiga procedo:
+        </dif>
+        <ekz>
+        la <tld/>a parolo<fnt>Z</fnt>.
+        </ekz>
+        <ref tip="vid" cel="cit.0iloj">citiloj</ref> 
+        <ref tip="ant" cel="rekt.ne0a.LIN">nerekta</ref>
+        <trd lng="fr">direct<klr> (discours)</klr></trd>
       </snc>
-
+            
       <trd lng="cs">p&rcaron;&iacute;m&yacute;</trd>
       <trd lng="en">straight</trd>
       <trdgrp lng="fr">
@@ -215,7 +228,8 @@
       <fnt><bib>MatVort</bib></fnt>
       <snc mrk="rekt.0ara.surfaco">
         <dif>
-          <klr>(p.p. neebena <ref cel="surfac.0o.MAT">surfaco</ref>)</klr>
+          <klr>(p.p. neebena <ref
+          cel="surfac.0o.MAT">surfaco</ref>)</klr>
           Egala al la kuna&jcirc;o de &ccirc;iuj <tld/>oj, inkluzivataj de &gcirc;i:
           <ekz>
             <tld/>aran surfacon oni povas intuicie prezenti al si kiel
@@ -235,9 +249,12 @@
           termino.
           Notindas, ke Bricard
           <fnt><bib>MatTerm</bib>, <lok>p. 39</lok></fnt> uzas &ccirc;i-sence
-          la terminon <ctl><tld/>enaskita</ctl>, tamen ne sekvinda pro la
-          strangeco de la kunmeta&jcirc;o same kiel <ctl><tld/>oestigebla</ctl>
-          trovebla en <fnt><bib>MatStokTerm</bib>, <lok>p. 46</lok></fnt>.
+          la terminon <ctl><tld/>enaskita</ctl>, tamen ne sekvinda pro
+          la
+          strangeco de la kunmeta&jcirc;o same kiel
+          <ctl><tld/>oestigebla</ctl>
+          trovebla en <fnt><bib>MatStokTerm</bib>, <lok>p.
+          46</lok></fnt>.
         </rim>
       </snc>
       <trdgrp lng="de">
@@ -444,6 +461,42 @@
       </trdgrp>
     </drv>
 
+<drv mrk="rekt.ne0a">
+      <kap>ne<tld/>a</kap>
+      <snc mrk="rekt.ne0a.LIN">
+      <uzo tip="fak">LIN</uzo>
+        <dif>
+          Citanta ies vortojn sub formo de dependa propozicio:
+        </dif>
+        <ekz>
+        en la ne<tld/>a parolo oni konservas la tempon kaj modon de la
+        <tld/>a
+        parolo.
+        </ekz>
+        <ref tip="ant" cel="rekt.0a.LIN">rekta</ref>
+        <rim>
+        Ne<tld/>a parolo ordinare estas ke-frazo a&ubreve; demanda
+        subfrazo.[...] Ofte oni devas iom &scirc;an&gcirc;i la formon de la origina
+        diro a&ubreve; penso<fnt><bib>PMEG</bib></fnt>.
+        Ekzemple, <ekz>Petro diris: &rightquot;Mi volas doni ion al vi
+        morga&ubreve;.&#8221;</ekz> &#8594; <ekz>Petro
+        diris, ke li volas doni ion al mi la postan tagon</ekz>. 
+        Ekzemple,
+        <ekz>Karlo demandis: &rightquot;&Ccirc;u vi volas iri kun mi hodia&ubreve;?&#8221;</ekz> &#8594;
+        <ekz>Karlo
+        demandis, &ccirc;u mi volas iri kun li tiun tagon</ekz>. Ekzemple,
+        <ekz>hiera&ubreve; li
+        diris: &rightquot;Kial vi volas fari tion nun kaj ne poste!&#8221;</ekz> &#8594;
+        <ekz>Hiera&ubreve; li
+        diris, kial mi volas fari tion tuj (a&ubreve; tiumomente a&ubreve; tiam) kaj
+        ne poste</ekz>.
+        Ekzemple, <ekz>mi volas diri: &rightquot;Iru tien!&#8221;</ekz> &#8594; <ekz>Mi volas,
+        ke vi iru tien</ekz>.
+        </rim>
+      </snc>
+     <trd lng="fr">indirect<klr> (discours)</klr></trd> 
+</drv>
+
     <drv mrk="rekt.sam0a">
       <kap>sam<tld/>a</kap>
       <uzo tip="fak">MAT</uzo>
@@ -457,7 +510,8 @@
           <ekz>
             du punktoj estas &ccirc;iam sam<tld/>aj;
           </ekz><ekz>
-            sam<tld/>aj strekoj <klr>(segmentoj el unu sama <tld/>o)</klr>;
+            sam<tld/>aj strekoj <klr>(segmentoj el unu sama
+            <tld/>o)</klr>;
           </ekz><ekz>
             &ccirc;iu punkto de <ref cel="strek.0o.segmento">streko</ref>
             estas
@@ -505,7 +559,8 @@
         <dif>
           <klr>(de neegallatera <ref
               cel="angul.tri0o">triangulo</ref>)</klr>
-          <ref tip="super" cel="rekt.0o.MAT"><tld lit="R"/>o<sncref/></ref>,
+          <ref tip="super" cel="rekt.0o.MAT"><tld
+          lit="R"/>o<sncref/></ref>,
           trairanta &gcirc;ian <ref cel="ortoce.0o">ortocentron</ref>,
           &gcirc;ian <ref cel="centr.pezo0o.MAT">pezocentron</ref>,
           la centron de &gcirc;ia
@@ -602,6 +657,15 @@
   </art>
   <!--
   $Log: rekt.xml,v $
+  Revision 1.54  2014/07/03 15:10:16  revo
+  Damien Brucker: +ref
+
+  Revision 1.53  2014/05/10 12:10:12  revo
+  Damien Brucker: +rim
+
+  Revision 1.52  2014/05/10 10:10:12  revo
+  Damien Brucker: +ne~a
+
   Revision 1.51  2009/06/11 16:30:17  revo
   Sergio Pokrovskij: -tajperaroj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: drink.xml,v 1.35 2011/12/02 11:10:10 revo Exp $">
+  <art mrk="$Id: drink.xml,v 1.37 2014/09/27 01:10:11 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>drink</rad>/i
@@ -135,10 +135,18 @@
       <trd lng="ca">beure<klr tip="amb"> (una beguda
       alcoh&ograve;lica)</klr></trd>
       <trd lng="en">drink <klr>(alcohol)</klr></trd>
+      <trdgrp lng="es">
+        <trd>trincar</trd>,
+        <trd>beber ([mucho] alcohol)</trd>
+      </trdgrp>
       <trd lng="fr">boire<klr tip="amb"> (une boisson
       alcoolis&eacute;e)</klr></trd>
       <trd lng="he">&lamed;<ind>&he;&shin;&tav;&kaf;&resh;</ind></trd>
       <trd lng="hu">iszik<klr tip="amb"> (alkoholt)</klr></trd>
+      <trdgrp lng="id">
+        <trd>mabuk</trd>,
+        <trd><ind>minum</ind> (minuman keras)</trd>
+      </trdgrp>
       <trd lng="nl">alcohol <ind>drinken</ind></trd>
       <trdgrp lng="pl">
         <trd>pi&cacute;<klr> (alkohol)</klr></trd>,
@@ -176,10 +184,13 @@
       </snc>
       <trd lng="bg">&c_n;&c_a;&c_p;&c_i;&c_t;&c_k;&c_a;</trd>
       <trd lng="ca">beguda alcoh&ograve;lica</trd>
-      <trd lng="en">beguda<klr tip="amb"> (alcoh&ograve;lica)</klr></trd>
       <trd lng="de"><klr tip="amb">(alkoholisches)
         </klr><ind>Getr&auml;nk</ind></trd>
       <trd lng="en"><klr tip="amb">(alcoholic) </klr>drink</trd>
+      <trdgrp lng="es">
+        <trd>bebida alcoh&oacute;lica</trd>,
+        <trd>copete <klr>(Lat. Am.)</klr></trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>alcool<klr tip="amb"> (boisson
         alcoolis&eacute;e)</klr></trd>,
@@ -187,6 +198,11 @@
       </trdgrp>
       <trd lng="he"><ind>&mem;&shin;&qof;&he;</ind>
       &het;&resh;&yod;&fpe;</trd>
+      <trdgrp lng="id">
+        <trd>miras</trd>,
+        <trd><ind>minum</ind>an keras</trd>,
+        <trd><ind>minum</ind>an beralkohol</trd>
+      </trdgrp>
       <trd lng="nl">alcoholische <ind>drank</ind></trd>
       <trdgrp lng="pl">
         <trd>nap&oacute;j alkoholowy</trd>,
@@ -231,6 +247,12 @@
         <trd>saloon</trd>,
         <trd>tavern</trd>
       </trdgrp>
+      <trdgrp lng="es">
+        <trd>bar</trd>,
+        <trd>fondela</trd>,
+        <trd>taberna</trd>,
+        <trd>bodeg&oacute;n</trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>bar</trd>,
         <trd>caf&eacute;<klr tip="ind"> (bar)</klr></trd>,
@@ -244,6 +266,10 @@
       <trdgrp lng="hu">
         <trd>kocsma</trd>,
         <trd>italbolt</trd>
+      </trdgrp>
+      <trdgrp lng="id">
+        <trd>bar</trd>,
+        <trd>pub</trd>
       </trdgrp>
       <trdgrp lng="nl">
         <trd>bar<klr tip="ind"> (buffet, caf&eacute;)</klr></trd>,
@@ -302,6 +328,10 @@
         <trd>drunkard</trd>,
         <trd>alcoholic</trd>
       </trdgrp>
+      <trdgrp lng="es">
+        <trd>bebedor</trd>,
+        <trd>borracho</trd>
+      </trdgrp>
       <trd lng="fr">buveur<klr tip="ind"> (qn qui s'adonne &agrave; la
           boisson)</klr></trd>
       <trdgrp lng="he">
@@ -312,6 +342,7 @@
         <trd>r&eacute;szeges<klr tip="ind"> (ember)</klr></trd>,
         <trd>isz&aacute;kos</trd>
       </trdgrp>
+      <trd lng="id">[<ind>mabuk</ind>] pemabuk</trd>
       <trd lng="nl">alcoholicus</trd>
       <trdgrp lng="pl">
         <trd>alkoholik</trd>,
@@ -353,6 +384,7 @@
         <trd>vertrinken</trd>
       </trdgrp>
       <trd lng="en"><ind>drink</ind> away</trd>
+      <trd lng="es">gastar <klr>(por alcohol)</klr></trd>
       <trdgrp lng="fr">
         <trd>boire<klr tip="amb"> (d&eacute;penser en
         beuverie)</klr></trd>,
@@ -370,6 +402,12 @@
   </art>
   <!--
   $Log: drink.xml,v $
+  Revision 1.37  2014/09/27 01:10:11  revo
+  Norbert Luckhardt: +trd ES, -dupl CA
+
+  Revision 1.36  2014/06/10 05:10:14  revo
+  Eko Nur Syah Hidayat: +id
+
   Revision 1.35  2011/12/02 11:10:10  revo
   Marc Rausell: kataluna traduko
 

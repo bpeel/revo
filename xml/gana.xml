@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gana.xml,v 1.7 2014/03/14 09:10:12 revo Exp $">
+<art mrk="$Id: gana.xml,v 1.8 2014/06/10 04:10:52 revo Exp $">
 <kap>
   <rad>Gana</rad>/o
 </kap>
@@ -42,6 +42,7 @@
      <trd>Ghana</trd>,
      <trd>R&eacute;publique du Ghana</trd>
     </trdgrp>
+    <trd lng="id">Ghana</trd>
     <trdgrp lng="pl">
       <trd>Ghana</trd>
       <trd>Republika <ind>Ghany</ind></trd>
@@ -54,6 +55,9 @@
 
 <!--
 $Log: gana.xml,v $
+Revision 1.8  2014/06/10 04:10:52  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.7  2014/03/14 09:10:12  revo
 Damien Brucker: +trd fr
 
@@ -73,7 +77,5 @@ Revision 1.2  2009/05/19 17:00:48  revo
 Wieland Pusch: +trd bg,de,en
 
 Revision 1.1  2009/05/17 16:31:37  revo
-Sebastian Cyprych: nova artikolo
-
 -->
 </vortaro>

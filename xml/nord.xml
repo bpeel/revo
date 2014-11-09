@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nord.xml,v 1.28 2013/09/03 06:10:11 revo Exp $">
+<art mrk="$Id: nord.xml,v 1.29 2014/06/11 17:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nord</rad>/o
@@ -42,6 +42,7 @@
   <trd lng="es">norte</trd>
   <trd lng="fr">nord</trd>
   <trd lng="hu">&eacute;szak</trd>
+  <trd lng="id">utara</trd>
   <trd lng="nl">noorden</trd>
   <trd lng="pl">p&oacute;&lstroke;noc</trd>
   <trd lng="pt">norte</trd>
@@ -153,6 +154,9 @@
 </art>
 <!--
 $Log: nord.xml,v $
+Revision 1.29  2014/06/11 17:10:23  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.28  2013/09/03 06:10:11  revo
 Sebastian Cyprych: +trd pl
 
@@ -172,8 +176,5 @@ Alan ar Gall: +trd br
 Revision 1.22  2005/05/24 16:35:32  revo
 Jozefo Horvath: +trd hu
 Revision 1.21  2005/04/25 16:31:39  revo
-Yury Finkel: +trd ru
-Revision 1.20  2004/06/24 16:32:25  revo
-Jozefo Horvath: +trd hu
 -->
 </vortaro>

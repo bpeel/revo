@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: notic.xml,v 1.2 2012/01/02 11:10:24 revo Exp $">
+<art mrk="$Id: notic.xml,v 1.3 2014/09/19 12:10:09 revo Exp $">
 <kap>
   <rad>notic</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -38,6 +38,10 @@
     </refgrp>
   </snc>
   <trd lng="ca">not&iacute;cia <klr>(breu)</klr></trd>
+  <trdgrp lng="es">
+    <trd>noticia <klr>(breve)</klr></trd>
+    <trd>rese&ntilde;a</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>br&egrave;ve <klr> (journalistique)</klr></trd>,
     <trd>notice</trd>
@@ -48,6 +52,9 @@
 
 <!--
 $Log: notic.xml,v $
+Revision 1.3  2014/09/19 12:10:09  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.2  2012/01/02 11:10:24  revo
 Marc Rausell: +trd ca
 

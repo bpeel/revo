@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: garagx.xml,v 1.15 2012/01/03 08:10:31 revo Exp $">
+<art mrk="$Id: garagx.xml,v 1.16 2014/06/30 16:10:29 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>gara&gcirc;</rad>/o <fnt><bib>SPV</bib></fnt>
@@ -53,6 +53,7 @@
     <trd lng="es">garaje</trd>
     <trd lng="fr">garage<klr> (de r&eacute;paration)</klr></trd>
     <trd lng="hu">gar&aacute;zs</trd>
+    <trd lng="id">garasi</trd>
     <trd lng="nl">garage</trd>
     <trd lng="pl">gara&zdot;</trd>
     <trdgrp lng="pt">
@@ -67,6 +68,9 @@
 
 <!--
 $Log: garagx.xml,v $
+Revision 1.16  2014/06/30 16:10:29  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.15  2012/01/03 08:10:31  revo
 Marc Rausell: +trd ca
 
@@ -86,8 +90,5 @@ Revision 1.10  2005/12/06 17:33:00  revo
 Raul Salinas Monteagudo: +trd es
 
 Revision 1.9  2004/01/08 17:31:57  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2002/09/19 16:33:37  revo
 -->
 </vortaro>

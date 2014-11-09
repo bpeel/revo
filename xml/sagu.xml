@@ -2,20 +2,20 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sagu.xml,v 1.13 2012/08/17 17:10:13 revo Exp $">
+<art mrk="$Id: sagu.xml,v 1.15 2014/09/12 07:10:18 revo Exp $">
 <kap>
   <ofc>2</ofc>
-  <rad>sagu</rad>/o
+  <rad>sagu</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="sagu.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">KUI</uzo>
-  <snc>
+  <snc mrk="sagu.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
     <dif>
-      Nutra grio ekstraktata el medolo de iuj palmarboj.
+      Nutra grio eltirita el medolo de iuj palmarboj.
     </dif>
-    <refgrp tip="sin">
-      <ref cel="tapiok.0o">tapioko</ref>.
+    <refgrp tip="vid">
+      <ref cel="tapiok.0o.KUI">tapioko</ref>.
     </refgrp>
   </snc>
   <trd lng="ca">sag&uacute;</trd>
@@ -31,6 +31,7 @@
     <trd>sz&aacute;g&oacute;liszt</trd>
   </trdgrp>
   <trd lng="nl">sago</trd>
+  <trd lng="pl">sago</trd>
   <trdgrp lng="pt">
    <trd>sagu</trd>
   </trdgrp>
@@ -39,6 +40,12 @@
 </art>
 <!--
 $Log: sagu.xml,v $
+Revision 1.15  2014/09/12 07:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2014/09/03 01:10:17  revo
+Jeromo Vasxe: - sin + vid
+
 Revision 1.13  2012/08/17 17:10:13  revo
 Marc Rausell: + trd ca
 
@@ -55,11 +62,5 @@ Revision 1.9  2003/03/11 17:32:37  revo
 Axel Rousseau: +trd fr
 
 Revision 1.8  2002/09/12 16:35:09  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.7  2002/02/06 17:32:05  revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/07/16 18:11:59 revo
 -->
 </vortaro>

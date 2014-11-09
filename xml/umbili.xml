@@ -2,20 +2,18 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: umbili.xml,v 1.23 2012/08/13 14:10:19 revo Exp $">
+<art mrk="$Id: umbili.xml,v 1.25 2014/06/13 20:10:27 revo Exp $">
 <kap>
    <ofc>*</ofc>
-   <rad>umbilik</rad>/o
+   <rad>umbilik</rad>/o  <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="umbili.0o">
-   <kap>
-     <ofc>*</ofc><tld/>o
-   </kap>
+   <kap><ofc>*</ofc><tld/>o</kap>
    <snc mrk="umbili.0o.ANA">
      <uzo tip="fak">ANA</uzo>
      <dif>
-       Ronda kaveto meze de ventro de mamuloj, produktita de cikatro de
-       la
+       Ronda kaveto meze de ventro de mamuloj,
+       produktita de cikatro de la
        <tld/>a &scirc;nuro.
      </dif>
      <trd lng="bg">&c_p;&c_malmol;&c_p;</trd>
@@ -31,6 +29,7 @@
      </trdgrp>
      <trd lng="he">&tet;&bet;&vav;&resh;<klr tip="amb">
 ("&pe;&vav;&pe;&yod;&qof;")</klr></trd>
+     <trd lng="id">pusar</trd>
      <trd lng="it">ombelico</trd>
      <trd lng="nl">navel</trd>
      <trd lng="pl">p&eogonek;pek</trd>
@@ -40,9 +39,7 @@
    </snc>
    <snc mrk="umbili.0o.BOT">
      <uzo tip="fak">BOT</uzo>
-     <dif>
-       <ref tip="dif" cel="hilum.0o">Hilumo</ref>.
-     </dif>
+     <ref tip="dif" cel="hilum.0o">hilumo</ref>
      <trd lng="fi"><klr tip="amb">(siemenen) </klr>arpi</trd>
      <trd lng="ca">h&iacute;lum</trd>
      <trdgrp lng="nl">
@@ -59,12 +56,25 @@
    <trd lng="hu">k&ouml;ld&ouml;k</trd>
 </drv>
 
+<drv mrk="umbili.0istino">
+  <kap><tld/>istino</kap>
+  <snc mrk="umbili.0istino.MED">
+    <uzo tip="stl">KOMUNE</uzo>
+    <ref tip="dif" cel="akusx.0istino.MED">aku&scirc;istino</ref>
+    <ekz>
+      ni lavu nin puraj, kvaza&ubreve; ni estus venintaj
+      el la viglaj manoj de la <tld/>istino
+      <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+      fratoj</vrk>, <lok>1947</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="fr">accoucheuse</trd>
+</drv>
+
 <drv mrk="umbili.0asxnuro">
-   <kap>
-     <tld/>a &scirc;nuro
-   </kap>
-   <uzo tip="fak">ANA</uzo>
-   <snc>
+   <kap><tld/>a &scirc;nuro</kap>
+   <snc mrk="umbili.0asxnuro.ANA">
+     <uzo tip="fak">ANA</uzo>
      <dif>
        Membrana tubo, kuniganta feton kun placento.
      </dif>
@@ -79,6 +89,7 @@
    <trd lng="fr">cordon ombilical</trd>
    <trd lng="he">&het;&bet;&lamed; &he;&tet;&bet;&vav;&resh;</trd>
    <trd lng="hu">k&ouml;ld&ouml;kzsin&oacute;r</trd>
+   <trd lng="id"><ind>tali</ind> pusar</trd>
    <trd lng="it">cordone<klr> ombelicale</klr></trd>
    <trd lng="nl">navelstreng</trd>
    <trd lng="pl">p&eogonek;powina</trd>
@@ -89,6 +100,12 @@
 </art>
 <!--
 $Log: umbili.xml,v $
+Revision 1.25  2014/06/13 20:10:27  revo
+Jeromo Vasxe: + ~istino
+
+Revision 1.24  2014/05/30 17:10:16  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.23  2012/08/13 14:10:19  revo
 Marc Rausell: + trd ca
 
@@ -105,11 +122,5 @@ Revision 1.19  2009/08/11 16:30:49  revo
 Wieland Pusch: +trd bg
 
 Revision 1.18  2009/08/08 16:32:30  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.17  2007/06/19 16:31:08  revo
-Harri Laine: +trd fi, movis germ trd
-
-Revision 1.16  2005/04/25 16:32:19  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fingr.xml,v 1.40 2014/02/08 10:10:22 revo Exp $">
+<art mrk="$Id: fingr.xml,v 1.43 2014/08/27 15:10:09 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>fingr</rad>/o</kap>
 
@@ -67,6 +67,7 @@
     </adm>
     <trd lng="de">Finger</trd>
     <trd lng="hu">ujj</trd>
+    <trd lng="id">jari</trd>
     <trd lng="nl">vinger</trd>
   </snc>
   <snc mrk="fingr.0o.largxo">
@@ -139,8 +140,8 @@
 
 <drv mrk="fingr.man0o">
   <kap>man<tld/>o</kap>
-  <uzo tip="fak">ANA</uzo>
   <snc>
+  <uzo tip="fak">ANA</uzo>
     <dif>
       <ref tip="super" cel="fingr.0o.ANA"><tld lit="F"/>o</ref>
       mana:
@@ -158,6 +159,7 @@
   </snc>
   <trd lng="ca"><ind>dit</ind> de la m&agrave;</trd>
   <trd lng="de">Finger</trd>
+  <trd lng="fr">doigt<klr> (de main)</klr></trd>
   <trd lng="fa">&a_A;&a_n;&f_g;&a_sh;&a_t; &a_d;&a_s;&a_t;</trd>
   <trd lng="hu">k&eacute;z <ind>ujja</ind></trd> 
   <trd lng="it">dito<klr> (della mano)</klr></trd> 
@@ -169,8 +171,8 @@
 
 <drv mrk="fingr.pied0o">
   <kap>pied<tld/>o</kap>
-  <uzo tip="fak">ANA</uzo>
   <snc>
+  <uzo tip="fak">ANA</uzo>
     <dif>
       <ref tip="super" cel="fingr.0o.ANA"><tld lit="F"/>o</ref>
       pieda:
@@ -194,6 +196,7 @@
   <trd lng="de">Zehe</trd>
   <trd lng="es">dedo<klr> (del pie)</klr></trd>
   <trd lng="fa">&a_A;&a_n;&f_g;&a_sh;&a_t; &f_p;&a_A;</trd>
+  <trd lng="fr">doigt<klr> (de pied)</klr></trd>
   <trd lng="hu">l&aacute;bujja</trd> 
   <trd lng="it">dito<klr> (del piede)</klr></trd> 
   <trd lng="nl">teen</trd>
@@ -205,31 +208,53 @@
 <drv mrk="fingr.dik0o">
   <kap>dik<tld/>o</kap>
   <snc mrk="fingr.dik0o.super">
-    <uzo tip="fak">ANA</uzo>
-    <dif>
-      La pli dika el la ekstremaj
-      <ref tip="super" cel="fingr.0o.ANA"><tld/>oj</ref> de homo
-      a&ubreve; besto:
-      <ekz>
+  <uzo tip="fak">ANA</uzo>
+   <ref tip="dif" cel="fingr.dika0o">dika <tld/>o</ref>
+   <ekz>
         ili postkuris lin kaj kaptis lin kaj dehakis la dik<tld/>ojn de
         liaj manoj kaj piedoj
-        <fnt><bib>MT</bib>, <lok>&Jug; 1:6</lok></fnt>.
-      </ekz>
-    </dif>
-    <subsnc mrk="fingr.dik0o.mana">
-      <dif>
-        Speciale, tia man<tld/>o de la homo:
-        <ekz>
+        <fnt><bib>MT</bib>, <lok>&Jug; 1:6</lok></fnt>;
+   </ekz>
+   <ekz>
           kelnero alportas teleron da supo kun dik<tld/>o
           profunde trempita en la buljono
           <fnt>
           <aut>Louis Beaucaire</aut>:
           <vrk>Kruko kaj Baniko el Bervalo</vrk>
+          </fnt>;
+   </ekz>
+   <ekz>
+          loku la piedajn dik<tld/>ojn la&ubreve; linio kun la
+          brustpintoj
+          <fnt>
+          <aut>&Scirc;unrju Suzuki, tr. D. Gibbons</aut>:
+          <lok><url ref="http://www.angelfire.com/mo/dhgibbons/"
+          >Zena Menso, Komencanta Menso</url></lok>
           </fnt>.
-        </ekz>
+    </ekz>
+  </snc>
+  <trd lng="fr">pouce</trd>
+</drv>
+
+<drv mrk="fingr.dika0o">
+  <kap>dika <tld/>o</kap>
+  <snc mrk="fingr.dika0o.ANA">
+  <uzo tip="fak">ANA</uzo>
+    <dif>
+      La pli dika el la ekstremaj
+      <ref tip="super" cel="fingr.0o.ANA"><tld/>oj</ref> de homo
+      a&ubreve; besto.
       </dif>
+    <subsnc mrk="fingr.dik0o.mana">
+      <dif>
+        Speciale, tia man<tld/>o de la homo.
+        </dif>
       <trd lng="ca">polze</trd>
       <trd lng="de">Daumen</trd>
+      <trdgrp lng="id">
+        <trd><ind>ibu</ind> jari</trd>,
+        <trd>jempol</trd>
+      </trdgrp>
       <trd lng="it">pollice</trd>
       <trd lng="la">pollex</trd>      
       <trd lng="nl">duim</trd>
@@ -238,16 +263,7 @@
     </subsnc>
     <subsnc mrk="fingr.dik0o.pieda">
       <dif>
-        Speciale, tia pied<tld/>o de la homo:
-        <ekz>
-          loku la piedajn dik<tld/>ojn la&ubreve; linio kun la
-          brustpintoj
-          <fnt>
-          <aut>&Scirc;unrju Suzuki, tr. D. Gibbons</aut>:
-          <lok><url ref="http://www.angelfire.com/mo/dhgibbons/"
-          >Zena Menso, Komencanta Menso</url></lok>
-          </fnt>.
-        </ekz>
+        Speciale, tia pied<tld/>o de la homo.
       </dif>
       <trd lng="ca">h&agrave;l&middot;lux</trd>
       <trd lng="de">gro&szlig;er <ind>Zeh</ind></trd>
@@ -269,25 +285,19 @@
       (sed por et<tld/>o kaj aliaj <tld/>oj piedaj tian distingon
       ili ne faras).
     </rim>
-  </snc>
+    </snc>
   <trd lng="ca"><ind>dit</ind> gros</trd>
   <trd lng="en">thumb</trd>
   <trd lng="es">pulgar</trd>
   <trd lng="fa">&a_A;&a_n;&f_g;&a_sh;&a_t; &a_sh;&a_s;&a_t;</trd>
   <trd lng="fr">pouce</trd>
   <trd lng="hu">h&uuml;velykujj</trd>  
-  <trd lng="ru">
-  &c_b;&c_o;&c_l;&c_mol;&c_sh;&c_o;&c_j; &c_p;&c_a;&c_l;&c_je;&c_c;
-  </trd>
-</drv>
-
-<drv mrk="fingr.dika0o">
-  <kap>dika <tld/>o</kap>
-  <ref tip="dif" cel="fingr.dik0o">dik<tld/>o</ref>
+  <trd lng="ru">&c_b;&c_o;&c_l;&c_mol;&c_sh;&c_o;&c_j; &c_p;&c_a;&c_l;&c_je;&c_c;</trd>
 </drv>
 
 <drv mrk="fingr.et0o">
   <kap>et<tld/>o</kap>
+  <snc mrk="fingr.et0o.ANA">
   <uzo tip="fak">ANA</uzo>
   <ref tip="dif" cel="fingr.malgranda0o">malgranda <tld/>o</ref>
   <ekz>
@@ -296,12 +306,17 @@
     povas movi la et<tld/>on tiel, kiel la ceterajn fingrojn?
     <fnt><aut>Szathm&aacute;ri</aut>: <vrk>La guarbo</vrk></fnt>.
   </ekz>
+  </snc>
   <trdgrp lng="ca">
     <trd>menovell</trd>,
     <trd>dit petit</trd>
   </trdgrp>
   <trd lng="de">kleiner <ind>Finger</ind></trd>
   <trd lng="fa">&a_A;&a_n;&f_g;&a_sh;&a_t; &f_k;&a_w;&f_ch;&f_k;</trd>
+  <trdgrp lng="fr">
+    <trd>auriculaire</trd>,
+    <trd>petit doigt</trd>
+  </trdgrp>
   <trd lng="it">mignolo</trd>
   <trd lng="pl">ma&lstroke;y <ind>palec</ind></trd>
   <trd lng="ru">&c_m;&c_i;&c_z;&c_i;&c_n;&c_je;&c_c;</trd>
@@ -310,10 +325,17 @@
 
 <drv mrk="fingr.mez0o">
   <kap>mez<tld/>o <fnt><bib>PIV2</bib>, <lok>fingro</lok></fnt></kap>
+  <snc mrk="fingr.mez0o.ANA">
   <uzo tip="fak">ANA</uzo>
   <ref tip="dif" cel="fingr.longa0o">longa <tld/>o</ref>
+  </snc>
   <trd lng="de">Mittelfinger</trd>
   <trd lng="fa">&a_A;&a_n;&f_g;&a_sh;&a_t; &a_w;&a_s;&a_T;</trd>
+  <trdgrp lng="fr">
+    <trd>majeur</trd>,
+    <trd>m&eacute;dius</trd>
+  </trdgrp>
+  <trd lng="id"><ind>jari</ind> tengah</trd>
   <trd lng="it">medio<klr> (dito)</klr></trd>
   <trd lng="pl"><ind>palec</ind> &sacute;rodkowy</trd>
   <trd lng="sv">l&aring;ngfinger</trd>
@@ -325,7 +347,7 @@
     <uzo tip="fak">ANA</uzo>
     <dif>
       Plej longa <ref tip="super" cel="fingr.0o.ANA"><tld/>o</ref>,
-      tria nombrante de la dik<tld/>o.
+      tria nombrante de la dika <tld/>o.
     </dif>
   </snc>
   <trdgrp lng="ca">
@@ -357,7 +379,7 @@
     <uzo tip="fak">ANA</uzo>
     <dif>
       Plej eta <ref tip="super" cel="fingr.0o.ANA"><tld/>o</ref>, kvina
-      nombrante de la dik<tld/>o:
+      nombrante de la dika <tld/>o:
       <ekz>
         tiele diru al ili: Mia malgranda <tld/>o estas pli dika, ol la
         lumboj de mia patro
@@ -373,6 +395,7 @@
     <trd>petit doigt</trd>
   </trdgrp>
   <trd lng="hu">kisujj</trd> 
+  <trd lng="id">kelingking</trd>
   <trd lng="it">mignolo</trd> 
   <trd lng="nl">pink</trd>
   <trd lng="pl">ma&lstroke;y <ind>palec</ind></trd>
@@ -381,28 +404,14 @@
 
 <drv mrk="fingr.montra0o">
   <kap>montra <tld/>o</kap>
+  <snc mrk="fingr.montra0o.ANA">
   <uzo tip="fak">ANA</uzo>
-  <ref tip="dif" cel="fingr.montro0o">montro<tld/>o</ref>
-  <ekz>
-    la montran <tld/>on li etendis al la pordo de la kabineto
-    <fnt><bib>Marta</bib></fnt>.
-  </ekz>
-</drv>
-
-<drv mrk="fingr.montro0o">
-  <kap>montro<tld/>o</kap>
-  <snc mrk="fingr.montro0o.ANA">
-    <uzo tip="fak">ANA</uzo>
-    <dif>
+  <dif>
       Dua <ref tip="super" cel="fingr.0o.ANA"><tld/>o</ref>,
-      nombrante de la dik<tld/>o:
+      nombrante de la dika <tld/>o:
       <ekz>
-        atenteme li tiras la ar&ccirc;on, la montro<tld/>o alterne
-        premas la kordon
-        <fnt><aut>&Scirc;tefo URBAN</aut>:
-        <vrk>Mario kaj la papilioj</vrk>.
-        <lok>Nica literatura revuo, 4:6</lok>
-        </fnt>.
+      la montran <tld/>on li etendis al la pordo de la kabineto
+      <fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -415,34 +424,53 @@
   </trdgrp>
   <trd lng="fr">index<klr tip="ind"> (doigt)</klr></trd>
   <trd lng="hu">mutat&oacute;ujj</trd>  
+  <trd lng="id"><ind>jari</ind> telunjuk</trd>
   <trd lng="it">indice<klr> (dito)</klr></trd>
   <trd lng="nl">wijsvinger</trd>
   <trd lng="pl"><ind>palec</ind> wskazuj&aogonek;cy</trd>
-  <trd lng="ru">
-  &c_u;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
-  &c_p;&c_a;&c_l;&c_je;&c_c;
-  </trd>
+  <trd lng="ru">&c_u;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_p;&c_a;&c_l;&c_je;&c_c;</trd>
   <trd lng="sv">pekfinger</trd>
+</drv>
+  
+<drv mrk="fingr.montro0o">
+  <kap>montro<tld/>o</kap>
+  <snc mrk="fingr.montro0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <ref tip="dif" cel="fingr.montra0o">montra <tld/>o</ref>
+    <ekz>
+        atenteme li tiras la ar&ccirc;on, la montro<tld/>o alterne
+        premas la kordon
+        <fnt><aut>&Scirc;tefo URBAN</aut>:
+        <vrk>Mario kaj la papilioj</vrk>.
+        <lok>Nica literatura revuo, 4:6</lok>
+        </fnt>.
+     </ekz>
+    </snc>
+    <trd lng="fr">index</trd>
+</drv>
+
+
+<drv mrk="fingr.ringo0o">
+  <kap>ring<tld/>o</kap>
+  <snc mrk="fingr.ringo0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <ref tip="dif" cel="fingr.ringa0o">ringa <tld/>o</ref>
+    <ekz>
+        &scirc;i atingis la ringo<tld/>on, kiu <klr>...</klr>
+        ornamis sin per ora ringo
+        <fnt><bib>Fab2</bib>, <lok>monteto de elfoj</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="fr">annulaire</trd>
 </drv>
 
 <drv mrk="fingr.ringa0o">
   <kap>ringa <tld/>o</kap>
-  <uzo tip="fak">ANA</uzo>
-  <ref tip="dif" cel="fingr.ringo0o">ringo<tld/>o</ref>
-</drv>
-
-<drv mrk="fingr.ringo0o">
-  <kap>ringo<tld/>o</kap>
-  <snc mrk="fingr.ringo0o.ANA">
+  <snc mrk="fingr.ringa0o.ANA">
     <uzo tip="fak">ANA</uzo>
     <dif>
       Kvara <ref tip="super" cel="fingr.0o.ANA"><tld/>o</ref>,
-      nombrante de la dik<tld/>o:
-      <ekz>
-        &scirc;i atingis la ringo<tld/>on, kiu <klr>...</klr>
-        ornamis sin per ora ringo
-        <fnt><bib>Fab2</bib>, <lok>monteto de elfoj</lok></fnt>.
-      </ekz>
+      nombrante de la dika <tld/>o.
     </dif>
   </snc>
   <trd lng="ca">dit anular</trd>
@@ -452,7 +480,8 @@
     <trd>&a_A;&a_n;&f_g;&a_sh;&a_t; &a_b;&a_kasra;&a_n;&a_S;&a_fatha;&a_r;</trd>
   </trdgrp>
   <trd lng="fr">annulaire<klr tip="ind"> (doigt)</klr></trd>
-  <trd lng="hu">gy&udblac;r&udblac;sujj</trd>  
+  <trd lng="hu">gy&udblac;r&udblac;sujj</trd>
+  <trd lng="id"><ind>jari</ind> manis</trd>  
   <trd lng="it">anulare<klr> (dito)</klr></trd>
   <trd lng="nl">ringvinger</trd>
   <trd lng="pl"><ind>palec</ind> serdeczny</trd>
@@ -492,6 +521,15 @@
 </art>
 <!--
 $Log: fingr.xml,v $
+Revision 1.43  2014/08/27 15:10:09  revo
+Damien Brucker: +trd fr
+
+Revision 1.42  2014/08/27 12:10:09  revo
+Damien Brucker: +fak
+
+Revision 1.41  2014/05/30 17:10:29  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.40  2014/02/08 10:10:22  revo
 Damien Brucker: -eraro cxe ref
 
@@ -505,14 +543,5 @@ Revision 1.37  2012/07/17 09:10:17  revo
 Marc Rausell: ++ trd ca
 
 Revision 1.36  2010/11/10 17:30:47  revo
-Antonio Codazzi: +trd it
-
-Revision 1.35  2010/08/17 16:30:25  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.34  2010/06/10 16:30:28  revo
-Agustin Garcia Lopez: +klr es
-
-Revision 1.33  2008/12/07 07:18:22  revo
 -->
 </vortaro>

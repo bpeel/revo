@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: griz.xml,v 1.23 2013/09/14 09:10:43 revo Exp $">
+<art mrk="$Id: griz.xml,v 1.24 2014/06/02 15:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>griz</rad>/a <fnt><bib>PV</bib></fnt>
@@ -81,6 +81,7 @@
     <trd>sz&uuml;rke</trd>,
     <trd>&odblac;sz</trd>
   </trdgrp>
+  <trd lng="id">abu-abu</trd>
   <trd lng="nl">grijs<klr tip="ind"> (adj.)</klr></trd>
   <trd lng="pl">szary</trd>
   <trdgrp lng="pt">
@@ -125,6 +126,9 @@
 </art>
 <!--
 $Log: griz.xml,v $
+Revision 1.24  2014/06/02 15:10:20  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.23  2013/09/14 09:10:43  revo
 Wolfram Diestel: ref al lst koloroj
 
@@ -144,8 +148,5 @@ Revision 1.18  2005/10/10 16:31:38  revo
 Luiz Portella: +trd pt
 
 Revision 1.17  2004/01/10 17:31:21  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.16  2003/11/13 18:50:44  revo
 -->
 </vortaro>

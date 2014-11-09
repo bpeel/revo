@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: paprik.xml,v 1.18 2013/08/29 13:10:16 revo Exp $">
+<art mrk="$Id: paprik.xml,v 1.19 2014/07/01 17:10:30 revo Exp $">
 <kap><ofc>9</ofc> <rad>paprik</rad>/o <fnt>Z</fnt></kap>
 <drv mrk="paprik.0o">
   <kap><tld/>o</kap>
@@ -34,6 +34,7 @@
     <trd>paprika</trd>
   </trdgrp>
   <trd lng="hu">paprika</trd>
+  <trd lng="id">paprika</trd>
   <trd lng="nl">paprika</trd>
   <trd lng="pl">papryka<klr> (zmielona przyprawa)</klr></trd>
   <trdgrp lng="pt">
@@ -49,6 +50,9 @@
 </art>
 <!--
 $Log: paprik.xml,v $
+Revision 1.19  2014/07/01 17:10:30  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.18  2013/08/29 13:10:16  revo
 Wolfram Diestel: referenco al listo spicoj
 
@@ -67,9 +71,6 @@ Tulio Flores: +trd pt
 
 Revision 1.13  2003/07/15 16:31:05  revo
 Dmitri Gabinski: +trd be
-
-Revision 1.12  2002/09/12 16:33:07  revo
-Wolfram Diestel: ref al spico
 
 -->
 </vortaro>

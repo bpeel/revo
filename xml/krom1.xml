@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: krom1.xml,v 1.27 2014/01/30 12:10:30 revo Exp $">
+  <art mrk="$Id: krom1.xml,v 1.28 2014/06/03 10:10:21 revo Exp $">
     <kap>
       <rad>krom</rad>/o<fnt>Z</fnt>,
       <var>
@@ -50,6 +50,7 @@
       <trd lng="es">cromo</trd> 
       <trd lng="fr">chrome</trd>
       <trd lng="hu">kr&oacute;m</trd>
+      <trd lng="id">kromium</trd>
       <trd lng="it">cromo</trd>
       <trd lng="la">Chromium</trd>
       <trd lng="nl">chroom</trd>
@@ -79,6 +80,7 @@
       </snc>
       <ref tip="hom" cel="krom.0a">kroma</ref>
       <trd lng="en">chromic</trd>
+      <trd lng="id">kromat</trd>
       <trd lng="ru">&c_h;&c_r;&c_o;&c_m;&c_o;&c_v;&c_y;&c_j;</trd>
     </drv>
 
@@ -125,6 +127,9 @@
   </art>
   <!--
   $Log: krom1.xml,v $
+  Revision 1.28  2014/06/03 10:10:21  revo
+  Eko Nur Syah Hidayat: +id
+
   Revision 1.27  2014/01/30 12:10:30  revo
   Joop Eggen: +trd bg
 

@@ -2,13 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skulptur.xml,v 1.4 2009/07/07 16:31:18 revo Exp $">
+<art mrk="$Id: skulptur.xml,v 1.5 2014/06/17 16:10:15 revo Exp $">
 <kap>
   <rad>skulptur</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="skulptur.0o">
   <kap><tld/>o</kap>
   <uzo tip="stl">ARK</uzo>
+  <uzo tip="fak">BELA</uzo>
   <snc mrk="skulptur.0o.skulptarto">
     <ref tip="dif" cel="art.skulpt0o.BELA">skulptarto</ref>
     <ekz>
@@ -33,10 +34,14 @@
     beeldhouwwerk)</klr></trd>
   </snc>
   <trd lng="de">Skulptur</trd>
+  <trd lng="fr">sculpture</trd>
   </drv>
 </art>
 <!--
 $Log: skulptur.xml,v $
+Revision 1.5  2014/06/17 16:10:15  revo
+Damien Brucker: +trd fr
+
 Revision 1.4  2009/07/07 16:31:18  revo
 Paul Peeraerts: +trd nl
 

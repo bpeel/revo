@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-   <art mrk="$Id: uzbek.xml,v 1.13 2014/01/24 15:10:12 revo Exp $">
+   <art mrk="$Id: uzbek.xml,v 1.14 2014/06/04 04:10:30 revo Exp $">
      <kap>
        <rad>uzbek</rad>/o
      </kap>
@@ -45,6 +45,7 @@
        <trd lng="fi">uzbekki</trd>
        <trd lng="fr">Ouzbek<klr> (subst.)</klr></trd>
        <trd lng="hu">&uuml;zb&eacute;g</trd>
+       <trd lng="id">Uzbek</trd>
        <trdgrp lng="it">
        <trd>usbeco<klr> (sost.)</klr></trd>, 
        <trd>uzbeko<klr> (sost.)</klr></trd>
@@ -88,6 +89,7 @@
        <trd lng="fi">Uzbekistan</trd>
        <trd lng="fr">Ouzb&eacute;kistan</trd>
        <trd lng="hu">&Uuml;zbegiszt&aacute;n</trd>
+       <trd lng="id">Uzbekistan</trd>
        <trd lng="it">Uzbekistan</trd>
        <trd lng="pl">Uzbekistan</trd>
        <trd lng="pt">Uzbequist&atilde;o</trd>
@@ -98,6 +100,9 @@
 
    <!--
    $Log: uzbek.xml,v $
+   Revision 1.14  2014/06/04 04:10:30  revo
+   Eko Nur Syah Hidayat: +id
+
    Revision 1.13  2014/01/24 15:10:12  revo
    Damien Brucker: +trd fr
 

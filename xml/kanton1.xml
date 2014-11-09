@@ -2,16 +2,17 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kanton1.xml,v 1.10 2012/07/14 13:10:21 revo Exp $">
+<art mrk="$Id: kanton1.xml,v 1.11 2014/10/16 20:10:31 revo Exp $">
 <kap>
-  <rad>kantonment</rad>/o
+  <rad>kantonment</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="kanton1.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">MIL</uzo>
-  <snc>
+  <snc mrk="kanton1.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
     <dif>
-      Domhava loko, kie trupoj instali&gcirc;as por iome restadi.
+      Domhava loko, kie trupoj instali&gcirc;as por iome restadi;
+      <ref tip="sin" cel="kvartir.0o.MIL">kvartiro</ref>.
     </dif>
     <refgrp tip="vid">
       <ref cel="kamp">kampadejo</ref>.
@@ -37,7 +38,7 @@
 <drv mrk="kanton1.0i">
   <kap><tld/>i</kap>
   <gra><vspec>ntr</vspec></gra>
-  <snc>
+  <snc mrk="kanton1.0i.MIL">
     <dif>
       Restadi <tld/>e.
     </dif>
@@ -63,6 +64,9 @@
 </art>
 <!--
 $Log: kanton1.xml,v $
+Revision 1.11  2014/10/16 20:10:31  revo
+Jeromo Vasxe: + mrk + ref sin
+
 Revision 1.10  2012/07/14 13:10:21  revo
 Marc Rausell: + trd ca
 
@@ -82,7 +86,5 @@ Revision 1.5 2001/09/07 09:53:57 revo
 Yury Finkel: +trd ru
 
 Revision 1.4 2001/03/16 07:34:42 revo
-Paul Peeraerts: ald trd nl
-
 -->
 </vortaro>

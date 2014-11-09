@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pavilo.xml,v 1.10 2009/03/01 17:33:15 revo Exp $">
+<art mrk="$Id: pavilo.xml,v 1.11 2014/06/30 16:10:34 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>pavilon</rad>/o
   <fnt>Z</fnt>
@@ -41,11 +41,15 @@
   <trd lng="de">Pavillon</trd>
   <trd lng="en">pavilion</trd>
   <trd lng="fr">pavillon</trd>
+  <trd lng="id">paviliun</trd>
   <trd lng="nl">paviljoen</trd>
 </drv>
 </art>
 <!--
 $Log: pavilo.xml,v $
+Revision 1.11  2014/06/30 16:10:34  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.10  2009/03/01 17:33:15  revo
 Russ Williams: +trd en 9OA
 
@@ -65,7 +69,5 @@ Revision 1.5 2001/08/22 18:14:43 revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.4 2001/07/10 18:11:29 revo
-Dennis Wibrow: +trd germ
-
 -->
 </vortaro>

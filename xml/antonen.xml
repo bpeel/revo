@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: antonen.xml,v 1.2 2014/07/22 20:10:11 revo Exp $">
+    <kap>
+      <rad>Antonen</rad>/o <fnt><bib>PIV1</bib></fnt>
+    </kap>
+
+    <drv mrk="antonen.0o">
+      <kap><tld/>o</kap>
+      <snc>
+        <uzo tip="fak">NOM</uzo>
+        <dif>
+          Vira anta&ubreve;nomo latindevena.
+        </dif>
+      </snc>
+      <ref tip="vid" cel="anton.0ino">Antonino</ref>
+      <trd lng="fr">Antonin</trd>
+      <trd lng="ru">&c_A;&c_n;&c_t;&c_o;&c_n;&c_i;&c_n;</trd>
+    </drv>
+
+    <drv mrk="antonen.0oj.HIS">
+      <kap><tld/>oj</kap>
+      <snc>
+        <uzo tip="fak">HIS</uzo>
+        <dif>
+          Genra nomo de la dinastio de 7 imperiestroj de Romio, kiuj
+          regis ekde la jaro 96&#170; p.K. &gcirc;is la 192&#170;.
+        </dif>
+      </snc>
+      <trd lng="fr">Antonins</trd>
+      <trd lng="ru">&c_A;&c_n;&c_t;&c_o;&c_n;&c_i;&c_n;&c_y;</trd>
+    </drv>
+
+  </art>
+
+<!--
+$Log: antonen.xml,v $
+Revision 1.2  2014/07/22 20:10:11  revo
+Damien Brucker: +trd fr
+
+Revision 1.1  2014/07/20 16:10:11  revo
+Sergio Pokrovskij: nova artikolo
+
+-->
+</vortaro>

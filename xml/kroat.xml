@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kroat.xml,v 1.8 2013/12/16 17:10:14 revo Exp $">
+<art mrk="$Id: kroat.xml,v 1.9 2014/06/14 03:10:23 revo Exp $">
 <kap>
   <rad>kroat</rad>/o
   <ofc>*</ofc>
@@ -41,6 +41,7 @@
     <trd lng="de">Kroatien</trd>
     <trd lng="en">Croatia</trd>
     <trd lng="fr">Croatie</trd>
+    <trd lng="id">Kroasia</trd>
     <trd lng="nl">Kroati&euml;</trd>
     <trdgrp lng="pl">
       <trd>Chorwacja</trd>,
@@ -53,6 +54,9 @@
 
 <!--
 $Log: kroat.xml,v $
+Revision 1.9  2014/06/14 03:10:23  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.8  2013/12/16 17:10:14  revo
 Damien Brucker: +trd fr
 
@@ -72,8 +76,5 @@ Revision 1.3  2009/09/15 16:31:31  revo
 Paul Peeraerts: +nl
 
 Revision 1.2  2009/05/27 16:30:34  revo
-Wieland Pusch: +trd bg+de+en
-
-Revision 1.1  2009/05/20 16:30:41  revo
 -->
 </vortaro>

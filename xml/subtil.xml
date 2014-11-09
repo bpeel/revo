@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: subtil.xml,v 1.12 2014/04/16 10:10:11 revo Exp $">
+<art mrk="$Id: subtil.xml,v 1.14 2014/08/31 01:10:10 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>subtil</rad>/a
@@ -78,8 +78,11 @@
     <trd lng="ca">t&egrave;nue</trd>
     <trd lng="ru">&c_t;&c_o;&c_n;&c_k;&c_i;&c_j;</trd>
   </snc>
+  <trd lng="bg">&c_k;&c_o;&c_v;&c_a;&c_r;&c_je;&c_n;</trd>
   <trd lng="ca">subtil</trd>
   <trd lng="de">subtil</trd>
+  <trd lng="en">subtle</trd>
+  <trd lng="es">sutil</trd>
   <trd lng="fr">subtil</trd>
   <trdgrp lng="hu">
     <trd>finom</trd>,
@@ -94,6 +97,12 @@
 </art>
 <!--
 $Log: subtil.xml,v $
+Revision 1.14  2014/08/31 01:10:10  revo
+Carlos Garcia: +trd es -a
+
+Revision 1.13  2014/06/09 14:10:23  revo
+Joop Eggen: +trd bg en
+
 Revision 1.12  2014/04/16 10:10:11  revo
 Damien Brucker: +trd fr
 
@@ -110,11 +119,5 @@ Revision 1.8  2002/02/28 19:44:18  revo
 Yury Finkel: forigis superfluan komon en trd ru
 
 Revision 1..7  2002/02/27 18:00:42  revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/08/03 18:12:40 revo
-Dennis Wibrow: +trd germ
-
-Revision 1.5 2001/02/17 20:33:15 revo
 -->
 </vortaro>

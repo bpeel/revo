@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: helik.xml,v 1.35 2013/09/01 15:10:41 revo Exp $">
+<art mrk="$Id: helik.xml,v 1.36 2014/06/29 16:10:15 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>helik</rad>/o
@@ -29,6 +29,11 @@
     <trd lng="es">caracol</trd>
     <trd lng="fr">escargot</trd>
     <trd lng="hu">h&aacute;zas <ind>csiga</ind></trd>
+    <trdgrp lng="id">
+      <trd>bekicot</trd>,
+      <trd>keong</trd>,
+      <trd>siput</trd>
+    </trdgrp>
     <trdgrp lng="nl">
       <trd>slak<klr tip="ind"> (huisjes-)</klr></trd>,
       <trd>huisjesslak</trd>
@@ -71,6 +76,10 @@
     <trd lng="fr">arobace</trd>
     <trd lng="he">"<ind>&shin;&tet;&resh;&vav;&dalet;&lamed;</ind>"</trd>
     <trd lng="hu">kukac</trd>
+    <trdgrp lng="id">
+      <trd>"<ind>a</ind>" keong</trd>,
+      <trd><ind>tanda</ind> at</trd>
+    </trdgrp>
     <trd lng="nl">apenstaart</trd>
     <trdgrp lng="pl">
       <trd>ma&lstroke;pa</trd>,
@@ -91,6 +100,9 @@
 </art>
 <!--
 $Log: helik.xml,v $
+Revision 1.36  2014/06/29 16:10:15  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.35  2013/09/01 15:10:41  revo
 Wolfram Diestel: referenco al listo zoo genroj
 
@@ -109,9 +121,6 @@ Wieland Pusch: +trd bg
 
 Revision 1.30  2005/10/15 16:31:44  revo
 Luiz Portella: +trd pt
-
-Revision 1.29  2005/06/27 19:21:41  revo
-Alan ar Gall: kor tajperaron en trd br
 
 -->
 </vortaro>

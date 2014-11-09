@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gips.xml,v 1.19 2012/08/02 09:10:56 revo Exp $">
+<art mrk="$Id: gips.xml,v 1.20 2014/09/02 11:10:15 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>gips</rad>/o</kap>
 <drv mrk="gips.0o">
@@ -89,6 +89,7 @@
       </ekz>
     </dif>
     <trd lng="de">kalken</trd>
+    <trd lng="fr">chauler</trd>
     <trd lng="hu">meszez</trd>
     <trd lng="nl">gips toevoegen</trd>
     <trd lng="ru">&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>    
@@ -98,6 +99,9 @@
 </art>
 <!--
 $Log: gips.xml,v $
+Revision 1.20  2014/09/02 11:10:15  revo
+Damien Brucker: +trd fr
+
 Revision 1.19  2012/08/02 09:10:56  revo
 Marc Rausell: + trd ca
 
@@ -117,8 +121,5 @@ Revision 1.14  2009/03/01 17:35:23  revo
 Russ Williams: +trd en
 
 Revision 1.13  2005/08/29 16:32:32  revo
-Yury Finkel: +trd ru
-
-Revision 1.12  2005/08/19 19:14:49  revo
 -->
 </vortaro>

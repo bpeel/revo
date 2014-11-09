@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bagate.xml,v 1.29 2013/12/08 15:10:18 revo Exp $">
+<art mrk="$Id: bagate.xml,v 1.31 2014/08/10 17:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bagatel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -60,6 +60,10 @@
     <trd>csek&eacute;lys&eacute;g</trd>,
     <trd>semmis&eacute;g</trd>,
     <trd>bagatell dolog</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>tetek</ind> bengek</trd>,
+    <trd>trivia</trd>
   </trdgrp>
   <trdgrp lng="it">
     <trd>sciocchezza<klr> (cosa da poco)</klr></trd>,
@@ -134,6 +138,10 @@
     <trd>trivial</trd>,
     <trd>marginal</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>intrascendente</trd>,
+    <trd>insignificante</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>insignifiant</trd>,
     <trd>futile<klr> (insignifiant)</klr></trd>
@@ -141,6 +149,10 @@
   <trdgrp lng="hu">
     <trd>bagatell</trd>,
     <trd>jelent&eacute;ktelen</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>remeh</trd>,
+    <trd>trivial</trd>
   </trdgrp>
   <trdgrp lng="it">
     <trd>banale</trd>,
@@ -317,6 +329,12 @@
 <!--
 
 $Log: bagate.xml,v $
+Revision 1.31  2014/08/10 17:10:16  revo
+Carlos Garcia: +trd es -o post-o
+
+Revision 1.30  2014/07/29 07:10:30  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.29  2013/12/08 15:10:18  revo
 Andreo Jankovskij: ukrajna
 
@@ -333,12 +351,6 @@ Revision 1.25  2009/03/06 17:30:38  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.24  2008/09/20 07:22:03  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.23  2008/08/31 16:30:23  revo
-Jeromo Vasxe: novaj ekz, + kk ref
-
-Revision 1.22  2006/08/02 16:32:03  revo
 -->
 
 </vortaro>

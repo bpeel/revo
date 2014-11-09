@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: uj.xml,v 1.24 2014/02/17 13:10:20 revo Exp $">
+<art mrk="$Id: uj.xml,v 1.25 2014/05/08 18:10:58 revo Exp $">
 <kap>
     <ofc>*</ofc>
     -<rad>uj</rad>/ <fnt><bib>PV</bib></fnt>
@@ -206,7 +206,7 @@ johdin)</klr></trd>
         de E&ubreve;ropo (krom: Irlando, Islando, Holando, Nederlando,
         Gronlando, Burgenlando), de Azio (krom: Nov-Zelando) kaj de
         Afriko
-        (krom: Togolando, Orienta kaj Okcidenta Kablando). Tial apud
+        (krom: Togolando, Kablando). Tial apud
         <ekz>
           Egipto<fnt>B</fnt> <klr>(lando de egiptanoj)</klr>
         </ekz>
@@ -227,8 +227,12 @@ johdin)</klr></trd>
       <snc mrk="uj.0o.KOMUNE">
         <dif>
           Vazo, kesto a&ubreve; ajnaforma a&jcirc;o, kiu entenas
-          tutajn objektojn.
+          tutajn objektojn:
         </dif>
+        <ekz>
+        <tld/>o estas vazo a&ubreve; kesto a&ubreve; io simila, kiu entenas la tuton,
+        kaj ingo entenas nur parton<fnt><bib>LR</bib></fnt>.
+        </ekz>
       </snc>
       <trd lng="en">container</trd>
       <trd lng="es">contenedor</trd>
@@ -273,6 +277,9 @@ johdin)</klr></trd>
 </art>
 <!--
 $Log: uj.xml,v $
+Revision 1.25  2014/05/08 18:10:58  revo
+Damien Brucker: +ekz cxe ~o
+
 Revision 1.24  2014/02/17 13:10:20  revo
 Damien Brucker: +ekz
 
@@ -292,8 +299,5 @@ Revision 1.19  2007/06/19 16:30:34  revo
 Harri Laine: +trd fi
 
 Revision 1.18  2007/01/07 17:31:00  revo
-Jeromo Vasxe: + mrk + trd fr
-
-Revision 1.17 2006/02/02 17:31:44 revo
 -->
 </vortaro>

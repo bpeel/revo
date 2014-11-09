@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mi.xml,v 1.28 2012/11/09 06:10:14 revo Exp $">
+<art mrk="$Id: mi.xml,v 1.29 2014/06/07 15:10:16 revo Exp $">
 <kap>
    <ofc>*</ofc> <rad>mi</rad> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -39,6 +39,10 @@
    <trd lng="he">&alef;&nun;&yod;</trd>
    <trd lng="hu">&eacute;n</trd>
    <trd lng="ia">io</trd>
+   <trdgrp lng="id">
+     <trd>aku</trd>,
+     <trd>saya</trd>
+   </trdgrp>
    <trd lng="it">io</trd>
    <trd lng="hr">ja</trd>
    <trd lng="ku">ez</trd>
@@ -72,6 +76,10 @@ al mi&rightquot;.
      <trd>minun ... -ni</trd>,
      <trd>-<ind>ni</ind></trd>
    </trdgrp>
+   <trdgrp lng="id">
+     <trd><ind>milik</ind>ku</trd>,
+     <trd><ind>milik</ind> saya</trd>
+   </trdgrp>
    <trd lng="la">meus</trd>
    <trd lng="pl">m&oacute;j</trd>
    <trd lng="tp">mi</trd>
@@ -85,6 +93,9 @@ al mi&rightquot;.
 </art>
 <!--
 $Log: mi.xml,v $
+Revision 1.29  2014/06/07 15:10:16  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.28  2012/11/09 06:10:14  revo
 Valentin Safonnikov: +trd ru
 
@@ -104,8 +115,5 @@ Revision 1.23  2007/03/08 17:30:38  revo
 Jeromo Vasxe: kor lng kr -> hr
 
 Revision 1.22  2007/01/07 17:31:03  revo
-Russ Williams: "mia" +trd en la pl tp
-
-Revision 1.21  2006/11/10 17:30:21  revo
 -->
 </vortaro>

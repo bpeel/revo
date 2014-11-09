@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: majuskl.xml,v 1.13 2013/12/29 13:10:12 revo Exp $">
+<art mrk="$Id: majuskl.xml,v 1.15 2014/07/07 07:10:11 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>majuskl</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -34,6 +34,7 @@
       ekzemple, la <ctl>Enciklopedio de Esperanto</ctl>.
     </rim>
   </snc>
+  <ref tip="ant" cel="minuskl.0a">minuskla</ref>
   <trdgrp lng="be">
     <trd>&c_m;&c_a;&c_ju;&c_s;&c_k;&c_u;&c_l;&c_mol;&c_n;&c_y; <klr tip="amb">(&c_s;&c_p;&c_o;&c_s;&c_a;&c_b;
     &c_p;&c_ib;&c_s;&c_mol;&c_m;&c_a;)</klr></trd>,
@@ -70,8 +71,13 @@
     <uzo tip="fak">TIP</uzo>
     <uzo tip="fak">KOMP</uzo>
     <ref tip="dif" cel="liter.granda0o">Granda litero</ref>
-  </snc>
+    <ekz>
+    &ccirc;iuj elementoj estas en la Akademia Vortaro baze listigataj en
+    ne&ubreve;trala tut<tld/>a formo<fnt>AdE</fnt>.
+    </ekz>
   <ref tip="sin" cel="liter.granda0o">&ccirc;eflitero</ref>
+  </snc>
+  <ref tip="ant" cel="minuskl.0o">minusklo</ref>
   <trd lng="be">&c_v;&c_ja;&c_l;&c_ib;&c_k;&c_a;&c_ja; <ind>&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;</ind></trd>
   <trd lng="ca">maj&uacute;scula</trd>
   <trdgrp lng="de">
@@ -97,6 +103,12 @@
 </art>
 <!--
 $Log: majuskl.xml,v $
+Revision 1.15  2014/07/07 07:10:11  revo
+Damien Brucker: +ref (dauxrigo)
+
+Revision 1.14  2014/06/28 15:10:18  revo
+Damien Brucker: +ekz
+
 Revision 1.13  2013/12/29 13:10:12  revo
 Damien Brucker: +ref
 
@@ -113,11 +125,5 @@ Revision 1.9  2006/01/12 21:52:44  revo
 Raul Salinas Monteagudo: +trd es
 
 Revision 1.8  2004/08/18 16:32:07  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.7  2004/02/26 17:30:54  revo
-Jeromo Vasxe: + fnt spv
-
-Revision 1.6 2003/08/22 16:31:52 revo
 -->
 </vortaro>

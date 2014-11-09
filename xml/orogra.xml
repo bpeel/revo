@@ -2,11 +2,12 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: orogra.xml,v 1.12 2012/01/02 18:10:33 revo Exp $">
+<art mrk="$Id: orogra.xml,v 1.13 2014/10/08 11:10:31 revo Exp $">
 <kap><ofc>2</ofc> <rad>orografi</rad>/o</kap>
 <drv mrk="orogra.0o">
   <kap><tld/>o</kap>
   <snc>
+  <uzo tip="fak">GEOG</uzo>
     <dif>
       Geografia priskribo de montoj.
     </dif>
@@ -19,6 +20,7 @@
   </trdgrp>
   <trd lng="el">&omikron;&rho;&epsilon;&omikron;&gamma;&rho;&alfa;&phi;&jota_ton;&alfa;</trd>
   <trd lng="en">orography</trd>
+  <trd lng="fr">orographie</trd>
   <trdgrp lng="hu">
     <trd>hegyrajz</trd>,
     <trd>orogr&aacute;fia</trd>
@@ -33,6 +35,9 @@
 </art>
 <!--
 $Log: orogra.xml,v $
+Revision 1.13  2014/10/08 11:10:31  revo
+Damien Brucker: +trd fr
+
 Revision 1.12  2012/01/02 18:10:33  revo
 Marc Rausell: +trd ca
 
@@ -52,8 +57,5 @@ Revision 1.7  2001/12/06 16:18:20  revo
 Yury Finkel: +trd ru
 
 Revision 1.6 2001/11/19 17:34:55 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.5 2001/03/29 16:17:59 revo
 -->
 </vortaro>

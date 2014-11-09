@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stri.xml,v 1.25 2010/01/02 17:31:03 revo Exp $">
+<art mrk="$Id: stri.xml,v 1.26 2014/08/15 08:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>stri</rad>/o <fnt><bib>PV</bib></fnt>
@@ -210,6 +210,7 @@
     <trd>molding</trd>,
     <trd>moulding</trd>
   </trdgrp>
+  <trd lng="es">moldura</trd>
   <trdgrp lng="fr">
     <trd>moulure</trd>
   </trdgrp>
@@ -227,6 +228,9 @@
 </art>
 <!--
 $Log: stri.xml,v $
+Revision 1.26  2014/08/15 08:10:11  revo
+Carlos Garcia: +trd es relief-o
+
 Revision 1.25  2010/01/02 17:31:03  revo
 Wieland Pusch: +trd bg+de
 
@@ -246,8 +250,5 @@ Revision 1.20  2005/03/10 18:10:57  revo
 Yury Finkel: +trd ru
 
 Revision 1.19  2004/11/03 17:31:24  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.18  2004/07/21 20:45:01  revo
 -->
 </vortaro>

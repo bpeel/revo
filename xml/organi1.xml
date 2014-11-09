@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: organi1.xml,v 1.15 2010/06/17 16:30:58 revo Exp $">
+  <art mrk="$Id: organi1.xml,v 1.16 2014/06/06 07:10:15 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>organism</rad>/o
@@ -10,6 +10,7 @@
     <drv mrk="organi1.0o">
       <kap><tld/>o</kap>
       <snc>
+      <uzo tip="fak">BIO</uzo>
 	<tezrad fak="BIO"/>
         <dif>
           Tuto de la <ref tip="prt" cel="organ.0o.BIO">organo</ref>j,
@@ -28,6 +29,7 @@
       <trd lng="el">&omikron;&rho;&gamma;&alfa;&ny;&jota;&sigma;&my;&omikron_ton;&sigma_fina;</trd>
       <trd lng="en">organism</trd>
       <trd lng="es">organismo</trd>
+      <trd lng="fr">organisme</trd>
       <trdgrp lng="hu">
         <trd>szervezet</trd>,
         <trd>organizmus</trd>
@@ -51,6 +53,7 @@
         </dif>
       </snc>
       <trd lng="es">org&aacute;nico</trd>
+      <trd lng="fr">organique</trd>
       <trdgrp lng="hu">
         <trd>szervezeti</trd>,
         <trd>organikus</trd>
@@ -61,6 +64,9 @@
   </art>
   <!--
   $Log: organi1.xml,v $
+  Revision 1.16  2014/06/06 07:10:15  revo
+  Damien Brucker: +trd fr
+
   Revision 1.15  2010/06/17 16:30:58  revo
   Agustin Garcia Lopez: +trd es
 

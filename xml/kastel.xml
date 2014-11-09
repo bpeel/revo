@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kastel.xml,v 1.19 2011/05/11 12:10:12 revo Exp $">
+<art mrk="$Id: kastel.xml,v 1.21 2014/09/16 09:10:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kastel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -28,6 +28,7 @@
       <trd>v&aacute;rkast&eacute;ly</trd>,
       <trd>v&aacute;r</trd>
     </trdgrp>
+    <trd lng="pl">zamek</trd>
   </snc>
   <snc mrk="kastel.0o.palaco">
     <dif>
@@ -57,6 +58,7 @@
   <trd lng="be">&c_z;&c_a;&c_m;&c_a;&c_k;</trd>      
   <trd lng="br">kastell</trd>
   <trd lng="cs">hrad</trd>
+  <trd lng="es">castillo</trd>
   <trdgrp lng="fr">
     <trd>ch&acirc;teau</trd>,
     <trd>manoir</trd>
@@ -100,11 +102,18 @@
     <trd lng="fr">ch&acirc;teau en Espagne</trd>
     <trd lng="it">castello in aria</trd>
     <trd lng="nl">luchtkastel</trd>
+    <trd lng="pl">zamek na piasku</trd>
   </snc>
 </drv>
 </art>
 <!--
 $Log: kastel.xml,v $
+Revision 1.21  2014/09/16 09:10:29  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2014/09/06 17:10:12  revo
+Agustin Garcia Lopez: +trd(es)
+
 Revision 1.19  2011/05/11 12:10:12  revo
 Jeromo Vasxe: + aer~o
 
@@ -121,11 +130,5 @@ Revision 1.15  2004/12/05 17:33:39  revo
 Marc Bavant: +trd fr
 
 Revision 1.14  2004/03/12 17:31:30  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.13  2004/03/01 17:31:26  revo
-Jeromo Vasxe: + tez, + 1 ekz, + trd fr
-
-Revision 1.12 2002/10/26 16:31:06 revo
 -->
 </vortaro>

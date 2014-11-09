@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fer.xml,v 1.33 2014/01/30 16:10:35 revo Exp $">
+<art mrk="$Id: fer.xml,v 1.34 2014/06/03 10:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fer</rad>/o
@@ -51,6 +51,7 @@
   <trd lng="es">hierro</trd>
   <trd lng="fr">fer<klr tip="ind"> (m&eacute;tal)</klr></trd>
   <trd lng="hu">vas</trd>
+  <trd lng="id">besi</trd>
   <trd lng="it">ferro</trd>
   <trd lng="nl">ijzer</trd>
   <trd lng="pl">&zdot;elazo</trd>
@@ -252,6 +253,9 @@
 </art>
 <!--
 $Log: fer.xml,v $
+Revision 1.34  2014/06/03 10:10:23  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.33  2014/01/30 16:10:35  revo
 Joop Eggen: +trd bg
 
@@ -271,8 +275,5 @@ Revision 1.28  2007/06/27 16:30:56  revo
 Wieland Pusch: +trd de
 
 Revision 1.27  2006/05/12 16:31:04  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.26  2006/03/13 17:32:09  revo
 -->
 </vortaro>

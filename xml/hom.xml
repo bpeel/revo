@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: hom.xml,v 1.47 2013/10/29 19:10:17 revo Exp $">
+  <art mrk="$Id: hom.xml,v 1.50 2014/07/01 12:10:16 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>hom</rad>/o <fnt><bib>PV</bib></fnt>
@@ -35,7 +35,16 @@
             <trd lng="sk">&lcaron;udia</trd>
           </ekz><ekz>
             &ccirc;iu <tld/>o amas sin mem
-            <fnt><bib>F</bib>, <lok>&FE; 18</lok></fnt>.
+            <fnt><bib>F</bib>, <lok>&FE; 18</lok></fnt>;
+          </ekz>
+          <ekz>
+          la <tld/>oj ne komprenas unu la alian kaj tial ili tenas sin
+          fremde unu kontra&ubreve; la alia<fnt><aut>&Z;</aut>:
+          <vrk>El la unua libro de la lingvo Esperanto.</vrk></fnt>;
+          </ekz>
+          <ekz>
+          la pronomon "li" ni povas uzi por <tld/>o en &ccirc;iu okazo, kiam
+          la sekso estas por ni indiferanta<fnt><bib>LR</bib></fnt>.
           </ekz>
         </dif>
         <ref tip="vid" cel="vir.0o">viro</ref>
@@ -75,6 +84,7 @@
           <ind>&alef;&nun;&vav;&shin;</ind></trd>
       </trdgrp>
       <trd lng="hu">ember</trd>
+      <trd lng="id">manusia</trd>
       <trd lng="it">uomo</trd>
       <trd lng="ja">&#20154; [<ind>&#12402;&#12392;</ind>]</trd>
       <trd lng="nl">mens</trd>
@@ -504,6 +514,7 @@
       <trd lng="en">snowman</trd>
       <trd lng="fr">bonhomme de neige</trd>
       <trd lng="it"><ind>pupazzo</ind> di neve</trd>
+      <trd lng="id">manusia salju</trd>
     </drv>
 
     <drv mrk="hom.pajlo0o">
@@ -570,6 +581,7 @@
         <trd>Urmensch</trd>
       </trdgrp>
       <trd lng="fr">homme pr&eacute;historique</trd>
+      <trd lng="id">manusia purba</trd>
       <trd lng="it"><ind>uomo</ind> preistorico</trd>
       <trdgrp lng="pl">
         <trd>pracz&lstroke;owiek</trd>,
@@ -800,6 +812,15 @@
   </art>
   <!--
   $Log: hom.xml,v $
+  Revision 1.50  2014/07/01 12:10:16  revo
+  Damien Brucker: +ekz
+
+  Revision 1.49  2014/05/29 08:10:19  revo
+  Eko Nur Syah Hidayat: +id
+
+  Revision 1.48  2014/05/08 18:11:12  revo
+  Damien Brucker: +ekz
+
   Revision 1.47  2013/10/29 19:10:17  revo
   Wolfram Diestel: kor. ref-cel
 

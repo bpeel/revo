@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: diant.xml,v 1.18 2013/08/27 07:10:24 revo Exp $">
+<art mrk="$Id: diant.xml,v 1.19 2014/04/25 01:10:20 revo Exp $">
 <kap>
 <ofc>2</ofc>
 <rad>diant</rad>/o
@@ -41,6 +41,7 @@
     <trd>carnation</trd>,
     <trd>pink</trd>
   </trdgrp>
+  <trd lng="es">clavel</trd>
   <trd lng="fr">&oelig;illet<klr tip="ind"> (plante)</klr></trd>
   <trd lng="hu">szegf&udblac;</trd>
   <trdgrp lng="nl">
@@ -54,6 +55,9 @@
 </art>
 <!--
 $Log: diant.xml,v $
+Revision 1.19  2014/04/25 01:10:20  revo
+Agustin Garcia Lopez: +trd(es)
+
 Revision 1.18  2013/08/27 07:10:24  revo
 Wolfram Diestel: referenco al listo bot genroj
 
@@ -73,8 +77,5 @@ Revision 1.13  2002/03/26 17:31:20  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.12  2001/05/27 18:18:34  revo
-Paul Peeraerts: ald trd nl + pl
-
-Revision 1.11  2001/05/08 17:53:22  revo
 -->
 </vortaro>

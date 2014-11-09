@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: ink.xml,v 1.19 2011/10/14 14:10:09 revo Exp $">
+  <art mrk="$Id: ink.xml,v 1.20 2014/06/09 16:10:24 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>ink</rad>/o
@@ -32,6 +32,7 @@
       <trd lng="en">ink</trd>
       <trd lng="es">tinta</trd>
       <trd lng="hu">tinta</trd>
+      <trd lng="id">tinta</trd>
       <trd lng="nl">inkt</trd>
       <trd lng="fr">encre</trd>
       <trd lng="pl">atrament</trd>
@@ -98,6 +99,7 @@
         <trd>carbon ink</trd>,
         <trd>Chinese ink</trd>
       </trdgrp>
+      <trd lng="id"><ind>tinta</ind> Cina</trd>
     </drv>
 
     <drv mrk="ink.cxina0o">
@@ -117,12 +119,16 @@
       <trd lng="es">Tinta china</trd>
       <trd lng="fr">encre de Chine</trd>
       <trd lng="hu">tus</trd>
+      <trd lng="id"><ind>tinta</ind> Cina</trd>
       <trd lng="pt">tinta nanquim</trd>
       <trd lng="ru">&c_t;&c_u;&c_sh;&c_mol;</trd>
     </drv>
   </art>
   <!--
   $Log: ink.xml,v $
+  Revision 1.20  2014/06/09 16:10:24  revo
+  Eko Nur Syah Hidayat: +id
+
   Revision 1.19  2011/10/14 14:10:09  revo
   Russ Williams: +trd en
 

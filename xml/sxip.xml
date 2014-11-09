@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxip.xml,v 1.53 2013/12/02 15:10:31 revo Exp $">
+<art mrk="$Id: sxip.xml,v 1.55 2014/08/05 15:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;ip</rad>/o <fnt><bib>PV</bib></fnt>
@@ -42,13 +42,18 @@
   <trd lng="cs">lo&dcaron;</trd>
   <trd lng="de">Schiff</trd>
   <trd lng="en">ship</trd>
-  <trd lng="es">barco</trd>
+  <trdgrp lng="es">
+    <trd>barco</trd>,
+    <trd>embarcaci&oacute;n</trd>,
+    <trd>nav&iacute;o</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>bateau</trd>,
     <trd>embarcation</trd>,
     <trd>navire</trd>
   </trdgrp>
   <trd lng="hu">haj&oacute;</trd>
+  <trd lng="id">kapal</trd>
   <trd lng="it">nave</trd>
   <trd lng="ku">ke&scedil;t&icirc;</trd>
   <trd lng="nl">schip</trd>
@@ -84,6 +89,7 @@
     </trdgrp>
     <trd lng="es">navegar</trd>
     <trd lng="hu">haj&oacute;zik</trd>
+    <trd lng="id">[<ind>layar</ind>] berlayar</trd>
     <trd lng="it">navigare</trd>
     <trdgrp lng="pl">
       <trd>p&lstroke;yn&aogonek;&cacute; <ind>statkiem</ind></trd>,
@@ -102,6 +108,7 @@
       </ekz>
     </dif>
     <trd lng="en">ship</trd>
+    <trd lng="es">transportar en barco</trd>
     <trdgrp lng="fr">
       <trd>convoyer<klr tip="ind"> (par eau)</klr></trd>
     </trdgrp>
@@ -150,10 +157,20 @@
     <trd>Seemann</trd>
   </trdgrp>
   <trd lng="en">sailor</trd>
+  <trdgrp lng="es">
+    <trd>navegante</trd>,
+    <trd>tripulante</trd>,
+    <trd>marinero</trd>
+  </trdgrp>
   <trd lng="fr">navigateur<klr> (subst.)</klr></trd>
   <trdgrp lng="hu">
     <trd>matr&oacute;z</trd>,
     <trd>tenger&eacute;sz</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>kelasi</trd>,
+    <trd>[<ind>laut</ind>] pelaut</trd>,
+    <trd>matros</trd>
   </trdgrp>
   <trdgrp lng="it">
     <trd>navigatore<klr> (marinario)</klr></trd>,
@@ -188,8 +205,13 @@
   </snc>
   <trd lng="be">&c_e;&c_k;&c_ib;&c_p;&c_a;&c_zh; <klr>(&c_k;&c_a;&c_r;&c_a;&c_b;&c_l;&c_ja;)</klr></trd>
   <trd lng="en">crew</trd>
+  <trd lng="es">tripulaci&oacute;n</trd>
   <trd lng="fr">&eacute;quipage<klr tip="ind"> (d'un navire)</klr></trd>
   <trd lng="hu">haj&oacute; leg&eacute;nys&eacute;ge</trd>
+  <trdgrp lng="id">
+    <trd><ind>awak</ind> kapal</trd>,
+    <trd><ind>kru</ind> (kapal)</trd>
+  </trdgrp>
   <trdgrp lng="it">
     <trd>equipaggio<klr> (di nave)</klr></trd>,
     <trd>ciurma</trd>
@@ -224,6 +246,10 @@
         <fnt><bib>SatirRak</bib>, <lok>Pythagoras</lok></fnt>.
       </ekz>
     </subsnc>
+    <trdgrp lng="es">
+      <trd><ind>convoy</ind> de nav&iacute;os</trd>,
+      <trd>flota<klr tip="ind"> (convoy de nav&iacute;os)</klr></trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd><ind>convoi</ind> de navires</trd>,
       <trd>flotte<klr tip="ind"> (convoi de navires)</klr></trd>
@@ -248,6 +274,8 @@
           <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 16</lok></fnt>.
         </ekz>
       </dif>
+      <trd lng="es">flota<klr tip="ind"> (conjunto de todos los
+      barcos)</klr></trd>
       <trd lng="fr">flotte<klr tip="ind"> (ensemble de tous les
       navires)</klr></trd>
       <trd lng="hu">flotta</trd>
@@ -255,6 +283,11 @@
     <subsnc mrk="sxip.0aro.tuto_MIL">
       <uzo tip="fak">MIL</uzo>
       <ref tip="dif" cel="sxip.milit0aro">milit<tld/>aro</ref>
+      <trdgrp lng="es">
+        <trd>flota<klr tip="ind"> (de guerra)</klr></trd>,
+        <trd><ind>marina</ind> de guerra<klr tip="ind">
+        (flota)</klr></trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>flotte<klr tip="ind"> (de guerre)</klr></trd>,
         <trd><ind>marine</ind> de guerre<klr tip="ind">
@@ -268,6 +301,7 @@
   </trdgrp>
   <trd lng="de">Flotte</trd>
   <trd lng="en">fleet</trd>
+  <trd lng="id">armada</trd>
   <trdgrp lng="it">
     <trd>naviglio</trd>,
     <trd>flotta</trd>
@@ -302,11 +336,13 @@
     </refgrp>
   </snc>
   <trd lng="en">admiral</trd>
+  <trd lng="es">almirante</trd>
   <trd lng="fr">amiral</trd>
   <trdgrp lng="hu">
     <trd>tengernagy</trd>,
     <trd>admir&aacute;lis</trd>
   </trdgrp>
+  <trd lng="id">admiral</trd>
   <trd lng="it">ammiraglio</trd>
   <trd lng="pl">admira&lstroke; <ind>floty</ind></trd>
   <trdgrp lng="ru">
@@ -338,9 +374,11 @@
   <trd lng="be">&c_k;&c_a;&c_p;&c_ib;&c_t;&c_a;&c_n;</trd>
   <trd lng="de">Kapit&auml;n</trd>
   <trd lng="en">captain</trd>
+  <trd lng="es">capit&aacute;n<klr tip="ind"> (de nav&iacute;o)</klr></trd>
   <trdgrp lng="fr">
     <trd>capitaine<klr tip="ind"> (de navire)</klr></trd>
   </trdgrp>
+  <trd lng="id"><ind>kapten</ind> (kapal)</trd>
   <trd lng="it">comandante<klr> (di nave)</klr></trd>
   <trd lng="hu">haj&oacute;skapit&aacute;ny</trd>
   <trd lng="pl">kapitan <ind>statku</ind></trd>
@@ -374,6 +412,11 @@
   <trd lng="be">&c_k;&c_a;&c_r;&c_a;&c_b;&c_l;&c_ib;&c_k;</trd>
   <trd lng="en">small ship</trd>
   <trd lng="hu">b&aacute;rka</trd>
+  <trdgrp lng="id">
+    <trd>perahu</trd>,
+    <trd>sampan</trd>,
+    <trd>sekoci</trd>
+  </trdgrp>
   <trd lng="it">battello</trd>
   <trdgrp lng="pl">
     <trd>stateczek</trd>,
@@ -405,9 +448,15 @@
     <trd>Seefahrer</trd>,
     <trd>Seemann</trd>
   </trdgrp>
-  <trd lng="en">sailor</trd>
+  <trd lng="en">sailor</trd>  
+  <trd lng="es">marinero</trd>  
   <trd lng="fr">marin<klr tip="ind"> (subst.)</klr></trd>
   <trd lng="hu">haj&oacute;s</trd>
+  <trdgrp lng="id">
+    <trd>kelasi</trd>,
+    <trd>[<ind>laut</ind>] pelaut</trd>,
+    <trd>matros</trd>
+  </trdgrp>
   <trd lng="it">marinaio</trd>
   <trdgrp lng="pl">
     <trd>marynarz</trd>,
@@ -435,8 +484,10 @@
   </trdgrp>
   <trd lng="de">Anlegestelle</trd>
   <trd lng="en">wharf</trd>
+  <trd lng="es">embarcadero</trd>
   <trd lng="fr">d&eacute;barcad&egrave;re</trd>
   <trd lng="hu">kik&ouml;t&odblac;</trd>
+  <trd lng="id">dermaga</trd>
   <trd lng="it">sbarco<klr> (luogo)</klr></trd>
   <trdgrp lng="pl">
     <trd>przysta&nacute;</trd>,
@@ -467,6 +518,8 @@
     <trd>go ashore</trd>,
     <trd>land</trd>
   </trdgrp>
+  <trd lng="es">desembarcar<klr tip="ind"> (de un nav&iacute;o)</klr>
+  </trd>
   <trd lng="fr">d&eacute;barquer<klr tip="ind"> (d'un navire)</klr>
   </trd>
   <trd lng="hu">partra sz&aacute;ll</trd>
@@ -505,6 +558,7 @@
     <trd>go aboard</trd>,
     <trd>go on board</trd>
   </trdgrp>
+  <trd lng="es">embarcarse<klr tip="ind"> (en un barco)</klr></trd>
   <trd lng="fr">embarquer<klr tip="ind"> (dans un navire)</klr></trd>
   <trd lng="hu">haj&oacute;ra sz&aacute;ll</trd>
   <trd lng="it">imbarcarsi<klr> (salire)</klr></trd>
@@ -527,10 +581,12 @@
   <trd lng="be">&c_v;&c_je;&c_r;&c_f;</trd>
   <trd lng="de">Werft</trd>
   <trd lng="en">shipyard</trd>
+  <trd lng="es">astillero</trd>
   <trdgrp lng="fr">
     <trd><ind>chantier</ind> naval</trd>
   </trdgrp>
   <trd lng="hu">haj&oacute;gy&aacute;r</trd>
+  <trd lng="id"><ind>galang</ind>an (kapal)</trd>
   <trd lng="it"><ind>cantiere</ind> navale</trd>
   <trd lng="pl">stocznia</trd>
   <trd lng="pt">estaleiro</trd>
@@ -556,6 +612,7 @@
   </adm>
   <trd lng="de">Luftschiff</trd>
   <trd lng="en">airship</trd>
+  <trd lng="es">dirigible<klr tip="ind"> (nave a&eacute;rea)</klr></trd>
   <trd lng="fr">dirigeable</trd>
   <trd lng="hu">l&eacute;ghaj&oacute;</trd>
   <trd lng="it">dirigibile</trd>
@@ -585,6 +642,9 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd><ind>barco</ind> vikingo</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>drakkar</trd>
   </trdgrp>
@@ -618,6 +678,7 @@
     </dif>
   </snc>
   <trd lng="en">armored ship</trd>
+  <trd lng="es"><ind>barco</ind> acorazado</trd>
   <trd lng="fr">cuirass&eacute;<klr tip="ind"> (navire)</klr></trd>
   <trd lng="hu">p&aacute;nc&eacute;lhaj&oacute;</trd>
   <trd lng="it">corazzata<klr tip="ind"> (nave)</klr></trd>
@@ -651,9 +712,14 @@
     <trd>container ship</trd>,
     <trd>tanker</trd>
   </trdgrp>
+  <trd lng="es"><ind>buque</ind> mercante</trd>
   <trd lng="fr"><ind>navire</ind> de commerce</trd>
   <trd lng="de">Handelsschiff</trd>
   <trd lng="hu">kereskedelmi <ind>haj&oacute;</ind></trd>
+  <trdgrp lng="id">
+    <trd><ind>kapal</ind> dagang</trd>,
+    <trd><ind>kapal</ind> niaga</trd>
+  </trdgrp>
   <trd lng="it">mercantile<klr> (nave)</klr></trd>
   <trd lng="pl"><ind>statek</ind> handlowy</trd>
   <trd lng="ru">&c_t;&c_o;&c_r;&c_g;&c_o;&c_v;&c_o;&c_je;
@@ -680,7 +746,9 @@
     <trd>space ship</trd>,
     <trd>spaceship</trd>
   </trdgrp>
+  <trd lng="es">nave espacial</trd>
   <trd lng="fr">vaisseau spatial</trd>
+  <trd lng="id"><ind>kapal</ind> luar angkasa</trd>
   <trdgrp lng="it">
     <trd>astronave</trd>, 
     <trd><ind>nave</ind> spaziale</trd>
@@ -715,6 +783,7 @@
   <trd lng="be">&c_k;&c_r;&c_e;&c_j;&c_s;&c_e;&c_r;</trd>
   <trd lng="de">Kreuzer</trd>
   <trd lng="en">cruiser</trd>
+  <trd lng="es">crucero</trd>
   <trd lng="fr">croiseur</trd>
   <trd lng="hu">cirk&aacute;l&oacute;</trd>
   <trd lng="it">incrociatore<klr> (nave)</klr></trd>
@@ -735,8 +804,10 @@
   <trdgrp lng="de">
     <trd>Kurierschiff</trd>
   </trdgrp>
+  <trd lng="es"><ind>barco</ind> mercante</trd>
   <trd lng="fr">long courrier</trd>
   <trd lng="hu">postahaj&oacute;</trd>
+  <trd lng="id"><ind>kapal</ind> pengangkut</trd>
   <trdgrp lng="it">
     <trd>corriere<klr> (nave)</klr></trd>, 
     <trd>postale<klr> (nave)</klr></trd>
@@ -760,11 +831,16 @@
     <trd>military ship</trd>,
     <trd>warship</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>acorazado</trd>,
+    <trd><ind>buque</ind> de guerra</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd><ind>navire</ind> de guerre</trd>,
     <trd><ind>navire</ind> militaire</trd>
   </trdgrp>
   <trd lng="hu">hadihaj&oacute;</trd>
+  <trd lng="id"><ind>kapal</ind> perang</trd>
   <trdgrp lng="it">
     <trd><ind>nave</ind> da guerra</trd>,
     <trd><ind>nave</ind> militare</trd>
@@ -793,11 +869,19 @@
     </dif>
   </snc>
   <trd lng="en">navy</trd>
+  <trdgrp lng="es">
+    <trd>flota<klr tip="ind"> (de guerra)</klr></trd>,
+   <trd><ind>marina</ind> de guerra<klr tip="ind"> (flota)</klr></trd>,
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>flotte<klr tip="ind"> (de guerre)</klr></trd>,
    <trd><ind>marine</ind> de guerre<klr tip="ind"> (flotte)</klr></trd>,
   </trdgrp>
   <trd lng="hu">hadiflotta</trd>
+  <trdgrp lng="id">
+    <trd><ind>angkat</ind>an laut</trd>,
+    <trd>armada</trd>
+  </trdgrp>
   <trd lng="it">flotta<klr> (armata, militare, da guerra)</klr></trd>
   <trdgrp lng="pl">
     <trd>flota</trd>,
@@ -815,10 +899,12 @@
     </dif>
   </snc>
   <trd lng="en">motor ship</trd>
+  <trd lng="es"><ind>barco</ind> a motor</trd>
   <trdgrp lng="fr">
     <trd><ind>bateau</ind> &agrave; moteur</trd>
   </trdgrp>
   <trd lng="hu">motoros <ind>haj&oacute;</ind></trd>
+  <trd lng="id"><ind>kapal</ind> motor</trd>
   <trdgrp lng="it">
     <trd>motonave</trd>,
     <trd><ind>nave</ind> a motore</trd>
@@ -848,10 +934,18 @@
   <trd lng="be">&c_p;&c_a;&c_r;&c_o;&c_m;</trd>
   <trd lng="de">F&auml;hre</trd>
   <trd lng="en">ferry</trd>
+  <trdgrp lng="es">
+    <trd>transbordador</trd>,
+    <trd>ferry</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>bac<klr tip="ind"> (bateau)</klr></trd>
   </trdgrp>
   <trd lng="hu">komphaj&oacute;</trd>
+  <trdgrp lng="id">
+    <trd>feri</trd>,
+    <trd><ind>kapal</ind> feri</trd>
+  </trdgrp>
   <trd lng="it">tragetto</trd>
   <trd lng="nl">veerpont</trd>
   <trd lng="pl">prom</trd>
@@ -885,8 +979,10 @@
     <ind>&c_l;&c_o;&c_d;&c_k;&c_a;</ind></trd>
   </trdgrp>
   <trd lng="en">submarine</trd>
+  <trd lng="es">submarino</trd>
   <trd lng="fr">sous-marin</trd>
   <trd lng="hu">tengeralattj&aacute;r&oacute;</trd>
+  <trd lng="id"><ind>kapal</ind> selam</trd>
   <trd lng="it">sottomarino</trd>
   <trd lng="pl">okr&eogonek;t<klr> (statek) </klr>podwodny</trd>
   <trdgrp lng="ru">
@@ -912,10 +1008,15 @@
     <trd>Schleppdampfer</trd>
   </trdgrp>
   <trd lng="en">tugboat</trd>
+  <trd lng="es"><ind>barco</ind> remolcador</trd>
   <trdgrp lng="fr">
     <trd>remorqueur</trd>
   </trdgrp>
   <trd lng="hu">vontat&oacute;haj&oacute;</trd>
+  <trdgrp lng="id">
+    <trd><ind>kapal</ind> penarik</trd>,
+    <trd><ind>kapal</ind> penyeret</trd>
+  </trdgrp>
   <trd lng="it">rimorchiatore<klr> (nave)</klr></trd>
   <trd lng="nl">sleepboot</trd>
   <trd lng="pl">holownik</trd>
@@ -947,6 +1048,10 @@
     <trd>vapeur<klr tip="ind"> (bateau)</klr></trd>
   </trdgrp>
   <trd lng="hu">g&odblac;zhaj&oacute;</trd>
+  <trdgrp lng="id">
+    <trd><ind>kapal</ind> api</trd>,
+    <trd><ind>kapal</ind> uap</trd>
+  </trdgrp>
   <trd lng="it">piroscafo</trd>
   <trd lng="nl">stoomboot</trd>
   <trdgrp lng="pl">
@@ -992,6 +1097,10 @@
     <trd>voilier</trd>
   </trdgrp>
   <trd lng="hu">vitorl&aacute;shaj&oacute;</trd>
+  <trdgrp lng="id">
+    <trd><ind>kapal</ind> layar</trd>,
+    <trd><ind>perahu</ind> layar</trd>
+  </trdgrp>
   <trd lng="it">veliero</trd>
   <trd lng="nl">zeilschip</trd>
   <trdgrp lng="pl">
@@ -1004,6 +1113,12 @@
 </art>
 <!--
 $Log: sxip.xml,v $
+Revision 1.55  2014/08/05 15:10:11  revo
+Guillermo Molleda Jimena: Hispana tradukado
+
+Revision 1.54  2014/07/01 16:10:12  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.53  2013/12/02 15:10:31  revo
 Damien Brucker: +trd fr
 
@@ -1020,11 +1135,5 @@ Revision 1.49  2010/05/07 16:30:50  revo
 Agustin Garcia Lopez: +trd es
 
 Revision 1.48  2009/10/12 16:31:06  revo
-Russ Williams: +trd en
-
-Revision 1.47  2009/08/27 16:33:08  revo
-Emmanuel Debanne: +trd ku
-
-Revision 1.46  2009/04/05 16:30:48  revo
 -->
 </vortaro>

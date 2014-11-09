@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ajx.xml,v 1.23 2014/03/11 18:10:21 revo Exp $">
+<art mrk="$Id: ajx.xml,v 1.25 2014/05/08 18:11:00 revo Exp $">
 <kap>
 <ofc>*</ofc>
 -<rad>a&jcirc;</rad>/
@@ -207,11 +207,16 @@ abstraktajn aferojn.
           por ke tempo ne estu vane perdata
           <fnt><bib>Revizoro</bib>, <lok>Sceno IX</lok></fnt>;
         </ekz>
+        <ekz>
+        en la plimulto da okazoj inter o kaj <tld/>o estas granda
+        diferenco<fnt><bib>LR</bib></fnt>.
+        </ekz>
       </dif>
     </snc>
     <trd lng="be">&c_r;&c_e;&c_ch;</trd>
     <trd lng="bg">&c_n;&c_je;&c_shch;&c_o;</trd>
     <trd lng="ca">cosa</trd>
+    <trd lng="es">cosa<klr tip="amb"> (objeto concreto)</klr></trd>
     <trdgrp lng="fr">
       <trd>chose</trd>,
       <trd>objet</trd>,
@@ -235,6 +240,12 @@ abstraktajn aferojn.
 </art>
 <!--
 $Log: ajx.xml,v $
+Revision 1.25  2014/05/08 18:11:00  revo
+Damien Brucker: +ekz
+
+Revision 1.24  2014/05/01 08:10:37  revo
+Agustin Garcia Lopez: +trd(es) -o
+
 Revision 1.23  2014/03/11 18:10:21  revo
 Joop Eggen: +trd bg nl
 
@@ -251,11 +262,5 @@ Revision 1.19  2008/03/16 17:30:13  revo
 Wieland Pusch: +drv ajx
 
 Revision 1.18  2007/12/03 17:30:23  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.17  2006/09/10 15:40:19  revo
-Axel Rousseau: +trd tp fr
-
-Revision 1.16  2005/03/06 17:37:07  revo
 -->
 </vortaro>

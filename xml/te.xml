@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: te.xml,v 1.27 2013/08/29 15:10:26 revo Exp $">
+<art mrk="$Id: te.xml,v 1.29 2014/08/03 13:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>te</rad>/o
@@ -35,8 +35,10 @@
   <trd lng="cs">&ccaron;aj</trd>
   <trd lng="de">Tee</trd>
   <trd lng="en">tea</trd>
+  <trd lng="es">t&eacute;</trd>
   <trd lng="fr">th&eacute;</trd>
   <trd lng="hu">tea</trd>
+  <trd lng="id">teh</trd>
   <trd lng="nl">thee</trd>
   <trd lng="pl">herbata</trd>
   <trdgrp lng="pt">
@@ -76,6 +78,12 @@
 </art>
 <!--
 $Log: te.xml,v $
+Revision 1.29  2014/08/03 13:10:10  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.28  2014/06/11 17:10:19  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.27  2013/08/29 15:10:26  revo
 Wolfram Diestel: referenco al listo bot genroj
 
@@ -92,11 +100,5 @@ Revision 1.23  2006/02/04 17:32:09  revo
 Tulio Flores: +trd pt
 
 Revision 1.22  2004/11/22 17:31:35  revo
-Jozefo Horvath: kor. trd hu tearbo
-
-Revision 1.21  2003/08/31 16:31:24  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.20  2003/08/18 16:31:24  revo
 -->
 </vortaro>

@@ -2,12 +2,13 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: urugvaj.xml,v 1.6 2012/07/31 09:10:40 revo Exp $">
+<art mrk="$Id: urugvaj.xml,v 1.8 2014/06/08 16:10:37 revo Exp $">
 <kap><rad>Urugvaj</rad>/o</kap>
 <drv mrk="urugvaj.U0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">GEOG</uzo>
   <snc>
+  <uzo tip="fak">GEOG</uzo>
+  <uzo tip="fak">POL</uzo>
     <dif>
       Sudamerika <ref tip="super" cel="sxtat.0o">&scirc;tato</ref>, 
       limanta al <ref tip="vid" cel="brazil.B0o">Brazilo</ref>,
@@ -24,6 +25,7 @@
   <trd lng="fi">Uruguay</trd>
   <trd lng="fr">Uruguay</trd>
   <trd lng="hu">Uruguay</trd>
+  <trd lng="id">Uruguay</trd>
   <trd lng="it">Uruguay</trd>
   <trd lng="ja">&#12454;&#12523;&#12464;&#12450;&#12452;</trd>
   <trd lng="nl">Uruguay</trd>
@@ -38,6 +40,12 @@
 
 <!--
 $Log: urugvaj.xml,v $
+Revision 1.8  2014/06/08 16:10:37  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.7  2014/05/11 14:10:20  revo
+Damien Brucker: +fak
+
 Revision 1.6  2012/07/31 09:10:40  revo
 Marc Rausell: + trd ca
 
@@ -54,7 +62,5 @@ Revision 1.2  2005/01/17 17:34:18  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.1  2004/09/02 16:32:25  revo
-Dmitri Gabinski: nova artikolo
-
 -->
 </vortaro>

@@ -2,14 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stefan.xml,v 1.6 2009/11/03 17:31:00 revo Exp $">
+<art mrk="$Id: stefan.xml,v 1.8 2014/05/13 09:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>Stefan</rad>/o
 </kap>
 <drv mrk="stefan.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <uzo tip="fak">NOM</uzo>
   <snc>
+  <uzo tip="fak">NOM</uzo>
     <dif>
       Vira anta&ubreve;nomo grekdevena:
       <ekz>
@@ -35,10 +35,27 @@
     <trd>&c_E;&c_t;&c_mol;&c_je;&c_n;<klr> (&c_i;&c_n;&c_o;&c_s;&c_t;&c_r;.)</klr></trd>
   </trdgrp>
 </drv>
+
+<drv mrk="stefan.in0o">
+  <kap><tld/>ino</kap>
+  <snc>
+  <uzo tip="fak">NOM</uzo>
+    <dif>
+      Virina anta&ubreve;nomo grekdevena, kun la signifo de "la kronitino".
+    </dif>
+  </snc>
+  <trd lng="fr">St&eacute;phanie</trd>
+</drv>
 </art>
 
 <!--
 $Log: stefan.xml,v $
+Revision 1.8  2014/05/13 09:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.7  2014/05/11 19:10:14  revo
+Damien Brucker: +~ino
+
 Revision 1.6  2009/11/03 17:31:00  revo
 Antonio Codazzi: +trd it
 
@@ -55,7 +72,5 @@ Revision 1.2  2003/12/18 17:30:46  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.1  2003/12/15 18:16:27  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

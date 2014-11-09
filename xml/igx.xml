@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: igx.xml,v 1.25 2014/02/22 10:10:13 revo Exp $">
+<art mrk="$Id: igx.xml,v 1.26 2014/05/01 08:10:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   -<rad>i&gcirc;</rad>/
@@ -55,6 +55,7 @@
 <subart>
 <drv mrk="igx.0.unua">
 <kap>-<tld/></kap>
+<gra><vspec>sufikso</vspec></gra>
   <dif>
     Kun <em>neverba</em> radiko, <em>i&gcirc;</em> signifas:
     &leftquot;vole a&ubreve; nevole transiri en la staton esprimatan
@@ -626,6 +627,9 @@ Radiko samsignifa uzata memstare.
 </art>
 <!--
 $Log: igx.xml,v $
+Revision 1.26  2014/05/01 08:10:35  revo
+Damien Brucker: +gra
+
 Revision 1.25  2014/02/22 10:10:13  revo
 Damien Brucker: +ekz en la rim
 
@@ -645,8 +649,5 @@ Revision 1.20  2014/02/04 15:10:22  revo
 Damien Brucker: +kap
 
 Revision 1.19  2010/10/30 16:30:29  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.18  2007/04/20 16:31:00  revo
 -->
 </vortaro>

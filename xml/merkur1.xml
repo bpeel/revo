@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: merkur1.xml,v 1.16 2014/01/17 15:10:14 revo Exp $">
+<art mrk="$Id: merkur1.xml,v 1.17 2014/06/09 16:10:43 revo Exp $">
 <kap><rad>Merkur</rad>/o <fnt><bib>PIV1</bib></fnt></kap>
 <drv mrk="merkur1.0o">
   <kap><tld/>o</kap>
@@ -39,6 +39,7 @@
   <trd lng="es">Mercurio</trd>
   <trd lng="pt">Merc&uacute;rio (astr.)</trd>
   <trd lng="fr">Mercure</trd>
+  <trd lng="id">Merkurius</trd>
   <trd lng="it">Mercurio</trd>
   <trd lng="nl">Mercurius</trd>
   <trd lng="pl">Merkury</trd>
@@ -77,6 +78,9 @@
 </art>
 <!--
 $Log: merkur1.xml,v $
+Revision 1.17  2014/06/09 16:10:43  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.16  2014/01/17 15:10:14  revo
 Joop Eggen: +trd bg
 
@@ -96,8 +100,5 @@ Revision 1.11  2009/05/04 16:31:39  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.10  2008/06/16 16:54:04  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.9  2006/07/31 16:33:28  revo
 -->
 </vortaro>

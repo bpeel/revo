@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: okul.xml,v 1.38 2014/01/19 02:10:17 revo Exp $">
+<art mrk="$Id: okul.xml,v 1.39 2014/05/30 09:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>okul</rad>/o <fnt><bib>PV</bib></fnt>
@@ -180,6 +180,7 @@
   <trd lng="fr">&oelig;il</trd>
   <trd lng="hu">szem</trd>  
   <trd lng="hr">oko</trd>
+  <trd lng="id">mata</trd>
   <trd lng="it">occhio</trd>
   <trd lng="ku">&ccedil;av</trd>
   <trd lng="lat">oculus</trd>
@@ -493,6 +494,9 @@
 </art>
 <!--
 $Log: okul.xml,v $
+Revision 1.39  2014/05/30 09:10:20  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.38  2014/01/19 02:10:17  revo
 Jeromo Vasxe: + propr~e
 
@@ -512,8 +516,5 @@ Revision 1.33  2009/08/24 16:32:06  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.32  2009/03/26 17:30:28  revo
-Wieland Pusch: +trd bg
-
-Revision 1.31  2009/03/24 17:30:42  revo
 -->
 </vortaro>

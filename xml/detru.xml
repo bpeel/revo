@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: detru.xml,v 1.25 2012/10/23 00:11:32 revo Exp $">
+<art mrk="$Id: detru.xml,v 1.26 2014/09/01 07:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>detru</rad>/i
@@ -345,12 +345,16 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="fr">arme</trd>
   <trd lng="hu">puszt&iacute;t&oacute; fegyver</trd>
   <trd lng="nl">vernietigingswapen</trd>
 </drv>
 </art>
 <!--
 $Log: detru.xml,v $
+Revision 1.26  2014/09/01 07:10:17  revo
+Damien Brucker: +trd fr
+
 Revision 1.25  2012/10/23 00:11:32  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -370,8 +374,5 @@ Revision 1.20  2003/12/03 17:30:43  revo
 Jeromo Vasxe: kor ortog 1 trd fr, kor bib M -> MT X -> NT
 
 Revision 1.19 2003/08/17 17:30:02 revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.18 2003/07/14 16:33:10 revo
 -->
 </vortaro>

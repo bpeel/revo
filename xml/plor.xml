@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plor.xml,v 1.24 2013/09/27 01:10:14 revo Exp $">
+<art mrk="$Id: plor.xml,v 1.26 2014/08/25 20:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>plor</rad>/i <fnt><bib>PV</bib></fnt>
@@ -62,6 +62,7 @@
   <trd lng="es">llorar</trd> 
   <trd lng="fr">pleurer</trd>
   <trd lng="hu">s&iacute;r</trd>
+  <trd lng="id">[<ind>tangis</ind>] menangis</trd>
   <trdgrp lng="nl">
     <trd>huilen</trd>,
     <trd>wenen</trd>,
@@ -83,16 +84,19 @@
   <kap><tld/>o</kap>
   <snc mrk="plor.0o.KOMUNE">
     <dif>
-      Ekstera manifestado de doloro per larmoj, &gcirc;emoj:
+      Esprimo de doloro per larmoj, &gcirc;emoj:
       <ekz>
         virina <tld/>o sen valoro
         <fnt><bib>PrV</bib></fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         ne sufi&ccirc;as <tld/>o al kreditoro
         <fnt><bib>PrV</bib></fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         ne atentu lian <tld/>adon<fnt>Z</fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <tld/>akiri pardonon.
       </ekz>
     </dif>
@@ -108,6 +112,10 @@
   </trdgrp> 
   <trd lng="fr">pleurs</trd>
   <trd lng="hu">s&iacute;r&aacute;s</trd>
+  <trdgrp lng="id">
+    <trd>tangis</trd>,
+    <trd>tangisan</trd>
+  </trdgrp> 
   <trd lng="nl">geween</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_l;&c_a;&c_ch;</trd>,
@@ -136,6 +144,24 @@
   <trd lng="fr">pleureur<klr> (adj.)</klr></trd>
 </drv>
 
+<drv mrk="plor.0inda">
+  <kap><tld/>inda</kap>
+  <snc mrk="plor.0inda.KOMUNE">
+    <dif>
+      Kompatinda, malfeli&ccirc;a, beda&ubreve;rinda:
+      <ekz>
+        vere <tld/>indaj estas la malfeli&ccirc;oj en la mondo
+        <fnt>
+          <aut>Ba Jin, trad. Li Shijun</aut>,
+          <vrk>A&ubreve;tuno en la Printempo</vrk>,
+          <lok>1980</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">d&eacute;plorable</trd>
+</drv>
+
 <drv mrk="plor.0istino">
   <kap><tld/>istino</kap>
   <snc mrk="plor.0istino.FUN">
@@ -149,13 +175,14 @@
         <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 9a</lok></fnt>!
       </ekz>
       <ekz>
-        En &gcirc;i stertoras veoj, lamentas <tld/>istinoj...
+        en &gcirc;i stertoras veoj, lamentas <tld/>istinoj...
         <fnt><aut>N. Hohlov</aut>, <vrk>E&ubreve;ropo</vrk></fnt>
       </ekz>
     </dif>
   </snc>
   <trd lng="es">pla&ntilde;idera</trd> 
   <trd lng="fr">pleureuse<klr> (subst.)</klr></trd>
+  <trd lng="id">cengeng</trd>
   <trd lng="ru">&c_p;&c_l;&c_a;&c_k;&c_a;&c_l;&c_mol;&c_shch;&c_i;&c_c;&c_a;</trd>
 </drv>
 
@@ -203,8 +230,7 @@
     <trd>singultare</trd>
   </trdgrp>
   <trd lng="pt">solu&ccedil;ar</trd>
-  <trd lng="ru">&c_p;&c_l;&c_a;&c_k;&c_a;&c_t;&c_mol;
-&c_n;&c_a;&c_v;&c_z;&c_r;&c_y;&c_d;</trd>
+  <trd lng="ru">&c_p;&c_l;&c_a;&c_k;&c_a;&c_t;&c_mol; &c_n;&c_a;&c_v;&c_z;&c_r;&c_y;&c_d;</trd>
 </drv>
 
 <drv mrk="plor.sat0i">
@@ -219,9 +245,9 @@
         kaj ne plu estis sola kun sia doloro
         <fnt>
           <aut>T. Storm, trad. H. Heinm&uuml;ller</aut>:
-          <vrk>La blank&ccirc;evala rajdanto</vrk>.
-          <lok><url ref="http://www.luin.se/inko/103-8.pdf"
-              >eLibro</url></lok>
+          <vrk><url ref="http://www.luin.se/inko/103-8.pdf"
+              >La blank&ccirc;evala rajdanto</url></vrk>.
+          <lok>1929</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -240,13 +266,18 @@
     <trd>have one's <ind>cry</ind> out</trd>
   </trdgrp>
   <trd lng="fr">pleurer tout son saoul</trd>
-  <trd lng="ru">&c_n;&c_a;&c_p;&c_l;&c_a;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr>
-(&c_v;&c_s;&c_l;&c_a;&c_s;&c_t;&c_mol;)</klr></trd>
+  <trd lng="ru">&c_n;&c_a;&c_p;&c_l;&c_a;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr> (&c_v;&c_s;&c_l;&c_a;&c_s;&c_t;&c_mol;)</klr></trd>
 </drv>
 
 </art>
 <!--
 $Log: plor.xml,v $
+Revision 1.26  2014/08/25 20:10:10  revo
+Jeromo Vasxe: + ~inda
+
+Revision 1.25  2014/05/29 08:10:15  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.24  2013/09/27 01:10:14  revo
 Jeromo Vasxe: + ~ema
 
@@ -263,11 +294,5 @@ Revision 1.20  2009/02/10 14:19:48  revo
 Wieland Pusch: +trd bg
 
 Revision 1.19  2007/06/23 16:31:23  revo
-Sergio Pokrovskij: +sat~i
-
-Revision 1.18  2007/04/10 16:30:30  revo
-Jeromo Vasxe: + mrk
-
-Revision 1.17  2006/03/08 17:31:49  revo
 -->
 </vortaro>

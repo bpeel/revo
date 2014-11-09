@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sieraleo.xml,v 1.4 2013/02/10 02:10:56 revo Exp $">
+<art mrk="$Id: sieraleo.xml,v 1.6 2014/06/10 04:10:50 revo Exp $">
 <kap>
   <rad>sieraleon</rad>/o
 </kap>
@@ -29,21 +29,32 @@
       <ref tip="vid" cel="liberi.L0o.GEOG">Liberio</ref>
       kaj <ref tip="vid" cel="atlant.A0o.GEOG">Atlantiko</ref>.
     </dif>
+    </snc>
     <trd lng="bg">&c_S;&c_i;&c_je;&c_r;&c_a; &c_L;&c_je;&c_o;&c_n;&c_je;</trd>
     <trd lng="de">Sierra Leone</trd>
-    <trd lng="en">Sierra Leone</trd>    
+    <trd lng="en">Sierra Leone</trd>
+    <trdgrp lng="fr">
+      <trd>Sierra Leone</trd>,
+      <trd>R&eacute;publique de Sierra Leone</trd>
+    </trdgrp>    
+    <trd lng="id">Sierra Leone</trd>
     <trdgrp lng="pl">
       <trd>Sierra Leone</trd>,
       <trd>Republika <ind>Sierra Leone</ind></trd>
     </trdgrp>
     <trd lng="pt">Serra Leoa</trd>
-  </snc>
 </drv>
 
 </art>
 
 <!--
 $Log: sieraleo.xml,v $
+Revision 1.6  2014/06/10 04:10:50  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.5  2014/05/04 08:10:26  revo
+Damien Brucker: +trd fr
+
 Revision 1.4  2013/02/10 02:10:56  revo
 Evandro Avellar: Traduko al Pt
 

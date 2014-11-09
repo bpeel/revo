@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: herc.xml,v 1.7 2013/09/15 14:10:14 revo Exp $">
+<art mrk="$Id: herc.xml,v 1.8 2014/07/01 17:10:36 revo Exp $">
 <kap>
   <rad>herc</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -35,6 +35,7 @@
   </trdgrp>
   <trd lng="fr">hertz</trd>
   <trd lng="hu">Hertz</trd>
+  <trd lng="id">hertz</trd>
   <trd lng="it">hertz</trd>
   <trd lng="nl">hertz</trd>
 </drv>
@@ -42,6 +43,9 @@
 
 <!--
 $Log: herc.xml,v $
+Revision 1.8  2014/07/01 17:10:36  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.7  2013/09/15 14:10:14  revo
 Wolfram Diestel: ref al lst mezurunuoj, mlg
 
@@ -61,7 +65,5 @@ Revision 1.2  2009/07/11 16:30:46  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.1  2009/05/24 11:27:07  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frenez.xml,v 1.21 2012/05/20 12:10:08 revo Exp $">
+<art mrk="$Id: frenez.xml,v 1.22 2014/06/06 14:10:23 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>frenez</rad>/a</kap>
 <drv mrk="frenez.0a">
@@ -108,6 +108,7 @@
     <trd>d&eacute;raisonnable</trd>,
     <trd>insens&eacute;</trd>
   </trdgrp>
+  <trd lng="id">gila</trd>
   <trdgrp lng="it">
     <trd>pazzo<klr> (agg.)</klr></trd>,
     <trd>folle<klr> (agg.)</klr></trd>,
@@ -238,6 +239,7 @@
     <trd>durchdrehen</trd>
   </trdgrp>
   <trd lng="es">volver se loco</trd>
+  <trd lng="id">[<ind>gila</ind>] menggila</trd>
   <trdgrp lng="it">
     <trd>impazzire</trd>,
     <trd>perdere la <ind>ragione</ind></trd>
@@ -294,6 +296,7 @@
       <trd>fou<klr tip="ind"> (subst.)</klr></trd>,
       <trd>ali&eacute;n&eacute;<klr tip="ind"> (subst.)</klr></trd>
     </trdgrp>
+    <trd lng="id">rumah sakit jiwa</trd>
     <trdgrp lng="it">
       <trd>pazzo</trd>,
       <trd>matto</trd>,
@@ -313,6 +316,9 @@
 </art>
 <!--
 $Log: frenez.xml,v $
+Revision 1.22  2014/06/06 14:10:23  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.21  2012/05/20 12:10:08  revo
 Joop Eggen: +trd bg
 
@@ -332,8 +338,5 @@ Revision 1.16  2009/08/28 16:31:16  revo
 Emmanuel Debanne: +trd ku
 
 Revision 1.15  2009/08/24 16:33:15  revo
-Paul Peeraerts: korektoj en nl
-
-Revision 1.14  2007/06/13 16:31:47  revo
 -->
 </vortaro>

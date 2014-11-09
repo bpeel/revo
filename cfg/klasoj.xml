@@ -46,7 +46,11 @@
   <kls nom="http://purl.org/net/voko#festoj">
   </kls>
   <kls nom="http://purl.org/net/voko#iloj">
+    <kls nom="http://purl.org/net/voko#bataliloj">
+    </kls>
     <kls nom="http://purl.org/net/voko#ludiloj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#mebloj">
     </kls>
     <kls nom="http://purl.org/net/voko#muzikiloj">
       <kls nom="http://purl.org/net/voko#blovinstrumentoj" prezento="integrita">
@@ -65,6 +69,8 @@
   </kls>
   <kls nom="http://purl.org/net/voko#organizaĵoj">
     <kls nom="http://purl.org/net/voko#asocioj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#entreprenoj">
     </kls>
     <kls nom="http://purl.org/net/voko#ŝtatoj">
     </kls>
@@ -221,6 +227,8 @@
   </kls>
 </kls>
 <kls nom="http://purl.org/net/voko#perceptoj">
+  <kls nom="http://purl.org/net/voko#formoj">
+  </kls>
   <kls nom="http://purl.org/net/voko#sensaĵoj">
     <kls nom="http://purl.org/net/voko#gustoj">
     </kls>

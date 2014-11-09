@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: testud.xml,v 1.22 2013/11/02 14:10:32 revo Exp $">
+<art mrk="$Id: testud.xml,v 1.24 2014/07/04 07:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>testud</rad>/o
@@ -31,11 +31,13 @@
     <trd>tortoise</trd>,
     <trd>turtle</trd>
   </trdgrp>
+  <trd lng="es">tortuga</trd>
   <trd lng="fr">tortue</trd>
   <trdgrp lng="hu">
     <trd>tekn&odblac;s</trd>,
     <trd>tekn&odblac;sb&eacute;ka</trd>
   </trdgrp>
+  <trd lng="id">kura-kura</trd>
   <trd lng="nl">schildpad</trd>
   <trd lng="pl">&zdot;&oacute;&lstroke;w</trd>
   <trdgrp lng="pt">
@@ -137,6 +139,12 @@
 </art>
 <!--
 $Log: testud.xml,v $
+Revision 1.24  2014/07/04 07:10:14  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.23  2014/06/08 11:10:19  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.22  2013/11/02 14:10:32  revo
 Wolfram Diestel: kor. lst-ref
 
@@ -153,11 +161,5 @@ Revision 1.18  2009/07/01 17:22:44  revo
 Russ Williams: +trd en
 
 Revision 1.17  2008/12/19 17:30:27  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.16  2006/05/22 16:31:58  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.15  2006/02/20 17:32:49  revo
 -->
 </vortaro>

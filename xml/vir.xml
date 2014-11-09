@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vir.xml,v 1.27 2014/01/10 14:10:25 revo Exp $">
+<art mrk="$Id: vir.xml,v 1.29 2014/09/21 14:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>vir</rad>/o
+  <rad>vir</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="vir.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -23,6 +23,7 @@
     <trd lng="be">&c_s;&c_a;&c_m;&c_je;&c_c;</trd>
     <trd lng="el">&alfa;&rho;&sigma;&epsilon;&ny;&jota;&kappa;&omikron_ton;</trd>
     <trd lng="es">macho</trd>
+    <trd lng="fr">m&acirc;le<klr> (subst.)</klr></trd>
     <trd lng="he">&zayin;&kaf;&resh;<klr> (&bet;&ayin;&lamed; &het;&yod;&yod;&fmem;)</klr></trd>
     <trdgrp lng="hu">
       <trd>h&iacute;m</trd>,
@@ -49,6 +50,7 @@
     <trd lng="be">&c_m;&c_u;&c_zh;&c_ch;&c_y;&c_n;&c_a;</trd>
     <trd lng="el">&alfa_ton;&ny;&delta;&rho;&alfa;&sigma_fina;</trd>
     <trd lng="es">hombre</trd>
+    <trd lng="fr">homme</trd>
     <trd lng="hu">f&eacute;rfi</trd>
    <trdgrp lng="ku">
      <trd>mirov</trd>,
@@ -82,6 +84,7 @@
     <trd lng="be">&c_m;&c_u;&c_zh;&c_ch;&c_y;&c_n;&c_a;</trd>
     <trd lng="el">&alfa_ton;&ny;&delta;&rho;&alfa;&sigma_fina;</trd>
     <trd lng="es">hombre</trd>
+    <trd lng="fr">homme<klr> (adulte)</klr></trd>
     <trd lng="hu">f&eacute;rfi</trd>
     <trd lng="nl">man</trd>
     <trd lng="pl">m&eogonek;&zdot;czyzna</trd>
@@ -197,6 +200,7 @@
     <trd>&alfa;&rho;&sigma;&epsilon;&ny;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>,
     <trd>&alfa;&ny;&delta;&rho;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>
   </trdgrp>
+  <trd lng="fr">masculin</trd>
   <trdgrp lng="he">
     <trd>&zayin;&kaf;&resh;&yod;</trd>,
     <trd>&gimel;&bet;&resh;&yod;</trd>
@@ -232,6 +236,28 @@
   <trd lng="pl">m&eogonek;&zdot;nie&cacute;</trd>
 </drv>
 
+<drv mrk="vir.0ilo">
+  <kap><tld/>ilo</kap>
+  <uzo tip="stl">KOMUNE</uzo>
+  <snc mrk="vir.0ilo.AMOR">
+    <ref tip="dif" cel="penis.0o.ANA">peniso</ref>
+      <ekz>
+        elefanto demandas la kamelon:
+        &mdash; Kial vi portas la mamojn surdorse?
+        &mdash; Hm! Strange, ke tion demandas iu, kies <tld/>ilo pendas 
+        surviza&gcirc;e. 
+        <fnt>
+          <aut>I. Szabo</aut>,
+          <vrk><url
+          ref="http://groups.google.com/group/humursako/browse_thread/thread/c3dc495d6048fece">
+          Elefanto -- kamelo</url></vrk>,
+          <lok>Humursako, 2010-09-15</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trd lng="fr">organe viril</trd>
+</drv>
+
 <drv mrk="vir.0ino">
   <kap><tld/>ino</kap>
   <snc mrk="vir.0ino.homo">
@@ -249,6 +275,7 @@
         la eterna <tld/>ineco altiras nin supren.
       </ekz>
     </dif>
+    <trd lng="fr">femme</trd>
     <trd lng="vo">vom</trd>
   </snc>
   <snc mrk="vir.0ino.maturagxa">
@@ -258,6 +285,7 @@
         <tld/>ini&gcirc;anta knabino.
       </ekz>
     </dif>
+    <trd lng="fr">femme<klr> (adulte)</klr></trd>
     <trd lng="vo">vom</trd>
   </snc>
   <trd lng="be">&c_zh;&c_a;&c_n;&c_ch;&c_y;&c_n;&c_a;</trd>
@@ -265,7 +293,6 @@
   <trd lng="el">&gamma;&ypsilon;&ny;&alfa;&jota_ton;&kappa;&alfa;</trd>
   <trd lng="en">woman</trd>
   <trd lng="es">mujer</trd>
-  <trd lng="fr">femme</trd>
   <trd lng="he">&alef;&shin;&he;</trd>
   <trd lng="hu">n&odblac;</trd>
   <trd lng="nl">vrouw</trd>
@@ -303,6 +330,7 @@
     <trd>&gamma;&ypsilon;&ny;&alfa;&jota;&kappa;&epsilon;&jota_ton;&omikron;&sigma_fina;</trd>
   </trdgrp>
   <trd lng="es">femenino</trd>
+  <trd lng="fr">f&eacute;minin</trd>
   <trd lng="he">&nun;&shin;&yod;</trd>
   <trd lng="hu">n&odblac;i</trd>
   <trd lng="nl">vrouwelijk</trd>
@@ -316,6 +344,12 @@
 </art>
 <!--
 $Log: vir.xml,v $
+Revision 1.29  2014/09/21 14:10:10  revo
+Jeromo Vasxe: + ~ilo
+
+Revision 1.28  2014/08/28 08:10:27  revo
+Damien Brucker: +trd fr
+
 Revision 1.27  2014/01/10 14:10:25  revo
 Sebastian Cyprych: +trd pl
 
@@ -332,11 +366,5 @@ Revision 1.23 2005/02/03 17:33:36 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.22 2003/11/04 17:30:32 revo
-Bart Demeyere: +nl +mrkoj
-
-Revision 1.21 2003/08/21 16:32:11 revo
-Yury Finkel: +trd zh
-
-Revision 1.20 2003/03/15 17:31:32 revo
 -->
 </vortaro>

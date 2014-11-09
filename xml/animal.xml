@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: animal.xml,v 1.24 2013/08/25 16:11:42 revo Exp $">
+  <art mrk="$Id: animal.xml,v 1.25 2014/06/19 17:10:12 revo Exp $">
     <kap>
       <ofc>8</ofc>
       <rad>animal</rad>/o
@@ -70,7 +70,7 @@
       <trd lng="de">Tier</trd>
       <trd lng="en">animal</trd>
       <trd lng="es">animal</trd>
-      <trd lng="fr">animal</trd>
+      <trd lng="fr">animal<klr> (subst.)</klr></trd>
       <trd lng="hu">&aacute;llat<klr tip="ind"> (ember is)</klr></trd>
       <trd lng="it">animale</trd>
       <trd lng="nl">dier<klr tip="ind"> (incl.mens)</klr></trd>
@@ -94,6 +94,7 @@
 	  </ekz>
 	</dif>
       </snc>
+      <trd lng="fr">animal<klr> (adj.)</klr></trd>
       <trd lng="ru">&c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_y;&c_j;</trd>
     </drv>
 
@@ -120,6 +121,9 @@
   </art>
   <!--
   $Log: animal.xml,v $
+  Revision 1.25  2014/06/19 17:10:12  revo
+  Damien Brucker: +trd fr
+
   Revision 1.24  2013/08/25 16:11:42  revo
   Wolfram Diestel: -tajperaro
 

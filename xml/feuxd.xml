@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: feuxd.xml,v 1.15 2013/06/24 10:10:11 revo Exp $">
+<art mrk="$Id: feuxd.xml,v 1.16 2014/07/26 16:10:10 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>fe&ubreve;d</rad>/o <fnt><bib>PV</bib></fnt> 
@@ -101,6 +101,10 @@
     <trd>Vasall</trd>,
     <trd>Lehnsmann</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>vasallo</trd>,
+    <trd>siervo</trd>
+  </trdgrp>
   <trd lng="el">&ypsilon;&pi;&omikron;&tau;&epsilon;&lambda;&eta_ton;&sigma_fina;</trd>
   <trd lng="en">vassal</trd>
   <trdgrp lng="fa">
@@ -119,6 +123,9 @@
 </art>
 <!--
 $Log: feuxd.xml,v $
+Revision 1.16  2014/07/26 16:10:10  revo
+Guillermo Molleda Jimena: Hispana tradukado
+
 Revision 1.15  2013/06/24 10:10:11  revo
 Jeromo Vasxe: + ref sin, reord. drv
 
@@ -138,8 +145,5 @@ Revision 1.10  2003/09/25 16:32:35  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2002/06/25 19:43:04  revo
-Alejandro Mejia Greene: ald 3 his trd
-
-Revision 1..8  2001/07/31 18:14:04  revo
 -->
 </vortaro>

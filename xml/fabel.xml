@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fabel.xml,v 1.25 2012/08/29 16:10:10 revo Exp $">
+<art mrk="$Id: fabel.xml,v 1.26 2014/06/13 20:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fabel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -78,6 +78,7 @@
     <trd>l&eacute;gende</trd>
   </trdgrp>
   <trd lng="hu">mese</trd>
+  <trd lng="id">dongeng</trd>
   <trd lng="nl">sprookje</trd>
   <trd lng="pt">f&aacute;bula</trd>
   <trd lng="ru">&c_s;&c_k;&c_a;&c_z;&c_k;&c_a;</trd>
@@ -164,6 +165,9 @@
 </art>
 <!--
 $Log: fabel.xml,v $
+Revision 1.26  2014/06/13 20:10:16  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.25  2012/08/29 16:10:10  revo
 Marc Rausell: + trd ca
 
@@ -183,8 +187,5 @@ Revision 1.20 2007/05/12 16:30:41 revo
 Tulio Flores: +tr pt
 
 Revision 1.19 2005/03/20 17:51:23 revo
-Alan ar Gall: + trd br
-
-Revision 1.18 2004/11/29 17:31:45 revo
 -->
 </vortaro>

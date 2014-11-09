@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kiribat.xml,v 1.5 2013/07/16 09:10:18 revo Exp $">
+<art mrk="$Id: kiribat.xml,v 1.7 2014/06/23 14:10:22 revo Exp $">
 <kap>
   <rad>kiribat</rad>/o
 </kap>
@@ -37,6 +37,11 @@
   </trdgrp>
   <trd lng="de">Kiribati</trd>
   <trd lng="en">Kiribati</trd>
+  <trdgrp lng="fr">
+    <trd>Kiribati</trd>,
+    <trd>R&eacute;publique des Kiribati</trd>
+  </trdgrp>
+  <trd lng="id">Kiribati</trd>
   <trd lng="nl">Kiribati</trd>
   <trd lng="pt">Kiribati</trd>
 </drv>
@@ -45,6 +50,12 @@
 
 <!--
 $Log: kiribat.xml,v $
+Revision 1.7  2014/06/23 14:10:22  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.6  2014/06/18 19:10:14  revo
+Damien Brucker: +trd fr
+
 Revision 1.5  2013/07/16 09:10:18  revo
 Marc Rausell: + trd ca
 

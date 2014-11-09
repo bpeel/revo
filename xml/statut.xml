@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: statut.xml,v 1.13 2009/03/01 17:33:52 revo Exp $">
+<art mrk="$Id: statut.xml,v 1.14 2014/07/06 16:10:28 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>statut</rad>/o <fnt>Z</fnt>
 </kap>
@@ -29,6 +29,10 @@
     <trd>alapszab&aacute;ly</trd>,
     <trd>stat&uacute;tum</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>AD/ART</trd>,
+    <trd>statuta</trd>
+  </trdgrp>
   <trd lng="nl">statuut</trd>
   <trd lng="es">estatutos</trd>
   <trdgrp lng="ru">
@@ -39,6 +43,9 @@
 </art>
 <!--
 $Log: statut.xml,v $
+Revision 1.14  2014/07/06 16:10:28  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.13  2009/03/01 17:33:52  revo
 Russ Williams: +trd en 9OA
 
@@ -58,8 +65,5 @@ Revision 1.8  2002/02/23 19:47:14  revo
 Yury Finkel: +trd ru
 
 Revision 1.7 2002/02/15 17:38:07 revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/08/28 18:11:35 revo
 -->
 </vortaro>

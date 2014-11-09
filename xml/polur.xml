@@ -2,13 +2,34 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: polur.xml,v 1.17 2011/12/06 11:10:16 revo Exp $">
+<art mrk="$Id: polur.xml,v 1.18 2014/08/20 09:10:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>polur</rad>/i
+  <rad>polur</rad>/o
 </kap>
+
+<drv mrk="polur.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Surfaca brilo, ricevita per frotado.
+    </dif>
+  </snc>
+  <trd lng="fr">poli<klr> (subst.)</klr></trd>
+</drv>
+
+<drv mrk="polur.0ado">
+  <kap><tld/>ado</kap>
+  <snc>
+    <dif>
+      Ago <ref tip="dif" cel="polur.0i">poluri</ref>.
+    </dif>
+  </snc>
+  <trd lng="fr">polissage</trd>
+</drv>
+
 <drv mrk="polur.0i">
-  <kap><ofc>*</ofc><tld/>i</kap>
+  <kap><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
@@ -17,6 +38,7 @@
         <tld/>i lignon, vitron, marmoron.
       </ekz>
     </dif>
+    <trd lng="fr">polir</trd>
     <trdgrp lng="it">
       <trd>lisciare</trd>,
       <trd>lucidare</trd>,
@@ -49,6 +71,7 @@
       <ref cel="fajl.0i">fajli</ref>,
       <ref cel="rabot.0i">raboti</ref>.
     </refgrp>
+    <trd lng="fr">affiner</trd>
     <trdgrp lng="it">
       <trd>affinare</trd>,
       <trd>raffinare</trd>,
@@ -62,7 +85,6 @@
   <trd lng="ca">polir</trd>
   <trd lng="de">polieren</trd>
   <trd lng="en">polish</trd>
-  <trd lng="fr">polir</trd>
   <trd lng="nl">oppoetsen</trd>
   <trd lng="pt">polir</trd>
   <trdgrp lng="no">
@@ -81,6 +103,9 @@
 </art>
 <!--
 $Log: polur.xml,v $
+Revision 1.18  2014/08/20 09:10:09  revo
+Damien Brucker: +~o +~ado +trd fr
+
 Revision 1.17  2011/12/06 11:10:16  revo
 Marc Rausell: kataluna traduko
 
@@ -100,8 +125,5 @@ Revision 1.12  2005/06/15 16:32:15  revo
 Ulf Lunde: +trd no
 
 Revision 1.11  2003/07/17 16:37:34  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10  2002/11/16 17:30:51  revo
 -->
 </vortaro>

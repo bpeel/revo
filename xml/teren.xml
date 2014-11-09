@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: teren.xml,v 1.16 2012/08/13 20:10:36 revo Exp $">
+<art mrk="$Id: teren.xml,v 1.18 2014/08/10 17:10:12 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>teren</rad>/o
@@ -38,6 +38,8 @@
       <trd>campus</trd>,
       <trd>terrain</trd>
     </trdgrp>
+    <trd lng="es">terreno</trd>
+    <trd lng="fr">terrain</trd>
     <trd lng="ru">&c_u;&c_ch;&c_a;&c_s;&c_t;&c_o;&c_k;
 &c_z;&c_je;&c_m;&c_l;&c_i;</trd>
     <trd lng="tp">ma</trd>
@@ -75,6 +77,7 @@
       <trd>Gebiet</trd>,
       <trd>T&auml;tigkeitsfeld</trd>
     </trdgrp>
+    <trd lng="fr">terrain<klr> (au sens figur&eacute;)</klr></trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_o;&c_l;&c_je;
 &c_d;&c_je;&c_ja;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_i;</trd>,
@@ -91,6 +94,12 @@
 </art>
 <!--
 $Log: teren.xml,v $
+Revision 1.18  2014/08/10 17:10:12  revo
+Carlos Garcia: +trd es -o
+
+Revision 1.17  2014/08/08 15:10:11  revo
+Damien Brucker: +trd fr
+
 Revision 1.16  2012/08/13 20:10:36  revo
 Marc Rausell: + trd ca
 
@@ -107,11 +116,5 @@ Revision 1.12  2002/09/19 16:31:47  revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.11  2002/09/18 16:34:47  revo
-Christopher Zervic: trd ang
-
-Revision 1.10  2002/03/11 17:33:30  revo
-Yury Finkel: +trd ru
-
-Revision 1.9 2001/04/26 16:15:29 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fest.xml,v 1.29 2013/09/08 15:10:44 revo Exp $">
+<art mrk="$Id: fest.xml,v 1.31 2014/09/07 11:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fest</rad>/o <fnt><bib>PV</bib></fnt>
@@ -47,6 +47,7 @@
   <trd lng="fr">f&ecirc;te</trd>
   <trd lng="es">fiesta</trd>
   <trd lng="hu">&uuml;nnep</trd>
+  <trd lng="id">pesta</trd>
   <trd lng="it">festa</trd>
   <trd lng="nl">feest</trd>
   <trd lng="pl">&sacute;wi&eogonek;to</trd>
@@ -92,6 +93,7 @@
   <trd lng="es">festejar</trd>
   <trd lng="fr">f&ecirc;ter</trd>
   <trd lng="hu">&uuml;nnepel</trd>
+  <trd lng="id">[<ind>pesta</ind>] berpesta</trd>
   <trd lng="nl">feesten</trd>
   <trd lng="pl">&sacute;wi&eogonek;towa&cacute;</trd>
   <trd lng="ru">&c_p;&c_r;&c_a;&c_z;&c_d;&c_n;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
@@ -126,6 +128,7 @@
     <trd>c&eacute;l&eacute;brer</trd>,
     <trd>f&ecirc;ter<klr> (tr. qqch, qqun)</klr></trd>
   </trdgrp>
+  <trd lng="id">[<ind>raya</ind>] merayakan</trd>
   <trd lng="pl">obchodzi&cacute; <klr>(&sacute;wi&eogonek;towa&cacute;)</klr></trd>
 </drv>
 
@@ -189,6 +192,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd>Fiestas de las tiendas</trd>,
+    <trd>Sucot</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>F&ecirc;te des cabanes</trd>,
     <trd>F&ecirc;te des tentes</trd>
@@ -233,7 +240,9 @@
     <trd>Kost&uuml;mfest</trd>,
     <trd>Maskenball</trd>
   </trdgrp>
+  <trd lng="es">mascarada</trd>
   <trd lng="fr">mascarade</trd>
+  <trd lng="id"><ind>pesta</ind> topeng</trd>
   <trdgrp lng="pl">
     <trd>bal maskowy</trd>,
     <trd>maskarada</trd>
@@ -255,6 +264,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">onom&aacute;stica</trd>
   <trd lng="fr">f&ecirc;te<klr> (d'un pr&eacute;nom)</klr></trd>
   <trd lng="pl">imieniny</trd>
   <trd lng="ro">zi onomastic&abreve;</trd>
@@ -298,12 +308,19 @@
     <ref tip="dif" cel="dibocx.0o.MOR">dibo&ccirc;o</ref>
   </snc>
   <trd lng="en">Saturnalia</trd>
+  <trd lng="es">Saturnalia</trd>
   <trd lng="fr">saturnales</trd>
   <trd lng="pl">saturnalia</trd>
 </drv>
 </art>
 <!--
 $Log: fest.xml,v $
+Revision 1.31  2014/09/07 11:10:12  revo
+Carlos Garcia: +trd es saturna - mask- nom- -de lauxboj
+
+Revision 1.30  2014/06/18 16:10:22  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.29  2013/09/08 15:10:44  revo
 Wolfram Diestel: ref al listo festoj
 
@@ -320,11 +337,5 @@ Revision 1.25  2011/03/24 09:10:10  revo
 Larry Gilbert: +trd en
 
 Revision 1.24  2007/06/27 16:30:57  revo
-Wieland Pusch: +trd de
-
-Revision 1.23  2007/05/20 16:31:45  revo
-Tulio Flores: +tr pt
-
-Revision 1.22  2007/04/24 16:30:22  revo
 -->
 </vortaro>

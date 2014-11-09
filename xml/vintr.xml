@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vintr.xml,v 1.25 2013/09/23 07:10:24 revo Exp $">
+<art mrk="$Id: vintr.xml,v 1.26 2014/06/03 15:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vintr</rad>/o
@@ -40,6 +40,7 @@ lng="el">&chi;&epsilon;&jota;&my;&omega_ton;&ny;&alfa;&sigma_fina;</trd>
   <trd lng="es">invierno</trd>
   <trd lng="fr">hiver</trd>
   <trd lng="hu">t&eacute;l</trd>
+  <trd lng="id"><ind>musim</ind> dingin</trd>
   <trd lng="ja">&#20908; [<ind>&#12405;&#12422;</ind>]</trd>
   <trd lng="nl">winter</trd>
   <trd lng="pl">zima</trd>
@@ -122,6 +123,9 @@ lng="el">&chi;&epsilon;&jota;&my;&omega_ton;&ny;&alfa;&sigma_fina;</trd>
 </art>
 <!--
 $Log: vintr.xml,v $
+Revision 1.26  2014/06/03 15:10:21  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.25  2013/09/23 07:10:24  revo
 Wolfram Diestel: +val
 
@@ -141,8 +145,5 @@ Revision 1.20  2006/03/29 16:31:07  revo
 Vito Redsky: +trd pl +trd ro
 
 Revision 1.19  2005/11/04 17:31:19  revo
-Jeromo Vasxe: + ~a, ~o + fak kal, ~i/tra~i disig. + ekz.
-
-Revision 1.18 2003/10/24 16:31:01 revo
 -->
 </vortaro>

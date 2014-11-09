@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gent.xml,v 1.19 2014/02/23 02:10:17 revo Exp $">
+<art mrk="$Id: gent.xml,v 1.20 2014/09/27 01:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>gent</rad>/o <fnt><bib>PV</bib></fnt>
@@ -137,6 +137,7 @@ romaines)</klr></trd>,
   <trdgrp lng="nl">
     <trd>geslacht<klr tip="ind"> (volk)</klr></trd>
   </trdgrp>
+  <trd lng="es">estirpe</trd>
 </drv>
 
 <drv mrk="gent.sam0ano">
@@ -160,6 +161,9 @@ romaines)</klr></trd>,
 </art>
 <!--
 $Log: gent.xml,v $
+Revision 1.20  2014/09/27 01:10:12  revo
+Norbert Luckhardt: +trd ES
+
 Revision 1.19  2014/02/23 02:10:17  revo
 Jeromo Vasxe: + sam~ano
 
@@ -178,9 +182,6 @@ BIO (+uzoARK) +trd pl
 
 Revision 1.14  2005/08/18 16:32:23  revo
 Luiz Portella: +trd pt
-
-Revision 1.13  2004/01/04 17:34:58  revo
-Dmitri Gabinski: +trd be
 
 -->
 </vortaro>

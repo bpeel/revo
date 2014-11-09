@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: infini2.xml,v 1.14 2005/11/01 17:32:25 revo Exp $">
+  <art mrk="$Id: infini2.xml,v 1.16 2014/05/09 18:10:12 revo Exp $">
     <kap>
       <ofc>2</ofc>
       <rad>infinitiv</rad>/o
@@ -10,16 +10,18 @@
 
     <drv mrk="infini2.0o">
       <kap><tld/>o</kap>
-      <uzo tip="fak">GRA</uzo>
       <snc>
+      <uzo tip="fak">GRA</uzo>
         <dif>
-          Verba <ref tip="super" cel="modus.0o.GRA">moduso<sncref/></ref>
+          Verba <ref tip="super"
+          cel="modus.0o.GRA">moduso<sncref/></ref>
           esprimanta la agon a&ubreve; staton en plej abstrakta,
           nedifina maniero: senrilate al la aganto (senpersone),
           sen <ref cel="modal.verba0o">verba modalo</ref> kaj sen
           verba tempo:
           <ekz>
-            kiel la <ref tip="super" cel="nom.0o.LIN">nomoj<sncref/></ref>,
+            kiel la <ref tip="super"
+            cel="nom.0o.LIN">nomoj<sncref/></ref>,
             <tld/>o povas roli kiel subjekto, objekto, predikativo
             a&ubreve; epiteto;
           </ekz><ekz>
@@ -29,9 +31,22 @@
             en Esperanto <tld/>o estas la norma vortoformo vortara;
           </ekz><ekz>
             en Esperanto <tld/>o &ccirc;iam fini&gcirc;as je -i, tial oni povas
-            nomi &gcirc;in <ctl>la i-moduso</ctl>.
+            nomi &gcirc;in <ctl>la i-moduso</ctl>;
           </ekz>
         </dif>
+        <rim>
+        Z. atentigas, ke "en Esperanto oni uzas la <tld/>on nur a&ubreve; en
+        formo de rekta komplemento (ekzemple: <ekz>mi amas danci</ekz>),
+        a&ubreve; en formo de
+            nerekta komplemento kun la prepozicioj <ekz>por, anta&ubreve; (ol),
+            anstata&ubreve;</ekz>, kaj ke en &ccirc;iuj okazoj, kiam oni bezonas uzi
+            la <tld/>on kun iu alia prepozicio, oni devas uzi anstata&ubreve;
+            &gcirc;i participon a&ubreve; substantivon kun prepozicio (ekzemple:
+            <ekz> li foriris, ne preminte lian manon</ekz> a&ubreve; <ekz>sen
+            premado de lia mano</ekz> anstata&ubreve; <ekz>sen premi lian
+            manon</ekz>"<fnt><bib>LR</bib>, <lok>Respondo 30, La Revuo,
+            1908, Februaro</lok></fnt>.
+        </rim>
       </snc>
       <trdgrp lng="be">
         <trd>&c_ib;&c_n;&c_f;&c_ib;&c_n;&c_ib;&c_t;&c_y;&c_w;</trd>,
@@ -62,6 +77,12 @@
   </art>
   <!--
   $Log: infini2.xml,v $
+  Revision 1.16  2014/05/09 18:10:12  revo
+  Damien Brucker: +fak
+
+  Revision 1.15  2014/05/09 15:10:12  revo
+  Damien Brucker: +rim
+
   Revision 1.14  2005/11/01 17:32:25  revo
   Luiz Portella: +trd pt
 

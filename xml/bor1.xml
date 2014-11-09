@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bor1.xml,v 1.26 2013/12/01 04:10:13 revo Exp $">
+<art mrk="$Id: bor1.xml,v 1.27 2014/05/30 08:10:27 revo Exp $">
 <kap>
 <rad>bor</rad>/o
 <fnt>Z</fnt>
@@ -34,6 +34,7 @@
   </trdgrp>
   <trd lng="fr">bore</trd>
   <trd lng="hu">b&oacute;r</trd>
+  <trd lng="id">boron</trd>
   <trd lng="it">boro</trd>
   <trdgrp lng="nl">
     <trd>boor<klr tip="ind"> (borium)</klr></trd>,
@@ -67,6 +68,9 @@
 </art>
 <!--
 $Log: bor1.xml,v $
+Revision 1.27  2014/05/30 08:10:27  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.26  2013/12/01 04:10:13  revo
 Sergio Pokrovskij: +~a, +hom-ref
 
@@ -86,8 +90,5 @@ Revision 1.21  2013/08/24 20:10:42  revo
 Wolfram Diestel: referenco al listo elementoj
 
 Revision 1.20  2012/07/23 14:10:26  revo
-Marc Rausell: + trd ca
-
-Revision 1.19  2010/10/20 16:30:47  revo
 -->
 </vortaro>

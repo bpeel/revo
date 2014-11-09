@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kroati.xml,v 1.5 2013/12/16 17:10:12 revo Exp $">
+<art mrk="$Id: kroati.xml,v 1.7 2014/06/14 03:10:22 revo Exp $">
 <kap>
   <rad>Kroati</rad>/o
 </kap>
@@ -18,14 +18,13 @@
   <snc mrk="kroati.K0o.GEOG">
     <uzo tip="fak">GEOG</uzo>
     <uzo tip="fak">POL</uzo>
-    <dif>
       <ref tip="dif" cel="kroat.K0ujo.GEOG">Kroatujo</ref>
-    </dif>
     </snc>
     <trd lng="bg">&c_H;&c_malmol;&c_r;&c_v;&c_a;&c_t;&c_i;&c_ja;</trd>
     <trd lng="de">Kroatien</trd>
     <trd lng="en">Croatia</trd>
     <trd lng="fr">Croatie</trd>
+    <trd lng="id">Kroasia</trd>
     <trd lng="nl">Kroati&euml;</trd>
     <trdgrp lng="pl">
       <trd>Chorwacja</trd>,
@@ -36,6 +35,12 @@
 
 <!--
 $Log: kroati.xml,v $
+Revision 1.7  2014/06/14 03:10:22  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.6  2014/06/03 13:10:23  revo
+Damien Brucker: ref
+
 Revision 1.5  2013/12/16 17:10:12  revo
 Damien Brucker: +trd fr
 

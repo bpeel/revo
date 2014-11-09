@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: timor.xml,v 1.7 2013/12/01 13:10:15 revo Exp $">
+<art mrk="$Id: timor.xml,v 1.8 2014/06/24 10:10:29 revo Exp $">
 <kap>
   <rad>Timor</rad>/o
 </kap>
@@ -25,6 +25,7 @@
     <trd lng="de">Timor</trd>
     <trd lng="en">Timor</trd>
     <trd lng="fr">Timor</trd>
+    <trd lng="id">Timor</trd>
     <trdgrp lng="pl">
       <trd>Timor</trd>
     </trdgrp>
@@ -67,6 +68,10 @@
       <trd>Democratic Republic of <ind>Timor-Leste</ind></trd>
     </trdgrp>
     <trd lng="fr">Timor oriental</trd>
+    <trdgrp lng="id">
+      <trd><ind>Timor</ind> Leste</trd>,
+      <trd><ind>Timor</ind> Timur</trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd>Timor Wschodni</trd>,
       <trd>Demokratyczna Republika <ind>Timoru Wschodniego</ind></trd>
@@ -79,6 +84,9 @@
 
 <!--
 $Log: timor.xml,v $
+Revision 1.8  2014/06/24 10:10:29  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.7  2013/12/01 13:10:15  revo
 Damien Brucker: +trd fr
 
@@ -98,7 +106,5 @@ Revision 1.2  2009/06/09 16:32:08  revo
 Wieland Pusch: +trd bg,de,en
 
 Revision 1.1  2009/06/01 16:31:08  revo
-Sebastian Cyprych: nova artikolo
-
 -->
 </vortaro>

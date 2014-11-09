@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxah.xml,v 1.16 2011/12/05 01:10:32 revo Exp $">
+<art mrk="$Id: sxah.xml,v 1.17 2014/05/06 11:10:19 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>&scirc;ah</rad>/o
@@ -10,6 +10,7 @@
 <drv mrk="sxah.0o">
   <kap><tld/>o</kap>
   <snc>
+  <uzo tip="fak">HIS</uzo>
     <dif>
       Persa monar&hcirc;o.
     </dif>
@@ -26,6 +27,10 @@
     <trd>&a_sh;&a_A;&a_h;</trd>,
     <trd>&f_p;&a_A;&a_d;&a_sh;&a_A;&a_h;</trd>
   </trdgrp>
+  <trdgrp lng="fr">
+    <trd>shah</trd>,
+    <trd>chah</trd>
+  </trdgrp>
   <trd lng="hu">sah</trd>
   <trdgrp lng="it">
   <trd>sci&agrave;</trd>
@@ -38,6 +43,9 @@
 </art>
 <!--
 $Log: sxah.xml,v $
+Revision 1.17  2014/05/06 11:10:19  revo
+Damien Brucker: +trd fr
+
 Revision 1.16  2011/12/05 01:10:32  revo
 Marc Rausell: kataluna traduko
 
@@ -57,8 +65,5 @@ Revision 1.11  2002/10/11 16:32:32  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.10  2002/07/19 17:31:09  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.9  2002/05/20 16:37:53  revo
 -->
 </vortaro>

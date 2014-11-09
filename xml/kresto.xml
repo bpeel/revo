@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kresto.xml,v 1.16 2014/04/14 14:10:15 revo Exp $">
+  <art mrk="$Id: kresto.xml,v 1.17 2014/07/13 17:10:10 revo Exp $">
     <kap>
       <ofc>2</ofc>
       <rad>krestomati</rad>/o
@@ -14,9 +14,14 @@
 	  Instrucela <ref tip="super" cel="tekst.0aro">tekstaro</ref>
 	  da prozaj kaj poeziaj pecoj, ofte en unu sama lingvo, a&ubreve; el
 	  verkoj de unu sama a&ubreve;toro:
+          <ekz>
+          cedante al la peto de multaj esperantistoj, mi eldonis la
+          Fundamenton <tld lit="K"/>on, kiu povos servi al &ccirc;iuj kiel
+          modelo de esperanta stilo<fnt><bib>FK</bib></fnt>;
+          </ekz>
 	  <ekz>
-	    atentan tralegon de la Fundamenta <tld/>o mi rekomendas al
-	    &ccirc;iu<fnt>Z</fnt>.
+	    atentan tralegon de la Fundamenta <tld lit="K"/>o mi rekomendas al
+	    &ccirc;iu<fnt><bib>FK</bib></fnt>.
 	  </ekz>
 	</dif>
 	<ref tip="vid" cel="antolo.0o.BELE">antologio</ref>
@@ -43,6 +48,9 @@
   </art>
   <!--
   $Log: kresto.xml,v $
+  Revision 1.17  2014/07/13 17:10:10  revo
+  Damien Brucker: +ekz
+
   Revision 1.16  2014/04/14 14:10:15  revo
   Damien Brucker: +trd fr
 

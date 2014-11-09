@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: son.xml,v 1.33 2014/01/03 02:10:14 revo Exp $">
+<art mrk="$Id: son.xml,v 1.34 2014/05/16 17:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>son</rad>/i <fnt><bib>PV</bib></fnt>
@@ -87,7 +87,11 @@
       <ekz>
         harmoniaj <tld/>oj;
       </ekz><ekz>
-        movi sen<tld/>e la lipojn<fnt>Z</fnt>.
+        movi sen<tld/>e la lipojn<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+      ni devas elparoli &ccirc;iun <tld/>on severe aparte<fnt><bib>LR</bib>,
+      <lok>Respondo 56, Oficiala Gazeto, IV, 1911, p. 222</lok></fnt>.
       </ekz>
     </dif>
     <rim mrk="son.0o.RIM">
@@ -471,6 +475,9 @@
 </art>
 <!--
 $Log: son.xml,v $
+Revision 1.34  2014/05/16 17:10:12  revo
+Damien Brucker: +ekz
+
 Revision 1.33  2014/01/03 02:10:14  revo
 Damien Brucker: +ref
 
@@ -490,8 +497,5 @@ Revision 1.28  2012/09/07 19:10:08  revo
 Jeromo Vasxe: kor 1 ref
 
 Revision 1.27  2010/05/30 16:30:22  revo
-Antonio Codazzi: +trd it
-
-Revision 1.26  2006/09/20 18:35:35  revo
 -->
 </vortaro>

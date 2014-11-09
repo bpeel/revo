@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: karbon.xml,v 1.23 2014/01/30 09:10:31 revo Exp $">
+<art mrk="$Id: karbon.xml,v 1.24 2014/05/30 08:10:28 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>karbon</rad>/o <fnt><bib>PV</bib></fnt>
@@ -36,6 +36,7 @@
     <trd>elemi <ind>sz&eacute;n</ind></trd>,
     <trd>karbon</trd>
   </trdgrp>
+  <trd lng="id">karbon</trd>
   <trd lng="it">carbonio</trd>
   <trd lng="la">Carboneum</trd>
   <trd lng="nl">koolstof</trd>
@@ -89,6 +90,9 @@
 </art>
 <!--
 $Log: karbon.xml,v $
+Revision 1.24  2014/05/30 08:10:28  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.23  2014/01/30 09:10:31  revo
 Joop Eggen: +trd bg
 
@@ -108,8 +112,5 @@ Revision 1.18  2011/03/04 10:10:11  revo
 Jeromo Vasxe: + radi~o + ~14
 
 Revision 1.17  2010/10/25 16:30:42  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.16  2006/06/01 16:32:06  revo
 -->
 </vortaro>

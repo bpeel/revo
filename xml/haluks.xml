@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: haluks.xml,v 1.11 2014/02/16 09:10:15 revo Exp $">
+  <art mrk="$Id: haluks.xml,v 1.12 2014/06/06 08:10:14 revo Exp $">
     <kap><rad>haluks</rad>/o</kap>
 
     <drv mrk="haluks.0o">
@@ -21,6 +21,10 @@
       <trd lng="ca">h&agrave;l&middot;lux</trd>
       <trd lng="de">gro&szlig;er Zeh</trd>
       <trd lng="fa">&a_sh;&a_s;&a_t; &f_p;&a_A;</trd>
+      <trdgrp lng="fr">
+        <trd>hallux</trd>,
+        <trd>gros <ind>orteil</ind></trd>
+      </trdgrp>
       <trdgrp lng="hu">
         <trd>&ouml;regujj <klr tip="amb">(l&aacute;bon)</klr></trd>,
         <trd>nagy <ind>l&aacute;bujj</ind></trd>
@@ -40,6 +44,9 @@
 
 <!--
 $Log: haluks.xml,v $
+Revision 1.12  2014/06/06 08:10:14  revo
+Damien Brucker: +trd fr
+
 Revision 1.11  2014/02/16 09:10:15  revo
 Joop Eggen: +trd bg nl
 
@@ -59,8 +66,5 @@ Revision 1.6  2005/12/04 17:31:29  revo
 Wieland Pusch: +trd de
 
 Revision 1.5  2005/10/15 16:31:15  revo
-Luiz Portella: +trd pt
-
-Revision 1.4  2005/10/14 18:03:38  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frot.xml,v 1.15 2012/07/30 09:10:25 revo Exp $">
+<art mrk="$Id: frot.xml,v 1.16 2014/06/23 16:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>frot</rad>/i <fnt><bib>PV</bib></fnt> 
@@ -46,6 +46,7 @@
   <trd lng="en">rub</trd>
   <trd lng="es">frotar</trd>
   <trd lng="fr">frotter</trd>
+  <trd lng="id">[<ind>gosok</ind>] menggosok</trd>
   <trd lng="nl">wrijven</trd>
   <trdgrp lng="pt">
     <trd>esfregar</trd>,
@@ -88,6 +89,7 @@
     <trd>frottement</trd>,
     <trd>friction<klr tip="ind"> (frottement)</klr></trd>
   </trdgrp>
+  <trd lng="id"><ind>gesek</ind>an</trd>
   <trd lng="nl">wrijving</trd>
   <trd lng="ru">&c_t;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="sk">trenie</trd>
@@ -151,6 +153,9 @@
 </art>
 <!--
 $Log: frot.xml,v $
+Revision 1.16  2014/06/23 16:10:12  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.15  2012/07/30 09:10:25  revo
 Marc Rausell: + trd ca
 
@@ -170,8 +175,5 @@ Revision 1.10  2003/01/05 17:33:47  revo
 Paul Peeraerts: ald trd nl + belarangho
 
 Revision 1.9 2002/07/02 17:34:43 revo
-Alejandro Mejia Greene: ald 3 his trd
-
-Revision 1.8 2001/09/27 18:17:24 revo
 -->
 </vortaro>

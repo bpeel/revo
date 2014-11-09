@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: volupt.xml,v 1.14 2013/03/01 14:10:13 revo Exp $">
+<art mrk="$Id: volupt.xml,v 1.15 2014/07/11 15:10:27 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>volupt</rad>/o <fnt><bib>PV</bib></fnt> 
@@ -40,6 +40,10 @@
     <trd>k&eacute;j</trd>,
     <trd>gy&ouml;ny&ouml;r</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>gairah</trd>,
+    <trd>hasrat</trd>
+  </trdgrp>
   <trd lng="nl">wellust</trd>
   <trd lng="pt">vol&uacute;pia</trd>
   <trdgrp lng="ru">
@@ -73,10 +77,17 @@
     <trd>sensuel</trd>,
     <trd>voluptueux</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>[<ind>gairah</ind>] bergairah</trd>,
+    <trd>sensual</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: volupt.xml,v $
+Revision 1.15  2014/07/11 15:10:27  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.14  2013/03/01 14:10:13  revo
 Jeromo Vasxe: + ~ema, + trd fr
 
@@ -96,8 +107,5 @@ Revision 1.9  2002/07/23 17:31:25  revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.8  2002/03/19 17:34:35  revo
-Yury Finkel: +trd ru
-
-Revision 1.7 2001/05/29 18:15:28 revo
 -->
 </vortaro>

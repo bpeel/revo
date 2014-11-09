@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sxinob.xml,v 1.7 2014/03/26 16:10:20 revo Exp $">
+  <art mrk="$Id: sxinob.xml,v 1.8 2014/08/31 09:10:13 revo Exp $">
     <kap>
       <rad>&scirc;inob</rad>/o
     </kap>
@@ -36,6 +36,7 @@
         <trd>Shinobi</trd>,
         <trd>Ninja</trd>
       </trdgrp>
+      <trd lng="es">ninja</trd>
       <trdgrp lng="fr">
         <trd>ninja</trd>,
         <trd>shinobi</trd>
@@ -51,6 +52,9 @@
 
 <!--
 $Log: sxinob.xml,v $
+Revision 1.8  2014/08/31 09:10:13  revo
+Carlos Garcia: +trd es -o
+
 Revision 1.7  2014/03/26 16:10:20  revo
 Damien Brucker: +trd fr
 
@@ -70,7 +74,5 @@ Revision 1.2  2009/03/30 16:30:53  revo
 Wieland Pusch: +trd de
 
 Revision 1.1  2009/03/28 17:30:28  revo
-Antonio Codazzi: nova artikolo
-
 -->
 </vortaro>

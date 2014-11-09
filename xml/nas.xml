@@ -2,17 +2,23 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nas.xml,v 1.14 2012/09/17 18:10:20 revo Exp $">
+<art mrk="$Id: nas.xml,v 1.15 2014/07/22 01:10:15 revo Exp $">
 <kap>
   <ofc>4</ofc>
-  <rad>nas</rad>/o
-  <fnt>Z</fnt>
+  <rad>nas</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="nas.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <snc mrk="nas.0o.CXAS">
     <dif>
-      Konusforma korbo el salikaj vergetoj por kapti fi&scirc;ojn.
+      Konusforma korbo el vergetoj a&ubreve; aliaj stangetoj
+      por kapti fi&scirc;ojn:
+      <ekz>
+        ni iru kaj metu niajn <tld/>etojn en la lagon, kaj 
+        morga&ubreve; ni havos bongustan matenman&gcirc;on
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
     </dif>
   </snc>                  
   <trd lng="be">&c_b;&c_u;&c_ch;</trd>
@@ -43,6 +49,9 @@
 </art>
 <!--
 $Log: nas.xml,v $
+Revision 1.15  2014/07/22 01:10:15  revo
+Jeromo Vasxe: + ekz
+
 Revision 1.14  2012/09/17 18:10:20  revo
 Marc Rausell: + trd ca
 
@@ -62,8 +71,5 @@ Revision 1.9  2002/11/10 11:43:51  revo
 Ulrich Fellmann: + 2 trd de
 
 Revision 1.8  2002/10/14 16:33:15  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.7  2002/06/08 17:31:43  revo
 -->
 </vortaro>

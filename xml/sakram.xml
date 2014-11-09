@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sakram.xml,v 1.14 2009/09/22 17:17:50 revo Exp $">
+  <art mrk="$Id: sakram.xml,v 1.15 2014/06/03 12:10:13 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>sakrament</rad>/o
@@ -48,6 +48,7 @@
         <trd lng="ru">&c_t;&c_a;&c_i;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
       </snc>
     <trd lng="es">sacramento</trd>
+    <trd lng="fr">sacrement</trd>
     <trdgrp lng="hu">
       <trd>szents&eacute;g</trd>,
       <trd>szakramentum</trd>
@@ -57,6 +58,9 @@
   </art>
   <!--
   $Log: sakram.xml,v $
+  Revision 1.15  2014/06/03 12:10:13  revo
+  Damien Brucker: +trd fr
+
   Revision 1.14  2009/09/22 17:17:50  revo
   Antonio Codazzi: +trd it
 

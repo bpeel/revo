@@ -2,16 +2,16 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korakl.xml,v 1.3 2009/09/10 16:33:04 revo Exp $">
+<art mrk="$Id: korakl.xml,v 1.4 2014/07/10 20:10:13 revo Exp $">
 <kap>
   <rad>korakl</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="korakl.0o">
   <kap><tld/>o</kap>
-  <snc mrk="korakl.0o.MAR">
-    <uzo tip="fak">MAR</uzo>
+  <snc mrk="korakl.0o.SHI">
+    <uzo tip="fak">SHI</uzo>
     <dif>
-      Fel<ref tip="super" cel="boat.0o.MAR">boato</ref> kun &scirc;elo 
+      Fel<ref tip="super" cel="boat.0o.SHI">boato</ref> kun &scirc;elo 
       farita el ligna framo surtegita per feloj:
       <ekz>
         la tuta rivero &gcirc;is Staine estas punktita de malgrandaj barkoj 
@@ -48,6 +48,9 @@
 
 <!--
 $Log: korakl.xml,v $
+Revision 1.4  2014/07/10 20:10:13  revo
+Jeromo Vasxe: korektis ref
+
 Revision 1.3  2009/09/10 16:33:04  revo
 Paul Peeraerts: +nl
 

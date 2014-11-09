@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: katedr.xml,v 1.14 2014/01/07 07:10:20 revo Exp $">
+<art mrk="$Id: katedr.xml,v 1.15 2014/08/21 16:10:11 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>katedr</rad>/o
@@ -21,6 +21,10 @@
       <trd>pulpit</trd>,
       <trd>throne</trd>,
       <trd>lecturer's desk</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>p&uacute;lpito con asiento</trd>,
+      <trd>c&aacute;tedra</trd>
     </trdgrp>
     <trdgrp lng="nl">
     <trd>katheder</trd>
@@ -43,6 +47,10 @@
       <trd>professorship</trd>,
       <trd>university post</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>cargo universitario de profesor</trd>,
+      <trd>c&aacute;tedra</trd>
+    </trdgrp>
     <trdgrp lng="nl">
     <trd>leerstoel</trd>
     </trdgrp>
@@ -62,6 +70,9 @@
 </art>
 <!--
 $Log: katedr.xml,v $
+Revision 1.15  2014/08/21 16:10:11  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.14  2014/01/07 07:10:20  revo
 Sebastian Cyprych: +trd pl
 
@@ -81,8 +92,5 @@ Revision 1.9 2002/10/27 17:11:43 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.8 2002/03/08 17:32:16 revo
-Paul Peeraerts: ald plian trd nl
-
-Revision 1.7 2001/11/07 19:15:22 revo
 -->
 </vortaro>

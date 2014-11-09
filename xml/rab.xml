@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: rab.xml,v 1.26 2012/01/27 10:10:09 revo Exp $">
+<art mrk="$Id: rab.xml,v 1.27 2014/10/09 11:10:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rab</rad>/i <fnt><bib>PV</bib></fnt>
@@ -62,7 +62,10 @@
   <trd lng="cs">loupit</trd>
   <trd lng="de">rauben</trd>
   <trd lng="en">rob</trd>
-  <trd lng="es">robar</trd>
+  <trdgrp lng="es">
+    <trd>atracar</trd>,
+    <trd>robar</trd>
+  </trdgrp>
   <trd lng="hu">rabol</trd>
   <trdgrp lng="nl">
     <trd>roven</trd>,
@@ -156,7 +159,10 @@
   </trdgrp>
   <trd lng="ca">lladre</trd>
   <trd lng="de">R&auml;uber</trd>
-  <trd lng="es">ladr&oacute;n</trd>
+  <trdgrp lng="es">
+    <trd>atracador</trd>,
+    <trd>ladr&oacute;n</trd>
+  </trdgrp>
   <trd lng="fr">brigand</trd>
   <trd lng="hu">rabl&oacute;</trd>
   <trd lng="nl">rover</trd>
@@ -235,6 +241,9 @@
 </art>
 <!--
 $Log: rab.xml,v $
+Revision 1.27  2014/10/09 11:10:33  revo
+Carlos Garcia: +trd es -i -ist
+
 Revision 1.26  2012/01/27 10:10:09  revo
 Jeromo Vasxe: + tempo~a + kk trd fr
 
@@ -254,8 +263,5 @@ Revision 1.21  2006/06/27 16:31:39  revo
 Raul Salinas Monteagudo: +trd ca,es
 
 Revision 1.20  2006/02/07 17:32:26  revo
-Tulio Flores: +trd pt
-
-Revision 1.19  2006/01/02 17:32:30  revo
 -->
 </vortaro>

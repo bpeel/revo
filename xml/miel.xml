@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: miel.xml,v 1.22 2012/08/02 09:10:34 revo Exp $">
+<art mrk="$Id: miel.xml,v 1.24 2014/06/19 17:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>miel</rad>/o
@@ -24,6 +24,7 @@
   <trd lng="es">miel</trd>
   <trd lng="fr">miel</trd>
   <trd lng="hu">m&eacute;z</trd>
+  <trd lng="id">madu</trd>
   <trdgrp lng="nl">
     <trd>honing</trd>,
     <trd>honig</trd>
@@ -90,6 +91,7 @@
   </snc>
   <trd lng="be">&c_m;&c_ja;&c_d;&c_o;&c_v;&c_y;</trd>
   <trd lng="ca">mel&oacute;s</trd>
+  <trd lng="fr">mielleux</trd>
   <trd lng="pl">miodowy</trd>
   <trd lng="ru">&c_m;&c_je;&c_d;&c_o;&c_v;&c_y;&c_j;</trd>
 </drv>
@@ -106,11 +108,18 @@ larvojn kaj en kiuj la abeloj staplas <tld/>on.
   <trd lng="de">Honigwaben</trd>
   <trd lng="en">honeycomb</trd>
   <trd lng="es">panal</trd>
+  <trd lng="fr">rayon<klr> (de ruche)</klr></trd>
   <trd lng="pl">plaster <klr>(miodu)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: miel.xml,v $
+Revision 1.24  2014/06/19 17:10:13  revo
+Damien Brucker: +trd fr
+
+Revision 1.23  2014/06/08 16:10:45  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.22  2012/08/02 09:10:34  revo
 Marc Rausell: + trd ca
 
@@ -127,11 +136,5 @@ Revision 1.18  2005/12/26 19:20:31  revo
 H. Neal Parker: +drv; +trd en, es
 
 Revision 1.17  2005/12/19 17:31:37  revo
-Marc Bavant: Neniu sxangxo: problemo de Neal
-
-Revision 1.16  2005/05/23 16:31:22  revo
-Alan ar Gall: +trd br
-
-Revision 1.15  2004/06/10 16:31:54  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: afgan.xml,v 1.14 2013/03/01 07:10:17 revo Exp $">
+<art mrk="$Id: afgan.xml,v 1.16 2014/06/06 16:10:17 revo Exp $">
 <kap>
   <rad>afgan</rad>/o
   <ofc>*</ofc>
@@ -32,6 +32,7 @@
       kaj <ref tip="vid" cel="uzbek.U0ujo">Uzbekujo</ref>.
     </dif>
     <ref tip="sin" cel="afgani.A0o.GEOG">Afganio</ref>
+    </snc>
     <trd lng="be">&c_A;&c_w;&c_g;&c_a;&c_n;&c_ib;&c_s;&c_t;&c_a;&c_n;</trd>
     <trd lng="bg">&c_A;&c_f;&c_g;&c_a;&c_n;&c_i;&c_s;&c_t;&c_a;&c_n;</trd>
     <trdgrp lng="ca">
@@ -42,7 +43,12 @@
     <trd lng="el">&Alfa;&phi;&gamma;&alfa;&ny;&jota;&sigma;&tau;&alfa_ton;&ny;</trd>
     <trd lng="en">Afghanistan</trd>
     <trd lng="fa">&a_A;&a_f;&a_gh;&a_A;&a_n;&a_s;&a_t;&a_A;&a_n;</trd>
+    <trdgrp lng="fr">
+      <trd>Afghanistan</trd>,
+      <trd>R&eacute;publique islamique d'Afghanistan</trd>
+    </trdgrp>
     <trd lng="hu">Afganiszt&aacute;n</trd>
+    <trd lng="id">Afganistan</trd>
     <trdgrp lng="it">
       <trd>Afganistan</trd>
     </trdgrp>
@@ -51,13 +57,18 @@
       <trd>Islamska Republika <ind>Afganistanu</ind></trd>
     </trdgrp>
     <trd lng="pt">Afeganist&atilde;o</trd>
-  </snc>
 </drv>
 
 </art>
 
 <!--
 $Log: afgan.xml,v $
+Revision 1.16  2014/06/06 16:10:17  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.15  2014/05/08 18:10:38  revo
+Damien Brucker: +trd fr
+
 Revision 1.14  2013/03/01 07:10:17  revo
 Dmitri Gabinski: redakto: +trd be
 
@@ -74,11 +85,5 @@ Revision 1.10  2011/02/17 11:10:09  revo
 Luiz Portella: kor. ref k mrk
 
 Revision 1.9  2011/02/13 01:10:12  revo
-Luiz Portella: kor. ref k mrk
-
-Revision 1.8  2009/07/13 16:30:26  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.7  2009/05/21 16:30:20  revo
 -->
 </vortaro>

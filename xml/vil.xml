@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vil.xml,v 1.13 2009/06/05 16:30:57 revo Exp $">
+<art mrk="$Id: vil.xml,v 1.14 2014/06/17 07:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vil</rad>/a
@@ -31,6 +31,7 @@
     <trd>hairy</trd>,
     <trd>hirsute</trd>
   </trdgrp>
+  <trd lng="fr">villeux</trd>
   <trd lng="hu">sz&odblac;r&odblac;s</trd>
   <trd lng="nl">ruig</trd>
   <trdgrp lng="ru">
@@ -58,6 +59,7 @@
     <trd>villus</trd>,
     <trd>tuft of hair</trd>
   </trdgrp>
+  <trd lng="fr">villosit&eacute;</trd>
   <trdgrp lng="hu">
     <trd>serte</trd>,
     <trd>s&ouml;rte</trd>
@@ -71,6 +73,9 @@
 </art>
 <!--
 $Log: vil.xml,v $
+Revision 1.14  2014/06/17 07:10:13  revo
+Damien Brucker: +trd fr
+
 Revision 1.13  2009/06/05 16:30:57  revo
 Russ Williams: +trd en
 
@@ -90,8 +95,5 @@ Revision 1.8  2002/09/05 17:31:12  revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.7  2002/03/18 18:11:34  revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/06/04 18:42:13 revo
 -->
 </vortaro>

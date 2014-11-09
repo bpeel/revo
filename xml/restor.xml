@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: restor.xml,v 1.12 2012/09/19 09:10:13 revo Exp $">
+<art mrk="$Id: restor.xml,v 1.13 2014/06/30 10:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>restoraci</rad>/o
@@ -29,6 +29,10 @@
   <trd lng="es">restaurante</trd>
   <trd lng="fr">restaurant</trd>
   <trd lng="hu">&eacute;tterem</trd>  
+  <trdgrp lng="id">
+    <trd>restoran</trd>,
+    <trd><ind>rumah</ind> makan</trd>
+  </trdgrp>
   <trd lng="nl">restaurant</trd>
   <trd lng="pt">restaurante</trd>
   <trd lng="ru">&c_r;&c_je;&c_s;&c_t;&c_o;&c_r;&c_a;&c_n;</trd>
@@ -36,6 +40,9 @@
 </art>
 <!--
 $Log: restor.xml,v $
+Revision 1.13  2014/06/30 10:10:14  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.12  2012/09/19 09:10:13  revo
 Marc Rausell: + trd ca
 
@@ -55,8 +62,5 @@ Revision 1.7 2001/03/01 20:05:35 revo
 Ulrich Fellmann: + 3 pliaj germ trdj
 
 Revision 1.6 2001/02/28 17:12:25 revo
-Dennis Wibrow: +trd ger, frc, angl, hisp
-
-Revision 1.5 2000/11/09 17:11:27 revo
 -->
 </vortaro>

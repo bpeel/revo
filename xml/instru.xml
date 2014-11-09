@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: instru.xml,v 1.36 2013/09/22 19:10:33 revo Exp $">
+<art mrk="$Id: instru.xml,v 1.38 2014/08/25 11:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>instru</rad>/i <fnt><bib>PV</bib></fnt>
@@ -98,7 +98,10 @@
     <trd>teach</trd>,
     <trd>instruct</trd>
   </trdgrp>
-  <trd lng="es">ense&ntilde;ar</trd>
+  <trdgrp lng="es">
+    <trd>ense&ntilde;ar</trd>,
+    <trd>instruir</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>apprendre<klr tip="ind"> (&agrave; quelqu'un)</klr></trd>,
     <trd>enseigner</trd>
@@ -107,6 +110,10 @@
   <trdgrp lng="hu">
     <trd>tan&iacute;t</trd>,
     <trd>oktat</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>[<ind>ajar</ind>] mengajar</trd>,
+    <trd>[<ind>ajar</ind>] mengajarkan</trd>
   </trdgrp>
   <trd lng="nl">onderwijzen</trd>
   <trdgrp lng="pl">
@@ -154,10 +161,12 @@
       <trd>instruktiv</trd>
     </trdgrp>
     <trd lng="en">instructive</trd>
+    <trd lng="es">instructivo</trd>
     <trdgrp lng="fr">
       <trd>instructif</trd>
     </trdgrp>
     <trd lng="hu">tanuls&aacute;gos</trd>
+    <trd lng="id">instruktif</trd>
     <trd lng="nl">leerrijk</trd>
     <trdgrp lng="pl">
       <trd>pouczaj&aogonek;cy</trd>,
@@ -185,6 +194,10 @@
     <trdgrp lng="en">
       <trd>instructional</trd>,
       <trd>teaching</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>de <ind>instrucci&oacute;n</ind></trd>,
+      <trd>de <ind>ense&ntilde;anza</ind></trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>d'<ind>instruction</ind></trd>,
@@ -220,6 +233,7 @@
     </ekz><ekz>
       preni de io <tld/>on<fnt>Z</fnt>.
     </ekz>
+    <trd lng="es">ense&ntilde;anza</trd>
     <trd lng="hu">tan&iacute;t&aacute;s</trd>
     <trdgrp lng="pl">
       <trd>uczenie</trd>,
@@ -255,6 +269,10 @@
     </ekz><ekz>
       tiu terura ekzemplo servu al vi kiel <tld/>o.
     </ekz>
+    <trdgrp lng="es">
+      <trd>ense&ntilde;anza</trd>,
+      <trd>conocimiento</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>enseignement<klr tip="ind"> (ce qu'on
       enseigne)</klr></trd>,
@@ -264,6 +282,7 @@
       <trd>tanult ismeret</trd>,
       <trd>tanuls&aacute;g</trd>
     </trdgrp>
+    <trd lng="id">[<ind>ajar</ind>] pengajaran</trd>
     <trdgrp lng="pl">
       <trd>nauka</trd>,
       <trd>pouczenie</trd>,
@@ -327,7 +346,10 @@
     <trd>teaching</trd>,
     <trd>instruction</trd>
   </trdgrp>
-  <trd lng="es">ense&ntilde;anza</trd>
+  <trdgrp lng="es">
+    <trd>ense&ntilde;anza</trd>,
+    <trd>instrucci&oacute;n</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>enseignement<klr tip="ind"> (fait d'enseigner)</klr></trd>,
     <trd>instruction<klr tip="ind"> (fait d'instruire)</klr></trd>
@@ -335,6 +357,11 @@
   <trdgrp lng="hu">
     <trd>tan&iacute;t&aacute;s</trd>,
     <trd>oktat&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>[<ind>ajar</ind>] pengajaran</trd>,
+    <trd>[<ind>ajar</ind>] pembelajaran</trd>,
+    <trd>instruksi</trd>
   </trdgrp>
   <trd lng="nl">onderwijs</trd>
   <trdgrp lng="pl">
@@ -377,7 +404,10 @@
     <trd>&c_v;&c_je;&c_d;&c_y;</trd>
   </trdgrp>
   <trd lng="de">Lehre</trd>
-  <trd lng="es">ense&ntilde;anza</trd>
+  <trdgrp lng="es">
+    <trd>ense&ntilde;anza</trd>,
+    <trd>lecci&oacute;n</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>enseignement<klr tip="ind"> (ce qu'on
     enseigne)</klr></trd>,
@@ -387,6 +417,7 @@
     <trd>tanult ismeret</trd>,
     <trd>tanuls&aacute;g</trd>
   </trdgrp>
+  <trd lng="id">[<ind>ajar</ind>] pelajaran</trd>
   <trd lng="nl">onderwezen <ind>kennis</ind></trd>
   <trdgrp lng="pl">
     <trd>nauka</trd>,
@@ -421,7 +452,10 @@
     <trd>Seminarraum</trd>
   </trdgrp>
   <trd lng="en">school</trd>
-  <trd lng="es">escuela</trd>
+  <trdgrp lng="es">
+    <trd>colegio</trd>,
+    <trd>escuela</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&eacute;cole</trd>,
     <trd>&eacute;tablissement scolaire</trd>
@@ -431,6 +465,7 @@
     <trd>oktat&oacute;terem</trd>,
     <trd>oktat&aacute;si helyis&eacute;g</trd>,
   </trdgrp>
+  <trd lng="id">sekolah</trd>
   <trd lng="nl">onderwijsinstelling</trd>
   <trdgrp lng="pl">
     <trd>szko&lstroke;a</trd>,
@@ -462,12 +497,19 @@
   <trdgrp lng="de">
     <trd>lernen</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd><ind>formar</ind>se<klr tip="ind">
+    (instruirse)</klr></trd>,
+    <trd><ind>educar</ind>se</trd>,
+    <trd><ind>instruir</ind>se</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>former</ind><klr tip="ind">
     (s'instruire)</klr></trd>,
     <trd>s'<ind>instruire</ind></trd>
   </trdgrp>
   <trd lng="hu">tanul</trd>
+  <trd lng="id">[<ind>ajar</ind>] belajar</trd>
   <trd lng="nl">leren</trd>
   <trdgrp lng="pl">
     <trd>uczy&cacute; si&eogonek;</trd>,
@@ -518,7 +560,10 @@
     <trd>Lehrer</trd>,
     <trd>Lehrerin</trd>
   </trdgrp>
-  <trd lng="es">profesor</trd>
+  <trdgrp lng="es">
+    <trd>profesor</trd>,
+    <trd>maestro</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>enseignant</trd>,
     <trd>professeur<klr tip="ind"> (enseignant)</klr></trd>,
@@ -528,6 +573,10 @@
     <trd>tan&iacute;t&oacute;</trd>,
     <trd>tan&aacute;r</trd>,
     <trd>oktat&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>guru</trd>,
+    <trd>instruktur</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>onderwijzer</trd>,
@@ -568,6 +617,11 @@
     </trd>
   </trdgrp>
   <trd lng="de">Gelehrtheit</trd>
+  <trdgrp lng="es">
+    <trd>el conocimiento</trd>,
+    <trd>la educaci&oacute;n<klr tip="ind"> (cuerpo de conocimientos)</klr>
+    </trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>connaissances<klr tip="ind"> (savoir)</klr></trd>,
     <trd>
@@ -578,6 +632,7 @@
     <trd>tanults&aacute;g</trd>,
     <trd>m&udblac;velts&eacute;g</trd>
   </trdgrp>
+  <trd lng="id">[<ind>tahu</ind>] pengetahuan</trd>
   <trd lng="nl">ontwikkeling</trd>
   <trdgrp lng="pl">
     <trd>wyszkolenie</trd>,
@@ -600,6 +655,10 @@
   <trd lng="be">&c_a;&c_d;&c_u;&c_k;&c_a;&c_v;&c_a;&c_n;&c_y;
     &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>
   <trd lng="de">Gelehrter</trd>
+  <trdgrp lng="es">
+    <trd>erudito</trd>,
+    <trd>cient&iacute;fico</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>clerc<klr tip="ind"> (personne cultiv&eacute;e)</klr></trd>,
     <trd>lettr&eacute;<klr tip="ind"> (subst.)</klr></trd>,
@@ -642,6 +701,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">desaprender</trd>
   <trd lng="fr">d&eacute;sapprendre<klr> (&agrave; qqn)</klr></trd>
 </drv>
 
@@ -666,6 +726,10 @@
     <trd>&c_n;&c_a;&c_v;&c_u;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   </trdgrp>
   <trd lng="de">didaktisch</trd>
+  <trdgrp lng="es">
+    <trd>did&aacute;ctico</trd>,
+    <trd>pedag&oacute;gico</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>didactique</trd>,
     <trd>p&eacute;dagogique</trd>
@@ -674,6 +738,10 @@
     <trd>tan&iacute;t&aacute;si</trd>,
     <trd>oktat&aacute;si</trd>,
     <trd>didaktikai</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>didaktis</trd>,
+    <trd>pedagogis</trd>
   </trdgrp>
   <trd lng="nl">didactisch</trd>
   <trdgrp lng="pl">
@@ -696,10 +764,12 @@
   </trdgrp>
   <trd lng="de">Autodidakt</trd>
   <trd lng="en">self-taught</trd>
+  <trd lng="es">autodidacta</trd>
   <trdgrp lng="fr">
     <trd>autodidacte</trd>
   </trdgrp>
   <trd lng="hu">autodidakta</trd>
+  <trd lng="id">autodidak</trd>
   <trd lng="nl">autodidact</trd>
   <trd lng="pl">samouk</trd>
   <trd lng="pt">autodidata</trd>
@@ -714,11 +784,16 @@
     </dif>
   </snc>
   <trd lng="de">Moralpredigt</trd>
+  <trdgrp lng="es">
+    <trd>lecci&oacute;n moral</trd>,
+    <trd>moraleja<klr tip="ind"> (de una historia)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>le&ccedil;on<klr tip="ind"> (morale)</klr></trd>,
     <trd>morale<klr tip="ind"> (d'une histoire)</klr></trd>
   </trdgrp>
   <trd lng="hu">erk&ouml;lcsi tanuls&aacute;g</trd>
+  <trd lng="id">peng<ind>ajar</ind>an moral</trd>
   <trd lng="nl">zedenles</trd>
   <trdgrp lng="pl">
     <trd>nauki moralne</trd>,
@@ -743,8 +818,10 @@
     <trd>lehrreich</trd>,
     <trd>instruktiv</trd>
   </trdgrp>
+  <trd lng="es">instructivo</trd>
   <trd lng="fr">instructif</trd>
   <trd lng="hu">tanuls&aacute;gos</trd>
+  <trd lng="id">instruktif</trd>
   <trd lng="ru">
     &c_p;&c_o;&c_u;&c_ch;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
   </trd>
@@ -752,6 +829,12 @@
 </art>
 <!--
 $Log: instru.xml,v $
+Revision 1.38  2014/08/25 11:10:10  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.37  2014/07/03 17:10:19  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.36  2013/09/22 19:10:33  revo
 Wolfram Diestel: referenco al listo artoj, +germ trd
 
@@ -768,11 +851,5 @@ Revision 1.32  2010/06/25 17:26:30  revo
 Sergio Pokrovskij: TEZ
 
 Revision 1.31  2009/02/10 14:17:51  revo
-Sebastian Cyprych: -fusxaj linirompoj en trd
-
-Revision 1.30  2007/12/26 17:30:23  revo
-Wieland Pusch: +trd bg
-
-Revision 1.29  2007/12/03 17:30:39  revo
 -->
 </vortaro>

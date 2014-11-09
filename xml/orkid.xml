@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: orkid.xml,v 1.17 2013/08/30 15:10:21 revo Exp $">
+<art mrk="$Id: orkid.xml,v 1.18 2014/09/13 01:10:19 revo Exp $">
 <kap><rad>orkid</rad>/o</kap>
 <drv mrk="orkid.0o">
   <kap><tld/>o</kap>
@@ -22,6 +22,7 @@
     </trdgrp>
     <trd lng="el">&omikron;&rho;&chi;&jota;&delta;&epsilon_ton;&alfa;</trd>
     <trd lng="en">orchid</trd>
+    <trd lng="fr">orchis</trd>
     <trd lng="hu">kosbor</trd>
     <trdgrp lng="it">
       <trd>orchide</trd>,
@@ -53,6 +54,9 @@
 </art>
 <!--
 $Log: orkid.xml,v $
+Revision 1.18  2014/09/13 01:10:19  revo
+Alain Gerard: + trd fr
+
 Revision 1.17  2013/08/30 15:10:21  revo
 Wolfram Diestel: kor. lst-ref
 
@@ -72,8 +76,5 @@ Revision 1.12  2003/01/07 17:32:11  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.11  2002/06/07 17:31:54  revo
-Eduardo M. Kalinowski: ald trd el, pt
-
-Revision 1.10  2002/03/24 10:00:26  revo
 -->
 </vortaro>

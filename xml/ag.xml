@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ag.xml,v 1.41 2013/05/26 14:10:17 revo Exp $">
+<art mrk="$Id: ag.xml,v 1.44 2014/09/03 18:10:12 revo Exp $">
 <kap><ofc>*</ofc><rad>ag</rad>/i</kap>
 
 <drv mrk="ag.0i">
@@ -42,6 +42,11 @@
         <tld/>ada rolo<fnt>Z</fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="es">
+      <trd>actuar</trd>,
+      <trd>proceder</trd>,
+      <trd>obrar</trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd>dzia&lstroke;a&cacute;</trd>,
       <trd>czyni&cacute;</trd>,
@@ -60,6 +65,10 @@
         <tld/>i afable kun, kontra&ubreve;<fnt>Z</fnt> iu.
       </ekz>
     </dif>
+    <trdgrp lng="es">
+      <trd>actuar</trd>,
+      <trd>proceder</trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd>czyni&cacute;</trd>,
       <trd>post&eogonek;powa&cacute;</trd>
@@ -169,10 +178,18 @@
     <trd>act</trd>,
     <trd>action</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>actuaci&oacute;n</trd>,
+    <trd>acci&oacute;n</trd>
+  </trdgrp>
   <trdgrp lng="fa">
     <trd>&f_k;&a_n;&a_sh;</trd>,
     <trd>&a_ayn;&a_m;&a_l;</trd>,
     <trd>&f_k;&a_r;&a_d;&a_A;&a_r;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>acte</trd>,
+    <trd>action</trd>
   </trdgrp>
   <trd lng="nl">handeling</trd>
   <trdgrp lng="it">
@@ -234,6 +251,7 @@
     <trd>&f_p;&a_r;&f_k;&a_A;&a_r;</trd>,
     <trd>&a_f;&a_ayn;&a_A;&a_l;</trd>
   </trdgrp>
+  <trd lng="es">activo</trd>
   <trd lng="fr">actif</trd>
   <trdgrp lng="it">
     <trd>attivo</trd>,
@@ -273,9 +291,9 @@
   </snc>
   <trd lng="be">&c_r;&c_e;&c_a;&c_k;&c_c;&c_y;&c_ja;</trd>
   <trd lng="bg">&c_r;&c_je;&c_a;&c_k;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="de">Reaktion</trd>
   <trd lng="en">reaction</trd>
   <trd lng="es">reacci&oacute;n</trd>
-  <trd lng="de">Reaktion</trd>
   <trdgrp lng="fa">
     <trd>&a_w;&a_A;&f_k;&a_n;&a_sh;</trd>,
     <trd>&a_ayn;&f_k;&a_s;&zwnj;&a_A;&a_l;&a_ayn;&a_m;&a_l;</trd>
@@ -321,6 +339,7 @@
         kaj en la fona re&gcirc;imo.
         <trd lng="de">interaktiv</trd>
         <trd lng="en">interactively</trd>
+        <trd lng="es">interactivamente</trd>
         <trd lng="ru">
           &c_i;&c_n;&c_t;&c_je;&c_r;&c_a;&c_k;&c_t;&c_i;&c_v;&c_n;&c_o;
        </trd>
@@ -383,6 +402,10 @@
   </trdgrp>
   <trd lng="de">zusammenarbeiten</trd>
   <trd lng="en">co-operate</trd>
+  <trdgrp lng="es">
+    <trd>cooperar</trd>,
+    <trd>colaborar</trd>
+  </trdgrp>
   <trdgrp lng="fa">
     <trd>&a_h;&a_m;&f_k;&a_A;&a_r;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>,
     <trd>&a_t;&a_sh;&a_r;&f_y;&f_k; &a_m;&a_s;&a_A;&a_ayn;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>
@@ -430,6 +453,9 @@
   <trdgrp lng="en">
     <trd>inaction</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>inactividad</trd>
+  </trdgrp>
   <trdgrp lng="fa">
     <trd>&a_b;&f_y;&f_k;&a_A;&a_r;&f_g;&f_y;</trd>,
     <trd>&a_b;&a_T;&a_A;&a_l;&a_t;</trd>
@@ -461,6 +487,15 @@
 </art>
 <!--
 $Log: ag.xml,v $
+Revision 1.44  2014/09/03 18:10:12  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.43  2014/07/30 16:10:20  revo
+Agustin Garcia Lopez: +trd(es) -o
+
+Revision 1.42  2014/05/08 18:10:42  revo
+Damien Brucker: +trd fr
+
 Revision 1.41  2013/05/26 14:10:17  revo
 Benito Subejrano: + trd ca oc
 
@@ -474,14 +509,5 @@ Revision 1.38  2010/08/17 16:30:19  revo
 Wieland Pusch: +trd bg
 
 Revision 1.37  2010/06/23 16:30:36  revo
-Evandro Avellar: + trd pt
-
-Revision 1.36  2009/09/13 16:57:34  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.35  2009/08/25 16:32:35  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.34  2009/03/02 17:30:34  revo
 -->
 </vortaro>

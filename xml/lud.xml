@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lud.xml,v 1.49 2013/12/31 02:10:11 revo Exp $">
+<art mrk="$Id: lud.xml,v 1.52 2014/10/06 20:10:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lud</rad>/i <fnt><bib>PV</bib></fnt>
@@ -73,6 +73,7 @@
     </dif>
     <trd lng="bg">&c_i;&c_g;&c_r;&c_a;&c_ja;</trd>
     <trd lng="es">jugar</trd>
+    <trd lng="id">[<ind>main</ind>] bermain</trd>
     <trdgrp lng="nl">
       <trd>zich <ind>vermaken</ind></trd>
     </trdgrp>
@@ -179,9 +180,13 @@
       <trdgrp lng="nl">
         <trd>opvoeren</trd>
       </trdgrp>
-      <trd lng="pl">gra&cacute;</trd>
+      <trdgrp lng="pl">
+        <trd>gra&cacute; <klr>(rol&eogonek;)</klr></trd>,
+        <trd>odgrywa&cacute; <klr>(rol&eogonek;)</klr></trd>
+      </trdgrp>
       <trd lng="pt">atuar</trd>
     </subsnc>
+  <trd lng="id">[<ind>main</ind>] memainkan</trd>
   </snc>
   <snc mrk="lud.0i.sxajnigi">
     <gra><vspec>tr</vspec></gra>
@@ -199,6 +204,7 @@
       <trd>vorspielen</trd>,
       <trd>vormachen</trd>
     </trdgrp>
+    <trd lng="id">[<ind>main</ind>] mempermainkan</trd>
     <trdgrp lng="nl">
       <trd>zich <ind>voordoen</ind> als</trd>
     </trdgrp>
@@ -237,6 +243,10 @@
     </dif>
   </snc>
   <trd lng="fr">joueur<klr> (adj.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>zabawowy</trd>,
+    <trd>rozrywkowy</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lud.0o">
@@ -311,6 +321,7 @@
   <trd lng="es">juego</trd>
   <trd lng="fr">jeu</trd>
   <trd lng="hu">j&aacute;t&eacute;k</trd>
+  <trd lng="id">[<ind>main</ind>] permainan</trd>
   <trd lng="nl">spel</trd>
   <trd lng="pl">gra</trd>
   <trd lng="ru">&c_i;&c_g;&c_r;&c_a;</trd>
@@ -347,6 +358,7 @@
   <trd lng="es">juguete</trd> 
   <trd lng="fr">jouet</trd>
   <trd lng="hu">j&aacute;t&eacute;kszer</trd>
+  <trd lng="id"><ind>main</ind>an</trd>
   <trd lng="nl">stuk <ind>speelgoed</ind></trd>
   <trd lng="pl">zabawka</trd>
   <trd lng="pt">brinquedo</trd>
@@ -402,6 +414,10 @@
   </trdgrp>
   <trd lng="de">Vorspiel</trd>
   <trd lng="hu">el&odblac;j&aacute;t&eacute;k</trd>
+  <trdgrp lng="pl">
+    <trd>wst&eogonek;p</trd>,
+    <trd>gra wst&eogonek;pna <klr>(erot.)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lud.baskul0o">
@@ -445,6 +461,10 @@
   instrument)</klr></trd>
   <trd lng="hu">s&aacute;rk&aacute;ny<klr tip="ind">
   (j&aacute;t&eacute;k)</klr></trd>
+  <trdgrp lng="id">
+    <trd><ind>layang</ind>-layang</trd>,
+    <trd><ind>layang</ind>an</trd>
+  </trdgrp>
   <trd lng="pl">latawiec</trd>
   <trd lng="sk">&scaron;arkan <klr>(papierov&yacute;)</klr></trd>
   <trd lng="ru">&c_v;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;
@@ -472,6 +492,7 @@
   </snc>
   <trd lng="en">curling</trd>
   <trd lng="fr">curling</trd>
+  <trd lng="pl">curling</trd>
 </drv>
 
 <drv mrk="lud.hazard0o">
@@ -499,6 +520,8 @@
     </refgrp>
   </snc>
   <trd lng="fr">jeu de hasard</trd>
+  <trd lng="id">judi</trd>
+  <trd lng="pl">gra hazardowa</trd>
 </drv>
 
 <drv mrk="lud.kart0i">
@@ -521,6 +544,7 @@
   <trd lng="de">Karten <ind>spielen</ind></trd>
   <trd lng="fr">jouer aux cartes</trd>
   <trd lng="hu">k&aacute;rty&aacute;zik</trd>
+  <trd lng="id">[<ind>main</ind>] bermain kartu</trd>
   <trd lng="pl">gra&cacute; w karty</trd>
   <trd lng="ru">&c_i;&c_g;&c_r;&c_a;&c_t;&c_mol; &c_v; &c_k;&c_a;&c_r;&c_t;&c_y;</trd>
 </drv>
@@ -536,15 +560,10 @@
         pacienc<tld/>o bonsolvi&gcirc;is, bone rezultis
         <fnt>
           <aut>&c_N;.&c_F;.&c_D;&c_a;&c_n;&c_o;&c_v;&c_s;&c_k;&c_i;&c_j;</aut>,
-          <vrk>&c_V;&c_v;&c_o;&c_d;&c_n;&c_o;&c_je;
-          &c_s;&c_l;&c_o;&c_v;&c_o; &c_v;
-          &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;
-          &c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;&c_a;</vrk>,
+          <vrk>&c_V;&c_v;&c_o;&c_d;&c_n;&c_o;&c_je; &c_s;&c_l;&c_o;&c_v;&c_o; &c_v; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o; &c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;&c_a;</vrk>,
           <lok><url
           ref="http://miresperanto.narod.ru/konsultoj/danovskij/1.htm">
-          &c_G;&c_L;&c_A;&c_V;&c_A; 1.
-          &c_L;&c_Je;&c_K;&c_S;&c_I;&c_Ch;&c_Je;&c_S;&c_K;&c_O;&c_Je;
-          &c_S;&c_O;&c_O;&c_T;&c_V;&c_Je;&c_T;&c_S;&c_T;&c_V;&c_I;&c_Je;
+          &c_G;&c_L;&c_A;&c_V;&c_A; 1. &c_L;&c_Je;&c_K;&c_S;&c_I;&c_Ch;&c_Je;&c_S;&c_K;&c_O;&c_Je; &c_S;&c_O;&c_O;&c_T;&c_V;&c_Je;&c_T;&c_S;&c_T;&c_V;&c_I;&c_Je;
           </url></lok>
         </fnt>;
       </ekz>
@@ -552,15 +571,10 @@
         pacienc<tld/>o fiaskis
         <fnt>
           <aut>&c_N;.&c_F;.&c_D;&c_a;&c_n;&c_o;&c_v;&c_s;&c_k;&c_i;&c_j;</aut>,
-          <vrk>&c_V;&c_v;&c_o;&c_d;&c_n;&c_o;&c_je;
-          &c_s;&c_l;&c_o;&c_v;&c_o; &c_v;
-          &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;
-          &c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;&c_a;</vrk>,
+          <vrk>&c_V;&c_v;&c_o;&c_d;&c_n;&c_o;&c_je; &c_s;&c_l;&c_o;&c_v;&c_o; &c_v; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o; &c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;&c_a;</vrk>,
           <lok><url
           ref="http://miresperanto.narod.ru/konsultoj/danovskij/1.htm">
-          &c_G;&c_L;&c_A;&c_V;&c_A; 1.
-          &c_L;&c_Je;&c_K;&c_S;&c_I;&c_Ch;&c_Je;&c_S;&c_K;&c_O;&c_Je;
-          &c_S;&c_O;&c_O;&c_T;&c_V;&c_Je;&c_T;&c_S;&c_T;&c_V;&c_I;&c_Je;
+          &c_G;&c_L;&c_A;&c_V;&c_A; 1. &c_L;&c_Je;&c_K;&c_S;&c_I;&c_Ch;&c_Je;&c_S;&c_K;&c_O;&c_Je; &c_S;&c_O;&c_O;&c_T;&c_V;&c_Je;&c_T;&c_S;&c_T;&c_V;&c_I;&c_Je;
           </url></lok>
         </fnt>.
       </ekz>
@@ -648,6 +662,31 @@
     </dif>
   </snc>
   <trd lng="fr">jeu de r&ocirc;le</trd>
+  <trdgrp lng="en">
+    <trd>RPG</trd>,
+    <trd>role-playing game</trd>
+  </trdgrp>
+  <trd lng="pl">gra fabularna</trd>
+</drv>
+
+<drv mrk="lud.seks0i">
+  <kap>seks<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="lud.seks0i.AMOR">
+    <dif>
+      Sekse <tld/>i, erotike inciteti:
+      <ekz>
+        &scirc;i <klr>...</klr> perceptis en si inklinon longe 
+        seks<tld/>i kun &ccirc;i tiu junulo
+        <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u &scirc;i mortu tra-fike?</vrk>, 
+        <lok>1982</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>batifoler<klr> (sexuellement)</klr></trd>,
+    <trd>lutiner</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lud.seks0ilo">
@@ -673,6 +712,10 @@
     <trd>jouet sexuel</trd>,
     <trd>sex-toy</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zabawka erotyczna</trd>,
+    <trd>seks-zabawka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lud.strategi0o">
@@ -697,6 +740,8 @@
     </dif>
   </snc>
   <trd lng="fr">jeu de strat&eacute;gie</trd>
+  <trd lng="id">[<ind>main</ind>] permainan strategi</trd>
+  <trd lng="pl">gra strategiczna</trd>
 </drv>
 
 <drv mrk="lud.tabul0o">
@@ -734,6 +779,10 @@
   </snc>
   <trd lng="fr">jeu de soci&eacute;t&eacute;<klr> (sur &eacute;chiquier ou
   analogue)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>gra planszowa</trd>,
+    <trd>plansz&oacute;wka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lud.vet0o">
@@ -759,6 +808,8 @@
     <trd>jeu d'argent</trd>,
     <trd>pari<klr> (jeu)</klr></trd>
   </trdgrp>
+  <trd lng="id">judi</trd>
+  <trd lng="pl">gra hazardowa</trd>
 </drv>
 
 <drv mrk="lud.vide0o">
@@ -784,6 +835,8 @@
   </snc>
   <trd lng="es">videojuego</trd> 
   <trd lng="fr">jeu vid&eacute;o</trd>
+  <trd lng="id">[<ind>main</ind>] permainan video</trd>
+  <trd lng="pl">gra video</trd>
 </drv>
 
 <drv mrk="lud.vort0o">
@@ -810,6 +863,7 @@
     </dif>
     <ref tip="sub" cel="sxarad.0o">&scirc;arado</ref>
     <trd lng="fr">jeu linguistique</trd>
+    <trd lng="pl">gra s&lstroke;owna</trd>
   </snc>
   <snc mrk="lud.vort0o.LIN">
     <uzo tip="fak">LIN</uzo>
@@ -835,11 +889,22 @@
       </ekz>
     </dif>
     <trd lng="fr">jeu de mot</trd>
+    <trd lng="id">[<ind>main</ind>] permainan kata</trd>
+    <trd lng="pl">gra s&lstroke;&oacute;w</trd>
   </snc>
 </drv>
 </art>
 <!--
 $Log: lud.xml,v $
+Revision 1.52  2014/10/06 20:10:39  revo
+Jeromo Vasxe: + seks~i
+
+Revision 1.51  2014/09/18 05:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.50  2014/06/16 15:10:16  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.49  2013/12/31 02:10:11  revo
 Jeromo Vasxe: + seks~ilo
 
@@ -853,14 +918,5 @@ Revision 1.46  2012/01/08 12:10:10  revo
 Wolfram Diestel: ref al sxarado, ekz. de vortludo
 
 Revision 1.45  2012/01/05 15:10:24  revo
-Jeromo Vasxe: + rol/tabul/strategi/vort~o
-
-Revision 1.44  2011/09/05 22:10:12  revo
-Carlos Garcia: +trd es
-
-Revision 1.43  2011/08/31 08:10:13  revo
-Sebastian Cyprych: +drv pacienc~o
-
-Revision 1.42  2010/11/25 17:30:29  revo
 -->
 </vortaro>

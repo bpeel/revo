@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bord.xml,v 1.23 2013/08/19 17:10:13 revo Exp $">
+<art mrk="$Id: bord.xml,v 1.25 2014/10/09 11:10:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bord</rad>/o
@@ -54,7 +54,7 @@
     <trd>shore</trd>,
     <trd>waterfront</trd>
   </trdgrp>
-  <trd lng="es">costa</trd>
+  <trd lng="es">orilla</trd>
   <trdgrp lng="fr">
     <trd>bord<klr tip="amb"> (fig.)</klr></trd>,
     <trd>rivage</trd>,
@@ -108,6 +108,10 @@
   <trdgrp lng="de">
     <trd>anlegen</trd>, <trd>landen</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>atracar</trd>,
+    <trd>abordar <klr>(llegar a puerto)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>accoster<klr tip="ind"> (intr.)</klr></trd>,
     <trd>aborder<klr tip="ind"> (intr.)</klr></trd>
@@ -154,6 +158,7 @@
     <trd>&c_p;&c_r;&c_y;&c_ch;&c_a;&c_l;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_s;&c_t;&c_a;&c_n;&c_mol;</trd>
   </trdgrp>
+  <trd lng="es">atracadero</trd>
   <trdgrp lng="fr">
     <trd>mouillage<klr tip="ind"> (lieu d'ancrage)</klr></trd>,
     <trd>quai</trd>
@@ -247,6 +252,7 @@
   </snc>
   <trd lng="bg">&c_k;&c_r;&c_a;&c_j;&c_b;&c_r;&c_je;&c_zh;&c_i;&c_je;</trd>
   <trd lng="de">K&uuml;ste</trd>
+  <trd lng="es">costa</trd>
   <trd lng="en">coast</trd>
   <trd lng="fr">c&ocirc;te<klr tip="amb"> (marine)</klr></trd>
   <trd lng="nl">kust</trd>
@@ -278,6 +284,7 @@
   <ind>&c_b;&c_je;&c_r;&c_a;&c_g;&c_o;&c_w;</ind></trd>
   <trd lng="fr">d&eacute;border <klr tip="ind">(en p. d'une
   rivi&egrave;re)</klr></trd>
+  <trd lng="es">desbordarse</trd>
   <trdgrp lng="pl">
     <trd>wyst&eogonek;powa&cacute; z <ind>brzeg&oacute;w</ind></trd>,
     <trd>przelewa&cacute; si&eogonek; przez <ind>brzeg</ind></trd>
@@ -316,6 +323,12 @@
 </art>
 <!--
 $Log: bord.xml,v $
+Revision 1.25  2014/10/09 11:10:35  revo
+Carlos Garcia: +trd es -igx -igxej de-igx
+
+Revision 1.24  2014/09/14 12:10:13  revo
+Norbert Luckhardt: kor tra ES
+
 Revision 1.23  2013/08/19 17:10:13  revo
 Joop Eggen: +trd bg nl
 
@@ -332,11 +345,5 @@ Revision 1.19  2004/10/06 16:31:35  revo
 Jeromo Vasxe: + mar~o sur~igxi, + kk ekz
 
 Revision 1.18 2004/08/23 16:32:06 revo
-Marc Bavant: +drv cxirkaux~o
-
-Revision 1.17 2004/05/02 16:32:58 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.16 2004/03/28 16:54:04 revo
 -->
 </vortaro>

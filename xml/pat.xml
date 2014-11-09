@@ -2,16 +2,16 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pat.xml,v 1.15 2009/02/10 14:19:37 revo Exp $">
+<art mrk="$Id: pat.xml,v 1.16 2014/05/30 01:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pat</rad>/o
 </kap>
 
-<uzo tip="fak">KUI</uzo>
 <drv mrk="pat.0o">
-  <kap><ofc>*</ofc><tld/>o</kap>
+  <kap><tld/>o</kap>
   <snc>
+  <uzo tip="fak">KUI</uzo>
     <dif>
       Malprofunda senkovrila kaserolo kun longa tenilo, servanta por
       friti; fritilo.
@@ -43,6 +43,9 @@
 </art>
 <!--
 $Log: pat.xml,v $
+Revision 1.16  2014/05/30 01:10:23  revo
+Damien Brucker: +fak
+
 Revision 1.15  2009/02/10 14:19:37  revo
 Russ Williams: +trd en
 
@@ -62,8 +65,5 @@ Revision 1.10  2003/07/26 08:42:12  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9  2002/12/09 17:32:54  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2001/12/13 17:32:54  revo
 -->
 </vortaro>

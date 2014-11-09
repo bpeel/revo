@@ -2,15 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: arkimandrit.xml,v 1.6 2012/02/14 01:10:13 revo Exp $">
+  <art mrk="$Id: arkimandrit.xml,v 1.7 2014/10/09 17:10:27 revo Exp $">
     <kap>
       <rad>arkimandrit</rad>/o
     </kap>
 
     <drv mrk="arkimandrit.0o">
       <kap><tld/>o <fnt><bib>PIV1</bib></fnt></kap>
-      <uzo tip="fak">KRI</uzo>
       <snc mrk="arkimandrit.0o.orto">
+      <uzo tip="fak">KRI</uzo>
     	<dif>
           En ortodoksismo,
           <ref tip="super" cel="monahx.0ejestro">mona&hcirc;ejestro</ref>
@@ -28,6 +28,7 @@
          <trd>Archimandrit</trd>
       </trdgrp>
       <trd lng="en">archimandrite</trd>
+      <trd lng="fr">archimandrite</trd>
       <trdgrp lng="hu">
          <trd>archimandrita</trd>,
          <trd>f&odblac;ap&aacute;t<klr> (pravoszl&aacute;v)</klr></trd>
@@ -40,6 +41,9 @@
 
 <!--
 $Log: arkimandrit.xml,v $
+Revision 1.7  2014/10/09 17:10:27  revo
+Damien Brucker: +trd fr
+
 Revision 1.6  2012/02/14 01:10:13  revo
 Antonio Codazzi: +trd it
 

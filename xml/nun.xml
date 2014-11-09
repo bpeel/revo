@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nun.xml,v 1.27 2013/10/08 10:10:12 revo Exp $">
+<art mrk="$Id: nun.xml,v 1.29 2014/06/10 05:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nun</rad> <fnt><bib>PV</bib></fnt>
@@ -114,6 +114,7 @@
     <trd>most</trd>,
     <trd>jelenleg</trd>
   </trdgrp>
+  <trd lng="id">sekarang</trd>
   <trd lng="nl">nu</trd>
   <trd lng="oc">ara</trd>
   <trd lng="pl">teraz</trd>
@@ -241,6 +242,12 @@
 </art>
 <!--
 $Log: nun.xml,v $
+Revision 1.29  2014/06/10 05:10:17  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.28  2014/06/02 14:10:13  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.27  2013/10/08 10:10:12  revo
 Benito Subejrano: + trd oc
 
@@ -257,11 +264,5 @@ fr
 Revision 1.23 2007/11/16 17:30:35 revo
 Wieland Pusch: +trd bg
 
-Revision 1.22 2007/07/26 16:30:29 revo
-Harri Laine: +trd fi. Aldonis pli gxeneralan difinon por "nuntempo",
-kiun
-oni prefere transloku sub la radikon "temp".
-
-Revision 1.21 2006/03/09 17:31:46 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: raport.xml,v 1.26 2013/08/14 12:10:10 revo Exp $">
+  <art mrk="$Id: raport.xml,v 1.27 2014/09/19 09:10:11 revo Exp $">
     <kap>
       <ofc>*</ofc> <rad>raport</rad>/i
     </kap>
@@ -196,7 +196,10 @@
         <trd>Bericht</trd>
       </trdgrp>
       <trd lng="en">report</trd>
-      <trd lng="es">cuento</trd>
+      <trdgrp lng="es">
+        <trd>cuento</trd>,
+        <trd>relato</trd>
+      </trdgrp>
       <trd lng="fa">&f_g;&a_z;&a_A;&a_r;&a_sh;</trd>
       <trdgrp lng="fr">
         <trd>compte rendu</trd>,
@@ -228,6 +231,9 @@
       </trdgrp>
       <trd lng="de">Berichterstatter</trd>
       <trd lng="en">reporter</trd>
+      <trdgrp lng="es">
+        <trd>reportero</trd>
+      </trdgrp>
       <trd lng="fa">&f_g;&a_z;&a_A;&a_r;&a_sh;&f_g;&a_r;</trd>
       <trdgrp lng="fr">
         <trd>reporter</trd>
@@ -255,6 +261,9 @@
   </art>
   <!--
   $Log: raport.xml,v $
+  Revision 1.27  2014/09/19 09:10:11  revo
+  Guillermo Molleda Jimena: trd es
+
   Revision 1.26  2013/08/14 12:10:10  revo
   Joop Eggen: +trd bg
 

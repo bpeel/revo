@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ha.xml,v 1.23 2014/02/18 13:10:29 revo Exp $">
+<art mrk="$Id: ha.xml,v 1.24 2014/05/21 09:10:38 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>ha</rad> <fnt><bib>PV</bib></fnt>
@@ -15,10 +15,11 @@
        Kia surprizo, kia doloro,
        kia emocio!:
        <ekz>
-         <tld/>, fine vi alvenas!
+         <tld/>, kiel bele!<fnt><bib>F</bib></fnt>;
        </ekz>
        <ekz>
-         <tld/>, kia originalulo vi estas!
+         <tld/>! kie vi ricevis la tutan
+         monon?<fnt><bib>Fab1</bib></fnt>.
        </ekz>
      </dif>
      <ref tip="vid" cel="kri.ek0o">ekkrio</ref>
@@ -74,12 +75,12 @@
     <dif>
       Sono de rido:
       <ekz>
-        Kiselov ekridegis pli la&ubreve;te &mdash; Oh-<tld/>-<tld/>!
-        <fnt><bib>Metrop</bib></fnt>.
+     Kiel oni povas ne ridi? [...] <tld/>, <tld/>,
+     <tld/>!<fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="fr">ha ha !</trd>
+  <trd lng="fr">ha ha!</trd>
 </drv>
 
 <drv mrk="ha.0lo">
@@ -90,7 +91,11 @@
       Duvorta ekkrio, kiu estas uzata kiel alvoko, precipe en
       telefonado.
     </dif>
-    <rim>
+    <rim num="1">
+    Oni skribu tiun ekkrion per du vortoj, por forigi momentan konfuzon
+    kun <ref tip="hom" cel="hal.0o">halo</ref>.
+    </rim>
+    <rim num="2">
     Oni a&ubreve;das a&ubreve; legas kelkfoje la alternativon "lo! <tld/> lo".
     </rim>
   </snc>
@@ -102,6 +107,9 @@
 </art>
 <!--
 $Log: ha.xml,v $
+Revision 1.24  2014/05/21 09:10:38  revo
+Damien Brucker: +rim
+
 Revision 1.23  2014/02/18 13:10:29  revo
 Damien Brucker: +ref
 
@@ -121,8 +129,5 @@ Revision 1.18  2013/05/12 01:10:09  revo
 Benito Subejrano: + trd oc
 
 Revision 1.17  2012/09/18 07:10:10  revo
-Marc Rausell: + trd ca
-
-Revision 1.16  2010/05/31 16:30:21  revo
 -->
 </vortaro>

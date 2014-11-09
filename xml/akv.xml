@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: akv.xml,v 1.66 2013/09/23 19:10:27 revo Exp $">
+<art mrk="$Id: akv.xml,v 1.68 2014/06/06 04:10:59 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>akv</rad>/o <fnt><bib>PV</bib></fnt>
@@ -37,6 +37,7 @@
   <trd lng="es">agua</trd>
   <trd lng="fa">&a_A_madda;&a_b;</trd>
   <trd lng="fr">eau</trd>
+  <trd lng="id">air</trd>
   <trd lng="it">acqua</trd>
   <trd lng="ja">&#27700; [<ind>&#12377;&#12356;</ind>]</trd>
   <trd lng="ku">av</trd>
@@ -173,6 +174,11 @@
     <trd lng="fr">Verseau<klr> (constellation)</klr></trd>
     <trd lng="he">&mem;&zayin;&lamed; &dalet;&lamed;&yod;</trd>
     <trd lng="hu">V&iacute;z&ouml;nt&odblac;</trd>
+    <trdgrp lng="id">
+      <trd>Akuarius</trd>,
+      <trd>Delu</trd>,
+      <trd>Kumba</trd>
+    </trdgrp>
     <trd lng="ja">&#23453;&#29942;&#23470; [<ind>&#12411;&#12358;&#12408;&#12356;&#12365;&#12421;&#12358;</ind>]</trd>
     <trd lng="nl">Waterman<klr tip="ind"> (sterrebeeld)</klr></trd>
     <trd lng="pl">wodnik</trd>
@@ -386,6 +392,7 @@
     <trd>cascade</trd>,
     <trd>chute d'eau</trd>
   </trdgrp>
+  <trd lng="id"><ind>air</ind> terjun</trd>
   <trd lng="nl">waterval</trd>
   <trdgrp lng="pl">
     <trd>wodospad</trd>,
@@ -445,6 +452,7 @@
   <trd lng="de">Meerwasser</trd>
   <trd lng="fa">&a_A_madda;&a_b; &a_d;&a_r;&f_y;&a_A;</trd>
   <trd lng="fr">eau de mer</trd>
+  <trd lng="id"><ind>air</ind> laut</trd>
   <trd lng="ja">&#28023;&#27700;
 [<ind>&#12363;&#12356;&#12377;&#12356;</ind>]</trd>
   <trd lng="nl">zeewater</trd>
@@ -474,6 +482,7 @@
   <trd lng="be">&c_m;&c_ib;&c_n;&c_e;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_v;&c_a;&c_d;&c_a;</ind></trd>
   <trd lng="ca">aigua mineral</trd>
   <trd lng="fr">eau min&eacute;rale</trd>
+  <trd lng="id"><ind>air</ind> mineral</trd>
 </drv>
 
 <drv mrk="akv.roz0o">
@@ -610,6 +619,7 @@
     <trd>plonger <klr>(tr.)</klr></trd>,
     <trd>submerger</trd>
   </trdgrp>
+  <trd lng="id">[<ind>tenggelam</ind>] menenggelamkan</trd>
   <trd lng="nl">onder <ind>water</ind> zetten</trd>
   <trd lng="pl">zanurza&cacute;<klr> w wodzie</klr></trd>
   <trdgrp lng="pt">
@@ -652,6 +662,7 @@
     <trd>plonger <klr>(intr.)</klr></trd>,
     <trd>s'<ind>immerger</ind></trd>
   </trdgrp>
+  <trd lng="id">tenggelam</trd>
   <trd lng="nl">ondergaan<klr tip="ind"> (onder water)</klr></trd>
   <trd lng="pl">zanurza&cacute;<klr> w wodzie</klr></trd>
   <trdgrp lng="pt">
@@ -832,6 +843,7 @@
   <trd lng="ca">aigua potable</trd>
   <trd lng="de">Trinkwasser</trd>
   <trd lng="fa">&a_A_madda;&a_b; &a_A_madda;&a_sh;&a_A;&a_m;&f_y;&a_d;&a_n;&f_y;</trd>
+  <trd lng="id"><ind>air</ind> minum</trd>
   <trd lng="ja">&#39154;&#12415;&#27700;
 [<ind>&#12398;&#12415;&#12415;&#12378;</ind>]</trd>
   <trd lng="nl">drinkwater</trd>
@@ -899,6 +911,12 @@
 </art>
 <!--
 $Log: akv.xml,v $
+Revision 1.68  2014/06/06 04:10:59  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.67  2014/05/31 16:10:18  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.66  2013/09/23 19:10:27  revo
 Wolfram Diestel: ref al list zodiakoaj signoj, mlg
 
@@ -915,11 +933,5 @@ Revision 1.62  2013/03/30 14:10:16  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.61  2013/03/01 07:10:19  revo
-Dmitri Gabinski: redakto: +trd be
-
-Revision 1.60  2012/01/02 16:10:12  revo
-Marc Rausell: +trd ca
-
-Revision 1.59  2011/11/07 01:10:16  revo
 -->
 </vortaro>

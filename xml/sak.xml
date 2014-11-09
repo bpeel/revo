@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sak.xml,v 1.29 2013/12/23 21:10:11 revo Exp $">
+<art mrk="$Id: sak.xml,v 1.30 2014/06/14 03:10:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sak</rad>/o <fnt><bib>PV</bib></fnt>
@@ -104,6 +104,7 @@
   </snc>
   <trd lng="cs">pytel</trd>
   <trd lng="en">bag</trd>
+  <trd lng="id">tas</trd>
   <trd lng="it">sacco</trd>
   <trd lng="nl">zak</trd>
 </drv>
@@ -157,6 +158,7 @@
   <trd lng="es">saco de dormir</trd>
   <trd lng="fr">sac de couchage</trd>
   <trd lng="hu">h&aacute;l&oacute;zs&aacute;k</trd>
+  <trd lng="id"><ind>kantung</ind> tidur</trd>
   <trd lng="it"><ind>sacco</ind> a pelo</trd>
   <trd lng="nl">slaapzak</trd>
   <trd lng="pl">&sacute;piw&oacute;r</trd>
@@ -199,6 +201,10 @@
   <trd lng="es">mochila</trd>
   <trd lng="fr">sac &agrave; dos</trd>
   <trd lng="hu">h&aacute;tizs&aacute;k</trd>
+  <trdgrp lng="id">
+    <trd>ransel</trd>,
+    <trd><ind>tas</ind> punggung</trd>
+  </trdgrp>
   <trd lng="it">zaino</trd>
   <trd lng="nl">rugzak</trd>
   <trdgrp lng="pl">
@@ -327,6 +333,10 @@
     <trd>k&eacute;zit&aacute;ska</trd>,
     <trd>retik&uuml;l</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>tas</ind> jinjing</trd>,
+    <trd><ind>tas</ind> tangan</trd>
+  </trdgrp>
   <trd lng="it">borsetta</trd>
   <trd lng="nl">handtas</trd>
   <trd lng="pl">torebka<klr> damska</klr></trd>
@@ -365,6 +375,9 @@
 </art>
 <!--
 $Log: sak.xml,v $
+Revision 1.30  2014/06/14 03:10:39  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.29  2013/12/23 21:10:11  revo
 Jeromo Vasxe: kor 1 dif
 
@@ -384,8 +397,5 @@ Revision 1.24  2009/10/12 16:30:28  revo
 Paul Peeraerts: +nl
 
 Revision 1.23  2009/09/22 17:17:49  revo
-Antonio Codazzi: +trd it
-
-Revision 1.22  2009/03/10 17:31:01  revo
 -->
 </vortaro>

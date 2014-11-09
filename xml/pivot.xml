@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pivot.xml,v 1.10 2010/10/04 16:31:06 revo Exp $">
+<art mrk="$Id: pivot.xml,v 1.11 2014/05/05 20:10:24 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>pivot</rad>/o
@@ -11,6 +11,7 @@
 <drv mrk="pivot.0o">
   <kap><tld/>o</kap>
   <snc>
+  <uzo tip="fak">TEK</uzo>
     <dif>
       Ekstrema parto de akso, eni&gcirc;anta en truo, kie &gcirc;i turni&gcirc;as:
       <ekz>
@@ -23,6 +24,7 @@
     <trd>Drehstift</trd>
   </trdgrp>
   <trd lng="en">pivot</trd>
+  <trd lng="fr">pivot</trd>
   <trdgrp lng="hu">
     <trd>tengelycsap</trd>,
     <trd>tengelyv&eacute;g</trd>
@@ -52,12 +54,16 @@
     <trd>turn</trd>,
     <trd>rotate</trd>
   </trdgrp>
+  <trd lng="fr">pivoter</trd>
   <trd lng="hu">forog</trd>  
   <trd lng="nl">pivoteren</trd>
 </drv>
 </art>
 <!--
 $Log: pivot.xml,v $
+Revision 1.11  2014/05/05 20:10:24  revo
+Damien Brucker: +trd fr
+
 Revision 1.10  2010/10/04 16:31:06  revo
 Russ Williams: +trd en
 

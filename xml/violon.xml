@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: violon.xml,v 1.23 2013/09/08 18:11:43 revo Exp $">
+<art mrk="$Id: violon.xml,v 1.24 2014/07/11 15:10:29 revo Exp $">
 <kap>
     <ofc>*</ofc>
     <rad>violon</rad>/o
@@ -37,6 +37,7 @@
       <trd>fiddle</trd>
     </trdgrp>
     <trd lng="hu">heged&udblac;</trd>
+    <trd lng="id">biola</trd>
     <trd lng="it">violino</trd>
     <trd lng="nl">viool</trd>
     <trd lng="pl">skrzypce</trd>
@@ -80,6 +81,9 @@
 </art>
 <!--
 $Log: violon.xml,v $
+Revision 1.24  2014/07/11 15:10:29  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.23  2013/09/08 18:11:43  revo
 Wolfram Diestel: ref al listo kordinstrumentoj
 
@@ -99,8 +103,5 @@ Revision 1.18  2009/04/02 16:30:28  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.17  2006/09/23 15:56:20  revo
-Russ Williams: +trd en
-
-Revision 1.16  2006/01/08 17:31:58  revo
 -->
 </vortaro>

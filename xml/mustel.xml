@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mustel.xml,v 1.21 2013/10/21 20:10:10 revo Exp $">
+<art mrk="$Id: mustel.xml,v 1.23 2014/09/18 08:10:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mustel</rad>/o
@@ -10,8 +10,8 @@
 
 <drv mrk="mustel.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <uzo tip="fak">ZOO</uzo>
   <snc>
+  <uzo tip="fak">ZOO</uzo>
     <dif>
       Tre malgranda <ref tip="lst" cel="best.rabo0o"
       lst="voko:rabobestoj">rabobesto</ref>;
@@ -31,8 +31,10 @@
     <trd>Nerz</trd>
   </trdgrp>
   <trd lng="en">weasel</trd>
+  <trd lng="fr">belette</trd>
   <trd lng="hu">meny&eacute;t</trd>
   <trd lng="nl">wezel</trd>
+  <trd lng="pl">mustela</trd>
   <trdgrp lng="pt">
     <trd>mustela</trd>,
     <trd>doninha</trd>
@@ -42,6 +44,12 @@
 </art>
 <!--
 $Log: mustel.xml,v $
+Revision 1.23  2014/09/18 08:10:34  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.22  2014/06/04 11:10:15  revo
+Damien Brucker: +trd fr
+
 Revision 1.21  2013/10/21 20:10:10  revo
 Wolfram Diestel: +germ trd Nerz
 
@@ -58,11 +66,5 @@ Revision 1.17  2008/11/14 17:31:47  revo
 Russ Williams: redakto: +trd en
 
 Revision 1.16  2007/06/02 19:48:12  revo
-Wieland Pusch: +trd de
-
-Revision 1.15  2006/08/16 19:53:52  revo
-Tulio Flores: +tr pt
-
-Revision 1.14  2003/06/09 16:30:51  revo
 -->
 </vortaro>

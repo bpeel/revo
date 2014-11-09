@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: helic.xml,v 1.19 2012/07/31 09:10:36 revo Exp $">
+<art mrk="$Id: helic.xml,v 1.20 2014/07/06 16:10:34 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>helic</rad>/o
@@ -42,6 +42,7 @@
     </trdgrp>
     <trd lng="en">helix</trd>
     <trd lng="hu">csavarvonal</trd>
+    <trd lng="id">heliks</trd>
     <trd lng="nl">schroefdraad</trd>
     <trd lng="pl">linia &sacute;rubowa</trd>
     <trdgrp lng="ru">
@@ -71,6 +72,10 @@
       <trd>l&eacute;gcsavar</trd>,
       <trd>propeller</trd>
     </trdgrp>
+    <trdgrp lng="id">
+      <trd>baling-baling</trd>,
+      <trd>propeler</trd>
+    </trdgrp>
     <trd lng="nl">propeller</trd>
     <trdgrp lng="ru">
       <trd>&c_v;&c_i;&c_n;&c_t;</trd>,
@@ -88,6 +93,9 @@
 </art>
 <!--
 $Log: helic.xml,v $
+Revision 1.20  2014/07/06 16:10:34  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.19  2012/07/31 09:10:36  revo
 Marc Rausell: + trd ca
 
@@ -107,8 +115,5 @@ Revision 1.14  2003/01/02 17:46:21  revo
 Marc Bavant: +trd pl
 
 Revision 1.13  2002/11/22 17:32:29  revo
-Marc Bavant: +frm
-Revision 1.12  2002/07/11 17:33:35  revo
-Alejandro Mejia Greene: ald 1 his trd
 -->
 </vortaro>

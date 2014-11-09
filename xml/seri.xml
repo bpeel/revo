@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: seri.xml,v 1.37 2012/10/23 00:13:42 revo Exp $">
+<art mrk="$Id: seri.xml,v 1.38 2014/07/13 09:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>seri</rad>/o <fnt><bib>PV</bib></fnt>
@@ -140,7 +140,7 @@
     </dif>
     <refgrp tip="vid">
       <ref cel="cxen.0o">&ccirc;eno</ref>,
-      <ref cel="sekv.inter0osin0o">sinsekvo</ref>
+      <ref cel="sekv.inter0o">sinsekvo</ref>
     </refgrp>
     <trd lng="hu">sor</trd>
     <trdgrp lng="ru">
@@ -380,7 +380,8 @@
 </drv>
 
 <drv mrk="seri.formalapotenco0o">
-  <kap>formala potenco<tld/>o, <var><kap>formala <tld/>o</kap></var></kap>
+  <kap>formala potenco<tld/>o, <var><kap>formala
+  <tld/>o</kap></var></kap>
   <uzo tip="fak">MAT</uzo>
   <snc>
     <dif>
@@ -433,6 +434,9 @@
 </art>
 <!--
 $Log: seri.xml,v $
+Revision 1.38  2014/07/13 09:10:23  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.37  2012/10/23 00:13:42  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -452,8 +456,5 @@ Revision 1.32  2005/07/02 16:32:01  revo
 Luiz Portella: kor ref (period.0ajho > period.0ajxo)
 
 Revision 1.31  2004/10/24 16:33:13  revo
-Marc Bavant: kor duobligitan punkton
-
-Revision 1.30  2004/10/08 16:31:57  revo
 -->
 </vortaro>

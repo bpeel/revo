@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: meleag.xml,v 1.19 2013/09/01 14:10:34 revo Exp $">
+<art mrk="$Id: meleag.xml,v 1.20 2014/05/01 08:10:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>meleagr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -38,8 +38,8 @@
     <trd>yar-Indez<klr> (insekso)</klr></trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd>Truthahn (masklo)</trd>,
-    <trd>Pute (femalo)</trd>
+    <trd>Truthahn<klr> (masklo)</klr></trd>,
+    <trd>Pute<klr> (femalo)</klr></trd>
   </trdgrp>
   <trd lng="en">turkey<klr> (birdo)</klr></trd> 
   <trdgrp lng="fr">
@@ -63,6 +63,9 @@
 </art>
 <!--
 $Log: meleag.xml,v $
+Revision 1.20  2014/05/01 08:10:33  revo
+Joop Eggen: korekto de preventinte trovi Pute
+
 Revision 1.19  2013/09/01 14:10:34  revo
 Wolfram Diestel: forigis ~oformaj
 
@@ -82,8 +85,5 @@ Revision 1.14  2005/07/07 16:33:24  revo
 Alan ar Gall: +trd br, +1 trd fr
 
 Revision 1.13  2003/05/19 19:41:36  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12  2002/07/05 17:34:55  revo
 -->
 </vortaro>

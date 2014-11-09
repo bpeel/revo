@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pseuxd1.xml,v 1.18 2011/12/06 13:10:14 revo Exp $">
+<art mrk="$Id: pseuxd1.xml,v 1.19 2014/05/22 19:10:12 revo Exp $">
 <kap>
    <ofc>2</ofc>
    <rad>pse&ubreve;donim</rad>/o
@@ -14,6 +14,12 @@
        Ka&scirc;nomo de verkisto a&ubreve; artisto, kiu deziras ne 
 konigi sian propran
        nomon:
+       <ekz>
+       vidante, ke mia komenca <tld/>o transiris al la afero mem kaj ke
+       &gcirc;i estas tre oportuna, mi balda&ubreve; tute &ccirc;esis uzadi mian <tld/>on,
+       kaj &gcirc;i restis nur kiel nomo por la afero mem<fnt><bib>LR</bib>,
+       <lok>La Esperantisto, 1890, p.60</lok></fnt>;
+       </ekz>
        <ekz>
          Kabe estas la <tld/>o de D-ro K. Bein.
        </ekz>
@@ -45,6 +51,9 @@ konigi sian propran
 </art>
 <!--
 $Log: pseuxd1.xml,v $
+Revision 1.19  2014/05/22 19:10:12  revo
+Damien Brucker: +ekz
+
 Revision 1.18  2011/12/06 13:10:14  revo
 Marc Rausell: kataluna traduko
 
@@ -64,8 +73,5 @@ Revision 1.13  2004/01/31 17:32:50  revo
 Emmanuel Debanne: +trd fr
 
 Revision 1.12  2003/12/19 17:58:04  revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.11  2003/07/26 08:43:26  revo
 -->
 </vortaro>

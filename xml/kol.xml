@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kol.xml,v 1.39 2014/02/16 16:10:19 revo Exp $">
+  <art mrk="$Id: kol.xml,v 1.40 2014/05/30 15:11:04 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>kol</rad>/o <fnt><bib>PV</bib></fnt>
@@ -94,6 +94,7 @@
       <trd lng="es">cuello</trd>
       <trd lng="he">&tsadi;&vav;&vav;&alef;&resh;</trd>
       <trd lng="hu">nyak</trd>
+      <trd lng="id">leher</trd>
       <trd lng="sv">hals</trd>
     </drv>
 
@@ -178,6 +179,7 @@
       <trd lng="fr">col<klr tip="ind"> (d'un v&ecirc;tement)</klr></trd>
       <trd lng="he">&tsadi;&vav;&vav;&alef;&resh;&vav;&fnun;</trd>
       <trd lng="hu">gall&eacute;r</trd>
+      <trd lng="id">kerah</trd>
       <trdgrp lng="nl">
         <trd>boord<klr tip="ind"> (kraag)</klr></trd>,
         <trd>kraag</trd>
@@ -429,6 +431,9 @@
   </art>
   <!--
   $Log: kol.xml,v $
+  Revision 1.40  2014/05/30 15:11:04  revo
+  Eko Nur Syah Hidayat: +id
+
   Revision 1.39  2014/02/16 16:10:19  revo
   Dmitri Gabinski: +trd be
 

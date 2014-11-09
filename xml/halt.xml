@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: halt.xml,v 1.32 2014/02/18 13:10:32 revo Exp $">
+<art mrk="$Id: halt.xml,v 1.34 2014/07/28 16:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>halt</rad>/i <fnt><bib>PV</bib></fnt>
@@ -31,6 +31,11 @@
           <trd>Halt!</trd>,
           <trd>Stopp!</trd>,
           <trd>Stop!</trd>
+        </trdgrp>
+        <trdgrp lng="es">
+          <trd>&#161;alto!</trd>,
+          <trd>&#161;para!</trd>,
+          <trd>&#161;pare!</trd>
         </trdgrp>
         <trd lng="fr">halte!</trd>
         <trdgrp lng="hu">
@@ -75,7 +80,12 @@
     <trd>anhalten</trd>
   </trdgrp>
   <trd lng="en">halt</trd>
-  <trd lng="es">parar</trd>
+  <trdgrp lng="es">
+    <trd><ind>parar</ind>se</trd>,
+    <trd>cesar</trd>,
+    <trd>hacer una <ind>parada</ind></trd>,
+    <trd>descansar<klr tip="ind"> (hacer una pausa)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>s'<ind>arr&ecirc;ter</ind></trd>,
     <trd>cesser</trd>,
@@ -116,13 +126,16 @@ lng="ru">&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
       </ekz>
       </dif>
     <rim>
-    <tld lit="H"/> estas ordinara radiko normale uzata kiel verbo:<ekz>
+    <ekz><tld/>/</ekz> estas ordinara radiko normale uzata kiel
+    verbo:<ekz>
     <tld lit="H"/>&#8217;! Ne kura&gcirc;u permesi al vi!<fnt>Z</fnt></ekz> =<ekz>
-    <tld lit="H"/>u! Ne kura&gcirc;u... </ekz>&Ccirc;i tie Z uzis &gcirc;in kiel <ref
+    <tld lit="H"/>u! Ne kura&gcirc;u... </ekz>&Ccirc;i tie Z. uzis &gcirc;in kiel <ref
     tip="dif" cel="kri.ek0o">ekkrian</ref> vorton, kaj skribis
     apostrofon, kvaza&ubreve; temus pri ellasita O-fina&jcirc;o.
     Pli bone estas
-    skribi <tld/>! (sen apostrofo), &ccirc;ar temas pri ekkria uzo de nuda
+    skribi <ekz><tld lit="H"/>!</ekz> (sen apostrofo), &ccirc;ar temas pri
+    ekkria uzo
+    de nuda
     radiko<fnt><bib>PMEG</bib></fnt>.
     </rim>
   </snc>
@@ -150,7 +163,10 @@ lng="ru">&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
     <trd>Halten</trd>,
     <trd>Stoppen</trd>
   </trdgrp>
-  <trd lng="es">paro</trd>
+  <trdgrp lng="es">
+    <trd>alto</trd>,
+    <trd>parada</trd>
+  </trdgrp>
   <trd lng="fr">halte<klr tip="ind"> (action, &eacute;tat, moment)</klr></trd>
   <trd lng="hu">meg&aacute;ll&aacute;s</trd>
   <trd lng="pl">post&oacute;j</trd>
@@ -179,6 +195,8 @@ lng="ru">&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
     <trd>Halten</trd>,
     <trd>Stehen</trd>
   </trdgrp>
+  <trd lng="es">estacionar<klr tip="ind"> (intr., permanecer un cierto
+  tiempo)</klr></trd>
   <trd lng="fr">stationner<klr tip="ind"> (intr., rester un certain
   temps)</klr></trd>
   <trdgrp lng="hu">
@@ -214,6 +232,10 @@ lng="ru">&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
     <trd>Haltestelle</trd>,
     <trd>Haltepunkt</trd>,
     <trd>Halteplatz</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>parada</trd>,
+    <trd>lugar de parada</trd>
   </trdgrp>
   <trd lng="fr">halte<klr tip="ind"> (lieu de halte)</klr></trd>
   <trdgrp lng="hu">
@@ -272,6 +294,12 @@ lng="ru">&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
     <trd><klr tip="ind">(jmd.)</klr> stoppen</trd>,
     <trd><klr tip="ind">(jmd.)</klr> unterbrechen</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>detener</trd>,
+    <trd>fijar</trd>,
+    <trd>inmovilizar</trd>,
+    <trd>parar</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>arr&ecirc;ter</trd>,
     <trd>fixer</trd>,
@@ -317,6 +345,10 @@ lng="ru">&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </snc>
   <trd lng="be">&c_t;&c_o;&c_r;&c_m;&c_a;&c_z;</trd>
   <trd lng="de">Bremse</trd>
+  <trdgrp lng="es">
+    <trd>freno</trd>,
+    <trd>traba</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>frein</trd>,
     <trd>entrave</trd>
@@ -338,6 +370,10 @@ lng="ru">&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
     </dif>
   </snc>
   <trd lng="de">Bremsschuh</trd>
+  <trdgrp lng="es">
+    <trd><ind>zapata</ind> de freno</trd>,
+    <trd><ind>pastilla</ind> de freno</trd>
+  </trdgrp>
   <trd lng="fr">patin<klr tip="ind"> (de frein)</klr></trd>
   <trd lng="hu">f&eacute;kpofa</trd>
   <trd lng="nl">remblok</trd>
@@ -368,6 +404,10 @@ lng="ru">&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
   <trdgrp lng="de">
     <trd>verh&uuml;ten</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>impedir<klr tip="ind"> (prevenir)</klr></trd>,
+    <trd>prevenir<klr tip="ind"> (evitar)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>emp&ecirc;cher<klr tip="ind"> (pr&eacute;venir)</klr></trd>,
     <trd>pr&eacute;venir<klr tip="ind"> (&eacute;viter)</klr></trd>
@@ -394,6 +434,7 @@ lng="ru">&c_p;&c_r;&c_je;&c_d;&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</t
     <ref tip="dif" cel="halt.bus0ejo">bus<tld/>ejo</ref>
   </snc>
   <trd lng="de">Bushaltestelle</trd>
+  <trd lng="es">parada de autob&uacute;s</trd>
   <trd lng="pl">przystanek autobusowy</trd>
   <trd lng="pt">parada de &ocirc;nibus</trd>
   <trd lng="ro">sta&tcedil;ie de autobuz</trd>
@@ -428,6 +469,7 @@ lng="ru">&c_p;&c_r;&c_je;&c_d;&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</t
     <trd lng="pt">ponto de &ocirc;nibus</trd>
   </snc>
   <trd lng="de">Bushaltestelle</trd>
+  <trd lng="es">parada de autob&uacute;s</trd>
   <trd lng="pl">przystanek autobusowy</trd>
   <trd lng="pt">parada de &ocirc;nibus</trd>
   <trd lng="ro">sta&tcedil;ie de autobuz</trd>
@@ -469,6 +511,7 @@ lng="ru">&c_p;&c_r;&c_je;&c_d;&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</t
     <trd>U-Bahnhof</trd>,
     <trd>U-Bahn-Station</trd>
   </trdgrp>
+  <trd lng="es">estaci&oacute;n de metro</trd>
   <trd lng="pl">stacja metra</trd>
   <trd lng="pt">parada de metr&ocirc;</trd>
   <trd lng="ro">sta&tcedil;ie de metrou</trd>
@@ -511,6 +554,10 @@ lng="ru">&c_p;&c_r;&c_je;&c_d;&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</t
     <trd>ohne <ind>Unterbrechung</ind></trd>,
     <trd>durchgehend</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>continuo</trd>,
+    <trd>ininterrumpido</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>sans <ind>arr&ecirc;t</ind></trd>,
     <trd>continuel</trd>,
@@ -546,6 +593,7 @@ lng="ru">&c_p;&c_r;&c_je;&c_d;&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</t
     </ekz>
   </snc>
   <trd lng="de">Bushaltestelle</trd>
+  <trd lng="es">parada de autob&uacute;s</trd>
   <trd lng="pl">przystanek autobusowy</trd>
   <trd lng="pt">parada de &ocirc;nibus</trd>
   <trd lng="ro">sta&tcedil;ie de autobuz</trd>
@@ -564,6 +612,7 @@ lng="ru">&c_p;&c_r;&c_je;&c_d;&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</t
     </ekz>
   </snc>
   <trd lng="de">Bushaltestelle</trd>
+  <trd lng="es">parada de autob&uacute;s</trd>
   <trd lng="pl">przystanek autobusowy</trd>
   <trd lng="pt">parada de &ocirc;nibus</trd>
   <trd lng="ro">sta&tcedil;ie de autobuz</trd>
@@ -594,6 +643,7 @@ lng="ru">&c_p;&c_r;&c_je;&c_d;&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</t
     <trd>U-Bahnhof</trd>,
     <trd>U-Bahn-Station</trd>
   </trdgrp>
+  <trd lng="es">parada de metro</trd>
   <trd lng="pl">stacja metra</trd>
   <trd lng="pt">parada de metr&ocirc;</trd>
   <trd lng="ro">sta&tcedil;ie de metrou</trd>
@@ -601,6 +651,12 @@ lng="ru">&c_p;&c_r;&c_je;&c_d;&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</t
 </art>
 <!--
 $Log: halt.xml,v $
+Revision 1.34  2014/07/28 16:10:12  revo
+Guillermo Molleda Jimena: Hispana tradukado
+
+Revision 1.33  2014/06/27 16:10:11  revo
+Damien Brucker: +ekz
+
 Revision 1.32  2014/02/18 13:10:32  revo
 Damien Brucker: +rim
 
@@ -617,11 +673,5 @@ Revision 1.28  2007/07/04 16:30:32  revo
 Wieland Pusch: +trd de
 
 Revision 1.27  2007/05/28 16:30:42  revo
-Wieland Pusch: +trd de
-
-Revision 1.26  2006/05/01 18:12:21  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.25  2005/12/08 17:31:22  revo
 -->
 </vortaro>

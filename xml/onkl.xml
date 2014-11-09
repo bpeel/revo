@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: onkl.xml,v 1.24 2013/12/12 16:10:18 revo Exp $">
+  <art mrk="$Id: onkl.xml,v 1.25 2014/05/31 16:10:20 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>onkl</rad>/o
@@ -49,6 +49,10 @@
       <trdgrp lng="hu">
        <trd>b&aacute;csi</trd>,
        <trd>nagyb&aacute;csi</trd>
+      </trdgrp>
+      <trdgrp lng="id">
+        <trd>om</trd>,
+        <trd>paman</trd>
       </trdgrp>
       <trd lng="it">zio</trd>
       <trd lng="nl">oom</trd>
@@ -108,6 +112,10 @@
          <trd>n&eacute;ni</trd>,
          <trd>nagyn&eacute;ni</trd>
       </trdgrp>
+      <trdgrp lng="id">
+        <trd>bibi</trd>,
+        <trd>tante</trd>
+      </trdgrp>
       <trd lng="it">zia</trd>
       <trd lng="nl">tante</trd>
       <trd lng="pt">tia</trd>
@@ -148,6 +156,9 @@
   </art>
   <!--
   $Log: onkl.xml,v $
+  Revision 1.25  2014/05/31 16:10:20  revo
+  Eko Nur Syah Hidayat: +id
+
   Revision 1.24  2013/12/12 16:10:18  revo
   Joop Eggen: +trd bg
 

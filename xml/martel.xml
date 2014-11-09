@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: martel.xml,v 1.23 2013/12/02 11:10:20 revo Exp $">
+<art mrk="$Id: martel.xml,v 1.25 2014/09/14 08:10:12 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>martel</rad>/o
@@ -27,8 +27,13 @@
    <trd lng="br">morzhol</trd>
    <trd lng="de">Hammer</trd>
    <trd lng="en">hammer</trd>
+   <trd lng="es">martillo</trd>
    <trd lng="fa">&f_ch;&f_k;&a_sh;</trd>
    <trd lng="hu">kalap&aacute;cs</trd>
+   <trdgrp lng="id">
+     <trd>martil</trd>,
+     <trd>palu</trd>
+   </trdgrp>
    <trd lng="it">martello</trd>
    <trd lng="nl">hamer</trd>
    <trdgrp lng="pl">
@@ -64,6 +69,7 @@
      </trdgrp>
      <trd lng="hu">kalap&aacute;l</trd>
      <trd lng="it">martellare</trd>
+     <trd lng="id">[<ind>palu</ind>] memalu</trd>
      <trdgrp lng="pl">
        <trd>bi&cacute; <ind>m&lstroke;otkiem</ind></trd>,
        <trd>ku&cacute;</trd>,
@@ -139,6 +145,12 @@
 </art>
 <!--
 $Log: martel.xml,v $
+Revision 1.25  2014/09/14 08:10:12  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.24  2014/06/18 16:10:19  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.23  2013/12/02 11:10:20  revo
 Damien Brucker: +trd fr
 
@@ -155,11 +167,5 @@ Revision 1.19  2009/06/24 16:30:32  revo
 Wieland Pusch: korr arabaj/persaj koderoj
 
 Revision 1.18  2009/04/29 16:31:04  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.17  2009/02/11 19:42:16  revo
-Wieland Pusch: +drv martel.pneuxmata0o
-
-Revision 1.16  2007/12/10 17:30:15  revo
 -->
 </vortaro>

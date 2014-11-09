@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekster.xml,v 1.30 2014/03/31 20:10:21 revo Exp $">
+<art mrk="$Id: ekster.xml,v 1.31 2014/05/08 18:11:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ekster</rad>
@@ -63,6 +63,10 @@
       <ref tip="dif" cel="krom">krom</ref>
       <dif>
         Objekton, kiun oni apartigas de tiuj, pri kiuj oni asertas ion:
+        <ekz>
+        [...] "<tld/>" [...] tute bone esprimas anka&ubreve; la sencon de
+        "krom"<fnt><bib>LR</bib></fnt>;
+        </ekz>
         <ekz>
           <tld/> tio<klr>,</klr> el la diritaj vortoj<klr>,</klr> ni 
           povas ankora&ubreve; fari aliajn vortojn
@@ -618,6 +622,9 @@ zagranicznych</trd>
 </art>
 <!--
 $Log: ekster.xml,v $
+Revision 1.31  2014/05/08 18:11:18  revo
+Damien Brucker: +ekz
+
 Revision 1.30  2014/03/31 20:10:21  revo
 Damien Brucker: -eraro cxe ref
 
@@ -637,8 +644,5 @@ Revision 1.25  2008/03/06 17:30:18  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.24  2007/12/26 17:30:29  revo
-Marc Bavant: reaperigo de sncref
-
-Revision 1.23 2007/06/23 16:31:14 revo
 -->
 </vortaro>

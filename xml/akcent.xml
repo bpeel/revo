@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: akcent.xml,v 1.32 2012/10/22 01:10:09 revo Exp $">
+<art mrk="$Id: akcent.xml,v 1.33 2014/06/29 08:10:10 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>akcent</rad>/o
 </kap>
@@ -88,6 +88,10 @@
   </trdgrp>
   <trd lng="es">acento</trd>
   <trd lng="hu">nyomat&eacute;k</trd>
+  <trdgrp lng="id">
+      <trd>aksen</trd>,
+      <trd><ind>tekan</ind>an</trd>
+  </trdgrp>
   <trd lng="fr">accent<klr tip="ind"> (tonique,
   d'insistance)</klr></trd>
   <trdgrp lng="pl">
@@ -182,6 +186,7 @@ folio</url>, 2005-12-03</lok>
     <trd>stress</trd>
   </trdgrp>
   <trd lng="fr">accentuer</trd>
+  <trd lng="id">[<ind>tekan</ind>] menekankan</trd>
   <trd lng="pl">akcentowa&cacute;</trd>
   <trd lng="pt">acentuar</trd>
   <trdgrp lng="ru">
@@ -508,6 +513,9 @@ m&aacute;lkonf&iacute;do</ctl><fnt>Z</fnt>;
 </art>
 <!--
 $Log: akcent.xml,v $
+Revision 1.33  2014/06/29 08:10:10  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.32  2012/10/22 01:10:09  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -527,9 +535,6 @@ Revision 1.27  2007/09/28 16:30:30  revo
 Tulio Flores: +tr pt
 
 Revision 1.26  2006/05/08 16:31:41  revo
-Marc Bavant: kor radikan karakteron kaj ofc de ~o/~i; -adm
-
-Revision 1.25  2005/12/07 17:31:21  revo
 -->
 
 </vortaro>

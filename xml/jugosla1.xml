@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jugosla1.xml,v 1.6 2013/12/11 10:10:18 revo Exp $">
+<art mrk="$Id: jugosla1.xml,v 1.8 2014/06/24 10:10:34 revo Exp $">
 <kap>
   <rad>Jugoslavi</rad>/o
 </kap>
@@ -18,9 +18,7 @@
   <snc mrk="jugosla1.J0o.GEOG">
     <uzo tip="fak">GEOG</uzo>
     <uzo tip="fak">POL</uzo>
-    <dif>
       <ref tip="dif" cel="jugoslav.J0ujo.GEOG">Jugoslavujo</ref>
-    </dif>
     </snc>
     <trd lng="be">&c_Ju;&c_g;&c_a;&c_s;&c_l;&c_a;&c_v;&c_ib;&c_ja;</trd>
     <trd lng="bg">&c_Ju;&c_g;&c_o;&c_s;&c_l;&c_a;&c_v;&c_i;&c_ja;</trd>
@@ -28,6 +26,7 @@
     <trd lng="de">Jugoslawien</trd>
     <trd lng="en">Yugoslavia</trd>
     <trd lng="fr">Yougoslavie</trd>
+    <trd lng="id">Yugoslavia</trd>
     <trd lng="ky">&c_Ju;&c_g;&c_o;&c_s;&c_l;&c_a;&c_v;&c_i;&c_ja;</trd>
     <trdgrp lng="pl">
       <trd>Jugos&lstroke;awia</trd>
@@ -39,6 +38,12 @@
 
 <!--
 $Log: jugosla1.xml,v $
+Revision 1.8  2014/06/24 10:10:34  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.7  2014/06/09 14:10:17  revo
+Damien Brucker: +ref
+
 Revision 1.6  2013/12/11 10:10:18  revo
 Damien Brucker: +trd fr
 
@@ -55,7 +60,5 @@ Revision 1.2  2009/06/01 16:31:25  revo
 Wieland Pusch: +trd bg+de+en
 
 Revision 1.1  2009/05/20 16:30:37  revo
-Sebastian Cyprych: nova artikolo
-
 -->
 </vortaro>

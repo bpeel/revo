@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: akuzat.xml,v 1.32 2014/04/02 20:10:18 revo Exp $">
+  <art mrk="$Id: akuzat.xml,v 1.36 2014/05/23 07:10:18 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>akuzativ</rad>/o
@@ -59,7 +59,7 @@
         <rim>
           Oni ne uzas <tld/>on post prepozicio signifanta per si mem
           almovon
-          kiel <em>al</em>, <em>el</em>, <em>&gcirc;is</em>.
+          kiel <em>al</em>, <em>el</em>, <em>&gcirc;is</em>, <em>de</em>.
         </rim>
         </subsnc>
         <subsnc>
@@ -153,26 +153,43 @@
          </subsnc>
        </snc>
        <snc>
+       <dif>
+       Anstata&ubreve;on de la prepozicio "je", se oni timas nenian dusenca&jcirc;on:
+       <ekz>
+       ekzemple en la esprimo mi kontenti&gcirc;as tion &ccirc;i<klr> (=mi
+       kontenti&gcirc;as je tio &ccirc;i)</klr><fnt><bib>LR</bib>, <lok> La
+       Esperantisto, 1892, p.62</lok></fnt>.
+       </ekz>
+       </dif>
+       </snc>
+       <snc>
        <uzo tip="stl">EVI</uzo>
        <dif>
        Anstata&ubreve;on de la prepozicio "kun":
-       <ekz> oni pendigis lin kapon malsupren<fnt>Z</fnt> (= oni
-       pendigis lin kun la kapo malsupren).
+       <ekz> oni pendigis lin kapon malsupren<fnt>Z</fnt><klr> (= oni
+       pendigis lin kun la kapo malsupren)</klr>.
        </ekz>
        </dif>
        </snc>
        <rim num="1">
+       Z. atentigas, ke "la <tld/>o en nia lingvo neniam dependas de la
+       anta&ubreve;iranta prepozicio (&ccirc;ar la prepozicioj per si mem neniam
+       postulas &ccirc;e ni la <tld/>on), sed nur de la
+       senco<fnt><bib>LR</bib>,
+       <lok>La Esperantisto, 1892, p.62</lok></fnt>".
+       </rim>
+       <rim num="2">
           Mallogike kaj malkonsilinde estas anstata&ubreve;igi per <tld/>o
           prepozicion, kiu havas sencon kontra&ubreve;an al la funda kaj esenca
           senco de <tld/>o, kaj kiu signifas  formovon, malproksimigon,
           deiron,
           eliron kiel: <em>el</em>, <em>de</em>, <em>ekster</em>. Diru
           <ekz>
-            eliri el urbo,</ekz> ne:
+            eliri el urbo,</ekz> ne
           <ekz>
-            eliri urbon.</ekz>
+            *eliri urbon*.</ekz>
         </rim>
-        <rim num="2">
+        <rim num="3">
           Oni renkontas kelkfoje &ccirc;e Slavoj kaj &ccirc;e Zamenhof mem,
           e&ccirc; en liaj plej lastdataj  verkoj, nekutiman uzon de
           <tld/>o por montri la komplementon  de substantivo
@@ -244,6 +261,18 @@
   </art>
   <!--
   $Log: akuzat.xml,v $
+  Revision 1.36  2014/05/23 07:10:18  revo
+  Damien Brucker: +rim 3
+
+  Revision 1.35  2014/05/13 09:10:14  revo
+  Damien Brucker: +snc 5
+
+  Revision 1.34  2014/05/12 16:10:15  revo
+  Damien Brucker: +klr
+
+  Revision 1.33  2014/05/12 15:10:12  revo
+  Damien Brucker: +*
+
   Revision 1.32  2014/04/02 20:10:18  revo
   Damien Brucker: +trd fr
 

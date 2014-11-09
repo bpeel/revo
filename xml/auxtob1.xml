@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: auxtob1.xml,v 1.27 2013/10/09 16:10:13 revo Exp $">
+<art mrk="$Id: auxtob1.xml,v 1.28 2014/06/03 15:10:30 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>a&ubreve;tobus</rad>/o
@@ -49,6 +49,7 @@
     <trd>busz</trd>,
     <trd>aut&oacute;busz</trd>
   </trdgrp>
+  <trd lng="id">bus</trd>
   <trdgrp lng="it">
     <trd>autobus</trd>,
     <trd>bus</trd>
@@ -64,6 +65,9 @@
 </art>
 <!--
 $Log: auxtob1.xml,v $
+Revision 1.28  2014/06/03 15:10:30  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.27  2013/10/09 16:10:13  revo
 Benito Subejrano: + trd oc
 
@@ -83,8 +87,5 @@ Revision 1.22  2010/03/11 17:30:19  revo
  Evandro Avellar: + trd pt
 
 Revision 1.21  2009/06/06 16:30:25  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.20  2007/11/16 17:30:17  revo
 -->
 </vortaro>

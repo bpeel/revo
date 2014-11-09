@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxtel.xml,v 1.28 2014/01/05 02:10:15 revo Exp $">
+<art mrk="$Id: sxtel.xml,v 1.29 2014/05/09 08:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;tel</rad>/i <fnt><bib>PV</bib></fnt>
@@ -100,6 +100,7 @@
   </trdgrp>
   <trd lng="de">Diebstahl</trd>
   <trd lng="en">theft</trd>
+  <trd lng="es">robo</trd>
   <trd lng="fr">vol <klr tip="ind">(du bien d'autrui)</klr></trd>
   <trd lng="hu">lop&aacute;s</trd>
   <trdgrp lng="it">
@@ -389,6 +390,9 @@
 </art>
 <!--
 $Log: sxtel.xml,v $
+Revision 1.29  2014/05/09 08:10:13  revo
+Agustin Garcia Lopez: +trd(es) -o
+
 Revision 1.28  2014/01/05 02:10:15  revo
 Jeromo Vasxe: + dom/posxo~isto
 
@@ -408,8 +412,5 @@ Revision 1.23  2006/07/12 16:31:02  revo
 Wieland Pusch: +trd de
 
 Revision 1.22  2004/10/21 16:31:28  revo
-Jeromo Vasxe: - ~iri jam en ir.xml
-
-Revision 1.21  2002/11/21 17:32:50  revo
 -->
 </vortaro>

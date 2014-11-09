@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: abdik.xml,v 1.37 2013/04/02 13:10:08 revo Exp $">
+<art mrk="$Id: abdik.xml,v 1.38 2014/10/19 02:10:22 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>abdik</rad>/i
@@ -17,7 +17,18 @@
         <ref cel="eks.0igxi">Eksi&gcirc;i</ref>,
         <ref cel="rezign.0i">rezigni</ref>
       </refgrp>
-      pri plej supera potenco a&ubreve; rango.
+      pri plej supera potenco a&ubreve; rango:
+      <ekz>
+        La regnestraj zorgoj min jam tro lacigas, /
+        Do kun kor' facila ilin mi <tld/>as
+        <fnt>
+          <aut>S. Pet&odblac;fi, trad. K. Kalocsay</aut>,
+          <vrk><url
+          ref="http://www.egalite.hu/kalocsay/petofi/johano%20la%20brava.htm">
+          Johano la brava</url></vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trdgrp lng="be">
       <trd>&c_a;&c_d;&c_r;&c_a;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>,
@@ -175,6 +186,9 @@
 <!--
 
 $Log: abdik.xml,v $
+Revision 1.38  2014/10/19 02:10:22  revo
+Jeromo Vasxe: + ekz
+
 Revision 1.37  2013/04/02 13:10:08  revo
 Dmitri Gabinski: redakto: +trd be
 
@@ -194,9 +208,6 @@ Revision 1.32  2007/06/10 16:31:15  revo
 Fred Meyer: angla aldono
 
 Revision 1.31  2006/04/06 16:31:13  revo
-Vladimir Kamenski: +trd hr
-
-Revision 1.31  2006/04/05 09:40:00 revo
 -->
 
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rauxt.xml,v 1.1 2014/03/12 21:10:19 revo Exp $">
+<art mrk="$Id: rauxt.xml,v 1.2 2014/09/01 10:10:10 revo Exp $">
 <kap>
   <rad>ra&ubreve;t</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,11 +27,18 @@
       <ref cel="itiner.0o.TRA">itinero</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="fr">
+    <trd>route</trd>,
+    <trd>itin&eacute;raire</trd>
+  </trdgrp>  
 </drv>
 </art>
 
 <!--
 $Log: rauxt.xml,v $
+Revision 1.2  2014/09/01 10:10:10  revo
+Damien Brucker: +trd fr
+
 Revision 1.1  2014/03/12 21:10:19  revo
 Jeromo Vasxe: nova artikolo
 

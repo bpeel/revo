@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: faktur.xml,v 1.18 2010/04/09 16:32:41 revo Exp $">
+<art mrk="$Id: faktur.xml,v 1.19 2014/07/06 16:10:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>faktur</rad>/o
@@ -41,6 +41,10 @@
   </trdgrp>
   <trd lng="fr">facture</trd>
   <trd lng="hu">sz&aacute;mla</trd>
+  <trdgrp lng="id">
+    <trd>faktur</trd>,
+    <trd><ind>tagih</ind>an</trd>
+  </trdgrp>
   <trd lng="nl">factuur</trd>
   <trdgrp lng="pl">
     <trd>faktura</trd>,
@@ -87,6 +91,9 @@
 </art>
 <!--
 $Log: faktur.xml,v $
+Revision 1.19  2014/07/06 16:10:32  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.18  2010/04/09 16:32:41  revo
 Sebastian Cyprych: +trd pl
 
@@ -106,8 +113,5 @@ Revision 1.13  2002/09/24 16:33:27  revo
 Jeromo Vasxe: + ekz, + 2 trd fr
 
 Revision 1.12 2002/09/03 17:32:02 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11 2002/06/20 17:32:22 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ig.xml,v 1.22 2014/02/05 15:10:13 revo Exp $">
+<art mrk="$Id: ig.xml,v 1.23 2014/05/01 08:10:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   -<rad>ig</rad>/
@@ -17,7 +17,7 @@
 <subart>
 <drv mrk="ig.0.unua">
 <kap>-<tld/></kap>
-
+<gra><vspec>sufikso</vspec></gra>
   <dif>
     Kun <em>neverba</em> radiko, <em>ig</em> signifas: &leftquot;agi
     tiamaniere, ke iu alia estu en la stato esprimata de la radiko;
@@ -861,6 +861,9 @@ Radiko samsignifa uzata memstare.
 </art>
 <!--
 $Log: ig.xml,v $
+Revision 1.23  2014/05/01 08:10:34  revo
+Damien Brucker: +gra
+
 Revision 1.22  2014/02/05 15:10:13  revo
 Damien Brucker: +<em>
 
@@ -880,8 +883,5 @@ Revision 1.17  2005/12/26 19:20:13  revo
 Jeromo Vasxe: bib M -> MT
 
 Revision 1.16 2004/11/10 17:31:46 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.15 2004/10/20 16:31:03 revo
 -->
 </vortaro>

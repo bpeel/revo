@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: somer.xml,v 1.31 2013/09/23 07:10:23 revo Exp $">
+<art mrk="$Id: somer.xml,v 1.32 2014/06/03 15:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>somer</rad>/o <fnt><bib>PV</bib></fnt>
@@ -38,6 +38,7 @@
   <trd lng="es">verano</trd>
   <trd lng="fr">&eacute;t&eacute;</trd>
   <trd lng="hu">ny&aacute;r</trd>
+  <trd lng="id"><ind>musim</ind> panas</trd>
   <trd lng="it">estate</trd>
   <trd lng="ja">&#22799; [<ind>&#12394;&#12388;</ind>]</trd>
   <trd lng="nl">zomer</trd>
@@ -119,6 +120,9 @@
 </art>
 <!--
 $Log: somer.xml,v $
+Revision 1.32  2014/06/03 15:10:19  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.31  2013/09/23 07:10:23  revo
 Wolfram Diestel: +val
 
@@ -138,8 +142,5 @@ Revision 1.26  2008/09/21 18:54:19  revo
 HIROTAKA Masaaki: +trd ja
 
 Revision 1.25  2008/01/16 17:30:43  revo
-Wieland Pusch: +trd bg
-
-Revision 1.24  2006/03/21 17:32:55  revo
 -->
 </vortaro>

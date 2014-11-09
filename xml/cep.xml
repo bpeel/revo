@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cep.xml,v 1.21 2011/12/03 09:10:16 revo Exp $">
+<art mrk="$Id: cep.xml,v 1.22 2014/06/23 01:10:21 revo Exp $">
 <kap>
 <ofc>8</ofc>
 <rad>cep</rad>/o
@@ -29,6 +29,7 @@
   <trd lng="es">cebolla</trd>
   <trd lng="fr">oignon</trd>
   <trd lng="hu">hagyma</trd>
+  <trd lng="id">bawang merah</trd>
   <trd lng="it">cipolla</trd>
   <trdgrp lng="nl">
     <trd>ui</trd>,
@@ -43,6 +44,9 @@
 </art>
 <!--
 $Log: cep.xml,v $
+Revision 1.22  2014/06/23 01:10:21  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.21  2011/12/03 09:10:16  revo
 Marc Rausell: kataluna traduko
 
@@ -62,8 +66,5 @@ Revision 1.16  2005/04/14 16:32:07  revo
 Alan ar Gall: +trd br
 
 Revision 1.15  2003/12/03 17:32:26  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14  2002/05/23 20:32:29  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxultr.xml,v 1.29 2013/08/29 01:10:29 revo Exp $">
+<art mrk="$Id: sxultr.xml,v 1.30 2014/05/30 15:11:05 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;ultr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -53,6 +53,10 @@
   <trd lng="fr">&eacute;paule</trd>
   <trd lng="hr">rame</trd>
   <trd lng="hu">v&aacute;ll</trd>
+  <trdgrp lng="id">
+    <trd>bahu</trd>,
+    <trd>pundak</trd>
+  </trdgrp>
   <trd lng="it">spalla</trd>
   <trd lng="nl">schouder</trd>
   <trd lng="pl">bark</trd>
@@ -138,6 +142,9 @@
 </art>
 <!--
 $Log: sxultr.xml,v $
+Revision 1.30  2014/05/30 15:11:05  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.29  2013/08/29 01:10:29  revo
 Jeromo Vasxe: + ~on cxe ~o
 
@@ -157,8 +164,5 @@ Revision 1.24  2009/09/27 16:30:38  revo
 Miroslav Malovec: provo de nova difino kaj cxehxa traduko
 
 Revision 1.23  2009/04/27 16:31:18  revo
-Wieland Pusch: +trd de,bg
-
-Revision 1.22  2009/04/17 19:47:57  revo
 -->
 </vortaro>

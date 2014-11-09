@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hop.xml,v 1.14 2013/12/30 02:10:15 revo Exp $">
+<art mrk="$Id: hop.xml,v 1.15 2014/05/28 08:10:12 revo Exp $">
 <kap>
   <rad>hop</rad> <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -73,6 +73,7 @@
     <aut>&jcirc;v</aut>
   </rim>
   <trd lng="de">hopsen</trd>
+  <trd lng="es">saltar<klr> (con un pie, a la pata coja)</klr></trd>
   <trd lng="it">saltellare<klr> (con un piede)</klr></trd>
   <trdgrp lng="nl">
    <trd>hinkelen</trd>,
@@ -120,6 +121,9 @@ mejzi_ludtempo_notoj.html">
 </art>
 <!--
 $Log: hop.xml,v $
+Revision 1.15  2014/05/28 08:10:12  revo
+Agustin Garcia Lopez: +trd(es)
+
 Revision 1.14  2013/12/30 02:10:15  revo
 Jeromo Vasxe: + ekz, + rim
 
@@ -139,8 +143,5 @@ Revision 1.9  2003/12/19 17:57:48  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.8  2002/10/18 16:41:10  revo
-Christopher Zervic: + ang
-
-Revision 1.7  2002/01/23 17:31:28  revo
 -->
 </vortaro>

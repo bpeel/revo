@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: traduk.xml,v 1.21 2012/08/14 12:10:33 revo Exp $">
+<art mrk="$Id: traduk.xml,v 1.23 2014/07/10 09:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>traduk</rad>/i
@@ -17,6 +17,12 @@
       samsencaj vortoj a&ubreve; esprimoj de la alia:
       <ekz>
         <tld/>i el la angla lingvo en la italan;
+      </ekz>
+      <ekz>
+       &ccirc;iu lingvo servas por esprimi niajn pensojn, sed ne por senpense
+       <tld/>i el aliaj lingvoj<fnt><aut>L. &Z;</aut>:
+          <vrk>Aldono al la dua libro de la lingvo
+          internacia.</vrk></fnt>;
       </ekz>
       <ekz>
         <tld/>i francan novelon esperante<fnt>B</fnt> <klr>(a&ubreve;
@@ -51,6 +57,12 @@
   <kap><tld/>o</kap>
   <snc mrk="traduk.0o.tradukado">
     <ref tip="dif" cel="traduk.0ado"><tld/>ado</ref>
+    <ekz>
+    estas tre dezirinde, ke ni ne evitu malfacilajn <tld/>ojn, sed
+    kontra&ubreve;e, ke ni ilin ser&ccirc;u kaj venku, &ccirc;ar nur tiamaniere nia lingvo
+    plene ellabori&gcirc;os<fnt><bib>LR</bib>, <lok>Respondo 25, La Revuo,
+    1907, Oktobro</lok></fnt>
+    </ekz>
     <trdgrp lng="pl">
       <trd>przek&lstroke;ad<klr> (j&eogonek;zykowy)</klr></trd>,
       <trd>t&lstroke;umaczenie</trd>
@@ -194,6 +206,12 @@
 </art>
 <!--
 $Log: traduk.xml,v $
+Revision 1.23  2014/07/10 09:10:20  revo
+Damien Brucker: +ekz
+
+Revision 1.22  2014/06/24 19:10:11  revo
+Damien Brucker: +ekz
+
 Revision 1.21  2012/08/14 12:10:33  revo
 Marc Rausell: + trd ca
 
@@ -210,11 +228,5 @@ Revision 1.17  2005/01/24 19:02:47  revo
 Marc Bavant: kor duobligitan punkton
 
 Revision 1.16  2004/12/09 17:31:04  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.15  2004/04/12 16:32:45  revo
-Jeromo Vasxe: - () en kap
-
-Revision 1.14  2003/09/26 19:12:35  revo
 -->
 </vortaro>

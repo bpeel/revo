@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: front.xml,v 1.20 2014/02/03 02:10:13 revo Exp $">
+<art mrk="$Id: front.xml,v 1.21 2014/10/19 02:10:25 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>front</rad>/o <fnt><bib>PV</bib></fnt>
@@ -240,7 +240,7 @@
     <trd>faire <ind>face</ind> (&agrave;)</trd>,
     <trd>&ecirc;tre <ind>tourn&eacute;</ind> (vers)</trd>
   </trdgrp>
-  <trd lng="es">enfrentar</trd>
+  <trd lng="es"><ind>enfrentar</ind>se</trd>
   <trdgrp lng="nl">
     <trd>het <ind>hoofd</ind> bieden aan</trd>,
     <trd>met de <ind>voorzijde</ind> staan naar</trd>
@@ -275,6 +275,10 @@
     <trd>konfrontiert sein (mit)</trd>
   </trdgrp>
   <trd lng="en">confront</trd>
+  <trdgrp lng="es">
+    <trd>enfrentar</trd>,
+    <trd>afrontar</trd>
+  </trdgrp>
  <trdgrp lng="fr">
     <trd>affronter</trd>,
     <trd>faire <ind>face</ind> (&agrave;)</trd>,
@@ -296,6 +300,9 @@
 </art>
 <!--
 $Log: front.xml,v $
+Revision 1.21  2014/10/19 02:10:25  revo
+Carlos Garcia: +trd es al-i krkt -i
+
 Revision 1.20  2014/02/03 02:10:13  revo
 Jeromo Vasxe: + ~al~e
 
@@ -315,8 +322,5 @@ Revision 1.15  2007/06/13 16:32:26  revo
 Tulio Flores: +tr pt
 
 Revision 1.14  2003/09/11 16:31:13  revo
-Yury Finkel: +trd ru
-
-Revision 1.13  2003/08/22 16:32:00  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: brid.xml,v 1.21 2012/07/16 13:10:11 revo Exp $">
+<art mrk="$Id: brid.xml,v 1.22 2014/10/12 15:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>brid</rad>/o <fnt><bib>PV</bib></fnt>
@@ -88,6 +88,11 @@
     </trdgrp>
     <trdgrp lng="ca">
       <trd>contenir</trd>,
+      <trd>moderar</trd>,
+      <trd>reprimir</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>contener</trd>,
       <trd>moderar</trd>,
       <trd>reprimir</trd>
     </trdgrp>
@@ -193,6 +198,9 @@
 </art>
 <!--
 $Log: brid.xml,v $
+Revision 1.22  2014/10/12 15:10:22  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.21  2012/07/16 13:10:11  revo
 Marc Rausell: + trd ca
 
@@ -212,8 +220,5 @@ Revision 1.16  2006/04/17 16:34:41  revo
 Tulio Flores: +tr pt
 
 Revision 1.15  2006/04/03 16:31:52  revo
-Eduardo Navas: +trd es
-
-Revision 1.14  2003/12/01 17:31:41  revo
 -->
 </vortaro>

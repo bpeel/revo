@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: inund.xml,v 1.13 2005/12/06 17:32:11 revo Exp $">
+<art mrk="$Id: inund.xml,v 1.14 2014/06/10 04:10:26 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>inund</rad>/i
@@ -56,6 +56,10 @@
     <trd>el&aacute;raszt</trd>,
     <trd>el&ouml;nt</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>banjir</trd>,
+    <trd>[<ind>banjir</ind>] membanjiri</trd>
+  </trdgrp>
   <trd lng="nl">overstromen</trd>
   <trd lng="pt">inundar</trd>
   <trdgrp lng="ru">
@@ -67,6 +71,9 @@
 </art>
 <!--
 $Log: inund.xml,v $
+Revision 1.14  2014/06/10 04:10:26  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.13  2005/12/06 17:32:11  revo
 Luiz Portella: +trd pt
 
@@ -86,8 +93,5 @@ Revision 1.8 2001/11/12 19:12:37 revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.7 2001/06/17 18:12:25 revo
-Yury Finkel: +trd ru; +ref al diluvo
-
-Revision 1.6 2001/02/12 08:18:26 revo
 -->
 </vortaro>

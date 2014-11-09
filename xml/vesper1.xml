@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vesper1.xml,v 1.17 2014/02/15 12:10:11 revo Exp $">
+<art mrk="$Id: vesper1.xml,v 1.18 2014/06/30 15:10:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vespert</rad>/oj
@@ -19,6 +19,7 @@
     <trd>murci&eacute;lago</trd>,
     <trd>quir&oacute;ptero</trd>
   </trdgrp>
+  <trd lng="id">kelelawar</trd>
 </drv>
 
 <drv mrk="vesper1.0oj">
@@ -64,6 +65,9 @@
 </art>
 <!--
 $Log: vesper1.xml,v $
+Revision 1.18  2014/06/30 15:10:29  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.17  2014/02/15 12:10:11  revo
 Carlos Garcia: +trd es -o
 
@@ -83,8 +87,5 @@ Revision 1.12  2004/07/29 16:31:32  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.11  2002/10/23 20:40:52  revo
-aktualigo de malnovaj fnt-indikoj enkondukante <bib>
-
-Revision 1.10  2002/07/11 17:32:40  revo
 -->
 </vortaro>

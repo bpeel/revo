@@ -2,14 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: argxir.xml,v 1.9 2009/10/08 16:30:52 revo Exp $">
+<art mrk="$Id: argxir.xml,v 1.10 2014/06/05 12:10:19 revo Exp $">
 <kap>
   <rad>ar&gcirc;irol</rad>/o
 </kap>
 <drv mrk="argxir.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">MED</uzo>
   <snc>
+  <uzo tip="fak">MED</uzo>
     <dif>
       <ref tip="super" cel="argxen.0o.KEM">Ar&gcirc;ento</ref> en koloida 
       stato, uzata kiel antisepsa&jcirc;o.
@@ -17,6 +17,7 @@
   </snc>
   <trd lng="de">kolloides Silber</trd>
   <trd lng="en">colloidal <ind>silver</ind></trd>
+  <trd lng="fr"><ind>argent</ind> collo&iuml;dal</trd>
   <trd lng="hu">kolloid <ind>ez&uuml;st</ind></trd>
   <trd lng="nl">Argyrol<klr tip="ind"> (antisepticum)</klr></trd>
   <trd lng="ru">&c_a;&c_r;&c_g;&c_i;&c_r;&c_o;&c_l;</trd>
@@ -24,6 +25,9 @@
 </art>
 <!--
 $Log: argxir.xml,v $
+Revision 1.10  2014/06/05 12:10:19  revo
+Damien Brucker: +trd fr
+
 Revision 1.9  2009/10/08 16:30:52  revo
 Paul Peeraerts: +nl +ref
 

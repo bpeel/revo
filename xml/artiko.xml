@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: artiko.xml,v 1.26 2013/12/23 10:10:15 revo Exp $">
+<art mrk="$Id: artiko.xml,v 1.27 2014/05/08 18:11:07 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>artikol</rad>/o
@@ -25,6 +25,10 @@
       <ekz>
       en nia lingvo la uzado de la <tld/>o ne estas deviga
       <fnt><bib>LR</bib></fnt>;
+      </ekz>
+      <ekz>
+      apostrofi la <tld/>on oni povas nur post prepozicio, kiu fini&gcirc;as
+      per vokalo<fnt><bib>LR</bib></fnt>;
       </ekz>
       <ekz>
         <ind>difina <tld/>o</ind>;
@@ -147,6 +151,9 @@
 </art>
 <!--
 $Log: artiko.xml,v $
+Revision 1.27  2014/05/08 18:11:07  revo
+Damien Brucker: +ekz
+
 Revision 1.26  2013/12/23 10:10:15  revo
 Damien Brucker: +ekz
 
@@ -166,8 +173,5 @@ Revision 1.21  2013/12/05 10:10:10  revo
 Damien Brucker: +trd fr
 
 Revision 1.20  2013/09/12 08:10:11  revo
-Damien Brucker: Aldono de rimarko
-
-Revision 1.19  2012/07/17 11:10:21  revo
 -->
 </vortaro>

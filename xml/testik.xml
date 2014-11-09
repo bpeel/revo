@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: testik.xml,v 1.21 2013/12/03 02:10:15 revo Exp $">
+<art mrk="$Id: testik.xml,v 1.22 2014/05/30 17:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>testik</rad>/o <fnt><bib>PV</bib></fnt>
@@ -32,6 +32,7 @@
   </trdgrp>
   <trd lng="fr">testicule</trd>
   <trd lng="hu">here <klr tip="amb">(anat.)</klr></trd>
+  <trd lng="id">testis</trd>
   <trd lng="it">testicolo</trd>
   <trdgrp lng="nl">
     <trd>teelbal</trd>,
@@ -70,10 +71,14 @@
     <trd>bourse<klr> (scrotum)</klr></trd>,
     <trd>scrotum</trd>
   </trdgrp>
+  <trd lng="id">skrotum</trd>
 </drv>
 </art>
 <!--
 $Log: testik.xml,v $
+Revision 1.22  2014/05/30 17:10:23  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.21  2013/12/03 02:10:15  revo
 Jeromo Vasxe: +  ~ujo
 
@@ -93,8 +98,5 @@ Revision 1.16  2009/08/19 18:42:04  revo
 Russ Williams: +trd en
 
 Revision 1.15  2009/06/23 16:31:24  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.14  2006/02/15 17:33:46  revo
 -->
 </vortaro>

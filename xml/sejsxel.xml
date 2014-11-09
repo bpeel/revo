@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sejsxel.xml,v 1.4 2013/02/10 02:10:54 revo Exp $">
+<art mrk="$Id: sejsxel.xml,v 1.6 2014/06/24 10:10:23 revo Exp $">
 <kap>
   <rad>sej&scirc;el</rad>/o
 </kap>
@@ -30,6 +30,11 @@
     <trd lng="bg">&c_S;&c_je;&c_j;&c_sh;&c_je;&c_l;&c_i;</trd>
     <trd lng="de">Seychellen</trd>
     <trd lng="en">Seychelles</trd>
+    <trdgrp lng="fr">
+      <trd>Seychelles</trd>,
+      <trd>R&eacute;publique des Seychelles</trd>
+    </trdgrp>
+    <trd lng="id">Seychelles</trd>
     <trd lng="it">Seychelles</trd>
     <trdgrp lng="pl">
       <trd>Seszele</trd>
@@ -42,6 +47,12 @@
 
 <!--
 $Log: sejsxel.xml,v $
+Revision 1.6  2014/06/24 10:10:23  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.5  2014/06/18 20:10:15  revo
+Damien Brucker: +trd fr
+
 Revision 1.4  2013/02/10 02:10:54  revo
 Evandro Avellar: Traduko al Pt
 

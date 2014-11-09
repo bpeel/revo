@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jod.xml,v 1.21 2014/01/30 09:10:28 revo Exp $">
+<art mrk="$Id: jod.xml,v 1.22 2014/06/04 03:10:43 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>jod</rad>/o
@@ -32,6 +32,7 @@
   <trd lng="es">yodo</trd>
   <trd lng="fr">iode</trd>
   <trd lng="hu">j&oacute;d</trd>
+  <trd lng="id">iodin</trd>
   <trdgrp lng="it">
      <trd>iodio</trd>,
      <trd>iodo</trd>
@@ -49,6 +50,9 @@
 </art>
 <!--
 $Log: jod.xml,v $
+Revision 1.22  2014/06/04 03:10:43  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.21  2014/01/30 09:10:28  revo
 Joop Eggen: +trd bg
 
@@ -68,8 +72,5 @@ Revision 1.16  2006/01/03 17:31:52  revo
 H. Neal Parker: +trd en
 
 Revision 1.15  2005/04/16 16:33:28  revo
-Alan ar Gall: +trd br
-
-Revision 1.14  2004/01/13 18:59:49  revo
 -->
 </vortaro>

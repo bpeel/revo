@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: salomon1.xml,v 1.5 2013/02/12 03:10:25 revo Exp $">
+<art mrk="$Id: salomon1.xml,v 1.6 2014/06/18 20:10:13 revo Exp $">
 <kap>
   <rad>Salomon</rad>/oj
 </kap>
@@ -28,6 +28,7 @@
     <trd lng="de">Salomon-Inseln</trd>
     <trd lng="en">Solomon Islands<klr tip="amb">
     (archipelago)</klr></trd>
+    <trd lng="fr">&icirc;les <ind>Salomon</ind></trd>
     <trdgrp lng="pl">
       <trd><klr>archipelag </klr>Wysp Salomona</trd>
     </trdgrp>
@@ -44,6 +45,7 @@
     (&c_d;&c_malmol;&c_r;&c_zh;&c_a;&c_v;&c_a;)</klr></trd>
     <trd lng="de">Salomonen</trd>
     <trd lng="en">Solomon Islands</trd>
+    <trd lng="fr">Salomon</trd>
     <trd lng="it">Isole <ind>Salomone</ind></trd>
     <trdgrp lng="pl">
       <trd>Wyspy Salomona</trd>
@@ -56,6 +58,9 @@
 
 <!--
 $Log: salomon1.xml,v $
+Revision 1.6  2014/06/18 20:10:13  revo
+Damien Brucker: +trd fr
+
 Revision 1.5  2013/02/12 03:10:25  revo
 Evandro Avellar: Tr+ pt
 

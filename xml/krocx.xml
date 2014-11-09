@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krocx.xml,v 1.25 2012/10/23 00:12:34 revo Exp $">
+<art mrk="$Id: krocx.xml,v 1.26 2014/06/03 09:10:17 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>kro&ccirc;</rad>/i</kap>
 <drv mrk="krocx.0i">
@@ -92,7 +92,7 @@
         cel="implik.0i.movojn">impliki&gcirc;i</ref>
         a&ubreve; difekti:
         <ekz>
-          lia a&ubreve;to <tld/>is mian bifron<fnt>PIV1</fnt>.
+          lia a&ubreve;to <tld/>is mian bufron<fnt>PIV1</fnt>.
         </ekz>
       </dif>
       <trdgrp lng="de">
@@ -407,6 +407,9 @@
 </art>
 <!--
 $Log: krocx.xml,v $
+Revision 1.26  2014/06/03 09:10:17  revo
+Tulio Flores: korekto de "bifron" al "bufron", en la frazo "lia auxto krocxis mian bifron".
+
 Revision 1.25  2012/10/23 00:12:34  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -426,8 +429,5 @@ Revision 1.20  2005/12/04 17:31:31  revo
 Wieland Pusch: +trd de
 
 Revision 1.19  2005/02/20 17:34:06  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.18 2004/04/15 16:31:59 revo
 -->
 </vortaro>

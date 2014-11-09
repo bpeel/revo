@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: azen.xml,v 1.38 2013/10/19 15:10:20 revo Exp $">
+<art mrk="$Id: azen.xml,v 1.39 2014/06/30 15:10:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>azen</rad>/o <fnt><bib>PV</bib></fnt>cel
@@ -23,6 +23,7 @@
       <tld/>o
     </bld>
     <trd lng="en">donkey</trd>
+    <trd lng="id">keledai</trd>
   </snc>
   <snc mrk="azen.0o.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -115,6 +116,9 @@
 </art>
 <!--
 $Log: azen.xml,v $
+Revision 1.39  2014/06/30 15:10:30  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.38  2013/10/19 15:10:20  revo
 Wolfram Diestel: ref al neparhufuloj
 
@@ -134,8 +138,5 @@ Revision 1.33  2008/12/07 07:18:09  revo
 Wieland Pusch: nenio sed mankis la cvs
 
 Revision 1.32  2008/09/20 16:30:18  revo
-HIROTAKA Masaaki: +trd ja
-
-Revision 1.31  2008/01/05 17:30:16  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eg.xml,v 1.21 2014/02/05 10:10:17 revo Exp $">
+<art mrk="$Id: eg.xml,v 1.22 2014/05/08 18:11:02 revo Exp $">
 <kap>
   <ofc>*</ofc>
   -<rad>eg</rad>/
@@ -15,6 +15,11 @@
     Sufikso esprimanta tre altan gradon de grandeco a&ubreve; intenseco,
     ordinare kun specialigo de la ideo enhavata en la radikvorto:
     </dif>
+    <ekz>
+    la sufikso -<tld/> ne povas servi por simpla anstata&ubreve;ado de la
+    vortoj "granda" a&ubreve; "tre", sed &gcirc;i devas servi por kreado de vortoj
+    novaj kun senco speciala<fnt><bib>LR</bib></fnt>;
+    </ekz>
     <ekz>
       tio &ccirc;i estis jam ne simpla pluvo, sed pluv<tld/>o
       <fnt><bib>F</bib>, <lok>&FE; 38</lok></fnt>;
@@ -181,6 +186,9 @@
 </art>
 <!--
 $Log: eg.xml,v $
+Revision 1.22  2014/05/08 18:11:02  revo
+Damien Brucker: +ekz
+
 Revision 1.21  2014/02/05 10:10:17  revo
 Damien Brucker: +kap
 
@@ -200,8 +208,5 @@ Revision 1.16  2003/12/16 17:30:51  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.15  2003/10/30 17:30:40  revo
-Jeromo Vasxe: kor 1 ref, + 1 ekz, + 2 trd fr
-
-Revision 1.14 2003/06/03 16:30:59 revo
 -->
 </vortaro>

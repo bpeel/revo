@@ -2,15 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: rektum.xml,v 1.15 2014/03/13 02:10:27 revo Exp $">
+  <art mrk="$Id: rektum.xml,v 1.16 2014/04/26 20:10:26 revo Exp $">
     <kap>
       <rad>rektum</rad>/o
     </kap>
 
     <drv mrk="rektum.0o">
       <kap><tld/>o</kap>
-      <uzo tip="fak">ANA</uzo>
       <snc>
+      <uzo tip="fak">ANA</uzo>
         <ref tip="dif" cel="intest.rekta0o">rekta intesto</ref>
       </snc>
       <trdgrp lng="bg">
@@ -29,6 +29,7 @@
       </trdgrp>
       <trd lng="en">rectum</trd>
       <trd lng="es">recto</trd>
+      <trd lng="fr">rectum</trd>
       <trd lng="hu">v&eacute;gb&eacute;l</trd>
       <trdgrp lng="it">
         <trd>retto<klr> (sost.)</klr></trd>,
@@ -45,6 +46,9 @@
   </art>
   <!--
   $Log: rektum.xml,v $
+  Revision 1.16  2014/04/26 20:10:26  revo
+  Damien Brucker: +trd fr
+
   Revision 1.15  2014/03/13 02:10:27  revo
   Joop Eggen: +trd bg
 

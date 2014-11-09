@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kul.xml,v 1.29 2013/09/29 17:10:36 revo Exp $">
+<art mrk="$Id: kul.xml,v 1.31 2014/10/23 17:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kul</rad>/o
@@ -37,8 +37,7 @@ mamuloj kaj
   <trd lng="de">Stechm&uuml;cke</trd>
   <trd lng="en">mosquito</trd>
   <trdgrp lng="es">
-    <trd>mosquito</trd>,
-    <trd>zancudo</trd>
+    <trd>mosquito (de g&eacute;nero Culex)</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>moustique</trd>
@@ -71,15 +70,18 @@ mamuloj kaj
       </ekz>
     </dif>
   </snc>
-  <trdgrp lng="en">
-    <trd>mosquito net</trd>
-    <trd>mosquito netting</trd>
-  </trdgrp>
-
   <trd lng="be">&c_s;&c_je;&c_t;&c_k;&c_a; &c_a;&c_d;
   <ind>&c_k;&c_a;&c_m;&c_a;&c_r;&c_o;&c_w;</ind></trd>
   <trd lng="ca">mosquitera</trd>
   <trd lng="de">M&uuml;ckennetz</trd>
+  <trdgrp lng="en">
+    <trd>mosquito net</trd>
+    <trd>mosquito netting</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>mosquitero</trd>,
+    <trd>mosquitera</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>moustiquaire</trd>
   </trdgrp>
@@ -93,11 +95,16 @@ mamuloj kaj
   <trd lng="ru">&c_s;&c_je;&c_t;&c_k;&c_a; &c_o;&c_t;
 &c_k;&c_o;&c_m;&c_a;&c_r;&c_o;&c_v;</trd>
   <trd lng="sv">myggn&auml;t</trd>
-  <trd lng="es">mosquitero</trd>
 </drv>
 </art>
 <!--
 $Log: kul.xml,v $
+Revision 1.31  2014/10/23 17:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.30  2014/10/20 11:10:13  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.29  2013/09/29 17:10:36  revo
 Wolfram Diestel: kor. lst-ref
 
@@ -114,11 +121,5 @@ Revision 1.25  2012/01/12 21:10:07  revo
 Eduardo Navas: +trad es
 
 Revision 1.24  2012/01/10 00:10:20  revo
-Eduardo Navas: +trad es
-
-Revision 1.23  2010/07/04 16:30:24  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.22  2008/01/17 17:30:35  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kor.xml,v 1.35 2014/01/04 02:10:19 revo Exp $">
+<art mrk="$Id: kor.xml,v 1.37 2014/05/31 16:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kor</rad>/o <fnt><bib>PV</bib></fnt>
@@ -170,7 +170,10 @@
   </trdgrp>
   <trd lng="fr">c&oelig;ur</trd>
   <trd lng="he">&lamed;&bet;</trd>
-  <trd lng="hu">sz&iacute;v</trd>
+  <trd lng="hu">sz&iacute;v</trd><trdgrp lng="id">
+    <trd>hati</trd>,
+    <trd>jantung</trd>
+  </trdgrp>
   <trd lng="it">cuore</trd>
   <trd lng="nl">hart</trd>
   <trd lng="pl">serce</trd>
@@ -455,6 +458,10 @@
     <trd>anr&uuml;hren <klr tip="ind">(jemanden)</klr></trd>,
     <trd>r&uuml;hren <klr tip="ind">(jemanden)</klr></trd>.
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>excitar</trd>,
+    <trd>emocionar</trd>
+  </trdgrp>
   <trdgrp lng="fa">
     <trd>&a_m;&a_t;&a_A_hamza_sure;&a_th;&a_r;
     &f_k;&a_r;&a_d;&a_n;</trd>
@@ -486,6 +493,12 @@
 </art>
 <!--
 $Log: kor.xml,v $
+Revision 1.37  2014/05/31 16:10:26  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.36  2014/05/01 08:10:24  revo
+Agustin Garcia Lopez: +trd(es) -tusxi
+
 Revision 1.35  2014/01/04 02:10:19  revo
 Jeromo Vasxe: + el~a
 
@@ -502,11 +515,5 @@ Revision 1.31  2009/08/30 16:30:44  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.30  2009/06/25 16:30:37  revo
-Behnam Tabatabai: korr arabaj/persaj koderoj
-
-Revision 1.29  2009/05/17 16:31:18  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.28  2007/12/12 17:30:24  revo
 -->
 </vortaro>

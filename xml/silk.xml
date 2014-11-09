@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: silk.xml,v 1.20 2012/08/24 06:10:15 revo Exp $">
+<art mrk="$Id: silk.xml,v 1.21 2014/05/08 18:10:53 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>silk</rad>/o
@@ -36,6 +36,7 @@
      <trd>&c_ja;&c_d;&c_v;&c_a;&c_b;</trd>
    </trdgrp>
    <trd lng="de">Seide</trd>
+   <trd lng="en">silk</trd>
    <trd lng="es">seda</trd>
    <trd lng="fr">soie</trd>
    <trd lng="hu">selyem</trd>
@@ -89,6 +90,9 @@
 </art>
 <!--
 $Log: silk.xml,v $
+Revision 1.21  2014/05/08 18:10:53  revo
+Neil Roberts: +trd en
+
 Revision 1.20  2012/08/24 06:10:15  revo
 Sebastian Cyprych: +trd pl
 
@@ -108,8 +112,5 @@ Revision 1.15  2004/10/12 16:31:26  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.14  2004/03/03 17:31:03  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.13  2002/10/28 19:20:39  revo
 -->
 </vortaro>

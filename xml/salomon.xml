@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: salomon.xml,v 1.8 2011/01/03 08:15:09 revo Exp $">
+<art mrk="$Id: salomon.xml,v 1.9 2014/06/23 14:10:21 revo Exp $">
 <kap>
   <rad>Salomon</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -36,6 +36,10 @@
   <trd lng="en">Solomon</trd>
   <trd lng="fr">Salomon</trd>
   <trd lng="hu">Salamon</trd>
+  <trdgrp lng="id">
+    <trd>Salomo</trd>,
+    <trd>Sulaiman</trd>
+  </trdgrp>
   <trd lng="it">Salomone</trd>
   <trdgrp lng="pt">
    <trd>Salom&atilde;o</trd>
@@ -46,6 +50,9 @@
 
 <!--
 $Log: salomon.xml,v $
+Revision 1.9  2014/06/23 14:10:21  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.8  2011/01/03 08:15:09  revo
 Jeromo Vasxe: kor. fusxitan fnt
 
@@ -65,8 +72,5 @@ Revision 1.3  2006/02/07 17:31:18  revo
 Tulio Flores: +trd pt
 
 Revision 1.2  2005/08/25 16:32:30  revo
-Yury Finkel: +trd ru
-
-Revision 1.1  2005/08/13 16:32:19  revo
 -->
 </vortaro>

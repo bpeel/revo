@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stadi.xml,v 1.19 2010/06/12 16:30:39 revo Exp $">
+<art mrk="$Id: stadi.xml,v 1.20 2014/07/29 08:10:25 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>stadi</rad>/o
@@ -83,6 +83,7 @@
     <ref tip="dif" cel="stadio.0o">stadiono.</ref>
     <trd lng="de">Stadion</trd>
     <trd lng="hu">stadion</trd>
+    <trd lng="id">stadion</trd>
     <trd lng="it">stadio<klr> (spo.)</klr></trd>
     <trd lng="hr">stadion</trd>
     <trd lng="nl">stadion</trd>
@@ -127,6 +128,7 @@
       <trd>st&aacute;dium</trd>,
       <trd>szakasz</trd>
     </trdgrp>
+    <trd lng="id">stadium</trd>
     <trd lng="it">stadio<klr> (fase)</klr></trd>
     <trdgrp lng="hr">
       <trd>stadij</trd>,
@@ -150,6 +152,9 @@
 </art>
 <!--
 $Log: stadi.xml,v $
+Revision 1.20  2014/07/29 08:10:25  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.19  2010/06/12 16:30:39  revo
 Antonio Codazzi: +trd it
 
@@ -169,8 +174,5 @@ Revision 1.15 2006/04/08 12:17:10 revo
 Vladimir Kamenski: +trd hr
 
 Revision 1.14 2006/03/24 17:31:10 revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.13 2002/08/17 17:31:28 revo
 -->
 </vortaro>

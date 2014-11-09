@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cend.xml,v 1.26 2013/09/22 19:11:55 revo Exp $">
+<art mrk="$Id: cend.xml,v 1.27 2014/06/26 15:10:21 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>cend</rad>/o <fnt><bib>PV</bib></fnt>
@@ -47,6 +47,7 @@
     </trd>,
     <trd>centime<klr tip="amb"> (d'euro)</klr></trd></trdgrp>
   <trd lng="hu">cent</trd>
+  <trd lng="id">sen</trd>
   <trd lng="it">centesimo</trd>
   <trd lng="nl">cent</trd>
   <trd lng="pl">cent</trd>
@@ -57,6 +58,9 @@
 </art>
 <!--
 $Log: cend.xml,v $
+Revision 1.27  2014/06/26 15:10:21  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.26  2013/09/22 19:11:55  revo
 Wolfram Diestel: referenco al listo monunuoj
 
@@ -76,8 +80,5 @@ Revision 1.21  2009/05/04 16:32:11  revo
 Antonio Codazzi: +trd it
 
 Revision 1.20  2008/01/24 19:49:13  revo
-Russ Williams: +trd en; ripari xml (snc en stranga loko)
-
-Revision 1.19  2007/11/19 17:31:08  revo
 -->
 </vortaro>

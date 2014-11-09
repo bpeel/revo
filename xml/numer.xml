@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: numer.xml,v 1.24 2013/05/19 10:10:09 revo Exp $">
+<art mrk="$Id: numer.xml,v 1.26 2014/10/03 11:10:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>numer</rad>/o
@@ -17,7 +17,10 @@
         <tld/>o de pa&gcirc;o, domo, telefono, bileto.
       </ekz>
     </dif>
-  <trd lng="es">n&uacute;mero</trd>
+  <trdgrp lng="es">
+    <trd>n&uacute;mero</trd>,
+    <trd>cifra</trd>
+  </trdgrp>
   </snc>
   <snc>
     <dif>
@@ -39,6 +42,10 @@
   <trd lng="en">number</trd>
   <trd lng="fr">num&eacute;ro</trd>
   <trd lng="hu">sz&aacute;m</trd>  
+  <trdgrp lng="id">
+    <trd>angka</trd>,
+    <trd>nomor</trd>
+  </trdgrp>
   <trd lng="nl">nummer</trd>
   <trd lng="pt">n&uacute;mero</trd>
   <trd lng="ru">&c_n;&c_o;&c_m;&c_je;&c_r;</trd>
@@ -61,6 +68,7 @@
   <trd lng="es">numerar</trd>
   <trd lng="fr">num&eacute;roter</trd>
   <trd lng="hu">megsz&aacute;moz</trd>  
+  <trd lng="id">[<ind>nomor</ind>] menomori</trd>
   <trd lng="nl">nummeren</trd>
   <trd lng="pt">numerar</trd>
   <trd lng="ru">&c_n;&c_u;&c_m;&c_je;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
@@ -159,6 +167,12 @@
 </art>
 <!--
 $Log: numer.xml,v $
+Revision 1.26  2014/10/03 11:10:29  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.25  2014/06/10 05:10:18  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.24  2013/05/19 10:10:09  revo
 Wolfram Diestel: aldonis mallongigon
 
@@ -175,11 +189,5 @@ Revision 1.20  2004/06/24 16:33:02  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.19  2003/09/01 16:30:46  revo
-Marc Bavant: +drv prov~o
-
-Revision 1.18 2003/06/16 16:32:16 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.17 2003/05/12 16:33:27 revo
 -->
 </vortaro>

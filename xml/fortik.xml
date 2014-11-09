@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fortik.xml,v 1.20 2013/11/08 19:10:35 revo Exp $">
+<art mrk="$Id: fortik.xml,v 1.21 2014/06/30 16:10:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fortik</rad>/a <fnt><bib>PV</bib></fnt>
@@ -55,6 +55,10 @@
     <trdgrp lng="hu">
       <trd>er&odblac;s</trd>,
       <trd>szil&aacute;rd</trd>
+    </trdgrp>
+    <trdgrp lng="id">
+      <trd>kukuh</trd>,
+      <trd>teguh</trd>
     </trdgrp>
    <trdgrp lng="it">
      <trd>forte</trd>,
@@ -154,6 +158,7 @@
     <trd>er&odblac;&iacute;t</trd>,
     <trd>szil&aacute;rd;&iacute;t</trd>
   </trdgrp>
+  <trd lng="id">[<ind>benteng</ind>] membentengi</trd>
   <trdgrp lng="it">
      <trd>fortificare</trd>,
      <trd>rafforzare</trd>,
@@ -220,6 +225,7 @@
     <trd>er&odblac;&iacute;tm&eacute;ny</trd>,
     <trd>v&aacute;r</trd>
   </trdgrp>
+  <trd lng="id">benteng</trd>
   <trdgrp lng="it">
     <trd>forte<klr> (mil.)</klr></trd>,
     <trd>fortificazione</trd>
@@ -287,6 +293,9 @@
 </art>
 <!--
 $Log: fortik.xml,v $
+Revision 1.21  2014/06/30 16:10:35  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.20  2013/11/08 19:10:35  revo
 Jeromo Vasxe: + mal~a
 
@@ -306,8 +315,5 @@ Revision 1.15 2004/08/29 16:32:46 revo
 Marc Bavant: ~ajxo: +uzo MIL; +drv cxirkaux~ajxo
 
 Revision 1.14 2004/08/07 16:31:19 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.13 2003/10/14 16:30:45 revo
 -->
 </vortaro>

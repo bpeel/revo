@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: egipt.xml,v 1.21 2014/03/14 09:10:13 revo Exp $">
+  <art mrk="$Id: egipt.xml,v 1.25 2014/06/23 12:10:14 revo Exp $">
     <kap><rad>egipt</rad>/o</kap>
 
     <drv mrk="egipt.0o">
@@ -57,15 +57,13 @@
       </snc>
       <snc mrk="egipt.0o.POL">
         <uzo tip="fak">POL</uzo>
-        <dif>
-          <ref tip="dif" cel="egipt.0ujano"><tld lit="E"/>ujano</ref>:
+          <ref tip="dif" cel="egipt.0ujano"><tld lit="E"/>ujano</ref>
           <ekz>
             la unuan fojon &scirc;i a&ubreve;dis la legendon, kiun la
             <tld/>oj rakontas al si pri la struto
             <fnt><bib>Fab4</bib>, <lok>Filino de la mar&ccirc;a
             re&gcirc;o</lok></fnt>.
           </ekz>
-        </dif>
         <trd
         lng="be">&c_e;&c_g;&c_ib;&c_p;&c_c;&c_ja;&c_n;&c_ib;&c_n;</trd>
         <trdgrp lng="de">
@@ -84,13 +82,20 @@
       <snc mrk="egipt.0o.Kabe">
         <uzo tip="stl">EVI</uzo>
         <dif>
-          <klr>(<tld lit="E"/>o)</klr>
-          <ref tip="dif" cel="egipt.E0ujo"><tld lit="E"/>ujo</ref>:
+        <klr><tld lit="E"/>o</klr>
+        </dif>
+          <ref tip="dif" cel="egipt.E0ujo"><tld lit="E"/>ujo</ref>
           <ekz>
             li estis fama en la tuta <tld lit="E"/>o
-            <fnt><bib>Far2</bib>, <lok>&ccirc;ap. 2a</lok></fnt>.
+            <fnt><bib>Far2</bib>, <lok>&ccirc;ap. 2a</lok></fnt>;
           </ekz>
-        </dif>
+          <ekz>
+          de la komenco &gcirc;is nun mi &ccirc;iam uzadis la nomon "<tld
+          lit="E"/>o" ne por la lando, sed por la popolo: la landon mi
+          nomadis "<tld lit="E"/>ujo"<fnt><bib>LR</bib>, <lok>Respondo
+          47,
+          Oficiala Gazeto, III, 1911, p. 291</lok></fnt>.
+          </ekz>
         <trd lng="ca">Egipte</trd>
         <trd lng="de">&Auml;gypten</trd>
         <trd lng="es">Egipto</trd>
@@ -132,9 +137,11 @@
     </drv>
 
     <drv mrk="egipt.E0ujo">
-      <kap><tld lit="E"/>ujo</kap>
-      <fnt><bib>ZR</bib></fnt>
+      <kap><tld lit="E"/>ujo <fnt><bib>ZR</bib></fnt>
+      </kap>
       <snc mrk="egipt.E0ujo.GEO">
+      <uzo tip="fak">GEOG</uzo>
+      <uzo tip="fak">POL</uzo>
         <dif>
           Lando en la nordorienta Afriko, &ccirc;irka&ubreve; la
           malsupra parto de
@@ -156,8 +163,12 @@
       <trd lng="en">Egypt</trd>
       <trd lng="es">Egipto</trd>
       <trd lng="fa">&a_m;&a_S;&a_r;</trd>
-      <trd lng="fr">&Eacute;gypte</trd>
+      <trdgrp lng="fr">
+        <trd>&Eacute;gypte</trd>,
+        <trd>R&eacute;publique arabe d'&Eacute;gypte</trd>
+      </trdgrp>
       <trd lng="hu">Egyiptom</trd>
+      <trd lng="id">Mesir</trd>
       <trdgrp lng="pl">
         <trd>Egipt</trd>,
         <trd>Arabska Republika Egiptu</trd>
@@ -200,6 +211,18 @@
   </art>
   <!--
   $Log: egipt.xml,v $
+  Revision 1.25  2014/06/23 12:10:14  revo
+  Damien Brucker: +ekz
+
+  Revision 1.24  2014/06/09 19:10:11  revo
+  Damien Brucker: +klr
+
+  Revision 1.23  2014/06/09 18:10:14  revo
+  Damien Brucker: +trd fr
+
+  Revision 1.22  2014/06/04 16:10:36  revo
+  Eko Nur Syah Hidayat: +id
+
   Revision 1.21  2014/03/14 09:10:13  revo
   Damien Brucker: +trd fr
 

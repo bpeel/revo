@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: puf.xml,v 1.20 2012/06/20 04:10:08 revo Exp $">
+  <art mrk="$Id: puf.xml,v 1.21 2014/08/29 08:10:14 revo Exp $">
     <kap>
       <ofc>3</ofc>
       <rad>puf</rad>/o
@@ -37,6 +37,7 @@
         <trd>padding</trd>,
         <trd>wad</trd>
       </trdgrp>
+      <trd lng="fr">pouf<klr> (subst.)</klr></trd>
       <trdgrp lng="hu">
         <trd>buggy</trd>,
         <trd>puff</trd>
@@ -88,6 +89,7 @@
         <trd>stuffed</trd>,
         <trd>padded</trd>
       </trdgrp>
+      <trd lng="fr">pouf<klr> (adj.)</klr></trd>
       <trdgrp lng="nl">
         <trd>pofferig</trd>,
         <trd>opgezwollen</trd>
@@ -168,6 +170,9 @@
   </art>
   <!--
   $Log: puf.xml,v $
+  Revision 1.21  2014/08/29 08:10:14  revo
+  Damien Brucker: +trd fr
+
   Revision 1.20  2012/06/20 04:10:08  revo
   Sergio Pokrovskij: +ekz, adm
 

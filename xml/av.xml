@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: av.xml,v 1.32 2014/02/11 11:10:11 revo Exp $">
+<art mrk="$Id: av.xml,v 1.33 2014/05/31 16:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>av</rad>/o <fnt><bib>PV</bib></fnt>
@@ -42,6 +42,7 @@
     <trd>&samekh;&bet;&alef;</trd>
   </trdgrp>
   <trd lng="hu">nagyapa</trd>
+  <trd lng="id">kakek</trd>
   <trd lng="it">nonno</trd>
   <trdgrp lng="ja">
     <trd>&#31062;&#29238; [<ind>&#12381;&#12405;</ind>]</trd>,
@@ -94,6 +95,7 @@
   <trd lng="fr">grand-m&egrave;re</trd>
   <trd lng="he">&samekh;&bet;&tav;&alef;</trd>
   <trd lng="hu">nagyanya</trd>
+  <trd lng="id">nenek</trd>
   <trd lng="it">nonna</trd>
   <trdgrp lng="ja">
     <trd>&#31062;&#27597; [<ind>&#12381;&#12412;</ind>]</trd>,
@@ -218,6 +220,9 @@
 </art>
 <!--
 $Log: av.xml,v $
+Revision 1.33  2014/05/31 16:10:19  revo
+Eko Nur Syah Hidayat: +id
+
 Revision 1.32  2014/02/11 11:10:11  revo
 Carlos Garcia: trd+ es pra-o pra-ino
 
@@ -237,8 +242,5 @@ Revision 1.27  2009/08/27 16:33:44  revo
 Emmanuel Debanne: +trd tr
 
 Revision 1.26  2008/09/20 16:30:17  revo
-HIROTAKA Masaaki: +trd ja
-
-Revision 1.25  2008/02/01 17:30:22  revo
 -->
 </vortaro>

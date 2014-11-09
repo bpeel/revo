@@ -2,19 +2,21 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tipome.xml,v 1.7 2006/02/15 17:35:04 revo Exp $">
+<art mrk="$Id: tipome.xml,v 1.8 2014/08/28 08:10:25 revo Exp $">
 <kap>
 <rad>tipometr</rad>/o
 </kap>
 <drv mrk="tipome.0o">
 <kap><tld/>o</kap>
-<uzo tip="fak">TIP</uzo>
 <snc>
+<uzo tip="fak">TIP</uzo>
 <dif>
-Liniilo kun skalo por mezuri la tipografiajn punktojn, uzata &ccirc;e la kompostado.  
+Liniilo kun skalo por mezuri la tipografiajn punktojn, uzata &ccirc;e la
+kompostado.  
 </dif>
 </snc>
 <trd lng="de">Typometer</trd>
+<trd lng="fr">typom&egrave;tre</trd>
 <trdgrp lng="hu">
   <trd>bet&udblac;nagys&aacute;g-m&eacute;r&odblac;</trd>,
   <trd>tipom&eacute;ter</trd>
@@ -28,6 +30,9 @@ Liniilo kun skalo por mezuri la tipografiajn punktojn, uzata &ccirc;e la kompost
 </art>
 <!--
 $Log: tipome.xml,v $
+Revision 1.8  2014/08/28 08:10:25  revo
+Damien Brucker: +trd fr
+
 Revision 1.7  2006/02/15 17:35:04  revo
 Tulio Flores: +trd pt
 
@@ -42,4 +47,3 @@ Dennis Wibrow: +trd germ
 
 -->
 </vortaro>
-

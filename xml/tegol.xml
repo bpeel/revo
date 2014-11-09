@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tegol.xml,v 1.13 2009/02/26 17:31:18 revo Exp $">
+<art mrk="$Id: tegol.xml,v 1.14 2014/06/04 10:10:21 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>tegol</rad>/o
@@ -10,6 +10,7 @@
 <drv mrk="tegol.0o">
   <kap><tld/>o</kap>
   <snc>
+  <uzo tip="fak">KON</uzo>
     <dif>
       Diversforma maldika plato el kuirita argilo a&ubreve; cemento, per
       aro da kiuj oni faras
@@ -72,6 +73,7 @@
      <trd>tile</trd>,
      <trd>shingle</trd>
    </trdgrp>
+   <trd lng="fr">tuiler</trd>
 </drv>
 
 <drv mrk="tegol.0isto">
@@ -99,6 +101,7 @@
         <trd>shingler</trd>,
         <trd>roofer</trd>
       </trdgrp>
+      <trd lng="fr">couvreur</trd>
      <trdgrp lng="pl">
        <trd>dekarz</trd>
      </trdgrp>
@@ -108,6 +111,9 @@
 </art>
 <!--
 $Log: tegol.xml,v $
+Revision 1.14  2014/06/04 10:10:21  revo
+Damien Brucker: +trd fr
+
 Revision 1.13  2009/02/26 17:31:18  revo
 Russ Williams: +trd en
 
@@ -127,8 +133,5 @@ Revision 1.8  2002/09/18 16:36:44  revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.7  2002/03/04 17:31:29  revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/05/01 18:06:56 revo
 -->
 </vortaro>

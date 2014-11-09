@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sort.xml,v 1.16 2010/08/04 16:30:29 revo Exp $">
+<art mrk="$Id: sort.xml,v 1.18 2014/07/22 01:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sort</rad>/o <fnt><bib>PV</bib></fnt>
@@ -107,6 +107,87 @@
   </trdgrp>
 </drv>
 
+<drv mrk="sort.bon0o">
+  <kap>bon<tld/>o</kap>
+  <snc mrk="sort.bon0o.KOMUNE">
+    <dif>
+      Feli&ccirc;iga <tld/>o, kiu provizas prosperon:
+      <ekz>
+        pasi sub la nobla Korano portas bon<tld/>on
+        al voja&gcirc;antoj
+        <fnt>
+          <aut>C. Pinardon. R. Sanz</aut>,
+          <vrk>Du Bicikloj je la Horizonto</vrk>,
+          <lok><url
+          ref="http://horizonto.free.fr/rakontoj/12-irano.html">
+          Irano</url>, 2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>chance<klr> (bonheur)</klr></trd>,
+    <trd>fortune<klr> (chance)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sort.bon0ulo">
+  <kap>bon<tld/>ulo</kap>
+  <snc mrk="sort.bon0ulo.KOMUNE">
+    <dif>
+      Tiu, kiun bona sorto trafas:
+      <ekz>
+        bonzi&gcirc;as ne nobeloj, ri&ccirc;uloj kaj bon<tld/>uloj, sed 
+        malbon<tld/>uloj kaj vivmalsukcesintoj
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://www.wonbuddhism.org/doc/2.the.scripture.of.the.founding.master/The.Scripture.of.the.Founding.Master.in.Esperanto.pdf">
+          La Sotesana Instruo</url></vrk>,
+          <lok>[vidita en 2014]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>chanceux<klr> (subst.)</klr></trd> ,
+    <trd>veinard<klr> (subst.)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sort.malbon0o">
+  <kap>malbon<tld/>o</kap>
+  <snc mrk="sort.malbon0o.KOMUNE">
+    <dif>
+      Malfeli&ccirc;iga, malfavora <tld/>o:
+      <ekz>
+        laboremo malbon<tld/>on venkas
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>adversit&eacute;</trd>,
+    <trd>malchance</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sort.malbon0ulo">
+  <kap>malbon<tld/>ulo</kap>
+  <snc mrk="sort.malbon0ulo.KOMUNE">
+    <dif>
+      Tiu, kiun malbona sorto trafas:
+      <ekz>
+        li traktis &ccirc;iam milde kaj bone suferantajn malbon<tld/>ulojn
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">malchanceux<klr> (subst.)</klr></trd>
+</drv>
+
 <drv mrk="sort.sam0ulo">
   <kap>sam<tld/>ulo</kap>
   <snc mrk="sort.sam0ulo.KOMUNE">
@@ -128,6 +209,12 @@
 </art>
 <!--
 $Log: sort.xml,v $
+Revision 1.18  2014/07/22 01:10:14  revo
+Jeromo Vasxe: + bon/malbon~ulo
+
+Revision 1.17  2014/07/07 01:10:18  revo
+Jeromo Vasxe: + bon/malbon~o
+
 Revision 1.16  2010/08/04 16:30:29  revo
 Jeromo Vasxe: + sam~ulo, ~o + trd fr
 
@@ -144,11 +231,5 @@ Revision 1.12  2003/01/20 17:30:55  revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.11  2002/02/14 17:35:42  revo
-Yury Finkel: +trd ru
-
-Revision 1.10 2002/01/21 21:48:26 revo
-fontindiko PrV per programo de Jerome
-
-Revision 1.9 2002/01/04 17:35:11 revo
 -->
 </vortaro>

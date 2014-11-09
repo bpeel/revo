@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: proz.xml,v 1.14 2013/09/14 01:10:14 revo Exp $">
+<art mrk="$Id: proz.xml,v 1.15 2014/06/10 06:11:10 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>proz</rad>/o <fnt><bib>PV</bib></fnt>
@@ -111,10 +111,14 @@
     </dif>
   </snc>
   <trd lng="fr">prosateur</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_z;&c_a;&c_i;&c_k;</trd>
 </drv>
 </art>
 <!--
 $Log: proz.xml,v $
+Revision 1.15  2014/06/10 06:11:10  revo
+Sergio Pokrovskij: +trd=ru
+
 Revision 1.14  2013/09/14 01:10:14  revo
 Jeromo Vasxe: + ~isto
 
@@ -134,8 +138,5 @@ Revision 1.9  2003/03/31 16:31:50  revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.8  2002/01/23 17:33:38  revo
-Jerome Vachey: + ant poezio, + trd fr
-
-Revision 1.7 2001/12/25 17:34:04 revo
 -->
 </vortaro>

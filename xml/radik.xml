@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: radik.xml,v 1.42 2006/02/18 17:31:30 revo Exp $">
+<art mrk="$Id: radik.xml,v 1.45 2014/07/08 07:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>radik</rad>/o
@@ -80,14 +80,22 @@
       Primitiva vorto, de kiu oni derivas aliajn vortojn per
       almetado de aliaj <tld/>oj a&ubreve; afiksoj:
       <ekz>
+      <uzo tip="fak">ESP</uzo>
         nia U.V. enhavas 3 mil <tld/>ojn<fnt>B</fnt>;
       </ekz>
       <ekz>
+      <uzo tip="fak">ESP</uzo>
+      la fina sumo de la Fundamentaj kaj Oficialaj <tld lit="R"/>oj
+      estas do: 2.768 + 2.185 = 4.953<fnt>AdE</fnt><klr> (je la
+      9OA)</klr>;
+      </ekz>
+      <ekz>
+      <uzo tip="fak">ESP</uzo>
         en Esperanto, por formi vortojn kunmetitajn oni prenas
         ordinare la purajn <tld/>ojn, sed, se la bonsoneco a&ubreve; la
         klareco postulas, oni povas anka&ubreve; preni la tutan vorton
         kune kun &gcirc;ia gramatika fina&jcirc;o, ekz-e skribtablo a&ubreve;
-        skribotablo<fnt>Z</fnt>.
+        skribotablo<fnt><bib>F</bib></fnt>.
       </ekz>
     </dif>
     <trdgrp lng="hu">
@@ -112,7 +120,8 @@
       <dif>
         <klr>(de <ref cel="polino.0o">polinomo</ref>)</klr>
         <ref tip="super" cel="nul0.0iganto.de_funkcio">Nuliganto</ref>
-        de la responda <ref cel="funkci.polinoma0o">polinoma funkcio</ref>.
+        de la responda <ref cel="funkci.polinoma0o">polinoma
+        funkcio</ref>.
       </dif>
       <ref tip="vid" cel="obl.0eco">obleco.</ref>
       <trdgrp lng="de">
@@ -189,8 +198,10 @@
     <subsnc mrk="radik.0o.grafeo">
       <fnt><bib>KompLeks</bib></fnt>
       <dif>
-        <klr>(en <ref cel="grafe.orientita0o">orientita grafeo</ref>)</klr>
-        Tia <ref tip="super" cel="vertic.0o.grafeo">vertico</ref>, ke ekzistas
+        <klr>(en <ref cel="grafe.orientita0o">orientita
+        grafeo</ref>)</klr>
+        Tia <ref tip="super" cel="vertic.0o.grafeo">vertico</ref>, ke
+        ekzistas
         <ref cel="voj.0o.grafeo">vojo</ref> &gcirc;in liganta al ajna alia
         vertico de la grafeo.
       </dif>
@@ -318,7 +329,8 @@
       </ekz>
       <ekz>
         <tld/>igo per <frm><k>n</k></frm> estas
-        <ref cel="potenc.0igo">potencigo</ref> per <frm>1/<k>n</k></frm>;
+        <ref cel="potenc.0igo">potencigo</ref> per
+        <frm>1/<k>n</k></frm>;
       </ekz>
       <ekz>
         la <ind><tld/>igato</ind>
@@ -628,6 +640,15 @@
 </art>
 <!--
 $Log: radik.xml,v $
+Revision 1.45  2014/07/08 07:10:17  revo
+Damien Brucker: +fnt
+
+Revision 1.44  2014/06/03 13:10:20  revo
+Damien Brucker: +klr +fak
+
+Revision 1.43  2014/05/12 01:10:15  revo
+Damien Brucker: +ekz
+
 Revision 1.42  2006/02/18 17:31:30  revo
 Tulio Flores: +trd pt
 
@@ -641,15 +662,5 @@ Revision 1.39  2004/09/08 16:31:52  revo
 Marc Bavant: en~i/en~igi: reverkita laux el~i/el~igi
 
 Revision 1.38 2004/09/07 16:31:15 revo
-Sergio Pokrovskij: TEZ
-Revision 1.37 2004/09/06 16:34:52 revo
-Jozefo Horvath: kor. <kap>enradiki >enradikigi
-Revision 1.36 2004/09/01 16:31:37 revo
-Jozefo Horvath: +trd hu, kor. veg > vegatajxo, kor. enradiki > enradikigi
-Revision 1.35 2004/08/29 16:31:50 revo
-Dmitri Gabinski: +trd be
-Revision 1.34 2003/08/26 16:31:57 revo
-Yury Finkel: kor trd ru
 -->
 </vortaro>
-
