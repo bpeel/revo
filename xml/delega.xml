@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: delega.xml,v 1.16 2009/12/15 17:30:29 revo Exp $">
+<art mrk="$Id: delega.xml,v 1.17 2014/11/07 16:10:13 revo Exp $">
 <kap>
 <ofc>3</ofc>
 <rad>delegaci</rad>/o
@@ -25,6 +25,8 @@
     <trd>deleg&aacute;ci&oacute;</trd>
   </trdgrp>
   <trd lng="it">delegazione</trd>
+  <trd lng="nl">delegatie</trd>
+  <trd lng="no">delegasjon</trd>
   <trd lng="pt">delega&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_je;&c_g;&c_a;&c_c;&c_i;&c_ja;</trd>
 </drv>
@@ -63,6 +65,9 @@
 </art>
 <!--
 $Log: delega.xml,v $
+Revision 1.17  2014/11/07 16:10:13  revo
+Filip van Laenen: +trd(nl,no)
+
 Revision 1.16  2009/12/15 17:30:29  revo
 Antonio Codazzi: +trd it
 
@@ -82,8 +87,5 @@ Revision 1.11  2002/10/24 21:17:37  revo
 aktualigo de malnovaj fnt-indikoj enkondukante <bib>
 
 Revision 1.10  2002/05/21 16:37:56  revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.9  2001/04/26 16:15:00  revo
 -->
 </vortaro>
