@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: fasad.xml,v 1.20 2011/06/01 05:10:11 revo Exp $">
+  <art mrk="$Id: fasad.xml,v 1.22 2015/07/04 08:37:34 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>fasad</rad>/o
@@ -92,7 +92,15 @@
         unuanimeco, ks), sed mi ne scias, cxu ili estas internaciaj
         kaj ne trovis ilin. <aut>MB</aut>
       </adm>
-    </drv>
+      <trdgrp lng="sk">
+    <trd>fasáda</trd>,
+    <trd>priečelie</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>fasáda</trd>,
+    <trd>průčelí budovy</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="fasad.grafika0o">
       <kap>grafika <tld/>o</kap>
@@ -136,6 +144,12 @@
   </art>
   <!--
   $Log: fasad.xml,v $
+  Revision 1.22  2015/07/04 08:37:34  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.21  2015/06/29 16:29:38  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.20  2011/06/01 05:10:11  revo
   Sebastian Cyprych: +trd pl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dileta.xml,v 1.16 2011/12/31 10:10:13 revo Exp $">
+<art mrk="$Id: dileta.xml,v 1.18 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>diletant</rad>/o
@@ -23,6 +23,10 @@
     <trd>diletant <klr>(subst.)</klr></trd>,
     <trd>aficionat <klr>(subst.)</klr></trd>,
     <trd>amateur <klr>(subst.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>diletant</trd>,
+    <trd>neodborník</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Nichtfachmann</trd>,
@@ -52,6 +56,7 @@
     <trd>n&atilde;o <ind>profissional</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_d;&c_i;&c_l;&c_je;&c_t;&c_a;&c_n;&c_t;</trd>
+  <trd lng="sk">neodborník</trd>
 </drv>
 
 <drv mrk="dileta.0eco">
@@ -100,6 +105,12 @@
   </trdgrp>
   <trd
   lng="ru">&c_d;&c_i;&c_l;&c_je;&c_t;&c_a;&c_n;&c_t;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">diletantizmus</trd>
+  <trdgrp lng="cs">
+    <trd>diletantství</trd>,
+    <trd>neodbornost</trd>,
+    <trd>povrchnost</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dileta.0ismo">
@@ -143,6 +154,10 @@
     <trd>diletant <klr>(adj.)</klr></trd>,
     <trd>amateur <klr>(adj.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>diletantský</trd>,
+    <trd>neodborný</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>laienhaft</trd>,
     <trd>dilettantisch</trd>,
@@ -168,6 +183,10 @@
     <trd>&c_l;&c_ju;&c_b;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_k;&c_i;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_p;&c_r;&c_o;&c_f;&c_je;&c_s;&c_s;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>neodborný</trd>,
+    <trd>ochotnícky</trd>
+  </trdgrp>
 </drv>
 <adm>
   &Scirc;ajnas al mi, ke &ccirc;iuj deriva&jcirc;oj havas sufi&ccirc;e
@@ -177,6 +196,12 @@
 </art>
 <!--
 $Log: dileta.xml,v $
+Revision 1.18  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2011/12/31 10:10:13  revo
 Marc Rausell: +trd ca
 

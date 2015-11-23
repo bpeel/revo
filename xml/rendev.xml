@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rendev.xml,v 1.18 2012/01/01 23:10:38 revo Exp $">
+<art mrk="$Id: rendev.xml,v 1.20 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>rendevu</rad>/o
@@ -70,6 +70,11 @@
     <trd>cita</trd>,
     <trd>convocaci&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>milostná schůzka</trd>,
+    <trd>přen. schůzka</trd>,
+    <trd>rendez-vous</trd>
+  </trdgrp>
   <trd lng="de">Verabredung</trd>
   <trdgrp lng="en">
     <trd>appointment</trd>,
@@ -98,10 +103,17 @@
     <trd>&c_s;&c_v;&c_i;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_r;&c_a;&c_n;&c_d;&c_je;&c_v;&c_u;</trd>
   </trdgrp>
+  <trd lng="sk">ľúbostná schôdzka</trd>
 </drv>
 </art>
 <!--
 $Log: rendev.xml,v $
+Revision 1.20  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/01/01 23:10:38  revo
 Marc Rausell: +trd ca
 

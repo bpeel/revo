@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: produt.xml,v 1.40 2012/10/23 00:13:29 revo Exp $">
+<art mrk="$Id: produt.xml,v 1.42 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <rad>produt</rad>/o
   <fnt>Z</fnt>
@@ -65,7 +65,12 @@
     <trd lng="de">Produkt</trd>
     <trd lng="pt">produto</trd>
   </snc>
+  <trd lng="cs">součin</trd>
   <trd lng="de">Produkt</trd>
+  <trdgrp lng="sk">
+    <trd>násobok</trd>,
+    <trd>súčin</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="produt.ekstera0o">
@@ -75,6 +80,7 @@
   <snc>
     <ref tip="dif" cel="produt.vektora0o">vektora <tld/>o.</ref>
   </snc>
+  <trd lng="cs">vektorový <klr>(vnější)</klr> součin</trd>
   <trdgrp lng="de">
     <trd>Kreuzprodukt</trd>,
     <trd>Vektorprodukt</trd>,
@@ -85,6 +91,7 @@
     <trd>produto vetorial</trd>,
     <trd>produto externo</trd>
   </trdgrp>
+  <trd lng="sk">vektorový súčin</trd>
 </drv>
 
 <drv mrk="produt.kartezia0o">
@@ -128,6 +135,7 @@
       elektas identigi.
     </rim>
   </snc>
+  <trd lng="cs">kartézský součin</trd>
   <trd lng="de">kartesisches <ind>Produkt</ind></trd>
   <trd lng="en">Cartesian <ind>product</ind></trd>
   <trd lng="es">producto cartesiano</trd>
@@ -142,6 +150,7 @@
     <trd>&c_d;&c_je;&c_k;&c_a;&c_r;&c_t;&c_o;&c_v;&c_o; <ind>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</ind></trd>,
     <trd>&c_p;&c_r;&c_ja;&c_m;&c_o;&c_je; <ind>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</ind></trd>
   </trdgrp>
+  <trd lng="sk">karteziánsky súčin</trd>
 </drv>
 
 <drv mrk="produt.hermita_skalara0o">
@@ -171,17 +180,19 @@
       <tld/>o <sncref ref="produt.hermita_skalara0o.operacio"/>.
     </dif>
   </snc>
+  <trd lng="cs">hermitovský skalární součin <klr>(dvou vektorů)</klr></trd>
+  <trd lng="de">Hermitesches <ind>Skalarprodukt</ind></trd>
   <trd lng="en">Hermitian <klr tip="amb">(scalar)</klr>
   <ind>product</ind></trd>
-  <trd lng="de">Hermitesches <ind>Skalarprodukt</ind></trd>
   <trd lng="fr">produit <klr tip="amb">(scalaire)</klr> hermitien</trd>
-  <trd lng="hu">hermitikus <ind>skal&aacute;rszorzat</ind></trd>  
+  <trd lng="hu">hermitikus <ind>skal&aacute;rszorzat</ind></trd>
   <trdgrp lng="pt">
     <trd>produto escalar hermitiano</trd>,
     <trd>produto hermitiano</trd>
   </trdgrp>
   <trd lng="ru">&c_e;&c_r;&c_m;&c_i;&c_t;&c_o;&c_v;&c_o;-&c_s;&c_k;&c_a;&c_l;&c_ja;&c_r;&c_n;&c_o;&c_je;
   <ind>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">hermitovský skalárny súčin <klr>(dvoch vektorov)</klr></trd>
 </drv>
 
 <drv mrk="produt.interna0o">
@@ -299,16 +310,24 @@
     </dif>
     <trd lng="pt">produto vetorial</trd>
   </snc>
+  <trd lng="cs">vektorový <klr>(vnější)</klr> součin</trd>
   <trd lng="de">vektorielles <ind>Produkt</ind></trd>
   <trd lng="en">vector <ind>product</ind></trd>
   <trd lng="fr">produit vectoriel</trd>
-  <trd lng="hu">vektori&aacute;lis szorzat</trd>  
+  <trd lng="hu">vektori&aacute;lis szorzat</trd>
   <trd lng="pl">iloczyn wektorowy</trd>
   <trd lng="ru">&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;&c_n;&c_o;&c_je; <ind>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">vektorový súčin</trd>
 </drv>
 </art>
 <!--
 $Log: produt.xml,v $
+Revision 1.42  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.41  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.40  2012/10/23 00:13:29  revo
 Neil Roberts: aldonu la etikedon <var>
 

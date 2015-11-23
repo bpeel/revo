@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tritikal.xml,v 1.3 2013/04/21 19:10:12 revo Exp $">
+<art mrk="$Id: tritikal.xml,v 1.6 2015/08/28 16:10:16 revo Exp $">
 <kap>
   <rad>tritikal</rad>/o
 </kap>
@@ -33,19 +33,32 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_t;&c_r;&c_i;&c_t;&c_i;&c_k;&c_a;&c_l;&c_je;</trd>
   <trdgrp lng="ca">
     <trd>blat-s&egrave;gol<klr> (h&iacute;brid)</klr></trd>,
     <trd>triticale</trd>
   </trdgrp>
+  <trd lng="cs">triticale</trd>
   <trd lng="en">triticale</trd>
   <trd lng="fr">triticale</trd>
   <trd lng="it">triticale</trd>
+  <trd lng="nl">triticale</trd>
   <trd lng="pl">pszen&zdot;yto</trd>
+  <trd lng="sk">triticale</trd>
 </drv>
 </art>
 
 <!--
 $Log: tritikal.xml,v $
+Revision 1.6  2015/08/28 16:10:16  revo
+Joop Eggen: +trd bg nl
+
+Revision 1.5  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.3  2013/04/21 19:10:12  revo
 Sebastian Cyprych: +trd pl +ref tritiko,sekalo
 

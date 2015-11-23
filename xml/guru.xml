@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: guru.xml,v 1.9 2012/08/19 09:10:32 revo Exp $">
+<art mrk="$Id: guru.xml,v 1.11 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>guru</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -46,16 +46,24 @@
   </snc>
   <trd lng="bg">&c_g;&c_u;&c_r;&c_u;</trd>
   <trd lng="ca">guru</trd>
+  <trd lng="cs">guru</trd>
   <trd lng="de">Guru</trd>
   <trd lng="en">guru</trd>
-  <trd lng="es">gur&uacute;</trd> 
+  <trd lng="es">gur&uacute;</trd>
   <trd lng="fr">gourou</trd>
   <trd lng="pt">guru</trd>
+  <trd lng="sk">guru</trd>
 </drv>
 </art>
 
 <!--
 $Log: guru.xml,v $
+Revision 1.11  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2012/08/19 09:10:32  revo
 Marc Rausell: + trd ca
 

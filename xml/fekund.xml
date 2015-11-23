@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fekund.xml,v 1.15 2012/08/19 00:10:27 revo Exp $">
+<art mrk="$Id: fekund.xml,v 1.18 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <rad>fekund</rad>/a <fnt><bib>PV</bib></fnt>
 </kap>
@@ -40,6 +40,11 @@
     <trd>&c_u;&c_r;&c_a;&c_d;&c_l;&c_ib;&c_v;&c_y;</trd>,
     <trd>&c_p;&c_l;&c_a;&c_d;&c_a;&c_v;&c_ib;&c_t;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>plodný</trd>,
+    <trd>úrodný</trd>
+  </trdgrp>
+  <trd lng="en">fertile</trd>
   <trdgrp lng="es">
     <trd>f&eacute;rtil</trd>,
     <trd>fecunda</trd>
@@ -50,7 +55,6 @@
     <trd>productif<klr tip="ind"> (fertile)</klr></trd>,
     <trd>riche<klr tip="ind"> (f&eacute;cond)</klr></trd>
   </trdgrp>
-  <trd lng="en">fertile</trd>
   <trd lng="hu">term&eacute;keny</trd>
   <trd lng="nl">vruchtbaar</trd>
   <trdgrp lng="pt">
@@ -60,6 +64,11 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_l;&c_o;&c_d;&c_o;&c_r;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_l;&c_o;&c_d;&c_o;&c_v;&c_i;&c_t;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>plodný</trd>,
+    <trd>úrodný</trd>,
+    <trd>žírny</trd>
   </trdgrp>
 </drv>
 
@@ -81,10 +90,36 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>plodnost</trd>,
+    <trd>úrodnost</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>f&eacute;condit&eacute;</trd>,
     <trd>fertilit&eacute;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>plodnosť</trd>,
+    <trd>úrodnosť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fekund.0igajxo">
+  <kap><tld/>iga&jcirc;o</kap>
+  <snc mrk="fekund.0igajxo.AGR">
+    <ref tip="dif" cel="sterk.0o.AGR">sterko</ref>
+      <ekz>
+        produktoj sen kemiaj <tld/>iga&jcirc;oj
+        <fnt>
+          <aut>M. Gutierres Gonz&aacute;lez</aut>,
+          <vrk><url
+          ref="http://www.radiohc.cu/eo/noticias/ambiente/20010-rearbarigo-por-la-vivo">
+          Rearbarigo por la vivo </url></vrk>,
+          <lok>[2014-04-10]</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trd lng="fr">engrais</trd>
 </drv>
 
 <drv mrk="fekund.0igi">
@@ -101,6 +136,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>oplodnit</trd>,
+    <trd>zúrodňovat</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>f&eacute;conder</trd>,
     <trd>fertiliser</trd>
@@ -110,6 +149,10 @@
     <trd>term&eacute;kenny&eacute; tesz</trd>
   </trdgrp>
   <trd lng="nl">vruchtbaar maken</trd>
+  <trdgrp lng="sk">
+    <trd>oplodniť</trd>,
+    <trd>zúrodňovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fekund.mal0a">
@@ -130,15 +173,29 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>neplodný</trd>,
+    <trd>neúrodný</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>inf&eacute;cond</trd>,
     <trd>infertile</trd>,
     <trd>st&eacute;rile</trd>
   </trdgrp>
+  <trd lng="sk">neúrodný</trd>
 </drv>
 </art>
 <!--
 $Log: fekund.xml,v $
+Revision 1.18  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2015/04/20 23:10:12  revo
+Jeromo Vasxe: + ~igajxo
+
 Revision 1.15  2012/08/19 00:10:27  revo
 Jeromo Vasxe: + ~eco, memstar ~igi, + mal~a
 
@@ -158,8 +215,5 @@ Revision 1.10  2002/11/24 17:32:35  revo
 Helio Jaques: +trd pt
 
 Revision 1.9  2002/06/25 19:42:33  revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.8  2001/10/03 18:17:31  revo
 -->
 </vortaro>

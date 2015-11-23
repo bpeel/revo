@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gard.xml,v 1.29 2014/08/28 12:10:10 revo Exp $">
+<art mrk="$Id: gard.xml,v 1.31 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>gard</rad>/i <fnt><bib>PV</bib></fnt>
@@ -210,6 +210,12 @@ agon)</klr>;
     <trd lng="nl">bewaren</trd>
     <trd lng="pt">manter</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hlídat</trd>,
+    <trd>ochraňovat</trd>,
+    <trd>opatrovat</trd>,
+    <trd>střežit</trd>
+  </trdgrp>
   <trd lng="en">guard</trd>
   <trd lng="es">guardar</trd>
   <trd lng="fr">garder</trd>
@@ -221,6 +227,7 @@ agon)</klr>;
     <trd>&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_b;&c_je;&c_r;&c_je;&c_ch;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">strážiť</trd>
   <trd lng="tp">awen</trd>
   <trdgrp lng="tr">
     <trd>g&ouml;zetlemek</trd>,
@@ -259,6 +266,7 @@ agon)</klr>;
     <trd lng="hu">&oacute;vatosan</trd>
     <trd lng="ru">&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_o;</trd>
   </snc>
+  <trd lng="cs">garde <klr>(v šachu)</klr></trd>
   <trdgrp lng="de">
     <trd>wachsam</trd>,
     <trd>vorsichtig</trd>
@@ -276,6 +284,7 @@ agon)</klr>;
     <trd>voorzichtig</trd>
   </trdgrp>
   <trd lng="pt">de <ind>guarda</ind><klr tip="ind"> (adv.)</klr></trd>
+  <trd lng="sk">garde <klr>(v šachu)</klr></trd>
 </drv>
 
 <drv mrk="gard.0o">
@@ -313,6 +322,11 @@ grandanombra <tld/>o
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>držení stráže</trd>,
+    <trd>hlídání</trd>,
+    <trd>strážení</trd>
+  </trdgrp>
   <trd lng="de">Wache</trd>
   <trd lng="es">custodia</trd>
   <trd lng="fr">garde</trd>
@@ -323,6 +337,10 @@ guardar)</klr></trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_h;&c_r;&c_a;&c_n;&c_a;</trd>,
     <trd>&c_k;&c_a;&c_r;&c_a;&c_u;&c_l;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>držanie stráže</trd>,
+    <trd>stráženie</trd>
   </trdgrp>
   <trd lng="tr">n&ouml;bet&ccedil;i</trd>
 </drv>
@@ -342,6 +360,11 @@ konservi kaj protekti:
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>držení stráže</trd>,
+    <trd>hlídání</trd>,
+    <trd>strážení</trd>
+  </trdgrp>
   <trd lng="de">Schutz</trd>
   <trd lng="es">guardia<klr tip="amb"> (acci&oacute;n de guardar)</klr></trd>
   <trd lng="fr">garde</trd>
@@ -353,6 +376,10 @@ konservi kaj protekti:
   <trd lng="pt">guarda<klr tip="amb"> (a&ccedil;&atilde;o de 
 guardar)</klr></trd>
   <trd lng="ru">&c_o;&c_h;&c_r;&c_a;&c_n;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>držanie stráže</trd>,
+    <trd>stráženie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gard.0isto">
@@ -377,6 +404,12 @@ demandoj
     </dif>
   </snc>
   <trd lng="bg">&c_o;&c_h;&c_r;&c_a;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>gardista</trd>,
+    <trd>hlídač</trd>,
+    <trd>strážce</trd>,
+    <trd>strážný</trd>
+  </trdgrp>
   <trd lng="de">Wache</trd>
   <trdgrp lng="es">
     <trd>guardia<klr tip="amb"> (guardi&aacute;n, subst.)</klr></trd>,
@@ -397,6 +430,10 @@ demandoj
     <trd>&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;</trd>,
     <trd>&c_o;&c_h;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>strážca</trd>,
+    <trd>strážnik</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gard.0istejo">
@@ -415,6 +452,7 @@ ripoze inter
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">strážnice</trd>
   <trd lng="de">Wachhaus</trd>
   <trdgrp lng="es">
     <trd>caseta de guardia</trd>,
@@ -429,6 +467,7 @@ ripoze inter
 &c_p;&c_o;&c_m;&c_je;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_k;&c_a;&c_r;&c_a;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_ja;</trd>
   </trdgrp>
+  <trd lng="sk">strážnica</trd>
 </drv>
 
 <drv mrk="gard.0estari">
@@ -445,6 +484,7 @@ starante
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">stát na stráži</trd>
   <trd lng="es">hacer la guardia</trd>
   <trd lng="fr">monter la garde</trd>
   <trdgrp lng="hu">
@@ -455,7 +495,8 @@ starante
   <trd lng="pt">montar <ind>guarda</ind></trd>
   <trd lng="ru">&c_n;&c_je;&c_s;&c_t;&c_i; 
 <ind>&c_k;&c_a;&c_r;&c_a;&c_u;&c_l;</ind></trd>
-<trd lng="tr">n&ouml;bet tutmak</trd>
+  <trd lng="sk">stáť na stráži</trd>
+  <trd lng="tr">n&ouml;bet tutmak</trd>
 </drv>
 
 <drv mrk="gard.0ostaranto">
@@ -473,6 +514,12 @@ tage kaj nokte apud
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>gardista</trd>,
+    <trd>hlídač</trd>,
+    <trd>strážce</trd>,
+    <trd>strážný</trd>
+  </trdgrp>
   <trd lng="de">Wache</trd>
   <trd lng="es">sentinela</trd>
   <trd lng="fr">sentinelle</trd>
@@ -480,6 +527,10 @@ tage kaj nokte apud
   <trd lng="nl">wachter</trd>
   <trd lng="pt">sentinela</trd>
   <trd lng="ru">&c_k;&c_a;&c_r;&c_a;&c_u;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>strážca</trd>,
+    <trd>strážnik</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gard.antaux0a">
@@ -621,13 +672,15 @@ apero:
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">hlídač úrody na polích</trd>
   <trd lng="es">guarda de campo</trd>
   <trd lng="fr">garde-champ&ecirc;tre</trd>
-  <trd lng="nl">veldwachter</trd>
   <trdgrp lng="hu">
     <trd>mez&odblac;&odblac;r</trd>,
     <trd>cs&odblac;sz</trd>
   </trdgrp>
+  <trd lng="nl">veldwachter</trd>
+  <trd lng="sk">strážca úrody na poliach</trd>
 </drv>
 
 <drv mrk="gard.korpo0isto">
@@ -644,14 +697,19 @@ en la mano
     </dif>
   </snc>
   <trd lng="bg">&c_l;&c_i;&c_ch;&c_n;&c_a; &c_o;&c_h;&c_r;&c_a;&c_n;&c_a;</trd>
-  <trd lng="en">bodyguard</trd>
+  <trdgrp lng="cs">
+    <trd>osobní strážce</trd>,
+    <trd>tělesný strážce</trd>
+  </trdgrp>
   <trd lng="de">Leibw&auml;chter</trd>
+  <trd lng="en">bodyguard</trd>
   <trd lng="es">guardaespaldas</trd>
   <trd lng="fr">garde du corps</trd>
   <trd lng="hu">test&odblac;r</trd>
   <trd lng="pt">guarda-costas</trd>
   <trd 
 lng="ru">&c_t;&c_je;&c_l;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">telesný strážca</trd>
 </drv>
 
 <drv mrk="gard.nokto0isto">
@@ -666,8 +724,10 @@ lng="ru">&c_t;&c_je;&c_l;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">noční hlídač</trd>
   <trd lng="es">vigilante nocturno</trd>
   <trd lng="fr">gardien de nuit</trd>
+  <trd lng="sk">nočný strážnik</trd>
 </drv>
 
 <drv mrk="gard.sin0a">
@@ -695,6 +755,11 @@ lng="ru">&c_t;&c_je;&c_l;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bdělý</trd>,
+    <trd>opatrný</trd>,
+    <trd>ostražitý</trd>
+  </trdgrp>
   <trd lng="de">vorsichtig</trd>
   <trd lng="es">prudente</trd>
   <trd lng="fr">prudent</trd>
@@ -707,6 +772,11 @@ lng="ru">&c_t;&c_je;&c_l;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</
     <trd>waakzaam</trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>obozretný</trd>,
+    <trd>opatrný</trd>,
+    <trd>ostražitý</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gard.sin0o">
@@ -725,6 +795,7 @@ lng="ru">&c_t;&c_je;&c_l;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">ostraha</trd>
   <trdgrp lng="de">
     <trd>Vorsicht</trd>,
     <trd>Wachsamkeit</trd>
@@ -741,6 +812,7 @@ lng="ru">&c_t;&c_je;&c_l;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</
   </trdgrp>
   <trd 
 lng="ru">&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">ostraha</trd>
 </drv>
 
 <drv mrk="gard.sin0eco">
@@ -768,6 +840,14 @@ alveturi en &ccirc;iu
   </trdgrp>
   <trd 
 lng="ru">&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>opatrnosť</trd>,
+    <trd>ostražitosť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>opatrnost <klr>(vlastnost)</klr></trd>,
+    <trd>ostražitost</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gard.sin0ema">
@@ -781,6 +861,11 @@ lng="ru">&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bdělý</trd>,
+    <trd>opatrný</trd>,
+    <trd>ostražitý</trd>
+  </trdgrp>
   <trd lng="es">prudente</trd>
   <trdgrp lng="fr">
     <trd>avis&eacute;</trd>,
@@ -788,6 +873,10 @@ lng="ru">&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="pt">prudente<klr tip="ind"> (adj.)</klr></trd>
   <trd lng="ru">&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>bdelý</trd>,
+    <trd>opatrný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gard.sen0ulo">
@@ -814,6 +903,12 @@ tip="amb"> (&c_s;&c_u;&c_shch;.)</klr></trd>
 </art>
 <!--
 $Log: gard.xml,v $
+Revision 1.31  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.29  2014/08/28 12:10:10  revo
 Guillermo Molleda Jimena: trd es
 

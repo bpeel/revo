@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: paser.xml,v 1.26 2013/09/04 08:10:09 revo Exp $">
+<art mrk="$Id: paser.xml,v 1.28 2015/06/29 16:40:17 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>paser</rad>/o
@@ -65,12 +65,13 @@
   </trdgrp>
   <trd lng="en">sparrow</trd>
   <trd lng="es">gorri&oacute;n</trd>
-  <trd lng="fr">passereaux</trd>
+  <trd lng="fr">passereau</trd>
   <trd lng="hu">ver&eacute;b</trd>
   <trd lng="nl">mus</trd>
   <trd lng="pl">wr&oacute;bel</trd>
   <trd lng="ru">&c_v;&c_o;&c_r;&c_o;&c_b;&c_je;&c_j;</trd>
   <trd lng="sv">sparv</trd>
+  <trd lng="sk">vrabec</trd>
 </drv>
 
 <drv mrk="paser.0oformaj">
@@ -102,6 +103,12 @@
 </art>
 <!--
 $Log: paser.xml,v $
+Revision 1.28  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/02/21 23:10:15  revo
+Alain Gerard: eraro en trd
+
 Revision 1.26  2013/09/04 08:10:09  revo
 Wolfram Diestel: fonto PrV
 
@@ -121,8 +128,5 @@ Revision 1.21  2011/12/02 17:10:09  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.20  2010/01/15 17:30:22  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.19  2006/02/25 17:32:42  revo
 -->
 </vortaro>

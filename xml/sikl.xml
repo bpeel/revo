@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sikl.xml,v 1.5 2013/10/03 08:10:44 revo Exp $">
+  <art mrk="$Id: sikl.xml,v 1.7 2015/07/04 08:37:43 revo Exp $">
     <kap>
       <rad>sikl</rad>/o <fnt><bib>SPV</bib></fnt>
     </kap>
@@ -36,14 +36,25 @@ Utilaj informoj pri Israelo...</url></lok>
           </fnt>.
         </ekz>
       </snc>
-      <trd lng="fr">sicle</trd>
-      <trd lng="it">siclo</trd>
-      <trd lng="ru">&c_s;&c_i;&c_k;&c_l;</trd>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>sekel</trd>,
+    <trd>šekel</trd>
+  </trdgrp>
+  <trd lng="fr">sicle</trd>
+  <trd lng="it">siclo</trd>
+  <trd lng="ru">&c_s;&c_i;&c_k;&c_l;</trd>
+  <trd lng="sk">šekel</trd>
+</drv>
   </art>
 
   <!--
   $Log: sikl.xml,v $
+  Revision 1.7  2015/07/04 08:37:43  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.6  2015/06/29 16:33:23  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.5  2013/10/03 08:10:44  revo
   Wolfram Diestel: precizigis klason al voko:kvantoj
 

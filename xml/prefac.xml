@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prefac.xml,v 1.9 2006/03/18 17:31:44 revo Exp $">
+<art mrk="$Id: prefac.xml,v 1.11 2015/07/04 08:37:41 revo Exp $">
 <kap><rad>prefac</rad>/o <fnt><bib>PIV1</bib></fnt></kap>
 <drv mrk="prefac.0o">
   <kap><tld/>o</kap>
@@ -16,6 +16,7 @@
     </ekz>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_d;&c_m;&c_o;&c_v;&c_a;</trd>
+  <trd lng="cs">úvod</trd>
   <trdgrp lng="de">
     <trd>Vorwort</trd>,
     <trd>Vorrede</trd>,
@@ -30,6 +31,7 @@
     <trd>pr&eacute;face</trd>
   </trdgrp>
   <trd lng="hu">el&odblac;sz&oacute;</trd>
+  <trd lng="it">prefazione</trd>
   <trdgrp lng="nl">
     <trd>voorwoord</trd>,
     <trd>voorrede</trd>,
@@ -37,11 +39,17 @@
     <trd>inleiding</trd>
   </trdgrp>
   <trd lng="pt">pref&aacute;cio</trd>
-  <trd lng="it">prefazione</trd>
+  <trd lng="sk">úvod</trd>
 </drv>
 </art>
 <!--
 $Log: prefac.xml,v $
+Revision 1.11  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2006/03/18 17:31:44  revo
 Tulio Flores: +tr pt
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skist.xml,v 1.13 2012/10/23 00:13:44 revo Exp $">
+<art mrk="$Id: skist.xml,v 1.15 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>skist</rad>/o<fnt><bib>PV</bib></fnt>
 </kap>
@@ -19,15 +19,20 @@
     <trd>&c_l;&c_u;&c_p;&c_n;&c_ja;&c_k;</trd>
   </trdgrp>
   <trd lng="ca">esquist</trd>
+  <trd lng="cs">krystalická břidlice</trd>
   <trd lng="de">Schiefer</trd>
   <trd lng="en">schist</trd>
   <trd lng="es">esquisto</trd>
   <trd lng="fr">schiste</trd>
-  <trd lng="hu">pala</trd>  
+  <trd lng="hu">pala</trd>
   <trd lng="nl">schilfersteen</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_l;&c_a;&c_n;&c_je;&c_c;</trd>,
     <trd>&c_sh;&c_i;&c_f;&c_je;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vrstevnatá</trd>,
+    <trd>štiepna hornina</trd>
   </trdgrp>
 </drv>
 
@@ -62,6 +67,12 @@
 </art>
 <!--
 $Log: skist.xml,v $
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2012/10/23 00:13:44  revo
 Neil Roberts: aldonu la etikedon <var>
 

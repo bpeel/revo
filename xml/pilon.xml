@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pilon.xml,v 1.11 2011/12/06 15:10:19 revo Exp $">
+<art mrk="$Id: pilon.xml,v 1.13 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>pilon</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -76,6 +76,10 @@
     </subsnc>
   </snc>
   <trd lng="be">&c_p;&c_ib;&c_l;&c_o;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>el. stožár</trd>,
+    <trd>portál chrámu</trd>
+  </trdgrp>
   <trd lng="de">Pylon</trd>
   <trd lng="fr">pylone</trd>
   <trd lng="hu">pilon</trd>
@@ -86,10 +90,20 @@
     <trd>pilone</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_i;&c_l;&c_o;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>pylón</trd>,
+    <trd>stĺpový portál</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: pilon.xml,v $
+Revision 1.13  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2011/12/06 15:10:19  revo
 Marc Rausell: kataluna traduko
 

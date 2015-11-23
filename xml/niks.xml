@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: niks.xml,v 1.7 2008/06/16 16:53:43 revo Exp $">
+<art mrk="$Id: niks.xml,v 1.9 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <rad>niks</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -23,12 +23,16 @@
       <ref cel="siren.0o.MIT">sireno <sncref/></ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>vodník</trd>,
+    <trd>zelený mužík</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Nixe</trd>,
     <trd>Meerjungfrau</trd>
   </trdgrp>
   <trd lng="fr">nixe</trd>
-  <trd lng="hu">v&iacute;zit&uuml;nd&eacute;r</trd>  
+  <trd lng="hu">v&iacute;zit&uuml;nd&eacute;r</trd>
   <trdgrp lng="nl">
     <trd>nix</trd>,
     <trd>nixe</trd>
@@ -42,12 +46,19 @@
     <trd>nix</trd>,
     <trd>nixie</trd>    
   </trdgrp>
+  <trd lng="sk">vodník</trd>
   <trd lng="sv">sj&ouml;jungfru</trd>
 </drv>
 </art>
 
 <!--
 $Log: niks.xml,v $
+Revision 1.9  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.7  2008/06/16 16:53:43  revo
 Sebastian Cyprych: +trd pl
 

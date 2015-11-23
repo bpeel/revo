@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: venus.xml,v 1.18 2014/06/09 16:10:48 revo Exp $">
+  <art mrk="$Id: venus.xml,v 1.21 2015/07/04 08:37:45 revo Exp $">
     <kap>
       <rad>Venus</rad>/o <fnt><bib>PIV1</bib></fnt>
     </kap>
@@ -28,22 +28,29 @@
         <trd lng="zh">&#37329;&#26143;<klr>
         [j&#299;nx&#299;ng]</klr></trd>
       </snc>
-      <trd lng="be">&c_V;&c_e;&c_n;&c_e;&c_r;&c_a;</trd>
-      <trd lng="bg">&c_V;&c_je;&c_n;&c_je;&c_r;&c_a;</trd>
-      <trd lng="ca">Venus</trd>
-      <trd lng="de">Venus</trd>
-      <trd lng="el">&Alfa;&phi;&rho;&omikron;&delta;&jota_ton;&tau;&eta;
+  <trd lng="be">&c_V;&c_e;&c_n;&c_e;&c_r;&c_a;</trd>
+  <trd lng="bg">&c_V;&c_je;&c_n;&c_je;&c_r;&c_a;</trd>
+  <trd lng="ca">Venus</trd>
+  <trdgrp lng="cs">
+    <trd>Venuše</trd>,
+    <trd>večernice</trd>
+  </trdgrp>
+  <trd lng="de">Venus</trd>
+  <trd lng="el">&Alfa;&phi;&rho;&omikron;&delta;&jota_ton;&tau;&eta;
       </trd>
-      <trd lng="en">Venus</trd>
-      <trd lng="es">Venus</trd>
-      <trd lng="fr">V&eacute;nus</trd>
-      <trd lng="id">Venus</trd>
-      <trd lng="it">Venere</trd>
-      <trd lng="la">Venus</trd>
-      <trd lng="pl">Wenus</trd>
-      <trd lng="pt">V&ecirc;nus</trd>
-      <trd lng="ru">&c_V;&c_je;&c_n;&c_je;&c_r;&c_a;</trd>
-    </drv>
+  <trd lng="en">Venus</trd>
+  <trd lng="es">Venus</trd>
+  <trd lng="fr">V&eacute;nus</trd>
+  <trd lng="id">Venus</trd>
+  <trd lng="it">Venere</trd>
+  <trd lng="la">Venus</trd>
+  <trd lng="nl">Venus</trd>
+  <trd lng="no">Venus</trd>
+  <trd lng="pl">Wenus</trd>
+  <trd lng="pt">V&ecirc;nus</trd>
+  <trd lng="ru">&c_V;&c_je;&c_n;&c_je;&c_r;&c_a;</trd>
+  <trd lng="sk">Venuša</trd>
+</drv>
 
     <drv mrk="venus.0a">
       <kap><tld/>a</kap>
@@ -75,6 +82,15 @@
   </art>
   <!--
   $Log: venus.xml,v $
+  Revision 1.21  2015/07/04 08:37:45  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.20  2015/06/28 12:03:50  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.19  2014/12/28 15:10:30  revo
+  Filip van Laenen: +trd(nl,no)
+
   Revision 1.18  2014/06/09 16:10:48  revo
   Eko Nur Syah Hidayat: +id
 

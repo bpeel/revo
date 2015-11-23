@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kolokv.xml,v 1.11 2011/12/05 17:10:15 revo Exp $">
+  <art mrk="$Id: kolokv.xml,v 1.13 2015/07/04 08:37:37 revo Exp $">
     <kap>
       <rad>kolokv</rad>/o <fnt><bib>PIV1</bib></fnt>
     </kap>
@@ -48,10 +48,24 @@
       <trd lng="nl">colloquium</trd>
       <trd lng="pt">col&oacute;quio</trd>
       <trd lng="ru">&c_s;&c_i;&c_m;&c_p;&c_o;&c_z;&c_i;&c_u;&c_m;</trd>
-    </drv>
+      <trdgrp lng="sk">
+    <trd>kolokvium</trd>,
+    <trd>rozhovor</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kolokvium</trd>,
+    <trd>rozmluva</trd>
+  </trdgrp>
+</drv>
   </art>
   <!--
   $Log: kolokv.xml,v $
+  Revision 1.13  2015/07/04 08:37:37  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.12  2015/06/29 16:33:17  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.11  2011/12/05 17:10:15  revo
   Marc Rausell: kataluna traduko
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: en1.xml,v 1.7 2014/10/26 15:10:42 revo Exp $">
+<art mrk="$Id: en1.xml,v 1.9 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <rad>en</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,16 +27,24 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">yen</trd>
   <trd lng="en">yen</trd>
   <trd lng="fr">yen</trd>
   <trd lng="id">yen</trd>
   <trd lng="pl">jen</trd>
   <trd lng="pt">iene</trd>
+  <trd lng="sk">vnútro</trd>
 </drv>
 </art>
 
 <!--
 $Log: en1.xml,v $
+Revision 1.9  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.7  2014/10/26 15:10:42  revo
 Eko Nur Syah Hidayat: +trd id
 

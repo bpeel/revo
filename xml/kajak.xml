@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kajak.xml,v 1.13 2014/06/07 16:10:21 revo Exp $">
+<art mrk="$Id: kajak.xml,v 1.16 2015/10/06 18:10:16 revo Exp $">
 <kap>
    <rad>kajak</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -35,20 +35,23 @@
      </dif>
      <ref cel="kanu.0o.SHI">kanuo</ref>
    </snc>
-   <trd lng="de">Kajak</trd>
-   <trd lng="es">kayak</trd>
-   <trd lng="fi">kajakki</trd>
-   <trd lng="fr">kayak</trd>
-   <trd lng="hu">kajak</trd>
-   <trd lng="id">kayak</trd>
-   <trd lng="nl">kajak</trd>
-   <trd lng="pl">kajak</trd>
-   <trd lng="pt">caiaque</trd>
-   <trdgrp lng="ru">
+  <trd lng="cs">kajak</trd>
+  <trd lng="de">Kajak</trd>
+  <trd lng="en">kayak</trd>
+  <trd lng="es">kayak</trd>
+  <trd lng="fi">kajakki</trd>
+  <trd lng="fr">kayak</trd>
+  <trd lng="hu">kajak</trd>
+  <trd lng="id">kayak</trd>
+  <trd lng="nl">kajak</trd>
+  <trd lng="pl">kajak</trd>
+  <trd lng="pt">caiaque</trd>
+  <trdgrp lng="ru">
      <trd>&c_k;&c_a;&c_ja;&c_k;</trd>,
      <trd>&c_b;&c_a;&c_j;&c_d;&c_a;&c_r;&c_k;&c_a;</trd>
    </trdgrp>
-   <trd lng="tr">kayak</trd>
+  <trd lng="sk">kajak</trd>
+  <trd lng="tr">kayak</trd>
 </drv>
 
 <drv mrk="kajak.0i">
@@ -68,6 +71,7 @@
      </dif>
    </snc>
    <trd lng="de">Kajak fahren</trd>
+   <trd lng="en">to kayak</trd>
    <trd lng="es">remar en kayak</trd>
    <trd lng="fi">kulkea <ind>kajakilla</ind></trd>
    <trd lng="fr">faire du <ind>kayak</ind></trd>
@@ -80,6 +84,15 @@
 
 <!--
 $Log: kajak.xml,v $
+Revision 1.16  2015/10/06 18:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.15  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2014/06/07 16:10:21  revo
 Eko Nur Syah Hidayat: +id
 
@@ -93,14 +106,5 @@ Revision 1.10  2009/08/25 16:32:15  revo
 Emmanuel Debanne: +trd tr
 
 Revision 1.9  2009/08/23 16:32:16  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.8  2008/06/11 16:48:23  revo
-Sebastian Cyprych: +ref al pagajo +trd pl
-
-Revision 1.7  2007/07/11 16:31:19  revo
-Harri Laine: +trd fi
-
-Revision 1.6  2007/05/30 16:31:08  revo
 -->
 </vortaro>

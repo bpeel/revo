@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: perd.xml,v 1.22 2012/01/01 13:10:11 revo Exp $">
+<art mrk="$Id: perd.xml,v 1.24 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>perd</rad>/i
@@ -159,10 +159,17 @@
     <trd>&c_g;&c_u;&c_b;&c_l;&c_ja;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_g;&c_u;&c_b;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_s;&c_t;&c_r;&c_a;&c_c;&c_ib;&c_c;&c_mol;</trd>
-  </trdgrp>                  
+  </trdgrp>
   <trd lng="br">koll</trd>
   <trd lng="ca">perdre</trd>
-  <trd lng="cs">ztratit</trd>
+  <trdgrp lng="cs">
+    <trd>mařit</trd>,
+    <trd>pozbýt</trd>,
+    <trd>prohrát</trd>,
+    <trd>tratit</trd>,
+    <trd>ztratit</trd>,
+    <trd>ztrácet</trd>
+  </trdgrp>
   <trd lng="de">verlieren</trd>
   <trd lng="en">lose</trd>
   <trd lng="es">perder</trd>
@@ -173,6 +180,11 @@
     <trd>&c_t;&c_je;&c_r;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_t;&c_je;&c_r;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_t;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prehrať</trd>,
+    <trd>stratiť</trd>,
+    <trd>tratiť</trd>
   </trdgrp>
 </drv>
 
@@ -239,7 +251,7 @@
         <fnt><bib>NT</bib>, <lok>&Luk; 15:13</lok></fnt>.
       </ekz>
     </dif>
-  </snc>                
+  </snc>
   <trdgrp lng="br">
     <trd>foeta&ntilde;<klr tip="ind"> (forana&ntilde;)</klr></trd>,
     <trd>forana&ntilde;</trd>
@@ -248,9 +260,11 @@
     <trd>dissipar</trd>,
     <trd>balafiar</trd>
   </trdgrp>
+  <trd lng="cs">poztrácet</trd>
   <trd lng="fr">dissiper</trd>
   <trd lng="nl">verbrassen</trd>
   <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_je;&c_r;&c_ja;&c_t;&c_mol;</trd>
+  <trd lng="sk">postrácať</trd>
 </drv>
 
 <drv mrk="perd.for0igxi">
@@ -294,6 +308,12 @@
 </art>
 <!--
 $Log: perd.xml,v $
+Revision 1.24  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2012/01/01 13:10:11  revo
 Marc Rausell: +trd ca
 

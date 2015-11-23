@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: etilen.xml,v 1.13 2013/11/08 19:10:23 revo Exp $">
+<art mrk="$Id: etilen.xml,v 1.15 2015/07/04 08:37:33 revo Exp $">
 <kap>
 <rad>etilen</rad>/o
 </kap>
@@ -15,7 +15,8 @@ C<sub>2</sub>H<sub>4</sub>. Senkolora gaso, kiun oni ricevas per
 distilado de la karbo.
 </dif>
 </snc>
-<trd lng="be">&c_e;&c_t;&c_y;&c_l;&c_je;&c_n;</trd>
+  <trd lng="be">&c_e;&c_t;&c_y;&c_l;&c_je;&c_n;</trd>
+  <trd lng="cs">etylen</trd>
   <trdgrp lng="de">
      <trd>&Auml;thylen</trd>,
      <trd>&Auml;then</trd>
@@ -31,10 +32,17 @@ distilado de la karbo.
   <trd lng="pl">etylen</trd>
   <trd lng="pt">etileno</trd>
   <trd lng="ru">&c_e;&c_t;&c_i;&c_l;&c_je;&c_n;</trd>
+  <trd lng="sk">etylén</trd>
 </drv>
 </art>
 <!--
 $Log: etilen.xml,v $
+Revision 1.15  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2013/11/08 19:10:23  revo
 Russ Williams: +trd en
 

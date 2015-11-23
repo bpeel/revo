@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: forum.xml,v 1.16 2007/06/05 16:31:24 revo Exp $">
+<art mrk="$Id: forum.xml,v 1.18 2015/07/04 08:37:34 revo Exp $">
 <kap>
 <ofc>2</ofc>
 <rad>forum</rad>/o
@@ -75,21 +75,29 @@
   </trdgrp>
   </snc>
   <trd lng="be">&c_f;&c_o;&c_r;&c_u;&c_m;</trd>
+  <trd lng="cs">fórum</trd>
   <trd lng="de">Forum</trd>
   <trd lng="es">foro</trd>
   <trdgrp lng="fr">
     <trd>forum</trd>,
     <trd>groupe de discussion<klr tip="ind"> (Internet)</klr></trd>,
     <trd>lieu de d&eacute;bat</trd>,
-    <trd>tribunal<klr tip="ind"> (jugement de l'opinion)</klr></trd></trdgrp> 
+    <trd>tribunal<klr tip="ind"> (jugement de l'opinion)</klr></trd></trdgrp>
   <trdgrp lng="hu">
     <trd>f&oacute;rum</trd>,
     <trd>vitaf&oacute;rum<klr tip="ind"> (Internet)</klr></trd>
   </trdgrp>
+  <trd lng="sk">fórum</trd>
 </drv>
 </art>
 <!--
 $Log: forum.xml,v $
+Revision 1.18  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2007/06/05 16:31:24  revo
 Tulio Flores: +tr pt
 

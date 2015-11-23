@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: asign.xml,v 1.17 2014/08/10 09:10:11 revo Exp $">
+<art mrk="$Id: asign.xml,v 1.20 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>asign</rad>/i <fnt><bib>PV</bib></fnt>
@@ -90,6 +90,11 @@
     <trd lng="pl">wzywa&cacute;</trd>
     <trd lng="ru">&c_n;&c_a;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>asignovat</trd>,
+    <trd>obeslat</trd>,
+    <trd>soudně předvolat</trd>
+  </trdgrp>
   <trdgrp lng="de">
       <trd>vor Gericht <ind>laden</ind></trd>,
       <trd>vor Gericht <ind>zitieren</ind></trd>
@@ -98,6 +103,10 @@
   <trd lng="es">asignar</trd>
   <trd lng="fr">assigner</trd>
   <trd lng="hu">beid&eacute;z</trd>
+  <trdgrp lng="sk">
+    <trd>poukázať, prideliť</trd>,
+    <trd>prideliť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="asign.0o">
@@ -111,6 +120,11 @@
       <ref cel="pag">pagordono</ref>.
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>asignace</trd>,
+    <trd>asignát</trd>,
+    <trd>peněžní poukázka</trd>
+  </trdgrp>
   <trd lng="en">assignment</trd>
   <trd lng="es">asignaci&oacute;n</trd>
   <trd lng="fr">assignation</trd>
@@ -124,12 +138,20 @@
     <trd>przekaz</trd>,
     <trd>wezwanie</trd>
   </trdgrp>
-  <adm>Miaopinie asigno ne povas esti dokumento (asignilo?), cxar la
-  radiko estas verba. UF</adm> 
+  <trd lng="sk">poukaz <klr>(doklad)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: asign.xml,v $
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2014/08/10 09:10:11  revo
 Guillermo Molleda Jimena: Hispana tradukado
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vibr.xml,v 1.15 2012/08/12 11:10:23 revo Exp $">
+<art mrk="$Id: vibr.xml,v 1.17 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>vibr</rad>/i <fnt><bib>PV</bib></fnt>
@@ -84,6 +84,12 @@
     </trdgrp>
   </snc>
   <trd lng="ca">vibrar</trd>
+  <trdgrp lng="cs">
+    <trd>chvět se</trd>,
+    <trd>kmitat</trd>,
+    <trd>vibrovat</trd>,
+    <trd>znít</trd>
+  </trdgrp>
   <trd lng="en">vibrate</trd>
   <trd lng="fr">vibrer</trd>
   <trdgrp lng="hu">
@@ -92,6 +98,11 @@
   </trdgrp>
   <trd lng="nl">trillen</trd>
   <trd lng="pt">vibrar</trd>
+  <trdgrp lng="sk">
+    <trd>chvieť sa</trd>,
+    <trd>kmitať</trd>,
+    <trd>vibrovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vibr.0o">
@@ -108,11 +119,21 @@
     </refgrp>
   </snc>
   <trd lng="ca">vibraci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>chvění těles</trd>,
+    <trd>kmitání</trd>,
+    <trd>střásání</trd>,
+    <trd>vibrace</trd>
+  </trdgrp>
   <trd lng="fr">vibration</trd>
-  <trd lng="hu">rezg&eacute;s</trd>  
+  <trd lng="hu">rezg&eacute;s</trd>
   <trd lng="nl">trilling</trd>
   <trd lng="pt">vibra&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_v;&c_i;&c_b;&c_r;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>chvenie</trd>,
+    <trd>kmitanie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vibr.post0i">
@@ -149,6 +170,12 @@
 </art>
 <!--
 $Log: vibr.xml,v $
+Revision 1.17  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2012/08/12 11:10:23  revo
 Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: vegeta.xml,v 1.16 2014/05/14 18:10:12 revo Exp $">
+  <art mrk="$Id: vegeta.xml,v 1.18 2015/07/04 08:37:45 revo Exp $">
     <kap>
       <ofc>8</ofc>
       <rad>vegetal</rad>/o
@@ -61,19 +61,21 @@
             </fnt>.
           </ekz>
       </snc>
-      <trdgrp lng="ca">
+  <trd lng="be">&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;</trd>
+  <trdgrp lng="ca">
         <trd>planta</trd>,
         <trd>vegetal</trd>
       </trdgrp>
-      <trd lng="en">plant</trd>
-      <trd lng="be">&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;</trd>
-      <trd lng="el">&phi;&ypsilon;&tau;&omikron_ton;</trd>
-      <trd lng="fr">v&eacute;g&eacute;tal<klr> (subst.)</klr></trd>
-      <trd lng="hu">n&ouml;v&eacute;ny</trd> 
-      <trd lng="nl">plant</trd> 
-      <trd lng="pt">vegetal</trd>
-      <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;</trd>
-    </drv>
+  <trd lng="cs">rostlina</trd>
+  <trd lng="el">&phi;&ypsilon;&tau;&omikron_ton;</trd>
+  <trd lng="en">plant</trd>
+  <trd lng="fr">v&eacute;g&eacute;tal<klr> (subst.)</klr></trd>
+  <trd lng="hu">n&ouml;v&eacute;ny</trd>
+  <trd lng="nl">plant</trd>
+  <trd lng="pt">vegetal</trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">rastlina</trd>
+</drv>
 
     <drv mrk="vegeta.0aro">
       <kap><tld/>aro</kap>
@@ -118,16 +120,24 @@
           <ref tip="sin" cel="veget.0ajxaro">vegeta&jcirc;aro</ref>
         </refgrp>
       </snc>
-      <trd lng="ca">vegetaci&oacute;</trd>
-      <trdgrp lng="en">
+  <trd lng="ca">vegetaci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>rostlinstvo</trd>,
+    <trd>vegetace</trd>
+  </trdgrp>
+  <trdgrp lng="en">
         <trd>vegetation</trd>,
         <trd>flora</trd>
       </trdgrp>
-      <trd lng="fr">v&eacute;g&eacute;tation</trd>
-      <trd lng="hu">n&ouml;v&eacute;nyzet</trd>
-      <trd lng="nl">vegetatie</trd>
-      <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
-    </drv>
+  <trd lng="fr">v&eacute;g&eacute;tation</trd>
+  <trd lng="hu">n&ouml;v&eacute;nyzet</trd>
+  <trd lng="nl">vegetatie</trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>rastlinstvo</trd>,
+    <trd>vegetácia</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="vegeta.0aregno">
       <kap><tld/>a regno</kap>
@@ -144,23 +154,34 @@
 	  </ekz>
         </dif>
       </snc>
-      <trd lng="ca">regne <ind>vegetal</ind></trd>
-      <trd lng="en">vegetable kingdom</trd>
-      <trd lng="fr">r&egrave;gne <ind>v&eacute;g&eacute;tal</ind></trd>
-      <trd lng="hu">n&ouml;v&eacute;nyek orsz&aacute;ga</trd>
-      <trdgrp lng="la"><trd>Vegetabilia</trd>,
+  <trd lng="ca">regne <ind>vegetal</ind></trd>
+  <trdgrp lng="cs">
+    <trd>flóra</trd>,
+    <trd>rostlinná říše</trd>
+  </trdgrp>
+  <trd lng="en">vegetable kingdom</trd>
+  <trd lng="fr">r&egrave;gne <ind>v&eacute;g&eacute;tal</ind></trd>
+  <trd lng="hu">n&ouml;v&eacute;nyek orsz&aacute;ga</trd>
+  <trdgrp lng="la"><trd>Vegetabilia</trd>,
       <trd>Plantae</trd></trdgrp>
-      <trd lng="nl">plantenrijk</trd>
-      <trdgrp lng="ru">
+  <trd lng="nl">plantenrijk</trd>
+  <trdgrp lng="ru">
         <trd>&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_ja;</trd>,
         <trd>&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o; &c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_j;</trd>
       </trdgrp>
-    </drv>
+  <trd lng="sk">rastlinná ríša</trd>
+</drv>
 
   </art>
 
   <!--
   $Log: vegeta.xml,v $
+  Revision 1.18  2015/07/04 08:37:45  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.17  2015/06/28 12:03:50  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.16  2014/05/14 18:10:12  revo
   Damien Brucker: +trd fr
 

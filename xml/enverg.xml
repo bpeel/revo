@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: enverg.xml,v 1.17 2012/08/04 09:10:21 revo Exp $">
+<art mrk="$Id: enverg.xml,v 1.19 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <rad>envergur</rad>/o
 </kap>
@@ -123,10 +123,24 @@
   <trd lng="fr">envergure</trd>
   <trd lng="pt">envergadura</trd>
   <trd lng="hu">feszt&aacute;vols&aacute;g</trd>
+  <trdgrp lng="sk">
+    <trd>plachiet</trd>,
+    <trd>rozpätie krídiel</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>rozpětí</trd>,
+    <trd>uvázání plachet</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: enverg.xml,v $
+Revision 1.19  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2012/08/04 09:10:21  revo
 Marc Rausell: + trd ca
 

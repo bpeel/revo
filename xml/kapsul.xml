@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kapsul.xml,v 1.22 2013/11/08 19:10:39 revo Exp $">
+<art mrk="$Id: kapsul.xml,v 1.24 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kapsul</rad>/o <fnt><bib>PV</bib></fnt>
@@ -126,11 +126,26 @@
     <trd lng="ru">&c_k;&c_a;&c_p;&c_s;&c_u;&c_l;&c_a;</trd>
   </snc>
   <trd lng="ca">c&agrave;psula</trd>
+  <trdgrp lng="cs">
+    <trd>kapsle</trd>,
+    <trd>uzávěr <klr>(lahve)</klr></trd>
+  </trdgrp>
   <trd lng="es">c&aacute;psula</trd>
+  <trdgrp lng="sk">
+    <trd>kapsula</trd>,
+    <trd>pologuľatá kovová krabička</trd>,
+    <trd>tobolka</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kapsul.xml,v $
+Revision 1.24  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2013/11/08 19:10:39  revo
 Jeromo Vasxe: snc/subsnc
 

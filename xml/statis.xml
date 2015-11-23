@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: statis.xml,v 1.22 2014/05/31 16:10:29 revo Exp $">
+<art mrk="$Id: statis.xml,v 1.24 2015/07/04 08:37:44 revo Exp $">
 <kap><ofc>1</ofc> <rad>statistik</rad>/o</kap>
 <drv mrk="statis.0o">
   <kap><tld/>o</kap>
@@ -41,6 +41,7 @@
   </snc>
   <trd lng="be">&c_s;&c_t;&c_a;&c_t;&c_y;&c_s;&c_t;&c_y;&c_k;&c_a;</trd>
   <trd lng="ca">estad&iacute;stica</trd>
+  <trd lng="cs">statistika</trd>
   <trd lng="de">Statistik</trd>
   <trd lng="es">estad&iacute;stica</trd>
   <trdgrp lng="fr">
@@ -49,6 +50,7 @@
   <trd lng="hu">statisztika</trd>
   <trd lng="id">statistika</trd>
   <trd lng="nl">statistiek</trd>
+  <trd lng="sk">štatistika</trd>
   <trd lng="sv">statistik</trd>
 </drv>
 
@@ -114,6 +116,12 @@
 
 <!--
 $Log: statis.xml,v $
+Revision 1.24  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/05/31 16:10:29  revo
 Eko Nur Syah Hidayat: +id
 

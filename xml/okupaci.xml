@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: okupaci.xml,v 1.9 2011/12/10 15:10:26 revo Exp $">
+<art mrk="$Id: okupaci.xml,v 1.11 2015/07/04 08:37:40 revo Exp $">
 <kap>
 <rad>okupaci</rad>/i
 </kap>
@@ -39,12 +39,14 @@
     </refgrp>
   </snc>
   <trd lng="ca">ocupar</trd>
+  <trd lng="cs">okupovat</trd>
   <trd lng="en">occupy</trd>
   <trd lng="fr">occuper<klr> (par la force)</klr></trd>
   <trd lng="it">occupare<klr> (con la forza)</klr></trd>
   <trd lng="nl">bezetten</trd>
   <trd lng="pl">okupowa&cacute;</trd>
   <trd lng="pt">ocupar<klr tip="amb"> (mil.)</klr></trd>
+  <trd lng="sk">okupovať</trd>
 </drv>
 
 <drv mrk="okupaci.0o">
@@ -65,16 +67,28 @@
     </dif>
   </snc>
   <trd lng="ca">ocupaci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>obsazení</trd>,
+    <trd>okupace</trd>,
+    <trd>zabrání</trd>
+  </trdgrp>
   <trd lng="en">occupation</trd>
   <trd lng="fr">occupation<klr> (militaire etc.)</klr></trd>
   <trd lng="it">occupazione<klr> (militare o sim.)</klr></trd>
   <trd lng="nl">bezettting<klr tip="ind"> (mil.)</klr></trd>
   <trd lng="pl">okupacja</trd>
   <trd lng="pt">ocupa&ccedil;&atilde;o <klr tip="amb">(mil.)</klr></trd>
+  <trd lng="sk">okupácia</trd>
 </drv>
 </art>
 <!--
 $Log: okupaci.xml,v $
+Revision 1.11  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2011/12/10 15:10:26  revo
 Marc Rausell: +trd ca
 

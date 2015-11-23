@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dilu.xml,v 1.18 2010/01/18 17:31:45 revo Exp $">
+<art mrk="$Id: dilu.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>dilu</rad>/i
 </kap>
@@ -25,6 +25,10 @@
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_b;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;
   </trd>
+  <trdgrp lng="cs">
+    <trd>rozředit</trd>,
+    <trd>ředit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>verd&uuml;nnen</trd>,
     <trd>verw&auml;ssern</trd>
@@ -51,6 +55,10 @@
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_z;&c_b;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_zh;&c_i;&c_zh;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>riediť</trd>,
+    <trd>rozriediť</trd>
   </trdgrp>
 </drv>
 
@@ -83,6 +91,12 @@
 </art>
 <!--
 $Log: dilu.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2010/01/18 17:31:45  revo
 Russ Williams: +trd en
 

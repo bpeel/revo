@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sternu.xml,v 1.12 2010/12/17 17:30:38 revo Exp $">
+<art mrk="$Id: sternu.xml,v 1.15 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>sternum</rad>/o
 </kap>
@@ -15,6 +15,10 @@
 klavikloj.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hrudní kost</trd>,
+    <trd>sternum</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Brustbein</trd>,
     <trd>Sternum</trd>
@@ -26,6 +30,7 @@ klavikloj.
     <trd>szegycsont</trd>,
     <trd>mellcsont</trd>
   </trdgrp>
+  <trd lng="id"><ind>tulang</ind> dada</trd>
   <trd lng="it">sterno</trd>
   <trdgrp lng="nl">
     <trd>borstbeen</trd>,
@@ -36,10 +41,23 @@ klavikloj.
     <trd>&c_g;&c_r;&c_u;&c_d;&c_n;&c_a;&c_ja; &c_k;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_g;&c_r;&c_u;&c_d;&c_i;&c_n;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hrudná kosť</trd>,
+    <trd>mostík</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: sternu.xml,v $
+Revision 1.15  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2015/01/29 04:10:30  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.12  2010/12/17 17:30:38  revo
 Antonio Codazzi: +trd it
 
@@ -59,8 +77,5 @@ Revision 1.7  2002/03/27 17:31:45  revo
 Karlo Freeman: +trd=en
 
 Revision 1.6  2002/02/23 19:50:12  revo
-Yury Finkel: +trd ru
-
-Revision 1.5 2001/08/24 12:04:40 revo
 -->
 </vortaro>

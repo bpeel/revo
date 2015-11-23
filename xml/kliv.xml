@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kliv.xml,v 1.13 2004/12/18 19:20:48 revo Exp $">
+<art mrk="$Id: kliv.xml,v 1.15 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>kliv</rad>/i
 </kap>
@@ -16,6 +16,10 @@
       Fendi mineralon la&ubreve; natura direkto de &gcirc;iaj tavoloj.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>rozštěpit <klr>(nerost)</klr></trd>,
+    <trd>štěpit</trd>
+  </trdgrp>
   <trd lng="de">spalten</trd>
   <trdgrp lng="en">
     <trd>cleave</trd>,
@@ -35,6 +39,7 @@
     <trd>&c_r;&c_a;&c_s;&c_s;&c_l;&c_a;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_s;&c_l;&c_o;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">štiepiť <klr>(nerast podľa vrstvy)</klr></trd>
 </drv>
 
 <drv mrk="kliv.0o">
@@ -59,6 +64,12 @@
 </art>
 <!--
 $Log: kliv.xml,v $
+Revision 1.15  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2004/12/18 19:20:48  revo
 Marc Bavant: +trd fr
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kap.xml,v 1.48 2014/05/30 15:11:03 revo Exp $">
+<art mrk="$Id: kap.xml,v 1.52 2015/09/05 15:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kap</rad>/o <fnt><bib>PV</bib></fnt>
@@ -465,10 +465,6 @@
 	esti &ccirc;e la <tld/>loko <klr>(frontono)</klr> de io;
       </ekz>
       <ekz>
-	la artikolo estas presita <tld/>e <klr>(supre)</klr> de la
-	pa&gcirc;o;
-      </ekz>
-      <ekz>
 	<tld/>o <klr>(anta&ubreve;a&jcirc;o, pruo)</klr> de &scirc;ipo
 	<fnt>Z</fnt>;
       </ekz>
@@ -536,7 +532,12 @@
   </snc>
   <trd lng="bg">&c_g;&c_l;&c_a;&c_v;&#769;&c_a;</trd>
   <trd lng="ca">cap</trd>
-  <trd lng="cs">hlava</trd>
+  <trdgrp lng="cs">
+    <trd>hlava</trd>,
+    <trd>hlavice</trd>,
+    <trd>vrchol</trd>,
+    <trd>z&aacute;hlav&iacute;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Kopf</trd>,
     <trd>Haupt</trd>
@@ -548,8 +549,41 @@
     <trd>&lstroke;eb</trd>
   </trdgrp>
   <trd lng="pt">cabe&ccedil;a</trd>
+  <trdgrp lng="sk">
+    <trd>hlava</trd>,
+    <trd>hlavica</trd>,
+    <trd>vrchol</trd>
+  </trdgrp>
   <trd lng="tp">lawa</trd>
   <trd lng="vo">kap</trd>
+</drv>
+
+<drv mrk="kap.0ede">
+  <kap><tld/>e de,
+  <var><kap>&ccirc;e<tld/>e de</kap></var></kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="kap.0ede.KOMUNE">
+    <dif>
+      Supre a&ubreve; anta&ubreve;e de, en la kapa parto de,
+      gvidante a&ubreve; estrante:
+      <ekz>
+	la artikolo estas presita <tld/>e de la
+	pa&gcirc;o;
+      </ekz>
+      <ekz>
+        komandanto Doval &ccirc;e<tld/>e de ribela kolono
+        alproksimi&gcirc;is renkonte al Mangada
+        <fnt>
+          <aut>T. del Barrio</aut>,
+          <vrk><url ref="http://www.delbarrio.eu/mangadasb.htm">
+          Julio Mangada Rosen&ouml;rn, la antonomazia
+          esperantisto</url></vrk>,
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">en t&ecirc;te de</trd>
 </drv>
 
 <drv mrk="kap.0eto">
@@ -597,9 +631,18 @@
     </trdgrp>
     <trd lng="pt">tranqueta <klr tip="amb">(de porta)</klr></trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hlavice</trd>,
+    <trd>hlavi&ccaron;ka</trd>,
+    <trd>z&aacute;znamov&eacute; nebo &ccaron;tec&iacute; za&rcaron;&iacute;zen&iacute;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>hoofdje</trd>,
     <trd>kopje</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hlavica</trd>,
+    <trd>hlavi&ccaron;ka</trd>
   </trdgrp>
 </drv>
 
@@ -618,18 +661,23 @@
     </dif>
   </snc>
   <trd lng="ca">ficar al cap</trd>
+  <trd lng="cs">d&aacute;t do hlavy <klr>(n&ecaron;co n&ecaron;komu)</klr></trd>
   <trd lng="en">get into one's head</trd>
   <trd lng="fr">mettre<klr tip="ind"> (&agrave; qn qc)</klr> dans la
   <ind>t&ecirc;te</ind></trd>
   <trd lng="hu">meg&eacute;rtet</trd>
   <trd lng="nl">onthouden</trd>
-  <trd lng="pt">meter na <ind>cabe&ccedil;a</ind></trd>
   <trdgrp lng="pl">
     <trd>wbija&cacute; do <ind>g&lstroke;owy</ind></trd>,
     <trd>wbija&cacute; do <ind>&lstroke;ba</ind></trd>,
-  </trdgrp>  
+  </trdgrp>
+  <trd lng="pt">meter na <ind>cabe&ccedil;a</ind></trd>
   <trd lng="ru">&c_v;&c_b;&c_i;&c_t;&c_mol;<klr tip="amb"> &c_ch;&c_t;&c_o;-&c_l;.</klr>
     &c_v; <ind>&c_g;&c_o;&c_l;&c_o;&c_v;&c_u;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>v&scaron;tepova&tcaron;</trd>,
+    <trd>v&scaron;tiepi&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kap.hauxt0ulo">
@@ -740,10 +788,12 @@
     <trd>cap de carabassa</trd>,
     <trd>cap de suro</trd>
   </trdgrp>
+  <trd lng="cs">h&ncaron;up</trd>
   <trdgrp lng="fr">
     <trd>cr&eacute;tin</trd>,
     <trd>t&ecirc;te de n&oelig;ud</trd>
   </trdgrp>
+  <trd lng="sk">&tcaron;ulpas</trd>
 </drv>
 
 <drv mrk="kap.sen0igi">
@@ -764,20 +814,29 @@
     <trd>decapitar</trd>,
     <trd>escap&ccedil;ar</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>setnout</trd>,
+    <trd>st&ecaron;t&iacute;m popravit</trd>,
+    <trd>utnout hlavu</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>enthaupten</trd>,
     <trd>k&ouml;pfen</trd>
   </trdgrp>
   <trd lng="en">decapitate</trd>
-  <trd lng="id">[<ind>penggal</ind>] memenggal</trd>
   <trd lng="fr">d&eacute;capiter</trd>
   <trd lng="hu">lefejez</trd>
+  <trd lng="id">[<ind>penggal</ind>] memenggal</trd>
   <trd lng="nl">onthoofden</trd>
   <trdgrp lng="pl">
     <trd>dekapitowa&cacute;<klr> (med.)</klr></trd>,
     <trd>&sacute;cina&cacute; <ind>g&lstroke;ow&eogonek;</ind></trd>
   </trdgrp>
   <trd lng="pt">decapitar</trd>
+  <trdgrp lng="sk">
+    <trd>odreza&tcaron;</trd>,
+    <trd>od&tcaron;a&tcaron; hlavu</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kap.sxtip0ulo">
@@ -873,6 +932,7 @@
     <trd>baj&agrave;</trd>,
     <trd>cap de pardals</trd>
   </trdgrp>
+  <trd lng="cs">lehkomysln&yacute;</trd>
   <trd lng="en">airhead</trd>
   <trdgrp lng="hu">
     <trd>hebehurgya</trd>,
@@ -889,10 +949,44 @@
     <trd>&c_v;&c_je;&c_t;&c_r;&c_je;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_s; <ind>&c_v;&c_je;&c_t;&c_r;&c_o;&c_m;</ind> &c_v; &c_g;&c_o;&c_l;&c_o;&c_v;&c_je;</trd>
   </trdgrp>
+  <trd lng="sk">&lcaron;ahkomyse&lcaron;n&yacute;</trd>
+</drv>
+
+<drv mrk="kap.de0ogxiskalkano">
+  <kap>de <tld/>o &gcirc;is kalkano,
+  <var><kap>de <tld/>o &gcirc;is kalkanoj</kap></var></kap>
+  <uzo tip="stl">FRAZ</uzo>
+  <snc mrk="kap.de0ogxiskalkano.KOMUNE">
+    <dif>
+      Tute, la&ubreve; la tuta korpo:
+      <ekz>
+        ili &ccirc;irka&ubreve;iradis &scirc;in kaj observadis &scirc;in de <tld/>o &gcirc;is kalkano
+        <fnt>
+          <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K. Proch&aacute;zka</aut>,
+          <vrk><url ref="https://eo.wikisource.org/wiki/Avineto/I.">
+          Avineto</url></vrk>,
+          <lok>[sen dato]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">de la t&ecirc;te aux pieds</trd>
 </drv>
 </art>
 <!--
 $Log: kap.xml,v $
+Revision 1.52  2015/09/05 15:10:15  revo
+Jeromo Vasxe: + de ~o gxis kalkano
+
+Revision 1.51  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.50  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.49  2015/03/05 23:10:14  revo
+Jeromo Vasxe: + ~e de
+
 Revision 1.48  2014/05/30 15:11:03  revo
 Eko Nur Syah Hidayat: +id
 
@@ -903,17 +997,5 @@ Revision 1.46  2013/03/08 02:10:09  revo
 Jeromo Vasxe: + haut~ulo
 
 Revision 1.45  2013/01/07 01:10:17  revo
-Neil Roberts: Forigo de malplena traduko al la kataluna lingvo
-
-Revision 1.44  2012/09/01 13:10:07  revo
-Marc Rausell: + trd ca
-
-Revision 1.43  2011/11/09 13:10:08  revo
-Jeromo Vasxe: + 1 trd fr
-
-Revision 1.42  2011/05/13 07:10:08  revo
-Jeromo Vasxe: + napo~ulo
-
-Revision 1.41  2010/10/27 16:30:32  revo
 -->
 </vortaro>

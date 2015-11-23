@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: feland.xml,v 1.11 2007/05/20 16:31:05 revo Exp $">
+<art mrk="$Id: feland.xml,v 1.13 2015/07/04 08:37:34 revo Exp $">
 <kap>
 <rad>felandri</rad>/o
 </kap>
@@ -15,13 +15,14 @@
       (<trd lng="la">Oenanthe aquatica</trd>).
     </dif>
   </snc>
+  <trd lng="cs">fenykl vodní</trd>
   <trdgrp lng="de">
     <trd>Wasserfenchel</trd>,
     <trd>Wasserpferdesaat</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>cig&uuml;e aquatique</trd>,
-    <trd>phellandre</trd></trdgrp> 
+    <trd>phellandre</trd></trdgrp>
   <trdgrp lng="hu">
     <trd>v&iacute;zi <ind>borgy&ouml;k&eacute;r</ind></trd>,
     <trd>v&iacute;zi <ind>m&eacute;telyk&oacute;r&oacute;</ind></trd>
@@ -32,10 +33,17 @@
     <trd>fel&#226;ndrio</trd>,
     <trd>quebra-pedra <klr tip="amb">(bot.: Oenanthe aquatica)</klr></trd>
   </trdgrp>
+  <trd lng="sk">fenikel vodný</trd>
 </drv>
 </art>
 <!--
 $Log: feland.xml,v $
+Revision 1.13  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2007/05/20 16:31:05  revo
 Tulio Flores: +tr pt
 

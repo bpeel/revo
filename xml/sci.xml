@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: sci.xml,v 1.28 2012/10/23 00:13:39 revo Exp $">
+<art mrk="$Id: sci.xml,v 1.32 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sci</rad>/i <fnt><bib>PV</bib></fnt>
@@ -55,10 +55,12 @@
         <uzo tip="stl">FRAZ</uzo>
         <ind>kiom mi <tld/>as</ind>
         <klr>(la&ubreve; tio, kion mi <tld/>as)</klr>
+        <trd lng="es">hasta donde s&eacute;</trd>
         <trd lng="fr">autant que je sache</trd>
         <fnt>Z</fnt>.
       </ekz>
     </dif>
+    <trd lng="es">saber</trd>
     <trd lng="hu">tud</trd>
     <trd lng="nl">weten</trd>
   </snc>
@@ -69,6 +71,7 @@
     </ekz>
     <ekz>
       <ind><tld/>i ludi &scirc;akojn</ind>;
+      <trd lng="es">saber jugar al ajedrez</trd>
       <trd lng="hu">tud sakkozni</trd>
     </ekz>
     <ekz>
@@ -79,6 +82,10 @@
     <ekz>
       vi <tld/>is bone ekspluati mian situacion<fnt>Z</fnt>.
     </ekz>
+    <trdgrp lng="es">
+      <trd>saber</trd>,
+      <trd>conocer</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>tud</trd>,
       <trd>k&eacute;pes</trd>
@@ -88,8 +95,12 @@
   </snc>
   <trd lng="be">&c_v;&c_je;&c_d;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
+    <trd>dovést</trd>,
+    <trd>moci <klr>(umět)</klr></trd>,
+    <trd>um&ecaron;t</trd>,
+    <trd>umět</trd>,
     <trd>v&ecaron;d&ecaron;t</trd>,
-    <trd>um&ecaron;t</trd>
+    <trd>znát</trd>
   </trdgrp>
   <trd lng="de">wissen</trd>
   <trd lng="en">know</trd>
@@ -97,6 +108,10 @@
   <trd lng="fr">savoir<klr tip="amb"> (verbe)</klr></trd>
   <trd lng="pt">saber</trd>
   <trd lng="ru">&c_z;&c_n;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>ovládať</trd>,
+    <trd>vedieť</trd>
+  </trdgrp>
   <trd lng="tr">bilmek</trd>
 </drv>
 
@@ -115,11 +130,16 @@
     </ekz>
     <ekz>
       <ind>la&ubreve; mia <tld/>o</ind>
+      <trd lng="es">que yo sepa</trd>
       <trd lng="fr">&agrave; ce que je sais</trd>
       <trd lng="hu">tudom&aacute;som szerint</trd>.
       <trd lng="tr">bildi&gbreve;im kadar&inodot;yla</trd>
     </ekz>
     <trd lng="be">&c_v;&c_je;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trdgrp lng="es">
+      <trd>conocimiento</trd>,
+      <trd>el conocimiento</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>tud&aacute;s</trd>,
       <trd>tudom&aacute;s</trd>
@@ -138,8 +158,16 @@
     </ekz>
     <trd lng="be">&c_v;&c_je;&c_d;&c_a;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>poznatek</trd>,
+    <trd>vědomost</trd>,
+    <trd>vědomí</trd>,
+    <trd>vědění</trd>,
+    <trd>znalost</trd>
+  </trdgrp>
   <trd lng="de">Wissen</trd>
   <trd lng="en">knowledge</trd>
+  <trd lng="es">conocimiento</trd>
   <trdgrp lng="fr">
     <trd>connaissance</trd>,
     <trd>savoir<klr tip="amb"> (subst.)</klr></trd>
@@ -149,6 +177,11 @@
     <trd>ismeret</trd>
   </trdgrp>
   <trd lng="ru">&c_z;&c_n;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>informácie</trd>,
+    <trd>oznámenie</trd>,
+    <trd>poznatok</trd>
+  </trdgrp>
   <trdgrp lng="tr">
     <trd>bilge</trd>,
     <trd>bilme</trd>
@@ -170,13 +203,25 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_je;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>poznání</trd>,
+    <trd>vědomost</trd>,
+    <trd>vědění</trd>,
+    <trd>znalosti</trd>
+  </trdgrp>
   <trd lng="en">knowledge</trd>
+  <trd lng="es">conocimiento</trd>
   <trdgrp lng="fr">
     <trd>connaissance</trd>,
     <trd>savoir<klr tip="amb"> (subst.)</klr></trd>
   </trdgrp>
   <trd lng="hu">tud&aacute;s <klr tip="amb">(ismer&eacute;s)</klr></trd>
   <trd lng="ru">&c_z;&c_n;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>poznanie</trd>,
+    <trd>vedomosť</trd>,
+    <trd>znalosti</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sci.0ajxo">
@@ -207,6 +252,12 @@
   </snc>
   <trd lng="be">&c_v;&c_je;&c_d;&c_a;</trd>
   <trd lng="en">knowledge</trd>
+  <trd lng="es">conocimiento</trd>
+  <trdgrp lng="es">
+    <trd>conocimiento</trd>,
+    <trd>saber<klr tip="amb"> (subst.)</klr></trd>
+    <trd>conciencia</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>connaissance</trd>,
     <trd>savoir<klr tip="amb"> (subst.)</klr></trd>
@@ -249,13 +300,29 @@
     <trd lng="ru">&c_s;&c_o;&c_o;&c_b;&c_shch;&c_i;&c_t;&c_mol;</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_v;&c_je;&c_d;&c_a;&c_m;&c_ib;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>dát na vědomí</trd>,
+    <trd>informovat</trd>,
+    <trd>oznámit</trd>,
+    <trd>podat zprávu</trd>,
+    <trd>sdělit</trd>,
+    <trd>uvádět ve známost</trd>,
+    <trd>uvědomit</trd>,
+    <trd>vyrozumět</trd>,
+    <trd>zpravit</trd>
+  </trdgrp>
+  <trd lng="de">mitteilen</trd>
   <trd lng="en">inform</trd>
+  <trdgrp lng="es">
+    <trd>informar</trd>,
+    <trd>hacer saber</trd>,
+    <trd>notificar</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>apprendre<klr tip="amb"> (faire savoir)</klr></trd>,
     <trd>faire part<klr tip="amb"> (de quelquechose)</klr></trd>,
     <trd>faire savoir</trd>
   </trdgrp>
-  <trd lng="de">mitteilen</trd>
   <trdgrp lng="hu">
     <trd>k&ouml;z&ouml;l</trd>,
     <trd>t&aacute;j&eacute;koztat</trd>,
@@ -266,6 +333,11 @@
     <trd>&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_v;&c_je;&c_d;&c_o;&c_m;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_i;&c_n;&c_f;&c_o;&c_r;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dať na vedomie</trd>,
+    <trd>informovať</trd>,
+    <trd>oznámiť</trd>
   </trdgrp>
 </drv>
 
@@ -288,7 +360,22 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_v;&c_je;&c_d;&c_a;&c_m;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>informace</trd>,
+    <trd>informování</trd>,
+    <trd>oznámení</trd>,
+    <trd>sdělení</trd>,
+    <trd>uvědomení</trd>,
+    <trd>vyrozumění</trd>,
+    <trd>zpravení</trd>,
+    <trd>zpráva</trd>
+  </trdgrp>
   <trd lng="de">Mitteilung</trd>
+  <trdgrp lng="es">
+    <trd>anuncio</trd>,
+    <trd>aviso</trd>,
+    <trd>notificaci&oacute;n</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>annonce</trd>,
     <trd>avis<klr tip="amb"> (annonce)</klr></trd>
@@ -303,6 +390,11 @@
   <trdgrp lng="ru">
     <trd>&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_i;&c_je;</trd>,
     <trd>&c_u;&c_v;&c_je;&c_d;&c_o;&c_m;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chýr; upovedomenie</trd>,
+    <trd>odkaz</trd>,
+    <trd>správa</trd>
   </trdgrp>
 </drv>
 
@@ -334,7 +426,7 @@
       <ekz>
         la unua parto <klr>[de la historio]</klr> povus resti
         nerakontita,
-        &dash; &gcirc;i tamen donos al ni <ind>anta&ubreve;<tld/>igo</ind>jn,
+        &#8208; &gcirc;i tamen donos al ni <ind>anta&ubreve;<tld/>igo</ind>jn,
         kaj tiaj &ccirc;iam estas utilaj
         <fnt><bib>Fab3</bib>, <lok>Kora sufero</lok></fnt>.
         <trdgrp lng="fr">
@@ -352,6 +444,10 @@
     </dif>
   </snc>
   <trd lng="en">know in advance</trd>
+  <trdgrp lng="es">
+    <trd>advertir</trd>,
+    <trd>informar con antelaci&oacute;n</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>savoir d'avance</trd>
   </trdgrp>
@@ -376,6 +472,7 @@
     </dif>
   </snc>
   <trd lng="en">omniscient</trd>
+  <trd lng="es">omnisciente</trd>
   <trd lng="fr">omniscient</trd>
 </drv>
 
@@ -406,6 +503,7 @@
         <fnt><bib>MT</bib>, <lok>&Sa1; 23:9</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="es">enterarse</trd>
     <trdgrp lng="hu">
       <trd>megtud</trd>,
       <trd>tudom&aacute;st szerez</trd>
@@ -422,8 +520,13 @@
         <fnt><bib>MT</bib>, <lok>&Pre; 1:17</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="es">darse cuenta</trd>
     <trd lng="hu">meg&eacute;rt</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dovědět se</trd>,
+    <trd>zvědět; zjistit</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>learn</trd>,
     <trd>realize</trd>
@@ -433,6 +536,7 @@
     <trd>s'<ind>apercevoir</ind><klr tip="amb"> (que)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_u;&c_z;&c_n;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">dozvedieť sa</trd>
 </drv>
 
 <drv mrk="sci.multe0a">
@@ -450,11 +554,20 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>mnoho vědoucí</trd>,
+    <trd>vzdělaný</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>erudito</trd>,
+    <trd>cient&iacute;fico<klr> (adj.)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&eacute;rudit</trd>,
     <trd>savant<klr> (adj.)</klr></trd>
   </trdgrp>
   <trd lng="hu">nagy <ind>tud&aacute;s&uacute;</ind></trd>
+  <trd lng="sk">vzdelaný</trd>
 </drv>
 
 <drv mrk="sci.mal0o">
@@ -471,11 +584,17 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_ja;&c_v;&c_je;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="cs">úplná neznalost</trd>
   <trd lng="de">Unwissen</trd>
   <trd lng="en">ignorance</trd>
+  <trd lng="es">ignorancia</trd>
   <trd lng="fr">ignorance</trd>
   <trd lng="hu">tudatlans&aacute;g</trd>
   <trd lng="ru">&c_n;&c_je;&c_z;&c_n;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>nevedomosť</trd>,
+    <trd>neznalosť</trd>
+  </trdgrp>
   <trd lng="tr">cahillik</trd>
 </drv>
 
@@ -505,16 +624,31 @@
     </dif>
   </snc>
   <trd lng="be">&c_u;&c_m;&c_je;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>dovést</trd>,
+    <trd>moci <klr>(umět)</klr></trd>,
+    <trd>umět</trd>,
+    <trd>znát</trd>
+  </trdgrp>
   <trd lng="de">k&ouml;nnen</trd>
   <trdgrp lng="en">
     <trd>know how</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>saber algo</trd>,
+    <trd>conocer como</trd>
   </trdgrp>
   <trd lng="fr">savoir<klr tip="amb"> (une langue, nager,
   etc.)</klr></trd>
   <trd lng="hu">tud <klr tip="ind">(k&eacute;pes)</klr></trd>
   <trd lng="ru">&c_u;&c_m;&c_je;&c_t;&c_mol;</trd>
-  <trd lng="vo">kan&ouml;n</trd>
+  <trdgrp lng="sk">
+    <trd>dokázať</trd>,
+    <trd>môcť</trd>,
+    <trd>vedieť</trd>
+  </trdgrp>
   <trd lng="tr">bilmek</trd>
+  <trd lng="vo">kan&ouml;n</trd>
 </drv>
 
 <drv mrk="sci.0vola">
@@ -531,11 +665,16 @@
     </dif>
   </snc>
   <trd lng="be">&c_c;&c_ib;&c_k;&c_a;&c_w;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>zvídavý</trd>,
+    <trd>zvědavý</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>neugierig</trd>,
     <trd>wissbegierig</trd>
   </trdgrp>
   <trd lng="en">curious</trd>
+  <trd lng="es">curioso</trd>
   <trd lng="fr">curieux</trd>
   <trdgrp lng="hu">
     <trd>k&iacute;v&aacute;ncsi</trd>,
@@ -547,6 +686,7 @@
     <trd>&c_l;&c_ju;&c_b;&c_o;&c_p;&c_y;&c_t;&c_n;&c_y;&c_j;<klr tip="amb">
     (&c_o; &c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k;&c_je;)</klr></trd>
   </trdgrp>
+  <trd lng="sk">zvedavý</trd>
   <trd lng="tr">merakl&inodot;</trd>
 </drv>
 
@@ -554,12 +694,30 @@
   <kap><tld/>volo, <var><kap><tld/>voleco</kap></var></kap>
   <snc mrk="sci.0voleco.KOMUNE">
     <dif>
-      Deziro <tld/>i&gcirc;i.
+      Deziro <tld/>i&gcirc;i:
+      <ekz>
+        la enketju&gcirc;isto, male, rigardis min kun <tld/>volo
+      <fnt>
+        <aut>Albert Camus, trad. Michel Duc Goninaz</aut>,
+        <vrk>La Fremdulo</vrk>,
+        <lok>S.A.T., 1993, p. 77</lok>
+      </fnt>.
+      </ekz>
     </dif>
   </snc>
-  <trd lng="en">curiosity</trd>
+  <trdgrp lng="cs">
+    <trd>touha znát</trd>,
+    <trd>zvídavost</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Neugier</trd>
+  </trdgrp>
+  <trd lng="en">curiosity</trd>
+  <trd lng="es">curiosidad</trd>
+  <trd lng="fr">curiosit&eacute;</trd>
+  <trdgrp lng="sk">
+    <trd>túžba poznať</trd>,
+    <trd>zvedavosť</trd>
   </trdgrp>
 </drv>
 
@@ -603,13 +761,34 @@
   <trdgrp lng="en">
     <trd>know how</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>saber algo</trd>,
+    <trd>conocer como</trd>
+  </trdgrp>
   <trd lng="hu">tud <klr tip="ind">(k&eacute;pes)</klr></trd>
   <trd lng="ru">&c_u;&c_m;&c_je;&c_t;&c_mol;</trd>
   <trd lng="vo">kan&ouml;n</trd>
+  <trdgrp lng="sk">
+    <trd>ovládať</trd>,
+    <trd>vedieť</trd>
+  </trdgrp>
+  <trd lng="cs">mít vědomosti <klr>(pro určitou práci)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: sci.xml,v $
+Revision 1.32  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2015/01/17 07:10:16  revo
+Alain Gerard: +fnt +trd (fr)
+
+Revision 1.29  2014/12/16 11:10:20  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.28  2012/10/23 00:13:39  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -626,11 +805,5 @@ Revision 1.24 2008/02/09 17:30:43 revo
 Tulio Flores: +tr pt
 
 Revision 1.23 2007/12/23 17:30:51 revo
-Wieland Pusch: +trd scivoleco
-
-Revision 1.22 2006/09/17 16:30:46 revo
-Russ Williams: +trd en
-
-Revision 1.21 2005/08/13 16:33:32 revo
 -->
 </vortaro>

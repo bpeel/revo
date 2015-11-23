@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mek.xml,v 1.5 2013/10/10 20:10:21 revo Exp $">
+<art mrk="$Id: mek.xml,v 1.7 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>mek</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -51,17 +51,25 @@
     <trd>belar</trd>,
     <trd>esbiegar</trd>
   </trdgrp>
+  <trd lng="cs">mečet</trd>
   <trd lng="es">balar</trd>
   <trdgrp lng="fr">
     <trd>b&ecirc;ler<klr tip="amb"> (ch&egrave;vre)</klr></trd>,
     <trd>chevrotter</trd>
   </trdgrp>
   <trd lng="pl">mecze&cacute;</trd>
+  <trd lng="sk">mečať</trd>
 </drv>
 </art>
 
 <!--
 $Log: mek.xml,v $
+Revision 1.7  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2013/10/10 20:10:21  revo
 Jeromo Vasxe: + ~
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ontogenez.xml,v 1.3 2011/12/05 10:10:36 revo Exp $">
+<art mrk="$Id: ontogenez.xml,v 1.6 2015/10/05 14:10:17 revo Exp $">
 <kap>
   <rad>ontogenez</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -34,16 +34,34 @@
     <trd>ontog&egrave;nesi <klr>(proc&eacute;s)</klr></trd>,
     <trd>ontog&egrave;nia <klr>(estudi)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ontogeneze</trd>,
+    <trd>ontogenie</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>ontogeny</trd>,
+    <trd>ontogenesis</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>ontog&eacute;n&egrave;se</trd>,
     <trd>ontog&eacute;nie</trd>
   </trdgrp>
   <trd lng="hu">ontogenezis</trd>
+  <trd lng="sk">ontogen&eacute;za</trd>
 </drv>
 </art>
 
 <!--
 $Log: ontogenez.xml,v $
+Revision 1.6  2015/10/05 14:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.5  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.3  2011/12/05 10:10:36  revo
 Marc Rausell: kataluna traduko
 

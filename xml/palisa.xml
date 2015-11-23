@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: palisa.xml,v 1.13 2010/09/28 16:30:29 revo Exp $">
+<art mrk="$Id: palisa.xml,v 1.16 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>palisandr</rad>/o
@@ -12,7 +12,10 @@
   <snc mrk="palisa.0o.ligno">
     <uzo tip="fak">TEK</uzo>
     <dif>
-      Amerika violenigra ligno uzata por luksaj mebloj:
+      Amerika valora, viole nigra <ref tip="super"
+      cel="lign.0o">ligno</ref>, 
+      el arboj de la genro <trd lng="la">Dalbergia</trd>, 
+      uzata por luksaj mebloj:
       <ekz>
         li turnis sin al la <tld/>a tablo, sur kiu ku&scirc;is la tapi&scirc;oj
         <fnt><bib>Marta</bib></fnt>.
@@ -20,6 +23,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_l;&c_ib;&c_s;&c_a;&c_n;&c_d;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>palisandr</trd>,
+    <trd>palisandrové dřevo</trd>,
+    <trd>rosewood</trd>
+  </trdgrp>
   <trd lng="de">Palisanderholz</trd>
   <trd lng="en">rosewood</trd>
   <trd lng="fr">palissandre</trd>
@@ -31,10 +39,20 @@
     <trd>palissandra</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_a;&c_l;&c_i;&c_s;&c_a;&c_n;&c_d;&c_r;</trd>
+  <trd lng="sk">palisandrové drevo</trd>
 </drv>
 </art>
 <!--
 $Log: palisa.xml,v $
+Revision 1.16  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2015/03/07 14:10:18  revo
+Wolfram Diestel: prilaboris: +ref, +arbogenro
+
 Revision 1.13  2010/09/28 16:30:29  revo
 Russ Williams: +trd en
 
@@ -54,8 +72,5 @@ Revision 1.8 2003/07/26 08:41:49 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.7 2001/12/10 17:33:08 revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/08/27 18:13:12 revo
 -->
 </vortaro>

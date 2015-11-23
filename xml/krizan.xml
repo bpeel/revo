@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krizan.xml,v 1.16 2012/09/19 11:10:08 revo Exp $">
+<art mrk="$Id: krizan.xml,v 1.18 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>krizantem</rad>/o <fnt><bib>PV</bib></fnt>
@@ -47,10 +47,21 @@
   <trd lng="nl">chrysant</trd>
   <trd lng="pt">cris&acirc;ntemo</trd>
   <trd lng="ru">&c_h;&c_r;&c_i;&c_z;&c_a;&c_n;&c_t;&c_je;&c_m;&c_a;</trd>
+  <trd lng="sk">chryzantéma</trd>
+  <trdgrp lng="cs">
+    <trd>chryzantéma</trd>,
+    <trd>kopretina</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: krizan.xml,v $
+Revision 1.18  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2012/09/19 11:10:08  revo
 Jeromo Vasxe: + ekz + trd fr
 

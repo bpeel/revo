@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bak.xml,v 1.37 2013/12/08 15:10:22 revo Exp $">
+<art mrk="$Id: bak.xml,v 1.41 2015/10/01 12:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bak</rad>/i <fnt><bib>PV</bib></fnt>
@@ -54,6 +54,8 @@
       </trdgrp>
       <trd lng="fr">cuire<klr tip="ind"> (au four)</klr></trd>
       <trd lng="hu">s&uuml;t</trd>
+      <trd lng="pt">assar</trd>
+      
     </subsnc>
     <subsnc mrk="bak.0i.TEK">
       <uzo tip="fak">TEK</uzo>
@@ -78,6 +80,7 @@
       <trd>wypieka&cacute;</trd>,
       <trd>wypala&cacute;</trd>
     </trdgrp>
+    
     <trd lng="sk">piec&tcaron;</trd>
     <trd lng="vo">bak&ouml;n</trd>
   </snc>
@@ -104,7 +107,11 @@
     <trd>&c_a;&c_b;&c_p;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="bg">&c_p;&c_je;&c_k;&c_a;</trd>
-  <trd lng="cs">p&eacute;ci (chl&eacute;b)</trd>
+  <trdgrp lng="cs">
+    <trd>p&eacute;ci (chl&eacute;b)</trd>,
+    <trd>p&aacute;lit (cihly)</trd>,
+    <trd>p&eacute;ci <klr>(chl&eacute;b, maso)</klr></trd>
+  </trdgrp>
   <trd lng="en">bake</trd>
   <trd lng="nl">bakken<klr tip="ind"> (in oven)</klr></trd>
   <trdgrp lng="ru">
@@ -135,6 +142,7 @@
           bagateloj</lok></fnt>.
         </ekz>
       </dif>
+      <trd lng="en">baked good</trd>
       <trd lng="ca">pastisseria</trd>
       <trdgrp lng="pl">
         <trd>pieczywo</trd>,
@@ -145,6 +153,7 @@
       <dif>
         Vazo a&ubreve; alia argila&jcirc;o malmoligita per <tld/>ado.
       </dif>
+      <trd lng="en">baked ware</trd>
       <trd lng="ca">terrissa</trd>
       <trd lng="pl">wypiek</trd>
     </subsnc>
@@ -169,6 +178,7 @@
     <trd>forner</trd>,
     <trd>flequer</trd>
   </trdgrp>
+  <trd lng="cs">peka&rcaron;</trd>
   <trd lng="de">B&auml;cker</trd>
   <trd lng="en">baker</trd>
   <trd lng="fr">boulanger</trd>
@@ -224,13 +234,21 @@
   </snc>
   <trd lng="br">forn</trd>
   <trd lng="ca">forn</trd>
+  <trdgrp lng="cs">
+    <trd>peka&rcaron;sk&aacute; pec</trd>,
+    <trd>pe&ccaron;&iacute;c&iacute; trouba</trd>
+  </trdgrp>
   <trd lng="de">Ofen</trd>
-  <trd lng="fr">four<klr tip="ind"> (chambre de cuisson)</klr></trd>
   <trd lng="en">oven</trd>
+  <trd lng="fr">four<klr tip="ind"> (chambre de cuisson)</klr></trd>
   <trd lng="hu">s&uuml;t&odblac;<klr tip="ind">
   (t&udblac;zhelyen)</klr></trd>
   <trd lng="nl">oven</trd>
-  <trd lng="sk">pec</trd>
+  <trdgrp lng="sk">
+    <trd>pec</trd>,
+    <trd>pec na pe&ccaron;enie</trd>,
+    <trd>pec na vypa&lcaron;ovanie hrncov</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bak.fresx0ita">
@@ -262,6 +280,8 @@
       <ref cel="novic.0o.novulo">novico<sncref/></ref>
     </refgrp>
   </snc>
+  <trdgrp lng="en"><trd>freshly baked</trd><trd>green</trd>,
+  <trd>fresh</trd>, <trd>new</trd></trdgrp>
   <trdgrp lng="ca">
     <trd>pipioli</trd>,
     <trd>noven&ccedil;&agrave;</trd>
@@ -281,6 +301,18 @@
 </art>
 <!--
 $Log: bak.xml,v $
+Revision 1.41  2015/10/01 12:10:19  revo
+Evandro Avellar: +trd pt
+
+Revision 1.40  2015/09/12 19:10:18  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.39  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.38  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.37  2013/12/08 15:10:22  revo
 Andreo Jankovskij: ukrajna
 
@@ -291,17 +323,5 @@ Revision 1.35  2011/05/11 11:10:09  revo
 Jeromo Vasxe: + 1 ref
 
 Revision 1.34  2009/02/19 20:26:27  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.33  2008/12/27 17:30:24  revo
-Wieland Pusch: +trd bg
-
-Revision 1.32  2008/03/31 17:53:01  revo
-Jeromo Vasxe: + 2 mrk
-
-Revision 1.31  2007/06/21 16:30:28  revo
-Jeromo Vasxe: + fresx~ita
-
-Revision 1.30  2005/12/22 17:31:42  revo
 -->
 </vortaro>

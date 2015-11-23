@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vimen.xml,v 1.14 2014/04/10 08:10:14 revo Exp $">
+<art mrk="$Id: vimen.xml,v 1.16 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <rad>vimen</rad>/o
 </kap>
@@ -22,6 +22,7 @@
   </trdgrp>
   <trd lng="bg">&c_r;&c_a;&c_k;&c_i;&c_t;&c_a;</trd>
   <trd lng="ca">vimetera</trd>
+  <trd lng="cs">vrba košíkářská</trd>
   <trd lng="de">Korbweide</trd>
   <trdgrp lng="en">
     <trd>osier</trd>,
@@ -41,10 +42,17 @@
   </trdgrp>
   <trd lng="ru">&c_i;&c_v;&c_a;
 &c_p;&c_r;&c_u;&c_t;&c_o;&c_v;&c_i;&c_d;&c_n;&c_a;&c_ja;</trd>
+  <trd lng="sk">košikárska vŕba</trd>
 </drv>
 </art>
 <!--
 $Log: vimen.xml,v $
+Revision 1.16  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2014/04/10 08:10:14  revo
 Damien Brucker: +mrk cxe snc
 

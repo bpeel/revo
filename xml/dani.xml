@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dani.xml,v 1.13 2014/06/23 06:10:11 revo Exp $">
+<art mrk="$Id: dani.xml,v 1.15 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>Dani</rad>/o
 </kap>
@@ -25,6 +25,7 @@
     <trd>Dinamarca</trd>,
     <trd>Regne de Dinamarca</trd>
   </trdgrp>
+  <trd lng="cs">Dánsko</trd>
   <trd lng="de">D&auml;nemark</trd>
   <trd lng="en">Denmark</trd>
   <trd lng="es">Dinamarca</trd>
@@ -35,11 +36,18 @@
   <trd lng="nl">Denemarken</trd>
   <trd lng="no">Danmark</trd>
   <trd lng="pl">Dania</trd>
+  <trd lng="sk">Dánsko</trd>
 </drv>
 </art>
 
 <!--
 $Log: dani.xml,v $
+Revision 1.15  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2014/06/23 06:10:11  revo
 Eko Nur Syah Hidayat: +id
 

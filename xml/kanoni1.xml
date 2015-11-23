@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kanoni1.xml,v 1.13 2009/08/23 16:33:31 revo Exp $">
+<art mrk="$Id: kanoni1.xml,v 1.15 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <rad>kanoniz</rad>/i
   <fnt>B</fnt>
@@ -21,6 +21,10 @@
     </rim>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_n;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>kanonizovat</trd>,
+    <trd>prohlásit za svatého</trd>
+  </trdgrp>
   <trd lng="de">kanonisieren</trd>
   <trd lng="es">canonizar</trd>
   <trd lng="fr">canoniser</trd>
@@ -34,10 +38,17 @@
     <trd>zalig verklaren<klr tip="ind"> (ontr.)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_a;&c_n;&c_o;&c_n;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">kanonizovať</trd>
 </drv>
 </art>
 <!--
 $Log: kanoni1.xml,v $
+Revision 1.15  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2009/08/23 16:33:31  revo
 Paul Peeraerts: +trd nl
 

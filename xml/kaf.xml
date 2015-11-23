@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kaf.xml,v 1.55 2013/10/16 16:10:15 revo Exp $">
+<art mrk="$Id: kaf.xml,v 1.58 2015/07/04 08:37:36 revo Exp $">
 <kap>
     <ofc>*</ofc>
     <rad>kaf</rad>/o <fnt><bib>PV</bib></fnt>
@@ -65,7 +65,7 @@
           <aut>J. Modest</aut>,
           <vrk>La ringo</vrk>,
           <bib>Monato</bib>,
-          <lok>jaro 2002a, numero 3a, p. 32a</lok>
+          <lok>2002:3, p. 32a</lok>
           </fnt>.
         </ekz>
       </dif>
@@ -76,22 +76,26 @@
       <trd lng="sv">kaffe</trd>
       <trd lng="pt">caf&eacute;</trd>
     </snc>
-    <trd lng="be">&c_k;&c_a;&c_v;&c_a;</trd>
-    <trd lng="bg">&c_k;&c_a;&c_f;&c_je;</trd>
-    <trd lng="ca">caf&egrave;</trd>
-    <trd lng="cs">k&aacute;va</trd>
-    <trd lng="de">Kaffee</trd>
-    <trd lng="es">caf&eacute;</trd>
-    <trd lng="fi">kahvi</trd>
-    <trd lng="it">caff&egrave;<klr> (bevanda)</klr></trd>
-    <trd lng="nl">koffie</trd>
-    <trd lng="oc">caf&egrave;</trd>
-    <trd lng="pl">kawa</trd>
-    <trd lng="ro">cafea</trd>
-    <trd lng="ru">&c_k;&c_o;&c_f;&c_je;</trd>
-    <trd lng="sv">kaffe</trd>
-    <trd lng="tr">kahve<klr>(i&ccedil;ecek)</klr></trd>
-    <trd lng="vo">kaf</trd>
+  <trd lng="be">&c_k;&c_a;&c_v;&c_a;</trd>
+  <trd lng="bg">&c_k;&c_a;&c_f;&c_je;</trd>
+  <trd lng="ca">caf&egrave;</trd>
+  <trdgrp lng="cs">
+    <trd>k&aacute;va</trd>,
+    <trd>kafe</trd>
+  </trdgrp>
+  <trd lng="de">Kaffee</trd>
+  <trd lng="es">caf&eacute;</trd>
+  <trd lng="fi">kahvi</trd>
+  <trd lng="it">caff&egrave;<klr> (bevanda)</klr></trd>
+  <trd lng="nl">koffie</trd>
+  <trd lng="oc">caf&egrave;</trd>
+  <trd lng="pl">kawa</trd>
+  <trd lng="ro">cafea</trd>
+  <trd lng="ru">&c_k;&c_o;&c_f;&c_je;</trd>
+  <trd lng="sk">káva</trd>
+  <trd lng="sv">kaffe</trd>
+  <trd lng="tr">kahve<klr>(i&ccedil;ecek)</klr></trd>
+  <trd lng="vo">kaf</trd>
 </drv>
 
 <drv mrk="kaf.0ejo">
@@ -106,43 +110,48 @@
           <aut>J. Modest</aut>,
           <vrk>Vetiha</vrk>,
           <bib>Monato</bib>,
-          <lok>jaro 2001a, numero 2a, p. 26a</lok>
+          <lok>2001:2, p. 26a</lok>
           </fnt>.
         </ekz>
       </dif>
     </snc>
-    <trd lng="be">&c_k;&c_a;&c_v;&c_ja;&c_r;&c_n;&c_ja;</trd>
-    <trdgrp lng="br">
+  <trd lng="be">&c_k;&c_a;&c_v;&c_ja;&c_r;&c_n;&c_ja;</trd>
+  <trdgrp lng="br">
       <trd>kafedi</trd>,
       <trd>ti-kafe</trd>
     </trdgrp>
-    <trd lng="ca">caf&egrave;</trd>
-    <trdgrp lng="de">
+  <trd lng="ca">caf&egrave;</trd>
+  <trdgrp lng="cs">
+    <trd>café</trd>,
+    <trd>kavárna</trd>
+  </trdgrp>
+  <trdgrp lng="de">
       <trd>Caf&eacute;</trd>,
       <trd>Kaffeehaus</trd>
     </trdgrp>
-    <trd lng="fi">kahvila</trd>
-    <trdgrp lng="en">
+  <trdgrp lng="en">
       <trd>cafe</trd>,
       <trd>coffee house</trd>
     </trdgrp>
-    <trd lng="es">cafeter&iacute;a</trd>
-    <trd lng="fr">caf&eacute;<klr tip="ind"> (lieu)</klr></trd>
-    <trd lng="hu">k&aacute;v&eacute;h&aacute;z</trd>
-    <trd lng="it">caff&egrave;<klr> (luogo)</klr></trd>
-    <trd lng="nl">caf&eacute;</trd>
-    <trd lng="oc">caf&egrave;</trd>
-    <trd lng="pl">kawiarnia</trd>
+  <trd lng="es">cafeter&iacute;a</trd>
+  <trd lng="fi">kahvila</trd>
+  <trd lng="fr">caf&eacute;<klr tip="ind"> (lieu)</klr></trd>
+  <trd lng="hu">k&aacute;v&eacute;h&aacute;z</trd>
+  <trd lng="it">caff&egrave;<klr> (luogo)</klr></trd>
+  <trd lng="nl">caf&eacute;</trd>
+  <trd lng="oc">caf&egrave;</trd>
+  <trd lng="pl">kawiarnia</trd>
   <trdgrp lng="pt">
     <trd>caf&eacute; <klr tip="amb">(local)</klr></trd>,
     <trd>cafeteria</trd>
   </trdgrp>
-    <trdgrp lng="ru">
+  <trdgrp lng="ru">
       <trd>&c_k;&c_o;&c_f;&c_je;&c_j;&c_n;&c_ja;</trd>,
       <trd>&c_k;&c_a;&c_f;&c_je;</trd>
     </trdgrp>
-    <trd lng="sv">kaf&eacute;</trd>
-    <trd lng="tr">kahvehane</trd>
+  <trd lng="sk">kaviareň</trd>
+  <trd lng="sv">kaf&eacute;</trd>
+  <trd lng="tr">kahvehane</trd>
 </drv>
 
 <drv mrk="kaf.0ujo">
@@ -198,6 +207,38 @@
       &c_k;&c_o;&c_r;&c_o;&c_b;&c_k;&c_a; &c_d;&c_l;&c_ja; &c_k;&c_o;&c_f;&c_je;)</klr></trd>
       <trd lng="sv">kaffeburk</trd>
     </snc>
+  <trd lng="cs">kávová konvice || krabička na kávu || kávovník <klr>(stromek| keř)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>dóza</trd>,
+    <trd>plechovka na kávu</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kaf.0umi">
+  <kap><tld/>umi</kap>
+  <snc mrk="kaf.0umi.KOMUNE">
+    <dif>
+      Trinki <tld/>on, precipe malhaste, en societo:
+      <ekz>
+        kelkaj gesamideanoj de nia grupo de Malago kunsidis por 
+        <tld/>umi
+        <fnt>
+          <aut>&Aacute;. Arquillos</aut>,
+          <vrk><url
+          ref="http://andaluciaesperanto.blogspot.fr/2011/04/vizitis-nin-john-gobourne-el-britio.html">
+          Vizitis nin John Gobourne el Britio</url></vrk>,
+          <lok>Andaluzia Esperanto Unui&gcirc;o, 2011-04-29</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dát si kávu</trd>,
+    <trd>pochutnat si na kávě</trd>,
+    <trd>pít kávu</trd>
+  </trdgrp>
+  <trd lng="fr">prendre le caf&eacute;</trd>
+  <trd lng="sk">dať si kávu</trd>
 </drv>
 
 <drv mrk="kaf.0arbo">
@@ -234,6 +275,8 @@
       <trd lng="ru">&c_k;&c_o;&c_f;&c_je;&c_j;&c_n;&c_o;&c_je; &c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
       <trd lng="tr">kahve bitkisi</trd>
     </snc>
+  <trd lng="cs">kávovník</trd>
+  <trd lng="sk">kávovník</trd>
 </drv>
 
 <drv mrk="kaf.koncert0ejo">
@@ -271,6 +314,8 @@ spectacle)</klr></trd>,
       <trd>&c_k;&c_a;&c_f;&c_je;-&c_sh;&c_a;&c_n;&c_t;&c_a;&c_n;</trd>,
       <trd>&c_k;&c_a;&c_b;&c_a;&c_r;&c_je;</trd>
     </trdgrp>
+  <trd lng="sk">kaviareň s hudbou</trd>
+  <trd lng="cs">koncertní kavárna</trd>
 </drv>
 
 <drv mrk="kaf.ret0ejo">
@@ -330,6 +375,15 @@ tip="amb"> (&c_k;&c_o;&c_r;&c_o;&c_b;&c_k;&c_a; &c_d;&c_l;&c_ja;
 </art>
 <!--
 $Log: kaf.xml,v $
+Revision 1.58  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.57  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.56  2015/01/17 21:10:23  revo
+Jeromo Vasxe: + ~umi
+
 Revision 1.55  2013/10/16 16:10:15  revo
 Benito Subejrano: + trd ca oc
 
@@ -349,8 +403,5 @@ Revision 1.50  2009/08/25 16:32:06  revo
 Emmanuel Debanne: +trd tr
 
 Revision 1.49  2009/07/02 16:31:05  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.48  2009/03/12 17:31:36  revo
 -->
 </vortaro>

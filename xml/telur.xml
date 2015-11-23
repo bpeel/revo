@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: telur.xml,v 1.16 2014/06/04 03:10:42 revo Exp $">
+<art mrk="$Id: telur.xml,v 1.18 2015/07/04 08:37:44 revo Exp $">
 <kap>
    <rad>telur</rad>/o
 </kap>
@@ -18,27 +18,41 @@
        <ref tip="super" cel="metalo.0o">metaloido</ref>.
      </dif>
    </snc>
-   <trd lng="be">&c_t;&c_e;&c_l;&c_ju;&c_r;</trd>
-   <trd lng="bg">&c_t;&c_je;&c_l;&c_u;&c_r;</trd>
-   <trd lng="br">tellur</trd>
-   <trd lng="ca">tel&middot;luri</trd>
-   <trd lng="de">Tellur</trd>
-   <trd lng="en">tellurium</trd>
-   <trd lng="es">telurio</trd>
-   <trd lng="fr">tellure</trd>
-   <trd lng="hu">tell&uacute;r</trd>
-   <trd lng="id">telurium</trd>
-   <trd lng="it">tellurio</trd>
-   <trd lng="la">Tellurium</trd>
-   <trd lng="nl">telluur</trd>
-   <trd lng="pl">tellur</trd>
-   <trd lng="pt">tel&uacute;rio</trd>
-   <trd lng="ru">&c_t;&c_je;&c_l;&c_l;&c_u;&c_r;</trd>
-   <trd lng="sv">tellur</trd>
+  <trd lng="be">&c_t;&c_e;&c_l;&c_ju;&c_r;</trd>
+  <trd lng="bg">&c_t;&c_je;&c_l;&c_u;&c_r;</trd>
+  <trd lng="br">tellur</trd>
+  <trd lng="ca">tel&middot;luri</trd>
+  <trdgrp lng="cs">
+    <trd>Te</trd>,
+    <trd>telur</trd>
+  </trdgrp>
+  <trd lng="de">Tellur</trd>
+  <trd lng="en">tellurium</trd>
+  <trd lng="es">telurio</trd>
+  <trd lng="fr">tellure</trd>
+  <trd lng="hu">tell&uacute;r</trd>
+  <trd lng="id">telurium</trd>
+  <trd lng="it">tellurio</trd>
+  <trd lng="la">Tellurium</trd>
+  <trd lng="nl">telluur</trd>
+  <trd lng="pl">tellur</trd>
+  <trd lng="pt">tel&uacute;rio</trd>
+  <trd lng="ru">&c_t;&c_je;&c_l;&c_l;&c_u;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>Te</trd>,
+    <trd>telúr</trd>
+  </trdgrp>
+  <trd lng="sv">tellur</trd>
 </drv>
 </art>
 <!--
 $Log: telur.xml,v $
+Revision 1.18  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2014/06/04 03:10:42  revo
 Eko Nur Syah Hidayat: +id
 

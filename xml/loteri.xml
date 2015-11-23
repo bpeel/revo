@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: loteri.xml,v 1.16 2007/04/19 16:30:41 revo Exp $">
+<art mrk="$Id: loteri.xml,v 1.18 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>loteri</rad>/o <fnt><bib>PV</bib></fnt>
@@ -37,6 +37,7 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_l;&c_ja;&c_t;&c_a;&c_r;&c_e;&c_ja;</trd>
+  <trd lng="cs">loterie</trd>
   <trdgrp lng="de">
     <trd>Lotterie</trd>
   </trdgrp>
@@ -47,10 +48,17 @@
   <trd lng="nl">loterij</trd>
   <trd lng="pt">loteria</trd>
   <trd lng="ru">&c_l;&c_o;&c_t;&c_je;&c_r;&c_je;&c_ja;</trd>
+  <trd lng="sk">lotéria</trd>
 </drv>
 </art>
 <!--
 $Log: loteri.xml,v $
+Revision 1.18  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2007/04/19 16:30:41  revo
 Jeromo Vasxe: + mrk + fak + trd fr
 

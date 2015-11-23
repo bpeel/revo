@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: amas.xml,v 1.28 2014/07/28 10:10:12 revo Exp $">
+<art mrk="$Id: amas.xml,v 1.32 2015/10/01 13:10:53 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>amas</rad>/o <fnt><bib>PV</bib></fnt>
@@ -62,7 +62,13 @@
     <trd>pila</trd>,
     <trd>muni&oacute;</trd>
   </trdgrp>
-  <trd lng="cs">hromada</trd>
+  <trdgrp lng="cs">
+    <trd>dav</trd>,
+    <trd>halda</trd>,
+    <trd>hejno</trd>,
+    <trd>hromada</trd>,
+    <trd>kupa</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Masse</trd>,
     <trd>Menge</trd>,
@@ -79,25 +85,27 @@
     <trd>multitude</trd>,
     <trd>foule</trd>
   </trdgrp>
+  <trd lng="it">massa</trd>
   <trdgrp lng="nl">
     <trd>massa</trd>,
     <trd>menigte</trd>
   </trdgrp>
-  <trd lng="it">massa</trd>
   <trdgrp lng="pl">
     <trd>masa</trd>,
     <trd>t&lstroke;um</trd>,
     <trd>kupa</trd>,
     <trd>t&lstroke;uszcza</trd>
   </trdgrp>
+  <trd lng="pt">multid&atilde;o</trd>
   <trdgrp lng="ru">
     <trd>&c_t;&c_o;&c_l;&c_p;&c_a;</trd>,
     <trd>&c_s;&c_k;&c_o;&c_p;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_k;&c_u;&c_ch;&c_a;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>kopa</trd>,
     <trd>hromada</trd>,
+    <trd>h&racute;ba</trd>,
+    <trd>kopa</trd>,
     <trd>masa</trd>
   </trdgrp>
 </drv>
@@ -118,6 +126,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hromadn&yacute;</trd>,
+    <trd>masov&yacute;</trd>
+  </trdgrp>
+  <trd lng="en">mass</trd>
   <trdgrp lng="es">
     <trd>masiva</trd>,
     <trd>de <ind>masas</ind></trd>,
@@ -126,6 +139,10 @@
   <trdgrp lng="fr">
     <trd>de <ind>masse</ind></trd>,
     <trd>massif</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hromadn&yacute;</trd>,
+    <trd>masov&yacute;</trd>
   </trdgrp>
 </drv>
 
@@ -154,6 +171,14 @@
     <trd>reunir</trd>,
     <trd>acumular</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hromadit</trd>,
+    <trd>kumulovat</trd>,
+    <trd>nakupit</trd>,
+    <trd>shrnout na hromadu</trd>,
+    <trd>sn&aacute;&scaron;et na hromadu</trd>,
+    <trd>st&rcaron;&aacute;dat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>anh&auml;ufen</trd>,
     <trd>massieren</trd>
@@ -178,7 +203,11 @@
     <trd>&c_n;&c_a;&c_k;&c_o;&c_p;&c_l;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_g;&c_r;&c_o;&c_m;&c_o;&c_z;&c_d;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">hromadi&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>hromadi&tcaron;</trd>,
+    <trd>nahromadi&tcaron;</trd>,
+    <trd>zhroma&zcaron;di&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="amas.0igxi">
@@ -199,6 +228,7 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="en"><trd>to amass</trd>, <trd>mass</trd></trdgrp>
   <trdgrp lng="es">
     <trd><ind>reunir</ind>se</trd>,
     <trd><ind>congregar</ind>se</trd>
@@ -225,6 +255,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">mass</trd>
   <trdgrp lng="es">
     <trd>acumulaci&oacute;n</trd>,
     <trd>hacinamiento</trd>
@@ -253,13 +284,22 @@
     <trd>gentada</trd>,
     <trd>multitud</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ma&ccaron;kanice</trd>,
+    <trd>tla&ccaron;enice</trd>
+  </trdgrp>
   <trd lng="de">Menschenmasse</trd>
+  <trd lng="en">crowd</trd>
   <trd lng="es">multitud</trd>
   <trd lng="fr">foule</trd>
-  <trd lng="ru">&c_t;&c_o;&c_l;&c_p;&c_a;</trd>
   <trdgrp lng="pl">
     <trd>t&lstroke;um</trd>,
     <trd>t&lstroke;uszcza</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_o;&c_l;&c_p;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>dav</trd>,
+    <trd>masa &lcaron;ud&iacute;</trd>
   </trdgrp>
 </drv>
 
@@ -321,11 +361,24 @@
     <ctl>informilo</ctl>, &ccirc;ar ili estas unudirektaj.
     <aut>Sergio Pokrovskij</aut>
   </rim>
+  <trd lng="en">mass communication</trd>
 </drv>
 
 </art>
 <!--
 $Log: amas.xml,v $
+Revision 1.32  2015/10/01 13:10:53  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.31  2015/09/10 11:10:22  revo
+Evandro Avellar: +trd pt
+
+Revision 1.30  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.28  2014/07/28 10:10:12  revo
 Guillermo Molleda Jimena: Hispana tradukado
 
@@ -336,17 +389,5 @@ Revision 1.26  2011/11/21 17:10:15  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.25  2007/12/03 17:30:30  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.24  2007/06/10 16:31:44  revo
-Wieland Pusch: +trd de
-
-Revision 1.23  2005/02/09 17:31:31  revo
-Sergio Pokrovskij: +~informilo
-
-Revision 1.22  2003/12/21 17:30:42  revo
-Jeromo Vasxe: + hom~o, ~o + 1 ekz fund.
-
-Revision 1.21 2003/02/16 17:33:28 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kavali.xml,v 1.17 2013/04/15 11:10:31 revo Exp $">
+<art mrk="$Id: kavali.xml,v 1.19 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kavalir</rad>/o
@@ -98,6 +98,15 @@
     </klr></trd>
   </snc>
   <trd lng="br">marc'heg</trd>
+  <trdgrp lng="cs">
+    <trd>galantní člověk</trd>,
+    <trd>kavalír</trd>,
+    <trd>rytíř</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>gavalier</trd>,
+    <trd>rytier</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kavali.0eco">
@@ -172,7 +181,12 @@
   </snc>
   <trd lng="be">&c_r;&c_y;&c_c;&c_a;&c_r;&c_s;&c_k;&c_ib;</trd>
   <trd lng="br">-<ind>marc'heg</ind></trd>
-    <trdgrp lng="en">
+  <trdgrp lng="cs">
+    <trd>kavalírský</trd>,
+    <trd>rytířský</trd>,
+    <trd>velkomyslný</trd>
+  </trdgrp>
+  <trdgrp lng="en">
       <trd>knightly</trd>,
       <trd>chivalrous</trd>,
       <trd>gallant</trd>
@@ -186,6 +200,11 @@
     <trd>
     &c_r;&c_y;&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;
     </trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>gavaliersky</trd>,
+    <trd>rytiersky</trd>,
+    <trd>veľkomyseľný</trd>
   </trdgrp>
 </drv>
 
@@ -218,6 +237,12 @@
 </art>
 <!--
 $Log: kavali.xml,v $
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/04/15 11:10:31  revo
 Sebastian Cyprych: +trd pl
 

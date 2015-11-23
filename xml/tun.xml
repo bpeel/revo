@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tun.xml,v 1.22 2013/12/02 12:10:15 revo Exp $">
+<art mrk="$Id: tun.xml,v 1.24 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>tun</rad>/o
@@ -49,10 +49,21 @@
     <trd lng="ca">tonyina</trd>
     <trd lng="fr">thon</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>tuna</trd>,
+    <trd>zkr. t</trd>
+  </trdgrp>
+  <trd lng="sk">tona</trd>
 </drv>
 </art>
 <!--
 $Log: tun.xml,v $
+Revision 1.24  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2013/12/02 12:10:15  revo
 Damien Brucker: +trd fr
 

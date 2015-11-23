@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ke.xml,v 1.18 2012/01/02 19:10:19 revo Exp $">
+<art mrk="$Id: ke.xml,v 1.20 2015/07/04 08:37:37 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>ke</rad>
@@ -218,10 +218,24 @@ akompanos.
 &c_n;&c_a;&c_k;&c_l;&c_o;&c_n;&c_je;&c_n;&c_i;&c_je;&c_m;)</klr></trd>
    </trdgrp>
    <trd lng="vo">das</trd>
+  <trdgrp lng="sk">
+    <trd>aby</trd>,
+    <trd>že</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>aby</trd>,
+    <trd>nechť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ke.xml,v $
+Revision 1.20  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/01/02 19:10:19  revo
 Marc Rausell: +trd ca
 

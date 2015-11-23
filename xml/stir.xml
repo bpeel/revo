@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stir.xml,v 1.13 2013/09/13 19:10:10 revo Exp $">
+<art mrk="$Id: stir.xml,v 1.15 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>stir</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -61,6 +61,7 @@
       (ekzemple pri senpilota avio a&ubreve; raketo).
     </dif>
   </snc>
+  <trd lng="cs">lodní můstek</trd>
   <trd lng="fr">cabine de pilotage</trd>
   <trdgrp lng="hu">
     <trd>vezet&odblac;f&uuml;lke</trd>,
@@ -76,6 +77,7 @@
     <trd>&c_c;&c_je;&c_n;&c_t;&c_r; &c_u;&c_p;&c_r;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_ja; <klr>(&c_p;&c_o;&c_l;&c_jo;&c_t;&c_o;&c_m; &c_i;
     &c_t;.&c_p;..)</klr></trd>
   </trdgrp>
+  <trd lng="sk">miestnosť kormidelníka</trd>
 </drv>
 
 <drv mrk="stir.0ilo">
@@ -97,6 +99,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kormidlo</trd>,
+    <trd>volant</trd>,
+    <trd>řidítka</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>volante</trd>,
     <trd>manillar</trd>,
@@ -107,7 +114,7 @@
     <trd>dispositif de guidage</trd>,
     <trd>volant<klr> subst.</klr></trd>
   </trdgrp>
-  <trd lng="hu">korm&aacute;ny</trd>  
+  <trd lng="hu">korm&aacute;ny</trd>
   <trdgrp lng="nl">
     <trd>stuur</trd>,
     <trd>stuurstang</trd>
@@ -115,6 +122,11 @@
   <trdgrp lng="ru">
     <trd>&c_u;&c_s;&c_t;&c_r;&c_o;&c_j;&c_s;&c_t;&c_v;&c_o; &c_u;&c_p;&c_r;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_ja;</trd>,
     <trd>&c_r;&c_u;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kormidlo</trd>,
+    <trd>riadidlá</trd>,
+    <trd>volant</trd>
   </trdgrp>
 </drv>
 
@@ -151,15 +163,17 @@
       Lernejo pri a&ubreve;tomobil<tld/>ado.
     </dif>
   </snc>
+  <trd lng="cs">autoškola</trd>
   <trd lng="es">autoescuela</trd>
   <trd lng="fr">auto-&eacute;cole</trd>
-  <trd lng="hu">aut&oacute;siskola</trd>  
+  <trd lng="hu">aut&oacute;siskola</trd>
   <trdgrp lng="it">
     <trd>autoscuola</trd>,
     <trd><ind>scuola</ind> guida</trd>
   </trdgrp>
   <trd lng="nl">autorijschool</trd>
   <trd lng="ru">&c_a;&c_v;&c_t;&c_o;&c_sh;&c_k;&c_o;&c_l;&c_a;</trd>
+  <trd lng="sk">autoškola</trd>
 </drv>
 
 <drv mrk="stir.0signo">
@@ -174,14 +188,16 @@
       ka&ubreve;zanta la <ctl>&ccirc;aret-revenon</ctl>.
     </dif>
   </snc>
+  <trd lng="cs">ovládací klávesa <klr>(schift| ctrl..)</klr></trd>
   <trd lng="de">Steuerzeichen</trd>
   <trd lng="en">control character</trd>
   <trd lng="fr">caract&egrave;re de commande</trd>
-  <trd lng="hu">vez&eacute;rl&odblac;karakter</trd>  
+  <trd lng="hu">vez&eacute;rl&odblac;karakter</trd>
   <trd lng="it">carattere di controllo</trd>
   <trd lng="nl">stuurteken</trd>
   <trd lng="pl">znak steruj&aogonek;cy</trd>
   <trd lng="ru">&c_u;&c_p;&c_r;&c_a;&c_v;&c_l;&c_ja;&c_ju;&c_shch;&c_a;&c_ja; &c_l;&c_i;&c_t;&c_je;&c_r;&c_a;</trd>
+  <trd lng="sk">ovládacia klávesa</trd>
 </drv>
 
 <drv mrk="stir.0stango">
@@ -223,7 +239,15 @@
       <trd>&c_d;&c_zh;&c_o;&c_j;&c_s;&c_t;&c_i;&c_k;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>knipl letadla</trd>,
+    <trd>řídící páka</trd>
+  </trdgrp>
   <trd lng="en">joystick</trd>
+  <trdgrp lng="sk">
+    <trd>knipel lietadla</trd>,
+    <trd>riadiaca páka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="stir.mem0a">
@@ -276,6 +300,12 @@
 </art>
 <!--
 $Log: stir.xml,v $
+Revision 1.15  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2013/09/13 19:10:10  revo
 Carlos Garcia: +trd es -i -ilo -lernejo -globo -stango mem-a defora-ado
 

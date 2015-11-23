@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plag.xml,v 1.15 2014/01/07 07:10:23 revo Exp $">
+<art mrk="$Id: plag.xml,v 1.17 2015/07/04 08:37:41 revo Exp $">
 <kap>
     <ofc>4</ofc>
     <rad>plag</rad>/o
@@ -33,22 +33,33 @@
       <trd>calamit&eacute;</trd>
      </trdgrp>
     </snc>
-    <trdgrp lng="be">
+  <trdgrp lng="be">
       <trd>&c_b;&c_je;&c_d;&c_s;&c_t;&c_v;&c_a;</trd>, 
       <trd>&c_n;&c_a;&c_v;&c_a;&c_l;&c_a;</trd>, 
       <trd>&c_p;&c_l;&c_ja;&c_g;&c_a;</trd>
     </trdgrp>
-    <trd lng="de">Plage</trd>
-    <trd lng="en">plague</trd>
-    <trd lng="es">plaga</trd>
-    <trdgrp lng="hu">
+  <trdgrp lng="cs">
+    <trd>kalamita</trd>,
+    <trd>neštěstí</trd>,
+    <trd>pohroma</trd>,
+    <trd>strast</trd>,
+    <trd>trest boží</trd>
+  </trdgrp>
+  <trd lng="de">Plage</trd>
+  <trd lng="en">plague</trd>
+  <trd lng="es">plaga</trd>
+  <trd lng="fr">plaie<klr tip="ind"> (fl&eacute;au)</klr></trd>
+  <trdgrp lng="hu">
       <trd>sorscsap&aacute;s</trd>,
       <trd>baj</trd>
     </trdgrp>
-    <trd lng="nl">plaag</trd>
-    <trd lng="fr">plaie<klr tip="ind"> (fl&eacute;au)</klr></trd>
-    <trd lng="pt">praga</trd>
-    <trd lng="ru">&c_b;&c_je;&c_d;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
+  <trd lng="nl">plaag</trd>
+  <trd lng="pt">praga</trd>
+  <trd lng="ru">&c_b;&c_je;&c_d;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>pliaga</trd>,
+    <trd>pohroma</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="plag.0i">
@@ -81,14 +92,28 @@
       <trd lng="hu">csap&aacute;ssal s&uacute;jt</trd>
       <trd lng="ru">&c_r;&c_a;&c_z;&c_r;&c_u;&c_sh;&c_i;&c_t;&c_mol;</trd>
     </snc>
-    <trd lng="de">plagen</trd>
-    <trd lng="en">plague</trd>
-    <trd lng="es">sufrir una plaga</trd>
-    <trd lng="nl">teisteren</trd>
+  <trdgrp lng="cs">
+    <trd>potrestat pohromou</trd>,
+    <trd>zničit pohromou</trd>
+  </trdgrp>
+  <trd lng="de">plagen</trd>
+  <trd lng="en">plague</trd>
+  <trd lng="es">sufrir una plaga</trd>
+  <trd lng="nl">teisteren</trd>
+  <trdgrp lng="sk">
+    <trd>pliagou</trd>,
+    <trd>trestať pohromou</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: plag.xml,v $
+Revision 1.17  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2014/01/07 07:10:23  revo
 Sebastian Cyprych: +trd pl
 

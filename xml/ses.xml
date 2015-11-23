@@ -2,7 +2,7 @@
 
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: ses.xml,v 1.44 2013/10/31 11:10:37 revo Exp $">
+<art mrk="$Id: ses.xml,v 1.46 2015/07/04 08:37:43 revo Exp $">
  <kap><ofc>*</ofc> <rad>ses</rad></kap>
 
 <drv mrk="ses.0">
@@ -31,6 +31,7 @@
   <trd lng="nl">zes</trd>
   <trd lng="pl">sze&sacute;&cacute;</trd>
   <trd lng="ru">&c_sh;&c_je;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">šesť</trd>
   <trd lng="sv">sex</trd>
   <trd lng="tr">alt&inodot;</trd>
   <trd lng="vo">m&auml;l</trd>
@@ -103,6 +104,8 @@
 			<trd lng="pl">sze&sacute;&cacute;dziesi&eogonek;tny</trd>
 			<trd lng="ru">&c_sh;&c_je;&c_s;&c_t;&c_i;&c_d;&c_je;&c_s;&c_ja;&c_t;e&c_r;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
   </snc>
+  <trd lng="cs">šedesátkový</trd>
+  <trd lng="sk">šesťdesiatkový</trd>
 </drv>
 
 </art>
@@ -110,6 +113,12 @@
 <!--
 
 $Log: ses.xml,v $
+Revision 1.46  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.45  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.44  2013/10/31 11:10:37  revo
 Wolfram Diestel: +val, smb
 

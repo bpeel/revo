@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fajf.xml,v 1.27 2013/07/26 01:10:22 revo Exp $">
+<art mrk="$Id: fajf.xml,v 1.29 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fajf</rad>/i <fnt><bib>PV</bib></fnt>
@@ -55,18 +55,24 @@
     <trd>sutal</trd>
   </trdgrp>
   <trd lng="ca">xiular</trd>
+  <trdgrp lng="cs">
+    <trd>houkat</trd>,
+    <trd>hvízdat</trd>,
+    <trd>pískat</trd>
+  </trdgrp>
   <trd lng="de">pfeifen</trd>
-  <trd lng="es">silbar</trd>
-  <trd lng="nl">fluiten</trd>
   <trd lng="en">whistle</trd>
+  <trd lng="es">silbar</trd>
   <trd lng="fr">siffler</trd>
   <trd lng="hu">f&uuml;ty&uuml;l</trd>
+  <trd lng="nl">fluiten</trd>
   <trd lng="pl">gwizda&cacute;</trd>
   <trdgrp lng="pt">
     <trd>assobiar</trd>,
     <trd>assoviar</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_v;&c_i;&c_s;&c_t;&c_je;&c_t;&c_mol;</trd>
+  <trd lng="sk">pískať</trd>
   <trd lng="tr">&inodot;sl&inodot;k &ccedil;almak</trd>
 </drv>
 
@@ -86,9 +92,11 @@
     <trd>xiulit</trd>,
     <trd>xiulet<klr> (so)</klr></trd>
   </trdgrp>
+  <trd lng="cs">pískání</trd>
   <trd lng="fr">sifflement</trd>
   <trd lng="nl">gefluit</trd>
   <trd lng="ru">&c_s;&c_v;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">pískanie</trd>
   <trd lng="tr">&inodot;sl&inodot;k</trd>
 </drv>
 
@@ -111,6 +119,7 @@
     <trd>sutell</trd>
   </trdgrp>
   <trd lng="ca">xiulet<klr> (instrument)</klr></trd>
+  <trd lng="cs">píšťalka</trd>
   <trd lng="de">Pfeife</trd>
   <trd lng="en">whistle</trd>
   <trd lng="es">silbato</trd>
@@ -125,6 +134,7 @@
     <trd>&c_s;&c_v;&c_i;&c_s;&c_t;&c_o;&c_k;</trd>,
     <trd>&c_s;&c_v;&c_i;&c_s;&c_t;&c_u;&c_l;&c_mol;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">píšťalka</trd>
   <trdgrp lng="tr">
     <trd>&inodot;sl&inodot;k</trd>,
     <trd>d&uuml;d&uuml;k</trd>
@@ -154,6 +164,10 @@
     <trd>sirena</trd>,
     <trd>naut&ograve;fon</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>píšťala lodní</trd>,
+    <trd>tovární</trd>
+  </trdgrp>
   <trd lng="de">Sirene</trd>
   <trd lng="en">fog horn</trd>
   <trd lng="es">sirena<klr tip="amb"> (sonora)</klr></trd>
@@ -167,6 +181,10 @@
   <trdgrp lng="ru">
     <trd>&c_g;&c_u;&c_d;&c_o;&c_k;</trd>,
     <trd>&c_s;&c_i;&c_r;&c_je;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>píšťala <klr>(lode, lokomotívy)</klr></trd>,
+    <trd>siréna</trd>
   </trdgrp>
 </drv>
 
@@ -243,12 +261,19 @@
   <trd lng="nl">uitfluiten</trd>
   <trd lng="pl">&sacute;wista&cacute;</trd>
   <trd lng="ru">&c_o;&c_s;&c_v;&c_i;&c_s;&c_t;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">vypískať</trd>
   <trd lng="tr">&inodot;sl&inodot;klamak<klr>(birilerini yuhlamak)</klr></trd>
 </drv>
 
 </art>
 <!--
 $Log: fajf.xml,v $
+Revision 1.29  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.27  2013/07/26 01:10:22  revo
 Joop Eggen: +trd bg
 

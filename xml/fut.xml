@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fut.xml,v 1.17 2014/01/03 08:10:13 revo Exp $">
+<art mrk="$Id: fut.xml,v 1.19 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fut</rad>/o
@@ -47,21 +47,32 @@ Futo Virtemberga (Germanujo) = 28,6 cm.
     </dif>
   </snc>
   <trd lng="be">&c_f;&c_u;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>foot</trd>,
+    <trd>stopa <klr>(míra)</klr></trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Fu&szlig;</trd>,
      <trd>Schuh [ark]</trd></trdgrp>
   <trd lng="en">foot</trd>
+  <trd lng="es">pie<klr> (medida de longitud)</klr></trd>
   <trd lng="fr">pied <klr tip="ind">(mesure)</klr></trd>
   <trd lng="hu">l&aacute;b<klr tip="ind"> (hosszm&eacute;rt&eacute;k)</klr></trd>
   <trd lng="nl">voet<klr tip="ind"> (lengtemaat)</klr></trd>
-  <trd lng="es">pie<klr> (medida de longitud)</klr></trd>
   <trd lng="pl">stopa<klr tip="amb"> (jednostka d&lstroke;ugo&sacute;ci)</klr></trd>
   <trd lng="pt">p&eacute; <klr tip="amb">(medida de comprimento)</klr></trd>
   <trd lng="ru">&c_f;&c_u;&c_t;</trd>
+  <trd lng="sk">stopa <klr>(dĺžková miera)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: fut.xml,v $
+Revision 1.19  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2014/01/03 08:10:13  revo
 Sebastian Cyprych: +trd pl
 

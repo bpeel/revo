@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rajt.xml,v 1.29 2014/10/20 06:10:12 revo Exp $">
+<art mrk="$Id: rajt.xml,v 1.31 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rajt</rad>/o <fnt><bib>PV</bib></fnt>
@@ -56,7 +56,11 @@
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_a;</trd>
   <trd lng="ca">dret</trd>
-  <trd lng="cs">pr&aacute;vo</trd>
+  <trdgrp lng="cs">
+    <trd>oprávnění</trd>,
+    <trd>pr&aacute;vo</trd>,
+    <trd>právo <klr>(na něco)</klr></trd>
+  </trdgrp>
   <trd lng="de">Recht</trd>
   <trd lng="en">right</trd>
   <trd lng="es">derecho<klr tip="amb"> (jur&iacute;dico)</klr></trd>
@@ -67,6 +71,7 @@
   <trd lng="pl">prawo</trd>
   <trd lng="pt">direito</trd>
   <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_o;</trd>
+  <trd lng="sk">právo</trd>
   <trd lng="tp">ken</trd>
 </drv>
 
@@ -90,6 +95,10 @@
     <trd>de dret</trd>,
     <trd>a bon dret</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>po právu</trd>,
+    <trd>právem</trd>
+  </trdgrp>
   <trd lng="de">rechtens</trd>
   <trdgrp lng="es">
     <trd>de acuerdo a la ley</trd>,
@@ -110,6 +119,10 @@
     <trd>zgodnie z <ind>prawem</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o; &c_p;&c_r;&c_a;&c_v;&c_u;</trd>
+  <trdgrp lng="sk">
+    <trd>po práve</trd>,
+    <trd>právom</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rajt.0i">
@@ -140,8 +153,10 @@
   <ind>&c_p;&c_r;&c_a;&c_v;&c_a;</ind></trd>
   <trd lng="ca">tindre dret (a)</trd>
   <trdgrp lng="cs">
+    <trd>být v právu</trd>,
     <trd>m&iacute;t pr&aacute;vo</trd>,
-    <trd>sm&ecaron;t</trd>
+    <trd>sm&ecaron;t</trd>,
+    <trd>smět</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>das Recht haben</trd>,
@@ -166,6 +181,11 @@
   <trd lng="pl">mie&cacute; <ind>prawo</ind></trd>
   <trd lng="ru">&c_i;&c_m;&c_je;&c_t;&c_mol;
   &c_p;&c_r;&c_a;&c_v;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>byť v práve</trd>,
+    <trd>mať právo</trd>,
+    <trd>smieť</trd>
+  </trdgrp>
   <trd lng="tp">ken</trd>
 </drv>
 
@@ -228,6 +248,11 @@
     <trd>&c_d;&c_a;&c_c;&c_mol;
     <ind>&c_p;&c_r;&c_a;&c_v;&c_a;</ind></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>legitimovat</trd>,
+    <trd>oprávnit</trd>,
+    <trd>zmocnit</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>autorizar</trd>,
     <trd>permitir</trd>
@@ -240,6 +265,7 @@
     <trd>&c_u;&c_p;&c_o;&c_l;&c_n;&c_o;&c_m;&c_o;&c_ch;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_a;&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol; &c_p;&c_r;&c_a;&c_v;&c_o;&c_m;</trd>
   </trdgrp>
+  <trd lng="sk">splnomocniť</trd>
 </drv>
 
 <drv mrk="rajt.0igilo">
@@ -264,14 +290,25 @@
     <trd>&c_l;&c_ib;&c_c;&c_e;&c_n;&c_z;&c_ib;&c_ja;</trd>
   </trdgrp>
   <trd lng="br">aotre<klr tip="ind"> (skrid-testeni)</klr></trd>
-  <trdgrp lng="en">
-    <trd>permit</trd>,
-    <trd>license</trd>
-  </trdgrp>
   <trdgrp lng="ca">
     <trd>v&egrave;nia</trd>,
     <trd>llic&egrave;ncia</trd>,
     <trd>aprovaci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>legitimace</trd>,
+    <trd>opravňující listina</trd>,
+    <trd>písemné oprávnění</trd>,
+    <trd>písemné zmocnění</trd>,
+    <trd>zmocňující listina</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Erlaubnis</trd>,
+    <trd>Lizenz</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>permit</trd>,
+    <trd>license</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>autorizaci&oacute;n<klr> (documento)</klr></trd>,
@@ -290,10 +327,6 @@
     <trd>licence<klr> (permis)</klr></trd>,
     <trd>permis<klr> (document)</klr></trd>
   </trdgrp>
-  <trdgrp lng="de">
-    <trd>Erlaubnis</trd>,
-    <trd>Lizenz</trd>
-  </trdgrp>
   <trd lng="he">&resh;&shin;&yod;&vav;&fnun;</trd>
   <trdgrp lng="hu">
     <trd>enged&eacute;ly</trd>,
@@ -311,6 +344,7 @@
     <trd>&c_r;&c_a;&c_z;&c_r;&c_je;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_l;&c_i;&c_c;&c_je;&c_n;&c_z;&c_i;&c_ja;</trd>
   </trdgrp>
+  <trd lng="sk">oprávňujúca listina</trd>
   <trdgrp lng="sv">
     <trd>tillst&aring;nd</trd>,
     <trd>licens</trd>
@@ -399,10 +433,12 @@
     </dif>
   </snc>
   <trd lng="ca">dret d'asil</trd>
+  <trd lng="cs">právo azylu</trd>
   <trd lng="es">derecho de asilo</trd>
   <trd lng="fr">droit d'asile</trd>
   <trd lng="nl">asielrecht</trd>
   <trd lng="pl">prawo azylu</trd>
+  <trd lng="sk">právo azylu</trd>
 </drv>
 
 <drv mrk="rajt.egal0a">
@@ -426,6 +462,7 @@
   <trd
   lng="be">&c_r;&c_a;&c_w;&c_n;&c_a;&c_p;&c_r;&c_a;&c_w;&c_n;&c_y;</trd>
   <trd lng="ca">igualitari</trd>
+  <trd lng="cs">rovnoprávný</trd>
   <trd lng="es">con iguales derechos</trd>
   <trd lng="fr">&eacute;gal de droit</trd>
   <trd lng="he">&shin;&vav;&vav;&he;
@@ -435,6 +472,7 @@
   <trd lng="pl">r&oacute;wnouprawniony</trd>
   <trd
   lng="ru">&c_r;&c_a;&c_v;&c_n;&c_o;&c_p;&c_r;&c_a;&c_v;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">rovnoprávny</trd>
 </drv>
 
 <drv mrk="rajt.vocxdon0o">
@@ -486,6 +524,12 @@
 </art>
 <!--
 $Log: rajt.xml,v $
+Revision 1.31  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.29  2014/10/20 06:10:12  revo
 Guillermo Molleda Jimena: trd es
 

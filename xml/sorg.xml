@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sorg.xml,v 1.13 2013/08/28 16:10:15 revo Exp $">
+<art mrk="$Id: sorg.xml,v 1.15 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>sorg</rad>/o
@@ -25,16 +25,27 @@
   </snc>
   <trd lng="be">&c_s;&c_o;&c_r;&c_g;&c_a;</trd>
   <trd lng="ca">melca</trd>
+  <trdgrp lng="cs">
+    <trd>proso</trd>,
+    <trd>čirok</trd>
+  </trdgrp>
   <trd lng="de">Sorghumhirse</trd>
   <trd lng="en">sorghum</trd>
   <trd lng="fr">sorgho</trd>
   <trd lng="hu">cirok</trd>
   <trd lng="nl">gierst</trd>
   <trd lng="ru">&c_s;&c_o;&c_r;&c_g;&c_o;</trd>
+  <trd lng="sk">cirok</trd>
 </drv>
 </art>
 <!--
 $Log: sorg.xml,v $
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2013/08/28 16:10:15  revo
 Wolfram Diestel: referencoj al bot genroj, trd la, de
 

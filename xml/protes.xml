@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: protes.xml,v 1.16 2012/09/04 13:10:07 revo Exp $">
+<art mrk="$Id: protes.xml,v 1.19 2015/10/15 11:10:16 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>protest</rad>/i <fnt><bib>PV</bib></fnt>
@@ -80,6 +80,11 @@
     <trd lng="ru">&c_o;&c_p;&c_r;&c_o;&c_t;&c_je;&c_s;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
   <trd lng="ca">protestar</trd>
+  <trdgrp lng="cs">
+    <trd>nam&iacute;tat</trd>,
+    <trd>ohradit se</trd>,
+    <trd>protestovat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>protestieren</trd>,
     <trd>Einspruch erheben</trd>,
@@ -95,6 +100,10 @@
     <trd>protestar</trd>,
     <trd>contestar</trd>,
     <trd>impugnar</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ohradi&tcaron; sa</trd>,
+    <trd>protestova&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -113,6 +122,7 @@
       sendemanda ek<tld/>o estas ofte kulpatesto
       <fnt><bib>PrV</bib></fnt>.
     </ekz>
+     <trd lng="en">protest</trd>
   </snc>
   <snc>
     <ekz>
@@ -121,6 +131,7 @@
     <ekz>
       refuti ies <tld/>ojn.
     </ekz>
+     <trd lng="en">protest</trd>
   </snc>
   <snc>
     <uzo tip="fak">EKON</uzo>
@@ -128,6 +139,7 @@
     <dif>
       La&ubreve;le&gcirc;a konstato de nepago de kambio.
     </dif>
+    <trd lng="en">complaint (for breach of promissory note)</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_t;&c_e;&c_s;&c_t;</trd>,
@@ -135,6 +147,10 @@
     <trd>&c_a;&c_s;&c_p;&c_r;&c_e;&c_ch;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   </trdgrp>
   <trd lng="ca">protesta</trd>
+  <trdgrp lng="cs">
+    <trd>odvol&aacute;n&iacute;</trd>,
+    <trd>protest</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Protest</trd>,
     <trd>Einspruch</trd>,
@@ -151,6 +167,11 @@
   </trdgrp>
   <trd lng="nl">protest</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_je;&c_s;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>nes&uacute;hlas</trd>,
+    <trd>n&aacute;mietka</trd>,
+    <trd>protest</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="protes.mal0o">
@@ -164,6 +185,7 @@
     <trd>sotmetiment</trd>,
     <trd>acatament</trd>
   </trdgrp>
+  <trd lng="en">acceptance</trd>
   <trd lng="fr">acceptation</trd>
   <trd lng="hu">belenyugv&aacute;s</trd>
   <trd lng="nl">berusting</trd>
@@ -187,6 +209,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="en">
+    <trd>mass protest</trd>,
+    <trd>demonstration</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>manifestation de masse</trd>,
     <trd>protestation publique</trd>
@@ -195,6 +221,15 @@
 </art>
 <!--
 $Log: protes.xml,v $
+Revision 1.19  2015/10/15 11:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.18  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2012/09/04 13:10:07  revo
 Jeromo Vasxe: + amas~o
 
@@ -208,14 +243,5 @@ Revision 1.13 2006/04/02 17:03:03 revo
 Tulio Flores: +tr pt
 
 Revision 1.12 2004/08/19 16:32:13 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11 2003/07/23 17:42:21 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10 2002/01/21 21:48:05 revo
-fontindiko PrV per programo de Jerome
-
-Revision 1..9 2002/01/10 17:33:02 revo
 -->
 </vortaro>

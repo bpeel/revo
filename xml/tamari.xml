@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tamari.xml,v 1.15 2013/08/30 15:10:35 revo Exp $">
+<art mrk="$Id: tamari.xml,v 1.17 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>tamarind</rad>/o
   <fnt>Z</fnt>
@@ -25,6 +25,7 @@
     </dif>
   </snc>
   <trd lng="ca">tamarinde</trd>
+  <trd lng="cs">tamarind</trd>
   <trd lng="de">Tamarinde</trd>
   <trd lng="en">tamarind</trd>
   <trd lng="fr">tamarinier</trd>
@@ -42,10 +43,17 @@
     <trd>&c_i;&c_n;&c_d;&c_i;&c_j;&c_s;&c_k;&c_i;&c_j;
     &c_f;&c_i;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
+  <trd lng="sk">tamarind</trd>
 </drv>
 </art>
 <!--
 $Log: tamari.xml,v $
+Revision 1.17  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/08/30 15:10:35  revo
 Wolfram Diestel: kor. lst-ref
 

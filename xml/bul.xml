@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bul.xml,v 1.24 2014/01/02 21:10:22 revo Exp $">
+<art mrk="$Id: bul.xml,v 1.27 2015/10/07 11:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bul</rad>/o <fnt><bib>PV</bib></fnt>
@@ -30,17 +30,18 @@
   <trd lng="ca">bola</trd>
   <trdgrp lng="cs">
     <trd>hrouda</trd>,
-    <trd>knedl&iacute;k</trd>
+    <trd>knedl&iacute;k</trd>,
+    <trd>koule</trd>
   </trdgrp>
-  <trd lng="es">bola</trd>
-  <trdgrp lng="en">
-    <trd>ball</trd>, <trd>lump</trd>
-  </trdgrp>
-  <trd lng="fr">boule</trd>
   <trdgrp lng="de">
     <trd>Klo&szlig;</trd>,
     <trd>Ball</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>ball</trd>, <trd>lump</trd>
+  </trdgrp>
+  <trd lng="es">bola</trd>
+  <trd lng="fr">boule</trd>
   <trd lng="hu">gomb&oacute;c</trd>
   <trd lng="it">boccia</trd>
   <trdgrp lng="pl">
@@ -50,6 +51,10 @@
     <trd>k&lstroke;&aogonek;b</trd>,
     <trd>bochen</trd>
   </trdgrp>
+  <trdgrp lng="pt">
+    <trd>bola</trd>,
+    <trd>torr&atilde;o</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_m;&c_o;&c_k;</trd>,
     <trd>&c_k;&c_o;&c_m;</trd>,
@@ -58,6 +63,7 @@
     <klr>(vianda)</klr></trd>,
     <trd>&c_s;&c_n;&c_je;&c_zh;&c_o;&c_k; <klr>(ne&gcirc;a)</klr></trd>
   </trdgrp>
+  <trd lng="sk">snehov&aacute; gu&lcaron;a</trd>
 </drv>
 
 <drv mrk="bul.0igi">
@@ -82,6 +88,7 @@
     </dif>
   </snc>
   <trd lng="ca">fer una bola</trd>
+  <trd lng="cs">svinout do klubka <klr>(prov&aacute;zek)</klr></trd>
   <trd lng="fr">mettre en <ind>boule</ind><klr> (sens
   propre)</klr></trd>
   <trdgrp lng="pl">
@@ -89,6 +96,7 @@
     <trd>lepi&cacute; <ind>kluch&eogonek;</ind></trd>,
     <trd>zwija&cacute; w <ind>k&lstroke;&aogonek;b</ind></trd>
   </trdgrp>
+  <trd lng="sk">zvin&uacute;&tcaron; do klbka <klr>(&scaron;n&uacute;ru)</klr></trd>
 </drv>
 
 <drv mrk="bul.0igxi">
@@ -137,20 +145,22 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_l;&c_u;&c_b;&c_o;&c_k;</trd>
+  <trd lng="ca">cabdell</trd>
+  <trd lng="cs">klubko</trd>
   <trd lng="de">Kn&auml;uel</trd>
   <trdgrp lng="en">
     <trd>threadball</trd>,
     <trd>yarnball</trd>
   </trdgrp>
-  <trd lng="ca">cabdell</trd>
   <trd lng="fr">pelote <klr tip="ind">(de fil, etc.)</klr></trd>
-  <trd lng="it">gomitolo</trd>
   <trd lng="hu">gombolyag</trd>
+  <trd lng="it">gomitolo</trd>
   <trdgrp lng="pl">
     <trd>motek</trd>,
     <trd>k&lstroke;&eogonek;bek</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_l;&c_u;&c_b;&c_o;&c_k;</trd>
+  <trd lng="sk">klbko</trd>
   <trd lng="sv">nystan</trd>
 </drv>
 
@@ -203,6 +213,15 @@
 </art>
 <!--
 $Log: bul.xml,v $
+Revision 1.27  2015/10/07 11:10:19  revo
+Evandro Avellar: +trd pt
+
+Revision 1.26  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2014/01/02 21:10:22  revo
 Jeromo Vasxe: + karbo~eto
 
@@ -216,14 +235,5 @@ Revision 1.21  2009/04/06 18:00:15  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.20  2009/01/03 17:31:36  revo
-Jeromo Vasxe: + ~igi
-
-Revision 1.19  2008/11/14 17:31:43  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.18  2007/04/17 16:30:37  revo
-Jeromo Vasxe: + ~igxi
-
-Revision 1.17 2007/02/06 17:30:33 revo
 -->
 </vortaro>

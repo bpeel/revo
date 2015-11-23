@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rent.xml,v 1.17 2013/04/16 06:10:11 revo Exp $">
+<art mrk="$Id: rent.xml,v 1.19 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rent</rad>/o
@@ -31,6 +31,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_n;&c_t;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>důchod z majetku</trd>,
+    <trd>renta</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Rente</trd>,
     <trd>Zinszahlung</trd>,
@@ -48,11 +52,22 @@
   <trd lng="pl">renta</trd>
   <trd lng="pt">renda</trd>
   <trd lng="ru">&c_r;&c_je;&c_n;&c_t;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>renta</trd>,
+    <trd>ročný dôchodok z požičaných peňazí</trd>,
+    <trd>z cenných papierov ap.</trd>
+  </trdgrp>
   <trd lng="sv">r&auml;nta</trd>
 </drv>
 </art>
 <!--
 $Log: rent.xml,v $
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/04/16 06:10:11  revo
 Sebastian Cyprych: +trd pl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: leon.xml,v 1.35 2014/06/06 15:10:44 revo Exp $">
+<art mrk="$Id: leon.xml,v 1.38 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>leon</rad>/o
@@ -34,9 +34,9 @@
   <trd lng="de">L&ouml;we</trd>
   <trd lng="el">&lambda;&jota;&omikron;&ny;&tau;&alfa_ton;&rho;&jota;</trd>
   <trd lng="en">lion</trd>
+  <trd lng="es">le&oacute;n</trd>
   <trd lng="fr">lion</trd>
   <trd lng="he">&alef;&resh;&yod;&he;</trd>
-  <trd lng="es">le&oacute;n</trd>
   <trd lng="hu">oroszl&aacute;n</trd>
   <trd lng="id">singa</trd>
   <trd lng="it">leone</trd>
@@ -44,6 +44,7 @@
   <trd lng="pl">lew</trd>
   <trd lng="pt">le&atilde;o</trd>
   <trd lng="ru">&c_l;&c_je;&c_v;</trd>
+  <trd lng="sk">lev</trd>
   <trd lng="sv">lejon</trd>
   <trd lng="tr">aslan</trd>
 </drv>
@@ -76,7 +77,8 @@
   <snc mrk="leon.L0o.NOM">
     <uzo tip="fak">NOM</uzo>
     <dif>
-      Vira anta&ubreve;nomo:
+      Vira <ref tip="lst" cel="nom.antaux0o"
+      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref>:
       <ekz>
         la granda verkisto kaj filozofo
         <ind><tld lit="L"/>o Tolstoj</ind>
@@ -90,6 +92,7 @@
   <trd lng="be">&c_L;&c_je;&c_w;</trd>
   <trd lng="br">Leon</trd>
   <trd lng="ca">Leo</trd>
+  <trd lng="cs">lev</trd>
   <trd lng="de">L&ouml;we</trd>
   <trd lng="el">&Lambda;&epsilon_ton;&omega;&ny;</trd>
   <trd lng="en">Leo</trd>
@@ -101,6 +104,7 @@
   <trd lng="pl">Lew</trd>
   <trd lng="pt">Le&atilde;o</trd>
   <trd lng="ru">&c_L;&c_je;&c_v;</trd>
+  <trd lng="sk">lev</trd>
   <trd lng="sv">Lejonet</trd>
   <trd lng="tr">Aslan</trd>
 </drv>
@@ -136,6 +140,15 @@
 </art>
 <!--
 $Log: leon.xml,v $
+Revision 1.38  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.37  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.36  2015/02/26 19:11:43  revo
+Wolfram Diestel: lst antaunomoj
+
 Revision 1.35  2014/06/06 15:10:44  revo
 Eko Nur Syah Hidayat: +id
 
@@ -155,8 +168,5 @@ Revision 1.30  2009/02/19 20:25:59  revo
 Wieland Pusch: +trd bg
 
 Revision 1.29  2009/02/15 14:18:29  revo
-Wieland Pusch: +trd de
-
-Revision 1.28  2006/08/25 14:12:24  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: indign.xml,v 1.16 2011/04/29 19:10:44 revo Exp $">
+<art mrk="$Id: indign.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>indign</rad>/i
@@ -52,6 +52,16 @@
     <trd>&c_v;&c_o;&c_z;&c_m;&c_u;&c_shch;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_n;&c_je;&c_g;&c_o;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pohoršiť sa</trd>,
+    <trd>rozhorčovať<klr>(sa)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>být indignován</trd>,
+    <trd>indignovat se</trd>,
+    <trd>pohoršen</trd>,
+    <trd>rozhořčen</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="indign.0o">
@@ -65,6 +75,13 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_b;&c_u;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>hněv</trd>,
+    <trd>indignace</trd>,
+    <trd>nelibost</trd>,
+    <trd>rozhorlenost</trd>,
+    <trd>rozhořčenost</trd>
+  </trdgrp>
   <trd lng="de">Entr&uuml;stung</trd>
   <trd lng="en">indignation</trd>
   <trd lng="es">indignaci&oacute;n</trd>
@@ -79,6 +96,10 @@
     <trd>&c_v;&c_o;&c_z;&c_m;&c_u;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_n;&c_je;&c_g;&c_o;&c_d;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pohoršenie</trd>,
+    <trd>rozhorčenie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="indign.0a">
@@ -92,6 +113,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_b;&c_u;&c_r;&c_a;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>indignovaný</trd>,
+    <trd>pohněvaný</trd>,
+    <trd>rozhořčený</trd>
+  </trdgrp>
   <trd lng="en">indignant</trd>
   <trdgrp lng="fr">
     <trd>indign&eacute;</trd>
@@ -106,6 +132,10 @@
     <trd>&c_v;&c_o;&c_z;&c_m;&c_u;&c_shch;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_g;&c_o;&c_d;&c_u;&c_ju;&c_shch;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nahnevaný</trd>,
+    <trd>rozhorčený</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="indign.0e">
@@ -119,6 +149,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_b;&c_u;&c_r;&c_a;&c_n;&c_a;</trd>
+  <trd lng="cs">rozhořčeně</trd>
   <trd lng="en">indignantly</trd>
   <trdgrp lng="fr">
     <trd>avec <ind>indignation</ind></trd>
@@ -134,6 +165,7 @@
     <trd>&c_v;&c_o;&c_z;&c_m;&c_u;&c_shch;&c_jo;&c_n;&c_n;&c_o;</trd>,
     <trd>&c_v; &c_n;&c_je;&c_g;&c_o;&c_d;&c_o;&c_v;&c_a;&c_n;&c_i;&c_i;</trd>
   </trdgrp>
+  <trd lng="sk">rozhorčene</trd>
 </drv>
 
 <drv mrk="indign.0igi">
@@ -154,6 +186,13 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_a;&c_b;&c_u;&c_r;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>budit pohoršení</trd>,
+    <trd>indignovat</trd>,
+    <trd>pohněvat</trd>,
+    <trd>rozhořčit</trd>,
+    <trd>způsobit pohoršení</trd>
+  </trdgrp>
   <trd lng="en">cause indignation</trd>
   <trdgrp lng="fr">
     <trd>indigner</trd>,
@@ -163,6 +202,10 @@
   <trd lng="nl">verontwaardigen</trd>
   <trd lng="pt">indignar<klr tip="amb"> (causar indigna&ccedil;&atilde;o)</klr></trd>
   <trd lng="ru">&c_v;&c_o;&c_z;&c_m;&c_u;&c_shch;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>poburovať</trd>,
+    <trd>rozhorčiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="indign.0indajxo">
@@ -191,6 +234,12 @@
 </art>
 <!--
 $Log: indign.xml,v $
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2011/04/29 19:10:44  revo
 Russ Williams: +trd en
 

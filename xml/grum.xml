@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: grum.xml,v 1.11 2012/08/19 09:10:22 revo Exp $">
+<art mrk="$Id: grum.xml,v 1.13 2015/07/04 08:37:35 revo Exp $">
 <kap><rad>grum</rad>/o
 <fnt>Z</fnt></kap>
 <drv mrk="grum.0o">
@@ -13,6 +13,11 @@
     </dif>
   </snc>
   <trd lng="ca">grum</trd>
+  <trdgrp lng="cs">
+    <trd>pikolík</trd>,
+    <trd>podkoní</trd>,
+    <trd>čeledín</trd>
+  </trdgrp>
   <trd lng="de">Page</trd>
   <trdgrp lng="en">
     <trd>groom</trd>,
@@ -44,10 +49,17 @@
     <trd>groom</trd>
   </trdgrp>
   <trd lng="ru">&c_g;&c_r;&c_u;&c_m;</trd>
+  <trd lng="sk">mladý hotelový sluha</trd>
 </drv>
 </art>
 <!--
 $Log: grum.xml,v $
+Revision 1.13  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2012/08/19 09:10:22  revo
 Marc Rausell: + trd ca
 

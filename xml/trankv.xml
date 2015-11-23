@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trankv.xml,v 1.19 2014/03/29 18:10:25 revo Exp $">
+<art mrk="$Id: trankv.xml,v 1.22 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>trankvil</rad>/a
@@ -100,6 +100,11 @@
   <trd lng="hu">nyugodt</trd>
   <trd lng="nl">rustig</trd>
   <trd lng="ru">&c_s;&c_p;&c_o;&c_k;&c_o;&c_j;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>pokojný</trd>,
+    <trd>tichý</trd>
+  </trdgrp>
+  <trd lng="cs">klidný, tichý</trd>
 </drv>
 
 <drv mrk="trankv.0o">
@@ -142,6 +147,11 @@
     <trd>&c_s;&c_p;&c_o;&c_k;&c_o;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>,
     <trd>&c_p;&c_o;&c_k;&c_o;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kľud</trd>,
+    <trd>pokoj</trd>
+  </trdgrp>
+  <trd lng="cs">klid</trd>
 </drv>
 
 <drv mrk="trankv.0eco">
@@ -156,8 +166,17 @@
       maljusta&jcirc;on<fnt>Z</fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>klid</trd>,
+    <trd>trankvilita</trd>
+  </trdgrp>
+  <trd lng="es">tranquilidad</trd>
   <trd lng="hu">nyugodts&aacute;g</trd>
   <trd lng="ru">&c_s;&c_p;&c_o;&c_k;&c_o;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>kľud</trd>,
+    <trd>pokoj</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="trankv.0igi">
@@ -192,7 +211,12 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_p;&c_a;&c_k;&c_o;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>konejšit</trd>,
+    <trd>uklidňovat</trd>
+  </trdgrp>
   <trd lng="de">beruhigen</trd>
+  <trd lng="es">tranquilizar</trd>
   <trd lng="fr">tranquilliser</trd>
   <trdgrp lng="hu">
     <trd>nyugtat</trd>,
@@ -205,6 +229,11 @@
   <trdgrp lng="ru">
     <trd>&c_u;&c_s;&c_p;&c_o;&c_k;&c_a;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_s;&c_p;&c_o;&c_k;&c_o;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ukľudniť</trd>,
+    <trd>upokojiť</trd>,
+    <trd>utíšiť</trd>
   </trdgrp>
 </drv>
 
@@ -231,6 +260,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_p;&c_a;&c_k;&c_o;&c_j;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="es">tranquilizarse</trd>
   <trdgrp lng="fr">
     <trd>se <ind>calmer</ind></trd>,
     <trd>se <ind>tranquilliser</ind></trd>
@@ -267,7 +297,16 @@
     <trd>&c_n;&c_je;&c_s;&c_p;&c_a;&c_k;&c_o;&c_j;&c_n;&c_y;</trd>,
     <trd>&c_t;&c_r;&c_y;&c_v;&c_o;&c_zh;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>neklidný</trd>,
+    <trd>nepokojný</trd>,
+    <trd>vzrušený</trd>
+  </trdgrp>
   <trd lng="de">unruhig</trd>
+  <trdgrp lng="es">
+    <trd>intranquilo</trd>,
+    <trd>inquieto</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&eacute;nerv&eacute;</trd>,
     <trd>perturb&eacute;</trd>
@@ -285,6 +324,10 @@
     <trd>&c_b;&c_je;&c_s;&c_p;&c_o;&c_k;&c_o;&c_j;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_s;&c_p;&c_o;&c_k;&c_o;&c_j;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_t;&c_r;&c_je;&c_v;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nekľudný</trd>,
+    <trd>nepokojný</trd>
   </trdgrp>
 </drv>
 
@@ -306,7 +349,15 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_p;&c_a;&c_k;&c_o;&c_ib;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>rozrušit</trd>,
+    <trd>zneklidnit</trd>
+  </trdgrp>
   <trd lng="de">beunruhigen</trd>
+  <trdgrp lng="es">
+    <trd>intranquilizar</trd>,
+    <trd>inquietar</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>perturber</trd>,
     <trd>troubler</trd>
@@ -317,10 +368,20 @@
   </trdgrp>
   <trd lng="nl">ongerust maken</trd>
   <trd lng="ru">&c_b;&c_je;&c_s;&c_p;&c_o;&c_k;&c_o;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">znepokojiť</trd>
 </drv>
 </art>
 <!--
 $Log: trankv.xml,v $
+Revision 1.22  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2015/04/18 04:10:15  revo
+Carlos Garcia: +trd es ~eco ~igi ~igxi mal~a mal~igi
+
 Revision 1.19  2014/03/29 18:10:25  revo
 Agustin Garcia Lopez: +trd(es)
 
@@ -340,8 +401,5 @@ Revision 1.14  2003/12/13 17:31:02  revo
 Jeromo Vasxe: ~a 2: ref dif kvieta, disig. ~o/~eco, + mrk, + trd fr
 
 Revision 1.13 2003/10/01 16:31:57 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12 2002/03/13 17:33:34 revo
 -->
 </vortaro>

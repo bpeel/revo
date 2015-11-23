@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tret.xml,v 1.15 2014/03/26 02:10:22 revo Exp $">
+<art mrk="$Id: tret.xml,v 1.16 2015/10/12 22:10:31 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>tret</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -50,7 +50,8 @@
   </trdgrp>
   <trdgrp lng="fr">
     <trd>fouler<klr> (aux pieds)</klr></trd>,
-    <trd>pi&eacute;tiner</trd>
+    <trd>pi&eacute;tiner</trd>,
+    <trd>&eacute;craser</trd>
   </trdgrp>
   <trdgrp lng="hu">
     <trd>tapos</trd>,
@@ -81,6 +82,9 @@
 </art>
 <!--
 $Log: tret.xml,v $
+Revision 1.16  2015/10/12 22:10:31  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.15  2014/03/26 02:10:22  revo
 Jeromo Vasxe: + trd fr, memstar. sur~i
 
@@ -100,8 +104,5 @@ Revision 1.10  2008/11/05 17:31:33  revo
 Russ Williams: +trd en
 
 Revision 1.9  2006/02/16 17:34:15  revo
-Tulio Flores: +trd pt
-
-Revision 1.8  2004/12/21 17:31:13  revo
 -->
 </vortaro>

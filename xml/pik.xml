@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pik.xml,v 1.29 2014/01/09 02:10:23 revo Exp $">
+<art mrk="$Id: pik.xml,v 1.31 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pik</rad>/i <fnt><bib>PV</bib></fnt>
@@ -176,6 +176,13 @@
     <trd>&c_k;&c_a;&c_l;&c_o;&c_c;&c_mol;</trd>,
     <trd>&c_u;&c_k;&c_a;&c_l;&c_o;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bodat</trd>,
+    <trd>bodnout</trd>,
+    <trd>pálit</trd>,
+    <trd>píchat</trd>,
+    <trd>štípat</trd>
+  </trdgrp>
   <trd lng="en">pick</trd>
   <trd lng="es">pinchar</trd>
   <trdgrp lng="fr">
@@ -183,6 +190,11 @@
     <trd>piquer</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_l;&c_o;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>bodať</trd>,
+    <trd>pichať</trd>,
+    <trd>štípať <klr>(o hmyze)</klr></trd>
+  </trdgrp>
   <trd lng="sv">sticka</trd>
 </drv>
 
@@ -207,6 +219,20 @@
     </trdgrp>
     <trd lng="pl">uszczypliwy</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bodavý</trd>,
+    <trd>bodný</trd>,
+    <trd>ostrý</trd>,
+    <trd>pichlavý</trd>,
+    <trd>pálivý</trd>,
+    <trd>píchací</trd>,
+    <trd>způsobený bodnutím</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bodný</trd>,
+    <trd>ostrý</trd>,
+    <trd>pichľavý</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pik.0o">
@@ -321,6 +347,18 @@
     <trd lng="ru">&c_p;&c_i;&c_k;&c_i;</trd>
     <trd lng="sv">spader</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bodec</trd>,
+    <trd>osten</trd>,
+    <trd>šídlo</trd>,
+    <trd>žihadlo</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bodec</trd>,
+    <trd>osteň</trd>,
+    <trd>šidlo</trd>,
+    <trd>žihadlo</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pik.0ema">
@@ -331,6 +369,10 @@
       Sprite, incite mokema.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>pichlavý</trd>,
+    <trd>posměvačný</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>pointed</trd>,
     <trd>sharp</trd>
@@ -353,6 +395,10 @@
     <trd>ci&eogonek;ty</trd>,
     <trd>kol&aogonek;cy</trd>,
     <trd>uszczypliwy</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bodavý</trd>,
+    <trd>pichľavý</trd>
   </trdgrp>
 </drv>
 
@@ -403,15 +449,27 @@
     </trdgrp>
     <trd lng="ru">&c_zh;&c_a;&c_l;&c_o;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bodec</trd>,
+    <trd>osten</trd>,
+    <trd>šídlo</trd>,
+    <trd>žihadlo</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>dard</trd>,
     <trd>pointe</trd>
   </trdgrp>
-    <trdgrp lng="pl">
+  <trdgrp lng="pl">
       <trd>kolec</trd>,
       <trd>cier&nacute;</trd>,
       <trd>grot</trd>
     </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bodec</trd>,
+    <trd>osteň</trd>,
+    <trd>šidlo</trd>,
+    <trd>žihadlo</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pik.tra0i">
@@ -433,7 +491,13 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>probodnout</trd>,
+    <trd>propíchnout</trd>,
+    <trd>protnout</trd>
+  </trdgrp>
   <trd lng="fr">transpercer</trd>
+  <trd lng="sk">prepichnúť</trd>
 </drv>
 
 <drv mrk="pik.0bastono">
@@ -443,6 +507,7 @@
       Montbastono.
     </dif>
   </snc>
+  <trd lng="cs">turistická hůl</trd>
   <trdgrp lng="en">
     <trd>spit</trd>,
     <trd>skewer</trd>
@@ -453,6 +518,7 @@
   <trd lng="pl">czekan</trd>
   <trd
   lng="ru">&c_a;&c_l;&c_mol;&c_p;&c_je;&c_n;&c_sh;&c_t;&c_o;&c_k;</trd>
+  <trd lng="sk">turistická palica s hrotom</trd>
 </drv>
 
 <drv mrk="pik.0stango">
@@ -470,6 +536,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_d;&c_z;&c_ib;&c_d;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>kopí</trd>,
+    <trd>oštěp</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>pike</trd>,
     <trd>spear</trd>
@@ -487,10 +557,20 @@
     <trd>oszczep</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_i;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>kopia</trd>,
+    <trd>oštep</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: pik.xml,v $
+Revision 1.31  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.29  2014/01/09 02:10:23  revo
 Jeromo Vasxe: + tra~i
 

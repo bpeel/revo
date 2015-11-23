@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: radius.xml,v 1.26 2012/08/04 08:10:39 revo Exp $">
+<art mrk="$Id: radius.xml,v 1.28 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <rad>radius</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -59,7 +59,15 @@
     <trd lng="ru">&c_r;&c_a;&c_d;&c_i;&c_u;&c_s;</trd>
   </snc>
   <trd lng="ca">radi</trd>
+  <trdgrp lng="cs">
+    <trd>poloměr</trd>,
+    <trd>rádius</trd>
+  </trdgrp>
   <trd lng="es">radio<klr tip="amb"> (hueso, geometr&iacute;a)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>polomer</trd>,
+    <trd>rádius</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="radius.konvergxo0o">
@@ -116,17 +124,25 @@
   </snc>
   <trd lng="be">&c_r;&c_a;&c_d;&c_y;&c_ju;&c_s; &c_k;&c_r;&c_y;&c_v;&c_ib;&c_n;&c_ib;</trd>
   <trd lng="ca"><ind>radi</ind> de curvatura</trd>
+  <trd lng="cs">poloměr křivosti</trd>
   <trd lng="de">Kr&uuml;mmungsradius</trd>
   <trd lng="en">radius of curvature</trd>
   <trd lng="fr">rayon de courbure</trd>
-  <trd lng="hu">g&ouml;rb&uuml;leti <ind>sug&aacute;r</ind></trd>  
+  <trd lng="hu">g&ouml;rb&uuml;leti <ind>sug&aacute;r</ind></trd>
   <trd lng="it">raggio<klr> di curvatura</klr></trd>
   <trd lng="pl">promie&nacute; krzywizny</trd>
   <trd lng="ru">&c_r;&c_a;&c_d;&c_i;&c_u;&c_s; &c_k;&c_r;&c_i;&c_v;&c_i;&c_z;&c_n;&c_y;</trd>
+  <trd lng="sk">polomer krivosti</trd>
 </drv>
 </art>
 <!--
 $Log: radius.xml,v $
+Revision 1.28  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2012/08/04 08:10:39  revo
 Marc Rausell: + trd ca
 

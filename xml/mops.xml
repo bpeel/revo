@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mops.xml,v 1.13 2013/01/01 14:10:39 revo Exp $">
+<art mrk="$Id: mops.xml,v 1.15 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mops</rad>/o
@@ -32,10 +32,22 @@
     <trd>&c_m;&c_o;&c_p;&c_s;</trd>,
     <trd>&c_m;&c_o;&c_s;&c_mol;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">mopslík</trd>
+  <trdgrp lng="cs">
+    <trd>mops</trd>,
+    <trd>mopsl</trd>,
+    <trd>mopslík</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: mops.xml,v $
+Revision 1.15  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2013/01/01 14:10:39  revo
 Sebastian Cyprych: +trd pl
 

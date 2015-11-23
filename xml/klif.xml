@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klif.xml,v 1.12 2013/09/24 11:10:16 revo Exp $">
+<art mrk="$Id: klif.xml,v 1.15 2015/10/27 11:10:29 revo Exp $">
 <kap>
   <rad>klif</rad>/o <fnt>Y</fnt>
 </kap>
@@ -28,6 +28,12 @@
     <trd>&c_s;&c_t;&c_r;&c_o;&c_m;&c_k;&c_ib; &c_b;&c_je;&c_r;&c_a;&c_g;</trd>
   </trdgrp>
   <trd lng="bg">&c_s;&c_t;&c_r;&c_malmol;&c_m;&c_n;&c_a; &c_s;&c_k;&c_a;&c_l;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>fal&eacute;za</trd>,
+    <trd>klif</trd>,
+    <trd>pob&rcaron;e&zcaron;n&iacute; sr&aacute;z</trd>,
+    <trd>&uacute;tes</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Kliff</trd>,
     <trd>Steilk&uuml;ste</trd>,
@@ -43,11 +49,22 @@
     <trd>falaise</trd>
   </trdgrp>
   <trd lng="nl">klip</trd>
+  <trd lng="pl">klif</trd>
   <trd lng="ru">&c_u;&c_t;&c_jo;&c_s;</trd>
+  <trd lng="sk">morsk&yacute; &uacute;tes</trd>
 </drv>
 </art>
 <!--
 $Log: klif.xml,v $
+Revision 1.15  2015/10/27 11:10:29  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2013/09/24 11:10:16  revo
 Joop Eggen: +trd bg
 
@@ -61,14 +78,5 @@ Revision 1.9  2002/09/14 18:50:48  revo
 Jeromo Vasxe: + tez, + ekz, + trd fr
 
 Revision 1.8 2002/07/07 17:32:51 revo
-Ulrich Fellmann: + 3 trd de
-
-Revision 1.7 2001/10/24 18:25:10 revo
-Paul Peeraerts: aldonis nl trd
-
-Revision 1.6 2001/09/28 18:13:54 revo
-jxerom vasxe: + fak geog
-
-Revision 1.5 2001/09/25 18:13:07 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jork.xml,v 1.2 2014/11/06 08:10:18 revo Exp $">
+<art mrk="$Id: jork.xml,v 1.6 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <rad>Jork</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -11,7 +11,8 @@
   <snc mrk="jork.0o.GEOG">
     <uzo tip="fak">GEOG</uzo>
     <dif>
-      Urbo en la norda parto de Anglujo:
+      <ref tip="lst" cel="urb.0o" lst="voko:urboj">Urbo</ref> en la
+      norda parto de Anglujo:
       <ekz>
         dum la vagonaro trapasis la urbojn <tld/>o, 
         Novkastelo, kaj Berwick-upon-Tweed, videblis la 
@@ -26,8 +27,10 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">York</trd>
   <trd lng="en">York</trd>
   <trd lng="fr">York</trd>
+  <trd lng="sk">York</trd>
 </drv>
 
 <drv mrk="jork.nov0o">
@@ -36,7 +39,7 @@
     <uzo tip="fak">GEOG</uzo>
     <dif>
       Plej grava <ref tip="lst" cel="urb.0o" lst="voko:urboj">urbo</ref>
-      de <ref tip="malprt" cel="uson.U0o">Usono</ref> (74&#730;00'W,
+      de Usono (74&#730;00'W,
       40&#730;43'N), trafluata de la rivero Hudsono;
       sidloko de 
       <ref tip="vid" cel="naci.Unuigxintaj_0oj">UN</ref> kaj de granda 
@@ -123,6 +126,18 @@ lng="ru">&c_N;&c_mol;&c_ju;-&c_J;&c_o;&c_r;&c_k;&c_s;&c_k;&c_a;&c_ja;
 
 <!--
 $Log: jork.xml,v $
+Revision 1.6  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2015/02/22 19:10:15  revo
+Wolfram Diestel: ~o: listo urboj
+
+Revision 1.3  2014/11/10 21:10:16  revo
+Jeromo Vasxe: - 1 ref
+
 Revision 1.2  2014/11/06 08:10:18  revo
 Jeromo Vasxe: fando kun novjork.xml
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aort.xml,v 1.19 2010/11/04 17:31:32 revo Exp $">
+<art mrk="$Id: aort.xml,v 1.20 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>aort</rad>/o
@@ -18,6 +18,10 @@
   </snc>
   <trd lng="be">&c_a;&c_o;&c_r;&c_t;&c_a;</trd>
   <trd lng="ca">aorta</trd>
+  <trdgrp lng="cs">
+    <trd>aorta</trd>,
+    <trd>srdečnice</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Hauptschlagader</trd>,
     <trd>Aorta<klr> [fak.]</klr></trd>
@@ -40,6 +44,9 @@
 </art>
 <!--
 $Log: aort.xml,v $
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.19  2010/11/04 17:31:32  revo
 Antonio Codazzi: +trd it
 

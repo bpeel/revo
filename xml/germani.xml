@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: germani.xml,v 1.18 2014/06/09 16:10:32 revo Exp $">
+<art mrk="$Id: germani.xml,v 1.20 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>Germani</rad>/o
 </kap>
@@ -30,6 +30,7 @@
     <trd>Alemanya</trd>,
     <trd>Rep&uacute;blica Federal d'Alemanya</trd>
   </trdgrp>
+  <trd lng="cs">Německo</trd>
   <trd lng="da">Tyskland</trd>
   <trd lng="de">Deutschland</trd>
   <trd lng="en">Germany</trd>
@@ -53,6 +54,7 @@
   <trd lng="pl">Niemcy</trd>
   <trd lng="pt">Alemanha</trd>
   <trd lng="ru">&c_G;&c_je;&c_r;&c_m;&c_a;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="sk">Nemecko</trd>
   <trd lng="sv">Tyskland</trd>
   <trd lng="sw">Ujerumani</trd>
   <trd lng="tr">Alemanya</trd>
@@ -62,6 +64,12 @@
 
 <!--
 $Log: germani.xml,v $
+Revision 1.20  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2014/06/09 16:10:32  revo
 Damien Brucker: +trd fr
 

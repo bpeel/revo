@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: likvid.xml,v 1.15 2004/05/25 16:33:05 revo Exp $">
+<art mrk="$Id: likvid.xml,v 1.17 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>likvid</rad>/i
@@ -38,6 +38,13 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_l;&c_ib;&c_k;&c_v;&c_ib;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>likvidovat</trd>,
+    <trd>odstranit</trd>,
+    <trd>urovnat</trd>,
+    <trd>vyřídit</trd>,
+    <trd>zničit</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>fl&uuml;ssig machen</trd>,
      <trd>absto&szlig;en</trd>,
@@ -55,6 +62,11 @@
   <trd lng="nl">liquideren</trd>
   <trd lng="pt">liquidar</trd>
   <trd lng="ru">&c_l;&c_i;&c_k;&c_v;&c_i;&c_d;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>likvidovať</trd>,
+    <trd>odstrániť</trd>,
+    <trd>zrušiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="likvid.0o">
@@ -75,6 +87,12 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_l;&c_ib;&c_k;&c_v;&c_ib;&c_d;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>likvida</trd>,
+    <trd>planná souhláska</trd>,
+    <trd>sonantní souhláska</trd>,
+    <trd>sonorní souhláska</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Abwicklung</trd>,
      <trd>Aufl&ouml;sung</trd>,
@@ -89,14 +107,25 @@
   <trdgrp lng="hu">
     <trd>felsz&aacute;mol&aacute;s</trd>,
     <trd>likvid&aacute;l&aacute;s</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="nl">liquidatie</trd>
   <trd lng="pt">liquida&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_l;&c_i;&c_k;&c_v;&c_i;&c_d;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>likvidácia</trd>,
+    <trd>odstránenie</trd>,
+    <trd>vybavenie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: likvid.xml,v $
+Revision 1.17  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2004/05/25 16:33:05  revo
 Jozefo Horvath: +trd hu
 

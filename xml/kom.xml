@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kom.xml,v 1.22 2014/01/02 10:10:12 revo Exp $">
+<art mrk="$Id: kom.xml,v 1.24 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kom</rad>/o
@@ -51,11 +51,11 @@
   </snc>
   <trd lng="be">&c_k;&c_o;&c_s;&c_k;&c_a;</trd>
   <trd lng="ca">coma</trd>
+  <trd lng="cs">&ccaron;&aacute;rka</trd>
   <trdgrp lng="de">
     <trd>Komma</trd>,
     <trd>Beistrich</trd>
   </trdgrp>
-  <trd lng="cs">&ccaron;&aacute;rka</trd>
   <trd lng="en">comma</trd>
   <trdgrp lng="fr">
     <trd>virgule</trd>
@@ -64,6 +64,7 @@
   <trd lng="pl">przecinek</trd>
   <trd lng="pt">v&iacute;rgula</trd>
   <trd lng="ru">&c_z;&c_a;&c_p;&c_ja;&c_t;&c_a;&c_ja;</trd>
+  <trd lng="sk">čiarka</trd>
 </drv>
 
 <drv mrk="kom.punkto0o">
@@ -93,6 +94,7 @@
   <trd lng="be">&c_k;&c_r;&c_o;&c_p;&c_k;&c_a; &c_z;
 &c_k;&c_o;&c_s;&c_k;&c_a;&c_j;</trd>
   <trd lng="ca">punt i coma</trd>
+  <trd lng="cs">středník</trd>
   <trdgrp lng="de">
     <trd>Semikolon</trd>,
     <trd>Strichpunkt</trd>
@@ -109,10 +111,17 @@
   <trd lng="pt">ponto-e-v&iacute;rgula</trd>
   <trd lng="ru">&c_t;&c_o;&c_ch;&c_k;&c_a; &c_s;
 &c_z;&c_a;&c_p;&c_ja;&c_t;&c_o;&c_j;</trd>
+  <trd lng="sk">bodkočiarka</trd>
 </drv>
 </art>
 <!--
 $Log: kom.xml,v $
+Revision 1.24  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/01/02 10:10:12  revo
 Damien Brucker: kompletigo
 

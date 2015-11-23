@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konces.xml,v 1.19 2014/01/22 19:10:12 revo Exp $">
+<art mrk="$Id: konces.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>6</ofc>
   <rad>koncesi</rad>/i
@@ -33,6 +33,14 @@
   <trd lng="be">&c_a;&c_d;&c_d;&c_a;&c_c;&c_mol; &c_u; <ind>&c_k;&c_a;&c_n;&c_c;&c_e;&c_s;&c_ib;&c_ju;</ind></trd>
   <trd lng="bg">&c_l;&c_i;&c_c;&c_je;&c_n;&c_z;&c_i; &c_z;&c_a; &c_v;&c_malmol;&c_z;&c_l;&c_a;&c_g;&c_a;&c_n;&c_je;</trd>
   <trd lng="ca">concedir</trd>
+  <trdgrp lng="cs">
+    <trd>koncesionovat</trd>,
+    <trd>koncesovat</trd>,
+    <trd>povolit</trd>,
+    <trd>udělit koncesi</trd>,
+    <trd>udělit oprávnění</trd>,
+    <trd>úředně povolovat</trd>
+  </trdgrp>
   <trd lng="de">konzessionieren</trd>
   <trdgrp lng="en">
     <trd>to <ind>license</ind></trd>,
@@ -51,6 +59,11 @@
   <trd lng="nl">in <ind>concessie</ind> geven</trd>
   <trd lng="pt">dar em <ind>concess&atilde;o</ind></trd>
   <trd lng="ru">&c_s;&c_d;&c_a;&c_t;&c_mol; &c_v; &c_k;&c_o;&c_n;&c_c;&c_je;&c_s;&c_s;&c_i;&c_ju;</trd>
+  <trdgrp lng="sk">
+    <trd>koncesovať</trd>,
+    <trd>udeliť koncesiu</trd>,
+    <trd>úradne povoliť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konces.0o">
@@ -71,6 +84,11 @@
   <trd lng="be">&c_k;&c_a;&c_n;&c_c;&c_e;&c_s;&c_ib;&c_ja;</trd>
   <trd lng="bg">&c_k;&c_o;&c_n;&c_c;&c_je;&c_s;&c_i;&c_ja;</trd>
   <trd lng="ca">concessi&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>koncese</trd>,
+    <trd>povolení</trd>,
+    <trd>ústupek</trd>
+  </trdgrp>
   <trd lng="de">Konzession</trd>
   <trdgrp lng="en">
     <trd>concession</trd>,
@@ -84,6 +102,11 @@
   </trdgrp>
   <trd lng="nl">concessie</trd>
   <trd lng="ru">&c_k;&c_o;&c_n;&c_c;&c_je;&c_s;&c_s;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>koncesia</trd>,
+    <trd>povolenie</trd>,
+    <trd>ústupok</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konces.0ulo">
@@ -127,10 +150,18 @@
   </trdgrp>
   <trd lng="hu">koncesszi&oacute;tulajdonos</trd>  
   <trd lng="ru">&c_k;&c_o;&c_n;&c_c;&c_je;&c_s;&c_s;&c_i;&c_o;&c_n;&c_je;&c_r;</trd>
+  <trd lng="sk">koncesionár</trd>
+  <trd lng="cs">koncesionář</trd>
 </drv>
 </art>
 <!--
 $Log: konces.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/01/22 19:10:12  revo
 Joop Eggen: +trd bg
 

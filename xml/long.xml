@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: long.xml,v 1.43 2014/09/23 16:10:10 revo Exp $">
+<art mrk="$Id: long.xml,v 1.48 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>long</rad>/a <fnt><bib>PV</bib></fnt>
@@ -115,8 +115,10 @@
   <trd lng="fr">long</trd>
   <trd lng="hu">hossz&uacute;</trd>
   <trd lng="nl">lang</trd>
-  <trd lng="pt">longo</trd>
+  <trd lng="no">lang</trd>
   <trd lng="pl">d&lstroke;ugi</trd>
+  <trd lng="pt">longo</trd>
+  <trd lng="sk">dlhý</trd>
   <trd lng="sv">l&aring;ng</trd>
   <trd lng="tp">suli</trd>
   <trd lng="vo">lonedik</trd>
@@ -142,11 +144,17 @@
         io tiel <tld/>e ser&ccirc;ata<fnt>Z</fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="es">
+      <trd>mucho tiempo</trd>,
+      <trd>largo tiempo</trd>,
+      <trd>largamente</trd>
+    </trdgrp>
     <trd lng="fr">longtemps</trd>
     <trdgrp lng="hu">
       <trd>hosszan</trd>,
-      <trd>hossz&uacute; ideig</trd>,
+      <trd>hossz&uacute; ideig</trd>
     </trdgrp>
+    <trd lng="no">lenge</trd>
     <trd lng="ru">&c_d;&c_o;&c_l;&c_g;&c_o;</trd>
   </snc>
   <snc mrk="long.0e.delonge">
@@ -156,6 +164,7 @@
       <fnt><bib>F</bib>, <lok>&FE; 25</lok></fnt>.
     </ekz>
     <trd lng="hu">r&eacute;gen</trd>
+    <trd lng="no">lenge</trd>
     <trd lng="ru">&c_d;&c_a;&c_v;&c_n;&c_o;</trd>
   </snc>
   <snc mrk="long.0e.space">
@@ -169,11 +178,17 @@
       </ekz>
     </dif>
     <trd lng="hu">hosszan</trd>
+    <trd lng="no">langt</trd>
     <trd lng="ru">&c_d;&c_l;&c_i;&c_n;&c_n;&c_o;</trd>
   </snc>
-  <trd lng="cs">dlouho</trd>
+  <trdgrp lng="cs">
+    <trd>dlouho</trd>,
+    <trd>dlouze</trd>,
+    <trd>dávno</trd>
+  </trdgrp>
   <trd lng="de">lange</trd>
   <trd lng="nl">lang</trd>
+  <trd lng="sk">dlho</trd>
   <trd lng="sv">l&auml;nge</trd>
 </drv>
 
@@ -239,9 +254,11 @@
     <refgrp tip="vid">
       <ref cel="metr.0o">metro</ref>
     </refgrp>
+    <trd lng="es">longitud<klr tip="ind"> (tama&ntilde;o f&iacute;sico)</klr></trd>
     <trd lng="fr">longueur<klr tip="ind"> (grandeur
     physique)</klr></trd>
   </snc>
+  <trd lng="cs">délka</trd>
   <trdgrp lng="de">
     <trd>L&auml;nge</trd>
   </trdgrp>
@@ -251,8 +268,10 @@
     <trd>hossz&uacute;s&aacute;g</trd>
   </trdgrp>
   <trd lng="nl">lengte</trd>
+  <trd lng="no">lengde</trd>
   <trd lng="pt">comprimento</trd>
   <trd lng="ru">&c_d;&c_l;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sk">dĺžka</trd>
   <trd lng="sv">l&auml;ngd</trd>
 </drv>
 
@@ -284,6 +303,7 @@
       <fnt><bib>MT</bib>, <lok>&Rea; 3:11</lok></fnt>.
     </ekz>
   </snc>
+  <trd lng="cs">délka</trd>
   <trdgrp lng="de">
     <trd>L&auml;nge</trd>
   </trdgrp>
@@ -291,10 +311,12 @@
     <trd>longness</trd>,
     <trd>length</trd>
   </trdgrp>
+  <trd lng="es">longitud</trd>
   <trd lng="fr">longueur<klr tip="ind"> (fait d'&ecirc;tre long)</klr></trd>
   <trd lng="hu">hossz&uacute;s&aacute;g</trd>
   <trd lng="nl">lengte<klr tip="ind"> (het lang zijn)</klr></trd>
   <trd lng="ru">&c_d;&c_l;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sk">dĺžka</trd>
   <trd lng="sv">l&auml;ngd</trd>
 </drv>
 
@@ -314,6 +336,7 @@
     <trd>viel fr&uuml;her</trd>
   </trdgrp>
   <trd lng="en">long ago</trd>
+  <trd lng="es">hace mucho tiempo</trd>
   <trdgrp lng="fr">
     <trd>depuis <ind>longtemps</ind></trd>,
     <trd>il y a <ind>longtemps</ind></trd>
@@ -323,6 +346,7 @@
     <trd>j&oacute;val el&odblac;tte</trd>
   </trdgrp>
   <trd lng="nl">lang <ind>geleden</ind></trd>
+  <trd lng="no">for <ind>lenge siden</ind></trd>
   <trd lng="ru">&c_d;&c_a;&c_v;&c_n;&c_o;</trd>
   <trd lng="sv">f&ouml;r <ind>l&auml;nge</ind> sedan</trd>
 </drv>
@@ -349,10 +373,11 @@
   </snc>
   <trd lng="de">vor kurzem</trd>
   <trd lng="en">a short while ago</trd>
-  <trd lng="es">hace poco</trd>
+  <trd lng="es">hace poco tiempo</trd>
   <trd lng="fr">il y a peu<klr tip="amb"> (de temps)</klr></trd>
   <trd lng="hu">nemr&eacute;g</trd>
   <trd lng="nl">onlangs</trd>
+  <trd lng="no">for ikke <ind>lenge siden</ind></trd>
   <trd lng="ru">&c_n;&c_je;&c_d;&c_a;&c_v;&c_n;&c_o;</trd>
 </drv>
 
@@ -387,15 +412,18 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">dávno</trd>
   <trdgrp lng="hu">
     <trd>r&eacute;g&oacute;ta</trd>,
     <trd>r&eacute;gt&odblac;l fogva</trd>
   </trdgrp>
   <trd lng="nl">sinds lang</trd>
+  <trd lng="no">i <ind>lang tid</ind></trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_a;&c_v;&c_n;&c_o;</trd>,
     <trd>&c_i;&c_z;&c_d;&c_a;&c_v;&c_n;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">dávno</trd>
 </drv>
 
 <drv mrk="long.laux0e">
@@ -418,6 +446,7 @@
     <trd><klr>der </klr>L&auml;nge nach</trd>
   </trdgrp>
   <trd lng="en">lengthwise</trd>
+  <trd lng="es">a lo <ind>largo</ind></trd>
   <trd lng="fr">en <ind>long</ind></trd>
   <trd lng="hu">hossz&aacute;ban</trd>
   <trd lng="nl">langs</trd>
@@ -448,6 +477,10 @@
   </snc>
   <trd lng="ca">al <ind>llarg</ind> de</trd>
   <trd lng="en">along</trd>
+  <trdgrp lng="es">
+    <trd>a lo <ind>largo</ind> de</trd>,
+    <trd>durante</trd>
+  </trdgrp>
   <trd lng="fr">le <ind>long</ind> de</trd>
   <trd lng="nl">langs</trd>
   <trd lng="oc">al <ind>long</ind> de</trd>
@@ -472,6 +505,7 @@
     </dif>
     <trd lng="ru">&c_k;&c_o;&c_r;&c_o;&c_t;&c_k;&c_i;&c_j;</trd>
     <trd lng="de">kurz</trd>
+    <trd lng="es">corto</trd>
   </snc>
   <snc mrk="long.mal0a.tempe">
     <dif>
@@ -491,6 +525,7 @@
       <trd>kurzandauernd</trd>,
       <trd>kurzzeitig</trd>
     </trdgrp>
+    <trd lng="es">breve</trd>
     <trd lng="fr">bref</trd>
     <trdgrp lng="ru">
       <trd>&c_k;&c_o;&c_r;&c_o;&c_t;&c_k;&c_i;&c_j;</trd>,
@@ -515,6 +550,7 @@
     <trd lng="ru">&c_k;&c_r;&c_a;&c_t;&c_k;&c_i;&c_j;</trd>
   </snc>
   <trd lng="ca">corto</trd>
+  <trd lng="cs">krátký</trd>
   <trd lng="de">kurz</trd>
   <trd lng="en">short</trd>
   <trd lng="es">corto</trd>
@@ -523,11 +559,13 @@
   </trdgrp>
   <trd lng="hu">r&ouml;vid</trd>
   <trd lng="nl">kort</trd>
+  <trd lng="no">kort</trd>
   <trd lng="pl">kr&oacute;tki</trd>
   <trd lng="pt">curto</trd>
+  <trd lng="sk">krátky</trd>
   <trd lng="sv">kort</trd>
-  <trd lng="vo">blefik</trd>
   <trd lng="tp">lili</trd>
+  <trd lng="vo">blefik</trd>
 </drv>
 
 <drv mrk="long.mal0igi">
@@ -560,6 +598,7 @@
     <trd lng="es">abreviar</trd>
     <trd lng="ru">&c_s;&c_o;&c_k;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</trd>
   </snc>
+  <trd lng="cs">zkrátit</trd>
   <trd lng="en">shorten</trd>
   <trdgrp lng="fr">
     <trd>abr&eacute;ger</trd>,
@@ -570,6 +609,8 @@
     <trd>verkorten</trd>,
     <trd>inkorten</trd>
   </trdgrp>
+  <trd lng="no">korte ned</trd>
+  <trd lng="sk">skrátiť</trd>
   <trd lng="tp">lili</trd>
 </drv>
 
@@ -607,15 +648,21 @@
     </trdgrp>
   </snc>
   <trd lng="ca">abreviatura</trd>
+  <trdgrp lng="cs">
+    <trd>krácení</trd>,
+    <trd>zkratka</trd>
+  </trdgrp>
   <trd lng="de">Abk&uuml;rzung</trd>
   <trd lng="en">abreviation</trd>
   <trd lng="es">abreviatura</trd>
   <trd lng="fr">abr&eacute;viation</trd>
   <trd lng="nl">afkorting</trd>
+  <trd lng="no">forkortelse</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_o;&c_k;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_a;&c_b;&c_b;&c_r;&c_je;&c_v;&c_i;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">skratka</trd>
 </drv>
 
 <drv mrk="long.ne0e">
@@ -637,16 +684,23 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>nedlouho</trd>,
+    <trd>nedávno</trd>
+  </trdgrp>
   <trd lng="en">briefly</trd>
   <trdgrp lng="es">
     <trd>con <ind>brevedad</ind></trd>,
     <trd>brevemente</trd>
   </trdgrp>
+  <trd lng="fr">bri&egrave;vement</trd>
   <trdgrp lng="hu">
     <trd>nem sok&aacute;ig</trd>,
     <trd>r&ouml;vid ideig</trd>
   </trdgrp>
+  <trd lng="no">kort</trd>
   <trd lng="ru">&c_n;&c_je;&c_d;&c_o;&c_l;&c_g;&c_o;</trd>
+  <trd lng="sk">nedávno</trd>
 </drv>
 
 <drv mrk="long.postne0e">
@@ -670,12 +724,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">poco despu&eacute;s</trd>
   <trd lng="fr">peu apr&egrave;s</trd>
   <trdgrp lng="hu">
     <trd>csakhamar</trd>,
     <trd>hamarosan</trd>,
     <trd>kisv&aacute;rtatva</trd>
   </trdgrp>
+  <trd lng="no">rett <ind>etterp&aring;</ind></trd>
   <trd lng="ru">&c_v;&c_s;&c_k;&c_o;&c_r;&c_je;</trd>
 </drv>
 
@@ -691,21 +747,38 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">podlouhlý</trd>
   <trdgrp lng="de">
     <trd>l&auml;nglich</trd>
   </trdgrp>
+  <trd lng="es">alargado</trd>
   <trdgrp lng="fr">
     <trd>allong&eacute;</trd>,
     <trd>oblong</trd>
   </trdgrp>
-  <trd lng="es">alargado</trd>
   <trd lng="hu">hossz&uacute;k&aacute;s</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_d;&c_o;&c_l;&c_g;&c_o;&c_v;&c_a;&c_t;&c_y;&c_j;</trd>
+  <trd lng="sk">podlhovastý</trd>
 </drv>
 
 </art>
 <!--
 $Log: long.xml,v $
+Revision 1.48  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.47  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.46  2015/02/19 13:10:17  revo
+Alain Gerard: + trd fr
+
+Revision 1.45  2014/12/20 09:10:19  revo
+Filip van Laenen: +trd(no)
+
+Revision 1.44  2014/11/12 05:10:12  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.43  2014/09/23 16:10:10  revo
 Damien Brucker: +ekz
 
@@ -719,14 +792,5 @@ Revision 1.40  2013/07/01 01:10:13  revo
 Benito Subejrano: + trd ca oc
 
 Revision 1.39  2010/02/21 17:30:29  revo
-Jeromo Vasxe: + postne~e, reordig. drv
-
-Revision 1.38  2007/11/19 17:30:29  revo
-Wieland Pusch: +trd bg
-
-Revision 1.37  2007/08/21 16:30:22  revo
-Wieland Pusch: +trd de
-
-Revision 1.36  2007/01/07 17:31:51  revo
 -->
 </vortaro>

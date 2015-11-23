@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ru.xml,v 1.9 2013/01/01 15:10:22 revo Exp $">
+<art mrk="$Id: ru.xml,v 1.11 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>ru</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -16,6 +16,10 @@
       aliaj substancoj.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>močit <klr>(len, konopí)</klr></trd>,
+    <trd>rosit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>r&ouml;sten</trd>,
     <trd>rotten</trd>
@@ -31,10 +35,20 @@
     <trd>moczy&cacute; <klr>(len, konopie)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_o;&c_ch;&c_i;&c_t;&c_mol; <klr tip="amb">(&c_l;&c_jo;&c_n;, &c_k;&c_o;&c_n;&c_o;&c_p;&c_l;&c_ju;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>močiť</trd>,
+    <trd>rosiť <klr>(ľan, konope)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ru.xml,v $
+Revision 1.11  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2013/01/01 15:10:22  revo
 Sebastian Cyprych: +trd pl
 

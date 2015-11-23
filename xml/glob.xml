@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: glob.xml,v 1.28 2014/10/24 15:10:19 revo Exp $">
+<art mrk="$Id: glob.xml,v 1.34 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>glob</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,31 +12,26 @@
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="glob.0o.FORM">
     <dif>
-      Sferforma, bulforma korpo a&ubreve; objekto:
+      Fizika objekto, <ctl>korpo</ctl> kies supra&jcirc;o pli a&ubreve; malpli
+      &gcirc;uste formas <ref cel="sfer.0o.surfaco">sferon<sncref/></ref>:
       <ekz>
-        ronda balono estas <tld/>o;
-      </ekz>
-      <ekz>
+        <uzo tip="fak">SPO</uzo>
+        bilarda <tld/>o;
+      </ekz><ekz>
+        <uzo tip="fak">TEK</uzo>
+        la <tld/>oj de lagro;
+      </ekz><ekz>
         <uzo tip="fak">GEOG</uzo>
-        <ind>ter<tld/>o</ind>;
-        <trd lng="es"><ind>globo</ind> terraqueo</trd>
-        <trd lng="fr">globe terrestre<klr tip="ind"> (la
-        Terre)</klr></trd>
-        <trd lng="hu">f&ouml;ldgoly&oacute;</trd>
-        <trd lng="nl">aardbol</trd>
-        <trd lng="pl">kula</trd>
-        <trd lng="ru">&c_z;&c_je;&c_m;&c_n;&c_o;&c_j; &c_sh;&c_a;&c_r;</trd>
-      </ekz>
-      <ekz>
+        <ref cel="glob.ter0o">ter<tld/>o</ref>;
+      </ekz><ekz>
         <uzo tip="fak">GEOG</uzo>
         kartona <ind>geografia <tld/>o</ind>
-        <klr>(<ref cel="globus.0o">globuso</ref>)</klr>;
+        <klr>(t.e. <ref cel="globus.0o">globuso</ref>)</klr>;
         <trd lng="fr">globe<klr tip="ind">
         (repr&eacute;sentant la Terre)</klr></trd>
         <trd lng="hu">f&ouml;ldg&ouml;mb</trd>
         <trd lng="nl">wereldbol</trd>
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         <uzo tip="fak">ANA</uzo>
         <ind>okul<tld/>o</ind>;
         <trd lng="es"><ind>globo</ind> ocular</trd>
@@ -48,10 +43,8 @@
         </trdgrp>
         <trd lng="pl">ga&lstroke;ka oczna</trd>
         <trd lng="ru">&c_g;&c_l;&c_a;&c_z;&c_n;&c_o;&c_je; &c_ja;&c_b;&c_l;&c_o;&c_k;&c_o;</trd>
-      </ekz>
-      <ekz>
-        <uzo tip="fak">SPO</uzo>
-        <tld/>o de bilardo.
+      </ekz><ekz>
+        <ref cel="krajon.glob0o"><tld/>krajono</ref>
       </ekz>
     </dif>
     <trd lng="de">Kugel</trd>
@@ -71,39 +64,54 @@
     <fnt><bib>MatVort</bib></fnt>
     <subsnc mrk="glob.0o.metrikaspaco">
       <dif>
-        <klr>(kun centro <frm><k>a</k></frm> kaj radiuso <frm>&rho;</frm>,
-        en <ref cel="spac.metrika0o">metrika spaco</ref>)</klr>
-        Subaro konsistanta el &ccirc;iuj
-        <ref cel="punkt.0o.spaco">punktoj</ref>, kies
-        <ref cel="distan.0o.inter_punktoj">distanco</ref> al
-        <frm><k>a</k></frm> estas malpli granda ol <frm>&rho;</frm>:
-        <ekz>
-          <tld/>oj estas
-          <ref cel="ferm.mal0ita.metrikaspaco">malfermitaj</ref>
-          subaroj.
-        </ekz>
+        <klr>(<tld lit="G"/>o kun centro <frm><k>a</k></frm> kaj radiuso
+        <frm>&rho;</frm>)</klr>
+        Aro da &ccirc;iuj tiaj <ref cel="punkt.0o.spaco">punktoj</ref>
+        el <ref cel="spac.metrika0o">metrika spaco</ref>, ke ilia
+        <ref cel="distan.0o.inter_punktoj">distanco</ref>
+        <frm><k>d</k></frm> de <frm><k>a</k></frm> la
+        radiuson <frm>&rho;</frm> malsuperas
+        (<frm><k>d</k>&lt;&rho;</frm>, por
+        &leftquot;<ref cel="ferm.mal0ita.metrikaspaco">malfermita</ref>
+        <tld/>o&rightquot;),
+        a&ubreve; ne superas (<frm><k>d</k>&#8804;&rho;</frm>, por
+        &leftquot;<ref cel="ferm.0ita.topologio">fermita</ref> <tld/>o&rightquot;).
       </dif>
       <rim>
         &Ccirc;i-sence troveblas anka&ubreve; <ctl>bulo</ctl>
         <fnt><bib>EKV</bib><lok>&para;53</lok></fnt>.
-        Eblas difini anka&ubreve; <ctl>fermitajn <tld/>ojn</ctl>, se oni
-        allasas, ke la distanco al la centro egalu la radiuson.
-        Kontrastcele
-        oni foje nomas la &ccirc;i-supre difinitajn <tld/>ojn <ctl>malfermitaj
-        <tld/>oj</ctl>.
       </rim>
       <trd lng="de">Kugel</trd>
       <trd lng="en">ball<klr tip="ind"> (in a metric space)</klr></trd>
       <trd lng="fr">boule<klr tip="ind"> (dans un espace
       m&eacute;trique)</klr></trd>
       <trd lng="pl">kula<klr> (w przestrzeni metrycznej)</klr></trd>
-      <trd lng="ru">&c_sh;&c_a;&c_r;<klr tip="ind"> (&c_v; &c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_m;
-      &c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_je;)</klr></trd>
+      <trd lng="ru">&c_o;&c_t;&c_k;&c_r;&c_y;&c_t;&c_y;&c_j; <ind>&c_sh;&c_a;&c_r;</ind></trd>
     </subsnc>
     <subsnc mrk="glob.0o.sfero">
-      <refgrp tip="dif">
-        <ref cel="sfer.0o.solido">sfero</ref> (kiel solido).
-      </refgrp>
+      <fnt><bib>PIV2</bib></fnt>
+      <dif>
+        (Speciale:) Same difinita (fermita a&ubreve; malfermita)
+        <tld/>o<sncref ref="glob.0o.metrikaspaco"/> (solido) en
+        tridimensia e&ubreve;klida spaco:
+        <ekz>
+          la volumeno <frm>V</frm> de <tld/>o havanta la radiuson
+          <frm>r</frm> estas <frm>V=4&pi;r&cubic;/3</frm>;
+        </ekz><ekz>
+          <uzo tip="fak">SPO</uzo>
+          la <ind>pez<tld/>o</ind> estas fera a&ubreve; latuna <tld/>o kun
+          difinitaj
+          pezo kaj diametro
+          <fnt>
+            <aut>Tibor Ujlaky-Nagy</aut>:
+            <vrk>La sporta lingvo en Esperanto</vrk>.
+            <lok><url
+ ref="http://www.freeweb.hu/eventoj/steb/sportalingvo.rtf"
+                >Hungara Esperanto-Asocio, 1972</url></lok>
+          </fnt>.
+          <trd lng="ru">&c_ja;&c_d;&c_r;&c_o;<klr> (&c_s;&c_p;&c_o;&c_r;&c_t;&c_i;&c_v;&c_n;&c_o;&c_je;)</klr></trd>
+      </ekz>
+      </dif>
       <trd lng="de">Kugel</trd>
       <trdgrp lng="en">
         <trd>sphere</trd>,
@@ -116,12 +124,23 @@
       <trd lng="pl">kula<klr> (bry&lstroke;a)</klr></trd>
       <trd lng="ru">&c_sh;&c_a;&c_r;<klr tip="ind"> (&c_t;&c_je;&c_l;&c_o;)</klr></trd>
     </subsnc>
+    <refgrp tip="vid">
+      <ref cel="centr.0o.cirklo">centro</ref>,
+      <ref cel="diamet.0o.cirklo">diametro</ref>,
+      <ref cel="radius.0o.cirklo">radiuso</ref>;
+    </refgrp>
+    <refgrp tip="prt">
+      <ref cel="segmen.0o.sfero">segmento</ref>,
+      <ref cel="tavol.glob0o">globtavolo</ref>,
+      <ref cel="disk.sfer0o"><tld/>disko</ref>.
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_sh;&c_a;&c_r;</trd>,
     <trd>&c_k;&c_u;&c_l;&c_ja;</trd>,
     <trd>&c_s;&c_f;&c_e;&c_r;&c_a;</trd>
   </trdgrp>
+  <trd lng="cs">koule</trd>
   <trd lng="id">globe</trd>
   <trd lng="nl">bol</trd>
   <trdgrp lng="pt">
@@ -130,6 +149,7 @@
    <trd>orbe</trd> 
   </trdgrp>
   <trd lng="ru">&c_sh;&c_a;&c_r;</trd>
+  <trd lng="sk">guľa</trd>
 </drv>
 
 <drv mrk="glob.0a">
@@ -138,31 +158,61 @@
     <dif>
       <tld lit="G"/>forma:
       <ekz>
+        <ind><tld/>a fulmo</ind>
+        <klr>(lumanta <tld/>o &scirc;vebanta en aerfluo)</klr>
+	<fnt>
+	  <aut>Maurice Lewin</aut>: <vrk>Meteologia terminaro</vrk>
+	</fnt>;
+        <trd lng="ru">&c_sh;&c_a;&c_r;&c_o;&c_v;&c_a;&c_ja; &c_m;&c_o;&c_l;&c_n;&c_i;&c_ja;</trd>
+      </ekz><ekz>
         <tld/>e kunvolvita tuketo<fnt>Z</fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_sh;&c_a;&c_r;&c_a;&c_a;&c_b;&c_r;&c_y;&c_s;&c_n;&c_y;</trd>,
+      <trd>&c_sh;&c_a;&c_r;&c_a;&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;</trd>,
+      <trd>&c_k;&c_r;&c_u;&c_g;&c_l;&c_y;</trd>,
+      <trd>&c_s;&c_f;&c_e;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trd lng="de">kugelig</trd>
+    <trdgrp lng="fr">
+      <trd>rond<klr tip="ind"> (sph&eacute;rique)</klr></trd>,
+      <trd>sph&eacute;rique</trd>
+    </trdgrp>
+    <trd lng="hu">g&ouml;mb alak&uacute;</trd>
+    <trd lng="id">sferis</trd>
+    <trd lng="nl">bolvormig</trd>
+    <trd lng="pl">kulisty</trd>
+    <trd lng="pt">globular</trd>
+    <trdgrp lng="ru">
+      <trd>&c_sh;&c_a;&c_r;&c_o;&c_v;&c_i;&c_d;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_sh;&c_a;&c_r;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_k;&c_r;&c_u;&c_g;&c_l;&c_y;&c_j;</trd>
+    </trdgrp>
   </snc>
-  <trdgrp lng="be">
-    <trd>&c_sh;&c_a;&c_r;&c_a;&c_a;&c_b;&c_r;&c_y;&c_s;&c_n;&c_y;</trd>,
-    <trd>&c_sh;&c_a;&c_r;&c_a;&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;</trd>,
-    <trd>&c_k;&c_r;&c_u;&c_g;&c_l;&c_y;</trd>,
-    <trd>&c_s;&c_f;&c_e;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <snc mrk="glob.0a.tergloba">
+    <dif>
+      Tuttera, tutter<tld/>a:
+      <ekz>
+        jam delonge ekzistas GPS (<tld/>a pozicia sistemo), aro da
+        satelitoj el kiuj &ccirc;iam tri estas videblaj en preska&ubreve;
+        &ccirc;iuj lokoj de la mondo
+        <fnt>
+          <aut>Roland ROTSAERT</aut>:
+          <vrk>Galileo defios Usonon</vrk>. <bib>Monato</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ru">
+      <trd>&c_g;&c_l;&c_o;&c_b;&c_a;&c_l;&c_n;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_v;&c_s;&c_je;&c_m;&c_i;&c_r;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kulatý</trd>,
+    <trd>kulový</trd>
   </trdgrp>
-  <trd lng="de">kugelig</trd>
-  <trdgrp lng="fr">
-    <trd>rond<klr tip="ind"> (sph&eacute;rique)</klr></trd>,
-    <trd>sph&eacute;rique</trd>
-  </trdgrp>
-  <trd lng="hu">g&ouml;mb alak&uacute;</trd>
-  <trd lng="id">sferis</trd>
-  <trd lng="nl">bolvormig</trd>
-  <trd lng="pl">kulisty</trd>
-  <trd lng="pt">globular</trd>
-  <trdgrp lng="ru">
-    <trd>&c_sh;&c_a;&c_r;&c_o;&c_v;&c_i;&c_d;&c_n;&c_y;&c_j;</trd>,
-    <trd>&c_sh;&c_a;&c_r;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>,
-    <trd>&c_k;&c_r;&c_u;&c_g;&c_l;&c_y;&c_j;</trd>
-  </trdgrp>
+  <trd lng="sk">guľatý</trd>
 </drv>
 
 <drv mrk="glob.0eto">
@@ -199,6 +249,8 @@
   <trd lng="pl">kulka</trd>
   <trd lng="pt">gl&oacute;bulo</trd>
   <trd lng="ru">&c_sh;&c_a;&c_r;&c_i;&c_k;</trd>
+  <trd lng="sk">guľka</trd>
+  <trd lng="cs">kulička</trd>
 </drv>
 
 <drv mrk="glob.blanka0eto">
@@ -265,6 +317,7 @@
     <trd>&c_p;&c_a;&c_w;&c_sh;&c_a;&c_r;'&c_je;</trd>,
     <trd>&c_p;&c_a;&c_w;&c_k;&c_u;&c_l;&c_ja;</trd>
   </trdgrp>
+  <trd lng="cs">polokoule Země</trd>
   <trd lng="en">hemisphere</trd>
   <trd lng="es">hemisferio</trd>
   <trd lng="fr">h&eacute;misph&egrave;re</trd>
@@ -277,6 +330,7 @@
   <trd lng="pl">p&oacute;&lstroke;kula</trd>
   <trd lng="pt">hemisf&eacute;rio</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_u;&c_sh;&c_a;&c_r;&c_i;&c_je;</trd>
+  <trd lng="sk">pologuľa Zeme</trd>
 </drv>
 
 <drv mrk="glob.faden0o">
@@ -315,6 +369,7 @@
   <trd lng="nl">wereldkaart</trd>
   <trd lng="pt">planisf&eacute;rio</trd>
   <trd lng="ru">&c_p;&c_l;&c_a;&c_n;&c_i;&c_s;&c_f;&c_je;&c_r;&c_a;</trd>
+  <trd lng="sk">zemská mapa</trd>
 </drv>
 
 <drv mrk="glob.rugxa0eto">
@@ -331,9 +386,71 @@
   </snc>
   <trd lng="id"><ind>sel</ind> darah merah</trd>
 </drv>
+
+<drv mrk="glob.ter0o">
+  <kap>ter<tld/>o</kap>
+  <snc mrk="glob.ter0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      La planedo Tero konsiderata kiel tuto, kun &gcirc;ia formo
+      proksima al <tld/>o:
+      <ekz>
+        Li &ccirc;iam iris la&ubreve; sia kutimo, kvaza&ubreve; li, tute sola,
+        kapablus &scirc;an&gcirc;i la pozicion de la akso de la ter<tld/>o
+        <fnt>
+          <aut>Sabahattin Ali, tr. Ferruh Canatay</aut>:
+          <vrk>Ide-kamarado</vrk>.
+          <lok>&leftquot;Pa&scirc;oj al plena posedo&rightquot;, la pa&scirc;o 7&#170;</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="es"><ind>globo</ind> terraqueo</trd>
+    <trd lng="fr">globe terrestre<klr tip="ind"> (la Terre)</klr></trd>
+    <trd lng="hu">f&ouml;ldgoly&oacute;</trd>
+    <trd lng="nl">aardbol</trd>
+    <trd lng="pl">kula</trd>
+    <trd lng="ru">&c_z;&c_je;&c_m;&c_n;&c_o;&c_j; &c_sh;&c_a;&c_r;</trd>
+  </snc>
+  <trd lng="cs">zeměkoule</trd>
+  <trd lng="sk">zemeguľa</trd>
+</drv>
+
+<drv mrk="glob.kava0o">
+  <kap>kava <tld/>o</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="solid.0o.geometrio">Solido</ref>
+      konsistanta el &ccirc;iuj punktoj inter du samcentraj sferoj:
+      <ekz>
+        la terkrusto kaj la atmosfero formas kavajn <tld/>ojn.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="vid" cel="sxel.0o">&scirc;elo</ref>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_y;&c_j; &c_sh;&c_a;&c_r;</trd>
+</drv>
+
 </art>
 <!--
 $Log: glob.xml,v $
+Revision 1.34  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2015/02/10 13:10:15  revo
+Sergio Pokrovskij: dif
+
+Revision 1.31  2015/02/10 11:10:15  revo
+Sergio Pokrovskij: TEZ, +ekz
+
+Revision 1.30  2015/02/10 07:10:15  revo
+Sergio Pokrovskij: +ekz
+
+Revision 1.29  2015/02/10 06:10:16  revo
+Sergio Pokrovskij: apartigo de ter~o, MAT laux PIV2
+
 Revision 1.28  2014/10/24 15:10:19  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -344,17 +461,5 @@ Revision 1.26  2007/07/02 16:30:33  revo
 Wieland Pusch: +trd de
 
 Revision 1.25  2005/08/21 16:32:54  revo
-Luiz Portella: +trd pt
-
-Revision 1.24  2005/02/25 17:32:38  revo
-Yury Finkel: +trd ru
-
-Revision 1.23  2005/01/19 17:31:33  revo
-Vito Redsky: + pl trd okulglobo
-
-Revision 1.22  2005/01/13 18:39:55  revo
-Vito Redsky: + pl trd
-
-Revision 1.21  2004/09/12 17:44:04  revo
 -->
 </vortaro>

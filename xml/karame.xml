@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: karame.xml,v 1.16 2009/08/28 16:32:24 revo Exp $">
+<art mrk="$Id: karame.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>karamel</rad>/o
@@ -25,6 +25,10 @@
   <trd lng="be">&c_k;&c_a;&c_r;&c_a;&c_m;&c_e;&c_l;&c_mol;</trd>
   <trd lng="bg">&c_k;&c_a;&c_r;&c_a;&c_m;&c_je;&c_l;</trd>
   <trd lng="ca">caramel</trd>
+  <trdgrp lng="cs">
+    <trd>cukrové barvivo</trd>,
+    <trd>karamel</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Karamell</trd>,
     <trd>Karamellzucker</trd>
@@ -38,11 +42,21 @@
     <trd>&c_k;&c_a;&c_r;&c_a;&c_m;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_l;&c_je;&c_d;&c_je;&c_n;&c_je;&c_c;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cukrové farbivo</trd>,
+    <trd>karamel</trd>
+  </trdgrp>
   <trd lng="tr">karamela</trd>
 </drv>
 </art>
 <!--
 $Log: karame.xml,v $
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2009/08/28 16:32:24  revo
 Wieland Pusch: +trd bg
 

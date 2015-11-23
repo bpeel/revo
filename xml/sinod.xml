@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sinod.xml,v 1.11 2014/06/05 12:10:17 revo Exp $">
+<art mrk="$Id: sinod.xml,v 1.13 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>sinod</rad>/o
@@ -16,6 +16,12 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_y;&c_n;&c_o;&c_d;</trd>
+  <trdgrp lng="cs">
+    <trd>shromáždění</trd>,
+    <trd>sněm</trd>,
+    <trd>synod</trd>,
+    <trd>synoda</trd>
+  </trdgrp>
   <trd lng="de">Synode</trd>
   <trd lng="en">synod</trd>
   <trd lng="fr">synode</trd>
@@ -24,10 +30,20 @@
     <trd>szin&oacute;dus</trd></trdgrp>
   <trd lng="nl">synode</trd>
   <trd lng="ru">&c_s;&c_i;&c_n;&c_o;&c_d;</trd>
+  <trdgrp lng="sk">
+    <trd>cirkevný snem</trd>,
+    <trd>synoda</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: sinod.xml,v $
+Revision 1.13  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2014/06/05 12:10:17  revo
 Damien Brucker: +trd fr
 

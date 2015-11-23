@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: iz.xml,v 1.11 2013/10/10 12:10:13 revo Exp $">
+<art mrk="$Id: iz.xml,v 1.12 2015/09/16 13:10:15 revo Exp $">
 <kap>
   -<rad>iz</rad> <fnt><bib>PIV1</bib></fnt> <fnt><bib>PMEG</bib></fnt>
 </kap>
@@ -55,10 +55,17 @@
   </rim>
   </snc>
   </drv>
+  <trdgrp lng="en">
+    <trd>-ize</trd>,
+    <trd>-ise</trd>
+  </trdgrp>
 </art>
 
 <!--
 $Log: iz.xml,v $
+Revision 1.12  2015/09/16 13:10:15  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.11  2013/10/10 12:10:13  revo
 Damien Brucker: -/
 
@@ -78,8 +85,5 @@ Revision 1.6  2013/08/30 10:10:12  revo
 Damien Brucker: sxangxo por enkonduki -iz en la reta sercxilo
 
 Revision 1.5  2013/08/29 15:10:42  revo
-Damien Brucker: Aldono de /
-
-Revision 1.4  2013/08/29 09:10:17  revo
 -->
 </vortaro>

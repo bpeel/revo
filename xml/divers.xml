@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: divers.xml,v 1.21 2010/10/04 16:30:58 revo Exp $">
+<art mrk="$Id: divers.xml,v 1.23 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>divers</rad>/a <fnt><bib>PV</bib></fnt>
@@ -79,7 +79,16 @@
     <trd>&c_r;&c_o;&c_z;&c_n;&c_y;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_n;&c_a;&c_s;&c_t;&c_a;&c_j;&c_n;&c_y;</trd>
   </trdgrp>
-  <trd lng="cs">r&uring;zn&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>lecjaký</trd>,
+    <trd>r&uring;zn&yacute;</trd>,
+    <trd>rozdílný</trd>,
+    <trd>rozličný</trd>,
+    <trd>rozmanitý</trd>,
+    <trd>různý</trd>,
+    <trd>všelijaký</trd>,
+    <trd>všeliký</trd>
+  </trdgrp>
   <trd lng="de">verschieden</trd>
   <trd lng="en">diverse</trd>
   <trd lng="es">diverso</trd>
@@ -94,6 +103,10 @@
     <trd>
     &c_r;&c_a;&c_z;&c_n;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;
     </trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozličný</trd>,
+    <trd>rôzny</trd>
   </trdgrp>
 </drv>
 
@@ -115,10 +128,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">provádět diverzní činnost</trd>
   <trdgrp lng="fr">
     <trd>diverger</trd>,
     <trd>pr&eacute;senter des diff&eacute;rences</trd>
   </trdgrp>
+  <trd lng="sk">prevádzať diverznú činnosť</trd>
 </drv>
 
 <drv mrk="divers.0eco">
@@ -134,9 +149,13 @@
   <trd
   lng="be">&c_r;&c_a;&c_z;&c_n;&c_a;&c_s;&c_t;&c_a;&c_j;&c_n;&c_a;&c_s;&c_mol;&c_c;
   &c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>diverzita</trd>,
+    <trd>různost</trd>
+  </trdgrp>
   <trd lng="de">Verschiedenheit</trd>
-  <trd lng="fr">diversit&eacute;</trd>
   <trd lng="es">diversidad</trd>
+  <trd lng="fr">diversit&eacute;</trd>
   <trdgrp lng="hu">
     <trd>k&uuml;l&ouml;nb&ouml;z&odblac;s&eacute;g</trd>,
     <trd>diverzit&aacute;s</trd>
@@ -150,6 +169,7 @@
   </trdgrp>
   <trd
   lng="ru">&c_r;&c_a;&c_z;&c_n;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_i;&c_je;</trd>
+  <trd lng="sk">rôznosť</trd>
 </drv>
 
 <drv mrk="divers.0igi">
@@ -167,8 +187,13 @@
     <ind>&c_r;&c_a;&c_z;&c_n;&c_a;&c_s;&c_t;&c_a;&c_j;&c_n;&c_y;&c_m;</ind>
     </trd>
   </trdgrp>
-  <trd lng="fr">diversifier</trd>
+  <trdgrp lng="cs">
+    <trd>oddělit</trd>,
+    <trd>rozlišovat</trd>,
+    <trd>rozrůznit</trd>
+  </trdgrp>
   <trd lng="es">diversificar</trd>
+  <trd lng="fr">diversifier</trd>
   <trdgrp lng="hu">
     <trd>k&uuml;l&ouml;nb&ouml;z&odblac;v&eacute; tesz</trd>,
     <trd>diverzifik&aacute;l</trd>
@@ -179,6 +204,10 @@
   </trdgrp>
   <trd
   lng="ru">&c_r;&c_a;&c_z;&c_n;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>oddeliť</trd>,
+    <trd>rozlišovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="divers.mal0a">
@@ -214,6 +243,12 @@
 </art>
 <!--
 $Log: divers.xml,v $
+Revision 1.23  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2010/10/04 16:30:58  revo
 Jeromo Vasxe: + ~i
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: blazon.xml,v 1.17 2010/06/07 16:30:21 revo Exp $">
+<art mrk="$Id: blazon.xml,v 1.19 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>blazon</rad>/o
@@ -35,6 +35,10 @@
   <trd lng="be">&c_g;&c_je;&c_r;&c_b;</trd>
   <trd lng="bg">&c_g;&c_je;&c_r;&c_b;</trd>
   <trd lng="ca">blas&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>erb</trd>,
+    <trd>znak</trd>
+  </trdgrp>
   <trd lng="de">Wappen</trd>
   <trdgrp lng="en">
     <trd>coat of arms</trd>
@@ -47,15 +51,15 @@
     <trd>blason</trd>
   </trdgrp>
   <trd lng="hu">c&iacute;mer</trd>
-  <trdgrp lng="nl">
-    <trd>wapen</trd>,
-    <trd>blazoen</trd>
-  </trdgrp>
   <trdgrp lng="it">
     <trd>arma<klr> (araldica)</klr></trd>,
     <trd>stemma</trd>,
     <trd>emblema<klr> (araldico)</klr></trd>,
     <trd>blasone</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>wapen</trd>,
+    <trd>blazoen</trd>
   </trdgrp>
   <trd lng="pl">herb</trd>
   <trdgrp lng="pt">
@@ -64,10 +68,20 @@
     <trd>escudo de armas</trd>
   </trdgrp>
   <trd lng="ru">&c_g;&c_je;&c_r;&c_b;</trd>
+  <trdgrp lng="sk">
+    <trd>erb címer</trd>,
+    <trd>rodový znak</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: blazon.xml,v $
+Revision 1.19  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2010/06/07 16:30:21  revo
 Antonio Codazzi: +trd it
 

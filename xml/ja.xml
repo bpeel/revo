@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: ja.xml,v 1.24 2011/06/02 10:10:08 revo Exp $">
+  <art mrk="$Id: ja.xml,v 1.28 2015/10/21 15:10:16 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>ja</rad>
@@ -84,6 +84,7 @@
           <trd>b&aacute;r</trd>,
           <trd>j&oacute;llehet</trd>
         </trdgrp>
+        <trd lng="nl">immers</trd>
       </snc>
 
       <snc mrk="ja.0.interj">
@@ -96,55 +97,78 @@
             re&gcirc;o</lok></fnt>.
           </ekz>
         </dif>
+        <trd lng="nl">toch</trd>
       </snc>
-
-      <trdgrp lng="be">
+  <trdgrp lng="be">
         <trd>&c_zh;</trd>,
         <trd>&c_zh;&c_a;</trd>
       </trdgrp>
-      <trdgrp lng="cs">
-        <trd>p&rcaron;ece</trd>,
-        <trd>v&zcaron;dy&tcaron;</trd>,
-        <trd>sice</trd>
-      </trdgrp>
-      <trdgrp lng="es">
+  <trdgrp lng="cs">
+    <trd>ov&scaron;em</trd>,
+    <trd>p&rcaron;ece</trd>,
+    <trd>p&rcaron;ece</trd>,
+    <trd>sice</trd>,
+    <trd>v&zcaron;dy&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>indeed</trd>,
+    <trd>surely</trd>, <trd>decidedly</trd>, <trd>after all
+    <klr>(informal)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="es">
         <trd>ciertamente</trd>,
         <trd>efectivamente</trd>
       </trdgrp>
-      <trdgrp lng="fr">
+  <trdgrp lng="fr">
         <trd>certes</trd>,
         <trd>effectivement</trd>,
         <trd>il est <ind>vrai</ind> que</trd>,
         <trd>en fait</trd>,
         <trd>bien<klr tip="ind"> (effectivement)</klr></trd>
       </trdgrp>
-      <trd lng="he">&alef;&mem;&nun;&fmem;</trd>
-      <trd lng="nl">wel</trd>
-      <trdgrp lng="pl">
-        <trd><ofc>*</ofc>wszak&zdot;e</trd>,
-        <trd>przecie&zdot;</trd>,
-        <trd>ale&zdot;</trd>
-      </trdgrp>
-      <trdgrp lng="pt">
-        <trd>certamente</trd>,
-        <trd>com certeza</trd>,
-        <trd>de fa(c)to</trd>
-      </trdgrp>
-      <trdgrp lng="ru">
-        <trd><ofc>*</ofc>&c_v;&c_je;&c_d;&c_mol;</trd>,
-        <trd>&c_zh;&c_je;</trd>
-      </trdgrp>
-      <trd lng="tp">kin</trd>
-      <trdgrp lng="it">
+  <trd lng="he">&alef;&mem;&nun;&fmem;</trd>
+  <trdgrp lng="it">
         <trd>certamente<klr> (rafforzativo)</klr></trd>,
         <trd>ovviamente<klr> (rafforzativo)</klr></trd>,
         <trd>de facto<klr> (rafforzativo)</klr></trd>
       </trdgrp>
-
-    </drv>
+  <trd lng="nl">wel</trd>
+  <trdgrp lng="pl">
+        <trd><ofc>*</ofc>wszak&zdot;e</trd>,
+        <trd>przecie&zdot;</trd>,
+        <trd>ale&zdot;</trd>
+      </trdgrp>
+  <trdgrp lng="pt">
+        <trd>certamente</trd>,
+        <trd>com certeza</trd>,
+        <trd>de fa(c)to</trd>
+      </trdgrp>
+  <trdgrp lng="ru">
+        <trd><ofc>*</ofc>&c_v;&c_je;&c_d;&c_mol;</trd>,
+        <trd>&c_zh;&c_je;</trd>
+      </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ov&scaron;em</trd>,
+    <trd>ve&dcaron;</trd>,
+    <trd>v&scaron;ak</trd>
+  </trdgrp>
+  <trd lng="tp">kin</trd>
+</drv>
   </art>
   <!--
   $Log: ja.xml,v $
+  Revision 1.28  2015/10/21 15:10:16  revo
+  Cindy Moon McKee: +trd en
+
+  Revision 1.27  2015/07/04 08:37:36  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.26  2015/06/29 16:33:16  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.25  2015/06/11 16:10:15  revo
+  Joop Eggen: +trd nl
+
   Revision 1.24  2011/06/02 10:10:08  revo
   Sergio Pokrovskij: reverkita
 

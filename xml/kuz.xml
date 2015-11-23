@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kuz.xml,v 1.26 2013/09/08 11:10:18 revo Exp $">
+<art mrk="$Id: kuz.xml,v 1.27 2015/06/29 16:33:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kuz</rad>/o
@@ -25,7 +25,7 @@
   <trdgrp lng="be">
     <trd>&c_s;&c_t;&c_r;&c_y;&c_je;&c_ch;&c_n;&c_y; &c_b;&c_r;&c_a;&c_t;</trd>,
     <trd>&c_k;&c_u;&c_z;&c_e;&c_n;</trd>
-  </trdgrp>                   
+  </trdgrp>
   <trd lng="br">kenderv</trd>
   <trd lng="ca">cos&iacute;</trd>
   <trd lng="cs">bratranec</trd>
@@ -53,10 +53,11 @@
     <trd>&c_d;&c_v;&c_o;&c_ju;&c_r;&c_o;&c_d;&c_n;&c_y;&c_j; &c_b;&c_r;&c_a;&c_t;</trd>,
     <trd>&c_k;&c_u;&c_z;&c_je;&c_n;</trd>
   </trdgrp>
+  <trd lng="sk">bratanec</trd>
   <trd lng="sv">kusin</trd>
-  <trd lng="vo">k&ouml;sel</trd>
   <trd lng="tr">amca\day&inodot;\hala veya teyze
   &ccedil;ocu&gbreve;u<klr>(erkek)</klr></trd>
+  <trd lng="vo">k&ouml;sel</trd>
 </drv>
 
 <drv mrk="kuz.0ino">
@@ -108,6 +109,9 @@
 </art>
 <!--
 $Log: kuz.xml,v $
+Revision 1.27  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2013/09/08 11:10:18  revo
 Wolfram Diestel: ref-oj al listo parencoj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pro.xml,v 1.27 2014/07/31 06:10:12 revo Exp $">
+<art mrk="$Id: pro.xml,v 1.29 2015/07/04 08:37:42 revo Exp $">
 <kap>
    <ofc>*</ofc> <rad>pro</rad>
 </kap>
@@ -161,22 +161,31 @@
        </trdgrp>
        <trd lng="de">f&uuml;r</trd>
      </snc>
-     <trdgrp lng="hu">
+  <trdgrp lng="cs">
+    <trd>kvůli</trd>,
+    <trd>pro</trd>,
+    <trd>z důvodu</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
        <trd>miatt</trd>,
        <trd>-<ind>&eacute;rt</ind></trd>
      </trdgrp>
-     <trdgrp lng="pt">
+  <trdgrp lng="pt">
        <trd>por</trd>,
        <trd>por <ind>causa</ind> de</trd>,
        <trd>por <ind>amor</ind> de</trd>,
        <trd>em <ind>troca</ind> de</trd>
      </trdgrp>
-     <trdgrp lng="sv">
+  <trdgrp lng="sk">
+    <trd>kvôli</trd>,
+    <trd>pre</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
        <trd>p&aring; grund av</trd>,
        <trd>f&ouml;r</trd>
      </trdgrp>
-     <trd lng="tp">tan</trd>
-   </drv>
+  <trd lng="tp">tan</trd>
+</drv>
 </subart>
 
 <subart>
@@ -222,6 +231,12 @@
 </art>
 <!--
 $Log: pro.xml,v $
+Revision 1.29  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.27  2014/07/31 06:10:12  revo
 Agustin Garcia Lopez: +trd(es)
 

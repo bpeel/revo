@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: raci.xml,v 1.17 2013/03/12 14:10:08 revo Exp $">
+<art mrk="$Id: raci.xml,v 1.19 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>1</ofc> <rad>raci</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -29,6 +29,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_o;&c_z;&c_u;&c_m;</trd>
+  <trd lng="cs">stálý rozdíl nebo podíl v řadě</trd>
   <trdgrp lng="de">
     <trd>Vernunft</trd>,
     <trd>Verstand</trd>,
@@ -60,6 +61,7 @@
     <trd>&c_r;&c_a;&c_s;&c_s;&c_u;&c_d;&c_o;&c_k;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_u;&c_m;</trd>
   </trdgrp>
+  <trd lng="sk">stály rozdiel alebo podiel v rade</trd>
   <trd lng="sv">f&ouml;rnuft</trd>
 </drv>
 
@@ -124,6 +126,11 @@
       <trd>rationell</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>racionální</trd>,
+    <trd>rozumný</trd>,
+    <trd>rozumový</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>rational</trd>,
     <trd>reasonable</trd>
@@ -134,6 +141,10 @@
     <trd>rationnel</trd>
   </trdgrp>
   <trd lng="nl">redelijk</trd>
+  <trdgrp lng="sk">
+    <trd>racionálny</trd>,
+    <trd>účelný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="raci.0eco">
@@ -147,6 +158,7 @@
     <trd>&c_r;&c_a;&c_z;&c_u;&c_m;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="cs">racionálnost</trd>
   <trdgrp lng="de">
     <trd>Vernunftgem&auml;&szlig;heit</trd>,
     <trd>Rationalit&auml;t</trd>
@@ -166,6 +178,7 @@
     <trd>&c_r;&c_a;&c_z;&c_u;&c_m;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">racionálnosť</trd>
   <trd lng="sv">f&ouml;rnuftighet</trd>
 </drv>
 
@@ -189,6 +202,10 @@
     <trd lng="nl">rationaliseren</trd>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>racionalizovat</trd>,
+    <trd>zracionalizovat</trd>
+  </trdgrp>
   <trd lng="en">rationalize</trd>
   <trd lng="es">razonar</trd>
   <trd lng="fr">rationaliser</trd>
@@ -197,6 +214,7 @@
     <trd>racionaliz&aacute;l</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">zracionalizovať</trd>
 </drv>
 
 <drv mrk="raci.0ismo">
@@ -207,12 +225,14 @@
   </snc>
   <trd lng="be">&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
   <trd lng="ca">racionalisme</trd>
+  <trd lng="cs">racionalismus</trd>
   <trd lng="de">Rationalismus</trd>
   <trd lng="en">rationalism</trd>
   <trd lng="fr">rationalisme</trd>
   <trd lng="hu">racionalizmus</trd>
   <trd lng="nl">rationalisme</trd>
   <trd lng="ru">&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">racionalizmus</trd>
   <trd lng="sv">rationalism</trd>
 </drv>
 
@@ -237,6 +257,12 @@
 </art>
 <!--
 $Log: raci.xml,v $
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/03/12 14:10:08  revo
 Jeromo Vasxe: + kontraux~ismo
 

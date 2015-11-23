@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korupt.xml,v 1.14 2009/09/13 16:56:57 revo Exp $">
+<art mrk="$Id: korupt.xml,v 1.16 2015/07/04 08:37:38 revo Exp $">
 <kap><ofc>3</ofc> <rad>korupt</rad>/i</kap>
 <drv mrk="korupt.0i">
   <kap><tld/>i</kap>
@@ -84,13 +84,28 @@
     <trd lng="es">corromper</trd>
     <trd lng="ru">&c_k;&c_o;&c_r;&c_r;&c_u;&c_m;&c_p;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>poškozovat</trd>,
+    <trd>zraňovat</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>corrompre</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>demoralizovať</trd>,
+    <trd>korumpovať</trd>,
+    <trd>podplácať</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: korupt.xml,v $
+Revision 1.16  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2009/09/13 16:56:57  revo
 Paul Peeraerts: +nl
 

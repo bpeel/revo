@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arb.xml,v 1.52 2014/11/05 13:10:28 revo Exp $">
+<art mrk="$Id: arb.xml,v 1.55 2015/07/31 08:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>arb</rad>/o <fnt><bib>PV</bib></fnt>
@@ -197,12 +197,13 @@
     <trd>bosc</trd>,
     <trd>selva</trd>
   </trdgrp>
+  <trd lng="cs">les</trd>
   <trd lng="de">Wald</trd>
   <trdgrp lng="en">
     <trd>forest</trd>,
     <trd>wood</trd>
   </trdgrp>
-  <trdgrp lng="en">
+  <trdgrp lng="es">
     <trd>bosque</trd>,
     <trd>selva virgen</trd>
   </trdgrp>
@@ -230,7 +231,10 @@
     <trd>olszynka</trd>
   </trdgrp>
   <trd lng="ru">&c_l;&c_je;&c_s;</trd>
-  <trd lng="sk">les</trd>
+  <trdgrp lng="sk">
+    <trd>hora</trd>,
+    <trd>les</trd>
+  </trdgrp>
   <trd lng="sv">skog</trd>
   <trd lng="tr">orman</trd>
 </drv>
@@ -291,17 +295,22 @@
     </trdgrp>
     <trd lng="ru">&c_k;&c_u;&c_s;&c_t;</trd>
   </snc>
+  <trd lng="br">brousgwezenn</trd>
   <trd lng="ca">arbust</trd>
+  <trdgrp lng="cs">
+    <trd>stromek</trd>,
+    <trd>strome&ccaron;ek</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Strauch</trd>,
     <trd>Busch</trd>
   </trdgrp>
-  <trd lng="br">brousgwezenn</trd>
   <trd lng="fr">arbuste</trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_je;&c_r;&c_je;&c_v;&c_c;&c_je;</trd>,
     <trd>&c_k;&c_u;&c_s;&c_t;</trd>
   </trdgrp>
+  <trd lng="sk">strom&ccaron;ek</trd>
 </drv>
 
 <drv mrk="arb.0etaro">
@@ -324,6 +333,11 @@
     <trd>&c_h;&c_m;&c_y;&c_z;&c_mol;&c_n;&c_ja;&c_k;</trd>
   </trdgrp>
   <trd lng="br">brouskoad</trd>
+  <trdgrp lng="cs">
+    <trd>lesn&iacute; podrost</trd>,
+    <trd>ml&aacute;z&iacute;</trd>,
+    <trd>n&iacute;zk&yacute; lesn&iacute; porost</trd>
+  </trdgrp>
   <trd lng="de">Geb&uuml;sch</trd>
   <trdgrp lng="es">
     <trd>monte bajo</trd>,
@@ -345,6 +359,7 @@
     <trd>przylasek</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_u;&c_s;&c_t;&c_a;&c_r;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">skupina strom&ccaron;ekov</trd>
 </drv>
 
 <drv mrk="arb.0etajxo">
@@ -457,6 +472,7 @@
       <ref cel="dracen.0o.BOT">draceno</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">dra&ccaron;inec obrovsk&yacute;</trd>
   <trd lng="es">dracaena</trd>
   <trd lng="fa">&a_d;&a_r;&a_A;&a_s;&a_n;&a_A;</trd>
   <trd lng="fr">dragonnier</trd>
@@ -464,6 +480,7 @@
     <trd>dracena</trd>,
     <trd>smocze <ind>drzewo</ind><klr> (pot.)</klr></trd>
   </trdgrp>
+  <trd lng="sk">dra&ccaron;inec</trd>
 </drv>
 
 <drv mrk="arb.kristnask0o">
@@ -513,6 +530,10 @@
   <trd lng="be">&c_g;&c_je;&c_n;&c_e;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_a;&c_je; &c_d;&c_r;&c_e;&c_v;&c_a;</trd>
   <trd lng="bg">&c_r;&c_o;&c_d;&c_o;&c_s;&c_l;&c_o;&c_v;&c_n;&c_o; &c_d;&c_malmol;&c_r;&c_v;&c_o;</trd>
   <trd lng="ca">arbre <ind>geneal&ograve;gic</ind></trd>
+  <trdgrp lng="cs">
+    <trd>genealogick&yacute; strom</trd>,
+    <trd>strom rodokmenu</trd>
+  </trdgrp>
   <trd lng="de">Stammbaum</trd>
   <trd lng="es">&aacute;rbol <ind>geneal&oacute;gico</ind></trd>
   <trdgrp lng="fa">
@@ -526,6 +547,7 @@
   <trd lng="pl">genealogiczny</trd>
   <trd lng="pt">&aacute;rvore geneal&oacute;gica</trd>
   <trd lng="ru">&c_g;&c_je;&c_n;&c_je;&c_a;&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je; &c_d;&c_r;&c_je;&c_v;&c_o;</trd>
+  <trd lng="sk">strom rodokme&ncaron;a</trd>
   <trd lng="tr">soya&gbreve;ac&inodot;</trd>
 </drv>
 
@@ -549,9 +571,11 @@
     </dif>
   </snc>
   <trd lng="ca">arbre del pa</trd>
+  <trd lng="cs">chlebovn&iacute;k</trd>
   <trd lng="es">&aacute;rbol del pan</trd>
   <trd lng="fr">arbre &agrave; pain</trd>
   <trd lng="pl">chlebowiec<klr> w&lstroke;a&sacute;ciwy</klr></trd>
+  <trd lng="sk">chlebovn&iacute;k</trd>
 </drv>
 
 <drv mrk="arb.pingl0o">
@@ -571,6 +595,7 @@
       </ekz>
   </snc>
   <trd lng="be">&c_h;&c_v;&c_o;&c_j;&c_n;&c_a;&c_je; &c_d;&c_r;&c_e;&c_v;&c_a;</trd>
+  <trd lng="cs">jehli&ccaron;nat&yacute; strom</trd>
   <trd lng="en">conifer</trd>
   <trd lng="es">con&iacute;fera</trd>
   <trd lng="fr">conif&egrave;re</trd>
@@ -580,6 +605,7 @@
   <trd lng="pt">con&iacute;fera</trd>
   <trd lng="ru">&c_h;&c_v;&c_o;&c_j;&c_n;&c_o;&c_je;
   &c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
+  <trd lng="sk">ihli&ccaron;nat&yacute; strom</trd>
 </drv>
 
 <drv mrk="arb.pluv0aro">
@@ -600,6 +626,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">de&scaron;tn&yacute; prales</trd>
   <trd lng="en">rainforest</trd>
   <trdgrp lng="es">
     <trd>selva tropical</trd>,
@@ -612,6 +639,7 @@
   <trd lng="id">hutan hujan</trd>
   <trd lng="nl">regenwoud</trd>
   <trd lng="no">regnskog</trd>
+  <trd lng="sk">da&zcaron;&dcaron;ov&yacute; prales</trd>
 </drv>
 
 <drv mrk="arb.sub0o">
@@ -627,6 +655,7 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_d;&c_r;&c_e;&c_v;&c_a;</trd>
   <trd lng="br">isgwezenn</trd>
+  <trd lng="cs">vedlej&scaron;&iacute; strom</trd>
   <trd lng="de">Teilbaum</trd>
   <trd lng="en">subtree</trd>
   <trdgrp lng="es">
@@ -637,12 +666,24 @@
   <trd lng="fr">sous-arbre</trd>
   <trd lng="pl">poddrzewo</trd>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
-  <trd lng="sk">podstrom</trd>
+  <trdgrp lng="sk">
+    <trd>podstrom</trd>,
+    <trd>ved&lcaron;aj&scaron;&iacute; strom</trd>
+  </trdgrp>
   <trd lng="sv">deltr&auml;d</trd>
 </drv>
 </art>
 <!--
 $Log: arb.xml,v $
+Revision 1.55  2015/07/31 08:10:17  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.54  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.53  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.52  2014/11/05 13:10:28  revo
 Filip van Laenen: +trd(nl,no)
 
@@ -656,14 +697,5 @@ Revision 1.49  2014/05/30 08:10:34  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.48  2014/04/01 19:10:20  revo
-Jeromo Vasxe: + pluv~aro
-
-Revision 1.47  2013/10/13 18:10:14  revo
-Benito Subejrano: + trd oc
-
-Revision 1.46  2013/10/08 10:10:14  revo
-Benito Subejrano: + trd oc
-
-Revision 1.45  2011/12/23 21:10:08  revo
 -->
 </vortaro>

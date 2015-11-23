@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stapl.xml,v 1.12 2013/08/04 01:10:10 revo Exp $">
+<art mrk="$Id: stapl.xml,v 1.14 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>stapl</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -26,6 +26,11 @@
     <trd>pila</trd>,
     <trd>munt</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>sklad zboží</trd>,
+    <trd>skladiště</trd>,
+    <trd>srovnaná hromada</trd>
+  </trdgrp>
   <trd lng="de">Stapel</trd>
   <trdgrp lng="en">
     <trd>pile</trd>,
@@ -46,6 +51,7 @@
     <trd>&c_sh;&c_t;&c_a;&c_b;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_p;&c_a;&c_ch;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">sklad pre stohový tovar <klr>(čakajúci na predaj alebo návrat)</klr></trd>
 </drv>
 
 <drv mrk="stapl.0i">
@@ -66,11 +72,27 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>narovnat do skladu</trd>,
+    <trd>skladovat</trd>,
+    <trd>stohovat</trd>
+  </trdgrp>
   <trd lng="fr">empiler</trd>
+  <trdgrp lng="sk">
+    <trd>skladovať</trd>,
+    <trd>stohovite naukladať</trd>,
+    <trd>ukladať</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: stapl.xml,v $
+Revision 1.14  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2013/08/04 01:10:10  revo
 Jeromo Vasxe: + ~i
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: albume.xml,v 1.11 2011/04/23 12:10:09 revo Exp $">
+<art mrk="$Id: albume.xml,v 1.13 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>albumen</rad>/o
   <fnt>Z</fnt>
@@ -17,20 +17,33 @@ grajnoj,
       kaj &gcirc;in nutras dum la &gcirc;ermado.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>albumen</trd>,
+    <trd>bílek</trd>
+  </trdgrp>
+  <trd lng="el">&epsilon;&ny;&delta;&omikron;&sigma;&pi;&epsilon_ton;&rho;&my;&jota;&omikron;</trd>
   <trd lng="en">endosperm (of seeds)</trd>
   <trd lng="fr">albumen</trd>
-  <trd lng="el">&epsilon;&ny;&delta;&omikron;&sigma;&pi;&epsilon_ton;&rho;&my;&jota;&omikron;</trd>
   <trdgrp lng="hu">
     <trd>magfeh&eacute;rje</trd>,
     <trd>albumen</trd></trdgrp>
   <trd lng="nl">kiemwit</trd>
   <trd lng="pt">alb&uacute;men</trd>
   <trd lng="ru">&c_e;&c_n;&c_d;&c_o;&c_s;&c_p;&c_je;&c_r;&c_m;</trd>
-  <trd lng="sk">bielkovina <klr>(v zrne)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>bielkovina <klr>(v semiačku)</klr></trd>,
+    <trd>bielkovina <klr>(v zrne)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: albume.xml,v $
+Revision 1.13  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2011/04/23 12:10:09  revo
 Glavkos Xaon: greka signifo de vorto
 

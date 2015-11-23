@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rip.xml,v 1.16 2010/12/17 17:30:48 revo Exp $">
+<art mrk="$Id: rip.xml,v 1.19 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rip</rad>/o
@@ -20,27 +20,42 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_r;&c_a;&c_b;&c_r;&c_o;</trd>  
+  <trd lng="be">&c_r;&c_a;&c_b;&c_r;&c_o;</trd>
   <trd lng="bg">&c_r;&c_je;&c_b;&c_r;&c_o;</trd>
   <trdgrp lng="br">
     <trd>kostenn</trd>,
     <trd>kostezenn<klr tip="ind"> (askorn)</klr></trd>
   </trdgrp>
   <trd lng="ca">costella</trd>
+  <trd lng="cs">žebro</trd>
   <trd lng="de">Rippe</trd>
-  <trd lng="fr">c&ocirc;te<klr> (anatomie)</klr></trd>
   <trd lng="en">rib</trd>
   <trd lng="es">costilla</trd>
+  <trd lng="fr">c&ocirc;te<klr> (anatomie)</klr></trd>
   <trd lng="hu">borda</trd>
+  <trdgrp lng="id">
+    <trd>iga</trd>,
+    <trd><ind>tulang</ind> rusuk</trd>
+  </trdgrp>
   <trd lng="it">costola</trd>
   <trd lng="nl">rib</trd>
   <trd lng="pl">&zdot;ebro</trd>
   <trd lng="pt">costela</trd>
   <trd lng="ru">&c_r;&c_je;&c_b;&c_r;&c_o; <klr tip="amb">(&c_a;&c_n;&c_a;&c_t;.)</klr></trd>
+  <trd lng="sk">rebro</trd>
 </drv>
 </art>
 <!--
 $Log: rip.xml,v $
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2015/01/29 04:10:31  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.16  2010/12/17 17:30:48  revo
 Antonio Codazzi: +trd it
 
@@ -60,8 +75,5 @@ Revision 1.11  2005/04/10 16:34:10  revo
 Raul Salinas Monteagudo: +trd ca,es
 
 Revision 1.10  2004/09/16 16:32:43  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2003/08/17 17:32:20  revo
 -->
 </vortaro>

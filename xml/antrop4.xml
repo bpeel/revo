@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: antrop4.xml,v 1.18 2014/04/24 01:10:21 revo Exp $">
+<art mrk="$Id: antrop4.xml,v 1.20 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>antropomorfism</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -42,6 +42,10 @@
   <trd lng="be">&c_a;&c_n;&c_t;&c_r;&c_a;&c_p;&c_a;&c_m;&c_a;&c_r;&c_f;&c_ib;&c_z;&c_m;</trd>
   <trd lng="bg">&c_a;&c_n;&c_t;&c_r;&c_o;&c_p;&c_o;&c_m;&c_o;&c_r;&c_f;&c_i;&c_z;&c_malmol;&c_m;</trd>
   <trd lng="ca">antropomorfisme</trd>
+  <trdgrp lng="cs">
+    <trd>antropomorfizmus</trd>,
+    <trd>personifikace</trd>
+  </trdgrp>
   <trd lng="de">Anthropomorfismus</trd>
   <trd lng="en">anthropomorphism</trd>
   <trd lng="es">antropomorfismo</trd>
@@ -51,11 +55,20 @@
   <trd lng="it">antropomorfismo</trd>
   <trd lng="nl">antropomorfisme</trd>
   <trd lng="ru">&c_a;&c_n;&c_t;&c_r;&c_o;&c_p;&c_o;&c_m;&c_o;&c_r;&c_f;&c_i;&c_z;&c_m;</trd>
-  <trd lng="sk">antropomorfizmus</trd>
+  <trdgrp lng="sk">
+    <trd>antropomorfizmus</trd>,
+    <trd>personifikácia</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: antrop4.xml,v $
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2014/04/24 01:10:21  revo
 Jeromo Vasxe: snc/subsnc
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cim.xml,v 1.23 2013/09/01 13:11:15 revo Exp $">
+<art mrk="$Id: cim.xml,v 1.25 2015/07/04 08:37:32 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>cim</rad>/o
@@ -80,6 +80,8 @@
       <trd>&c_g;&c_l;&c_ju;&c_k;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">štěnice</trd>
+  <trd lng="sk">ploštica</trd>
 </drv>
 
 <drv mrk="cim.lit0o">
@@ -110,6 +112,12 @@
 </art>
 <!--
 $Log: cim.xml,v $
+Revision 1.25  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2013/09/01 13:11:15  revo
 Wolfram Diestel: referenco al listo zoo genroj
 

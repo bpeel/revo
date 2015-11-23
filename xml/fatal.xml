@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fatal.xml,v 1.18 2012/02/18 21:10:18 revo Exp $">
+<art mrk="$Id: fatal.xml,v 1.20 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>fatal</rad>/a <fnt><bib>PV</bib></fnt>
@@ -57,6 +57,12 @@
     <trd>&c_n;&c_je;&c_m;&c_ib;&c_n;&c_u;&c_ch;&c_y;</trd>
   </trdgrp>
   <trd lng="ca">fatal</trd>
+  <trdgrp lng="cs">
+    <trd>fatální</trd>,
+    <trd>neblahý</trd>,
+    <trd>nepříjemný</trd>,
+    <trd>osudný</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>fatal</trd>,
      <trd>verh&auml;ngnisvoll</trd>,
@@ -77,6 +83,10 @@
     <trd>&c_f;&c_a;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_i;&c_z;&c_b;&c_je;&c_zh;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_m;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>fatálny</trd>,
+    <trd>osudový</trd>
   </trdgrp>
 </drv>
 
@@ -116,6 +126,10 @@
     <trd>fat</trd>,
     <trd>dest&iacute;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>osud</trd>,
+    <trd>sudba</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Fatum</trd>,
      <trd>Geschick</trd>,
@@ -148,6 +162,7 @@
     <trd>&c_s;&c_u;&c_d;&c_mol;&c_b;&c_a;</trd>,
     <trd>&c_f;&c_a;&c_t;&c_u;&c_m;</trd>
   </trdgrp>
+  <trd lng="sk">neodvrátiteľný osud</trd>
 </drv>
 
 <drv mrk="fatal.0ajxo">
@@ -202,6 +217,10 @@
   </snc>
   <trd lng="be">&c_f;&c_a;&c_t;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
   <trd lng="ca">fatalisme</trd>
+  <trdgrp lng="cs">
+    <trd>determinace</trd>,
+    <trd>fatalizmus</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Fatalismus</trd>,
     <trd>Schicksalsergebenheit</trd></trdgrp>
@@ -211,10 +230,17 @@
   <trd lng="hu">fatalizmus</trd>
   <trd lng="nl">fatalisme</trd>
   <trd lng="ru">&c_f;&c_a;&c_t;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">fatalizmus</trd>
 </drv>
 </art>
 <!--
 $Log: fatal.xml,v $
+Revision 1.20  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/02/18 21:10:18  revo
 Marc Rausell: +trd ca
 

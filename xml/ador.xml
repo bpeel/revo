@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ador.xml,v 1.24 2013/11/06 21:10:12 revo Exp $">
+<art mrk="$Id: ador.xml,v 1.26 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>ador</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -103,6 +103,14 @@
       <trd>avguda</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>adorovat</trd>,
+    <trd>ctít</trd>,
+    <trd>kořit se</trd>,
+    <trd>velebit</trd>,
+    <trd>zbožně uctívat</trd>,
+    <trd>zbožňovat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>verg&ouml;ttern</trd>,
     <trd>anbeten</trd>
@@ -110,11 +118,21 @@
   <trd lng="hu">im&aacute;d</trd>
   <trd lng="it">adorare</trd>
   <trd lng="nl">aanbidden</trd>
-  <trd lng="sk">zbo&zcaron;&ncaron;ova&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>vzývať</trd>,
+    <trd>zbo&zcaron;&ncaron;ova&tcaron;</trd>,
+    <trd>zbožne uctievať</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ador.xml,v $
+Revision 1.26  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2013/11/06 21:10:12  revo
 Vito Redsky: +trd  pl ro
 

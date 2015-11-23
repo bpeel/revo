@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: preter.xml,v 1.13 2006/03/20 17:32:25 revo Exp $">
+<art mrk="$Id: preter.xml,v 1.17 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>preter</rad>
 </kap>
@@ -24,7 +24,8 @@
         la enirejo trovi&gcirc;as <tld/> tiuj fenestroj;
       </ekz>
       <ekz>
-        venante <tld/> la imperiestro, la veturigisto haltigas la &ccirc;evalojn;
+        venante <tld/> la imperiestro, la veturigisto haltigas la
+        &ccirc;evalojn;
       </ekz>
       <ekz>
         traflugis an&gcirc;elo <tld/> orelo
@@ -37,12 +38,15 @@
         <trd lng="fr">cela lui est pass&eacute; sous le <ind>nez</ind></trd>
       </ekz>
       <refgrp tip="vid">
-        <ref cel="trans">trans</ref>.
+        <ref cel="trans.0">trans</ref>.
       </refgrp>
       <trdgrp lng="be">
         <trd>&c_m;&c_ib;&c_m;&c_a;</trd>,
         <trd>&c_p;&c_a;&c_w;&c_z;</trd>,
         <trd>&c_p;&c_a;&c_b;&c_l;&c_ib;&c_z;&c_u;</trd>
+      </trdgrp>
+      <trdgrp lng="es">
+        <trd>m&aacute;s all&aacute; de</trd>
       </trdgrp>
       <trdgrp lng="fr">
         <trd>au-del&agrave; de</trd>,
@@ -57,7 +61,12 @@
       </trdgrp>
       <trd lng="ru">&c_m;&c_i;&c_m;&c_o;</trd>
     </snc>
-  </drv>
+  <trdgrp lng="cs">
+    <trd>kolem"</trd>,
+    <trd>předložka s významem "mimo</trd>
+  </trdgrp>
+  <trd lng="sk">predložka s významom "okolo"</trd>
+</drv>
 </subart>
 
 <subart>
@@ -75,24 +84,33 @@
         </ekz>
       </dif>
     </snc>
-    <trdgrp lng="be">
+  <trdgrp lng="be">
       <trd>&c_m;&c_ib;&c_m;&c_a;</trd>,
       <trd>&c_m;&c_ib;&c_m;&c_a;&c_h;&c_o;&c_d;&c_z;&c_mol;</trd>,
       <trd>&c_m;&c_ib;&c_m;&c_a;&c_h;&c_o;&c_d;&c_a;&c_m;</trd>,
       <trd>&c_m;&c_ib;&c_m;&c_a;&c_je;&c_z;&c_d;&c_a;&c_m;</trd>
     </trdgrp>
-    <trd lng="fr">au-del&agrave;</trd>
-  <trdgrp lng="hu">
-    <trd>mellette</trd>,
-    <trd>mellesleg</trd>,
-    <trd>fut&oacute;lag</trd>
+  <trdgrp lng="cs">
+    <trd>kolem</trd>,
+    <trd>mimo</trd>
   </trdgrp>
-    <trd lng="nl">daar voorbij</trd>
-    <trdgrp lng="ru">
+  <trd lng="es">m&aacute;s all&aacute;</trd>
+  <trd lng="fr">au-del&agrave;</trd>
+  <trdgrp lng="hu">
+      <trd>mellette</trd>,
+      <trd>mellesleg</trd>,
+      <trd>fut&oacute;lag</trd>
+    </trdgrp>
+  <trd lng="nl">daar voorbij</trd>
+  <trdgrp lng="ru">
       <trd>&c_m;&c_i;&c_m;&c_o;</trd>,
       <trd>&c_m;&c_i;&c_m;&c_o;&c_h;&c_o;&c_d;&c_o;&c_m;</trd>
     </trdgrp>
-  </drv>
+  <trdgrp lng="sk">
+    <trd>mimo</trd>,
+    <trd>okolo</trd>
+  </trdgrp>
+</drv>
   <drv mrk="preter.0ajxo">
     <kap><tld/>a&jcirc;o</kap>
     <snc>
@@ -100,11 +118,12 @@
         Kio estas <tld/> la limo; plia&jcirc;o, superresto.
       </dif>
     </snc>
-  <trdgrp lng="hu">
-    <trd>szomsz&eacute;ds&aacute;g</trd>,
-    <trd>&uacute;tmente</trd>,
-    <trd>r&aacute;ad&aacute;s</trd>
-  </trdgrp>
+    <trd lng="es">lo &uacute;ltimo</trd>
+    <trdgrp lng="hu">
+      <trd>szomsz&eacute;ds&aacute;g</trd>,
+      <trd>&uacute;tmente</trd>,
+      <trd>r&aacute;ad&aacute;s</trd>
+    </trdgrp>
   </drv>
   <drv mrk="preter.ne0inde">
     <kap>ne<tld/>inde</kap>
@@ -119,6 +138,10 @@
         </ekz>
       </dif>
     </snc>
+    <trdgrp lng="es">
+      <trd>notablemente</trd>,
+      <trd>significativamente</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>notablement</trd>,
       <trd>significativement</trd>
@@ -145,7 +168,8 @@
         multaj <tld/>iras senatente anta&ubreve; tiu bildo<fnt>Z</fnt>;
       </ekz>
       <ekz>
-        la oficiro alvenis en la urbon sie&gcirc;atan <tld/>irinte la malamikan
+        la oficiro alvenis en la urbon sie&gcirc;atan <tld/>irinte la
+        malamikan
         tendaron;
       </ekz>
       <ekz>
@@ -165,7 +189,8 @@
         &scirc;i <tld/>pa&scirc;is kelke da butikoj<fnt>Z</fnt>;
       </ekz>
       <ekz>
-        ili ne atentis la virinon, kies funebra vesto <tld/>&scirc;ovi&gcirc;is anta&ubreve;
+        ili ne atentis la virinon, kies funebra vesto <tld/>&scirc;ovi&gcirc;is
+        anta&ubreve;
         ili<fnt>Z</fnt>.
       </ekz>
     </dif>
@@ -185,7 +210,8 @@
         mi <tld/>vidis (ne rimarkis), <tld/>atentis tiun argumenton;
       </ekz>
       <ekz>
-        &scirc;i nur pase, <ind><tld/>fluge</ind> apena&ubreve; ion a&ubreve;dis pri tio<fnt>Z</fnt>;
+        &scirc;i nur pase, <ind><tld/>fluge</ind> apena&ubreve; ion a&ubreve;dis pri
+        tio<fnt>Z</fnt>;
         <trd lng="hu">mell&eacute;kesen</trd>
       </ekz>
       <ekz>
@@ -198,6 +224,18 @@
 </art>
 <!--
 $Log: preter.xml,v $
+Revision 1.17  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2015/06/26 14:10:16  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.14  2015/03/22 08:10:17  revo
+Alain Gerard: eraro en ligilo
+
 Revision 1.13  2006/03/20 17:32:25  revo
 Tulio Flores: +tr pt
 
@@ -214,12 +252,5 @@ Revision 1.9 2003/07/19 16:31:31 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.8 2002/01/21 21:47:59 revo
-fontindiko PrV per programo de Jerome
-
-Revision 1.7 2001/12/24 19:30:09 revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/06/25 18:11:47 revo
 -->
 </vortaro>
-

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kviz.xml,v 1.6 2009/09/22 17:17:42 revo Exp $">
+<art mrk="$Id: kviz.xml,v 1.9 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>kviz</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -26,9 +26,14 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kviz</trd>,
+    <trd>kvíz</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Quiz</trd>
   </trdgrp>
+  <trd lng="es">cuestionario</trd>
   <trdgrp lng="fr">
     <trd>questionnaire<klr> (quiz)</klr></trd>,
     <trd>quiz</trd>
@@ -41,11 +46,21 @@
   <trd lng="nl">quiz</trd>
   <trd lng="pt">question&aacute;rio</trd>
   <trd lng="ru">&c_v;&c_i;&c_k;&c_t;&c_o;&c_r;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sk">kvíz</trd>
 </drv>
 </art>
 
 <!--
 $Log: kviz.xml,v $
+Revision 1.9  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.7  2014/11/12 11:10:13  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.6  2009/09/22 17:17:42  revo
 Paul Peeraerts: +nl
 

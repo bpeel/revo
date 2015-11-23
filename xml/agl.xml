@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: agl.xml,v 1.40 2013/08/25 08:10:45 revo Exp $">
+<art mrk="$Id: agl.xml,v 1.43 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>agl</rad>/o
@@ -77,7 +77,10 @@
   <trd lng="bg">&c_O;&c_r;&c_je;&c_l;<klr tip="amb">
   (&c_s;&c_malmol;&c_z;&c_v;&c_je;&c_z;&c_d;&c_i;&c_je;)</klr></trd>
   <trd lng="ca">&Agrave;guila</trd>
-  <trd lng="cs">Orel</trd>
+  <trdgrp lng="cs">
+    <trd>Orel</trd>,
+    <trd>orel</trd>
+  </trdgrp>
   <trd lng="de">Adler</trd>
   <trd lng="el">&Alfa;&epsilon;&tau;&omikron_ton;&sigma_fina;</trd>
   <trd lng="en">Eagle</trd>
@@ -89,6 +92,7 @@
   <trd lng="nl">Arend</trd>
   <trd lng="pl">Orze&lstroke;</trd>
   <trd lng="pt">&Aacute;guia</trd>
+  <trd lng="sk">orol</trd>
   <trd lng="sv">&Ouml;rnen</trd>
   <trd lng="tr">Kartal</trd>
 </drv>
@@ -109,6 +113,10 @@
     <trd>aguilenc</trd>,
     <trd>aquil&iacute;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>orlí</trd>,
+    <trd>s vlastnostmi jako má orel</trd>
+  </trdgrp>
   <trd lng="de">Adler-</trd>
   <trd lng="en">aquiline</trd>
   <trd lng="es">aguile&ntilde;o</trd>
@@ -128,7 +136,10 @@
     <trd>adunco</trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_r;&c_l;&c_i;&c_n;&c_y;&c_j;</trd>
-  <trd lng="sk">orl&iacute;</trd>
+  <trdgrp lng="sk">
+    <trd>orl&iacute;</trd>,
+    <trd>orlia <klr>(vlastnosť)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="agl.fisx0o">
@@ -208,6 +219,8 @@
       <trd>bielik</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">orel mořský</trd>
+  <trd lng="sk">morský orol</trd>
 </drv>
 
 <drv mrk="agl.mar0o.blankkola">
@@ -231,7 +244,7 @@
       ).
     </dif>
     <trd lng="ca">pigarg americ&agrave;</trd>
-    <trd lng="en">pallas's fish <ind>eagle</ind></trd>
+    <trd lng="en">Pallas's fish <ind>eagle</ind></trd>
     <trd lng="it"><ind>aquila</ind> di mare testabianca</trd>
     <trd lng="pl"><klr>orze&lstroke; </klr>bielik wschodni</trd>
   </snc>
@@ -365,6 +378,8 @@
     <trd lng="it"><ind>aquila</ind> rapace</trd>
     <trd lng="sv">st&auml;pp<ind>&ouml;rn</ind></trd>
   </snc>
+  <trd lng="cs">orel stepní</trd>
+  <trd lng="sk">orol stepný</trd>
 </drv>
 
 <drv mrk="agl.step0o">
@@ -388,6 +403,8 @@
     <trd lng="pl">orze&lstroke; stepowy</trd>
     <trd lng="sv">st&auml;pp<ind>&ouml;rn</ind></trd>
   </snc>
+  <trd lng="cs">orel stepní</trd>
+  <trd lng="sk">orol stepný</trd>
 </drv>
 
 <drv mrk="agl.kri0o.granda">
@@ -477,9 +494,12 @@
       ).
     </dif>
     <trd lng="ca">&agrave;guila cuabarrada</trd>
+    <trd lng="en">Bonelli&#8217;s eagle</trd>
     <trd lng="it"><ind>aquila</ind> del Bonelli</trd>
     <trd lng="la">Hieraaetus fasciatus</trd>
   </snc>
+  <trd lng="cs">orel jestřábí</trd>
+  <trd lng="sk">orol jastrabovitý</trd>
 </drv>
 
 <drv mrk="agl.bot0o">
@@ -503,6 +523,7 @@
       ).
     </dif>
     <trd lng="ca">&agrave;guila cal&ccedil;ada</trd>
+    <trd lng="en">booted eagle</trd>
     <trd lng="it"><ind>aquila</ind> pennata</trd>
     <trdgrp lng="la">
       <trd>Hieraaetus pennatus</trd>,
@@ -511,6 +532,8 @@
     <trd lng="pl">orze&lstroke;ek</trd>
     <trd lng="sv">dv&auml;rg<ind>&ouml;rn</ind></trd>
   </snc>
+  <trd lng="cs">orel nejmenší</trd>
+  <trd lng="sk">orol malý</trd>
 </drv>
 
 <drv mrk="agl.serpent0o">
@@ -541,11 +564,25 @@
     <trd lng="pl">gado&zdot;er</trd>
     <trd lng="sv">orm<ind>&ouml;rn</ind></trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>orel krátkoprstý</trd>,
+    <trd>orlík krátkoprstý</trd>
+  </trdgrp>
+  <trd lng="sk">hadiar krátkoprstý</trd>
 </drv>
 
 </art>
 <!--
 $Log: agl.xml,v $
+Revision 1.43  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.42  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.41  2015/06/10 06:10:14  revo
+Erik Pedersen: aldonis anglajn nomojn de nizaglo kaj botaglo
+
 Revision 1.40  2013/08/25 08:10:45  revo
 Wolfram Diestel: referenco al listo stelfiguroj
 
@@ -565,8 +602,5 @@ Revision 1.35  2010/04/24 17:06:44  revo
 Sebastian Cyprych: +pluraj drv
 
 Revision 1.34  2010/04/14 16:30:18  revo
-Sebastian Cyprych: +trd sv,la
-
-Revision 1.33  2009/08/08 16:31:46  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koktel.xml,v 1.6 2011/10/27 22:10:09 revo Exp $">
+<art mrk="$Id: koktel.xml,v 1.10 2015/10/13 09:10:26 revo Exp $">
 <kap>
   <rad>koktel</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -35,15 +35,18 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">koktejl</trd>
   <trd lng="de">Cocktail</trd>
   <trd lng="en">cocktail</trd>
   <trd lng="fr">cocktail</trd>
   <trd lng="it">coktail</trd>
   <trd lng="nl">cocktail</trd>
+  <trd lng="pl">koktail</trd>
   <trdgrp lng="pt">
     <trd>coquetel (BR)</trd>,
     <trd>cocktail</trd>
   </trdgrp>
+  <trd lng="sk">koktail</trd>
 </drv>
 
 <drv mrk="koktel.molotov0o">
@@ -74,12 +77,26 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">Molotov cocktail</trd>
   <trd lng="fr">cocktail Molotov</trd>
+  <trd lng="pl">koktail Mo&lstroke;otowa</trd>
 </drv>
 </art>
 
 <!--
 $Log: koktel.xml,v $
+Revision 1.10  2015/10/13 09:10:26  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2015/09/21 13:10:25  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.8  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2011/10/27 22:10:09  revo
 Jeromo Vasxe: + molotov~o
 
@@ -90,13 +107,5 @@ Revision 1.4  2008/10/05 16:30:16  revo
 Russ Williams: korekto: en coctail -> cocktail
 
 Revision 1.3  2006/08/27 14:16:53  revo
-Tulio Flores: +tr pt
-
-Revision 1.2  2006/08/25 14:12:54  revo
-Tulio Flores: +tr pt
-
-Revision 1.1  2006/08/11 14:16:00  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

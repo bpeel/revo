@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frez.xml,v 1.13 2013/08/06 09:10:21 revo Exp $">
+<art mrk="$Id: frez.xml,v 1.15 2015/07/04 08:37:34 revo Exp $">
 <kap><rad>frez</rad>/i</kap>
 <drv mrk="frez.0i">
   <kap><tld/>i</kap>
@@ -18,16 +18,21 @@
   <trd lng="be">&c_f;&c_r;&c_e;&c_z;&c_e;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="bg">&c_f;&c_r;&c_je;&c_z;&c_o;&c_v;&c_a;</trd>
   <trd lng="ca">fresar</trd>
+  <trdgrp lng="cs">
+    <trd>frézovat</trd>,
+    <trd>odřezávat kov</trd>
+  </trdgrp>
   <trd lng="de">fr&auml;sen</trd>
   <trd lng="es">fresar</trd>
   <trd lng="fr">fraiser</trd>
-  <trd lng="hu">mar <klr tip="ind">(szersz&aacute;mmal)</klr></trd>  
+  <trd lng="hu">mar <klr tip="ind">(szersz&aacute;mmal)</klr></trd>
   <trdgrp lng="nl">
     <trd>frezen</trd>,
     <trd>uitfrezen</trd>
   </trdgrp>
   <trd lng="pt">fresar</trd>
   <trd lng="ru">&c_f;&c_r;&c_je;&c_z;&c_je;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">frézovať</trd>
 </drv>
 
 <drv mrk="frez.0ilo">
@@ -46,14 +51,20 @@
   <trd lng="be">&c_f;&c_r;&c_e;&c_z;&c_a;</trd>
   <trd lng="bg">&c_f;&c_r;&c_je;&c_z;&c_a;</trd>
   <trd lng="ca">fresa</trd>
+  <trdgrp lng="cs">
+    <trd>fréza <klr>(stroj)</klr></trd>,
+    <trd>frézka</trd>,
+    <trd>frézovačka</trd>
+  </trdgrp>
   <trd lng="de">Fr&auml;ser</trd>
   <trd lng="en">milling <ind>cutter</ind></trd>
   <trd lng="es">fresa<klr tip="ind"> (herramienta)</klr></trd>
   <trd lng="fr">fraise<klr tip="ind"> (outil)</klr></trd>
-  <trd lng="hu">mar&oacute;<klr tip="ind">(szersz&aacute;m)</klr></trd>  
+  <trd lng="hu">mar&oacute;<klr tip="ind">(szersz&aacute;m)</klr></trd>
   <trd lng="nl">frees</trd>
   <trd lng="pt">broca</trd>
   <trd lng="ru">&c_f;&c_r;&c_je;&c_z;&c_a;</trd>
+  <trd lng="sk">fréza</trd>
 </drv>
 
 <drv mrk="frez.0masxino">
@@ -88,6 +99,12 @@
 </art>
 <!--
 $Log: frez.xml,v $
+Revision 1.15  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2013/08/06 09:10:21  revo
 Joop Eggen: +trd bg
 

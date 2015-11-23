@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sindik1.xml,v 1.14 2009/10/12 16:30:56 revo Exp $">
+<art mrk="$Id: sindik1.xml,v 1.16 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>sindikat</rad>/o
@@ -26,6 +26,11 @@
     <trd>&c_s;&c_y;&c_n;&c_d;&c_y;&c_k;&c_a;&c_t;</trd>, 
     <trd>&c_p;&c_r;&c_a;&c_f;&c_s;&c_a;&c_ju;&c_z;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>odborová organizace</trd>,
+    <trd>odborový svaz</trd>,
+    <trd>syndikát</trd>
+  </trdgrp>
   <trd lng="de">Gewerkschaft</trd>
   <trd lng="en">syndicate</trd>
   <trdgrp lng="fa">
@@ -35,8 +40,8 @@
   <trdgrp lng="fr">
     <trd>syndicat</trd>
   </trdgrp>
-  <trd lng="hu">szakszervezet</trd>  
-  <trd lng="it">sindacato</trd> 
+  <trd lng="hu">szakszervezet</trd>
+  <trd lng="it">sindacato</trd>
   <trdgrp lng="nl">
     <trd>vakvereniging</trd>,
     <trd>vakbond</trd>,
@@ -45,6 +50,10 @@
   <trdgrp lng="ru">
     <trd>&c_s;&c_i;&c_n;&c_d;&c_i;&c_k;&c_a;&c_t;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_f;&c_s;&c_o;&c_ju;&c_z;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odborová organizácia</trd>,
+    <trd>združenie</trd>
   </trdgrp>
 </drv>
 
@@ -83,17 +92,31 @@
     <trd lng="it">sindacalismo</trd>
   </snc>
   <trd lng="be">&c_s;&c_y;&c_n;&c_d;&c_y;&c_k;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
-  <trd lng="fa">&a_s;&a_n;&a_d;&f_y;&f_k;&a_A;&a_l;&f_y;&a_s;&a_m;</trd>  
+  <trdgrp lng="cs">
+    <trd>odborářství</trd>,
+    <trd>syndikalizmus</trd>
+  </trdgrp>
+  <trd lng="fa">&a_s;&a_n;&a_d;&f_y;&f_k;&a_A;&a_l;&f_y;&a_s;&a_m;</trd>
   <trdgrp lng="fr">
     <trd>syndicalisme</trd>
   </trdgrp>
-  <trd lng="hu">szindikalizmus</trd>  
+  <trd lng="hu">szindikalizmus</trd>
   <trd lng="nl">syndicalisme</trd>
   <trd lng="ru">&c_s;&c_i;&c_n;&c_d;&c_i;&c_k;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>odborárstvo</trd>,
+    <trd>syndikalizmus</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: sindik1.xml,v $
+Revision 1.16  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2009/10/12 16:30:56  revo
 Antonio Codazzi: +trd it
 

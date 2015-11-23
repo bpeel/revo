@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aksel.xml,v 1.25 2010/11/04 17:31:24 revo Exp $">
+<art mrk="$Id: aksel.xml,v 1.29 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>aksel</rad>/o
@@ -15,6 +15,7 @@
       Subbrako, kavo sub la &scirc;ultra artiko.
     </dif>
     <trd lng="be">&c_p;&c_a;&c_d;&c_p;&c_a;&c_h;&c_a;</trd>
+    <trd lng="bg">&c_p;&c_o;&c_d;&c_m;&c_i;&c_sh;&c_n;&c_i;&c_c;&c_a;</trd>
     <trd lng="br">kazel</trd>
     <trd lng="ca">aixella</trd>
     <trd lng="de">Achselh&ouml;hle</trd>
@@ -40,17 +41,35 @@
     </trdgrp>
     <trd lng="en">crotch (of a tree)</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>podpaždí</trd>,
+    <trd>podpaží</trd>
+  </trdgrp>
   <trd lng="de">Achsel</trd>
   <trd lng="es">axila</trd>
+  <trd lng="id">ketiak</trd>
   <trd lng="it">ascella</trd>
   <trdgrp lng="pt">
     <trd>axila</trd>,
     <trd>sovaco</trd>
   </trdgrp>
+  <trd lng="sk">pazucha <klr>(aj bot.)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: aksel.xml,v $
+Revision 1.29  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/01/29 04:10:34  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.26  2014/12/30 08:10:23  revo
+Joop Eggen: +trd bg
+
 Revision 1.25  2010/11/04 17:31:24  revo
 Antonio Codazzi: +trd it
 
@@ -67,11 +86,5 @@ Revision 1.21  2005/06/19 16:31:18  revo
 Alan ar Gall: +trd br
 
 Revision 1.20  2005/01/12 18:22:59  revo
-Vito Redsky: +trd pl
-
-Revision 1.19  2003/06/17 16:30:54  revo
-Allon Rothfarb: +trd he
-
-Revision 1.18  2002/10/20 16:31:08  revo
 -->
 </vortaro>

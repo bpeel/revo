@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: oleand.xml,v 1.15 2013/10/27 20:10:12 revo Exp $">
+<art mrk="$Id: oleand.xml,v 1.17 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>oleandr</rad>/o
@@ -28,6 +28,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_l;&c_je;&c_a;&c_n;&c_d;&c_a;&c_r;</trd>
+  <trd lng="cs">oleandr</trd>
   <trd lng="de">Oleander</trd>
   <trd lng="fr">laurier-rose</trd>
   <trdgrp lng="hu">
@@ -40,10 +41,17 @@
     <trd>oleandro</trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_l;&c_je;&c_a;&c_n;&c_d;&c_r;</trd>
+  <trd lng="sk">oleander</trd>
 </drv>
 </art>
 <!--
 $Log: oleand.xml,v $
+Revision 1.17  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/10/27 20:10:12  revo
 Wolfram Diestel: ref al gentianoparencoj
 

@@ -1,14 +1,16 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: dek.xml,v 1.49 2014/06/10 14:10:24 revo Exp $">
-<kap><ofc>*</ofc>
-<rad>dek</rad></kap>
+<art mrk="$Id: dek.xml,v 1.52 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>dek</rad> <fnt><bib>PV</bib></fnt>
+</kap>
 
 <drv mrk="dek.0">
    <kap><ofc>*</ofc><tld/></kap>
    <mlg>10</mlg>
-   <snc>
+   <snc mrk="dek.0.KAL">
      <dif>
        Duoble kvin:
        <ekz>
@@ -54,48 +56,99 @@
 
 <drv mrk="dek.0a">
    <kap><tld/>a</kap>
-   <snc>
+   <snc mrk="dek.0a.KAL">
      <dif>
        <tld lit="D"/>aranga, venanta post na&ubreve; anta&ubreve;aj:
      </dif>
    </snc>
-   <trd lng="be">&c_d;&c_z;&c_ja;&c_s;&c_ja;&c_t;&c_y;</trd>
-   <trd lng="br">dekvet</trd>
-   <trd lng="de">zehnte</trd>
-   <trdgrp lng="ca">
+  <trd lng="be">&c_d;&c_z;&c_ja;&c_s;&c_ja;&c_t;&c_y;</trd>
+  <trd lng="br">dekvet</trd>
+  <trdgrp lng="ca">
      <trd>des&eacute;</trd>,
      <trd>d&egrave;cim</trd>
    </trdgrp>
-   <trd lng="es">d&eacute;cimo</trd>
-   <trd lng="fi">kymmenes</trd>
-   <trd lng="he">&ayin;&shin;&yod;&resh;&yod;</trd>
-   <trd lng="nl">tiende</trd>
-   <trd lng="pl">dziesi&aogonek;ty</trd>
-   <trd lng="pt">d&eacute;cimo<klr tip="ind"> (adj.)</klr></trd>
-   <trd lng="ru">&c_d;&c_je;&c_s;&c_ja;&c_t;&c_y;&c_j;</trd>
-   <trd lng="zh">&#31532;&#21313;<klr> [d&igrave;sh&iacute;]</klr></trd>
+  <trd lng="cs">desátý</trd>
+  <trd lng="de">zehnte</trd>
+  <trd lng="es">d&eacute;cimo</trd>
+  <trd lng="fi">kymmenes</trd>
+  <trd lng="fr">dixi&egrave;me</trd>
+  <trd lng="he">&ayin;&shin;&yod;&resh;&yod;</trd>
+  <trd lng="nl">tiende</trd>
+  <trd lng="pl">dziesi&aogonek;ty</trd>
+  <trd lng="pt">d&eacute;cimo<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="ru">&c_d;&c_je;&c_s;&c_ja;&c_t;&c_y;&c_j;</trd>
+  <trd lng="sk">desiaty</trd>
+  <trd lng="zh">&#31532;&#21313;<klr> [d&igrave;sh&iacute;]</klr></trd>
 </drv>
 
 <drv mrk="dek.0e">
    <kap><tld/>e</kap>
-   <snc>
+   <snc mrk="dek.0e.KAL">
      <dif>
        <tld lit="D"/>arange, post na&ubreve; anta&ubreve;aj.
      </dif>
    </snc>
-   <trd lng="br">da <ind>zekvet</ind></trd>
-   <trd lng="ca">en des&eacute; lloc</trd>
-   <trd lng="de">zehntens</trd>
-   <trd lng="fi">kymmenenneksi</trd>
-   <trd lng="nl">ten <ind>tiende</ind></trd>
-   <trdgrp lng="pl">
+  <trd lng="br">da <ind>zekvet</ind></trd>
+  <trd lng="ca">en des&eacute; lloc</trd>
+  <trd lng="cs">za desáté</trd>
+  <trd lng="de">zehntens</trd>
+  <trd lng="fi">kymmenenneksi</trd>
+  <trd lng="fr">dixi&egrave;mement</trd>
+  <trd lng="nl">ten <ind>tiende</ind></trd>
+  <trdgrp lng="pl">
      <trd>na <ind>dziesi&aogonek;tym</ind> miejscu</trd>,
      <trd>na <ind>dziesi&aogonek;tej</ind> pozycji</trd>,
      <trd>po <ind>dziesi&aogonek;te</ind></trd>
    </trdgrp>
-   <trd lng="pt">em <ind>d&eacute;cimo</ind> lugar<klr tip="ind">
+  <trd lng="pt">em <ind>d&eacute;cimo</ind> lugar<klr tip="ind">
    (adv.)</klr></trd>
-   <trd lng="ru">&c_v;-&c_d;&c_je;&c_s;&c_ja;&c_t;&c_y;&c_h;</trd>
+  <trd lng="ru">&c_v;-&c_d;&c_je;&c_s;&c_ja;&c_t;&c_y;&c_h;</trd>
+  <trd lng="sk">po desiate</trd>
+</drv>
+
+<drv mrk="dek.0onajxo">
+  <kap><tld/>ona&jcirc;o</kap>
+  <snc mrk="dek.0onajxo.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="super" cel="impost.0o.EKON">Imposto</ref>
+      plejofte religia, origine egala al dekono de rikolto,
+      de enspezo...;
+      <ref tip="sin" cel="dism.0o.EKON">dismo</ref>.
+    </dif>
+      <subsnc mrk="dek.0onajxo.BIB">
+        <uzo tip="fak">BIB</uzo>
+        <dif>
+          En antikva judismo, imposto pagata per natura&jcirc;o al la templo 
+          kaj al la pastroj:
+          <ekz>
+            &ccirc;iu <tld/>ona&jcirc;o el la tero, el la semita&jcirc;o de la tero, el 
+            la fruktoj de la arboj apartenas al la Eternulo
+            <fnt><bib>MT</bib>, <lok>&Lev; 27:30</lok></fnt>
+          </ekz>
+        </dif>
+      </subsnc>
+      <subsnc mrk="dek.0onajxo.KRI">
+        <uzo tip="fak">KRI</uzo>
+        <dif>
+          Imposto pagata per natura&jcirc;o a&ubreve; per mono al
+          iu eklezio:
+          <ekz>
+            kial pastoroj frostigas la rilaton kun adeptoj, kiuj ne plu 
+            kapablas doni multe da <tld/>ona&jcirc;o?
+            <fnt>
+              <aut>Gbeglo K.</aut>,
+              <vrk><url
+              ref="http://www.esperanto.be/fel/2009/009910.php?p">
+              Ventreligio, dua r aldoni&gcirc;u</url></vrk>,
+              <bib>Monato</bib>,
+              <lok>2010:01, p. 20a</lok>
+            </fnt>
+          </ekz>
+        </dif>
+      </subsnc>
+  </snc>
+  <trd lng="fr">dime</trd>
 </drv>
 
 <drv mrk="dek.0uma">
@@ -172,6 +225,12 @@
      <trd><klr>tr. </klr>&#23567;&#25976;<klr>
      [xi&#462;osh&ugrave;]</klr></trd>
    </trdgrp>
+  <trd lng="sk">desiatkový <klr>(systém)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>decimální</trd>,
+    <trd>desetinný (číslo)</trd>,
+    <trd>desítkový <klr>(systém)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dek.0sesuma">
@@ -179,7 +238,7 @@
   <uzo tip="fak">MAT</uzo>
   <uzo tip="fak">KOMP</uzo>
   <fnt><bib>KompLeks</bib></fnt>
-  <snc>
+  <snc mrk="dek.0sesuma.KAL">
     <ref tip="vid" cel="um.0.nombrosistemo">-um.</ref>
     <trd
     lng="be">&c_sh;&c_a;&c_s;&c_n;&c_a;&c_c;&c_c;&c_a;&c_t;&c_k;&c_o;&c_v;&c_y;</trd>
@@ -217,12 +276,22 @@
     <trd lng="sk">&scaron;estn&aacute;stkov&yacute;</trd>
     <trd lng="sv">hexadecimal</trd>
   </snc>
+  <trd lng="cs">šestnáctkový</trd>
 </drv>
 </art>
 
 <!--
 
 $Log: dek.xml,v $
+Revision 1.52  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.51  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.50  2014/11/14 21:10:13  revo
+Jeromo Vasxe: + ~onajxo
+
 Revision 1.49  2014/06/10 14:10:24  revo
 Eko Nur Syah Hidayat: edit trd id
 
@@ -242,9 +311,6 @@ Revision 1.44  2013/09/10 09:10:11  revo
 Joop Eggen: korekto en ref por mili-
 
 Revision 1.43  2013/09/09 12:10:14  revo
-Joop Eggen: Aldono de dekopotencaj prefiksoj de mezurunuoj
-
-Revision 1.42  2013/08/22 16:10:18  revo
 -->
 
 </vortaro>

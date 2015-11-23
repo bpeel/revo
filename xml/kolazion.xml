@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: kolazion.xml,v 1.7 2011/12/03 23:10:33 revo Exp $">
+<art mrk="$Id: kolazion.xml,v 1.9 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>kolazion</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -22,8 +22,10 @@
     </dif>
   </snc>
   <trd lng="ca">berenar</trd>
+  <trd lng="cs">svačit <klr>(odpoled.)</klr></trd>
   <trd lng="fr">go&ucirc;ter<klr tip="ind"> (faire un go&ucirc;ter)</klr></trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_d;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">olovrantovať</trd>
 </drv>
 
 <drv mrk="kolazion.0o">
@@ -41,10 +43,12 @@
     <trd>col&middot;laci&oacute;</trd>,
     <trd>berenar</trd>
   </trdgrp>
+  <trd lng="cs">svačina <klr>(odpol.)</klr></trd>
   <trd lng="fr">gouter<klr tip="ind"> (subst.)</klr></trd>
   <trd lng="pl">podwieczorek</trd>
   <trd lng="ro">gustare</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_d;&c_n;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">olovrant</trd>
 </drv>
 <rim>
   La radiko estas malofta. &Gcirc;i aperis en PIV1, sed en PIV2 &gcirc;i jam
@@ -61,6 +65,12 @@
 </art>
 <!--
 $Log: kolazion.xml,v $
+Revision 1.9  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.7  2011/12/03 23:10:33  revo
 Marc Rausell: kataluna traduko
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: uln.xml,v 1.28 2014/10/26 15:10:33 revo Exp $">
+<art mrk="$Id: uln.xml,v 1.30 2015/07/04 08:37:45 revo Exp $">
 <kap>
     <ofc>*</ofc>
     <rad>uln</rad>/o
@@ -95,11 +95,22 @@
         <trd>ulna</trd>
       </trdgrp>
     </snc>
-    <trd lng="de">Elle</trd>
+  <trdgrp lng="cs">
+    <trd>kost loketní <klr>(ulna)</klr></trd>,
+    <trd>ulna</trd>
+  </trdgrp>
+  <trd lng="de">Elle</trd>
+  <trd lng="sk">lakeť <klr>(miera)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: uln.xml,v $
+Revision 1.30  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.28  2014/10/26 15:10:33  revo
 Eko Nur Syah Hidayat: +trd id
 

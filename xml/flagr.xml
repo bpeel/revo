@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flagr.xml,v 1.15 2009/02/19 20:27:26 revo Exp $">
+<art mrk="$Id: flagr.xml,v 1.17 2015/07/04 08:37:34 revo Exp $">
 <kap><ofc>3</ofc>
 <rad>flagr</rad>/i</kap>
 <drv mrk="flagr.0i">
@@ -136,6 +136,11 @@
     <trd>&c_p;&c_a;&c_l;&c_y;&c_m;&c_n;&c_je;&c_c;&c_mol;</trd>,
     <trd>&c_u;&c_s;&c_p;&c_y;&c_h;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>míhat se</trd>,
+    <trd>plápolat</trd>,
+    <trd>třepetat se</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>flicker</trd>,
     <trd>flare</trd>
@@ -150,6 +155,10 @@
     lumi&egrave;re)</klr></trd>,
     <trd>vaciller<klr tip="ind"> (en p. d'une flamme, d'une
     lumi&egrave;re)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mihať sa</trd>,
+    <trd>plápolať</trd>
   </trdgrp>
 </drv>
 
@@ -196,6 +205,11 @@
     <trd>&c_m;&c_ib;&c_g;&c_a;&c_c;&c_je;&c_c;&c_mol;</trd>,
     <trd>&c_m;&c_ib;&c_g;&c_c;&c_je;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>míhat se</trd>,
+    <trd>plápolat</trd>,
+    <trd>třepetat se</trd>
+  </trdgrp>
   <trd lng="en">flicker</trd>
   <trdgrp lng="fr">
     <trd>trembloter<klr tip="ind"> (en p. d'une flamme, d'une
@@ -203,6 +217,10 @@
   </trdgrp>
   <trd lng="hu">pisl&aacute;kol</trd>
   <trd lng="ru">&c_m;&c_je;&c_r;&c_c;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>mihať sa</trd>,
+    <trd>plápolať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flagr.kun0ado">
@@ -227,6 +245,12 @@
 </art>
 <!--
 $Log: flagr.xml,v $
+Revision 1.17  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2009/02/19 20:27:26  revo
 Russ Williams: +trd en
 

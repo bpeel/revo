@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flirt.xml,v 1.23 2011/06/16 08:10:08 revo Exp $">
+<art mrk="$Id: flirt.xml,v 1.27 2015/10/28 21:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>flirt</rad>/i <fnt><bib>PV</bib></fnt>
@@ -74,7 +74,7 @@
       Amindumi kvaza&ubreve; flugetante de unu al alia kaj ne celante
       edzi&gcirc;on:
       <ekz>
-	&scirc;i havas sian preferitan <tld/>anton.
+	&scirc;i havas sian preferatan <tld/>anton.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -112,7 +112,36 @@
     </trdgrp>
     <trd lng="ru">&c_f;&c_l;&c_i;&c_r;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>poletovat</trd>,
+    <trd>t&rcaron;epetat</trd>,
+    <trd>vl&aacute;t</trd>
+  </trdgrp>
   <trd lng="en">flirt</trd>
+  <trdgrp lng="sk">
+    <trd>poletova&tcaron;</trd>,
+    <trd>trepota&tcaron;</trd>,
+    <trd>via&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="flirt.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="flirt.0o.FIG">
+      <ref tip="dif" cel="am.0indumo.MOR">amindumo</ref>
+      <ekz>
+         brazila sinjorino <klr>...</klr> anta&ubreve; kvindek jaroj havis 
+         tutsemajnan <tld/>on kun la le&ubreve;tenanto de usona veselo, 
+         ankrita en Rio-de-&Jcirc;anejro
+        <fnt>
+          <aut>G. Silfer</aut>,
+          <vrk><url ref="http://www.esperantio.net/index.php?id=679">
+          Dato neglektita survoje al Pac-Nobelo</url></vrk>,
+          <lok>Heroldo de Esperanto, 2008:13</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trd lng="fr">flirt</trd>
 </drv>
 
 <drv mrk="flirt.0ema">
@@ -125,9 +154,21 @@
   <snc mrk="flirt.0ema.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Malkonstanta, malserioza.
+      Malkonstanta, malserioza:
+      <ekz>
+        <tld/>ema adoranto de inoj plej diversaj
+        <fnt>
+          <aut>J. Racine, trad. G. Lagrange</aut>,
+          <vrk>Fedra</vrk>,
+          <lok>1991</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>poletav&yacute;</trd>,
+    <trd>z&aacute;letn&yacute;</trd>
+  </trdgrp>
   <trd lng="de">flatterhaft</trd>
   <trdgrp lng="fr">
     <trd>dragueur<klr tip="ind"> (adj.)</klr></trd>,
@@ -137,6 +178,10 @@
     <trd>versatile</trd>
   </trdgrp>
   <trd lng="nl">flirtziek</trd>
+  <trdgrp lng="sk">
+    <trd>prelietav&yacute;</trd>,
+    <trd>z&aacute;letn&yacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flirt.cxirkaux0i">
@@ -173,6 +218,18 @@ de)</klr></trd>
 </art>
 <!--
 $Log: flirt.xml,v $
+Revision 1.27  2015/10/28 21:10:17  revo
+Jeromo Vasxe: + ~o
+
+Revision 1.26  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2015/06/13 17:10:20  revo
+Jeromo Vasxe: + ekz
+
 Revision 1.23  2011/06/16 08:10:08  revo
 Jeromo Vasxe: + mrk
 
@@ -183,17 +240,5 @@ Revision 1.21  2008/01/31 17:30:25  revo
 Wieland Pusch: +trd bg
 
 Revision 1.20  2007/06/28 16:33:40  revo
-Wieland Pusch: +trd de
-
-Revision 1.19  2007/06/01 16:32:08  revo
-Tulio Flores: +tr pt
-
-Revision 1.18  2005/04/19 16:31:49  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.17  2004/12/26 17:32:21  revo
-Marc Bavant: mod ref al koketi, mod trd fr
-
-Revision 1.16  2004/09/27 19:06:36  revo
 -->
 </vortaro>

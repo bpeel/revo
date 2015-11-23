@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tarant1.xml,v 1.16 2014/01/05 17:10:15 revo Exp $">
+<art mrk="$Id: tarant1.xml,v 1.18 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>tarantul</rad>/o
@@ -19,6 +19,7 @@
   </snc>
   <trd lng="be">&c_t;&c_a;&c_r;&c_a;&c_n;&c_t;&c_u;&c_l;</trd>
   <trd lng="ca">tar&agrave;ntula</trd>
+  <trd lng="cs">tarantule</trd>
   <trd lng="de">Tarantel</trd>
   <trdgrp lng="fa">
    <trd>&a_r;&a_t;&f_y;&a_l;&a_A;&a_hamza;</trd>
@@ -32,10 +33,17 @@
    <trd>tar&acirc;ntula</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_a;&c_r;&c_a;&c_n;&c_t;&c_u;&c_l;</trd>
+  <trd lng="sk">tarantula</trd>
 </drv>
 </art>
 <!--
 $Log: tarant1.xml,v $
+Revision 1.18  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2014/01/05 17:10:15  revo
 Damien Brucker: +trd fr
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bufed.xml,v 1.19 2012/07/20 09:10:23 revo Exp $">
+<art mrk="$Id: bufed.xml,v 1.22 2015/10/06 12:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bufed</rad>/o <fnt><bib>PV</bib></fnt>
@@ -35,6 +35,10 @@
       <trd>bar</trd>,
       <trd>kredens</trd>
     </trdgrp>
+    <trdgrp lng="pt">
+      <trd>aparador</trd>,
+      <trd>bif&ecirc;</trd>
+    </trdgrp>
   </snc>
   <snc mrk="bufed.0o.ejo">
     <dif>
@@ -48,8 +52,12 @@
   </snc>
   <trd lng="be">&c_b;&c_u;&c_f;&c_e;&c_t;</trd>
   <trd lng="ca">bufet</trd>
-  <trd lng="es">buffet</trd>
+  <trdgrp lng="cs">
+    <trd>bufet</trd>,
+    <trd>st&uring;l s ob&ccaron;erstven&iacute;m</trd>
+  </trdgrp>
   <trd lng="en">buffet</trd>
+  <trd lng="es">buffet</trd>
   <trd lng="fr">buffet</trd>
   <trd lng="hu">b&uuml;f&eacute;</trd>
   <trdgrp lng="it">
@@ -59,6 +67,7 @@
     <trd>caff&egrave;<klr tip="amb"> (luogo di ristoro)</klr></trd>,
     <trd>bar</trd>
   </trdgrp>
+  <trd lng="ro">bufet</trd>
   <trd lng="ru">&c_b;&c_u;&c_f;&c_je;&c_t;</trd>
   <trd lng="sk">bufet</trd>
   <trd lng="sv">buff&eacute;</trd>
@@ -66,6 +75,15 @@
 </art>
 <!--
 $Log: bufed.xml,v $
+Revision 1.22  2015/10/06 12:10:20  revo
+Evandro Avellar: +trd pt
+
+Revision 1.21  2015/07/08 19:10:15  revo
+Vito Redsky: +trd ro
+
+Revision 1.20  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.19  2012/07/20 09:10:23  revo
 Marc Rausell: + trd ca
 
@@ -79,14 +97,5 @@ Revision 1.16  2009/04/02 16:31:11  revo
 Antonio Codazzi: +trd it
 
 Revision 1.15  2009/03/31 16:30:40  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.14  2005/06/21 16:31:22  revo
-Alan ar Gall: +trd br
-
-Revision 1.13  2003/12/03 17:31:15  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12  2003/05/15 16:33:01  revo
 -->
 </vortaro>

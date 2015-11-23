@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vertic.xml,v 1.29 2012/08/13 08:10:22 revo Exp $">
+<art mrk="$Id: vertic.xml,v 1.31 2015/07/04 08:37:45 revo Exp $">
 <kap>
 <ofc>8</ofc>
 <rad>vertic</rad>/o
@@ -108,13 +108,21 @@
     </trdgrp>
   </snc>
   <trd lng="ca">v&egrave;rtex</trd>
+  <trd lng="cs">vrchol <klr>(abstraktního symplexu| polygonu| diagramu)</klr></trd>
   <trd lng="el">&gamma;&omega;&ny;&jota_ton;&alfa;</trd>
   <trd lng="hu">cs&uacute;cs</trd>
   <trd lng="pt">v&eacute;rtice</trd>
+  <trd lng="sk">vrchol uhla</trd>
 </drv>
 </art>
 <!--
 $Log: vertic.xml,v $
+Revision 1.31  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.29  2012/08/13 08:10:22  revo
 Marc Rausell: + trd ca
 

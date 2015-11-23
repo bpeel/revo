@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: acx.xml,v 1.24 2014/08/01 01:10:10 revo Exp $">
+<art mrk="$Id: acx.xml,v 1.25 2015/09/17 08:10:17 revo Exp $">
 <kap>
   <ofc>1</ofc>
   -<rad>a&ccirc;</rad>/ <fnt><bib>PV</bib></fnt>
@@ -50,6 +50,9 @@
     </trdgrp>
     <trd lng="vo">lu-</trd>
   </snc>
+  <rim>
+  Vidu la <ref cel="fi.0.RIM">rimarkon &ccirc;e fi</ref>.
+  </rim>
   </drv>
 </subart>
 
@@ -181,12 +184,13 @@
     <trd lng="fr">salaud</trd>
   </drv>
 </subart>
-<rim>
-Vidu la <ref cel="fi.0.RIM">rimarkon &ccirc;e fi</ref>.
-</rim>
+
 </art>
 <!--fi
 $Log: acx.xml,v $
+Revision 1.25  2015/09/17 08:10:17  revo
+Damien Brucker: Alilokigo de la rim por PReVo
+
 Revision 1.24  2014/08/01 01:10:10  revo
 Alain Gerard: aldonis sufikson
 
@@ -219,6 +223,9 @@ Revision 1.15  2007/12/18 17:30:12  revo
 
 <!--
 $Log: acx.xml,v $
+Revision 1.25  2015/09/17 08:10:17  revo
+Damien Brucker: Alilokigo de la rim por PReVo
+
 Revision 1.24  2014/08/01 01:10:10  revo
 Alain Gerard: aldonis sufikson
 

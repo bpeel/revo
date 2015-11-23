@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jar.xml,v 1.47 2014/10/25 13:10:19 revo Exp $">
+<art mrk="$Id: jar.xml,v 1.54 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>jar</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,7 +13,8 @@
     <tezrad fak="AST"/>
     <uzo tip="fak">AST</uzo>
     <dif>
-      <ref tip="lst" cel="dauxr.0o" lst="voko:da&ubreve;roj">Da&ubreve;ro</ref> 
+      <ref tip="lst" cel="dauxr.0o" 
+lst="voko:da&ubreve;roj">Da&ubreve;ro</ref> 
       dum kiu la tero faras kompletan rondiron
       &ccirc;irka&ubreve; la suno, proksimume 365 tagoj kaj 1
       kvarono:
@@ -70,7 +71,10 @@
     <trd>bloavezh</trd>
   </trdgrp>
   <trd lng="ca">any</trd>
-  <trd lng="cs">rok</trd>
+  <trdgrp lng="cs">
+    <trd>rok</trd>,
+    <trd>rok <klr>(doba)</klr></trd>
+  </trdgrp>
   <trd lng="de">Jahr</trd>
   <trdgrp lng="el">
     <trd>&epsilon_ton;&tau;&omikron;&sigma_fina;</trd>,
@@ -78,10 +82,11 @@
   </trdgrp>
   <trd lng="en">year</trd>
   <trd lng="es">a&ntilde;o</trd>
+  <trd lng="fa">&a_s;&a_A;&a_l;</trd>
   <trd lng="fr">ann&eacute;e</trd>
   <trd lng="hu">&eacute;v</trd>
-  <trd lng="it">anno</trd>
   <trd lng="id">tahun</trd>
+  <trd lng="it">anno</trd>
   <trd lng="nl">jaar</trd>
   <trd lng="no">&aring;r</trd>
   <trd lng="oc">an</trd>
@@ -91,6 +96,7 @@
   <trd lng="sk">rok</trd>
   <trd lng="sv">&aring;r</trd>
   <trd lng="vo">yel</trd>
+  <trd lng="zh">年 [<ind>nián</ind>]</trd>
 </drv>
 
 <drv mrk="jar.cent0o">
@@ -106,6 +112,7 @@
     </ekz>
   </snc>
   <trd lng="ca">segle</trd>
+  <trd lng="cs">století</trd>
   <trd lng="de">Jahrhundert</trd>
   <trd lng="hu">&eacute;vsz&aacute;zad</trd>
   <trd lng="id">abad</trd>
@@ -118,6 +125,7 @@
     <trd>secol</trd>,
     <trd>veac</trd>,
   </trdgrp>
+  <trd lng="sk">storočie</trd>
 </drv>
 
 <drv mrk="jar.cxiu0a">
@@ -150,8 +158,7 @@
   <trd lng="de">j&auml;hrlich</trd>
   <trdgrp lng="el">
     <trd>&epsilon;&tau;&eta_ton;&sigma;&jota;&omikron;&sigma_fina;</trd>,
-    <trd>&chi;&rho;&omikron;&ny;&jota;&alfa_ton;&tau;&jota;&kappa;&omikron;&sigma_fina;
-</trd>
+    <trd>&chi;&rho;&omikron;&ny;&jota;&alfa_ton;&tau;&jota;&kappa;&omikron;&sigma_fina;</trd>
   </trdgrp>
   <trd lng="en">annual</trd>
   <trd lng="es">anual</trd>
@@ -189,6 +196,7 @@
     </dif>
   </snc>
   <trd lng="ca">biennal</trd>
+  <trd lng="es">bienal</trd>
   <trd lng="fr">bisannuel</trd>
   <trd lng="id">bienial</trd>
   <trd lng="it">biennale</trd>
@@ -217,6 +225,8 @@ ref="http://www.skotlando.org/En%20Esperanto/Skota%20Kulturo/John%20Logie
     </dif>
   </snc>
   <trd lng="ca">adolescent</trd>
+  <trd lng="en">teenager</trd>
+  <trd lng="es">adolescente</trd>
   <trdgrp lng="id">
     <trd>remaja</trd>,
     <trd><ind>umur</ind> belasan</trd>
@@ -247,13 +257,14 @@ ref="http://www.skotlando.org/En%20Esperanto/Skota%20Kulturo/John%20Logie
     <trd lng="ru">&c_p;&c_o;&c_l;&c_u;&c_g;&c_o;&c_d;&c_i;&c_je;
     </trd>
   </snc>
-  <trd lng="be">&c_p;&c_a;&c_w;&c_g;&c_o;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_je;
-</trd>
+  <trd 
+lng="be">&c_p;&c_a;&c_w;&c_g;&c_o;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_je;</trd>
   <trd lng="br">c'hwec'hmiziad</trd>
   <trdgrp lng="ca">
     <trd>semestre</trd>,
     <trd>mig any</trd>
   </trdgrp>
+  <trd lng="cs">pololetí</trd>
   <trd lng="de">Halbjahr</trd>
   <trd lng="es">semestre</trd>
   <trd lng="fr">semestre</trd>
@@ -286,6 +297,7 @@ ref="http://www.skotlando.org/En%20Esperanto/Skota%20Kulturo/John%20Logie
   <trd lng="be">&c_s;&c_mol;&c_v;&c_je;&c_t;&c_l;&c_a;&c_v;&c_y; 
 <ind>&c_g;&c_o;&c_d;</ind></trd>
   <trd lng="ca">any <ind>llum</ind></trd>
+  <trd lng="cs">světelný rok</trd>
   <trd lng="de">Lichtjahr</trd>
   <trd lng="en">light-year</trd>
   <trd lng="es">a&ntilde;o luz</trd>
@@ -297,6 +309,7 @@ ref="http://www.skotlando.org/En%20Esperanto/Skota%20Kulturo/John%20Logie
   <trd lng="no">lys&aring;r</trd>
   <trd lng="ru">&c_s;&c_v;&c_je;&c_t;&c_o;&c_v;&c_o;&c_j; &c_g;&c_o;&c_d;
 </trd>
+  <trd lng="sk">svetelný rok</trd>
   <trd lng="sv">ljus&aring;r</trd>
 </drv>
 
@@ -311,6 +324,7 @@ ref="http://www.skotlando.org/En%20Esperanto/Skota%20Kulturo/John%20Logie
     </ekz>
   </snc>
   <trd lng="ca">mil&middot;lenni</trd>
+  <trd lng="cs">tisíciletí</trd>
   <trd lng="de">Jahrtausend</trd>
   <trd lng="hu">&eacute;vezred</trd>
   <trd lng="id">milenium</trd>
@@ -318,14 +332,39 @@ ref="http://www.skotlando.org/En%20Esperanto/Skota%20Kulturo/John%20Logie
   <trdgrp lng="no">
     <trd>millenium</trd>,
     <trd>&aring;rtusen</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="pl">tysi&aogonek;clecie</trd>
   <trd lng="ro">mileniu</trd>
+  <trd lng="sk">tisícročie</trd>
+</drv>
+
+<drv mrk="jar.nov0o">
+  <kap>nov<tld/>o</kap>
+  <snc mrk="jar.nov0o.KAL">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      Unua tago de la jaro kaj la rilata
+      <ref tip="lst" cel="fest.0o.KAL" lst="voko:festoj">festo</ref>
+      en la koncerna kalendaro:
+      <ekz>
+        Dio donu al ni &ccirc;iuj &gcirc;ojigan nov<tld/>on!
+        <fnt>
+          <aut>S. S. Blicher, trad. H. J. Bulthuis</aut>,
+          <vrk>Taglibro de Vila&gcirc;-pedelo</vrk>,
+          <lok>1922</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">nový rok</trd>
+  <trd lng="es">A&ntilde;o nuevo</trd>
+  <trd lng="fr">nouvel an</trd>
+  <trd lng="sk">Nový rok</trd>
 </drv>
 
 <drv mrk="jar.prov0o">
   <kap>prov<tld/>o</kap>
-  <snc>
+  <snc mrk="jar.prov0o.PED">
     <dif>
       <tld lit="J"/>o, dum kiu oni ion provas, ekzemple dum kiu 
       komencanta profesiulo lernas kaj akiras kapablojn en laborejo:
@@ -340,6 +379,11 @@ ref="http://www.skotlando.org/En%20Esperanto/Skota%20Kulturo/John%20Logie
     </dif>
   </snc>
   <trd lng="ca">any de <ind>pr&agrave;ctiques</ind></trd>
+  <trdgrp lng="es">
+    <trd>periodo de <ind>aprendizaje</ind></trd>,
+    <trd>periodo de <ind>pruebas</ind></trd>,
+    <trd>periodo de <ind>formaci&oacute;n</ind></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>p&eacute;riode d'<ind>apprentissage</ind></trd>,
     <trd>p&eacute;riode de <ind>formation</ind></trd>
@@ -355,8 +399,8 @@ ref="http://www.skotlando.org/En%20Esperanto/Skota%20Kulturo/John%20Logie
     <trd>rok pr&oacute;bny</trd>,
     <trd>roczny sta&zdot;</trd>
   </trdgrp>
-  <trd lng="ru">
-&c_i;&c_s;&c_p;&c_y;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; 
+  <trd 
+lng="ru">&c_i;&c_s;&c_p;&c_y;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; 
 &c_g;&c_o;&c_d;</trd>
 </drv>
 
@@ -388,6 +432,10 @@ ref="http://www.skotlando.org/En%20Esperanto/Skota%20Kulturo/John%20Logie
     <trd>Schuljahr</trd>,
     <trd>Studienjahr</trd>,
     <trd>akademisches Jahr</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>curso escolar</trd>,
+    <trd>curso acad&eacute;mico</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>ann&eacute;e scolaire</trd>,
@@ -438,24 +486,47 @@ ref="http://www.skotlando.org/En%20Esperanto/Skota%20Kulturo/John%20Logie
     <trd>any bixest</trd>,
     <trd>any de <ind>trasp&agrave;s</ind></trd>
   </trdgrp>
+  <trd lng="cs">přestupný rok</trd>
   <trd lng="de">Schaltjahr</trd>
   <trd lng="en">leap year</trd>
   <trd lng="es">a&ntilde;o bisiesto</trd>
   <trd lng="fr">ann&eacute;e bissextile</trd>
+  <trd lng="hu">sz&ouml;k&odblac;&eacute;v</trd>
   <trd lng="id"><ind>tahun</ind> kabisat</trd>
   <trd lng="it">anno bisestile</trd>
-  <trd lng="hu">sz&ouml;k&odblac;&eacute;v</trd>
   <trd lng="nl">schrikkeljaar</trd>
   <trd lng="no">skudd&aring;r</trd>
   <trd lng="pl">rok przest&eogonek;pny</trd>
   <trd lng="pt">ano bissexto</trd>
-  <trd lng="ru">&c_v;&c_i;&c_s;&c_o;&c_k;&c_o;&c_s;&c_n;&c_y;&c_j;
-  &c_g;&c_o;&c_d;</trd>
+  <trd lng="ru">&c_v;&c_i;&c_s;&c_o;&c_k;&c_o;&c_s;&c_n;&c_y;&c_j; 
+&c_g;&c_o;&c_d;</trd>
+  <trd lng="sk">priestupný rok</trd>
   <trd lng="sv">skott&aring;r</trd>
 </drv>
 </art>
 <!--
 $Log: jar.xml,v $
+Revision 1.54  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.53  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.52  2015/06/27 16:10:16  revo
+Darcy Shen: +trd zh
+
+Revision 1.51  2015/02/01 19:10:13  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.50  2014/11/24 23:10:13  revo
+Jeromo Vasxe: + lst festoj
+
+Revision 1.49  2014/11/23 21:10:33  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.48  2014/11/21 21:10:15  revo
+Jeromo Vasxe: + nov~o
+
 Revision 1.47  2014/10/25 13:10:19  revo
 Filip van Laenen: norvega traduko
 
@@ -463,20 +534,5 @@ Revision 1.46  2014/07/02 15:10:52  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.45  2013/10/03 08:10:56  revo
-Wolfram Diestel: precizigis klason al voko:longoj
-
-Revision 1.44  2013/09/15 11:10:14  revo
-Wolfram Diestel: snc KAL estas periodo anst. dauro
-
-Revision 1.43  2013/08/25 19:10:10  revo
-Wolfram Diestel: referenco al listo dauxroj
-
-Revision 1.42  2013/08/22 18:10:16  revo
-Wolfram Diestel: referenco al listo mezurunuoj
-
-Revision 1.41  2013/07/03 01:10:13  revo
-Benito Subejrano: + trd oc
-
-Revision 1.40  2011/11/22 19:10:09  revo
 -->
 </vortaro>

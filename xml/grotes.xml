@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: grotes.xml,v 1.18 2012/08/19 09:10:21 revo Exp $">
+<art mrk="$Id: grotes.xml,v 1.20 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>grotesk</rad>/a
@@ -53,9 +53,14 @@
   </snc>
   <trd lng="be">&c_g;&c_r;&c_a;&c_t;&c_e;&c_s;&c_k;&c_a;&c_v;&c_y;</trd>
   <trd lng="ca">grotesc</trd>
+  <trdgrp lng="cs">
+    <trd>groteskní</trd>,
+    <trd>grotesková</trd>
+  </trdgrp>
   <trd lng="en">grotesque</trd>
   <trd lng="fr">grotesque</trd>
   <trd lng="pl">groteskowy</trd>
+  <trd lng="sk">smiešny</trd>
 </drv>
 
 <drv mrk="grotes.0o">
@@ -71,14 +76,22 @@
   </snc>
   <trd lng="be">&c_g;&c_r;&c_a;&c_t;&c_e;&c_s;&c_k;</trd>
   <trd lng="ca">estil grotesc</trd>
+  <trd lng="cs">groteska</trd>
   <trd lng="fr">style <ind>grotesque</ind></trd>
   <trd lng="hu">groteszk<klr tip="ind"> (st&iacute;lus)</klr></trd>
   <trd lng="pl">groteska</trd>
   <trd lng="ru">&c_g;&c_r;&c_o;&c_t;&c_je;&c_s;&c_k;</trd>
+  <trd lng="sk">groteska</trd>
 </drv>
 </art>
 <!--
 $Log: grotes.xml,v $
+Revision 1.20  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/08/19 09:10:21  revo
 Marc Rausell: + trd ca
 

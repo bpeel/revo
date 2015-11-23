@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: bufr.xml,v 1.19 2014/11/04 21:10:17 revo Exp $">
+  <art mrk="$Id: bufr.xml,v 1.21 2015/07/04 08:37:31 revo Exp $">
     <kap>
       <rad>bufr</rad>/o
       <fnt>Z</fnt>
@@ -101,21 +101,29 @@
       <trd lng="it">cuscinetto</trd>
       <trd lng="nl">buffer</trd>
       </snc>
-      <trd lng="be">&c_b;&c_u;&c_f;&c_e;&c_r;</trd>
-      <trdgrp lng="en">
+  <trd lng="be">&c_b;&c_u;&c_f;&c_e;&c_r;</trd>
+  <trd lng="cs">vyrovnávací paměť</trd>
+  <trdgrp lng="en">
          <trd>buffer</trd>,
          <trd>bumper</trd>
       </trdgrp>
-      <trdgrp lng="pl">
+  <trdgrp lng="pl">
         <trd>bufor</trd>,
         <trd>pami&eogonek;&cacute;<klr tip="amb"> (buforowa)</klr>
         </trd>
       </trdgrp>
-      <trd lng="ru">&c_b;&c_u;&c_f;&c_je;&c_r;</trd>
-    </drv>
+  <trd lng="ru">&c_b;&c_u;&c_f;&c_je;&c_r;</trd>
+  <trd lng="sk">vyrovnávacia pamäť</trd>
+</drv>
   </art>
   <!--
   $Log: bufr.xml,v $
+  Revision 1.21  2015/07/04 08:37:31  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.20  2015/06/29 16:29:36  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.19  2014/11/04 21:10:17  revo
   Filip van Laenen: +trd nl
 

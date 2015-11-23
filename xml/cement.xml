@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cement.xml,v 1.27 2012/08/26 11:10:23 revo Exp $">
+<art mrk="$Id: cement.xml,v 1.30 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>cement</rad>/o
@@ -160,14 +160,33 @@
   </snc>
   <trd
   lng="be">&c_c;&c_e;&c_m;&c_e;&c_n;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>cementovat</trd>,
+    <trd>upevňovat</trd>,
+    <trd>utvrzovat</trd>
+  </trdgrp>
+  <trd lng="es">cementar</trd>
   <trdgrp lng="ru">
     <trd>&c_c;&c_je;&c_m;&c_je;&c_n;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_c;&c_je;&c_m;&c_je;&c_n;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>spevniť</trd>,
+    <trd>utvrdzovať</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: cement.xml,v $
+Revision 1.30  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2015/04/20 22:10:18  revo
+Carlos Garcia: +trd es -i
+
 Revision 1.27  2012/08/26 11:10:23  revo
 Marc Rausell: ++ trd ca
 
@@ -187,8 +206,5 @@ Revision 1.22  2006/11/05 17:30:16  revo
 Wieland Pusch: +trd de
 
 Revision 1.21  2005/11/25 17:31:10  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.20  2005/03/06 17:36:28  revo
 -->
 </vortaro>

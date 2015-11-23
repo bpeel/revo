@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: absid.xml,v 1.24 2013/10/27 14:10:12 revo Exp $">
+  <art mrk="$Id: absid.xml,v 1.26 2015/07/04 08:37:29 revo Exp $">
     <kap>
       <rad>absid</rad>/o
     </kap>
@@ -55,7 +55,15 @@
       <trd lng="pt">&aacute;bside</trd>
       <trd lng="ro">absida</trd>
       <trd lng="ru">&c_a;&c_p;&c_s;&c_i;&c_d;&c_a;</trd>
-    </drv>
+      <trdgrp lng="sk">
+    <trd>apsida</trd>,
+    <trd>prístavok</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>apsida</trd>,
+    <trd>přístavek</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="absid.0eto">
       <kap><tld/>eto</kap>
@@ -67,23 +75,31 @@
           kronas la <tld/>on en iuj pre&gcirc;ejoj.
         </dif>
       </snc>
-      <trd lng="ca">absidiola</trd>
-      <trd lng="fr">absidiole</trd>
-      <trdgrp lng="hu">
+  <trd lng="ca">absidiola</trd>
+  <trd lng="cs">kaple ve vedlejší apsidě</trd>
+  <trd lng="fr">absidiole</trd>
+  <trdgrp lng="hu">
         <trd>apszidiola</trd>,
         <trd>apszisk&aacute;polna</trd>,
         <trd>fi&oacute;kapszis</trd>
       </trdgrp>
-      <trd lng="it">absidiola</trd>
-      <trdgrp lng="nl">
+  <trd lng="it">absidiola</trd>
+  <trdgrp lng="nl">
         <trd>apsiskapel</trd>,
         <trd>absidiool</trd>
       </trdgrp>
-      <trd lng="pl">apsydiola</trd>
-    </drv>
+  <trd lng="pl">apsydiola</trd>
+  <trd lng="sk">kaplnka vo vedľajšej abside</trd>
+</drv>
   </art>
   <!--
   $Log: absid.xml,v $
+  Revision 1.26  2015/07/04 08:37:29  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.25  2015/06/28 12:03:35  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.24  2013/10/27 14:10:12  revo
   Vito Redsky: +trd  pl ro
 

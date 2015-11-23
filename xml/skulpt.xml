@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skulpt.xml,v 1.18 2012/08/24 06:10:14 revo Exp $">
+<art mrk="$Id: skulpt.xml,v 1.20 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>skulpt</rad>/i
@@ -30,6 +30,11 @@
     <trd>&c_v;&c_y;&c_s;&c_ja;&c_k;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">esculpir</trd>
+  <trdgrp lng="cs">
+    <trd>tesat</trd>,
+    <trd>vytesat</trd>,
+    <trd>vyřezat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>schnitzen</trd>,
     <trd>ausschnitzen</trd>,
@@ -56,6 +61,10 @@
     <trd>&c_v;&c_a;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_l;&c_je;&c_p;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_s;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vytvárať sochu</trd>,
+    <trd>zhotovovať</trd>
   </trdgrp>
 </drv>
 
@@ -96,6 +105,7 @@
       <ref cel="modl.0i">modli</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">dláto sochařské</trd>
   <trd lng="de">Mei&szlig;el des Bildhauers</trd>
   <trd lng="es">cincel<klr tip="amb"> (para esculpir)</klr></trd>
   <trdgrp lng="hu">
@@ -108,6 +118,7 @@
     <trd>form&atilde;o</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_je;&c_z;&c_je;&c_c;</trd>
+  <trd lng="sk">dláto sochárske</trd>
 </drv>
 
 <drv mrk="skulpt.0isto">
@@ -120,14 +131,26 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>skulptor</trd>,
+    <trd>sochař</trd>,
+    <trd>řezbář</trd>
+  </trdgrp>
   <trd lng="es">escultor</trd>
   <trd lng="fr">sculpteur</trd>
   <trd lng="pl">rze&zacute;biarz</trd>
   <trd lng="pt">escultor</trd>
+  <trd lng="sk">sochár</trd>
 </drv>
 </art>
 <!--
 $Log: skulpt.xml,v $
+Revision 1.20  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/08/24 06:10:14  revo
 Sebastian Cyprych: +trd pl
 

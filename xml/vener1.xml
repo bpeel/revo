@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: vener1.xml,v 1.3 2012/07/16 10:10:15 revo Exp $">
+  <art mrk="$Id: vener1.xml,v 1.6 2015/07/04 08:37:45 revo Exp $">
     <kap>
       <rad>Vener</rad>/o<fnt>Z</fnt>
     </kap>
@@ -27,28 +27,41 @@
         </dif>
         <trd lng="hu">Venus</trd>
       </snc>
-      <trd lng="be">&c_V;&c_e;&c_n;&c_e;&c_r;&c_a;</trd>
-      <trd lng="bg">&c_V;&c_je;&c_n;&c_je;&c_r;&c_a;</trd>
-      <trd lng="ca">Venus</trd>
-      <trd lng="de">Venus</trd>
-      <trd lng="el">&Alfa;&phi;&rho;&omikron;&delta;&jota_ton;&tau;&eta;</trd>
-      <trd lng="en">Venus</trd>
-      <trd lng="es">Venus</trd>
-      <trd lng="fr">V&eacute;nus</trd>
-      <trd lng="it">Venere</trd>
-      <trd lng="la">Venus</trd>
-      <trdgrp lng="pl">
+  <trd lng="be">&c_V;&c_e;&c_n;&c_e;&c_r;&c_a;</trd>
+  <trd lng="bg">&c_V;&c_je;&c_n;&c_je;&c_r;&c_a;</trd>
+  <trd lng="ca">Venus</trd>
+  <trd lng="cs">Venuše</trd>
+  <trd lng="de">Venus</trd>
+  <trd lng="el">&Alfa;&phi;&rho;&omikron;&delta;&jota_ton;&tau;&eta;</trd>
+  <trd lng="en">Venus</trd>
+  <trd lng="es">Venus</trd>
+  <trd lng="fr">V&eacute;nus</trd>
+  <trd lng="it">Venere</trd>
+  <trd lng="la">Venus</trd>
+  <trd lng="nl">Venus</trd>
+  <trd lng="no">Venus</trd>
+  <trdgrp lng="pl">
         <trd>Wenera</trd>,
         <trd>Wenus</trd>
       </trdgrp>
-      <trd lng="pt">V&ecirc;nus</trd>
-      <trd lng="ru">&c_V;&c_je;&c_n;&c_je;&c_r;&c_a;</trd>
-    </drv>
+  <trd lng="pt">V&ecirc;nus</trd>
+  <trd lng="ru">&c_V;&c_je;&c_n;&c_je;&c_r;&c_a;</trd>
+  <trd lng="sk">Venuša</trd>
+</drv>
 
   </art>
 
 <!--
 $Log: vener1.xml,v $
+Revision 1.6  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2014/12/28 15:10:28  revo
+Filip van Laenen: +trd(nl,no)
+
 Revision 1.3  2012/07/16 10:10:15  revo
 Marc Rausell: + trd ca
 

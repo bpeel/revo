@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: monopo.xml,v 1.18 2010/08/03 16:31:51 revo Exp $">
+<art mrk="$Id: monopo.xml,v 1.20 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>monopol</rad>/o
@@ -64,9 +64,11 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_p;&c_o;&c_l;&c_ib;&c_ja;</trd>
+  <trd lng="cs">monopol</trd>
   <trd lng="de">Monopol</trd>
   <trd lng="nl">monopool</trd>
   <trd lng="ru">&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_i;&c_ja;</trd>
+  <trd lng="sk">monopol</trd>
   <trd lng="sv">monopol</trd>
   <trd lng="tr">tekel</trd>
 </drv>
@@ -129,10 +131,15 @@
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_p;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>monopolizovat</trd>,
+    <trd>zmonopolizovat</trd>
+  </trdgrp>
   <trd lng="de">monopolisieren</trd>
   <trd lng="en">monopolize</trd>
   <trd lng="nl">monopoliseren</trd>
   <trd lng="ru">&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">monopolizovať</trd>
 </drv>
 
 <drv mrk="monopo.0profitoj">
@@ -185,9 +192,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_ib;&c_m;&c_p;&c_a;&c_r;&c_t;&c_n;&c_a;&c_ja; <ind>&c_m;&c_a;&c_n;&c_a;&c_p;&c_o;&c_l;&c_ib;&c_ja;</ind></trd>
+  <trd lng="cs">dovozní monopol</trd>
   <trd lng="de">Importmonopol</trd>
   <trd lng="en">import monopoly</trd>
   <trd lng="ru">&c_i;&c_m;&c_p;&c_o;&c_r;&c_t;&c_n;&c_a;&c_ja; <ind>&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_i;&c_ja;</ind></trd>
+  <trd lng="sk">dovozný monopol</trd>
 </drv>
 
 <drv mrk="monopo.sxtata0o">
@@ -208,6 +217,12 @@
 </art>
 <!--
 $Log: monopo.xml,v $
+Revision 1.20  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2010/08/03 16:31:51  revo
 Russ Williams: +trd en
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kirurg.xml,v 1.11 2009/03/15 17:30:54 revo Exp $">
+<art mrk="$Id: kirurg.xml,v 1.13 2015/07/04 08:37:37 revo Exp $">
 <kap>
    <ofc>8</ofc>
    <rad>kirurg</rad>/o
@@ -20,20 +20,31 @@
        <bib>Monato</bib><lok>jaro 2001a, numero 11a, p. 21a</lok></fnt>.
      </ekz>
    </snc>
-   <trd lng="be">&c_h;&c_ib;&c_r;&c_u;&c_r;&c_g;</trd>
-   <trd lng="bg">&c_h;&c_i;&c_r;&c_u;&c_r;&c_g;</trd>
-   <trd lng="de">Chirurg</trd>
-   <trd lng="fi">kirurgi</trd>
-   <trd lng="fr">chirurgien</trd>
-   <trd lng="hu">seb&eacute;sz</trd>
-   <trd lng="nl">chirurg</trd>
-   <trd lng="pt">cirurgi&atilde;o</trd>
-   <trd lng="ru">&c_h;&c_i;&c_r;&c_u;&c_r;&c_g;</trd>
-   <trd lng="sv">kirurg</trd>
+  <trd lng="be">&c_h;&c_ib;&c_r;&c_u;&c_r;&c_g;</trd>
+  <trd lng="bg">&c_h;&c_i;&c_r;&c_u;&c_r;&c_g;</trd>
+  <trdgrp lng="cs">
+    <trd>chirurg</trd>,
+    <trd>operatér</trd>
+  </trdgrp>
+  <trd lng="de">Chirurg</trd>
+  <trd lng="fi">kirurgi</trd>
+  <trd lng="fr">chirurgien</trd>
+  <trd lng="hu">seb&eacute;sz</trd>
+  <trd lng="nl">chirurg</trd>
+  <trd lng="pt">cirurgi&atilde;o</trd>
+  <trd lng="ru">&c_h;&c_i;&c_r;&c_u;&c_r;&c_g;</trd>
+  <trd lng="sk">chirurg</trd>
+  <trd lng="sv">kirurg</trd>
 </drv>
 </art>
 <!--
 $Log: kirurg.xml,v $
+Revision 1.13  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2009/03/15 17:30:54  revo
 Wieland Pusch: +trd bg
 

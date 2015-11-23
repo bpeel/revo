@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: moru.xml,v 1.14 2013/10/07 15:10:26 revo Exp $">
+<art mrk="$Id: moru.xml,v 1.16 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>moru</rad>/o
@@ -25,6 +25,7 @@
   </snc>
   <trd lng="be">&c_t;&c_r;&c_a;&c_s;&c_k;&c_a;</trd>
   <trd lng="bg">&c_t;&c_r;&c_je;&c_s;&c_k;&c_a;</trd>
+  <trd lng="cs">treska obecná</trd>
   <trdgrp lng="de">
     <trd>Kabeljau <klr>(plenkreska, nordamara)</klr></trd>,
     <trd>Dorsch <klr>(juna, baltamara)</klr></trd>
@@ -39,13 +40,20 @@
   <trd lng="it">merluzzo</trd>
   <trd lng="nl">kabeljauw</trd>
   <trd lng="pl">dorsz</trd>
-  <trd lng="ru">&c_t;&c_r;&c_je;&c_s;&c_k;&c_a;</trd>
   <trd lng="pt">bacalhau</trd>
+  <trd lng="ru">&c_t;&c_r;&c_je;&c_s;&c_k;&c_a;</trd>
+  <trd lng="sk">treska</trd>
   <trd lng="sv">torsk</trd>
 </drv>
 </art>
 <!--
 $Log: moru.xml,v $
+Revision 1.16  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2013/10/07 15:10:26  revo
 Wolfram Diestel: ref al lst fishoj, prilaboris dif
 

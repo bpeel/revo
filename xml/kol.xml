@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kol.xml,v 1.40 2014/05/30 15:11:04 revo Exp $">
+  <art mrk="$Id: kol.xml,v 1.43 2015/07/04 08:37:37 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>kol</rad>/o <fnt><bib>PV</bib></fnt>
@@ -89,14 +89,21 @@
           <trd>&c_sh;&c_je;&c_j;&c_k;&c_a; <klr>(&c_b;&c_je;&c_d;&c_r;&c_a; &c_i; &c_t;.&c_p;.)</klr></trd>
         </trdgrp>
       </snc>
-      <trd lng="cs">krk</trd>
-      <trd lng="en">neck</trd>
-      <trd lng="es">cuello</trd>
-      <trd lng="he">&tsadi;&vav;&vav;&alef;&resh;</trd>
-      <trd lng="hu">nyak</trd>
-      <trd lng="id">leher</trd>
-      <trd lng="sv">hals</trd>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>hrdlo</trd>,
+    <trd>krk</trd>
+  </trdgrp>
+  <trd lng="en">neck</trd>
+  <trd lng="es">cuello</trd>
+  <trd lng="he">&tsadi;&vav;&vav;&alef;&resh;</trd>
+  <trd lng="hu">nyak</trd>
+  <trd lng="id">leher</trd>
+  <trdgrp lng="sk">
+    <trd>hrdlo</trd>,
+    <trd>krk</trd>
+  </trdgrp>
+  <trd lng="sv">hals</trd>
+</drv>
 
     <drv mrk="kol.gxis0e">
       <kap>&gcirc;is<tld/>e</kap>
@@ -130,6 +137,7 @@
           </ekz>
         </dif>
         <trd lng="en">up to one's neck<klr> (in water etc)</klr></trd>
+        <trd lng="es">hasta el cuello</trd>
       </snc>
       <snc mrk="kol.gxis0e.FIG">
         <uzo tip="stl">FIG</uzo>
@@ -137,6 +145,7 @@
           Plene, abunde, tro multe:
           <ekz>
             <ind>&gcirc;is<tld/>e mi satas</ind> pri viaj ruza&jcirc;oj
+            <trd lng="es">estoy harto</trd>
             <trd lng="ru">&c_s;&c_y;&c_t; &c_p;&c_o; &c_g;&c_o;&c_r;&c_l;&c_o;</trd>
             <fnt>
               <aut>K. &Ccaron;apek, tr. J. Vondrou&scaron;ek</aut>:
@@ -146,6 +155,7 @@
             </fnt>;
           </ekz><ekz>
             <ind>&gcirc;is<tld/>e armita</ind>.
+            <trd lng="es">armado hasta el cuello</trd>
             <trd lng="nl">tot de <ind>tand</ind>en gewapend</trd>
             <trd lng="ru">&c_v;&c_o;&c_o;&c_r;&c_u;&c_zh;&c_jo;&c_n; &c_d;&c_o; &c_z;&c_u;&c_b;&c_o;&c_v;</trd>
           </ekz>
@@ -153,6 +163,11 @@
         <trdgrp lng="en">
           <trd>more than enough</trd>,
           <trd>enough and to spare</trd>
+        </trdgrp>
+        <trdgrp lng="es">
+          <trd>hasta arriba</trd>,
+          <trd>m&aacute;s que suficiente</trd>,
+          <trd>hasta el mo&ntilde;o</trd>
         </trdgrp>
       </snc>
       <trd lng="ru">&c_p;&c_o; &c_g;&c_o;&c_r;&c_l;&c_o;</trd>
@@ -173,24 +188,27 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="bg">&c_ja;&c_k;&c_a;</trd>
-      <trd lng="de">Kragen</trd>
-      <trd lng="en">collar</trd>
-      <trd lng="fr">col<klr tip="ind"> (d'un v&ecirc;tement)</klr></trd>
-      <trd lng="he">&tsadi;&vav;&vav;&alef;&resh;&vav;&fnun;</trd>
-      <trd lng="hu">gall&eacute;r</trd>
-      <trd lng="id">kerah</trd>
-      <trdgrp lng="nl">
+  <trd lng="bg">&c_ja;&c_k;&c_a;</trd>
+  <trd lng="cs">límec</trd>
+  <trd lng="de">Kragen</trd>
+  <trd lng="en">collar</trd>
+  <trd lng="es">cuello <klr>de prenda de vestir</klr></trd>
+  <trd lng="fr">col<klr tip="ind"> (d'un v&ecirc;tement)</klr></trd>
+  <trd lng="he">&tsadi;&vav;&vav;&alef;&resh;&vav;&fnun;</trd>
+  <trd lng="hu">gall&eacute;r</trd>
+  <trd lng="id">kerah</trd>
+  <trdgrp lng="nl">
         <trd>boord<klr tip="ind"> (kraag)</klr></trd>,
         <trd>kraag</trd>
       </trdgrp>
-      <trd lng="pl">ko&lstroke;nierz</trd>
-      <trdgrp lng="ru">
+  <trd lng="pl">ko&lstroke;nierz</trd>
+  <trdgrp lng="ru">
         <trd>&c_v;&c_o;&c_r;&c_o;&c_t;</trd>,
         <trd>&c_v;&c_o;&c_r;&c_o;&c_t;&c_n;&c_i;&c_k;</trd>
       </trdgrp>
-      <trd lng="sv">krage</trd>
-    </drv>
+  <trd lng="sk">golier</trd>
+  <trd lng="sv">krage</trd>
+</drv>
 
     <drv mrk="kol.blank0umulo">
       <kap>blank<tld/>umulo,
@@ -304,6 +322,7 @@
         <trd lng="nl">halsketting</trd>
         <trd lng="ru">&c_o;&c_zh;&c_je;&c_r;&c_je;&c_l;&c_mol;&c_je;</trd>
       </snc>
+      <trd lng="es">collar</trd>
       <trd lng="de">Halsband</trd>
       <trd lng="sv">halsband</trd>
     </drv>
@@ -317,28 +336,38 @@
           tero, komunikiganta najbarajn marojn kaj oceanojn.
         </dif>
       </snc>
-      <trdgrp lng="be">
+  <trdgrp lng="be">
         <trd>&c_p;&c_r;&c_a;&c_l;&c_ib;&c_w;</trd>,
         <trd>&c_p;&c_r;&c_a;&c_t;&c_o;&c_k;&c_a;</trd>
       </trdgrp>
-      <trdgrp lng="en">
-        <trd>strait</trd>
-      </trdgrp>
-      <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>mořská úžina</trd>,
+    <trd>mořská šíje</trd>,
+    <trd>mořský průliv</trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>Meerenge</trd>,
         <trd>Meeresstra&szlig;e</trd>,
         <trd>Sund</trd>
       </trdgrp>
-      <trd lng="fr">d&eacute;troit<klr tip="ind"> (g&eacute;og.)</klr></trd>
-      <trd lng="hu">tengerszoros</trd>
-      <trdgrp lng="nl">
+  <trdgrp lng="en">
+        <trd>strait</trd>
+      </trdgrp>
+  <trd lng="es">estrecho <klr>(geograf&iacute;a)</klr></trd>
+  <trd lng="fr">d&eacute;troit<klr tip="ind"> (g&eacute;og.)</klr></trd>
+  <trd lng="hu">tengerszoros</trd>
+  <trdgrp lng="nl">
         <trd>zeestraat</trd>,
         <trd>straat<klr tip="ind"> (zeestraat)</klr></trd>
       </trdgrp>
-      <trd lng="pl">cie&sacute;nina</trd>
-      <trd lng="ru">&c_p;&c_r;&c_o;&c_l;&c_i;&c_v;</trd>
-      <trd lng="sv">sund<klr tip="ind"> (geog.)</klr></trd>
-    </drv>
+  <trd lng="pl">cie&sacute;nina</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_l;&c_i;&c_v;</trd>
+  <trdgrp lng="sk">
+    <trd>morská úžina</trd>,
+    <trd>morský prieplav</trd>
+  </trdgrp>
+  <trd lng="sv">sund<klr tip="ind"> (geog.)</klr></trd>
+</drv>
 
     <drv mrk="kol.mont0o">
       <kap>mont<tld/>o</kap>
@@ -402,7 +431,9 @@
       <trd lng="nl">landengte</trd>
       <trd lng="pl">przesmyk</trd>
       <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_sh;&c_je;&c_je;&c_k;</trd>
-    </drv>
+      <trd lng="sk">zemská úžina</trd>
+  <trd lng="cs">zemská šíje</trd>
+</drv>
 
     <drv mrk="kol.BeringaMar0o">
       <kap>Beringa Mar<tld/>o</kap>
@@ -431,6 +462,15 @@
   </art>
   <!--
   $Log: kol.xml,v $
+  Revision 1.43  2015/07/04 08:37:37  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.42  2015/06/29 16:33:17  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.41  2015/04/23 18:10:17  revo
+  Carlos Garcia: +trd es gxis~e ~umo cxirkaux~o mar~o gxis~e mi satas gxis~e armita
+
   Revision 1.40  2014/05/30 15:11:04  revo
   Eko Nur Syah Hidayat: +id
 

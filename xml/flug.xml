@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flug.xml,v 1.39 2014/08/22 08:10:13 revo Exp $">
+<art mrk="$Id: flug.xml,v 1.42 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>flug</rad>/i <fnt><bib>PV</bib></fnt>
@@ -131,7 +131,11 @@
     <trd>&c_l;&c_ja;&c_t;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_l;&c_jo;&c_t;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="cs">let&ecaron;t</trd>
+  <trdgrp lng="cs">
+    <trd>let&ecaron;t</trd>,
+    <trd>letět</trd>,
+    <trd>létat</trd>
+  </trdgrp>
   <trd lng="de">fliegen</trd>
   <trd lng="en">fly</trd>
   <trd lng="es">volar</trd>
@@ -146,6 +150,10 @@
   <trdgrp lng="ru">
     <trd>&c_l;&c_je;&c_t;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_l;&c_je;&c_t;&c_je;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>letieť</trd>,
+    <trd>lietať</trd>
   </trdgrp>
 </drv>
 
@@ -170,6 +178,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_l;&c_jo;&c_t;</trd>
+  <trd lng="cs">let</trd>
   <trd lng="de">Flug</trd>
   <trd lng="en">flight</trd>
   <trd lng="es">vuelo</trd>
@@ -179,6 +188,7 @@
   <trd lng="nl">vlucht</trd>
   <trd lng="pl">lot</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_jo;&c_t;</trd>
+  <trd lng="sk">let</trd>
 </drv>
 
 <drv mrk="flug.0ilo">
@@ -274,6 +284,7 @@
     </adm>
   </snc>
   <trd lng="be">&c_k;&c_r;&c_y;&c_l;&c_o;</trd>
+  <trd lng="cs">křídlo <klr>(ptáka)</klr></trd>
   <trd lng="de">Fl&uuml;gel</trd>
   <trd lng="en">wing</trd>
   <trdgrp lng="es">
@@ -289,6 +300,10 @@
   <trd lng="nl">vleugel</trd>
   <trd lng="pl">skrzyd&lstroke;o</trd>
   <trd lng="ru">&c_k;&c_r;&c_y;&c_l;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>letka</trd>,
+    <trd>peruť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flug.0ila">
@@ -299,18 +314,27 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_r;&c_y;&c_l;&c_a;&c_t;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>křídlový</trd>,
+    <trd>letecký</trd>,
+    <trd>okřídlený</trd>
+  </trdgrp>
   <trd lng="de">gefl&uuml;gelt</trd>
   <trd lng="en">winged</trd>
   <trd lng="es">alado</trd>
   <trd lng="fr">ail&eacute;</trd>
+  <trd lng="hu">sz&aacute;rnyas</trd>
   <trd lng="id">[<ind>sayap</ind>] bersayap</trd>
   <trd lng="nl">gevleugeld</trd>
-  <trd lng="hu">sz&aacute;rnyas</trd>
   <trdgrp lng="pl">
     <trd>skrzydlaty</trd>,
     <trd>uskrzydlony</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_r;&c_y;&c_l;&c_a;&c_t;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>krídlový</trd>,
+    <trd>okrídlený</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flug.cxirkaux0i">
@@ -360,13 +384,10 @@
         &ccirc;irka&ubreve;<tld/>as &ccirc;irka&ubreve; &ccirc;ies kap'
         <fnt>
         <aut>K. Pi&ccirc;</aut>
-        <vrk>Fremdaj landoj</vrk>
-        <lok><url ref=
-"http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr45/fremdaj.
-html">
-http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr45/fremdaj.h
-tml
-        </url></lok>
+        <vrk><url
+        ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr45/fremdaj.html">
+        Fremdaj landoj</url></vrk>
+        <lok>Nica Literatura Revuo, 1959-04 &gcirc;is 05, p. 184a-188a</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -438,6 +459,10 @@ tml
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_l;&c_ja;&c_t;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>letět dolů</trd>,
+    <trd>slétnout dolů</trd>
+  </trdgrp>
   <trd lng="es"><ind>alejar</ind>se (volando)</trd>
   <trdgrp lng="fr">
     <trd>s'<ind>&eacute;loigner</ind><klr tip="ind"> (en volant)</klr>
@@ -455,6 +480,7 @@ tml
     <trd>&c_s;&c_l;&c_je;&c_t;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_l;&c_je;&c_t;&c_je;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">letieť dolu</trd>
 </drv>
 
 <drv mrk="flug.for0i">
@@ -497,11 +523,45 @@ tml
     <trd lng="ru">
     &c_u;&c_l;&c_je;&c_t;&c_u;&c_ch;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>uletět</trd>,
+    <trd>ulétnout</trd>
+  </trdgrp>
   <trd lng="de">wegfliegen</trd>
   <trdgrp lng="fr">
     <trd>s'<ind>envoler</ind><klr tip="ind">
     (au loin, dispara&icirc;tre)</klr></trd>,
     <trd>dispara&icirc;tre</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odletieť</trd>,
+    <trd>uletieť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="flug.for0ema">
+  <kap>for<tld/>ema</kap>
+  <snc mrk="flug.for0ema.KOMUNE">
+    <dif>
+      Kiu facile for<tld/>as, facile &scirc;an&gcirc;as sian lokon, sian
+      inklinon;
+      <ref tip="vid" cel="konsta.mal0a.KOMUNE">malkonstanta</ref>,
+      <ref tip="vid" cel="pas.0ema.KOMUNE">pasema</ref>:
+      <ekz>
+        for<tld/>emaj iluzioj
+        <fnt>
+          <aut>R. Artigues</aut>,
+          <vrk><url
+          ref="http://eo.wikisource.org/wiki/La%C5%ADroj/La_filino_de_la_feinoj">
+          La filino de la feinoj</url></vrk>,
+          <lok>[1908]</lok>
+        </fnt>.
+      </ekz>                 
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>&eacute;vanescent</trd>,
+    <trd>volatil</trd>
   </trdgrp>
 </drv>
 
@@ -523,6 +583,7 @@ tml
     <trd>&c_v;&c_y;&c_s;&c_a;&c_k;&c_a;&c_m;&c_o;&c_w;&c_n;&c_y;</trd>,
     <trd>&c_n;&c_a;&c_p;&c_y;&c_sh;&c_l;&c_ib;&c_v;&c_y;</trd>
   </trdgrp>
+  <trd lng="cs">vzletný</trd>
   <trd lng="de">hochfliegend</trd>
   <trdgrp lng="es">
     <trd>idealista</trd>,
@@ -533,6 +594,7 @@ tml
   <trd lng="pl">g&oacute;rnolotny</trd>
   <trd lng="ru">
   &c_v;&c_y;&c_s;&c_o;&c_k;&c_o;&c_p;&c_a;&c_r;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">vzletný</trd>
 </drv>
 
 <drv mrk="flug.birdo0e">
@@ -616,6 +678,7 @@ tml
     <ref tip="dif" cel="sxveb.0i">&scirc;vebi.</ref>
   </snc>
   <trd lng="be">&c_l;&c_u;&c_n;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">klouzat vzduchem <klr>(kluzák)</klr></trd>
   <trdgrp lng="es">
     <trd>planear</trd>,
     <trd>pender<klr tip="ind"> (en el aire)</klr></trd>
@@ -631,10 +694,20 @@ tml
     <trd>szybowa&cacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">kĺzať vzduchom</trd>
 </drv>
 </art>
 <!--
 $Log: flug.xml,v $
+Revision 1.42  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.41  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.40  2015/01/27 00:10:12  revo
+Jeromo Vasxe: + for~ema
+
 Revision 1.39  2014/08/22 08:10:13  revo
 Guillermo Molleda Jimena: trd es
 
@@ -654,8 +727,5 @@ Revision 1.34  2012/10/23 00:12:36  revo
 Neil Roberts: aldonu la etikedon <var>
 
 Revision 1.33  2011/03/23 08:10:11  revo
-Larry Gilbert: +trd en
-
-Revision 1.32  2011/03/12 21:10:09  revo
 -->
 </vortaro>

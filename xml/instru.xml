@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: instru.xml,v 1.38 2014/08/25 11:10:10 revo Exp $">
+<art mrk="$Id: instru.xml,v 1.40 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>instru</rad>/i <fnt><bib>PV</bib></fnt>
@@ -89,7 +89,12 @@
     <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="bg">&c_p;&c_r;&c_je;&c_p;&c_o;&c_d;&c_a;&c_v;&c_a;&c_m;</trd>
-  <trd lng="cs">vyu&ccaron;ovat</trd>
+  <trdgrp lng="cs">
+    <trd>instruovat</trd>,
+    <trd>poučovat</trd>,
+    <trd>učit</trd>,
+    <trd>vyu&ccaron;ovat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>lehren</trd>,
     <trd>unterrichten</trd>
@@ -135,6 +140,12 @@
       &c_p;&c_r;&c_je;&c_p;&c_o;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol;
     </trd>,
     <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ponaučiť</trd>,
+    <trd>učiť</trd>,
+    <trd>vyučovať</trd>,
+    <trd>školiť</trd>
   </trdgrp>
   <trd lng="vo">tid&ouml;n</trd>
 </drv>
@@ -222,6 +233,15 @@
       <trd>&c_o;&c_b;&c_u;&c_ch;&c_a;&c_ju;&c_shch;&c_i;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>instruktivní</trd>,
+    <trd>poučný</trd>,
+    <trd>vyučovací</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>poučný</trd>,
+    <trd>vyučovací</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="instru.0o">
@@ -296,17 +316,23 @@
       <trd>um <ind>ensinamento</ind></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>instrukce</trd>,
+    <trd>instruktáž</trd>,
+    <trd>instruování</trd>,
+    <trd>poučení</trd>,
+    <trd>učení</trd>,
+    <trd>vyučování</trd>
+  </trdgrp>
   <trd lng="ru">&c_u;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>inštrukcia</trd>,
+    <trd>náuka</trd>,
+    <trd>ponaučenie</trd>,
+    <trd>učenie</trd>,
+    <trd>vyučovanie</trd>
+  </trdgrp>
   <trd lng="vo">tidam</trd>
-  <adm>
-    Indus reverki &ccirc;i tiun deriva&jcirc;on la&ubreve; PIV, kiu konservas
-    nur la sencon "instru(it/at)a&jcirc;(ar)o". Efektive la ekzemploj
-    por la senco "instruado" tute ne konvinkas,
-    ke ili ne povas esti interpretataj per "instrua&jcirc;o". Cetere,
-    cxar "instrua&jcirc;o" estas tre malofta, oni prefere difinu &gcirc;in
-    referencante al "instruo".
-    <aut>MB</aut>
-  </adm>
 </drv>
 
 <drv mrk="instru.0ado">
@@ -336,6 +362,14 @@
       &c_v;&c_y;&c_k;&c_l;&c_a;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;
     </trd>,
     <trd>&c_a;&c_d;&c_u;&c_k;&c_a;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>instruování</trd>,
+    <trd>poučování</trd>,
+    <trd>učení</trd>,
+    <trd>vyučování</trd>,
+    <trd>výuka</trd>,
+    <trd>školení</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Lehre</trd>,
@@ -383,6 +417,11 @@
     <trd>
       &c_p;&c_r;&c_je;&c_p;&c_o;&c_d;&c_a;&c_v;&c_a;&c_n;&c_i;&c_je;
     </trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vyučovanie</trd>,
+    <trd>výučba</trd>,
+    <trd>školenie</trd>
   </trdgrp>
   <trd lng="vo">tid&uuml;p</trd>
 </drv>
@@ -446,6 +485,7 @@
     <uzo tip="fak">PED</uzo>
     <ref cel="lern.0ejo" tip="dif">lernejo</ref>
   </snc>
+  <trd lng="cs">učebna</trd>
   <trdgrp lng="de">
     <trd>Schule</trd>,
     <trd>Unterrichtsraum</trd>,
@@ -473,6 +513,7 @@
   </trdgrp>
   <trd lng="pt">escola</trd>
   <trd lng="ru">&c_u;&c_ch;&c_je;&c_b;&c_n;&c_o;&c_je; &c_z;&c_a;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">učebňa</trd>
 </drv>
 
 <drv mrk="instru.0igxi">
@@ -548,17 +589,17 @@
     <trd>&c_v;&c_y;&c_k;&c_l;&c_a;&c_d;&c_ch;&c_y;&c_k;</trd>
   </trdgrp>
   <trd lng="bg">&c_u;&c_ch;&c_i;&c_t;&c_je;&c_l;</trd>
+  <trd lng="cs">vyučující</trd>
   <trdgrp lng="de">
+    <trd>Lehrer</trd>,
+    <trd>Lehrerin</trd>
+  </trdgrp><trdgrp lng="de">
     <trd>Lehrer</trd>,
     <trd>Lehrerin</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>teacher</trd>,
     <trd>instructor</trd>
-  </trdgrp>
-  <trdgrp lng="de">
-    <trd>Lehrer</trd>,
-    <trd>Lehrerin</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>profesor</trd>,
@@ -597,6 +638,7 @@
     </trd>,
     <trd>&c_u;&c_ch;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">vyučujúci</trd>
   <trd lng="vo">tidel</trd>
 </drv>
 
@@ -615,6 +657,10 @@
     <trd>
       &c_a;&c_d;&c_u;&c_k;&c_a;&c_v;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;
     </trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>učenost</trd>,
+    <trd>vzdělanost</trd>
   </trdgrp>
   <trd lng="de">Gelehrtheit</trd>
   <trdgrp lng="es">
@@ -645,6 +691,10 @@
     <trd>&c_u;&c_ch;&c_jo;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vzdelanie</trd>,
+    <trd>vzdelanosť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="instru.0itulo">
@@ -654,6 +704,7 @@
   </snc>
   <trd lng="be">&c_a;&c_d;&c_u;&c_k;&c_a;&c_v;&c_a;&c_n;&c_y;
     &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>
+  <trd lng="cs">vědec</trd>
   <trd lng="de">Gelehrter</trd>
   <trdgrp lng="es">
     <trd>erudito</trd>,
@@ -680,6 +731,7 @@
     <trd>homem <ind>instru&iacute;do</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j; &c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k;</trd>
+  <trd lng="sk">vedec</trd>
 </drv>
 
 <drv mrk="instru.mal0i">
@@ -762,6 +814,7 @@
     <trd>&c_s;&c_a;&c_m;&c_a;&c_v;&c_u;&c_k;</trd>,
     <trd>&c_s;&c_a;&c_m;&c_a;&c_v;&c_u;&c_ch;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="cs">samouk</trd>
   <trd lng="de">Autodidakt</trd>
   <trd lng="en">self-taught</trd>
   <trd lng="es">autodidacta</trd>
@@ -774,6 +827,7 @@
   <trd lng="pl">samouk</trd>
   <trd lng="pt">autodidata</trd>
   <trd lng="ru">&c_s;&c_a;&c_m;&c_o;&c_u;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="sk">samouk</trd>
 </drv>
 
 <drv mrk="instru.moral0o">
@@ -783,6 +837,10 @@
       <tld lit="I"/>o pri la moralaj devoj, pri la konduto.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>poučení o morálce</trd>,
+    <trd>školení o morálce</trd>
+  </trdgrp>
   <trd lng="de">Moralpredigt</trd>
   <trdgrp lng="es">
     <trd>lecci&oacute;n moral</trd>,
@@ -807,6 +865,7 @@
     <trd>&c_m;&c_o;&c_r;&c_a;&c_l;&c_mol;<klr tip="amb">
         (&c_b;&c_a;&c_s;&c_n;&c_i; &c_i; &c_t;.&c_p;.)</klr></trd>
   </trdgrp>
+  <trd lng="sk">poučenie o morálke</trd>
 </drv>
 
 <drv mrk="instru.0plena">
@@ -829,6 +888,12 @@
 </art>
 <!--
 $Log: instru.xml,v $
+Revision 1.40  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.38  2014/08/25 11:10:10  revo
 Guillermo Molleda Jimena: trd es
 

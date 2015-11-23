@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: karakt2.xml,v 1.10 2004/03/09 17:32:47 revo Exp $">
+<art mrk="$Id: karakt2.xml,v 1.12 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <rad>karakteristik</rad>/o
 </kap>
@@ -42,15 +42,23 @@
     <trd lng="pl">charakterystyka<klr tip="ind"> (pier&sacute;cienia)</klr></trd>
   </snc>
   <trd lng="be">&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_a;&c_r;&c_y;&c_s;&c_t;&c_y;&c_k;&c_a;</trd>
+  <trd lng="cs">charakteristika</trd>
   <trd lng="de">Charakteristik</trd>
   <trd lng="en">characteristic<klr tip="ind"> (of a logarithm, of a ring)</klr></trd>
   <trd lng="fr">caract&eacute;ristique<klr tip="ind"> (d'un logarithme, d'un anneau)</klr></trd>
   <trd lng="hu">karakterisztika</trd>
   <trd lng="ru">&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_je;&c_r;&c_i;&c_s;&c_t;&c_i;&c_k;&c_a;<klr tip="ind"> (&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_f;&c_m;&c_a;, &c_k;&c_o;&c_l;&c_mol;&c_c;&c_a;)</klr></trd>
+  <trd lng="sk">charakteristika</trd>
 </drv>
 </art>
 <!--
 $Log: karakt2.xml,v $
+Revision 1.12  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2004/03/09 17:32:47  revo
 Jozefo Horvath: +trd hu
 

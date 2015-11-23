@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: prus.xml,v 1.15 2014/03/28 08:10:43 revo Exp $">
+  <art mrk="$Id: prus.xml,v 1.17 2015/07/04 08:37:42 revo Exp $">
     <kap><rad>prus</rad>/o</kap>
 
     <drv mrk="prus.0o">
@@ -107,12 +107,14 @@
           <trd>&c_p;&c_r;&c_u;&c_s;&c_s;&c_k;&c_i;&c_j;</trd>
         </trdgrp>
       </snc>
-      <trd lng="de">preu&szlig;isch</trd>
-      <trd lng="en">Prussian</trd>
-      <trd lng="fr">prussien<klr> (adj.)</klr></trd>
-      <trd lng="hu">porosz</trd>
-      <trd lng="nl">Pruisisch</trd>
-    </drv>
+  <trd lng="cs">pruský</trd>
+  <trd lng="de">preu&szlig;isch</trd>
+  <trd lng="en">Prussian</trd>
+  <trd lng="fr">prussien<klr> (adj.)</klr></trd>
+  <trd lng="hu">porosz</trd>
+  <trd lng="nl">Pruisisch</trd>
+  <trd lng="sk">pruský</trd>
+</drv>
 
     <drv mrk="prus.P0ujo">
       <kap><tld lit="P"/>ujo</kap>
@@ -179,6 +181,12 @@
   </art>
   <!--
   $Log: prus.xml,v $
+  Revision 1.17  2015/07/04 08:37:42  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.16  2015/06/29 16:40:19  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.15  2014/03/28 08:10:43  revo
   Damien Brucker: +trd fr
 

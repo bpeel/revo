@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bo.xml,v 1.12 2014/02/05 21:10:14 revo Exp $">
+<art mrk="$Id: bo.xml,v 1.14 2015/10/26 15:10:15 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>bo</rad>-</kap>
@@ -21,6 +21,21 @@
       </ekz>  
     </dif>
   </snc>
+      <rim>
+        &Ccirc;e kombino de <tld/>- kaj <ref cel="ge.0">ge-</ref> la
+        Fundamento metas la prefikson <tld/>- ekstere (unue):
+        <ekz>
+          <tld/>gepatroj
+          <fnt><bib>F</bib>, <lok>&FE;39.</lok></fnt>;
+        </ekz><ekz>
+          <tld/>gefratoj
+          <fnt><bib>F</bib>, <lok>&FE;36.</lok></fnt>.
+        </ekz>
+        Tiu ordo estas &gcirc;enerale preferata en Esperanto &mdash; kaj de la
+        bonaj a&ubreve;toroj, kaj de la publiko; &gcirc;in preskribas PIV1 (en la
+        artikolo <em>bo</em>). Tamen PIV2, malgra&ubreve; la uzado kaj la
+        Fundamento, ial preferas la inversan ordon.
+      </rim>
   <trd lng="ca">pol&iacute;tic<klr> (adj., dit dels parents sobrevinguts per
   matrimoni)</klr></trd>
   <trd lng="de">Schwieger-</trd>
@@ -30,11 +45,17 @@
     <trd>belle-</trd>
   </trdgrp>
   <trd lng="es">pol&iacute;tico<klr> (denota parentesco por
-  afinidad)</klr></trd>
+  matrimonio)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: bo.xml,v $
+Revision 1.14  2015/10/26 15:10:15  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.13  2015/04/17 05:10:14  revo
+Sergio Pokrovskij: rim
+
 Revision 1.12  2014/02/05 21:10:14  revo
 Damien Brucker: +trd fr
 
@@ -51,11 +72,5 @@ Revision 1.8  2002/10/22 20:50:11  revo
 forigis duoblan strekon en Log
 
 Revision 1.7  2002/10/22 16:32:44  revo
-Christopher Zervic: reindeksigo- ang
-
-Revision 1.6  2001/11/18 19:12:50  revo
-Karlo Freeman: +trd=en
-
-Revision 1.5  2000/03/29 16:07:35  revo
 -->
 </vortaro>

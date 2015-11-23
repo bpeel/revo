@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: artik.xml,v 1.39 2013/09/01 10:10:16 revo Exp $">
+<art mrk="$Id: artik.xml,v 1.42 2015/09/17 03:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>artik</rad>/o <fnt><bib>PV</bib></fnt>
@@ -34,6 +34,7 @@
       <trd>articolazione</trd>
     </trdgrp>
     <trd lng="pl">staw</trd>
+    <trd lng="pt">articula&ccedil;&atilde;o</trd>
     <trdgrp lng="ru">
       <trd>&c_s;&c_u;&c_s;&c_t;&c_a;&c_v;</trd>,
       <trd>&c_s;&c_o;&c_ch;&c_l;&c_je;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
@@ -62,6 +63,7 @@
     <trd>kenvell</trd>
   </trdgrp>
   <trd lng="ca">articulaci&oacute;</trd>
+  <trd lng="cs">kloub</trd>
   <trd lng="de">Gelenk</trd>
   <trdgrp lng="en">
     <trd>joint</trd>,
@@ -78,7 +80,12 @@
     <trd>&c_k;&c_o;&c_l;&c_je;&c_n;&c_o;</trd>,
     <trd>&c_s;&c_o;&c_ch;&c_l;&c_je;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
-  <trd lng="sk">k&lacute;b</trd>
+  <trdgrp lng="sk">
+    <trd>k&lacute;b</trd>,
+    <trd>k&lacute;b</trd>,
+    <trd>zhyb</trd>,
+    <trd>&ccaron;l&aacute;nok</trd>
+  </trdgrp>
   <trd lng="sv">led</trd>
 </drv>
 
@@ -124,8 +131,13 @@
     </trdgrp>
     <trd lng="ru">&c_a;&c_r;&c_t;&c_i;&c_k;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>skloubit</trd>,
+    <trd>spojit kloubem</trd>
+  </trdgrp>
   <trd lng="fr">articuler</trd>
   <trd lng="it">articolare</trd>
+  <trd lng="sk">spoji&tcaron; k&lacute;bom</trd>
 </drv>
 
 <drv mrk="artik.0uloj">
@@ -184,19 +196,25 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>vymknout</trd>,
+    <trd>vymykat</trd>,
+    <trd>vyvrtnout</trd>
+  </trdgrp>
   <trd lng="en">to dislocate <klr tip="amb">(a joint)</klr></trd>
   <trdgrp lng="fr">
     <trd>d&eacute;boiter<klr tip="amb"> (une articulation)</klr></trd>,
     <trd>d&eacute;mettre<klr tip="amb"> (une articulation)</klr></trd>,
     <trd>luxer</trd>
   </trdgrp>
-   <trdgrp lng="it">
+  <trdgrp lng="it">
      <trd>disarticolare</trd>,
      <trd>lussare</trd>
    </trdgrp>
   <trdgrp lng="pl">
     <trd>nastawia&cacute; ko&sacute;ci</trd><!--zwichn&aogonek;&cacute;-->
   </trdgrp>
+  <trd lng="sk">vyvrtn&uacute;&tcaron;</trd>
 </drv>
 
 <drv mrk="artik.el0igxi">
@@ -278,10 +296,20 @@
   (fon.)</klr></trd>
   <trd lng="pl">miejsce artykulacji</trd>
   <trd lng="ru">&c_m;&c_je;&c_s;&c_t;&c_o; &c_a;&c_r;&c_t;&c_i;&c_k;&c_u;&c_l;&c_ja;&c_c;&c_i;&c_i;</trd>
+  <trd lng="sk">artikula&ccaron;n&eacute; miesto v &uacute;stach</trd>
 </drv>
 </art>
 <!--
 $Log: artik.xml,v $
+Revision 1.42  2015/09/17 03:10:22  revo
+Evandro Avellar: +trd pt
+
+Revision 1.41  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.40  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.39  2013/09/01 10:10:16  revo
 Wolfram Diestel: krom~uloj: dif: ampleksas du ordojn anst. nur unu
 
@@ -295,14 +323,5 @@ Revision 1.36  2010/11/05 17:30:29  revo
 Antonio Codazzi: +trd it
 
 Revision 1.35  2010/09/05 16:30:28  revo
-Wieland Pusch: +trd bg
-
-Revision 1.34  2010/09/02 16:30:27  revo
-Jeromo Vasxe: - kramp + 1 trd fr
-
-Revision 1.33  2007/08/28 16:30:20  revo
-Sebastian Cyprych: +trd pl; ~pieduloj.ZOO +refredakto: +trd pl;
-~pieduloj.ZOO +refredakto: +trd pl; ~pieduloj.ZOO +refredakto: +trd pl;
-~pieduloj.ZOO +ref
 -->
 </vortaro>

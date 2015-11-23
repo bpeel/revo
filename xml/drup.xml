@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: drup.xml,v 1.12 2007/09/07 16:30:16 revo Exp $">
+<art mrk="$Id: drup.xml,v 1.14 2015/07/04 08:37:32 revo Exp $">
 <kap>
 <rad>drup</rad>/o
 </kap>
@@ -18,6 +18,10 @@
     </dif>
     <ref tip="sin" cel="kern.0ofrukto">kernofrukto</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>drupa</trd>,
+    <trd>peckovice</trd>
+  </trdgrp>
   <trd lng="de">Steinfrucht</trd>
   <trdgrp lng="en">
     <trd>drupe</trd>,
@@ -32,10 +36,17 @@
     <trd>&c_k;&c_o;&c_s;&c_t;&c_o;&c_ch;&c_k;&c_o;&c_v;&c_y;&c_j;
 &c_p;&c_l;&c_o;&c_d;</trd>
   </trdgrp>
+  <trd lng="sk">kôstkovité ovocie</trd>
 </drv>
 </art>
 <!--
 $Log: drup.xml,v $
+Revision 1.14  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2007/09/07 16:30:16  revo
 Tulio Flores: +tr pt
 

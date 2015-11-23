@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kegl.xml,v 1.17 2006/01/24 17:31:13 revo Exp $">
+<art mrk="$Id: kegl.xml,v 1.19 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kegl</rad>/o
@@ -21,6 +21,7 @@
   </snc>
   <trd lng="be">&c_k;&c_je;&c_g;&c_l;&c_ja;</trd>
   <trd lng="br">kilh</trd>
+  <trd lng="cs">kuželka</trd>
   <trd lng="de">Kegel</trd>
   <trdgrp lng="en">
     <trd>skittle</trd>,
@@ -32,6 +33,7 @@
   <trd lng="hu">tekeb&aacute;bu</trd>
   <trd lng="nl">kegel</trd>
   <trd lng="ru">&c_k;&c_je;&c_g;&c_l;&c_ja;</trd>
+  <trd lng="sk">kolok <klr>(v hre)</klr></trd>
   <trd lng="sv">k&auml;gla</trd>
 </drv>
 
@@ -59,6 +61,8 @@
   <trd lng="hu">tekej&aacute;t&eacute;k</trd>
   <trd lng="nl">kegelspel</trd>
   <trd lng="ru">&c_k;&c_je;&c_g;&c_l;&c_i; <klr>(&c_i;&c_g;&c_r;&c_a;)</klr></trd>
+  <trd lng="sk">kolkárske náradie</trd>
+  <trd lng="cs">kuželkářské nářadadí</trd>
 </drv>
 
 <drv mrk="kegl.0oludo">
@@ -80,12 +84,20 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">kuželky</trd>
   <trd lng="de">Kegelspiel</trd>
   <trd lng="fr">jeu de quilles</trd>
+  <trd lng="sk">kolky <klr>(hra)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: kegl.xml,v $
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2006/01/24 17:31:13  revo
 Jeromo Vasxe: + ~oludo, ~o + 1 ekz
 

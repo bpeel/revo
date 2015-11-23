@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: intenc.xml,v 1.19 2011/06/14 05:10:09 revo Exp $">
+<art mrk="$Id: intenc.xml,v 1.21 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>intenc</rad>/i
@@ -39,6 +39,10 @@
       <ref cel="vol.0i">voli</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>mít v úmyslu</trd>,
+    <trd>zamýšlet</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>beabsichtigen</trd>,
     <trd>intendieren</trd>
@@ -67,6 +71,11 @@
   </trdgrp>
   <trd
   lng="ru">&c_n;&c_a;&c_m;&c_je;&c_r;&c_je;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>hodlať</trd>,
+    <trd>mieniť</trd>,
+    <trd>zamýšľať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="intenc.0o">
@@ -102,6 +111,13 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>intence</trd>,
+    <trd>plán</trd>,
+    <trd>předsevzetí</trd>,
+    <trd>záměr</trd>,
+    <trd>úmysl</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Absicht</trd>,
     <trd>Intension</trd>
@@ -142,6 +158,11 @@
     <trd>&c_n;&c_a;&c_m;&c_je;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_z;&c_a;&c_m;&c_y;&c_s;&c_je;&c_l;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>predsavzatie</trd>,
+    <trd>zámer</trd>,
+    <trd>úmysel</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="intenc.0a">
@@ -170,6 +191,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>intencionální</trd>,
+    <trd>intenční</trd>,
+    <trd>záměrný</trd>,
+    <trd>úmyslný</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>beabsichtigt</trd>,
     <trd>absichtlich</trd>
@@ -195,6 +222,10 @@
     <trd>&c_p;&c_r;&c_je;&c_d;&c_n;&c_a;&c_m;&c_je;&c_r;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_u;&c_m;&c_y;&c_sh;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>schválny</trd>,
+    <trd>úmyselný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="intenc.bon0a">
@@ -207,6 +238,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">dobře míněný</trd>
   <trd lng="fr">bien <ind>intentionn&eacute;</ind></trd>
   <trd lng="hu">j&oacute; <ind>akarat&uacute;</ind></trd>
   <trdgrp lng="pl">
@@ -220,6 +252,11 @@
     <trd>&c_b;&c_l;&c_a;&c_g;&c_o;&c_n;&c_a;&c_m;&c_je;&c_r;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_s; <ind>&c_b;&c_l;&c_a;&c_g;&c_i;&c_m;&c_i;
     &c_n;&c_a;&c_m;&c_je;&c_r;&c_je;&c_n;&c_i;&c_ja;&c_m;&c_i;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dobrodušný</trd>,
+    <trd>dobromyseľný</trd>,
+    <trd>dobroprajný</trd>
   </trdgrp>
 </drv>
 
@@ -235,6 +272,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">dobrý úmysl</trd>
   <trdgrp lng="fr">
     <trd>bonne disposition</trd>,
     <trd>bonne intention</trd>,
@@ -257,6 +295,7 @@
     <trd>&c_zh;&c_je;&c_l;&c_a;&c_n;&c_i;&c_je;
     &c_p;&c_o;&c_m;&c_o;&c_ch;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">dobrý úmysel</trd>
 </drv>
 
 <drv mrk="intenc.kiel0e">
@@ -298,6 +337,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_l;&c_a;&c_m;&c_y;&c_s;&c_n;&c_y;</trd>
+  <trd lng="cs">mající špatné úmysly <klr>(adj.)</klr></trd>
   <trd lng="de">b&ouml;swillig</trd>
   <trdgrp lng="fr">
     <trd>mal <ind>intentionn&eacute;</ind></trd>,
@@ -313,6 +353,7 @@
   <trd lng="pt">mal <ind>intencionado</ind></trd>
   <trd
   lng="ru">&c_z;&c_l;&c_o;&c_n;&c_a;&c_m;&c_je;&c_r;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">zlomyseľný</trd>
 </drv>
 
 <drv mrk="intenc.malbon0o">
@@ -327,6 +368,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dolus</trd>,
+    <trd>zlý úmysl</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>d&eacute;sir de nuire</trd>,
     <trd>mauvaise intention</trd>
@@ -345,6 +390,7 @@
     &c_n;&c_a;&c_m;&c_je;&c_r;&c_je;&c_n;&c_i;&c_ja;</trd>,
     <trd>&c_z;&c_l;&c_o;&c_j; &c_u;&c_m;&c_y;&c_s;&c_je;&c_l;</trd>
   </trdgrp>
+  <trd lng="sk">zlý úmysel</trd>
 </drv>
 
 <drv mrk="intenc.sen0a">
@@ -403,6 +449,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>mimovolně</trd>,
+    <trd>nechtěně</trd>,
+    <trd>neúmyslně</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>involontairement</trd>,
     <trd>sans le vouloir</trd>
@@ -424,6 +475,10 @@
     <trd>&c_n;&c_je;&c_p;&c_r;&c_je;&c_d;&c_n;&c_a;&c_m;&c_je;&c_r;&c_je;&c_n;&c_n;&c_o;</trd>,
     <trd>&c_b;&c_je;&c_z;
     <ind>&c_u;&c_m;&c_y;&c_s;&c_l;&c_a;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nevdojak</trd>,
+    <trd>neúmyselne</trd>
   </trdgrp>
 </drv>
 
@@ -460,6 +515,12 @@
 </art>
 <!--
 $Log: intenc.xml,v $
+Revision 1.21  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2011/06/14 05:10:09  revo
 Sebastian Cyprych: +~e +trd pl
 

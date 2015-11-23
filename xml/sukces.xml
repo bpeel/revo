@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sukces.xml,v 1.22 2013/12/05 10:10:13 revo Exp $">
+<art mrk="$Id: sukces.xml,v 1.24 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sukces</rad>/i
@@ -79,11 +79,24 @@
       <trd>&c_s;&c_u;&c_m;&c_je;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dokázat</trd>,
+    <trd>mít úspěch</trd>,
+    <trd>stačit něco udělat</trd>,
+    <trd>umět</trd>,
+    <trd>uspět</trd>
+  </trdgrp>
   <trd lng="en">succeed</trd>
   <trd lng="fr">r&eacute;ussir</trd>
   <trdgrp lng="nl">
     <trd>slagen</trd>,
     <trd>succes hebben</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>docieliť</trd>,
+    <trd>dokázať</trd>,
+    <trd>mať úspech</trd>,
+    <trd>uspieť</trd>
   </trdgrp>
   <trd lng="tp">kama</trd>
 </drv>
@@ -101,6 +114,11 @@
   </snc>
   <trd lng="bg">&c_u;&c_s;&c_p;&c_je;&c_h;</trd>
   <trd lng="ca">&egrave;xit</trd>
+  <trdgrp lng="cs">
+    <trd>sukces</trd>,
+    <trd>zdar</trd>,
+    <trd>úspěch</trd>
+  </trdgrp>
   <trd lng="de">Erfolg</trd>
   <trd lng="en">success</trd>
   <trdgrp lng="es">
@@ -108,12 +126,16 @@
     <trd>suceso</trd>
   </trdgrp>
   <trd lng="fr">succ&egrave;s</trd>
-  <trd lng="hu">siker</trd>  
+  <trd lng="hu">siker</trd>
   <trd lng="nl">succes</trd>
   <trd lng="pt">sucesso</trd>
   <trdgrp lng="ru">
     <trd>&c_u;&c_s;&c_p;&c_je;&c_h;</trd>,
     <trd>&c_u;&c_d;&c_a;&c_ch;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>zdar</trd>,
+    <trd>úspech</trd>
   </trdgrp>
 </drv>
 
@@ -134,9 +156,14 @@
     <trd>exit&oacute;s</trd>,
     <trd>reeixit</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>podařený</trd>,
+    <trd>úspěšný</trd>
+  </trdgrp>
   <trd lng="de">erfolgreich</trd>
-  <trd lng="fr">r&eacute;ussi(e)</trd>
   <trd lng="es">exitoso/a</trd>
+  <trd lng="fr">r&eacute;ussi(e)</trd>
+  <trd lng="sk">úspešný</trd>
 </drv>
 
 
@@ -157,29 +184,44 @@
     <trd>fallir</trd>,
     <trd>esguerrar-se</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>neuspět</trd>,
+    <trd>selhat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>missgl&uuml;cken</trd>,
     <trd>Misserfolg haben</trd>
   </trdgrp>
   <trd lng="en">fail</trd>
   <trd lng="es">fracasar</trd>
+  <trd lng="fr">rater</trd>
   <trdgrp lng="hu">
     <trd>nem siker&uuml;l</trd>,
     <trd>meghi&uacute;sul</trd>,
     <trd>megbukik</trd>,
     <trd>elbukik</trd>
   </trdgrp>
-  <trd lng="fr">rater</trd>
   <trd lng="nl">mislukken</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_o;&c_t;&c_je;&c_r;&c_p;&c_je;&c_t;&c_mol; <ind>&c_n;&c_je;&c_u;&c_d;&c_a;&c_ch;&c_u;</ind></trd>,
     <trd>&c_n;&c_je; <ind>&c_s;&c_m;&c_o;&c_ch;&c_mol;</ind></trd>,
     <trd>&c_n;&c_je; <ind>&c_s;&c_u;&c_m;&c_je;&c_t;&c_mol;</ind></trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mať neúspech</trd>,
+    <trd>prepadnúť</trd>,
+    <trd>zlyhať</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: sukces.xml,v $
+Revision 1.24  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2013/12/05 10:10:13  revo
 Damien Brucker: +trd fr
 

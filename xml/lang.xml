@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lang.xml,v 1.30 2014/05/30 15:11:01 revo Exp $">
+<art mrk="$Id: lang.xml,v 1.33 2015/07/04 08:37:38 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>lang</rad>/o</kap>
 <drv mrk="lang.0o">
@@ -10,12 +10,12 @@
   <snc mrk="lang.0o.ANA">
     <uzo tip="fak">ANA</uzo>
     <dif>
-      Movebla mola karna organo en la <ref tip="malprt"
-      cel="busx.0o.ANA">bu&scirc;o</ref>, servanta por gustumi kaj paroli:
+      Movebla mola karna organo en la
+      <ref tip="malprt" cel="busx.0o.ANA">bu&scirc;o</ref>, servanta por
+      gustumi kaj paroli:
       <ekz>
         montri la <tld/>on al la kuracisto;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         man&gcirc;i bov<tld/>on.
       </ekz>
     </dif>
@@ -26,37 +26,28 @@
       <ekz>
         ili parolas kun mi per mensogema <tld/>o
         <fnt><bib>MT</bib>, <lok>&Psa; 109:2</lok></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         milda<fnt>Z</fnt>,
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         malpia<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         mia <tld/>o parolos veron<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         gardi sian <tld/>on<fnt>Z</fnt>
         <klr>(silenti)</klr>;
-      </ekz>
-      <ekz>
-        <tld/>a vundo plej profunda
-        <fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         plej bona gvidilo estas <tld/>o<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         <uzo tip="stl">FIG</uzo>
         lia nomo estas sur &ccirc;ies <tld/>o
         <klr>(li estas tre fama)</klr>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         <ctl>Fajro sur mia <tld/>o</ctl>
         <klr>(poemaro de Edwin de Kock)</klr>
-        <fnt><aut>de Kock Edwin</aut>, <vrk>Fajro sur mia lango. - La
-        Laguna: R&eacute;gulo, 1967</vrk></fnt>.
+        <fnt><aut>de Kock Edwin</aut>,
+          <vrk>Fajro sur mia lango.</vrk>
+          <lok>La Laguna: R&eacute;gulo, 1967</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -66,8 +57,7 @@
       Io simila al <tld/>o:
       <ekz>
         longaj <tld/>oj de flamo;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         ter<tld/>o <klr>(terkapo)</klr>.
       </ekz>
     </dif>
@@ -75,7 +65,10 @@
   <trd lng="be">&c_ja;&c_z;&c_y;&c_k;</trd>
   <trd lng="bg">&c_je;&c_z;&c_i;&c_k;<klr tip="amb"> (&c_a;&c_n;&c_a;&c_t;&c_o;&c_m;&c_i;&c_ja;)</klr></trd>
   <trd lng="br">teod</trd>
-  <trd lng="cs">jazyk (v &uacute;stech)</trd>
+  <trdgrp lng="cs">
+    <trd>jazyk (v &uacute;stech)</trd>,
+    <trd>jazyk <klr>(v ústech)</klr></trd>
+  </trdgrp>
   <trd lng="de">Zunge</trd>
   <trd lng="el">&gamma;&lambda;&omega_ton;&sigma;&sigma;&alfa;</trd>
   <trd lng="en">tongue</trd>
@@ -88,8 +81,39 @@
   <trd lng="pl">j&eogonek;zyk</trd>
   <trd lng="pt">l&iacute;ngua</trd>
   <trd lng="ru">&c_ja;&c_z;&c_y;&c_k;<klr tip="amb"> (&c_o;&c_r;&c_g;&c_a;&c_n;)</klr></trd>
+  <trd lng="sk">jazyk</trd>
   <trd lng="sv">tunga</trd>
   <trd lng="tr">dil</trd>
+</drv>
+
+<drv mrk="lang.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata a&ubreve; apartenanta al <tld/>o:
+      <ekz>
+        <uzo tip="fak">ANA</uzo>
+        <tld/>a arterio;
+      </ekz><ekz>
+        <tld/>a kiso;
+      </ekz><ekz>
+        <uzo tip="fak">KUI</uzo>
+        <tld/>a kolbaso;
+      </ekz><ekz>
+        <uzo tip="fak">FON</uzo>
+        <tld/>a konsonanto;
+      </ekz><ekz>
+        <uzo tip="stl">FIG</uzo>
+        <uzo tip="stl">FRAZ</uzo>
+        <tld/>a vundo plej profunda
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ru">
+    <trd>&c_ja;&c_z;&c_y;&c_k;&c_o;&c_v;&c_y;&c_j;</trd>,
+    <trd>&c_ja;&c_z;&c_y;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lang.0eto">
@@ -113,6 +137,7 @@
     </dif>
   </snc>
   <trd lng="br">pempilh<klr tip="ind"> (stlenn.)</klr></trd>
+  <trd lng="cs">jazýček nástroje</trd>
   <trd lng="en">tab</trd>
   <trdgrp lng="fr">
     <trd>languette</trd>,
@@ -128,6 +153,7 @@
     <trd>&c_z;&c_a;&c_k;&c_l;&c_a;&c_d;&c_k;&c_a;</trd>,
     <trd>&c_ja;&c_z;&c_y;&c_ch;&c_o;&c_k;<klr tip="ind"> (&c_z;&c_a;&c_k;&c_l;&c_a;&c_d;&c_k;&c_a;)</klr></trd>
   </trdgrp>
+  <trd lng="sk">jazýček nástroja</trd>
 </drv>
 
 <drv mrk="lang.0trinki">
@@ -142,12 +168,12 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_h;&c_l;&c_ja;&c_b;&c_t;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">lapa&ntilde;</trd>
   <trdgrp lng="de">
     <trd>lecken</trd>,
     <trd>auflecken</trd>,
     <trd>schlecken</trd>
   </trdgrp>
-  <trd lng="br">lapa&ntilde;</trd>
   <trd lng="en">lap</trd>
   <trd lng="fr">laper</trd>
   <trd lng="hu">lefetyel</trd>
@@ -158,11 +184,24 @@
   </trdgrp>
   <trd lng="pl">ch&lstroke;epta&cacute;</trd>
   <trd lng="ru">&c_l;&c_a;&c_k;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>chleptať</trd>,
+    <trd>strebať</trd>
+  </trdgrp>
   <trd lng="sv">lapa</trd>
 </drv>
 </art>
 <!--
 $Log: lang.xml,v $
+Revision 1.33  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.31  2015/01/06 11:10:28  revo
+Sergio Pokrovskij: +~a
+
 Revision 1.30  2014/05/30 15:11:01  revo
 Eko Nur Syah Hidayat: +id
 
@@ -182,8 +221,5 @@ Revision 1.25  2005/02/13 17:31:13  revo
 Vito Redsky: +trd pl
 
 Revision 1.24  2005/01/20 17:32:03  revo
-Paul Peeraerts: ald langeto + trd
-
-Revision 1.23 2004/06/06 18:47:00 revo
 -->
 </vortaro>

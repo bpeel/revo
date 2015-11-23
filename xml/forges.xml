@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: forges.xml,v 1.26 2014/08/23 01:10:11 revo Exp $">
+<art mrk="$Id: forges.xml,v 1.29 2015/07/04 08:37:34 revo Exp $">
 <kap><ofc>*</ofc>
   <rad>forges</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -78,16 +78,19 @@
       <trd>otthagy</trd>
     </trdgrp>
   </snc>
-  <trdgrp lng="ca">
-    <trd>oblidar</trd>,
-    <trd>oblidar-se</trd>
-  </trdgrp>
   <trdgrp lng="be">
     <trd>&c_z;&c_a;&c_b;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_b;&c_y;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="bg">&c_z;&c_a;&c_b;&c_r;&c_a;&c_v;&c_ja;&c_m;</trd>
-  <trd lng="cs">zapomenout</trd>
+  <trdgrp lng="ca">
+    <trd>oblidar</trd>,
+    <trd>oblidar-se</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>zapomenout</trd>,
+    <trd>zapomínat</trd>
+  </trdgrp>
   <trd lng="de">vergessen</trd>
   <trd lng="en">forget</trd>
   <trd lng="es">olvidar</trd>
@@ -101,6 +104,7 @@
   <trd lng="pl">zapomnie&cacute;</trd>
   <trd lng="ro">a uita</trd>
   <trd lng="ru">&c_z;&c_a;&c_b;&c_y;&c_t;&c_mol;</trd>
+  <trd lng="sk">zabudnúť</trd>
 </drv>
 
 <drv mrk="forges.0o">
@@ -120,8 +124,13 @@
       Nezorgo, preterlaso, neglekto.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>zapomenutí</trd>,
+    <trd>zapomnění</trd>
+  </trdgrp>
   <trd lng="fr">oubli</trd>
   <trd lng="ru">&c_z;&c_a;&c_b;&c_v;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">zabudnutie</trd>
 </drv>
 
 <drv mrk="forges.0ema">
@@ -139,10 +148,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">zapomětlivý</trd>
   <trdgrp lng="fr">
     <trd>&eacute;tourdi</trd>,
     <trd>oublieux</trd>
   </trdgrp>
+  <trd lng="sk">zábudlivý</trd>
 </drv>
 
 <drv mrk="forges.mem0o">
@@ -210,6 +221,7 @@
   <trd lng="be">&c_n;&c_je;&c_z;&c_a;&c_b;&c_y;&c_w;&c_n;&c_y;</trd>
   <trd lng="bg">&c_n;&c_je;&c_z;&c_a;&c_b;&c_r;&c_a;&c_v;&c_i;&c_m;</trd>
   <trd lng="ca">inoblidable</trd>
+  <trd lng="cs">nezapomenutelný</trd>
   <trd lng="de">unvergesslich</trd>
   <trd lng="en">unforgettable</trd>
   <trd lng="es">inolvidable</trd>
@@ -223,6 +235,7 @@
     <trd>&c_n;&c_je;&c_z;&c_a;&c_b;&c_y;&c_v;&c_a;&c_je;&c_m;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_z;&c_a;&c_b;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">nezabudnuteľný</trd>
 </drv>
 
 <drv mrk="forges.ne0umino">
@@ -239,21 +252,58 @@
         Krom la ne<tld/>umin'.
         <fnt>
           <aut>Boufflers</aut>, <vrk>Bagatela&jcirc;oj</vrk>,
-          <lok>la nica literatura revuo, 1956-11 gxis 12 (2:2), p.
-          80</lok>
+          <lok>La Nica Literatura Revuo, 1956-11 &gcirc;is 12 (2:2), p.
+          80a</lok>
         </fnt>
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>nezabudka</trd>,
+    <trd>poměnka</trd>
+  </trdgrp>
   <trd lng="de">Vergissmeinnicht</trd>
   <trd lng="en">forget-me-not</trd>
   <trd lng="fr">myosotis</trd>
   <trd lng="ru">&c_n;&c_je;&c_z;&c_a;&c_b;&c_u;&c_d;&c_k;&c_a;</trd>
+  <trd lng="sk">nezábudka</trd>
   <trd lng="tr">unutma beni</trd>
+</drv>
+
+<drv mrk="forges.sen0e">
+  <kap>sen<tld/>e</kap>
+  <snc mrk="forges.sen0e.KOMUNE">
+    <dif>
+      Agante sen <tld/>o, neglekto a&ubreve; preteratento;
+      <ref tip="vid" cel="mank.sen0e.KOMUNE">senmanke</ref>,
+      <ref tip="vid" cel="nepr.0e.KOMUNE">nepre</ref>:
+      <ekz>
+        Diego promesis pendigi <klr>[la informilon]</klr> 
+        &ccirc;iufoje kaj sen<tld/>e en la indikita loko
+        <fnt>
+          <aut>G. C. Fighiera</aut>,
+          <vrk><url
+          ref="http://esperanto.torino.it/pipermail/klacxoj/2011-September/000902.html">
+          Resumo decidoj</url></vrk>,
+          <lok>Kla&ccirc;oj, 2011-09-06</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">sans oubli</trd>
 </drv>
 </art>
 <!--
 $Log: forges.xml,v $
+Revision 1.29  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/01/09 21:10:45  revo
+Jeromo Vasxe: + sen~e
+
 Revision 1.26  2014/08/23 01:10:11  revo
 Jeromo Vasxe: + ~ema
 
@@ -273,8 +323,5 @@ Revision 1.21  2007/06/05 16:30:48  revo
 Tulio Flores: +tr pt
 
 Revision 1.20  2006/03/08 17:32:20  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.19  2005/04/28 16:33:43  revo
 -->
 </vortaro>

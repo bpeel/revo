@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: brand.xml,v 1.18 2014/06/17 07:10:12 revo Exp $">
+<art mrk="$Id: brand.xml,v 1.21 2015/10/06 03:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>brand</rad>/o <fnt><bib>PV</bib></fnt>
@@ -62,8 +62,18 @@
     <trd>w&oacute;dka<klr> kolorowa</klr></trd>,
     <trd>brandy</trd>
   </trdgrp>
+  <trd lng="pt">aguardente</trd>
   <trd lng="ru">&c_v;&c_o;&c_d;&c_k;&c_a;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>brandy</trd>,
+    <trd>ko&rcaron;alka</trd>,
+    <trd>p&aacute;lenka</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>brandy</trd>,
+    <trd>p&aacute;lenka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="brand.juniper0o">
@@ -109,6 +119,11 @@
   <trd lng="pt">gim</trd>
   <trd lng="ru">&c_d;&c_zh;&c_i;&c_n;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>borovi&ccaron;ka</trd>,
+    <trd>jalovcov&aacute;</trd>
+  </trdgrp>
+  <trd lng="sk">borovi&ccaron;ka</trd>
 </drv>
 
 <drv mrk="brand.prun0o">
@@ -125,6 +140,8 @@
     </trdgrp>
     <trd lng="pl">&sacute;liwowica</trd>
   </snc>
+  <trd lng="cs">slivovice</trd>
+  <trd lng="sk">slivovica</trd>
 </drv>
 
 <drv mrk="brand.cxeriz0o">
@@ -142,6 +159,15 @@
 </art>
 <!--
 $Log: brand.xml,v $
+Revision 1.21  2015/10/06 03:10:24  revo
+Evandro Avellar: +trd pt
+
+Revision 1.20  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2014/06/17 07:10:12  revo
 Damien Brucker: +trd fr
 
@@ -155,14 +181,5 @@ Revision 1.15  2007/12/05 17:30:17  revo
 Jeromo Vasxe: + juniper~o
 
 Revision 1.14  2005/04/06 16:33:51  revo
-Alan ar Gall: +trd br
-
-Revision 1.13  2004/05/27 16:32:47  revo
-Jeromo Vasxe: kor. 1 ref
-
-Revision 1.12  2003/12/01 17:31:31  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2003/01/24 17:31:05  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: filik.xml,v 1.17 2014/02/08 10:10:21 revo Exp $">
+<art mrk="$Id: filik.xml,v 1.19 2015/07/04 08:37:34 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>filik</rad>/oj
@@ -20,16 +20,18 @@
       kun plej ofte dividataj folioj, june helike enrulitaj.
     </dif>
   </snc>
+  <trd lng="cs">kapradiny</trd>
   <trdgrp lng="de">
     <trd>Farne</trd>,
     <trd>Echte Farne</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>foug&egrave;res</trd>,
-    <trd>filicin&eacute;es</trd></trdgrp> 
+    <trd>filicin&eacute;es</trd></trdgrp>
   <trd lng="hu">p&aacute;fr&aacute;nyalak&uacute;ak</trd>
   <trd lng="pt">feto</trd>
   <trd lng="ru">&c_p;&c_a;&c_p;&c_o;&c_r;&c_o;&c_t;&c_n;&c_i;&c_k;&c_i;</trd>
+  <trd lng="sk">papradiny</trd>
 </drv>
 <drv mrk="filik.0oplantoj">
   <kap><tld/>oplantoj</kap>
@@ -55,6 +57,12 @@
 </art>
 <!--
 $Log: filik.xml,v $
+Revision 1.19  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2014/02/08 10:10:21  revo
 Damien Brucker: -eraro cxe ref
 

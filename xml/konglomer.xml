@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konglomer.xml,v 1.4 2013/04/15 11:10:28 revo Exp $">
+<art mrk="$Id: konglomer.xml,v 1.6 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>konglomer</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -26,12 +26,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">tvořit konglomerát</trd>
   <trd lng="de">konglomerieren</trd>
   <trdgrp lng="fr">
     <trd>agglom&eacute;rer</trd>,
     <trd>conglom&eacute;rer</trd>
   </trdgrp>
   <trd lng="pl">konglomerowa&cacute;</trd>
+  <trd lng="sk">tvoriť konglomerát</trd>
 </drv>
 
 <drv mrk="konglomer.0ajxo">
@@ -72,6 +74,12 @@
 
 <!--
 $Log: konglomer.xml,v $
+Revision 1.6  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2013/04/15 11:10:28  revo
 Sebastian Cyprych: +trd pl
 

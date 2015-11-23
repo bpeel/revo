@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pred.xml,v 1.3 2012/10/08 13:10:07 revo Exp $">
+<art mrk="$Id: pred.xml,v 1.5 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>pred</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -26,9 +26,11 @@
         <bib>Esperanto</bib>, <lok>jaro 2006a</lok></fnt>.
       </ekz>
   </snc>
-  <trd lng="es">presa <klr>(de caza)</klr></trd> 
+  <trd lng="cs">kořist</trd>
+  <trd lng="es">presa <klr>(de caza)</klr></trd>
   <trd lng="fr">proie</trd>
   <trd lng="nl">prooi</trd>
+  <trd lng="sk">korisť</trd>
 </drv>
 
 <drv mrk="pred.0i">
@@ -46,13 +48,24 @@
         </fnt>.
       </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>lovit</trd>,
+    <trd>ulovit</trd>
+  </trdgrp>
   <trd lng="fr">faire sa <ind>proie</ind> de</trd>
   <trd lng="nl">tot <ind>prooi</ind> nemen</trd>
+  <trd lng="sk">loviť</trd>
 </drv>
 </art>
 
 <!--
 $Log: pred.xml,v $
+Revision 1.5  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.3  2012/10/08 13:10:07  revo
 Carlos Garcia: +trd es -o
 

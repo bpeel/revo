@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: neolog.xml,v 1.18 2013/08/06 11:10:11 revo Exp $">
+<art mrk="$Id: neolog.xml,v 1.20 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>neologism</rad>/o <fnt><bib>PV</bib></fnt>
@@ -55,20 +55,34 @@
     </dif>
     <trd lng="de">Fremdwort</trd>
     <trd lng="nl">vreemd woord</trd>
-  </snc>                       
+  </snc>
   <trd lng="be">&c_n;&c_e;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_z;&c_m;</trd>
   <trd lng="bg">&c_n;&c_je;&c_o;&c_l;&c_o;&c_g;&c_i;&c_z;&c_malmol;&c_m;</trd>
   <trd lng="br">nevezc'her</trd>
-  <trd lng="el">&ny;&epsilon;&omikron;&lambda;&omikron;&gamma;&jota;&sigma;&my;&omikron_ton;&sigma_fina;</trd> 
+  <trdgrp lng="cs">
+    <trd>jazykový novotvar</trd>,
+    <trd>neologizmus</trd>
+  </trdgrp>
+  <trd lng="el">&ny;&epsilon;&omikron;&lambda;&omikron;&gamma;&jota;&sigma;&my;&omikron_ton;&sigma_fina;</trd>
   <trd lng="fa">&a_n;&a_w;&a_w;&a_A;&f_zh;&a_h;</trd>
   <trd lng="fr">n&eacute;ologisme</trd>
   <trd lng="hu">neologizmus</trd>
   <trd lng="pt">neologismo</trd>
   <trd lng="ru">&c_n;&c_je;&c_o;&c_l;&c_o;&c_g;&c_i;&c_z;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>neologizmus</trd>,
+    <trd>novotvar</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: neolog.xml,v $
+Revision 1.20  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2013/08/06 11:10:11  revo
 Joop Eggen: +trd bg
 

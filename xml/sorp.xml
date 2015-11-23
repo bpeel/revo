@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sorp.xml,v 1.21 2013/08/29 07:10:46 revo Exp $">
+<art mrk="$Id: sorp.xml,v 1.23 2015/07/04 08:37:43 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>sorp</rad>/o
@@ -15,6 +15,7 @@
       de (birda) <ref tip="malprt" cel="sorp.0ujo"><tld/>ujo</ref>.
     </dif>
   </snc>
+  <trd lng="cs">jeřabina</trd>
   <trd lng="de">Vogelbeere</trd>
   <trdgrp lng="en">
     <trd>sorb</trd>,
@@ -25,6 +26,7 @@
   <trd lng="nl">lijsterbes<klr tip="ind"> (vrucht)</klr></trd>
   <trd lng="pl">jarz&aogonek;b</trd>
   <trd lng="ru">&c_r;&c_ja;&c_b;&c_i;&c_n;&c_a;<klr tip="amb"> (&c_ja;&c_g;&c_o;&c_d;&c_a;)</klr></trd>
+  <trd lng="sk">jarabina</trd>
 </drv>
 
 <drv mrk="sorp.0ujo">
@@ -73,16 +75,27 @@
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_b;&c_ib;&c_n;&c_a;</trd>
+  <trd lng="cs">jeřáb jedlý</trd>
   <trd lng="de">Mehlbeere</trd>
   <trd lng="hu">berkenye<klr tip="amb"> (fa)</klr></trd>
   <trd lng="nl">lijsterbes<klr tip="ind"> (plant)</klr></trd>
   <trd lng="pl">jarz&aogonek;b</trd>
   <trd lng="ru">&c_r;&c_ja;&c_b;&c_i;&c_n;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>druh jarabiny</trd>,
+    <trd>oskoruša</trd>
+  </trdgrp>
   <trd lng="sv">oxel</trd>
 </drv>
 </art>
 <!--
 $Log: sorp.xml,v $
+Revision 1.23  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2013/08/29 07:10:46  revo
 Wolfram Diestel: referenco al listo bot genroj
 

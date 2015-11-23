@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: violent.xml,v 1.4 2014/07/25 12:10:10 revo Exp $">
+<art mrk="$Id: violent.xml,v 1.6 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <rad>violent</rad>/a <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -20,9 +20,17 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bezuzdně násilný</trd>,
+    <trd>zběsilý</trd>
+  </trdgrp>
   <trd lng="es">violento, -a</trd>
   <trd lng="fr">violent</trd>
   <trd lng="pt">violento, -a</trd>
+  <trdgrp lng="sk">
+    <trd>násilný</trd>,
+    <trd>zbesilý</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="violent.0o">
@@ -46,9 +54,17 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>násilný čin</trd>,
+    <trd>násilí</trd>
+  </trdgrp>
   <trd lng="es">violencia</trd>
   <trd lng="fr">violence</trd>
   <trd lng="pt">viol&ecirc;ncia</trd>
+  <trdgrp lng="sk">
+    <trd>násilie</trd>,
+    <trd>násilný čin</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="violent.0i">
@@ -59,12 +75,23 @@
       Agi <tld/>e.
     </dif>
   </snc>
+  <trd lng="cs">znásilnit</trd>
   <trd lng="fr">violenter</trd>
+  <trdgrp lng="sk">
+    <trd>vymôcť násilím</trd>,
+    <trd>znásilniť</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: violent.xml,v $
+Revision 1.6  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2014/07/25 12:10:10  revo
 Damien Brucker: +trd fr
 

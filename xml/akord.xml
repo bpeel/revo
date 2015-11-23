@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: akord.xml,v 1.30 2012/01/18 01:10:08 revo Exp $">
+<art mrk="$Id: akord.xml,v 1.33 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>akord</rad>/o <fnt><bib>PV</bib></fnt>
@@ -218,6 +218,12 @@
   <refgrp tip="vid">
     Ne konfuzu kun <ref cel="agord.0o">agordo</ref>
   </refgrp>
+  <trd lng="sk">akord, súzvuk aspoň troch tónov</trd>
+  <trd lng="sk">akord, súzvuk aspoň troch tónov</trd>
+  <trdgrp lng="cs">
+    <trd>akord</trd>,
+    <trd>souzvuk alespoň tří tónů</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akord.0a">
@@ -348,6 +354,14 @@
       l'harmonie)</klr></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kompatibilní</trd>,
+    <trd>slučitelný</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kompatibilný</trd>,
+    <trd>zlučiteľný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akord.0i">
@@ -444,6 +458,10 @@
     <trd>&c_b;&c_y;&c_c;&c_mol; &c_u; <ind>&c_s;&c_u;&c_l;&c_a;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_ib;</ind></trd>
     <trd>&c_a;&c_d;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_a;&c_d;&c_n;&c_o; &c_a;&c_d;&c_n;&c_a;&c_m;&c_u;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hodit se k sobě</trd>,
+    <trd>shodovat se</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd><klr>im </klr>Gleichklang sein</trd>,
     <trd>&uuml;bereinstimmen</trd>
@@ -461,7 +479,12 @@
     <trd>&c_s;&c_o;&c_ch;&c_je;&c_t;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_g;&c_a;&c_r;&c_m;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">by&tcaron; v <ind>s&uacute;lade</ind></trd>
+  <trdgrp lng="sk">
+    <trd>by&tcaron; v <ind>s&uacute;lade</ind></trd>,
+    <trd>byť v súlade</trd>,
+    <trd>harmonizovať</trd>,
+    <trd>ladiť</trd>
+  </trdgrp>
   <trd lng="sv">&ouml;verensst&auml;mma</trd>
 </drv>
 
@@ -522,6 +545,18 @@
     </trdgrp>
     <trd lng="sk">zladi&tcaron;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>ladit</trd>,
+    <trd>seřizovat</trd>,
+    <trd>urovnat <klr>(spor)</klr></trd>,
+    <trd>uspořádat</trd>,
+    <trd>vyladit</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>byť v súlade</trd>,
+    <trd>harmonizovať</trd>,
+    <trd>ladiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akord.0igebla">
@@ -558,10 +593,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">slučitelný</trd>
   <trdgrp lng="fr">
     <trd>conciliable</trd>,
     <trd>compatible</trd>
   </trdgrp>
+  <trd lng="sk">zlučiteľný</trd>
 </drv>
 
 <drv mrk="akord.0igxi">
@@ -721,6 +758,11 @@
       <trd>convention<klr tip="ind"> (juridique)</klr></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kompatibilnost</trd>,
+    <trd>shoda</trd>
+  </trdgrp>
+  <trd lng="sk">zhoda</trd>
 </drv>
 
 <drv mrk="akord.mal0o">
@@ -763,6 +805,18 @@
       <trd>tiraillement<klr tip="ind"> (divergence de vues)</klr></trd>,
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>konflikt</trd>,
+    <trd>rozpor</trd>,
+    <trd>rozvrat</trd>,
+    <trd>úplná neshoda</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konflikt</trd>,
+    <trd>nezhoda</trd>,
+    <trd>rozpor</trd>,
+    <trd>rozvrat</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akord.mal0i">
@@ -777,6 +831,7 @@
     </ekz>
     <ref tip="vid" cel="konfli.0i">konflikti</ref>
   </snc>
+  <trd lng="cs">být v rozporu</trd>
   <trdgrp lng="fr">
     <trd>&ecirc;tre en <ind>d&eacute;saccord</ind></trd>,
     <trd>&ecirc;tre en <ind>conflit</ind></trd>,
@@ -785,6 +840,7 @@
     <trd>avoir un <ind>diff&eacute;rend</ind></trd>,
     <trd>avoir un <ind>litige</ind></trd>,
   </trdgrp>
+  <trd lng="sk">byť v rozpore</trd>
 </drv>
 
 <drv mrk="akord.mal0a">
@@ -814,6 +870,7 @@
     </ekz>
     <ref tip="vid" cel="konfli.0a">konflikta</ref>
   </snc>
+  <trd lng="cs">nejednotný</trd>
   <trdgrp lng="fr">
     <trd>en <ind>d&eacute;saccord</ind><klr tip="ind"> (loc. adj.)</klr></trd>,
     <trd>en <ind>inad&eacute;quation</ind><klr tip="ind"> (loc.
@@ -826,6 +883,10 @@
     <trd>incoh&eacute;rent</trd>,
     <trd>inharmonieux</trd>,
     <trd>oppos&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bez ladu nesúladný</trd>,
+    <trd>nezhodný</trd>
   </trdgrp>
 </drv>
 
@@ -910,6 +971,7 @@
     </dif>
     <ref tip="sin" cel="akord.mal0igebla">mal<tld/>igebla</ref>
   </snc>
+  <trd lng="cs">neslučitelný</trd>
   <trdgrp lng="fr">
     <trd>inconciliable</trd>,
     <trd>antagonique</trd>,
@@ -918,6 +980,7 @@
     <trd>incompatible</trd>,
     <trd>irr&eacute;conciliable</trd>
   </trdgrp>
+  <trd lng="sk">nezladiteľný</trd>
 </drv>
 
 <drv mrk="akord.0ekun">
@@ -1010,6 +1073,15 @@
 </art>
 <!--
 $Log: akord.xml,v $
+Revision 1.33  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.31  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.30  2012/01/18 01:10:08  revo
 Jeromo Vasxe: kor 1 ref
 

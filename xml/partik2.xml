@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: partik2.xml,v 1.17 2012/01/01 23:10:58 revo Exp $">
+<art mrk="$Id: partik2.xml,v 1.19 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>partikl</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -45,12 +45,16 @@
   </snc>
   <trd lng="be">&c_e;&c_l;&c_je;&c_m;&c_e;&c_n;&c_t;&c_a;&c_r;&c_n;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_a;</ind></trd>
   <trd lng="ca">part&iacute;cula</trd>
-  <trd lng="en"><klr>fundamental</klr> particle</trd>
-  <trd lng="es">part&iacute;cula</trd>
+  <trdgrp lng="cs">
+    <trd>částečka</trd>,
+    <trd>částice</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Partikel</trd>,
     <trd>Elementarteilchen</trd>
   </trdgrp>
+  <trd lng="en"><klr>fundamental</klr> particle</trd>
+  <trd lng="es">part&iacute;cula</trd>
   <trdgrp lng="fa">
     <trd>&a_dh;&a_r;&a_h;</trd>,
     <trd>&a_dh;&a_r;&a_h;&a_hamza_sure; &a_b;&a_n;&f_y;&a_A;&a_d;&f_y;</trd>
@@ -64,6 +68,10 @@
   <trd lng="pl">cz&aogonek;stka<klr> elementarna</klr></trd>
   <trd lng="pt">part&iacute;cula</trd>
   <trd lng="ru"><klr>&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;&c_a;&c_r;&c_n;&c_a;&c_ja;</klr> &c_ch;&c_a;&c_s;&c_t;&c_i;&c_c;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>častica</trd>,
+    <trd>čiastočka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="partik2.kontraux0o">
@@ -115,6 +123,12 @@
 </art>
 <!--
 $Log: partik2.xml,v $
+Revision 1.19  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2012/01/01 23:10:58  revo
 Marc Rausell: +trd ca
 

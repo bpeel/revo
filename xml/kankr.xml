@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kankr.xml,v 1.37 2014/06/06 04:11:03 revo Exp $">
+<art mrk="$Id: kankr.xml,v 1.39 2015/07/04 08:37:36 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>kankr</rad>/o</kap>
 <drv mrk="kankr.0o">
@@ -27,10 +27,11 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_r;&c_a;&c_k;</trd>  
-  <trd lng="bg">&c_r;&c_a;&c_k;</trd>	      
+  <trd lng="be">&c_r;&c_a;&c_k;</trd>
+  <trd lng="bg">&c_r;&c_a;&c_k;</trd>
   <trd lng="br">grilh-dour</trd>
   <trd lng="ca">cranc</trd>
+  <trd lng="cs">rak</trd>
   <trdgrp lng="de">
     <trd>Flusskrebs</trd>,
     <trd>Krebs</trd>
@@ -54,6 +55,7 @@
   <trd lng="no">kreps</trd>
   <trd lng="pl">rak</trd>
   <trd lng="ru">&c_r;&c_a;&c_k; <klr>(&c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_o;&c_je;)</klr></trd>
+  <trd lng="sk">rak</trd>
 </drv>
 
 <drv mrk="kankr.K0o">
@@ -77,13 +79,14 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_R;&c_a;&c_k;</trd>   
+  <trd lng="be">&c_R;&c_a;&c_k;</trd>
   <trd lng="bg">&c_R;&c_a;&c_k;</trd>
+  <trd lng="br">Krank<klr tip="ind"> (steredeg ar C'h.)</klr></trd>
   <trdgrp lng="ca">
     <trd>(el) Cranc</trd>,
     <trd>c&agrave;ncer</trd>
   </trdgrp>
-  <trd lng="br">Krank<klr tip="ind"> (steredeg ar C'h.)</klr></trd>
+  <trd lng="cs">rak</trd>
   <trd lng="de">Krebs</trd>
   <trdgrp lng="en">
     <trd>Cancer</trd>,
@@ -103,10 +106,17 @@
   <trd lng="pl">rak</trd>
   <trd lng="ru">&c_R;&c_a;&c_k; <klr>(&c_s;&c_o;&c_z;&c_v;&c_je;&c_z;&c_d;&c_i;&c_je;, &c_z;&c_n;&c_a;&c_k;
 &c_z;&c_o;&c_d;&c_i;&c_a;&c_k;&c_a;)</klr></trd>
+  <trd lng="sk">rak</trd>
 </drv>
 </art>
 <!--
 $Log: kankr.xml,v $
+Revision 1.39  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.38  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.37  2014/06/06 04:11:03  revo
 Eko Nur Syah Hidayat: +id
 

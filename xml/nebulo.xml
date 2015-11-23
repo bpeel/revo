@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nebulo.xml,v 1.13 2010/05/21 16:31:05 revo Exp $">
+<art mrk="$Id: nebulo.xml,v 1.15 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <rad>nebuloz</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -29,22 +29,30 @@
     </ekz>
   </snc>
   <trd lng="be">&c_t;&c_u;&c_m;&c_a;&c_n;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
-  <trd lng="br">nivlenn<klr tip="ind"> (steredon.)</klr></trd>     
+  <trd lng="br">nivlenn<klr tip="ind"> (steredon.)</klr></trd>
+  <trd lng="cs">mlhovina</trd>
   <trd lng="de">Sternennebel</trd>
   <trd lng="el">&ny;&epsilon;&phi;&epsilon_ton;&lambda;&omega;&my;&alfa;</trd>
   <trd lng="en">nebula</trd>
+  <trd lng="es">nebulosa</trd>
   <trd lng="fr">n&eacute;buleuse<klr tip="ind"> (astr.)</klr></trd>
   <trd lng="he">&ayin;&resh;&pe;&yod;&lamed;&yod;&tav;</trd>
   <trd lng="hu">csillagk&ouml;d</trd>
-  <trd lng="es">nebulosa</trd>
   <trd lng="nl">nevelvlek</trd>
   <trd lng="pt">nebulosa</trd>
   <trd lng="ru">&c_t;&c_u;&c_m;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">hmlovina</trd>
   <trd lng="sv">nebulosa</trd>
 </drv>
 </art>
 <!--
 $Log: nebulo.xml,v $
+Revision 1.15  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2010/05/21 16:31:05  revo
 Jeromo Vasxe: + mrk + sin + kk trd
 

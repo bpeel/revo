@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hok.xml,v 1.27 2013/12/28 19:10:09 revo Exp $">
+<art mrk="$Id: hok.xml,v 1.29 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hok</rad>/o <fnt><bib>PV</bib></fnt>
@@ -237,14 +237,23 @@
     <trd>garfi</trd>,
     <trd>perxa</trd>,   
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hák</trd>,
+    <trd>háček na ryby</trd>,
+    <trd>skoba</trd>
+  </trdgrp>
   <trd lng="de">Haken</trd>
   <trd lng="en">hook</trd>
+  <trd lng="es">anzuelo</trd>
   <trd lng="nl">haak</trd>
   <trd lng="pt">anzol</trd>
-  <trd lng="es">anzuelo</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_r;&c_ju;&c_k;</trd>,
     <trd>&c_k;&c_r;&c_ju;&c_ch;&c_o;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>háčiť</trd>,
+    <trd>ťažkosti</trd>
   </trdgrp>
 </drv>
 
@@ -258,7 +267,7 @@
         <trd lng="br">fri sparfell</trd>
       </ekz>
     </dif>
-  </snc>      
+  </snc>
   <trdgrp lng="br">
     <trd>krogek</trd>,
     <trd>kromm</trd>
@@ -266,6 +275,14 @@
   <trdgrp lng="ca">
     <trd>ganxut</trd>,
     <trd>corbat</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>opatřený hákem</trd>,
+    <trd>zahnutý</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+   <trd>ganchudo, -a</trd>, 
+   <trd>curvo<klr> (como anzuelo)</klr></trd> 
   </trdgrp>
   <trdgrp lng="fr">
     <trd>aquilin</trd>,
@@ -287,15 +304,15 @@
    <trd>adunco</trd>, 
    <trd>curvo<klr tip="amb"> (como anzol)</klr></trd> 
   </trdgrp>
-  <trdgrp lng="es">
-   <trd>ganchudo, -a</trd>, 
-   <trd>curvo<klr> (como anzuelo)</klr></trd> 
-  </trdgrp>
   <trdgrp lng="ru">
     <trd>
     &c_k;&c_r;&c_ju;&c_k;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;
     </trd>,
     <trd>&c_k;&c_r;&c_ju;&c_ch;&c_k;&c_o;&c_v;&c_a;&c_t;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hákovitý</trd>,
+    <trd>zahnutý</trd>
   </trdgrp>
 </drv>
 
@@ -375,6 +392,8 @@
     <trd lng="ca">corbar</trd>
     <trd lng="it">incurvare<klr> (piegare)</klr></trd>
   </snc>
+  <trd lng="cs">chytat <klr>(ryby)</klr> na udici</trd>
+  <trd lng="sk">zavesiť na vešiak</trd>
 </drv>
 
 <drv mrk="hok.fisx0i">
@@ -509,12 +528,13 @@
        </fnt>.
       </ekz>
     </dif>
-  </snc>             
+  </snc>
   <trdgrp lng="br">
     <trd>bazh-krog</trd>,
     <trd>goaf<klr tip="ind"> (bazh-krog)</klr></trd>
-  </trdgrp>  
-  <trd lng="ca">gafa</trd>      
+  </trdgrp>
+  <trd lng="ca">gafa</trd>
+  <trd lng="cs">tyč s hákem</trd>
   <trd lng="de">Hakenstange</trd>
   <trd lng="fr">gaffe<klr tip="ind"> (perche avec crochet)</klr></trd>
   <trd lng="hu">kamp&oacute;sbot</trd>
@@ -529,10 +549,17 @@
     <trd>os&eogonek;ka</trd>
   </trdgrp>
   <trd lng="ru">&c_b;&c_a;&c_g;&c_o;&c_r;</trd>
+  <trd lng="sk">tyč s hákom</trd>
 </drv>
 </art>
 <!--
 $Log: hok.xml,v $
+Revision 1.29  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.27  2013/12/28 19:10:09  revo
 Damien Brucker: +refgrp
 

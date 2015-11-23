@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trust.xml,v 1.13 2009/08/27 16:33:40 revo Exp $">
+<art mrk="$Id: trust.xml,v 1.15 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>trust</rad>/o
@@ -21,6 +21,10 @@
   </snc>
   <trd lng="be">&c_t;&c_r;&c_e;&c_s;&c_t;</trd>
   <trd lng="bg">&c_t;&c_r;&c_malmol;&c_s;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>trast</trd>,
+    <trd>trust</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Konzern</trd>
     <trd>Trust<klr tip="amb"> (Wirtschaft)</klr></trd>
@@ -34,10 +38,20 @@
   <trd lng="pl">trust</trd>
   <trd lng="pt">truste</trd>
   <trd lng="ru">&c_t;&c_r;&c_je;&c_s;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>trast</trd>,
+    <trd>trust</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: trust.xml,v $
+Revision 1.15  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2009/08/27 16:33:40  revo
 Russ Williams: +trd en
 

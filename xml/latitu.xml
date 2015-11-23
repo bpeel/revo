@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: latitu.xml,v 1.17 2009/08/24 16:31:39 revo Exp $">
+<art mrk="$Id: latitu.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>latitud</rad>/o
@@ -54,6 +54,11 @@
     </adm>
   </snc>
   <trd lng="be">&c_sh;&c_y;&c_r;&c_a;&c_t;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>délka</trd>,
+    <trd>latituda</trd>,
+    <trd>odchylka</trd>
+  </trdgrp>
   <trd lng="el">&gamma;&epsilon;&omega;&gamma;&rho;&alfa;&phi;&jota;&kappa;&omikron_ton; &pi;&lambda;&alfa_ton;&tau;&omikron;&sigma_fina;</trd>
   <trd lng="en">latitude</trd>
   <trd lng="es">latitud</trd>
@@ -61,6 +66,11 @@
   <trd lng="nl">breedte</trd>
   <trd lng="pt">latitude</trd>
   <trd lng="ru">&c_sh;&c_i;&c_r;&c_o;&c_t;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>dĺžka</trd>,
+    <trd>latitúda</trd>,
+    <trd>odchýlka</trd>
+  </trdgrp>
   <trd lng="tr">enlem</trd>
 </drv>
 
@@ -132,14 +142,22 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_l;&c_je;&c_l;&c_mol;
   <klr>(&c_g;&c_je;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>
+  <trd lng="cs">rovnoběžka zeměpisná</trd>
   <trd lng="de">Breitenkreis</trd>
   <trd lng="fr">parall&egrave;le<klr tip="ind"> (subst., g&eacute;og.)</klr></trd>
-  <trd lng="hu">sz&eacute;less&eacute;gi k&ouml;r</trd>  
+  <trd lng="hu">sz&eacute;less&eacute;gi k&ouml;r</trd>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">rovnobežka zemepisná</trd>
 </drv>
 </art>
 <!--
 $Log: latitu.xml,v $
+Revision 1.19  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2009/08/24 16:31:39  revo
 Emmanuel Debanne: +trd tr
 

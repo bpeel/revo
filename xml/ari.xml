@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ari.xml,v 1.17 2011/10/15 10:10:19 revo Exp $">
+<art mrk="$Id: ari.xml,v 1.18 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>ari</rad>/o
@@ -21,6 +21,10 @@
   <trd lng="be">&c_a;&c_r;&c_y;&c_ja;</trd>
   <trd lng="bg">&c_a;&c_r;&c_i;&c_ja;</trd>
   <trd lng="ca">&agrave;ria</trd>
+  <trdgrp lng="cs">
+    <trd>sólová píseň</trd>,
+    <trd>árie</trd>
+  </trdgrp>
   <trd lng="de">Arie</trd>
   <trd lng="en">aria</trd>
   <trd lng="es">aria</trd>
@@ -37,6 +41,9 @@
 </art>
 <!--
 $Log: ari.xml,v $
+Revision 1.18  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.17  2011/10/15 10:10:19  revo
 Behnam Tabatabai: +trd fa
 

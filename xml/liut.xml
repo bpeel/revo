@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: liut.xml,v 1.17 2013/09/08 18:11:31 revo Exp $">
+<art mrk="$Id: liut.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>liut</rad>/o <fnt><bib>PV</bib></fnt>
@@ -21,20 +21,28 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_ju;&c_t;&c_n;&c_ja;</trd>
+  <trd lng="cs">loutna</trd>
   <trd lng="de">Laute</trd>
   <trd lng="el">&lambda;&alfa;&omikron;&ypsilon_ton;&tau;&omikron;</trd>
   <trd lng="en">lute</trd>
   <trdgrp lng="fr">
     <trd>luth</trd>
   </trdgrp>
-  <trd lng="hu">lant</trd>  
+  <trd lng="hu">lant</trd>
   <trd lng="nl">luit</trd>
   <trd lng="pt">ala&uacute;de</trd>
   <trd lng="ru">&c_l;&c_ju;&c_t;&c_n;&c_ja;</trd>
+  <trd lng="sk">lutna</trd>
 </drv>
 </art>
 <!--
 $Log: liut.xml,v $
+Revision 1.19  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/09/08 18:11:31  revo
 Wolfram Diestel: ref al listo kordinstrumentoj
 

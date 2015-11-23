@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: font.xml,v 1.19 2012/05/24 17:10:09 revo Exp $">
+  <art mrk="$Id: font.xml,v 1.21 2015/07/04 08:37:34 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>font</rad>/o
@@ -105,21 +105,32 @@
           </ekz> 
         </dif>
       </snc>
-      <trd lng="be">&c_k;&c_r;&c_y;&c_n;&c_ib;&c_c;&c_a;</trd>
-      <trd lng="de">Quelle</trd>
-      <trd lng="en">spring</trd>
-      <trd lng="es">fuente</trd>
-      <trdgrp lng="fr">
+  <trd lng="be">&c_k;&c_r;&c_y;&c_n;&c_ib;&c_c;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>generátor</trd>,
+    <trd>pramen</trd>,
+    <trd>studánka</trd>,
+    <trd>zdroj</trd>
+  </trdgrp>
+  <trd lng="de">Quelle</trd>
+  <trd lng="en">spring</trd>
+  <trd lng="es">fuente</trd>
+  <trdgrp lng="fr">
         <trd>source</trd>,
         <trd>puits<klr tip="ind"> (de p&eacute;trole)</klr></trd>,
         <trd>cause<klr tip="ind"> (origine)</klr></trd>,
-        <trd>origine<klr tip="ind"> (source)</klr></trd></trdgrp> 
-      <trd lng="hu">forr&aacute;s</trd>    
-      <trd lng="nl">bron</trd>
-      <trd lng="pl">&zacute;r&oacute;d&lstroke;o</trd>
-      <trd lng="ru">&c_i;&c_s;&c_t;&c_o;&c_ch;&c_n;&c_i;&c_k;</trd>
-      <trd lng="sv">k&auml;lla</trd>
-    </drv>
+        <trd>origine<klr tip="ind"> (source)</klr></trd></trdgrp>
+  <trd lng="hu">forr&aacute;s</trd>
+  <trd lng="nl">bron</trd>
+  <trd lng="pl">&zacute;r&oacute;d&lstroke;o</trd>
+  <trd lng="ru">&c_i;&c_s;&c_t;&c_o;&c_ch;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>prameň</trd>,
+    <trd>zdroj</trd>,
+    <trd>žriedlo</trd>
+  </trdgrp>
+  <trd lng="sv">k&auml;lla</trd>
+</drv>
 
     <drv mrk="font.0i">
       <kap><tld/>i</kap>
@@ -154,19 +165,30 @@
         <trd lng="de">entspringen</trd>
         <trd lng="nl">ontspruiten</trd>
       </snc>
-      <trdgrp lng="fr">
+  <trdgrp lng="cs">
+    <trd>pramenit</trd>,
+    <trd>prýštit</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
         <trd>sourdre</trd>,
         <trd>surgir<klr tip="ind"> (sourdre)</klr></trd>,
         <trd>jaillir<klr tip="ind"> (sourdre)</klr></trd>,
         <trd>d&eacute;couler</trd>,
         <trd>prendre sa <ind>source</ind></trd>,
-        <trd>provenir</trd></trdgrp> 
-      <trd lng="hu">ered</trd>    
-      <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_s;&c_t;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
-    </drv>
+        <trd>provenir</trd></trdgrp>
+  <trd lng="hu">ered</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_s;&c_t;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">prameniť</trd>
+</drv>
   </art>
   <!--
   $Log: font.xml,v $
+  Revision 1.21  2015/07/04 08:37:34  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.20  2015/06/29 16:29:38  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.19  2012/05/24 17:10:09  revo
   Sergio Pokrovskij: +ekz
 

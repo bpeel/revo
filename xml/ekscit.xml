@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekscit.xml,v 1.23 2014/07/13 01:10:13 revo Exp $">
+<art mrk="$Id: ekscit.xml,v 1.25 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ekscit</rad>/i <fnt><bib>PV</bib></fnt>
@@ -82,6 +82,17 @@
     <trd>&c_u;&c_z;&c_r;&c_u;&c_sh;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">excitar</trd>
+  <trdgrp lng="cs">
+    <trd>dráždit</trd>,
+    <trd>excitovat</trd>,
+    <trd>hecovat</trd>,
+    <trd>podráždit</trd>,
+    <trd>popouzet</trd>,
+    <trd>rozbouřit</trd>,
+    <trd>rozrušovat</trd>,
+    <trd>rozčilovat</trd>,
+    <trd>vzrušovat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>anregen</trd>,
     <trd>erregen</trd>,
@@ -97,6 +108,11 @@
   </trdgrp>
   <trd lng="pt">excitar</trd>
   <trd lng="ru">&c_v;&c_o;&c_z;&c_b;&c_u;&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>pobúriť</trd>,
+    <trd>podráždiť</trd>,
+    <trd>vzrušiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ekscit.0igxema">
@@ -195,6 +211,7 @@
     <trd>&c_u;&c_z;&c_r;&c_u;&c_sh;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">excitaci&oacute;</trd>
+  <trd lng="cs">dráždivost</trd>
   <trd lng="de">Erregtheit</trd>
   <trd lng="es">excitaci&oacute;n</trd>
   <trd lng="fr">excitation<klr tip="ind"> (&eacute;tat)</klr></trd>
@@ -207,10 +224,21 @@
     <trd>irytacja</trd>
   </trdgrp>
   <trd lng="ru">&c_v;&c_o;&c_z;&c_b;&c_u;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>pobúrenie</trd>,
+    <trd>podráždenie</trd>,
+    <trd>vzrušenie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ekscit.xml,v $
+Revision 1.25  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2014/07/13 01:10:13  revo
 Jeromo Vasxe: + ~ema
 

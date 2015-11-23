@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arsena.xml,v 1.16 2014/03/14 02:10:20 revo Exp $">
+<art mrk="$Id: arsena.xml,v 1.19 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>arsenal</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -75,10 +75,27 @@
   <trd lng="it">arsenale</trd>
   <trd lng="ru">&c_a;&c_r;&c_s;&c_je;&c_n;&c_a;&c_l;</trd>
   <trd lng="sk">arzen&aacute;l</trd>
+  <trd lng="sk">arzenál, zbrojnica</trd>
+  <trd lng="sk">arzenál, zbrojnica</trd>
+  <trdgrp lng="cs">
+    <trd>arzenál</trd>,
+    <trd>sklad zbraní</trd>,
+    <trd>zbroj</trd>,
+    <trd>zbrojnice</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: arsena.xml,v $
+Revision 1.19  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2014/03/14 02:10:20  revo
 Jeromo Vasxe: + 1 snc
 

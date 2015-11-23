@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: modus.xml,v 1.9 2012/01/04 09:10:11 revo Exp $">
+<art mrk="$Id: modus.xml,v 1.11 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>modus</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -72,26 +72,26 @@ ref="http://ourworld.compuserve.com/homepages/Uli_Ender/e-esp01.htm#109"
     <trd lng="de">Modus</trd>
   </snc>
   <trd lng="ca">mode</trd>
+  <trdgrp lng="cs">
+    <trd>modus</trd>,
+    <trd>způsob</trd>
+  </trdgrp>
   <trd lng="fr"><klr>(le)</klr> <ind>mode</ind></trd>
   <trd lng="pt">modo</trd>
-  <rim>
-    Kelkaj vortaroj
-    <ekz>
-      <fnt><aut>Gaston Waringhien</aut>,
-      <vrk>Grand dictionnaire esp&eacute;ranto-fran&ccedil;ais</vrk>.
-      <lok>Paris, 1954.</lok></fnt>
-    </ekz>
-    indikas <ctl><tld/>o</ctl>n kiel sinonomon por
-    <ref tip="sin" cel="modal.0o">modalo</ref>. Mi tamen opinias
-    ke la internacia vortuzo ebligas klare apartigi la tre diversajn
-    sencojn de tiuj vortoformoj, kaj atribui al <ctl>modalo</ctl>
-    pli internacian kaj malpli eklektikan signifon.
-    <aut>Sergio Pokrovskij</aut>
-  </rim>
+  <trdgrp lng="sk">
+    <trd>modus</trd>,
+    <trd>spôsob</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: modus.xml,v $
+Revision 1.11  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2012/01/04 09:10:11  revo
 Marc Rausell: +trd ca
 

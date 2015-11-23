@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krizok.xml,v 1.10 2013/04/19 05:10:21 revo Exp $">
+<art mrk="$Id: krizok.xml,v 1.11 2015/08/22 15:10:24 revo Exp $">
 <kap>
   <rad>krizokal</rad>/o
 </kap>
@@ -10,15 +10,16 @@
   <kap>
     <tld/>o
   </kap>
+  <snc>
   <uzo tip="fak">KEM</uzo>
   <uzo tip="fak">TEK</uzo>
-  <snc>
     <dif>
       Alojo el kupro, zinko, stano kaj plumbo, kiu imitas oron.
     </dif>
   </snc>
   <trd lng="de">Goldkupfer</trd>
   <trd lng="en">pinchbeck</trd>
+  <trd lng="fr">chrysocale</trd>
   <trdgrp lng="hu">
     <trd>tombak</trd>,
     <trd>hamisarany</trd>
@@ -34,6 +35,9 @@
 </art>
 <!--
 $Log: krizok.xml,v $
+Revision 1.11  2015/08/22 15:10:24  revo
+Damien Brucker: +trd fr
+
 Revision 1.10  2013/04/19 05:10:21  revo
 Sebastian Cyprych: +trd pl
 
@@ -53,7 +57,5 @@ Revision 1.5  2001/11/07 19:17:36  revo
 Yury Finkel: +trd ru
 
 Revision 1.4  2001/06/21 18:11:43  revo
-Karlo Freeman: +trd=en
-
 -->
 </vortaro>

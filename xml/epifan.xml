@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: epifan.xml,v 1.17 2014/10/28 10:10:14 revo Exp $">
+  <art mrk="$Id: epifan.xml,v 1.19 2015/07/04 08:37:33 revo Exp $">
     <kap>
       <ofc>2</ofc>
       <rad>Epifani</rad>/o
@@ -60,27 +60,41 @@
           &c_G;&c_o;&c_s;&c_p;&c_o;&c_d;&c_n;&c_je;</trd>
         </subsnc>
       </snc>
-      <trd lng="bg">&c_B;&c_o;&c_g;&c_o;&c_ja;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
-      <trdgrp lng="de">
+  <trd
+      lng="grc">&epsilon_psili;&pi;&jota;&phi;&alfa_acute;&ny;&epsilon;&jota;&alfa;</trd>
+  <trd lng="bg">&c_B;&c_o;&c_g;&c_o;&c_ja;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>Zjevení Páně</trd>,
+    <trd>sv. Tří králů</trd>
+  </trdgrp>
+  <trdgrp lng="de">
          <trd>Epiphanie</trd>,
          <trd>Epiphaniasfest</trd>
       </trdgrp>
-      <trd lng="en">Epiphany</trd>
-      <trd lng="es">Epifan&iacute;a</trd>
-      <trd lng="fr">&Eacute;piphanie</trd>
-      <trd lng="id">Epifani</trd>
-      <trd
-      lng="grc">&epsilon_psili;&pi;&jota;&phi;&alfa_acute;&ny;&epsilon;&jota;&alfa;</trd>
-      <trdgrp lng="pl">
+  <trd lng="en">Epiphany</trd>
+  <trd lng="es">Epifan&iacute;a</trd>
+  <trd lng="fr">&Eacute;piphanie</trd>
+  <trd lng="id">Epifani</trd>
+  <trdgrp lng="pl">
         <trd>&sacute;wi&eogonek;to <ind>Trzech Kr&oacute;li</ind></trd>,
         <trd>Epifania</trd>
       </trdgrp>
-      <trd
+  <trd
       lng="ru">&c_B;&c_o;&c_g;&c_o;&c_ja;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>Zjavenie Pána</trd>,
+    <trd>sv. Troch kráľov</trd>
+  </trdgrp>
+</drv>
   </art>
   <!--
   $Log: epifan.xml,v $
+  Revision 1.19  2015/07/04 08:37:33  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.18  2015/06/29 16:29:37  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.17  2014/10/28 10:10:14  revo
   Eko Nur Syah Hidayat: +trd id
 

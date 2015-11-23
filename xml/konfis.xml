@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konfis.xml,v 1.15 2009/09/05 16:31:31 revo Exp $">
+<art mrk="$Id: konfis.xml,v 1.17 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>konfisk</rad>/i
@@ -47,6 +47,11 @@
       <trd>einziehen</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>konfiskovat</trd>,
+    <trd>zabavit ve prospěch státu</trd>,
+    <trd>zabrat ve prospěch státu</trd>
+  </trdgrp>
   <trd lng="en">confiscate</trd>
   <trd lng="es">confiscar</trd>
   <trdgrp lng="fr">
@@ -66,6 +71,10 @@
   </trdgrp>
   <trd lng="pt">confiscar</trd>
   <trd lng="ru">&c_k;&c_o;&c_n;&c_f;&c_i;&c_s;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>konfiškovať</trd>,
+    <trd>zhabať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konfis.0o">
@@ -75,6 +84,12 @@
       Ago <tld/>i.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>konfiskace</trd>,
+    <trd>zabavení</trd>,
+    <trd>zabrání ve prospěch státu</trd>,
+    <trd>zábor</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>confiscation</trd>,
     <trd>saisie<klr tip="ind"> (confiscation)</klr></trd>
@@ -88,10 +103,20 @@
     <trd>beslagname</trd>,
     <trd>beslaglegging</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konfiškácia</trd>,
+    <trd>zabavenie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: konfis.xml,v $
+Revision 1.17  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2009/09/05 16:31:31  revo
 Paul Peeraerts: +nl
 

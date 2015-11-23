@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stenog.xml,v 1.14 2012/05/25 14:10:08 revo Exp $">
+<art mrk="$Id: stenog.xml,v 1.16 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>stenograf</rad>/i <fnt><bib>PV</bib></fnt>
@@ -95,12 +95,17 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_e;&c_n;&c_a;&c_g;&c_r;&c_a;&c_f;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>psát těsnopisem</trd>,
+    <trd>stenografovat</trd>
+  </trdgrp>
   <trd lng="de">stenografieren</trd>
   <trd lng="fr">st&eacute;nographier</trd>
-  <trd lng="hu">gyors&iacute;r</trd>  
+  <trd lng="hu">gyors&iacute;r</trd>
   <trd lng="nl">stenograferen</trd>
   <trd lng="pl">stenografowa&cacute;</trd>
   <trd lng="ru">&c_s;&c_t;&c_je;&c_n;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">písať rýchlopisom</trd>
   <trd lng="sv">stenografera</trd>
 </drv>
 
@@ -154,6 +159,12 @@
 </art>
 <!--
 $Log: stenog.xml,v $
+Revision 1.16  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2012/05/25 14:10:08  revo
 Jeromo Vasxe: + 1 ref
 

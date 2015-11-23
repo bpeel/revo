@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kofakt.xml,v 1.5 2003/04/07 16:37:36 revo Exp $">
+<art mrk="$Id: kofakt.xml,v 1.7 2015/07/04 08:37:37 revo Exp $">
   <kap>
     <rad>kofaktor</rad>/o
   </kap>
@@ -24,17 +24,25 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_f;&c_a;&c_k;&c_t;&c_a;&c_r;</trd>
+  <trd lng="cs">algebraický doplněk m  doplněk determinantu  kofaktor m</trd>
   <trd lng="de">Kofaktor</trd>
   <trd lng="en">cofactor</trd>
   <trd lng="fr">cofacteur</trd>
   <trd lng="nl">cofactor</trd>
   <trd lng="pl">dope&lstroke;nienie algebraiczne<klr tip="ind"> (elementu macierzy)</klr></trd>
   <trd lng="ru">&c_k;&c_o;&c_f;&c_a;&c_k;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">algebrický doplnok</trd>
 </drv>
 </art>
 
 <!--
 $Log: kofakt.xml,v $
+Revision 1.7  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2003/04/07 16:37:36  revo
 Dmitri Gabinski: +trd be
 

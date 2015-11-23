@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sinus.xml,v 1.17 2010/07/05 16:30:32 revo Exp $">
+<art mrk="$Id: sinus.xml,v 1.19 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>sinus</rad>/o
   <fnt>Z</fnt>
@@ -60,14 +60,22 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_ib;&c_n;&c_u;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>dutina</trd>,
+    <trd>záhyb</trd>
+  </trdgrp>
   <trd lng="de">Sinus</trd>
   <trd lng="en">sine</trd>
   <trd lng="es">seno<klr tip="amb"> (matem&aacute;ticas)</klr></trd>
   <trd lng="fr">sinus</trd>
-  <trd lng="hu">szinusz</trd>  
-  <trd lng="pl">sinus</trd>
+  <trd lng="hu">szinusz</trd>
   <trd lng="nl">sinus</trd>
+  <trd lng="pl">sinus</trd>
   <trd lng="ru">&c_s;&c_i;&c_n;&c_u;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>dutina</trd>,
+    <trd>záhyb</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sinus.are0o">
@@ -168,6 +176,12 @@
 </art>
 <!--
 $Log: sinus.xml,v $
+Revision 1.19  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2010/07/05 16:30:32  revo
 Agustin Garcia Lopez: trd es
 

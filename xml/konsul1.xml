@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konsul1.xml,v 1.19 2013/12/10 16:10:17 revo Exp $">
+<art mrk="$Id: konsul1.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>konsult</rad>/i
@@ -25,12 +25,18 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="kek">aatinank</trd>
   <trdgrp lng="be">
     <trd>&c_k;&c_a;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_a;&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol; <ind>&c_k;&c_a;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_c;&c_y;&c_ju;</ind></trd>
   </trdgrp>
   <trd lng="bg">&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;&c_t;&c_i;&c_r;&c_a;&c_m; &c_s;&c_je;</trd>
   <trd lng="ca">consultar</trd>
+  <trdgrp lng="cs">
+    <trd>konzultovat <klr>(s)</klr></trd>,
+    <trd>poradit se (s)</trd>,
+    <trd>žádat o radu</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>konsultieren</trd>,
     <trd>befragen</trd>,
@@ -50,7 +56,11 @@
     <trd>&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja; <klr>(&c_u; &c_k;&c_o;&c_g;&c_o;-&c_l;.)</klr></trd>,
     <trd>&c_p;&c_o;&c_l;&c_u;&c_ch;&c_i;&c_t;&c_mol; &c_k;&c_o;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_c;&c_i;&c_ju; <klr>(&c_u; &c_k;&c_o;&c_g;&c_o;-&c_l;.)</klr></trd>
   </trdgrp>
-  <trd lng="kek">aatinank</trd>
+  <trdgrp lng="sk">
+    <trd>konzultovať</trd>,
+    <trd>poradiť sa <klr>(s)</klr></trd>,
+    <trd>žiadať o radu</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konsul1.0igxa">
@@ -91,6 +101,12 @@
 </art>
 <!--
 $Log: konsul1.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/12/10 16:10:17  revo
 Damien Brucker: +trd fr
 

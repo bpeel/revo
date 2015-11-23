@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aplik.xml,v 1.15 2012/11/29 21:10:08 revo Exp $">
+<art mrk="$Id: aplik.xml,v 1.17 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>aplik</rad>/i
@@ -62,6 +62,12 @@
       <trd>&c_k;&c_a;&c_r;&c_y;&c_s;&c_t;&c_a;&c_c;&c_mol;</trd> 
     </trdgrp>  
   </snc>
+  <trdgrp lng="cs">
+    <trd>aplikovat</trd>,
+    <trd>aplikovat</trd>,
+    <trd>použít</trd>,
+    <trd>upotřebit</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>anwenden</trd>,
      <trd>benutzen</trd>,
@@ -81,11 +87,21 @@
     <trd>&c_p;&c_r;&c_i;&c_m;&c_je;&c_n;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_i;&c_s;&c_p;&c_o;&c_l;&c_mol;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">aplikova&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>aplikova&tcaron;</trd>,
+    <trd>použiť</trd>,
+    <trd>uplatniť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: aplik.xml,v $
+Revision 1.17  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2012/11/29 21:10:08  revo
 Behnam Tabatabai: +trd fa
 

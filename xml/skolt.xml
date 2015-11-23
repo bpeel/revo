@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skolt.xml,v 1.18 2010/06/03 16:30:44 revo Exp $">
+<art mrk="$Id: skolt.xml,v 1.20 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>9</ofc>
   <rad>skolt</rad>/o
@@ -94,6 +94,13 @@ socjalistycznych)</klr></trd>
     </trdgrp>
     <trd lng="ru">&c_s;&c_k;&c_a;&c_u;&c_t;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>junák</trd>,
+    <trd>průzkumník</trd>,
+    <trd>pátrač</trd>,
+    <trd>vyzvědač</trd>
+  </trdgrp>
+  <trd lng="sk">prieskumná loď</trd>
 </drv>
 
 <drv mrk="skolt.0ismo">
@@ -108,7 +115,11 @@ socjalistycznych)</klr></trd>
       La idearo de la skolta movado.
     </dif>
   </snc>
-  <trd lng="be">&c_s;&c_k;&c_a;&c_w;&c_t;&c_y;&c_z;&c_m;</trd>  
+  <trd lng="be">&c_s;&c_k;&c_a;&c_w;&c_t;&c_y;&c_z;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>junáctví</trd>,
+    <trd>skauting</trd>
+  </trdgrp>
   <trd lng="de">Pfadfinderbewegung</trd>
   <trdgrp lng="en">
     <trd>scouting<klr> (male)</klr></trd>,
@@ -125,10 +136,17 @@ socjalistycznych)</klr></trd>
   </trdgrp>
   <trd lng="pt">escotismo</trd>
   <trd lng="ru">&c_s;&c_k;&c_a;&c_u;&c_t;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">skautské hnutie</trd>
 </drv>
 </art>
 <!--
 $Log: skolt.xml,v $
+Revision 1.20  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2010/06/03 16:30:44  revo
 Antonio Codazzi: ++trd it [~o (mil.)]
 

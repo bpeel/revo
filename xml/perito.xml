@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: perito.xml,v 1.19 2011/12/05 00:10:19 revo Exp $">
+<art mrk="$Id: perito.xml,v 1.21 2015/07/04 08:37:41 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>peritone</rad>/o
@@ -16,37 +16,48 @@
      </dif>
      <trd lng="en">peritoneum</trd>
    </snc>
-   <trd lng="be">&c_b;&c_r;&c_u;&c_h;&c_a;&c_v;&c_ib;&c_n;&c_a;</trd>  
-   <trd lng="bg">&c_k;&c_o;&c_r;&c_je;&c_m;&c_n;&c_i;&c_c;&c_a;</trd>
-   <trdgrp lng="br">
+  <trd lng="be">&c_b;&c_r;&c_u;&c_h;&c_a;&c_v;&c_ib;&c_n;&c_a;</trd>
+  <trd lng="bg">&c_k;&c_o;&c_r;&c_je;&c_m;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trdgrp lng="br">
      <trd>rouedenn ar bouzello&ugrave;</trd>,
      <trd>rouedenn-gof</trd>
    </trdgrp>
-   <trd lng="ca">peritoneu</trd>
-   <trdgrp lng="de">
+  <trd lng="ca">peritoneu</trd>
+  <trdgrp lng="cs">
+    <trd>peritoneum</trd>,
+    <trd>pobřišnice</trd>
+  </trdgrp>
+  <trdgrp lng="de">
      <trd>Bauchfell</trd>,
      <trd>Peritoneum</trd>
-   </trdgrp>               
-   <trd lng="es">peritoneo</trd>
-   <trdgrp lng="fa">
+   </trdgrp>
+  <trd lng="es">peritoneo</trd>
+  <trdgrp lng="fa">
      <trd>&a_S;&a_f;&a_A;&a_q;</trd>,
      <trd>&f_p;&a_r;&a_d;&a_h;&a_hamza_sure; &a_S;&a_f;&a_A;&a_q;</trd>
    </trdgrp>
-   <trd lng="fr">p&eacute;ritoine</trd>
-   <trdgrp lng="hu">
+  <trd lng="fr">p&eacute;ritoine</trd>
+  <trdgrp lng="hu">
      <trd>hash&aacute;rtya</trd>,
      <trd>peritoneum</trd>
    </trdgrp>
-   <trd lng="it">peritoneo</trd>
-   <trd lng="la">peritoneum</trd>
-   <trd lng="nl">buikvlies</trd>
-   <trd lng="pl">otrzewna</trd>
-   <trd lng="pt">perit&ocirc;nio</trd>
-   <trd lng="ru">&c_b;&c_r;&c_ju;&c_sh;&c_i;&c_n;&c_a;</trd>
+  <trd lng="it">peritoneo</trd>
+  <trd lng="la">peritoneum</trd>
+  <trd lng="nl">buikvlies</trd>
+  <trd lng="pl">otrzewna</trd>
+  <trd lng="pt">perit&ocirc;nio</trd>
+  <trd lng="ru">&c_b;&c_r;&c_ju;&c_sh;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sk">pobrušnica</trd>
 </drv>
 </art>
 <!--
 $Log: perito.xml,v $
+Revision 1.21  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2011/12/05 00:10:19  revo
 Marc Rausell: kataluna traduko
 

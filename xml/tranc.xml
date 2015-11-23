@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tranc.xml,v 1.13 2014/11/01 18:10:17 revo Exp $">
+<art mrk="$Id: tranc.xml,v 1.15 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <rad>tranc</rad>/o
 </kap>
@@ -18,6 +18,11 @@
   </snc>
   <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;</trd>
   <trd lng="ca">tr&agrave;nsit</trd>
+  <trdgrp lng="cs">
+    <trd>bezvědomí</trd>,
+    <trd>polospánek</trd>,
+    <trd>trans</trd>
+  </trdgrp>
   <trd lng="de">Trance</trd>
   <trd lng="en">trance</trd>
   <trd lng="es">trance</trd>
@@ -28,10 +33,21 @@
   <trd lng="nl">trance</trd>
   <trd lng="pt">transe</trd>
   <trd lng="ru">&c_t;&c_r;&c_a;&c_n;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>bezvedomie</trd>,
+    <trd>polospánok</trd>,
+    <trd>tranz</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: tranc.xml,v $
+Revision 1.15  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2014/11/01 18:10:17  revo
 Damien Brucker: +trd fr
 

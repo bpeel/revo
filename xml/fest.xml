@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fest.xml,v 1.31 2014/09/07 11:10:12 revo Exp $">
+<art mrk="$Id: fest.xml,v 1.37 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fest</rad>/o <fnt><bib>PV</bib></fnt>
@@ -25,7 +25,8 @@
         foira <tld/>o;
       </ekz>
       <ekz>
-        <tld/>otago.
+        <ind><tld/>otago</ind>.
+        <trd lng="zh">&#33410;&#26085; [<ind>ji&eacute; r&igrave;</ind>]</trd>
       </ekz>
     </dif>
     <lstref lst="voko:festoj">festoj</lstref>
@@ -38,14 +39,17 @@
     <trd>&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_a;</trd>,
     <trd>&c_f;&c_e;&c_s;&c_t;</trd>
   </trdgrp>
-  <trd lng="cs">sv&aacute;tek</trd>
+  <trdgrp lng="cs">
+    <trd>slavnost</trd>,
+    <trd>sv&aacute;tek</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Fest</trd>,
     <trd>Feier</trd>,
     <trd>Fete</trd>
   </trdgrp>
-  <trd lng="fr">f&ecirc;te</trd>
   <trd lng="es">fiesta</trd>
+  <trd lng="fr">f&ecirc;te</trd>
   <trd lng="hu">&uuml;nnep</trd>
   <trd lng="id">pesta</trd>
   <trd lng="it">festa</trd>
@@ -58,6 +62,10 @@
   </trdgrp>
   <trd lng="ro">s&abreve;rb&abreve;toare</trd>
   <trd lng="ru">&c_p;&c_r;&c_a;&c_z;&c_d;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>sl&aacute;vnos&tcaron;</trd>,
+    <trd>sviatok</trd>
+  </trdgrp>
   <trd lng="sv">fest</trd>
 </drv>
 
@@ -84,7 +92,12 @@
       <ref cel="solen.0i">soleni</ref>
     </refgrp>
   </snc>
-  <trd lng="be">&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd
+  lng="be">&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>oslavit</trd>,
+    <trd>slavit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>feiern</trd>,
     <trd>feierlich begehen</trd>
@@ -96,11 +109,41 @@
   <trd lng="id">[<ind>pesta</ind>] berpesta</trd>
   <trd lng="nl">feesten</trd>
   <trd lng="pl">&sacute;wi&eogonek;towa&cacute;</trd>
-  <trd lng="ru">&c_p;&c_r;&c_a;&c_z;&c_d;&c_n;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd
+  lng="ru">&c_p;&c_r;&c_a;&c_z;&c_d;&c_n;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>sl&aacute;vi&tcaron;</trd>,
+    <trd>sv&auml;ti&tcaron;</trd>
+  </trdgrp>
   <trdgrp lng="sv">
     <trd>fira</trd>,
     <trd>festa</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#24198;&#31069; [<ind>q&igrave;ng zh&ugrave;</ind>]</trd>
+    <trd>&#36807;<klr>(&#33410;)</klr> [<ind>gu&ograve;</ind>]</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fest.kun0i">
+  <kap>kun<tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="fest.kun0i.KOMUNE">
+    <dif>
+      Plurope, komune <tld/>i:
+      <ekz>
+        &ccirc;iujunie mi iras kun<tld/>i unu a&ubreve; e&ccirc; plurajn
+        
+        jubileajn renkonti&gcirc;ojn
+        <fnt>
+          <aut>Zdenka</aut>,
+          <vrk>Miaj lernantoj estas miaj infanoj</vrk>,
+          <lok>en: Vivprotokoloj, 2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">f&ecirc;ter ensemble</trd>
 </drv>
 
 <drv mrk="fest.pri0i">
@@ -111,11 +154,11 @@
       <tld lit="F"/>i pro homo, okaza&jcirc;o, kiun oni honoras
       a&ubreve; memorigas:
       <ekz>
-        pri<tld/>i la jar&scirc;an&gcirc;on sole en la naturo, man&gcirc;ante en nia tendo
-        
-        pasta&jcirc;ojn kun tomata sa&ubreve;co neniel romantikas
+        pri<tld/>i la jar&scirc;an&gcirc;on sole en la naturo,
+        man&gcirc;ante en nia tendo pasta&jcirc;ojn kun tomata
+        sa&ubreve;co neniel romantikas
         <fnt>
-          <aut>C. Pinardon. R. Sanz</aut>,
+          <aut>C. Pinardon, R. Sanz</aut>,
           <vrk><url
           ref="http://horizonto.free.fr/rakontoj/18-indonezio.html">
           Du Bicikloj je la Horizonto</url></vrk>,
@@ -124,12 +167,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">homenajear</trd>
   <trdgrp lng="fr">   
     <trd>c&eacute;l&eacute;brer</trd>,
     <trd>f&ecirc;ter<klr> (tr. qqch, qqun)</klr></trd>
   </trdgrp>
   <trd lng="id">[<ind>raya</ind>] merayakan</trd>
-  <trd lng="pl">obchodzi&cacute; <klr>(&sacute;wi&eogonek;towa&cacute;)</klr></trd>
+  <trd lng="pl">obchodzi&cacute;
+  <klr>(&sacute;wi&eogonek;towa&cacute;)</klr></trd>
 </drv>
 
 <drv mrk="fest.dekduopa0o">
@@ -139,7 +184,8 @@
     <uzo tip="fak">KRI</uzo>
     <dif>
       En <ref tip="malprt" cel="krist.orienta0anismo">orienta
-      kristanisimo</ref>, &ccirc;iu el la dek du speciale gravaj <tld/>oj:
+      kristanisimo</ref>, &ccirc;iu el la dek du speciale gravaj
+      <tld/>oj:
       <ekz>
         Kristnasko kaj Epifanio estas dekduopaj <tld/>oj;
       </ekz>
@@ -152,7 +198,9 @@
   </snc>
   <!-- tez tip="listo" mrk="fest.dekduopaj0oj"
   cel="krist.0anismo">La dekduopaj festoj</tez --> 
-  <trd lng="ru">&c_d;&c_v;&c_u;&c_n;&c_a;&c_d;&c_je;&c_s;&c_ja;&c_t;&c_y;&c_j; &c_p;&c_r;&c_a;&c_z;&c_d;&c_n;&c_i;&c_k;</trd>
+  <trd
+  lng="ru">&c_d;&c_v;&c_u;&c_n;&c_a;&c_d;&c_je;&c_s;&c_ja;&c_t;&c_y;&c_j;
+  &c_p;&c_r;&c_a;&c_z;&c_d;&c_n;&c_i;&c_k;</trd>
 </drv>
 
 <drv mrk="fest.dipatrina0o">
@@ -171,8 +219,14 @@
   </snc>
   <!-- tez tip="listo" mrk="fest.dipatrinaj0oj"
   cel="krist.0anismo">La dipatrinaj festoj</tez -->
+  <trdgrp lng="es">
+    <trd>fiesta de la Virgen</trd>,
+    <trd>fiesta de la madre de Dios</trd>
+  </trdgrp>
   <trd lng="fr">f&ecirc;te mariale</trd>
-  <trd lng="ru">&c_b;&c_o;&c_g;&c_o;&c_r;&c_o;&c_d;&c_i;&c_ch;&c_n;&c_y;&c_j; &c_p;&c_r;&c_a;&c_z;&c_d;&c_n;&c_i;&c_k;</trd>
+  <trd
+  lng="ru">&c_b;&c_o;&c_g;&c_o;&c_r;&c_o;&c_d;&c_i;&c_ch;&c_n;&c_y;&c_j;
+  &c_p;&c_r;&c_a;&c_z;&c_d;&c_n;&c_i;&c_k;</trd>
 </drv>
 
 <drv mrk="fest.0odelauxboj">
@@ -184,7 +238,8 @@
       lst="voko:festoj">festo</ref>, 
       dum kiu oni tradicie restas sub la&ubreve;bo a&ubreve; en kabano
       memorige pri la bibliaj Eliro kaj migrado tra la dezerto;
-      anka&ubreve; nomata <ref tip="sin" cel="sukot.0o.JUD">Sukoto</ref>:
+      anka&ubreve; nomata <ref tip="sin"
+      cel="sukot.0o.JUD">Sukoto</ref>:
       <ekz>
         diru al la Izraelidoj jene: Komencante de la dek-kvina tago de 
         tiu sepa monato estu <tld/>o de la&ubreve;boj dum sep tagoj
@@ -207,6 +262,29 @@
   </trdgrp>
 </drv>
 
+<drv mrk="fest.geedzigxo0o">
+  <kap>geedzi&gcirc;o<tld/>o,
+  <var><kap>geedzi&gcirc;<tld/>o</kap></var></kap>
+  <snc mrk="fest.geedzigxo0o.MOR">
+    <dif>
+      Privata
+      <ref tip="lst" cel="fest.0o" lst="voko:festoj"><tld/>o</ref>
+      farata okaze de
+      <ref tip="vid" cel="edz.ge0igxi.GEN">geedzi&gcirc;o</ref>;
+      <ref tip="sin" cel="nupt.0o.MOR">nupto</ref>:
+      <ekz>
+        nia geedzi&gcirc;<tld/>o estis organizita en la domo de 
+        miaj bogepatroj
+        <fnt>
+          <aut>Jianhuo</aut>,
+          <vrk>&Ccirc;ina sekreto</vrk>,
+          <lok>en: Vivprotokoloj, 2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+</drv>
+
 <drv mrk="fest.masko0o">
   <kap>masko<tld/>o</kap>
   <snc mrk="fest.masko0o.KOMUNE">
@@ -225,7 +303,8 @@
       </ekz>
       <ekz>
         tri knaboj <klr>...</klr> vizitas fantazian masko<tld/>on en kiu
-        okazas strangaj aferoj: la lo&gcirc;antoj de la domo estas spirito,
+        okazas strangaj aferoj: la lo&gcirc;antoj de la domo estas
+        spirito,
         diablo kaj aliaj fantomoj
         <fnt>
         <aut>UEA</aut>,
@@ -236,6 +315,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>maškara</trd>,
+    <trd>maškarní rej</trd>,
+    <trd>maškaráda</trd>,
+    <trd>mumraj</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Kost&uuml;mfest</trd>,
     <trd>Maskenball</trd>
@@ -246,6 +331,10 @@
   <trdgrp lng="pl">
     <trd>bal maskowy</trd>,
     <trd>maskarada</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ma&scaron;karn&yacute; ples</trd>,
+    <trd>ma&scaron;kar&aacute;da</trd>
   </trdgrp>
 </drv>
 
@@ -264,11 +353,16 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>jmeniny</trd>,
+    <trd>oslava jmenin</trd>
+  </trdgrp>
   <trd lng="es">onom&aacute;stica</trd>
   <trd lng="fr">f&ecirc;te<klr> (d'un pr&eacute;nom)</klr></trd>
   <trd lng="pl">imieniny</trd>
   <trd lng="ro">zi onomastic&abreve;</trd>
   <trd lng="ru">&c_i;&c_m;&c_je;&c_n;&c_i;&c_n;&c_y;</trd>
+  <trd lng="sk">meniny</trd>
 </drv>
 
 <drv mrk="fest.saturno0o">
@@ -283,7 +377,8 @@
       dedi&ccirc;ita al la dio Saturno, kun konfuzo de sociaj roloj kaj 
       dibo&ccirc;o:
       <ekz>
-        longe anta&ubreve; la komenco de la Saturna <tld/>o, mi jam sciis, ke 
+        longe anta&ubreve; la komenco de la Saturna <tld/>o, mi jam
+        sciis, ke 
         alproksimi&gcirc;as ia &gcirc;oja okazo
         <fnt>
           <aut>A. L&ouml;wenstein</aut>,
@@ -315,6 +410,24 @@
 </art>
 <!--
 $Log: fest.xml,v $
+Revision 1.37  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.36  2015/07/03 08:10:16  revo
+Darcy Shen: + trd zh
+
+Revision 1.35  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.34  2015/04/02 04:10:15  revo
+Carlos Garcia: +trd es pri- dipatrina
+
+Revision 1.33  2015/01/10 18:10:44  revo
+Jeromo Vasxe: + geedzigxo~o
+
+Revision 1.32  2015/01/10 06:11:01  revo
+Jeromo Vasxe: + kun~i
+
 Revision 1.31  2014/09/07 11:10:12  revo
 Carlos Garcia: +trd es saturna - mask- nom- -de lauxboj
 
@@ -322,20 +435,5 @@ Revision 1.30  2014/06/18 16:10:22  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.29  2013/09/08 15:10:44  revo
-Wolfram Diestel: ref al listo festoj
-
-Revision 1.28  2013/04/11 10:10:20  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.27  2011/05/18 22:10:08  revo
-Jeromo Vasxe: + ~o de lauxboj
-
-Revision 1.26  2011/04/12 20:10:15  revo
-Jeromo Vasxe: + pri~i
-
-Revision 1.25  2011/03/24 09:10:10  revo
-Larry Gilbert: +trd en
-
-Revision 1.24  2007/06/27 16:30:57  revo
 -->
 </vortaro>

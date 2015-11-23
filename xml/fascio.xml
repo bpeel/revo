@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fascio.xml,v 1.13 2012/07/31 09:10:41 revo Exp $">
+<art mrk="$Id: fascio.xml,v 1.15 2015/07/04 08:37:34 revo Exp $">
 <kap>
 <rad>fasciol</rad>/o
 </kap>
@@ -22,10 +22,14 @@
     <trd>distoma hep&agrave;tic</trd>,
     <trd>g&egrave;nere Fasciola</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>fasciola</trd>,
+    <trd>motolice</trd>
+  </trdgrp>
   <trd lng="de">Leberegel</trd>
   <trdgrp lng="fr">
     <trd>douve<klr tip="ind"> (ver)</klr></trd>,
-    <trd>fasciole</trd></trdgrp> 
+    <trd>fasciole</trd></trdgrp>
   <trd lng="hu">m&aacute;jm&eacute;tely</trd>
   <trd lng="nl">leverbot</trd>
   <trdgrp lng="pt">
@@ -36,10 +40,17 @@
     <trd>saguaip&eacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_l;&c_o;&c_s;&c_k;&c_i;&c_j; &c_g;&c_l;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">pečeňová motolica <klr>(hlísta)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: fascio.xml,v $
+Revision 1.15  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2012/07/31 09:10:41  revo
 Marc Rausell: + trd ca
 

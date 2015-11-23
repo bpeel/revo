@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: deklin.xml,v 1.18 2012/09/04 09:10:14 revo Exp $">
+<art mrk="$Id: deklin.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>deklinaci</rad>/o
@@ -25,6 +25,12 @@
   <trd
   lng="be">&c_s;&c_k;&c_l;&c_a;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="ca">declinaci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>deklinace</trd>,
+    <trd>naklonění</trd>,
+    <trd>sehnutí</trd>,
+    <trd>sklon</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Deklination</trd>,
     <trd>Beugung</trd>
@@ -47,7 +53,11 @@
   </trdgrp>
   <trd lng="pt">declina&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_s;&c_k;&c_l;&c_o;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
-  <trd lng="sk">p&aacute;d <klr>(gramatick&yacute;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>naklonenie</trd>,
+    <trd>p&aacute;d <klr>(gramatick&yacute;)</klr></trd>,
+    <trd>sklon</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="deklin.0i">
@@ -60,6 +70,10 @@
   </snc>
   <trd lng="be">&c_s;&c_k;&c_l;&c_a;&c_n;&c_ja;&c_c;&c_mol;</trd>
   <trd lng="ca">declinar<klr> (gram.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>deklinovat</trd>,
+    <trd>skloňovat</trd>
+  </trdgrp>
   <trd lng="de">durchdeklinieren</trd>
   <trd lng="en">decline</trd>
   <trd lng="es">declinar</trd>
@@ -77,6 +91,12 @@
 </art>
 <!--
 $Log: deklin.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/09/04 09:10:14  revo
 Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hero.xml,v 1.31 2011/12/03 18:10:17 revo Exp $">
+<art mrk="$Id: hero.xml,v 1.33 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hero</rad>/o
@@ -87,6 +87,13 @@
   <trd lng="be">&c_g;&c_je;&c_r;&c_o;&c_j;</trd>
   <trd lng="br">haroz</trd>
   <trd lng="ca">heroi</trd>
+  <trdgrp lng="cs">
+    <trd>bohatýr</trd>,
+    <trd>heroj</trd>,
+    <trd>hrdina</trd>,
+    <trd>héros</trd>,
+    <trd>rek</trd>
+  </trdgrp>
   <trd lng="de">Held</trd>
   <trd lng="el">&eta_ton;&rho;&omega;&alfa;&sigma_fina;</trd>
   <trd lng="en">hero</trd>
@@ -102,6 +109,10 @@
   <trd lng="pl">bohater</trd>
   <trd lng="pt">her&oacute;i</trd>
   <trd lng="ru">&c_g;&c_je;&c_r;&c_o;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>bohatier</trd>,
+    <trd>hrdina</trd>
+  </trdgrp>
   <trd lng="sv">hj&auml;lte</trd>
 </drv>
 
@@ -172,6 +183,11 @@
     <trd>kadarnded</trd>
   </trdgrp>
   <trd lng="ca">heroisme</trd>
+  <trdgrp lng="cs">
+    <trd>hrdinskost <klr>(vlastnost)</klr></trd>,
+    <trd>hrdinství</trd>,
+    <trd>junáctví</trd>
+  </trdgrp>
   <trd lng="de">Heldentum</trd>
   <trd lng="en">heroism</trd>
   <trd lng="es">heroicidad</trd>
@@ -191,6 +207,10 @@
   </trdgrp>
   <trd lng="pt">hero&iacute;smo</trd>
   <trd lng="ru">&c_g;&c_je;&c_r;&c_o;&c_i;&c_z;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>heroizmus</trd>,
+    <trd>hrdinskosť</trd>
+  </trdgrp>
   <trd lng="sv">hj&auml;ltemod</trd>
 </drv>
 
@@ -206,6 +226,10 @@
     </dif>
   </snc>
   <trd lng="ca">hero&iuml;na</trd>
+  <trdgrp lng="cs">
+    <trd>heroina</trd>,
+    <trd>hrdinka</trd>
+  </trdgrp>
   <trd lng="de">Heldin</trd>
   <trd lng="en">heroine</trd>
   <trd lng="fr">h&eacute;ro&iuml;ne<klr tip="amb">
@@ -216,6 +240,7 @@
   <trdgrp lng="pl">
     <trd>bohaterka</trd>
   </trdgrp>
+  <trd lng="sk">heroín</trd>
 </drv>
 
 <drv mrk="hero.super0o">
@@ -247,6 +272,12 @@
 </art>
 <!--
 $Log: hero.xml,v $
+Revision 1.33  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.31  2011/12/03 18:10:17  revo
 Marc Rausell: kataluna traduko
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: protop.xml,v 1.12 2014/04/09 13:10:22 revo Exp $">
+<art mrk="$Id: protop.xml,v 1.14 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <rad>protoplasm</rad>/o
   <fnt>Z</fnt>
@@ -18,6 +18,10 @@
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_t;&c_a;&c_p;&c_l;&c_ja;&c_z;&c_m;&c_a;</trd>
   <trd lng="ca">protoplasma</trd>
+  <trdgrp lng="cs">
+    <trd>protoplazma</trd>,
+    <trd>tkáňový mok</trd>
+  </trdgrp>
   <trd lng="de">Protoplasma</trd>
   <trdgrp lng="fa">
     <trd>&a_d;&a_r;&a_w;&a_n;&zwnj;&f_y;&a_A;&a_kh;&a_t;&a_h;</trd>,
@@ -31,10 +35,17 @@
   <trd lng="pt">protoplasma</trd>
   <trd
 lng="ru">&c_p;&c_r;&c_o;&c_t;&c_o;&c_p;&c_l;&c_a;&c_z;&c_m;&c_a;</trd>
+  <trd lng="sk">protoplazma</trd>
 </drv>
 </art>
 <!--
 $Log: protop.xml,v $
+Revision 1.14  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2014/04/09 13:10:22  revo
 Damien Brucker: +trd fr
 

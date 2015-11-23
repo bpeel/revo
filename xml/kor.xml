@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kor.xml,v 1.37 2014/05/31 16:10:26 revo Exp $">
+<art mrk="$Id: kor.xml,v 1.43 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kor</rad>/o <fnt><bib>PV</bib></fnt>
@@ -30,6 +30,7 @@
         <klr>(pro fizika a&ubreve; morala angoro)</klr>.
       </ekz>
     </dif>
+    <trd lng="zh">心脏 [<ind>xīn zàng</ind>]</trd>
   </snc>
   <snc mrk="kor.0o.FIG">
     <dif>
@@ -156,11 +157,19 @@
         Parizo estas la <tld/>o de Francujo<fnt>B</fnt>
       </ekz>
     </dif>
-    <trd lng="zh">&#20013;&#24515;<klr> [zh&#333;ngx&#299;n]</klr></trd>
+    <trdgrp lng="zh">
+      <trd>中心 [<ind>zhōng xīn</ind>]</trd>,
+      <trd>核心 [<ind>hé xīn</ind>]</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_e;&c_r;&c_c;&c_a;</trd>
   <trd lng="bg">&c_s;&c_malmol;&c_r;&c_c;&c_je;</trd>
-  <trd lng="cs">srdce</trd>
+  <trdgrp lng="cs">
+    <trd>břevnonoš</trd>,
+    <trd>karyatida</trd>,
+    <trd>kóra</trd>,
+    <trd>srdce</trd>
+  </trdgrp>
   <trd lng="de">Herz</trd>
   <trd lng="en">heart</trd>
   <trd lng="es">coraz&oacute;n</trd>
@@ -170,7 +179,8 @@
   </trdgrp>
   <trd lng="fr">c&oelig;ur</trd>
   <trd lng="he">&lamed;&bet;</trd>
-  <trd lng="hu">sz&iacute;v</trd><trdgrp lng="id">
+  <trd lng="hu">sz&iacute;v</trd>
+  <trdgrp lng="id">
     <trd>hati</trd>,
     <trd>jantung</trd>
   </trdgrp>
@@ -179,9 +189,13 @@
   <trd lng="pl">serce</trd>
   <trd lng="pt">cora&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_s;&c_je;&c_r;&c_d;&c_c;&c_je;</trd>
-  <trd lng="vo">lad</trd>
+  <trdgrp lng="sk">
+    <trd>chór</trd>,
+    <trd>spevácka zbor</trd>
+  </trdgrp>
   <trd lng="sv">hj&auml;rta</trd>
-  <trd lng="zh">&#24515;<klr> [x&#299;n]</klr></trd>
+  <trd lng="vo">lad</trd>
+  <trd lng="zh">心 [<ind>xīn</ind>]</trd>
 </drv>
 
 <drv mrk="kor.0a">
@@ -218,6 +232,11 @@
     <trd lng="it">cordiale</trd>
   </snc>
   <trd lng="be">&c_s;&c_a;&c_r;&c_d;&c_e;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>chórický</trd>,
+    <trd>chórový</trd>,
+    <trd>sborový</trd>
+  </trdgrp>
   <trd lng="de">herzlich</trd>
   <trd lng="es">cordial</trd>
   <trd lng="fa">&a_q;&a_l;&a_b;&f_y;</trd>
@@ -229,6 +248,10 @@
   </trdgrp>
   <trd lng="pl">serdeczny</trd>
   <trd lng="ru">&c_s;&c_je;&c_r;&c_d;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>chórový</trd>,
+    <trd>zborový</trd>
+  </trdgrp>
   <trd lng="sv">hj&auml;rtlig</trd>
   <trd lng="vo">ladlik</trd>
 </drv>
@@ -240,8 +263,10 @@
       Varme amika teni&gcirc;o.
     </dif>
   </snc>
+  <trd lng="cs">srdečnost</trd>
   <trd lng="es">cordialidad</trd>
   <trd lng="fr">cordialit&eacute;</trd>
+  <trd lng="sk">srdečnosť</trd>
 </drv>
 
 <drv mrk="kor.bon0a">
@@ -259,6 +284,10 @@
     <trd>&c_s;&c_a;&c_r;&c_d;&c_e;&c_ch;&c_n;&c_y;</trd>,
     <trd>&c_d;&c_o;&c_b;&c_r;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bodrý</trd>,
+    <trd>dobrosrdečný</trd>
+  </trdgrp>
   <trd lng="de">gutherzig</trd>
   <trdgrp lng="fa">
     <trd>&a_kh;&a_w;&a_sh;&zwnj;&a_q;&a_l;&a_b;</trd>,
@@ -270,6 +299,7 @@
   </trdgrp>
   <trd lng="he">&tet;&vav;&bet;-&lamed;&bet;</trd>
   <trd lng="hu">j&oacute;sz&iacute;v&udblac;</trd>
+  <trd lng="id"><ind>baik</ind> hati</trd>
   <trdgrp lng="it">
     <trd>benevolente</trd>,
     <trd>gentile</trd>
@@ -280,7 +310,29 @@
     <trd>&c_d;&c_o;&c_b;&c_r;&c_y;&c_j;</trd>,
     <trd>&c_d;&c_o;&c_b;&c_r;&c_o;&c_s;&c_je;&c_r;&c_d;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">dobrosrdečný</trd>
   <trd lng="sv">godhj&auml;rtad</trd>
+</drv>
+
+<drv mrk="kor.bon0eco">
+  <kap>bon<tld/>eco</kap>
+  <snc mrk="kor.bon0eco.KOMUNE">
+    <dif>
+      Karaktero de homo bon<tld/>a, bonvolema, helpema:
+      <ekz>
+        en mi estas nenio, kio meritas vian bon<tld/>econ 
+        kaj afablecon
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">dobrosrdečnost</trd>
+  <trd lng="fr">bont&eacute;</trd>
+  <trd lng="sk">dobrosrdečnosť</trd>
 </drv>
 
 <drv mrk="kor.el0a">
@@ -298,8 +350,10 @@
         </fnt>.
       </ekz>
   </snc>
+  <trd lng="cs">srdečný</trd>
   <trd lng="fr">cordial<klr> (adj.)</klr></trd>
   <trd lng="it">cordiale</trd>
+  <trd lng="sk">srdečný</trd>
 </drv>
 
 <drv mrk="kor.favor0eco">
@@ -320,6 +374,10 @@
     <trd>&c_l;&c_a;&c_s;&c_k;&c_a;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_h;&c_ib;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>laskavost</trd>,
+    <trd>náklonnost</trd>
+  </trdgrp>
   <trdgrp lng="fa">
     <trd>&a_r;&a_H;&a_m;&a_t;</trd>,
     <trd>&a_d;&a_l;&a_s;&a_w;&a_z;&f_y;</trd>
@@ -337,6 +395,10 @@
     <trd>piet&agrave;</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_i;&c_l;&c_o;&c_s;&c_je;&c_r;&c_d;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>láskavosť</trd>,
+    <trd>náklonnosť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kor.favor0i">
@@ -378,7 +440,12 @@
       Senkompata, kruela, indiferenta anta&ubreve; sufero de aliaj homoj.
     </dif>
   </snc>
-  <trd lng="be">&c_b;&c_je;&c_s;&c_s;&c_a;&c_r;&c_d;&c_e;&c_ch;&c_n;&c_y;</trd>
+  <trd 
+lng="be">&c_b;&c_je;&c_s;&c_s;&c_a;&c_r;&c_d;&c_e;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>bezcitný</trd>,
+    <trd>otrlý</trd>
+  </trdgrp>
   <trd lng="de">herzlos</trd>
   <trdgrp lng="fa">
     <trd>&a_s;&a_n;&f_g;&a_d;&a_l;</trd>
@@ -397,8 +464,31 @@
   </trdgrp>
   <trd lng="nl">harteloos</trd>
   <trd lng="pl">bezduszny</trd>
-  <trd lng="ru">&c_b;&c_je;&c_s;&c_s;&c_je;&c_r;&c_d;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trd 
+lng="ru">&c_b;&c_je;&c_s;&c_s;&c_je;&c_r;&c_d;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>bez srdca</trd>,
+    <trd>bezcitný</trd>
+  </trdgrp>
   <trd lng="sv">hj&auml;rtl&ouml;s</trd>
+</drv>
+
+<drv mrk="kor.sen0ulo">
+  <kap>sen<tld/>ulo</kap>
+  <snc mrk="kor.sen0ulo.PSI">
+    <dif>
+      Iu sen<tld/>a, ne kunsenta, ne kompatema:
+      <ekz>
+        &leftquot;sen<tld/>ulo! pro kio vi parolas tiel?&rightquot;
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">sans c&oelig;ur<klr> (subst.)</klr></trd>
 </drv>
 
 <drv mrk="kor.0tusxi">
@@ -421,16 +511,19 @@
         </trdgrp>
         <trd lng="he">&nun;&vav;&gimel;&ayin; &lamed;&lamed;&bet;</trd>
         <trd lng="hu">megind&iacute;t&oacute;</trd>
+        <trd lng="id">[<ind>sentuh</ind>] menyentuh hati</trd>
         <trd lng="it">toccante</trd>
         <trd lng="pl">rozczula&cacute;</trd>
-        <trd lng="ru">&c_t;&c_r;&c_o;&c_g;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+        <trd 
+lng="ru">&c_t;&c_r;&c_o;&c_g;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
       </ekz>
       <ekz>
         vi <tld/>tu&scirc;is min per unu ekrigardo de viaj okuloj
         <fnt><bib>MT</bib>, <lok>&Alt; 4:9</lok></fnt>;
       </ekz>
       <ekz>
-        li elvenis kaj vidis grandan homamason kaj li <tld/>tu&scirc;i&gcirc;is
+        li elvenis kaj vidis grandan homamason kaj li 
+<tld/>tu&scirc;i&gcirc;is
         pri ili, &ccirc;ar ili estis kiel &scirc;afoj ne havantaj
         pa&scirc;tiston
         <fnt><bib>NT</bib>, <lok>&Mar; 6:34?</lok></fnt>;
@@ -476,7 +569,8 @@
     <trd>&eacute;mouvoir</trd>,
     <trd>toucher <klr>(&eacute;mouvoir)</klr></trd>
   </trdgrp>
-  <trd lng="he">&lamed;&gimel;&ayin;&tav; \<ind>&nun;&gimel;&ayin;</ind>\<klr tip="ind">
+  <trd lng="he">&lamed;&gimel;&ayin;&tav; \<ind>&nun;&gimel;&ayin;</ind>\<klr 
+tip="ind">
   (&lamed;&lamed;&bet;)</klr></trd>
   <trdgrp lng="hu">
     <trd>meghat</trd>,
@@ -493,6 +587,24 @@
 </art>
 <!--
 $Log: kor.xml,v $
+Revision 1.43  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.42  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.41  2015/06/26 22:10:27  revo
+Darcy Shen: +trd zh
+
+Revision 1.40  2015/01/23 09:10:20  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.39  2014/12/15 21:10:17  revo
+Jeromo Vasxe: + sen~ulo
+
+Revision 1.38  2014/12/14 18:10:13  revo
+Jeromo Vasxe: + bon~eco
+
 Revision 1.37  2014/05/31 16:10:26  revo
 Eko Nur Syah Hidayat: +id
 
@@ -503,17 +615,5 @@ Revision 1.35  2014/01/04 02:10:19  revo
 Jeromo Vasxe: + el~a
 
 Revision 1.34  2011/11/22 20:10:08  revo
-Alejandro Escobedo: aldono de koreco kaj ghia hispana traduko
-
-Revision 1.33  2010/04/26 16:30:34  revo
-Fabio Bettani: mi apartigas la du signifojn de "kora"
-
-Revision 1.32  2010/04/21 16:30:32  revo
-Fabio Bettani: +trd it
-
-Revision 1.31  2009/08/30 16:30:44  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.30  2009/06/25 16:30:37  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dialek.xml,v 1.22 2014/10/28 04:10:56 revo Exp $">
+<art mrk="$Id: dialek.xml,v 1.23 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>dialekt</rad>/o <fnt><bib>PV</bib></fnt>
@@ -48,19 +48,23 @@
   </snc>
   <trd lng="be">&c_d;&c_y;&c_ja;&c_l;&c_je;&c_k;&c_t;</trd>
   <trd lng="bg">&c_d;&c_i;&c_a;&c_l;&c_je;&c_k;&c_t;</trd>
-  <trd lng="cs">n&aacute;&rcaron;e&ccaron;&iacute;</trd>
+  <trdgrp lng="cs">
+    <trd>dialekt</trd>,
+    <trd>n&aacute;&rcaron;e&ccaron;&iacute;</trd>,
+    <trd>nářečí</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Dialekt</trd>,
     <trd>Mundart</trd>
   </trdgrp>
-   <trd lng="el">&delta;&jota;&alfa_ton;&lambda;&epsilon;&kappa;&tau;&omikron;&sigma_fina;</trd>
+  <trd lng="el">&delta;&jota;&alfa_ton;&lambda;&epsilon;&kappa;&tau;&omikron;&sigma_fina;</trd>
   <trd lng="en">dialect</trd>
   <trd lng="es">dialecto</trd>
   <trd lng="fa">&f_g;&a_w;&f_y;&a_sh;</trd>
   <trdgrp lng="fr">
     <trd>dialecte</trd>,
     <trd>parler<klr tip="ind"> (dialecte)</klr></trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>t&aacute;jsz&oacute;l&aacute;s</trd>,
     <trd>dialektus</trd>
@@ -158,6 +162,9 @@
 </art>
 <!--
 $Log: dialek.xml,v $
+Revision 1.23  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.22  2014/10/28 04:10:56  revo
 Eko Nur Syah Hidayat: +trd id
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vafl.xml,v 1.22 2014/04/22 18:11:06 revo Exp $">
+<art mrk="$Id: vafl.xml,v 1.24 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vafl</rad>/o
@@ -15,12 +15,15 @@
       Plata <ref tip="super" cel="kuk.0o">kuko</ref> bakita inter du
       feraj ladoj.
     </dif>
-  </snc>                      
+  </snc>
   <trd lng="be">&c_v;&c_a;&c_f;&c_l;&c_ja;</trd>
   <trd lng="bg">&c_v;&c_a;&c_f;&c_l;a</trd>
   <trd lng="br">galfrezenn</trd>
   <trd lng="ca">gofra</trd>
-  <trd lng="cs">oplatka</trd>
+  <trdgrp lng="cs">
+    <trd>oplatka</trd>,
+    <trd>vafle</trd>
+  </trdgrp>
   <trd lng="de">Waffel</trd>
   <trd lng="en">waffle</trd>
   <trd lng="es">barquillo</trd>
@@ -35,11 +38,21 @@
   <trd lng="pl">gofr</trd>
   <trd lng="pt">folhado<klr tip="ind"> (culin&aacute;ria)</klr></trd>
   <trd lng="ru">&c_v;&c_a;&c_f;&c_l;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>oblátka</trd>,
+    <trd>oplátka</trd>
+  </trdgrp>
   <trd lng="sv">v&aring;ffla</trd>
 </drv>
 </art>
 <!--
 $Log: vafl.xml,v $
+Revision 1.24  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/04/22 18:11:06  revo
 Wieland Pusch: +trd bg
 

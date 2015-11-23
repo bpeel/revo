@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pilaf.xml,v 1.8 2011/12/11 17:10:16 revo Exp $">
+<art mrk="$Id: pilaf.xml,v 1.10 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>pilaf</rad>/o <fnt>Z</fnt> <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -33,6 +33,7 @@
     </dif>
   </snc>
   <trd lng="ca">arr&ograve;s pilaf</trd>
+  <trd lng="cs">pilaf</trd>
   <trdgrp lng="en">
     <trd>pilaf</trd>,
     <trd>pilau</trd>,
@@ -45,10 +46,20 @@
   <trd lng="nl">pilaf</trd>
   <trd lng="pl">pilaw</trd>
   <trd lng="ru">&c_p;&c_l;&c_o;&c_v;</trd>
+  <trdgrp lng="sk">
+    <trd>pilaf</trd>,
+    <trd>pilav</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: pilaf.xml,v $
+Revision 1.10  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2011/12/11 17:10:16  revo
 Marc Rausell: +trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ajut.xml,v 1.15 2013/01/18 01:10:12 revo Exp $">
+<art mrk="$Id: ajut.xml,v 1.19 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <rad>ajut</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -14,6 +14,7 @@
       Tubeto a&ubreve; specialforma plato lutita al la fino de tubo, kie
       elfluas la fluida&jcirc;o, por reguligi tiun elfluon.
     </dif>
+    <ref tip="sin" cel="bek.0o.FIG">beko</ref>
     <refgrp tip="vid">
       <ref cel="duz.0o.MAS">duzo</ref>
     </refgrp>
@@ -21,6 +22,13 @@
   <trdgrp lng="be">
     <trd>&c_f;&c_a;&c_r;&c_s;&c_u;&c_n;&c_k;&c_a;</trd>,
     <trd>&c_zh;&c_y;&c_k;&c_l;&c_jo;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dyšna</trd>,
+    <trd>dýza</trd>,
+    <trd>dýzna <klr>(kyslíková)</klr></trd>,
+    <trd>hubice</trd>,
+    <trd>tryska</trd>
   </trdgrp>
   <trdgrp lng="de">
       <trd>Schnauze</trd>,
@@ -44,10 +52,26 @@
     <trd>&c_f;&c_o;&c_r;&c_s;&c_u;&c_n;&c_k;&c_a;</trd>,
     <trd>&c_zh;&c_i;&c_k;&c_l;&c_jo;&c_r;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ústie <klr>(nádobky, tuby)</klr></trd>,
+    <trd>ústie <klr>(nádobky| tuby)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ajut.xml,v $
+Revision 1.19  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2015/04/07 08:10:16  revo
+Wolfram Diestel: ref al beko 2
+
 Revision 1.15  2013/01/18 01:10:12  revo
 Jeromo Vasxe: + mrk + ref
 
@@ -67,8 +91,5 @@ Revision 1.10  2002/05/08 16:33:37  revo
 Alejandro Mejia Greene: ald his trd
 
 Revision 1.9  2002/02/14 17:39:38  revo
-Yury Finkel: formatigis
-
-Revision 1.8 2001/07/03 18:13:11 revo
 -->
 </vortaro>

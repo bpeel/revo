@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flu.xml,v 1.48 2014/05/30 01:10:18 revo Exp $">
+<art mrk="$Id: flu.xml,v 1.51 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>flu</rad>/i <fnt><bib>PV</bib></fnt>
@@ -97,7 +97,13 @@
   </snc>
   <trd lng="be">&c_c;&c_ja;&c_ch;&c_y;</trd>
   <trd lng="bg">&c_t;&c_je;&c_k;&c_a;</trd>
-  <trd lng="cs">t&eacute;ci</trd>
+  <trdgrp lng="cs">
+    <trd>plynout</trd>,
+    <trd>proudit</trd>,
+    <trd>splývat <klr>(vlasy)</klr></trd>,
+    <trd>t&eacute;ci</trd>,
+    <trd>řinout se</trd>
+  </trdgrp>
   <trd lng="de">flie&szlig;en</trd>
   <trd lng="en">flow</trd>
   <trd lng="es">fluir</trd>
@@ -116,6 +122,10 @@
     <trd>correr <klr tip="amb">(l&iacute;quido)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_ch;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>prúdiť</trd>,
+    <trd>tiecť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flu.0o">
@@ -185,7 +195,12 @@
     <trd>&c_p;&c_a;&c_t;&c_o;&c_k;</trd>
   </trdgrp>
   <trd lng="bg">&c_t;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
-  <trd lng="cs">tok</trd>
+  <trdgrp lng="cs">
+    <trd>proud</trd>,
+    <trd>průběh</trd>,
+    <trd>tok</trd>,
+    <trd>vodoteč</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd><klr>(das) </klr>Flie&szlig;en</trd>,
     <trd>Strom</trd>,
@@ -205,6 +220,11 @@
   <trdgrp lng="ru">
     <trd>&c_t;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_p;&c_o;&c_t;&c_o;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prúdenie</trd>,
+    <trd>tečenie</trd>,
+    <trd>tok</trd>
   </trdgrp>
 </drv>
 
@@ -262,7 +282,16 @@
       <trd>&c_n;&c_je;&c_p;&c_r;&c_i;&c_n;&c_u;&c_zh;&c_d;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kapalný</trd>,
+    <trd>tekutý</trd>
+  </trdgrp>
   <trd lng="de">fl&uuml;ssig</trd>
+  <trdgrp lng="sk">
+    <trd>plynný</trd>,
+    <trd>plynulý</trd>,
+    <trd>tekutý</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flu.0ajxo">
@@ -321,6 +350,7 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_v;&c_a;&c_d;&c_k;&c_ib;</trd>
+  <trd lng="cs">tekutý</trd>
   <trd lng="de">fl&uuml;ssig</trd>
   <trd lng="fr">liquide<klr tip="ind"> (adj.)</klr></trd>
   <trdgrp lng="hu">
@@ -333,6 +363,7 @@
     <trd>p&lstroke;ynny</trd>
   </trdgrp>
   <trd lng="ru">&c_zh;&c_i;&c_d;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">tekutý</trd>
 </drv>
 
 <drv mrk="flu.0ejo">
@@ -348,6 +379,10 @@
     <trd>&c_l;&c_o;&c_zh;&c_a; <klr tip="ind">(&c_r;&c_a;&c_k;&c_ib;)
       </klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>koryto vodního toku</trd>,
+    <trd>řečiště</trd>
+  </trdgrp>
   <trd lng="de">Flussbett</trd>
   <trdgrp lng="fr">
     <trd>cours<klr tip="ind"> (d'une rivi&egrave;re)</klr></trd>,
@@ -360,6 +395,7 @@
   <trd lng="nl">bedding</trd>
   <trd lng="pl">koryto<klr> rzeki, potoku</klr></trd>
   <trd lng="ru">&c_r;&c_u;&c_s;&c_l;&c_o;</trd>
+  <trd lng="sk">koryto<klr>(toku)</klr></trd>
 </drv>
 
 <drv mrk="flu.em0a">
@@ -450,6 +486,7 @@
     <trd>&c_p;&c_r;&c_y;&c_c;&c_ja;&c_k;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="cs">přitékat</trd>
   <trdgrp lng="de">
     <trd>zustr&ouml;men</trd>,
     <trd>zuflie&szlig;en</trd>
@@ -469,6 +506,7 @@
     <trd>&c_p;&c_r;&c_i;&c_t;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">pritekať</trd>
 </drv>
 
 <drv mrk="flu.al0o">
@@ -487,6 +525,11 @@
   </trdgrp>
   <trd lng="pl">przyp&lstroke;yw</trd>
   <trd lng="ru">&c_o;&c_t;&c_l;&c_i;&c_v;</trd>
+  <trd lng="sk">príliv</trd>
+  <trdgrp lng="cs">
+    <trd>příliv</trd>,
+    <trd>přítok</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flu.for0o">
@@ -505,6 +548,11 @@
   </trdgrp>
   <trd lng="pl">odp&lstroke;yw</trd>
   <trd lng="ru">&c_o;&c_t;&c_l;&c_i;&c_v;</trd>
+  <trd lng="sk">príliv</trd>
+  <trdgrp lng="cs">
+    <trd>příliv</trd>,
+    <trd>přítok</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flu.cxirkaux0i">
@@ -552,6 +600,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">stéci <klr>(kapalina)</klr></trd>
   <trd lng="de">wegflie&szlig;en</trd>
   <trd lng="fr">couler<klr tip="ind"> (&agrave; partir d'un
       endroit)</klr></trd>
@@ -567,6 +616,7 @@
     <trd>&c_s;&c_t;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_t;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">odtiecť</trd>
 </drv>
 
 <drv mrk="flu.de0ilo">
@@ -586,6 +636,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_c;&c_jo;&c_k;</trd>
+  <trdgrp lng="cs">
+    <trd>odtokové zařízení</trd>,
+    <trd>odvodňovací příkop</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Rinne</trd>,
     <trd>Abfluss</trd>
@@ -597,11 +651,11 @@
     <trd>d&eacute;versoir<klr tip="ind"> (canal
         d'&eacute;vacuation)</klr></trd>
   </trdgrp>
+  <trd lng="hu">lefoly&oacute;(csatorna)</trd>
   <trdgrp lng="nl">
     <trd>goot</trd>,
     <trd>dakgoot</trd>
   </trdgrp>
-  <trd lng="hu">lefoly&oacute;(csatorna)</trd>
   <trdgrp lng="pl">
     <trd>odp&lstroke;yw</trd>,
     <trd>sp&lstroke;yw</trd>,
@@ -609,6 +663,7 @@
     <trd>przykanalik</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_t;&c_o;&c_k;</trd>
+  <trd lng="sk">odtok</trd>
 </drv>
 
 <drv mrk="flu.dis0i">
@@ -656,6 +711,10 @@
   </snc>
   <trd lng="be">
     &c_r;&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>rozlévat se</trd>,
+    <trd>roztékat se</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>zerflie&szlig;en</trd>,
     <trd>sich <ind>ergie&szlig;en</ind></trd>
@@ -673,6 +732,10 @@
   </trdgrp>
   <trd lng="nl">wegvloeien</trd>
   <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_je;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>rozliať sa</trd>,
+    <trd>roztiecť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flu.el0i">
@@ -714,6 +777,12 @@
       <trd>wynika&cacute;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>vylít se</trd>,
+    <trd>vytéci</trd>,
+    <trd>vytékat</trd>,
+    <trd>vyústit</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>jaillir</trd>,
     <trd>sortir</trd>,
@@ -727,6 +796,7 @@
   </trdgrp>
   <trd lng="nl">ontspringen</trd>
   <trd lng="ru">&c_v;&c_y;&c_t;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">vytiecť</trd>
 </drv>
 
 <drv mrk="flu.en0ejo">
@@ -740,6 +810,10 @@
   </snc>
   <trd lng="be">&c_v;&c_u;&c_s;&c_mol;&c_c;&c_je; <klr
       tip="amb">(&c_r;&c_a;&c_k;&c_ib;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>vtok</trd>,
+    <trd>ústí <klr>(řeky)</klr></trd>
+  </trdgrp>
   <trd lng="de">M&uuml;ndung</trd>
   <trd lng="en">mouth <klr tip="ind">(river)</klr></trd>
   <trdgrp lng="fr">
@@ -750,6 +824,10 @@
   <trd lng="nl">monding</trd>
   <trd lng="pl">uj&sacute;cie</trd>
   <trd lng="ru">&c_u;&c_s;&c_t;&c_mol;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>vtok</trd>,
+    <trd>ústie <klr>(rieky)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flu.inter0o">
@@ -848,6 +926,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_mol;&c_l;&c_ib;&c_c;&c_mol;&c_c;&c_jo;</trd>
+  <trd lng="cs">soutok</trd>
   <trd lng="de">Zusammenfluss</trd>
   <trd lng="fr">confluent</trd>
   <trd lng="hu">&ouml;sszefoly&aacute;s</trd>
@@ -857,6 +936,10 @@
     <trd>dop&lstroke;yw</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_l;&c_i;&c_ja;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>stok</trd>,
+    <trd>sútok</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flu.laux0e">
@@ -898,21 +981,27 @@
     <ref tip="dif" cel="konges.0o">kongesto</ref>
   </snc>
   <trd lng="ca">congesti&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>kongesce</trd>,
+    <trd>nával krve</trd>,
+    <trd>překrvení orgánu</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Blutandrang</trd>,
     <trd>Kongestion</trd>
   </trdgrp>
-  <trd lng="hu">v&eacute;rtolul&aacute;s</trd>
-  <trd lng="nl">bloedaandrang</trd>
   <trd lng="en">congestion</trd>
   <trd lng="es">congesti&oacute;n</trd>
   <trdgrp lng="fr">
     <trd>congestion</trd>
   </trdgrp>
+  <trd lng="hu">v&eacute;rtolul&aacute;s</trd>
+  <trd lng="nl">bloedaandrang</trd>
   <trdgrp lng="pl">
     <trd>przekrwienie</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_l;&c_i;&c_v; &c_k;&c_r;&c_o;&c_v;&c_i;</trd>
+  <trd lng="sk">nával krvi</trd>
 </drv>
 
 <drv mrk="flu.super0a">
@@ -947,6 +1036,11 @@
     <trd>&c_z;&c_a;&c_l;&c_ib;&c_sh;&c_n;&c_ib;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_z;&c_mol;&c_m;&c_je;&c_r;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nadbytečný</trd>,
+    <trd>přebytečný</trd>,
+    <trd>zbytečný</trd>
+  </trdgrp>
   <trd lng="de">&uuml;berfl&uuml;ssig</trd>
   <trd lng="fr">superflu</trd>
   <trd lng="hu">felesleges</trd>
@@ -963,6 +1057,10 @@
     <trd>&c_l;&c_i;&c_sh;&c_n;&c_i;&c_j;</trd>,
     <trd>&c_i;&c_z;&c_l;&c_i;&c_sh;&c_n;&c_i;&c_j;</trd>,
     <trd>&c_ch;&c_r;&c_je;&c_z;&c_m;&c_je;&c_r;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nadbytočný</trd>,
+    <trd>prebytočný</trd>
   </trdgrp>
 </drv>
 
@@ -1047,9 +1145,11 @@
     <uzo tip="fak">FON</uzo>
     <ref tip="dif" cel="likvid1.0o">likvido</ref>
     <ekz>
-      se du vokalojn apartigas du konsonantoj, la unua el kiuj
-      estas eksploda kaj la dua estas <tld/>a (<em>l</em> a&ubreve;
-      <em>r</em>), la silabolimo situas anta&ubreve; la eksploda 
+      se du vokalojn apartigas du
+      <ref tip="super" cel="konson1.0o">konsonantoj</ref>,
+      la unua el kiuj estas eksploda kaj la dua estas
+      <tld/>a (<em>l</em> a&ubreve; <em>r</em>), la silabolimo
+      situas anta&ubreve; la eksploda 
       <fnt>
         <aut>Marc Bavant</aut>:
         <vrk><url
@@ -1085,6 +1185,15 @@
 </art>
 <!--
 $Log: flu.xml,v $
+Revision 1.51  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.50  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.49  2015/01/09 17:10:19  revo
+Sergio Pokrovskij: TEZ
+
 Revision 1.48  2014/05/30 01:10:18  revo
 Jeromo Vasxe: + de~ejo
 
@@ -1104,8 +1213,5 @@ Revision 1.43  2011/04/19 18:10:09  revo
 Nicolas Bros: +trd fr
 
 Revision 1.42  2010/10/08 16:30:14  revo
-Sergio Pokrovskij: +~ema, mal~emo
-
-Revision 1.41  2010/10/06 16:30:23  revo
 -->
 </vortaro>

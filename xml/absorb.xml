@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: absorb.xml,v 1.27 2013/04/03 12:10:14 revo Exp $">
+<art mrk="$Id: absorb.xml,v 1.29 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>absorb</rad>/i <fnt><bib>PV</bib></fnt>
@@ -107,6 +107,12 @@
     <trd>emmek <klr>(emici madde taraf&inodot;ndan. &ouml;rek:
     s&uuml;nger)</klr></trd>
   </trdgrp>
+  <trd lng="sk">absorbovať</trd>
+  <trdgrp lng="cs">
+    <trd>absorbovat</trd>,
+    <trd>pohltit</trd>,
+    <trd>vstřebat</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="absorb.0igxi">
@@ -151,6 +157,12 @@
 </art>
 <!--
 $Log: absorb.xml,v $
+Revision 1.29  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.27  2013/04/03 12:10:14  revo
 Sebastian Cyprych: +trd pl
 

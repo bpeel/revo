@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: senc.xml,v 1.30 2013/02/26 18:10:08 revo Exp $">
+<art mrk="$Id: senc.xml,v 1.32 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>senc</rad>/o <fnt><bib>PV</bib></fnt>
@@ -107,8 +107,18 @@
     <fnt><bib>PIV1</bib></fnt>
     <ref tip="dif" cel="senc.0umo"><tld/>umo</ref>
   </snc>
-  <trd lng="pl">kierunek<klr> (ruchu)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>smysl</trd>,
+    <trd>směr</trd>,
+    <trd>význam</trd>
+  </trdgrp>
   <trd lng="it">senso</trd>
+  <trd lng="pl">kierunek<klr> (ruchu)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>smer</trd>,
+    <trd>význam</trd>,
+    <trd>zmysel</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="senc.0umo">
@@ -135,11 +145,19 @@
       cel="direkt.0o.afinaspaco">direkton</ref>.
     </rim>
   </snc>
+  <trdgrp lng="cs">
+    <trd>smysl</trd>,
+    <trd>směr</trd>
+  </trdgrp>
   <trd lng="es">sentido<klr tip="ind"> (direcci&oacute;n)</klr></trd>
   <trd lng="fr">sens<klr tip="ind"> (direction)</klr></trd>
   <trd lng="hu">ir&aacute;ny</trd>
   <trd lng="it">senso<klr> (verso, direzione)</klr></trd>
   <trd lng="pl">kierunek<klr> (ruchu)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>smer</trd>,
+    <trd>zmysel</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="senc.iu0e">
@@ -422,6 +440,10 @@
   </snc>
   <trd
   lng="be">&c_b;&c_je;&c_s;&c_s;&c_e;&c_n;&c_s;&c_o;&c_w;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>absurdní</trd>,
+    <trd>nesmyslný</trd>
+  </trdgrp>
   <trd lng="de">sinnlos</trd>
   <trd lng="es">absurdo</trd>
   <trd lng="fr">absurde</trd>
@@ -432,6 +454,10 @@
   <trd lng="nl">zinloos</trd>
   <trd
   lng="ru">&c_b;&c_je;&c_s;&c_s;&c_m;&c_y;&c_s;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>absurdný</trd>,
+    <trd>nezmyselný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="senc.sen0ajxo">
@@ -482,6 +508,12 @@
 </art>
 <!--
 $Log: senc.xml,v $
+Revision 1.32  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.30  2013/02/26 18:10:08  revo
 Jeromo Vasxe: + krom~o
 

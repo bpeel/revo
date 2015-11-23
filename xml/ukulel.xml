@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ukulel.xml,v 1.5 2014/10/26 03:10:23 revo Exp $">
+<art mrk="$Id: ukulel.xml,v 1.7 2015/07/04 08:37:45 revo Exp $">
 <kap>
    <rad>ukulel</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -26,24 +26,38 @@
        </ekz>
      </dif>
    </snc>
-   <trdgrp lng="ca">
+  <trdgrp lng="ca">
      <trd>ukulele</trd>,
      <trd>ukelele</trd>
    </trdgrp>
-   <trd lng="de">Ukulele</trd>
-   <trd lng="en">ukulele</trd>
-   <trdgrp lng="fi">
+  <trdgrp lng="cs">
+    <trd>havajská kytara</trd>,
+    <trd>ukulele</trd>
+  </trdgrp>
+  <trd lng="de">Ukulele</trd>
+  <trd lng="en">ukulele</trd>
+  <trdgrp lng="fi">
      <trd>havaijinkitara</trd>,
      <trd>ukulele</trd>
    </trdgrp>
-   <trd lng="fr">ukul&eacute;l&eacute;</trd>
-   <trd lng="id">ukulele</trd>
-   <trd lng="it">ukulele</trd>
+  <trd lng="fr">ukul&eacute;l&eacute;</trd>
+  <trd lng="id">ukulele</trd>
+  <trd lng="it">ukulele</trd>
+  <trdgrp lng="sk">
+    <trd>havajská gitara</trd>,
+    <trd>ukulele</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: ukulel.xml,v $
+Revision 1.7  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2014/10/26 03:10:23  revo
 Eko Nur Syah Hidayat: +trd id
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fotosf.xml,v 1.8 2004/01/04 17:32:26 revo Exp $">
+<art mrk="$Id: fotosf.xml,v 1.10 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <rad>fotosfer</rad>/o
 </kap>
@@ -15,6 +15,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_f;&c_a;&c_t;&c_a;&c_s;&c_f;&c_e;&c_r;&c_a;</trd>
+  <trd lng="cs">fotosféra</trd>
   <trd lng="de">Photosph&auml;re</trd>
   <trd lng="en">photosphere</trd>
   <trd lng="es">fotosfera</trd>
@@ -25,6 +26,7 @@
   <trd lng="pl">fotosfera</trd>
   <trd lng="pt">fotosfera</trd>
   <trd lng="ru">&c_f;&c_o;&c_t;&c_o;&c_s;&c_f;&c_je;&c_r;&c_a;</trd>
+  <trd lng="sk">svetelná a plynová atmosféra okolo slnka</trd>
   <trdgrp lng="tr">
    <trd>renk k&uuml;resi</trd>,
    <trd>fotosfer</trd>
@@ -33,6 +35,12 @@
 </art>
 <!--
 $Log: fotosf.xml,v $
+Revision 1.10  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2004/01/04 17:32:26  revo
 Dmitri Gabinski: +trd be
 

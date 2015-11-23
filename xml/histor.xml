@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: histor.xml,v 1.31 2014/02/12 02:10:12 revo Exp $">
+<art mrk="$Id: histor.xml,v 1.36 2015/10/21 05:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>histori</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -115,11 +115,20 @@
   </snc>
   <trd lng="be">&c_g;&c_ib;&c_s;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>
   <trd lng="br">istor</trd>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;jepis</trd>,
+    <trd>d&ecaron;jiny</trd>,
+    <trd>historie</trd>
+  </trdgrp>
   <trd lng="de">Geschichte</trd>
   <trd lng="en">history</trd>
   <trd lng="es">historia</trd>
   <trd lng="fr">histoire</trd>
   <trd lng="he">&he;&yod;&samekh;&tet;&vav;&resh;&yod;&he;</trd>
+  <trdgrp lng="id">
+    <trd>histori</trd>,
+    <trd>sejarah</trd>
+  </trdgrp>
   <trd lng="it">storia</trd>
   <trdgrp lng="nl">
     <trd>geschiedenis</trd>,
@@ -127,6 +136,12 @@
   </trdgrp>
   <trd lng="pt">hist&oacute;ria</trd>
   <trd lng="ru">&c_i;&c_s;&c_t;&c_o;&c_r;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>dejepis</trd>,
+    <trd>historka</trd>,
+    <trd>hist&oacute;ria</trd>,
+    <trd>udalos&tcaron;</trd>
+  </trdgrp>
   <trd lng="sv">historia</trd>
 </drv>
 
@@ -168,7 +183,10 @@
   <trd lng="be">&c_g;&c_ib;&c_s;&c_t;&c_a;&c_r;&c_y;&c_ch;&c_n;&c_y;
   </trd>
   <trd lng="br">istorel</trd>
-  <trd lng="cs">historick&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;jinn&yacute;</trd>,
+    <trd>historick&yacute;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>historisch</trd>,
     <trd>geschichtlich</trd>
@@ -178,6 +196,10 @@
   <trd lng="fr">historique</trd>
   <trd lng="he">&he;&yod;&samekh;&tet;&vav;&resh;&yod;</trd>
   <trd lng="hu">t&ouml;rt&eacute;nelmi</trd>
+  <trdgrp lng="id">
+    <trd>historis</trd>,
+    <trd>sejarawi</trd>
+  </trdgrp>
   <trd lng="it">storico<klr> (agg.)</klr></trd>
   <trdgrp lng="nl">
     <trd>geschiedkundig</trd>,
@@ -186,6 +208,7 @@
   <trd lng="pt">hist&oacute;rico</trd>
   <trd lng="ru">
   &c_i;&c_s;&c_t;&c_o;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">historick&yacute;</trd>
   <trd lng="sv">historisk</trd>
 </drv>
 
@@ -199,17 +222,29 @@
   </snc>
   <trd lng="be">&c_g;&c_ib;&c_s;&c_t;&c_o;&c_r;&c_y;&c_k;</trd>
   <trd lng="br">istorour</trd>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;jepisec</trd>,
+    <trd>historik</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Geschichtswissenschaflter</trd>,
     <trd>Historiker</trd>
   </trdgrp>
-  <trd lng="es">historiador</trd>
   <trd lng="en">historian</trd>
+  <trd lng="es">historiador</trd>
   <trd lng="fr">historien</trd>
   <trd lng="he">&he;&yod;&samekh;&tet;&vav;&resh;&yod;&vav;&fnun;</trd>
   <trd lng="hu">t&ouml;rt&eacute;n&eacute;sz</trd>
+  <trdgrp lng="id">
+    <trd>historikus</trd>,
+    <trd>sejarawan</trd>
+  </trdgrp>
   <trd lng="it">storico<klr> (sost.)</klr></trd>
   <trd lng="pl">historyk</trd>
+  <trdgrp lng="sk">
+    <trd>dejepisec</trd>,
+    <trd>historik</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="histor.malsan0o">
@@ -237,8 +272,17 @@
     <trd>Krankenakte</trd>,
     <trd>Anamnese</trd>
   </trdgrp>
+  <trd lng="en">health record</trd>
   <trd lng="fr">anamn&egrave;se<klr> (m&eacute;decine)</klr></trd>
+  <trdgrp lng="id">
+    <trd>anamnesis</trd>,
+    <trd><ind>riwayat</ind> kesehatan</trd>
+  </trdgrp>
   <trd lng="it">anamnesi</trd>
+  <trdgrp lng="pl">
+    <trd>historia choroby</trd>,
+    <trd>karta choroby</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="histor.natur0o">
@@ -258,6 +302,7 @@
   </snc>
   <trd lng="en">natural history</trd>
   <trd lng="fr">histoire naturelle</trd>
+  <trd lng="id"><ind>sejarah</ind> alam</trd>
 </drv>
 
 <drv mrk="histor.pra0o">
@@ -289,6 +334,12 @@
   <trd lng="be">
   &c_p;&c_r;&c_a;&c_g;&c_ib;&c_s;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>
   <trd lng="br">ragistor</trd>
+  <trdgrp lng="cs">
+    <trd>prahistorie</trd>,
+    <trd>prap&uring;vod</trd>,
+    <trd>prav&ecaron;k</trd>,
+    <trd>p&rcaron;edhistorie</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Vorgeschichte</trd>,
     <trd>Urgeschichte</trd>
@@ -298,9 +349,14 @@
   <trd lng="fr">pr&eacute;histoire</trd>
   <trd lng="he">&pe;&resh;&he;&yod;&samekh;&tet;&vav;&resh;&yod;&he;</trd>
   <trd lng="hu">&odblac;st&ouml;rt&eacute;net</trd>
+  <trd lng="id">prasejarah</trd>
   <trd lng="it">preistoria</trd>
   <trd lng="nl">prehistorie</trd>
   <trd lng="pt">pr&eacute;-hist&oacute;ria</trd>
+  <trdgrp lng="sk">
+    <trd>pravek</trd>,
+    <trd>predhist&oacute;ria</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="histor.viv0o">
@@ -327,6 +383,10 @@
     <trd>life history</trd>
   </trdgrp>
   <trd lng="fr">biographie</trd>
+  <trdgrp lng="id">
+    <trd>biografi</trd>,
+    <trd><ind>riwayat</ind> hidup</trd>
+  </trdgrp>
   <trd lng="it">biografia</trd>
   <trdgrp lng="pl">
     <trd>dzieje</trd>,
@@ -336,6 +396,21 @@
 </art>
 <!--
 $Log: histor.xml,v $
+Revision 1.36  2015/10/21 05:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.35  2015/09/27 13:10:21  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.34  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2014/11/12 08:10:41  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.31  2014/02/12 02:10:12  revo
 Jeromo Vasxe: + natur~o
 
@@ -343,20 +418,5 @@ Revision 1.30  2013/09/22 19:10:52  revo
 Wolfram Diestel: astro~o: referenco al listo sciencoj
 
 Revision 1.29  2012/02/05 17:10:09  revo
-Wolfram Diestel: germ trd, vivhistorio: ref-tip sin
-
-Revision 1.28  2009/09/13 16:57:36  revo
-Antonio Codazzi: +trd it
-
-Revision 1.27  2009/08/14 16:30:46  revo
-Jeromo Vasxe: + malsan~o
-
-Revision 1.26  2008/07/29 16:30:45  revo
-Russ Williams: +trd en
-
-Revision 1.25  2008/04/24 17:20:26  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.24  2006/06/29 16:31:40  revo
 -->
 </vortaro>

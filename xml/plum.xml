@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plum.xml,v 1.24 2013/01/23 09:10:08 revo Exp $">
+<art mrk="$Id: plum.xml,v 1.27 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>plum</rad>/o
@@ -62,15 +62,19 @@
   </snc>
   <trd lng="be">&c_p;&c_ja;&c_r;&c_o;</trd>
   <trd lng="bg">&c_h;&c_i;&c_m;&c_i;&c_k;&c_a;&c_l;</trd>
-  <trd lng="cs">pe&rcaron;&iacute;</trd>
+  <trdgrp lng="cs">
+    <trd>pe&rcaron;&iacute;</trd>,
+    <trd>ptačí pero</trd>
+  </trdgrp>
   <trd lng="de">Feder</trd>
   <trd lng="en">pen</trd>
-  <trd lng="fr">plume</trd>
   <trd lng="es">pluma</trd>
+  <trd lng="fr">plume</trd>
   <trd lng="hu">toll</trd>
   <trd lng="nl">pen</trd>
   <trd lng="pl">pi&oacute;ro</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_o;</trd>
+  <trd lng="sk">pero <klr>(vtáčie i na písanie)</klr></trd>
 </drv>
 
 <drv mrk="plum.0aro">
@@ -85,9 +89,14 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>opeření</trd>,
+    <trd>peří</trd>
+  </trdgrp>
   <trd lng="en"> plumage</trd>
-  <trd lng="fr">plumage</trd>
   <trd lng="es">plumaje</trd>
+  <trd lng="fr">plumage</trd>
+  <trd lng="sk">perie</trd>
 </drv>
 
 <drv mrk="plum.0ingo">
@@ -104,6 +113,7 @@
   </snc>
   <trd lng="be">&c_r;&c_u;&c_ch;&c_k;&c_a; <klr>(&c_u; &c_ja;&c_k;&c_u;&c_ju; &c_w;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_je;&c_c;&c_c;&c_a;
   &c_p;&c_ja;&c_r;&c_o;)</klr></trd>
+  <trd lng="cs">násadka na pero</trd>
   <trd lng="de">Federhalter</trd>
   <trd lng="fr">porte-plume</trd>
   <trd lng="hu">tollsz&aacute;r</trd>
@@ -113,6 +123,24 @@
   </trdgrp>
   <trd lng="ru">&c_r;&c_u;&c_ch;&c_k;&c_a; <klr>(&c_v; &c_k;&c_o;&c_t;&c_o;&c_r;&c_u;&c_ju; &c_v;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_ju;&c_t;
   &c_p;&c_je;&c_r;&c_o;)</klr></trd>
+  <trd lng="sk">rúčka na pero</trd>
+</drv>
+
+<drv mrk="plum.0ujo">
+  <kap><ofc>*</ofc><tld/>ujo</kap>
+  <snc mrk="plum.0ujo.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Skatoleto, por teni skriboplumojn:
+      <ekz>
+        Skatolo, en kiu oni tenas <tld/>ojn, estas <tld/>ujo, kaj
+        bastoneto,
+      sur kiu oni tenas <tld/>on por skribado, estas <tld/>ingo.
+        <fnt><bib>F</bib>, <lok>&FE; 40</lok></fnt>;
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">plumier</trd>
 </drv>
 
 <drv mrk="plum.fonto0o">
@@ -133,11 +161,12 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_a;&c_w;&c_t;&c_a;&c_r;&c_u;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="cs">plnicí pero</trd>
   <trdgrp lng="de">
     <trd>F&uuml;llfederhalter</trd>;
     <trd>F&uuml;ller</trd>
   </trdgrp>
-   <trd lng="en">fountain pen</trd>
+  <trd lng="en">fountain pen</trd>
   <trdgrp lng="fr">
     <trd>stylographe</trd>,
     <trd>stylo-plume</trd>
@@ -145,6 +174,7 @@
   <trd lng="hu">t&ouml;lt&odblac;toll</trd>
   <trd lng="nl">vulpen</trd>
   <trd lng="ru">&c_a;&c_v;&c_t;&c_o;&c_r;&c_u;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="sk">plniace pero</trd>
 </drv>
 
 <drv mrk="plum.sen0igi">
@@ -160,12 +190,26 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="fr">plumer</trd>
+  <trdgrp lng="cs">
+    <trd>oškubat peří</trd>,
+    <trd>škubat peří</trd>
+  </trdgrp>
   <trd lng="es">desplumar</trd>
+  <trd lng="fr">plumer</trd>
+  <trd lng="sk">ošklbať perie <klr>(vtákom)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: plum.xml,v $
+Revision 1.27  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2015/01/04 04:11:10  revo
+Alain Gerard: + ~ujo
+
 Revision 1.24  2013/01/23 09:10:08  revo
 Joop Eggen: +trd bg
 
@@ -185,8 +229,5 @@ Revision 1.19 2004/09/23 19:47:00 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.18 2003/07/14 16:34:07 revo
-Marc Bavant: ~ingo: +ekz el sub ing
-
-Revision 1.17 2002/07/10 18:08:08 revo
 -->
 </vortaro>

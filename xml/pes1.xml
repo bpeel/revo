@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pes1.xml,v 1.20 2014/10/26 16:10:27 revo Exp $">
+<art mrk="$Id: pes1.xml,v 1.22 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>pes</rad>/o
 </kap>
@@ -18,6 +18,10 @@ pluraj hispanlingvaj landoj de Ameriko.
     <ref tip="prt" cel="centav.0o">centavo.</ref>
   </snc>
   <trd lng="be">&c_p;&c_e;&c_s;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>vážení</trd>,
+    <trd>zvážení</trd>
+  </trdgrp>
   <trd lng="de">Peso</trd>
   <trd lng="en">peso</trd>
   <trd lng="es">peso</trd>
@@ -27,10 +31,17 @@ pluraj hispanlingvaj landoj de Ameriko.
   <trd lng="nl">peso</trd>
   <trd lng="pl">peso</trd>
   <trd lng="ru">&c_p;&c_je;&c_s;&c_o;</trd>
+  <trd lng="sk">váženie</trd>
 </drv>
 </art>
 <!--
 $Log: pes1.xml,v $
+Revision 1.22  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2014/10/26 16:10:27  revo
 Eko Nur Syah Hidayat: +trd id
 

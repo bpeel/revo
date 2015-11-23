@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: urn.xml,v 1.18 2012/08/13 15:10:22 revo Exp $">
+<art mrk="$Id: urn.xml,v 1.20 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>urn</rad>/o <fnt><bib>PV</bib></fnt>
@@ -29,6 +29,7 @@
     <trd lng="nl">stembus</trd>
   </snc>
   <trd lng="ca">urna</trd>
+  <trd lng="cs">urna</trd>
   <trd lng="de">Urne</trd>
   <trd lng="en">urn</trd>
   <trd lng="fi">uurna</trd>
@@ -37,11 +38,21 @@
   <trd lng="it">urna</trd>
   <trd lng="pt">urna</trd>
   <trd lng="ru">&c_u;&c_r;&c_n;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>popolnica</trd>,
+    <trd>urna</trd>
+  </trdgrp>
   <trd lng="sv">urna</trd>
 </drv>
 </art>
 <!--
 $Log: urn.xml,v $
+Revision 1.20  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/08/13 15:10:22  revo
 Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: verv.xml,v 1.14 2012/11/13 21:10:08 revo Exp $">
+<art mrk="$Id: verv.xml,v 1.16 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>verv</rad>/o <fnt><bib>PV</bib></fnt>
@@ -23,6 +23,13 @@
       <ref cel="elokve.0a">elokventa</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>vervní</trd>,
+    <trd>vzletný</trd>,
+    <trd>zanícený</trd>,
+    <trd>zapálený</trd>,
+    <trd>řízný</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>vehemente</trd>,
     <trd>fogoso</trd>,
@@ -33,6 +40,11 @@
     <trd>disert</trd>,
     <trd>verveux</trd>,
     <trd>volubile</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vzletný</trd>,
+    <trd>zanietený</trd>,
+    <trd>zapálený</trd>
   </trdgrp>
 </drv>
 
@@ -71,6 +83,11 @@
     <trd>&c_n;&c_a;&c_t;&c_h;&c_n;&c_jo;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_p;&c_a;&c_l;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>verva</trd>,
+    <trd>vznět</trd>,
+    <trd>zápal</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Schwung</trd>,
     <trd>Begeisterung</trd>
@@ -105,10 +122,21 @@
     <trd>&c_v;&c_o;&c_o;&c_d;&c_u;&c_sh;&c_je;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_p;&c_y;&c_l;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>oduševnenie</trd>,
+    <trd>vzlet</trd>,
+    <trd>zápal</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: verv.xml,v $
+Revision 1.16  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2012/11/13 21:10:08  revo
 Carlos Garcia: +trd es -a -o
 

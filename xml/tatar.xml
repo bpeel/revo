@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tatar.xml,v 1.17 2013/08/13 14:10:11 revo Exp $">
+<art mrk="$Id: tatar.xml,v 1.20 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>tatar</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -39,6 +39,7 @@
   </snc>
   <trd lng="be">&c_t;&c_a;&c_t;&c_a;&c_r;&c_y;&c_n;</trd>
   <trd lng="bg">&c_t;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trd lng="cs">tatar</trd>
   <trd lng="de">Tatare</trd>
   <trd lng="en">Tatar</trd>
   <trdgrp lng="fr">
@@ -46,12 +47,12 @@
   </trdgrp>
   <trd lng="hu">tat&aacute;r</trd>
   <trd lng="nl">tartaar</trd>
-  <trd lng="pl">Tatar</trd>
-  <trd lng="pl">Tatar</trd>
+  <trd lng="pl">Tatar</trd><trd lng="pl">Tatar</trd>
   <trdgrp lng="pt">
-   <trd>t&aacute;rtaroe</trd>
+   <trd>t&aacute;rtaro</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_a;&c_t;&c_a;&c_r;&c_i;&c_n;</trd>
+  <trd lng="sk">tatar</trd>
   <trd lng="tr">Tatar</trd>
 </drv>
 
@@ -140,6 +141,15 @@
 </art>
 <!--
 $Log: tatar.xml,v $
+Revision 1.20  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/06/02 16:10:16  revo
+Tulio Flores: korekto de pt-a trad.
+
 Revision 1.17  2013/08/13 14:10:11  revo
 Joop Eggen: +trd bg nl
 
@@ -159,8 +169,5 @@ Revision 1.12  2008/10/24 16:40:37  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.11  2006/02/04 17:31:50  revo
-Tulio Flores: +trd pt
-
-Revision 1.10  2004/12/13 17:33:31  revo
 -->
 </vortaro>

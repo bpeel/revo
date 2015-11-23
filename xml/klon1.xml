@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klon1.xml,v 1.4 2011/12/08 12:10:14 revo Exp $">
+<art mrk="$Id: klon1.xml,v 1.6 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>klon</rad>/o
 </kap>
@@ -14,11 +14,15 @@
     <ref tip="dif" cel="klonik.0aspasmo">klonika spasmo</ref>
   </snc>
   <trd lng="ca">clon <klr>(reflex)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>klonus</trd>,
+    <trd>škubavá křeč</trd>
+  </trdgrp>
   <trd lng="nl">klonisch <ind>spasma</ind></trd>
-  <adm>
-    PIV2 nomas tion "klonuso".
-    <aut>MB</aut>
-  </adm>
+  <trdgrp lng="sk">
+    <trd>klonus</trd>,
+    <trd>šklbavý kŕč</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="klon1.0a">
@@ -35,6 +39,12 @@
 
 <!--
 $Log: klon1.xml,v $
+Revision 1.6  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2011/12/08 12:10:14  revo
 Marc Rausell: kataluna traduko
 

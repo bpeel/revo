@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nivel.xml,v 1.19 2014/01/31 02:10:15 revo Exp $">
+<art mrk="$Id: nivel.xml,v 1.21 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nivel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -56,6 +56,11 @@
        <trd>H&ouml;he</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hladina</trd>,
+    <trd>stupeň</trd>,
+    <trd>úroveň</trd>
+  </trdgrp>
   <trd lng="en">level</trd>
   <trd lng="es">nivel</trd>
   <trd lng="fr">niveau</trd>
@@ -68,6 +73,11 @@
   </trdgrp>
   <trd lng="pt">n&iacute;vel</trd>
   <trd lng="ru">&c_u;&c_r;&c_o;&c_v;&c_je;&c_n;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>hladina</trd>,
+    <trd>stupeň</trd>,
+    <trd>úroveň</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nivel.0i">
@@ -124,6 +134,10 @@
   </snc>
   <trd lng="es">nivelar</trd>
   <trd lng="fr">niveler</trd>
+  <trdgrp lng="sk">
+    <trd>nivelovať</trd>,
+    <trd>rovnať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nivel.0ilo">
@@ -133,6 +147,11 @@
       Instrumento por kontroli horizontalecon de io. 
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>libela</trd>,
+    <trd>nivelizační přístroj</trd>,
+    <trd>vodováha</trd>
+  </trdgrp>
   <trd lng="de">Wasserwaage</trd>
   <trd lng="es">nivel<klr tip="amb"> (instrumento para
   nivelar)</klr></trd>
@@ -144,6 +163,10 @@
   <trdgrp lng="ru">
     <trd>&c_u;&c_r;&c_o;&c_v;&c_je;&c_n;&c_mol;</trd>,
     <trd>&c_v;&c_a;&c_t;&c_je;&c_r;&c_p;&c_a;&c_s;</trd></trdgrp>
+  <trdgrp lng="sk">
+    <trd>nivelačný prístroj</trd>,
+    <trd>vodováha</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nivel.al0igi">
@@ -158,12 +181,20 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>urovnat</trd>,
+    <trd>zarovnat</trd>
+  </trdgrp>
   <trd lng="fr">niveler</trd>
   <trd lng="hu">egyenl&odblac;v&eacute; tesz<klr tip="ind"> (pl. a
   f&ouml;lddel)</klr></trd>
   <trd lng="nl">met de grond <ind>gelijkmaken</ind></trd>
   <trd lng="pt">nivelar</trd>
   <trd lng="ru">&c_s;&c_r;&c_a;&c_v;&c_n;&c_ja;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>urovnať</trd>,
+    <trd>zarovnať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nivel.alt0a">
@@ -192,6 +223,14 @@
       <trd>de <ind>qualit&eacute;</ind></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>na vysoké úrovni</trd>,
+    <trd>vysoko položený</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vysokej úrovne</trd>,
+    <trd>vyspelý</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nivel.ocean0o">
@@ -245,9 +284,11 @@
     <trd lng="hu">azonos <ind>rang&uacute;</ind></trd>
     <trd lng="nl">van gelijke <ind>rang</ind></trd>
   </snc>
+  <trd lng="cs">ve stejné výši <klr>(adj.)</klr></trd>
   <trd lng="fr">de m&ecirc;me niveau</trd>
   <trd lng="pt">do mesmo <ind>n&iacute;vel</ind></trd>
   <trd lng="ru">&c_t;&c_o;&c_g;&c_o; &c_zh;&c_je; <ind>&c_u;&c_r;&c_o;&c_v;&c_n;&c_ja;</ind></trd>
+  <trd lng="sk">rovnakej úrovne</trd>
 </drv>
 
 <drv mrk="nivel.viv0o">
@@ -271,11 +312,25 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>životní standard</trd>,
+    <trd>životní úroveň</trd>
+  </trdgrp>
   <trd lng="fr">niveau de vie</trd>
+  <trdgrp lng="sk">
+    <trd>životná úroveň</trd>,
+    <trd>životný štandard</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: nivel.xml,v $
+Revision 1.21  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/01/31 02:10:15  revo
 Jeromo Vasxe: + alt~a
 

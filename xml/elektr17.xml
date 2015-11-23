@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: elektr17.xml,v 1.14 2010/12/02 17:30:44 revo Exp $">
+<art mrk="$Id: elektr17.xml,v 1.16 2015/07/04 08:37:33 revo Exp $">
   <kap>
     <rad>elektroterapi</rad>/o
     <fnt>Z</fnt>
@@ -18,6 +18,7 @@
   <trd
   lng="be">&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_a;&c_t;&c_e;&c_r;&c_a;&c_p;&c_ib;&c_ja;</trd>
   <trd lng="ca">electroter&agrave;pia</trd>
+  <trd lng="cs">elektroterapie</trd>
   <trd lng="de">Elektrotherapie</trd>
   <trd lng="es">electroterapia</trd>
   <trdgrp lng="fa">
@@ -33,10 +34,17 @@
   <trd lng="pl">elektroterapia</trd>
   <trd lng="pt">eletroterapia</trd>
   <trd lng="ru">&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_t;&c_je;&c_r;&c_a;&c_p;&c_i;&c_ja;</trd>
+  <trd lng="sk">elektroliečba</trd>
 </drv>
 </art>
 <!--
 $Log: elektr17.xml,v $
+Revision 1.16  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2010/12/02 17:30:44  revo
 Antonio Codazzi: +trd it
 

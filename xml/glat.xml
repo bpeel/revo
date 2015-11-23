@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: glat.xml,v 1.20 2011/12/03 17:10:11 revo Exp $">
+<art mrk="$Id: glat.xml,v 1.22 2015/07/04 08:37:35 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>glat</rad>/a</kap>
 <drv mrk="glat.0a">
@@ -142,6 +142,7 @@
     <trd>&c_g;&c_l;&c_a;&c_d;&c_k;&c_ib;</trd>,
     <trd>&c_r;&c_o;&c_w;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="cs">hladký</trd>
   <trd lng="de">glatt</trd>
   <trd lng="en">smooth</trd>
   <trdgrp lng="fr">
@@ -172,6 +173,11 @@
   <trdgrp lng="ru">
     <trd>&c_g;&c_l;&c_a;&c_d;&c_k;&c_i;&c_j;</trd>,
     <trd>&c_r;&c_o;&c_v;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hladký</trd>,
+    <trd>plochý</trd>,
+    <trd>rovný</trd>
   </trdgrp>
 </drv>
 
@@ -216,6 +222,14 @@
     <trd>igualar</trd>,
     <trd>deslliurar</trd>,
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hladit</trd>,
+    <trd>uhladit</trd>,
+    <trd>uhlazovat</trd>,
+    <trd>urovnat</trd>,
+    <trd>vyhladit</trd>,
+    <trd>zahladit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>gl&auml;tten</trd>,
     <trd><ind>glatt</ind> streichen</trd>
@@ -223,6 +237,11 @@
   <trdgrp lng="en">
     <trd>smooth</trd>,
     <trd>smoothen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+   <trd>alisar</trd>, 
+   <trd>suavizar<klr> (figurativo)</klr></trd>, 
+   <trd>pulir</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>lisser</trd>,
@@ -244,15 +263,11 @@
    <trd>alisar</trd>, 
    <trd>polir</trd> 
   </trdgrp>
-  <trdgrp lng="es">
-   <trd>alisar</trd>, 
-   <trd>suavizar<klr> (figurativo)</klr></trd>, 
-   <trd>pulir</trd>
-  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_z;&c_g;&c_l;&c_a;&c_d;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_r;&c_o;&c_v;&c_n;&c_ja;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">vyhladiť</trd>
 </drv>
 
     <drv mrk="glat.0umi">
@@ -315,18 +330,28 @@
     <trd>&c_n;&c_ja;&c_g;&c_l;&c_a;&c_d;&c_k;&c_ib;</trd>,
     <trd>&c_sh;&c_u;&c_r;&c_p;&c_a;&c_t;&c_y;</trd>
   </trdgrp>
-  <trdgrp lng="de">
-    <trd>rau</trd>,
-    <trd>grob</trd>
-  </trdgrp>
   <trdgrp lng="ca">
     <trd>aspre</trd>,
     <trd>abrupte</trd>,
     <trd>dif&iacute;cil</trd>,
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>drsný</trd>,
+    <trd>hrbolatý</trd>,
+    <trd>nehladký</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>rau</trd>,
+    <trd>grob</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>rough</trd>,
     <trd>coarse</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+   <trd>&aacute;spero, -a</trd>, 
+   <trd>dif&iacute;cil<klr> (figurativo)</klr></trd>, 
+   <trd>carrasposo, -a</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>rugueux</trd>,
@@ -342,20 +367,26 @@
    <trd>&aacute;spero</trd>, 
    <trd>rugoso</trd> 
   </trdgrp>
-  <trdgrp lng="es">
-   <trd>&aacute;spero, -a</trd>, 
-   <trd>dif&iacute;cil<klr> (figurativo)</klr></trd>, 
-   <trd>carrasposo, -a</trd>
-  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_sh;&c_je;&c_r;&c_sh;&c_a;&c_v;&c_y;&c_j;</trd>,
     <trd>&c_sh;&c_je;&c_r;&c_o;&c_h;&c_o;&c_v;&c_a;&c_t;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_g;&c_l;&c_a;&c_d;&c_k;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>drapľavý</trd>,
+    <trd>hrboľatý</trd>,
+    <trd>nerovný</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: glat.xml,v $
+Revision 1.22  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2011/12/03 17:10:11  revo
 Marc Rausell: kataluna traduko
 

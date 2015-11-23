@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konjak.xml,v 1.17 2009/08/08 16:33:43 revo Exp $">
+<art mrk="$Id: konjak.xml,v 1.19 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>konjak</rad>/o
@@ -25,6 +25,7 @@
   <trd lng="be">&c_k;&c_a;&c_n;&c_mol;&c_ja;&c_k;</trd>
   <trd lng="bg">&c_k;&c_o;&c_n;&c_ja;&c_k;</trd>
   <trd lng="ca">conyac</trd>
+  <trd lng="cs">koňak</trd>
   <trdgrp lng="de">
     <trd>Kognac</trd>,
     <trd>Cognac</trd>,
@@ -39,10 +40,17 @@
   <trd lng="nl">cognac</trd>
   <trd lng="pt">conhaque</trd>
   <trd lng="ru">&c_k;&c_o;&c_n;&c_mol;&c_ja;&c_k;</trd>
+  <trd lng="sk">koňak</trd>
 </drv>
 </art>
 <!--
 $Log: konjak.xml,v $
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2009/08/08 16:33:43  revo
 Wieland Pusch: +trd bg
 

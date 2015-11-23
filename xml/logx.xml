@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: logx.xml,v 1.24 2014/03/27 02:10:24 revo Exp $">
+<art mrk="$Id: logx.xml,v 1.25 2015/09/30 13:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lo&gcirc;</rad>/i <fnt><bib>PV</bib></fnt>
@@ -306,6 +306,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="en">
+    <trd>dormitory (dorm)</trd>,
+    <trd>barracks</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>grand ensemble</trd>,
     <trd>logement collectif</trd>
@@ -487,6 +491,9 @@
 </art>
 <!--
 $Log: logx.xml,v $
+Revision 1.25  2015/09/30 13:10:15  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.24  2014/03/27 02:10:24  revo
 Jeromo Vasxe: + kun~anto
 
@@ -506,8 +513,5 @@ Revision 1.19  2005/06/22 16:31:38  revo
 Yury Finkel: +trd ru
 
 Revision 1.18  2005/05/12 16:31:55  revo
-Yury Finkel: +trd ru
-
-Revision 1.17  2004/08/10 16:32:06  revo
 -->
 </vortaro>

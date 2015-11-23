@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konekt.xml,v 1.19 2013/08/26 11:10:18 revo Exp $">
+<art mrk="$Id: konekt.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>konekt</rad>/i
 </kap>
@@ -125,6 +125,10 @@
     <trd>&c_k;&c_a;&c_n;&c_e;&c_k;&c_t;&c_a;&c_r;</trd>,
     <trd>&c_z;&c_l;&c_u;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>konektor</trd>,
+    <trd>spojovací článek</trd>
+  </trdgrp>
   <trd lng="en">connector</trd>
   <trdgrp lng="es">
     <trd>conector</trd>,
@@ -140,6 +144,10 @@
     <trd>&c_k;&c_o;&c_n;&c_n;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_malmol;&c_jo;&c_m;</trd>,
     <trd>&c_s;&c_o;&c_je;&c_d;&c_i;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konektor</trd>,
+    <trd>spojovací článok</trd>
   </trdgrp>
 </drv>
 
@@ -270,6 +278,12 @@
 </art>
 <!--
 $Log: konekt.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/08/26 11:10:18  revo
 Sergio Pokrovskij: +TEZ
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: numer.xml,v 1.26 2014/10/03 11:10:29 revo Exp $">
+<art mrk="$Id: numer.xml,v 1.29 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>numer</rad>/o
@@ -34,14 +34,14 @@
       </ekz>
     </dif>
   <trd lng="es">ejemplar</trd>
-  </snc>                      
+  </snc>
   <trd lng="be">&c_n;&c_u;&c_m;&c_a;&c_r;</trd>
   <trd lng="br">niverenn</trd>
   <trd lng="cs">&ccaron;&iacute;slo</trd>
   <trd lng="de">Nummer</trd>
   <trd lng="en">number</trd>
   <trd lng="fr">num&eacute;ro</trd>
-  <trd lng="hu">sz&aacute;m</trd>  
+  <trd lng="hu">sz&aacute;m</trd>
   <trdgrp lng="id">
     <trd>angka</trd>,
     <trd>nomor</trd>
@@ -49,6 +49,7 @@
   <trd lng="nl">nummer</trd>
   <trd lng="pt">n&uacute;mero</trd>
   <trd lng="ru">&c_n;&c_o;&c_m;&c_je;&c_r;</trd>
+  <trd lng="sk">číslo</trd>
 </drv>
 
 <drv mrk="numer.0i">
@@ -62,16 +63,25 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_n;&c_u;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>    
+  <trd lng="be">&c_n;&c_u;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="br">niverenni&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>očíslovat</trd>,
+    <trd>číslovat</trd>
+  </trdgrp>
   <trd lng="de">nummerieren</trd>
   <trd lng="es">numerar</trd>
   <trd lng="fr">num&eacute;roter</trd>
-  <trd lng="hu">megsz&aacute;moz</trd>  
+  <trd lng="hu">megsz&aacute;moz</trd>
   <trd lng="id">[<ind>nomor</ind>] menomori</trd>
   <trd lng="nl">nummeren</trd>
   <trd lng="pt">numerar</trd>
   <trd lng="ru">&c_n;&c_u;&c_m;&c_je;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>očíslovať</trd>,
+    <trd>číslovať</trd>
+  </trdgrp>
+  <trd lng="zh">编号 [<ind>bīan hào</ind>]</trd>
 </drv>
 
 <drv mrk="numer.0ebla">
@@ -143,6 +153,9 @@
       <trd>&c_p;&c_je;&c_r;&c_je;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_m;&c_y;&c_j;</trd>,
       <trd>&c_d;&c_i;&c_s;&c_k;&c_r;&c_je;&c_t;&c_n;&c_y;&c_j;</trd>,
     </trdgrp>
+    <trdgrp lng="zh">
+        <trd>可数的 [<ind>kě shǔ de</ind>]</trd>
+    </trdgrp>
   </snc>
   <trd lng="es">numerable</trd>
 </drv>
@@ -161,12 +174,22 @@
       </ekz>
     </dif>
   </snc>           
-  <trd lng="br">niverenn skouer<klr tip="ind"> (kelaouenno&ugrave;)</klr></trd>
+  <trd lng="br">niverenn skouer<klr tip="ind"> 
+(kelaouenno&ugrave;)</klr></trd>
   <trd lng="hu">pr&oacute;basz&aacute;m</trd>  
 </drv>
 </art>
 <!--
 $Log: numer.xml,v $
+Revision 1.29  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/06/25 12:10:15  revo
+Darcy Shen: +trd zh numeri numerebla[MAT]
+
 Revision 1.26  2014/10/03 11:10:29  revo
 Guillermo Molleda Jimena: trd es
 
@@ -186,8 +209,5 @@ Revision 1.21  2004/07/15 19:04:47  revo
 Marc Bavant: kor duobligitan punkton
 
 Revision 1.20  2004/06/24 16:33:02  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.19  2003/09/01 16:30:46  revo
 -->
 </vortaro>

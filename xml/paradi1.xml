@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: paradi1.xml,v 1.22 2012/08/04 07:10:28 revo Exp $">
+<art mrk="$Id: paradi1.xml,v 1.24 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>paradiz</rad>/o
 </kap>
@@ -70,10 +70,12 @@
   <trd lng="bg">&c_r;&c_a;&c_j;</trd>
   <trd lng="br">baradoz</trd>
   <trd lng="ca">parad&iacute;s</trd>
+  <trd lng="cs">ráj</trd>
   <trd lng="de">Paradies</trd>
   <trd lng="fr">paradis</trd>
   <trd lng="nl">paradijs</trd>
   <trd lng="ru">&c_r;&c_a;&c_j;</trd>
+  <trd lng="sk">raj</trd>
   <trd lng="sv">paradis</trd>
 </drv>
 
@@ -133,6 +135,7 @@
     <trd>xarranca</trd>,
     <trd>sambori</trd>
   </trdgrp>
+  <trd lng="cs">panák</trd>
   <trd lng="de">Himmelhoppe</trd>
   <trd lng="en">hopscotch</trd>
   <trd lng="es">coxcojilla</trd>
@@ -145,10 +148,17 @@
   </trdgrp>
   <trd lng="ru">&c_k;&c_l;&c_a;&c_s;&c_s;&c_i;&c_k;&c_i; <klr
   tip="amb">(&c_i;&c_g;&c_r;&c_a;)</klr></trd>
+  <trd lng="sk">panák</trd>
 </drv>
 </art>
 <!--
 $Log: paradi1.xml,v $
+Revision 1.24  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2012/08/04 07:10:28  revo
 Marc Rausell: + trd ca
 

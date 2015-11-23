@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fabrik.xml,v 1.19 2012/01/02 10:10:33 revo Exp $">
+<art mrk="$Id: fabrik.xml,v 1.22 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>fabrik</rad>/o
+  <rad>fabrik</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="fabrik.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -34,15 +34,19 @@
     <trd>&c_f;&c_a;&c_b;&c_r;&c_y;&c_k;&c_a;</trd>,
     <trd>&c_z;&c_a;&c_v;&c_o;&c_d;</trd>
   </trdgrp>
-  <trdgrp lng="de">
-    <trd>Fabrik</trd>,
-    <trd>Werk</trd>
-  </trdgrp>
   <trdgrp lng="br">
     <trd>greanti</trd>,
     <trd>labouradeg</trd>
   </trdgrp>
   <trd lng="ca">f&agrave;brica</trd>
+  <trdgrp lng="cs">
+    <trd>továrna</trd>,
+    <trd>závod</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Fabrik</trd>,
+    <trd>Werk</trd>
+  </trdgrp>
   <trd lng="es">f&aacute;brica</trd>
   <trdgrp lng="fr">
     <trd>fabrique</trd>,
@@ -59,9 +63,10 @@
     <trd>&c_f;&c_a;&c_b;&c_r;&c_i;&c_k;&c_a;</trd>,
     <trd>&c_z;&c_a;&c_v;&c_o;&c_d;</trd>
   </trdgrp>
+  <trd lng="sk">továreň</trd>
   <trd lng="sv">fabrik</trd>
-  <trd lng="vo">fabl&uuml;d</trd>
   <trd lng="tr">fabrika</trd>
+  <trd lng="vo">fabl&uuml;d</trd>
 </drv>
 
 <drv mrk="fabrik.0i">
@@ -88,6 +93,7 @@
     <trd>farda&ntilde;<klr tip="ind"> (oberia&ntilde;)</klr></trd>
   </trdgrp>
   <trd lng="ca">fabricar</trd>
+  <trd lng="cs">průmyslově vyrábět</trd>
   <trdgrp lng="de">
     <trd>fabrizieren</trd>,
     <trd>produzieren</trd>,
@@ -104,10 +110,13 @@
     <trd>profukowa&cacute;</trd>,
     <trd>wytwarza&cacute;</trd>
   </trdgrp>
-  <trd
-  lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
-  <trd lng="vo">fabl&uuml;d&ouml;n</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>vyrobiť</trd>,
+    <trd>vyrábať</trd>
+  </trdgrp>
   <trd lng="tr">&uuml;retmek</trd>
+  <trd lng="vo">fabl&uuml;d&ouml;n</trd>
 </drv>
 
 <drv mrk="fabrik.0ado">
@@ -121,6 +130,10 @@
   lng="be">&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_ch;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="br">oberiadur</trd>
   <trd lng="ca">fabricaci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>fabrikace</trd>,
+    <trd>továrenská výroba</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Fabrikation</trd>,
     <trd>Produktion</trd>,
@@ -137,8 +150,8 @@
     <trd>profukcja</trd>,
     <trd>wytw&oacute;rstwo</trd>
   </trdgrp>
-  <trd
-  lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="sk">továrenská výroba</trd>
   <trd lng="tr">&uuml;retim</trd>
 </drv>
 
@@ -156,13 +169,16 @@
     <trd>farder</trd>
   </trdgrp>
   <trd lng="ca">fabricant</trd>
+  <trdgrp lng="cs">
+    <trd>hanl. fabrikant</trd>,
+    <trd>továrník</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Fabrikant</trd>,
     <trd>Fabrikbesitzer</trd>,
     <trd>Produzent</trd>,
     <trd>Hersteller</trd>
   </trdgrp>
-  <trd lng="nl">fabrikant</trd>
   <trd lng="es">fabricante</trd>
   <trdgrp lng="fr">
     <trd>constructeur<klr tip="ind"> (fabriquant)</klr></trd>,
@@ -172,20 +188,61 @@
     <trd>gy&aacute;ros</trd>,
     <trd>gy&aacute;rt&oacute;</trd>
   </trdgrp>
+  <trd lng="nl">fabrikant</trd>
   <trdgrp lng="pl">
     <trd>fabrykant<klr> (przest.)</klr></trd>,
     <trd>producent</trd>,
     <trd>wytw&oacute;rca</trd>
   </trdgrp>
   <trd lng="ru">&c_f;&c_a;&c_b;&c_r;&c_i;&c_k;&c_a;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>továrnik</trd>,
+    <trd>výrobca</trd>
+  </trdgrp>
   <trdgrp lng="tr">
     <trd>&uuml;retici</trd>,
     <trd>&uuml;reten</trd>
   </trdgrp>
 </drv>
+
+<drv mrk="fabrik.pens0o">
+  <kap>pens<tld/>o</kap>
+  <snc mrk="fabrik.pens0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Privata asocio a&ubreve; fonda&jcirc;o, kiu studas sociajn kaj politikajn 
+      temojn kaj pri ili publikigas raportojn, rekomendojn:
+      <ekz>
+        la  Centro por Politikaj Alternativoj <klr>...</klr>
+        estas pens<tld/>o pri civila socio en Srilanko 
+        <fnt>
+          <aut>Rezwan, trad. T. Nee</aut>,
+          <vrk><url ref="eo.globalvoicesonline.org/2014/11/1964">
+          Informgrafiko: 5 faktoj pri tamila komunumo en la nordo de 
+          Srilanko</url></vrk>,
+          <lok>GlobalVoices, 2014-11-23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">think tank</trd>
+  <trdgrp lng="fr">
+    <trd>club de r&eacute;flexion</trd>,
+    <trd>laboratoire d'id&eacute;es</trd>
+  </trdgrp>
+</drv>
 </art>
 <!--
 $Log: fabrik.xml,v $
+Revision 1.22  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/12/07 16:10:17  revo
+Jeromo Vasxe: + pens~o
+
 Revision 1.19  2012/01/02 10:10:33  revo
 Marc Rausell: +trd ca
 
@@ -205,8 +262,5 @@ Revision 1.14 2005/03/20 17:51:28 revo
 Alan ar Gall: + trd br
 
 Revision 1.13 2003/12/21 17:32:07 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12 2003/09/12 16:32:02 revo
 -->
 </vortaro>

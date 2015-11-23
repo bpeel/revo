@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fremd.xml,v 1.22 2011/11/07 01:10:27 revo Exp $">
+<art mrk="$Id: fremd.xml,v 1.24 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fremd</rad>/a
@@ -125,6 +125,8 @@
   <trd lng="fr">&eacute;tranger<klr tip="ind"> (adj.)</klr></trd>
   <trd lng="hu">idegen</trd>
   <trd lng="kek">ab&#789;l</trd>
+  <trd lng="sk">cudzí</trd>
+  <trd lng="cs">cizí <klr>(patřící jinému / jiné zemi )</klr></trd>
 </drv>
 
 <drv mrk="fremd.0ulo">
@@ -177,6 +179,8 @@
     <klr tip="amb"> (&c_v; &c_z;&c_n;&c_a;&c_ch;. &c_s;&c_u;&c_shch;.)
     </klr></trd>
   </trdgrp>
+  <trd lng="sk">cudzinec</trd>
+  <trd lng="cs">cizinec</trd>
 </drv>
 
 <drv mrk="fremd.0igxo">
@@ -217,6 +221,12 @@
 </art>
 <!--
 $Log: fremd.xml,v $
+Revision 1.24  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2011/11/07 01:10:27  revo
  Anchise Inzaghi: traduko q'eqchi'
 

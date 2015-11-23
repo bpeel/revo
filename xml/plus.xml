@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plus.xml,v 1.32 2014/09/01 19:10:11 revo Exp $">
+<art mrk="$Id: plus.xml,v 1.34 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>plus</rad>
@@ -29,6 +29,7 @@
   </snc>
   <trd lng="be">&c_p;&c_l;&c_ju;&c_s;</trd>
   <trd lng="ca">m&eacute;s</trd>
+  <trd lng="cs">plus</trd>
   <trd lng="de">plus</trd>
   <trd lng="en">plus</trd>
   <trd lng="es">m&aacute;s <klr>(conj.)</klr></trd>
@@ -41,6 +42,7 @@
   <trd lng="pl">plus</trd>
   <trd lng="pt">mais <klr>(conj.)</klr></trd>
   <trd lng="ru">&c_p;&c_l;&c_ju;&c_s;</trd>
+  <trd lng="sk">plus</trd>
 </drv>
 
 <drv mrk="plus.0o">
@@ -138,11 +140,22 @@
     <trd>m&eacute;s</trd>,
     <trd>plus</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>přebytek</trd>,
+    <trd>přírůstek</trd>
+  </trdgrp>
   <trd lng="pl">plus</trd>
+  <trd lng="sk">prírastok</trd>
 </drv>
 </art>
 <!--
 $Log: plus.xml,v $
+Revision 1.34  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.32  2014/09/01 19:10:11  revo
 Guillermo Molleda Jimena: trd es
 

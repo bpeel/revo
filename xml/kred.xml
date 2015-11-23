@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kred.xml,v 1.30 2014/10/25 09:10:14 revo Exp $">
+<art mrk="$Id: kred.xml,v 1.35 2015/10/01 10:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kred</rad>/i <fnt><bib>PV</bib></fnt>
@@ -151,7 +151,11 @@
     <trd lng="nl">vertrouwen</trd>
   </snc>
   <trd lng="be">&c_v;&c_je;&c_r;&c_y;&c_c;&c_mol;</trd>
-  <trd lng="cs">v&ecaron;&rcaron;it</trd>
+  <trdgrp lng="cs">
+    <trd>d&uring;v&ecaron;&rcaron;ovat</trd>,
+    <trd>v&ecaron;&rcaron;it</trd>,
+    <trd>v&ecaron;&rcaron;it</trd>
+  </trdgrp>
   <trd lng="en">believe</trd>
   <trd lng="es">creer</trd>
   <trd lng="fr">croire</trd>
@@ -160,7 +164,12 @@
     <trd>elhisz</trd>
   </trdgrp>
   <trd lng="pt">crer</trd>
+  <trd lng="pl">wierzy&cacute;</trd>
   <trd lng="ru">&c_v;&c_je;&c_r;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>uveri&tcaron;</trd>,
+    <trd>veri&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kred.0o">
@@ -174,6 +183,8 @@
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
     </dif>
+    <trdgrp lng="en"><trd>belief</trd>, <trd>trust</trd>,
+  <trd>confidence</trd></trdgrp>
   </snc>
   <snc mrk="kred.0o.je">
     <dif>
@@ -188,9 +199,16 @@
       </ekz>
     </dif>
     <ref tip="sub" cel="konvin.0o">konvinko</ref>
+      <trdgrp lng="en"><trd>belief</trd>,
+  <trd>faith</trd></trdgrp>
     <trd lng="ru">&c_v;&c_je;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
   </snc>
   <trd lng="be">&c_v;&c_je;&c_r;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>kr&eacute;da</trd>,
+    <trd>v&iacute;ra</trd>,
+    <trd>v&ecaron;&rcaron;en&iacute;</trd>
+  </trdgrp>
   <trd lng="de">Glaube</trd>
   <trd lng="es">creencia</trd>
   <trdgrp lng="fr">
@@ -199,7 +217,12 @@
   </trdgrp>
   <trd lng="hu">hit</trd>
   <trd lng="nl">geloof</trd>
+  <trd lng="pl">wiara</trd>
   <trd lng="ru">&c_v;&c_je;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>presved&ccaron;enie</trd>,
+    <trd>viera</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kred.0anto">
@@ -215,10 +238,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">believer</trd>
+  <trd lng="cs">v&ecaron;&rcaron;&iacute;c&iacute; <klr>(sub.)</klr></trd>
   <trd lng="fr">croyant<klr tip="amb"> (subst.)</klr></trd>
   <trd lng="nl">gelovige</trd>
+  <trd lng="pl">wierny</trd>
   <trd lng="ru">&c_v;&c_je;&c_r;&c_u;&c_ju;&c_shch;&c_i;&c_j;<klr tip="amb">
   (&c_s;&c_u;&c_shch;.)</klr></trd>
+  <trd lng="sk">veriaci</trd>
 </drv>
 
 <drv mrk="kred.0ebla">
@@ -228,6 +255,9 @@
       Kiun (prudente) eblas <tld/>i.
     </dif>
   </snc>
+  <trdgrp lng="en"><trd>believable</trd>, <trd>credible</trd>,
+  <trd>plausible</trd></trdgrp>
+  <trd lng="cs">uv&ecaron;&rcaron;iteln&yacute;</trd>
   <trdgrp lng="fr">
     <trd>croyable</trd>,
     <trd>vraisemblable</trd>
@@ -236,10 +266,12 @@
     <trd>waarschijnlijk<klr tip="ind"> (bn.)</klr></trd>,
     <trd>geloofwaardig<klr tip="ind"> (bn.)</klr></trd>
   </trdgrp>
+  <trd lng="pl">prawdopodobny</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_v;&c_d;&c_o;&c_p;&c_o;&c_d;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">uverite&lcaron;n&yacute;</trd>
 </drv>
 
 <drv mrk="kred.0eble">
@@ -266,17 +298,31 @@
       <ref cel="sxajn.ver0e">ver&scirc;ajne</ref>
     </refgrp>
   </snc>
+  <trd lng="en">believably</trd>
+  <trdgrp lng="cs">
+    <trd>asi</trd>,
+    <trd>pravd&ecaron;podobn&ecaron;</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>plausiblement</trd>,
-    <trd>vraisemblablement</trd>
+    <trd>vraisemblablement</trd>,
+    <trd>sans doute</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>waarschijnlijk<klr tip="ind"> (bw.)</klr></trd>,
     <trd>geloofwaardig<klr tip="ind"> (bw.)</klr></trd>
   </trdgrp>
+  <trd lng="pl">prawdopodobnie</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_v;&c_d;&c_o;&c_p;&c_o;&c_d;&c_o;&c_b;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>azda</trd>,
+    <trd>h&aacute;dam</trd>,
+    <trd>mo&zcaron;no</trd>,
+    <trd>sn&aacute;&dcaron;</trd>,
+    <trd>vari</trd>
   </trdgrp>
 </drv>
 
@@ -295,12 +341,19 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">credulous</trd>
+  <trd lng="cs">d&uring;v&ecaron;&rcaron;iv&yacute;</trd>
   <trdgrp lng="fr">
     <trd>cr&eacute;dule</trd>,
     <trd>trop <ind>confiant</ind></trd>
   </trdgrp>
   <trd lng="nl">lichtgelovig</trd>
+  <trd lng="pl">&lstroke;atwowierny</trd>
   <trd lng="ru">&c_l;&c_je;&c_g;&c_k;&c_o;&c_v;&c_je;&c_r;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>d&ocirc;ver&ccaron;iv&yacute;</trd>,
+    <trd>&lcaron;ahkovern&yacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kred.0igi">
@@ -319,6 +372,8 @@
         se miaj vortoj estas ne sufi&ccirc;e <tld/>igaj<fnt>Z</fnt>.
       </ekz>
     </dif>
+     <trdgrp lng="en"><trd>to induce to believe</trd>, <trd>to
+  persuade</trd>, <trd>to convince</trd></trdgrp>
   </snc>
   <snc>
     <dif>
@@ -330,7 +385,9 @@
     <refgrp tip="vid">
       <ref cel="persva.0i">persvadi</ref>
     </refgrp>
+    <trd lng="en">to make credible</trd>
   </snc>
+  <trd lng="cs">p&rcaron;esv&ecaron;d&ccaron;it</trd>
   <trdgrp lng="de">
     <trd>einreden</trd>,
     <trd>weismachen</trd>,
@@ -341,7 +398,12 @@
   </trdgrp>
   <trd lng="hu">elhitet</trd>
   <trd lng="nl">doen <ind>geloven</ind></trd>
+  <trd lng="pl">przekonywa&cacute;</trd>
   <trd lng="ru">&c_u;&c_v;&c_je;&c_r;&c_ja;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>nahovori&tcaron;</trd>,
+    <trd>presved&ccaron;i&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kred.0inda">
@@ -355,16 +417,29 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">trustworthy</trd>
+  <trdgrp lng="cs">
+    <trd>hodnov&ecaron;rn&yacute;</trd>,
+    <trd>spolehliv&yacute;</trd>,
+    <trd>uv&ecaron;&rcaron;iteln&yacute;</trd>,
+    <trd>v&ecaron;rohodn&yacute;</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>cr&eacute;dible</trd>,
     <trd>digne de <ind>foi</ind></trd>
   </trdgrp>
   <trd lng="nl">geloofwaardig</trd>
+  <trd lng="pl">wiarygodny</trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_o;&c_s;&c_t;&c_o;&c_v;&c_je;&c_r;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_a;&c_d;&c_jo;&c_zh;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_z;&c_a;&c_s;&c_l;&c_u;&c_zh;&c_i;&c_v;&c_a;&c_ju;&c_shch;&c_i;&c_j;
     <ind>&c_d;&c_o;&c_v;&c_je;&c_r;&c_i;&c_ja;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hodnovern&yacute;</trd>,
+    <trd>spo&lcaron;ahliv&yacute;</trd>,
+    <trd>vierohodn&yacute;</trd>
   </trdgrp>
 </drv>
 
@@ -387,7 +462,10 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">jinov&ecaron;rec</trd>
   <trd lng="fr">personne d'une autre <ind>croyance</ind></trd>
+  <trd lng="pl">innowierca</trd>
+  <trd lng="sk">inoverec</trd>
 </drv>
 
 <drv mrk="kred.mal0indigi">
@@ -414,8 +492,9 @@
   </trdgrp>
   <trd lng="en">discredit</trd>
   <trd lng="fr">discr&eacute;diter</trd>
-  <trd lng="pt">desacreditar</trd>
   <trd lng="nl">in <ind>discrediet</ind> brengen</trd>
+  <trd lng="pl">dyskredytowa&cacute;</trd>
+  <trd lng="pt">desacreditar</trd>
   <trd lng="ru">&c_d;&c_i;&c_s;&c_k;&c_r;&c_je;&c_d;&c_i;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
 </drv>
 
@@ -458,10 +537,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">unbelievable</trd>
+  <trd lng="cs">neuv&ecaron;&rcaron;iteln&yacute;</trd>
   <trdgrp lng="fr">
     <trd>incroyable</trd>,
     <trd>inou&iuml;</trd>
   </trdgrp>
+  <trd lng="pl">niewiarygodny</trd>
+  <trd lng="sk">neuverite&lcaron;n&yacute;</trd>
 </drv>
 
 <drv mrk="kred.ne0eblajxo">
@@ -485,6 +568,7 @@
     </dif>
   </snc>
   <trd lng="fr">chose <ind>inou&iuml;e</ind></trd>
+  <trd lng="pl">bzdura <klr>(pot.)</klr></trd>
 </drv>
 
 <drv mrk="kred.ne0ema">
@@ -502,6 +586,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_je;&c_p;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="cs">malov&ecaron;rn&yacute;</trd>
   <trdgrp lng="de">
     <trd>skeptisch</trd>,
     <trd>zweiflerisch</trd>
@@ -516,10 +601,12 @@
     <trd>k&eacute;telked&odblac;</trd>
   </trdgrp>
   <trd lng="nl">sceptisch</trd>
+  <trd lng="pl">sceptyczny</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_k;&c_je;&c_p;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>,
     <trd>&c_s;&c_k;&c_je;&c_p;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">malovern&yacute;</trd>
 </drv>
 
 <drv mrk="kred.ne0o">
@@ -540,6 +627,7 @@
       <ref cel="skepti.0o">skeptiko</ref>
     </refgrp>
   </snc>
+  <trd lng="en">unbelief</trd>
   <trd lng="de">Unglaube</trd>
   <trdgrp lng="fr">
     <trd>incroyance</trd>,
@@ -547,6 +635,7 @@
   </trdgrp>
   <trd lng="hu">hitetlens&eacute;g</trd>
   <trd lng="nl">ongeloof</trd>
+  <trd lng="pl">niewiara</trd>
   <trd lng="ru">&c_n;&c_je;&c_v;&c_je;&c_r;&c_i;&c_je;</trd>
 </drv>
 
@@ -570,6 +659,7 @@
       <ref cel="teism.0o">teismo</ref>
     </refgrp>
   </snc>
+  <trd lng="en">creedlessness</trd>
   <trd lng="de">Freigl&auml;ubigkeit</trd>
   <trd lng="fr">d&eacute;isme</trd>
   <trd lng="nl">vrijzinnigheid</trd>
@@ -600,11 +690,28 @@
       <ref cel="religi.sam0ano.REL">samreligiano</ref>
     </refgrp>
   </snc>
+  <trd lng="en">fellow believer</trd>
   <trd lng="fr">personne de m&ecirc;me <ind>croyance</ind></trd>
+  <trd lng="pl">wsp&oacute;&lstroke;wierny</trd>
 </drv>
 </art>
 <!--
 $Log: kred.xml,v $
+Revision 1.35  2015/10/01 10:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.34  2015/09/13 22:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.33  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.31  2015/04/19 17:10:14  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.30  2014/10/25 09:10:14  revo
 Jeromo Vasxe: + ali/sam~anto
 
@@ -612,20 +719,5 @@ Revision 1.29  2014/03/12 21:10:24  revo
 Jeromo Vasxe: + mis~ulo
 
 Revision 1.28  2014/02/08 15:10:52  revo
-Damien Brucker: -eraro cxe ref
-
-Revision 1.27  2013/12/13 02:10:14  revo
-Jeromo Vasxe: + ne~ema
-
-Revision 1.26  2011/04/12 20:10:11  revo
-Jeromo Vasxe: + mal~indigi
-
-Revision 1.25  2010/06/06 16:31:17  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.24  2009/11/08 17:30:41  revo
-Jeromo Vasxe: + ne~ebla/eblajxo
-
-Revision 1.23 2009/09/13 16:57:13 revo
 -->
 </vortaro>

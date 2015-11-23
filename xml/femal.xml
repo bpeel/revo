@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: femal.xml,v 1.4 2007/06/27 16:30:54 revo Exp $">
+<art mrk="$Id: femal.xml,v 1.6 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <rad>femal</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -21,8 +21,10 @@
       </fnt>.
     </ekz>
   </snc>
+  <trd lng="cs">samice</trd>
   <trd lng="de">Weibchen</trd>
   <trd lng="pt">f&ecirc;mea</trd>
+  <trd lng="sk">žena</trd>
   <trd lng="tp">meli</trd>
 </drv>
 
@@ -32,14 +34,28 @@
   <snc mrk="femal.0a.BIO">
     <ref tip="dif" cel="in.0a.BIO">ina <sncref/></ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>samičí</trd>,
+    <trd>ženský</trd>
+  </trdgrp>
   <trd lng="de">weiblich</trd>
   <trd lng="pt">f&ecirc;meo</trd>
+  <trdgrp lng="sk">
+    <trd>samičí</trd>,
+    <trd>ženský</trd>
+  </trdgrp>
   <trd lng="tp">meli</trd>
 </drv>
 </art>
 
 <!--
 $Log: femal.xml,v $
+Revision 1.6  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2007/06/27 16:30:54  revo
 Wieland Pusch: +trd de
 

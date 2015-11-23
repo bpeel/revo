@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gramof.xml,v 1.22 2013/08/08 17:10:12 revo Exp $">
+<art mrk="$Id: gramof.xml,v 1.24 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>6</ofc>
   <rad>gramofon</rad>/o <fnt><bib>PV</bib></fnt>
@@ -30,6 +30,7 @@
   </trdgrp>
   <trd lng="bg">&c_g;&c_r;&c_a;&c_m;&c_o;&c_f;&c_o;&c_n;</trd>
   <trd lng="ca">gram&ograve;fon</trd>
+  <trd lng="cs">gramofon</trd>
   <trdgrp lng="de">
     <trd>Plattenspieler</trd>,
     <trd>Grammophon <klr>(arkaika)</klr></trd>,
@@ -58,6 +59,7 @@
     <trd>&c_g;&c_r;&c_a;&c_m;&c_m;&c_o;&c_f;&c_o;&c_n; <klr>(arkaika)</klr></trd>,
     <trd>&c_p;&c_r;&c_o;&c_i;&c_g;&c_r;&c_y;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">gramofón</trd>
   <trdgrp lng="sv">
     <trd>grammofon</trd>,
     <trd>skivspelare</trd>
@@ -67,6 +69,12 @@
 </art>
 <!--
 $Log: gramof.xml,v $
+Revision 1.24  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2013/08/08 17:10:12  revo
 Joop Eggen: +trd bg
 

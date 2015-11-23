@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pamfle.xml,v 1.15 2014/01/02 13:10:19 revo Exp $">
+<art mrk="$Id: pamfle.xml,v 1.17 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>3</ofc><rad>pamflet</rad>/o
 </kap>
@@ -18,6 +18,11 @@
     <trd>pamflet</trd>,
     <trd>libel</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hanopis</trd>,
+    <trd>pamflet</trd>
+  </trdgrp>
+  <trd lng="de">Pamphlet</trd>
   <trdgrp lng="en">
     <trd>pasquinade</trd>,
     <trd>lampoon</trd>,
@@ -26,7 +31,6 @@
       <klr tip="amb">(harsh essay about a current topic)</klr>
     </trd>
   </trdgrp>
-  <trd lng="de">Pamphlet</trd>
   <trd lng="es">panfleto</trd>
   <trdgrp lng="fr">
     <trd>libelle</trd>,
@@ -44,10 +48,17 @@
   <trd lng="pl">pamflet</trd>
   <trd lng="pt">panfleto</trd>
   <trd lng="ru">&c_p;&c_a;&c_m;&c_f;&c_l;&c_je;&c_t;</trd>
+  <trd lng="sk">pamflet</trd>
 </drv>
 </art>
 <!--
 $Log: pamfle.xml,v $
+Revision 1.17  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2014/01/02 13:10:19  revo
 Sebastian Cyprych: +trd pl
 

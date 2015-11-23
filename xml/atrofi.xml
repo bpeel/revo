@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: atrofi.xml,v 1.20 2013/08/06 16:10:21 revo Exp $">
+<art mrk="$Id: atrofi.xml,v 1.22 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <rad>atrofi</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -24,6 +24,11 @@
   <trd lng="be">&c_a;&c_t;&c_r;&c_a;&c_f;&c_ib;&c_ja;</trd>
   <trd lng="bg">&c_a;&c_t;&c_r;&c_o;&c_f;&c_i;&c_ja;</trd>
   <trd lng="ca">atr&ograve;fia</trd>
+  <trdgrp lng="cs">
+    <trd>senilita</trd>,
+    <trd>stařecká demence</trd>,
+    <trd>stařecký marasmus</trd>
+  </trdgrp>
   <trd lng="de">Atrophie</trd>
   <trd lng="en">atrophy</trd>
   <trd lng="es">atrofia</trd>
@@ -40,7 +45,11 @@
   <trd lng="it">atrofia</trd>
   <trd lng="nl">atrofie</trd>
   <trd lng="ru">&c_a;&c_t;&c_r;&c_o;&c_f;&c_i;&c_ja;</trd>
-  <trd lng="sk">atrofia</trd>
+  <trdgrp lng="sk">
+    <trd>atrofia</trd>,
+    <trd>senilita</trd>,
+    <trd>starecká demencia</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="atrofi.0a">
@@ -61,6 +70,11 @@
     <trd>atr&ograve;fic</trd>,
     <trd>atrofiat</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>atrofický</trd>,
+    <trd>zakrnělý</trd>,
+    <trd>zmenšený</trd>
+  </trdgrp>
   <trd lng="en">atrophied</trd>
   <trd lng="es">atrofiarse</trd>
   <trd lng="fr">atrophi&eacute;<klr> (adj.)</klr></trd>
@@ -73,7 +87,10 @@
       <trd>&c_a;&c_t;&c_r;&c_o;&c_f;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>,
       <trd>&c_a;&c_t;&c_r;&c_o;&c_f;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
-  <trd lng="sk">atrofova&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>atrofický</trd>,
+    <trd>atrofova&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="atrofi.0i">
@@ -104,6 +121,11 @@
     <ref tip="dif" cel="atrofi.0igi">atrofiigi</ref>
     <rim>Estas malkonsento, &ccirc;u la transitiva difino sencas.</rim>
   </snc>
+  <trdgrp lng="cs">
+    <trd>být atrofický</trd>,
+    <trd>zakrnělý</trd>
+  </trdgrp>
+  <trd lng="sk">byť atrofický</trd>
 </drv>
 
 <drv mrk="atrofi.0igxi">
@@ -152,6 +174,12 @@
 </art>
 <!--
 $Log: atrofi.xml,v $
+Revision 1.22  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2013/08/06 16:10:21  revo
 Joop Eggen: +trd bg nl
 

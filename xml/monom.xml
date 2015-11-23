@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: monom.xml,v 1.13 2006/08/07 16:33:43 revo Exp $">
+<art mrk="$Id: monom.xml,v 1.15 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>monom</rad>/o
 </kap>
@@ -23,6 +23,10 @@
     <trd>&c_a;&c_d;&c_n;&c_a;&c_s;&c_k;&c_l;&c_a;&c_d;</trd>
   </trdgrp>
   <trd lng="ca">monomi</trd>
+  <trdgrp lng="cs">
+    <trd>jednočlen</trd>,
+    <trd>monom</trd>
+  </trdgrp>
   <trd lng="de">Monom</trd>
   <trd lng="en">monomial</trd>
   <trd lng="es">monomio</trd>
@@ -39,11 +43,21 @@
   <trd lng="pt">mon&ocirc;mio</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_d;&c_n;&c_o;&c_ch;&c_l;&c_je;&c_n;</trd>,
-    <trd>&c_m;&c_o;&c_n;&c_o;&c_m;</trd></trdgrp> 
+    <trd>&c_m;&c_o;&c_n;&c_o;&c_m;</trd></trdgrp>
+  <trdgrp lng="sk">
+    <trd>jednočlen</trd>,
+    <trd>monóm</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: monom.xml,v $
+Revision 1.15  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2006/08/07 16:33:43  revo
 Tulio Flores: +tr pt
 

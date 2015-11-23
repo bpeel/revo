@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: komisu.xml,v 1.13 2011/09/28 22:10:10 revo Exp $">
+<art mrk="$Id: komisu.xml,v 1.15 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>komisur</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -39,6 +39,7 @@
     </dif>
     <trd lng="hu">term&odblac;lev&eacute;lzug</trd>
   </snc>
+  <trd lng="cs">komisura</trd>
   <trd lng="fa">&f_p;&f_y;&a_w;&a_n;&a_d;&f_g;&a_A;&a_h;</trd>
   <trd lng="it">commessura</trd>
   <trdgrp lng="nl">
@@ -51,10 +52,17 @@
     <trd>&c_s;&c_p;&c_a;&c_j;&c_k;&c_a;</trd>,
     <trd>&c_k;&c_o;&c_m;&c_i;&c_s;&c_s;&c_u;&c_r;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">komisúra</trd>
 </drv>
 </art>
 <!--
 $Log: komisu.xml,v $
+Revision 1.15  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2011/09/28 22:10:10  revo
 Behnam Tabatabai: +trd fa
 

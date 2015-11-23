@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: silik.xml,v 1.14 2010/12/28 08:46:47 revo Exp $">
+<art mrk="$Id: silik.xml,v 1.16 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>silik</rad>/o <fnt><bib>PV</bib></fnt>
@@ -47,13 +47,27 @@
     <trd lng="hu">kovak&odblac;</trd>    
     <trd lng="ru">&c_k;&c_r;&c_je;&c_m;&c_je;&c_n;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>křemen</trd>,
+    <trd>pazourek</trd>
+  </trdgrp>
   <trd lng="en">flint</trd>
   <trd lng="fr">silex</trd>
   <trd lng="nl">vuursteen</trd>
+  <trdgrp lng="sk">
+    <trd>kremeň</trd>,
+    <trd>pazúrik</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: silik.xml,v $
+Revision 1.16  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2010/12/28 08:46:47  revo
 Jeromo Vasxe: + ekz
 

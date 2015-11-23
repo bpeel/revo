@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: brog.xml,v 1.16 2009/03/28 17:30:47 revo Exp $">
+<art mrk="$Id: brog.xml,v 1.19 2015/10/06 11:10:21 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>brog</rad>/i
@@ -48,8 +48,8 @@
       <trd>sparzy&cacute;</trd>,
       <trd>blanszowa&cacute;</trd>
     </trdgrp>
-    <trd
-    lng="ru">&c_b;&c_l;&c_a;&c_n;&c_sh;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    <trd lng="pt">aferventar</trd>
+    <trd lng="ru">&c_b;&c_l;&c_a;&c_n;&c_sh;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
   <snc mrk="brog.0i.vundi">
     <dif>
@@ -83,10 +83,19 @@
       <trd>sparzy&cacute;<klr tip="amb"> si&eogonek;</klr></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hodit do va&rcaron;&iacute;c&iacute; vody</trd>,
+    <trd>opa&rcaron;it</trd>,
+    <trd>pa&rcaron;it</trd>
+  </trdgrp>
   <trd lng="en">scald</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_sh;&c_p;&c_a;&c_r;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_sh;&c_p;&c_a;&c_r;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>obari&tcaron;</trd>,
+    <trd>opari&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -125,6 +134,15 @@
 </art>
 <!--
 $Log: brog.xml,v $
+Revision 1.19  2015/10/06 11:10:21  revo
+Evandro Avellar: +trd pt
+
+Revision 1.18  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2009/03/28 17:30:47  revo
 Sebastian Cyprych: +trd pl
 
@@ -137,15 +155,6 @@ Jozefo Horvath: +trd hu
 
 Revision 1.13  2003/01/06 17:31:24  revo
 Wolfram Diestel: +ekz-oj, +ref-oj
-
-Revision 1.12  2003/01/03 22:03:23  revo
-Wolfram Diestel: precizigis germ trd de ~ajxo
-
-Revision 1.11  2002/01/09 20:23:27  revo
-fontindiko PrV per programo de Jerome
-
-Revision 1.10  2001/02/20 17:16:32  revo
-Marc Bavant: +trd fr
 
 -->
 </vortaro>

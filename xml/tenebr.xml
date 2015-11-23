@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tenebr.xml,v 1.9 2013/04/19 06:10:10 revo Exp $">
+<art mrk="$Id: tenebr.xml,v 1.11 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>tenebr</rad>/o
   <fnt><bib>PIV1</bib></fnt>
@@ -22,6 +22,10 @@
   </snc>
   <trd lng="be">&c_z;&c_m;&c_r;&c_o;&c_k;</trd>
   <trd lng="ca">tenebrositat</trd>
+  <trdgrp lng="cs">
+    <trd>temnota</trd>,
+    <trd>tma</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>tenebrosity</trd>,
     <trd>tenebrousness</trd>
@@ -41,11 +45,21 @@
     <trd>&c_t;&c_mol;&c_m;&c_a;</trd>,
     <trd>&c_m;&c_r;&c_a;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>temnota</trd>,
+    <trd>tma</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: tenebr.xml,v $
+Revision 1.11  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2013/04/19 06:10:10  revo
 Jozefo Horvath: kor. tr hu
 

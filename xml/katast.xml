@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: katast.xml,v 1.25 2012/03/08 10:10:09 revo Exp $">
+<art mrk="$Id: katast.xml,v 1.28 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>katastrof</rad>/o <fnt><bib>PV</bib></fnt>
@@ -25,6 +25,11 @@
   <trd lng="be">&c_k;&c_a;&c_t;&c_a;&c_s;&c_t;&c_r;&c_o;&c_f;&c_a;</trd>
   <trd lng="bg">&c_k;&c_a;&c_t;&c_a;&c_s;&c_t;&c_r;&c_o;&c_f;&c_a;</trd>
   <trd lng="ca">cat&agrave;strofe</trd>
+  <trdgrp lng="cs">
+    <trd>katastrofa</trd>,
+    <trd>neštěstí</trd>,
+    <trd>pohroma</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Katastrophe</trd>,
      <trd>schweres <ind>Ungl&uuml;ck</ind></trd>,
@@ -63,6 +68,11 @@
     <trd>cataclysme</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_a;&c_t;&c_a;&c_s;&c_t;&c_r;&c_o;&c_f;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>katastrofa</trd>,
+    <trd>nešťastie</trd>,
+    <trd>pohroma</trd>
+  </trdgrp>
   <trd lng="sv">katastrof</trd>
   <trd lng="tp">pakala</trd>
 </drv>
@@ -107,12 +117,34 @@
         Cuvier (1769&ndash;1832)
         <fnt>
           <bib>Viki</bib>,
-          <lok><url ref="http://eo.wikipedia.org/wiki/Katastrofismo">
-          katastrofismo</url>, 2010-04-01</lok>
+          <vrk><url ref="http://eo.wikipedia.org/wiki/Katastrofismo">
+          katastrofismo</url></vrk>,
+          <lok>2010-04-01</lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="fr">catastrophisme<klr> (th&eacute;orie)</klr></trd>
+  </snc>
+  <trd lng="cs">katastrofizmus</trd>
+  <trd lng="sk">katastrofizmus</trd>
+</drv>
+
+<drv mrk="katast.kontraux0a">
+  <kap>kontra&ubreve;<tld/>a</kap>
+  <snc mrk="katast.kontraux0a.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Anta&ubreve;malhelpa a&ubreve; helpoproviza por okazoj de <tld/>o:
+      <ekz>
+        unu el miaj laboroj estis de&jcirc;orado en 
+        kontra&ubreve;<tld/>a hospitalo
+        <fnt>
+          <aut>Emil</aut>,
+          <vrk>Decidema mi &ccirc;iam estas</vrk>,
+          <lok>en: Vivprotokoloj, 2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
 </drv>
 
@@ -141,15 +173,29 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">přírodní katastrofa</trd>
   <trdgrp lng="fr">
     <trd>calamit&eacute;</trd>,
     <trd>catastrophe naturelle</trd>,
     <trd>cataclysme</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pohroma</trd>,
+    <trd>prírodná katastrofa</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: katast.xml,v $
+Revision 1.28  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2015/01/10 18:10:50  revo
+Jeromo Vasxe: + kontraux~a
+
 Revision 1.25  2012/03/08 10:10:09  revo
 Jeromo Vasxe: + 1 ref
 
@@ -169,8 +215,5 @@ Revision 1.20  2009/12/20 17:30:54  revo
 Mireille Corobu: aldonis "katastrofa"
 
 Revision 1.19  2009/09/11 16:31:23  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.18  2009/08/25 16:33:54  revo
 -->
 </vortaro>

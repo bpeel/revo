@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: genist.xml,v 1.17 2013/12/01 21:10:12 revo Exp $">
+<art mrk="$Id: genist.xml,v 1.19 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>genist</rad>/o
@@ -32,6 +32,7 @@
     <trd>gaiol</trd>,
     <trd>g&egrave;nere Genista</trd>
   </trdgrp>
+  <trd lng="cs">kručinka</trd>
   <trd lng="de">Ginster</trd>
   <trd lng="en">broom</trd>
   <trd lng="fr">gen&ecirc;t</trd>
@@ -39,10 +40,17 @@
   <trd lng="nl">brem</trd>
   <trd lng="pt">giesta</trd>
   <trd lng="ru">&c_d;&c_r;&c_o;&c_k;</trd>
+  <trd lng="sk">kručina</trd>
 </drv>
 </art>
 <!--
 $Log: genist.xml,v $
+Revision 1.19  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/12/01 21:10:12  revo
 Jessica Grasso: +tr en
 

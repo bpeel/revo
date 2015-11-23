@@ -2,34 +2,11 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kvak.xml,v 1.12 2013/10/10 20:10:15 revo Exp $">
+<art mrk="$Id: kvak.xml,v 1.16 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>kvak</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
 
-<drv mrk="kvak.0">
-  <kap><tld/></kap>
-  <gra><vspec>sonimito</vspec></gra>
-  <snc mrk="kvak.0.SON">
-    <dif>
-      <ref tip="lst" cel="blek.0o" lst="voko:blekoj">Bleko</ref>
-      rana, bufa a&ubreve; anasa:
-      <ekz>
-        subite &scirc;i <klr>(...)</klr> ekkriis:
-        <ctl><tld lit="K"/>! Estas malseke! Estas malseke!
-        (...)</ctl>. En momento &scirc;i fari&gcirc;is rano
-        <fnt><bib>Fab2</bib>, <lok>Malgranda Tuk</lok></fnt>.
-      </ekz>
-    </dif>
-    <refgrp tip="vid">
-      <ref cel="gak.gik0.SON">gik gak</ref>,
-      <ref cel="kva.0.SON">kva</ref>,
-      <ref cel="kuxaks.0.SON">k&ubreve;aks</ref>
-    </refgrp>
-  </snc>
-  <trd lng="fr">co&acirc; !</trd>
-  <trd lng="ru">&c_k;&c_v;&c_a;!</trd>
-</drv>
 
 <drv mrk="kvak.0i">
   <kap><tld/>i</kap>
@@ -60,6 +37,10 @@
     <trd>&c_k;&c_v;&c_a;&c_k;&c_a;&c_c;&c_mol; <klr>(p.p. rano)</klr></trd>,
     <trd>&c_k;&c_r;&c_a;&c_k;&c_a;&c_c;&c_mol; <klr>(p.p. anaso)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kuňkat</trd>,
+    <trd>kvákat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>schnattern <klr>(pp anaso)</klr></trd>,
     <trd>quaken <klr>(pp rano)</klr></trd>
@@ -75,16 +56,58 @@
   <trdgrp lng="hu">
     <trd>brekeg</trd>,
     <trd>h&aacute;pog</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="nl">kwaken</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_v;&c_a;&c_k;&c_a;&c_t;&c_mol; <klr>(p.p. rano)</klr></trd>,
     <trd>&c_k;&c_r;&c_ja;&c_k;&c_a;&c_t;&c_mol; <klr>(p.p. anaso)</klr></trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kvákať <klr>(žaby, kačky)</klr></trd>,
+    <trd>kvákať <klr>(žaby| kačky)</klr></trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="kvak.0">
+  <kap><tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="kvak.0.SON">
+    <dif>
+      <ref tip="lst" cel="blek.0o" lst="voko:blekoj">Bleko</ref>
+      rana, bufa a&ubreve; anasa:
+      <ekz>
+        subite &scirc;i <klr>(...)</klr> ekkriis:
+        <ctl><tld lit="K"/>! Estas malseke! Estas malseke!
+        (...)</ctl>. En momento &scirc;i fari&gcirc;is rano
+        <fnt><bib>Fab2</bib>, <lok>Malgranda Tuk</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="gak.gik0.SON">gik gak</ref>,
+      <ref cel="kva.0.SON">kva</ref>,
+      <ref cel="kuxaks.0.SON">k&ubreve;aks</ref>
+    </refgrp>
+  </snc>
+  <trd lng="fr">co&acirc; !</trd>
+  <trd lng="ru">&c_k;&c_v;&c_a;!</trd>
+</drv>
+
+
 </art>
 <!--
 $Log: kvak.xml,v $
+Revision 1.16  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2015/02/15 11:10:25  revo
+Wolfram Diestel: ordo de drv
+
 Revision 1.12  2013/10/10 20:10:15  revo
 Jeromo Vasxe: ref al lst blekoj
 
@@ -104,8 +127,5 @@ Revision 1.7 2002/04/02 17:56:25 revo
 Ulrich Fellmann: + 2 germ trdj
 
 Revision 1.6 2001/11/11 19:16:11 revo
-Yury Finkel: +trd ru
-
-Revision 1.5 2001/07/19 18:11:06 revo
 -->
 </vortaro>

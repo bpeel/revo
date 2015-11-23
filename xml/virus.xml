@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: virus.xml,v 1.20 2014/06/07 16:10:29 revo Exp $">
+<art mrk="$Id: virus.xml,v 1.22 2015/01/02 19:10:28 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>virus</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -71,9 +71,46 @@
   <trd lng="sk">v&iacute;rus</trd>
   <trd lng="sv">virus</trd>
 </drv>
+
+<drv mrk="virus.kontra&ubreve;0ilo">
+  <kap>kontra&ubreve;<tld/>ilo</kap>
+  <snc mrk="virus.kontra&ubreve;0ilo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Komputila programo 
+      kiu kontra&ubreve;as <tld/>ojn en komputilaj dosieroj,
+      sistemoj a&ubreve; aliaj programoj:
+      <ekz>
+        European Bernt Fix (a&ubreve; Bernd) estas la unua kontra&ubreve;<tld/>ilo en
+        1987
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url
+          ref="https://eo.wikipedia.org/wiki/Kontra%C5%ADvirusilo">
+          Kontra&ubreve;virusilo</url>, 2014-12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">antivirus</trd>
+  <trd lng="fr">antivirus</trd>
+  <trdgrp lng="es">
+    <trd>antivirus</trd>,
+    <trd>aplicaci&oacute;n antivirus</trd>
+  </trdgrp>
+  <trd lng="it">antivirus</trd>
+</drv>
+
+
 </art>
 <!--
 $Log: virus.xml,v $
+Revision 1.22  2015/01/02 19:10:28  revo
+Jeromo Vasxe: kontraux~ilo: konformigis al reva stilo
+
+Revision 1.21  2014/12/24 09:10:12  revo
+Guillermo Molleda Jimena: kontrauxvirusilo
+
 Revision 1.20  2014/06/07 16:10:29  revo
 Eko Nur Syah Hidayat: +id
 
@@ -90,11 +127,5 @@ Revision 1.16  2009/03/01 17:34:20  revo
 Russ Williams: + 9OA
 
 Revision 1.15  2006/06/19 16:32:08  revo
-Jeromo Vasxe: kor 1 mrk
-
-Revision 1.14 2005/02/24 17:33:29 revo
-Alan ar Gall: +trd br
-
-Revision 1.13 2002/09/09 19:48:01 revo
 -->
 </vortaro>

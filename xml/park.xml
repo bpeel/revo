@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: park.xml,v 1.28 2014/06/08 16:10:24 revo Exp $">
+<art mrk="$Id: park.xml,v 1.31 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>park</rad>/o <fnt><bib>PV</bib></fnt>
@@ -72,7 +72,9 @@
     <trd lng="ru">&c_z;&c_a;&c_p;&c_o;&c_v;&c_je;&c_d;&c_n;&c_i;&c_k;
     </trd>
   </snc>
+  <trd lng="cs">parkoviště</trd>
   <trd lng="pl">park</trd>
+  <trd lng="sk">parkovisko</trd>
 </drv>
 
 <drv mrk="park.0umi">
@@ -88,7 +90,7 @@
       </ekz>
       <ekz>
         ni <tld/>umis tuj &ccirc;e la eniro, dum la <tld/>umo por
-        ordinaraj turistoj estis sufice malproksime
+        ordinaraj turistoj estis sufi&ccirc;e malproksime
         <fnt>
         <vrk>Unuafoje en Universala Kongreso</vrk>.
         <lok><url ref="http://esperanto.cri.cn/1/2005/03/09/1@21928.htm"
@@ -96,7 +98,7 @@
         </fnt>
       </ekz>
       <ekz>
-        en la urbocentro de lundo gis vendredo por <tld/>umi necesas
+        en la urbocentro de lundo &gcirc;is vendredo por <tld/>umi necesas
         a&ccirc;eti <klr>(...)</klr> specialajn biletojn
         <fnt>
         <vrk><url
@@ -106,12 +108,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">parkovat</trd>
   <trd lng="fr">parquer</trd>
   <trd lng="id">parkir</trd>
   <trd lng="nl">parkeren<klr tip="ind"> (ontr.)</klr></trd>
   <trd lng="pl">parkowa&cacute;</trd>
   <trd lng="pt">estacionar</trd>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">parkovať</trd>
 </drv>
 
 <drv mrk="park.0umejo">
@@ -141,6 +145,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">parkoviště</trd>
   <trdgrp lng="fr">
     <trd>parc de stationnement</trd>,
     <trd>parking</trd>
@@ -153,6 +158,7 @@
     <trd>&c_p;&c_a;&c_r;&c_k;&c_o;&c_v;&c_k;&c_a;</trd>,
     <trd>&c_p;&c_a;&c_r;&c_k;&c_i;&c_n;&c_g;</trd>
   </trdgrp>
+  <trd lng="sk">parkovisko</trd>
 </drv>
 
 <drv mrk="park.0i">
@@ -165,6 +171,8 @@
     <trd lng="pl">parkowa&cacute;</trd>
     <trd lng="pt">estacionar</trd>
   </snc>
+  <trd lng="cs">parkovat</trd>
+  <trd lng="sk">parkovať</trd>
 </drv>
 
 <drv mrk="park.0ejo">
@@ -177,10 +185,12 @@
       <bib>Monato</bib>, <lok>jaro 2006a, numero 3a, p. 23a</lok></fnt>.
     </ekz>
   </snc>
+  <trd lng="cs">parkoviště</trd>
   <trd lng="id"><ind>tempat</ind> parkir</trd>
   <trd lng="nl">parkeerplaats</trd>
   <trd lng="pl">parking</trd>
   <trd lng="pt">estacionamento</trd>
+  <trd lng="sk">parkovisko</trd>
 </drv>
 
 <drv mrk="park.amuz0o">
@@ -235,28 +245,43 @@
     </ekz>
   </snc>
   <trd lng="br">park naturel</trd>
+  <trdgrp lng="cs">
+    <trd>chráněná krajinná oblast</trd>,
+    <trd>národní park</trd>,
+    <trd>přírodní rezervace</trd>
+  </trdgrp>
   <trd lng="de">Naturpark</trd>
   <trdgrp lng="fr">
     <trd>parc naturel</trd>,
     <trd>r&eacute;serve naturelle</trd>
-  </trdgrp>
-  <trdgrp lng="nl">
-    <trd>natuurpark</trd>,
-    <trd>park<klr tip="ind"> (natuurreservaat)</klr></trd>,
-    <trd>natuurreservaat</trd>
   </trdgrp>
   <trdgrp lng="hu">
     <trd>term&eacute;szetv&eacute;delmi ter&uuml;let</trd>,
     <trd>nat&uacute;rpark</trd>
   </trdgrp>
   <trd lng="id">cagar alam</trd>
+  <trdgrp lng="nl">
+    <trd>natuurpark</trd>,
+    <trd>park<klr tip="ind"> (natuurreservaat)</klr></trd>,
+    <trd>natuurreservaat</trd>
+  </trdgrp>
   <trd lng="pl">park narodowy</trd>
   <trd lng="pt">parque natural</trd>
   <trd lng="ru">&c_z;&c_a;&c_p;&c_o;&c_v;&c_je;&c_d;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">prírodná rezervácia</trd>
 </drv>
 </art>
 <!--
 $Log: park.xml,v $
+Revision 1.31  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2015/02/04 17:10:20  revo
+Wolfram Diestel: - eraretoj
+
 Revision 1.28  2014/06/08 16:10:24  revo
 Eko Nur Syah Hidayat: +id
 
@@ -276,8 +301,5 @@ Revision 1.23 2009/08/08 16:33:07 revo
 Sergio Pokrovskij: +~umi
 
 Revision 1.22 2008/05/12 17:55:49 revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.21 2008/05/03 16:30:16 revo
 -->
 </vortaro>

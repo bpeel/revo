@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skun.xml,v 1.18 2013/08/21 15:10:18 revo Exp $">
+<art mrk="$Id: skun.xml,v 1.20 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>skun</rad>/o
   <fnt>Z</fnt>
@@ -25,6 +25,7 @@
   <trd lng="be">&c_sh;&c_h;&c_u;&c_n;&c_a;</trd>
   <trd lng="bg">&c_sh;&c_h;&c_u;&c_n;&c_a;</trd>
   <trd lng="ca">goleta</trd>
+  <trd lng="cs">škuner</trd>
   <trd lng="de">Schoner</trd>
   <trd lng="en">schooner</trd>
   <trdgrp lng="fr">
@@ -38,10 +39,20 @@
   <trd lng="nl">schoener</trd>
   <trd lng="pl">szkuner</trd>
   <trd lng="ru">&c_sh;&c_h;&c_u;&c_n;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>ľahký dvojsťažník</trd>,
+    <trd>škuner</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: skun.xml,v $
+Revision 1.20  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2013/08/21 15:10:18  revo
 Joop Eggen: +trd bg
 

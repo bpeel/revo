@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: best.xml,v 1.49 2014/07/12 19:10:13 revo Exp $">
+<art mrk="$Id: best.xml,v 1.54 2015/10/05 04:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>best</rad>/o <fnt><bib>PV</bib></fnt>
@@ -15,7 +15,8 @@
       <ref tip="super" cel="animal.0o.BIO">Animalo</ref>, sed ne homo:
       <ekz>
       kiam oni parolas pri <tld/>oj, mi konsilas &ccirc;iam uzi nur la
-      senseksan pronomon "&gcirc;i"<fnt><bib>LR</bib>, <lok>Respondo 35, La
+      senseksan pronomon "&gcirc;i"<fnt><bib>LR</bib>, <lok>Respondo 35,
+      La
       Revuo, 1908, Majo</lok></fnt>;
       </ekz>
       <ekz>
@@ -76,7 +77,8 @@
     </refgrp>
     <adm>
       La ekzemploj ne tre bone ta&ubreve;gas por fundamenti la vorton
-      &leftquot;besto&rightquot;, sed pli la vorton &leftquot;besta&rightquot;.
+      &leftquot;besto&rightquot;, sed pli la vorton
+      &leftquot;besta&rightquot;.
       <aut>Wolfram Diestel</aut>
     </adm>
     <trdgrp lng="nl">
@@ -114,7 +116,10 @@
     <trd>animal</trd>,
     <trd>b&egrave;stia</trd>
   </trdgrp>
-  <trd lng="cs">zv&iacute;&rcaron;e</trd>
+  <trdgrp lng="cs">
+    <trd>zv&iacute;&rcaron;e</trd>,
+    <trd>zv&iacute;&rcaron;e</trd>
+  </trdgrp>
   <trd lng="de">Tier</trd>
   <trd lng="en">animal</trd>
   <trd lng="es">animal</trd>
@@ -135,6 +140,7 @@
   <trdgrp lng="pl">
     <trd>zwierz&eogonek;</trd>
   </trdgrp>
+  <trd lng="pt">animal</trd>
   <trdgrp lng="ru">
     <trd>&c_z;&c_v;&c_je;&c_r;&c_mol;</trd>,
     <trd>&c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_o;&c_je;</trd>
@@ -150,7 +156,8 @@
     <uzo tip="fak">ZOO</uzo>
     <ref tip="dif" cel="animal.0oj">animaloj</ref>
   </snc>
-  <trd lng="be">&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_a; &c_zh;&c_y;&c_v;&c_jo;&c_l;&c_a;&c_w;</trd>
+  <trd lng="be">&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_a;
+  &c_zh;&c_y;&c_v;&c_jo;&c_l;&c_a;&c_w;</trd>
   <trd lng="br">rannad al <ind>loened</ind></trd>
   <trdgrp lng="ca">
     <trd>animals</trd>,
@@ -165,7 +172,8 @@
     <trd>zwierz&eogonek;ta</trd>,
     <trd>kr&oacute;lestwo <ind>zwierz&aogonek;t</ind></trd>
   </trdgrp>
-  <trd lng="ru">&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o; &c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_y;&c_h;</trd>
+  <trd lng="ru">&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;
+  &c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_y;&c_h;</trd>
 </drv>
 
 <drv mrk="best.0aro">
@@ -176,7 +184,8 @@
       Tuto de la <tld/>oj de iu regiono, terspaco, epoko;
       <ref tip="sin" cel="fauxn1.0o.ZOO">fa&ubreve;no</ref>:
       <ekz>
-        oni povos malkovri la alpan regionon, &gcirc;ian kreska&jcirc;aron,
+        oni povos malkovri la alpan regionon, &gcirc;ian
+        kreska&jcirc;aron,
         &gcirc;ian <tld/>aron
         <fnt>
           <aut>ffea-liono</aut>,
@@ -190,9 +199,14 @@
   </snc>
   <trdgrp lng="be">
     <trd>&c_f;&c_a;&c_w;&c_n;&c_a;</trd>,
-    <trd>&c_s;&c_mol;&c_v;&c_je;&c_t; &c_zh;&c_y;&c_v;&c_jo;&c_l;&c_a;&c_w;</trd>
+    <trd>&c_s;&c_mol;&c_v;&c_je;&c_t;
+    &c_zh;&c_y;&c_v;&c_jo;&c_l;&c_a;&c_w;</trd>
   </trdgrp>
   <trd lng="ca">fauna</trd>
+  <trdgrp lng="cs">
+    <trd>zv&iacute;&rcaron;ectvo</trd>,
+    <trd>zv&ecaron;&rcaron;</trd>
+  </trdgrp>
   <trdgrp lng="de">
    <trd>Fauna</trd>,
    <trd>Tierwelt</trd></trdgrp>
@@ -211,6 +225,7 @@
     <trd>&c_f;&c_a;&c_u;&c_n;&c_a;</trd>,
     <trd>&c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_y;&c_j; &c_m;&c_i;&c_r;</trd>
   </trdgrp>
+  <trd lng="sk">zver</trd>
 </drv>
 
 <drv mrk="best.dom0o">
@@ -232,8 +247,11 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">dom&aacute;c&iacute; zv&iacute;&rcaron;e</trd>
+  <trd lng="de">Haustier</trd>
   <trd lng="fr">animal familier</trd>
   <trd lng="id"><ind>binatang</ind> peliharaan</trd>
+  <trd lng="sk">dom&aacute;ce zviera</trd>
 </drv>
 
 <drv mrk="best.dorlot0o">
@@ -279,6 +297,7 @@
   </snc>
   <trd lng="br">bronneged</trd>
   <trd lng="ca">mam&iacute;fers</trd>
+  <trd lng="cs">savce</trd>
   <trd lng="de">S&auml;ugetiere</trd>
   <trd lng="en">mammals</trd>
   <trd lng="fr">mammif&egrave;res</trd>
@@ -287,7 +306,9 @@
   <trd lng="id">mamalia</trd>
   <trd lng="nl">zoogdieren</trd>
   <trd lng="pl">ssaki</trd>
-  <trd lng="ru">&c_m;&c_l;&c_je;&c_k;&c_o;&c_p;&c_i;&c_t;&c_a;&c_ju;&c_shch;&c_i;&c_je;</trd>
+  <trd
+  lng="ru">&c_m;&c_l;&c_je;&c_k;&c_o;&c_p;&c_i;&c_t;&c_a;&c_ju;&c_shch;&c_i;&c_je;</trd>
+  <trd lng="sk">cicavce</trd>
   <trd lng="tr">memeliler</trd>
 </drv>
 
@@ -298,6 +319,15 @@
       Iu el <ref tip="malprt" cel="best.rabo0oj">rabo<tld/>oj</ref>.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dravec</trd>,
+    <trd>&scaron;elma</trd>
+  </trdgrp>
+  <trd lng="fr">carnivore</trd>
+  <trdgrp lng="sk">
+    <trd>dravec</trd>,
+    <trd>&scaron;elma</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="best.rabo0oj">
@@ -322,7 +352,8 @@
   <adm>
     PIV1 ne konsentas kun tiu difino. <aut>MB</aut>
   </adm>
-  <trd lng="be">&c_d;&c_r;&c_a;&c_p;&c_je;&c_zh;&c_n;&c_ib;&c_k;&c_ib;</trd>
+  <trd
+  lng="be">&c_d;&c_r;&c_a;&c_p;&c_je;&c_zh;&c_n;&c_ib;&c_k;&c_ib;</trd>
   <trd lng="br">kigdebrerien</trd>
   <trd lng="ca">carn&iacute;vors</trd>
   <trd lng="de">Raubtiere</trd>
@@ -336,6 +367,8 @@
     <trd>zwierz&eogonek; drapie&zdot;ne</trd>
   </trdgrp>
   <trd lng="ru">&c_h;&c_i;&c_shch;&c_n;&c_i;&c_k;&c_i;</trd>
+  <trd lng="sk">&scaron;elmy</trd>
+  <trd lng="cs">&scaron;elmy</trd>
 </drv>
 
 <drv mrk="best.sxargxo0o">
@@ -356,9 +389,11 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">Lasttier</trd>
   <trd lng="fr">b&ecirc;te de somme</trd>
   <trd lng="hu">igavon&oacute; barom</trd>
-  <trd lng="ru">&c_v;&c_mol;&c_ju;&c_ch;&c_n;&c_o;&c_je; &c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_o;&c_je;</trd>
+  <trd lng="ru">&c_v;&c_mol;&c_ju;&c_ch;&c_n;&c_o;&c_je;
+  &c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_o;&c_je;</trd>
 </drv>
 
 <drv mrk="best.tir0o">
@@ -381,12 +416,30 @@
     </dif>
   </snc>
   <trd lng="ca">animal de tir</trd>
+  <trd lng="cs">ta&zcaron;n&eacute; zv&iacute;&rcaron;e</trd>
+  <trd lng="de">Zugtier</trd>
   <trd lng="fr">animal de trait</trd>
   <trd lng="pl">zwierz&eogonek; poci&aogonek;gowe</trd>
+  <trd lng="sk">&tcaron;a&zcaron;n&eacute; zviera</trd>
 </drv>
 </art>
 <!--
 $Log: best.xml,v $
+Revision 1.54  2015/10/05 04:10:18  revo
+Evandro Avellar: +trd pt
+
+Revision 1.53  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.52  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.51  2014/12/31 16:10:24  revo
+Wolfram Diestel: +trd de
+
+Revision 1.50  2014/11/26 08:10:18  revo
+Damien Brucker: +trd fr
+
 Revision 1.49  2014/07/12 19:10:13  revo
 Jeromo Vasxe: sxargx~o + var
 
@@ -394,20 +447,5 @@ Revision 1.48  2014/06/03 15:10:32  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.47  2014/05/09 12:10:11  revo
-Damien Brucker: +ekz
-
-Revision 1.46  2014/01/31 02:10:17  revo
-Jeromo Vasxe: + dom/sxargx~a
-
-Revision 1.45  2013/10/21 19:10:26  revo
-Wolfram Diestel: +rabo~o (sing.)
-
-Revision 1.44  2013/10/20 19:10:19  revo
-Wolfram Diestel: rabo~oj: precizigis dif
-
-Revision 1.43  2013/10/19 14:10:14  revo
-Wolfram Diestel: prilaboretis dif de rabo~oj: aldonis esceptojn de
-difino
-
 -->
 </vortaro>

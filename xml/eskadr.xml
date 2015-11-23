@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eskadr.xml,v 1.19 2013/02/01 21:10:08 revo Exp $">
+<art mrk="$Id: eskadr.xml,v 1.22 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>eskadr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -43,6 +43,10 @@
     <trd lng="pt">esquadrilha</trd>
   </snc>
   <trd lng="be">&c_e;&c_s;&c_k;&c_a;&c_d;&c_r;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>eskadra</trd>,
+    <trd>oddíl loďstva</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Geschwader</trd>,
     <trd>Staffel [aviadiloj]</trd>
@@ -55,12 +59,25 @@
     <trd>stormo<klr> (aer.)</klr></trd>
   </trdgrp>
   <trd lng="nl">eskader</trd>
-  <trd lng="sv">flotteskader</trd>
   <trd lng="ru">&c_e;&c_s;&c_k;&c_a;&c_d;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>oddiel <klr>( letectva, loďstva)</klr></trd>,
+    <trd>oddiel <klr>( letectva| loďstva)</klr></trd>
+  </trdgrp>
+  <trd lng="sv">flotteskader</trd>
 </drv>
 </art>
 <!--
 $Log: eskadr.xml,v $
+Revision 1.22  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/02/01 21:10:08  revo
 Jeromo Vasxe: + ekz + fak avi mar
 

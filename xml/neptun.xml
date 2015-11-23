@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: neptun.xml,v 1.13 2014/06/09 16:10:44 revo Exp $">
+<art mrk="$Id: neptun.xml,v 1.15 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <rad>Neptun</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -31,6 +31,10 @@
     [H&#462;iw&aacute;ngx&#299;ng]</klr></trd>
   </snc>
   <trd lng="be">&c_N;&c_e;&c_p;&c_t;&c_u;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>Neptun</trd>,
+    <trd>Neptunus</trd>
+  </trdgrp>
   <trd lng="de">Neptun</trd>
   <trd lng="el">&Pi;&omikron;&sigma;&epsilon;&jota;&delta;&omega_acute;&ny;&alfa;&sigma_fina;</trd>
   <trd lng="en">Neptune</trd>
@@ -43,10 +47,17 @@
   <trd lng="pl">Neptun</trd>
   <trd lng="pt">Netuno</trd>
   <trd lng="ru">&c_N;&c_je;&c_p;&c_t;&c_u;&c_n;</trd>
+  <trd lng="sk">Neptún</trd>
 </drv>
 </art>
 <!--
 $Log: neptun.xml,v $
+Revision 1.15  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2014/06/09 16:10:44  revo
 Eko Nur Syah Hidayat: +id
 

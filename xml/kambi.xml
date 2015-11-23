@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kambi.xml,v 1.15 2008/02/09 17:31:39 revo Exp $">
+<art mrk="$Id: kambi.xml,v 1.17 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kambi</rad>/o
@@ -19,10 +19,11 @@
       ofte &gcirc;irebla, kaj &gcirc;ia plenumo estas severe protektata de le&gcirc;oj.
     </dif>
   </snc>
-  <trd lng="be">&c_v;&c_e;&c_k;&c_s;&c_a;&c_l;&c_mol;</trd>                 
+  <trd lng="be">&c_v;&c_e;&c_k;&c_s;&c_a;&c_l;&c_mol;</trd>
   <trd lng="bg">&c_z;&c_a;&c_p;&c_i;&c_s; &c_n;&c_a; &c_z;&c_a;&c_p;&c_o;&c_v;&c_je;&c_d;</trd>
   <trd lng="br">lizher-eskemm</trd>
   <trd lng="ca">lletra de canvi</trd>
+  <trd lng="cs">směnka</trd>
   <trd lng="de">Wechsel</trd>
   <trdgrp lng="en">
     <trd>bill of <ind>exchange</ind></trd>,
@@ -34,6 +35,7 @@
   <trd lng="hu">v&aacute;lt&oacute;</trd>
   <trd lng="nl">wissel <klr tip="ind">(fin.)</klr></trd>
   <trd lng="ru">&c_v;&c_je;&c_k;&c_s;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">zmenka</trd>
 </drv>
 <adm>
  Reverkenda. trd fr nur provizora.
@@ -42,6 +44,12 @@
 </art>
 <!--
 $Log: kambi.xml,v $
+Revision 1.17  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2008/02/09 17:31:39  revo
 Wieland Pusch: +trd bg
 

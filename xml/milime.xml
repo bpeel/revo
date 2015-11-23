@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: milime.xml,v 1.14 2009/09/11 16:31:11 revo Exp $">
+<art mrk="$Id: milime.xml,v 1.16 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>milimetr</rad>/o
@@ -18,6 +18,7 @@
   </snc>
   <trd lng="be">&c_m;&c_ib;&c_l;&c_ib;&c_m;&c_e;&c_t;&c_a;&c_r;</trd>
   <trd lng="ca">mil&iacute;metre</trd>
+  <trd lng="cs">milimetr</trd>
   <trd lng="de">Millimeter</trd>
   <trd lng="en">millimeter</trd>
   <trd lng="es">mil&iacute;metro</trd>
@@ -27,10 +28,17 @@
   <trd lng="nl">millimeter</trd>
   <trd lng="pt">mil&iacute;metro</trd>
   <trd lng="ru">&c_m;&c_i;&c_l;&c_l;&c_i;&c_m;&c_je;&c_t;&c_r;</trd>
+  <trd lng="sk">milimeter</trd>
 </drv>
 </art>
 <!--
 $Log: milime.xml,v $
+Revision 1.16  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2009/09/11 16:31:11  revo
 Behnam Tabatabai: +trd fa
 

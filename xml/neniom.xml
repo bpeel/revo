@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: neniom.xml,v 1.15 2013/10/16 08:10:16 revo Exp $">
+<art mrk="$Id: neniom.xml,v 1.17 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>neniom</rad>
@@ -55,9 +55,15 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_n;&c_ib;&c_k;&c_o;&c_l;&c_mol;&c_k;&c_ib;</trd>
   <trd lng="bg">&c_n;&c_i;&c_shch;&c_o;</trd>
   <trd lng="ca">gens</trd>
-  <trd lng="be">&c_n;&c_ib;&c_k;&c_o;&c_l;&c_mol;&c_k;&c_ib;</trd>
+  <trdgrp lng="cs">
+    <trd>ani trochu</trd>,
+    <trd>pranic</trd>,
+    <trd>vůbec nic</trd>,
+    <trd>zhola nic</trd>
+  </trdgrp>
   <trd lng="de">nichts <klr tip="amb">(Menge)</klr></trd>
   <trd lng="en">nothing <klr tip="amb">(quantity)</klr></trd>
   <trdgrp lng="fa">
@@ -77,10 +83,20 @@
     <trd>em <klr tip="amb">quantidade</klr> alguma</trd>
   </trdgrp>
   <trd lng="ru">&c_n;&c_i;&c_s;&c_k;&c_o;&c_l;&c_mol;&c_k;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>ani trochu</trd>,
+    <trd>nič <klr>(o množstve)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: neniom.xml,v $
+Revision 1.17  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/10/16 08:10:16  revo
 Benito Subejrano: + trd ca oc fr
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bevel.xml,v 1.14 2011/12/03 15:10:23 revo Exp $">
+<art mrk="$Id: bevel.xml,v 1.16 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <rad>bevel</rad>/o
   <fnt>C</fnt>
@@ -20,6 +20,10 @@
     </dif>
   </snc>
   <trd lng="ca">bisell, biaixat</trd>
+  <trdgrp lng="cs">
+    <trd>kosá hrana</trd>,
+    <trd>úkos</trd>
+  </trdgrp>
   <trd lng="de">schr&auml;ge Kante</trd>
   <trd lng="en">beveled egde</trd>
   <trd lng="fr">biseau</trd>
@@ -30,6 +34,7 @@
   <trd lng="pl">skos</trd>
   <trd lng="ru">&c_s;&c_k;&c_o;&c_sh;&c_je;&c_n;&c_n;&c_y;&c_j;
   &c_k;&c_r;&c_a;&c_j;</trd>
+  <trd lng="sk">šikmo rezaný okraj <klr>(zrkadla ap.)</klr></trd>
 </drv>
 
 <drv mrk="bevel.0i">
@@ -42,6 +47,7 @@
     </dif>
   </snc>
   <trd lng="ca">bisellar</trd>
+  <trd lng="cs">zkosit hrany</trd>
   <trd lng="de">abschr&auml;gen</trd>
   <trd lng="en">bevel</trd>
   <trd lng="fr">biseauter</trd>
@@ -55,10 +61,17 @@
     &c_k;&c_r;&c_a;&c_j;</trd>,
     <trd>&c_g;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">šikmo rezať</trd>
 </drv>
 </art>
 <!--
 $Log: bevel.xml,v $
+Revision 1.16  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2011/12/03 15:10:23  revo
 Marc Rausell: kataluna traduko
 

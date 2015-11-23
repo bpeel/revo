@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: napalm.xml,v 1.4 2012/09/17 18:10:17 revo Exp $">
+<art mrk="$Id: napalm.xml,v 1.6 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>napalm</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -26,6 +26,7 @@
   </snc>
   <trd lng="bg">&c_n;&c_a;&c_p;&c_a;&c_l;&c_m;</trd>
   <trd lng="ca">napalm</trd>
+  <trd lng="cs">napalm</trd>
   <trd lng="de">Napalm</trd>
   <trd lng="en">napalm</trd>
   <trd lng="es">napalm</trd>
@@ -33,11 +34,21 @@
   <trd lng="it">napalm</trd>
   <trd lng="nl">napalm</trd>
   <trd lng="pt">napalm</trd>
+  <trdgrp lng="sk">
+    <trd>horľavá bojová látka</trd>,
+    <trd>napalm</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: napalm.xml,v $
+Revision 1.6  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2012/09/17 18:10:17  revo
 Marc Rausell: + trd ca
 

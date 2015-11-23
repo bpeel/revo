@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: truk.xml,v 1.6 2014/04/08 08:10:13 revo Exp $">
+<art mrk="$Id: truk.xml,v 1.8 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <rad>truk</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -24,6 +24,11 @@
     </dif>
   </snc>
   <trd lng="ca">truc</trd>
+  <trdgrp lng="cs">
+    <trd>filmový trik</trd>,
+    <trd>obratný kousek</trd>,
+    <trd>trik</trd>
+  </trdgrp>
   <trd lng="de">Trick</trd>
   <trd lng="es">truco</trd>
   <trdgrp lng="fr">
@@ -35,11 +40,21 @@
     <trd>trick</trd>
   </trdgrp>
   <trd lng="pt">truque</trd>
+  <trdgrp lng="sk">
+    <trd>fígeľ</trd>,
+    <trd>trik</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: truk.xml,v $
+Revision 1.8  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2014/04/08 08:10:13  revo
 Agustin Garcia Lopez: +trd(es)
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kapita1.xml,v 1.22 2009/08/23 16:33:46 revo Exp $">
+<art mrk="$Id: kapita1.xml,v 1.24 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kapitan</rad>/o
@@ -41,9 +41,17 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_p;&c_ib;&c_t;&c_a;&c_n;</trd>
   <trd lng="br">kabiten</trd>
+  <trdgrp lng="cs">
+    <trd>kapitán</trd>,
+    <trd>setník</trd>
+  </trdgrp>
   <trd lng="es">capit&aacute;n</trd>
   <trd lng="nl">kapitein</trd>
   <trd lng="ru">&c_k;&c_a;&c_p;&c_i;&c_t;&c_a;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>kapitán</trd>,
+    <trd>stotník</trd>
+  </trdgrp>
   <trd lng="sv">kapten</trd>
 </drv>
 
@@ -59,15 +67,17 @@
     </dif>
     <ref tip="vid" cel="korvet.0o">korveto</ref>
   </snc>
+  <trd lng="cs">korvetní kapitán</trd>
   <trd lng="en">lieutenant commander</trd>
   <trd lng="fr">capitaine de corvette</trd>
+  <trd lng="it">capitano di corvetta</trd>
   <trdgrp lng="nl">
     <trd>luitenant-ter-zee eerste klas</trd>,
     <trd>korvetkapitein</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_a;&c_p;&c_i;&c_t;&c_a;&c_n; 
 &c_t;&c_r;&c_je;&c_t;&c_mol;&c_je;&c_g;&c_o; &c_r;&c_a;&c_n;&c_g;&c_a;</trd>
-  <trd lng="it">capitano di corvetta</trd>
+  <trd lng="sk">korvetný kapitán</trd>
 </drv>
 
 <drv mrk="kapita1.fregat0o">
@@ -83,15 +93,17 @@
     </dif>
     <ref tip="vid" cel="fregat.0o.MIL">fregato</ref>
   </snc>
+  <trd lng="cs">fregatní kapitán</trd>
   <trd lng="en">commander</trd>
   <trd lng="fr">capitaine de fr&eacute;gate</trd>
+  <trd lng="it">capitano di fregata</trd>
   <trdgrp lng="nl">
     <trd>kapitein-luitenant-ter-zee</trd>,
     <trd>fregatkapitein</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_a;&c_p;&c_i;&c_t;&c_a;&c_n; 
 &c_v;&c_t;&c_o;&c_r;&c_o;&c_g;&c_o; &c_r;&c_a;&c_n;&c_g;&c_a;</trd>
-  <trd lng="it">capitano di fregata</trd>
+  <trd lng="sk">fregatný kapitán</trd>
 </drv>
 
 <drv mrk="kapita1.vesel0o">
@@ -106,17 +118,25 @@
     </dif>
     <ref tip="vid" cel="vesel.0o">veselo</ref>
   </snc>
+  <trd lng="cs">korábní kapitán</trd>
   <trd lng="en">captain</trd>
   <trd lng="fr">capitaine de vaisseau</trd>
+  <trd lng="it">capitano di vascello</trd>
   <trd lng="nl">kapitein-ter-zee</trd>
   <trd lng="ru">&c_k;&c_a;&c_p;&c_i;&c_t;&c_a;&c_n; 
 &c_p;&c_je;&c_r;&c_v;&c_o;&c_g;&c_o; &c_r;&c_a;&c_n;&c_g;&c_a;</trd>
-  <trd lng="it">capitano di vascello</trd>
+  <trd lng="sk">kapitán korábu</trd>
 </drv>
 
 </art>
 <!--
 $Log: kapita1.xml,v $
+Revision 1.24  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2009/08/23 16:33:46  revo
 Paul Peeraerts: +trd nl
 

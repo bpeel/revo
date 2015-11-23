@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: panel.xml,v 1.18 2014/02/15 02:10:13 revo Exp $">
+<art mrk="$Id: panel.xml,v 1.21 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>panel</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -28,11 +28,16 @@
     <trd>panell</trd>,
     <trd>plaf&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>palubní deska</trd>,
+    <trd>přístrojová deska</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Paneel</trd>,
     <trd>T&auml;felung</trd>
   </trdgrp>
   <trd lng="en">panel</trd>
+  <trd lng="es">panel</trd>
   <trd lng="fr">panneau<klr tip="amb"> (ameublement)</klr></trd>
   <trdgrp lng="hu">
     <trd>t&aacute;bla</trd>,
@@ -43,6 +48,10 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_a;&c_n;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_p;&c_a;&c_n;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>palubná doska</trd>,
+    <trd>prístrojová doska</trd>
   </trdgrp>
 </drv>
 
@@ -70,6 +79,7 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_n;&c_e;&c_l;&c_mol; &c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;</trd>
   <trd lng="en">dashboard</trd>
+  <trd lng="es">panel de control</trd>
   <trd lng="fr">tableau de bord</trd>
 </drv>
 
@@ -113,6 +123,10 @@
     <trd>&c_p;&c_u;&c_l;&c_mol;&c_t; &c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;</trd>
   </trdgrp>
   <trd lng="en">dashboard</trd>
+  <trdgrp lng="es">
+    <trd>panel de control</trd>,
+    <trd>salpicadero</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>pupitre de commande</trd>,
     <trd>tableau de bord</trd>
@@ -139,11 +153,21 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">panel solar</trd>
   <trd lng="fr">panneau solaire</trd>
 </drv>
 </art>
 <!--
 $Log: panel.xml,v $
+Revision 1.21  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/12/20 18:10:09  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.18  2014/02/15 02:10:13  revo
 Jeromo Vasxe: + sun~o
 
@@ -163,8 +187,5 @@ Revision 1.13  2006/02/24 17:35:42  revo
 Tulio Flores: +trd pt
 
 Revision 1.12  2005/08/17 16:31:14  revo
-Jeromo Vasxe: + 1 ekz, + trd fr
-
-Revision 1.11 2004/07/15 19:02:37 revo
 -->
 </vortaro>

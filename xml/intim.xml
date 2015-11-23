@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: intim.xml,v 1.18 2014/06/03 15:10:25 revo Exp $">
+<art mrk="$Id: intim.xml,v 1.20 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>intim</rad>/a <fnt><bib>PV</bib></fnt>
@@ -85,6 +85,12 @@
       <trd>&c_p;&c_r;&c_i;&c_v;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>důvěrný</trd>,
+    <trd>důvěrný</trd>,
+    <trd>intimní</trd>,
+    <trd>útulný</trd>
+  </trdgrp>
   <trd lng="es">&iacute;ntimo</trd>
   <trdgrp lng="fr">
     <trd>intime<klr tip="ind"> (adj.)</klr></trd>,
@@ -95,6 +101,11 @@
   <trdgrp lng="id">
     <trd>akrab</trd>,
     <trd>intim</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dôverný</trd>,
+    <trd>intímny</trd>,
+    <trd>úzky <klr>(vzťah)</klr></trd>
   </trdgrp>
 </drv>
 
@@ -111,6 +122,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>intimita</trd>,
+    <trd>intimnost</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Intimit&auml;t</trd>,
     <trd>Vertrautheit</trd>,
@@ -131,6 +146,7 @@
     <trd>&c_z;&c_a;&c_d;&c_u;&c_sh;&c_je;&c_v;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_je;&c_r;&c_d;&c_je;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">dôvernosť</trd>
 </drv>
 
 <drv mrk="intim.0ulo">
@@ -144,6 +160,7 @@
       <ref cel="konfid1">konfidenculo</ref>.
     </refgrp>
   </snc>
+  <trd lng="cs">důvěrník</trd>
   <trdgrp lng="de">
     <trd>Intimus</trd>,
     <trd>Vertraute</trd>,
@@ -160,6 +177,7 @@
   </trdgrp>
   <trd lng="nl">intieme vriend</trd>
   <trd lng="pt">pessoa <ind>&iacute;ntima</ind></trd>
+  <trd lng="sk">dôverník</trd>
 </drv>
 
 <drv mrk="intim.mal0a">
@@ -186,6 +204,12 @@
 </art>
 <!--
 $Log: intim.xml,v $
+Revision 1.20  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2014/06/03 15:10:25  revo
 Eko Nur Syah Hidayat: +id
 

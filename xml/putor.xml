@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: putor.xml,v 1.22 2013/10/21 19:10:18 revo Exp $">
+<art mrk="$Id: putor.xml,v 1.25 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>putor</rad>/o <fnt><bib>PV</bib></fnt>
@@ -24,19 +24,23 @@
     <trd>&c_t;&c_h;&c_o;&c_r;</trd>,
     <trd>&c_sh;&c_a;&c_sh;&c_o;&c_k;</trd>
   </trdgrp>
-  <trd lng="cs">tcho&rcaron;</trd>
+  <trdgrp lng="cs">
+    <trd>tcho&rcaron;</trd>,
+    <trd>tchoř</trd>
+  </trdgrp>
   <trd lng="de">Iltis</trd>
   <trd lng="en">polecat</trd>
   <trd lng="es">tur&oacute;n</trd>
   <trd lng="fr">putois</trd>
   <trd lng="hu">g&ouml;r&eacute;ny</trd>
-  <trd lng="pl">tch&oacute;rz</trd>
-  <trd lng="ru">&c_h;&c_o;&c_r;&c_jo;&c_k;</trd>
   <trd lng="nl">bunzing</trd>
+  <trd lng="pl">tch&oacute;rz</trd>
   <trdgrp lng="pt">
     <trd>put&oacute;rio</trd>,
     <trd>doninha</trd>
   </trdgrp>
+  <trd lng="ru">&c_h;&c_o;&c_r;&c_jo;&c_k;</trd>
+  <trd lng="sk">tchor</trd>
 </drv>
 
 <drv mrk="putor.cxas0o">
@@ -44,7 +48,8 @@
   <snc mrk="putor.cxas0o.CXAS">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Malsova&gcirc;a formo de <ref tip="super" cel="putor.0o">putoro</ref>
+      Malsova&gcirc;a formo de <ref tip="super"
+      cel="putor.0o">putoro</ref>
       (<trd lng="la">Mustela putorius forma furo</trd>).
     </dif>
     <ref tip="sin" cel="fur.0o">furo</ref>
@@ -52,6 +57,7 @@
   <trd lng="cs">fretka</trd>
   <trd lng="de">Frettchen</trd>
   <trd lng="en">ferret</trd>
+  <trd lng="es">hur&oacute;n</trd>
   <trd lng="fr">furet<klr tip="ind"> (zoo.)</klr></trd>
   <trd lng="hu">vad&aacute;szg&ouml;r&eacute;ny</trd>
   <trd lng="nl">fret</trd>
@@ -59,12 +65,22 @@
   <trd lng="pt">fur&atilde;o</trd>
   <trdgrp lng="ru">
     <trd>&c_f;&c_u;&c_r;&c_o;</trd>,
-    <trd>&c_d;&c_o;&c_m;&c_a;&c_sh;&c_n;&c_i;&c_j; <ind>&c_h;&c_o;&c_r;&c_jo;&c_k;</ind></trd>
+    <trd>&c_d;&c_o;&c_m;&c_a;&c_sh;&c_n;&c_i;&c_j;
+    <ind>&c_h;&c_o;&c_r;&c_jo;&c_k;</ind></trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: putor.xml,v $
+Revision 1.25  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2015/04/13 20:10:17  revo
+Carlos Garcia: +trd es cxas-o
+
 Revision 1.22  2013/10/21 19:10:18  revo
 Wolfram Diestel: ref al lst rabobestoj, prilaboris dif
 
@@ -83,9 +99,6 @@ UTF-8-literoj
 
 Revision 1.16  2009/11/11 17:30:26  revo
 Paul Peeraerts: +nl
-
-Revision 1.15  2009/08/08 16:31:39  revo
-Russ Williams: +trd en
 
 -->
 </vortaro>

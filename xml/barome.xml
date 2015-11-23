@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: barome.xml,v 1.17 2013/12/15 18:10:35 revo Exp $">
+<art mrk="$Id: barome.xml,v 1.19 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>barometr</rad>/o
@@ -19,21 +19,28 @@
   <trd lng="be">&c_b;&c_a;&c_r;&c_o;&c_m;&c_e;&c_t;&c_a;&c_r;</trd>
   <trd lng="bg">&c_b;&c_a;&c_r;&c_o;&c_m;&c_je;&c_t;&c_malmol;&c_r;</trd>
   <trd lng="br">barometr</trd>
+  <trdgrp lng="cs">
+    <trd>barometr</trd>,
+    <trd>tlakoměr atmosférického vzduchu</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Barometer</trd>,
      <trd>Luftdruckmessger&auml;t</trd>
   </trdgrp>
   <trd lng="en">barometer</trd>
-  <trd lng="nl">barometer</trd>
   <trd lng="es">bar&oacute;metro</trd>
   <trd lng="fr">barom&egrave;tre</trd>
   <trdgrp lng="hu">
    <trd>nyom&aacute;sm&eacute;r&odblac;</trd>,
    <trd>barom&eacute;ter</trd>
   </trdgrp>
+  <trd lng="nl">barometer</trd>
   <trd lng="pl">barometr</trd>
   <trd lng="ru">&c_b;&c_a;&c_r;&c_o;&c_m;&c_je;&c_t;&c_r;</trd>
-  <trd lng="sk">barometer</trd>
+  <trdgrp lng="sk">
+    <trd>barometer</trd>,
+    <trd>tlakomer</trd>
+  </trdgrp>
   <trdgrp lng="tr">
    <trd>bas&inodot;n&ccedil;&ouml;l&ccedil;er</trd>,
    <trd>barometre</trd>
@@ -42,6 +49,12 @@
 </art>
 <!--
 $Log: barome.xml,v $
+Revision 1.19  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/12/15 18:10:35  revo
 Joop Eggen: +trd bg
 

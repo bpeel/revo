@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aristo1.xml,v 1.16 2011/12/06 12:10:24 revo Exp $">
+<art mrk="$Id: aristo1.xml,v 1.18 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>aristokrati</rad>/o
@@ -21,6 +21,7 @@
   </snc>
   <trd lng="be">&c_a;&c_r;&c_y;&c_s;&c_t;&c_a;&c_k;&c_r;&c_a;&c_t;&c_y;&c_ja;</trd>
   <trd lng="ca">aristocr&agrave;cia</trd>
+  <trd lng="cs">vláda aristokracie</trd>
   <trd lng="de">Aristokratie</trd>
   <trd lng="en">aristocracy</trd>
   <trd lng="es">aristocracia</trd>
@@ -28,11 +29,20 @@
   <trd lng="hu">arisztokr&aacute;cia</trd>
   <trd
 lng="ru">&c_a;&c_r;&c_i;&c_s;&c_t;&c_o;&c_k;&c_r;&c_a;&c_t;&c_i;&c_ja;</trd>
-  <trd lng="sk">aristokracia</trd>
+  <trdgrp lng="sk">
+    <trd>aristokracia</trd>,
+    <trd>vláda aristokracie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: aristo1.xml,v $
+Revision 1.18  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2011/12/06 12:10:24  revo
 Marc Rausell: kataluna traduko
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arok.xml,v 1.14 2010/07/20 16:30:19 revo Exp $">
+<art mrk="$Id: arok.xml,v 1.16 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>arok</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -25,6 +25,10 @@
     <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;
     <ind>&c_r;&c_a;&c_k;&c_ib;&c_r;&c_o;&c_w;&c_k;&c_u;</ind></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dělat rošádu <klr>(šach.)</klr></trd>,
+    <trd>rošovat</trd>
+  </trdgrp>
   <trd lng="de">Rochade ausf&uuml;hren</trd>
   <trd lng="en">castle</trd>
   <trd lng="es">enrocar</trd>
@@ -38,11 +42,20 @@
   <trd lng="pt">rocar</trd>
   <trd lng="ru">&c_r;&c_o;&c_k;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;
   </trd>
-  <trd lng="sk">urobi&tcaron; <ind>ro&scaron;&aacute;du</ind></trd>
+  <trdgrp lng="sk">
+    <trd>robiť rošádu</trd>,
+    <trd>urobi&tcaron; <ind>ro&scaron;&aacute;du</ind></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: arok.xml,v $
+Revision 1.16  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2010/07/20 16:30:19  revo
 Antonio Codazzi: +trd it
 

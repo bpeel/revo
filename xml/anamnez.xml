@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: anamnez.xml,v 1.5 2013/09/04 14:10:15 revo Exp $">
+<art mrk="$Id: anamnez.xml,v 1.7 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>anamnez</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -33,16 +33,28 @@
     </dif>
   </snc>
   <trd lng="bg">&c_a;&c_n;&c_a;&c_m;&c_n;&c_je;&c_z;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>anamnéza</trd>,
+    <trd>anamnéze</trd>,
+    <trd>předchorobí</trd>
+  </trdgrp>
   <trd lng="de">Anamnese</trd>
   <trd lng="en">anamnesis</trd>
   <trd lng="fr">anamn&egrave;se</trd>
   <trd lng="it">anamnesi</trd>
   <trd lng="nl">anamnese</trd>
+  <trd lng="sk">anamnéza</trd>
 </drv>
 </art>
 
 <!--
 $Log: anamnez.xml,v $
+Revision 1.7  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2013/09/04 14:10:15  revo
 Joop Eggen: +trd bg de en
 

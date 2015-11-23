@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: opozic.xml,v 1.13 2009/03/01 17:35:26 revo Exp $">
+<art mrk="$Id: opozic.xml,v 1.15 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>opozici</rad>/o
@@ -74,15 +74,33 @@
       <trd>&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o; &c_v;&c_a;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>být v opozici</trd>,
+    <trd>odmlouvat</trd>,
+    <trd>odporovat</trd>,
+    <trd>oponovat</trd>,
+    <trd>vzepřít se</trd>
+  </trdgrp>
   <trd lng="en">oppose</trd>
   <trd lng="fr">s'<ind>opposer</ind><klr tip="amb">
   (politique)</klr></trd>
   <trd lng="nl">oppositie voeren</trd>
   <trd lng="pt">opor-se</trd>
+  <trdgrp lng="sk">
+    <trd>byť v opozícii</trd>,
+    <trd>odporovať</trd>,
+    <trd>oponovať</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: opozic.xml,v $
+Revision 1.15  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2009/03/01 17:35:26  revo
 Russ Williams: +trd en
 

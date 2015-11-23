@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frango.xml,v 1.15 2013/10/31 14:10:13 revo Exp $">
+<art mrk="$Id: frango.xml,v 1.17 2015/07/04 08:37:34 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>frangol</rad>/o</kap>
 <drv mrk="frango.0o">
@@ -20,6 +20,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_r;&c_u;&c_sh;&c_y;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>krušina obecná</trd>,
+    <trd>krušina olšová</trd>
+  </trdgrp>
   <trd lng="de">Faulbaum</trd>
   <trd lng="fr">bourdaine</trd>
   <trd lng="hu">kutyabenge</trd>
@@ -30,10 +34,17 @@
   </trdgrp>
   <trd lng="pt">amieiro-negro</trd>
   <trd lng="ru">&c_k;&c_r;&c_u;&c_sh;&c_i;&c_n;&c_a; &c_l;&c_o;&c_m;&c_k;&c_a;&c_ja;</trd>
+  <trd lng="sk">krušina</trd>
 </drv>
 </art>
 <!--
 $Log: frango.xml,v $
+Revision 1.17  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/10/31 14:10:13  revo
 Wolfram Diestel: ref al rozoparencoj
 

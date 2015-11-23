@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frenez.xml,v 1.22 2014/06/06 14:10:23 revo Exp $">
+<art mrk="$Id: frenez.xml,v 1.24 2015/07/04 08:37:34 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>frenez</rad>/a</kap>
 <drv mrk="frenez.0a">
@@ -96,12 +96,17 @@
     <trd lng="pl">szalony</trd>
   </snc>
   <trd lng="bg">&c_l;&c_u;&c_d;</trd>
+  <trdgrp lng="cs">
+    <trd>bláznivý</trd>,
+    <trd>frenetický</trd>,
+    <trd>šílený</trd>
+  </trdgrp>
   <trd lng="en">insane</trd>
+  <trd lng="es">loco</trd>
   <trdgrp lng="fa">
     <trd>&a_d;&f_y;&a_w;&a_A;&a_n;&a_h;</trd>,
     <trd>&a_m;&a_j;&a_n;&a_w;&a_n;</trd>
   </trdgrp>
-  <trd lng="es">loco</trd>
   <trdgrp lng="fr">
     <trd>fou</trd>,
     <trd>d&eacute;ment</trd>,
@@ -130,6 +135,11 @@
     <trd>&c_b;&c_je;&c_z;&c_u;&c_m;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_s;&c_u;&c_m;&c_a;&c_s;&c_sh;&c_je;&c_d;&c_sh;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bláznivý</trd>,
+    <trd>posadnutý</trd>,
+    <trd>šialený</trd>
+  </trdgrp>
   <trd lng="sv">galen</trd>
   <trd lng="tp">nasa</trd>
 </drv>
@@ -142,6 +152,10 @@
       Esti <tld/>a.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bláznit</trd>,
+    <trd>šílet</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>verr&uuml;ckt sein</trd>,
     <trd>wahnsinnig sein</trd>,
@@ -175,6 +189,7 @@
   </trdgrp>
   <trd
   lng="ru">&c_b;&c_je;&c_z;&c_u;&c_m;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">blázniť sa</trd>
   <trd lng="sv">vara <ind>galen</ind></trd>
 </drv>
 
@@ -188,6 +203,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>pobláznit</trd>,
+    <trd>připravit o rozum</trd>,
+    <trd>přivádět k šílenství</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>verr&uuml;ckt machen</trd>,
     <trd>wahnsinnig machen</trd>,
@@ -198,7 +218,7 @@
   <trd lng="fa">&a_d;&f_y;&a_w;&a_A;&a_n;&a_h;
   &f_k;&a_r;&a_d;&a_n;</trd>
   <trd lng="fr">rendre <ind>fou</ind></trd>
-   <trdgrp lng="it">
+  <trdgrp lng="it">
     <trd>far <ind>sragionare</ind></trd>,
     <trd>rendere <ind>pazo</ind></trd>,
     <trd>rendere <ind>folle</ind></trd>,
@@ -213,6 +233,10 @@
   </trdgrp>
   <trd lng="ru">&c_s;&c_v;&c_je;&c_s;&c_t;&c_i; &c_s;
   &c_u;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>poblázniť</trd>,
+    <trd>pripraviť o rozum</trd>
+  </trdgrp>
   <trd lng="sv">g&ouml;ra <ind>galen</ind></trd>
   <trd lng="tp">nasa</trd>
 </drv>
@@ -316,6 +340,12 @@
 </art>
 <!--
 $Log: frenez.xml,v $
+Revision 1.24  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/06/06 14:10:23  revo
 Eko Nur Syah Hidayat: +id
 

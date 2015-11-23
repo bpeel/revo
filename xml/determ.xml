@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: determ.xml,v 1.38 2009/06/05 16:30:56 revo Exp $">
+<art mrk="$Id: determ.xml,v 1.41 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>determin</rad>/i
@@ -103,11 +103,26 @@
     <trd>&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_a;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="bg">&c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_i;</trd>
+  <trdgrp lng="cs">
+    <trd>determinovat</trd>,
+    <trd>určovat</trd>,
+    <trd>vymezit</trd>
+  </trdgrp>
   <trd lng="es">determinar</trd>
+  <trdgrp lng="nl">
+    <trd>bepalen</trd>,
+    <trd>vaststellen</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>determinar</trd>,
     <trd>fixar</trd>,
     <trd>definir</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>spresniť</trd>,
+    <trd>určiť</trd>,
+    <trd>vymedziť</trd>
   </trdgrp>
 </drv>
 
@@ -262,14 +277,15 @@
     <trd lng="pl">wyznacznik</trd>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_a;&c_n;&c_t;&c_a;</trd>
   <trd lng="ca">determinant</trd>
   <trd lng="en">determinant</trd>
   <trd lng="de">Determinante</trd>
   <trd lng="fr">d&eacute;terminant<klr tip="ind"> (math.,
   subst.)</klr></trd>
   <trd lng="hu">determin&aacute;ns</trd>
-  <trd
-  lng="ru">&c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="nl">determinant</trd>
+  <trd lng="ru">&c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
 </drv>
 
 <drv mrk="determ.0ilo">
@@ -290,13 +306,11 @@
         </fnt>
       </ekz>
     </dif>
-    <trd
-    lng="be">&c_d;&c_e;&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_a;&c_t;&c_y;&c_w;</trd>
+    <trd lng="be">&c_d;&c_e;&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_a;&c_t;&c_y;&c_w;</trd>
     <trd lng="ca">determinatiu</trd>
     <trd lng="en">determiner</trd>
     <trd lng="hu">determin&aacute;ns</trd>
-    <trd
-    lng="ru">&c_d;&c_je;&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_a;&c_t;&c_i;&c_v;</trd>
+    <trd lng="ru">&c_d;&c_je;&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_a;&c_t;&c_i;&c_v;</trd>
   </snc>
 </drv>
 
@@ -329,7 +343,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_d;&c_je;&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_i;&c_z;&c_malmol;&c_m;</trd>
   <trd lng="fr">d&eacute;terminisme</trd>
+  <trd lng="nl">determinisme</trd>
   <trd lng="pl">determinizm</trd>
 </drv>
 
@@ -353,7 +369,11 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_i;&c_n;&c_d;&c_je;&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_i;&c_z;&c_malmol;&c_m;</trd>
+  <trd lng="cs">indeterminismus</trd>
   <trd lng="fr">ind&eacute;terminisme</trd>
+  <trd lng="nl">indeterminisme</trd>
+  <trd lng="sk">indeterminizmus</trd>
 </drv>
 
 <drv mrk="determ.jakobia0anto">
@@ -404,6 +424,15 @@
 </art>
 <!--
 $Log: determ.xml,v $
+Revision 1.41  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.40  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.39  2015/06/22 15:10:14  revo
+Joop Eggen: +trd bg nl
+
 Revision 1.38  2009/06/05 16:30:56  revo
 Sebastian Cyprych: +trd pl
 
@@ -423,8 +452,5 @@ Revision 1.33  2003/05/09 16:31:13  revo
 Marc Bavant: ~anto: mod dif
 
 Revision 1.32  2003/05/05 16:32:12  revo
-Marc Bavant: ~anto: kor fusxitajn mrk/ref
-Revision 1.31  2003/04/28 16:33:08  revo
-Jozefo Horvath: +trd hu
 -->
 </vortaro>

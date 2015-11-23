@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kondot.xml,v 1.10 2010/06/15 16:30:47 revo Exp $">
+<art mrk="$Id: kondot.xml,v 1.12 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>kondotier</rad>/o
 </kap>
@@ -17,6 +17,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_n;&c_d;&c_a;&c_c;&c_mol;&c_je;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>condotiere</trd>,
+    <trd>kondotiér</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Condottiere</trd>,
     <trd>italienischer Freischarf&uuml;hrer</trd>
@@ -32,10 +36,20 @@
     <trd>condottiere</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_n;&c_d;&c_o;&c_t;&c_mol;&c_je;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>condotiere</trd>,
+    <trd>kondotiér</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kondot.xml,v $
+Revision 1.12  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2010/06/15 16:30:47  revo
 Antonio Codazzi: +trd it
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: inauxg.xml,v 1.15 2012/10/23 00:11:45 revo Exp $">
+<art mrk="$Id: inauxg.xml,v 1.16 2015/09/26 14:10:19 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>ina&ubreve;gur</rad>/i
@@ -27,6 +27,7 @@
      <trd>er&ouml;ffnen</trd>,
      <trd>enth&uuml;llen</trd>
   </trdgrp>
+  <trd lng="en">to inaugurate</trd>
   <trd lng="es">inaugurar</trd>
   <trd lng="fa">&a_A;&a_f;&a_t;&a_t;&a_A;&a_H; &f_k;&a_r;&a_d;&a_n;</trd>
   <trd lng="fr">inaugurer</trd>
@@ -63,6 +64,7 @@
      <trd>Er&ouml;ffnungsfeier</trd>,
      <trd>Enth&uuml;llung</trd>
   </trdgrp>
+   <trd lng="en">inauguration</trd>
   <trd lng="es">inaguraci&oacute;n</trd>
   <trdgrp lng="fa">
     <trd>&f_g;&a_sh;&a_A;&f_y;&a_sh;</trd>,
@@ -85,6 +87,9 @@
 </art>
 <!--
 $Log: inauxg.xml,v $
+Revision 1.16  2015/09/26 14:10:19  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.15  2012/10/23 00:11:45  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -104,8 +109,5 @@ Revision 1.10  2004/01/19 17:31:22  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2003/01/16 17:32:34  revo
-Alejandro Mejia Greene: ald 2 his trd
-
-Revision 1.8  2002/07/29 18:14:25  revo
 -->
 </vortaro>

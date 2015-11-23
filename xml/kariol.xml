@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kariol.xml,v 1.14 2014/11/03 21:10:25 revo Exp $">
+<art mrk="$Id: kariol.xml,v 1.16 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>kariol</rad>/o <fnt><bib>PV</bib></fnt>
@@ -29,20 +29,31 @@
   </snc>
   <trd lng="be">&c_d;&c_v;&c_u;&c_k;&c_o;&c_l;&c_k;&c_a;</trd>
   <trd lng="ca">cabriol&eacute;</trd>
+  <trdgrp lng="cs">
+    <trd>dvojkolka</trd>,
+    <trd>kariola</trd>
+  </trdgrp>
   <trd lng="de">Kariole</trd>
-  <trd lng="fr">carriole</trd>
   <trdgrp lng="en">
     <trd>dog cart</trd>,
     <trd>trap</trd>
   </trdgrp>
+  <trd lng="fr">carriole</trd>
   <trd lng="hu">kord&eacute;</trd>
   <trd lng="nl">sjees</trd>
   <trd lng="pl">kariolka</trd>
   <trd lng="ru">&c_d;&c_v;&c_u;&c_k;&c_o;&c_l;&c_k;&c_a;</trd>
+  <trd lng="sk">dvojkolesový ľahký voz</trd>
 </drv>
 </art>
 <!--
 $Log: kariol.xml,v $
+Revision 1.16  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2014/11/03 21:10:25  revo
 Jeromo Vasxe: + ekz
 

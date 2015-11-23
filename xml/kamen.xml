@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kamen.xml,v 1.20 2011/12/03 23:10:19 revo Exp $">
+<art mrk="$Id: kamen.xml,v 1.22 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kamen</rad>/o
@@ -32,6 +32,10 @@
   <trd lng="bg">&c_k;&c_a;&c_m;&c_i;&c_n;&c_a;</trd>
   <trd lng="br">oaled</trd>
   <trd lng="ca">xemeneia, llar</trd>
+  <trdgrp lng="cs">
+    <trd>kamna</trd>,
+    <trd>krb</trd>
+  </trdgrp>
   <trd lng="de">Kamin</trd>
   <trd lng="en">fireplace</trd>
   <trd lng="es">chimenea</trd>
@@ -44,6 +48,10 @@
     <trd>koza<klr> (rodzaj kominka)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_a;&c_m;&c_i;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>kozub</trd>,
+    <trd>krb</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kamen.0skrapisto">
@@ -63,10 +71,17 @@
   <trd lng="nl">schoorsteenveger</trd>
   <trd lng="pl">kominiarz</trd>
   <trd lng="ru">&c_t;&c_r;&c_u;&c_b;&c_o;&c_ch;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">kominár</trd>
 </drv>
 </art>
 <!--
 $Log: kamen.xml,v $
+Revision 1.22  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2011/12/03 23:10:19  revo
 Marc Rausell: kataluna traduko
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kolbas.xml,v 1.22 2014/06/25 17:10:13 revo Exp $">
+<art mrk="$Id: kolbas.xml,v 1.25 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kolbas</rad>/o
@@ -27,7 +27,12 @@
   </trdgrp>
   <trd lng="bg">&c_s;&c_a;&c_l;&c_a;&c_m;</trd>
   <trd lng="br">silzigenn</trd>
-  <trd lng="cs">klob&aacute;sa</trd>
+  <trdgrp lng="cs">
+    <trd>klob&aacute;sa</trd>,
+    <trd>párek</trd>,
+    <trd>salám</trd>,
+    <trd>uzenka</trd>
+  </trdgrp>
   <trd lng="de">Wurst</trd>
   <trdgrp lng="en">
     <trd>sausage</trd>,
@@ -39,6 +44,7 @@
   <trd lng="nl">worst</trd>
   <trd lng="pl">kie&lstroke;basa</trd>
   <trd lng="ru">&c_k;&c_o;&c_l;&c_b;&c_a;&c_s;&c_a;</trd>
+  <trd lng="sk">klobása</trd>
 </drv>
 
 <drv mrk="kolbas.trip0o">
@@ -50,6 +56,10 @@
     </dif>
   </snc>
   <trd lng="br">anduilhenn</trd>
+  <trdgrp lng="cs">
+    <trd>jaternice</trd>,
+    <trd>jitrnice</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Chitterlings</trd>,
     <trd>Chitlin</trd>
@@ -57,8 +67,8 @@
   <trd lng="en">chitterling</trd>
   <trd lng="fr">andouille<klr tip="ind"> (mets)</klr></trd>
   <trd lng="nl">rolpens</trd>
-  <trd lng="ru">&c_l;&c_i;&c_v;&c_je;&c_r;&c_n;&c_a;&c_ja;
-&c_k;&c_o;&c_l;&c_b;&c_a;&c_s;&c_a;</trd>
+  <trd lng="ru">&c_l;&c_i;&c_v;&c_je;&c_r;&c_n;&c_a;&c_ja; &c_k;&c_o;&c_l;&c_b;&c_a;&c_s;&c_a;</trd>
+  <trd lng="sk">jaternica</trd>
 </drv>
 
 <drv mrk="kolbas.sang0o">
@@ -67,6 +77,15 @@
     <uzo tip="fak">KUI</uzo>
     <dif>
       Besta intesto plenigita per porkaj graso kaj sango kun bulboj.
+      <ekz>
+        Mi havas hejme sangokolbason kaj vinon. &Ccirc;u vi volas man&gcirc;eti kun
+        mi?
+      <fnt>
+        <aut>Albert Camus, trad. Michel Duc Goninaz</aut>,
+        <vrk>La Fremdulo</vrk>,
+        <lok>S.A.T., 1993, p. 38</lok>
+      </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="bg">&c_k;&c_malmol;&c_r;&c_v;&c_a;&c_v;&c_i;&c_c;&c_a;</trd>
@@ -79,15 +98,24 @@
   <trdgrp lng="es">
     <trd>moronga</trd>,
     <trd>morcilla</trd>
-  </trdgrp><trd lng="fr">boudin<klr tip="ind"> (mets)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">boudin<klr tip="ind"> (mets)</klr></trd>
   <trd lng="nl">bloedworst</trd>
   <trd lng="pl">kaszanka</trd>
-  <trd lng="ru">&c_k;&c_r;&c_o;&c_v;&c_ja;&c_n;&c_a;&c_ja;
-&c_k;&c_o;&c_l;&c_b;&c_a;&c_s;&c_a;</trd>
+  <trd lng="ru">&c_k;&c_r;&c_o;&c_v;&c_ja;&c_n;&c_a;&c_ja; &c_k;&c_o;&c_l;&c_b;&c_a;&c_s;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log: kolbas.xml,v $
+Revision 1.25  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2015/01/10 08:10:22  revo
+Alain Gerard: +fnt
+
 Revision 1.22  2014/06/25 17:10:13  revo
 Eko Nur Syah Hidayat: +id
 
@@ -107,8 +135,5 @@ Revision 1.17  2006/07/05 18:36:10  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.16  2006/05/28 16:32:28  revo
-Jeromo Vasxe: + mrk
-
-Revision 1.15 2006/01/09 17:34:31 revo
 -->
 </vortaro>

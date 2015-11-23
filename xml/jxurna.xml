@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jxurna.xml,v 1.35 2014/05/30 08:10:48 revo Exp $">
+<art mrk="$Id: jxurna.xml,v 1.36 2014/11/14 03:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&jcirc;urnal</rad>/o <fnt><bib>PV</bib></fnt>
@@ -105,7 +105,10 @@
     <trd>napilap</trd>,
     <trd>&uacute;js&aacute;g</trd>
   </trdgrp>
-  <trd lng="id">koran</trd>
+  <trdgrp lng="id">
+    <trd>koran</trd>,
+    <trd><ind>surat</ind> kabar</trd>
+  </trdgrp>
   <trdgrp lng="it">
     <trd>gazzetta</trd>,
     <trd>giornale</trd>, 
@@ -137,6 +140,7 @@
   <trd lng="bg">&c_zh;&c_u;&c_r;&c_n;&c_a;&c_l;&c_i;&c_s;&c_t;&c_i;&c_k;&c_a;</trd>
   <trd lng="de">Journalismus</trd>
   <trd lng="fr">journalisme</trd>
+  <trd lng="id">jurnalisme</trd>
   <trd lng="ru">&c_zh;&c_u;&c_r;&c_n;&c_a;&c_l;&c_i;&c_s;&c_t;&c_i;&c_k;&c_a;</trd>
   <trd lng="it">giornalismo</trd>
 </drv>
@@ -185,6 +189,7 @@
   <trd lng="hu">&uacute;js&aacute;g&iacute;r&oacute;</trd>
   <trdgrp lng="id">
     <trd>jurnalis</trd>,
+    <trd>reporter</trd>,
     <trd>wartawan</trd>
   </trdgrp>
   <trd lng="it">giornalista</trd>
@@ -215,10 +220,14 @@
     </dif>
   </snc>
   <trd lng="fr">journaliste d'enqu&ecirc;te</trd>
+  <trd lng="id"><ind>reporter</ind> investigatif</trd>
 </drv>
 </art>
 <!--
 $Log: jxurna.xml,v $
+Revision 1.36  2014/11/14 03:10:22  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.35  2014/05/30 08:10:48  revo
 Eko Nur Syah Hidayat: +id
 
@@ -238,8 +247,5 @@ Revision 1.30  2009/03/10 17:31:09  revo
 Antonio Codazzi: ~o: ++trd, ~ismo: +trd it
 
 Revision 1.29  2007/07/13 16:30:52  revo
-Wieland Pusch: +trd de
-
-Revision 1.28  2005/04/24 16:33:58  revo
 -->
 </vortaro>

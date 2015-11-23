@@ -58,7 +58,17 @@
     <sekcio titolo="DICT-versio de Reta Vortaro">
       <ero titolo="DICT-Revo" ref="revodict">
         <alineo style="font-size: small; margin-top: 0.5em; margin-left: 2em; width: 70%">
-        Pri informoj kiel utiligi DICT a&ubreve; Stardict kun Revo vidu sur pa&gcirc;o <url ref="../revo/dok/operaciumoj.html">Kiel uzi Revon en diversaj sistemoj</url>.
+        Pri informoj kiel utiligi DICT a&ubreve; Stardict kun Revo vidu sur
+	pa&gcirc;o <url ref="../revo/dok/operaciumoj.html">Kiel uzi Revon en
+	diversaj sistemoj</url>. Skribu al la Revo-administranto, se vi
+	bezonas pli novan version.
+        </alineo>
+      </ero>
+    </sekcio>
+    <sekcio titolo="XDXF-versio de Reta Vortaro">
+      <ero titolo="XDXF-Revo" ref="revoxdxf">
+        <alineo style="font-size: small; margin-top: 0.5em; margin-left: 2em; width: 70%">
+        Pri informoj kiel utiligi Revon en formo XDXF vidu sur pa&gcirc;o <url ref="../revo/dok/operaciumoj.html">Kiel uzi Revon en diversaj sistemoj</url>.
         </alineo>
       </ero>
     </sekcio>
@@ -71,11 +81,25 @@
         </alineo>
       </ero>
     </sekcio>
+    <sekcio titolo="Vortanalizado per Revo-radikaro">
+      <ero titolo="Vortanalizilo" ref="analizilo">
+	<alineo style="font-size: small; margin-top: 0.5em; margin-left: 2em;
+		       width: 70%">
+        Jen estas la kodo de 
+	<url
+	    ref="https://code.google.com/p/vortanalizilo/">vortanalizilo</url>,
+        skribita en Prologo kaj povanta ekstrakti la radikojn kun informoj pri
+	vortspecoj el Revo kaj uzi por analizado de vortoj.
+        Tiu analizilo estas ekzemple uzata por la 
+        <url ref="http://h1838790.stratoserver.net/revokontrolo/">kontrolado de Revo-artikoloj</url>.
+        </alineo>
+      </ero>
+    </sekcio>
     <sekcio titolo="Voko-programaro">
       <ero titolo="programoj por fari kaj administri vortaron" ref="voko">
         <alineo style="font-size: small; margin-top: 0.5em; margin-left: 2em; width: 70%">
         &Gcirc;i enhavas &ccirc;iujn rimedojn por konstrui elektronikajn
-        vortarojn la&ubreve; VoKo-teknologio. &Gcirc;i ne enhavas
+        vortarojn la&ubreve; VoKo-te&hcirc;niko. &Gcirc;i ne enhavas
         ekzemplovortaron (vi povus preni kelkajn artikolojn el ReVo).
         Aldone vi bezonas ilojn el la publika programaro (t.e. Java, ant, saxon k.a.).
         </alineo>
@@ -137,7 +161,9 @@
     <sekcio titolo="por redaktantoj">
        <ero ref="novaj.html" titolo="Novaj artikoloj"/>
        <ero ref="shanghoj.html" titolo="&Scirc;an&gcirc;itaj artikoloj"/>
-       <ero ref="eraroj.html" titolo="Eraro-raporto"/>
+       <ero ref="eraroj.html" titolo="Strukturaj eraroj"/>
+       <ero ref="http://h1838790.stratoserver.net/revokontrolo/"
+	    titolo="Vortokontrolo" kadro="_new"/>
        <MANKOJ titolo="Kelkaj mankantaj tradukoj"/>
        <ero ref="/cgi-bin/mx_trd.pl" titolo="&Ccirc;iuj mankantaj tradukoj" kadro="precipa"/>
 

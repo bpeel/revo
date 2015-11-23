@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kalend2.xml,v 1.20 2012/09/01 07:10:25 revo Exp $">
+<art mrk="$Id: kalend2.xml,v 1.22 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>kalendul</rad>/o
@@ -39,10 +39,18 @@
     <trd>&c_n;&c_o;&c_g;&c_o;&c_t;&c_o;&c_k;</trd>,
     <trd>&c_k;&c_a;&c_l;&c_je;&c_n;&c_d;&c_u;&c_l;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">mesiačik</trd>
+  <trd lng="cs">měsíček <klr>(rostl.)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: kalend2.xml,v $
+Revision 1.22  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2012/09/01 07:10:25  revo
 Marc Rausell: + trd ca
 

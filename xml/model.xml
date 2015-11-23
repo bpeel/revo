@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: model.xml,v 1.21 2014/05/16 12:10:12 revo Exp $">
+<art mrk="$Id: model.xml,v 1.24 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>model</rad>/o <fnt><bib>PV</bib></fnt>
@@ -93,7 +93,11 @@
     <trd>&c_m;&c_a;&c_d;&c_e;&c_l;&c_mol;</trd>,
     <trd>&c_u;&c_z;&c_o;&c_r;</trd>
   </trdgrp>
-  <trd lng="cs">vzor</trd>
+  <trdgrp lng="cs">
+    <trd>model</trd>,
+    <trd>předloha</trd>,
+    <trd>vzor</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Modell</trd>
   </trdgrp>
@@ -105,6 +109,11 @@
     <trd>&c_m;&c_o;&c_d;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_o;&c_b;&c_r;&c_a;&c_z;&c_je;&c_c;</trd>,
     <trd>&c_m;&c_a;&c_k;&c_je;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>maketa</trd>,
+    <trd>model</trd>,
+    <trd>vzor</trd>
   </trdgrp>
 </drv>
 
@@ -130,6 +139,14 @@
     <trd>&c_m;&c_a;&c_d;&c_e;&c_l;&c_mol;&c_n;&c_y;</trd>,
     <trd>&c_u;&c_z;&c_o;&c_r;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>exemplární</trd>,
+    <trd>modelový</trd>,
+    <trd>příkladný</trd>,
+    <trd>ukázkový</trd>,
+    <trd>vzorný</trd>,
+    <trd>vzorový</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>modellhaft</trd>
   </trdgrp>
@@ -138,14 +155,19 @@
     <trd>mod&egrave;le<klr tip="amb"> (adj.)</klr></trd>,
     <trd>exemplaire</trd>
   </trdgrp>
+  <trdgrp lng="hu">
+    <trd>minta-</trd>,
+    <trd>mintaszer&udblac;</trd>
+  </trdgrp>
   <trd lng="nl">voorbeeldig</trd>
   <trdgrp lng="ru">
     <trd>&c_m;&c_o;&c_d;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_o;&c_b;&c_r;&c_a;&c_z;&c_c;&c_o;&c_v;&c_y;&c_j;</trd>
   </trdgrp>
-  <trdgrp lng="hu">
-    <trd>minta-</trd>,
-    <trd>mintaszer&udblac;</trd>
+  <trdgrp lng="sk">
+    <trd>príkladný</trd>,
+    <trd>ukážkový</trd>,
+    <trd>vzorný</trd>
   </trdgrp>
 </drv>
 
@@ -190,7 +212,7 @@
   </snc>
   <snc mrk="model.0i.SCI">
     <uzo tip="fak">SCI</uzo>
-    <ref tip="dif" cel="model.0umi.SCI">umi</ref>
+    <ref tip="dif" cel="model.0umi.SCI"><tld/>umi</ref>
     <ekz>
       sukeraj solvajoj <tld/>as fiziologiajn likva&jcirc;ojn
       <fnt>
@@ -215,6 +237,11 @@
     </ekz>
     <trd lng="fr">mod&eacute;liser</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>modelovat</trd>,
+    <trd>tvořit modely</trd>
+  </trdgrp>
+  <trd lng="sk">modelovať</trd>
 </drv>
 
 <drv mrk="model.0igi">
@@ -266,32 +293,6 @@
   </snc>
 </drv>
 
-<drv mrk="model.0umi">
-  <kap><tld/>umi</kap>
-  <gra><vspec>tr</vspec></gra>
-  <snc mrk="model.0umi.SCI">
-    <dif>
-      Esplorcele prezenti per
-      <ref tip="vid" cel="model.0o.SCI"><tld/>o<sncref/></ref>:
-      <ekz>
-         oni provas <tld/>umi la funkciadon (konduton) de la sistemo
-         per simulaj modeloj
-         <fnt>
-           <aut>ING. Ale&scaron; Bedna&rcaron;&iacute;k</aut>:
-           <vrk><url
-ref="http://www.eventoj.hu/steb/ingxenierado/hidrologio/ruzin/akvokonservejo-ruzin.htm"
-               >Kelkaj notoj pri la akvokonservejo Ru&zcaron;&iacute;n</url></vrk>.
-           <lok>Konferenca kajero de AEST '81:
-             Apliko de Esperanto en Scienco kaj Tekniko, &Zcaron;ilina</lok>
-         </fnt>.
-      </ekz>
-    </dif>
-    <ref tip="sin" cel="model.0i.SCI">modeli<sncref/></ref>
-    <trd lng="fr">mod&eacute;liser</trd>
-    <trd lng="ru">&c_m;&c_o;&c_d;&c_je;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
-  </snc>
-</drv>
-
 <drv mrk="model.0ilo">
   <kap><tld/>ilo</kap>
   <snc mrk="model.0ilo.KOMUNE">
@@ -303,6 +304,7 @@ ref="http://www.eventoj.hu/steb/ingxenierado/hidrologio/ruzin/akvokonservejo-ruz
       <ref cel="sxablo.0o">&scirc;ablono</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">forma</trd>
   <trdgrp lng="de">
     <trd>Modell</trd>,
     <trd>Gussform</trd>,
@@ -321,6 +323,7 @@ ref="http://www.eventoj.hu/steb/ingxenierado/hidrologio/ruzin/akvokonservejo-ruz
     <trd>&c_m;&c_o;&c_d;&c_je;&c_l;&c_mol;<klr tip="amb"> (&c_v; &c_l;&c_i;&c_t;&c_je;&c_j;&c_n;&c_o;&c_m; &c_d;&c_je;&c_l;&c_je;)</klr></trd>,
     <trd>&c_sh;&c_a;&c_b;&c_l;&c_o;&c_n;</trd>
   </trdgrp>
+  <trd lng="sk">forma</trd>
 </drv>
 
 <drv mrk="model.0ulo">
@@ -365,9 +368,65 @@ ref="http://www.eventoj.hu/steb/ingxenierado/hidrologio/ruzin/akvokonservejo-ruz
     </trdgrp>
   </snc>
 </drv>
+
+<drv mrk="model.0umi">
+  <kap><tld/>umi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="model.0umi.SCI">
+    <dif>
+      Esplorcele prezenti per
+      <ref tip="vid" cel="model.0o.SCI"><tld/>o<sncref/></ref>:
+      <ekz>
+         oni provas <tld/>umi la funkciadon (konduton) de la sistemo
+         per simulaj modeloj
+         <fnt>
+           <aut>A. Bedna&rcaron;&iacute;k</aut>:
+           <vrk><url
+ref="http://www.eventoj.hu/steb/ingxenierado/hidrologio/ruzin/akvokonservejo-ruzin.htm"
+               >Kelkaj notoj pri la akvokonservejo Ru&zcaron;&iacute;n</url></vrk>.
+           <lok>Konferenca kajero de AEST '81:
+             Apliko de Esperanto en Scienco kaj Tekniko, &Zcaron;ilina</lok>
+         </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="model.0i.SCI">modeli<sncref/></ref>
+    <trd lng="fr">mod&eacute;liser</trd>
+    <trd lng="ru">&c_m;&c_o;&c_d;&c_je;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+</drv>
+
+<drv mrk="model.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="model.mal0a.KOMUNE">
+    <dif>
+      Ne imitinda, misa:
+      <ekz>
+        jen diro mal<tld/>a
+        <fnt>
+          <aut>J. Racine, trad. G. Lagrange</aut>,
+          <vrk>Fedra</vrk>,
+          <lok>1991</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>criticable</trd>,
+    <trd>in&eacute;gal</trd>
+  </trdgrp>
+</drv>
 </art>
 <!--
 $Log: model.xml,v $
+Revision 1.24  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/06/13 17:10:19  revo
+Jeromo Vasxe: + mal~a
+
 Revision 1.21  2014/05/16 12:10:12  revo
 Sergio Pokrovskij: +~umi
 
@@ -387,8 +446,5 @@ Revision 1.16  2005/07/06 16:31:57  revo
 Yury Finkel: +trd ru
 
 Revision 1.15  2005/04/05 16:36:49  revo
-Jeromo Vasxe: reordig. aboce trd, + kk ekz
-
-Revision 1.14 2005/02/07 17:32:29 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mem.xml,v 1.21 2014/09/02 11:10:13 revo Exp $">
+<art mrk="$Id: mem.xml,v 1.23 2015/07/04 08:37:39 revo Exp $">
 <kap>
     <ofc>*</ofc>
     <rad>mem</rad> <fnt><bib>PV</bib></fnt>
@@ -115,13 +115,18 @@
         <trd>pr&oacute;prio</trd>
       </trdgrp>
     </snc>
-    <trd lng="be">&c_s;&c_a;&c_m;</trd>
-    <trdgrp lng="fr">
+  <trd lng="be">&c_s;&c_a;&c_m;</trd>
+  <trd lng="cs">sám <klr>(osobně)</klr></trd>
+  <trdgrp lng="fr">
       <trd>m&ecirc;me<klr> (soi-m&ecirc;me)</klr></trd>,
       <trd>soi-m&ecirc;me</trd>
     </trdgrp>
-    <trd lng="ru">&c_s;&c_a;&c_m;</trd>
-    <trd lng="sv">sj&auml;lv</trd>
+  <trd lng="ru">&c_s;&c_a;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>osobne</trd>,
+    <trd>sám</trd>
+  </trdgrp>
+  <trd lng="sv">sj&auml;lv</trd>
 </drv>
 </subart>
 
@@ -427,11 +432,12 @@ lng="ru">&c_s;&c_a;&c_m;&c_o;&c_b;&c_y;&c_t;&c_n;&c_y;&c_j;</trd>
           <aut>S. Pokrovskij</aut>
         </rim>
       </snc>
-      <trd lng="be">&c_s;&c_a;&c_m;</trd>
-      <trd lng="de">selbst</trd>
-      <trd lng="hu">ugyanaz</trd>
-      <trd lng="nl">zelf</trd>
-    </drv>
+  <trd lng="be">&c_s;&c_a;&c_m;</trd>
+  <trd lng="de">selbst</trd>
+  <trd lng="hu">ugyanaz</trd>
+  <trd lng="nl">zelf</trd>
+  <trd lng="sk">totožný s predmetom</trd>
+</drv>
 
     <drv mrk="mem.0o">
       <kap><tld/>o</kap>
@@ -504,7 +510,8 @@ lng="ru">&c_s;&c_a;&c_m;&c_o;&c_b;&c_y;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
           <trd>identitet</trd>
         </trdgrp>
       </snc>
-    </drv>
+      <trd lng="sk">ja <klr>(moje dobré ja)</klr></trd>
+</drv>
     <drv mrk="mem.0eco">
       <kap><tld/>eco</kap>
       <snc mrk="mem.0eco.KOMUNE">
@@ -568,6 +575,12 @@ ref="http://www.ikue.org/papoj/benediktoxvi/prediko051101.html">
 </art>
 <!--
 $Log: mem.xml,v $
+Revision 1.23  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2014/09/02 11:10:13  revo
 Damien Brucker: +ref
 

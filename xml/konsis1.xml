@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konsis1.xml,v 1.16 2012/08/04 10:10:15 revo Exp $">
+<art mrk="$Id: konsis1.xml,v 1.18 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>konsistori</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -48,6 +48,10 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_n;&c_s;&c_ib;&c_s;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>
   <trd lng="ca">consistori</trd>
+  <trdgrp lng="cs">
+    <trd>konsistoř</trd>,
+    <trd>konzistorium</trd>
+  </trdgrp>
   <trd lng="en">consistory</trd>
   <trd lng="fr">consistoire</trd>
   <trd lng="it">concistoro</trd>
@@ -55,10 +59,20 @@
   <trd lng="pl">konsystorium</trd>
   <trd lng="pt">consist&oacute;rio</trd>
   <trd lng="ru">&c_k;&c_o;&c_n;&c_s;&c_i;&c_s;&c_t;&c_o;&c_r;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>konzistórium</trd>,
+    <trd>poradný zbor</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: konsis1.xml,v $
+Revision 1.18  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2012/08/04 10:10:15  revo
 Marc Rausell: + trd ca
 

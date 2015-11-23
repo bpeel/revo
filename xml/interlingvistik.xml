@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: interlingvistik.xml,v 1.10 2012/07/31 19:10:29 revo Exp $">
+<art mrk="$Id: interlingvistik.xml,v 1.12 2015/07/04 08:37:36 revo Exp $">
 <kap>
 <rad>interlingvistik</rad>/o
 </kap>
@@ -24,6 +24,7 @@
   <trd
   lng="be">&c_ib;&c_n;&c_t;&c_e;&c_r;&c_l;&c_ib;&c_g;&c_v;&c_ib;&c_s;&c_t;&c_y;&c_k;&c_a;</trd>
   <trd lng="ca">interling&uuml;&iacute;stica</trd>
+  <trd lng="cs">interlingvistika</trd>
   <trdgrp lng="de">
     <trd>Interlinguistik</trd>
   </trdgrp>
@@ -34,10 +35,17 @@
   <trd lng="pt">interling&uuml;&iacute;stica</trd>
   <trd
   lng="ru">&c_i;&c_n;&c_t;&c_je;&c_r;&c_l;&c_i;&c_g;&c_v;&c_i;&c_s;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trd lng="sk">interlingvistika</trd>
 </drv>
 </art>
 <!--
 $Log: interlingvistik.xml,v $
+Revision 1.12  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2012/07/31 19:10:29  revo
 Marc Rausell: + trd ca
 

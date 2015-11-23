@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krak1.xml,v 1.5 2011/12/06 13:10:16 revo Exp $">
+<art mrk="$Id: krak1.xml,v 1.7 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>krak</rad>/o
 </kap>
@@ -35,12 +35,28 @@
     </dif>
   </snc>
   <trd lng="ca">crac <klr>(coca&iuml;na)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>lusknutí</trd>,
+    <trd>praskot</trd>,
+    <trd>třesknutí</trd>
+  </trdgrp>
   <trd lng="fr">crack<klr tip="amb"> (drogue)</klr></trd>
   <trd lng="pt">crack <klr tip="amb">(droga)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>lúsknutie</trd>,
+    <trd>praskot</trd>,
+    <trd>tresknutie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: krak1.xml,v $
+Revision 1.7  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2011/12/06 13:10:16  revo
 Marc Rausell: kataluna traduko
 

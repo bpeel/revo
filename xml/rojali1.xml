@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: rojali1.xml,v 1.14 2012/07/17 13:10:13 revo Exp $">
+  <art mrk="$Id: rojali1.xml,v 1.16 2015/07/04 08:37:42 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>rojalist</rad>/o
@@ -18,27 +18,44 @@
            <klr>(en formo rilata al re&gcirc;a re&gcirc;imo)</klr>.
         </dif>
       </snc>
-      <trd lng="be">&c_r;&c_a;&c_ja;&c_l;&c_ib;&c_s;&c_t;</trd>
-      <trd lng="ca">reialista</trd>
-      <trd lng="de">Royalist</trd>
-      <trd lng="en">royalist</trd>
-      <trd lng="fr">royaliste</trd>
-      <trdgrp lng="hu">
+  <trd lng="be">&c_r;&c_a;&c_ja;&c_l;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="ca">reialista</trd>
+  <trdgrp lng="cs">
+    <trd>monarchista</trd>,
+    <trd>přívrženec království</trd>,
+    <trd>roajalista</trd>,
+    <trd>royalista</trd>
+  </trdgrp>
+  <trd lng="de">Royalist</trd>
+  <trd lng="en">royalist</trd>
+  <trd lng="fr">royaliste</trd>
+  <trdgrp lng="hu">
         <trd>royalista</trd>,
         <trd>kir&aacute;lyp&aacute;rti</trd>
       </trdgrp>
-      <trdgrp lng="nl">
+  <trdgrp lng="nl">
         <trd>royalist</trd>,<trd>koningsgezinde</trd>
       </trdgrp>
-      <trdgrp lng="pt">
+  <trdgrp lng="pt">
         <trd>monarquista</trd>,
         <trd>realista</trd>
       </trdgrp>
-      <trd lng="ru">&c_r;&c_o;&c_ja;&c_l;&c_i;&c_s;&c_t;</trd>
-    </drv>
+  <trd lng="ru">&c_r;&c_o;&c_ja;&c_l;&c_i;&c_s;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>monarchista</trd>,
+    <trd>roajalista</trd>,
+    <trd>royalista</trd>
+  </trdgrp>
+</drv>
   </art>
   <!--
   $Log: rojali1.xml,v $
+  Revision 1.16  2015/07/04 08:37:42  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.15  2015/06/29 16:33:22  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.14  2012/07/17 13:10:13  revo
   Marc Rausell: + trd ca
 

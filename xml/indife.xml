@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: indife.xml,v 1.22 2012/07/15 10:10:14 revo Exp $">
+<art mrk="$Id: indife.xml,v 1.25 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>indiferent</rad>/a <fnt><bib>PV</bib></fnt>
@@ -70,6 +70,11 @@
     <trd>&c_b;&c_je;&c_z;&c_u;&c_d;&c_z;&c_je;&c_l;&c_mol;&c_n;&c_y;</trd>
   </trdgrp>
   <trd lng="ca">indiferent</trd>
+  <trdgrp lng="cs">
+    <trd>indiferentní</trd>,
+    <trd>lhostejný</trd>,
+    <trd>nevšímavý</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>gleichg&uuml;ltig</trd>,
     <trd>gleich</trd>,
@@ -97,6 +102,10 @@
     <trd>&c_i;&c_n;&c_d;&c_i;&c_f;&c_f;&c_je;&c_r;&c_je;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_r;&c_a;&c_v;&c_n;&c_o;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_b;&c_je;&c_z;&c_u;&c_ch;&c_a;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>indiferentný</trd>,
+    <trd>ľahostajný</trd>
   </trdgrp>
   <trd lng="sv">likgiltig</trd>
 </drv>
@@ -133,13 +142,17 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="ca">indiferentment</trd>
   <trdgrp lng="be">
     <trd>&c_a;&c_b;&c_y;&c_ja;&c_k;&c_a;&c_v;&c_a;</trd>,
     <trd>&c_ib;&c_n;&c_d;&c_y;&c_f;&c_e;&c_r;&c_e;&c_n;&c_t;&c_n;&c_a;</trd>,
     <trd>&c_r;&c_a;&c_w;&c_n;&c_a;&c_d;&c_u;&c_sh;&c_n;&c_a;</trd>,
     <trd>&c_b;&c_je;&c_z;&c_u;&c_v;&c_a;&c_zh;&c_n;&c_a;</trd>,
     <trd>&c_b;&c_je;&c_z;&c_u;&c_d;&c_z;&c_je;&c_l;&c_mol;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">indiferentment</trd>
+  <trdgrp lng="cs">
+    <trd>indiferentně</trd>,
+    <trd>lhostejně</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>gleichg&uuml;ltig</trd>,
@@ -162,6 +175,49 @@
     <trd>&c_i;&c_n;&c_d;&c_i;&c_f;&c_f;&c_je;&c_r;&c_je;&c_n;&c_t;&c_n;&c_o;</trd>,
     <trd>&c_r;&c_a;&c_v;&c_n;&c_o;&c_d;&c_u;&c_sh;&c_n;&c_o;</trd>,
     <trd>&c_b;&c_je;&c_z;&c_u;&c_ch;&c_a;&c_s;&c_t;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trd lng="sk">ľahostajne</trd>
+</drv>
+
+<drv mrk="indife.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="indife.0i.io">
+    <dif>
+      Esti
+      <ref tip="vid" 
+      cel="indife.0a.io"><tld/>a<sncref/></ref>;
+      <ref tip="vid" cel="egal.0i.PSI">egali</ref>:
+      <ekz>
+        ili <klr>...</klr> <tld/>us al mi kiel malnova litopajlo
+        <fnt>
+          <aut>B. Traven, trad. cezaro</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/34592/105274">
+          Mortula &Scirc;ipo</url></vrk>,
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="indife.0i.iu">
+    <dif>
+      Esti
+      <ref tip="vid" cel="indife.0a.iu"><tld/>a<sncref/></ref>:
+      <ekz>
+        Dunst <klr>...</klr> prezentis vere interesegan 
+        karakteron de homo, kiu <tld/>as absolute pri &ccirc;io
+        <fnt>
+          <aut>G. Arosev</aut>,
+          <vrk>En &leftquot;La Ondo&rightquot; pri &leftquot;La ondoj&rightquot;</vrk>,
+          <lok><url ref="http://esperanto-ondo.ru/Ondo/202-lode.htm">
+          La Ondo de Esperanto, 2011:8&ndash;9 (202&ndash;203)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre &eacute;gal<klr> (indiff&eacute;rent)</klr></trd>,
+    <trd>&ecirc;tre indiff&eacute;rent</trd>
   </trdgrp>
 </drv>
 
@@ -199,14 +255,29 @@
     </dif>
   </snc>
   <trd lng="ca">indifer&egrave;ncia</trd>
+  <trdgrp lng="cs">
+    <trd>indiferentnost</trd>,
+    <trd>lhostejnost</trd>,
+    <trd>nezájem</trd>
+  </trdgrp>
   <trd lng="en">indifference</trd>
   <trd lng="fr">indiff&eacute;rence</trd>
   <trd lng="hu">k&ouml;z&ouml;mb&ouml;ss&eacute;g</trd>
   <trd lng="pt">indiferen&ccedil;a</trd>
+  <trd lng="sk">ľahostajnosť</trd>
 </drv>
 </art>
 <!--
 $Log: indife.xml,v $
+Revision 1.25  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2015/01/17 14:10:16  revo
+Jeromo Vasxe: + ~i
+
 Revision 1.22  2012/07/15 10:10:14  revo
 Marc Rausell: + trd ca
 
@@ -226,8 +297,5 @@ Revision 1.17  2004/09/06 16:36:06  revo
 Marc Bavant: +drv ~eco
 
 Revision 1.16  2004/07/08 17:05:20  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.15  2004/01/20 18:34:36  revo
 -->
 </vortaro>

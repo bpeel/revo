@@ -2,15 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sxem.xml,v 1.1 2013/12/11 12:10:14 revo Exp $">
+  <art mrk="$Id: sxem.xml,v 1.3 2015/08/22 18:10:15 revo Exp $">
     <kap>
       <rad>&Scirc;em</rad>/o
     </kap>
     <drv mrk="sxem.Sx0o">
       <kap><tld/>o</kap>
+      <snc>
       <uzo tip="fak">PERS</uzo>
       <uzo tip="fak">BIB</uzo>
-      <snc>
         <dif>
           Hebrea nomo, precipe la nomo de
           tiu el la filoj de <ref cel="noahx.0o">Noa&hcirc;o</ref>, kiun
@@ -28,6 +28,8 @@
         </dif>
       </snc>
       <trd lng="en">Shem</trd>
+      <trd lng="ca">Sem</trd>
+      <trd lng="fr">Sem</trd>
       <trd lng="ru">&c_S;&c_i;&c_m;</trd>
     </drv>
 
@@ -55,6 +57,8 @@
           </ekz>
         </dif>
       </snc>
+      <trd lng="ca">semita</trd>
+      <trd lng="fr">s&eacute;mite</trd>
       <trd lng="ru">&c_s;&c_je;&c_m;&c_i;&c_t;</trd>
       <rim>
         NPIV prave rekomendas (&ccirc;e <ctl>semido</ctl>):
@@ -79,6 +83,8 @@
         </dif>
       </snc>
       <trd lng="en">semitic</trd>
+      <trd lng="ca">sem&iacute;tic</trd>
+      <trd lng="fr">s&eacute;mitique</trd>
       <trd lng="ru">&c_s;&c_je;&c_m;&c_i;&c_t;&c_s;&c_k;&c_i;&c_j;</trd>
     </drv>
 
@@ -87,8 +93,8 @@
           <kap>semida lingvo</kap>
         </var>
       </kap>
-      <uzo tip="fak">LIN</uzo>
       <snc>
+      <uzo tip="fak">LIN</uzo>
         <dif>
           Apartenanta al la lingvofamilio, kiu ampleksas la lingvojn
           aramean, asirian, akadan, fenican, hebrean, araban,
@@ -111,6 +117,8 @@
         </dif>
       </snc>
       <trd lng="en">semitic language</trd>
+      <trd lng="ca">llengua sem&iacute;tica</trd>
+      <trd lng="fr">langue s&eacute;mitique</trd>
       <trd lng="ru">&c_s;&c_je;&c_m;&c_i;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j; &c_ja;&c_z;&c_y;&c_k;</trd>
     </drv>
 
@@ -118,6 +126,12 @@
 
 <!--
 $Log: sxem.xml,v $
+Revision 1.3  2015/08/22 18:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.2  2015/04/04 20:10:18  revo
+Josep-Enric Peres-i-Blesa: Aldono de novaj tradukoj katalunaj
+
 Revision 1.1  2013/12/11 12:10:14  revo
 Sergio Pokrovskij: nova artikolo
 

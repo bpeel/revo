@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: perfid.xml,v 1.24 2013/02/18 06:10:16 revo Exp $">
+<art mrk="$Id: perfid.xml,v 1.26 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>perfid</rad>/i
@@ -89,6 +89,13 @@
     <trd>traisa&ntilde;</trd>,
     <trd>trubardi&ntilde;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>prozradit</trd>,
+    <trd>vyzradit</trd>,
+    <trd>zaprodat</trd>,
+    <trd>zradit</trd>,
+    <trd>zrazovat</trd>
+  </trdgrp>
   <trd lng="de">verraten</trd>
   <trd lng="en">betray</trd>
   <trd lng="es">traicionar</trd>
@@ -101,6 +108,10 @@
   <trdgrp lng="pt">
     <trd>trair</trd>,
     <trd>atrai&ccedil;oar</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prezradiť</trd>,
+    <trd>zradiť</trd>
   </trdgrp>
 </drv>
 
@@ -116,6 +127,14 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bezcharakterní</trd>,
+    <trd>nevěrný</trd>,
+    <trd>perfidní</trd>,
+    <trd>podlý</trd>,
+    <trd>proradný</trd>,
+    <trd>zrádný</trd>
+  </trdgrp>
   <trd lng="es">traicionero, -a</trd>
   <trdgrp lng="fr">
     <trd>perfide</trd>,
@@ -125,6 +144,11 @@
   <trdgrp lng="pl">
     <trd>zdradziecki</trd>,
     <trd>zdradliwy</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>neverný</trd>,
+    <trd>podlý</trd>,
+    <trd>zradný</trd>
   </trdgrp>
 </drv>
 
@@ -152,12 +176,18 @@
     <trd>treitouriezh</trd>,
     <trd>trubarderezh</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>perfidie</trd>,
+    <trd>perfidita</trd>,
+    <trd>zrada <klr>(výsledek)</klr></trd>
+  </trdgrp>
   <trd lng="de">Verrat</trd>
-  <trd lng="es">traici&oacute;n</trd>
   <trd lng="en">betrayal</trd>
+  <trd lng="es">traici&oacute;n</trd>
   <trd lng="fr">trahison</trd>
   <trd lng="nl">verraad</trd>
   <trd lng="pl">zdrada</trd>
+  <trd lng="sk">zrada</trd>
 </drv>
 
 <drv mrk="perfid.0ulo">
@@ -193,15 +223,23 @@
     <trd>treitour</trd>,
     <trd>trubard<klr tip="ind"> (ak.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jidáš</trd>,
+    <trd>zrádce</trd>
+  </trdgrp>
   <trd lng="de">Verr&auml;ter</trd>
-  <trd lng="es">traidor</trd>
   <trd lng="en">traitor</trd>
+  <trd lng="es">traidor</trd>
   <trdgrp lng="fr">
     <trd>traitre<klr tip="ind"> (subst.)</klr></trd>,
     <trd>tra&icirc;tre<klr tip="ind"> (subst.)</klr></trd>
   </trdgrp>
   <trd lng="nl">verrader</trd>
   <trd lng="pl">zdrajca</trd>
+  <trdgrp lng="sk">
+    <trd>zapredanec</trd>,
+    <trd>zradca</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="perfid.el0i">
@@ -218,11 +256,19 @@
   </snc>
   <trd lng="be">&c_v;&c_y;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="br">diskulia&ntilde;</trd>
+  <trd lng="cs">vyzradit</trd>
   <trd lng="fr">laisser voir</trd>
+  <trd lng="sk">vyzradiť</trd>
 </drv>
 </art>
 <!--
 $Log: perfid.xml,v $
+Revision 1.26  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2013/02/18 06:10:16  revo
 Dmitri Gabinski: redakto: +trd be
 

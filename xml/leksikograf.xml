@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: leksikograf.xml,v 1.4 2009/09/16 16:30:45 revo Exp $">
+<art mrk="$Id: leksikograf.xml,v 1.6 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>leksikograf</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -23,6 +23,10 @@
       </fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>lexikograf</trd>,
+    <trd>slovníkář</trd>
+  </trdgrp>
   <trd lng="fr">lexicographe</trd>
   <trdgrp lng="hu">
     <trd>sz&oacute;t&aacute;r&iacute;r&oacute;</trd>,
@@ -36,11 +40,18 @@
     <trd>lexic&oacute;grafo</trd>,
     <trd>dicionarista</trd>
   </trdgrp>
+  <trd lng="sk">slovnikár</trd>
 </drv>
 </art>
 
 <!--
 $Log: leksikograf.xml,v $
+Revision 1.6  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2009/09/16 16:30:45  revo
 Paul Peeraerts: +nl
 

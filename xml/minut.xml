@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: minut.xml,v 1.21 2013/09/15 15:10:28 revo Exp $">
+<art mrk="$Id: minut.xml,v 1.24 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>minut</rad>/o
@@ -24,6 +24,7 @@
         <tld/>o estas sesdekona parto de horo.
       </ekz>
     </dif>
+    <trd lng="zh">分钟 [<ind>fēn zhōng</ind>]</trd>
   </snc>
   <snc mrk="minut.0o.angulo">
     <uzo tip="fak">MAT</uzo>
@@ -41,7 +42,10 @@
     <trd>munut</trd>,
     <trd>munutenn</trd>
   </trdgrp>
-  <trd lng="cs">minuta</trd>
+  <trdgrp lng="cs">
+    <trd>chvíle</trd>,
+    <trd>minuta</trd>
+  </trdgrp>
   <trd lng="de">Minute</trd>
   <trd lng="en">minute</trd>
   <trd lng="fr">minute<klr tip="ind"> (unit&eacute; de temps, 
@@ -52,7 +56,11 @@ d'angle)</klr></trd>
   <trd lng="pl">minuta</trd>
   <trd lng="ro">minut</trd>
   <trd lng="ru">&c_m;&c_i;&c_n;&c_u;&c_t;&c_a;</trd>
-  <trd lng="sk">min&uacute;ta</trd>
+  <trdgrp lng="sk">
+    <trd>chvíľa</trd>,
+    <trd>min&uacute;ta</trd>
+  </trdgrp>
+  <trd lng="zh">分 [<ind>fēn</ind>]</trd>
 </drv>
 
 <drv mrk="minut.0a">
@@ -84,11 +92,25 @@ d'angle)</klr></trd>
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>během krátké chvíle</trd>,
+    <trd>v minutě</trd>
+  </trdgrp>
   <trd lng="pl">w ci&aogonek;gu <ind>minuty</ind></trd>
+  <trd lng="sk">v minúte</trd>
 </drv>
 </art>
 <!--
 $Log: minut.xml,v $
+Revision 1.24  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/06/26 22:10:19  revo
+Darcy Shen: +trd zh
+
 Revision 1.21  2013/09/15 15:10:28  revo
 Wolfram Diestel: ref al lst dauxroj anst. mezurunuoj
 
@@ -108,8 +130,5 @@ Revision 1.16  2006/01/23 17:31:06  revo
 Jeromo Vasxe: + fak kal
 
 Revision 1.15 2005/05/25 16:31:08 revo
-Alan ar Gall: +trd br
-
-Revision 1.14 2003/03/05 17:35:19 revo
 -->
 </vortaro>

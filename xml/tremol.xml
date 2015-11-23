@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tremol.xml,v 1.15 2012/07/21 09:10:19 revo Exp $">
+<art mrk="$Id: tremol.xml,v 1.17 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tremol</rad>/o
@@ -24,6 +24,7 @@
   </snc>
   <trd lng="be">&c_a;&c_s;&c_ib;&c_n;&c_a;</trd>
   <trd lng="ca">tr&egrave;mol</trd>
+  <trd lng="cs">osika obecná</trd>
   <trdgrp lng="de">
     <trd>Espe</trd>,
     <trd>Zitterpappel</trd>
@@ -39,10 +40,17 @@
   <trd lng="pl">osika</trd>
   <trd lng="pt">choupo-tremedor</trd>
   <trd lng="ru">&c_o;&c_s;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sk">osika</trd>
 </drv>
 </art>
 <!--
 $Log: tremol.xml,v $
+Revision 1.17  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2012/07/21 09:10:19  revo
 Marc Rausell: + trd ca
 

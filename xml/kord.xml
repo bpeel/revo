@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kord.xml,v 1.19 2014/09/18 08:10:28 revo Exp $">
+<art mrk="$Id: kord.xml,v 1.21 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kord</rad>/o
@@ -51,8 +51,16 @@
     <trd lng="ru">&c_s;&c_t;&c_r;&c_u;&c_n;&c_a;</trd>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_r;&c_u;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>chorda</trd>,
+    <trd>struna hřbetní</trd>
+  </trdgrp>
   <trd lng="es">cuerda <klr>(de instrumento musical)</klr></trd>
   <trd lng="nl">snaar</trd>
+  <trdgrp lng="sk">
+    <trd>chorda</trd>,
+    <trd>povrazec</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kord.kunvibra0o">
@@ -76,6 +84,12 @@
 </art>
 <!--
 $Log: kord.xml,v $
+Revision 1.21  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/09/18 08:10:28  revo
 Sebastian Cyprych: +trd pl
 

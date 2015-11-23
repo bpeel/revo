@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mikros.xml,v 1.22 2014/04/06 18:10:22 revo Exp $">
+<art mrk="$Id: mikros.xml,v 1.26 2015/09/30 05:10:21 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>mikroskop</rad>/o <fnt><bib>PV</bib></fnt> 
@@ -27,6 +27,10 @@
   </snc>
   <trd lng="be">&c_m;&c_ib;&c_k;&c_r;&c_a;&c_s;&c_k;&c_o;&c_p;</trd>
   <trd lng="ca">microscopi</trd>
+  <trdgrp lng="cs">
+    <trd>drobnohled</trd>,
+    <trd>mikroskop</trd>
+  </trdgrp>
   <trd lng="de">Mikroskop</trd>
   <trd lng="en">microscope</trd>
   <trd lng="es">microscopio</trd>
@@ -37,8 +41,13 @@
   <trd lng="fr">microscope</trd>
   <trd lng="hu">mikroszk&oacute;p</trd>
   <trd lng="nl">microscoop</trd>
+  <trd lng="pl">mikroskop</trd>
   <trd lng="pt">microsc&oacute;pio</trd>
   <trd lng="ru">&c_m;&c_i;&c_k;&c_r;&c_o;&c_s;&c_k;&c_o;&c_p;</trd>
+  <trdgrp lng="sk">
+    <trd>drobnoh&lcaron;ad</trd>,
+    <trd>mikroskop</trd>
+  </trdgrp>
   <trd lng="sv">mikroskop</trd>
 </drv>
 
@@ -60,9 +69,14 @@
       </ekz>
     </dif>
     <trd lng="fa">&a_dh;&a_r;&a_h;&zwnj;&a_b;&f_y;&a_n;&f_y;</trd>
+    <trd lng="pl">mikroskopijny</trd>
   </snc>
   <trd lng="be">&c_m;&c_ib;&c_k;&c_r;&c_a;&c_s;&c_k;&c_a;&c_p;&c_ib;&c_ch;&c_n;&c_y;</trd>
   <trd lng="ca">microsc&ograve;pic</trd>
+  <trdgrp lng="cs">
+    <trd>drobnohledn&yacute;</trd>,
+    <trd>mikroskopick&yacute;</trd>
+  </trdgrp>
   <trd lng="de">mikroskopisch</trd>
   <trd lng="en">microscopic</trd>
   <trd lng="es">microsc&oacute;pico</trd>
@@ -73,6 +87,7 @@
   <trd lng="hu">mikroszkopikus</trd>
   <trd lng="nl">microscopisch</trd>
   <trd lng="ru">&c_m;&c_i;&c_k;&c_r;&c_o;&c_s;&c_k;&c_o;&c_p;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">mikroskopick&yacute;</trd>
   <trd lng="sv">mikroskopisk</trd>
 </drv>
 
@@ -89,11 +104,20 @@
     </dif>
   </snc>
   <trd lng="ca">el <ind>Microscopi</ind></trd>
+  <trdgrp lng="cs">
+    <trd>drobnohled</trd>,
+    <trd>mikroskop</trd>
+  </trdgrp>
   <trd lng="de">Mikroskop</trd>
   <trd lng="en">Microscopium</trd>
   <trd lng="es">Microsc&oacute;pio</trd>
   <trd lng="fa">&a_m;&f_y;&f_k;&a_r;&a_w;&a_s;&f_k;&f_p;<klr tip="amb"> (&a_S;&a_w;&a_r;&a_t;
   &a_f;&a_l;&f_k;&f_y;)</klr></trd>
+  <trd lng="pl">Mikroskop</trd>
+  <trdgrp lng="sk">
+    <trd>drobnoh&lcaron;ad</trd>,
+    <trd>mikroskop</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mikros.0ado">
@@ -117,8 +141,10 @@
       <ref cel="mikroskopi.0o.FOT">mikroskopio</ref>
     </refgrp>
   </snc>
+  <trd lng="en">microscopy</trd>
   <trd lng="ca">microsc&ograve;pia</trd>
   <trd lng="fr">microscopie</trd>
+  <trd lng="pl">mikroskopia</trd>
 </drv>
 
 <drv mrk="mikros.elektron0o">
@@ -141,8 +167,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">electron microscope</trd>
   <trd lng="ca"><ind>microscopi</ind> electr&ograve;nic</trd>
+  <trd lng="cs">elektronov&yacute; mikroskop</trd>
   <trd lng="fr">microscope &eacute;lectronique</trd>
+  <trd lng="pl">mikroskop elektronowy</trd>
+  <trd lng="sk">elektr&oacute;nov&yacute; mikroskop</trd>
 </drv>
 
 <drv mrk="mikros.lum0o">
@@ -177,12 +207,31 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="en">
+    <trd>light microscope</trd>,
+    <trd>optical microscope</trd>
+  </trdgrp>
   <trd lng="ca"><ind>microscopi</ind> &ograve;ptic</trd>
+  <trd lng="cs">mikroskop</trd>
   <trd lng="fr">microscope optique</trd>
+  <trd lng="pl">mikroskop <klr tip="amb">optyczny</klr></trd>
+  <trd lng="sk">mikroskop</trd>
 </drv>
 </art>
 <!--
 $Log: mikros.xml,v $
+Revision 1.26  2015/09/30 05:10:21  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.25  2015/09/17 15:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.24  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/04/06 18:10:22  revo
 Wolfram Diestel: kor. sud-hemisfera stelfiguro
 
@@ -193,17 +242,5 @@ Revision 1.20  2012/07/31 08:10:13  revo
 Marc Rausell: + trd ca
 
 Revision 1.19  2011/01/13 18:10:10  revo
-Jeromo Vasxe: + ~ado elektron/lum~o
-
-Revision 1.18  2010/04/24 17:06:28  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.17  2006/08/02 16:32:47  revo
-Tulio Flores: +tr pt
-
-Revision 1.16  2006/02/19 19:55:02  revo
-H. Neal Parker: +drv; +2trd es
-
-Revision 1.15  2004/02/16 20:49:19  revo
 -->
 </vortaro>

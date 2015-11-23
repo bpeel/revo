@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tomb.xml,v 1.16 2014/10/30 21:10:20 revo Exp $">
+<art mrk="$Id: tomb.xml,v 1.18 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tomb</rad>/o <fnt><bib>PV</bib></fnt>
@@ -28,16 +28,18 @@
     <trd>tomba</trd>,
     <trd>sepulcre</trd>
   </trdgrp>
+  <trd lng="cs">hrobové místo</trd>
   <trd lng="de">Grab</trd>
   <trdgrp lng="en">
     <trd>grave</trd>,
     <trd>tomb</trd>,
     <trd>vault</trd>
-  </trdgrp><trdgrp lng="fr">
+  </trdgrp>
+  <trdgrp lng="fr">
     <trd>tombe</trd>,
     <trd>tombeau</trd>
   </trdgrp>
-  <trd lng="hu">s&iacute;r</trd>  
+  <trd lng="hu">s&iacute;r</trd>
   <trd lng="nl">graf</trd>
   <trdgrp lng="pt">
     <trd>t&uacute;mulo</trd>,
@@ -46,6 +48,7 @@
     <trd>sepultura</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_o;&c_g;&c_i;&c_l;&c_a;</trd>
+  <trd lng="sk">hrobové miesto</trd>
 </drv>
 
 <drv mrk="tomb.0ejo">
@@ -72,6 +75,7 @@
     <trd>fossar</trd>,
     <trd>cementiri</trd>
   </trdgrp>
+  <trd lng="cs">hřbitov</trd>
   <trd lng="de">Friedhof</trd>
   <trdgrp lng="en">
     <trd>graveyard</trd>,
@@ -79,10 +83,11 @@
     <trd>necropolis</trd>
   </trdgrp>
   <trd lng="fr">cimeti&egrave;re</trd>
-  <trd lng="hu">temet&odblac;</trd>  
+  <trd lng="hu">temet&odblac;</trd>
   <trd lng="nl">begraafplaats</trd>
   <trd lng="pt">cemit&eacute;rio</trd>
   <trd lng="ru">&c_k;&c_l;&c_a;&c_d;&c_b;&c_i;&c_shch;&c_je;</trd>
+  <trd lng="sk">cintorín</trd>
 </drv>
 
 <drv mrk="tomb.en0igi">
@@ -105,6 +110,10 @@
     <trd>sepultar</trd>,
     <trd>enterrar</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pohřbít</trd>,
+    <trd>uložit do hrobu</trd>
+  </trdgrp>
   <trd lng="de">beerdigen</trd>
   <trdgrp lng="en">
     <trd>entomb</trd>,
@@ -115,7 +124,7 @@
     <trd>ensevelir<klr> (mettre en tombe)</klr></trd>,
     <trd>enterrer<klr> (mettre en tombe)</klr></trd>
   </trdgrp>
-  <trd lng="hu">eltemet</trd>  
+  <trd lng="hu">eltemet</trd>
   <trd lng="nl">begraven</trd>
   <trdgrp lng="pt">
     <trd>enterrar</trd>,
@@ -125,6 +134,7 @@
     <trd>&c_h;&c_o;&c_r;&c_o;&c_n;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_h;&c_o;&c_r;&c_o;&c_n;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">pochovať</trd>
 </drv>
 
 <drv mrk="tomb.en0igo">
@@ -144,11 +154,22 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">uložení do hrobu</trd>
   <trd lng="fr">mise au <ind>tombeau</ind></trd>
+  <trdgrp lng="sk">
+    <trd>pochovanie</trd>,
+    <trd>pohreb</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: tomb.xml,v $
+Revision 1.18  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2014/10/30 21:10:20  revo
 Jeromo Vasxe: + mrk, + en~igo
 

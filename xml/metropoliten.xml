@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: metropoliten.xml,v 1.11 2014/10/28 04:11:06 revo Exp $">
+<art mrk="$Id: metropoliten.xml,v 1.13 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>metropoliten</rad>/o <fnt><bib>Metrop</bib></fnt>
 </kap>
@@ -34,6 +34,10 @@
     <trd>metropolit&agrave;</trd>,
     <trd>metro</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>metro</trd>,
+    <trd>podzemní dráha</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>U-Bahn</trd>,
     <trd>Metro</trd>
@@ -54,10 +58,20 @@
   </trdgrp>
   <trd
   lng="ru">&c_m;&c_je;&c_t;&c_r;&c_o;&c_p;&c_o;&c_l;&c_i;&c_t;&c_je;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>metro</trd>,
+    <trd>podzemná dráha</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: metropoliten.xml,v $
+Revision 1.13  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2014/10/28 04:11:06  revo
 Eko Nur Syah Hidayat: +trd id
 

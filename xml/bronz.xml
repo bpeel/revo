@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bronz.xml,v 1.22 2013/09/14 09:10:52 revo Exp $">
+<art mrk="$Id: bronz.xml,v 1.24 2015/10/06 11:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bronz</rad>/o <fnt><bib>PV</bib></fnt>
@@ -24,6 +24,10 @@
   <trd lng="be">&c_b;&c_r;&c_o;&c_n;&c_z;&c_a;</trd>
   <trd lng="bg">&c_b;&c_r;&c_o;&c_n;&c_z;</trd>
   <trd lng="br">arem</trd>
+  <trdgrp lng="cs">
+    <trd>bronz</trd>,
+    <trd>sp&ecaron;&zcaron; <klr>(zast.)</klr></trd>
+  </trdgrp>
   <trd lng="de">Bronze</trd>
   <trd lng="en">bronze</trd>
   <trd lng="es">bronce</trd>
@@ -37,6 +41,7 @@
   </trdgrp>
   <trd lng="hu">bronz</trd>
   <trd lng="pl">br&aogonek;z</trd>
+  <trd lng="pt">bronze</trd>
   <trd lng="ru">&c_b;&c_r;&c_o;&c_n;&c_z;&c_a;</trd>
   <trd lng="sk">bronz</trd>
   <trd lng="sv">brons</trd>
@@ -89,6 +94,10 @@
   </snc>
   <trd lng="be">&c_b;&c_r;&c_o;&c_n;&c_z;&c_a;&c_v;&c_y;</trd>
   <trd lng="br">arem</trd>
+  <trdgrp lng="cs">
+    <trd>bronzov&yacute;</trd>,
+    <trd>sp&ecaron;&zcaron;ov&yacute; <klr>(zast.)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
   <trd>en <ind>bronze</ind></trd>,
   <trd>de <ind>bronze</ind></trd>
@@ -163,6 +172,12 @@
 <!--
 
 $Log: bronz.xml,v $
+Revision 1.24  2015/10/06 11:10:22  revo
+Evandro Avellar: +trd pt
+
+Revision 1.23  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.22  2013/09/14 09:10:52  revo
 Wolfram Diestel: ref al lst koloroj per ekz
 
@@ -179,12 +194,6 @@ Revision 1.18  2009/08/18 19:18:50  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.17  2006/06/07 16:31:50  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.16  2005/12/26 19:19:56  revo
-H. Neal Parker: +trd en,es
-
-Revision 1.15  2005/03/06 17:32:58  revo
 -->
 
 </vortaro>

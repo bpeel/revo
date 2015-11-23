@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: metafo.xml,v 1.17 2011/12/10 20:10:13 revo Exp $">
+<art mrk="$Id: metafo.xml,v 1.19 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>metafor</rad>/o
@@ -20,6 +20,7 @@
   </snc>
   <trd lng="be">&c_m;&c_e;&c_t;&c_a;&c_f;&c_a;&c_r;&c_a;</trd>
   <trd lng="ca">met&agrave;fora</trd>
+  <trd lng="cs">metafora</trd>
   <trd lng="de">Metapher</trd>
   <trd lng="en">metaphor</trd>
   <trd lng="fa">&a_A;&a_s;&a_t;&a_ayn;&a_A;&a_r;&a_h;</trd>
@@ -31,10 +32,17 @@
   <trd lng="nl">beeldspraak</trd>
   <trd lng="pt">met&aacute;fora</trd>
   <trd lng="ru">&c_m;&c_je;&c_t;&c_a;&c_f;&c_o;&c_r;&c_a;</trd>
+  <trd lng="sk">metafora</trd>
 </drv>
 </art>
 <!--
 $Log: metafo.xml,v $
+Revision 1.19  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2011/12/10 20:10:13  revo
 Marc Rausell: +trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: despot.xml,v 1.19 2014/08/16 20:10:10 revo Exp $">
+<art mrk="$Id: despot.xml,v 1.21 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>despot</rad>/o <fnt><bib>PV</bib></fnt>
@@ -43,6 +43,13 @@
       <trd>despota</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>despota</trd>,
+    <trd>krutovládce</trd>,
+    <trd>samovládce</trd>,
+    <trd>tyran</trd>
+  </trdgrp>
+  <trd lng="sk">samovládca</trd>
 </drv>
 
 <drv mrk="despot.0ismo">
@@ -108,11 +115,22 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>despotizmus</trd>,
+    <trd>samovláda</trd>
+  </trdgrp>
   <trd lng="fr">despotisme</trd>
+  <trd lng="sk">krutovláda</trd>
 </drv>
 </art>
 <!--
 $Log: despot.xml,v $
+Revision 1.21  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/08/16 20:10:10  revo
 Jeromo Vasxe: ~ismo + snc fig
 

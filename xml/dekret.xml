@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dekret.xml,v 1.16 2012/09/04 09:10:22 revo Exp $">
+<art mrk="$Id: dekret.xml,v 1.18 2015/07/04 08:37:32 revo Exp $">
 <kap>
 <ofc>1</ofc>
 <rad>dekret</rad>/o
@@ -31,6 +31,14 @@
     <trd>ordre</trd>,
     <trd>edicte</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dekret</trd>,
+    <trd>nařízení</trd>,
+    <trd>právní nařízení</trd>,
+    <trd>vyhláška</trd>,
+    <trd>vynos</trd>,
+    <trd>výměr</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Erlass</trd>,
     <trd>Verordnung</trd>,
@@ -58,6 +66,10 @@
     <trd>&c_d;&c_je;&c_k;&c_r;&c_je;&c_t;</trd>,
     <trd>&c_u;&c_k;&c_a;&c_z;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>listina</trd>,
+    <trd>nariadenie</trd>
+  </trdgrp>
 </drv>
 <drv mrk="dekret.0i">
   <kap><tld/>i</kap>
@@ -71,6 +83,13 @@
     <trd>decretar</trd>,
     <trd>preceptuar</trd>,
     <trd>ordenar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>přidělit</trd>,
+    <trd>ustanovit</trd>,
+    <trd>vydat dekret</trd>,
+    <trd>vydat úřední rozhodnutí</trd>,
+    <trd>vyměřit</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>erlassen</trd>,
@@ -90,10 +109,17 @@
   <trd lng="ru">
   &c_d;&c_je;&c_k;&c_r;&c_je;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;
   </trd>
+  <trd lng="sk">vydať dekrét</trd>
 </drv>
 </art>
 <!--
 $Log: dekret.xml,v $
+Revision 1.18  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2012/09/04 09:10:22  revo
 Marc Rausell: + trd ca
 

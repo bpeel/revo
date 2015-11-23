@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eksper1.xml,v 1.14 2012/09/05 08:10:37 revo Exp $">
+<art mrk="$Id: eksper1.xml,v 1.16 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <rad>ekspert</rad>/o
 </kap>
@@ -43,6 +43,11 @@
     <trd>t&egrave;cnic</trd>,
     <trd>especialista</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>odborník</trd>,
+    <trd>specialista</trd>,
+    <trd>znalec</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Fachmann</trd>,
     <trd>Experte</trd>,
@@ -69,10 +74,20 @@
     <trd>&c_z;&c_n;&c_a;&c_t;&c_o;&c_k;</trd>,
     <trd>&c_s;&c_p;&c_je;&c_c;&c_i;&c_a;&c_l;&c_i;&c_s;&c_t;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odborník</trd>,
+    <trd>znalec</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: eksper1.xml,v $
+Revision 1.16  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2012/09/05 08:10:37  revo
 Marc Rausell: + trd ca
 

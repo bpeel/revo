@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arleke.xml,v 1.17 2009/02/26 17:31:24 revo Exp $">
+<art mrk="$Id: arleke.xml,v 1.21 2015/09/17 04:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>arleken</rad>/o <fnt><bib>PV</bib></fnt>
@@ -34,6 +34,7 @@
       <trd>arlequin</trd>,
       <trd>boh&oacute;c</trd>
     </trdgrp>
+    <trd lng="pt">arlequim</trd>
     <trd lng="ru">&c_a;&c_r;&c_l;&c_je;&c_k;&c_i;&c_n;</trd>
     <trd lng="sk">harlek&yacute;n</trd>
     <trd lng="it">Arlecchino</trd>
@@ -45,10 +46,33 @@
       <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 5a</lok></fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>harlek&yacute;n</trd>,
+    <trd>ka&scaron;par</trd>,
+    <trd>klaun</trd>,
+    <trd>komediant</trd>,
+    <trd>&scaron;a&scaron;ek</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>&scaron;a&scaron;o</trd>,
+    <trd>&scaron;a&scaron;o, harlek&yacute;n</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: arleke.xml,v $
+Revision 1.21  2015/09/17 04:10:13  revo
+Evandro Avellar: +trd pt
+
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2009/02/26 17:31:24  revo
 Antonio Codazzi: +trd it
 
@@ -59,17 +83,5 @@ Revision 1.15  2005/06/20 16:31:10  revo
 Jeromo Vasxe: + snc bufono
 
 Revision 1.14 2004/07/28 16:31:56 revo
-Viliam Bur: +trd sk
-
-Revision 1.13 2004/03/22 17:30:59 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12 2003/03/14 17:33:20 revo
-Ulrich Fellmann: + 1 trd=de
-
-Revision 1.11 2002/10/29 18:01:28 revo
-Christopher Zervic: + ang
-
-Revision 1.10 2002/09/25 16:32:13 revo
 -->
 </vortaro>

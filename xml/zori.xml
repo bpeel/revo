@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: zori.xml,v 1.8 2012/07/14 19:10:21 revo Exp $">
+<art mrk="$Id: zori.xml,v 1.10 2015/07/04 08:37:46 revo Exp $">
 <kap>
   <rad>zori</rad>/o <fnt><bib>EncJap</bib></fnt>
 </kap>
@@ -18,6 +18,7 @@
     </dif>
   </snc>
   <trd lng="ca">xancleta</trd>
+  <trd lng="cs">japonský sandál</trd>
   <trdgrp lng="de">
     <trd>Zehensandale</trd>,
     <trd>Dianette</trd>
@@ -30,17 +31,24 @@
     <trd>tong</trd>
   </trdgrp>
   <trd lng="hu">vietnami <ind>papucs</ind></trd>
-  <trd lng="ru">&c_v;&c_mol;&c_je;&c_t;&c_n;&c_a;&c_m;&c_k;&c_a;
-<klr tip="amb"> (&c_o;&c_b;&c_u;&c_v;&c_mol;)</klr></trd>
-   <trdgrp lng="it">
+  <trdgrp lng="it">
     <trd>infradito</trd>,
     <trd>zori<klr> (se alla giapponese)</klr></trd>
   </trdgrp>
+  <trd lng="ru">&c_v;&c_mol;&c_je;&c_t;&c_n;&c_a;&c_m;&c_k;&c_a;
+<klr tip="amb"> (&c_o;&c_b;&c_u;&c_v;&c_mol;)</klr></trd>
+  <trd lng="sk">japonský sandál</trd>
 </drv>
 </art>
 
 <!--
 $Log: zori.xml,v $
+Revision 1.10  2015/07/04 08:37:46  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/28 10:33:41  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2012/07/14 19:10:21  revo
 Marc Rausell: + trd ca
 

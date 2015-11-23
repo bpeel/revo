@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vert.xml,v 1.19 2012/08/12 10:10:23 revo Exp $">
+<art mrk="$Id: vert.xml,v 1.21 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vert</rad>/o <fnt><bib>PV</bib></fnt>
@@ -84,6 +84,10 @@
     <trd>&c_c;&c_je;&c_m;&c_ja;</trd>,
     <trd>&c_m;&c_a;&c_k;&c_a;&c_w;&c_k;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>témě</trd>,
+    <trd>vrchol</trd>
+  </trdgrp>
   <trd lng="de">Scheitel</trd>
   <trdgrp lng="fr">
     <trd>point culminant</trd>,
@@ -99,10 +103,20 @@
     <trd>&c_t;&c_je;&c_m;&c_ja;</trd>,
     <trd>&c_m;&c_a;&c_k;&c_u;&c_sh;&c_k;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>temeno</trd>,
+    <trd>vrchol</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: vert.xml,v $
+Revision 1.21  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2012/08/12 10:10:23  revo
 Marc Rausell: + trd ca
 

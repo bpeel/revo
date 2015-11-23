@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nuk.xml,v 1.26 2014/08/10 17:10:18 revo Exp $">
+<art mrk="$Id: nuk.xml,v 1.30 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nuk</rad>/o
@@ -22,12 +22,17 @@
         <klr>(obee submeti&gcirc;i al iu)</klr>.
       </ekz>
     </dif>
-  </snc>                       
+  </snc>
   <trd lng="be">&c_p;&c_a;&c_t;&c_y;&c_l;&c_ib;&c_c;&c_a;</trd>
   <trd lng="br">kilpenn</trd>
   <trdgrp lng="ca">
     <trd>nuca</trd>,
     <trd>clatell</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>týl</trd>,
+    <trd>vaz</trd>,
+    <trd>šíje</trd>
   </trdgrp>
   <trd lng="de">Nacken</trd>
   <trdgrp lng="en">
@@ -53,6 +58,12 @@
   <trd lng="pl">kark</trd>
   <trd lng="pt">nuca</trd>
   <trd lng="ru">&c_z;&c_a;&c_t;&c_y;&c_l;&c_o;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>tylo</trd>,
+    <trd>väz</trd>,
+    <trd>zátylok</trd>,
+    <trd>šija</trd>
+  </trdgrp>
   <trd lng="sv">nacke</trd>
 </drv>
 
@@ -70,7 +81,7 @@
         <fnt><bib>MT</bib> <lok>&Neh; 9:16</lok></fnt>.
       </ekz>
     </dif>
-  </snc>                     
+  </snc>
   <trd lng="be">&c_u;&c_p;&c_a;&c_r;&c_t;&c_y;</trd>
   <trd lng="br">dibleg</trd>
   <trdgrp lng="ca">
@@ -78,6 +89,7 @@
     <trd>recalcitrant</trd>,
     <trd>cabut</trd>
   </trdgrp>
+  <trd lng="cs">zatvrzelý</trd>
   <trd lng="de">hartn&auml;ckig</trd>
   <trdgrp lng="en">
     <trd>obstinate</trd>,
@@ -118,11 +130,27 @@
     <trd>&c_n;&c_je;&c_s;&c_g;&c_i;&c_b;&c_a;&c_je;&c_m;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_p;&c_r;&c_i;&c_m;&c_i;&c_r;&c_i;&c_m;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>tvrdohlavec</trd>,
+    <trd>zatvrdilec</trd>
+  </trdgrp>
   <trd lng="sv">styvnackad</trd>
 </drv>
 </art>
 <!--
 $Log: nuk.xml,v $
+Revision 1.30  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2014/12/13 17:10:14  revo
+Alain Gerard: redirekto al aparta vorto
+
+Revision 1.27  2014/12/12 13:10:18  revo
+Alain Gerard: + nukartrozo
+
 Revision 1.26  2014/08/10 17:10:18  revo
 Carlos Garcia: +trd es malmol-a
 
@@ -139,11 +167,5 @@ Revision 1.22  2010/12/02 17:31:13  revo
 Antonio Codazzi: +trd it
 
 Revision 1.21  2009/08/24 16:31:55  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.20  2009/06/27 16:30:39  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.19  2006/10/03 16:30:40  revo
 -->
 </vortaro>

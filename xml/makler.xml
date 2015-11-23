@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: makler.xml,v 1.19 2014/02/18 02:10:15 revo Exp $">
+<art mrk="$Id: makler.xml,v 1.21 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>makler</rad>/i
@@ -23,6 +23,10 @@
   <trd lng="be">&c_p;&c_a;&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_u;
   &c_k;&c_a;&c_m;&c_e;&c_r;&c_c;&c_y;&c_ib;)</klr></trd>
   <trd lng="ca">mitjan&ccedil;ar</trd>
+  <trdgrp lng="cs">
+    <trd>prostředkovat</trd>,
+    <trd>zprostředkovat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>makeln</trd>,
     <trd>als <ind>Makler</ind> t&auml;tig sein</trd>,
@@ -44,6 +48,7 @@
     <trd>promover a <ind>corretagem</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_n;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">sprostredkovať</trd>
 </drv>
 
 <drv mrk="makler.0ajxo">
@@ -110,6 +115,12 @@
   </trdgrp>
   <trd lng="bg">&c_m;&c_a;&c_k;&c_l;&c_je;&c_r;</trd>
   <trd lng="ca">mitjancer</trd>
+  <trdgrp lng="cs">
+    <trd>dohazovač</trd>,
+    <trd>makléř</trd>,
+    <trd>makléř</trd>,
+    <trd>zprostředkovatel</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Makler</trd>,
     <trd>Vermittler</trd>
@@ -135,6 +146,10 @@
     <trd>&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_n;&c_i;&c_k;</trd>,
     <trd>&c_m;&c_a;&c_k;&c_l;&c_je;&c_r;</trd>,
     <trd>&c_b;&c_r;&c_o;&c_k;&c_je;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>maklér</trd>,
+    <trd>sprostredkovateľ</trd>
   </trdgrp>
 </drv>
 
@@ -207,6 +222,7 @@
     <trd>&c_v;&c_e;&c_k;&c_s;&c_a;&c_l;&c_mol;&c_n;&c_y; <ind>&c_m;&c_a;&c_k;&c_l;&c_je;&c_r;</ind></trd>
   </trdgrp>
   <trd lng="ca">agent de canvi</trd>
+  <trd lng="cs">směnečný makléř</trd>
   <trdgrp lng="de">
     <trd>Wechselmakler</trd>
   </trdgrp>
@@ -224,11 +240,18 @@
     <trd>&c_v;&c_je;&c_k;&c_s;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; <ind>&c_b;&c_r;&c_o;&c_k;&c_je;&c_r;</ind></trd>,
     <trd>&c_v;&c_je;&c_k;&c_s;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; <ind>&c_m;&c_a;&c_k;&c_l;&c_je;&c_r;</ind></trd>
   </trdgrp>
+  <trd lng="sk">zmenkový maklér</trd>
 </drv>
 
 </art>
 <!--
 $Log: makler.xml,v $
+Revision 1.21  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/02/18 02:10:15  revo
 Carlos Garcia: trd+ es -ajxo -isto bors-isto kamb-isto
 

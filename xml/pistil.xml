@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pistil.xml,v 1.13 2009/10/15 16:31:06 revo Exp $">
+<art mrk="$Id: pistil.xml,v 1.15 2015/07/04 08:37:41 revo Exp $">
 <kap>
 <ofc>2</ofc><rad>pistil</rad>/o
 </kap>
@@ -34,10 +34,24 @@
   <trd lng="hu">term&odblac;</trd>
   <trd lng="pt">pistilo</trd>
   <trd lng="ru">&c_p;&c_je;&c_s;&c_t;&c_i;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>mliaždidlo</trd>,
+    <trd>šrotovník</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>samičí okvětí</trd>,
+    <trd>samičí orgány květu</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: pistil.xml,v $
+Revision 1.15  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2009/10/15 16:31:06  revo
 Russ Williams: +2OA
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: recita.xml,v 1.14 2013/09/02 15:10:35 revo Exp $">
+<art mrk="$Id: recita.xml,v 1.16 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>recitativ</rad>/o
@@ -18,6 +18,10 @@
   </snc>
   <trd lng="be">&c_r;&c_e;&c_ch;&c_y;&c_t;&c_a;&c_t;&c_y;&c_w;</trd>
   <trd lng="bg">&c_r;&c_je;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_i;&c_v;</trd>
+  <trdgrp lng="cs">
+    <trd>mluvený zpěv</trd>,
+    <trd>recitativ</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Rezitativ</trd>,
     <trd>Sprechgesang</trd>
@@ -30,10 +34,17 @@
   <trd lng="it">recitativo<klr> (mus.)</klr></trd>
   <trd lng="nl">recitatief</trd>
   <trd lng="ru">&c_r;&c_je;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_i;&c_v;</trd>
+  <trd lng="sk">recitatív</trd>
 </drv>
 </art>
 <!--
 $Log: recita.xml,v $
+Revision 1.16  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2013/09/02 15:10:35  revo
 Joop Eggen: +trd bg
 

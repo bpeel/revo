@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prun.xml,v 1.31 2014/09/13 09:10:13 revo Exp $">
+<art mrk="$Id: prun.xml,v 1.33 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>prun</rad>/o <fnt><bib>PV</bib></fnt>
@@ -23,7 +23,10 @@
   <klr>(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
   <trd lng="bg">&c_s;&c_l;&c_i;&c_v;&c_a;</trd>
   <trd lng="ca">pruna</trd>
-  <trd lng="cs">&scaron;vestka</trd>
+  <trdgrp lng="cs">
+    <trd>&scaron;vestka</trd>,
+    <trd>švestka <klr>(plod)</klr></trd>
+  </trdgrp>
   <trd lng="de">Pflaume</trd>
   <trdgrp lng="en">
     <trd>plum</trd>,
@@ -41,6 +44,7 @@
   <trd lng="pl">&sacute;liwka</trd>
   <trd lng="pt">ameixa</trd>
   <trd lng="ru">&c_s;&c_l;&c_i;&c_v;&c_a;</trd>
+  <trd lng="sk">slivka <klr>(ovocie)</klr></trd>
   <trd lng="tr">erik</trd>
 </drv>
 
@@ -61,14 +65,15 @@
 <klr>(&c_d;&c_r;&c_e;&c_v;&c_a;)</klr></trd>
   <trd lng="bg">&c_s;&c_l;&c_i;&c_v;&c_a; (&c_d;&c_malmol;&c_r;&c_v;&c_o;)</trd>
   <trd lng="ca">prunera</trd>
+  <trd lng="cs">švestka <klr>(strom)</klr></trd>
   <trd lng="de">Pflaumenbaum</trd>
-  <trdgrp lng="fa">
-    <trd>&a_d;&a_r;&a_kh;&a_t; <ind>&a_A_madda;&a_l;&a_w;&f_ch;&a_h;</ind></trd>,
-    <trd>&a_d;&a_r;&a_kh;&a_t; <ind>&f_g;&a_w;&a_j;&a_h;</ind></trd>
-  </trdgrp>
   <trdgrp lng="es">
     <trd>ciruelo</trd>,
     <trd>pruno</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_d;&a_r;&a_kh;&a_t; <ind>&a_A_madda;&a_l;&a_w;&f_ch;&a_h;</ind></trd>,
+    <trd>&a_d;&a_r;&a_kh;&a_t; <ind>&f_g;&a_w;&a_j;&a_h;</ind></trd>
   </trdgrp>
   <trd lng="fr">prunier</trd>
   <trd lng="hu">szilvafa</trd>
@@ -80,10 +85,17 @@
   <trd lng="pt">ameixeira</trd>
   <trd lng="ru">&c_s;&c_l;&c_i;&c_v;&c_a; <klr
 tip="amb">(&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;)</klr></trd>
+  <trd lng="sk">slivka <klr>(strom)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: prun.xml,v $
+Revision 1.33  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.31  2014/09/13 09:10:13  revo
 Agustin Garcia Lopez: +trd(es)
 

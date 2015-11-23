@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hierarki.xml,v 1.5 2012/07/22 16:10:20 revo Exp $">
+<art mrk="$Id: hierarki.xml,v 1.7 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>hierarki</rad>/o
@@ -43,11 +43,22 @@
   <trd lng="pl">hierarchia</trd>
   <trd lng="pt">hierarquia</trd>
   <trd lng="ru">&c_i;&c_je;&c_r;&c_a;&c_r;&c_h;&c_i;&c_ja;</trd>
+  <trd lng="sk">cirkevná hierarchia</trd>
+  <trdgrp lng="cs">
+    <trd>církevní hierarchie</trd>,
+    <trd>duchovenstvo</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: hierarki.xml,v $
+Revision 1.7  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2012/07/22 16:10:20  revo
 Marc Rausell: + trd ca
 

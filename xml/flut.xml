@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flut.xml,v 1.24 2014/10/26 02:10:27 revo Exp $">
+<art mrk="$Id: flut.xml,v 1.28 2015/07/04 08:37:34 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>flut</rad>/o</kap>
 
@@ -22,6 +22,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_f;&c_l;&c_je;&c_j;&c_t;&c_a;</trd>
+  <trd lng="cs">flétna</trd>
   <trd lng="de">Fl&ouml;te</trd>
   <trd lng="en">flute</trd>
   <trd lng="es">flauta</trd>
@@ -36,6 +37,7 @@
   <trd lng="pl">flet</trd>
   <trd lng="pt">flauta</trd>
   <trd lng="ru">&c_f;&c_l;&c_je;&c_j;&c_t;&c_a;</trd>
+  <trd lng="sk">flauta</trd>
 </drv>
 
 <drv mrk="flut.0i">
@@ -50,10 +52,13 @@
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_r;&c_a;&c_c;&c_mol; &c_n;&c_a; <ind>&c_f;&c_l;&c_je;&c_j;&c_c;&c_je;</ind></trd>
+  <trd lng="cs">hrát na flétnu</trd>
   <trdgrp lng="de">
     <trd>Fl&ouml;te spielen</trd>,
     <trd>fl&ouml;ten</trd>
   </trdgrp>
+  <trd lng="en">play (the) flute</trd>
+  <trd lng="es">tocar la flauta</trd>
   <trdgrp lng="fr">
     <trd>jouer de la <ind>fl&ucirc;te</ind></trd>,
     <trd>siffler<klr> (ex. en p. d'un oiseau)</klr></trd>
@@ -67,6 +72,7 @@
   </trdgrp>
   <trd lng="pl">gra&cacute; na <ind>flecie</ind></trd>
   <trd lng="ru">&c_i;&c_g;&c_r;&c_a;&c_t;&c_mol; &c_n;&c_a; <ind>&c_f;&c_l;&c_je;&c_j;&c_t;&c_je;</ind></trd>
+  <trd lng="sk">hrať na flaute</trd>
 </drv>
 
 <drv mrk="flut.bas0o">
@@ -83,6 +89,7 @@
   </snc>
   <trd lng="de">Bassfl&ouml;te</trd>
   <trd lng="en">bass flute</trd>
+  <trd lng="es">flauta bajo</trd>
   <trd lng="fr">fl&ucirc;te basse</trd>
   <trd lng="hu">basszusfurulya</trd>
   <trd lng="it">flauto basso</trd>
@@ -101,8 +108,10 @@
       en kiun oni blovas per ekstrema bu&scirc;peco.
     </dif>
   </snc>
+  <trd lng="cs">zobcová flétna</trd>
   <trd lng="de">Blockfl&ouml;te</trd>
   <trd lng="en">recorder</trd>
+  <trd lng="es">flauta de pico</trd>
   <trd lng="fr">fl&ucirc;te &agrave; bec</trd>
   <trdgrp lng="hu">
     <trd>cs&odblac;rfuvola</trd>,
@@ -120,6 +129,7 @@
     <trd>fujarka</trd>,
     <trd>flet prosty</trd>
   </trdgrp>
+  <trd lng="sk">zobcová flauta</trd>
 </drv>
 
 <drv mrk="flut.transversa0o">
@@ -135,12 +145,14 @@
       apud kiu estas blovtruo.
     </dif>
   </snc>
+  <trd lng="cs">příčná flétna</trd>
   <trdgrp lng="de">
     <trd>Querfl&ouml;te</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>transverse flute</trd>
   </trdgrp>
+  <trd lng="es">flauta travesera</trd>
   <trdgrp lng="fr">
     <trd>flute traversi&egrave;re</trd>
   </trdgrp>
@@ -149,10 +161,23 @@
   <trd lng="nl">dwarsfluit</trd>
   <trd lng="pl">flet poprzeczny</trd>
   <trd lng="ru">&c_p;&c_o;&c_p;&c_je;&c_r;&c_je;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_f;&c_l;&c_je;&c_j;&c_t;&c_a;</ind></trd>
+  <trd lng="sk">priečna flauta</trd>
 </drv>
 </art>
 <!--
 $Log: flut.xml,v $
+Revision 1.28  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2015/05/25 04:10:20  revo
+Erik Pedersen: aldonis anglan verbformon
+
+Revision 1.25  2015/04/02 10:10:14  revo
+Carlos Garcia: +trd es -i bas- bek- transversa
+
 Revision 1.24  2014/10/26 02:10:27  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -169,11 +194,5 @@ Revision 1.20  2009/04/02 16:30:26  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.19  2009/01/30 17:30:32  revo
-Russ Williams: +trd en
-
-Revision 1.18  2007/06/28 16:33:46  revo
-Wieland Pusch: +trd de
-
-Revision 1.17  2007/06/02 19:47:26  revo
 -->
 </vortaro>

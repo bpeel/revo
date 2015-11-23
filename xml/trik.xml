@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trik.xml,v 1.20 2011/12/30 19:10:12 revo Exp $">
+<art mrk="$Id: trik.xml,v 1.22 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>trik</rad>/i
@@ -20,15 +20,23 @@
   </snc>
   <trd lng="be">&c_v;&c_ja;&c_z;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_n;&c_a;&c_p;&c_r;.,
   &c_s;&c_mol;&c_p;&c_ib;&c_c;&c_a;&c_m;&c_ib;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>plést</trd>,
+    <trd>štrikovat</trd>
+  </trdgrp>
   <trd lng="de">stricken</trd>
   <trd lng="en">knit</trd>
-  <trd lng="es">tricotar</trd> 
+  <trd lng="es">tricotar</trd>
   <trd lng="fr">tricoter</trd>
-  <trd lng="hu">k&ouml;t <klr tip="ind">(t&udblac;vel)</klr></trd>  
+  <trd lng="hu">k&ouml;t <klr tip="ind">(t&udblac;vel)</klr></trd>
   <trd lng="nl">breien</trd>
   <trd lng="pt">tricotar</trd>
   <trd lng="ru">&c_v;&c_ja;&c_z;&c_a;&c_t;&c_mol; <klr tip="amb">(&c_n;&c_a; &c_s;&c_p;&c_i;&c_c;&c_a;&c_h; &c_i;
   &c_t;.&c_p;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>pliesť</trd>,
+    <trd>štrikovať</trd>
+  </trdgrp>
   <trd lng="sv">sticka</trd>
 </drv>
 
@@ -46,11 +54,19 @@
     <trd>&c_p;&c_r;&c_u;&c_t;&c_o;&c_k; <klr tip="amb">(&c_d;&c_l;&c_ja;
     &c_v;&c_ja;&c_z;&c_a;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jehlice na pletení</trd>,
+    <trd>pletací drát</trd>
+  </trdgrp>
   <trd lng="de">Stricknadel</trd>
   <trd lng="fr">aiguille &agrave; tricoter</trd>
-  <trd lng="hu">k&ouml;t&odblac;t&udblac;</trd>  
+  <trd lng="hu">k&ouml;t&odblac;t&udblac;</trd>
   <trd lng="nl">breinaald</trd>
   <trd lng="ru">&c_v;&c_ja;&c_z;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_s;&c_p;&c_i;&c_c;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>ihlica</trd>,
+    <trd>pletacia ihla</trd>
+  </trdgrp>
   <trd lng="sv">sticka<klr> (redskap)</klr></trd>
 </drv>
 
@@ -102,6 +118,12 @@
 </art>
 <!--
 $Log: trik.xml,v $
+Revision 1.22  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2011/12/30 19:10:12  revo
 Carlos Garcia: +trd es -i
 

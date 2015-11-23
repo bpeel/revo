@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: afektiv.xml,v 1.4 2011/11/02 11:10:17 revo Exp $">
+<art mrk="$Id: afektiv.xml,v 1.6 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <rad>afektiv</rad>/a <fnt><bib>NeoGlo</bib></fnt>
 </kap>
@@ -16,6 +16,10 @@
       <fnt><bib>Aventuroj</bib>, <lok>&ccirc;apitro 13a, p. 40a</lok></fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>afektivní</trd>,
+    <trd>citový</trd>
+  </trdgrp>
   <trd lng="es">afectivo</trd>
   <trdgrp lng="fr">
     <trd>affectif</trd>,
@@ -25,10 +29,20 @@
     <trd>affettivo</trd>,
     <trd>emotivo</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>afektívny</trd>,
+    <trd>citový</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: afektiv.xml,v $
+Revision 1.6  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2011/11/02 11:10:17  revo
 Antonio Codazzi: +trd it
 

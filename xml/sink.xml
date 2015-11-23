@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sink.xml,v 1.11 2013/09/28 11:10:15 revo Exp $">
+<art mrk="$Id: sink.xml,v 1.13 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>sink</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -53,6 +53,12 @@
     <trd>&c_p;&c_o;&c_t;&c_malmol;&c_v;&c_a;&c_m;</trd>,
     <trd>&c_h;&c_l;&c_malmol;&c_t;&c_v;&c_a;&c_m;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>klesat</trd>,
+    <trd>nořit se</trd>,
+    <trd>padat</trd>,
+    <trd>ponořit se</trd>
+  </trdgrp>
   <trd lng="en">sink</trd>
   <trdgrp lng="fr">
     <trd>s'<ind>enfoncer</ind><klr> (sombrer)</klr></trd>,
@@ -70,10 +76,20 @@
     <trd>&c_t;&c_o;&c_n;&c_u;&c_t;&c_mol;</trd>,
     <trd>&c_i;&c_d;&c_t;&c_i; &c_k;&c_o; &c_d;&c_n;&c_u;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>klesať</trd>,
+    <trd>noriť sa</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: sink.xml,v $
+Revision 1.13  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2013/09/28 11:10:15  revo
 Joop Eggen: +trd bg
 

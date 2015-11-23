@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: efekt.xml,v 1.14 2013/08/21 16:10:16 revo Exp $">
+<art mrk="$Id: efekt.xml,v 1.16 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>efekt</rad>/o
@@ -40,6 +40,12 @@
     <trd>&c_je;&c_f;&c_je;&c_k;&c_t;</trd>,
     <trd>&c_v;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dojem</trd>,
+    <trd>efekt</trd>,
+    <trd>vliv</trd>,
+    <trd>účinek</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Effekt</trd>,
      <trd>Wirkung</trd>,
@@ -53,7 +59,7 @@
   <trdgrp lng="fr">
     <trd>effet<klr tip="ind"> (impression frappante)</klr></trd>,
     <trd>effet<klr tip="ind"> (de style)</klr></trd>,
-    <trd>impression<klr tip="ind"> (que fait qc)</klr></trd></trdgrp> 
+    <trd>impression<klr tip="ind"> (que fait qc)</klr></trd></trdgrp>
   <trdgrp lng="hu">
     <trd>hat&aacute;s</trd>,
     <trd>effektus</trd>
@@ -73,10 +79,20 @@
     <trd>&c_v;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pôsobenie</trd>,
+    <trd>účinok</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: efekt.xml,v $
+Revision 1.16  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2013/08/21 16:10:16  revo
 Joop Eggen: +trd bg
 

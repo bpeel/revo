@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sufok.xml,v 1.22 2013/04/03 11:10:17 revo Exp $">
+<art mrk="$Id: sufok.xml,v 1.24 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sufok</rad>/i <fnt><bib>PV</bib></fnt>
@@ -80,6 +80,17 @@
       <trd>elnyom</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dusit</trd>,
+    <trd>rdousit</trd>,
+    <trd>tlumit</trd>,
+    <trd>udusit</trd>,
+    <trd>utlačovat</trd>,
+    <trd>utlumit</trd>,
+    <trd>zadusit</trd>,
+    <trd>zaškrtit</trd>,
+    <trd>škrtit</trd>
+  </trdgrp>
   <trd lng="de">ersticken</trd>
   <trd lng="en">suffocate</trd>
   <trd lng="es">sofocar</trd>
@@ -93,6 +104,12 @@
     <trd>&c_d;&c_u;&c_sh;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_d;&c_u;&c_sh;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_d;&c_u;&c_sh;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dusiť</trd>,
+    <trd>utláčať</trd>,
+    <trd>zadusiť</trd>,
+    <trd>škrtiť</trd>
   </trdgrp>
 </drv>
 
@@ -113,6 +130,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dusivý</trd>,
+    <trd>dusný</trd>
+  </trdgrp>
   <trd lng="en">suffocating</trd>
   <trdgrp lng="fr">
     <trd>&eacute;touffant</trd>,
@@ -136,6 +157,10 @@
     <trd>&c_u;&c_d;&c_u;&c_sh;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>,
     <trd>&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dusivý</trd>,
+    <trd>dusný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sufok.0o">
@@ -146,11 +171,22 @@
       <ref tip="sin" cel="asfiks.0o.FIZL">asfiksio</ref>.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dušení</trd>,
+    <trd>sufokace</trd>,
+    <trd>udušení</trd>,
+    <trd>zadušení</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>asphyxie</trd>,
     <trd>suffocation</trd>
   </trdgrp>
   <trd lng="pl">duszno&sacute;&cacute;</trd>
+  <trdgrp lng="sk">
+    <trd>dusenie</trd>,
+    <trd>udusenie</trd>,
+    <trd>zadusenie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sufok.0igxi">
@@ -208,6 +244,12 @@
 </art>
 <!--
 $Log: sufok.xml,v $
+Revision 1.24  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2013/04/03 11:10:17  revo
 Sebastian Cyprych: +trd pl
 

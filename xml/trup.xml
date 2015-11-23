@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trup.xml,v 1.21 2013/04/27 05:10:08 revo Exp $">
+<art mrk="$Id: trup.xml,v 1.23 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>trup</rad>/o
@@ -128,14 +128,22 @@
     </subsnc>
   </snc>
   <trdgrp lng="cs">
-    <trd>mu&zcaron;stvo</trd>,
-    <trd>dru&zcaron;stvo</trd>
+    <trd>divadelní soubor</trd>,
+    <trd>divadelní společnost</trd>,
+    <trd>dru&zcaron;stvo</trd>,
+    <trd>mu&zcaron;stvo</trd>
   </trdgrp>
+  <trd lng="de">Truppe</trd>
   <trd lng="en">troop</trd>
   <trd lng="es">tropa</trd>
-  <trd lng="de">Truppe</trd>
   <trd lng="fr">troupe</trd>
   <trd lng="nl">troep</trd>
+  <trdgrp lng="sk">
+    <trd>jednotka</trd>,
+    <trd>mužstvo</trd>,
+    <trd>oddiel</trd>,
+    <trd>čata</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="trup.helpo0o">
@@ -174,6 +182,12 @@
 </art>
 <!--
 $Log: trup.xml,v $
+Revision 1.23  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2013/04/27 05:10:08  revo
 Eko Nur Syah Hidayat: +trd id
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gxu.xml,v 1.26 2013/12/20 02:10:19 revo Exp $">
+<art mrk="$Id: gxu.xml,v 1.28 2015/10/18 17:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&gcirc;u</rad>/i <fnt><bib>PV</bib></fnt>
@@ -25,10 +25,6 @@
       </ekz>
       <ekz>
         <tld/>i volupton<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        &scirc;iaj karesoj <tld/>igu vin en &ccirc;iu tempo
-        <fnt><bib>MT</bib>, <lok>&Sen; 5:19</lok></fnt>;
       </ekz>
       <ekz>
         estos al mi <tld/>e lin revidi<fnt>Z</fnt>;
@@ -74,9 +70,8 @@
   </snc>
   <trdgrp lng="be">
     <trd>&c_c;&c_je;&c_sh;&c_y;&c_c;&c_c;&c_a;</trd>,
-    <trd>&c_a;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol; 
-<ind>&c_a;&c_s;&c_a;&c_l;&c_o;&c_d;&c_u;</ind> <klr>(&c_z; 
-&c_ch;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+    <trd>&c_a;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol; <ind>&c_a;&c_s;&c_a;&c_l;&c_o;&c_d;&c_u;</ind>
+    <klr>(&c_z; &c_ch;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
   </trdgrp>
   <trdgrp lng="cs">
     <trd>po&zcaron;&iacute;vat</trd>,
@@ -162,6 +157,41 @@
   <trd lng="sv">njutning</trd>
 </drv>
 
+<drv mrk="gxu.0inda">
+  <kap><tld/>inda</kap>
+  <snc mrk="gxu.0inda.KOMUNE">
+    <dif>
+      De kiu oni ricevas atendeblan kaj grandan plezuron:
+      <ekz>
+        <tld/>indaj ekskursoj
+        <fnt>
+          <aut>M. Cohen</aut>,
+          <vrk><url
+          ref="http://bulteno.esperanto-usa.org/2014/3/40-mekaro.html">
+          Raporto de la Mez-Kanada Renkonti&gcirc;o</url></vrk>,
+          <lok>Usona Esperantisto, 2014:3</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">exquis</trd>
+</drv>
+
+<drv mrk="gxu.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="gxu.0igi.KOMUNE">
+    <dif>
+      Provizi <tld/>on:
+      <ekz>
+        &scirc;iaj karesoj <tld/>igu vin en &ccirc;iu tempo
+        <fnt><bib>MT</bib>, <lok>&Sen; 5:19</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">faire <ind>profiter</ind> de</trd>
+</drv>
+
 <drv mrk="gxu.0amo">
   <kap><tld/>amo</kap>
   <snc>
@@ -186,13 +216,39 @@
   <trd lng="fr">lascivit&eacute;<klr tip="ind"> (de qn)</klr></trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_l;&c_a;&c_s;&c_t;&c_o;&c_l;&c_ju;&c_b;&c_i;&c_je;</trd>,
-    <trd>&c_s;&c_l;&c_a;&c_d;&c_o;&c_s;&c_t;&c_r;&c_a;&c_s;&c_t;&c_i;&c_je;
-</trd>
+    <trd>&c_s;&c_l;&c_a;&c_d;&c_o;&c_s;&c_t;&c_r;&c_a;&c_s;&c_t;&c_i;&c_je;</trd>
   </trdgrp>
+</drv>
+
+<drv mrk="gxu.antaux0i">
+  <kap>anta&ubreve;<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="gxu.antaux0i.KOMUNE">
+    <dif>
+      <tld lit="&Gcirc;"/>i anticipe, plezure atendi:
+      <ekz>
+        ni amba&ubreve; anta&ubreve;<tld/>is studi kun Helena
+        <fnt>
+          <aut>M. Rockliff, C. Walker</aut>,
+          <vrk>NASK: sidu, parolu, kaj &gcirc;uu!</vrk>,
+          <lok><url
+          ref="http://bulteno.esperanto-usa.org/2015/3/ktp/ue-201503.pdf">
+          Usona Esperantisto, 2015:3</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">se <ind>r&eacute;jouir</ind> d'avance de</trd>
 </drv>
 </art>
 <!--
 $Log: gxu.xml,v $
+Revision 1.28  2015/10/18 17:10:15  revo
+Jeromo Vasxe: + antaux~i
+
+Revision 1.27  2015/08/14 19:10:14  revo
+Jeromo Vasxe: + ~inda/igi
+
 Revision 1.26  2013/12/20 02:10:19  revo
 Jerano Zachrisson: +trd sv
 
@@ -209,11 +265,5 @@ Revision 1.22  2005/05/20 16:35:40  revo
 Yury Finkel: +trd ru
 
 Revision 1.21  2005/04/09 18:41:28  revo
-Lluis Batlle i Rossell: +trd ca
-
-Revision 1.20  2004/10/20 16:31:26  revo
-Wolfram Diestel: germ ort.
-
-Revision 1.19  2003/11/27 17:31:03  revo
 -->
 </vortaro>

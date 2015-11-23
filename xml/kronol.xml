@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kronol.xml,v 1.17 2012/03/13 09:10:08 revo Exp $">
+<art mrk="$Id: kronol.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>kronologi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -101,16 +101,24 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_h;&c_r;&c_a;&c_n;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="cs">chronologický</trd>
   <trd lng="en">chronological</trd>
   <trd lng="fr">chronologique</trd>
   <trd lng="nl">chronologisch</trd>
   <trd lng="pl">chronologiczny</trd>
   <trd lng="ro">cronologie</trd>
   <trd lng="ru">&c_h;&c_r;&c_o;&c_n;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">chronologický</trd>
 </drv>
 </art>
 <!--
 $Log: kronol.xml,v $
+Revision 1.19  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2012/03/13 09:10:08  revo
 Jeromo Vasxe: + fak kal
 

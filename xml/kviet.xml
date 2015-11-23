@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kviet.xml,v 1.21 2014/08/18 01:10:12 revo Exp $">
+<art mrk="$Id: kviet.xml,v 1.24 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kviet</rad>/a <fnt><bib>PV</bib></fnt>
@@ -42,6 +42,11 @@
       <trd>ruhig</trd>,
       <trd>friedlich</trd>,
       <trd>still</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>tranquilo</trd>,
+      <trd>apacible</trd>,
+      <trd>sereno</trd>
     </trdgrp>
     <trdgrp lng="hu">
       <trd>nyugodt</trd>,
@@ -84,6 +89,12 @@
       <trd>ausgeglichen</trd>,
       <trd>gelassen</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>quieto</trd>,
+      <trd>pac&iacute;fico</trd>,
+      <trd>tranquilo</trd>,
+      <trd>calmado</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>nyugodt</trd>,
       <trd>kiegyens&uacute;lyozott</trd>
@@ -101,6 +112,7 @@
       <trd>sanft</trd>,
       <trd>friedfertig</trd>
     </trdgrp>
+    <trd lng="es">manso</trd>
     <trdgrp lng="hu">
       <trd>nyugodt</trd>,
       <trd>b&eacute;k&eacute;s</trd>
@@ -117,7 +129,12 @@
     <trd>&c_t;&c_i;&c_h;</trd>,
     <trd>&c_m;&c_i;&c_r;&c_je;&c_n;</trd>
   </trdgrp>
-  <trd lng="es">calmado, quieto<klr> (adj.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>klidný</trd>,
+    <trd>kvietní</trd>,
+    <trd>pokojný</trd>,
+    <trd>umírněný</trd>
+  </trdgrp>
   <trd lng="fr">calme<klr> (adj.)</klr></trd>
   <trdgrp lng="nl">
     <trd>rustig</trd>,
@@ -139,6 +156,11 @@
     <trd>&c_t;&c_i;&c_h;&c_i;&c_j;</trd>,
     <trd>&c_b;&c_je;&c_z;&c_m;&c_ja;&c_t;&c_je;&c_zh;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pokojný</trd>,
+    <trd>tichý</trd>,
+    <trd>umiernený</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kviet.0o">
@@ -156,7 +178,6 @@
       <trd>Gem&uuml;tsruhe</trd>,
       <trd>Gelassenheit</trd>
     </trdgrp>
-    <trd lng="es">calmado, quieto<klr> (subst.)</klr></trd>
     <trd lng="fr">calme<klr> (subst.)</klr></trd>
     <trdgrp lng="nl">
       <trd>rust</trd>,
@@ -165,6 +186,11 @@
     <trdgrp lng="ru">
       <trd>&c_s;&c_p;&c_o;&c_k;&c_o;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>,
       <trd>&c_p;&c_o;&c_k;&c_o;&c_j;</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>quietud</trd>,
+      <trd>sosiego</trd>,
+      <trd>tranquilidad</trd>
     </trdgrp>
   </snc>
   <snc mrk="kviet.0o.pacaspekto">
@@ -178,6 +204,10 @@
       <trd>Ruhe</trd>,
       <trd>Gem&uuml;tsruhe</trd>,
       <trd>Gelassenheit</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>calma</trd>,
+      <trd>serenidad</trd>
     </trdgrp>
     <trd lng="fr">calme<klr> (subst.)</klr></trd>
     <trdgrp lng="nl">
@@ -205,6 +235,7 @@
       <trd>Ruhe</trd>,
       <trd>Bewegungslosigkeit</trd>
     </trdgrp>
+    <trd lng="es">reposo <klr>(estado de)</klr></trd>
     <trd lng="en">rest</trd>
     <trd lng="fr">repos<klr> (immobilit&eacute;)</klr></trd>
     <trd lng="nl">rust</trd>
@@ -217,10 +248,17 @@
     <trd>&c_s;&c_p;&c_a;&c_k;&c_o;&c_j;</trd>,
     <trd>&c_s;&c_u;&c_p;&c_a;&c_k;&c_o;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>klid</trd>,
+    <trd>klidnost</trd>,
+    <trd>poklid</trd>,
+    <trd>usmířenost</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>nyugalom</trd>,
     <trd>nyugalmi &aacute;llapot</trd>
   </trdgrp>
+  <trd lng="sk">pokoj <klr>(stav duše)</klr></trd>
 </drv>
 
 <drv mrk="kviet.0igi">
@@ -256,7 +294,12 @@
       <trd>befrieden</trd>,
       <trd>beruhigen</trd>
     </trdgrp>
-    <trd lng="es">calmar</trd>
+    <trdgrp lng="es">
+      <trd>calmar</trd>,
+      <trd>aquietar</trd>,
+      <trd>quietar</trd>,
+      <trd>sosegar</trd>
+    </trdgrp>
     <trd lng="fr">calmer</trd>
     <trdgrp lng="hu">
       <trd>nyugtat</trd>,
@@ -288,13 +331,25 @@
     <trdgrp lng="de">
       <trd>z&auml;hmen</trd>,
     </trdgrp>
+    <trd lng="es">amansar</trd>
     <trd lng="fr">apprivoiser</trd>
     <trd lng="hu">szelid&iacute;t</trd>
     <trd lng="ru">&c_u;&c_k;&c_r;&c_o;&c_t;&c_i;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>konejšit</trd>,
+    <trd>mírnit <klr>(napětí)</klr></trd>,
+    <trd>uklidňovat</trd>,
+    <trd>utišovat</trd>,
+    <trd>zmírnit</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>temmen</trd>,
     <trd>dresseren</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>upokojiť</trd>,
+    <trd>utíšiť</trd>
   </trdgrp>
 </drv>
 
@@ -312,6 +367,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd>calmarse</trd>,
+    <trd>aquietarse</trd>,
+    <trd>quietarse</trd>
+    <trd>sosegarse</trd>
+  </trdgrp>
   <trd lng="fr">se <ind>calmer</ind></trd>
 </drv>
 
@@ -326,11 +387,14 @@
       precipe tia kristana movado de la 17a jarcento.
     </dif>
   </snc>
+  <trd lng="cs">kvietizmus</trd>
   <trd lng="de">Quietismus</trd>
+  <trd lng="es">quietismo</trd>
   <trd lng="fr">qui&eacute;tisme</trd>
   <trd lng="hu">kvietizmus</trd>
   <trd lng="nl">quietisme</trd>
   <trd lng="ru">&c_k;&c_v;&c_i;&c_je;&c_t;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">kvietizmus</trd>
 </drv>
 
 <drv mrk="kviet.mal0a">
@@ -354,9 +418,16 @@
     <trd>&c_n;&c_je;&c_s;&c_p;&c_a;&c_k;&c_o;&c_j;&c_n;&c_y;</trd>,
     <trd>&c_t;&c_r;&c_y;&c_v;&c_o;&c_zh;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="cs">neklidný</trd>
   <trdgrp lng="de">
     <trd>unruhig</trd>,
     <trd>aufgeregt</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>inquieto</trd>,
+    <trd>excitado</trd>,
+    <trd>intranquilo</trd>,
+    <trd>perturbado</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>agit&eacute;</trd>,
@@ -372,10 +443,20 @@
     <trd>&c_b;&c_je;&c_s;&c_p;&c_o;&c_k;&c_o;&c_j;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_t;&c_r;&c_je;&c_v;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">nepokojný</trd>
 </drv>
 </art>
 <!--
 $Log: kviet.xml,v $
+Revision 1.24  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/04/17 22:10:16  revo
+Carlos Garcia: +trd es ~a (krktd) 1, 2 kj 3 ~o (krktd) 1, 2 kj 3 ~igi 1 kj 2 ~igxi ~ismo mal~a
+
 Revision 1.21  2014/08/18 01:10:12  revo
 Jeromo Vasxe: + ~igxi
 
@@ -395,8 +476,5 @@ Revision 1.16  2006/05/28 16:32:09  revo
 Jeromo Vasxe: + 1 mrk
 
 Revision 1.15  2005/06/15 16:31:38  revo
-Yury Finkel: +trd ru
-
-Revision 1.14  2005/01/30 17:31:20  revo
 -->
 </vortaro>

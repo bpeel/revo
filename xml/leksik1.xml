@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: leksik1.xml,v 1.13 2009/02/15 14:18:15 revo Exp $">
+<art mrk="$Id: leksik1.xml,v 1.15 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>leksikon</rad>/o
@@ -36,6 +36,11 @@
     <trd>&c_s;&c_l;&c_o;&c_w;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
   <trd lng="br">geriaoueg</trd>
+  <trdgrp lng="cs">
+    <trd>encyklopedie</trd>,
+    <trd>lexikon</trd>,
+    <trd>nauč. slovník</trd>
+  </trdgrp>
   <trd lng="el">&lambda;&epsilon;&xi;&jota;&kappa;&omikron;&lambda;&omikron_ton;&gamma;&jota;&omikron;</trd>
   <trd lng="en">lexicon</trd>
   <trd lng="fr">lexique</trd>
@@ -45,6 +50,11 @@
     <trd>&c_l;&c_je;&c_k;&c_s;&c_i;&c_k;&c_o;&c_n;</trd>,
     <trd>&c_s;&c_l;&c_o;&c_v;&c_a;&c_r;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>encyklopédia</trd>,
+    <trd>lexikón</trd>,
+    <trd>slovník <klr>(náučný)</klr></trd>
+  </trdgrp>
 </drv>
 <adm>
   Mi havas la impreson, ke la difinoj ne plu estas aktualaj.
@@ -53,6 +63,12 @@
 </art>
 <!--
 $Log: leksik1.xml,v $
+Revision 1.15  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2009/02/15 14:18:15  revo
 Russ Williams: +trd en
 

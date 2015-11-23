@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arist.xml,v 1.9 2004/07/28 16:31:50 revo Exp $">
+<art mrk="$Id: arist.xml,v 1.11 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>arist</rad>/o
 </kap>
@@ -43,10 +43,23 @@
     </trdgrp>
     <trd lng="sk">&ocirc;stie</trd>
   </snc>
+  <trd lng="cs">osina</trd>
+  <trdgrp lng="sk">
+    <trd>1.kostica</trd>,
+    <trd>2.ôstie</trd>,
+    <trd>hovor: fúzy (obilia)</trd>,
+    <trd>kostička <klr>(rýb)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: arist.xml,v $
+Revision 1.11  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2004/07/28 16:31:50  revo
 Viliam Bur: +trd sk
 

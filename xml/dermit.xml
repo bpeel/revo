@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dermit.xml,v 1.13 2014/02/17 13:10:22 revo Exp $">
+<art mrk="$Id: dermit.xml,v 1.18 2015/08/21 15:10:14 revo Exp $">
 <kap>
   <rad>dermit</rad>/o
 </kap>
@@ -16,7 +16,9 @@
     </dif>
   </snc>
   <trd lng="be">&c_d;&c_e;&c_r;&c_m;&c_a;&c_t;&c_y;&c_t;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_r;&c_m;&c_a;&c_t;&c_i;&c_t;</trd>
   <trd lng="ca">dermatitis</trd>
+  <trd lng="cs">z&aacute;pal poko&zcaron;ky</trd>
   <trdgrp lng="de">
     <trd>Hautentz&uuml;ndung</trd>,
     <trd>Dermitis</trd>
@@ -34,12 +36,38 @@
     <trd>dermatitis</trd>,
     <trd>b&odblac;rgyullad&aacute;s</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>dermatitis</trd>,
+    <trd>eksem</trd>,
+    <trd><ind>radang</ind> kulit</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>dermatitis</trd>,
+    <trd>huidontsteking</trd>
+  </trdgrp>
+  <trd lng="no">dermatitis</trd>
   <trd lng="pl">zapalenie <ind>sk&oacute;ry</ind></trd>
   <trd lng="ru">&c_d;&c_je;&c_r;&c_m;&c_a;&c_t;&c_i;&c_t;</trd>
+  <trd lng="sk">ko&zcaron;n&yacute; z&aacute;pal</trd>
 </drv>
 </art>
 <!--
 $Log: dermit.xml,v $
+Revision 1.18  2015/08/21 15:10:14  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/11/17 11:12:00  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.14  2014/11/10 05:10:18  revo
+Filip van Laenen: +trd(nl,no)
+
 Revision 1.13  2014/02/17 13:10:22  revo
 Jessica Grasso: +tr en
 
@@ -47,20 +75,5 @@ Revision 1.12  2013/10/09 18:10:58  revo
 Wolfram Diestel: ref al lst malsanoj
 
 Revision 1.11  2011/12/12 09:10:11  revo
-Marc Rausell: +trd ca
-
-Revision 1.10  2009/06/04 16:30:46  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.9  2003/12/13 17:31:54  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2002/05/21 16:38:41  revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.7  2002/04/11 16:32:03  revo
-Ulrich Fellmann: + 2 germ trdj
-
-Revision 1.6  2002/03/20 17:33:18  revo
 -->
 </vortaro>

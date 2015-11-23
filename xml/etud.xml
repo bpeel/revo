@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: etud.xml,v 1.9 2013/03/26 09:10:13 revo Exp $">
+<art mrk="$Id: etud.xml,v 1.11 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <rad>etud</rad>/o<fnt>Z</fnt>
 </kap>
@@ -31,6 +31,11 @@
     <trd lng="pl">szkic</trd>
   </snc>
   <trd lng="be">&c_e;&c_c;&c_ju;&c_d;</trd>
+  <trdgrp lng="cs">
+    <trd>cvičná skladba</trd>,
+    <trd>etuda</trd>,
+    <trd>studie</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Et&uuml;de</trd>,
     <trd>&Uuml;bungsst&uuml;ck</trd>
@@ -40,10 +45,20 @@
   <trd lng="hu">et&udblac;d</trd>
   <trd lng="pt">estudo</trd>
   <trd lng="ru">&c_e;&c_t;&c_ju;&c_d;</trd>
+  <trdgrp lng="sk">
+    <trd>cvičná skladba</trd>,
+    <trd>štúdia</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: etud.xml,v $
+Revision 1.11  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2013/03/26 09:10:13  revo
 Russ Williams: +trd en
 

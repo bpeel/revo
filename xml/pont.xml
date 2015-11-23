@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: pont.xml,v 1.30 2014/11/05 13:10:20 revo Exp $">
+<art mrk="$Id: pont.xml,v 1.32 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pont</rad>/o <fnt><bib>PV</bib></fnt>
@@ -105,7 +105,15 @@
       <trd>transition</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kapitánský můstek</trd>,
+    <trd>velitelský můstek</trd>
+  </trdgrp>
   <trd lng="en">bridge</trd>
+  <trdgrp lng="sk">
+    <trd>kapitánsky mostík</trd>,
+    <trd>veliteľský mostík</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pont.baskul0o">
@@ -127,6 +135,10 @@
       proksimuma.
     </rim>
   </snc>
+  <trdgrp lng="cs">
+    <trd>sklápěcí most</trd>,
+    <trd>zdvihací most</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>draw<ind>bridge</ind></trd>,
     <trd>bascule <ind>bridge</ind></trd>
@@ -141,6 +153,7 @@
   <trd lng="pl">most zwodzony</trd>
   <trd lng="ru">&c_r;&c_a;&c_z;&c_v;&c_o;&c_d;&c_n;&c_o;&c_j;
   &c_m;&c_o;&c_s;&c_t;</trd>
+  <trd lng="sk">zdvíhací most</trd>
 </drv>
 
 <drv mrk="pont.lev0o">
@@ -183,6 +196,14 @@
     <aut>MB</aut>
   </adm>
 
+  <trdgrp lng="sk">
+    <trd>padací most</trd>,
+    <trd>zdvíhací most</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>padací most</trd>,
+    <trd>zvedací most</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pont.pend0o">
@@ -266,7 +287,15 @@
     <trd lng="ru">&c_p;&c_r;&c_je;&c_o;&c_d;&c_o;&c_l;&c_je;&c_t;&c_mol;
     </trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>být přemostěn</trd>,
+    <trd>přemosťovat</trd>
+  </trdgrp>
   <trd lng="hu">&aacute;thidal</trd>
+  <trdgrp lng="sk">
+    <trd>preklenúť</trd>,
+    <trd>premostiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pont.super0igitrans0igi">
@@ -275,10 +304,18 @@
   <gra><vspec>tr</vspec></gra>
   <ref tip="dif" cel="pont.super0i.ARKI">super<tld/>i</ref>
   <trd lng="nl">overbruggen</trd>
+  <trd lng="sk">premostiť</trd>
+  <trd lng="cs">překlenout mostem</trd>
 </drv>
 </art>
 <!--
 $Log: pont.xml,v $
+Revision 1.32  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.30  2014/11/05 13:10:20  revo
 Filip van Laenen: +trd(no)
 

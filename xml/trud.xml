@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trud.xml,v 1.16 2010/01/23 17:30:20 revo Exp $">
+<art mrk="$Id: trud.xml,v 1.19 2015/09/18 15:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>trud</rad>/i
@@ -33,13 +33,18 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_v;&c_ja;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>
-  <trd lng="cs">vnucovat</trd>
+  <trdgrp lng="cs">
+    <trd>nutit</trd>,
+    <trd>p&rcaron;inutit</trd>,
+    <trd>vnucovat</trd>,
+    <trd>vnutit</trd>
+  </trdgrp>
   <trd lng="de">aufdr&auml;ngen</trd>
   <trd lng="en">impose</trd>
   <trd lng="es">imponer</trd>
   <trd lng="fr">imposer<klr tip="amb"> (contraindre &agrave;
   accepter)</klr></trd>
-  <trd lng="hu">k&eacute;nyszer&iacute;t</trd>  
+  <trd lng="hu">k&eacute;nyszer&iacute;t</trd>
   <trd lng="nl">opdringen</trd>
   <trdgrp lng="pl">
     <trd>narzuca&cacute;<klr> (co&sacute;, komu&sacute;)</klr></trd>,
@@ -50,6 +55,10 @@
   <trdgrp lng="ru">
     <trd>&c_n;&c_a;&c_v;&c_ja;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_a;&c_v;&c_ja;&c_z;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>natisn&uacute;&tcaron;</trd>,
+    <trd>vn&uacute;ti&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -67,6 +76,7 @@
         la ekzisto de tia gazeto al<tld/>i&gcirc;as.
       </ekz>
     </dif>
+    <trd lng="en">to obtrude</trd>
     <trd
     lng="be">&c_n;&c_a;&c_v;&c_ja;&c_z;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
     <trd lng="es">imponerse</trd>
@@ -99,6 +109,7 @@
         <fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="en">meddlesome</trd>
     <trdgrp lng="pl">
       <trd>natr&eogonek;tny</trd>,
       <trd>w&sacute;cibski</trd>,
@@ -120,6 +131,7 @@
         <fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="en">intrusive</trd>
     <trdgrp lng="pl">
       <trd>uprzykrzaj&aogonek;cy</trd>,
       <trd>upierdliwy<klr> (pot. wulg.)</klr></trd>
@@ -172,7 +184,7 @@
   <trd lng="es">imponer</trd>
   <trd lng="fr">imposer<klr tip="amb"> (contraindre &agrave;
   accepter)</klr></trd>
-  <trd lng="hu">r&aacute;k&eacute;nyszer&iacute;t</trd>  
+  <trd lng="hu">r&aacute;k&eacute;nyszer&iacute;t</trd>
   <trd lng="nl">opdringen</trd>
   <trdgrp lng="pl">
     <trd>narzuca&cacute;<klr> (co&sacute;, komu&sacute;)</klr></trd>,
@@ -184,6 +196,7 @@
     <trd>&c_n;&c_a;&c_v;&c_ja;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_a;&c_v;&c_ja;&c_z;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">vnucova&tcaron;</trd>
 </drv>
 
 <drv mrk="trud.en0igxi">
@@ -199,6 +212,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="en">
+    <trd>to interfere</trd>,
+    <trd>intrude</trd>
+  </trdgrp>
   <trdgrp lng="be">
     <trd>&c_u;&c_v;&c_ja;&c_z;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_u;&c_m;&c_je;&c_sh;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
@@ -234,23 +251,25 @@
       aferon.
     </dif>
   </snc>
+  <trd lng="en">interloper</trd>
   <trdgrp lng="be">
     <trd>&c_d;&c_a;&c_k;&c_u;&c_ch;&c_l;&c_ib;&c_v;&c_y;
     &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>,
     <trd>&c_n;&c_a;&c_z;&c_o;&c_j;&c_l;&c_ib;&c_v;&c_y;
     &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>
   </trdgrp>
+  <trd lng="cs">vt&iacute;ravec</trd>
+  <trdgrp lng="es">
+    <trd>entrometido</trd>,
+    <trd>metido<klr> (salvadoranismo)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>g&ecirc;neur</trd>,
     <trd>importun<klr tip="amb"> (subst.)</klr></trd>,
     <trd>intrus</trd>
   </trdgrp>
-  <trd lng="hu">tolakoz&oacute; alak</trd>  
+  <trd lng="hu">tolakoz&oacute; alak</trd>
   <trd lng="nl">indringer</trd>
-  <trdgrp lng="es">
-    <trd>entrometido</trd>,
-    <trd>metido<klr> (salvadoranismo)</klr></trd>
-  </trdgrp>
   <trdgrp lng="pl">
     <trd>natr&eogonek;t</trd>,
     <trd>kto&sacute; <ind>wtr&aogonek;caj&aogonek;cy
@@ -265,6 +284,7 @@
     <trd>&c_n;&c_a;&c_z;&c_o;&c_j;&c_l;&c_i;&c_v;&c_y;&c_j;
     &c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k;</trd>
   </trdgrp>
+  <trd lng="sk">vtierav&yacute; &ccaron;lovek</trd>
 </drv>
 
 <drv mrk="trud.sin0i">
@@ -293,10 +313,20 @@
       <trd>&c_n;&c_a;&c_v;&c_ja;&c_z;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
     </trdgrp>
   </snc>
+  <trd lng="en">to impose oneself</trd>
 </drv>
 </art>
 <!--
 $Log: trud.xml,v $
+Revision 1.19  2015/09/18 15:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.18  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2010/01/23 17:30:20  revo
 Sebastian Cyprych: kor trd pl
 
@@ -310,14 +340,5 @@ Revision 1.13  2005/01/12 18:23:08  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.12  2004/11/28 19:42:21  revo
-Jeromo Vasxe: - () en kapvortoj
-
-Revision 1.11 2004/07/19 17:45:05 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10 2002/03/13 17:35:21 revo
-Yury Finkel: +trd ru
-
-Revision 1.9 2001/09/30 19:14:26 revo
 -->
 </vortaro>

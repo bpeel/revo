@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: edr.xml,v 1.30 2012/04/21 15:10:09 revo Exp $">
+<art mrk="$Id: edr.xml,v 1.32 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <rad>edr</rad>/o
 </kap>
@@ -33,6 +33,7 @@
     <trd>costat</trd>,
     <trd>base</trd>
   </trdgrp>
+  <trd lng="cs">stěna tělesa</trd>
   <trd lng="de">Fl&auml;che</trd>
   <trd lng="en">face</trd>
   <trd lng="fa">&a_w;&a_j;&a_h;<klr tip="ind">
@@ -41,11 +42,12 @@
   poly&egrave;dre)</klr></trd>
   <trd lng="hu">lap<klr tip="ind"> (m&eacute;rtani
   test&eacute;)</klr></trd>
+  <trd lng="it">faccia</trd>
   <trd lng="nl">vlak<klr tip="ind"> (z.nw.)</klr></trd>
   <trd lng="pl">&sacute;ciana</trd>
   <trd lng="pt">face</trd>
   <trd lng="ru">&c_g;&c_r;&c_a;&c_n;&c_mol;</trd>
-  <trd lng="it">faccia</trd>
+  <trd lng="sk">stena telesa</trd>
 </drv>
 
 <drv mrk="edr.du0o">
@@ -69,6 +71,10 @@
     &c_k;&c_u;&c_t;</trd>
   </trdgrp>
   <trd lng="ca">d&iacute;edre</trd>
+  <trdgrp lng="cs">
+    <trd>dvojstěn</trd>,
+    <trd>prostor mezi dvěma rovinami</trd>
+  </trdgrp>
   <trd lng="de">Dieder</trd>
   <trd lng="en">dihedron</trd>
   <trd lng="fa">&a_d;&a_w;&a_w;&a_j;&a_h;&f_y;</trd>
@@ -77,6 +83,7 @@
     <trd>di&eacute;der</trd>,
     <trd>k&eacute;tlap</trd>
   </trdgrp>
+  <trd lng="it">diedro</trd>
   <trdgrp lng="nl">
     <trd>tweevlak</trd>,
     <trd>di&euml;der</trd>
@@ -85,7 +92,7 @@
     <trd>dwu&sacute;cian</trd>,
     <trd>k&aogonek;t dwu&sacute;cienny</trd></trdgrp>
   <trd lng="ru">&c_d;&c_v;&c_u;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>
-  <trd lng="it">diedro</trd>
+  <trd lng="sk">dvojsten</trd>
 </drv>
 
 <drv mrk="edr.tri0o">
@@ -122,6 +129,7 @@
     <trd>&c_t;&c_r;&c_y;&c_e;&c_d;&c_r;</trd>
   </trdgrp>
   <trd lng="ca">tr&iacute;edre</trd>
+  <trd lng="cs">trojhran</trd>
   <trdgrp lng="de">
     <trd>Dreikant</trd>,
     <trd>Dreibein</trd>
@@ -136,6 +144,7 @@
     <trd>tri&eacute;der</trd>,
     <trd>h&aacute;romlap</trd>
   </trdgrp>
+  <trd lng="it">triedro</trd>
   <trdgrp lng="nl">
     <trd>drievlak</trd>,
     <trd>tri&euml;der</trd>
@@ -146,7 +155,7 @@
     <ind>&c_u;&c_g;&c_o;&c_l;</ind></trd>,
     <trd>&c_t;&c_r;&c_i;&c_e;&c_d;&c_r;</trd>
   </trdgrp>
-  <trd lng="it">triedro</trd>
+  <trd lng="sk">trojhran</trd>
 </drv>
 
 <drv mrk="edr.kvar0o">
@@ -184,6 +193,11 @@
         </trdgrp>
 	      <trd lng="it">tetraedro</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>tetraedrový</trd>,
+    <trd>čtyřstěn</trd>
+  </trdgrp>
+  <trd lng="sk">štvorsten</trd>
 </drv>
 
 <drv mrk="edr.plur0o">
@@ -237,6 +251,7 @@
     <trd>&c_p;&c_a;&c_l;&c_ib;&c_e;&c_d;&c_r;</trd>
   </trdgrp>
   <trd lng="ca">pol&iacute;edre</trd>
+  <trd lng="cs">mnohostěn  polyedr</trd>
   <trd lng="de">Polyeder</trd>
   <trd lng="en">polyhedron</trd>
   <trd lng="fa">&f_ch;&a_n;&a_d;&a_w;&a_j;&a_h;&f_y;</trd>
@@ -245,13 +260,14 @@
     <trd>poli&eacute;der</trd>,
     <trd>soklap</trd>
   </trdgrp>
+  <trd lng="it">poliedro</trd>
   <trd lng="nl">veelvlak</trd>
   <trd lng="pl">wielo&sacute;cian</trd>
   <trdgrp lng="ru">
     <trd>&c_m;&c_n;&c_o;&c_g;&c_o;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>,
     <trd>&c_p;&c_o;&c_l;&c_i;&c_e;&c_d;&c_r;</trd>
   </trdgrp>
-  <trd lng="it">poliedro</trd>
+  <trd lng="sk">mnohosten</trd>
 </drv>
 
 <drv mrk="edr.n0o">
@@ -485,6 +501,7 @@
 </ind>
 </trd>
   <trd lng="ca">pol&iacute;edre d'n cares</trd>
+  <trd lng="cs">n-stěn</trd>
   <trd lng="de">n-Flach</trd>
   <trd lng="en">n-hedron</trd>
   <trdgrp lng="fr">
@@ -499,10 +516,17 @@
   </trdgrp>
   <trd lng="ru">n-<ind>&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</ind>
 </trd>
+  <trd lng="sk">n-sten</trd>
 </drv>
 </art>
 <!--
 $Log: edr.xml,v $
+Revision 1.32  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.30  2012/04/21 15:10:09  revo
 Dominique Pelle: forigis spaceton antaux komo
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koklus.xml,v 1.14 2013/10/09 19:11:17 revo Exp $">
+<art mrk="$Id: koklus.xml,v 1.15 2014/11/18 20:10:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>koklu&scirc;</rad>/o
@@ -29,6 +29,10 @@
   </trdgrp>
   <trd lng="fa">&a_s;&f_y;&a_A;&a_h;&zwnj;&a_s;&a_r;&a_f;&a_h;</trd>
   <trd lng="fr">coqueluche<klr tip="ind"> (maladie)</klr></trd>
+  <trdgrp lng="id">
+    <trd><ind>batuk</ind> rejan</trd>,
+    <trd>pertusis</trd>
+  </trdgrp>
   <trd lng="nl">kinkhoest</trd>
   <trdgrp lng="pl">
   <trd>krztusiec</trd>,
@@ -39,6 +43,9 @@
 </art>
 <!--
 $Log: koklus.xml,v $
+Revision 1.15  2014/11/18 20:10:37  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.14  2013/10/09 19:11:17  revo
 Wolfram Diestel: ref al lst malsanoj
 
@@ -58,8 +65,5 @@ Revision 1.9  2002/11/17 18:26:56  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.8  2002/01/03 17:33:35  revo
-Ulrich Fellmann: + germ trd
-
-Revision 1.7  2001/11/01 19:11:51  revo
 -->
 </vortaro>

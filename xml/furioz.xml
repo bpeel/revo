@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: furioz.xml,v 1.19 2014/03/31 03:10:25 revo Exp $">
+<art mrk="$Id: furioz.xml,v 1.21 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>furioz</rad>/a <fnt><bib>PV</bib></fnt>
@@ -22,6 +22,7 @@
       <ref cel="sovagx.0a.intensa">sova&gcirc;a<sncref/></ref>.
     </refgrp>
   </snc>
+  <trd lng="lat">rabidus, a, um (rabies)</trd>
   <trdgrp lng="be">
     <trd>&c_l;&c_ju;&c_t;&c_y;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_mol;&c_ju;&c_sh;&c_a;&c_n;&c_y;</trd>,
@@ -29,6 +30,15 @@
     <trd>&c_sh;&c_a;&c_l;&c_jo;&c_n;&c_y;</trd>,
     <trd>&c_a;&c_sh;&c_a;&c_l;&c_je;&c_l;&c_y;</trd>,
     <trd>&c_b;&c_u;&c_ja;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lítý</trd>,
+    <trd>nepříčetný</trd>,
+    <trd>rozkacený</trd>,
+    <trd>rozlícený</trd>,
+    <trd>rozlícený</trd>,
+    <trd>zběsilý</trd>,
+    <trd>zuřivý</trd>
   </trdgrp>
   <trd lng="de">rasend</trd>
   <trdgrp lng="en">
@@ -43,7 +53,6 @@
     <trd>en <ind>furie</ind></trd>,
   </trdgrp>
   <trd lng="hu">&odblac;rj&ouml;ng&odblac;</trd>
-  <trd lng="lat">rabidus, a, um (rabies)</trd>
   <trd lng="nl">razend</trd>
   <trdgrp lng="pl">
     <trd>w&sacute;ciek&lstroke;y</trd>,
@@ -65,6 +74,11 @@
     <trd>&c_b;&c_je;&c_sh;&c_je;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_b;&c_u;&c_j;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>besný</trd>,
+    <trd>rozzúrený</trd>,
+    <trd>zúrivý</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="furioz.0eco">
@@ -80,6 +94,10 @@
     <trd>&c_a;&c_p;&c_a;&c_n;&c_t;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_l;&c_ju;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_mol;&c_ju;&c_sh;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>vzteklost</trd>,
+    <trd>zuřivost</trd>
   </trdgrp>
   <trd lng="de">Raserei</trd>
   <trdgrp lng="en">
@@ -106,6 +124,10 @@
     <trd>&c_n;&c_je;&c_i;&c_s;&c_t;&c_o;&c_v;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_b;&c_je;&c_sh;&c_je;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bes</trd>,
+    <trd>zúrivosť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="furioz.0i">
@@ -124,6 +146,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_sh;&c_a;&c_l;&c_je;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>vztekat se ,, láteřit</trd>,
+    <trd>řádit</trd>
+  </trdgrp>
   <trd lng="de">rasen</trd>
   <trdgrp lng="en">
     <trd>be furious</trd>,
@@ -148,6 +174,10 @@
     <trd>&c_n;&c_je;&c_i;&c_s;&c_t;&c_o;&c_v;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_b;&c_y;&c_t;&c_mol; &c_v; &c_ja;&c_r;&c_o;&c_s;&c_t;&c_i;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vyvádzať</trd>,
+    <trd>zúriť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="furioz.0igi">
@@ -167,11 +197,23 @@
       </ekz>      
     </dif>
   </snc>
+  <trd lng="cs">rozzuřit</trd>
   <trd lng="fr">mettre en <ind>fureur</ind></trd>
+  <trdgrp lng="sk">
+    <trd>rozbesniť</trd>,
+    <trd>rozzúriť</trd>,
+    <trd>rozčertiť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: furioz.xml,v $
+Revision 1.21  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/03/31 03:10:25  revo
 Jeromo Vasxe: + ~igi
 

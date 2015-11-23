@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: oligarki.xml,v 1.6 2009/09/10 16:31:59 revo Exp $">
+<art mrk="$Id: oligarki.xml,v 1.9 2015/10/27 10:10:18 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>oligarki</rad>/o
@@ -30,6 +30,10 @@
   </snc>
   <trd lng="be">&c_a;&c_l;&c_ib;&c_g;&c_a;&c_r;&c_h;&c_ib;&c_ja;</trd>
   <trd lng="ca">oligarquia</trd>
+  <trdgrp lng="cs">
+    <trd>oligarchie</trd>,
+    <trd>vl&aacute;da n&ecaron;kolika lid&iacute;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Oligarchie</trd>,
     <trd>Gruppenherrschaft</trd>
@@ -44,12 +48,23 @@
   <trd lng="fr">oligarchie</trd>
   <trd lng="hu">oligarchia</trd>
   <trd lng="nl">oligarchie</trd>
+  <trd lng="pl">oligarchia</trd>
   <trd lng="pt">oligarquia</trd>
   <trd lng="ru">&c_o;&c_l;&c_i;&c_g;&c_a;&c_r;&c_h;&c_i;&c_ja;</trd>
+  <trd lng="sk">oligarchia</trd>
 </drv>
 </art>
 <!--
 $Log: oligarki.xml,v $
+Revision 1.9  2015/10/27 10:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2009/09/10 16:31:59  revo
 Russ Williams: +trd en
 
@@ -63,10 +78,5 @@ Revision 1.3 2005/04/05 16:36:36 revo
 Raul Salinas Monteagudo: +trd ca,es
 
 Revision 1.2 2004/09/30 16:31:11 revo
-jxeromo vasxe: kor 1 mrk
-
-Revision 1.1 2004/09/29 16:31:04 revo
-jxeromo vasxe: nova artikolo
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konsek.xml,v 1.14 2012/01/01 12:10:08 revo Exp $">
+<art mrk="$Id: konsek.xml,v 1.16 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>konsekr</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -67,15 +67,31 @@
       <trd lng="ru">&c_o;&c_s;&c_v;&c_ja;&c_t;&c_i;&c_t;&c_mol;</trd>
     </subsnc>
   </snc>
+  <trdgrp lng="cs">
+    <trd>konsekrovat</trd>,
+    <trd>posvěcovat</trd>,
+    <trd>světit</trd>,
+    <trd>zasvěcovat</trd>
+  </trdgrp>
   <trd lng="es">consagrar</trd>
   <trdgrp lng="fr">
     <trd>consacrer</trd>,
     <trd>ordonner<klr> (rel. consacrer)</klr></trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>posväcovať</trd>,
+    <trd>svätiť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: konsek.xml,v $
+Revision 1.16  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2012/01/01 12:10:08  revo
 Jeromo Vasxe: snc/subsnc, + 1 ekz, + trd fr
 

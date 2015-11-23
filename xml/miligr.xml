@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: miligr.xml,v 1.14 2011/07/05 05:10:22 revo Exp $">
+<art mrk="$Id: miligr.xml,v 1.16 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>miligram</rad>/o
@@ -18,6 +18,7 @@
   </snc>
   <trd lng="be">&c_m;&c_ib;&c_l;&c_ib;&c_g;&c_r;&c_a;&c_m;</trd>
   <trd lng="ca">mil&middot;ligram</trd>
+  <trd lng="cs">miligram</trd>
   <trd lng="de">Milligramm</trd>
   <trd lng="en">milligram</trd>
   <trd lng="es">miligramo</trd>
@@ -27,10 +28,17 @@
   <trd lng="pl">miligram</trd>
   <trd lng="pt">miligrama</trd>
   <trd lng="ru">&c_m;&c_i;&c_l;&c_l;&c_i;&c_g;&c_r;&c_a;&c_m;&c_m;</trd>
+  <trd lng="sk">miligram</trd>
 </drv>
 </art>
 <!--
 $Log: miligr.xml,v $
+Revision 1.16  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2011/07/05 05:10:22  revo
 Sebastian Cyprych: +trd pl
 

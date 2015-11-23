@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: esprim.xml,v 1.25 2014/05/19 20:10:13 revo Exp $">
+<art mrk="$Id: esprim.xml,v 1.28 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>esprim</rad>/i <fnt><bib>PV</bib></fnt>
@@ -37,7 +37,17 @@
   </snc>
   <trd lng="be">&c_v;&c_y;&c_r;&c_a;&c_zh;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">expressar</trd>
-  <trd lng="cs">vyj&aacute;d&rcaron;it</trd>
+  <trdgrp lng="cs">
+    <trd>dát najevo</trd>,
+    <trd>projevit</trd>,
+    <trd>projevit</trd>,
+    <trd>projevovat</trd>,
+    <trd>vyj&aacute;d&rcaron;it</trd>,
+    <trd>vyjadřovat</trd>,
+    <trd>vyjádřit</trd>,
+    <trd>vyslovit</trd>,
+    <trd>říci</trd>
+  </trdgrp>
   <trd lng="en">express</trd>
   <trd lng="es">expresar</trd>
   <trdgrp lng="fa">
@@ -53,6 +63,11 @@
     <trd>expressar</trd>
   </trdgrp>
   <trd lng="ru">&c_v;&c_y;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>prejaviť</trd>,
+    <trd>vyjadriť</trd>,
+    <trd>vysloviť</trd>
+  </trdgrp>
   <trd lng="sv">uttrycka</trd>
 </drv>
 
@@ -123,13 +138,21 @@
   </snc>
   <trd lng="be">&c_v;&c_y;&c_r;&c_a;&c_z;</trd>
   <trd lng="ca">expressi&oacute;</trd>
-  <trd lng="cs">v&yacute;raz</trd>
+  <trdgrp lng="cs">
+    <trd>projev</trd>,
+    <trd>v&yacute;raz</trd>,
+    <trd>vyjádření</trd>
+  </trdgrp>
   <trd lng="de">Ausdruck</trd>
   <trd lng="en">expression</trd>
   <trd lng="es">expresi&oacute;n</trd>
   <trd lng="fr">expression</trd>
   <trd lng="hu">kifejez&eacute;s</trd>
   <trd lng="ru">&c_v;&c_y;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>kombinácia znakov</trd>,
+    <trd>výraz</trd>
+  </trdgrp>
   <trd lng="sv">uttryck</trd>
 </drv>
 
@@ -171,10 +194,12 @@
   <trd lng="be">&c_v;&c_y;&c_ja;&c_w;&c_l;&c_je;&c_n;&c_ch;&c_y;
   &c_s;&c_r;&c_o;&c_d;&c_a;&c_k;</trd>
   <trd lng="ca">mitj&agrave; d'<ind>expressi&oacute;</ind></trd>
+  <trd lng="cs">výrazový prostředek</trd>
   <trdgrp lng="en">
     <trd>expressive means</trd>,
     <trd><klr>(language)</klr> feature</trd>
   </trdgrp>
+  <trd lng="es">medios de <ind>expresi&oacute;n</ind></trd>
   <trd lng="fa">&a_A;&a_b;&a_z;&a_A;&a_r; <ind>&a_b;&f_y;&a_A;&a_n;</ind></trd>
   <trd lng="fr">moyen d'<ind>expression</ind></trd>
   <trd lng="hu">kifejez&odblac;eszk&ouml;z</trd>
@@ -188,6 +213,7 @@
     <trd>&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;
     &c_v;&c_y;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_ja;</trd>
   </trdgrp>
+  <trd lng="sk">výrazový prostriedok</trd>
 </drv>
 
 <drv mrk="esprim.0isma">
@@ -210,6 +236,7 @@
     </dif>
   </snc>
   <trd lng="ca">expressionista</trd>
+  <trd lng="es">expresionista</trd>
   <trd lng="fa">&a_A;&f_k;&a_s;&f_p;&a_r;&a_s;&f_y;&a_w;&a_n;&f_y;&a_s;&a_t;</trd>
   <trd lng="fr">expressioniste<klr> (adj.)</klr></trd>
   <trd lng="it">espressionistico</trd>
@@ -253,6 +280,7 @@
     </dif>
   </snc>
   <trd lng="ca">expressionisme</trd>
+  <trd lng="es">expresionismo</trd>
   <trd lng="fa">&a_A;&f_k;&a_s;&f_p;&a_r;&a_s;&f_y;&a_w;&a_n;&f_y;&a_s;&a_m;</trd>
   <trd lng="fr">expressionisme</trd>
   <trd lng="it">espressionismo</trd>
@@ -276,6 +304,7 @@
   <trd lng="be">&c_p;&c_a;&c_d;&c_v;&c_y;&c_r;&c_a;&c_z;</trd>
   <trd lng="ca">subexpressi&oacute;<klr> (inform.)</klr></trd>
   <trd lng="en">subexpression</trd>
+  <trd lng="es">subexpresi&oacute;n</trd>
   <trd lng="fa">&a_z;&f_y;&a_r;&a_ayn;&a_b;&a_A;&a_r;&a_t;</trd>
   <trd lng="fr">sous-expression</trd>
   <trd lng="hu">r&eacute;szkifejez&eacute;s</trd>
@@ -286,6 +315,15 @@
 </art>
 <!--
 $Log: esprim.xml,v $
+Revision 1.28  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2014/12/15 07:10:17  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.25  2014/05/19 20:10:13  revo
 Damien Brucker: +ekz
 
@@ -305,8 +343,5 @@ Revision 1.20  2007/03/08 17:30:26  revo
 Jeromo Vasxe: kor 3 mrk
 
 Revision 1.19  2007/01/25 17:30:38  revo
-Jeromo Vasxe: + ~isma/o
-
-Revision 1.18  2003/12/18 17:33:17  revo
 -->
 </vortaro>

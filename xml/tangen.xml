@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tangen.xml,v 1.21 2012/10/23 00:13:59 revo Exp $">
+<art mrk="$Id: tangen.xml,v 1.23 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>tangent</rad>/o
@@ -63,17 +63,19 @@
   </snc>
   <trd lng="be">&c_t;&c_a;&c_n;&c_g;&c_je;&c_n;&c_s;</trd>
   <trd lng="ca">tangent</trd>
+  <trd lng="cs">tangens <klr>(funkce)</klr></trd>
   <trd lng="de">Tangens</trd>
   <trd lng="en">tangent</trd>
   <trd lng="es">tangente<klr tip="amb"> (matem&aacute;ticas)</klr></trd>
   <trd lng="fr">tangente<klr tip="ind"> (trigo.)</klr></trd>
-  <trd lng="hu">tangens</trd>  
+  <trd lng="hu">tangens</trd>
   <trd lng="nl">tangens</trd>
   <trd lng="pl">tangens</trd>
   <trdgrp lng="pt">
    <trd>tangente</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_a;&c_n;&c_g;&c_je;&c_n;&c_s;</trd>
+  <trd lng="sk">tangens <klr>(funkcie)</klr></trd>
 </drv>
 
 <drv mrk="tangen.are0o">
@@ -110,12 +112,14 @@
   </snc>
   <trd lng="be">&c_a;&c_r;&c_k;&c_t;&c_a;&c_n;&c_g;&c_je;&c_n;&c_s;</trd>
   <trd lng="ca">arctangent</trd>
+  <trd lng="cs">arkustangens</trd>
   <trd lng="de">Arkustangens</trd>
   <trd lng="en">arc tangent</trd>
   <trd lng="fr">arc tangente</trd>
-  <trd lng="hu">arkusz tangens</trd>  
+  <trd lng="hu">arkusz tangens</trd>
   <trd lng="pl">arcus tangens</trd>
   <trd lng="ru">&c_a;&c_r;&c_k;&c_t;&c_a;&c_n;&c_g;&c_je;&c_n;&c_s;</trd>
+  <trd lng="sk">arkus tangens</trd>
 </drv>
 
 <drv mrk="tangen.hiperbola0o">
@@ -178,6 +182,12 @@
 </art>
 <!--
 $Log: tangen.xml,v $
+Revision 1.23  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2012/10/23 00:13:59  revo
 Neil Roberts: aldonu la etikedon <var>
 

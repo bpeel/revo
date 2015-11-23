@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: admon.xml,v 1.35 2014/06/04 16:10:35 revo Exp $">
+<art mrk="$Id: admon.xml,v 1.39 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>admon</rad>/i
 </kap>
@@ -183,12 +183,26 @@
     <trd lng="sk">napom&iacute;na&tcaron;</trd>
     <trd lng="sv">f&ouml;rmana</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>domlouvat</trd>,
+    <trd>domluvit</trd>,
+    <trd>nabádat</trd>,
+    <trd>napomínat</trd>,
+    <trd>pobádat</trd>
+  </trdgrp>
   <trd lng="en">admonish</trd>
   <trd lng="es">exhortar</trd>
-  <trd lng="id">[<ind>tegur</ind>] menegur</trd>
+  <trdgrp lng="id">
+    <trd>[<ind>ingat</ind>] memperingatkan</trd>,
+    <trd>[<ind>tegur</ind>] menegur</trd>
+  </trdgrp>
   <trdgrp lng="it">
     <trd>ammonire</trd>, 
     <trd>diffidare</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>napomenúť</trd>,
+    <trd>napomenúť, napomínať</trd>
   </trdgrp>
 </drv>
 
@@ -233,6 +247,11 @@
     <trd>atizadur</trd>,
     <trd>skandal</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>napomenutí</trd>,
+    <trd>upomenutí</trd>,
+    <trd>upomínka</trd>
+  </trdgrp>
   <trd lng="en">admonition</trd>
   <trdgrp lng="fr">
     <trd>exhortation</trd>,
@@ -268,6 +287,7 @@
     <trd>&c_u;&c_v;&c_je;&c_shch;&c_a;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_u;&c_g;&c_o;&c_v;&c_o;&c_r;&c_y;</trd>
   </trdgrp>
+  <trd lng="sk">napomenutie</trd>
 </drv>
 
 <drv mrk="admon.de0i">
@@ -321,6 +341,7 @@
     <trd>dibennadi&ntilde;</trd>,
     <trd>dizalia&ntilde;</trd>
   </trdgrp>
+  <trd lng="cs">zrazovat <klr>(někoho něco udělat)</klr></trd>
   <trdgrp lng="en">
     <trd>dissuade from</trd>,
     <trd>advise against</trd>
@@ -347,6 +368,10 @@
     <trd>zniech&eogonek;ca&cacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_t;&c_g;&c_o;&c_v;&c_a;&c_r;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>odhovárať</trd>,
+    <trd>odrádzať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="admon.Re0o">
@@ -381,6 +406,18 @@
 </art>
 <!--
 $Log: admon.xml,v $
+Revision 1.39  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.38  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.37  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.36  2014/11/14 08:10:15  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.35  2014/06/04 16:10:35  revo
 Eko Nur Syah Hidayat: +id
 
@@ -400,8 +437,5 @@ Revision 1.30  2010/05/21 16:30:33  revo
 Agustin Garcia Lopez: +trd es
 
 Revision 1.29  2009/02/19 20:26:54  revo
-Russ Williams: +trd en
-
-Revision 1.28  2005/08/31 16:31:35  revo
 -->
 </vortaro>

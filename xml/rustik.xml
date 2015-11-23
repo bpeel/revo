@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rustik.xml,v 1.4 2013/04/04 19:10:21 revo Exp $">
+<art mrk="$Id: rustik.xml,v 1.6 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>rustik</rad>/a <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -32,6 +32,13 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bosovaný</trd>,
+    <trd>buranský</trd>,
+    <trd>hrubě opracovaný</trd>,
+    <trd>neotesaný</trd>,
+    <trd>obhroublý</trd>
+  </trdgrp>
   <trd lng="de">rustikal</trd>
   <trd lng="fr">rustique</trd>
   <trdgrp lng="pl">
@@ -42,11 +49,22 @@
     <trd>prosty</trd>,
     <trd>prostaczy</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dedinský</trd>,
+    <trd>rustikálny</trd>,
+    <trd>sedliacky</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: rustik.xml,v $
+Revision 1.6  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2013/04/04 19:10:21  revo
 Sebastian Cyprych: +trd pl
 

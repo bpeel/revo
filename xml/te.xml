@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: te.xml,v 1.29 2014/08/03 13:10:10 revo Exp $">
+<art mrk="$Id: te.xml,v 1.31 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>te</rad>/o
@@ -32,7 +32,10 @@
   <trd lng="be">&c_g;&c_a;&c_r;&c_b;&c_a;&c_t;&c_a;</trd>
   <trd lng="bg">&c_ch;&c_a;&c_j;</trd>
   <trd lng="ca">te</trd>
-  <trd lng="cs">&ccaron;aj</trd>
+  <trdgrp lng="cs">
+    <trd>&ccaron;aj</trd>,
+    <trd>čajovník čínský</trd>
+  </trdgrp>
   <trd lng="de">Tee</trd>
   <trd lng="en">tea</trd>
   <trd lng="es">t&eacute;</trd>
@@ -45,6 +48,7 @@
    <trd>ch&aacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_ch;&c_a;&c_j;</trd>
+  <trd lng="sk">čajovník čínsky</trd>
   <trd lng="sv">te</trd>
   <trd lng="tr">&ccedil;ay</trd>
   <trd lng="zh">&#33590;<klr> [ch&aacute;]</klr></trd>
@@ -78,6 +82,12 @@
 </art>
 <!--
 $Log: te.xml,v $
+Revision 1.31  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.29  2014/08/03 13:10:10  revo
 Agustin Garcia Lopez: +trd(es)
 

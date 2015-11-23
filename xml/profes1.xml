@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: profes1.xml,v 1.16 2013/07/26 10:10:15 revo Exp $">
+  <art mrk="$Id: profes1.xml,v 1.19 2015/10/16 14:10:22 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>profesor</rad>/o
@@ -56,20 +56,32 @@
           nepre evitida. En PIV2 &gcirc;i ne aperas.
           <aut>Sergio Pokrovskij</aut>
         </rim>
+        <trd lng="en">teacher</trd>
         <trd lng="nl">leraar<klr tip="ind"> (ontr.)</klr></trd>
       </snc>
-      <trdgrp lng="fr">
+  <trd lng="cs">profesor</trd>
+  <trdgrp lng="fr">
         <trd>professeur</trd>
       </trdgrp>
-      <trdgrp lng="hu">
+  <trdgrp lng="hu">
         <trd>tan&aacute;r</trd>,
         <trd>professzor</trd>
       </trdgrp>
-      <trd lng="pt">professor <klr>(universit&aacute;rio)</klr></trd>
-    </drv>
+  <trd lng="pt">professor <klr>(universit&aacute;rio)</klr></trd>
+  <trd lng="sk">profesor</trd>
+</drv>
   </art>
   <!--
   $Log: profes1.xml,v $
+  Revision 1.19  2015/10/16 14:10:22  revo
+  Cindy Moon McKee: +trd en
+
+  Revision 1.18  2015/07/04 08:37:42  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.17  2015/06/29 16:40:18  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.16  2013/07/26 10:10:15  revo
   Joop Eggen: +trd bg
 

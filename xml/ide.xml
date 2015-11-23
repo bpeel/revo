@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ide.xml,v 1.27 2013/11/01 02:10:17 revo Exp $">
+<art mrk="$Id: ide.xml,v 1.29 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc> <ofc>1</ofc> <ofc>7</ofc>
   <rad>ide</rad>/o
@@ -72,6 +72,13 @@
     <trd>&c_d;&c_u;&c_m;&c_k;&c_a;</trd>
   </trdgrp>
   <trd lng="bg">&c_i;&c_d;&c_je;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>idea</trd>,
+    <trd>myšlenka</trd>,
+    <trd>nápad</trd>,
+    <trd>pojem</trd>,
+    <trd>představa</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Ahnung</trd>,
     <trd>Vorstellung</trd>,
@@ -98,11 +105,11 @@
     <trd>&c_i;&c_d;&c_je;&c_ja;</trd>,
     <trd>&c_m;&c_y;&c_s;&c_l;&c_mol;</trd>
   </trdgrp>
-  <adm>
-    Necesas apartigi la du sencojn &leftquot;imago&rightquot; kaj 
-    &leftquot;ekpenso&rightquot;.
-    <aut>Wolfram Diestel</aut>
-  </adm>
+  <trdgrp lng="sk">
+    <trd>idea</trd>,
+    <trd>predstava</trd>,
+    <trd>základná myšlienka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ide.0a">
@@ -125,8 +132,12 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_ib;&c_d;&c_e;&c_j;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>ideový</trd>,
+    <trd>myšlenkový</trd>
+  </trdgrp>
   <trd lng="de">ideell</trd>
-  <trd lng="es">ideal <klr tip="amb">(relativo a la idea)</klr></trd> 
+  <trd lng="es">ideal <klr tip="amb">(relativo a la idea)</klr></trd>
   <trd lng="fr">id&eacute;al<klr tip="ind"> (relatif aux
 id&eacute;es)</klr></trd>
   <trd lng="hu">eszmei</trd>
@@ -139,6 +150,7 @@ id&eacute;es)</klr></trd>
   <trd lng="pt">ideal<klr tip="amb"> (relativo a id&eacute;ia;
 adj.)</klr></trd>
   <trd lng="ru">&c_i;&c_d;&c_je;&c_j;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">myšlienkový</trd>
 </drv>
 
 <drv mrk="ide.0aro">
@@ -170,16 +182,24 @@ adj.)</klr></trd>
       <ref cel="doktri.0o.FIL">doktrino</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>ideologie</trd>,
+    <trd>souhrn myšlenek</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>ideario</trd>,
     <trd>ideolog&iacute;a</trd>
-  </trdgrp> 
+  </trdgrp>
   <trd lng="fr">id&eacute;ologie</trd>
   <trd lng="it">ideologia</trd>
   <trdgrp lng="pl">
     <trd>idea&lstroke;y</trd>,
     <trd>ideologia</trd>
-  </trdgrp>  
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ideológia</trd>,
+    <trd>súhrn myšlienok</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ide.0ismo">
@@ -209,7 +229,8 @@ adj.)</klr></trd>
   </snc>
   <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_m; 
   <klr>(&c_f;&c_ib;&c_l;&c_ja;&c_z;.)</klr></trd>
-  <trd lng="es">idealismo</trd> 
+  <trd lng="cs">idealizmus</trd>
+  <trd lng="es">idealismo</trd>
   <trd lng="fr">id&eacute;alisme<klr tip="ind"> (phil.)</klr></trd>
   <trd lng="hu">idealizmus</trd>
   <trd lng="it">idealismo<klr> (fil.)</klr></trd>
@@ -217,6 +238,10 @@ adj.)</klr></trd>
   <trd lng="pl">idealizm<klr> (filozoficzny)</klr></trd>
   <trd lng="ru">&c_i;&c_d;&c_je;&c_a;&c_l;&c_i;&c_z;&c_m; 
   <klr>(&c_f;&c_i;&c_l;&c_o;&c_s;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>idealizmus</trd>,
+    <trd>nadšenie pre ideály</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ide.0isto">
@@ -229,7 +254,8 @@ adj.)</klr></trd>
   </snc>
   <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;&c_ib;&c_s;&c_t; 
   <klr>(&c_f;&c_ib;&c_l;&c_ja;&c_z;.)</klr></trd>
-  <trd lng="es">idealista</trd> 
+  <trd lng="cs">idealista</trd>
+  <trd lng="es">idealista</trd>
   <trd lng="fr">id&eacute;aliste<klr tip="ind"> (phil.)</klr></trd>
   <trd lng="hu">idealista</trd>
   <trd lng="it">idealista<klr> (fil.)</klr></trd>
@@ -237,6 +263,7 @@ adj.)</klr></trd>
   <trd lng="pl">idealista<klr> (wyznawca idealizmu)</klr></trd>
   <trd lng="ru">&c_i;&c_d;&c_je;&c_a;&c_l;&c_i;&c_s;&c_t; 
   <klr>(&c_f;&c_i;&c_l;&c_o;&c_s;.)</klr></trd>
+  <trd lng="sk">idealista</trd>
 </drv>
 
 <drv mrk="ide.sam0ano">
@@ -275,6 +302,10 @@ adj.)</klr></trd>
     <trd>&c_a;&c_d;&c_n;&c_a;&c_d;&c_u;&c_m;&c_c;&c_a;</trd>,
     <trd>&c_a;&c_d;&c_n;&c_a;&c_m;&c_y;&c_s;&c_mol;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>samideán</trd>,
+    <trd>čl. stejné myšlenky</trd>
+  </trdgrp>
   <trd lng="de">Gleichgesinnter</trd>
   <trd lng="fr">partisan<klr tip="ind"> (d'un mouvement d'id&eacute;es, de
   l'esp&eacute;ranto)</klr></trd>
@@ -283,6 +314,7 @@ adj.)</klr></trd>
   <klr> (tytu&lstroke; u&zdot;ywany mi&eogonek;dzy esperantystami)
   </klr></trd>
   <trd lng="ru">&c_je;&c_d;&c_i;&c_n;&c_o;&c_m;&c_y;&c_sh;&c_l;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">samideán <klr>(stúpenec tej istej myšlienky)</klr></trd>
 </drv>
 
 <drv mrk="ide.fiksa0o">
@@ -304,7 +336,13 @@ adj.)</klr></trd>
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>fixní idea</trd>,
+    <trd>idée fixe</trd>,
+    <trd>utkvělá myšlenka</trd>
+  </trdgrp>
   <trd lng="fr">id&eacute;e fixe</trd>
+  <trd lng="sk">fixná idea</trd>
 </drv>
 <adm>
   Aldonendas drv pri la Interna Ideo.
@@ -313,6 +351,12 @@ adj.)</klr></trd>
 </art>
 <!--
 $Log: ide.xml,v $
+Revision 1.29  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.27  2013/11/01 02:10:17  revo
 Jeromo Vasxe: + fiksa ~o
 

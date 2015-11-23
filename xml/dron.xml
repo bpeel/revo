@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: dron.xml,v 1.23 2012/04/07 13:10:07 revo Exp $">
+  <art mrk="$Id: dron.xml,v 1.26 2015/10/30 11:10:23 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>dron</rad>/i
@@ -151,27 +151,33 @@
           <trd>drunkna</trd>
         </trdgrp>
       </snc>
-      <trdgrp lng="be">
+  <trdgrp lng="be">
         <trd>&c_t;&c_a;&c_n;&c_u;&c_c;&c_mol;</trd>,
         <trd>&c_p;&c_a;&c_t;&c_a;&c_n;&c_a;&c_c;&c_mol;</trd>
       </trdgrp>
-      <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>tonout</trd>,
+    <trd>topit se</trd>,
+    <trd>utopit se</trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>ertrinken</trd>,
         <trd>untergehen</trd>
       </trdgrp>
-      <trd lng="en">drown</trd>
-      <trdgrp lng="fr">
+  <trd lng="en">drown</trd>
+  <trdgrp lng="fr">
         <trd>couler<klr tip="ind"> (sombrer)</klr></trd>,
         <trd>faire <ind>naufrage</ind></trd>,
         <trd>se <ind>noyer</ind></trd>,
         <trd>sombrer<klr tip="ind"> (couler)</klr></trd>
       </trdgrp>
-      <trdgrp lng="ru">
+  <trdgrp lng="ru">
         <trd>&c_t;&c_o;&c_n;&c_u;&c_t;&c_mol;</trd>,
         <trd>&c_u;&c_t;&c_o;&c_n;&c_u;&c_t;&c_mol;</trd>,
         <trd>&c_u;&c_t;&c_o;&c_p;&c_a;&c_t;&c_mol;</trd>
       </trdgrp>
-    </drv>
+  <trd lng="sk">topi&tcaron; sa</trd>
+</drv>
 
     <drv mrk="dron.0igi">
       <kap><tld/>igi</kap>
@@ -192,6 +198,7 @@
           <ref cel="fund">alfundigi</ref>,
           <ref cel="abism">enabismigi</ref>.
         </refgrp>
+        <trdgrp lng="en"><trd>to drown</trd>, <trd>sink</trd></trdgrp>
         <trd lng="hu">v&iacute;zbe <ind>fojt</ind></trd>
         <trdgrp lng="pl">
           <trd>topi&cacute;</trd>,
@@ -217,6 +224,10 @@
             luksegaj &gcirc;ardenoj.
           </ekz>
         </dif>
+        <trdgrp lng="en">
+          <trd>to submerge</trd>,
+          <trd>immerse</trd>, <trd>to drown in</trd>
+        </trdgrp>
         <trdgrp lng="hu">
           <trd>s&uuml;llyeszt</trd>,
           <trd>belem&eacute;lyeszt</trd>
@@ -238,35 +249,41 @@
             la ribelo estis <tld/>igita en sango.
           </ekz>
         </dif>
+        <trd lng="en">to drown out</trd>
         <trdgrp lng="hu">
           <trd>elfojt</trd>,
           <trd>megfojt</trd>
         </trdgrp>
         <trd lng="pl">topi&cacute;</trd>
       </snc>
-      <trdgrp lng="be">
+  <trdgrp lng="be">
         <trd>&c_t;&c_a;&c_p;&c_ib;&c_c;&c_mol;</trd>,
         <trd>&c_u;&c_t;&c_a;&c_p;&c_ib;&c_c;&c_mol;</trd>
       </trdgrp>
-      <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>topit</trd>,
+    <trd>utopit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>ertr&auml;nken</trd>,
         <trd>tauchen</trd>,
         <trd>tunken</trd>,
         <trd>untertunken</trd>,
         <trd>eintunken</trd>
       </trdgrp>
-      <trdgrp lng="fr">
+  <trdgrp lng="fr">
         <trd>couler<klr tip="ind"> (faire sombrer)</klr></trd>,
         <trd>faire <ind>sombrer</ind></trd>,
         <trd>noyer</trd>,
         <trd>plonger<klr tip="ind"> (qc dans qc)</klr></trd>
       </trdgrp>
-      <trdgrp lng="ru">
+  <trdgrp lng="ru">
         <trd>&c_t;&c_o;&c_p;&c_i;&c_t;&c_mol;</trd>,
         <trd>&c_u;&c_t;&c_o;&c_p;&c_i;&c_t;&c_mol;</trd>
       </trdgrp>
-      <trd lng="sv">dr&auml;nka</trd>
-    </drv>
+  <trd lng="sk">utopi&tcaron;</trd>
+  <trd lng="sv">dr&auml;nka</trd>
+</drv>
 
     <drv mrk="dron.sin0igi">
       <kap>sin <tld/>igi</kap>
@@ -289,6 +306,7 @@
         <trd>&c_u;&c_t;&c_a;&c_p;&c_ib;&c_c;&c_c;&c_a;</trd>
       </trdgrp>
       <trd lng="de">sich <ind>ertr&auml;nken</ind></trd>
+      <trd lng="en">to drown oneself</trd>
       <trd lng="fr">se <ind>noyer</ind><klr tip="ind"> (se tuer par
           noyade)</klr></trd>
       <trd lng="hu">v&iacute;zbe &ouml;li mag&aacute;t</trd>
@@ -311,10 +329,22 @@
         <trd lng="de">Ertrunkener</trd>
         <trd lng="pl">topielec</trd>
       </snc>
-    </drv>
+  <trd lng="cs">utopenec</trd>
+  <trd lng="en">drowned one</trd>
+  <trd lng="sk">utopenec</trd>
+</drv>
   </art>
   <!--
   $Log: dron.xml,v $
+  Revision 1.26  2015/10/30 11:10:23  revo
+  Cindy Moon McKee: +trd en
+
+  Revision 1.25  2015/07/04 08:37:32  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.24  2015/06/29 16:29:37  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.23  2012/04/07 13:10:07  revo
   Tulio Flores: korekto de voro pt
 

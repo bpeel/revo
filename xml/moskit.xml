@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: moskit.xml,v 1.16 2014/10/23 17:10:13 revo Exp $">
+<art mrk="$Id: moskit.xml,v 1.19 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>moskit</rad>/o
@@ -10,8 +10,8 @@
 </kap>
 <drv mrk="moskit.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">ZOO</uzo>
   <snc>
+  <uzo tip="fak">ZOO</uzo>
     <dif>
       Iu el la tropikaj specioj de la familio
       <ref tip="super" cel="kuled.0oj">kuledoj</ref>.
@@ -19,9 +19,11 @@
   </snc>
   <trd lng="be">&c_m;&c_a;&c_s;&c_k;&c_ib;&c_t;</trd>
   <trd lng="bg">&c_k;&c_o;&c_m;&c_a;&c_r;</trd>
+  <trd lng="cs">moskyt</trd>
   <trd lng="de">Moskito</trd>
   <trd lng="en">mosquito</trd>
   <trd lng="es">mosquito (familia cul&iacute;cidos)</trd>
+  <trd lng="fr">moustique</trd>
   <trd lng="hu">moszkit&oacute;</trd>
   <trd lng="nl">muskiet</trd>
   <trdgrp lng="pt">
@@ -30,10 +32,20 @@
     <trd>pernilongo</trd>    
   </trdgrp>
   <trd lng="ru">&c_m;&c_o;&c_s;&c_k;&c_i;&c_t;</trd>
+  <trd lng="sk">moskyt</trd>
 </drv>
 </art>
 <!--
 $Log: moskit.xml,v $
+Revision 1.19  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/12/10 09:10:38  revo
+Damien Brucker: +trd fr
+
 Revision 1.16  2014/10/23 17:10:13  revo
 Guillermo Molleda Jimena: trd es
 
@@ -53,8 +65,5 @@ Revision 1.11  2002/09/18 16:33:43  revo
 Christopher Zervic: trd ang
 
 Revision 1.10  2002/07/05 17:35:20  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2001/11/28 19:05:01  revo
 -->
 </vortaro>

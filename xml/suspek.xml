@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: suspek.xml,v 1.16 2009/10/08 16:31:43 revo Exp $">
+<art mrk="$Id: suspek.xml,v 1.18 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>suspekt</rad>/i <fnt><bib>PV</bib></fnt>
@@ -65,6 +65,10 @@
       <trd>veronderstellen</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>podezírat</trd>,
+    <trd>podezřívat</trd>
+  </trdgrp>
   <trd lng="en">suspect</trd>
   <trdgrp lng="fr">
     <trd>soup&ccedil;onner</trd>,
@@ -77,6 +81,7 @@
     <trd>desconfiar de</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_o;&c_z;&c_r;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">podozrievať</trd>
 </drv>
 
 <drv mrk="suspek.0a">
@@ -107,12 +112,17 @@
     <trd>diffidente</trd>
   </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>budící podezření</trd>,
+    <trd>podezřelý</trd>
+  </trdgrp>
   <trd lng="de">verd&auml;chtig</trd>
   <trd lng="en">suspicious</trd>
   <trd lng="hu">gyan&uacute;s</trd>
   <trd lng="nl">verdacht</trd>
   <trd lng="pt">suspeito<klr tip="ind"> (adj.)</klr></trd>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_o;&c_z;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">podozrivý</trd>
 </drv>
 
 <drv mrk="suspek.0ema">
@@ -122,6 +132,7 @@
       Facile <tld/>anta.
     </dif>
   </snc>
+  <trd lng="cs">podezíravý</trd>
   <trdgrp lng="de">
     <trd>argw&ouml;hnisch</trd>,
     <trd>misstrauisch</trd>
@@ -141,6 +152,7 @@
   <trd lng="ru">&c_p;&c_o;&c_d;&c_o;&c_z;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
 <klr tip="amb">(&c_s;&c_k;&c_l;&c_o;&c_n;&c_n;&c_y;&c_j; &c_k;
   &c_p;&c_o;&c_d;&c_o;&c_z;&c_r;&c_je;&c_n;&c_i;&c_ju;)</klr></trd>
+  <trd lng="sk">podozrievavý</trd>
 </drv>
 
 <drv mrk="suspek.0inda">
@@ -158,18 +170,20 @@ pro tio li
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">podezřelý</trd>
   <trd lng="de">verd&auml;chtig</trd>
   <trd lng="fr">suspect<klr> (adj.)</klr></trd>
-  <trd lng="it">sospettabile</trd>
   <trdgrp lng="hu">
     <trd>gyan&uacute;s</trd>,
     <trd>gyan&uacute;s&iacute;that&oacute;</trd>
   </trdgrp>
+  <trd lng="it">sospettabile</trd>
   <trd lng="nl">verdacht</trd>
   <trd lng="pt">suspeito<klr tip="ind"> (adj.)</klr></trd>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_o;&c_z;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
 <klr tip="amb">(&c_k;&c_o;&c_t;&c_o;&c_r;&c_o;&c_g;&c_o;
   &c_p;&c_o;&c_d;&c_o;&c_z;&c_r;&c_je;&c_v;&c_a;&c_ju;&c_t;)</klr></trd>
+  <trd lng="sk">podozrivý</trd>
 </drv>
 
 <drv mrk="suspek.0iga">
@@ -215,6 +229,7 @@ malgrandan <tld/>on,
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">podezření</trd>
   <trd lng="en">suspicion</trd>
   <trdgrp lng="fr">
     <trd>m&eacute;fiance</trd>,
@@ -222,10 +237,17 @@ malgrandan <tld/>on,
   </trdgrp>
   <trd lng="it">sospetto<klr> (sost.)</klr></trd>
   <trd lng="pt">suspeita<klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="sk">podozrenie</trd>
 </drv>
 </art>
 <!--
 $Log: suspek.xml,v $
+Revision 1.18  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:25  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2009/10/08 16:31:43  revo
 Antonio Codazzi: +trd it
 

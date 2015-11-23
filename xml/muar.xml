@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: muar.xml,v 1.10 2014/04/10 16:10:51 revo Exp $">
+<art mrk="$Id: muar.xml,v 1.12 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>muar</rad>/i
 </kap>
@@ -18,6 +18,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">dát vodový lesk</trd>
   <trd lng="de">moirieren</trd>
   <trd lng="fr">moirer</trd>
   <trdgrp lng="hu">
@@ -29,6 +30,7 @@
     <trd>achamalotar</trd>,
     <trd>ondear <klr tip="amb">(um tecido, um metal)</klr></trd>    
   </trdgrp>
+  <trd lng="sk">dať niečomu vodový lesk</trd>
 </drv>
 
 <drv mrk="muar.0a">
@@ -51,6 +53,12 @@
 </art>
 <!--
 $Log: muar.xml,v $
+Revision 1.12  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2014/04/10 16:10:51  revo
 Damien Brucker: +trd fr
 

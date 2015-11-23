@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: anakro.xml,v 1.15 2003/11/05 17:30:33 revo Exp $">
+<art mrk="$Id: anakro.xml,v 1.17 2015/10/14 13:10:28 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>anakronism</rad>/o
@@ -26,17 +26,25 @@
     <trd lng="de">Anachronismus</trd>
   </snc>
   <trd lng="be">&c_a;&c_n;&c_a;&c_h;&c_r;&c_a;&c_n;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="cs">anachronizmus</trd>
   <trd lng="en">anachronism</trd>
   <trd lng="es">anacronismo</trd>
   <trd lng="fr">anachronisme</trd>
   <trd lng="hu">anakronizmus</trd>
   <trd lng="nl">anachronisme</trd>
+  <trd lng="pl">anachronizm</trd>
   <trd lng="ru">&c_a;&c_n;&c_a;&c_h;&c_r;&c_o;&c_n;&c_i;&c_z;&c_m;</trd>
   <trd lng="sk">anachronizmus</trd>
 </drv>
 </art>
 <!--
 $Log: anakro.xml,v $
+Revision 1.17  2015/10/14 13:10:28  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.15  2003/11/05 17:30:33  revo
 Dmitri Gabinski: +trd be
 
@@ -53,11 +61,5 @@ Revision 1.11  2002/09/07 17:40:46  revo
 Viliam Bur: +sk trd
 
 Revision 1.10  2002/05/09 18:44:34  revo
-Alejandro Mejia Greene: ald his trd
-
-Revision 1.9  2002/02/23 19:48:55  revo
-Yury Finkel: formatigis
-
-Revision 1.8 2001/08/03 18:12:19 revo
 -->
 </vortaro>

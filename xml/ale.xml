@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ale.xml,v 1.19 2012/07/20 13:10:15 revo Exp $">
+<art mrk="$Id: ale.xml,v 1.21 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>ale</rad>/o
@@ -50,6 +50,10 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_l;&c_je;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>alej</trd>,
+    <trd>stromořadí</trd>
+  </trdgrp>
   <trd lng="de">Allee</trd>
   <trd lng="es">alameda</trd>
   <trd lng="fr">all&eacute;e</trd>
@@ -59,11 +63,20 @@
     <trd>al&eacute;ia</trd>
   </trdgrp>
   <trd lng="ru">&c_a;&c_l;&c_l;&c_je;&c_ja;</trd>
-  <trd lng="sk">aleja</trd>
+  <trdgrp lng="sk">
+    <trd>aleja</trd>,
+    <trd>stromoradie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ale.xml,v $
+Revision 1.21  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2012/07/20 13:10:15  revo
 Marc Rausell: + trd ca
 

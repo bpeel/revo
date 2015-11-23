@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tuj.xml,v 1.25 2014/07/14 08:10:13 revo Exp $">
+<art mrk="$Id: tuj.xml,v 1.28 2015/07/04 08:37:45 revo Exp $">
 <kap>
    <ofc>*</ofc>
-   <rad>tuj</rad>
+   <rad>tuj</rad> <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="tuj.0">
    <kap><ofc>*</ofc><tld/></kap>
@@ -120,36 +120,50 @@
 &c_m;&c_je;&c_s;&c_t;&c_je;)</klr></trd>
      </trdgrp>
    </snc>
-   <trd lng="bg">&c_v;&c_je;&c_d;&c_n;&c_a;&c_g;&c_a;</trd>
-   <trd lng="cs">hned</trd>
-   <trdgrp lng="de">
+  <trd lng="bg">&c_v;&c_je;&c_d;&c_n;&c_a;&c_g;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>bezodkladně</trd>,
+    <trd>hned</trd>,
+    <trd>ihned</trd>,
+    <trd>neprodleně</trd>,
+    <trd>obratem</trd>,
+    <trd>okamžitě</trd>
+  </trdgrp>
+  <trdgrp lng="de">
      <trd>sofort</trd>,
      <trd>unmittelbar</trd>,
      <trd>gleich</trd>
    </trdgrp>
-   <trd lng="en">immediately</trd>
-   <trd lng="es">inmediatamente</trd>
-   <trdgrp lng="fr">
+  <trd lng="en">immediately</trd>
+  <trd lng="es">inmediatamente</trd>
+  <trdgrp lng="fr">
      <trd>aussit&ocirc;t</trd>,
      <trd>tout de suite</trd>,
      <trd>imm&eacute;diatement</trd>,
      <trd>juste <klr>(lieu)</klr></trd>
    </trdgrp>
-   <trdgrp lng="nl">
+  <trdgrp lng="nl">
      <trd>onmiddellijk</trd>,
      <trd>dadelijk</trd>,
      <trd>meteen</trd>
    </trdgrp>
-   <trdgrp lng="pl">
+  <trdgrp lng="pl">
      <trd>natychmiast</trd>,
      <trd>zaraz</trd>,
    </trdgrp>
-   <trdgrp lng="ro">
+  <trdgrp lng="ro">
      <trd>imediat</trd>,
      <trd>&icirc;ndat&abreve;</trd>,
      <trd>numaidec&acirc;t</trd>
    </trdgrp>
-   <trdgrp lng="tr">
+  <trdgrp lng="sk">
+    <trd>hneď</trd>,
+    <trd>ihneď</trd>,
+    <trd>obratom</trd>,
+    <trd>okamžite</trd>,
+    <trd>zaraz</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
      <trd>hemen </trd>,
      <trd>&ccedil;ar &ccedil;abuk</trd>
    </trdgrp>
@@ -157,7 +171,7 @@
 
 <drv mrk="tuj.0a">
    <kap><tld/>a</kap>
-   <snc>
+   <snc mrk="tuj.0a.KOMUNE">
      <dif>
        <tld lit="T"/> okazonta, <tld/> fari&gcirc;onta, senprokrasta:
        <ekz>
@@ -166,28 +180,54 @@
        </ekz>
      </dif>
    </snc>
-   <trd lng="be">&c_n;&c_je;&c_a;&c_d;&c_k;&c_l;&c_a;&c_d;&c_n;&c_y;</trd>
-   <trdgrp lng="de">
+  <trd lng="be">&c_n;&c_je;&c_a;&c_d;&c_k;&c_l;&c_a;&c_d;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>bezodkladný</trd>,
+    <trd>okamžitý</trd>
+  </trdgrp>
+  <trdgrp lng="de">
      <trd>sofortig</trd>,
      <trd>unmittelbar</trd>
    </trdgrp>
-   <trdgrp lng="fi">
+  <trdgrp lng="fi">
      <trd>pikainen</trd>,
      <trd>pika-</trd>,
      <trd>heti tapahtuva</trd>
   </trdgrp>
-   <trd lng="fr">imm&eacute;diat</trd>
-   <trdgrp lng="hu">
+  <trd lng="fr">imm&eacute;diat</trd>
+  <trdgrp lng="hu">
      <trd>azonnali</trd>,
      <trd>k&ouml;zvetlen</trd>
    </trdgrp>
-   <trd lng="nl">onmiddellijk</trd>
-   <trdgrp lng="pl">
+  <trd lng="nl">onmiddellijk</trd>
+  <trdgrp lng="pl">
      <trd>bezzw&lstroke;oczny</trd>,
      <trd>natychmiastowy</trd>,
    </trdgrp>
-   <trd
-lng="ru">&c_n;&c_je;&c_m;&c_je;&c_d;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="ru">&c_n;&c_je;&c_m;&c_je;&c_d;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">okamžitý</trd>
+</drv>
+
+<drv mrk="tuj.00">
+  <kap><tld/><tld/>,
+  <var><kap><tld/><tld/>e</kap></var></kap>
+  <snc mrk="tuj.00.KOMUNE">
+    <dif>
+      Sen e&ccirc; plej eta atendo:
+      <ekz>
+        <tld/><tld/> ni ekbruligis la fuzeon de longa vico 
+        de artfajra&jcirc;oj
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">bez prodlení</trd>
+  <trd lng="fr">sur le champ</trd>
+  <trd lng="sk">bez oneskorenia</trd>
 </drv>
 
 <drv mrk="tuj.pret0a">
@@ -244,6 +284,15 @@ tip="amb">(&c_o; &c_je;&c_d;&c_je;)</klr></trd>
 </art>
 <!--
 $Log: tuj.xml,v $
+Revision 1.28  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2014/12/17 00:11:25  revo
+Jeromo Vasxe: + ~~
+
 Revision 1.25  2014/07/14 08:10:13  revo
 Guillermo Molleda Jimena: Hispana tradukado
 
@@ -263,8 +312,5 @@ Revision 1.20  2005/01/12 18:20:42  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.19  2004/11/30 17:31:22  revo
-Jeromo Vasxe: - () en ~(pret)a, + 1 trd fr, + kk fnt
-
-Revision 1.18 2004/04/19 16:58:09 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: pregx.xml,v 1.25 2014/05/31 16:10:17 revo Exp $">
+  <art mrk="$Id: pregx.xml,v 1.28 2015/10/27 20:10:12 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>pre&gcirc;</rad>/i
@@ -56,6 +56,12 @@
       <trd lng="ca">pregar</trd>
       <trd lng="de">beten</trd>
       <trd lng="en">pray</trd>
+      <trd lng="es">rezar</trd>
+      <trdgrp lng="fa">
+        <trd>&a_d;&a_ayn;&a_A; &f_k;&a_r;&a_d;&a_n;</trd>,
+        <trd>&a_n;&f_y;&a_A;&f_y;&a_sh; &f_k;&a_r;&a_d;&a_n;</trd>,
+        <trd>&a_n;&a_m;&a_A;&a_z; &a_kh;&a_w;&a_A;&a_n;&a_d;&a_n;</trd>
+      </trdgrp>
       <trd lng="fr">prier</trd>
       <trd lng="hu">im&aacute;dkozik</trd>
       <trdgrp lng="id">
@@ -91,6 +97,13 @@
       </snc>
       <trd lng="ca">preg&agrave;ria</trd>
       <trd lng="en">prayer</trd>
+      <trd lng="es">oraci&oacute;n</trd>
+      <trdgrp lng="fa">
+        <trd>&a_d;&a_ayn;&a_A;</trd>,
+        <trd>&a_n;&f_y;&a_A;&f_y;&a_sh;</trd>,
+        <trd>&a_n;&a_m;&a_A;&a_z;</trd>
+      </trdgrp>
+      <trd lng="fr">pri&egrave;re</trd>
       <trd lng="nl">gebed</trd>
       <trd lng="ru">&c_m;&c_o;&c_l;&c_i;&c_t;&c_v;&c_a;</trd>
     </drv>
@@ -144,6 +157,10 @@
       </trdgrp>
       <trd lng="en">church</trd>
       <trd lng="es">iglesia</trd>
+      <trdgrp lng="fa">
+        <trd>&a_ayn;&a_b;&a_A;&a_d;&a_t;&f_g;&a_A;&a_h;</trd>,
+        <trd>&a_m;&a_ayn;&a_b;&a_d;</trd>
+      </trdgrp>
       <trd lng="fr">&eacute;glise</trd>
       <trd lng="hu">templom</trd>
       <trd lng="id">gereja</trd>
@@ -175,6 +192,7 @@
       <trd lng="ca">capella</trd>
       <trd lng="en"><klr tip="amb">(private)
       </klr><ind>oratory</ind></trd>
+      <trd lng="es">capilla</trd>
       <trdgrp lng="fr">
         <trd>chapelle priv&eacute;e</trd>,
         <trd>oratoire</trd>
@@ -204,6 +222,8 @@
       <ref tip="vid" cel="rit.0libro">ritlibro</ref>
       <trd lng="ca">devocionari</trd>
       <trd lng="en">prayer-book</trd>
+      <trd lng="es">breviario</trd>
+      <trd lng="fa">&f_k;&a_t;&a_A;&a_b; &a_d;&a_ayn;&a_A;</trd>
       <trdgrp lng="fr">
         <trd>br&eacute;viaire</trd>,
         <trd>livre de pri&egrave;re</trd>
@@ -217,6 +237,15 @@
   </art>
   <!--
   $Log: pregx.xml,v $
+  Revision 1.28  2015/10/27 20:10:12  revo
+  Guillermo Molleda Jimena: trd es
+
+  Revision 1.27  2015/06/28 10:10:15  revo
+  Behnam Tabatabai: +trd fa
+
+  Revision 1.26  2014/12/05 14:10:17  revo
+  Damien Brucker: +trd fr
+
   Revision 1.25  2014/05/31 16:10:17  revo
   Eko Nur Syah Hidayat: +id
 

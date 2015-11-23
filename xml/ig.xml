@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ig.xml,v 1.23 2014/05/01 08:10:34 revo Exp $">
+<art mrk="$Id: ig.xml,v 1.25 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   -<rad>ig</rad>/
@@ -833,7 +833,17 @@ Radiko samsignifa uzata memstare.
       <klr>(&c_ch;&c_t;&c_o;-&c_l;.
       &c_s;&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol;)</klr></trd>
     </trdgrp>
-  </drv>
+    <trdgrp lng="sk">
+    <trd>robiť niečo nejakým</trd>,
+    <trd>učiniť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>přimět</trd>,
+    <trd>svést</trd>,
+    <trd>učinit</trd>,
+    <trd>činit něco nějakým</trd>
+  </trdgrp>
+</drv>
   <drv mrk="ig.0e">
     <kap>ige</kap>
     <dif>
@@ -861,6 +871,12 @@ Radiko samsignifa uzata memstare.
 </art>
 <!--
 $Log: ig.xml,v $
+Revision 1.25  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2014/05/01 08:10:34  revo
 Damien Brucker: +gra
 

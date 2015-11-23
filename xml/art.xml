@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: art.xml,v 1.46 2014/06/26 15:10:20 revo Exp $">
+<art mrk="$Id: art.xml,v 1.50 2015/09/17 03:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>art</rad>/o <fnt><bib>PV</bib></fnt>
@@ -93,10 +93,15 @@
     <trd>sztuka</trd>,
     <trd>kunszt</trd>
   </trdgrp>
+  <trd lng="pt">arte</trd>
   <trd lng="ro">art&abreve;</trd>
   <trd lng="ru">&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>
   <trd lng="sk">umenie</trd>
   <trd lng="sv">konst</trd>
+  <trdgrp lng="cs">
+    <trd>kum&scaron;t</trd>,
+    <trd>um&ecaron;n&iacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="art.0a">
@@ -164,10 +169,18 @@
     <trd>&c_u;&c_m;&c_je;&c_l;&c_y;</trd>,
     <trd>&c_m;&c_a;&c_j;&c_s;&c_t;&c_e;&c_r;&c_s;&c_k;&c_ib;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>syntetick&yacute;</trd>,
+    <trd>um&ecaron;l&yacute;</trd>
+  </trdgrp>
   <trd lng="de">Kunst-</trd>
   <trd lng="hu">m&udblac;v&eacute;szeti</trd>
   <trd lng="ro">artistic</trd>
   <trd lng="ru">&c_i;&c_s;&c_k;&c_u;&c_s;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>syntetick&yacute;</trd>,
+    <trd>umel&yacute;, syntetick&yacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="art.0ajxo">
@@ -228,6 +241,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>artistnost</trd>,
+    <trd>artizmus</trd>,
+    <trd>formalizmus</trd>,
+    <trd>lartpourlartizmus</trd>
+  </trdgrp>
   <trd lng="de">Kunstsinn</trd>
   <trd lng="fr">sens artistique</trd>
   <trd lng="hu">m&udblac;&eacute;rz&eacute;k</trd>
@@ -239,6 +258,7 @@
     <trd>&c_h;&c_u;&c_d;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y; &c_j; &c_v;&c_k;&c_u;&c_s;</trd>,
     <trd>&c_p;&c_o;&c_n;&c_i;&c_m;&c_a;&c_n;&c_i;&c_je; &c_i;&c_s;&c_k;&c_u;&c_s; &c_s;&c_t;&c_v;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">jemnocit pre kr&aacute;su</trd>
 </drv>
 
 <drv mrk="art.0isto">
@@ -259,6 +279,11 @@
     <trd>&c_d;&c_z;&c_je;&c_ja;&c_ch; &c_k;&c_u;&c_l;&c_mol;&c_t;&c_u;&c_r;&c_y;</trd>
   </trdgrp>
   <trd lng="ca">artista</trd>
+  <trdgrp lng="cs">
+    <trd>artista</trd>,
+    <trd>kum&scaron;t&yacute;&rcaron;</trd>,
+    <trd>um&ecaron;lec</trd>
+  </trdgrp>
   <trd lng="de">K&uuml;nstler</trd>
   <trd lng="fr">artiste</trd>
   <trd lng="hu">m&udblac;v&eacute;sz</trd>
@@ -291,6 +316,10 @@
   </snc>
   <trd lng="be">&c_sh;&c_t;&c_u;&c_ch;&c_n;&c_y;</trd>
   <trd lng="ca">artificial</trd>
+  <trdgrp lng="cs">
+    <trd>syntetick&yacute;</trd>,
+    <trd>um&ecaron;l&yacute;</trd>
+  </trdgrp>
   <trd lng="de">k&uuml;nstlich</trd>
   <trd lng="fr">artificiel</trd>
   <trd lng="hu">mesters&eacute;ges</trd>
@@ -302,7 +331,10 @@
   <trd lng="pl">sztuczny</trd>
   <trd lng="ro">artificial</trd>
   <trd lng="ru">&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
-  <trd lng="sk">umel&yacute;</trd>
+  <trdgrp lng="sk">
+    <trd>syntetick&yacute;</trd>,
+    <trd>umel&yacute;</trd>
+  </trdgrp>
   <trd lng="sv">konstgjord</trd>
 </drv>
 
@@ -377,6 +409,10 @@
     </dif>
   </snc>
   <trd lng="ca">belles <ind>arts</ind></trd>
+  <trdgrp lng="cs">
+    <trd>kr&aacute;sn&eacute; um&ecaron;n&iacute;</trd>,
+    <trd>v&yacute;tvarn&eacute; um&ecaron;n&iacute;</trd>
+  </trdgrp>
   <trd lng="de">Sch&ouml;ne K&uuml;nste</trd>
   <trd lng="fr">beaux-arts</trd>
   <trd lng="hu">sz&eacute;pm&udblac;v&eacute;szet</trd>
@@ -386,6 +422,10 @@
   <trdgrp lng="ru">
     <trd>&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_i;&c_z;&c_ja;&c_shch;&c_n;&c_o;&c_je; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>v&yacute;tvarn&eacute; umenie</trd>,
+    <trd>v&yacute;tvarn&iacute;ctvo</trd>
   </trdgrp>
 </drv>
 
@@ -432,6 +472,7 @@
     </dif>
   </snc>
   <trd lng="ca">dansa</trd>
+  <trd lng="cs">tane&ccaron;n&iacute; um&ecaron;n&iacute;</trd>
   <trd lng="de">Tanzkunst</trd>
   <trd lng="fr">danse<klr> (art)</klr></trd>
   <trd lng="hu">t&aacute;ncm&udblac;v&eacute;szet</trd>
@@ -443,6 +484,7 @@
     <trd>&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o; &c_t;&c_a;&c_n;&c_c;&c_a;</trd>,
     <trd>&c_h;&c_o;&c_r;&c_je;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ja;</trd>
   </trdgrp>
+  <trd lng="sk">tane&ccaron;n&eacute; umenie</trd>
 </drv>
 
 <drv mrk="art.desegn0o">
@@ -481,6 +523,7 @@
       <fnt><bib>Plumamikoj</bib>, <lok>dramoj en esperanto</lok></fnt>.
     </ekz>
   </snc>
+  <trd lng="cs">dramatick&eacute; um&ecaron;n&iacute;</trd>
   <trdgrp lng="fr">
     <trd>art dramatique</trd>,
     <trd>th&eacute;&acirc;tre<klr tip="amb"> (art dramatique)</klr>
@@ -503,6 +546,7 @@
     <trd>&c_t;&c_je;&c_a;&c_t;&c_r;<klr tip="amb"> (&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;)</klr>
     </trd>
   </trdgrp>
+  <trd lng="sk">dramatick&eacute; umenie</trd>
 </drv>
 
 <drv mrk="art.fot0o">
@@ -584,6 +628,7 @@
     </dif>
   </snc>
   <trd lng="ca">joieria</trd>
+  <trd lng="cs">klenotnictv&iacute; <klr>(&rcaron;emeslo)</klr></trd>
   <trdgrp lng="de">
     <trd>Juvelierskunst</trd>,
     <trd>Goldschmiedekunst</trd>
@@ -597,6 +642,7 @@
   <trd lng="it">gioielleria</trd>
   <trd lng="pl">z&lstroke;otnictwo</trd>
   <trd lng="ru">&c_ju;&c_v;&c_je;&c_l;&c_i;&c_r;&c_n;&c_o;&c_je; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="sk">klenotn&iacute;cke remeslo</trd>
 </drv>
 
 <drv mrk="art.kant0o">
@@ -614,6 +660,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">p&ecaron;veck&eacute; um&ecaron;n&iacute;</trd>
   <trd lng="de">Gesangskunst</trd>
   <trd lng="fr">art du <ind>chant</ind></trd>
   <trdgrp lng="id">
@@ -627,6 +674,7 @@
   </trdgrp>
   <trd lng="ro">voce</trd>
   <trd lng="ru">&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o; &c_p;&c_je;&c_n;&c_i; &c_ja;</trd>
+  <trd lng="sk">spev&aacute;cke umenie</trd>
 </drv>
 
 <drv mrk="art.kin0o">
@@ -683,6 +731,7 @@
     </ekz>
   </snc>
   <trd lng="be">&c_a;&c_r;&c_h;&c_ib;&c_t;&c_e;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="cs">stavitelstv&iacute;</trd>
   <trdgrp lng="de">
     <trd>Baukunst</trd>,
     <trd>Architektur</trd>
@@ -699,6 +748,10 @@
   <trd lng="pl">architektura</trd>
   <trd lng="ro">arhitektur&abreve;</trd>
   <trd lng="ru">&c_a;&c_r;&c_h;&c_i;&c_t;&c_je;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>architekt&uacute;ra</trd>,
+    <trd>stavite&lcaron;sk&eacute; umenie</trd>
+  </trdgrp>
   <trd lng="sv">arkitektur</trd>
 </drv>
 
@@ -722,12 +775,17 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kucha&rcaron;sk&eacute; um&ecaron;n&iacute;</trd>,
+    <trd>kucha&rcaron;stv&iacute;</trd>
+  </trdgrp>
   <trd lng="de">Kochkunst</trd>
   <trd lng="fr">cuisine<klr tip="amb"> (discipline)</klr></trd>
   <trd lng="id"><ind>tata</ind> boga</trd>
   <trd lng="it"><ind>arte</ind> culinaria</trd>
   <trd lng="pl">sztuka kulinarna</trd>
   <trd lng="ro">arte culinare</trd>
+  <trd lng="sk">kuch&aacute;rske umenie</trd>
 </drv>
 
 <drv mrk="art.kurac0o">
@@ -746,6 +804,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>l&eacute;&ccaron;itelsk&eacute; um&ecaron;n&iacute;</trd>,
+    <trd>um&ecaron;n&iacute; l&eacute;&ccaron;it</trd>
+  </trdgrp>
   <trd lng="de">Heilkunst</trd>
   <trd lng="fr">th&eacute;rapeutique<klr tip="amb"> (subst.)</klr></trd>
   <trd lng="id">terapi</trd>
@@ -753,6 +815,7 @@
   <trd lng="pl">terapia</trd>
   <trd lng="ro">terapie</trd>
   <trd lng="ru">&c_t;&c_je;&c_r;&c_a;&c_p;&c_i;&c_ja;</trd>
+  <trd lng="sk">umenie lie&ccaron;i&tcaron;</trd>
 </drv>
 
 <drv mrk="art.memor0o">
@@ -768,6 +831,7 @@
     <trd>&c_m;&c_n;&c_e;&c_m;&c_o;&c_n;&c_ib;&c_k;&c_a;</trd>,
     <trd>&c_m;&c_n;&c_e;&c_m;&c_a;&c_t;&c_e;&c_h;&c_n;&c_ib;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="cs">mnemotechnika</trd>
   <trdgrp lng="de">
     <trd>Mnemonik</trd>,
     <trd>Mnemotechnik</trd>
@@ -803,6 +867,7 @@
     </dif>
   </snc>
   <trd lng="ca">arts <ind>decoratives</ind></trd>
+  <trd lng="cs">ozdobnictv&iacute;</trd>
   <trdgrp lng="de">
     <trd>dekorative Kunst</trd>,
     <trd>Kunstegewerbe</trd>
@@ -819,6 +884,10 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_i;&c_k;&c_l;&c_a;&c_d;&c_n;&c_o;&c_je; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_d;&c_je;&c_k;&c_o;&c_r;&c_a;&c_t;&c_i;&c_v;&c_n;&c_o;&c_je; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>okr&aacute;&scaron;&lcaron;ovacia technika</trd>,
+    <trd>ozdobovacie umenie</trd>
   </trdgrp>
 </drv>
 
@@ -837,6 +906,7 @@
     </ekz>
   </snc>
   <trd lng="be">&c_r;&c_y;&c_t;&c_o;&c_r;&c_y;&c_k;&c_a;</trd>
+  <trd lng="cs">&rcaron;e&ccaron;nictv&iacute;</trd>
   <trdgrp lng="de">
     <trd>Rhetorik</trd>,
     <trd>Redekunst</trd>
@@ -861,11 +931,12 @@
   <trdgrp lng="ro">
     <trd>retorica</trd>,
     <trd>art&abreve; oratoriei</trd>
-  </trdgrp>  
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_r;&c_i;&c_t;&c_o;&c_r;&c_i;&c_k;&c_a;</trd>,
     <trd>&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o; <ind>&c_k;&c_r;&c_a;&c_s;&c_n;&c_o;&c_r;&c_je;&c_ch;&c_i;&c_ja;</ind></trd>
   </trdgrp>
+  <trd lng="sk">re&ccaron;n&iacute;ctvo</trd>
 </drv>
 
 <drv mrk="art.pentr0o">
@@ -884,6 +955,10 @@
     </dif>
   </snc>
   <trd lng="ca">pintura</trd>
+  <trdgrp lng="cs">
+    <trd>malba</trd>,
+    <trd>mal&iacute;&rcaron;stv&iacute;</trd>
+  </trdgrp>
   <trd lng="de">Malerei</trd>
   <trdgrp lng="fr">
     <trd>peinture<klr> (art)</klr></trd>
@@ -895,6 +970,7 @@
   <trd lng="pl">malarstwo</trd>
   <trd lng="ro">pictur&abreve;</trd>
   <trd lng="ru">&c_zh;&c_i;&c_v;&c_o;&c_p;&c_i;&c_s;&c_mol;</trd>
+  <trd lng="sk">maliarstvo</trd>
 </drv>
 
 <drv mrk="art.rajd0o">
@@ -917,6 +993,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>jezdeck&eacute; um&ecaron;n&iacute;</trd>,
+    <trd>jezdectv&iacute;</trd>,
+    <trd>um&ecaron;n&iacute; j&iacute;zdy</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Reitkunst</trd>,
     <trd>Voltigieren</trd>
@@ -924,6 +1005,7 @@
   <trd lng="fr">&eacute;quitation</trd>
   <trd lng="it">equitazione</trd>
   <trd lng="pt">equita&ccedil;&atilde;o</trd>
+  <trd lng="sk">jazdeck&eacute; umenie</trd>
 </drv>
 
 <drv mrk="art.skulpt0o">
@@ -945,6 +1027,7 @@
     </dif>
   </snc>
   <trd lng="ca">escultura</trd>
+  <trd lng="cs">socha&rcaron;stv&iacute;</trd>
   <trd lng="de">Bildhauerei</trd>
   <trdgrp lng="fr">
     <trd>sculpture<klr> (art)</klr></trd>
@@ -966,6 +1049,7 @@
     <klr tip="amb"> (&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;)
     </klr></trd>
   </trdgrp>
+  <trd lng="sk">soch&aacute;rstvo</trd>
 </drv>
 
 <drv mrk="art.sorcx0o">
@@ -1036,6 +1120,18 @@
 </art>
 <!--
 $Log: art.xml,v $
+Revision 1.50  2015/09/17 03:10:20  revo
+Evandro Avellar: +trd pt
+
+Revision 1.49  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.48  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.47  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.46  2014/06/26 15:10:20  revo
 Eko Nur Syah Hidayat: +id
 
@@ -1046,17 +1142,5 @@ Revision 1.44  2013/10/19 16:10:11  revo
 Vito Redsky: +trd ro pl
 
 Revision 1.43  2013/09/22 18:10:16  revo
-Wolfram Diestel: referencoj al listo artoj, germ trd
-
-Revision 1.42  2012/09/08 00:10:11  revo
-Jeromo Vasxe: snc / subsnc, + mrk
-
-Revision 1.41  2012/07/13 15:10:09  revo
-Tulio Flores: aldono de traduko pt:: rajdarto
-
-Revision 1.40  2012/02/05 14:10:08  revo
-Wolfram Diestel: levis subsnc al snc por plibonigi la strukturon kaj
-aldonis dupunktojn
-
 -->
 </vortaro>

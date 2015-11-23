@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gamb.xml,v 1.21 2012/08/18 18:10:34 revo Exp $">
+<art mrk="$Id: gamb.xml,v 1.23 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <rad>gamb</rad>/o
 </kap>
@@ -20,6 +20,10 @@
   <trd lng="be">&c_n;&c_a;&c_g;&c_a; <klr tip="amb">(&c_u;&c_s;&c_ja;)</klr></trd>
   <trd lng="bg">&c_k;&c_r;&c_a;&c_k;</trd>
   <trd lng="ca">cama</trd>
+  <trdgrp lng="cs">
+    <trd>dolní končetina</trd>,
+    <trd>noha</trd>
+  </trdgrp>
   <trd lng="de">Bein</trd>
   <trd lng="en">leg</trd>
   <trd lng="es">pierna<klr> (todo el miembro inferior)</klr></trd>
@@ -31,13 +35,23 @@
   <trd lng="pl">noga</trd>
   <trd lng="pt">perna</trd>
   <trd lng="ru">&c_n;&c_o;&c_g;&c_a; <klr>(&c_v;&c_s;&c_ja;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>dolná končatina</trd>,
+    <trd>noha</trd>
+  </trdgrp>
   <trd lng="sv">ben</trd>
-  <trd lng="vo">l&ouml;g</trd>
   <trd lng="tr">bacak</trd>
+  <trd lng="vo">l&ouml;g</trd>
 </drv>
 </art>
 <!--
 $Log: gamb.xml,v $
+Revision 1.23  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2012/08/18 18:10:34  revo
 Marc Rausell: + trd ca
 

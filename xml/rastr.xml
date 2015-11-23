@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: rastr.xml,v 1.6 2014/08/28 08:10:29 revo Exp $">
+  <art mrk="$Id: rastr.xml,v 1.8 2015/07/04 08:37:42 revo Exp $">
     <kap><rad>rastr</rad>/o</kap>
 
     <drv mrk="rastr.0o">
@@ -113,18 +113,26 @@
           <tld/>umon.
         </dif>
       </snc>
-      <trdgrp lng="en">
+  <trd lng="cs">rastrový procesor</trd>
+  <trdgrp lng="en">
         <trd>rasterizer</trd>,
         <trd>raster processor</trd>
       </trdgrp>
-      <trd lng="nl">raster<klr tip="ind"> (voorwerp)</klr></trd>
-      <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_je;&c_r;&c_i;&c_z;&c_a;&c_t;&c_o;&c_r;</trd>
-    </drv>
+  <trd lng="nl">raster<klr tip="ind"> (voorwerp)</klr></trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_je;&c_r;&c_i;&c_z;&c_a;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">rastrový procesor</trd>
+</drv>
 
   </art>
 
   <!--
   $Log: rastr.xml,v $
+  Revision 1.8  2015/07/04 08:37:42  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.7  2015/06/29 16:33:22  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.6  2014/08/28 08:10:29  revo
   Damien Brucker: +trd fr
 

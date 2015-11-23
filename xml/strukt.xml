@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: strukt.xml,v 1.31 2012/01/04 17:10:08 revo Exp $">
+<art mrk="$Id: strukt.xml,v 1.33 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>struktur</rad>/o <fnt><bib>PV</bib></fnt>
@@ -74,6 +74,12 @@
     <trd>&c_l;&c_a;&c_d;</trd>, 
     <trd>&c_p;&c_a;&c_b;&c_u;&c_d;&c_o;&c_v;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>skladba</trd>,
+    <trd>složení</trd>,
+    <trd>struktura</trd>,
+    <trd>uspořádání</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Struktur</trd>,
     <trd>Aufbau</trd>
@@ -89,6 +95,11 @@
     <trd>&c_s;&c_t;&c_r;&c_u;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>,
     <trd>&c_s;&c_t;&c_r;&c_o;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_u;&c_s;&c_t;&c_r;&c_o;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vnútorná stavba</trd>,
+    <trd>zloženie</trd>,
+    <trd>štruktúra</trd>
   </trdgrp>
 </drv>
 
@@ -112,8 +123,17 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>složit</trd>,
+    <trd>strukturovat</trd>,
+    <trd>účelně uspořádat</trd>
+  </trdgrp>
   <trd lng="de">strukturieren</trd>
   <trd lng="fr">structurer</trd>
+  <trdgrp lng="sk">
+    <trd>usporiadať</trd>,
+    <trd>štruktúrovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="strukt.0ismo">
@@ -228,6 +248,12 @@
 </art>
 <!--
 $Log: strukt.xml,v $
+Revision 1.33  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.31  2012/01/04 17:10:08  revo
 Wolfram Diestel: kunigis la unajn du sencojn kaj pliaj germ trd
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tiu.xml,v 1.19 2014/10/28 04:10:28 revo Exp $">
+<art mrk="$Id: tiu.xml,v 1.21 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tiu</rad> <fnt><bib>PV</bib></fnt>
@@ -80,6 +80,12 @@
     <trd lng="oc">aquel</trd>
     <trd lng="id"><ind>orang</ind> itu</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>onen</trd>,
+    <trd>ta</trd>,
+    <trd>ten</trd>,
+    <trd>to</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>dieser</trd>,
     <trd>diese</trd>,
@@ -104,6 +110,10 @@
     <trd>&c_t;&c_o;&c_t;</trd>,
     <trd>&c_t;&c_a;</trd>,
     <trd>&c_t;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>onen</trd>,
+    <trd>ten</trd>
   </trdgrp>
   <trd lng="tp">ni</trd>
   <trdgrp lng="vo">
@@ -225,6 +235,12 @@
 </art>
 <!--
 $Log: tiu.xml,v $
+Revision 1.21  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/10/28 04:10:28  revo
 Eko Nur Syah Hidayat: +trd id
 

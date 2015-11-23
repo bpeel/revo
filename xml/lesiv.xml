@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lesiv.xml,v 1.18 2011/11/13 00:10:07 revo Exp $">
+<art mrk="$Id: lesiv.xml,v 1.20 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lesiv</rad>/o <fnt><bib>PV</bib></fnt>
@@ -16,6 +16,8 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_u;&c_g;</trd>
+  <trd lng="ca">lleixiu</trd>
+  <trd lng="cs">louh</trd>
   <trdgrp lng="de">
   <trd>Waschmittel</trd>,
   <trd>Lauge</trd>
@@ -23,11 +25,10 @@
   <trd lng="en">lye</trd>
   <trd lng="es">lej&iacute;a</trd>
   <trd lng="fr">lessive</trd>
-  <trd lng="ca">lleixiu</trd>
   <trdgrp lng="hu">
     <trd>mos&oacute;szer</trd>,
     <trd>mosogat&oacute;szer</trd>
-  </trdgrp>  
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>wasmiddel</trd>,
     <trd>detergent</trd>,
@@ -39,6 +40,7 @@
     <trd>decoada</trd>    
   </trdgrp>
   <trd lng="ru">&c_shch;&c_jo;&c_l;&c_o;&c_k;</trd>
+  <trd lng="sk">lúh</trd>
   <trd lng="sv">lut</trd>
 </drv>
 
@@ -67,19 +69,32 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_u;&c_g;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>bělit</trd>,
+    <trd>loužit</trd>,
+    <trd>promývat</trd>,
+    <trd>prát</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>einseifen</trd>,
     <trd>einweichen</trd>,
     <trd>(mit Lauge) waschen</trd>
   </trdgrp>
   <trd lng="fr">lessiver</trd>
-  <trd lng="hu">kif&odblac;z <klr tip="amb">(ruh&aacute;t)</klr></trd> 
-  <trd lng="nl">inweken</trd> 
+  <trd lng="hu">kif&odblac;z <klr tip="amb">(ruh&aacute;t)</klr></trd>
+  <trd lng="nl">inweken</trd>
   <trd lng="ru">&c_shch;&c_je;&c_l;&c_o;&c_ch;&c_i;&c_t;&c_mol; <klr>(&c_b;&c_je;&c_l;&c_mol;&c_jo;)</klr></trd>
+  <trd lng="sk">vyvariť bielizeň v lúhu</trd>
 </drv>
 </art>
 <!--
 $Log: lesiv.xml,v $
+Revision 1.20  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2011/11/13 00:10:07  revo
 Jeromo Vasxe: + snc kem
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fluid.xml,v 1.18 2014/10/24 20:10:14 revo Exp $">
+<art mrk="$Id: fluid.xml,v 1.20 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fluid</rad>/a <fnt><bib>PV</bib></fnt>
@@ -19,6 +19,15 @@
     <trd>&c_v;&c_a;&c_d;&c_k;&c_ib;</trd>
   </trdgrp>
   <trd lng="ca">flu&iuml;d <klr>(adj.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>fluidický</trd>,
+    <trd>fluidní</trd>,
+    <trd>fluidový</trd>,
+    <trd>fluidální</trd>,
+    <trd>kapalný</trd>,
+    <trd>plynný</trd>,
+    <trd>tekoucí</trd>
+  </trdgrp>
   <trd lng="de">fl&uuml;ssig</trd>
   <trd lng="fr">fluide<klr tip="ind"> (adj.)</klr></trd>
   <trdgrp lng="hu">
@@ -34,6 +43,7 @@
     <trd>&c_t;&c_je;&c_k;&c_u;&c_ch;&c_i;&c_j;</trd>,
     <trd>&c_zh;&c_i;&c_d;&c_k;&c_i;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">tekutý</trd>
 </drv>
 
 <drv mrk="fluid.0ajxo">
@@ -71,6 +81,16 @@
     <trd>l&iacute;quido</trd>
   </trdgrp>
   <trd lng="ru">&c_zh;&c_i;&c_d;&c_k;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>kvapalina</trd>,
+    <trd>tekutina</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>fluidum</trd>,
+    <trd>kapalina</trd>,
+    <trd>mok</trd>,
+    <trd>tekutina</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fluid.0igi">
@@ -92,6 +112,10 @@
     <trd>&c_r;&c_a;&c_s;&c_t;&c_a;&c_p;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">flu&iuml;dificar</trd>
+  <trdgrp lng="cs">
+    <trd>rozpustit</trd>,
+    <trd>zkapalnit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>verfl&uuml;ssigen</trd>,
     <trd>schmelzen</trd></trdgrp>
@@ -108,6 +132,10 @@
     <trd>&c_p;&c_r;&c_je;&c_v;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_mol; &c_v; &c_zh;&c_i;&c_d;&c_k;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_t;&c_a;&c_p;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_t;&c_o;&c_p;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozpustiť</trd>,
+    <trd>roztopiť</trd>
   </trdgrp>
 </drv>
 
@@ -128,6 +156,12 @@
 </art>
 <!--
 $Log: fluid.xml,v $
+Revision 1.20  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2014/10/24 20:10:14  revo
 Jeromo Vasxe: + ekz, memstar mal~igi
 

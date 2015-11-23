@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: agac.xml,v 1.23 2013/03/30 14:10:13 revo Exp $">
+<art mrk="$Id: agac.xml,v 1.25 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>agac</rad>/i
@@ -60,11 +60,22 @@
     <trd lng="nl">op de <ind>zenuwen</ind> werken</trd>
     <trd lng="ru">&c_r;&c_a;&c_z;&c_d;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trd lng="cs">trnout <klr>(zuby)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>stŕpnuť</trd>,
+    <trd>tŕpnuť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 
 $Log: agac.xml,v $
+Revision 1.25  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2013/03/30 14:10:13  revo
 Dmitri Gabinski: +trd be
 

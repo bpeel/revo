@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kutr.xml,v 1.13 2011/02/15 11:10:08 revo Exp $">
+<art mrk="$Id: kutr.xml,v 1.15 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>kutr</rad>/o
   <fnt>Z</fnt>
@@ -29,6 +29,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_t;&c_e;&c_r;</trd>
+  <trd lng="cs">kutr</trd>
   <trd lng="de">Kutter</trd>
   <trd lng="en">cutter</trd>
   <trd lng="es">c&uacute;ter</trd>
@@ -40,10 +41,20 @@
     <trd>&c_k;&c_a;&c_t;&c_je;&c_r;</trd>,
     <trd>&c_t;&c_je;&c_n;&c_d;&c_je;&c_r;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>jednosťažník</trd>,
+    <trd>kuter</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kutr.xml,v $
+Revision 1.15  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2011/02/15 11:10:08  revo
 Russ Williams: +PV
 

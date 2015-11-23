@@ -2,13 +2,12 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pneuxm2.xml,v 1.10 2013/10/09 19:11:38 revo Exp $">
-<kap><rad>pne&ubreve;moni</rad>/o</kap>
+<art mrk="$Id: pneuxm2.xml,v 1.12 2014/11/26 09:10:16 revo Exp $">
+<kap><rad>pne&ubreve;moni</rad>/o <fnt><bib>PIV1</bib></fnt> </kap>
 <drv mrk="pneuxm2.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">MED</uzo>
-  <fnt><bib>PIV1</bib></fnt>
   <snc>
+  <uzo tip="fak">MED</uzo>
     <dif>
       <ref tip="lst" cel="inflam.0o" lst="voko:malsanoj">Inflamo</ref>
       de la pulmoj:
@@ -36,7 +35,9 @@
   </trdgrp>
   <trd lng="en">pneumonia</trd>
   <trd lng="es">neumon&iacute;a</trd>
+  <trd lng="fr">pneumonie</trd>
   <trd lng="hu">t&uuml;d&odblac;gyullad&aacute;s</trd>
+  <trd lng="id">pneumonia</trd>
   <trdgrp lng="nl">
     <trd>longontsteking</trd>, <trd>pneumonie</trd>
   </trdgrp>
@@ -46,8 +47,8 @@
 
 <drv mrk="pneuxm2.0o.netipa">
   <kap>netipa <tld/>o</kap>
-  <uzo tip="fak">MED</uzo>
   <snc>
+  <uzo tip="fak">MED</uzo>
     <dif>
       Infekta kaj escepte mortiga pulmomalsano trovita unue en &Ccirc;inio en
       2003, ka&ubreve;zita de viruso:
@@ -86,10 +87,18 @@
     <trd>severe acute respiratory syndrome</trd>
   </trdgrp>
   <trd lng="es">neumon&iacute;a at&iacute;pica</trd>
+  <trdgrp lng="fr">
+    <trd>pneumonie atypique</trd>,
+    <trd>SRAS</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>at&iacute;pusos <ind>t&uuml;d&odblac;gyullad&aacute;s</ind></trd>,
     <trd>&aacute;zsiai <ind>t&uuml;d&odblac;gyullad&aacute;s</ind></trd>,
     <trd>SARS</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>SARS</trd>,
+    <trd><ind>Sindrom</ind> Pernapasan Akut Parah</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>SARS</trd>, 
@@ -106,6 +115,12 @@
 </art>
 <!--
 $Log: pneuxm2.xml,v $
+Revision 1.12  2014/11/26 09:10:16  revo
+Damien Brucker: +trd fr
+
+Revision 1.11  2014/11/19 08:10:21  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.10  2013/10/09 19:11:38  revo
 Wolfram Diestel: ref al lst malsanoj
 
@@ -121,12 +136,6 @@ Tulio Flores: +tr pt
 Revision 1.6  2003/08/25 16:30:45  revo
 Jose Martin del Pozo: Korektis ortografion de trd es (pneumon?a ne
 ekzistas lau Hispana Akademio)
-
-Revision 1.5  2003/07/17 16:36:52  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.4  2003/05/25 17:03:57  revo
-Paul Peeraerts: ald plian ekz
 
 -->
 </vortaro>

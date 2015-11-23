@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: efik.xml,v 1.27 2013/12/12 02:10:21 revo Exp $">
+<art mrk="$Id: efik.xml,v 1.30 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>efik</rad>/i <fnt><bib>PV</bib></fnt>
@@ -44,6 +44,12 @@
   <trdgrp lng="ca">
     <trd>tenir <ind>efecte</ind></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>být účinný</trd>,
+    <trd>mít účinek</trd>,
+    <trd>působit</trd>,
+    <trd>účinkovat</trd>
+  </trdgrp>
   <trd lng="de">wirken</trd>
   <trd lng="en">effect</trd>
   <trdgrp lng="es">
@@ -82,6 +88,10 @@
     <trd>&c_i;&c_m;&c_je;&c_t;&c_mol;
     &c_e;&c_f;&c_f;&c_je;&c_k;&c_t;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mať účinok</trd>,
+    <trd>zapôsobiť</trd>
+  </trdgrp>
   <trdgrp lng="sv">
     <trd>verka</trd>,
     <trd>ha <ind>verkan</ind></trd>
@@ -104,6 +114,7 @@
       </ekz>
       <ekz>
         <ind>sen<tld/>a</ind> kuracilo, konsilo, kolero;
+        <trd lng="es">ineficaz</trd>
         <trdgrp lng="fr">
           <trd>inefficace</trd>,
           <trd>inop&eacute;rant</trd>,
@@ -132,6 +143,12 @@
   <trdgrp lng="ca">
     <trd>efica&ccedil;</trd>,
     <trd>efectiu</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>efektní</trd>,
+    <trd>působivý</trd>,
+    <trd>výkonný</trd>,
+    <trd>účinný</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>wirksam</trd>,
@@ -163,6 +180,7 @@
     <trd>&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_e;&c_f;&c_f;&c_je;&c_k;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">účinný</trd>
   <trd lng="sv">effektiv</trd>
 </drv>
 
@@ -207,6 +225,11 @@
   <trdgrp lng="ca">
     <trd>efecte</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>efekt</trd>,
+    <trd>působení</trd>,
+    <trd>účinek</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Wirkung</trd>,
     <trd>Effekt</trd>
@@ -218,18 +241,22 @@
     <trd>action<klr tip="ind"> (effet)</klr></trd>,
     <trd>effet<klr tip="ind"> (action)</klr></trd>
   </trdgrp>
-  <trdgrp lng="nl">
-    <trd>effect</trd>,
-    <trd>werking</trd>
-  </trdgrp>
   <trdgrp lng="hu">
     <trd>hat&aacute;s</trd>,
     <trd>effektus</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>effect</trd>,
+    <trd>werking</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>,
     <trd>&c_v;&c_o;&c_z;&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>,
     <trd>&c_e;&c_f;&c_f;&c_je;&c_k;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>účinnosť</trd>,
+    <trd>účinok</trd>
   </trdgrp>
 </drv>
 
@@ -253,6 +280,12 @@
   <trdgrp lng="ca">
     <trd>efic&agrave;cia</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>efektivnost</trd>,
+    <trd>působnost</trd>,
+    <trd>výkonnost</trd>,
+    <trd>účinnost</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Wirksamkeit</trd>,
     <trd>Effektivit&auml;t</trd>
@@ -275,6 +308,10 @@
   </trdgrp>
   <trd
   lng="ru">&c_e;&c_f;&c_f;&c_je;&c_k;&c_t;&c_i;&c_v;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>efektívnosť</trd>,
+    <trd>účinnosť</trd>
+  </trdgrp>
   <trd lng="sv">effektivitet</trd>
 </drv>
 
@@ -299,10 +336,13 @@
       <ref cel="efik.post0o.SCI">post<tld/>o</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">vedlejší účinek</trd>
+  <trd lng="es">efecto colateral</trd>
   <trdgrp lng="fr">
     <trd>effet de bord<klr> (effet secondaire)</klr></trd>,
     <trd>effet secondaire</trd>
   </trdgrp>
+  <trd lng="sk">vedľajší účinok</trd>
 </drv>
 
 <drv mrk="efik.post0o">
@@ -411,6 +451,15 @@
 </art>
 <!--
 $Log: efik.xml,v $
+Revision 1.30  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2015/04/22 00:10:16  revo
+Carlos Garcia: +trd es krom-o sen-a
+
 Revision 1.27  2013/12/12 02:10:21  revo
 Jeromo Vasxe: + krom~o
 
@@ -430,8 +479,5 @@ Revision 1.22  2006/06/05 16:41:22  revo
 Eduardo Navas: +trd es
 
 Revision 1.21  2005/04/26 16:32:31  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.20  2004/07/21 20:44:41  revo
 -->
 </vortaro>

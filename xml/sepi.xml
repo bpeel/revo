@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sepi.xml,v 1.17 2014/02/26 20:10:14 revo Exp $">
+<art mrk="$Id: sepi.xml,v 1.19 2015/07/04 08:37:43 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>sepi</rad>/o
@@ -48,12 +48,20 @@
      <trd lng="tr">sepya</trd>
      <trd lng="ru">&c_s;&c_je;&c_p;&c_i;&c_ja;</trd>
    </snc>
-   <trd lng="de">Sepia</trd>
-   <trd lng="it">seppia</trd>
+  <trd lng="cs">sépiová barva</trd>
+  <trd lng="de">Sepia</trd>
+  <trd lng="it">seppia</trd>
+  <trd lng="sk">sépiová farba</trd>
 </drv>
 </art>
 <!--
 $Log: sepi.xml,v $
+Revision 1.19  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2014/02/26 20:10:14  revo
 Agustin Garcia Lopez: klarigo (es)
 

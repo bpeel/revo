@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arcx.xml,v 1.20 2013/09/24 11:10:19 revo Exp $">
+<art mrk="$Id: arcx.xml,v 1.23 2015/09/16 11:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ar&ccirc;</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,9 +12,13 @@
   <snc mrk="arcx.0o.MUZ">
     <uzo tip="fak">MUZ</uzo>
     <dif>
-      Vergeto kun &scirc;tre&ccirc;itaj &ccirc;evalharoj a&ubreve; nilon&scirc;nuretoj
+      Vergeto kun stre&ccirc;itaj &ccirc;evalharoj a&ubreve; nilon&scirc;nuretoj
       por ludi sur <ref tip="malprt"
-      cel="instru2.kord0o.MUZ">kordinstrumento</ref>.
+      cel="instru2.kord0o.MUZ">kordinstrumento</ref>:
+      <ekz>
+        se vi prenis la violonon prenu anka&ubreve; la ar&ccirc;on
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -31,6 +35,8 @@
   <trd lng="hu">von&oacute;</trd>
   <trd lng="nl">strijkstok</trd>
   <trd lng="pl">smyczek</trd>
+  <trd lng="pt">arco <klr tip="amb"></klr>(de instrumentos de
+  corda)</trd>
   <trd lng="ru">&c_s;&c_m;&c_y;&c_ch;&c_o;&c_k;</trd>
   <trd lng="sk">sl&aacute;k</trd>
   <trd lng="sv">str&aring;ke</trd>
@@ -38,6 +44,15 @@
 </art>
 <!--
 $Log: arcx.xml,v $
+Revision 1.23  2015/09/16 11:10:21  revo
+Evandro Avellar: +trd pt
+
+Revision 1.22  2015/08/16 20:10:15  revo
+Wolfram Diestel: +ekz
+
+Revision 1.21  2015/08/16 16:10:16  revo
+Wolfram Diestel: -tajperaro
+
 Revision 1.20  2013/09/24 11:10:19  revo
 Joop Eggen: +trd bg nl
 
@@ -51,14 +66,5 @@ Revision 1.17  2009/04/02 16:30:29  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.16  2005/04/18 16:31:47  revo
-Alan ar Gall: +trd br
-
-Revision 1.15  2004/06/23 16:31:38  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14  2002/10/29 18:00:16  revo
-Christopher Zervic: + ang
-
-Revision 1.13  2002/09/26 16:31:15  revo
 -->
 </vortaro>

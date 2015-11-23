@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fier.xml,v 1.21 2013/08/22 17:10:21 revo Exp $">
+<art mrk="$Id: fier.xml,v 1.24 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fier</rad>/a <fnt><bib>PV</bib></fnt>
@@ -101,12 +101,17 @@
     <trd>vaniteux</trd>
   </trdgrp>
   <trd lng="he">&gimel;&alef;&he;</trd>
+  <trd lng="id">bangga</trd>
   <trd lng="nl">trots</trd>
   <trdgrp lng="pt">
     <trd>orgulhoso</trd>,
     <trd>altivo</trd>,
     <trd>emproado</trd>,
     <trd>ufano</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hrdý</trd>,
+    <trd>pyšný</trd>
   </trdgrp>
 </drv>
 
@@ -124,14 +129,23 @@
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_o;&c_n;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>hrdost</trd>,
+    <trd>pýcha</trd>
+  </trdgrp>
   <trd lng="de">Stolz</trd>
   <trd lng="en">pride</trd>
   <trd lng="fr">fiert&eacute;<klr tip="ind"> (chose)</klr></trd>
   <trd lng="he">&gimel;&alef;&vav;&vav;&he;</trd>
   <trd lng="hu">b&uuml;szkes&eacute;g<klr tip="ind"> (dolog)</klr></trd>
+  <trd lng="id">[<ind>bangga</ind>] kebanggaan</trd>
   <trd lng="nl">trots<klr tip="ind"> (ding)</klr></trd>
   <trd lng="ru">&c_g;&c_o;&c_r;&c_d;&c_o;&c_s;&c_t;&c_mol;
   <klr>(&c_t;&c_o;, &c_ch;&c_je;&c_m; &c_g;&c_o;&c_r;&c_d;&c_ja;&c_t;&c_s;&c_ja;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>hrdosť</trd>,
+    <trd>pýcha</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fier.0eco">
@@ -157,21 +171,30 @@
     <trd>&c_g;&c_a;&c_n;&c_a;&c_r;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_g;&c_o;&c_r;&c_d;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hrdost</trd>,
+    <trd>pýcha</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Stolz</trd>,
     <trd>&Uuml;berheblichkeit</trd>
   </trdgrp>
   <trd lng="en">pride</trd>
+  <trd lng="es">orgullo</trd>
   <trd lng="fr">fiert&eacute;<klr tip="ind"> (qualit&eacute;)</klr></trd>
   <trd lng="he">&gimel;&alef;&vav;&vav;&he;</trd>
-  <trd lng="es">orgullo</trd>
   <trd lng="hu">b&uuml;szkes&eacute;g<klr tip="ind"> (&aacute;llapot)</klr></trd>
+  <trd lng="id">[<ind>bangga</ind>] kebanggaan</trd>
   <trd lng="nl">trots</trd>
   <trdgrp lng="ru">
     <trd>&c_g;&c_o;&c_r;&c_d;&c_o;&c_s;&c_t;&c_mol;
     <klr>(&c_k;&c_a;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;)</klr></trd>,
     <trd>&c_v;&c_y;&c_s;&c_o;&c_k;&c_o;&c_m;&c_je;&c_r;&c_i;&c_je;</trd>,
     <trd>&c_n;&c_a;&c_d;&c_m;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hrdosť</trd>,
+    <trd>pýcha</trd>
   </trdgrp>
 </drv>
 
@@ -186,12 +209,20 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_n;&c_a;&c_r;&c_l;&c_ib;&c_v;&c_je;&c_c;</trd>
+  <trdgrp lng="cs">
+    <trd>furiant</trd>,
+    <trd>namyšlenec</trd>
+  </trdgrp>
   <trd lng="en"><ind>proud</ind> person</trd>
-  <trd lng="he">&alef;&dalet;&fmem; <ind>&gimel;&alef;&he;</ind></trd>
   <trd lng="es">orgulloso</trd>
+  <trd lng="he">&alef;&dalet;&fmem; <ind>&gimel;&alef;&he;</ind></trd>
   <trd lng="hu">b&uuml;szke ember</trd>
   <trd lng="nl">trots persoon</trd>
   <trd lng="ru">&c_g;&c_o;&c_r;&c_d;&c_je;&c_c;</trd>
+  <trdgrp lng="sk">
+    <trd>namyslenec</trd>,
+    <trd>pyšný človek</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fier.0i">
@@ -218,6 +249,13 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_n;&c_a;&c_r;&c_y;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>být hrdý</trd>,
+    <trd>být pyšný</trd>,
+    <trd>chlubit se</trd>,
+    <trd>honosit se</trd>,
+    <trd>pyšnit se</trd>
+  </trdgrp>
   <trd lng="de">stolz sein</trd>
   <trd lng="en">be <ind>proud</ind></trd>
   <trdgrp lng="es">
@@ -233,8 +271,13 @@
     <trd>b&uuml;szke</trd>,
     <trd>b&uuml;szk&eacute;lkedik</trd>
   </trdgrp>
+  <trd lng="id">[<ind>bangga</ind>] berbangga</trd>
   <trd lng="nl">trots zijn</trd>
   <trd lng="ru">&c_g;&c_o;&c_r;&c_d;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>honosiť sa</trd>,
+    <trd>pýšiť sa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fier.0inda">
@@ -260,11 +303,22 @@
       <ref cel="honor.0o">honoro</ref>.
     </refgrp>
   </snc>
+  <trd lng="cs">znamenitý</trd>
   <trd lng="es">digno,-a de orgullo</trd>
+  <trd lng="sk">znamenitý</trd>
 </drv>
 </art>
 <!--
 $Log: fier.xml,v $
+Revision 1.24  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/11/13 10:10:14  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.21  2013/08/22 17:10:21  revo
 Wolfram Diestel: referenco al listo sentoj
 
@@ -284,8 +338,5 @@ Revision 1.16  2005/11/24 17:31:35  revo
 Raul Salinas Monteagudo: +tr es
 
 Revision 1.15  2005/08/30 16:31:38  revo
-Yury Finkel: +trd ru, formatigis
-
-Revision 1.14 2005/01/24 19:03:26 revo
 -->
 </vortaro>

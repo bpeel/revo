@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sel.xml,v 1.19 2011/01/03 08:15:13 revo Exp $">
+<art mrk="$Id: sel.xml,v 1.21 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -26,6 +26,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_ja;&c_d;&c_l;&c_o;</trd>
+  <trd lng="cs">sedlo</trd>
   <trd lng="de">Sattel</trd>
   <trd lng="en">saddle</trd>
   <trd lng="fr">selle<klr> (&eacute;quitation etc.)</klr></trd>
@@ -33,6 +34,10 @@
   <trd lng="it">sella</trd>
   <trd lng="nl">zadel</trd>
   <trd lng="ru">&c_s;&c_je;&c_d;&c_l;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>sedadlo</trd>,
+    <trd>sedlo</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sel.0i">
@@ -52,6 +57,10 @@
     <trd>&c_a;&c_s;&c_ja;&c_d;&c_l;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_s;&c_ja;&c_d;&c_l;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>osedlat</trd>,
+    <trd>sedlat</trd>
+  </trdgrp>
   <trd lng="de">satteln</trd>
   <trd lng="en">saddle</trd>
   <trd lng="fr">seller</trd>
@@ -62,6 +71,7 @@
     <trd>&c_s;&c_je;&c_d;&c_l;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_s;&c_je;&c_d;&c_l;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">osedlať</trd>
 </drv>
 
 <drv mrk="sel.de0igxi">
@@ -109,6 +119,12 @@
 </art>
 <!--
 $Log: sel.xml,v $
+Revision 1.21  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2011/01/03 08:15:13  revo
 Jeromo Vasxe: kor. fusxitan fnt
 

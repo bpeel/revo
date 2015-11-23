@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: simul.xml,v 1.10 2013/04/17 07:10:13 revo Exp $">
+<art mrk="$Id: simul.xml,v 1.12 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>simul</rad>/i
 </kap>
@@ -44,10 +44,21 @@
     <trd lng="nl">simuleren</trd>
     <trd lng="ru">&c_m;&c_o;&c_d;&c_je;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>napodobit</trd>,
+    <trd>napodobovat</trd>,
+    <trd>předstírat</trd>,
+    <trd>přetvařovat se</trd>,
+    <trd>simulovat</trd>
+  </trdgrp>
   <trd lng="de">simulieren</trd>
   <trd lng="en">simulate</trd>
   <trd lng="hu">szimul&aacute;l</trd>
   <trd lng="pl">symulowa&cacute;</trd>
+  <trdgrp lng="sk">
+    <trd>predstierať</trd>,
+    <trd>simulovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="simul.0ado">
@@ -78,6 +89,11 @@
     <trd lng="es">simulaci&oacute;n</trd>
     <trd lng="ru">&c_i;&c_m;&c_i;&c_t;&c_a;&c_c;&c_i;&c_o;&c_n;&c_n;&c_o;&c_je; <ind>&c_m;&c_o;&c_d;&c_je;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</ind></trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>předstírání</trd>,
+    <trd>přetvářka</trd>,
+    <trd>simulace</trd>
+  </trdgrp>
   <trd lng="de">Simulieren</trd>
   <trd lng="en">simulation</trd>
   <trd lng="hu">szimul&aacute;l&aacute;s</trd>
@@ -86,6 +102,11 @@
     <trd>simulering</trd>
   </trdgrp>
   <trd lng="pl">symulacja</trd>
+  <trdgrp lng="sk">
+    <trd>imitácia</trd>,
+    <trd>modelovanie</trd>,
+    <trd>simulácia</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="simul.0ilo">
@@ -116,18 +137,26 @@
       <trd lng="ru">&c_i;&c_m;&c_i;&c_t;&c_a;&c_c;&c_i;&c_o;&c_n;&c_n;&c_a;&c_ja; <ind>&c_m;&c_o;&c_d;&c_je;&c_l;&c_mol;</ind></trd>
     </subsnc>
   </snc>
+  <trd lng="cs">simulátor</trd>
   <trd lng="de">Simulator</trd>
   <trd lng="en">simulator</trd>
   <trd lng="hu">szimul&aacute;tor</trd>
   <trd lng="nl">simulator</trd>
   <trd lng="pl">symulator</trd>
   <trd lng="ru">&c_i;&c_m;&c_i;&c_t;&c_a;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">simulátor</trd>
 </drv>
 
 </art>
 
 <!--
 $Log: simul.xml,v $
+Revision 1.12  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2013/04/17 07:10:13  revo
 Sebastian Cyprych: +trd pl
 

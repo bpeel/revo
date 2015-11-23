@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: procion.xml,v 1.9 2009/10/30 17:30:44 revo Exp $">
+<art mrk="$Id: procion.xml,v 1.11 2015/07/04 08:37:42 revo Exp $">
 <kap>
    <rad>procion</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -18,31 +18,42 @@
        367a</lok></fnt>.
      </ekz>
    </snc>
-   <trd lng="be">&c_ja;&c_n;&c_o;&c_t;</trd>
-   <trd lng="bg">&c_m;&c_i;&c_je;&c_shch;&c_a; &c_m;&c_je;&c_ch;&c_k;&c_a;</trd>
-   <trd lng="de">Waschb&auml;r</trd>
-   <trd lng="ca">&oacute;s rentador</trd>
-   <trd lng="en">raccoon</trd>
-   <trd lng="es">mapache</trd>
-   <trd lng="fr">raton laveur</trd>
-   <trdgrp lng="he">
+  <trd lng="be">&c_ja;&c_n;&c_o;&c_t;</trd>
+  <trd lng="bg">&c_m;&c_i;&c_je;&c_shch;&c_a; &c_m;&c_je;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="ca">&oacute;s rentador</trd>
+  <trdgrp lng="cs">
+    <trd>medvídek mýval</trd>,
+    <trd>mýval severní</trd>
+  </trdgrp>
+  <trd lng="de">Waschb&auml;r</trd>
+  <trd lng="en">raccoon</trd>
+  <trd lng="es">mapache</trd>
+  <trd lng="fr">raton laveur</trd>
+  <trdgrp lng="he">
      <trd>&dalet;&bet;&yod;&bet;&vav;&fnun;</trd>,
      <trd>&resh;&qof;&vav;&fnun;</trd>
    </trdgrp>
-   <trd lng="la">Procyon lotor</trd>
-   <trd lng="hu">mos&oacute;medve</trd> 
-   <trd lng="nl">wasbeer</trd>
-   <trdgrp lng="pt">
+  <trd lng="hu">mos&oacute;medve</trd>
+  <trd lng="la">Procyon lotor</trd>
+  <trd lng="nl">wasbeer</trd>
+  <trdgrp lng="pt">
     <trd>racum</trd>,  
     <trd>m&atilde;o-pelada</trd>,
    </trdgrp>
-   <trd lng="ru">&c_je;&c_n;&c_o;&c_t;</trd>
-   <trd lng="uk">&c_jeu;&c_n;&c_o;&c_t;</trd>
+  <trd lng="ru">&c_je;&c_n;&c_o;&c_t;</trd>
+  <trd lng="sk">mýval severný</trd>
+  <trd lng="uk">&c_jeu;&c_n;&c_o;&c_t;</trd>
 </drv>
 </art>
 
 <!--
 $Log: procion.xml,v $
+Revision 1.11  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2009/10/30 17:30:44  revo
 Paul Peeraerts: +nl
 

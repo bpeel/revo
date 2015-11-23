@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kamion.xml,v 1.22 2014/02/18 02:10:12 revo Exp $">
+<art mrk="$Id: kamion.xml,v 1.25 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>kamion</rad>/o <fnt><bib>SPV</bib></fnt>
@@ -41,6 +41,10 @@
   <trd lng="be">&c_g;&c_r;&c_u;&c_z;&c_a;&c_v;&c_ib;&c_k;</trd>
   <trd lng="bg">&c_k;&c_a;&c_m;&c_i;&c_o;&c_n;</trd>
   <trd lng="ca">cami&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>kamion</trd>,
+    <trd>nákladní automobil</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Lastwagen</trd>,
     <trd>Lkw</trd>
@@ -66,6 +70,7 @@ naczep&aogonek; wieloosiow&aogonek;
     i napisem TIR)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_g;&c_r;&c_u;&c_z;&c_o;&c_v;&c_i;&c_k;</trd>
+  <trd lng="sk">nákladné auto</trd>
 </drv>
 
 <drv mrk="kamion.0eto">
@@ -88,9 +93,16 @@ naczep&aogonek; wieloosiow&aogonek;
     </dif>
   </snc>
   <trd lng="ca">camioneta</trd>
-  <trd lng="es">camioneta</trd>
+  <trdgrp lng="cs">
+    <trd>dodávka</trd>,
+    <trd>dodávkové auto</trd>
+  </trdgrp>
   <trd lng="de">Lieferwagen</trd>
   <trd lng="en">van</trd>
+  <trdgrp lng="es">
+    <trd>camioneta</trd>,
+    <trd>furgoneta</trd>
+  </trdgrp>
   <trd lng="fr">camionnette</trd>
   <trd lng="hu">kisteheraut&oacute;</trd>
   <trdgrp lng="it">
@@ -106,6 +118,10 @@ naczep&aogonek; wieloosiow&aogonek;
   <trdgrp lng="ru">
     <trd>&c_g;&c_r;&c_u;&c_z;&c_o;&c_v;&c_i;&c_ch;&c_o;&c_k;</trd>,
     <trd>&c_p;&c_i;&c_k;&c_a;&c_p;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dodávka</trd>,
+    <trd>dodávkové auto</trd>
   </trdgrp>
 </drv>
 
@@ -129,11 +145,26 @@ naczep&aogonek; wieloosiow&aogonek;
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">sklápěcí auto</trd>
+  <trdgrp lng="es">
+    <trd>volquete</trd>,
+    <trd>cami&oacute;n de obras</trd>
+  </trdgrp>
   <trd lng="fr">camion &agrave; benne basculante</trd>
+  <trd lng="sk">vyklápacie auto</trd>
 </drv>
 </art>
 <!--
 $Log: kamion.xml,v $
+Revision 1.25  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2014/12/02 18:10:13  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.22  2014/02/18 02:10:12  revo
 Jeromo Vasxe: + baskul~o
 
@@ -153,8 +184,5 @@ Revision 1.17  2009/08/14 16:30:49  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.16  2007/11/23 21:37:15  revo
-Wieland Pusch: +trd bg
-
-Revision 1.15  2007/05/30 16:31:31  revo
 -->
 </vortaro>

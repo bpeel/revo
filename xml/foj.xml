@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: foj.xml,v 1.31 2014/09/14 13:10:16 revo Exp $">
+<art mrk="$Id: foj.xml,v 1.36 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>foj</rad>/o <fnt><bib>PV</bib></fnt>
@@ -50,6 +50,10 @@
     </ekz>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;</trd>
+  <trdgrp lng="cs">
+    <trd>krát</trd>,
+    <trd>ráz</trd>
+  </trdgrp>
   <trd lng="de">Mal <klr tip="ind">(Wiederholung)</klr></trd>
   <trd lng="en">occasion</trd>
   <trdgrp lng="es">
@@ -64,17 +68,22 @@
     <trd>alkalom</trd>,
     <trd>&iacute;z<klr tip="ind"> (alkalom)</klr></trd>
   </trdgrp>
+  <trd lng="id">kali</trd>
   <trd lng="nl">keer<klr tip="ind"> (maal)</klr></trd>
   <trd lng="pl">raz</trd>
-  <trdgrp lng="ro">
-    <trd>dat&abreve;</trd>,
-    <trd>oar&abreve;</trd>
-  </trdgrp>
   <trdgrp lng="pt">
     <trd>vez</trd>,
     <trd>feita</trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>dat&abreve;</trd>,
+    <trd>oar&abreve;</trd>
+  </trdgrp>
   <trd lng="ru">&c_r;&c_a;&c_z;</trd>
+  <trdgrp lng="sk">
+    <trd>krát</trd>,
+    <trd>raz</trd>
+  </trdgrp>
   <trd lng="sv">g&aring;ng <klr>(ett tillf&auml;lle)</klr></trd>
 </drv>
 
@@ -98,7 +107,8 @@
   <trd lng="be">&c_a;&c_d;&c_n;&c_o;&c_j;&c_ch;&c_y;</trd>
   <trdgrp lng="cs">
     <trd>jednou</trd>,
-    <trd>kdysi</trd>
+    <trd>kdysi</trd>,
+    <trd>přípona "-krát"</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>mal</trd>,
@@ -109,12 +119,14 @@
     <trd>egyszer</trd>,
     <trd>valamikor</trd>
   </trdgrp>
+  <trd lng="id">sering</trd>
   <trd lng="nl">eens</trd>
   <trd lng="pl">pewnego <ind>razu</ind></trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_d;&c_n;&c_a;&c_zh;&c_d;&c_y;</trd>,
     <trd>&c_k;&c_a;&c_k;-&c_t;&c_o; <ind>&c_r;&c_a;&c_z;</ind></trd>
   </trdgrp>
+  <trd lng="sk">prípona "-krát"</trd>
 </drv>
 
 <drv mrk="foj.0e0e">
@@ -181,13 +193,17 @@
     <trd>&c_ch;&c_a;&c_s;&c_a;&c_m;&c_ib;</trd>,
     <trd>&c_k;&c_a;&c_l;&c_ib;-&c_n;&c_je;&c_k;&c_a;&c_l;&c_ib;</trd>
   </trdgrp>
+  <trd lng="cs">přípona "-krát"</trd>
   <trd lng="es">de vez en cuando</trd>
+  <trd lng="fr">de temps en temps</trd>
+  <trd lng="id">dari <ind>waktu</ind> ke waktu</trd>
   <trd lng="pl">czasami</trd>
   <trd lng="ro">uneori</trd>
   <trdgrp lng="ru">
     <trd>&c_i;&c_n;&c_o;&c_g;&c_d;&c_a;</trd>,
     <trd>&c_p;&c_o;&c_r;&c_o;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">prípona "-krát"</trd>
 </drv>
 
 <drv mrk="foj.cxiu0e">
@@ -224,6 +240,10 @@
     <trd>chaque fois</trd>,
     <trd>syst&eacute;matiquement<klr> (chaque fois)</klr></trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>setiap <ind>kali</ind></trd>,
+    <trd>selalu</trd>
+  </trdgrp>
   <trd lng="nl">iedere keer</trd>
     <trdgrp lng="pl">
     <trd>w ka&zdot;dym <ind>razie</ind></trd>,
@@ -259,6 +279,11 @@
     <trd>&c_ch;&c_a;&c_s;&c_a;&c_m;&c_ib;</trd>,
     <trd>&c_k;&c_a;&c_l;&c_ib;-&c_n;&c_je;&c_k;&c_a;&c_l;&c_ib;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kdysi</trd>,
+    <trd>mnohdy</trd>,
+    <trd>někdy</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>de temps &agrave; autre</trd>,
     <trd>parfois</trd>
@@ -267,6 +292,11 @@
   <trd lng="pl">czasami</trd>
   <trd lng="ro">uneori</trd>
   <trd lng="ru">&c_i;&c_n;&c_o;&c_j; &c_r;&c_a;&c_z;</trd>
+  <trdgrp lng="sk">
+    <trd>dakedy</trd>,
+    <trd>kedysi</trd>,
+    <trd>niekedy</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="foj.kelka0e">
@@ -291,6 +321,7 @@
   <trd lng="de">manchmal</trd>
   <trd lng="en">sometimes</trd>
   <trd lng="fr">quelquefois</trd>
+  <trd lng="id">beberapa <ind>kali</ind></trd>
   <trd lng="nl">nu en dan</trd>
   <trd lng="pl">kilkakrotnie</trd>
   <trd lng="ru">&c_n;&c_je;&c_s;&c_k;&c_o;&c_l;&c_mol;&c_k;&c_o; <ind>&c_r;&c_a;&c_z;</ind></trd>
@@ -318,10 +349,15 @@
     </trd>,
     <trd>&c_sh;&c_m;&c_a;&c_t;&c_k;&c_r;&c_o;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="cs">mnohokrát</trd>
   <trd lng="de">oft</trd>
   <trdgrp lng="fr">
     <trd>bien des fois</trd>,
     <trd>de nombreuses fois</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>acap <ind>kali</ind></trd>,
+    <trd>sering <ind>kali</ind></trd>
   </trdgrp>
   <trd lng="nl">geregeld</trd>
   <trdgrp lng="pl">
@@ -331,6 +367,10 @@
   <trdgrp lng="ru">
     <trd>&c_m;&c_n;&c_o;&c_g;&c_o; <ind>&c_r;&c_a;&c_z;</ind></trd>,
     <trd>&c_m;&c_n;&c_o;&c_g;&c_o;&c_k;&c_r;&c_a;&c_t;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mnohokrát</trd>,
+    <trd>veľa ráz</trd>
   </trdgrp>
 </drv>
 
@@ -347,33 +387,77 @@
     <trd>&c_ja;&c_sh;&c_ch;&c_e; <ind>&c_r;&c_a;&c_z;</ind></trd>,
     <trd>&c_z;&c_n;&c_o;&c_w;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>opět</trd>,
+    <trd>zas</trd>,
+    <trd>znovu</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>nochmals</trd>,
     <trd>noch einmal</trd>,
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>ism&eacute;t</trd>,
-    <trd>&uacute;jb&oacute;l</trd>
-  </trdgrp>
-  <trd lng="nl">opnieuw</trd>
-  <trdgrp lng="sv">
-    <trd>igen</trd>,
-    <trd>en <ind>g&aring;ng</ind> till</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>une <ind>fois</ind> de plus</trd>,
     <trd>de nouveau</trd>
   </trdgrp>
+  <trdgrp lng="hu">
+    <trd>ism&eacute;t</trd>,
+    <trd>&uacute;jb&oacute;l</trd>
+  </trdgrp>
+  <trd lng="id">lagi</trd>
+  <trd lng="nl">opnieuw</trd>
   <trdgrp lng="pl">
     <trd>jeszcze <ind>raz</ind></trd>,
     <trd>znowu</trd>,
     <trd>ponownie</trd>
   </trdgrp>
   <trd lng="ru">&c_je;&c_shch;&c_jo; &c_r;&c_a;&c_z;</trd>
+  <trdgrp lng="sk">
+    <trd>opäť</trd>,
+    <trd>zasa</trd>,
+    <trd>znova</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>igen</trd>,
+    <trd>en <ind>g&aring;ng</ind> till</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="foj.vica0e">
+  <kap>vica<tld/>e</kap>
+  <snc mrk="foj.vica0e.KOMUNE">
+    <dif>
+      Plian, vican <tld/>on en serio:
+      <ekz>
+        ni scias vica<tld/>e trovi pla&ccirc;on en la trajtoj de &ccirc;iu verkisto
+        <fnt>
+          <aut>M. Proust, trad. P. Combot</aut>,
+          <vrk>Pri la legado</vrk>,
+          <lok>1993</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">une fois de plus</trd>
 </drv>
 </art>
 <!--
 $Log: foj.xml,v $
+Revision 1.36  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.35  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.34  2015/06/06 12:10:21  revo
+Jeromo Vasxe: + vica~e
+
+Revision 1.33  2015/01/23 08:10:19  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.32  2014/12/22 13:10:34  revo
+Damien Brucker: +trd fr
+
 Revision 1.31  2014/09/14 13:10:16  revo
 Norbert Luckhardt: + trd EN
 
@@ -387,14 +471,5 @@ Revision 1.28  2010/11/01 17:30:30  revo
 Agustin Garcia Lopez: +trd es
 
 Revision 1.27  2009/07/05 16:40:23  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.26  2008/03/28 17:30:49  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.25  2007/06/02 19:47:31  revo
-Tulio Flores: +tr pt
-
-Revision 1.24  2007/05/22 16:32:35  revo
 -->
 </vortaro>

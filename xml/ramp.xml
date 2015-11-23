@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ramp.xml,v 1.24 2013/08/31 16:10:38 revo Exp $">
+<art mrk="$Id: ramp.xml,v 1.26 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ramp</rad>/i
@@ -120,14 +120,16 @@ plafono<fnt>B</fnt>.
 lng="ru">&c_p;&c_r;&c_je;&c_s;&c_m;&c_y;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
     <trd lng="es">arrastrarse<klr> (ante alguien)</klr></trd>
  </snc>
- <trdgrp lng="be">
+  <trdgrp lng="be">
    <trd>&c_p;&c_a;&c_w;&c_z;&c_mol;&c_c;&c_ib;</trd>,
    <trd>&c_p;&c_o;&c_w;&c_z;&c_a;&c_c;&c_mol;</trd>
  </trdgrp>
   <trdgrp lng="cs">
     <trd>l&eacute;zt</trd>,
-    <trd>plazit se</trd>
+    <trd>plazit se</trd>,
+    <trd>přen. podlézat</trd>
   </trdgrp>
+  <trd lng="de">kriechen</trd>
   <trd lng="en">crawl</trd>
   <trd lng="fr">ramper</trd>
   <trdgrp lng="hu">
@@ -135,7 +137,6 @@ lng="ru">&c_p;&c_r;&c_je;&c_s;&c_m;&c_y;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
     <trd>m&aacute;szik</trd>
   </trdgrp>
   <trd lng="nl">kruipen</trd>
-  <trd lng="de">kriechen</trd>
   <trdgrp lng="pl">
     <trd>czo&lstroke;ga&cacute; si&eogonek;</trd>,
     <trd>pe&lstroke;za&cacute;</trd>
@@ -145,6 +146,10 @@ lng="ru">&c_p;&c_r;&c_je;&c_s;&c_m;&c_y;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_o;&c_l;&c_z;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_l;&c_z;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>liezť</trd>,
+    <trd>plaziť sa</trd>
   </trdgrp>
 </drv>
 
@@ -171,6 +176,12 @@ lng="ru">&c_p;&c_r;&c_je;&c_s;&c_m;&c_y;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
 </art>
 <!--
 $Log: ramp.xml,v $
+Revision 1.26  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2013/08/31 16:10:38  revo
 Wolfram Diestel: prilaboris dif de ~uloj sendante al reptilioj
 

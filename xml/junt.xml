@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: junt.xml,v 1.19 2011/12/05 11:10:11 revo Exp $">
+<art mrk="$Id: junt.xml,v 1.21 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <rad>junt</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -74,10 +74,26 @@
     <trd>&c_r;&c_a;&c_z;&c_malmol;&c_jo;&c_m;</trd>,
     <trd>&c_s;&c_t;&c_y;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>fuga</trd>,
+    <trd>spoj</trd>,
+    <trd>škára</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>spoj</trd>,
+    <trd>spára</trd>,
+    <trd>šev</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: junt.xml,v $
+Revision 1.21  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2011/12/05 11:10:11  revo
 Marc Rausell: kataluna traduko
 

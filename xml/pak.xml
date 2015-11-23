@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: pak.xml,v 1.24 2013/07/25 01:10:14 revo Exp $">
+  <art mrk="$Id: pak.xml,v 1.27 2015/07/04 08:37:40 revo Exp $">
     <kap>
       <ofc>*</ofc><rad>pak</rad>/i <fnt><bib>PV</bib></fnt>
     </kap>
@@ -16,13 +16,16 @@
           &scirc;nuro, &ccirc;u envolvante en paperon a&ubreve; &scirc;tofon, &ccirc;u en&scirc;ovante en
           sakon a&ubreve; alian portilon, &ccirc;u ordigante en kesto:
           <ekz>
-            li <tld/>is sian hava&jcirc;on<fnt>Z</fnt>;
+             frue en la sekvanta mateno li <tld/>is sian malgrandan 
+             hava&jcirc;on<fnt><bib>Fab1</bib>,
+             <lok>Vojkamarado</lok></fnt>;
           </ekz><ekz>
             la komerca&jcirc;oj devas esti <tld/>ataj<fnt>Z</fnt>;
           </ekz><ekz>
             <uzo tip="stl">FIG</uzo>
             li estis <tld/>ita kun ok aliaj personoj en la interno
-            de po&scirc;ta kale&scirc;o<fnt>Z</fnt>;
+            de po&scirc;ta kale&scirc;o<fnt><bib>Fab1</bib>, <lok>Galo&scirc;oj de 
+            feli&ccirc;o</lok></fnt>;
           </ekz><ekz>
             <uzo tip="stl">FIG</uzo>
             ni estis prem<tld/>itaj en la &ccirc;ambro.
@@ -32,7 +35,7 @@
       <snc mrk="pak.0i.plenigi">
         <dif>
           <ref tip="vid" cel="plen.0igi">Plenigi</ref> per a&jcirc;oj kaj
-          pretigi tranportilon:
+          pretigi transportilon:
           <ekz>
             mi senprokraste <tld/>is miajn kofrojn, adia&ubreve;is Brigidon kaj
             reveturis
@@ -46,38 +49,46 @@
           </ekz>
         </dif>
       </snc>
-      <trdgrp lng="be">
+  <trdgrp lng="be">
         <trd>&c_p;&c_a;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
         <trd>&c_u;&c_p;&c_a;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
         <trd>&c_u;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>,
         <trd>&c_c;&c_ju;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
       </trdgrp>
-      <trd lng="bg">&c_o;&c_p;&c_a;&c_k;&c_o;&c_v;&c_a;&c_m;</trd>
-      <trd lng="cs">balit</trd>
-      <trd lng="de">packen</trd>
-      <trd lng="en">pack</trd>
-      <trd lng="es">empaquetar</trd>
-      <trdgrp lng="fr">
+  <trd lng="bg">&c_o;&c_p;&c_a;&c_k;&c_o;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>balit</trd>,
+    <trd>shrnovat</trd>,
+    <trd>zahušťovat <klr>(soubor)</klr></trd>
+  </trdgrp>
+  <trd lng="de">packen</trd>
+  <trd lng="en">pack</trd>
+  <trd lng="es">empaquetar</trd>
+  <trdgrp lng="fr">
         <trd>emballer</trd>,
         <trd>empaqueter</trd>
       </trdgrp>
-      <trd lng="hu">csomagol</trd>
-      <trdgrp lng="nl">
+  <trd lng="hu">csomagol</trd>
+  <trdgrp lng="nl">
         <trd>pakken</trd>,
         <trd>inpakken</trd>
       </trdgrp>
-      <trdgrp lng="pt">
+  <trdgrp lng="pt">
         <trd>embrulhar</trd>,
         <trd>empacotar</trd>,
         <trd>enfardar</trd>,
         <trd>emalar</trd>,
         <trd>empalhar</trd>
       </trdgrp>
-      <trdgrp lng="ru">
+  <trdgrp lng="ru">
         <trd>&c_p;&c_a;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
         <trd>&c_u;&c_p;&c_a;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>komprimovať <klr>(súbor)</klr></trd>,
+    <trd>zahusťovať</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="pak.0o">
       <kap><tld/>o</kap>
@@ -165,8 +176,9 @@
       <snc mrk="pak.0ajxo.bagagxo">
         <ref tip="dif" cel="bagagx.0o">baga&gcirc;o</ref>
         <ekz>
-          kiam mi veturas, mi neniam prenas kun mi multon da
-          <tld/>a&jcirc;o<fnt>Z</fnt>;
+          kiam mi ien veturas, mi neniam prenas kun mi multon da
+          <tld/>a&jcirc;o<fnt><bib>F</bib>, <lok>Ekzercaro, &para;
+          35</lok></fnt>;
         </ekz><ekz>
           <ind>forportu vian <tld/>a&jcirc;on kaj hava&jcirc;on</ind>
           <trd lng="fr">prenez vos cliques et vos claques</trd>
@@ -238,24 +250,29 @@
         </dif>
         <ref tip="vid" cel="tar.0o">taro</ref>
       </snc>
-      <trd lng="bg">&c_o;&c_p;&c_a;&c_k;&c_o;&c_v;&c_a;&c_n;&c_je;</trd>
-      <trd lng="de">Verpackung</trd>
-      <trdgrp lng="en">
+  <trd lng="bg">&c_o;&c_p;&c_a;&c_k;&c_o;&c_v;&c_a;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>balící materiál</trd>,
+    <trd>obalový materiál</trd>
+  </trdgrp>
+  <trd lng="de">Verpackung</trd>
+  <trdgrp lng="en">
           <trd>packing</trd>
           <trd>wrapping</trd>
       </trdgrp>
-      <trd lng="fr">emballage</trd>
-      <trdgrp lng="hu">
+  <trd lng="fr">emballage</trd>
+  <trdgrp lng="hu">
         <trd>csomagol&aacute;s<klr tip="ind">(g&ouml;ngy&ouml;leg)</klr></trd>,
         <trd>csomagol&oacute;anyag</trd>,
         <trd>g&ouml;ngy&ouml;leg</trd>
       </trdgrp>
-      <trd lng="nl">verpakking</trd>
-      <trdgrp lng="ru">
+  <trd lng="nl">verpakking</trd>
+  <trdgrp lng="ru">
         <trd>&c_u;&c_p;&c_a;&c_k;&c_o;&c_v;&c_k;&c_a;</trd>,
         <trd>&c_t;&c_a;&c_r;&c_a;</trd>
       </trdgrp>
-    </drv>
+  <trd lng="sk">obalový materiál</trd>
+</drv>
 
     <drv mrk="pak.mal0i">
       <kap>el<tld/>i<fnt>Z</fnt>, <var><kap>mal<tld/>i</kap></var></kap>
@@ -265,15 +282,16 @@
           Elmeti el <tld/>o.
         </dif>
       </snc>
-      <trd lng="be">&c_r;&c_a;&c_s;&c_p;&c_a;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
-      <trd lng="bg">&c_r;&c_a;&c_z;&c_o;&c_p;&c_a;&c_k;&c_o;&c_v;&c_a;&c_m;</trd>
-      <trd lng="de">auspacken</trd>
-      <trd lng="en">unpack</trd>
-      <trd lng="fr">d&eacute;baller</trd>
-      <trd lng="hu">kicsomagol</trd>
-      <trd lng="nl">uitpakken</trd>
-      <trd lng="ru">&c_r;&c_a;&c_s;&c_p;&c_a;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
-    </drv>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_p;&c_a;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_r;&c_a;&c_z;&c_o;&c_p;&c_a;&c_k;&c_o;&c_v;&c_a;&c_m;</trd>
+  <trd lng="de">auspacken</trd>
+  <trd lng="en">unpack</trd>
+  <trd lng="fr">d&eacute;baller</trd>
+  <trd lng="hu">kicsomagol</trd>
+  <trd lng="nl">uitpakken</trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_p;&c_a;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">vybaliť</trd>
+</drv>
 
     <drv mrk="pak.en0i">
       <kap>en<tld/>i<fnt>Z</fnt></kap>
@@ -282,16 +300,27 @@
           Meti en <tld/>on.
         </dif>
       </snc>
-      <trd lng="be">&c_u;&c_p;&c_a;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
-      <trd lng="de">einpacken</trd>
-      <trd lng="fr">emballer</trd>
-      <trd lng="hu">becsomagol</trd>
-      <trd lng="nl">inpakken</trd>
-      <trd lng="ru">&c_u;&c_p;&c_a;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
-    </drv>
+  <trd lng="be">&c_u;&c_p;&c_a;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">zabalit</trd>
+  <trd lng="de">einpacken</trd>
+  <trd lng="fr">emballer</trd>
+  <trd lng="hu">becsomagol</trd>
+  <trd lng="nl">inpakken</trd>
+  <trd lng="ru">&c_u;&c_p;&c_a;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">zabaliť</trd>
+</drv>
   </art>
   <!--
   $Log: pak.xml,v $
+  Revision 1.27  2015/07/04 08:37:40  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.26  2015/06/29 16:40:17  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.25  2015/02/15 14:10:15  revo
+  Wolfram Diestel: -tajperaro, tri Z-aj fnt-indikoj
+
   Revision 1.24  2013/07/25 01:10:14  revo
   Joop Eggen: +trd bg en
 

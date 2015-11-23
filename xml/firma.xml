@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: firma.xml,v 1.21 2014/09/02 08:10:14 revo Exp $">
+<art mrk="$Id: firma.xml,v 1.24 2015/09/15 10:10:16 revo Exp $">
 <kap>
   <rad>firma</rad>/o
 </kap>
@@ -40,6 +40,10 @@
     <trd>firma</trd>,
     <trd>empresa</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>firma</trd>,
+    <trd>podnik <klr>(obchodn&iacute;)</klr></trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Firma</trd>,
     <trd>Unternehmen</trd>
@@ -69,8 +73,28 @@
     <trd>&c_p;&c_r;&c_je;&c_d;&c_p;&c_r;&c_i;&c_ja;&c_t;&c_i;&c_je;
     </trd>
   </trdgrp>
+  <trd lng="sk">firma</trd>
   <trd lng="tp">kulupu</trd>
 </drv>
+
+<drv mrk="firma.ek0o">
+  <kap>ek<tld/>o</kap>
+    <snc>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+    <ref tip="dif" cel="firm1.0eto">Firmeto</ref> nove kreita kaj tre
+    rapide kreskanta:
+    </dif>
+    <ekz>
+    Uber sekvas la poststrion de pli modestaj ek<tld/>oj.
+    </ekz>
+    </snc>
+    <trdgrp lng="fr">
+      <trd>startup</trd>,
+      <trd>start-up</trd>,
+      <trd>jeune pousse</trd>
+    </trdgrp>
+</drv> 
 
 <drv mrk="firma.et0o">
   <kap>et<tld/>o</kap>
@@ -125,6 +149,15 @@
 </art>
 <!--
 $Log: firma.xml,v $
+Revision 1.24  2015/09/15 10:10:16  revo
+Damien Brucker: +ek~o +trd fr en
+
+Revision 1.23  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2014/09/02 08:10:14  revo
 Guillermo Molleda Jimena: trd es
 
@@ -138,14 +171,5 @@ Revision 1.18  2011/12/07 12:10:11  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.17  2009/07/07 16:30:35  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.16  2009/04/17 19:50:07  revo
-Alvaro Cortes: +trd es
-
-Revision 1.15  2008/05/29 18:01:32  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.14  2007/06/01 16:31:06  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pasame.xml,v 1.17 2011/12/10 23:10:10 revo Exp $">
+<art mrk="$Id: pasame.xml,v 1.19 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pasament</rad>/o
@@ -23,6 +23,11 @@
   </snc>
   <trd lng="br">pasamant</trd>
   <trd lng="ca">passam&agrave;</trd>
+  <trdgrp lng="cs">
+    <trd>lemovka</trd>,
+    <trd>prýmek</trd>,
+    <trd>prýmka</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Posamenten</trd>,
     <trd>Besatzwaren</trd>
@@ -49,6 +54,10 @@
     <trd>&c_p;&c_o;&c_z;&c_u;&c_m;&c_je;&c_n;&c_t;</trd>,
     <trd>&c_g;&c_a;&c_l;&c_u;&c_n;</trd>,
     <trd>&c_b;&c_a;&c_s;&c_o;&c_n;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd><klr>(ozdobná)</klr> pasomán</trd>,
+    <trd>zlatá šnúra</trd>
   </trdgrp>
 </drv>
 
@@ -96,6 +105,12 @@
 </art>
 <!--
 $Log: pasame.xml,v $
+Revision 1.19  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2011/12/10 23:10:10  revo
 Marc Rausell: +trd ca
 

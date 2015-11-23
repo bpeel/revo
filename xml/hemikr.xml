@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hemikr.xml,v 1.10 2013/10/09 19:10:55 revo Exp $">
+<art mrk="$Id: hemikr.xml,v 1.13 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>hemikrani</rad>/o <fnt>Z</fnt> <fnt><bib>SPV</bib></fnt> 
 </kap>
@@ -37,6 +37,10 @@
     <trd>migranya</trd>,
     <trd>hemicr&agrave;nia</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hemikranie</trd>,
+    <trd>migréna</trd>
+  </trdgrp>
   <trd lng="de">Migr&auml;ne</trd>
   <trd lng="en">migraine</trd>
   <trdgrp lng="es">
@@ -49,6 +53,10 @@
     <trd>hemicrania</trd>,
     <trd>migr&eacute;n</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>migrain</trd>,
+    <trd><ind>sakit</ind> kepala sebelah</trd>
+  </trdgrp>
   <trd lng="it">emicrania</trd>
   <trd lng="nl">migraine</trd>
   <trdgrp lng="pt">
@@ -59,11 +67,24 @@
     <trd>&c_m;&c_i;&c_g;&c_r;&c_je;&c_n;&c_mol;</trd>,
     <trd>&c_g;&c_je;&c_m;&c_i;&c_k;&c_r;&c_a;&c_n;&c_i;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bolesť hlavy <klr>(jednostranná)</klr></trd>,
+    <trd>migréna</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: hemikr.xml,v $
+Revision 1.13  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/11/17 15:10:17  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.10  2013/10/09 19:10:55  revo
 Wolfram Diestel: ref al lst malsanoj
 
@@ -83,8 +104,5 @@ Revision 1.5  2005/04/11 16:32:02  revo
 Raul Salinas Monteagudo: +trd es
 
 Revision 1.4  2004/09/14 16:31:25  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.3  2003/12/04 17:30:27  revo
 -->
 </vortaro>

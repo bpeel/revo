@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: indukt.xml,v 1.21 2014/05/17 16:10:21 revo Exp $">
+<art mrk="$Id: indukt.xml,v 1.23 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>indukt</rad>/i
@@ -53,12 +53,14 @@
       <trd>&c_n;&c_a;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">vyvozovat obecné závěry</trd>
   <trd lng="de">induzieren</trd>
   <trd lng="en">induce</trd>
   <trd lng="es">inducir</trd>
   <trd lng="fr">induire</trd>
   <trd lng="nl">induceren</trd>
   <trd lng="pt">induzir</trd>
+  <trd lng="sk">vyvodzovať všeobecné závery</trd>
 </drv>
 
 <drv mrk="indukt.0o">
@@ -131,9 +133,15 @@
     <trd lng="pl">indukcja</trd>
     <trd lng="ru">&c_i;&c_n;&c_d;&c_u;&c_k;&c_c;&c_i;&c_ja;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>indukce</trd>,
+    <trd>vyvolání <klr>(potratu)</klr></trd>,
+    <trd>vzájemné navození</trd>
+  </trdgrp>
   <trd lng="es">inducci&oacute;n</trd>
   <trd lng="fr">induction<klr tip="ind"> (raisonnement, &eacute;lec.,
   math.)</klr></trd>
+  <trd lng="sk">indukcia</trd>
 </drv>
 
 <drv mrk="indukt.il0o">
@@ -146,7 +154,9 @@
   cel="indukt.0o.ELE">induktanco</ref>.  
   </dif>
   </snc>
+  <trd lng="cs">induktor</trd>
   <trd lng="fr">inductance<klr> (composant)</klr></trd>
+  <trd lng="sk">induktor</trd>
 </drv>
 
 <drv mrk="indukt.0a">
@@ -188,6 +198,12 @@
 </art>
 <!--
 $Log: indukt.xml,v $
+Revision 1.23  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2014/05/17 16:10:21  revo
 Damien Brucker: +~ilo
 

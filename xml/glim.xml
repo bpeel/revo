@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: glim.xml,v 1.13 2012/08/19 00:10:30 revo Exp $">
+<art mrk="$Id: glim.xml,v 1.15 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>glim</rad>/o
@@ -19,6 +19,7 @@
   </snc>
   <trd lng="be">&c_l;&c_u;&c_sh;&c_ch;&c_a;&c_k;</trd>
   <trd lng="ca">mica</trd>
+  <trd lng="cs">slída</trd>
   <trd lng="de">Glimmer</trd>
   <trd lng="en">mica</trd>
   <trd lng="fr">mica</trd>
@@ -35,6 +36,7 @@
    <trd>malacacheta</trd> 
   </trdgrp>
   <trd lng="ru">&c_s;&c_l;&c_ju;&c_d;&c_a;</trd>
+  <trd lng="sk">sľuda</trd>
 </drv>
 
 <drv mrk="glim.0brili">
@@ -54,11 +56,12 @@
     <trd>mirallejar</trd>,
     <trd>brillar com la mica</trd>
   </trdgrp>
+  <trd lng="cs">třpytit se jako slída</trd>
   <trd lng="de">schimmern</trd>
   <trd lng="en">gleam</trd>
   <trdgrp lng="fr">
     <trd>chatoyer</trd>,
-    <trd>miroiter</trd></trdgrp> 
+    <trd>miroiter</trd></trdgrp>
   <trdgrp lng="nl">
     <trd>glimmen</trd>,
     <trd>blinken</trd>
@@ -72,10 +75,17 @@
     <klr>(&c_k;&c_a;&c_k; &c_s;&c_l;&c_ju;&c_d;&c_a;)</klr>
     </trd>
   </trdgrp>
+  <trd lng="sk">lesknúť sa <klr>(ako sľuda)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: glim.xml,v $
+Revision 1.15  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2012/08/19 00:10:30  revo
 Marc Rausell: + trd ca
 

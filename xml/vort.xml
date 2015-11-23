@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vort.xml,v 1.94 2014/10/20 08:10:32 revo Exp $">
+<art mrk="$Id: vort.xml,v 1.99 2015/11/06 21:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vort</rad>/o <fnt><bib>PV</bib></fnt>
@@ -177,6 +177,7 @@
     </dif>
     <trd lng="pl">s&lstroke;owo</trd>
   </snc>
+  <trd lng="kek">aatin</trd>
   <trd lng="be">&c_s;&c_l;&c_o;&c_v;&c_a;</trd>
   <trd lng="bg">&c_d;&c_u;&c_m;&c_a;</trd>
   <trd lng="br">ger</trd>
@@ -197,12 +198,12 @@
   <trd lng="nl">woord</trd>
   <trd lng="pt">palavra</trd>
   <trd lng="ru">&c_s;&c_l;&c_o;&c_v;&c_o;</trd>
+  <trd lng="sk">slovo</trd>
   <trd lng="tr">s&ouml;z</trd>
   <trdgrp lng="zh">
     <trd>&#35789;</trd>,
     <trd><klr>tr. </klr>&#35422;<klr> [c&iacute;]</klr></trd>
   </trdgrp>
-  <trd lng="kek">aatin</trd>
 </drv>
 
 <drv mrk="vort.V0o">
@@ -223,16 +224,18 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="lat">verbum</trd>
   <trd lng="br">Verb<klr tip="ind"> (kristeniezh)</klr></trd>
+  <trd lng="cs">slovo</trd>
   <trd lng="de">Wort<klr tip="ind"> (biblisch)</klr></trd>
   <trdgrp lng="fr">
     <trd>verbe<klr> (christianisme)</klr></trd>
   </trdgrp>
   <trd lng="hu">ige<klr> (Krisztus)</klr></trd>
   <trd lng="id">firman</trd>
-  <trd lng="lat">verbum</trd>
   <trd lng="pl">S&lstroke;owo</trd>
   <trd lng="ru">&c_S;&c_l;&c_o;&c_v;&c_o;</trd>
+  <trd lng="sk">slovo</trd>
 </drv>
 
 <drv mrk="vort.0a">
@@ -293,7 +296,15 @@
       sufi&ccirc;e?</vrk>, <lok>1979</lok></fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>formulovat</trd>,
+    <trd>vyslovit</trd>
+  </trdgrp>
   <trd lng="fr">causer</trd>
+  <trdgrp lng="sk">
+    <trd>formulova&tcaron;</trd>,
+    <trd>vyslovi&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vort.0aro">
@@ -336,6 +347,10 @@
   <trd lng="be">&c_s;&c_l;&c_o;&c_w;&c_n;&c_ib;&c_k;</trd>
   <trd lng="bg">&c_r;&c_je;&c_ch;&c_n;&c_i;&c_k;</trd>
   <trd lng="br">geriadur</trd>
+  <trdgrp lng="cs">
+    <trd>lexikon</trd>,
+    <trd>slovn&iacute;k</trd>
+  </trdgrp>
   <trd lng="de">W&ouml;rterbuch</trd>
   <trd
   lng="el">&lambda;&epsilon;&xi;&jota;&kappa;&omikron_ton;</trd>
@@ -352,12 +367,12 @@
   <trd lng="pl">s&lstroke;ownik</trd>
   <trd lng="pt">dicion&aacute;rio</trd>
   <trd lng="ru">&c_s;&c_l;&c_o;&c_v;&c_a;&c_r;&c_mol;</trd>
+  <trd lng="sk">slovn&iacute;k</trd>
   <trdgrp lng="tr">
     <trd>s&ouml;zl&uuml;k</trd>,
     <trd>lug&acirc;t</trd>,
     <trd>l&uuml;gat</trd>
   </trdgrp>
-  <trd lng="sk">slovn&iacute;k</trd>
   <trdgrp lng="zh">
     <trd>&#35789;&#20856;</trd>,
     <trd><klr>tr. </klr>&#35422;&#20856;<klr>
@@ -381,6 +396,10 @@
   <trd
   lng="be">&c_l;&c_je;&c_k;&c_s;&c_ib;&c_k;&c_o;&c_g;&c_r;&c_a;&c_f;</trd>
   <trd lng="br">geriadurour</trd>
+  <trdgrp lng="cs">
+    <trd>lexikograf</trd>,
+    <trd>slovn&iacute;k&aacute;&rcaron;</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>lexicographe</trd>
   </trdgrp>
@@ -400,6 +419,10 @@
   </trdgrp>
   <trd
   lng="ru">&c_l;&c_je;&c_k;&c_s;&c_i;&c_k;&c_o;&c_g;&c_r;&c_a;&c_f;</trd>
+  <trdgrp lng="sk">
+    <trd>lexikograf</trd>,
+    <trd>slovnik&aacute;r</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vort.0ero">
@@ -421,8 +444,11 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">slovn&iacute; prvek <klr>(p&rcaron;edpona| ko&rcaron;en| p&rcaron;&iacute;pona|
+  koncovka)</klr></trd>
   <trd lng="fr">morph&egrave;me</trd>
   <trd lng="id">morfem</trd>
+  <trd lng="sk">nesamostatn&aacute; &ccaron;astica</trd>
 </drv>
 
 <drv mrk="vort.0igi">
@@ -453,6 +479,11 @@
     <trd>&c_f;&c_a;&c_r;&c_m;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="br">geria&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>pravit</trd>,
+    <trd>vyj&aacute;d&rcaron;it slovy</trd>,
+    <trd>vyslovit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>formulieren</trd>,
   </trdgrp>
@@ -477,6 +508,59 @@
     &c_s;&c_l;&c_o;&c_v;&c_a;&c_m;&c_i;</trd>,
     <trd>&c_f;&c_o;&c_r;&c_m;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_f;&c_o;&c_r;&c_m;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vyjadri&tcaron;</trd>,
+    <trd>vyslovi&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vort.0umi">
+  <kap><tld/>umi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vort.0umi.LIN">
+    <dif>
+      Iel
+      <ref tip="super" cel="dir.0i.KOMUNE">diri</ref>,
+      elektante iujn <tld/>ojn por tio:
+      <ekz>
+        tion mi sentis sed ne sciis diri,
+        kaj la poeto tion <tld/>umis por mi
+        <fnt>
+          <aut>C. C. Guglielminetti</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr64/kompreni.html">
+          Kompreni a&ubreve; ne</url></vrk>,
+          <lok>La Nica Literatura Revuo 1961-03 &gcirc;is 04 (34), p.
+          156a-160a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">exprimer<klr> (par des mots)</klr></trd>
+</drv>
+
+<drv mrk="vort.0umo">
+  <kap><tld/>umo</kap>
+  <snc mrk="vort.0umo.LIN">
+    <dif>
+      Iu el la eblaj esprimoj por ion diri:
+      <ekz>
+        dum la tradukado ni longe cerbumis kaj ser&ccirc;is ta&ubreve;gan vorton a&ubreve; 
+        <tld/>umon
+        <fnt>
+          <aut>G. P. Savio</aut>,
+          <vrk><url
+          ref="http://esperantaretradio.blogspot.com.es/2015_05_01_archive.html">
+          Unua sperto pri traduko de beletra rakonto</url></vrk>,
+          <lok>Esperanta Retradio, 2015-05-24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>expression<klr> (en mots)</klr></trd>,
+    <trd>formulation<klr> (en mots)</klr></trd>
   </trdgrp>
 </drv>
 
@@ -544,6 +628,10 @@
     <trd>eleze</trd>,
     <trd>da <ind>lavaret</ind> eo</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jin&yacute;mi slovy</trd>,
+    <trd>&ccaron;ili</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>in anderen Worten</trd>,
     <trd>mit anderen Worten</trd>
@@ -566,6 +654,7 @@
     &c_g;&c_o;&c_v;&c_o;&c_r;&c_ja;</trd>,
     <trd>&c_t;&c_o; &c_je;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">in&yacute;mi slovami</trd>
 </drv>
 
 <drv mrk="vort.ar0o">
@@ -605,6 +694,7 @@
     </dif>
   </snc>
   <trd lng="ca">diccionari il&middot;lustrat</trd>
+  <trd lng="cs">obrazov&yacute; slovn&iacute;k</trd>
   <trd lng="de">Bildw&ouml;rterbuch</trd>
   <trd lng="en">picture dictionary</trd>
   <trd lng="fr">dictionnaire illustr&eacute;</trd>
@@ -613,6 +703,7 @@
   <trd lng="nl">beeldwoordenboek</trd>
   <trd lng="pl">s&lstroke;ownik <ind>obrazkowy</ind></trd>
   <trd lng="ru">&c_i;&c_l;&c_l;&c_ju;&c_s;&c_t;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j; <ind>&c_s;&c_l;&c_o;&c_v;&c_a;&c_r;&c_mol;</ind></trd>
+  <trd lng="sk">obrazov&yacute; slovn&iacute;k</trd>
 </drv>
 
 <drv mrk="vort.difin0aro">
@@ -773,6 +864,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>skupinov&eacute; slovo</trd>,
+    <trd>slovn&iacute;kov&eacute; heslo</trd>
+  </trdgrp>
   <trd lng="es">entrada<klr tip="amb"> (de
       diccionario...)</klr></trd>
   <trd lng="fr">entr&eacute;e<klr tip="amb"> (de
@@ -780,6 +875,10 @@
   </trd>
   <trdgrp lng="pl">
     <trd>has&lstroke;o</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>skupinov&eacute;</trd>,
+    <trd>slovn&iacute;kov&eacute; heslo</trd>
   </trdgrp>
 </drv>
 
@@ -826,6 +925,7 @@
   </snc>
   <trd lng="be">&c_n;&c_a;&c_z;&c_o;&c_w;&c_n;&c_ib;&c_k;</trd>
   <trd lng="br">anv-kadarn</trd>
+  <trd lng="cs">podstatn&eacute; jm&eacute;no</trd>
   <trdgrp lng="de">
     <trd>Substantiv</trd>,
     <trd>Nomen</trd>,
@@ -856,6 +956,7 @@
   <trd lng="pl">rzeczownik</trd>
   <trd
   lng="ru">&c_s;&c_u;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;</trd>
+  <trd lng="sk">podstatn&eacute; meno</trd>
 </drv>
 
 <drv mrk="vort.pas0o">
@@ -869,6 +970,10 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_o;&c_l;&c_mol;</trd>
   <trd lng="br">ger tremen</trd>
+  <trdgrp lng="cs">
+    <trd>heslo</trd>,
+    <trd>kl&iacute;&ccaron;ov&eacute; heslo</trd>
+  </trdgrp>
   <trd lng="de">Passwort</trd>
   <trd lng="en">password</trd>
   <trd lng="es">contrase&ntilde;a</trd>
@@ -885,6 +990,7 @@
   <trd lng="pl">has&lstroke;o</trd>
   <trd lng="pt">senha</trd>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_o;&c_l;&c_mol;</trd>
+  <trd lng="sk">heslo</trd>
 </drv>
 
 <drv mrk="vort.prunt0o">
@@ -934,6 +1040,10 @@
     <trd>&c_b;&c_ja;&c_z; <ind>&c_s;&c_l;&c_o;&c_w;</ind></trd>
   </trdgrp>
   <trd lng="br">dilavar<klr tip="ind"> (adv.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>beze slova</trd>,
+    <trd>ml&ccaron;ky</trd>
+  </trdgrp>
   <trd lng="de">wortlos</trd>
   <trd lng="fr">sans un mot</trd>
   <trdgrp lng="pl">
@@ -944,6 +1054,10 @@
     <trd>&c_m;&c_o;&c_l;&c_ch;&c_a;</trd>,
     <trd>&c_n;&c_je; &c_g;&c_o;&c_v;&c_o;&c_r;&c_ja; &c_n;&c_i;
     &c_s;&c_l;&c_o;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bez slova</trd>,
+    <trd>ml&ccaron;ky</trd>
   </trdgrp>
 </drv>
 
@@ -967,6 +1081,10 @@
     <trd>e<ind>berr gomzo&ugrave;</ind></trd>,
     <trd>en ur <ind>ger</ind></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jedn&iacute;m slovem</trd>,
+    <trd>stru&ccaron;n&ecaron;</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>bref<klr tip="amb"> (adv.)</klr></trd>,
     <trd>en un mot</trd>
@@ -974,6 +1092,7 @@
   <trd lng="pl">jednym <ind>s&lstroke;owem</ind></trd>
   <trd lng="ru">&c_o;&c_d;&c_n;&c_i;&c_m;
   &c_s;&c_l;&c_o;&c_v;&c_o;&c_m;</trd>
+  <trd lng="sk">jedn&yacute;m slovom</trd>
 </drv>
 
 <drv mrk="vort.0odivido">
@@ -1058,17 +1177,28 @@ vortefikaj (VER). La&ubreve; ili la lasta (&ccirc;efa) elemento de la kunmeto di
 Substantivo kaj adjektivo, kiel &ccirc;efelemento, postulas anta&ubreve;an
 substantivon: <ekz>homokoro</ekz><klr> (=koro de homo)</klr>;
 <ekz>skribma&scirc;ino</ekz><klr> (=ma&scirc;ino por skribo)</klr>;
-<ekz>or&ccirc;eno</ekz><klr> (=&ccirc;eno el oro)</klr>; <ekz>herbori&ccirc;a</ekz><klr>
+<ekz>or&ccirc;eno</ekz><klr> (=&ccirc;eno el oro)</klr>;
+<ekz>membroabonanto</ekz><klr> (analizo epiteta de
+membro-abonanto)</klr>; <ekz>herbori&ccirc;a</ekz><klr>
 (=ri&ccirc;a je herbo)</klr>;
 <ekz>florsimila</ekz><klr> (=simila al floro)</klr>;
 <ekz>drinkema</ekz><klr> (=ema je drinko)</klr>. Verbo postulas
 anta&ubreve;an adverbon a&ubreve; (sian) predikatan adjektivon:
 <ekz>martelbati</ekz><klr> (=bati per martelo a&ubreve; bati martele)</klr>;
-<ekz>pafmurdi</ekz><klr> (=murdi per pafo a&ubreve; murdi pafe)</klr>; <ekz>
-ru&gcirc;pentri</ekz><klr> (= pentri ru&gcirc;a)</klr>; <ekz>sanigi</ekz><klr>
-(=igi sana)</klr>; <ekz>misuzi</ekz><klr> (=uzi mise)</klr>;
+<ekz>pafmurdi</ekz><klr> (=murdi per pafo a&ubreve; murdi pafe)</klr>;
+<ekz>misuzi</ekz><klr> (=uzi mise)</klr>;
 <ekz>revidi</ekz><klr> (=vidi ree)</klr>; <ekz>&ccirc;irka&ubreve;rigardi</ekz><klr>
-(=rigardi &ccirc;irka&ubreve;e)</klr>.
+(=rigardi &ccirc;irka&ubreve;e)</klr>; <ekz>
+ru&gcirc;pentri</ekz><klr> (=pentri ru&gcirc;a)</klr>; <ekz>sanigi</ekz><klr>
+(=igi sana)</klr>; <ekz>ru&gcirc;i&gcirc;i</ekz><klr> (=i&gcirc;i ru&gcirc;a)</klr>. &Ccirc;i tiu
+fenomeno, nomata vortefiko, okazas same
+&ccirc;e radikoj, sufiksoj kaj fina&jcirc;oj. Fina&jcirc;o -a (&ccirc;e adjektiva &ccirc;efelemento),
+se &gcirc;i ne estas pleonasma, substantivigas sian flankelementon:
+<ekz>skriba</ekz><klr> =(skribo)-a a&ubreve; rilata al skribo</klr>,
+<ekz>ama</ekz><klr> =(amo)-a a&ubreve; rilata al amo</klr>.
+Fina&jcirc;o -i (verba &ccirc;efelemento) adverbigas sian flankelementon:
+<ekz>marteli</ekz><klr>
+=(martele)-i a&ubreve; agi per martelo</klr>.
     </rim>
     <rim num="2">
 B) En trielementaj kunmetoj oni trovas, ke:
@@ -1080,7 +1210,7 @@ elementoj formantaj unu tuton (duobla flankelemento). Tiaokaze ekzistas
 du
 ebla&jcirc;oj: l) la duobla flankelemento estas analizebla la&ubreve; VER (kuntenaj
 flankelementoj: <ekz>vapor&scirc;ip-asocio; kudril-ujo; purig-o<klr> (=(pura
-igi)-o)</klr>; bonfart-o<klr> (=(bone farti)-o)</klr>;
+igi)-o)</klr>; martelbat-o<klr> (=(martele bati)-o)</klr>;
 fervoj-isto</ekz>). 2) &gcirc;i ne estas analizebla la&ubreve; VER, do ne
 povas formi
 memstaran vortkunmeton
@@ -1166,8 +1296,17 @@ edzineco
 estas juna)</klr>, <ekz>sova&gcirc;besto, dikfingro, etbur&gcirc;o,
 &gcirc;entilhomo</ekz>. &Ccirc;i tiuj
 parte
-imitas nacilingvajn formojn kaj estas kontra&ubreve;aj al la spirito de la
+imitas nacilingvajn formojn, estas kvaza&ubreve; memstaraj radikvortoj kaj
+estas kontra&ubreve;aj al la spirito de la
 Esperanta vortkunmeto: ili estas lernendaj aparte.
+    </rim>
+    <rim num="11">
+La analizo de la kunmetitaj vortoj okazas tiel, ke unue oni provas la
+analizon la&ubreve; la tri vortefik-reguloj klarigitaj &ccirc;e A). Se tiel oni ne
+havas senchavan rezulton, oni memstarigas la fina&jcirc;on la&ubreve; B), kaj
+rilatigas la
+du anta&ubreve;ajn radikojn inter si, kiel duoblajn flankelementojn. &Ccirc;e tio oni
+esploras anka&ubreve;, &ccirc;u ne ekzistas inversa vortefiko.
     </rim>
   </snc>
   <trd lng="fr">composition<klr> (de mots)</klr></trd>
@@ -1216,6 +1355,7 @@ Esperanta vortkunmeto: ili estas lernendaj aparte.
   </snc>
   <trd lng="be">&c_s;&c_l;&c_o;&c_v;&c_a;&c_w;&c_t;&c_v;&c_a;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="br">ar stumma&ntilde; <ind>gerio&ugrave;</ind></trd>
+  <trd lng="cs">tvorba slov</trd>
   <trd lng="de">Wordbildung</trd>
   <trd lng="en">word-formation</trd>
   <trdgrp lng="fr">
@@ -1229,6 +1369,7 @@ Esperanta vortkunmeto: ili estas lernendaj aparte.
     <trd>&c_s;&c_l;&c_o;&c_v;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_s;&c_l;&c_o;&c_v;&c_o;&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
   </trdgrp>
+  <trd lng="sk">tvorba slov</trd>
 </drv>
 
 <drv mrk="vort.0formo">
@@ -1247,6 +1388,10 @@ Esperanta vortkunmeto: ili estas lernendaj aparte.
   <trd
   lng="be">&c_s;&c_l;&c_o;&c_v;&c_a;&c_f;&c_o;&c_r;&c_m;&c_a;</trd>
   <trd lng="br">furm<klr tip="amb"> (ger)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>slovn&iacute; tvar</trd>,
+    <trd>tvar slova</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>word form</trd>,
     <trd>inflexion</trd>
@@ -1268,6 +1413,7 @@ Esperanta vortkunmeto: ili estas lernendaj aparte.
   </trdgrp>
   <trd
   lng="ru">&c_s;&c_l;&c_o;&c_v;&c_o;&c_f;&c_o;&c_r;&c_m;&c_a;</trd>
+  <trd lng="sk">slovn&yacute; tvar</trd>
 </drv>
 
 <drv mrk="vort.0kunmeto">
@@ -1336,6 +1482,14 @@ la abono)</ekz><fnt>Z</fnt>.
     <trd>&c_s;&c_l;&c_o;&c_v;&c_o;&c_s;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_o;&c_s;&c_n;&c_o;&c_v;&c_o;&c_s;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>zlo&zcaron;enina</trd>,
+    <trd>zlo&zcaron;en&eacute; slovo</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>slo&zcaron;enina</trd>,
+    <trd>slo&zcaron;en&eacute; slovo</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vort.0oprovizo">
@@ -1368,6 +1522,7 @@ la abono)</ekz><fnt>Z</fnt>.
     </dif>
   </snc>
   <trd lng="br">geriaoueg</trd>
+  <trd lng="cs">slovn&iacute; z&aacute;soba</trd>
   <trd lng="de">Wortschatz</trd>
   <trd lng="en">vocabulary</trd>
   <trd lng="es">vocabulario</trd>
@@ -1387,10 +1542,26 @@ la abono)</ekz><fnt>Z</fnt>.
   </trdgrp>
   <trd lng="ru">&c_s;&c_l;&c_o;&c_v;&c_a;&c_r;&c_n;&c_y;&c_j;
   &c_z;&c_a;&c_p;&c_a;&c_s;</trd>
+  <trd lng="sk">slovn&aacute; z&aacute;soba</trd>
 </drv>
 </art>
 <!--
 $Log: vort.xml,v $
+Revision 1.99  2015/11/06 21:10:19  revo
+Jeromo Vasxe: + ~umi/umo
+
+Revision 1.98  2015/07/04 08:37:46  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.97  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.96  2015/04/09 12:10:15  revo
+Damien Brucker: +ekz en rim 1
+
+Revision 1.95  2014/11/19 14:10:12  revo
+Damien Brucker: +rim 11
+
 Revision 1.94  2014/10/20 08:10:32  revo
 Damien Brucker: +ekz en rim 2
 
@@ -1398,20 +1569,5 @@ Revision 1.93  2014/09/14 12:10:14  revo
 Damien Brucker: +rim 10
 
 Revision 1.92  2014/09/14 08:10:13  revo
-Damien Brucker: +rim 9
-
-Revision 1.91  2014/09/07 09:10:10  revo
-Damien Brucker: +rim 8
-
-Revision 1.90  2014/09/01 12:10:10  revo
-Damien Brucker: +rim 7
-
-Revision 1.89  2014/08/27 08:10:10  revo
-Damien Brucker: +ekz en rim
-
-Revision 1.88  2014/08/26 08:10:10  revo
-Damien Brucker: +rim 6
-
-Revision 1.87  2014/08/25 10:10:13  revo
 -->
 </vortaro>

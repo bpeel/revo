@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kancerologi.xml,v 1.2 2012/01/01 21:10:24 revo Exp $">
+<art mrk="$Id: kancerologi.xml,v 1.4 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <rad>kancerologi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -32,15 +32,26 @@
     <trd>oncologia</trd>,
     <trd>cancerologia</trd>
   </trdgrp>
+  <trd lng="cs">lékařský obor nádorových onemocnění</trd>
   <trdgrp lng="fr">
     <trd>canc&eacute;rologie</trd>,
     <trd>oncologie</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kancerológia</trd>,
+    <trd>výskum rakoviny</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: kancerologi.xml,v $
+Revision 1.4  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.2  2012/01/01 21:10:24  revo
 Marc Rausell: +trd ca
 

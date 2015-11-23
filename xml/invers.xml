@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: invers.xml,v 1.29 2004/09/06 16:36:56 revo Exp $">
+<art mrk="$Id: invers.xml,v 1.31 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>invers</rad>/a
@@ -55,17 +55,28 @@
     <trd lng="pl">odwrotny</trd>
     <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>inverzní</trd>,
+    <trd>opačný</trd>,
+    <trd>převrácený</trd>,
+    <trd>reciproký</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>umgekehrt</trd>,
     <trd>invers</trd>
   </trdgrp>
   <trd lng="es">inverso</trd>
   <trd lng="nl">omgekeerd</trd>
+  <trd lng="pt">inverso</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
-  <trd lng="pt">inverso</trd>
+  <trdgrp lng="sk">
+    <trd>inverzný</trd>,
+    <trd>opačný</trd>,
+    <trd>prevrátený</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="invers.0o">
@@ -176,6 +187,8 @@
     esprimi pli precize sen neologismo.
     <aut>MB</aut>
   </adm>
+  <trd lng="sk">inverzné zobrazenie</trd>
+  <trd lng="cs">inverzní zobrazení</trd>
 </drv>
 
 <drv mrk="invers.0e">
@@ -196,7 +209,12 @@
       <ref cel="senc.kontraux0e">kontra&ubreve;sence</ref>.
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>naopak</trd>,
+    <trd>obráceně</trd>
+  </trdgrp>
   <trd lng="de">umgekehrt</trd>
+  <trd lng="es">inversamente</trd>
   <trdgrp lng="fr">
     <trd>inversement</trd>,
     <trd>au <ind>contraire</ind></trd>,
@@ -205,11 +223,14 @@
   </trdgrp>
   <trd lng="hu">ford&iacute;tva</trd>
   <trd lng="nl">omgekeerd</trd>
-  <trd lng="ru">&c_n;&c_a;&c_o;&c_b;&c_o;&c_r;&c_o;&c_t;</trd>
-  <trd lng="es">inversamente</trd>
   <trdgrp lng="pt">
     <trd>inversamente</trd>,
     <trd>vice-versa</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_a;&c_o;&c_b;&c_o;&c_r;&c_o;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>naopak</trd>,
+    <trd>naruby</trd>
   </trdgrp>
 </drv>
 
@@ -256,8 +277,13 @@
     <trd lng="hu">invert&aacute;l</trd>
     <trd lng="ru">&c_i;&c_n;&c_v;&c_je;&c_r;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>otočit do protisměru</trd>,
+    <trd>zvrátit</trd>
+  </trdgrp>
   <trd lng="es">invertir</trd>
   <trd lng="pt">inverter</trd>
+  <trd lng="sk">vypočítať inverziu</trd>
 </drv>
 
 <drv mrk="invers.0igo">
@@ -362,11 +388,16 @@
     <trd lng="pl">odwracalny</trd>
     <trd lng="ru">&c_d;&c_o;&c_p;&c_u;&c_s;&c_k;&c_a;&c_ju;&c_shch;&c_i;&c_j; &c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>
   </snc>
+  <trd lng="cs">reverzibilní <klr>(turbína)</klr></trd>
   <trd lng="de">umkehrbar</trd>
   <trd lng="es">invertible</trd>
   <trd lng="fr">inversible</trd>
   <trd lng="nl">omkeerbaar</trd>
   <trd lng="pt">invert&iacute;vel</trd>
+  <trdgrp lng="sk">
+    <trd>vratný</trd>,
+    <trd>zvratný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="invers.ne0igebla">
@@ -377,17 +408,19 @@
       Ne <ref cel="invers.0igebla"><tld/>igebla</ref>.
     </dif>
   </snc>
+  <trd lng="cs">neinverzibilní</trd>
   <trd lng="de">unumkehrbar</trd>
   <trd lng="en">non-inversible</trd>
   <trd lng="fr">non inversible</trd>
   <trd lng="hu">nem invert&aacute;lhat&oacute;</trd>
   <trd lng="nl">onomkeerbaar</trd>
   <trd lng="pl">nieodwracalny</trd>
+  <trd lng="pt">n&atilde;o invert&iacute;vel</trd>
   <trdgrp lng="ru">
     <trd>&c_n;&c_je;&c_d;&c_o;&c_p;&c_u;&c_s;&c_k;&c_a;&c_ju;&c_shch;&c_i;&c_j; &c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_o;&c_b;&c_r;&c_a;&c_t;&c_i;&c_m;&c_y;&c_j;</trd>
   </trdgrp>
-  <trd lng="pt">n&atilde;o invert&iacute;vel</trd>
+  <trd lng="sk">neinverzibilný</trd>
 </drv>
 
 <drv mrk="invers.0hava">
@@ -427,6 +460,12 @@
 </art>
 <!--
 $Log: invers.xml,v $
+Revision 1.31  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.29  2004/09/06 16:36:56  revo
 Marc Bavant: +trd fr; ~igi: +ref al renversi; ~o: +adm
 

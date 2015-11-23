@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: memor.xml,v 1.24 2014/10/16 10:10:31 revo Exp $">
+<art mrk="$Id: memor.xml,v 1.30 2015/09/29 09:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>memor</rad>/i <fnt><bib>PV</bib></fnt>
@@ -53,7 +53,10 @@
     <trd>recordar, recordar-se('n)</trd>,
     <trd>memoritzar</trd>
   </trdgrp>
-  <trd lng="cs">pamatovat (si)</trd>
+  <trdgrp lng="cs">
+    <trd>pamatovat</trd>,
+    <trd>pamatovat (si)</trd>
+  </trdgrp>
   <trd lng="de">sich <ind>erinnern</ind></trd>
   <trd lng="en">remember</trd>
   <trdgrp lng="es">
@@ -69,6 +72,7 @@
     <trd>eml&eacute;kezik</trd>
   </trdgrp>
   <trd lng="nl">zich <ind>herinneren</ind></trd>
+  <trd lng="pl">pami&eogonek;ta&cacute;</trd>
   <trdgrp lng="pt">
     <trd>lembrar-se (de)</trd>,
     <trd>recordar-se (de)</trd>
@@ -77,7 +81,10 @@
     <trd>&c_p;&c_o;&c_m;&c_n;&c_i;&c_t;&c_mol;</trd>;
     <trd>&c_v;&c_s;&c_p;&c_o;&c_m;&c_n;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">pam&auml;tava&tcaron; (sa)</trd>
+  <trdgrp lng="sk">
+    <trd>pam&auml;tava&tcaron; (sa)</trd>,
+    <trd>pam&auml;ta&tcaron; si</trd>
+  </trdgrp>
   <trdgrp lng="sv">
     <trd>minnas</trd>,
     <trd>komma ih&aring;g</trd>
@@ -117,6 +124,7 @@
       <trd>eml&eacute;kez&odblac;tehets&eacute;g</trd>,
       <trd>mem&oacute;ria</trd>
     </trdgrp>
+    <trd lng="pl">pami&eogonek;&cacute;</trd>
   </snc>
   <snc mrk="memor.0o.memorado">
     <dif>
@@ -138,9 +146,14 @@
     </trdgrp>
     <trd lng="de">Erinnerung</trd>
     <trd lng="es">recuerdo</trd>
+    <trd lng="fr">souvenir</trd>
     <trdgrp lng="hu">
       <trd>eml&eacute;kezet</trd>,
       <trd>eml&eacute;kez&eacute;s</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>pami&eogonek;&cacute;</trd>,
+      <trd>wspomnienie</trd>
     </trdgrp>
   </snc>
   <snc mrk="memor.0o.KOMP">
@@ -155,8 +168,10 @@
     <trd lng="de">Speicher</trd>
     <trd lng="en">storage</trd>
     <trd lng="es">memoria</trd>
+    <trd lng="pl">pami&eogonek;&cacute;</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_m;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="cs">schopnost pamatov&aacute;n&iacute;</trd>
   <trd lng="en">memory</trd>
   <trd lng="fr">m&eacute;moire</trd>
   <trdgrp lng="hu">
@@ -165,7 +180,10 @@
   </trdgrp>
   <trd lng="nl">geheugen</trd>
   <trd lng="ru">&c_p;&c_a;&c_m;&c_ja;&c_t;&c_mol;</trd>
-  <trd lng="sk">pam&auml;&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>pam&auml;&tcaron;</trd>,
+    <trd>schopnos&tcaron; pam&auml;tania</trd>
+  </trdgrp>
   <trd lng="sv">minne</trd>
 </drv>
 
@@ -177,6 +195,10 @@
     </dif>
     <trd lng="be">&c_n;&c_a;&c_p;&c_a;&c_m;&c_ja;&c_c;&c_mol;</trd>
     <trd lng="ca">de mem&ograve;ria</trd>
+    <trdgrp lng="en">
+      <trd>by heart</trd>,
+      <trd>by rote</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>eml&eacute;kezetb&odblac;l</trd>,
       <trd>fejb&odblac;l</trd>,
@@ -186,6 +208,10 @@
       <trd>van <ind>buiten</ind></trd>,
       <trd>uit het <ind>hoofd</ind></trd>
     </trdgrp>
+    <trdgrp lng="pl">
+      <trd>na <ind>pami&eogonek;&cacute;</ind></trd>,
+      <trd>ku <ind>pami&eogonek;ci</ind></trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_p;&c_o; <ind>&c_p;&c_a;&c_m;&c_ja;&c_t;&c_i;</ind></trd>,
       <trd>&c_n;&c_a; <ind>&c_p;&c_a;&c_m;&c_ja;&c_t;&c_mol;</ind></trd>,
@@ -193,10 +219,12 @@
     </trdgrp>
     <trd lng="sk">naspam&auml;&tcaron;</trd>
   </snc>
+  <trd lng="cs">zpam&ecaron;ti</trd>
   <trdgrp lng="fr">
     <trd>de <ind>m&eacute;moire</ind></trd>,
     <trd>par coeur</trd>
   </trdgrp>
+  <trd lng="sk">spam&auml;ti</trd>
   <trd lng="sv">utantill</trd>
 </drv>
 
@@ -210,8 +238,10 @@
     <trd lng="be">&c_u; <ind>&c_p;&c_a;&c_m;&c_ja;&c_c;&c_mol;</ind> <klr>(&c_k;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;,
     &c_ch;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
     <trd lng="ca"><ind>en</ind> mem&ograve;ria <ind>de</ind></trd>
+    <trd lng="en">in memory of</trd>
     <trd lng="hu">eml&eacute;k&eacute;re</trd>
     <trd lng="nl">ter <ind>nagedachtenis</ind> van</trd>
+    <trd lng="pl">pami&eogonek;ci <klr>(kogo&sacute;, czego&sacute;)</klr></trd>
     <trd lng="ru">&c_v; <ind>&c_p;&c_a;&c_m;&c_ja;&c_t;&c_mol;</ind> <klr>(&c_o; &c_k;&c_o;&c_m;,
     &c_ch;&c_jo;&c_m;-&c_l;.)</klr></trd>
   </snc>
@@ -240,12 +270,17 @@
       &c_p;&c_a;&c_m;&c_ja;&c_c;&c_mol;)</klr></trd>
     </trdgrp>
     <trd lng="ca">record <klr>(souvenir)</klr></trd>
+    <trdgrp lng="en">
+      <trd>souvenir</trd>,
+      <trd>memento</trd>, <trd>keepsake</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>eml&eacute;kt&aacute;rgy</trd>,
       <trd>szuven&iacute;r</trd>
     </trdgrp>
     <trd lng="es">recuerdo <klr>(objeto)</klr></trd>
     <trd lng="nl">souvenir</trd>
+    <trd lng="pl">pami&aogonek;tka</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_o;&c_d;&c_a;&c_r;&c_o;&c_k; &c_n;&c_a; &c_p;&c_a;&c_m;&c_ja;&c_t;&c_mol;</trd>,
       <trd>&c_s;&c_u;&c_v;&c_je;&c_n;&c_i;&c_r;</trd>
@@ -268,9 +303,14 @@
       <trd>mem&ograve;ries</trd>,
       <trd>llibre de mem&ograve;ries</trd>
     </trdgrp>
+    <trd lng="en">memoir</trd>
     <trd lng="es">memorias</trd>
     <trd lng="hu">eml&eacute;kirat</trd>
     <trd lng="nl">memoires</trd>
+    <trdgrp lng="pl">
+      <trd>pami&eogonek;tnik</trd>,
+      <trd>wspomnienia</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_m;&c_je;&c_m;&c_u;&c_a;&c_r;&c_y;</trd>,
       <trd>&c_v;&c_o;&c_s;&c_p;&c_o;&c_m;&c_i;&c_n;&c_a;&c_n;&c_i;&c_ja;</trd>
@@ -307,12 +347,19 @@
     <trd><ind>fer</ind> recordar</trd>,
     <trd><ind>portar</ind> a la mem&ograve;ria</trd>
   </trdgrp>
+  <trd lng="cs">p&rcaron;ipomenout</trd>
+  <trd lng="en">to remind</trd>
   <trd lng="es">hacer <ind>recordar</ind> <klr>(ej: eso me recuerda
   a&#8230;/que&#8230;)</klr></trd>
   <trd lng="fr">rappeler<klr tip="amb"> (un souvenir)</klr></trd>
   <trd lng="hu">eml&eacute;keztet</trd>
   <trd lng="nl">herinneren</trd>
+  <trd lng="pl">przypomina&cacute;</trd>
   <trd lng="ru">&c_n;&c_a;&c_p;&c_o;&c_m;&c_i;&c_n;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>udr&zcaron;a&tcaron;</trd>,
+    <trd>zachova&tcaron; v pam&auml;ti</trd>
+  </trdgrp>
   <trd lng="sv">p&aring;minna</trd>
 </drv>
 
@@ -339,10 +386,19 @@
     <trd>memorial</trd>,
     <trd>recordatori</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>memorial</trd>,
+    <trd>monument</trd>
+  </trdgrp>
   <trd lng="fr">m&eacute;morial</trd>
   <trdgrp lng="hu">
     <trd>eml&eacute;km&udblac;</trd>,
     <trd>eml&eacute;keztet&odblac; <klr tip="ind">(t&aacute;rgy)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pami&aogonek;tka</trd>,
+    <trd>wspomnienie</trd>,
+    <trd>&sacute;wiadectwo <klr>(czego&sacute;)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_n;&c_a;&c_p;&c_o;&c_m;&c_i;&c_n;&c_a;&c_n;&c_i;&c_je;</trd>
 </drv>
@@ -354,10 +410,15 @@
       Kajero, libreto, kie oni enskribas tion, kion oni deziras <tld/>i.
     </dif>
     <trd lng="be">&c_n;&c_a;&c_t;&c_a;&c_t;&c_n;&c_ib;&c_k;</trd>
+    <trdgrp lng="en">
+      <trd>memo pad</trd>,
+      <trd>planner</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>jegyzetf&uuml;zet</trd>,
       <trd>eml&eacute;kk&ouml;nyv</trd>
     </trdgrp>
+    <trd lng="pl">notatnik</trd>
     <trd lng="ru">&c_z;&c_a;&c_p;&c_i;&c_s;&c_n;&c_a;&c_ja; &c_k;&c_n;&c_i;&c_zh;&c_k;&c_a;</trd>
   </snc>
   <snc>
@@ -369,10 +430,13 @@
       <trd>&c_n;&c_a;&c_t;&c_a;&c_t;&c_k;&c_a; <klr>(&c_n;&c_a; &c_p;&c_a;&c_m;&c_ja;&c_c;&c_mol;)</klr></trd>,
       <trd>&c_z;&c_a;&c_c;&c_je;&c_m;&c_k;&c_a; <klr>(&c_n;&c_a; &c_p;&c_a;&c_m;&c_ja;&c_c;&c_mol;)</klr></trd>
     </trdgrp>
+    <trdgrp lng="en"><trd>memorandum (memo)</trd>,
+    <trd>reminder</trd></trdgrp>
     <trdgrp lng="hu">
       <trd>eml&eacute;keztet&odblac; <klr tip="amb">(&iacute;r&aacute;s)</klr></trd>,
       <trd>memorandum</trd>
     </trdgrp>
+    <trd lng="pl">notatka</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_a;&c_m;&c_ja;&c_t;&c_k;&c_a;</trd>,
       <trd>&c_z;&c_a;&c_m;&c_je;&c_t;&c_k;&c_a; &c_n;&c_a; &c_p;&c_a;&c_m;&c_ja;&c_t;&c_mol;</trd>
@@ -382,10 +446,13 @@
       <trd>agenda</trd>,
       <trd>memor&agrave;ndum</trd>
     </trdgrp>
+  <trd lng="cs">pam&ecaron;&tcaron; po&ccaron;&iacute;ta&ccaron;e</trd>
   <trdgrp lng="fr">
     <trd>m&eacute;mento</trd>,
-    <trd>memorandum</trd>
+    <trd>memorandum</trd>,
+    <trd>pense-b&ecirc;te</trd>
   </trdgrp>
+  <trd lng="sk">pam&auml;&tcaron; po&ccaron;&iacute;ta&ccaron;a</trd>
 </drv>
 
 <drv mrk="memor.0inda">
@@ -405,12 +472,19 @@
     <trd>memorable</trd>,
     <trd>inoblidable</trd>
   </trdgrp>
+  <trd lng="cs">vhodn&yacute; k zapamatov&aacute;n&iacute;</trd>
+  <trd lng="en">memorable</trd>
   <trd lng="es">memorable</trd>
   <trd lng="fr">m&eacute;morable</trd>
+  <trdgrp lng="pl">
+    <trd>godny <ind>pami&eogonek;ci</ind></trd>,
+    <trd>wart <ind>zapami&eogonek;tania</ind></trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_p;&c_a;&c_m;&c_ja;&c_t;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_z;&c_a;&c_b;&c_y;&c_v;&c_a;&c_je;&c_m;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">pam&auml;tihodn&yacute;</trd>
   <trd lng="sv">minnesv&auml;rd</trd>
 </drv>
 
@@ -438,7 +512,15 @@
     <trd>memoritzar</trd>,
     <trd>"empollar"</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>to memorize</trd>,
+    <trd>learn by rote</trd>
+  </trdgrp>
   <trd lng="es">memorizar</trd>
+  <trdgrp lng="pl">
+    <trd>zapami&eogonek;tywa&cacute;</trd>,
+    <trd>uczy&cacute; si&eogonek; na <ind>pami&eogonek;&cacute;</ind></trd>
+  </trdgrp>
   </snc>
   <snc mrk="memor.en0igi.KOMP">
     <uzo tip="fak">KOMP</uzo>
@@ -458,9 +540,11 @@
     </dif>
     <trd lng="ca">memoritzar <klr>(enregistrar-hi la
   informaci&oacute;)</klr></trd>
+  <trd lng="en">to store</trd>
     <trd lng="es"><ind>grabar</ind> en memoria</trd>
   </snc>
   <trd lng="fr">m&eacute;moriser</trd>
+  <trd lng="pl">zapisywa&cacute; w <ind>pami&eogonek;ci</ind></trd>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_p;&c_o;&c_m;&c_i;&c_n;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_p;&c_o;&c_m;&c_n;&c_i;&c_t;&c_mol;</trd>
@@ -480,8 +564,10 @@
       </fnt>.
     </ekz>
   </snc>
+  <trd lng="en">to forget</trd>
   <trd lng="es">olvidar</trd>
   <trd lng="fr">oublier</trd>
+  <trd lng="pl">zapomina&cacute;</trd>
 </drv>
 
 <drv mrk="memor.ne0ebla">
@@ -493,11 +579,17 @@
         malsimpla ne<tld/>ebla regulo<fnt>B</fnt>.
       </ekz>
     </dif>
+    <trd lng="en">forgettable</trd>
     <trd lng="hu">megjegyezhetetlen</trd>
     <trdgrp lng="ca">
      <trd>dif&iacute;cil de recordar</trd>,
      <trd>immemorable</trd>
   </trdgrp> 
+  <trdgrp lng="pl">
+    <trd>nie do <ind>zapami&eogonek;tania</ind></trd>,
+    <trd>niemo&zdot;liwy do <ind>zapami&eogonek;tania</ind></trd>,
+    <trd>nie do <ind>nauczenia</ind></trd>
+  </trdgrp>
   </snc>
   <snc>
     <dif>
@@ -508,7 +600,9 @@
       </ekz>
     </dif>
     <trd lng="ca">immemorial</trd>
+    <trd lng="en">forgotten</trd>
     <trd lng="hu">feled&eacute;sbe mer&uuml;lt</trd>
+    <trd lng="pl">zapomniany</trd>
   </snc>
   <trdgrp lng="fr">
     <trd>imm&eacute;morial</trd>,
@@ -542,6 +636,15 @@
     <trd>rememorar</trd>,
     <trd>evocar</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pomn&iacute;t</trd>,
+    <trd>pomn&ecaron;t</trd>,
+    <trd>p&rcaron;ipamatovat</trd>,
+    <trd>rozpomenout se</trd>,
+    <trd>vybavit si v mysli</trd>,
+    <trd>vzpomenout si</trd>
+  </trdgrp>
+  <trd lng="en">to remember</trd>
   <trd lng="es">rememorar</trd>
   <trdgrp lng="fr">
     <trd>se <ind>rappeler</ind></trd>,
@@ -549,11 +652,54 @@
   </trdgrp>
   <trd lng="hu">visszaeml&eacute;kezik</trd>
   <trd lng="nl">zich <ind>herinneren</ind></trd>
+  <trdgrp lng="pl">
+    <trd>przypomina&cacute; <klr>sobie</klr></trd>,
+    <trd>wspomina&cacute;</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_v;&c_s;&c_p;&c_o;&c_m;&c_n;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_s;&c_p;&c_o;&c_m;&c_i;&c_n;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">spomen&uacute;&tcaron; si</trd>
+  <trdgrp lng="sk">
+    <trd>rozpam&auml;ta&tcaron; sa</trd>,
+    <trd>spomen&uacute;&tcaron; si</trd>,
+    <trd>upam&auml;ta&tcaron; sa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="memor.re0o">
+  <kap>re<tld/>o</kap>
+  <snc mrk="memor.re0o.SNC">
+    <dif>
+      Denova prezentado en la konscio de anta&ubreve;a percepto a&ubreve; ideo:
+      <ekz>
+        li ne havis ian re<tld/>on pri tio
+        <fnt>
+          <aut>H. C. Andersen, trad. d-ro L. L. Zamenhof</aut>,
+          <vrk><url
+          ref="http://www.steloj.de/esperanto/fabeloj4/dunoj.html">Fabeloj
+          de Andersen - Historio el la
+          dunoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">memory</trd>
+    <trd lng="fr">souvenir</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>lit. reminiscence</trd>,
+    <trd>p&rcaron;ipom&iacute;nka</trd>,
+    <trd>vzpom&iacute;nka</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>przypomnienie</trd>,
+    <trd>wspomnienie</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>memento</trd>,
+    <trd>varovanie</trd>,
+    <trd>v&yacute;straha</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="memor.re0igi">
@@ -583,6 +729,8 @@
     <trd>recordar <klr>(quelcom a alg&uacute;)</klr></trd>,
     <trd><ind>fer</ind> recordar</trd>
   </trdgrp>
+  <trd lng="cs">p&rcaron;ipomenout</trd>
+  <trd lng="en">to remind</trd>
   <trdgrp lng="es">
     <trd><ind>recordar</ind> algo a alguien <klr>(refrescar la memoria
     de alguien)</klr></trd>
@@ -595,7 +743,9 @@
     <trd>felid&eacute;z</trd>
   </trdgrp>
   <trd lng="nl">herinneren</trd>
+  <trd lng="pl">przypomina&cacute;</trd>
   <trd lng="ru">&c_n;&c_a;&c_p;&c_o;&c_m;&c_n;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">pripomen&uacute;&tcaron;</trd>
 </drv>
 
 <drv mrk="memor.0signo">
@@ -605,12 +755,18 @@
       <tld lit="M"/>iga&jcirc;o.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>zna&ccaron;ka na pam&aacute;tku</trd>,
+    <trd>zna&ccaron;ka pro zapamatov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="en"><trd>token</trd>, <trd>memorial</trd></trdgrp>
   <trdgrp lng="hu">
     <trd>eml&eacute;km&udblac;</trd>,
     <trd>eml&eacute;keztet&odblac; <klr tip="amb">(t&aacute;rgy)</klr></trd>
   </trdgrp>
   <trd lng="nl">gedenkteken</trd>
   <trd lng="ru">&c_n;&c_a;&c_p;&c_o;&c_m;&c_i;&c_n;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">zna&ccaron;ka na pamiatku</trd>
 </drv>
 
 <drv mrk="memor.kar0a">
@@ -621,14 +777,24 @@
     </dif>
   </snc>
   <trd lng="ca">de dol&ccedil; record</trd>
+  <trdgrp lng="cs">
+    <trd>pam&aacute;tn&yacute;</trd>,
+    <trd>pam&ecaron;tihodn&yacute;</trd>
+  </trdgrp>
+  <trd lng="en">fondly remembered</trd>
   <trdgrp lng="hu">
     <trd>&aacute;ldott eml&eacute;k&udblac;</trd>,
     <trd>megboldogult</trd>
   </trdgrp>
   <trd lng="nl">zaliger</trd>
+  <trd lng="pl">niezapomniany</trd>
   <trdgrp lng="ru">
     <trd>&c_n;&c_je;&c_z;&c_a;&c_b;&c_y;&c_v;&c_a;&c_je;&c_m;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_a;&c_m;&c_ja;&c_t;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>blahej</trd>,
+    <trd>drahej pam&auml;ti</trd>
   </trdgrp>
 </drv>
 <adm>
@@ -639,27 +805,27 @@
 </art>
 <!--
 $Log: memor.xml,v $
+Revision 1.30  2015/09/29 09:10:17  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.29  2015/09/28 15:10:14  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.28  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2015/04/19 16:10:16  revo
+Alain Gerard: + re~o
+
+Revision 1.25  2015/02/20 15:10:16  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.24  2014/10/16 10:10:31  revo
 Carlos Garcia: +trd es -i -ajx -ind re-i korektado -ig re-ig
 
 Revision 1.23  2013/02/04 16:10:17  revo
-Jeromo Vasxe: + mal~i
-
-Revision 1.22  2012/04/08 10:10:08  revo
-Agustin Garcia Lopez: +trd(es)
-
-Revision 1.21  2011/11/22 17:10:09  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.20  2009/08/30 16:30:43  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.19  2006/07/31 16:32:21  revo
-Tulio Flores: +tr pt
-
-Revision 1.18  2005/03/16 18:16:41  revo
-Yury Finkel: +trd ru
-
-Revision 1.17  2004/09/26 16:31:42  revo
 -->
 </vortaro>

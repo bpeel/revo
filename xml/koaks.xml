@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koaks.xml,v 1.13 2011/10/24 08:10:12 revo Exp $">
+<art mrk="$Id: koaks.xml,v 1.15 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>koaks</rad>/o
@@ -17,19 +17,27 @@
       erojn.  
     </dif>
   </snc>
-  <trd lng="be">&c_k;&c_o;&c_k;&c_s;</trd>       
-  <trd lng="bg">&c_k;&c_o;&c_k;&c_s;</trd>       
+  <trd lng="be">&c_k;&c_o;&c_k;&c_s;</trd>
+  <trd lng="bg">&c_k;&c_o;&c_k;&c_s;</trd>
   <trd lng="br">glaou-kok</trd>
+  <trd lng="cs">koks</trd>
   <trd lng="de">Koks</trd>
   <trd lng="en">coke</trd>
   <trd lng="fa">&f_k;&a_damma;&f_k;</trd>
   <trd lng="fr">coke</trd>
   <trd lng="nl">cokes</trd>
   <trd lng="ru">&c_k;&c_o;&c_k;&c_s;</trd>
+  <trd lng="sk">koks</trd>
 </drv>
 </art>
 <!--
 $Log: koaks.xml,v $
+Revision 1.15  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2011/10/24 08:10:12  revo
 Wieland Pusch: +trd bg
 

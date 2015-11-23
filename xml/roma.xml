@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: roma.xml,v 1.4 2014/01/15 21:10:11 revo Exp $">
+<art mrk="$Id: roma.xml,v 1.6 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <rad>roma</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -40,11 +40,25 @@
     <trd>cygan</trd>
   </trdgrp>
   <trd lng="pt">cigano</trd>
+  <trdgrp lng="sk">
+    <trd>Cigáň</trd>,
+    <trd>Róm</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>Cikán</trd>,
+    <trd>Róm</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: roma.xml,v $
+Revision 1.6  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2014/01/15 21:10:11  revo
 Joop Eggen: +trd bg, de, nl
 

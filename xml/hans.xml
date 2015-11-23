@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hans.xml,v 1.16 2013/09/11 18:10:15 revo Exp $">
+<art mrk="$Id: hans.xml,v 1.18 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>hans</rad>/o
   <fnt>Z</fnt>
@@ -31,6 +31,10 @@
   </snc>
   <trd lng="be">&c_g;&c_a;&c_n;&c_z;&c_a;</trd>
   <trd lng="bg">&c_h;&c_a;&c_n;&c_z;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>hansa</trd>,
+    <trd>hanza</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Hanse</trd>,
     <trd>Hansa<klr> [ark]</klr></trd>
@@ -40,10 +44,17 @@
   <trd lng="nl">Hansa</trd>
   <trd lng="pt">hansa</trd>
   <trd lng="ru">&c_g;&c_a;&c_n;&c_z;&c_a;</trd>
+  <trd lng="sk">hanza</trd>
 </drv>
 </art>
 <!--
 $Log: hans.xml,v $
+Revision 1.18  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/09/11 18:10:15  revo
 Joop Eggen: +trd bg
 

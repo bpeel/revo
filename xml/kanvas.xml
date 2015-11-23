@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kanvas.xml,v 1.17 2014/10/28 20:10:17 revo Exp $">
+<art mrk="$Id: kanvas.xml,v 1.18 2015/09/26 14:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kanvas</rad>/o <fnt><bib>PV</bib></fnt>
@@ -66,6 +66,10 @@
       <trd>Schema</trd>,
       <trd>Entwurf</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd>canvas</trd>,
+      <trd>setting</trd>, <trd>scope</trd>
+    </trdgrp>
     <trdgrp lng="fa">
       <trd>&a_T;&a_r;&a_H;</trd>,
       <trd>&a_z;&a_m;&f_y;&a_n;&a_h;</trd>
@@ -90,6 +94,9 @@
 </art>
 <!--
 $Log: kanvas.xml,v $
+Revision 1.18  2015/09/26 14:10:15  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.17  2014/10/28 20:10:17  revo
 Jeromo Vasxe: + ekz
 
@@ -109,8 +116,5 @@ Revision 1.12  2004/10/31 17:33:59  revo
 Marc Bavant: +trd fr, +uzo TEKS
 
 Revision 1.11 2004/08/10 16:32:38 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10 2004/03/05 17:31:09 revo
 -->
 </vortaro>

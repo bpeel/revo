@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: azen.xml,v 1.39 2014/06/30 15:10:30 revo Exp $">
+<art mrk="$Id: azen.xml,v 1.41 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>azen</rad>/o <fnt><bib>PV</bib></fnt>cel
@@ -38,13 +38,17 @@
   </snc>
   <trd lng="be">&c_a;&c_s;&c_jo;&c_l;</trd>
   <trd lng="bg">&c_m;&c_a;&c_g;&c_a;&c_r;&c_je;</trd>
+  <trd lng="br">azen</trd>
   <trdgrp lng="ca">
     <trd>ase</trd>
     <trd>ruc</trd>
     <trd>burro</trd>
     <trd>somer</trd>
   </trdgrp>
-  <trd lng="br">azen</trd>
+  <trdgrp lng="cs">
+    <trd>osel</trd>,
+    <trd>somár <klr>(nář. a expr., nadávka)</klr></trd>
+  </trdgrp>
   <trd lng="de">Esel</trd>
   <trd lng="en">ass</trd>
   <trdgrp lng="es">
@@ -66,8 +70,12 @@
     <trd>burro</trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_s;&c_jo;&c_l;</trd>
-  <trd lng="tr">e&scedil;&scedil;ek</trd>
+  <trdgrp lng="sk">
+    <trd>osol</trd>,
+    <trd>somár</trd>
+  </trdgrp>
   <trd lng="sv">&aring;sna</trd>
+  <trd lng="tr">e&scedil;&scedil;ek</trd>
 </drv>
 
 <drv mrk="azen.0ino">
@@ -83,6 +91,7 @@
     </dif>
   </snc>
   <trd lng="bg">&c_m;&c_a;&c_g;&c_a;&c_r;&c_i;&c_c;&c_a;</trd>
+  <trd lng="cs">oslice</trd>
   <trd lng="de">Eselin</trd>
   <trd lng="fr">&acirc;nesse</trd>
   <trdgrp lng="it">
@@ -91,6 +100,7 @@
   </trdgrp>
   <trd lng="nl">ezelin</trd>
   <trd lng="ru">&c_o;&c_s;&c_l;&c_i;&c_c;&c_a;</trd>
+  <trd lng="sk">oslica</trd>
 </drv>
 
 <drv mrk="azen.0ido">
@@ -106,16 +116,24 @@
     </dif>
   </snc>
   <trd lng="bg">&c_m;&c_a;&c_g;&c_a;&c_r;&c_je;&c_n;&c_c;&c_je;</trd>
+  <trd lng="cs">oslí hříbě</trd>
   <trd lng="de">Eselfohlen</trd>
   <trd lng="fr">&acirc;non</trd>
   <trd lng="it">puledro<klr> (di asino)</klr></trd>
   <trd lng="nl">ezelsveulen</trd>
   <trd lng="ru">&c_o;&c_s;&c_l;&c_jo;&c_n;&c_o;&c_k;</trd>
+  <trd lng="sk">oslie mláďa</trd>
 </drv>
 
 </art>
 <!--
 $Log: azen.xml,v $
+Revision 1.41  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.40  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.39  2014/06/30 15:10:30  revo
 Eko Nur Syah Hidayat: +id
 

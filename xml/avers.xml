@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: avers.xml,v 1.5 2012/08/03 13:10:15 revo Exp $">
+<art mrk="$Id: avers.xml,v 1.7 2015/07/04 08:37:31 revo Exp $">
 <kap>
     <rad>avers</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -28,6 +28,11 @@
     </dif>
   </snc>
   <trd lng="ca">anvers</trd>
+  <trdgrp lng="cs">
+    <trd>averz</trd>,
+    <trd>líc</trd>,
+    <trd>lícní strana</trd>
+  </trdgrp>
   <trd lng="es">anverso</trd>
   <trdgrp lng="fr">
     <trd>avers</trd>,
@@ -37,11 +42,18 @@
     <trd>recto<klr> (di moneta, targa ecc..)</klr></trd>,
     <trd>dritto<klr> (di moneta, targa ecc..)</klr></trd>
   </trdgrp>
+  <trd lng="sk">lícna strana</trd>
 </drv>
 </art>
 
 <!--
 $Log: avers.xml,v $
+Revision 1.7  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2012/08/03 13:10:15  revo
 Marc Rausell: + trd ca
 

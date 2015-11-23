@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: barb.xml,v 1.29 2014/05/30 15:10:53 revo Exp $">
+<art mrk="$Id: barb.xml,v 1.31 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>barb</rad>/o
@@ -56,6 +56,7 @@
     <trd lng="sv">sk&auml;gg</trd>
     <trd lng="vo">balib</trd>
   </snc>
+  <trd lng="cs">vousy na bradě a lících</trd>
 </drv>
 
 <drv mrk="barb.0ajxo">
@@ -91,6 +92,8 @@
     <trd lng="ru">&c_b;&c_o;&c_r;&c_o;&c_d;&c_a;&c_t;&c_y;&c_j;</trd>
     <trd lng="sv">sk&auml;ggig</trd>
   </snc>
+  <trd lng="cs">vousatý</trd>
+  <trd lng="sk">bradatý</trd>
 </drv>
 
 <drv mrk="barb.0hava">
@@ -121,6 +124,7 @@
     <trd lng="sk">bradat&yacute;</trd>
     <trd lng="sv">sk&auml;ggig</trd>
   </snc>
+  <trd lng="cs">vousatý</trd>
 </drv>
 
 <drv mrk="barb.0isto">
@@ -144,6 +148,8 @@
     </trdgrp>
     <trd lng="sv">barberare</trd>
   </snc>
+  <trd lng="cs">holič</trd>
+  <trd lng="sk">holič</trd>
 </drv>
 
 <drv mrk="barb.0lano">
@@ -162,6 +168,8 @@
     &c_p;&c_o;&c_d;&c_b;&c_o;&c_r;&c_o;&c_d;&c_k;&c_je;)</klr></trd>
     <trd lng="sv">fjun</trd>
   </snc>
+  <trd lng="cs">chmýří na bradě</trd>
+  <trd lng="sk">jemné chĺpky na brade</trd>
 </drv>
 
 <drv mrk="barb.0ulo">
@@ -188,6 +196,7 @@
     <trd lng="sk">brad&aacute;&ccaron;</trd>
     <trd lng="sv">sk&auml;ggig person</trd>
   </snc>
+  <trd lng="cs">vousáč</trd>
 </drv>
 
 <drv mrk="barb.0fisxo">
@@ -262,11 +271,22 @@
       <trd>sl&auml;trakad</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bezvousý</trd>,
+    <trd>holobradý</trd>
+  </trdgrp>
+  <trd lng="sk">holobradý</trd>
 </drv>
 </art>
 <!--
 
 $Log: barb.xml,v $
+Revision 1.31  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.29  2014/05/30 15:10:53  revo
 Eko Nur Syah Hidayat: +id
 

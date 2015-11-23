@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plekt.xml,v 1.20 2013/07/31 19:10:09 revo Exp $">
+<art mrk="$Id: plekt.xml,v 1.22 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>plekt</rad>/i
@@ -36,6 +36,11 @@
     <trd>&c_z;&c_a;&c_p;&c_l;&c_je;&c_s;&c_mol;&c_c;&c_ib;</trd>
   </trdgrp>
   <trd lng="bg">&c_p;&c_l;&c_je;&c_t;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>plést <klr>(cop, košík)</klr></trd>,
+    <trd>splétat</trd>,
+    <trd>vít</trd>
+  </trdgrp>
   <trd lng="de">flechten</trd>
   <trd lng="en">braid</trd>
   <trd lng="es">trenzar</trd>
@@ -52,6 +57,11 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_l;&c_je;&c_s;&c_t;&c_i;</trd>,
     <trd>&c_z;&c_a;&c_p;&c_l;&c_je;&c_t;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pliesť</trd>,
+    <trd>uviť</trd>,
+    <trd>zapliesť</trd>
   </trdgrp>
 </drv>
 
@@ -182,16 +192,22 @@
     <trd>&c_p;&c_je;&c_r;&c_a;&c_p;&c_l;&c_je;&c_s;&c_mol;&c_c;&c_ib;</trd>
   </trdgrp>
   <trd lng="bg">&c_v;&c_p;&c_l;&c_i;&c_t;&c_a;&c_m;</trd>
+  <trd lng="cs">muchlat</trd>
   <trd lng="en">interlace</trd>
+  <trd lng="es">entrelazar</trd>
   <trd lng="fr">entrelacer</trd>
   <trd lng="hu">&ouml;sszefon</trd>
   <trd lng="nl">dooreenstrengelen</trd>
-  <trd lng="es">entrelazar</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_p;&c_l;&c_je;&c_t;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_p;&c_l;&c_je;&c_s;&c_t;&c_i;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_je;&c_p;&c_l;&c_je;&c_t;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_je;&c_p;&c_l;&c_je;&c_s;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>húžvať</trd>,
+    <trd>krkvať</trd>,
+    <trd>krčiť</trd>
   </trdgrp>
 </drv>
 
@@ -211,6 +227,7 @@
     <trd>&c_r;&c_a;&c_s;&c_p;&c_l;&c_je;&c_s;&c_mol;&c_c;&c_ib;</trd>
   </trdgrp>
   <trd lng="bg">&c_r;&c_a;&c_z;&c_p;&c_l;&c_i;&c_t;&c_a;&c_m;</trd>
+  <trd lng="cs">rozplést</trd>
   <trdgrp lng="de">
     <trd>aufflechten</trd>,
     <trd>entflechten</trd>,
@@ -226,6 +243,11 @@
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_s;&c_p;&c_l;&c_je;&c_s;&c_t;&c_i;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_p;&c_l;&c_je;&c_t;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozuzliť (uzol</trd>,
+    <trd>vypárať <klr>(pletené)</klr></trd>,
+    <trd>zápletku)</trd>
   </trdgrp>
 </drv>
 
@@ -258,6 +280,7 @@
     <trd>&c_p;&c_je;&c_r;&c_a;&c_p;&c_l;&c_ja;&c_t;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_a;&c_p;&c_l;&c_je;&c_s;&c_mol;&c_c;&c_ib;</trd>
   </trdgrp>
+  <trd lng="cs">proplést</trd>
   <trdgrp lng="de">
     <trd>hindurchflechten</trd>,
     <trd>durchflechten</trd>,
@@ -272,10 +295,17 @@
     <trd>&c_p;&c_je;&c_r;&c_je;&c_p;&c_l;&c_je;&c_t;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_je;&c_p;&c_l;&c_je;&c_s;&c_t;&c_i;</trd>
   </trdgrp>
+  <trd lng="sk">prepliesť</trd>
 </drv>
 </art>
 <!--
 $Log: plekt.xml,v $
+Revision 1.22  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2013/07/31 19:10:09  revo
 Joop Eggen: bg korekto
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: peleri.xml,v 1.15 2012/07/17 13:10:12 revo Exp $">
+<art mrk="$Id: peleri.xml,v 1.17 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>pelerin</rad>/o
@@ -32,6 +32,7 @@
     <trd>esclavina</trd>,
     <trd>pelerina</trd>
   </trdgrp>
+  <trd lng="cs">pelerína</trd>
   <trd lng="de">Pelerine</trd>
   <trdgrp lng="en">
     <trd>pelerine</trd>,
@@ -47,11 +48,21 @@
   <trd lng="nl">pelerine</trd>
   <trd lng="pt">pelerine</trd>
   <trd lng="ru">&c_p;&c_je;&c_l;&c_je;&c_r;&c_i;&c_n;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>pelerína</trd>,
+    <trd>plášť bez rukávov</trd>
+  </trdgrp>
   <trd lng="sv">pelerin</trd>
 </drv>
 </art>
 <!--
 $Log: peleri.xml,v $
+Revision 1.17  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2012/07/17 13:10:12  revo
 Marc Rausell: + trd ca
 

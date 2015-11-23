@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekvili.xml,v 1.21 2010/11/15 17:30:26 revo Exp $">
+<art mrk="$Id: ekvili.xml,v 1.23 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>ekvilibr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -74,6 +74,7 @@
     <trd>&c_r;&c_a;&c_w;&c_n;&c_a;&c_v;&c_a;&c_g;&c_a;</trd>,
     <trd>&c_b;&c_a;&c_l;&c_ja;&c_n;&c_s;</trd>
   </trdgrp>
+  <trd lng="cs">rovnováha</trd>
   <trd lng="de">Gleichgewicht</trd>
   <trdgrp lng="en">
     <trd>equilibrium</trd>,
@@ -88,6 +89,7 @@
     <trd>&c_r;&c_a;&c_v;&c_n;&c_o;&c_v;&c_je;&c_s;&c_i;&c_je;</trd>,
     <trd>&c_b;&c_a;&c_l;&c_a;&c_n;&c_s;</trd>
   </trdgrp>
+  <trd lng="sk">rovnováha</trd>
 </drv>
 
 <drv mrk="ekvili.0i">
@@ -129,6 +131,7 @@
     </trdgrp>
     <trd lng="ru">&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol; &c_r;&c_a;&c_v;&c_n;&c_o;&c_v;&c_je;&c_s;&c_i;&c_je;</trd>
   </snc>
+  <trd lng="cs">být v rovnováze</trd>
   <trdgrp lng="en">
     <trd>be in equilibrium</trd>,
     <trd>be in balance</trd>
@@ -138,6 +141,7 @@
     <trd>&ecirc;tre en <ind>&eacute;quilibre</ind></trd>,
     <trd>se tenir en <ind>&eacute;quilibre</ind></trd>
   </trdgrp>
+  <trd lng="sk">držať v rovnováhe</trd>
 </drv>
 
 <drv mrk="ekvili.0igi">
@@ -209,6 +213,11 @@
       ref al kontrauxpezi (kreota). <aut>MB</aut>
     </adm>
   </snc>
+  <trdgrp lng="cs">
+    <trd>uvést do rovnováhy</trd>,
+    <trd>vyvážit</trd>
+  </trdgrp>
+  <trd lng="sk">uviesť do rovnováhy</trd>
 </drv>
 
 <drv mrk="ekvili.0isto">
@@ -226,6 +235,10 @@
   </snc>
   <trd
   lng="be">&c_e;&c_k;&c_v;&c_ib;&c_l;&c_ib;&c_b;&c_r;&c_y;&c_s;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>ekvilibrista</trd>,
+    <trd>provazochodec</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>&Auml;quilibrist</trd>,
     <trd>Gleichgewichtsakrobat</trd>,
@@ -234,13 +247,14 @@
   <trd lng="en">equilibrist</trd>
   <trd lng="es">equilibrista</trd>
   <trd lng="fr">&eacute;quilibriste</trd>
+  <trd lng="hu">egyens&uacute;lyoz&oacute;m&udblac;v&eacute;sz</trd>
   <trdgrp lng="nl">
     <trd>koorddanser</trd>,
     <trd>equilibrist</trd>
   </trdgrp>
-  <trd lng="hu">egyens&uacute;lyoz&oacute;m&udblac;v&eacute;sz</trd>
   <trd lng="pl">ekwilibrysta</trd>
   <trd lng="ru">&c_e;&c_k;&c_v;&c_i;&c_l;&c_i;&c_b;&c_r;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">artista <klr>(povrazolezec)</klr></trd>
 </drv>
 
 <drv mrk="ekvili.mal0igi">
@@ -269,6 +283,7 @@
     <ind>&c_r;&c_a;&c_w;&c_n;&c_a;&c_v;&c_a;&c_g;&c_u;</ind></trd>,
     <trd>&c_d;&c_e;&c_s;&c_t;&c_a;&c_b;&c_ib;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="cs">porušit rovnováhu</trd>
   <trdgrp lng="en">
     <trd>unbalance</trd>,
     <trd>destabilize</trd>
@@ -285,10 +300,17 @@
     <trd>wybija&cacute; z <ind>r&oacute;wnowagi</ind></trd>,
     <trd>destabilizowa&cacute;</trd>
   </trdgrp>
+  <trd lng="sk">porušiť rovnováhu</trd>
 </drv>
 </art>
 <!--
 $Log: ekvili.xml,v $
+Revision 1.23  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2010/11/15 17:30:26  revo
 Jeromo Vasxe: + ekz
 

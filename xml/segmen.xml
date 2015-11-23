@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: segmen.xml,v 1.23 2009/10/19 16:30:37 revo Exp $">
+<art mrk="$Id: segmen.xml,v 1.25 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>segment</rad>/o
@@ -139,12 +139,31 @@
       <trd>&c_o;&c_t;&c_r;&c_je;&c_z;&c_o;&c_k;<klr tip="ind"> (&c_i;&c_n;&c_t;&c_je;&c_r;&c_v;&c_a;&c_l;)</klr></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>rozdělení</trd>,
+    <trd>rozčlenění</trd>,
+    <trd>segment</trd>,
+    <trd>úsek</trd>,
+    <trd>část</trd>
+  </trdgrp>
   <trd lng="nl">segment</trd>
   <trd lng="ru">&c_s;&c_je;&c_g;&c_m;&c_je;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>rozdelenie</trd>,
+    <trd>rozčlenenie</trd>,
+    <trd>segment</trd>,
+    <trd>časť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: segmen.xml,v $
+Revision 1.25  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2009/10/19 16:30:37  revo
 Antonio Codazzi: +trd it
 

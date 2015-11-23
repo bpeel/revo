@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prov.xml,v 1.26 2007/11/19 17:31:32 revo Exp $">
+<art mrk="$Id: prov.xml,v 1.29 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>prov</rad>/i
@@ -320,7 +320,12 @@ kriis
       <trd>&c_p;&c_y;&c_t;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
     </trdgrp>
   </snc>
-  <trd lng="cs">zkusit</trd>
+  <trdgrp lng="cs">
+    <trd>pokoušet se</trd>,
+    <trd>pokusit se</trd>,
+    <trd>vyzkoušet</trd>,
+    <trd>zkusit</trd>
+  </trdgrp>
   <trd lng="de">probieren</trd>
   <trd lng="en">attempt</trd>
   <trd lng="es">probar</trd>
@@ -346,6 +351,12 @@ kriis
     <trd>provar</trd>,
     <trd>experimentar</trd>,
     <trd>ensaiar</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>okúsiť</trd>,
+    <trd>pokúšať<klr>(sa)</klr></trd>,
+    <trd>skúsiť</trd>,
+    <trd>urobiť pokus</trd>
   </trdgrp>
 </drv>
 
@@ -442,6 +453,13 @@ kriis
     <trd>&c_t;&c_e;&c_s;&c_t;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_v;&c_je;&c_r;&c_k;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pokus</trd>,
+    <trd>test</trd>,
+    <trd>vyzkoušení</trd>,
+    <trd>zkoušení</trd>,
+    <trd>zkouška</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Probe</trd>,
     <trd>Versuch</trd>,
@@ -469,7 +487,7 @@ kriis
     <trd>proef</trd>,
     <trd>test</trd>
   </trdgrp>
-    <trdgrp lng="pl">
+  <trdgrp lng="pl">
       <trd>pr&oacute;ba</trd>,
       <trd>sprawdzenia</trd>,
       <trd>usi&lstroke;owanie</trd>
@@ -480,6 +498,10 @@ kriis
     <trd>&c_p;&c_r;&c_o;&c_v;&c_je;&c_r;&c_k;&c_a;</trd>,
     <trd>&c_t;&c_je;&c_s;&c_t;</trd>,
     <trd>&c_p;&c_o;&c_p;&c_y;&c_t;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pokus</trd>,
+    <trd>skúška</trd>
   </trdgrp>
 </drv>
 
@@ -518,6 +540,10 @@ kriis
     &c_v;&c_y;&c_p;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y;
     </trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pokusný</trd>,
+    <trd>zkušební</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>d'<ind>essai</ind></trd>,
     <trd>d'<ind>&eacute;preuve</ind></trd>,
@@ -539,6 +565,10 @@ kriis
     &c_i;&c_s;&c_p;&c_y;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
     </trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pokusný</trd>,
+    <trd>skúšobný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prov.0adi">
@@ -547,7 +577,8 @@ kriis
     <dif>
       Ade <tld/>i:
       <ekz>
-        mi <tld/>is kaj <tld/>adis, sed kion ajn mi faras, mi malsukcesas
+        mi <tld/>is kaj <tld/>adis, sed kion ajn mi faras, mi
+        malsukcesas
         <fnt><bib>Lasu</bib>, <lok>zorgi pri zorgado</lok></fnt>.
       </ekz>
     </dif>
@@ -622,6 +653,10 @@ kriis
     <trd>&c_t;&c_e;&c_s;&c_t;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_v;&c_je;&c_r;&c_k;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pokusnictví</trd>,
+    <trd>zkoušení</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>essai</trd>,
     <trd>&eacute;preuve<klr tip="amb"> (essai)</klr></trd>,
@@ -645,6 +680,10 @@ kriis
     <trd>&c_t;&c_je;&c_s;&c_t;</trd>,
     <trd>&c_p;&c_o;&c_p;&c_y;&c_t;&c_k;&c_a;</trd>,
     <trd>&c_i;&c_s;&c_p;&c_y;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pokusníctvo</trd>,
+    <trd>skúšanie</trd>
   </trdgrp>
 </drv>
 
@@ -764,6 +803,11 @@ kriis
     <trd>&c_p;&c_r;&c_o;&c_b;&c_n;&c_i;&c_k;</trd>,
     <trd>&c_t;&c_je;&c_s;&c_t;&c_je;&c_r;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>skúmadlo</trd>,
+    <trd>skúšobné zariadenie</trd>,
+    <trd>skúšobný kameň</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prov.0inda">
@@ -828,8 +872,10 @@ kriis
   <trd lng="be">
   &c_p;&c_a;&c_s;&c_p;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;
   </trd>
+  <trd lng="cs">zkusit</trd>
   <trd lng="fr">se mettre &agrave; <ind>essayer</ind></trd>
   <trd lng="hu">elkezd <ind>pr&oacute;b&aacute;lni</ind></trd>
+  <trd lng="sk">skúsiť</trd>
 </drv>
 
 <drv mrk="prov.el0i">
@@ -914,6 +960,8 @@ kriis
   <trd lng="be">
   &c_v;&c_y;&c_p;&c_r;&c_a;&c_b;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;
   </trd>
+  <trd lng="cs">vyzkoušet</trd>
+  <trd lng="es">poner a prueba</trd>
   <trdgrp lng="fr">
     <trd>essayer</trd>,
     <trd>&eacute;prouver<klr tip="ind"> (mettre &agrave;
@@ -926,6 +974,7 @@ kriis
   <trd lng="hu">(alaposan) <ind>kipr&oacute;b&aacute;l</ind></trd>
   <trd lng="nl">toetsen</trd>
   <trd lng="ru">&c_i;&c_s;&c_p;&c_y;&c_t;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">vyskúšať</trd>
 </drv>
 
 <drv mrk="prov.el0o">
@@ -999,6 +1048,7 @@ kriis
   <trd lng="be">
   &c_v;&c_y;&c_p;&c_r;&c_a;&c_b;&c_o;&c_w;&c_v;&c_a;&c_c;&c_c;&c_a;
   </trd>
+  <trd lng="es">ponerse a prueba</trd>
   <trdgrp lng="fr">
     <trd>&ecirc;tre <ind>&eacute;prouv&eacute;</ind><klr tip="ind"> 
     (&ecirc;tre mis &agrave; l'&eacute;preuve)</klr></trd>,
@@ -1222,13 +1272,15 @@ kriis
     <trd>&c_p;&c_r;&c_y;&c_m;&c_ja;&c_r;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_m;&c_je;&c_r;&c_y;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="cs">vyzkoušet na sobě</trd>
+  <trd lng="de">anprobieren</trd>
   <trd lng="fr">essayer<klr tip="ind"> (un v&ecirc;tement)</klr></trd>
   <trd lng="hu">felpr&oacute;b&aacute;l</trd>
-  <trd lng="de">anprobieren</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_i;&c_m;&c_je;&c_r;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_m;&c_je;&c_r;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">skúšať <klr>(šaty)</klr></trd>
 </drv>
 <rim>
   La radiko <ctl><tld/></ctl> aperas en pluraj aliaj kunmeta&jcirc;oj,
@@ -1251,6 +1303,15 @@ kriis
 </art>
 <!--
 $Log: prov.xml,v $
+Revision 1.29  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/02/25 10:10:15  revo
+Carlos Garcia: +trd es el-i el-igxi
+
 Revision 1.26  2007/11/19 17:31:32  revo
 Sebastian Cyprych: +trd pl
 
@@ -1270,8 +1331,5 @@ Revision 1.21 2005/02/25 17:34:58 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.20 2005/02/19 18:51:01 revo
-Wieland Pusch: +trd de
-
-Revision 1.19 2005/01/05 17:31:29 revo
 -->
 </vortaro>

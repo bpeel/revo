@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: terapi.xml,v 1.14 2011/12/09 15:10:08 revo Exp $">
+<art mrk="$Id: terapi.xml,v 1.16 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>terapi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -25,6 +25,10 @@
   </snc>
   <trd lng="be">&c_t;&c_e;&c_r;&c_a;&c_p;&c_ib;&c_ja;</trd>
   <trd lng="ca">ter&agrave;pia</trd>
+  <trdgrp lng="cs">
+    <trd>léčba</trd>,
+    <trd>terapie</trd>
+  </trdgrp>
   <trd lng="de">Therapie</trd>
   <trd lng="en">therapy</trd>
   <trd lng="es">terapia</trd>
@@ -41,6 +45,7 @@
     <trd>terapia</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_r;&c_a;&c_p;&c_i;&c_ja;</trd>
+  <trd lng="sk">liečba</trd>
 </drv>
 
 <drv mrk="terapi.0i">
@@ -64,6 +69,12 @@
 </art>
 <!--
 $Log: terapi.xml,v $
+Revision 1.16  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2011/12/09 15:10:08  revo
 Jeromo Vasxe: + ~i
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: il.xml,v 1.18 2014/06/23 02:10:22 revo Exp $">
+<art mrk="$Id: il.xml,v 1.20 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   -<rad>il</rad>/
@@ -136,6 +136,10 @@ Samsignifa radiko:
     <trd>&c_ib;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_e;&c_n;&c_t;</trd>,
     <trd>&c_a;&c_p;&c_a;&c_r;&c_a;&c_t;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nástroj</trd>,
+    <trd>zařízení</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Werkzeug</trd>,
     <trd>Instrument</trd>
@@ -167,6 +171,10 @@ Samsignifa radiko:
     <trd>&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_a;&c_p;&c_p;&c_a;&c_r;&c_a;&c_t;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nástroj</trd>,
+    <trd>zaridenie</trd>
+  </trdgrp>
   <trd lng="tp">ilo</trd>
 </drv>
 
@@ -183,6 +191,10 @@ Samsignifa radiko:
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>náčiní</trd>,
+    <trd>nářadí</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>n&eacute;cessaire<klr> (subst., ensemble d'outils)</klr></trd>,
     <trd>outillage</trd>
@@ -199,11 +211,18 @@ Samsignifa radiko:
 <trd>&c_i;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t;&c_a;&c_r;&c_i;&c_j;</trd>,
     <trd>&c_i;&c_n;&c_v;&c_je;&c_n;&c_t;&c_a;&c_r;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">náradie</trd>
 </drv>
 </subart>
 </art>
 <!--
 $Log: il.xml,v $
+Revision 1.20  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2014/06/23 02:10:22  revo
 Eko Nur Syah Hidayat: +id
 

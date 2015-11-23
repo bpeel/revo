@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korela1.xml,v 1.6 2009/09/11 16:30:38 revo Exp $">
+<art mrk="$Id: korela1.xml,v 1.8 2015/07/04 08:37:38 revo Exp $">
   <kap>
     <rad>korelaci</rad>/o
   </kap>
@@ -59,11 +59,25 @@
       <trd lng="pt">correla&ccedil;&atilde;o</trd>
     <trd lng="ru">&c_k;&c_o;&c_e;&c_f;&c_f;&c_i;&c_c;&c_i;&c_je;&c_n;&c_t; &c_k;&c_o;&c_r;&c_r;&c_je;&c_l;&c_ja;&c_c;&c_i;&c_i;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>korelace</trd>,
+    <trd>souvztažnost</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>korelácia</trd>,
+    <trd>súvzťažnosť</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: korela1.xml,v $
+Revision 1.8  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2009/09/11 16:30:38  revo
 Paul Peeraerts: +nl
 

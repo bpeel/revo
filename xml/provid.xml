@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: provid.xml,v 1.13 2014/03/20 06:10:17 revo Exp $">
+<art mrk="$Id: provid.xml,v 1.15 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>providenc</rad>/o
@@ -15,6 +15,11 @@
     </dif>
   </snc>
   <trd lng="ca">provid&egrave;ncia</trd>
+  <trdgrp lng="cs">
+    <trd>providence</trd>,
+    <trd>prozřetelnost</trd>,
+    <trd>předvídavost</trd>
+  </trdgrp>
   <trd lng="de">Vorsehung</trd>
   <trd lng="en">providence</trd>
   <trd lng="es">providencia</trd>
@@ -24,10 +29,20 @@
   <trd lng="pl">opatrzno&sacute;&cacute;</trd>
   <trd lng="pt">provid&ecirc;ncia <klr tip="amb">divina</klr></trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_v;&c_i;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>predvídavosť</trd>,
+    <trd>prozreteľnosť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: provid.xml,v $
+Revision 1.15  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2014/03/20 06:10:17  revo
 Sebastian Cyprych: +trd pl
 

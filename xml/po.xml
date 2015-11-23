@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: po.xml,v 1.26 2014/09/01 19:10:10 revo Exp $">
+  <art mrk="$Id: po.xml,v 1.29 2015/07/04 08:37:41 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>po</rad> <fnt><bib>PV</bib></fnt>
@@ -124,19 +124,18 @@
           </trdgrp>
           <trd lng="es">cada uno</trd>
           <rim num="1">
-            Kvankam &ccirc;i tiu uzado de la vorteto po estas Zamenhofa, sekve
-            bonstila, &gcirc;i ofte embarasas iujn esperantistojn, kies
-            gepatra
-            lingvo ne havas similan esprimilon. Por facile forigi tiun
-            embarason, oni povas a&ubreve; simple eviti uzi la prepozicion
-            <em>po</em>, anstata&ubreve;igante &gcirc;in per la vorto <em>&ccirc;iu</em>,
-            kiu havas saman disdividan sencon (Vd la suprajn
-            ekzemplojn metitajn en parentezoj), a&ubreve; alglui &gcirc;in al la
-            numeralo kiel disdividan prefikson, a&ubreve; anka&ubreve; rigardi &gcirc;in
-            kiel adverbon samvaloran kiel prefikso kaj seninfluan sur
-            la kazo de la sekvanta komplemento, konforme al la
-            konsiloj de Lippmann, Bennemann, k.a. kaj al la plurfoja
-            uzado de bonaj verkantoj:
+            Kvankam &ccirc;i tiu uzado de la vorteto po estas Zamenhofa,
+            sekve bonstila, &gcirc;i ofte embarasas iujn esperantistojn,
+            kies gepatra lingvo ne havas similan esprimilon. Por
+            facile forigi tiun embarason, oni povas a&ubreve; simple eviti
+            uzi la prepozicion <em>po</em>, anstata&ubreve;igante &gcirc;in per la
+            vorto <em>&ccirc;iu</em>, kiu havas saman disdividan sencon (Vd
+            la suprajn ekzemplojn metitajn en parentezoj), a&ubreve; alglui
+            &gcirc;in al la numeralo kiel disdividan prefikson, a&ubreve; anka&ubreve;
+            rigardi &gcirc;in kiel adverbon samvaloran kiel prefikso kaj
+            seninfluan sur la kazo de la sekvanta komplemento,
+            konforme al la konsiloj de Lippmann, Bennemann, k.a. kaj
+            al la plurfoja uzado de bonaj verkantoj:
             <ekz>
               vi donos <tld/> 5 talentoj<em>n</em> jare<fnt>B</fnt>;
             </ekz><ekz>
@@ -146,7 +145,12 @@
             Z mem skribis:
             <ekz>
               al &ccirc;iu el la laborantoj li donis <tld/> kvin
-              dolaroj<em>n</em>,
+              dolaroj<em>n</em>
+              <fnt>
+              <aut>&Z;</aut>:
+              <vrk>Dua Libro de l' lingvo internacia</vrk>
+              <lok>Varsovio, 1888. III:3</lok>.
+            </fnt>,
             </ekz>
             kaj deklaris en siaj L. R.: &leftquot;Inter la esprimoj
             <ekz>
@@ -176,14 +180,19 @@
             <aut>Sergio Pokrovskij</aut>
           </rim>
         </snc>
-        <trdgrp lng="en">
+  <trd lng="cs">po <klr>(dvou| třech)</klr></trd>
+  <trdgrp lng="en">
           <trd>at the rate of</trd>,
           <trd>apiece</trd>,
           <trd>@</trd>
         </trdgrp>
-        <trd lng="fr">&agrave; raison de</trd>
-        <trd lng="ru">&c_p;&c_o;</trd>
-      </drv>
+  <trd lng="fr">&agrave; raison de</trd>
+  <trd lng="ru">&c_p;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd><klr>(á)</klr></trd>,
+    <trd>po</trd>
+  </trdgrp>
+</drv>
     </subart>
 
     <subart>
@@ -312,7 +321,9 @@
         <trd>&c_d;&c_u;&c_sh;&c_je;&c_v;&c_o;&c_j;</trd>,
         <trd>&c_r;&c_a;&c_s;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>
       </trdgrp>
-    </drv>
+      <trd lng="sk">po jednom</trd>
+  <trd lng="cs">po jednom</trd>
+</drv>
 
     <drv mrk="po.0-signo">
       <kap><tld/>-signo</kap>
@@ -336,10 +347,21 @@
         <trd lng="nl">apenstaart</trd>
         <trd lng="ru">&c_s;&c_o;&c_b;&c_a;&c_k;&c_a;<klr> (&c_z;&c_n;&c_a;&c_k;)</klr></trd>
       </snc>
-    </drv>
+  <trd lng="cs">znak zavináč @</trd>
+  <trd lng="sk">znak zavináča @</trd>
+</drv>
   </art>
   <!--
   $Log: po.xml,v $
+  Revision 1.29  2015/07/04 08:37:41  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.28  2015/06/29 16:40:18  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.27  2014/11/11 05:10:18  revo
+  Sergio Pokrovskij: +fnt
+
   Revision 1.26  2014/09/01 19:10:10  revo
   Guillermo Molleda Jimena: trd es
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korakl.xml,v 1.4 2014/07/10 20:10:13 revo Exp $">
+<art mrk="$Id: korakl.xml,v 1.6 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>korakl</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -36,6 +36,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">rybářský člun</trd>
   <trd lng="en">coracle</trd>
   <trd lng="fr">coracle</trd>
   <trdgrp lng="nl">
@@ -43,11 +44,18 @@
     <trd>mandboot</trd>
   </trdgrp>
   <trd lng="pt">coracle</trd>
+  <trd lng="sk">rybársky čln</trd>
 </drv>
 </art>
 
 <!--
 $Log: korakl.xml,v $
+Revision 1.6  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2014/07/10 20:10:13  revo
 Jeromo Vasxe: korektis ref
 

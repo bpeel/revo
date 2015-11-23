@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pint.xml,v 1.21 2014/09/14 12:10:16 revo Exp $">
+<art mrk="$Id: pint.xml,v 1.24 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pint</rad>/o <fnt><bib>PV</bib></fnt>
@@ -93,6 +93,12 @@
     <trd>punta</trd>,
     <trd>cap</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hrot</trd>,
+    <trd>vrchol</trd>,
+    <trd>špice</trd>,
+    <trd>špička</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>bout</trd>,
     <trd>pointe</trd>
@@ -112,6 +118,11 @@
     <trd>cap</trd>
   </trdgrp>
   <trd lng="pt">ponta</trd>
+  <trdgrp lng="sk">
+    <trd>hrot</trd>,
+    <trd>vrchol</trd>,
+    <trd>špička</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pint.0a">
@@ -132,12 +143,13 @@
     <trd>&c_v;&c_o;&c_s;&c_t;&c_r;&c_a;&c_k;&c_a;&c_n;&c_c;&c_o;&c_v;&c_y;</trd>,
     <trd>&c_s;&c_mol;&c_p;&c_ib;&c_ch;&c_a;&c_s;&c_t;&c_y;</trd>
   </trdgrp>
+  <trd lng="cs">špičatý</trd>
   <trd lng="de">spitz</trd>
-  <trd lng="fr">pointu</trd>
   <trdgrp lng="es">
     <trd>puntiagudo, -a</trd>,
     <trd>puntudo, -a</trd>
   </trdgrp>
+  <trd lng="fr">pointu</trd>
   <trdgrp lng="hu">
     <trd>hegyes</trd>,
     <trd>cs&uacute;csos</trd>
@@ -149,6 +161,7 @@
     <trd>aguzzo</trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_s;&c_t;&c_r;&c_o;&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">špicatý</trd>
 </drv>
 
 <drv mrk="pint.0i">
@@ -162,10 +175,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">vyčnívat špičkou</trd>
   <trd lng="fr">pointer<klr tip="amb"> (&ecirc;tre en forme de
   pointe)</klr></trd>
   <trd lng="hu">cs&uacute;csosodik</trd>
   <trd lng="it">essere a <ind>punta</ind></trd>
+  <trd lng="sk">vyčnievať špičkou</trd>
 </drv>
 
 <drv mrk="pint.0igi">
@@ -188,19 +203,30 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_v;&c_a;&c_s;&c_t;&c_r;&c_y;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>naostřit</trd>,
+    <trd>vyhrocovat</trd>,
+    <trd>zahrotit</trd>,
+    <trd>zašpičatit</trd>
+  </trdgrp>
   <trd lng="de">anspitzen</trd>
+  <trd lng="es">sacarle punta<klr> (a algo)</klr></trd>
   <trd lng="fr">tailler en pointe</trd>
   <trd lng="hu">kihegyez</trd>
   <trdgrp lng="it">
     <trd>fare la <ind>punta</ind></trd>,
     <trd>appuntire</trd>
   </trdgrp>
-  <trd lng="es">sacarle punta<klr> (a algo)</klr></trd>
   <trdgrp lng="nl">
     <trd>spitsen</trd>,
     <trd>puntig maken</trd>
   </trdgrp>
   <trd lng="ru">&c_z;&c_a;&c_o;&c_s;&c_t;&c_r;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>ostrúhať</trd>,
+    <trd>zahrotiť</trd>,
+    <trd>zastrúhať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pint.0umo">
@@ -228,6 +254,60 @@
     <trd lng="fr">pointe<klr> (d'humour)</klr></trd>
     <trd lng="it">stoccata<klr> (umoristica)</klr></trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>vtipná poznámka</trd>,
+    <trd>špička</trd>
+  </trdgrp>
+  <trd lng="sk">vtipná poznámka</trd>
+</drv>
+
+<drv mrk="pint.bor0o">
+  <kap>bor<tld/>o</kap>
+  <snc mrk="pint.bor0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <tld lit="P"/>a tran&ccirc;randa ilo por bori;
+      <ref tip="sin" cel="bor.0ilo.TEK">borilo<sncref/></ref>:
+      <ekz>
+        mi a&ccirc;etis aron da bor<tld/>oj specialaj por bori 
+        lignon
+        <fnt>
+          <aut>D. Rutan</aut>,
+          <vrk><url
+          ref="http://ligneroj.wordpress.com/2014/10/28/fakaro-por-pikborpintoj/">
+          Fakaro por Pikborpintoj</url></vrk>,
+          <lok>Ligneroj, 2014-10-28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_v;&c_je;&c_r;&c_d;&c_z;&c_je;&c_l;</trd>
+  <trdgrp lng="ca">
+    <trd>trepant</trd>,
+    <trd>barrina</trd>,
+    <trd>broca</trd>
+  </trdgrp>
+  <trd lng="cs">vrták do vrtačky</trd>
+  <trd lng="de">Bohrer</trd>
+  <trdgrp lng="es">
+    <trd>barrena</trd>,
+    <trd>barreno</trd>,
+    <trd>broca</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>foret</trd>,
+    <trd>m&egrave;che<klr tip="ind"> (foret)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wiert&lstroke;o</trd>,
+    <trd>&sacute;wider</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_u;&c_r;&c_a;&c_v;</trd>,
+    <trd>&c_s;&c_v;&c_je;&c_r;&c_l;&c_o;</trd>
+  </trdgrp>
+  <trd lng="sk">vrták do vŕtačky</trd>
+  <trd lng="sv">borr</trd>
 </drv>
 
 <drv mrk="pint.mam0o">
@@ -252,8 +332,10 @@
       <ref cel="mam.0eto">mameto</ref>
     </refgrp>
   </snc>
+  <trd lng="lat">papilla, ae</trd>
   <trd lng="br">beg ar vronn</trd>
   <trd lng="ca">mugr&oacute;</trd>
+  <trd lng="cs">prsní bradavka</trd>
   <trd lng="de">Brustwarze</trd>
   <trd lng="en">nipple</trd>
   <trdgrp lng="fr">
@@ -261,13 +343,13 @@
     <trd>t&ecirc;ton</trd>
   </trdgrp>
   <trd lng="he">&pe;&tet;&mem;&he;</trd>
-  <trd lng="it">capezzolo</trd>
   <trd lng="hu">mellbimb&oacute;</trd>
-  <trd lng="lat">papilla, ae</trd>
+  <trd lng="it">capezzolo</trd>
   <trd lng="nl">tepel</trd>
   <trd lng="pl">brodawka</trd>
   <trd lng="pt">mamilo</trd>
   <trd lng="ru">&c_s;&c_o;&c_s;&c_o;&c_k;</trd>
+  <trd lng="sk">prsná bradavka</trd>
   <trd lng="sv">br&ouml;stv&aring;rta</trd>
   <trd lng="tr">meme ba&scedil;&inodot;</trd>
 </drv>
@@ -319,10 +401,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_t;&c_u;&c_p;&c_ib;&c_c;&c_mol;</trd>
-  <trdgrp lng="fr">
-    <trd>&eacute;mousser la pointe</trd>,
-    <trd>&eacute;pointer</trd>
-  </trdgrp>
+  <trd lng="cs">otupit špičku</trd>
   <trdgrp lng="de">
     <trd>kappen</trd>,
     <trd>kupieren</trd>
@@ -331,8 +410,13 @@
     <trd>quitarle la punta</trd>,
     <trd>gastarle la punta</trd>
   </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&eacute;mousser la pointe</trd>,
+    <trd>&eacute;pointer</trd>
+  </trdgrp>
   <trd lng="it">spuntare</trd>
   <trd lng="ru">&c_z;&c_a;&c_t;&c_u;&c_p;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">otupiť hrot</trd>
 </drv>
 
 <drv mrk="pint.ter0o">
@@ -341,15 +425,32 @@
     <uzo tip="fak">GEOG</uzo>
     <ref tip="dif" cel="promon.0o.GEOG">promontoro</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>mys</trd>,
+    <trd>předhoří</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>cap</trd>,
     <trd>promontoire</trd>
   </trdgrp>
   <trd lng="it">promontorio</trd>
+  <trdgrp lng="sk">
+    <trd>mys</trd>,
+    <trd>predhorie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: pint.xml,v $
+Revision 1.24  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/11/28 23:11:55  revo
+Jeromo Vasxe: + bor~o
+
 Revision 1.21  2014/09/14 12:10:16  revo
 Norbert Luckhardt: + trd DE, kor (orto) trd ES
 
@@ -369,8 +470,5 @@ Revision 1.16  2008/11/23 19:13:28  revo
 Marc Bavant: +drv mam~o el sub mam
 
 Revision 1.15  2006/05/04 16:32:17  revo
-Eduardo Navas: +trd es
-Revision 1.14  2006/03/03 17:31:20  revo
-Tulio Flores: +tr pt
 -->
 </vortaro>

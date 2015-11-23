@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: silici.xml,v 1.23 2014/06/03 09:10:21 revo Exp $">
+<art mrk="$Id: silici.xml,v 1.25 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>silici</rad>/o
   <fnt>Z</fnt>
@@ -48,17 +48,25 @@
       <frm>(Si<sub>x</sub>O<sub>y</sub>)</frm>.
     </dif>
   </snc>
+  <trd lng="cs">křemičitan</trd>
   <trd lng="id">silikat</trd>
   <trdgrp lng="pl">
   	<trd>krzemian</trd>,
   	<trd>sylilkat</trd>,
   	<trd>tlenek krzemu</trd>
   </trdgrp>
+  <trd lng="sk">kremičitan</trd>
   <trd lng="sv">silikat</trd>
 </drv>
 </art>
 <!--
 $Log: silici.xml,v $
+Revision 1.25  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2014/06/03 09:10:21  revo
 Eko Nur Syah Hidayat: +id
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: cirkum1.xml,v 1.15 2013/08/12 10:10:12 revo Exp $">
+  <art mrk="$Id: cirkum1.xml,v 1.17 2015/07/04 08:37:32 revo Exp $">
     <kap>
       <ofc>2</ofc>
       <rad>cirkumfleks</rad>/o
@@ -33,21 +33,32 @@
         <uzo tip="fak">GRA</uzo>
         <ref tip="dif" cel="cxapel.0o.supersigno">&Ccirc;apelo</ref>
       </snc>
-      <trd lng="de">Zirkumflex</trd>
-      <trd lng="en">circumflex</trd>
-      <trd lng="es">circunflejo</trd>
-      <trd lng="fr">accent <ind>circonflexe</ind></trd>
-      <trd lng="it">accento <ind>circonflesso</ind></trd>
-      <trd lng="nl">circumflex</trd>
-      <trd lng="pl">cyrkumfleks</trd>
-      <trdgrp lng="en">
+  <trd lng="cs">cirkumflex</trd>
+  <trd lng="de">Zirkumflex</trd>
+  <trdgrp lng="en">
         <trd>cirkumflex</trd>,
         <trd>ins&auml;ttningstecken</trd>
-      </trdgrp>
-    </drv>
+      </trdgrp><trd lng="en">circumflex</trd>
+  <trd lng="es">circunflejo</trd>
+  <trd lng="fr">accent <ind>circonflexe</ind></trd>
+  <trd lng="it">accento <ind>circonflesso</ind></trd>
+  <trd lng="nl">circumflex</trd>
+  <trd lng="pl">cyrkumfleks</trd>
+  <trdgrp lng="sk">
+    <trd><klr>(znak nad písmenom)</klr></trd>,
+    <trd>cirkumflex</trd>,
+    <trd>mäkčeň</trd>
+  </trdgrp>
+</drv>
   </art>
   <!--
   $Log: cirkum1.xml,v $
+  Revision 1.17  2015/07/04 08:37:32  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.16  2015/06/29 16:29:36  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.15  2013/08/12 10:10:12  revo
   Joop Eggen: +trd sv
 

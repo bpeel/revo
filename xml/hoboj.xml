@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hoboj.xml,v 1.20 2013/09/08 18:10:41 revo Exp $">
+<art mrk="$Id: hoboj.xml,v 1.22 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>hoboj</rad>/o
@@ -17,11 +17,12 @@
       lst="voko:blovinstrumentoj">blovinstrumento</ref>
       kun duobla langeto kaj klavoj.
     </dif>
-  </snc>                   
+  </snc>
   <trd lng="be">&c_g;&c_a;&c_b;&c_o;&c_j;</trd>
   <trd lng="bg">&c_o;&c_b;&c_o;&c_j;</trd>
   <trd lng="br">oboell</trd>
   <trd lng="ca">obo&egrave;</trd>
+  <trd lng="cs">hoboj</trd>
   <trd lng="de">Oboe</trd>
   <trdgrp lng="el">
     <trd>&omikron_ton;&my;&pi;&omikron;&epsilon;</trd>,
@@ -31,15 +32,22 @@
   <trd lng="es">oboe</trd>
   <trd lng="fr">hautbois</trd>
   <trd lng="hu">oboa</trd>
-  <trd lng="nl">hobo</trd>
   <trd lng="it">oboe</trd>
+  <trd lng="nl">hobo</trd>
   <trd lng="pl">ob&oacute;j</trd>
   <trd lng="pt">obo&eacute;</trd>
   <trd lng="ru">&c_g;&c_o;&c_b;&c_o;&c_j;</trd>
+  <trd lng="sk">hoboj</trd>
 </drv>
 </art>
 <!--
 $Log: hoboj.xml,v $
+Revision 1.22  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2013/09/08 18:10:41  revo
 Wolfram Diestel: ref al listo blovinstrumentoj
 

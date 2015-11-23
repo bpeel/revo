@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kontra3.xml,v 1.20 2013/04/08 11:10:07 revo Exp $">
+<art mrk="$Id: kontra3.xml,v 1.22 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kontrakt</rad>/i <fnt><bib>PV</bib></fnt>
@@ -31,14 +31,20 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_y;&c_c;&c_mol; &c_d;&c_a;&c_m;&c_o;&c_v;&c_u;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_y;&c_c;&c_mol; &c_k;&c_a;&c_n;&c_t;&c_r;&c_a;&c_k;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dohodnout smlouvu</trd>,
+    <trd>kontrahovat</trd>,
+    <trd>sepsat smlouvu</trd>,
+    <trd>uzavřít smlouvu</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>einen <ind>Vertrag schlie&szlig;en</ind></trd>,
     <trd>vertraglich vereinbaren</trd>,
     <trd>kontrahieren [ark]</trd>
-  </trdgrp>
-  <trdgrp lng="be">
-    <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_y;&c_c;&c_mol; &c_d;&c_a;&c_m;&c_o;&c_v;&c_u;</trd>,
-    <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_y;&c_c;&c_mol; &c_k;&c_a;&c_n;&c_t;&c_r;&c_a;&c_k;&c_t;</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>engage</trd>,
@@ -61,11 +67,15 @@
     <trd>podpisywa&cacute; <ind>kontrakt</ind></trd>,
     <trd>zawiera&cacute; <ind>uk&lstroke;ad</ind></trd>
   </trdgrp>
+  <trd lng="pt">contratar</trd>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_mol; &c_d;&c_o;&c_g;&c_o;&c_v;&c_o;&c_r;</trd>,
     <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_mol; &c_k;&c_o;&c_n;&c_t;&c_r;&c_a;&c_k;&c_t;</trd>
   </trdgrp>
-  <trd lng="pt">contratar</trd>
+  <trdgrp lng="sk">
+    <trd>angažovať umelca</trd>,
+    <trd>uzavrieť zmluvu</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kontra3.0o">
@@ -90,6 +100,10 @@
   <trdgrp lng="be">
     <trd>&c_d;&c_a;&c_m;&c_o;&c_v;&c_a;</trd>,
     <trd>&c_k;&c_a;&c_n;&c_t;&c_r;&c_a;&c_k;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kontrakt</trd>,
+    <trd>smlouva</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Vertrag</trd>,
@@ -116,6 +130,7 @@
     <trd>&c_d;&c_o;&c_g;&c_o;&c_v;&c_o;&c_r;</trd>,
     <trd>&c_k;&c_o;&c_n;&c_t;&c_r;&c_a;&c_k;&c_t;</trd>
   </trdgrp>
+  <trd lng="sk">zmluva</trd>
   <trd lng="sv">kontrakt</trd>
 </drv>
 
@@ -165,6 +180,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">mírová smlouva</trd>
   <trd lng="en">peace treaty</trd>
   <trd lng="fr">trait&eacute; de paix</trd>
   <trd lng="hu">b&eacute;keszerz&odblac;d&eacute;s</trd>
@@ -175,10 +191,7 @@
   </trdgrp>
   <trd lng="pt">tratado de paz</trd>
   <trd lng="ru">&c_m;&c_i;&c_r;&c_n;&c_y;&c_j; &c_d;&c_o;&c_g;&c_o;&c_v;&c_o;&c_r;</trd>
-  <rim>
-    Pli &gcirc;usta termino estas pactraktato.
-    <aut>PP</aut>
-  </rim>
+  <trd lng="sk">mierová zmluva</trd>
 </drv>
 
 <drv mrk="kontra3.socia0o">
@@ -250,6 +263,12 @@
 </art>
 <!--
 $Log: kontra3.xml,v $
+Revision 1.22  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2013/04/08 11:10:07  revo
 Sebastian Cyprych: +trd pl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: minera.xml,v 1.15 2013/08/19 13:10:15 revo Exp $">
+<art mrk="$Id: minera.xml,v 1.17 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>mineral</rad>/o
@@ -18,6 +18,10 @@
   <trd lng="be">&c_m;&c_ib;&c_n;&c_e;&c_r;&c_a;&c_l;</trd>
   <trd lng="bg">&c_m;&c_i;&c_n;&c_je;&c_r;&c_a;&c_l;</trd>
   <trd lng="ca">mineral</trd>
+  <trdgrp lng="cs">
+    <trd>minerál</trd>,
+    <trd>nerost</trd>
+  </trdgrp>
   <trd lng="de">Mineral</trd>
   <trd lng="en">mineral</trd>
   <trd lng="es">mineral</trd>
@@ -27,10 +31,20 @@
   <trd lng="nl">mineraal</trd>
   <trd lng="pt">mineral <klr>(subst.)</klr></trd>
   <trd lng="ru">&c_m;&c_i;&c_n;&c_je;&c_r;&c_a;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>hornina</trd>,
+    <trd>nerast</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: minera.xml,v $
+Revision 1.17  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/08/19 13:10:15  revo
 Joop Eggen: +trd bg
 

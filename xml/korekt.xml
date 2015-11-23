@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korekt.xml,v 1.24 2013/06/03 09:10:09 revo Exp $">
+<art mrk="$Id: korekt.xml,v 1.26 2015/07/04 08:37:38 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>korekt</rad>/i</kap>
 <drv mrk="korekt.0i">
@@ -39,6 +39,12 @@
     <trd>&c_v;&c_y;&c_p;&c_r;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">corregir</trd>
+  <trdgrp lng="cs">
+    <trd>korigovat</trd>,
+    <trd>napravovat</trd>,
+    <trd>opravit</trd>,
+    <trd>opravovat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>berichtigen</trd>,
     <trd>verbessern</trd>,
@@ -54,15 +60,14 @@
     <trd>kijav&iacute;t</trd>,
     <trd>helyesb&iacute;t</trd>
     <trd>korrig&aacute;l</trd>
+  </trdgrp><trdgrp lng="hu">
+    <trd>kijav&iacute;t</trd>,
+    <trd>helyesb&iacute;t</trd>,
+    <trd>korrig&aacute;l</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>verbeteren</trd>,
     <trd>corrigeren</trd>
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>kijav&iacute;t</trd>,
-    <trd>helyesb&iacute;t</trd>,
-    <trd>korrig&aacute;l</trd>
   </trdgrp>
   <trdgrp lng="pt">
     <trd>corrigir</trd>,
@@ -74,6 +79,10 @@
     <trd>&c_i;&c_s;&c_p;&c_r;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>,
    
 <trd>&c_k;&c_o;&c_r;&c_r;&c_je;&c_k;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>korigovať</trd>,
+    <trd>opraviť</trd>
   </trdgrp>
 </drv>
 
@@ -96,6 +105,11 @@
   <trdgrp lng="ca">
     <trd>correcci&oacute;</trd>,
     <trd>rectificaci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>korekce</trd>,
+    <trd>korektura</trd>,
+    <trd>oprava</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Berichtigung</trd>,
@@ -120,6 +134,10 @@
     <trd>&c_i;&c_s;&c_p;&c_r;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_p;&c_o;&c_p;&c_r;&c_a;&c_v;&c_k;&c_a;</trd>,
     <trd>&c_k;&c_o;&c_r;&c_r;&c_je;&c_k;&c_c;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>korektúra</trd>,
+    <trd>oprava</trd>
   </trdgrp>
 </drv>
 
@@ -183,6 +201,13 @@
     <trd>&c_p;&c_r;&c_a;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_y;</trd>,
     <trd>&c_k;&c_a;&c_r;&c_e;&c_k;&c_t;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bezvadný</trd>,
+    <trd>korekční</trd>,
+    <trd>nápravný</trd>,
+    <trd>opravný</trd>,
+    <trd>správný</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>helyes</trd>,
     <trd>korrekt</trd>
@@ -190,6 +215,11 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_k;&c_o;&c_r;&c_r;&c_je;&c_k;&c_t;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bezchybný</trd>,
+    <trd>korektný</trd>,
+    <trd>správny</trd>
   </trdgrp>
 </drv>
 
@@ -216,6 +246,7 @@
     <trd>erroni</trd>,
     <trd>incorrecte</trd>
   </trdgrp>
+  <trd lng="cs">nesprávný</trd>
   <trdgrp lng="de">
     <trd>falsch</trd>,
     <trd>verkehrt</trd>,
@@ -242,6 +273,7 @@
     <trd>&c_n;&c_je;&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_o;&c_sh;&c_i;&c_b;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">nesprávny</trd>
 </drv>
 
 <drv mrk="korekt.0isto">
@@ -252,15 +284,20 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_r;&c_e;&c_k;&c_t;&c_a;&c_r;</trd>
+  <trd lng="ca">corrector</trd>
+  <trdgrp lng="cs">
+    <trd>korektor</trd>,
+    <trd>oprávce</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Korrektor</trd>
   </trdgrp>
-  <trd lng="ca">corrector</trd>
   <trd lng="es">corrector</trd>
   <trd lng="fr">correcteur</trd>
   <trd lng="hu">korrektor</trd>
   <trd lng="nl">corrector</trd>
   <trd lng="ru">&c_k;&c_o;&c_r;&c_r;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">korektor</trd>
 </drv>
 
 <drv mrk="korekt.pun0i">
@@ -305,6 +342,7 @@
     </dif>
   </snc>
   <trd lng="ca">esmenar</trd>
+  <trd lng="cs">provést opravu</trd>
   <trdgrp lng="de">
     <trd>ausbessern</trd>,
     <trd>&uuml;berschreiben</trd>
@@ -312,10 +350,17 @@
   <trd lng="fr">surcharger (un document)</trd>
   <trd lng="hu">fel&uuml;l&iacute;r</trd>
   <trd lng="nl">overschr&iacute;jven</trd>
+  <trd lng="sk">prepísať nesprávny text správnym</trd>
 </drv>
 </art>
 <!--
 $Log: korekt.xml,v $
+Revision 1.26  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2013/06/03 09:10:09  revo
 Sergio Pokrovskij: +snc-mrk
 

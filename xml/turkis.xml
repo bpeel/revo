@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: turkis.xml,v 1.15 2013/08/05 13:10:15 revo Exp $">
+<art mrk="$Id: turkis.xml,v 1.17 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>turkis</rad>/o
@@ -19,6 +19,7 @@
   <trd lng="be">&c_b;&c_ib;&c_r;&c_u;&c_z;&c_a;</trd>
   <trd lng="bg">&c_t;&c_ju;&c_r;&c_k;&c_o;&c_a;&c_z;</trd>
   <trd lng="ca">turquesa</trd>
+  <trd lng="cs">tyrkys</trd>
   <trd lng="de">T&uuml;rkis</trd>
   <trd lng="en">turquoise</trd>
   <trd lng="fr">turquoise</trd>
@@ -29,10 +30,17 @@
   <trd lng="pl">turkus</trd>
   <trd lng="pt">turquesa</trd>
   <trd lng="ru">&c_b;&c_i;&c_r;&c_ju;&c_z;&c_a;</trd>
+  <trd lng="sk">tyrkys</trd>
 </drv>
 </art>
 <!--
 $Log: turkis.xml,v $
+Revision 1.17  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/08/05 13:10:15  revo
 Joop Eggen: +trd bg
 

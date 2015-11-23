@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: progre.xml,v 1.23 2013/09/16 01:10:11 revo Exp $">
+<art mrk="$Id: progre.xml,v 1.25 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>progres</rad>/i <fnt><bib>PV</bib></fnt>
@@ -57,7 +57,16 @@
     <trd>&c_p;&c_r;&c_a;&c_g;&c_r;&c_e;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_mol;&c_v;&c_ib;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
-  <trd lng="cs">d&ecaron;lat pokroky</trd>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;lat pokroky</trd>,
+    <trd>dělat pokroky</trd>,
+    <trd>jít kupředu</trd>,
+    <trd>pokročit</trd>,
+    <trd>postoupit</trd>,
+    <trd>postupovat</trd>,
+    <trd>rozvinout se</trd>,
+    <trd>vyvíjet se</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Fortschritte machen</trd>,
     <trd>voranschreiten</trd>,
@@ -89,6 +98,10 @@
     <trd>&c_p;&c_r;&c_o;&c_g;&c_r;&c_je;&c_s;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_v;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>postupovať</trd>,
+    <trd>rozvíjať sa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="progre.0o">
@@ -105,7 +118,12 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_g;&c_r;&c_e;&c_s;</trd>
-  <trd lng="cs">pokrok</trd>
+  <trdgrp lng="cs">
+    <trd>pokrok</trd>,
+    <trd>postup</trd>,
+    <trd>vzestup</trd>,
+    <trd>vývoj</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Fortschritt</trd>,
     <trd>Weiterentwicklung</trd>
@@ -123,6 +141,11 @@
   <trd lng="nl">vooruitgang</trd>
   <trd lng="pl">post&eogonek;p</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_g;&c_r;&c_je;&c_s;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>pokrok</trd>,
+    <trd>postup</trd>,
+    <trd>progres</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="progre.0ema">
@@ -136,6 +159,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_g;&c_r;&c_e;&c_s;&c_ib;&c_w;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>pokrokový</trd>,
+    <trd>progresivní</trd>
+  </trdgrp>
   <trd lng="de">fortschrittlich</trd>
   <trdgrp lng="fa">
     <trd>&f_p;&f_y;&a_sh;&a_r;&a_w;</trd>,
@@ -143,19 +170,20 @@
     <trd>&a_t;&a_r;&a_q;&f_y;&zwnj;&a_kh;&a_w;&a_A;&a_h;</trd>
   </trdgrp>
   <trd lng="fr">progressiste</trd>
-  <trdgrp lng="nl">
-    <trd>progressief</trd>,
-    <trd>vooruitstrevend</trd>
-  </trdgrp>
   <trdgrp lng="hu">
     <trd>halad&oacute; szellem&udblac;</trd>,
     <trd>progressz&iacute;v</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>progressief</trd>,
+    <trd>vooruitstrevend</trd>
   </trdgrp>
   <trd lng="pl">post&eogonek;powy</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_o;&c_g;&c_r;&c_je;&c_s;&c_s;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_o;&c_v;&c_o;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">pokrokový</trd>
 </drv>
 
 <drv mrk="progre.0igi">
@@ -175,6 +203,10 @@
     <trd>&c_s;&c_u;&c_d;&c_z;&c_je;&c_j;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_s;&c_p;&c_r;&c_y;&c_ja;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>uspíšit pokrok</trd>,
+    <trd>zvelebit</trd>
+  </trdgrp>
   <trd lng="de">voranbringen</trd>
   <trd lng="fa">&f_p;&f_y;&a_sh;&a_b;&a_r;&a_d;&a_n;</trd>
   <trd lng="fr">promouvoir</trd>
@@ -186,6 +218,11 @@
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_z;&c_v;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>povzniesť</trd>,
+    <trd>zvelebiť</trd>,
+    <trd>zveľadiť</trd>
   </trdgrp>
 </drv>
 
@@ -206,7 +243,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">pokročilý čl.</trd>
   <trd lng="fr">&eacute;l&egrave;ve <ind>avanc&eacute;</ind></trd>
+  <trd lng="sk">pokročilý človek</trd>
 </drv>
 
 <drv mrk="progre.0ismo">
@@ -266,6 +305,10 @@
     <trd>&c_r;&c_e;&c_g;&c_r;&c_e;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_d;&c_e;&c_g;&c_r;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>chátrat</trd>,
+    <trd>neprospívat</trd>
+  </trdgrp>
   <trd lng="fa">&f_p;&a_s;&zwnj;&a_r;&a_f;&a_t;&a_n;</trd>
   <trd lng="fr">r&eacute;gresser</trd>
   <trd lng="nl">achteruitgaan</trd>
@@ -276,6 +319,10 @@
   <trdgrp lng="ru">
     <trd>&c_r;&c_je;&c_g;&c_r;&c_je;&c_s;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_t;&c_s;&c_t;&c_u;&c_p;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>upadať</trd>,
+    <trd>zaostávať</trd>
   </trdgrp>
 </drv>
 
@@ -299,15 +346,31 @@
   <trdgrp lng="be">
     <trd>&c_r;&c_e;&c_g;&c_r;&c_e;&c_s;</trd>,
     <trd>&c_d;&c_e;&c_g;&c_r;&c_a;&c_d;&c_a;&c_c;&c_y;&c_ja;</trd>
-  </trdgrp>  <trd lng="fa">&f_p;&a_s;&a_r;&a_f;&a_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>návrat symptomů</trd>,
+    <trd>regrese</trd>,
+    <trd>ústup</trd>
+  </trdgrp>
+  <trd lng="fa">&f_p;&a_s;&a_r;&a_f;&a_t;</trd>
   <trd lng="fr">r&eacute;gression</trd>
   <trd lng="nl">achteruitgang</trd>
   <trd lng="pl">regres</trd>
   <trd lng="ru">&c_r;&c_je;&c_g;&c_r;&c_je;&c_s;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>postup späť</trd>,
+    <trd>regresia</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: progre.xml,v $
+Revision 1.25  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2013/09/16 01:10:11  revo
 Jeromo Vasxe: + ~ismo
 

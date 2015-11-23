@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kokard.xml,v 1.18 2013/02/01 21:10:11 revo Exp $">
+<art mrk="$Id: kokard.xml,v 1.20 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kokard</rad>/o <fnt><bib>PV</bib></fnt>
@@ -50,15 +50,26 @@
     <trd lng="de">Bandschleife</trd>
     <trd lng="en">bow</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kokarda</trd>,
+    <trd>růžice listová</trd>
+  </trdgrp>
   <trd lng="fr">cocarde</trd>
   <trd lng="hu">szalagcsokor</trd>
   <trd lng="nl">kokarde</trd>
   <trd lng="pl">kokarda</trd>
   <trd lng="pt">la&ccedil;o <klr tip="amb">(de fita)</klr></trd>
+  <trd lng="sk">kokarda</trd>
 </drv>
 </art>
 <!--
 $Log: kokard.xml,v $
+Revision 1.20  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2013/02/01 21:10:11  revo
 Jeromo Vasxe: + 1 ekz
 

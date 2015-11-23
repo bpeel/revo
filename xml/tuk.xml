@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tuk.xml,v 1.41 2013/12/01 15:10:19 revo Exp $">
+<art mrk="$Id: tuk.xml,v 1.43 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tuk</rad>/o
@@ -40,6 +40,11 @@
     <trd>lepel</trd>,
     <trd>ter&iacute;t&odblac;</trd>
   </trdgrp>
+  <trdgrp lng="it">
+    <trd>panno<klr> (pezzo di stoffa)</klr></trd>,
+    <trd>pezza</trd>,
+    <trd>straccio<klr> (pezzo di stoffa)</klr></trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>doek</trd>,
     <trd>kleed</trd>,
@@ -58,11 +63,7 @@
     <trd>&c_p;&c_l;&c_a;&c_t;&c_o;&c_k;</trd>,
     <trd>&c_t;&c_r;&c_ja;&c_p;&c_k;&c_a;</trd>
   </trdgrp>
-  <trdgrp lng="it">
-    <trd>panno<klr> (pezzo di stoffa)</klr></trd>,
-    <trd>pezza</trd>,
-    <trd>straccio<klr> (pezzo di stoffa)</klr></trd>
-  </trdgrp>
+  <trd lng="sk">šatka</trd>
 </drv>
 
 <drv mrk="tuk.antaux0o">
@@ -121,11 +122,12 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="ca">tovallola</trd>
   <trdgrp lng="bg">
     <trd>&c_k;&c_malmol;&c_r;&c_p;&c_a;</trd>,
     <trd>&c_h;&c_a;&c_v;&c_l;&c_i;&c_ja;</trd>
   </trdgrp>
+  <trd lng="ca">tovallola</trd>
+  <trd lng="cs">osuška</trd>
   <trdgrp lng="de">
     <trd>Badetuch</trd>,
     <trd>Handtuch</trd>
@@ -139,6 +141,10 @@
     <trd>flanelt&ouml;r&uuml;lk&ouml;z&odblac;</trd>,
     <trd>f&uuml;rd&odblac;leped&odblac;</trd>
   </trdgrp>
+  <trdgrp lng="it">
+    <trd>telo<klr> da bagno</klr></trd>,
+    <trd>asciugamano<klr> (telo da bagno)</klr></trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>handdoek</trd>,
     <trd>badhanddoek</trd>
@@ -146,9 +152,9 @@
   <trd lng="pl">r&eogonek;cznik <klr> k&aogonek;pielowy</klr></trd>
   <trd lng="ru">&c_b;&c_a;&c_n;&c_n;&c_o;&c_je;
   <ind>&c_p;&c_o;&c_l;&c_o;&c_t;&c_je;&c_n;&c_c;&c_je;</ind></trd>
-  <trdgrp lng="it">
-    <trd>telo<klr> da bagno</klr></trd>,
-    <trd>asciugamano<klr> (telo da bagno)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>osuška</trd>,
+    <trd>uterák</trd>
   </trdgrp>
 </drv>
 
@@ -213,12 +219,17 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">šátek na hlavu</trd>
   <trd lng="de">Kopftuch</trd>
   <trdgrp lng="fr">
     <trd>fichu<klr> (de t&ecirc;te)</klr></trd>,
     <trd>foulard<klr> (de t&ecirc;te)</klr></trd>
   </trdgrp>
   <trd lng="hu">fejkend&odblac;</trd>
+  <trdgrp lng="it">
+    <trd>fazzoletto<klr> da capo</klr></trd>,
+    <trd>foulard</trd>
+  </trdgrp>
   <trd lng="nl">hoofddoek</trd>
   <trdgrp lng="pl">
     <trd>chusta</trd>,
@@ -227,10 +238,7 @@
   <trd lng="ru">&c_p;&c_l;&c_a;&c_t;&c_o;&c_k;<klr tip="amb">
   (&c_g;&c_o;&c_l;&c_o;&c_v;&c_n;&c_o;&c_j;
   &c_u;&c_b;&c_o;&c_r;)</klr></trd>
-  <trdgrp lng="it">
-    <trd>fazzoletto<klr> da capo</klr></trd>,
-    <trd>foulard</trd>
-  </trdgrp>
+  <trd lng="sk">šatka na hlavu</trd>
 </drv>
 
 <drv mrk="tuk.kol0o">
@@ -249,6 +257,10 @@
     </dif>
   </snc>
   <trd lng="ca">bufanda</trd>
+  <trdgrp lng="cs">
+    <trd>šála</trd>,
+    <trd>šátek na krk</trd>
+  </trdgrp>
   <trd lng="de">Halstuch</trd>
   <trd lng="en">scarf</trd>
   <trd lng="es">bufanda</trd>
@@ -273,6 +285,7 @@
     <trd>&c_sh;&c_a;&c_r;&c_f;</trd>,
     <trd>&c_k;&c_a;&c_sh;&c_n;&c_je;</trd>
   </trdgrp>
+  <trd lng="sk">šál</trd>
 </drv>
 
 <drv mrk="tuk.kovro0o">
@@ -289,6 +302,12 @@
       <fnt><bib>MT</bib>, <lok>&Eli; 36:37</lok></fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>desky knihy</trd>,
+    <trd>kryt</trd>,
+    <trd>poklop</trd>,
+    <trd>pokrývka</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>b&acirc;che</trd>,
     <trd>couverture<klr tip="amb"> (b&acirc;che)</klr></trd>,
@@ -298,6 +317,11 @@
     <trd>ter&iacute;t&odblac;</trd>,
     <trd>takar&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="it">
+    <trd>velo</trd>,
+    <trd>cortina<klr> (di tesuto)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">deksel</trd>
   <trdgrp lng="pl">
     <trd>narzuta</trd>,
     <trd>nakrycie</trd>,
@@ -305,11 +329,12 @@
     <trd>kapa</trd>,
     <trd>pokrowiec</trd>
   </trdgrp>
-  <trd lng="nl">deksel</trd>
   <trd lng="ru">&c_p;&c_o;&c_k;&c_r;&c_y;&c_v;&c_a;&c_l;&c_o;</trd>
-  <trdgrp lng="it">
-    <trd>velo</trd>,
-    <trd>cortina<klr> (di tesuto)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>deka</trd>,
+    <trd>prikrývka</trd>,
+    <trd>veko</trd>,
+    <trd>vrchnák</trd>
   </trdgrp>
 </drv>
 
@@ -334,14 +359,16 @@
     </dif>
   </snc>
   <trd lng="bg">&c_ch;&c_a;&c_r;&c_sh;&c_a;&c_f;</trd>
+  <trd lng="ca">llen&ccedil;ol</trd>
+  <trd lng="cs">prostěradlo</trd>
   <trd lng="de">Bettlaken</trd>
   <trd lng="en">sheet</trd>
+  <trd lng="es">s&aacute;bana</trd>
   <trdgrp lng="fr">
     <trd>drap de lit</trd>
   </trdgrp>
   <trd lng="hu">leped&odblac;</trd>
-  <trd lng="es">s&aacute;bana</trd>
-  <trd lng="ca">llen&ccedil;ol</trd>
+  <trd lng="it">lenzuolo</trd>
   <trdgrp lng="nl">
     <trd>laken</trd>,
     <trd>beddelaken</trd>
@@ -349,7 +376,7 @@
   <trd lng="pl">prze&sacute;cierad&lstroke;o</trd>
   <trd lng="pt">len&ccedil;ol</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_t;&c_y;&c_n;&c_ja;</trd>
-  <trd lng="it">lenzuolo</trd>
+  <trd lng="sk">posteľná plachta</trd>
 </drv>
 
 <drv mrk="tuk.morto0o">
@@ -361,6 +388,7 @@
       de mortino.
     </dif>
   </snc>
+  <trd lng="cs">rubáš</trd>
   <trd lng="en">shroud</trd>
   <trdgrp lng="fr">
     <trd>linceul</trd>
@@ -369,10 +397,11 @@
     <trd>szemfed&eacute;l</trd>,
     <trd>halotti lepel</trd>
   </trdgrp>
+  <trd lng="it">sudario</trd>
   <trd lng="nl">lijkwade</trd>
   <trd lng="pl">ca&lstroke;un</trd>
   <trd lng="ru">&c_s;&c_a;&c_v;&c_a;&c_n;</trd>
-  <trd lng="it">sudario</trd>
+  <trd lng="sk">rubáš</trd>
 </drv>
 
 <drv mrk="tuk.naz0o">
@@ -388,10 +417,12 @@
     </ekz>
   </snc>
   <trd lng="ca">mocador</trd>
+  <trd lng="cs">kapesník</trd>
   <trd lng="en">handkerchief</trd>
   <trd lng="es">pa&ntilde;uelo</trd>
   <trd lng="fr">mouchoir</trd>
   <trd lng="hu">zsebkend&odblac;</trd>
+  <trd lng="it">fazzoletto<klr> (da naso)</klr></trd>
   <trd lng="nl">zakdoek</trd>
   <trdgrp lng="pl">
     <trd>chusteczka<klr tip="amb"> do nosa</klr></trd>,
@@ -399,7 +430,10 @@
   </trdgrp>
   <trd lng="ru">&c_n;&c_o;&c_s;&c_o;&c_v;&c_o;&c_j;
 <ind>&c_p;&c_l;&c_a;&c_t;&c_o;&c_k;</ind></trd>
-  <trd lng="it">fazzoletto<klr> (da naso)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>kapesník</trd>,
+    <trd>vreckovka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tuk.polvo0o">
@@ -411,20 +445,22 @@
       surfacoj.
     </dif>
   </snc>
+  <trd lng="cs">prachovka</trd>
   <trd lng="de">Staubtuch</trd>
   <trd lng="en">dust cloth</trd>
   <trdgrp lng="fr">
     <trd>chiffon &agrave; poussi&egrave;re</trd>
   </trdgrp>
   <trd lng="hu">porrongy</trd>
-  <trd lng="nl">stofdoek</trd>
-  <trd lng="pl">&sacute;ciereczka<klr> do kurzu</klr></trd>
-  <trd lng="ru">&c_t;&c_r;&c_ja;&c_p;&c_k;&c_a; &c_d;&c_l;&c_ja;
-  &c_p;&c_y;&c_l;&c_i;</trd>
   <trdgrp lng="it">
     <trd>panno<klr tip="amb"> per la polvere</klr></trd>,
     <trd>straccio<klr tip="amb"> per la polvere</klr></trd>
   </trdgrp>
+  <trd lng="nl">stofdoek</trd>
+  <trd lng="pl">&sacute;ciereczka<klr> do kurzu</klr></trd>
+  <trd lng="ru">&c_t;&c_r;&c_ja;&c_p;&c_k;&c_a; &c_d;&c_l;&c_ja;
+  &c_p;&c_y;&c_l;&c_i;</trd>
+  <trd lng="sk">prachovka</trd>
 </drv>
 
 <drv mrk="tuk.posx0o">
@@ -470,15 +506,17 @@
       purigado.
     </dif>
   </snc>
+  <trd lng="cs">osuška</trd>
   <trd lng="de">Geschirrtuch</trd>
   <trd lng="en">tea towel</trd>
   <trd lng="fr">torchon &agrave; vaisselle</trd>
   <trd lng="hu">konyharuha</trd>
+  <trd lng="it">asciugapiatti</trd>
   <trd lng="nl">theedoek</trd>
   <trd lng="pl">&sacute;ciereczka<klr> do naczy&nacute;</klr></trd>
   <trd lng="ru">&c_k;&c_u;&c_h;&c_o;&c_n;&c_n;&c_o;&c_je;
 <ind>&c_p;&c_o;&c_l;&c_o;&c_t;&c_je;&c_n;&c_c;&c_je;</ind></trd>
-  <trd lng="it">asciugapiatti</trd>
+  <trd lng="sk">osuška</trd>
 </drv>
 
 <drv mrk="tuk.tablo0o">
@@ -497,6 +535,7 @@
     </dif>
   </snc>
   <trd lng="ca">estovalles</trd>
+  <trd lng="cs">ubrus</trd>
   <trd lng="de">Tischdecke</trd>
   <trd lng="en">tablecloth</trd>
   <trd lng="es">mantel</trd>
@@ -506,6 +545,7 @@
     <trd>asztalter&iacute;t&odblac;</trd>,
     <trd>abrosz</trd>
   </trdgrp>
+  <trd lng="it">tovaglia</trd>
   <trdgrp lng="nl">
     <trd>tafelkleed</trd>,
     <trd>tafellaken</trd>
@@ -515,7 +555,7 @@
     <trd>serweta</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_k;&c_a;&c_t;&c_je;&c_r;&c_t;&c_mol;</trd>
-  <trd lng="it">tovaglia</trd>
+  <trd lng="sk">obrus</trd>
 </drv>
 
 <drv mrk="tuk.visx0o">
@@ -577,6 +617,12 @@
 </art>
 <!--
 $Log: tuk.xml,v $
+Revision 1.43  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.42  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.41  2013/12/01 15:10:19  revo
 Damien Brucker: +trd fr
 

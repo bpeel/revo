@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: bizanti.xml,v 1.5 2013/12/02 15:10:35 revo Exp $">
+  <art mrk="$Id: bizanti.xml,v 1.7 2015/07/04 08:37:31 revo Exp $">
     <kap><rad>Bizanti</rad>/o<fnt>Z</fnt></kap>
 
     <drv mrk="bizanti.B0o">
@@ -18,16 +18,27 @@
         </ekz>
         </dif>
         </snc>
-        <trd lng="ca">Bizanci</trd>
-        <trd lng="fr">Byzance</trd>
-        <trd lng="pl">Bizancjum</trd>
-        <trd lng="it">Bisanzio</trd>
-        <trd lng="lat">Byzantium</trd>
-    </drv>
+  <trd lng="lat">Byzantium</trd>
+  <trd lng="ca">Bizanci</trd>
+  <trdgrp lng="cs">
+    <trd>Byzancie</trd>,
+    <trd>Byzantská říše</trd>
+  </trdgrp>
+  <trd lng="fr">Byzance</trd>
+  <trd lng="it">Bisanzio</trd>
+  <trd lng="pl">Bizancjum</trd>
+  <trd lng="sk">Byzantská ríša</trd>
+</drv>
   </art>
 
 <!--
 $Log: bizanti.xml,v $
+Revision 1.7  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2013/12/02 15:10:35  revo
 Damien Brucker: +trd fr
 

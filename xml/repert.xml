@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: repert.xml,v 1.14 2010/12/02 17:31:18 revo Exp $">
+<art mrk="$Id: repert.xml,v 1.16 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>repertuar</rad>/o <fnt><bib>PV</bib></fnt>
@@ -18,6 +18,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_p;&c_e;&c_r;&c_t;&c_u;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>herní plán</trd>,
+    <trd>repertoár</trd>
+  </trdgrp>
   <trd lng="de">Repertoire</trd>
   <trd lng="en">repertoire</trd>
   <trd lng="fr">r&eacute;pertoire</trd>
@@ -29,10 +33,20 @@
   <trd lng="nl">repertoire</trd>
   <trd lng="pt">repert&oacute;rio</trd>
   <trd lng="ru">&c_r;&c_je;&c_p;&c_je;&c_r;&c_t;&c_u;&c_a;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>hrací plán</trd>,
+    <trd>repertoár</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: repert.xml,v $
+Revision 1.16  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2010/12/02 17:31:18  revo
 Russ Williams: +trd en
 

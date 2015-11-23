@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: recept.xml,v 1.19 2013/08/06 17:10:13 revo Exp $">
+<art mrk="$Id: recept.xml,v 1.21 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>recept</rad>/o
@@ -49,7 +49,14 @@
   <trd lng="be">&c_r;&c_e;&c_c;&c_e;&c_p;&c_t;</trd>
   <trd lng="bg">&c_r;&c_je;&c_c;&c_je;&c_p;&c_t;&c_a;</trd>
   <trd lng="ca">recepta</trd>
+  <trdgrp lng="cs">
+    <trd>lékopis</trd>,
+    <trd>předpis <klr>(lék, kuch.)</klr></trd>,
+    <trd>recepis</trd>,
+    <trd>recept</trd>
+  </trdgrp>
   <trd lng="de">Rezept</trd>
+  <trd lng="es">receta</trd>
   <trd lng="fr">recette</trd>
   <trd lng="he">&resh;&tsadi;&pe;&tet;</trd>
   <trdgrp lng="hu">
@@ -58,12 +65,22 @@
     <trd>rendelv&eacute;ny</trd>
   </trdgrp>
   <trd lng="nl">recept</trd>
-  <trd lng="es">receta</trd>
   <trd lng="ru">&c_r;&c_je;&c_c;&c_je;&c_p;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>liekopis</trd>,
+    <trd>predpis</trd>,
+    <trd>recept</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: recept.xml,v $
+Revision 1.21  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/08/06 17:10:13  revo
 Joop Eggen: +trd bg
 

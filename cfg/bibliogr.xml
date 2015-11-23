@@ -4,7 +4,8 @@
 
 <!ELEMENT bibliografio (vrk)*>
 <!ELEMENT vrk (url?,aut*,trd?,tit?,ald?,eld*)>
-<!ATTLIST vrk mll ID #REQUIRED> 
+<!ATTLIST vrk mll ID #REQUIRED
+              tip (vortaro|leksikono|terminaro|beletro|rimajho|parolo) #IMPLIED> 
 <!ELEMENT url (#PCDATA)>
 <!ELEMENT aut (#PCDATA|a|n)*>
 <!ELEMENT n   (#PCDATA)>
@@ -29,7 +30,7 @@
  
 <bibliografio>
   
-  <vrk mll="9OA">
+  <vrk mll="9OA" tip="vortaro">
     <url>http://www.akademio-de-esperanto.org/decidoj/9oa.html</url>
     <aut>Akademio de Esperanto</aut>
     <tit>Na&ubreve;a Oficiala Aldono al la Universala Vortaro</tit>
@@ -45,13 +46,13 @@
     </eld>
   </vrk>
 
-  <vrk mll="BazRad">
+  <vrk mll="BazRad" tip="vortaro">
     <url>http://www.xs4all.nl/~pilger/breo-al3.htm</url>
     <aut><a>Wouter F.</a> <n>Pilger</n></aut>
     <tit>Bazaj Radikoj Esperanto-Esperanto</tit>
   </vrk>
 
-  <vrk mll="BEE">
+  <vrk mll="BEE" tip="vortaro">
     <aut><a>Montague J.</a> <n>Butler</n></aut>
     <tit>Esperanto-English Dictionary</tit>
     <eld>
@@ -61,7 +62,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="Bird">
+  <vrk mll="Bird" tip="terminaro">
     <aut><n>M&eacute;sz&aacute;ros</n> <a>B&eacute;la</a></aut>
     <tit>Oklingva nomaro de e&ubreve;ropaj birdoj</tit>
     <eld>
@@ -81,7 +82,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="BoER">
+  <vrk mll="BoER" tip="vortaro">
     <url>http://www.esperanto.mv.ru/Vortaro/kovril.html</url>
     <aut><a>E.</a> <n>Bokarev</n></aut>
     <tit>Esperanta-rusa vortaro</tit>
@@ -117,7 +118,7 @@
     <tit>La bona sinjorino</tit>
   </vrk>
 
-  <vrk mll="BoRE">
+  <vrk mll="BoRE" tip="vortaro">
     <aut><a>E.</a> <n>Bokarev</n></aut>
     <tit>Rusa-esperanta vortaro</tit>
     <eld>
@@ -136,12 +137,12 @@
     </eld>
   </vrk>
 
-  <vrk mll="BT">
+  <vrk mll="BT" tip="vortaro">
     <aut>Douglas A. Portmann</aut>
     <tit>Biblioteka terminaro</tit>
   </vrk>
 
-  <vrk mll="CCT">
+  <vrk mll="CCT" tip="terminaro">
     <tit>Common Commercial Terms in English and Esperanto</tit>
     <eld>
        <nom>The Esperanto Institute Limited</nom>
@@ -150,7 +151,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="CEE">
+  <vrk mll="CEE" tip="vortaro">
     <aut><a>Peter J.</a> <n>Benson</n></aut>
     <tit>Comprehensive English-Esperanto Dictionary</tit>
     <eld>
@@ -231,7 +232,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="Deneva">
+  <vrk mll="Deneva" tip="terminaro">
     <aut><a>Daniela</a> <n>Deneva</n></aut>
     <tit>Esperanta-Bulgara-Rusa Matematika Terminaro</tit>
     <eld>
@@ -265,7 +266,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="EBV">
+  <vrk mll="EBV" tip="terminaro">
     <aut><a>R&uuml;diger</a> <n>Eichholz</n></aut>
     <tit>Esperanta Bildvortaro</tit>
     <eld>
@@ -277,7 +278,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="EdE">
+  <vrk mll="EdE" tip="leksikono">
     <tit>Enciklopedio de Esperanto</tit>
     <eld>
       <lok>Budapest</lok>
@@ -302,7 +303,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="EFM">
+  <vrk mll="EFM" tip="terminaro">
     <aut><n>Braun</n></aut>
     <aut><n>Polerani</n></aut>
     <aut><n>Rotsaert</n></aut>
@@ -320,7 +321,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="EKV">
+  <vrk mll="EKV" tip="terminaro">
     <aut><a>R.</a> <n>Hilgers</n></aut>
     <aut><n>Yashovardhan</n></aut>
     <aut>k.a.</aut>
@@ -360,7 +361,7 @@
      </eld>
    </vrk>
 
-  <vrk mll="EncCxi">
+  <vrk mll="EncCxi" tip="leksikono">
     <aut><a>Li</a> <n>Qiang</n></aut>
     <aut><a>Zhang</a> <n>Meizhi</n></aut>
     <trd>Fan Yizhu, Xu Senrong</trd>
@@ -373,7 +374,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="EncJap">
+  <vrk mll="EncJap" tip="leksikono">
     <aut><a>T.</a> <n>Nakamura</n></aut>
     <tit>Enciklopedieto japana</tit>
     <eld>
@@ -393,7 +394,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="F">
+  <vrk mll="F" tip="vortaro">
     <url>http://www.steloj.de/esperanto/fundamento/index.html</url>
     <aut><a>L. L.</a> <n>Zamenhof</n></aut>
     <tit>Fundamento de Esperanto</tit>
@@ -513,7 +514,7 @@
      </eld>
    </vrk>
 
-  <vrk mll="FT">
+  <vrk mll="FT" tip="terminaro">
     <tit>Fervoja Terminaro</tit>
     <ald>UIC Railway Dictionary</ald>
     <eld>
@@ -522,7 +523,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="FzT">
+  <vrk mll="FzT" tip="terminaro">
     <aut><n>Katsumori</n> <a>H.</a></aut>
     <aut><n>Makino</n> <a>S.</a></aut>
     <aut><n>Makino</n> <a>J.</a> (komp.)</aut>
@@ -537,7 +538,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="GDFE">
+  <vrk mll="GDFE" tip="vortaro">
     <aut><a>Jacques</a> <n>Le Puil</n></aut>
     <aut><a>Jean-Pierre</a> <n>Danvy</n></aut>
     <aut>k.a.</aut>
@@ -569,7 +570,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="HejmVort">
+  <vrk mll="HejmVort" tip="vortaro">
     <url>http://www.helsinki.fi/~jslindst/hejmvort.html</url>
     <aut><a>Jouko</a> <n>Lindstedt</n></aut>
     <aut>k.a.</aut>
@@ -604,7 +605,7 @@
      </eld>
    </vrk>
 
-  <vrk mll="IKEV">
+  <vrk mll="IKEV" tip="terminaro">
     <aut><a>F.</a> <n>Munniksma</n> (eld.)</aut>
     <tit>Internacia komerca-ekonomika vortaro en 11 lingvoj</tit>
     <eld>
@@ -671,7 +672,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="ItEsp">
+  <vrk mll="ItEsp" tip="vortaro">
     <aut><a>Carlo</a> <n>Minnaja</n></aut>
     <tit>Vocabolario Italiano-Esperanto</tit>
     <eld>
@@ -705,7 +706,7 @@
     </eld>
   </vrk> 
 
-  <vrk mll="JV">
+  <vrk mll="JV" tip="terminaro">
     <aut><n>Horba&ccirc;uk</n>, <a>V.</a></aut>
     <aut><n>Poddubnij</n>, <a>F.</a></aut>
     <aut><n>Tu&hcirc;vatullina</n>, <a>L.</a></aut>
@@ -770,7 +771,7 @@
      </eld>
   </vrk>
 
-  <vrk mll="KompLeks">
+  <vrk mll="KompLeks" tip="terminaro">
     <url>http://bertilow.com/div/komputada_leksikono/</url>
     <!--url>http://purl.oclc.org/NET/voko/URL/KompLeks/</url -->
     <aut><a>Sergio</a> <n>Pokrovskij</n></aut>
@@ -788,7 +789,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="KrED">
+  <vrk mll="KrED" tip="vortaro">
     <aut><a>Erich Dieter</a> <n>Krause</n></aut>
     <tit>Gro&szlig;es W&ouml;rterbuch Esperanto-Deutsch</tit>
     <eld>
@@ -798,7 +799,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="KrDE">
+  <vrk mll="KrDE" tip="vortaro">
     <aut><a>Erich Dieter</a> <n>Krause</n></aut>
     <tit>W&ouml;rterbuch Deutsch-Esperanto</tit>
     <eld>
@@ -820,7 +821,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="KVS">
+  <vrk mll="KVS" tip="vortaro">
     <aut><a>Robert</a> <n>Kreuz</n></aut>
     <tit>Komerca Vortaro Seslingva. Germana &dash; Angla &dash; Franca &dash; Itala &dash;
          Hispana &dash; Esperanta
@@ -990,7 +991,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="MatStokTerm">
+  <vrk mll="MatStokTerm" tip="vortaro">
     <aut><a>Olav</a> <n>Reiers&#xf8;l</n></aut>
     <tit>Matematika kaj Stokastika Terminaro Esperanta</tit>
     <eld>
@@ -1001,7 +1002,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="MatTerm">
+  <vrk mll="MatTerm" tip="vortaro">
     <url>&url_mjb;/MatTerm.tif</url>
     <aut><a>Raoul</a> <n>Bricard</n></aut>
     <tit>Matematika Terminaro kaj Krestomatio</tit>
@@ -1012,7 +1013,7 @@
     </eld>
   </vrk>
 
-  <vrk mll="MatVort">
+  <vrk mll="MatVort" tip="vortaro">
     <url>&url_mjb;/werner.htm</url>
     <aut><a>Jan</a> <n>Werner</n></aut>
     <tit>Matematika Vortaro, Esperanta-&Ccirc;e&hcirc;a-Germana</tit>
@@ -1049,7 +1050,7 @@
     <tit>Metropoliteno</tit>
   </vrk>
 
-  <vrk mll="MEV">
+  <vrk mll="MEV" tip="terminaro">
     <aut><a>Eugen</a> <n>W&uuml;ster</n></aut>
     <tit>Ma&scirc;infaka Esperanto-vortaro</tit>
     <eld>
@@ -1118,7 +1119,7 @@ M&uuml;nchhausen</tit>
      </eld>
    </vrk>
 
-  <vrk mll="MuzTerm">
+  <vrk mll="MuzTerm" tip="terminaro">
     <aut><a>M. C.</a> <n>Butler</n></aut>
     <aut><a>F.</a> <n>Merrick</n></aut>
     <aut><a>D. G.</a> <n>Hill</n> ind.</aut>
@@ -1150,7 +1151,7 @@ M&uuml;nchhausen</tit>
    </vrk>
 
 
-  <vrk mll="NeoGlo">
+  <vrk mll="NeoGlo" tip="vortaro">
     <aut><a>H.</a> <n>Vatr&eacute;</n></aut>
     <tit>Neologisma glosaro, postrikolto al PIV</tit>
     <ald>tria eldono kun la&ubreve;tema klasifiko kaj rimaro en
@@ -1163,7 +1164,7 @@ M&uuml;nchhausen</tit>
     </eld>
   </vrk>
 
-  <vrk mll="NePiv">
+  <vrk mll="NePiv" tip="vortaro">
     <aut><a>A.</a> <n>Cherpillod</n></aut>
     <tit>Nepivaj vortoj</tit>
     <ald>listo de 6800 vortoj ne trovi&gcirc;antaj en la PIV el kiuj kelkaj
@@ -1238,7 +1239,7 @@ M&uuml;nchhausen</tit>
     <tit>Paroloj</tit>
   </vrk>
 
-  <vrk mll="PIV1">
+  <vrk mll="PIV1" tip="vortaro">
     <tit>Plena Ilustrita Vortaro</tit>
     <eld>
       <nom>SAT</nom>
@@ -1247,7 +1248,7 @@ M&uuml;nchhausen</tit>
     </eld>
   </vrk>
 
-  <vrk mll="PIV2">
+  <vrk mll="PIV2" tip="vortaro">
     <tit>La Nova Plena Ilustrita Vortaro</tit>
     <eld>
       <nom>SAT</nom>
@@ -1256,7 +1257,7 @@ M&uuml;nchhausen</tit>
     </eld>
   </vrk>
 
-  <vrk mll="PIV3">
+  <vrk mll="PIV3" tip="vortaro">
     <tit>Plena Ilustrita Vortaro de Esperanto 2005</tit>
     <eld>
       <nom>SAT</nom>
@@ -1294,7 +1295,7 @@ M&uuml;nchhausen</tit>
     </eld>
   </vrk>
 
-  <vrk mll="PV">
+  <vrk mll="PV" tip="vortaro">
     <aut><a>E.</a> <n>Grosjean-Maupin</n></aut>
     <tit>Plena Vortaro de Esperanto</tit>
     <eld>
@@ -1341,7 +1342,7 @@ M&uuml;nchhausen</tit>
     <tit>La Revizoro</tit>
   </vrk>
 
-  <vrk mll="RokPop">
+  <vrk mll="RokPop" tip="termiaro">
     <url>http://purl.oclc.org/net/bertilow?d=roko/index.php</url>
     <aut><a>B.</a> <n>Wennergren</n></aut>
     <tit>Roko kaj Popo, Popularmuzika Terminaro en Esperanto</tit>
@@ -1374,7 +1375,7 @@ M&uuml;nchhausen</tit>
      </eld>
   </vrk>
 
-  <vrk mll="ScTerm">
+  <vrk mll="ScTerm" tip="terminaro">
     <url>&url_mjb;/ScTerm.tif</url>
     <aut><a>Maurice</a> <n>Rollet de l'Isle</n></aut>
     <tit>Scienca Fundamenta Esperanta Terminaro</tit>
@@ -1408,7 +1409,7 @@ M&uuml;nchhausen</tit>
      </eld>
   </vrk>
 
-  <vrk mll="SPIV">
+  <vrk mll="SPIV" tip="vortaro">
     <tit>Plena Ilustrita Vortaro de Esperanto, Suplemento</tit>
     <eld>
       <nom>SAT</nom>
@@ -1417,7 +1418,7 @@ M&uuml;nchhausen</tit>
     </eld>
   </vrk>
 
-  <vrk mll="SPV">
+  <vrk mll="SPV" tip="vortaro">
      <aut><a>Gaston</a> <n>Waringhien</n></aut>
      <tit>Plena Vortaro de Esperanto, Suplemento</tit>
      <eld>
@@ -1459,7 +1460,7 @@ M&uuml;nchhausen</tit>
     </eld>
   </vrk>
 
-  <vrk mll="TK">
+  <vrk mll="TK" tip="terminaro">
     <aut></aut>
     <tit>Ilustrita terminaro de kombinita transporto, franca, angla, germana,
      esperanta, serba</tit>
@@ -1470,7 +1471,7 @@ M&uuml;nchhausen</tit>
     </eld>
   </vrk>
 
-  <vrk mll="TW">
+  <vrk mll="TW" tip="vortaro">
     <aut><a>Rudolf</a> <n>Haferkorn</n></aut>
     <tit>Technisches W&ouml;rterbuch Deutsch-Esperanto</tit>
     <eld>
@@ -1492,7 +1493,7 @@ M&uuml;nchhausen</tit>
     </eld>
   </vrk>
 
-  <vrk mll="VdE">
+  <vrk mll="VdE" tip="vortaro">
     <aut><a>Kazimierz</a> <n>Bein</n></aut>
     <tit>Vortaro de Esperanto</tit>
     <eld>
@@ -1513,7 +1514,7 @@ M&uuml;nchhausen</tit>
     </eld>
   </vrk>
 
-  <vrk mll="Viki">
+  <vrk mll="Viki" tip="leksikono">
      <url>http://eo.wikipedia.com/</url>
      <tit>Vikipedio</tit>
      <eld>
@@ -1571,7 +1572,7 @@ M&uuml;nchhausen</tit>
     </eld>
   </vrk>
 
-  <vrk mll="WED">
+  <vrk mll="WED" tip="vortaro">
     <aut><a>J.C.</a> <n>Wells</n></aut>
     <tit>Esperanto Dictionary Esperanto-English, English-Esperanto</tit>
     <eld>
@@ -1581,7 +1582,7 @@ M&uuml;nchhausen</tit>
     </eld>
   </vrk>
 
-  <vrk mll="ZR">
+  <vrk mll="ZR" tip="vortaro">
     <aut><a>Eugen</a> <n>W&uuml;ster</n></aut>
     <tit>Zamenhof-radikaro</tit>
     <eld>

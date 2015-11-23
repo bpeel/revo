@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: komple2.xml,v 1.25 2013/04/03 09:10:12 revo Exp $">
+<art mrk="$Id: komple2.xml,v 1.27 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>komplet</rad>/a <fnt><bib>PV</bib></fnt>
@@ -111,6 +111,12 @@
       <trd lng="ru">&c_p;&c_o;&c_l;&c_n;&c_y;&c_j;<klr tip="ind"> (&c_g;&c_r;&c_a;&c_f;)</klr></trd>
     </subsnc>
   </snc>
+  <trdgrp lng="cs">
+    <trd>celkový</trd>,
+    <trd>celý</trd>,
+    <trd>kompletní</trd>,
+    <trd>úplný</trd>
+  </trdgrp>
   <trd lng="de">vollst&auml;ndig</trd>
   <trdgrp lng="nl">
     <trd>compleet</trd>,
@@ -119,6 +125,10 @@
   <trdgrp lng="ru">
     <trd>&c_c;&c_je;&c_l;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_o;&c_l;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>celý</trd>,
+    <trd>ucelený</trd>
   </trdgrp>
 </drv>
 
@@ -167,12 +177,27 @@
       <trd>garnitur</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>agregát</trd>,
+    <trd>celek</trd>,
+    <trd>komplet</trd>,
+    <trd>sada</trd>,
+    <trd>sbírka</trd>,
+    <trd>soubor</trd>,
+    <trd>soustrojí</trd>,
+    <trd>výstroj</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>complet</trd>,
     <trd>pak</trd>,
     <trd>volledig <ind>stel</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>komplet</trd>,
+    <trd>sada</trd>,
+    <trd>súbor</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="komple2.0eco">
@@ -189,11 +214,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">úplnost</trd>
   <trd lng="de">Vollst&auml;ndigkeit</trd>
-  <trd lng="nl">volledigheid</trd>
   <trdgrp lng="fr">
     <trd>compl&eacute;tude</trd>,
   </trdgrp>
+  <trd lng="nl">volledigheid</trd>
   <trdgrp lng="pl">
     <trd>ca&lstroke;o&sacute;&cacute;</trd>,
     <trd>kompletno&sacute;&cacute;</trd>
@@ -204,6 +230,7 @@
     <trd>&c_c;&c_je;&c_l;&c_o;&c_s;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_c;&c_je;&c_l;&c_o;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">úplnosť</trd>
 </drv>
 
 <drv mrk="komple2.0igi">
@@ -232,6 +259,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>doplňovat</trd>,
+    <trd>kompletiovat</trd>,
+    <trd>kompletizovat</trd>
+  </trdgrp>
   <trd lng="de">vervollst&auml;ndigen</trd>
   <trdgrp lng="fr">
     <trd>compl&eacute;ter</trd>,
@@ -257,6 +289,7 @@
     <trd>&c_v;&c_o;&c_s;&c_p;&c_o;&c_l;&c_n;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_o;&c_s;&c_p;&c_o;&c_l;&c_n;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">dokončiť <klr>(dielo)</klr></trd>
 </drv>
 
 <drv mrk="komple2.ne0a">
@@ -277,6 +310,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>inkompletní</trd>,
+    <trd>kusý</trd>,
+    <trd>neúplný</trd>
+  </trdgrp>
   <trd lng="de">unvollst&auml;ndig</trd>
   <trdgrp lng="fr">
     <trd>incomplet</trd>,
@@ -294,6 +332,11 @@
     <trd>&c_n;&c_je;&c_p;&c_o;&c_l;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_z;&c_a;&c_v;&c_je;&c_r;&c_sh;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nekompletný</trd>,
+    <trd>neucelený</trd>,
+    <trd>neúplný</trd>
   </trdgrp>
 </drv>
 
@@ -329,6 +372,12 @@
 </art>
 <!--
 $Log: komple2.xml,v $
+Revision 1.27  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.25  2013/04/03 09:10:12  revo
 Sebastian Cyprych: +trd pl
 

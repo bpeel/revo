@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bajade.xml,v 1.15 2013/08/09 19:10:12 revo Exp $">
+<art mrk="$Id: bajade.xml,v 1.17 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <rad>bajader</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -28,6 +28,7 @@
   </snc>
   <trd lng="be">&c_b;&c_a;&c_ja;&c_d;&c_e;&c_r;&c_k;&c_a;</trd>
   <trd lng="ca">baiadera</trd>
+  <trd lng="cs">bajadéra</trd>
   <trd lng="de">Bajadere</trd>
   <trd lng="en">bayad&egrave;re</trd>
   <trd lng="fa">&a_r;&a_q;&a_A;&a_S;&a_h;&a_hamza_sure; &a_h;&a_n;&a_d;&f_y;</trd>
@@ -36,10 +37,20 @@
   <trd lng="nl">bajad&egrave;re</trd>
   <trd lng="pl">bajadera</trd>
   <trd lng="ru">&c_b;&c_a;&c_ja;&c_d;&c_je;&c_r;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>bajadéra</trd>,
+    <trd>indická tanečnica</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: bajade.xml,v $
+Revision 1.17  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/08/09 19:10:12  revo
 Jeromo Vasxe: + ekz + preciz. dif
 

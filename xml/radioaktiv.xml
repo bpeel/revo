@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: radioaktiv.xml,v 1.12 2009/06/29 18:05:45 revo Exp $">
+<art mrk="$Id: radioaktiv.xml,v 1.14 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <rad>radioaktiv</rad>/a <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -44,6 +44,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_d;&c_y;&c_je;&c_a;&c_k;&c_t;&c_y;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="cs">radioaktivita</trd>
   <trd lng="de">Radioaktivit&auml;t</trd>
   <trd lng="en">radioactivity</trd>
   <trd lng="es">radiactividad</trd>
@@ -57,11 +58,18 @@
   <trd lng="pl">radioaktywno&sacute;&cacute;</trd>
   <trd lng="pt">radioatividade</trd>
   <trd lng="ru">&c_r;&c_a;&c_d;&c_i;&c_o;&c_a;&c_k;&c_t;&c_i;&c_v;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">rádioaktivita</trd>
 </drv>
 
 </art>
 <!--
 $Log: radioaktiv.xml,v $
+Revision 1.14  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2009/06/29 18:05:45  revo
 Behnam Tabatabai: +trd fa
 

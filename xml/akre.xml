@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: akre.xml,v 1.11 2014/10/26 15:10:29 revo Exp $">
+<art mrk="$Id: akre.xml,v 1.13 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>akre</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -34,6 +34,10 @@
     </subsnc>
   </snc>
   <trd lng="be">&c_a;&c_k;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>akr</trd>,
+    <trd>jitro <klr>(0,817 ha)</klr></trd>
+  </trdgrp>
   <trd lng="de">Acre<klr> (Einheit)</klr></trd>
   <trd lng="en">acre</trd>
   <trd lng="es">acre</trd>
@@ -43,12 +47,21 @@
   <trd lng="id">ekar</trd>
   <trd lng="pt">acre</trd>
   <trd lng="ru">&c_a;&c_k;&c_r;</trd>
-  <trd lng="sk">aker</trd>
+  <trdgrp lng="sk">
+    <trd>aker</trd>,
+    <trd>aker <klr>(plošná miera 40 árov)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: akre.xml,v $
+Revision 1.13  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2014/10/26 15:10:29  revo
 Eko Nur Syah Hidayat: +trd id
 

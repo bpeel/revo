@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lian.xml,v 1.16 2014/04/08 20:10:13 revo Exp $">
+<art mrk="$Id: lian.xml,v 1.18 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lian</rad>/o <fnt><bib>PV</bib></fnt>
@@ -16,13 +16,14 @@
       arbo a&ubreve; alia apoga&jcirc;o.
     </dif>
   </snc>
+  <trd lng="be">&c_l;&c_ib;&c_ja;&c_n;&c_a;</trd>
+  <trd lng="cs">liána</trd>
   <trd lng="de">Liane</trd>
   <trd lng="el">&kappa;&lambda;&eta;&my;&alfa;&tau;&jota_ton;&delta;&alfa;</trd>
   <trdgrp lng="en">
     <trd>liana</trd>,
     <trd>tropical climbing vine</trd>
   </trdgrp>
-  <trd lng="be">&c_l;&c_ib;&c_ja;&c_n;&c_a;</trd>
   <trd lng="es">liana</trd>
   <trd lng="fr">liane</trd>
   <trd lng="hu">li&aacute;n</trd>
@@ -34,11 +35,18 @@
     <trd>liana</trd>    
   </trdgrp>
   <trd lng="ru">&c_l;&c_i;&c_a;&c_n;&c_a;</trd>
+  <trd lng="sk">liana</trd>
   <trd lng="sv">lian</trd>
 </drv>
 </art>
 <!--
 $Log: lian.xml,v $
+Revision 1.18  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2014/04/08 20:10:13  revo
 Jeromo Vasxe: red. dif, + fak bot
 

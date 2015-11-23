@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konfes.xml,v 1.24 2014/04/03 01:10:19 revo Exp $">
+<art mrk="$Id: konfes.xml,v 1.26 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konfes</rad>/i <fnt><bib>PV</bib></fnt>
@@ -225,6 +225,14 @@
     <trd>reconna&icirc;tre<klr tip="ind"> (comme exact)</klr></trd>,
   </trdgrp>
   <trd lng="pl">wyznawa&cacute;</trd>
+  <trdgrp lng="sk">
+    <trd>hlásiť sa</trd>,
+    <trd>prejavovať príslušnosť <klr>(k niečomu)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hlásit se</trd>,
+    <trd>projevovat příslušnost <klr>(k něčemu)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konfes.0o">
@@ -299,6 +307,17 @@
     </trdgrp>
     <trd lng="nl">biecht</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>doznání</trd>,
+    <trd>přiznání</trd>,
+    <trd>uznání</trd>,
+    <trd>vyznání</trd>,
+    <trd>zpověď</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>spoveď</trd>,
+    <trd>vyznanie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konfes.0ejo">
@@ -310,6 +329,7 @@
       ejo a&ubreve; meblo, kie sidas <tld/>prenanta pastro.
     </dif>
   </snc>
+  <trd lng="cs">zpovědnice</trd>
   <trd lng="de">Beichtstuhl</trd>
   <trd lng="en">confessional</trd>
   <trd lng="es">confesionario</trd>
@@ -318,6 +338,7 @@
   <trd lng="nl">biechtstoel</trd>
   <trd lng="pl">konfesjona&lstroke;</trd>
   <trd lng="ru">&c_i;&c_s;&c_p;&c_o;&c_v;&c_je;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_ja;</trd>
+  <trd lng="sk">spovedelnica</trd>
 </drv>
 
 <drv mrk="konfes.0into">
@@ -404,6 +425,7 @@
     <trd>recevoir la <ind>confession</ind> (de)</trd>
   </trdgrp>
   <trd lng="pl">spowiada&cacute;</trd>
+  <trd lng="sk">vyspovedať</trd>
 </drv>
 
 <drv mrk="konfes.for0i">
@@ -420,6 +442,10 @@
       <ref cel="konfes.mal0i.deklari_sia">i<sncref/></ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>zavrhnout</trd>,
+    <trd>zříci se</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>abschw&ouml;ren</trd>
   </trdgrp>
@@ -436,6 +462,10 @@
   <trd lng="nl">afwijzen</trd>
   <trd lng="pl">wyrzeka&cacute; si&eogonek;</trd>
   <trd lng="ru">&c_o;&c_t;&c_r;&c_je;&c_ch;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>zavrhnúť</trd>,
+    <trd>zriecť sa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konfes.mal0i">
@@ -537,6 +567,10 @@
       <trd>zapiera&cacute; si&eogonek;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>popřít</trd>,
+    <trd>zapřít</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>deny</trd>
   </trdgrp>
@@ -556,6 +590,12 @@
     </trd>,
     <trd>&c_o;&c_t;&c_v;&c_je;&c_r;&c_g;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_t;&c_r;&c_i;&c_c;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nepriznať</trd>,
+    <trd>odtajiť</trd>,
+    <trd>popierať</trd>,
+    <trd>zatajiť</trd>
   </trdgrp>
 </drv>
 
@@ -613,6 +653,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">zpovídat <klr>(kněz)</klr></trd>
   <trd lng="de">Beichte abnehmen</trd>
   <trd lng="en">shrive</trd>
   <trd lng="fr">confesser<klr tip="ind"> (qn)</klr></trd>
@@ -621,6 +662,7 @@
   <trd lng="pl">spowiada&cacute;</trd>
   <trd lng="ru">&c_i;&c_s;&c_p;&c_o;&c_v;&c_je;&c_d;&c_a;&c_t;&c_mol;
   </trd>
+  <trd lng="sk">spovedať</trd>
 </drv>
 
 <drv mrk="konfes.0ricevi">
@@ -631,13 +673,10 @@
     <uzo tip="fak">REL</uzo>
     <ref tip="dif" cel="konfes.0preni"><tld/>preni</ref>
   </snc>
+  <trd lng="cs">zpovídat</trd>
   <trd lng="fr">se <ind>confesser</ind></trd>
   <trd lng="pl">spowiada&cacute; si&eogonek;</trd>
-  <adm>
-    Mankas ekzemploj por certi, &ccirc;u la verbo estas uzata la&ubreve;
-    la sama frazkonstruo kiel "konfespreni".
-    <aut>MB</aut>
-  </adm>
+  <trd lng="sk">spovedať</trd>
 </drv>
 
 <drv mrk="konfes.est0i">
@@ -652,6 +691,8 @@
       <fnt><bib>MT</bib>, <lok>&Rea; 21:17</lok></fnt>.
     </ekz>
   </snc>
+  <trd lng="cs">uznat za vlastního</trd>
+  <trd lng="sk">uznať za vlastného</trd>
 </drv>
 
 <drv mrk="konfes.kred0o">
@@ -734,6 +775,8 @@
     </trdgrp>
     <trd lng="ru">&c_k;&c_r;&c_je;&c_d;&c_o;</trd>
   </snc>
+  <trd lng="cs">vyznání víry</trd>
+  <trd lng="sk">vyznanie viery</trd>
 </drv>
 
 <drv mrk="konfes.sam0anto">
@@ -760,6 +803,12 @@
 </art>
 <!--
 $Log: konfes.xml,v $
+Revision 1.26  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2014/04/03 01:10:19  revo
 Jeromo Vasxe: + kk mrk
 

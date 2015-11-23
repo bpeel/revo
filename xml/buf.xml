@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: buf.xml,v 1.25 2014/06/09 16:10:36 revo Exp $">
+<art mrk="$Id: buf.xml,v 1.29 2015/10/06 12:10:19 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>buf</rad>/o
@@ -24,6 +24,7 @@
   <ref tip="vid" cel="ran.0o">rano</ref>
   
   <trd lng="be">&c_r;&c_a;&c_p;&c_u;&c_h;&c_a;</trd>
+  <trd lng="bg">&c_k;&c_r;&c_a;&c_s;&c_t;&c_a;&c_v;&c_a; <ind>&c_zh;&c_a;&c_b;&c_a;</ind></trd>
   <trd lng="br">touseg</trd>
   <trd lng="de">Kr&ouml;te</trd>
   <trd lng="en">toad</trd>
@@ -39,13 +40,28 @@
     <trd>rospo</trd></trdgrp>
   <trd lng="nl">pad</trd>
   <trd lng="pl">ropucha</trd>
+  <trd lng="pt">sapo</trd>
   <trd lng="ru">&c_zh;&c_a;&c_b;&c_a;</trd>
   <trd lng="sv">padda</trd>
+  <trd lng="sk">ropucha</trd>
+  <trd lng="cs">ropucha</trd>
 </drv>
 
 </art>
 <!--
 $Log: buf.xml,v $
+Revision 1.29  2015/10/06 12:10:19  revo
+Evandro Avellar: +trd pt
+
+Revision 1.28  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2015/04/29 18:10:15  revo
+Joop Eggen: +trd bg
+
 Revision 1.25  2014/06/09 16:10:36  revo
 Eko Nur Syah Hidayat: +id
 
@@ -56,17 +72,5 @@ Revision 1.23  2013/09/01 13:11:06  revo
 Wolfram Diestel: referenco al listo zoo genroj
 
 Revision 1.22  2009/04/02 16:31:07  revo
-Antonio Codazzi: +trd it
-
-Revision 1.21  2009/03/31 16:30:39  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.20  2005/06/21 16:31:24  revo
-Alan ar Gall: +trd br
-
-Revision 1.19  2005/02/02 17:33:36  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.18  2003/12/05 17:30:42  revo
 -->
 </vortaro>

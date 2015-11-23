@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lup.xml,v 1.37 2013/10/20 19:10:15 revo Exp $">
+<art mrk="$Id: lup.xml,v 1.40 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lup</rad>/o
@@ -44,6 +44,8 @@
     <trd lng="nl">wolf</trd>
     <trd lng="pl">wilk</trd>
   </snc>
+  <trd lng="cs">vlk</trd>
+  <trd lng="sk">vlk</trd>
 </drv>
 <drv mrk="lup.L0o">
   <kap><tld lit="L"/>o</kap>
@@ -68,6 +70,7 @@
   <trd lng="es">lobo</trd>
   <trd lng="fr">loup</trd>
   <trd lng="hu">farkas</trd>
+  <trd lng="id">serigala</trd>
   <trd lng="it">lupo</trd>
   <trd lng="pt">lobo</trd>
   <trd lng="ru">&c_v;&c_o;&c_l;&c_k;</trd>
@@ -272,11 +275,22 @@
   <trd lng="it">lupacchiotto</trd>
   </snc>
   <trd lng="ca">llobat&oacute;</trd>
+  <trd lng="cs">vlče</trd>
+  <trd lng="sk">vĺča</trd>
 </drv>
 </art>
 
 <!--
 $Log: lup.xml,v $
+Revision 1.40  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.38  2014/11/09 10:10:26  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.37  2013/10/20 19:10:15  revo
 Wolfram Diestel: ref al lst rabobestoj
 
@@ -295,9 +309,6 @@ Wolfram Diestel: Lupo: ref al stelfiguro, trd "la"
 
 Revision 1.32  2011/12/06 17:10:16  revo
 Marc Rausell: kataluna traduko
-
-Revision 1.31  2011/10/02 19:10:10  revo
-Lucas Larson: +trd ~ino en, es kaj it
 
 -->
 </vortaro>

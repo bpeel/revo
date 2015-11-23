@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lem.xml,v 1.11 2010/10/20 16:31:22 revo Exp $">
+<art mrk="$Id: lem.xml,v 1.13 2015/07/04 08:37:38 revo Exp $">
   <kap>
     <rad>lem</rad>/o
   </kap>
@@ -18,6 +18,11 @@
   </snc>
   <trd lng="be">&c_l;&c_je;&c_m;&c_a;</trd>
   <trd lng="ca">lema</trd>
+  <trdgrp lng="cs">
+    <trd>lemma</trd>,
+    <trd>pomocná věta</trd>,
+    <trd>poučka</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Lemma</trd>,
      <trd>Satz</trd>
@@ -38,6 +43,11 @@
   <trd lng="pl">lemat</trd>
   <trd lng="pt">lema</trd>
   <trd lng="ru">&c_l;&c_je;&c_m;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>lema</trd>,
+    <trd>pomocná veta</trd>,
+    <trd>poučka</trd>
+  </trdgrp>
   <trdgrp lng="sv">
     <trd>lemma</trd>,
     <trd>hj&auml;lpsats</trd>
@@ -47,6 +57,12 @@
 
 <!--
 $Log: lem.xml,v $
+Revision 1.13  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2010/10/20 16:31:22  revo
 Jerano Zachrisson: +trd sv
 

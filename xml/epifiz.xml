@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: epifiz.xml,v 1.13 2010/11/19 17:30:27 revo Exp $">
+<art mrk="$Id: epifiz.xml,v 1.15 2015/07/04 08:37:33 revo Exp $">
 <kap><rad>epifiz</rad>/o</kap>
 <drv mrk="epifiz.0o">
   <kap><tld/>o</kap>
@@ -17,6 +17,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_e;&c_p;&c_ib;&c_f;&c_ib;&c_z;</trd>
+  <trdgrp lng="cs">
+    <trd>epifýza</trd>,
+    <trd>šišinka</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Epiphyse</trd>,
     <trd>Epiphysis</trd>,
@@ -33,10 +37,20 @@
   <trd lng="pl">epifiza</trd>
   <trd lng="pt">ep&iacute;fise</trd>
   <trd lng="ru">&c_e;&c_p;&c_i;&c_f;&c_i;&c_z;</trd>
+  <trdgrp lng="sk">
+    <trd>epifýza</trd>,
+    <trd>šišinka</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: epifiz.xml,v $
+Revision 1.15  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2010/11/19 17:30:27  revo
 Antonio Codazzi: +trd it
 

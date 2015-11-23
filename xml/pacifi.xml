@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pacifi.xml,v 1.15 2014/04/15 13:10:18 revo Exp $">
+<art mrk="$Id: pacifi.xml,v 1.17 2015/07/04 08:37:40 revo Exp $">
 <kap><ofc>3</ofc><rad>pacifism</rad>/o</kap>
 <drv mrk="pacifi.0o">
   <kap><tld/>o</kap>
@@ -14,6 +14,10 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_c;&c_y;&c_f;&c_ib;&c_z;&c_m;</trd>
   <trd lng="ca">pacifisme</trd>
+  <trdgrp lng="cs">
+    <trd>mírové hnutí</trd>,
+    <trd>pacifizmus</trd>
+  </trdgrp>
   <trd lng="de">Pazifismus</trd>
   <trd lng="en">pacifism</trd>
   <trd lng="es">pacifismo</trd>
@@ -24,11 +28,18 @@
    <trd>pacifismo</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_a;&c_c;&c_i;&c_f;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">pacifizmus</trd>
   <trd lng="sv">pacifism</trd>
 </drv>
 </art>
 <!--
 $Log: pacifi.xml,v $
+Revision 1.17  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2014/04/15 13:10:18  revo
 Damien Brucker: +trd fr
 

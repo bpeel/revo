@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: orden.xml,v 1.19 2012/03/11 20:10:12 revo Exp $">
+<art mrk="$Id: orden.xml,v 1.21 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>orden</rad>/o
 </kap>
@@ -68,6 +68,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_o;&c_r;&c_d;&c_e;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>nábož. řád</trd>,
+    <trd>řehole</trd>
+  </trdgrp>
   <trd lng="de">Orden</trd>
   <trdgrp lng="en">
     <trd>order</trd>,
@@ -77,6 +81,10 @@
   personas)</klr></trd>
   <trd lng="pt">ordem</trd>
   <trd lng="ru">&c_o;&c_r;&c_d;&c_je;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>rad</trd>,
+    <trd>vyznamenanie</trd>
+  </trdgrp>
   <trd lng="sv">orden</trd>
 </drv>
 
@@ -96,6 +104,10 @@
   <trd lng="be">&c_u;&c_z;&c_n;&c_a;&c_g;&c_a;&c_r;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;
     <ind>&c_o;&c_r;&c_d;&c_e;&c_n;&c_a;&c_m;</ind>
   </trd>
+  <trdgrp lng="cs">
+    <trd>udělit řád</trd>,
+    <trd>vyznamenat řádem</trd>
+  </trdgrp>
   <trd lng="de"><klr>(jmdm.) einen </klr>Orden
   <ind>verleihen</ind></trd>
   <trd lng="en">decorate</trd>
@@ -108,10 +120,17 @@
   <trd lng="pt">ordenar</trd>
   <trd lng="ru">&c_n;&c_a;&c_g;&c_r;&c_a;&c_d;&c_i;&c_t;&c_mol;
 &c_o;&c_r;&c_d;&c_je;&c_n;&c_o;&c_m;</trd>
+  <trd lng="sk">vyznamenať radom</trd>
 </drv>
 </art>
 <!--
 $Log: orden.xml,v $
+Revision 1.21  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2012/03/11 20:10:12  revo
 Agustin Garcia Lopez: +trd(es)
 

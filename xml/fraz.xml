@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fraz.xml,v 1.24 2014/06/24 18:10:17 revo Exp $">
+<art mrk="$Id: fraz.xml,v 1.27 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>fraz</rad>/o
@@ -47,7 +47,8 @@
     <trd lng="de">Satz</trd>
     <trd lng="nl">zin</trd>
     <trd lng="pt">frase</trd>
-    <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+    <trd 
+lng="ru">&c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
   </snc>
   <snc>
     <uzo tip="stl">FIG</uzo>
@@ -81,7 +82,8 @@
       <trd>fr&aacute;zis</trd>
     </trdgrp>
     <trd lng="pt">frase</trd>
-    <trd lng="ru">&c_f;&c_r;&c_a;&c_z;&c_a;<klr tip="amb"> (&c_m;&c_u;&c_z;.)</klr></trd>
+    <trd lng="ru">&c_f;&c_r;&c_a;&c_z;&c_a;<klr tip="amb"> 
+(&c_m;&c_u;&c_z;.)</klr></trd>
   </snc>
   <snc mrk="fraz.0o.KOMP">
     <uzo tip="fak">KOMP</uzo>
@@ -103,7 +105,18 @@
       <trd>mondat</trd>,
       <trd>utas&iacute;t&aacute;s</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd>语句 [<ind>yǔ jù</ind>]</trd>
+      <trd>表达式 [<ind>biǎo dá shì</ind>]</trd>
+    </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>instrukce</trd>,
+    <trd>povel</trd>,
+    <trd>příkaz</trd>,
+    <trd>výraz</trd>,
+    <trd>výrok</trd>
+  </trdgrp>
   <trd lng="de">Anweisung</trd>
   <trd lng="en">sentence</trd>
   <trdgrp lng="fr">
@@ -113,6 +126,12 @@
   <trdgrp lng="ru">
     <trd>&c_f;&c_r;&c_a;&c_z;&c_a;</trd>,
     <trd>&c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>inštrukcia</trd>,
+    <trd>povel</trd>,
+    <trd>príkaz</trd>,
+    <trd>vyraz</trd>
   </trdgrp>
 </drv>
 
@@ -129,8 +148,11 @@
       Kolekto da modelaj anta&ubreve;pretaj <tld/>oj.
     </dif>
     <trd lng="hu">sz&oacute;l&aacute;sgy&udblac;jtem&eacute;ny</trd>
-    <trd lng="ru">&c_r;&c_a;&c_z;&c_g;&c_o;&c_v;&c_o;&c_r;&c_n;&c_i;&c_k;</trd>
+    <trd 
+lng="ru">&c_r;&c_a;&c_z;&c_g;&c_o;&c_v;&c_o;&c_r;&c_n;&c_i;&c_k;</trd>
   </snc>
+  <trd lng="cs">konverzační příručka</trd>
+  <trd lng="sk">konverzačná príručka</trd>
 </drv>
 
 <drv mrk="fraz.0i">
@@ -141,12 +163,15 @@
       Paroli per afektaj, malmultsignifaj <tld/>oj.
     </dif>
   </snc>
+  <trd lng="cs">vyjadřovat se ve frázích</trd>
   <trdgrp lng="fr">
     <trd>discourir<klr tip="ind"> (pontifier)</klr></trd>,
     <trd>pontifier</trd>
   </trdgrp>
   <trd lng="hu">sz&oacute;nokol <klr tip="amb">(pej.)</klr></trd>
-  <trd lng="ru">&c_r;&c_a;&c_z;&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd 
+lng="ru">&c_r;&c_a;&c_z;&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">vyjadrovať sa vo frázach</trd>
 </drv>
 
 <drv mrk="fraz.0isto">
@@ -159,10 +184,16 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>frázista</trd>,
+    <trd>frázovitý řečník</trd>,
+    <trd>mluvka</trd>
+  </trdgrp>
   <trd lng="de">Schw&auml;tzer</trd>
   <trd lng="fr">phraseur</trd>
   <trd lng="hu">fraz&odblac;r</trd>
   <trd lng="ru">&c_f;&c_r;&c_a;&c_z;&c_jo;&c_r;</trd>
+  <trd lng="sk">frázista</trd>
 </drv>
 
 <drv mrk="fraz.cxirkaux0o">
@@ -223,8 +254,16 @@
       <ref cel="mot.0o">moto</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>heslo</trd>,
+    <trd>slogan</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>devise</trd>,
+    <trd>slogan</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>heslo</trd>,
     <trd>slogan</trd>
   </trdgrp>
 </drv>
@@ -240,13 +279,15 @@
   <rim>
     PIV2 nomas tion <ctl>sintagmo</ctl> &#8208; ne tre oportune, &ccirc;ar tiu
     vorto estas tro &scirc;ar&gcirc;ita je sencoj lingvosciencaj (internacie
-    &gcirc;i havas almena&ubreve; 5 aliajn sencojn, iuj el kiuj estas pli oftaj).
+    &gcirc;i havas almena&ubreve; 5 aliajn sencojn, iuj el kiuj estas pli 
+oftaj).
     <aut>Sergio Pokrovskij</aut>
   </rim>
   <trd lng="hu">mondatr&eacute;sz</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_l;&c_o;&c_v;&c_o;&c_s;&c_o;&c_ch;&c_je;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>,
-    <trd>&c_ch;&c_l;&c_je;&c_n; &c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_ja;</trd>
+    <trd>&c_ch;&c_l;&c_je;&c_n; 
+&c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_ja;</trd>
   </trdgrp>
 </drv>
 
@@ -270,11 +311,21 @@
     <aut>Sergio Pokrovskij</aut>
   </rim>
   <trd lng="hu">mondatfunkci&oacute;</trd>
-  <trd lng="ru">&c_ch;&c_l;&c_je;&c_n; &c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="ru">&c_ch;&c_l;&c_je;&c_n; 
+&c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_ja;</trd>
 </drv>
 </art>
 <!--
 $Log: fraz.xml,v $
+Revision 1.27  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2015/06/26 23:10:16  revo
+Darcy Shen: +trd zh
+
 Revision 1.24  2014/06/24 18:10:17  revo
 Damien Brucker: +ekz
 
@@ -293,9 +344,6 @@ enmuzika kunteksto)
 
 Revision 1.19  2006/09/22 12:26:36  revo
 Wolfram Diestel: +tezrad(GRA)
-
-Revision 1.18  2005/08/17 16:31:10  revo
-Marc Bavant: kor ref cel al "afekto"
 
 -->
 </vortaro>

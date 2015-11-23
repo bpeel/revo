@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: latv.xml,v 1.10 2014/06/09 16:10:58 revo Exp $">
+<art mrk="$Id: latv.xml,v 1.13 2015/07/04 08:37:38 revo Exp $">
 <kap>
     <ofc>8</ofc>
     <rad>latv</rad>/o
@@ -19,12 +19,20 @@
     <ref tip="dif" cel="latv.0ujano"><tld lit="L"/>ujano</ref>
   </snc>
   <trd lng="bg">&c_l;&c_a;&c_t;&c_v;&c_i;&c_je;&c_c;</trd>
+  <trdgrp lng="cs">
+    <trd>Lotyš</trd>,
+    <trd>Lotyšec</trd>
+  </trdgrp>
   <trd lng="de">Lette</trd>
   <trd lng="en">Latvian</trd>
   <trd lng="fr">Letton<klr> (subst.)</klr></trd>
   <trd lng="nl">Let</trd>
   <trd lng="pl">&Lstroke;otysz</trd>
   <trd lng="pt">let&atilde;o<klr tip="amb"> (subs.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>Lotyš</trd>,
+    <trd>Lotyš,</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="latv.0a">
@@ -35,12 +43,14 @@
     </dif>
   </snc>
   <trd lng="bg">&c_l;&c_a;&c_t;&c_v;&c_i;&c_j;&c_s;&c_k;&c_i;</trd>
+  <trd lng="cs">lotyšský</trd>
   <trd lng="de">lettisch</trd>
   <trd lng="en">Latvian</trd>
   <trd lng="fr">letton<klr> (adj.)</klr></trd>
   <trd lng="nl">Lets</trd>
   <trd lng="pl">&lstroke;otewski</trd>
   <trd lng="pt">let&atilde;o<klr tip="amb"> (adj.)</klr></trd>
+  <trd lng="sk">lotyšský</trd>
 </drv>
 
 <drv mrk="latv.L0ujo">
@@ -103,6 +113,15 @@
 
 <!--
 $Log: latv.xml,v $
+Revision 1.13  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2014/06/09 16:10:58  revo
 Damien Brucker: +trd fr
 

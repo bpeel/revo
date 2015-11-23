@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: boat.xml,v 1.15 2014/07/09 20:10:24 revo Exp $">
+<art mrk="$Id: boat.xml,v 1.19 2015/10/06 02:10:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>boat</rad>/o <fnt><bib>PV</bib></fnt>
@@ -55,6 +55,7 @@
   <trd lng="bg">&c_l;&c_o;&c_d;&c_k;&c_a;</trd>
   <trdgrp lng="cs">
     <trd>&ccaron;lun</trd>,
+    <trd>lo&dcaron;ka</trd>,
     <trd>lo&dcaron;ka</trd>
   </trdgrp>
   <trd lng="de">Boot</trd>
@@ -63,10 +64,12 @@
     <trd>&lstroke;&oacute;d&zacute;</trd>,
     <trd>&lstroke;&oacute;dka</trd>
   </trdgrp>
+  <trd lng="pt">bote</trd>
   <trdgrp lng="ru">
     <trd>&c_l;&c_o;&c_d;&c_k;&c_a;</trd>,
     <trd>&c_sh;&c_l;&c_ju;&c_p;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">&ccaron;ln</trd>
 </drv>
 
 <drv mrk="boat.gum0o">
@@ -109,6 +112,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">motorov&yacute; &ccaron;lun</trd>
   <trd lng="de">Motorboot</trd>
   <trdgrp lng="fr">
     <trd>bateau &agrave; moteur</trd>,
@@ -118,6 +122,7 @@
     <trd>motor&oacute;wka</trd>,
     <trd>&lstroke;&oacute;d&zacute; motorowa</trd>
   </trdgrp>
+  <trd lng="sk">motorov&yacute; &ccaron;ln</trd>
 </drv>
 
 <drv mrk="boat.pedal0o">
@@ -177,12 +182,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">z&aacute;chrann&yacute; &ccaron;lun</trd>
   <trd lng="de">Rettungsboot</trd>
   <trd lng="fr">canot de sauvetage</trd>
   <trdgrp lng="pl">
     <trd>szalupa</trd>,
     <trd>&lstroke;&oacute;d&zacute; ratunkowa</trd>
   </trdgrp>
+  <trd lng="sk">z&aacute;chrann&yacute; &ccaron;ln</trd>
 </drv>
 
 <drv mrk="boat.vel0o">
@@ -191,7 +198,7 @@
     <uzo tip="fak">SHI</uzo>
     <dif>
       <ref tip="super" cel="boat.0o.SHI"><tld lit="B"/>o</ref> pelata 
-      de <ref tip="vid" cel="vel.0o.MAR">veloj</ref>:
+      de <ref tip="vid" cel="vel.0o.SHI">veloj</ref>:
       <ekz>
         La veturo en balastkila vel<tld/>o estas do pli trankvila, pli
         agrabla
@@ -212,17 +219,38 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>jachta</trd>,
+    <trd>&ccaron;lun s plachtou</trd>
+  </trdgrp>
   <trd lng="fr">canot &agrave; voile</trd>
   <trdgrp lng="pl">
     <trd>&zdot;agl&oacute;wka</trd>,
     <trd>&lstroke;&oacute;d&zacute; &zdot;aglowa</trd>,
     <trd>jacht</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>jachta</trd>,
+    <trd>plachetnica</trd>,
+    <trd>&ccaron;ln s plachtou</trd>
+  </trdgrp>
 </drv>
 
 </art>
 <!--
 $Log: boat.xml,v $
+Revision 1.19  2015/10/06 02:10:29  revo
+Evandro Avellar: +trd pt
+
+Revision 1.18  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2015/06/06 08:10:17  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.15  2014/07/09 20:10:24  revo
 Jeromo Vasxe: + platfunda ~o, fak shi
 
@@ -233,17 +261,5 @@ Revision 1.13  2009/06/29 18:07:07  revo
 Jeromo Vasxe: + gum~o
 
 Revision 1.12  2009/03/19 18:17:22  revo
-Wieland Pusch: +trd bg
-
-Revision 1.11  2009/03/18 17:32:13  revo
-Sebastian Cyprych: +vel~o +trd pl
-
-Revision 1.10  2007/03/12 17:30:14  revo
-Wieland Pusch: +trd de
-
-Revision 1.9  2006/01/25 17:31:05  revo
-Jeromo Vasxe: + motor~o pedal~o sav~o, ~o reverkis dif
-
-Revision 1.8 2003/07/15 16:31:32 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kokain.xml,v 1.13 2013/10/09 19:11:16 revo Exp $">
+<art mrk="$Id: kokain.xml,v 1.16 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>kokain</rad>/o
 </kap>
@@ -21,14 +21,17 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_k;&c_a;&c_ib;&c_n;</trd>
   <trd lng="ca">coca&iuml;na</trd>
+  <trd lng="cs">kokain</trd>
   <trd lng="de">Kokain</trd>
-  <trd lng="hu">kokain</trd>
   <trdgrp lng="fr">
     <trd>coca&iuml;ne</trd>,
     <trd>coco<klr tip="ind"> (coca&iuml;ne)</klr></trd>
   </trdgrp>
+  <trd lng="hu">kokain</trd>
+  <trd lng="id">kokaina</trd>
   <trd lng="nl">coca&iuml;ne</trd>
   <trd lng="ru">&c_k;&c_o;&c_k;&c_a;&c_i;&c_n;</trd>
+  <trd lng="sk">kokaín</trd>
 </drv>
 
 <drv mrk="kokain.0ismo">
@@ -43,17 +46,32 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_k;&c_a;&c_ib;&c_n;&c_ib;&c_z;&c_m;</trd>
   <trd lng="ca">coca&iuml;nisme</trd>
-  <trd lng="hu">kokainizmus</trd>
+  <trdgrp lng="cs">
+    <trd>kokainizmus</trd>,
+    <trd>závislost na kokainu</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>coca&iuml;nisme</trd>,
     <trd>coca&iuml;sme</trd>
   </trdgrp>
+  <trd lng="hu">kokainizmus</trd>
+  <trd lng="id">kokainisme</trd>
   <trd lng="nl">coca&iuml;nisme</trd>
   <trd lng="ru">&c_k;&c_o;&c_k;&c_a;&c_i;&c_n;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">závislosť na kokaíne</trd>
 </drv>
 </art>
 <!--
 $Log: kokain.xml,v $
+Revision 1.16  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2014/11/18 20:10:36  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.13  2013/10/09 19:11:16  revo
 Wolfram Diestel: ref al lst malsanoj
 
@@ -73,8 +91,5 @@ Revision 1.8 2002/11/17 18:26:49 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.7 2002/03/07 18:09:43 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.6 2001/11/01 19:11:36 revo
 -->
 </vortaro>

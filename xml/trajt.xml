@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trajt.xml,v 1.18 2010/06/25 17:26:08 revo Exp $">
+<art mrk="$Id: trajt.xml,v 1.20 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>trajt</rad>/o <fnt><bib>PV</bib></fnt>
@@ -109,12 +109,16 @@
     &c_a;&c_s;&c_a;&c_b;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;
     </trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>rys obličeje</trd>,
+    <trd>rys povahy</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>trait</trd>,
     <trd>feature</trd>
   </trdgrp>
   <trd lng="es">rasgo</trd>
-  <trd lng="fr">trait<klr> (du visage, de caract&egrave;re...)</klr></trd>    
+  <trd lng="fr">trait<klr> (du visage, de caract&egrave;re...)</klr></trd>
   <trdgrp lng="pl">
     <trd>w&lstroke;a&sacute;ciwo&sacute;&cacute;</trd>,
     <trd>cecha</trd>,
@@ -124,10 +128,21 @@
   (&c_l;&c_i;&c_c;&c_a;, 
   &c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_je;&c_r;&c_a; &c_i; &c_t;.&c_p;.)
   </klr></trd>
+  <trdgrp lng="sk">
+    <trd>charakteristická vlastnosť</trd>,
+    <trd>znak</trd>,
+    <trd>črta <klr>(na tvári)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: trajt.xml,v $
+Revision 1.20  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2010/06/25 17:26:08  revo
 Jeromo Vasxe: kor 1 ref
 

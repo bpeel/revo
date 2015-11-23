@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nombr.xml,v 1.65 2014/10/03 11:10:26 revo Exp $">
+<art mrk="$Id: nombr.xml,v 1.67 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nombr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -91,8 +91,12 @@
       <trd>Zahlform</trd>
     </trdgrp>
     <trd lng="nl">getal</trd>
-  </snc>                      
+  </snc>
   <trd lng="br">niver</trd>
+  <trdgrp lng="cs">
+    <trd>množství</trd>,
+    <trd>počet</trd>
+  </trdgrp>
   <trd lng="en">number</trd>
   <trdgrp lng="es">
     <trd>n&uacute;mero</trd>,
@@ -105,6 +109,10 @@
     <trd>quantidade</trd>
   </trdgrp>
   <trd lng="ru">&c_ch;&c_i;&c_s;&c_l;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>množstvo</trd>,
+    <trd>počet</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nombr.0a">
@@ -197,6 +205,12 @@
     <trd>&c_l;&c_ib;&c_k;&c_a;&c_v;&c_y;</trd>,
     <trd>&c_k;&c_o;&c_l;&c_mol;&c_k;&c_a;&c_s;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>numerický</trd>,
+    <trd>početný</trd>,
+    <trd>číselný</trd>
+  </trdgrp>
+  <trd lng="sk">početný</trd>
 </drv>
 
 <drv mrk="nombr.0i">
@@ -259,11 +273,22 @@
     <trd
       lng="ru">&c_n;&c_a;&c_s;&c_ch;&c_i;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>odpočítávat</trd>,
+    <trd>počítat</trd>,
+    <trd>čítat <klr>(obsahovat počet)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>compter</trd>,
     <trd>d&eacute;nombrer</trd>
   </trdgrp>
   <trd lng="nl">tellen</trd>
+  <trdgrp lng="sk">
+    <trd>narátať</trd>,
+    <trd>vymenovať</trd>,
+    <trd>vypočítať</trd>,
+    <trd>vyčísliť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nombr.0ebla">
@@ -307,8 +332,16 @@
       <trd>&c_d;&c_i;&c_s;&c_k;&c_r;&c_je;&c_t;&c_n;&c_y;&c_j;</trd>,
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>počitatelný</trd>,
+    <trd>spočetný</trd>
+  </trdgrp>
   <trd lng="nl">telbaar</trd>
   <trd lng="pt">enumer&aacute;vel</trd>
+  <trdgrp lng="sk">
+    <trd>počítateľný</trd>,
+    <trd>spočítateľný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nombr.0ilo">
@@ -352,6 +385,15 @@
   <trd lng="fr">compteur</trd>
   <trd lng="pt">contador</trd>
   <trd lng="ru">&c_s;&c_ch;&c_jo;&c_t;&c_ch;&c_i;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>počítadlo</trd>,
+    <trd>čítač</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>počítadlo <klr>(např. otáček)</klr></trd>,
+    <trd>střadač</trd>,
+    <trd>čítač</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nombr.0isto">
@@ -410,6 +452,14 @@
         <lok>Ne&gcirc;a Re&gcirc;ino</lok></fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>díl z množství</trd>,
+    <trd>zlomek</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>zlomok</trd>,
+    <trd>časť z množstva</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nombr.du0o">
@@ -450,8 +500,9 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_sh;&c_m;&c_a;&c_t;&c_l;&c_ib;&c_k;&c_ib;</trd> 
+  <trd lng="be">&c_sh;&c_m;&c_a;&c_t;&c_l;&c_ib;&c_k;&c_ib;</trd>
   <trd lng="br">niverus</trd>
+  <trd lng="cs">početný</trd>
   <trd lng="de">zahlreich</trd>
   <trd lng="es">numeroso</trd>
   <trd lng="fr">nombreux</trd>
@@ -462,6 +513,7 @@
   <trd lng="nl">talrijk</trd>
   <trd lng="pt">numeroso</trd>
   <trd lng="ru">&c_m;&c_n;&c_o;&c_g;&c_o;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">početný</trd>
 </drv>
 
 <drv mrk="nombr.mez0o">
@@ -556,8 +608,12 @@
       &ccirc;i-sence uzis nur <ctl>mezo</ctl>, kio en difinita kunteksto
       estas sufi&ccirc;e klara, sed ial ne enradiki&gcirc;is en la uzon.
     </rim>
-  </snc>    
+  </snc>
   <trd lng="br">keidenn</trd>
+  <trdgrp lng="cs">
+    <trd>průměr</trd>,
+    <trd>střední hodnota</trd>
+  </trdgrp>
   <trd lng="de">Mittel</trd>
   <trdgrp lng="en">
     <trd>average</trd>,
@@ -571,6 +627,10 @@
   <trd lng="pl">&sacute;rednia</trd>
   <trd lng="pt">m&eacute;dia</trd>
   <trd lng="ru">&c_s;&c_r;&c_je;&c_d;&c_n;&c_je;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>priemer</trd>,
+    <trd>priemerný počet</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nombr.mult0a">
@@ -589,9 +649,14 @@
       <fnt><bib>Lanti</bib>, <lok>Je la lumo de la
       sperto</lok></fnt>.
     </ekz>
-  </snc>                        
+  </snc>
   <trd lng="be">&c_sh;&c_m;&c_a;&c_t;&c_l;&c_ib;&c_k;&c_ib;</trd>
   <trd lng="br">niverus</trd>
+  <trdgrp lng="cs">
+    <trd>mnohočetný</trd>,
+    <trd>početný</trd>,
+    <trd>četný</trd>
+  </trdgrp>
   <trd lng="de">zahlreich</trd>
   <trd lng="es">numeroso</trd>
   <trd lng="fr">nombreux</trd>
@@ -602,6 +667,10 @@
   <trd lng="nl">talrijk</trd>
   <trd lng="pt">numeroso</trd>
   <trd lng="ru">&c_m;&c_n;&c_o;&c_g;&c_o;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>mnohopočetný</trd>,
+    <trd>početný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nombr.multe0o">
@@ -625,10 +694,13 @@
         <fnt><bib>LR</bib>, <lok>Respondo 18a</lok></fnt>.
       </ekz>
     </dif>
-  </snc>    
-  <trd lng="be">&c_m;&c_n;&c_o;&c_zh;&c_n;&c_y; <ind>&c_l;&c_ib;&c_k;</ind></trd>   
+  </snc>
+  <trd lng="be">&c_m;&c_n;&c_o;&c_zh;&c_n;&c_y; <ind>&c_l;&c_ib;&c_k;</ind></trd>
   <trd lng="br">liester</trd>
-  <trd lng="cs">&ccaron;&iacute;slo mno&zcaron;n&eacute;</trd>
+  <trdgrp lng="cs">
+    <trd>&ccaron;&iacute;slo mno&zcaron;n&eacute;</trd>,
+    <trd>množné číslo</trd>
+  </trdgrp>
   <trd lng="es">plural</trd>
   <trd lng="fr">pluriel</trd>
   <trdgrp lng="hu">
@@ -638,6 +710,7 @@
   <trd lng="nl">meervoud</trd>
   <trd lng="pl">liczba mnoga</trd>
   <trd lng="ru">&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je; &c_ch;&c_i;&c_s;&c_l;&c_o;</trd>
+  <trd lng="sk">množné číslo</trd>
   <trdgrp lng="tr">
     <trd>cem</trd>, <trd>&ccedil;o&gbreve;ul</trd>
   </trdgrp>
@@ -714,15 +787,19 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_a;&c_d;&c_z;&c_ib;&c_n;&c_o;&c_ch;&c_n;&c_y; <ind>&c_l;&c_ib;&c_k;</ind></trd>    
+  <trd lng="be">&c_a;&c_d;&c_z;&c_ib;&c_n;&c_o;&c_ch;&c_n;&c_y; <ind>&c_l;&c_ib;&c_k;</ind></trd>
   <trd lng="br">unander</trd>
-  <trd lng="cs">&ccaron;&iacute;slo jednotn&eacute;</trd>
+  <trdgrp lng="cs">
+    <trd>&ccaron;&iacute;slo jednotn&eacute;</trd>,
+    <trd>jednotné číslo</trd>
+  </trdgrp>
   <trd lng="es">singular</trd>
   <trd lng="fr">singulier</trd>
   <trd lng="hu">egyes sz&aacute;m</trd>
   <trd lng="nl">enkelvoud</trd>
   <trd lng="pl">liczba pojedyncza</trd>
   <trd lng="ru">&c_je;&c_d;&c_i;&c_n;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je; &c_ch;&c_i;&c_s;&c_l;&c_o;</trd>
+  <trd lng="sk">jednotné číslo</trd>
   <trd lng="tr">tek</trd>
 </drv>
 
@@ -775,12 +852,16 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="cs">s&ccaron;&iacute;t&aacute;n&iacute; lidu</trd>
+  <trdgrp lng="cs">
+    <trd>s&ccaron;&iacute;t&aacute;n&iacute; lidu</trd>,
+    <trd>sčítání lidu</trd>
+  </trdgrp>
   <trd lng="de">Volksz&auml;hlung</trd>
-  <trd lng="fr">recensement<klr> (de la population)</klr></trd>
   <trd lng="en">census</trd>
+  <trd lng="fr">recensement<klr> (de la population)</klr></trd>
   <trd lng="pl">spis statystyczny</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_p;&c_i;&c_s;&c_mol; &c_n;&c_a;&c_s;&c_je;&c_l;&c_je;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="sk">sčítanie ľudu</trd>
 </drv>
 
 <drv mrk="nombr.0onomo">
@@ -798,6 +879,8 @@
     <trd lng="hu">sz&aacute;mn&eacute;v</trd>
     <trd lng="ru">&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;</trd>
   </snc>
+  <trd lng="cs">číslovka</trd>
+  <trd lng="sk">číslovka</trd>
 </drv>
 
 <drv mrk="nombr.0osistemo">
@@ -855,10 +938,21 @@
     <trd lng="pl">system liczbowy</trd>
     <trd lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a; &c_s;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_i;&c_ja;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>číselná soustava</trd>,
+    <trd>číselný systém</trd>
+  </trdgrp>
+  <trd lng="sk">číselná sústava</trd>
 </drv>
 </art>
 <!--
 $Log: nombr.xml,v $
+Revision 1.67  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.66  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.65  2014/10/03 11:10:26  revo
 Guillermo Molleda Jimena: trd es
 

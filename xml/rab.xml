@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: rab.xml,v 1.27 2014/10/09 11:10:33 revo Exp $">
+<art mrk="$Id: rab.xml,v 1.29 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rab</rad>/i <fnt><bib>PV</bib></fnt>
@@ -59,19 +59,24 @@
     <trd>furtar</trd>,
     <trd>prendre</trd>
   </trdgrp>
-  <trd lng="cs">loupit</trd>
+  <trdgrp lng="cs">
+    <trd>drancovat</trd>,
+    <trd>loupit</trd>,
+    <trd>olupovat</trd>,
+    <trd>rabovat</trd>
+  </trdgrp>
   <trd lng="de">rauben</trd>
   <trd lng="en">rob</trd>
   <trdgrp lng="es">
     <trd>atracar</trd>,
     <trd>robar</trd>
   </trdgrp>
+  <trd lng="fr">voler<klr> (d&eacute;rober)</klr></trd>
   <trd lng="hu">rabol</trd>
   <trdgrp lng="nl">
     <trd>roven</trd>,
     <trd>plunderen</trd>
   </trdgrp>
-  <trd lng="fr">voler<klr> (d&eacute;rober)</klr></trd>
   <trdgrp lng="pt">
     <trd>roubar</trd>
   </trdgrp>
@@ -80,6 +85,11 @@
     <trd>&c_o;&c_g;&c_r;&c_a;&c_b;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_h;&c_i;&c_shch;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_h;&c_i;&c_t;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>lúpiť</trd>,
+    <trd>plieniť</trd>,
+    <trd>rabovať</trd>
   </trdgrp>
   <trdgrp lng="sv">
     <trd>r&ouml;va</trd>,
@@ -126,6 +136,7 @@
     <trd>lladronera</trd>,
     <trd>amagatall</trd>
   </trdgrp>
+  <trd lng="cs">peleš lupičů</trd>
   <trd lng="de">R&auml;uberh&ouml;hle</trd>
   <trd lng="fr">repaire<klr> (de brigands)</klr></trd>
   <trd lng="hu">rabl&oacute;barlang</trd>
@@ -135,6 +146,7 @@
     <trd>&c_r;&c_a;&c_z;&c_b;&c_o;&c_j;&c_n;&c_i;&c_ch;&c_i;&c_j; &c_p;&c_r;&c_i;&c_t;&c_o;&c_n;</trd>,
     <trd>&c_l;&c_o;&c_g;&c_o;&c_v;&c_o; &c_r;&c_a;&c_z;&c_b;&c_o;&c_j;&c_n;&c_i;&c_k;&c_o;&c_v;</trd>
   </trdgrp>
+  <trd lng="sk">pelech lupičov</trd>
   <trd lng="sv">r&ouml;varh&aring;la</trd>
 </drv>
 
@@ -158,6 +170,11 @@
     <trd>&c_g;&c_r;&c_a;&c_b;&c_je;&c_zh;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
   <trd lng="ca">lladre</trd>
+  <trdgrp lng="cs">
+    <trd>loupežník</trd>,
+    <trd>lupič</trd>,
+    <trd>raubíř</trd>
+  </trdgrp>
   <trd lng="de">R&auml;uber</trd>
   <trdgrp lng="es">
     <trd>atracador</trd>,
@@ -175,6 +192,10 @@
   <trdgrp lng="ru">
     <trd>&c_g;&c_r;&c_a;&c_b;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_b;&c_o;&c_j;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>lúpežník</trd>,
+    <trd>zbojník</trd>
   </trdgrp>
   <trdgrp lng="sv">
     <trd>r&ouml;vare</trd>,
@@ -198,6 +219,7 @@
   </snc>
   <trd lng="be">&c_a;&c_b;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">robar</trd>
+  <trd lng="cs">vyloupit</trd>
   <trd lng="de">berauben</trd>
   <trd lng="es">robar</trd>
   <trdgrp lng="fr">
@@ -212,6 +234,10 @@
     <trd>espoliar</trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_g;&c_r;&c_a;&c_b;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>olúpiť</trd>,
+    <trd>orabovať</trd>
+  </trdgrp>
   <trd lng="sv">r&aring;na</trd>
 </drv>
 
@@ -233,14 +259,25 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">okrádající o čas <klr>(adj.)</klr></trd>
   <trdgrp lng="fr">
     <trd>qui prend du temps</trd>,
     <trd>sans fin<klr> (tr&egrave;s long)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>uberajúci čas</trd>,
+    <trd>zdĺhavý</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: rab.xml,v $
+Revision 1.29  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.27  2014/10/09 11:10:33  revo
 Carlos Garcia: +trd es -i -ist
 

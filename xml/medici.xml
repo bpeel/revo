@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: medici.xml,v 1.20 2013/08/26 09:10:31 revo Exp $">
+<art mrk="$Id: medici.xml,v 1.23 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>medicin</rad>/o
@@ -30,6 +30,10 @@
     <trd>mezegiezh</trd>
   </trdgrp>
   <trd lng="ca">medicina</trd>
+  <trdgrp lng="cs">
+    <trd>lékařství</trd>,
+    <trd>medicína</trd>
+  </trdgrp>
   <trd lng="de">Medizin</trd>
   <trd lng="en">medicine</trd>
   <trdgrp lng="fr">
@@ -40,9 +44,11 @@
     <trd>gy&oacute;gy&aacute;szat</trd>,
     <trd>medic&iacute;na</trd>
   </trdgrp>
+  <trd lng="id">[<ind>dokter</ind>] kedokteran</trd>
   <trd lng="nl">geneeskunde</trd>
   <trd lng="pt">medicina</trd>
   <trd lng="ru">&c_m;&c_je;&c_d;&c_i;&c_c;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sk">lekárska veda</trd>
 </drv>
 
 <drv mrk="medici.0a">
@@ -62,9 +68,14 @@
   <trdgrp lng="br">
     <trd>medisinel</trd>,
     <trd>mezegel</trd>
-  </trdgrp><trdgrp lng="ca">
+  </trdgrp>
+  <trdgrp lng="ca">
     <trd>m&egrave;dic</trd>,
     <trd>medicinal</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>medicínský</trd>,
+    <trd>zdravotní</trd>
   </trdgrp>
   <trd lng="de">medizinisch</trd>
   <trd lng="en">medical</trd>
@@ -73,8 +84,13 @@
     <trd>orvostani</trd>,
     <trd>gy&oacute;gy&aacute;szati</trd>
   </trdgrp>
+  <trd lng="id">medis</trd>
   <trd lng="nl">geneeskundig</trd>
   <trd lng="ru">&c_m;&c_je;&c_d;&c_i;&c_c;&c_i;&c_n;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>medicínsky</trd>,
+    <trd>zdravotný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="medici.0ajxo">
@@ -109,6 +125,7 @@
     <trd>gy&oacute;gyszer</trd>,
     <trd>medic&iacute;na</trd>
   </trdgrp>
+  <trd lng="id">obat</trd>
   <trdgrp lng="nl">
     <trd>geneesmiddel</trd>,
     <trd>medicijn</trd>
@@ -142,6 +159,7 @@
     <trd>mezeg</trd>
   </trdgrp>
   <trd lng="ca">metge</trd>
+  <trd lng="cs">lékař</trd>
   <trdgrp lng="fr">
     <trd>docteur<klr> (m&eacute;decin)</klr></trd>,
     <trd>m&eacute;decin</trd>
@@ -150,15 +168,26 @@
     <trd>orvos</trd>,
     <trd>gy&oacute;gy&aacute;sz</trd>
   </trdgrp>
+  <trd lng="id">medik</trd>
   <trdgrp lng="nl">
     <trd>arts</trd>,
     <trd>dokter</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_je;&c_d;&c_i;&c_k;</trd>
+  <trd lng="sk">lekár</trd>
 </drv>
 </art>
 <!--
 $Log: medici.xml,v $
+Revision 1.23  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/11/12 08:10:42  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.20  2013/08/26 09:10:31  revo
 Wolfram Diestel: referenco al listo sciencoj
 
@@ -178,8 +207,5 @@ Revision 1.15  2005/08/29 16:32:38  revo
 Yury Finkel: +trd ru
 
 Revision 1.14  2005/08/25 16:33:09  revo
-Jeromo Vasxe: + mrk, + 1 tld
-
-Revision 1.13 2005/07/08 16:33:21 revo
 -->
 </vortaro>

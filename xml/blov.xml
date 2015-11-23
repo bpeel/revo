@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: blov.xml,v 1.24 2009/03/18 17:32:08 revo Exp $">
+<art mrk="$Id: blov.xml,v 1.27 2015/10/06 02:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>blov</rad>/i
@@ -75,7 +75,13 @@
     <trd>&c_n;&c_a;&c_d;&c_z;&c_ib;&c_m;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="br">c'hwezha&ntilde;</trd>
-  <trd lng="cs">vanout</trd>
+  <trdgrp lng="cs">
+    <trd>fouknout</trd>,
+    <trd>vanout</trd>,
+    <trd>zafoukat</trd>,
+    <trd>zavanout</trd>,
+    <trd>za&ccaron;&iacute;t foukat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>blasen</trd>,
     <trd>wehen</trd>,
@@ -84,11 +90,16 @@
   <trd lng="en">blow</trd>
   <trd lng="es">soplar</trd>
   <trd lng="fr">souffler</trd>
-  <trd lng="hu">f&uacute;j</trd>  
+  <trd lng="hu">f&uacute;j</trd>
+  <trd lng="pt">soprar</trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_u;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_a;&c_d;&c_u;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_d;&c_u;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pref&uacute;ka&tcaron; <klr>(r&uacute;ru)</klr></trd>,
+    <trd>tiahnu&tcaron; (o prievane)</trd>
   </trdgrp>
 </drv>
 
@@ -108,6 +119,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>proud vzduchu</trd>,
+    <trd>z&aacute;van</trd>
+  </trdgrp>
   <trd lng="fr">souffle</trd>
   <trdgrp lng="hu">
     <trd>f&uacute;j&aacute;s</trd>,
@@ -120,6 +135,7 @@
     <trd>tchnienie</trd>
   </trdgrp>
   <trd lng="ru">&c_d;&c_u;&c_n;&c_o;&c_v;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">z&aacute;van</trd>
 </drv>
 
 <drv mrk="blov.0ado">
@@ -154,12 +170,20 @@
     <trd>&c_p;&c_o;&c_d;&c_y;&c_h;</trd>,
     <trd>&c_p;&c_a;&c_v;&c_je;&c_w;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>fouk&aacute;n&iacute;</trd>,
+    <trd>vanut&iacute;</trd>
+  </trdgrp>
   <trd lng="fr">souffle</trd>
-  <trd lng="hu">f&uacute;v&aacute;s</trd>  
+  <trd lng="hu">f&uacute;v&aacute;s</trd>
   <trdgrp lng="pl">
     <trd>wicher</trd>
   </trdgrp>
   <trd lng="ru">&c_d;&c_u;&c_n;&c_o;&c_v;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>f&uacute;kanie</trd>,
+    <trd>vanutie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="blov.0ajxo">
@@ -224,12 +248,14 @@
     <trd>megin</trd>,
     <trd>c'hwezherez</trd>
   </trdgrp>
+  <trd lng="cs">m&ecaron;ch <klr>(varhan)</klr></trd>
   <trd lng="de">Blasebalg</trd>
-  <trd lng="hu">f&uacute;jtat&oacute;</trd>  
   <trd lng="fr">soufflet<klr tip="ind"> (instrument)</klr></trd>
+  <trd lng="hu">f&uacute;jtat&oacute;</trd>
   <trd lng="pl">dmuchawa</trd>
   <trd lng="ru">&c_m;&c_je;&c_h;&c_i; <klr
   tip="amb">(&c_i;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
+  <trd lng="sk">f&uacute;ka&ccaron; <klr>(n&aacute;stroj)</klr></trd>
 </drv>
 
 <drv mrk="blov.cxirkaux0i">
@@ -272,6 +298,7 @@
   </snc>
   <trd
   lng="be">&c_r;&c_a;&c_z;&c_mol;&c_v;&c_je;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="cs">rozfoukat <klr>(od sebe)</klr></trd>
   <trdgrp lng="de">
     <trd>wegblasen</trd>,
     <trd>verwehen</trd>
@@ -280,12 +307,13 @@
     <trd>souffler <klr tip="ind">(disperser en soufflant)</klr></trd>,
     <trd>dissiper <klr tip="ind">(fig.)</klr></trd>
   </trdgrp>
-  <trd lng="hu">sz&eacute;tf&uacute;j</trd>  
+  <trd lng="hu">sz&eacute;tf&uacute;j</trd>
   <trdgrp lng="pl">
     <trd>rozwiewa&cacute;</trd>,
     <trd>rozdmuchiwa&cacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_a;&c_z;&c_v;&c_je;&c_ja;&c_t;&c_mol;</trd>
+  <trd lng="sk">rozf&uacute;ka&tcaron;</trd>
 </drv>
 
 <drv mrk="blov.for0i">
@@ -305,6 +333,11 @@
   </snc>
   <trd
   lng="be">&c_r;&c_a;&c_z;&c_mol;&c_v;&c_je;&c_ja;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>odfouknout</trd>,
+    <trd>odv&aacute;ti</trd>,
+    <trd>sv&aacute;t</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>wegblasen</trd>,
     <trd>verwehen</trd>
@@ -312,12 +345,16 @@
   <trdgrp lng="fr">
     <trd>souffler <klr tip="ind">(enlever en soufflant)</klr></trd>
   </trdgrp>
-  <trd lng="hu">elf&uacute;j</trd>  
+  <trd lng="hu">elf&uacute;j</trd>
   <trdgrp lng="pl">
     <trd>wydmuchiwa&cacute;</trd>,
     <trd>wywiewa&cacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_a;&c_z;&c_v;&c_je;&c_ja;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>odf&uacute;knu&tcaron;</trd>,
+    <trd>odvia&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="blov.tra0o">
@@ -334,16 +371,21 @@
   </snc>
   <trd lng="be">&c_s;&c_k;&c_r;&c_a;&c_z;&c_mol;&c_n;&c_ja;&c_k;</trd>
   <trd lng="br">avel-sil</trd>
+  <trdgrp lng="cs">
+    <trd>pr&uring;van</trd>,
+    <trd>tah</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Zug</trd>, <trd>Durchzug</trd>
   </trdgrp>
   <trd lng="fr">courant d'air</trd>
-  <trd lng="hu">huzat</trd>  
+  <trd lng="hu">huzat</trd>
   <trdgrp lng="pl">
     <trd>przeci&aogonek;g</trd>,
     <trd>przewiew</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_k;&c_v;&c_o;&c_z;&c_n;&c_ja;&c_k;</trd>
+  <trd lng="sk">prievan</trd>
 </drv>
 
 <drv mrk="blov.plen0i">
@@ -375,11 +417,16 @@
     <trd>&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ib;&c_m;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="br">c'hweza&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>nafouknout</trd>,
+    <trd>nafukovat</trd>,
+    <trd>plnit vzduchem</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>aufblasen</trd>, <trd>aufpusten</trd>
   </trdgrp>
   <trd lng="fr">gonfler <klr tip="ind">(tr.)</klr></trd>
-  <trd lng="hu">felf&uacute;j</trd>  
+  <trd lng="hu">felf&uacute;j</trd>
   <trdgrp lng="pl">
     <trd>nadmuchiwa&cacute;</trd>,
     <trd>nadyma&cacute;</trd>,
@@ -390,6 +437,10 @@
     <trd>&c_n;&c_a;&c_d;&c_u;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_d;&c_u;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_d;&c_u;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>naf&uacute;knu&tcaron;</trd>,
+    <trd>plni&tcaron; vzduchom</trd>
   </trdgrp>
 </drv>
 
@@ -408,6 +459,7 @@
     </dif>
   </snc>
   <trd lng="br">dianali&ntilde;</trd>
+  <trd lng="cs">dm&yacute;chat</trd>
   <trd lng="de">pusten</trd>
   <trd lng="fr">expirer <klr tip="ind">(l'air des poumons)</klr></trd>
   <trdgrp lng="hu">
@@ -431,6 +483,7 @@
     <ind>&c_d;&c_y;&c_sh;&c_a;&c_t;&c_mol;</ind></trd>,
     <trd>&c_p;&c_y;&c_h;&c_t;&c_je;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">d&uacute;cha&tcaron;</trd>
 </drv>
 
 <drv mrk="blov.0eksciti">
@@ -445,9 +498,14 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="br">c'hwezha&ntilde;<klr tip="ind"> (an tan)</klr></trd>
   <trd
   lng="be">&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ib;&c_m;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">c'hwezha&ntilde;<klr tip="ind"> (an tan)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>rozdm&yacute;chat</trd>,
+    <trd>rozfoukat</trd>,
+    <trd>vzru&scaron;ovat fouk&aacute;n&iacute;m</trd>
+  </trdgrp>
   <trd lng="de">anfachen</trd>
   <trd lng="fr">attiser</trd>
   <trdgrp lng="hu">
@@ -461,6 +519,10 @@
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_z;&c_d;&c_u;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_d;&c_u;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozf&uacute;ka&tcaron;</trd>,
+    <trd>vzru&scaron;ova&tcaron; f&uacute;kan&iacute;m</trd>
   </trdgrp>
 </drv>
 
@@ -500,6 +562,15 @@
 </art>
 <!--
 $Log: blov.xml,v $
+Revision 1.27  2015/10/06 02:10:26  revo
+Evandro Avellar: +trd pt
+
+Revision 1.26  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2009/03/18 17:32:08  revo
 Sebastian Cyprych: +trd pl
 
@@ -513,15 +584,6 @@ Revision 1.21  2005/03/19 17:32:23  revo
 Marc Bavant: belarangho
 
 Revision 1.20 2005/02/25 17:34:31 revo
-Alan ar Gall: +trd br
-Revision 1.19 2004/11/07 17:32:49 revo
-Jeromo Vasxe: disig. ~o/ado dis/for~i, + unu ofc *, + kk ekz
-Revision 1.18 2004/08/29 16:32:25 revo
-Marc Bavant: cxirkaux~i: mod dif
-Revision 1.17 2004/08/23 16:32:05 revo
-Marc Bavant: +drv cxirkaux~i
-Revision 1.16 2004/07/14 16:31:30 revo
-Dmitri Gabinski: +trd be
 -->
 
 </vortaro>

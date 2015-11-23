@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skal.xml,v 1.19 2011/07/13 19:11:12 revo Exp $">
+<art mrk="$Id: skal.xml,v 1.21 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>skal</rad>/o <fnt><bib>PV</bib></fnt>
@@ -116,9 +116,18 @@
       tip="amb">(&c_m;&c_u;&c_z;.)</klr></trd>
     </subsnc>
   </snc>
+  <trdgrp lng="cs">
+    <trd>měřítko mapy</trd>,
+    <trd>stupnice přístroje</trd>
+  </trdgrp>
   <trd lng="en">scale</trd>
   <trd lng="es">escala</trd>
   <trd lng="nl">schaal</trd>
+  <trdgrp lng="sk">
+    <trd>hlasový rozsah <klr>(hud.)</klr></trd>,
+    <trd>stupnica</trd>,
+    <trd>škála</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="skal.0i">
@@ -143,6 +152,14 @@
     <trd lng="fr">redimensionner</trd>
     <trd lng="pl">skalowa&cacute;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>měnit rozměr</trd>,
+    <trd>stanovit měřítko</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>meniť smer</trd>,
+    <trd>stanoviť merítko</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="skal.0ebla">
@@ -234,6 +251,7 @@
   </snc>
   <trd
   lng="be">&c_b;&c_u;&c_j;&c_n;&c_a;&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;&c_n;&c_y;</trd>
+  <trd lng="cs">ve velkém měřítku <klr>(adj.)</klr></trd>
   <trd lng="en">large scale</trd>
   <trdgrp lng="fr">
     <trd>ambitieux<klr> (&agrave; grande &eacute;chelle)</klr></trd>,
@@ -251,10 +269,20 @@
   </trdgrp>
   <trd
   lng="ru">&c_sh;&c_i;&c_r;&c_o;&c_k;&c_o;&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>veľkorysý</trd>,
+    <trd>veľkého stupňa</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: skal.xml,v $
+Revision 1.21  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2011/07/13 19:11:12  revo
 Sebastian Cyprych: +trd pl
 

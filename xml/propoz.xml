@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: propoz.xml,v 1.14 2013/04/09 13:10:08 revo Exp $">
+<art mrk="$Id: propoz.xml,v 1.16 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>propozici</rad>/o
@@ -94,10 +94,27 @@
     <trd lng="fr">proposition<klr tip="ind"> (math.)</klr></trd>
     <trd lng="hu">t&eacute;tel</trd>    
   </snc>
+  <trdgrp lng="cs">
+    <trd>tvrzení</trd>,
+    <trd>výrok</trd>,
+    <trd>významová stránka věty</trd>,
+    <trd>věta</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>tvrdenie</trd>,
+    <trd>veta</trd>,
+    <trd>výrok</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: propoz.xml,v $
+Revision 1.16  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2013/04/09 13:10:08  revo
 Sebastian Cyprych: +trd pl
 

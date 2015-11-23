@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: modal.xml,v 1.12 2006/08/07 16:32:05 revo Exp $">
+  <art mrk="$Id: modal.xml,v 1.14 2015/07/04 08:37:39 revo Exp $">
     <kap>
       <rad>modal</rad>/o
     </kap>
@@ -67,9 +67,11 @@
     <trd lng="hu">igealak</trd>	
 	<trd lng="ru">&c_f;&c_o;&c_r;&c_m;&c_a; &c_g;&c_l;&c_a;&c_g;&c_o;&c_l;&c_a;</trd>
       </snc>
-      <trd lng="nl">modaliteit</trd>
-      <trd lng="pt">modal</trd>
-    </drv>
+  <trd lng="cs">modalita</trd>
+  <trd lng="nl">modaliteit</trd>
+  <trd lng="pt">modal</trd>
+  <trd lng="sk">modalita</trd>
+</drv>
 
     <drv mrk="modal.0a">
       <kap><tld/>a</kap>
@@ -106,7 +108,15 @@
 	<trd lng="nl">modaal</trd>
 	<trd lng="ru">&c_m;&c_o;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
       </snc>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>modální</trd>,
+    <trd>podmíněný</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>modálny</trd>,
+    <trd>podmienený</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="modal.0alogiko">
       <kap><tld/>a logiko</kap>
@@ -214,6 +224,12 @@ la vorton
   </art>
   <!--
   $Log: modal.xml,v $
+  Revision 1.14  2015/07/04 08:37:39  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.13  2015/06/29 16:33:20  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.12  2006/08/07 16:32:05  revo
   Tulio Flores: +tr pt
 

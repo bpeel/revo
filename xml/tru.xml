@@ -2,65 +2,65 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tru.xml,v 1.37 2014/06/09 16:10:27 revo Exp $">
+<art mrk="$Id: tru.xml,v 1.41 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tru</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="tru.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <snc mrk="tru.0o.malplenajxo">
+  <snc mrk="tru.0o.brecxo">
     <dif>
-      Malplena&jcirc;o, kavo en io:
-      <ekz>
-        <tld/>o en la tero, en muro, en vesto;
-      </ekz>
-      <ekz>
-        bori <tld/>on en tabulo;
-      </ekz>
-      <ekz>
-        <tld/>o de kudrilo;
-      </ekz>
-      <ekz>
-        plenigi <tld/>on<fnt>B</fnt>;
-      </ekz>
-      <ekz>
-        &scirc;topi, fliki <tld/>on;
-      </ekz>
+      Trarompa&jcirc;o, trairebla malferma&jcirc;o
+      (<ref cel="apertu.0o">aperturo</ref>):
       <ekz>
         la flika&jcirc;o estas pli malbela ol la <tld/>o;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
+        &scirc;topi, fliki <tld/>on;
+      </ekz><ekz>
+        <tld/>o de kudrilo;
+      </ekz><ekz>
+        la koboldo rigardis tra la serura <tld/>o
+        <fnt><bib>Fab3</bib>,
+          <lok>Koboldo &ccirc;e la butikisto</lok></fnt>;
+      </ekz><ekz>
+        Tie ne ekzistis ia fenestra vitro, estis nur <tld/>o en la
+        muro <klr>kaj</klr> la suno venis simile al ora globo kaj
+        enrigardis tra la <tld/>o
+        <fnt>
+          <bib>Fab4</bib>,
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj
+          filinoj</lok>
+        </fnt>;
+      </ekz><ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        pri la &scirc;trumpa <tld/>o scias nur la &scirc;uo
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz><ekz>
         <uzo tip="stl">FRAZ</uzo>
         <ind>li havas <tld/>on en la manplato</ind>
         <klr>(estas tute mal&scirc;parema)</klr>
         <fnt><bib>PrV</bib></fnt>.
         <trdgrp lng="fr">
-          <trd>c'est un <ind>panier</ind> per&ccedil;&eacute;</trd>,
+          <trd>c'est un <ind>panier</ind> perc&eacute;</trd>,
           <trd>il a l'argent qui lui br&ucirc;le les <ind>doigts</ind></trd>,
           <trd>il a l'argent qui lui file entre les
-          <ind>doigts</ind></trd>,
+            <ind>doigts</ind></trd>,
           <trd>il a l'argent qui lui fond dans les
-          <ind>mains</ind></trd>,
+            <ind>mains</ind></trd>,
           <trd>il a un <ind>trou</ind> au fond de la poche<klr
-          tip="ind"> (&ecirc;tre d&eacute;pensier)</klr></trd>
+              tip="ind"> (&ecirc;tre d&eacute;pensier)</klr></trd>
         </trdgrp>
         <trd lng="it">aver le mani bucate</trd>
+        <trd lng="ru">&c_I;&c_v;&c_a;&c_n; &mdash; <ind>>&c_d;&c_y;&c_r;&c_ja;&c_v;&c_y;&c_j; &c_k;&c_a;&c_r;&c_m;&c_a;&c_n;</ind></trd>
       </ekz>
     </dif>
-    <adm>
-      La vorto "malplenajxo", kiu servas por difini "truo" kaj "kavo",
-      ne havas difinon en REVO.
-      <aut>MB</aut>
-    </adm>
     <refgrp tip="vid">
       <ref cel="apertu.0o">aperturo</ref>,
       <ref cel="brecx.0o">bre&ccirc;o</ref>,
       <ref cel="fend.0o">fendo</ref>,
-      <ref cel="kavern.0o">kaverno</ref>,
-      <ref cel="kav.0o">kavo</ref>,
-      <ref cel="luk.0o">luko</ref>,
       <ref cel="ferm">malferma&jcirc;o</ref>,
+      <ref cel="luk.0o">luko</ref>,
       <ref cel="por1.0o">poro</ref>
     </refgrp>
     <trdgrp lng="be">
@@ -71,21 +71,78 @@
     <trd lng="ca">forat</trd>
     <trdgrp lng="fr">
       <trd>trou</trd>,
-      <trd>cavit&eacute;</trd>,
-      <trd>chas</trd>,
-      <trd>creux</trd>,
-      <trd>trou&eacute;e</trd>,
       <trd>orifice</trd>
     </trdgrp>
     <trdgrp lng="pl">
       <trd>dziura</trd>,
-      <trd>otw&oacute;r</trd>,
-      <trd>luka</trd>
+      <trd>otw&oacute;r</trd>
     </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_d;&c_y;&c_r;&c_a;</trd>,
-      <trd>&c_d;&c_y;&c_r;&c_k;&c_a;</trd>,
       <trd>&c_o;&c_t;&c_v;&c_je;&c_r;&c_s;&c_t;&c_i;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="tru.0o.kavo">
+    <dif>
+    <ref tip="dif" cel="kav.0o">Kavo</ref>:
+    <ekz>
+      la knabo fosis per sia fingro <tld/>on en la tero, la
+      malgranda knabino enmetis tien la kernon, kaj amba&ubreve; kovris
+      &gcirc;in per tero
+      <fnt><bib>Fab3</bib>, <lok>Nokta &ccirc;apo de fra&ubreve;lo</lok></fnt>;
+    </ekz><ekz>
+      plenigi <tld/>on<fnt>B</fnt>.
+    </ekz>
+    </dif>
+    <adm>
+      La vorto "malplenajxo", kiu servas por difini "truo" kaj "kavo",
+      ne havas difinon en REVO.
+      <aut>MB</aut>
+    </adm>
+    <subsnc mrk="tru.0o.bestahejmo">
+      <dif>
+        Besta hejmo, kava&jcirc;o a&ubreve; tunelo fosita de besto en kiu &ccirc;i
+        tiu lo&gcirc;as:
+        <ekz>
+          li <klr>(la Fingreto-knabo)</klr> kuris momenton inter
+          la terbuloj <klr>(sur la plugokampo)</klr> kaj subite
+          englitis en musan <tld/>on, kiun li ser&ccirc;is
+          <fnt>
+            <aut>Fratoj Grimm, tr. Kabe</aut>: <vrk>Fingreto</vrk>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="en">
+        <trd>burrow</trd>, <trd>hole</trd>
+      </trdgrp>
+      <trd lng="ru">&c_n;&c_o;&c_r;&c_a;</trd>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="apertu.0o">aperturo</ref>,
+      <ref cel="kavern.0o">kaverno</ref>,
+      <ref cel="kav.0o">kavo</ref>,
+      <ref cel="ferm">malferma&jcirc;o</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_z;&c_ib;&c_r;&c_a;</trd>,
+      <trd>&c_d;&c_z;&c_ju;&c_r;&c_a;</trd>,
+      <trd>&c_a;&c_d;&c_t;&c_u;&c_l;&c_ib;&c_n;&c_a;</trd>
+    </trdgrp>
+    <trd lng="ca">forat</trd>
+    <trdgrp lng="fr">
+      <trd>trou</trd>,
+      <trd>cavit&eacute;</trd>,
+      <trd>creux</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>dziura</trd>,
+      <trd>luka</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_ja;&c_m;&c_a;</trd>,
+      <trd>&c_l;&c_u;&c_n;&c_k;&c_a;</trd>,
+      <trd>&c_u;&c_g;&c_l;&c_u;&c_b;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_v;&c_y;&c_b;&c_o;&c_i;&c_n;&c_a;</trd>
     </trdgrp>
   </snc>
   <snc mrk="tru.0o.manko">
@@ -122,7 +179,10 @@
       <klr tip="amb">(&c_v; &c_ch;&c_jo;&c_m;-&c_l;.)</klr></trd>
     </trdgrp>
   </snc>
-  <trd lng="cs">d&iacute;ra</trd>
+  <trdgrp lng="cs">
+    <trd>d&iacute;ra</trd>,
+    <trd>otvor</trd>
+  </trdgrp>
   <trd lng="de">Loch</trd>
   <trd lng="en">hole</trd>
   <trd lng="he">&het;&vav;&resh;</trd>
@@ -141,6 +201,7 @@
     <trd>furo</trd>,
     <trd>buraco</trd>
   </trdgrp>
+  <trd lng="sk">diera</trd>
   <trd lng="tp">lupa</trd>
   <trd lng="vo">hog</trd>
 </drv>
@@ -151,7 +212,7 @@
     <dif>
       <tld lit="T"/>ita, <tld/>plena:
       <ekz>
-        envolvita en <tld/>a tuko.
+        envolvita en <tld/>an tukon.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -167,6 +228,11 @@
     <trd>&c_d;&c_z;&c_ib;&c_r;&c_k;&c_a;&c_v;&c_a;&c_t;&c_y;</trd>
   </trdgrp>
   <trd lng="ca">foradat</trd>
+  <trdgrp lng="cs">
+    <trd>děravý</trd>,
+    <trd>děrovaný</trd>,
+    <trd>proděravělý</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>l&ouml;cherig</trd>,
     <trd>verl&ouml;chert</trd>
@@ -185,6 +251,7 @@
   </trdgrp>
   <trd lng="pt">esburacado</trd>
   <trd lng="ru">&c_d;&c_y;&c_r;&c_ja;&c_v;&c_y;&c_j;</trd>
+  <trd lng="sk">prederavený</trd>
   <trd lng="vo">hogik</trd>
 </drv>
 
@@ -206,6 +273,10 @@
   <trdgrp lng="ca">
     <trd>foradar</trd>,
     <trd>perforar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dírkovat</trd>,
+    <trd>děrovat</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>l&ouml;chern</trd>,
@@ -238,6 +309,7 @@
     <trd>&c_p;&c_r;&c_o;&c_d;&c_y;&c_r;&c_ja;&c_v;&c_i;&c_t;&c_mol;
     </trd>
   </trdgrp>
+  <trd lng="sk">byť deravý</trd>
   <trd lng="vo">hog&ouml;n</trd>
 </drv>
 
@@ -262,6 +334,7 @@
       <ref cel="bor.0i">bori</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">udělat díru</trd>
   <trdgrp lng="fr">
     <trd>percer</trd>,
     <trd>perforer</trd>
@@ -276,6 +349,7 @@
     <trd>przedziurawia&cacute;</trd>,
     <trd>perforowa&cacute;</trd>
   </trdgrp>
+  <trd lng="sk">urobiť dieru</trd>
 </drv>
 
 <drv mrk="tru.babil0o">
@@ -316,6 +390,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">knoflíková dírka</trd>
   <trd lng="fr">boutonni&egrave;re</trd>
   <trd lng="id"><ind>lubang</ind> kancing</trd>
   <trd lng="it">asola</trd>
@@ -324,6 +399,7 @@
     <trd>butonierka <klr>(najwy&zdot;sza dziurka w klapie
     marynarki)</klr></trd>
   </trdgrp>
+  <trd lng="sk">gombíková dierka</trd>
 </drv>
 
 <drv mrk="tru.ink0o">
@@ -362,22 +438,32 @@
 
 <drv mrk="tru.mus0o">
   <kap>mus<tld/>o</kap>
-  <snc>
+  <snc mrk="tru.mus0o.pasejo">
     <dif>
-      Malgranda <tld/>o, en kiu lo&gcirc;as muso:
+      <ref tip="super" cel="tru.0o.brecxo"><tld
+      lit="T"/>o<sncref/></ref>
+      (pasejo) en planko, muro ktp, tra kiu muso penetras en &ccirc;ambron,
+      grenejon ktp:
       <ekz>
         <ctl>Sed kiamaniere mi povos trapu&scirc;i min tra la malgranda
         mus<tld/>o en la planko?</ctl> demandis Hjalmar
         <fnt><bib>Fab2</bib>, <lok>Dio de dormo</lok></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         Sinjoro paro&hcirc;estro, sub la katedro estas mus<tld/>o, kaj dum vi
-        parolas,
-        ofte eliras muso, kaj kaprioletas anta&ubreve; viaj piedoj
-        <fnt><aut>L. Beaucaire</aut>, <vrk>Kruko kaj Baniko el
-        Bervalo</vrk></fnt>.
+        parolas, ofte eliras muso, kaj kaprioletas anta&ubreve; viaj piedoj
+        <fnt><aut>L. Beaucaire</aut>,
+           <vrk>Kruko kaj Baniko el Bervalo</vrk></fnt>.
       </ekz>
     </dif>
+    <trd lng="ru">&c_m;&c_y;&c_sh;&c_i;&c_n;&c_a;&c_ja; &c_d;&c_y;&c_r;&c_a;</trd>
+  </snc>
+  <snc mrk="tru.mus0o.tunelo">
+    <dif>
+      <ref tip="super" cel="tru.0o.bestahejmo"><tld
+      lit="T"/>o<sncref/></ref>,
+      en kiu lo&gcirc;as kampa muso.
+    </dif>
+    <trd lng="ru">&c_m;&c_y;&c_sh;&c_i;&c_n;&c_a;&c_ja; &c_n;&c_o;&c_r;&c_a;</trd>
   </snc>
   <trdgrp lng="fr">
     <trd><ind>trou</ind> de souris</trd>
@@ -422,10 +508,15 @@
   <trdgrp lng="br">
     <trd>divfronell</trd>,    
     <trd>fronello&ugrave;</trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>narius</trd>,
     <trd>forats del nas</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nosní dírka</trd>,
+    <trd>nosní otvor</trd>,
+    <trd>nozdra</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>narine</trd>
@@ -438,6 +529,10 @@
     <trd>nare</trd>
   </trdgrp>
   <trd lng="pl">dziurka od nosa</trd>
+  <trdgrp lng="sk">
+    <trd>nosná dierka</trd>,
+    <trd>nozdra</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tru.nigra0o">
@@ -453,18 +548,19 @@
   <trd lng="be">
   &c_ch;&c_o;&c_r;&c_n;&c_a;&c_ja; &c_d;&c_z;&c_ib;&c_r;&c_a;</trd>
   <trd lng="ca">forat negre</trd>
+  <trd lng="cs">černá díra</trd>
   <trd lng="da">sort hul</trd>
   <trd lng="de">schwarzes <ind>Loch</ind></trd>
   <trdgrp lng="en">
     <trd>black <ind>hole</ind></trd>,
     <trd>collapsar</trd>
   </trdgrp>
-  <trd lng="id"><ind>lubang</ind> hitam</trd>
   <trd lng="es">agujero negro</trd>
   <trd lng="fi">musta aukko</trd>
   <trd lng="fr"><ind>trou</ind> noir</trd>
   <trd lng="he">&het;&vav;&resh; &shin;&het;&vav;&resh;</trd>
   <trd lng="hu">fekete lyuk</trd>
+  <trd lng="id"><ind>lubang</ind> hitam</trd>
   <trd lng="it">buco nero</trd>
   <trd lng="ja">
   &#12502;&#12521;&#12483;&#12463;&#12507;&#12540;&#12523;&#12288;
@@ -478,6 +574,7 @@
   </trdgrp>
   <trd lng="ru">&c_ch;&c_je;&c_r;&c_n;&c_a;&c_ja; &c_d;&c_y;&c_r;&c_a;
   </trd>
+  <trd lng="sk">čierna diera</trd>
   <trd lng="sv">svart h&aring;l</trd>
   <trd lng="tr">kara delik</trd>
   <trd lng="vo">hog bl&auml;gik</trd>
@@ -528,6 +625,11 @@
       <lok>La Kancerkliniko, n-ro 68</lok></fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>díra</trd>,
+    <trd>zadek</trd>,
+    <trd>řiť</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd><ind>trou</ind> du cul<klr tip="ind"> (anus)</klr></trd>,
   </trdgrp>
@@ -538,6 +640,11 @@
   <trdgrp lng="pl">
     <trd>dupa <klr>(wulg.)</klr></trd>,
     <trd>odbyt</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>diera</trd>,
+    <trd>riť</trd>,
+    <trd>zadok</trd>
   </trdgrp>
 </drv>
 
@@ -553,6 +660,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">klíčová dírka</trd>
   <trdgrp lng="fr">
     <trd><ind>trou</ind> de serrure</trd>
   </trdgrp>
@@ -561,6 +669,7 @@
     <trd><ind>buco</ind> della serratura</trd>
   </trdgrp>
   <trd lng="pl">dziurka od klucza</trd>
+  <trd lng="sk">kľúčová dierka</trd>
 </drv>
 
 <drv mrk="tru.son0o">
@@ -589,6 +698,7 @@
     smyczkowym)</klr></trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">zvukový otvor</trd>
   <trdgrp lng="fr">
     <trd>baie<klr tip="ind"> (d'un clocher)</klr></trd>
     <trd>bouche<klr tip="ind"> (d'un violon)</klr></trd>
@@ -599,6 +709,7 @@
     <trd>effe<klr> (di strumenti ad arco)</klr></trd>,
     <trd>buca<klr> (di chitarra o sim.)</klr></trd>
   </trdgrp>
+  <trd lng="sk">zvukový otvor</trd>
 </drv>
 
 <drv mrk="tru.ventol0o">
@@ -634,6 +745,18 @@
 </art>
 <!--
 $Log: tru.xml,v $
+Revision 1.41  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.40  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.39  2015/06/24 11:10:14  revo
+Sergio Pokrovskij: disigo de la signifoj de mustruo
+
+Revision 1.38  2015/06/24 08:10:15  revo
+Sergio Pokrovskij: disigo de la signifoj (brecxo / kavo)
+
 Revision 1.37  2014/06/09 16:10:27  revo
 Eko Nur Syah Hidayat: +id
 
@@ -650,11 +773,5 @@ Revision 1.33  2008/12/21 17:30:24  revo
 Marc Bavant: postajxo~o: -ofc, +ekz
 
 Revision 1.32  2008/11/21 17:56:51  revo
-Marc Bavant: naz~o: kor mrk
-
-Revision 1.31  2008/11/19 09:28:00  revo
-Marc Bavant: naz~o: pliaj trd fr; +drv pug~o
-
-Revision 1.30  2008/11/16 17:30:53  revo
 -->
 </vortaro>

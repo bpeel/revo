@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mizer.xml,v 1.20 2009/10/19 16:30:50 revo Exp $">
+<art mrk="$Id: mizer.xml,v 1.22 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mizer</rad>/o
@@ -42,11 +42,17 @@
   <trdgrp lng="be">
     <trd>&c_g;&c_a;&c_l;&c_je;&c_ch;&c_a;</trd>,
     <trd>&c_n;&c_e;&c_n;&c_d;&c_z;&c_a;</trd>
-  </trdgrp>                  
+  </trdgrp>
   <trdgrp lng="br">
     <trd>dienez</trd>,
     <trd>mizer<klr tip="ind"> (reuzeudigezh)</klr></trd>,
     <trd>reuzeudigezh</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bída</trd>,
+    <trd>nouze</trd>,
+    <trd>tíseň</trd>,
+    <trd>ubohost</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Elend</trd>,
@@ -85,6 +91,11 @@
     <trd>&c_n;&c_i;&c_shch;&c_je;&c_t;&c_a;</trd>,
     <trd>&c_n;&c_u;&c_zh;&c_d;&c_a;<klr tip="ind">
     (&c_n;&c_i;&c_shch;&c_je;&c_t;&c_a;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bieda</trd>,
+    <trd>psota</trd>,
+    <trd>tvŕdza</trd>
   </trdgrp>
 </drv>
 
@@ -130,15 +141,22 @@ neevitebla&jcirc;o)</klr>;
     </dif>
   </snc>
   <trd lng="be">&c_zh;&c_a;&c_b;&c_r;&c_a;&c_c;&c_k;&c_ib;</trd>
-  <trdgrp lng="de">
-    <trd>elend</trd>,
-    <trd>elendig</trd>,
-    <trd>j&auml;mmerlich</trd>
-  </trdgrp>            
   <trdgrp lng="br">
     <trd>ezhommek</trd>,
     <trd>reuzeudik</trd>,
     <trd>tavantek</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bídný</trd>,
+    <trd>darebný</trd>,
+    <trd>mizerný</trd>,
+    <trd>nuzný</trd>,
+    <trd>ubohý</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>elend</trd>,
+    <trd>elendig</trd>,
+    <trd>j&auml;mmerlich</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>miserable</trd>,
@@ -170,6 +188,10 @@ neevitebla&jcirc;o)</klr>;
     <trd>&c_n;&c_i;&c_shch;&c_i;&c_j;</trd>,
     <trd>&c_n;&c_i;&c_shch;&c_je;&c_n;&c_s;&c_k;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>biedny</trd>,
+    <trd>úbohý</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mizer.0i">
@@ -193,10 +215,14 @@ neevitebla&jcirc;o)</klr>;
   <trdgrp lng="be">
     <trd>&c_g;&c_a;&c_l;&c_je;&c_c;&c_mol;</trd>,
     <trd>&c_g;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
-  </trdgrp>                   
+  </trdgrp>
   <trdgrp lng="br">
     <trd>beza&ntilde; en <ind>dienez</ind></trd>,
     <trd>mizeri&ntilde;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>být ubohý</trd>,
+    <trd>trpět bídu</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>elendig sein</trd>,
@@ -237,6 +263,10 @@ neevitebla&jcirc;o)</klr>;
     <klr tip="ind">
     (&c_b;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;)</klr>
     </trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>biediť</trd>,
+    <trd>trieť biedu</trd>
   </trdgrp>
 </drv>
 
@@ -291,11 +321,15 @@ neevitebla&jcirc;o)</klr>;
       </ekz>
     </dif>
     <ref tip="sin" cel="hav.sen0ulo">senhavulo</ref>
-  </snc>         
+  </snc>
   <trdgrp lng="br">
     <trd>ezhommeg</trd>,
     <trd>reuzeudig</trd>,
     <trd>tavanteg</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>chudák</trd>,
+    <trd>ubožák</trd>
   </trdgrp>
   <trd lng="en">wretch</trd>
   <trdgrp lng="fr">
@@ -318,10 +352,21 @@ neevitebla&jcirc;o)</klr>;
     <trd>&c_n;&c_je;&c_i;&c_m;&c_u;&c_shch;&c_i;&c_j;<klr tip="amb">
     (&c_s;&c_u;&c_shch;.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chudák</trd>,
+    <trd>lazar</trd>,
+    <trd>úbožiak</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: mizer.xml,v $
+Revision 1.22  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2009/10/19 16:30:50  revo
 Paul Peeraerts: +nl
 

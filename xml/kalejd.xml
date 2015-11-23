@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kalejd.xml,v 1.20 2013/01/01 14:10:40 revo Exp $">
+<art mrk="$Id: kalejd.xml,v 1.22 2015/07/04 08:37:36 revo Exp $">
 <kap>
    <ofc>2</ofc>
    <rad>kalejdoskop</rad>/o
@@ -20,17 +20,22 @@
        je &ccirc;iu moveto de la aparato.
      </dif>
    </snc>
-   <trd lng="be">&c_k;&c_a;&c_l;&c_je;&c_j;&c_d;&c_a;&c_s;&c_k;&c_o;&c_p;</trd>
-   <trd lng="ca">calidoscopi</trd>
-   <trd lng="de">Kaleidoskop</trd>
-   <trd lng="en">kaleidoscope</trd>
-   <trd lng="es">caleidoscopio</trd>
-   <trd lng="fi">kaleidoskooppi</trd>
-   <trd lng="fr">kal&eacute;idoscope</trd>
-   <trd lng="hu">kaleidoszk&oacute;p</trd>
-   <trd lng="nl">caleidoscoop</trd>
-   <trd lng="pl">kalejdoskop</trd>
-   <trd lng="ru">&c_k;&c_a;&c_l;&c_je;&c_j;&c_d;&c_o;&c_s;&c_k;&c_o;&c_p;</trd>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_je;&c_j;&c_d;&c_a;&c_s;&c_k;&c_o;&c_p;</trd>
+  <trd lng="ca">calidoscopi</trd>
+  <trdgrp lng="cs">
+    <trd>kaleidoskop</trd>,
+    <trd>krásnohled</trd>
+  </trdgrp>
+  <trd lng="de">Kaleidoskop</trd>
+  <trd lng="en">kaleidoscope</trd>
+  <trd lng="es">caleidoscopio</trd>
+  <trd lng="fi">kaleidoskooppi</trd>
+  <trd lng="fr">kal&eacute;idoscope</trd>
+  <trd lng="hu">kaleidoszk&oacute;p</trd>
+  <trd lng="nl">caleidoscoop</trd>
+  <trd lng="pl">kalejdoskop</trd>
+  <trd lng="ru">&c_k;&c_a;&c_l;&c_je;&c_j;&c_d;&c_o;&c_s;&c_k;&c_o;&c_p;</trd>
+  <trd lng="sk">kaleidoskop</trd>
 </drv>
 
 <drv mrk="kalejd.0i">
@@ -63,10 +68,18 @@
      <trd>sz&iacute;nesen <ind>v&aacute;ltakoznak</ind></trd>
    </trdgrp>
    <trd lng="nl">door elkaar <ind>wemelen</ind></trd>
+  <trd lng="sk">dívať sa do kaleidoskopu</trd>
+  <trd lng="cs">dívat se do kaleidoskopu</trd>
 </drv>
 </art>
 <!--
 $Log: kalejd.xml,v $
+Revision 1.22  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2013/01/01 14:10:40  revo
 Sebastian Cyprych: +trd pl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: je.xml,v 1.24 2013/09/03 07:10:09 revo Exp $">
+<art mrk="$Id: je.xml,v 1.27 2015/10/27 10:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>je</rad>
@@ -203,22 +203,30 @@
       </ekz>
     </dif>
   </snc>
-  <trdgrp lng="cs">
-    <trd>o</trd>,
-    <trd>v</trd>,
-    <trd>na</trd>,
-    <trd>za (p&rcaron;edlo&zcaron;ka neur&ccaron;it&yacute;ch vztah&uring;)
-</trd>
-  </trdgrp>  
   <trd lng="ca">a</trd>
+  <trdgrp lng="cs">
+    <trd>na</trd>,
+    <trd>o</trd>,
+    <trd>p&rcaron;edlo&zcaron;ka neur&ccaron;it&eacute;ho v&yacute;znamu</trd>,
+    <trd>v</trd>,
+    <trd>za (p&rcaron;edlo&zcaron;ka neur&ccaron;it&yacute;ch vztah&uring;)</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>je</trd>,
     <trd>an</trd>,
     <trd>von</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>a</trd>,
+    <trd>de</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>de</trd>,
     <trd>&agrave;</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>a<klr> (prep.)</klr></trd>,
+    <trd>di</trd>,
   </trdgrp>
   <trd lng="oc">a</trd>
   <trdgrp lng="pt">
@@ -233,20 +241,26 @@
     &c_z;&c_n;&c_a;&c_ch;&c_je;&c_n;&c_i;&c_je;&c_m;<klr tip="amb">)</klr>
 </trd>
   </trdgrp>
+  <trd lng="sk">predlo&zcaron;ka neur&ccaron;it&eacute;ho v&yacute;znamu</trd>
   <trdgrp lng="sv">
     <trd>av</trd>,
     <trd>p&aring;</trd>,
     <trd>till</trd>
   </trdgrp>
   <trd lng="tp">lon</trd>
-  <trdgrp lng="it">
-    <trd>a<klr> (prep.)</klr></trd>,
-    <trd>di</trd>,
-  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: je.xml,v $
+Revision 1.27  2015/10/27 10:10:21  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.26  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2013/09/03 07:10:09  revo
 Damien Brucker: Sxangxeto de la prezento
 
@@ -260,14 +274,5 @@ Revision 1.21  2013/09/01 09:10:16  revo
 Damien Brucker: Sxangxo por la reta sercxilo
 
 Revision 1.20  2013/05/12 01:10:08  revo
-Benito Subejrano: + trd ca oc
-
-Revision 1.19  2009/03/18 17:31:22  revo
-Antonio Codazzi: +trd it
-
-Revision 1.18  2009/03/12 17:31:25  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.17  2007/12/26 17:30:31  revo
 -->
 </vortaro>

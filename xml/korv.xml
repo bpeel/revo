@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korv.xml,v 1.30 2014/06/13 20:10:23 revo Exp $">
+<art mrk="$Id: korv.xml,v 1.32 2015/07/04 08:37:38 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>korv</rad>/o
@@ -82,6 +82,11 @@
     <trd lng="pt">corvo</trd>
     <trd lng="ru">&c_v;&c_o;&c_r;&c_o;&c_n;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>havran</trd>,
+    <trd>krkavec</trd>
+  </trdgrp>
+  <trd lng="sk">krkavec</trd>
 </drv>
 
 <drv mrk="korv.K0o">
@@ -96,12 +101,17 @@
     </dif>
   </snc>
   <trd lng="ca">el <ind>Corb</ind></trd>
+  <trdgrp lng="cs">
+    <trd>havran</trd>,
+    <trd>krkavec</trd>
+  </trdgrp>
   <trd lng="de">Rabe</trd>
   <trd lng="en">Corvus</trd>
   <trd lng="es">Cuervo</trd>
   <trd lng="fa">&a_gh;&a_r;&a_A;&a_b;</trd>
   <trd lng="nl">Raaf<klr tip="ind"> (sterrenbeeld)</klr></trd>
   <trd lng="pl">Kruk</trd>
+  <trd lng="sk">krkavec</trd>
 </drv>
 
 <drv mrk="korv.0eto">
@@ -112,7 +122,10 @@
     <ref tip="dif" cel="moned.0o">monedo</ref>
   </snc>
   <trd lng="ca">gralla</trd>
-  <trd lng="cs">kavka obecn&aacute;</trd>
+  <trdgrp lng="cs">
+    <trd>kavka</trd>,
+    <trd>kavka obecn&aacute;</trd>
+  </trdgrp>
   <trd lng="de">Dohle</trd>
   <trd lng="en">jackdaw</trd>
   <trd lng="fa">&a_z;&a_A;&a_gh;&f_ch;&a_h;</trd>
@@ -123,10 +136,17 @@
   <trd lng="nl">torenkraai</trd>
   <trd lng="pl">kawka</trd>
   <trd lng="ru">&c_g;&c_a;&c_l;&c_k;&c_a;</trd>
+  <trd lng="sk">ľahká vojenská plachetnica</trd>
 </drv>
 </art>
 <!--
 $Log: korv.xml,v $
+Revision 1.32  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.30  2014/06/13 20:10:23  revo
 Eko Nur Syah Hidayat: +id
 

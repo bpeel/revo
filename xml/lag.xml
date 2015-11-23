@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lag.xml,v 1.23 2014/06/10 04:10:25 revo Exp $">
+<art mrk="$Id: lag.xml,v 1.25 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lag</rad>/o
@@ -40,8 +40,12 @@
   <trd lng="pl">jezioro</trd>
   <trd lng="pt">lago</trd>
   <trd lng="ru">&c_o;&c_z;&c_je;&c_r;&c_o;</trd>
-  <trd lng="tr">g&ouml;l</trd>
+  <trdgrp lng="sk">
+    <trd>jazero</trd>,
+    <trd>pleso</trd>
+  </trdgrp>
   <trd lng="sv">sj&ouml;</trd>
+  <trd lng="tr">g&ouml;l</trd>
 </drv>
 
 <drv mrk="lag.0eto">
@@ -57,15 +61,23 @@
     </dif>
   </snc>
   <trd lng="bg">&c_m;&c_a;&c_l;&c_k;&c_o; <ind>&c_je;&c_z;&c_je;&c_r;&c_o;</ind></trd>
+  <trd lng="cs">jezírko</trd>
   <trd lng="de">Teich</trd>
   <trd lng="en">pond</trd>
   <trd lng="fr">&eacute;tang</trd>
   <trd lng="id">kolam</trd>
   <trd lng="nl">vijver</trd>
+  <trd lng="sk">jazierko</trd>
 </drv>
 </art>
 <!--
 $Log: lag.xml,v $
+Revision 1.25  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2014/06/10 04:10:25  revo
 Eko Nur Syah Hidayat: +id
 

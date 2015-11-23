@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tem.xml,v 1.24 2014/06/29 08:10:11 revo Exp $">
+<art mrk="$Id: tem.xml,v 1.27 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tem</rad>/o <fnt><bib>PV</bib></fnt>
@@ -23,8 +23,7 @@
       </ekz>
     </dif>
     <refgrp tip="sin">
-      <ref cel="objekt.0o.temo">objekto <sncref/></ref>,
-      <ref cel="subjek.0o.temo">subjekto <sncref/></ref>
+      <ref cel="objekt.0o.temo">objekto <sncref/></ref>
     </refgrp>
     <refgrp tip="vid">
       <ref cel="kamp.0o.tereno">kampo <sncref/></ref>,
@@ -32,11 +31,43 @@
       <ref cel="region.0o.fig">regiono <sncref/></ref>
     </refgrp>
   </snc>
+  <snc mrk="tem.0o.fraza">
+    <uzo tip="fak">LIN</uzo>
+    <fnt><bib>PIV2</bib></fnt>
+    <dif>
+      La malpli informa parto de komunika&jcirc;o, kiu ne entenas novan
+      informon, sed servas kiel deira punkto por la nova, la
+      interesa parto (<ref tip="vid" cel="rema.0o">remao</ref>),
+      kiun la <tld/>o ligas kun la kunteksto:
+      <ekz>
+        &ccirc;ar <tld/>o kutime estas konata&jcirc;o, kaj remao estas nova&jcirc;o,
+        tial nemalofte la temo estas determinita difine, kaj la
+        remao, nedifine:
+        <ctl><em>Sur la tero</em> ku&scirc;as &scirc;tono</ctl> [FE &FE;6],
+        <ctl><em>Anta&ubreve; la domo</em> staras arbo</ctl> [FE &FE;8]
+        <fnt>
+          <aut>S. Pokrovskij</aut>:
+          <vrk><url ref="
+ http://lingvakritiko.com/2007/02/05/la-artikolo/#vortordo"
+              >La arikolo</url></vrk>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
   <trd lng="be">&c_t;&c_e;&c_m;&c_a;</trd>
   <trd lng="bg">&c_t;&c_je;&c_m;&c_a;</trd>
-  <trd lng="cs">t&eacute;ma</trd>
+  <trdgrp lng="cs">
+    <trd>látka</trd>,
+    <trd>námět</trd>,
+    <trd>předmět</trd>,
+    <trd>t&eacute;ma</trd>
+  </trdgrp>
   <trd lng="de">Thema</trd>
   <trd lng="en">theme</trd>
+  <trdgrp lng="es">
+    <trd>tema</trd>,
+    <trd>asunto</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>sujet</trd>,
     <trd>th&egrave;me<klr> (sujet)</klr></trd>
@@ -55,13 +86,12 @@
     <trd>tema</trd>,
     <trd>assunto</trd>
   </trdgrp>
-  <trdgrp lng="es">
-    <trd>tema</trd>,
-    <trd>asunto</trd>
-  </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>námet</trd>,
+    <trd>t&eacute;ma</trd>
+  </trdgrp>
   <trd lng="sv">tema</trd>
-  <trd lng="sk">t&eacute;ma</trd>
 </drv>
 
 <drv mrk="tem.0i">
@@ -155,14 +185,19 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>soubor námětů</trd>,
+    <trd>tématika</trd>
+  </trdgrp>
+  <trd lng="es">temario</trd>
   <trd lng="fr">th&eacute;matique</trd>
   <trdgrp lng="id">
     <trd>tematik</trd>,
     <trd>tematis</trd>
   </trdgrp>
-  <trd lng="es">temario</trd>
   <trd lng="pl">tematyka</trd>
   <trd lng="ru">&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trd lng="sk">tematika</trd>
 </drv>
 
 <drv mrk="tem.ekster0a">
@@ -243,6 +278,15 @@
 </art>
 <!--
 $Log: tem.xml,v $
+Revision 1.27  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2015/04/30 08:10:15  revo
+Sergio Pokrovskij: +~0.fraza
+
 Revision 1.24  2014/06/29 08:10:11  revo
 Eko Nur Syah Hidayat: +id
 
@@ -262,8 +306,5 @@ Revision 1.19  2006/02/15 17:32:00  revo
 Tulio Flores: +trd pt
 
 Revision 1.18  2005/05/26 16:31:36  revo
-Yury Finkel: +trd ru
-
-Revision 1.17  2005/03/28 17:17:00  revo
 -->
 </vortaro>

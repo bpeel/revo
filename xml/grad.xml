@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: grad.xml,v 1.40 2014/10/26 15:10:24 revo Exp $">
+<art mrk="$Id: grad.xml,v 1.43 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>grad</rad>/o <fnt><bib>PV</bib></fnt>
@@ -183,6 +183,7 @@
     <trd lng="hu">fok</trd>
     <trd lng="pl">stopie&nacute;</trd>
   </snc>
+  <trd lng="cs">stupeň</trd>
   <trd lng="de">Grad</trd>
   <trd lng="fr">degr&eacute;</trd>
   <trd lng="id">derajat</trd>
@@ -192,6 +193,7 @@
   </trdgrp>
   <trd lng="pt">grau</trd>
   <trd lng="ru">&c_s;&c_t;&c_je;&c_p;&c_je;&c_n;&c_mol;</trd>
+  <trd lng="sk">stupeň</trd>
 </drv>
 
 <drv mrk="grad.0aro">
@@ -212,6 +214,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">dělený kruh</trd>
   <trdgrp lng="es">
     <trd>escala<klr> (de medida)</klr></trd>,
     <trd>graduaci&oacute;n</trd>
@@ -221,6 +224,7 @@
     <trd>graduation</trd>
   </trdgrp>
   <trd lng="id">skala</trd>
+  <trd lng="sk">delený kruh</trd>
 </drv>
 
 <drv mrk="grad.0igi">
@@ -261,12 +265,24 @@
     <trd lng="ru">
     &c_g;&c_r;&c_a;&c_d;&c_u;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>gradovat</trd>,
+    <trd>odstupňovat</trd>,
+    <trd>stupňovat</trd>,
+    <trd>zesilovat</trd>,
+    <trd>zvětšovat</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>graduar</trd>,
     <trd>escalonar</trd>
   </trdgrp>
   <trd lng="fr">graduer</trd>
   <trd lng="pt">graduar</trd>
+  <trdgrp lng="sk">
+    <trd>gradovať</trd>,
+    <trd>stupňovať</trd>,
+    <trd>zosilňovať</trd>
+  </trdgrp>
   <trdgrp lng="tr">
     <trd>derecelemek</trd>,
     <trd>kerte kerte y&uuml;kseltmek</trd>
@@ -329,8 +345,16 @@
       <trd>kerteli</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>stupňovitý</trd>,
+    <trd>stupňový</trd>
+  </trdgrp>
   <trd lng="nl">gradueel</trd>
   <trd lng="pl">stopniowy</trd>
+  <trdgrp lng="sk">
+    <trd>stupňovitý</trd>,
+    <trd>stupňový</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="grad.eliraduon0o">
@@ -346,6 +370,7 @@
       simb. <frm>grad<sup>+</sup>(<k>v</k>)</frm>.
     </dif>
   </snc>
+  <trd lng="cs">výchozí polostupeň</trd>
   <trdgrp lng="de">
     <trd>Ausgangsgrad</trd>
   </trdgrp>
@@ -361,6 +386,7 @@
   <trd lng="id"><ind>derajat</ind> luar</trd>
   <trd lng="pl">stopie&nacute; wyj&sacute;ciowy</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_u;&c_s;&c_t;&c_je;&c_p;&c_je;&c_n;&c_mol; &c_i;&c_s;&c_h;&c_o;&c_d;&c_a;</trd>
+  <trd lng="sk">východiskový polostupeň</trd>
 </drv>
 
 <drv mrk="grad.eniraduon0o">
@@ -479,6 +505,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">n- tého stupně</trd>
   <trd lng="de"><klr tip="ind">(Polynom, Gleichung) </klr>n-ten
   Grades</trd>
   <trdgrp lng="en">
@@ -495,10 +522,43 @@
   <trd lng="pt">de <ind>grau</ind> n</trd>
   <trd lng="ru">n-&c_o;&c_j; <ind>&c_s;&c_t;&c_je;&c_p;&c_je;&c_n;&c_i;
   </ind></trd>
+  <trd lng="sk">n-tého stupňa</trd>
+</drv>
+
+<drv mrk="grad.suficxa0e">
+  <kap>sufi&ccirc;a<tld/>e,
+  <var><kap>en sufi&ccirc;a <tld/>o</kap></var></kap>
+  <snc mrk="grad.suficxa0e.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="suficx.0e.KOMUNE">Sufi&ccirc;e</ref>,
+      en sufi&ccirc;a kvanto, kun sufi&ccirc;a forto, intenso...:
+      <ekz>
+        &ccirc;i tiu kutimo, dehaki al amataj parencoj la kapon, &scirc;ajnis al 
+        mi, verdire, sufi&ccirc;a<tld/>e terura
+        <fnt>
+          <aut>Wilhelm Hauff, trad. J. W. Eggleton</aut>,
+          <vrk><url
+          ref="http://www.gutenberg.org/files/22070/22070-h/22070-h.htm">
+          La Karavano</url></vrk>,
+          <lok>1921</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">dans une mesure suffisante</trd>
 </drv>
 </art>
 <!--
 $Log: grad.xml,v $
+Revision 1.43  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.42  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.41  2015/03/25 00:10:13  revo
+Jeromo Vasxe: + suficxa~e
+
 Revision 1.40  2014/10/26 15:10:24  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -518,8 +578,5 @@ Revision 1.35  2009/08/24 16:32:43  revo
 Emmanuel Debanne: +kor tr
 
 Revision 1.34  2008/11/02 17:30:45  revo
-Peter Hauser: aldono de germana traduko "Grad K"
-
-Revision 1.33  2008/05/30 16:30:20  revo
 -->
 </vortaro>

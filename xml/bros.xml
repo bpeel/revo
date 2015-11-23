@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bros.xml,v 1.24 2012/07/17 13:10:11 revo Exp $">
+<art mrk="$Id: bros.xml,v 1.27 2015/10/06 11:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bros</rad>/o
@@ -32,9 +32,15 @@
   <trd lng="hu">kefe</trd>   
   <trd lng="nl">borstel</trd>
   <trd lng="pl">szczotka</trd>
+  <trd lng="pt">escova</trd>
   <trd lng="ru">&c_shch;&c_jo;&c_t;&c_k;&c_a;</trd>
   <trd lng="sv">borste</trd>
   </snc>
+  <trd lng="cs">kart&aacute;&ccaron;, kart&aacute;&ccaron;ek elektromotoru</trd>
+  <trdgrp lng="sk">
+    <trd>kart&aacute;&ccaron;</trd>,
+    <trd>kefa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bros.0i">
@@ -73,6 +79,8 @@
   &c_shch;&c_jo;&c_t;&c_k;&c_o;&c_j;</trd>
   <trd lng="sv">borsta</trd>
   </snc>
+  <trd lng="cs">kart&aacute;&ccaron;ovat</trd>
+  <trd lng="sk">kefova&tcaron;</trd>
 </drv>
 
 <drv mrk="bros.har0o">
@@ -120,6 +128,15 @@
 </art>
 <!--
 $Log: bros.xml,v $
+Revision 1.27  2015/10/06 11:10:23  revo
+Evandro Avellar: +trd pt
+
+Revision 1.26  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2012/07/17 13:10:11  revo
 Marc Rausell: + trd ca
 
@@ -133,14 +150,5 @@ Revision 1.21  2009/06/06 16:30:43  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.20  2009/03/31 16:30:24  revo
-Wieland Pusch: +trd bg
-
-Revision 1.19  2009/03/30 16:30:56  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.18  2007/12/09 17:30:22  revo
-Wieland Pusch: +trd bg
-
-Revision 1.17  2006/04/20 19:23:34  revo
 -->
 </vortaro>

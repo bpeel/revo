@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fundam.xml,v 1.28 2014/07/07 08:10:13 revo Exp $">
+<art mrk="$Id: fundam.xml,v 1.30 2015/07/04 08:37:34 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>fundament</rad>/o <fnt><bib>PV</bib></fnt>
@@ -92,7 +92,10 @@
     </trdgrp>
     <trd lng="ru">&c_o;&c_s;&c_n;&c_o;&c_v;&c_a;</trd>
   </snc>
-  <trd lng="cs">z&aacute;klad</trd>
+  <trdgrp lng="cs">
+    <trd>podstata</trd>,
+    <trd>z&aacute;klad</trd>
+  </trdgrp>
   <trd lng="de">Fundament</trd>
   <trd lng="en">foundation</trd>
   <trdgrp lng="fr">
@@ -113,6 +116,7 @@
     <trd>base</trd>,
     <trd>pedra angular</trd>
   </trdgrp>
+  <trd lng="sk">podstata</trd>
 </drv>
 <drv mrk="fundam.0a">
   <kap><tld/>a</kap>
@@ -195,6 +199,12 @@
     <trd lng="pl">fundamentalny</trd>
     <trd lng="ru">&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_je;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
 </snc>
+  <trdgrp lng="cs">
+    <trd>elementární</trd>,
+    <trd>kmenový</trd>,
+    <trd>podstatný</trd>,
+    <trd>základní</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>foundational</trd>,
     <trd>fundamental</trd>
@@ -208,6 +218,10 @@
     <trd>fondamentale</trd>,
     <trd>cardinale</trd>,
     <trd>fondazionale</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>elementárny</trd>,
+    <trd>podstatný</trd>
   </trdgrp>
 </drv>
 <drv mrk="fundam.0i">
@@ -271,6 +285,14 @@
   <trd lng="nl">funderen</trd>
   <trd lng="pl">opiera&cacute; na fundamencie</trd>
   <trd lng="ru">&c_o;&c_s;&c_n;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>zakladať</trd>,
+    <trd>založiť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>zakládat</trd>,
+    <trd>založit</trd>
+  </trdgrp>
 </drv>
 <drv mrk="fundam.0ismo">
   <kap><tld/>ismo</kap>
@@ -296,6 +318,7 @@
   </snc>
   <trd lng="be">&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_e;&c_n;&c_t;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
   <trd lng="ca">fonamentalisme</trd>
+  <trd lng="cs">fundamentalismus</trd>
   <trd lng="en">fundamentalism</trd>
   <trdgrp lng="fr">
     <trd>fondamentalisme</trd>,
@@ -306,10 +329,17 @@
   <trd lng="nl">fundamentalisme</trd>
   <trd lng="pl">fundamentalizm</trd>
   <trd lng="ru">&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_je;&c_n;&c_t;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">fundamentalizmus</trd>
 </drv>
 </art>
 <!--
 $Log: fundam.xml,v $
+Revision 1.30  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.28  2014/07/07 08:10:13  revo
 Damien Brucker: +rim
 

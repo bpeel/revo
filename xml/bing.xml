@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bing.xml,v 1.9 2013/12/14 18:10:46 revo Exp $">
+<art mrk="$Id: bing.xml,v 1.11 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <rad>bing</rad>/o
 </kap>
@@ -37,6 +37,7 @@ Diego</aut>, <vrk>Cent
     </dif>
   </snc>
   <trd lng="bg">&c_b;&c_i;&c_n;&c_g;&c_o;</trd>
+  <trd lng="cs">bingo</trd>
   <trd lng="de">Bingo<klr> (Lotteriespiel)</klr></trd>
   <trd lng="en">bingo</trd>
   <trd lng="es">bingo</trd>
@@ -46,11 +47,18 @@ Diego</aut>, <vrk>Cent
   <trd lng="nl">bingo<klr> (spel)</klr></trd>
   <trd lng="pl">bingo</trd>
   <trd lng="pt">bingo</trd>
+  <trd lng="sk">bingo</trd>
 </drv>
 </art>
 
 <!--
 $Log: bing.xml,v $
+Revision 1.11  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2013/12/14 18:10:46  revo
 Joop Eggen: +trd bg
 

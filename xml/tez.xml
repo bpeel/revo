@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tez.xml,v 1.19 2012/07/30 12:10:22 revo Exp $">
+<art mrk="$Id: tez.xml,v 1.21 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tez</rad>/o <fnt><bib>PV</bib></fnt>
@@ -80,8 +80,19 @@
     <trd lng="ru">&c_d;&c_i;&c_s;&c_s;&c_je;&c_r;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>
   </snc>
   <trd lng="ca">tesi</trd>
+  <trdgrp lng="cs">
+    <trd>poučka</trd>,
+    <trd>teze</trd>,
+    <trd>tvrzení</trd>,
+    <trd>věta</trd>,
+    <trd>zásada</trd>
+  </trdgrp>
   <trd lng="en">thesis</trd>
   <trd lng="fr">th&egrave;se</trd>
+  <trdgrp lng="sk">
+    <trd>tvrdenie</trd>,
+    <trd>téza</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tez.kontraux0o">
@@ -125,6 +136,12 @@
 </art>
 <!--
 $Log: tez.xml,v $
+Revision 1.21  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2012/07/30 12:10:22  revo
 Marc Rausell: + trd ca
 

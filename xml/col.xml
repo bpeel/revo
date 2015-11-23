@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: col.xml,v 1.27 2014/10/26 15:10:36 revo Exp $">
+<art mrk="$Id: col.xml,v 1.29 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>col</rad>/o
@@ -64,10 +64,24 @@
     miera)</klr></trd>
     <trd lng="sv">tum</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>coul</trd>,
+    <trd>palec</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cól</trd>,
+    <trd>palec <klr>(miera)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: col.xml,v $
+Revision 1.29  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.27  2014/10/26 15:10:36  revo
 Eko Nur Syah Hidayat: +trd id
 

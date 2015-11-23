@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ruin.xml,v 1.16 2006/02/24 17:33:47 revo Exp $">
+<art mrk="$Id: ruin.xml,v 1.18 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ruin</rad>/o
@@ -61,8 +61,10 @@
     <trd>&c_r;&c_a;&c_z;&c_v;&c_a;&c_l;&c_ib;&c_n;&c_a;</trd>
   </trdgrp>
   <trdgrp lng="cs">
+    <trd>rozvalina</trd>,
     <trd>ruina</trd>,
-    <trd>troska</trd>
+    <trd>troska</trd>,
+    <trd>zřícenina</trd>
   </trdgrp>
   <trd lng="es">ruina</trd>
   <trd lng="fr">ruine</trd>
@@ -70,6 +72,12 @@
   <trdgrp lng="ru">
     <trd>&c_r;&c_u;&c_i;&c_n;&c_a;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_v;&c_a;&c_l;&c_i;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozvalina</trd>,
+    <trd>ruina</trd>,
+    <trd>troska</trd>,
+    <trd>zrúcanina</trd>
   </trdgrp>
   <trd lng="sv">ruin</trd>
 </drv>
@@ -220,6 +228,13 @@
     <trd>&c_r;&c_a;&c_z;&c_v;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_v;&c_a;&c_l;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>přivést na mizinu</trd>,
+    <trd>zbořit</trd>,
+    <trd>zničit</trd>,
+    <trd>zpustošit</trd>,
+    <trd>zruinovat</trd>
+  </trdgrp>
   <trd lng="de">ruinieren</trd>
   <trd lng="fr">ruiner</trd>
   <trd lng="nl">ru&iuml;neren</trd>
@@ -229,6 +244,13 @@
     <trd>&c_r;&c_a;&c_z;&c_v;&c_a;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_v;&c_a;&c_l;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_b;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol; &c_v; &c_r;&c_u;&c_i;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ničiť</trd>,
+    <trd>priviesť na mizinu</trd>,
+    <trd>zničiť</trd>,
+    <trd>zruinovať</trd>,
+    <trd>zrúcať</trd>
   </trdgrp>
 </drv>
 
@@ -270,6 +292,12 @@
 </art>
 <!--
 $Log: ruin.xml,v $
+Revision 1.18  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2006/02/24 17:33:47  revo
 Tulio Flores: +trd pt
 

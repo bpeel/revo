@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: apr.xml,v 1.27 2013/08/06 09:10:20 revo Exp $">
+  <art mrk="$Id: apr.xml,v 1.28 2015/09/14 12:10:15 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>apr</rad>/o
@@ -44,6 +44,7 @@
         <trd>dzik</trd>,
         <trd>dzika <ind>&sacute;winia</ind></trd>
       </trdgrp>
+      <trd lng="pt">javali</trd>
       <trdgrp lng="ru">
         <trd>&c_v;&c_je;&c_p;&c_r;&c_mol;</trd>,
         <trd>&c_d;&c_i;&c_k;&c_i;&c_j;
@@ -152,6 +153,9 @@
   </art>
   <!--
   $Log: apr.xml,v $
+  Revision 1.28  2015/09/14 12:10:15  revo
+  Evandro Avellar: +trd pt
+
   Revision 1.27  2013/08/06 09:10:20  revo
   Joop Eggen: +trd bg
 

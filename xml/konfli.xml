@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konfli.xml,v 1.17 2009/09/05 16:31:33 revo Exp $">
+<art mrk="$Id: konfli.xml,v 1.19 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>konflikt</rad>/o
@@ -75,6 +75,15 @@ Radio Internacia</url></lok>
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_n;&c_f;&c_l;&c_ib;&c_k;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>konflikt</trd>,
+    <trd>pře</trd>,
+    <trd>rozpor</trd>,
+    <trd>roztržka</trd>,
+    <trd>spor</trd>,
+    <trd>střetnutí</trd>,
+    <trd>svár</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Konflikt</trd>,
     <trd>Streit</trd>,
@@ -106,6 +115,12 @@ Radio Internacia</url></lok>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_n;&c_f;&c_l;&c_i;&c_k;&c_t;</trd>,
     <trd>&c_s;&c_t;&c_o;&c_l;&c_k;&c_n;&c_o;&c_v;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konflikt</trd>,
+    <trd>nezhoda</trd>,
+    <trd>rozpor</trd>,
+    <trd>spor</trd>
   </trdgrp>
   <trd lng="tp">utala</trd>
 </drv>
@@ -276,6 +291,11 @@ ref="http://ourworld.compuserve.com/homepages/profcon/e_divid.htm">http://ourwor
     </refgrp>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_n;&c_f;&c_l;&c_ib;&c_k;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>být ve sporu</trd>,
+    <trd>odporovat</trd>,
+    <trd>znesvářit se</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>einen <ind>Konflikt austragen</ind></trd>,
     <trd>streiten</trd>,
@@ -306,6 +326,10 @@ ref="http://ourworld.compuserve.com/homepages/profcon/e_divid.htm">http://ourwor
     <trd>&c_v;&c_o;&c_j;&c_t;&c_i; &c_v;
 &c_k;&c_o;&c_n;&c_f;&c_l;&c_i;&c_k;&c_t;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>byť v rozpore</trd>,
+    <trd>konflikte</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konfli.ek0i">
@@ -317,11 +341,13 @@ ref="http://ourworld.compuserve.com/homepages/profcon/e_divid.htm">http://ourwor
     </dif>
     <ref tip="sin" cel="konfli.veni_en_0on">veni en <tld/>on</ref>
   </snc>
+  <trd lng="cs">dostat se do konfliktu</trd>
   <trdgrp lng="fr">
     <trd>se prendre de <ind>querelle</ind></trd>,
     <trd>entrer en <ind>conflit</ind></trd>
   </trdgrp>
   <trd lng="nl">een <ind>conflict</ind> aangaan</trd>
+  <trd lng="sk">dostať sa do konfliktu</trd>
 </drv>
 
 <drv mrk="konfli.anim0o">
@@ -347,11 +373,13 @@ Literatura Revuo</url></lok>
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">duševní rozpolcení</trd>
   <trdgrp lng="fr">
     <trd><ind>conflit</ind> int&eacute;rieur</trd>,
     <trd><ind>cas</ind> de conscience</trd>
   </trdgrp>
   <trd lng="nl">gewetensconflict</trd>
+  <trd lng="sk">duševné rozpoltenie</trd>
 </drv>
 
 <drv mrk="konfli.labor0o">
@@ -400,6 +428,12 @@ ref="http://eo.mondediplo.com/article2.html">2002-09</url></lok>
 </art>
 <!--
 $Log: konfli.xml,v $
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2009/09/05 16:31:33  revo
 Paul Peeraerts: +nl
 

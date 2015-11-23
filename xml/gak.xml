@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gak.xml,v 1.11 2013/10/11 08:10:11 revo Exp $">
+<art mrk="$Id: gak.xml,v 1.13 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <rad>gak</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -18,15 +18,17 @@
   </snc>
   <trd lng="bg">&c_k;&c_u;&c_d;&c_k;&c_u;&c_d;&c_ja;&c_k;&c_a;&c_m;</trd>
   <trd lng="ca">clacar</trd>
+  <trd lng="cs">kejhat</trd>
   <trd lng="de">gackern</trd>
   <trd lng="en">cackle</trd>
   <trd lng="fr">cancaner</trd>
-  <trd lng="hu">g&aacute;gog</trd>  
+  <trd lng="hu">g&aacute;gog</trd>
   <trdgrp lng="nl">
     <trd>gakken</trd>,
     <trd>kakelen</trd>
   </trdgrp>
   <trd lng="pt">grasnar</trd>
+  <trd lng="sk">gágať</trd>
 </drv>
 
 <drv mrk="gak.gik0">
@@ -55,11 +57,19 @@
   <trd lng="de">Gak-gak</trd>
   <trd lng="fr">coin-coin</trd>
   <trd lng="hu">g&aacute;-g&aacute;</trd>  
+  <trd lng="sk">citoslovce hlasu kačice</trd>
+  <trd lng="cs">citoslovce hlasu kachny gagaga</trd>
 </drv>
 </art>
 
 <!--
 $Log: gak.xml,v $
+Revision 1.13  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2013/10/11 08:10:11  revo
 Jeromo Vasxe: - streketo
 

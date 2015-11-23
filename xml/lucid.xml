@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lucid.xml,v 1.3 2014/06/02 16:10:14 revo Exp $">
+<art mrk="$Id: lucid.xml,v 1.5 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>lucid</rad>/a <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -30,16 +30,32 @@
       </fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>jasný</trd>,
+    <trd>lucidní</trd>,
+    <trd>světlý</trd>
+  </trdgrp>
   <trd lng="fr">lucide</trd>
   <trdgrp lng="nl">
     <trd>scherpzinnig<klr tip="ind"> (zeldz.)</klr></trd>,
     <trd>lucide<klr tip="ind"> (zeldz.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>jasný</trd>,
+    <trd>lucidný</trd>,
+    <trd>svetlý</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: lucid.xml,v $
+Revision 1.5  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.3  2014/06/02 16:10:14  revo
 Damien Brucker: +trd fr
 

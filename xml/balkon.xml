@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: balkon.xml,v 1.16 2014/11/01 19:10:16 revo Exp $">
+<art mrk="$Id: balkon.xml,v 1.18 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>balkon</rad>/o <fnt><bib>PV</bib></fnt>
@@ -25,6 +25,7 @@
   <trd lng="be">&c_b;&c_a;&c_l;&c_k;&c_o;&c_n;</trd>
   <trd lng="bg">&c_b;&c_a;&c_l;&c_k;&c_o;&c_n;</trd>
   <trd lng="ca">balc&oacute;</trd>
+  <trd lng="cs">balkón</trd>
   <trd lng="de">Balkon</trd>
   <trd lng="en">balcony</trd>
   <trd lng="es">balc&oacute;n</trd>
@@ -37,12 +38,22 @@
   <trd lng="nl">balkon</trd>
   <trd lng="pl">balkon</trd>
   <trd lng="ru">&c_b;&c_a;&c_l;&c_k;&c_o;&c_n;</trd>
-  <trd lng="sk">balk&oacute;n</trd>
+  <trdgrp lng="sk">
+    <trd>balk&oacute;n</trd>,
+    <trd>balkón</trd>,
+    <trd>pavlač</trd>
+  </trdgrp>
   <trd lng="tr">balkon</trd>
 </drv>
 </art>
 <!--
 $Log: balkon.xml,v $
+Revision 1.18  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2014/11/01 19:10:16  revo
 Jeromo Vasxe: + mrk
 

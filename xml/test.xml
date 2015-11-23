@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: test.xml,v 1.16 2012/08/13 20:10:46 revo Exp $">
+<art mrk="$Id: test.xml,v 1.18 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>test</rad>/i
 </kap>
@@ -27,15 +27,26 @@
     </dif>
   </snc>
   <trd lng="ca">testar</trd>
+  <trdgrp lng="cs">
+    <trd>prověřovat</trd>,
+    <trd>testovat</trd>,
+    <trd>vyzkoušet na</trd>,
+    <trd>zkoušet</trd>
+  </trdgrp>
   <trd lng="de">testen</trd>
   <trd lng="en">test</trd>
-  <trd lng="fr">tester</trd>
-  <trd lng="pl">testowa&cacute;</trd>
   <trdgrp lng="es">
     <trd>probar</trd>,
     <trd>examinar</trd>,
     <trd>evaluar</trd>,
     <trd>testear</trd>
+  </trdgrp>
+  <trd lng="fr">tester</trd>
+  <trd lng="pl">testowa&cacute;</trd>
+  <trdgrp lng="sk">
+    <trd>preverovať</trd>,
+    <trd>skúšať</trd>,
+    <trd>testovať</trd>
   </trdgrp>
 </drv>
 
@@ -126,6 +137,12 @@
 </art>
 <!--
 $Log: test.xml,v $
+Revision 1.18  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2012/08/13 20:10:46  revo
 Marc Rausell: + trd ca
 

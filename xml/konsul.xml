@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konsul.xml,v 1.21 2013/08/16 07:10:13 revo Exp $">
+<art mrk="$Id: konsul.xml,v 1.23 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>konsul</rad>/o
@@ -26,6 +26,10 @@
   <trd lng="be">&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;</trd>
   <trd lng="bg">&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;</trd>
   <trd lng="ca">c&ograve;nsol</trd>
+  <trdgrp lng="cs">
+    <trd>konzul</trd>,
+    <trd>konzulár</trd>
+  </trdgrp>
   <trd lng="de">Konsul</trd>
   <trd lng="en">consul</trd>
   <trd lng="es">C&oacute;nsul</trd>
@@ -37,6 +41,7 @@
   <trd lng="nl">consul</trd>
   <trd lng="pt">c&ocirc;nsul</trd>
   <trd lng="ru">&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;</trd>
+  <trd lng="sk">konzul</trd>
 </drv>
 
 <drv mrk="konsul.0ejo">
@@ -59,6 +64,10 @@
   </trdgrp>
   <trd lng="bg">&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;&c_s;&c_t;&c_v;&c_o;</trd>
   <trd lng="ca">consolat</trd>
+  <trdgrp lng="cs">
+    <trd>konzulární úřad</trd>,
+    <trd>konzulát</trd>
+  </trdgrp>
   <trd lng="de">Konsulat</trd>
   <trd lng="en">consulate</trd>
   <trd lng="es">Consulado</trd>
@@ -69,10 +78,17 @@
   <trd lng="hu">konzul&aacute;tus</trd>
   <trd lng="nl">consulaat</trd>
   <trd lng="ru">&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="sk">konzulát</trd>
 </drv>
 </art>
 <!--
 $Log: konsul.xml,v $
+Revision 1.23  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2013/08/16 07:10:13  revo
 Joop Eggen: +trd bg
 

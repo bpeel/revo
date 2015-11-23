@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kart.xml,v 1.41 2014/09/15 12:10:13 revo Exp $">
+<art mrk="$Id: kart.xml,v 1.44 2015/07/04 17:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kart</rad>/o <fnt><bib>PV</bib></fnt>
@@ -153,15 +153,24 @@
     <trdgrp lng="nl">
       <trd>landkaart<klr tip="ind"> (ontr.)</klr></trd>,
     </trdgrp>
-  </snc>                      
+  </snc>
   <trd lng="br">kartenn</trd>
   <trd lng="ca">carta</trd>
-  <trd lng="cs">l&iacute;stek</trd>
+  <trdgrp lng="cs">
+    <trd>deska p&rcaron;en. plo&scaron;n&yacute; spoj</trd>,
+    <trd>l&iacute;stek</trd>,
+    <trd>panel</trd>
+  </trdgrp>
   <trd lng="de">Karte</trd>
   <trd lng="en">card</trd>
   <trd lng="fr">carte</trd>
   <trd lng="hu">k&aacute;rtya</trd>
   <trd lng="pl">karta<klr> (przest.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>doska</trd>,
+    <trd>panel</trd>,
+    <trd>plo&scaron;n&yacute; spoj</trd>
+  </trdgrp>
   <trd lng="tp">lipu</trd>
   <trd lng="tr">kart</trd>
 </drv>
@@ -173,22 +182,24 @@
     <dif>
       Kompleto el lud<tld/>oj, tradicie 32 a&ubreve; 52.
     </dif>
-  </snc>                          
+  </snc>
   <trd lng="br">c'hoari garto&ugrave;</trd>
   <trdgrp lng="ca">
     <trd>baralla</trd>,
     <trd>naips</trd>
   </trdgrp>
+  <trd lng="cs">zem&ecaron;pisn&yacute; atlas</trd>
   <trd lng="de">Kartenspiel</trd>
   <trd lng="en">card deck</trd>
   <trd lng="es">baraja <klr tip="amb">(compilaci&oacute;n de
   naipes)</klr></trd>
-  <trd lng="nl">spel <ind>kaarten</ind></trd>
   <trd lng="fr">jeu de cartes<klr tip="ind"> (ensemble de
   cartes)</klr></trd>
   <trd lng="hu">k&aacute;rtya<klr tip="amb"> (egy csomag)</klr></trd>
+  <trd lng="nl">spel <ind>kaarten</ind></trd>
   <trd lng="pl">talia<klr tip="amb"> kart</klr></trd>
   <trd lng="ru">&c_k;&c_o;&c_l;&c_o;&c_d;&c_a; <klr>(&c_k;&c_a;&c_r;&c_t;)</klr></trd>
+  <trd lng="sk">zemepisn&yacute; atlas</trd>
   <trd lng="tr">oyun kart&inodot;</trd>
 </drv>
 
@@ -202,6 +213,7 @@
     </dif>
   </snc>
   <trd lng="ca">targeta de votant</trd>
+  <trd lng="cs">voli&ccaron;sk&yacute; pr&uring;kaz</trd>
   <trd lng="de">Wahlschein</trd>
   <trd lng="fr">carte d'&eacute;lecteur</trd>
   <trd lng="hu">v&aacute;laszt&oacute;i igazolv&aacute;ny</trd>
@@ -212,6 +224,7 @@
     &c_i;&c_z;&c_b;&c_i;&c_r;&c_a;&c_t;&c_je;&c_l;&c_ja;</trd>;
     <trd>&c_o;&c_t;&c_k;&c_r;&c_je;&c_p;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_t;&c_a;&c_l;&c_o;&c_n;</trd>
   </trdgrp>
+  <trd lng="sk">voli&ccaron;sk&yacute; preukaz</trd>
   <trd lng="tr">se&ccedil;men kart&inodot;</trd>
 </drv>
 
@@ -225,12 +238,13 @@
       destinita por adreso kaj mesa&gcirc;o, cetere uzata kiel objekto
       de kolektado, memora&jcirc;o ktp.
     </dif>
-  </snc>                           
+  </snc>
   <trd lng="br">kartenn-bost skeudennaouet</trd>
   <trdgrp lng="ca">
     <trd>postal</trd>,
     <trd>targeta postal</trd>
   </trdgrp>
+  <trd lng="cs">pohlednice</trd>
   <trd lng="de">Ansichtskarte</trd>
   <trd lng="en">postcard</trd>
   <trd lng="es">postal<klr tip="amb"> (tarjeta postal)</klr></trd>
@@ -244,7 +258,9 @@
     <trd>poczt&oacute;wka</trd>,
     <trd>widok&oacute;wka</trd>
   </trdgrp>
+  <trd lng="ro">ilustrat&abreve;</trd>
   <trd lng="ru">&c_o;&c_t;&c_k;&c_r;&c_y;&c_t;&c_k;&c_a;</trd>
+  <trd lng="sk">poh&lcaron;adnica</trd>
   <trd lng="tr">posta kart&inodot;</trd>
 </drv>
 
@@ -262,6 +278,7 @@
     <trd>placa</trd>,
     <trd>placa de circuit</trd>
   </trdgrp>
+  <trd lng="cs">deska plo&scaron;n&eacute;ho spoje osazen&aacute; sou&ccaron;&aacute;stkami</trd>
   <trd lng="de">Platine</trd>
   <trd lng="en">circuit board</trd>
   <trdgrp lng="es">
@@ -272,13 +289,14 @@
     <trd>circuit imprim&eacute;</trd>,
     <trd>carte<klr> (&eacute;lectronique)</klr></trd>
   </trdgrp>
-  <trd lng="hu">&aacute;ramk&ouml;ri <ind>lap</ind></trd> 
-  <trd lng="nl">printplaat</trd> 
+  <trd lng="hu">&aacute;ramk&ouml;ri <ind>lap</ind></trd>
+  <trd lng="nl">printplaat</trd>
   <trdgrp lng="pl">
     <trd>p&lstroke;yta<klr> monta&zdot;owa</klr></trd>,
     <trd>karta</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_o;&c_n;&c_t;&c_a;&c_zh;&c_n;&c_a;&c_ja; &c_p;&c_l;&c_a;&c_t;&c_a;</trd>
+  <trd lng="sk">doska plo&scaron;n&eacute;ho spoja osaden&aacute; s&uacute;&ccaron;iastkami</trd>
 </drv>
 
 <drv mrk="kart.kredit0o">
@@ -290,14 +308,18 @@
       el fiksita kredito a&ubreve; el bankokonto,
       ordinare uzebla nur kun sekreta numero.
     </dif>
-  </snc>                          
+  </snc>
   <trd lng="br">kartenn-gred</trd>
   <trd lng="ca"><ind>targeta</ind> de cr&egrave;dit</trd>
+  <trdgrp lng="cs">
+    <trd>kreditn&iacute; karta</trd>,
+    <trd>&uacute;v&ecaron;rov&aacute; karta</trd>
+  </trdgrp>
   <trd lng="de">Kreditkarte</trd>
   <trd lng="en">credit card</trd>
   <trd lng="es">tarjeta de cr&eacute;dito</trd>
   <trd lng="fr">carte de cr&eacute;dit</trd>
-  <trd lng="hu">hitelk&aacute;rtya</trd>  
+  <trd lng="hu">hitelk&aacute;rtya</trd>
   <trdgrp lng="nl">
     <trd>kredietkaart</trd>,
     <trd>creditcard</trd>
@@ -308,6 +330,7 @@
     <trd><ind>karta</ind> debetowa</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_r;&c_je;&c_d;&c_i;&c_t;&c_n;&c_a;&c_ja; &c_k;&c_a;&c_r;&c_t;&c_o;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="sk">kreditn&aacute; karta</trd>
   <trd lng="sv">kreditkort</trd>
   <trd lng="tr">kredi kart&inodot;</trd>
 </drv>
@@ -328,12 +351,13 @@
     <refgrp tip="sin">
       <ref cel="kart.0o.SPO">karto <sncref/></ref>
     </refgrp>
-  </snc>             
+  </snc>
   <trd lng="br">kartenn-c'hoari</trd>
   <trdgrp lng="ca">
     <trd>carta</trd>,
     <trd>naip</trd>
   </trdgrp>
+  <trd lng="cs">hrac&iacute; karta</trd>
   <trd lng="de">Spielkarte</trd>
   <trd lng="en">playing card</trd>
   <trdgrp lng="es">
@@ -349,6 +373,7 @@
   </trdgrp>
   <trd lng="pl">karta<klr> do gry</klr></trd>
   <trd lng="ru">&c_i;&c_g;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_k;&c_a;&c_r;&c_t;&c_a;</trd>
+  <trd lng="sk">hracia karta</trd>
 </drv>
 
 <drv mrk="kart.mangxo0o">
@@ -452,6 +477,7 @@
   </trdgrp>
   <trdgrp lng="pl">
     <trd>poczt&oacute;wka</trd>
+    <trd>karta pocztowa</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_ch;&c_t;&c_o;&c_v;&c_a;&c_ja; &c_k;&c_a;&c_r;&c_t;&c_o;&c_ch;&c_k;&c_a;</trd>
   <trd lng="sv">vykort</trd>
@@ -507,9 +533,13 @@
     <trd>targeta personal</trd>,
     <trd>targeta comercial</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nav&scaron;t&iacute;venka</trd>,
+    <trd>vizitka</trd>
+  </trdgrp>
   <trd lng="de">Visitenkarte</trd>
   <trd lng="en">business card</trd>
-    <trdgrp lng="es">
+  <trdgrp lng="es">
     <trd>tarjeta de visita</trd>,
     <trd>tarjeta de presentaci&oacute;n</trd>,
     <trd>papeleta <klr>(Lat.Am.)</klr></trd>
@@ -528,6 +558,10 @@
     <trd>&c_v;&c_i;&c_z;&c_i;&c_t;&c_n;&c_a;&c_ja; &c_k;&c_a;&c_r;&c_t;&c_o;&c_ch;&c_k;&c_a;</trd>,
     <trd>&c_v;&c_i;&c_z;&c_i;&c_t;&c_k;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nav&scaron;t&iacute;venka</trd>,
+    <trd>vizitka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kart.0ludo">
@@ -541,9 +575,10 @@
       <ref tip="sub" cel="brigx.0o">bri&gcirc;o</ref> kaj diversaj
       hazardludoj.
     </dif>
-  </snc>                        
+  </snc>
   <trd lng="br">c'hoari garto&ugrave;</trd>
   <trd lng="ca">joc de cartes</trd>
+  <trd lng="cs">hra v karty</trd>
   <trd lng="de">Kartenspiel</trd>
   <trd lng="en">card game</trd>
   <trdgrp lng="es">
@@ -559,10 +594,20 @@
   <trd lng="nl">kaartspel</trd>
   <trd lng="pl">gra w <ind>karty</ind></trd>
   <trd lng="ru">&c_k;&c_a;&c_r;&c_t;&c_o;&c_ch;&c_n;&c_a;&c_ja; &c_i;&c_g;&c_r;&c_a;</trd>
+  <trd lng="sk">hra v karty</trd>
 </drv>
 </art>
 <!--
 $Log: kart.xml,v $
+Revision 1.44  2015/07/04 17:10:15  revo
+Vito Redsky: +trd pl ro
+
+Revision 1.43  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.42  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.41  2014/09/15 12:10:13  revo
 Norbert Luckhardt: +trd/klr/kor ES
 
@@ -576,14 +621,5 @@ Revision 1.38  2012/09/02 09:10:17  revo
 Marc Rausell: + trd ca
 
 Revision 1.37  2009/08/27 16:32:04  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.36  2009/08/23 16:34:13  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.35  2009/07/01 17:21:54  revo
-Russ Williams: +trd en
-
-Revision 1.34  2009/02/19 20:26:24  revo
 -->
 </vortaro>

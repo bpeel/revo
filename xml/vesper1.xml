@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vesper1.xml,v 1.18 2014/06/30 15:10:29 revo Exp $">
+<art mrk="$Id: vesper1.xml,v 1.21 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vespert</rad>/oj
@@ -15,17 +15,20 @@
       Iu el <ref tip="malprt" cel="vesper1.0oj"><tld/>oj</ref>.
     </dif>
   </snc>
+  <trd lng="cs">netopýr</trd>
   <trdgrp lng="es">
     <trd>murci&eacute;lago</trd>,
     <trd>quir&oacute;ptero</trd>
   </trdgrp>
+  <trd lng="fr">chauve-souris</trd>
   <trd lng="id">kelelawar</trd>
+  <trd lng="sk">netopier</trd>
 </drv>
 
 <drv mrk="vesper1.0oj">
   <kap><ofc>*</ofc><tld/>oj</kap>
-  <uzo tip="fak">ZOO</uzo>
   <snc>
+  <uzo tip="fak">ZOO</uzo>
     <dif>
       Ordo el la klaso <ref tip="malprt" cel="mam.0uloj">mamuloj</ref>
       (<trd lng="la">Chiroptera</trd>), povantaj flugi:
@@ -52,9 +55,7 @@
   <trd lng="en">bats</trd>
   <trd lng="es">murci&eacute;lagos<klr tip="amb"> (Orden de los
   quir&oacute;pteros)</klr></trd>
-  <trdgrp lng="fr">
-    <trd>chauve-souris</trd>
-  </trdgrp>
+  <trd lng="fr">chiropt&egrave;res</trd>
   <trd lng="hu">denev&eacute;rek<klr tip="ind"> (rend)</klr></trd>
   <trd lng="nl">vleermuizen<klr tip="ind"> (orde)</klr></trd>
   <trdgrp lng="ru">
@@ -65,6 +66,15 @@
 </art>
 <!--
 $Log: vesper1.xml,v $
+Revision 1.21  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/12/21 19:10:21  revo
+Damien Brucker: +trd fr
+
 Revision 1.18  2014/06/30 15:10:29  revo
 Eko Nur Syah Hidayat: +id
 
@@ -84,8 +94,5 @@ Revision 1.13  2010/10/07 16:30:26  revo
 Agustin Garcia Lopez: +trd es
 
 Revision 1.12  2004/07/29 16:31:32  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2002/10/23 20:40:52  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ares.xml,v 1.9 2013/09/04 14:10:18 revo Exp $">
+<art mrk="$Id: ares.xml,v 1.11 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>Ares</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -19,23 +19,33 @@
   </snc>
   <trd lng="be">&c_A;&c_r;&c_e;&c_s;</trd>
   <trd lng="bg">&c_A;&c_r;&c_je;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>Ares</trd>,
+    <trd>Áres</trd>
+  </trdgrp>
   <trd lng="de">Ares</trd>
-  <trd lng="en">Ares</trd>
   <trd lng="el">&Alfa_acute;&rho;&eta;&sigma_fina;</trd>
+  <trd lng="en">Ares</trd>
   <trd lng="fr">Ar&egrave;s</trd>
   <trd lng="it">Ares</trd>
   <trd lng="nl">Ares</trd>
   <trd lng="pl">Ares</trd>
   <trd lng="pt">Ares</trd>
   <trd lng="ru">&c_A;&c_r;&c_je;&c_s;</trd>
-  <adm>
-    Indas kontroli la grekan tradukon kaj aldoni la klasikan grekan.
-    <aut>JF</aut>
-  </adm>
+  <trdgrp lng="sk">
+    <trd>Ares</trd>,
+    <trd>Áres</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ares.xml,v $
+Revision 1.11  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2013/09/04 14:10:18  revo
 Joop Eggen: +trd bg en nl
 

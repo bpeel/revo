@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: invit.xml,v 1.24 2014/05/31 16:10:32 revo Exp $">
+<art mrk="$Id: invit.xml,v 1.27 2015/10/13 12:10:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>invit</rad>/i
@@ -87,7 +87,11 @@
     <trd>&c_p;&c_o;&c_k;&c_a;&c_n;&c_ja;</trd>
   </trdgrp>
   <trdgrp lng="cs">
+    <trd>obeslat</trd>,
+    <trd>povolat</trd>,
     <trd>pozvat</trd>,
+    <trd>p&rcaron;edvolat</trd>,
+    <trd>vyzvat aby se dostavil</trd>,
     <trd>zv&aacute;t</trd>
   </trdgrp>
   <trd lng="de">einladen</trd>
@@ -105,6 +109,10 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_i;&c_g;&c_l;&c_a;&c_sh;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_g;&c_l;&c_a;&c_s;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>povola&tcaron;</trd>,
+    <trd>predvola&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -126,6 +134,7 @@
     </dif>
     <trd lng="bg">&c_p;&c_o;&c_k;&c_a;&c_n;&c_a;</trd>
     <trd lng="de">Einladung</trd>
+    <trd lng="en">invitation</trd>
     <trd lng="es">invitaci&oacute;n</trd>
     <trd lng="fa">&a_d;&a_ayn;&a_w;&a_t;</trd>
     <trdgrp lng="fr">
@@ -168,12 +177,33 @@
   </snc>
   <trd lng="be">
   &c_z;&c_a;&c_p;&c_r;&c_a;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>obesl&aacute;n&iacute;</trd>,
+    <trd>pozv&aacute;n&iacute;</trd>,
+    <trd>p&rcaron;edvol&aacute;n&iacute;</trd>,
+    <trd>vyzv&aacute;n&iacute;</trd>,
+    <trd>v&yacute;zva k dostaven&iacute; se</trd>
+  </trdgrp>
   <trd lng="ru">
   &c_p;&c_r;&c_i;&c_g;&c_l;&c_a;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>pozvanie</trd>,
+    <trd>predvolanie</trd>,
+    <trd>vyzvanie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: invit.xml,v $
+Revision 1.27  2015/10/13 12:10:29  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.26  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2014/05/31 16:10:32  revo
 Eko Nur Syah Hidayat: +id
 
@@ -187,14 +217,5 @@ Revision 1.21  2008/06/02 16:30:28  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.20  2008/01/17 17:30:25  revo
-Wieland Pusch: +trd bg (de Joop Eggen)
-
-Revision 1.19  2005/12/06 17:34:18  revo
-Luiz Portella: +trd pt
-
-Revision 1.18  2004/02/18 17:38:05  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.17  2003/11/29 20:07:12  revo
 -->
 </vortaro>

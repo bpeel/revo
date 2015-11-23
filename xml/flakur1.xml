@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flakur1.xml,v 1.6 2013/08/25 14:10:21 revo Exp $">
+<art mrk="$Id: flakur1.xml,v 1.8 2015/09/30 06:10:14 revo Exp $">
 <kap>
   <rad>flakurtiac</rad>/oj
 </kap>
@@ -19,11 +19,13 @@
       tropikaj plantoj (<trd lng="la">Flacourtiaceae</trd>).
     </dif>
   </snc>
+  <trd lng="en">Flacourtiaceae <klr>(defunct)</klr></trd>
   <trd lng="de">Flacourtiengew&auml;chse</trd>
   <trdgrp lng="hu">
     <trd>maronszilvaf&eacute;l&eacute;k</trd>,
     <trd>maroncsif&eacute;l&eacute;k</trd>
   </trdgrp>
+  <trd lng="pl">wierzbowate</trd>
   <trdgrp lng="pt">
     <trd>flacourti&aacute;ceas</trd>,
     <trd>flacurti&aacute;ceas</trd>
@@ -34,6 +36,12 @@
 
 <!--
 $Log: flakur1.xml,v $
+Revision 1.8  2015/09/30 06:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.7  2015/09/17 22:10:16  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.6  2013/08/25 14:10:21  revo
 Wolfram Diestel: referencoj al listo bot familioj
 

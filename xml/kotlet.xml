@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kotlet.xml,v 1.13 2006/11/09 17:30:47 revo Exp $">
+<art mrk="$Id: kotlet.xml,v 1.16 2015/07/04 08:37:38 revo Exp $">
 <kap><ofc>1</ofc>
 <rad>kotlet</rad>/o</kap>
 <drv mrk="kotlet.0o">
@@ -14,6 +14,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_t;&c_l;&c_je;&c_t;&c_a;</trd>
+  <trd lng="cs">kotleta</trd>
   <trdgrp lng="de">
     <trd>Kotelett [kun ripo]</trd>,
     <trd>Schnitzel [sen ripo]</trd>
@@ -28,23 +29,35 @@
     <trd>bordaszelet</trd>,
     <trd>karaj</trd>,
     <trd>kotlett</trd>
-  </trdgrp>  
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>kotelet</trd>,
     <trd>ribkarbonade</trd>
   </trdgrp>
+  <trd lng="pl">kotlet</trd>
   <trdgrp lng="pt">
     <trd>costeleta</trd>,
     <trd>costelinha</trd>
   </trdgrp>
+  <trd lng="ro">cotlet</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_t;&c_l;&c_je;&c_t;&c_a;</trd>,
     <trd>&c_o;&c_t;&c_b;&c_i;&c_v;&c_n;&c_a;&c_ja;</trd>
   </trdgrp>
+  <trd lng="sk">kotleta <klr>(kuch)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: kotlet.xml,v $
+Revision 1.16  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2015/04/26 16:10:16  revo
+Vito Redsky: trd pl trd ro
+
 Revision 1.13  2006/11/09 17:30:47  revo
 Tulio Flores: +tr pt
 
@@ -64,9 +77,5 @@ Revision 1.8 2002/03/07 18:09:02 revo
 Alejandro Mejia Greene: ald his trd
 
 Revision 1.7 2001/11/05 19:12:12 revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/05/07 16:12:43 revo
 -->
 </vortaro>
-

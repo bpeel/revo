@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: japan.xml,v 1.13 2014/07/08 07:10:18 revo Exp $">
+<art mrk="$Id: japan.xml,v 1.15 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>japan</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -42,6 +42,7 @@
     </dif>
   </snc>
   <trd lng="bg">&c_ja;&c_p;&c_o;&c_n;&c_s;&c_k;&c_i;</trd>
+  <trd lng="cs">japonsky</trd>
   <trd lng="de">japanisch</trd>
   <trd lng="en">Japanese</trd>
   <trd lng="fr">japonais<klr> (adj.)</klr></trd>
@@ -50,6 +51,7 @@
   <trd lng="nl">Japans</trd>
   <trd lng="pl">japo&nacute;ski</trd>
   <trd lng="pt">Japon&ecirc;s</trd>
+  <trd lng="sk">japonský</trd>
   <trd lng="sv">japansk</trd>
 </drv>
 
@@ -94,6 +96,12 @@
 
 <!--
 $Log: japan.xml,v $
+Revision 1.15  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2014/07/08 07:10:18  revo
 Damien Brucker: +fak +trd fr
 

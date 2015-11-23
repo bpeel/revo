@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: divid.xml,v 1.37 2012/01/01 15:10:09 revo Exp $">
+<art mrk="$Id: divid.xml,v 1.39 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>divid</rad>/i <fnt><bib>PV</bib></fnt>
@@ -135,7 +135,12 @@
     <trd lng="hu">megoszt</trd>
   </snc>
   <trd lng="ca">dividir</trd>
-  <trd lng="cs">d&ecaron;lit</trd>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;lit</trd>,
+    <trd>dělit</trd>,
+    <trd>rozdělit</trd>,
+    <trd>členit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>teilen</trd>
     <!-- trd>dividieren <klr>(en matematiko)</klr></trd -->
@@ -156,6 +161,10 @@
     <trd>desmembrar</trd>
   </trdgrp>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>deliť</trd>,
+    <trd>členiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="divid.0o">
@@ -238,10 +247,18 @@
     <trd lng="pl">dzielenie</trd>
   </snc>
   <trd lng="ca">divisi&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>dělení</trd>,
+    <trd>rozdělení</trd>
+  </trdgrp>
   <trd lng="de">Division</trd>
   <trd lng="en">division</trd>
   <trd lng="es">divisi&oacute;n</trd>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je; <klr>(&c_t;&c_o;&c_ch;&c_n;&c_o;&c_je;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>delenie</trd>,
+    <trd>rozdelenie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="divid.0ajxo">
@@ -286,14 +303,16 @@
     </dif>
   </snc>
   <trd lng="ca">divisor</trd>
+  <trd lng="cs">dělitel</trd>
   <trd lng="de">Divisor</trd>
   <trd lng="en">divisor<klr tip="ind"> (in a division)</klr></trd>
   <trd lng="es">divisor</trd>
   <trd lng="fr">diviseur<klr tip="ind"> (dans une division)</klr></trd>
-  <trd lng="hu">oszt&oacute;</trd>  
+  <trd lng="hu">oszt&oacute;</trd>
   <trd lng="pl">dzielnik<klr tip="ind"> (w dzia&lstroke;aniu
   dzielenia)</klr></trd>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;<klr tip="ind"> (&c_p;&c_r;&c_i; &c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_i;)</klr></trd>
+  <trd lng="sk">deliteľ</trd>
 </drv>
 
 <drv mrk="divid.0ato">
@@ -306,13 +325,18 @@
     </dif>
   </snc>
   <trd lng="ca">dividend</trd>
+  <trdgrp lng="cs">
+    <trd>dělenec</trd>,
+    <trd>čitatel</trd>
+  </trdgrp>
   <trd lng="de">Dividend</trd>
   <trd lng="en">dividend</trd>
   <trd lng="es">dividendo</trd>
   <trd lng="fr">dividende<klr tip="ind"> (dans une division)</klr></trd>
-  <trd lng="hu">osztand&oacute;</trd>  
+  <trd lng="hu">osztand&oacute;</trd>
   <trd lng="pl">dzielna</trd>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_m;&c_o;&c_je;</trd>
+  <trd lng="sk">delenec</trd>
 </drv>
 
 <drv mrk="divid.0ebla">
@@ -371,15 +395,17 @@
     </rim>  
   </snc>
   <trd lng="ca">divisible</trd>
+  <trd lng="cs">dělitelný</trd>
   <trd lng="de">teilbar</trd>
   <trd lng="en">divisible</trd>
   <trd lng="es">divisible</trd>
   <trd lng="fr">divisible</trd>
-  <trd lng="hu">oszthat&oacute;</trd>  
+  <trd lng="hu">oszthat&oacute;</trd>
   <trdgrp lng="pl">
     <trd>dzielny</trd>,
-    <trd>podzielny</trd></trdgrp> 
+    <trd>podzielny</trd></trdgrp>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_m;&c_y;&c_j;</trd>
+  <trd lng="sk">deliteľný</trd>
 </drv>
 
 <drv mrk="divid.cxel0igxo">
@@ -425,12 +451,14 @@
     <ref tip="dif" cel="divid.euxklida0o">e&ubreve;klida <tld/>o.</ref>
   </snc>
   <trd lng="ca">divisi&oacute; entera</trd>
+  <trd lng="cs">dělení se zbytkem</trd>
   <trd lng="de">Division mit Rest</trd>
   <trd lng="en">division with remainder</trd>
   <trd lng="fr">division euclidienne</trd>
+  <trd lng="hu">marad&eacute;kos <ind>oszt&aacute;s</ind></trd>
   <trd lng="pl">dzielenie z reszt&aogonek;</trd>
-  <trd lng="hu">marad&eacute;kos <ind>oszt&aacute;s</ind></trd>  
   <trd lng="ru">&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je; &c_s; &c_o;&c_s;&c_t;&c_a;&c_t;&c_k;&c_o;&c_m;</trd>
+  <trd lng="sk">delenie so zvyškom</trd>
 </drv>
 
 <drv mrk="divid.euxklida0o">
@@ -492,6 +520,12 @@
 </art>
 <!--
 $Log: divid.xml,v $
+Revision 1.39  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.38  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.37  2012/01/01 15:10:09  revo
 Marc Rausell: +trd ca
 

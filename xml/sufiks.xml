@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sufiks.xml,v 1.28 2014/05/22 19:10:13 revo Exp $">
+<art mrk="$Id: sufiks.xml,v 1.31 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sufiks</rad>/o <fnt><bib>PV</bib></fnt>
@@ -83,10 +83,16 @@
     <dif>
       <ref tip="super" cel="afiks.0o">Afikso</ref>, kiu metite post
       aliaj vorteroj &scirc;an&gcirc;as ties sencon;
-      <ref tip="sin" cel="afiks.post0o.GRA">postafisko</ref>.
+      <ref tip="sin" cel="afiks.post0o.GRA">postafikso</ref>.
     </dif>
-    <trd lng="be">&c_s;&c_u;&c_f;&c_ib;&c_k;&c_s;</trd> <trd lng="cs">p&rcaron;&iacute;pona</trd>
-    <trd lng="de">Suffix</trd> <trd lng="en">suffix</trd>
+    <trd lng="be">&c_s;&c_u;&c_f;&c_ib;&c_k;&c_s;</trd>
+    <trdgrp lng="bg">
+      <trd>&c_s;&c_u;&c_f;&c_i;&c_k;&c_s;</trd>,
+      <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_v;&c_k;&c_a;</trd>
+    </trdgrp>
+    <trd lng="cs">p&rcaron;&iacute;pona</trd>
+    <trd lng="de">Suffix</trd>
+    <trd lng="en">suffix</trd>
     <trd lng="es">sufijo</trd> 
     <trd lng="fa">&f_p;&a_s;&a_w;&a_n;&a_d;</trd>
     <trd lng="fr">suffixe</trd>
@@ -107,6 +113,15 @@
       <aut>wd</aut>
     </adm>
   </snc>
+  <trdgrp lng="cs">
+    <trd>prodloužení</trd>,
+    <trd>přípona souboru</trd>,
+    <trd>rozšíření</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prípona súboru</trd>,
+    <trd>rozšírenia</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sufiks.0ado">
@@ -127,6 +142,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>sufigace</trd>,
+    <trd>sufixace</trd>
+  </trdgrp>
   <trd lng="fr">suffixation</trd>
   <trd lng="it">suffissazione</trd>
   <trdgrp lng="nl">
@@ -134,6 +153,7 @@
     <trd>het gebruik van <ind>suffix</ind>en</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_u;&c_f;&c_f;&c_i;&c_k;&c_s;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">sufixácia</trd>
 </drv>
 
 <drv mrk="sufiks.0pseuxdo">
@@ -166,6 +186,15 @@
 </art>
 <!--
 $Log: sufiks.xml,v $
+Revision 1.31  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2015/05/27 17:10:16  revo
+Joop Eggen: +trd bg, korekto "afisko"
+
 Revision 1.28  2014/05/22 19:10:13  revo
 Damien Brucker: +ekz
 
@@ -185,8 +214,5 @@ Revision 1.23  2013/12/03 09:10:18  revo
 Damien Brucker: +pseuxdosufikso
 
 Revision 1.22  2011/06/22 18:10:18  revo
-Jeromo Vasxe: &amp;dash -> -
-
-Revision 1.21  2010/05/15 16:30:37  revo
 -->
 </vortaro>

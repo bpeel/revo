@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: akvari.xml,v 1.18 2012/08/13 20:10:29 revo Exp $">
+<art mrk="$Id: akvari.xml,v 1.19 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>akvari</rad>/o
@@ -20,13 +20,14 @@
     <trd>aquari</trd>,
     <trd>aqu&agrave;rium</trd>
   </trdgrp>
+  <trd lng="cs">akvárium</trd>
   <trd lng="en">aquarium</trd>
+  <trd lng="es">acuario</trd>
   <trdgrp lng="fa">
     <trd>&a_A_madda;&f_k;&a_w;&a_A;&a_r;&f_y;&a_w;&a_m;</trd>,
     <trd>&a_A_madda;&a_b;&a_z;&f_y;&a_d;&a_A;&a_n;</trd>
   </trdgrp>
   <trd lng="fr">aquarium</trd>
-  <trd lng="es">acuario</trd>
   <trd lng="hu">akv&aacute;rium</trd>
   <trd lng="it">acquario</trd>
   <trd lng="nl">aquarium</trd>
@@ -38,6 +39,9 @@
 </art>
 <!--
 $Log: akvari.xml,v $
+Revision 1.19  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.18  2012/08/13 20:10:29  revo
 Marc Rausell: + trd ca
 

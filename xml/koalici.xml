@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koalici.xml,v 1.3 2009/08/30 16:32:04 revo Exp $">
+<art mrk="$Id: koalici.xml,v 1.5 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>koalici</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -32,8 +32,10 @@
       </fnt>.
     </ekz>
   </snc>
+  <trd lng="cs">koalice stran</trd>
   <trd lng="nl">coalitie</trd>
   <trd lng="pt">coaliz&atilde;o</trd>
+  <trd lng="sk">koalícia</trd>
 </drv>
 
 <drv mrk="koalici.0i">
@@ -52,12 +54,20 @@
       </fnt>.
     </ekz>
   </snc>
+  <trd lng="cs">být v koalici</trd>
   <trd lng="nl">een <ind>coalitie</ind> sluiten</trd>
+  <trd lng="sk">byť v koalícií</trd>
 </drv>
 </art>
 
 <!--
 $Log: koalici.xml,v $
+Revision 1.5  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.3  2009/08/30 16:32:04  revo
 Paul Peeraerts: +trd nl
 

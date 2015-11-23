@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kvaran.xml,v 1.12 2012/07/31 08:10:10 revo Exp $">
+<art mrk="$Id: kvaran.xml,v 1.14 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kvaranten</rad>/o
@@ -24,6 +24,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_r;&c_a;&c_n;&c_t;&c_y;&c_n;</trd>
+  <trd lng="cs">karanténa</trd>
   <trd lng="de">Quarant&auml;ne</trd>
   <trd lng="en">quarantine</trd>
   <trdgrp lng="fr">
@@ -36,10 +37,17 @@
   <trd lng="nl">quarantaine</trd>
   <trd lng="pt">quarentena</trd>
   <trd lng="ru">&c_k;&c_a;&c_r;&c_a;&c_n;&c_t;&c_i;&c_n;</trd>
+  <trd lng="sk">karanténa</trd>
 </drv>
 </art>
 <!--
 $Log: kvaran.xml,v $
+Revision 1.14  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2012/07/31 08:10:10  revo
 Russ Williams: +trd en
 

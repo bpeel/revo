@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pec.xml,v 1.20 2012/10/13 17:10:12 revo Exp $">
+<art mrk="$Id: pec.xml,v 1.22 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pec</rad>/o <fnt><bib>PV</bib></fnt>
@@ -122,8 +122,10 @@
     </trdgrp>
   </snc>
   <trdgrp lng="cs">
+    <trd>kousek</trd>,
     <trd>kus</trd>,
-    <trd>kousek</trd>
+    <trd>věc</trd>,
+    <trd>část celku</trd>
   </trdgrp>
   <trd lng="en">piece</trd>
   <trdgrp lng="fr">
@@ -143,6 +145,7 @@
     <trd>trecho</trd>,
     <trd>caco</trd>    
   </trdgrp>
+  <trd lng="sk">kus</trd>
 </drv>
 
 <drv mrk="pec.0eto">
@@ -159,11 +162,16 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kousek</trd>,
+    <trd>kousíček</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>fragment</trd>,
     <trd>parcelle</trd>
   </trdgrp>
   <trd lng="nl">stukje</trd>
+  <trd lng="sk">kúsok</trd>
 </drv>
 
 <drv mrk="pec.0igi">
@@ -176,6 +184,14 @@
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_a;&c_b;&c_r;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_n;&c_je;&c_sh;&c_t;&c_a; &c_n;&c_a;
   &c_ch;&c_a;&c_s;&c_t;&c_k;&c_ib;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>drtit</trd>,
+    <trd>mlít</trd>,
+    <trd>rozbít na kusy</trd>,
+    <trd>rozkouskovat</trd>,
+    <trd>rozmělňovat</trd>,
+    <trd>šrotovat</trd>
+  </trdgrp>
   <trd lng="es">fragmentar</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;sosser<klr> (fig.)</klr></trd>,
@@ -183,6 +199,10 @@
   </trdgrp>
   <trd lng="hu">darabol</trd>
   <trd lng="nl">in <ind>stuk</ind>ken doen</trd>
+  <trdgrp lng="sk">
+    <trd>drviť</trd>,
+    <trd>rozbiť na kusy</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pec.busx0o">
@@ -233,6 +253,14 @@
     <trd>&c_r;&c_a;&c_z;&c_a;&c_r;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_sh;&c_ch;&c_a;&c_p;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>drtit</trd>,
+    <trd>mlít</trd>,
+    <trd>rozbít na kusy</trd>,
+    <trd>rozkouskovat</trd>,
+    <trd>rozmělňovat</trd>,
+    <trd>šrotovat</trd>
+  </trdgrp>
   <trd lng="de">zerst&uuml;ckeln</trd>
   <trd lng="es">despedazar</trd>
   <trdgrp lng="fr">
@@ -249,6 +277,12 @@
     &c_ch;&c_a;&c_s;&c_t;&c_i;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_b;&c_i;&c_t;&c_mol; &c_n;&c_a;
     &c_k;&c_u;&c_s;&c_k;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>drobiť</trd>,
+    <trd>rozdrviť</trd>,
+    <trd>rozkúskovať</trd>,
+    <trd>roztrieskať</trd>
   </trdgrp>
 </drv>
 
@@ -316,6 +350,12 @@
 </art>
 <!--
 $Log: pec.xml,v $
+Revision 1.22  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2012/10/13 17:10:12  revo
 Jeromo Vasxe: + unu~a el unu.xml
 

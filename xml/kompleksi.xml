@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kompleksi.xml,v 1.6 2009/09/03 16:30:54 revo Exp $">
+<art mrk="$Id: kompleksi.xml,v 1.8 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>kompleksi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -22,6 +22,12 @@
     </dif>
   </snc>
   <trd lng="ca">complexi&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>nadání</trd>,
+    <trd>naturel</trd>,
+    <trd>schopnosti</trd>,
+    <trd>vlohy</trd>
+  </trdgrp>
   <trd lng="es">complexi&oacute;n</trd>
   <trdgrp lng="fr">
     <trd>complexion</trd>,
@@ -37,11 +43,22 @@
     <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s;&c_i;&c_ja;</trd>,
     <trd>&c_t;&c_je;&c_l;&c_o;&c_s;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nadanie</trd>,
+    <trd>schopnosti</trd>,
+    <trd>vlohy</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: kompleksi.xml,v $
+Revision 1.8  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2009/09/03 16:30:54  revo
 Paul Peeraerts: +trd nl
 

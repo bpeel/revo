@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: telegr.xml,v 1.23 2014/06/07 16:10:23 revo Exp $">
+<art mrk="$Id: telegr.xml,v 1.25 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>telegraf</rad>/o <fnt><bib>PV</bib></fnt>
@@ -28,6 +28,7 @@
   <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_g;&c_r;&c_a;&c_f;</trd>
   <trd lng="bg">&c_t;&c_je;&c_l;&c_je;&c_g;&c_r;&c_a;&c_f;</trd>
   <trd lng="ca">tel&egrave;graf</trd>
+  <trd lng="cs">telegraf</trd>
   <trd lng="de">Telegraf</trd>
   <trd lng="en">telegraph</trd>
   <trd lng="es">tel&eacute;grafo</trd>
@@ -42,7 +43,11 @@
     <trd>tel&eacute;grafo</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_g;&c_r;&c_a;&c_f;</trd>
-  <trd lng="sk">telegraf</trd>
+  <trdgrp lng="sk">
+    <trd>pošta</trd>,
+    <trd>telefón</trd>,
+    <trd>telegraf</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="telegr.0i">
@@ -56,6 +61,7 @@
   <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_g;&c_r;&c_a;&c_f;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="bg">&c_t;&c_je;&c_l;&c_je;&c_g;&c_r;&c_a;&c_f;&c_i;&c_r;&c_a;&c_m;</trd>
   <trd lng="ca">telegrafiar</trd>
+  <trd lng="cs">telegrafovat</trd>
   <trd lng="de">telegrafieren</trd>
   <trd lng="en">telegraph</trd>
   <trd lng="fr">t&eacute;l&eacute;graphier</trd>
@@ -66,7 +72,10 @@
     <trd>telegrafar</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_g;&c_r;&c_a;&c_f;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
-  <trd lng="sk">telegrafova&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>poslať telegram</trd>,
+    <trd>telegrafova&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="telegr.elektra0o">
@@ -115,6 +124,12 @@
 </art>
 <!--
 $Log: telegr.xml,v $
+Revision 1.25  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2014/06/07 16:10:23  revo
 Eko Nur Syah Hidayat: +id
 

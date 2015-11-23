@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cindr.xml,v 1.25 2014/06/02 15:10:19 revo Exp $">
+<art mrk="$Id: cindr.xml,v 1.27 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>cindr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -56,6 +56,7 @@
   </snc>
   <trd lng="br">ludu</trd>
   <trd lng="ca">cendra</trd>
+  <trd lng="cs">popel</trd>
   <trd lng="de">Asche</trd>
   <trd lng="el">&sigma;&tau;&alfa_ton;&chi;&tau;&eta;</trd>
   <trdgrp lng="en">
@@ -95,6 +96,12 @@
     <trd>calcinar</trd>,
     <trd>reduir a cendres</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>incinerovat</trd>,
+    <trd>pohřbít žehem</trd>,
+    <trd>spálit</trd>,
+    <trd>zpopelnit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>niederbrennen</trd>,
     <trd>ein&auml;schern</trd>
@@ -120,6 +127,7 @@
     <trd>&c_p;&c_r;&c_je;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol; &c_v;
     <ind>&c_p;&c_je;&c_p;&c_je;&c_l;</ind></trd>
   </trdgrp>
+  <trd lng="sk">kalcinovať</trd>
 </drv>
 
 <drv mrk="cindr.0ujo">
@@ -155,8 +163,13 @@
   </snc>
   <trd lng="br">ludueg</trd>
   <trd lng="ca">cendrer</trd>
+  <trdgrp lng="cs">
+    <trd>popelnice</trd>,
+    <trd>popelník</trd>
+  </trdgrp>
   <trd lng="fr">cendrier</trd>
   <trd lng="id">asbak</trd>
+  <trd lng="sk">popolník</trd>
 </drv>
 
 <drv mrk="cindr.0ulino">
@@ -183,6 +196,7 @@
   <trd lng="be">&c_P;&c_a;&c_p;&c_ja;&c_l;&c_u;&c_sh;&c_k;&c_a;</trd>
   <trd lng="br">Luduenn(ig)</trd>
   <trd lng="ca">ventafocs</trd>
+  <trd lng="cs">nečistá služebnice</trd>
   <trd lng="de">Aschenputtel</trd>
   <trd lng="en">Cinderella</trd>
   <trd lng="es">Cenicienta</trd>
@@ -193,11 +207,20 @@
   <trd lng="pl">Kopciuszek</trd>
   <trd lng="pt">Cinderela</trd>
   <trd lng="ru">&c_Z;&c_o;&c_l;&c_u;&c_sh;&c_k;&c_a;</trd>
-  <trd lng="sk">popolu&scaron;ka</trd>
+  <trdgrp lng="sk">
+    <trd>nečistá slúžka</trd>,
+    <trd>popolu&scaron;ka</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: cindr.xml,v $
+Revision 1.27  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.25  2014/06/02 15:10:19  revo
 Eko Nur Syah Hidayat: +id
 

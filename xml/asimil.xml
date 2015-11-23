@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: asimil.xml,v 1.15 2014/08/18 05:10:09 revo Exp $">
+  <art mrk="$Id: asimil.xml,v 1.20 2015/10/13 14:10:14 revo Exp $">
     <kap>
       <ofc>2</ofc>
       <rad>asimil</rad>/i
@@ -23,7 +23,7 @@
         <trd lng="be">&c_z;&c_a;&c_s;&c_v;&c_o;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
         <trd lng="bg">&c_a;&c_s;&c_i;&c_m;&c_i;&c_l;&c_i;&c_r;&c_a;&c_m;</trd>
         <trd lng="de">assimilieren</trd>
-        <trd lng="en">assimilate</trd>
+        <trd lng="en">to assimilate</trd>
         <trd lng="es">asimilar</trd>
         <trdgrp lng="ru">
           <trd>&c_u;&c_s;&c_v;&c_a;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
@@ -43,6 +43,7 @@
           <ref cel="cerb.en0igi">encerbigi</ref>.
         </refgrp>
         <trd lng="be">&c_z;&c_a;&c_s;&c_v;&c_o;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
+        <trd lng="en">assimilate</trd>
         <trd lng="es">asimilar</trd>
         <trdgrp lng="ru">
           <trd>&c_u;&c_s;&c_v;&c_a;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
@@ -64,6 +65,10 @@
         <trd lng="bg">&c_a;&c_s;&c_i;&c_m;&c_i;&c_l;&c_i;&c_r;&c_a;&c_m;</trd>
         <trd lng="de">assimilieren</trd>
         <trd lng="be">&c_a;&c_s;&c_y;&c_m;&c_ib;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+        <trdgrp lng="en">
+          <trd>assimilate</trd>,
+          <trd>acculturate</trd>
+        </trdgrp>
         <trd lng="ru">&c_a;&c_s;&c_s;&c_i;&c_m;&c_i;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
       </snc>
       <snc mrk="asimil.0i.LIN">
@@ -86,11 +91,21 @@
           </ekz>
         </dif>
         <trd lng="be">&c_a;&c_s;&c_y;&c_m;&c_ib;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+        <trdgrp lng="en">
+          <trd>to anglicize</trd>,
+          <trd>calque</trd>, <trd>loanshift</trd>
+        </trdgrp>
         <trd lng="ru">&c_a;&c_s;&c_s;&c_i;&c_m;&c_i;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
       </snc>
-      <trd lng="fr">assimiler</trd>
-      <trd lng="it">assimilare</trd>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>asimilovat</trd>,
+    <trd>p&rcaron;ijmout <klr>(ideu)</klr></trd>,
+    <trd>p&rcaron;izp&uring;sobit</trd>
+  </trdgrp>
+  <trd lng="fr">assimiler</trd>
+  <trd lng="it">assimilare</trd>
+  <trd lng="sk">prisp&ocirc;sobi&tcaron;</trd>
+</drv>
 
     <drv mrk="asimil.0igxi">
       <kap><tld/>i&gcirc;i</kap>
@@ -104,12 +119,97 @@
           </ekz>
         </dif>
       </snc>
+      <trdgrp lng="en">
+        <trd>to acculturate</trd>,
+        <trd>become assimilated</trd>
+      </trdgrp>
       <trd lng="ru">&c_a;&c_s;&c_s;&c_i;&c_m;&c_i;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+    </drv>
+
+    <drv mrk="asimil.0o">
+      <kap><tld/>(ad)o</kap>
+      <snc mrk="asimil.0o.KOMUNE">
+        <dif>
+          La ago <tld/>i kaj ties rezulto:
+          <ekz>
+            Kiel malfacila tio estas, plej bone montras la ankora&ubreve; ne
+            plene solvita problemo de <tld/>o de la formoj de japana
+            poezio, pri kiu laboris Grabowski kaj Kalocsay kaj nun
+            japanaj samideanoj
+            <fnt><aut>Marek WAJSBLUM</aut>:
+              <vrk>Sur la mar&gcirc;eno de la islanda literaturo</vrk>
+              <lok>Norda Prismo, 1956L3</lok></fnt>;
+          </ekz><ekz>
+            Koncerne <tld/>adon a&ubreve; ne<tld/>adon
+            <klr>de propraj nomoj</klr> estas utile akcepti la
+            rekomendojn donitajn en PAG
+            <fnt>
+              <aut>Jan Werner</aut>: <vrk>Terminologia kurso</vrk>.
+              <lok>&Ccirc;EA, 1986. &FE;6.2.</lok>
+            </fnt>;
+          </ekz><ekz>
+            Mensa refleksa agado, kiun la svisa psikologo
+            Piaget siatempe nomis &gcirc;eneraliga <tld/>ado
+            <fnt><bib>BonaLingvo</bib></fnt>;
+          </ekz><ekz>
+            Dum <tld/>ado la esta&jcirc;oj alproprigas la materialojn
+            ricevitajn elekstere
+            <fnt>
+              <vrk><url
+ ref="http://www.fw.hu/eventoj/steb/biologio/enkond-fokuso/f874-p08.htm"
+                  >Enkonduko en la biologion</url></vrk>
+            </fnt>.
+          </ekz>
+        </dif>
+        <trd lng="en">assimilation</trd>
+        <trdgrp lng="ru">
+          <trd>&c_u;&c_s;&c_v;&c_o;&c_je;&c_n;&c_i;&c_je;</trd>,
+          <trd>&c_a;&c_s;&c_s;&c_i;&c_m;&c_i;&c_l;&c_ja;&c_c;&c_i;&c_ja;</trd>
+        </trdgrp>
+      </snc>
+      <snc mrk="asimil.0o.FON">
+        <uzo tip="fak">FON</uzo>
+        <uzo tip="stl">EVI</uzo>
+        <ref cel="simil.0igxo.FON">simili&gcirc;o<sncref/></ref>
+        <rim mrk="asimil.0o.RIM">
+          Estas tri ka&ubreve;zoj por eviti la terminon
+          <tld/>(ad)o<sncref ref="asimil.0o.FON"/> en fonetiko.
+          <em>Unue</em>, &gcirc;i malkoheras kun la komunlingva &ccirc;efsignifo
+          de la radiko, kiu normale implicas integri&gcirc;on de io en pli
+          grandan sistemon. Ne pri tio temas la nocio fonetika, kies
+          sencon tre trafe esprimas la klara termino <em>simili&gcirc;o</em>.
+          <em>Due</em>, en esperantologio (do, en lingvoscienco) la
+          termino <ctl><tld/>ado</ctl> jam delonge kaj firme havas
+          alian signifon, koheran kun la &ccirc;efsenco de la radiko (vd
+          <ref cel="asimil.0i.LIN"><tld/>i<sncref/></ref>).
+          <em>Trie</em>, el <ctl>simili&gcirc;o</ctl> nature, klare kaj
+          radik&scirc;pare
+          deriveblas la termino por la mala fenomeno,
+          <ctl>malsimili&gcirc;o</ctl>.
+          <aut>Sergio Pokrovskij</aut>
+        </rim>
+        <trd lng="en">assimilation</trd>
+      </snc>
     </drv>
 
   </art>
   <!--
   $Log: asimil.xml,v $
+  Revision 1.20  2015/10/13 14:10:14  revo
+  Cindy Moon McKee: +trd en
+
+  Revision 1.19  2015/07/04 08:37:30  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.18  2015/06/28 12:03:36  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.17  2015/04/19 18:10:16  revo
+  Sergio Pokrovskij: -miskonverto
+
+  Revision 1.16  2015/04/19 15:10:14  revo
+  Sergio Pokrovskij: +~o
+
   Revision 1.15  2014/08/18 05:10:09  revo
   Sergio Pokrovskij: +~igxi
 

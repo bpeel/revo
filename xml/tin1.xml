@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tin1.xml,v 1.8 2006/02/15 17:34:56 revo Exp $">
+<art mrk="$Id: tin1.xml,v 1.10 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>tin</rad>/o
   <fnt>V</fnt>
@@ -14,15 +14,34 @@
     <ref tip="dif" cel="tinus.0o">tinuso</ref>
   </snc>
   <trd lng="be">&c_t;&c_u;&c_n;&c_je;&c_c;</trd>
+  <trdgrp lng="cs">
+    <trd>džber</trd>,
+    <trd>káď</trd>,
+    <trd>putna</trd>,
+    <trd>škopek</trd>,
+    <trd>štoudev</trd>
+  </trdgrp>
   <trd lng="hu">tonhal</trd>
   <trdgrp lng="pt">
     <trd>atum</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_u;&c_n;&c_je;&c_c;</trd>
+  <trdgrp lng="sk">
+    <trd>džber</trd>,
+    <trd>kaďa</trd>,
+    <trd>putňa</trd>,
+    <trd>škopík</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: tin1.xml,v $
+Revision 1.10  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2006/02/15 17:34:56  revo
 Tulio Flores: +trd pt
 

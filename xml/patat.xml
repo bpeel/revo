@@ -2,25 +2,30 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: patat.xml,v 1.9 2006/02/25 17:33:24 revo Exp $">
+<art mrk="$Id: patat.xml,v 1.12 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>patat</rad>/o
 </kap>
 <drv mrk="patat.0o">
   <kap><tld/>o</kap>
   <snc>
-    <dif>
-      <ref tip="dif" cel="batat.0o">Batato</ref>.
-    </dif>
+  <uzo tip="fak">BOT</uzo>
+  <uzo tip="fak">KUI</uzo>
+      <ref tip="dif" cel="batat.0o">batato</ref>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_a;&c_t;&c_a;&c_t;</trd>,
     <trd>&c_s;&c_a;&c_l;&c_o;&c_d;&c_k;&c_a;&c_ja; &c_b;&c_u;&c_l;&c_mol;&c_b;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>batát</trd>,
+    <trd>sladký bramor</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Batate</trd>,
     <trd>S&uuml;&szlig;kartoffel</trd>
   </trdgrp>
+  <trd lng="fr">batate</trd>
   <trdgrp lng="hu">
     <trd>bat&aacute;ta</trd>,
     <trd>&eacute;desburgonya</trd>
@@ -31,10 +36,23 @@
     <trd>&c_b;&c_a;&c_t;&c_a;&c_t;</trd>,
     <trd>&c_s;&c_l;&c_a;&c_d;&c_k;&c_i;&c_j; &c_k;&c_a;&c_r;&c_t;&c_o;&c_f;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>batát</trd>,
+    <trd>sladký zemiak</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: patat.xml,v $
+Revision 1.12  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2015/01/04 16:10:20  revo
+Damien Brucker: +trd fr
+
 Revision 1.9  2006/02/25 17:33:24  revo
 Tulio Flores: +tr pt
 
@@ -55,4 +73,3 @@ Dennis Wibrow: +trd germ
 
 -->
 </vortaro>
-

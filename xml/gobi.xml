@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gobi.xml,v 1.19 2013/10/30 16:10:14 revo Exp $">
+<art mrk="$Id: gobi.xml,v 1.21 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>gobi</rad>/o
@@ -24,12 +24,13 @@
     <ref tip="sin" cel="gugon.0o">gugono</ref>
   </snc>
   <trd lng="be">&c_p;&c_ja;&c_ch;&c_k;&c_u;&c_r;</trd>
+  <trd lng="ca">gobi</trd>
+  <trd lng="cs">piskoř</trd>
+  <trd lng="de">Gr&uuml;ndling</trd>
   <trdgrp lng="en">
     <trd>gudgeon</trd>,
     <trd>river goby</trd>  
   </trdgrp>
-  <trd lng="ca">gobi</trd>
-  <trd lng="de">Gr&uuml;ndling</trd>
   <trd lng="fr">goujon</trd>
   <trd lng="hu">g&eacute;b</trd>
   <trdgrp lng="nl">
@@ -42,10 +43,17 @@
    <trd>gobi&atilde;o</trd> 
   </trdgrp>
   <trd lng="ru">&c_p;&c_je;&c_s;&c_k;&c_a;&c_r;&c_mol;</trd>
+  <trd lng="sk">piskor</trd>
 </drv>
 </art>
 <!--
 $Log: gobi.xml,v $
+Revision 1.21  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/10/30 16:10:14  revo
 Jessica Grasso: +tr en
 

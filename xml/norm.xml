@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: norm.xml,v 1.46 2012/01/01 23:10:22 revo Exp $">
+<art mrk="$Id: norm.xml,v 1.49 2015/10/20 05:10:16 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>norm</rad>/o <fnt><bib>PV</bib></fnt>
@@ -36,6 +36,10 @@
       <trd>el&odblac;&iacute;r&aacute;s</trd>
     </trdgrp>
     <trd lng="nl">norm</trd>
+    <trdgrp lng="pl">
+      <trd>norma</trd>,
+      <trd>standard</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_n;&c_o;&c_r;&c_m;&c_a;</trd>,
       <trd>&c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;</trd>
@@ -66,6 +70,10 @@
     </trdgrp>
     <trd lng="hu">szabv&aacute;ny</trd>
     <trd lng="nl">regel</trd>
+    <trdgrp lng="pl">
+      <trd>norma</trd>,
+      <trd>standard</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_n;&c_o;&c_r;&c_m;&c_a;</trd>,
       <trd>&c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;</trd>
@@ -128,8 +136,20 @@
 (&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;&c_a;)</klr></trd>
   </snc>
   <trd lng="ca">norma</trd>
+  <trdgrp lng="cs">
+    <trd>norma</trd>,
+    <trd>pravidlo</trd>,
+    <trd>p&rcaron;edpis</trd>,
+    <trd>standard</trd>
+  </trdgrp>
   <trd lng="es">norma</trd>
   <trd lng="pt">norma</trd>
+  <trdgrp lng="sk">
+    <trd>norma</trd>,
+    <trd>pravidlo</trd>,
+    <trd>predpis</trd>,
+    <trd>&scaron;tandard</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="norm.0a">
@@ -144,6 +164,7 @@
       <trd>szabv&aacute;ny-</trd>,
       <trd>norma-</trd>
     </trdgrp>
+    <trd lng="pl">normowy</trd>
   </snc>
   <snc mrk="norm.0a.0konforma">
     <dif>
@@ -169,6 +190,10 @@
       <trd>norma szerinti</trd>,
       <trd>szab&aacute;lyos</trd>
     </trdgrp>
+    <trdgrp lng="pl">
+      <trd>normatywny</trd>,
+      <trd>standardowy</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_n;&c_o;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
       <trd>&c_s;&c_o;&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_u;&c_ju;&c_shch;&c_i;&c_j;
@@ -176,6 +201,12 @@
       <trd>&c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>noremn&iacute;</trd>,
+    <trd>normov&yacute;</trd>,
+    <trd>norm&aacute;ln&iacute;</trd>,
+    <trd>p&rcaron;edpisov&yacute;</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>normal</trd>,
     <trd>standard</trd>
@@ -186,6 +217,10 @@
     <trd>standaard-</trd>
   </trdgrp>
   <trd lng="pt">normal</trd>
+  <trdgrp lng="sk">
+    <trd>normov&yacute;</trd>,
+    <trd>predpisov&yacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="norm.0i">
@@ -221,6 +256,10 @@
   </snc>
   <trd lng="be">&c_n;&c_a;&c_r;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">normar</trd>
+  <trdgrp lng="cs">
+    <trd>b&yacute;t podle normy</trd>,
+    <trd>b&yacute;t v norm&ecaron;</trd>
+  </trdgrp>
   <trd lng="de">normieren</trd>
   <trd lng="en">norm</trd>
   <trd lng="es">normalizar</trd>
@@ -228,6 +267,7 @@
   <trd lng="hu">norm&aacute;l</trd>
   <trd lng="pl">normowa&cacute;</trd>
   <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">by&tcaron; v norme</trd>
 </drv>
 
 <drv mrk="norm.0umi">
@@ -237,7 +277,9 @@
   <snc>
     <ref tip="dif" cel="norm.unu0igi">unu<tld/>igi.</ref>
   </snc>
+  <trd lng="cs">normalizovat</trd>
   <trd lng="hu">norm&aacute;l</trd>
+  <trd lng="sk">normalizova&tcaron;</trd>
 </drv>
 
 <drv mrk="norm.0umita">
@@ -404,16 +446,27 @@ tip="ind"> (&c_b;&c_a;&c_z;&c_i;&c_s;)</klr></trd>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_r;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">normalitzar</trd>
+  <trd lng="cs">normalizovat</trd>
   <trd lng="de">normieren</trd>
   <trd lng="en">normalize</trd>
   <trd lng="fr">normer<klr tip="ind"> (un vecteur)</klr></trd>
   <trd lng="hu">norm&aacute;l</trd>
   <trd lng="pt">normalizar</trd>
   <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">normalizova&tcaron;</trd>
 </drv>
 </art>
 <!--
 $Log: norm.xml,v $
+Revision 1.49  2015/10/20 05:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.48  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.47  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.46  2012/01/01 23:10:22  revo
 Marc Rausell: +trd ca
 
@@ -427,14 +480,5 @@ Revision 1.43  2006/09/18 16:30:46  revo
 Russ Williams: +trd en
 
 Revision 1.42  2004/11/23 17:31:32  revo
-Marc Bavant: kor duobligitan punkton
-
-Revision 1.41  2004/10/12 16:31:19  revo
-Jozefo Horvath: kor. trd hu ununormigi
-
-Revision 1.40  2004/07/21 20:45:04  revo
-Marc Bavant: kor duobligitan punkton
-
-Revision 1.39  2004/06/24 16:32:29  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kovr.xml,v 1.30 2013/08/26 01:10:11 revo Exp $">
+  <art mrk="$Id: kovr.xml,v 1.32 2015/07/04 08:37:38 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>kovr</rad>/i <fnt><bib>PV</bib></fnt>
@@ -273,15 +273,20 @@
           </ekz>
         </dif>
       </snc>
-
-      <trdgrp lng="be">
+  <trdgrp lng="be">
         <trd>&c_n;&c_a;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>,
         <trd>&c_z;&c_a;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>,
         <trd>&c_p;&c_a;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>,
         <trd>&c_u;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>
       </trdgrp>
-      <trd lng="ca">cobrir</trd>
-      <trdgrp lng="de">
+  <trd lng="ca">cobrir</trd>
+  <trdgrp lng="cs">
+    <trd>krýt</trd>,
+    <trd>přikrýt</trd>,
+    <trd>zakrývat</trd>,
+    <trd>zaplňovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>abdecken</trd>,
         <trd>zudecken</trd>,
         <trd>bedecken</trd>,
@@ -289,10 +294,10 @@
         <trd>verh&uuml;llen</trd>,
         <trd>&uuml;berziehen</trd>
       </trdgrp>
-      <trd lng="en">cover</trd>
-      <trd lng="es">cubrir</trd>
-      <trd lng="fr">couvrir</trd>
-      <trdgrp lng="hu">
+  <trd lng="en">cover</trd>
+  <trd lng="es">cubrir</trd>
+  <trd lng="fr">couvrir</trd>
+  <trdgrp lng="hu">
         <trd>fed</trd>,
         <trd>lefed</trd>,
         <trd>takar</trd>,
@@ -300,14 +305,21 @@
         <trd>bor&iacute;t</trd>,
         <trd>bebor&iacute;t</trd>
       </trdgrp>
-      <trd lng="pt">cobrir</trd>
-      <trdgrp lng="ru">
+  <trd lng="pt">cobrir</trd>
+  <trdgrp lng="ru">
         <trd>&c_z;&c_a;&c_k;&c_r;&c_y;&c_t;&c_mol;</trd>,
         <trd>&c_n;&c_a;&c_k;&c_r;&c_y;&c_t;&c_mol;</trd>,
         <trd>&c_p;&c_o;&c_k;&c_r;&c_y;&c_t;&c_mol;</trd>,
         <trd>&c_u;&c_k;&c_r;&c_y;&c_t;&c_mol;</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>pokrývať</trd>,
+    <trd>prikryť</trd>,
+    <trd>prikryť</trd>,
+    <trd>zahaliť</trd>,
+    <trd>zakryť</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="kovr.0o">
       <kap><tld/>o</kap>
@@ -386,7 +398,18 @@
         <trd lng="ru">&c_p;&c_o;&c_k;&c_r;&c_y;&c_t;&c_i;&c_je;<klr tip="ind"> (&c_p;&c_o;&c_k;&c_r;&c_y;&c_v;&c_a;&c_ju;&c_shch;&c_je;&c_je;
             &c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
       </snc>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>kryt</trd>,
+    <trd>pokrytí</trd>,
+    <trd>pokrývka</trd>,
+    <trd>příkrov</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kryt</trd>,
+    <trd>pokrývka</trd>,
+    <trd>príkrov</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="kovr.0ajxo">
       <kap><tld/>a&jcirc;o</kap>
@@ -562,7 +585,20 @@
         <trd>Abdeckung</trd>
       </trdgrp>
       <trd lng="ru">&c_p;&c_o;&c_k;&c_r;&c_y;&c_t;&c_i;&c_je;</trd>
-    </drv>
+      <trdgrp lng="sk">
+    <trd>deka</trd>,
+    <trd>pokrývka</trd>,
+    <trd>prikrývka</trd>,
+    <trd>veko</trd>,
+    <trd>vrchnák</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>desky knihy</trd>,
+    <trd>kryt</trd>,
+    <trd>poklop</trd>,
+    <trd>pokrývka</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="kovr.cxirkaux0i">
       <kap>&ccirc;irka&ubreve;<tld/>i</kap>
@@ -698,23 +734,39 @@
           <trd>felfedez</trd>
         </trdgrp>
       </snc>
-      <trd lng="be">&c_a;&c_d;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>
-      <trd lng="ca">descobrir</trd>
-      <trdgrp lng="de">
+  <trd lng="be">&c_a;&c_d;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">descobrir</trd>
+  <trdgrp lng="cs">
+    <trd>objevit</trd>,
+    <trd>odhalit</trd>,
+    <trd>odkrýt</trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>abdecken</trd>,
         <trd>aufdecken</trd>,
         <trd>enth&uuml;llen</trd>
       </trdgrp>
-      <trd lng="es">descubrir</trd>
-      <trd lng="pt">descobrir</trd>
-      <trdgrp lng="ru">
+  <trd lng="es">descubrir</trd>
+  <trd lng="pt">descobrir</trd>
+  <trdgrp lng="ru">
         <trd>&c_o;&c_t;&c_k;&c_r;&c_y;&c_t;&c_mol;</trd>,
         <trd>&c_o;&c_t;&c_k;&c_r;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>objaviť</trd>,
+    <trd>odhaliť</trd>,
+    <trd>odkryť</trd>
+  </trdgrp>
+</drv>
   </art>
   <!--
   $Log: kovr.xml,v $
+  Revision 1.32  2015/07/04 08:37:38  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.31  2015/06/29 16:33:18  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.30  2013/08/26 01:10:11  revo
   Sergio Pokrovskij: +kovr.0i.enteni
 

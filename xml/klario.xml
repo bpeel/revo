@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klario.xml,v 1.25 2014/10/26 02:10:28 revo Exp $">
+<art mrk="$Id: klario.xml,v 1.27 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>klarion</rad>/o
 </kap>
@@ -28,6 +28,13 @@
     <trd>&c_g;&c_o;&c_r;&c_n;</trd>,
     <trd>&c_t;&c_r;&c_u;&c_b;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>flíglhorn</trd>,
+    <trd>flíglhorna</trd>,
+    <trd>křídlovka</trd>,
+    <trd>polnice</trd>,
+    <trd>trubka</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Zinke</trd>,
     <trd>Signalhorn</trd>
@@ -51,6 +58,7 @@
     <trd>clarim</trd>
   </trdgrp>
   <trd lng="ru">&c_g;&c_o;&c_r;&c_n;</trd>
+  <trd lng="sk">krídlovka</trd>
 </drv>
 
 <drv mrk="klario.0a">
@@ -104,6 +112,7 @@
     <trd lng="hu">trombit&aacute;l</trd>
   </snc>
   <trd lng="be">&c_t;&c_r;&c_u;&c_b;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="cs">svolávat trubkou</trd>
   <trdgrp lng="fr">
     <trd>claironner</trd>,
     <trd>sonner<klr tip="ind"> (appeler par un signal de
@@ -114,6 +123,7 @@
     <trd>op de <ind>klaroen</ind> blazen</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_r;&c_u;&c_b;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">zvolávať trúbkou</trd>
 </drv>
 
 <drv mrk="klario.0isto">
@@ -123,15 +133,23 @@
       Ludanto de <tld/>o.
     </dif>
   </snc>
+  <trd lng="cs">trumpetista</trd>
   <trd lng="fr"><klr tip="ind">(joueur de) </klr>clairon</trd>
   <trd lng="hu">k&uuml;rt&ouml;s</trd>
   <trd lng="it">suonatore di <ind>chiarina</ind></trd>
   <trd lng="nl">klaroenblazer</trd>
   <trd lng="ru">&c_g;&c_o;&c_r;&c_n;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">trumpetista</trd>
 </drv>
 </art>
 <!--
 $Log: klario.xml,v $
+Revision 1.27  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.25  2014/10/26 02:10:28  revo
 Eko Nur Syah Hidayat: +trd id
 

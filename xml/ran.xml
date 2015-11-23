@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ran.xml,v 1.26 2014/06/09 16:10:35 revo Exp $">
+<art mrk="$Id: ran.xml,v 1.28 2015/07/04 08:37:42 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>ran</rad>/o
@@ -50,10 +50,21 @@
    <trd lng="pt">r&atilde;</trd>
    <trd lng="ru">&c_l;&c_ja;&c_g;&c_u;&c_sh;&c_k;&c_a;</trd>
    <trd lng="sv">groda</trd>
+  <trd lng="sk">žaba</trd>
+  <trdgrp lng="cs">
+    <trd>skokan</trd>,
+    <trd>žába</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ran.xml,v $
+Revision 1.28  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2014/06/09 16:10:35  revo
 Eko Nur Syah Hidayat: +id
 

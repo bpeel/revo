@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: border.xml,v 1.17 2010/08/26 16:30:23 revo Exp $">
+<art mrk="$Id: border.xml,v 1.22 2015/10/06 03:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>border</rad>/i <fnt><bib>PV</bib></fnt>
@@ -34,6 +34,7 @@
         <trd>szamerowa&cacute;</trd>,
         <trd>lamowa&cacute;</trd>
       </trdgrp>
+      <trd lng="pt">bordar</trd>
     </subsnc>
     <subsnc mrk="border.0i.nesxtofon">
       <dif>
@@ -51,6 +52,7 @@
       </dif>
       <trdgrp lng="pl">
         <trd>obramowywa&cacute;</trd>,
+        <trd>bramowa&cacute;</trd>,
         <trd>obr&eogonek;bia&cacute;</trd>
       </trdgrp>
     </subsnc>
@@ -118,6 +120,7 @@
       <ref tip="sin" cel="rand.0i.KOMUNE">randi</ref>
       <trdgrp lng="pl">
         <trd>obramowywa&cacute;</trd>,
+        <trd>bramowa&cacute;</trd>,
         <trd>obr&eogonek;bia&cacute;</trd>
       </trdgrp>
     </subsnc>
@@ -167,6 +170,17 @@
   <trd lng="en">border</trd>
   <trd lng="fr">border<klr tip="ind"> (garnir d'une bordure)</klr></trd>
   <trd lng="ru">&c_o;&c_k;&c_a;&c_j;&c_m;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>obklopova&tcaron;</trd>,
+    <trd>olemova&tcaron;</trd>,
+    <trd>vr&uacute;bi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ko&zcaron;e&scaron;inou</trd>,
+    <trd>na&scaron;&iacute;t lemovku</trd>,
+    <trd>obroubit stu&zcaron;kou</trd>,
+    <trd>ob&scaron;&iacute;t</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="border.0o">
@@ -190,7 +204,12 @@
       zamenhofeco de <ctl><tld/>o</ctl>.
     </rim>
   </snc>
+  <trd lng="en">border</trd>
   <trd lng="br">bevenn</trd>
+  <trdgrp lng="cs">
+    <trd>lem</trd>,
+    <trd>obruba</trd>
+  </trdgrp>
   <trd lng="fr">bordure</trd>
   <trdgrp lng="pl">
     <trd>obramowanie</trd>,
@@ -201,6 +220,11 @@
   <trdgrp lng="ru">
     <trd>&c_k;&c_a;&c_j;&c_m;&c_a;</trd>,
     <trd>&c_b;&c_o;&c_r;&c_d;&c_ju;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>lem</trd>,
+    <trd>obruba</trd>,
+    <trd>ob&scaron;&iacute;vka</trd>
   </trdgrp>
 </drv>
 
@@ -223,6 +247,7 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="en"><trd>border</trd>, <trd>edging</trd></trdgrp>
   <trd lng="br">bevenn</trd>
   <trd lng="fr">bordure</trd>
   <trdgrp lng="pl">
@@ -250,6 +275,7 @@
     <uzo tip="fak">TEKS</uzo>
     <ref tip="dif" cel="orl.0i.TEKS">orli</ref>
   </snc>
+  <trd lng="en">hem</trd>
   <trdgrp lng="pl">
     <trd>obr&eogonek;bia&cacute;</trd>,
     <trd>mere&zdot;kowa&cacute;</trd>,
@@ -266,6 +292,21 @@
 <!--
 
 $Log: border.xml,v $
+Revision 1.22  2015/10/06 03:10:17  revo
+Evandro Avellar: +trd pt
+
+Revision 1.21  2015/09/21 07:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2015/09/12 20:10:18  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.19  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2010/08/26 16:30:23  revo
 Jeromo Vasxe: - kramp
 
@@ -273,21 +314,6 @@ Revision 1.16  2009/03/23 17:30:35  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.15  2005/03/09 18:17:53  revo
-Yury Finkel: +trd ru
-
-Revision 1.14 2005/03/06 17:33:35 revo
-Alan ar Gall: +trd br
-Revision 1.13 2004/09/06 16:36:04 revo
-
-Marc Bavant: kor ref cel al "randi"
-
-Revision 1.12 2004/08/29 16:32:27 revo
-
-Marc Bavant: ~i: reverkis, -uzo TEK, +snc "io", +snc ARK; +drv ~o,
-
-~ajxo,
-refald(o)~i
-
 -->
 
 </vortaro>

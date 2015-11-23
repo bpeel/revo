@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klient.xml,v 1.18 2013/11/30 17:10:14 revo Exp $">
+<art mrk="$Id: klient.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>klient</rad>/o
@@ -17,15 +17,16 @@
       advokato, kuracisto...):
       <ekz>
         <tld/>o de viandisto, de banejo, de restoracio;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         mult<tld/>a butiko;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         la ju&gcirc;istoj senkulpigis mian <tld/>on;
-      </ekz>
-      <ekz>
-        <tld/>o de dentisto.
+      </ekz><ekz>
+        <tld/>o de dentisto;
+      </ekz><ekz>
+        &scirc;i rekonis sian anta&ubreve;an <tld/>inon kaj kun plezuro vidis
+        &scirc;in denove en sia magazeno
+        <fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
     <trdgrp lng="ca">
@@ -69,7 +70,7 @@
   <snc mrk="klient.0o.HIS">
     <uzo tip="fak">HIS</uzo>
     <dif>
-      En romia antikvo, plebano sinmetinta sub protektado de patricio.
+      En romia antikvo, plebano sin metinta sub protekton de patricio.
     </dif>
     <trd lng="en">client</trd>
     <trdgrp lng="fr">
@@ -80,6 +81,11 @@
     <trd lng="ru">&c_k;&c_l;&c_i;&c_je;&c_n;&c_t;</trd>
   </snc>
   <trd lng="be">&c_k;&c_l;&c_ib;&c_je;&c_n;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>klient</trd>,
+    <trd>zákazník</trd>
+  </trdgrp>
+  <trd lng="sk">zákazník</trd>
 </drv>
 
 <drv mrk="klient.0aro">
@@ -106,6 +112,7 @@
     <trd>clientela</trd>,
     <trd>parr&ograve;quia</trd>
   </trdgrp>
+  <trd lng="cs">klientela</trd>
   <trdgrp lng="de">
       <trd>Kundschaft</trd>,
       <trd>Klientel</trd>
@@ -115,11 +122,21 @@
   </trdgrp>
   <trd lng="oc">client&egrave;la</trd>
   <trd lng="ru">&c_k;&c_l;&c_i;&c_je;&c_n;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="sk">klientela</trd>
   <trd lng="tr">m&uuml;&scedil;teriler</trd>
 </drv>
 </art>
 <!--
 $Log: klient.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2015/02/12 16:10:17  revo
+Sergio Pokrovskij: +ekz
+
 Revision 1.18  2013/11/30 17:10:14  revo
 Benito Subejrano: + trd ca oc
 
@@ -139,8 +156,5 @@ Revision 1.13  2003/02/15 17:34:29  revo
 Ulrich Fellmann: + 2 pliaj trd = de
 
 Revision 1.12  2002/11/01 09:14:47  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2002/10/21 16:36:17  revo
 -->
 </vortaro>

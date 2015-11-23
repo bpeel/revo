@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stult.xml,v 1.20 2014/10/26 08:10:12 revo Exp $">
+<art mrk="$Id: stult.xml,v 1.23 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>stult</rad>/a <fnt><bib>PV</bib></fnt>
@@ -29,7 +29,12 @@
     <trd>&c_n;&c_je;&c_r;&c_a;&c_z;&c_u;&c_m;&c_n;&c_y;</trd>,
     <trd>&c_b;&c_ja;&c_z;&c_g;&c_l;&c_u;&c_z;&c_d;&c_y;</trd>
   </trdgrp>
-  <trd lng="cs">hloup&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>hloup&yacute;</trd>,
+    <trd>pitomý</trd>,
+    <trd>pošetilý</trd>,
+    <trd>tupý</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>dumm</trd>,
     <trd>bl&ouml;d</trd>
@@ -57,6 +62,10 @@
     <trd>&c_g;&c_l;&c_u;&c_p;&c_y;&c_j;</trd>,
     <trd>&c_t;&c_u;&c_p;&c_o;&c_j;</trd>,
     <trd>&c_d;&c_u;&c_r;&c_n;&c_o;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hlúpy</trd>,
+    <trd>sprostý</trd>
   </trdgrp>
   <trd lng="tp">nasa</trd>
 </drv>
@@ -112,7 +121,8 @@
   <trd lng="en">stupidity</trd>
   <trdgrp lng="fr">
     <trd>b&ecirc;tise<klr> (acte)</klr></trd>,
-    <trd>idiotie<klr> (acte)</klr></trd>
+    <trd>idiotie<klr> (acte)</klr></trd>,
+    <trd>sottise</trd>
   </trdgrp>
   <trdgrp lng="hu">
     <trd>ostoba dolog</trd>,
@@ -181,9 +191,17 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>ohlupovat</trd>,
+    <trd>zpitomit</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>ab&ecirc;tir</trd>,
     <trd>abrutir</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ohlúpnuť</trd>,
+    <trd>osprostieť</trd>
   </trdgrp>
 </drv>
 
@@ -208,9 +226,22 @@
       <ref cel="idiot.0o">idioto</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>blb</trd>,
+    <trd>blbec</trd>,
+    <trd>hlupák</trd>,
+    <trd>omezenec</trd>,
+    <trd>pitomec</trd>,
+    <trd>pošetilec</trd>
+  </trdgrp>
   <trd lng="en">idiot</trd>
   <trd lng="fr">imb&eacute;cile<klr> (subst.)</klr></trd>
   <trd lng="it">stupido<klr> (sost.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>hlupák</trd>,
+    <trd>sprosták</trd>,
+    <trd>sprostý človek</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="stult.0umi">
@@ -256,6 +287,15 @@
 </art>
 <!--
 $Log: stult.xml,v $
+Revision 1.23  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2015/02/28 08:10:14  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.20  2014/10/26 08:10:12  revo
 Agustin Garcia Lopez: +trd(es)
 
@@ -275,8 +315,5 @@ Revision 1.15 2005/02/25 17:33:10 revo
 Yury Finkel: +trd ru
 
 Revision 1.14 2004/11/18 17:31:24 revo
-Marc Bavant: kor duobligitajn punktojn
-
-Revision 1.13 2004/11/03 17:31:43 revo
 -->
 </vortaro>

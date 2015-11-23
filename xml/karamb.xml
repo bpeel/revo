@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: karamb.xml,v 1.15 2011/12/05 23:10:15 revo Exp $">
+<art mrk="$Id: karamb.xml,v 1.17 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>karambol</rad>/i
@@ -39,6 +39,7 @@
     <trd lng="nl">botsen</trd>
     <trd lng="ru">&c_s;&c_t;&c_o;&c_l;&c_k;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </snc>
+  <trd lng="cs">srazit se <klr>(auta| koule v kulečníku)</klr></trd>
   <trdgrp lng="en">
     <trd>collide</trd>,
     <trd>strike</trd>
@@ -47,6 +48,10 @@
     <trd>caramboler<klr tip="ind"> (au billard)</klr></trd>,
     <trd>se <ind>caramboler</ind></trd>,
     <trd>entrer en <ind>collision</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>naraziť</trd>,
+    <trd>zraziť sa</trd>
   </trdgrp>
 </drv>
 
@@ -104,6 +109,11 @@
     <trd lng="ca">llic&egrave;ncia po&egrave;tica</trd>
     <trd lng="ru">&c_s;&c_v;&c_je;&c_r;&c_h;&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_n;&c_o;&c_je; &c_u;&c_d;&c_a;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>karambol</trd>,
+    <trd>kolize <klr>(dopravních prostředků)</klr></trd>,
+    <trd>srážka</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>collision</trd>,
     <trd>strike</trd>
@@ -112,10 +122,20 @@
     <trd>carambolage</trd>,
     <trd>collision</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kolízia</trd>,
+    <trd>zrážka</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: karamb.xml,v $
+Revision 1.17  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2011/12/05 23:10:15  revo
 Marc Rausell: kataluna traduko
 

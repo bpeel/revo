@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pelmel.xml,v 1.8 2013/01/09 14:10:14 revo Exp $">
+<art mrk="$Id: pelmel.xml,v 1.10 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>pelmel</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -28,6 +28,11 @@
     <trd>&c_b;&c_ja;&c_z;&c_l;&c_a;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_je;</trd>,
     <trd>&c_b;&c_ja;&c_z;&c_l;&c_a;&c_d;&c_z;&c_ib;&c_c;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nepořádek</trd>,
+    <trd>páté přes deváté</trd>,
+    <trd>zmatek</trd>
+  </trdgrp>
   <trd lng="en">pell-mell</trd>
   <trdgrp lng="fr">
     <trd>enchev&ecirc;trement</trd>,
@@ -47,11 +52,21 @@
     <trd>balb&uacute;rdia</trd>,
     <trd>grande <ind>desordem</ind></trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>galimatiáš</trd>,
+    <trd>zlátanina</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: pelmel.xml,v $
+Revision 1.10  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2013/01/09 14:10:14  revo
 Jeromo Vasxe: + mrk
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: serpen.xml,v 1.24 2014/06/10 15:10:17 revo Exp $">
+<art mrk="$Id: serpen.xml,v 1.26 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>serpent</rad>/o <fnt><bib>PV</bib></fnt>
@@ -46,16 +46,21 @@
     <trd lng="ru">&c_z;&c_m;&c_je;&c_j;</trd>
   </snc>
   <trd lng="ca">serp</trd>
+  <trdgrp lng="cs">
+    <trd>basový cink</trd>,
+    <trd>serpent</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>serpent</trd>,
     <trd>snake</trd>
   </trdgrp>
   <trd lng="es">serpiente</trd>
   <trd lng="fr">serpent</trd>
-  <trd lng="hu">k&iacute;gy&oacute;</trd>  
+  <trd lng="hu">k&iacute;gy&oacute;</trd>
   <trd lng="id">ular</trd>
   <trd lng="it">serpente</trd>
   <trd lng="nl">serpent</trd>
+  <trd lng="sk">serpent</trd>
 </drv>
 
 <drv mrk="serpen.S0o">
@@ -114,6 +119,8 @@
     </trdgrp>
     <trd lng="ru">&c_z;&c_m;&c_je;&c_i;&c_s;&c_t;&c_y;&c_j;</trd>
   </snc>
+  <trd lng="cs">jako had <klr>(adj.)</klr></trd>
+  <trd lng="sk">ako had</trd>
 </drv>
 
 <drv mrk="serpen.0i">
@@ -125,6 +132,10 @@
   </snc>
   <trd lng="be">&c_z;&c_mol;&c_m;&c_ja;&c_ib;&c_c;&c_c;&c_a;</trd>
   <trd lng="ca">serpentejar</trd>
+  <trdgrp lng="cs">
+    <trd>plazit se</trd>,
+    <trd>vinout se <klr>(jako had)</klr></trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>meander</trd>,
     <trd>twist</trd>
@@ -144,6 +155,10 @@
     <trd>kronkelen</trd>
   </trdgrp>
   <trd lng="ru">&c_z;&c_m;&c_je;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>plaziť sa</trd>,
+    <trd>vinúť sa <klr>(ako had)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="serpen.0oj">
@@ -215,6 +230,10 @@
   </snc>
   <trd lng="be">&c_z;&c_mol;&c_m;&c_ja;&c_ib;&c_c;&c_c;&c_a;</trd>
   <trd lng="ca">serpentejar</trd>
+  <trdgrp lng="cs">
+    <trd>plazit se</trd>,
+    <trd>vinout se <klr>(jako had)</klr></trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>meander</trd>,
     <trd>twist</trd>
@@ -223,16 +242,20 @@
     <trd>serpenter</trd>,
     <trd>sinuer</trd>
   </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&iacute;gy&oacute;zik</trd>,
+    <trd>kanyarog</trd>
+  </trdgrp>
   <trd lng="it">serpeggiare</trd>
   <trdgrp lng="nl">
     <trd>slingeren</trd>,
     <trd>kronkelen</trd>
   </trdgrp>
-  <trdgrp lng="hu">
-    <trd>k&iacute;gy&oacute;zik</trd>,
-    <trd>kanyarog</trd>
-  </trdgrp>
   <trd lng="ru">&c_z;&c_m;&c_je;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>plaziť sa</trd>,
+    <trd>vinúť sa <klr>(ako had)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="serpen.0umo">
@@ -254,11 +277,19 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">serpentina</trd>
   <trd lng="fr">sinuosit&eacute;</trd>
+  <trd lng="sk">serpentína <klr>(o ceste)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: serpen.xml,v $
+Revision 1.26  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2014/06/10 15:10:17  revo
 Eko Nur Syah Hidayat: +id
 

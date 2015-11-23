@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tunel.xml,v 1.20 2013/09/25 14:10:11 revo Exp $">
+<art mrk="$Id: tunel.xml,v 1.23 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>tunel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -16,7 +16,12 @@
     </dif>
   </snc>
   <trd lng="be">&c_t;&c_u;&c_n;&c_e;&c_l;&c_mol;</trd>
+  <trd lng="bg">&c_t;&c_u;&c_n;&c_je;&c_l;</trd>
   <trd lng="ca">t&uacute;nel</trd>
+  <trdgrp lng="cs">
+    <trd>chodba</trd>,
+    <trd>tunel</trd>
+  </trdgrp>
   <trd lng="de">Tunnel</trd>
   <trd lng="en">tunnel</trd>
   <trd lng="es">t&uacute;nel</trd>
@@ -34,6 +39,7 @@
     <trd>&c_t;&c_u;&c_n;&c_n;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_t;&c_o;&c_n;&c_n;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">tunel</trd>
   <trd lng="sv">tunnel</trd>
 </drv>
 
@@ -55,7 +61,11 @@
     </dif>
   </snc>
   <trd lng="ca">excavar, contruir un t&uacute;nel</trd>
-  <trd lng="en">tunnel</trd>  
+  <trdgrp lng="cs">
+    <trd>razit tunel</trd>,
+    <trd>tunelovat</trd>
+  </trdgrp>
+  <trd lng="en">tunnel</trd>
   <trdgrp lng="es">
      <trd>tunelar</trd>,
      <trd>hacer un t&uacute;nel</trd>
@@ -64,11 +74,20 @@
     <trd>kopa&cacute; tunel</trd>,
     <trd>dr&aogonek;&zdot;y&cacute; tunel</trd>
   </trdgrp>
-
+  <trd lng="sk">raziť tunel</trd>
 </drv>
 </art>
 <!--
 $Log: tunel.xml,v $
+Revision 1.23  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2015/06/24 12:10:15  revo
+Joop Eggen: +trd bg
+
 Revision 1.20  2013/09/25 14:10:11  revo
 Jessica Grasso: aldonis anglan tradukon de
 
@@ -88,8 +107,5 @@ Revision 1.15  2010/06/06 16:31:14  revo
 Antonio Codazzi: +trd it
 
 Revision 1.14  2009/01/22 17:31:11  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.13  2006/02/16 17:36:22  revo
 -->
 </vortaro>

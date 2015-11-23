@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nekrol.xml,v 1.15 2014/09/18 08:10:23 revo Exp $">
+<art mrk="$Id: nekrol.xml,v 1.17 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>nekrolog</rad>/o
@@ -24,6 +24,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_e;&c_k;&c_r;&c_a;&c_l;&c_jo;&c_g;</trd>
+  <trdgrp lng="cs">
+    <trd>nekrolog</trd>,
+    <trd>pohřební řeč</trd>,
+    <trd>posmrtná vzpomínka</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Nekrolog</trd>,
     <trd>Nachruf</trd>
@@ -41,11 +46,21 @@
   <trd lng="pl">nekrolog</trd>
   <trd lng="pt">necrol&oacute;logio</trd>
   <trd lng="ru">&c_n;&c_je;&c_k;&c_r;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trdgrp lng="sk">
+    <trd>nekrológ</trd>,
+    <trd>pohrebná reč</trd>
+  </trdgrp>
   <trd lng="sv">d&ouml;dsruna</trd>
 </drv>
 </art>
 <!--
 $Log: nekrol.xml,v $
+Revision 1.17  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2014/09/18 08:10:23  revo
 Sebastian Cyprych: +trd pl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: makedon.xml,v 1.8 2014/06/09 17:10:23 revo Exp $">
+<art mrk="$Id: makedon.xml,v 1.12 2015/10/27 07:10:12 revo Exp $">
 <kap>
   <rad>makedon</rad>/o
 </kap>
@@ -22,8 +22,15 @@
   </snc>
   <trd lng="be">&c_m;&c_a;&c_k;&c_je;&c_d;&c_o;&c_n;&c_je;&c_c;</trd>
   <trd lng="ca">macedoni<klr> (subst.)</klr></trd>
+  <trd lng="cs">Makedonec</trd>
+  <trd lng="en">Macedonian</trd>
   <trd lng="fr">Mac&eacute;donien<klr> (subst.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>Macedo&nacute;czyk</trd>,
+    <trd>Macedonka</trd>
+  </trdgrp>
   <trd lng="pt">maced&ocirc;nio <klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="sk">Maced&oacute;nec</trd>
 </drv>
 
 <drv mrk="makedon.0a">
@@ -35,8 +42,11 @@
   </snc>
   <trd lng="be">&c_m;&c_a;&c_k;&c_je;&c_d;&c_o;&c_n;&c_s;&c_k;&c_ib;</trd>
   <trd lng="ca">macedoni<klr> (adj.)</klr></trd>
+  <trd lng="cs">makedonsk&yacute;</trd>
   <trd lng="fr">mac&eacute;donien<klr> (adj.)</klr></trd>
+  <trd lng="pl">macedo&nacute;ski</trd>
   <trd lng="pt">maced&ocirc;nio <klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="sk">maced&oacute;nsky</trd>
 </drv>
 
 <drv mrk="makedon.M0ujo">
@@ -102,6 +112,18 @@
 
 <!--
 $Log: makedon.xml,v $
+Revision 1.12  2015/10/27 07:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2015/09/28 12:10:20  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.10  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2014/06/09 17:10:23  revo
 Damien Brucker: +trd fr
 
@@ -112,7 +134,5 @@ Revision 1.6  2012/08/19 14:10:12  revo
 Marc Rausell: + trd ca
 
 Revision 1.5  2011/02/12 13:10:15  revo
-Luiz Portella: +~o ~a +trd pt
-
 -->
 </vortaro>

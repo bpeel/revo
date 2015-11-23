@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: edz.xml,v 1.47 2014/06/25 17:10:15 revo Exp $">
+<art mrk="$Id: edz.xml,v 1.50 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>edz</rad>/o <fnt><bib>PV</bib></fnt>
@@ -25,7 +25,11 @@
     <trd>&c_s;&c_malmol;&c_p;&c_r;&c_u;&c_g;</trd>,
     <trd>&c_m;&c_malmol;&c_zh;</trd>
   </trdgrp>
-  <trd lng="cs">man&zcaron;el</trd>
+  <trdgrp lng="cs">
+    <trd>choť</trd>,
+    <trd>man&zcaron;el</trd>,
+    <trd>muž</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Ehemann</trd>,
     <trd>Gatte</trd>,
@@ -61,6 +65,7 @@
     <trd>&c_m;&c_u;&c_zh;</trd>,
     <trd>&c_s;&c_u;&c_p;&c_r;&c_u;&c_g;</trd>
   </trdgrp>
+  <trd lng="sk">manžel</trd>
   <trd lng="tp">mije</trd>
   <trdgrp lng="tr">
     <trd>koca</trd>,
@@ -89,6 +94,11 @@
   <trdgrp lng="bg">
     <trd>&c_s;&c_malmol;&c_p;&c_r;&c_u;&c_g;&c_a;</trd>,
     <trd>&c_zh;&c_je;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>manželka</trd>,
+    <trd>paní</trd>,
+    <trd>žena</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Ehefrau</trd>,
@@ -125,6 +135,7 @@
     <trd>&c_zh;&c_je;&c_n;&c_a;</trd>,
     <trd>&c_s;&c_u;&c_p;&c_r;&c_u;&c_g;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">manželka</trd>
   <trd lng="tp">meli</trd>
   <trdgrp lng="tr">
     <trd>kar&inodot;</trd>,
@@ -189,6 +200,11 @@
       (f&eacute;rj&uuml;l/n&odblac;&uuml;l)</klr></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>oddat <klr>(s někým)</klr></trd>,
+    <trd>oženit</trd>,
+    <trd>ženit</trd>
+  </trdgrp>
   <trd lng="en">marry</trd>
   <trd lng="es">casar (a un hombre)</trd>
   <trd lng="id">[<ind>nikah</ind>] menikahkan</trd>
@@ -200,6 +216,7 @@
     <trd>wyswata&cacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_zh;&c_je;&c_n;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">oženiť <klr>(z niekým)</klr></trd>
 </drv>
 
 <drv mrk="edz.0iga">
@@ -337,8 +354,13 @@
     </trdgrp>
     <trd lng="ru">&c_v;&c_z;&c_ja;&c_t;&c_mol; &c_v; &c_zh;&c_jo;&c_n;&c_y;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>provdat <klr>(za někoho)</klr></trd>,
+    <trd>vdát</trd>
+  </trdgrp>
   <trd lng="en">marry</trd>
   <trd lng="nl">uithuwelijken</trd>
+  <trd lng="sk">vydať <klr>(za niekoho)</klr></trd>
 </drv>
 
 <drv mrk="edz.0igxi">
@@ -508,6 +530,7 @@
     </dif>
   </snc>
   <trd lng ="be">&c_sh;&c_l;&c_ju;&c_b;</trd>
+  <trd lng="cs">manželství</trd>
   <trd lng="de">Ehe</trd>
   <trd lng="en">marriage</trd>
   <trd lng="es">matrimonio (estado)</trd>
@@ -522,6 +545,7 @@
     <trd>&c_s;&c_u;&c_p;&c_r;&c_u;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_b;&c_r;&c_a;&c_k;</trd>
   </trdgrp>
+  <trd lng="sk">manželstvo</trd>
 </drv>
 
 <drv mrk="edz.0eca">
@@ -539,6 +563,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_sh;&c_l;&c_ju;&c_b;&c_n;&c_y;</trd>
+  <trd lng="cs">manželský <klr>(dítě)</klr></trd>
   <trd lng="de">ehelich</trd>
   <trd lng="en">marital</trd>
   <trd lng="es">matrimonial</trd>
@@ -554,14 +579,20 @@
     </trd>,
     <trd>&c_b;&c_r;&c_a;&c_ch;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">manželské</trd>
 </drv>
 
 <drv mrk="edz.ge0igxi">
-  <kap>ge<tld/>i&gcirc;i</kap>
+  <kap>ge<tld/>i&gcirc;i,
+  <var><kap>kun<tld/>i&gcirc;i</kap></var>,
+  <var><kap>inter<tld/>i&gcirc;i<fnt>Z</fnt></kap></var></kap>
   <snc mrk="edz.ge0igxi.GEN">
     <uzo tip="fak">GEN</uzo>
     <dif>
       I&gcirc;i ge<tld/>oj:
+      <ekz>
+        inter<tld/>i&gcirc;i kun iu<fnt>Z</fnt>;
+      </ekz>
       <ekz>
         ne gravas kiom malproksimaj ili estas, <klr>...</klr> fine 
         ili havas la &scirc;ancon ge<tld/>i&gcirc;i
@@ -569,14 +600,14 @@
         </lok></fnt>.
       </ekz>
     </dif>
-    <refgrp tip="sin">
-      <ref cel="edz.inter0igxi">inter<tld/>i&gcirc;i</ref>,
-      <ref cel="edz.kun0igxi">kun<tld/>i&gcirc;i</ref>
-    </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_zh;&c_a;&c_n;&c_ib;&c_c;&c_c;&c_a;</trd>
   <trd lng="de">heiraten</trd>
   <trd lng="en">get married</trd>
+  <trdgrp lng="es">
+    <trd>casarse (desde la perspectiva de la pareja)</trd>,
+    <trd>hacerse esposos</trd>
+  </trdgrp>
   <trd lng="fr">se <ind>marier</ind></trd>
   <trd lng="hu">&ouml;sszeh&aacute;zasodik</trd>
   <trd lng="id">[<ind>nikah</ind>] menikah</trd>
@@ -586,10 +617,6 @@
     <trd>bra&cacute; &sacute;lub</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
-  <trdgrp lng="es">
-    <trd>casarse (desde la perspectiva de la pareja)</trd>,
-    <trd>hacerse esposos</trd>
-  </trdgrp>
 </drv>
 
 <drv mrk="edz.eks0igxi">
@@ -622,27 +649,6 @@
   <trd lng="es">divorciarse</trd>
 </drv>
 
-<drv mrk="edz.inter0igxi">
-  <kap>inter<tld/>i&gcirc;i<fnt>Z</fnt></kap>
-  <snc mrk="edz.inter0igxi.GEN">
-    <ref tip="dif" cel="edz.ge0igxi">ge<tld/>i&gcirc;i</ref>
-    <ekz>
-      inter<tld/>i&gcirc;i kun iu<fnt>Z</fnt>.
-    </ekz>
-  </snc>
-  <trd lng="be">&c_p;&c_a;&c_zh;&c_a;&c_n;&c_ib;&c_c;&c_c;&c_a;</trd>
-  <trd lng="de">heiraten</trd>
-  <trd lng="fr">se <ind>marier</ind></trd>
-  <trd lng="hu">&ouml;sszeh&aacute;zasodik</trd>
-  <trd lng="id">[<ind>nikah</ind>] menikah</trd>
-  <trd lng="nl">huwen</trd>
-  <trdgrp lng="pl">
-    <trd>pobiera&cacute; si&eogonek;</trd>,
-    <trd>bra&cacute; &sacute;lub</trd>
-  </trdgrp>
-  <trd lng="ru">&c_p;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
-</drv>
-
 <drv mrk="edz.krom0ino">
   <kap>krom<tld/>ino</kap>
   <snc mrk="edz.krom0ino.GEN">
@@ -657,6 +663,8 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">v polygamním systému druhá a další manželka</trd>
+  <trd lng="es">esposa secundaria</trd>
   <trd lng="fr">concubine<klr> (polygamie)</klr></trd>
   <trdgrp lng="id">
     <trd>gundik</trd>,
@@ -664,36 +672,27 @@
   </trdgrp>
   <trd lng="pl">druga <ind>&zdot;ona</ind></trd>
   <trd lng="ru">&c_m;&c_l;&c_a;&c_d;&c_sh;&c_a;&c_ja; &c_zh;&c_je;&c_n;&c_a;</trd>
-  <trd lng="es">esposa secundaria</trd>
-</drv>
-
-<drv mrk="edz.kun0igxi">
-  <kap>kun<tld/>i&gcirc;i</kap>
-  <snc mrk="edz.kun0igxi.GEN">
-    <ref tip="dif" cel="edz.ge0igxi">ge<tld/>i&gcirc;i</ref>
-  </snc>
-  <trd lng="be">
-  &c_p;&c_a;&c_zh;&c_a;&c_n;&c_ib;&c_c;&c_c;&c_a;</trd>
-  <trd lng="de">heiraten</trd>
-  <trd lng="fr">se <ind>marier</ind></trd>
-  <trd lng="hu">&ouml;sszeh&aacute;zasodik</trd>
-  <trd lng="id">[<ind>nikah</ind>] menikah</trd>
-  <trd lng="nl">huwen</trd>
-  <trdgrp lng="pl">
-    <trd>pobiera&cacute; si&eogonek;</trd>,
-    <trd>bra&cacute; &sacute;lub</trd>
-  </trdgrp>
-  <trd lng="ru">
-  &c_p;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trd lng="sk">v polygamnom systéme druhá manželka</trd>
 </drv>
 
 <drv mrk="edz.nov0o">
   <kap>nov<tld/>o</kap>
-  <snc>
+  <snc mrk="edz.nov0o.MOR">
     <dif>
-      &Jcirc;us <tld/>i&gcirc;inta viro.
+      &Jcirc;us <tld/>i&gcirc;inta viro:
+      <ekz>
+        la gepatroj de la nov<tld/>o <klr>...</klr> devas 
+        alporti ora&jcirc;ojn kaj vesta&jcirc;ojn por sia bofilino
+        <fnt>
+          <aut>Saeed</aut>,
+          <vrk>Silenti signifas konsenti</vrk>,
+          <lok>en: Vivprotokoloj, 2009</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
+  <trd lng="cs">novomanžel</trd>
+  <trd lng="es">reci&eacute;n casado</trd>
   <trd lng="id"><ind>pengantin</ind> baru</trd>
   <trdgrp lng="pl">
     <trd>pan m&lstroke;ody</trd>,
@@ -703,12 +702,15 @@
     <trd>&c_n;&c_o;&c_v;&c_o;&c_b;&c_r;&c_a;&c_ch;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_m;&c_o;&c_l;&c_o;&c_d;&c_o;&c_zh;&c_jo;&c_n;</trd>
   </trdgrp>
-  <trd lng="es">reci&eacute;n casado</trd>
+  <trdgrp lng="sk">
+    <trd>novo ženáč</trd>,
+    <trd>novomanžel</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="edz.nov0ino">
   <kap>nov<tld/>ino</kap>
-  <snc>
+  <snc mrk="edz.nov0ino.MOR">
     <dif>
       &Jcirc;us <tld/>ini&gcirc;inta ino:
       <ekz>
@@ -722,20 +724,24 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">novomanželka</trd>
+  <trd lng="es">reci&eacute;n casada</trd>
   <trd lng="id"><ind>pengantin</ind> baru</trd>
   <trd lng="pl">panna m&lstroke;oda</trd>
   <trdgrp lng="ru">
     <trd>&c_n;&c_o;&c_v;&c_o;&c_b;&c_r;&c_a;&c_ch;&c_n;&c_a;&c_ja;</trd>,
     <trd>&c_m;&c_o;&c_l;&c_o;&c_d;&c_a;&c_ja;</trd>
   </trdgrp>
-  <trd lng="es">reci&eacute;n casada</trd>
+  <trd lng="sk">novomanželka</trd>
 </drv>
 
 <drv mrk="edz.novge0oj">
   <kap>novge<tld/>oj</kap>
-  <snc>
+  <snc mrk="edz.novge0oj.MOR">
     <dif>
-      &Jcirc;use ge<tld/>i&gcirc;inta paro:
+      &Jcirc;use ge<tld/>i&gcirc;inta paro,
+      <ref tip="sub" cel="edz.nov0o.MOR">nov<tld/>o</ref> kaj
+      <ref tip="sub" cel="edz.nov0ino.MOR">nov<tld/>ino</ref>:
       <ekz>
         du monatojn post tio la novge<tld/>oj
         forveturis el Ruslando
@@ -743,11 +749,13 @@
           <aut>A. Kor&jcirc;enkov</aut>:
           <vrk>Enkonduko al &leftquot;Krimo kaj puno&rightquot; de 
           F. Dostojevskij</vrk>.
-          <lok>Sezonoj, 1993</lok>.
+          <lok>1993</lok>.
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">novomanželé</trd>
+  <trd lng="es">reci&eacute;n casados</trd>
   <trd lng="id"><ind>pengantin</ind> baru</trd>
   <trdgrp lng="pl">
     <trd>pa&nacute;stwo m&lstroke;odzi</trd>,
@@ -757,7 +765,7 @@
     <trd>&c_n;&c_o;&c_v;&c_o;&c_b;&c_r;&c_a;&c_ch;&c_n;&c_y;&c_je;</trd>,
     <trd>&c_m;&c_o;&c_l;&c_o;&c_d;&c_o;&c_zh;&c_jo;&c_n;&c_y;</trd>
   </trdgrp>
-  <trd lng="es">reci&eacute;n casados</trd>
+  <trd lng="sk">novomanželia</trd>
 </drv>
 
 <drv mrk="edz.plur0eco">
@@ -797,6 +805,14 @@
       </fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>mnohomužství</trd>,
+    <trd>polyandrie</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mnohomužstvo</trd>,
+    <trd>plyandria</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="edz.plur0ineco">
@@ -817,9 +833,17 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>mnohoženství</trd>,
+    <trd>polygamie</trd>
+  </trdgrp>
+  <trd lng="es">poliginia</trd>
   <trd lng="fr">polygynie</trd>
   <trd lng="id">poligini</trd>
-  <trd lng="es">poliginia</trd>
+  <trdgrp lng="sk">
+    <trd>mnohoženstvo</trd>,
+    <trd>polygamia</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="edz.plurge0eco">
@@ -883,6 +907,15 @@
 </art>
 <!--
 $Log: edz.xml,v $
+Revision 1.50  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.49  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.48  2015/01/10 06:11:30  revo
+Jeromo Vasxe: + ekz
+
 Revision 1.47  2014/06/25 17:10:15  revo
 Eko Nur Syah Hidayat: +id
 
@@ -902,8 +935,5 @@ Revision 1.42  2011/04/01 11:10:10  revo
 Jeromo Vasxe: + plur(ge)~(in)eco
 
 Revision 1.41  2010/08/15 16:30:21  revo
-Jeromo Vasxe: - kramp
-
-Revision 1.40  2010/07/12 16:30:19  revo
 -->
 </vortaro>

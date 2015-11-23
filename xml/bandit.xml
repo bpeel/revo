@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bandit.xml,v 1.15 2012/08/25 11:10:15 revo Exp $">
+<art mrk="$Id: bandit.xml,v 1.17 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>bandit</rad>/o
@@ -20,11 +20,13 @@
     <trd>&c_r;&c_a;&c_z;&c_b;&c_o;&c_j;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
   <trd lng="ca">bandit</trd>
+  <trd lng="cs">gangster</trd>
   <trd lng="de">Bandit</trd>
   <trd lng="en">bandit</trd>
   <trd lng="es">bandido</trd>
   <trd lng="fr">bandit</trd>
   <trd lng="hu">bandita</trd>
+  <trd lng="it">bandito</trd>
   <trd lng="nl">bandiet</trd>
   <trdgrp lng="pl">
     <trd>bandyta</trd>,
@@ -36,14 +38,20 @@
      <trd>&c_r;&c_a;&c_z;&c_b;&c_o;&c_j;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>zbojn&iacute;k</trd>,
-    <trd>bandita</trd>
+    <trd>bandita</trd>,
+    <trd>lúpežník</trd>,
+    <trd>zbojn&iacute;k</trd>
   </trdgrp>
-  <trd lng="it">bandito</trd>
 </drv>
 </art>
 <!--
 $Log: bandit.xml,v $
+Revision 1.17  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2012/08/25 11:10:15  revo
 Marc Rausell: + trd ca
 

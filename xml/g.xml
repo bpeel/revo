@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: g.xml,v 1.6 2014/04/12 07:10:28 revo Exp $">
+<art mrk="$Id: g.xml,v 1.8 2014/12/27 07:10:13 revo Exp $">
 <kap>
     <ofc>*</ofc><rad>g</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -19,6 +19,8 @@
       cel="velar.0o">velaro</ref> [g].
     </dif>
   <trd lng="fr">g<klr> (consonne)</klr></trd>
+  <trd lng="nl">g<klr tip="amb"> (medeklinker)</klr></trd>
+  <trd lng="no">g<klr tip="amb"> (konsonant)</klr></trd>
   </snc>
   <snc>
      <dif>
@@ -26,6 +28,8 @@
       Esperanta alfabeto, uzata i.a. kiel:
      </dif>
   <trd lng="fr">g<klr> (lettre)</klr></trd>
+  <trd lng="nl">g<klr tip="amb"> (letter)</klr></trd>
+  <trd lng="no">g<klr tip="amb"> (bokstav)</klr></trd>
   <subsnc>
   <uzo tip="fak">MUZ</uzo>
   <dif>
@@ -34,6 +38,14 @@
   lit="G"/>-kleo</ekz>;
   </dif>
   <trd lng="fr">sol</trd>
+  <trdgrp lng="nl">
+    <trd>g<klr tip="amb"> (muzieknoot)</klr></trd>,
+    <trd>sol</trd>
+  </trdgrp>
+  <trdgrp lng="no">
+    <trd>G<klr tip="amb"> (tone)</klr></trd>,
+    <trd>sol</trd>
+  </trdgrp>
   </subsnc>
   <subsnc>
   <uzo tip="fak">FIZ</uzo>
@@ -41,6 +53,8 @@
   (min.) simbolo de gramo: <ekz><tld/></ekz>;
   </dif>
   <trd lng="fr">gramme</trd>
+  <trd lng="nl">gram</trd>
+  <trd lng="no">gram</trd>
   </subsnc>
   <subsnc>
   <uzo tip="fak">FIZ</uzo>
@@ -49,6 +63,11 @@
   difinita loko: <ekz> en Parizo <tld/>=9,81 m/s&quadrat;</ekz>;
   </dif>
   <trd lng="fr">constante de gravitation</trd>
+  <trdgrp lng="nl">
+    <trd>gravitatieconstante</trd>,
+    <trd>constante van de <ind>zwaartekracht</ind></trd>
+  </trdgrp>
+  <trd lng="no">gravitasjonskonstant</trd>
   </subsnc>
   
   </snc>
@@ -71,6 +90,12 @@
 
 <!--
 $Log: g.xml,v $
+Revision 1.8  2014/12/27 07:10:13  revo
+Filip van Laenen: korr(nl,no)
+
+Revision 1.7  2014/12/27 00:10:12  revo
+Filip van Laenen: +trd(nl,no)
+
 Revision 1.6  2014/04/12 07:10:28  revo
 Damien Brucker: aldono (dauxrigo)
 
@@ -87,7 +112,5 @@ Revision 1.2  2013/12/28 13:10:21  revo
 Damien Brucker: +ref
 
 Revision 1.1  2013/12/27 21:10:21  revo
-Damien Brucker: nova artikolo
-
 -->
 </vortaro>

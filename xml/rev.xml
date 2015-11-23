@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rev.xml,v 1.26 2013/12/24 09:10:10 revo Exp $">
+<art mrk="$Id: rev.xml,v 1.31 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rev</rad>/i <fnt><bib>PV</bib></fnt>
@@ -30,6 +30,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>snít</trd>,
+    <trd>toužit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>tr&auml;umen</trd>,
     <trd>schw&auml;rmen</trd>
@@ -41,8 +45,11 @@
     <trd>be in a reverie</trd>
   </trdgrp>
   <trdgrp lng="es">
-    <trd>so&ntilde;ar</trd>,
-    <trd>imaginar algo</trd>
+    <trd>so&ntilde;ar <klr>(despierto)</klr></trd>,
+    <trd>imaginar</trd>,
+    <trd>fantasear</trd>,
+    <trd>aspirar</trd>,
+    <trd>anhelar</trd>
   </trdgrp>
   <trd lng="fr">r&ecirc;ver de<klr tip="amb"> (fortement
   d&eacute;sirer)</klr></trd>
@@ -60,6 +67,10 @@
     <trd>fantasiar</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_je;&c_ch;&c_t;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>rojčiť</trd>,
+    <trd>sniť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rev.0a">
@@ -73,6 +84,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>snivý</trd>,
+    <trd>snílkovský</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>dreamy</trd>,
     <trd>lost in thought</trd>,
@@ -83,7 +98,9 @@
     <trd>&aacute;br&aacute;ndos</trd>,
     <trd>&aacute;lmodoz&oacute;</trd>
   </trdgrp>
-  <trd lng="ru">&c_m;&c_je;&c_ch;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd
+  lng="ru">&c_m;&c_je;&c_ch;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">snívajúci</trd>
 </drv>
 
 <drv mrk="rev.0o">
@@ -104,7 +121,8 @@
         hodia&ubreve;a <tld/>o povas fari&gcirc;i morga&ubreve;a realo;
       </ekz>
       <ekz>
-        &ccirc;io apartenas ankora&ubreve; al la regno de <tld/>oj<fnt>Z</fnt>;
+        &ccirc;io apartenas ankora&ubreve; al la regno de
+        <tld/>oj<fnt>Z</fnt>;
       </ekz>
       <ekz>
         li sidis dronanta en <tld/>oj<fnt>B</fnt>.
@@ -114,8 +132,12 @@
       <ref cel="utopi.0o">utopio</ref>
     </refgrp>
   </snc>
-  <trd lng="bg">&c_m;&c_je;&c_ch;&c_t;&c_a;</trd>
   <trd lng="be">&c_m;&c_a;&c_r;&c_a;</trd>
+  <trd lng="bg">&c_m;&c_je;&c_ch;&c_t;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>sen</trd>,
+    <trd>touha</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>(Tag-)Traum</trd>,
     <trd>Schwarm</trd>
@@ -125,13 +147,25 @@
     <trd>daydream</trd>,
     <trd>reverie</trd>
   </trdgrp>
-  <trd lng="es">el sue&ntilde;o de una vida</trd>
-  <trd lng="fr">r&ecirc;verie</trd>
+  <trdgrp lng="es">
+    <trd>sue&ntilde;o <klr>(aspiraci&oacute;n)</klr></trd>,
+    <trd>anhelo</trd>,
+    <trd>aspiraci&oacute;n</trd>,
+    <trd>ilusi&oacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>r&ecirc;verie</trd>,
+    <trd>r&ecirc;ve<klr tip="amb"> (&eacute;veill&eacute;)</klr></trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>&aacute;br&aacute;nd</trd>,
     <trd>&aacute;lom <klr tip="ind">(&aacute;br&aacute;nd)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_je;&c_ch;&c_t;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>sen</trd>,
+    <trd>túžba</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rev.0ema">
@@ -152,7 +186,13 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>snivý</trd>,
+    <trd>snílkovský</trd>
+  </trdgrp>
+  <trd lng="es">so&ntilde;ador <klr>(despierto)</klr></trd>
   <trd lng="fr">r&ecirc;veur<klr> (adj.)</klr></trd>
+  <trd lng="sk">snivý</trd>
 </drv>
 
 <drv mrk="rev.0iga">
@@ -162,15 +202,24 @@
       Favoranta dol&ccirc;an, <tld/>an animstaton:
       <ekz>
         la <tld/>iga trankvileco de la pa&scirc;tejoj
-        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 1a, renkonto</lok></fnt>.
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 1a,
+        renkonto</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">vyvolávající snění</trd>
+  <trdgrp lng="es">
+    <trd>inspirador</trd>,
+    <trd>evocador</trd>,
+    <trd>ilusionante</trd>
+  </trdgrp>
   <trdgrp lng="fr">
-    <trd>&eacute;vocateur<klr tip="amb"> (qui fait r&ecirc;ver)</klr></trd>,
+    <trd>&eacute;vocateur<klr tip="amb"> (qui fait
+    r&ecirc;ver)</klr></trd>,
     <trd>suggestif<klr tip="amb"> (qui fait r&ecirc;ver)</klr></trd>
   </trdgrp>
   <trd lng="hu">andal&iacute;t&oacute;</trd>
+  <trd lng="sk">vyvolávajúci snenie</trd>
 </drv>
 
 <drv mrk="rev.0ulo">
@@ -181,18 +230,26 @@
       Homo ema al <tld/>ado, eventuale ne praktikema a&ubreve;
       ne atenta al situacioj:
       <ekz>
-        mi volas fari portreton de amiko, &mdash; skribis van Gogh  al sia 
+        mi volas fari portreton de amiko, &mdash; skribis van Gogh  al
+        sia 
         frato, &mdash; pentriston, <tld/>ulon, kiu laboras same, kiel
         najtingalo kantas
-        <fnt><aut>J. Mura&scirc;kovskij, I. Mura&scirc;kovska</aut>, <vrk>Kien 
+        <fnt><aut>J. Mura&scirc;kovskij, I. Mura&scirc;kovska</aut>,
+        <vrk>Kien 
         fluas roj&#8217; Castalie?</vrk>, <lok>1984-1987</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">snílek</trd>
+  <trdgrp lng="es">
+    <trd>so&ntilde;ador (persona)</trd>,
+    <trd>iluso</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>r&ecirc;veur<klr> (subst.)</klr></trd>,
     <trd>t&ecirc;te-en-l'air<klr> (subst.)</klr></trd>
   </trdgrp>
+  <trd lng="sk">rojko</trd>
 </drv>
 
 <drv mrk="rev.el0igi">
@@ -203,17 +260,28 @@
       Sobrige remeti anta&ubreve; la realon kaj senigi je vanaj esperoj.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>probudit ze snění</trd>,
+    <trd>rozčarovat</trd>,
+    <trd>zklamat</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>disillusion</trd>,
     <trd>disappoint</trd>,
     <trd>disenchant</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>decepcionar</trd>,
+    <trd>desilusionar</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>d&eacute;tromper</trd>,
     <trd>d&eacute;sillusionner</trd>
   </trdgrp>
   <trd lng="hu">ki&aacute;br&aacute;nd&iacute;t</trd>
-  <trd lng="ru">&c_r;&c_a;&c_z;&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd
+  lng="ru">&c_r;&c_a;&c_z;&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">rozčarovať</trd>
 </drv>
 
 <drv mrk="rev.el0igxi">
@@ -229,6 +297,7 @@
     <trd>become disappointed</trd>,
     <trd>become disenchanted</trd>
   </trdgrp>
+  <trd lng="es">decepcionarse</trd>
   <trdgrp lng="fr">
     <trd>se <ind>d&eacute;tromper</ind></trd>,
     <trd>perdre ses illusions</trd>
@@ -237,7 +306,8 @@
     <trd>ki&aacute;br&aacute;ndul</trd>,
     <trd>csal&oacute;dik</trd>
   </trdgrp>
-  <trd lng="ru">&c_r;&c_a;&c_z;&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trd
+  lng="ru">&c_r;&c_a;&c_z;&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
 </drv>
 
 <drv mrk="rev.el0igxo">
@@ -254,11 +324,16 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_r;&c_a;&c_s;&c_ch;&c_a;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd
+  lng="be">&c_r;&c_a;&c_s;&c_ch;&c_a;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trdgrp lng="en">
     <trd>disillusionment</trd>,
     <trd>disappointment</trd>,
     <trd>disenchantment</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>decepci&oacute;n</trd>,
+    <trd>desilusi&oacute;n</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>d&eacute;ception</trd>,
@@ -269,7 +344,8 @@
     <trd>ontgoocheling</trd>,
     <trd>teleurstelling</trd>
   </trdgrp>
-  <trd lng="ru">&c_r;&c_a;&c_z;&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trd
+  lng="ru">&c_r;&c_a;&c_z;&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
 </drv>
 
 <drv mrk="rev.for0i">
@@ -285,6 +361,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">ukolébat někoho <klr>(do snění)</klr></trd>
   <trd lng="en">dream away</trd>
   <trd lng="fr">oublier<klr tip="amb"> (en r&ecirc;vant d'autre
   chose)</klr></trd>
@@ -292,10 +369,47 @@
     <trd>elfelejt <klr tip="ind">(bajt)</klr></trd>,
     <trd>megfeledkezik <klr tip="ind">(bajr&oacute;l)</klr></trd>
   </trdgrp>
+  <trd lng="sk">ukolísať niekoho <klr>(do snenia)</klr></trd>
+</drv>
+
+<drv mrk="rev.pri0i">
+  <kap>pri<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rev.pri0i.KOMUNE">
+    <dif>
+      <tld lit="R"/>i pri..., imagi, mense bildigi:
+      <ekz>
+        trinku iom da brando anta&ubreve; ol dormi kaj pri<tld/>i 
+        feli&ccirc;a&jcirc;ojn
+        <fnt>
+          <aut>M. Ahado</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/fajro38/422968">
+          Ebrii&gcirc;u</url></vrk>,
+          <lok>2012-10-18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">r&ecirc;ver de</trd>
 </drv>
 </art>
 <!--
 $Log: rev.xml,v $
+Revision 1.31  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2015/04/05 10:10:17  revo
+Carlos Garcia: +trd es -i -o -ema -iga -ulo -igi el-igxi el-igxo
+
+Revision 1.28  2015/03/02 21:10:16  revo
+Jeromo Vasxe: + pri~i
+
+Revision 1.27  2015/01/14 16:10:13  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.26  2013/12/24 09:10:10  revo
 Dmitri Gabinski: +trd be
 
@@ -309,14 +423,5 @@ Revision 1.23  2012/01/29 18:10:08  revo
 Agustin Garcia Lopez: +trd(es) -o
 
 Revision 1.22  2011/11/21 23:10:12  revo
-Agustin Garcia Lopez: +trd-es (-i)
-
-Revision 1.21  2010/04/21 16:30:20  revo
-Jeromo Vasxe: + ~ulo
-
-Revision 1.20  2009/03/01 17:32:13  revo
-Wieland Pusch: +trd bg
-
-Revision 1.19  2009/02/19 20:27:18  revo
 -->
 </vortaro>

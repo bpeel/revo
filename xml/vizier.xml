@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vizier.xml,v 1.15 2012/08/12 17:10:27 revo Exp $">
+<art mrk="$Id: vizier.xml,v 1.17 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vizier</rad>/o
@@ -40,17 +40,31 @@ cel="vest.kap0o">kapvesto</ref>.
     <trd lng="ru">&c_k;&c_o;&c_z;&c_y;&c_r;&c_jo;&c_k;</trd>
   </snc>
   <trd lng="ca">visera</trd>
-  <trd lng="es">visera</trd>
-  <trd lng="fr">visi&egrave;re</trd>
-  <trd lng="pt">viseira</trd>
+  <trdgrp lng="cs">
+    <trd>hist.. hledí <klr>(přilby brnění)</klr></trd>,
+    <trd>štítek čepice</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>visor</trd>,
     <trd>vizor</trd>
+  </trdgrp>
+  <trd lng="es">visera</trd>
+  <trd lng="fr">visi&egrave;re</trd>
+  <trd lng="pt">viseira</trd>
+  <trdgrp lng="sk">
+    <trd>2.tienidlo na čipke</trd>,
+    <trd>mriežky prilby</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: vizier.xml,v $
+Revision 1.17  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2012/08/12 17:10:27  revo
 Marc Rausell: + trd ca
 

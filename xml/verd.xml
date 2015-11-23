@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: verd.xml,v 1.35 2014/07/01 17:10:23 revo Exp $">
+<art mrk="$Id: verd.xml,v 1.38 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>verd</rad>/a <fnt><bib>PV</bib></fnt>
@@ -51,6 +51,7 @@
   <trd lng="sv">gr&ouml;n</trd>
   <trd lng="tr">ye&scedil;il</trd>
   <trd lng="vo">gl&uuml;nik</trd>
+  <trd lng="zh">绿 [<ind>lǜ</ind>]</trd>
 </drv>
 
 <drv mrk="verd.0i">
@@ -67,7 +68,8 @@
   <trd lng="be">&c_z;&c_je;&c_l;&c_ja;&c_n;&c_je;&c_c;&c_mol;
     <klr tip="amb">(&c_b;&c_y;&c_c;&c_mol;
     &c_z;&c_ja;&c_l;&c_jo;&c_n;&c_y;&c_m;)</klr></trd>
-    <trd lng="ca">verdejar</trd>
+  <trd lng="ca">verdejar</trd>
+  <trd lng="cs">zelenat se</trd>
   <trd lng="fr">verdoyer</trd>
   <trd lng="hu">z&ouml;ldell</trd>
   <trd lng="id">[<ind>hijau</ind>] menghijau</trd>
@@ -77,7 +79,10 @@
   <trd lng="ru">&c_z;&c_je;&c_l;&c_je;&c_n;&c_je;&c_t;&c_mol; <klr
   tip="amb">(&c_b;&c_y;&c_t;&c_mol;
   &c_z;&c_je;&c_l;&c_jo;&c_n;&c_y;&c_m;)</klr></trd>
-  <trd lng="sk">zelena&tcaron; sa</trd>
+  <trdgrp lng="sk">
+    <trd>zazelenať <klr>(sa)</klr></trd>,
+    <trd>zelena&tcaron; sa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="verd.0o">
@@ -89,8 +94,9 @@
     </dif>
   </snc>
   <trd lng="bg">&c_z;&c_je;&c_l;&c_je;&c_n;&c_o;</trd>
-  <trd lng="de">Gr&uuml;n</trd>
   <trd lng="ca">verd<klr> (subst.)</klr></trd>
+  <trd lng="cs">zeleň</trd>
+  <trd lng="de">Gr&uuml;n</trd>
   <trd lng="fr">vert<klr> (subst.)</klr></trd>
   <trd lng="hu">z&ouml;ld sz&iacute;n</trd>
   <trd lng="it">verde<klr> (sost.)</klr></trd>
@@ -99,6 +105,7 @@
   <trd lng="pl">ziele&nacute;</trd>
   <trd lng="ru">&c_z;&c_je;&c_l;&c_je;&c_n;&c_mol;<klr>
   (&c_c;&c_v;&c_je;&c_t;)</klr></trd>
+  <trd lng="sk">zeleň <klr>(farba)</klr></trd>
 </drv>
 
 <drv mrk="verd.0ulo">
@@ -189,7 +196,8 @@
       <trd>obro&nacute;ca praw przyrody</trd>
     </trdgrp>
   </snc>
-  <trd lng="ru">&c_z;&c_je;&c_l;&c_jo;&c_n;&c_y;&c_j;<klr> (&c_v; &c_z;&c_n;&c_a;&c_ch;. &c_s;&c_u;&c_shch;.)</klr></trd> 
+  <trd lng="ru">&c_z;&c_je;&c_l;&c_jo;&c_n;&c_y;&c_j;<klr> (&c_v; 
+&c_z;&c_n;&c_a;&c_ch;. &c_s;&c_u;&c_shch;.)</klr></trd> 
 </drv>
 
 <drv mrk="verd.cxiam0a">
@@ -215,11 +223,21 @@
   <trd lng="fr">&agrave; feuilles persistantes</trd>
   <trd lng="it">sempreverde<klr> (agg.)</klr></trd>  
   <trd lng="pl">wiecznie <ind>zielony</ind></trd>
-  <trd lng="ru">&c_v;&c_je;&c_ch;&c_n;&c_o;&c_z;&c_je;&c_l;&c_jo;&c_n;&c_y;&c_j;</trd>
+  <trd 
+lng="ru">&c_v;&c_je;&c_ch;&c_n;&c_o;&c_z;&c_je;&c_l;&c_jo;&c_n;&c_y;&c_j;</trd>
 </drv>
 </art>
 <!--
 $Log: verd.xml,v $
+Revision 1.38  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.37  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.36  2015/06/26 22:10:22  revo
+Darcy Shen: +trd zh
+
 Revision 1.35  2014/07/01 17:10:23  revo
 Eko Nur Syah Hidayat: +id
 
@@ -239,8 +257,5 @@ Revision 1.30  2010/01/07 17:30:34  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.29  2009/12/27 17:30:26  revo
-Wieland Pusch: +trd de
-
-Revision 1.28  2009/12/15 17:30:38  revo
 -->
 </vortaro>

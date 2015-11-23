@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: minera1.xml,v 1.20 2014/01/05 13:10:25 revo Exp $">
+<art mrk="$Id: minera1.xml,v 1.23 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>mineralogi</rad>/o
@@ -20,6 +20,10 @@
   </snc>
   <trd lng="be">&c_m;&c_ib;&c_n;&c_e;&c_r;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
   <trd lng="ca">mineralogia</trd>
+  <trdgrp lng="cs">
+    <trd>mineralogie</trd>,
+    <trd>n. o nerostech</trd>
+  </trdgrp>
   <trd lng="de">Mineralogie</trd>
   <trd lng="en">mineralogy</trd>
   <trd lng="es">mineralog&iacute;a</trd>
@@ -29,9 +33,14 @@
   </trdgrp>
   <trd lng="fr">min&eacute;ralogie</trd>
   <trd lng="hu">&aacute;sv&aacute;nytan</trd>
+  <trd lng="id">mineralogi</trd>
   <trd lng="nl">mineralogie</trd>
   <trd lng="pt">mineralogia</trd>
   <trd lng="ru">&c_m;&c_i;&c_n;&c_je;&c_r;&c_a;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>mineralógia</trd>,
+    <trd>nerastopis</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="minera1.0isto">
@@ -49,10 +58,20 @@
   <trd lng="ca">mineralogista</trd>
   <trd lng="en">mineralogist</trd>
   <trd lng="fr">min&eacute;ralogiste</trd>
+  <trd lng="id">mineralog</trd>
 </drv>
 </art>
 <!--
 $Log: minera1.xml,v $
+Revision 1.23  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/11/12 08:10:44  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.20  2014/01/05 13:10:25  revo
 Damien Brucker: +trd fr
 
@@ -72,8 +91,5 @@ Revision 1.15  2006/08/05 16:31:13  revo
 Tulio Flores: +tr pt
 
 Revision 1.14  2006/06/19 16:32:25  revo
-Jeromo Vasxe: + fak min sci
-
-Revision 1.13  2005/04/07 16:33:12  revo
 -->
 </vortaro>

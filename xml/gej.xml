@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gej.xml,v 1.15 2014/10/24 07:10:26 revo Exp $">
+<art mrk="$Id: gej.xml,v 1.17 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>gej</rad>/o
 </kap>
@@ -81,6 +81,8 @@
     <trd>guei</trd>
   </trdgrp>
   <trd lng="ru">&c_g;&c_o;&c_m;&c_o;&c_s;&c_je;&c_k;&c_s;&c_u;&c_a;&c_l;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">homosexuál</trd>
+  <trd lng="cs">homosexuál</trd>
 </drv>
 <drv mrk="gej.0a">
   <kap><tld/>a</kap>
@@ -116,13 +118,19 @@
     <trd>gai<klr> (adj.)</klr></trd>,
     <trd>homosexual<klr> (adj.)</klr></trd>
   </trdgrp>
-   <trdgrp lng="de">
+  <trd lng="cs">homosexuální</trd>
+  <trdgrp lng="de">
     <trd>schwul</trd>,
     <trd>homosexuell</trd></trdgrp>
   <trd lng="es">homosexual</trd>
   <trdgrp lng="fr">
     <trd>homosexuel<klr tip="ind"> (adj.)</klr></trd>,
-    <trd>gay</trd></trdgrp> 
+    <trd>gay</trd></trdgrp>
+  <trdgrp lng="hu">
+    <trd>homoszexu&aacute;lis</trd>,
+    <trd>homokos</trd>,
+    <trd>meleg<klr tip="ind"> (homokos)</klr></trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd>gay</trd>,
     <trd>homo</trd>,
@@ -131,20 +139,22 @@
   <trdgrp lng="it">
     <trd>omosessuale<klr tip="ind"> (agg.)</klr></trd>,
     <trd>gay<klr tip="ind"> (agg.)</klr></trd>
-  </trdgrp> 
-  <trdgrp lng="hu">
-    <trd>homoszexu&aacute;lis</trd>,
-    <trd>homokos</trd>,
-    <trd>meleg<klr tip="ind"> (homokos)</klr></trd>
   </trdgrp>
   <trd lng="nl">homoseksueel</trd>
   <trd lng="pt">homossexual</trd>
+  <trd lng="sk">homosexuálny</trd>
 </drv>
 
 </art>
 
 <!--
 $Log: gej.xml,v $
+Revision 1.17  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2014/10/24 07:10:26  revo
 Eko Nur Syah Hidayat: +trd id
 

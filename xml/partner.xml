@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: partner.xml,v 1.6 2009/12/01 17:30:39 revo Exp $">
+<art mrk="$Id: partner.xml,v 1.8 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>partner</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -49,6 +49,10 @@
       </dif>
     </subsnc>
   </snc>
+  <trdgrp lng="cs">
+    <trd>partner</trd>,
+    <trd>společník</trd>
+  </trdgrp>
   <trd lng="de">(Ehe-)Partner</trd>
   <trdgrp lng="fr">
     <trd>associ&eacute;</trd>,
@@ -56,6 +60,10 @@
   </trdgrp>
   <trd lng="nl">partner</trd>
   <trd lng="pt">parceiro</trd>
+  <trdgrp lng="sk">
+    <trd>partner</trd>,
+    <trd>spoločník</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="partner.0i">
@@ -86,6 +94,12 @@
 
 <!--
 $Log: partner.xml,v $
+Revision 1.8  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2009/12/01 17:30:39  revo
 Jeromo Vasxe: ref dif cxe snc 2
 

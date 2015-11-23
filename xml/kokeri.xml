@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kokeri.xml,v 1.16 2014/09/24 08:10:17 revo Exp $">
+<art mrk="$Id: kokeri.xml,v 1.18 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>kokerik</rad>/i
   <fnt>C</fnt>
@@ -17,6 +17,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_u;&c_k;&c_a;&c_r;&c_e;&c_k;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">kokrhat</trd>
   <trd lng="de">kr&auml;hen</trd>
   <trdgrp lng="en">
     <trd>crow</trd>,
@@ -31,6 +32,7 @@
   <trd lng="nl">kraaien<klr tip="ind"> (als een haan)</klr></trd>
   <trd lng="pl">pia&cacute;<klr tip="ind"> (o kogucie)</klr></trd>
   <trd lng="ru">&c_k;&c_u;&c_k;&c_a;&c_r;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">kikiríkať</trd>
 </drv>
 
 <drv mrk="kokeri.0o">
@@ -46,6 +48,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_u;&c_k;&c_a;&c_r;&c_e;&c_k;&c_u;</trd>
+  <trd lng="cs">kokrhání</trd>
   <trdgrp lng="de">
     <trd>Hahnenschrei</trd>,
     <trd>Kikeriki</trd>
@@ -63,10 +66,17 @@
   <trd lng="nl">gekraai</trd>
   <trd lng="pl">pianie<klr tip="ind"> (koguta)</klr></trd>
   <trd lng="ru">&c_k;&c_u;&c_k;&c_a;&c_r;&c_je;&c_k;&c_u;</trd>
+  <trd lng="sk">kikiríkanie</trd>
 </drv>
 </art>
 <!--
 $Log: kokeri.xml,v $
+Revision 1.18  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2014/09/24 08:10:17  revo
 Sebastian Cyprych: +trd pl
 

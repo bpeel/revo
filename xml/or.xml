@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: or.xml,v 1.36 2014/06/06 04:10:51 revo Exp $">
+  <art mrk="$Id: or.xml,v 1.39 2015/07/04 08:37:40 revo Exp $">
     <kap>
       <ofc>*</ofc> <rad>or</rad>/o
     </kap>
@@ -89,27 +89,27 @@
         </dif>
         <trd lng="de">Gold</trd>
         <trd lng="nl">goud</trd>
-      </snc>                                 
-      <trd lng="be">&c_z;&c_o;&c_l;&c_a;&c_t;&c_a;</trd>
-      <trd lng="br">aour</trd>
-      <trd lng="ca">or</trd>
-      <trd lng="cs">zlato</trd>
-      <trdgrp lng="el">
+      </snc>
+  <trd lng="be">&c_z;&c_o;&c_l;&c_a;&c_t;&c_a;</trd>
+  <trd lng="br">aour</trd>
+  <trd lng="ca">or</trd>
+  <trd lng="cs">zlato</trd>
+  <trdgrp lng="el">
         <trd>&chi;&rho;&ypsilon;&sigma;&alfa_ton;&phi;&jota;</trd>,
         <trd>&chi;&rho;&ypsilon;&sigma;&omikron_ton;&sigma_fina;</trd>
       </trdgrp>
-      <trd lng="en">gold</trd>
-      <trd lng="hu">arany</trd>
-	  <trd lng="pl">z&lstroke;oto</trd>
-      <trd lng="id">emas</trd>
-      <trd lng="pl">z&lstroke;oto</trd>
-      <trdgrp lng="pt">
+  <trd lng="en">gold</trd>
+  <trd lng="hu">arany</trd>
+  <trd lng="id">emas</trd>
+  <trd lng="pl">z&lstroke;oto</trd><trd lng="pl">z&lstroke;oto</trd>
+  <trdgrp lng="pt">
         <trd>oiro</trd>,
         <trd>ouro<klr> (bras.)</klr></trd>
       </trdgrp>
-      <trd lng="ru">&c_z;&c_o;&c_l;&c_o;&c_t;&c_o;</trd>
-      <trd lng="sv">guld</trd>
-    </drv>
+  <trd lng="ru">&c_z;&c_o;&c_l;&c_o;&c_t;&c_o;</trd>
+  <trd lng="sk">zlato</trd>
+  <trd lng="sv">guld</trd>
+</drv>
 
     <drv mrk="or.0a">
       <kap><tld/>a</kap>
@@ -157,6 +157,10 @@
         </ekz>
         <trd lng="de">golden</trd>
       </subsnc>
+      <trdgrp lng="fr">
+        <trd>d'or</trd>,
+        <trd>en or</trd>
+      </trdgrp>
       </snc>
       <snc mrk="or.0a.kolore">
         <dif>
@@ -164,6 +168,7 @@
           lst="voko:koloroj">koloron</ref> de <tld/>o.
          </dif>
          <ref tip="sub" cel="blond.0a">blonda</ref>
+         <trd lng="fr">dor&eacute;</trd>
       </snc>
       <trd lng="be">&c_z;&c_a;&c_l;&c_a;&c_t;&c_y;</trd>  
       <trd lng="bg">&c_z;&c_l;&c_a;&c_t;&c_o;</trd>    
@@ -262,8 +267,13 @@
         </trdgrp>
         <trd lng="pl">z&lstroke;oci&cacute; si&eogonek;</trd>
       </snc>
-      <trd lng="es">chapar<klr tip="amb"> (en oro)</klr></trd>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>pozlatit</trd>,
+    <trd>zlatit</trd>
+  </trdgrp>
+  <trd lng="es">chapar<klr tip="amb"> (en oro)</klr></trd>
+  <trd lng="sk">pozlátiť</trd>
+</drv>
 
     <drv mrk="or.0igi">
       <kap><tld/>igi</kap>
@@ -280,18 +290,23 @@
           </ekz>
         </dif>
       </snc>
-      <trdgrp lng="ca">
+  <trdgrp lng="ca">
         <trd><ind>fer tornar</ind> daurat</trd>,
         <trd><ind>convertir</ind> en or</trd>
       </trdgrp>
-      <trd lng="es">dorar</trd>
-      <trdgrp lng="ru">
+  <trdgrp lng="cs">
+    <trd>pozlatit</trd>,
+    <trd>zlatit</trd>
+  </trdgrp>
+  <trd lng="es">dorar</trd>
+  <trd lng="pl">z&lstroke;oci&cacute;</trd>
+  <trdgrp lng="ru">
         <trd>&c_z;&c_o;&c_l;&c_o;&c_t;&c_i;&c_t;&c_mol;</trd>,
         <trd>&c_o;&c_b;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_mol; &c_v;
           &c_z;&c_o;&c_l;&c_o;&c_t;&c_o;</trd>
       </trdgrp>
-      <trd lng="pl">z&lstroke;oci&cacute;</trd>
-    </drv>
+  <trd lng="sk">pozlátiť</trd>
+</drv>
 
     <drv mrk="or.0umi">
       <kap><tld/>umi</kap>
@@ -322,14 +337,19 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="ca">durar <klr>(comunicar un color semblant al de
+  <trd lng="ca">durar <klr>(comunicar un color semblant al de
       l'or)</klr></trd>
-      <trdgrp lng="ru">
+  <trdgrp lng="cs">
+    <trd>pozlatit aplikací zlaté fólie</trd>,
+    <trd>zabalit do pozlátka</trd>
+  </trdgrp>
+  <trd lng="pl">poz&lstroke;oci&cacute;</trd>
+  <trdgrp lng="ru">
         <trd>&c_z;&c_o;&c_l;&c_o;&c_t;&c_i;&c_t;&c_mol;</trd>,
         <trd>&c_p;&c_o;&c_z;&c_o;&c_l;&c_o;&c_t;&c_i;&c_t;&c_mol;</trd>
       </trdgrp>
-      <trd lng="pl">poz&lstroke;oci&cacute;</trd>
-    </drv>
+  <trd lng="sk">pozlátiť</trd>
+</drv>
 
     <drv mrk="or.0umo">
       <kap><tld/>umo</kap>
@@ -387,8 +407,10 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="ca">dauradura</trd>
-    </drv>
+  <trd lng="ca">dauradura</trd>
+  <trd lng="cs">pozlátko</trd>
+  <trd lng="sk">pozlátka</trd>
+</drv>
 
     <drv mrk="or.0ajxo">
       <kap><tld/>a&jcirc;o</kap>
@@ -440,16 +462,21 @@
         <dif>
           Regiono, en kiu oni trovas <tld/>masojn a&ubreve; <tld/>vejnojn.
         </dif>
-      </snc>                               
-      <trd lng="br">aoureg</trd>
-      <trd lng="ca">mina, jaciment <klr>(d'or)</klr></trd>
-      <trd lng="hu">aranylel&odblac;hely</trd>
-      <trd lng="nl">goudveld</trd>
-      <trdgrp lng="ru">
+      </snc>
+  <trd lng="br">aoureg</trd>
+  <trd lng="ca">mina, jaciment <klr>(d'or)</klr></trd>
+  <trd lng="cs">naleziště zlata</trd>
+  <trd lng="hu">aranylel&odblac;hely</trd>
+  <trd lng="nl">goudveld</trd>
+  <trdgrp lng="ru">
         <trd>&c_z;&c_o;&c_l;&c_o;&c_t;&c_a;&c_ja; &c_r;&c_o;&c_s;&c_s;&c_y;&c_p;&c_mol;</trd>,
         <trd>&c_z;&c_o;&c_l;&c_o;&c_t;&c_o;&c_j; &c_p;&c_r;&c_i;&c_i;&c_s;&c_k;</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>nálezisko zlata</trd>,
+    <trd>zlatonosná oblasť</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="or.0igisto">
       <kap><tld/>igisto</kap>
@@ -457,17 +484,28 @@
         <dif>
           Tiu, kiu profesie <tld/>as.
         </dif>
-      </snc>                                  
-      <trd lng="br">alaourer</trd> 
-      <trd lng="ca">daurador</trd>      
-      <trd lng="fr">doreur</trd>
-      <trd lng="el">&chi;&rho;&ypsilon;&sigma;&omikron;&chi;&omikron_ton;&omikron;&sigma_fina;</trd>
-      <trd lng="hu">aranyoz&oacute;</trd>
-      <trd lng="pt">ourives</trd>
-    </drv>
+      </snc>
+  <trd lng="br">alaourer</trd>
+  <trd lng="ca">daurador</trd>
+  <trd lng="cs">pozlacovač</trd>
+  <trd lng="el">&chi;&rho;&ypsilon;&sigma;&omikron;&chi;&omikron_ton;&omikron;&sigma_fina;</trd>
+  <trd lng="fr">doreur</trd>
+  <trd lng="hu">aranyoz&oacute;</trd>
+  <trd lng="pt">ourives</trd>
+  <trd lng="sk">pozlacovač</trd>
+</drv>
   </art>
   <!--
   $Log: or.xml,v $
+  Revision 1.39  2015/07/04 08:37:40  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.38  2015/06/29 16:33:22  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.37  2015/04/16 20:10:15  revo
+  Alain Gerard: +trd (fr)
+
   Revision 1.36  2014/06/06 04:10:51  revo
   Eko Nur Syah Hidayat: +id
 

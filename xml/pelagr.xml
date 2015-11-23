@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pelagr.xml,v 1.4 2013/10/07 15:10:41 revo Exp $">
+<art mrk="$Id: pelagr.xml,v 1.7 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>pelagr</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -33,15 +33,30 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>drsná kůže</trd>,
+    <trd>pelagra</trd>
+  </trdgrp>
   <trd lng="de">Pellagra</trd>
   <trd lng="fr">pellagre</trd>
+  <trd lng="id">pelagra</trd>
   <trd lng="it">pellagra</trd>
   <trd lng="nl">pellagra</trd>
+  <trd lng="sk">pelagra</trd>
 </drv>
 </art>
 
 <!--
 $Log: pelagr.xml,v $
+Revision 1.7  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2014/11/19 07:10:36  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.4  2013/10/07 15:10:41  revo
 Wolfram Diestel: ref la lst malsanoj
 

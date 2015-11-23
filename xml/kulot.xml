@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kulot.xml,v 1.10 2012/08/24 06:10:17 revo Exp $">
+<art mrk="$Id: kulot.xml,v 1.12 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>kulot</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -19,6 +19,11 @@
       27a</lok></fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>jezdecké kalhoty</trd>,
+    <trd>krátké kalhoty</trd>,
+    <trd>šortky</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>kurze Hose</trd>,
     <trd>Kniebundhose</trd>,
@@ -49,10 +54,17 @@
     <trd>bermuda</trd>,
     <trd>bermudas</trd>
   </trdgrp>
+  <trd lng="sk">krátke nohavice</trd>
 </drv>
 </art>
 <!--
 $Log: kulot.xml,v $
+Revision 1.12  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2012/08/24 06:10:17  revo
 Sebastian Cyprych: +trd pl
 

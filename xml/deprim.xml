@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: deprim.xml,v 1.19 2013/04/19 05:10:20 revo Exp $">
+<art mrk="$Id: deprim.xml,v 1.21 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>deprim</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -28,6 +28,11 @@
     <trd>desanimar</trd>,
     <trd>descoratjar</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>deprimovat</trd>,
+    <trd>skličovat</trd>,
+    <trd>tísnit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>deprimieren</trd>,
     <trd>herunterziehen</trd>,
@@ -39,7 +44,7 @@
     <trd>nyomaszt</trd>,
     <trd>elkedvetlen&iacute;t</trd>,
     <trd>deprim&aacute;l</trd>
-  </trdgrp>  
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>deprimeren</trd>,
     <trd>ontmoedigen</trd>
@@ -50,6 +55,11 @@
   </trdgrp>
   <trd lng="ru">&c_v;&c_y;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;
   &c_d;&c_je;&c_p;&c_r;&c_je;&c_s;&c_s;&c_i;&c_ju;</trd>
+  <trdgrp lng="sk">
+    <trd>deprimovať</trd>,
+    <trd>krušiť</trd>,
+    <trd>zroniť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="deprim.0o">
@@ -99,6 +109,14 @@
   <trdgrp lng="pl">
     <trd>przygn&eogonek;bienie</trd>,
     <trd>depresja</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>depresia</trd>,
+    <trd>skleslosť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>deprese <klr>(duševní)</klr></trd>,
+    <trd>skleslost</trd>
   </trdgrp>
 </drv>
 
@@ -174,6 +192,12 @@
 </art>
 <!--
 $Log: deprim.xml,v $
+Revision 1.21  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/04/19 05:10:20  revo
 Sebastian Cyprych: +trd pl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lanug.xml,v 1.16 2012/02/08 20:10:08 revo Exp $">
+<art mrk="$Id: lanug.xml,v 1.18 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lanug</rad>/o
@@ -92,6 +92,10 @@
     <trd>&c_p;&c_u;&c_h;</trd>,
     <trd>&c_p;&c_u;&c_sh;&c_o;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>chmýří</trd>,
+    <trd>prachové peří</trd>
+  </trdgrp>
   <trd lng="fr">duvet</trd>
   <trd lng="nl">dons</trd>
   <trd lng="pt">lanugem</trd>
@@ -99,10 +103,21 @@
     <trd>&c_p;&c_u;&c_h;</trd>,
     <trd>&c_p;&c_u;&c_sh;&c_o;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chmýrie</trd>,
+    <trd>jemné chĺpky</trd>,
+    <trd>páperie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: lanug.xml,v $
+Revision 1.18  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2012/02/08 20:10:08  revo
 Carlos Garcia: +trd es -o
 

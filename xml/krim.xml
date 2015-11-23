@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krim.xml,v 1.22 2013/12/14 18:10:50 revo Exp $">
+<art mrk="$Id: krim.xml,v 1.26 2015/10/26 12:12:01 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>krim</rad>/o <fnt><bib>PV</bib></fnt>
@@ -14,7 +14,7 @@
     <uzo tip="fak">JUR</uzo>
     <dif>
       Ago, per kiu morala a&ubreve; civila le&gcirc;o estas plej grave
-      malobservata (mortigo, malvirgigo ktp).
+      malobservata (mortigo, seksperforto ktp).
     </dif>
   </snc>
   <refgrp tip="vid">
@@ -53,6 +53,11 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_je;&c_s;&c_t;&c_u;&c_p;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_z;&c_l;&c_o;&c_d;&c_je;&c_ja;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">zlo&ccaron;in</trd>
+  <trdgrp lng="cs">
+    <trd>trestn&yacute; &ccaron;in</trd>,
+    <trd>zlo&ccaron;in</trd>
   </trdgrp>
 </drv>
 
@@ -138,8 +143,13 @@
       <trd>&c_u;&c_g;&c_o;&c_l;&c_o;&c_v;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>trestn&yacute;</trd>,
+    <trd>zlo&ccaron;inn&yacute;</trd>
+  </trdgrp>
   <trd lng="de">verbrecherisch</trd>
   <trd lng="fr">criminel<klr> (adj.)</klr></trd>
+  <trd lng="sk">zlo&ccaron;inn&yacute;</trd>
 </drv>
 
 <drv mrk="krim.0i">
@@ -163,6 +173,10 @@
   </snc>
   <trd lng="be">&c_z;&c_mol;&c_d;&c_z;&c_je;&c_j;&c_s;&c_mol;&c_n;&c_ib; &c_c;&c_mol;
   <ind>&c_z;&c_l;&c_a;&c_ch;&c_y;&c_n;&c_s;&c_t;&c_v;&c_a;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>dopustit se zlo&ccaron;inu</trd>,
+    <trd>p&aacute;chat trestn&yacute; &ccaron;in</trd>
+  </trdgrp>
   <trd lng="de">ein <ind>Verbrechen</ind> <ind>begehen</ind></trd>
   <trd lng="en">commit a crime</trd>
   <trd lng="es">cometer un <ind>crimen</ind></trd>
@@ -179,6 +193,10 @@
   </trdgrp>
   <trd lng="ru">&c_s;&c_o;&c_v;&c_je;&c_r;&c_sh;&c_i;&c_t;&c_mol;
   <ind>&c_p;&c_r;&c_je;&c_s;&c_t;&c_u;&c_p;&c_l;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>dopusti&tcaron; sa zlo&ccaron;inu</trd>,
+    <trd>sp&aacute;cha&tcaron; zlo&ccaron;in</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="krim.0eto">
@@ -194,6 +212,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_a;&c_p;&c_a;&c_r;&c_u;&c_sh;&c_e; &c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;estupek</trd>,
+    <trd>p&rcaron;e&ccaron;in</trd>
+  </trdgrp>
   <trd lng="de">Gesetzesversto&szlig;</trd>
   <trd lng="en">misdemeanour</trd>
   <trd lng="fr">d&eacute;lit</trd>
@@ -214,6 +236,10 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_u;&c_p;&c_o;&c_k;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_v;&c_o;&c_n;&c_a;&c_r;&c_u;&c_sh;&c_je;&c_n; &c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>previnenie</trd>,
+    <trd>priestupok</trd>
   </trdgrp>
 </drv>
 
@@ -246,6 +272,8 @@
     <trd lng="pl">zbrodnia</trd>
     <trd lng="ru">&c_t;&c_ja;&c_zh;&c_k;&c_o;&c_je; <ind>&c_p;&c_r;&c_je;&c_s;&c_t;&c_u;&c_p;&c_l;&c_je;&c_n;&c_i;&c_je;</ind></trd>
   </snc>
+  <trd lng="cs">t&ecaron;&zcaron;k&yacute; zlo&ccaron;in</trd>
+  <trd lng="sk">&tcaron;a&zcaron;k&yacute; zlo&ccaron;in</trd>
 </drv>
 
 <drv mrk="krim.0ulo">
@@ -256,12 +284,24 @@
       Homo kiu faris <tld/>on.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>krimin&aacute;ln&iacute;k</trd>,
+    <trd>lotr</trd>,
+    <trd>lump</trd>,
+    <trd>pachatel</trd>,
+    <trd>zlo&ccaron;inec</trd>
+  </trdgrp>
   <trd lng="de">Verbrecher</trd>
+  <trd lng="en">criminal</trd>
   <trd lng="fr">criminel<klr> (subst.)</klr></trd>
   <trd lng="nl">misdadiger</trd>
   <trdgrp lng="pl">
     <trd>przest&eogonek;pca</trd>,
     <trd>zbrodniarz</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>zlosyn</trd>,
+    <trd>zlo&ccaron;inec</trd>
   </trdgrp>
 </drv>
 
@@ -284,7 +324,10 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">v&aacute;le&ccaron;n&yacute; zlo&ccaron;in</trd>
+  <trd lng="en">war crime</trd>
   <trd lng="fr">crime de guerre</trd>
+  <trd lng="sk">vojnov&yacute; zlo&ccaron;in</trd>
 </drv>
 
 <drv mrk="krim.penso0o">
@@ -306,6 +349,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="en">
+    <trd>thought crime</trd>,
+    <trd>thoughtcrime</trd>
+  </trdgrp>
   <trd lng="fr">d&eacute;lit d'opinion</trd>
 </drv>
 
@@ -325,6 +372,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">criminologist</trd>
   <trd lng="fr">criminologue</trd>
   <trd lng="nl">criminoloog</trd>
 </drv>
@@ -338,12 +386,28 @@
       le&gcirc;aro.
     </dif>
   </snc>
+  <trd lng="cs">kriminologie</trd>
+  <trd lng="en">criminology</trd>
   <trd lng="fr">criminologie</trd>
   <trd lng="nl">criminologie</trd>
+  <trd lng="sk">kriminol&oacute;gia</trd>
 </drv>
 </art>
 <!--
 $Log: krim.xml,v $
+Revision 1.26  2015/10/26 12:12:01  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.25  2015/07/21 16:10:16  revo
+Russ Williams: korekti misgvidan malvirgigo al seksperforto lau diskuto
+2002-06-12 ...
+
+Revision 1.24  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2013/12/14 18:10:50  revo
 Jeromo Vasxe: + penso~o
 
@@ -353,18 +417,5 @@ Jeromo Vasxe: + milit~o
 Revision 1.20  2009/09/15 16:31:05  revo
 Paul Peeraerts: +nl
 
-Revision 1.19  2007/07/28 16:30:39  revo
-Wieland Pusch: +trd de
-
-Revision 1.18  2007/03/24 17:30:22  revo
-Jeromo Vasxe: + ~oscienco/scienciso
-
-Revision 1.17 2006/11/02 17:31:10 revo
-Tulio Flores: +tr pt
-
-Revision 1.16 2006/07/04 16:32:18 revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.15 2005/03/28 17:14:03 revo
 -->
 </vortaro>

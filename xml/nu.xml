@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nu.xml,v 1.20 2014/10/27 09:10:12 revo Exp $">
+<art mrk="$Id: nu.xml,v 1.22 2015/07/04 08:37:40 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>nu</rad>
@@ -78,10 +78,25 @@
      <trd>n&aring;v&auml;l</trd>
    </trdgrp>
    <trd lng="tp">a</trd>
+  <trdgrp lng="sk">
+    <trd>musíme konštatovať</trd>,
+    <trd>nuž</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bodejť</trd>,
+    <trd>nu</trd>,
+    <trd>nuže</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: nu.xml,v $
+Revision 1.22  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2014/10/27 09:10:12  revo
 Damien Brucker: +rim
 

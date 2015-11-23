@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bander.xml,v 1.15 2013/08/08 17:10:16 revo Exp $">
+<art mrk="$Id: bander.xml,v 1.18 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>banderol</rad>/o
@@ -26,6 +26,10 @@
     <trd>cinta</trd>,
     <trd>banda</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>banderole</trd>,
+    <trd>páska <klr>(zvl. papírová)</klr></trd>
+  </trdgrp>
   <trd lng="de">Banderole</trd>
   <trd lng="en">paper <ind>band</ind><klr> (neniam
   <em>banderole!</em>)</klr></trd>
@@ -41,16 +45,23 @@
     <trd>&c_o;&c_b;&c_jo;&c_r;&c_t;&c_k;&c_a;</trd>,
     <trd>&c_b;&c_a;&c_n;&c_d;&c_je;&c_r;&c_o;&c_l;&c_mol;</trd>
   </trdgrp>
-  <adm>
-    &Scirc;ajnas, ke anka&ubreve; la pli vasta senco
-    de la rusa &c_b;&c_a;&c_n;&c_d;&c_je;&c_r;&c_o;&c_l;&c_mol; foje
-    aperas en E-o (malpeza po&scirc;ta paka&jcirc;eto). Eble indus
-    &gcirc;in registri. (MB)
-  </adm>
+  <trdgrp lng="sk">
+    <trd>páska <klr>(adresná, bankovková ap.)</klr></trd>,
+    <trd>páska <klr>(adresná| bankovková ap.)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: bander.xml,v $
+Revision 1.18  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/08/08 17:10:16  revo
 Joop Eggen: +trd bg
 

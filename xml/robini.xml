@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: robini.xml,v 1.3 2013/10/31 16:10:14 revo Exp $">
+<art mrk="$Id: robini.xml,v 1.6 2015/07/04 08:37:42 revo Exp $">
 <kap>
     <rad>robini</rad>/o <fnt><bib>Viki</bib></fnt>
 </kap>
@@ -26,11 +26,15 @@
   <ref tip="lst" cel="plant.floro0o"
   lst="voko:faboparencoj">faboparencaj floroplantoj</ref>
   <trd lng="de">Robinie</trd>
+  <trd lng="fr">robinier</trd>
+  <trd lng="sk">agát</trd>
+  <trd lng="cs">trnovník</trd>
 </drv>
 
 <drv mrk="robini.akacia0o">
   <kap>&scirc;ajnakacia <tld/>o</kap>
   <snc mrk="robini.akacia0o.specio">
+  <uzo tip="fak">BOT</uzo>
     <dif>
       <ref tip="lst" cel="speci.0o.BIO" 
       lst="voko:botanikaj_specioj">Specio</ref> de <tld/>o
@@ -39,20 +43,28 @@
       pro la foliaroj kaj dornoj la arbo estas konfuzata kun
       <ref cel="akaci.0o">akacio</ref>.
     </dif>
-  
   </snc>
-  
-  <trdgrp lng="de">
+ <trdgrp lng="de">
     <trd>Gew&ouml;hnliche Robinie</trd>,
     <trd>Falsche Akazie</trd>,
     <trd>Silberregen</trd>
   </trdgrp>
+  <trd lng="fr">faux-acacia</trd>
 </drv>
 
 </art>
 
 <!--
 $Log: robini.xml,v $
+Revision 1.6  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2014/12/10 18:10:15  revo
+Damien Brucker: +trd fr
+
 Revision 1.3  2013/10/31 16:10:14  revo
 Wolfram Diestel: forigisdubindan ekzemplon
 

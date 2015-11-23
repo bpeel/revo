@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ravin.xml,v 1.14 2013/07/26 10:10:16 revo Exp $">
+<art mrk="$Id: ravin.xml,v 1.16 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <rad>ravin</rad>/o  <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -29,6 +29,11 @@
     <trd>&c_l;&c_a;&c_g;&c_ch;&c_y;&c_n;&c_a;</trd>
   </trdgrp>
   <trd lng="bg">&c_p;&c_r;&c_o;&c_l;&c_o;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>rokle</trd>,
+    <trd>strž</trd>,
+    <trd>úžlabina</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Schlucht</trd>,
     <trd>Klamm</trd>
@@ -38,17 +43,28 @@
   <trd lng="hr">jaruga</trd>
   <trd lng="hu">szurdok</trd>
   <trd lng="nl">ravijn</trd>
-  <trd lng="pt">ravina</trd> 
+  <trd lng="pt">ravina</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_v;&c_r;&c_a;&c_g;</trd>,
     <trd>&c_l;&c_o;&c_shch;&c_i;&c_n;&c_a;</trd>,
     <trd>&c_b;&c_a;&c_l;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>roklina</trd>,
+    <trd>výmoľ</trd>,
+    <trd>úžľabina</trd>
   </trdgrp>
   <trd lng="sv">ravin</trd>
 </drv>
 </art>
 <!--
 $Log: ravin.xml,v $
+Revision 1.16  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2013/07/26 10:10:16  revo
 Joop Eggen: +trd bg en hr
 

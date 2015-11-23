@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fornel.xml,v 1.4 2013/08/15 13:10:10 revo Exp $">
+<art mrk="$Id: fornel.xml,v 1.7 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <rad>fornel</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,12 +27,14 @@
     </dif>
   </snc>
   <trd lng="bg">&c_p;&c_je;&c_ch;&c_k;&c_a; <klr> (&c_g;&c_o;&c_t;&c_v;&c_a;&c_r;&c_s;&c_k;&c_a;)</klr></trd>
+  <trd lng="cs">kuchyňský sporák</trd>
   <trd lng="de">Herd<klr tip="amb"> (K&uuml;che)</klr></trd>
   <trd lng="en">stove</trd>
   <trd lng="fr">cuisini&egrave;re<klr> (&eacute;lectrom&eacute;nager)
   </klr></trd>
   <trd lng="nl">fornuis</trd>
   <trd lng="pl">kuchenka</trd>
+  <trd lng="sk">sporák</trd>
 </drv>
 
 <drv mrk="fornel.elektro0o">
@@ -82,11 +84,13 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">plynový sporák</trd>
   <trd lng="de">Gasherd</trd>
   <trd lng="en">gas <ind>stove</ind></trd>
   <trd lng="fr">cuisini&egrave;re &agrave; gaz</trd>
   <trd lng="nl">gasfornuis</trd>
   <trd lng="pl"><ind>kuchenka</ind> gazowa</trd>
+  <trd lng="sk">plynový sporák</trd>
 </drv>
 
 <drv mrk="fornel.karbo0o">
@@ -102,12 +106,21 @@
   <trd lng="en">charcoal <ind>stove</ind></trd>
   <trd lng="fr">fourneau</trd>
   <trd lng="nl">kolenfornuis</trd>
-  <trd lng="pl"><ind>kuchnia</ind> w&eogonek;glowa</trd>
+  <trd lng="pl"><ind>kuchenka</ind> w&eogonek;glowa</trd>
 </drv>
 </art>
 
 <!--
 $Log: fornel.xml,v $
+Revision 1.7  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2015/04/11 16:10:15  revo
+Vito Redsky: kor trd pl
+
 Revision 1.4  2013/08/15 13:10:10  revo
 Joop Eggen: +trd bg en nl
 

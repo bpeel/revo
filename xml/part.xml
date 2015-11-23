@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: part.xml,v 1.48 2014/09/19 10:10:09 revo Exp $">
+<art mrk="$Id: part.xml,v 1.51 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>part</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -86,7 +86,11 @@
   </snc>
   <trdgrp lng="cs">
     <trd>&ccaron;&aacute;st</trd>,
-    <trd>d&iacute;l</trd>
+    <trd>d&iacute;l</trd>,
+    <trd>podíl</trd>,
+    <trd>součástka</trd>,
+    <trd>zlomek</trd>,
+    <trd>částka</trd>
   </trdgrp>
   <trd lng="en">part</trd>
   <trdgrp lng="es">
@@ -102,6 +106,11 @@
   </trdgrp>
   <trd lng="pl">cz&eogonek;&sacute;&cacute;</trd>
   <trd lng="pt">parte</trd>
+  <trdgrp lng="sk">
+    <trd>diel</trd>,
+    <trd>časť</trd>,
+    <trd>čiastka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="part.0a">
@@ -174,8 +183,13 @@
     </subsnc>
   </snc>
   <trd lng="be">&c_ch;&c_a;&c_s;&c_t;&c_k;&c_o;&c_v;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>dílný</trd>,
+    <trd>dělený</trd>
+  </trdgrp>
   <trd lng="en">partial</trd>
   <trd lng="ru">&c_ch;&c_a;&c_s;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">čiastkový</trd>
 </drv>
 
 <drv mrk="part.0ajxo">
@@ -212,6 +226,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_d;&c_z;&c_ja;&c_l;&c_ib;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>participovat</trd>,
+    <trd>účastnit se</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>repartir</trd>
     <trd>dividir<klr tip="ind"> (repartir)</klr></trd>
@@ -227,6 +245,10 @@
     <trd>podzieli&cacute;<klr> na cz&eogonek;&sacute;ci</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol; &c_n;&c_a; &c_ch;&c_a;&c_s;&c_t;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>participovať</trd>,
+    <trd>účastniť sa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="part.0umo">
@@ -247,10 +269,12 @@
       de ~umo. <aut>MB</aut>
     </adm>
   </snc>
+  <trd lng="cs">pravý zlomek</trd>
   <trd lng="es">fracci&oacute;n propia</trd>
   <trd lng="hu">pozit&iacute;v t&ouml;rt</trd>
   <trd lng="pl">u&lstroke;amek</trd>
   <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_d;&c_r;&c_o;&c_b;&c_mol;</trd>
+  <trd lng="sk">pravý zlomok</trd>
 </drv>
 
 <drv mrk="part.mal0o">
@@ -277,7 +301,7 @@
   </snc>
   <rim>
     Kvankam <ref tip="sin" cel="tut.0o">tuto</ref> formale estas
-    sininimo de mal<tld/>o, tamen la gramatikaj valentoj de &ccirc;i
+    sinonimo de mal<tld/>o, tamen la gramatikaj valentoj de &ccirc;i
     tiuj vortoj estas malsamaj: <ctl>tuto de somero</ctl> ne estas
     uzebla por indiki jaron (la <ctl>mal<tld/>on de somero</ctl>).
   </rim>
@@ -358,6 +382,7 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_u;&c_d;&c_z;&c_je;&c_l;&c_mol;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">účastnit se</trd>
   <trd lng="en">participate</trd>
   <trdgrp lng="es">
     <trd>participar<klr tip="ind"> (en un trabajo, una
@@ -374,6 +399,7 @@
     <trd>&c_u;&c_ch;&c_a;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_n;&c_ja;&c_t;&c_mol; &c_u;&c_ch;&c_a;&c_s;&c_t;&c_i;&c_je;</trd>
   </trdgrp>
+  <trd lng="sk">zúčastniť sa</trd>
 </drv>
 
 <drv mrk="part.dis0igi">
@@ -531,6 +557,7 @@
       kiel <frm>&Phi;<sup>-1</sup></frm>).
     </rim>
   </snc>
+  <trd lng="cs">zlatý řez</trd>
   <trd lng="de">goldener <ind>Schnitt</ind></trd>
   <trd lng="en">golden <ind>section</ind></trd>
   <trdgrp lng="es">
@@ -544,6 +571,7 @@
     <trd>liczba z&lstroke;ota</trd>
   </trdgrp>
   <trd lng="ru">&c_z;&c_o;&c_l;&c_o;&c_t;&c_o;&c_je; <ind>&c_s;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">zlatý rez</trd>
 </drv>
 
 <drv mrk="part.entjera0o">
@@ -567,6 +595,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_c;&c_e;&c_l;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</ind></trd>
+  <trd lng="cs">celá část <klr>(reálného čísla)</klr></trd>
   <trd lng="de">ganzer <ind>Teil</ind></trd>
   <trdgrp lng="en">
     <trd>integral <ind>part</ind></trd>,
@@ -586,6 +615,7 @@
   <trdgrp lng="ru">
     <trd>&c_c;&c_je;&c_l;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_t;&c_mol;</ind></trd>,
     <trd>&c_a;&c_n;&c_t;&c_mol;&c_je;</trd></trdgrp>
+  <trd lng="sk">celá časť</trd>
 </drv>
 
 <drv mrk="part.frakcia0o">
@@ -603,6 +633,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_d;&c_r;&c_o;&c_b;&c_n;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</ind></trd>
+  <trd lng="cs">zlomková část</trd>
   <trd lng="de">gebrochener <ind>Teil</ind></trd>
   <trd lng="en">fractional <ind>part</ind></trd>
   <trd lng="es"><ind>parte</ind> fraccionaria</trd>
@@ -611,6 +642,7 @@
   <trd lng="pl">cz&eogonek;&sacute;&cacute; u&lstroke;amkowa<klr tip="ind"> (liczby
       rzeczywistej)</klr></trd>
   <trd lng="ru">&c_d;&c_r;&c_o;&c_b;&c_n;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_t;&c_mol;</ind></trd>
+  <trd lng="sk">zlomková časť</trd>
 </drv>
 
 <drv mrk="part.grand0e">
@@ -631,6 +663,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>namnoze</trd>,
+    <trd>většinou</trd>,
+    <trd>z větší části</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>en gran medida</trd>,
     <trd>en gran parte</trd>
@@ -639,6 +676,7 @@
     <trd>en grande partie</trd>,
     <trd>pour une grande part</trd>
   </trdgrp>
+  <trd lng="sk">zväčša</trd>
 </drv>
 
 <drv mrk="part.imaginara0o">
@@ -684,6 +722,19 @@
   <snc>
     <ref tip="dif" cel="part.frakcia0o">frakcia <tld/>o.</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>díl</trd>,
+    <trd>podíl</trd>,
+    <trd>součástka</trd>,
+    <trd>zlomek</trd>,
+    <trd>část</trd>,
+    <trd>částka</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>diel</trd>,
+    <trd>časť</trd>,
+    <trd>čiastka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="part.reela0o">
@@ -746,6 +797,15 @@
 </art>
 <!--
 $Log: part.xml,v $
+Revision 1.51  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.50  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.49  2015/02/04 17:10:21  revo
+Wolfram Diestel: - erareto
+
 Revision 1.48  2014/09/19 10:10:09  revo
 Guillermo Molleda Jimena: trd es
 
@@ -765,8 +825,5 @@ Revision 1.43  2013/10/09 01:10:28  revo
 Jeromo Vasxe: + ~umi
 
 Revision 1.42  2009/08/18 19:19:51  revo
-Sergio Pokrovskij: +mal~o
-
-Revision 1.41  2009/02/10 14:19:25  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pers.xml,v 1.9 2014/06/06 16:10:21 revo Exp $">
+<art mrk="$Id: pers.xml,v 1.11 2015/07/04 08:37:41 revo Exp $">
 <kap>
     <rad>pers</rad>/o
     <fnt><bib>PIV2</bib></fnt>
@@ -16,10 +16,12 @@
       Ano de la &ccirc;efa gento de <tld lit="P"/>ujo.
     </dif>
   </snc>
+  <trd lng="cs">Peršan</trd>
   <trd lng="de">Perser</trd>
   <trd lng="fr">Perse<klr> (subst.)</klr></trd>
   <trd lng="nl">Pers</trd>
   <trd lng="pl">Persja</trd>
+  <trd lng="sk">Peržan</trd>
   <trd lng="sv">en <ind>persisk</ind> person</trd>
 </drv>
 
@@ -114,6 +116,12 @@
 
 <!--
 $Log: pers.xml,v $
+Revision 1.11  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2014/06/06 16:10:21  revo
 Eko Nur Syah Hidayat: +id
 

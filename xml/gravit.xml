@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gravit.xml,v 1.17 2012/08/19 00:11:13 revo Exp $">
+<art mrk="$Id: gravit.xml,v 1.19 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>gravit</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -34,13 +34,23 @@
     <trd>&c_ib;&c_m;&c_k;&c_n;&c_u;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">gravitar</trd>
+  <trdgrp lng="cs">
+    <trd>být přitahován</trd>,
+    <trd>gravitovat</trd>,
+    <trd>pohybovat se gravitací</trd>,
+    <trd>tíhnout</trd>
+  </trdgrp>
   <trd lng="en">gravitate</trd>
+  <trd lng="es">gravitar</trd>
   <trd lng="fr">graviter</trd>
   <trd lng="hu">gravit&aacute;l</trd>
   <trd lng="nl">graviteren</trd>
   <trd lng="pt">gravitar</trd>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_t;&c_ja;&c_g;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
-  <trd lng="es">gravitar</trd>
+  <trdgrp lng="sk">
+    <trd>gravitovať</trd>,
+    <trd>pohybovať sa gravitáciou</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gravit.0o">
@@ -59,6 +69,10 @@
   <trdgrp lng="ca">
     <trd>gravetat</trd>,
     <trd>gravitaci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>gravitace</trd>,
+    <trd>zemská přitažlivost</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Schwerkraft</trd>,
@@ -86,6 +100,10 @@
     <trd>&c_g;&c_r;&c_a;&c_v;&c_i;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>,
     <trd>&c_t;&c_ja;&c_g;&c_o;&c_t;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>gravitačná sila</trd>,
+    <trd>príťažlivosť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gravit.sen0o">
@@ -112,6 +130,12 @@
 </art>
 <!--
 $Log: gravit.xml,v $
+Revision 1.19  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2012/08/19 00:11:13  revo
 Marc Rausell: + trd ca
 

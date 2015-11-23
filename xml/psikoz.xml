@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: psikoz.xml,v 1.11 2013/10/07 15:10:50 revo Exp $">
+<art mrk="$Id: psikoz.xml,v 1.14 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <rad>psikoz</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -22,6 +22,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_s;&c_ib;&c_h;&c_o;&c_z;</trd>
+  <trd lng="cs">psychóza</trd>
   <trd lng="en">psychosis</trd>
   <trd lng="fa">&a_r;&a_w;&a_A;&a_n;&zwnj;&f_p;&a_r;&f_y;&a_sh;&f_y;</trd>
   <trd lng="fr">psychose</trd>
@@ -30,15 +31,26 @@
     <trd>elmebetegs&eacute;g</trd>,
     <trd>pszich&oacute;zis</trd>
   </trdgrp>
+  <trd lng="id">psikosis</trd>
   <trd lng="it">psicosi</trd>
   <trd lng="nl">psychose</trd>
   <trd lng="pl">psychoza</trd>
   <trd lng="pt">psicose</trd>
   <trd lng="ru">&c_p;&c_s;&c_i;&c_h;&c_o;&c_z;</trd>
+  <trd lng="sk">psychóza</trd>
 </drv>
 </art>
 <!--
 $Log: psikoz.xml,v $
+Revision 1.14  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2014/11/19 08:10:23  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.11  2013/10/07 15:10:50  revo
 Wolfram Diestel: ref la lst malsanoj
 
@@ -58,8 +70,5 @@ Revision 1.6  2006/04/12 16:31:42  revo
 Tulio Flores: +tr pt
 
 Revision 1.5  2004/08/17 18:10:44  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.4  2004/02/23 18:18:29  revo
 -->
 </vortaro>

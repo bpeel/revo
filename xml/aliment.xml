@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aliment.xml,v 1.9 2013/06/30 01:10:09 revo Exp $">
+<art mrk="$Id: aliment.xml,v 1.10 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>aliment</rad>/o <fnt>Z</fnt> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,11 +27,16 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_l;&c_ib;&c_m;&c_e;&c_n;&c_t;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>alimenty</trd>,
+    <trd>výživné</trd>,
+    <trd>úhrada osobních potřeb</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Unterhalt</trd>,
     <trd>Unterhaltsbetrag</trd>
   </trdgrp>
-   <trdgrp lng="en">
+  <trdgrp lng="en">
       <trd>alimony</trd>,
       <trd>maintenance allowance</trd>
    </trdgrp>
@@ -55,6 +60,9 @@
 
 <!--
 $Log: aliment.xml,v $
+Revision 1.10  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.9  2013/06/30 01:10:09  revo
 Jeromo Vasxe: + ref sup
 

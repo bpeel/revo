@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mezozoik.xml,v 1.6 2013/10/04 18:10:13 revo Exp $">
+<art mrk="$Id: mezozoik.xml,v 1.8 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>mezozoik</rad>/o
   <fnt><bib>PIV2</bib></fnt>
@@ -42,11 +42,25 @@
     </trdgrp>
     <trd lng="pt">Mesoz&oacute;ico</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>druhohory</trd>,
+    <trd>mezozoikum</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>druhohory</trd>,
+    <trd>mezozoikum</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: mezozoik.xml,v $
+Revision 1.8  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2013/10/04 18:10:13  revo
 Wolfram Diestel: val
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: delika.xml,v 1.18 2012/09/04 10:10:10 revo Exp $">
+<art mrk="$Id: delika.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>delikat</rad>/a
@@ -197,6 +197,14 @@
     <trd>subtil</trd>,
     <trd>sensible</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>choulostivý</trd>,
+    <trd>decentní</trd>,
+    <trd>jemný</trd>,
+    <trd>lahodný</trd>,
+    <trd>něžný</trd>,
+    <trd>ožehavý</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>delicate</trd>,
     <trd>sensitive</trd>,
@@ -221,6 +229,12 @@
     <trd>meigo</trd>,
     <trd>sutil</trd>,
     <trd>mimoso</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>drobný</trd>,
+    <trd>jemný</trd>,
+    <trd>subtílny</trd>,
+    <trd>útly</trd>
   </trdgrp>
 </drv>
 <drv mrk="delika.mal0a">
@@ -255,6 +269,7 @@
     <trd>grosser</trd>,
     <trd>tosc</trd>
   </trdgrp>
+  <trd lng="cs">hrubý</trd>
   <trdgrp lng="en">
     <trd>vulgar</trd>,
     <trd>crude</trd>
@@ -285,6 +300,12 @@
     <trd>wulgarny</trd>
   </trdgrp>
   <trd lng="ru">&c_g;&c_r;&c_u;&c_b;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>grobiansky</trd>,
+    <trd>hrubý</trd>,
+    <trd>neslušný</trd>,
+    <trd>surový</trd>
+  </trdgrp>
 </drv>
 <drv mrk="delika.mal0ulo">
   <kap>mal<tld/>ulo</kap>
@@ -301,6 +322,7 @@
     <trd>barroer</trd>,
     <trd>bast<klr> (subst.)</klr></trd>
   </trdgrp>
+  <trd lng="cs">hrubec</trd>
   <trdgrp lng="en">
     <trd><ind>crude</ind> person</trd>,
     <trd><ind>vulgar</ind> person</trd>
@@ -308,6 +330,12 @@
   <trd lng="fr">rustre</trd>
   <trd lng="he">&alef;&dalet;&fmem; <ind>&gimel;&samekh;</ind></trd>
   <trd lng="pl">grubianin</trd>
+  <trdgrp lng="sk">
+    <trd>grobian</trd>,
+    <trd>hrubý človek</trd>,
+    <trd>neslušný</trd>,
+    <trd>surovec</trd>
+  </trdgrp>
 </drv>
 <drv mrk="delika.0e">
   <kap><tld/>e</kap>
@@ -343,6 +371,19 @@
     </dif>
   </snc>
   <trd lng="ca">delicadament</trd>
+  <trdgrp lng="cs">
+    <trd>decentnost</trd>,
+    <trd>decentně</trd>,
+    <trd>delikátně</trd>,
+    <trd>jemně</trd>,
+    <trd>lahodně</trd>,
+    <trd>něžně</trd>,
+    <trd>přiměřeně</trd>,
+    <trd>slušně</trd>,
+    <trd>umírněně</trd>,
+    <trd>vhodně</trd>,
+    <trd>zdrženlivě</trd>
+  </trdgrp>
   <trd lng="es">delicadamente</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;licatement</trd>,
@@ -353,6 +394,11 @@
   <trdgrp lng="ru">
     <trd>&c_t;&c_o;&c_n;&c_k;&c_o;</trd>,
     <trd>&c_d;&c_je;&c_l;&c_i;&c_k;&c_a;&c_t;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>decentne</trd>,
+    <trd>jemne</trd>,
+    <trd>primerane</trd>
   </trdgrp>
 </drv>
 <drv mrk="delika.mal0e">
@@ -372,6 +418,7 @@
     <trd>bastament</trd>,
     <trd>ordin&agrave;riament</trd>
   </trdgrp>
+  <trd lng="cs">hrubě</trd>
   <trdgrp lng="fr">
     <trd>cr&ucirc;ment</trd>,
     <trd>rudement</trd>,
@@ -384,6 +431,7 @@
     <trd>wulgarnie</trd>
   </trdgrp>
   <trd lng="ru">&c_g;&c_r;&c_u;&c_b;&c_o;</trd>
+  <trd lng="sk">hrubo</trd>
 </drv>
 <adm>
 La artikolo estas reverkenda. <aut>MB</aut>
@@ -391,6 +439,12 @@ La artikolo estas reverkenda. <aut>MB</aut>
 </art>
 <!--
 $Log: delika.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/09/04 10:10:10  revo
 Marc Rausell: + trd ca
 

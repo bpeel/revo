@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: maksim1.xml,v 1.30 2009/04/01 16:30:31 revo Exp $">
+<art mrk="$Id: maksim1.xml,v 1.32 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>maksimum</rad>/o
@@ -74,6 +74,7 @@
       <trd lng="hu">legnagyobb elem</trd>      
   </snc>
   <trd lng="be">&c_m;&c_a;&c_k;&c_s;&c_ib;&c_m;&c_u;&c_m;</trd>
+  <trd lng="cs">maximum</trd>
   <trdgrp lng="de">
     <trd>Maximum</trd>,
     <trd>H&ouml;chststand</trd>,
@@ -88,6 +89,10 @@
   <trd lng="nl">maximum</trd>
   <trd lng="pt">m&aacute;ximo</trd>
   <trd lng="ru">&c_m;&c_a;&c_k;&c_s;&c_i;&c_m;&c_u;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>maximum</trd>,
+    <trd>najviac</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="maksim1.0a">
@@ -187,6 +192,15 @@
   </snc>
   <trd lng="be">&c_m;&c_a;&c_k;&c_s;&c_ib;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;
   </trd>
+  <trdgrp lng="cs">
+    <trd>maximální</trd>,
+    <trd>nejvyšší</trd>,
+    <trd>největší</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>maximálny</trd>,
+    <trd>vrcholný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="maksim1.0ejo">
@@ -196,6 +210,11 @@
   <snc>
     <ref tip="dif" cel="maksim1.0iganto"><tld/>iganto.</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>maximum</trd>,
+    <trd>maximální bod</trd>
+  </trdgrp>
+  <trd lng="sk">maximum</trd>
 </drv>
 
 <drv mrk="maksim1.0iganto">
@@ -218,17 +237,25 @@
   </snc>
   <trd lng="be">&c_p;&c_u;&c_n;&c_k;&c_t; 
 <ind>&c_m;&c_a;&c_k;&c_s;&c_ib;&c_m;&c_u;&c_m;&c_u;</ind></trd>
+  <trd lng="cs">argument m maxima</trd>
   <trd lng="de">Maximumstelle</trd>
   <trd lng="en">point of maximum</trd>
   <trd lng="fr">point de maximum</trd>
+  <trd lng="hu">maximumhely</trd>
   <trd lng="it">maggiorante<klr> (mat.)</klr></trd>
-  <trd lng="hu">maximumhely</trd>  
   <trd lng="ru">&c_t;&c_o;&c_ch;&c_k;&c_a; 
 &c_m;&c_a;&c_k;&c_s;&c_i;&c_m;&c_u;&c_m;&c_a;</trd>
+  <trd lng="sk">argument m maxima</trd>
 </drv>
 </art>
 <!--
 $Log: maksim1.xml,v $
+Revision 1.32  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.30  2009/04/01 16:30:31  revo
 Antonio Codazzi: +trd it
 

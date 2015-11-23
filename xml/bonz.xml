@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bonz.xml,v 1.11 2009/08/12 16:30:31 revo Exp $">
+<art mrk="$Id: bonz.xml,v 1.13 2015/07/04 08:37:31 revo Exp $">
   <kap>
     <rad>bonz</rad>/o
   </kap>
@@ -14,19 +14,33 @@
         Budaisma pastro.  
       </dif>
     </snc>
-    <trd lng="be">&c_b;&c_o;&c_n;&c_z;&c_a;</trd>
-    <trd lng="bg">&c_b;&c_o;&c_n;&c_z;&c_a;</trd>
-    <trd lng="ca">bonze</trd>
-    <trd lng="de">Bonze</trd>
-    <trd lng="en">bonze</trd>
-    <trd lng="es">bonzo</trd>
-    <trd lng="fr">bonze</trd>
-    <trd lng="pl">bonza</trd>
-    <trd lng="ru">&c_b;&c_o;&c_n;&c_z;&c_a;</trd>
-  </drv>
+  <trd lng="be">&c_b;&c_o;&c_n;&c_z;&c_a;</trd>
+  <trd lng="bg">&c_b;&c_o;&c_n;&c_z;&c_a;</trd>
+  <trd lng="ca">bonze</trd>
+  <trdgrp lng="cs">
+    <trd>bonz</trd>,
+    <trd>japonský resp. dálněvýchodní buddhistický mnich</trd>
+  </trdgrp>
+  <trd lng="de">Bonze</trd>
+  <trd lng="en">bonze</trd>
+  <trd lng="es">bonzo</trd>
+  <trd lng="fr">bonze</trd>
+  <trd lng="pl">bonza</trd>
+  <trd lng="ru">&c_b;&c_o;&c_n;&c_z;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>bonz</trd>,
+    <trd>budhistický mních</trd>
+  </trdgrp>
+</drv>
 </art>
 <!--
 $Log: bonz.xml,v $
+Revision 1.13  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2009/08/12 16:30:31  revo
 Russ Williams: +trd en
 

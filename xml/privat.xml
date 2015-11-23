@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: privat.xml,v 1.16 2009/10/28 17:30:49 revo Exp $">
+  <art mrk="$Id: privat.xml,v 1.18 2015/07/04 08:37:42 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>privat</rad>/a
@@ -102,20 +102,22 @@
           <aut>Sergio Pokrovskij</aut>
         </rim>
       </snc>
-      <trd lng="be">&c_p;&c_r;&c_y;&c_v;&c_a;&c_t;&c_n;&c_y;</trd>
-      <trdgrp lng="de">
+  <trd lng="be">&c_p;&c_r;&c_y;&c_v;&c_a;&c_t;&c_n;&c_y;</trd>
+  <trd lng="cs">soukromý</trd>
+  <trdgrp lng="de">
         <trd>privat</trd>,
         <trd>Privat-</trd></trdgrp>
-      <trdgrp lng="hu">
+  <trdgrp lng="hu">
         <trd>mag&aacute;n-</trd>,
         <trd>priv&aacute;t</trd>
       </trdgrp>
-      <trdgrp lng="nl">
+  <trdgrp lng="nl">
 	<trd>particulier</trd>,
 	<trd>priv&eacute;</trd>
       </trdgrp>
-      <trd lng="ru"><ofc>*</ofc>&c_ch;&c_a;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>
-    </drv>
+  <trd lng="ru"><ofc>*</ofc>&c_ch;&c_a;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">súkromný</trd>
+</drv>
 
     <drv mrk="privat.0ulo">
       <kap><tld/>ulo</kap>
@@ -131,26 +133,34 @@
 	  </ekz>
 	</dif>
       </snc>
-      <trdgrp lng="be">
+  <trdgrp lng="be">
         <trd>&c_p;&c_r;&c_y;&c_v;&c_a;&c_t;&c_n;&c_a;&c_ja;
 <ind>&c_a;&c_s;&c_o;&c_b;&c_a;</ind></trd>,
         <trd>&c_f;&c_ib;&c_z;&c_ib;&c_ch;&c_n;&c_a;&c_ja;
 <ind>&c_a;&c_s;&c_o;&c_b;&c_a;</ind></trd>
       </trdgrp>
-      <trd lng="en">private person</trd>
-      <trd lng="fr"><klr>(un simple)</klr> <ind>particulier</ind></trd>
-      <trd lng="hu">mag&aacute;nember</trd>
-      <trd lng="nl">priv&eacute;persoon</trd>
-      <trdgrp lng="pt">
+  <trd lng="cs">soukromník</trd>
+  <trd lng="en">private person</trd>
+  <trd lng="fr"><klr>(un simple)</klr> <ind>particulier</ind></trd>
+  <trd lng="hu">mag&aacute;nember</trd>
+  <trd lng="nl">priv&eacute;persoon</trd>
+  <trdgrp lng="pt">
         <trd>privado</trd>,
         <trd>particular</trd>
-      </trdgrp>     
-      <trd lng="ru">&c_ch;&c_a;&c_s;&c_t;&c_n;&c_o;&c_je; &c_l;&c_i;&c_c;&c_o;</trd>
-    </drv>
+      </trdgrp>
+  <trd lng="ru">&c_ch;&c_a;&c_s;&c_t;&c_n;&c_o;&c_je; &c_l;&c_i;&c_c;&c_o;</trd>
+  <trd lng="sk">súkromník</trd>
+</drv>
 
   </art>
   <!--
   $Log: privat.xml,v $
+  Revision 1.18  2015/07/04 08:37:42  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.17  2015/06/29 16:40:18  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.16  2009/10/28 17:30:49  revo
   Paul Peeraerts: +nl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: spir.xml,v 1.23 2014/07/07 19:10:15 revo Exp $">
+<art mrk="$Id: spir.xml,v 1.26 2015/09/08 20:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>spir</rad>/i <fnt><bib>PV</bib></fnt>
@@ -45,6 +45,10 @@
     </ekz>
   </snc>
   <trd lng="be">&c_d;&c_y;&c_h;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>fun&ecaron;t</trd>,
+    <trd>t&ecaron;&zcaron;ce oddechovat</trd>
+  </trdgrp>
   <trd lng="de">atmen</trd>
   <trd lng="en">breathe</trd>
   <trd lng="es">respirar</trd>
@@ -59,6 +63,7 @@
   </trdgrp>
   <trd lng="nl">ademen</trd>
   <trd lng="ru">&c_d;&c_y;&c_sh;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">&tcaron;a&zcaron;ko oddychova&tcaron;</trd>
 </drv>
 
 <drv mrk="spir.0o">
@@ -89,6 +94,7 @@
     <trd>&c_d;&c_y;&c_h;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
     <trd>&c_p;&c_o;&c_d;&c_y;&c_h;</trd>
   </trdgrp>
+  <trd lng="cs">dech</trd>
   <trdgrp lng="de">
     <trd>Atem</trd>,
     <trd>Odem<klr> [poezie]</klr></trd>,
@@ -110,6 +116,7 @@
   </trdgrp>
   <trd lng="nl">adem</trd>
   <trd lng="ru">&c_d;&c_y;&c_h;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">dych</trd>
 </drv>
 
 <drv mrk="spir.0ado">
@@ -129,14 +136,16 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="de">Atmung</trd>
   <trd lng="be">&c_d;&c_y;&c_h;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="cs">d&yacute;ch&aacute;n&iacute;</trd>
+  <trd lng="de">Atmung</trd>
   <trd lng="es">respiraci&oacute;n</trd>
   <trd lng="fa">&a_t;&a_n;&a_f;&a_s;</trd>
   <trd lng="fr">respiration</trd>
   <trd lng="hu">l&eacute;legz&eacute;s</trd>
   <trd lng="nl">adem</trd>
   <trd lng="ru">&c_d;&c_y;&c_h;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">d&yacute;chanie</trd>
 </drv>
 
 <drv mrk="spir.0egi">
@@ -157,16 +166,21 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_c;&c_ja;&c_zh;&c_k;&c_a; <ind>&c_d;&c_y;&c_h;&c_a;&c_c;&c_mol;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>fun&ecaron;t</trd>,
+    <trd>t&ecaron;&zcaron;ce oddechovat</trd>
+  </trdgrp>
   <trd lng="de">schnaufen</trd>
   <trd lng="fa">&a_n;&a_f;&a_s; &a_z;&a_d;&a_n;</trd>
   <trdgrp lng="fr">
-    <trd>&ecirc;tre <ind>essoufl&eacute;</ind>,
+    <trd>&ecirc;tre <ind>essouffl&eacute;</ind>,
     </trd><trd>haleter</trd>
   </trdgrp>
   <trd lng="hu">liheg</trd>
   <trd lng="nl">hijgen</trd>
   <trd lng="ru">&c_t;&c_ja;&c_zh;&c_je;&c_l;&c_o;
     <ind>&c_d;&c_y;&c_sh;&c_a;&c_t;&c_mol;</ind></trd>
+  <trd lng="sk">&tcaron;a&zcaron;ko oddychova&tcaron;</trd>
 </drv>
 
 <drv mrk="spir.al0o">
@@ -285,6 +299,7 @@
     <trd lng="de">ausstrahlen</trd>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_d;&c_y;&c_h;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">vydechnout</trd>
   <trdgrp lng="fr">
     <trd>respirer</trd>,
     <trd>exprimer</trd>
@@ -294,6 +309,7 @@
     <trd>&c_v;&c_y;&c_d;&c_y;&c_h;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_d;&c_o;&c_h;&c_n;&c_u;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">vyd&yacute;chnu&tcaron;</trd>
 </drv>
 
 <drv mrk="spir.en0i">
@@ -309,6 +325,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_u;&c_d;&c_y;&c_h;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>nabrat dech</trd>,
+    <trd>nadechnout se</trd>,
+    <trd>vdechnout do sebe</trd>
+  </trdgrp>
   <trd lng="de">einatmen</trd>
   <trd lng="es">inspirar</trd>
   <trdgrp lng="fa">
@@ -332,6 +353,10 @@
   <trdgrp lng="ru">
     <trd>&c_v;&c_d;&c_y;&c_h;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_d;&c_o;&c_h;&c_n;&c_u;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nabra&tcaron; dych</trd>,
+    <trd>vd&yacute;chnu&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -365,7 +390,7 @@
   <trd lng="fa">&a_A;&a_z; <ind>&a_n;&a_f;&a_s;</ind>
     &a_A;&a_f;&a_t;&a_A;&a_d;&a_n;</trd>
   <trdgrp lng="fr">
-    <trd>s'essoufler</trd>,
+    <trd>s'essouffler</trd>,
     <trd>perdre <ind>haleine</ind></trd>
   </trdgrp>
   <trd lng="hu">kifullad</trd>
@@ -421,16 +446,33 @@
       produkti sonojn.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>fouknut&iacute;</trd>,
+    <trd>v&yacute;dech</trd>
+  </trdgrp>
   <trd lng="fr">colonne d'air</trd>
   <trd lng="hu">l&eacute;legzet</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_t;&c_r;&c_u;&c_ja; &c_v;&c_o;&c_z;&c_d;&c_u;&c_h;&c_a;</trd>,
     <trd>&c_v;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_a;&c_ja; &c_s;&c_t;&c_r;&c_u;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>f&uacute;knutie</trd>,
+    <trd>v&yacute;dych</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: spir.xml,v $
+Revision 1.26  2015/09/08 20:10:19  revo
+Jeromo Vasxe: kor trd fr
+
+Revision 1.25  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2014/07/07 19:10:15  revo
 Jeromo Vasxe: + gxem~i
 
@@ -444,14 +486,5 @@ Revision 1.20  2010/07/20 16:30:17  revo
 Sergio Pokrovskij: +al~o
 
 Revision 1.19  2010/07/19 16:30:26  revo
-Sergio Pokrovskij: +~kapta
-
-Revision 1.18  2009/06/20 18:00:48  revo
-Wieland Pusch: korr arabaj/persaj koderoj
-
-Revision 1.17  2009/05/07 16:30:48  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.16  2005/03/29 16:33:18  revo
 -->
 </vortaro>

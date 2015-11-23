@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mandra.xml,v 1.16 2013/11/02 18:10:16 revo Exp $">
+<art mrk="$Id: mandra.xml,v 1.17 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>mandragor</rad>/o
   <fnt>Z</fnt>
@@ -29,6 +29,10 @@
   </snc>
   <trd lng="be">&c_m;&c_a;&c_n;&c_d;&c_r;&c_a;&c_g;&c_o;&c_r;&c_a;</trd>
   <trd lng="ca">mandr&agrave;gora</trd>
+  <trdgrp lng="cs">
+    <trd>divý mužík</trd>,
+    <trd>mandragora</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Allraune</trd>,
     <trd>Mandragora</trd>
@@ -44,6 +48,9 @@
 </art>
 <!--
 $Log: mandra.xml,v $
+Revision 1.17  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.16  2013/11/02 18:10:16  revo
 Wolfram Diestel: prilaboris dif, ref al lst solanoparencoj
 

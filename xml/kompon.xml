@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kompon.xml,v 1.30 2013/12/02 10:10:19 revo Exp $">
+<art mrk="$Id: kompon.xml,v 1.33 2015/07/06 15:10:12 revo Exp $">
 <kap>
   <ofc>1</ofc> <rad>kompon</rad>/i
 </kap>
@@ -140,6 +140,13 @@
       (vd <ref cel="kompon.0anto.rim">rimarkon</ref>).
     </rim>
   </snc>
+  <trdgrp lng="cs">
+    <trd>komponovat</trd>,
+    <trd>napsat</trd>,
+    <trd>skl&aacute;dat <klr>(hudbu)</klr></trd>,
+    <trd>slo&zcaron;it</trd>,
+    <trd>ztv&aacute;rnit</trd>
+  </trdgrp>
   <trd lng="en">combine</trd>
   <trd lng="es">componer</trd>
   <trdgrp lng="fr">
@@ -153,6 +160,12 @@
     <trd>fa&ccedil;onner<klr tip="ind"> (une &oelig;uvre d'art)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_o;&c_je;&c_d;&c_i;&c_n;&c_ja;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>sklada&tcaron;</trd>,
+    <trd>skomponova&tcaron;</trd>,
+    <trd>zlo&zcaron;i&tcaron;</trd>,
+    <trd>zostavi&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kompon.0ajxo">
@@ -274,7 +287,7 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="koordi.0o.MAT">koordinato.</ref>
-    <rim>
+    <rim mrk="kompon.0anto.rim">
       Eblas diskuti, &ccirc;u la koncerna koeficiento ne estus pli bone
       nomata koordinato, lasante al <ctl><tld/>anto</ctl> la sencon,
       kiun
@@ -313,6 +326,11 @@
       <trd>composante<klr tip="ind"> (d'une force)</klr></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>komponenta</trd>,
+    <trd>slo&zcaron;ka</trd>,
+    <trd>sou&ccaron;&aacute;st</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Bestandteil</trd>,
     <trd>Komponente</trd>
@@ -323,26 +341,10 @@
     <trd>&c_k;&c_o;&c_m;&c_p;&c_o;&c_n;&c_je;&c_n;&c_t;&c_a;</trd>,
     <trd>&c_s;&c_o;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_ju;&c_shch;&c_a;&c_ja;</trd>
   </trdgrp>
-  <rim mrk="kompon.0anto.rim">
-    La formo <ctl><tld/>anto</ctl> estas kritikebla unue
-    pro la fakto, ke &gcirc;i uzas la substantivan participan sufikson por
-    signi a&jcirc;on kaj ne ulon, kio estas escepta (krom en matematiko),
-    sed anka&ubreve; pro la fakto, ke &gcirc;i supozigas la preska&ubreve;
-    neekzistantan sencon <sncref ref="kompon.0i.konsistigi"/> de la
-    radiko
-    (vd <ref cel="kompon.0i.konsistigi_rim">rimarkon</ref>).
-    Eble tial iuj a&ubreve;toroj uzas apartan radikon <em>komponent</em>:
-    <ekz>
-      estas kiel paralelogramo de fortoj, en kiu amba&ubreve;
-      komponentoj konsistas el unuflanke egoismo, aliflanke
-      amo al Dio kaj la homoj
-      <fnt>
-      <bib>Voja&gcirc;Imp</bib>
-      <lok>&Ccirc;e Lev Tolstoj en Jasnaja Poljana</lok></fnt>.
-    </ekz>
-    Sed nova radiko ne estas bezonata: sufi&ccirc;us uzi la vorton
-    <ctl>konsista&jcirc;o</ctl>.
-  </rim>
+  <trdgrp lng="sk">
+    <trd>komponent</trd>,
+    <trd>zlo&zcaron;ka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kompon.0isto">
@@ -359,6 +361,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_a;&c_z;&c_y;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>hudebn&iacute; skladatel</trd>,
+    <trd>komponista</trd>
+  </trdgrp>
   <trd lng="de">Komponist</trd>
   <trd lng="en">composer</trd>
   <trd lng="es">compositor</trd>
@@ -366,6 +372,7 @@
   <trd lng="nl">componist</trd>
   <trd lng="pl">kompozytor</trd>
   <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_o;&c_z;&c_i;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">skladate&lcaron;</trd>
 </drv>
 
 <drv mrk="kompon.mal0i">
@@ -456,6 +463,11 @@
     <trd lng="pl">roz&lstroke;o&zdot;y&cacute;</trd>
     <trd lng="ru">&c_r;&c_a;&c_z;&c_l;&c_a;&c_g;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trd lng="cs">rozkl&aacute;dat</trd>
+  <trdgrp lng="sk">
+    <trd>rozlo&zcaron;i&tcaron;</trd>,
+    <trd>rozobra&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kompon.mal0igxi">
@@ -518,6 +530,15 @@
 </art>
 <!--
 $Log: kompon.xml,v $
+Revision 1.33  2015/07/06 15:10:12  revo
+Damien Brucker: -eraro cxe ref en rim
+
+Revision 1.32  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.30  2013/12/02 10:10:19  revo
 Damien Brucker: +trd fr
 
@@ -531,14 +552,5 @@ Revision 1.27  2007/01/01 19:47:59  revo
 Tulio Flores: +tr pt
 
 Revision 1.26  2006/09/22 19:19:30  revo
-Wolfram Diestel: ref al muzikajxo
-
-Revision 1.25  2005/05/16 17:48:48  revo
-Marc Bavant: ~isto: kor interpunkcion
-
-Revision 1.24  2005/02/06 17:31:44  revo
-Marc Bavant: +ekz, kor ref al konstrui, kunmeti, +trd fr; ~i: reverkis;
-~i KEM: +rim; mal~i: mod dif; +drv mal~igxi; ~ajxo: +rim; ~anto: mod
-rim, +snc iu
 -->
 </vortaro>

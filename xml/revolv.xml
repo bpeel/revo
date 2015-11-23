@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: revolv.xml,v 1.15 2010/06/21 16:30:28 revo Exp $">
+<art mrk="$Id: revolv.xml,v 1.18 2015/10/07 17:10:16 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>revolver</rad>/o
@@ -18,7 +18,12 @@
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_v;&c_a;&c_l;&c_mol;&c_v;&c_e;&c_r;</trd>
+  <trd lng="bg">&c_r;&c_je;&c_v;&c_o;&c_l;&c_v;&c_je;&c_r;</trd>
   <trd lng="ca">rev&ograve;lver</trd>
+  <trdgrp lng="cs">
+    <trd>oto&ccaron;. z&aacute;sobn&iacute;k</trd>,
+    <trd>revolver</trd>
+  </trdgrp>
   <trd lng="de">Revolver</trd>
   <trd lng="en">revolver</trd>
   <trd lng="es">rev&oacute;lver</trd>
@@ -32,10 +37,23 @@
   <trd lng="nl">revolver</trd>
   <trd lng="pt">rev&oacute;lver</trd>
   <trd lng="ru">&c_r;&c_je;&c_v;&c_o;&c_l;&c_mol;&c_v;&c_je;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>revolver</trd>,
+    <trd>z&aacute;sobn&iacute;k</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: revolv.xml,v $
+Revision 1.18  2015/10/07 17:10:16  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2010/06/21 16:30:28  revo
 Antonio Codazzi: +trd it
 
@@ -49,14 +67,5 @@ Revision 1.12  2006/02/20 17:34:17  revo
 Tulio Flores: +trd pt
 
 Revision 1.11  2005/04/05 16:34:17  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.10  2003/08/17 17:28:58  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9  2002/08/17 17:31:46  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2002/01/25 17:33:19  revo
 -->
 </vortaro>

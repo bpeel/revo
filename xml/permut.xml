@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: permut.xml,v 1.19 2009/06/16 16:31:52 revo Exp $">
+<art mrk="$Id: permut.xml,v 1.21 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>permut</rad>/i
   <fnt>Z</fnt>
@@ -21,6 +21,7 @@
     <trd>&c_p;&c_je;&c_r;&c_a;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
     <trd>&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_mol; <ind>&c_m;&c_je;&c_s;&c_c;&c_a;&c_m;&c_ib;</ind></trd>
   </trdgrp>
+  <trd lng="cs">permutovat  zaměňovat měnit <klr>(pořadí)</klr></trd>
   <trd lng="de">permutieren</trd>
   <trd lng="en">permute</trd>
   <trd lng="fa">&a_j;&a_A;&f_y;&f_g;&a_r;&a_d;&a_A;&a_n;&a_d;&a_n;</trd>
@@ -32,6 +33,10 @@
   <trd lng="nl">permuteren</trd>
   <trd lng="pl">permutowa&cacute;</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>obmieňať</trd>,
+    <trd>permutovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="permut.0o">
@@ -136,6 +141,12 @@
 </art>
 <!--
 $Log: permut.xml,v $
+Revision 1.21  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2009/06/16 16:31:52  revo
 Behnam Tabatabai: +trd fa
 

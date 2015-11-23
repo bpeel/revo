@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ulul.xml,v 1.19 2013/08/12 19:10:10 revo Exp $">
+<art mrk="$Id: ulul.xml,v 1.21 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <rad>ulul</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -67,10 +67,21 @@
     <trd lng="ru">&c_v;&c_y;&c_t;&c_mol;</trd>
   </snc>
   <trd lng="ca">udolar</trd>
+  <trd lng="cs">zahoukat <klr>(siréna)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>húkať</trd>,
+    <trd>zavýjať</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ulul.xml,v $
+Revision 1.21  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/08/12 19:10:10  revo
 Jeromo Vasxe: + ekz + ref super + trd fr
 

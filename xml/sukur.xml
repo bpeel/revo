@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sukur.xml,v 1.10 2014/05/29 15:10:31 revo Exp $">
+<art mrk="$Id: sukur.xml,v 1.12 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>sukur</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,15 +27,17 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="hu">els&odblac;seg&eacute;lyben r&eacute;szes&iacute;t</trd>  
-  <trd lng="nl">eerste <ind>hulp</ind> verlenen</trd>
-  <trd lng="es">socorrer</trd>
+  <trd lng="cs">poskytnout první pomoc</trd>
   <trd lng="de">erste <ind>Hilfe</ind> leisten</trd>
+  <trd lng="es">socorrer</trd>
   <trd lng="fr">secourir</trd>
+  <trd lng="hu">els&odblac;seg&eacute;lyben r&eacute;szes&iacute;t</trd>
   <trd lng="it">soccorrere</trd>
+  <trd lng="nl">eerste <ind>hulp</ind> verlenen</trd>
   <trd lng="pl">udzieli&cacute; <ind>pierwszej pomocy</ind></trd>
   <trd lng="ru">&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol; <ind>&c_p;&c_je;&c_r;&c_v;&c_u;&c_ju;
   &c_p;&c_o;&c_m;&c_o;&c_shch;&c_mol;</ind></trd>
+  <trd lng="sk">poskytnúť prvú pomoc</trd>
 </drv>
 
 <drv mrk="sukur.0ado">
@@ -45,23 +47,25 @@
       Ago de persono, kiu <tld/>as.
     </dif>
   </snc>
+  <trd lng="cs">první pomoc</trd>
+  <trd lng="de">erste <ind>Hilfe</ind></trd>
+  <trdgrp lng="es">
+    <trd>el socorro</trd>,
+    <trd>el socorrer</trd>
+  </trdgrp>
   <trd lng="fr">secours</trd>
   <trdgrp lng="hu">
     <trd>seg&eacute;lyny&uacute;jt&aacute;s</trd>,
     <trd>els&odblac;seg&eacute;lyny&uacute;jt&aacute;s</trd>
   </trdgrp>
-  <trd lng="de">erste <ind>Hilfe</ind></trd>
+  <trd lng="it">soccorso<klr> (azione)</klr></trd>
   <trdgrp lng="nl">
     <trd>eerstehulpverlening</trd>,
     <trd>EHBO</trd>
   </trdgrp>
-  <trdgrp lng="es">
-    <trd>el socorro</trd>,
-    <trd>el socorrer</trd>
-  </trdgrp>
-  <trd lng="it">soccorso<klr> (azione)</klr></trd>
   <trd lng="pl">pierwsza pomoc</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_v;&c_a;&c_ja; &c_p;&c_o;&c_m;&c_o;&c_shch;&c_mol;</trd>
+  <trd lng="sk">prvá pomoc</trd>
 </drv>
 
 <drv mrk="sukur.0ejo">
@@ -71,6 +75,11 @@
       Loko kie trovi&gcirc;as la necesa materialo por povi <tld/>i.
     </dif>
   </snc>
+  <trd lng="cs">stanice první pomoci</trd>
+  <trdgrp lng="de">
+    <trd>erste Hilfe Koffer</trd>,
+    <trd>Notfallraum</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>seg&eacute;lyhely</trd>,
     <trd>els&odblac;seg&eacute;lyhely</trd>
@@ -79,15 +88,12 @@
     <trd>eerstehulppost</trd>,
     <trd>EHBO-post</trd>
   </trdgrp>
-  <trdgrp lng="de">
-    <trd>erste Hilfe Koffer</trd>,
-    <trd>Notfallraum</trd>
-  </trdgrp>
   <trdgrp lng="pl">
     <trd>pogotowie ratunkowe</trd>,
     <trd>szpitalny oddzia&lstroke; ratunkowy</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_je;&c_d;&c_p;&c_u;&c_n;&c_k;&c_t;</trd>
+  <trd lng="sk">miesto prvej pomoci</trd>
 </drv>
 
 <drv mrk="sukur.0isto..0anto">
@@ -123,6 +129,12 @@
 </art>
 <!--
 $Log: sukur.xml,v $
+Revision 1.12  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2014/05/29 15:10:31  revo
 Damien Brucker: +trd fr
 

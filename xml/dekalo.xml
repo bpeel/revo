@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dekalo.xml,v 1.14 2013/05/01 15:10:20 revo Exp $">
+<art mrk="$Id: dekalo.xml,v 1.16 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>dekalog</rad>/o
   <fnt>Z</fnt>
@@ -25,6 +25,10 @@
     &c_z;&c_a;&c_p;&c_a;&c_v;&c_je;&c_d;&c_z;&c_ja;&c_w;</trd>
   </trdgrp>
   <trd lng="ca">dec&agrave;leg</trd>
+  <trdgrp lng="cs">
+    <trd>dekalog</trd>,
+    <trd>desatero přikázání</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Dekalog</trd>,
     <trd>Zehn Gebote</trd>
@@ -37,23 +41,32 @@
     <trd>dix commandements</trd>
   </trdgrp>
   <trd lng="hu">t&iacute;zparancsolat</trd>
+  <trdgrp lng="id">
+    <trd>dekalog</trd>,
+    <trd>Sepuluh Perintah Tuhan</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>Dekalog</trd>,
     <trd>Dziesi&eogonek;&cacute; Przykaza&nacute;<klr tip="amb">
     Bo&zdot;ych</klr></trd>
   </trdgrp>
-  <trdgrp lng="id">
-    <trd>dekalog</trd>,
-    <trd>Sepuluh Perintah Tuhan</trd>
-  </trdgrp>
   <trd lng="pt">dec&aacute;logo</trd>
   <trd lng="ru">&c_d;&c_je;&c_s;&c_ja;&c_t;&c_mol;
   &c_z;&c_a;&c_p;&c_o;&c_v;&c_je;&c_d;&c_je;&c_j;</trd>
-  <trd lng="sk">desa&tcaron; <ind>prik&aacute;zan&iacute;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>desa&tcaron; <ind>prik&aacute;zan&iacute;</ind></trd>,
+    <trd>desať prikázaní <klr>(božích)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: dekalo.xml,v $
+Revision 1.16  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2013/05/01 15:10:20  revo
 Eko Nur Syah Hidayat: +trd id
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cerefo.xml,v 1.17 2013/08/26 08:10:28 revo Exp $">
+<art mrk="$Id: cerefo.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>cerefoli</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -33,8 +33,10 @@
   </snc>
   <trd lng="be">&c_k;&c_je;&c_r;&c_v;&c_e;&c_l;&c_mol;</trd>
   <trd lng="ca">cerfull</trd>
+  <trd lng="cs">kebrlík</trd>
   <trd lng="de">Kerbel</trd>
   <trd lng="el">&chi;&alfa;&jota;&rho;&epsilon_ton;&phi;&ypsilon;&lambda;&lambda;&omikron;</trd>
+  <trd lng="en">chervil</trd>
   <trd lng="fr">cerfeuil</trd>
   <trd lng="hu">turbolya</trd>
   <trd lng="it">cerfoglio</trd>
@@ -42,11 +44,21 @@
   <trd lng="pl">trybula</trd>
   <trd lng="pt">ceref&oacute;lio</trd>
   <trd lng="ru">&c_k;&c_je;&c_r;&c_v;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">trebuľa</trd>
   <trd lng="sv">sm&aring;k&ouml;rvlar</trd>
 </drv>
 </art>
 <!--
 $Log: cerefo.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/05/30 22:10:15  revo
+Erik Pedersen: aldonis indonezian tradukon
+
 Revision 1.17  2013/08/26 08:10:28  revo
 Wolfram Diestel: referencoj al listoj bot genroj, spicoj
 
@@ -66,8 +78,5 @@ Revision 1.12 2005/02/02 17:34:05 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.11 2002/05/23 20:32:26 revo
-Eduardo M. Kalinowski: ald trd el, pt
-
-Revision 1.10 2002/03/25 17:31:55 revo
 -->
 </vortaro>

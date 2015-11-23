@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mini.xml,v 1.14 2014/05/30 08:10:38 revo Exp $">
+<art mrk="$Id: mini.xml,v 1.16 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>mini</rad>/o
   <fnt>Z</fnt>
@@ -24,6 +24,10 @@
     </trd>
   </trdgrp>
   <trd lng="ca">mini</trd>
+  <trdgrp lng="cs">
+    <trd>minium</trd>,
+    <trd>suřík</trd>
+  </trdgrp>
   <trd lng="de">Mennige</trd>
   <trdgrp lng="en">
     <trd>minium</trd>,
@@ -48,10 +52,17 @@
     &c_o;&c_k;&c_i;&c_s;&c_mol; &c_s;&c_v;&c_i;&c_n;&c_c;&c_a;
     </trd>
   </trdgrp>
+  <trd lng="sk">mínium</trd>
 </drv>
 </art>
 <!--
 $Log: mini.xml,v $
+Revision 1.16  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2014/05/30 08:10:38  revo
 Damien Brucker: +trd fr
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bimeta.xml,v 1.10 2011/06/03 11:10:13 revo Exp $">
+<art mrk="$Id: bimeta.xml,v 1.12 2015/07/04 08:37:31 revo Exp $">
 <kap>
 <rad>bimetalism</rad>/o
 </kap>
@@ -15,25 +15,33 @@ Mona sistemo bazita sur duobla normo kaj en kiu la valora rilato inter
 la oro kaj la ar&gcirc;ento estas precize fiksita.
 </dif>
 </snc>
-<trd lng="be">&c_b;&c_ib;&c_m;&c_e;&c_t;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
-<trdgrp lng="de">
+  <trd lng="be">&c_b;&c_ib;&c_m;&c_e;&c_t;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="cs">bimetalizmus</trd>
+  <trdgrp lng="de">
    <trd>Doppelw&auml;hrung</trd>,
    <trd>Bimetallismus</trd></trdgrp>
-<trdgrp lng="en">
+  <trdgrp lng="en">
    <trd>double standard</trd>,
    <trd>bimetallism</trd></trdgrp>
-   <trd lng="es">bimetalismo</trd>
-<trd lng="fr">bim&eacute;tallisme</trd>
-<trdgrp lng="hu">
+  <trd lng="es">bimetalismo</trd>
+  <trd lng="fr">bim&eacute;tallisme</trd>
+  <trdgrp lng="hu">
    <trd>k&eacute;tf&eacute;mrendszer</trd>,
    <trd>kett&odblac;s <ind>valutarendszer</ind></trd>,
    <trd>bimetallizmus</trd></trdgrp>
-<trd lng="nl">bimetallisme</trd>
-<trd lng="ru">&c_b;&c_i;&c_m;&c_je;&c_t;&c_a;&c_l;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="nl">bimetallisme</trd>
+  <trd lng="ru">&c_b;&c_i;&c_m;&c_je;&c_t;&c_a;&c_l;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">bimetalizmus</trd>
 </drv>
 </art>
 <!--
 $Log: bimeta.xml,v $
+Revision 1.12  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2011/06/03 11:10:13  revo
 Carlos Angus: +trd es
 

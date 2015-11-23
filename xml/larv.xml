@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: larv.xml,v 1.19 2013/08/21 16:10:11 revo Exp $">
+<art mrk="$Id: larv.xml,v 1.21 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>larv</rad>/o <fnt><bib>PV</bib></fnt>
@@ -29,6 +29,10 @@
   <trd lng="bg">&c_l;&c_a;&c_r;&c_v;&c_a;</trd>
   <trd lng="br">larvenn</trd>
   <trd lng="ca">larva</trd>
+  <trdgrp lng="cs">
+    <trd>kukla</trd>,
+    <trd>larva</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Larve</trd>,
      <trd>Nymphe</trd>
@@ -44,10 +48,20 @@
   <trd lng="nl">larve</trd>
   <trd lng="pt">larva</trd>
   <trd lng="ru">&c_l;&c_i;&c_ch;&c_i;&c_n;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>kukla</trd>,
+    <trd>larva</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: larv.xml,v $
+Revision 1.21  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/08/21 16:10:11  revo
 Joop Eggen: +trd bg
 

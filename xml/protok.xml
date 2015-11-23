@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: protok.xml,v 1.22 2014/11/01 20:10:26 revo Exp $">
+<art mrk="$Id: protok.xml,v 1.24 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>1</ofc> <rad>protokol</rad>/o
 </kap>
@@ -91,8 +91,16 @@
     <trd lng="nl">protocol</trd>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_t;&c_a;&c_k;&c_o;&c_l;</trd>
+  <trdgrp lng="cs">
+    <trd>protokol</trd>,
+    <trd>zápis</trd>
+  </trdgrp>
   <trd lng="de">Protokoll</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_o;&c_k;&c_o;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>protokol</trd>,
+    <trd>zápisnica</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="protok.0i">
@@ -107,7 +115,14 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_t;&c_a;&c_k;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
-  <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_o;&c_k;&c_o;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>protokolovat</trd>,
+    <trd>sepsat protokol</trd>,
+    <trd>zapisovat</trd>,
+    <trd>zaprotokolovat</trd>,
+    <trd>zapsat do protokolu</trd>,
+    <trd>zapsat do zápisu</trd>
+  </trdgrp>
   <trd lng="de">protokollieren</trd>
   <trdgrp lng="es">
     <trd>levantar un <ind>acta</ind></trd>
@@ -120,6 +135,12 @@
   <trdgrp lng="nl">
     <trd>in een <ind>protocol</ind> vastleggen</trd>,
     <trd>notuleren</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_o;&c_k;&c_o;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>protokolovať</trd>,
+    <trd>zapísať</trd>,
+    <trd>zápisnične zachytiť</trd>
   </trdgrp>
 </drv>
 
@@ -137,6 +158,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_z;&c_ju;&c_m;&c_e; <klr>(&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_a;&c_je;)</klr></trd>
+  <trd lng="cs">úřední životopis</trd>
   <trdgrp lng="en">
     <trd>curriculum vitae</trd>, <trd>resume</trd>
   </trdgrp>
@@ -156,10 +178,17 @@
     <trd>curr&iacute;culo</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_s;&c_l;&c_u;&c_zh;&c_n;&c_o;&c_j; &c_s;&c_p;&c_i;&c_s;&c_o;&c_k;</trd>
+  <trd lng="sk">úradný životopis</trd>
 </drv>
 </art>
 <!--
 $Log: protok.xml,v $
+Revision 1.24  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/11/01 20:10:26  revo
 Guillermo Molleda Jimena: trd es
 

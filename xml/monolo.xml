@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: monolo.xml,v 1.14 2013/09/14 01:10:15 revo Exp $">
+<art mrk="$Id: monolo.xml,v 1.16 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>monolog</rad>/o <fnt><bib>PV</bib></fnt>
@@ -45,11 +45,13 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_l;&c_jo;&c_g;</trd>
+  <trd lng="cs">monolog</trd>
   <trd lng="en">monologue</trd>
   <trd lng="fr">monologue</trd>
   <trd lng="nl">monoloog</trd>
   <trd lng="pt">mon&oacute;logo</trd>
   <trd lng="ru">&c_m;&c_o;&c_n;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="sk">monológ</trd>
 </drv>
 
 <drv mrk="monolo.0i">
@@ -65,8 +67,13 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>monologizovat</trd>,
+    <trd>vést monolog</trd>
+  </trdgrp>
   <trd lng="en">make a monologue</trd>
   <trd lng="fr">monologuer</trd>
+  <trd lng="sk">viesť monológ</trd>
 </drv>
 
 <drv mrk="monolo.interna0o">
@@ -95,6 +102,12 @@
 </art>
 <!--
 $Log: monolo.xml,v $
+Revision 1.16  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2013/09/14 01:10:15  revo
 Jeromo Vasxe: + interna ~o
 

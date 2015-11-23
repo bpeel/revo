@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: telesk.xml,v 1.18 2009/10/24 16:32:48 revo Exp $">
+<art mrk="$Id: telesk.xml,v 1.20 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>teleskop</rad>/o
@@ -33,6 +33,10 @@
   </snc>
   <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_s;&c_k;&c_o;&c_p;</trd>
   <trd lng="bg">&c_t;&c_je;&c_l;&c_je;&c_s;&c_k;&c_o;&c_p;</trd>
+  <trdgrp lng="cs">
+    <trd>teleskop</trd>,
+    <trd>zasouvací dalekohled</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Fernrohr</trd>,
     <trd>Teleskop</trd>
@@ -52,7 +56,10 @@
     <trd>telesc&oacute;pio</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_s;&c_k;&c_o;&c_p;</trd>
-  <trd lng="sk">teleskop</trd>
+  <trdgrp lng="sk">
+    <trd>teleskop</trd>,
+    <trd>ďalekohľad</trd>
+  </trdgrp>
   <trd lng="sv">teleskop</trd>
 </drv>
 
@@ -88,6 +95,12 @@
 </art>
 <!--
 $Log: telesk.xml,v $
+Revision 1.20  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2009/10/24 16:32:48  revo
 Russ Williams: +trd en
 

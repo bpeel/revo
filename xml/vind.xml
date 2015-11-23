@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vind.xml,v 1.21 2013/08/18 18:10:10 revo Exp $">
+<art mrk="$Id: vind.xml,v 1.26 2015/09/22 13:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vind</rad>/i
@@ -53,6 +53,11 @@
       <trd>bep&oacute;ly&aacute;z</trd>,
       <trd>becsavar</trd>,
     </trdgrp>
+    <trdgrp lng="pl">
+      <trd>zawija&cacute;</trd>,
+      <trd>owija&cacute;</trd>,
+      <trd>spowija&cacute;</trd>
+    </trdgrp>
     <trd lng="pt">envolve</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_je;&c_l;&c_je;&c_n;&c_a;&c_t;&c_mol;</trd>,
@@ -74,6 +79,7 @@
     <trd lng="es">empa&ntilde;ar <klr>(poner pa&ntilde;al)</klr></trd>
     <trd lng="fr">changer les <ind>couches</ind></trd>
     <trd lng="hu">bepelenk&aacute;z</trd>
+    <trd lng="pl">przewija&cacute;</trd>
     <trd lng="pt">p&ocirc;r fralda</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_je;&c_l;&c_je;&c_n;&c_a;&c_t;&c_mol;</trd>,
@@ -104,6 +110,10 @@
       <trd>panser</trd>
     </trdgrp>
     <trd lng="hu">bep&oacute;ly&aacute;z</trd>
+    <trdgrp lng="pl">
+      <trd>owija&cacute;</trd>,
+      <trd>banda&zdot;owa&cacute;</trd>
+    </trdgrp>
     <trd lng="pt">enfaixar</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_ja;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
@@ -126,13 +136,24 @@
     <trd>omwikkelen</trd>,
     <trd>inbakeren</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>obviaza&tcaron;</trd>,
+    <trd>ovin&uacute;&tcaron;</trd>,
+    <trd>zavin&uacute;&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>obv&aacute;zat</trd>,
+    <trd>pov&iacute;t</trd>,
+    <trd>v&iacute;t</trd>,
+    <trd>zavinout</trd>,
+    <trd>zav&aacute;zat</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vind.0o">
   <kap><tld/>o</kap>
   <snc>
-    <dif>
-      <ref tip="dif" cel="vind.0ajxo"><tld lit="V"/>a&jcirc;o</ref>:
+      <ref tip="dif" cel="vind.0ajxo"><tld/>a&jcirc;o</ref>
       <ekz>
         <uzo tip="stl">FIG</uzo>
         <ind>li ne elrampis ankora&ubreve; el la <tld/>oj</ind>
@@ -141,12 +162,20 @@
         <trd lng="ca">encara hi est&agrave; a les beceroles</trd>
         <trd lng="hu">m&eacute;g ott a toj&aacute;sh&eacute;j a fenek&eacute;n</trd>
       </ekz>
-    </dif>
   </snc>
+  <trdgrp lng="en">
+    <trd>bandage</trd>,
+    <trd>dressing</trd>
+  </trdgrp>
   <trdgrp lng="be">
     <trd>&c_p;&c_ja;&c_l;&c_ju;&c_sh;&c_k;&c_a;</trd>,
     <trd>&c_p;&c_a;&c_v;&c_ja;&c_z;&c_k;&c_a;</trd>,
     <trd>&c_b;&c_ib;&c_n;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>obvaz</trd>,
+    <trd>plena</trd>,
+    <trd>plenka</trd>
   </trdgrp>
   <trdgrp lng="de">
       <trd>Windel</trd>
@@ -165,6 +194,10 @@
     <trd>&c_p;&c_o;&c_v;&c_ja;&c_z;&c_k;&c_a;</trd>,
     <trd>&c_b;&c_i;&c_n;&c_t;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>obv&auml;z</trd>,
+    <trd>plienka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vind.0ajxo">
@@ -179,6 +212,10 @@
         <fnt><bib>MT</bib>, <lok>Je&hcirc;ezkel 16:4</lok></fnt>
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd>binding</trd>,
+      <trd>wrapping</trd>
+    </trdgrp>
     <trd lng="ca">bena</trd>
     <trdgrp lng="es">
       <trd>mortaja</trd>,
@@ -190,6 +227,7 @@
       <trd>p&oacute;lya</trd>,
       <trd>k&ouml;t&eacute;s</trd>
     </trdgrp>
+    <trd lng="pl">zaw&oacute;j</trd>
     <trd lng="ru">&c_p;&c_je;&c_l;&c_jo;&c_n;&c_k;&c_a;</trd>
   </snc>
   <snc mrk="vind.0ajxo.higieno">
@@ -197,10 +235,15 @@
       Tuko a&ubreve; alia <ref tip="super" cel="vest.0o">vesto</ref>
       uzata por <tld/>i <sncref ref="vind.0i.higieno"/>.
     </dif>
+    <trdgrp lng="en">
+      <trd>swaddle</trd>,
+      <trd>diaper</trd>
+    </trdgrp>
     <trd lng="ca">bolquers</trd>
     <trd lng="es">pa&ntilde;al</trd>
     <trd lng="fr">couches<klr> (hygi&eacute;niques)</klr></trd>
     <trd lng="hu">pelenka</trd>
+    <trd lng="pl">pielucha</trd>
     <trd lng="pt">fralda</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_o;&c_v;&c_ja;&c_z;&c_k;&c_a;</trd>,
@@ -226,11 +269,17 @@
   <snc>
     <ref tip="dif" cel="vind.0ajxo"><tld/>a&jcirc;o</ref>
   </snc>
+  <trd lng="en">swaddling cloth</trd>
   <trd lng="be">&c_p;&c_ja;&c_l;&c_ju;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="ca">bolquer</trd>
+  <trdgrp lng="cs">
+    <trd>obvaz</trd>,
+    <trd>plena</trd>,
+    <trd>plenka</trd>
+  </trdgrp>
   <trdgrp lng="de">
       <trd>Wickeltuch</trd>
   </trdgrp>
-  <trd lng="ca">bolquer</trd>
   <trdgrp lng="es">
     <trd>mortaja</trd>,
     <trd>pa&ntilde;al</trd>,
@@ -243,6 +292,10 @@
   </trdgrp>
   <trd lng="nl">luier</trd>
   <trd lng="ru">&c_p;&c_je;&c_l;&c_jo;&c_n;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>obv&auml;z</trd>,
+    <trd>plienka</trd>
+  </trdgrp>
   <trd lng="sv">bl&ouml;ja</trd>
 </drv>
 
@@ -254,6 +307,7 @@
       su&ccirc;infanon por purigi kaj vindi &gcirc;in.
     </dif>
   </snc>
+  <trd lng="en">swaddling table</trd>
   <trd lng="ca">canviador <klr>(per a nadons)</klr></trd>
   <trdgrp lng="de">
     <trd>Wickeltisch</trd>,
@@ -262,12 +316,28 @@
   <trd lng="fr">table &agrave; langer</trd>
   <trd lng="hu">pelenk&aacute;z&oacute;asztal</trd>
   <trd lng="nl">wikkeltafel</trd>
+  <trd lng="pl">przewijak</trd>
   <trd lng="ru">&c_p;&c_je;&c_l;&c_je;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_s;&c_t;&c_o;&c_l;&c_i;&c_k;</trd>
   <trd lng="sv">sk&ouml;tbord</trd>
 </drv>
 </art>
 <!--
 $Log: vind.xml,v $
+Revision 1.26  2015/09/22 13:10:20  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.25  2015/09/16 22:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.24  2015/08/21 12:10:19  revo
+Damien Brucker: -tajperaro
+
+Revision 1.23  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2013/08/18 18:10:10  revo
 Carlos Garcia: +trd es -i -o -ajxo -otuko
 
@@ -275,20 +345,5 @@ Revision 1.20  2011/12/03 18:10:20  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.19  2009/08/08 16:32:57  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.18  2008/11/23 19:12:48  revo
-Wieland Pusch: entoj por unikodo
-
-Revision 1.17  2008/10/31 17:30:36  revo
-Russ Williams: +trd en
-
-Revision 1.16  2007/02/01 15:15:25  revo
-Wieland Pusch: +trd de
-
-Revision 1.15  2005/02/03 17:33:26  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.14  2004/09/18 16:31:58  revo
 -->
 </vortaro>

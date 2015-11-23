@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: perime.xml,v 1.16 2009/09/10 16:31:15 revo Exp $">
+<art mrk="$Id: perime.xml,v 1.18 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>perimetr</rad>/o
@@ -23,6 +23,10 @@
   </snc>
   <trd lng="be">&c_p;&c_e;&c_r;&c_y;&c_m;&c_e;&c_t;&c_a;&c_r;</trd>
   <trd lng="ca">per&iacute;metre</trd>
+  <trdgrp lng="cs">
+    <trd>délka obvodu</trd>,
+    <trd>obvod</trd>
+  </trdgrp>
   <trd lng="de">Umfang</trd>
   <trd lng="en">perimeter</trd>
   <trd lng="es">per&iacute;metro</trd>
@@ -35,10 +39,17 @@
   <trd lng="pl">obw&oacute;d</trd>
   <trd lng="pt">per&iacute;metro</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_i;&c_m;&c_je;&c_t;&c_r;</trd>
+  <trd lng="sk">perimeter</trd>
 </drv>
 </art>
 <!--
 $Log: perime.xml,v $
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2009/09/10 16:31:15  revo
 Behnam Tabatabai: +trd fa
 

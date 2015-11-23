@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: justic.xml,v 1.10 2009/03/19 18:17:18 revo Exp $">
+<art mrk="$Id: justic.xml,v 1.12 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <rad>justic</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -41,6 +41,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_ju;&c_s;&c_t;&c_y;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>justice</trd>,
+    <trd>soudnictví</trd>
+  </trdgrp>
   <trd lng="de">Justiz</trd>
   <trd lng="en">justice system <klr>(government institution)</klr></trd>
   <trd lng="fr">justice<klr tip="ind"> (institution)</klr></trd>
@@ -55,10 +59,17 @@
     <trd>&c_ju;&c_s;&c_t;&c_i;&c_c;&c_i;&c_ja;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_v;&c_o;&c_s;&c_u;&c_d;&c_i;&c_je;</trd>
   </trdgrp>
+  <trd lng="sk">justícia</trd>
 </drv>
 </art>
 <!--
 $Log: justic.xml,v $
+Revision 1.12  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2009/03/19 18:17:18  revo
 Antonio Codazzi: +trd it
 

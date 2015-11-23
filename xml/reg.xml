@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: reg.xml,v 1.24 2012/06/04 00:10:10 revo Exp $">
+<art mrk="$Id: reg.xml,v 1.26 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>reg</rad>/i <fnt><bib>PV</bib></fnt>
@@ -174,7 +174,12 @@
     <trd lng="nl">heersen</trd>
     <trd lng="ru">&c_c;&c_a;&c_r;&c_i;&c_t;&c_mol;</trd>
   </snc>
-  <trd lng="cs">vl&aacute;dnout</trd>
+  <trdgrp lng="cs">
+    <trd>ovládat</trd>,
+    <trd>panovat</trd>,
+    <trd>vl&aacute;dnout</trd>,
+    <trd>řídit</trd>
+  </trdgrp>
   <trd lng="de">herrschen</trd>
   <trdgrp lng="en">
     <trd>govern</trd>,
@@ -183,13 +188,18 @@
   <trdgrp lng="es">
     <trd>dominar</trd>,
     <trd>controlar</trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>diriger</trd>,
     <trd>gouverner</trd>,
     <trd>r&eacute;gir</trd>,
     <trd>r&eacute;gner</trd>,
     <trd>r&eacute;guler</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ovládať</trd>,
+    <trd>panovať</trd>,
+    <trd>vládnuť</trd>
   </trdgrp>
   <trd lng="tp">lawa</trd>
 </drv>
@@ -211,6 +221,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>vláda <klr>(činnost)</klr></trd>,
+    <trd>vládnutí</trd>
+  </trdgrp>
   <trd lng="de">Herrschaft</trd>
   <trd lng="fr">r&egrave;gne</trd>
   <trdgrp lng="hu">
@@ -222,6 +236,7 @@
     <trd>&c_p;&c_r;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_u;&c_p;&c_r;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
+  <trd lng="sk">vláda <klr>(činnosť)</klr></trd>
 </drv>
 
 <drv mrk="reg.0ato">
@@ -241,12 +256,20 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_d;&c_a;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>ovládaný</trd>,
+    <trd>poddaný</trd>
+  </trdgrp>
   <trd lng="de">Untertan</trd>
-  <trd lng="es">s&uacute;bdito</trd> 
+  <trd lng="es">s&uacute;bdito</trd>
   <trd lng="fr">sujet<klr> (pol., d'un &eacute;tat)</klr></trd>
   <trd lng="hu">alattval&oacute;</trd>
   <trd lng="nl">onderdaan</trd>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_d;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>ovládaný</trd>,
+    <trd>poddaný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="reg.0ilo">
@@ -261,7 +284,15 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>ovladač</trd>,
+    <trd>regulátor</trd>
+  </trdgrp>
   <trd lng="fr">commande<klr tip="amb"> (de machine)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>ovládač</trd>,
+    <trd>regulátor</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="reg.0istaro">
@@ -278,8 +309,12 @@
     <ref tip="vid" cel="kabine.0o.ministraro">kabineto</ref>
   </snc>
   <trd lng="be">&c_u;&c_r;&c_a;&c_d;</trd>
+  <trdgrp lng="cs">
+    <trd>sbor ministrů</trd>,
+    <trd>vláda</trd>
+  </trdgrp>
   <trd lng="de">Regierung</trd>
-  <trd lng="es">gobierno <klr>(grupo de personas)</klr></trd> 
+  <trd lng="es">gobierno <klr>(grupo de personas)</klr></trd>
   <trdgrp lng="fr">
     <trd>gouvernement</trd>,
     <trd>cabinet<klr tip="ind"> (ensemble des ministres,
@@ -288,6 +323,10 @@
   <trd lng="hu">korm&aacute;ny</trd>
   <trd lng="nl">regering</trd>
   <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>vláda</trd>,
+    <trd>zbor ministrov</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="reg.mem0ado">
@@ -393,9 +432,13 @@
     <trd>&c_p;&c_je;&c_r;&c_a;&c_v;&c_a;&c_zh;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_v;&c_ja;&c_r;&c_sh;&c_e;&c_n;&c_s;&c_t;&c_v;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>převládat</trd>,
+    <trd>uplatňovat nadvládu</trd>
+  </trdgrp>
   <trd lng="de">vorherrschen</trd>
   <trd lng="en">overrule</trd>
-  <trd lng="es">predominar</trd> 
+  <trd lng="es">predominar</trd>
   <trdgrp lng="fr">
     <trd>dominer</trd>,
     <trd>maitriser</trd>
@@ -410,10 +453,17 @@
     <trd>&c_g;&c_o;&c_s;&c_p;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_g;&c_l;&c_a;&c_v;&c_je;&c_n;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">ovládať</trd>
 </drv>
 </art>
 <!--
 $Log: reg.xml,v $
+Revision 1.26  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2012/06/04 00:10:10  revo
 Jeromo Vasxe: kor. 1 ref
 

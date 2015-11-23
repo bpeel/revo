@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: baz.xml,v 1.48 2012/10/23 00:10:56 revo Exp $">
+<art mrk="$Id: baz.xml,v 1.55 2015/07/04 08:37:31 revo Exp $">
 <kap>
    <ofc>1</ofc>
-   <rad>baz</rad>/o
+   <rad>baz</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="baz.0o">
    <kap><tld/>o</kap>
@@ -101,16 +101,19 @@
          <klr>(de pozicia <ref
          cel="nombr.0osistemo">nombrosistemo</ref>)</klr>
          Nombro de eblaj valoroj por &ccirc;iu
-         <ref cel="cifer.0o">cifero</ref>, uzata en prezentado de nombro:
+         <ref cel="cifer.0o">cifero</ref>, uzata en prezentado de
+         nombro:
          <ekz>
            la <tld/>o de nia kutima nombrosistemo estas <frm>10</frm>
-           <klr>(la ciferoj alprenas unu el la dek valoroj de <frm>0</frm>
+           <klr>(la ciferoj alprenas unu el la dek valoroj de
+           <frm>0</frm>
            &gcirc;is <frm>9</frm>)</klr>;
          </ekz>
          <ekz>
            la komputikistoj uzas la nombrosistemojn kun la <tld/>oj
            <frm>2</frm>,
-           <frm>8</frm>, <frm>16</frm> <klr>(duuman, okuman kaj deksesuman
+           <frm>8</frm>, <frm>16</frm> <klr>(duuman, okuman kaj
+           deksesuman
            nombrosistemojn)</klr>.
          </ekz>
        </dif>
@@ -162,7 +165,8 @@ tip="ind">
      <subsnc mrk="baz.0o.figuro">
        <fnt><bib>MatTerm</bib><lok>p. 7, p.p. triangulo</lok></fnt>
        <dif>
-         <klr>(de <ref cel="figur.geometria0o">geometria figuro</ref>)</klr>
+         <klr>(de <ref cel="figur.geometria0o">geometria
+         figuro</ref>)</klr>
          Konvencie elektita <ref tip="super" cel="later.0o">latero</ref>
          a&ubreve; <ref tip="super" cel="fac.0o.pluredro">faco</ref>, kiu
 limas
@@ -187,7 +191,8 @@ facoj)</klr>;
            <ref cel="alt.0o.MAT">alto</ref>.
          </ekz>
        </dif>
-       <trd lng="de">Basis<klr tip="ind"> (von einem Vieleck)</klr></trd>
+       <trd lng="de">Basis<klr tip="ind"> (von einem
+       Vieleck)</klr></trd>
        <trd lng="en">base<klr tip="ind"> (of a polygon)</klr></trd>
        <trd lng="fr">base<klr tip="ind"> (d'un polygone)</klr></trd>
        <trd lng="hu">alap<klr tip="ind"> (soksz&ouml;g&eacute;)</klr></trd>
@@ -232,7 +237,8 @@ tip="ind">
        </dif>
        <rim>
          Kelkaj a&ubreve;toroj preferas difini <tld/>on kiel <ref
-         cel="famili.0o.bildigo">familion</ref>. Tio fontas el la fakto, ke
+         cel="famili.0o.bildigo">familion</ref>. Tio fontas el la fakto,
+         ke
          por
          kelkaj aplikoj estas oportune uzi indican skriba&jcirc;on de la
 tipo
@@ -260,8 +266,8 @@ tipo
          Tia subaro de <frm><g>T</g></frm>, ke &ccirc;iu elemento de
          <frm><g>T</g></frm> estas kuna&jcirc;o de elementoj el la <tld/>o:
          <ekz>
-           en <ref cel="spac.metrika0o">metrika spaco</ref>, la aro de
-&ccirc;iuj
+           en <ref cel="spac.metrika0o">metrika spaco</ref>, la aro da
+           &ccirc;iuj malfermitaj
            <ref cel="glob.0o.metrikaspaco">globoj</ref> estas <tld/>o.
          </ekz>
        </dif>
@@ -276,10 +282,68 @@ tipo
        </adm>
      </subsnc>
    </snc>
-   <trd lng="en">base</trd>
-   <trd lng="es">base</trd>
-   <trd lng="fr">base</trd>
-   <trd lng="sk">z&aacute;klad</trd>
+  <trdgrp lng="cs">
+    <trd>báze</trd>,
+    <trd>opěrný bod</trd>,
+    <trd>panel</trd>,
+    <trd>základna</trd>
+  </trdgrp>
+  <trd lng="en">base</trd>
+  <trd lng="es">base</trd>
+  <trd lng="fr">base</trd>
+  <trdgrp lng="sk">
+    <trd>podklad</trd>,
+    <trd>z&aacute;klad</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="baz.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="baz.0a.SNC">
+    <dif>
+      Rilata al bazo:
+      <ekz>
+        la baza tavolo de epidermo
+        <fnt>
+          <aut>Vikipedio</aut>,
+          <vrk><url
+          ref="http://eo.wikipedia.org/wiki/Efelido">Efelido</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trd lng="fr">basal</trd>
+  </snc>
+  <snc mrk="baz.0a.KOMUNE">
+    <dif>
+      Kiu konsistigas <tld/>on, unuan &scirc;tupon,
+      kiu estas <ref tip="vid" cel="elemen.0a">elementa</ref>:
+      <ekz>
+        la bazaj principoj de la lingvo
+        <fnt>
+          <aut>Ivo Lapenna</aut>,
+          <vrk><url
+          ref="http://www.angelfire.com/ny2/ts/lapenna.html">Por pli
+          efika informado</url></vrk>,
+          <bib></bib>,
+          <lok></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trd lng="fr">basique</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>bazální</trd>,
+    <trd>bázový</trd>,
+    <trd>elementární</trd>,
+    <trd>klíčový</trd>,
+    <trd>kmenový</trd>,
+    <trd>základní</trd>
+  </trdgrp>
+  <trd lng="fr">de <ind>base</ind></trd>
+  <trdgrp lng="sk">
+    <trd>kľúčový</trd>,
+    <trd>základný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="baz.0i">
@@ -306,25 +370,34 @@ tipo
        </ekz>
      </dif>
    </snc>
-   <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>nechat založit</trd>,
+    <trd>podložit</trd>,
+    <trd>podstavit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
      <trd><ind>gr&uuml;nden</ind> (auf)</trd>,
      <trd><ind>basieren</ind> (auf)</trd>
    </trdgrp>
-   <trd lng="en">base</trd>
-   <trd lng="fr">baser</trd>
-   <trd lng="hu">alapoz</trd>
-   <trdgrp lng="pl">
+  <trd lng="en">base</trd>
+  <trd lng="fr">baser</trd>
+  <trd lng="hu">alapoz</trd>
+  <trdgrp lng="pl">
      <trd>bazowa&cacute;<klr> (na czym&sacute;)</klr></trd>,
      <trd>opiera&cacute;<klr> (co&sacute; na czym&sacute;)</klr></trd>,
      <trd>bra&cacute;<klr> (za podstaw&eogonek;)</klr></trd>
    </trdgrp>
-   <trdgrp
+  <trdgrp
      lng="ru">
      <trd>&c_o;&c_s;&c_n;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
      <trd>&c_o;&c_s;&c_n;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
      <trd>&c_b;&c_a;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
    </trdgrp>
-   <trd lng="sk">zalo&zcaron;i&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>nechať založiť</trd>,
+    <trd>postaviť</trd>,
+    <trd>zalo&zcaron;i&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="baz.0igxi">
@@ -367,7 +440,8 @@ czym&sacute;)</klr></trd>
    <kap>sen<tld/>a</kap>
    <snc>
      <dif>
-       Al kiu mankas <tld/>o:
+       Al kiu mankas <tld/>o,
+       fundamento, pravigo:
        <ekz>
          sen<tld/>aj teorioj, pretendoj.
        </ekz>
@@ -378,43 +452,60 @@ czym&sacute;)</klr></trd>
        <ref cel="serioz">neserioza</ref>
      </refgrp>
    </snc>
-   <trd lng="en">baseless</trd>
-   <trdgrp lng="fr">
+  <trdgrp lng="cs">
+    <trd>bez podkladu <klr>(být)</klr></trd>,
+    <trd>bezdůvodný</trd>,
+    <trd>neopodstatněný</trd>,
+    <trd>planý</trd>
+  </trdgrp>
+  <trd lng="en">baseless</trd>
+  <trdgrp lng="fr">
      <trd>en l'<ind>air</ind></trd>,
      <trd>infond&eacute;</trd>,
      <trd>injustifi&eacute;</trd>,
      <trd>immotiv&eacute;</trd>
    </trdgrp>
-   <trd lng="pl">bezpodstawny</trd>
-   <trd lng="hu">alaptalan</trd>
-   <trd lng="ru">
+  <trd lng="hu">alaptalan</trd>
+  <trd lng="pl">bezpodstawny</trd>
+  <trd lng="ru">
    &c_b;&c_je;&c_z;&c_o;&c_s;&c_n;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;
    &c_n;&c_y;&c_j;</trd>
-   <trd lng="sk">nepodlo&zcaron;en&yacute;</trd>
+  <trdgrp lng="sk">
+    <trd>neopodstatnený</trd>,
+    <trd>nepodlo&zcaron;en&yacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="baz.sur0ede">
-   <kap>sur<tld/>e de</kap>
+   <kap>sur<tld/>e de,
+   <var><kap><tld/>e de</kap></var></kap>
    <gra><vspec>prepozicia&jcirc;o</vspec></gra>
-   <snc>
+   <snc mrk="baz.sur0ede.KOMUNE">
      <dif>
-       <ref tip="super" cel="laux.0.referencajxo">La&ubreve;</ref>, uzante
-kiel <tld/>on,
-       kiel modelon:
+       <ref tip="super" cel="laux.0.referencajxo">La&ubreve;<sncref/></ref>,
+       uzante kiel <tld/>on, kiel modelon:
        <ekz>
          sur<tld/>e de tiu &ccirc;i dokumento, oni povus <klr>...</klr>
-elverki
-         specifajn planojn
+         elverki  specifajn planojn
          <fnt><vrk>Strategia Plano de Universala Esperanto-Asocio</vrk>,
-         <bib>Esperanto</bib>, <lok>jaro 1988a, numero 10a (994a), p.
-         168a</lok></fnt>.
+         <bib>Esperanto</bib>, <lok>1988:10 (994), p.
+         168a</lok></fnt>;
+       </ekz>
+      <ekz>
+        <tld/>e de &ccirc;i tiuj konsideroj <klr>...</klr>
+        <fnt>
+          <bib>OriginoDeSpecioj</bib>,
+          <lok>Enkonduko</lok>
+        </fnt>.
        </ekz>
      </dif>
    </snc>
-   <trdgrp lng="fr">
+  <trd lng="cs">na základě <klr>(čeho)</klr></trd>
+  <trdgrp lng="fr">
      <trd>&agrave; partir de<klr> (en prenant pour base)</klr></trd>,
      <trd>sur la base de</trd>
    </trdgrp>
+  <trd lng="sk">na základe</trd>
 </drv>
 
 <drv mrk="baz.duala0o">
@@ -458,7 +549,8 @@ elverki
      <dif>
        <klr>(de <ref cel="spac.vektora0o">vektora spaco</ref>
        <frm><g>K</g><sup><k>n</k></sup></frm>)</klr>
-       <ref tip="super" cel="baz.0o.vektoraspaco">Bazo</ref> konsistanta el
+       <ref tip="super" cel="baz.0o.vektoraspaco">Bazo</ref> konsistanta
+       el
        la opoj, kies &ccirc;iuj <ref cel="term.0o.opo">termoj</ref> egalas
 al
        la nulo de <frm><g>K</g></frm>, krom unu, kiu egalas al &gcirc;ia
@@ -485,6 +577,27 @@ unuo:
 </art>
 <!--
 $Log: baz.xml,v $
+Revision 1.55  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.54  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.53  2015/02/10 14:10:15  revo
+Sergio Pokrovskij: malfermitaj globoj
+
+Revision 1.52  2015/02/01 18:10:15  revo
+Alain Gerard: tajperaro
+
+Revision 1.51  2015/02/01 15:10:15  revo
+Alain Gerard: +fnt
+
+Revision 1.50  2015/02/01 14:10:16  revo
+Alain Gerard: +snc (~a) +fnt
+
+Revision 1.49  2014/12/30 21:10:13  revo
+Jeromo Vasxe: + ~e de + ~a
+
 Revision 1.48  2012/10/23 00:10:56  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -492,20 +605,5 @@ Revision 1.47  2006/08/30 15:11:34  revo
 Sebastian Cyprych: +trd pl +principo ref sin
 
 Revision 1.46  2004/06/21 17:35:36  revo
-Marc Bavant: sur~e de: kor ref cel al "laux"
-
-Revision 1.45  2004/02/22 17:31:14  revo
-Marc Bavant: sur~e de: mod mrk
-
-Revision 1.44  2003/09/28 16:30:30  revo
-Jeromo Vasxe: + sur~e de
-
-Revision 1.43 2003/04/12 16:32:10 revo
-Marc Bavant: duala ~o: mod trd ru
-
-Revision 1.42 2003/04/07 16:34:10 revo
-Marc Bavant: kanona ~o: kor trd en
-
-Revision 1.41 2003/03/09 17:33:49 revo
 -->
 </vortaro>

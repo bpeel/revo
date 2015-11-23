@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: talant.xml,v 1.10 2014/01/01 21:10:17 revo Exp $">
+  <art mrk="$Id: talant.xml,v 1.12 2015/07/04 08:37:44 revo Exp $">
     <kap>
       <rad>talant</rad>/o
     </kap>
@@ -51,26 +51,39 @@
         </dif>
         <trd lng="pl">talent</trd>
     </snc>
-    <trd lng="be">&c_t;&c_a;&c_l;&c_a;&c_n;&c_t;</trd>
-    <trd lng="bg">&c_t;&c_a;&c_l;&c_a;&c_n;&c_t;</trd>
-    <trd lng="ca">talent</trd>
-    <trd lng="de">Talent</trd>
-    <trd lng="en">talent</trd>
-    <trd lng="es">talento</trd>
-    <trd lng="fr">talant</trd>
-    <trd lng="en">talent</trd>
-    <trd lng="hu">talentum</trd>
-    <trd lng="nl">talent</trd>
-    <trdgrp lng="pt">
+  <trd lng="be">&c_t;&c_a;&c_l;&c_a;&c_n;&c_t;</trd>
+  <trd lng="bg">&c_t;&c_a;&c_l;&c_a;&c_n;&c_t;</trd>
+  <trd lng="ca">talent</trd>
+  <trdgrp lng="cs">
+    <trd>hřivna aténská</trd>,
+    <trd>talent</trd>
+  </trdgrp>
+  <trd lng="de">Talent</trd>
+  <trd lng="en">talent</trd><trd lng="en">talent</trd>
+  <trd lng="es">talento</trd>
+  <trd lng="fr">talant</trd>
+  <trd lng="hu">talentum</trd>
+  <trd lng="nl">talent</trd>
+  <trdgrp lng="pt">
         <trd>talento</trd>
     </trdgrp>
-    <trd lng="ru">&c_t;&c_a;&c_l;&c_a;&c_n;&c_t;</trd>
+  <trd lng="ru">&c_t;&c_a;&c_l;&c_a;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>aténska hrivna</trd>,
+    <trd>talent</trd>
+  </trdgrp>
 </drv>
 
 </art>
 
 <!--
 $Log: talant.xml,v $
+Revision 1.12  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2014/01/01 21:10:17  revo
 Joop Eggen: +trd bg nl
 

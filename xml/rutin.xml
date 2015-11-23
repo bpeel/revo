@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rutin.xml,v 1.16 2013/12/30 10:10:13 revo Exp $">
+<art mrk="$Id: rutin.xml,v 1.18 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>rutin</rad>/o <fnt><bib>PV</bib></fnt>
@@ -100,15 +100,36 @@
       <trd>&c_r;&c_u;&c_t;&c_i;&c_n;&c_a;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>cvik</trd>,
+    <trd>dovednost</trd>,
+    <trd>rutina</trd>,
+    <trd>zběhlost</trd>,
+    <trd>zručnost</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>routine</trd>,
     <trd>habit</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>návyk</trd>,
+    <trd>obratnosť</trd>,
+    <trd>rutina</trd>,
+    <trd>vycvičenosť</trd>,
+    <trd>zručnosť</trd>,
+    <trd>šikovnosť</trd>
   </trdgrp>
 </drv>
 
 </art>
 <!--
 $Log: rutin.xml,v $
+Revision 1.18  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/12/30 10:10:13  revo
 Sergio Pokrovskij: +ekz
 

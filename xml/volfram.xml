@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: volfram.xml,v 1.19 2014/06/06 04:10:45 revo Exp $">
+<art mrk="$Id: volfram.xml,v 1.21 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <rad>volfram</rad>/o
 </kap>
@@ -34,6 +34,7 @@
       <trd>tungst&egrave;</trd>,
       <trd>w&oacute;lfram</trd>
   </trdgrp>
+  <trd lng="cs">wolfram</trd>
   <trd lng="de">Wolfram</trd>
   <trd lng="el">&tau;&omikron;&ypsilon;&gamma;&gamma;&omikron_ton;&sigma;&tau;&eta;&ny;&omikron;</trd>
   <trdgrp lng="en">
@@ -58,11 +59,21 @@
   <trd lng="pl">wolfram</trd>
   <trd lng="pt">tungst&ecirc;nio</trd>
   <trd lng="ru">&c_v;&c_o;&c_l;&c_mol;&c_f;&c_r;&c_a;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>W</trd>,
+    <trd>volfrám</trd>
+  </trdgrp>
   <trd lng="sv">volfram</trd>
 </drv>
 </art>
 <!--
 $Log: volfram.xml,v $
+Revision 1.21  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/06/06 04:10:45  revo
 Eko Nur Syah Hidayat: +id
 

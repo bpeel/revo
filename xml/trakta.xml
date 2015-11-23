@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trakta.xml,v 1.22 2013/09/14 16:10:21 revo Exp $">
+<art mrk="$Id: trakta.xml,v 1.24 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>traktat</rad>/o <fnt><bib>PV</bib></fnt>
@@ -91,7 +91,17 @@
     </trdgrp>
   </snc>
   <trd lng="ca">tractat</trd>
-  <ref tip="hom" cel="trakt.0i">trakt/at/o</ref>
+  <trdgrp lng="cs">
+    <trd>mezinárodní smlouva</trd>,
+    <trd>traktát</trd>,
+    <trd>učené pojednání</trd>,
+    <trd>vědecká rozprava</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>medzinárodná zmluva</trd>,
+    <trd>traktát</trd>,
+    <trd>vedecká rozprava</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="trakta.0o.NATO">
@@ -190,6 +200,12 @@
 </art>
 <!--
 $Log: trakta.xml,v $
+Revision 1.24  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2013/09/14 16:10:21  revo
 Wolfram Diestel: NATO: ref al lst organizajhoj
 

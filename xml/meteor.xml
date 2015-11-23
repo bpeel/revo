@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: meteor.xml,v 1.22 2014/06/01 15:10:23 revo Exp $">
+<art mrk="$Id: meteor.xml,v 1.24 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>meteor</rad>/o
@@ -130,6 +130,11 @@ Esperanto.
   <trd lng="id">meteor</trd>
   <trd lng="no">meteor</trd>
   <trd lng="pt">meteoro</trd>
+  <trd lng="sk">meteor</trd>
+  <trdgrp lng="cs">
+    <trd>meteor</trd>,
+    <trd>vzdušný jev</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="meteor.0sxtono">
@@ -173,6 +178,12 @@ Esperanto.
 </art>
 <!--
 $Log: meteor.xml,v $
+Revision 1.24  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/06/01 15:10:23  revo
 Eko Nur Syah Hidayat: +id
 

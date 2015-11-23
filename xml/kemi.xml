@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kemi.xml,v 1.15 2010/10/18 16:30:25 revo Exp $">
+<art mrk="$Id: kemi.xml,v 1.16 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>kemi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -35,6 +35,10 @@
   <trd lng="sk">ch&eacute;mia</trd>
   <trd lng="sv">kemi</trd>
   <trd lng="vo">kiem</trd>
+  <trdgrp lng="cs">
+    <trd>chemie</trd>,
+    <trd>lučba</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kemi.elektro0o">
@@ -75,6 +79,9 @@
 
 <!--
 $Log: kemi.xml,v $
+Revision 1.16  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.15  2010/10/18 16:30:25  revo
 Wieland Pusch: +trd bg
 

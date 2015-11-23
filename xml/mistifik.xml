@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mistifik.xml,v 1.9 2011/04/29 19:10:22 revo Exp $">
+<art mrk="$Id: mistifik.xml,v 1.11 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>8</ofc><rad>mistifik</rad>/i<fnt>Z</fnt>
 </kap>
@@ -19,6 +19,14 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_m;&c_ib;&c_s;&c_t;&c_y;&c_f;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>mystifikovat</trd>,
+    <trd>obloudit</trd>,
+    <trd>oklamat</trd>,
+    <trd>pobláznit</trd>,
+    <trd>podvádět</trd>,
+    <trd>zmámit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>foppen</trd>,
     <trd>narren</trd>,
@@ -40,7 +48,7 @@
     <trd>beugrat</trd>,
     <trd>k&ouml;d&ouml;s&iacute;t</trd>
     <trd>misztifik&aacute;l</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="nl">foppen</trd>
   <trdgrp lng="pt">
    <trd>mistificar</trd>,
@@ -48,6 +56,13 @@
    <trd>burlar</trd>   
   </trdgrp>
   <trd lng="ru">&c_m;&c_i;&c_s;&c_t;&c_i;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>mystifikovať</trd>,
+    <trd>oklamať</trd>,
+    <trd>poblázniť</trd>,
+    <trd>podvádzať</trd>,
+    <trd>zmámiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mistifik.0a">
@@ -66,6 +81,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>klamný</trd>,
+    <trd>nepochopitelný</trd>
+  </trdgrp>
   <trd lng="en">tricky</trd>
   <trdgrp lng="fr">
     <trd>blagueur<klr> (adj.)</klr></trd>,
@@ -74,6 +93,10 @@
   <trdgrp lng="ru">
     <trd>&c_o;&c_b;&c_m;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_o;&c_b;&c_m;&c_a;&c_n;&c_ch;&c_i;&c_v;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>klamný</trd>,
+    <trd>nepochopiteľný</trd>
   </trdgrp>
 </drv>
 
@@ -94,6 +117,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_ib;&c_s;&c_t;&c_y;&c_f;&c_ib;&c_k;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>klamání</trd>,
+    <trd>mystifikace</trd>,
+    <trd>podvádění</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>hoax</trd>,
     <trd>trick</trd>
@@ -104,11 +132,21 @@
     <trd>mystification</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_i;&c_s;&c_t;&c_i;&c_f;&c_i;&c_k;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>klamanie</trd>,
+    <trd>podvádzanie</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: mistifik.xml,v $
+Revision 1.11  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2011/04/29 19:10:22  revo
 Russ Williams: +ofc 8
 

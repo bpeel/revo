@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: konver3.xml,v 1.16 2009/06/27 16:31:13 revo Exp $">
+<art mrk="$Id: konver3.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konvert</rad>/i <fnt><bib>PV</bib></fnt>
@@ -95,7 +95,21 @@
     <trd lng="pt">converter</trd>
     <trd lng="ru">&c_p;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>konvertovat</trd>,
+    <trd>obrátit</trd>,
+    <trd>provést konverzi</trd>,
+    <trd>přestoupit</trd>,
+    <trd>převádět</trd>
+  </trdgrp>
+  <trd lng="es">convertir</trd>
   <trd lng="fr">convertir</trd>
+  <trdgrp lng="sk">
+    <trd>konvertovať</trd>,
+    <trd>navrátiť niekoho</trd>,
+    <trd>prehovoriť</trd>,
+    <trd>prestúpiť do inej cirkvi</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konver3.0igxi">
@@ -111,6 +125,7 @@
     </dif>
   </snc>
   <trd lng="en">convert</trd>
+  <trd lng="es">convertirse</trd>
   <trd lng="fr">se <ind>convertir</ind></trd>
 </drv>
 
@@ -132,11 +147,21 @@
     </dif>
   </snc>
   <trd lng="en">conversion</trd>
+  <trd lng="es">conversi&oacute;n</trd>
   <trd lng="fr">conversion</trd>
 </drv>
 </art>
 <!--
 $Log: konver3.xml,v $
+Revision 1.19  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2015/04/20 18:10:16  revo
+Carlos Garcia: +trd es -i -igxi -igxo
+
 Revision 1.16  2009/06/27 16:31:13  revo
 Russ Williams: +trd en
 
@@ -156,8 +181,5 @@ Revision 1.11 2002/08/02 10:13:17 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.10 2002/03/10 17:31:15 revo
-Ulrich Fellmann: + 4 germ trdj
-
-Revision 1.9 2001/11/11 19:17:20 revo
 -->
 </vortaro>

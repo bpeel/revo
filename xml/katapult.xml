@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: katapult.xml,v 1.17 2013/09/17 01:10:20 revo Exp $">
+<art mrk="$Id: katapult.xml,v 1.19 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>katapult</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -107,6 +107,7 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_t;&c_a;&c_p;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">catapultar</trd>
+  <trd lng="cs">katapultovat</trd>
   <trdgrp lng="de">
       <trd>katapultieren</trd>,
       <trd>abschie&szlig;en</trd>,
@@ -123,11 +124,18 @@
     <trd>strzela&cacute; z <ind>procy</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_a;&c_t;&c_a;&c_p;&c_u;&c_l;&c_mol;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">katapultovať</trd>
 </drv>
 </art>
 
 <!--
 $Log: katapult.xml,v $
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/09/17 01:10:20  revo
 Vito Redsky: +trd pl
 

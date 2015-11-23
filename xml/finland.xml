@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: finland.xml,v 1.8 2014/06/09 16:10:54 revo Exp $">
+<art mrk="$Id: finland.xml,v 1.10 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <rad>Finland</rad>/o
 </kap>
@@ -22,6 +22,7 @@
       </ekz>
   </snc>
   <trd lng="bg">&c_F;&c_i;&c_n;&c_l;&c_a;&c_n;&c_d;&c_i;&c_ja;</trd>
+  <trd lng="cs">Finsko</trd>
   <trdgrp lng="de">
     <trd>Finnland</trd>
   </trdgrp>
@@ -31,6 +32,7 @@
   </trdgrp>
   <trd lng="pl">Finlandia</trd>
   <trd lng="pt">Finl&acirc;ndia</trd>
+  <trd lng="sk">Fínsko</trd>
 </drv>
 
 <drv mrk="finland.f0ano">
@@ -61,6 +63,12 @@
 
 <!--
 $Log: finland.xml,v $
+Revision 1.10  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2014/06/09 16:10:54  revo
 Damien Brucker: +trd fr
 

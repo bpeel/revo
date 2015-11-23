@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kredit.xml,v 1.23 2013/12/02 16:10:23 revo Exp $">
+<art mrk="$Id: kredit.xml,v 1.25 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kredit</rad>/o <fnt><bib>PV</bib></fnt>
@@ -74,14 +74,19 @@
     <trd lng="nl">credit</trd>
   </snc>
   <trd lng="be">&c_k;&c_r;&c_e;&c_d;&c_y;&c_t;</trd>
+  <trd lng="cs">důvěra věřitele || úvěr</trd>
   <trdgrp lng="de">
     <trd>Soll</trd>,
     <trd>Sollseite</trd>
   </trdgrp>
   <trd lng="en">credit</trd>
   <trd lng="fr">cr&eacute;dit</trd>
-  <trd lng="ru">&c_k;&c_r;&c_je;&c_d;&c_i;&c_t;</trd>
   <trd lng="pt">cr&eacute;dito</trd>
+  <trd lng="ru">&c_k;&c_r;&c_je;&c_d;&c_i;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>dôvera veriteľa</trd>,
+    <trd>úver</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kredit.0letero">
@@ -91,6 +96,10 @@
     <ref tip="dif" cel="akredi1.0o">akreditivo</ref>
   </snc>
   <trd lng="be">&c_a;&c_k;&c_r;&c_e;&c_d;&c_y;&c_t;&c_y;&c_w;</trd>
+  <trdgrp lng="cs">
+    <trd>kreditní doklad</trd>,
+    <trd>úvěrní akreditiv</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Akkreditiv</trd>
   </trdgrp>
@@ -100,6 +109,10 @@
     <trd>lettre de cr&eacute;dit</trd>
   </trdgrp>
   <trd lng="nl">accreditief</trd>
+  <trdgrp lng="sk">
+    <trd>akreditív</trd>,
+    <trd>úverový list</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kredit.0i">
@@ -136,6 +149,12 @@
     <trd lng="nl">crediteren</trd>
   </snc>
   <trd lng="be">&c_k;&c_r;&c_e;&c_d;&c_y;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>být věřitelem</trd>,
+    <trd>poskytnout úvěr</trd>,
+    <trd>připsat k dobru</trd>,
+    <trd>úvěrovat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd><klr>einen </klr>Kredit <ind>geben</ind></trd>,
     <trd>leihen</trd>
@@ -143,6 +162,7 @@
   <trd lng="fr">cr&eacute;diter</trd>
   <trd lng="pt">creditar</trd>
   <trd lng="ru">&c_k;&c_r;&c_je;&c_d;&c_i;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">úverovať</trd>
 </drv>
 
 <drv mrk="kredit.0e">
@@ -158,6 +178,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_u; &c_k;&c_r;&c_e;&c_d;&c_y;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>na dluh <klr>(adv.)</klr></trd>,
+    <trd>na úvěr</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd><klr>auf </klr>Pump</trd>,
     <trd><klr>auf </klr>Kredit</trd>
@@ -166,6 +190,7 @@
   <trd lng="fr">&agrave; cr&eacute;dit</trd>
   <trd lng="nl">op <ind>krediet</ind></trd>
   <trd lng="ru">&c_v; &c_k;&c_r;&c_je;&c_d;&c_i;&c_t;</trd>
+  <trd lng="sk">na úver</trd>
 </drv>
 
 <drv mrk="kredit.0igi">
@@ -191,11 +216,13 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_k;&c_r;&c_e;&c_d;&c_y;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">poskytnout úvěr</trd>
   <trd lng="en">accredit</trd>
   <trd lng="fr">accr&eacute;diter</trd>
   <trd lng="nl"><ind>krediet</ind> geven</trd>
   <trd lng="pt">afian&ccedil;ar</trd>
   <trd lng="ru">&c_a;&c_k;&c_k;&c_r;&c_je;&c_d;&c_i;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">poskytnúť úver</trd>
 </drv>
 
 <drv mrk="kredit.sen0igi">
@@ -237,6 +264,7 @@
     <trd lng="nl">in <ind>waarde</ind> doen dalen</trd>
     <trd lng="ru">&c_l;&c_i;&c_sh;&c_i;&c_t;&c_mol; &c_k;&c_r;&c_je;&c_d;&c_i;&c_t;&c_a;</trd>
   </snc>
+  <trd lng="cs">diskreditovat</trd>
   <trdgrp lng="de">
     <trd>in <ind>Misskredit</ind> bringen</trd>,
     <trd>diskreditieren</trd>
@@ -244,6 +272,10 @@
   <trd lng="en">discredit</trd>
   <trd lng="fr">discr&eacute;diter</trd>
   <trd lng="pt">desacreditar</trd>
+  <trdgrp lng="sk">
+    <trd>diskreditovať</trd>,
+    <trd>zrušiť niekomu úver</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kredit.0social">
@@ -276,6 +308,12 @@
 </art>
 <!--
 $Log: kredit.xml,v $
+Revision 1.25  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2013/12/02 16:10:23  revo
 Damien Brucker: +rim
 

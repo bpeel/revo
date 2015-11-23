@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rabarb.xml,v 1.17 2014/01/15 20:10:15 revo Exp $">
+<art mrk="$Id: rabarb.xml,v 1.19 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>rabarb</rad>/o
@@ -25,6 +25,10 @@
   </snc>
   <trd lng="be">&c_r;&c_a;&c_b;&c_a;&c_r;&c_b;&c_a;&c_r;</trd>
   <trd lng="bg">&c_r;&c_je;&c_v;&c_je;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>rebarbora</trd>,
+    <trd>reveň</trd>
+  </trdgrp>
   <trd lng="de">Rhabarber</trd>
   <trd lng="en">rhubarb</trd>
   <trd lng="fr">rhubarbe</trd>
@@ -35,11 +39,18 @@
    <trd>ruibarbo</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_je;&c_v;&c_je;&c_n;&c_mol;</trd>
+  <trd lng="sk">rebarbora</trd>
   <trd lng="sv">rabarber</trd>
 </drv>
 </art>
 <!--
 $Log: rabarb.xml,v $
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2014/01/15 20:10:15  revo
 Joop Eggen: +trd bg
 

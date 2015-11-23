@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lak.xml,v 1.23 2013/02/19 15:10:15 revo Exp $">
+<art mrk="$Id: lak.xml,v 1.25 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lak</rad>/o
@@ -49,6 +49,14 @@
     <trd>(goma-)laca</trd>
   </trdgrp>
   <trd lng="ru">&c_l;&c_a;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>lak</trd>,
+    <trd>šelak</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lak</trd>,
+    <trd>lakové barvivo</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lak.0i">
@@ -68,6 +76,12 @@
   &c_l;&c_a;&c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="br">lakenna&ntilde;</trd>
   <trd lng="ca">lacar</trd>
+  <trdgrp lng="cs">
+    <trd>lakovat</trd>,
+    <trd>lakýrovat</trd>,
+    <trd>natírat</trd>,
+    <trd>natírat lakem</trd>
+  </trdgrp>
   <trd lng="de">lackieren</trd>
   <trd lng="en">lacquer</trd>
   <trd lng="es">lacar</trd>
@@ -80,6 +94,10 @@
   <trd lng="pl">lakierowa&cacute;</trd>
   <trd lng="ru">
   &c_l;&c_a;&c_k;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>lakovať</trd>,
+    <trd>prikrášľovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lak.ungo0o">
@@ -130,11 +148,19 @@
   <trd lng="nl">nagellak</trd>
   <trd lng="it">lacca per unghie</trd>
   <trd lng="pl">lakier do paznokci</trd>
+  <trd lng="sk">lak na nechty</trd>
+  <trd lng="cs">lak na nehty</trd>
 </drv>
 
 </art>
 <!--
 $Log: lak.xml,v $
+Revision 1.25  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2013/02/19 15:10:15  revo
 Dmitri Gabinski: redakto: +trd be
 

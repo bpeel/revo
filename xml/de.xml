@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: de.xml,v 1.56 2014/07/29 11:10:11 revo Exp $">
+<art mrk="$Id: de.xml,v 1.63 2015/09/06 14:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>de</rad> <fnt><bib>PV</bib></fnt>
@@ -262,6 +262,8 @@
           <ind><tld/> malgranda kandelo forbrulis granda
           kastelo</ind>
           <fnt><bib>PrV</bib></fnt>;
+          <trd lng="es">peque&ntilde;a <ind>causa</ind> y grandes
+          efectos</trd>
           <trd lng="fr">petite <ind>cause</ind> et grands
           effets</trd>
           <trd lng="hu">kicsiny szikr&aacute;b&oacute;l gyakran nagy t&udblac;z
@@ -572,7 +574,8 @@
         havanton de la determinato:
         <ekz>
         glaso <tld/> vino estas glaso, en kiu anta&ubreve;e sin trovis vino, a&ubreve;
-        kiun oni uzas por vino<fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>;
+        kiun oni uzas por vino<fnt><bib>F</bib>, <lok>&FE;
+        32</lok></fnt>;
         </ekz><ekz>
           la dentoj <tld/> leono <klr>(la dentoj, kiujn posedas
             leono)</klr> estas akraj
@@ -935,7 +938,13 @@
       <trd>por</trd>,
       <trd>desde</trd>
     </trdgrp>
-  </drv>
+    <trd lng="sk">od</trd>
+  <trdgrp lng="cs">
+    <trd>od</trd>,
+    <trd>z</trd>,
+    <trd>ze</trd>
+  </trdgrp>
+</drv>
 
   <drv mrk="de.dis0">
     <kap>dis<tld/></kap>
@@ -1003,12 +1012,23 @@
         <trd>z</trd>
       </trdgrp>
     </snc>
-    <trdgrp lng="fr">
+  <trdgrp lng="cs">
+    <trd>od <klr>(odd&ecaron;lov&aacute;n&iacute;)</klr></trd>,
+    <trd>z (n&ecaron;&ccaron;eho)</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+      <trd>de<klr tip="ind"> (separaci&oacute;n)</klr></trd>
+    </trdgrp>
+  <trdgrp lng="fr">
       <trd>de</trd>,
       <trd>d'avec<klr tip="ind"> (s&eacute;paration)</klr></trd>
     </trdgrp>
-    <trd lng="ru">&c_o;&c_t;</trd>
-  </drv>
+  <trd lng="ru">&c_o;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>od</trd>,
+    <trd>z</trd>
+  </trdgrp>
+</drv>
 
   <drv mrk="de.ek0">
     <kap>ek<tld/></kap>
@@ -1111,23 +1131,32 @@
       <trd>von ... ab</trd>,
       <trd>seit</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>a <ind>partir</ind> de ahora</trd>,
+      <trd>en seguida</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>&agrave; <ind>partir</ind> de</trd>,
       <trd>depuis</trd>,
       <trd>d&egrave;s</trd>,
       <trd>aussit&ocirc;t<klr tip="ind"> (pr&eacute;p.)</klr></trd>,
-      <trd>sit&ocirc;t<klr tip="ind"> (pr&eacute;p.)</klr></trd>
+      <trd>sit&ocirc;t<klr tip="ind"> (pr&eacute;p.)</klr></trd>,
+      <trd>&agrave; <ind>partir</ind> du moment</trd>,
+      <trd><ind>depuis</ind> le d&eacute;but de</trd>
     </trdgrp>
     <trdgrp lng="hu">
       <trd>-<ind>t&oacute;l kezdve</ind></trd>,
       <trd>-<ind>t&odblac;l kezdve</ind></trd>
     </trdgrp>
     <trd lng="oc">a <ind>partir</ind> de</trd>
-    
-  </drv>
+    <trd lng="sk">od za&ccaron;iatku</trd>
+  <trdgrp lng="cs">
+    <trd>hned po</trd>,
+    <trd>hned po ,, z</trd>,
+    <trd>od</trd>
+  </trdgrp>
+</drv>
 
-  
-  
   <drv mrk="de.el0">
     <kap>el<tld/></kap>
     <uzo tip="stl">RAR</uzo>
@@ -1167,6 +1196,10 @@
         </fnt>.
       </ekz>
     </snc>
+    <trdgrp lng="es">
+      <trd>de</trd>,
+      <trd>desde</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>de</trd>,
       <trd>depuis</trd>,
@@ -1192,6 +1225,9 @@
         <fnt><bib>MT</bib>, <lok>&Est; 4:11</lok></fnt>.
       </ekz>
     </snc>
+    <trdgrp lng="es">
+      <trd>desde ahora</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>de</trd>,
       <trd>depuis</trd>
@@ -1257,6 +1293,10 @@
         .
       </rim>
     </snc>
+    <trdgrp lng="es">
+      <trd>desde ahora</trd>,
+      <trd>tan pronto como</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>depuis</trd>,
       <trd>d&egrave;s</trd>,
@@ -1286,30 +1326,40 @@
         <tld lit="D"/>meti, apartigi, disigi.
       </dif>
     </snc>
-    <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>odd&ecaron;lit</trd>,
+    <trd>od&scaron;t&iacute;pnout</trd>,
+    <trd>urazit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
       <trd>abmachen</trd>,
       <trd>losmachen</trd>,
       <trd>l&ouml;sen</trd>,
       <trd>wegmachen</trd>,
       <trd>wegtun</trd>
     </trdgrp>
-    <trd lng="fr">s&eacute;parer</trd>
-    <trdgrp lng="hu">
+  <trd lng="es">separar</trd>
+  <trd lng="fr">s&eacute;parer</trd>
+  <trdgrp lng="hu">
       <trd>elt&aacute;vol&iacute;t</trd>,
       <trd>elv&aacute;laszt</trd>,
       <trd>lev&aacute;laszt</trd>,
       <trd>elk&uuml;l&ouml;n&iacute;t</trd>
     </trdgrp>
-    <trdgrp lng="pl">
+  <trdgrp lng="pl">
       <trd>rozdziela&cacute;</trd>,
       <trd>roz&lstroke;&aogonek;cza&cacute;</trd>,
       <trd>rozk&lstroke;ada&cacute;</trd>
     </trdgrp>
-    <trdgrp lng="ru">
+  <trdgrp lng="ru">
       <trd>&c_o;&c_t;&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>,
       <trd>&c_o;&c_t;&c_d;&c_je;&c_l;&c_ja;&c_t;&c_mol;</trd>
     </trdgrp>
-  </drv>
+  <trdgrp lng="sk">
+    <trd>oddeli&tcaron;</trd>,
+    <trd>zbavi&tcaron;</trd>
+  </trdgrp>
+</drv>
 
   <drv mrk="de.0igxi">
     <kap><tld/>i&gcirc;i</kap>
@@ -1324,6 +1374,7 @@
       <trd>sich <ind>l&ouml;sen</ind></trd>,
       <trd>weggehen</trd>
     </trdgrp>
+    <trd lng="es"><ind>separar</ind>se</trd>
     <trd lng="fr">se <ind>s&eacute;parer</ind></trd>
     <trdgrp lng="hu">
       <trd>elt&aacute;volodik</trd>,
@@ -1372,7 +1423,7 @@
             <ref cel="krad.de0i"><tld/>kradi</ref>,
             <ref cel="log.de0i"><tld/>logi</ref>,
             <ref cel="mord.de0i"><tld/>mordi</ref>,
-            <ref cel="pren.de0iel0ifor0i"><tld/>preni</ref>,
+            <ref cel="pren.de0i"><tld/>preni</ref>,
             <ref cel="romp.de0i"><tld/>rompi</ref>,
             <ref cel="rul.de0i"><tld/>ruli</ref>,
             <ref cel="skrap.de0i"><tld/>skrapi</ref>,
@@ -1381,7 +1432,7 @@
             <ref cel="sxov.de0i"><tld/>&scirc;ovi</ref>,
             <ref cel="tir.de0i"><tld/>tiri</ref>,
             <ref cel="tond.de0i"><tld/>tondi</ref>,
-            <ref cel="trancx.de0ifor0i"><tld/>tran&ccirc;i</ref>,
+            <ref cel="trancx.de0i"><tld/>tran&ccirc;i</ref>,
             <ref cel="turn.de0ifor0i"><tld/>turni</ref>,
             <ref cel="visx.de0i"><tld/>vi&scirc;i</ref>...
           </refgrp>
@@ -1455,8 +1506,6 @@
           <ref cel="bord.de0igxi"><tld/>bordi&gcirc;i</ref>,
           <ref cel="cxeval.de0igxi"><tld/>&ccirc;evali&gcirc;i</ref>,
           <ref cel="flank.de0igxi"><tld/>flanki&gcirc;i</ref>,
-          <ref
-          cel="form.de0ifusx0imis0i0odifekti"><tld/>formi</ref>,
           <ref cel="kamel.de0igxi"><tld/>kameli&gcirc;i</ref>,
           <ref cel="kutim.de0igxi.KOMUNE"><tld/>kutimi&gcirc;i</ref>,
           <ref cel="lok.de0ede"><tld/>loke <tld/></ref>,
@@ -1520,27 +1569,27 @@
 </art>
 <!--
 $Log: de.xml,v $
+Revision 1.63  2015/09/06 14:10:16  revo
+Damien Brucker: -eraro en ref cxe ~trancxi
+
+Revision 1.62  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.61  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.60  2015/02/21 14:10:16  revo
+Alain Gerard: +trd (fr)
+
+Revision 1.59  2015/02/03 10:10:15  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.58  2015/01/09 09:10:37  revo
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.57  2014/12/14 08:10:14  revo
+Jeromo Vasxe: kor ref
+
 Revision 1.56  2014/07/29 11:10:11  revo
-Damien Brucker: +ekz en rim
-
-Revision 1.55  2014/05/09 08:10:16  revo
-Damien Brucker: Aldono al rim
-
-Revision 1.54  2014/04/09 16:10:10  revo
-Damien Brucker: +ekz
-
-Revision 1.53  2014/02/07 21:10:25  revo
-Damien Brucker: -eraro cxe ref
-
-Revision 1.52  2013/11/16 20:10:19  revo
-Damien Brucker: ligo al eke de
-
-Revision 1.51  2013/11/04 09:10:11  revo
-Damien Brucker: Aldono de
-
-Revision 1.50  2013/07/13 13:10:18  revo
-Benito Subejrano: + trd ca oc
-
-Revision 1.49  2013/05/23 01:10:15  revo
 -->
 </vortaro>

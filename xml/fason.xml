@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fason.xml,v 1.15 2013/09/25 05:10:13 revo Exp $">
+<art mrk="$Id: fason.xml,v 1.17 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fason</rad>/o <fnt><bib>PV</bib></fnt>
@@ -99,6 +99,11 @@
       <trd>dizajn</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>fazóna</trd>,
+    <trd>střih</trd>
+  </trdgrp>
+  <trd lng="sk">fazóna</trd>
 </drv>
 
 <drv mrk="fason.0i">
@@ -170,11 +175,22 @@
     <trd lng="en">to <ind>design</ind></trd>
     <trd lng="pl">projektowa&cacute;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>fazónovat</trd>,
+    <trd>stříhat na šaty</trd>
+  </trdgrp>
+  <trd lng="sk">fazónovať</trd>
 </drv>
 </art>
 
 <!--
 $Log: fason.xml,v $
+Revision 1.17  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/09/25 05:10:13  revo
 Sebastian Cyprych: +trd pl, en
 

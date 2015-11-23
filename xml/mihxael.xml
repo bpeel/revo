@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: mihxael.xml,v 1.10 2012/08/19 20:10:44 revo Exp $">
+  <art mrk="$Id: mihxael.xml,v 1.11 2015/02/22 21:10:18 revo Exp $">
     <kap>
       <ofc>*</ofc><rad>Mi&hcirc;ael</rad>/o
     </kap>
@@ -12,7 +12,8 @@
       <snc mrk="mihxael.0o.NOM">
         <uzo tip="fak">NOM</uzo>
         <dif>
-          Vira anta&ubreve;nomo hebredevena:
+          Vira <ref tip="lst" cel="nom.antaux0o"
+      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref> hebredevena:
           <ekz>
             <ctl>Mi&ccirc;jo</ctl> estas karesformo de la nomo <tld/>o.
           </ekz>
@@ -33,6 +34,9 @@
   </art>
   <!--
   $Log: mihxael.xml,v $
+  Revision 1.11  2015/02/22 21:10:18  revo
+  Wolfram Diestel: ~o: listo persnom
+
   Revision 1.10  2012/08/19 20:10:44  revo
   Marc Rausell: + trd ca
 

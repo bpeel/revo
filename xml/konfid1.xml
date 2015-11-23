@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konfid1.xml,v 1.17 2010/07/22 16:30:26 revo Exp $">
+<art mrk="$Id: konfid1.xml,v 1.19 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>konfidenc</rad>/o <fnt><bib>PV</bib></fnt>
@@ -27,6 +27,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>důvěrnost</trd>,
+    <trd>důvěrné sdělení</trd>,
+    <trd>konfidence</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>vertrauliche <ind>Mitteilung</ind></trd>,
     <trd>Vertraulichkeit</trd>
@@ -47,6 +52,7 @@
     <trd>&c_k;&c_o;&c_n;&c_f;&c_i;&c_d;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
     &c_s;&c_o;&c_o;&c_b;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
+  <trd lng="sk">dôvernosť</trd>
 </drv>
 
 <drv mrk="konfid1.0i">
@@ -63,6 +69,7 @@
       <ref cel="sekret.0i">sekreti</ref>.
     </refgrp>
   </snc>
+  <trd lng="cs">důvěrně sdělit</trd>
   <trd lng="de">anvertrauen</trd>
   <trdgrp lng="fr">
     <trd>confier<klr tip="ind"> (un secret)</klr></trd>,
@@ -81,6 +88,7 @@
     <trd>&c_s;&c_o;&c_o;&c_b;&c_shch;&c_i;&c_t;&c_mol; &c_p;&c_o;
     &c_s;&c_je;&c_k;&c_r;&c_je;&c_t;&c_u;</trd>
   </trdgrp>
+  <trd lng="sk">dôverne oznámiť</trd>
 </drv>
 
 <drv mrk="konfid1.0ema">
@@ -110,6 +118,8 @@
     <trd>bizalomteljes</trd>
   </trdgrp>
   <trd lng="nl">mededeelzaam</trd>
+  <trd lng="sk">dôverčivý</trd>
+  <trd lng="cs">důvěřivý</trd>
 </drv>
 
 <drv mrk="konfid1.0ulo">
@@ -123,6 +133,7 @@
       <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 24a</lok></fnt>.
     </ekz>
   </snc>
+  <trd lng="cs">důvěrnice</trd>
   <trdgrp lng="fr">
     <trd>confident(e)</trd>,
     <trd>personne de <ind>confiance</ind></trd>
@@ -132,10 +143,17 @@
     <trd>bizalmi ember</trd>
   </trdgrp>
   <trd lng="nl">vertrouwenspersoon</trd>
+  <trd lng="sk">dôverníčka</trd>
 </drv>
 </art>
 <!--
 $Log: konfid1.xml,v $
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2010/07/22 16:30:26  revo
 Jeromo Vasxe: - kramp
 

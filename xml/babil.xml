@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: babil.xml,v 1.28 2013/12/08 15:10:16 revo Exp $">
+<art mrk="$Id: babil.xml,v 1.32 2015/07/25 15:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>babil</rad>/i <fnt><bib>PV</bib></fnt>
@@ -26,52 +26,13 @@
     <trd lng="fa">&f_g;&f_p; &a_z;&a_d;&a_n;</trd>
     <trd lng="it">chiaccherare</trd>
     <trd lng="nl">babbelen</trd>
+    <trd lng="no">sm&aring;prate</trd>
     <trdgrp lng="pl">
       <trd>gaw&eogonek;dzi&cacute;</trd>,
       <trd>gwarzy&cacute;</trd>,
       <trd>papla&cacute;</trd>
     </trdgrp>
     <trd lng="pt">tagarelar</trd>
-  </snc>
-  <trd lng="hu">cseveg</trd>
-  <snc mrk="babil.0i.babilacxi">
-    <ref tip="dif" cel="babil.0acxi.KOMUNE"><tld/>a&ccirc;i</ref>
-      <ekz>
-        li <tld/>as anstata&ubreve; labori;
-      </ekz>
-      <ekz>
-        kiu multe <tld/>as, pensas malmulte<fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
-        <tld/>adi teorian sensenca&jcirc;on<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        ne timu tran&ccirc;ilon, timu <tld/>on<fnt><bib>PrV</bib></fnt>.
-      </ekz>
-    <trdgrp lng="ca">
-      <trd>garlar</trd>,
-      <trd>parlotejar</trd>
-    </trdgrp>
-    <trdgrp lng="en">
-      <trd>babble</trd>
-    </trdgrp>
-    <trdgrp lng="fa">
-      <trd>&a_w;&a_r;&a_A;&a_j;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>,
-      <trd>&f_p;&a_r;&a_H;&a_r;&a_f;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>
-    </trdgrp>
-    <trdgrp lng="it">
-    <trd>cianciare</trd>, <trd>blaterare</trd>
-    </trdgrp>
-    <trd lng="nl">kletsen</trd>
-    <trdgrp lng="pl">
-      <trd>gada&cacute;</trd>,
-      <trd>gl&eogonek;dzi&cacute;</trd>,
-      <trd>nawija&cacute;<klr> (pot.)</klr></trd>,
-      <trd>klecha&cacute;<klr> (pot.)</klr></trd>,
-      <trd>marudzi&cacute;</trd>,
-      <trd>zrz&eogonek;dzi&cacute;</trd>
-    </trdgrp>
-    <trd lng="sv">babbla</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_g;&c_u;&c_t;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>,
@@ -85,24 +46,59 @@
     <trd>flapa&ntilde;</trd>,
     <trd>klakenni&ntilde;</trd>
   </trdgrp>
-  <trd lng="cs">pov&iacute;dat si</trd>
+  <trdgrp lng="ca">
+      <trd>garlar</trd>,
+      <trd>parlotejar</trd>
+    </trdgrp>
+  <trdgrp lng="cs">
+    <trd>besedovat</trd>,
+    <trd>pov&iacute;dat si</trd>,
+    <trd>tlachat</trd>,
+    <trd>&rcaron;&iacute;kat bezobsa&zcaron;n&eacute; banality</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>quatschen</trd>,
     <trd>schwatzen</trd>,
     <trd>plaudern</trd>
   </trdgrp>
   <trdgrp lng="en">
+      <trd>babble</trd>
+    </trdgrp><trdgrp lng="en">
     <trd>chat</trd>,
     <trd>chit-chat</trd>
   </trdgrp>
-  <trd lng="es">platicar</trd>
+  <trdgrp lng="es">
+    <trd>conversar</trd>,
+    <trd>platicar</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+      <trd>&a_w;&a_r;&a_A;&a_j;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>,
+      <trd>&f_p;&a_r;&a_H;&a_r;&a_f;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>
+    </trdgrp>
   <trdgrp lng="fr">
     <trd>bavarder</trd>,
     <trd>papoter</trd>
   </trdgrp>
-  <trd lng="hu">fecseg</trd>
+  <trd lng="hu">cseveg</trd><trd lng="hu">fecseg</trd>
+  <trdgrp lng="it">
+    <trd>cianciare</trd>, <trd>blaterare</trd>
+    </trdgrp>
+  <trd lng="nl">kletsen</trd>
+  <trd lng="no">bable</trd>
+  <trdgrp lng="pl">
+      <trd>gada&cacute;</trd>,
+      <trd>gl&eogonek;dzi&cacute;</trd>,
+      <trd>nawija&cacute;<klr> (pot.)</klr></trd>,
+      <trd>klecha&cacute;<klr> (pot.)</klr></trd>,
+      <trd>marudzi&cacute;</trd>,
+      <trd>zrz&eogonek;dzi&cacute;</trd>
+    </trdgrp>
   <trd lng="ru">&c_b;&c_o;&c_l;&c_t;&c_a;&c_t;&c_mol;</trd>
-  <trd lng="sv">prata</trd>
+  <trdgrp lng="sk">
+    <trd>mnoho rozpr&aacute;va&tcaron;</trd>,
+    <trd>t&aacute;ra&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">babbla</trd><trd lng="sv">prata</trd>
 </drv>
 
 <drv mrk="babil.0acxi">
@@ -129,6 +125,7 @@
       <trd>garlar</trd>,
       <trd>parlotejar</trd>
     </trdgrp>
+    <trd lng="es">cotillear</trd>
     <trdgrp lng="fa">
       <trd>&a_w;&a_r;&a_A;&a_j;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>,
       <trd>&f_p;&a_r;&a_H;&a_r;&a_f;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>
@@ -138,6 +135,7 @@
     <trd>cianciare</trd>, <trd>blaterare</trd>
     </trdgrp>
     <trd lng="nl">kletsen</trd>
+    <trd lng="no">bable</trd>
     <trdgrp lng="pl">
       <trd>gada&cacute;</trd>,
       <trd>gl&eogonek;dzi&cacute;</trd>,
@@ -179,19 +177,22 @@
       </ekz>
     </dif>
     <trd lng="ca">xat</trd>
-    <trd lng="es">foro<klr tip="amb"> (inform&aacute;tico)</klr></trd>
+    <trd lng="es">foro<klr tip="amb"> (internet)</klr></trd>
     <trd lng="fa">&f_g;&f_p;&f_g;&a_A;&a_h;</trd>
     <trd lng="fr">salon<klr> (internet)</klr></trd>
     <trdgrp lng="it">
     <trd>forum<klr> (informatico)</klr></trd>, <trd>chat-room</trd>
     </trdgrp>
     <trd lng="nl">chatstek</trd>
+    <trd lng="no">chattested</trd>
     <trdgrp lng="pl">
       <trd>czat</trd>,
       <trd>pogaw&eogonek;dka</trd>
     </trdgrp>
     <trd lng="sv">chatt</trd>
   </snc>
+  <trd lng="cs">IRC kan&aacute;l</trd>
+  <trd lng="sk">IRC kan&aacute;l</trd>
 </drv>
 
 <drv mrk="babil.0ema">
@@ -212,6 +213,11 @@
     <trd>xerraire</trd>,
     <trd>parlador<klr> (adj.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pov&iacute;dav&yacute;</trd>,
+    <trd>ukecan&yacute;</trd>
+  </trdgrp>
+  <trd lng="es">charlat&aacute;n<klr> (adj.)</klr></trd>
   <trdgrp lng="fa">
     <trd>&a_w;&a_r;&a_A;&a_j;</trd>,
     <trd>&f_p;&a_r;&a_H;&a_r;&a_f;</trd>
@@ -221,6 +227,7 @@
     <trd>ciarliero</trd>, <trd>loquace</trd>
     </trdgrp>
   <trd lng="nl">babbelziek</trd>
+  <trd lng="sk">uvraven&yacute;</trd>
   <trd lng="sv">pratglad</trd>
 </drv>
 
@@ -251,6 +258,7 @@
       <trd>zrz&eogonek;da</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">tlachal</trd>
   <trd lng="es">charlat&aacute;n</trd>
   <trdgrp lng="fa">
     <trd>&a_w;&a_r;&a_A;&a_j;</trd>,
@@ -264,6 +272,7 @@
     <trd>chiacchierone</trd>, <trd>ciarlone</trd>
     </trdgrp>
   <trd lng="nl">babbelaar</trd>
+  <trd lng="sk">t&aacute;raj</trd>
   <trd lng="sv">pratkvarn</trd>
 </drv>
 
@@ -287,6 +296,7 @@
     <trd>forum<klr> (informatico)</klr></trd>, <trd>chat-room</trd>
     </trdgrp>
     <trd lng="nl">chatstek</trd>
+    <trd lng="no">chattested</trd>
     <trdgrp lng="pl">
       <trd>czat</trd>,
       <trd>pogaw&eogonek;dka</trd>
@@ -297,6 +307,18 @@
 </art>
 <!--
 $Log: babil.xml,v $
+Revision 1.32  2015/07/25 15:10:16  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.31  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2014/12/27 09:10:12  revo
+Filip van Laenen: +trd(no)
+
 Revision 1.28  2013/12/08 15:10:16  revo
 Andreo Jankovskij: ukrajna
 
@@ -307,17 +329,5 @@ Revision 1.26  2012/08/24 19:10:16  revo
 Marc Rausell: + trd ca
 
 Revision 1.25  2011/10/15 16:10:13  revo
-Antonio Codazzi: +trd it
-
-Revision 1.24  2010/06/30 16:30:44  revo
-Agustin Garcia Lopez: +trd es (-ejo, -ulo)
-
-Revision 1.23  2009/11/08 17:31:06  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.22  2009/08/21 16:31:00  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.21  2009/05/04 16:32:30  revo
 -->
 </vortaro>

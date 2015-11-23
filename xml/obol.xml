@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: obol.xml,v 1.15 2010/07/07 16:30:28 revo Exp $">
+<art mrk="$Id: obol.xml,v 1.17 2015/07/04 08:37:40 revo Exp $">
 <kap>
    <ofc>2</ofc>
    <rad>obol</rad>/o
@@ -18,20 +18,36 @@
        Antikva greka <ref tip="super" cel="mon.0ero">monereto</ref>.
      </dif>
    </snc>
-   <trd lng="be">&c_a;&c_b;&c_o;&c_l;</trd>
-   <trd lng="de">Obolus</trd>
-   <trd lng="el">&omikron;&beta;&omikron;&lambda;&omikron_ton;&sigma_fina;</trd>
-   <trd lng="en">obolus</trd>
-   <trd lng="hu">obulus</trd>
-   <trd lng="nl">obool</trd>
-   <trd lng="fr">obole</trd>
-   <trd lng="pl">obol</trd>
-   <trd lng="pt">&oacute;bolo</trd>
-   <trd lng="ru">&c_o;&c_b;&c_o;&c_l;</trd>
+  <trd lng="be">&c_a;&c_b;&c_o;&c_l;</trd>
+  <trdgrp lng="cs">
+    <trd>obol</trd>,
+    <trd>obolos</trd>,
+    <trd>obolus</trd>,
+    <trd>starořecký peníz</trd>
+  </trdgrp>
+  <trd lng="de">Obolus</trd>
+  <trd lng="el">&omikron;&beta;&omikron;&lambda;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">obolus</trd>
+  <trd lng="fr">obole</trd>
+  <trd lng="hu">obulus</trd>
+  <trd lng="nl">obool</trd>
+  <trd lng="pl">obol</trd>
+  <trd lng="pt">&oacute;bolo</trd>
+  <trd lng="ru">&c_o;&c_b;&c_o;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>obolus</trd>,
+    <trd>starogrécky peniaz</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: obol.xml,v $
+Revision 1.17  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2010/07/07 16:30:28  revo
 Russ Williams: +trd en
 

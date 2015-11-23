@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jelp.xml,v 1.9 2010/07/14 16:30:30 revo Exp $">
+<art mrk="$Id: jelp.xml,v 1.11 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <rad>jelp</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -33,6 +33,11 @@
     <trd>&c_s;&c_k;&c_a;&c_v;&c_y;&c_t;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_v;&c_ib;&c_sh;&c_ch;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ječet</trd>,
+    <trd>kňučet</trd>,
+    <trd>skučet</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>bellen</trd>,
     <trd>kl&auml;ffen</trd>
@@ -43,6 +48,10 @@
      <trd>gru&ntilde;ir</trd>
   </trdgrp>
   <trd lng="fr">japper</trd>
+  <trdgrp lng="it">
+    <trd>uggiolare</trd>,
+    <trd>guaire</trd>
+  </trdgrp>
   <trd lng="pl">ujada&cacute;</trd>
   <trdgrp lng="pt">
     <trd>cainhar</trd>,
@@ -51,15 +60,21 @@
     <trd>chorar <klr tip="amb">(uivando)</klr></trd>,
   </trdgrp>
   <trd lng="ru">&c_v;&c_i;&c_z;&c_zh;&c_a;&c_t;&c_mol;</trd>
-  <trdgrp lng="it">
-    <trd>uggiolare</trd>,
-    <trd>guaire</trd>
+  <trdgrp lng="sk">
+    <trd>kňučať</trd>,
+    <trd>skučať</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: jelp.xml,v $
+Revision 1.11  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2010/07/14 16:30:30  revo
 Agustin Garcia Lopez: +trd es
 

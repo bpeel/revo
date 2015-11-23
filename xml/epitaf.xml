@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: epitaf.xml,v 1.14 2010/02/05 17:30:52 revo Exp $">
+<art mrk="$Id: epitaf.xml,v 1.16 2015/07/04 08:37:33 revo Exp $">
 <kap><rad>epitaf</rad>/o
 <fnt>Z</fnt></kap>
 <drv mrk="epitaf.0o">
@@ -37,10 +37,21 @@
   </trdgrp>
   <trd lng="pt">epit&aacute;fio</trd>
   <trd lng="ru">&c_e;&c_p;&c_i;&c_t;&c_a;&c_f;&c_i;&c_ja;</trd>
+  <trd lng="sk">náhrobný nápis</trd>
+  <trdgrp lng="cs">
+    <trd>epitaf</trd>,
+    <trd>náhrobní nápis</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: epitaf.xml,v $
+Revision 1.16  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2010/02/05 17:30:52  revo
 Sebastian Cyprych: +trd pl
 

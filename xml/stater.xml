@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stater.xml,v 1.5 2013/10/03 08:10:45 revo Exp $">
+<art mrk="$Id: stater.xml,v 1.7 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>stater</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -23,16 +23,24 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">stater</trd>
   <trd lng="de">Stater</trd>
   <trd lng="el">&sigma;&tau;&alfa;&tau;&eta_ton;&rho;</trd>
   <trd lng="fr">stat&egrave;re</trd>
   <trd lng="hu">sztat&eacute;r</trd>
   <trd lng="ru">&c_s;&c_t;&c_a;&c_t;&c_je;&c_r;</trd>
+  <trd lng="sk">stater</trd>
 </drv>
 </art>
 
 <!--
 $Log: stater.xml,v $
+Revision 1.7  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2013/10/03 08:10:45  revo
 Wolfram Diestel: precizigis klason al voko:kvantoj
 

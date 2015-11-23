@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krud.xml,v 1.19 2014/08/11 13:10:10 revo Exp $">
+<art mrk="$Id: krud.xml,v 1.21 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>krud</rad>/a <fnt><bib>PV</bib></fnt>
@@ -249,6 +249,12 @@
     </trdgrp>
     <trd lng="ru">&c_g;&c_r;&c_u;&c_b;&c_y;&c_j;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>divoký</trd>,
+    <trd>drsný</trd>,
+    <trd>hrubý</trd>,
+    <trd>surový <klr>(materiál)</klr></trd>
+  </trdgrp>
   <trd lng="de">roh</trd>
   <trdgrp lng="es">
     <trd>crudo</trd>,
@@ -273,6 +279,12 @@ chair)</klr></trd>,
    <trd>nyers</trd>,
    <trd>durva</trd>,
    <trd>faragatlan</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>divoký</trd>,
+    <trd>drsný</trd>,
+    <trd>hrubý</trd>,
+    <trd>surový</trd>
   </trdgrp>
 </drv>
 
@@ -331,6 +343,11 @@ chair)</klr></trd>,
     <ref tip="vid" cel="delika.mal0ulo">maldelikatulo</ref>
   </snc>
   <trd lng="be">&c_g;&c_r;&c_u;&c_b;&c_ib;&c_ja;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>hrubián</trd>,
+    <trd>hulvát</trd>,
+    <trd>neomalenec</trd>
+  </trdgrp>
   <trd lng="de">Rohling</trd>
   <trdgrp lng="es">
     <trd>paleto</trd>,
@@ -366,6 +383,11 @@ chair)</klr></trd>,
    <trd>nieokrzesaniec</trd>
   </trdgrp>
   <trd lng="ru">&c_g;&c_r;&c_u;&c_b;&c_i;&c_ja;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>grobian</trd>,
+    <trd>hrubian</trd>,
+    <trd>surovec</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="krud.mal0a">
@@ -381,6 +403,11 @@ chair)</klr></trd>,
     <trd>&c_d;&c_a;&c_l;&c_ib;&c_k;&c_a;&c_n;&c_t;&c_y;</trd>,
     <trd>&c_r;&c_a;&c_f;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>upravený</trd>,
+    <trd>vyčištěný</trd>,
+    <trd>zjemnělý</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>bearbeitet</trd>,
      <trd>verfeinert</trd>,
@@ -389,12 +416,12 @@ chair)</klr></trd>,
   <trd lng="es">refinado</trd>
   <trd lng="fr">raffin&eacute;</trd>
   <trd lng="hu">finom</trd>
+  <trd lng="nl">geraffineerd</trd>
   <trdgrp lng="pl">
     <trd>delikatny</trd>,
     <trd>przetworzony</trd>,
     <trd>wyrafinowany</trd>
   </trdgrp>
-  <trd lng="nl">geraffineerd</trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_je;&c_l;&c_i;&c_k;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_u;&c_t;&c_o;&c_n;&c_ch;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>,
@@ -403,10 +430,20 @@ chair)</klr></trd>,
 &c_r;&c_a;&c_f;&c_i;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j;
 </trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hebký</trd>,
+    <trd>jemný</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: krud.xml,v $
+Revision 1.21  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/08/11 13:10:10  revo
 Guillermo Molleda Jimena: Hispana tradukado
 

@@ -2,21 +2,30 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vespr.xml,v 1.17 2011/12/05 02:10:12 revo Exp $">
+<art mrk="$Id: vespr.xml,v 1.20 2015/07/04 08:37:45 revo Exp $">
 <kap>
-  <rad>vespr</rad>/o
+  <rad>vespr</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="vespr.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">KAT</uzo>
   <snc mrk="vespr.0o.KAT">
+    <uzo tip="fak">KAT</uzo>
     <dif>
       Vespera <ref tip="super" cel="serv.Di0o">diservo</ref>,
-      konsistanta el psalmoj kaj himnoj.
+      konsistanta el psalmoj kaj himnoj:
+      <ekz>
+        kiam la re&gcirc;o iris al la <tld/>oj,
+        Audun intencis renkonti lin
+        <fnt>
+          <aut>-, trad. B. Ragnarsson</aut>,
+          <vrk>Audun kaj la urso</vrk>,
+          <lok>en: Islandaj Pravo&ccirc;oj, 1964</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <rim mrk="vespr.0o.RIM_1">
-    Foje uzata plurnombre pri nur unu diservo.
+    Foje uzata plurnombre imite al naciaj lingvoj.
   </rim>
   <trd lng="be">&c_v;&c_ja;&c_ch;&c_e;&c_r;&c_n;&c_ja;</trd>
   <trd lng="ca">vespres</trd>
@@ -38,10 +47,25 @@
   <trd lng="pl">nieszpory</trd>
   <trd lng="pt">v&eacute;spera</trd>
   <trd lng="ru">&c_v;&c_je;&c_ch;&c_je;&c_r;&c_n;&c_ja;</trd>
+  <trd lng="sk">večerná pobožnosť</trd>
+  <trdgrp lng="cs">
+    <trd>nešpory</trd>,
+    <trd>přen. večer</trd>,
+    <trd>večerní bohoslužba</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: vespr.xml,v $
+Revision 1.20  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/12/11 01:10:35  revo
+Jeromo Vasxe: + ekz
+
 Revision 1.17  2011/12/05 02:10:12  revo
 Marc Rausell: kataluna traduko
 
@@ -61,8 +85,5 @@ Revision 1.12  2008/05/20 16:30:36  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.11  2007/09/08 16:30:39  revo
-Tulio Flores: +tr pt
-
-Revision 1.10  2006/05/15 16:32:35  revo
 -->
 </vortaro>

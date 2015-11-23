@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stik.xml,v 1.3 2012/01/01 23:10:18 revo Exp $">
+<art mrk="$Id: stik.xml,v 1.6 2015/10/16 12:10:15 revo Exp $">
 <kap>
   <rad>stik</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -32,8 +32,14 @@
     </refgrp>
   </snc>
   <trd lng="ca">plantar esqueixos</trd>
+  <trd lng="cs">&rcaron;&iacute;zkovat</trd>
   <trd lng="de">Steckling pflanzen</trd>
+  <trdgrp lng="en">
+    <trd>to take a cutting</trd>,
+    <trd>strike</trd>
+  </trdgrp>
   <trd lng="fr">bouturer</trd>
+  <trd lng="sk">pch&aacute;&ccaron;kova&tcaron;</trd>
 </drv>
 
 <drv mrk="stik.0ajxo">
@@ -56,12 +62,22 @@
   </snc>
   <trd lng="ca">esqueix</trd>
   <trd lng="de">Steckling</trd>
+  <trd lng="en">cutting</trd>
   <trd lng="fr">bouture</trd>
 </drv>
 </art>
 
 <!--
 $Log: stik.xml,v $
+Revision 1.6  2015/10/16 12:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.5  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.3  2012/01/01 23:10:18  revo
 Marc Rausell: +trd ca
 

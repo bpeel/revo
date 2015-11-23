@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fleks.xml,v 1.28 2014/01/13 21:10:15 revo Exp $">
+<art mrk="$Id: fleks.xml,v 1.32 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fleks</rad>/i <fnt><bib>PV</bib></fnt>
@@ -41,6 +41,12 @@
       <trd>biegen</trd>,
       <trd>beugen</trd>,
       <trd>kr&uuml;mmen</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>arquear</trd>,
+      <trd>doblar</trd>,
+      <trd>flexionar</trd>,
+      <trd>curvar</trd>
     </trdgrp>
     <trdgrp lng="nl">
       <trd>buigen</trd>,
@@ -84,6 +90,7 @@
       </ekz>
     </dif>
     <trd lng="de">beugen</trd>
+    <trd lng="es">doblegar</trd>
     <trd lng="nl">buigen</trd>
     <trdgrp lng="pl">
       <trd>nagina&cacute;</trd>
@@ -93,6 +100,7 @@
     <trd>&c_g;&c_n;&c_u;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_g;&c_ib;&c_n;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="cs">ohýbat</trd>
   <trd lng="en">bend</trd>
   <trdgrp lng="fr">
     <trd>fl&eacute;chir<klr tip="ind"> (tr.)</klr></trd>,
@@ -111,6 +119,7 @@
     <trd>vergar</trd>,
     <trd>torcer</trd>
   </trdgrp>
+  <trd lng="sk">ohýbať</trd>
 </drv>
 
 <drv mrk="fleks.0o">
@@ -179,6 +188,20 @@
       <trd>przyginanie</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>flexe</trd>,
+    <trd>ohnutí <klr>(např. paže)</klr> pohybem v kloubu</trd>,
+    <trd>ohýbání</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>flexi&oacute;n</trd>,
+    <trd>curva</trd>,
+    <trd>doblez</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>flexia</trd>,
+    <trd>ohýbanie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fleks.0a">
@@ -212,6 +235,7 @@
       <fnt><bib>Fab1</bib>, <lok>La virineto de maro</lok></fnt>.
     </ekz>
     <trd lng="be">&c_g;&c_n;&c_u;&c_t;&c_k;&c_ib;</trd>
+    <trd lng="es">flexible</trd>
     <trd lng="fr">flexible<klr tip="ind"> (adj.)</klr></trd>
     <trd lng="nl">buigzaam</trd>
     <trdgrp lng="pl">
@@ -238,6 +262,11 @@
       <trd>&c_s;&c_o;&c_g;&c_n;&c_u;&c_t;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">ohebný</trd>
+  <trdgrp lng="sk">
+    <trd>ohybný</trd>,
+    <trd>pružný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fleks.0ado">
@@ -247,6 +276,7 @@
       Ago <tld/>i.
     </dif>
   </snc>
+  <trd lng="cs">ohýbání</trd>
   <trdgrp lng="fr">
     <trd>flexion<klr tip="ind"> (action de courber)</klr></trd>,
     <trd>arcure<klr tip="ind"> (action de fl&eacute;chir une branche)
@@ -264,6 +294,7 @@
     <trd>doginanie</trd>,
     <trd>przyginanie</trd>
   </trdgrp>
+  <trd lng="sk">ohýbanie</trd>
 </drv>
 
 <drv mrk="fleks.0ajxo">
@@ -274,6 +305,12 @@
       la <tld/>a&jcirc;oj de la vojo
       <fnt><bib>PV</bib></fnt>.
     </ekz>
+    <trdgrp lng="es">
+      <trd>flexi&oacute;n</trd>,
+      <trd>curva</trd>,
+      <trd>recodo</trd>,
+      <trd>doblez</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_y;&c_g;&c_ib;&c_n;</trd>,
@@ -348,10 +385,17 @@
     </rim>
   </snc>
   <trd lng="be">&c_g;&c_n;&c_u;&c_t;&c_k;&c_ib;</trd>
+  <trdgrp lng="cs">
+    <trd>flexibilní</trd>,
+    <trd>ohebný</trd>,
+    <trd>pružný</trd>,
+    <trd>vláčný</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>biegsam</trd>,
     <trd>beugsam <klr>(karaktero)</klr></trd>
   </trdgrp>
+  <trd lng="es">flexible</trd>
   <trdgrp lng="fr">
     <trd>flexible<klr tip="ind"> (adj.)</klr></trd>,
     <trd>souple</trd>
@@ -365,6 +409,10 @@
     <trd>gibki</trd>
   </trdgrp>
   <trd lng="ru">&c_g;&c_i;&c_b;&c_k;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>ohybný</trd>,
+    <trd>pružný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fleks.0igxi">
@@ -395,6 +443,11 @@
       <trd>sich <ind>biegen</ind></trd>,
       <trd>sich <ind>beugen</ind></trd>,
       <trd>sich <ind>kr&uuml;mmen</ind></trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>doblarse</trd>,
+      <trd>curvarse</trd>,
+      <trd>flexionarse</trd>
     </trdgrp>
     <trd lng="nl">buigen</trd>
     <trdgrp lng="pl">
@@ -439,6 +492,7 @@
       <trd>&c_s;&c_a;&c_s;&c_t;&c_u;&c_p;&c_a;&c_c;&c_mol;</trd>
     </trdgrp>
     <trd lng="de">sich <ind>beugen</ind></trd>
+    <trd lng="es">doblegarse</trd>
     <trd lng="nl">zich <ind>buigen</ind></trd>
     <trdgrp lng="pl">
       <trd>nagina&cacute; si&eogonek;</trd>,
@@ -466,7 +520,7 @@
 
 <drv mrk="fleks.0igxo">
   <kap><tld/>i&gcirc;o</kap>
-  <snc mrk="fleks.0igxo.KOMUNE.KOMUNE">
+  <snc mrk="fleks.0igxo.KOMUNE">
     <dif>
       Movo, per kiu io <tld/>i&gcirc;as; formo de io <tld/>ita:
       <ekz>
@@ -506,6 +560,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_n;&c_u;&c_t;&c_k;&c_ib;</trd>
+  <trd lng="es">flexible</trd>
   <trdgrp lng="fr">
     <trd>flexible<klr tip="ind"> (adj.)</klr></trd>,
     <trd>mall&eacute;able</trd>,
@@ -535,6 +590,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd>inflexisible</trd>,
+    <trd>r&iacute;gido</trd>
+  </trdgrp>
   <trd lng="fr">inflexible</trd>
 </drv>
 
@@ -583,8 +642,8 @@
     <rim>
       La vorto aperas en <fnt><bib>VdE</bib></fnt> kaj
       <fnt><bib>PV</bib></fnt> kun la iom alia signifo
-      &leftquot;<ref cel="genu.sur0igxi">
-      surgenui&gcirc;i</ref>&rightquot; kaj tute
+      &leftquot;<ref cel="genu.0igxi">surgenui&gcirc;i</ref>&rightquot;
+      kaj tute
       malaperis el <fnt><bib>PIV1</bib></fnt>, supozeble pro la fakto,
       ke, en la koncerna kunmeta&jcirc;o, la flankelemento &scirc;ajnas
       roli kiel objekto de la &ccirc;efelemento.
@@ -595,6 +654,7 @@
     <aut>MB</aut>
   </adm>
   <trd lng="be">&c_k;&c_l;&c_je;&c_n;&c_ch;&c_y;&c_c;&c_mol;</trd>
+  <trd lng="es">hacer (una) genuflexi&oacute;n</trd>
   <trdgrp lng="fr">
     <trd>fl&eacute;chir le <ind>genou</ind></trd>,
     <trd>faire une <ind>g&eacute;nuflexion</ind></trd>
@@ -602,6 +662,15 @@
   <trd lng="nl">knielen</trd>
   <trd lng="ru">&c_p;&c_r;&c_je;&c_k;&c_l;&c_o;&c_n;&c_i;&c_t;&c_mol;
   &c_k;&c_o;&c_l;&c_je;&c_n;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>padnúť na kolená</trd>,
+    <trd>pokľaknúť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kleknout</trd>,
+    <trd>padnout na kolena</trd>,
+    <trd>pokleknout</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fleks.trans0igxa">
@@ -684,6 +753,18 @@
 </art>
 <!--
 $Log: fleks.xml,v $
+Revision 1.32  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2015/04/01 22:10:16  revo
+Carlos Garcia: +trd es -i -igx -o -a -ajx -ebla -igxema ne-igxema gunu-i
+
+Revision 1.29  2015/02/07 16:10:14  revo
+Damien Brucker: -eraro cxe cel en ref
+
 Revision 1.28  2014/01/13 21:10:15  revo
 Jeromo Vasxe: + ~igxema
 
@@ -700,11 +781,5 @@ Revision 1.24  2005/10/31 17:31:42  revo
 Marc Bavant: +mrk; ~i (cedigi): kor refgrp en ekz; genu~i: reverkis;
 ~o/~ajxo: ~a: +snc, -Z en kap; ~a (~ita): +EVI, sxovis, +fnt, mod adm;
 +drv ~ado; ~ebla: +ofc *, mod dif, +rim
-
-Revision 1.23 2005/05/18 16:31:35 revo
-Yury Finkel: +trd ru
-Revision 1.22 2005/02/03 17:32:19 revo
-Yury Finkel: +trd ru
-Revision 1.21 2003/12/23 17:39:40 revo
 -->
 </vortaro>

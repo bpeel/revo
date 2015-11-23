@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hirund.xml,v 1.26 2014/06/30 15:10:19 revo Exp $">
+<art mrk="$Id: hirund.xml,v 1.28 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hirund</rad>/o
@@ -54,6 +54,7 @@
   </snc>
   <trd lng="be">&c_l;&c_a;&c_s;&c_t;&c_a;&c_w;&c_k;&c_a;</trd>
   <trd lng="hu">fecske</trd>
+  <trd lng="sk">lastovička</trd>
 </drv>
 
 <drv mrk="hirund.nokto0o">
@@ -62,8 +63,9 @@
   <uzo tip="stl">KOMUNE</uzo>
   <snc>
     <ref tip="dif" cel="kaprim.0o">kaprimulgo</ref>
-  </snc>       
+  </snc>
   <trd lng="br">adren</trd>
+  <trd lng="cs">lelek</trd>
   <trd lng="de">Nachtschwalbe</trd>
   <trd lng="hu">kecskefej&odblac;</trd>
   <trdgrp lng="nl">
@@ -72,10 +74,17 @@
   </trdgrp>
   <trd lng="pl">lelek kozod&oacute;j</trd>
   <trd lng="pt">noitib&oacute;</trd>
+  <trd lng="sk">lelek</trd>
 </drv>
 </art>
 <!--
 $Log: hirund.xml,v $
+Revision 1.28  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2014/06/30 15:10:19  revo
 Eko Nur Syah Hidayat: +id
 

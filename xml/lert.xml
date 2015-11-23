@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lert.xml,v 1.21 2014/01/02 20:10:13 revo Exp $">
+<art mrk="$Id: lert.xml,v 1.24 2015/07/09 10:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lert</rad>/a <fnt><bib>PV</bib></fnt>
@@ -81,11 +81,17 @@
     <trd>&c_h;&c_v;&c_a;&c_c;&c_k;&c_ib;</trd>,
     <trd>&c_m;&c_a;&c_j;&c_s;&c_t;&c_e;&c_r;&c_s;&c_k;&c_ib;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dovedn&yacute;</trd>,
+    <trd>obratn&yacute;</trd>,
+    <trd>zb&ecaron;hl&yacute;</trd>,
+    <trd>zru&ccaron;n&yacute;</trd>
+  </trdgrp>
   <trd lng="en">skillful</trd>
   <trdgrp lng="es">
     <trd>h&aacute;bil</trd>,
     <trd>diestro</trd>,
-    <trd>ama&ntilde;ado</trd>
+    <trd>&aacute;gil</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>adroit</trd>,
@@ -107,6 +113,11 @@
     <trd>&c_u;&c_m;&c_je;&c_l;&c_y;&c_j;</trd>,
     <trd>&c_l;&c_o;&c_v;&c_k;&c_i;&c_j;</trd>,
     <trd>&c_i;&c_s;&c_k;&c_u;&c_s;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>obratn&yacute;</trd>,
+    <trd>zru&ccaron;n&yacute;</trd>,
+    <trd>&scaron;ikovn&yacute;</trd>
   </trdgrp>
   <trd lng="sv">skicklig</trd>
 </drv>
@@ -134,6 +145,10 @@
       <ref cel="akroba.0ajxo">akrobata&jcirc;o</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="es">
+    <trd>habilidad</trd>,
+    <trd>destreza</trd>
+  </trdgrp>
   <trd lng="fr">tour<klr> (d'adresse)</klr></trd>
 </drv>
 
@@ -151,8 +166,13 @@
       <ref cel="takt.0o.gxentileco">takto<sncref/></ref>
     </refgrp>
   </snc>
+  <trd lng="cs">dovednost</trd>
   <trdgrp lng="de">
     <trd>geschickt</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>agilidad</trd>,
+    <trd>habilidad</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>adresse<klr> (habilet&eacute;)</klr></trd>,
@@ -166,6 +186,7 @@
     <trd>&c_i;&c_s;&c_k;&c_u;&c_s;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_m;&c_a;&c_s;&c_t;&c_je;&c_r;&c_s;&c_t;&c_v;&c_o;</trd>
   </trdgrp>
+  <trd lng="sk">zru&ccaron;nos&tcaron;</trd>
 </drv>
 
 <drv mrk="lert.0igxi">
@@ -181,6 +202,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">volverse <ind>h&aacute;bil</ind></trd>
   <trd lng="fr">devenir <ind>habile</ind></trd>
   <trd lng="ru">&c_n;&c_a;&c_l;&c_o;&c_v;&c_ch;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
 </drv>
@@ -196,8 +218,13 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">zru&ccaron;n&yacute; &ccaron;lov&ecaron;k</trd>
   <trdgrp lng="de">
     <trd>Meister</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>hombre h&aacute;bil</trd>,
+    <trd>astuto</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>homme habile</trd>,
@@ -207,6 +234,7 @@
     <trd>&c_u;&c_m;&c_je;&c_l;&c_y;&c_j; &c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k;</trd>,
     <trd>&c_u;&c_m;&c_je;&c_l;&c_je;&c_c;</trd>
   </trdgrp>
+  <trd lng="sk">zru&ccaron;n&yacute; &ccaron;lovek</trd>
 </drv>
 
 <drv mrk="lert.mal0a">
@@ -251,6 +279,11 @@
       <ref cel="plump.0a">plumpa</ref>,
       <ref cel="malic">senmalica</ref>
     </refgrp>
+  <trdgrp lng="es">
+    <trd>lerdo</trd>,
+    <trd>inh&aacute;bil</trd>,
+    <trd>inepto</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>gauche<klr> (maladroit)</klr></trd>,
     <trd>maladroit</trd>,
@@ -259,6 +292,16 @@
   <trdgrp lng="ru">
     <trd>&c_n;&c_je;&c_l;&c_o;&c_v;&c_k;&c_i;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_u;&c_m;&c_je;&c_l;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nemotorn&yacute;</trd>,
+    <trd>ne&scaron;ikovn&yacute;</trd>,
+    <trd>&tcaron;arbav&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nevzd&ecaron;lan&yacute;</trd>,
+    <trd>nezru&ccaron;n&yacute;</trd>,
+    <trd>ne&scaron;ikovn&yacute;</trd>
   </trdgrp>
 </drv>
 
@@ -281,11 +324,21 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">h&aacute;bil con sus manos</trd>
   <trd lng="fr">adroit de ses mains</trd>
 </drv>
 </art>
 <!--
 $Log: lert.xml,v $
+Revision 1.24  2015/07/09 10:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.23  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2014/01/02 20:10:13  revo
 Jeromo Vasxe: + man~a
 
@@ -299,14 +352,5 @@ Revision 1.18  2005/12/04 17:31:15  revo
 Wieland Pusch: +trd de
 
 Revision 1.17  2005/05/12 16:32:26  revo
-Yury Finkel: +trd ru
-
-Revision 1.16  2004/08/06 16:32:01  revo
-Jeromo Vasxe: + ~eco ~igxi ~ulo, memstar. mal~a
-
-Revision 1.15 2004/05/25 16:31:49 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.14 2003/05/06 16:33:11 revo
 -->
 </vortaro>

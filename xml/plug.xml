@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plug.xml,v 1.20 2013/07/31 20:10:09 revo Exp $">
+<art mrk="$Id: plug.xml,v 1.22 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>plug</rad>/i <fnt><bib>PV</bib></fnt>
@@ -35,6 +35,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>orat</trd>,
+    <trd>rýt</trd>,
+    <trd>vyrývat</trd>
+  </trdgrp>
   <trd lng="de">pfl&uuml;gen</trd>
   <trdgrp lng="en"><trd>plough</trd>, <trd>plow</trd>,
   <trd>till</trd></trdgrp>
@@ -47,6 +52,10 @@
     <trd>cavar <klr>(a terra)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_a;&c_h;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>poorať</trd>,
+    <trd>zorať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="plug.0ilo">
@@ -67,6 +76,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_l;&c_u;&c_g;</trd>
+  <trd lng="cs">pluh</trd>
   <trd lng="de">Pflug</trd>
   <trdgrp lng="en"><trd>plough</trd>, <trd>plow</trd></trdgrp>
   <trd lng="fr">charrue</trd>
@@ -77,6 +87,7 @@
     <trd>charrua</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_l;&c_u;&c_g;</trd>
+  <trd lng="sk">pluh</trd>
 </drv>
 
 <drv mrk="plug.0ileto">
@@ -85,6 +96,7 @@
     <uzo tip="fak">AGR</uzo>
     <ref tip="dif" cel="sxpat.0o.AGR">&scirc;pato</ref>
   </snc>
+  <trd lng="cs">rýč</trd>
   <trd lng="fr">b&ecirc;che</trd>
   <trd lng="hu">&aacute;s&oacute;</trd>
   <trd lng="nl">spade</trd>
@@ -92,10 +104,17 @@
     <trd>cavadeira</trd>,
     <trd>enxada</trd>
   </trdgrp>
+  <trd lng="sk">rýľ</trd>
 </drv>
 </art>
 <!--
 $Log: plug.xml,v $
+Revision 1.22  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2013/07/31 20:10:09  revo
 Jeromo Vasxe: kor. ~etilo al ~ileto
 

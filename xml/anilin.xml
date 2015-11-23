@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: anilin.xml,v 1.13 2003/11/09 17:31:30 revo Exp $">
+<art mrk="$Id: anilin.xml,v 1.14 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>anilin</rad>/o
@@ -17,6 +17,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_n;&c_ib;&c_l;&c_ib;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>aminobenzen</trd>,
+    <trd>anilin</trd>
+  </trdgrp>
   <trd lng="de">Anilin</trd>
   <trd lng="en">aniline <klr>(phenylamine)</klr></trd>
   <trd lng="es">anilina</trd>
@@ -28,6 +32,9 @@
 </art>
 <!--
 $Log: anilin.xml,v $
+Revision 1.14  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.13  2003/11/09 17:31:30  revo
 Dmitri Gabinski: +trd be
 

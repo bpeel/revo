@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prodig.xml,v 1.9 2014/10/28 20:10:18 revo Exp $">
+<art mrk="$Id: prodig.xml,v 1.11 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <rad>prodig</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -35,6 +35,11 @@
     </dif>
   </snc>
   <trd lng="ca">prodigar</trd>
+  <trdgrp lng="cs">
+    <trd>mrhat</trd>,
+    <trd>plýtvat</trd>,
+    <trd>promarnit</trd>
+  </trdgrp>
   <trd lng="fr">prodiguer</trd>
   <trdgrp lng="hu">
     <trd>t&eacute;kozol</trd>,
@@ -47,6 +52,11 @@
     <trd>esbanjar</trd>,
   </trdgrp>
   <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_o;&c_ch;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>porozhadzovať</trd>,
+    <trd>premrhať</trd>,
+    <trd>premárniť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prodig.0a">
@@ -66,6 +76,10 @@
     <trd>pr&ograve;dig</trd>,
     <trd>gener&oacute;s</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>marnotratný</trd>,
+    <trd>rozmařilý</trd>
+  </trdgrp>
   <trd lng="fr">prodigue</trd>
   <trdgrp lng="hu">
     <trd>t&eacute;kozl&oacute;</trd>,
@@ -77,6 +91,7 @@
     <trd>&c_r;&c_a;&c_s;&c_t;&c_o;&c_ch;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_shch;&c_je;&c_d;&c_r;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">márnotratný</trd>
 </drv>
 
 <drv mrk="prodig.0o">
@@ -109,6 +124,12 @@
 
 <!--
 $Log: prodig.xml,v $
+Revision 1.11  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2014/10/28 20:10:18  revo
 Jeromo Vasxe: + 1 ekz
 

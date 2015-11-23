@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: apotek.xml,v 1.19 2010/04/24 17:07:42 revo Exp $">
+<art mrk="$Id: apotek.xml,v 1.20 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>apotek</rad>/o
@@ -17,6 +17,11 @@
   </snc>
   <trd lng="be">&c_a;&c_p;&c_t;&c_e;&c_k;&c_a;</trd>
   <trd lng="bg">&c_a;&c_p;&c_t;&c_je;&c_k;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>apatyka</trd>,
+    <trd>apotéka</trd>,
+    <trd>lékárna</trd>
+  </trdgrp>
   <trd lng="de">Apotheke</trd>
   <trdgrp lng="en">
     <trd>pharmacy</trd>,
@@ -38,6 +43,9 @@
 </art>
 <!--
 $Log: apotek.xml,v $
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.19  2010/04/24 17:07:42  revo
 Behnam Tabatabai: +trd fa
 

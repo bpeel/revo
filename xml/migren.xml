@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: migren.xml,v 1.9 2013/10/09 19:10:56 revo Exp $">
+<art mrk="$Id: migren.xml,v 1.12 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>migren</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -48,6 +48,7 @@
     <trd>migranya</trd>,
     <trd>hemicr&agrave;nia</trd>
   </trdgrp>
+  <trd lng="cs">migréna</trd>
   <trd lng="de">Migr&auml;ne</trd>
   <trd lng="en">migraine</trd>
   <trdgrp lng="es">
@@ -60,6 +61,10 @@
     <trd>hemicrania</trd>,
     <trd>migr&eacute;n</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>migrain</trd>,
+    <trd><ind>sakit</ind> kepala sebelah</trd>
+  </trdgrp>
   <trd lng="it">emicrania</trd>
   <trd lng="nl">migraine</trd>
   <trdgrp lng="pt">
@@ -70,11 +75,21 @@
     <trd>&c_m;&c_i;&c_g;&c_r;&c_je;&c_n;&c_mol;</trd>,
     <trd>&c_g;&c_je;&c_m;&c_i;&c_k;&c_r;&c_a;&c_n;&c_i;&c_ja;</trd>
   </trdgrp>
+  <trd lng="sk">migréna</trd>
 </drv>
 </art>
 
 <!--
 $Log: migren.xml,v $
+Revision 1.12  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2014/11/19 07:10:17  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.9  2013/10/09 19:10:56  revo
 Wolfram Diestel: ref al lst malsanoj
 
@@ -94,8 +109,5 @@ Revision 1.4  2010/02/23 17:30:22  revo
 Antonio Codazzi: + trd it
 
 Revision 1.3  2009/11/09 17:30:22  revo
-Paul Peeraerts: +nl
-
-Revision 1.2  2009/11/08 17:31:03  revo
 -->
 </vortaro>

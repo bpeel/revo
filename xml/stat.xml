@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stat.xml,v 1.23 2012/10/10 00:10:11 revo Exp $">
+<art mrk="$Id: stat.xml,v 1.25 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>stat</rad>/o <fnt><bib>PV</bib></fnt>
@@ -98,6 +98,13 @@
     <trd lng="hu">rend</trd>
     <trd lng="ru">&c_s;&c_o;&c_s;&c_l;&c_o;&c_v;&c_i;&c_je;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>postavení</trd>,
+    <trd>povolání</trd>,
+    <trd>situace</trd>,
+    <trd>skupenství</trd>,
+    <trd>stav</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>condition</trd>,
     <trd>state</trd>
@@ -111,6 +118,10 @@
     <trd>gesteldheid</trd>,
     <trd>staat</trd>,
     <trd>situatie</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>stav</trd>,
+    <trd>štádium</trd>
   </trdgrp>
   <trdgrp lng="sv">
     <trd>tillst&aring;nd</trd>,
@@ -142,6 +153,10 @@
     <trd>&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_c;&c_a; <klr tip="amb">(&c_u; &c_n;&c_je;&c_j;&c_k;&c_ib;&c_m; &c_s;&c_t;&c_a;&c_n;&c_je;)</klr></trd>,
     <trd>&c_ib;&c_s;&c_mol;&c_c;&c_ib; <klr tip="amb">(&c_p;&c_r;&c_a; &c_s;&c_p;&c_r;&c_a;&c_v;&c_y;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>být ve stavu</trd>,
+    <trd>mít se</trd>
+  </trdgrp>
   <trd lng="fr">&ecirc;tre en <ind>situation</ind></trd>
   <trdgrp lng="hu">
     <trd>&aacute;ll <klr tip="ind">(dolog)</klr></trd>,
@@ -151,6 +166,10 @@
   <trdgrp lng="ru">
     <trd>&c_o;&c_b;&c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_a;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;&c_s;&c_ja; <klr>(&c_v; &c_k;&c_a;&c_k;&c_o;&c_m;-&c_l;. &c_s;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_i;&c_i;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>byť v stave</trd>,
+    <trd>v situácii</trd>
   </trdgrp>
 </drv>
 
@@ -214,6 +233,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_a;&c_n; &c_d;&c_u;&c_sh;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>duševní stav</trd>,
+    <trd>stav duše</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Gem&uuml;tsverfassung</trd>
     <trd>Stimmung</trd>
@@ -229,6 +252,7 @@
     <trd>stemming</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_a;&c_s;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je; &c_d;&c_u;&c_h;&c_a;</trd>
+  <trd lng="sk">duševný stav</trd>
 </drv>
 
 <drv mrk="stat.bon0o">
@@ -246,6 +270,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>blahobyt</trd>,
+    <trd>dobrý stav</trd>,
+    <trd>pohoda</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>bien-&ecirc;tre</trd>,
     <trd>prosp&eacute;rit&eacute;</trd>
@@ -253,6 +282,10 @@
   <trd lng="hu">j&oacute;l&eacute;t</trd>
   <trd lng="nl">welvaart</trd>
   <trd lng="ru">&c_b;&c_l;&c_a;&c_g;&c_o;&c_s;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>blahobyt</trd>,
+    <trd>pohoda</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="stat.san0o">
@@ -274,11 +307,19 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">zdravotní stav</trd>
   <trd lng="fr">&eacute;tat de sant&eacute;</trd>
+  <trd lng="sk">zdravotný stav</trd>
 </drv>
 </art>
 <!--
 $Log: stat.xml,v $
+Revision 1.25  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2012/10/10 00:10:11  revo
 Jeromo Vasxe: + san~o
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kabe.xml,v 1.13 2014/03/27 07:10:14 revo Exp $">
+<art mrk="$Id: kabe.xml,v 1.15 2015/07/04 08:37:36 revo Exp $">
 <kap>
     <rad>Kabe</rad>
 </kap>
@@ -19,18 +19,20 @@ pioniro de
         forlasis la movadon (<ref cel="kabe.0i"><tld lit="k"/>is</ref>).
       </dif>
     </snc>
-    <trdgrp lng="ca">
+  <trdgrp lng="ca">
       <trd>Kazimierz Bein</trd>,
       <trd>Kabe</trd>
     </trdgrp>
-    <trd lng="de">Kabe</trd>
-    <trd lng="fi">Kabe</trd>
-    <trd lng="fr">Kabe</trd>
-    <trd lng="hu">Kabe</trd>
-    <trd lng="it">Kabe</trd>
-    <trd lng="nl">Kabe</trd>
-    <trd lng="pt">Kabe</trd>
-    <trd lng="ru">Kabe</trd>
+  <trd lng="cs">Kabe</trd>
+  <trd lng="de">Kabe</trd>
+  <trd lng="fi">Kabe</trd>
+  <trd lng="fr">Kabe</trd>
+  <trd lng="hu">Kabe</trd>
+  <trd lng="it">Kabe</trd>
+  <trd lng="nl">Kabe</trd>
+  <trd lng="pt">Kabe</trd>
+  <trd lng="ru">Kabe</trd>
+  <trd lng="sk">Kabe</trd>
 </drv>
 
 <drv mrk="kabe.0i">
@@ -66,6 +68,12 @@ pioniro de
 </art>
 <!--
 $Log: kabe.xml,v $
+Revision 1.15  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2014/03/27 07:10:14  revo
 Damien Brucker: +trd fr
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: variac.xml,v 1.14 2012/08/10 14:11:19 revo Exp $">
+<art mrk="$Id: variac.xml,v 1.16 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <rad>variaci</rad>/o
   <fnt>Z</fnt>
@@ -17,6 +17,7 @@
   <klr tip="amb">(&c_m;&c_u;&c_z;.)</klr></trd>
   <trd lng="bg">&c_v;&c_a;&c_r;&c_i;&c_a;&c_c;&c_i;&c_ja;</trd>
   <trd lng="ca">variaci&oacute;<klr> (m&uacute;s.)</klr></trd>
+  <trd lng="cs">variace</trd>
   <trd lng="de">Variation</trd>
   <trd lng="en">variation</trd>
   <trd lng="es">variaci&oacute;n</trd>
@@ -27,14 +28,21 @@
     <trd>v&aacute;ltozat</trd>,
     <trd>vari&aacute;ci&oacute;</trd>
     <trd>vari&aacute;ns</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="nl">variatie<klr tip="ind"> (muz.)</klr></trd>
   <trd lng="pt">varia&ccedil;&atilde;o<klr tip="ind"> (m&uacute;sica)</klr></trd>
   <trd lng="ru">&c_v;&c_a;&c_r;&c_i;&c_a;&c_c;&c_i;&c_ja; <klr tip="amb">(&c_m;&c_u;&c_z;.)</klr></trd>
+  <trd lng="sk">variácia</trd>
 </drv>
 </art>
 <!--
 $Log: variac.xml,v $
+Revision 1.16  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2012/08/10 14:11:19  revo
 Marc Rausell: + trd ca
 

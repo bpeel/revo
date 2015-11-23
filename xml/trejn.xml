@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trejn.xml,v 1.11 2011/05/25 10:10:07 revo Exp $">
+<art mrk="$Id: trejn.xml,v 1.13 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>8</ofc><rad>trejn</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -28,6 +28,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_t;&c_r;&c_e;&c_n;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>cvičit</trd>,
+    <trd>trénovat</trd>,
+    <trd>vycvičit</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>coach</trd>,
     <trd>train</trd>
@@ -37,10 +42,20 @@
   <trd lng="hu">edz</trd>
   <trd lng="nl">trainen</trd>
   <trd lng="ru">&c_t;&c_r;&c_je;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>cvičiť</trd>,
+    <trd>trénovať</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: trejn.xml,v $
+Revision 1.13  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2011/05/25 10:10:07  revo
 Russ Williams: +ofc 8
 

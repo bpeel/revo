@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: uvertu.xml,v 1.16 2009/08/27 16:33:34 revo Exp $">
+<art mrk="$Id: uvertu.xml,v 1.18 2015/07/04 08:37:45 revo Exp $">
 <kap>
    <ofc>1</ofc>
    <rad>uvertur</rad>/o
@@ -21,23 +21,38 @@
        <ref cel="prelud.0o">preludo</ref>
      </refgrp>
    </snc>
-   <trd lng="be">&c_u;&c_v;&c_e;&c_r;&c_t;&c_u;&c_r;&c_a;</trd>
-   <trd lng="de">Ouvert&uuml;re</trd>
-   <trd lng="en">overture</trd>
-   <trd lng="es">obertura</trd>
-   <trd lng="fi">alkusoitto</trd>
-   <trdgrp lng="fr">
+  <trd lng="be">&c_u;&c_v;&c_e;&c_r;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>ouvertura</trd>,
+    <trd>předehra</trd>
+  </trdgrp>
+  <trd lng="de">Ouvert&uuml;re</trd>
+  <trd lng="en">overture</trd>
+  <trd lng="es">obertura</trd>
+  <trd lng="fi">alkusoitto</trd>
+  <trdgrp lng="fr">
      <trd>ouverture<klr> (musicale)</klr></trd>
    </trdgrp>
-   <trd lng="hu">nyit&aacute;ny</trd>
-   <trd lng="it">ouverture<klr> (mus.)</klr></trd>
-   <trd lng="nl">ouverture</trd>
-   <trd lng="pt">abertura</trd>
-   <trd lng="ru">&c_u;&c_v;&c_je;&c_r;&c_t;&c_ju;&c_r;&c_a;</trd>
+  <trd lng="hu">nyit&aacute;ny</trd>
+  <trd lng="it">ouverture<klr> (mus.)</klr></trd>
+  <trd lng="nl">ouverture</trd>
+  <trd lng="pt">abertura</trd>
+  <trd lng="ru">&c_u;&c_v;&c_je;&c_r;&c_t;&c_ju;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>ouvertúra</trd>,
+    <trd>predohra</trd>,
+    <trd>úvod</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: uvertu.xml,v $
+Revision 1.18  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2009/08/27 16:33:34  revo
 Russ Williams: +trd en
 

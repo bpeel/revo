@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tabu.xml,v 1.22 2009/02/10 14:18:23 revo Exp $">
+<art mrk="$Id: tabu.xml,v 1.24 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>tabu</rad>/i
 </kap>
@@ -47,6 +47,11 @@
   </trdgrp>
   <trd lng="ru">
   &c_t;&c_a;&c_b;&c_u;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">zakázať</trd>
+  <trdgrp lng="cs">
+    <trd>vyhlásit tabu</trd>,
+    <trd>zakázat</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tabu.0o">
@@ -89,6 +94,11 @@
   </snc>
   <trd lng="be">&c_t;&c_a;&c_b;&c_u;</trd>
   <trd lng="ca">tab&uacute;</trd>
+  <trdgrp lng="cs">
+    <trd>nedotknutelný</trd>,
+    <trd>posvátný</trd>,
+    <trd>tabu</trd>
+  </trdgrp>
   <trd lng="de">Tabu</trd>
   <trd lng="en">taboo</trd>
   <trd lng="es">tab&uacute;</trd>
@@ -100,6 +110,11 @@
    <trd>tabu</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_a;&c_b;&c_u;</trd>
+  <trdgrp lng="sk">
+    <trd>nedotknuteľný</trd>,
+    <trd>posvätný</trd>,
+    <trd>tabu</trd>
+  </trdgrp>
   <trd lng="sv">tabu</trd>
 </drv>
 
@@ -125,6 +140,14 @@
     <trd>&c_z;&c_a;&c_p;&c_r;&c_je;&c_t;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_t;&c_a;&c_b;&c_u;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>tabuizovaný</trd>,
+    <trd>zakázaný</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>tabuizovaný</trd>,
+    <trd>zakázaný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tabu.0eco">
@@ -142,16 +165,27 @@
     <trd>&c_t;&c_a;&c_b;&c_u;&c_ja;&c_v;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_b;&c_a;&c_r;&c_o;&c_n;&c_je;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="hu">tabujelleg</trd>  
+  <trd lng="cs">nedotknutelnost</trd>
+  <trd lng="hu">tabujelleg</trd>
   <trd lng="pl">tabu</trd>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_p;&c_r;&c_je;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_t;&c_a;&c_b;&c_u;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nedotknuteľnosť</trd>,
+    <trd>tabu</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: tabu.xml,v $
+Revision 1.24  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2009/02/10 14:18:23  revo
 Sebastian Cyprych: -fusxaj linirompoj en trd
 

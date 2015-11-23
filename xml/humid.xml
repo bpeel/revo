@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: humid.xml,v 1.13 2011/11/07 01:10:32 revo Exp $">
+<art mrk="$Id: humid.xml,v 1.15 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>humid</rad>/a
 </kap>
@@ -23,7 +23,12 @@
     <uzo tip="stl">EVI</uzo>
     <ref tip="dif" cel="sek.mal0eta">malseketa</ref>
   </snc>
+  <trd lng="kek">ach&#789;toon</trd>
   <trd lng="be">&c_v;&c_ib;&c_l;&c_mol;&c_g;&c_o;&c_t;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>humidní</trd>,
+    <trd>vlhký</trd>
+  </trdgrp>
   <trd lng="de">feucht</trd>
   <trd lng="el">&ypsilon;&gamma;&rho;&omikron_ton;&sigma_fina;</trd>
   <trdgrp lng="en">
@@ -40,7 +45,7 @@
   <trd lng="nl">vochtig</trd>
   <trd lng="pt">&uacute;mido</trd>
   <trd lng="ru">&c_v;&c_l;&c_a;&c_zh;&c_n;&c_y;&c_j;</trd>
-  <trd lng="kek">ach&#789;toon</trd>
+  <trd lng="sk">mokvavý</trd>
 </drv>
 
 <drv mrk="humid.0o">
@@ -87,6 +92,12 @@
 </art>
 <!--
 $Log: humid.xml,v $
+Revision 1.15  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2011/11/07 01:10:32  revo
  Anchise Inzaghi: traduko q'eqchi'
 

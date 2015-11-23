@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: parale.xml,v 1.17 2011/04/30 20:10:23 revo Exp $">
+<art mrk="$Id: parale.xml,v 1.19 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc> <ofc>1</ofc> <ofc>7</ofc>
   <rad>paralel</rad>/a <fnt><bib>PV</bib></fnt>
@@ -92,11 +92,21 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_l;&c_je;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>paralelní</trd>,
+    <trd>souběžný</trd>,
+    <trd>současně probíhající</trd>
+  </trdgrp>
   <trd lng="de">parallel</trd>
   <trd lng="fr">parall&egrave;le<klr tip="ind"> (adj.)</klr></trd>
-  <trd lng="hu">p&aacute;rhuzamos</trd>  
+  <trd lng="hu">p&aacute;rhuzamos</trd>
   <trd lng="nl">parallel</trd>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>paralelný</trd>,
+    <trd>priraďovací</trd>,
+    <trd>rovnobežný</trd>
+  </trdgrp>
   <trd lng="sv">parallell</trd>
 </drv>
 
@@ -201,7 +211,15 @@
     <trd lng="hu">p&aacute;rhuzam</trd>    
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_l;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>přirovnání</trd>,
+    <trd>rovnoběžka</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>prirovnanie</trd>,
+    <trd>rovnobežka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="parale.0ajxo">
@@ -263,6 +281,12 @@
 </art>
 <!--
 $Log: parale.xml,v $
+Revision 1.19  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2011/04/30 20:10:23  revo
 Jeromo Vasxe: + ~e al
 

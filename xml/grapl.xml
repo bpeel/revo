@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: grapl.xml,v 1.12 2014/06/06 07:10:14 revo Exp $">
+<art mrk="$Id: grapl.xml,v 1.14 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>grapl</rad>/o
 </kap>
@@ -16,6 +16,7 @@
   </snc>
   <trd lng="bg">&c_k;&c_o;&c_t;&c_v;&c_i;&c_ch;&c_k;&c_a;</trd>
   <trd lng="ca">ruix&oacute;</trd>
+  <trd lng="cs">malá čtyř až šestiramenná kotva</trd>
   <trdgrp lng="de">
      <trd>Dregganker</trd>,
      <trd>Draggen</trd>,
@@ -36,10 +37,17 @@
     <trd>&c_sh;&c_t;&c_a;&c_n;&c_g;&c_o;&c_v;&c_a;&c_ja; &c_s;&c_k;&c_o;&c_b;&c_a;</trd>,
     <trd>&c_k;&c_o;&c_sh;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">mnohoramenná kotva</trd>
 </drv>
 </art>
 <!--
 $Log: grapl.xml,v $
+Revision 1.14  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2014/06/06 07:10:14  revo
 Damien Brucker: +trd fr
 

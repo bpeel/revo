@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plejst.xml,v 1.10 2013/10/03 18:10:13 revo Exp $">
+<art mrk="$Id: plejst.xml,v 1.12 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>plejstocen</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -20,6 +20,11 @@
   </snc>
   <trd lng="be">&c_p;&c_l;&c_je;&c_j;&c_s;&c_t;&c_a;&c_c;&c_e;&c_n;</trd>
   <trd lng="bg">&c_p;&c_l;&c_je;&c_j;&c_s;&c_t;&c_o;&c_c;&c_je;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>diluvium</trd>,
+    <trd>pleistocén</trd>,
+    <trd>věk ledových dob</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Pleistoz&auml;n</trd>,
      <trd>Eiszeitalter</trd>
@@ -34,10 +39,17 @@
     <trd>Pleistoceno</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_l;&c_je;&c_j;&c_s;&c_t;&c_o;&c_c;&c_je;&c_n;</trd>
+  <trd lng="sk">pleistocén</trd>
 </drv>
 </art>
 <!--
 $Log: plejst.xml,v $
+Revision 1.12  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2013/10/03 18:10:13  revo
 Wolfram Diestel: val
 

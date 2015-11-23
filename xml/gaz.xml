@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gaz.xml,v 1.16 2012/08/18 19:10:24 revo Exp $">
+<art mrk="$Id: gaz.xml,v 1.18 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>gaz</rad>/o
@@ -30,6 +30,11 @@
     <trd>&c_m;&c_a;&c_r;&c_l;&c_ja;</trd>
   </trdgrp>
   <trd lng="ca">gasa</trd>
+  <trdgrp lng="cs">
+    <trd>gáz</trd>,
+    <trd>gáza</trd>,
+    <trd>mul</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Gaze</trd>,
     <trd>Flor</trd>,
@@ -45,10 +50,17 @@
   <trd lng="nl">gaas</trd>
   <trd lng="pt">gaze<klr tip="amb"> (tecido)</klr></trd>
   <trd lng="ru">&c_g;&c_a;&c_z; <klr>(&c_t;&c_k;&c_a;&c_n;&c_mol;)</klr></trd>
+  <trd lng="sk">gáza</trd>
 </drv>
 </art>
 <!--
 $Log: gaz.xml,v $
+Revision 1.18  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2012/08/18 19:10:24  revo
 Marc Rausell: + trd ca
 

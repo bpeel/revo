@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: reprezent.xml,v 1.11 2014/10/11 18:10:24 revo Exp $">
+<art mrk="$Id: reprezent.xml,v 1.13 2015/07/04 08:37:42 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>reprezent</rad>/i
@@ -98,6 +98,17 @@ preferindas
    <trd lng="nl">vertegenwoordigen</trd>
    <trd lng="pl">reprezentowa&cacute;</trd>
    <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>predstavovať</trd>,
+    <trd>reprezentovať</trd>,
+    <trd>zastupovať</trd>,
+    <trd>znovu predniesť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>představovat</trd>,
+    <trd>reprezentovat</trd>,
+    <trd>zastupovat</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="reprezent.0igi">
@@ -127,6 +138,12 @@ preferindas
 </art>
 <!--
 $Log: reprezent.xml,v $
+Revision 1.13  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2014/10/11 18:10:24  revo
 Guillermo Molleda Jimena: trd es
 

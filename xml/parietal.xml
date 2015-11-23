@@ -2,28 +2,39 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: parietal.xml,v 1.7 2010/12/09 17:31:18 revo Exp $">
+<art mrk="$Id: parietal.xml,v 1.10 2015/07/04 08:37:41 revo Exp $">
 <kap>
-  <rad>parietal</rad>/o
+  <rad>parietal</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="parietal.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">ANA</uzo>
-  <fnt><bib>PIV1</bib></fnt>
   <snc>
-    <ref tip="dif" cel="pariet.0osto">Parietosto</ref>
+  <uzo tip="fak">ANA</uzo>
+    <ref tip="dif" cel="pariet.0osto">parietosto</ref>
   </snc>
+  <trd lng="cs">kost temenní</trd>
   <trd lng="de">Scheitelbein</trd>
+  <trd lng="fr">os <ind>pari&eacute;tal</ind></trd>
   <trd lng="hu">falcsont</trd>
   <trd lng="it">osso <ind>parietale</ind></trd>
   <trd lng="nl">wandbeen</trd>
   <trd lng="pl">ko&sacute;&cacute; ciemieniowa</trd>
   <trd lng="pt">parietal</trd>
   <trd lng="ru">&c_t;&c_je;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja; &c_k;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">temenná kosť</trd>
 </drv>
 </art>
 <!--
 $Log: parietal.xml,v $
+Revision 1.10  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2014/12/05 14:10:16  revo
+Damien Brucker: +trd fr
+
 Revision 1.7  2010/12/09 17:31:18  revo
 Antonio Codazzi: +trd it
 
@@ -43,7 +54,5 @@ Revision 1.2 2001/10/08 18:14:24 revo
 Paul Peeraerts: kor de tajperaro
 
 Revision 1.1 2001/10/07 18:15:22 revo
-Paul Peeraerts: nova artikolo
-
 -->
 </vortaro>

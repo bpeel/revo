@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: beograd.xml,v 1.14 2013/12/12 13:10:17 revo Exp $">
+<art mrk="$Id: beograd.xml,v 1.15 2015/07/04 08:37:31 revo Exp $">
 <kap><rad>Beograd</rad>/o</kap>
 <drv mrk="beograd.B0o">
   <kap><tld/>o</kap>
@@ -16,8 +16,10 @@
       <ref tip="vid" cel="danub.D0o">Danubo</ref>.
     </dif>
   </snc>
+  <trd lng="lat">Belgradum</trd>
   <trd lng="be">&c_B;&c_ja;&c_l;&c_g;&c_r;&c_a;&c_d;</trd>
   <trd lng="bg">&c_B;&c_je;&c_l;&c_g;&c_r;&c_a;&c_d;</trd>
+  <trd lng="cs">Bělehrad</trd>
   <trd lng="de">Belgrad</trd>
   <trd lng="en">Belgrade</trd>
   <trd lng="es">Belgrado</trd>
@@ -27,7 +29,6 @@
     <trd>Belgr&aacute;d</trd>,
     <trd>N&aacute;ndorfeh&eacute;rv&aacute;r</trd>
   </trdgrp>
-  <trd lng="lat">Belgradum</trd>
   <trd lng="nl">Belgrado</trd>
   <trd lng="pl">Belgrad</trd>
   <trd lng="ru">&c_B;&c_je;&c_l;&c_g;&c_r;&c_a;&c_d;</trd>
@@ -36,6 +37,9 @@
 </art>
 <!--
 $Log: beograd.xml,v $
+Revision 1.15  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.14  2013/12/12 13:10:17  revo
 Damien Brucker: +trd fr
 

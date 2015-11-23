@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dat.xml,v 1.35 2014/01/14 02:10:23 revo Exp $">
+<art mrk="$Id: dat.xml,v 1.39 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dat</rad>/o <fnt><bib>PV</bib></fnt>
@@ -54,6 +54,8 @@
   <trd lng="sk">d&aacute;tum</trd>
   <trd lng="sv">datum</trd>
   <trd lng="tr">tarih</trd>
+  <trd lng="sk">dátum, údaj</trd>
+  <trd lng="sk">dátum, údaj</trd>
 </drv>
 
 <drv mrk="dat.0i">
@@ -69,6 +71,10 @@
   </snc>
   <trd lng="be">&c_d;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="br">deiziada&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>datovat</trd>,
+    <trd>opatřit datumem</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Zeitpunkt <ind>festlegen</ind></trd>,
     <trd>Zeitpunkt <ind>ausmachen</ind></trd>,
@@ -84,7 +90,10 @@
     <trd>(set a) <ind>date</ind></trd>,
     <trd>(assign a) <ind>date</ind></trd>
   </trdgrp>
-  <trd lng="es">fechar</trd>
+  <trdgrp lng="es">
+    <trd>fechar</trd>,
+    <trd>datar</trd>
+  </trdgrp>
   <trd lng="fr">dater<klr tip="ind"> (qc)</klr></trd>
   <trdgrp lng="hu">
     <trd>keltez</trd>,
@@ -146,6 +155,7 @@
     <trd>date from</trd>,
     <trd>begin on</trd>
   </trdgrp>
+  <trd lng="es">data (de)</trd>
   <trd lng="fr">dater (de)</trd>
   <trdgrp lng="hu">
     <trd>keltez&odblac;dik</trd>,
@@ -187,6 +197,7 @@
     <trd>soeben</trd>
   </trdgrp>
   <trd lng="en">recent</trd>
+  <trd lng="es">reciente</trd>
   <trd lng="fr">r&eacute;cent</trd>
   <trd lng="hu">friss <ind>keltez&eacute;s&udblac;</ind></trd>
   <trd lng="nl">recent</trd>
@@ -270,6 +281,7 @@
   </snc>
   <trd lng="de">aktualisieren</trd>
   <trd lng="en">update</trd>
+  <trd lng="es">actualizar</trd>
   <trd lng="fr">mettre <ind>&agrave; jour</ind></trd>
   <trdgrp lng="hu">
     <trd>friss&iacute;t</trd>,
@@ -304,8 +316,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">lhůta <klr>(konec období| termín)</klr></trd>
   <trd lng="en">deadline</trd>
+  <trd lng="es">fecha l&iacute;mite</trd>
   <trd lng="fr">date limite</trd>
+  <trdgrp lng="sk">
+    <trd>lehota</trd>,
+    <trd>termín</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dat.viv0oj">
@@ -326,6 +344,7 @@
   </snc>
   <trd lng="de">Lebensdaten</trd>
   <trd lng="en">birth and death dates</trd>
+  <trd lng="es">fechas de nacimiento y muerte</trd>
   <trd lng="fr">dates de naissance et de mort</trd>
   <trd lng="nl">levensdata</trd>
   <trd lng="pl">daty <klr>(urodzin i &sacute;mierci)</klr></trd>
@@ -345,6 +364,7 @@
   </snc>
   <trd lng="be">&c_g;&c_a;&c_d;&c_a;&c_v;&c_ib;&c_n;&c_a;</trd>
   <trd lng="br">deiz-ha-bloaz</trd>
+  <trd lng="cs">výročí</trd>
   <trdgrp lng="de">
     <trd>Jahrestag</trd>,
     <trd>Jubil&auml;um</trd>,
@@ -352,11 +372,11 @@
     <trd>Geburtstag</trd>,
     <trd>Gr&uuml;ndungstag</trd>
   </trdgrp>
+  <trd lng="en">anniversary</trd>
   <trdgrp lng="es">
     <trd>aniversario</trd>,
     <trd>efem&eacute;ride</trd>
   </trdgrp>
-  <trd lng="en">anniversary</trd>
   <trd lng="fr">anniversaire</trd>
   <trd lng="hu">&eacute;vfordul&oacute;</trd>
   <trd lng="nl">verjaardag</trd>
@@ -371,6 +391,18 @@
 </art>
 <!--
 $Log: dat.xml,v $
+Revision 1.39  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.38  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.37  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.36  2014/12/15 19:10:14  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.35  2014/01/14 02:10:23  revo
 Jeromo Vasxe: + lim~o
 
@@ -390,8 +422,5 @@ Revision 1.30  2009/03/04 17:30:38  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.29  2007/09/23 16:30:36  revo
-Tulio Flores: +tr pt
-
-Revision 1.28  2007/09/08 16:30:36  revo
 -->
 </vortaro>

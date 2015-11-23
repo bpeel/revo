@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jung.xml,v 1.20 2012/08/01 17:10:10 revo Exp $">
+<art mrk="$Id: jung.xml,v 1.22 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>jung</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -45,6 +45,7 @@
   </snc>
   <trd lng="be">&c_z;&c_a;&c_p;&c_r;&c_a;&c_g;&c_a;&c_c;&c_mol;</trd>
   <trd lng="br">sternia&ntilde;<klr tip="ind"> (loened-labour)</klr></trd>
+  <trd lng="cs">zapřáhnout</trd>
   <trdgrp lng="de">
     <trd>einspannen</trd>,
     <trd>anschirren</trd>
@@ -53,6 +54,7 @@
     <trd>harness</trd>,
     <trd>yoke</trd>
   </trdgrp>
+  <trd lng="es">aparejar (animales de tiro o carga)</trd>
   <trd lng="fr">atteler</trd>
   <trdgrp lng="hu">
     <trd>befog <klr tip="ind">(kocsiba)</klr></trd>,
@@ -64,11 +66,11 @@
     <trd>atrelar</trd>,
     <trd>jungir</trd>
   </trdgrp>
-  <trd lng="es">aparejar (animales de tiro o carga)</trd>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_p;&c_r;&c_ja;&c_g;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_p;&c_r;&c_ja;&c_ch;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">zapriahnuť</trd>
 </drv>
 
 <drv mrk="jung.0ilaro">
@@ -119,6 +121,8 @@
       <trd>&c_s;&c_b;&c_r;&c_u;&c_ja;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">postroj</trd>
+  <trd lng="sk">postroj</trd>
 </drv>
 
 <drv mrk="jung.0itaro">
@@ -129,9 +133,14 @@
     </dif>
   </snc>
   <trd lng="br">tenn<klr tip="ind"> (b.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>potah</trd>,
+    <trd>spřežení</trd>
+  </trdgrp>
   <trd lng="en">team</trd>
   <trd lng="fr">attelage<klr tip="ind"> (animaux attel&eacute;s)</klr></trd>
   <trd lng="ru">&c_u;&c_p;&c_r;&c_ja;&c_zh;&c_k;&c_a;</trd>
+  <trd lng="sk">záprah</trd>
 </drv>
 
 <drv mrk="jung.mal0i">
@@ -147,15 +156,23 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">vypřáhnout</trd>
   <trdgrp lng="en">
     <trd>unharness</trd>,
     <trd>unyoke</trd>
   </trdgrp>
   <trd lng="fr">d&eacute;teler</trd>
+  <trd lng="sk">vypriahnuť</trd>
 </drv>
 </art>
 <!--
 $Log: jung.xml,v $
+Revision 1.22  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2012/08/01 17:10:10  revo
 Jeromo Vasxe: ~ilaro + ref sin + trd el sin
 

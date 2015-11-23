@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: telekopi.xml,v 1.12 2008/06/16 16:54:05 revo Exp $">
+<art mrk="$Id: telekopi.xml,v 1.14 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>telekopi</rad>/o
 </kap>
@@ -26,6 +26,10 @@
   &c_p;&c_a;&c_v;&c_je;&c_d;&c_a;&c_m;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;
     </trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>fax</trd>,
+    <trd>kopie</trd>
+  </trdgrp>
   <trd lng="de">Fax</trd>
   <trdgrp lng="fr">
     <trd>fax<klr tip="ind"> (t&eacute;l&eacute;copie)</klr></trd>,
@@ -40,6 +44,10 @@
   </trdgrp>
   <trd lng="ru">&c_f;&c_a;&c_k;&c_s; <klr tip="amb">
   (&c_s;&c_o;&c_o;&c_b;&c_shch;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>fax</trd>,
+    <trd>kópia</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="telekopi.0i">
@@ -58,6 +66,7 @@
   </ekz>
   </snc>
   <trd lng="be">&c_f;&c_a;&c_k;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">faxovat</trd>
   <trd lng="de">faxen</trd>
   <trdgrp lng="fr">
     <trd>faxer</trd>,
@@ -75,6 +84,7 @@
   </trdgrp>
   <trd lng="ru">&c_s;&c_l;&c_a;&c_t;&c_mol;
   <ind>&c_f;&c_a;&c_k;&c_s;</ind></trd>
+  <trd lng="sk">faxovať</trd>
 </drv>
 
 <drv mrk="telekopi.0ilo">
@@ -107,6 +117,7 @@
     <trd>&c_f;&c_a;&c_k;&c_s;&c_a;&c_v;&c_y;
     &c_a;&c_p;&c_a;&c_r;&c_a;&c_t;</trd>
   </trdgrp>
+  <trd lng="cs">fax <klr>(přístroj)</klr></trd>
   <trd lng="de">Faxger&auml;t</trd>
   <trdgrp lng="fr">
     <trd>fax<klr tip="ind"> (t&eacute;l&eacute;copieur)</klr></trd>,
@@ -121,10 +132,17 @@
   </trdgrp>
   <trd lng="ru">&c_f;&c_a;&c_k;&c_s;
   <klr tip="amb">(&c_a;&c_p;&c_p;&c_a;&c_r;&c_a;&c_t;)</klr></trd>
+  <trd lng="sk">fax <klr>(prístroj)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: telekopi.xml,v $
+Revision 1.14  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2008/06/16 16:54:05  revo
 Sebastian Cyprych: +trd pl
 

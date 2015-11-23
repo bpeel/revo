@@ -2,13 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arhxitektur.xml,v 1.6 2014/01/29 02:10:13 revo Exp $">
+<art mrk="$Id: arhxitektur.xml,v 1.8 2015/01/16 09:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ar&hcirc;itektur</rad>/o
 </kap>
 <drv mrk="arhxitektur.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">ARKI</uzo>
   <ref tip="dif" cel="arkite1.0o">arkitekturo</ref>
   <ekz>
     &ccirc;i tiuj gigantaj laboroj postulis, krom konoj de la astronomio,
@@ -23,6 +25,7 @@
           <bib>Monato</bib>, <lok>2003</lok>
         </fnt>.
   </ekz>
+  </snc>
   <trd lng="be">&c_a;&c_r;&c_h;&c_ib;&c_t;&c_e;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>  
   <trdgrp lng="br">      
     <trd>adeiladouriezh</trd>,    
@@ -38,6 +41,7 @@
     <trd>&eacute;p&iacute;t&odblac;m&udblac;v&eacute;szet</trd>,
     <trd>architekt&uacute;ra</trd>
   </trdgrp>
+  <trd lng="id">arsitektur</trd>
   <trd lng="pl">architektura</trd>
   <trd lng="ru">&c_a;&c_r;&c_h;&c_i;&c_t;&c_je;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>
   <trd lng="sv">arkitektur</trd>
@@ -45,11 +49,14 @@
 
 <drv mrk="arhxitektur.0isto">
   <kap><tld/>isto</kap>
+  <snc>
+  <uzo tip="fak">ARKI</uzo>
   <ref tip="dif" cel="arkite1.0isto">arkitekturisto</ref>
   <ekz>
     mi ricevos oficon en la oficejo de la <tld/>isto de la urbo Varsovio
     <fnt><bib>Marta</bib></fnt>.
   </ekz>
+  </snc>
   <trd lng="be">&c_a;&c_r;&c_h;&c_ib;&c_t;&c_e;&c_k;&c_t;&c_a;&c_r;</trd>
   <trdgrp lng="br">      
     <trd>adeiladour</trd>,    
@@ -69,6 +76,7 @@
     <trd>&eacute;p&iacute;t&odblac;m&udblac;v&eacute;sz</trd>,
     <trd>&eacute;p&iacute;t&eacute;sz</trd>
   </trdgrp>
+  <trd lng="id">arsitek</trd>
   <trd lng="pl">architekt</trd>
   <trd lng="ru">&c_a;&c_r;&c_h;&c_i;&c_t;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
   <trd lng="sk">architekt</trd>
@@ -78,6 +86,12 @@
 
 <!--
 $Log: arhxitektur.xml,v $
+Revision 1.8  2015/01/16 09:10:14  revo
+Damien Brucker: +fak
+
+Revision 1.7  2014/11/13 10:10:18  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.6  2014/01/29 02:10:13  revo
 Sergio Pokrovskij: +ekz
 
@@ -94,7 +108,5 @@ Revision 1.2  2005/04/18 16:31:57  revo
 Alan ar Gall: +trd br
 
 Revision 1.1  2004/09/29 16:31:42  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

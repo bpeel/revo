@@ -2,19 +2,21 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: salajr.xml,v 1.23 2014/06/13 20:10:24 revo Exp $">
+<art mrk="$Id: salajr.xml,v 1.26 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>salajr</rad>/o
+  <rad>salajr</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="salajr.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <snc>
+  <snc mrk="salajr.0o.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
       Mono periode pagata al dungito por servado, laboro, ofico:
-      <ekz>grandi&gcirc;is la infanaro kaj estis nesufi&ccirc;a la <tld/>o
-      <fnt><bib>VivZam</bib> <lok>&ccirc;apitro 2a, p. 23a</lok></fnt>.</ekz>
+      <ekz>
+        grandi&gcirc;is la infanaro kaj estis nesufi&ccirc;a la <tld/>o
+        <fnt><bib>VivZam</bib> <lok>&ccirc;apitro 2a, p. 23a</lok></fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="honora.0o">honorario</ref>
@@ -29,6 +31,11 @@
     <trd>salari</trd>,
     <trd>sou</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>mzda</trd>,
+    <trd>odměna za práci</trd>,
+    <trd>plat</trd>
+  </trdgrp>
   <trdgrp lng="de">
       <trd>Gehalt</trd>,
       <trd>Sal&auml;r<klr> [ark]</klr></trd>
@@ -38,9 +45,7 @@
     <trd>wages</trd>
   </trdgrp>
   <trd lng="es">salario</trd>
-  <trdgrp lng="fr">
-    <trd>salaire</trd>
-  </trdgrp>
+  <trd lng="fr">salaire</trd>
   <trdgrp lng="hu">
     <trd>b&eacute;r</trd>,
     <trd>fizet&eacute;s</trd>,
@@ -63,11 +68,19 @@
     <trd>&c_z;&c_a;&c_r;&c_p;&c_l;&c_a;&c_t;&c_a;</trd>,
     <trd>&c_zh;&c_a;&c_l;&c_o;&c_v;&c_a;&c_n;&c_mol;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mzda</trd>,
+    <trd>plat</trd>,
+    <trd>pláca</trd>,
+    <trd>služné</trd>,
+    <trd>výplata</trd>,
+    <trd>zárobok</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="salajr.0ulo">
   <kap><tld/>ulo</kap>
-  <snc>
+  <snc mrk="salajr.0ulo.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
       Homo ricevanta <tld/>on.
@@ -75,6 +88,10 @@
   </snc>
   <trd lng="be">&c_n;&c_a;&c_jo;&c_m;&c_n;&c_y; &c_p;&c_r;&c_a;&c_c;&c_a;&c_w;&c_n;&c_ib;&c_k;</trd>
   <trd lng="ca">assalariat</trd>
+  <trdgrp lng="cs">
+    <trd>námezdní pracovník</trd>,
+    <trd>zaměstnanec</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Angestellter</trd>,
     <trd>Gehaltsempf&auml;nger</trd>
@@ -84,9 +101,7 @@
     <trd>employee</trd>
   </trdgrp>
   <trd lng="es">asalariado</trd>
-  <trdgrp lng="fr">
-    <trd>salari&eacute;<klr> (subst.)</klr></trd>
-  </trdgrp>
+  <trd lng="fr">salari&eacute;<klr> (subst.)</klr></trd>
   <trdgrp lng="hu">
     <trd>b&eacute;rmunk&aacute;s</trd>,
     <trd>fizet&eacute;sb&odblac;l &eacute;l&odblac;</trd>,
@@ -105,12 +120,13 @@
     <trd>&c_n;&c_a;&c_jo;&c_m;&c_n;&c_y;&c_j; &c_r;&c_a;&c_b;&c_o;&c_t;&c_n;&c_i;&c_k;</trd>,
     <trd>&c_s;&c_l;&c_u;&c_zh;&c_a;&c_shch;&c_i;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">námezdný pracovník</trd>
 </drv>
 
 <drv mrk="salajr.0i">
   <kap><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="salajr.0i.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
       Doni <tld/>on al iu:
@@ -131,6 +147,10 @@
     <trd>pagar el sou</trd>,
     <trd>assalariar</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>platit mzdu</trd>,
+    <trd>vyplácet mzdu</trd>
+  </trdgrp>
   <trd lng="de">bezahlen</trd>
   <trdgrp lng="en">
     <trd>pay a salary</trd>,
@@ -140,22 +160,62 @@
     <trd>pagar un salario</trd>,
     <trd>asalariar</trd>
   </trdgrp>
-  <trdgrp lng="fr">
-    <trd>salarier</trd>
-  </trdgrp>
+  <trd lng="fr">salarier</trd>
   <trd lng="hu">fizet<klr tip="ind"> (b&eacute;rt)</klr></trd>
+  <trd lng="id">[<ind>gaji</ind>] menggaji</trd>
   <trdgrp lng="it">
     <trd>salariare</trd>,
     <trd>stipendiare</trd>, 
     <trd>retribuire</trd>
   </trdgrp>
-  <trd lng="id">[<ind>gaji</ind>] menggaji</trd>
   <trd lng="nl">salari&euml;ren</trd>
   <trd lng="ru">&c_p;&c_l;&c_a;&c_t;&c_i;&c_t;&c_mol; &c_z;&c_a;&c_r;&c_p;&c_l;&c_a;&c_t;&c_u;</trd>
+  <trd lng="sk">dávať mzdu</trd>
+</drv>
+
+<drv mrk="salajr.krom0o">
+  <kap>krom<tld/>o</kap>
+  <snc mrk="salajr.krom0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Ekstra pago ordinare kalkulata la&ubreve; 
+      interkonsento;
+      <ref tip="sin" cel="bonifik.0o.EKON">bonifiko</ref>:
+      <ekz>
+        la regula novjara krom<tld/>o estos du j&ubreve;anoj
+        <fnt>
+          <aut>Lao She, trad. Wang Chongfang</aut>,
+          <vrk><url
+          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
+          Kamelo &Scirc;jangzi</url></vrk>,
+          <lok>1988</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>odměna</trd>,
+    <trd>prémie</trd>,
+    <trd>příplatek ke mzdě</trd>
+  </trdgrp>
+  <trd lng="fr">prime<klr> (compl&eacute;ment de salaire)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>odmena</trd>,
+    <trd>prémie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: salajr.xml,v $
+Revision 1.26  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2014/12/20 21:10:16  revo
+Jeromo Vasxe: + krom~o
+
 Revision 1.23  2014/06/13 20:10:24  revo
 Eko Nur Syah Hidayat: +id
 
@@ -175,8 +235,5 @@ Revision 1.18  2009/06/11 16:30:16  revo
 Russ Williams: +trd en
 
 Revision 1.17  2006/02/07 17:31:10  revo
-Tulio Flores: +trd pt
-
-Revision 1.16  2005/09/07 16:31:15  revo
 -->
 </vortaro>

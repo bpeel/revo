@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: manife1.xml,v 1.18 2014/01/30 10:10:13 revo Exp $">
+<art mrk="$Id: manife1.xml,v 1.20 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>manifestaci</rad>/o <fnt><bib>PV</bib></fnt>
@@ -32,6 +32,7 @@
   lng="bg">&c_m;&c_a;&c_n;&c_i;&c_f;&c_je;&c_s;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>
   <trd lng="br">manifestadeg</trd>
   <trd lng="ca">manifestaci&oacute;</trd>
+  <trd lng="cs">manifestace</trd>
   <trd lng="de">Demonstration</trd>
   <trd lng="en">demonstration</trd>
   <trd lng="es">manifestaci&oacute;n</trd>
@@ -51,10 +52,20 @@
     <trd>&c_m;&c_a;&c_n;&c_i;&c_f;&c_je;&c_s;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>,
     <trd>&c_d;&c_je;&c_m;&c_o;&c_n;&c_s;&c_t;&c_r;&c_a;&c_c;&c_i;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd><klr>(zhromaždenie)</klr></trd>,
+    <trd>manifestácia</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: manife1.xml,v $
+Revision 1.20  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2014/01/30 10:10:13  revo
 Bart Demeyere: +trd nl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: amput.xml,v 1.18 2012/08/04 17:10:11 revo Exp $">
+<art mrk="$Id: amput.xml,v 1.19 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>amput</rad>/i
@@ -23,6 +23,10 @@
   </snc>
   <trd lng="be">&c_a;&c_m;&c_p;&c_u;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">amputar</trd>
+  <trdgrp lng="cs">
+    <trd>amputovat</trd>,
+    <trd>odejmout</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>amputieren</trd>,
     <trd>abschneiden</trd>,
@@ -39,6 +43,9 @@
 </art>
 <!--
 $Log: amput.xml,v $
+Revision 1.19  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.18  2012/08/04 17:10:11  revo
 Marc Rausell: + trd ca
 

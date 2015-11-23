@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: soif.xml,v 1.17 2013/04/21 18:10:12 revo Exp $">
+<art mrk="$Id: soif.xml,v 1.19 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>soif</rad>/i <fnt><bib>PV</bib></fnt>
@@ -73,10 +73,18 @@
     <trd>&c_s;&c_m;&c_a;&c_g;&c_n;&c_u;&c_c;&c_mol;</trd>,
     <trd>&c_h;&c_a;&c_c;&c_je;&c_c;&c_mol; &c_p;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="cs">&zcaron;&iacute;znit</trd>
+  <trdgrp lng="cs">
+    <trd>&zcaron;&iacute;znit</trd>,
+    <trd>prahnout</trd>
+  </trdgrp>
   <trd lng="en">thirst</trd>
   <trd lng="fr">avoir <ind>soif</ind></trd>
   <trd lng="nl">dorst hebben</trd>
+  <trdgrp lng="sk">
+    <trd>byť smädný</trd>,
+    <trd>prahnúť</trd>,
+    <trd>smädiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="soif.0a">
@@ -86,6 +94,7 @@
       <tld lit="S"/>anta.
     </dif>
   </snc>
+  <trd lng="cs">žíznivý</trd>
   <trd lng="de">durstig</trd>
   <trd lng="en">thirsty</trd>
   <trd lng="es">sediento</trd>
@@ -101,10 +110,17 @@
     <trd>chc&aogonek;cy <ind>pi&cacute;</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_zh;&c_a;&c_zh;&c_d;&c_u;&c_shch;&c_i;&c_j;</trd>
+  <trd lng="sk">smädný</trd>
 </drv>
 </art>
 <!--
 $Log: soif.xml,v $
+Revision 1.19  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/04/21 18:10:12  revo
 Sebastian Cyprych: +trd pl
 

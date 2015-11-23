@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: faraon.xml,v 1.16 2012/08/28 12:10:09 revo Exp $">
+<art mrk="$Id: faraon.xml,v 1.18 2015/07/04 08:37:34 revo Exp $">
 <kap>
 <rad>faraon</rad>/o
 <fnt>Z</fnt>
@@ -18,6 +18,10 @@
   </snc>
   <trd lng="be">&c_f;&c_a;&c_r;&c_a;&c_o;&c_n;</trd>
   <trd lng="ca">fara&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>farao</trd>,
+    <trd>faraon</trd>
+  </trdgrp>
   <trd lng="de">Pharao</trd>
   <trd lng="en">pharaoh</trd>
   <trd lng="es">fara&oacute;n</trd>
@@ -27,10 +31,17 @@
   <trd lng="pl">faraon</trd>
   <trd lng="pt">fara&oacute;</trd>
   <trd lng="ru">&c_f;&c_a;&c_r;&c_a;&c_o;&c_n;</trd>
+  <trd lng="sk">faraón</trd>
 </drv>
 </art>
 <!--
 $Log: faraon.xml,v $
+Revision 1.18  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2012/08/28 12:10:09  revo
 Sebastian Cyprych: +trd pl; -rim -adm +ref Egiptujo
 

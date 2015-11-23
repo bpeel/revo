@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: orkest.xml,v 1.19 2014/06/16 16:10:13 revo Exp $">
+<art mrk="$Id: orkest.xml,v 1.21 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>1</ofc> <rad>orkestr</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -25,6 +25,10 @@
   </snc>
   <trd lng="be">&c_a;&c_r;&c_k;&c_je;&c_s;&c_t;&c_a;&c_r;</trd>
   <trd lng="bg">&c_o;&c_r;&c_k;&c_je;&c_s;&c_t;&c_malmol;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>kapela</trd>,
+    <trd>orchestr</trd>
+  </trdgrp>
   <trd lng="de">Orchester</trd>
   <trd lng="el">&omikron;&rho;&chi;&eta_ton;&sigma;&tau;&rho;&alfa;</trd>
   <trd lng="en">orchestra</trd>
@@ -37,6 +41,7 @@
   <trd lng="nl">orkest</trd>
   <trd lng="pt">orquestra</trd>
   <trd lng="ru">&c_o;&c_r;&c_k;&c_je;&c_s;&c_t;&c_r;</trd>
+  <trd lng="sk">1.orchester; 2.miesto zboru v antickom gréckom divadle; 3.miesto medzi orchestrom a parterom</trd>
 </drv>
 
 <drv mrk="orkest.0ejo">
@@ -85,6 +90,12 @@
 </art>
 <!--
 $Log: orkest.xml,v $
+Revision 1.21  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/06/16 16:10:13  revo
 Eko Nur Syah Hidayat: +id
 

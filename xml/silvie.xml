@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: silvie.xml,v 1.10 2013/08/31 08:11:30 revo Exp $">
+<art mrk="$Id: silvie.xml,v 1.12 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>silvied</rad>/oj
 </kap>
@@ -20,6 +20,7 @@
   </snc>
   <trd lng="be">&c_v;&c_a;&c_l;&c_a;&c_s;&c_ja;&c_n;&c_k;&c_a;&c_v;&c_y;&c_ja; <klr
   tip="amb">(&c_s;&c_ja;&c_m;'&c_ja;)</klr></trd>
+  <trd lng="cs">pěnicovití <klr>(čeleď)</klr></trd>
   <trd lng="de">Grasm&uuml;cken<klr tip="ind"> (Familie)</klr></trd>
   <trd lng="fr">fauvettes<klr> (famille)</klr></trd>
   <trd lng="hu">posz&aacute;taf&eacute;l&eacute;k</trd>
@@ -28,11 +29,18 @@
   (fam.)</klr></trd>
   <trd lng="ru">&c_s;&c_l;&c_a;&c_v;&c_k;&c_o;&c_v;&c_y;&c_je; <klr
   tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  <trd lng="sk">penicovité</trd>
   <trd lng="sv">s&aring;ngare</trd>
 </drv>
 </art>
 <!--
 $Log: silvie.xml,v $
+Revision 1.12  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2013/08/31 08:11:30  revo
 Wolfram Diestel: referenco al listozoo familioj
 

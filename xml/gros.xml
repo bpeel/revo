@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gros.xml,v 1.23 2013/08/29 12:10:16 revo Exp $">
+<art mrk="$Id: gros.xml,v 1.25 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>gros</rad>/o <fnt><bib>PV</bib></fnt>
@@ -34,6 +34,11 @@
   <trd lng="pl">agrest</trd>
   <trd lng="pt">groselha</trd>
   <trd lng="ru">&c_k;&c_r;&c_y;&c_zh;&c_o;&c_v;&c_n;&c_i;&c_k; <klr>(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+  <trd lng="sk">egreš</trd>
+  <trdgrp lng="cs">
+    <trd>angrešt</trd>,
+    <trd>srstka <klr>(keř)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gros.0ujo">
@@ -52,6 +57,10 @@
   </snc>
   <trd lng="be">&c_a;&c_g;&c_r;&c_e;&c_s;&c_t; <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
   <trd lng="ca">agrass&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>angrešt</trd>,
+    <trd>srstka <klr>(keř)</klr></trd>
+  </trdgrp>
   <trd lng="de">Stachelbeerstrauch</trd>
   <trd lng="en">gooseberry</trd>
   <trd lng="fa">&a_d;&a_r;&a_kh;&a_t;&f_ch;&a_h;&a_hamza_sure; <ind>&f_g;&a_A;&a_l;&a_sh;&zwnj;&a_A;&a_n;&f_g;&a_w;&a_r;</ind></trd>
@@ -60,10 +69,17 @@
   <trd lng="pl">agrest<klr> (krzew)</klr></trd>
   <trd lng="pt">groselheira</trd>
   <trd lng="ru">&c_k;&c_r;&c_y;&c_zh;&c_o;&c_v;&c_n;&c_i;&c_k; <klr>(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trd lng="sk">egreš  <klr>(stromček)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: gros.xml,v $
+Revision 1.25  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2013/08/29 12:10:16  revo
 Wolfram Diestel: referenco al listo bot specioj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ruterfordi.xml,v 1.13 2014/09/02 12:10:11 revo Exp $">
+<art mrk="$Id: ruterfordi.xml,v 1.15 2015/07/04 08:37:43 revo Exp $">
 <kap>
 <rad>ruterfordi</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -29,6 +29,10 @@
     </rim>
   </snc>
   <trd lng="bg">&c_r;&c_malmol;&c_d;&c_malmol;&c_r;&c_f;&c_o;&c_r;&c_d;&c_i;&c_j;</trd>
+  <trdgrp lng="cs">
+    <trd>Rf</trd>,
+    <trd>rutherfordium</trd>
+  </trdgrp>
   <trd lng="de">Rutherfordium</trd>
   <trd lng="en">rutherfordium</trd>
   <trd lng="fr">rutherfordium</trd>
@@ -39,12 +43,22 @@
   <trd lng="nl">rutherfordium</trd>
   <trd lng="pl">rutherford</trd>
   <trd lng="pt">rutherf&oacute;rdio</trd>
+  <trdgrp lng="sk">
+    <trd>Rf</trd>,
+    <trd>rutherfordium</trd>
+  </trdgrp>
   <trd lng="sv">rutherfordium</trd>
 </drv>
 </art>
 
 <!--
 $Log: ruterfordi.xml,v $
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2014/09/02 12:10:11  revo
 Damien Brucker: +trd fr
 

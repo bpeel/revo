@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: akcent.xml,v 1.33 2014/06/29 08:10:10 revo Exp $">
+<art mrk="$Id: akcent.xml,v 1.35 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>akcent</rad>/o
 </kap>
@@ -80,27 +80,37 @@
     <trd lng="sv">betoning</trd>
     <trd lng="pt">&ecirc;nfase</trd>
   </snc>
-  <trd lng="cs">p&rcaron;&iacute;zvuk</trd>
+  <trdgrp lng="cs">
+    <trd>akcent</trd>,
+    <trd>důraz</trd>,
+    <trd>p&rcaron;&iacute;zvuk</trd>,
+    <trd>přízvuk</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>accent</trd>,
     <trd>emphasis</trd>,
     <trd>stress</trd>
   </trdgrp>
   <trd lng="es">acento</trd>
+  <trd lng="fr">accent<klr tip="ind"> (tonique,
+  d'insistance)</klr></trd>
   <trd lng="hu">nyomat&eacute;k</trd>
   <trdgrp lng="id">
       <trd>aksen</trd>,
       <trd><ind>tekan</ind>an</trd>
   </trdgrp>
-  <trd lng="fr">accent<klr tip="ind"> (tonique,
-  d'insistance)</klr></trd>
   <trdgrp lng="pl">
     <trd>akcent</trd>,
     <trd>nacisk</trd>
   </trdgrp>
   <trd lng="pt">acento</trd>
   <trd lng="ru">&c_u;&c_d;&c_a;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
-  <trd lng="sk">d&ocirc;raz</trd>
+  <trdgrp lng="sk">
+    <trd>akcent</trd>,
+    <trd>d&ocirc;raz</trd>,
+    <trd>dôraz</trd>,
+    <trd>prízvuk; zdôraznenie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akcent.0i">
@@ -178,6 +188,12 @@ folio</url>, 2005-12-03</lok>
     <trd lng="nl">beklemtonen</trd>
     <trd lng="pt">enfatizar</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>akcentovat</trd>,
+    <trd>klást důraz</trd>,
+    <trd>potrpět si</trd>,
+    <trd>zdůrazňovat</trd>
+  </trdgrp>
   <trd lng="de">hervorheben</trd>
   <trdgrp lng="en">
     <trd>accent</trd>,
@@ -194,7 +210,12 @@ folio</url>, 2005-12-03</lok>
     <trd>&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol;
 <ind>&c_u;&c_d;&c_a;&c_r;&c_je;&c_n;&c_i;&c_je;</ind></trd>
   </trdgrp>
-  <trd lng="sk">zd&ocirc;razni&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>akcentovať</trd>,
+    <trd>klásť dôraz</trd>,
+    <trd>zd&ocirc;razni&tcaron;</trd>,
+    <trd>zdôrazniť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akcent.0a">
@@ -225,6 +246,10 @@ folio</url>, 2005-12-03</lok>
     <trd>pouezmouezhiet</trd>,
     <trd>taolmouezhiet</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>přízvučný</trd>,
+    <trd>zdůrazněný</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>betont</trd>,
     <trd><klr>den </klr>Akzent <ind>tragend</ind></trd>
@@ -246,7 +271,10 @@ folio</url>, 2005-12-03</lok>
     <trd>t&ocirc;nico</trd>
   </trdgrp>
   <trd lng="ru">&c_u;&c_d;&c_a;&c_r;&c_n;&c_y;&c_j;</trd>
-  <trd lng="sk">pr&iacute;zvu&ccaron;n&yacute;</trd>
+  <trdgrp lng="sk">
+    <trd>pr&iacute;zvu&ccaron;n&yacute;</trd>,
+    <trd>zdôraznený</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akcent.duon0a">
@@ -513,6 +541,12 @@ m&aacute;lkonf&iacute;do</ctl><fnt>Z</fnt>;
 </art>
 <!--
 $Log: akcent.xml,v $
+Revision 1.35  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.34  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.33  2014/06/29 08:10:10  revo
 Eko Nur Syah Hidayat: +id
 

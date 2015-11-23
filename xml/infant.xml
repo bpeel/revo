@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: infant.xml,v 1.16 2010/06/06 16:30:47 revo Exp $">
+<art mrk="$Id: infant.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>infanteri</rad>/o
@@ -17,6 +17,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_ja;&c_h;&c_o;&c_t;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>infanterie</trd>,
+    <trd>pěchota</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Infanterie</trd>,
      <trd>Fu&szlig;truppen</trd>
@@ -29,6 +33,7 @@
   <trd lng="nl">infanterie</trd>
   <trd lng="pt">infantaria<klr tip="amb"> (militar)</klr></trd>
   <trd lng="ru">&c_p;&c_je;&c_h;&c_o;&c_t;&c_a;</trd>
+  <trd lng="sk">pechota</trd>
   <trd lng="sv">infanteri</trd>
 </drv>
 
@@ -41,6 +46,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_je;&c_h;&c_a;&c_c;&c_ib;&c_n;&c_je;&c_c;</trd>
+  <trdgrp lng="cs">
+    <trd>infanterista</trd>,
+    <trd>pěšák</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Infanterist</trd>,
      <trd>Fu&szlig;soldat</trd>
@@ -58,11 +67,18 @@
    <trd>infante<klr tip="amb"> (militar)</klr></trd> 
   </trdgrp>
   <trd lng="ru">&c_p;&c_je;&c_h;&c_o;&c_t;&c_i;&c_n;&c_je;&c_c;</trd>
+  <trd lng="sk">pešiak</trd>
   <trd lng="sv">infanterist</trd>
 </drv>
 </art>
 <!--
 $Log: infant.xml,v $
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2010/06/06 16:30:47  revo
 Antonio Codazzi: +trd it
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: auxtom.xml,v 1.24 2013/11/30 18:10:15 revo Exp $">
+<art mrk="$Id: auxtom.xml,v 1.25 2015/07/04 16:10:15 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>a&ubreve;tomat</rad>/o <fnt><bib>PV</bib></fnt>
@@ -255,10 +255,15 @@
     </dif>
   </snc>
   <trd lng="fr">distributeur de billets</trd>
+  <trd lng="pl">bankomat</trd>
+  <trd lng="ro">bancomat</trd>
 </drv>
 </art>
 <!--
 $Log: auxtom.xml,v $
+Revision 1.25  2015/07/04 16:10:15  revo
+Vito Redsky: +trd pl ro
+
 Revision 1.24  2013/11/30 18:10:15  revo
 Jeromo Vasxe: fak mas
 
@@ -278,8 +283,5 @@ Revision 1.19  2009/01/27 17:30:19  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.18  2006/07/18 16:31:09  revo
-Eduardo Navas: +trd es
-
-Revision 1.17  2003/11/17 08:33:39  revo
 -->
 </vortaro>

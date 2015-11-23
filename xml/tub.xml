@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: tub.xml,v 1.25 2011/12/02 11:10:12 revo Exp $">
+<art mrk="$Id: tub.xml,v 1.29 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tub</rad>/o <fnt><bib>PV</bib></fnt>
@@ -46,6 +46,18 @@
         estas cigaringo<fnt>Z</fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="ru">
+      <trd>&c_t;&c_r;&c_u;&c_b;&c_a;</trd>,
+      <trd>&c_t;&c_r;&c_u;&c_b;&c_k;&c_a;</trd>,
+      <trd>&c_sh;&c_l;&c_a;&c_n;&c_g;</trd>,
+      <trd>&c_t;&c_ju;&c_b;&c_i;&c_k;</trd>
+    </trdgrp>
+    </snc>
+  <snc mrk="tub.0o.RAD">
+    <uzo tip="fak">RAD</uzo>
+    <ref cel="tub.vaku0o">vaku<tld/>o</ref>
+    <trd lng="en">vacuum tube</trd>
+    <trd lng="ru">&c_r;&c_a;&c_d;&c_i;&c_o;&c_l;&c_a;&c_m;&c_p;&c_a;</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_t;&c_r;&c_u;&c_b;&c_a;</trd>,
@@ -61,6 +73,13 @@
     <trd>tub</trd>,
     <trd>canonada</trd>,
     <trd>can&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hlaveň</trd>,
+    <trd>roura</trd>,
+    <trd>trouba</trd>,
+    <trd>trubice</trd>,
+    <trd>trubka</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Rohr</trd>,
@@ -78,11 +97,9 @@
     <trd>tuba</trd>,
     <trd>przew&oacute;d</trd>
   </trdgrp>
-  <trdgrp lng="ru">
-    <trd>&c_t;&c_r;&c_u;&c_b;&c_a;</trd>,
-    <trd>&c_t;&c_r;&c_u;&c_b;&c_k;&c_a;</trd>,
-    <trd>&c_sh;&c_l;&c_a;&c_n;&c_g;</trd>,
-    <trd>&c_t;&c_ju;&c_b;&c_i;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>rúra</trd>,
+    <trd>trubica</trd>
   </trdgrp>
 </drv>
 
@@ -107,10 +124,48 @@
     <trd>kanalarz<klr> (pot.)</klr></trd>
   </trdgrp>
   <trdgrp lng="ru">
-    <trd>
-    &c_v;&c_o;&c_d;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_ch;&c_i;&c_k;
-    </trd>,
+    <trd>&c_v;&c_o;&c_d;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_ch;&c_i;&c_k;</trd>,
     <trd>&c_s;&c_a;&c_n;&c_t;&c_je;&c_h;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tub.bildo0o">
+  <kap>bildo<tld/>o<fnt>PIV1</fnt></kap>
+  <snc mrk="tub.bildo0o.RAD">
+    <uzo tip="fak">RAD</uzo>
+    <dif>
+      Granda <ref tip="super" cel="tub.vaku0o">vaku<tld/>o</ref> kun
+      <ref cel="ekran.0o.vidiga">ekrano<sncref/></ref>,
+      en malnova televida ricevilo a&ubreve; komputila vidigilo, en kiu la
+      ricevita bildo estas videbligata per katodaj radioj:
+      <ekz>
+        Adriano tuj saltis anta&ubreve;en por turnile malaltigi la helecon por 
+        protekti la bild<tld/>on
+        <fnt>
+          <aut>PEJNO Simono</aut>:
+          <vrk><url
+ref="http://ourworld.compuserve.com/homepages/profcon/e_konjak.htm"
+              >&Ccirc;u vi volas konjakon?</url></vrk>
+        </fnt>;
+      </ekz><ekz>
+        En kolortelevidila bildo<tld/>o estas tri kanonoj
+        <fnt>
+          <aut>Griza Leono</aut>:
+          <vrk><url
+ref="http://www.eventoj.hu/steb/ingxenierado/telekomuniko/kiel-funkcias-televido.pdf"
+          >Kiel funkcias televido?</url></vrk>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>picture tube</trd>,
+    <trd>CRT</trd>,
+    <trd>cathode-ray tube</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_i;&c_n;&c_je;&c_s;&c_k;&c_o;&c_p;</trd>,
+    <trd>&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_n;&c_o;-&c_l;&c_u;&c_ch;&c_je;&c_v;&c_a;&c_ja; &c_t;&c_r;&c_u;&c_b;&c_k;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -169,6 +224,7 @@
   <trd lng="be">&c_k;&c_o;&c_m;&c_ib;&c_n;</trd>
   <trd lng="br">siminal</trd>
   <trd lng="ca">xemeneia</trd>
+  <trd lng="cs">komín</trd>
   <trd lng="de">Schornstein</trd>
   <trd lng="en">chimney</trd>
   <trdgrp lng="fr">
@@ -184,6 +240,10 @@
   <trdgrp lng="ru">
     <trd>&c_d;&c_y;&c_m;&c_o;&c_v;&c_a;&c_ja; &c_t;&c_r;&c_u;&c_b;&c_a;</trd>,
     <trd>&c_p;&c_je;&c_ch;&c_n;&c_a;&c_ja; &c_t;&c_r;&c_u;&c_b;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dymovod kozuba</trd>,
+    <trd>komín</trd>
   </trdgrp>
 </drv>
 
@@ -213,6 +273,28 @@
   <trd lng="fr">ramoneur</trd>
   <trd lng="pl">kominiarz</trd>
   <trd lng="ru">&c_t;&c_r;&c_u;&c_b;&c_o;&c_ch;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">kominár</trd>
+  <trd lng="cs">kominík</trd>
+</drv>
+
+<drv mrk="tub.pantalon0o">
+  <kap>pantalon<tld/>o</kap>
+  <snc mrk="tub.pantalon0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <ref tip="dif" cel="krur.0umo.TEKS">krurumo</ref>
+      <ekz>
+        &scirc;i formetis siajn &scirc;uojn kaj &scirc;trumpetojn kaj 
+        suprenrulis siajn pantalon<tld/>ojn &gcirc;isgenue
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trd lng="cs">nohavice</trd>
+  <trd lng="fr">jambe de pantalon</trd>
+  <trd lng="sk">nohavica</trd>
 </drv>
 
 <drv mrk="tub.prov0o">
@@ -233,6 +315,7 @@
     <trd><ind>tub</ind> d'assaig</trd>,
     <trd>proveta</trd>
   </trdgrp>
+  <trd lng="cs">zkumavka</trd>
   <trdgrp lng="fr">
     <trd>&eacute;prouvette</trd>,
     <trd>tube &agrave; essai</trd>
@@ -244,10 +327,62 @@
   <trd lng="nl">proefbuis</trd>
   <trd lng="pl">prob&oacute;wka</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_b;&c_i;&c_r;&c_k;&c_a;</trd>
+  <trd lng="sk">skúmavka</trd>
 </drv>
+
+<drv mrk="tub.vaku0o">
+  <kap>vaku<tld/>o</kap>
+  <snc mrk="tub.vaku0o.RAD">
+    <uzo tip="fak">RAD</uzo>
+    <dif>
+      Elektronika aran&gcirc;a&jcirc;o (ne plu uzata), vitra a&ubreve; metala vazo el
+      kiu &ccirc;iuj gasoj estas forigitaj, kaj kies
+      <ref tip="prt" cel="elektr3.0o">elektrodoj</ref> regas fluon
+      de elektronoj:
+      <ekz>
+        La vicoj de vaku<tld/>oj ekglimis kaj la &scirc;altita televidilo
+        malrapide varmi&gcirc;is
+        <fnt>
+          <aut>PEJNO Simono</aut>:
+          <vrk><url
+ref="http://ourworld.compuserve.com/homepages/profcon/e_konjak.htm"
+              >&Ccirc;u vi volas konjakon?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">vacuum tube</trd>
+    <trdgrp lng="ru">
+      <trd>&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_n;&c_a;&c_ja; &c_l;&c_a;&c_m;&c_p;&c_a;</trd>,
+      <trd>&c_r;&c_a;&c_d;&c_i;&c_o;&c_l;&c_a;&c_m;&c_p;&c_a;</trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="tub.katodradia0o">
+  <kap>katodradia <tld/>o<fnt>PIV1</fnt></kap>
+  <snc>
+    <uzo tip="fak">RAD</uzo>
+    <ref tip="dif" cel="tub.bildo0o">bildotubo</ref>
+  </snc>
+  <trd lng="cs">katodová trubice</trd>
+  <trd lng="sk">katódová trubica</trd>
+</drv>
+
 </art>
 <!--
 $Log: tub.xml,v $
+Revision 1.29  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/03/02 13:10:16  revo
+Sergio Pokrovskij: +vaku~o
+
+Revision 1.26  2014/12/20 21:10:14  revo
+Jeromo Vasxe: + pantalon~o
+
 Revision 1.25  2011/12/02 11:10:12  revo
 Marc Rausell: kataluna traduko
 
@@ -264,11 +399,5 @@ Revision 1.21  2008/05/27 16:30:23  revo
 Sebastian Cyprych: +drv glit~o +trd pl
 
 Revision 1.20  2008/01/19 17:30:18  revo
-Wieland Pusch: +trd de+bg
-
-Revision 1.19  2006/02/16 17:36:10  revo
-Tulio Flores: +trd pt
-
-Revision 1.18  2005/05/30 16:31:02  revo
 -->
 </vortaro>

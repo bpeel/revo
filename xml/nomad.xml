@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nomad.xml,v 1.18 2013/05/24 01:10:11 revo Exp $">
+<art mrk="$Id: nomad.xml,v 1.20 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>nomad</rad>/o <fnt><bib>PV</bib></fnt>
@@ -41,6 +41,8 @@
   <trd lng="ru">&c_k;&c_o;&c_ch;&c_je;&c_v;&c_n;&c_i;&c_k;</trd>
   <trd lng="sv">nomad</trd>
   <trd lng="tr">g&ouml;&ccedil;ebe</trd>
+  <trd lng="sk">menovanie <klr>(podľa mena)</klr></trd>
+  <trd lng="cs">jmenování <klr>(podle jména)</klr></trd>
 </drv>
 
 <drv mrk="nomad.0i">
@@ -61,12 +63,14 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_ch;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">kočovat</trd>
   <trd lng="fr">nomadiser</trd>
-  <trd lng="hu">nomadi&aacute;zl</trd> 
-  <trd lng="nl">een <ind>nomadenbestaan</ind>leiden</trd> 
+  <trd lng="hu">nomadi&aacute;zl</trd>
+  <trd lng="nl">een <ind>nomadenbestaan</ind>leiden</trd>
   <trd lng="pl">koczowa&cacute;</trd>
   <trd lng="pt">praticar o <ind>nomadismo</ind></trd>
   <trd lng="ru">&c_k;&c_o;&c_ch;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">kočovať</trd>
   <trd lng="tr">g&ouml;&ccedil;mek</trd>
 </drv>
 
@@ -80,20 +84,25 @@
         <tld/>a klano, popolo, poezio.
       </ekz>
     </dif>
-  </snc>  
+  </snc>
   <trd lng="be">&c_k;&c_a;&c_ch;&c_a;&c_v;&c_y;</trd>
   <trd lng="ca">n&ograve;mada</trd>
+  <trdgrp lng="cs">
+    <trd>kočovný</trd>,
+    <trd>nomádský</trd>
+  </trdgrp>
   <trd lng="de">nomadisch</trd>
   <trd lng="en">nomadic</trd>
   <trd lng="es">n&oacute;mada</trd>
   <trd lng="fr">nomade<klr tip="ind"> (adj.)</klr></trd>
-  <trd lng="hu">nom&aacute;d</trd>  
+  <trd lng="hu">nom&aacute;d</trd>
+  <trd lng="nl">nomaden-</trd>
   <trdgrp lng="pt">
     <trd>n&ocirc;made</trd>,
     <trd>n&ocirc;mada</trd>
   </trdgrp>
-  <trd lng="nl">nomaden-</trd>
   <trd lng="ru">&c_k;&c_o;&c_ch;&c_je;&c_v;&c_o;&c_j;</trd>
+  <trd lng="sk">kočovný</trd>
 </drv>
 
 <drv mrk="nomad.0ejo">
@@ -137,6 +146,11 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_ch;&c_e;&c_w;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a;</trd>
   <trd lng="ca">nomadisme</trd>
+  <trdgrp lng="cs">
+    <trd>kočovnictví</trd>,
+    <trd>nomádizmus</trd>,
+    <trd>nomádství</trd>
+  </trdgrp>
   <trd lng="de">Nomadismus</trd>
   <trd lng="en">nomadism</trd>
   <trd lng="es">nomadismo</trd>
@@ -148,11 +162,18 @@
   <trd lng="pl">koczownictwo</trd>
   <trd lng="pt">nomadismo</trd>
   <trd lng="ru">&c_k;&c_o;&c_ch;&c_je;&c_v;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="sk">nomádstvo</trd>
   <trd lng="tr">g&ouml;&ccedil;ebe hayat&inodot;</trd>
 </drv>
 </art>
 <!--
 $Log: nomad.xml,v $
+Revision 1.20  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2013/05/24 01:10:11  revo
 Jeromo Vasxe: + mrk
 

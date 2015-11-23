@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: astrol2.xml,v 1.15 2012/01/31 18:10:19 revo Exp $">
+<art mrk="$Id: astrol2.xml,v 1.17 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>astrologi</rad>/o
@@ -15,6 +15,8 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_s;&c_t;&c_r;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="cs">astrologie</trd>
+  <trd lng="de">Astrologie</trd>
   <trd lng="en">astrology</trd>
   <trd lng="es">astrolog&iacute;a</trd>
   <trdgrp lng="fa">
@@ -23,14 +25,17 @@
     <trd>&a_T;&a_A;&a_l;&a_ayn;&zwnj;&a_b;&f_y;&a_n;&f_y;</trd>
   </trdgrp>
   <trd lng="fr">astrologie</trd>
-  <trd lng="de">Astrologie</trd>
   <trdgrp lng="hu">
     <trd>asztrol&oacute;gia</trd>,
     <trd>csillagj&oacute;sl&aacute;s</trd>
   </trdgrp>
   <trd lng="it">astrologia</trd>
   <trd lng="ru">&c_a;&c_s;&c_t;&c_r;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
-  <trd lng="sk">astrol&oacute;gia</trd>
+  <trdgrp lng="sk">
+    <trd>astrol&oacute;gia</trd>,
+    <trd>astrológia</trd>,
+    <trd>veštenie z hviezd</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="astrol2.0isto">
@@ -44,6 +49,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_a;&c_s;&c_t;&c_r;&c_o;&c_l;&c_ja;&c_g;</trd>
+  <trdgrp lng="cs">
+    <trd>astrolog</trd>,
+    <trd>hvězdopravec</trd>
+  </trdgrp>
   <trd lng="de">Astrologe</trd>
   <trd lng="en">astrologist</trd>
   <trd lng="es">astr&oacute;logo</trd>
@@ -59,11 +68,20 @@
   </trdgrp>
   <trd lng="it">astrologo</trd>
   <trd lng="ru">&c_a;&c_s;&c_t;&c_r;&c_o;&c_l;&c_o;&c_g;</trd>
-  <trd lng="sk">astrol&oacute;g</trd>
+  <trdgrp lng="sk">
+    <trd>astrol&oacute;g</trd>,
+    <trd>astrológ</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: astrol2.xml,v $
+Revision 1.17  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2012/01/31 18:10:19  revo
 Antonio Codazzi: +trd it
 

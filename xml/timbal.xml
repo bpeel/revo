@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: timbal.xml,v 1.9 2013/09/08 18:11:07 revo Exp $">
+<art mrk="$Id: timbal.xml,v 1.11 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>timbal</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -36,6 +36,10 @@
   </snc>
   <trd lng="bg">&c_t;&c_i;&c_m;&c_p;&c_a;&c_n;</trd>
   <trd lng="ca">timbala</trd>
+  <trdgrp lng="cs">
+    <trd>kotel</trd>,
+    <trd>tympán</trd>
+  </trdgrp>
   <trd lng="de">Pauke</trd>
   <trdgrp lng="en">
     <trd>timpani</trd>,
@@ -55,11 +59,21 @@
   <trdgrp lng="pl">
     <trd>kocio&lstroke;<klr tip="amb"> (instrument)</klr></trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kotol</trd>,
+    <trd>tympan</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: timbal.xml,v $
+Revision 1.11  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2013/09/08 18:11:07  revo
 Wolfram Diestel: ref al listo frapinstrumentoj
 

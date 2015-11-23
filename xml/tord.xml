@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tord.xml,v 1.15 2013/12/02 15:10:23 revo Exp $">
+<art mrk="$Id: tord.xml,v 1.19 2015/08/19 22:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tord</rad>/i <fnt><bib>PV</bib></fnt>
@@ -113,6 +113,10 @@
       <trd>&c_v;&c_y;&c_v;&c_i;&c_h;&c_n;&c_u;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>vy&zcaron;d&iacute;mat</trd>,
+    <trd>&zcaron;d&iacute;mat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>wringen</trd>,
     <trd>winden</trd>
@@ -120,6 +124,10 @@
   <trd lng="en">twist</trd>
   <trd lng="fr">tordre</trd>
   <trd lng="nl">wringen</trd>
+  <trdgrp lng="sk">
+    <trd>kr&uacute;ti&tcaron;</trd>,
+    <trd>skr&uacute;ti&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tord.0a">
@@ -140,6 +148,7 @@
       <ref cel="zigzag">zigzaga</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">zakroucen&yacute;</trd>
   <trd lng="fr">tordu</trd>
   <trdgrp lng="hu">
     <trd>csavaros</trd>,
@@ -169,6 +178,11 @@
     <trd>&c_v;&c_i;&c_t;&c_i;&c_je;&c_v;&c_a;&c_t;&c_y;&c_j;
     <klr>(f)</klr></trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>krivolak&yacute;</trd>,
+    <trd>kriv&yacute;</trd>,
+    <trd>&scaron;pir&aacute;lovit&yacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tord.dis0i">
@@ -189,12 +203,25 @@
       <ref cel="fals.0i">falsi</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;ekroutit</trd>,
+    <trd>p&rcaron;ekrucovat</trd>,
+    <trd>rozkroutit</trd>,
+    <trd>vykroutit</trd>,
+    <trd>vymknout</trd>,
+    <trd>zkreslit</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>fausser<klr> (tordre)</klr></trd>,
     <trd>tordre<klr> (fausser)</klr></trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>przekr&eogonek;ca&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prekr&uacute;ti&tcaron;</trd>,
+    <trd>skresli&tcaron;</trd>,
+    <trd>vykr&uacute;ti&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -208,10 +235,14 @@
         el<tld/>i el li la informojn estis pli malfacile
         <fnt><aut>A. L&ouml;wenstein</aut>, <vrk>La &scirc;tona
         urbo</vrk>, 
-        <lok>FEL, 1999</lok></fnt>.
+        <lok>1999</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>vykroutit</trd>,
+    <trd>vy&zcaron;d&iacute;mat</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>extorquer</trd>,
     <trd>pressurer<klr> (financi&egrave;rement)</klr></trd>
@@ -220,6 +251,7 @@
     <trd>wydusza&cacute;</trd>,
     <trd>wyci&aogonek;ga&cacute;</trd>
   </trdgrp>
+  <trd lng="sk">vykr&uacute;ti&tcaron;</trd>
 </drv>
 
 <drv mrk="tord.kun0i">
@@ -260,7 +292,7 @@
     <dif>
       Forte <tld/>i molan a&jcirc;on, tiel ke &gcirc;i estas premata:
       <ekz>
-        li <klr>...</klr> vi&scirc;is de sia fruto tutaj
+        li <klr>...</klr> vi&scirc;is de sia frunto tutajn
         &scirc;vitotorentojn, 
         kiujn poste <klr>...</klr> li redonis al la tero per bone 
         imitata prem<tld/>o de l' tuko
@@ -268,15 +300,39 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="fr">tordre</trd>
+  <trdgrp lng="cs">
+    <trd>vykroutit</trd>,
+    <trd>vy&zcaron;d&iacute;mat</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>tordre</trd>,
+    <trd>essorer</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>wykr&eogonek;ca&cacute;</trd>,
     <trd>wy&zdot;yma&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>doh&uacute;&zcaron;va&tcaron;</trd>,
+    <trd>dokrkva&tcaron;</trd>,
+    <trd>vykr&uacute;ca&tcaron;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: tord.xml,v $
+Revision 1.19  2015/08/19 22:10:14  revo
+Jeromo Vasxe: fruto ->  frunto
+
+Revision 1.18  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2015/04/04 06:10:21  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.15  2013/12/02 15:10:23  revo
 Damien Brucker: +trd fr
 
@@ -287,17 +343,5 @@ Revision 1.13  2007/06/10 16:31:48  revo
 Jeromo Vasxe: + dis/el/kun/prem~i, + trd fr
 
 Revision 1.12  2006/02/15 17:36:26  revo
-Tulio Flores: +trd pt
-
-Revision 1.11  2004/12/07 17:32:14  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2002/03/12 17:32:22  revo
-Yury Finkel: +trd ru
-
-Revision 1.9 2002/01/21 21:48:39 revo
-fontindiko PrV per programo de Jerome
-
-Revision 1.8 2001/05/11 18:11:25 revo
 -->
 </vortaro>

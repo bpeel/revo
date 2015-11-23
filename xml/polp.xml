@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: polp.xml,v 1.15 2010/05/31 16:30:32 revo Exp $">
+<art mrk="$Id: polp.xml,v 1.17 2015/06/26 17:10:20 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>polp</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -31,6 +31,7 @@
     <trd>&c_v;&c_a;&c_s;&c_mol;&c_m;&c_ib;&c_n;&c_o;&c_g;</trd>,
     <trd>&c_s;&c_p;&c_r;&c_u;&c_t;</trd>
   </trdgrp>
+  <trd lng="bg">&c_o;&c_k;&c_t;&c_o;&c_p;&c_o;&c_d;</trd>
   <trd lng="en">octopus</trd>
   <trd lng="es">pulpo</trd>
   <trdgrp lng="fr">
@@ -39,7 +40,9 @@
   </trdgrp>
   <trd lng="hu">nyolckar&uacute; <ind>polip</ind></trd>
   <trd lng="nl">octopus</trd>
+  <trd lng="pl">o&sacute;miornica</trd>
   <trd lng="pt">polvo</trd>
+  <trd lng="ro">caracati&tcedil;&abreve;</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_s;&c_mol;&c_m;&c_i;&c_n;&c_o;&c_g;</trd>,
     <trd>&c_s;&c_p;&c_r;&c_u;&c_t;</trd>
@@ -48,6 +51,12 @@
 </art>
 <!--
 $Log: polp.xml,v $
+Revision 1.17  2015/06/26 17:10:20  revo
+Joop Eggen: +trd bg
+
+Revision 1.16  2015/04/10 22:10:15  revo
+Vito Redsky: trd pl trd ro
+
 Revision 1.15  2010/05/31 16:30:32  revo
 Agustin Garcia Lopez: +trd es
 
@@ -64,11 +73,5 @@ Revision 1.11  2006/03/09 17:31:10  revo
 Tulio Flores: +tr pt
 
 Revision 1.10  2003/07/17 16:38:29  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9  2002/07/10 18:08:12  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2001/12/21 17:30:53  revo
 -->
 </vortaro>

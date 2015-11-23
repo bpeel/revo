@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plad.xml,v 1.17 2010/04/27 16:30:47 revo Exp $">
+<art mrk="$Id: plad.xml,v 1.19 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>plad</rad>/o
@@ -58,11 +58,13 @@
     </trdgrp>
     <trd lng="nl">gerecht</trd>
   </snc>
+  <trd lng="cs">mísa <klr>(plochá nádoba i jídlo)</klr></trd>
   <trd lng="de">Platte</trd>
   <trd lng="es">plato</trd>
   <trd lng="fr">plat<klr tip="ind"> (subst.)</klr></trd>
   <trd lng="hu">fog&aacute;s<klr tip="ind"> (&eacute;tel)</klr></trd>
   <trd lng="ru">&c_b;&c_l;&c_ju;&c_d;&c_o;</trd>
+  <trd lng="sk">misa <klr>(na jedlá)</klr></trd>
 </drv>
 
 <drv mrk="plad.antaux0o">
@@ -102,6 +104,12 @@
 </art>
 <!--
 $Log: plad.xml,v $
+Revision 1.19  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2010/04/27 16:30:47  revo
 Behnam Tabatabai: +trd fa
 

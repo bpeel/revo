@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fris1.xml,v 1.10 2011/04/01 13:10:11 revo Exp $">
+<art mrk="$Id: fris1.xml,v 1.12 2015/07/04 08:37:34 revo Exp $">
 <kap>
 <rad>fris</rad>/o
 </kap>
@@ -25,7 +25,12 @@
     <trd>fris&atilde;o</trd>
   </trdgrp>
   <trd lng="ru">&c_f;&c_r;&c_i;&c_z;</trd>
- </drv>
+   <trd lng="sk">vlys</trd>
+  <trdgrp lng="cs">
+    <trd>obrubnice ,, malované proužky představující na scéně strop nebo nebe</trd>,
+    <trd>vlys</trd>
+  </trdgrp>
+</drv>
  
 <drv mrk="fris1.0a">
   <kap><tld/>a</kap>
@@ -108,6 +113,12 @@
 
 <!--
 $Log: fris1.xml,v $
+Revision 1.12  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2011/04/01 13:10:11  revo
 Russ Williams: +trd en
 

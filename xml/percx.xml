@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: percx.xml,v 1.20 2013/10/17 19:10:26 revo Exp $">
+<art mrk="$Id: percx.xml,v 1.21 2015/04/23 20:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>per&ccirc;</rad>/o
@@ -33,6 +33,7 @@
     <trd>ruff <klr tip="ind">(fish)</klr></trd>,
     <trd>ruffe</trd>
   </trdgrp>
+  <trd lng="es">perca</trd>
   <trdgrp lng="fr">
     <trd>perche goujonni&egrave;re</trd>
   </trdgrp>
@@ -45,6 +46,9 @@
 </art>
 <!--
 $Log: percx.xml,v $
+Revision 1.21  2015/04/23 20:10:12  revo
+Carlos Garcia: +trd es -o
+
 Revision 1.20  2013/10/17 19:10:26  revo
 Wolfram Diestel: kor. lst-ref
 
@@ -64,8 +68,5 @@ Revision 1.15  2006/02/27 17:34:13  revo
 Tulio Flores: +tr pt
 
 Revision 1.14  2003/07/17 16:34:16  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.13  2003/01/20 17:31:18  revo
 -->
 </vortaro>

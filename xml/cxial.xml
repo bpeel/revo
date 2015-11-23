@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxial.xml,v 1.11 2009/04/24 16:31:05 revo Exp $">
+<art mrk="$Id: cxial.xml,v 1.12 2015/10/11 14:10:15 revo Exp $">
   <kap>
     <ofc>*</ofc>
     <rad>&ccirc;ial</rad>
@@ -28,6 +28,10 @@
        <trd>minden <ind>okn&aacute;l</ind> fogva</trd>,
        <trd>minden <ind>miatt</ind></trd>
     </trdgrp>
+ <trdgrp lng="pt">
+   <trd>por qualquer motivo</trd>,
+   <trd>por todos os motivos</trd>
+ </trdgrp>
     <trdgrp lng="pl">
       <trd>z ka&zdot;dego <ind>powodu</ind></trd>,
       <trd>w ka&zdot;dym <ind>przypadku</ind></trd>,
@@ -42,6 +46,9 @@
 </art>
 <!--
 $Log: cxial.xml,v $
+Revision 1.12  2015/10/11 14:10:15  revo
+Evandro Avellar: +trd pt
+
 Revision 1.11  2009/04/24 16:31:05  revo
 Sebastian Cyprych: +trd pl
 
@@ -61,7 +68,5 @@ Revision 1.6  2001/03/07 17:12:14  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.5  2000/10/05 16:12:45  revo
-Yury Finkel: +rusa trd
-
 -->
 </vortaro>

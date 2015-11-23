@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kand.xml,v 1.12 2010/10/30 16:30:38 revo Exp $">
+<art mrk="$Id: kand.xml,v 1.15 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kand</rad>/o
@@ -21,6 +21,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_ja;&c_d;&c_z;&c_ja;&c_sh;</trd>
+  <trdgrp lng="cs">
+    <trd>kandys</trd>,
+    <trd>zast. cukrkandl</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Kandis</trd>,
      <trd>Kandiszucker</trd>,
@@ -29,6 +33,10 @@
   <trdgrp lng="en">
     <trd>sugar candy</trd>,
     <trd>crystallized sugar</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>caramelo</trd>,
+    <trd>az&uacute;car caramelizado</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>candi</trd>,
@@ -40,10 +48,20 @@
   </trdgrp>
   <trd lng="nl">kandij</trd>
   <trd lng="ru">&c_l;&c_je;&c_d;&c_je;&c_n;&c_je;&c_c;</trd>
+  <trd lng="sk">kandys</trd>
 </drv>
 </art>
 <!--
 $Log: kand.xml,v $
+Revision 1.15  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2015/04/18 11:10:22  revo
+Carlos Garcia: +trd es -o
+
 Revision 1.12  2010/10/30 16:30:38  revo
 Russ Williams: +trd en
 
@@ -63,8 +81,5 @@ Revision 1.7  2001/10/14 08:50:16  revo
 Ulrich Fellmann: + 3 germ trdj
 
 Revision 1.6  2001/09/06 18:11:26  revo
-Yury Finkel: +trd ru
-
-Revision 1.5  2001/03/09 10:45:50  revo
 -->
 </vortaro>

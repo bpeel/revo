@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kurs.xml,v 1.24 2014/06/26 04:10:10 revo Exp $">
+<art mrk="$Id: kurs.xml,v 1.26 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kurs</rad>/o <fnt><bib>PV</bib></fnt>
@@ -88,8 +88,13 @@
     <ref tip="dif" cel="kurz.0o">kurzo</ref>
     <trd lng="nl">koers<klr tip="amb"> (v.geld - ontr.)</klr></trd>
   </snc>
-  <trd lng="cs">kurz (&scaron;kolen&iacute;)</trd>
+  <trdgrp lng="cs">
+    <trd>kurz (&scaron;kolen&iacute;)</trd>,
+    <trd>kurz <klr>(soubor lekcí, běh něčeho, směr)</klr></trd>,
+    <trd>školení</trd>
+  </trdgrp>
   <trd lng="de">Kurs</trd>
+  <trd lng="sk">smer cesty</trd>
   <trd lng="sv">kurs</trd>
 </drv>
 
@@ -114,17 +119,22 @@
     <trd>&c_s;&c_l;&c_u;&c_h;&c_a;&c_ch; &c_k;&c_u;&c_r;&c_s;&c_u;</trd>,
     <trd>&c_k;&c_u;&c_r;&c_s;&c_a;&c_n;&c_t;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kurzista</trd>,
+    <trd>účastník kurzu</trd>
+  </trdgrp>
   <trd lng="de">Kursteilnehmer</trd>
   <trd lng="es">cursillista</trd>
   <trdgrp lng="fr">
     <trd>&eacute;l&egrave;ve<klr> (d'un cours)</klr></trd>
   </trdgrp>
   <trd lng="hu">tanfolyamhallgat&oacute;</trd>
+  <trd lng="nl">cursist</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_l;&c_u;&c_sh;&c_a;&c_t;&c_je;&c_l;&c_mol; &c_k;&c_u;&c_r;&c_s;&c_a;</trd>,
     <trd>&c_k;&c_u;&c_r;&c_s;&c_a;&c_n;&c_t;</trd>
   </trdgrp>
-  <trd lng="nl">cursist</trd>
+  <trd lng="sk">účastník kurzu</trd>
 </drv>
 
 <drv mrk="kurs.en0igi">
@@ -136,6 +146,10 @@
       <ref tip="vid" cel="kurs.0o.voja">kurso</ref>.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dát do oběhu</trd>,
+    <trd>odeslat pravidelnou poštou</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>sortieren</trd>,
     <trd>verteilen</trd>
@@ -147,6 +161,7 @@
     <trd>szort&iacute;roz <klr tip="ind">(post&aacute;n)</klr></trd>
   </trdgrp>
   <trd lng="nl">in <ind>omloop</ind> brengen</trd>
+  <trd lng="sk">dať do obehu</trd>
 </drv>
 
 <drv mrk="kurs.en0igilo">
@@ -184,6 +199,12 @@
 </art>
 <!--
 $Log: kurs.xml,v $
+Revision 1.26  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2014/06/26 04:10:10  revo
 Sergio Pokrovskij: rearangxo laux la sencevoluo
 

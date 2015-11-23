@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kin.xml,v 1.28 2014/06/30 16:10:31 revo Exp $">
+<art mrk="$Id: kin.xml,v 1.30 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>kin</rad>/o <fnt><bib>PV</bib></fnt>
@@ -50,6 +50,8 @@
   <rim mrk="kin.0o.RIM_HOM">
     Ne konfuzu kun <ref tip="hom" cel="kin1.0o">kino</ref> (kinkono).
   </rim>
+  <trd lng="sk">kina</trd>
+  <trd lng="cs">kina</trd>
 </drv>
 
 <drv mrk="kin.0ajxo">
@@ -119,6 +121,10 @@
     <trd>&c_k;&c_i;&c_n;&c_o;</trd>,
     <trd>&c_k;&c_i;&c_n;&c_o;&c_t;&c_je;&c_a;&c_t;&c_malmol;&c_r;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>biograf</trd>,
+    <trd>kino</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Kino</trd>,
     <trd>Filmtheater</trd>
@@ -143,6 +149,7 @@
     <trd>&c_k;&c_i;&c_n;&c_o;</trd>,
     <trd>&c_k;&c_i;&c_n;&c_o;&c_t;&c_je;&c_a;&c_t;&c_r;</trd>
   </trdgrp>
+  <trd lng="sk">kino</trd>
   <trd lng="tr">sinema salonu</trd>
 </drv>
 
@@ -178,6 +185,12 @@
 </art>
 <!--
 $Log: kin.xml,v $
+Revision 1.30  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.28  2014/06/30 16:10:31  revo
 Eko Nur Syah Hidayat: +id
 

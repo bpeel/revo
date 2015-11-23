@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: inklud.xml,v 1.13 2009/10/04 16:30:37 revo Exp $">
+  <art mrk="$Id: inklud.xml,v 1.15 2015/07/04 08:37:36 revo Exp $">
     <kap>
       <rad>inklud</rad>/i
     </kap>
@@ -85,11 +85,25 @@
         <trd lng="ru">&c_v;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_mol;<klr> (&c_v;&c_o;
         &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
       </snc>
-      <trd lng="es">incluir</trd>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>obsahovat</trd>,
+    <trd>zahrnovat</trd>
+  </trdgrp>
+  <trd lng="es">incluir</trd>
+  <trdgrp lng="sk">
+    <trd>obsahovať</trd>,
+    <trd>zahrnovať</trd>
+  </trdgrp>
+</drv>
   </art>
   <!--
   $Log: inklud.xml,v $
+  Revision 1.15  2015/07/04 08:37:36  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.14  2015/06/29 16:33:15  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.13  2009/10/04 16:30:37  revo
   Paul Peeraerts: +nl
 

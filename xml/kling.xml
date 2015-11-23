@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kling.xml,v 1.12 2011/12/03 15:10:24 revo Exp $">
+<art mrk="$Id: kling.xml,v 1.14 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>kling</rad>/o
@@ -21,6 +21,10 @@
     <trd>&c_k;&c_l;&c_ib;&c_n;&c_o;&c_k;</trd>
   </trdgrp>
   <trd lng="ca">fulla <klr>(tallant)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>ostří</trd>,
+    <trd>čepel</trd>
+  </trdgrp>
   <trd lng="de">Klinge</trd>
   <trdgrp lng="en">
     <trd>blade</trd>,
@@ -36,10 +40,20 @@
     <trd>&c_l;&c_je;&c_z;&c_v;&c_i;&c_je;</trd>,
     <trd>&c_k;&c_l;&c_i;&c_n;&c_o;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ostrie</trd>,
+    <trd>čepeľ</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kling.xml,v $
+Revision 1.14  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2011/12/03 15:10:24  revo
 Marc Rausell: kataluna traduko
 

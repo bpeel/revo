@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: katarakt.xml,v 1.7 2014/06/05 13:10:21 revo Exp $">
+  <art mrk="$Id: katarakt.xml,v 1.10 2015/10/17 13:10:19 revo Exp $">
     <kap>
       <rad>katarakt</rad>/o <fnt><bib>PIV1</bib></fnt>
     </kap>
@@ -46,6 +46,7 @@
         antikvuloj, ke la okulmalsanon ka&ubreve;zas traliki&gcirc;o (do,
         <ctl>akvofalo</ctl>) de pigmento en la kristalinon.
       </rim>
+      <trd lng="en">cataract</trd>
   <trdgrp lng="fr">
     <trd>cataracte</trd>,
     <trd><ind>chute</ind> d'eau</trd>
@@ -58,11 +59,30 @@
     <trd>waterval<klr tip="ind"> (ontr.)</klr></trd>,
     <trd>cataract<klr tip="ind"> (waterval)(ontr.)</klr></trd>
   </trdgrp>
-   </drv>
+     <trdgrp lng="sk">
+    <trd>be&lcaron;mo</trd>,
+    <trd>katarakta</trd>,
+    <trd>&scaron;ed&yacute; o&ccaron;n&yacute; z&aacute;kal</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>katarakt</trd>,
+    <trd>pe&rcaron;eje</trd>,
+    <trd>stup&ncaron;ovit&yacute; vodop&aacute;d</trd>
+  </trdgrp>
+</drv>
   </art>
 
   <!--
   $Log: katarakt.xml,v $
+  Revision 1.10  2015/10/17 13:10:19  revo
+  Cindy Moon McKee: +trd en
+
+  Revision 1.9  2015/07/04 08:37:37  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.8  2015/06/29 16:33:17  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.7  2014/06/05 13:10:21  revo
   Damien Brucker: +trd fr
 

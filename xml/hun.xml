@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hun.xml,v 1.12 2013/04/24 15:10:11 revo Exp $">
+<art mrk="$Id: hun.xml,v 1.14 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>hun</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -16,6 +16,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_u;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>Hun</trd>,
+    <trd>Hunové</trd>
+  </trdgrp>
   <trd lng="de">Hunne</trd>
   <trd lng="el">&omikron;&ypsilon_ton;&ny;&omikron;&sigma_fina;</trd>
   <trd lng="es">huno</trd>
@@ -25,11 +29,21 @@
   <trd lng="nl">Hun</trd>
   <trd lng="pt">huno</trd>
   <trd lng="ru">&c_g;&c_u;&c_n;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>Hun</trd>,
+    <trd>Huni</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: hun.xml,v $
+Revision 1.14  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2013/04/24 15:10:11  revo
 Jeromo Vasxe: + fnt
 

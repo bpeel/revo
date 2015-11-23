@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konfir.xml,v 1.17 2010/08/03 16:31:25 revo Exp $">
+<art mrk="$Id: konfir.xml,v 1.19 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konfirm</rad>/i
@@ -276,7 +276,16 @@ certain)</klr></trd>,
       <trd>&c_s;&c_o;&c_v;&c_je;&c_r;&c_sh;&c_i;&c_t;&c_mol; <ind>&c_k;&c_o;&c_n;&c_f;&c_i;&c_r;&c_m;&c_a;&c_c;&c_i;&c_ju;</ind></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>osvědčit</trd>,
+    <trd>ověřit</trd>,
+    <trd>potvrdit</trd>
+  </trdgrp>
   <trd lng="en">confirm</trd>
+  <trdgrp lng="sk">
+    <trd>konfirmovať</trd>,
+    <trd>potvrdiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konfir.0o">
@@ -364,6 +373,15 @@ N&ring;373</url></lok>
     </subsnc>
     <trd lng="en">confirmation</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>osvědčení</trd>,
+    <trd>ověření <klr>(právní úkon)</klr></trd>,
+    <trd>potvrzení</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konfirmácia</trd>,
+    <trd>potvrdenie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konfir.0e">
@@ -425,6 +443,7 @@ en Esperanto</url></lok>
 <ind>&c_p;&c_a;&c_c;&c_mol;&c_v;&c_ja;&c_r;&c_d;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</ind></trd>,
     <trd>&c_p;&c_a;&c_c;&c_mol;&c_v;&c_ja;&c_r;&c_d;&c_zh;&c_a;&c_ju;&c_ch;&c_y;</trd>
   </trdgrp>
+  <trd lng="cs">kladně</trd>
   <trdgrp lng="fr">
     <trd>en signe de <ind>confirmation</ind></trd>,
     <trd>pour <ind>preuve</ind></trd>
@@ -432,6 +451,7 @@ en Esperanto</url></lok>
   <trd lng="nl">bevestigend</trd>
   <trd lng="ru">&c_v; 
 <ind>&c_p;&c_o;&c_d;&c_t;&c_v;&c_je;&c_r;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">kladne</trd>
 </drv>
 
 <drv mrk="konfir.0igxi">
@@ -556,6 +576,12 @@ tip="amb"> (&c_v;&c_o; &c_m;&c_n;&c_je;&c_n;&c_i;&c_i;)</klr></trd>
     <trd>&c_z;&c_mol;&c_n;&c_ja;&c_p;&c_r;&c_a;&c_w;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_a;&c_d;&c_m;&c_o;&c_v;&c_ib;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dementovat</trd>,
+    <trd>nepotvrdit</trd>,
+    <trd>popřít</trd>,
+    <trd>vyvrátit</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>contest</trd>,
     <trd>deny</trd>,
@@ -573,10 +599,21 @@ tip="amb"> (&c_v;&c_o; &c_m;&c_n;&c_je;&c_n;&c_i;&c_i;)</klr></trd>
     <trd>&c_o;&c_p;&c_r;&c_o;&c_v;&c_je;&c_r;&c_g;&c_n;&c_u;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_t;&c_r;&c_i;&c_c;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dementovať</trd>,
+    <trd>poprieť</trd>,
+    <trd>vyvrátiť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: konfir.xml,v $
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2010/08/03 16:31:25  revo
 Russ Williams: +trd en
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: filant2.xml,v 1.20 2011/12/05 14:10:11 revo Exp $">
+<art mrk="$Id: filant2.xml,v 1.22 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>filantropi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -19,6 +19,11 @@
   </snc>
   <trd lng="be">&c_f;&c_ib;&c_l;&c_ja;&c_n;&c_t;&c_r;&c_o;&c_p;&c_ib;&c_ja;</trd>
   <trd lng="ca">filantropia</trd>
+  <trdgrp lng="cs">
+    <trd>filantropie</trd>,
+    <trd>lidumilnost</trd>,
+    <trd>lidumilství</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Philanthropie</trd>,
     <trd>Menschenliebe</trd>
@@ -43,6 +48,7 @@
     <trd>&c_f;&c_i;&c_l;&c_a;&c_n;&c_t;&c_r;&c_o;&c_p;&c_i;&c_ja;</trd>,
     <trd>&c_b;&c_l;&c_a;&c_g;&c_o;&c_t;&c_v;&c_o;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">ľudomilnosť</trd>
 </drv>
 
 <drv mrk="filant2.0a">
@@ -62,15 +68,26 @@
     </dif>
   </snc>
   <trd lng="ca">filantr&ograve;pic</trd>
+  <trdgrp lng="cs">
+    <trd>filantropický</trd>,
+    <trd>lidumilný</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>caritatif</trd>,
     <trd>humanitaire</trd>,
     <trd>philantropique</trd>
   </trdgrp>
+  <trd lng="sk">ľudomilný</trd>
 </drv>
 </art>
 <!--
 $Log: filant2.xml,v $
+Revision 1.22  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2011/12/05 14:10:11  revo
 Marc Rausell: kataluna traduko
 

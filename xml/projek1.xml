@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: projek1.xml,v 1.21 2009/10/30 17:30:54 revo Exp $">
+<art mrk="$Id: projek1.xml,v 1.23 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>projekt</rad>/o
@@ -105,10 +105,18 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_je;&c_k;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>projekt</trd>,
+    <trd>tvar</trd>,
+    <trd>úprava</trd>,
+    <trd>řešení</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Projekt</trd>,
     <trd>Vorhaben</trd>
   </trdgrp>
+  <trd lng="es">proyecto</trd>
+  <trd lng="fr">projet</trd>
   <trdgrp lng="hu">
     <trd>tervezet</trd>,
     <trd>projekt</trd>
@@ -118,12 +126,15 @@
     <trd>ontwerp</trd>,
     <trd>project</trd>
   </trdgrp>
-  <trd lng="ru">&c_p;&c_r;&c_o;&c_je;&c_k;&c_t;</trd>
-  <trd lng="es">proyecto</trd>
-  <trd lng="fr">projet</trd>
   <trdgrp lng="pt">
     <trd>projeto</trd>,  
     <trd>projecto</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_je;&c_k;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>konštrukcie</trd>,
+    <trd>návrh</trd>,
+    <trd>plán stavby</trd>
   </trdgrp>
 </drv>
 
@@ -183,10 +194,17 @@
     <trd
     lng="ru">&c_p;&c_r;&c_o;&c_je;&c_k;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hodlat</trd>,
+    <trd>navrhovat</trd>,
+    <trd>projektovat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>planen</trd>,
     <trd>vorhaben</trd>
   </trdgrp>
+  <trd lng="es">proyectar</trd>
+  <trd lng="fr">projeter</trd>
   <trdgrp lng="hu">
     <trd>tervezetet k&eacute;sz&iacute;t</trd>,
     <trd>megtervez</trd>
@@ -195,8 +213,11 @@
     <trd>plannen</trd>,
     <trd>ontwerpen</trd>
   </trdgrp>
-  <trd lng="es">proyectar</trd>
-  <trd lng="fr">projeter</trd>
+  <trdgrp lng="sk">
+    <trd>plán</trd>,
+    <trd>projektovať</trd>,
+    <trd>urobiť návrh</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="projek1.lingvo0o">
@@ -222,6 +243,12 @@
 </art>
 <!--
 $Log: projek1.xml,v $
+Revision 1.23  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2009/10/30 17:30:54  revo
 Paul Peeraerts: +nl
 

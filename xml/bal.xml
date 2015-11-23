@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bal.xml,v 1.17 2012/08/25 09:10:25 revo Exp $">
+<art mrk="$Id: bal.xml,v 1.20 2015/10/01 12:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bal</rad>/o
@@ -22,20 +22,39 @@
   <trd lng="be">&c_b;&c_a;&c_l;&c_mol;</trd>
   <trd lng="br">bal</trd>
   <trd lng="ca">ball</trd>
+  <trdgrp lng="cs">
+    <trd>b&aacute;l</trd>,
+    <trd>ples</trd>,
+    <trd>tane&ccaron;n&iacute; z&aacute;bava</trd>
+  </trdgrp>
   <trd lng="de">Ball</trd>
   <trd lng="en">ball</trd>
+  <trd lng="es">baile</trd>
   <trd lng="fr">bal</trd>
   <trd lng="hu">b&aacute;l</trd>
   <trd lng="nl">bal<klr tip="ind"> (danspartij)</klr></trd>
   <trd lng="pl">bal</trd>
+  <trd lng="pt">baile</trd>
   <trd lng="ru">&c_b;&c_a;&c_l;</trd>
-  <trd lng="sk">b&aacute;l</trd>
+  <trdgrp lng="sk">
+    <trd>b&aacute;l</trd>,
+    <trd>ples</trd>,
+    <trd>tane&ccaron;n&aacute; z&aacute;bava</trd>
+  </trdgrp>
   <trd lng="sv">bal</trd>
-  <trd lng="es">baile</trd>
 </drv>
 </art>
 <!--
 $Log: bal.xml,v $
+Revision 1.20  2015/10/01 12:10:20  revo
+Evandro Avellar: +trd pt
+
+Revision 1.19  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2012/08/25 09:10:25  revo
 Marc Rausell: + trd ca
 
@@ -49,14 +68,5 @@ Revision 1.14  2005/02/19 18:51:27  revo
 Alan ar Gall: + trd br
 
 Revision 1.13  2003/01/16 17:31:30  revo
-Jeromo Vasxe: - baleto, + ekz
-
-Revision 1.12 2002/11/16 17:31:18 revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.11 2002/10/22 16:33:44 revo
-Christopher Zervic: + ang
-
-Revision 1.10 2002/09/09 19:51:41 revo
 -->
 </vortaro>

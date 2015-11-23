@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: zon.xml,v 1.44 2014/10/28 04:10:55 revo Exp $">
+<art mrk="$Id: zon.xml,v 1.47 2015/07/04 08:37:46 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>zon</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -184,9 +184,9 @@
     </trdgrp>
   </snc>
   <adm>
-    Almenaux en la franca, la geografia senco estas pli vasta ol
-    difinite cxi supre (= ajna regiono).. Mi ne scias, cxu tio
-    validas ankaux en Esperanto. Cetere PIV1 konas plian sencon, tre
+    Almena&ubreve; en la franca, la geografia senco estas pli vasta ol
+    difinite &ccirc;i supre (= ajna regiono).. Mi ne scias, &ccirc;u tio
+    validas anka&ubreve; en Esperanto. Cetere PIV1 konas plian sencon, tre
     vastan, kiu povus kovri la vastigon de la geografia senco
     (~o de influo de iu lando, la kvar ~oj en Berlino, muta ~o,
     ks). <aut>MB</aut>
@@ -209,6 +209,13 @@
     <trd>&c_p;&c_o;&c_ja;&c_s;</trd>,
     <trd>&c_z;&c_o;&c_n;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>oblasť</trd>,
+    <trd>opasok</trd>,
+    <trd>pruh</trd>,
+    <trd>pásmo</trd>
+  </trdgrp>
+  <trd lng="cs">pas <klr>(střed těla| kde se nosí opasek)</klr></trd>
 </drv>
 
 <drv mrk="zon.0i">
@@ -275,6 +282,11 @@
     <trd>&c_a;&c_p;&c_ja;&c_r;&c_e;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="br">gouriza&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>opásat</trd>,
+    <trd>přepásat</trd>,
+    <trd>připevnit opaskem</trd>
+  </trdgrp>
   <trd lng="de">g&uuml;rten</trd>
   <trdgrp lng="fr">
     <trd>ceindre</trd>,
@@ -295,17 +307,18 @@
     <trd>rodear</trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_p;&c_o;&c_ja;&c_s;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">opásať</trd>
 </drv>
 
 <drv mrk="zon.cxirkaux0i">
   <kap>&ccirc;irka&ubreve;<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="zon.cxirkaux0i.KOMUNE">
     <ref tip="dif" cel="zon.0i"><tld/>i</ref>
     <ekz>
       sur siaj stratoj ili &ccirc;irka&ubreve;<tld/>is sin
       per saka&jcirc;oj
-      <fnt><bib>MT</bib><lok>&Jes; 15:3</lok></fnt>;
+      <fnt><bib>MT</bib>, <lok>&Jes; 15:3</lok></fnt>;
     </ekz>
     <ekz>
       <uzo tip="stl">FIG</uzo>
@@ -366,9 +379,11 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">hodinové pásmo</trd>
   <trd lng="fr">fuseau horaire</trd>
   <trd lng="id"><ind>zona</ind> waktu</trd>
   <trd lng="it"><ind>fuso</ind> orario</trd>
+  <trd lng="sk">hodinové pásmo</trd>
 </drv>
 
 <drv mrk="zon.mam0o">
@@ -393,6 +408,7 @@
   <trd lng="be">&c_s;&c_t;&c_a;&c_n;&c_ib;&c_k;</trd>
   <trd lng="br">brennidenn</trd>
   <trd lng="ca">sostenidors</trd>
+  <trd lng="cs">podprsenka</trd>
   <trdgrp lng="de">
     <trd>B&uuml;stenhalter</trd>,
     <trd>BH</trd>
@@ -401,9 +417,7 @@
     <trd>bra</trd>,
     <trd>brassiere</trd>
   </trdgrp>
-  <trdgrp lng="fr">
-    <trd>soutien-gorge</trd>
-  </trdgrp>
+  <trd lng="fr">soutien-gorge</trd>
   <trd lng="he">&het;&zayin;&yod;&he;</trd>
   <trd lng="hu">melltart&oacute;</trd>
   <trdgrp lng="id">
@@ -430,6 +444,7 @@
     <trd>&c_b;&c_ju;&c_s;&c_t;&c_g;&c_a;&c_l;&c_mol;&c_t;&c_je;&c_r;
     </trd>
   </trdgrp>
+  <trd lng="sk">podprsenka</trd>
   <trdgrp lng="sv">
     <trd>bysth&aring;llare</trd>,
     <trd>bh</trd>
@@ -444,19 +459,20 @@
       Ringo el flosa materialo, metebla &ccirc;irka&ubreve;
       la ventro por teni sin senpene sur akvosurfaco:
       <ekz>
-        viro kun flava kapu&ccirc;o portis remilojn
-        sur&scirc;ultre, blank-r&ubreve;gaj sav<tld/>oj pendis
+        blank-ru&gcirc;aj sav<tld/>oj pendis
         sur la barieroj
         <fnt><aut>I. Nemere</aut>, <vrk>Sur Kampo Granita</vrk>, 
         <lok>1983</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">záchranný pás</trd>
   <trdgrp lng="fr">
     <trd>bou&eacute;e<klr> (de nage)</klr></trd>,
     <trd>ceinture de sauvetage</trd>
   </trdgrp>
   <trd lng="id"><ind>baju</ind> pelampung</trd>
+  <trd lng="sk">záchranný pás</trd>
 </drv>
 
 <drv mrk="zon.sekur0o">
@@ -481,14 +497,13 @@
     <trd>cinyell de seguretat</trd>,
     <trd>cintur&oacute; de seguretat</trd>
   </trdgrp>
+  <trd lng="cs">bezpečnostní pás</trd>
   <trd lng="de">Sicherheitsgurt</trd>
   <trdgrp lng="en">
     <trd>seat belt</trd>,
     <trd>safety belt</trd>
   </trdgrp>
-  <trdgrp lng="fr">
-    <trd>ceinture de s&eacute;curit&eacute;</trd>
-  </trdgrp>
+  <trd lng="fr">ceinture de s&eacute;curit&eacute;</trd>
   <trd lng="he">
   &het;&gimel;&vav;&resh;&tav;&bet;&tet;&yod;&het;&vav;&tav;</trd>
   <trd lng="hu">biztons&aacute;gi <ind>&ouml;v</ind></trd>
@@ -499,6 +514,7 @@
   <trd lng="pt">cinto de seguran&ccedil;a</trd>
   <trd lng="ru">&c_r;&c_je;&c_m;&c_je;&c_n;&c_mol;
   &c_b;&c_je;&c_z;&c_o;&c_p;&c_a;&c_s;&c_n;&c_o;&c_s;&c_t;&c_i;</trd>
+  <trd lng="sk">bezpečnostný pás</trd>
   <trdgrp lng="sv">
     <trd>s&auml;kerhetsb&auml;lte</trd>,
     <trd>bilb&auml;lte</trd>
@@ -568,6 +584,15 @@
 </art>
 <!--
 $Log: zon.xml,v $
+Revision 1.47  2015/07/04 08:37:46  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.46  2015/06/28 10:33:41  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.45  2015/01/23 23:10:16  revo
+Jeromo Vasxe: vortanalizilo: blank-ruxgaj -> blank-rugxaj
+
 Revision 1.44  2014/10/28 04:10:55  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -587,8 +612,5 @@ Revision 1.39  2010/02/21 17:30:31  revo
 Jeromo Vasxe: + sxultro~o el sxultr.xml
 
 Revision 1.38  2010/02/20 18:02:20  revo
-Antonio Codazzi: korek ref.
-
-Revision 1.37  2010/02/12 17:30:18  revo
 -->
 </vortaro>

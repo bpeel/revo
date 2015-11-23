@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: maiz.xml,v 1.36 2013/08/28 16:10:29 revo Exp $">
+<art mrk="$Id: maiz.xml,v 1.38 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>maiz</rad>/o <fnt><bib>PV</bib></fnt>
@@ -31,13 +31,14 @@
     <trd>&c_m;&c_a;&c_ib;&c_s;</trd>
   </trdgrp>
   <trd lng="bg">&c_c;&c_a;&c_r;&c_je;&c_v;&c_i;&c_c;&c_a;</trd>
+  <trd lng="br">maiz</trd>
   <trdgrp lng="ca">
     <trd>blat de moro</trd>,
     <trd>dacsa</trd>,
     <trd>pan&iacute;s</trd>,
     <trd>moresc</trd>
   </trdgrp>
-  <trd lng="br">maiz</trd>
+  <trd lng="cs">kukuřice</trd>
   <trd lng="de">Mais</trd>
   <trdgrp lng="en">
     <trd>maize</trd>,
@@ -53,11 +54,12 @@
   <trd lng="nl">mais</trd>
   <trd lng="pl">kukurydza</trd>
   <trd lng="pt">milho</trd>
-  <trd lng="sv">majs</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_u;&c_k;&c_u;&c_r;&c_u;&c_z;&c_a;</trd>,
     <trd>&c_m;&c_a;&c_i;&c_s;</trd>
   </trdgrp>
+  <trd lng="sk">kukurica</trd>
+  <trd lng="sv">majs</trd>
   <trd lng="tr">m&inodot;s&inodot;r</trd>
 </drv>
 
@@ -135,6 +137,11 @@
     <trd>cereals</trd>,
     <trd>flocs de blat de moro</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>corn flakes</trd>,
+    <trd>cornflakes</trd>,
+    <trd>kukuřičné vločky</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Cornflakes</trd>,
     <trd>Maisflocken</trd>
@@ -150,10 +157,17 @@
   <trd lng="nl">cornflakes</trd>
   <trd lng="pl">p&lstroke;atki <ind>kukurydziane</ind></trd>
   <trd lng="pt">flocos de <ind>milho</ind></trd>
+  <trd lng="sk">kukuričné vločky</trd>
 </drv>
 </art>
 <!--
 $Log: maiz.xml,v $
+Revision 1.38  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.37  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.36  2013/08/28 16:10:29  revo
 Wolfram Diestel: -tajperaro
 

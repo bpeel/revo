@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dekliv.xml,v 1.16 2012/09/04 09:10:15 revo Exp $">
+<art mrk="$Id: dekliv.xml,v 1.18 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dekliv</rad>/o
@@ -26,6 +26,10 @@
     <trd>declivi</trd>,
     <trd>inclinaci&oacute;</trd>,
     <trd>pendent</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>stráň</trd>,
+    <trd>svah</trd>
   </trdgrp>
   <trd lng="de">Abhang</trd>
   <trd lng="en">slope</trd>
@@ -58,6 +62,7 @@
     <trd>&c_o;&c_t;&c_k;&c_o;&c_s;</trd>,
     <trd>&c_s;&c_k;&c_a;&c_t;</trd>
   </trdgrp>
+  <trd lng="sk">svah</trd>
 </drv>
 
 <drv mrk="dekliv.0i">
@@ -78,6 +83,10 @@
     <trd>inclinar-se</trd>,
     <trd>tenir pendent</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>mít sklon</trd>,
+    <trd>svažovat se</trd>
+  </trdgrp>
   <trd lng="en">slope</trd>
   <trdgrp lng="fr">
     <trd>s'incliner<klr tip="amb"> (&ecirc;tre en pente)</klr></trd>,
@@ -91,10 +100,20 @@
     <trd>mie&cacute; <ind>spad</ind></trd>,
     <trd>by&cacute; <ind>pochy&lstroke;ym</ind></trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mať sklon</trd>,
+    <trd>zvažovať sa</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: dekliv.xml,v $
+Revision 1.18  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2012/09/04 09:10:15  revo
 Marc Rausell: + trd ca
 

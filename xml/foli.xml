@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: foli.xml,v 1.44 2014/09/27 15:10:10 revo Exp $">
+<art mrk="$Id: foli.xml,v 1.47 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>foli</rad>/o
@@ -41,7 +41,7 @@
         <ind><tld/>ingo, <tld/>bazo</ind>
         <klr>(baza parto de <tld/>o &ccirc;irka&ubreve;anta la tigon)</klr>;
         <trd lng="de">Blattgrund</trd>
-        <trd lng="es">Base (de la hoja de &aacute;rbol)<klr tip="amb">
+        <trd lng="es">base (de la hoja de &aacute;rbol)<klr tip="amb">
         (bot)</klr></trd>
         <trd lng="fr">base foliaire</trd>
         <trd lng="hu">alap<klr tip="amb"> (lev&eacute;len)</klr></trd>
@@ -66,7 +66,7 @@
       </ekz>
     </dif>
     <trd lng="de">Blatt</trd>
-    <trd lng="es">Hoja<klr tip="amb"> (&aacute;rbol,planta)</klr></trd>
+    <trd lng="es">hoja<klr tip="amb"> (&aacute;rbol,planta)</klr></trd>
     <trd lng="nl">blad<klr tip="ind"> (plantk.)</klr></trd>
     <trd lng="hu">lev&eacute;l<klr tip="amb"> (fa~)</klr></trd>
     <trd lng="pt">folha</trd>
@@ -93,7 +93,7 @@
       <trd>Folie <klr>(metalo, plasto)</klr></trd>
     </trdgrp>
     <trdgrp lng="es">
-      <trd>Hoja <klr tip="amb">(papel, metal, pl&aacute;stico)</klr></trd>
+      <trd>hoja <klr tip="amb">(papel, metal, pl&aacute;stico)</klr></trd>
       <trd>plancha <klr tip="amb">(metal)</klr></trd>
       <trd>l&aacute;mina <klr>(metal, pl&aacute;stico)</klr></trd>
     </trdgrp>
@@ -111,6 +111,10 @@
     <trd>l&acirc;mina</trd>
   </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>list papíru</trd>,
+    <trd>list rostliny</trd>
+  </trdgrp>
   <trd lng="en">leaf</trd>
   <trd lng="es">hoja</trd>
   <trd lng="fr">feuille</trd>
@@ -119,8 +123,9 @@
     <trd>kartka</trd>
   </trdgrp>
   <trd lng="ru">&c_l;&c_i;&c_s;&c_t;</trd>
-  <trd lng="tr">yaprak</trd>
+  <trd lng="sk">v kartách zelené</trd>
   <trd lng="tp">kasi</trd>
+  <trd lng="tr">yaprak</trd>
 </drv>
 
 <drv mrk="foli.0i">
@@ -131,9 +136,11 @@
       Naski <tld/>ojn.
     </dif>
   </snc>
+  <trd lng="cs">vyhánět listy</trd>
   <trd lng="fr">feuiller</trd>
   <trd lng="hu">levelet hajt</trd>
   <trd lng="ru">&c_p;&c_o;&c_k;&c_r;&c_y;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja; &c_l;&c_i;&c_s;&c_t;&c_mol;&c_ja;&c_m;&c_i;</trd>
+  <trd lng="sk">vyháňať listy</trd>
 </drv>
 
 <drv mrk="foli.0aro">
@@ -144,12 +151,18 @@
     </dif>
   </snc>
   <trd lng="ca">fullatge</trd>
+  <trdgrp lng="cs">
+    <trd>listoví rostliny</trd>,
+    <trd>listí</trd>,
+    <trd>olistění</trd>
+  </trdgrp>
   <trd lng="de">Laub</trd>
   <trd lng="es">follaje</trd>
   <trd lng="fr">feuillage</trd>
   <trd lng="hu">lomb(ozat)</trd>
   <trd lng="pl">ulistnienie</trd>
   <trd lng="ru">&c_l;&c_i;&c_s;&c_t;&c_v;&c_a;</trd>
+  <trd lng="sk">lístie</trd>
 </drv>
 
 <drv mrk="foli.0ero">
@@ -161,7 +174,12 @@
       <ref tip="malprt" cel="foli.0o.BOT"><tld/>on</ref>.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>lísteček složeného listu</trd>,
+    <trd>šupina obalová</trd>
+  </trdgrp>
   <trd lng="fr">foliole</trd>
+  <trd lng="sk">lístoček <klr>(zložitých kvetov)</klr></trd>
 </drv>
 
 <drv mrk="foli.0umi">
@@ -193,9 +211,14 @@
     vil&aacute;gh&aacute;l&oacute;n)</klr></trd>
     <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_m;&c_a;&c_t;&c_r;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>listovat</trd>,
+    <trd>obracet listy <klr>(v knize)</klr></trd>
+  </trdgrp>
   <trd lng="en">browse</trd>
-  <trd lng="es">Navegar <klr tip="amb">(por internet)</klr></trd>
+  <trd lng="es">navegar <klr tip="amb">(por internet)</klr></trd>
   <trd lng="nl">bladeren</trd>
+  <trd lng="sk">listovať</trd>
 </drv>
 
 <drv mrk="foli.0igi">
@@ -210,8 +233,8 @@
       </ekz>
     </dif>
     <trdgrp lng="es">
-       <trd>laminar</trd>
-       <trd>Hacer planchas</trd>
+       <trd>laminar</trd>,
+       <trd>hacer planchas</trd>
     </trdgrp>
     <trd lng="fr">laminer</trd>
     <trd lng="hu">lamin&aacute;l</trd>
@@ -221,6 +244,8 @@
       <trd>&c_p;&c_l;&c_ju;&c_shch;&c_i;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">lístkovat</trd>
+  <trd lng="sk">lístkovať</trd>
 </drv>
 
 <drv mrk="foli.0umilo">
@@ -233,6 +258,7 @@
       TTT-legilo de <ref tip="malprt" cel="ret.0umilo">retumilo</ref>
     </dif>
   </snc>
+  <trd lng="cs">prohlížečka <klr>(program)</klr></trd>
   <trd lng="en">browser</trd>
   <trdgrp lng="es">
     <trd>explorador (programa)</trd>,
@@ -258,6 +284,7 @@
     <trd>&c_p;&c_r;&c_o;&c_s;&c_m;&c_o;&c_t;&c_r;&c_shch;&c_i;&c_k;</trd>,
     <trd>&c_o;&c_b;&c_o;&c_z;&c_r;&c_je;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">prehliadač</trd>
 </drv>
 
 <drv mrk="foli.fal0a">
@@ -284,6 +311,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">opadavý</trd>
   <trdgrp lng="es">
     <trd>caducifolia</trd>,
     <trd>de hoja <ind>caduca</ind></trd>
@@ -295,6 +323,7 @@
     <trd>dec&iacute;duo</trd>,
     <trd>deciduif&oacute;lio</trd>    
   </trdgrp>
+  <trd lng="sk">opadavý</trd>
 </drv>
 
 <drv mrk="foli.flug0o">
@@ -306,19 +335,21 @@
       ordinare uzata por propagando a&ubreve; reklamo.
     </dif>
   </snc>
+  <trd lng="cs">leták</trd>
   <trd lng="de">Flugblatt</trd>
-  <trd lng="es">Panfleto</trd>
+  <trd lng="es">panfleto</trd>
   <trd lng="fr">prospectus</trd>
-  <trdgrp lng="nl">
-    <trd>strooibiljet</trd>,
-    <trd>pamflet</trd>
-  </trdgrp>
   <trdgrp lng="hu">
     <trd>r&ouml;plap</trd>,
     <trd>prospektus</trd>
   </trdgrp>
+  <trdgrp lng="nl">
+    <trd>strooibiljet</trd>,
+    <trd>pamflet</trd>
+  </trdgrp>
   <trd lng="pl">ulotka</trd>
   <trd lng="ru">&c_l;&c_i;&c_s;&c_t;&c_o;&c_v;&c_k;&c_a;</trd>
+  <trd lng="sk">leták</trd>
 </drv>
 
 <drv mrk="foli.tri0o">
@@ -338,7 +369,7 @@
     <trd lng="la">Trifolium pratense</trd>
   </bld>
   <trd lng="de">Klee</trd>
-  <trd lng="es">Trebol</trd>
+  <trd lng="es">trebol</trd>
   <trd lng="fr">tr&egrave;fle</trd>
   <trd lng="hu">l&oacute;here</trd>
   <trd lng="nl">klaver</trd>
@@ -346,6 +377,12 @@
   <trdgrp lng="ru">
     <trd>&c_k;&c_l;&c_je;&c_v;&c_je;&c_r;</trd>,
     <trd>&c_t;&c_r;&c_i;&c_l;&c_i;&c_s;&c_t;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">trojlístok</trd>
+  <trdgrp lng="cs">
+    <trd>trifolium</trd>,
+    <trd>trojlístek</trd>,
+    <trd>třílístek</trd>
   </trdgrp>
 </drv>
 
@@ -369,16 +406,30 @@
   </bld>
   <trd lng="de">Descartessches <ind>Blatt</ind></trd>
   <trd lng="en">Cartesian <ind>folium</ind></trd>
-  <trd lng="es">Hoja de Descartes<klr tip="amb"> (curva
+  <trd lng="es">hoja de Descartes<klr tip="amb"> (curva
   geom&eacute;trica)</klr></trd>
   <trd lng="fr">folium de Descartes</trd>
   <trd lng="hu">Descartes-f&eacute;le lev&eacute;lg&ouml;rbe</trd>
   <trd lng="pl">li&sacute;&cacute; Kartezjusza</trd>
   <trd lng="ru">&c_d;&c_je;&c_k;&c_a;&c_r;&c_t;&c_o;&c_v; <ind>&c_l;&c_i;&c_s;&c_t;</ind></trd>
+  <trd lng="sk">Descartesov list</trd>
+  <trdgrp lng="cs">
+    <trd>Descartesův list</trd>,
+    <trd>Descartův list</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: foli.xml,v $
+Revision 1.47  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.46  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.45  2015/06/24 08:10:16  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.44  2014/09/27 15:10:10  revo
 Alain Gerard: +trd fr
 
@@ -398,8 +449,5 @@ Revision 1.39  2010/03/13 17:30:25  revo
 Santiago Amposta: tradukado en hispanan
 
 Revision 1.38  2010/01/18 17:31:37  revo
-Mireille Corobu: svg->gif
-
-Revision 1.37  2007/06/02 19:47:40  revo
 -->
 </vortaro>

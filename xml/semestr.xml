@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: semestr.xml,v 1.5 2014/01/07 07:10:21 revo Exp $">
+<art mrk="$Id: semestr.xml,v 1.7 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>semestr</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -23,6 +23,10 @@
       </fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>pololetí</trd>,
+    <trd>semestr</trd>
+  </trdgrp>
   <trd lng="en">semester</trd>
   <trd lng="fr">semestre</trd>
   <trd lng="it">semestre</trd>
@@ -34,11 +38,21 @@
     <trd>&c_s;&c_je;&c_m;&c_je;&c_s;&c_t;&c_r;</trd>,
     <trd>&c_p;&c_o;&c_l;&c_u;&c_g;&c_o;&c_d;&c_i;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>polrok</trd>,
+    <trd>semester</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: semestr.xml,v $
+Revision 1.7  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2014/01/07 07:10:21  revo
 Sebastian Cyprych: +trd pl
 

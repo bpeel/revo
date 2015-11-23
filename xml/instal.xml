@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: instal.xml,v 1.18 2007/05/30 16:31:04 revo Exp $">
+<art mrk="$Id: instal.xml,v 1.20 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>instal</rad>/i
@@ -156,6 +156,21 @@
     </trdgrp>
     <trd lng="ru">&c_n;&c_a;&c_z;&c_n;&c_a;&c_ch;&c_i;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dosadit</trd>,
+    <trd>instalovat</trd>,
+    <trd>nastolit</trd>,
+    <trd>osadit</trd>,
+    <trd>umístit</trd>,
+    <trd>uvést do provozu</trd>,
+    <trd>uvést v úřad</trd>,
+    <trd>zavést</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dosadiť zaviesť</trd>,
+    <trd>inštalovať</trd>,
+    <trd>zariadiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="instal.0ado">
@@ -180,7 +195,13 @@
       </ekz>
     </dif>
   </snc>
-    <trd lng="es">instalaci&oacute;n</trd>
+  <trdgrp lng="cs">
+    <trd>instalace</trd>,
+    <trd>instalování</trd>,
+    <trd>umístění</trd>,
+    <trd>zařizování</trd>
+  </trdgrp>
+  <trd lng="es">instalaci&oacute;n</trd>
   <trdgrp lng="fr">
     <trd>installation<klr tip="ind"> (action)</klr></trd>,
     <trd>mise en place</trd>,
@@ -201,6 +222,11 @@
     <trd>&c_u;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_k;&c_a;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_m;&c_je;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_n;&c_a;&c_z;&c_n;&c_a;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>inštalácia</trd>,
+    <trd>usporiadanie</trd>,
+    <trd>zavedenie</trd>
   </trdgrp>
 </drv>
 
@@ -335,8 +361,9 @@
       komputilon.
     </dif>
   </snc>
-  <trd lng="en">installer</trd>
+  <trd lng="cs">instalační program</trd>
   <trd lng="de">Installationsprogramm</trd>
+  <trd lng="en">installer</trd>
   <trdgrp lng="es">
     <trd>programa de instalaci&oacute;n</trd>,
     <trd>instalador<klr tip="ind"> (programa)</klr></trd>
@@ -351,6 +378,7 @@
     <trd>&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_a; &c_u;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_k;&c_i;</trd>,
     <trd>&c_i;&c_n;&c_s;&c_t;&c_a;&c_l;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
   </trdgrp>
+  <trd lng="sk">inštalačný program</trd>
 </drv>
 
 <drv mrk="instal.0isto">
@@ -361,8 +389,9 @@
       Homo, kies metio estas <tld/>ado.
     </dif>
   </snc>
-  <trd lng="es">instalador<klr tip="ind"> (profesional)</klr></trd>
+  <trd lng="cs">instalatér</trd>
   <trd lng="de">Installateur</trd>
+  <trd lng="es">instalador<klr tip="ind"> (profesional)</klr></trd>
   <trd lng="fr">installateur<klr tip="ind"> (professionnel)</klr></trd>
   <trdgrp lng="hu">
     <trd>szerel&odblac;</trd>,
@@ -374,6 +403,7 @@
     <trd>&c_u;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_shch;&c_i;&c_k;</trd>,
     <trd>&c_n;&c_a;&c_l;&c_a;&c_d;&c_ch;&c_i;&c_k;</trd>
   </trdgrp>
+  <trd lng="sk">inštalatér</trd>
 </drv>
 
 <drv mrk="instal.mal0i">
@@ -381,9 +411,10 @@
   <snc>
     <ref tip="ant" cel="instal.0i"><tld/>i.</ref>
   </snc>
-  <trd lng="fr">d&eacute;sinstaller</trd>
+  <trd lng="cs">odinstalovat</trd>
   <trd lng="de">deinstallieren</trd>
   <trd lng="es">desinstalar</trd>
+  <trd lng="fr">d&eacute;sinstaller</trd>
   <trdgrp lng="hu">
     <trd>felsz&aacute;mol <klr tip="amb">(l&eacute;tes&iacute;tm&eacute;nyt)></klr></trd>,
     <trd>leszerel</trd>,
@@ -395,6 +426,7 @@
     <trd>&c_s;&c_n;&c_je;&c_s;&c_t;&c_i;</trd>,
     <trd>&c_d;&c_je;&c_i;&c_n;&c_s;&c_t;&c_a;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">odinštalovať</trd>
 </drv>
 
 <drv mrk="instal.mal0ilo">
@@ -405,8 +437,9 @@
       Programo por forigi iujn <tld/>itajn pecojn de programaro.
     </dif>
   </snc>
-  <trd lng="en">uninstaller</trd>
+  <trd lng="cs">odinstalační program</trd>
   <trd lng="de">Deinstallationsprogramm</trd>
+  <trd lng="en">uninstaller</trd>
   <trdgrp lng="es">
     <trd>programa de desinstalaci&oacute;n</trd>,
     <trd>desinstalador</trd>
@@ -421,10 +454,17 @@
   </trdgrp>
   <trd lng="pt">desinstalador<klr tip="amb"> (computa&ccedil;&atilde;o)</klr></trd>
   <trd lng="ru">&c_d;&c_je;&c_i;&c_n;&c_s;&c_t;&c_a;&c_l;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">odinštalačný program</trd>
 </drv>
 </art>
 <!--
 $Log: instal.xml,v $
+Revision 1.20  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2007/05/30 16:31:04  revo
 Wieland Pusch: +trd de
 

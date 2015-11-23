@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aper.xml,v 1.32 2010/09/02 16:30:25 revo Exp $">
+<art mrk="$Id: aper.xml,v 1.34 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>aper</rad>/i <fnt><bib>PV</bib></fnt>
@@ -175,7 +175,10 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_z;'&c_ja;&c_v;&c_ib;&c_c;&c_c;&c_a;</trd>
-  <trd lng="cs">objevit se</trd>
+  <trdgrp lng="cs">
+    <trd>objevit se</trd>,
+    <trd>vyjít <klr>(kniha, periodikum)</klr></trd>
+  </trdgrp>
   <trd lng="de">erscheinen</trd>
   <trd lng="en">appear</trd>
   <trd lng="hu">megjelenik</trd>
@@ -195,7 +198,11 @@
     &c_o;&c_b;&c_malmol;&c_ja;&c_v;&c_l;&c_ja;&c_t;&c_mol;&c_s;&c_ja;
     </trd>
   </trdgrp>
-  <trd lng="sk">zjavi&tcaron; sa</trd>
+  <trdgrp lng="sk">
+    <trd>objaviť sa</trd>,
+    <trd>vyjsť <klr>(kniha, časopis)</klr></trd>,
+    <trd>zjavi&tcaron; sa</trd>
+  </trdgrp>
   <trd lng="tp">kama</trd>
 </drv>
 
@@ -275,7 +282,16 @@
     <trd lng="ru">&c_v;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
     <trd lng="sk">v&yacute;skyt</trd>
   </snc>
-  <trd lng="sk">&uacute;kaz</trd>
+  <trdgrp lng="cs">
+    <trd>nabytí vědomí po anestezii</trd>,
+    <trd>objevení se</trd>,
+    <trd>vynoření</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>&uacute;kaz</trd>,
+    <trd>objavenie sa</trd>,
+    <trd>vynorenie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="aper.0igi">
@@ -307,6 +323,15 @@
     </trdgrp>
     <trd lng="sk">prejavi&tcaron;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>ukázat</trd>,
+    <trd>vydat knihu</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>publikovať</trd>,
+    <trd>uverejniť</trd>,
+    <trd>vydať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="aper.mal0i">
@@ -369,6 +394,10 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_z;&c_mol;&c_n;&c_ib;&c_k;&c_n;&c_u;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>mizet</trd>,
+    <trd>zmizet</trd>
+  </trdgrp>
   <trd lng="de">verschwinden</trd>
   <trd lng="fr">dispara&icirc;tre</trd>
   <trd lng="it">sparire</trd>
@@ -376,7 +405,11 @@
     <trd>&c_i;&c_s;&c_ch;&c_je;&c_z;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_i;&c_s;&c_ch;&c_je;&c_z;&c_n;&c_u;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">zmizn&uacute;&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>prepadnúť sa</trd>,
+    <trd>rozplynúť sa</trd>,
+    <trd>zmizn&uacute;&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="aper.mal0igi">
@@ -400,16 +433,24 @@
       <trd>&c_u;&c_d;&c_a;&c_l;&c_i;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>odstranit</trd>,
+    <trd>zničit</trd>
+  </trdgrp>
   <trd lng="de">verschwinden lassen</trd>
   <trdgrp lng="fr">
     <trd>faire <ind>dispara&icirc;tre</ind></trd>,
     <trd>escamoter</trd>,
     <trd>supprimer</trd>
   </trdgrp>
-  <trd lng="hu">elt&uuml;ntet</trd>  
+  <trd lng="hu">elt&uuml;ntet</trd>
   <trdgrp lng="pl">
     <trd>ukry&cacute;</trd>,
     <trd>schowa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odstrániť</trd>,
+    <trd>zničiť</trd>
   </trdgrp>
 </drv>
 
@@ -419,6 +460,7 @@
     <ref tip="dif" cel="fantom.0o">fantomo</ref>
   </snc>
   <trd lng="br">seblant<klr tip="ind"> (tasmant)</klr></trd>
+  <trd lng="cs">duch nebožtíka</trd>
   <trd lng="de">Wiederg&auml;nger</trd>
   <trdgrp lng="fr">
     <trd>apparition</trd>,
@@ -431,10 +473,17 @@
     <trd>widziad&lstroke;o</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_z;&c_r;&c_a;&c_k;</trd>
+  <trd lng="sk">duch mŕtveho</trd>
 </drv>
 </art>
 <!--
 $Log: aper.xml,v $
+Revision 1.34  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.32  2010/09/02 16:30:25  revo
 Jeromo Vasxe: - kramp
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: oblat.xml,v 1.19 2011/12/03 09:10:17 revo Exp $">
+  <art mrk="$Id: oblat.xml,v 1.21 2015/07/04 08:37:40 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>oblat</rad>/o
@@ -92,20 +92,28 @@
         <trd lng="it">sigillo<klr> (bollo)</klr></trd>
         <trd lng="ru">&c_o;&c_b;&c_l;&c_a;&c_t;&c_k;&c_a;</trd>
       </snc>
-      <trd lng="be">&c_a;&c_b;&c_l;&c_a;&c_t;&c_k;&c_a;</trd>
-      <trd lng="de">Oblate</trd>
-      <trd lng="en">wafer</trd>
-      <trd lng="hu">ostya</trd>
-      <trd lng="nl">ouwel</trd>
-      <trdgrp lng="pt">
+  <trd lng="be">&c_a;&c_b;&c_l;&c_a;&c_t;&c_k;&c_a;</trd>
+  <trd lng="cs">vaginální čípek</trd>
+  <trd lng="de">Oblate</trd>
+  <trd lng="en">wafer</trd>
+  <trd lng="hu">ostya</trd>
+  <trd lng="nl">ouwel</trd>
+  <trdgrp lng="pt">
         <trd>obreia</trd>,
         <trd>oblata</trd>    
       </trdgrp>
-    </drv>
+  <trd lng="sk">vaginálny čipok</trd>
+</drv>
 
   </art>
   <!--
   $Log: oblat.xml,v $
+  Revision 1.21  2015/07/04 08:37:40  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.20  2015/06/29 16:33:21  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.19  2011/12/03 09:10:17  revo
   Marc Rausell: kataluna traduko
 

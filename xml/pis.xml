@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pis.xml,v 1.10 2014/06/25 18:10:13 revo Exp $">
+<art mrk="$Id: pis.xml,v 1.12 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>pis</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -51,6 +51,7 @@
     </dif>
   </snc>
   <trd lng="ca">orinal</trd>
+  <trd lng="cs">nočník</trd>
   <trd lng="en">toilet</trd>
   <trd lng="es">orinal</trd>
   <trd lng="fr">pot<klr> (urinoir)</klr></trd>
@@ -65,10 +66,17 @@
     <trd>penico</trd>
   </trdgrp>
   <trd lng="ru">&c_n;&c_o;&c_ch;&c_n;&c_o;&c_j; <ind>&c_g;&c_o;&c_r;&c_sh;&c_o;&c_k;</ind></trd>
+  <trd lng="sk">nočník</trd>
 </drv>
 </art>
 <!--
 $Log: pis.xml,v $
+Revision 1.12  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2014/06/25 18:10:13  revo
 Eko Nur Syah Hidayat: +id
 

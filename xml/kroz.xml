@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kroz.xml,v 1.18 2010/06/16 16:30:28 revo Exp $">
+<art mrk="$Id: kroz.xml,v 1.20 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kroz</rad>/i
@@ -109,6 +109,12 @@
       <trd lng="nl">fladderen<klr tip="ind"> (flirten)</klr></trd>
     </subsnc>
   </snc>
+  <trd lng="cs">křižovat</trd>
+  <trdgrp lng="sk">
+    <trd>hliadkovať</trd>,
+    <trd>križovať</trd>,
+    <trd>patrolovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kroz.0o">
@@ -118,6 +124,7 @@
       Ago <tld/>i.
     </dif>
   </snc>
+  <trd lng="cs">křižování</trd>
   <trd lng="de">Kreuzen</trd>
   <trdgrp lng="fr">
     <trd>croisi&egrave;re</trd>,
@@ -125,6 +132,7 @@
     <trd>vadrouille</trd>,
     <trd>drague</trd>
   </trdgrp>
+  <trd lng="sk">križovanie</trd>
 </drv>
 
 <drv mrk="kroz.0ilo">
@@ -156,12 +164,14 @@
     <ref tip="dif" cel="sxip.kroz0o"><tld/>&scirc;ipo</ref>
   </snc>
   <trd lng="be">&c_k;&c_r;&c_e;&c_j;&c_s;&c_e;&c_r;</trd>
+  <trd lng="cs">křižník</trd>
   <trd lng="de">Kreuzer</trd>
   <trd lng="en">crusier</trd>
   <trd lng="hu">cirk&aacute;l&oacute; <klr tip="ind">(haj&oacute;)</klr></trd>
   <trd lng="it">incrociatore</trd>
   <trd lng="nl">kruiser</trd>
   <trd lng="ru">&c_k;&c_r;&c_je;&c_j;&c_s;&c_je;&c_r;</trd>
+  <trd lng="sk">krížnik</trd>
 </drv>
 
 <drv mrk="kroz.0isto">
@@ -173,16 +183,24 @@
     <ref tip="dif" cel="sxip.kroz0o"><tld/>&scirc;ipo</ref>
   </snc>
   <trd lng="be">&c_k;&c_r;&c_e;&c_j;&c_s;&c_e;&c_r;</trd>
+  <trd lng="cs">křižník</trd>
   <trd lng="de">Kreuzer</trd>
   <trd lng="en">crusier</trd>
   <trd lng="hu">cirk&aacute;l&oacute; <klr tip="ind">(haj&oacute;)</klr></trd>
   <trd lng="it">incrociatore</trd>
   <trd lng="nl">kruiser<klr tip="ind"> (ontr.)</klr></trd>
   <trd lng="ru">&c_k;&c_r;&c_je;&c_j;&c_s;&c_je;&c_r;</trd>
+  <trd lng="sk">krížnik</trd>
 </drv>
 </art>
 <!--
 $Log: kroz.xml,v $
+Revision 1.20  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2010/06/16 16:30:28  revo
 Antonio Codazzi: +trd it
 

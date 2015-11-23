@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: katod.xml,v 1.18 2011/10/01 20:10:12 revo Exp $">
+<art mrk="$Id: katod.xml,v 1.20 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>katod</rad>/o
 </kap>
@@ -25,6 +25,10 @@
   <trd lng="bg">&c_k;&c_a;&c_t;&c_o;&c_d;</trd>
   <trdgrp lng="ca">
     <trd>c&agrave;tode</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>katoda</trd>,
+    <trd>záporná elektroda</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Minuspol</trd>,
@@ -51,11 +55,21 @@
   <trd lng="nl">kathode</trd>
   <trd lng="pl">katoda</trd>
   <trd lng="ru">&c_k;&c_a;&c_t;&c_o;&c_d;</trd>
+  <trdgrp lng="sk">
+    <trd>katóda</trd>,
+    <trd>záporná elektróda</trd>
+  </trdgrp>
   <trd lng="sv">katod</trd>
 </drv>
 </art>
 <!--
 $Log: katod.xml,v $
+Revision 1.20  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2011/10/01 20:10:12  revo
 Behnam Tabatabai: +trd fa
 

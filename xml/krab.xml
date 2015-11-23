@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krab.xml,v 1.15 2014/10/28 11:10:36 revo Exp $">
+<art mrk="$Id: krab.xml,v 1.16 2015/04/04 23:10:14 revo Exp $">
 <kap>
    <ofc>1</ofc>
    <rad>krab</rad>/o
@@ -24,6 +24,10 @@
    <trd lng="be">&c_k;&c_r;&c_a;&c_b;</trd>
    <trd lng="de">Krabbe</trd>
    <trd lng="en">crab</trd>
+   <trdgrp lng="es">
+     <trd>cangrejo</trd>,
+     <trd>jaiba</trd>
+   </trdgrp>
    <trd lng="fr">crabe</trd>
    <trd lng="hu">r&aacute;k<klr tip="ind"> (&aacute;llat)</klr></trd>
    <trdgrp lng="id">
@@ -49,6 +53,7 @@
      </dif>
    </snc>
    <trd lng="de">Krabben <klr tip="ind">(Unterordn.)</klr></trd>
+   <trd lng="es">braquiuros</trd>
    <trd lng="hu">r&ouml;vidfark&uacute; <ind>r&aacute;kok</ind> <klr 
 tip="ind">(alrend)</klr></trd>
    <trd lng="nl">krabben</trd>
@@ -62,6 +67,9 @@ tip="ind">(alrend)</klr></trd>
 </art>
 <!--
 $Log: krab.xml,v $
+Revision 1.16  2015/04/04 23:10:14  revo
+Carlos Garcia: +trd es -o -oj
+
 Revision 1.15  2014/10/28 11:10:36  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -81,8 +89,5 @@ Revision 1.10  2002/12/17 20:11:02  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9  2002/07/11 17:32:48  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2001/11/05 19:12:24  revo
 -->
 </vortaro>

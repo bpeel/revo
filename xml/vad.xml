@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vad.xml,v 1.21 2011/07/05 05:10:26 revo Exp $">
+<art mrk="$Id: vad.xml,v 1.25 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>vad</rad>/i
@@ -11,9 +11,7 @@
   <kap>
     <tld/>i
   </kap>
-  <gra>
-    <vspec>ntr</vspec>
-  </gra>
+  <gra><vspec>ntr</vspec></gra>
   <snc>
     <dif>
       Pa&scirc;i en akvo a&ubreve; en mola substanco, koto, ne&gcirc;o,
@@ -45,10 +43,7 @@
     <trd lng="de">waten</trd>
     <trd lng="en">wade</trd>
     <trd lng="es">vadear</trd>
-    <trdgrp lng="fr">
-      <trd>enfoncer<klr> (en marchant)</klr></trd>,
-      <trd>patauger</trd>
-    </trdgrp>
+    <trd lng="fr">patauger</trd>
     <trd lng="hu">g&aacute;zol<klr tip="ind">
     (v&iacute;zben)</klr></trd>
     <trd lng="nl">waden</trd>
@@ -90,6 +85,14 @@
     <trd lng="sk">brod</trd>
     <trd lng="sv">vadst&auml;lle</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>brod</trd>,
+    <trd>mělčina</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>brod, plytčina</trd>,
+    <trd>plytčina</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vad.tra0ejo">
@@ -110,6 +113,7 @@
     <trd lng="sk">brod</trd>
     <trd lng="sv">vadst&auml;lle</trd>
   </snc>
+  <trd lng="cs">brod</trd>
 </drv>
 
 <drv mrk="vad.tra0i">
@@ -122,8 +126,10 @@
   </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_j;&c_s;&c_mol;&c_c;&c_ib;
   <ind>&c_w;&c_b;&c_r;&c_o;&c_d;</ind></trd>
+  <trd lng="cs">přebrodit <klr>(dostat se z břehu na břeh)</klr></trd>
   <trd lng="de">durchwaten</trd>
   <trd lng="en">ford</trd>
+  <trd lng="es">vadear</trd>
   <trd lng="fr">passer &agrave; gu&eacute;</trd>
   <trd lng="hu">&aacute;tg&aacute;zol</trd>
   <trd lng="nl">doorwaden</trd>
@@ -132,7 +138,6 @@
     <trd>przej&sacute;&cacute; w <ind>br&oacute;d</ind></trd>
   </trdgrp>
   <trd lng="pt">atravessar a vau</trd>
-  <trd lng="es">vadear</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_j;&c_t;&c_i;
   <ind>&c_v;&c_b;&c_r;&c_o;&c_d;</ind></trd>
   <trd lng="sk">prebrodi&tcaron;</trd>
@@ -140,6 +145,18 @@
 </art>
 <!--
 $Log: vad.xml,v $
+Revision 1.25  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/03/10 08:10:15  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.21  2011/07/05 05:10:26  revo
 Sebastian Cyprych: +trd pl
 
@@ -159,8 +176,5 @@ Revision 1.16 2002/09/09 19:46:49 revo
 Viliam Bur: trd +sk
 
 Revision 1.15 2002/07/18 11:24:15 revo
-Eduardo M. Kalinowski: ald trd pt
-
-Revision 1.14 2002/05/06 16:33:39 revo
 -->
 </vortaro>

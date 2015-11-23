@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: bronk.xml,v 1.16 2010/11/06 17:30:24 revo Exp $">
+  <art mrk="$Id: bronk.xml,v 1.18 2015/07/04 08:37:31 revo Exp $">
     <kap>
       <ofc>2</ofc>
       <rad>bronk</rad>/o
@@ -18,23 +18,34 @@
           la aeron en la pulmojn.  
         </dif>
       </snc>
-      <trd lng="be">&c_b;&c_r;&c_o;&c_n;&c_h;</trd>
-      <trd lng="bg">&c_b;&c_r;&c_o;&c_n;&c_h;&c_i;</trd>
-      <trd lng="de">Bronchus</trd>
-      <trd lng="en">bronchial tube</trd>
-      <trdgrp lng="fa">
+  <trd lng="be">&c_b;&c_r;&c_o;&c_n;&c_h;</trd>
+  <trd lng="bg">&c_b;&c_r;&c_o;&c_n;&c_h;&c_i;</trd>
+  <trdgrp lng="cs">
+    <trd>bronchus</trd>,
+    <trd>průduška</trd>
+  </trdgrp>
+  <trd lng="de">Bronchus</trd>
+  <trd lng="en">bronchial tube</trd>
+  <trdgrp lng="fa">
         <trd>&a_n;&a_A;&f_y;&f_zh;&a_h;</trd>,
         <trd>&a_b;&a_r;&a_w;&a_n;&a_sh;</trd>
       </trdgrp>
-      <trd lng="fr">bronche</trd>
-      <trd lng="it">bronco</trd>
-      <trd lng="nl">&eacute;&eacute;n van beide <ind>bronchi&euml;n</ind></trd>
-      <trd lng="pl">oskrzela</trd>
-      <trd lng="ru">&c_b;&c_r;&c_o;&c_n;&c_h;</trd>
-    </drv>
+  <trd lng="fr">bronche</trd>
+  <trd lng="it">bronco</trd>
+  <trd lng="nl">&eacute;&eacute;n van beide <ind>bronchi&euml;n</ind></trd>
+  <trd lng="pl">oskrzela</trd>
+  <trd lng="ru">&c_b;&c_r;&c_o;&c_n;&c_h;</trd>
+  <trd lng="sk">prieduška</trd>
+</drv>
   </art>
   <!--
   $Log: bronk.xml,v $
+  Revision 1.18  2015/07/04 08:37:31  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.17  2015/06/29 16:29:36  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.16  2010/11/06 17:30:24  revo
   Antonio Codazzi: +trd it
 

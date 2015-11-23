@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: got.xml,v 1.10 2012/07/15 09:10:09 revo Exp $">
+<art mrk="$Id: got.xml,v 1.12 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>got</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -18,13 +18,21 @@
   </snc>
   <trd lng="be">&c_g;&c_o;&c_t;</trd>
   <trd lng="ca">got</trd>
+  <trdgrp lng="cs">
+    <trd>barbar</trd>,
+    <trd>vandal</trd>
+  </trdgrp>
   <trd lng="de">Gote</trd>
   <trd lng="fr">Goth</trd>
-  <trd lng="hu">g&oacute;t</trd>  
+  <trd lng="hu">g&oacute;t</trd>
   <trd lng="pl">Got</trd>
   <trd lng="pt">godo<klr tip="amb"> (indiv&iacute;duo dos
   godos)</klr></trd>
   <trd lng="ru">&c_g;&c_o;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>barbar</trd>,
+    <trd>vandal</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="got.0a">
@@ -59,6 +67,12 @@
 
 <!--
 $Log: got.xml,v $
+Revision 1.12  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2012/07/15 09:10:09  revo
 Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kapsik.xml,v 1.24 2013/11/02 18:10:14 revo Exp $">
+<art mrk="$Id: kapsik.xml,v 1.26 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>9</ofc> <rad>kapsik</rad>/o <fnt>Z</fnt> 
   <fnt><bib>PV</bib></fnt>
@@ -51,6 +51,7 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_c; <klr>(&c_s;&c_t;&c_r;&c_u;&c_ch;&c_k;&c_o;&c_v;&c_y;)</klr></trd>
+  <trd lng="cs">paprika roční</trd>
   <trd lng="de">Paprika</trd>
   <trd lng="en">pepper</trd>
   <trd lng="fr">poivron</trd>
@@ -58,6 +59,7 @@
   <trd lng="nl">paprika</trd>
   <trd lng="pl">papryka</trd>
   <trd lng="ru">&c_s;&c_t;&c_r;&c_u;&c_ch;&c_k;&c_o;&c_v;&c_y;&c_j; &c_p;&c_je;&c_r;&c_je;&c_c;</trd>
+  <trd lng="sk">paprika <klr>(rastlina)</klr></trd>
   <trd lng="tr">dolmal&inodot;k biber</trd>
 </drv>
 
@@ -97,6 +99,12 @@
 </art>
 <!--
 $Log: kapsik.xml,v $
+Revision 1.26  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2013/11/02 18:10:14  revo
 Wolfram Diestel: prilaboris dif, ref al lst solanoparencoj
 

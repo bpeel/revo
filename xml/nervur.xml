@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nervur.xml,v 1.12 2014/04/08 12:10:19 revo Exp $">
+<art mrk="$Id: nervur.xml,v 1.14 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <rad>nervur</rad>/o
 </kap>
@@ -55,13 +55,28 @@
 (&eacute;rh&aacute;l&oacute;zat)</klr></trd>
     <trd lng="pl">unerwienie</trd>   
   </snc>
+  <trdgrp lng="cs">
+    <trd>nervatura</trd>,
+    <trd>žilnatina</trd>
+  </trdgrp>
   <trd lng="it">nervatura</trd>
-  <trd lng="pl">unerwienie</trd>   
+  <trd lng="pl">unerwienie</trd>
   <trd lng="pt">nervura</trd>
+  <trdgrp lng="sk">
+    <trd>nervatúra</trd>,
+    <trd>nervová sieť</trd>,
+    <trd>žilnatina</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: nervur.xml,v $
+Revision 1.14  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2014/04/08 12:10:19  revo
 Damien Brucker: +trd fr
 

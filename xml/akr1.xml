@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: akr1.xml,v 1.13 2013/04/12 09:10:11 revo Exp $">
+<art mrk="$Id: akr1.xml,v 1.15 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>akr</rad>/o <fnt><bib>ZR</bib></fnt> <fnt><bib>PV</bib></fnt>
@@ -13,6 +13,10 @@
     <ref tip="dif" cel="akre.0o.MEZ">akreo</ref>
   </snc>
   <trd lng="be">&c_a;&c_k;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>akr</trd>,
+    <trd>jitro <klr>(0,817 ha)</klr></trd>
+  </trdgrp>
   <trd lng="de">Morgen</trd>
   <trd lng="en">acre</trd>
   <trd lng="es">acre</trd>
@@ -21,11 +25,20 @@
   <trd lng="hu">hold<klr> (f&ouml;ldm&eacute;rt&eacute;k)</klr></trd>
   <trd lng="pt">acre</trd>
   <trd lng="ru">&c_a;&c_k;&c_r;</trd>
-  <trd lng="sk">aker</trd>
+  <trdgrp lng="sk">
+    <trd>aker</trd>,
+    <trd>aker <klr>(plošná miera 40 árov)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: akr1.xml,v $
+Revision 1.15  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2013/04/12 09:10:11  revo
 Jeromo Vasxe: ref dif
 

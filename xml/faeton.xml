@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: faeton.xml,v 1.16 2014/02/09 18:10:25 revo Exp $">
+<art mrk="$Id: faeton.xml,v 1.18 2015/07/04 08:37:33 revo Exp $">
 <kap><rad>faeton</rad>/o
 <fnt>Z</fnt></kap>
 <drv mrk="faeton.0o">
@@ -20,6 +20,7 @@
   <trd lng="be">&c_f;&c_a;&c_e;&c_t;&c_o;&c_n;</trd>
   <trd lng="bg">&c_f;&c_a;&c_j;&c_t;&c_o;&c_n;</trd>
   <trd lng="ca">faet&oacute;</trd>
+  <trd lng="cs">Faetón</trd>
   <trd lng="de">Phaeton</trd>
   <trd lng="en">phaeton</trd>
   <trd lng="es">faet&oacute;n</trd>
@@ -35,10 +36,21 @@
   </trdgrp>
   <trd lng="ru">&c_f;&c_a;&c_e;&c_t;&c_o;&c_n;
   <klr>(&c_e;&c_k;&c_i;&c_p;&c_a;&c_zh;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>faeton</trd>,
+    <trd>otvorený koč</trd>,
+    <trd>ľahký</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: faeton.xml,v $
+Revision 1.18  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2014/02/09 18:10:25  revo
 Agustin Garcia Lopez: +trd(es)
 

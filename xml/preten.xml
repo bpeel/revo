@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: preten.xml,v 1.17 2013/04/17 05:10:13 revo Exp $">
+  <art mrk="$Id: preten.xml,v 1.19 2015/07/04 08:37:42 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>pretend</rad>/i <fnt><bib>PV</bib></fnt>
@@ -76,16 +76,31 @@
         <trd lng="nl"><ind>pretentie</ind> hebben</trd>
         <trd lng="pl">by&cacute; <ind>pretensjonalnym</ind></trd>
       </snc>
-      <trd lng="be">&c_p;&c_r;&c_e;&c_t;&c_e;&c_n;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
-      <trd lng="en">claim</trd>
-      <trd lng="fr">pr&eacute;tendre</trd>
-      <trdgrp lng="pt">
+  <trd lng="be">&c_p;&c_r;&c_e;&c_t;&c_e;&c_n;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>chlubit se</trd>,
+    <trd>nárokovat</trd>,
+    <trd>osobovat si</trd>,
+    <trd>požadovat</trd>,
+    <trd>předstírat</trd>,
+    <trd>činit si nárok</trd>,
+    <trd>žádat</trd>
+  </trdgrp>
+  <trd lng="en">claim</trd>
+  <trd lng="fr">pr&eacute;tendre</trd>
+  <trdgrp lng="pt">
         <trd>pretender</trd>,
         <trd>alegar</trd>,
         <trd>ter a <ind>pretens&atilde;o</ind> de</trd>    
       </trdgrp>
-      <trd lng="ru">&c_p;&c_r;&c_je;&c_t;&c_je;&c_n;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
-    </drv>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_t;&c_je;&c_n;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>nárokovať</trd>,
+    <trd>požadovať</trd>,
+    <trd>robiť si nárok</trd>,
+    <trd>žiadať</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="preten.mal0i">
       <kap>mal<tld/>i</kap>
@@ -107,16 +122,20 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="fr">renoncer &agrave;</trd>
-      <trd lng="hu">nem tart r&aacute; <ind>ig&eacute;nyt</ind></trd>
-      <trd lng="nl"><ind>afstand</ind> doen</trd>
-      <trdgrp lng="pl">
+  <trd lng="fr">renoncer &agrave;</trd>
+  <trd lng="hu">nem tart r&aacute; <ind>ig&eacute;nyt</ind></trd>
+  <trd lng="nl"><ind>afstand</ind> doen</trd>
+  <trdgrp lng="pl">
         <trd>rezygnowa&cacute;</trd>,
         <trd>zrzeka&cacute; si&eogonek; <ind>pretensji</ind> <klr>(do
         czego&sacute;)</klr></trd>
       </trdgrp>
-      <trd lng="ru">&c_o;&c_t;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr> (&c_o;&c_t; &c_p;&c_r;&c_je;&c_t;&c_je;&c_n;&c_z;&c_i;&c_j;, &c_p;&c_r;&c_a;&c_v;)</klr></trd>
-    </drv>
+  <trd lng="ru">&c_o;&c_t;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr> (&c_o;&c_t; &c_p;&c_r;&c_je;&c_t;&c_je;&c_n;&c_z;&c_i;&c_j;, &c_p;&c_r;&c_a;&c_v;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>nenárokovať si</trd>,
+    <trd>vzdať sa nároku</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="preten.mal0o">
       <kap>mal<tld/>o</kap>
@@ -147,6 +166,12 @@
   </art>
   <!--
   $Log: preten.xml,v $
+  Revision 1.19  2015/07/04 08:37:42  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.18  2015/06/29 16:40:18  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.17  2013/04/17 05:10:13  revo
   Sebastian Cyprych: +trd pl
 

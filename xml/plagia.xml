@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plagia.xml,v 1.15 2011/12/07 00:10:12 revo Exp $">
+<art mrk="$Id: plagia.xml,v 1.17 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>5</ofc>
   <rad>plagiat</rad>/o
@@ -35,6 +35,14 @@
   <trd lng="pl">plagiat</trd>
   <trd lng="pt">pl&aacute;gio</trd>
   <trd lng="ru">&c_p;&c_l;&c_a;&c_g;&c_i;&c_a;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>napodobenina</trd>,
+    <trd>plagiát</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>napodobenina</trd>,
+    <trd>plagiát</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="plagia.0i">
@@ -46,6 +54,10 @@
     </dif>
   </snc>
   <trd lng="ca">plagiar</trd>
+  <trdgrp lng="cs">
+    <trd>napodobovat cizí dílo</trd>,
+    <trd>plagovat</trd>
+  </trdgrp>
   <trd lng="de">plagiieren</trd>
   <trd lng="en">plagiarize</trd>
   <trdgrp lng="fr">
@@ -56,10 +68,20 @@
   <trd lng="pl">plagiatowa&cacute;</trd>
   <trd lng="ru">&c_s;&c_o;&c_v;&c_je;&c_r;&c_sh;&c_i;&c_t;&c_mol;
 &c_p;&c_l;&c_a;&c_g;&c_i;&c_a;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>napodobovať cudzie dielo</trd>,
+    <trd>plagizovať</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: plagia.xml,v $
+Revision 1.17  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2011/12/07 00:10:12  revo
 Marc Rausell: kataluna traduko
 

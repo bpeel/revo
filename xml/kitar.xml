@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kitar.xml,v 1.10 2009/07/02 16:30:53 revo Exp $">
+<art mrk="$Id: kitar.xml,v 1.12 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>kitar</rad>/o <fnt><bib>EBV</bib></fnt>
 </kap>
@@ -14,6 +14,7 @@
   </snc>
   <trd lng="be">&c_k;&c_ib;&c_f;&c_a;&c_r;&c_a;</trd>
   <trd lng="ca">c&iacute;tara</trd>
+  <trd lng="cs">kytara</trd>
   <trdgrp lng="de">
      <trd>Kithara</trd>,
      <trd>altgriechische <ind>Zither</ind></trd>
@@ -21,15 +22,22 @@
   <trd lng="es">c&iacute;tara</trd>
   <trd lng="fr">cithare<klr tip="ind"> (lyre antique)</klr></trd>
   <trd lng="hu">kithara</trd>
-  <trd lng="nl">kithara</trd> 
+  <trd lng="nl">kithara</trd>
   <trd lng="pl">kitara</trd>
   <trd lng="pt">c&iacute;tara</trd>
   <trd lng="ru">&c_k;&c_i;&c_f;&c_a;&c_r;&c_a;</trd>
+  <trd lng="sk">gitara</trd>
 </drv>
 </art>
 
 <!--
 $Log: kitar.xml,v $
+Revision 1.12  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2009/07/02 16:30:53  revo
 Paul Peeraerts: +trd nl
 

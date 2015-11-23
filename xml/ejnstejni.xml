@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ejnstejni.xml,v 1.16 2014/06/07 03:10:37 revo Exp $">
+<art mrk="$Id: ejnstejni.xml,v 1.18 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <rad>ejnstejni</rad>/o
 </kap>
@@ -15,9 +15,10 @@
     <ref tip="dif" cel="ejnsxtejni.0o">ejn&scirc;tejnio</ref>
   </snc>
   <trd 
-lng="be">&c_e;&c_j;&c_n;&c_sh;&c_t;&c_e;&c_j;&c_n;&c_ib;&c_j;</trd>    
+lng="be">&c_e;&c_j;&c_n;&c_sh;&c_t;&c_e;&c_j;&c_n;&c_ib;&c_j;</trd>
   <trd lng="br">einsteiniom</trd>
   <trd lng="ca">einsteini</trd>
+  <trd lng="cs">einsteinium</trd>
   <trd lng="de">Einsteinium</trd>
   <trd lng="en">einsteinium</trd>
   <trd lng="es">einstenio</trd>
@@ -30,10 +31,17 @@ lng="be">&c_e;&c_j;&c_n;&c_sh;&c_t;&c_e;&c_j;&c_n;&c_ib;&c_j;</trd>
   <trd lng="pl">einstein</trd>
   <trd lng="pt">einst&ecirc;inio</trd>
   <trd lng="ru">&c_e;&c_j;&c_n;&c_sh;&c_t;&c_je;&c_j;&c_n;&c_i;&c_j;</trd>
+  <trd lng="sk">einsteinium</trd>
 </drv>
 </art>
 <!--
 $Log: ejnstejni.xml,v $
+Revision 1.18  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2014/06/07 03:10:37  revo
 Eko Nur Syah Hidayat: +id
 

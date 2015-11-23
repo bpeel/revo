@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: regal.xml,v 1.15 2013/06/30 07:10:10 revo Exp $">
+<art mrk="$Id: regal.xml,v 1.17 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>regal</rad>/i
@@ -101,6 +101,10 @@
     <trd>&c_ch;&c_a;&c_s;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_t;&c_r;&c_a;&c_k;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pohostit</trd>,
+    <trd>uctít</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>entertain</trd>,
     <trd>regale</trd>,
@@ -111,6 +115,11 @@
     <trd>&c_u;&c_g;&c_o;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_t;&c_ch;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hostiť jedlom</trd>,
+    <trd>nápojom</trd>,
+    <trd>častovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="regal.for0i">
@@ -120,14 +129,22 @@
       Malmilde forpu&scirc;i.
     </dif>
   </snc>
+  <trd lng="cs">odporoučet</trd>
   <trdgrp lng="nl">
     <trd>afschepen</trd>,
     <trd>de <ind>bons</ind> geven</trd>
   </trdgrp>
+  <trd lng="sk">odporúčať</trd>
 </drv>
 </art>
 <!--
 $Log: regal.xml,v $
+Revision 1.17  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/06/30 07:10:10  revo
 Wolfram Diestel: fontindiko Hamleto, referencoj
 

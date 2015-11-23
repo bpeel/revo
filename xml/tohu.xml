@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tohu.xml,v 1.3 2012/01/02 17:10:08 revo Exp $">
+<art mrk="$Id: tohu.xml,v 1.6 2015/07/04 08:37:45 revo Exp $">
 
 <kap>
   <rad>tohu</rad>/o <fnt><bib>PIV1</bib></fnt>
@@ -25,6 +25,7 @@
   </snc>
   <trd lng="be">&c_t;&c_o;&c_f;&c_u;</trd>
   <trd lng="ca">tofu</trd>
+  <trd lng="cs">tofu</trd>
   <trdgrp lng="de">
       <trd>Tofu</trd>,
       <trd>Sojabohnenpaste</trd>,
@@ -38,18 +39,28 @@
       <trd>sz&oacute;jasajt</trd>,
       <trd>tofu</trd>
    </trdgrp>
+  <trd lng="id">tahu</trd>
   <trdgrp lng="nl">
     <trd>tofoe</trd>,
     <trd>sojakaas</trd>
   </trdgrp>
   <trd lng="pl">serek <ind>tofu</ind></trd>
   <trd lng="pt">tofu</trd>
-
+  <trd lng="sk">tofu</trd>
 </drv>
 </art>
 
 <!--
 $Log: tohu.xml,v $
+Revision 1.6  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2014/11/12 09:10:37  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.3  2012/01/02 17:10:08  revo
 Marc Rausell: +trd ca
 

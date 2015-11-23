@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: distan.xml,v 1.32 2013/12/26 11:10:14 revo Exp $">
+<art mrk="$Id: distan.xml,v 1.35 2015/09/12 19:10:20 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>distanc</rad>/o <fnt><bib>PV</bib></fnt>
@@ -19,6 +19,7 @@
         en <tld/>o de kelkaj pa&scirc;oj de li.
       </ekz>
     </dif>
+    <trd lng="en">distance</trd>
     <trdgrp lng="be">
       <trd>&c_d;&c_y;&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;</trd>,
       <trd>&c_a;&c_d;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
@@ -88,8 +89,14 @@
     <trd
     lng="ru">&c_r;&c_a;&c_s;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_i;&c_je;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>odstup</trd>,
+    <trd>rozestup</trd>,
+    <trd>rozp&ecaron;t&iacute;</trd>
+  </trdgrp>
   <trd lng="es">distancia</trd>
-  <trd lng="hu">t&aacute;vols&aacute;g</trd>  
+  <trd lng="hu">t&aacute;vols&aacute;g</trd>
+  <trd lng="sk">vzdialenos&tcaron;</trd>
 </drv>
 
 <drv mrk="distan.angula0o">
@@ -110,6 +117,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">&uacute;hlov&aacute; vzd&aacute;lenost</trd>
   <trdgrp lng="de">
     <trd>Winkelabstand</trd>,
     <trd>Winkelentfernung</trd>
@@ -122,10 +130,11 @@
     <trd>distance angulaire</trd>,
     <trd>&eacute;cart angulaire</trd>
   </trdgrp>
-  <trd lng="hu">sz&ouml;gt&aacute;vols&aacute;g</trd>  
+  <trd lng="hu">sz&ouml;gt&aacute;vols&aacute;g</trd>
   <trd lng="pl">odleg&lstroke;o&sacute;&cacute; k&aogonek;towa</trd>
   <trd lng="ru">&c_u;&c_g;&c_l;&c_o;&c_v;&c_o;&c_je;
   <ind>&c_r;&c_a;&c_s;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">uhlov&aacute; vzdialenos&tcaron;</trd>
 </drv>
 
 <drv mrk="distan.paf0o">
@@ -135,15 +144,19 @@
       <tld lit="D"/>o &gcirc;is kiu oni povas trafi per pafo.
     </dif>
   </snc>
+  <trdgrp lng="en"><trd>range</trd>, <trd>striking
+  distance</trd></trdgrp>
+  <trd lng="cs">dost&rcaron;el</trd>
   <trdgrp lng="de">
     <trd>Schussweite</trd>,
     <trd>Reichweite</trd>,
   </trdgrp>
   <trd lng="fr">port&eacute;e</trd>
-  <trd lng="hu">l&odblac;t&aacute;vols&aacute;g</trd>  
+  <trd lng="hu">l&odblac;t&aacute;vols&aacute;g</trd>
   <trd lng="nl">draagwijdte</trd>
   <trd lng="ru">&c_d;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;
   &c_s;&c_t;&c_r;&c_je;&c_l;&c_mol;&c_b;&c_y;</trd>
+  <trd lng="sk">dostrel</trd>
 </drv>
 
 <drv mrk="distan.polusa0o">
@@ -219,6 +232,7 @@
     <refgrp tip="vid">
       <ref cel="aprob.mal0i.KOMUNE">malaprobi</ref>
     </refgrp>
+    <trd lng="en">distance oneself</trd>
     <trdgrp lng="fr">
       <trd>se <ind>d&eacute;marquer</ind></trd>,
       <trd>se <ind>distancier</ind></trd>
@@ -229,6 +243,15 @@
 </art>
 <!--
 $Log: distan.xml,v $
+Revision 1.35  2015/09/12 19:10:20  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.34  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.32  2013/12/26 11:10:14  revo
 Wolfram Diestel: pafdistanco: trd de
 
@@ -242,14 +265,5 @@ Revision 1.29  2011/07/05 05:10:14  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.28  2011/04/29 19:10:33  revo
-Jeromo Vasxe: + sin ~igi
-
-Revision 1.27  2008/11/21 17:57:37  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.26  2007/08/08 16:31:11  revo
-Tulio Flores: +tr pt
-
-Revision 1.25  2005/06/26 16:32:58  revo
 -->
 </vortaro>

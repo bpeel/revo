@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trombo.xml,v 1.20 2014/10/26 02:10:33 revo Exp $">
+<art mrk="$Id: trombo.xml,v 1.22 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>trombon</rad>/o
@@ -22,9 +22,13 @@
   </snc>
   <trd lng="be">&c_t;&c_r;&c_a;&c_m;&c_b;&c_o;&c_n;</trd>
   <trd lng="ca">tromb&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>pozoun</trd>,
+    <trd>trombón</trd>
+  </trdgrp>
+  <trd lng="de">Posaune</trd>
   <trd lng="en">trombone</trd>
   <trd lng="es">tromb&oacute;n</trd>
-  <trd lng="de">Posaune</trd>
   <trd lng="fr">trombone<klr> (musique)</klr></trd>
   <trdgrp lng="hu">
     <trd>harsona</trd>,
@@ -39,10 +43,17 @@
   </trdgrp>
   <trd lng="pt">trombone</trd>
   <trd lng="ru">&c_t;&c_r;&c_o;&c_m;&c_b;&c_o;&c_n;</trd>
+  <trd lng="sk">trombón</trd>
 </drv>
 </art>
 <!--
 $Log: trombo.xml,v $
+Revision 1.22  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2014/10/26 02:10:33  revo
 Eko Nur Syah Hidayat: +trd id
 

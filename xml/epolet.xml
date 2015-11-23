@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: epolet.xml,v 1.17 2010/06/06 16:31:00 revo Exp $">
+<art mrk="$Id: epolet.xml,v 1.19 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>epolet</rad>/o
@@ -25,6 +25,11 @@
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_g;&c_o;&c_n;</trd>,
     <trd>&c_e;&c_p;&c_a;&c_l;&c_je;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>epoleta</trd>,
+    <trd>nárameník</trd>,
+    <trd>výložka</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Achselst&uuml;ck</trd>,
@@ -58,11 +63,21 @@
     <trd>&c_p;&c_o;&c_g;&c_o;&c_n;</trd>,
     <trd>&c_e;&c_p;&c_o;&c_l;&c_je;&c_t;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>náplecník</trd>,
+    <trd>výložka</trd>
+  </trdgrp>
   <trd lng="sv">axelklaff</trd>
 </drv>
 </art>
 <!--
 $Log: epolet.xml,v $
+Revision 1.19  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2010/06/06 16:31:00  revo
 Agustin Garcia Lopez: +trd es
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bigot.xml,v 1.16 2013/08/30 16:10:20 revo Exp $">
+<art mrk="$Id: bigot.xml,v 1.18 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>bigot</rad>/o
@@ -50,6 +50,11 @@
     <trd>&c_h;&c_a;&c_n;&c_zh;&c_a;</trd>
   </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bigotista</trd>,
+    <trd>slepě nábožný člověk</trd>
+  </trdgrp>
+  <trd lng="sk">slepo nábožný človek</trd>
 </drv>
 
 <drv mrk="bigot.0a">
@@ -88,6 +93,12 @@
 </art>
 <!--
 $Log: bigot.xml,v $
+Revision 1.18  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/08/30 16:10:20  revo
 Joop Eggen: +trd bg
 

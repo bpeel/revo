@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mord.xml,v 1.23 2011/12/21 12:10:15 revo Exp $">
+<art mrk="$Id: mord.xml,v 1.25 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mord</rad>/i <fnt><bib>PV</bib></fnt>
@@ -84,12 +84,27 @@
     <trd>&c_c;&c_ja;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">mossegar</trd>
-  <trd lng="cs">kousat</trd>
-  <trd lng="en">bite</trd>
+  <trdgrp lng="cs">
+    <trd>bodat</trd>,
+    <trd>hryzat</trd>,
+    <trd>korodovat</trd>,
+    <trd>kousat</trd>,
+    <trd>kousnout</trd>,
+    <trd>leptat</trd>,
+    <trd>rozežírat</trd>,
+    <trd>uštknout</trd>
+  </trdgrp>
   <trd lng="de">bei&szlig;en</trd>
+  <trd lng="en">bite</trd>
   <trd lng="fr">mordre</trd>
   <trd lng="nl">bijten</trd>
   <trd lng="pt">morder</trd>
+  <trdgrp lng="sk">
+    <trd>hrýzť</trd>,
+    <trd>korodovať</trd>,
+    <trd>kúsať</trd>,
+    <trd>rozožierať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mord.0umi">
@@ -108,11 +123,20 @@
     </dif>
   </snc>
   <trd lng="ca">tractar <klr>(superf&iacute;cies)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>rozežrat</trd>,
+    <trd>rozežírat</trd>,
+    <trd>rozleptat</trd>
+  </trdgrp>
   <trd lng="fr">mordancer</trd>
   <trdgrp lng="ru">
     <trd>&c_t;&c_r;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_t;&c_r;&c_a;&c_v;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_m;&c_o;&c_r;&c_i;&c_t;&c_mol;<klr> (&c_k;&c_i;&c_s;&c_l;&c_o;&c_t;&c_o;&c_j; &c_i; &c_t;.&c_p;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozleptať</trd>,
+    <trd>rozožrať</trd>
   </trdgrp>
 </drv>
 
@@ -153,10 +177,12 @@
     </dif>
   </snc>
   <trd lng="ca">arrencar <klr>(d'un mos)</klr></trd>
+  <trd lng="cs">ukousnout</trd>
   <trd lng="de">abbei&szlig;en</trd>
   <trd lng="fr">arracher<klr tip="ind"> (en mordant)</klr></trd>
   <trd lng="hu">leharap</trd>
   <trd lng="ru">&c_o;&c_t;&c_k;&c_u;&c_s;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">odhryznúť</trd>
 </drv>
 
 <drv mrk="mord.el0i">
@@ -181,6 +207,12 @@
 </art>
 <!--
 $Log: mord.xml,v $
+Revision 1.25  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2011/12/21 12:10:15  revo
 Jeromo Vasxe: kor. 1 mrk
 

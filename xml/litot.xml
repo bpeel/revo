@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: litot.xml,v 1.11 2006/09/15 16:30:34 revo Exp $">
+<art mrk="$Id: litot.xml,v 1.13 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>litot</rad>/o
 </kap>
@@ -14,25 +14,39 @@
     <ref tip="dif" cel="tro.mal0igo.litoto">maltroigo</ref>
   </snc>
   <trd lng="be">&c_l;&c_ib;&c_t;&c_o;&c_t;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>litotes</trd>,
+    <trd>řečnický dvojzápor</trd>
+  </trdgrp>
   <trd lng="de">Litotes</trd>
   <trd lng="es">l&iacute;tote</trd>
   <trdgrp lng="fr">
     <trd>litote</trd>
   </trdgrp>
-  <trd lng="nl">litotes</trd>
   <trdgrp lng="hu">
     <trd>litot&eacute;sz</trd>,
     <trd>t&uacute;lz&oacute; kicsiny&iacute;t&eacute;s</trd>
   </trdgrp>
+  <trd lng="nl">litotes</trd>
   <trd lng="pt">l&iacute;totes</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_je;&c_u;&c_m;&c_je;&c_n;&c_mol;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_l;&c_i;&c_t;&c_o;&c_t;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>litotes</trd>,
+    <trd>rečnícky dvojzápor</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: litot.xml,v $
+Revision 1.13  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2006/09/15 16:30:34  revo
 Tulio Flores: +tr pt
 

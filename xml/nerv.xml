@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nerv.xml,v 1.21 2012/05/29 12:10:16 revo Exp $">
+<art mrk="$Id: nerv.xml,v 1.23 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>nerv</rad>/o <fnt><bib>PV</bib></fnt>
@@ -17,9 +17,13 @@
       de
       cerbo a&ubreve; spino.
     </dif>
-  </snc>                   
+  </snc>
   <trd lng="be">&c_n;&c_e;&c_r;&c_v;</trd>
   <trd lng="br">nervenn</trd>
+  <trdgrp lng="cs">
+    <trd>nerv</trd>,
+    <trd>čiv</trd>
+  </trdgrp>
   <trd lng="de">Nerv</trd>
   <trd lng="el">&ny;&epsilon;&ypsilon_ton;&rho;&omikron;</trd>
   <trd lng="en">nerve</trd>
@@ -28,9 +32,10 @@
   <trd lng="hu">ideg</trd>
   <trd lng="it">nervo</trd>
   <trd lng="nl">zenuw</trd>
-  <trd lng="pt">nervo</trd>
   <trd lng="pl">nerw</trd>
+  <trd lng="pt">nervo</trd>
   <trd lng="ru">&c_n;&c_je;&c_r;&c_v;</trd>
+  <trd lng="sk">nerv</trd>
   <trd lng="sv">nerv</trd>
 </drv>
 
@@ -99,10 +104,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">nervstvo</trd>
   <trd lng="fr">nerfs</trd>
   <trdgrp lng="it">
     <trd>nervi</trd>
   </trdgrp>
+  <trd lng="sk">nervstvo</trd>
 </drv>
 
 <drv mrk="nerv.0ema">
@@ -120,11 +127,25 @@
       </fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>nervózní</trd>,
+    <trd>popudlivý</trd>
+  </trdgrp>
   <trd lng="fr">nerveux</trd>
+  <trdgrp lng="sk">
+    <trd>nervózny</trd>,
+    <trd>popudlivý</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: nerv.xml,v $
+Revision 1.23  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2012/05/29 12:10:16  revo
 Jeromo Vasxe: + ~ema
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bus.xml,v 1.22 2014/06/03 15:10:31 revo Exp $">
+<art mrk="$Id: bus.xml,v 1.24 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <rad>bus</rad>/o
 </kap>
@@ -25,15 +25,20 @@
   <trd lng="be">&c_a;&c_w;&c_t;&c_o;&c_b;&c_u;&c_s;</trd>
   <trd lng="bg">&c_a;&c_v;&c_t;&c_o;&c_b;&c_u;&c_s;</trd>
   <trd lng="ca">autob&uacute;s</trd>
+  <trdgrp lng="cs">
+    <trd>autobus</trd>,
+    <trd>autokar</trd>,
+    <trd>bus</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Bus</trd>,
     <trd>Omnibus</trd>
   </trdgrp>
+  <trd lng="en">bus</trd>
   <trdgrp lng="es">
     <trd>cami&oacute;n</trd>,
     <trd>autob&uacute;s</trd>
   </trdgrp>
-  <trd lng="en">bus</trd>
   <trdgrp lng="fr">
     <trd>bus</trd>,
     <trd>autobus</trd>
@@ -55,7 +60,10 @@
   </trdgrp>
   <trd lng="pt">&ocirc;nibus</trd>
   <trd lng="ru">&c_a;&c_v;&c_t;&c_o;&c_b;&c_u;&c_s;</trd>
-  <trd lng="sk">autobus</trd>
+  <trdgrp lng="sk">
+    <trd>autobus</trd>,
+    <trd>zbernica</trd>
+  </trdgrp>
   <trd lng="sv">buss</trd>
 </drv>
 
@@ -92,6 +100,7 @@ html">
   </snc>
   <trd lng="bg">&c_t;&c_r;&c_o;&c_l;&c_je;&c_j;&c_b;&c_u;&c_s;</trd>
   <trd lng="ca">troleib&uacute;s</trd>
+  <trd lng="cs">trolejbus</trd>
   <trdgrp lng="de">
     <trd>Oberleitungsbus</trd>,
     <trd>Trolleybus</trd>
@@ -100,10 +109,17 @@ html">
   <trd lng="fr">trolleybus</trd>
   <trd lng="it">filobus</trd>
   <trd lng="pl">trolejbus</trd>
+  <trd lng="sk">trolejbus</trd>
 </drv>
 </art>
 <!--
 $Log: bus.xml,v $
+Revision 1.24  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/06/03 15:10:31  revo
 Eko Nur Syah Hidayat: +id
 

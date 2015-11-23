@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: i2.xml,v 1.7 2014/09/22 12:10:15 revo Exp $">
+<art mrk="$Id: i2.xml,v 1.9 2015/07/04 08:37:36 revo Exp $">
 <kap>
     <ofc>*</ofc><rad>i</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -79,13 +79,28 @@
     <snc>    
     <ref tip="dif" cel="ipsilon.0o">ipsilono</ref>
     </snc>
-    <trd lng="fr">i grec</trd>
-    <trd lng="pl">igrek <klr>(litera Y)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>ypsilon</trd>,
+    <trd>Υ</trd>,
+    <trd>ν řecké i</trd>
+  </trdgrp>
+  <trd lng="fr">i grec</trd>
+  <trd lng="pl">igrek <klr>(litera Y)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>Y</trd>,
+    <trd>ypsilon</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: i2.xml,v $
+Revision 1.9  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.7  2014/09/22 12:10:15  revo
 Sebastian Cyprych: +trd pl
 

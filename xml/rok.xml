@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rok.xml,v 1.14 2013/12/09 06:10:11 revo Exp $">
+<art mrk="$Id: rok.xml,v 1.16 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>rok</rad>/o <fnt><bib>PV</bib></fnt>
@@ -41,6 +41,10 @@
   </snc>
   <trd lng="be">&c_s;&c_k;&c_a;&c_l;&c_a;</trd>
   <trd lng="bg">&c_s;&c_k;&c_a;&c_l;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>rock</trd>,
+    <trd>rocková hudba</trd>
+  </trdgrp>
   <trd lng="en">rock</trd>
   <trd lng="es">roca</trd>
   <trdgrp lng="fr">
@@ -53,6 +57,7 @@
     <trd>rocha</trd>,
     <trd>pedra</trd>
   </trdgrp>
+  <trd lng="sk">rocková hudba</trd>
 </drv>
 
     <drv mrk="rok.0ajxo">
@@ -117,6 +122,12 @@
 </art>
 <!--
 $Log: rok.xml,v $
+Revision 1.16  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2013/12/09 06:10:11  revo
 Sergio Pokrovskij: +~ajxo
 

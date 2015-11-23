@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kloak.xml,v 1.18 2010/05/31 16:30:27 revo Exp $">
+<art mrk="$Id: kloak.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kloak</rad>/o
@@ -42,7 +42,10 @@
       <trd>Unratkanal</trd>
     </trdgrp>
     <trd lng="en">sewer</trd>
-    <trd lng="es">cloaca</trd>
+    <trdgrp lng="es">
+      <trd>cloaca</trd>,
+      <trd>alcantarilla</trd>
+    </trdgrp>
     <trd lng="fr">&eacute;gout<klr tip="ind"> (collecteur d'eaux
     us&eacute;es)</klr></trd>
     <trd lng="hu">szennyv&iacute;zcsatorna</trd>
@@ -88,12 +91,26 @@
     <trd lng="nl">cloaca</trd>
     <trd lng="pl">stek</trd>
   </snc>
+  <trd lng="cs">kanál splaškový</trd>
   <trd lng="pl">kloaka</trd>
   <trd lng="ru">&c_k;&c_l;&c_o;&c_a;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>odpadový kanál</trd>,
+    <trd>stoka</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kloak.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2015/04/10 18:10:18  revo
+Carlos Garcia: +trd es -o
+
 Revision 1.18  2010/05/31 16:30:27  revo
 Agustin Garcia Lopez: +trd es
 
@@ -113,8 +130,5 @@ Revision 1.13 2001/12/10 17:34:09 revo
 Ulrich Fellmann: + 8 germ trdj
 
 Revision 1.12 2001/11/05 19:11:24 revo
-Karlo Freeman: + kroma trd=en
-
-Revision 1.11 2001/10/28 19:12:35 revo
 -->
 </vortaro>

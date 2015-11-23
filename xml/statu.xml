@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: statu.xml,v 1.14 2014/07/06 16:10:27 revo Exp $">
+<art mrk="$Id: statu.xml,v 1.16 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>statu</rad>/o
@@ -22,6 +22,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_a;&c_t;&c_u;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>socha</trd>,
+    <trd>statue</trd>,
+    <trd>štátue</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Standbild</trd>,
     <trd>Statur</trd>
@@ -37,6 +42,7 @@
     <trd>statua</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_t;&c_a;&c_t;&c_u;&c_ja;</trd>
+  <trd lng="sk">socha</trd>
   <trd lng="sv">staty</trd>
   <trdgrp lng="tr">
     <trd>heykel</trd>,
@@ -46,6 +52,12 @@
 </art>
 <!--
 $Log: statu.xml,v $
+Revision 1.16  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2014/07/06 16:10:27  revo
 Eko Nur Syah Hidayat: +id
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kvast.xml,v 1.18 2014/10/15 19:10:20 revo Exp $">
+<art mrk="$Id: kvast.xml,v 1.20 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>kvast</rad>/o <fnt><bib>PV</bib></fnt>
@@ -21,13 +21,14 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_k;&c_u;&c_t;&c_a;&c_s;</trd>
+  <trd lng="ca">borla</trd>
+  <trd lng="cs">střapec</trd>
   <trdgrp lng="de">
     <trd>Quaste</trd>,
     <trd>Troddel</trd>
   </trdgrp>
-  <trd lng="ca">borla</trd>
   <trd lng="en">tassel</trd>
-  <trd lng="es">borla</trd> 
+  <trd lng="es">borla</trd>
   <trdgrp lng="fr">
     <trd>gland<klr> (ornement)</klr></trd>,
     <trd>pompon</trd>
@@ -44,11 +45,21 @@
   </trdgrp>
   <trd lng="ru">&c_k;&c_i;&c_s;&c_t;&c_mol;
   <klr>(&c_u;&c_k;&c_r;&c_a;&c_sh;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>kystka</trd>,
+    <trd>strapec</trd>
+  </trdgrp>
   <trd lng="sv">tofs</trd>
 </drv>
 </art>
 <!--
 $Log: kvast.xml,v $
+Revision 1.20  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2014/10/15 19:10:20  revo
 Alain Gerard: +trd fr
 

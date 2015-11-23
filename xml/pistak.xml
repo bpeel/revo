@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pistak.xml,v 1.22 2013/08/26 08:10:26 revo Exp $">
+<art mrk="$Id: pistak.xml,v 1.24 2015/07/04 08:37:41 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>pistak</rad>/o
@@ -16,25 +16,30 @@
        uzata en dol&ccirc;a&jcirc;oj.
      </dif>
    </snc>
-   <trd lng="be">&c_f;&c_ib;&c_s;&c_t;&c_a;&c_sh;&c_k;&c_a;
+  <trd lng="be">&c_f;&c_ib;&c_s;&c_t;&c_a;&c_sh;&c_k;&c_a;
 <klr>(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
-   <trdgrp lng="br">
+  <trdgrp lng="br">
      <trd>hogan-Spagn</trd>,
      <trd>pistachezenn<klr tip="ind"> (frouezhenn)</klr></trd>
    </trdgrp>
-   <trdgrp lng="ca">
+  <trdgrp lng="ca">
      <trd>festuc</trd>
      <trd>pistatxo</trd>
    </trdgrp>
-   <trd lng="de">Pistazie<klr tip="ind"> (Frucht)</klr></trd>
-   <trd lng="en">pistachio</trd>
-   <trd lng="es">pistacho</trd>
-   <trd lng="fr">pistache</trd>
-   <trd lng="hu">piszt&aacute;cia<klr tip="ind"> (term&eacute;s)</klr></trd>
-   <trd lng="nl">pistache</trd>
-   <trd lng="pt">pistache</trd>
-   <trd lng="ru">&c_f;&c_i;&c_s;&c_t;&c_a;&c_sh;&c_k;&c_a;</trd>
-   <trd lng="tr">f&inodot;st&inodot;k</trd>
+  <trdgrp lng="cs">
+    <trd>pistácie</trd>,
+    <trd>pistáciový oříšek</trd>
+  </trdgrp>
+  <trd lng="de">Pistazie<klr tip="ind"> (Frucht)</klr></trd>
+  <trd lng="en">pistachio</trd>
+  <trd lng="es">pistacho</trd>
+  <trd lng="fr">pistache</trd>
+  <trd lng="hu">piszt&aacute;cia<klr tip="ind"> (term&eacute;s)</klr></trd>
+  <trd lng="nl">pistache</trd>
+  <trd lng="pt">pistache</trd>
+  <trd lng="ru">&c_f;&c_i;&c_s;&c_t;&c_a;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="sk">pistácia</trd>
+  <trd lng="tr">f&inodot;st&inodot;k</trd>
 </drv>
 
 <drv mrk="pistak.0ujo">
@@ -49,23 +54,34 @@
        (<trd lng="la">Pistacia</trd>).
      </dif>
    </snc>
-   <trd lng="be">&c_f;&c_ib;&c_s;&c_t;&c_a;&c_sh;&c_k;&c_a;
+  <trd lng="be">&c_f;&c_ib;&c_s;&c_t;&c_a;&c_sh;&c_k;&c_a;
 <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
-   <trdgrp lng="br">
+  <trdgrp lng="br">
      <trd>gwezenn-bistachez</trd>,
      <trd>pistachezenn<klr tip="ind"> (gwezenn)</klr></trd>
    </trdgrp>
-   <trd lng="de">Pistazie<klr tip="ind"> (Pflanze)</klr></trd>
-   <trd lng="en">pistachio</trd>
-   <trd lng="fr">pistachier</trd>
-   <trd lng="hu">piszt&aacute;ciafa</trd>
-   <trd lng="nl">pistacheboom</trd>
-   <trd lng="ru">&c_f;&c_i;&c_s;&c_t;&c_a;&c_sh;&c_k;&c_a; <klr
+  <trdgrp lng="cs">
+    <trd>klokoš</trd>,
+    <trd>pistácie</trd>
+  </trdgrp>
+  <trd lng="de">Pistazie<klr tip="ind"> (Pflanze)</klr></trd>
+  <trd lng="en">pistachio</trd>
+  <trd lng="fr">pistachier</trd>
+  <trd lng="hu">piszt&aacute;ciafa</trd>
+  <trd lng="nl">pistacheboom</trd>
+  <trd lng="ru">&c_f;&c_i;&c_s;&c_t;&c_a;&c_sh;&c_k;&c_a; <klr
 tip="amb">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trd lng="sk">pistácia</trd>
 </drv>
 </art>
 <!--
 $Log: pistak.xml,v $
+Revision 1.24  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2013/08/26 08:10:26  revo
 Wolfram Diestel: referenco al listo bot genroj
 

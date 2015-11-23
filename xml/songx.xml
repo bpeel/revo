@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: songx.xml,v 1.19 2003/08/03 16:31:28 revo Exp $">
+<art mrk="$Id: songx.xml,v 1.21 2015/08/02 07:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>son&gcirc;</rad>/o
@@ -34,6 +34,10 @@
   <trd lng="de">Traum</trd>
   <trd lng="en">dream</trd>
   <trd lng="es">sue&ntilde;o</trd>
+  <trdgrp lng="fr">
+    <trd>r&ecirc;ve</trd>,
+    <trd>songe</trd>
+  </trdgrp>
   <trd lng="hu">&aacute;lom</trd>
   <trd lng="it">sogno</trd>
   <trd lng="nl">droom</trd>
@@ -66,6 +70,7 @@
   </trdgrp>
   <trd lng="de">tr&auml;umen</trd>
   <trd lng="es">so&ntilde;ar</trd>
+  <trd lng="fr">songer</trd>
   <trd lng="hu">&aacute;lmodik</trd>
   <trd lng="it">sognare</trd>
   <trd lng="nl">dromen</trd>
@@ -107,6 +112,12 @@
 </art>
 <!--
 $Log: songx.xml,v $
+Revision 1.21  2015/08/02 07:10:16  revo
+Damien Brucker: +trd fr
+
+Revision 1.20  2015/01/14 15:10:16  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.19  2003/08/03 16:31:28  revo
 Marc Bavant: +drv prem~o
 
@@ -123,11 +134,5 @@ Revision 1.15 2002/02/26 17:58:46 revo
 Alejandro Mejia Greene: ald his trd
 
 Revision 1.14 2002/02/15 17:32:58 revo
-Yury Finkel: kor propran eraron
-
-Revision 1.13 2002/02/14 17:35:23 revo
-Yury Finkel: +trd ru
-
-Revision 1.12 2002/01/21 21:48:26 revo
 -->
 </vortaro>

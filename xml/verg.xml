@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: verg.xml,v 1.17 2014/02/18 18:10:11 revo Exp $">
+<art mrk="$Id: verg.xml,v 1.19 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>verg</rad>/o
@@ -55,6 +55,7 @@
     <trd>verga</trd>,
     <trd>vara</trd>
   </trdgrp>
+  <trd lng="cs">prut</trd>
   <trdgrp lng="de">
     <trd>Rute</trd>,
     <trd>Gerte</trd>
@@ -66,17 +67,18 @@
     <trd>regla</trd>
   </trdgrp>
   <trd lng="fr">verge<klr> (bois)</klr></trd>
+  <trd lng="hu">vessz&odblac;</trd>
   <trdgrp lng="nl">
     <trd>roede</trd>,
     <trd>roe</trd>,
     <trd>gard</trd>
   </trdgrp>
-  <trd lng="hu">vessz&odblac;</trd>  
   <trdgrp lng="pt">
     <trd>verga</trd>,
     <trd>vergasta</trd>,
     <trd>vara</trd>
   </trdgrp>
+  <trd lng="sk">prút</trd>
 </drv>
 
 <drv mrk="verg.0i">
@@ -98,6 +100,7 @@
     <trd>vergassejar</trd>,
     <trd>bastonejar</trd>
   </trdgrp>
+  <trd lng="cs">mrskat prutem</trd>
   <trdgrp lng="en">
     <trd>beat</trd>,
     <trd>birch</trd>,
@@ -109,16 +112,26 @@
     <trd>varear</trd>,
     <trd>azotar</trd>
   </trdgrp>
-  <trd lng="hu">megvessz&odblac;z</trd>  
+  <trd lng="hu">megvessz&odblac;z</trd>
   <trdgrp lng="pt">
     <trd>vergastar</trd>,
     <trd>varejar</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_je;&c_ch;&c_mol; <klr tip="amb">(&c_r;&c_o;&c_z;&c_g;&c_a;&c_m;&c_i;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>biť prútom</trd>,
+    <trd>šibať</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: verg.xml,v $
+Revision 1.19  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2014/02/18 18:10:11  revo
 Agustin Garcia Lopez: +trd(es)
 

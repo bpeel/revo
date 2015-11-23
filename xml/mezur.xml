@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mezur.xml,v 1.41 2013/12/14 18:10:41 revo Exp $">
+<art mrk="$Id: mezur.xml,v 1.43 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mezur</rad>/i <fnt><bib>PV</bib></fnt>
@@ -75,11 +75,12 @@
         <trd lng="hu">v&eacute;gigm&eacute;r</trd>
       </ekz>
     </dif>
-  </snc>         
+  </snc>
   <trdgrp lng="br">
     <trd>menta&ntilde;</trd>,
     <trd>muzulia&ntilde;</trd>
   </trdgrp>
+  <trd lng="cs">měřit</trd>
   <trd lng="de">messen</trd>
   <trd lng="en">measure</trd>
   <trd lng="es">medir</trd>
@@ -98,6 +99,10 @@
     <trd>&c_m;&c_je;&c_r;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_i;&c_z;&c_m;&c_je;&c_r;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_i;&c_z;&c_m;&c_je;&c_r;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>merať</trd>,
+    <trd>odmerať</trd>
   </trdgrp>
 </drv>
 
@@ -339,6 +344,8 @@
     <trd>mod&eacute;ration</trd>,
     <trd>retenue<klr tip="ind"> (mod&eacute;ration)</klr></trd>
   </trdgrp>
+  <trd lng="sk">metrum verša</trd>
+  <trd lng="cs">metrum verše</trd>
 </drv>
 
 <drv mrk="mezur.0ado">
@@ -357,12 +364,21 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>měření</trd>,
+    <trd>vyměřování</trd>
+  </trdgrp>
   <trd lng="de">Messung</trd>
   <trd lng="es">medici&oacute;n</trd>
   <trd lng="hu">m&eacute;r&eacute;s</trd>
   <trd lng="nl">meting</trd>
   <trd lng="pl">pomiary</trd>
   <trd lng="ru">&c_i;&c_z;&c_m;&c_je;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>rozbor</trd>,
+    <trd>skúška</trd>,
+    <trd>test</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mezur.0ebla">
@@ -501,6 +517,19 @@
     <trd>&c_i;&c_z;&c_m;&c_je;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
     &c_p;&c_r;&c_i;&c_b;&c_o;&c_r;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>meradlo</trd>,
+    <trd>miera</trd>,
+    <trd>mierka</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>míra</trd>,
+    <trd>měřidlo</trd>,
+    <trd>měřič</trd>,
+    <trd>měřící přístroj</trd>,
+    <trd>měřítko</trd>,
+    <trd>pravítko</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mezur.0ateco">
@@ -513,8 +542,12 @@
         li &ccirc;iam gardas la <tld/>atecon.
       </ekz>
     </dif>
-  </snc>                        
+  </snc>
   <trd lng="br">habaskter</trd>
+  <trdgrp lng="cs">
+    <trd>mírnost</trd>,
+    <trd>odměřenost</trd>
+  </trdgrp>
   <trd lng="es">mesura</trd>
   <trd lng="fr">mod&eacute;ration</trd>
   <trdgrp lng="hu">
@@ -526,6 +559,10 @@
     <trd>miara</trd>,
     <trd>umiar</trd>,
     <trd>umiarkowanie</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>miernosť</trd>,
+    <trd>odmeranosť</trd>
   </trdgrp>
 </drv>
 
@@ -540,6 +577,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">vzít míru</trd>
   <trdgrp lng="hu">
     <trd>felpr&oacute;b&aacute;l</trd>,
     <trd>hozz&aacute;m&eacute;r</trd>
@@ -550,6 +588,7 @@
     <trd>dopasowa&cacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_m;&c_je;&c_r;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">brať mieru</trd>
 </drv>
 
 <drv mrk="mezur.angul0ilo">
@@ -562,8 +601,13 @@
       Duondisko kun gradigita cirkonferenco, servanta por mezuri
       <ref cel="angul.0o.MAT">angulojn</ref>.
     </dif>
-  </snc>          
+  </snc>
   <trd lng="br">kornventer</trd>
+  <trdgrp lng="cs">
+    <trd>přístroj na měření úhlů</trd>,
+    <trd>úhloměr</trd>,
+    <trd>úhlové měřítko</trd>
+  </trdgrp>
   <trd lng="de">Transporteur</trd>
   <trd lng="en">protractor</trd>
   <trd lng="es">transportador</trd>
@@ -573,6 +617,7 @@
   <trd lng="pl">k&aogonek;tomierz</trd>
   <trd
   lng="ru">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_r;&c_t;&c_i;&c_r;</trd>
+  <trd lng="sk">uhlomer</trd>
 </drv>
 
 <drv mrk="mezur.cxirkaux0o">
@@ -739,11 +784,15 @@
         <fnt><bib>UrdHadda</bib>, <lok>p. 18</lok></fnt>.
       </ekz>
     </dif>
-  </snc>            
+  </snc>
   <trdgrp lng="br">
     <trd>divuzul</trd>,
     <trd>hep <ind>muzul</ind></trd>,    
     <trd>dreist <ind>muzul</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bez míry <klr>(adj.)</klr></trd>,
+    <trd>nezměrný</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>d&eacute;mesur&eacute;</trd>,
@@ -765,6 +814,11 @@
   <trdgrp lng="ru">
     <trd>&c_b;&c_je;&c_z;&c_m;&c_je;&c_r;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_s;&c_v;&c_je;&c_r;&c_h; &c_m;&c_je;&c_r;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nesmierny</trd>,
+    <trd>nezmerateľný</trd>,
+    <trd>obrovsky</trd>
   </trdgrp>
 </drv>
 
@@ -817,6 +871,12 @@
 </art>
 <!--
 $Log: mezur.xml,v $
+Revision 1.43  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.42  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.41  2013/12/14 18:10:41  revo
 Jeromo Vasxe: + laux~e kiel
 

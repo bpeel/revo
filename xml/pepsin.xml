@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pepsin.xml,v 1.12 2006/02/27 17:34:10 revo Exp $">
+<art mrk="$Id: pepsin.xml,v 1.14 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>pepsin</rad>/o
@@ -16,6 +16,7 @@
   </snc>
   <trd lng="be">&c_p;&c_e;&c_p;&c_s;&c_ib;&c_n;</trd>
   <trd lng="ca">pepsina</trd>
+  <trd lng="cs">pepsin</trd>
   <trd lng="de">Pepsin</trd>
   <trd lng="en">pepsin</trd>
   <trd lng="es">pepsina</trd>
@@ -23,10 +24,17 @@
   <trd lng="nl">pepsine</trd>
   <trd lng="pt">pepsina</trd>
   <trd lng="ru">&c_p;&c_je;&c_p;&c_s;&c_i;&c_n;</trd>
+  <trd lng="sk">pepsín</trd>
 </drv>
 </art>
 <!--
 $Log: pepsin.xml,v $
+Revision 1.14  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2006/02/27 17:34:10  revo
 Tulio Flores: +tr pt
 

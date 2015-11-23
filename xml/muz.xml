@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: muz.xml,v 1.15 2014/04/08 12:10:16 revo Exp $">
+<art mrk="$Id: muz.xml,v 1.17 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>muz</rad>/o
@@ -18,6 +18,11 @@
   </snc>
   <trd lng="be">&c_m;&c_u;&c_z;&c_a;</trd>
   <trd lng="bg">&c_m;&c_u;&c_z;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>Múza</trd>,
+    <trd>bohyně umění</trd>,
+    <trd>múza</trd>
+  </trdgrp>
   <trd lng="de">Muse</trd>
   <trd lng="en">muse</trd>
   <trd lng="fa">&a_A;&a_l;&a_A;&a_h;&a_h;&a_hamza_sure; &a_h;&a_n;&a_r;</trd>
@@ -26,11 +31,20 @@
   <trd lng="nl">muze</trd>
   <trd lng="pt">musa</trd>
   <trd lng="ru">&c_m;&c_u;&c_z;&c_a;</trd>
-  <trd lng="sk">m&uacute;za</trd>
+  <trdgrp lng="sk">
+    <trd>bohyňa umenia</trd>,
+    <trd>m&uacute;za</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: muz.xml,v $
+Revision 1.17  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2014/04/08 12:10:16  revo
 Damien Brucker: +trd fr
 

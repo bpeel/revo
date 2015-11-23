@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mocxi.xml,v 1.5 2011/01/29 23:10:10 revo Exp $">
+<art mrk="$Id: mocxi.xml,v 1.6 2015/06/26 17:10:15 revo Exp $">
 <kap>
    <rad>mo&ccirc;i</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -23,17 +23,22 @@
   <trd lng="de">Mochi<klr tip="amb"> (japanischer
   Reiskuchen)</klr></trd>
   <trd lng="es">pastel de arroz</trd>
+  <trd lng="fa">&a_m;&a_w;&f_ch;&f_y;</trd>
   <trd lng="fr">mochi<klr> (g&acirc;teau de riz)</klr></trd>
   <trdgrp lng="hu">
     <trd>rizsfelf&uacute;jt</trd>,
     <trd>rizspuding</trd>
   </trdgrp>
+  <trd lng="nl">mochi</trd>
   <trd lng="pt">arroz <ind>mochi</ind></trd>
 </drv>
 </art>
 
 <!--
 $Log: mocxi.xml,v $
+Revision 1.6  2015/06/26 17:10:15  revo
+Joop Eggen: +trd nl fa
+
 Revision 1.5  2011/01/29 23:10:10  revo
 Wieland Pusch: +trd de
 

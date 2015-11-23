@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eksplu.xml,v 1.18 2012/09/05 09:10:14 revo Exp $">
+<art mrk="$Id: eksplu.xml,v 1.20 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>ekspluat</rad>/i
@@ -91,17 +91,30 @@
   <trd
   lng="be">&c_e;&c_k;&c_s;&c_p;&c_l;&c_ju;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">explotar</trd>
+  <trdgrp lng="cs">
+    <trd>odřít</trd>,
+    <trd>vykořistit</trd>,
+    <trd>vykořisťovat</trd>,
+    <trd>využít</trd>,
+    <trd>využívat</trd>,
+    <trd>zneužít</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>ausnutzen</trd>,
     <trd>ausbeuten</trd>
   </trdgrp>
   <trd lng="en">exploit</trd>
-  <trd lng="fr">exploiter</trd>
   <trd lng="es">explotar</trd>
+  <trd lng="fr">exploiter</trd>
   <trd lng="pl">wykorzystywa&cacute;</trd>
   <trd lng="pt">explorar</trd>
   <trd
   lng="ru">&c_e;&c_k;&c_s;&c_p;&c_l;&c_u;&c_a;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>dobývať</trd>,
+    <trd>vykorisťovať</trd>,
+    <trd>využívať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="eksplu.0egi">
@@ -121,6 +134,12 @@
 </art>
 <!--
 $Log: eksplu.xml,v $
+Revision 1.20  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/09/05 09:10:14  revo
 Marc Rausell: + trd ca
 

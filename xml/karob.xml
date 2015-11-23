@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: karob.xml,v 1.14 2012/09/02 08:10:08 revo Exp $">
+<art mrk="$Id: karob.xml,v 1.16 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>karob</rad>/o
@@ -21,6 +21,7 @@
     </dif>
   </snc>
   <trd lng="ca">garrofa</trd>
+  <trd lng="cs">svatojanský chléb</trd>
   <trdgrp lng="de">
     <trd>Johannisbrot</trd>,
     <trd>Karobe</trd>
@@ -39,6 +40,7 @@
     <trd>johannesbroodpit</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_o;&c_zh;&c_o;&c_k; <klr>(&c_f;&c_r;&c_u;&c_k;&c_t;)</klr></trd>
+  <trd lng="sk">svätojánsky chlieb</trd>
   <trd lng="tr">ke&ccedil;i boynuzu</trd>
 </drv>
 
@@ -61,6 +63,7 @@
     </dif>
   </snc>
   <trd lng="ca">garrofer</trd>
+  <trd lng="cs">rohovník obecný</trd>
   <trd lng="de">Johannisbrotbaum</trd>
   <trd lng="en">carob tree</trd>
   <trd lng="fr">caroubier</trd>
@@ -70,10 +73,17 @@
     <trd>sint-jansbroodboom</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_o;&c_zh;&c_k;&c_o;&c_v;&c_o;&c_je; &c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
+  <trd lng="sk">rohovník obecný</trd>
 </drv>
 </art>
 <!--
 $Log: karob.xml,v $
+Revision 1.16  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2012/09/02 08:10:08  revo
 Marc Rausell: + trd ca
 

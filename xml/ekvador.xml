@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekvador.xml,v 1.12 2014/06/08 16:10:33 revo Exp $">
+<art mrk="$Id: ekvador.xml,v 1.14 2015/07/04 08:37:33 revo Exp $">
 <kap><ofc>8</ofc><rad>Ekvador</rad>/o</kap>
 <drv mrk="ekvador.E0o">
   <kap><tld/>o</kap>
@@ -23,6 +23,7 @@
     <trd>l'Equador</trd>,
     <trd>Rep&uacute;blica de l'Equador</trd>
   </trdgrp>
+  <trd lng="cs">Ekvádor</trd>
   <trd lng="de">Ecuador</trd>
   <trd lng="en">Ecuador</trd>
   <trd lng="es">Ecuador (el pa&iacute;s)</trd>
@@ -34,12 +35,19 @@
   <trd lng="nl">Ecuador</trd>
   <trd lng="pl">Ekwador</trd>
   <trd lng="pt">Equador<klr tip="amb"> (pa&iacute;s)</klr> </trd>
+  <trd lng="sk">Ekvádor</trd>
 </drv>
 </art>
 
 
 <!--
 $Log: ekvador.xml,v $
+Revision 1.14  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2014/06/08 16:10:33  revo
 Eko Nur Syah Hidayat: +id
 

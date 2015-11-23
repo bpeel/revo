@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fluktu.xml,v 1.13 2012/07/16 10:10:42 revo Exp $">
+<art mrk="$Id: fluktu.xml,v 1.15 2015/07/04 08:37:34 revo Exp $">
 <kap><rad>fluktu</rad>/i</kap>
 <drv mrk="fluktu.0i">
   <kap><tld/>i</kap>
@@ -65,6 +65,10 @@
     <trd>&c_v;&c_a;&c_g;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">fluctuar</trd>
+  <trdgrp lng="cs">
+    <trd>fluktuovat</trd>,
+    <trd>kolísat</trd>
+  </trdgrp>
   <trd lng="en">fluctuate</trd>
   <trd lng="es">fluctuar</trd>
   <trdgrp lng="fr">
@@ -80,10 +84,21 @@
     <trd>&c_f;&c_l;&c_ju;&c_k;&c_t;&c_u;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_k;&c_o;&c_l;&c_je;&c_b;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>fluktuovať</trd>,
+    <trd>kolísať</trd>,
+    <trd>meniť sa</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: fluktu.xml,v $
+Revision 1.15  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2012/07/16 10:10:42  revo
 Marc Rausell: + trd ca
 

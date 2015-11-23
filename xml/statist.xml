@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: statist.xml,v 1.2 2011/02/16 19:10:11 revo Exp $">
+<art mrk="$Id: statist.xml,v 1.4 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>statist</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -31,8 +31,11 @@
     <trd>&c_s;&c_t;&c_a;&c_t;&c_y;&c_s;&c_t;</trd>,
     <trd>&c_a;&c_k;&c_t;&c_o;&c_r; &c_k;&c_a;&c_r;&c_d;&c_e;&c_b;&c_a;&c_l;&c_je;&c_t;&c_u;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>figurant</trd>,
+    <trd>statista</trd>
+  </trdgrp>
   <trd lng="fr">figurant</trd>
-  <trd lng="nl">figurant</trd>
   <trdgrp lng="hu">
     <trd>statiszta</trd>,
     <trd>mell&eacute;kszerepl&odblac;</trd>
@@ -41,6 +44,7 @@
     <trd>figurante<klr> (cin. e spettac.)</klr></trd>,
     <trd>comparsa<klr> (cin. e teat.)</klr></trd>
   </trdgrp>
+  <trd lng="nl">figurant</trd>
   <trdgrp lng="pl">
     <trd>figurant</trd>,
     <trd>statysta</trd>
@@ -49,6 +53,10 @@
     <trd>&c_a;&c_r;&c_t;&c_i;&c_s;&c_t;(&c_k;&c_a;)
     <ind>&c_k;&c_o;&c_r;&c_d;&c_je;&c_b;&c_a;&c_l;&c_je;&c_t;&c_a;</ind></trd>;
     <trd>&c_s;&c_t;&c_a;&c_t;&c_i;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>figurant</trd>,
+    <trd>štatista</trd>
   </trdgrp>
 </drv>
 
@@ -80,6 +88,12 @@
 
 <!--
 $Log: statist.xml,v $
+Revision 1.4  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.2  2011/02/16 19:10:11  revo
 Jozefo Horvath: +trd hu
 

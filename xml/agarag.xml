@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: agarag.xml,v 1.15 2011/12/31 10:10:23 revo Exp $">
+<art mrk="$Id: agarag.xml,v 1.17 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <rad>agaragar</rad>/o
 </kap>
@@ -20,6 +20,7 @@
   <trd lng="be">&c_a;&c_g;&c_a;&c_r;-&c_a;&c_g;&c_a;&c_r;</trd>
   <trd lng="bg">&c_a;&c_g;&c_a;&c_r;-&c_a;&c_g;&c_a;&c_r;</trd>
   <trd lng="ca">agar-agar</trd>
+  <trd lng="cs">agar-agar</trd>
   <trd lng="de">Agar-Agar</trd>
   <trdgrp lng="en">
     <trd>agar</trd>,
@@ -33,11 +34,20 @@
   <trd lng="nl">agar-agar</trd>
   <trd lng="pt">&aacute;gar-&aacute;gar</trd>
   <trd lng="ru">&c_a;&c_g;&c_a;&c_r;-&c_a;&c_g;&c_a;&c_r;</trd>
-  <trd lng="sk">agar</trd>
+  <trdgrp lng="sk">
+    <trd>agar</trd>,
+    <trd>agar-agar</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: agarag.xml,v $
+Revision 1.17  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2011/12/31 10:10:23  revo
 Marc Rausell: +trd ca
 

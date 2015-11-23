@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gelat.xml,v 1.11 2012/08/18 19:10:31 revo Exp $">
+<art mrk="$Id: gelat.xml,v 1.13 2015/07/04 08:37:35 revo Exp $">
 <kap><rad>gelat</rad>/o</kap>
 <drv mrk="gelat.0o">
   <kap><tld/>o</kap>
@@ -22,6 +22,10 @@
     <trd>&c_zh;&c_e;&c_l;&c_je;</trd>
   </trdgrp>
   <trd lng="ca">gel<klr> (qu&iacute;m.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>gel</trd>,
+    <trd>rosol</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Gel</trd>,
     <trd>Gelee</trd>
@@ -40,6 +44,10 @@
     <trd>gel&eacute;ia</trd>
   </trdgrp>
   <trd lng="ru">&c_zh;&c_je;&c_l;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>gél</trd>,
+    <trd>rôsol</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gelat.0igxi">
@@ -65,6 +73,12 @@
 </art>
 <!--
 $Log: gelat.xml,v $
+Revision 1.13  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2012/08/18 19:10:31  revo
 Marc Rausell: + trd ca
 

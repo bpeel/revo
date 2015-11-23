@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fajn.xml,v 1.20 2012/08/29 17:10:10 revo Exp $">
+<art mrk="$Id: fajn.xml,v 1.22 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <rad>fajn</rad>/a
 </kap>
@@ -77,6 +77,14 @@
     <trd>delicat</trd>,
     <trd>exquisit</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>fajn</trd>,
+    <trd>hladký</trd>,
+    <trd>jemný</trd>,
+    <trd>ušlechtilý</trd>,
+    <trd>vybraný</trd>,
+    <trd>vytříbený</trd>
+  </trdgrp>
   <trd lng="en">fine</trd>
   <trdgrp lng="fr">
     <trd>fin<klr tip="ind"> (d'une grande puret&eacute;)</klr></trd>,
@@ -100,6 +108,12 @@
     <trd>extrafino</trd>,
     <trd>de <ind>primeira</ind></trd>,
     <trd>refinado</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>drobný</trd>,
+    <trd>jemný</trd>,
+    <trd>subtílny</trd>,
+    <trd>útly</trd>
   </trdgrp>
 </drv>
 
@@ -135,6 +149,7 @@
     </rim>
   </snc>
   <trd lng="ca">m&eacute;s fi[na] (mat. topol.)</trd>
+  <trd lng="cs">jemnější</trd>
   <trd lng="de">feiner</trd>
   <trd lng="en">finer<klr tip="ind"> (math.)</klr></trd>
   <trd lng="fr">plus <ind>fin</ind><klr tip="ind"> (math.)</klr></trd>
@@ -143,10 +158,17 @@
   <trd lng="ru">&c_b;&c_o;&c_l;&c_je;&c_je; <ind>
   &c_t;&c_o;&c_n;&c_k;&c_i;&c_j;</ind><klr tip="ind"> (&c_m;&c_a;&c_t;.)
   </klr></trd>
+  <trd lng="sk">jemnejší</trd>
 </drv>
 </art>
 <!--
 $Log: fajn.xml,v $
+Revision 1.22  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2012/08/29 17:10:10  revo
 Marc Rausell: + trd ca
 

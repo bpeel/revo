@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: septet.xml,v 1.14 2014/02/04 13:10:21 revo Exp $">
+<art mrk="$Id: septet.xml,v 1.16 2015/07/04 08:37:43 revo Exp $">
 <kap>
    <ofc>2</ofc>
    <rad>septet</rad>/o
@@ -15,20 +15,31 @@
        Muzika verko por sep vo&ccirc;oj a&ubreve; instrumentoj.
      </dif>
    </snc>
-   <trd lng="be">&c_s;&c_e;&c_p;&c_t;&c_e;&c_t;</trd>
-   <trd lng="bg">&c_s;&c_je;&c_p;&c_t;&c_je;&c_t;</trd>
-   <trd lng="ca">septet</trd>
-   <trd lng="de">Septett</trd>
-   <trd lng="en">septet</trd>
-   <trd lng="es">septeto</trd>
-   <trd lng="hu">septett</trd>
-   <trd lng="nl">septet</trd>
-   <trd lng="fr">septuor</trd>
-   <trd lng="ru">&c_s;&c_je;&c_p;&c_t;&c_je;&c_t;</trd>
+  <trd lng="be">&c_s;&c_e;&c_p;&c_t;&c_e;&c_t;</trd>
+  <trd lng="bg">&c_s;&c_je;&c_p;&c_t;&c_je;&c_t;</trd>
+  <trd lng="ca">septet</trd>
+  <trdgrp lng="cs">
+    <trd>septet</trd>,
+    <trd>septuor</trd>
+  </trdgrp>
+  <trd lng="de">Septett</trd>
+  <trd lng="en">septet</trd>
+  <trd lng="es">septeto</trd>
+  <trd lng="fr">septuor</trd>
+  <trd lng="hu">septett</trd>
+  <trd lng="nl">septet</trd>
+  <trd lng="ru">&c_s;&c_je;&c_p;&c_t;&c_je;&c_t;</trd>
+  <trd lng="sk">septeto</trd>
 </drv>
 </art>
 <!--
 $Log: septet.xml,v $
+Revision 1.16  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2014/02/04 13:10:21  revo
 Joop Eggen: +trd bg
 

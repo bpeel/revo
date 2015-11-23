@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plafon.xml,v 1.17 2013/07/16 09:10:21 revo Exp $">
+<art mrk="$Id: plafon.xml,v 1.19 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>plafon</rad>/o
@@ -35,10 +35,13 @@
   </snc>
   <trd lng="be">&c_s;&c_t;&c_o;&c_l;&c_mol;</trd>
   <trd lng="ca">sostre</trd>
-  <trd lng="cs">strop</trd>
-  <trd lng="es">techo</trd>
+  <trdgrp lng="cs">
+    <trd>nejvyšší dosažitelná výška</trd>,
+    <trd>strop</trd>
+  </trdgrp>
   <trd lng="de">Decke</trd>
   <trd lng="en">ceiling</trd>
+  <trd lng="es">techo</trd>
   <trdgrp lng="fr">
     <trd>plafond</trd>
   </trdgrp>
@@ -49,11 +52,18 @@
   <trd lng="nl">plafond</trd>
   <trd lng="pt">teto</trd>
   <trd lng="ru">&c_p;&c_o;&c_t;&c_o;&c_l;&c_o;&c_k;</trd>
+  <trd lng="sk">najvyššia dosiahnuteľná výška</trd>
   <trd lng="sv"><klr>(inner)</klr>tak</trd>
 </drv>
 </art>
 <!--
 $Log: plafon.xml,v $
+Revision 1.19  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/07/16 09:10:21  revo
 Marc Rausell: + trd ca
 

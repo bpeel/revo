@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bolivi.xml,v 1.11 2014/06/08 16:10:40 revo Exp $">
+<art mrk="$Id: bolivi.xml,v 1.14 2015/07/04 08:37:31 revo Exp $">
 <kap><ofc>8</ofc><rad>Bolivi</rad>/o</kap>
 <drv mrk="bolivi.B0o">
   <kap><tld/>o</kap>
@@ -22,19 +22,32 @@ limanta
   </snc>
   <trd lng="be">&c_B;&c_a;&c_l;&c_ib;&c_v;&c_ib;&c_ja;</trd>
   <trd lng="bg">&c_B;&c_o;&c_l;&c_i;&c_v;&c_i;&c_ja;</trd>
+  <trd lng="cs">Bolivie</trd>
   <trd lng="de">Bolivien</trd>
   <trd lng="en">Bolivia</trd>
   <trd lng="fr">Bolivie</trd>
   <trd lng="hu">Bol&iacute;via</trd>
   <trd lng="id">Bolivia</trd>
+  <trd lng="nl">Bolivi&euml;</trd>
+  <trd lng="no">Bolivia</trd>
   <trd lng="pl">Boliwia</trd>
   <trd lng="pt">Bol&iacute;via</trd>
+  <trd lng="sk">Bolívia</trd>
 </drv>
 </art>
 
 
 <!--
 $Log: bolivi.xml,v $
+Revision 1.14  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2014/12/28 15:10:26  revo
+Filip van Laenen: +trd(nl,no)
+
 Revision 1.11  2014/06/08 16:10:40  revo
 Eko Nur Syah Hidayat: +id
 
@@ -54,8 +67,5 @@ Revision 1.6  2011/02/13 02:10:36  revo
 Luiz Portella: kor. ref k mrk
 
 Revision 1.5  2010/10/16 16:30:37  revo
-Russ Williams: +ofc 8
-
-Revision 1.4  2009/03/18 17:32:42  revo
 -->
 </vortaro>

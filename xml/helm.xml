@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: helm.xml,v 1.13 2013/06/05 13:10:08 revo Exp $">
+<art mrk="$Id: helm.xml,v 1.15 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>helm</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -49,6 +49,11 @@
   <trd lng="be">&c_sh;&c_l;&c_je;&c_m;</trd>
   <trd lng="bg">&c_sh;&c_l;&c_je;&c_m;</trd>
   <trd lng="ca">elm</trd>
+  <trdgrp lng="cs">
+    <trd>helma</trd>,
+    <trd>helmice</trd>,
+    <trd>středověká přilba</trd>
+  </trdgrp>
   <trd lng="de">Helm</trd>
   <trd lng="fa">&f_k;&a_l;&a_A;&a_h;&a_kh;&a_w;&a_d;</trd>
   <trd lng="fr">heaume</trd>
@@ -57,11 +62,21 @@
   <trd lng="pl">he&lstroke;m</trd>
   <trd lng="pt">elmo</trd>
   <trd lng="ru">&c_sh;&c_l;&c_je;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>helma</trd>,
+    <trd>prilba</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: helm.xml,v $
+Revision 1.15  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2013/06/05 13:10:08  revo
 Jeromo Vasxe: kor. mistajpojn
 

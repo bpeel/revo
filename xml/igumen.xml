@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: igumen.xml,v 1.9 2011/12/06 13:10:24 revo Exp $">
+  <art mrk="$Id: igumen.xml,v 1.11 2015/07/04 08:37:36 revo Exp $">
     <kap>
       <rad>igumen</rad>/o
     </kap>
@@ -18,18 +18,20 @@
 	  <ref cel="arkimandrit.0o">arkimandrito</ref>.
     	</dif>
       </snc>
-      <trd lng="be">&c_ib;&c_g;&c_u;&c_m;&c_je;&c_n;</trd>
-      <trd lng="ca">hegumen</trd>
-      <trdgrp lng="en">
+  <trd lng="grc">&eta_densa;&gamma;&omikron;&ypsilon_ton;&my;&epsilon;&ny;&omikron;&sigma_fina;</trd>
+  <trd lng="be">&c_ib;&c_g;&c_u;&c_m;&c_je;&c_n;</trd>
+  <trd lng="ca">hegumen</trd>
+  <trd lng="cs">igumen</trd>
+  <trdgrp lng="en">
     	<trd>hegumen</trd>,
     	<trd>igumen</trd>
       </trdgrp>
-      <trd lng="grc">&eta_densa;&gamma;&omikron;&ypsilon_ton;&my;&epsilon;&ny;&omikron;&sigma_fina;</trd>
-      <trd lng="hu">ap&aacute;t<klr tip="ind"> (g&ouml;r&ouml;gkeleti)</klr></trd>
-      <trd lng="it">egumeno</trd>
-      <trd lng="pt">superior de um mosteiro</trd>
-      <trd lng="ru">&c_i;&c_g;&c_u;&c_m;&c_je;&c_n;</trd>
-    </drv>
+  <trd lng="hu">ap&aacute;t<klr tip="ind"> (g&ouml;r&ouml;gkeleti)</klr></trd>
+  <trd lng="it">egumeno</trd>
+  <trd lng="pt">superior de um mosteiro</trd>
+  <trd lng="ru">&c_i;&c_g;&c_u;&c_m;&c_je;&c_n;</trd>
+  <trd lng="sk">igumen</trd>
+</drv>
 
     <drv mrk="igumen.0ino">
       <kap><tld/>ino</kap>
@@ -57,6 +59,12 @@
 
   <!--
   $Log: igumen.xml,v $
+  Revision 1.11  2015/07/04 08:37:36  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.10  2015/06/29 16:33:15  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.9  2011/12/06 13:10:24  revo
   Marc Rausell: kataluna traduko
 

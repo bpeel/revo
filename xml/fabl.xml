@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fabl.xml,v 1.24 2014/06/13 20:10:17 revo Exp $">
+<art mrk="$Id: fabl.xml,v 1.26 2015/07/04 08:37:33 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>fabl</rad>/o
@@ -20,6 +20,7 @@
     <ref cel="apolog.0o">apologo</ref>.
     </refgrp>
   </snc>
+  <trd lng="lat">fabula, ae</trd>
   <trd lng="be">&c_b;&c_a;&c_j;&c_k;&c_a;</trd>
   <trd lng="bg">&c_b;&c_a;&c_s;&c_n;&c_ja;</trd>
   <trdgrp lng="br">
@@ -27,6 +28,7 @@
     <trd>mojenn<klr tip="ind"> (fablenn)</klr></trd>
   </trdgrp>
   <trd lng="ca">faula</trd>
+  <trd lng="cs">bajka</trd>
   <trd lng="de">Fabel</trd>
   <trdgrp lng="en">
     <trd>fable</trd>,
@@ -45,7 +47,6 @@
     <trd>fabula</trd>
   </trdgrp>
   <trd lng="id">fabel</trd>
-  <trd lng="lat">fabula, ae</trd>
   <trd lng="nl">fabel</trd>
   <trd lng="pl">bajka</trd>
   <trdgrp lng="pt">
@@ -56,11 +57,18 @@
     <trd>&c_b;&c_a;&c_s;&c_n;&c_ja;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_t;&c_ch;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">bájka</trd>
   <trd lng="sv">fabel</trd>
 </drv>
 </art>
 <!--
 $Log: fabl.xml,v $
+Revision 1.26  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2014/06/13 20:10:17  revo
 Eko Nur Syah Hidayat: +id
 

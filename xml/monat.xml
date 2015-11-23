@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: monat.xml,v 1.35 2014/06/03 15:10:28 revo Exp $">
+<art mrk="$Id: monat.xml,v 1.37 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>monat</rad>/o
@@ -41,9 +41,13 @@
   <trd lng="bg">&c_m;&c_je;&c_s;&c_je;&c_c;</trd>
   <trd lng="br">miz</trd>
   <trd lng="ca">mes</trd>
-  <trd lng="cs">m&ecaron;s&iacute;c</trd>
+  <trdgrp lng="cs">
+    <trd>m&ecaron;s&iacute;c</trd>,
+    <trd>měsíc <klr>(v kalendáři)</klr></trd>
+  </trdgrp>
   <trd lng="de">Monat</trd>
   <trd lng="en">month</trd>
+  <trd lng="es">mes</trd>
   <trd lng="fr">mois</trd>
   <trdgrp lng="he">
     <trd>&het;&vav;&dalet;&shin;</trd>,
@@ -53,19 +57,21 @@
   <trd lng="hu">h&oacute;nap</trd>
   <trd lng="id">bulan</trd>
   <trd lng="nl">maand</trd>
-  <trd lng="es">mes</trd>
   <trd lng="pl">miesi&aogonek;c</trd>
   <trd lng="pt">m&ecirc;s</trd>
   <trd lng="ro">lun&abreve; <klr>(calendaristic&abreve;)</klr></trd>
   <trd lng="ru">&c_m;&c_je;&c_s;&c_ja;&c_c;</trd>
-  <trd lng="sk">mesiac <klr>(v kalend&aacute;ri)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>mesiac <klr>(v kalend&aacute;ri)</klr></trd>,
+    <trd>mesiac <klr>(časová jednotka)</klr></trd>
+  </trdgrp>
   <trd lng="sv">m&aring;nad</trd>
+  <trd lng="tr">ay<klr>(ocak, &scedil;ubat, mart, nisan ...)</klr></trd>
   <trdgrp lng="zh">
     <trd>&#26376;<klr> [yu&egrave;]</klr></trd>,
     <trd>&#26376;&#20221;<klr> [yu&egrave;f&egrave;n]</klr></trd>,
     <trd>&#26376;&#24230;<klr> [yu&egrave;d&ugrave;]</klr></trd>
   </trdgrp>
-  <trd lng="tr">ay<klr>(ocak, &scedil;ubat, mart, nisan ...)</klr></trd>
 </drv>
 
 <drv mrk="monat.0a">
@@ -218,18 +224,26 @@
   </snc>
   <trd lng="bg">&c_m;&c_je;&c_d;&c_je;&c_n; &c_m;&c_je;&c_s;&c_je;&c_c;</trd>
   <trd lng="ca">lluna de <ind>mel</ind></trd>
+  <trd lng="cs">líbánky</trd>
   <trdgrp lng="de">
     <trd>Flitterwochen</trd>
   </trdgrp>
   <trd lng="en">honeymoon</trd>
   <trd lng="id"><ind>bulan</ind> madu</trd>
   <trd lng="nl">wittebroodsweken</trd>
+  <trd lng="sk">medové týždne</trd>
   <trd lng="sv">smekm&aring;nad</trd>
   <trd lng="tr">bal ay&inodot;</trd>
 </drv>
 </art>
 <!--
 $Log: monat.xml,v $
+Revision 1.37  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.36  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.35  2014/06/03 15:10:28  revo
 Eko Nur Syah Hidayat: +id
 

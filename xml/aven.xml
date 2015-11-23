@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aven.xml,v 1.27 2013/08/28 16:10:19 revo Exp $">
+<art mrk="$Id: aven.xml,v 1.30 2015/09/29 11:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>aven</rad>/o
@@ -33,6 +33,7 @@
   <trd lng="bg">&c_o;&c_v;&c_je;&c_s;</trd>
   <trd lng="br">kerc'h</trd>
   <trd lng="ca">civada</trd>
+  <trd lng="cs">aven</trd>
   <trd lng="de">Hafer</trd>
   <trd lng="en">oats</trd>
   <trd lng="es">avena</trd>
@@ -44,13 +45,26 @@
   <trd lng="hu">zab</trd>
   <trd lng="it">avena</trd>
   <trd lng="nl">haver</trd>
+  <trd lng="pt">aveia</trd>
   <trd lng="ru">&c_o;&c_v;&c_jo;&c_s;</trd>
-  <trd lng="sk">ovos</trd>
+  <trdgrp lng="sk">
+    <trd>aven</trd>,
+    <trd>ovos</trd>
+  </trdgrp>
   <trd lng="sv">havre</trd>
 </drv>
 </art>
 <!--
 $Log: aven.xml,v $
+Revision 1.30  2015/09/29 11:10:20  revo
+Evandro Avellar: +trd pt
+
+Revision 1.29  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.27  2013/08/28 16:10:19  revo
 Wolfram Diestel: -tajperaro
 
@@ -64,14 +78,5 @@ Revision 1.24  2009/06/29 18:05:19  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.23  2008/01/02 17:30:37  revo
-Wieland Pusch: +trd bg
-
-Revision 1.22  2005/04/28 16:33:30  revo
-Lluis Batlle i Rossell: +trd ca
-
-Revision 1.21  2005/02/24 17:32:45  revo
-Alan ar Gall: +trd br
-
-Revision 1.20  2002/10/12 16:31:05  revo
 -->
 </vortaro>

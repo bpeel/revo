@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gust.xml,v 1.28 2014/09/14 12:10:12 revo Exp $">
+<art mrk="$Id: gust.xml,v 1.32 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>gust</rad>/o
+  <rad>gust</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 
 <drv mrk="gust.0o">
@@ -24,6 +24,10 @@
       <ekz>
         <ind>fremda man&gcirc;o havas bonan <tld/>on</ind>
         <fnt><bib>PrV</bib></fnt>.
+        <trdgrp lng="es">
+          <trd>la sopa del vecino sabe mucho mejor</trd>,
+          <trd>"de la vi&ntilde;a del vecino, sabe mejor el racimo"</trd>
+        </trdgrp>
         <trd lng="hu">szomsz&eacute;d asszony leves&eacute;nek sokkal jobb az
         &iacute;ze</trd>
       </ekz>
@@ -47,6 +51,7 @@
         la organo de la <tld/>o.
       </ekz>
     </dif>
+    <trd lng="es">sentido del gusto</trd>
     <trd lng="hu">&iacute;zlel&odblac;k&eacute;pess&eacute;g</trd>
   </snc>
   <snc mrk="gust.0o.karaktero">
@@ -63,11 +68,16 @@
       <ekz>
         <ind>&ccirc;iu havas sian propran <tld/>on</ind>
         <fnt><bib>PrV</bib></fnt>;
+        <trd lng="es">cada uno tiene su propio gusto</trd>
         <trd lng="hu">mindenkinek megvan a maga &iacute;zl&eacute;se</trd>
       </ekz>
       <ekz>
         <ind>pri <tld/>oj oni disputi ne devas</ind>
         <fnt><bib>PrV</bib></fnt>;
+        <trdgrp lng="es">
+           <trd>no se puede discutir sobre gustos</trd>
+           <trd>sobre gustos no hay nada escrito</trd>
+        </trdgrp>
         <trd lng="hu">az &iacute;zl&eacute;sekr&odblac;l nem lehet vitatkozni</trd>
         <trd lng="nl">over <ind>smaken</ind> valt niet te twisten</trd>
       </ekz>
@@ -85,6 +95,7 @@
         <klr>(pla&ccirc;i al)</klr>.
       </ekz>
     </dif>
+    <trd lng="es">gusto personal</trd>
     <trd lng="hu">&iacute;zl&eacute;s</trd>
   </snc>
   <snc mrk="gust.0o.priVerko">
@@ -99,19 +110,32 @@
         oni povas distingi la naturan kaj la akiritan <tld/>ojn.
       </ekz>
     </dif>
+    <trd lng="es">sentido de la belleza</trd>
     <trd lng="hu">sz&eacute;p&eacute;rz&eacute;k</trd>
   </snc>
-  <trd lng="cs">chu&tcaron;</trd>
+  <trdgrp lng="cs">
+    <trd>chu&tcaron;</trd>,
+    <trd>gusto</trd>,
+    <trd>styl</trd>,
+    <trd>vkus</trd>
+  </trdgrp>
   <trd lng="de">Geschmack</trd>
   <trd lng="en">taste</trd>
-  <trd lng="es">gusto</trd>
+  <trdgrp lng="es">
+    <trd>gusto</trd>, 
+    <trd>sabor</trd> 
+  </trdgrp>
   <trd lng="fr">go&ucirc;t</trd>
   <trd lng="nl">smaak</trd>
   <trdgrp lng="pt">
-   <trd>gosto</trd>, 
-   <trd>sabor</trd> 
+    <trd>gosto</trd>, 
+    <trd>sabor</trd> 
   </trdgrp>
   <trd lng="ru">&c_v;&c_k;&c_u;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>chuť</trd>,
+    <trd>vkus</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gust.0i">
@@ -143,6 +167,10 @@
     </dif>
     <trd lng="hu">&iacute;zlik</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>chutnat</trd>,
+    <trd>mít chuť</trd>
+  </trdgrp>
   <trd lng="de">schmecken</trd>
   <trd lng="es">gustar</trd>
   <trdgrp lng="fr">
@@ -153,6 +181,7 @@
   <trd lng="ru">&c_i;&c_m;&c_je;&c_t;&c_mol; <ind>&c_v;&c_k;&c_u;&c_s;</ind>
 <klr>(&c_ch;&c_je;&c_g;&c_o;-&c_l;., &c_k;&c_a;&c_k;
 &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
+  <trd lng="sk">mať chuť</trd>
 </drv>
 
 <drv mrk="gust.0igi">
@@ -184,6 +213,12 @@
     </dif>
     <trd lng="hu">megkedveltet</trd>
   </snc>
+  <trd lng="cs">ochutit</trd>
+  <trdgrp lng="es">
+    <trd>dar <ind>sabor</ind></trd>,
+    <trd>ali&ntilde;ar</trd>,
+    <trd>condimentar</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>donner du <ind>go&ucirc;t</ind></trd>,
     <trd>assaisonner</trd>,
@@ -192,6 +227,7 @@
   <trd lng="nl">doen <ind>smaken</ind></trd>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol;
 &c_v;&c_k;&c_u;&c_s;</trd>
+  <trd lng="sk">ochutiť</trd>
 </drv>
 
 <drv mrk="gust.0umi">
@@ -217,6 +253,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>chutnat</trd>,
+    <trd>ochutnávat</trd>
+  </trdgrp>
   <trd lng="de">kosten</trd>
   <trd lng="es">saborear</trd>
   <trdgrp lng="fr">
@@ -237,6 +277,7 @@ plaisir
     <trd>&c_o;&c_t;&c_v;&c_je;&c_d;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_d;&c_je;&c_g;&c_u;&c_s;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">ochutnať</trd>
 </drv>
 
 <drv mrk="gust.antaux0o">
@@ -253,6 +294,7 @@ plaisir
     </dif>
   </snc>
   <trd lng="de">Vorgeschmack</trd>
+  <trd lng="es">imaginar (anticipar) el sabor</trd>
   <trd lng="fr">avant-go&ucirc;t</trd>
   <trd lng="nl">voorsmaak</trd>
   <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_v;&c_k;&c_u;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
@@ -306,6 +348,32 @@ plaisir
     <trd lng="ru">&c_s; &c_h;&c_o;&c_r;&c_o;&c_sh;&c_i;&c_m;
 <ind>&c_v;&c_k;&c_u;&c_s;&c_o;&c_m;</ind></trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>chutný</trd>,
+    <trd>lahodný</trd>
+  </trdgrp>
+  <trd lng="sk">chutný</trd>
+</drv>
+
+<drv mrk="gust.bon0i">
+  <kap>bon<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="gust.bon0i.KOMUNE">
+    <dif>
+      Prezenti bonan, agrablan <tld/>on:
+      <ekz>
+        la pomoj &ccirc;i tie paradize bon<tld/>as
+        <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u ni kunvenis 
+        vane?</vrk>, <lok>1982</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>být chutný</trd>,
+    <trd>chutnat</trd>
+  </trdgrp>
+  <trd lng="fr">&ecirc;tre <ind>bon</ind><klr> (au gout)</klr></trd>
+  <trd lng="sk">chutiť</trd>
 </drv>
 
 <drv mrk="gust.post0o">
@@ -325,6 +393,10 @@ plaisir
     </dif>
   </snc>
   <trd lng="de">Nachgeschmack</trd>
+  <trdgrp lng="es">
+    <trd>regusto</trd>,
+    <trd>sabor de boca</trd>
+  </trdgrp>
   <trd lng="fr">arri&egrave;re-go&ucirc;t</trd>
   <trdgrp lng="hu">
     <trd>ut&oacute;&iacute;z</trd>,
@@ -357,10 +429,14 @@ plaisir
         sen<tld/>a &scirc;erco, la&ubreve;do, poemo.
       </ekz>
     </dif>
+    <trdgrp lng="es">
+      <trd>ins&iacute;pido</trd>, 
+      <trd>insulso</trd> 
+    </trdgrp>
     <trd lng="hu">&iacute;zetlen</trd>
     <trdgrp lng="pt">
-     <trd>ins&iacute;pido</trd>, 
-     <trd>insulso</trd> 
+      <trd>ins&iacute;pido</trd>, 
+      <trd>insulso</trd> 
     </trdgrp>
   </snc>
   <snc mrk="gust.sen0a.neestetika">
@@ -370,7 +446,18 @@ plaisir
     </dif>
     <trd lng="hu">&iacute;zl&eacute;stelen</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bez chuti</trd>,
+    <trd>bez vkusu</trd>,
+    <trd>nechutný</trd>,
+    <trd>nevkusný</trd>
+  </trdgrp>
   <trd lng="de">geschmacklos</trd>
+  <trdgrp lng="es">
+    <trd>mal gusto<klr> (vestir, decorar)</klr></trd>, 
+    <trd>sin gusto</trd>,
+    <trd>vulgar</trd> 
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>sans <ind>go&ucirc;t</ind></trd>,
     <trd>insipide</trd>,
@@ -378,6 +465,12 @@ plaisir
   </trdgrp>
   <trd lng="nl">smaakloos</trd>
   <trd lng="ru">&c_b;&c_je;&c_z;&c_v;&c_k;&c_u;&c_s;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>bez chuti</trd>,
+    <trd>bez vkusu</trd>,
+    <trd>nechutný</trd>,
+    <trd>nevkusný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gust.vin0umisto">
@@ -394,7 +487,17 @@ plaisir
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>koštér</trd>,
+    <trd>koštéř</trd>,
+    <trd>koštýř</trd>,
+    <trd>ochutnávač vína</trd>
+  </trdgrp>
   <trd lng="de">Weinverkoster</trd>
+  <trdgrp lng="es">
+   <trd>degustador</trd>
+   <trd>catador</trd>
+  </trdgrp>
   <trd lng="fr">d&eacute;gustateur<klr tip="ind"> (de vin)</klr></trd>
   <trd lng="hu">bork&oacute;stol&oacute;</trd>
   <trd lng="nl">wijnproever</trd>
@@ -402,12 +505,24 @@ plaisir
    <trd>degustador</trd>
    <trd>provador</trd>
   </trdgrp>
-
   <trd lng="ru">&c_d;&c_je;&c_g;&c_u;&c_s;&c_t;&c_a;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">ochutnávač vína</trd>
 </drv>
 </art>
 <!--
 $Log: gust.xml,v $
+Revision 1.32  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2014/12/22 21:10:17  revo
+Jeromo Vasxe: + bon~i
+
+Revision 1.29  2014/12/14 08:10:17  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.28  2014/09/14 12:10:12  revo
 Norbert Luckhardt: bon~a: +tra DE +tra ES
 
@@ -424,11 +539,5 @@ Revision 1.24  2005/05/16 17:48:45  revo
 Marc Bavant: kor duobligitajn punktojn
 
 Revision 1.23  2005/04/25 16:31:57  revo
-Paul Peeraerts: kor de propra fusho
-
-Revision 1.22  2005/04/24 16:33:54  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.21  2005/04/11 16:32:11  revo
 -->
 </vortaro>

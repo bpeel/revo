@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: empiem.xml,v 1.4 2013/10/09 19:10:37 revo Exp $">
+<art mrk="$Id: empiem.xml,v 1.7 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <rad>empiem</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -16,13 +16,25 @@
     </dif>
     <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
   </snc>
+  <trd lng="cs">empyém</trd>
   <trd lng="en">empyema</trd>
   <trd lng="fr">empy&egrave;me</trd>
+  <trd lng="id">empiema</trd>
   <trd lng="it">empiema</trd>
+  <trd lng="sk">hnisavý zápal</trd>
 </drv>
 </art>
 <!--
 $Log: empiem.xml,v $
+Revision 1.7  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2014/11/17 14:10:22  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.4  2013/10/09 19:10:37  revo
 Wolfram Diestel: ref al lst malsanoj
 

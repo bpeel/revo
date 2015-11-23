@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: spinde.xml,v 1.9 2010/12/12 17:30:21 revo Exp $">
+<art mrk="$Id: spinde.xml,v 1.12 2015/09/05 15:10:16 revo Exp $">
 <kap>
   <rad>spindel</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -12,7 +12,17 @@
     <uzo tip="fak">TEKS</uzo>
     <uzo tip="fak">TEK</uzo>
     <dif>
-      Fera vergo en la &scirc;pinma&scirc;ino, sur kiun oni enigas bobeneton.
+      Fera vergo en la &scirc;pinma&scirc;ino, sur kiun oni enigas bobeneton:
+      <ekz>
+        vidis la infanoj la unuan fojon en sia vivo,
+        kiel oni &scirc;pinas je <tld/>o
+        <fnt>
+          <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K. Proch&aacute;zka</aut>,
+          <vrk><url ref="https://eo.wikisource.org/wiki/Avineto/I.">
+          Avineto</url></vrk>,
+          <lok>[sen dato]</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trdgrp lng="fr">
       <trd>broche<klr> (tissage)</klr></trd>,
@@ -29,6 +39,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>krajk&aacute;&rcaron;sk&aacute; pali&ccaron;ka</trd>,
+    <trd>v&rcaron;eteno</trd>
+  </trdgrp>
   <trd lng="de">Spindel</trd>
   <trd lng="en">spindle</trd>
   <trd lng="hu">ors&oacute;</trd>
@@ -37,6 +51,7 @@
     <trd>spil</trd>
   </trdgrp>
   <trd lng="ru">&c_sh;&c_p;&c_i;&c_n;&c_d;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">vreteno</trd>
 </drv>
 
 <drv mrk="spinde.0rado">
@@ -53,6 +68,15 @@
 </art>
 <!--
 $Log: spinde.xml,v $
+Revision 1.12  2015/09/05 15:10:16  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.11  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2010/12/12 17:30:21  revo
 Jeromo Vasxe: + 3 trd fr
 
@@ -66,10 +90,5 @@ Revision 1.6  2002/02/15 17:33:55  revo
 Yury Finkel: +trd ru
 
 Revision 1.5 2001/10/07 18:17:32 revo
-Dennis Wibrow: +trd germ
-
-Revision 1.4 2001/08/01 18:12:59 revo
-Paul Peeraerts: ald trd nl
-
 -->
 </vortaro>

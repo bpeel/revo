@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: las.xml,v 1.19 2011/11/07 01:10:31 revo Exp $">
+<art mrk="$Id: las.xml,v 1.22 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>las</rad>/i <fnt><bib>PV</bib></fnt>
@@ -213,7 +213,13 @@
     </trdgrp>    
     <trd lng="ru">&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
   </snc>
-  <trd lng="cs">nechat</trd>
+  <trd lng="kek">ach&#789;ab&#789;ank</trd>
+  <trdgrp lng="cs">
+    <trd>nechat</trd>,
+    <trd>opustit</trd>,
+    <trd>propustit</trd>,
+    <trd>zanechat</trd>
+  </trdgrp>
   <trd lng="en">leave</trd>
   <trdgrp lng="es">
     <trd>dejar</trd>,
@@ -232,7 +238,10 @@
     <trd>abandonar</trd>,
     <trd>permitir</trd>    
   </trdgrp>
-  <trd lng="kek">ach&#789;ab&#789;ank</trd>
+  <trdgrp lng="sk">
+    <trd>opustiť</trd>,
+    <trd>zanechať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="las.al0i">
@@ -270,6 +279,12 @@
     <trd>degemer</trd>,
     <trd>aotren</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dopouštět se</trd>,
+    <trd>dopustit</trd>,
+    <trd>dovolit</trd>,
+    <trd>připustit</trd>
+  </trdgrp>
   <trd lng="de">zulassen</trd>
   <trdgrp lng="fr">
     <trd>admettre<klr tip="amb"> (laisser passer)</klr></trd>,
@@ -278,11 +293,15 @@
   <trdgrp lng="hu">
     <trd>odaenged</trd>,
     <trd>megenged</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="nl">toelaten</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_d;&c_o;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dovoliť</trd>,
+    <trd>pripustiť</trd>
   </trdgrp>
 </drv>
 
@@ -299,13 +318,18 @@
   </snc>
   <trd lng="be">&c_u;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
   <trd lng="br">tenna&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>pouštět</trd>,
+    <trd>upustit</trd>
+  </trdgrp>
   <trd lng="de">weglassen</trd>
   <trd lng="fr">d&eacute;poser</trd>
   <trdgrp lng="hu">
     <trd>leenged</trd>,
     <trd>elenged</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="nl">weglaten</trd>
+  <trd lng="sk">upustiť</trd>
 </drv>
 
 <drv mrk="las.el0i">
@@ -338,6 +362,11 @@
   </snc>
   <trd lng="be">&c_v;&c_y;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
   <trd lng="br">lezel da vont er-maez</trd>
+  <trdgrp lng="cs">
+    <trd>odpustit</trd>,
+    <trd>vynechat</trd>,
+    <trd>vypustit</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>laisser &eacute;chapper</trd>,
     <trd>laisser sortir</trd>
@@ -345,8 +374,12 @@
   <trdgrp lng="hu">
     <trd>kienged</trd>,
     <trd>kiereszt</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="ru">&c_v;&c_y;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>vynechať</trd>,
+    <trd>vypustiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="las.en0i">
@@ -366,14 +399,19 @@
   </snc>
   <trd lng="be">&c_u;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
   <trd lng="br">lezel da zont e-barzh</trd>
+  <trdgrp lng="cs">
+    <trd>napouštět <klr>(něco / něčím)</klr></trd>,
+    <trd>vpustit</trd>
+  </trdgrp>
   <trd lng="de">einlassen</trd>
   <trd lng="fr">faire entrer</trd>
   <trdgrp lng="hu">
     <trd>beenged</trd>,
     <trd>beereszt</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="nl">binnenlaten</trd>
   <trd lng="ru">&c_v;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">vpustiť</trd>
 </drv>
 
 <drv mrk="las.for0i">
@@ -408,16 +446,25 @@
     <trd>&c_p;&c_a;&c_k;&c_ib;&c_d;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="br">dilezel</trd>
+  <trdgrp lng="cs">
+    <trd>opustit</trd>,
+    <trd>propustit</trd>,
+    <trd>zanechat</trd>
+  </trdgrp>
   <trd lng="fr">abandonner</trd>
   <trdgrp lng="hu">
     <trd>otthagy</trd>,
     <trd>elhagy</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="nl">verlaten</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_k;&c_i;&c_n;&c_u;&c_t;&c_mol;</trd>,
     <trd>&c_b;&c_r;&c_o;&c_s;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>opustiť</trd>,
+    <trd>zanechať</trd>
   </trdgrp>
 </drv>
 
@@ -443,13 +490,15 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_k;&c_ib;&c_d;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja; &c_s;&c_ja;&c_b;&c_je;)</klr></trd>
   <trd lng="br">lezel war e lerc'h</trd>
+  <trd lng="cs">zanechat</trd>
   <trd lng="fr">laisser derri&egrave;re soi</trd>
   <trdgrp lng="hu">
     <trd>h&aacute;trahagy</trd>,
     <trd>maga m&ouml;g&ouml;tt <ind>hagy</ind></trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="nl">achterlaten</trd>
   <trd lng="ru">&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol; <klr>(&c_p;&c_o;&c_s;&c_l;&c_je; &c_s;&c_je;&c_b;&c_ja;)</klr></trd>
+  <trd lng="sk">zanechať</trd>
 </drv>
 
 <drv mrk="las.preter0i">
@@ -490,12 +539,24 @@
     <trd>&c_u;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="br">lezel da dremen</trd>
-  <trd lng="fr">laisser passer<klr tip="amb"> (ne pas voir)</klr></trd> 
+  <trdgrp lng="cs">
+    <trd>nechat projít</trd>,
+    <trd>nechat ujít</trd>,
+    <trd>opomenout</trd>,
+    <trd>propusti</trd>,
+    <trd>propást</trd>,
+    <trd>přehlédnout</trd>,
+    <trd>zameškat</trd>,
+    <trd>zanechat</trd>,
+    <trd>zanedbat</trd>,
+    <trd>zmeškat</trd>
+  </trdgrp>
+  <trd lng="fr">laisser passer<klr tip="amb"> (ne pas voir)</klr></trd>
   <trdgrp lng="hu">
     <trd>elszalaszt</trd>,
     <trd>elmulaszt</trd>,
     <trd>elenged <klr tip="amb"> (maga mellett)</klr></trd>
-  </trdgrp>  
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>verzuimen</trd>,
     <trd>nalaten</trd>
@@ -504,6 +565,30 @@
     <trd>&c_p;&c_r;&c_o;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nechať prejsť okolo; prepásť</trd>,
+    <trd>nechať ujsť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="las.sinal0o">
+  <kap>sinal<tld/>o</kap>
+  <snc mrk="las.sinal0o.PSI">
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      Konfido de si mem, sendefenda, fida sinteno:
+      <ekz>
+        sinal<tld/>o al la dol&ccirc;a emocio de sia koro
+        <fnt>
+          <aut>C. de Laclos, trad. J.-L. Tortel</aut>,
+          <vrk><url ref="http://www.satesperanto.org/Letero-76a.html">
+          Dan&gcirc;eraj rilatoj</url></vrk>,
+          <lok>[vidita en 2015]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">abandon<klr> (de soi)</klr></trd>
 </drv>
 
 <drv mrk="las.tra0i">
@@ -521,15 +606,17 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_p;&c_r;&c_a;&c_z; &c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
-  <trd lng="br">lezel da dreuzi&ntilde;</trd> 
+  <trd lng="br">lezel da dreuzi&ntilde;</trd>
+  <trd lng="cs">propouštět</trd>
   <trd lng="de">durchlassen</trd>
   <trd lng="fr">laisser passer</trd>
   <trdgrp lng="hu">
     <trd>&aacute;tenged</trd>,
     <trd>&aacute;tereszt</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="nl">doorlaten</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">prepúšťať</trd>
 </drv>
 
 <drv mrk="las.tra0ema">
@@ -552,6 +639,15 @@
 </art>
 <!--
 $Log: las.xml,v $
+Revision 1.22  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2015/06/01 20:10:17  revo
+Jeromo Vasxe: + sinal~o
+
 Revision 1.19  2011/11/07 01:10:31  revo
  Anchise Inzaghi: traduko q'eqchi'
 
@@ -571,8 +667,5 @@ Revision 1.14  2004/05/22 16:32:43  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.13  2004/05/06 16:32:03  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12  2002/08/23 17:31:16  revo
 -->
 </vortaro>

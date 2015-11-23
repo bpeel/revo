@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: traves.xml,v 1.11 2013/04/21 18:10:13 revo Exp $">
+<art mrk="$Id: traves.xml,v 1.13 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <rad>travesti</rad>/i
   <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -56,15 +56,29 @@
       <lok>tk-stafeto, 1982</lok></fnt>.      
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kostým</trd>,
+    <trd>maska</trd>
+  </trdgrp>
   <trd lng="fr">parodie</trd>
   <trdgrp lng="pl">
     <trd>trawestacja</trd>,
     <trd>przer&oacute;bka <klr>(utworu literackiego)</klr></trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kostým</trd>,
+    <trd>maska</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: traves.xml,v $
+Revision 1.13  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2013/04/21 18:10:13  revo
 Sebastian Cyprych: +trd pl
 

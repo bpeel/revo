@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: varingjen.xml,v 1.11 2014/06/11 17:10:14 revo Exp $">
+  <art mrk="$Id: varingjen.xml,v 1.13 2015/07/04 08:37:45 revo Exp $">
     <kap>
       <rad>Varingjen</rad>/o <fnt><bib>PIV2</bib></fnt>
     </kap>
@@ -64,7 +64,9 @@ ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr13/suplemento.h
       <trd lng="pt">Waringhien</trd>
       <trd lng="ru">&c_G;&c_a;&c_s;&c_t;&c_o;&c_n;
         <ind>&c_V;&c_a;&c_r;&c_je;&c_n;&c_g;&c_mol;&c_je;&c_n;</ind></trd>
-    </drv>
+      <trd lng="sk">G.Waringhien</trd>
+  <trd lng="cs">G.Waringhien</trd>
+</drv>
 
     <drv mrk="varingjen.0a">
       <kap><tld lit="v"/>a</kap>
@@ -97,6 +99,12 @@ ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr13/suplemento.h
 
   <!--
   $Log: varingjen.xml,v $
+  Revision 1.13  2015/07/04 08:37:45  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.12  2015/06/28 12:03:50  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.11  2014/06/11 17:10:14  revo
   Sergio Pokrovskij: +ekz
 

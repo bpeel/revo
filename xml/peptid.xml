@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: peptid.xml,v 1.1 2013/11/23 11:10:16 revo Exp $">
+<art mrk="$Id: peptid.xml,v 1.2 2014/11/12 20:10:14 revo Exp $">
 <kap>
   <rad>peptid</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,13 +27,24 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bg">&c_p;&c_je;&c_p;&c_t;&c_i;&c_d;</trd>
+  <trd lng="ca">p&egrave;ptid</trd>
+  <trd lng="da">peptid</trd>
+  <trd lng="de">Peptid</trd>
   <trd lng="en">peptide</trd>
+  <trd lng="es">p&eacute;ptido</trd>
   <trd lng="fr">peptide</trd>
+  <trd lng="hu">peptid</trd>
+  <trd lng="it">peptide</trd>
+  <trd lng="nl">peptide</trd>
 </drv>
 </art>
 
 <!--
 $Log: peptid.xml,v $
+Revision 1.2  2014/11/12 20:10:14  revo
+Joop Eggen: +trd bg k.a.
+
 Revision 1.1  2013/11/23 11:10:16  revo
 Jeromo Vasxe: nova artikolo
 

@@ -2,19 +2,17 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: muzulman.xml,v 1.7 2014/05/04 08:10:24 revo Exp $">
+  <art mrk="$Id: muzulman.xml,v 1.10 2015/07/04 08:37:39 revo Exp $">
     <kap>
       <rad>muzulman</rad>/o
     </kap>
     <drv mrk="muzulman.0o">
       <kap><tld/>o</kap>
+      <snc>
       <uzo tip="stl">EVI</uzo>
       <uzo tip="fak">POL</uzo>
       <uzo tip="fak">REL</uzo>
-      <snc>
-        <dif>
-          <ref tip="dif" cel="islam.0ano">Islamano</ref>.
-        </dif>
+          <ref tip="dif" cel="islam.0ano">Islamano</ref>
         <rim>
           La vorto &leftquot;<tld/>o&rightquot; devenas el kripligita
           <ctl>muslim</ctl>,
@@ -23,13 +21,18 @@
           formon <ctl>islamano</ctl>.
         </rim>
       </snc>
-      <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>mohamedán</trd>,
+    <trd>muselman</trd>,
+    <trd>muslim</trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>Muselmann</trd>,
         <trd>Muselman</trd>
       </trdgrp>
-      <trd lng="fr">musulman</trd>
-      <trd lng="it">musulmano</trd>
-      <trdgrp lng="nl">
+  <trd lng="fr">musulman</trd>
+  <trd lng="it">musulmano</trd>
+  <trdgrp lng="nl">
         <trd>moslim</trd>,
         <trd>mohammedaan</trd>
       </trdgrp>
@@ -38,11 +41,24 @@
     <trd>islamita</trd>,
     <trd>maometano</trd>    
   </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>mohamedán</trd>,
+    <trd>moslim</trd>
+  </trdgrp>
+</drv>
   </art>
 
 <!--
 $Log: muzulman.xml,v $
+Revision 1.10  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2015/01/17 08:10:16  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.7  2014/05/04 08:10:24  revo
 Damien Brucker: +trd fr
 
@@ -62,7 +78,5 @@ Revision 1.2  2001/08/28 18:11:59  revo
 Sergio Pokrovskij: regulnumero
 
 Revision 1.1  2001/08/01 18:11:47  revo
-Sergio Pokrovskij: nova artikolo
-
 -->
 </vortaro>

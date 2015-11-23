@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hoke.xml,v 1.15 2013/07/26 08:10:11 revo Exp $">
+<art mrk="$Id: hoke.xml,v 1.17 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>hoke</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -20,6 +20,7 @@
   </snc>
   <trd lng="be">&c_h;&c_a;&c_k;&c_je;&c_j;</trd>
   <trd lng="bg">&c_h;&c_o;&c_k;&c_je;&c_j;</trd>
+  <trd lng="cs">hokej</trd>
   <trd lng="de">Hockey</trd>
   <trd lng="el">&chi;&omikron_ton;&kappa;&jota;</trd>
   <trd lng="en">hockey</trd>
@@ -34,6 +35,7 @@
   <trd lng="nl">hockey</trd>
   <trd lng="pt">h&oacute;quei</trd>
   <trd lng="ru">&c_h;&c_o;&c_k;&c_k;&c_je;&c_j;</trd>
+  <trd lng="sk">hokej</trd>
 </drv>
 
 <drv mrk="hoke.0ilo">
@@ -46,6 +48,7 @@
   </snc>
   <trd lng="be">&c_k;&c_l;&c_ju;&c_sh;&c_k;&c_a; <klr tip="amb">(&c_h;&c_a;&c_k;&c_je;&c_j;&c_n;&c_a;&c_ja;)</klr></trd>
   <trd lng="bg">&c_s;&c_t;&c_i;&c_k; &c_z;&c_a; &c_h;&c_o;&c_k;&c_je;&c_j;</trd>
+  <trd lng="cs">hokejka</trd>
   <trd lng="de">Hockeyschl&auml;ger</trd>
   <trd lng="en">hockey stick</trd>
   <trd lng="fa">&f_ch;&a_w;&a_b; <ind>&a_h;&a_A;&f_k;&f_y;</ind></trd>
@@ -55,10 +58,17 @@
   <trd lng="nl">hockeystick</trd>
   <trd lng="pt">estique<klr tip="amb"> (de h&oacute;quei)</klr></trd>
   <trd lng="ru">&c_k;&c_l;&c_ju;&c_sh;&c_k;&c_a; <klr>(&c_h;&c_o;&c_k;&c_k;&c_je;&c_j;&c_n;&c_a;&c_ja;)</klr></trd>
+  <trd lng="sk">hokejka</trd>
 </drv>
 </art>
 <!--
 $Log: hoke.xml,v $
+Revision 1.17  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/07/26 08:10:11  revo
 Joop Eggen: +trd bg
 

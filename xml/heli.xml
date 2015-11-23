@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: heli.xml,v 1.5 2013/12/02 12:10:21 revo Exp $">
+<art mrk="$Id: heli.xml,v 1.7 2015/07/04 08:37:35 revo Exp $">
   <kap>
     <rad>heli</rad>/o
   </kap>
@@ -15,15 +15,23 @@
     <dif>
     </dif>
   </snc>
+  <trd lng="cs">helium</trd>
   <trd lng="fr">h&eacute;lium</trd>
   <trd lng="it">elio<klr tip="amb"> (ch.)</klr></trd>
   <trd lng="pt">h&eacute;lio</trd>
+  <trd lng="sk">hélium</trd>
   <trd lng="sv">helium</trd>
 </drv>
 </art>
 
 <!--
 $Log: heli.xml,v $
+Revision 1.7  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2013/12/02 12:10:21  revo
 Damien Brucker: +trd fr
 

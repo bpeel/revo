@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: redakt.xml,v 1.17 2014/05/30 08:10:33 revo Exp $">
+<art mrk="$Id: redakt.xml,v 1.20 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>redakt</rad>/i
@@ -60,8 +60,17 @@
   </snc>
   <trd lng="be">&c_r;&c_e;&c_d;&c_a;&c_g;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">redactar</trd>
+  <trdgrp lng="cs">
+    <trd>modifikovat</trd>,
+    <trd>redigovat</trd>,
+    <trd>upravovat</trd>
+  </trdgrp>
   <trd lng="de">redigieren</trd>
   <trd lng="en">edit</trd>
+  <trdgrp lng="es">
+    <trd>redactar</trd>,
+    <trd>editar</trd>
+  </trdgrp>
   <trd lng="fr">r&eacute;diger</trd>
   <trd lng="hu">szerkeszt</trd>
   <trdgrp lng="nl">
@@ -69,6 +78,7 @@
     <trd>opstellen</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_je;&c_d;&c_a;&c_k;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">redigovať</trd>
 </drv>
 
 <drv mrk="redakt.0ejo">
@@ -91,11 +101,14 @@
   </snc>
   <trd lng="be">&c_r;&c_e;&c_d;&c_a;&c_k;&c_c;&c_y;&c_ja;</trd>
   <trd lng="ca">redacci&oacute; <klr>(oficina)</klr></trd>
+  <trd lng="cs">redakce <klr>(místnost)</klr></trd>
   <trd lng="de">Redaktion</trd>
+  <trd lng="es">redacci&oacute;n <klr>(oficina)</klr></trd>
   <trd lng="fr">r&eacute;daction<klr> (bureau de)</klr></trd>
   <trd lng="hu">szerkeszt&odblac;s&eacute;g</trd>
   <trd lng="nl">redactie</trd>
   <trd lng="ru">&c_r;&c_je;&c_d;&c_a;&c_k;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">redakcia <klr>(úradovňa)</klr></trd>
 </drv>
 
 <drv mrk="redakt.0ilo">
@@ -110,6 +123,7 @@
         <trd lng="be">&c_t;&c_e;&c_k;&c_s;&c_t;&c_a;&c_v;&c_y; &c_r;&c_e;&c_d;&c_a;&c_k;&c_t;&c_a;&c_r;</trd>
         <trd lng="de">Textverarbeitungsprogramm</trd>
         <trd lng="en">text editor</trd>
+        <trd lng="es">procesador de textos</trd>
         <trd lng="hu">sz&ouml;vegszerkeszt&odblac;</trd>
         <trd lng="ru">&c_t;&c_je;&c_k;&c_s;&c_t;&c_o;&c_v;&c_o;&c_j; &c_r;&c_je;&c_d;&c_a;&c_k;&c_t;&c_o;&c_r;</trd>
       </ekz>
@@ -119,6 +133,7 @@
         <trd lng="be">&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ch;&c_n;&c_y; &c_r;&c_e;&c_d;&c_a;&c_k;&c_t;&c_a;&c_r;</trd>
         <trd lng="de">Bildbearbeitungsprogramm</trd>
         <trd lng="en">graphics editor</trd>
+        <trd lng="es">editor gr&aacute;fico</trd>
         <trd lng="hu">k&eacute;pszerkeszt&odblac;</trd>
         <trd lng="ru">&c_g;&c_r;&c_a;&c_f;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j; &c_r;&c_je;&c_d;&c_a;&c_k;&c_t;&c_o;&c_r;</trd>
       </ekz>
@@ -129,6 +144,7 @@
         <trd lng="be">&c_r;&c_e;&c_d;&c_a;&c_k;&c_t;&c_a;&c_r; &c_sh;&c_r;&c_y;&c_f;&c_t;&c_o;&c_w;</trd>
         <trd lng="de">Zeichensatzbearbeitungsprogramm</trd>
         <trd lng="en">font editor</trd>
+        <trd lng="es">editor de tipos de letra</trd>
         <trd lng="hu">bet&udblac;csomag-szerkeszt&odblac;</trd>
         <trd lng="ru">&c_r;&c_je;&c_d;&c_a;&c_k;&c_t;&c_o;&c_r; &c_sh;&c_r;&c_i;&c_f;&c_t;&c_o;&c_v;</trd>
       </ekz>
@@ -159,11 +175,23 @@
     <trd>editor</trd>,
     <trd>programa d'edici&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>editor</trd>,
+    <trd>počítačový program pro úpravu dat</trd>
+  </trdgrp>
   <trd lng="en">editor</trd>
+  <trdgrp lng="es">
+    <trd>editor</trd>,
+    <trd>programa de edici&oacute;n</trd>
+  </trdgrp>
   <trd lng="fr">&eacute;diteur<klr> (de texte)</klr></trd>
   <trd lng="hu">szerkeszt&odblac;program</trd>
   <trd lng="nl">tekstverwerker</trd>
   <trd lng="ru">&c_r;&c_je;&c_d;&c_a;&c_k;&c_t;&c_o;&c_r;<klr tip="amb"> (&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_a;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>editor</trd>,
+    <trd>počítačový program na úpravu dát</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="redakt.0isto">
@@ -175,14 +203,26 @@
   </snc>
   <trd lng="be">&c_r;&c_e;&c_d;&c_a;&c_k;&c_t;&c_a;&c_r; <klr>(&c_p;&c_r;&c_a;&c_f;&c_e;&c_s;&c_ib;&c_ja;)</klr></trd>
   <trd lng="ca">redactor</trd>
+  <trd lng="cs">redaktor</trd>
   <trd lng="de">Redakteur</trd>
+  <trd lng="es">redactor</trd>
   <trd lng="fr">r&eacute;dacteur</trd>
   <trd lng="hu">szerkeszt&odblac;</trd>
   <trd lng="ru">&c_r;&c_je;&c_d;&c_a;&c_k;&c_t;&c_o;&c_r;<klr tip="amb"> (&c_p;&c_r;&c_o;&c_f;&c_je;&c_s;&c_s;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;)</klr></trd>
+  <trd lng="sk">redaktor</trd>
 </drv>
 </art>
 <!--
 $Log: redakt.xml,v $
+Revision 1.20  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/12/13 09:10:14  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.17  2014/05/30 08:10:33  revo
 Damien Brucker: +trd fr
 
@@ -202,8 +242,5 @@ Revision 1.12  2002/10/31 12:51:04  revo
 bib-igis fnt-ojn
 
 Revision 1.11  2002/10/24 19:29:46  revo
-reenmetis erare forigitajn aut, vrk, OndEsp al LOdE
-
-Revision 1.10  2002/10/23 20:40:15  revo
 -->
 </vortaro>

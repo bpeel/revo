@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: anim.xml,v 1.44 2014/01/05 02:10:21 revo Exp $">
+<art mrk="$Id: anim.xml,v 1.46 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>anim</rad>/o <fnt><bib>PV</bib></fnt>
@@ -111,7 +111,10 @@
   </trdgrp>
   <trd lng="bg">&c_d;&c_u;&c_sh;&c_a;</trd>
   <trd lng="ca">&agrave;nima</trd>
-  <trd lng="cs">du&scaron;e</trd>
+  <trdgrp lng="cs">
+    <trd>anima</trd>,
+    <trd>du&scaron;e</trd>
+  </trdgrp>
   <trd lng="de">Seele</trd>
   <trd lng="en">soul</trd>
   <trd lng="es">alma</trd>
@@ -193,6 +196,10 @@
     <trd lng="ro">inspira</trd>
     <trd lng="ru">&c_v;&c_o;&c_o;&c_d;&c_u;&c_sh;&c_je;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>animovat</trd>,
+    <trd>oživit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>beseelen</trd>,
     <trd>beleben</trd>
@@ -242,10 +249,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">animizmus</trd>
   <trd lng="fr">animisme</trd>
   <trd lng="it">animismo</trd>
   <trd lng="pl">animizm</trd>
   <trd lng="ro">animism</trd>
+  <trd lng="sk">animizmus</trd>
 </drv>
 
 <drv mrk="anim.egal0a">
@@ -265,6 +274,7 @@
       <ref cel="seren.0a.anime">serena <sncref/></ref>
     </refgrp>
   </snc>
+  <trd lng="cs">duševně vyrovnaný</trd>
   <trd lng="en">equanimous</trd>
   <trdgrp lng="fr">
     <trd>d'<ind>humeur</ind> &eacute;gale</trd>,
@@ -279,6 +289,7 @@
     <trd>&c_h;&c_l;&c_a;&c_d;&c_n;&c_o;&c_k;&c_r;&c_o;&c_v;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_r;&c_a;&c_v;&c_n;&c_o;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">duševne vyrovnaný</trd>
 </drv>
 
 <drv mrk="anim.egal0eco">
@@ -302,6 +313,10 @@
     <trd>&c_r;&c_a;&c_w;&c_n;&c_a;&c_d;&c_u;&c_sh;&c_sh;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">equ&agrave;nimement</trd>
+  <trdgrp lng="cs">
+    <trd>klid <klr>(duše)</klr></trd>,
+    <trd>vyrovnanost</trd>
+  </trdgrp>
   <trd lng="de">Ausgeglichenheit</trd>
   <trd lng="en">equanimity</trd>
   <trd lng="es">ecuanimidad</trd>
@@ -321,7 +336,10 @@
     <trd>&c_h;&c_l;&c_a;&c_d;&c_n;&c_o;&c_k;&c_r;&c_o;&c_v;&c_i;&c_je;</trd>,
     <trd>&c_r;&c_a;&c_v;&c_n;&c_o;&c_d;&c_u;&c_sh;&c_i;&c_je;</trd>
   </trdgrp>
-  <trd lng="sk">vyrovnanos&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>vyrovnanie mysle</trd>,
+    <trd>vyrovnanos&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="anim.facil0a">
@@ -336,6 +354,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_je;&c_g;&c_k;&c_a;&c_d;&c_u;&c_m;&c_n;&c_y;</trd>
+  <trd lng="cs">lehkomyslný</trd>
   <trd lng="de">leichtfertig</trd>
   <trdgrp lng="en">
     <trd>light-<ind>mind</ind>ed</trd>,
@@ -369,6 +388,7 @@
     <trd>frivole</trd>
   </trdgrp>
   <trd lng="ru">&c_l;&c_je;&c_g;&c_k;&c_o;&c_m;&c_y;&c_s;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">ľahkomyseľný</trd>
 </drv>
 
 <drv mrk="anim.facil0ajxo">
@@ -411,6 +431,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">lehkomyslnost</trd>
   <trdgrp lng="en">
     <trd>light-<ind>mind</ind>edness</trd>,
     <trd>frivolity</trd>,
@@ -422,7 +443,7 @@
     <trd>&qof;&lamed;&vav;&tav; &dalet;&ayin;&tav;</trd>,
     <trd>&pe;&zayin;&yod;&zayin;&vav;&tav;</trd>
   </trdgrp>
-   <trdgrp lng="it">
+  <trdgrp lng="it">
     <trd>faciloneria</trd>,
     <trd>spensieratezza</trd>,
     <trd>avventatatezza</trd>
@@ -441,6 +462,7 @@
     <trd>&c_v;&c_je;&c_t;&c_r;&c_je;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_je;&c_s;&c_je;&c_r;&c_mol;&c_jo;&c_z;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">ľahkomyseľnosť</trd>
 </drv>
 
 <drv mrk="anim.grand0a">
@@ -456,6 +478,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_je;&c_l;&c_ib;&c_k;&c_a;&c_d;&c_u;&c_sh;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>velkodušný</trd>,
+    <trd>velkomyslný</trd>,
+    <trd>velkorysý</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>gro&szlig;herzig</trd>,
     <trd>gro&szlig;z&uuml;gig</trd>
@@ -471,6 +498,7 @@
   <trd lng="pl">wielkoduszny</trd>
   <trd lng="ro">m&abreve;rinimos</trd>
   <trd lng="ru">&c_v;&c_je;&c_l;&c_i;&c_k;&c_o;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">veľkodušný</trd>
 </drv>
 
 <drv mrk="anim.grand0eco">
@@ -486,6 +514,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">velkomyslnost</trd>
   <trd lng="en">magnanimity</trd>
   <trdgrp lng="fr">
     <trd>largeur d'esprit</trd>,
@@ -501,6 +530,7 @@
   <trd lng="pl">wielkoduszno&sacute;&cacute;</trd>
   <trd lng="ro">generozitate</trd>
   <trd lng="ru">&c_v;&c_je;&c_l;&c_i;&c_k;&c_o;&c_d;&c_u;&c_sh;&c_i;&c_je;</trd>
+  <trd lng="sk">šľachetnosť</trd>
 </drv>
 
 <drv mrk="anim.et0a">
@@ -510,6 +540,10 @@
       Malnobla, malbonhumora, avara, speciale pri bagateloj.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bez duševní síly</trd>,
+    <trd>malomyslný</trd>
+  </trdgrp>
   <trd lng="de">kleingeistig</trd>
   <trdgrp lng="en">
     <trd>small-<ind>mind</ind>ed</trd>,
@@ -526,6 +560,7 @@
     <trd>minore</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_je;&c_l;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">malomyseľný</trd>
 </drv>
 
 <drv mrk="anim.et0eco">
@@ -535,6 +570,7 @@
       Emo agi avare kaj mal&gcirc;entile, speciale pri bagateloj.
     </dif>
   </snc>
+  <trd lng="cs">malost</trd>
   <trdgrp lng="en">
     <trd>small-<ind>mind</ind>edness</trd>,
     <trd>pettiness</trd>
@@ -550,6 +586,7 @@
     <trd>mangaiere</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_je;&c_l;&c_o;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">malosť</trd>
 </drv>
 
 <drv mrk="anim.kot0ulo">
@@ -680,7 +717,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">prostoduchý</trd>
   <trd lng="fr">ing&eacute;nu</trd>
+  <trd lng="sk">prostoduchý</trd>
 </drv>
 
 <drv mrk="anim.unu0e">
@@ -712,6 +751,12 @@
 </art>
 <!--
 $Log: anim.xml,v $
+Revision 1.46  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.45  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.44  2014/01/05 02:10:21  revo
 Jeromo Vasxe: + pur/rekt/simpl~a
 

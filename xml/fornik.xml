@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fornik.xml,v 1.9 2010/11/19 17:30:44 revo Exp $">
+<art mrk="$Id: fornik.xml,v 1.11 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <rad>forniks</rad>/o
 </kap>
@@ -26,6 +26,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>fornix</trd>,
+    <trd>klenba</trd>,
+    <trd>klenutí</trd>,
+    <trd>oblouk</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Fornix</trd>,
      <trd>Gew&ouml;lbebogen</trd>,
@@ -34,7 +40,7 @@
     <trd>fornix</trd>,
     <trd>trigone</trd></trdgrp>
   <trd lng="it">fornice</trd>
-  <trd lng="pl">sklepienie</trd> 
+  <trd lng="pl">sklepienie</trd>
   <trdgrp lng="pt">
     <trd>f&oacute;rnice</trd>,
     <trd>f&oacute;rnix</trd>
@@ -43,10 +49,21 @@
     <trd>&c_s;&c_v;&c_o;&c_d;</trd>,
     <trd>&c_a;&c_r;&c_k;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>fornix</trd>,
+    <trd>klenba</trd>,
+    <trd>oblúk</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: fornik.xml,v $
+Revision 1.11  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2010/11/19 17:30:44  revo
 Antonio Codazzi: +trd it
 

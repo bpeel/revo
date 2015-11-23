@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hipokondri.xml,v 1.5 2011/12/05 17:10:12 revo Exp $">
+<art mrk="$Id: hipokondri.xml,v 1.7 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>hipokondri</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -32,9 +32,14 @@
       </ekz>
   </snc>
   <trd lng="ca">hipocondria</trd>
+  <trdgrp lng="cs">
+    <trd>hypochondrium</trd>,
+    <trd>podžebří</trd>
+  </trdgrp>
   <trd lng="fr">hypocondrie</trd>
   <trd lng="it">ipocondria</trd>
   <trd lng="pt">hipocondria</trd>
+  <trd lng="sk">hypochondria</trd>
 </drv>
 
 <drv mrk="hipokondri.0ulo">
@@ -55,17 +60,25 @@
       </ekz>
   </snc>
   <trd lng="ca">hipocondr&iacute;ac</trd>
+  <trd lng="cs">hypochondr</trd>
   <trd lng="fr">hypocondriaque<klr> (subst.)</klr></trd>
   <trdgrp lng="it">
    <trd>ipocondriaco</trd>, 
    <trd><ind>malato</ind> immaginario</trd>
   </trdgrp>
   <trd lng="pt">hipocondr&iacute;aco</trd>
+  <trd lng="sk">hypochonder</trd>
 </drv>
 </art>
 
 <!--
 $Log: hipokondri.xml,v $
+Revision 1.7  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2011/12/05 17:10:12  revo
 Marc Rausell: kataluna traduko
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dies.xml,v 1.20 2010/05/28 16:30:37 revo Exp $">
+<art mrk="$Id: dies.xml,v 1.22 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>dies</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -79,6 +79,7 @@
     </dif>
     <trd lng="en">double <ind>sharp</ind></trd>
   </snc>
+  <trd lng="cs">dvoukřížkový</trd>
   <trd lng="de">Doppelkreuz</trd>
   <trd lng="es">doble <ind>sostenido</ind></trd>
   <trd lng="fr">double <ind>di&egrave;se</ind></trd>
@@ -86,11 +87,20 @@
   <trd lng="it">doppio <ind>diesis</ind></trd>
   <trd lng="nl">dubbele <ind>kruis</ind></trd>
   <trd lng="pl">podw&oacute;jny <ind>krzy&zdot;yk</ind></trd>
-  <trd lng="sk">dvojit&yacute; <ind>kr&iacute;&zcaron;ik</ind></trd>
+  <trdgrp lng="sk">
+    <trd>dvoj krížik</trd>,
+    <trd>dvojit&yacute; <ind>kr&iacute;&zcaron;ik</ind></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: dies.xml,v $
+Revision 1.22  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2010/05/28 16:30:37  revo
 Antonio Codazzi: +trd it
 

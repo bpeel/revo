@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koncer1.xml,v 1.25 2013/09/12 14:10:10 revo Exp $">
+<art mrk="$Id: koncer1.xml,v 1.27 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>koncert</rad>/o
@@ -82,6 +82,7 @@
     <trd>koncert</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_n;&c_c;&c_je;&c_r;&c_t;</trd>
+  <trd lng="sk">koncert</trd>
 </drv>
 
 <drv mrk="koncer1.0i">
@@ -96,6 +97,7 @@
   <trd lng="be">&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_k;&c_a;&c_n;&c_c;&c_e;&c_r;&c_t;</ind></trd>
   <trd lng="bg">&c_i;&c_z;&c_n;&c_je;&c_s;&c_je; <ind>&c_k;&c_o;&c_n;&c_c;&c_je;&c_r;&c_t;</ind></trd>
   <trd lng="ca">fer un concert</trd>
+  <trd lng="cs">koncertovat</trd>
   <trdgrp lng="de">
     <trd>konzertieren</trd>,
     <trd>ein <ind>Konzert geben</ind></trd>,
@@ -119,6 +121,7 @@
   </trdgrp>
   <trd lng="ru">&c_d;&c_a;&c_t;&c_mol;
 <ind>&c_k;&c_o;&c_n;&c_c;&c_je;&c_r;&c_t;</ind></trd>
+  <trd lng="sk">koncertovať</trd>
 </drv>
 
 <drv mrk="koncer1.0ejo">
@@ -136,6 +139,10 @@ ta&ubreve;ga salono a&ubreve;
   </snc>
   <trd lng="bg">&c_k;&c_o;&c_n;&c_c;&c_je;&c_r;&c_t;&c_n;&c_a; &c_z;&c_a;&c_l;&c_a;</trd>
   <trd lng="ca">sala de concerts</trd>
+  <trdgrp lng="cs">
+    <trd>koncertní místnost</trd>,
+    <trd>koncertní sál</trd>
+  </trdgrp>
   <trd lng="en">concert hall</trd>
   <trd lng="fr">salle de <ind>concert</ind></trd>
   <trd lng="hu">hangversenyterem</trd>
@@ -145,10 +152,17 @@ ta&ubreve;ga salono a&ubreve;
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_n;&c_c;&c_je;&c_r;&c_t;&c_n;&c_y;&c_j;
 &c_z;&c_a;&c_l;</trd>
+  <trd lng="sk">koncertná sála</trd>
 </drv>
 </art>
 <!--
 $Log: koncer1.xml,v $
+Revision 1.27  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.25  2013/09/12 14:10:10  revo
 Joop Eggen: +trd en nl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kiu.xml,v 1.18 2014/10/27 07:10:17 revo Exp $">
+  <art mrk="$Id: kiu.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>kiu</rad>
@@ -32,6 +32,8 @@
         </trdgrp>
         <trd lng="id">siapa</trd>
         <trd lng="nl">wie</trd>
+        <trd lng="pl">kto</trd>
+        <trd lng="ro">cine</trd>
         <trd lng="ru">&c_k;&c_t;&c_o;</trd>
         <trd lng="sv">vem</trd>
         <trdgrp lng="vo">
@@ -70,6 +72,11 @@
           <trd>wie</trd>,
           <trd>welk</trd>,
           <trd>welke</trd>
+        </trdgrp>
+        <trdgrp lng="pl">
+          <trd>kt&oacute;ry</trd>,
+          <trd>kt&oacute;ra</trd>,
+          <trd>kt&oacute;re</trd>
         </trdgrp>
         <trdgrp lng="ru">
           <trd>&c_k;&c_t;&c_o;</trd>,
@@ -236,17 +243,35 @@
         <trd lng="sv">som</trd>
         <trd lng="vo">kel</trd>
       </snc>
-      <trd lng="cs">kdo</trd>
-      <trdgrp lng="fr">
+  <trdgrp lng="cs">
+    <trd>jenž</trd>,
+    <trd>kdo</trd>,
+    <trd>kdož</trd>,
+    <trd>který</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
         <trd>qui</trd>,
         <trd>que</trd>,
         <trd>quel</trd>,
         <trd>lequel</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>kto</trd>,
+    <trd>ktorý</trd>
+  </trdgrp>
+</drv>
   </art>
   <!--
   $Log: kiu.xml,v $
+  Revision 1.21  2015/07/04 08:37:37  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.20  2015/06/29 16:33:17  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.19  2015/04/11 16:10:16  revo
+  Vito Redsky: trd pl trd ro
+
   Revision 1.18  2014/10/27 07:10:17  revo
   Eko Nur Syah Hidayat: +trd id
 

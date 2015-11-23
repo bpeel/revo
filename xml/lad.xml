@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lad.xml,v 1.19 2014/03/09 14:10:12 revo Exp $">
+<art mrk="$Id: lad.xml,v 1.20 2015/11/05 06:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lad</rad>/o
@@ -30,7 +30,10 @@
   <trd lng="de">Blech</trd>
   <trd lng="en">sheet metal</trd>
   <trd lng="es">l&aacute;mina</trd>
-  <trd lng="fr">t&ocirc;le</trd>
+  <trdgrp lng="fr">
+    <trd>t&ocirc;le</trd>,
+    <trd>fer-blanc</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>f&eacute;mlemez</trd>,
     <trd>pl&eacute;h</trd>
@@ -113,6 +116,9 @@ konservi nutra&jcirc;ojn.
 </art>
 <!--
 $Log: lad.xml,v $
+Revision 1.20  2015/11/05 06:10:15  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.19  2014/03/09 14:10:12  revo
 Tulio Flores: kor pt
 
@@ -132,8 +138,5 @@ Revision 1.14  2006/08/25 14:12:05  revo
 Tulio Flores: +tr pt
 
 Revision 1.13  2006/01/12 21:53:05  revo
-H. Neal Parker: +trd en; pliampl dif
-
-Revision 1.12  2004/10/09 16:31:34  revo
 -->
 </vortaro>

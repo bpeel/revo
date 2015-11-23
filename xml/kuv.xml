@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kuv.xml,v 1.17 2014/06/05 01:10:15 revo Exp $">
+<art mrk="$Id: kuv.xml,v 1.20 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kuv</rad>/o <fnt><bib>PV</bib></fnt>
@@ -24,6 +24,10 @@
   </trdgrp>
   <trd lng="bg">&c_v;&c_a;&c_n;&c_a;</trd>
   <trd lng="br">barazh</trd>
+  <trdgrp lng="cs">
+    <trd>mezera</trd>,
+    <trd>viditelný prostor</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Wanne</trd>,
     <trd>Bottich</trd>,
@@ -34,7 +38,7 @@
     <trd>tub</trd>,
     <trd>bath</trd>
   </trdgrp>
-  <trd lng="es">cubo</trd>
+  <trd lng="es">cuba</trd>
   <trdgrp lng="fr">
     <trd>baquet</trd>,
     <trd>cuve</trd>
@@ -52,6 +56,10 @@
     <trd>&c_k;&c_u;&c_p;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_v;&c_a;&c_n;&c_n;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>medzera</trd>,
+    <trd>viditeľný priestor</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kuv.0eto">
@@ -67,8 +75,20 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bandaska</trd>,
+    <trd>kbelík</trd>,
+    <trd>konvička</trd>,
+    <trd>kyveta</trd>
+  </trdgrp>
+  <trd lng="es">cubo</trd>
   <trd lng="fr">cuvette</trd>
   <trd lng="nl">kom</trd>
+  <trdgrp lng="sk">
+    <trd>bandaska</trd>,
+    <trd>kyveta</trd>,
+    <trd>kýblik</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kuv.ban0o">
@@ -87,11 +107,13 @@
   </snc>
   <trd lng="bg">&c_v;&c_a;&c_n;&c_a;</trd>
   <trd lng="br">kibell</trd>
+  <trd lng="cs">vana</trd>
   <trd lng="de">Badewanne</trd>
   <trd lng="fr">baignoire</trd>
   <trd lng="hu">f&uuml;rd&odblac;k&aacute;d</trd>
   <trd lng="nl">badkuip</trd>
   <trd lng="pt">banheira</trd>
+  <trd lng="sk">vaňa</trd>
 </drv>
 
 <drv mrk="kuv.bapto0o">
@@ -107,6 +129,7 @@
     <trd>maen-badez</trd>,
     <trd>maen-font</trd>
   </trdgrp>
+  <trd lng="cs">křtitelnice</trd>
   <trd lng="fr">fonts baptismaux</trd>
   <trd lng="hu">keresztel&odblac;medence</trd>
   <trdgrp lng="nl">
@@ -116,6 +139,7 @@
   </trdgrp>
   <trd lng="pt">pia batismal</trd>
   <trd lng="ru">&c_k;&c_u;&c_p;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">krstiteľnica</trd>
 </drv>
 
 <drv mrk="kuv.lav0o">
@@ -129,6 +153,12 @@
     <ref tip="vid" cel="lav.0ujo.KOMUNE">lavujo</ref>
   </snc>
   <trd lng="br">gwalc'heris</trd>
+  <trdgrp lng="cs">
+    <trd>dřez</trd>,
+    <trd>necky</trd>,
+    <trd>nádrž na praní</trd>,
+    <trd>vana na koupání</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&eacute;vier</trd>,
     <trd>lavabo</trd>
@@ -142,10 +172,23 @@
     <trd>tina</trd>,
     <trd>cuba</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>drez</trd>,
+    <trd>umývadlo</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kuv.xml,v $
+Revision 1.20  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/04/18 11:10:20  revo
+Carlos Garcia: krktd -o +trd es -eto
+
 Revision 1.17  2014/06/05 01:10:15  revo
 Jeromo Vasxe: + bapto/lav~o
 
@@ -165,8 +208,5 @@ Revision 1.12 2006/01/09 17:33:45 revo
 Raul Salinas Monteagudo: +trd es
 
 Revision 1.11 2005/07/26 16:32:17 revo
-Jozefo Horvath: +trd hu, forigo de superfl. ekz
-
-Revision 1.10 2005/04/30 16:31:47 revo
 -->
 </vortaro>

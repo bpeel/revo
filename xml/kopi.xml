@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kopi.xml,v 1.19 2014/08/12 09:10:10 revo Exp $">
+<art mrk="$Id: kopi.xml,v 1.21 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kopi</rad>/i
@@ -86,6 +86,12 @@
     <trd lng="es">imitar</trd>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_p;&c_ib;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>kopírovat</trd>,
+    <trd>napodobovat</trd>,
+    <trd>obkreslit</trd>,
+    <trd>reprodukovat</trd>
+  </trdgrp>
   <trd lng="en">copy</trd>
   <trdgrp lng="fr">
     <trd>copier</trd>
@@ -93,13 +99,19 @@
   <trdgrp lng="hu">
     <trd>m&aacute;sol</trd>,
     <trd>lem&aacute;sol</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="nl">kopi&euml;ren</trd>
   <trdgrp lng="pt">
     <trd>copiar</trd>,
     <trd>transcrever</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_p;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>kopírovať</trd>,
+    <trd>napodobniť</trd>,
+    <trd>reprodukovať</trd>,
+    <trd>urobiť odpis</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kopi.0o">
@@ -121,9 +133,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_o;&c_p;&c_ib;&c_ja;</trd>
   <trdgrp lng="ca">
     <trd>c&ograve;pia</trd>,
     <trd>reproducci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kopie</trd>,
+    <trd>opis <klr>(propisovaný)</klr></trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Kopie</trd>,
@@ -131,7 +148,6 @@
     <trd>Durchschlag</trd>,
     <trd>Pause</trd>
   </trdgrp>
-  <trd lng="be">&c_k;&c_o;&c_p;&c_ib;&c_ja;</trd>
   <trd lng="en">copy</trd>
   <trdgrp lng="es">
     <trd>copia</trd>,
@@ -140,9 +156,15 @@
   <trdgrp lng="fr">
     <trd>copie</trd>
   </trdgrp>
-  <trd lng="hu">m&aacute;solat</trd>  
+  <trd lng="hu">m&aacute;solat</trd>
   <trd lng="nl">kopie</trd>
   <trd lng="ru">&c_k;&c_o;&c_p;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>kópia</trd>,
+    <trd>odpis</trd>,
+    <trd>prieklep</trd>,
+    <trd>priepis</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kopi.0ilo">
@@ -166,6 +188,7 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_p;&c_ib;&c_ja;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_a;&c_p;&c_a;&c_r;&c_a;&c_t;</trd>
   <trd lng="ca">fotocopiadora</trd>
+  <trd lng="cs">kopírka</trd>
   <trdgrp lng="de">
     <trd>Kopierer</trd>,
     <trd>Kopierger&auml;t</trd>,
@@ -182,9 +205,10 @@
   <trdgrp lng="hu">
     <trd>m&aacute;sol&oacute;g&eacute;p</trd>,
     <trd>f&eacute;nym&aacute;sol&oacute;</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="nl">kopieerapparaat</trd>
   <trd lng="ru">&c_k;&c_o;&c_p;&c_i;&c_r;&c_o;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_a;&c_p;&c_p;&c_a;&c_r;&c_a;&c_t;</trd>
+  <trd lng="sk">kopírka</trd>
 </drv>
 
 <drv mrk="kopi.sav0o">
@@ -198,6 +222,10 @@
   </snc>
   <trd lng="be">&c_r;&c_e;&c_z;&c_e;&c_r;&c_v;&c_n;&c_a;&c_ja; &c_k;&c_o;&c_p;&c_ib;&c_ja;</trd>
   <trd lng="ca">c&ograve;pia de <ind>seguretat</ind></trd>
+  <trdgrp lng="cs">
+    <trd>bezpečnostní kopie <klr>(souboru)</klr></trd>,
+    <trd>záložní soubor</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Sicherungskopie</trd>,
     <trd>Backup [komputilado]</trd>
@@ -210,13 +238,20 @@
   <trdgrp lng="fr">
     <trd>copie de sauvegarde</trd>
   </trdgrp>
-  <trd lng="hu">biztons&aacute;gi m&aacute;solat</trd>  
+  <trd lng="hu">biztons&aacute;gi m&aacute;solat</trd>
   <trd lng="nl">veiligheidscopie</trd>
   <trd lng="ru">&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;&c_n;&c_a;&c_ja; &c_k;&c_o;&c_p;&c_i;&c_ja;</trd>
+  <trd lng="sk">záložný súbor</trd>
 </drv>
 </art>
 <!--
 $Log: kopi.xml,v $
+Revision 1.21  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/08/12 09:10:10  revo
 Guillermo Molleda Jimena: Hispana tradukado
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: parcel.xml,v 1.11 2010/06/30 16:30:31 revo Exp $">
+<art mrk="$Id: parcel.xml,v 1.14 2015/09/30 05:10:19 revo Exp $">
 <kap>
   <rad>parcel</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -24,6 +24,10 @@
     </dif>
     <ref tip="vid" cel="ter.0peco">terpeco</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>parcela</trd>,
+    <trd>pozemek</trd>
+  </trdgrp>
   <trd lng="en">parcel<klr> (of land)</klr></trd>
   <trdgrp lng="fr">
     <trd>parcelle<klr> (terrain)</klr></trd>,
@@ -37,6 +41,10 @@
     <trd>perceel</trd>,
     <trd>kavel</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>parcela</trd>,
+    <trd>dzia&lstroke;ka</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>parcela <klr>(de terreno)</klr></trd>,
     <trd>lote</trd>
@@ -46,6 +54,7 @@
     <trd>&c_n;&c_a;&c_d;&c_je;&c_l;</trd>,
     <trd>&c_p;&c_a;&c_r;&c_c;&c_je;&c_l;&c_l;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">pozemok</trd>
 </drv>
 
 <drv mrk="parcel.dis0igi">
@@ -65,10 +74,20 @@
     <trd>kim&eacute;r <klr tip="amb">(f&ouml;ldet)</klr></trd>
   </trdgrp>
   <trd lng="nl">verkavelen</trd>
+  <trd lng="pl">rozparcelowa&cacute;</trd>
 </drv>
 </art>
 <!--
 $Log: parcel.xml,v $
+Revision 1.14  2015/09/30 05:10:19  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2010/06/30 16:30:31  revo
 Jeromo Vasxe: - krampo
 
@@ -82,14 +101,5 @@ Revision 1.8  2006/02/25 17:31:43  revo
 Tulio Flores: +trd pt
 
 Revision 1.7  2004/07/16 16:32:22  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.6  2002/08/07 17:31:22  revo
-Jeromo Vasxe: + ekz, + trd fr
-
-Revision 1.5 2001/12/11 18:26:02 revo
-Yury Finkel: +trd ru
-
-Revision 1.4 2001/08/22 18:14:17 revo
 -->
 </vortaro>

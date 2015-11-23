@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: bajt.xml,v 1.13 2013/08/02 14:10:11 revo Exp $">
+  <art mrk="$Id: bajt.xml,v 1.16 2015/07/04 08:37:31 revo Exp $">
     <kap>
       <rad>bajt</rad>/o
     </kap>
@@ -42,11 +42,29 @@
           <trd>byte</trd>
         </trdgrp>
       </snc>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>bajt</trd>,
+    <trd>byte</trd>,
+    <trd>slabika</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>slabika</trd>,
+    <trd>slabika, byte, bajt</trd>
+  </trdgrp>
+</drv>
   </art>
 
   <!--
   $Log: bajt.xml,v $
+  Revision 1.16  2015/07/04 08:37:31  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.15  2015/06/29 16:39:29  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.14  2015/06/29 16:29:35  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.13  2013/08/02 14:10:11  revo
   Joop Eggen: +trd bg
 

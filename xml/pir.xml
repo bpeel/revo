@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pir.xml,v 1.30 2013/10/29 08:10:19 revo Exp $">
+<art mrk="$Id: pir.xml,v 1.33 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pir</rad>/o <fnt><bib>PV</bib></fnt>
@@ -31,14 +31,16 @@
   <trd lng="cs">hru&scaron;ka</trd>
   <trd lng="de">Birne</trd>
   <trd lng="en">pear</trd>
-  <trd lng="es">pera</trd> 
+  <trd lng="es">pera</trd>
   <trd lng="fr">poire</trd>
   <trd lng="hu">k&ouml;rte</trd>
+  <trd lng="id">pir</trd>
   <trd lng="nl">peer</trd>
   <trd lng="pl">gruszka</trd>
   <trd lng="pt">p&ecirc;ra</trd>
   <trd lng="ru">&c_g;&c_r;&c_u;&c_sh;&c_a; <klr
   tip="amb">(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+  <trd lng="sk">hruška</trd>
   <trd lng="tr">armut</trd>
 </drv>
 
@@ -66,8 +68,9 @@
     <trd>gwezenn-ber</trd>,
     <trd>perenn<klr tip="ind"> (gwezenn)</klr></trd>
   </trdgrp>
+  <trd lng="cs">hrušeň</trd>
   <trd lng="de">Birnbaum</trd>
-  <trd lng="es">peral</trd> 
+  <trd lng="es">peral</trd>
   <trd lng="fr">poirier</trd>
   <trd lng="hu">k&ouml;rtefa</trd>
   <trdgrp lng="nl">
@@ -77,6 +80,7 @@
   <trd lng="pl">grusza</trd>
   <trd lng="ru">&c_g;&c_r;&c_u;&c_sh;&c_a; <klr
   tip="amb">(&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;)</klr></trd>
+  <trd lng="sk">hruška <klr>(strom)</klr></trd>
 </drv>
 
 <drv mrk="pir.ter0o">
@@ -93,15 +97,14 @@
     <ref tip="sin" cel="helian.tubera0o">tubera helianto</ref>
   </snc>
   <trd
+  lng="be">&c_t;&c_a;&c_p;&c_ib;&c_n;&c_a;&c_m;&c_b;&c_u;&c_r;</trd><trd
   lng="be">&c_t;&c_a;&c_p;&c_ib;&c_n;&c_a;&c_m;&c_b;&c_u;&c_r;</trd>
+  <trd lng="br">perenn-douar</trd>
+  <trd lng="cs">slunečnice topinambur</trd>
   <trdgrp lng="de">
     <trd>Topinambur</trd>,
     <trd>Erdbirne</trd>
-  </trdgrp>
-  <trd
-  lng="be">&c_t;&c_a;&c_p;&c_ib;&c_n;&c_a;&c_m;&c_b;&c_u;&c_r;</trd>
-  <trd lng="br">perenn-douar</trd>
-  <trdgrp lng="de">
+  </trdgrp><trdgrp lng="de">
     <trd>Topinambur</trd>,
     <trd>Erdbirne</trd>
   </trdgrp>
@@ -114,6 +117,7 @@
     <trd>topinambur</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_o;&c_p;&c_i;&c_n;&c_a;&c_m;&c_b;&c_u;&c_r;</trd>
+  <trd lng="sk">topinambur</trd>
 </drv>
 
 <drv mrk="pir.0vino">
@@ -125,14 +129,25 @@
     </dif>
   </snc>
   <trd lng="br">sistr-per</trd>
+  <trd lng="cs">hruškové víno</trd>
   <trd lng="de">Birnenwein</trd>
   <trd lng="fr">poir&eacute;</trd>
   <trd lng="hu">k&ouml;rtebor</trd>
   <trd lng="nl">perenwijn</trd>
+  <trd lng="sk">hruškové víno</trd>
 </drv>
 </art>
 <!--
 $Log: pir.xml,v $
+Revision 1.33  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.31  2014/11/09 14:10:19  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.30  2013/10/29 08:10:19  revo
 Wolfram Diestel: kor. lst-ref
 
@@ -152,8 +167,5 @@ Revision 1.25  2009/06/22 16:30:52  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.24  2008/12/21 17:30:33  revo
-Jeromo Vasxe: + mrk + fak, + dif cxe ter~o
-
-Revision 1.23 2007/11/22 17:30:32 revo
 -->
 </vortaro>

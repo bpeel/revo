@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: api.xml,v 1.19 2013/08/26 08:10:35 revo Exp $">
+<art mrk="$Id: api.xml,v 1.20 2015/10/15 05:10:15 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>api</rad>/o
@@ -29,12 +29,16 @@
   <trd lng="es">apio</trd>
   <trd lng="fr">ache</trd>
   <trd lng="hu">zeller</trd>
+  <trd lng="pl">selery</trd>
   <trd lng="ru">&c_s;&c_je;&c_l;&c_mol;&c_d;&c_je;&c_r;&c_je;&c_j;</trd>
   <trd lng="sv">floka</trd>
 </drv>
 </art>
 <!--
 $Log: api.xml,v $
+Revision 1.20  2015/10/15 05:10:15  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.19  2013/08/26 08:10:35  revo
 Wolfram Diestel: referenco al listoj bot genroj
 
@@ -54,8 +58,5 @@ Revision 1.14  2002/03/19 17:34:19  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.13  2002/02/23 19:55:47  revo
-Yury Finkel: formatigis
-
-Revision 1.12 2001/07/24 13:35:32 revo
 -->
 </vortaro>

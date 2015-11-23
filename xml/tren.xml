@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tren.xml,v 1.17 2011/12/08 18:10:09 revo Exp $">
+<art mrk="$Id: tren.xml,v 1.19 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tren</rad>/i
@@ -70,12 +70,26 @@
     <trd>&c_c;&c_ja;&c_g;&c_n;&c_u;&c_c;&c_mol;</trd>,
     <trd>&c_v;&c_a;&c_l;&c_a;&c_ch;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>táhnout <klr>(za sebou)</klr></trd>,
+    <trd>vláčet</trd>,
+    <trd>vléci</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>schleppen</trd>,
     <trd>schleifen</trd>,
     <trd>ziehen</trd>
   </trdgrp>
   <trd lng="en">drag</trd>
+  <trdgrp lng="es">
+    <trd>jalar</trd>,
+    <trd>halar</trd>,
+    <trd>arrastrar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>remorquer</trd>,
+    <trd>trainer</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>von</trd>,
     <trd>vonszol</trd>,
@@ -86,19 +100,14 @@
     <trd>slepen</trd>,
     <trd>voorttrekken</trd>
   </trdgrp>
-  <trdgrp lng="fr">
-    <trd>remorquer</trd>,
-    <trd>trainer</trd>
-  </trdgrp>
   <trd lng="pt">arrastar</trd>
   <trdgrp lng="ru">
     <trd>&c_t;&c_a;&c_shch;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_o;&c_l;&c_o;&c_ch;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trdgrp lng="es">
-    <trd>jalar</trd>,
-    <trd>halar</trd>,
-    <trd>arrastrar</trd>
+  <trdgrp lng="sk">
+    <trd>vliecť</trd>,
+    <trd>ťahať</trd>
   </trdgrp>
 </drv>
 
@@ -185,10 +194,20 @@ planko:
   </trdgrp>
   <trd lng="ru">&c_t;&c_a;&c_shch;&c_i;&c_t;&c_mol; &c_s;
 &c_s;&c_o;&c_b;&c_o;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>prinášať so sebou</trd>,
+    <trd>vláčiť zo sebou</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: tren.xml,v $
+Revision 1.19  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2011/12/08 18:10:09  revo
 Eduardo Navas: +trad es
 

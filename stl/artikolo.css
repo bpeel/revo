@@ -30,7 +30,7 @@ DD {text-align: justify}
 A:link {color: blue}
 A:visited {color: blue}
 A:hover {color: red; background-color: #d5d5a5}
-SUP {font-size: smaller}
+SUP {font-size: 75%}
 
 /* ekzemploj */
 .ekz {color: #303030}
@@ -100,10 +100,21 @@ div.trd_lng_2 { display: inline; line-height: 135%;  }
 A.fnt:link {text-decoration: underline; color: #303030}
 A.fnt:visited {text-decoration: underline; color: #303030}
 A.fnt:active {text-decoration: underline; color: green}
+
+.fntref {font-size: small; font-style: normal; vertical-align: text-top; font-stretch: extra-condensed}
+A.fntref:link {text-decoration: underline; color: #303030}
+A.fntref:visited {text-decoration: underline; color: #303030}
+A.fntref:active {text-decoration: underline; color: green}
+
 sup.ofc { margin-right: 0.7ex; }
 
 /* fontindikaj piednotoj */
 .fontoj {color: 303030; font-size: small}
+/* notoj pri mankoj */
+.mankoj {font-family: courier}
+.mankoj A:link {text-decoration: underline; color: #303030}
+.mankoj A:visited {text-decoration: underline; color: #303030}
+.mankoj A:active {text-decoration: underline; color: green}
 
 /* tildoj en ekzemploj */
 .ekztld {}

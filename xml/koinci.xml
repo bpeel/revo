@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koinci.xml,v 1.20 2011/12/16 17:10:14 revo Exp $">
+<art mrk="$Id: koinci.xml,v 1.22 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>koincid</rad>/i
@@ -108,13 +108,25 @@
     <trd lng="ru">&c_s;&c_o;&c_v;&c_p;&c_a;&c_d;&c_a;&c_t;&c_mol;</trd>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_p;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>být současný</trd>,
+    <trd>koincidovat</trd>,
+    <trd>krýt se</trd>,
+    <trd>shodovat se</trd>,
+    <trd>splývat</trd>
+  </trdgrp>
+  <trd lng="es">coincidir</trd>
   <trd lng="fr">co&iuml;ncider</trd>
   <trd lng="nl">samenvallen</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_o;&c_v;&c_p;&c_a;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_o;&c_v;&c_p;&c_a;&c_d;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="es">coincidir</trd>
+  <trdgrp lng="sk">
+    <trd>koincidovať</trd>,
+    <trd>kryť sa</trd>,
+    <trd>zhodovať sa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="koinci.0o">
@@ -129,19 +141,36 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>koincidence</trd>,
+    <trd>současnost</trd>,
+    <trd>splynutí</trd>,
+    <trd>časová shoda</trd>
+  </trdgrp>
+  <trd lng="de">Zufall <klr>zeitlich gleichzeitig</klr></trd>
+  <trd lng="es">coincidencia</trd>
   <trd lng="fr">co&iuml;ncidence</trd>
   <trd lng="hu">egybees&eacute;s</trd>
-  <trd lng="de">Zufall <klr>zeitlich gleichzeitig</klr></trd>
   <trdgrp lng="nl">
     <trd>toeval</trd>,
     <trd><ind>samenloop</ind> van omstandigheden</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_o;&c_v;&c_p;&c_a;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
-  <trd lng="es">coincidencia</trd>
+  <trdgrp lng="sk">
+    <trd>splynutie</trd>,
+    <trd>súčasnosť</trd>,
+    <trd>časová zhoda</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: koinci.xml,v $
+Revision 1.22  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2011/12/16 17:10:14  revo
 Eduardo Navas: +trad es
 

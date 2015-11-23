@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sprit.xml,v 1.13 2011/11/26 00:10:09 revo Exp $">
+<art mrk="$Id: sprit.xml,v 1.15 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sprit</rad>/a
@@ -48,6 +48,12 @@
       <ref cel="lert">lerteco</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bystrý</trd>,
+    <trd>duchaplný</trd>,
+    <trd>důvtipný</trd>,
+    <trd>vtipný</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>witzig</trd>,
     <trd>geistreich</trd>
@@ -76,6 +82,11 @@
   </trdgrp>
   <trd lng="nl">geestig</trd>
   <trd lng="ru">&c_o;&c_s;&c_t;&c_r;&c_o;&c_u;&c_m;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>duchaplný</trd>,
+    <trd>podarený</trd>,
+    <trd>vtipný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sprit.0i">
@@ -93,6 +104,11 @@
       <ref cel="turn.el0igxi">elturni&gcirc;i</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>být vtipný</trd>,
+    <trd>dělat vtipy</trd>,
+    <trd>vtipkovat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>witzig sein</trd>,
     <trd>geistreich sein</trd>
@@ -116,6 +132,10 @@
     <trd>&c_o;&c_s;&c_t;&c_r;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_s;&c_t;&c_r;&c_o;&c_s;&c_l;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>byť duchaplný</trd>,
+    <trd>vtipkovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sprit.0o">
@@ -135,6 +155,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>duchaplnost</trd>,
+    <trd>důvtipnost</trd>,
+    <trd>ostrovtip</trd>,
+    <trd>vtipnost</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>wit</trd>,
     <trd>brightness</trd>,
@@ -147,6 +173,10 @@
   </trdgrp>
   <trd lng="hu">szellemess&eacute;g</trd>
   <trd lng="ru">&c_o;&c_s;&c_t;&c_r;&c_o;&c_u;&c_m;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>duchaplnosť</trd>,
+    <trd>dôvtipnosť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sprit.0ajxo">
@@ -194,18 +224,24 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>duchaplný čl.</trd>,
+    <trd>vtipálek</trd>,
+    <trd>šprýmař</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>wit</trd>,
     <trd>wag</trd>,
     <trd>joker</trd>
   </trdgrp>
   <trd lng="fr">homme d'esprit</trd>
+  <trd lng="hu">szellemes ember</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_s;&c_t;&c_r;&c_ja;&c_k;</trd>,
     <trd>&c_o;&c_s;&c_t;&c_r;&c_o;&c_s;&c_l;&c_o;&c_v;</trd>,
     <trd>&c_o;&c_s;&c_t;&c_r;&c_o;&c_u;&c_m;&c_je;&c_c;</trd>
   </trdgrp>
-  <trd lng="hu">szellemes ember</trd>
+  <trd lng="sk">vtipkár</trd>
 </drv>
 
 <drv mrk="sprit.mal0a">
@@ -222,6 +258,12 @@
       <ref cel="stult.0a">stulta</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hloupý</trd>,
+    <trd>pitomý</trd>,
+    <trd>pošetilý</trd>,
+    <trd>tupý</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>stumpfsinnig</trd>,
     <trd>d&uuml;mmlich</trd>
@@ -251,6 +293,10 @@
     <trd>&c_b;&c_je;&c_s;&c_t;&c_o;&c_l;&c_k;&c_o;&c_v;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_o;&c_s;&c_t;&c_r;&c_o;&c_u;&c_m;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hlúpy</trd>,
+    <trd>obmedzený</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sprit.mal0ulo">
@@ -265,6 +311,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hlupák</trd>,
+    <trd>pitomec</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>stupid person</trd>,
     <trd>dullard</trd>,
@@ -282,6 +332,12 @@
     <trd>&c_b;&c_je;&c_s;&c_t;&c_o;&c_l;&c_o;&c_ch;&c_mol;</trd>,
     <trd>&c_u;&c_v;&c_a;&c_l;&c_je;&c_n;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chmuľo</trd>,
+    <trd>chumaj</trd>,
+    <trd>hlupák</trd>,
+    <trd>truľo</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sprit.sen0a">
@@ -295,6 +351,7 @@
       <fnt><bib>MT</bib>, <lok>&Sen; 9:13-14</lok></fnt>.
     </ekz>
   </snc>
+  <trd lng="cs">bez vtipu <klr>(adj.)</klr></trd>
   <trdgrp lng="de">
     <trd>stumpfsinnig</trd>,
     <trd>d&uuml;mmlich</trd>
@@ -323,6 +380,7 @@
     <trd>&c_b;&c_je;&c_s;&c_t;&c_o;&c_l;&c_k;&c_o;&c_v;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_o;&c_s;&c_t;&c_r;&c_o;&c_u;&c_m;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">bez vtipu</trd>
 </drv>
 
 <drv mrk="sprit.sen0ulo">
@@ -352,6 +410,12 @@
 </art>
 <!--
 $Log: sprit.xml,v $
+Revision 1.15  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2011/11/26 00:10:09  revo
 Eduardo Navas: +trad es
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mitral.xml,v 1.8 2012/08/20 00:10:47 revo Exp $">
+<art mrk="$Id: mitral.xml,v 1.10 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>mitral</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -29,12 +29,14 @@
     </dif>
   </snc>
   <trd lng="ca">metralladora</trd>
+  <trd lng="cs">kulomet</trd>
   <trd lng="de">Maschinengewehr</trd>
   <trd lng="en">machine gun</trd>
   <trd lng="fr">mitrailleuse</trd>
   <trd lng="it">mitragliatrice</trd>
   <trd lng="pt">metralhadora</trd>
   <trd lng="ru">&c_p;&c_u;&c_l;&c_je;&c_m;&c_jo;&c_t;</trd>
+  <trd lng="sk">guľomet</trd>
 </drv>
 
 <drv mrk="mitral.0i">
@@ -67,6 +69,7 @@
     </dif>
   </snc>
   <trd lng="ca">metralleta</trd>
+  <trd lng="cs">samopal</trd>
   <trd lng="de">Maschinenpistole</trd>
   <trdgrp lng="en">
     <trd>submachine gun</trd>,
@@ -78,11 +81,18 @@
     <trd>&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t; <klr tip="amb">(&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;)</klr></trd>,
     <trd>&c_p;&c_i;&c_s;&c_t;&c_o;&c_l;&c_je;&c_t;-&c_p;&c_u;&c_l;&c_je;&c_m;&c_jo;&c_t;</trd>
   </trdgrp>
+  <trd lng="sk">samopal</trd>
 </drv>
 </art>
 
 <!--
 $Log: mitral.xml,v $
+Revision 1.10  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2012/08/20 00:10:47  revo
 Marc Rausell: + trd ca
 

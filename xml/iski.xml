@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: iski.xml,v 1.10 2010/11/24 17:30:26 revo Exp $">
+<art mrk="$Id: iski.xml,v 1.11 2015/09/16 14:10:22 revo Exp $">
 <kap>
   <rad>iski</rad>/o
 </kap>
@@ -24,6 +24,7 @@
       <aut>MB</aut>
     </adm>
   </snc>
+  <trd lng="en">ischium</trd>
   <trd lng="de">Sitzbein</trd>
   <trd lng="fr">ilion</trd>
   <trd lng="hu">&uuml;l&odblac;csont</trd>
@@ -38,6 +39,9 @@
 </art>
 <!--
 $Log: iski.xml,v $
+Revision 1.11  2015/09/16 14:10:22  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.10  2010/11/24 17:30:26  revo
 Antonio Codazzi: +trd it
 
@@ -57,7 +61,5 @@ Revision 1..5  2001/06/18 18:24:54  revo
 Yury Finkel: +trd ru
 
 Revision 1.4  2001/02/14 11:47:46  revo
-Dennis Wibrow: +trd germ
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kupon.xml,v 1.16 2013/04/16 06:10:09 revo Exp $">
+<art mrk="$Id: kupon.xml,v 1.18 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kupon</rad>/o <fnt><bib>PV</bib></fnt>
@@ -95,7 +95,12 @@
         <trd lng="nl">coupon</trd>
         </subsnc>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kupón</trd>,
+    <trd>ústřižek</trd>
+  </trdgrp>
   <trd lng="fr">coupon</trd>
+  <trd lng="sk">ústrižok</trd>
 </drv>
 
 <drv mrk="kupon.internaciarespond0o">
@@ -108,6 +113,10 @@
       kiu tial povas servi kiel internacia pagrimedo.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>mezinárodní odpovědka</trd>,
+    <trd>mezinárodní odpovědní kupon <klr>(poštovní)</klr></trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>international reply coupon</trd>,
     <trd>IRC</trd>
@@ -130,10 +139,17 @@
     <trd>mi&eogonek;dzynarodowy <ind>kupon</ind> na odpowied&zacute;</trd>,
     <trd>kupon pocztowy</trd>
   </trdgrp>
+  <trd lng="sk">medzinárodný poštový kupón</trd>
 </drv>
 </art>
 <!--
 $Log: kupon.xml,v $
+Revision 1.18  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/04/16 06:10:09  revo
 Sebastian Cyprych: +trd pl
 

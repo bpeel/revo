@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kiv.xml,v 1.12 2013/09/11 07:10:12 revo Exp $">
+<art mrk="$Id: kiv.xml,v 1.14 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>kiv</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -24,9 +24,10 @@
       <aut>Wennergren, Bertilo</aut>
     </rim>
   </snc>
-  <trd lng="bg">&c_k;&c_i;&c_v;&c_i;</trd>
   <trd lng="be">&c_k;&c_ib;&c_v;&c_ib; <klr>(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+  <trd lng="bg">&c_k;&c_i;&c_v;&c_i;</trd>
   <trd lng="ca">kiwi<klr> (alim.)</klr></trd>
+  <trd lng="cs">kiwi <klr>(plod)</klr></trd>
   <trd lng="de">Kiwi</trd>
   <trd lng="en">kiwi</trd>
   <trd lng="es">kiwi<klr> (fruto)</klr></trd>
@@ -42,6 +43,7 @@
     <trd>quiu&iacute;</trd>,
     <trd>kiwi</trd>
   </trdgrp>
+  <trd lng="sk">kivi <klr>(plod)</klr></trd>
   <trd lng="tr">kivi</trd>
 </drv>
 <!--
@@ -51,6 +53,12 @@
 </art>
 <!--
 $Log: kiv.xml,v $
+Revision 1.14  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2013/09/11 07:10:12  revo
 Joop Eggen: +trd bg
 

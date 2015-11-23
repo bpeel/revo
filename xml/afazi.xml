@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: afazi.xml,v 1.17 2011/12/12 10:10:10 revo Exp $">
+<art mrk="$Id: afazi.xml,v 1.18 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <rad>afazi</rad>/o
 </kap>
@@ -17,6 +17,7 @@
   <trd lng="be">&c_a;&c_f;&c_a;&c_z;&c_ib;&c_ja;</trd>
   <trd lng="bg">&c_a;&c_f;&c_a;&c_z;&c_i;&c_ja;</trd>
   <trd lng="ca">af&agrave;sia</trd>
+  <trd lng="cs">afázie</trd>
   <trd lng="de">Aphasie</trd>
   <trd lng="en">aphasia</trd>
   <trd lng="es">afasia</trd>
@@ -32,6 +33,9 @@
 </art>
 <!--
 $Log: afazi.xml,v $
+Revision 1.18  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.17  2011/12/12 10:10:10  revo
 Marc Rausell: +trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: infim.xml,v 1.21 2007/04/20 16:31:12 revo Exp $">
+<art mrk="$Id: infim.xml,v 1.23 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <rad>infim</rad>/o
 </kap>
@@ -34,6 +34,7 @@
       kiel en <fnt><bib>EKV</bib><lok>&para;252</lok></fnt>.
     </rim>
   </snc>
+  <trd lng="cs">infimum</trd>
   <trdgrp lng="de">
     <trd>Infimum</trd>,
     <trd>untere <ind>Grenze</ind></trd>
@@ -48,6 +49,7 @@
   </trdgrp>
   <trd lng="ru">&c_t;&c_o;&c_ch;&c_n;&c_a;&c_ja; &c_n;&c_i;&c_zh;&c_n;&c_ja;&c_ja; 
   <ind>&c_g;&c_r;&c_a;&c_n;&c_mol;</ind></trd>
+  <trd lng="sk">infimum</trd>
 </drv>
 
 <drv mrk="infim.limes0o">
@@ -108,6 +110,12 @@
 </art>
 <!--
 $Log: infim.xml,v $
+Revision 1.23  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2007/04/20 16:31:12  revo
 Tulio Flores: +tr pt
 

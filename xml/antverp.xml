@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: antverp.xml,v 1.11 2011/02/17 12:10:37 revo Exp $">
+<art mrk="$Id: antverp.xml,v 1.13 2015/06/28 12:03:35 revo Exp $">
 
 <kap>
 <rad>Antverpen</rad>/o
@@ -18,7 +18,7 @@
       norda 
       Belgujo, &ccirc;e la bordo de la rivero <ref tip="vid"
 cel="skeld.S0o">Skeldo</ref> 
-      (4&ring;24'E, 51&ring;13'N): <ekz>studentoj, kiuj havas pluajn
+      (4&#730;24'E, 51&#730;13'N): <ekz>studentoj, kiuj havas pluajn
 ambiciojn, povas 
       da&ubreve;rigi sian studadon en la Re&gcirc;a Flandra
 Muzikkonservatorio en <tld/>o 
@@ -39,7 +39,9 @@ Belgio</url></vrk>,
 cel="antverp.A0o.urb">Antverpeno</ref>.
     </dif>
   </snc>
+  <trd lng="lat">Antverpia</trd>
   <trd lng="be">&c_A;&c_n;&c_t;&c_v;&c_e;&c_r;&c_p;&c_e;&c_n;</trd>
+  <trd lng="bg">&c_A;&c_n;&c_t;&c_v;&c_je;&c_r;&c_p;&c_je;&c_n;</trd>
   <trd lng="ca">Anvers</trd>
   <trd lng="cs">Antverpy</trd>
   <trd lng="de">Antwerpen</trd>
@@ -48,13 +50,13 @@ cel="antverp.A0o.urb">Antverpeno</ref>.
   <trd lng="fr">Anvers</trd>
   <trd lng="hu">Antwerpen</trd>
   <trd lng="it">Anversa</trd>
-  <trd lng="lat">Antverpia</trd>
   <trd lng="lv">Antverpene</trd>
   <trd lng="nl">Antwerpen</trd>
   <trd lng="pl">Antwerpia</trd>
   <trd lng="pt">Antu&eacute;rpia</trd>
   <trd lng="ru">&c_A;&c_n;&c_t;&c_v;&c_je;&c_r;&c_p;&c_je;&c_n;</trd>
-   </drv>
+  <trd lng="sk">Antverpy</trd>
+</drv>
 
 
 </art>
@@ -62,6 +64,12 @@ cel="antverp.A0o.urb">Antverpeno</ref>.
 
 <!--
 $Log: antverp.xml,v $
+Revision 1.13  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2015/06/17 14:10:17  revo
+Joop Eggen: +trd bg
+
 Revision 1.11  2011/02/17 12:10:37  revo
 Luiz Portella: kor. ref k mrk
 
@@ -81,8 +89,5 @@ Revision 1.6  2001/08/20 20:33:23  revo
 Paul Peeraerts: kor tajperar - vastigis dif
 
 Revision 1.5  2001/08/03 18:12:55  revo
-Paul Peeraerts: kor de tajperaro + ald trd cs kaj lv
-
-Revision 1.4  2001/07/30 18:12:43  revo
 -->
 </vortaro>

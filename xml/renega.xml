@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: renega.xml,v 1.12 2011/12/12 20:10:08 revo Exp $">
+<art mrk="$Id: renega.xml,v 1.14 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <rad>renegat</rad>/o
   <fnt>Z</fnt>
@@ -26,6 +26,12 @@
     <trd>&c_a;&c_d;&c_s;&c_t;&c_u;&c_p;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
   <trd lng="ca">renegat</trd>
+  <trdgrp lng="cs">
+    <trd>odpadlík</trd>,
+    <trd>odrodilec</trd>,
+    <trd>odštěpenec</trd>,
+    <trd>renegát</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Renegat</trd>,
     <trd>Abtr&uuml;nniger</trd>,
@@ -49,10 +55,20 @@
     <trd>&c_r;&c_je;&c_n;&c_je;&c_g;&c_a;&c_t;</trd>,
     <trd>&c_o;&c_t;&c_s;&c_t;&c_u;&c_p;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odrodilec</trd>,
+    <trd>renegát</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: renega.xml,v $
+Revision 1.14  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2011/12/12 20:10:08  revo
 Marc Rausell: +trd ca
 

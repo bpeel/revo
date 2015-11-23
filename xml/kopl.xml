@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kopl.xml,v 1.6 2006/11/15 17:30:53 revo Exp $">
+<art mrk="$Id: kopl.xml,v 1.8 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>kopl</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -19,16 +19,30 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_o;&c_p;&c_l;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>spojení</trd>,
+    <trd>spřažení</trd>
+  </trdgrp>
   <trd lng="es">copla</trd>
   <trd lng="fr">copla<klr> (po&egrave;me)</klr></trd>
   <trd lng="hu">copla</trd>
   <trd lng="pt">copla</trd>
   <trd lng="ru">&c_k;&c_o;&c_p;&c_l;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>spojenie</trd>,
+    <trd>spriahnutie</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: kopl.xml,v $
+Revision 1.8  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2006/11/15 17:30:53  revo
 Tulio Flores: +tr pt
 

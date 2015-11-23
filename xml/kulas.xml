@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kulas.xml,v 1.11 2011/12/08 13:10:22 revo Exp $">
+<art mrk="$Id: kulas.xml,v 1.13 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>kulas</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -75,11 +75,22 @@
     <klr>(&c_m;&c_o;&c_t;&c_o;&c_r;&c_a;)</klr>
     </trd>
   </snc>
+  <trd lng="cs">nábojová komora</trd>
   <trd lng="fr">culasse<klr> (arme, automobile)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>1.záver strelnej zbrane</trd>,
+    <trd>2.hlava valca</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kulas.xml,v $
+Revision 1.13  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2011/12/08 13:10:22  revo
 Marc Rausell: kataluna traduko
 

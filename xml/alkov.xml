@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: alkov.xml,v 1.16 2014/03/15 02:10:17 revo Exp $">
+<art mrk="$Id: alkov.xml,v 1.18 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>alkov</rad>/o <fnt><bib>PV</bib></fnt> 
@@ -25,6 +25,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_l;&c_mol;&c_k;&c_o;&c_w;</trd>
+  <trdgrp lng="cs">
+    <trd>alkovna</trd>,
+    <trd>přístěnek</trd>,
+    <trd>výklenek</trd>
+  </trdgrp>
   <trd lng="de">Alkoven</trd>
   <trd lng="en">alcove</trd>
   <trd lng="es">alcoba</trd>
@@ -33,11 +38,20 @@
   <trd lng="pl">alkowa</trd>
   <trd lng="pt">alcova</trd>
   <trd lng="ru">&c_a;&c_l;&c_mol;&c_k;&c_o;&c_v;</trd>
-  <trd lng="sk">alkov&ncaron;a</trd>
+  <trdgrp lng="sk">
+    <trd>alkov&ncaron;a</trd>,
+    <trd>lôžkový výklenok v izbe</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: alkov.xml,v $
+Revision 1.18  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2014/03/15 02:10:17  revo
 Jeromo Vasxe: + ekz
 

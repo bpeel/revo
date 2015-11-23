@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: megalomani.xml,v 1.13 2012/08/19 11:10:50 revo Exp $">
+<art mrk="$Id: megalomani.xml,v 1.15 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>megalomani</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -25,12 +25,17 @@
   <trd
   lng="be">&c_m;&c_e;&c_g;&c_a;&c_l;&c_a;&c_m;&c_a;&c_n;&c_ib;&c_ja;</trd>
   <trd lng="ca">megalomania</trd>
+  <trdgrp lng="cs">
+    <trd>megalomanie</trd>,
+    <trd>slavomam</trd>,
+    <trd>velikášství</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Gigantomanie</trd>,
     <trd>Gr&ouml;&szlig;enwahn</trd>
   </trdgrp>
-  <trd lng="es">megaloman&iacute;a</trd>
   <trd lng="en">megalomania</trd>
+  <trd lng="es">megaloman&iacute;a</trd>
   <trdgrp lng="fr">
     <trd>folie des grandeurs</trd>,
     <trd>m&eacute;galomanie</trd>
@@ -52,11 +57,20 @@
     <trd>macromania</trd>,
     <trd>mania de <ind>grandeza</ind></trd>    
   </trdgrp>
-  <trd lng="sk">megalom&aacute;nia</trd>
+  <trdgrp lng="sk">
+    <trd>megalom&aacute;nia</trd>,
+    <trd>preceňovanie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: megalomani.xml,v $
+Revision 1.15  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2012/08/19 11:10:50  revo
 Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: famili.xml,v 1.38 2014/07/01 12:10:13 revo Exp $">
+<art mrk="$Id: famili.xml,v 1.40 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>famili</rad>/o <fnt><bib>PV</bib></fnt>
@@ -142,7 +142,12 @@
     <trd>&c_s;&c_ja;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_a;</trd>
   </trdgrp>
   <trd lng="bg">&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
-  <trd lng="cs">rodina</trd>
+  <trdgrp lng="cs">
+    <trd>rodina</trd>,
+    <trd>soubor (členů)</trd>,
+    <trd>soustava <klr>(členů)</klr></trd>,
+    <trd>systém</trd>
+  </trdgrp>
   <trd lng="de">Familie</trd>
   <trd lng="en">family</trd>
   <trd lng="es">familia</trd>
@@ -157,6 +162,10 @@
   <trdgrp lng="ru">
     <trd>&c_s;&c_je;&c_m;&c_mol;&c_ja;</trd>,
     <trd>&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>súbor (členov)</trd>,
+    <trd>sústava <klr>(členov)</klr></trd>
   </trdgrp>
   <trd lng="tr">aile</trd>
 </drv>
@@ -180,6 +189,7 @@
   </snc>
   <trd lng="be">&c_s;&c_ja;&c_m;&c_je;&c_j;&c_n;&c_y;</trd>
   <trd lng="bg">&c_f;&c_a;&c_m;&c_i;&c_l;&c_je;&c_n;</trd>
+  <trd lng="cs">rodinný</trd>
   <trdgrp lng="de">
     <trd>Familien-</trd>
     <trd>famili&auml;r</trd>
@@ -194,6 +204,7 @@
   <trd lng="no">familie-</trd>
   <trd lng="pl">rodzinny</trd>
   <trd lng="ru">&c_s;&c_je;&c_m;&c_je;&c_j;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">rodinný</trd>
 </drv>
 
 <drv mrk="famili.0ano">
@@ -214,7 +225,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>rodinný příslušník</trd>,
+    <trd>člen rodiny</trd>
+  </trdgrp>
   <trd lng="fr">membre de la famille</trd>
+  <trd lng="sk">rodinný príslušník</trd>
 </drv>
 
 <drv mrk="famili.0estro">
@@ -237,7 +253,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">hlava rodiny</trd>
   <trd lng="fr">chef de famille</trd>
+  <trd lng="sk">hlava rodiny</trd>
 </drv>
 
 <drv mrk="famili.lingvo0o">
@@ -260,13 +278,21 @@
     </dif>
   </snc>
   <trd lng="bg">&c_je;&c_z;&c_i;&c_k;&c_o;&c_v;&c_o; &c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="cs">rodina jazyků</trd>
   <trd lng="en">language family</trd>
   <trd lng="fr">famille linguistique</trd>
   <trd lng="nl">taalfamilie</trd>
+  <trd lng="sk">rodina jazykov</trd>
 </drv>
 </art>
 <!--
 $Log: famili.xml,v $
+Revision 1.40  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.38  2014/07/01 12:10:13  revo
 Damien Brucker: +ekz
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konser.xml,v 1.20 2013/10/09 01:10:26 revo Exp $">
+<art mrk="$Id: konser.xml,v 1.22 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konserv</rad>/i <fnt><bib>PV</bib></fnt>
@@ -179,6 +179,20 @@
     <trd>&c_s;&c_o;&c_h;&c_r;&c_a;&c_n;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konzervovať</trd>,
+    <trd>udržať</trd>,
+    <trd>uschovať</trd>,
+    <trd>zachovať</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>chránit</trd>,
+    <trd>konzervovat</trd>,
+    <trd>uchovat</trd>,
+    <trd>udržet</trd>,
+    <trd>udržovat</trd>,
+    <trd>zachovávat</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konser.0igxi">
@@ -230,6 +244,14 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>ochrana</trd>,
+    <trd>péče</trd>,
+    <trd>uchovávání</trd>,
+    <trd>udržování</trd>,
+    <trd>zachovávání</trd>,
+    <trd>údržba</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Bewahren</trd>,
     <trd>Erhalten</trd>
@@ -247,6 +269,10 @@
   <trdgrp lng="ru">
     <trd>&c_s;&c_o;&c_h;&c_r;&c_a;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_k;&c_o;&c_n;&c_s;&c_je;&c_r;&c_v;&c_a;&c_c;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konzervácia</trd>,
+    <trd>zachovanie</trd>
   </trdgrp>
 </drv>
 
@@ -370,6 +396,10 @@
       <ref cel="dok.0o">doko</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>konzervátorské pracoviště</trd>,
+    <trd>údržbářská dílna</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Aufbewahrungsort</trd>,
     <trd>Aufbewahrungsraum</trd>
@@ -381,6 +411,7 @@
   </trdgrp>
   <trd lng="nl">bewaarplaats</trd>
   <trd lng="ru">&c_h;&c_r;&c_a;&c_n;&c_i;&c_l;&c_i;&c_shch;&c_je;</trd>
+  <trd lng="sk">konzervátorské pracovisko</trd>
 </drv>
 
 <drv mrk="konser.0ema">
@@ -390,6 +421,10 @@
       Ne &scirc;atanta &scirc;an&gcirc;ojn.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>konzervativní</trd>,
+    <trd>zpátečnický</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>konservativ</trd>,
     <trd>bewahrend</trd>
@@ -399,6 +434,10 @@
   <trd lng="nl">conservatief</trd>
   <trd
   lng="ru">&c_k;&c_o;&c_n;&c_s;&c_je;&c_r;&c_v;&c_a;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>konzervatívny</trd>,
+    <trd>spiatočnícky</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konser.0ujo">
@@ -435,15 +474,23 @@
         <fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
-  </snc> 
+  </snc>
+  <trd lng="cs">sebezachování</trd>
   <trdgrp lng="fr">
     <trd>autoconservation</trd>,
     <trd>survie</trd>
   </trdgrp>
+  <trd lng="sk">sebazachovanie</trd>
 </drv>
 </art>
 <!--
 $Log: konser.xml,v $
+Revision 1.22  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2013/10/09 01:10:26  revo
 Jeromo Vasxe: + mem~o
 

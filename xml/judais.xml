@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: judais.xml,v 1.16 2012/07/22 16:10:31 revo Exp $">
+<art mrk="$Id: judais.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>judaism</rad>/o
@@ -14,6 +14,13 @@
   </snc>
   <trd lng="be">&c_ju;&c_d;&c_a;&c_ib;&c_z;&c_m;</trd>
   <trd lng="ca">judaisme</trd>
+  <trdgrp lng="cs">
+    <trd>judaizmus</trd>,
+    <trd>mosaizmus</trd>,
+    <trd>semitizmus</trd>,
+    <trd>židovské náboženství</trd>,
+    <trd>židovství</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Judaismus</trd>,
     <trd>Judentum</trd>
@@ -28,11 +35,18 @@
   <trd lng="nl">jodendom</trd>
   <trd lng="pt">juda&iacute;smo</trd>
   <trd lng="ru">&c_i;&c_u;&c_d;&c_a;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">náboženstvo a náb. osveta židov</trd>
   <trd lng="sv">judendom</trd>
 </drv>
 </art>
 <!--
 $Log: judais.xml,v $
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2012/07/22 16:10:31  revo
 Marc Rausell: + trd ca
 

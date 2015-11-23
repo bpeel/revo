@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kaviar.xml,v 1.19 2013/10/05 07:10:13 revo Exp $">
+<art mrk="$Id: kaviar.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kaviar</rad>/o
@@ -32,6 +32,7 @@
   <trd lng="be">&c_ib;&c_k;&c_r;&c_a; <klr>(&c_je;&c_zh;&c_a;)</klr></trd>
   <trd lng="br">kaviar</trd>
   <trd lng="ca">caviar</trd>
+  <trd lng="cs">kaviár</trd>
   <trd lng="de">Kaviar</trd>
   <trd lng="en">caviar</trd>
   <trd lng="es">caviar</trd>
@@ -40,12 +41,19 @@
   <trd lng="nl">kaviaar</trd>
   <trd lng="pl">kawior</trd>
   <trd lng="ru">&c_i;&c_k;&c_r;&c_a; <klr>(&c_k;&c_u;&c_sh;&c_a;&c_n;&c_mol;&c_je;)</klr></trd>
+  <trd lng="sk">kaviár</trd>
   <trd lng="sv">kaviar</trd>
   <trd lng="tr">kavyar</trd>
 </drv>
 </art>
 <!--
 $Log: kaviar.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/10/05 07:10:13  revo
 Wolfram Diestel: precizigis speciojn de ~aj fishoj
 

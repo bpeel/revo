@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: istm.xml,v 1.17 2009/04/07 16:30:30 revo Exp $">
+  <art mrk="$Id: istm.xml,v 1.19 2015/07/04 08:37:36 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>istm</rad>/o
@@ -31,10 +31,21 @@
       </trdgrp>
       <trd lng="pt">istmo<klr tip="amb"> (geografia)</klr></trd>
       <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_sh;&c_je;&c_je;&c_k;</trd>
-    </drv>
+      <trd lng="sk">zemská úžina</trd>
+  <trdgrp lng="cs">
+    <trd>istmus</trd>,
+    <trd>pevninská šíje</trd>
+  </trdgrp>
+</drv>
   </art>
 <!--
 $Log: istm.xml,v $
+Revision 1.19  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2009/04/07 16:30:30  revo
 Sergio Pokrovskij: ref-dif=terkolo
 

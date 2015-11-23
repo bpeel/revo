@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stamf.xml,v 1.5 2014/09/24 08:10:23 revo Exp $">
+<art mrk="$Id: stamf.xml,v 1.7 2015/07/04 08:37:44 revo Exp $">
 <kap>
    <rad>stamf</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -62,24 +62,32 @@
        </ekz>
      </dif>
    </snc>
-   <trd lng="de">Stampfen</trd>
-   <trdgrp lng="fr">
+  <trd lng="cs">dupot <klr>(zvl. koně)</klr></trd>
+  <trd lng="de">Stampfen</trd>
+  <trdgrp lng="fr">
      <trd>battement de pieds</trd>,
      <trd>tr&eacute;pignement</trd>
    </trdgrp>
-   <trdgrp lng="hu">
+  <trdgrp lng="hu">
      <trd>r&uacute;gkap&aacute;l&aacute;s</trd>,
      <trd>toporz&eacute;kol&aacute;s</trd>
    </trdgrp>
-   <trdgrp lng="pl">
+  <trdgrp lng="pl">
      <trd>przytupywanie</trd>,
      <trd>grzebanie kopytem<klr tip="ind"> (np. o koniu)</klr></trd>
    </trdgrp>
+  <trd lng="sk">dupot</trd>
 </drv>
 </art>
 
 <!--
 $Log: stamf.xml,v $
+Revision 1.7  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2014/09/24 08:10:23  revo
 Sebastian Cyprych: +trd pl
 

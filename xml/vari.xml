@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vari.xml,v 1.31 2012/10/15 15:10:12 revo Exp $">
+<art mrk="$Id: vari.xml,v 1.34 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>vari</rad>/i <fnt><bib>PV</bib></fnt>
@@ -19,7 +19,7 @@
         la homojn;
       </ekz>
       <ekz>
-        la rakonta teniko <tld/>as, de klasika kronikado &ccirc;e Auld
+        la rakonta tekniko <tld/>as, de klasika kronikado &ccirc;e Auld
         &gcirc;is vigla dialogo &ccirc;e Guglielminetti
         <fnt><aut>S. Johansson</aut>
         <vrk><url
@@ -82,6 +82,12 @@
     <trd>&c_p;&c_je;&c_r;&c_a;&c_j;&c_n;&c_a;&c_ch;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_v;&c_ib;&c_d;&c_a;&c_z;&c_mol;&c_m;&c_je;&c_n;&c_mol;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kolísat</trd>,
+    <trd>měnit se</trd>,
+    <trd>měnit se</trd>,
+    <trd>pohybovat se</trd>
+  </trdgrp>
   <trd lng="de">variieren</trd>
   <trd lng="en">vary</trd>
   <trdgrp lng="es">
@@ -103,6 +109,12 @@
   <trdgrp lng="ru">
     <trd>&c_v;&c_a;&c_r;&c_mol;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_i;&c_z;&c_m;&c_je;&c_n;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>meniť <klr>(sa)</klr></trd>,
+    <trd>obmieňať</trd>,
+    <trd>striedať sa</trd>,
+    <trd>variovať</trd>
   </trdgrp>
 </drv>
 
@@ -219,9 +231,21 @@
   <snc>
     <ref tip="dif" cel="variab.0o.MAT">variablo</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>biol. odchylka</trd>,
+    <trd>mat.</trd>,
+    <trd>nevh. proměnná</trd>,
+    <trd>obměna</trd>,
+    <trd>varianta</trd>
+  </trdgrp>
   <trd lng="en">variable</trd>
-  <trd lng="hu">v&aacute;ltoz&oacute;</trd>  
-  <trd lng="pl">zmienna</trd>  
+  <trd lng="hu">v&aacute;ltoz&oacute;</trd>
+  <trd lng="pl">zmienna</trd>
+  <trdgrp lng="sk">
+    <trd>obmena</trd>,
+    <trd>odchýlka</trd>,
+    <trd>variant</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vari.0ema">
@@ -238,6 +262,11 @@
     <trd>&c_z;&c_mol;&c_m;&c_je;&c_n;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_je;&c_n;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>labilní</trd>,
+    <trd>nestálý</trd>,
+    <trd>proměnlivý</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>variable</trd>,
     <trd>inconstant</trd>,
@@ -251,8 +280,8 @@
     <trd>changeant</trd>,
     <trd>variable<klr tip="ind"> (adj.)</klr></trd>
   </trdgrp>
-  <trd lng="hu">v&aacute;ltoz&eacute;kony</trd>  
-  <trd lng="pl">zmienny</trd>  
+  <trd lng="hu">v&aacute;ltoz&eacute;kony</trd>
+  <trd lng="pl">zmienny</trd>
   <trdgrp lng="pt">
     <trd>inst&aacute;vel</trd>,
     <trd>mut&aacute;l</trd>,
@@ -261,6 +290,11 @@
   <trdgrp lng="ru">
     <trd>&c_i;&c_z;&c_m;&c_je;&c_n;&c_ch;&c_i;&c_v;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_ch;&c_i;&c_v;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>labilný</trd>,
+    <trd>nestály</trd>,
+    <trd>premenlivý</trd>
   </trdgrp>
 </drv>
 
@@ -284,12 +318,31 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>měnit</trd>,
+    <trd>změnit</trd>,
+    <trd>zpestřit</trd>
+  </trdgrp>
   <trd lng="en">cause to <ind>vary</ind></trd>
   <trd lng="fr">faire <ind>varier</ind></trd>
+  <trdgrp lng="sk">
+    <trd>meniť</trd>,
+    <trd>spestriť</trd>,
+    <trd>zmeniť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: vari.xml,v $
+Revision 1.34  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2015/01/24 20:10:19  revo
+Jeromo Vasxe: vortanalizilo:  teniko -> tekniko
+
 Revision 1.31  2012/10/15 15:10:12  revo
 Jeromo Vasxe: ~ajxo snc/subsnc
 
@@ -309,8 +362,5 @@ Revision 1.26  2006/03/28 16:30:59  revo
 Vito Redsky: +trd pl +trd ro
 
 Revision 1.25  2005/01/24 19:03:01  revo
-Marc Bavant: kor duobligitan punkton
-
-Revision 1.24  2005/01/21 17:32:38  revo
 -->
 </vortaro>

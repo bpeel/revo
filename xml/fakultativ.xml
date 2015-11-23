@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fakultativ.xml,v 1.4 2011/04/15 20:10:13 revo Exp $">
+<art mrk="$Id: fakultativ.xml,v 1.6 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <rad>fakultativ</rad>/a
   <fnt><bib>PIV1</bib></fnt>
@@ -46,11 +46,23 @@
       <trd>optionnel</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>fakultativní</trd>,
+    <trd>nepovinný</trd>,
+    <trd>výběrový</trd>
+  </trdgrp>
+  <trd lng="sk">nepovinný</trd>
 </drv>
 </art>
 
 <!--
 $Log: fakultativ.xml,v $
+Revision 1.6  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2011/04/15 20:10:13  revo
 Nicolas Bros: +trd fr
 

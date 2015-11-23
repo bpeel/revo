@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: levier.xml,v 1.5 2009/10/06 16:44:44 revo Exp $">
+<art mrk="$Id: levier.xml,v 1.7 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>levier</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -26,6 +26,7 @@
       <ref cel="lev.0ilo">levilo</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">páka</trd>
   <trd lng="de">Joystick</trd>
   <trdgrp lng="fr">
     <trd>manette</trd>,
@@ -39,11 +40,18 @@
     <trd>manete</trd>,
     <trd>joystick <klr>(EN)</klr></trd>
   </trdgrp>
+  <trd lng="sk">páka</trd>
 </drv>
 </art>
 
 <!--
 $Log: levier.xml,v $
+Revision 1.7  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2009/10/06 16:44:44  revo
 Paul Peeraerts: +nl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxargx.xml,v 1.21 2014/07/12 19:10:14 revo Exp $">
+<art mrk="$Id: sxargx.xml,v 1.24 2015/08/20 17:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;ar&gcirc;</rad>/i <fnt><bib>PV</bib></fnt>
@@ -25,6 +25,10 @@
         <trd>beladen</trd>,
         <trd>belasten</trd>,
         <trd>befrachten</trd>
+      </trdgrp>
+      <trdgrp lng="es">
+        <trd>cargar</trd>,
+        <trd>fletar</trd>
       </trdgrp>
       <trdgrp lng="hu">
         <trd>berak</trd>,
@@ -56,6 +60,9 @@ letero.
         <trd>beladen</trd>,
         <trd>belasten</trd>,
         <trd>voll stellen</trd>
+      </trdgrp>
+      <trdgrp lng="es">
+        <trd>cargar</trd>
       </trdgrp>
       <trdgrp lng="hu">
         <trd>megrak</trd>,
@@ -93,6 +100,7 @@ letero.
       <trd lng="be">
 &c_a;&c_b;&c_c;&c_ja;&c_zh;&c_a;&c_r;&c_v;&c_a;&c_c;&c_mol;</trd>
       <trd lng="de">bel&auml;stigen</trd>
+      <trd lng="es">cargar<klr> (sobre la conciencia)</klr></trd>
       <trdgrp lng="hu">
         <trd>terhel <klr tip="ind">(&aacute;tv.)</klr></trd>,
         <trd>megterhel <klr tip="ind">(&aacute;tv.)</klr></trd>
@@ -135,12 +143,8 @@ letero.
     <trd>best&uuml;cken</trd>
   </trdgrp>
   <trd lng="en">burden</trd>
+  <trd lng="es">cargar</trd>
   <trd lng="fr">charger</trd>
-  <trdgrp lng="ru">
-    <trd>&c_g;&c_r;&c_u;&c_z;&c_i;&c_t;&c_mol;</trd>,
-    <trd>&c_n;&c_a;&c_g;&c_r;&c_u;&c_zh;&c_a;&c_t;&c_mol;</trd>,
-    <trd>&c_n;&c_a;&c_g;&c_r;&c_u;&c_z;&c_i;&c_t;&c_mol;</trd>
-  </trdgrp>
   <trdgrp lng="nl">
     <trd>laden</trd>,
     <trd>belasten</trd>
@@ -149,6 +153,11 @@ letero.
   <trdgrp lng="pt">
     <trd>carregar</trd>,
     <trd>p&ocirc;r peso em</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_r;&c_u;&c_z;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_g;&c_r;&c_u;&c_zh;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_g;&c_r;&c_u;&c_z;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
 </drv>
 
@@ -162,6 +171,7 @@ letero.
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">pesado</trd>
   <trd lng="fr">lourd &agrave; porter</trd>
 </drv>
 
@@ -220,6 +230,7 @@ letero.
     <ref tip="dif" cel="sxarg.0o">&scirc;argo</ref>
   </snc>
   <trd lng="be">&c_g;&c_r;&c_u;&c_z;</trd>
+  <trd lng="es">carga</trd>
   <trd lng="fr">charge</trd>
   <trdgrp lng="hu">
     <trd>teher</trd>,
@@ -229,6 +240,26 @@ letero.
   <trd lng="ru">&c_g;&c_r;&c_u;&c_z;</trd>
   <trd lng="nl">lading</trd>
   <trd lng="pt">carga</trd>
+</drv>
+
+<drv mrk="sxargx.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sxargx.0igxi.KOMUNE">
+    <dif>
+      Surpreni peza&jcirc;on, surpreni respondecon:
+      <ekz>
+        neniu estus preta <tld/>i&gcirc;i per la defendo por Hrafnkel
+        <fnt>
+          <aut>-, trad. B. Ragnarsson</aut>,
+          <vrk>Rakonto pri Hrafnkel</vrk>,
+          <lok>en: Islandaj Pravo&ccirc;oj, 1964</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es"><ind>cargar</ind>se<klr> (de)</klr></trd>
+  <trd lng="fr">se <ind>charger</ind><klr> (de)</klr></trd>
 </drv>
 
 <drv mrk="sxargx.de0i">
@@ -251,6 +282,7 @@ letero.
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">descargar</trd>
   <trd lng="fr">d&eacute;charger</trd>
   <trd lng="it">scaricare<klr> (mettere gi&ugrave;)</klr></trd>
 </drv>
@@ -263,7 +295,7 @@ letero.
       Senigi je <tld/>o, je peza&jcirc;o:
       <ekz>
         en via loko, anstata&ubreve; mal<tld/>i &scirc;ipojn, anstata&ubreve; 
-fari laboron,
+        fari laboron,
         kiu vin lacegigas, kaj por kiu vi ne ta&ubreve;gas, mi denove reprenus
         mian oficon
         <fnt>
@@ -283,12 +315,33 @@ fari laboron,
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">descargar</trd>
   <trd lng="fr">d&eacute;charger</trd>
   <trdgrp lng="it">
   <trd>scaricare<klr> (liberare dal carico)</klr></trd>
   <trd>alleggerire<klr> (scaricare)</klr></trd>
   <trd>esonerare<klr> (liberare dal incarico/impegno)</klr></trd>
   </trdgrp>
+</drv>
+
+<drv mrk="sxargx.sen0igxi">
+  <kap>sen<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sxargx.sen0igxi.KOMUNE">
+    <dif>
+      Seni&gcirc;i je peza&jcirc;o, prema&jcirc;o:
+      <ekz>
+        la &scirc;ipo devis sen<tld/>i&gcirc;i
+        <fnt><bib>NT</bib>, <lok>&Ago; 21:3</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ia koro sen<tld/>i&gcirc;is
+        <fnt><bib>Fab4</bib>, <lok>Infano en la tombo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es"><ind>descargar</ind>se<klr> (de)</klr></trd>
+  <trd lng="fr">se <ind>d&eacute;charger</ind><klr> (de)</klr></trd>
 </drv>
 
 <drv mrk="sxargx.tro0i">
@@ -315,12 +368,43 @@ fari laboron,
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">sobrecargar</trd>
   <trd lng="fr">surcharger</trd>
   <trd lng="it">sovraccaricare</trd>
 </drv>
+
+<drv mrk="sxargx.super0o">
+  <kap>super<tld/>o</kap>
+  <snc mrk="sxargx.super0o..KOMUNE">
+    <dif>
+      Tiu pezo, kiu estas &scirc;ar&gcirc;ita super la norma:
+      <ekz>
+        vi devos pagi por tiu super&scirc;ar&gcirc;o
+        <fnt>
+          <aut>Lernu!</aut>,
+          <vrk><url
+          ref="http://eo.lernu.net/lernado/vortoj/tagovortoj/vorto.php?id=556">Vorto
+          de la tago n&deg;556</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">sobrecargar</trd>
+  <trd lng="fr">surcharge</trd>
+</drv>
+
 </art>
 <!--
 $Log: sxargx.xml,v $
+Revision 1.24  2015/08/20 17:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.23  2015/01/30 21:10:14  revo
+Alain Gerard: + super~o
+
+Revision 1.22  2014/12/10 05:10:26  revo
+Jeromo Vasxe: + ~igxi sen~igxi
+
 Revision 1.21  2014/07/12 19:10:14  revo
 Jeromo Vasxe: memstar. ~a, + 2 grupoj de subsnc
 
@@ -334,14 +418,5 @@ Revision 1.18  2007/07/22 16:30:51  revo
 Jeromo Vasxe: + de/el/mal/tro~i, ~i + snc/subsnc
 
 Revision 1.17 2004/11/10 17:31:12 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.16 2004/10/20 16:32:27 revo
-Wolfram Diestel: germ ort.
-
-Revision 1.15 2003/03/17 17:31:56 revo
-Dmitri Gabinski: kor de tajperaro en trd be
-
-Revision 1..14 2002/10/20 16:31:46 revo
 -->
 </vortaro>

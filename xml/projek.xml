@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: projek.xml,v 1.27 2012/10/23 00:13:32 revo Exp $">
+<art mrk="$Id: projek.xml,v 1.29 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>projekci</rad>/o
@@ -102,6 +102,12 @@
       lanterno.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>projekce</trd>,
+    <trd>promítání</trd>,
+    <trd>průmět</trd>,
+    <trd>zobrazení</trd>
+  </trdgrp>
   <trd lng="fr">projection<klr tip="ind"> (math. et sens
   d&eacute;riv&eacute;s)</klr></trd>
   <trdgrp lng="hu">
@@ -111,6 +117,10 @@
   <trd lng="nl">projectie</trd>
   <trd lng="pt">proje&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_je;&c_k;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>premietanie</trd>,
+    <trd>priemet</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="projek.0i">
@@ -135,10 +145,15 @@
       <aut>MB</aut>
     </adm>
   </snc>
+  <trdgrp lng="cs">
+    <trd>projektovat</trd>,
+    <trd>promítat</trd>
+  </trdgrp>
   <trd lng="fr">projeter</trd>
-  <trd lng="hu">vet&iacute;t</trd>  
+  <trd lng="hu">vet&iacute;t</trd>
   <trd lng="nl">projecteren</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_je;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">premietať</trd>
 </drv>
 
 <drv mrk="projek.0ajxo">
@@ -190,10 +205,15 @@
       Aparato por <tld/>i <sncref ref="projek.0i.FOT"/>.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>projekční přístroj</trd>,
+    <trd>promítací přístroj</trd>
+  </trdgrp>
   <trd lng="fr">projecteur<klr tip="ind"> (film, diapos, etc.)</klr></trd>
-  <trd lng="hu">vet&iacute;t&odblac;g&eacute;p</trd>  
+  <trd lng="hu">vet&iacute;t&odblac;g&eacute;p</trd>
   <trd lng="nl">projector</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">projekčný prístroj</trd>
 </drv>
 
 <drv mrk="projek.retro0ilo">
@@ -324,6 +344,12 @@
 </art>
 <!--
 $Log: projek.xml,v $
+Revision 1.29  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.27  2012/10/23 00:13:32  revo
 Neil Roberts: aldonu la etikedon <var>
 

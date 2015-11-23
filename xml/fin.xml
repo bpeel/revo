@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fin.xml,v 1.52 2014/06/23 02:10:18 revo Exp $">
+<art mrk="$Id: fin.xml,v 1.55 2015/07/04 08:37:34 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>fin</rad>/i</kap> <fnt><bib>PV</bib></fnt>
 <drv mrk="fin.0i">
@@ -125,7 +125,15 @@ a&ubreve;
     <trd>&c_s;&c_p;&c_y;&c_n;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">acabar</trd>
-  <trd lng="cs">kon&ccaron;it</trd>
+  <trdgrp lng="cs">
+    <trd>dokonat</trd>,
+    <trd>dokončit</trd>,
+    <trd>kon&ccaron;it</trd>,
+    <trd>skončit</trd>,
+    <trd>ukončit</trd>,
+    <trd>vyřídit</trd>,
+    <trd>zakončit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>beenden</trd>,
     <trd>abschlie&szlig;en</trd>,
@@ -164,6 +172,12 @@ a&ubreve;
     <trd>&c_z;&c_a;&c_k;&c_o;&c_n;&c_ch;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_k;&c_o;&c_n;&c_ch;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_v;&c_je;&c_r;&c_sh;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dokončiť</trd>,
+    <trd>končiť</trd>,
+    <trd>skončiť</trd>,
+    <trd>zakončiť</trd>
   </trdgrp>
 </drv>
 
@@ -273,18 +287,22 @@ intervalle)</klr></trd>
     (&c_i;&c_n;&c_t;&c_je;&c_r;&c_v;&c_a;&c_l;&c_a;)</klr></trd>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_n;&c_je;&c_c;</trd>
-  <trd lng="cs">konec</trd>
+  <trdgrp lng="cs">
+    <trd>konec</trd>,
+    <trd>zánik</trd>,
+    <trd>závěr</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Ende</trd>,
     <trd>Schluss</trd>,
     <trd>Abschluss</trd>
   </trdgrp>
+  <trd lng="es">fin</trd>
   <trdgrp lng="fr">
     <trd>fin<klr tip="ind"> (ach&egrave;vement)</klr></trd>,
     <trd>ach&egrave;vement</trd>,
     <trd>arr&ecirc;t<klr tip="ind"> (ach&egrave;vement)</klr></trd>
   </trdgrp>
-  <trd lng="es">fin</trd>
   <trdgrp lng="hu">
     <trd>v&eacute;g</trd>,
     <trd>z&aacute;r&aacute;s</trd>,
@@ -293,8 +311,14 @@ intervalle)</klr></trd>
   <trd lng="id">akhir</trd>
   <trd lng="nl">einde</trd>
   <trd lng="pl">koniec</trd>
-  <trd lng="ru">&c_k;&c_o;&c_n;&c_je;&c_c;</trd>
   <trd lng="ro">sf&acirc;r&scedil;it</trd>
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_je;&c_c;</trd>
+  <trdgrp lng="sk">
+    <trd>koniec</trd>,
+    <trd>ukončenie</trd>,
+    <trd>zánik</trd>,
+    <trd>záver</trd>
+  </trdgrp>
   <trd lng="vo">fin</trd>
 </drv>
 
@@ -324,6 +348,12 @@ intervalle)</klr></trd>
     <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_n;&c_y;</trd>,
     <trd>&c_f;&c_ib;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>finální</trd>,
+    <trd>koncový</trd>,
+    <trd>konečný</trd>,
+    <trd>závěrečný</trd>
+  </trdgrp>
   <trd lng="es">final</trd>
   <trdgrp lng="fr">
     <trd>final</trd>,
@@ -347,6 +377,10 @@ intervalle)</klr></trd>
     <trd>&c_o;&c_k;&c_o;&c_n;&c_ch;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_k;&c_o;&c_n;&c_c;&c_je;&c_v;&c_o;&c_j;</trd>,
     <trd>&c_f;&c_i;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konečný</trd>,
+    <trd>záverečný</trd>
   </trdgrp>
 </drv>
 
@@ -382,11 +416,18 @@ intervalle)</klr></trd>
   <trdgrp lng="be">
     <trd>&c_u;&c_r;&c_e;&c_sh;&c_c;&c_je;</trd>,
     <trd>&c_n;&c_a;&c_r;&c_e;&c_sh;&c_c;&c_je;</trd>
-  </trdgrp><trdgrp lng="ca">
+  </trdgrp>
+  <trdgrp lng="ca">
     <trd>al final</trd>,
     <trd>a la fi</trd>
   </trdgrp>
-  <trd lng="cs">kone&ccaron;n&ecaron;</trd>
+  <trdgrp lng="cs">
+    <trd>koncem</trd>,
+    <trd>kone&ccaron;n&ecaron;</trd>,
+    <trd>konečně</trd>,
+    <trd>nakonec</trd>,
+    <trd>závěrem</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>endlich</trd>,
     <trd>schlie&szlig;lich</trd>
@@ -407,6 +448,7 @@ intervalle)</klr></trd>
   <trd lng="pl">nareszcie</trd>
   <trd lng="ro">&icirc;n sf&acirc;r&scedil;it</trd>
   <trd lng="ru">&c_n;&c_a;&c_k;&c_o;&c_n;&c_je;&c_c;</trd>
+  <trd lng="sk">konečne</trd>
 </drv>
 
 <drv mrk="fin.0ede">
@@ -534,6 +576,10 @@ intervalle)</klr></trd>
     <trd>&c_s;&c_k;&c_o;&c_n;&c_ch;&c_y;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_k;&c_o;&c_n;&c_ch;&c_y;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dokonat</trd>,
+    <trd>ukončit</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>mettre <ind>fin</ind> &agrave;</trd>,
     <trd>faire <ind>finir</ind> (qc par qn)</trd>
@@ -556,6 +602,10 @@ tip="amb"> (&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;&c_m;
     <trd>&c_p;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol; 
 <ind>&c_k;&c_o;&c_n;&c_je;&c_c;</ind><klr tip="amb"> 
 (&c_ch;&c_je;&c_m;&c_u;-&c_l;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dokonať</trd>,
+    <trd>ukončiť</trd>
   </trdgrp>
 </drv>
 
@@ -724,6 +774,12 @@ tip="amb"> (&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;&c_m;
     <trd lng="pl">sko&nacute;czony</trd>
     <trd lng="ru">&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dokonaný</trd>,
+    <trd>dokončený</trd>,
+    <trd>skončený</trd>
+  </trdgrp>
+  <trd lng="sk">ukončený</trd>
 </drv>
 
 <drv mrk="fin.el0i">
@@ -805,6 +861,11 @@ tip="amb"> (&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;&c_m;
     <trd lng="pl">niesko&nacute;czony</trd>
     <trd lng="ru">&c_b;&c_je;&c_s;&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
   </snc>
+  <trd lng="cs">neukončený</trd>
+  <trdgrp lng="sk">
+    <trd>neskončený</trd>,
+    <trd>neukončený</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fin.sen0a">
@@ -844,6 +905,10 @@ tip="amb"> (&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;&c_m;
     <trd lng="hu">v&eacute;gtelen&iacute;tett</trd>
   </snc>
   <trd lng="be">&c_b;&c_ja;&c_s;&c_k;&c_o;&c_n;&c_c;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>nekonečný</trd>,
+    <trd>neskonalý</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>unendlich</trd>,
     <trd>endlos</trd>
@@ -862,6 +927,7 @@ tip="amb"> (&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;&c_m;
   </trdgrp>
   <trd lng="pl">bezgraniczny</trd>
   <trd lng="ru">&c_b;&c_je;&c_s;&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">nekonečný</trd>
   <trd lng="uk">&c_b;&c_je;&c_z;&c_k;&c_ib;&c_n;&c_je;&c_ch;&c_n;&c_i;&c_j;</trd>
 </drv>
 
@@ -893,8 +959,15 @@ tip="amb"> (&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;&c_m;
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>koncem</trd>,
+    <trd>konečně</trd>,
+    <trd>nakonec</trd>,
+    <trd>závěrem</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>en d&eacute;finitive</trd>,
+    <trd>en fin de compte</trd>,
     <trd>enfin !</trd>
   </trdgrp>
   <trdgrp lng="hu">
@@ -909,6 +982,7 @@ tip="amb"> (&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;&c_m;
   </trdgrp>
   <trd lng="ru">&c_v; <ind>&c_k;&c_o;&c_n;&c_c;&c_je;</ind> 
 &c_k;&c_o;&c_n;&c_c;&c_o;&c_v;</trd>
+  <trd lng="sk">konečne</trd>
 </drv>
 
 <drv mrk="fin.0ofara">
@@ -930,13 +1004,10 @@ tip="amb"> (&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;&c_m;
     </refgrp>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_n;&c_ch;&c_a;&c_t;&c_k;&c_o;&c_v;&c_y;</trd>
+  <trd lng="cs">závěrečný <klr>(úder| rozhodnutí)</klr></trd>
   <trdgrp lng="fr">
     <trd>final<klr tip="ind"> (d&eacute;finitif)</klr></trd>,
     <trd>ultime<klr tip="ind"> (d&eacute;finitif)</klr></trd>
-  </trdgrp>
-  <trdgrp lng="nl">
-    <trd>definitief</trd>,
-    <trd>ultiem</trd>
   </trdgrp>
   <trdgrp lng="hu">
     <trd>v&eacute;gs&odblac;</trd>,
@@ -944,16 +1015,33 @@ tip="amb"> (&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;&c_m;
     <trd>v&eacute;gzetes</trd>
   </trdgrp>
   <trd lng="id">final</trd>
+  <trdgrp lng="nl">
+    <trd>definitief</trd>,
+    <trd>ultiem</trd>
+  </trdgrp>
   <trd lng="pl">uko&nacute;czony</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_k;&c_o;&c_n;&c_ch;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
     <klr>(&c_u;&c_d;&c_a;&c_r; &c_i; &c_t;.&c_p;.)</klr></trd>,
     <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ukončujúci</trd>,
+    <trd>záverečný</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: fin.xml,v $
+Revision 1.55  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.54  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.53  2015/03/01 08:10:17  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.52  2014/06/23 02:10:18  revo
 Eko Nur Syah Hidayat: +id
 
@@ -973,8 +1061,5 @@ Revision 1.47  2013/05/26 17:10:08  revo
 Benito Subejrano: + trd ca oc
 
 Revision 1.46  2013/05/26 14:10:12  revo
-Benito Subejrano: + trd ca oc
-
-Revision 1.45  2010/06/15 16:30:28  revo
 -->
 </vortaro>

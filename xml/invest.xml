@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: invest.xml,v 1.16 2008/12/11 17:31:17 revo Exp $">
+  <art mrk="$Id: invest.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
     <kap>
       <rad>invest</rad>/i
       <fnt>Z</fnt>
@@ -99,9 +99,13 @@ com&eacute;rcio)</klr></trd>
           <trd>&c_i;&c_n;&c_v;&c_je;&c_s;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
         </trdgrp>
       </snc>
-      <trd lng="cs">investovat</trd>
-      <trd lng="en">invest</trd>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>investovat</trd>,
+    <trd>uvést do úřadu</trd>
+  </trdgrp>
+  <trd lng="en">invest</trd>
+  <trd lng="sk">investovať kapitál</trd>
+</drv>
 
     <drv mrk="invest.0o">
       <kap><tld/>o</kap>
@@ -171,8 +175,10 @@ com&eacute;rcio)</klr></trd>
           <trd>&c_i;&c_n;&c_v;&c_je;&c_s;&c_t;&c_i;&c_c;&c_i;&c_ja;</trd>
         </trdgrp>
       </snc>
-      <trd lng="en">investment</trd>
-    </drv>
+  <trd lng="cs">investování</trd>
+  <trd lng="en">investment</trd>
+  <trd lng="sk">investovanie</trd>
+</drv>
 
     <drv mrk="invest.0ado">
       <kap><tld/>ado</kap>
@@ -215,8 +221,10 @@ com&eacute;rcio)</klr></trd>
           <trd>&c_i;&c_n;&c_v;&c_je;&c_s;&c_t;&c_i;&c_c;&c_i;&c_ja;</trd>
         </trdgrp>
       </snc>
-      <trd lng="en">investment</trd>
-    </drv>
+  <trd lng="cs">investování</trd>
+  <trd lng="en">investment</trd>
+  <trd lng="sk">investovanie</trd>
+</drv>
 
     <drv mrk="invest.0ajxo">
       <kap><tld/>a&jcirc;o</kap>
@@ -281,6 +289,12 @@ com&eacute;rcio)</klr></trd>
   </art>
   <!--
   $Log: invest.xml,v $
+  Revision 1.18  2015/07/04 08:37:36  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.17  2015/06/29 16:33:16  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.16  2008/12/11 17:31:17  revo
   Russ Williams: +trd en
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: noc.xml,v 1.8 2009/10/15 16:31:50 revo Exp $">
+<art mrk="$Id: noc.xml,v 1.10 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <rad>noc</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -29,6 +29,7 @@
     <trd>danyar</trd>,
     <trd>perjudicar</trd>
   </trdgrp>
+  <trd lng="cs">škodit</trd>
   <trd lng="de">schaden</trd>
   <trdgrp lng="es">
     <trd>da&ntilde;ar</trd>,
@@ -46,12 +47,19 @@
     <trd>ser <ind>nocivo</ind> a</trd>
   </trdgrp>
   <trd lng="ru">&c_v;&c_r;&c_je;&c_d;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">škodiť</trd>
   <trd lng="tp">ike</trd>
 </drv>
 </art>
 
 <!--
 $Log: noc.xml,v $
+Revision 1.10  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2009/10/15 16:31:50  revo
 Paul Peeraerts: +nl
 

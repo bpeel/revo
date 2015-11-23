@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dev.xml,v 1.30 2014/07/18 11:10:11 revo Exp $">
+<art mrk="$Id: dev.xml,v 1.32 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dev</rad>/i <fnt><bib>PV</bib></fnt>
@@ -162,7 +162,11 @@
     <trd>&c_b;&c_y;&c_c;&c_mol; <ind>
     &c_p;&c_a;&c_v;&c_ib;&c_n;&c_n;&c_y;&c_m;</ind></trd>
   </trdgrp>
-  <trd lng="cs">muset</trd>
+  <trdgrp lng="cs">
+    <trd>být povinen</trd>,
+    <trd>muset</trd>,
+    <trd>mít povinnost</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>m&uuml;ssen</trd>,
     <trd>nicht <ind>d&uuml;rfen</ind> <klr>(devi ne...)</klr></trd>
@@ -181,6 +185,10 @@
     <trd>&c_b;&c_y;&c_t;&c_mol; <ind>&c_o;&c_b;&c_ja;&c_z;&c_a;&c_n;&c_n;&c_y;&c_m;</ind> <klr>(&c_ch;&c_t;&c_o;-&c_l;.
     &c_s;&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol;)</klr></trd>,
     <trd>&c_d;&c_o;&c_l;&c_zh;&c_je;&c_n;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>byť povinný</trd>,
+    <trd>musieť</trd>
   </trdgrp>
   <trd lng="tp">wile</trd>
 </drv>
@@ -220,6 +228,7 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_a;&c_b;&c_a;&c_v;&c_ja;&c_z;&c_a;&c_k;</trd>
+  <trd lng="cs">povinnost</trd>
   <trd lng="de">Pflicht</trd>
   <trdgrp lng="en">
     <trd>duty</trd>,
@@ -249,6 +258,7 @@
     <trd>&c_o;&c_b;&c_ja;&c_z;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;
     </trd>
   </trdgrp>
+  <trd lng="sk">povinnosť</trd>
   <trd lng="tp">wile</trd>
 </drv>
 
@@ -271,6 +281,14 @@
     <trd>&c_a;&c_b;&c_a;&c_v;&c_ja;&c_z;&c_k;&c_o;&c_v;&c_y;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_m;&c_u;&c_s;&c_o;&c_v;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>imperativní</trd>,
+    <trd>kogentní</trd>,
+    <trd>nucený</trd>,
+    <trd>obligatorní</trd>,
+    <trd>povinný</trd>,
+    <trd>závazný</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>compulsory</trd>,
     <trd>obligatory</trd>
@@ -286,6 +304,7 @@
     <trd>&c_o;&c_b;&c_ja;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_n;&c_u;&c_d;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">záväzný</trd>
 </drv>
 
 <drv mrk="dev.0igi">
@@ -330,6 +349,11 @@
     <trd>&c_a;&c_b;&c_a;&c_v;&c_ja;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_m;&c_u;&c_sh;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>donutit</trd>,
+    <trd>nutit</trd>,
+    <trd>přinutit</trd>
+  </trdgrp>
   <trd lng="de">zwingen</trd>
   <trd lng="en">compel</trd>
   <trdgrp lng="es">
@@ -357,6 +381,7 @@
     <trd>&c_z;&c_a;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_n;&c_u;&c_d;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">nútiť</trd>
 </drv>
 
 <drv mrk="dev.0igo">
@@ -374,6 +399,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_m;&c_u;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>nucení</trd>,
+    <trd>nutkání</trd>
+  </trdgrp>
   <trd lng="de">Zwang</trd>
   <trdgrp lng="en">
     <trd>coercion</trd>,
@@ -395,6 +424,10 @@
     <trd>konieczno&sacute;&cacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_n;&c_u;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>nutkanie</trd>,
+    <trd>nútenie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dev.ne0iga">
@@ -405,6 +438,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_a;&c_b;&c_a;&c_v;&c_ja;&c_z;&c_k;&c_o;&c_v;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>fakultativní</trd>,
+    <trd>nepovinný</trd>,
+    <trd>nezávazný</trd>
+  </trdgrp>
   <trd lng="en">optional</trd>
   <trd lng="es">opcional</trd>
   <trd lng="fr">facultatif</trd>
@@ -416,6 +454,11 @@
     <trd>dobrowolny</trd>
   </trdgrp>
   <trd lng="ru">&c_n;&c_je;&c_o;&c_b;&c_ja;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>fakultatívny</trd>,
+    <trd>nepovinný</trd>,
+    <trd>nezáväzný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dev.sin0igo">
@@ -430,6 +473,10 @@
     </dif>
     <ref tip="vid" cel="brid.0i">bridi</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>závazek</trd>,
+    <trd>úvazek</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>autocontrol</trd>,
     <trd>moderaci&oacute;n<klr tip="ind"> (autocontrol)</klr></trd>
@@ -446,6 +493,7 @@
     <trd>zobowi&aogonek;zanie</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_a;&c_m;&c_o;&c_o;&c_b;&c_l;&c_a;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">sebadisciplína</trd>
 </drv>
 
 <drv mrk="dev.0ontigi">
@@ -467,11 +515,16 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>omezit závazkem.</trd>,
+    <trd>zavázat</trd>
+  </trdgrp>
   <trd lng="hu">elk&ouml;telez</trd>
   <trdgrp lng="pl">
     <trd>zobowi&aogonek;zywa&cacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_b;&c_ja;&c_z;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">zaviazať</trd>
 </drv>
 
 <drv mrk="dev.el0igi">
@@ -496,6 +549,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>vymoci</trd>,
+    <trd>vymáhat</trd>,
+    <trd>vynutit</trd>
+  </trdgrp>
   <trd lng="de">abn&ouml;tigen</trd>
   <trdgrp lng="en">
     <trd>extort</trd>,
@@ -520,6 +578,7 @@
     <trd>&c_v;&c_y;&c_n;&c_u;&c_d;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_m;&c_o;&c_g;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">vynútiť</trd>
 </drv>
 
 <drv mrk="dev.trud0igi">
@@ -548,6 +607,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_m;&c_u;&c_sh;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>donutit násilím</trd>,
+    <trd>přinutit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>aufdr&auml;ngen</trd>,
     <trd>zwingen</trd>,
@@ -575,10 +638,17 @@
     <trd>&c_p;&c_r;&c_i;&c_n;&c_u;&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_n;&c_u;&c_d;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">prinútiť násilím</trd>
 </drv>
 </art>
 <!--
 $Log: dev.xml,v $
+Revision 1.32  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.30  2014/07/18 11:10:11  revo
 Guillermo Molleda Jimena: Hispana tradukado
 

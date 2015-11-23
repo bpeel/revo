@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: plant.xml,v 1.36 2013/10/29 19:10:20 revo Exp $">
+  <art mrk="$Id: plant.xml,v 1.39 2015/07/04 08:37:41 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>plant</rad>/i
@@ -68,13 +68,25 @@
           <trd>&c_v;&c_s;&c_a;&c_d;&c_i;&c_t;&c_mol;</trd>
         </trdgrp>
       </snc>
-      <trd lng="de">pflanzen</trd>
-      <trd lng="en">plant</trd>
-      <trd lng="fr">planter</trd>
-      <trd lng="hu">&uuml;ltet<klr tip="ind"> (n&ouml;v&eacute;nyt)</klr></trd>
-      <trd lng="nl">planten</trd>
-      <trd lng="pt">plantar</trd>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>nasázet rostliny</trd>,
+    <trd>sázet rostliny</trd>,
+    <trd>vsadit rostliny</trd>,
+    <trd>vysadit rostliny</trd>,
+    <trd>zasadit rostliny</trd>
+  </trdgrp>
+  <trd lng="de">pflanzen</trd>
+  <trd lng="en">plant</trd>
+  <trd lng="fr">planter</trd>
+  <trd lng="hu">&uuml;ltet<klr tip="ind"> (n&ouml;v&eacute;nyt)</klr></trd>
+  <trd lng="id">[<ind>tanam</ind>] menanam</trd>
+  <trd lng="nl">planten</trd>
+  <trd lng="pt">plantar</trd>
+  <trdgrp lng="sk">
+    <trd>sadiť</trd>,
+    <trd>vysadiť</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="plant.0o">
       <kap><tld/>o</kap>
@@ -93,6 +105,7 @@
           </ekz>
         </dif>
         <trd lng="en">planting</trd>
+        <trd lng="id">[<ind>tanam</ind>] penanaman</trd>
         <trd lng="ru">&c_p;&c_o;&c_s;&c_a;&c_d;&c_k;&c_a;</trd>
         <trd lng="pl">nasadzenie</trd>
         <trdgrp lng="de">
@@ -121,12 +134,21 @@
         <trd lng="en">plant</trd>
         <trd lng="fr">plante</trd>
         <trd lng="hu">n&ouml;v&eacute;ny</trd>
+        <trdgrp lng="id">
+          <trd><ind>tanam</ind>an</trd>,
+          <trd><ind>tumbuh</ind>an</trd>
+        </trdgrp>
         <trd lng="nl">plant</trd>
         <trd lng="pl">ro&sacute;lina</trd>
         <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;</trd>
         <trd lng="tp">kasi</trd>
       </snc>
-    </drv>
+  <trd lng="cs">rostlina</trd>
+  <trdgrp lng="sk">
+    <trd>rastlina</trd>,
+    <trd>sadenica</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="plant.0oj">
       <kap><tld/>oj</kap>
@@ -224,23 +246,28 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="de">Sch&ouml;ssling</trd>
-      <trdgrp lng="fr">
+  <trd lng="cs">sazenice</trd>
+  <trd lng="de">Sch&ouml;ssling</trd>
+  <trdgrp lng="fr">
         <trd>rejet<klr> (v&eacute;g&eacute;tal)</klr></trd>,
         <trd>surgeon</trd>
       </trdgrp>
-      <trd lng="hu">sarjhajt&aacute;s</trd>
-      <trdgrp lng="nl">
+  <trd lng="hu">sarjhajt&aacute;s</trd>
+  <trdgrp lng="nl">
         <trd>scheut</trd>,
         <trd>spruit</trd>
       </trdgrp>
-      <trdgrp lng="pl">
+  <trdgrp lng="pl">
         <trd>sadzonka</trd>,
         <trd>p&eogonek;d</trd>,
         <trd>ro&sacute;linka</trd>
       </trdgrp>
-      <trd lng="ru">&c_r;&c_o;&c_s;&c_t;&c_o;&c_k;</trd>
-    </drv>
+  <trd lng="ru">&c_r;&c_o;&c_s;&c_t;&c_o;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>odnož</trd>,
+    <trd>prízemný výhonok rastliny</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="plant.0ejo">
       <kap><tld/>ejo</kap>
@@ -259,19 +286,31 @@
           <ref cel="gxarde.0o">&gcirc;ardeno</ref>
         </refgrp>
       </snc>
-      <trd lng="de">Plantage</trd>
-      <trd lng="fr">plantation<klr> (lieu)</klr></trd>
-      <trd lng="hu">&uuml;ltetv&eacute;ny</trd>
-      <trdgrp lng="nl">
+  <trdgrp lng="cs">
+    <trd>lesní školka</trd>,
+    <trd>plantáž</trd>,
+    <trd>zahrada</trd>,
+    <trd>záhon</trd>
+  </trdgrp>
+  <trd lng="de">Plantage</trd>
+  <trd lng="fr">plantation<klr> (lieu)</klr></trd>
+  <trd lng="hu">&uuml;ltetv&eacute;ny</trd>
+  <trd lng="id">[<ind>kebun</ind>] perkebunan</trd>
+  <trdgrp lng="nl">
         <trd>plantage</trd>,
         <trd>aanplanting</trd>
       </trdgrp>
-      <trd lng="pl">plantacja</trd>
-      <trdgrp lng="ru">
+  <trd lng="pl">plantacja</trd>
+  <trdgrp lng="ru">
         <trd>&c_p;&c_l;&c_a;&c_n;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>,
         <trd>&c_p;&c_o;&c_l;&c_je;</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>plantáž</trd>,
+    <trd>sad</trd>,
+    <trd>záhon</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="plant.en0i">
       <kap>en<tld/>i</kap>
@@ -345,15 +384,22 @@
           <aut>Sergio</aut>
         </adm>
       </snc>
-      <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>hluboce zakořenit</trd>,
+    <trd>implantovat</trd>,
+    <trd>pevně zapustit</trd>,
+    <trd>zasadit <klr>(rostlinu)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>einpflanzen</trd>
       </trdgrp>
-      <trd lng="fr">implanter</trd>
-      <trdgrp lng="ru">
+  <trd lng="fr">implanter</trd>
+  <trdgrp lng="ru">
         <trd>&c_v;&c_n;&c_je;&c_d;&c_r;&c_i;&c_t;&c_mol;</trd>,
         <trd>&c_p;&c_r;&c_i;&c_v;&c_i;&c_t;&c_mol;</trd>
       </trdgrp>
-    </drv>
+  <trd lng="sk">zasadiť</trd>
+</drv>
 
     <drv mrk="plant.trans0i">
       <kap>trans<tld/>i</kap>
@@ -424,14 +470,22 @@
           </trdgrp>
         </subsnc>
       </snc>
-      <trd lng="hu">&aacute;t&uuml;ltet</trd>
-      <trd lng="fr">transplanter</trd>
-      <trdgrp lng="nl">
+  <trdgrp lng="cs">
+    <trd>přesadit</trd>,
+    <trd>přesazovat</trd>
+  </trdgrp>
+  <trd lng="fr">transplanter</trd>
+  <trd lng="hu">&aacute;t&uuml;ltet</trd>
+  <trdgrp lng="nl">
         <trd>transplanteren</trd>,
         <trd>verplanten</trd>,
         <trd>overbrengen</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>presadiť</trd>,
+    <trd>presadzovať</trd>
+  </trdgrp>
+</drv>
     
     <drv mrk="plant.floro0o">
       <kap>floro<tld/>o</kap>
@@ -442,6 +496,7 @@
           cel="flor.0oplantoj">floro<tld/>oj</ref>.
         </dif>
       </snc>
+      <trd lng="id"><ind>tanam</ind>an (ber)bunga</trd>
     </drv>
 
     <drv mrk="plant.dauxra0o">
@@ -465,6 +520,7 @@
       </trdgrp>
       <trd lng="en">perennial plant</trd>
       <trd lng="fr">plante <ind>vivace</ind></trd>
+      <trd lng="id"><ind>tanam</ind>an menahun</trd>
       <trd lng="pl">ro&sacute;lina wieloletnia</trd>
       <trd lng="ru">&c_m;&c_n;&c_o;&c_g;&c_o;&c_l;&c_je;&c_t;&c_n;&c_je;&c_je; &c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;</trd>
     </drv>
@@ -489,12 +545,22 @@
       </trdgrp>
       <trd lng="fr">plante <ind>annuelle</ind></trd>
       <trd lng="hu">egyny&aacute;ri n&ouml;v&eacute;ny</trd>
+      <trd lng="id"><ind>tanam</ind>an semusim</trd>
       <trd lng="pl">ro&sacute;lina jednoroczna</trd>
       <trd lng="ru">&c_o;&c_d;&c_n;&c_o;&c_l;&c_je;&c_t;&c_n;&c_je;&c_je; &c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;</trd>
     </drv>
   </art>
   <!--
   $Log: plant.xml,v $
+  Revision 1.39  2015/07/04 08:37:41  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.38  2015/06/29 16:40:18  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.37  2014/11/09 04:10:22  revo
+  Eko Nur Syah Hidayat: +trd id
+
   Revision 1.36  2013/10/29 19:10:20  revo
   Wolfram Diestel: +floroplanto
 

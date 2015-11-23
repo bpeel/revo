@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: silvi.xml,v 1.13 2004/08/19 16:33:34 revo Exp $">
+<art mrk="$Id: silvi.xml,v 1.15 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>silvi</rad>/o
@@ -17,7 +17,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_a;&c_l;&c_a;&c_s;&c_ja;&c_n;&c_k;&c_a;</trd>
-  <trd lng="cs">p&ecaron;nice</trd>
+  <trdgrp lng="cs">
+    <trd>p&ecaron;nice</trd>,
+    <trd>pěnice</trd>
+  </trdgrp>
   <trd lng="de">Grasm&uuml;cke</trd>
   <trd lng="en">warbler</trd>
   <trd lng="fr">fauvette</trd>
@@ -25,11 +28,18 @@
   <trd lng="nl">grasmussen</trd>
   <trd lng="pl">pokrzewka</trd>
   <trd lng="ru">&c_s;&c_l;&c_a;&c_v;&c_k;&c_a;</trd>
+  <trd lng="sk">penica</trd>
   <trd lng="sv">s&aring;ngf&aring;gel</trd>
 </drv>
 </art>
 <!--
 $Log: silvi.xml,v $
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2004/08/19 16:33:34  revo
 Jeromo Vasxe: + trd fr
 

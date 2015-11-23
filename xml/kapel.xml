@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kapel.xml,v 1.20 2014/01/10 06:10:11 revo Exp $">
+  <art mrk="$Id: kapel.xml,v 1.22 2015/07/04 08:37:36 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>kapel</rad>/o
@@ -127,7 +127,12 @@
       <trd lng="cs">kapela</trd>
       <trd lng="en">chapel</trd>
       <trd lng="es">capilla</trd>
-    </drv>
+      <trdgrp lng="sk">
+    <trd>kapela</trd>,
+    <trd>malý orchester</trd>
+  </trdgrp>
+  <trd lng="cs">kapela, malý orchestr</trd>
+</drv>
 
     <drv mrk="kapel.0estro">
       <kap><tld/>estro</kap>
@@ -150,12 +155,20 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="fr">ma&icirc;tre de chapelle</trd>
-      <trdgrp lng="ru">
+  <trdgrp lng="cs">
+    <trd>dirigent chóru</trd>,
+    <trd>kapelník</trd>
+  </trdgrp>
+  <trd lng="fr">ma&icirc;tre de chapelle</trd>
+  <trdgrp lng="ru">
         <trd>&c_r;&c_je;&c_g;&c_je;&c_n;&c_t;<klr> (&c_c;&c_je;&c_r;&c_k;&c_o;&c_v;&c_n;&c_o;&c_g;&c_o; &c_h;&c_o;&c_r;&c_a;)</klr></trd>,
         <trd>&c_k;&c_a;&c_p;&c_je;&c_l;&c_mol;&c_m;&c_je;&c_j;&c_s;&c_t;&c_je;&c_r;<klr> (&c_v;&c_o;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_j; &c_k;&c_a;&c_p;&c_je;&c_l;&c_l;&c_y;)</klr></trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>dirigent</trd>,
+    <trd>kapelník</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="kapel.0ano">
       <kap><tld/>ano</kap>
@@ -184,11 +197,22 @@
       </rim>
       <trd lng="en">chaplain</trd>
       <trd lng="ru">&c_k;&c_a;&c_p;&c_je;&c_l;&c_l;&c_a;&c_n;</trd>
-    </drv>
+      <trd lng="sk">kaplán</trd>
+  <trdgrp lng="cs">
+    <trd>kaplan</trd>,
+    <trd>kurát</trd>
+  </trdgrp>
+</drv>
 
   </art>
   <!--
   $Log: kapel.xml,v $
+  Revision 1.22  2015/07/04 08:37:36  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.21  2015/06/29 16:33:16  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.20  2014/01/10 06:10:11  revo
   Sergio Pokrovskij: +ekz; apartigis ~anon kaj ~estron.
 

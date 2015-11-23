@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ten.xml,v 1.58 2014/01/09 02:10:22 revo Exp $">
+<art mrk="$Id: ten.xml,v 1.62 2015/07/08 16:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>ten</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -325,6 +325,7 @@
           <ind><tld/>i iun anta&ubreve; la okuloj</ind>
           <klr>(ne &ccirc;esi lin observi)</klr>
           <fnt><bib>UrdHadda</bib>, <lok>p. 6</lok></fnt>.
+          <trd lng="es">mantener algo delante de los ojos</trd>
           <trd lng="fr">avoir qn &agrave; l'<ind>&oelig;il</ind></trd>
         </ekz>
       </dif>
@@ -340,6 +341,7 @@
         <ekz>
           <ind><tld/>i ion en la kapo</ind><fnt>K</fnt> <klr>(konstante
           pensi pri tio)</klr>;
+          <trd lng="es">pensar continuamente en algo</trd>
           <trd lng="fr">avoir qc dans la <ind>t&ecirc;te</ind></trd>
           <trd lng="hu">fejben tart</trd>
         </ekz>
@@ -365,6 +367,7 @@
         </ekz>
         <ekz>
           <ind><tld/>i la vorton</ind><fnt>Z</fnt>;
+          <trd lng="es">ser fiel a la palabra dada</trd>
           <trd lng="fr">tenir parole</trd>
           <trd lng="hu">tartja a szav&aacute;t</trd>
         </ekz>
@@ -383,6 +386,7 @@
         <ekz>
           li scias konstante <ind><tld/>i la atenton de</ind> la
           leganto.
+          <trd lng="es">mantener la atenci&oacute;n</trd>
           <trd lng="fr">tenir en haleine</trd>
           <trd lng="hu">lek&ouml;ti a figyelm&eacute;t</trd>
         </ekz>
@@ -476,6 +480,7 @@
           <klr>(<ref cel="faden.0o">fadeno</ref>)</klr>
           <fnt><aut>L. Bourgois</aut>, <vrk>Esprimaro
           franca-esperanta</vrk>, <lok>1997</lok></fnt>;
+          <trd lng="es">tener el mando</trd>
           <trd lng="fr">tenir les leviers</trd>
           <trd lng="hu">mozgatja a sz&aacute;lakat</trd>
         </ekz>
@@ -578,10 +583,20 @@
     </adm>
   </snc>
   <trd lng="be">&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>dr&zcaron;et</trd>,
+    <trd>m&iacute;t</trd>,
+    <trd>nechat si</trd>,
+    <trd>n&eacute;st</trd>,
+    <trd>podr&zcaron;et</trd>,
+    <trd>udr&zcaron;ovat</trd>,
+    <trd>zachovat</trd>
+  </trdgrp>
   <trd lng="en">hold</trd>
   <trdgrp lng="es">
      <trd>retener</trd>,
-     <trd>mantener</trd>
+     <trd>mantener</trd>,
+     <trd>conservar</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>tenir<klr tip="ind"> (tr.)</klr></trd>,
@@ -611,6 +626,11 @@
    <trd>guardar</trd>
   </trdgrp>
   <trd lng="ru">&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>dr&zcaron;a&tcaron;</trd>,
+    <trd>udr&zcaron;iava&tcaron;</trd>,
+    <trd>zachova&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ten.sin0i">
@@ -779,6 +799,7 @@
       <ekz>
         <ind><tld/>i sin je dispono</ind> de la justico
         <fnt><bib>UrdHadda</bib>, <lok>p. 9</lok></fnt>;
+        <trd lng="es">estar a disposici&oacute;n</trd>
         <trd lng="fr">se <ind>tenir</ind> &agrave; disposition</trd>
         <trd lng="hu">rendelkez&eacute;sre &aacute;ll</trd>
       </ekz>
@@ -792,6 +813,11 @@
     <trd lng="hu">viselkedik</trd>
   </snc>
   <trd lng="be">&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="es">
+    <trd><ind>contener</ind>se</trd>,
+    <trd><ind>mantener</ind>se</trd>,
+    <trd><ind>comportar</ind>se</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>tenir</ind></trd>,
     <trd>se <ind>comporter</ind></trd>,
@@ -844,6 +870,10 @@
       <trd>Festhalten</trd>,
       <trd>F&uuml;hren</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>agarre</trd>,
+      <trd>asimiento</trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd>trzymanie</trd>,
       <trd>chwyt</trd>,
@@ -861,6 +891,9 @@
       <trd>Innehalten</trd>,
       <trd>Haltezeit</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>pausa</trd>
+    </trdgrp>
     <trd lng="hu">z&aacute;r tart&aacute;sa</trd>
   </snc>
   <snc mrk="ten.0o.MUZ">
@@ -874,6 +907,12 @@
     <trd lng="ru">&c_v;&c_y;&c_d;&c_je;&c_r;&c_zh;&c_k;&c_a;
     <klr>(&c_m;&c_u;&c_z;.)</klr></trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dr&zcaron;en&iacute;</trd>,
+    <trd>zadr&zcaron;en&iacute;</trd>
+  </trdgrp>
+  <trd lng="es">tenencia<klr tip="ind"> (mus., fon.; hecho de
+  mantener)</klr></trd>
   <trd lng="fr">tenue<klr tip="ind"> (mus., phon.; fait de
   tenir)</klr></trd>
   <trdgrp lng="hu">
@@ -881,6 +920,10 @@
     <trd>tart&aacute;s</trd>,
     <trd>kitart&aacute;s <klr tip="amb">(pl. hang&eacute;)</klr></trd>,
     <trd>t&aacute;rol&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dr&zcaron;anie</trd>,
+    <trd>zadr&zcaron;anie</trd>
   </trdgrp>
 </drv>
 
@@ -900,10 +943,18 @@
     tip="amb">(&c_n;&c_je;&c_h;&c_t;&c_a;)</klr></trd>,
    <trd>&c_u;&c_t;&c_r;&c_y;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>detentor</trd>,
+    <trd>dr&zcaron;itel</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Halter</trd>,
     <trd>Haltender</trd>,
     <trd>Inhaber</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>poseedor</trd>,
+    <trd>titular<klr tip="ind"> (subst.)</klr></trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>d&eacute;tenteur</trd>,
@@ -923,6 +974,7 @@
     <trd>&c_s;&c_o;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_je;&c_l;&c_mol;
     </trd>
   </trdgrp>
+  <trd lng="sk">dr&zcaron;ite&lcaron;</trd>
 </drv>
 
 <drv mrk="ten.0egi">
@@ -938,6 +990,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd>agarrar</trd>,
+    <trd><ind>enganchar</ind>se a</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>agripper</trd>,
     <trd>se <ind>cramponner</ind> &agrave;</trd>
@@ -971,6 +1027,7 @@
         la turo de David <klr>...</klr> estas konstruita kiel
         <ind>armil<tld/>ejo</ind>
         <fnt><bib>MT</bib>, <lok>&Alt; 4:4</lok></fnt>.
+        <trd lng="es">armer&iacute;a</trd>
         <trd lng="fr">armurerie</trd>
         <trd lng="hu">fegyvert&aacute;r</trd>
         <trd lng="pl">arsena&lstroke;</trd>
@@ -982,9 +1039,20 @@
     <trd>&c_s;&c_k;&c_l;&c_a;&c_d;</trd>,
     <trd>&c_s;&c_h;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>schr&aacute;nka</trd>,
+    <trd>sklad</trd>,
+    <trd>sklad<klr>(i&scaron;t&ecaron;)</klr></trd>,
+    <trd>&uacute;schovna</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Lager</trd>,
     <trd>Aufbewahrungsort</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>almac&eacute;n</trd>,
+    <trd>dep&oacute;sito</trd>,
+    <trd>despensa</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>entrep&ocirc;t</trd>,
@@ -1007,6 +1075,7 @@
     <trd>&c_s;&c_k;&c_l;&c_a;&c_d;</trd>,
     <trd>&c_s;&c_a;&c_r;&c_a;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">&uacute;schov&ncaron;a</trd>
 </drv>
 
 <drv mrk="ten.0ema">
@@ -1024,6 +1093,9 @@
       <trd>bewahrend</trd>,
       <trd>festhaltend</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>persistente</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>makacs</trd>,
       <trd>sz&iacute;v&oacute;s</trd>,
@@ -1038,6 +1110,20 @@
       <trd>&c_c;&c_je;&c_p;&c_k;&c_i;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hou&zcaron;evnat&yacute;</trd>,
+    <trd>lepkav&yacute;</trd>,
+    <trd>lp&iacute;c&iacute;</trd>,
+    <trd>pevn&yacute;</trd>,
+    <trd>tuh&yacute;</trd>,
+    <trd>vazk&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>h&uacute;&zcaron;evnat&yacute;</trd>,
+    <trd>lepkav&yacute;</trd>,
+    <trd>pevn&yacute;</trd>,
+    <trd>tuh&yacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ten.0igxi">
@@ -1066,6 +1152,9 @@
       <trd><klr>sich </klr>halten</trd>,
       <trd><klr>sich </klr>festhalten</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>aferrarse</trd>
+    </trdgrp>
     <trd lng="hu">tartja mag&aacute;t</trd>
   </snc>
   <snc mrk="ten.0igxi.dauxri">
@@ -1083,6 +1172,9 @@
     <trdgrp lng="de">
       <trd><klr>sich </klr>halten (k&ouml;nnen)</trd>,
       <trd>&uuml;berdauern</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>mantenerse</trd>
     </trdgrp>
     <trdgrp lng="hu">
       <trd>tart <klr tip="ind">(id&odblac;ben)</klr></trd>,
@@ -1156,6 +1248,11 @@
     <trd>bearing</trd>,
     <trd>posture</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>actitud</trd>,
+    <trd>conducta<klr tip="ind"> (actitud)</klr></trd>,
+    <trd>compostura<klr tip="ind"> (actitud)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>attitude</trd>,
     <trd>conduite<klr tip="ind"> (attitude)</klr></trd>,
@@ -1226,6 +1323,9 @@
       <trd>grip</trd>,
       <trd>hilt</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>mango<klr tip="ind"> (de una herramienta)</klr></trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>manche<klr tip="ind"> (d'un instrument)</klr></trd>,
       <trd>f&ucirc;t<klr tip="ind"> (manche)</klr></trd>,
@@ -1262,6 +1362,9 @@
       <trd>Halter</trd>,
       <trd>Halterung</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>palanca para fijar</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>tart&oacute;</trd>,
       <trd>r&ouml;gz&iacute;t&odblac;</trd>
@@ -1274,6 +1377,20 @@
     <trd
     lng="ru">&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dr&zcaron;adlo</trd>,
+    <trd>dr&zcaron;&aacute;k</trd>,
+    <trd>dr&zcaron;&aacute;tko</trd>,
+    <trd>heft</trd>,
+    <trd>n&aacute;sada</trd>,
+    <trd>n&aacute;sadec</trd>,
+    <trd>rukov&ecaron;&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dr&zcaron;adlo</trd>,
+    <trd>rukov&auml;&tcaron;</trd>,
+    <trd>r&uacute;&ccaron;ka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ten.0ujo">
@@ -1296,6 +1413,7 @@
     <trd>&c_s;&c_u;&c_d;&c_z;&c_ib;&c_n;&c_a;</trd>
   </trdgrp>
   <trd lng="de">Beh&auml;lter</trd>
+  <trd lng="es">dep&oacute;sito</trd>
   <trd lng="fr">r&eacute;servoir</trd>
   <trd lng="hu">tart&aacute;ly</trd>
   <trdgrp lng="pl">
@@ -1303,6 +1421,15 @@
     <trd>rezerwuar</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;&c_u;&c_a;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>n&aacute;doba</trd>,
+    <trd>n&aacute;dr&zcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>n&aacute;doba</trd>,
+    <trd>n&aacute;dr&zcaron;</trd>,
+    <trd>n&aacute;dr&zcaron;ka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ten.al0i">
@@ -1327,9 +1454,17 @@
     <trd>&c_u;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;
     </trd>
   </trdgrp>
+  <trd lng="cs">p&rcaron;idr&zcaron;et</trd>
   <trdgrp lng="de">
     <trd>beif&uuml;gen</trd>,
     <trd>hinzuf&uuml;gen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>amarrar</trd>,
+    <trd>vincular</trd>,
+    <trd>conectar</trd>,
+    <trd>adjuntar</trd>,
+    <trd>adherir</trd>
   </trdgrp>
   <trd lng="fr">attacher</trd>
   <trdgrp lng="hu">
@@ -1342,6 +1477,7 @@
     <trd>przyczepia&cacute;</trd>,
     <trd>przylega&cacute;</trd>
   </trdgrp>
+  <trd lng="sk">pridr&zcaron;a&tcaron;</trd>
 </drv>
 
 <drv mrk="ten.al0o">
@@ -1354,6 +1490,7 @@
     </dif>
   </snc>
   <trd lng="de">Verschluss</trd>
+  <trd lng="es">implosi&oacute;n</trd>
   <trd lng="fr">catastase</trd>
   <trdgrp lng="hu">
     <trd>z&aacute;ralkot&aacute;s</trd>,
@@ -1380,6 +1517,10 @@
     <trd>&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_t;&c_r;&c_y;&c_m;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>unirse</trd>,
+    <trd>adherirse</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>tenir (&agrave; qc)<klr tip="ind"> (s'y tenir
@@ -1426,6 +1567,10 @@
     <trd>&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;
     </trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>presentar<klr tip="ind"> (proponer)</klr></trd>,
+    <trd>proponer<klr tip="ind"> (presentar)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>pr&eacute;senter<klr tip="ind"> (proposer)</klr></trd>,
     <trd>proposer<klr tip="ind"> (pr&eacute;senter)</klr></trd>
@@ -1462,8 +1607,11 @@
       <ref cel="fleg.0i">flegi</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">b&yacute;t v dobr&eacute;m stavu</trd>
+  <trd lng="es">mantener<klr> (en buen estado)</klr></trd>
   <trd lng="fr">maintenir<klr> (en &eacute;tat)</klr></trd>
   <trd lng="pl">utrzymywa&cacute;</trd>
+  <trd lng="sk">by&tcaron; v dobrom stave</trd>
 </drv>
 
 <drv mrk="ten.bon0o">
@@ -1480,6 +1628,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">mantenimiento</trd>
   <trd lng="fr">maintenance</trd>
   <trdgrp lng="pl">
     <trd>utrzymanie</trd>,
@@ -1507,6 +1656,7 @@
       <trd>&c_u;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;
       </trd>
     </trdgrp>
+    <trd lng="es">abrazar</trd>
     <trd lng="hu">&aacute;tfog</trd>
     <trdgrp lng="pl">
       <trd>obejmowa&cacute;</trd>
@@ -1535,6 +1685,9 @@
         <fnt><bib>NT</bib>, <lok>&Luk; 6:29</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="es">
+      <trd>alejar</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>eltart <klr tip="ind">(vmit&odblac;l)</klr></trd>,
       <trd>t&aacute;vol <ind>tart</ind></trd>
@@ -1579,6 +1732,10 @@
         <fnt><bib>MT</bib>, <lok>&Psa; 19:13</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="es">
+      <trd>disuadir</trd>,
+      <trd>proteger</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>visszatart</trd>,
       <trd>meg&oacute;v</trd>
@@ -1594,6 +1751,15 @@
     <trd>&c_s;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;
     </trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>zadr&zcaron;et <klr>(n&ecaron;koho od n&ecaron;&ccaron;eho)</klr></trd>,
+    <trd>zdr&zcaron;et</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>preservar<klr tip="ind"> (de un error)</klr></trd>,
+    <trd>impedir</trd>,
+    <trd>retener</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>pr&eacute;server<klr tip="ind"> (d'une erreur)</klr></trd>,
     <trd>emp&ecirc;cher</trd>,
@@ -1606,168 +1772,7 @@
   </trdgrp>
   <trd
   lng="ru">&c_u;&c_d;&c_je;&c_r;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
-</drv>
-
-<drv mrk="ten.sinde0i">
-  <kap>sin de<tld/>i</kap>
-  <snc>
-    <dif>
-      Ne permesi al si:
-      <ekz>
-        kriu per la tuta gor&gcirc;o, ne de<tld/>u vin
-        <fnt><bib>MT</bib>, <lok>&Jes; 58:1</lok></fnt>;
-      </ekz>
-      <ekz>
-        ne povi sin de<tld/>i de admiro<fnt>Z</fnt>, de rido, de krio,
-        de apla&ubreve;do;
-      </ekz>
-      <ekz>
-        de<tld/>i sin de vino kaj de ebriiga&jcirc;o
-        <fnt><bib>MT</bib>, <lok>&Nom; 6:3</lok></fnt>,
-        de &ccirc;ia formo de malbono
-        <fnt><bib>NT</bib>, <lok>&Te1; 5:22</lok></fnt>,
-        de karnaj voluptoj
-        <fnt><bib>NT</bib>, <lok>&Pe1; 2:11</lok></fnt>,
-        de parolado
-        <fnt><bib>MT</bib>, <lok>&Ijo; 4:2</lok></fnt>;
-      </ekz>
-      <ekz>
-        min de<tld/>i fari&gcirc;is mia unika devo
-        <fnt><bib>Revadoj</bib>, <lok>Unua promenado</lok></fnt>;
-      </ekz>
-      <ekz>
-        nur de<tld/>u vin, ke vi ne man&gcirc;u la sangon
-        <fnt><bib>MT</bib>, <lok>&Rea; 12:23</lok></fnt>;
-      </ekz>
-      <ekz>
-        Karen ne povis sin de<tld/>i, por ne fari kelke da
-        dancpa&scirc;oj
-        <fnt><bib>Fab2</bib>, <lok>Ru&gcirc;aj &scirc;uoj</lok></fnt>;
-      </ekz>
-      <ekz>
-        ne povi sin de<tld/>i montri grandan intereson<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        tio &ccirc;i neniel devos nin de<tld/>i de enkonduki tiun
-        &ccirc;i
-        oportuna&jcirc;on en nian artan kaj konscie kreitan lingvon
-        <fnt><bib>LR</bib>, <lok>Pri la regulo de la
-        akcento</lok></fnt>;
-      </ekz>
-      <ekz>
-        mi ne povas min de<tld/>i kaj ne skribi al vi pri tio.
-      </ekz>
-    </dif>
-    <refgrp tip="vid">
-      <ref cel="abstin.0i">abstini</ref>
-    </refgrp>
-    <rim>
-      Kiel aperas en la ekzemploj, la manieroj konstrui tiun verbon
-      estas
-      sufi&ccirc;e multaj:
-      <ekz>
-        de<tld/>i sin, ke oni ne faru...;
-      </ekz>
-      <ekz>
-        de<tld/>i sin, por ne fari...;
-      </ekz>
-      <ekz>
-        de<tld/>i sin de farado...;
-      </ekz>
-      <ekz>
-        de<tld/>i sin de fari...;
-      </ekz>
-      <ekz>
-        de<tld/>i sin fari...
-      </ekz>
-      La konstruoj per negativa subpropozicio nun aspektas
-      ar&hcirc;aikaj, kaj tiu kun la prepozicio "de" anta&ubreve;
-      infinitivo
-      aspektas erara.
-    </rim>
-    <trdgrp lng="pl">
-      <trd>powstrzymywa&cacute; si&eogonek;</trd>,
-      <trd>wstrzymywa&cacute; si&eogonek;</trd>
-    </trdgrp>
-  </snc>
-  <snc>
-    <uzo tip="klr">(en vo&ccirc;donado)</uzo>
-    <dif>
-      Ne doni sian <ref cel="vocx.0o.opinio">vo&ccirc;on</ref>.
-    </dif>
-    <trdgrp lng="pl">
-      <trd>wstrzymywa&cacute; si&eogonek;<klr> od g&lstroke;osu</klr>
-      </trd>
-    </trdgrp>
-  </snc>
-  <trdgrp lng="be">
-    <trd>&c_u;&c_s;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
-    <trd>&c_u;&c_s;&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_c;&c_a;</trd>
-  </trdgrp>
-  <trdgrp lng="fr">
-    <trd>s'<ind>abstenir</ind> (de)</trd>,
-    <trd>s'<ind>emp&ecirc;cher</ind> (de)</trd>,
-    <trd>se <ind>passer</ind> (de)</trd>,
-    <trd>se <ind>priver</ind> (de)</trd>,
-    <trd>se <ind>retenir</ind> (de)</trd>
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>tart&oacute;zkodik <klr tip="amb">(vmit&odblac;l)</klr></trd>,
-    <trd>&oacute;vakodik</trd>
-  </trdgrp>
-  <trdgrp lng="ru">
-    <trd>&c_v;&c_o;&c_z;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
-    <trd>&c_v;&c_o;&c_z;&c_d;&c_je;&c_r;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
-  </trdgrp>
-</drv>
-
-<drv mrk="ten.de0igxema">
-  <kap>de<tld/>i&gcirc;ema</kap>
-  <snc mrk="ten.de0igxema.PSI">
-    <dif>
-      Kiu ordinare de<tld/>i&gcirc;as, restas diskreta, ne estas
-      <ref tip="ant" cel="miks.en0igxema.PSI">enmiksi&gcirc;ema</ref>:
-      <ekz>
-        la sinjorino faris ekrideton de<tld/>i&gcirc;eman kaj nesondeblan
-        <fnt>
-          <aut>Chiung Yao, trad. Vejdo</aut>,
-          <vrk><url
-          ref="http://www.elerno.cn/elibro/En%20Profunda%20Korto.pdf">
-          En Profunda Korto</url></vrk>,
-          <lok>2013</lok>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trdgrp lng="fr">
-    <trd>discret<klr> (r&eacute;serv&eacute;)</klr></trd>,
-    <trd>r&eacute;serv&eacute;<klr> (discret)</klr></trd>
-  </trdgrp>
-</drv>
-
-<drv mrk="ten.de0igxi">
-  <kap>de<tld/>i&gcirc;i</kap>
-  <snc>
-    <ref tip="dif" cel="ten.sinde0i">sin de<tld/>i</ref>
-  </snc>
-  <trdgrp lng="be">
-    <trd>&c_u;&c_s;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
-    <trd>&c_u;&c_s;&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_c;&c_a;</trd>
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>tart&oacute;zkodik <klr tip="amb">(vmit&odblac;l)</klr></trd>,
-    <trd>&oacute;vakodik</trd>
-  </trdgrp>
-  <trdgrp lng="pl">
-    <trd>powstrzymywa&cacute; si&eogonek;</trd>,
-    <trd>wstrzymywa&cacute; si&eogonek;</trd>
-  </trdgrp>
-  <adm>
-    PV identigas de~i&gcirc;o, sinde~emo kaj sinde~o. Tio &scirc;ajnas
-    troa. Mankas al mi ekz-oj por de~i&gcirc;i kaj &gcirc;iaj
-    deriva&jcirc;oj, sed mi kredas ne erari, dirante ke &gcirc;i
-    sinonimas kun "sin de~i". <aut>MB</aut>
-  </adm>
+  <trd lng="sk">zadr&zcaron;a&tcaron;</trd>
 </drv>
 
 <drv mrk="ten.el0emo">
@@ -1789,6 +1794,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">resistencia</trd>
   <trd lng="fr">endurance</trd>
 </drv>
 
@@ -1828,6 +1834,10 @@
       </ekz>
       <ekz>
         <ind>el<tld/>ebla</ind> mizero<fnt>Z</fnt>;
+        <trdgrp lng="es">
+          <trd>soportable</trd>,
+          <trd>tolerable</trd>
+        </trdgrp>
         <trdgrp lng="fr">
           <trd>supportable</trd>,
           <trd>soutenable</trd>,
@@ -1841,6 +1851,11 @@
       </ekz>
       <ekz>
         <ind>neel<tld/>ebla</ind> doloro;
+        <trdgrp lng="es">
+          <trd>insoportable</trd>,
+          <trd>insostenible</trd>,
+          <trd>intolerable</trd>
+        </trdgrp>
         <trdgrp lng="fr">
           <trd>insupportable</trd>,
           <trd>insoutenable</trd>,
@@ -1877,6 +1892,22 @@
     <trd>&c_v;&c_y;&c_t;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_s;&c_t;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nepovolit</trd>,
+    <trd>p&rcaron;est&aacute;t</trd>,
+    <trd>strp&ecaron;t</trd>,
+    <trd>vydr&zcaron;et</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>aushalten</trd>,
+    <trd>ertragen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>soportar<klr tip="ind"> (resistir)</klr></trd>,
+    <trd>resistir</trd>,
+    <trd>tolerar<klr tip="ind"> (aguantar)</klr></trd>,
+    <trd>aguantar</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>supporter<klr tip="ind"> (endurer)</klr></trd>,
     <trd>endurer</trd>,
@@ -1886,10 +1917,6 @@
     <trd>kib&iacute;r</trd>,
     <trd>elvisel</trd>,
     <trd>kitart</trd>
-  </trdgrp>
-  <trdgrp lng="de">
-    <trd>aushalten</trd>,
-    <trd>ertragen</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>wytrzymywa&cacute;</trd>,
@@ -1906,6 +1933,10 @@
     </trd>,
     <trd>&c_v;&c_y;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vydr&zcaron;a&tcaron;</trd>,
+    <trd>zn&aacute;&scaron;a&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -2052,6 +2083,10 @@
     <trd>&c_m;&c_ja;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">cabre</trd>
+  <trdgrp lng="es">
+    <trd>contener<klr tip="ind"> (tener cierta capacidad)</klr></trd>,
+    <trd>incluir</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>contenir<klr tip="ind"> (renfermer, avoir une certaine
     capacit&eacute;)</klr></trd>,
@@ -2072,6 +2107,8 @@
     <trd>&c_v;&c_m;&c_je;&c_shch;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="tp">jo</trd>
+  <trd lng="sk">obsahova&tcaron;</trd>
+  <trd lng="cs">obs&aacute;hnout</trd>
 </drv>
 
 <drv mrk="ten.en0o">
@@ -2095,6 +2132,11 @@
     tip="amb">(&c_ch;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib; &c_w;
     &c_ch;&c_y;&c_m;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
   </trdgrp>
+  <trd lng="cs">obsah</trd>
+  <trdgrp lng="es">
+   <trd>contenido<klr tip="ind"> (cantidad, proporci&oacute;n)</klr></trd>,
+    <trd>concentraci&oacute;n<klr tip="ind"> (contenido)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
    <trd>teneur<klr tip="ind"> (quantit&eacute;, proportion)</klr></trd>,
     <trd>concentration<klr tip="ind"> (teneur)</klr></trd>,
@@ -2106,6 +2148,7 @@
   lng="ru">&c_s;&c_o;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_n;&c_i;&c_je;<klr>
   (&c_ch;&c_je;&c_g;&c_o;-&c_l;. &c_v; &c_ch;&c_jo;&c_m;-&c_l;.)</klr>
   </trd>
+  <trd lng="sk">obsah</trd>
 </drv>
 
 <drv mrk="ten.for0i">
@@ -2150,7 +2193,15 @@
     &c_a;&c_d;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ib;,
     &c_d;&c_a;&c_l;&c_jo;&c_k;&c_a;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nep&rcaron;ipustit</trd>,
+    <trd>odv&eacute;st</trd>,
+    <trd>zdr&zcaron;ovat</trd>
+  </trdgrp>
   <trd lng="de">abhalten</trd>
+  <trdgrp lng="es">
+    <trd>mantener lejos</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>tenir <ind>&eacute;loign&eacute;</ind></trd>,
     <trd>tenir &agrave; l'<ind>&eacute;cart</ind></trd>
@@ -2163,6 +2214,7 @@
     <trd>op&eogonek;dza&cacute; si&eogonek;</trd>,
     <trd>by&cacute; <ind>pow&sacute;ci&aogonek;gliwym</ind></trd>
   </trdgrp>
+  <trd lng="sk">dr&zcaron;a&tcaron; od seba</trd>
 </drv>
 
 <drv mrk="ten.for0o">
@@ -2196,6 +2248,9 @@
       <aut>MB</aut>
     </adm>
   </snc>
+  <trd lng="cs">zdr&zcaron;enlivost</trd>
+  <trd lng="es">restricci&oacute;n</trd>
+  <trd lng="sk">zdr&zcaron;anlivos&tcaron;</trd>
 </drv>
 
 <drv mrk="ten.kune0i">
@@ -2226,6 +2281,7 @@
   </adm>
   <trd lng="be">&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol; <klr
   tip="amb">(&c_r;&c_a;&c_z;&c_a;&c_m;)</klr></trd>
+  <trd lng="es">mantener juntos</trd>
   <trd lng="fr">tenir<klr tip="ind"> (attach&eacute;)</klr></trd>
   <trd lng="hu">egy&uuml;tt <ind> tart</ind></trd>
   <trdgrp lng="pl">
@@ -2257,6 +2313,7 @@
     &c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_y;&c_m;&c_ib;
     &c_n;&c_a;&c_m;&c_a;&c_g;&c_a;&c_n;&c_mol;&c_n;&c_ja;&c_m;&c_ib;)
     </klr></trd>
+    <trd lng="es">mantener juntos</trd>
     <trdgrp lng="pl">
       <trd>&lstroke;&aogonek;czy&cacute;</trd>,
       <trd>spina&cacute;</trd>,
@@ -2287,6 +2344,7 @@
   </snc>
   <trd lng="be">&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol; <klr
   tip="amb">(&c_r;&c_a;&c_z;&c_a;&c_m;)</klr></trd>
+  <trd lng="es">mantener juntos</trd>
   <trd lng="fr">maintenir ensemble</trd>
   <trdgrp lng="hu">
     <trd>&ouml;sszefog</trd>,
@@ -2322,12 +2380,14 @@
       <ekz>
         <uzo tip="fak">KUI</uzo>
         <ind>kun<tld/>i&gcirc;ema</ind> krema&jcirc;o, pulvoro;
+        <trd lng="es">pastoso</trd>
         <trd lng="fr">p&acirc;teux</trd>
       </ekz>
       <ekz>
         bona <ind>kun<tld/>i&gcirc;o</ind> inter la eroj.
         <trd
         lng="be">&c_z;&c_l;&c_u;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+        <trd lng="es">cohesi&oacute;n</trd>
         <trd lng="fr">coh&eacute;sion</trd>
         <trdgrp lng="hu">
           <trd>&ouml;sszetart&aacute;s</trd>,
@@ -2345,14 +2405,13 @@
     <aut>MB</aut>
   </adm>
   <trdgrp lng="be">
-    <trd>&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_c;&c_a; <klr
-    tip="amb">(&c_r;&c_a;&c_z;&c_a;&c_m;)</klr></trd>,
+    <trd>&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_c;&c_a; <klr tip="amb">(&c_r;&c_a;&c_z;&c_a;&c_m;)</klr></trd>,
     <trd>&c_z;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trd lng="es"><ind>mantener</ind>se juntos</trd>
   <trd lng="fr">se <ind>tenir</ind><klr tip="ind"> (&ecirc;tre
   li&eacute;)</klr></trd>
-  <trd lng="ru">
-  &c_s;&c_o;&c_je;&c_d;&c_i;&c_n;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trd lng="ru">&c_s;&c_o;&c_je;&c_d;&c_i;&c_n;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
 </drv>
 
 <drv mrk="ten.re0i">
@@ -2476,6 +2535,21 @@
   </snc>
   <trd lng="be">
   &c_u;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>hromadit</trd>,
+    <trd>j&iacute;mat</trd>,
+    <trd>nahromadit</trd>,
+    <trd>zabavit</trd>,
+    <trd>zachycovat</trd>,
+    <trd>zadr&zcaron;et</trd>,
+    <trd>zadr&zcaron;ovat</trd>,
+    <trd>zdr&zcaron;et</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>retener</trd>,
+    <trd>contener<klr tip="ind"> (retener)</klr></trd>,
+    <trd>mantener<klr tip="ind"> (retener)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>retenir</trd>,
     <trd>contenir<klr tip="ind"> (retenir)</klr></trd>,
@@ -2493,56 +2567,147 @@
   </trdgrp>
   <trd
   lng="ru">&c_u;&c_d;&c_je;&c_r;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>hromadi&tcaron;</trd>,
+    <trd>zabavi&tcaron;</trd>,
+    <trd>zachyt&aacute;va&tcaron;</trd>,
+    <trd>zadr&zcaron;a&tcaron;</trd>,
+    <trd>zdr&zcaron;a&tcaron;</trd>
+  </trdgrp>
 </drv>
 
-<drv mrk="ten.sinde0o">
-  <kap>sinde<tld/>o</kap>
-  <snc>
+<drv mrk="ten.sinde0i">
+  <kap>sin de<tld/>i,
+  <var><kap>sinde<tld/>i</kap></var>,
+  <var><kap>de<tld/>i&gcirc;i</kap></var>
+  </kap>
+  <snc mrk="ten.sinde0i.KOMUNE">
     <dif>
-      Ago sin de<tld/>i:
+      Ne permesi al si:
       <ekz>
-        vo&ccirc;doni per jes, ne a&ubreve; sindeteno
-        <fnt><bib>PIV1</bib></fnt>;
+        kriu per la tuta gor&gcirc;o, ne de<tld/>u vin
+        <fnt><bib>MT</bib>, <lok>&Jes; 58:1</lok></fnt>;
       </ekz>
       <ekz>
-        <uzo tip="stl">ARK</uzo>
-        estas eble per <ind>sinde<tld/>ado</ind>
-        <klr>(<ref tip="vid" cel="abstin.0ado">abstinado</ref>)</klr>
-        kaj korpureco <klr>[...]</klr> atingi ian mistikan unuecon
-        kun malsupera dia&jcirc;o
-        <fnt><bib>I&scirc;tar</bib>,<lok>&ccirc;ap. 6</lok></fnt>.
-        <trd lng="fr">abstinence</trd>
-        <trd lng="hu">&ouml;nmegtart&oacute;ztat&aacute;s</trd>
+        ne povi sin de<tld/>i de admiro<fnt>Z</fnt>, de rido, de krio,
+        de apla&ubreve;do;
+      </ekz>
+      <ekz>
+        de<tld/>i sin de vino kaj de ebriiga&jcirc;o
+        <fnt><bib>MT</bib>, <lok>&Nom; 6:3</lok></fnt>,
+        de &ccirc;ia formo de malbono
+        <fnt><bib>NT</bib>, <lok>&Te1; 5:22</lok></fnt>;
+      </ekz>
+      <ekz>
+        min de<tld/>i fari&gcirc;is mia unika devo
+        <fnt><bib>Revadoj</bib>, <lok>Unua promenado</lok></fnt>;
+      </ekz>
+      <ekz>
+        nur de<tld/>u vin, ke vi ne man&gcirc;u la sangon
+        <fnt><bib>MT</bib>, <lok>&Rea; 12:23</lok></fnt>;
+      </ekz>
+      <ekz>
+        Karen ne povis sin de<tld/>i, por ne fari kelke da
+        dancpa&scirc;oj
+        <fnt><bib>Fab2</bib>, <lok>Ru&gcirc;aj &scirc;uoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        ne povi sin de<tld/>i montri grandan intereson<fnt>Z</fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="abstin.0i">abstini</ref>
+    </refgrp>
+    <rim>
+      Kiel aperas en la ekzemploj, la manieroj konstrui tiun verbon
+      estas
+      sufi&ccirc;e multaj:
+      <ekz>
+        de<tld/>i sin, ke oni ne faru...;
+      </ekz>
+      <ekz>
+        de<tld/>i sin, por ne fari...;
+      </ekz>
+      <ekz>
+        de<tld/>i sin de farado...;
+      </ekz>
+      <ekz>
+        de<tld/>i sin de fari...;
+      </ekz>
+      <ekz>
+        de<tld/>i sin fari...
+      </ekz>
+      La konstruo per negativa subfrazo nun aspektas
+      arkaika:
+      <ekz>
+        mi ne povas min de<tld/>i kaj ne skribi al vi pri tio.
+      </ekz>
+      La konstruo kun la prepozicio "de" anta&ubreve;
+      infinitivo aspektas erara:
+      <ekz>
+        tio &ccirc;i neniel devos nin de<tld/>i de enkonduki tiun
+        &ccirc;i oportuna&jcirc;on en nian artan kaj konscie kreitan lingvon
+        <fnt><bib>LR</bib>, <lok>Pri la regulo de la
+        akcento</lok></fnt>.
+      </ekz>
+    </rim>
+    <trdgrp lng="pl">
+      <trd>powstrzymywa&cacute; si&eogonek;</trd>,
+      <trd>wstrzymywa&cacute; si&eogonek;</trd>
+    </trdgrp>
   </snc>
-  <trd lng="be">
-  &c_u;&c_s;&c_t;&c_r;&c_y;&c_m;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
-  <trdgrp lng="fr">
-    <trd>abstention</trd>,
-    <trd>r&eacute;ticence</trd>
+  <snc>
+    <uzo tip="klr">(en vo&ccirc;donado)</uzo>
+    <dif>
+      Ne doni sian <ref cel="vocx.0o.opinio">vo&ccirc;on</ref>.
+    </dif>
+    <trdgrp lng="pl">
+      <trd>wstrzymywa&cacute; si&eogonek;<klr> od g&lstroke;osu</klr>
+      </trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_s;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_u;&c_s;&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
-  <trd lng="hu">tart&oacute;zkod&aacute;s <klr
-  tip="amb">(vmit&odblac;l)</klr></trd>
-  <trdgrp lng="pl">
-    <trd>powstrzymywanie si&eogonek;</trd>,
-    <trd>abstynencja</trd>,
-    <trd>pow&sacute;ci&aogonek;gliwo&sacute;&cacute;</trd>
+  <trdgrp lng="es">
+    <trd><ind>abstener</ind>se (de)</trd>,
+    <trd><ind>privar</ind>se (de)</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>s'<ind>abstenir</ind> (de)</trd>,
+    <trd>s'<ind>emp&ecirc;cher</ind> (de)</trd>,
+    <trd>se <ind>passer</ind> (de)</trd>,
+    <trd>se <ind>priver</ind> (de)</trd>,
+    <trd>se <ind>retenir</ind> (de)</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>tart&oacute;zkodik <klr tip="amb">(vmit&odblac;l)</klr></trd>,
+    <trd>&oacute;vakodik</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_z;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_o;&c_z;&c_d;&c_je;&c_r;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
 </drv>
 
 <drv mrk="ten.sinde0ema">
-  <kap>sinde<tld/>ema</kap>
-  <snc>
+  <kap>sinde<tld/>ema,
+  <var><kap>de<tld/>i&gcirc;ema</kap></var></kap>
+  <snc mrk="ten.sinde0ema.PSI">
     <dif>
       Singarda, inklina de<tld/>i sin de senpripensaj agoj a&ubreve;
-      paroloj,
-      de montri&gcirc;emo:
+      paroloj, de montri&gcirc;emo;
+      ne <ref tip="ant" cel="miks.en0igxema.PSI">enmiksi&gcirc;ema</ref>:
       <ekz>
         &ccirc;u la ka&ubreve;zoj de lia <ind>sinde<tld/>emo</ind>
-        anta&ubreve;
-        junulinoj en Betra&hcirc; estas amo al &scirc;i?
-        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;ap. 23</lok></fnt>;
+        anta&ubreve; junulinoj en Betra&hcirc; estas amo al &scirc;i?
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;ap. 23a</lok></fnt>;
+        <trdgrp lng="es">
+          <trd>reserva<klr tip="ind"> (moderaci&oacute;n)</klr></trd>,
+          <trd>moderaci&oacute;n</trd>,
+          <trd>prudencia</trd>
+        </trdgrp>
         <trdgrp lng="fr">
           <trd>r&eacute;serve<klr tip="ind">
           (mod&eacute;ration)</klr></trd>,
@@ -2558,10 +2723,20 @@
       </ekz>
       <ekz>
         <ind>nesinde<tld/>ema</ind>j amemaj sentoj
-        <fnt><bib>Revadoj</bib>, <lok>Deka promenado</lok></fnt>.
+        <fnt><bib>Revadoj</bib>, <lok>Deka promenado</lok></fnt>;
         <trd lng="fr">expansif<klr tip="ind"> (de
         caract&egrave;re)</klr></trd>
         <trd lng="hu">t&uacute;l&aacute;rad&oacute;</trd>
+      </ekz>
+      <ekz>
+        la sinjorino faris ekrideton de<tld/>i&gcirc;eman kaj nesondeblan
+        <fnt>
+          <aut>Chiung Yao, trad. Vejdo</aut>,
+          <vrk><url
+          ref="http://www.elerno.cn/elibro/En%20Profunda%20Korto.pdf">
+          En Profunda Korto</url></vrk>,
+          <lok>2013</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -2574,13 +2749,61 @@
     <trd>&c_s;&c_t;&c_r;&c_y;&c_m;&c_a;&c_n;&c_y;</trd>,
     <trd>&c_p;&c_a;&c_m;&c_ja;&c_r;&c_k;&c_o;&c_w;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>discreto</trd>,
+    <trd>prudente</trd>,
+    <trd>reservado</trd>,
+    <trd>reticente</trd>
+  </trdgrp>
   <trdgrp lng="fr">
-    <trd>r&eacute;serv&eacute;</trd>,
     <trd>discret</trd>,
     <trd>prudent</trd>,
+    <trd>r&eacute;serv&eacute;</trd>,
     <trd>r&eacute;ticent</trd>
   </trdgrp>
   <trdgrp lng="pl">
+    <trd>pow&sacute;ci&aogonek;gliwo&sacute;&cacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ten.sinde0o">
+  <kap>sinde<tld/>o,
+  <var><kap>de<tld/>i&gcirc;o</kap></var>
+  </kap>
+  <snc mrk="ten.sinde0o.KOMUNE">
+    <dif>
+      Ago sin de<tld/>i:
+      <ekz>
+        vo&ccirc;doni per jes, ne a&ubreve; sinde<tld/>o
+        <fnt><bib>PIV1</bib></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">ARK</uzo>
+        estas eble per <ind>sinde<tld/>ado</ind>
+        <klr>(<ref tip="vid" cel="abstin.0ado">abstinado</ref>)</klr>
+        kaj korpureco <klr>[...]</klr> atingi ian mistikan unuecon
+        kun malsupera dia&jcirc;o
+        <fnt><bib>I&scirc;tar</bib>,<lok>&ccirc;ap. 6</lok></fnt>.
+        <trd lng="es">abstinencia</trd>
+        <trd lng="fr">abstinence</trd>
+        <trd lng="hu">&ouml;nmegtart&oacute;ztat&aacute;s</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_s;&c_t;&c_r;&c_y;&c_m;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="es">
+    <trd>abstenci&oacute;n</trd>,
+    <trd>renuencia</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>abstention</trd>,
+    <trd>r&eacute;ticence</trd>
+  </trdgrp>
+  <trd lng="hu">tart&oacute;zkod&aacute;s <klr
+  tip="amb">(vmit&odblac;l)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>powstrzymywanie si&eogonek;</trd>,
+    <trd>abstynencja</trd>,
     <trd>pow&sacute;ci&aogonek;gliwo&sacute;&cacute;</trd>
   </trdgrp>
 </drv>
@@ -2622,6 +2845,15 @@
     tip="amb">(&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_c;&c_a;)</klr></trd>,
     <trd>&c_m;&c_a;&c_n;&c_e;&c_r;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>chov&aacute;n&iacute;</trd>,
+    <trd>zp&uring;sob my&scaron;len&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>comportamiento</trd>,
+    <trd>conducta<klr tip="ind"> (comportamiento)</klr></trd>,
+    <trd>actitud<klr tip="ind"> (comportamiento)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>comportement</trd>,
     <trd>conduite<klr tip="ind"> (comportement)</klr></trd>,
@@ -2641,6 +2873,10 @@
     <trd>&c_p;&c_o;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_m;&c_a;&c_n;&c_je;&c_r;&c_a;
     &c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pr&iacute;stup</trd>,
+    <trd>spr&aacute;vanie sa</trd>
   </trdgrp>
 </drv>
 
@@ -2789,6 +3025,11 @@
     </trd>,
     <trd>&c_p;&c_a;&c_d;&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>sostener</trd>,
+    <trd>apoyar<klr tip="ind"> (sostener)</klr></trd>,
+    <trd>respaldar<klr tip="ind"> (sostener)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>soutenir</trd>,
     <trd>appuyer<klr tip="ind"> (soutenir)</klr></trd>,
@@ -2799,6 +3040,19 @@
     <trd>
     &c_p;&c_o;&c_d;&c_d;&c_je;&c_r;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;
     </trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>podoprie&tcaron; <klr>(stav.)</klr></trd>,
+    <trd>podporova&tcaron;</trd>,
+    <trd>udr&zcaron;ova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>napom&aacute;hat</trd>,
+    <trd>podep&rcaron;&iacute;t</trd>,
+    <trd>podporovat</trd>,
+    <trd>podpo&rcaron;it</trd>,
+    <trd>udr&zcaron;et</trd>,
+    <trd>vypomoci</trd>
   </trdgrp>
 </drv>
 
@@ -2824,6 +3078,18 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_t;&c_r;&c_y;&c_m;&c_k;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>dotace</trd>,
+    <trd>podpora</trd>,
+    <trd>p&rcaron;&iacute;sp&ecaron;vek</trd>,
+    <trd>v&yacute;pomoc</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>sost&eacute;n</trd>,
+    <trd>apoyo<klr tip="ind"> (sost&eacute;n)</klr></trd>,
+    <trd>colaboraci&oacute;n<klr tip="ind"> (sost&eacute;n)</klr></trd>,
+    <trd>soporte<klr tip="ind"> (sost&eacute;n)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>soutien</trd>,
     <trd>appui<klr tip="ind"> (soutien)</klr></trd>,
@@ -2839,6 +3105,10 @@
     <trd>oparcie</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_d;&c_je;&c_r;&c_zh;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>podpora</trd>,
+    <trd>pr&iacute;spevok</trd>
+  </trdgrp>
   <trd lng="vo">yuf</trd>
 </drv>
 
@@ -2861,6 +3131,10 @@
       <trd>
       &c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_ib;&c_k;
       </trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>defensor<klr tip="ind"> (partidario)</klr></trd>,
+      <trd>partidario<klr tip="ind"> (defensor)</klr></trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>d&eacute;fenseur<klr tip="ind"> (partisan)</klr></trd>,
@@ -2909,6 +3183,7 @@
     tip="ind">(&c_f;&c_u;&c_n;&c_k;&c_c;&c_y;&c_ib;)</klr></trd>
     <trd lng="de">Tr&auml;ger</trd>
     <trd lng="en">carrier<klr tip="ind"> (of a function)</klr></trd>
+    <trd lng="es">soporte<klr> de una funci&oacute;n</klr></trd>
     <trd lng="fr">support<klr tip="ind"> (d'une fonction)</klr></trd>
     <trd lng="hu">tart&oacute;halmaz<klr tip="ind">
     (f&uuml;ggv&eacute;ny&eacute;)</klr></trd>
@@ -2916,6 +3191,8 @@
     <trd lng="ru">&c_n;&c_o;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol;<klr
     tip="ind"> (&c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_i;)</klr></trd>
   </snc>
+  <trd lng="cs">podp&uring;rce</trd>
+  <trd lng="sk">podporovate&lcaron;</trd>
 </drv>
 
 <drv mrk="ten.sub0ilo">
@@ -2948,6 +3225,12 @@
     <trd>&c_a;&c_p;&c_ib;&c_r;&c_y;&c_sh;&c_ch;&c_a;</trd>,
     <trd>&c_p;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="cs">podp&ecaron;ra</trd>
+  <trdgrp lng="es">
+    <trd>sost&eacute;n<klr tip="ind"> (apoyo)</klr></trd>,
+    <trd>base</trd>,
+    <trd>apoyo</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&eacute;tai</trd>,
     <trd>soutien<klr tip="ind"> (&eacute;tai)</klr></trd>
@@ -2969,6 +3252,7 @@
     <trd>&c_o;&c_p;&c_o;&c_r;&c_a;</trd>,
     <trd>&c_p;&c_o;&c_d;&c_s;&c_t;&c_a;&c_v;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">podpera</trd>
 </drv>
 
 <drv mrk="ten.sxrauxb0ilo">
@@ -2989,6 +3273,7 @@
       tip="amb">(&c_p;&c_r;&c_y;&c_l;&c_a;&c_d;&c_a;)</klr></trd>
     </trdgrp>
     <trd lng="en">vice</trd>
+    <trd lng="es">presa de tornillo</trd>
     <trd lng="fr">&eacute;tau</trd>
     <trd lng="hu">satu</trd>
     <trd lng="ru">&c_t;&c_i;&c_s;&c_k;&c_i;</trd>
@@ -3005,6 +3290,7 @@
     </refgrp>
     <trd lng="be">&c_s;&c_t;&c_r;&c_u;&c_b;&c_c;&c_y;&c_n;&c_a;</trd>
     <trd lng="en">screw <ind>clamp</ind></trd>
+    <trd lng="es">abrazadera</trd>
     <trdgrp lng="hu">
       <trd>csavarszor&iacute;t&oacute;</trd>,
       <trd>asztalosszor&iacute;t&oacute;</trd>
@@ -3026,6 +3312,12 @@
       sanon:
       <ekz>
         oni povas <ind>viv<tld/>i sin</ind> per trinkado de nura lakto;
+        <trdgrp lng="es">
+          <trd>subsistir<klr tip="ind"> (mantenerse con
+          vida)</klr></trd>,
+          <trd><ind>mantener</ind>se<klr tip="ind"> (con
+          vida)</klr></trd>
+        </trdgrp>
         <trdgrp lng="fr">
           <trd>subsister<klr tip="ind"> (se maintenir en
           vie)</klr></trd>,
@@ -3043,6 +3335,7 @@
         &ccirc;iun
         rimedon de <ind>viv<tld/>o</ind>
         <fnt><bib>Revadoj</bib>, <lok>Oka promenado</lok></fnt>;
+        <trd lng="es">subsistencia</trd>
         <trd lng="fr">subsistance</trd>
         <trdgrp lng="hu">
           <trd>meg&eacute;lhet&eacute;s</trd>,
@@ -3082,6 +3375,12 @@
 &c_z;&c_a;&c_b;&c_ja;&c_s;&c_mol;&c_p;&c_je;&c_ch;&c_v;&c_a;&c_c;&c_mol;
     &c_k;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>u&zcaron;ivit</trd>,
+    <trd>vy&zcaron;ivovat</trd>,
+    <trd>z&iacute;sk&aacute;vat &zcaron;ivotn&iacute; prost&rcaron;edky</trd>,
+    <trd>&zcaron;ivit</trd>
+  </trdgrp>
   <trd lng="es">mantener<klr tip="amb"> (proveer
   alimentos,etc)</klr></trd>
   <trdgrp lng="fr">
@@ -3091,21 +3390,37 @@
   </trdgrp>
   <trd lng="hu">eltart <klr tip="ind">(pl. csal&aacute;dot)</klr></trd>
   <trd lng="nl">in <ind>leven</ind> houden</trd>
-  <trdgrp lng="pt">
-   <trd>sustentar</trd>,
-   <trd>manter</trd>,
-  </trdgrp>
   <trdgrp lng="pl">
     <trd>utrzymywa&cacute;<klr> (si&eogonek;, kogo&sacute;)</klr>
     przy &zdot;yciu</trd>,
     <trd>prze&zdot;y&cacute;</trd>
   </trdgrp>
+  <trdgrp lng="pt">
+   <trd>sustentar</trd>,
+   <trd>manter</trd>,
+  </trdgrp>
   <trd lng="ru">&c_s;&c_o;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol;<klr>
   (&c_k;&c_o;&c_g;&c_o;-&c_l;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>udr&zcaron;iava&tcaron; pri &zcaron;ivote</trd>,
+    <trd>&zcaron;ivi&tcaron;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ten.xml,v $
+Revision 1.62  2015/07/08 16:10:15  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.61  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.60  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.59  2015/04/04 15:10:17  revo
+Jeromo Vasxe: kunigis sinde~* k de~igx*
+
 Revision 1.58  2014/01/09 02:10:22  revo
 Jeromo Vasxe: + el~emo
 
@@ -3116,17 +3431,5 @@ Revision 1.56  2013/11/30 17:10:12  revo
 Benito Subejrano: + trd ca oc
 
 Revision 1.55  2011/12/23 20:10:10  revo
-Jeromo Vasxe: + mrk
-
-Revision 1.54  2011/06/25 17:10:15  revo
-Dominique Pelle: plurajn objekton -> plurajn objektojn
-
-Revision 1.53  2010/09/20 16:30:29  revo
-Russ Williams: +trd en
-
-Revision 1.52  2010/08/03 16:30:46  revo
-Agustin Garcia Lopez: +trd (viv-i)
-
-Revision 1.51  2010/06/30 16:30:50  revo
 -->
 </vortaro>

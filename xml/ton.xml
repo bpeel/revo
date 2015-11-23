@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ton.xml,v 1.22 2013/09/12 20:10:10 revo Exp $">
+<art mrk="$Id: ton.xml,v 1.26 2015/09/14 18:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>ton</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -102,6 +102,10 @@
     <ref tip="dif" cel="dut.0o.intervalo">duto<sncref/></ref>
   </snc>
   <trd lng="be">&c_t;&c_o;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>t&oacute;n</trd>,
+    <trd>zvuk</trd>
+  </trdgrp>
   <trd lng="de">Ton</trd>
   <trd lng="en">tone</trd>
   <trdgrp lng="fr">
@@ -110,6 +114,7 @@
   <trd lng="nl">toon</trd>
   <trd lng="pl">ton</trd>
   <trd lng="ru">&c_t;&c_o;&c_n;</trd>
+  <trd lng="sk">odtie&ncaron; farby</trd>
   <trd lng="vo">ton</trd>
 </drv>
 
@@ -125,6 +130,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bonton</trd>,
+    <trd>dobr&eacute; mravy</trd>,
+    <trd>jemn&eacute; mravy</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>bon <ind>ton</ind></trd>,
     <trd>bonnes <ind>mani&egrave;re</ind>s</trd>
@@ -146,6 +156,36 @@
     <trd>&c_h;&c_o;&c_r;&c_o;&c_sh;&c_i;&c_je; &c_m;&c_a;&c_n;&c_je;&c_r;&c_y;</trd>,
     <trd>&c_b;&c_o;&c_n;&c_t;&c_o;&c_n; <klr>(&c_u;&c_s;&c_t;.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bont&oacute;n</trd>,
+    <trd>spr&aacute;vne spr&aacute;vanie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ton.dekdu0ismo">
+  <kap>dekdu<tld/>ismo</kap>
+  <snc mrk="ton.dekdu0ismo.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      A&ubreve;struj-devena muzika skolo el la komenco de la 20a 
+      jarcento, kiu <ref tip="vid" 
+      cel="tonal.ne0a.MUZ">netonale</ref> uzas de la dekdu 
+      kromatajn tonojn de okto;
+      <ref tip="sin" cel="dodekafonism.0o.MUZ">dodekafonismo</ref>:
+      <ekz>
+        post la elmigrado de Sch&ouml;nberg en Usonon 
+        <klr>...</klr> la dekdu<tld/>ismo precipe 
+        disvasti&gcirc;is en norda Ameriko
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Dekdutonismo">
+          Dekdutonismo</url>, 2014-02-15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">twelve-tone technique</trd>
+  <trd lng="fr">dod&eacute;caphonisme</trd>
 </drv>
 
 <drv mrk="ton.sub0o">
@@ -202,6 +242,10 @@
     <trd>&c_a;&c_d;&c_n;&c_a;&c_t;&c_o;&c_n;&c_n;&c_y;</trd>,
     <trd>&c_m;&c_a;&c_n;&c_a;&c_t;&c_o;&c_n;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jednot&oacute;nov&yacute;</trd>,
+    <trd>p&rcaron;en. monot&oacute;nn&iacute;</trd>
+  </trdgrp>
   <trd lng="de">eint&ouml;nig</trd>
   <trdgrp lng="en">
     <trd>monotone</trd>,
@@ -221,10 +265,26 @@
     <trd>&c_m;&c_o;&c_n;&c_o;&c_t;&c_o;&c_n;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_o;&c_d;&c_n;&c_o;&c_t;&c_o;&c_n;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>jednotv&aacute;rny</trd>,
+    <trd>monot&oacute;nny</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ton.xml,v $
+Revision 1.26  2015/09/14 18:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.25  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2014/12/17 00:11:36  revo
+Jeromo Vasxe: + dekdu~ismo
+
 Revision 1.22  2013/09/12 20:10:10  revo
 Jeromo Vasxe: + sub~o
 
@@ -235,17 +295,5 @@ Revision 1.20  2006/09/17 16:31:05  revo
 Russ Williams: +trd en
 
 Revision 1.19  2006/02/15 17:35:56  revo
-Tulio Flores: +trd pt
-
-Revision 1.18  2005/10/31 17:32:02  revo
-Marc Bavant: kor mrk kun tri punktoj
-
-Revision 1.17  2004/12/07 17:31:47  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.16  2004/11/20 20:08:01  revo
-Jeromo Vasxe: + kk ekz, + kk fnt, + ref dif duto
-
-Revision 1.15 2003/09/24 16:31:36 revo
 -->
 </vortaro>

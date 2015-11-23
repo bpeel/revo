@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: katedr.xml,v 1.15 2014/08/21 16:10:11 revo Exp $">
+<art mrk="$Id: katedr.xml,v 1.17 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>katedr</rad>/o
@@ -60,16 +60,32 @@
     <trd>&c_k;&c_a;&c_f;&c_je;&c_d;&c_r;&c_a;</trd>,
     <trd>&c_k;&c_a;&c_t;&c_e;&c_d;&c_r;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>katedra</trd>,
+    <trd>stolek</trd>,
+    <trd>stolice</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Katheder</trd>,
     <trd>Lehrstuhl</trd>
   </trdgrp>
   <trd lng="fr">chaire</trd>
   <trd lng="ru">&c_k;&c_a;&c_f;&c_je;&c_d;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>katedra</trd>,
+    <trd>stolica</trd>,
+    <trd>stolík</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: katedr.xml,v $
+Revision 1.17  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2014/08/21 16:10:11  revo
 Guillermo Molleda Jimena: trd es
 

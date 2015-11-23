@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: talk.xml,v 1.13 2012/08/13 15:10:50 revo Exp $">
+<art mrk="$Id: talk.xml,v 1.15 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>talk</rad>/o
@@ -17,6 +17,11 @@
   </snc>
   <trd lng="be">&c_t;&c_a;&c_l;&c_mol;&c_k;</trd>
   <trd lng="ca">talc</trd>
+  <trdgrp lng="cs">
+    <trd>klouzek</trd>,
+    <trd>mastek</trd>,
+    <trd>talek</trd>
+  </trdgrp>
   <trd lng="de">Talk</trd>
   <trdgrp lng="hu">
     <trd>s&iacute;kpor</trd>,
@@ -28,11 +33,21 @@
    <trd>talco</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_a;&c_l;&c_mol;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>mastenec</trd>,
+    <trd>talek</trd>
+  </trdgrp>
   <trd lng="sv">talk</trd>
 </drv>
 </art>
 <!--
 $Log: talk.xml,v $
+Revision 1.15  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2012/08/13 15:10:50  revo
 Marc Rausell: + trd ca
 

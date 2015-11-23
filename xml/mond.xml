@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mond.xml,v 1.43 2014/05/30 09:10:18 revo Exp $">
+<art mrk="$Id: mond.xml,v 1.47 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mond</rad>/o <fnt><bib>PV</bib></fnt>
@@ -85,15 +85,19 @@
   <trd lng="bg">&c_s;&c_v;&c_ja;&c_t;</trd>
   <trd lng="br">bed</trd>
   <trd lng="ca">m&oacute;n</trd>
-  <trd lng="cs">sv&ecaron;t</trd>
+  <trdgrp lng="cs">
+    <trd>sv&ecaron;t</trd>,
+    <trd>svět</trd>,
+    <trd>vesmír</trd>
+  </trdgrp>
   <trd lng="de">Welt</trd>
   <trd lng="en">world</trd>
   <trd lng="es">mundo</trd>
   <trd lng="fr">monde</trd>
   <trd lng="hu">vil&aacute;g</trd>
+  <trd lng="ia">mundo</trd>
   <trd lng="id">dunia</trd>
   <trd lng="it">mondo</trd>
-  <trd lng="ia">mundo</trd>
   <trd lng="nl">wereld</trd>
   <trd lng="pl">&sacute;wiat</trd>
   <trd lng="pt">mundo</trd>
@@ -103,8 +107,8 @@
   </trdgrp>
   <trd lng="sk">svet</trd>
   <trd lng="sv">v&auml;rld</trd>
-  <trd lng="vo">vol</trd>
   <trd lng="tr">d&uuml;nya</trd>
+  <trd lng="vo">vol</trd>
   <trdgrp lng="zh">
     <trd>&#19990;&#30028;<klr> [sh&igrave;ji&egrave;]</klr></trd>,
     <trd>&#19990;&#38388;</trd>,
@@ -149,6 +153,7 @@
     <trd>-<ind>bed</ind></trd>,
     <trd>bedel</trd>
   </trdgrp>
+  <trd lng="cs">světský</trd>
   <trdgrp lng="de">
     <trd>Welt-</trd>,
   </trdgrp>
@@ -167,6 +172,7 @@
     <trd>wereld-</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_i;&c_r;&c_o;&c_v;&c_o;&c_j;</trd>
+  <trd lng="sk">svetový</trd>
   <trd lng="tr">d&uuml;nyasal</trd>
 </drv>
 
@@ -192,6 +198,10 @@
       <trd>de l'alta societat</trd>,
       <trd>privilegiat</trd>
     </trdgrp>
+  <trdgrp lng="cs">
+    <trd>mondénní</trd>,
+    <trd>velkosvětský</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>mond&auml;n</trd>,
     <trd>weltgewandt</trd>
@@ -201,6 +211,10 @@
   </trdgrp>
   <trd lng="hu">nagyvil&aacute;gi</trd>
   <trd lng="ru">&c_s;&c_v;&c_je;&c_t;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>mondénny</trd>,
+    <trd>veľkosvetský</trd>
+  </trdgrp>
   <trd lng="tr">sosyetik</trd>
 </drv>
 
@@ -225,6 +239,10 @@
     <trd>alta societat</trd>,
     <trd>classe alta</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>smetánka</trd>,
+    <trd>velký svět</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Oberschicht</trd>,
     <trd>Hautevolee</trd>
@@ -242,6 +260,12 @@
     <trd>de hogere <ind>stand</ind></trd>
   </trdgrp>
   <trd lng="ru"><klr>(&c_v;&c_y;&c_s;&c_sh;&c_i;&c_j;)</klr> <ind>&c_s;&c_v;&c_je;&c_t;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>notabilita</trd>,
+    <trd>popredná</trd>,
+    <trd>smotánka</trd>,
+    <trd>vznešení spoločnosť</trd>
+  </trdgrp>
   <trd lng="tr">y&uuml;ksek sosyete</trd>
 </drv>
 
@@ -265,6 +289,33 @@
     </dif>
   </snc>
   <trd lng="fr">milieu<klr> (environnement)</klr></trd>
+</drv>
+
+<drv mrk="mond.duon0umo">
+  <kap>duon<tld/>umo</kap>
+  <snc mrk="mond.duon0umo.POL">
+    <dif>
+      Socia grupo proksima al <tld/>umo,
+      sed vivanta per ne honestaj a&ubreve; ne decaj rimedoj;
+      <ref tip="vid" cel="demimond.0o.POL">demimondo</ref>:
+      <ekz>
+        la artista duon<tld/>umo
+        <fnt>
+         <aut>S. Pokrovskij</aut>,
+         <vrk><url
+         ref="https://groups.yahoo.com/neo/groups/esperanto-l/conversations/messages/75694">
+         Re: pri la vorto "glamour" en Francio</url></vrk>,
+         <lok>sce, 2008-11-19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>demi - monde</trd>,
+    <trd>polosvět</trd>
+  </trdgrp>
+  <trd lng="fr">demi-monde</trd>
+  <trd lng="sk">polosvet</trd>
 </drv>
 
 <drv mrk="mond.ekstera0o">
@@ -297,6 +348,25 @@
   </snc>
   <trd lng="ca">els no-esperantistes</trd>
   <trd lng="fr">monde ext&eacute;rieur</trd>
+</drv>
+
+<drv mrk="mond.en0igxi">
+  <kap>en<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <uzo tip="stl">FRAZ</uzo>
+  <snc mrk="mond.en0igxi.KOMUNE">
+    <ref tip="dif" cel="nask.0igxi">naski&gcirc;i</ref>
+      <ekz>
+        vi vidis &scirc;ian en<tld/>i&gcirc;on, vi vartis &scirc;in kaj 
+        kondukis &scirc;in al la nuna kondi&ccirc;o
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trd lng="fr">venir au <ind>monde</ind></trd>
 </drv>
 
 <drv mrk="mond.malnova0o">
@@ -448,6 +518,10 @@
     <trd>c&ograve;smic <klr>(filos.)</klr></trd>,
     <trd>ecum&egrave;nic <klr>(rel.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>celosvětový</trd>,
+    <trd>globální</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>weltweit</trd>,
     <trd>global</trd>,
@@ -469,6 +543,10 @@
   <trdgrp lng="ru">
     <trd>&c_v;&c_s;&c_je;&c_m;&c_i;&c_r;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_g;&c_l;&c_o;&c_b;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>celosvetový</trd>,
+    <trd>globálny</trd>
   </trdgrp>
   <trdgrp lng="tr">
     <trd>d&uuml;nyasal</trd>,
@@ -496,17 +574,19 @@
   <trd lng="be">&c_g;&c_l;&c_ja;&c_b;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_c;&c_y;&c_ja;</trd>
   <trd lng="ca">mundialitzaci&oacute; <klr>(propagaci&oacute;, difusi&oacute;
   mundial)</klr></trd>
-  <trdgrp lng="fr">
-    <trd>mondialisation<klr> (diffusion mondiale)</klr></trd>
-  </trdgrp>
+  <trd lng="cs">globalizace</trd>
   <trdgrp lng="de">
     <trd>Globalisierung</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>globalization</trd>
   </trdgrp>
+  <trdgrp lng="fr">
+    <trd>mondialisation<klr> (diffusion mondiale)</klr></trd>
+  </trdgrp>
   <trd lng="hu">globaliz&aacute;l&aacute;s</trd>
   <trd lng="ru">&c_g;&c_l;&c_o;&c_b;&c_a;&c_l;&c_i;&c_z;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">globalizácia</trd>
   <trd lng="tr">globalle&scedil;me</trd>
 </drv>
 
@@ -586,10 +666,24 @@
   <trd lng="nl">werelddeel</trd>
   <trd lng="ru">&c_ch;&c_a;&c_s;&c_t;&c_mol; &c_s;&c_v;&c_je;&c_t;&c_a;</trd>
   <trd lng="sv">v&auml;rldsdel</trd>
+  <trd lng="sk">svetadiel</trd>
+  <trd lng="cs">světadíl</trd>
 </drv>
 </art>
 <!--
 $Log: mond.xml,v $
+Revision 1.47  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.46  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.45  2015/01/04 21:10:15  revo
+Jeromo Vasxe: + duon~umo
+
+Revision 1.44  2014/12/13 18:10:17  revo
+Jeromo Vasxe: + en~igxi
+
 Revision 1.43  2014/05/30 09:10:18  revo
 Eko Nur Syah Hidayat: +id
 
@@ -606,11 +700,5 @@ Revision 1.39  2011/04/08 09:10:11  revo
 Jeromo Vasxe: + ekstera ~o
 
 Revision 1.38  2011/02/15 18:10:17  revo
-Luiz Portella: kor. ref k mrk
-
-Revision 1.37  2009/08/26 16:32:01  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.36  2009/01/22 17:30:34  revo
 -->
 </vortaro>

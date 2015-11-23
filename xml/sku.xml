@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sku.xml,v 1.21 2013/08/05 11:10:14 revo Exp $">
+<art mrk="$Id: sku.xml,v 1.25 2015/10/20 06:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sku</rad>/i <fnt><bib>PV</bib></fnt>
@@ -96,6 +96,13 @@
     <trd>&c_p;&c_a;&c_t;&c_r;&c_e;&c_s;&c_mol;&c_c;&c_ib;</trd>
   </trdgrp>
   <trd lng="bg">&c_r;&c_a;&c_z;&c_k;&c_l;&c_a;&c_shch;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>prot&rcaron;ep&aacute;vat</trd>,
+    <trd>rozt&rcaron;epat</trd>,
+    <trd>t&rcaron;epat</trd>,
+    <trd>vyt&rcaron;ep&aacute;vat</trd>,
+    <trd>vyt&rcaron;&aacute;st</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>sch&uuml;tteln</trd>,
     <trd>r&uuml;tteln</trd>
@@ -106,6 +113,11 @@
      <trd>hacer temblar</trd>
   </trdgrp>
   <trd lng="fr">secouer</trd>
+  <trdgrp lng="sk">
+    <trd>pretrep&aacute;va&tcaron;</trd>,
+    <trd>trepa&tcaron;</trd>,
+    <trd>vytrep&aacute;va&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sku.0ege">
@@ -121,6 +133,11 @@
     </dif>
     <trd lng="hu">hevesen</trd>
   </snc>
+  <trd lng="en">joltingly</trd>
+  <trdgrp lng="sk">
+    <trd>trhavo</trd>,
+    <trd>&scaron;klbavo</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sku.0igxi">
@@ -142,6 +159,7 @@
       <ref cel="trem.0i">tremi</ref>
     </refgrp>
   </snc>
+  <trd lng="en">to shake</trd>
   <trdgrp lng="fr">
     <trd>branler</trd>,
     <trd>trembler</trd>
@@ -187,6 +205,7 @@
     <trd>&c_a;&c_b;&c_t;&c_r;&c_e;&c_s;&c_mol;&c_c;&c_ib;</trd>
   </trdgrp>
   <trd lng="bg">&c_o;&c_t;&c_malmol;&c_r;&c_s;&c_v;&c_a;&c_m;</trd>
+  <trd lng="cs">set&rcaron;&aacute;st</trd>
   <trd lng="de">absch&uuml;tteln</trd>
   <trd lng="en">shake off</trd>
   <trdgrp lng="fr">
@@ -204,6 +223,7 @@
     <trd>&c_o;&c_t;&c_r;&c_ja;&c_h;&c_n;&c_u;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_t;&c_r;&c_ja;&c_h;&c_n;&c_u;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">otrias&tcaron;</trd>
 </drv>
 
 <drv mrk="sku.ek0i">
@@ -223,6 +243,13 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>ot&rcaron;&aacute;st</trd>,
+    <trd>pot&rcaron;&aacute;sat</trd>,
+    <trd>pot&rcaron;&aacute;st</trd>,
+    <trd>zat&rcaron;&aacute;st</trd>
+  </trdgrp>
+  <trd lng="en">to jerk</trd>
   <trdgrp lng="fr">
     <trd>agiter<klr tip="amb"> (secouer)</klr></trd>,
     <trd>&eacute;branler</trd>
@@ -235,6 +262,10 @@
   <trdgrp lng="ru">
     <trd>&c_v;&c_s;&c_t;&c_r;&c_ja;&c_h;&c_n;&c_u;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_t;&c_r;&c_ja;&c_s;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>otrias&tcaron;</trd>,
+    <trd>zatrias&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -269,9 +300,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_r;&c_e;&c_s;&c_mol;&c_c;&c_ib;</trd>
+  <trd lng="cs">set&rcaron;&aacute;st</trd>
   <trdgrp lng="de">
     <trd>absch&uuml;tteln</trd>
   </trdgrp>
+  <trd lng="en">to cast off</trd>
   <trdgrp lng="fr">
     <trd>se <ind>d&eacute;barrasser</ind> de</trd>
   </trdgrp>
@@ -283,6 +316,7 @@
   <trd lng="nl">afschudden</trd>
   <trd lng="pl">odrzuca&cacute;</trd>
   <trd lng="ru">&c_s;&c_t;&c_r;&c_ja;&c_h;&c_n;&c_u;&c_t;&c_mol;</trd>
+  <trd lng="sk">strias&tcaron;</trd>
 </drv>
 
 <drv mrk="sku.ne0ebla">
@@ -300,12 +334,20 @@
   </snc>
   <trd lng="be">&c_n;&c_je;&c_p;&c_a;&c_h;&c_ib;&c_s;&c_n;&c_y;</trd>
   <trd lng="bg">&c_n;&c_je;&c_p;&c_o;&c_k;&c_l;&c_a;&c_t;&c_i;&c_m;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>neochv&ecaron;jn&yacute;</trd>,
+    <trd>neot&rcaron;esn&yacute;</trd>
+  </trdgrp>
   <trd lng="en">unshakeable</trd>
   <trd lng="fr">in&eacute;branlable</trd>
   <trd lng="hu">megingathatatlan</trd>
   <trd lng="nl">onverstoorbaar</trd>
   <trd lng="ru">&c_n;&c_je;&c_p;&c_o;&c_k;&c_o;&c_l;&c_je;&c_b;&c_i;&c_m;&c_y;&c_j;
 </trd>
+  <trdgrp lng="sk">
+    <trd>neochvejn&yacute;</trd>,
+    <trd>neotrasite&lcaron;n&yacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sku.sen0e">
@@ -322,6 +364,8 @@
     </dif>
   </snc>
   <trd lng="bg">&c_g;&c_l;&c_a;&c_d;&c_k;&c_o;</trd>
+  <trd lng="cs">bez ot&rcaron;es&uring;</trd>
+  <trd lng="en">unwaveringly</trd>
   <trdgrp lng="fr">
     <trd>continument</trd>,
     <trd>sans secousses</trd>
@@ -330,14 +374,28 @@
     <trd>megr&aacute;zk&oacute;dtat&aacute;sok n&eacute;lk&uuml;l</trd>,
     <trd>sim&aacute;n <klr tip="ind">(&aacute;tv.)</klr></trd>
   </trdgrp>
+  <trd lng="pl">bez <ind>wstrz&aogonek;s&oacute;w</ind></trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_l;&c_a;&c_v;&c_n;&c_o;</trd>,
     <trd>&c_b;&c_je;&c_z; <ind>&c_p;&c_o;&c_t;&c_r;&c_ja;&c_s;&c_je;&c_n;&c_i;&c_j;</ind></trd>
   </trdgrp>
+  <trd lng="sk">bez otrasov</trd>
 </drv>
 </art>
 <!--
 $Log: sku.xml,v $
+Revision 1.25  2015/10/20 06:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.24  2015/09/26 15:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.23  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2013/08/05 11:10:14  revo
 Joop Eggen: +trd bg
 
@@ -348,17 +406,5 @@ Revision 1.19  2010/10/18 16:30:37  revo
 Agustin Garcia Lopez: +trd es
 
 Revision 1.18  2006/05/19 16:31:25  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.17  2005/03/10 18:10:54  revo
-Yury Finkel: +trd ru
-
-Revision 1.16  2004/10/18 16:32:22  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.15  2004/10/08 16:31:21  revo
-Jeromo Vasxe: + ek~i ~igxi ne~ebla sen~e
-
-Revision 1.14 2004/09/01 16:32:25 revo
 -->
 </vortaro>

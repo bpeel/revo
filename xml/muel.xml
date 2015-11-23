@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: muel.xml,v 1.22 2006/09/01 18:30:59 revo Exp $">
+<art mrk="$Id: muel.xml,v 1.25 2015/07/06 12:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>muel</rad>/i
@@ -100,17 +100,23 @@ grion.
       </ekz>
     </dif>
     <trd lng="de">herunterleiern</trd>
-    <trd lng="nl">herhalen <klr tip="ind"> (tot vervelens toe)</klr></trd>
+    <trd lng="nl">herhalen <klr tip="ind"> (tot vervelens
+    toe)</klr></trd>
     <trdgrp lng="ru">
       <trd>&c_m;&c_o;&c_l;&c_o;&c_t;&c_mol;</trd>,
       <trd>&c_t;&c_a;&c_l;&c_d;&c_y;&c_ch;&c_i;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trd lng="be">&c_m;&c_a;&c_l;&c_o;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>ml&iacute;t</trd>,
+    <trd>rozeml&iacute;t</trd>
+  </trdgrp>
   <trd lng="en">grind</trd>
   <trd lng="fr">moudre</trd>
-  <trd lng="be">&c_m;&c_a;&c_l;&c_o;&c_c;&c_mol;</trd>
   <trd lng="pl">mle&cacute;</trd>
   <trd lng="pt">moer</trd>
+  <trd lng="sk">vymlie&tcaron; <klr>(obilie)</klr></trd>
   <trd lng="sv">mala</trd>
 </drv>
 
@@ -133,6 +139,10 @@ la orazeno kaj
     <trd>&c_v;&c_ja;&c_t;&c_r;&c_a;&c_k;
 <klr>(&c_v;&c_je;&c_t;&c_r;&c_a;&c_n;&c_y; &c_m;&c_l;&c_y;&c_n;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ml&yacute;n</trd>,
+    <trd>ml&yacute;nice</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>M&uuml;hle</trd>,
     <trd>M&uuml;hlhaus</trd>
@@ -143,6 +153,7 @@ la orazeno kaj
   <trd lng="pl">m&lstroke;yn</trd>
   <trd lng="ru">&c_m;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_a;
 <klr>(&c_z;&c_d;&c_a;&c_n;&c_i;&c_je;)</klr></trd>
+  <trd lng="sk">mlyn</trd>
 </drv>
 
 <drv mrk="muel.0ilo">
@@ -170,6 +181,7 @@ la orazeno kaj
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">ml&yacute;nek</trd>
   <trdgrp lng="de">
     <trd>M&uuml;hle</trd>,
     <trd>M&uuml;hlwerk</trd>
@@ -183,6 +195,10 @@ la orazeno kaj
   </trdgrp>
   <trd lng="ru">&c_m;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_a;
 <klr>(&c_m;&c_je;&c_h;&c_a;&c_n;&c_i;&c_z;&c_m;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>mlec&iacute; stroj</trd>,
+    <trd>mlyn</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="muel.0isto">
@@ -192,7 +208,8 @@ la orazeno kaj
     <dif>
       Homo, kiu profesie <tld/>as, precipe tiu, kiu <tld/>as grenon:
       <ekz>
-        Oreko-la-<tld/>isto povis <tld/>i tritikon por la kamparanoj pli 
+        Oreko-la-<tld/>isto povis <tld/>i tritikon por la kamparanoj pli
+        
         malmultekoste ol iu ajn alia <tld/>isto
         <fnt>
           <aut>D. K. Jordan</aut>,
@@ -203,9 +220,11 @@ Fabeloj de Jordan</url>, [vidita en 2006-05-24]</lok>
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">mlyn&aacute;&rcaron;</trd>
   <trd lng="de">M&uuml;ller</trd>
   <trd lng="fr">meunier</trd>
   <trd lng="pl">m&lstroke;ynarz</trd>
+  <trd lng="sk">mlyn&aacute;r</trd>
 </drv>
 
 <drv mrk="muel.kaf0ilo">
@@ -220,12 +239,17 @@ butikisto</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>k&aacute;voml&yacute;nek</trd>,
+    <trd>ml&yacute;nek na k&aacute;vu</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Kaffeem&uuml;hle</trd>
   </trdgrp>
   <trd lng="fr">moulin &agrave; caf&eacute;</trd>
   <trd lng="pl">m&lstroke;ynek do kawy</trd>
   <trd lng="ru">&c_k;&c_o;&c_f;&c_je;&c_m;&c_o;&c_l;&c_k;&c_a;</trd>
+  <trd lng="sk">mlyn&ccaron;ek na k&aacute;vu</trd>
 </drv>
 
 <drv mrk="muel.vort0i">
@@ -234,7 +258,7 @@ butikisto</lok></fnt>.
     <uzo tip="stl">FIG</uzo>
     <dif>
       Tre abunde, rapide, ripete <ref tip="vid"
-      cel="babil.0i.babilacxi">babili</ref>
+      cel="babil.0i">babili</ref>
       <ekz>
         oni parolas, paroladas, vort<tld/>as
         <fnt>
@@ -278,6 +302,15 @@ ime
 </art>
 <!--
 $Log: muel.xml,v $
+Revision 1.25  2015/07/06 12:10:20  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.24  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2006/09/01 18:30:59  revo
 Wieland Pusch: +trd de
 
@@ -291,14 +324,5 @@ Revision 1.19  2006/07/03 16:31:27  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.18  2006/05/28 16:32:20  revo
-Jeromo Vasxe: + ~isto
-
-Revision 1.17  2006/04/09 17:52:27  revo
-Jeromo Vasxe: + kaf~ilo vort~i, + kk fak agr, + ekz, + trd fr
-
-Revision 1.16 2005/05/12 16:32:47 revo
-Raul Salinas Monteagudo: +trd es
-
-Revision 1.15 2004/10/17 16:31:09 revo
 -->
 </vortaro>

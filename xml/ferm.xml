@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: ferm.xml,v 1.54 2014/09/22 12:10:20 revo Exp $">
+<art mrk="$Id: ferm.xml,v 1.61 2015/07/06 12:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ferm</rad>/i <fnt><bib>PV</bib></fnt>
@@ -126,25 +126,37 @@
     <trd>&c_z;&c_a;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_ch;&c_y;&c_n;&c_ja;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="ca">tancar</trd>
+  <trdgrp lng="cs">
+    <trd>uzav&rcaron;&iacute;t</trd>,
+    <trd>zacelit</trd>,
+    <trd>zacelovat</trd>,
+    <trd>zad&ecaron;lat</trd>,
+    <trd>zav&iacute;rat</trd>,
+    <trd>zav&rcaron;&iacute;t</trd>
+  </trdgrp>
+  <trd lng="de">schlie&szlig;en</trd>
   <trd lng="en">shut</trd>
   <trd lng="es">cerrar</trd>
-  <trd lng="ca">tancar</trd>
   <trdgrp lng="fr">
     <trd>clore</trd>,
     <trd>fermer</trd>
   </trdgrp>
+  <trd lng="hu">becsuk</trd>
   <trdgrp lng="ku">
     <trd>girtin</trd>,
     <trd>dadan</trd>
   </trdgrp>
-  <trd lng="tr">kapatmak</trd>
-  <trd lng="de">schlie&szlig;en</trd>
-  <trd lng="hu">becsuk</trd>
   <trd lng="pl">zamyka&cacute;</trd>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_k;&c_r;&c_y;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_k;&c_r;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>uzatvori&tcaron;</trd>,
+    <trd>zavrie&tcaron;</trd>
+  </trdgrp>
+  <trd lng="tr">kapatmak</trd>
 </drv>
 
 <drv mrk="ferm.0o">
@@ -157,8 +169,20 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>sepnut&iacute;</trd>,
+    <trd>sev&rcaron;en&iacute;</trd>,
+    <trd>skon&ccaron;en&iacute;</trd>,
+    <trd>uzav&rcaron;en&iacute;</trd>,
+    <trd>z&aacute;v&ecaron;r</trd>
+  </trdgrp>
+  <trd lng="es">cierre</trd>
   <trd lng="fr">fermeture</trd>
   <trd lng="pl">zamkni&eogonek;cie</trd>
+  <trdgrp lng="sk">
+    <trd>uzatv&aacute;ranie</trd>,
+    <trd>z&aacute;ver</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ferm.0ajxo">
@@ -243,6 +267,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">cerrarse</trd>
   <trdgrp lng="fr">
     <trd>se <ind>clore</ind></trd>,
     <trd>se <ind>fermer</ind></trd>
@@ -257,7 +282,8 @@
     <dif>
       <klr>(pri <ref cel="silab.0o">silabo</ref>)</klr>
       Fini&gcirc;anta per <ref cel="konson1.0o">konsonanto</ref>
-      a&ubreve; per <ref cel="vokal.kvazaux0o.FON">kvaza&ubreve;vokalo</ref>:
+      a&ubreve; per <ref
+      cel="vokal.kvazaux0o.FON">kvaza&ubreve;vokalo</ref>:
       <ekz>
         &leftquot;jam&rightquot;, &leftquot;kaj&rightquot; estas
         <tld/>itaj silaboj.
@@ -273,6 +299,22 @@
     <trd lng="hu">z&aacute;rt<klr tip="ind"> (mag&aacute;nhangz&oacute;)
     </klr></trd>
     <trd lng="ru">&c_z;&c_a;&c_k;&c_r;&c_y;&c_t;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="ferm.0ita.PSI">
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      Kiu ne facile komunikas, ne volonte ekkonas novajn
+      homojn, novajn aferojn:
+      <ekz>
+        li korespondis kun Rotkvi&ccirc;, sed Rotkvi&ccirc; estis tre 
+        <tld/>ita persono
+        <fnt>
+          <aut>Jelena</aut>,
+          <vrk>Mi vidis la mondon</vrk>,
+          <lok>en: Vivprotokoloj, 2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <snc mrk="ferm.0ita.topologio">
     <uzo tip="fak">MAT</uzo>
@@ -317,6 +359,8 @@
     (&c_p;&c_o;&c_d;&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_o;)
     </klr></trd>
   </snc>
+  <trd lng="es">cerrado</trd>
+  <trd lng="fr">ferm&eacute;</trd>
 </drv>
 
 <drv mrk="ferm.cxirkaux0i">
@@ -339,6 +383,10 @@
     </dif>
     <ref tip="vid" cel="bar.cxirkaux0i">&ccirc;irka&ubreve;bari</ref>
   </snc>
+  <trdgrp lng="es">
+    <trd>encerrar</trd>,
+    <trd>rodear</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>ceindre<klr tip="ind"> (entourer d'une fermeture)</klr></trd>,
     <trd>confiner<klr tip="ind"> (entourer d'une fermeture)</klr></trd>
@@ -388,23 +436,24 @@
       <ref cel="ten.en0i">enteni</ref>
     </refgrp>
   </snc>
-  <trd lng="nl">opsluiten</trd>
+  <trd lng="cs">uzav&rcaron;&iacute;t uvnit&rcaron;</trd>
+  <trd lng="de">einschlie&szlig;en</trd>
   <trd lng="es">encerrar</trd>
   <trd lng="fr">enfermer</trd>
-  <trd lng="de">einschlie&szlig;en</trd>
   <trd lng="hu">bez&aacute;r <klr>(vhov&aacute;)</klr></trd>
+  <trd lng="nl">opsluiten</trd>
   <trdgrp lng="pl">
     <trd>zamyka&cacute;<klr> (w czym&sacute;)</klr></trd>,
     <trd>zasklepia&cacute;</trd>
   </trdgrp>
-  <trd lng="ru">&c_z;&c_a;&c_k;&c_r;&c_y;&c_t;&c_mol; <klr>
-  (&c_v; &c_ch;&c_jo;&c_m;-&c_l;., &c_g;&c_d;&c_je;-&c_l;.)</klr></trd>
   <trd lng="pt">encerrar</trd>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_p;&c_i;&c_r;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_p;&c_je;&c_r;&c_je;&c_t;&c_mol;</trd>
-  </trdgrp>
+  </trdgrp><trd lng="ru">&c_z;&c_a;&c_k;&c_r;&c_y;&c_t;&c_mol; <klr>
+  (&c_v; &c_ch;&c_jo;&c_m;-&c_l;., &c_g;&c_d;&c_je;-&c_l;.)</klr></trd>
+  <trd lng="sk">zavrie&tcaron;</trd>
 </drv>
 
 <drv mrk="ferm.mal0i">
@@ -460,22 +509,31 @@
     <trd>&c_a;&c_d;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_a;&c_d;&c_ch;&c_y;&c_n;&c_ja;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="es">abrir</trd>
   <trd lng="ca">obrir</trd>
+  <trdgrp lng="cs">
+    <trd>otev&rcaron;&iacute;t</trd>,
+    <trd>zah&aacute;jit</trd>,
+    <trd>zav&eacute;st</trd>
+  </trdgrp>
+  <trd lng="es">abrir</trd>
   <trd lng="fr">ouvrir</trd>
-  <trd lng="ku">vekirin</trd>
-  <trd lng="tr">a&ccedil;mak</trd>
   <trdgrp lng="hu">
     <trd>nyit</trd>,
     <trd>kinyit</trd>,
     <trd>megnyit</trd>
   </trdgrp>
+  <trd lng="ku">vekirin</trd>
   <trd lng="pl">otwiera&cacute;</trd>
+  <trd lng="pt">abrir</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_t;&c_k;&c_r;&c_y;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_t;&c_k;&c_r;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="pt">abrir</trd>
+  <trdgrp lng="sk">
+    <trd>otvori&tcaron;</trd>,
+    <trd>zah&aacute;ji&tcaron;</trd>
+  </trdgrp>
+  <trd lng="tr">a&ccedil;mak</trd>
 </drv>
 
 <drv mrk="ferm.mal0ajxo">
@@ -494,6 +552,7 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="apertu.0o">aperturo</ref>
+    <trd lng="fr">ouverture</trd>
     <trd lng="pl">otw&oacute;r</trd>
   </snc>
   <snc mrk="ferm.mal0ajxo.MAT">
@@ -522,7 +581,7 @@
         </frm>.
       </ekz>
     </dif>
-    <ref tip="sin" cel="intern.0o.topologio">interno <sncref/></ref>
+    <ref tip="sin" cel="intern.0o">interno</ref>
     <trdgrp lng="de">
       <trd>Inneres</trd>,
       <trd>offener <ind>Kern</ind></trd>
@@ -535,7 +594,8 @@
     <trd lng="pl">wn&eogonek;trze<klr tip="ind"> (zbioru)</klr></trd>
     <trdgrp lng="ru">
       <trd>&c_v;&c_n;&c_u;&c_t;&c_r;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
-      <trd>&c_o;&c_t;&c_k;&c_r;&c_y;&c_t;&c_o;&c_je; <ind>&c_ja;&c_d;&c_r;&c_o;</ind>
+      <trd>&c_o;&c_t;&c_k;&c_r;&c_y;&c_t;&c_o;&c_je;
+      <ind>&c_ja;&c_d;&c_r;&c_o;</ind>
       </trd>
     </trdgrp>
   </snc>
@@ -556,6 +616,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">abrirse</trd>
   <trd lng="fr">s'<ind>ouvrir</ind></trd>
 </drv>
 
@@ -586,6 +647,22 @@
     (mag&aacute;nhangz&oacute;)</klr></trd>
     <trd lng="ru">&c_o;&c_t;&c_k;&c_r;&c_y;&c_t;&c_y;&c_j;</trd>
   </snc>
+  <snc mrk="ferm.mal0ita.PSI">
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      Kiu volonte komunikas, interesi&gcirc;as pri nova&jcirc;oj:
+      <ekz>
+        mal<tld/>itaj estis la okuloj de Francisko, 
+        mal<tld/>ita estis anka&ubreve; lia koro
+        <fnt>
+          <aut>G. F. De Ruyver</aut>,
+          <vrk><url ref="http://www.esperanto.be/fel/2011/010221.php">
+          Einstein havis okulojn malfermitajn</url></vrk>,
+          <lok>Monato, 2011:01, p. 18a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
   <snc mrk="ferm.mal0ita.MAT">
     <uzo tip="fak">MAT</uzo>
     <subsnc mrk="ferm.mal0ita.topologio">
@@ -610,8 +687,8 @@
         <klr>(p.p. subaro de
         <ref cel="spac.metrika0o">metrika spaco</ref>)</klr>
         Tia, ke por &ccirc;iu &gcirc;ia punkto <frm><k>x</k></frm>
-        &gcirc;i inkluzivas iun <ref cel="glob.0o.metrikaspaco">globon
-        </ref> kun centro
+        &gcirc;i inkluzivas malfermitan
+        <ref cel="glob.0o.metrikaspaco">globon</ref> kun centro
         <frm><k>x</k></frm> kaj radiuso <frm>&rho; &gt; 0</frm>:
         <ekz>
           la mal<tld/>itaj aroj de metrika spaco konsistigas &gcirc;ian
@@ -631,6 +708,16 @@
     (&c_p;&c_o;&c_d;&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_o;)
     </klr></trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>otev&rcaron;en&yacute;</trd>,
+    <trd>pr&uring;chodn&yacute;</trd>
+  </trdgrp>
+  <trd lng="es">abierto</trd>
+  <trd lng="fr">ouvert</trd>
+  <trdgrp lng="sk">
+    <trd>otvoren&yacute;</trd>,
+    <trd>priechodn&yacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ferm.fulmo0ilo">
@@ -639,6 +726,10 @@
     <uzo tip="fak">TEKS</uzo>
     <ref tip="dif" cel="zip.0o">zipo</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>zdrhovadlo</trd>,
+    <trd>zip</trd>
+  </trdgrp>
   <trd lng="de">Rei&szlig;verschluss</trd>
   <trdgrp lng="es">
     <trd>cierre</trd>,
@@ -659,6 +750,7 @@
   </trdgrp>
   <trd lng="ru">&c_z;&c_a;&c_s;&c_t;&c_jo;&c_zh;&c_k;&c_a; &leftquot;
   <ind>&c_m;&c_o;&c_l;&c_n;&c_i;&c_ja;</ind>&rightquot;</trd>
+  <trd lng="sk">zips</trd>
 </drv>
 
 <drv mrk="ferm.jxet0i">
@@ -674,6 +766,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">dar un portazo</trd>
   <trd lng="fr">claquer<klr tip="ind"> (fermer brutalement)</klr></trd>
   <trd lng="pl">zatrzaskiwa&cacute;</trd>
   <trd lng="ru">&c_z;&c_a;&c_h;&c_l;&c_o;&c_p;&c_n;&c_u;&c_t;&c_mol;
@@ -703,27 +796,27 @@
 </art>
 <!--
 $Log: ferm.xml,v $
-Revision 1.54  2014/09/22 12:10:20  revo
-Sebastian Cyprych: +trd pl
+Revision 1.61  2015/07/06 12:10:18  revo
+Damien Brucker: -eraro cxe ref
 
-Revision 1.53  2014/01/20 02:10:16  revo
-Jeromo Vasxe: + ~o ~igxi mal~igxi pusxmal~i, reord. drv
+Revision 1.60  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
 
-Revision 1.52  2012/09/20 10:10:16  revo
-Jeromo Vasxe: kor 1 ref
+Revision 1.59  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
 
-Revision 1.51  2009/08/27 16:32:37  revo
-Emmanuel Debanne: +trd ku
+Revision 1.58  2015/04/13 20:10:18  revo
+Carlos Garcia: +trd es ~o ~igxi ~ita cxirkaux~i en~i mal~i mal~igxi
+jxet~i
 
-Revision 1.50  2008/03/17 17:30:19  revo
-Sebastian Cyprych: +trd pl
+Revision 1.57  2015/02/10 14:10:16  revo
+Sergio Pokrovskij: malfermitaj globoj
 
-Revision 1.49  2005/07/06 16:31:24  revo
-Dmitri Gabinski: kor der ref
+Revision 1.56  2015/01/10 06:11:28  revo
+Jeromo Vasxe: + ~ita mal~ita psi
 
-Revision 1.48  2005/05/17 16:32:15  revo
-Yury Finkel: +trd ru
+Revision 1.55  2014/12/13 18:10:19  revo
+Damien Brucker: +trd fr
 
-Revision 1.47 2005/04/09 18:41:31 revo
 -->
 </vortaro>

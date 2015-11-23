@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: asklep.xml,v 1.10 2012/02/14 01:10:12 revo Exp $">
+<art mrk="$Id: asklep.xml,v 1.12 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>asklepiad</rad>/o
   <fnt>Z</fnt>
@@ -43,10 +43,24 @@
       <trd><ind>dodecasillabi</ind> asclepiadei</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>asklep</trd>,
+    <trd>asklepiadický verš</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>asklep</trd>,
+    <trd>asklepiatický verš</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: asklep.xml,v $
+Revision 1.12  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2012/02/14 01:10:12  revo
 Antonio Codazzi: +trd it
 

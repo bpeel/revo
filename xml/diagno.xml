@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: diagno.xml,v 1.17 2010/10/20 16:31:25 revo Exp $">
+<art mrk="$Id: diagno.xml,v 1.19 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>diagnoz</rad>/o
@@ -22,6 +22,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_d;&c_y;&c_ja;&c_g;&c_n;&c_a;&c_z;</trd>
+  <trdgrp lng="cs">
+    <trd>diagnóza</trd>,
+    <trd>lékařský nález</trd>
+  </trdgrp>
   <trd lng="de">Diagnose</trd>
   <trd lng="en">diagnosis</trd>
   <trd lng="es">diagn&oacute;stico</trd>
@@ -37,7 +41,10 @@
     <trd>diagnose</trd>
   </trdgrp>
   <trd lng="ru">&c_d;&c_i;&c_a;&c_g;&c_n;&c_o;&c_z;</trd>
-  <trd lng="sk">diagn&oacute;za</trd>
+  <trdgrp lng="sk">
+    <trd>diagn&oacute;za</trd>,
+    <trd>diagnóza</trd>
+  </trdgrp>
   <trd lng="sv">diagnos</trd>
 </drv>
 
@@ -56,6 +63,13 @@
   </snc>
   <trd
   lng="be">&c_d;&c_y;&c_ja;&c_g;&c_n;&c_a;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>diagnostikovat</trd>,
+    <trd>diagnozovat</trd>,
+    <trd>rozpoznat</trd>,
+    <trd>stanovit diagnózu</trd>,
+    <trd>vyšetřit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>diagnostizieren</trd>,
     <trd>feststellen</trd>
@@ -77,14 +91,21 @@
     <trd>&c_d;&c_i;&c_a;&c_g;&c_n;&c_o;&c_s;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trdgrp lng="sk">
+    <trd>diagnostikova&tcaron;</trd>,
     <trd>ur&ccaron;i&tcaron; <ind>diagn&oacute;zu</ind></trd>,
-    <trd>diagnostikova&tcaron;</trd>
+    <trd>určiť diagnózu</trd>
   </trdgrp>
   <trd lng="sv">diagnosticera</trd>
 </drv>
 </art>
 <!--
 $Log: diagno.xml,v $
+Revision 1.19  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2010/10/20 16:31:25  revo
 Jerano Zachrisson: +trd sv
 

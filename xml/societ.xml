@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: societ.xml,v 1.19 2014/01/02 21:10:23 revo Exp $">
+<art mrk="$Id: societ.xml,v 1.22 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>societ</rad>/o  <fnt><bib>PV</bib></fnt>
@@ -85,7 +85,13 @@
     <trd>&c_g;&c_u;&c_r;&c_t;</trd>
   </trdgrp>
   <trd lng="ca">societat</trd>
-  <trd lng="cs">spolek</trd>
+  <trdgrp lng="cs">
+    <trd>asociace</trd>,
+    <trd>jednota</trd>,
+    <trd>spolek</trd>,
+    <trd>společenství</trd>,
+    <trd>společnost</trd>
+  </trdgrp>
   <trd lng="en">society</trd>
   <trd lng="fr">soci&eacute;t&eacute;</trd>
   <trdgrp lng="ru">
@@ -93,6 +99,11 @@
     <trd>&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_o;&c_b;&c_malmol;&c_je;&c_d;&c_i;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_k;&c_o;&c_m;&c_p;&c_a;&c_n;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>asociácia</trd>,
+    <trd>jednota</trd>,
+    <trd>spolok</trd>
   </trdgrp>
   <trd lng="tr">&scedil;irket</trd>
 </drv>
@@ -114,9 +125,17 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>družný</trd>,
+    <trd>společenský</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>liant<klr> (sociable)</klr></trd>,
     <trd>sociable</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>družný</trd>,
+    <trd>spoločenský</trd>
   </trdgrp>
 </drv>
 
@@ -137,10 +156,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">nespolečenský</trd>
   <trdgrp lng="fr">
     <trd>insociable</trd>,
     <trd>sauvage<klr> (peu sociable)</klr></trd>
   </trdgrp>
+  <trd lng="sk">nespoločenský</trd>
 </drv>
 
 <drv mrk="societ.akci0o">
@@ -162,6 +183,7 @@
     </rim>
   </snc>
   <trd lng="ca">societat an&ograve;nima <klr>[SA]</klr></trd>
+  <trd lng="cs">akciová společnost</trd>
   <trdgrp lng="de">
     <trd>Aktiengesellschaft</trd>,
     <trd>AG</trd>
@@ -176,20 +198,58 @@
     <trd>soci&eacute;t&eacute; par actions<klr> (SA)</klr></trd>
   </trdgrp>
   <trd lng="hu">r&eacute;szv&eacute;nyt&aacute;rsas&aacute;g</trd>
-  <trdgrp lng="sv">
-    <trd>aktiebolag</trd>,
-    <trd>AB</trd>
-  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_a;&c_k;&c_c;&c_i;&c_o;&c_n;&c_je;&c_r;&c_n;&c_o;&c_je;
       &c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_A;&c_O;</trd>
   </trdgrp>
+  <trd lng="sk">akciová spoločnosť</trd>
+  <trdgrp lng="sv">
+    <trd>aktiebolag</trd>,
+    <trd>AB</trd>
+  </trdgrp>
   <trd lng="tr">hisse senetli &scedil;irket<klr>(A.&Scedil;.)</klr></trd>
+</drv>
+
+<drv mrk="societ.sekreta0o">
+  <kap>sekreta <tld/>o</kap>
+  <snc mrk="societ.sekreta0o.KOMUNE">
+    <dif>
+      <tld lit="S"/>o, kiu ne publike konigas sian celon,
+      sian funkciadon a&ubreve; kies anoj ne publike agnoskas sian
+      anecon:
+      <ekz>
+        &Ubreve;ang la Leono estis &ccirc;efo de sekreta <tld/>o, kiu havis en la 
+        montaro sian &ccirc;efsidejon
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk><url
+          ref="http://www.ukrainio.org.ua/dosieroj/ulej/libroj/CHUN-CHAN%20YEH.txt">
+          Montara Vila&gcirc;o</url></vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">tajný spolek</trd>
+  <trd lng="en">secret society</trd>
+  <trd lng="fr">soci&eacute;t&eacute; secr&egrave;te</trd>
+  <trd lng="hu">titkos t&aacute;rsas&aacute;g</trd>
+  <trd lng="it">societ&agrave; segreta</trd>
+  <trd lng="sk">tajný spolok</trd>
 </drv>
 </art>
 <!--
 $Log: societ.xml,v $
+Revision 1.22  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/12/09 03:11:34  revo
+Jeromo Vasxe: + sekreta ~o
+
 Revision 1.19  2014/01/02 21:10:23  revo
 Jeromo Vasxe: + (mal)~ema
 
@@ -209,8 +269,5 @@ Revision 1.14  2005/05/02 16:31:11  revo
 Sergio Pokrovskij: dif, ekz, snc-ARK
 
 Revision 1.13  2005/04/29 16:32:38  revo
-Yury Finkel: +trd ru
-
-Revision 1.12  2004/10/18 16:32:51  revo
 -->
 </vortaro>

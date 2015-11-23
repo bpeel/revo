@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vask.xml,v 1.11 2010/04/09 16:31:42 revo Exp $">
+<art mrk="$Id: vask.xml,v 1.14 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <rad>vask</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -18,6 +18,7 @@
   </snc>
   <trd lng="be">&c_b;&c_a;&c_s;&c_k;</trd>
   <trd lng="ca">basc</trd>
+  <trd lng="cs">nádrž fontány</trd>
   <trd lng="de">Baske</trd>
   <trd lng="en">Basque</trd>
   <trd lng="es">vasco</trd>
@@ -30,6 +31,7 @@
   </trdgrp>
   <trd lng="pt">basco</trd>
   <trd lng="ru">&c_b;&c_a;&c_s;&c_k;</trd>
+  <trd lng="sk">nádrž vodometu</trd>
 </drv>
 
 <drv mrk="vask.0a">
@@ -38,17 +40,18 @@
     <dif>
       Rilata al <tld/>oj, al ilia kulturo a&ubreve; moroj:
     </dif>
-    <ref tip="sin" cel="euxsk.0a">e&ubreve;ska</ref>
     <ekz>
       en la kale&scirc;o sidis <klr>...</klr> <tld/>a
       sinjorino
       <fnt><bib>DonKihxoto</bib>, <lok>parto 1a, &ccirc;apitro 8a, p.
       69a</lok></fnt>.
     </ekz>
+  <ref tip="sin" cel="euxsk.0a">e&ubreve;ska</ref>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_s;&c_k;&c_ib;</trd>
-  <trd lng="de">baskisch</trd>
   <trd lng="ca">basc</trd>
+  <trd lng="cs">baskický</trd>
+  <trd lng="de">baskisch</trd>
   <trd lng="en">Basque</trd>
   <trd lng="es">vasco</trd>
   <trd lng="fr">basque<klr> (adj.)</klr></trd>
@@ -56,10 +59,20 @@
   <trd lng="nl">Baskisch</trd>
   <trd lng="pl">baskijski</trd>
   <trd lng="ru">&c_b;&c_a;&c_s;&c_k;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">baskický</trd>
 </drv>
 </art>
 <!--
 $Log: vask.xml,v $
+Revision 1.14  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2015/01/13 12:10:24  revo
+Damien Brucker: +alilokigo de ref
+
 Revision 1.11  2010/04/09 16:31:42  revo
 Sebastian Cyprych: +trd pl
 
@@ -79,8 +92,5 @@ Revision 1.6  2004/11/05 17:32:20  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.5  2004/02/27 17:31:05  revo
-Jeromo Vasxe: preciz. fnt
-
-Revision 1.4 2003/09/09 16:31:30 revo
 -->
 </vortaro>

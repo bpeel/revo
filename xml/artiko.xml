@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: artiko.xml,v 1.27 2014/05/08 18:11:07 revo Exp $">
+<art mrk="$Id: artiko.xml,v 1.32 2015/09/17 03:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>artikol</rad>/o
@@ -52,9 +52,15 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="la.0">la</ref>
-    <rim> 
-    En Esperanto nedifinita <tld/>o ne ekzistas: sed por la uzado de ia
-    nedifinita <tld/>o vidu &ccirc;e <ref tip="sin"
+    <rim num="1">
+    La uzado de la <tld/>o estas tia sama, kiel en la Germana, Franca
+    kaj aliaj lingvoj. La personoj, por kiuj la uzado de la <tld/>o
+    prezentas malfacila&jcirc;on, povas tute &gcirc;in ne
+    uzi<fnt><bib>F</bib></fnt>.
+    </rim>
+    <rim num="2"> 
+    En Esperanto nedifina <tld/>o ne ekzistas: sed por la uzado de ia
+    nedifina <tld/>o vidu &ccirc;e <ref tip="sin"
     cel="iu.0.elektajxo">iu</ref>, <ref tip="sin"
     cel="unu.0.artikolo">unu</ref>, <ref tip="sin"
     cel="cert.0a.difinebla">certa</ref>.
@@ -65,6 +71,7 @@
     <trd lng="sk">&ccaron;len</trd>
   </snc>
   <snc mrk="artiko.0o.teksto">
+  <uzo tip="fak">TIP</uzo>
     <dif>
       Tekstopeco el pli granda tuto:
     </dif>
@@ -109,18 +116,28 @@
     <trd lng="sk">&ccaron;l&aacute;nok</trd>
   </snc>
   <snc mrk="artiko.0o.artiklo">
-    <dif>
-      <ref tip="dif" cel="artikl.0o">Artiklo</ref>.
-    </dif>
+  <uzo tip="fak">EKON</uzo>
+      <ref tip="dif" cel="artikl.0o">Artiklo</ref>
     <trd lng="ru">&c_a;&c_r;&c_t;&c_i;&c_k;&c_u;&c_l;</trd>
   </snc>
   <trd lng="ca">article</trd>
+  <trdgrp lng="cs">
+    <trd>polo&zcaron;ka</trd>,
+    <trd>sta&tcaron;</trd>,
+    <trd>&ccaron;len</trd>,
+    <trd>&ccaron;l&aacute;nek</trd>
+  </trdgrp>
   <trd lng="de">Artikel</trd>
   <trd lng="en">article</trd>
   <trd lng="es">art&iacute;culo</trd>
   <trd lng="fr">article</trd>
   <trd lng="it">articolo</trd>
   <trd lng="nl">artikel</trd>
+  <trdgrp lng="sk">
+    <trd>1.&ccaron;len</trd>,
+    <trd>2.&ccaron;l&aacute;nok <klr>(novin.)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">artigo</trd>
   <trd lng="sv">artikel</trd>
 </drv>
 
@@ -139,18 +156,35 @@
       </ekz>
     </dif>
     </snc>
-    <trd lng="be">&c_z;&c_b;&c_o;&c_r;&c_n;&c_ib;&c_k; &c_a;&c_r;&c_t;&c_y;&c_k;&c_u;&c_l;&c_a;&c_w;</trd>       
-    <trdgrp lng="br">
+  <trd lng="be">&c_z;&c_b;&c_o;&c_r;&c_n;&c_ib;&c_k; &c_a;&c_r;&c_t;&c_y;&c_k;&c_u;&c_l;&c_a;&c_w;</trd>
+  <trdgrp lng="br">
       <trd>dastumad<klr tip="ind"> (skrido&ugrave;)</klr></trd>,  
       <trd>teskad<klr tip="ind"> (skrido&ugrave;)</klr></trd>
     </trdgrp>
-    <trd lng="fr">recueil<klr> (d'articles)</klr></trd>
-    <trd lng="ru">&c_s;&c_b;&c_o;&c_r;&c_n;&c_i;&c_k; &c_s;&c_t;&c_a;&c_t;&c_je;&c_j;</trd>
-  </drv>
+  <trd lng="cs">soubor &ccaron;l&aacute;nk&uring;</trd>
+  <trd lng="fr">recueil<klr> (d'articles)</klr></trd>
+  <trd lng="ru">&c_s;&c_b;&c_o;&c_r;&c_n;&c_i;&c_k; &c_s;&c_t;&c_a;&c_t;&c_je;&c_j;</trd>
+  <trd lng="sk">s&uacute;bor &ccaron;l&aacute;nkov</trd>
+</drv>
 
 </art>
 <!--
 $Log: artiko.xml,v $
+Revision 1.32  2015/09/17 03:10:23  revo
+Evandro Avellar: +trd pt
+
+Revision 1.31  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2015/01/20 16:10:18  revo
+Damien Brucker: +fak
+
+Revision 1.28  2015/01/20 15:10:16  revo
+Damien Brucker: +rim 2
+
 Revision 1.27  2014/05/08 18:11:07  revo
 Damien Brucker: +ekz
 
@@ -158,20 +192,5 @@ Revision 1.26  2013/12/23 10:10:15  revo
 Damien Brucker: +ekz
 
 Revision 1.25  2013/12/19 09:10:11  revo
-Damien Brucker: -tajperaro
-
-Revision 1.24  2013/12/18 18:10:09  revo
-Damien Brucker: kompletigo de la difino
-
-Revision 1.23  2013/12/18 17:10:11  revo
-Damien Brucker: +rim (dauxrigo)
-
-Revision 1.22  2013/12/08 11:10:14  revo
-Damien Brucker: +ref la
-
-Revision 1.21  2013/12/05 10:10:10  revo
-Damien Brucker: +trd fr
-
-Revision 1.20  2013/09/12 08:10:11  revo
 -->
 </vortaro>

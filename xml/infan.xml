@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: infan.xml,v 1.37 2014/05/08 18:11:16 revo Exp $">
+<art mrk="$Id: infan.xml,v 1.40 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>infan</rad>/o <fnt><bib>PV</bib></fnt>
@@ -62,15 +62,25 @@
     <trd>xiquet</trd>,
     <trd>infant</trd>
   </trdgrp>
-  <trd lng="cs">d&iacute;t&ecaron;</trd>
-  <trd lng="en">child</trd>
-  <trd lng="fr">enfant</trd>
-  <trd lng="es">ni&ntilde;o</trd>
+  <trdgrp lng="cs">
+    <trd>d&iacute;t&ecaron;</trd>,
+    <trd>dítě</trd>,
+    <trd>děti</trd>,
+    <trd>děťátko</trd>
+  </trdgrp>
   <trd lng="de">Kind</trd>
+  <trd lng="en">child</trd>
+  <trd lng="es">ni&ntilde;o</trd>
+  <trd lng="fr">enfant</trd>
   <trdgrp lng="hu">
     <trd>gyerek</trd>,
     <trd>gyermek</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>anak</ind>-anak</trd>,
+    <trd><ind>anak</ind> kecil</trd>
+  </trdgrp>
+  <trd lng="it">bambino</trd>
   <trdgrp lng="ku">
     <trd>zarok</trd>,
     <trd>mindal</trd>
@@ -83,6 +93,7 @@
     <trd>&c_r;&c_je;&c_b;&c_jo;&c_n;&c_o;&c_k;</trd>,
     <trd>&c_d;&c_i;&c_t;&c_ja;</trd>
   </trdgrp>
+  <trd lng="sk">dieťa</trd>
   <trd lng="sv">barn</trd>
   <trd lng="tr">&ccedil;ocuk</trd>
   <trd lng="uk">&c_d;&c_i;&c_t;&c_i;&c_n;&c_a;</trd>
@@ -93,7 +104,6 @@
     <trd>&#20799;</trd>,
     <trd><klr>tr. </klr>&#20818;<klr> [&eacute;r]</klr></trd>
   </trdgrp>
-  <trd lng="it">bambino</trd>
 </drv>
 
 <drv mrk="infan.0a">
@@ -131,6 +141,10 @@
       <trd>gyermekes</trd>,
       <trd>gyermeki</trd>
     </trdgrp>
+    <trdgrp lng="id">
+      <trd>[<ind>kanak</ind>] kekanak-kanakan</trd>,
+      <trd>naif</trd>
+    </trdgrp>
     <trd lng="nl">kinderlijk</trd>
     <trd lng="sv">barnslig</trd>
   </snc>
@@ -139,21 +153,30 @@
     <trd>infantil</trd>,
     <trd>pueril</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dětinský</trd>,
+    <trd>dětský</trd>
+  </trdgrp>
   <trd lng="es">infantil</trd>
   <trdgrp lng="fr">
     <trd>enfantin</trd>,
     <trd>infantile</trd>
   </trdgrp>
-  <trd lng="pl">dzieci&eogonek;cy</trd>
-  <trd lng="pt">infantil</trd>
-  <trd lng="ro">de <ind>copil</ind></trd>
-  <trd lng="ru">&c_d;&c_je;&c_t;&c_s;&c_k;&c_i;&c_j;</trd>
-  <trd lng="uk">&c_d;&c_i;&c_t;&c_ja;&c_ch;&c_i;&c_j;</trd>
-  <trd lng="vo">cilik</trd>
   <trdgrp lng="it">
     <trd>infantile</trd>,
     <trd>bambinesco</trd>
   </trdgrp>
+  <trd lng="pl">dzieci&eogonek;cy</trd>
+  <trd lng="pt">infantil</trd>
+  <trd lng="ro">de <ind>copil</ind></trd>
+  <trd lng="ru">&c_d;&c_je;&c_t;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>detský</trd>,
+    <trd>nerozumný</trd>,
+    <trd>pren: neskúsený</trd>
+  </trdgrp>
+  <trd lng="uk">&c_d;&c_i;&c_t;&c_ja;&c_ch;&c_i;&c_j;</trd>
+  <trd lng="vo">cilik</trd>
 </drv>
 
 <drv mrk="infan.0eco">
@@ -173,12 +196,18 @@
   </snc>
   <trd lng="be">&c_d;&c_z;&c_ja;&c_c;&c_ib;&c_n;&c_s;&c_t;&c_v;&c_a;</trd>
   <trd lng="ca">inf&agrave;ncia</trd>
+  <trdgrp lng="cs">
+    <trd>dětinskost</trd>,
+    <trd>dětinství</trd>
+  </trdgrp>
   <trd lng="fr">enfance</trd>
+  <trd lng="id"><ind>masa</ind> kanak-kanak</trd>
+  <trd lng="it">infanzia</trd>
   <trd lng="pl">dzieci&nacute;stwo</trd>
   <trd lng="pt">inf&acirc;ncia</trd>
   <trd lng="ro">copil&abreve;rie</trd>
   <trd lng="ru">&c_d;&c_je;&c_t;&c_s;&c_t;&c_v;&c_o;</trd>
-  <trd lng="it">infanzia</trd>
+  <trd lng="sk">infantilizmus</trd>
 </drv>
 
 <drv mrk="infan.0eto">
@@ -195,6 +224,7 @@
         <fnt><bib>NT</bib>, <lok>&Luk; 18:15</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="id">bayi</trd>
   </snc>
   <snc mrk="infan.0eto.feto">
     <dif>
@@ -206,13 +236,20 @@
         <fnt><bib>NT</bib>, <lok>&Luk; 1:41</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="id">janin</trd>
   </snc>
   <trdgrp lng="ca">
     <trd>miny&oacute;</trd>,
     <trd>beb&eacute;</trd>,
     <trd>nounat</trd>
   </trdgrp>
+  <trd lng="cs">děťátko</trd>
   <trd lng="fr">petit<klr tip="amb"> (enfant)</klr></trd>
+  <trdgrp lng="it">
+    <trd>pargolo</trd>,
+    <trd>infante</trd>,
+    <trd>bambinello</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>berbe&cacute;</trd>,
     <trd>bobas</trd>
@@ -223,10 +260,9 @@
     <trd>nen&ecirc;</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_a;&c_l;&c_y;&c_sh;</trd>
-  <trdgrp lng="it">
-    <trd>pargolo</trd>,
-    <trd>infante</trd>,
-    <trd>bambinello</trd>
+  <trdgrp lng="sk">
+    <trd>dieťatko</trd>,
+    <trd>pachoľa</trd>
   </trdgrp>
 </drv>
 
@@ -250,6 +286,7 @@
     <trd>mainadera</trd>,
     <trd>puericultora</trd>
   </trdgrp>
+  <trd lng="cs">chůva</trd>
   <trdgrp lng="de">
     <trd>Kinderg&auml;rtnerin</trd>,
     <trd>Erzieherin</trd>
@@ -257,11 +294,15 @@
   <trdgrp lng="fr">
     <trd>assistante maternelle</trd>,
     <trd>pu&eacute;ricultrice</trd>
+  </trdgrp><trdgrp lng="fr">
+    <trd>maestra d'infanzia</trd>,
+    <trd>puericultrice</trd>
   </trdgrp>
   <trdgrp lng="hu">
     <trd>dada</trd>,
     <trd>dajka</trd>
   </trdgrp>
+  <trd lng="id">pramusiwi</trd>
   <trd lng="nl">kinderverzorgster</trd>
   <trdgrp lng="pl">
     <trd>bona</trd>,
@@ -272,10 +313,7 @@
     <trd>&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_a;</trd>,
     <trd>&c_n;&c_ja;&c_n;&c_ja;</trd>
   </trdgrp>
-  <trdgrp lng="fr">
-    <trd>maestra d'infanzia</trd>,
-    <trd>puericultrice</trd>
-  </trdgrp>
+  <trd lng="sk">pestúnka</trd>
 </drv>
 
 <drv mrk="infan.0umi">
@@ -309,19 +347,24 @@
   </snc>
   <trd lng="be">&c_v;&c_u;&c_n;&c_d;&c_e;&c_r;&c_k;&c_ib;&c_n;&c_d;</trd>
   <trd lng="ca">nen <ind>prodigi</ind></trd>
+  <trdgrp lng="cs">
+    <trd>udivující dítě</trd>,
+    <trd>zázračné dítě</trd>
+  </trdgrp>
   <trd lng="de">Wunderkind</trd>
   <trdgrp lng="fr">
     <trd>enfant prodige</trd>,
     <trd>enfant <ind>surdou&eacute;</ind></trd>
   </trdgrp>
   <trd lng="hu">csodagyerek</trd>
+  <trd lng="it">bambino prodigio</trd>
   <trd lng="nl">wonderkind</trd>
   <trd lng="pl">cudowne <ind>dziecko</ind></trd>
   <trd lng="pt">crian&ccedil;a prod&iacute;gio</trd>
-  <trd lng="sv">underbarn</trd>
   <trd lng="ru">&c_v;&c_u;&c_n;&c_d;&c_je;&c_r;&c_k;&c_i;&c_n;&c_d;</trd>
+  <trd lng="sk">zázračné dieťa</trd>
+  <trd lng="sv">underbarn</trd>
   <trd lng="uk">&c_v;&c_u;&c_n;&c_d;&c_je;&c_r;&c_k;&c_ib;&c_n;&c_d;</trd>
-  <trd lng="it">bambino prodigio</trd>
 </drv>
 
 <drv mrk="infan.sen0a">
@@ -346,6 +389,7 @@
     <trd><ind>sense </ind>descend&egrave;ncia</trd>,
     <trd>est&egrave;ril</trd>
   </trdgrp>
+  <trd lng="cs">bezdětný</trd>
   <trd lng="de">kinderlos</trd>
   <trd lng="fr">sans descendance</trd>
   <trdgrp lng="pl">
@@ -354,6 +398,7 @@
   </trdgrp>
   <trd lng="pt">sem <ind>filho</ind></trd>
   <trd lng="ru">&c_b;&c_je;&c_z;&c_d;&c_je;&c_t;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">bezdetný</trd>
 </drv>
 
 <drv mrk="infan.sol0o">
@@ -372,14 +417,20 @@
   <trd lng="be">&c_a;&c_d;&c_z;&c_ib;&c_n;&c_a;&c_je; 
     &c_d;&c_z;&c_ib;&c_c;&c_ja;</trd>
   <trd lng="ca">fill <ind>&uacute;nic</ind></trd>
+  <trd lng="cs">jedináček</trd>
   <trd lng="de">Einzelkind</trd>
   <trd lng="fr">enfant unique</trd>
+  <trdgrp lng="id">
+    <trd><ind>anak</ind> semata wayang</trd>,
+    <trd><ind>anak</ind> tunggal</trd>
+  </trdgrp>
+  <trd lng="it">figlio unico</trd>
   <trd lng="pl">jedynak</trd>
   <trd lng="pt">filho &uacute;nico</trd>
   <trd lng="ru">
     &c_je;&c_d;&c_i;&c_n;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j; 
     &c_r;&c_je;&c_b;&c_jo;&c_n;&c_o;&c_k;</trd>
-  <trd lng="it">figlio unico</trd>
+  <trd lng="sk">jedináčik</trd>
 </drv>
 
 <drv mrk="infan.sucx0o">
@@ -416,6 +467,7 @@
     <trd>nourrisson</trd>
   </trdgrp>
   <trd lng="hu">csecsem&odblac;</trd>
+  <trd lng="id">bayi</trd>
   <trd lng="nl">zuigeling</trd>
   <trdgrp lng="pl">
     <trd>niemowl&eogonek;</trd>,
@@ -438,6 +490,15 @@
 </art>
 <!--
 $Log: infan.xml,v $
+Revision 1.40  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.38  2015/01/23 09:10:18  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.37  2014/05/08 18:11:16  revo
 Damien Brucker: +ekz
 
@@ -457,8 +518,5 @@ Revision 1.32  2009/03/09 17:30:41  revo
 Antonio Codazzi: +trd it
 
 Revision 1.31  2008/01/15 17:30:44  revo
-Wieland Pusch: +trd bg
-
-Revision 1.30  2007/07/12 16:30:45  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: marmel.xml,v 1.19 2011/12/03 21:10:14 revo Exp $">
+<art mrk="$Id: marmel.xml,v 1.21 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>marmelad</rad>/o
@@ -24,6 +24,7 @@
     <trd>compota</trd>,
     <trd>confitura</trd>
   </trdgrp>
+  <trd lng="cs">marmeláda</trd>
   <trd lng="de">Marmelade</trd>
   <trdgrp lng="en">
     <trd>marmelade</trd>,
@@ -49,12 +50,22 @@
   </trdgrp>
   <trd lng="pt">gel&eacute;ia de frutas</trd>
   <trd lng="ru">&c_m;&c_a;&c_r;&c_m;&c_je;&c_l;&c_a;&c_d;</trd>
+  <trdgrp lng="sk">
+    <trd>džem</trd>,
+    <trd>lekvár</trd>
+  </trdgrp>
   <trd lng="sv">marmelad</trd>
   <trd lng="tr">re&ccedil;el</trd>
 </drv>
 </art>
 <!--
 $Log: marmel.xml,v $
+Revision 1.21  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2011/12/03 21:10:14  revo
 Marc Rausell: kataluna traduko
 

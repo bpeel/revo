@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kultur.xml,v 1.25 2014/06/28 20:10:13 revo Exp $">
+<art mrk="$Id: kultur.xml,v 1.29 2015/10/02 19:10:15 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kultur</rad>/i <fnt><bib>PV</bib></fnt> 
@@ -118,18 +118,31 @@
     <trd lng="nl">beschaven</trd>
     <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_v;&c_je;&c_shch;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>chovat</trd>,
+    <trd>kultivovat</trd>,
+    <trd>obd&ecaron;lat</trd>,
+    <trd>obd&ecaron;l&aacute;vat</trd>,
+    <trd>p&ecaron;stovat</trd>,
+    <trd>vyp&ecaron;stovat</trd>,
+    <trd>vzd&ecaron;l&aacute;vat</trd>
+  </trdgrp>
   <trd lng="en">culture</trd>
   <trd lng="es">cultivar</trd>
   <trd lng="fr">cultiver</trd>
+  <trdgrp lng="sk">
+    <trd>obr&aacute;ba&tcaron;</trd>,
+    <trd>pestova&tcaron;</trd>,
+    <trd>vypestova&tcaron;</trd>,
+    <trd>vzdel&aacute;va&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kultur.0o">
   <kap><tld/>o</kap>
   <snc mrk="kultur.0o.AGR">
     <uzo tip="fak">AGR</uzo>
-    <dif>
-      Prilaborado pri tero, por igi &gcirc;in fruktodona.
-    </dif>
+    <ref tip="dif" cel="kultur.ter0o.AGR">ter<tld/>o</ref>
     <trdgrp lng="de">
       <trd>Anbau</trd>,
       <trd>Kultivierung</trd>
@@ -211,8 +224,20 @@
     <trd lng="ru">&c_k;&c_u;&c_l;&c_mol;&c_t;&c_u;&c_r;&c_a;</trd>
   </snc>
   <trd lng="be">&c_k;&c_u;&c_l;&c_mol;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>chov</trd>,
+    <trd>kultura</trd>,
+    <trd>p&ecaron;stov&aacute;n&iacute;</trd>,
+    <trd>vzd&ecaron;lanost</trd>
+  </trdgrp>
   <trd lng="es">cultivo</trd>
   <trd lng="fr">culture</trd>
+  <trdgrp lng="sk">
+    <trd>chov</trd>,
+    <trd>kult&uacute;ra</trd>,
+    <trd>pestovanie</trd>,
+    <trd>vzdelanos&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kultur.0a">
@@ -265,6 +290,8 @@
       <ref cel="sark.brul0i.AGR">brulsarki</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="en"><trd>slash-and-burn cultivation</trd>, <trd>shifting
+  cultivation</trd>, <trd>swiddening</trd></trdgrp>
   <trd lng="fr">agriculture sur brulis</trd>
 </drv>
 
@@ -352,8 +379,8 @@
   <snc mrk="kultur.sen0a.neflegata">
     <uzo tip="klr">(pri vegeta&jcirc;o, besto)</uzo>
     <dif>
-      Ne<tld/>ita, <ref tip="vid" cel="krud.0a">kruda</ref>, <ref
-      tip="vid" cel="sovagx.0a">sova&gcirc;a</ref>.
+      Ne<tld/>ita, <ref tip="vid" cel="krud.0a.KOMUNE">kruda</ref>,
+      <ref tip="vid" cel="sovagx.0a">sova&gcirc;a</ref>.
     </dif>
     <trdgrp lng="be">
       <trd>&c_d;&c_z;&c_ib;&c_k;&c_ib;</trd>,
@@ -372,9 +399,9 @@
   <snc mrk="kultur.sen0a.spirite">
     <uzo tip="klr">(pri homo)</uzo>
     <dif>
-      Ne<tld/>ita, <ref tip="vid" cel="brut">bruta</ref>, <ref tip="vid"
-      cel="kler.mal0a">malklera</ref>, <ref tip="vid"
-      cel="krud.0a">kruda</ref>:
+      Ne<tld/>ita, <ref tip="vid" cel="brut.0a">bruta</ref>,
+      <ref tip="vid" cel="kler.mal0a">malklera</ref>,
+      <ref tip="vid" cel="krud.0a.MOR">kruda</ref>:
       <ekz>
         sen<tld/>aj ekscentraj esperantistoj
         <fnt><bib>Plumamikoj</bib>, <lok>kie komencu
@@ -418,6 +445,14 @@
       </ekz>
      <trd lng="fr">friche</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>neobd&ecaron;lan&eacute; pole</trd>,
+    <trd>&uacute;hor</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>neobroben&eacute; pole</trd>,
+    <trd>&uacute;hor</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kultur.sub0o">
@@ -441,9 +476,58 @@
   </snc>
   <trd lng="fr">sous-culture</trd>
 </drv>
+
+<drv mrk="kultur.ter0o">
+  <kap>ter<tld/>o</kap>
+  <snc mrk="kultur.ter0o.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Prilaborado pri tero, por igi &gcirc;in fruktodona;
+      <ref tip="sin" cel="kultur.0o.AGR">kulturo</ref>,
+      <ref tip="sin" cel="agriku.0o.AGR">agrikulturo</ref>.
+    </dif>
+  </snc>
+  <trd lng="fr">travail de la terre</trd>
+</drv>
+
+<drv mrk="kultur.ter0isto">
+  <kap>ter<tld/>isto</kap>
+  <snc mrk="kultur.ter0isto.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Persono profesie laboranta en la <tld/>ado de tero,
+      kreskigo de vegeta&jcirc;oj, bredado de bestoj;
+      <ref tip="sin" cel="agriku.0isto.AGR">agrikulturisto</ref>,
+      <ref tip="sin" cel="kamp.0isto.AGR">kampisto</ref>:
+      <ekz>
+        &ccirc;u vi a&ubreve;dis pri ter<tld/>isto, kiu printempe semas siajn 
+        kampojn, sed a&ubreve;tune, kiam la greno maturi&gcirc;is, ne rikoltas &gcirc;in?  
+        <fnt>
+          <aut>H. Seppik</aut>,
+          <vrk><url ref="http://www.esperanto.mv.ru/Seppik/kajnun.html">
+          La tuta Esperanto</url></vrk>,
+          <lok>[1938?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">cultivateur</trd>
+</drv>
 </art>
 <!--
 $Log: kultur.xml,v $
+Revision 1.29  2015/10/02 19:10:15  revo
+Jeromo Vasxe: + ter~o ter~isto
+
+Revision 1.28  2015/09/12 19:10:30  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.27  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.25  2014/06/28 20:10:13  revo
 Jeromo Vasxe: + brul~o
 
@@ -454,17 +538,5 @@ Revision 1.23  2011/05/27 19:10:09  revo
 Jeromo Vasxe: + ,
 
 Revision 1.22  2011/05/25 11:10:10  revo
-Jeromo Vasxe: kor 1 ref
-
-Revision 1.21  2011/05/05 22:10:10  revo
-Jeromo Vasxe: + plur~eco
-
-Revision 1.20  2011/03/09 23:10:14  revo
-Jeromo Vasxe: + kontraux~o
-
-Revision 1.19  2010/07/04 16:30:27  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.18  2009/09/23 17:26:05  revo
 -->
 </vortaro>

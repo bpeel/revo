@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prepuc.xml,v 1.15 2014/01/05 17:10:16 revo Exp $">
+<art mrk="$Id: prepuc.xml,v 1.17 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <rad>prepuci</rad>/o
   <fnt>Z</fnt>
@@ -16,16 +16,17 @@
       <ref tip="vid" cel="penis.0o">peniso</ref>.
     </dif>
   </snc>
-    <trdgrp lng="en">
-      <trd>prepuce</trd>,
-      <trd>foreskin</trd>
-    </trdgrp>
   <trdgrp lng="be">
     <trd>&c_k;&c_r;&c_a;&c_j;&c_n;&c_ja;&c_ja; &c_p;&c_l;&c_o;&c_c;&c_mol;</trd>,
     <trd>&c_s;&c_k;&c_u;&c_r;&c_a;&c_v;&c_ib;&c_n;&c_k;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">prepuci</trd>
+  <trd lng="cs">předkožka</trd>
   <trd lng="de">Vorhaut</trd>
+  <trdgrp lng="en">
+      <trd>prepuce</trd>,
+      <trd>foreskin</trd>
+    </trdgrp>
   <trd lng="es">prepucio</trd>
   <trd lng="fr">pr&eacute;puce</trd>
   <trdgrp lng="hu">
@@ -40,10 +41,17 @@
     <trd>acrop&oacute;stia</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_r;&c_a;&c_j;&c_n;&c_ja;&c_ja; &c_p;&c_l;&c_o;&c_t;&c_mol;</trd>
+  <trd lng="sk">predkožka</trd>
 </drv>
 </art>
 <!--
 $Log: prepuc.xml,v $
+Revision 1.17  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2014/01/05 17:10:16  revo
 Damien Brucker: +trd fr
 

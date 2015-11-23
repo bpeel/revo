@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: log.xml,v 1.21 2014/10/06 20:10:37 revo Exp $">
+<art mrk="$Id: log.xml,v 1.24 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>log</rad>/i <fnt><bib>PV</bib></fnt>
@@ -66,7 +66,10 @@
     <trd>&c_p;&c_r;&c_y;&c_v;&c_a;&c_b;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_s;&c_p;&c_a;&c_k;&c_u;&c_sh;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="cs">l&aacute;kat</trd>
+  <trdgrp lng="cs">
+    <trd>l&aacute;kat</trd>,
+    <trd>vábit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>locken</trd>,
     <trd>anlocken</trd>,
@@ -84,9 +87,17 @@
     <trd>lokken</trd>,
     <trd>aantrekken</trd>
   </trdgrp>
+  <trdgrp lng="no">
+    <trd>lokke</trd>,
+    <trd>tiltrekke</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>atrair</trd>,
     <trd>tentar</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>lákať</trd>,
+    <trd>vábiť</trd>
   </trdgrp>
   <trd lng="sv">locka</trd>
 </drv>
@@ -108,6 +119,10 @@
   <trdgrp lng="be">
     <trd>&c_s;&c_p;&c_a;&c_k;&c_u;&c_s;&c_a;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_n;&c_a;&c_d;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lákadlo</trd>,
+    <trd>vnadidlo</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Lockmittel</trd>,
@@ -132,6 +147,7 @@
     <trd>lokmiddel</trd>,
     <trd>aantrekkingsmiddel</trd>
   </trdgrp>
+  <trd lng="no">lokkemiddel</trd>
   <trdgrp lng="pt">
     <trd>atrativo</trd>,
     <trd>isca</trd>
@@ -140,6 +156,10 @@
     <trd>&c_p;&c_r;&c_i;&c_m;&c_a;&c_n;&c_k;&c_a;</trd>,
     <trd>&c_s;&c_o;&c_b;&c_l;&c_a;&c_z;&c_n;</trd>,
     <trd>&c_i;&c_s;&c_k;&c_u;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vnadidlo</trd>,
+    <trd>vábidlo</trd>
   </trdgrp>
 </drv>
 
@@ -161,6 +181,12 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_p;&c_a;&c_k;&c_u;&c_sh;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>lákat</trd>,
+    <trd>odlákat</trd>,
+    <trd>svádět</trd>,
+    <trd>zlákat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>weglocken</trd>,
     <trd>verleiten</trd>
@@ -169,17 +195,21 @@
     <trd>beguile</trd>,
     <trd>seduce</trd>
   </trdgrp>
+  <trd lng="es">seducir</trd>
   <trd lng="fr">s&eacute;duire</trd>
   <trdgrp lng="hu">
     <trd>elcs&aacute;b&iacute;t</trd>,
     <trd>elcsal</trd>
   </trdgrp>
-	<trd lng="es">seducir</trd>
   <trdgrp lng="nl">
     <trd>weglokken</trd>,
     <trd>verleiden</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_o;&c_b;&c_l;&c_a;&c_z;&c_n;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>odvábiť</trd>,
+    <trd>zvábiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="log.el0i">
@@ -199,6 +229,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_b;&c_a;&c_v;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="cs">vylákat</trd>
   <trdgrp lng="en">
     <trd>draw out</trd>,
     <trd>elicit</trd>
@@ -210,7 +241,9 @@
     <trd>kiszed</trd>
   </trdgrp>
   <trd lng="nl">ontfutselen</trd>
+  <trd lng="no">fralure</trd>
   <trd lng="ru">&c_v;&c_y;&c_m;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">vylákať</trd>
 </drv>
 
 <drv mrk="log.en0i">
@@ -230,8 +263,10 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">vlákat <klr>(kam)</klr></trd>
   <trd lng="en">lure in</trd>
   <trd lng="fr">attirer &agrave; l'int&eacute;rieur</trd>
+  <trd lng="sk">vlákať <klr>(niekam)</klr></trd>
 </drv>
 
 <drv mrk="log.mal0i">
@@ -258,7 +293,7 @@
     <trd>&c_a;&c_d;&c_p;&c_u;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_a;&c_d;&c_sh;&c_t;&c_u;&c_r;&c_h;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
-	<trd lng="es">desagradar</trd>
+  <trd lng="cs">odpuzovat</trd>
   <trdgrp lng="de">
     <trd>abschrecken</trd>,
     <trd>verleiden</trd>
@@ -268,6 +303,7 @@
     <trd>repel</trd>,
     <trd>be repugnant</trd>
   </trdgrp>
+  <trd lng="es">desagradar</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;gouter</trd>,
     <trd>repousser<klr> (d&eacute;gouter)</klr></trd>
@@ -277,10 +313,12 @@
     <trd>tasz&iacute;t</trd>
   </trdgrp>
   <trd lng="nl">afstoten</trd>
+  <trd lng="no">frast&oslash;te</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_t;&c_t;&c_a;&c_l;&c_k;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_t;&c_p;&c_u;&c_g;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">odpudzovať</trd>
 </drv>
 
 <drv mrk="log.seksal0a">
@@ -307,6 +345,15 @@
 </art>
 <!--
 $Log: log.xml,v $
+Revision 1.24  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/12/05 11:10:16  revo
+Filip van Laenen: +trd(no)
+
 Revision 1.21  2014/10/06 20:10:37  revo
 Jeromo Vasxe: + seksal~a
 
@@ -326,8 +373,5 @@ Revision 1.16  2004/05/07 16:31:55  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.15  2002/09/12 16:35:31  revo
-Eduardo M. Kalinowski: ald trd pt
-
-Revision 1.14  2002/02/23 19:52:27  revo
 -->
 </vortaro>

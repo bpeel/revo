@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: murmur.xml,v 1.19 2013/09/25 18:10:35 revo Exp $">
+<art mrk="$Id: murmur.xml,v 1.21 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>murmur</rad>/i <fnt><bib>PV</bib></fnt>
@@ -120,12 +120,24 @@
     <trd>&c_sh;&c_u;&c_m;&c_je;&c_c;&c_mol;</trd>,
     <trd>&c_sh;&c_o;&c_r;&c_g;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="en">murmur</trd>
+  <trdgrp lng="cs">
+    <trd>bručet</trd>,
+    <trd>bublat</trd>,
+    <trd>hučet</trd>,
+    <trd>mručet</trd>,
+    <trd>skuhrat</trd>,
+    <trd>šumět</trd>
+  </trdgrp>
   <trd lng="de">murmeln</trd>
+  <trd lng="en">murmur</trd>
   <trdgrp lng="nl">
     <trd>murmelen</trd>,
     <trd>brommen</trd>,
     <trd>morren</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hundrať; žblnkotať; štebotať</trd>,
+    <trd>mrmlať</trd>
   </trdgrp>
 </drv>
 
@@ -153,6 +165,14 @@
     <trd>&c_sh;&c_o;&c_r;&c_g;&c_a;&c_t;</trd>,
     <trd>&c_g;&c_u;&c_l;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bublání</trd>,
+    <trd>hučení</trd>,
+    <trd>mručení</trd>,
+    <trd>obtěžující hluk</trd>,
+    <trd>skuhrání</trd>,
+    <trd>šumění</trd>
+  </trdgrp>
   <trd lng="de">Murmeln</trd>
   <trd lng="en">murmur</trd>
   <trdgrp lng="fr">
@@ -177,6 +197,10 @@
     <trd>&c_b;&c_o;&c_r;&c_m;&c_o;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_g;&c_u;&c_l; &c_g;&c_o;&c_l;&c_o;&c_s;&c_o;&c_v;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bručanie <klr>(nespokojné)</klr></trd>,
+    <trd>mručanie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="murmur.0egi">
@@ -195,6 +219,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">silně bručet</trd>
   <trd lng="en">growl</trd>
   <trdgrp lng="fr">
     <trd>gronder<klr tip="amb"> (bruit)</klr></trd>,
@@ -205,6 +230,7 @@
     <trd>&c_r;&c_y;&c_ch;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_o;&c_r;&c_ch;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">silno bručať</trd>
 </drv>
 
 <drv mrk="murmur.0ego">
@@ -248,6 +274,12 @@
       <ref cel="zum.0i">zumi</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>broukat</trd>,
+    <trd>mumlat</trd>,
+    <trd>vrnět</trd>,
+    <trd>ševelit</trd>
+  </trdgrp>
   <trd lng="en">murmur softly</trd>
   <trdgrp lng="fr">
     <trd>bourdonner</trd>,
@@ -258,6 +290,10 @@
     <trd>&c_n;&c_a;&c_n;&c_je;&c_v;&c_a;&c_t;&c_mol;<klr>
 (&c_v;&c_p;&c_o;&c_l;&c_g;&c_o;&c_l;&c_o;&c_s;&c_a;)</klr></trd>,
     <trd>&c_m;&c_u;&c_r;&c_l;&c_y;&c_k;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mrmlať</trd>,
+    <trd>ševeliť</trd>
   </trdgrp>
 </drv>
 
@@ -311,6 +347,12 @@
 </art>
 <!--
 $Log: murmur.xml,v $
+Revision 1.21  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/09/25 18:10:35  revo
 Wolfram Diestel: ref al listo blekoj
 

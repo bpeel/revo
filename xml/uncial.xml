@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: uncial.xml,v 1.3 2013/09/07 12:10:10 revo Exp $">
+  <art mrk="$Id: uncial.xml,v 1.5 2015/07/04 08:37:45 revo Exp $">
     <kap>
       <rad>uncial</rad>/o <fnt><bib>PIV2</bib></fnt>
     </kap>
@@ -29,16 +29,24 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="de">Unziale</trd>
-      <trd lng="en">uncial script</trd>
-      <trd lng="fr">onciale</trd>
-      <trd lng="pl">uncja&lstroke;a</trd>
-      <trd lng="ru">&c_u;&c_n;&c_c;&c_i;&c_a;&c_l;</trd>
-    </drv>
+  <trd lng="cs">unciála</trd>
+  <trd lng="de">Unziale</trd>
+  <trd lng="en">uncial script</trd>
+  <trd lng="fr">onciale</trd>
+  <trd lng="pl">uncja&lstroke;a</trd>
+  <trd lng="ru">&c_u;&c_n;&c_c;&c_i;&c_a;&c_l;</trd>
+  <trd lng="sk">unciála</trd>
+</drv>
   </art>
 
 <!--
 $Log: uncial.xml,v $
+Revision 1.5  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.3  2013/09/07 12:10:10  revo
 Sergio Pokrovskij: +fnt
 

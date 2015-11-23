@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: asembl1.xml,v 1.10 2012/02/01 15:10:11 revo Exp $">
+<art mrk="$Id: asembl1.xml,v 1.11 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>asemble</rad>/o
@@ -20,6 +20,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_s;&c_a;&c_m;&c_b;&c_l;&c_je;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>valné shromáždění</trd>,
+    <trd>zákonodárné shromáždění</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>beratende <ind>K&ouml;rperschaft</ind></trd>,
      <trd>gesetzgebende <ind>K&ouml;rperschaft</ind></trd>,
@@ -40,6 +44,9 @@
 </art>
 <!--
 $Log: asembl1.xml,v $
+Revision 1.11  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.10  2012/02/01 15:10:11  revo
 Antonio Codazzi: +trd it
 

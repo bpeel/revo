@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kolekt.xml,v 1.31 2009/08/12 16:30:39 revo Exp $">
+  <art mrk="$Id: kolekt.xml,v 1.34 2015/07/04 08:37:37 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>kolekt</rad>/i
@@ -46,6 +46,7 @@
           <trd>versammeln</trd>,
           <trd>um sich <ind>scharen</ind></trd>
         </trdgrp>
+        <trd lng="es">reunir</trd>
         <trdgrp lng="nl">
           <trd>verzamelen</trd>,
           <trd>bijeenbrengen</trd>
@@ -89,6 +90,7 @@
           <trd>zusammenbringen</trd>,
           <trd>auflesen</trd>
         </trdgrp>
+        <trd lng="es">agrupar</trd>
         <trdgrp lng="nl">
           <trd>verzamelen</trd>,
           <trd>bijeenbrengen</trd>
@@ -112,6 +114,10 @@
         <trdgrp lng="de">
           <trd>aufsammeln</trd>,
           <trd>zusammenlesen</trd>
+        </trdgrp>
+        <trdgrp lng="es">
+          <trd>reunir</trd>,
+          <trd>recoger</trd>
         </trdgrp>
         <trdgrp lng="nl">
           <trd>verzamelen</trd>,
@@ -145,6 +151,7 @@
           <trd>einbringen [grenon]</trd>,
           <trd>lesen [vinberojn]</trd>
         </trdgrp>
+        <trd lng="es">recolectar</trd>
         <trdgrp lng="nl">
           <trd>oogsten</trd>,
           <trd>plukken</trd>
@@ -164,11 +171,17 @@
           <trd>erheben</trd>,
           <trd>eintreiben</trd>
         </trdgrp>
+        <trd lng="es">recaudar</trd>
         <trd lng="nl">innen</trd>
       </snc>
-      <trd lng="cs">sb&iacute;rat</trd>
-      <trd lng="en">collect</trd>
-      <trdgrp lng="fr">
+  <trdgrp lng="cs">
+    <trd>jímat</trd>,
+    <trd>sb&iacute;rat</trd>,
+    <trd>shromažďovat</trd>,
+    <trd>vybírat</trd>
+  </trdgrp>
+  <trd lng="en">collect</trd>
+  <trdgrp lng="fr">
         <trd>assembler</trd>,
         <trd>cueillir</trd>,
         <trd>collecter</trd>,
@@ -178,18 +191,22 @@
         <trd>r&eacute;unir</trd>,
         <trd>regrouper</trd>
       </trdgrp>
-      <trdgrp lng="hu">
+  <trdgrp lng="hu">
         <trd>gy&udblac;jt</trd>,
         <trd>begy&udblac;jt</trd>,
         <trd>beszed</trd>
         <trd>&ouml;sszegy&udblac;jt</trd>,
         <trd>&ouml;sszeszed</trd>
       </trdgrp>
-      <trdgrp lng="ru">
+  <trdgrp lng="ru">
         <trd>&c_s;&c_o;&c_b;&c_i;&c_r;&c_a;&c_t;&c_mol;</trd>,
         <trd>&c_s;&c_o;&c_b;&c_r;&c_a;&c_t;&c_mol;</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>nazbierať</trd>,
+    <trd>zbierať</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="kolekt.0o">
       <kap><tld/>o</kap>
@@ -198,6 +215,10 @@
           Ago <tld/>i.
         </dif>
         <trd lng="de">Sammeln</trd>
+        <trdgrp lng="es">
+          <trd>colecta</trd>,
+          <trd>recolecci&oacute;n</trd>
+        </trdgrp>
         <trd lng="hu">gy&udblac;jt&eacute;s</trd>    
       </snc>
       <snc>
@@ -214,6 +235,7 @@
               vortoj<fnt>Z</fnt>.
             </ekz>
           </dif>
+          <trd lng="es">grupo</trd>
         </subsnc>
         <subsnc mrk="kolekt.0o.libr">
           <dif>
@@ -245,6 +267,7 @@
           </dif>
           <ref tip="sub" cel="tekst.0aro">tekstaro</ref>
           <ref tip="vid" cel="ar">-ar</ref>
+          <trd lng="es">selecci&oacute;n</trd>
           <trd lng="fr">recueil</trd>
           <trd lng="ru">&c_s;&c_b;&c_o;&c_r;&c_n;&c_i;&c_k;</trd>
         </subsnc>
@@ -287,6 +310,7 @@
             <ref cel="pec.0o">peco</ref>,
             <ref cel="perl.0o">perlo</ref>
           </refgrp>
+          <trd lng="es">colecci&oacute;n</trd>
           <trd lng="ru">&c_k;&c_o;&c_l;&c_l;&c_je;&c_k;&c_c;&c_i;&c_ja;</trd>
         </subsnc>
         <subsnc mrk="kolekt.0o.seri">
@@ -309,11 +333,19 @@
               <fnt><aut>Shi Chengtai</aut><vrk>La Resurekto</vrk></fnt>.
             </ekz>
           </dif>
+          <trd lng="es">serie</trd>
           <trd lng="ru">&c_p;&c_o;&c_d;&c_sh;&c_i;&c_v;&c_k;&c_a;</trd>
         </subsnc>
       </snc>
-      <trd lng="de">Sammlung</trd>
-      <trdgrp lng="fr">
+  <trdgrp lng="cs">
+    <trd>kolekce</trd>,
+    <trd>sbírka</trd>,
+    <trd>sběr</trd>,
+    <trd>shromáždění</trd>,
+    <trd>soubor</trd>
+  </trdgrp>
+  <trd lng="de">Sammlung</trd>
+  <trdgrp lng="fr">
         <trd>collectage</trd>,
         <trd>collecte</trd>,
         <trd>collection</trd>,
@@ -322,13 +354,18 @@
         <trd>recueil</trd>,
         <trd>r&eacute;union</trd>
       </trdgrp>
-      <trdgrp lng="hu">
+  <trdgrp lng="hu">
         <trd>gy&udblac;jtem&eacute;ny</trd>,
         <trd>gy&uuml;lekezet</trd>
       </trdgrp>
-      <trd lng="nl">verzameling</trd>
-      <trd lng="ru">&c_s;&c_o;&c_b;&c_r;&c_a;&c_n;&c_i;&c_je;</trd>
-    </drv>
+  <trd lng="nl">verzameling</trd>
+  <trd lng="ru">&c_s;&c_o;&c_b;&c_r;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>kolekcia</trd>,
+    <trd>súbor</trd>,
+    <trd>zbierka</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="kolekt.0isto">
       <kap><tld/>isto<fnt>Z</fnt></kap>
@@ -338,12 +375,22 @@
           Oficisto, kiu <tld/>as la impostojn.
         </dif>
       </snc>
-      <trd lng="fr">receveur<klr tip="ind"> (des imp&ocirc;ts)</klr></trd>
-      <trd lng="hu">ad&oacute;szed&odblac;</trd>  
-      <trd lng="nl">ontvanger</trd>
-      <trd lng="ru">&c_s;&c_b;&c_o;&c_r;&c_shch;&c_i;&c_k;
+  <trdgrp lng="cs">
+    <trd>kolektor</trd>,
+    <trd>sběratel</trd>,
+    <trd>výběrčí <klr>(peněz)</klr></trd>
+  </trdgrp>
+  <trd lng="es">recaudador</trd>
+  <trd lng="fr">receveur<klr tip="ind"> (des imp&ocirc;ts)</klr></trd>
+  <trd lng="hu">ad&oacute;szed&odblac;</trd>
+  <trd lng="nl">ontvanger</trd>
+  <trd lng="ru">&c_s;&c_b;&c_o;&c_r;&c_shch;&c_i;&c_k;
         &c_n;&c_a;&c_l;&c_o;&c_g;&c_o;&c_v;</trd>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>kolektor</trd>,
+    <trd>zberateľ</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="kolekt.0igxi">
       <kap><tld/>i&gcirc;i</kap>
@@ -373,6 +420,10 @@
           <ref cel="grup">grupi&gcirc;i</ref>.
         </refgrp>
       </snc>
+      <trdgrp lng="es">
+        <trd><ind>reunir</ind>se</trd>,
+        <trd><ind>agrupar</ind>se</trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>s'<ind>assembler</ind></trd>,
         <trd>se <ind>grouper</ind></trd>,
@@ -409,13 +460,16 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="fr">rentrer<klr tip="ind"> (une r&eacute;colte)</klr></trd>
-      <trd lng="hu">begy&udblac;jt</trd>  
-      <trd lng="nl">inzamelen</trd>
-      <trd lng="ru">&c_s;&c_o;&c_b;&c_r;&c_a;&c_t;&c_mol;
+  <trd lng="cs">uskladnit</trd>
+  <trd lng="es">recolectar</trd>
+  <trd lng="fr">rentrer<klr tip="ind"> (une r&eacute;colte)</klr></trd>
+  <trd lng="hu">begy&udblac;jt</trd>
+  <trd lng="nl">inzamelen</trd>
+  <trd lng="ru">&c_s;&c_o;&c_b;&c_r;&c_a;&c_t;&c_mol;
         <klr>(&c_ch;&c_t;&c_o;-&c_l;.
           &c_v;&c_m;&c_je;&c_s;&c_t;&c_je;)</klr></trd>
-    </drv>
+  <trd lng="sk">uskladniť</trd>
+</drv>
 
     <drv mrk="kolekt.for0i">
       <kap>for<tld/>i</kap>
@@ -430,11 +484,13 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="hu">(hi&aacute;nytalanul) <ind>&ouml;sszeszed</ind></trd>  
-      <trd lng="nl">alles <ind>meenemen</ind></trd>
-      <trd lng="ru">&c_s;&c_o;&c_b;&c_r;&c_a;&c_t;&c_mol; <klr>(&c_i;
+  <trd lng="es"><ind>recoger</ind> (para llevar)</trd>
+  <trd lng="hu">(hi&aacute;nytalanul) <ind>&ouml;sszeszed</ind></trd>
+  <trd lng="nl">alles <ind>meenemen</ind></trd>
+  <trd lng="ru">&c_s;&c_o;&c_b;&c_r;&c_a;&c_t;&c_mol; <klr>(&c_i;
           &c_u;&c_n;&c_je;&c_s;&c_t;&c_i;)</klr></trd>
-    </drv>
+  <trd lng="sk">zhromaždiť a odniesť</trd>
+</drv>
 
     <drv mrk="kolekt.post0o">
       <kap>post<tld/>o</kap>
@@ -451,6 +507,8 @@
         </dif>
         <ref tip="vid" cel="rikolt.post0i">postrikolto</ref>
       </snc>
+      <trd lng="es">rebusca <klr tip="ind"> (segunda
+      cosecha)</klr></trd>
       <trd lng="fr">grappillage<klr tip="ind"> (cueillette)</klr></trd>
       <trdgrp lng="hu">
         <trd>b&ouml;ng&eacute;sz&eacute;s</trd>,
@@ -468,6 +526,7 @@
           &scirc;ir<tld/>i florojn<fnt>Z</fnt>.
         </ekz>
       </snc>
+      <trd lng="es">recolectar</trd>
       <trd lng="fr">cueillir</trd>
       <trd lng="hu">szed <klr tip="amb">(term&eacute;st)</klr></trd>  
       <trd lng="nl">plukken</trd>
@@ -484,15 +543,21 @@
           la&ubreve; scienca klasifiko.
         </dif>
       </snc>
-      <trd lng="de">Herbarium</trd>
-      <trd lng="fr">herbier</trd>
-      <trdgrp lng="hu">
+  <trdgrp lng="cs">
+    <trd>herbarium</trd>,
+    <trd>herbář</trd>
+  </trdgrp>
+  <trd lng="de">Herbarium</trd>
+  <trd lng="es">herbario</trd>
+  <trd lng="fr">herbier</trd>
+  <trdgrp lng="hu">
         <trd>n&ouml;v&eacute;nygy&udblac;jtem&eacute;ny</trd>,
         <trd>herb&aacute;rium</trd>
       </trdgrp>
-      <trd lng="nl">herbarium</trd>
-      <trd lng="ru">&c_g;&c_je;&c_r;&c_b;&c_a;&c_r;&c_i;&c_j;</trd>
-    </drv>
+  <trd lng="nl">herbarium</trd>
+  <trd lng="ru">&c_g;&c_je;&c_r;&c_b;&c_a;&c_r;&c_i;&c_j;</trd>
+  <trd lng="sk">herbár</trd>
+</drv>
 
     <drv mrk="kolekt.jar0o">
       <kap>jar<tld/>o</kap>
@@ -503,17 +568,29 @@
         </dif>
         <ref tip="vid" cel="volum.0o.jar">jarvolumo</ref>
       </snc>
-      <trd lng="fr">ann&eacute;e<klr tip="ind"> (tous les num&eacute;ros d'un
+  <trd lng="cs">ročník <klr>(časopisu| zákonů)</klr></trd>
+  <trd lng="es">anuario</trd>
+  <trd lng="fr">ann&eacute;e<klr tip="ind"> (tous les num&eacute;ros d'un
 p&eacute;riodique)</klr></trd>
-      <trd lng="hu">&eacute;vfolyam<klr tip="ind"> (pl.
-      foly&oacute;irat&eacute;)</klr></trd>  
-      <trd lng="nl">jaargang</trd>
-      <trd lng="ru">&c_g;&c_o;&c_d;&c_o;&c_v;&c_a;&c_ja;
+  <trd lng="hu">&eacute;vfolyam<klr tip="ind"> (pl.
+      foly&oacute;irat&eacute;)</klr></trd>
+  <trd lng="nl">jaargang</trd>
+  <trd lng="ru">&c_g;&c_o;&c_d;&c_o;&c_v;&c_a;&c_ja;
         &c_p;&c_o;&c_d;&c_sh;&c_i;&c_v;&c_k;&c_a;</trd>
-    </drv>
+  <trd lng="sk">ročník <klr>(časopisu)</klr></trd>
+</drv>
   </art>
   <!--
   $Log: kolekt.xml,v $
+  Revision 1.34  2015/07/04 08:37:37  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.33  2015/06/29 16:33:17  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.32  2015/06/24 12:10:17  revo
+  Guillermo Molleda Jimena: trd es
+
   Revision 1.31  2009/08/12 16:30:39  revo
   Paul Peeraerts: +trd nl
 

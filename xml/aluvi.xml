@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aluvi.xml,v 1.17 2013/08/16 17:10:10 revo Exp $">
+<art mrk="$Id: aluvi.xml,v 1.18 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>aluvi</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -45,10 +45,19 @@
     <trd lng="ca">holoc&eacute;</trd>
     <trd lng="pl">aluwium</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>aluviální naplaveniny</trd>,
+    <trd>holocén</trd>,
+    <trd>nános</trd>,
+    <trd>náplav</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: aluvi.xml,v $
+Revision 1.18  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.17  2013/08/16 17:10:10  revo
 Joop Eggen: +trd bg
 

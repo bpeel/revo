@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krajon.xml,v 1.23 2014/06/27 15:10:21 revo Exp $">
+<art mrk="$Id: krajon.xml,v 1.25 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>krajon</rad>/o <fnt><bib>PV</bib></fnt>
@@ -46,7 +46,7 @@
       &Ccirc;i tiu pli vasta senco ne estas fundamenta.
       <aut>&jcirc;v</aut>
     </rim>
-  </snc>  
+  </snc>
   <trd lng="be">&c_a;&c_l;&c_o;&c_v;&c_a;&c_k;</trd>
   <trd lng="br">kreion</trd>
   <trd lng="ca">llapis</trd>
@@ -64,6 +64,7 @@
   <trd lng="pl">o&lstroke;&oacute;wek</trd>
   <trd lng="pt">l&aacute;pis</trd>
   <trd lng="ru">&c_k;&c_a;&c_r;&c_a;&c_n;&c_d;&c_a;&c_sh;</trd>
+  <trd lng="sk">ceruzka</trd>
   <trd lng="tr">kur&scedil;un kalem</trd>
 </drv>
 
@@ -115,6 +116,10 @@
     <trd>esferogr&agrave;fic</trd>,
     <trd>boli</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kuličková tužka</trd>,
+    <trd>propiska</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>crayon &agrave; bille</trd>,
     <trd>stylo-bille</trd>
@@ -128,10 +133,20 @@
     <trd>kogelpen</trd>
   </trdgrp>
   <trd lng="ru">&c_sh;&c_a;&c_r;&c_i;&c_k;&c_o;&c_v;&c_a;&c_ja; &c_r;&c_u;&c_ch;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>guličkové pero</trd>,
+    <trd>večná ceruzka</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: krajon.xml,v $
+Revision 1.25  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2014/06/27 15:10:21  revo
 Eko Nur Syah Hidayat: +id
 

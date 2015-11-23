@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxtel.xml,v 1.29 2014/05/09 08:10:13 revo Exp $">
+<art mrk="$Id: sxtel.xml,v 1.31 2015/04/13 20:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;tel</rad>/i <fnt><bib>PV</bib></fnt>
@@ -15,7 +15,8 @@
     <dif>
       Ka&scirc;e forkapti kaj proprigi al si poseda&jcirc;on de aliulo:
       <ekz>
-        gro&scirc;on <tld/>is, ho <tld/>isto, milojn <tld/>is, financisto
+        gro&scirc;on <tld/>is, ho <tld/>isto, milojn <tld/>is,
+        financisto
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
@@ -125,7 +126,9 @@
         <tld/>e proprigi ion al si;
       </ekz>
     </dif>
-    <trd lng="be">&c_p;&c_a;-&c_z;&c_l;&c_a;&c_d;&c_z;&c_je;&c_j;&c_s;&c_k;&c_u;</trd>
+    <trd
+    lng="be">&c_p;&c_a;-&c_z;&c_l;&c_a;&c_d;&c_z;&c_je;&c_j;&c_s;&c_k;&c_u;</trd>
+    <trd lng="de">durch Diebstahl</trd>
     <trd lng="hu">lop&aacute;ssal</trd>
     <trd lng="nl">steels</trd>
     <trd lng="ru">&c_v;&c_o;&c_r;&c_o;&c_v;&c_s;&c_k;&c_i;</trd>
@@ -142,6 +145,10 @@
       <ekz>
         <tld/>move eliri<fnt>Z</fnt>.
       </ekz>
+      <trdgrp lng="es">
+        <trd>ladronamente</trd>,
+        <trd>a <ind>hurtadillas</ind></trd>
+      </trdgrp>
     </dif>
     <trdgrp lng="be">
       <trd>&c_k;&c_r;&c_a;&c_d;&c_k;&c_o;&c_m;</trd>,
@@ -149,6 +156,10 @@
       <trd>&c_u;&c_p;&c_o;&c_t;&c_a;&c_j;</trd>,
       <trd>&c_u;&c_p;&c_o;&c_t;&c_a;&c_j;&c_k;&c_ib;</trd>,
       <trd>&c_c;&c_ib;&c_sh;&c_k;&c_o;&c_m;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>unbemerkt</trd>,
+      <trd>heimlich</trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>furtivement</trd>,
@@ -171,7 +182,8 @@
     <dif>
       Io <tld/>ita:
       <ekz>
-        <ind><tld/>a&jcirc;oka&scirc;isto</ind> estas mem <tld/>isto<fnt>Z</fnt>.
+        <ind><tld/>a&jcirc;oka&scirc;isto</ind> estas mem
+        <tld/>isto<fnt>Z</fnt>.
         <trd lng="fr">receleur</trd>
         <trd lng="hu">orgazda</trd>
         <trd lng="nl">heler</trd>
@@ -213,7 +225,8 @@
   <trd lng="en">thief</trd>
   <trdgrp lng="es">
      <trd>ladr&oacute;n</trd>,
-     <trd>ratero</trd>
+     <trd>ratero</trd>,
+     <trd>chorizo</trd>
   </trdgrp>
   <trd lng="fr">voleur</trd>
   <trd lng="hu">tolvaj</trd>
@@ -260,9 +273,15 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">sich hinausstehlen</trd>
+  <trdgrp lng="es">
+    <trd>irse a <ind>hurtadillas</ind></trd>,
+    <trd>irse sigilosamente</trd>
+  </trdgrp>
   <trd lng="hu">kilopakodik</trd>
   <trd lng="nl">wegsluipen</trd>
-  <trd lng="fr">s'<ind>&eacute;clipser</ind> <klr tip="ind">(partir)</klr>
+  <trd lng="fr">s'<ind>&eacute;clipser</ind> <klr
+  tip="ind">(partir)</klr>
   </trd>
   <trdgrp lng="it">
     <trd>sgattaiolare<klr> fuori</klr></trd>, 
@@ -296,6 +315,7 @@
     <trd>&c_u;&c_c;&c_je;&c_r;&c_c;&c_ib;&c_s;&c_ja;</trd>
   </trdgrp>
   <trd lng="de">sich <ind>einschleichen</ind></trd>
+  <trd lng="es">colarse</trd>
   <trd lng="fr">se <ind>glisser</ind> 
 <klr tip="ind">(furtivement)</klr></trd>
   <trd lng="hu">belopakodik</trd>
@@ -329,6 +349,7 @@
     <trd>&c_a;&c_b;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_a;&c_b;&c_k;&c_r;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
   </trdgrp>
+  <trd lng="de">bestehlen</trd>
   <trd lng="en">steal <klr>from someone</klr></trd>
   <trdgrp lng="fr">
     <trd>d&eacute;valiser</trd>,
@@ -348,7 +369,8 @@
   <snc mrk="sxtel.dom0isto.JUR">
     <uzo tip="fak">JUR</uzo>
     <dif>
-      <ref tip="super" cel="sxtel.0isto.JUR"><tld lit="&Scirc;"/>isto</ref>
+      <ref tip="super" cel="sxtel.0isto.JUR"><tld
+      lit="&Scirc;"/>isto</ref>
       kiu rabas en domoj:
       <ekz>
         dom<tld/>istoj <klr>...</klr> fari&gcirc;as pli kaj pli sentimaj
@@ -370,7 +392,8 @@
   <snc mrk="sxtel.posxo0isto.JUR">
     <uzo tip="fak">JUR</uzo>
     <dif>
-      <ref tip="super" cel="sxtel.0isto.JUR"><tld lit="&Scirc;"/>isto</ref>
+      <ref tip="super" cel="sxtel.0isto.JUR"><tld
+      lit="&Scirc;"/>isto</ref>
       kiu prenas el po&scirc;oj kaj sakoj en publikaj lokoj:
       <ekz>
         po&scirc;o<tld/>isto sukcese faris lerta&jcirc;on, kaj la 
@@ -385,11 +408,19 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">Taschendieb</trd>
+  <trd lng="es">carterista</trd>
   <trd lng="fr">pickpocket</trd>
 </drv>
 </art>
 <!--
 $Log: sxtel.xml,v $
+Revision 1.31  2015/04/13 20:10:14  revo
+Carlos Garcia: ~e 2 ~isto el~igxi en~igxi posxo~isto
+
+Revision 1.30  2014/12/31 15:11:01  revo
+Wolfram Diestel: +trd de
+
 Revision 1.29  2014/05/09 08:10:13  revo
 Agustin Garcia Lopez: +trd(es) -o
 
@@ -406,11 +437,5 @@ Revision 1.25  2007/11/23 21:37:32  revo
 Wieland Pusch: +trd bg
 
 Revision 1.24  2006/09/18 16:31:00  revo
-Russ Williams: +trd en
-
-Revision 1.23  2006/07/12 16:31:02  revo
-Wieland Pusch: +trd de
-
-Revision 1.22  2004/10/21 16:31:28  revo
 -->
 </vortaro>

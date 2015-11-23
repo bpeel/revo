@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tent.xml,v 1.18 2012/05/10 00:10:08 revo Exp $">
+<art mrk="$Id: tent.xml,v 1.20 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tent</rad>/i
@@ -212,6 +212,14 @@
     <trd>&c_s;&c_o;&c_b;&c_l;&c_a;&c_z;&c_n;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_je;&c_l;&c_mol;&c_shch;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pokúšať</trd>,
+    <trd>zvádzať</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pokoušet</trd>,
+    <trd>svádět</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tent.0a">
@@ -243,6 +251,7 @@
     <trd>&c_p;&c_r;&c_y;&c_v;&c_a;&c_b;&c_n;&c_y;</trd>,
     <trd>&c_p;&c_a;&c_n;&c_a;&c_d;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="cs">svádivý</trd>
   <trdgrp lng="de">
     <trd>verf&uuml;hrerisch</trd>
   </trdgrp>
@@ -266,6 +275,7 @@
     <trd>&c_s;&c_o;&c_b;&c_l;&c_a;&c_z;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_i;&c_s;&c_k;&c_u;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">zvádzavý</trd>
 </drv>
 
 <drv mrk="tent.0o">
@@ -341,6 +351,10 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_p;&c_a;&c_k;&c_u;&c_s;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>pokušení</trd>,
+    <trd>touha</trd>
+  </trdgrp>
   <trd lng="en">temptation</trd>
   <trdgrp lng="fr">
     <trd>tentation</trd>,
@@ -357,6 +371,10 @@
   <trdgrp lng="ru">
     <trd>&c_i;&c_s;&c_k;&c_u;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_s;&c_o;&c_b;&c_l;&c_a;&c_z;&c_n;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pokušenie</trd>,
+    <trd>túžba</trd>
   </trdgrp>
 </drv>
 
@@ -381,6 +399,7 @@
     </rim>
   </snc>
   <trd lng="be">&c_s;&c_p;&c_a;&c_k;&c_u;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="cs">svádění</trd>
   <trd lng="fr">tentation</trd>
   <trdgrp lng="hu">
     <trd>megk&iacute;s&eacute;rt&eacute;s</trd>,
@@ -398,6 +417,7 @@
     <trd>&c_i;&c_s;&c_k;&c_u;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_s;&c_o;&c_b;&c_l;&c_a;&c_z;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
+  <trd lng="sk">zvádzanie</trd>
 </drv>
 
 <drv mrk="tent.0anto">
@@ -414,6 +434,7 @@
   </snc>
   <trd lng="be">
   &c_s;&c_p;&c_a;&c_k;&c_u;&c_sh;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="cs">pokušitel</trd>
   <trd lng="en">tempter</trd>
   <trd lng="fr">tentateur<klr tip="ind"> (subst.)</klr></trd>
   <trdgrp lng="hu">
@@ -427,6 +448,7 @@
     <trd>&c_s;&c_o;&c_b;&c_l;&c_a;&c_z;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;
     </trd>
   </trdgrp>
+  <trd lng="sk">pokušiteľ</trd>
 </drv>
 
 <drv mrk="tent.0igxi">
@@ -480,6 +502,12 @@
 </art>
 <!--
 $Log: tent.xml,v $
+Revision 1.20  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/05/10 00:10:08  revo
 Joop Eggen: +trd nl
 

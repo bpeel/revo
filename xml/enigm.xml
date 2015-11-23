@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: enigm.xml,v 1.26 2013/02/18 06:10:17 revo Exp $">
+<art mrk="$Id: enigm.xml,v 1.28 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>enigm</rad>/o <fnt><bib>PV</bib></fnt>
@@ -63,14 +63,19 @@
     <trd>&c_z;&c_a;&c_g;&c_a;&c_d;&c_k;&c_a;</trd>,
     <trd>&c_e;&c_n;&c_ib;&c_g;&c_m;&c_a;</trd>
   </trdgrp>
-  <trd lng="cs">h&aacute;danka</trd>
+  <trdgrp lng="cs">
+    <trd>enigma</trd>,
+    <trd>h&aacute;danka</trd>,
+    <trd>taj</trd>,
+    <trd>záhada</trd>
+  </trdgrp>
   <trd lng="de">R&auml;tsel</trd>
-  <trd lng="es">enigma</trd>
   <trdgrp lng="en">
     <trd>enigma</trd>,
     <trd>puzzle</trd>,
     <trd>riddle</trd>
   </trdgrp>
+  <trd lng="es">enigma</trd>
   <trdgrp lng="fr">
     <trd>devinette</trd>,
     <trd>&eacute;nigme</trd>
@@ -81,6 +86,10 @@
     <trd>advinha&ccedil;&atilde;o</trd>
   </trdgrp>
   <trd lng="ru">&c_z;&c_a;&c_g;&c_a;&c_d;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>hádanka</trd>,
+    <trd>záhada</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="enigm.0a">
@@ -107,6 +116,14 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_g;&c_a;&c_d;&c_k;&c_a;&c_v;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>enigmatický</trd>,
+    <trd>hádankový</trd>,
+    <trd>nesnadno srozumitelný</trd>,
+    <trd>tajemný</trd>,
+    <trd>těžko vysvětlitelný</trd>,
+    <trd>záhadný</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>r&auml;tselhaft</trd>,
     <trd>schleierhaft</trd>,
@@ -131,6 +148,7 @@
   </trdgrp>
   <trd
   lng="ru">&c_z;&c_a;&c_g;&c_a;&c_d;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">záhadný</trd>
 </drv>
 
 <drv mrk="enigm.krucvort0o">
@@ -158,17 +176,25 @@
     <trd>&c_k;&c_r;&c_y;&c_zh;&c_a;&c_v;&c_a;&c_n;&c_k;&c_a;</trd>,
     <trd>&c_k;&c_r;&c_a;&c_s;&c_v;&c_o;&c_r;&c_d;</trd>
   </trdgrp>
+  <trd lng="cs">křížovka</trd>
   <trd lng="de">Kreuzwortr&auml;tsel</trd>
   <trd lng="en">crossword puzzle</trd>
   <trd lng="fr">mot-crois&eacute;</trd>
   <trd lng="hu">keresztrejtv&eacute;ny</trd>
   <trd lng="nl">kruiswoordraadsel</trd>
   <trd lng="pl">krzy&zdot;&oacute;wka</trd>
+  <trd lng="sk">krížovka</trd>
   <trd lng="sv">korsord</trd>
 </drv>
 </art>
 <!--
 $Log: enigm.xml,v $
+Revision 1.28  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2013/02/18 06:10:17  revo
 Dmitri Gabinski: redakto: +trd be
 

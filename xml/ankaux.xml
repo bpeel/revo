@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ankaux.xml,v 1.27 2009/09/03 16:30:38 revo Exp $">
+<art mrk="$Id: ankaux.xml,v 1.30 2015/05/22 17:10:14 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>anka&ubreve;</rad>
@@ -36,6 +36,7 @@
      </rim>
    </snc>
    <trd lng="be">&c_t;&c_a;&c_k;&c_s;&c_a;&c_m;&c_a;</trd>
+   <trd lng="bg">&c_s;&c_malmol;&c_shch;&c_o;</trd>
    <trd lng="br">ivez</trd>
    <trd lng="cs">tak&eacute;</trd>
    <trdgrp lng="de">
@@ -59,8 +60,10 @@
    </trdgrp>
    <trd lng="he">&gimel;&fmem;</trd>
    <trd lng="hu">is</trd>
+   <trd lng="id">juga</trd>
    <trd lng="it">anche</trd>
    <trd lng="nl">ook</trd>
+   <trd lng="no">ogs&aring;</trd>
    <trdgrp lng="pl">
      <trd>tak&zdot;e</trd>,
      <trd>te&zdot;</trd>,
@@ -96,6 +99,15 @@
 </art>
 <!--
 $Log: ankaux.xml,v $
+Revision 1.30  2015/05/22 17:10:14  revo
+Joop Eggen: +trd bg
+
+Revision 1.29  2014/12/08 20:10:25  revo
+Filip van Laenen: +trd(no)
+
+Revision 1.28  2014/11/12 09:10:25  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.27  2009/09/03 16:30:38  revo
 Emmanuel Debanne: +trd tr
 
@@ -109,14 +121,5 @@ Revision 1.24  2007/07/13 16:30:40  revo
 Harri Laine: +trd fi
 
 Revision 1.23  2007/05/01 18:24:46  revo
-Luiz Portella: +trd pt
-
-Revision 1.22  2006/09/18 16:31:25  revo
-Axel Rousseau: +trd tp
-
-Revision 1.21  2005/04/06 16:33:08  revo
-Alan ar Gall: +trd br
-
-Revision 1.20  2003/03/11 17:32:15  revo
 -->
 </vortaro>

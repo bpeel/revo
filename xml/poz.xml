@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: poz.xml,v 1.17 2013/04/09 11:10:48 revo Exp $">
+<art mrk="$Id: poz.xml,v 1.20 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>poz</rad>/i
@@ -12,7 +12,7 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="poz.0i.KOMUNE">
     <dif>
-      Preni, plejofte konscie, specialan teni&gcirc;on:
+      Preni, plej ofte konscie, specialan teni&gcirc;on:
     </dif>
     <subsnc mrk="poz.0i.BELA">
       <uzo tip="fak">BELA</uzo>
@@ -56,6 +56,11 @@
       </dif>
     </subsnc>
   </snc>
+  <trdgrp lng="cs">
+    <trd>pózovat</trd>,
+    <trd>sedět modelem</trd>,
+    <trd>stát modelem</trd>
+  </trdgrp>
   <trd lng="en">pose</trd>
   <trdgrp lng="fr">
     <trd>frimer</trd>,
@@ -66,6 +71,10 @@
   <trdgrp lng="pt">
     <trd>posar</trd>,
     <trd>fazer <ind>pose</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>postaviť sa do pózy</trd>,
+    <trd>pózovať</trd>
   </trdgrp>
 </drv>
 
@@ -85,6 +94,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>držení těla</trd>,
+    <trd>postoj</trd>,
+    <trd>póza</trd>
+  </trdgrp>
   <trd lng="de">Pose</trd>
   <trdgrp lng="en">
     <trd>pose</trd>,
@@ -98,6 +112,10 @@
   <trd lng="nl">pose</trd>
   <trd lng="pl">poza</trd>
   <trd lng="ru">&c_p;&c_o;&c_z;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>postoj</trd>,
+    <trd>póza</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="poz.0isto">
@@ -111,17 +129,28 @@
       <ref cel="model.0o.BELA">modelo <sncref/></ref>
     </refgrp>
   </snc>
+  <trd lng="cs">živý model</trd>
   <trd lng="de">Modell</trd>
   <trd lng="en">model</trd>
-  <trd lng="hu">modell</trd>
   <trd lng="fr">mod&egrave;le vivant<klr tip="amb"> (arts)</klr></trd>
+  <trd lng="hu">modell</trd>
   <trd lng="nl">model</trd>
   <trd lng="pl">model</trd>
   <trd lng="ru">&c_n;&c_a;&c_t;&c_u;&c_r;&c_shch;&c_i;&c_k;</trd>
+  <trd lng="sk">živý model</trd>
 </drv>
 </art>
 <!--
 $Log: poz.xml,v $
+Revision 1.20  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/02/04 17:10:18  revo
+Wolfram Diestel: - erareto
+
 Revision 1.17  2013/04/09 11:10:48  revo
 Sebastian Cyprych: +trd pl
 
@@ -141,8 +170,5 @@ Revision 1.12 2004/03/08 19:52:26 revo
 Emmanuel Debanne: + trd fr
 
 Revision 1.11 2002/12/18 18:50:58 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10 2002/06/17 17:31:43 revo
 -->
 </vortaro>

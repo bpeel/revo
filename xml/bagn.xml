@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bagn.xml,v 1.9 2014/10/28 21:10:15 revo Exp $">
+<art mrk="$Id: bagn.xml,v 1.11 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <rad>bagn</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -21,6 +21,12 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_t;&c_a;&c_r;&c_g;&c_a;</trd>
   <trd lng="ca">penal de treballs for&ccedil;ats</trd>
+  <trdgrp lng="cs">
+    <trd>káznice</trd>,
+    <trd>nucené práce</trd>,
+    <trd>robotárna</trd>,
+    <trd>trestanecké pracoviště</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Strafanstalt</trd>,
     <trd>Strafkolonie</trd>,
@@ -30,6 +36,10 @@
   <trd lng="it"><ind>colonia</ind> penale</trd>
   <trd lng="pl">katorga</trd>
   <trd lng="ru">&c_k;&c_a;&c_t;&c_o;&c_r;&c_g;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>galejnícka väznica</trd>,
+    <trd>trestnica</trd>
+  </trdgrp>
   <trdgrp lng="sv">
     <trd>straffkoloni</trd>,
     <trd>arbetsl&auml;ger</trd>
@@ -60,6 +70,12 @@
 
 <!--
 $Log: bagn.xml,v $
+Revision 1.11  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2014/10/28 21:10:15  revo
 Jeromo Vasxe: + ~ulo
 

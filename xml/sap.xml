@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sap.xml,v 1.22 2009/09/29 16:30:39 revo Exp $">
+<art mrk="$Id: sap.xml,v 1.24 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sap</rad>/o
@@ -36,6 +36,7 @@
     <trd>sab&atilde;o</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_y;&c_l;&c_o;</trd>
+  <trd lng="sk">mydlo</trd>
   <trd lng="sv">tv&aring;l</trd>
 </drv>
 
@@ -68,6 +69,11 @@
     <trd>&c_n;&c_a;&c_m;&c_y;&c_l;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">ensabonar</trd>
+  <trdgrp lng="cs">
+    <trd>mydlit</trd>,
+    <trd>namydlit</trd>,
+    <trd>přen. hněvivě kárat</trd>
+  </trdgrp>
   <trd lng="de">einseifen</trd>
   <trd lng="es">enjabonar</trd>
   <trd lng="fr">savonner</trd>
@@ -82,6 +88,10 @@
     <trd>&c_m;&c_y;&c_l;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_a;&c_m;&c_y;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_a;&c_m;&c_y;&c_l;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mydliť</trd>,
+    <trd>namydliť</trd>
   </trdgrp>
   <trd lng="sv">tv&aring;la in</trd>
 </drv>
@@ -130,13 +140,21 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">toaletní mýdlo</trd>
   <trd lng="fr">savon de toilette</trd>
   <trd lng="hu">pipereszappan</trd>
   <trd lng="pl">myd&lstroke;o toaletowe</trd>
+  <trd lng="sk">toaletné mydlo</trd>
 </drv>
 </art>
 <!--
 $Log: sap.xml,v $
+Revision 1.24  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2009/09/29 16:30:39  revo
 Antonio Codazzi: +trd it
 

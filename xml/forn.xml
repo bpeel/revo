@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: forn.xml,v 1.31 2014/04/06 18:10:19 revo Exp $">
+<art mrk="$Id: forn.xml,v 1.34 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>forn</rad>/o <fnt><bib>PV</bib></fnt>
@@ -35,10 +35,15 @@
   </trdgrp>
   <trd lng="de">Ofen</trd>
   <trd lng="es">horno</trd>
-  <trd lng="nl">oven</trd>
   <trd lng="fr">four</trd>
+  <trd lng="nl">oven</trd>
   <trd lng="pt">forno</trd>
   <trd lng="ru">&c_p;&c_je;&c_ch;&c_mol;<klr tip="amb"> (&c_s;&c_u;&c_shch;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>kachle</trd>,
+    <trd>pec</trd>,
+    <trd>šporák</trd>
+  </trdgrp>
   <trd lng="tr">ocak</trd>
 </drv>
 
@@ -53,9 +58,20 @@
       lng="la">Fornax</trd>).
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kamna</trd>,
+    <trd>pec</trd>
+  </trdgrp>
   <trd lng="de">Ofen</trd>
   <trd lng="en">Fornax</trd>
   <trd lng="es">Horno</trd>
+  <trd lng="nl">Oven<klr> (sterrenbeeld)</klr></trd>
+  <trd lng="no">Smelteovnen<klr> (stjernebilde)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>kachle</trd>,
+    <trd>pec</trd>,
+    <trd>šporák</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="forn.0ego">
@@ -71,6 +87,7 @@
     <trd>&c_d;&c_o;&c_m;&c_n;&c_a;</trd>,
     <trd>&c_d;&c_o;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja; &c_p;&c_je;&c_ch;</trd>
   </trdgrp>
+  <trd lng="cs">velká pec || vysoká pec</trd>
   <trd lng="de">Hochofen</trd>
   <trd lng="fr">haut-fourneau</trd>
   <trd lng="nl">hoogoven</trd>
@@ -79,6 +96,7 @@
     <trd>&c_d;&c_o;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;
     &c_p;&c_je;&c_ch;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">veľká pec</trd>
 </drv>
 
 <drv mrk="forn.alt0o">
@@ -87,6 +105,8 @@
   <snc>
     <ref tip="dif" cel="forn.0ego"><tld/>ego</ref>
   </snc>
+  <trd lng="cs">vysoká pec</trd>
+  <trd lng="sk">vysoká pec</trd>
 </drv>
 
 <drv mrk="forn.bak0o">
@@ -111,11 +131,19 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>pekařská pec</trd>,
+    <trd>pečící trouba</trd>
+  </trdgrp>
   <trd lng="fr">four de cuisson</trd>
   <trdgrp lng="pt">
     <trd>forno</trd>,
     <trd>fog&atilde;o</trd>,
     <trd>estufa</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pec na pečenie</trd>,
+    <trd>pec na vypaľovanie hrncov</trd>
   </trdgrp>
 </drv>
 
@@ -129,6 +157,10 @@
     <trd>&c_d;&c_o;&c_m;&c_n;&c_a;</trd>,
     <trd>&c_d;&c_o;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja; &c_p;&c_je;&c_ch;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>tavící pec</trd>,
+    <trd>výheň</trd>
+  </trdgrp>
   <trd lng="de">Hochofen</trd>
   <trd lng="fr">haut-fourneau</trd>
   <trd lng="nl">hoogoven</trd>
@@ -136,6 +168,10 @@
     <trd>&c_d;&c_o;&c_m;&c_n;&c_a;</trd>,
     <trd>&c_d;&c_o;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;
     &c_p;&c_je;&c_ch;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>taviaca</trd>,
+    <trd>vysoká pec</trd>
   </trdgrp>
 </drv>
 
@@ -158,6 +194,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_je;&c_ch;</trd>
+  <trdgrp lng="cs">
+    <trd>kamna na vytápění</trd>,
+    <trd>pokojová kamna</trd>
+  </trdgrp>
   <trd lng="fr">po&ecirc;le<klr> (appareil de chauffage)</klr></trd>
   <trdgrp lng="hu">
     <trd>k&aacute;lyha</trd>,
@@ -165,6 +205,7 @@
   </trdgrp>
   <trd lng="pt">aquecedor <klr tip="amb">(aparelho)</klr></trd>
   <trd lng="ru">&c_p;&c_je;&c_ch;&c_mol;<klr tip="amb"> (&c_s;&c_u;&c_shch;.)</klr></trd>
+  <trd lng="sk">izbové kachle</trd>
 </drv>
 
 <drv mrk="forn.kuir0o">
@@ -187,16 +228,27 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">sporák</trd>
   <trd lng="fr">four de cuisine</trd>
   <trdgrp lng="pt">
     <trd>forno</trd>,
     <trd>fog&atilde;o</trd>,
     <trd>estufa</trd>
   </trdgrp>
+  <trd lng="sk">sporák</trd>
 </drv>
 </art>
 <!--
 $Log: forn.xml,v $
+Revision 1.34  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2014/12/12 19:10:11  revo
+Filip van Laenen: +trd(nl,no)
+
 Revision 1.31  2014/04/06 18:10:19  revo
 Wolfram Diestel: kor. sud-hemisfera stelfiguro
 
@@ -216,8 +268,5 @@ Revision 1.26 2007/12/23 17:30:46 revo
 Wieland Pusch: +drv kuirforno
 
 Revision 1.25 2007/06/05 16:31:13 revo
-Tulio Flores: +tr pt
-
-Revision 1.24 2006/02/19 19:54:49 revo
 -->
 </vortaro>

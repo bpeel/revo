@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vang.xml,v 1.29 2014/05/30 15:10:57 revo Exp $">
+<art mrk="$Id: vang.xml,v 1.32 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>vang</rad>/o
+  <rad>vang</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="vang.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -36,13 +36,16 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_sh;&c_ch;&c_a;&c_k;&c_a;</trd>  
+  <trd lng="be">&c_sh;&c_ch;&c_a;&c_k;&c_a;</trd>
   <trdgrp lng="br">
     <trd>boc'h</trd>,
     <trd>jod</trd>
   </trdgrp>
   <trd lng="ca">galta</trd>
-  <trd lng="cs">tv&aacute;&rcaron;</trd>
+  <trdgrp lng="cs">
+    <trd>boční část nástroje</trd>,
+    <trd>tv&aacute;&rcaron;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Wange</trd>,
     <trd>Backe</trd>
@@ -72,7 +75,39 @@
   <trd lng="pl">policzek</trd>
   <trd lng="pt">bochecha</trd>
   <trd lng="ru">&c_shch;&c_je;&c_k;&c_a;</trd>
+  <trd lng="sk">bočná časť nástroja</trd>
   <trd lng="sv">kind</trd>
+</drv>
+
+<drv mrk="vang.sur0i">
+  <kap>sur<tld/>i,
+  <var><kap><tld/>ofrapi</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vang.sur0i.KOMUNE">
+    <dif>
+      Frapi sur la vangon:
+      <ekz>
+        li vidis, ke &scirc;i levas la brakon por sur<tld/>i la 
+        junulinon
+        <fnt>
+          <aut>H. Vallienne</aut>,
+          <vrk>Kastelo de Prelongo</vrk>,
+          <lok>1907</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la avino <tld/>ofrapis lin kaj enliti&gcirc;is sola
+        <fnt>
+          <aut>A. Pu&scirc;kin, trad. A. Kor&jcirc;enkov</aut>,
+          <vrk><url
+          ref="http://www.esperanto-ondo.ru/Libroj/V_bibl01.pdf">
+          La pika damo</url></vrk>,
+          <lok>2003-2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">gifler</trd>
 </drv>
 
 <drv mrk="vang.sur0o">
@@ -132,7 +167,7 @@
   <snc mrk="vang.post0o.ANA">
     <uzo tip="fak">ANA</uzo>
     <ref tip="dif" cel="vang.sid0o">sid<tld/>o</ref>
-  </snc>              
+  </snc>
   <trdgrp lng="be">
     <trd>&c_ja;&c_g;&c_a;&c_d;&c_z;&c_ib;&c_c;&c_a;</trd>,
     <trd>&c_s;&c_je;&c_d;&c_a;&c_w;&c_k;&c_a;</trd>
@@ -163,6 +198,7 @@
   <trd lng="pl">po&sacute;ladek</trd>
   <trd lng="pt">n&aacute;dega</trd>
   <trd lng="ru">&c_ja;&c_g;&c_o;&c_d;&c_i;&c_c;&c_a;</trd>
+  <trd lng="sk">zadok <klr>(sedacia časť)</klr></trd>
   <trd lng="sv">skinka<klr> (kroppsdel)</klr></trd>
 </drv>
 
@@ -237,6 +273,15 @@
 </art>
 <!--
 $Log: vang.xml,v $
+Revision 1.32  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2014/12/22 21:10:18  revo
+Jeromo Vasxe: + sur~i
+
 Revision 1.29  2014/05/30 15:10:57  revo
 Eko Nur Syah Hidayat: +id
 
@@ -256,8 +301,5 @@ Revision 1.24  2009/08/21 16:31:01  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.23  2006/06/19 16:32:32  revo
-Jeromo Vasxe: + puf~eto
-
-Revision 1.22  2005/07/05 16:34:19  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koordi.xml,v 1.25 2005/10/31 17:31:30 revo Exp $">
+<art mrk="$Id: koordi.xml,v 1.27 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>koordinat</rad>/o
   <fnt>Z</fnt>
@@ -47,9 +47,14 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_a;&c_r;&c_d;&c_y;&c_n;&c_a;&c_t;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>kartézská souřadnicová soustava</trd>,
+    <trd>kartézský souřadnicový systém</trd>
+  </trdgrp>
   <trd lng="fr">coordonn&eacute;e</trd>
   <trd lng="hu">koordin&aacute;ta</trd>
   <trd lng="ru">&c_k;&c_o;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;&c_a;</trd>
+  <trd lng="sk">kartézsky súradnicový systém</trd>
 </drv>
 
 <drv mrk="koordi.0sistemo">
@@ -75,6 +80,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_a; &c_k;&c_a;&c_a;&c_r;&c_d;&c_y;&c_n;&c_a;&c_t;&c_a;&c_w;</trd>
+  <trdgrp lng="cs">
+    <trd>soubor  souřadnic</trd>,
+    <trd>souřadnice</trd>
+  </trdgrp>
   <trd lng="de">Koordinatensystem</trd>
   <trd lng="en">coordinate system</trd>
   <trdgrp lng="fr">
@@ -84,6 +93,7 @@
   <trd lng="hu">koordin&aacute;tarendszer</trd>
   <trd lng="pl">uk&lstroke;ad wsp&oacute;&lstroke;rz&eogonek;dnych</trd>
   <trd lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a; &c_k;&c_o;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;</trd>
+  <trd lng="sk">súradnicový systém</trd>
 </drv>
 
 <drv mrk="koordi.cilindra0o">
@@ -105,6 +115,7 @@
     </dif>
     <ref tip="vid" cel="koordi.0o"><tld/>o.</ref>
   </snc>
+  <trd lng="cs">cylindrická souřadnice</trd>
   <trdgrp lng="de">
     <trd>Zylinderkoordinate</trd>,
     <trd>Kreiszylinderkoordinate</trd>
@@ -128,6 +139,7 @@
     <trd>&c_p;&c_o;&c_l;&c_u;&c_p;&c_o;&c_l;&c_ja;&c_r;&c_n;&c_a;&c_ja;
     <ind>&c_k;&c_o;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;&c_a;</ind></trd>
   </trdgrp>
+  <trd lng="sk">cylindrická súradnica</trd>
 </drv>
 
 <drv mrk="koordi.kartezia0o">
@@ -318,6 +330,8 @@
   <trd lng="pl">wsp&oacute;&lstroke;rz&eogonek;dna barycentryczna</trd>
   <trd lng="ru">&c_b;&c_a;&c_r;&c_i;&c_c;&c_je;&c_n;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
   <ind>&c_k;&c_o;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;&c_a;</ind></trd>
+  <trd lng="sk">barycentrická súradnica</trd>
+  <trd lng="cs">barycentrická souřadnice</trd>
 </drv>
 
 <drv mrk="koordi.polusa0o">
@@ -346,12 +360,14 @@
       ununorma direktanta vektoro.
     </rim>
   </snc>
+  <trd lng="cs">polární souřadnice</trd>
   <trd lng="de">Polarkoordinate</trd>
   <trd lng="en">polar <ind>coordinate</ind></trd>
   <trd lng="fr">coordonn&eacute;e polaire</trd>
   <trd lng="hu">pol&aacute;ris <ind>koordin&aacute;ta</ind></trd>
   <trd lng="pl">wsp&oacute;&lstroke;rz&eogonek;dna biegunowa</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_ja;&c_r;&c_n;&c_a;&c_ja; <ind>&c_k;&c_o;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;&c_a;</ind></trd>
+  <trd lng="sk">polárne súradnice</trd>
 </drv>
 
 <drv mrk="koordi.sfera0o">
@@ -375,6 +391,7 @@
     </dif>
     <ref tip="vid" cel="koordi.0o"><tld/>o.</ref>
   </snc>
+  <trd lng="cs">sférická souřadnice</trd>
   <trdgrp lng="de">
     <trd>Kugelkoordinate</trd>,
     <trd>sph&auml;rische <ind>Koordinate</ind></trd>
@@ -385,10 +402,17 @@
   <trd lng="pl">wsp&oacute;&lstroke;rz&eogonek;dna sferyczna</trd>
   <trd lng="ru">&c_s;&c_f;&c_je;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
   <ind>&c_k;&c_o;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;&c_a;</ind></trd>
+  <trd lng="sk">sférická súradnica</trd>
 </drv>
 </art>
 <!--
 $Log: koordi.xml,v $
+Revision 1.27  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.25  2005/10/31 17:31:30  revo
 Jeromo Vasxe: ~o geog + ekz
 

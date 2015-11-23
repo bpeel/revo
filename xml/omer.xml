@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: omer.xml,v 1.6 2014/09/02 12:10:13 revo Exp $">
+  <art mrk="$Id: omer.xml,v 1.7 2014/11/10 05:10:19 revo Exp $">
     <kap>
     <rad>omero</rad>/o<fnt>Z</fnt>
    </kap>
@@ -23,6 +23,8 @@
        <trd lng="en">omer</trd>
        <trd lng="fr">omer</trd>
        <trd lng="hu">homer</trd>
+       <trd lng="nl">omer</trd>
+       <trd lng="no">omer</trd>
        <trdgrp lng="pt">
          <trd>gomor</trd>,
          <trd>omer</trd>
@@ -32,6 +34,9 @@
 
 <!--
 $Log: omer.xml,v $
+Revision 1.7  2014/11/10 05:10:19  revo
+Filip van Laenen: +trd(nl,no)
+
 Revision 1.6  2014/09/02 12:10:13  revo
 Damien Brucker: +trd fr
 

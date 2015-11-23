@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sonat.xml,v 1.15 2013/08/06 09:10:14 revo Exp $">
+<art mrk="$Id: sonat.xml,v 1.17 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>sonat</rad>/o
@@ -24,6 +24,7 @@
   <trd lng="be">&c_s;&c_a;&c_n;&c_a;&c_t;&c_a;</trd>
   <trd lng="bg">&c_s;&c_o;&c_n;&c_a;&c_t;&c_a;</trd>
   <trd lng="ca">sonata</trd>
+  <trd lng="cs">sonáta</trd>
   <trd lng="de">Sonate</trd>
   <trd lng="en">sonata</trd>
   <trdgrp lng="fr">
@@ -33,10 +34,17 @@
   <trd lng="it">sonata</trd>
   <trd lng="nl">sonate</trd>
   <trd lng="ru">&c_s;&c_o;&c_n;&c_a;&c_t;&c_a;</trd>
+  <trd lng="sk">sonáta</trd>
 </drv>
 </art>
 <!--
 $Log: sonat.xml,v $
+Revision 1.17  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/08/06 09:10:14  revo
 Joop Eggen: +trd bg
 

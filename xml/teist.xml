@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: teist.xml,v 1.14 2014/10/31 16:10:15 revo Exp $">
+<art mrk="$Id: teist.xml,v 1.16 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>teist</rad>/o
@@ -16,6 +16,7 @@
   </snc>
   <trd lng="be">&c_t;&c_e;&c_ib;&c_s;&c_t;</trd>
   <trd lng="ca">teista</trd>
+  <trd lng="cs">teista</trd>
   <trd lng="de">Theist</trd>
   <trd lng="en">theist</trd>
   <trd lng="fr">th&eacute;iste</trd>
@@ -26,10 +27,17 @@
     <trd>te&iacute;sta</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">teista</trd>
 </drv>
 </art>
 <!--
 $Log: teist.xml,v $
+Revision 1.16  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2014/10/31 16:10:15  revo
 Damien Brucker: +trd fr
 

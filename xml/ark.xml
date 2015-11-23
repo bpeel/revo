@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ark.xml,v 1.43 2013/04/27 05:10:09 revo Exp $">
+<art mrk="$Id: ark.xml,v 1.47 2015/09/16 11:10:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ark</rad>/o <fnt><bib>PV</bib></fnt>
@@ -33,6 +33,7 @@
     <trd lng="en">arch</trd>
     <trd lng="id">busur</trd>
     <trd lng="hu">&iacute;v</trd>
+    <trd lng="pt">arco</trd>
     <trd lng="sv">b&aring;ge</trd>
   </snc>
   <snc mrk="ark.0o.MAT">
@@ -277,11 +278,11 @@
     <trd>arquejar</trd>,
     <trd>corbar</trd>
   </trdgrp>
+  <trd lng="cs">ohnout do oblouku</trd>
   <trdgrp lng="de">
     <trd>kr&uuml;mmen</trd>,
     <trd>biegen</trd>
   </trdgrp>
-  <trd lng="es">arquear</trd> 
   <trdgrp lng="en">
     <trd>arch</trd>,
     <trd>bend</trd>,
@@ -289,6 +290,7 @@
     <trd>curve</trd>,
     <trd>hump</trd>
   </trdgrp>
+  <trd lng="es">arquear</trd>
   <trd lng="fr">arquer</trd>
   <trdgrp lng="hu">
     <trd>&iacute;vel</trd>,
@@ -303,6 +305,7 @@
     <trd>krommen</trd>,
     <trd>buigen</trd>
   </trdgrp>
+  <trd lng="sk">ohn&uacute;&tcaron; do obl&uacute;ka</trd>
   <trd lng="sv">b&ouml;ja</trd>
 </drv>
 
@@ -319,6 +322,7 @@
     </dif>
   </snc>
   <trd lng="ca">arcbotant</trd>
+  <trd lng="cs">op&ecaron;rn&yacute; oblouk</trd>
   <trd lng="de">Bogenst&uuml;tze</trd>
   <trd lng="en">flying buttress</trd>
   <trd lng="fr">arc-boutant</trd>
@@ -329,6 +333,7 @@
     <trd>&c_p;&c_o;&c_d;&c_p;&c_o;&c_r;&c_n;&c_a;&c_ja; &c_a;&c_r;&c_k;&c_a;</trd>,
     <trd>&c_a;&c_r;&c_o;&c_ch;&c_n;&c_y;&c_j; &c_k;&c_o;&c_n;&c_t;&c_r;&c_f;&c_o;&c_r;&c_s;</trd>
   </trdgrp>
+  <trd lng="sk">oporn&yacute; obl&uacute;k</trd>
 </drv>
 
 <drv mrk="ark.cxiel0o">
@@ -387,11 +392,12 @@
     <trd>&c_p;&c_a;&c_w;&c_m;&c_je;&c_s;&c_ja;&c_c;</trd>,
     <trd>&c_s;&c_je;&c_r;&c_p; &c_m;&c_je;&c_s;&c_ja;&c_c;&c_a;</trd>
   </trdgrp>
-  <trd lng="br">loargresk</trd>  
+  <trd lng="br">loargresk</trd>
   <trdgrp lng="ca">
     <trd>creixent</trd>,
     <trd>minvant</trd>
-  </trdgrp> 
+  </trdgrp>
+  <trd lng="cs">srpek m&ecaron;s&iacute;ce</trd>
   <trdgrp lng="de">
     <trd>Mondsichel</trd>,
     <trd>Halbmond</trd>
@@ -408,6 +414,10 @@
     <trd>rogal<klr> ksi&eogonek;&zdot;yca</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_l;&c_u;&c_n;&c_n;&c_y;&c_j; &c_s;&c_je;&c_r;&c_p;</trd>
+  <trdgrp lng="sk">
+    <trd>kos&aacute;k mesiaca</trd>,
+    <trd>&scaron;tvr&tcaron; mesiaca</trd>
+  </trdgrp>
   <trd lng="sv">m&aring;nsk&auml;ra</trd>
 </drv>
 
@@ -431,17 +441,20 @@
   </snc>
   <trd lng="be">&c_l;&c_u;&c_k;</trd>
   <trd lng="ca">arc <klr>(arma)</klr></trd>
+  <trd lng="cs">luk</trd>
   <trdgrp lng="de">
     <trd>Schie&szlig;bogen</trd>,
     <trd>Flitzebogen</trd>
   </trdgrp>
   <trd lng="en">bow</trd>
+  <trd lng="es">arco <klr>(arma)</klr></trd>
   <trd lng="fr">arc<klr tip="ind"> (arme)</klr></trd>
   <trd lng="hu">&iacute;j</trd>
   <trd lng="id">busur panah</trd>
   <trd lng="it">arco<klr> (arma)</klr></trd>
   <trd lng="nl">boog<klr tip="ind"> (wapen)</klr></trd>
   <trd lng="ru">&c_l;&c_u;&c_k;<klr tip="amb"> (&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;)</klr></trd>
+  <trd lng="sk">luk</trd>
   <trd lng="sv">pilb&aring;ge</trd>
 </drv>
 
@@ -463,6 +476,10 @@
     </refgrp>
   </snc>
   <trd lng="ca">ogiva</trd>
+  <trdgrp lng="cs">
+    <trd>gotick&yacute; oblouk</trd>,
+    <trd>lomen&yacute; oblouk</trd>
+  </trdgrp>
   <trd lng="de">Spitzbogen</trd>
   <trd lng="en">ogive</trd>
   <trd lng="fr">arc bris&eacute;</trd>
@@ -473,6 +490,7 @@
   </trdgrp>
   <trd lng="nl">spitsboog</trd>
   <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_l;&c_mol;&c_ch;&c_a;&c_t;&c_y;&c_j; &c_s;&c_v;&c_o;&c_d;</trd>
+  <trd lng="sk">gotick&yacute; obl&uacute;k</trd>
   <trd lng="sv">spetsb&aring;ge</trd>
 </drv>
 
@@ -484,6 +502,7 @@
   </snc>
   <trd lng="be">&c_v;&c_ja;&c_s;&c_jo;&c_l;&c_k;&c_a;</trd>
   <trd lng="ca">arc de Sant Mart&iacute;</trd>
+  <trd lng="cs">duha</trd>
   <trd lng="de">Regenbogen</trd>
   <trd lng="en">rainbow</trd>
   <trd lng="fr">arc-en-ciel</trd>
@@ -517,16 +536,30 @@
     </dif>
   </snc>
   <trd lng="ca">penja-robes</trd>
-  <trd lng="es">percha</trd> 
+  <trd lng="cs">ram&iacute;nko na &scaron;aty</trd>
+  <trd lng="es">percha</trd>
   <trd lng="fr">cintre<klr> (&agrave; v&ecirc;tements)</klr></trd>
   <trdgrp lng="it">
     <trd>attaccapanni</trd>,
     <trd>gruccia<klr> (appendiabiti)</klr></trd>
   </trdgrp>
+  <trd lng="sk">ve&scaron;iak</trd>
 </drv>
 </art>
 <!--
 $Log: ark.xml,v $
+Revision 1.47  2015/09/16 11:10:29  revo
+Evandro Avellar: +trd pt
+
+Revision 1.46  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.45  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.44  2015/04/21 09:10:14  revo
+Carlos Garcia: +trd es paf-o
+
 Revision 1.43  2013/04/27 05:10:09  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -537,17 +570,5 @@ Revision 1.41  2012/02/18 01:10:10  revo
 Carlos Garcia: +trd es -igi
 
 Revision 1.40  2012/02/06 12:10:09  revo
-Antonio Codazzi: +trd it
-
-Revision 1.39  2011/12/02 12:10:11  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.38  2010/06/21 16:30:32  revo
-Jeromo Vasxe: + vest~o
-
-Revision 1.37  2008/11/21 17:57:35  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.36  2008/08/23 16:31:06  revo
 -->
 </vortaro>

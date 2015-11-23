@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: motiv.xml,v 1.15 2012/01/03 20:10:09 revo Exp $">
+<art mrk="$Id: motiv.xml,v 1.17 2015/07/04 08:37:39 revo Exp $">
 <kap>
    <ofc>1</ofc>
    <rad>motiv</rad>/o <fnt><bib>PV</bib></fnt>
@@ -62,12 +62,22 @@
        literatura a&ubreve; alispeca verko. <aut>WD</aut>
      </adm>     
    </snc>
-   <trd lng="be">&c_m;&c_a;&c_t;&c_y;&c_w;</trd>
-   <trd lng="cs">motiv</trd>
-   <trd lng="en">motive</trd>
-   <trd lng="nl">motief</trd>
-   <trd lng="ru">&c_m;&c_o;&c_t;&c_i;&c_v;</trd>
-   <trd lng="fr">motif</trd>
+  <trd lng="be">&c_m;&c_a;&c_t;&c_y;&c_w;</trd>
+  <trdgrp lng="cs">
+    <trd>důvod</trd>,
+    <trd>motiv</trd>,
+    <trd>pohnutka</trd>
+  </trdgrp>
+  <trd lng="en">motive</trd>
+  <trd lng="fr">motif</trd>
+  <trd lng="nl">motief</trd>
+  <trd lng="ru">&c_m;&c_o;&c_t;&c_i;&c_v;</trd>
+  <trdgrp lng="sk">
+    <trd>dôvod</trd>,
+    <trd>podnet</trd>,
+    <trd>pohnútka</trd>,
+    <trd>popud</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="motiv.0i">
@@ -95,6 +105,17 @@
      </ekz>
      <trd lng="fr">motiver<klr> (justifier par des motifs)</klr></trd>
    </snc>
+  <trdgrp lng="cs">
+    <trd>být důvodem</trd>,
+    <trd>motivovat</trd>,
+    <trd>odůvodnit</trd>,
+    <trd>zdůvodnit</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>motivovať</trd>,
+    <trd>odôvodniť</trd>,
+    <trd>zdôvodniť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="motiv.0igi">
@@ -108,15 +129,29 @@
        </ekz>
      </dif>
    </snc>
-   <trd lng="be">&c_m;&c_a;&c_t;&c_y;&c_v;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
-   <trd lng="en">justify</trd>
-   <trd lng="fr">motiver<klr> (justifier par des motifs)</klr></trd>
-   <trd lng="nl">motiveren</trd>
-   <trd lng="ru">&c_m;&c_o;&c_t;&c_i;&c_v;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="be">&c_m;&c_a;&c_t;&c_y;&c_v;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>motivovat</trd>,
+    <trd>odůvodnit</trd>
+  </trdgrp>
+  <trd lng="en">justify</trd>
+  <trd lng="fr">motiver<klr> (justifier par des motifs)</klr></trd>
+  <trd lng="nl">motiveren</trd>
+  <trd lng="ru">&c_m;&c_o;&c_t;&c_i;&c_v;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>odôvodniť</trd>,
+    <trd>zdôvodniť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: motiv.xml,v $
+Revision 1.17  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2012/01/03 20:10:09  revo
 Wolfram Diestel: aldonis ekz kaj rim
 

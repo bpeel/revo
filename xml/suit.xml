@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: suit.xml,v 1.9 2010/05/28 16:30:47 revo Exp $">
+<art mrk="$Id: suit.xml,v 1.11 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>suit</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -16,8 +16,12 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_ju;&c_ib;&c_t;&c_a;</trd>
-  <trd lng="fr">suite<klr tip="ind"> (musicale)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>suita</trd>,
+    <trd>svita</trd>
+  </trdgrp>
   <trd lng="de">Suite</trd>
+  <trd lng="fr">suite<klr tip="ind"> (musicale)</klr></trd>
   <trd lng="hu">szvit<klr tip="ind"> (zenei)</klr></trd>
   <trd lng="it">suite<klr> (mus.)</klr></trd>
   <trdgrp lng="nl">
@@ -25,10 +29,17 @@
     <trd>muzieksuite</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_ju;&c_i;&c_t;&c_a;</trd>
+  <trd lng="sk">suita</trd>
 </drv>
 </art>
 <!--
 $Log: suit.xml,v $
+Revision 1.11  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2010/05/28 16:30:47  revo
 Antonio Codazzi: +trd it
 

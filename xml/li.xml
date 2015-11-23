@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: li.xml,v 1.37 2014/06/07 15:10:18 revo Exp $">
+  <art mrk="$Id: li.xml,v 1.38 2014/11/11 05:10:17 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>li</rad>
@@ -76,6 +76,16 @@
             volas
             <klr>(<ctl>iu</ctl> povas egale bone esti virseksulo
               a&ubreve; ino)</klr>;
+          </ekz><ekz>
+            Iu venis; demandu <tld/>n, kiu <tld/> estas, kaj se
+            <tld/> estas tiu, kiun mi atendas, sendu <tld/>n al
+            mi <klr>...</klr> ne, mi decidis alie: sendu &ccirc;iun, kiu ajn
+            <tld/> estos
+            <fnt>
+              <aut>&Z;</aut>:
+              <vrk>Dua Libro de l' lingvo internacia</vrk>
+              <lok>Varsovio, 1888. III:8</lok>.
+            </fnt>;
           </ekz><ekz>
             se vendos sin al vi via frato, hebreo a&ubreve; hebreino, <tld/>
             servu vin dum ses jaroj, sed en la sepa jaro forsendu
@@ -212,6 +222,9 @@
   </art>
   <!--
   $Log: li.xml,v $
+  Revision 1.38  2014/11/11 05:10:17  revo
+  Sergio Pokrovskij: +ekz
+
   Revision 1.37  2014/06/07 15:10:18  revo
   Eko Nur Syah Hidayat: +id
 

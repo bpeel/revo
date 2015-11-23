@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: akuz.xml,v 1.20 2010/08/29 16:30:19 revo Exp $">
+<art mrk="$Id: akuz.xml,v 1.22 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>akuz</rad>/i <fnt><bib>PV</bib></fnt>
@@ -25,6 +25,7 @@
   </snc>
   <trd lng="be">&c_a;&c_b;&c_v;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="br">tamall<klr tip="ind"> (v.)</klr></trd>
+  <trd lng="cs">obžalovat <klr>(někoho pro něco / z něčeho)</klr></trd>
   <trdgrp lng="de">
     <trd>anklagen</trd>,
     <trd>beschuldigen</trd>
@@ -34,14 +35,18 @@
   <trd lng="fa">&a_m;&a_t;&a_h;&a_m; &f_k;&a_r;&a_d;&a_n;</trd>
   <trd lng="fr">accuser</trd>
   <trd lng="hu">v&aacute;dol</trd>
-  <trd lng="nl">beschuldigen</trd>
   <trd lng="it">accusare</trd>
+  <trd lng="nl">beschuldigen</trd>
   <trdgrp lng="pt">
     <trd>acusar</trd>,
     <trd>incriminar</trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_b;&c_v;&c_i;&c_n;&c_ja;&c_t;&c_mol;</trd>
-  <trd lng="sk">obvini&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>obvini&tcaron;</trd>,
+    <trd>obviňovať</trd>,
+    <trd>zažalovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akuz.0ajxo">
@@ -56,6 +61,10 @@
   </snc>
   <trd lng="be">&c_a;&c_b;&c_v;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_ch;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="br">tamall<klr tip="ind"> (ak.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>obžalování</trd>,
+    <trd>žalování</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Anklage</trd>,
     <trd>Beschuldigung</trd>
@@ -68,16 +77,26 @@
   <trd lng="fa">&a_A;&a_t;&a_h;&a_A;&a_m;</trd>
   <trd lng="fr">accusation</trd>
   <trd lng="hu">v&aacute;d</trd>
-  <trd lng="nl">beschuldiging</trd>
   <trd lng="it">accusa</trd>
+  <trd lng="nl">beschuldiging</trd>
   <trd lng="pt">acusa&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_o;&c_b;&c_v;&c_i;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
-  <trd lng="sk">obvinenie</trd>
+  <trdgrp lng="sk">
+    <trd>obvinenie</trd>,
+    <trd>obžaloba</trd>,
+    <trd>žalovanie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 
 $Log: akuz.xml,v $
+Revision 1.22  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2010/08/29 16:30:19  revo
 Jeromo Vasxe: - kramp
 

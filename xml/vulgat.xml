@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vulgat.xml,v 1.8 2012/08/13 00:10:15 revo Exp $">
+<art mrk="$Id: vulgat.xml,v 1.10 2015/07/04 08:37:46 revo Exp $">
 <kap>
   <rad>Vulgat</rad>/o
   <fnt>PIV</fnt>
@@ -26,6 +26,7 @@
   </snc>
   <trd lng="be">&c_V;&c_u;&c_l;&c_mol;&c_g;&c_a;&c_t;&c_a;</trd>
   <trd lng="ca">Vulgata</trd>
+  <trd lng="cs">vulgáta</trd>
   <trd lng="de">Vulgata</trd>
   <trd lng="en">Vulgate</trd>
   <trd lng="hu">Vulgata</trd>
@@ -35,11 +36,18 @@
    <trd>Vulgata</trd>
    </trdgrp>
   <trd lng="ru">&c_V;&c_u;&c_l;&c_mol;&c_g;&c_a;&c_t;&c_a;</trd>
+  <trd lng="sk">Vulgáta</trd>
 </drv>
 </art>
 
 <!--
 $Log: vulgat.xml,v $
+Revision 1.10  2015/07/04 08:37:46  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2012/08/13 00:10:15  revo
 Marc Rausell: + trd ca
 

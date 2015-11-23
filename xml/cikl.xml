@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cikl.xml,v 1.37 2013/03/14 19:10:11 revo Exp $">
+<art mrk="$Id: cikl.xml,v 1.40 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>cikl</rad>/o <fnt><bib>PV</bib></fnt>
@@ -63,6 +63,7 @@
      <trd>Rad</trd>,
      <trd>Fahrrad</trd>
     </trdgrp>
+    <trd lng="es">bicicleta</trd>
     <trd lng="hu">ker&eacute;kp&aacute;r</trd>
     <trd lng="nl">rijwiel</trd>
     <trd lng="pl">welocyped</trd>
@@ -101,6 +102,7 @@
           <ind>n-<tld/>o</ind>;
           <trd lng="de">n-<ind>Zykel</ind></trd>
           <trd lng="en">n-<ind>cycle</ind></trd>
+          <trd lng="es">n-<ind>ciclo</ind></trd>
           <trd lng="fr">n-<ind>cycle</ind></trd>
           <trd lng="nl">n-<ind>cyclus</ind></trd>
           <trd lng="pl">n-<ind>cykl</ind></trd>
@@ -123,6 +125,7 @@
       </dif>
       <trd lng="de">Zykel<klr tip="ind"> (Vertauschung)</klr></trd>
       <trd lng="en">cycle<klr tip="ind"> (permutation)</klr></trd>
+      <trd lng="es">ciclo<klr tip="ind"> (permutaci&oacute;n)</klr></trd>
       <trd lng="fr">cycle<klr tip="ind"> (permutation)</klr></trd>
       <trd lng="nl">cyclus<klr tip="ind"> (permutatie)</klr></trd>
       <trd lng="pl">cykl<klr tip="ind"> (permutacja)</klr></trd>
@@ -149,6 +152,7 @@ cel="cxen.0o.grafeo">&ccirc;eno</ref>, ke
         <trd>Zyklus</trd>
       </trdgrp>
       <trd lng="en">cycle<klr tip="ind"> (in a graph)</klr></trd>
+      <trd lng="es">ciclo<klr tip="ind"> (en un gr&aacute;fico)</klr></trd>
       <trd lng="fr">cycle<klr tip="ind"> (dans un graphe)</klr></trd>
       <trd lng="pl">cykl<klr tip="ind"> (w grafie)</klr></trd>
       <trd lng="ru">&c_c;&c_i;&c_k;&c_l;<klr tip="ind"> (&c_v;
@@ -156,10 +160,13 @@ cel="cxen.0o.grafeo">&ccirc;eno</ref>, ke
     </subsnc>
   </snc>
   <trd lng="ca">cicle</trd>
+  <trd lng="cs">šlapací kolo <klr>(jedno kolo)</klr></trd>
   <trd lng="en">cycle</trd>
+  <trd lng="es">ciclo</trd>
   <trd lng="fr">cycle</trd>
   <trd lng="nl">cyclus</trd>
   <trd lng="pl">cykl</trd>
+  <trd lng="sk">šľapacie koleso</trd>
 </drv>
 
 <drv mrk="cikl.0a">
@@ -193,6 +200,7 @@ cel="cxen.0o.grafeo">&ccirc;eno</ref>, ke
       </dif>
       <trd lng="de">zyklisch<klr tip="ind"> (-e Gruppe)</klr></trd>
       <trd lng="en">cyclic<klr tip="ind"> (group)</klr></trd>
+      <trd lng="es">c&iacute;clico<klr tip="ind"> (grupo)</klr></trd>
       <trdgrp lng="fr">
         <trd><klr tip="ind">(groupe) </klr>monog&egrave;ne</trd>,
         <trd><klr tip="ind">(groupe) </klr>cyclique</trd>
@@ -214,6 +222,7 @@ cel="cxen.0o.grafeo">&ccirc;eno</ref>, ke
       </dif>
       <trd lng="de">zyklisch<klr tip="ind"> (-e Erweiterung)</klr></trd>
       <trd lng="en">cyclic<klr tip="ind"> (extension)</klr></trd>
+      <trd lng="es"><klr tip="ind">(extensi&oacute;n) </klr>c&iacute;clico</trd>
       <trd lng="fr"><klr tip="ind">(extension) </klr>cyclique</trd>
       <trd lng="pl"><klr tip="amb">(rozszerzenie) </klr>cykliczne</trd>
       <trd
@@ -228,6 +237,11 @@ cel="cxen.0o.grafeo">&ccirc;eno</ref>, ke
     </subsnc>
   </snc>
   <trd lng="ca">c&iacute;clic</trd>
+  <trdgrp lng="cs">
+    <trd>cyklický</trd>,
+    <trd>cyklový</trd>
+  </trdgrp>
+  <trd lng="es">c&iacute;clico</trd>
   <trd lng="nl">cyclisch</trd>
   <trd lng="sk">cyklick&yacute;</trd>
 </drv>
@@ -240,6 +254,7 @@ cel="cxen.0o.grafeo">&ccirc;eno</ref>, ke
     </dif>
   </snc>
   <trd lng="ca">ciclista</trd>
+  <trd lng="cs">cyklista</trd>
   <trdgrp lng="de">
      <trd>Radfahrer</trd>,
      <trd>Fahrradfahrer</trd>
@@ -249,14 +264,17 @@ cel="cxen.0o.grafeo">&ccirc;eno</ref>, ke
     <trd>ker&eacute;kp&aacute;ros</trd>,
     <trd>biciklista</trd>
   </trdgrp>
-  <trd lng="pt">ciclista</trd>
   <trd lng="nl">fietser</trd>
   <trd lng="pl">cyklista</trd>
+  <trd lng="pt">ciclista</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_je;&c_l;&c_o;&c_s;&c_i;&c_p;&c_je;&c_d;&c_i;&c_s;&c_t;</trd>,
     <trd>&c_m;&c_o;&c_t;&c_o;&c_c;&c_i;&c_k;&c_l;&c_i;&c_s;&c_t;</trd>
   </trdgrp>
-  <trd lng="sk">cyklista</trd>
+  <trdgrp lng="sk">
+    <trd>bicyklista</trd>,
+    <trd>cyklista</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cikl.re0igi">
@@ -281,6 +299,7 @@ cel="cxen.0o.grafeo">&ccirc;eno</ref>, ke
         sunenergio
         <fnt><aut>H. Sano</aut>:
         <lok>Scienca Revuo, vol. 50 (1999)</lok></fnt>.
+        <trd lng="es">reciclaje</trd>
         <trd lng="ca">reciclatge</trd>
       </ekz>
     </dif>
@@ -299,6 +318,7 @@ cel="cxen.0o.grafeo">&ccirc;eno</ref>, ke
       <trd>&c_u;&c_t;&c_i;&c_l;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">recyklovat</trd>
   <trd lng="sk">recyklova&tcaron;</trd>
 </drv>
 
@@ -319,6 +339,7 @@ cel="cxen.0o.grafeo">&ccirc;eno</ref>, ke
     <trd lng="de"><klr tip="ind">(Graph) </klr>ohne
     <ind>Zyklus</ind></trd>
     <trd lng="en">cycle-free<klr tip="ind"> (graph)</klr></trd>
+    <trd lng="es"><klr tip="ind">(grafo) </klr>sin ciclo</trd>
     <trd lng="fr"><klr tip="ind">(graphe) </klr>sans cycle</trd>
     <trdgrp lng="pl">
       <trd><klr tip="ind">(graf) </klr>bez cykli</trd>,
@@ -357,6 +378,7 @@ cel="cxen.0o.grafeo">&ccirc;eno</ref>, ke
     <trd>rotaci&oacute; de conreus</trd>
   </trdgrp>
   <trd lng="en">crop rotation</trd>
+  <trd lng="es">rotaci&oacute;n de cultivos</trd>
   <trdgrp lng="fr">
     <trd>assolement</trd>,
     <trd>rotation des cultures</trd>
@@ -377,6 +399,7 @@ cel="cxen.0o.grafeo">&ccirc;eno</ref>, ke
     <trd>motocicle</trd>,
     <trd>motocicleta</trd>
   </trdgrp>
+  <trd lng="cs">motocykl</trd>
   <trd lng="de">Motorrad</trd>
   <trdgrp lng="en">
     <trd>motorbike</trd>,
@@ -401,11 +424,23 @@ cel="cxen.0o.grafeo">&ccirc;eno</ref>, ke
     <trd>motoca <klr tip="amb">(BR, motocicleta)</klr></trd>    
   </trdgrp>
   <trd lng="ru">&c_m;&c_o;&c_t;&c_o;&c_c;&c_i;&c_k;&c_l;</trd>
-  <trd lng="sk">motocyklista</trd>
+  <trdgrp lng="sk">
+    <trd>motocykel</trd>,
+    <trd>motocyklista</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: cikl.xml,v $
+Revision 1.40  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.38  2014/12/02 18:10:15  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.37  2013/03/14 19:10:11  revo
 Bart Demeyere: +trd en,nl
 
@@ -425,8 +460,5 @@ Revision 1.32  2006/02/22 17:32:09  revo
 Vito Redsky: +trd pl
 
 Revision 1.31  2004/09/09 18:53:21  revo
-Ulrich Fellmann: + 4 trd=de
-
-Revision 1.30  2003/09/10 16:30:49  revo
 -->
 </vortaro>

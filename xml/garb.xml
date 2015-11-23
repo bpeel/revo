@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: garb.xml,v 1.24 2012/07/16 12:10:24 revo Exp $">
+<art mrk="$Id: garb.xml,v 1.26 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>garb</rad>/o <fnt><bib>PV</bib></fnt>
@@ -98,6 +98,11 @@
     <trd>paveia</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_n;&c_o;&c_p;</trd>
+  <trd lng="sk">zväzok</trd>
+  <trdgrp lng="cs">
+    <trd>svazek <klr>(přímek, rovin)</klr></trd>,
+    <trd>trs</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="garb.0ejo">
@@ -116,12 +121,13 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_g;&c_u;&c_m;&c_n;&c_o;</trd>
+  <trd lng="ca">pallissa</trd>
+  <trd lng="cs">stodola</trd>
   <trdgrp lng="de">
     <trd>Banse</trd>,
     <trd>Scheune</trd>,
     <trd>Scheuer</trd>
   </trdgrp>
-  <trd lng="ca">pallissa</trd>
   <trdgrp lng="en">
     <trd>barn</trd>,
     <trd>granary</trd>
@@ -142,6 +148,7 @@
     <trd>paiol</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_i;&c_g;&c_a;</trd>
+  <trd lng="sk">stodola</trd>
 </drv>
 
 <drv mrk="garb.0igi">
@@ -158,6 +165,10 @@
     <trd>&c_z;&c_mol;&c_v;&c_ja;&c_z;&c_a;&c_c;&c_mol; &c_u; &c_s;&c_n;&c_o;&c_p;</trd>
   </trdgrp>
   <trd lng="ca">agarbar</trd>
+  <trdgrp lng="cs">
+    <trd>svázat do snopů</trd>,
+    <trd>vázat snopy</trd>
+  </trdgrp>
   <trd lng="de">zu <ind>Garben</ind> b&uuml;ndeln</trd>
   <trd lng="en">bind into sheaves</trd>
   <trdgrp lng="fr">
@@ -180,10 +191,17 @@
   <trd lng="pt">enfeixar</trd>
   <trd lng="ru">
   &c_v;&c_ja;&c_z;&c_a;&c_t;&c_mol; &c_s;&c_n;&c_o;&c_p;&c_y;</trd>
+  <trd lng="sk">zväzovať do snopov</trd>
 </drv>
 </art>
 <!--
 $Log: garb.xml,v $
+Revision 1.26  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2012/07/16 12:10:24  revo
 Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hetman.xml,v 1.13 2009/09/07 16:31:37 revo Exp $">
+<art mrk="$Id: hetman.xml,v 1.15 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>hetman</rad>/o
@@ -18,6 +18,7 @@
     <trd>&c_g;&c_je;&c_t;&c_m;&c_a;&c_n;</trd>,
     <trd>&c_a;&c_t;&c_a;&c_m;&c_a;&c_n;</trd>
   </trdgrp>
+  <trd lng="cs">hejtman</trd>
   <trdgrp lng="de">
     <trd>Hetman</trd>,
     <trd>Ataman</trd>
@@ -39,10 +40,6 @@
     <trd>hetman</trd>,
     <trd>kozakkenhoofdman</trd>
   </trdgrp>
-  <trdgrp lng="ru">
-    <trd>&c_g;&c_je;&c_t;&c_m;&c_a;&c_n;</trd>,
-    <trd>&c_a;&c_t;&c_a;&c_m;&c_a;&c_n;</trd>
-  </trdgrp>
   <trdgrp lng="pl">
     <trd>hetman</trd>,
     <trd>ataman</trd>
@@ -51,10 +48,24 @@
    <trd>h&eacute;tm&atilde;</trd>, 
    <trd>h&eacute;tman</trd> 
   </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_je;&c_t;&c_m;&c_a;&c_n;</trd>,
+    <trd>&c_a;&c_t;&c_a;&c_m;&c_a;&c_n;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ataman</trd>,
+    <trd>hajtman</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: hetman.xml,v $
+Revision 1.15  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2009/09/07 16:31:37  revo
 Antonio Codazzi: +trd it
 

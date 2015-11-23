@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: spin2.xml,v 1.12 2012/01/03 15:10:12 revo Exp $">
+<art mrk="$Id: spin2.xml,v 1.14 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>spin</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -25,11 +25,16 @@
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_n;</trd>
   <trd lng="ca">spin</trd>
+  <trd lng="cs">páteř</trd>
   <trd lng="de">Spin</trd>
   <trd lng="en">spin</trd>
   <trd lng="hu">spin</trd>
   <trd lng="pl">spin</trd>
   <trd lng="ru">&c_s;&c_p;&c_i;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>chrbtica</trd>,
+    <trd>chrbtová kosť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="spin2.0momanto">
@@ -54,10 +59,18 @@
   <trd lng="hu">spin</trd>
   <trd lng="pl">spin</trd>
   <trd lng="ru">&c_s;&c_p;&c_i;&c_n;</trd>
+  <trd lng="sk">spinový moment</trd>
+  <trd lng="cs">spinový moment <klr>(hybnosti elementárních částic)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: spin2.xml,v $
+Revision 1.14  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2012/01/03 15:10:12  revo
 Marc Rausell: +trd ca
 

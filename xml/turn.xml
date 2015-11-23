@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: turn.xml,v 1.24 2013/05/31 18:10:09 revo Exp $">
+<art mrk="$Id: turn.xml,v 1.27 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>turn</rad>/i
+  <rad>turn</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="turn.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
@@ -133,8 +133,8 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="metamo1.0i">metamorfozi</ref>,
-      <ref cel="form.trans0i">transformi</ref>
+      <ref cel="form.ali0i.KOMUNE">aliformi</ref>,
+      <ref cel="metamo1.0i">metamorfozi</ref>
     </refgrp>
     <trd lng="hu">v&aacute;ltoztat <klr
     tip="amb">(vmiv&eacute;)</klr></trd>
@@ -144,7 +144,13 @@
     </trdgrp>
     <trd lng="sv">f&ouml;rvandla</trd>
   </snc>
-  <trd lng="cs">obr&aacute;tit</trd>
+  <trdgrp lng="cs">
+    <trd>obr&aacute;tit</trd>,
+    <trd>obracet</trd>,
+    <trd>stočit</trd>,
+    <trd>točit</trd>,
+    <trd>vrtět</trd>
+  </trdgrp>
   <trd lng="de">verwandeln</trd>
   <trd lng="en">turn</trd>
   <trd lng="es">girar</trd>
@@ -160,6 +166,11 @@
    <trd>rodar</trd>,
    <trd>voltear</trd>,
    <trd>transformar</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozkrútiť</trd>,
+    <trd>roztočiť</trd>,
+    <trd>zvrtnúť</trd>
   </trdgrp>
 </drv>
 
@@ -321,10 +332,21 @@
     </trdgrp>
     <trd lng="sv">f&ouml;rvandlas</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>obracet</trd>,
+    <trd>stočit</trd>,
+    <trd>točit</trd>,
+    <trd>vrtět</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>retourner</ind></trd>,
     <trd>se <ind>tourner</ind></trd>,
     <trd>tourner en</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozkrútiť</trd>,
+    <trd>roztočiť</trd>,
+    <trd>zvrtnúť</trd>
   </trdgrp>
 </drv>
 
@@ -356,6 +378,11 @@
       <ref cel="rel">elreligi</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>odklonit</trd>,
+    <trd>odvracet</trd>,
+    <trd>odvrátit</trd>
+  </trdgrp>
   <trd lng="de"><klr>sich </klr>abwenden</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;tourner</trd>
@@ -368,6 +395,10 @@
   <trdgrp lng="ru">
     <trd>&c_o;&c_t;&c_v;&c_o;&c_r;&c_a;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_o;&c_t;&c_v;&c_je;&c_r;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odbočiť</trd>,
+    <trd>odkloniť sa</trd>
   </trdgrp>
   <trd lng="sv">v&auml;nda bort</trd>
 </drv>
@@ -484,12 +515,18 @@
       <trd>zwrotnie</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>nazpátek</trd>,
+    <trd>nazpět <klr>(adv.)</klr></trd>,
+    <trd>zpátky</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>en <ind>retour</ind></trd>
   </trdgrp>
   <trd lng="hu">viszonz&aacute;sul</trd>
   <trd lng="nl">terug</trd>
   <trd lng="ru">&c_n;&c_a;&c_z;&c_a;&c_d;</trd>
+  <trd lng="sk">späť</trd>
   <trd lng="sv">tillbaka</trd>
 </drv>
 
@@ -508,6 +545,11 @@
   </trdgrp>
   <trd lng="ru">&c_z;&c_a;&c_d;&c_o;&c_m;
   &c_n;&c_a;&c_p;&c_je;&c_r;&c_jo;&c_d;</trd>
+  <trdgrp lng="sk">
+    <trd>naopak</trd>,
+    <trd>obrátene</trd>,
+    <trd>opačne</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="turn.akvo0o">
@@ -557,6 +599,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">otočení hlavy</trd>
   <trd lng="de">Schwindel</trd>
   <trd lng="en">vertigo</trd>
   <trd lng="fr">vertige</trd>
@@ -565,6 +608,10 @@
   <trd lng="pl">zawr&oacute;t g&lstroke;owy</trd>
   <trd
   lng="ru">&c_g;&c_o;&c_l;&c_o;&c_v;&c_o;&c_k;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>točenie hlavy</trd>,
+    <trd>závrat</trd>
+  </trdgrp>
   <trdgrp lng="sv">
     <trd>svindel</trd>,
     <trd>yrsel</trd>
@@ -611,6 +658,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">slovní obrat</trd>
   <trd lng="de">Redewendung</trd>
   <trdgrp lng="fr">
     <trd>expression</trd>,
@@ -628,10 +676,20 @@
   </trdgrp>
   <trd lng="ru">&c_o;&c_b;&c_o;&c_r;&c_o;&c_t;
   &c_r;&c_je;&c_ch;&c_i;</trd>
+  <trd lng="sk">slovný zvrat</trd>
 </drv>
 </art>
 <!--
 $Log: turn.xml,v $
+Revision 1.27  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2014/12/14 09:10:10  revo
+Jeromo Vasxe: kor ref
+
 Revision 1.24  2013/05/31 18:10:09  revo
 Benito Subejrano: + trd ca oc
 
@@ -651,8 +709,5 @@ Revision 1.19  2006/02/08 17:31:33  revo
 Tulio Flores: +trd pt
 
 Revision 1.18  2006/01/12 21:52:00  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.17  2005/07/04 16:31:57  revo
 -->
 </vortaro>

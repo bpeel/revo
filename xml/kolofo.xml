@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kolofo.xml,v 1.13 2012/07/20 13:10:26 revo Exp $">
+<art mrk="$Id: kolofo.xml,v 1.15 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kolofon</rad>/o
@@ -26,6 +26,10 @@
     <trd>colof&ograve;nia</trd>,
     <trd>pega grega</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>explicit</trd>,
+    <trd>kolofon</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Harz</trd>,
     <trd>Kolophonium</trd>
@@ -44,10 +48,20 @@
     <trd>colof&ocirc;nio</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_a;&c_n;&c_i;&c_f;&c_o;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>explicit</trd>,
+    <trd>kolofón</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kolofo.xml,v $
+Revision 1.15  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2012/07/20 13:10:26  revo
 Marc Rausell: + trd ca
 

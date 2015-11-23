@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skatol.xml,v 1.25 2013/10/16 08:10:12 revo Exp $">
+<art mrk="$Id: skatol.xml,v 1.27 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>skatol</rad>/o <fnt><bib>PV</bib></fnt>
@@ -31,7 +31,10 @@
     <trd>caixa</trd>,
     <trd>capsa</trd>
   </trdgrp>
-  <trd lng="cs">krabice</trd>
+  <trdgrp lng="cs">
+    <trd>krabice</trd>,
+    <trd>škatule <klr>(hovor.)</klr></trd>
+  </trdgrp>
   <trd lng="de">Schachtel</trd>
   <trd lng="en">box</trd>
   <trd lng="es">caja</trd>
@@ -54,6 +57,10 @@
     <trd>&c_sh;&c_k;&c_a;&c_t;&c_u;&c_l;&c_k;&c_a;</trd>,
     <trd>&c_l;&c_a;&c_r;&c_je;&c_c;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>krabica</trd>,
+    <trd>škatuľa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="skatol.muzik0o">
@@ -72,9 +79,11 @@
     </dif>
   </snc>
   <trd lng="ca">capsa de m&uacute;sica</trd>
+  <trd lng="cs">hrací skříňka</trd>
   <trd lng="de">Spieldose</trd>
   <trd lng="fr">boite &agrave; musique</trd>
   <trd lng="it">carillon</trd>
+  <trd lng="sk">hracia skrinka</trd>
 </drv>
 
 <drv mrk="skatol.nigra0o">
@@ -95,6 +104,7 @@
       <trd>Blackbox</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">černá skříňka</trd>
   <trdgrp lng="de">
     <trd>Blackbox</trd>
   </trdgrp>
@@ -103,6 +113,7 @@
     <trd>bo&icirc;te noire</trd>
   </trdgrp>
   <trd lng="it"><ind>scatola</ind> nera</trd>
+  <trd lng="sk">čierna skrinka</trd>
 </drv>
 
 <drv mrk="skatol.son0o">
@@ -122,6 +133,12 @@
 </art>
 <!--
 $Log: skatol.xml,v $
+Revision 1.27  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.25  2013/10/16 08:10:12  revo
 Benito Subejrano: + trd ca oc
 

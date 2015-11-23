@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hidrof.xml,v 1.16 2013/10/09 19:11:02 revo Exp $">
+<art mrk="$Id: hidrof.xml,v 1.19 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>hidrofobi</rad>/o
@@ -42,6 +42,7 @@
     <trd>v&iacute;ziszony</trd>,
     <trd>hidrof&oacute;bia</trd>
   </trdgrp>
+  <trd lng="id">hidrofobia</trd>
   <trd lng="it">idrofobia</trd>
   <trdgrp lng="nl">
     <trd>waterangst</trd>,
@@ -57,10 +58,24 @@
     <trd>&c_g;&c_i;&c_d;&c_r;&c_o;&c_f;&c_o;&c_b;&c_i;&c_ja;</trd>,
     <trd>&c_v;&c_o;&c_d;&c_o;&c_b;&c_o;&c_ja;&c_z;&c_n;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chorobný odpor z pitia vody</trd>,
+    <trd>hydrofóbia</trd>
+  </trdgrp>
+  <trd lng="cs">hydrofobie</trd>
 </drv>
 </art>
 <!--
 $Log: hidrof.xml,v $
+Revision 1.19  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/11/18 20:10:21  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.16  2013/10/09 19:11:02  revo
 Wolfram Diestel: ref al lst malsanoj
 
@@ -80,8 +95,5 @@ Revision 1.11  2003/12/02 17:30:37  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.10  2002/07/11 17:34:57  revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.9  2002/07/06 17:31:33  revo
 -->
 </vortaro>

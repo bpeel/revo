@@ -2,33 +2,11 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pland.xml,v 1.24 2013/10/16 01:10:15 revo Exp $">
+<art mrk="$Id: pland.xml,v 1.29 2015/09/14 18:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pland</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
-<drv mrk="pland.0">
-  <kap><tld/></kap>
-  <gra><vspec>sonimito</vspec></gra>
-  <snc mrk="pland.0.SON">
-    <dif>
-      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
-      de <tld/>oj irantaj sur grundo:
-      <ekz>
-        nokte ili rampas eksteren - <tld/> - <tld/>, <tld/> - <tld/>
-        ...
-        <fnt><bib>Salamandroj</bib>, <lok>libro 1a, &ccirc;apitro
-        5a</lok></fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="fr">pat-pat<klr> (bruit de pas)</klr></trd>
-  <trd lng="it">tap-tap<klr> (rumore di passi)</klr></trd>
-  <trdgrp lng="pl">
-    <trd>tup-tup</trd>,
-    <trd>cz&lstroke;ap-cz&lstroke;ap</trd>
-  </trdgrp>
-</drv>
 
 <drv mrk="pland.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -55,6 +33,7 @@
     <trd lng="en">sole</trd>
     <trd lng="fr">plante du pied</trd>
     <trd lng="hu">talp</trd>
+    <trd lng="id"><ind>telapak</ind> kaki</trd>
     <trdgrp lng="nl">
       <trd>zool<klr tip="ind"> (v.voet)</klr></trd>,
       <trd>voetzool</trd>
@@ -72,6 +51,7 @@
       meti ion sub la <tld/>on de siaj &scirc;uoj
       <klr>(tute mal&scirc;ati ion)</klr>.
     </ekz>
+    <trd lng="id">sol</trd>
     <trd lng="it">suola</trd>
     <trd lng="nl">zool<klr tip="ind"> (v.schoen)</klr></trd>
     <trdgrp lng="pl">
@@ -80,8 +60,42 @@
     </trdgrp>
     <trd lng="sv">sula</trd>
   </snc>
+  <trd lng="cs">chodidlo</trd>
   <trd lng="nl">zool</trd>
+  <trdgrp lng="sk">
+    <trd>chodidlo</trd>,
+    <trd>podo&scaron;va</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="pland.0">
+  <kap><tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="pland.0.SON">
+    <dif>
+      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
+      de <tld/>oj irantaj sur grundo:
+      <ekz>
+        nokte ili rampas eksteren - <tld/> - <tld/>, <tld/> - <tld/>
+        ...
+        <fnt><bib>Salamandroj</bib>, <lok>libro 1a, &ccirc;apitro
+        5a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>shuffle<klr> (if not lifting feet)</klr></trd>,
+    <trd>plod<klr> (if moving slowly and heavily)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">pat-pat<klr> (bruit de pas)</klr></trd>
+  <trd lng="it">tap-tap<klr> (rumore di passi)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>tup-tup</trd>,
+    <trd>cz&lstroke;ap-cz&lstroke;ap</trd>
+  </trdgrp>
+</drv>
+
+
 
 <drv mrk="pland.0i">
   <kap><tld/>i</kap>
@@ -99,10 +113,19 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>plaho&ccaron;it se</trd>,
+    <trd>vl&eacute;ci se</trd>,
+    <trd>&scaron;ourat se</trd>
+  </trdgrp>
   <trd lng="nl">schuifelen</trd>
   <trdgrp lng="pl">
     <trd>tupa&cacute;</trd>,
     <trd>cz&lstroke;apa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>plaho&ccaron;i&tcaron; sa</trd>,
+    <trd>vliec&tcaron; sa</trd>
   </trdgrp>
 </drv>
 
@@ -118,10 +141,12 @@
     <trd>&c_p;&c_a;&c_d;&c_e;&c_sh;&c_v;&c_a; <klr>(&c_a;&c_b;&c_u;&c_t;&c_k;&c_u;)</klr></trd>,
     <trd>&c_p;&c_a;&c_d;&c_n;&c_o;&c_s;&c_a;&c_k;</trd>
   </trdgrp>
+  <trd lng="cs">podr&aacute;&zcaron;ka</trd>
   <trd lng="de">Sohle</trd>
   <trd lng="en">sole</trd>
   <trd lng="fr">semelle</trd>
   <trd lng="hu">cip&odblac;talp</trd>
+  <trd lng="id">sol</trd>
   <trd lng="it">suola</trd>
   <trdgrp lng="nl">
     <trd>zool<klr tip="ind"> (v.schoen)</klr></trd>,
@@ -135,6 +160,7 @@
     <trd>&c_p;&c_o;&c_d;&c_o;&c_sh;&c_v;&c_a; <klr tip="amb">(&c_o;&c_b;&c_u;&c_v;&c_i;)</klr></trd>,
     <trd>&c_p;&c_o;&c_d;&c_m;&c_jo;&c_t;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">podr&aacute;&zcaron;ka</trd>
   <trdgrp lng="sv">
     <trd>sula</trd>,
     <trd>skosula</trd>
@@ -152,16 +178,34 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">to resole</trd>
+  <trd lng="cs">podrazit <klr>(boty)</klr></trd>
   <trd lng="fr">ressemeler</trd>
   <trd lng="hu">megtalpal</trd>
   <trd lng="it">risuolare</trd>
   <trd lng="nl">verzolen</trd>
   <trd lng="pl">podzelowa&cacute; </trd>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_b;&c_i;&c_t;&c_mol; &c_n;&c_o;&c_v;&c_y;&c_je; &c_p;&c_o;&c_d;&c_m;&c_jo;&c_t;&c_k;&c_i;</trd>
+  <trd lng="sk">podrazi&tcaron; <klr>(top&aacute;nku)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: pland.xml,v $
+Revision 1.29  2015/09/14 18:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.28  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2015/02/15 11:10:27  revo
+Wolfram Diestel: ordo de drv
+
+Revision 1.25  2015/01/29 04:10:56  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.24  2013/10/16 01:10:15  revo
 Jeromo Vasxe: ref al lst sonoj
 
@@ -169,20 +213,5 @@ Revision 1.23  2013/04/09 10:10:48  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.22  2012/12/20 11:10:08  revo
-Jozefo Horvath: kor. tr hu
-
-Revision 1.21  2010/12/10 20:17:22  revo
-Antonio Codazzi: +trd it
-
-Revision 1.20  2010/09/19 16:30:24  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.19  2009/09/07 16:31:51  revo
-Paul Peeraerts: +nl
-
-Revision 1.18  2007/04/18 16:30:26  revo
-Wieland Pusch: +trd de
-
-Revision 1.17  2006/11/06 17:30:17  revo
 -->
 </vortaro>

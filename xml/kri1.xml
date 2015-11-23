@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kri1.xml,v 1.3 2012/07/30 13:10:18 revo Exp $">
+<art mrk="$Id: kri1.xml,v 1.5 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>kri</rad>/o
 </kap>
@@ -36,6 +36,11 @@
     <trd>Cri<klr> (subst., indien Cree)</klr></trd>,
     <trd>Cree<klr> (subst.)</klr></trd>
   </trdgrp>
+  <trd lng="sk">krik</trd>
+  <trdgrp lng="cs">
+    <trd>křik</trd>,
+    <trd>volání</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kri1.0a">
@@ -46,15 +51,23 @@
     </dif>
   </snc>
   <trd lng="ca">cree<klr> (adj.)</klr></trd>
+  <trd lng="cs">křičící</trd>
   <trdgrp lng="fr">
     <trd>cri<klr> (adj., des indiens cree)</klr></trd>,
     <trd>cree<klr> (adj.)</klr></trd>
   </trdgrp>
+  <trd lng="sk">krikľavý</trd>
 </drv>
 </art>
 
 <!--
 $Log: kri1.xml,v $
+Revision 1.5  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.3  2012/07/30 13:10:18  revo
 Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: strek.xml,v 1.44 2014/11/02 07:10:15 revo Exp $">
+<art mrk="$Id: strek.xml,v 1.46 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>strek</rad>/i
@@ -62,6 +62,17 @@
     <trd>&c_p;&c_r;&c_o;&c_v;&c_je;&c_s;&c_t;&c_i;
 <ind>&c_ch;&c_je;&c_r;&c_t;&c_u;</ind></trd>,
     <trd>&c_p;&c_r;&c_o;&c_ch;&c_je;&c_r;&c_t;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>linajkovať</trd>,
+    <trd>prečiarknuť</trd>,
+    <trd>škrtnúť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>linkovat</trd>,
+    <trd>rýsovat</trd>,
+    <trd>čárkovat</trd>,
+    <trd>škrtat</trd>
   </trdgrp>
 </drv>
 
@@ -157,6 +168,16 @@
     <trd lng="pl">odcinek</trd>
     <trd lng="ru">&c_o;&c_t;&c_r;&c_je;&c_z;&c_o;&c_k;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>čára</trd>,
+    <trd>čárka</trd>,
+    <trd>škrt</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>čiara</trd>,
+    <trd>čiarka</trd>,
+    <trd>škrt</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="strek.cxirkaux0i">
@@ -222,6 +243,7 @@
     </dif>
   </snc>
   <trd lng="ca">gui&oacute;</trd>
+  <trd lng="cs">pomlčka</trd>
   <trd lng="de">Gedankenstrich</trd>
   <trd lng="en">dash</trd>
   <trd lng="es">gui&oacute;n<klr> (para un rango)</klr></trd>
@@ -231,6 +253,7 @@
     <trd>aandachtsstreep</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_i;&c_r;&c_je;</trd>
+  <trd lng="sk">pomlčka</trd>
 </drv>
 
 <drv mrk="strek.el0ifor0i">
@@ -263,6 +286,11 @@
     <trd>suprimir</trd>,
     <trd>passar ratlla</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>odškrtnout</trd>,
+    <trd>přeškrtnout</trd>,
+    <trd>vyškrtnout</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>ausstreichen</trd>,
     <trd>fortstreichen</trd>,
@@ -291,6 +319,10 @@
   <trdgrp lng="ru">
     <trd>&c_v;&c_y;&c_ch;&c_je;&c_r;&c_k;&c_n;&c_u;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_ch;&c_je;&c_r;&c_k;&c_n;&c_u;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odškrtnúť</trd>,
+    <trd>preškrtnúť</trd>
   </trdgrp>
 </drv>
 
@@ -332,11 +364,20 @@
     </trdgrp>
     <trd lng="nl">accentueren</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>podtrhnout</trd>,
+    <trd>podškrtnout</trd>
+  </trdgrp>
   <trd lng="de">unterstreichen</trd>
   <trd lng="en">underline</trd>
   <trd lng="fr">souligner</trd>
   <trd lng="hu">al&aacute;h&uacute;z</trd>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_ch;&c_je;&c_r;&c_k;&c_n;&c_u;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd><klr>(pren.)</klr> zdôrazniť</trd>,
+    <trd>podtrhnúť</trd>,
+    <trd>podčiarknuť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="strek.sub0o">
@@ -356,6 +397,10 @@ por substreki vorton per skribma&scirc;ino.
     <trd>espai baix</trd>,
     <trd>barra baixa</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>podtržení</trd>,
+    <trd>znak podtržení</trd>
+  </trdgrp>
   <trd lng="de">Unterstrich</trd>
   <trd lng="en">underscore</trd>
   <trdgrp lng="es">
@@ -365,6 +410,10 @@ por substreki vorton per skribma&scirc;ino.
     <trd>underscore</trd>,
     <trd>laag <ind>streepje</ind></trd>,
     <trd>liggend <ind>streepje</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>podčiarknutie</trd>,
+    <trd>znak podtrhnutia</trd>
   </trdgrp>
 </drv>
 
@@ -384,6 +433,10 @@ por substreki vorton per skribma&scirc;ino.
     <trd>solcar</trd>,
     <trd>estriar</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>škrtat</trd>,
+    <trd>škrtnout</trd>
+  </trdgrp>
   <trd lng="de">durchstreichen</trd>
   <trd lng="en">strike through</trd>
   <trdgrp lng="es">
@@ -393,6 +446,10 @@ por substreki vorton per skribma&scirc;ino.
   <trd lng="hu">&aacute;th&uacute;z</trd>
   <trd lng="nl">doorstrepen</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_ch;&c_je;&c_r;&c_k;&c_n;&c_u;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>prečiarknuť</trd>,
+    <trd>preškrtnúť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="strek.ombro0o">
@@ -449,6 +506,11 @@ por substreki vorton per skribma&scirc;ino.
     <trd>sendera</trd>,
     <trd>traject&ograve;ria</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>cestička</trd>,
+    <trd>pěšina</trd>,
+    <trd>stezka</trd>
+  </trdgrp>
   <trd lng="de">Wegstrecke</trd>
   <trdgrp lng="es">
     <trd>camino</trd>,
@@ -459,10 +521,20 @@ por substreki vorton per skribma&scirc;ino.
   <trd lng="hu">&uacute;tvonal</trd>
   <trd lng="nl">weggetje</trd>
   <trd lng="ru">&c_s;&c_t;&c_je;&c_z;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>cestička</trd>,
+    <trd>chodník</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: strek.xml,v $
+Revision 1.46  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.45  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.44  2014/11/02 07:10:15  revo
 Guillermo Molleda Jimena: trd es
 

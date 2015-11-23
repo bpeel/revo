@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: difere.xml,v 1.28 2014/07/01 12:10:14 revo Exp $">
+<art mrk="$Id: difere.xml,v 1.32 2015/10/01 06:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>diferenc</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -40,12 +40,17 @@
     <trd>&c_r;&c_o;&c_z;&c_mol;&c_n;&c_ib;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_a;&c_d;&c_r;&c_o;&c_z;&c_mol;&c_n;&c_ib;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>li&scaron;it se</trd>,
+    <trd>rozli&scaron;ovat se</trd>,
+    <trd>tvo&rcaron;it rozd&iacute;l</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>abweichen</trd>,
     <trd>sich <ind>unterscheiden</ind></trd>,
     <trd>differieren</trd>
   </trdgrp>
-  <trd lng="en">differ</trd>
+  <trd lng="en">to differ</trd>
   <trdgrp lng="fr">
     <trd>diff&eacute;rer</trd>,
     <trd>&ecirc;tre <ind>diff&eacute;rent</ind></trd>
@@ -63,6 +68,10 @@
     <trd>&c_r;&c_a;&c_z;&c_l;&c_i;&c_ch;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_n;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_o;&c_t;&c_l;&c_i;&c_ch;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozli&scaron;ova&tcaron; sa</trd>,
+    <trd>tvori&tcaron; rozdiel</trd>
   </trdgrp>
 </drv>
 
@@ -82,9 +91,14 @@
       <ref cel="proksi">malproksima</ref>
     </refgrp>
   </snc>
+  <trd lng="en">different</trd>
   <trdgrp lng="be">
     <trd>&c_r;&c_o;&c_z;&c_n;&c_y;</trd>,
     <trd>&c_a;&c_d;&c_r;&c_o;&c_z;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>odli&scaron;n&yacute;</trd>,
+    <trd>rozd&iacute;ln&yacute;</trd>
   </trdgrp>
   <trd lng="es">diferente</trd>
   <trd lng="fr">diff&eacute;rent</trd>
@@ -96,6 +110,10 @@
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_o;&c_t;&c_l;&c_i;&c_ch;&c_a;&c_ju;&c_shch;&c_i;&c_j;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odli&scaron;n&yacute;</trd>,
+    <trd>rozdielny</trd>
   </trdgrp>
 </drv>
 
@@ -253,7 +271,12 @@
       B)</klr></trd>
     </subsnc>
   </snc>
+  <trd lng="cs">rozd&iacute;l, diference</trd>
   <trd lng="es">diferencia</trd>
+  <trdgrp lng="sk">
+    <trd>odli&scaron;nos&tcaron;</trd>,
+    <trd>rozdiel</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="difere.0igi">
@@ -263,6 +286,7 @@
     <dif>
       Igi malsamaj.
     </dif>
+    <trd lng="en">to differentiate</trd>
     <trd lng="fr">rendre <ind>diff&eacute;rents</ind></trd>
     <trd lng="pl">wyr&oacute;&zdot;nia&cacute;</trd>
   </snc>
@@ -276,6 +300,7 @@
         <tld/>igi la juston de la maljusto.
       </ekz>
     </dif>
+    <trd lng="en">to distinguish</trd>
     <trdgrp lng="fr">
       <trd>diff&eacute;rencier<klr tip="ind"> (distinguer)</klr></trd>,
       <trd>distinguer</trd>
@@ -283,9 +308,20 @@
     <trd lng="pl">odr&oacute;&zdot;nia&cacute;</trd>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_r;&c_o;&c_z;&c_mol;&c_n;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>diferencovat</trd>,
+    <trd>odli&scaron;it</trd>,
+    <trd>rozli&scaron;ovat</trd>,
+    <trd>&ccaron;init rozd&iacute;l</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_z;&c_l;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_t;&c_l;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozli&scaron;ova&tcaron;</trd>,
+    <trd>rozozna&tcaron;</trd>,
+    <trd>rozpozna&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -314,6 +350,11 @@
       <ref cel="trajt.0o">trajto</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="en">
+    <trd>distinction</trd>,
+    <trd>differentiation</trd>
+  </trdgrp>
+  <trd lng="pl">wyr&oacute;&zdot;nik</trd>
 </drv>
 
 <drv mrk="difere.sen0a">
@@ -336,6 +377,8 @@
     </dif>
     <ref tip="vid" cel="indife.0a">indiferenta</ref>
   </snc>
+  <trd lng="en">undifferentiated</trd>
+  <trd lng="cs">nerozd&iacute;ln&yacute;</trd>
   <trdgrp lng="fr">
     <trd>indiff&eacute;rent</trd>,
     <trd>indiff&eacute;renci&eacute;</trd>
@@ -345,6 +388,7 @@
     <trd>identyczny</trd>,
     <trd>to&zdot;samy</trd>
   </trdgrp>
+  <trd lng="sk">nerozdielny</trd>
 </drv>
 
 <drv mrk="difere.0ede">
@@ -365,11 +409,32 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="en">
+    <trd>different from</trd>,
+    <trd>unlike</trd>, <trd>differently than</trd>
+  </trdgrp>
   <trd lng="fr">&agrave; la diff&eacute;rence de</trd>
+  <trdgrp lng="pl">
+    <trd>w <ind>odr&oacute;&zdot;nieniu</ind> od <klr>(kogo&sacute;, czego&sacute;)</klr></trd>,
+    <trd>w <ind>przeciwie&nacute;stwie</ind> do <klr>(kogo&sacute;,
+    czego&sacute;)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: difere.xml,v $
+Revision 1.32  2015/10/01 06:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.31  2015/09/17 23:10:14  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.30  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.28  2014/07/01 12:10:14  revo
 Damien Brucker: +ekz
 
@@ -380,17 +445,5 @@ Revision 1.26  2011/02/09 12:10:10  revo
 Jeromo Vasxe: interpunkcio de ekz
 
 Revision 1.25  2010/08/18 16:30:18  revo
-Wieland Pusch: +trd bg
-
-Revision 1.24  2010/06/25 17:26:05  revo
-Jeromo Vasxe: + ~igilo
-
-Revision 1.23  2009/06/14 16:31:00  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.22  2007/07/26 16:30:55  revo
-Tulio Flores: +tr pt
-
-Revision 1.21  2006/09/08 12:04:03  revo
 -->
 </vortaro>

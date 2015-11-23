@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nun.xml,v 1.29 2014/06/10 05:10:17 revo Exp $">
+<art mrk="$Id: nun.xml,v 1.31 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nun</rad> <fnt><bib>PV</bib></fnt>
@@ -95,8 +95,9 @@
   <trd lng="br">brema&ntilde;</trd>
   <trd lng="ca">ara</trd>
   <trdgrp lng="cs">
+    <trd>nyn&iacute;</trd>,
     <trd>te&dcaron;</trd>,
-    <trd>nyn&iacute;</trd>
+    <trd>teď</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>jetzt</trd>,
@@ -124,6 +125,7 @@
     <trd>&c_s;&c_je;&c_j;&c_ch;&c_a;&c_s;</trd>,
     <trd>&c_t;&c_je;&c_p;&c_je;&c_r;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">teraz</trd>
   <trd lng="sv">nu</trd>
 </drv>
 
@@ -146,6 +148,10 @@
   <trd lng="be">&c_c;&c_ja;&c_p;&c_je;&c_r;&c_a;&c_sh;&c_n;&c_ib;</trd>
   <trd lng="br">a-vrema&ntilde;</trd>
   <trd lng="ca">actual</trd>
+  <trdgrp lng="cs">
+    <trd>nynější</trd>,
+    <trd>přítomný</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>jetzig</trd>,
     <trd>derzeitig</trd>
@@ -174,6 +180,7 @@
     tip="amb">(&c_o; &c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_i;)</klr></trd>,
     <trd>&c_n;&c_y;&c_n;&c_je;&c_sh;&c_n;&c_i;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">terajší</trd>
   <trd lng="sv">nuvarande</trd>
 </drv>
 
@@ -242,6 +249,12 @@
 </art>
 <!--
 $Log: nun.xml,v $
+Revision 1.31  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.29  2014/06/10 05:10:17  revo
 Eko Nur Syah Hidayat: +id
 

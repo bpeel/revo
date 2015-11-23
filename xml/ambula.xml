@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ambula.xml,v 1.18 2013/01/01 12:10:15 revo Exp $">
+<art mrk="$Id: ambula.xml,v 1.20 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>ambulanc</rad>/o
@@ -62,10 +62,28 @@
     <trd lng="pl">szpital polowy</trd>
     <trd lng="ru">&c_p;&c_o;&c_l;&c_je;&c_v;&c_o;&c_j; &c_g;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_l;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>ambulance</trd>,
+    <trd>pojízdná nemocnice</trd>,
+    <trd>sanita</trd>,
+    <trd>sanitka</trd>,
+    <trd>sanitní auto</trd>,
+    <trd>záchranka</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pojazdná vojenská nemocnica</trd>,
+    <trd>záchranka</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ambula.xml,v $
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2013/01/01 12:10:15  revo
 Sebastian Cyprych: kor trd pl
 

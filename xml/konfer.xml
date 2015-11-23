@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konfer.xml,v 1.22 2014/11/04 11:10:18 revo Exp $">
+<art mrk="$Id: konfer.xml,v 1.24 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>konferenc</rad>/o <fnt><bib>PV</bib></fnt>
@@ -94,6 +94,7 @@
   </snc>
   <trd lng="be">
   &c_k;&c_a;&c_n;&c_f;&c_e;&c_r;&c_e;&c_n;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="cs">konference</trd>
   <trd lng="de">Konferenz</trd>
   <trd lng="en">conference</trd>
   <trd lng="es">conferencia</trd>
@@ -115,6 +116,10 @@
   <trd lng="pt">confer&ecirc;ncia</trd>
   <trd lng="ru">
   &c_k;&c_o;&c_n;&c_f;&c_je;&c_r;&c_je;&c_n;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>konferencia</trd>,
+    <trd>porada</trd>
+  </trdgrp>
   <trd lng="tr">konferans</trd>
 </drv>
 
@@ -130,7 +135,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">konferovat <klr>(o)</klr></trd>
   <trd lng="fr">participer &agrave; une <ind>conf&eacute;rence</ind></trd>
+  <trd lng="sk">konferovať <klr>(o)</klr></trd>
 </drv>
 
 <drv mrk="konfer.gazetara0o">
@@ -152,12 +159,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">tisková konference</trd>
   <trd lng="en">press conference</trd>
   <trd lng="fr">conf&eacute;rence de presse</trd>
   <trd lng="nl">persconferentie</trd>
   <trd lng="no">pressekonferanse</trd>
   <trd lng="pl">konferencja prasowa</trd>
   <trd lng="ru">&c_p;&c_r;&c_je;&c_s;&c_s;-&c_k;&c_o;&c_n;&c_f;&c_je;&c_r;&c_je;&c_n;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">tlačová konferencia</trd>
   <trd lng="tr">bas&inodot;n konferans&inodot;</trd>
 </drv>
 
@@ -193,6 +202,12 @@
 </art>
 <!--
 $Log: konfer.xml,v $
+Revision 1.24  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/11/04 11:10:18  revo
 Filip van Laenen: +trd no
 

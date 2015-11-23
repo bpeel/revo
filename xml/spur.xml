@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: spur.xml,v 1.20 2013/12/15 11:10:17 revo Exp $">
+<art mrk="$Id: spur.xml,v 1.22 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>spur</rad>/o
 </kap>
@@ -76,9 +76,17 @@
        </ekz>.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>sledovat</trd>,
+    <trd>trasovat</trd>
+  </trdgrp>
   <trd lng="es">buscar huellas</trd>
   <trd lng="fr">tracer</trd>
   <trd lng="nl">opsporen</trd>
+  <trdgrp lng="sk">
+    <trd>sledovať</trd>,
+    <trd>stopovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="spur.fingro0o">
@@ -100,16 +108,18 @@
   </snc>
   <trd lng="be">&c_a;&c_d;&c_b;&c_ib;&c_t;&c_a;&c_k;
     &c_p;&c_a;&c_l;&c_mol;&c_c;&c_a;</trd>
+  <trd lng="cs">otisk prstu</trd>
   <trd lng="de">Fingerabdruck</trd>
   <trd lng="en">fingerprint</trd>
+  <trd lng="es">huella digital</trd>
   <trdgrp lng="fr">
     <trd>empreinte digitale</trd>
   </trdgrp>
-  <trd lng="es">huella digital</trd>
   <trd lng="hu">ujjlenyomat</trd>
   <trd lng="nl">vingerafdruk</trd>
   <trd lng="ru">&c_o;&c_t;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_o;&c_k;
 &c_p;&c_a;&c_l;&c_mol;&c_c;&c_je;&c_v;</trd>
+  <trd lng="sk">odtlačok prsta</trd>
 </drv>
 
 <drv mrk="spur.sen0e">
@@ -144,6 +154,12 @@
 </art>
 <!--
 $Log: spur.xml,v $
+Revision 1.22  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2013/12/15 11:10:17  revo
 Damien Brucker: +trd fr
 

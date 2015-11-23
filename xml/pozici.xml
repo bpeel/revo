@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pozici.xml,v 1.16 2014/03/25 20:10:17 revo Exp $">
+<art mrk="$Id: pozici.xml,v 1.18 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>pozici</rad>/o
@@ -92,22 +92,32 @@
     <trd>&c_p;&c_a;&c_z;&c_ib;&c_c;&c_y;&c_ja;</trd>,
     <trd>&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>poloha</trd>,
+    <trd>postavení</trd>,
+    <trd>pozice</trd>,
+    <trd>stav</trd>
+  </trdgrp>
   <trd lng="de">Position</trd>
   <trd lng="en">position</trd>
-  <trdgrp lng="nl">
-    <trd>positie</trd>,
-    <trd>houding</trd>,
-    <trd>stand</trd>
-  </trdgrp>
   <trdgrp lng="hu">
     <trd>helyzet</trd>,
     <trd>testtart&aacute;s</trd>,
     <trd>poz&iacute;ci&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="nl">
+    <trd>positie</trd>,
+    <trd>houding</trd>,
+    <trd>stand</trd>
+  </trdgrp>
   <trd lng="pt">posi&ccedil;&atilde;o</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_o;&c_z;&c_i;&c_c;&c_i;&c_ja;</trd>,
     <trd>&c_p;&c_o;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>poloha</trd>,
+    <trd>postavenie</trd>
   </trdgrp>
   <trd lng="sv">position</trd>
 </drv>
@@ -167,6 +177,12 @@
 </art>
 <!--
 $Log: pozici.xml,v $
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2014/03/25 20:10:17  revo
 Damien Brucker: +trd fr
 

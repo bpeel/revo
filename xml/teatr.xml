@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: teatr.xml,v 1.28 2013/09/24 01:10:13 revo Exp $">
+<art mrk="$Id: teatr.xml,v 1.31 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>teatr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -54,12 +54,14 @@
     </dif>
   </snc>
   <trd lng="be">&c_t;&c_e;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trd lng="cs">divadlo</trd>
   <trd lng="de">Theater</trd>
   <trd lng="en">theatre</trd>
   <trdgrp lng="fr">
     <trd>th&eacute;&acirc;tre</trd>
   </trdgrp>
   <trd lng="hu">sz&iacute;nh&aacute;z</trd>
+  <trd lng="id">teater</trd>
   <trdgrp lng="nl">
     <trd>theater</trd>,
     <trd>toneel</trd>
@@ -69,6 +71,7 @@
    <trd>teatro</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_a;&c_t;&c_r;</trd>
+  <trd lng="sk">divadlo</trd>
   <trd lng="sv">teater</trd>
 </drv>
 
@@ -129,6 +132,7 @@
   </snc>
   <trd lng="be">&c_t;&c_e;&c_a;&c_t;&c_a;&c_r;<klr>
   (&c_b;&c_u;&c_d;&c_y;&c_n;&c_a;&c_k;)</klr></trd>
+  <trd lng="cs">divadlo <klr>(budova)</klr></trd>
   <trdgrp lng="fr">
     <trd>th&eacute;&acirc;tre<klr> (b&acirc;timent)</klr></trd>
   </trdgrp>
@@ -138,6 +142,7 @@
   <trd lng="pl">teatr</trd>
   <trd lng="ru">&c_t;&c_je;&c_a;&c_t;&c_r;<klr tip="amb">
   (&c_z;&c_d;&c_a;&c_n;&c_i;&c_je;)</klr></trd>
+  <trd lng="sk">divadlo <klr>(budova)</klr></trd>
 </drv>
 
 <drv mrk="teatr.film0o">
@@ -165,6 +170,10 @@
     <trd>&c_k;&c_ib;&c_n;&c_o;</trd>,
     <trd>&c_k;&c_ib;&c_n;&c_a;&c_t;&c_e;&c_a;&c_t;&c_a;&c_r;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>biograf</trd>,
+    <trd>kino</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Kino</trd>,
     <trd>Filmtheater</trd>
@@ -182,6 +191,7 @@
     <trd>&c_k;&c_i;&c_n;&c_o;</trd>,
     <trd>&c_k;&c_i;&c_n;&c_o;&c_t;&c_je;&c_a;&c_t;&c_r;</trd>
   </trdgrp>
+  <trd lng="sk">kino</trd>
 </drv>
 
 <drv mrk="teatr.ombro0o">
@@ -204,11 +214,13 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">stínové divadlo</trd>
   <trdgrp lng="fr">
     <trd>ombres chinoises</trd>,
     <trd>th&eacute;&acirc;tre d'ombres</trd>
   </trdgrp>
   <trd lng="pl">teatr cieni</trd>
+  <trd lng="sk">tieňové divadlo</trd>
 </drv>
 
 <drv mrk="teatr.pup0o">
@@ -226,17 +238,19 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_ja;&c_l;&c_je;&c_ch;&c_n;&c_y; <ind>&c_t;&c_e;&c_a;&c_t;&c_a;&c_r;</ind></trd>
+  <trd lng="cs">loutkové divadlo</trd>
+  <trd lng="de">Puppentheater</trd>
   <trdgrp lng="fr">
     <trd>th&eacute;&acirc;tre de marionnettes</trd>
   </trdgrp>
   <trd lng="hu">b&aacute;bsz&iacute;nh&aacute;z</trd>
   <trd lng="nl">poppentheater</trd>
-  <trd lng="de">Puppentheater</trd>
   <trdgrp lng="pl">
     <trd>teatr lalek</trd>,
     <trd>teatrzyk kukie&lstroke;kowy</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_u;&c_k;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_j; <ind>&c_t;&c_je;&c_a;&c_t;&c_r;</ind></trd>
+  <trd lng="sk">bábkové divadlo</trd>
   <trd lng="sv">dockteater</trd>
 </drv>
 
@@ -253,6 +267,7 @@
   </snc>
   <trd lng="be">&c_t;&c_e;&c_a;&c_t;&c_r; 
     <ind>&c_v;&c_a;&c_r;'&c_ja;&c_t;&c_e;</ind></trd>
+  <trd lng="cs">varietní divadlo</trd>
   <trdgrp lng="de">
     <trd>Variet&eacute;</trd>,
     <trd>Variet&eacute;theater</trd>
@@ -272,10 +287,20 @@
    <trd>teatro de variedades</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_a;&c_t;&c_r; <ind>&c_v;&c_a;&c_r;&c_mol;&c_je;&c_t;&c_je;</ind></trd>
+  <trd lng="sk">varietné divadlo</trd>
 </drv>
 </art>
 <!--
 $Log: teatr.xml,v $
+Revision 1.31  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2014/11/13 11:10:24  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.28  2013/09/24 01:10:13  revo
 Vito Redsky: trd pl trd ro
 
@@ -295,8 +320,5 @@ Revision 1.23  2008/10/24 16:40:46  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.22  2006/09/22 20:22:35  revo
-Wolfram Diestel: +tezrad(TEA)
-
-Revision 1.21  2006/02/04 17:32:13  revo
 -->
 </vortaro>

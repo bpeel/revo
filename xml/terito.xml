@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: terito.xml,v 1.20 2014/10/16 19:10:36 revo Exp $">
+<art mrk="$Id: terito.xml,v 1.22 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>teritori</rad>/o <fnt><bib>PV</bib></fnt>
@@ -116,6 +116,12 @@
   </snc>
   <trd lng="be">&c_t;&c_e;&c_r;&c_y;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>
   <trd lng="ca">territori</trd>
+  <trdgrp lng="cs">
+    <trd>oblast</trd>,
+    <trd>obvod</trd>,
+    <trd>teritorium</trd>,
+    <trd>území</trd>
+  </trdgrp>
   <trd lng="de">Territorium</trd>
   <trd lng="en">territory</trd>
   <trd lng="es">territorio</trd>
@@ -127,6 +133,13 @@
   </trdgrp>
   <trd lng="pl">terytorium</trd>
   <trd lng="ru">&c_t;&c_je;&c_r;&c_r;&c_i;&c_t;&c_o;&c_r;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>oblasť</trd>,
+    <trd>obvod</trd>,
+    <trd>pôda</trd>,
+    <trd>teritórium</trd>,
+    <trd>územie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="terito.ekster0a">
@@ -152,6 +165,12 @@
 </art>
 <!--
 $Log: terito.xml,v $
+Revision 1.22  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2014/10/16 19:10:36  revo
 Jeromo Vasxe: + snc ~o de federacio
 

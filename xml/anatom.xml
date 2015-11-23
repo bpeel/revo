@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: anatom.xml,v 1.23 2013/09/22 19:10:35 revo Exp $">
+<art mrk="$Id: anatom.xml,v 1.26 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>anatomi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -22,6 +22,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_n;&c_a;&c_t;&c_o;&c_m;&c_ib;&c_ja;</trd>
+  <trd lng="cs">anatomie</trd>
   <trdgrp lng="de">
     <trd>Lehre vom <ind>K&ouml;rperbau</ind></trd>,
     <trd>Anatomie</trd>
@@ -38,11 +39,15 @@
   <trd>anat&oacute;mia</trd>,
   <trd>bonctan</trd>
 </trdgrp>
+  <trd lng="id">anatomi</trd>
   <trd lng="it">anatomia</trd>
   <trd lng="nl">anatomie</trd>
   <trd lng="pl">anatomia</trd>
   <trd lng="ru">&c_a;&c_n;&c_a;&c_t;&c_o;&c_m;&c_i;&c_ja;</trd>
-  <trd lng="sk">anat&oacute;mia</trd>
+  <trdgrp lng="sk">
+    <trd>anat&oacute;mia</trd>,
+    <trd>anatómia</trd>
+  </trdgrp>
   <trd lng="sv">anatomi</trd>
 </drv>
 
@@ -79,6 +84,15 @@
 </art>
 <!--
 $Log: anatom.xml,v $
+Revision 1.26  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2014/11/12 08:10:25  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.23  2013/09/22 19:10:35  revo
 Wolfram Diestel: referenco al listo sciencoj
 
@@ -98,8 +112,5 @@ Revision 1.18  2007/04/25 16:30:23  revo
 Wieland Pusch: +trd de, en
 
 Revision 1.17  2007/04/24 16:30:29  revo
-Jeromo Vasxe: + ~isto
-
-Revision 1.16 2006/06/18 16:32:47 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fav.xml,v 1.18 2013/10/09 19:10:47 revo Exp $">
+<art mrk="$Id: fav.xml,v 1.20 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fav</rad>/o
@@ -65,6 +65,8 @@
     <trd>&c_p;&c_a;&c_r;&c_sh;&c_a;</trd>,
     <trd>&c_l;&c_i;&c_sh;&c_a;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">prašina</trd>
+  <trd lng="cs">prašivina</trd>
 </drv>
 
 <drv mrk="fav.0a">
@@ -124,6 +126,8 @@
       <trd>&c_sh;&c_je;&c_l;&c_u;&c_d;&c_i;&c_v;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">prašivý</trd>
+  <trd lng="sk">prašivý</trd>
 </drv>
 
 <drv mrk="fav.0ulo">
@@ -151,15 +155,22 @@
     <trd lng="fr">teigne<klr tip="ind"> (personne)</klr></trd>
     <trd lng="ru">&c_p;&c_a;&c_r;&c_sh;&c_i;&c_v;&c_je;&c_c;</trd>
   </snc>
-    <trdgrp lng="es">
+  <trd lng="cs">prašivec</trd>
+  <trdgrp lng="es">
      <trd>ti&ntilde;oso <klr>(insulto o enfermo de ti&ntilde;a)</klr></trd>,
      <trd>bac&iacute;n <klr>(insulto)</klr></trd>
-    </trdgrp> 
- 
+    </trdgrp>
+  <trd lng="sk">prašivec</trd>
 </drv>
 </art>
 <!--
 $Log: fav.xml,v $
+Revision 1.20  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2013/10/09 19:10:47  revo
 Wolfram Diestel: ref al lst malsanoj
 

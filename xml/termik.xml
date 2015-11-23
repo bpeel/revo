@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: termik.xml,v 1.12 2013/12/02 12:10:16 revo Exp $">
+  <art mrk="$Id: termik.xml,v 1.14 2015/07/04 08:37:44 revo Exp $">
     <kap>
       <rad>termik</rad>/a
     </kap>
@@ -56,11 +56,25 @@
          <trd>&c_t;&c_je;&c_r;&c_m;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
       </trdgrp>
       <trd lng="sv">termisk</trd>
-    </drv>
+      <trdgrp lng="sk">
+    <trd>tepelný</trd>,
+    <trd>termický</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>tepelný</trd>,
+    <trd>termický</trd>
+  </trdgrp>
+</drv>
   </art>
 
   <!--
   $Log: termik.xml,v $
+  Revision 1.14  2015/07/04 08:37:44  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.13  2015/06/29 16:40:19  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.12  2013/12/02 12:10:16  revo
   Damien Brucker: +trd fr
 

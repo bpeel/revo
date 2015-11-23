@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mekani.xml,v 1.14 2010/01/18 17:31:09 revo Exp $">
+<art mrk="$Id: mekani.xml,v 1.16 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>mekanik</rad>/o
@@ -18,6 +18,10 @@
   </snc>
   <trd lng="be">&c_m;&c_e;&c_h;&c_a;&c_n;&c_ib;&c_k;&c_a;</trd>
   <trd lng="ca">mec&agrave;nica</trd>
+  <trdgrp lng="cs">
+    <trd>mechanika</trd>,
+    <trd>strojnictví</trd>
+  </trdgrp>
   <trd lng="de">Mechanik</trd>
   <trd lng="en">mechanics</trd>
   <trd lng="es">mec&aacute;nica</trd>
@@ -29,11 +33,21 @@
   </trdgrp>
   <trd lng="pt">mec&acirc;nica</trd>
   <trd lng="ru">&c_m;&c_je;&c_h;&c_a;&c_n;&c_i;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>mechanika</trd>,
+    <trd>strojníctvo</trd>
+  </trdgrp>
   <trd lng="sv">mekanik</trd>
 </drv>
 </art>
 <!--
 $Log: mekani.xml,v $
+Revision 1.16  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2010/01/18 17:31:09  revo
 Russ Williams: korekti anglan mechanic al mechanics
 

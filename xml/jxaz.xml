@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jxaz.xml,v 1.12 2009/03/12 17:30:48 revo Exp $">
+<art mrk="$Id: jxaz.xml,v 1.13 2014/11/14 03:10:19 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>&jcirc;az</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -24,6 +24,7 @@
     <trd>jazz</trd>
   </trdgrp>
   <trd lng="hu">dzsessz</trd>
+  <trd lng="id">jaz</trd>
   <trd lng="nl">jazz</trd>
   <trdgrp lng="pl">
     <trd>jazz</trd>,
@@ -101,6 +102,9 @@
 </art>
 <!--
 $Log: jxaz.xml,v $
+Revision 1.13  2014/11/14 03:10:19  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.12  2009/03/12 17:30:48  revo
 Antonio Codazzi: +trd it
 
@@ -120,8 +124,5 @@ Revision 1.7  2004/02/25 17:30:45  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.6  2004/02/02 19:41:58  revo
-Jeromo Vasxe: kor fnt piv1 -> spv
-
-Revision 1.5 2003/08/17 17:31:38 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pest.xml,v 1.16 2013/10/07 15:10:29 revo Exp $">
+<art mrk="$Id: pest.xml,v 1.19 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pest</rad>/o
@@ -24,10 +24,14 @@
     <refgrp tip="sin">
       <ref cel="hxoler.0o">&hcirc;olero</ref>.
     </refgrp>
-  </snc>                    
+  </snc>
   <trd lng="be">&c_ch;&c_u;&c_m;&c_a;</trd>
   <trd lng="bg">&c_ch;&c_u;&c_m;&c_a;</trd>
   <trd lng="br">bosenn<klr tip="ind"> (kle&ntilde;ved)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>mor</trd>,
+    <trd>pestis</trd>
+  </trdgrp>
   <trd lng="de">Pest</trd>
   <trdgrp lng="en">
     <trd>pest</trd>,
@@ -36,13 +40,24 @@
   </trdgrp>
   <trd lng="fr">peste</trd>
   <trd lng="hu">pestis</trd>
+  <trd lng="id">pes</trd>
   <trd lng="nl">pest</trd>
   <trd lng="pt">peste <klr tip="ind">(doen&ccedil;a)</klr></trd>
   <trd lng="ru">&c_ch;&c_u;&c_m;&c_a;</trd>
+  <trd lng="sk">mor</trd>
 </drv>
 </art>
 <!--
 $Log: pest.xml,v $
+Revision 1.19  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/11/19 07:10:37  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.16  2013/10/07 15:10:29  revo
 Wolfram Diestel: ref la lst malsanoj
 
@@ -62,8 +77,5 @@ Revision 1.11  2003/07/17 16:33:57  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.10  2003/05/10 16:51:53  revo
-Paul Peeraerts: ald ref al malsan
-
-Revision 1.9  2002/12/06 19:40:03  revo
 -->
 </vortaro>

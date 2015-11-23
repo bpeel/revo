@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: evolve.xml,v 1.8 2007/07/11 16:31:20 revo Exp $">
+<art mrk="$Id: evolve.xml,v 1.10 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <rad>evolvent</rad>/o
 </kap>
@@ -13,6 +13,7 @@
   <snc>
     <ref tip="dif" cel="volv.el0anto">elvolvanto.</ref>
   </snc>
+  <trd lng="cs">evolventa</trd>
   <trd lng="de">Evolvente</trd>
   <trdgrp lng="en">
     <trd>evolvent</trd>,
@@ -27,11 +28,18 @@
     <trd>&c_i;&c_n;&c_v;&c_o;&c_l;&c_ju;&c_t;&c_a;</trd>,
     <trd>&c_e;&c_v;&c_o;&c_l;&c_mol;&c_v;&c_je;&c_n;&c_t;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">evolventa</trd>
 </drv>
 </art>
 
 <!--
 $Log: evolve.xml,v $
+Revision 1.10  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2007/07/11 16:31:20  revo
 Tulio Flores: +tr pt
 

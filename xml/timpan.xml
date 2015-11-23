@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: timpan.xml,v 1.19 2014/10/26 03:10:16 revo Exp $">
+<art mrk="$Id: timpan.xml,v 1.21 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>timpan</rad>/o <fnt>Z</fnt>
 </kap>
@@ -80,11 +80,23 @@
     <trd lng="pl">tympanon</trd>
     <trd lng="ru">&c_t;&c_i;&c_m;&c_p;&c_a;&c_n;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>tympán</trd>,
+    <trd>ušní blána</trd>,
+    <trd>ušní bubínek</trd>
+  </trdgrp>
   <trd lng="it">timpano</trd>
+  <trd lng="sk">ušný bubienok</trd>
 </drv>
 </art>
 <!--
 $Log: timpan.xml,v $
+Revision 1.21  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/10/26 03:10:16  revo
 Eko Nur Syah Hidayat: +trd id
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: balon.xml,v 1.27 2014/10/24 15:10:20 revo Exp $">
+<art mrk="$Id: balon.xml,v 1.30 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <rad>balon</rad>/o
   <ofc>2</ofc>
@@ -30,7 +30,7 @@
       </refgrp>
       <trd lng="bg">&c_b;&c_a;&c_l;&c_o;&c_n;</trd>
       <trd lng="de">Ballon</trd>
-      <trd lng="de">&alfa;&epsilon;&rho;&omikron_ton;&sigma;&tau;&alfa;&tau;&omikron;</trd>
+      <trd lng="el">&alfa;&epsilon;&rho;&omikron_ton;&sigma;&tau;&alfa;&tau;&omikron;</trd>
       <trd lng="en">balloon</trd>
       <trd lng="es">bal&oacute;n</trd>
       <trdgrp lng="fr">
@@ -99,6 +99,11 @@
     <trd lng="en">flask</trd>
     <trd lng="ru">&c_r;&c_je;&c_t;&c_o;&c_r;&c_t;&c_a;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>balon</trd>,
+    <trd>baňka</trd>
+  </trdgrp>
+  <trd lng="sk">banka <klr>(nádoba)</klr></trd>
 </drv>
 
 <drv mrk="balon.prov0o">
@@ -137,6 +142,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>sonda</trd>,
+    <trd>výzkum veř. mínění</trd>
+  </trdgrp>
   <trd lng="de">Testballon</trd>
   <trdgrp lng="fr">
     <trd><ind>ballon</ind>-sonde</trd>,
@@ -144,10 +153,20 @@
   </trdgrp>
   <trd lng="id"><ind>balon</ind> cuaca</trd>
   <trd lng="nl">proefballon</trd>
+  <trd lng="sk">sonda</trd>
 </drv>
 </art>
 <!--
 $Log: balon.xml,v $
+Revision 1.30  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2015/05/21 17:10:17  revo
+Joop Eggen: korekto de/el
+
 Revision 1.27  2014/10/24 15:10:20  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -167,8 +186,5 @@ Revision 1.22  2009/02/23 17:30:40  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.21  2008/12/27 17:30:28  revo
-Wieland Pusch: +trd bg
-
-Revision 1.20  2007/06/13 16:31:07  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pur.xml,v 1.41 2014/03/25 03:10:25 revo Exp $">
+<art mrk="$Id: pur.xml,v 1.46 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pur</rad>/a <fnt><bib>PV</bib></fnt>
@@ -130,16 +130,20 @@
     <trd>&c_ch;&c_i;&c_s;&c_t;</trd>,
     <trd>&c_s;&c_p;&c_r;&c_je;&c_t;&c_n;&c_a;&c_t;</trd>
   </trdgrp>
-  <trd lng="cs">&ccaron;ist&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>&ccaron;ist&yacute;</trd>,
+    <trd>ryzí</trd>,
+    <trd>čirý</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>sauber</trd>,
+    <trd>rein</trd>
+  </trdgrp>
   <trd lng="en">pure</trd>
   <trd lng="es">puro</trd>
   <trdgrp lng="fr">
     <trd>propre</trd>,
     <trd>pur</trd>
-  </trdgrp>
-  <trdgrp lng="de">
-    <trd>sauber</trd>,
-    <trd>rein</trd>
   </trdgrp>
   <trd lng="hu">tiszta</trd>
   <trdgrp lng="nl">
@@ -155,6 +159,12 @@
     <trd>genu&iacute;no</trd>,
   </trdgrp>
   <trd lng="ru">&c_ch;&c_i;&c_s;&c_t;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>rýdzi</trd>,
+    <trd>írečitý</trd>,
+    <trd>čistý</trd>,
+    <trd>číry</trd>
+  </trdgrp>
   <trd lng="sv">ren</trd>
   <trd lng="tr">temiz</trd>
 </drv>
@@ -172,6 +182,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_h;&c_a;&c_j;&c_n;&c_y;</trd>
+  <trd lng="cs">čistotný</trd>
   <trd lng="de">reinlich</trd>
   <trd lng="en">tidy</trd>
   <trd lng="es">limpio</trd>
@@ -184,6 +195,7 @@ propret&eacute;)</klr></trd>
     <trd>&c_o;&c_p;&c_r;&c_ja;&c_t;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_ch;&c_i;&c_s;&c_t;&c_o;&c_p;&c_l;&c_o;&c_t;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">čistotný</trd>
   <trd lng="sv">renlig</trd>
   <trd lng="tr">temiz<klr>(temizli&gbreve;i seven)</klr></trd>
 </drv>
@@ -260,15 +272,26 @@ propret&eacute;)</klr></trd>
     <trd>&c_a;&c_ch;&c_y;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_ch;&c_y;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="es">limpiar</trd>
+  <trdgrp lng="cs">
+    <trd>pucovat <klr>(hovor.)</klr></trd>,
+    <trd>vyčistit</trd>,
+    <trd>čistit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>reinigen</trd>
+  </trdgrp>
   <trdgrp lng="en"><trd>clean</trd>, <trd>cleanse</trd></trdgrp>
+  <trd lng="es">limpiar</trd>
   <trdgrp lng="fr">
     <trd>nettoyer</trd>,
     <trd>purifier</trd>
   </trdgrp>
   <trd lng="hu">tiszt&iacute;t</trd>
-  <trdgrp lng="de">
-    <trd>reinigen</trd>
+  <trdgrp lng="sk">
+    <trd>očistiť</trd>,
+    <trd>prečistiť</trd>,
+    <trd>vyčistiť</trd>,
+    <trd>čistiť</trd>
   </trdgrp>
   <trdgrp lng="sv">
     <trd>rena</trd>,
@@ -311,6 +334,7 @@ propret&eacute;)</klr></trd>
 <drv mrk="pur.0ismo">
   <kap><tld/>ismo</kap>
   <snc mrk="pur.0ismo.LIN">
+    <uzo tip="fak">LIN</uzo>
     <dif>
       Zorgado pri lingva <tld/>eco, pli vole prenanta vortojn kaj
       esprimojn el &gcirc;ia provizo, ol depruntanta de aliaj lingvoj.
@@ -332,6 +356,36 @@ propret&eacute;)</klr></trd>
     <trd lng="pt">purismo</trd>
     <trd lng="ru">&c_p;&c_u;&c_r;&c_i;&c_z;&c_m;</trd>
   </snc>
+  <trd lng="cs">purizmus</trd>
+  <trd lng="sk">purizmus</trd>
+</drv>
+
+<drv mrk="pur.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="pur.0isto.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Tiu, kiu volas konservi lingvon <tld/>a,
+      sen enmisko de fremdaj influoj:
+      <ekz>
+        nefleksebla <tld/>isto
+        <fnt>
+          <aut>L. Beaucaire</aut>,
+          <vrk>El la vivo de bervala senta&ubreve;gulo</vrk>,
+          <lok>1974</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">puriste<klr> (ling.)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>brusič</trd>,
+    <trd>purista</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>brusič</trd>,
+    <trd>purista</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pur.0uma">
@@ -369,6 +423,7 @@ propret&eacute;)</klr></trd>
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">zářivě čistý</trd>
   <trd lng="de">blitzsauber</trd>
   <trd lng="en">sparkling clean</trd>
   <trd lng="fr">reluisant<klr tip="amb"> (propre)</klr></trd>
@@ -378,7 +433,29 @@ propret&eacute;)</klr></trd>
     <trd>reluzentemente <ind>limpo</ind></trd>,
     <trd>resplandescente</trd>
   </trdgrp>
+  <trd lng="sk">žiarivo čistý</trd>
   <trd lng="tr">p&inodot;r&inodot;l p&inodot;r&inodot;l</trd>
+</drv>
+
+<drv mrk="pur.etna0igo">
+  <kap>etna <tld/>igo,
+  <var><kap>etna <tld/>igado</kap></var></kap>
+  <snc mrk="pur.etna0igo.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Forigo de &ccirc;iuj anoj de iu nacio el teritorio:
+      <ekz>
+        tiu milito de etna <tld/>igado pere de perforto 
+        amarigas mian vivon
+        <fnt>
+          <aut>Ratimir</aut>,
+          <vrk>Rat i Mir</vrk>,
+          <lok>en: Vivprotokoloj, 2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">nettoyage ethnique</trd>
 </drv>
 
 <drv mrk="pur.frot0igi">
@@ -396,6 +473,11 @@ propret&eacute;)</klr></trd>
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>drhnout</trd>,
+    <trd>vydrhnout</trd>,
+    <trd>vytřít</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>schrubben</trd>
   </trdgrp>
@@ -411,6 +493,10 @@ propret&eacute;)</klr></trd>
   </trdgrp>
   <trd lng="nl">schoonwrijven</trd>
   <trd lng="pt">esfregar</trd>
+  <trdgrp lng="sk">
+    <trd>drhnúť</trd>,
+    <trd>šúchať <klr>(pri praní)</klr></trd>
+  </trdgrp>
   <trd lng="sv">skrubba</trd>
 </drv>
 
@@ -444,6 +530,10 @@ propret&eacute;)</klr></trd>
   </snc>
   <trd lng="be">&c_b;&c_r;&c_u;&c_d;&c_n;&c_y;</trd>
   <trd lng="ca">brut</trd>
+  <trdgrp lng="cs">
+    <trd>nečistý</trd>,
+    <trd>špinavý</trd>
+  </trdgrp>
   <trd lng="de">schmutzig</trd>
   <trd lng="en">dirty</trd>
   <trd lng="es">sucio</trd>
@@ -464,6 +554,10 @@ propret&eacute;)</klr></trd>
     <trd>impuro</trd>
   </trdgrp>
   <trd lng="ru">&c_g;&c_r;&c_ja;&c_z;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>nečistý</trd>,
+    <trd>špinavý</trd>
+  </trdgrp>
   <trd lng="sv">smutsig</trd>
   <trd lng="tp">jaki</trd>
 </drv>
@@ -486,6 +580,7 @@ propret&eacute;)</klr></trd>
     <trd>embrutar</trd>,
     <trd>embrutir</trd>
   </trdgrp>
+  <trd lng="cs">zašpinit</trd>
   <trdgrp lng="de">
     <trd>beschmutzen</trd>,
     <trd>verschmutzen</trd>
@@ -515,8 +610,13 @@ propret&eacute;)</klr></trd>
     <trd>&c_z;&c_a;&c_g;&c_r;&c_ja;&c_z;&c_n;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_g;&c_r;&c_ja;&c_z;&c_n;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="tp">jaki</trd>
+  <trdgrp lng="sk">
+    <trd>zamazať</trd>,
+    <trd>zašpiniť</trd>,
+    <trd>znečistiť</trd>
+  </trdgrp>
   <trd lng="sv"><ind>smutsa</ind> ner</trd>
+  <trd lng="tp">jaki</trd>
 </drv>
 
 <drv mrk="pur.mal0igxi">
@@ -575,7 +675,15 @@ propret&eacute;)</klr></trd>
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>smrkat</trd>,
+    <trd>čistit si nos</trd>
+  </trdgrp>
   <trd lng="fr">se <ind>moucher</ind></trd>
+  <trdgrp lng="sk">
+    <trd>smrkať</trd>,
+    <trd>čistiť nos</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pur.ripoz0igi">
@@ -591,6 +699,10 @@ propret&eacute;)</klr></trd>
         <fnt><bib>MT</bib>, <lok>&Jeh; 32:14</lok></fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="dekant.0i">dekanti</ref>,
+      <ref cel="precip1.0i.KEM">precipiti</ref>
+    </refgrp>
   </snc>
   <trd lng="de">dekantieren</trd>
   <trd lng="en">decant</trd>
@@ -630,6 +742,21 @@ propret&eacute;)</klr></trd>
 </art>
 <!--
 $Log: pur.xml,v $
+Revision 1.46  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.45  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.44  2015/04/29 20:10:15  revo
+Jeromo Vasxe: + ~isto
+
+Revision 1.43  2015/01/13 12:10:22  revo
+Jeromo Vasxe: kor 1 kap
+
+Revision 1.42  2015/01/10 06:10:59  revo
+Jeromo Vasxe: + etna ~igo
+
 Revision 1.41  2014/03/25 03:10:25  revo
 Jeromo Vasxe: + naz~igi
 
@@ -643,14 +770,5 @@ Revision 1.38  2011/04/16 11:10:19  revo
 Nicolas Bros: +trd fr
 
 Revision 1.37  2009/09/01 04:54:12  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.36  2009/02/19 20:27:04  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.35  2008/11/01 17:30:45  revo
-Peter Hauser: aldoni germanan tradukon por "purigxejo"
-
-Revision 1.34  2007/11/28 17:30:16  revo
 -->
 </vortaro>

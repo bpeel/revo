@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: alb.xml,v 1.14 2009/10/15 16:33:25 revo Exp $">
+<art mrk="$Id: alb.xml,v 1.16 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>alb</rad>/o
 </kap>
@@ -16,6 +16,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_l;&c_mol;&c_b;&c_a;</trd>
+  <trd lng="cs">alba</trd>
   <trd lng="de">Albe</trd>
   <trd lng="en">alb</trd>
   <trd lng="fr">aube</trd>
@@ -35,10 +36,17 @@
     <trd>&c_a;&c_l;&c_mol;&c_b;&c_a;</trd>,
     <trd>&c_s;&c_t;&c_i;&c_h;&c_a;&c_r;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">alba</trd>
 </drv>
 </art>
 <!--
 $Log: alb.xml,v $
+Revision 1.16  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2009/10/15 16:33:25  revo
 Antonio Codazzi: +trd it
 

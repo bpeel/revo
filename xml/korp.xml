@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korp.xml,v 1.43 2014/07/11 15:10:26 revo Exp $">
+<art mrk="$Id: korp.xml,v 1.45 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>korp</rad>/o <fnt><bib>PV</bib></fnt>
@@ -153,12 +153,23 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_c;&c_je;&c_l;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>trup</trd>,
+    <trd>těleso</trd>,
+    <trd>tělo</trd>,
+    <trd>tělísko</trd>
+  </trdgrp>
   <trd lng="es">cuerpo</trd>
   <trd lng="fr">corps</trd>
   <trd lng="hu">test</trd>
   <trd lng="it">corpo</trd>
   <trd lng="nl">lichaam</trd>
   <trd lng="ru">&c_t;&c_je;&c_l;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>teleso</trd>,
+    <trd>telo</trd>,
+    <trd>trup</trd>
+  </trdgrp>
   <trd lng="vo">kop</trd>
 </drv>
 
@@ -175,6 +186,13 @@
   <trdgrp lng="be">
     <trd>&c_c;&c_je;&c_l;&c_a;&c_v;&c_y;</trd>,
     <trd>&c_c;&c_ja;&c_l;&c_je;&c_s;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>halucinace sluchové</trd>,
+    <trd>smíšené</trd>,
+    <trd>tělesné</trd>,
+    <trd>zrakové</trd>,
+    <trd>čichové</trd>
   </trdgrp>
   <trd lng="es">corporal</trd>
   <trdgrp lng="fr">
@@ -195,6 +213,13 @@
     <trd>lichaams-</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_s;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>halucinácie sluchová</trd>,
+    <trd>telesná</trd>,
+    <trd>zmiešaná</trd>,
+    <trd>zraková</trd>,
+    <trd>čuchová</trd>
+  </trdgrp>
   <trd lng="vo">kopik</trd>
 </drv>
 
@@ -218,6 +243,12 @@
     </dif>
   </snc>
   <trd lng="be">&c_u;&c_c;&c_ja;&c_l;&c_je;&c_s;&c_mol;&c_n;&c_ib;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>inkorporovat</trd>,
+    <trd>vpravit do těla</trd>,
+    <trd>vtělovat</trd>,
+    <trd>včleňovat</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>concr&eacute;tiser</trd>,
     <trd>incarner</trd>
@@ -236,6 +267,10 @@
   <trdgrp lng="ru">
     <trd>&c_v;&c_o;&c_p;&c_l;&c_o;&c_t;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_o;&c_p;&c_l;&c_o;&c_shch;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>stelesniť</trd>,
+    <trd>vteliť</trd>
   </trdgrp>
 </drv>
 
@@ -386,6 +421,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">těleso zlomků</trd>
   <trdgrp lng="de">
     <trd>Quotientenk&ouml;rper</trd>,
     <trd>K&ouml;rper der Br&uuml;che</trd>
@@ -400,6 +436,7 @@
     <trd>&c_p;&c_o;&c_l;&c_je; &c_ch;&c_a;&c_s;&c_t;&c_n;&c_y;&c_h;</trd>,
     <trd>&c_p;&c_o;&c_l;&c_je; &c_d;&c_r;&c_o;&c_b;&c_je;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">teleso zlomkov</trd>
 </drv>
 
 <drv mrk="korp.galeza0o">
@@ -527,12 +564,20 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">systemický</trd>
   <trd lng="fr">du <ind>corps entier</ind></trd>
   <trd lng="id"><ind>seluruh</ind> tubuh</trd>
+  <trd lng="sk">systemický</trd>
 </drv>
 </art>
 <!--
 $Log: korp.xml,v $
+Revision 1.45  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.44  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.43  2014/07/11 15:10:26  revo
 Eko Nur Syah Hidayat: +id
 

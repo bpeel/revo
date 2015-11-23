@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sfinkt.xml,v 1.15 2014/04/12 14:10:33 revo Exp $">
+<art mrk="$Id: sfinkt.xml,v 1.17 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>sfinkter</rad>/o
@@ -18,6 +18,11 @@
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_f;&c_ib;&c_n;&c_k;&c_t;&c_a;&c_r;</trd>
   <trd lng="ca">esf&iacute;nter</trd>
+  <trdgrp lng="cs">
+    <trd>sfinkter</trd>,
+    <trd>svěrací sval</trd>,
+    <trd>svěrač</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Sphinkter</trd>,
     <trd>Ringmuskel</trd>,
@@ -31,18 +36,28 @@
     <trd>&a_ayn;&a_D;&a_l;&a_h;&a_hamza_sure; &a_h;&a_m;&zwnj;&f_k;&a_sh;</trd>
   </trdgrp>
   <trd lng="fr">sphincter</trd>
-  <trd lng="hu">z&aacute;r&oacute;izom</trd>  
-  <trd lng="it">sfintere</trd>  
+  <trd lng="hu">z&aacute;r&oacute;izom</trd>
+  <trd lng="it">sfintere</trd>
   <trdgrp lng="nl">
     <trd>kringspier</trd>,
     <trd>sluitspier</trd>
   </trdgrp>
   <trd lng="pl">zwieracz <klr>(mi&eogonek;sie&nacute;)</klr></trd>
   <trd lng="ru">&c_s;&c_f;&c_i;&c_n;&c_k;&c_t;&c_je;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>sfinkter</trd>,
+    <trd>zvierač <klr>(sval)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: sfinkt.xml,v $
+Revision 1.17  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2014/04/12 14:10:33  revo
 Damien Brucker: +trd fr
 

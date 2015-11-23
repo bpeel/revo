@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trov.xml,v 1.19 2010/09/16 16:30:19 revo Exp $">
+<art mrk="$Id: trov.xml,v 1.22 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>trov</rad>/i <fnt><bib>PV</bib></fnt>
@@ -64,6 +64,11 @@
       <ref cel="trov.el0i">eltrovi</ref>,
       <ref cel="traf.0i">trafi</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd>ermitteln</trd>,
+      <trd>vorfinden</trd>,
+      <trd>antreffen</trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd>znajdowa&cacute;</trd>,
       <trd>odnajdywa&cacute;</trd>,
@@ -140,15 +145,28 @@
       <ref cel="jugx.0i.taksi">ju&gcirc;i <sncref/></ref>,
       <ref cel="taks.0i">taksi</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd>befinden</trd>,
+      <trd>erachten</trd>,
+      <trd>halten f&uuml;r</trd>
+    </trdgrp>
     <trd lng="sv">finna</trd>
   </snc>
   <trd
   lng="be">&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
-  <trd lng="cs">nal&eacute;zt</trd>
+  <trdgrp lng="cs">
+    <trd>najít</trd>,
+    <trd>nal&eacute;zt</trd>,
+    <trd>shledat</trd>,
+    <trd>vymyslet</trd>,
+    <trd>vynalézt</trd>,
+    <trd>zastihnout</trd>,
+    <trd>zjistit</trd>
+  </trdgrp>
+  <trd lng="de">finden</trd>
   <trd lng="en">find</trd>
   <trd lng="es">encontrar</trd>
   <trd lng="fr">trouver</trd>
-  <trd lng="de">finden</trd>
   <trdgrp lng="hu">
     <trd>tal&aacute;l</trd>,
     <trd>lel</trd>,
@@ -160,6 +178,10 @@
     <trd>encontrar</trd>
   </trdgrp>
   <trd lng="ru">&c_n;&c_a;&c_j;&c_t;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>nájsť</trd>,
+    <trd>určiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="trov.0o">
@@ -180,13 +202,20 @@
   </snc>
   <trd
   lng="be">&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>nalézání</trd>,
+    <trd>nález</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>finden</trd>,
+    <trd>Fund</trd>
+  </trdgrp>
+  <trd lng="es">encuentro</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;couverte<klr tip="amb"> (action)</klr></trd>,
     <trd>trouvaille<klr tip="amb"> (action)</klr></trd>
   </trdgrp>
-  <trd lng="de">finden</trd>
   <trd lng="hu">tal&aacute;lat</trd>
-  <trd lng="es">encuentro</trd>
   <trd lng="nl">het <ind>vinden</ind></trd>
   <trdgrp lng="pl">
     <trd>znaleznienie</trd>,
@@ -195,6 +224,10 @@
   <trdgrp lng="ru">
     <trd>&c_n;&c_a;&c_h;&c_o;&c_d;&c_k;&c_a;</trd>,
     <trd>&c_o;&c_b;&c_n;&c_a;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nachádzanie</trd>,
+    <trd>nález</trd>
   </trdgrp>
 </drv>
 
@@ -248,7 +281,10 @@
       <ref cel="sid.0i">sidi</ref>,
       <ref cel="star.0i">stari</ref>
     </refgrp>
-    <trd lng="de">sich befinden</trd>
+    <trdgrp lng="de">
+      <trd>sich befinden</trd>,
+      <trd>vorkommen</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>tal&aacute;lhat&oacute;</trd>,
       <trd>el&odblac;fordul</trd>,
@@ -297,7 +333,10 @@
     </ekz>
   </snc>
   <trd lng="be">&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_k;&c_a;</trd>
-  <trd lng="de">Fund</trd>
+  <trdgrp lng="de">
+    <trd>Fund</trd>,
+    <trd>Fundsache</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>d&eacute;couverte<klr tip="amb"> (objet)</klr></trd>,
     <trd>trouvaille<klr tip="amb"> (objet)</klr></trd>
@@ -337,15 +376,21 @@
       <ref cel="fantaz.0o">fantazio</ref>
     </refgrp>
   </snc>
-  <trd lng="be">&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd
+  lng="be">&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="br">faltazi<klr> (c'hoant)</klr></trd>
-  <trdgrp lng="fr">
+  <trdgrp lng="cs">
+    <trd>dobrozdání</trd>,
+    <trd>úsudek</trd>
   </trdgrp>
+  <trd lng="de">Gutd&uuml;nken</trd>
   <trdgrp lng="fr">
+  </trdgrp><trdgrp lng="fr">
     <trd>bon plaisir</trd>,
     <trd>fantaisie<klr> (personnelle)</klr></trd>,
     <trd><klr>(&agrave; sa) </klr>guise</trd>
-    <trd>gr&eacute;<klr tip="amb"> (&agrave; son gr&eacute;, etc.)</klr></trd>
+    <trd>gr&eacute;<klr tip="amb"> (&agrave; son gr&eacute;,
+    etc.)</klr></trd>
   </trdgrp>
   <trdgrp lng="hu">
     <trd>kedv</trd>,
@@ -356,7 +401,12 @@
     <trd>uznanie</trd>,
     <trd>widzimisi&eogonek;</trd>
   </trdgrp>
-  <trd lng="ru">&c_u;&c_s;&c_m;&c_o;&c_t;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd
+  lng="ru">&c_u;&c_s;&c_m;&c_o;&c_t;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>dobrozdanie</trd>,
+    <trd>úsudok</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="trov.el0i">
@@ -394,7 +444,15 @@
     <trd>&c_v;&c_y;&c_ja;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
     <trd>&c_a;&c_d;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="de">herausfinden</trd>
+  <trd lng="cs">vynalézt</trd>
+  <trdgrp lng="de">
+    <trd>herausfinden</trd>,
+    <trd>entdecken</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>encontrar</trd>,
+    <trd>descubir</trd>
+  </trdgrp>
   <trd lng="fr">d&eacute;couvrir<klr tip="amb"> (faire une
   d&eacute;couverte)</klr></trd>
   <trdgrp lng="hu">
@@ -402,10 +460,6 @@
     <trd>feltal&aacute;l</trd>,
     <trd>kital&aacute;l</trd>,
     <trd>r&aacute;j&ouml;n</trd>
-  </trdgrp>
-  <trdgrp lng="es">
-    <trd>encontrar</trd>,
-    <trd>descubir</trd>
   </trdgrp>
   <trd lng="nl">uitvinden</trd>
   <trdgrp lng="pl">
@@ -418,6 +472,7 @@
     <trd>&c_o;&c_t;&c_k;&c_r;&c_y;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_b;&c_n;&c_a;&c_r;&c_u;&c_zh;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">objaviť</trd>
 </drv>
 
 <drv mrk="trov.re0i">
@@ -446,20 +501,28 @@
   <trd lng="be">&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;
   <klr>(&c_r;&c_a;&c_n;&c_je;&c_j;
   &c_z;&c_g;&c_u;&c_b;&c_l;&c_je;&c_n;&c_a;&c_je;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>shledat</trd>,
+    <trd>znovu nalézt</trd>
+  </trdgrp>
   <trd lng="de">wieder finden</trd>
-  <trd lng="fr">retrouver</trd>
-  <trd lng="hu">megtal&aacute;l <klr tip="ind">(elveszettet)</klr></trd>
-  <trd lng="nl">terugvinden</trd>
   <trdgrp lng="es">
     <trd>reencontrar</trd>,
     <trd>recuperar</trd>
   </trdgrp>
+  <trd lng="fr">retrouver</trd>
+  <trd lng="hu">megtal&aacute;l <klr tip="ind">(elveszettet)</klr></trd>
+  <trd lng="nl">terugvinden</trd>
   <trdgrp lng="pl">
     <trd>odnajdywa&cacute;</trd>,
     <trd>odszukiwa&cacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_n;&c_a;&c_j;&c_t;&c_i;
   &c_v;&c_n;&c_o;&c_v;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>znova nájsť</trd>,
+    <trd>získať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="trov.sin0i">
@@ -504,6 +567,7 @@
   </snc>
   <trd
   lng="be">&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_c;&c_a;</trd>
+  <trd lng="de">sich <ind>finden</ind></trd>
   <trd lng="fr">se <ind>trouver</ind></trd>
   <trd lng="nl">zich <ind>bevinden</ind></trd>
   <trd
@@ -512,6 +576,15 @@
 </art>
 <!--
 $Log: trov.xml,v $
+Revision 1.22  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2015/01/01 15:10:19  revo
+Wolfram Diestel: +trd de
+
 Revision 1.19  2010/09/16 16:30:19  revo
 Jeromo Vasxe: bon~o + trd el bon.xml
 
@@ -531,8 +604,5 @@ Revision 1.14  2005/05/25 16:31:55  revo
 Yury Finkel: +trd ru
 
 Revision 1.13  2005/01/13 18:39:15  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12  2004/12/04 20:22:32  revo
 -->
 </vortaro>

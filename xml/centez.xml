@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: centez.xml,v 1.18 2013/09/23 14:10:11 revo Exp $">
+<art mrk="$Id: centez.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>centezimal</rad>/a <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -15,6 +15,10 @@
   <trd lng="be">&c_s;&c_t;&c_o;&c_g;&c_r;&c_a;&c_d;&c_u;&c_s;&c_n;&c_y;</trd>
   <trd lng="bg">&c_s;&c_t;&c_o;&c_t;&c_n;&c_a;</trd>
   <trd lng="ca">centesimal</trd>
+  <trdgrp lng="cs">
+    <trd>centezimální</trd>,
+    <trd>setinný</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>hundertteilig</trd>,
      <trd>zentesimal</trd>,
@@ -36,10 +40,17 @@
   <trd lng="pt">centesimal</trd>
   <trd lng="ru">&c_s;&c_t;&c_o;&c_g;&c_r;&c_a;&c_d;&c_u;&c_s;&c_n;&c_y;&c_j; <klr tip="amb">(&c_o;
   &c_sh;&c_k;&c_a;&c_l;&c_je;)</klr></trd>
+  <trd lng="sk">stotinný</trd>
 </drv>
 </art>
 <!--
 $Log: centez.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2013/09/23 14:10:11  revo
 Joop Eggen: +trd bg en
 

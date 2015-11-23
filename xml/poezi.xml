@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: poezi.xml,v 1.20 2013/08/26 09:10:26 revo Exp $">
+  <art mrk="$Id: poezi.xml,v 1.24 2015/07/04 08:37:41 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>poezi</rad>/o
@@ -43,10 +43,11 @@ emociojn
             <tld/>o
             <fnt><bib>Fab1</bib>, <lok>Kupra porko</lok></fnt>;
           </ekz><ekz>
-            artista dilanteco <klr>...</klr> spicas
-            <klr>[la staton de ri&ccirc;eco]</klr> per certa dozo da
-&ccirc;armo,
-            <tld/>o, festeco de impresoj kaj okupoj
+            artista diletanteco <klr>[...]</klr> konvenas al stato de
+            ri&ccirc;eco 
+            <klr>[...]</klr> spicante &gcirc;in per certa dozo da &ccirc;armo,
+            <tld/>o, 
+            festeco de impresoj kaj okupoj
             <fnt><bib>Marta</bib></fnt>;
           </ekz><ekz>
             <tld/>emo <klr>[emo al delikataj emocioj]</klr> ekkaptis
@@ -71,10 +72,16 @@ emociojn
       <trd lng="de">Poesie</trd>
       <trd lng="en">poetry</trd>
       <trd lng="fr">po&eacute;sie</trd>
+      <trd lng="id">puisi</trd>
       <trd lng="nl">po&euml;zie</trd>
       <trd lng="pt">poesia</trd>
       <trd lng="ru">&c_p;&c_o;&c_e;&c_z;&c_i;&c_ja;</trd>
-    </drv>
+      <trd lng="sk">poézia</trd>
+  <trdgrp lng="cs">
+    <trd>básnictví</trd>,
+    <trd>poezie</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="poezi.0a">
       <kap><tld/>a</kap>
@@ -108,12 +115,22 @@ feli&ccirc;o</lok></fnt>;
           </ekz>
         </dif>
       </snc>
-      <trd lng="be">&c_p;&c_a;&c_e;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
-      <trd lng="en">poetic</trd>
-      <trd lng="fr">po&eacute;tique<klr tip="ind"> (adj.)</klr></trd>
-      <trd
+  <trd lng="be">&c_p;&c_a;&c_e;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>básnický</trd>,
+    <trd>poetický</trd>,
+    <trd>vázaný</trd>
+  </trdgrp>
+  <trd lng="en">poetic</trd>
+  <trd lng="fr">po&eacute;tique<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="id">puitis</trd>
+  <trd
 lng="ru">&c_p;&c_o;&c_e;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>básnický</trd>,
+    <trd>poetický</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="poezi.0ajxo">
       <kap><tld/>a&jcirc;o</kap>
@@ -192,12 +209,10 @@ lng="ru">&c_p;&c_o;&c_e;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je;
         pri la ~eco de la ideo. &Scirc;ajnas, ke la nuanco estas nur forma.
         La ekz-o el Parnasa Gvidlibro supozigas subtilan nuancon: la
         demando ne estas "&ccirc;u Esperanto estas ~a lingvo?", sed 'en kia
-mezuro
-        &gcirc;i pruvis sian ~econ?". Mi esperas, ke mi &gcirc;uste
-komprenis &gcirc;in.
+        mezuro &gcirc;i pruvis sian ~econ?". Mi esperas, ke mi &gcirc;uste
+        komprenis &gcirc;in.
         Cetere &scirc;ajnas al mi, ke oni volonte uzus ~eca anstata&ubreve;
-~a en
-        la okazoj, kiam ne temas pri arto.
+        ~a en la okazoj, kiam ne temas pri arto.
         <aut>MB</aut>
       </adm>
       <trd
@@ -207,10 +222,24 @@ tip="ind"> (de
           qc)</klr></trd>
       <trd
 lng="ru">&c_p;&c_o;&c_e;&c_t;&c_i;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
-    </drv>
+      <trd lng="sk">poetickosť</trd>
+  <trd lng="cs">poetičnost</trd>
+</drv>
   </art>
   <!--
   $Log: poezi.xml,v $
+  Revision 1.24  2015/07/04 08:37:41  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.23  2015/06/29 16:40:18  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.22  2015/03/17 20:10:15  revo
+  Wolfram Diestel: kor. kez el Marta
+
+  Revision 1.21  2014/11/13 11:10:22  revo
+  Eko Nur Syah Hidayat: +trd id
+
   Revision 1.20  2013/08/26 09:10:26  revo
   Wolfram Diestel: referenco al listo artoj
 

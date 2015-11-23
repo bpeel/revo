@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plank.xml,v 1.18 2012/03/11 20:10:10 revo Exp $">
+<art mrk="$Id: plank.xml,v 1.20 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>plank</rad>/o
@@ -35,7 +35,11 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_l;&c_o;&c_g;&c_a;</trd>
   <trd lng="ca">s&ograve;l</trd>
-  <trd lng="cs">podlaha</trd>
+  <trdgrp lng="cs">
+    <trd>dno</trd>,
+    <trd>podlaha</trd>,
+    <trd>spodina orgánu n. dutiny</trd>
+  </trdgrp>
   <trd lng="de">Fu&szlig;boden</trd>
   <trd lng="en">floor</trd>
   <trd lng="es">suelo</trd>
@@ -49,12 +53,22 @@
     <trd>piso</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>dno</trd>,
+    <trd>spodná časť orgánu</trd>
+  </trdgrp>
   <trd lng="sv">golv</trd>
   <trd lng="tp">anpa</trd>
 </drv>
 </art>
 <!--
 $Log: plank.xml,v $
+Revision 1.20  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/03/11 20:10:10  revo
 Agustin Garcia Lopez: +trd(es)
 

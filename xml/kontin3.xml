@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kontin3.xml,v 1.26 2012/10/13 18:10:07 revo Exp $">
+<art mrk="$Id: kontin3.xml,v 1.28 2015/07/04 08:37:37 revo Exp $">
 <kap>
  <ofc>4</ofc>
  <rad>kontinu</rad>/a <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -133,9 +133,18 @@
     <trd lng="pl">ci&aogonek;g&lstroke;y</trd>
   </snc>
   <trd lng="ca">continu</trd>
+  <trdgrp lng="cs">
+    <trd>kontinuální</trd>,
+    <trd>nepřetržitý</trd>,
+    <trd>plynulý</trd>,
+    <trd>souvislý</trd>,
+    <trd>spojitý</trd>,
+    <trd>trvalý</trd>,
+    <trd>ustavičný</trd>
+  </trdgrp>
   <trd lng="es">continuo, -a</trd>
   <trd lng="fr">continu</trd>
-  <trd lng="hu">folytonos</trd> 
+  <trd lng="hu">folytonos</trd>
   <trdgrp lng="nl">
     <trd>onafgebroken</trd>,
     <trd>continu</trd>
@@ -145,6 +154,11 @@
     <trd>nieprzerwany</trd>
   </trdgrp>
   <trd lng="ru">&c_n;&c_je;&c_p;&c_r;&c_je;&c_r;&c_y;&c_v;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>kontinuálny</trd>,
+    <trd>nepretržitý</trd>,
+    <trd>súvislý</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kontin3.0i">
@@ -158,15 +172,26 @@
      </ekz>
    </dif>
  </snc>
- <trd lng="ca">continuar <klr>(intr.)</klr></trd>
- <trd lng="en">be continuous</trd>
- <trdgrp lng="fr">
+  <trd lng="ca">continuar <klr>(intr.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>být souvislý</trd>,
+    <trd>pokračovat</trd>,
+    <trd>trvat</trd>
+  </trdgrp>
+  <trd lng="en">be continuous</trd>
+  <trd lng="es">ser continuo, -a</trd>
+  <trdgrp lng="fr">
    <trd>se <ind>poursuivre</ind></trd>,
    <trd>continuer<klr tip="ind"> (intr.)</klr></trd>
  </trdgrp>
- <trd lng="hu">folytonos</trd>  <trd lng="nl">doorlopen</trd>
- <trd lng="pl">ci&aogonek;gn&aogonek;&cacute; si&eogonek;</trd>
- <trd lng="es">ser continuo, -a</trd>
+  <trd lng="hu">folytonos</trd>
+  <trd lng="nl">doorlopen</trd>
+  <trd lng="pl">ci&aogonek;gn&aogonek;&cacute; si&eogonek;</trd>
+  <trdgrp lng="sk">
+    <trd>byť kontinuálny</trd>,
+    <trd>nepretržitý</trd>,
+    <trd>trvať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kontin3.0eco">
@@ -194,27 +219,38 @@
      </ekz>
    </dif>
  </snc>
- <trdgrp lng="ca">
+  <trdgrp lng="ca">
    <trd>continu&iuml;tat</trd>,
    <trd>persist&egrave;ncia</trd>
  </trdgrp>
- <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>kontinuita</trd>,
+    <trd>kontinuálnost</trd>,
+    <trd>souvislost</trd>,
+    <trd>spojitost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
      <trd>Kontinuit&auml;t</trd>,
      <trd>Best&auml;ndigkeit</trd>,
      <trd>Stetigkeit</trd>
- </trdgrp>    
- <trd lng="en">continuity</trd>
- <trd lng="es">continuidad</trd>
- <trd lng="fr">continuit&eacute;</trd>
- <trdgrp lng="hu">
+ </trdgrp>
+  <trd lng="en">continuity</trd>
+  <trd lng="es">continuidad</trd>
+  <trd lng="fr">continuit&eacute;</trd>
+  <trdgrp lng="hu">
    <trd>folyamatoss&aacute;g</trd>,
    <trd>folytonoss&aacute;g</trd>,
    <trd>szakadatlans&aacute;g</trd>,
    <trd>kontinuit&aacute;s</trd>
  </trdgrp>
- <trd lng="nl">continu&iuml;teit</trd>
- <trd lng="pl">ci&aogonek;g&lstroke;o&sacute;&cacute;</trd>
- <trd lng="ru">&c_n;&c_je;&c_p;&c_r;&c_je;&c_r;&c_y;&c_v;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd> 
+  <trd lng="nl">continu&iuml;teit</trd>
+  <trd lng="pl">ci&aogonek;g&lstroke;o&sacute;&cacute;</trd>
+  <trd lng="ru">&c_n;&c_je;&c_p;&c_r;&c_je;&c_r;&c_y;&c_v;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>kontinuita</trd>,
+    <trd>nepretržitosť</trd>,
+    <trd>spojitosť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kontin3.0ega">
@@ -270,6 +306,10 @@ bildoj de
     <trd>continuar <klr>(tr.)</klr></trd>,
     <trd>prosseguir</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nechat trvat</trd>,
+    <trd>učinit spojitým</trd>
+  </trdgrp>
   <trd lng="de">fortsetzen</trd>
   <trd lng="es">continuar</trd>
   <trd lng="fr">continuer<klr tip="ind"> (tr.)</klr></trd>
@@ -280,6 +320,7 @@ bildoj de
   <trd lng="nl">voortzetten</trd>
   <trd lng="pl">kontynuowa&cacute;</trd>
   <trd lng="ro">a continua</trd>
+  <trd lng="sk">nechať trvať</trd>
 </drv>
 
 <drv mrk="kontin3.mal0a">
@@ -307,10 +348,18 @@ bildoj de
     <trd>discret<klr> (non continu)</klr></trd>,
     <trd>interrompu</trd>
   </trdgrp>
+  <trd lng="sk">pretržitý</trd>
+  <trd lng="cs">přetržitý</trd>
 </drv>
 </art>
 <!--
 $Log: kontin3.xml,v $
+Revision 1.28  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2012/10/13 18:10:07  revo
 Jeromo Vasxe: + mal~a, + mrk
 

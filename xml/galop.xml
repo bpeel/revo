@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: galop.xml,v 1.21 2013/05/06 07:10:09 revo Exp $">
+<art mrk="$Id: galop.xml,v 1.23 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>galop</rad>/o <fnt><bib>PV</bib></fnt>
@@ -40,7 +40,12 @@
     <trd>&c_s;&c_k;&c_a;&c_k;&c_a;&c_c;&c_mol; <ind>&c_n;&c_a;&c_w;&c_s;&c_k;&c_a;&c_ch;</ind></trd>
   </trdgrp>
   <trd lng="ca">galopar</trd>
+  <trdgrp lng="cs">
+    <trd>cválat</trd>,
+    <trd>galopovat</trd>
+  </trdgrp>
   <trd lng="de">galoppieren</trd>
+  <trd lng="el">&kappa;&alfa;&lambda;&pi;&alfa_ton;&zeta;&omega;</trd>
   <trd lng="en">gallop</trd>
   <trd lng="es">galopar</trd>
   <trd lng="fr">galoper</trd>
@@ -48,10 +53,10 @@
     <trd>galoppozik</trd>,
     <trd>v&aacute;gt&aacute;zik</trd></trdgrp>
   <trd lng="nl">galopperen</trd>
-  <trd lng="el">&kappa;&alfa;&lambda;&pi;&alfa_ton;&zeta;&omega;</trd>
   <trd lng="pl">galopowa&cacute;</trd>
   <trd lng="pt">galopar</trd>
   <trd lng="ru">&c_s;&c_k;&c_a;&c_k;&c_a;&c_t;&c_mol; &c_g;&c_a;&c_l;&c_o;&c_p;&c_o;&c_m;</trd>
+  <trd lng="sk">cválať</trd>
   <trd lng="sv">galoppera</trd>
   <trd lng="tr">d&ouml;rtnala gitmek</trd>
 </drv>
@@ -71,6 +76,7 @@
     <trd>&c_n;&c_a;&c_w;&c_s;&c_k;&c_a;&c_ch;</trd>
   </trdgrp>
   <trd lng="ca">al <ind>galop</ind></trd>
+  <trd lng="cs">cvalem</trd>
   <trd lng="de">galoppierend</trd>
   <trd lng="en">galloping</trd>
   <trd lng="fr">au <ind>galop</ind></trd>
@@ -79,6 +85,11 @@
   <trd lng="pl">galopem</trd>
   <trd lng="pt">a <ind>galope</ind></trd>
   <trd lng="ru">&c_g;&c_a;&c_l;&c_o;&c_p;&c_o;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>cvalom</trd>,
+    <trd>galopom</trd>,
+    <trd>rýchlym behom</trd>
+  </trdgrp>
   <trd lng="sv">i <ind>galopp</ind></trd>
   <trd lng="tr">d&ouml;rtnala</trd>
 </drv>
@@ -92,6 +103,12 @@
   </snc>
   <trd lng="be">&c_g;&c_a;&c_l;&c_o;&c_p;</trd>
   <trd lng="ca">galop</trd>
+  <trdgrp lng="cs">
+    <trd>chvat</trd>,
+    <trd>kalup</trd>,
+    <trd>shon</trd>,
+    <trd>spěch</trd>
+  </trdgrp>
   <trd lng="de">Galopp</trd>
   <trd lng="el">&kappa;&alfa;&lambda;&pi;&alfa;&sigma;&my;&omikron_ton;&sigma_fina;</trd>
   <trd lng="en">gallop</trd>
@@ -104,11 +121,21 @@
   <trd lng="pl">galop</trd>
   <trd lng="pt">galope</trd>
   <trd lng="ru">&c_g;&c_a;&c_l;&c_o;&c_p;</trd>
+  <trdgrp lng="sk">
+    <trd>cval</trd>,
+    <trd>galop</trd>
+  </trdgrp>
   <trd lng="sv">galopp</trd>
 </drv>
 </art>
 <!--
 $Log: galop.xml,v $
+Revision 1.23  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2013/05/06 07:10:09  revo
 Sebastian Cyprych: +trd pl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kur.xml,v 1.32 2014/03/30 13:10:22 revo Exp $">
+<art mrk="$Id: kur.xml,v 1.34 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kur</rad>/i <fnt><bib>PV</bib></fnt>
@@ -115,7 +115,11 @@
   <trd lng="be">&c_b;&c_je;&c_g;&c_ch;&c_y;</trd>
   <trd lng="bg">&c_b;&c_ja;&c_g;&c_a;&c_m;</trd>
   <trd lng="br">redek</trd>
-  <trd lng="cs">b&ecaron;&zcaron;et</trd>
+  <trdgrp lng="cs">
+    <trd>b&ecaron;&zcaron;et</trd>,
+    <trd>běžet</trd>,
+    <trd>utíkat</trd>
+  </trdgrp>
   <trd lng="en">run</trd>
   <trd lng="fr">courir</trd>
   <trdgrp lng="hu">
@@ -125,6 +129,10 @@
   </trdgrp>
   <trd lng="it">correre</trd>
   <trd lng="ru">&c_b;&c_je;&c_zh;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>bežať</trd>,
+    <trd>utekať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kur.0anta">
@@ -198,8 +206,16 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>běžný</trd>,
+    <trd>obecně uznávaný</trd>
+  </trdgrp>
   <trd lng="en">current</trd>
   <trd lng="ru">&c_t;&c_je;&c_k;&c_u;&c_shch;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>bežný</trd>,
+    <trd>všeobecne uznávaný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kur.0o">
@@ -222,6 +238,10 @@
     <trd>red</trd>,
     <trd>redadenn</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>běh</trd>,
+    <trd>průběh</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Lauf</trd>,
     <trd>Rennen</trd>
@@ -240,6 +260,10 @@
   <trd lng="nl">loop</trd>
   <trd lng="pl">bieg</trd>
   <trd lng="ru">&c_b;&c_je;&c_g;</trd>
+  <trdgrp lng="sk">
+    <trd>beh</trd>,
+    <trd>priebeh</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kur.0ejo">
@@ -310,7 +334,12 @@
         d'atterrissage)</klr></trd>
     <trd lng="ru">&c_v;&c_z;&c_l;&c_jo;&c_t;&c_n;&c_o;-&c_p;&c_o;&c_s;&c_a;&c_d;&c_o;&c_ch;&c_n;&c_a;&c_ja; &c_p;&c_o;&c_l;&c_o;&c_s;&c_a;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>běžecká trať</trd>,
+    <trd>dráha</trd>
+  </trdgrp>
   <trd lng="it">pista</trd>
+  <trd lng="sk">bežecká dráha</trd>
 </drv>
 
 <drv mrk="kur.0igi">
@@ -328,6 +357,7 @@
     </dif>
   </snc>
   <trd lng="br">lakaat da <ind>redek</ind></trd>
+  <trd lng="cs">hnát</trd>
   <trd lng="de">Beine machen</trd>
   <trd lng="fr">faire courir</trd>
   <trdgrp lng="hu">
@@ -342,6 +372,10 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol; &c_v; &c_b;&c_je;&c_g;</trd>,
     <trd>&c_z;&c_a;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol; &c_b;&c_je;&c_g;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hnať</trd>,
+    <trd>nútiť bežať</trd>
   </trdgrp>
 </drv>
 
@@ -363,7 +397,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>běžet k...</trd>,
+    <trd>přiběhnout</trd>
+  </trdgrp>
   <trd lng="fr">accourir</trd>
+  <trd lng="sk">pribehnúť</trd>
 </drv>
 
 <drv mrk="kur.cxirkaux0i">
@@ -502,6 +541,12 @@
         tip="amb">(&c_p;&c_r;&c_e;&c_ch;)</klr></trd>
   </trdgrp>
   <trd lng="br">redek kuit</trd>
+  <trdgrp lng="cs">
+    <trd>odběhnout</trd>,
+    <trd>uprchnout</trd>,
+    <trd>utéci</trd>,
+    <trd>zběhnout</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>weglaufen</trd>,
     <trd>fortlaufen</trd>,
@@ -529,6 +574,10 @@
   <trdgrp lng="ru">
     <trd>&c_u;&c_b;&c_je;&c_zh;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_b;&c_je;&c_g;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odbehnúť</trd>,
+    <trd>ujsť</trd>
   </trdgrp>
 </drv>
 
@@ -615,6 +664,7 @@
     <trd>&c_g;&c_n;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_d;&c_o;&c_g;&c_o;&c_n;&c_ja;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">bežať <klr>(za niekým)</klr></trd>
 </drv>
 
 <drv mrk="kur.tra0i">
@@ -649,6 +699,10 @@
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_b;&c_je;&c_g;&c_ch;&c_y; <klr tip="amb">(&c_p;&c_r;&c_a;&c_z; &c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
   <trd lng="br">redek dre</trd>
+  <trdgrp lng="cs">
+    <trd>proběhnout</trd>,
+    <trd>přeběhnout</trd>
+  </trdgrp>
   <trd lng="fr">parcourir</trd>
   <trdgrp lng="hu">
     <trd>&aacute;tfut <klr tip="amb">(vmin)</klr></trd>,
@@ -661,6 +715,7 @@
   <trd lng="nl">doorlopen</trd>
   <trd lng="pl">przebiega&cacute;</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_b;&c_je;&c_zh;&c_a;&c_t;&c_mol;<klr> (&c_ch;&c_je;&c_r;&c_je;&c_z; &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
+  <trd lng="sk">prebiehať <klr>(rýchle prechádzať)</klr></trd>
 </drv>
 
 <drv mrk="kur.trans0i">
@@ -678,6 +733,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_b;&c_je;&c_g;&c_ch;&c_y; <klr tip="amb">(&c_p;&c_r;&c_a;&c_z; &c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>přebíhat</trd>,
+    <trd>přeběhnout</trd>
+  </trdgrp>
   <trd lng="fr">traverser en courant</trd>
   <trdgrp lng="hu">
     <trd>&aacute;tfut <klr tip="amb">(vhov&aacute;)</klr></trd>,
@@ -690,6 +749,7 @@
   </trdgrp>
   <trd lng="pl">przebiega&cacute;</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_b;&c_je;&c_zh;&c_a;&c_t;&c_mol;<klr> (&c_ch;&c_je;&c_r;&c_je;&c_z; &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
+  <trd lng="sk">prebiehať <klr>(rýchle prechádzať)</klr></trd>
 </drv>
 
 <drv mrk="kur.cxas0i">
@@ -744,6 +804,10 @@
     <trd>&c_s;&c_p;&c_a;&c_b;&c_o;&c_r;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a; &c_w; &c_b;&c_je;&c_g;&c_u;</trd>
   </trdgrp>
   <trd lng="br">redadeg</trd>
+  <trdgrp lng="cs">
+    <trd>běh o závod</trd>,
+    <trd>závod v běhu</trd>
+  </trdgrp>
   <trd lng="fr">course<klr> (sportive)</klr></trd>
   <trd lng="hu">versenyfut&aacute;s</trd>
   <trd lng="it">corsa<klr> (gara)</klr></trd>
@@ -758,10 +822,17 @@
     <trd>&c_s;&c_o;&c_s;&c_t;&c_ja;&c_z;&c_a;&c_n;&c_i;&c_je; &c_v; &c_b;&c_je;&c_g;&c_je;</trd>,
     <trd>&c_z;&c_a;&c_b;&c_je;&c_g;</trd>
   </trdgrp>
+  <trd lng="sk">závod v behu</trd>
 </drv>
 </art>
 <!--
 $Log: kur.xml,v $
+Revision 1.34  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.32  2014/03/30 13:10:22  revo
 Jeromo Vasxe: + al~i
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sekest.xml,v 1.13 2013/02/20 15:10:10 revo Exp $">
+<art mrk="$Id: sekest.xml,v 1.15 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>sekestr</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -23,10 +23,24 @@
       </fnt>
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>obstavit</trd>,
+    <trd>zabavit</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>sekvestrovať</trd>,
+    <trd>súdne zhabať</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: sekest.xml,v $
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2013/02/20 15:10:10  revo
 Jeromo Vasxe: ref dif, + ekz, - trd portitaj al sekvestr
 

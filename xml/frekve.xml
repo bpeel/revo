@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: frekve.xml,v 1.19 2013/11/10 12:10:12 revo Exp $">
+  <art mrk="$Id: frekve.xml,v 1.21 2015/07/04 08:37:34 revo Exp $">
     <kap>
       <rad>frekvenc</rad>/o
     </kap>
@@ -79,7 +79,12 @@
       <trd lng="nl">frequentie</trd>
       <trd lng="pt">freq&uuml;&ecirc;ncia</trd>
       <trd lng="sv">frekvens</trd>
-    </drv>
+      <trd lng="sk">frekvencia</trd>
+  <trdgrp lng="cs">
+    <trd>frekvence</trd>,
+    <trd>četnost výskytu</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="frekve.alta0o">
       <kap>alta <tld/>o</kap>
@@ -119,6 +124,12 @@
   </art>
   <!--
   $Log: frekve.xml,v $
+  Revision 1.21  2015/07/04 08:37:34  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.20  2015/06/29 16:29:38  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.19  2013/11/10 12:10:12  revo
   Russ Williams: korekti literumo de dimesio al dimensio
 

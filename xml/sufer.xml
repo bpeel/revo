@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sufer.xml,v 1.18 2011/11/22 18:10:09 revo Exp $">
+<art mrk="$Id: sufer.xml,v 1.20 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sufer</rad>/i
@@ -205,7 +205,12 @@
     <trd>sofrir</trd>,
     <trd>patir</trd>
   </trdgrp>
-  <trd lng="cs">trp&ecaron;t</trd>
+  <trdgrp lng="cs">
+    <trd>strádat</trd>,
+    <trd>trp&ecaron;t</trd>,
+    <trd>trpět</trd>,
+    <trd>utrpět</trd>
+  </trdgrp>
   <trd lng="de">leiden</trd>
   <trd lng="en">suffer</trd>
   <trd lng="es">sufrir</trd>
@@ -229,11 +234,23 @@
     <trd>&c_s;&c_t;&c_r;&c_a;&c_d;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_m;&c_u;&c_ch;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>trpieť</trd>,
+    <trd>vystáť</trd>,
+    <trd>vytrpieť</trd>,
+    <trd>znášať</trd>
+  </trdgrp>
   <trd lng="uk">&c_s;&c_t;&c_r;&c_a;&c_zh;&c_d;&c_a;&c_t;&c_i;</trd>
 </drv>
 </art>
 <!--
 $Log: sufer.xml,v $
+Revision 1.20  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2011/11/22 18:10:09  revo
 Marc Rausell: kataluna traduko
 

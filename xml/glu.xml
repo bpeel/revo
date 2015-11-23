@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: glu.xml,v 1.26 2014/06/09 16:10:30 revo Exp $">
+  <art mrk="$Id: glu.xml,v 1.28 2015/07/04 08:37:35 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>glu</rad>/i
@@ -64,12 +64,17 @@
           cetere misdifinita en &ccirc;iuj eldonoj de PIV.
         </rim>
       </snc>
-      <trdgrp lng="pt">
+  <trdgrp lng="cs">
+    <trd>klížit</trd>,
+    <trd>lepit</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
         <trd>colar</trd>, 
         <trd>grudar</trd> 
       </trdgrp>
-      <trd lng="ru">&c_k;&c_l;&c_je;&c_i;&c_t;&c_mol;</trd>
-    </drv>
+  <trd lng="ru">&c_k;&c_l;&c_je;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">lepiť</trd>
+</drv>
 
     <drv mrk="glu.0igxi">
       <kap><tld/>i&gcirc;i</kap>
@@ -227,23 +232,28 @@
         </dif>
         <ref tip="vid" cel="adher.0i">adheri</ref>
       </snc>
-      <trd lng="be">&c_k;&c_l;&c_je;&c_j;</trd>
-      <trdgrp lng="de">
+  <trd lng="be">&c_k;&c_l;&c_je;&c_j;</trd>
+  <trdgrp lng="cs">
+    <trd>klíh</trd>,
+    <trd>lepidlo</trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>Leim</trd>,
         <trd>Klebstoff</trd>
       </trdgrp>
-      <trd lng="es">pegamento</trd>
-      <trd lng="fr">colle<klr tip="ind"> (adh&eacute;sif)</klr></trd>
-      <trdgrp lng="hu">
+  <trd lng="es">pegamento</trd>
+  <trd lng="fr">colle<klr tip="ind"> (adh&eacute;sif)</klr></trd>
+  <trdgrp lng="hu">
         <trd>enyv</trd>,
         <trd>ragaszt&oacute;</trd>
       </trdgrp>
-      <trd lng="id">lem</trd>
-      <trd lng="nl">lijm</trd>
-      <trd lng="pl">klej</trd>
-      <trd lng="pt">cola</trd>
-      <trd lng="ru">&c_k;&c_l;&c_je;&c_j;</trd>
-    </drv>
+  <trd lng="id">lem</trd>
+  <trd lng="nl">lijm</trd>
+  <trd lng="pl">klej</trd>
+  <trd lng="pt">cola</trd>
+  <trd lng="ru">&c_k;&c_l;&c_je;&c_j;</trd>
+  <trd lng="sk">lepidlo</trd>
+</drv>
 
     <drv mrk="glu.al0i">
       <kap>al<tld/>i</kap>
@@ -256,22 +266,27 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="be">&c_p;&c_r;&c_y;&c_k;&c_l;&c_je;&c_ib;&c_c;&c_mol;</trd>
-      <trdgrp lng="de">
+  <trd lng="be">&c_p;&c_r;&c_y;&c_k;&c_l;&c_je;&c_ib;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>nalepit</trd>,
+    <trd>přilepit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>aufkleben</trd>,
         <trd>ankleben</trd>,
         <trd>anheften</trd>
       </trdgrp>
-      <trd lng="fr">coller<klr tip="ind"> (tr. dir.)</klr></trd>
-      <trd lng="hu">r&aacute;ragaszt</trd>
-      <trd lng="nl">opplakken</trd>
-      <trd lng="pl">naklei&cacute;</trd>
-      <trdgrp lng="pt">
+  <trd lng="fr">coller<klr tip="ind"> (tr. dir.)</klr></trd>
+  <trd lng="hu">r&aacute;ragaszt</trd>
+  <trd lng="nl">opplakken</trd>
+  <trd lng="pl">naklei&cacute;</trd>
+  <trdgrp lng="pt">
         <trd>colar</trd>, 
         <trd>grudar</trd> 
       </trdgrp>
-      <trd lng="ru">&c_p;&c_r;&c_i;&c_k;&c_l;&c_je;&c_i;&c_t;&c_mol;</trd>
-    </drv>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_k;&c_l;&c_je;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">nalepiť</trd>
+</drv>
 
     <drv mrk="glu.al0igxi">
       <kap>al<tld/>i&gcirc;i</kap>
@@ -390,20 +405,22 @@
         <uzo tip="stl">FIG</uzo>
         <ref tip="dif" cel="ten.kun0i">kunteni</ref>
       </snc>
-      <trd lng="be">&c_s;&c_k;&c_l;&c_je;&c_ib;&c_c;&c_mol;</trd>
-      <trd lng="de">zusammenkleben</trd>
-      <trdgrp lng="fr">
+  <trd lng="be">&c_s;&c_k;&c_l;&c_je;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="cs">slepit</trd>
+  <trd lng="de">zusammenkleben</trd>
+  <trdgrp lng="fr">
         <trd>coller<klr tip="ind"> (ensemble)</klr></trd>,
         <trd>maintenir ensemble</trd>
       </trdgrp>
-      <trd lng="hu">&ouml;sszeragaszt</trd>
-      <trd lng="nl">samenkleven<klr tip="ind"> (ov.)</klr></trd>
-      <trd lng="pl">sklei&cacute;</trd>
-      <trdgrp lng="ru">
+  <trd lng="hu">&ouml;sszeragaszt</trd>
+  <trd lng="nl">samenkleven<klr tip="ind"> (ov.)</klr></trd>
+  <trd lng="pl">sklei&cacute;</trd>
+  <trdgrp lng="ru">
         <trd>&c_s;&c_k;&c_l;&c_je;&c_i;&c_t;&c_mol;</trd>,
         <trd>&c_s;&c_l;&c_je;&c_p;&c_i;&c_t;&c_mol;</trd>
       </trdgrp>
-    </drv>
+  <trd lng="sk">zlepiť</trd>
+</drv>
 
     <drv mrk="glu.kun0igxemo">
       <kap>kun<tld/>i&gcirc;emo</kap>
@@ -442,26 +459,34 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="be">&c_a;&c_d;&c_k;&c_l;&c_je;&c_ib;&c_c;&c_mol;</trd>
-      <trd lng="de">trennen</trd>
-      <trd lng="fr">d&eacute;coller<klr tip="ind"> (enlever la
+  <trd lng="be">&c_a;&c_d;&c_k;&c_l;&c_je;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="cs">odlepit</trd>
+  <trd lng="de">trennen</trd>
+  <trd lng="fr">d&eacute;coller<klr tip="ind"> (enlever la
       colle)</klr></trd>
-      <trdgrp lng="hu">
+  <trdgrp lng="hu">
         <trd>sz&eacute;szed<klr tip="ind"> (ragasztottat)</klr></trd>,
         <trd>sz&eacute;tv&aacute;laszt<klr tip="ind"> (ragasztottat)</klr></trd>
       </trdgrp>
-      <trd lng="nl">losweken</trd>
-      <trd lng="pl">rozklei&cacute;</trd>
-      <trd lng="pt">descolar</trd>
-      <trdgrp lng="ru">
+  <trd lng="nl">losweken</trd>
+  <trd lng="pl">rozklei&cacute;</trd>
+  <trd lng="pt">descolar</trd>
+  <trdgrp lng="ru">
         <trd>&c_o;&c_t;&c_k;&c_l;&c_je;&c_i;&c_t;&c_mol;</trd>,
         <trd>&c_r;&c_a;&c_s;&c_k;&c_l;&c_je;&c_i;&c_t;&c_mol;</trd>
         <trd>&c_r;&c_a;&c_z;&c_l;&c_je;&c_p;&c_i;&c_t;&c_mol;</trd>
       </trdgrp>
-    </drv>
+  <trd lng="sk">odlepiť</trd>
+</drv>
   </art>
   <!--
   $Log: glu.xml,v $
+  Revision 1.28  2015/07/04 08:37:35  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.27  2015/06/29 16:29:39  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.26  2014/06/09 16:10:30  revo
   Eko Nur Syah Hidayat: +id
 

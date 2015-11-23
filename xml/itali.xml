@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: itali.xml,v 1.7 2014/06/09 16:10:31 revo Exp $">
+<art mrk="$Id: itali.xml,v 1.9 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <rad>Itali</rad>/o
 </kap>
@@ -22,6 +22,7 @@
   </snc>
   <trd lng="bg">&c_I;&c_t;&c_a;&c_l;&c_i;&c_ja;</trd>
   <trd lng="ca">It&agrave;lia</trd>
+  <trd lng="cs">Itálie</trd>
   <trd lng="da">Italien</trd>
   <trd lng="de">Italien</trd>
   <trd lng="en">Italy</trd>
@@ -40,11 +41,18 @@
     <trd>W&lstroke;ochy</trd>,
     <trd>Italia</trd>
   </trdgrp>
+  <trd lng="sk">Taliansko</trd>
 </drv>
 </art>
 
 <!--
 $Log: itali.xml,v $
+Revision 1.9  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.7  2014/06/09 16:10:31  revo
 Damien Brucker: +trd fr
 

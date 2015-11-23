@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: datur.xml,v 1.16 2013/11/02 17:10:12 revo Exp $">
+<art mrk="$Id: datur.xml,v 1.18 2015/07/04 08:37:32 revo Exp $">
   <kap>
     <ofc>*</ofc>
     <rad>datur</rad>/o <fnt><bib>PV</bib></fnt>
@@ -36,6 +36,7 @@
     <trd>aval-spern</trd>,
     <trd>mezverez<klr tip="ind"> (aval-spern)</klr></trd>
   </trdgrp>
+  <trd lng="cs">durman</trd>
   <trd lng="de">Stechapfel</trd>
   <trdgrp lng="en">
     <trd>thorn apple</trd>,
@@ -49,10 +50,17 @@
     <trd>datura</trd>
   </trdgrp>
   <trd lng="ru">&c_d;&c_u;&c_r;&c_m;&c_a;&c_n;</trd>
-  </drv>
+  <trd lng="sk">durman</trd>
+</drv>
 </art>
 <!--
 $Log: datur.xml,v $
+Revision 1.18  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/11/02 17:10:12  revo
 Wolfram Diestel: prilaboris dif, ref al lst solanoparencoj
 

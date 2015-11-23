@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: jet.xml,v 1.4 2009/03/18 17:32:24 revo Exp $">
+  <art mrk="$Id: jet.xml,v 1.6 2015/07/04 08:37:36 revo Exp $">
     <kap><rad>jet</rad>/o</kap>
 
     <drv mrk="jet.0i">
@@ -71,7 +71,13 @@ la direkto
           </fnt>.
         </ekz>
       </snc>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>jet</trd>,
+    <trd>tryskové letadlo</trd>,
+    <trd>tryskový motor</trd>
+  </trdgrp>
+  <trd lng="sk">reaktívne lietadlo</trd>
+</drv>
 
     <drv mrk="jet.0avio">
       <kap><tld/>avio,
@@ -103,7 +109,12 @@ la direkto
         <trd>jet</trd>,
         <trd>aereo a reazione</trd>
       </trdgrp>
-    </drv>
+      <trd lng="sk">prúdové lietadlo</trd>
+  <trdgrp lng="cs">
+    <trd>proudnicový letoun</trd>,
+    <trd>tryskové letadlo</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="jet.0motoro">
       <kap><tld/>motoro</kap>
@@ -126,27 +137,38 @@ saest82-15.htm">SAEST-82</url></vrk>
           </ekz>
         </dif>
       </snc>
-      <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>proudnicový motor</trd>,
+    <trd>proudový motor</trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>Strahltriebwerk</trd>,
         <trd>D&uuml;sentriebwerk</trd>
       </trdgrp>
-      <trd lng="en">jet engine</trd>
-      <trdgrp lng="ru">
+  <trd lng="en">jet engine</trd>
+  <trdgrp lng="ru">
         <trd>&c_r;&c_je;&c_a;&c_k;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;
 &c_d;&c_v;&c_i;&c_g;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>,
         <trd>&c_d;&c_v;&c_i;&c_g;&c_a;&c_t;&c_je;&c_l;&c_mol; 
 &c_p;&c_r;&c_ja;&c_m;&c_o;&c_j;
 &c_r;&c_je;&c_a;&c_k;&c_c;&c_i;&c_i;</trd>
       </trdgrp>
-      <trdgrp lng="sv">
+  <trd lng="sk">prúdový motor</trd>
+  <trdgrp lng="sv">
         <trd>jetmotor</trd>,
         <trd>reamotor</trd>
       </trdgrp>
-    </drv>
+</drv>
   </art>
 
 <!--
 $Log: jet.xml,v $
+Revision 1.6  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2009/03/18 17:32:24  revo
 Wieland Pusch: +trd de
 

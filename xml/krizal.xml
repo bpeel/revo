@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krizal.xml,v 1.12 2012/08/04 10:10:12 revo Exp $">
+<art mrk="$Id: krizal.xml,v 1.14 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>krizalid</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -21,6 +21,10 @@
     </refgrp>
   </snc>
   <trd lng="ca">cris&agrave;lide</trd>
+  <trdgrp lng="cs">
+    <trd>kukla hmyzu</trd>,
+    <trd>pupa</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Chrysalide</trd>,
      <trd>Puppe</trd>
@@ -35,10 +39,17 @@
   <trd lng="nl">pop<klr tip="ind"> (v.insect)</klr></trd>
   <trd lng="pt">cris&aacute;lida</trd>
   <trd lng="ru">&c_k;&c_u;&c_k;&c_o;&c_l;&c_k;&c_a;<klr> (&c_b;&c_a;&c_b;&c_o;&c_ch;&c_k;&c_i;)</klr></trd>
+  <trd lng="sk">kukla hmyzu</trd>
 </drv>
 </art>
 <!--
 $Log: krizal.xml,v $
+Revision 1.14  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2012/08/04 10:10:12  revo
 Marc Rausell: + trd ca
 

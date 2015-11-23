@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fragme.xml,v 1.16 2011/01/26 17:10:09 revo Exp $">
+<art mrk="$Id: fragme.xml,v 1.18 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fragment</rad>/o <fnt><bib>PV</bib></fnt>
@@ -81,6 +81,17 @@
     <trd>morceau</trd>,
     <trd>passage<klr tip="ind"> (d'une &oelig;uvre)</klr></trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>zlomok</trd>,
+    <trd>úryvok</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>fragment</trd>,
+    <trd>pasáž</trd>,
+    <trd>výňatek</trd>,
+    <trd>zlomek</trd>,
+    <trd>úryvek</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fragme.0i">
@@ -99,6 +110,10 @@
     <trd>&c_r;&c_a;&c_z;&c_mol;&c_b;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_l;&c_a;&c_m;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ja;&c_l;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>rozdrobovat</trd>,
+    <trd>rozčleňovat</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>fragmentieren</trd>,
@@ -122,6 +137,7 @@
     <trd>&c_r;&c_a;&c_z;&c_b;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">rozčleňovať</trd>
 </drv>
 <drv mrk="fragme.0a">
   <kap><tld/>a</kap>
@@ -141,6 +157,11 @@
     <trd>&c_f;&c_r;&c_a;&c_g;&c_m;&c_e;&c_n;&c_t;&c_a;&c_r;&c_n;&c_y;</trd>,
     <trd>&c_f;&c_r;&c_a;&c_g;&c_m;&c_e;&c_n;&c_t;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>,
     <trd>&c_u;&c_r;&c_y;&c_w;&c_k;&c_a;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>fragmentární</trd>,
+    <trd>zlomkovitý</trd>,
+    <trd>úryvkovitý</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>fragmentarisch</trd>,
@@ -162,10 +183,17 @@
     <trd>&c_f;&c_r;&c_a;&c_g;&c_m;&c_je;&c_n;&c_t;&c_a;&c_r;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_o;&c_t;&c_r;&c_y;&c_v;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">zlomkovitý</trd>
 </drv>
 </art>
 <!--
 $Log: fragme.xml,v $
+Revision 1.18  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2011/01/26 17:10:09  revo
 Russ Williams: +trd en
 

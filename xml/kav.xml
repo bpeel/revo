@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kav.xml,v 1.25 2012/01/04 23:10:08 revo Exp $">
+<art mrk="$Id: kav.xml,v 1.27 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kav</rad>/o <fnt><bib>PV</bib></fnt>
@@ -67,6 +67,7 @@
     <trd>&c_z;&c_a;&c_p;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_a;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_a;&c_h;&c_l;&c_ja;&c_b;&c_ib;&c_n;&c_a;</trd>
   </trdgrp>
+  <trd lng="cs">výmol na cestě</trd>
   <trdgrp lng="de">
     <trd>H&ouml;hle</trd>,
     <trd>H&ouml;hlung</trd>,
@@ -107,6 +108,7 @@
     <trd>&c_v;&c_p;&c_a;&c_d;&c_i;&c_n;&c_a;</trd>,
     <trd>&c_u;&c_g;&c_l;&c_u;&c_b;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
+  <trd lng="sk">výmoľ na ceste</trd>
 </drv>
 
 <drv mrk="kav.0a">
@@ -126,6 +128,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_p;&c_a;&c_l;&c_y;</trd>
+  <trd lng="cs">dutý</trd>
   <trd lng="de">hohl</trd>
   <trdgrp lng="fr">
     <trd>creux<klr tip="ind"> (adj.)</klr></trd>,
@@ -152,6 +155,7 @@
     <trd>c&ocirc;ncavo</trd>
   </trdgrp>
   <trd lng="ru">&c_v;&c_p;&c_a;&c_l;&c_y;&c_j;</trd>
+  <trd lng="sk">dutý</trd>
 </drv>
 
 <drv mrk="kav.0i">
@@ -173,6 +177,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>být dutý</trd>,
+    <trd>zet</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>H&ouml;hle sein</trd>,
     <trd>Hohlraum sein</trd>
@@ -191,6 +199,7 @@
   <trd lng="nl"><ind>hol</ind> zijn</trd>
   <trd lng="pt">ser <ind>cavado</ind></trd>
   <trd lng="ru">&c_z;&c_i;&c_ja;&c_t;&c_mol;</trd>
+  <trd lng="sk">byť dutý</trd>
 </drv>
 
 <drv mrk="kav.0igi">
@@ -218,12 +227,16 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hloubit</trd>,
+    <trd>prohloubit</trd>
+  </trdgrp>
+  <trd lng="es">cavar</trd>
   <trd lng="fr">creuser</trd>
   <trdgrp lng="hu">
     <trd>kiv&aacute;j</trd>,
     <trd>homor&iacute;t</trd>
   </trdgrp>
-  <trd lng="es">cavar</trd>
   <trdgrp lng="nl">
     <trd><ind>hol</ind> maken</trd>,
     <trd>uithollen</trd>
@@ -234,6 +247,7 @@
     <trd>&c_v;&c_t;&c_ja;&c_n;&c_u;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_g;&c_l;&c_u;&c_b;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">vyhĺbiť <klr>(dutinu)</klr></trd>
 </drv>
 
 <drv mrk="kav.dis0ajxo">
@@ -342,6 +356,11 @@
       <ref cel="fos.0ajxo">fosa&jcirc;o</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>drenážní rýha</trd>,
+    <trd>příkop</trd>,
+    <trd>zemní rýha</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>douve</trd>,
     <trd>foss&eacute;</trd>
@@ -357,6 +376,10 @@
     <trd>fossa</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_o;&c_v;</trd>
+  <trdgrp lng="sk">
+    <trd>drenážna ryha</trd>,
+    <trd>priekopa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kav.mal0a">
@@ -365,6 +388,7 @@
     <ref tip="dif" cel="konvek.0a">konveksa</ref>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_p;&c_u;&c_k;&c_l;&c_y;</trd>
+  <trd lng="cs">vypouklý</trd>
   <trdgrp lng="fr">
     <trd>bomb&eacute;</trd>,
     <trd>convexe</trd>
@@ -380,6 +404,7 @@
   <trd lng="pl">wypuk&lstroke;y></trd>
   <trd lng="pt">convexo</trd>
   <trd lng="ru">&c_v;&c_y;&c_p;&c_u;&c_k;&c_l;&c_y;&c_j;</trd>
+  <trd lng="sk">vypuklý</trd>
 </drv>
 
 <drv mrk="kav.man0o">
@@ -394,6 +419,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">dlaň</trd>
   <trd lng="de">hohle <ind>Hand</ind></trd>
   <trd lng="fr">creux de la <ind>main</ind></trd>
   <trd lng="hu">marok</trd>
@@ -406,6 +432,7 @@
     <trd>concavidade <klr tip="amb">(das m&atilde;os)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_g;&c_o;&c_r;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">dlaň</trd>
 </drv>
 
 <drv mrk="kav.naz0o">
@@ -484,6 +511,7 @@
     </dif>
   </snc>
   <trd lng="bg">&c_o;&c_ch;&c_n;&c_a; &c_k;&c_u;&c_h;&c_i;&c_n;&c_a;</trd>
+  <trd lng="cs">očnice</trd>
   <trd lng="de">Augenh&ouml;hle</trd>
   <trd lng="en">cavity of the <ind>eye</ind></trd>
   <trd lng="fr">orbite<klr tip="ind"> (de l'&oelig;il)</klr></trd>
@@ -493,6 +521,10 @@
   <trdgrp lng="ru">
     <trd>&c_g;&c_l;&c_a;&c_z;&c_n;&c_i;&c_c;&c_a;</trd>,
     <trd>&c_g;&c_l;&c_a;&c_z;&c_n;&c_a;&c_ja; &c_v;&c_p;&c_a;&c_d;&c_i;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>očnica</trd>,
+    <trd>očná jamka</trd>
   </trdgrp>
 </drv>
 
@@ -517,6 +549,12 @@
 </art>
 <!--
 $Log: kav.xml,v $
+Revision 1.27  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.25  2012/01/04 23:10:08  revo
 Jeromo Vasxe: + naz~o
 

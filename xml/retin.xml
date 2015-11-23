@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: retin.xml,v 1.15 2006/07/21 18:03:36 revo Exp $">
+<art mrk="$Id: retin.xml,v 1.17 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>retin</rad>/o <fnt><bib>PV</bib></fnt>
@@ -23,6 +23,10 @@
     <trd>&c_s;&c_je;&c_t;&c_k;&c_a;&c_v;&c_ib;&c_c;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">retina</trd>
+  <trdgrp lng="cs">
+    <trd>retina</trd>,
+    <trd>sítnice</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Netzhaut</trd>,
     <trd>Retina</trd>
@@ -45,10 +49,20 @@
     <trd>&c_r;&c_je;&c_t;&c_i;&c_n;&c_a;</trd>,
     <trd>&c_s;&c_je;&c_t;&c_ch;&c_a;&c_t;&c_k;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>retina</trd>,
+    <trd>sietnica</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: retin.xml,v $
+Revision 1.17  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2006/07/21 18:03:36  revo
 Jeromo Vasxe: + tez mrk
 

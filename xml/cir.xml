@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cir.xml,v 1.18 2012/08/26 20:10:16 revo Exp $">
+<art mrk="$Id: cir.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>cir</rad>/o
@@ -19,12 +19,17 @@
   <trd lng="be">&c_v;&c_a;&c_k;&c_s;&c_a;</trd>
   <trd lng="br">koaraj</trd>
   <trd lng="ca">betum</trd>
+  <trdgrp lng="cs">
+    <trd>cídidlo</trd>,
+    <trd>krém na boty</trd>,
+    <trd>leštidlo na boty</trd>
+  </trdgrp>
   <trd lng="de">Schuhcreme</trd>
+  <trd lng="el">&beta;&epsilon;&rho;&ny;&jota_ton;&kappa;&jota;</trd>
   <trdgrp lng="en">
     <trd>polish</trd>,
     <trd>wax</trd>
   </trdgrp>
-  <trd lng="el">&beta;&epsilon;&rho;&ny;&jota_ton;&kappa;&jota;</trd>
   <trd lng="es">bet&uacute;n</trd>
   <trd lng="fr">cirage</trd>
   <trdgrp lng="hu">
@@ -43,6 +48,10 @@
   </trdgrp>
   <trd lng="pt">graxa</trd>
   <trd lng="ru">&c_v;&c_a;&c_k;&c_s;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>krém na topánky</trd>,
+    <trd>pasta</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cir.0i">
@@ -56,6 +65,12 @@
   <trd lng="be">&c_v;&c_a;&c_k;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="br">koara&ntilde;<klr tip="ind"> (l&ecirc;r)</klr></trd>
   <trd lng="ca">embetumar</trd>
+  <trdgrp lng="cs">
+    <trd>cídit</trd>,
+    <trd>leštit</trd>,
+    <trd>vyleštit</trd>,
+    <trd>čistit <klr>(obuv)</klr></trd>
+  </trdgrp>
   <trd
   lng="el">&lambda;&omikron;&ypsilon;&sigma;&tau;&rho;&alfa_ton;&rho;&omega;</trd>
   <trd lng="en">polish</trd>
@@ -76,10 +91,17 @@
     <trd>&c_ch;&c_i;&c_s;&c_t;&c_i;&c_t;&c_mol;
     &c_o;&c_b;&c_u;&c_v;&c_mol; &c_v;&c_a;&c_k;&c_s;&c_o;&c_j;</trd>
   </trdgrp>
-  </drv>
+  <trd lng="sk">leštiť</trd>
+</drv>
 </art>
 <!--
 $Log: cir.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/08/26 20:10:16  revo
 Marc Rausell: + trd ca
 

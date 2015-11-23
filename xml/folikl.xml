@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: folikl.xml,v 1.14 2013/11/12 18:10:12 revo Exp $">
+<art mrk="$Id: folikl.xml,v 1.16 2015/07/04 08:37:34 revo Exp $">
 <kap><rad>folikl</rad>/o</kap>
 <drv mrk="folikl.0o">
   <kap><tld/>o</kap>
@@ -61,6 +61,12 @@
     <trd lng="de">Follikel</trd>
     <trd lng="nl">follikel</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>folikul</trd>,
+    <trd>míšek</trd>,
+    <trd>měchýřek</trd>,
+    <trd>váček</trd>
+  </trdgrp>
   <trd lng="fr">follicule</trd>
   <trd lng="hu">t&uuml;sz&odblac;</trd>
   <trd lng="it">follicolo</trd>
@@ -70,10 +76,20 @@
     <trd>&c_m;&c_je;&c_sh;&c_o;&c_ch;&c_je;&c_k;</trd>,
     <trd>&c_p;&c_u;&c_z;&c_y;&c_r;&c_jo;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>folikul</trd>,
+    <trd>miešok</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: folikl.xml,v $
+Revision 1.16  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2013/11/12 18:10:12  revo
 Wolfram Diestel: adaptis germ trd.
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: don.xml,v 1.47 2013/09/07 01:10:17 revo Exp $">
+  <art mrk="$Id: don.xml,v 1.50 2015/10/08 13:10:15 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>don</rad>/i <fnt><bib>PV</bib></fnt>
@@ -112,43 +112,54 @@
           <trd>administrar</trd>
         </trdgrp>
       </snc>
-      <trdgrp lng="bg">
+  <trdgrp lng="bg">
         <trd>&c_d;&c_a;&c_v;&c_a;&c_m;</trd>,
         <trd>&c_d;&c_a;&c_m;</trd>
       </trdgrp>
-      <trd lng="ca">donar</trd>
-      <trd lng="cs">d&aacute;t</trd>
-      <trd lng="de">geben</trd>
-      <trd lng="en">give</trd>
-      <trd lng="es">dar</trd>
-      <trd lng="fr">donner</trd>
-      <trdgrp lng="hu">
+  <trd lng="ca">donar</trd>
+  <trdgrp lng="cs">
+    <trd>d&aacute;t</trd>,
+    <trd>podat</trd>,
+    <trd>pod&aacute;vat</trd>,
+    <trd>poskytnout</trd>,
+    <trd>poskytovat</trd>,
+    <trd>ud&ecaron;lit</trd>
+  </trdgrp>
+  <trd lng="de">geben</trd>
+  <trd lng="en">give</trd>
+  <trd lng="es">dar</trd>
+  <trd lng="fr">donner</trd>
+  <trdgrp lng="hu">
         <trd>ad</trd>,
         <trd>ny&uacute;jt</trd>,
         <trd>eredm&eacute;nyez</trd>
       </trdgrp>
-      <trdgrp lng="ku">
+  <trdgrp lng="ku">
         <trd>day&icirc;n</trd>,
         <trd>dan</trd>
       </trdgrp>
-      <trdgrp lng="oc">
+  <trd lng="nl">geven</trd>
+  <trdgrp lng="oc">
         <trd>donar</trd>,
         <trd>balhar</trd>
       </trdgrp>
-      <trdgrp lng="pl">
+  <trdgrp lng="pl">
         <trd>da&cacute;</trd>,
         <trd>dawa&cacute;</trd>
         <trd>udziela&cacute;</trd>
       </trdgrp>
-      <trd lng="ro">a da</trd>
-      <trdgrp lng="ru">
+  <trd lng="ro">a da</trd>
+  <trdgrp lng="ru">
         <trd>&c_d;&c_a;&c_t;&c_mol;</trd>,
         <trd>&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol;</trd>
       </trdgrp>
-      <trd lng="nl">geven</trd>
-      <trd lng="tr">vermek</trd>
-      <trd lng="vo">giv&ouml;n</trd>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>da&tcaron;</trd>,
+    <trd>poskytn&uacute;&tcaron;</trd>
+  </trdgrp>
+  <trd lng="tr">vermek</trd>
+  <trd lng="vo">giv&ouml;n</trd>
+</drv>
 
     <drv mrk="don.0itajxo">
       <kap><tld/>ita&jcirc;o</kap>
@@ -228,24 +239,35 @@
           <ref cel="pli.0igi">pliigi</ref>
         </refgrp>
       </snc>
-      <trd lng="ca">afegir</trd>
-      <trd lng="de">hinzuf&uuml;gen</trd>
-      <trd lng="en">add</trd>
-      <trd lng="fr">ajouter</trd>
-      <trdgrp lng="es">
+  <trd lng="ca">afegir</trd>
+  <trdgrp lng="cs">
+    <trd>dodat</trd>,
+    <trd>p&rcaron;idat</trd>,
+    <trd>p&rcaron;ilo&zcaron;it</trd>,
+    <trd>p&rcaron;ipojit</trd>
+  </trdgrp>
+  <trd lng="de">hinzuf&uuml;gen</trd>
+  <trd lng="en">add</trd>
+  <trdgrp lng="es">
         <trd>a&ntilde;adir</trd>,
         <trd>agregar</trd>
       </trdgrp>
-      <trdgrp lng="hu">
+  <trd lng="fr">ajouter</trd>
+  <trdgrp lng="hu">
         <trd>hozz&aacute;ad</trd>,
         <trd>hossz&aacute;tesz</trd>,
         <trd>hozz&aacute;f&udblac;z</trd>
       </trdgrp>
-      <trd lng="nl">toevoegen</trd>
-      <trd lng="oc">ajustar</trd>
-      <trd lng="pl">dodawa&cacute;</trd>
-      <trd lng="ru">&c_d;&c_o;&c_b;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
-    </drv>
+  <trd lng="nl">toevoegen</trd>
+  <trd lng="oc">ajustar</trd>
+  <trd lng="pl">dodawa&cacute;</trd>
+  <trd lng="ru">&c_d;&c_o;&c_b;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>doda&tcaron;</trd>,
+    <trd>prida&tcaron;</trd>,
+    <trd>prilo&zcaron;i&tcaron;</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="don.al0ita">
       <kap>al<tld/>ita</kap>
@@ -270,6 +292,7 @@
             </fnt>.
           </ekz>
         </dif>
+        <trd lng="en">additional</trd>
         <trdgrp lng="ru">
           <trd>&c_d;&c_o;&c_b;&c_a;&c_v;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
           <trd>&c_p;&c_r;&c_i;&c_b;&c_a;&c_v;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
@@ -293,7 +316,9 @@
         <trd lng="hu">odaad&oacute;</trd>
         <trd lng="nl">toegewijd</trd>
       </snc>
-    </drv>
+  <trd lng="cs">p&rcaron;idan&yacute;</trd>
+  <trd lng="sk">pridan&yacute;</trd>
+</drv>
 
     <drv mrk="don.al0o">
       <kap>al<tld/>o</kap>
@@ -403,13 +428,31 @@
           <trd>&c_p;&c_r;&c_i;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
         </trdgrp>
       </snc>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>dodatek</trd>,
+    <trd>dod&aacute;n&iacute;</trd>,
+    <trd>doklad</trd>,
+    <trd>p&rcaron;id&aacute;n&iacute; <klr>(&ccaron;innost)</klr></trd>,
+    <trd>p&rcaron;&iacute;davek (v&yacute;sledek)</trd>,
+    <trd>p&rcaron;&iacute;loha</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dodatok</trd>,
+    <trd>pr&iacute;davok</trd>,
+    <trd>pr&iacute;loha</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="don.al0iteco">
       <kap>al<tld/>iteco</kap>
       <uzo tip="stl">ARK</uzo>
       <ref tip="dif" cel="don.sin0o">sindono</ref>
-    </drv>
+      <trd lng="sk">oddanos&tcaron;</trd>
+  <trdgrp lng="cs">
+    <trd>oddanost</trd>,
+    <trd>p&rcaron;idanost</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="don.el0i">
       <kap>el<tld/>i</kap>
@@ -433,21 +476,26 @@
           <ref cel="publik.0igi">publikigi</ref>
         </refgrp>
       </snc>
-      <trd lng="de">herausgeben</trd>
-      <trd lng="en">publish</trd>
-      <trd lng="es">editar</trd>
-      <trd lng="fr">&eacute;diter</trd>
-      <trd lng="hu">kiad <klr tip="ind">(pl. k&ouml;nyvet)</klr></trd>
-      <trd lng="nl">uitgeven</trd>
-      <trdgrp lng="pl">
+  <trdgrp lng="cs">
+    <trd>vydat <klr>(knihu, zajatce)</klr></trd>,
+    <trd>vystavit</trd>
+  </trdgrp>
+  <trd lng="de">herausgeben</trd>
+  <trd lng="en">publish</trd>
+  <trd lng="es">editar</trd>
+  <trd lng="fr">&eacute;diter</trd>
+  <trd lng="hu">kiad <klr tip="ind">(pl. k&ouml;nyvet)</klr></trd>
+  <trd lng="nl">uitgeven</trd>
+  <trdgrp lng="pl">
         <trd>wyda&cacute;</trd>,
         <trd>wydawa&cacute;</trd>
       </trdgrp>
-      <trdgrp lng="ru">
+  <trdgrp lng="ru">
         <trd>&c_i;&c_z;&c_d;&c_a;&c_t;&c_mol;</trd>,
         <trd>&c_i;&c_z;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol;</trd>
       </trdgrp>
-    </drv>
+  <trd lng="sk">vyda&tcaron;</trd>
+</drv>
 
     <drv mrk="don.el0o">
       <kap>el<tld/>o</kap>
@@ -471,21 +519,30 @@
           <ref cel="versi.0o.eldono">versio<sncref/></ref>
         </refgrp>
       </snc>
-      <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>edice</trd>,
+    <trd>vyd&aacute;n&iacute; <klr>(tiskem)</klr></trd>,
+    <trd>v&yacute;dej</trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>Ausgabe</trd>,
         <trd>Auflage<klr tip="amb"> (Ausgabe)</klr></trd>
       </trdgrp>
-      <trd lng="en">edition</trd>
-      <trd lng="es">edici&oacute;n</trd>
-      <trdgrp lng="fr">
+  <trd lng="en">edition</trd>
+  <trd lng="es">edici&oacute;n</trd>
+  <trdgrp lng="fr">
         <trd>&eacute;dition</trd>
       </trdgrp>
-      <trd lng="hu">kiad&aacute;s <klr tip="ind">(pl. k&ouml;nyv&eacute;)
+  <trd lng="hu">kiad&aacute;s <klr tip="ind">(pl. k&ouml;nyv&eacute;)
         </klr></trd>
-      <trd lng="nl">uitgave</trd>
-      <trd lng="pl">wydanie</trd>
-      <trd lng="ru">&c_i;&c_z;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>
-    </drv>
+  <trd lng="nl">uitgave</trd>
+  <trd lng="pl">wydanie</trd>
+  <trd lng="ru">&c_i;&c_z;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>ed&iacute;cia</trd>,
+    <trd>vydanie</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="don.el0isto">
       <kap>el<tld/>isto</kap>
@@ -506,20 +563,26 @@
           </ekz>
         </dif>
       </snc>
-      <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>editor</trd>,
+    <trd>nakladatel</trd>,
+    <trd>vydavatel</trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>Herausgeber</trd>
         <trd>Verleger</trd>
       </trdgrp>
-      <trd lng="en">publisher</trd>
-      <trd lng="es">editor</trd>
-      <trdgrp lng="fr">
+  <trd lng="en">publisher</trd>
+  <trd lng="es">editor</trd>
+  <trdgrp lng="fr">
         <trd>&eacute;diteur</trd>
       </trdgrp>
-      <trd lng="hu">(k&ouml;nyv)<ind>kiad&oacute;</ind></trd>
-      <trd lng="nl">uitgever</trd>
-      <trd lng="pl">wydawca</trd>
-      <trd lng="ru">&c_i;&c_z;&c_d;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
-    </drv>
+  <trd lng="hu">(k&ouml;nyv)<ind>kiad&oacute;</ind></trd>
+  <trd lng="nl">uitgever</trd>
+  <trd lng="pl">wydawca</trd>
+  <trd lng="ru">&c_i;&c_z;&c_d;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">vydavate&lcaron;</trd>
+</drv>
 
     <drv mrk="don.el0kvanto">
       <kap>el<tld/>kvanto</kap>
@@ -534,18 +597,23 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="de">Auflage<klr tip="amb"> (Anzahl)</klr></trd>
-      <trd lng="en">issue <klr tip="amb">(publication
+  <trdgrp lng="cs">
+    <trd>n&aacute;klad <klr>(po&ccaron;et v&yacute;tisk&uring;)</klr></trd>,
+    <trd>vyd&aacute;van&eacute; mno&zcaron;stv&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Auflage<klr tip="amb"> (Anzahl)</klr></trd>
+  <trd lng="en">issue <klr tip="amb">(publication
       quantity)</klr></trd>
-      <trd lng="es">tirada<klr tip="amb"> (n&uacute;mero de ejemplares que
+  <trd lng="es">tirada<klr tip="amb"> (n&uacute;mero de ejemplares que
           componen una edici&oacute;n)</klr></trd>
-      <trd lng="fr">tirage<klr tip="ind"> (d'une
+  <trd lng="fr">tirage<klr tip="ind"> (d'une
       publication)</klr></trd>
-      <trd lng="hu">(kiad&aacute;si) <ind>p&eacute;ld&aacute;nysz&aacute;m</ind></trd>
-      <trd lng="nl">oplage</trd>
-      <trd lng="pl">nak&lstroke;ad</trd>
-      <trd lng="ru">&c_t;&c_i;&c_r;&c_a;&c_zh;</trd>
-    </drv>
+  <trd lng="hu">(kiad&aacute;si) <ind>p&eacute;ld&aacute;nysz&aacute;m</ind></trd>
+  <trd lng="nl">oplage</trd>
+  <trd lng="pl">nak&lstroke;ad</trd>
+  <trd lng="ru">&c_t;&c_i;&c_r;&c_a;&c_zh;</trd>
+  <trd lng="sk">n&aacute;klad</trd>
+</drv>
 
     <drv mrk="don.dis0i">
       <kap>dis<tld/>i</kap>
@@ -559,33 +627,35 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="de">verteilen</trd>
-      <trdgrp lng="en">
+  <trd lng="cs">rozdat</trd>
+  <trd lng="de">verteilen</trd>
+  <trdgrp lng="en">
         <trd>give out</trd>,
         <trd>give away</trd>,
         <trd>distribute</trd>
       </trdgrp>
-      <trd lng="es">repartir</trd>
-      <trdgrp lng="fr">
+  <trd lng="es">repartir</trd>
+  <trdgrp lng="fr">
         <trd>distribuer</trd>,
         <trd>r&eacute;partir</trd>
       </trdgrp>
-      <trdgrp lng="hu">
+  <trdgrp lng="hu">
         <trd>kioszt</trd>,
         <trd>sz&eacute;toszt</trd>,
         <trd>eloszt</trd>
       </trdgrp>
-      <trd lng="nl">uitdelen</trd>
-      <trdgrp lng="pl">
+  <trd lng="nl">uitdelen</trd>
+  <trdgrp lng="pl">
         <trd>rozda&cacute;</trd>,
         <trd>rozdawa&cacute;</trd>,
         <trd>wydziela&cacute;</trd>
       </trdgrp>
-      <trdgrp lng="ru">
+  <trdgrp lng="ru">
         <trd>&c_r;&c_a;&c_z;&c_d;&c_a;&c_t;&c_mol;</trd>,
         <trd>&c_r;&c_a;&c_z;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol;</trd>
       </trdgrp>
-    </drv>
+  <trd lng="sk">rozda&tcaron;</trd>
+</drv>
 
     <drv mrk="don.for0i">
       <kap>for<tld/>i</kap>
@@ -630,7 +700,16 @@
         <trd>oddawa&cacute;</trd>
       </trdgrp>
       <trd lng="ru">&c_o;&c_t;&c_d;&c_a;&c_t;&c_mol;</trd>
-    </drv>
+      <trdgrp lng="sk">
+    <trd>obetova&tcaron;</trd>,
+    <trd>zbavi&tcaron; sa</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ob&ecaron;tovat</trd>,
+    <trd>p&rcaron;edat</trd>,
+    <trd>zbavit se</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="don.for0igxi">
       <kap>for<tld/>i&gcirc;i, <var>
@@ -659,12 +738,22 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="fr">s'adonner</trd>
-      <trdgrp lng="ru">
+  <trdgrp lng="cs">
+    <trd>ob&ecaron;tovat</trd>,
+    <trd>p&rcaron;edat</trd>,
+    <trd>zbavit se</trd>
+  </trdgrp>
+  <trd lng="en">to devote oneself</trd>
+  <trd lng="fr">s'adonner</trd>
+  <trdgrp lng="ru">
         <trd>&c_o;&c_t;&c_d;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
         <trd>&c_p;&c_r;&c_je;&c_d;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>obetova&tcaron;</trd>,
+    <trd>zbavi&tcaron; sa</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="don.re0i">
       <kap>re<tld/>i</kap>
@@ -782,15 +871,17 @@
           <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_a;&c_t;&c_mol;</trd>
         </trdgrp>
       </snc>
-      <trd lng="de">wiedergeben</trd>
-      <trdgrp lng="fr">
+  <trd lng="cs">vr&aacute;tit</trd>
+  <trd lng="de">wiedergeben</trd>
+  <trdgrp lng="fr">
         <trd>redonner</trd>,
         <trd>rendre<klr tip="ind"> (redonner, reproduire)</klr></trd>,
         <trd>restituer</trd>,
         <trd>rendre la pareille</trd>,
         <trd>revaloir</trd>
       </trdgrp>
-    </drv>
+  <trd lng="sk">vr&aacute;ti&tcaron;</trd>
+</drv>
 
     <drv mrk="don.trans0i">
       <kap>trans<tld/>i</kap>
@@ -811,25 +902,39 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="de">&uuml;bergeben</trd>
-      <trdgrp lng="en">
+  <trdgrp lng="cs">
+    <trd>doru&ccaron;it</trd>,
+    <trd>doru&ccaron;ovat</trd>,
+    <trd>p&rcaron;edat</trd>,
+    <trd>p&rcaron;en&eacute;st</trd>,
+    <trd>p&rcaron;ev&eacute;st</trd>,
+    <trd>tlumo&ccaron;it</trd>,
+    <trd>vydat</trd>
+  </trdgrp>
+  <trd lng="de">&uuml;bergeben</trd>
+  <trdgrp lng="en">
         <trd>give over</trd>,
         <trd>hand over</trd>,
         <trd>transfer</trd>
       </trdgrp>
-      <trd lng="fr">transmettre<klr tip="ind"> (donner ce qu'on a
+  <trd lng="fr">transmettre<klr tip="ind"> (donner ce qu'on a
           re&ccedil;u)</klr></trd>
-      <trdgrp lng="hu">
+  <trdgrp lng="hu">
         <trd>&aacute;tad</trd>,
         <trd>&aacute;tny&uacute;jt</trd>
       </trdgrp>
-      <trd lng="nl">overhandigen</trd>
-      <trdgrp lng="pl">
+  <trd lng="nl">overhandigen</trd>
+  <trdgrp lng="pl">
         <trd>przekaza&cacute;</trd>,
         <trd>przekazywa&cacute;</trd>
       </trdgrp>
-      <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_d;&c_a;&c_t;&c_mol;</trd>
-    </drv>
+  <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_d;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>doru&ccaron;i&tcaron;</trd>,
+    <trd>odovzda&tcaron;</trd>,
+    <trd>prenecha&tcaron;</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="don.lu0i">
       <kap>lu<tld/>i</kap>
@@ -837,32 +942,37 @@
       <snc>
         <ref tip="dif" cel="lu.0igi">luigi</ref>
       </snc>
-      <trd lng="de">verleihen</trd>
-      <trdgrp lng="en">
+  <trd lng="cs">pronajmout <klr>(n&ecaron;komu)</klr></trd>
+  <trd lng="de">verleihen</trd>
+  <trdgrp lng="en">
         <trd>rent</trd>,
         <trd>lease</trd>
       </trdgrp>
-      <trd lng="es">ofrecer en alquiler</trd>
-      <trdgrp lng="fr">
+  <trd lng="es">ofrecer en alquiler</trd>
+  <trdgrp lng="fr">
         <trd>louer<klr> (donner en location)</klr></trd>
       </trdgrp>
-      <trdgrp lng="hu">
+  <trdgrp lng="hu">
         <trd>b&eacute;rbe <ind>ad</ind></trd>,
         <trd>kiad</trd>
       </trdgrp>
-      <trd lng="nl">verhuren</trd>
-      <trdgrp lng="pl">
+  <trd lng="nl">verhuren</trd>
+  <trdgrp lng="pl">
         <trd>dawa&cacute; w najem<klr tip="amb"> (wynajmowa&cacute;)</klr>
         </trd>,
         <trd>dawa&cacute; w dzier&zdot;aw&eogonek;<klr tip="amb">
             (dzier&zdot;awi&cacute;)</klr></trd>
       </trdgrp>
-      <trdgrp lng="ru">
+  <trdgrp lng="ru">
         <trd>&c_s;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol; &c_v;&c_n;&c_a;&c_jo;&c_m;</trd>,
         <trd>&c_s;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol; &c_n;&c_a;&c_p;&c_r;&c_o;&c_k;&c_a;&c_t;</trd>,
         <trd>&c_s;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol; &c_v; &c_a;&c_r;&c_je;&c_n;&c_d;&c_u;</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>da&tcaron; do pren&aacute;jmu</trd>,
+    <trd>prenaja&tcaron;</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="don.ofer0i">
       <kap>ofer<tld/>i</kap>
@@ -884,18 +994,31 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="de">anbieten</trd>
-      <trdgrp lng="fr">
+  <trdgrp lng="cs">
+    <trd>d&aacute;t za ob&ecaron;&tcaron;</trd>,
+    <trd>ob&ecaron;tovat</trd>,
+    <trd>&zcaron;ertvovat</trd>
+  </trdgrp>
+  <trd lng="de">anbieten</trd>
+  <trdgrp lng="en">
+    <trd>to offer up</trd>,
+    <trd>sacrifice</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
         <trd>offrir</trd>
       </trdgrp>
-      <trd lng="hu">&aacute;ldozatul ad</trd>
-      <trd lng="nl">aanbieden</trd>
-      <trdgrp lng="pl">
+  <trd lng="hu">&aacute;ldozatul ad</trd>
+  <trd lng="nl">aanbieden</trd>
+  <trdgrp lng="pl">
         <trd>ofiarowa&cacute;</trd>,
         <trd>z&lstroke;o&zdot;y&cacute; <ind>ofiar&eogonek;</ind></trd>
       </trdgrp>
-      <trd lng="ru">&c_zh;&c_je;&c_r;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;<klr> (&c_n;&c_a; &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
-    </drv>
+  <trd lng="ru">&c_zh;&c_je;&c_r;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;<klr> (&c_n;&c_a; &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>da&tcaron; za obe&tcaron;</trd>,
+    <trd>obetova&tcaron;</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="don.ofer0o">
       <kap>ofer<tld/>o</kap>
@@ -913,16 +1036,29 @@
           <ref cel="omagx.0o">oma&gcirc;o</ref>
         </refgrp>
       </snc>
-      <trd lng="be">&c_a;&c_h;&c_v;&c_ja;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
-      <trd lng="fr">offrande</trd>
-      <trd lng="hu">&aacute;ldozati <ind>adom&aacute;ny</ind></trd>
-      <trd lng="nl">offergave</trd>
-      <trdgrp lng="pl">
+  <trd lng="be">&c_a;&c_h;&c_v;&c_ja;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>ob&ecaron;tovan&aacute; v&ecaron;c</trd>,
+    <trd>ob&ecaron;&tcaron;</trd>,
+    <trd>&zcaron;ertva</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>offering</trd>,
+    <trd>sacrifice</trd>
+  </trdgrp>
+  <trd lng="fr">offrande</trd>
+  <trd lng="hu">&aacute;ldozati <ind>adom&aacute;ny</ind></trd>
+  <trd lng="nl">offergave</trd>
+  <trdgrp lng="pl">
         <trd>ofiara</trd>,
         <trd>wotum</trd>
       </trdgrp>
-      <trd lng="ru">&c_p;&c_o;&c_zh;&c_je;&c_r;&c_t;&c_v;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
-    </drv>
+  <trd lng="ru">&c_p;&c_o;&c_zh;&c_je;&c_r;&c_t;&c_v;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>obeta <klr>(obetovan&aacute; vec)</klr></trd>,
+    <trd>obe&tcaron;</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="don.sin0a">
       <kap>sin<tld/>a,
@@ -942,40 +1078,45 @@
           <ref cel="dilige.0a">diligenta</ref>
         </refgrp>
       </snc>
-      <trdgrp lng="de">
+  <trd lng="cs">oddan&yacute;</trd>
+  <trdgrp lng="de">
         <trd>hingebungsvoll</trd>,
         <trd>selbstlos</trd>
       </trdgrp>
-      <trdgrp lng="en">
+  <trdgrp lng="en">
         <trd>devoted</trd>,
         <trd>self-sacrificing</trd>,
         <trd>helpful</trd>,
         <trd>generous</trd>,
         <trd>selfless</trd>
       </trdgrp>
-      <trdgrp lng="es">
+  <trdgrp lng="es">
         <trd>altruista</trd>,
         <trd>desinteresado<klr tip="amb"> (en el sentido de no pretender
             sacar provecho)</klr></trd>
       </trdgrp>
-      <trd lng="fr">d&eacute;vou&eacute;</trd>
-      <trdgrp lng="hu">
+  <trd lng="fr">d&eacute;vou&eacute;</trd>
+  <trdgrp lng="hu">
         <trd>odaad&oacute;</trd>,
         <trd>&ouml;nzetlen</trd>
       </trdgrp>
-      <trdgrp lng="nl">
+  <trdgrp lng="nl">
         <trd>dienstvaardig</trd>,
         <trd>opofferingsgezind</trd>
       </trdgrp>
-      <trdgrp lng="pl">
+  <trdgrp lng="pl">
         <trd>oddany</trd>,
         <trd>przywi&aogonek;zany</trd>
       </trdgrp>
-      <trdgrp lng="ru">
+  <trdgrp lng="ru">
         <trd>&c_p;&c_r;&c_je;&c_d;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>,
         <trd>&c_s;&c_a;&c_m;&c_o;&c_o;&c_t;&c_v;&c_je;&c_r;&c_zh;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>obetav&yacute;</trd>,
+    <trd>oddan&yacute;</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="don.sin0o">
       <kap>sin<tld/>o,
@@ -1022,44 +1163,64 @@
           <ref cel="abnega.0o">abnegacio</ref>
         </refgrp>
       </snc>
-      <trd lng="de">Hingabe</trd>
-      <trdgrp lng="en">
+  <trdgrp lng="cs">
+    <trd>n&aacute;klonnost</trd>,
+    <trd>ob&ecaron;tavost</trd>,
+    <trd>oddanost</trd>,
+    <trd>sebeob&ecaron;tavost</trd>
+  </trdgrp>
+  <trd lng="de">Hingabe</trd>
+  <trdgrp lng="en">
         <trd>self-sacrifice</trd>,
         <trd>devotion</trd>,
         <trd>helpfulness</trd>,
         <trd>generosity</trd>,
         <trd>selflessness</trd>
       </trdgrp>
-      <trdgrp lng="es">
+  <trdgrp lng="es">
         <trd>entrega<klr tip="amb"> (desinteresada de uno
             mismo)</klr></trd>,
         <trd>altruismo</trd>
       </trdgrp>
-      <trdgrp lng="fr">
+  <trdgrp lng="fr">
         <trd>d&eacute;vouement</trd>,
         <trd>don de soi</trd>
       </trdgrp>
-      <trdgrp lng="hu">
+  <trdgrp lng="hu">
         <trd>odaad&aacute;s</trd>,
         <trd>&ouml;nzetlens&eacute;g</trd>
       </trdgrp>
-      <trdgrp lng="nl">
+  <trdgrp lng="nl">
         <trd>opoffering</trd>,
         <trd>overgave</trd>,
         <trd>toewijding</trd>
       </trdgrp>
-      <trdgrp lng="pl">
+  <trdgrp lng="pl">
         <trd>oddanie</trd>,
         <trd>przywi&aogonek;zanie</trd>
       </trdgrp>
-      <trdgrp lng="ru">
+  <trdgrp lng="ru">
         <trd>&c_p;&c_r;&c_je;&c_d;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
         <trd>&c_s;&c_a;&c_m;&c_o;&c_o;&c_t;&c_v;&c_je;&c_r;&c_zh;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>n&aacute;klonnos&tcaron;</trd>,
+    <trd>obetavos&tcaron;</trd>,
+    <trd>oddanos&tcaron;</trd>
+  </trdgrp>
+</drv>
   </art>
   <!--
   $Log: don.xml,v $
+  Revision 1.50  2015/10/08 13:10:15  revo
+  Cindy Moon McKee: +trd en
+
+  Revision 1.49  2015/07/04 08:37:32  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.48  2015/06/29 16:29:37  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.47  2013/09/07 01:10:17  revo
   Vito Redsky: kor trd pl+trd ro
 

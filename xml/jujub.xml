@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jujub.xml,v 1.14 2013/04/09 12:10:14 revo Exp $">
+<art mrk="$Id: jujub.xml,v 1.16 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <rad>jujub</rad>/o
 </kap>
@@ -41,9 +41,11 @@
     <trd lng="hu">jujubal&eacute;</trd>
     <trd lng="nl">jujubesap</trd>
   </snc>
+  <trd lng="cs">jujuba</trd>
   <trd lng="en">jujube</trd>
   <trd lng="fr">jujube</trd>
   <trd lng="pt">jujuba</trd>
+  <trd lng="sk">jujuba</trd>
 </drv>
 
 <drv mrk="jujub.0arbo0ujo">
@@ -55,6 +57,7 @@
     </dif>
   </snc>
   <trd lng="ca">ginjoler</trd>
+  <trd lng="cs">cicimek datlový</trd>
   <trdgrp lng="de">
     <trd>Jujubenbaum</trd>,
     <trd>Judendorn</trd>
@@ -75,15 +78,17 @@
     <trd>&c_ju;&c_ju;&c_b;&c_a;</trd>,
     <trd>&c_u;&c_n;&c_a;&c_b;&c_i;</trd>
   </trdgrp>
-  <adm>
-    La vorto "zizifo" ne estas en REVO. Male al la difino
-    en PV, laux PIV2, "jujubo" kaj "zizifo" ne sinonimas.
-    <aut>MB</aut>
-  </adm>
+  <trd lng="sk">jujuba čínska</trd>
 </drv>
 </art>
 <!--
 $Log: jujub.xml,v $
+Revision 1.16  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2013/04/09 12:10:14  revo
 Sebastian Cyprych: +trd pl
 

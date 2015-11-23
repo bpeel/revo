@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klozone.xml,v 1.7 2009/08/30 16:31:54 revo Exp $">
+<art mrk="$Id: klozone.xml,v 1.9 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>klozone</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -19,16 +19,18 @@
       p. 222a</lok></fnt>.
     </ekz>
   </snc>
+  <trd lng="cs">email "cloisonné"</trd>
   <trd lng="de">Cloisonn&eacute;</trd>
   <trdgrp lng="fr">
     <trd>cloisonn&eacute;<klr tip="ind"> (technique de joaillerie)</klr></trd>
   </trdgrp>
   <trd lng="hu">rekeszzom&aacute;nc</trd>
-  <trd lng="nl">cloisonn&eacute;<klr tip="ind"> (zn.)</klr></trd>  
+  <trd lng="nl">cloisonn&eacute;<klr tip="ind"> (zn.)</klr></trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_je;&c_r;&c_je;&c_g;&c_o;&c_r;&c_o;&c_d;&c_ch;&c_a;&c_t;&c_a;&c_ja; &c_e;&c_m;&c_a;&c_l;&c_mol;</trd>,
     <trd>&c_k;&c_l;&c_u;&c_a;&c_z;&c_o;&c_n;&c_je;</trd>
   </trdgrp>
+  <trd lng="sk">email "cloisonné"</trd>
 </drv>
 
 <drv mrk="klozone.0a">
@@ -73,6 +75,12 @@
 </art>
 <!--
 $Log: klozone.xml,v $
+Revision 1.9  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.7  2009/08/30 16:31:54  revo
 Paul Peeraerts: +trd nl
 

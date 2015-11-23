@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kali.xml,v 1.21 2014/06/03 09:10:26 revo Exp $">
+<art mrk="$Id: kali.xml,v 1.23 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>kali</rad>/o
@@ -19,10 +19,14 @@
       metala, vapori&gcirc;ema; oksidi&gcirc;anta en malseka aero.
     </dif>
   </snc>
-  <trd lng="be">&c_k;&c_a;&c_l;&c_ib;&c_j;</trd>  
-  <trd lng="bg">&c_k;&c_a;&c_l;&c_i;&c_j;</trd>   
+  <trd lng="be">&c_k;&c_a;&c_l;&c_ib;&c_j;</trd>
+  <trd lng="bg">&c_k;&c_a;&c_l;&c_i;&c_j;</trd>
   <trd lng="br">potasiom</trd>
   <trd lng="ca">potassi</trd>
+  <trdgrp lng="cs">
+    <trd>draslík</trd>,
+    <trd>kalium</trd>
+  </trdgrp>
   <trd lng="de">Kalium</trd>
   <trd lng="en">potassium</trd>
   <trd lng="es">potasio</trd>
@@ -35,12 +39,19 @@
   <trd lng="pl">potas</trd>
   <trd lng="pt">pot&aacute;ssio</trd>
   <trd lng="ru">&c_k;&c_a;&c_l;&c_i;&c_j;</trd>
+  <trd lng="sk">draslík</trd>
   <trd lng="sv">kalium</trd>
 </drv>
 </art>
 
 <!--
 $Log: kali.xml,v $
+Revision 1.23  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2014/06/03 09:10:26  revo
 Eko Nur Syah Hidayat: +id
 

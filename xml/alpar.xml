@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: alpar.xml,v 1.6 2004/11/02 17:31:56 revo Exp $">
+<art mrk="$Id: alpar.xml,v 1.8 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>alpar</rad>/o
 </kap>
@@ -53,6 +53,12 @@
       <trd>&c_n;&c_o;&c_m;&c_i;&c_n;&c_a;&c_l;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>al pari</trd>,
+    <trd>bankovní parita měny vyjádřená v jiné měně</trd>,
+    <trd>nominální hodnota</trd>
+  </trdgrp>
+  <trd lng="sk">parita meny vyjadrená v inej mene</trd>
 </drv>
 
 <drv mrk="alpar.0e">
@@ -83,6 +89,12 @@
 </art>
 <!--
 $Log: alpar.xml,v $
+Revision 1.8  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2004/11/02 17:31:56  revo
 Dmitri Gabinski: +trd be
 

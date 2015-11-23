@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pedago.xml,v 1.14 2012/08/27 09:10:10 revo Exp $">
+<art mrk="$Id: pedago.xml,v 1.16 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>pedagog</rad>/o
@@ -31,6 +31,10 @@ p. 21a</lok></fnt>.</ekz>
   </snc>
   <trd lng="be">&c_p;&c_e;&c_d;&c_a;&c_g;&c_o;&c_g;</trd>
   <trd lng="ca">pedagog, educador</trd>
+  <trdgrp lng="cs">
+    <trd>pedagog</trd>,
+    <trd>vychovatel</trd>
+  </trdgrp>
   <trd lng="en">pedagogue</trd>
   <trdgrp lng="fr">
     <trd>p&eacute;dagogue</trd>
@@ -46,6 +50,10 @@ p. 21a</lok></fnt>.</ekz>
   <trd lng="pl">pedagog</trd>
   <trd lng="pt">pedagogo</trd>
   <trd lng="ru">&c_p;&c_je;&c_d;&c_a;&c_g;&c_o;&c_g;</trd>
+  <trdgrp lng="sk">
+    <trd>pedagóg</trd>,
+    <trd>vychovávateľ</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pedago.0a">
@@ -60,6 +68,7 @@ p. 21a</lok></fnt>.</ekz>
   </snc>
   <trd lng="be">&c_p;&c_e;&c_d;&c_a;&c_g;&c_a;&c_g;&c_ib;&c_ch;&c_n;&c_y;</trd>
   <trd lng="ca">pedagogia</trd>
+  <trd lng="cs">vychovatelský</trd>
   <trd lng="de">p&auml;dagogisch</trd>
   <trd lng="en">pedagogical</trd>
   <trdgrp lng="fr">
@@ -68,10 +77,17 @@ p. 21a</lok></fnt>.</ekz>
   <trd lng="nl">pedagogisch</trd>
   <trd lng="pl">pedagogiczny</trd>
   <trd lng="ru">&c_p;&c_je;&c_d;&c_a;&c_g;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">pedagogický</trd>
 </drv>
 </art>
 <!--
 $Log: pedago.xml,v $
+Revision 1.16  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2012/08/27 09:10:10  revo
 Sebastian Cyprych: +trd pl
 

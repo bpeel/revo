@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eskort.xml,v 1.15 2010/08/17 16:30:28 revo Exp $">
+<art mrk="$Id: eskort.xml,v 1.17 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>eskort</rad>/i
@@ -26,6 +26,7 @@
   </trdgrp>
   <trd
   lng="bg">&c_je;&c_s;&c_k;&c_o;&c_r;&c_t;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trd lng="cs">eskortovat</trd>
   <trdgrp lng="de">
     <trd>eskortieren</trd>,
     <trd>geleiten</trd>,
@@ -49,6 +50,7 @@
     <trd>&c_k;&c_o;&c_n;&c_v;&c_o;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">eskortovať</trd>
 </drv>
 
 <drv mrk="eskort.0o">
@@ -73,6 +75,11 @@
     <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
   </trdgrp>
   <trd lng="bg">&c_je;&c_s;&c_k;&c_o;&c_r;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>eskorta</trd>,
+    <trd>ochranný doprovod</trd>,
+    <trd>ozbrojený ochranný průvod</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Eskorte</trd>,
     <trd>Begleitschutz [aviadiloj]</trd>,
@@ -91,11 +98,18 @@
     <trd>&c_e;&c_s;&c_k;&c_o;&c_r;&c_t;</trd>,
     <trd>&c_k;&c_o;&c_n;&c_v;&c_o;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">ozbrojený ochranný sprievod</trd>
 </drv>
 </art>
 
 <!--
 $Log: eskort.xml,v $
+Revision 1.17  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2010/08/17 16:30:28  revo
 Behnam Tabatabai: +trd fa
 

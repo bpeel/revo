@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pork.xml,v 1.27 2014/06/02 15:10:23 revo Exp $">
+<art mrk="$Id: pork.xml,v 1.32 2015/10/24 17:10:16 revo Exp $">
   <kap>
     <ofc>*</ofc>
     <rad>pork</rad>/o
@@ -44,6 +44,7 @@
         </ekz>
       </dif>
       <ref tip="sub" cel="apr.0o.ZOO">apro</ref>
+      </snc>
       <trdgrp lng="be">
         <trd>&c_k;&c_a;&c_b;&c_a;&c_n;</trd>,
         <trd>&c_p;&c_a;&c_r;&c_s;&c_ju;&c_k;</trd>,
@@ -61,6 +62,7 @@
       <trd lng="de">Schwein</trd>
       <trd lng="fr">porc</trd>
       <trd lng="en">pig</trd>
+      <trd lng="es">cerdo<klr tip="amb"> (animal)</klr></trd>
       <trdgrp lng="hu">
         <trd>sert&eacute;s</trd>,
         <trd>diszn&oacute;</trd>
@@ -82,20 +84,26 @@
       </trdgrp>
       <trd lng="tr">domuz</trd>
       <trd lng="vo">svin</trd>
-    </snc>
-  </drv>
+      <trd lng="cs">vep&rcaron;, prase</trd>
+      <trdgrp lng="sk">
+        <trd>o&scaron;&iacute;pan&aacute;</trd>,
+        <trd>prasa</trd>
+      </trdgrp>
+</drv>
 
   <drv mrk="pork.vir0o">
     <kap>
       vir<tld/>o
     </kap>
-    <uzo tip="fak">ZOO</uzo>
     <snc mrk="pork.vir0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
       <dif>
         Virseksa <tld/>o.
       </dif>
     </snc>
     <trd lng="ca">verro</trd>
+    <trd lng="en">boar</trd>
+    <trd lng="fr">verrat</trd>
     <trdgrp lng="pl">
       <trd>knur <klr>(rozp&lstroke;odowy)</klr></trd>,
       <trd>wieprz <klr>(wykastrowany)</klr></trd>
@@ -106,37 +114,41 @@
     <kap>
       <tld/>ino
     </kap>
-    <uzo tip="fak">ZOO</uzo>
     <snc mrk="pork.0ino.ZOO">
+    <uzo tip="fak">ZOO</uzo>
       <dif>
         Inseksa <tld/>o.
       </dif>
+    </snc>
       <trd lng="ca">truja</trd>
+      <trd lng="en">sow</trd>
+      <trd lng="fr">truie</trd>
       <trdgrp lng="pl">
         <trd>locha</trd>,
         <trd>maciora</trd>
       </trdgrp>
-    </snc>
   </drv>
 
   <drv mrk="pork.0ido">
     <kap>
       <tld/>ido
     </kap>
-    <uzo tip="fak">ZOO</uzo>
     <snc mrk="pork.0ido.ZOO">
+    <uzo tip="fak">ZOO</uzo>
       <dif>
         Ido de <tld/>o.
       </dif>
+    </snc>
       <trdgrp lng="ca">
         <trd>porcell</trd>,
         <trd>garr&iacute;</trd>
       </trdgrp>
+      <trd lng="en">piglet</trd>
+      <trd lng="fr">porcelet</trd>
       <trdgrp lng="pl">
         <trd>warchlak</trd>
         <trd>prosi&eogonek;</trd>
       </trdgrp>
-    </snc>
   </drv>
 
   <drv mrk="pork.0ajxo">
@@ -149,6 +161,8 @@
         Viando de <tld/>o.
       </dif>
       <trd lng="ca">carn de porc</trd>
+      <trd lng="en">pork</trd>
+      <trd lng="fr">porc<klr> (viande)</klr></trd>
       <trd lng="pl">wieprzowina</trd>
     </snc>
   </drv>
@@ -156,6 +170,21 @@
 </art>
 <!--
 $Log: pork.xml,v $
+Revision 1.32  2015/10/24 17:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.31  2015/09/02 19:10:15  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.30  2015/08/21 12:10:27  revo
+Damien Brucker: +trd fr
+
+Revision 1.29  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.27  2014/06/02 15:10:23  revo
 Eko Nur Syah Hidayat: +id
 
@@ -163,20 +192,5 @@ Revision 1.26  2013/09/03 18:10:18  revo
 Wolfram Diestel: kor. PrV ekz
 
 Revision 1.25  2013/09/03 17:10:33  revo
-Wolfram Diestel: referenco al listo zoo genroj
-
-Revision 1.24  2012/08/02 09:10:22  revo
-Marc Rausell: + trd ca
-
-Revision 1.23  2011/06/03 06:10:18  revo
-Sebastian Cyprych: +vir~o + ~ino +~ido +~ajxo +trd pl
-
-Revision 1.22  2009/10/27 17:30:26  revo
-Paul Peeraerts: +nl
-
-Revision 1.21  2007/11/25 17:30:31  revo
-Wieland Pusch: +trd bg
-
-Revision 1.20  2006/05/30 18:09:24  revo
 -->
 </vortaro>

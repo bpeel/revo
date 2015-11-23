@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: datum.xml,v 1.20 2013/09/06 20:10:12 revo Exp $">
+<art mrk="$Id: datum.xml,v 1.22 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>datum</rad>/o <fnt><bib>SPIV</bib></fnt>
 </kap>
@@ -131,6 +131,10 @@
       per <tld/>baz-manipulilo (DBM).
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>databáze</trd>,
+    <trd>soubor dat</trd>
+  </trdgrp>
   <trd lng="de">Datenbank</trd>
   <trd lng="en">data base</trd>
   <trd lng="es">base de <ind>datos</ind></trd>
@@ -139,6 +143,7 @@
   <trd lng="hu">adatb&aacute;zis</trd>
   <trd lng="pl">baza <ind>danych</ind></trd>
   <trd lng="ru">&c_b;&c_a;&c_z;&c_a; &c_d;&c_a;&c_n;&c_n;&c_y;&c_h;</trd>
+  <trd lng="sk">databáza</trd>
   <trd lng="sv">databas</trd>
 </drv>
 
@@ -183,6 +188,7 @@
       disko. 
     </dif>
   </snc>
+  <trd lng="cs">datový nosič</trd>
   <trd lng="de">Datentr&auml;ger</trd>
   <trdgrp lng="en">
     <trd>data medium</trd>,
@@ -195,6 +201,7 @@
   <trd lng="hu">adathordoz&oacute;</trd>
   <trd lng="pl">no&sacute;nik <ind>danych</ind></trd>
   <trd lng="ru">&c_n;&c_o;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol; &c_d;&c_a;&c_n;&c_n;&c_y;&c_h;</trd>
+  <trd lng="sk">dátový nosič</trd>
 </drv>
 
 <drv mrk="datum.0strukturo">
@@ -227,6 +234,12 @@
 </art>
 <!--
 $Log: datum.xml,v $
+Revision 1.22  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2013/09/06 20:10:12  revo
 Vito Redsky: kor trd pl
 

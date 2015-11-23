@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bil.xml,v 1.13 2009/07/05 16:40:24 revo Exp $">
+<art mrk="$Id: bil.xml,v 1.16 2015/07/04 08:37:31 revo Exp $">
   <kap>
     <rad>bil</rad>/o
     <fnt>Z</fnt>
@@ -10,8 +10,8 @@
   
   <drv mrk="bil.0o">
     <kap><tld/>o</kap>
-    <uzo tip="fak">EKON</uzo>
     <snc>
+    <uzo tip="fak">EKON</uzo>
       <dif>
         Rajto pri kapitalo, kutime negocebla en la borso; valorpapero.  
       </dif>
@@ -28,6 +28,7 @@
        <trd>negotiable security</trd>,
        <trd>negotiable document of value</trd>,
        <trd>negotiable instrument</trd></trdgrp>
+    <trd lng="fr">titre<klr> (boursier)</klr></trd>
     <trd lng="hu">&eacute;rt&eacute;kpap&iacute;r</trd>
     <trdgrp lng="nl">
       <trd>effect<klr tip="ind"> (fin.)</klr></trd>,
@@ -36,25 +37,42 @@
     <trd lng="pl">papier warto&sacute;ciowy</trd>
     <trd lng="ru">&c_c;&c_je;&c_n;&c_n;&c_a;&c_ja;
     &c_b;&c_u;&c_m;&c_a;&c_g;&c_a;</trd>
-  </drv>
+    <trd lng="sk">burzový cenný papier</trd>
+  <trdgrp lng="cs">
+    <trd>cenný papír</trd>,
+    <trd>směnka</trd>
+  </trdgrp>
+</drv>
   
   <drv mrk="bil.0borso">
     <kap><tld/>oborso</kap>
-    <uzo tip="fak">EKON</uzo>
     <snc>
+    <uzo tip="fak">EKON</uzo>
       <dif>
         Loko, kie oni negocas <tld/>ojn.  
       </dif>
     </snc>
-    <trd lng="be">&c_f;&c_o;&c_n;&c_d;&c_a;&c_v;&c_a;&c_ja;
+  <trd lng="be">&c_f;&c_o;&c_n;&c_d;&c_a;&c_v;&c_a;&c_ja;
     &c_b;&c_ib;&c_r;&c_zh;&c_a;</trd>
-    <trd lng="de">Effektenb&ouml;rse</trd>
-    <trd lng="hu">&eacute;rt&eacute;kt&odblac;zsde</trd>
-    <trd lng="nl">effectenbeurs</trd>
-  </drv>
+  <trd lng="cs">burza cenných papírů</trd>
+  <trd lng="de">Effektenb&ouml;rse</trd>
+  <trd lng="fr">march&eacute; des titres</trd>
+  <trd lng="hu">&eacute;rt&eacute;kt&odblac;zsde</trd>
+  <trd lng="nl">effectenbeurs</trd>
+  <trd lng="sk">burza cenných papierov</trd>
+</drv>
 </art>
 <!--
 $Log: bil.xml,v $
+Revision 1.16  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2015/04/17 15:10:17  revo
+Damien Brucker: +trd fr
+
 Revision 1.13  2009/07/05 16:40:24  revo
 Paul Peeraerts: +trd nl
 
@@ -74,8 +92,5 @@ Revision 1.8  2001/04/28 19:14:51  revo
 Paul Peeraerts: ald trd nl - adapto dif la&ubreve; IKEV - ald ~oborso
 
 Revision 1.7  2001/02/03 10:21:06  revo
-Ulrich Fellmann: korekto de la XML-indiko (la angla havis la indikon de)
-
-Revision 1.6  2001/02/02 17:20:09  revo
 -->
 </vortaro>

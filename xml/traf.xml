@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: traf.xml,v 1.15 2014/02/11 02:10:21 revo Exp $">
+<art mrk="$Id: traf.xml,v 1.17 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>traf</rad>/i
@@ -202,6 +202,17 @@
     </trdgrp>
     <trd lng="ru">&c_p;&c_o;&c_p;&c_a;&c_s;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dopadnout</trd>,
+    <trd>narazit</trd>,
+    <trd>potkat</trd>,
+    <trd>přistihnout</trd>,
+    <trd>stihnout</trd>,
+    <trd>strefovat se</trd>,
+    <trd>trefit</trd>,
+    <trd>trefovat se</trd>,
+    <trd>zasáhnout</trd>
+  </trdgrp>
   <trd lng="de">treffen</trd>
   <trd lng="en">strike</trd>
   <trdgrp lng="nl">
@@ -209,6 +220,12 @@
     <trd>treffen</trd>,
     <trd>halen<klr> (v.e.trein)</klr></trd>,
     <trd>terecht komen</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>postihnúť</trd>,
+    <trd>trafiť</trd>,
+    <trd>uhádnuť</trd>,
+    <trd>zasiahnuť</trd>
   </trdgrp>
 </drv>
 
@@ -222,6 +239,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>pádný</trd>,
+    <trd>přiléhavý</trd>,
+    <trd>trefný</trd>
+  </trdgrp>
   <trd lng="de">treffend</trd>
   <trdgrp lng="es">
     <trd>acertado</trd>,
@@ -229,7 +251,7 @@
     <trd>atinado</trd>,
     <trd>atinada</trd>
   </trdgrp>
-  <trd lng="hu">tal&aacute;l&oacute;</trd>  
+  <trd lng="hu">tal&aacute;l&oacute;</trd>
   <trd lng="nl">treffend</trd>
   <trdgrp lng="pl">
     <trd>trafny</trd>,
@@ -239,6 +261,11 @@
     <trd>&c_m;&c_je;&c_t;&c_k;&c_i;&c_j;</trd>,
     <trd>&c_u;&c_d;&c_a;&c_ch;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_t;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>priliehavý</trd>,
+    <trd>pádny</trd>,
+    <trd>výstižný</trd>
   </trdgrp>
 </drv>
 
@@ -256,8 +283,15 @@
       <em><tld/>e mal<tld/>e</em><sup>Z</sup>,
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>pádně</trd>,
+    <trd>případně</trd>,
+    <trd>trefně</trd>,
+    <trd>vhodně</trd>,
+    <trd>výstižně</trd>
+  </trdgrp>
   <trd lng="de">treffend</trd>
-  <trd lng="hu">tal&aacute;l&oacute;an</trd>  
+  <trd lng="hu">tal&aacute;l&oacute;an</trd>
   <trd lng="nl">juist</trd>
   <trdgrp lng="pl">
     <trd>trafnie</trd>,
@@ -268,6 +302,11 @@
     <trd>&c_u;&c_d;&c_a;&c_ch;&c_n;&c_o;</trd>,
     <trd>&c_t;&c_o;&c_ch;&c_n;&c_o;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>priliehavo</trd>,
+    <trd>vhodne</trd>,
+    <trd>výstižne</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="traf.0prove">
@@ -277,10 +316,15 @@
       La&ubreve;hazarde, la&ubreve;&scirc;ance, blinde je l' <tld/>o.
     </dif>
   </snc>
-  <trd lng="hu">tal&aacute;lomra</trd>  
+  <trd lng="cs">namátkou</trd>
+  <trd lng="hu">tal&aacute;lomra</trd>
   <trd lng="nl">lukraak</trd>
   <trd lng="pl">na <ind>chybi&lstroke;-trafi&lstroke;</ind></trd>
   <trd lng="ru">&c_n;&c_a;&c_u;&c_g;&c_a;&c_d;</trd>
+  <trdgrp lng="sk">
+    <trd>náhodne</trd>,
+    <trd>námatkou</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="traf.mal0i">
@@ -306,13 +350,23 @@
       <ref cel="har">lipharo</ref>..
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>chybit <klr>(cíl)</klr></trd>,
+    <trd>chybovat</trd>,
+    <trd>minout</trd>,
+    <trd>míjet</trd>,
+    <trd>nezastihnout</trd>,
+    <trd>promeškat</trd>,
+    <trd>propást</trd>,
+    <trd>zmeškat</trd>
+  </trdgrp>
+  <trd lng="de">verpassen</trd>
+  <trd lng="es">errar</trd>
   <trdgrp lng="fr">
     <trd>&eacute;chouer</trd>,
     <trd>rater</trd>,
     <trd>manquer</trd>
   </trdgrp>
-  <trd lng="de">verpassen</trd>
-  <trd lng="es">errar</trd>
   <trdgrp lng="hu">
     <trd>elv&eacute;t</trd>,
     <trd>mell&eacute;tal&aacute;l</trd>
@@ -323,6 +377,11 @@
     <trd>spud&lstroke;owa&cacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_m;&c_a;&c_z;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>chybiť</trd>,
+    <trd>netrafiť</trd>,
+    <trd>nezasiahnuť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="traf.0povo">
@@ -333,6 +392,11 @@
       pafilo.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dostřel</trd>,
+    <trd>možnost dostihnutí</trd>,
+    <trd>možnost zásahu</trd>
+  </trdgrp>
   <trd lng="de">Reichweite</trd>
   <trd lng="es">capacidad de <ind>alcance</ind></trd>
   <trdgrp lng="hu">
@@ -345,10 +409,17 @@
   </trdgrp>
   <trd
   lng="ru">&c_d;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_b;&c_o;&c_j;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">dostrel</trd>
 </drv>
 </art>
 <!--
 $Log: traf.xml,v $
+Revision 1.17  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2014/02/11 02:10:21  revo
 Carlos Garcia: trd+ es -i -a mal-i -povo
 

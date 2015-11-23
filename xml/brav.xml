@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: brav.xml,v 1.26 2014/01/09 02:10:17 revo Exp $">
+<art mrk="$Id: brav.xml,v 1.29 2015/10/06 11:10:15 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>brav</rad>/a <fnt><bib>PV</bib></fnt>
@@ -49,6 +49,10 @@
        <trd>dziarski</trd>,
        <trd>bitny</trd>,
        <trd>waleczny</trd>
+     </trdgrp>
+     <trdgrp lng="pt">
+       <trd>bravo</trd>,
+       <trd>valente</trd>
      </trdgrp>
      <trdgrp lng="ru">
        <trd>&c_h;&c_r;&c_a;&c_b;&c_r;&c_y;&c_j;</trd>,
@@ -108,17 +112,30 @@
      <trd lng="de">g&uuml;tig</trd>
      <trd lng="hu">rendes</trd>
    </snc>
-   <trdgrp lng="en">
+  <trdgrp lng="cs">
+    <trd>chrabr&yacute;</trd>,
+    <trd>state&ccaron;n&yacute;</trd>,
+    <trd>udatn&yacute;</trd>,
+    <trd>&rcaron;&aacute;dn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
      <trd>worthy</trd>,
      <trd>valiant</trd>,
      <trd>gallant</trd>,
      <trd>brave</trd>
    </trdgrp>
-   <trdgrp lng="fr">
+  <trdgrp lng="fr">
      <trd>brave</trd>,
      <trd>courageux</trd>
    </trdgrp>
-   <trd lng="sk">odv&aacute;&zcaron;ny</trd>
+  <trdgrp lng="sk">
+    <trd>chrabr&yacute;</trd>,
+    <trd>ochotn&yacute;</trd>,
+    <trd>odv&aacute;&zcaron;ny</trd>,
+    <trd>stato&ccaron;n&yacute;</trd>,
+    <trd>udatn&yacute;</trd>,
+    <trd>&ccaron;estn&yacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="brav.0e">
@@ -182,6 +199,8 @@
      <trd lng="pl">brawo!</trd>
      <trd lng="ru">&c_b;&c_r;&c_a;&c_v;&c_o;!</trd>
    </snc>
+  <trd lng="cs">state&ccaron;n&ecaron;</trd>
+  <trd lng="sk">stato&ccaron;ne</trd>
 </drv>
 
 <drv mrk="brav.0acxa">
@@ -262,7 +281,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">state&ccaron;nost</trd>
   <trd lng="fr">bravoure</trd>
+  <trd lng="sk">stato&ccaron;nos&tcaron;</trd>
 </drv>
 
 <drv mrk="brav.0ulo">
@@ -279,11 +300,18 @@
        </ekz>
      </dif>
    </snc>
-   <trdgrp lng="be">
+  <trdgrp lng="be">
      <trd>&c_h;&c_r;&c_a;&c_b;&c_r;&c_e;&c_c;</trd>,
      <trd>&c_m;&c_a;&c_l;&c_a;&c_d;&c_z;&c_je;&c_c;</trd>
    </trdgrp>
-   <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>chlap&iacute;k</trd>,
+    <trd>frajer</trd>,
+    <trd>hrdina</trd>,
+    <trd>kabr&ncaron;&aacute;k</trd>,
+    <trd>sek&aacute;&ccaron;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
      <trd>Held</trd>,
      <trd>tapferer <ind>Kerl</ind></trd>,
      <trd>wackerer <ind>Mann</ind></trd>,
@@ -293,17 +321,21 @@
      <trd>t&uuml;chtiger <ind>Bursche</ind></trd>,
      <trd>g&uuml;tiger <ind>Mensch</ind></trd>
    </trdgrp>
-   <trd lng="es">valiente <klr>(persona de sexo masculino)</klr></trd>
-   <trd lng="fr">brave</trd>
-   <trdgrp lng="pl">
+  <trd lng="es">valiente <klr>(persona de sexo masculino)</klr></trd>
+  <trd lng="fr">brave</trd>
+  <trdgrp lng="pl">
      <trd>chwat</trd>,
      <trd>zuch</trd>,
      <trd>junak<klr> (przest.)</klr></trd>
    </trdgrp>
-   <trdgrp lng="ru">
+  <trdgrp lng="ru">
      <trd>&c_m;&c_o;&c_l;&c_o;&c_d;&c_je;&c_c;</trd>,
      <trd>&c_h;&c_r;&c_a;&c_b;&c_r;&c_je;&c_c;</trd>
    </trdgrp>
+  <trdgrp lng="sk">
+    <trd>sek&aacute;&ccaron;</trd>,
+    <trd>&scaron;vih&aacute;k</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="brav.0ulino">
@@ -340,6 +372,15 @@
 </art>
 <!--
 $Log: brav.xml,v $
+Revision 1.29  2015/10/06 11:10:15  revo
+Evandro Avellar: +trd pt
+
+Revision 1.28  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2014/01/09 02:10:17  revo
 Jeromo Vasxe: + ~eco
 
@@ -353,14 +394,5 @@ Revision 1.23  2009/03/26 17:30:38  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.22  2008/11/16 17:30:51  revo
-Wieland Pusch: entoj por unikodo
-
-Revision 1.21  2008/11/01 17:30:50  revo
-Russ Williams: +trd en
-
-Revision 1.20  2005/05/08 16:31:17  revo
-Yury Finkel: +trd ru, kor tajperaron en trd ru
-
-Revision 1.19  2004/11/20 20:07:51  revo
 -->
 </vortaro>

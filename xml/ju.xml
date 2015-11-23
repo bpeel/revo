@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ju.xml,v 1.19 2013/04/27 15:10:10 revo Exp $">
+<art mrk="$Id: ju.xml,v 1.20 2015/08/24 12:10:15 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>ju</rad></kap>
@@ -28,6 +28,8 @@ kritiko<fnt><bib>PrV</bib></fnt>;</ekz>
 </trdgrp>
 <trd lng="de">je <klr tip="amb">[... desto]</klr></trd>
 <trd lng="en">the (more, less)</trd>
+<trd lng="es">cuanto (m&aacute;s, menos, mayor, menor)<klr tip="amb">
+(comparativo)</klr></trd>
 <trd lng="he">&kaf;&kaf;&lamed; &shin;-</trd>
 <trd lng="hu">min&eacute;l<klr tip="ind"> (pl. ink&aacute;bb)</klr></trd>
 <trd lng="nl">hoe ...</trd>
@@ -39,6 +41,9 @@ kritiko<fnt><bib>PrV</bib></fnt>;</ekz>
 </art>
 <!--
 $Log: ju.xml,v $
+Revision 1.20  2015/08/24 12:10:15  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.19  2013/04/27 15:10:10  revo
 Norbert Luckhardt: +klr trd(de)
 
@@ -58,8 +63,5 @@ Revision 1.14  2007/04/19 16:31:10  revo
 Tulio Flores: +tr pt
 
 Revision 1.13  2005/04/06 16:36:14  revo
-Alan ar Gall: +trd br
-
-Revision 1.12  2003/04/28 16:32:24  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: levrel.xml,v 1.7 2009/10/06 16:44:55 revo Exp $">
+<art mrk="$Id: levrel.xml,v 1.9 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>levrel</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -21,6 +21,11 @@
   </snc>
   <trd lng="be">&c_g;&c_a;&c_n;&c_ch;&c_a;&c_k;</trd>
   <trd lng="ca">llebrer</trd>
+  <trdgrp lng="cs">
+    <trd>chrt</trd>,
+    <trd>lovecký pes</trd>,
+    <trd>ohař</trd>
+  </trdgrp>
   <trd lng="de">Windhund</trd>
   <trd lng="es">perro lebrel</trd>
   <trd lng="fr">l&eacute;vrier</trd>
@@ -30,11 +35,18 @@
     <trd>galgo</trd>,
     <trd>lebr&eacute;u</trd>
   </trdgrp>
+  <trd lng="sk">chrt</trd>
 </drv>
 </art>
 
 <!--
 $Log: levrel.xml,v $
+Revision 1.9  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.7  2009/10/06 16:44:55  revo
 Paul Peeraerts: +nl
 

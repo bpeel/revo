@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trat.xml,v 1.15 2010/05/27 16:30:37 revo Exp $">
+<art mrk="$Id: trat.xml,v 1.17 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <rad>trat</rad>/o
   <fnt>Z</fnt>
@@ -17,6 +17,7 @@
       monsumon la&ubreve; ordono de tria persono, nomata prenanto.
     </dif>
   </snc>
+  <trd lng="cs">trata</trd>
   <trdgrp lng="de">
     <trd>Tratte</trd>,
     <trd>gezogener <ind>Wechsel</ind></trd>
@@ -40,6 +41,7 @@
     <trd>&c_t;&c_r;&c_a;&c_t;&c_t;&c_a;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;&c_n;&c_o;&c_j; &c_v;&c_je;&c_k;&c_s;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">trata</trd>
 </drv>
 
 <drv mrk="trat.0i">
@@ -49,17 +51,25 @@
       Fari <tld/>on.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>tratovat směnku</trd>,
+    <trd>vystavit směnku</trd>
+  </trdgrp>
   <trd lng="de">einen <ind>Wechsel</ind> ziehen</trd>
+  <trd lng="es">tratar, hacer un trato<klr tip="amb"> (entorno
+  comercial)</klr></trd>
   <trdgrp lng="hu">
     <trd>int&eacute;zv&eacute;nyez</trd>,
     <trd>v&aacute;lt&oacute;t kibocs&aacute;t</trd>
   </trdgrp>
-  <trd lng="es">tratar, hacer un trato<klr tip="amb"> (entorno
-  comercial)</klr></trd>
   <trd lng="nl">trekken<klr tip="ind"> (een wissel)</klr></trd>
   <trd lng="pl">wystawia&cacute; weksel</trd>
   <trd lng="pt">sacar</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol; &c_v;&c_je;&c_k;&c_s;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>tratu</trd>,
+    <trd>vystaviť cudziu zmenku</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="trat.0anto">
@@ -69,6 +79,7 @@
       Tiu, kiu <tld/>as la kambion.
     </dif>
   </snc>
+  <trd lng="cs">směnkovatel</trd>
   <trdgrp lng="de">
     <trd>Trassant</trd>,
     <trd>Aussteller einer <ind>Tratte</ind></trd>
@@ -88,6 +99,10 @@
     <trd>&c_v;&c_je;&c_k;&c_s;&c_je;&c_l;&c_je;&c_d;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_t;&c_r;&c_a;&c_s;&c_s;&c_a;&c_n;&c_t;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>trasant</trd>,
+    <trd>zmenkovateľ</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="trat.0ato">
@@ -101,6 +116,7 @@
       <ref cel="rimes.0o">rimeso</ref>.
     </refgrp>
   </snc>
+  <trd lng="cs">směnečník</trd>
   <trdgrp lng="de">
     <trd>Trassat</trd>,
     <trd>Bezogener</trd>
@@ -119,10 +135,21 @@
     <trd>&c_p;&c_l;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_shch;&c_i;&c_k;</trd>,
     <trd>&c_t;&c_r;&c_a;&c_s;&c_s;&c_a;&c_t;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>trasát</trd>,
+    <trd>zmenečník</trd>,
+    <trd>zmenkovník</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: trat.xml,v $
+Revision 1.17  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2010/05/27 16:30:37  revo
 Agustin Garcia Lopez: +trd es
 

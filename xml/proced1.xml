@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: proced1.xml,v 1.17 2013/01/14 10:10:09 revo Exp $">
+<art mrk="$Id: proced1.xml,v 1.19 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>procedur</rad>/o
@@ -43,6 +43,10 @@
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_e;&c_d;&c_u;&c_r;&c_a;</trd>
   <trd lng="ca">procediment</trd>
+  <trdgrp lng="cs">
+    <trd>podprogram</trd>,
+    <trd>standardní průběh</trd>
+  </trdgrp>
   <trd lng="de">Prozedur</trd>
   <trdgrp lng="fr">
     <trd>proc&eacute;dure</trd>
@@ -51,10 +55,20 @@
   <trd lng="pl">procedura</trd>
   <trd lng="pt">procedimento</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_c;&c_je;&c_d;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>podprogram</trd>,
+    <trd>štandardný priebeh</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: proced1.xml,v $
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/01/14 10:10:09  revo
 Jozefo Horvath: kor. tr hu
 

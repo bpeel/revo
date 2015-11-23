@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kompre.xml,v 1.34 2014/06/10 04:10:22 revo Exp $">
+<art mrk="$Id: kompre.xml,v 1.36 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kompren</rad>/i
@@ -206,7 +206,15 @@
     <trd>&c_r;&c_a;&c_z;&c_u;&c_m;&c_je;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_r;&c_a;&c_z;&c_u;&c_m;&c_je;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="cs">rozum&ecaron;t</trd>
+  <trdgrp lng="cs">
+    <trd>chápat</trd>,
+    <trd>kapírovat</trd>,
+    <trd>pochopit</trd>,
+    <trd>porozumět</trd>,
+    <trd>rozum&ecaron;t</trd>,
+    <trd>rozumět</trd>,
+    <trd>vyrozumět</trd>
+  </trdgrp>
   <trd lng="en">understand</trd>
   <trdgrp lng="es">
     <trd>entender</trd>,
@@ -233,6 +241,11 @@
     <trd>&c_p;&c_o;&c_n;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chápať</trd>,
+    <trd>pochopiť</trd>,
+    <trd>rozumieť</trd>
+  </trdgrp>
   <trdgrp lng="sv">
     <trd>f&ouml;rst&aring;</trd>,
     <trd>begripa</trd>
@@ -256,6 +269,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>chápání</trd>,
+    <trd>komprehenze</trd>,
+    <trd>pochopení</trd>,
+    <trd>porozumění</trd>
+  </trdgrp>
   <trd lng="de">Verst&auml;ndnis</trd>
   <trd lng="es">comprensi&oacute;n</trd>
   <trdgrp lng="fr">
@@ -267,6 +286,10 @@
   <trd lng="hu">meg&eacute;rt&eacute;s</trd>
   <trd lng="nl">begrip</trd>
   <trd lng="ru">&c_p;&c_o;&c_n;&c_i;&c_m;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>pochopenie</trd>,
+    <trd>porozumenie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kompre.0ajxo">
@@ -313,6 +336,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>pochopitelný</trd>,
+    <trd>samozřejmý</trd>,
+    <trd>srozumitelný</trd>
+  </trdgrp>
   <trd lng="de">verst&auml;ndlich</trd>
   <trdgrp lng="es">
 	<trd>comprensible</trd>,
@@ -334,6 +362,11 @@
     <trd>doorzichtig<klr tip="ind"> (begrijpelijk)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_n;&c_ja;&c_t;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>pochopiteľný</trd>,
+    <trd>zrejmý</trd>,
+    <trd>zrozumiteľný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kompre.0eble">
@@ -407,6 +440,17 @@
       <trd>&c_s;&c_a;&c_m;&c_o; &c_s;&c_o;&c_b;&c_o;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>pochopitelně</trd>,
+    <trd>samozřejmě</trd>,
+    <trd>srozumitelně</trd>,
+    <trd>zajisté</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pochopiteľne</trd>,
+    <trd>samozrejme</trd>,
+    <trd>zrozumiteľne</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kompre.0ema">
@@ -623,6 +667,11 @@
       <trd>&c_s;&c_n;&c_i;&c_s;&c_h;&c_o;&c_d;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>chápavost</trd>,
+    <trd>komprehenzivnost</trd>
+  </trdgrp>
+  <trd lng="sk">chápavosť</trd>
 </drv>
 
 <drv mrk="kompre.0eti">
@@ -649,6 +698,7 @@
       <ref cel="diven.0i">diveni</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">domýšlet se</trd>
   <trd lng="de">ahnen</trd>
   <trdgrp lng="fr">
     <trd>comprendre confus&eacute;ment</trd>,
@@ -671,6 +721,7 @@
     <trd>&c_n;&c_a;&c_ch;&c_i;&c_n;&c_a;&c_t;&c_mol; <ind>&c_p;&c_o;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;</ind></trd>,
     <trd>&c_d;&c_o;&c_g;&c_a;&c_d;&c_y;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trd lng="sk">domýšľať si</trd>
 </drv>
 
 <drv mrk="kompre.0igi">
@@ -701,6 +752,11 @@
     <trd>&c_r;&c_a;&c_s;&c_t;&c_l;&c_u;&c_m;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_t;&c_l;&c_u;&c_m;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>objasňovat</trd>,
+    <trd>vysvětlit</trd>,
+    <trd>vysvětlovat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>verst&auml;ndlich machen</trd>,
     <trd>begreiflich machen</trd>,
@@ -719,6 +775,10 @@
     <trd>&c_o;&c_b;&c_malmol;&c_ja;&c_s;&c_n;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_malmol;&c_ja;&c_s;&c_n;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_t;&c_o;&c_l;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>objasňovať</trd>,
+    <trd>vysvetliť</trd>
   </trdgrp>
 </drv>
 
@@ -889,6 +949,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>pochopit</trd>,
+    <trd>porozumět <klr>(něčemu)</klr></trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>empezar a <ind>entender</ind></trd>,
     <trd>entrever</trd>,
@@ -909,6 +973,10 @@
     <trd>&c_n;&c_a;&c_ch;&c_a;&c_t;&c_mol; <ind>&c_p;&c_o;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;</ind></trd>,
     <trd>&c_d;&c_o;&c_g;&c_a;&c_d;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_o;&c_s;&c_o;&c_z;&c_n;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dovtípiť sa</trd>,
+    <trd>porozumieť</trd>
   </trdgrp>
 </drv>
 
@@ -972,14 +1040,16 @@
       rikolto</lok></fnt>.
     </ekz>
   </snc>
+  <trd lng="cs">nedorozumění</trd>
   <trd lng="fr">incompr&eacute;hension</trd>
   <trdgrp lng="hu">
     <trd>meg nem <ind>&eacute;rt&eacute;s</ind></trd>,
     <trd>&eacute;rtetlens&eacute;g</trd>
   </trdgrp>
   <trd lng="id">ketidak<ind>paham</ind>an</trd>
-    <trd lng="nl">onbegrip</trd>
+  <trd lng="nl">onbegrip</trd>
   <trd lng="ru">&c_n;&c_je;&c_p;&c_o;&c_n;&c_i;&c_m;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">nedorozumenie</trd>
 </drv>
 
 <drv mrk="kompre.mal0o">
@@ -1003,16 +1073,21 @@
       <ref cel="kompre.ne0o">ne<tld/>o</ref>
     </refgrp>
     </snc>
+  <trd lng="cs">nedorozumění</trd>
   <trdgrp lng="fr">
     <trd>m&eacute;sentente</trd>,
     <trd>m&eacute;sintelligence</trd>,
     <trd>malentendu</trd>
   </trdgrp>
-    <trd lng="hu">f&eacute;lre&eacute;rt&eacute;s</trd>
-    <trd lng="id">ketidak<ind>paham</ind>an</trd>
-    <trd lng="nl">misverstand</trd>
-    <trd lng="ru">&c_n;&c_je;&c_d;&c_o;&c_r;&c_a;&c_z;&c_u;&c_m;&c_je;&c_n;&c_i;&c_je;</trd>
-  </drv>
+  <trd lng="hu">f&eacute;lre&eacute;rt&eacute;s</trd>
+  <trd lng="id">ketidak<ind>paham</ind>an</trd>
+  <trd lng="nl">misverstand</trd>
+  <trd lng="ru">&c_n;&c_je;&c_d;&c_o;&c_r;&c_a;&c_z;&c_u;&c_m;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>nepochopenie</trd>,
+    <trd>neporozumenie</trd>
+  </trdgrp>
+</drv>
 
 <drv mrk="kompre.ne0ebla">
   <kap> ne<tld/>ebla</kap>
@@ -1107,6 +1182,10 @@ neebla, nekomprenebla, nevidebla, nelegebla k.t.p.
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_ja;&c_p;&c_r;&c_a;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_a; &c_z;&c_r;&c_a;&c_z;&c_u;&c_m;&c_je;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>neporozumět</trd>,
+    <trd>nesprávně rozumět</trd>
+  </trdgrp>
   <trd lng="es">malinterpretar</trd>
   <trdgrp lng="fr">
     <trd>m&eacute;comprendre</trd>,
@@ -1117,6 +1196,7 @@ neebla, nekomprenebla, nevidebla, nelegebla k.t.p.
   <trd lng="id"><ind>salah</ind> paham</trd>
   <trd lng="nl">verkeerd <ind>begrijpen</ind></trd>
   <trd lng="ru">&c_n;&c_je;&c_v;&c_je;&c_r;&c_n;&c_o; &c_p;&c_o;&c_n;&c_ja;&c_t;&c_mol;</trd>
+  <trd lng="sk">nesprávne chápať</trd>
 </drv>
 
 <drv mrk="kompre.sen0a">
@@ -1206,6 +1286,15 @@ neebla, nekomprenebla, nevidebla, nelegebla k.t.p.
     <trd>hozz&aacute;gondol</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_r;&c_a;&c_z;&c_u;&c_m;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd><klr>(nepovedané, nenapísané)</klr></trd>,
+    <trd>vyrozumieť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pochopit nevyřčené</trd>,
+    <trd>postřehnout</trd>,
+    <trd>vytušit</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kompre.sub0igi">
@@ -1310,6 +1399,12 @@ neebla, nekomprenebla, nevidebla, nelegebla k.t.p.
     <trd>&c_k;&c_a;&c_n;&c_je;&c_ch;&c_n;&c_je;</trd>,
     <trd>&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pochopitelně</trd>,
+    <trd>samozřejmě</trd>,
+    <trd>srozumitelně</trd>,
+    <trd>zajisté</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>nat&uuml;rlich</trd>,
     <trd>selbstverst&auml;ndlich</trd>
@@ -1335,6 +1430,11 @@ neebla, nekomprenebla, nevidebla, nelegebla k.t.p.
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_o;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_u;&c_m;&c_je;&c_je;&c_t;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pochopiteľne</trd>,
+    <trd>samozrejme</trd>,
+    <trd>zrozumiteľne</trd>
   </trdgrp>
 </drv>
 
@@ -1373,6 +1473,10 @@ neebla, nekomprenebla, nevidebla, nelegebla k.t.p.
     <ref tip="dif" cel="inteli.0o">inteligento</ref>
   </snc>
   <trd lng="be">&c_k;&c_je;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>chápavost</trd>,
+    <trd>komprehenzivnost</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Einsichtsf&auml;higkeit</trd>,
     <trd>Verst&auml;ndnis</trd>
@@ -1389,15 +1493,22 @@ neebla, nekomprenebla, nevidebla, nelegebla k.t.p.
     <trd>[<ind>cerdas</ind>] kecerdasan</trd>,
     <trd>inteligensi</trd>
   </trdgrp>
-   <trdgrp lng="nl">
+  <trdgrp lng="nl">
     <trd>begripsvermogen</trd>,
     <trd>bevattingsvermogen</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_n;&c_ja;&c_t;&c_l;&c_i;&c_v;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">chápavosť</trd>
 </drv>
 </art>
 <!--
 $Log: kompre.xml,v $
+Revision 1.36  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.35  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.34  2014/06/10 04:10:22  revo
 Eko Nur Syah Hidayat: +id
 

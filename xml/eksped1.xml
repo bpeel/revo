@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eksped1.xml,v 1.16 2012/01/03 09:10:12 revo Exp $">
+<art mrk="$Id: eksped1.xml,v 1.18 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <rad>ekspedici</rad>/o <fnt>Z</fnt> <fnt><bib>ZR</bib></fnt>
 </kap>
@@ -61,6 +61,7 @@
     </trdgrp>
   </snc>
   <trd lng="ca">expedici&oacute;</trd>
+  <trd lng="cs">expedice</trd>
   <trd lng="en">expedition</trd>
   <trd lng="fr">exp&eacute;dition<klr tip="ind"> (mil.,
   sci.)</klr></trd>
@@ -70,10 +71,17 @@
     <trd>ekspedycja</trd>,
     <trd>wyprawa</trd>
   </trdgrp>
+  <trd lng="sk">expedícia</trd>
 </drv>
 </art>
 <!--
 $Log: eksped1.xml,v $
+Revision 1.18  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2012/01/03 09:10:12  revo
 Marc Rausell: +trd ca
 

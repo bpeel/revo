@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krani.xml,v 1.22 2014/08/10 17:10:15 revo Exp $">
+<art mrk="$Id: krani.xml,v 1.24 2015/07/04 08:37:38 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>krani</rad>/o</kap>
 <drv mrk="krani.0o">
@@ -52,6 +52,7 @@
     <trd lng="nl">hoofd</trd>
   </snc>
   <trd lng="be">&c_ch;&c_e;&c_r;&c_a;&c_p;</trd>
+  <trd lng="cs">lebka</trd>
   <trd lng="fr">cr&acirc;ne</trd>
   <trd lng="hu">koponya</trd>
   <trd lng="id">tengkorak</trd>
@@ -59,6 +60,7 @@
   <trd lng="pl">czaszka</trd>
   <trd lng="pt">cr&acirc;nio</trd>
   <trd lng="ru">&c_ch;&c_je;&c_r;&c_je;&c_p;</trd>
+  <trd lng="sk">lebka</trd>
 </drv>
 
 <drv mrk="krani.post0o">
@@ -82,6 +84,12 @@
 </art>
 <!--
 $Log: krani.xml,v $
+Revision 1.24  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/08/10 17:10:15  revo
 Carlos Garcia: +trd es -o post-o
 

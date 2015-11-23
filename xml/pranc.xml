@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pranc.xml,v 1.12 2014/10/06 20:10:35 revo Exp $">
+<art mrk="$Id: pranc.xml,v 1.14 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>pranc</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -48,10 +48,24 @@
       </dif>
     <trd lng="fr">bander<klr> (vulg.)</klr></trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dupat</trd>,
+    <trd>hrabat</trd>,
+    <trd>kopat</trd>,
+    <trd>naparovat se</trd>,
+    <trd>vzpínat se <klr>(kůň)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">vzpínať sa</trd>
 </drv>
 </art>
 <!--
 $Log: pranc.xml,v $
+Revision 1.14  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2014/10/06 20:10:35  revo
 Jeromo Vasxe: + snc amor, + trd fr
 

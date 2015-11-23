@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: okt.xml,v 1.6 2011/12/12 11:10:14 revo Exp $">
+<art mrk="$Id: okt.xml,v 1.8 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <rad>okt</rad>/o <fnt><bib>MuzTerm</bib></fnt>
 </kap>
@@ -35,11 +35,19 @@
   <trd lng="nl">octaaf</trd>
   <trd lng="pt">oitava</trd>
   <trd lng="ru">&c_o;&c_k;&c_t;&c_a;&c_v;&c_a;</trd>
+  <trd lng="sk">oktáva</trd>
+  <trd lng="cs">oktáva <klr>(hud. interval)</klr></trd>
 </drv>
 </art>
 
 <!--
 $Log: okt.xml,v $
+Revision 1.8  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2011/12/12 11:10:14  revo
 Marc Rausell: +trd ca
 

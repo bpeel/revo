@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prozod.xml,v 1.16 2013/05/08 12:10:13 revo Exp $">
+<art mrk="$Id: prozod.xml,v 1.18 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>prozodi</rad>/o
@@ -21,6 +21,7 @@
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_s;&c_o;&c_d;&c_y;&c_ja;</trd>
   <trd lng="ca">pros&ograve;dia</trd>
+  <trd lng="cs">prozódie</trd>
   <trd lng="de">Prosodie</trd>
   <trd lng="en">prosody</trd>
   <trd lng="fr">prosodie</trd>
@@ -28,10 +29,17 @@
   <trd lng="nl">prosodie</trd>
   <trd lng="pl">prozodia</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_o;&c_d;&c_i;&c_ja;</trd>
+  <trd lng="sk">prozódia</trd>
 </drv>
 </art>
 <!--
 $Log: prozod.xml,v $
+Revision 1.18  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/05/08 12:10:13  revo
 Sebastian Cyprych: +trd pl
 

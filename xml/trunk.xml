@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trunk.xml,v 1.23 2012/08/14 15:10:13 revo Exp $">
+<art mrk="$Id: trunk.xml,v 1.27 2015/09/22 16:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>trunk</rad>/o
@@ -88,11 +88,23 @@ cel="solid.0o.geometrio">solido</ref>,
     </dif>
   </snc>
   <trd lng="ca">tronc</trd>
+  <trdgrp lng="cs">
+    <trd>kmen <klr>(stromu)</klr></trd>,
+    <trd>trup (t&ecaron;la)</trd>,
+    <trd>t&rcaron;e&ncaron; houby</trd>
+  </trdgrp>
+  <trd lng="en">shaft</trd>
   <trd lng="fr">tronc<klr tip="ind"> (d'arbre, de colonne, de
   c&ocirc;ne...)</klr></trd>
   <trd lng="hu">t&ouml;rzs</trd>
   <trd lng="it">tronco</trd>
   <trd lng="pl">kolumna</trd>
+  <trdgrp lng="sk">
+    <trd>driek</trd>,
+    <trd>kme&ncaron;</trd>,
+    <trd>pe&ncaron;</trd>,
+    <trd>trup</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="trunk.0eto">
@@ -126,11 +138,13 @@ cel="solid.0o.geometrio">solido</ref>,
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_c;&c_ja;&c_b;&c_l;&c_o;</trd>
   <trd lng="ca">tija</trd>
+  <trd lng="cs">stonek</trd>
   <trdgrp lng="de">
     <trd>Stiel</trd>,
     <trd>St&auml;ngel</trd>,
     <trd>Halm</trd>
   </trdgrp>
+  <trd lng="en">stem</trd>
   <trd lng="fr">tige</trd>
   <trd lng="hu">sz&aacute;r<klr tip="ind"> (n&ouml;v&eacute;nyi)</klr></trd>
   <trdgrp lng="it">
@@ -142,10 +156,23 @@ cel="solid.0o.geometrio">solido</ref>,
   </trdgrp>
   <trd lng="pl">&lstroke;odyga</trd>
   <trd lng="ru">&c_s;&c_t;&c_je;&c_b;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">stonka</trd>
 </drv>
 </art>
 <!--
 $Log: trunk.xml,v $
+Revision 1.27  2015/09/22 16:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.26  2015/09/22 15:10:14  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.25  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2012/08/14 15:10:13  revo
 Marc Rausell: + trd ca
 
@@ -156,17 +183,5 @@ Revision 1.21  2006/02/16 17:35:53  revo
 Tulio Flores: +trd pt
 
 Revision 1.20  2005/04/25 16:32:17  revo
-Vito Redsky: +trd pl
-
-Revision 1.19  2004/10/20 16:32:19  revo
-Wolfram Diestel: germ ort.
-
-Revision 1.18  2003/10/01 16:33:06  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.17  2003/05/13 16:35:14  revo
-Marc Bavant: ~o MAT: +trd ru
-
-Revision 1.16  2003/04/21 16:35:15  revo
 -->
 </vortaro>

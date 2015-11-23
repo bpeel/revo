@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ruband.xml,v 1.15 2006/02/24 17:33:21 revo Exp $">
+<art mrk="$Id: ruband.xml,v 1.17 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>ruband</rad>/o
 </kap>
@@ -106,14 +106,30 @@
     <trd lng="nl">lint</trd>
   </snc>
   <trdgrp lng="cs">
+    <trd>lenta</trd>,
+    <trd>p&aacute;s</trd>,
+    <trd>pentle</trd>,
+    <trd>páska z látky</trd>,
     <trd>stuha</trd>,
-    <trd>p&aacute;s</trd>
+    <trd>tkanice</trd>,
+    <trd>tkanička</trd>
   </trdgrp>
   <trd lng="ru">&c_l;&c_je;&c_n;&c_t;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>pásik</trd>,
+    <trd>stuha</trd>,
+    <trd>stužka</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ruband.xml,v $
+Revision 1.17  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2006/02/24 17:33:21  revo
 Tulio Flores: +trd pt
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bend.xml,v 1.22 2010/11/25 17:30:24 revo Exp $">
+<art mrk="$Id: bend.xml,v 1.24 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>bend</rad>/o <fnt><aut>Christaller</aut></fnt>
@@ -37,6 +37,11 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_u;&c_zh;&c_k;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>proužek</trd>,
+    <trd>pásek</trd>,
+    <trd>páska</trd>
+  </trdgrp>
   <trd lng="de">Band</trd>
   <trd lng="en">tape</trd>
   <trd lng="es">banda</trd>
@@ -49,18 +54,7 @@
   <trd lng="pl">ta&sacute;ma</trd>
   <trd lng="pt">fita</trd>
   <trd lng="ru">&c_l;&c_je;&c_n;&c_t;&c_a;</trd>
-  <adm>
-    Kvankam la limoj de la respektivaj semantikaj
-    kampoj de "bendo", "rubando","strio" ne estas
-    perfekte klaraj, necesas aldoni almena&ubreve; la
-    ofte uzatajn deriva&jcirc;ojn:
-    * frekvencobendo,
-    * bendlar&gcirc;o,
-    * magneta bendo.
-        &Scirc;ajnas, ke la radiko estas dedi&ccirc;ita precipe al
-    te&hcirc;nikaj
-    uzoj. (MB)
-  </adm>
+  <trd lng="sk">frekvenčné pásmo</trd>
 </drv>
 
 <drv mrk="bend.sur0igi">
@@ -79,6 +73,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_mol; &c_n;&c_a; &c_s;&c_t;&c_u;&c_zh;&c_k;&c_u;</trd>
+  <trd lng="cs">natočit na magnetofonový pásek</trd>
   <trd lng="de">aufnehmen<klr> (auf ein Band)</klr></trd>
   <trdgrp lng="en">
     <trd>record</trd>,
@@ -91,6 +86,7 @@
   <trd lng="pt">gravar<klr> (em fita)</klr></trd>
   <trd lng="ru">&c_z;&c_a;&c_p;&c_i;&c_s;&c_y;&c_v;&c_a;&c_t;&c_mol; <klr tip="amb">(&c_n;&c_a; &c_m;&c_a;&c_g;&c_n;&c_i;&c_t;&c_n;&c_u;&c_ju;
   &c_l;&c_je;&c_n;&c_t;&c_u;)</klr></trd>
+  <trd lng="sk">nahrať na magnetofónovú pásku</trd>
 </drv>
 
 <drv mrk="bend.sur0igilo">
@@ -147,6 +143,7 @@
     </dif>
     <ref tip="sin" cel="diakil.0o">diakilo</ref>
   </snc>
+  <trd lng="cs">lepící páska</trd>
   <trd lng="de">Klebeband</trd>
   <trdgrp lng="en">
     <trd>adhesive tape</trd>,
@@ -161,6 +158,7 @@
     <trd>ta&sacute;ma samoprzylepna</trd>,
     <trd>przylepiec</trd>
   </trdgrp>
+  <trd lng="sk">lepiaca páska</trd>
   <trd lng="tr">bant</trd>
 </drv>
 
@@ -180,14 +178,19 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">magnetofonový pásek</trd>
+  <trd lng="de">Tonband</trd>
   <trdgrp lng="en">
     <trd>magnetic tape</trd>,
     <trd>tape</trd>
   </trdgrp>
-  <trd lng="de">Tonband</trd>
   <trd lng="fr">bande sonore</trd>
   <trd lng="nl">geluidsband</trd>
   <trd lng="pl">ta&sacute;ma magnetofonowa</trd>
+  <trdgrp lng="sk">
+    <trd>magnetof. páska</trd>,
+    <trd>zvuková páska</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bend.vid0o">
@@ -203,6 +206,7 @@
     </ekz>
   </snc>
   <trd lng="be">&c_v;&c_ib;&c_d;&c_e;&c_a;&c_s;&c_t;&c_u;&c_zh;&c_k;&c_a;</trd>
+  <trd lng="cs">videopásek</trd>
   <trd lng="de">Video(-band)</trd>
   <trdgrp lng="en">
     <trd>video tape</trd>,
@@ -215,6 +219,7 @@
   </trdgrp>
   <trd lng="pl">ta&sacute;ma wideo</trd>
   <trd lng="ru">&c_v;&c_i;&c_d;&c_je;&c_o;&c_l;&c_je;&c_n;&c_t;&c_a;</trd>
+  <trd lng="sk">videopáska</trd>
 </drv>
 
 <drv mrk="bend.vide0o">
@@ -266,6 +271,12 @@
 </art>
 <!--
 $Log: bend.xml,v $
+Revision 1.24  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2010/11/25 17:30:24  revo
 Jeromo Vasxe: + vide~o
 

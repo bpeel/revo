@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bias.xml,v 1.3 2011/06/15 07:10:09 revo Exp $">
+<art mrk="$Id: bias.xml,v 1.5 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <rad>bias</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -22,6 +22,8 @@
     <trd lng="fr">biais<klr> (sci., exp&eacute;rimentation)</klr></trd>
     <trd lng="en">bias</trd>
   </snc>
+  <trd lng="cs">předpojatost</trd>
+  <trd lng="sk">predpojatosť</trd>
 </drv>
 
 <drv mrk="bias.0a">
@@ -68,11 +70,23 @@
     <trd lng="fr">non biais&eacute;</trd>
     <trd lng="en">unbiased</trd>
   </snc>
+  <trd lng="cs">nepředpojatý</trd>
+  <trdgrp lng="sk">
+    <trd>nepredpojatý</trd>,
+    <trd>nestranný</trd>,
+    <trd>nezaujatý</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: bias.xml,v $
+Revision 1.5  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.3  2011/06/15 07:10:09  revo
 Jeromo Vasxe: kor. 1 ref
 

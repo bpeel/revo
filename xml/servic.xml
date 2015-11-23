@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: servic.xml,v 1.17 2012/12/08 21:10:12 revo Exp $">
+<art mrk="$Id: servic.xml,v 1.19 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>servic</rad>/o <fnt><bib>PV</bib></fnt>
@@ -28,6 +28,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_s;&c_e;&c_r;&c_v;&c_ib;&c_z;</trd>
+  <trdgrp lng="cs">
+    <trd>servis</trd>,
+    <trd>souprava stolního nádobí</trd>
+  </trdgrp>
   <trd lng="de">Service</trd>
   <trdgrp lng="en">
     <trd>crockery set</trd>,
@@ -47,10 +51,17 @@
     <trd>serwis</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_je;&c_r;&c_v;&c_i;&c_z;</trd>
+  <trd lng="sk">súprava <klr>(jedálna)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: servic.xml,v $
+Revision 1.19  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2012/12/08 21:10:12  revo
 Jeromo Vasxe: + 1 ref
 

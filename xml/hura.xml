@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hura.xml,v 1.19 2014/09/18 14:10:12 revo Exp $">
+<art mrk="$Id: hura.xml,v 1.21 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>hura</rad> <fnt><bib>PV</bib></fnt>
@@ -50,14 +50,15 @@
     </dif>
   </snc>
   <trd lng="be">&c_u;&c_r;&c_a;</trd>
-  <trdgrp lng="de">
-    <trd>Hurraruf</trd>,
-    <trd>Hurra</trd>
-  </trdgrp>
   <trdgrp lng="ca">
     <trd>v&iacute;ctor</trd>,
     <trd>visca</trd>,
     <trd>ovaci&oacute;</trd>
+  </trdgrp>
+  <trd lng="cs">volání hurá</trd>
+  <trdgrp lng="de">
+    <trd>Hurraruf</trd>,
+    <trd>Hurra</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>hurrah</trd>,
@@ -72,6 +73,7 @@
   <trd lng="it">urr&aacute;</trd>
   <trd lng="nl">hoerageroep</trd>
   <trd lng="pt">grito de <ind>viva</ind></trd>
+  <trd lng="sk">volanie hurá</trd>
 </drv>
 
 <drv mrk="hura.0i">
@@ -87,6 +89,7 @@
     <trd>victorejar</trd>,
     <trd>aclamar</trd>
   </trdgrp>
+  <trd lng="cs">volat hurá</trd>
   <trdgrp lng="de">
     <trd>Hurra rufen</trd>,
     <trd>bejubeln</trd>
@@ -106,10 +109,17 @@
     <trd>wiwatowa&cacute;</trd>
   </trdgrp>
   <trd lng="pt">gritar <ind>viva</ind></trd>
+  <trd lng="sk">volať hurá!</trd>
 </drv>
 </art>
 <!--
 $Log: hura.xml,v $
+Revision 1.21  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/09/18 14:10:12  revo
 Guillermo Molleda Jimena: trd es
 

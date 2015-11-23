@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kased.xml,v 1.16 2013/12/29 17:10:12 revo Exp $">
+<art mrk="$Id: kased.xml,v 1.18 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>kased</rad>/o <fnt><bib>KompLeks</bib></fnt>
 </kap>
@@ -85,9 +85,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_s;&c_e;&c_t;&c_n;&c_ib;&c_c;&c_a;</trd>
+  <trd lng="cs">zásobník na kasety</trd>
   <trd lng="de">Kassettenbox</trd>
   <trd lng="hu">kazettatart&oacute;</trd>
   <trd lng="ru">&c_k;&c_a;&c_s;&c_s;&c_je;&c_t;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trd lng="sk">zásobník na kazety</trd>
 </drv>
 
 <drv mrk="kased.0okunturneblasxovkovrilo">
@@ -229,6 +231,12 @@
 </art>
 <!--
 $Log: kased.xml,v $
+Revision 1.18  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/12/29 17:10:12  revo
 Jeromo Vasxe: + film~o
 

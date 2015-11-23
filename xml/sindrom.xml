@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sindrom.xml,v 1.4 2009/10/12 16:30:57 revo Exp $">
+<art mrk="$Id: sindrom.xml,v 1.6 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>sindrom</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -32,14 +32,28 @@
       </fnt>.
     </ekz>
   </snc>
-<trd lng="de">Syndrom</trd>
-<trd lng="it">sindrome</trd>
-<trd lng="nl">syndroom</trd>
+  <trdgrp lng="cs">
+    <trd>soubor příznaků</trd>,
+    <trd>syndrom</trd>
+  </trdgrp>
+  <trd lng="de">Syndrom</trd>
+  <trd lng="it">sindrome</trd>
+  <trd lng="nl">syndroom</trd>
+  <trdgrp lng="sk">
+    <trd>syndróm</trd>,
+    <trd>súbor príznakov</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: sindrom.xml,v $
+Revision 1.6  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2009/10/12 16:30:57  revo
 Antonio Codazzi: +trd it
 

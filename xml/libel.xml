@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: libel.xml,v 1.18 2013/07/29 11:10:11 revo Exp $">
+<art mrk="$Id: libel.xml,v 1.20 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>libel</rad>/o
@@ -28,6 +28,7 @@
   <trd lng="bg">&c_v;&c_o;&c_d;&c_n;&c_i; &c_k;&c_o;&c_n;&c_ch;&c_je;&c_t;&c_a;</trd>
   <trd lng="br">nadoz-aer</trd>
   <trd lng="ca">lib&egrave;l&middot;lula</trd>
+  <trd lng="cs">vážka <klr>(hmyz)</klr></trd>
   <trd lng="de">Libelle</trd>
   <trd lng="el">&lambda;&jota;&beta;&epsilon;&lambda;&lambda;&omikron;&ypsilon_ton;&lambda;&eta;</trd>
   <trd lng="en">dragonfly</trd>
@@ -38,10 +39,17 @@
   <trd lng="nl">libel</trd>
   <trd lng="pt">lib&eacute;lula</trd>
   <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_k;&c_o;&c_z;&c_a;</trd>
+  <trd lng="sk">vážka</trd>
 </drv>
 </art>
 <!--
 $Log: libel.xml,v $
+Revision 1.20  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2013/07/29 11:10:11  revo
 Joop Eggen: +trd bg
 

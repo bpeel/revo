@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: simpozi.xml,v 1.9 2009/10/12 16:30:50 revo Exp $">
+<art mrk="$Id: simpozi.xml,v 1.11 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>simpozi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -29,6 +29,11 @@
     <ref tip="vid" cel="kolokv.0o">kolokvo</ref>
   </snc>
   <trd lng="be">&c_s;&c_ib;&c_m;&c_p;&c_o;&c_z;&c_ib;&c_ju;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>sympozium</trd>,
+    <trd>sypmozion</trd>,
+    <trd>vědecká konference</trd>
+  </trdgrp>
   <trd lng="de">Symposium</trd>
   <trd lng="en">symposium</trd>
   <trd lng="fr">symposium</trd>
@@ -36,11 +41,21 @@
   <trd lng="it">simposio</trd>
   <trd lng="pt">simp&oacute;sio</trd>
   <trd lng="ru">&c_s;&c_i;&c_m;&c_p;&c_o;&c_z;&c_i;&c_u;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>sympózium</trd>,
+    <trd>vedecká konferencia</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: simpozi.xml,v $
+Revision 1.11  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2009/10/12 16:30:50  revo
 Antonio Codazzi: +trd it
 

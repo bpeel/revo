@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: reosta.xml,v 1.10 2014/03/29 12:10:16 revo Exp $">
+<art mrk="$Id: reosta.xml,v 1.12 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <rad>reostat</rad>/o
 </kap>
@@ -17,6 +17,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_a;&c_s;&c_t;&c_a;&c_t;</trd>
+  <trd lng="cs">reostat</trd>
   <trd lng="de">Rheostat</trd>
   <trd lng="fr">rh&eacute;ostat</trd>
   <trdgrp lng="hu">
@@ -25,10 +26,17 @@
   <trd lng="nl">reostaat</trd>
   <trd lng="pt">reostato</trd>
   <trd lng="ru">&c_r;&c_je;&c_o;&c_s;&c_t;&c_a;&c_t;</trd>
+  <trd lng="sk">reostat</trd>
 </drv>
 </art>
 <!--
 $Log: reosta.xml,v $
+Revision 1.12  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2014/03/29 12:10:16  revo
 Damien Brucker: +trd fr
 

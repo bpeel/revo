@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fermat.xml,v 1.11 2007/05/20 16:31:36 revo Exp $">
+<art mrk="$Id: fermat.xml,v 1.13 2015/07/04 08:37:34 revo Exp $">
 <kap>
 <rad>fermat</rad>/o
 </kap>
@@ -17,6 +17,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_f;&c_e;&c_r;&c_m;&c_a;&c_t;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>fermata</trd>,
+    <trd>korunka</trd>,
+    <trd>prodlužka</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Fermate</trd>,
      <trd>Haltezeichen</trd></trdgrp>
@@ -38,10 +43,20 @@
     <trd>coroa</trd>
   </trdgrp>
   <trd lng="ru">&c_f;&c_je;&c_r;&c_m;&c_a;&c_t;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>korunka</trd>,
+    <trd>predlžka</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: fermat.xml,v $
+Revision 1.13  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2007/05/20 16:31:36  revo
 Tulio Flores: +tr pt
 

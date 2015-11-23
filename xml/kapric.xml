@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kapric.xml,v 1.14 2012/09/01 18:10:12 revo Exp $">
+<art mrk="$Id: kapric.xml,v 1.16 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kapric</rad>/o
@@ -45,6 +45,12 @@
     <trd>caprici</trd>,
     <trd>antull</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kapric</trd>,
+    <trd>kaprice</trd>,
+    <trd>rozmar</trd>,
+    <trd>vrtoch</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Laune</trd>,
     <trd>Grille</trd>,
@@ -61,6 +67,7 @@
   <trd lng="hu">szesz&eacute;ly</trd>
   <trd lng="nl">gril</trd>
   <trd lng="ru">&c_k;&c_a;&c_p;&c_r;&c_i;&c_z;</trd>
+  <trd lng="sk">vrtoch</trd>
 </drv>
 
 <drv mrk="kapric.0a">
@@ -102,6 +109,18 @@
   <trd lng="hu">szesz&eacute;lyes</trd>
   <trd lng="nl">grillig<klr tip="ind"> (bn.)</klr></trd>
   <trd lng="ru">&c_k;&c_a;&c_p;&c_r;&c_i;&c_z;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>náladový</trd>,
+    <trd>rozmarný</trd>,
+    <trd>vrtošivý</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nevypočitatelný</trd>,
+    <trd>náladový</trd>,
+    <trd>rozmarný</trd>,
+    <trd>umíněný</trd>,
+    <trd>vrtošivý</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kapric.0e">
@@ -113,6 +132,7 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_p;&c_r;&c_y;&c_z;&c_n;&c_a;</trd>
   <trd lng="ca">capriciosament</trd>
+  <trd lng="cs">rozmarně</trd>
   <trdgrp lng="de">
     <trd>launisch</trd>,
     <trd>launenhaft</trd>,
@@ -124,6 +144,7 @@
   <trd lng="hu">szesz&eacute;lyesen</trd>
   <trd lng="nl">grillig<klr tip="ind"> (bw.)</klr></trd>
   <trd lng="ru">&c_k;&c_a;&c_p;&c_r;&c_i;&c_z;&c_n;&c_o;</trd>
+  <trd lng="sk">rozmarne</trd>
 </drv>
 
 <drv mrk="kapric.0i">
@@ -143,6 +164,7 @@
     <trd>antullar-se</trd>,
     <trd>tindre capritx (de)</trd>
   </trdgrp>
+  <trd lng="cs">mít vrtochy</trd>
   <trdgrp lng="de">
     <trd>launisch sein</trd>,
     <trd>launenhaft sein</trd>,
@@ -158,10 +180,20 @@
   <trd lng="hu">szesz&eacute;lyeskedik</trd>
   <trd lng="nl">nukken vertonen</trd>
   <trd lng="ru">&c_k;&c_a;&c_p;&c_r;&c_i;&c_z;&c_n;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>byť rozmarný</trd>,
+    <trd>mať vrtochy</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kapric.xml,v $
+Revision 1.16  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2012/09/01 18:10:12  revo
 Marc Rausell: + trd ca
 

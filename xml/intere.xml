@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: intere.xml,v 1.21 2012/10/23 00:11:55 revo Exp $">
+<art mrk="$Id: intere.xml,v 1.23 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>interes</rad>/i
@@ -129,8 +129,9 @@
     </dif>
     <trd lng="pl">interesowa&cacute;</trd>
   </snc>
+  <trd lng="cs">zajímat</trd>
   <trd lng="en">interest</trd>
-  <trd lng="es">interesar</trd> 
+  <trd lng="es">interesar</trd>
   <trdgrp lng="fr">
     <trd>int&eacute;resser</trd>,
     <trd>brancher<klr tip="ind"> (plaire)</klr></trd>,
@@ -150,6 +151,10 @@
   <trd lng="pt">interessar</trd>
   <trd lng="ru">
   &c_i;&c_n;&c_t;&c_je;&c_r;&c_je;&c_s;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>pútať</trd>,
+    <trd>zaujímať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="intere.0o">
@@ -312,8 +317,9 @@
     </dif>
     <trd lng="pl">interes</trd>
   </snc>
+  <trd lng="cs">interes</trd>
   <trd lng="de">Interesse</trd>
-  <trd lng="es">inter&eacute;s</trd> 
+  <trd lng="es">inter&eacute;s</trd>
   <trdgrp lng="fr">
     <trd>int&eacute;r&ecirc;t<klr tip="ind">
     (qu'on trouve &agrave; qc ou qn)</klr></trd>,
@@ -338,11 +344,7 @@
   </trdgrp>
   <trd lng="pt">interesse</trd>
   <trd lng="ru">&c_i;&c_n;&c_t;&c_je;&c_r;&c_je;&c_s;</trd>
-  <adm>
-    Pro la reverkado mi devis grupigi la tradukojn hu, nl, de
-    fine de la artikolo. La koncernatoj bv kontroli.
-    <aut>MB</aut>
-  </adm>
+  <trd lng="sk">interes</trd>
 </drv>
 
 <drv mrk="intere.0a">
@@ -360,7 +362,7 @@
   </snc>
   <trd lng="cs">zaj&iacute;mav&yacute;</trd>
   <trd lng="de">interessant</trd>
-  <trd lng="es">interesante</trd> 
+  <trd lng="es">interesante</trd>
   <trd lng="fr">int&eacute;ressant</trd>
   <trd lng="hu">&eacute;rdekes</trd>
   <trd lng="nl">interessant</trd>
@@ -372,6 +374,7 @@
   <trd lng="pt">interessante</trd>
   <trd lng="ru">&c_i;&c_n;&c_t;&c_je;&c_r;&c_je;&c_s;&c_n;&c_y;&c_j;
   </trd>
+  <trd lng="sk">zaujímavý</trd>
 </drv>
 
 <drv mrk="intere.0egi">
@@ -532,7 +535,8 @@
       <trd>zajmowa&cacute; si&eogonek;<klr> (przest.)</klr></trd>
     </trdgrp>
   </snc>
-  <trd lng="es">interesarse</trd> 
+  <trd lng="cs">zajímat</trd>
+  <trd lng="es">interesarse</trd>
   <trdgrp lng="fr">
     <trd>s'<ind>int&eacute;resser</ind></trd>,
     <trd>ressentir de l'<ind>int&eacute;r&ecirc;t</ind></trd>,
@@ -543,6 +547,10 @@
   <trd lng="hu">&eacute;rdekl&odblac;dik</trd>
   <trd lng="pt">interessar-se</trd>
   <trd lng="ru">&c_i;&c_n;&c_t;&c_je;&c_r;&c_je;&c_s;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>pútať</trd>,
+    <trd>zaujímať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="intere.0igxo">
@@ -671,12 +679,16 @@
       <ref cel="gurd">gurdita</ref>.
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bez zájmu</trd>,
+    <trd>fádní</trd>
+  </trdgrp>
   <trd lng="de">uninteressant</trd>
   <trdgrp lng="es">
     <trd>vulgar<klr> (en el sentido de com&uacute;n)</klr></trd>,
     <trd>insulso</trd>,
     <trd>indiferente</trd> 
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>inint&eacute;ressant</trd>,
     <trd>sans <ind>int&eacute;r&ecirc;t</ind></trd>,
@@ -695,6 +707,7 @@
   <trd lng="pt">sem <ind>interesse</ind><klr tip="ind"> (adj.)</klr>
   </trd>
   <trd lng="ru">&c_b;&c_je;&c_z;&c_y;&c_n;&c_t;&c_je;&c_r;&c_je;&c_s;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">nezainteresovaný</trd>
 </drv>
 
 <drv mrk="intere.sen0igxi">
@@ -754,6 +767,12 @@
 </art>
 <!--
 $Log: intere.xml,v $
+Revision 1.23  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2012/10/23 00:11:55  revo
 Neil Roberts: aldonu la etikedon <var>
 

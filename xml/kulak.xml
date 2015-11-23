@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kulak.xml,v 1.8 2014/01/03 08:10:18 revo Exp $">
+<art mrk="$Id: kulak.xml,v 1.10 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>kulak</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -24,6 +24,10 @@
   </snc>
   <trd lng="be">&c_k;&c_u;&c_l;&c_a;&c_k;</trd>
   <trd lng="bg">&c_k;&c_u;&c_l;&c_a;&c_k;</trd>
+  <trdgrp lng="cs">
+    <trd>kulak</trd>,
+    <trd>velký rolník</trd>
+  </trdgrp>
   <trd lng="de">Kulak</trd>
   <trd lng="en">kulak</trd>
   <trd lng="fr">koulak</trd>
@@ -34,11 +38,21 @@
     <trd>kulak</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_u;&c_l;&c_a;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>kulak</trd>,
+    <trd>veľký roľník</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: kulak.xml,v $
+Revision 1.10  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2014/01/03 08:10:18  revo
 Sebastian Cyprych: +trd pl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cidoni.xml,v 1.24 2013/12/01 20:10:16 revo Exp $">
+<art mrk="$Id: cidoni.xml,v 1.26 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>cidoni</rad>/o <fnt><bib>PV</bib></fnt>
@@ -18,11 +18,14 @@
   </snc>
   <trd lng="be">&c_a;&c_j;&c_v;&c_a; <klr tip="amb">(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
   <trd lng="bg">&c_d;&c_ju;&c_l;&c_ja;</trd>
-  <trd lng="cs">kdoule</trd>
   <trd lng="br">aval-stoub</trd>
+  <trdgrp lng="cs">
+    <trd>cydónie <klr>(plod)</klr></trd>,
+    <trd>kdoule</trd>
+  </trdgrp>
   <trd lng="de">Quitte<klr tip="ind"> (Frucht)</klr></trd>
-  <trd lng="en">quince</trd>
   <trd lng="el">&kappa;&ypsilon;&delta;&omega_ton;&ny;&jota;</trd>
+  <trd lng="en">quince</trd>
   <trd lng="fr">coing</trd>
   <trd lng="hu">birsalma</trd>
   <trdgrp lng="it">
@@ -33,6 +36,7 @@
   <trd lng="pl">pigwa<klr> (owoc)</klr></trd>
   <trd lng="pt">marmelo</trd>
   <trd lng="ru">&c_a;&c_j;&c_v;&c_a; <klr>(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+  <trd lng="sk">dula <klr>(plod)</klr></trd>
 </drv>
 
 <drv mrk="cidoni.0arbo">
@@ -56,9 +60,13 @@
   <trd lng="be">&c_a;&c_j;&c_v;&c_a;<klr tip="amb"> (&c_d;&c_r;&c_e;&c_v;&c_a;)</klr></trd>
   <trd lng="bg">&c_d;&c_ju;&c_l;&c_ja;</trd>
   <trd lng="br">avalenn-stoub</trd>
+  <trdgrp lng="cs">
+    <trd>cydónie</trd>,
+    <trd>kdouloň obecná</trd>
+  </trdgrp>
   <trd lng="de">Quitte<klr tip="ind"> (Baum)</klr></trd>
   <trd lng="el">&kappa;&ypsilon;&delta;&omega;&ny;&jota;&alfa_ton;</trd>
-  <trd lng="en">quince</trd>  
+  <trd lng="en">quince</trd>
   <trd lng="fr">cognassier</trd>
   <trd lng="hu">birsalmafa</trd>
   <trd lng="it">cotogno</trd>
@@ -66,10 +74,17 @@
   <trd lng="pl">pigwa<klr> (drzewo)</klr></trd>
   <trd lng="pt">marmeleiro</trd>
   <trd lng="ru">&c_a;&c_j;&c_v;&c_a; <klr>(&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;)</klr></trd>
+  <trd lng="sk">dula <klr>(strom)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: cidoni.xml,v $
+Revision 1.26  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2013/12/01 20:10:16  revo
 Jessica Grasso: +tr en
 

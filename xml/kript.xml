@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kript.xml,v 1.14 2009/07/01 17:21:59 revo Exp $">
+<art mrk="$Id: kript.xml,v 1.16 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>kript</rad>/o
@@ -38,10 +38,25 @@ mortintojn.
       <trd>&c_s;&c_k;&c_l;&c_je;&c_p;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hrobka</trd>,
+    <trd>krypta</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hrobka</trd>,
+    <trd>krypta</trd>,
+    <trd>podzemná kobka</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kript.xml,v $
+Revision 1.16  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2009/07/01 17:21:59  revo
 Paul Peeraerts: +trd nl
 

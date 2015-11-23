@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lam.xml,v 1.21 2012/09/03 08:10:13 revo Exp $">
+<art mrk="$Id: lam.xml,v 1.26 2015/09/30 06:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lam</rad>/a <fnt><bib>PV</bib></fnt>
@@ -33,6 +33,10 @@
       <trd>mank</trd>,
       <trd>kreupel</trd>,
       <trd>hinkend</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>kulawy</trd>,
+      <trd>chromy</trd>
     </trdgrp>
     <trd lng="pt">manco</trd>
   </snc>
@@ -71,12 +75,22 @@
       <trd>feeble</trd>
     </trdgrp>
     <trd lng="nl">mank</trd>
+    <trdgrp lng="pl">
+      <trd>kulawy</trd>,
+      <trd>ko&sacute;lawy</trd>,
+      <trd>wypaczony</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_u;&c_l;&c_mol;&c_g;&c_a;&c_v;&c_y;</trd>
-  <trd lng="ca">coix</trd>
+  <trd lng="bg">&c_o;&c_s;&c_a;&c_k;&c_a;&c_t;&c_je;&c_n;</trd>
   <trdgrp lng="br">
     <trd>kamm<klr tip="ind"> (ag.)</klr></trd>,
     <trd>jilgamm<klr tip="ind"> (ag.)</klr></trd>
+  </trdgrp>
+  <trd lng="ca">coix</trd>
+  <trdgrp lng="cs">
+    <trd>chrom&yacute;</trd>,
+    <trd>kulhav&yacute;</trd>
   </trdgrp>
   <trd lng="es">cojo</trd>
   <trdgrp lng="fr">
@@ -90,6 +104,7 @@
     <trd>coxo</trd>
   </trdgrp>
   <trd lng="ru">&c_h;&c_r;&c_o;&c_m;&c_o;&c_j;</trd>
+  <trd lng="sk">chrom&yacute;</trd>
 </drv>
 
 <drv mrk="lam.0i">
@@ -99,6 +114,10 @@
     <dif>
       Esti <tld/>a, mistakte, malfacile iri.
     </dif>
+    <trdgrp lng="en">
+      <trd>to limp</trd>,
+      <trd>to hobble</trd>, <trd>to be lame</trd>
+    </trdgrp>
     <trdgrp lng="br">
       <trd>kamma&ntilde;<klr tip="ind"> (v.g.)</klr></trd>,
       <trd>jilgamma&ntilde;</trd>
@@ -108,6 +127,10 @@
     <trd lng="es">cojear</trd>
     <trd lng="fr">boiter</trd>
     <trd lng="nl"><ind>mank</ind> lopen</trd>
+    <trdgrp lng="pl">
+      <trd>kule&cacute;</trd>,
+      <trd>utyka&cacute;</trd>
+    </trdgrp>
   </snc>
   <snc mrk="lam.0i.FIG">
     <dif>
@@ -123,6 +146,8 @@
         io <tld/>as en nia movado.
       </ekz>
     </dif>
+    <trd lng="en">to be lame <klr><ekz><em>(that advertisement is
+    lame.)</em></ekz></klr></trd>
     <trdgrp lng="ca">
       <trd>fallar</trd>,
       <trd>no funcionar b&eacute;</trd>
@@ -135,14 +160,17 @@
     <trd lng="br">mont <ind>a-dreuz</ind></trd>
     <trd lng="fr">aller de <ind>travers</ind></trd>
     <trd lng="nl">niet goed <ind>functioneren</ind></trd>
+    <trd lng="pl">kule&cacute;</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_k;&c_u;&c_l;&c_mol;&c_g;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_k;&c_a;&c_n;&c_d;&c_y;&c_b;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">coixejar</trd>
+  <trd lng="cs">kulhat</trd>
   <trd lng="hu">s&aacute;nt&iacute;t</trd>
   <trd lng="ru">&c_h;&c_r;&c_o;&c_m;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">kr&iacute;va&tcaron;</trd>
 </drv>
 
 <drv mrk="lam.0ulo">
@@ -157,16 +185,19 @@
       </ekz>
     </dif>
     <ref tip="super" cel="kripl.0ulo">kriplulo</ref>
+    <trd lng="en">lame person</trd>
   </snc>
   <trdgrp lng="br">
     <trd>kamm<klr tip="ind"> (ak.)</klr></trd>,
     <trd>jilgamm<klr tip="ind"> (ak.)</klr></trd>
   </trdgrp>
   <trd lng="ca">coix <klr>(subst.)</klr></trd>
+  <trd lng="cs">chrom&yacute; &ccaron;lov&ecaron;k</trd>
   <trd lng="es">cojo</trd>
   <trd lng="fr">boiteux<klr> (subst.)</klr></trd>
   <trd lng="nl">lamme</trd>
   <trd lng="ru">&c_h;&c_r;&c_o;&c_m;&c_o;&c_j;<klr tip="amb"> (&c_s;&c_u;&c_shch;.)</klr></trd>
+  <trd lng="sk">chrom&yacute; &ccaron;lovek</trd>
 </drv>
 
 <drv mrk="lam.post0i">
@@ -188,13 +219,33 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en">to limp behind</trd>
     <trd lng="ca">anar a l'encal&ccedil;</trd>
     <trd lng="fr">peiner &agrave; rattraper</trd>
+    <trdgrp lng="pl">
+      <trd>wlec si&eogonek; <klr>(za kim&sacute;)</klr></trd>,
+      <trd>nad&aogonek;&zdot;a&cacute; <klr>(za kim&sacute;, za czym&sacute;)</klr></trd>
+    </trdgrp>
   </snc>
 </drv>
 </art>
 <!--
 $Log: lam.xml,v $
+Revision 1.26  2015/09/30 06:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.25  2015/09/17 15:10:19  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.24  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/06/15 18:10:14  revo
+Joop Eggen: +trd bg
+
 Revision 1.21  2012/09/03 08:10:13  revo
 Marc Rausell: ++ trd ca
 
@@ -202,20 +253,5 @@ Revision 1.20  2011/05/13 08:10:12  revo
 Jeromo Vasxe: + post~i
 
 Revision 1.19  2009/09/23 17:26:16  revo
-Paul Peeraerts: +nl
-
-Revision 1.18  2006/08/25 14:12:10  revo
-Tulio Flores: +tr pt
-
-Revision 1.17  2005/04/26 16:32:19  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.16  2005/04/06 16:37:02  revo
-Alan ar Gall: +trd br
-
-Revision 1.15  2005/03/09 18:18:10  revo
-Yury Finkel: +trd ru
-
-Revision 1.14  2004/01/04 17:33:49  revo
 -->
 </vortaro>

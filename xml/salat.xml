@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: salat.xml,v 1.26 2012/08/10 14:11:27 revo Exp $">
+<art mrk="$Id: salat.xml,v 1.28 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>salat</rad>/o
@@ -63,6 +63,10 @@ tran&ccirc;itaj eroj:
     <trd>amanida</trd>,
     <trd>ensalada</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>salát</trd>,
+    <trd>slátanina</trd>
+  </trdgrp>
   <trd lng="de">Salat</trd>
   <trd lng="en">salad</trd>
   <trd lng="es">ensalada</trd>
@@ -76,12 +80,22 @@ tran&ccirc;itaj eroj:
     <trd>slaatje</trd>
   </trdgrp>
   <trd lng="pl">sa&lstroke;atka</trd>
-  <trd lng="ru">&c_s;&c_a;&c_l;&c_a;&c_t;</trd>
   <trd lng="pt">salada</trd>
+  <trd lng="ru">&c_s;&c_a;&c_l;&c_a;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>miešanina</trd>,
+    <trd>šalát</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: salat.xml,v $
+Revision 1.28  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2012/08/10 14:11:27  revo
 Marc Rausell: + trd ca
 

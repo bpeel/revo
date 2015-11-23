@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rudr.xml,v 1.7 2011/07/13 19:11:17 revo Exp $">
+<art mrk="$Id: rudr.xml,v 1.9 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>rudr</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -21,6 +21,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">kormidelní ploutev</trd>
   <trd lng="de">Ruder</trd>
   <trd lng="fr">gouvernail</trd>
   <trdgrp lng="hu">
@@ -32,6 +33,7 @@
     <trd>&c_r;&c_u;&c_l;&c_mol;<klr tip="amb"> (&c_u; &c_l;&c_o;&c_d;&c_k;&c_i;, &c_k;&c_o;&c_r;&c_a;&c_b;&c_l;&c_ja;)</klr></trd>,
     <trd>&c_k;&c_o;&c_r;&c_m;&c_i;&c_l;&c_o;</trd>
   </trdgrp>
+  <trd lng="sk">kormidlová plutva</trd>
 </drv>
 
 <drv mrk="rudr.0isto">
@@ -53,15 +55,23 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">kormidelník</trd>
   <trdgrp lng="fr">
     <trd>man&oelig;uvrier</trd>,
     <trd>timonier</trd>
   </trdgrp>
+  <trd lng="sk">kormidelník</trd>
 </drv>
 </art>
 
 <!--
 $Log: rudr.xml,v $
+Revision 1.9  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.7  2011/07/13 19:11:17  revo
 Jeromo Vasxe: + ~isto
 

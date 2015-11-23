@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: morgau.xml,v 1.27 2009/11/02 17:30:21 revo Exp $">
+<art mrk="$Id: morgau.xml,v 1.30 2015/08/16 22:10:14 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>morga&ubreve;</rad>
@@ -36,11 +36,13 @@ t&ocirc;t</trd>
    <trd lng="cs">z&iacute;tra</trd>
    <trd lng="de">morgen</trd>
    <trd lng="en">tomorrow</trd>
+   <trd lng="es">ma&ntilde;ana<klr tip="amb"> (d&iacute;a siguiente)</klr></trd>
    <trd lng="fa">&a_f;&a_r;&a_d;&a_A;</trd>
    <trd lng="fi">huomenna</trd>
    <trd lng="fr">demain</trd>
    <trd lng="he">&mem;&het;&resh;</trd>
    <trd lng="hu">holnap</trd>
+   <trd lng="id">besok</trd>
    <trd lng="ja">&#26126;&#26085; [<ind>&#12354;&#12375;&#12383;</ind>]</trd>
    <trd lng="nl">morgen</trd>
    <trd lng="pl">jutro</trd>
@@ -51,6 +53,11 @@ t&ocirc;t</trd>
    <trd lng="sv">i <ind>morgon</ind></trd>
    <trd lng="tr">yar&inodot;n</trd>
    <trd lng="vo">model</trd>
+   <trdgrp lng="zh">
+     <trd>&#26126;&#26085; [<ind>m&iacute;ng r&igrave;</ind>]</trd>&#65292;
+     <trd>&#26126;&#22825; [<ind>m&iacute;ng ti&#257;n</ind>]</trd>&#65292;
+     <trd>&#26126;&#26397; [<ind>m&iacute;ng zh&#257;o</ind>]</trd>
+   </trdgrp>
 </drv>
 
 <drv mrk="morgau.0a">
@@ -127,13 +134,15 @@ lng="be">&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_z;&c_a;&c_w;&c_t;&c_r;&c_a;</trd>
    <trd lng="fi">ylihuomenna</trd>
    <trd lng="fr">apr&egrave;s-demain</trd>
    <trd lng="he">&mem;&het;&resh;&tav;&yod;&yod;&fmem;</trd>
+   <trd lng="id">lusa</trd>
    <trd lng="ja">&#26126;&#24460;&#26085;
 [<ind>&#12354;&#12373;&#12387;&#12390;</ind>]</trd>
    <trd lng="nl">overmorgen</trd>
    <trd lng="pl">pojutrze</trd>
    <trd lng="pt">depois de amanh&atilde;</trd>
    <trd lng="ro">poim&acirc;ine</trd>
-   <trd lng="ru">&c_p;&c_o;&c_s;&c_l;&c_je;&c_z;&c_a;&c_v;&c_t;&c_r;&c_a;</trd>
+   <trd 
+lng="ru">&c_p;&c_o;&c_s;&c_l;&c_je;&c_z;&c_a;&c_v;&c_t;&c_r;&c_a;</trd>
    <trd lng="sk">pozajtra</trd>
    <trd lng="sv">i <ind>&ouml;vermorgon</ind></trd>
    <trd lng="tr">&ouml;b&uuml;r g&uuml;n</trd>
@@ -142,6 +151,15 @@ lng="be">&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_z;&c_a;&c_w;&c_t;&c_r;&c_a;</trd>
 <!--
 
 $Log: morgau.xml,v $
+Revision 1.30  2015/08/16 22:10:14  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.29  2015/06/26 07:10:19  revo
+Darcy Shen: +trd zh
+
+Revision 1.28  2014/11/12 09:10:21  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.27  2009/11/02 17:30:21  revo
 Zmicier Lapcionak: + trd ja
 
@@ -155,15 +173,6 @@ Revision 1.24  2006/08/10 19:45:10  revo
 Tulio Flores: +tr pt
 
 Revision 1.23  2006/06/09 16:31:09  revo
-Jeromo Vasxe: + ~a
-
-Revision 1.22 2006/03/08 17:32:17 revo
-Vito Redsky: +trd ro
-
-Revision 1.21 2005/05/16 17:47:23 revo
-Yury Finkel: +trd ru, formatigis
-
-Revision 1.20 2005/02/25 17:34:43 revo
 -->
 
 </vortaro>

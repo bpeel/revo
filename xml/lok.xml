@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lok.xml,v 1.45 2014/08/29 12:10:09 revo Exp $">
+<art mrk="$Id: lok.xml,v 1.48 2015/07/05 04:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lok</rad>/o <fnt><bib>PV</bib></fnt>
@@ -124,7 +124,11 @@
     <trd lng="fr">position<klr> (d'un argument)</klr></trd>
   </snc>
   <trd lng="be">&c_m;&c_je;&c_s;&c_c;&c_a;</trd>
-  <trd lng="cs">m&iacute;sto</trd>
+  <trdgrp lng="cs">
+    <trd>adresa</trd>,
+    <trd>m&iacute;sto</trd>,
+    <trd>um&iacute;st&ecaron;n&iacute;</trd>
+  </trdgrp>
   <trd lng="en">place</trd>
   <trd lng="hu">hely</trd>
   <trdgrp lng="id">
@@ -134,6 +138,11 @@
   <trd lng="nl">plaats</trd>
   <trd lng="pt">lugar</trd>
   <trd lng="ru">&c_m;&c_je;&c_s;&c_t;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>adresa</trd>,
+    <trd>miesto</trd>,
+    <trd>umiestnenie</trd>
+  </trdgrp>
   <trdgrp lng="sv">
     <trd>plats</trd>,
     <trd>st&auml;lle</trd>
@@ -266,6 +275,10 @@
     <trd>&c_m;&c_ja;&c_s;&c_c;&c_o;&c_v;&c_y;</trd>,
     <trd>&c_l;&c_ja;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lok&aacute;ln&iacute;</trd>,
+    <trd>m&iacute;stn&iacute;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>&ouml;rtlich</trd>,
     <trd>lokal</trd>
@@ -283,6 +296,10 @@
   <trd lng="id">lokal</trd>
   <trd lng="nl">plaatselijk</trd>
   <trd lng="pt">local</trd>
+  <trdgrp lng="sk">
+    <trd>lok&aacute;lny</trd>,
+    <trd>miestny</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lok.0i">
@@ -317,6 +334,11 @@
     <trdgrp lng="de">
       <trd>platzieren</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd>put</trd>,
+      <trd>set</trd>
+      <trd>place</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>disposer</trd>,
       <trd>placer</trd>
@@ -339,6 +361,7 @@
     <trdgrp lng="de">
       <trd>stellen</trd>
     </trdgrp>
+    <trd lng="en">place</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>,
       <trd>&c_p;&c_o;&c_s;&c_a;&c_d;&c_i;&c_t;&c_mol;</trd>
@@ -361,6 +384,10 @@
         <tld/>i iun en superan oficon, rangon.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd>instal</trd>,
+      <trd>place</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_p;&c_o;&c_m;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
       <trd>&c_p;&c_r;&c_i;&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_mol;</trd>
@@ -395,6 +422,16 @@
     <trd>p&ocirc;r</trd>
   </trdgrp>
   <trd lng="sv">placera</trd>
+  <trdgrp lng="sk">
+    <trd>preadresova&tcaron;</trd>,
+    <trd>premiestni&tcaron;</trd>,
+    <trd>presun&uacute;&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;eadresovat</trd>,
+    <trd>p&rcaron;em&iacute;stit</trd>,
+    <trd>p&rcaron;esunout</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lok.0ajxo">
@@ -478,6 +515,8 @@
     <trd lng="ru">&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je;
     <ind>&c_m;&c_je;&c_s;&c_t;&c_o;</ind></trd>
   </snc>
+  <trd lng="cs">geometrick&eacute; m&iacute;sto</trd>
+  <trd lng="sk">geometrick&eacute; miesto</trd>
 </drv>
 
 <drv mrk="lok.0umi">
@@ -509,6 +548,10 @@
       <trd>stellen</trd>,
       <trd>platzieren</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd>place (in school or in office)</trd>,
+      <trd>lend (at interest), invest</trd>
+    </trdgrp>
     <trd lng="es">colocar<klr> (en un empleo, un cargo)</klr></trd>
     <trd lng="fr">placer<klr> (dans un emploi, une
     fonction)</klr></trd>
@@ -518,6 +561,8 @@
       <trd>&c_p;&c_r;&c_i;&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">um&iacute;stit</trd>
+  <trd lng="sk">umiestni&tcaron;</trd>
 </drv>
 
 <drv mrk="lok.de0ede">
@@ -533,6 +578,7 @@
       <fnt><bib>MT</bib>, <lok>&Jeh; 40:19</lok></fnt>.
     </ekz>
   </snc>
+  <trd lng="en">from (the location of)</trd>
   <trd lng="es">desde</trd>
   <trd lng="hu">vminek a <ind>hely&eacute;t&odblac;l sz&aacute;m&iacute;tva</ind></trd>
 </drv>
@@ -546,6 +592,15 @@
     <trd lng="ru">&c_s;&c_m;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
   </snc>
   <trd lng="be">&c_z;&c_r;&c_u;&c_sh;&c_y;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>odstavit</trd>,
+    <trd>odsunout</trd>,
+    <trd>odsunovat</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>displace</trd>,
+    <trd>dislocate</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>desplazar</trd>,
     <trd>mover de sitio</trd>
@@ -556,6 +611,10 @@
     <trd>&aacute;thelyez</trd>
   </trdgrp>
   <trd lng="nl">verplaatsen</trd>
+  <trdgrp lng="sk">
+    <trd>odstavi&tcaron;</trd>,
+    <trd>odsun&uacute;&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lok.de0igo">
@@ -566,6 +625,10 @@
     </dif>
     <trdgrp lng="es">
       <trd>acci&oacute;n de mover</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>displacement</trd>,
+      <trd>action of moving</trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>d&eacute;placement<klr> (transfert)</klr></trd>,
@@ -605,7 +668,7 @@
     </rim>
     <trd lng="de"><klr tip="amb">(eigentliche) </klr>Bewegung</trd>
     <trdgrp lng="en">
-      <trd>displacement</trd>,
+      <trd>translation</trd>,
       <trd><klr tip="amb">(proper) </klr>motion</trd>,
       <trd><klr tip="amb">(proper) </klr>movement</trd>
     </trdgrp>
@@ -624,6 +687,8 @@
     <trd lng="ru"><klr tip="amb">(&c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;)
     </klr>&c_d;&c_v;&c_i;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
   </snc>
+  <trd lng="cs">p&rcaron;em&iacute;st&ecaron;n&iacute;</trd>
+  <trd lng="sk">premiestnenie</trd>
 </drv>
 
 <drv mrk="lok.dis0i">
@@ -648,6 +713,18 @@
     <trd>&c_r;&c_a;&c_z;&c_mol;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_d;&c_y;&c_s;&c_l;&c_ja;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dislokovat</trd>,
+    <trd>rozestavit</trd>,
+    <trd>rozestavit</trd>,
+    <trd>rozm&iacute;stit</trd>,
+    <trd>rozm&iacute;s&tcaron;ovat</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>disperse</trd>,
+    <trd>spread about</trd>,
+    <trd>propagate</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>dispersar</trd>,
     <trd>diseminar</trd>,
@@ -665,6 +742,7 @@
   </trdgrp>
   <trd lng="nl">verdelen</trd>
   <trd lng="pt">deslocar</trd>
+  <trd lng="sk">rozmiestni&tcaron;</trd>
 </drv>
 
 <drv mrk="lok.du0a">
@@ -711,6 +789,8 @@
       <trd>&c_b;&c_i;&c_n;&c_a;&c_r;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">dvojm&iacute;stn&yacute;</trd>
+  <trd lng="sk">dvojmiestny</trd>
 </drv>
 
 <drv mrk="lok.en0igi">
@@ -718,6 +798,12 @@
   <snc>
     <ref tip="dif" cel="lok.0i"><tld/>i</ref>
   </snc>
+  <trd lng="cs">um&iacute;stit</trd>
+  <trdgrp lng="en">
+    <trd>put</trd>,
+    <trd>place</trd>
+    <trd>instal</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>ubicar</trd>
   </trdgrp>
@@ -725,6 +811,7 @@
     <trd>behelyez</trd>,
     <trd>betesz</trd>
   </trdgrp>
+  <trd lng="sk">dosadi&tcaron;</trd>
 </drv>
 
 <drv mrk="lok.havi0on">
@@ -748,6 +835,7 @@
     <trd>&c_a;&c_d;&c_b;&c_y;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_z;&c_d;&c_a;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trd lng="en">take place</trd>
   <trdgrp lng="es">
     <trd>tener lugar</trd>
   </trdgrp>
@@ -775,11 +863,17 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">m&iacute;sto bydli&scaron;t&ecaron;</trd>
+  <trdgrp lng="en">
+    <trd>homestead</trd>,
+    <trd>birthplace</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>pueblo</trd>,
     <trd>lugar de nacimiento</trd>
   </trdgrp>
   <trd lng="fr">village natal</trd>
+  <trd lng="sk">miesto bydliska</trd>
 </drv>
 
 <drv mrk="lok.mal0a">
@@ -795,6 +889,10 @@
     <ref tip="ant" cel="lok.0a.parta"><tld/>a<sncref/></ref>
   </snc>
   <trd lng="be">&c_g;&c_l;&c_ja;&c_b;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>celkov&yacute;</trd>,
+    <trd>glob&aacute;ln&iacute;</trd>
+  </trdgrp>
   <trd lng="en">global</trd>
   <trd lng="es">global</trd>
   <trd lng="fr">global</trd>
@@ -802,6 +900,10 @@
   <trd lng="id">global</trd>
   <trd lng="nl">globaal</trd>
   <trd lng="ru">&c_g;&c_l;&c_o;&c_b;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>celkov&yacute;</trd>,
+    <trd>glob&aacute;lny</trd>
+  </trdgrp>
   <trd lng="sv">global</trd>
 </drv>
 
@@ -827,6 +929,10 @@
   <trdgrp lng="es">
     <trd>movido<klr> (fuera de su lugar)</klr></trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>misplaced</trd>,
+    <trd>out of place</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>d&eacute;plac&eacute;<klr> (&agrave; la mauvaise place)</klr></trd>,
     <trd>pas &agrave; sa place</trd>
@@ -848,6 +954,18 @@
     <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_a;&c_s;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;ekl&aacute;dat <klr>(zbo&zcaron;&iacute;)</klr></trd>,
+    <trd>p&rcaron;em&iacute;stit</trd>,
+    <trd>p&rcaron;est&ecaron;hovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>umsetzen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>move/transfer/place <klr>(something)</klr> elsewhere</trd>,
+    <trd>bring over</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>desplazar</trd>,
     <trd>trasladar</trd>,
@@ -862,10 +980,11 @@
     <trd>&aacute;ttesz</trd>
   </trdgrp>
   <trd lng="nl">overbrengen</trd>
-  <trdgrp lng="de">
-    <trd>umsetzen</trd>
-  </trdgrp>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>premiestni&tcaron;</trd>,
+    <trd>pres&tcaron;ahova&tcaron;</trd>
+  </trdgrp>
   <trdgrp lng="sv">
     <trd>flytta<klr> (n&aring;got)</klr></trd>,
     <trd>transportera</trd>
@@ -885,6 +1004,7 @@
       <trd><ind>mover</ind>se</trd>,
       <trd><ind>trasladar</ind>se</trd>
     </trdgrp>
+    <trd lng="en">be moved/transferred/relocated</trd>
     <trdgrp lng="fr">
       <trd>se <ind>d&eacute;placer</ind></trd>,
       <trd>se <ind>transf&eacute;rer</ind></trd>
@@ -922,9 +1042,18 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">m&iacute;sto k sezen&iacute;</trd>
+  <trdgrp lng="en">
+    <trd>seat <klr>(in a legislature)</klr></trd>,
+    <trd>sitting place</trd>
+  </trdgrp>
   <trd lng="es">asiento</trd>
   <trd lng="fr">place<klr> (si&egrave;ge)</klr></trd>
   <trd lng="id"><ind>tempat</ind> duduk</trd>
+  <trdgrp lng="sk">
+    <trd>miesto na sedenie</trd>,
+    <trd>sedadlo</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lok.unu0a">
@@ -982,6 +1111,7 @@
       <trd><ind>asentar</ind>se</trd>,
       <trd><ind>establecer</ind>se</trd>
     </trdgrp>
+    <trd lng="en">be/remain fixed <klr>(in abode)</klr></trd>
     <trd lng="fr">se <ind>fixer</ind><klr> (pour loger)</klr></trd>
     <trdgrp lng="hu">
       <trd>megtelepszik</trd>,
@@ -1030,6 +1160,15 @@
 </art>
 <!--
 $Log: lok.xml,v $
+Revision 1.48  2015/07/05 04:10:14  revo
+Erik Pedersen: aldonis anglajn vortojn
+
+Revision 1.47  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.46  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.45  2014/08/29 12:10:09  revo
 Guillermo Molleda Jimena: trd es
 
@@ -1043,14 +1182,5 @@ Revision 1.42  2012/07/09 18:10:09  revo
 Jeromo Vasxe: +mis~a, reord. drv
 
 Revision 1.41  2010/01/02 17:30:55  revo
-Jeromo Vasxe: + sid~o
-
-Revision 1.40 2009/09/05 16:30:43 revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.39 2009/08/14 16:30:32 revo
-Sergio Pokrovskij: interpunkcio
-
-Revision 1.38 2009/08/13 16:30:33 revo
 -->
 </vortaro>

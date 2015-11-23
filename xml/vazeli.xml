@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vazeli.xml,v 1.16 2014/01/07 12:10:20 revo Exp $">
+<art mrk="$Id: vazeli.xml,v 1.18 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>vazelin</rad>/o
@@ -20,6 +20,7 @@
   <trd lng="be">&c_v;&c_a;&c_z;&c_e;&c_l;&c_ib;&c_n;</trd>
   <trd lng="bg">&c_v;&c_a;&c_z;&c_je;&c_l;&c_i;&c_n;</trd>
   <trd lng="ca">vaselina</trd>
+  <trd lng="cs">petrolátum</trd>
   <trd lng="de">Vaseline</trd>
   <trd lng="el">&beta;&alfa;&zeta;&epsilon;&lambda;&jota_ton;&ny;&eta;</trd>
   <trd lng="en">vaseline</trd>
@@ -30,10 +31,17 @@
   <trd lng="nl">vaseline</trd>
   <trd lng="pt">vaselina</trd>
   <trd lng="ru">&c_v;&c_a;&c_z;&c_je;&c_l;&c_i;&c_n;</trd>
+  <trd lng="sk">petrolatum</trd>
 </drv>
 </art>
 <!--
 $Log: vazeli.xml,v $
+Revision 1.18  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2014/01/07 12:10:20  revo
 Damien Brucker: +trd fr
 

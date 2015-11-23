@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekin.xml,v 1.13 2013/04/04 19:10:13 revo Exp $">
+<art mrk="$Id: ekin.xml,v 1.15 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <rad>ekin</rad>/o
 </kap>
@@ -21,10 +21,24 @@
   <trd lng="pt">equino</trd>
   <trd lng="ru">&c_m;&c_o;&c_r;&c_s;&c_k;&c_o;&c_j;
   &c_k;&c_a;&c_sh;&c_t;&c_a;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>ježovka</trd>,
+    <trd>morský jež</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ježovka mořská</trd>,
+    <trd>mořský ježek</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ekin.xml,v $
+Revision 1.15  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2013/04/04 19:10:13  revo
 Sebastian Cyprych: +trd pl
 

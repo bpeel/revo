@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: helebo.xml,v 1.18 2013/08/30 14:11:20 revo Exp $">
+<art mrk="$Id: helebo.xml,v 1.20 2015/10/16 05:10:15 revo Exp $">
 <kap>
 <rad>helebor</rad>/o
 <fnt>Z</fnt>
@@ -24,10 +24,15 @@
   </snc>
   <trd lng="be">&c_ch;&c_a;&c_m;&c_je;&c_r;</trd>
   <trd lng="de">Nieswurz</trd>
+  <trdgrp lng="en">
+    <trd>Helleborus</trd>,
+    <trd>hellebore</trd>, <trd>Lenten rose</trd>
+  </trdgrp>
   <trd lng="fr">hell&eacute;bore</trd>
   <trd lng="hu">hunyor</trd>
   <trd lng="it">elleboro</trd>
   <trd lng="nl">nieskruid</trd>
+  <trd lng="pl">ciemiernik</trd>
   <trd lng="pt">hel&eacute;boro</trd>
   <trd lng="ru">&c_m;&c_o;&c_r;&c_o;&c_z;&c_n;&c_i;&c_k;</trd>
 </drv>
@@ -50,6 +55,8 @@
     <trd>Schneerose</trd>,
     <trd>Christrose</trd>
   </trdgrp>
+  <trdgrp lng="en"><trd>black hellebore</trd>, <trd>Christmas
+  rose</trd></trdgrp>
   <trdgrp lng="fr">
     <trd>hell&eacute;bore noir</trd>,
     <trd>rose de No&euml;l</trd>
@@ -68,6 +75,12 @@
 </art>
 <!--
 $Log: helebo.xml,v $
+Revision 1.20  2015/10/16 05:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2015/09/25 22:10:19  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.18  2013/08/30 14:11:20  revo
 Wolfram Diestel: kor. lst-ref
 
@@ -84,11 +97,5 @@ Revision 1.14  2002/07/05 17:32:26  revo
 Eduardo M. Kalinowski: ald trd pt
 
 Revision 1.13  2002/04/02 17:55:45  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12  2002/02/24 20:15:50  revo
-Wolfram Diestel: +bildoj
-
-Revision 1.11  2002/01/04 17:34:46  revo
 -->
 </vortaro>

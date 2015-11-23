@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: somer.xml,v 1.32 2014/06/03 15:10:19 revo Exp $">
+<art mrk="$Id: somer.xml,v 1.34 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>somer</rad>/o <fnt><bib>PV</bib></fnt>
@@ -45,6 +45,7 @@
   <trd lng="pl">lato</trd>
   <trd lng="ro">var&abreve;</trd>
   <trd lng="ru">&c_l;&c_je;&c_t;&c_o;</trd>
+  <trd lng="sk">leto</trd>
   <trd lng="sv">sommar</trd>
   <trd lng="tr">yaz</trd>
   <trd lng="vo">solatim</trd>
@@ -62,10 +63,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">letní</trd>
   <trd lng="fr">estival</trd>
   <trd lng="it">estivo</trd>
   <trd lng="ja">&#22799;&#12398; [<ind>&#12394;&#12388;&#12398;</ind>]</trd>
   <trd lng="pl">letni</trd>
+  <trd lng="sk">letný</trd>
 </drv>
 
 <drv mrk="somer.0e">
@@ -114,12 +117,23 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">trávit letní dovolenou</trd>
   <trd lng="fr">estiver<klr> (passer les vacances d'&eacute;t&eacute;)</klr></trd>
   <trd lng="it">passare le <ind>vacanze</ind> estive</trd>
+  <trdgrp lng="sk">
+    <trd>letovať</trd>,
+    <trd>tráviť leto</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: somer.xml,v $
+Revision 1.34  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.32  2014/06/03 15:10:19  revo
 Eko Nur Syah Hidayat: +id
 

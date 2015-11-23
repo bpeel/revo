@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fotote.xml,v 1.8 2007/06/05 16:31:50 revo Exp $">
+<art mrk="$Id: fotote.xml,v 1.10 2015/10/09 13:10:15 revo Exp $">
 <kap>
   <rad>fototelegraf</rad>/i
 </kap>
@@ -12,7 +12,8 @@
   <uzo tip="stl">ARK</uzo>
   <snc>
     <dif>
-      Distance transsendi bildon per elektraj kurentoj a&ubreve; elektromagnetaj ondoj.
+      Distance transsendi bildon per elektraj kurentoj a&ubreve;
+      elektromagnetaj ondoj.
     </dif>
     <refgrp tip="vid">
       Ne konfuzu kun:
@@ -24,6 +25,7 @@
     </refgrp>
   </snc>
   <trd lng="ca">fototelegrafiar</trd>
+  <trd lng="en">to phototelegraph</trd>
   <trdgrp lng="fr">
     <trd>b&eacute;linographier</trd>,
     <trd>t&eacute;lautographier</trd></trdgrp> 
@@ -41,6 +43,12 @@
 </art>
 <!--
 $Log: fotote.xml,v $
+Revision 1.10  2015/10/09 13:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.9  2015/10/09 12:10:17  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.8  2007/06/05 16:31:50  revo
 Tulio Flores: +tr pt
 
@@ -51,11 +59,11 @@ Revision 1.6  2002/10/21 16:35:41  revo
 Oscar Puig: + trd ca
 
 Revision 1.5  2001/09/22 18:11:55  revo
-Marc Bavant: +trd fr; -uzo FOT/ELE, +uzo TEL, +uzo ARK, +precizigo en ref al telefotografi, +ref al faksi
+Marc Bavant: +trd fr; -uzo FOT/ELE, +uzo TEL, +uzo ARK, +precizigo en
+ref al telefotografi, +ref al faksi
 
 Revision 1.4  2001/05/10 17:51:35  revo
 Yury Finkel: +trd ru
 
 -->
 </vortaro>
-

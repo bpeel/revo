@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: morus.xml,v 1.19 2013/08/27 15:10:35 revo Exp $">
+<art mrk="$Id: morus.xml,v 1.21 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>morus</rad>/o <fnt><bib>PV</bib></fnt>
@@ -20,6 +20,7 @@
   </snc>
   <trd lng="be">&c_t;&c_u;&c_t;&c_a;&c_v;&c_a;&c_ja; &c_ja;&c_g;&c_a;&c_d;&c_a;</trd>
   <trd lng="ca">m&oacute;ra</trd>
+  <trd lng="cs">morušovník</trd>
   <trd lng="de">Maulbeere</trd>
   <trd lng="en">mulberry</trd>
   <trdgrp lng="fa">
@@ -31,6 +32,7 @@
   <trd lng="nl">moerbei</trd>
   <trd lng="pl">morwa</trd>
   <trd lng="ru">&c_t;&c_u;&c_t;&c_o;&c_v;&c_a;&c_ja; &c_ja;&c_g;&c_o;&c_d;&c_a;</trd>
+  <trd lng="sk">moruša <klr>(strom)</klr></trd>
   <trd lng="tr">dut</trd>
 </drv>
 
@@ -64,6 +66,7 @@
     <trd>&c_m;&c_o;&c_r;&c_v;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">morera</trd>
+  <trd lng="cs">morušovník</trd>
   <trd lng="de">Maulbeerbaum</trd>
   <trd lng="en">mulberry tree</trd>
   <trd lng="fa">&a_d;&a_r;&a_kh;&a_t; <ind>&a_t;&a_w;&a_t;</ind></trd>
@@ -76,11 +79,18 @@
     <trd>&c_t;&c_u;&c_t;&c_a;</trd>,
     <trd>&c_sh;&c_je;&c_l;&c_k;&c_o;&c_v;&c_i;&c_c;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">moruša <klr>(strom)</klr></trd>
   <trd lng="tr">dut</trd>
 </drv>
 </art>
 <!--
 $Log: morus.xml,v $
+Revision 1.21  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/08/27 15:10:35  revo
 Wolfram Diestel: referencoj al frukto, al listoj bot genroj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kost.xml,v 1.25 2013/10/23 20:10:13 revo Exp $">
+<art mrk="$Id: kost.xml,v 1.27 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kost</rad>/i
@@ -56,7 +56,11 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_sh;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">costar</trd>
-  <trd lng="cs">st&aacute;t (o cen&ecaron;)</trd>
+  <trdgrp lng="cs">
+    <trd>koštovat</trd>,
+    <trd>mít cenu</trd>,
+    <trd>st&aacute;t (o cen&ecaron;)</trd>
+  </trdgrp>
   <trd lng="de">kosten</trd>
   <trd lng="en">cost</trd>
   <trd lng="es">costar<klr tip="amb"> (tener precio)</klr></trd>
@@ -68,6 +72,11 @@
     <trd>importar em</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_t;&c_o;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>koštovať</trd>,
+    <trd>mať cenu</trd>,
+    <trd>stáť</trd>
+  </trdgrp>
   <trd lng="sv">kosta</trd>
 </drv>
 
@@ -91,6 +100,10 @@
   </trdgrp>
   <trd lng="bg">&c_s;&c_k;&c_malmol;&c_p;</trd>
   <trd lng="ca">car</trd>
+  <trdgrp lng="cs">
+    <trd>cenný</trd>,
+    <trd>drahý</trd>
+  </trdgrp>
   <trd lng="de">teuer</trd>
   <trdgrp lng="en">
     <trd>costly</trd>,
@@ -107,6 +120,10 @@
     <trd>dr&aacute;ga</trd>
   </trdgrp>
   <trd lng="ru">&c_d;&c_o;&c_r;&c_o;&c_g;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_shch;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>cenný</trd>,
+    <trd>drahý</trd>
+  </trdgrp>
   <trd lng="sv">dyr</trd>
 </drv>
 
@@ -128,6 +145,7 @@
     <trd>al preu de</trd>,
     <trd>a costa de</trd>
   </trdgrp>
+  <trd lng="cs">za cenu</trd>
   <trdgrp lng="fr">
     <trd>au <ind>prix de</ind><klr> (inconv&eacute;nient)</klr></trd>,
     <trd>en <ind>subissant</ind><klr> (inconv&eacute;nient)</klr></trd>
@@ -137,6 +155,7 @@
     <trd>&c_c;&c_je;&c_n;&c_o;&c_j;<klr> (&c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>,
     <trd>&c_z;&c_a; &c_s;&c_ch;&c_jo;&c_t;</trd>
   </trdgrp>
+  <trd lng="sk">za cenu</trd>
 </drv>
 
 <drv mrk="kost.0o">
@@ -166,10 +185,15 @@
     <trd>cost</trd>,
     <trd>preu</trd>
   </trdgrp>
+  <trd lng="cs">náklad</trd>
   <trd lng="de">Kosten</trd>
   <trd lng="fr">co&ucirc;t</trd>
   <trd lng="hu">k&ouml;lts&eacute;g</trd>
   <trd lng="ru">&c_s;&c_t;&c_o;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>náklad</trd>,
+    <trd>výdavok</trd>
+  </trdgrp>
   <trd lng="sv">kostnad</trd>
 </drv>
 
@@ -216,6 +240,7 @@
   </trdgrp>
   <trd lng="bg">&c_s;&c_k;&c_malmol;&c_p;</trd>
   <trd lng="ca">car</trd>
+  <trd lng="cs">drahý</trd>
   <trd lng="de">teuer</trd>
   <trdgrp lng="en">
     <trd>costly</trd>,
@@ -233,7 +258,7 @@
     <trd>dr&aacute;ga</trd>
   </trdgrp>
   <trd lng="nl">duur</trd>
-<trdgrp lng="oc">
+  <trdgrp lng="oc">
   <trd>car</trd>,
   <trd>caresti&oacute;s</trd>
 </trdgrp>
@@ -241,11 +266,22 @@
     <trd>&c_d;&c_o;&c_r;&c_o;&c_g;&c_o;&c_j; <klr tip="amb">(&c_o; &c_c;&c_je;&c_n;&c_je;)</klr></trd>,
     <trd>&c_d;&c_o;&c_r;&c_o;&c_g;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_shch;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>drahocenný</trd>,
+    <trd>drahý</trd>,
+    <trd>nákladný</trd>
+  </trdgrp>
   <trd lng="sv">dyr</trd>
 </drv>
 </art>
 <!--
 $Log: kost.xml,v $
+Revision 1.27  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.25  2013/10/23 20:10:13  revo
 Benito Subejrano: + trd oc
 

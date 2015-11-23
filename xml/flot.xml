@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flot.xml,v 1.13 2011/10/15 10:10:16 revo Exp $">
+<art mrk="$Id: flot.xml,v 1.15 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <rad>flot</rad>/o
 </kap>
@@ -45,6 +45,14 @@
     <trd>marinha</trd>
   </trdgrp>
   <trd lng="ru">&c_f;&c_l;&c_o;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>flotila</trd>,
+    <trd>loďstvo</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>flota</trd>,
+    <trd>loďstvo</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flot.aero0o">
@@ -78,10 +86,18 @@
     <trd>&c_v;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j; &c_f;&c_l;&c_o;&c_t;</trd>,
     <trd>&c_a;&c_e;&c_r;&c_o;&c_f;&c_l;&c_o;&c_t;</trd>
   </trdgrp>
+  <trd lng="sk">letecká flotila</trd>
+  <trd lng="cs">letecká flotila</trd>
 </drv>
 </art>
 <!--
 $Log: flot.xml,v $
+Revision 1.15  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2011/10/15 10:10:16  revo
 Behnam Tabatabai: +trd fa
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dukt.xml,v 1.12 2012/08/04 08:10:41 revo Exp $">
+<art mrk="$Id: dukt.xml,v 1.16 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>dukt</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -110,6 +110,19 @@
     </subsnc>
     <trd lng="ca">conducte</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>ductus</trd>,
+    <trd>kanálek</trd>,
+    <trd>průchod</trd>,
+    <trd>trubice</trd>,
+    <trd>vývod</trd>,
+    <trd>vývod žláz se zevní sekrecí</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kanálik</trd>,
+    <trd>trubica</trd>,
+    <trd>vývod</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dukt.0a">
@@ -120,18 +133,8 @@
     <dif>
       Eliganta substancojn tra <tld/>o.
     </dif>
+    <ref tip="vid" cel="ekzokrin.0a.FIZL">ekzokrina <sncref/></ref>
   </snc>
-  <trd lng="ca">exocr&iacute;</trd>
-  <trdgrp lng="fa">
-    <trd>&a_b;&a_r;&a_w;&a_n;&zwnj;&a_r;&f_y;&a_z;</trd>,
-    <trd>&a_A;&f_g;&a_z;&a_w;&f_k;&a_r;&f_y;&a_n;</trd>
-  </trdgrp>
-  <trd lng="fr">exocrine</trd>
-  <trdgrp lng="hu">
-    <trd>exokrin</trd>,
-    <trd>k&uuml;ls&odblac; elv&aacute;laszt&aacute;s&uacute;</trd>
-  </trdgrp>
-  <trd lng="it">esocrino</trd>
 </drv>
 
 <drv mrk="dukt.akvo0o">
@@ -159,6 +162,11 @@
     <trd>&c_v;&c_a;&c_d;&c_a;&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;</trd>
   </trdgrp>
   <trd lng="ca">aq&uuml;educte</trd>
+  <trdgrp lng="cs">
+    <trd>akvadukt</trd>,
+    <trd>kanálek obsahující vodu</trd>,
+    <trd>mokovod</trd>
+  </trdgrp>
   <trd lng="de">Aqu&auml;dukt</trd>
   <trd lng="en">aqueduct</trd>
   <trd lng="es">acueducto</trd>
@@ -180,7 +188,10 @@
     <trd>&c_a;&c_k;&c_v;&c_je;&c_d;&c_u;&c_k;</trd>,
     <trd>&c_v;&c_o;&c_d;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
   </trdgrp>
-  <trd lng="sk">vodovod</trd>
+  <trdgrp lng="sk">
+    <trd>akvadukt</trd>,
+    <trd>vodovod</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dukt.gas0o">
@@ -218,6 +229,10 @@
     </dif>
   </snc>
   <trd lng="ca">oleoducte</trd>
+  <trdgrp lng="cs">
+    <trd>produktovod</trd>,
+    <trd>ropovod</trd>
+  </trdgrp>
   <trd lng="de">&Ouml;lpipeline</trd>
   <trd lng="en">oil <ind>pipeline</ind></trd>
   <trd lng="fa">&a_kh;&a_T; &a_l;&a_w;&a_l;&a_h;&a_hamza_sure; &a_n;&a_f;&a_t;</trd>
@@ -231,6 +246,7 @@
   </trdgrp>
   <trd
   lng="ru">&c_n;&c_je;&c_f;&c_t;&c_je;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
+  <trd lng="sk">ropovod</trd>
 </drv>
 
 <drv mrk="dukt.sen0a">
@@ -239,7 +255,7 @@
     <uzo tip="fak">FIZL</uzo>
     <uzo tip="klr">(pri organo)</uzo>
     <dif>
-      Eliganta substancojn rekte en sangon, sen <tld/>o:
+      Eliganta substancojn, sen <tld/>o:
       <ekz>
         aliaj <klr>[glandoj]</klr> estas tute sen<tld/>aj kaj ties 
         sekrecia&jcirc;oj enfluas rekte en la sangofluon
@@ -252,24 +268,25 @@
         </fnt>.
       </ekz>
     </dif>
+    <ref tip="vid" cel="endokrin.0a.FIZL">endokrina <sncref/></ref>
   </snc>
-  <trd lng="ca">endocr&iacute;</trd>
-  <trdgrp lng="fa">
-    <trd>&a_d;&a_r;&a_w;&a_n;&zwnj;&a_r;&f_y;&a_z;</trd>,
-    <trd>&a_A_madda;&a_n;&a_d;&a_w;&f_k;&a_r;&f_y;&a_n;</trd>
-  </trdgrp>
-  <trd lng="fr">endocrine</trd>
-  <trdgrp lng="hu">
-    <trd>endokrin</trd>,
-    <trd>bels&odblac; elv&aacute;laszt&aacute;s&uacute;</trd>
-  </trdgrp>
-  <trd lng="it">endocrino</trd>
-  <trd lng="nl">endocrien</trd>
 </drv>
 </art>
 
 <!--
 $Log: dukt.xml,v $
+Revision 1.16  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2015/01/01 18:10:16  revo
+Alain Gerard: +rim
+
+Revision 1.13  2015/01/01 10:10:26  revo
+Alain Gerard: +ref
+
 Revision 1.12  2012/08/04 08:10:41  revo
 Marc Rausell: + trd ca
 
@@ -286,11 +303,5 @@ Revision 1.8  2009/08/24 16:33:06  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.7  2009/07/17 16:31:02  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.6  200:7/09/07 16:30:26  revo
-Tulio Flores: +tr pt
-
-Revision 1.5  2007/05/22 16:32:16  revo
 -->
 </vortaro>

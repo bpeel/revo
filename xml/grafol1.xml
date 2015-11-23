@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: grafol1.xml,v 1.17 2012/08/19 00:11:01 revo Exp $">
+<art mrk="$Id: grafol1.xml,v 1.19 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>grafologi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -27,6 +27,10 @@
   </snc>
   <trd lng="be">&c_g;&c_r;&c_a;&c_f;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
   <trd lng="ca">grafologia</trd>
+  <trdgrp lng="cs">
+    <trd>grafologie</trd>,
+    <trd>písmoznalství</trd>
+  </trdgrp>
   <trd lng="de">Graphologie</trd>
   <trdgrp lng="en">
     <trd>graphology</trd>,
@@ -38,6 +42,7 @@
   <trd lng="nl">grafologie</trd>
   <trd lng="pt">grafologia</trd>
   <trd lng="ru">&c_g;&c_r;&c_a;&c_f;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="sk">písmoznalectvo</trd>
 </drv>
 
 <drv mrk="grafol1.0isto">
@@ -51,6 +56,10 @@
   </snc>
   <trd lng="be">&c_g;&c_r;&c_a;&c_f;&c_o;&c_l;&c_ja;&c_g;</trd>
   <trd lng="ca">graf&ograve;leg</trd>
+  <trdgrp lng="cs">
+    <trd>grafolog</trd>,
+    <trd>písmoznalec</trd>
+  </trdgrp>
   <trd lng="de">Graphologe</trd>
   <trdgrp lng="en">
     <trd>graphologist</trd>,
@@ -66,10 +75,17 @@
   <trd lng="nl">grafoloog</trd>
   <trd lng="pt">graf&oacute;logo</trd>
   <trd lng="ru">&c_g;&c_r;&c_a;&c_f;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="sk">písmoznalec</trd>
 </drv>
 </art>
 <!--
 $Log: grafol1.xml,v $
+Revision 1.19  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2012/08/19 00:11:01  revo
 Marc Rausell: + trd ca
 

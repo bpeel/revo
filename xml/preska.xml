@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: preska.xml,v 1.19 2011/12/10 21:10:27 revo Exp $">
+<art mrk="$Id: preska.xml,v 1.21 2015/03/17 07:10:16 revo Exp $">
 <kap><ofc>*</ofc> <rad>preska&ubreve;</rad></kap>
 <drv mrk="preska.0">
    <kap><ofc>*</ofc><tld/></kap>
@@ -53,7 +53,9 @@
      <trd>majdnem</trd>,
      <trd>szinte</trd>
    </trdgrp>
+   <trd lng="id">hampir</trd>
    <trd lng="nl">bijna</trd>
+   <trd lng="oc">quasi, gaireben</trd>
    <trdgrp lng="pl">
       <trd>bez ma&lstroke;a</trd>,
       <trd>niemal</trd>,
@@ -76,6 +78,12 @@
 </art>
 <!--
 $Log: preska.xml,v $
+Revision 1.21  2015/03/17 07:10:16  revo
+Christophe Chazarein: okcitana trad.
+
+Revision 1.20  2014/11/12 09:10:26  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.19  2011/12/10 21:10:27  revo
 Marc Rausell: +trd ca
 
@@ -92,11 +100,5 @@ Revision 1.15  2004/08/27 16:31:23  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.14  2004/08/26 16:32:08  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.13  2003/07/19 16:31:19  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12  2003/03/13 17:32:38  revo
 -->
 </vortaro>

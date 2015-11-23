@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxel.xml,v 1.46 2014/02/14 21:10:15 revo Exp $">
+<art mrk="$Id: cxel.xml,v 1.50 2015/09/08 20:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;el</rad>/o <fnt><bib>PV</bib></fnt>
@@ -76,11 +76,13 @@
           <vrk>Kulturaj aspektoj de komputil-programado</vrk>,
           <lok>SUS 22, 2000-06-10 &gcirc;is 12</lok>,
         </fnt>.
-        <trd lng="be">&c_ja;&c_ch;&c_e;&c_j;&c_k;&c_a; &c_p;&c_a;&c_m;&c_ja;&c_c;&c_ib;</trd>
+        <trd lng="be">&c_ja;&c_ch;&c_e;&c_j;&c_k;&c_a;
+        &c_p;&c_a;&c_m;&c_ja;&c_c;&c_ib;</trd>
         <trd lng="ca">cel&middot;la de mem&ograve;ria</trd>
         <trd lng="en">memory <ind>cell</ind></trd>
         <trd lng="de">Speicherzelle</trd>
-        <trd lng="ru">&c_ja;&c_ch;&c_je;&c_j;&c_k;&c_a; &c_p;&c_a;&c_m;&c_ja;&c_t;&c_i;</trd>
+        <trd lng="ru">&c_ja;&c_ch;&c_je;&c_j;&c_k;&c_a;
+        &c_p;&c_a;&c_m;&c_ja;&c_t;&c_i;</trd>
         <trd lng="it"><ind>cella</ind> di memoria</trd>
       </ekz>
     </dif>
@@ -182,7 +184,8 @@
     <dif>
       Iu el la <ref tip="super"
       cel="cxel.nervo0o.FIZL">nervo&ccirc;eloj</ref>,
-      kiuj &scirc;irmas kaj nutras la ne&ubreve;ronojn, kaj kiuj konsistigas
+      kiuj &scirc;irmas kaj nutras la ne&ubreve;ronojn, kaj kiuj
+      konsistigas
       la <ref tip="malprt" cel="gli.0o.FIZL">glion</ref>:
       <ekz>
         la nerva histo konsistas el du <tld/>specoj de sama deveno: la 
@@ -210,7 +213,39 @@
     <trd>c&egrave;l&middot;lula glial</trd>,
     <trd>c&egrave;l&middot;lula de neur&ograve;glia</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>c&eacute;lula glial</trd>,
+    <trd>gl&iacute;a</trd>,
+    <trd>neurog&iacute;a</trd>
+  </trdgrp>
   <trd lng="fr">cellule gliale</trd>
+</drv>
+
+<drv mrk="cxel.imun0o">
+  <kap>imun<tld/>o</kap>
+  <snc mrk="cxel.imun0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Iu el la &ccirc;eloj de la imunsistemo:
+      <ref tip="sub" cel="cxel.blankasango0o.FIZL">blanka
+      sango<tld/>o</ref>,
+      <ref tip="sub" cel="makrofag.0o.FIZL">makrofago</ref>
+      kaj aliaj:
+      <ekz>
+        se infektantoj superas la naturajn barierojn de la korpo kiaj 
+        estas ha&ubreve;to kaj mukozo, imun<tld/>oj zorgas <klr>...</klr>
+        malhelpi ilian pluan kreskadon
+        <fnt>
+          <aut>[A. Oberndorfer]</aut>,
+          <vrk><url
+          ref="http://esperantaretradio.blogspot.fr/2013/10/tiel-eblas-plifortigi-la-imunsistemon.html">
+          Tiel eblas plifortigi la imunsistemon</url></vrk>,
+          <lok>Esperanta Retradio, 2013-10-27</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">cellule immunitaire</trd>
 </drv>
 
 <drv mrk="cxel.limfo0o">
@@ -236,8 +271,34 @@
     </dif>
   </snc>
   <trd lng="ca">limf&ograve;cit</trd>
+  <trd lng="es">linfocito</trd>
   <trd lng="fr">lymphocyte</trd>
   <trd lng="pl">limfocyt</trd>
+</drv>
+
+<drv mrk="cxel.melano0o">
+  <kap>melano<tld/>o</kap>
+  <snc mrk="cxel.melano0o.FIZL">
+  <uzo tip="fak">FIZL</uzo>
+    <dif>
+      <tld lit="&Ccirc;"/>o de vertebruloj (inkluzive homon), kiu
+      sintezas
+      <ref tip="vid" cel="melanin.0o">melaninon</ref>:
+      <ekz>
+        oni observas &ccirc;e efelidoj super&scirc;ar&gcirc;on da
+        melanina pigmento en la
+        melano<tld/>oj de la baza tavolo de epidermo
+        <fnt>
+          <aut>Vikipedio</aut>,
+          <vrk><url
+          ref="http://eo.wikipedia.org/wiki/Efelido">Efelido</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">melanocyte</trd>
+  <trd lng="es">melanocito</trd>
+  <trd lng="fr">m&eacute;lanocyte</trd>
 </drv>
 
 <drv mrk="cxel.nervo0o">
@@ -261,6 +322,7 @@
   <trd lng="bg">&c_n;&c_je;&c_v;&c_r;&c_o;&c_n;</trd>
   <trd lng="ca">neurona</trd>
   <trd lng="de">Nervenzelle</trd>
+  <trd lng="es">neurona</trd>
   <trd lng="fr">cellule nerveuse</trd>
   <trd lng="it">cellula nervosa</trd>
   <trd lng="pl">kom&oacute;rka nerwowa</trd>
@@ -296,7 +358,8 @@
       </dif>
       <trd lng="de">Eizelle</trd>
       <trd lng="hu">petesejt</trd>
-      <trd lng="ru">&c_ja;&c_j;&c_c;&c_je;&c_k;&c_l;&c_je;&c_t;&c_k;&c_a;</trd>
+      <trd
+      lng="ru">&c_ja;&c_j;&c_c;&c_je;&c_k;&c_l;&c_je;&c_t;&c_k;&c_a;</trd>
     </subsnc>
     <subsnc mrk="cxel.ovo0o.BOT">
       <uzo tip="fak">BOT</uzo>
@@ -308,13 +371,15 @@
       </dif>
       <trd lng="de">Samenanlage</trd>
       <trd lng="hu">magkezdem&eacute;ny</trd>
-      <trd lng="ru">&c_s;&c_je;&c_m;&c_ja;&c_p;&c_o;&c_ch;&c_k;&c_a;</trd>
+      <trd
+      lng="ru">&c_s;&c_je;&c_m;&c_ja;&c_p;&c_o;&c_ch;&c_k;&c_a;</trd>
     </subsnc>
     <refgrp tip="vid">
       <ref cel="spermatozo.0o">spermatozoo</ref>
     </refgrp>
   </snc>
-  <trd lng="be">&c_ja;&c_j;&c_c;&c_a;&c_k;&c_l;&c_je;&c_t;&c_k;&c_a;</trd>
+  <trd
+  lng="be">&c_ja;&c_j;&c_c;&c_a;&c_k;&c_l;&c_je;&c_t;&c_k;&c_a;</trd>
   <trd lng="br">viell</trd>
   <trd lng="ca">&ograve;vul</trd>
   <trd lng="el">&omega;&alfa_ton;&rho;&jota;&omikron;</trd>
@@ -365,6 +430,10 @@
   </snc>
   <trd lng="ca">plasm&ograve;cit</trd>
   <trd lng="de">Plasmazelle</trd>
+  <trdgrp lng="es">
+    <trd>plasmocito</trd>,
+    <trd>c&eacute;lula plasm&aacute;tica</trd>
+  </trdgrp>
   <trd lng="fr">plasmocyte</trd>
 </drv>
 
@@ -394,6 +463,7 @@
   lng="bg">&c_m;&c_n;&c_o;&c_g;&c_o;&c_k;&c_l;&c_je;&c_t;&c_malmol;&c_ch;&c_n;&c_o;</trd>
   <trd lng="ca">organisme pluricel&middot;lular</trd>
   <trd lng="de">Mehrzeller</trd>
+  <trd lng="es">organismo pluricelular</trd>
   <trd lng="fr">organisme <ind>pluricellulaire</ind></trd>
   <trd lng="it">organismo <ind>pluricellulare</ind></trd>
   <trdgrp lng="pl">
@@ -424,6 +494,12 @@
     </dif>
   </snc>
   <trd lng="en">solar cell</trd>
+  <trdgrp lng="es">
+    <trd>c&eacute;lula solar</trd>,
+    <trd>c&eacute;lula fotovoltaica</trd>,
+    <trd>c&eacute;lula fotoel&eacute;ctrica</trd>,
+    <trd>fotoc&eacute;lula</trd>
+  </trdgrp>
   <trd lng="fr">cellule photovolta&iuml;que</trd>
 </drv>
 
@@ -441,6 +517,7 @@
   lng="bg">&c_je;&c_d;&c_n;&c_o;&c_k;&c_l;&c_je;&c_t;&c_malmol;&c_ch;&c_n;&c_o;</trd>
   <trd lng="ca">organisme unicel&middot;lular</trd>
   <trd lng="de">Einzeller</trd>
+  <trd lng="es">organismo unicelular</trd>
   <trd lng="fr">organisme <ind>monocellulaire</ind></trd>
   <trd lng="it">organismo <ind>monocellulare</ind></trd>
   <trdgrp lng="pl">
@@ -473,7 +550,8 @@
     </dif>
     <trdgrp lng="be">
       <trd>&c_l;&c_je;&c_j;&c_k;&c_a;&c_c;&c_y;&c_t;</trd>,
-      <trd>&c_b;&c_je;&c_l;&c_a;&c_ja; &c_k;&c_l;&c_je;&c_t;&c_k;&c_a; &c_k;&c_r;&c_y;&c_v;&c_ib;</trd>
+      <trd>&c_b;&c_je;&c_l;&c_a;&c_ja; &c_k;&c_l;&c_je;&c_t;&c_k;&c_a;
+      &c_k;&c_r;&c_y;&c_v;&c_ib;</trd>
     </trdgrp>
     <trd lng="bg">&c_l;&c_je;&c_v;&c_k;&c_o;&c_c;&c_i;&c_t;</trd>
     <trdgrp lng="ca">
@@ -491,7 +569,10 @@
       <trd>white blood corpuscle</trd>,
       <trd>white blood cell</trd>
     </trdgrp>
-    <trd lng="es">leucocito</trd>
+    <trdgrp lng="es">
+      <trd>leucocito</trd>,
+      <trd>gl&oacute;bulo blanco</trd>
+    </trdgrp>
     <trdgrp lng="fa">
       <trd>&f_g;&a_w;&f_y;&f_ch;&a_h;&a_hamza_sure;
       &a_s;&a_f;&f_y;&a_d;</trd>,
@@ -537,7 +618,8 @@
       kaj de ili deprenas karbondioksidon;
       <ref tip="sin" cel="eritrocit.0o.FIZL">eritrocito</ref>:
       <ekz>
-        dum kosmovoja&gcirc;o kosmona&ubreve;toj perdos ostokalcion kaj suferos
+        dum kosmovoja&gcirc;o kosmona&ubreve;toj perdos ostokalcion kaj
+        suferos
         de 
         muskola atrofio kaj redukti&gcirc;o de ru&gcirc;aj sango<tld/>oj
         <fnt>
@@ -552,7 +634,8 @@
     </dif>
     <trdgrp lng="be">
       <trd>&c_e;&c_r;&c_y;&c_t;&c_r;&c_a;&c_c;&c_y;&c_t;</trd>,
-      <trd>&c_ch;&c_y;&c_r;&c_v;&c_o;&c_n;&c_a;&c_ja; &c_k;&c_l;&c_je;&c_t;&c_k;&c_a; &c_k;&c_r;&c_y;&c_v;&c_ib;</trd>
+      <trd>&c_ch;&c_y;&c_r;&c_v;&c_o;&c_n;&c_a;&c_ja;
+      &c_k;&c_l;&c_je;&c_t;&c_k;&c_a; &c_k;&c_r;&c_y;&c_v;&c_ib;</trd>
     </trdgrp>
     <trdgrp lng="ca">
       <trd>gl&ograve;bul roig</trd>,
@@ -568,10 +651,28 @@
       <trd>czerwona <ind>krwinka</ind></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="es">
+    <trd>eritrocito</trd>,
+    <trd>gl&oacute;bulo rojo</trd>,
+    <trd>hemat&iacute;e</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: cxel.xml,v $
+Revision 1.50  2015/09/08 20:10:18  revo
+Jeromo Vasxe: + imun~o
+
+Revision 1.49  2015/04/13 10:10:16  revo
+Carlos Garcia: +trd es gli~o sun~o plasmo~o
+
+Revision 1.48  2015/04/13 00:10:14  revo
+Carlos Garcia: +trd es limfo~o melano~o nervo~o ovo~o plur~ulo sun~o
+unu~ulo blanka sango~o rugx
+
+Revision 1.47  2015/02/01 17:10:28  revo
+Alain Gerard: + melano~o +trd
+
 Revision 1.46  2014/02/14 21:10:15  revo
 Jeromo Vasxe: + sun~o
 
@@ -581,18 +682,5 @@ Wolfram Diestel: kor. ref-tip
 Revision 1.44  2013/03/27 15:10:14  revo
 Dmitri Gabinski: redakto: +trd be
 
-Revision 1.43  2013/01/16 11:10:11  revo
-Jeromo Vasxe: postkor.
-
-Revision 1.42  2013/01/16 10:10:11  revo
-Jeromo Vasxe: ovo~o snc/subsnc k trd el ovul k ovol
-
-Revision 1.41  2012/10/09 20:10:09  revo
-Jeromo Vasxe: + ovo~o el ov.xml
-
-Revision 1.40  2012/01/02 13:10:19  revo
-Marc Rausell: +trd ca
-
-Revision 1.39  2011/12/20 16:10:09  revo
 -->
 </vortaro>

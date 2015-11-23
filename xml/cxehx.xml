@@ -2,9 +2,9 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxehx.xml,v 1.16 2014/11/01 12:10:17 revo Exp $">
+<art mrk="$Id: cxehx.xml,v 1.19 2015/10/04 14:10:18 revo Exp $">
 <kap>
-  <rad>&ccirc;e&hcirc;</rad>/o
+  <rad>&ccirc;e&hcirc;</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 
 <drv mrk="cxehx.0o">
@@ -38,7 +38,7 @@
 
 <drv mrk="cxehx.0a">
   <kap><tld/>a</kap>
-  <snc>
+  <snc mrk="cxehx.0a.KOMUNE">
     <dif>
       Rilatanta al <tld/>oj, ilia nacieco a&ubreve; &scirc;tato:
     </dif>
@@ -60,13 +60,13 @@
 
 <drv mrk="cxehx.CX0ujo">
   <kap><tld lit="&Ccirc;"/>ujo</kap>
-  <snc>
-  <uzo tip="fak">GEOG</uzo>
-  <uzo tip="fak">POL</uzo>
+  <snc mrk="cxehx.CX0ujo.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
     <dif>
       <ref tip="lst" cel="sxtat.0o" lst="voko:&scirc;tatoj">&Scirc;tato</ref>
       situanta en
-      Mez-<ref tip="malprt" cel="euxrop1.E0o">E&ubreve;ropo</ref>
+      Mez<ref tip="malprt" cel="euxrop1.E0o">e&ubreve;ropo</ref>
       kun &ccirc;efurbo <ref tip="prt" cel="prag.0o">Prago</ref>.
     </dif>
   </snc>
@@ -100,46 +100,42 @@
 
 <drv mrk="cxehx.CX0oslovakujo">
   <kap><tld lit="&Ccirc;"/>oslovakujo</kap>
-  <snc>
-  <uzo tip="fak">GEOG</uzo>
-  <uzo tip="fak">POL</uzo>
+  <snc mrk="cxehx.CX0oslovakujo.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
     <dif>
-      Iama <ref tip="super" cel="sxtat.0o">&scirc;tato</ref> (1918-1992)
+      Eksa
+      <ref tip="lst" cel="sxtat.0o" lst="voko:&scirc;tatoj">&scirc;tato</ref>
+      (1918-1992)
       situanta en
-      Mez-<ref tip="malprt" cel="euxrop1.E0o">E&ubreve;ropo</ref>.
-      Okupi&gcirc;anta teritorion de nuntempaj: <ref tip="prt"
-      cel="cxehx.CX0ujo">&Ccirc;e&hcirc;ujo</ref>
-      kaj <ref tip="prt" cel="slovak.S0ujo.GEOG">Slovakujo</ref>.
+      Mez<ref tip="malprt" cel="euxrop1.E0o">e&ubreve;ropo</ref>,
+      en la teritorio de nuntempaj <ref tip="prt"
+      cel="cxehx.CX0ujo.GEOG">&Ccirc;e&hcirc;ujo</ref>
+      kaj <ref tip="prt" cel="slovak.S0ujo.GEOG">Slovakujo</ref>;
+      <ref tip="sin" cel="cxehxoslovaki.0o.GEOG">&Ccirc;e&hcirc;oslovakio</ref>.
     </dif>
-    </snc>
-    <trd lng="be">&c_Ch;&c_e;&c_h;&c_a;&c_s;&c_l;&c_a;&c_v;&c_a;&c_k;&c_ib;&c_ja;</trd>
-    <trd lng="en">Czechoslovakia</trd>
-    <trd lng="fr">Tch&eacute;coslovaquie</trd>
-    <trd lng="nl">Tsjechoslowakije</trd>
-    <trd lng="no">Tsjekkoslovakia</trd>
-    <trd lng="pl">Czechos&lstroke;owacja</trd>
-</drv>
-
-<drv mrk="cxehx.CX0oslovakio">
-  <kap><tld lit="&Ccirc;"/>oslovakio</kap>
-  <snc>
-  <uzo tip="fak">GEOG</uzo>
-  <uzo tip="fak">POL</uzo>
-      <ref tip="dif"
-      cel="cxehx.CX0oslovakujo">&Ccirc;e&hcirc;oslovakujo</ref>
   </snc>
-    <trd lng="be">&c_Ch;&c_e;&c_h;&c_a;&c_s;&c_l;&c_a;&c_v;&c_a;&c_k;&c_ib;&c_ja;</trd>
-    <trd lng="en">Czechoslovakia</trd>
-    <trd lng="fr">Tch&eacute;coslovaquie</trd>
-    <trd lng="nl">Tsjechoslowakije</trd>
-    <trd lng="no">Tsjekkoslovakia</trd>
-    <trd lng="pl">Czechos&lstroke;owacja</trd>
+  <trd lng="be">&c_Ch;&c_e;&c_h;&c_a;&c_s;&c_l;&c_a;&c_v;&c_a;&c_k;&c_ib;&c_ja;</trd>
+  <trd lng="en">Czechoslovakia</trd>
+  <trd lng="fr">Tch&eacute;coslovaquie</trd>
+  <trd lng="nl">Tsjechoslowakije</trd>
+  <trd lng="no">Tsjekkoslovakia</trd>
+  <trd lng="pl">Czechos&lstroke;owacja</trd>
 </drv>
-
 </art>
 
 <!--
 $Log: cxehx.xml,v $
+Revision 1.19  2015/10/04 14:10:18  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.18  2015/10/04 09:10:15  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.17  2015/10/02 22:10:17  revo
+Jeromo Vasxe: + ~oslovakujo - eraro en dif, ~oslovakio portita al propra
+art
+
 Revision 1.16  2014/11/01 12:10:17  revo
 Filip van Laenen: norvega kaj nederlanda traduko
 
@@ -152,15 +148,5 @@ Eko Nur Syah Hidayat: +id
 Revision 1.13  2014/06/09 17:10:18  revo
 Damien Brucker: +trd fr
 
-Revision 1.12  2013/12/01 15:10:26  revo
-Damien Brucker: +trd fr
-
-Revision 1.11  2013/08/30 14:10:47  revo
-Wolfram Diestel: kor. ref-cel
-
-Revision 1.10  2013/08/25 10:10:12  revo
-Wolfram Diestel: referencoj
-
-Revision 1.9  2013/02/13 15:10:16  revo
 -->
 </vortaro>

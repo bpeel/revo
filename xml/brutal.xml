@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: brutal.xml,v 1.4 2009/11/08 17:30:44 revo Exp $">
+<art mrk="$Id: brutal.xml,v 1.6 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <rad>brutal</rad>/a <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -37,11 +37,28 @@
     <trd lng="nl">brutaal</trd>
     <trd lng="pl">brutalny</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>brutální</trd>,
+    <trd>brutální</trd>,
+    <trd>hrubý</trd>,
+    <trd>násilnický</trd>,
+    <trd>ukrutný</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bezohľadný</trd>,
+    <trd>hrubý</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: brutal.xml,v $
+Revision 1.6  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2009/11/08 17:30:44  revo
 Paul Peeraerts: +nl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tint.xml,v 1.24 2013/09/08 18:11:09 revo Exp $">
+<art mrk="$Id: tint.xml,v 1.26 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tint</rad>/i <fnt><bib>PV</bib></fnt>
@@ -102,6 +102,12 @@
     </trdgrp>
     <trd lng="ru">&c_b;&c_r;&c_je;&c_n;&c_ch;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>břinkat</trd>,
+    <trd>cinkat</trd>,
+    <trd>klinkat</trd>,
+    <trd>řinčet</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>tinkle</trd>,
     <trd>jingle</trd>,
@@ -111,6 +117,11 @@
     <trd>rinkelen</trd>,
     <trd>kletteren</trd>,
     <trd>tingelen</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cvendžať</trd>,
+    <trd>rinčať</trd>,
+    <trd>štrngať</trd>
   </trdgrp>
 </drv>
 
@@ -153,6 +164,11 @@
     </trdgrp>
   <trd lng="pl">brzd&eogonek;k</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hučení v uších</trd>,
+    <trd>ušní šelesty</trd>
+  </trdgrp>
+  <trd lng="sk">hučanie v ušiach</trd>
 </drv>
 
 <drv mrk="tint.0igi">
@@ -171,6 +187,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">rozcinkat</trd>
   <trdgrp lng="de">
     <trd>ansto&szlig;en (z.B. mit Gl&auml;sern)</trd>
   </trdgrp>
@@ -196,6 +213,11 @@
     <trd>brzd&aogonek;ka&cacute;</trd>,
     <trd>dzwoni&cacute;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>zacengať</trd>,
+    <trd>zacvendžať</trd>,
+    <trd>zarinčať <klr>(niečím)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tint.0ilo">
@@ -220,12 +242,13 @@
     <trd>&c_b;&c_o;&c_m;&c_k;&c_a;</trd>,
     <trd>&c_z;&c_v;&c_a;&c_n;&c_o;&c_ch;&c_a;&c_k;</trd>
   </trdgrp>
+  <trd lng="cs">zvonek jízdního kola a pod.</trd>
   <trd lng="de">Glocke</trd>
+  <trd lng="en">jingle bell</trd>
   <trdgrp lng="fr">
     <trd>grelot</trd>,
     <trd>sonnaille</trd>
   </trdgrp>
-  <trd lng="en">jingle bell</trd>
   <trdgrp lng="hu">
     <trd>cseng&odblac;</trd>,
     <trd>kolomp</trd>
@@ -242,10 +265,20 @@
     <trd>&c_b;&c_u;&c_b;&c_je;&c_n;&c_ch;&c_i;&c_k;</trd>,
     <trd>&c_k;&c_o;&c_l;&c_o;&c_k;&c_o;&c_l;&c_mol;&c_ch;&c_i;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cengáč</trd>,
+    <trd>zvonček</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: tint.xml,v $
+Revision 1.26  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2013/09/08 18:11:09  revo
 Wolfram Diestel: ref al listo frapinstrumentoj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sam.xml,v 1.24 2013/12/24 02:10:12 revo Exp $">
+  <art mrk="$Id: sam.xml,v 1.27 2015/07/04 08:37:43 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>sam</rad>/a
@@ -187,25 +187,26 @@ anta&ubreve; 14
           <trd>&c_t;&c_o;&c_t; &c_zh;&c_je; &c_s;&c_a;&c_m;&c_y;&c_j;</trd>
         </trdgrp>
       </snc>
-      <trdgrp lng="cs">
-        <trd>stejn&yacute;</trd>,
-        <trd>t&yacute;&zcaron;</trd>
-      </trdgrp>
-      <trd lng="de">selb(-er, -e, -es)</trd>
-      <trd lng="en">same</trd>
-      <trd lng="es">mismo</trd>
-      <trdgrp lng="fr">
+  <trdgrp lng="cs">
+    <trd>nerozdílný</trd>,
+    <trd>stejn&yacute;</trd>,
+    <trd>t&yacute;&zcaron;</trd>
+  </trdgrp>
+  <trd lng="de">selb(-er, -e, -es)</trd>
+  <trd lng="en">same</trd>
+  <trd lng="es">mismo</trd>
+  <trdgrp lng="fr">
         <trd>identique</trd>,
         <trd>similaire</trd>,
         <trd>m&ecirc;me</trd>
       </trdgrp>
-      <trd lng="hu">ugyanaz</trd>
-     <trdgrp lng="it">
+  <trd lng="hu">ugyanaz</trd>
+  <trdgrp lng="it">
         <trd>stesso</trd>,
         <trd>uguale</trd>,
         <trd>medesimo</trd>
-      </trdgrp>  
-      <trdgrp lng="nl">
+      </trdgrp>
+  <trdgrp lng="nl">
         <trd>dezelfde</trd>,
         <trd>hetzelfde</trd>,
         <trd>gelijk</trd>
@@ -213,8 +214,12 @@ anta&ubreve; 14
   <trdgrp lng="pt">
    <trd>mesmo</trd>
   </trdgrp>
-      <trd lng="zh">&#21516;<klr> [t&oacute;ng]</klr></trd>
-    </drv>
+  <trd lng="sk">ten ist&yacute;</trd>
+  <trdgrp lng="zh">
+    <trd>&#21516; [<ind>t&oacute;ng</ind>]</trd>
+    <trd>&#19968;&#26679; [<ind>y&#299; y&agrave;ng</ind>]</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="sam.mal0a">
       <kap>mal<tld/>a</kap>
@@ -239,40 +244,55 @@ popoloj<fnt>Z</fnt>;
           <ref cel="abism.0o">abismo</ref>.
         </refgrp>
       </snc>
-      <trdgrp lng="be">
+  <trdgrp lng="be">
         <trd>&c_ib;&c_n;&c_sh;&c_y;</trd>,
         <trd>&c_a;&c_d;&c_r;&c_o;&c_z;&c_n;&c_y;</trd>
       </trdgrp>
-      <trdgrp lng="de">
+  <trd lng="cs">rozdílný</trd>
+  <trdgrp lng="de">
         <trd>ungleich</trd>,
         <trd>nicht dasselbe</trd>
       </trdgrp>
-      <trd lng="en">different</trd>
-      <trd lng="es">distinto</trd>
-      <trd lng="fr">diff&eacute;rent</trd>
-      <trdgrp lng="hu">
+  <trd lng="en">different</trd>
+  <trd lng="es">distinto</trd>
+  <trd lng="fr">diff&eacute;rent</trd>
+  <trdgrp lng="hu">
         <trd>teljesen m&aacute;s</trd>
         <trd>k&uuml;l&ouml;nb&ouml;z&odblac;</trd>,
         <trd>elt&eacute;r&odblac;</trd>
       </trdgrp>
-      <trdgrp lng="it">
+  <trdgrp lng="it">
         <trd>diverso</trd>,
         <trd>differente</trd>,
         <trd>distinto</trd>
       </trdgrp>
-      <trdgrp lng="nl">
+  <trdgrp lng="nl">
         <trd>ongelijk</trd>,
         <trd>verschillend</trd>
       </trdgrp>
-      <trdgrp lng="ru">
+  <trdgrp lng="ru">
         <trd>&c_d;&c_r;&c_u;&c_g;&c_o;&c_j;</trd>,
         <trd>&c_i;&c_n;&c_o;&c_j;</trd>
       </trdgrp>
-      <trd lng="tp">ante</trd>
-    </drv>
+  <trd lng="sk">rozdielny</trd>
+  <trd lng="tp">ante</trd>
+  <trdgrp lng="zh">
+    <trd>&#24322; [<ind>y&igrave;</ind>]</trd>
+    <trd>&#19981;&#21516; [<ind>b&ugrave; t&oacute;ng</ind>]</trd>
+  </trdgrp>
+</drv>
   </art>
   <!--
   $Log: sam.xml,v $
+  Revision 1.27  2015/07/04 08:37:43  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.26  2015/07/03 08:10:18  revo
+  Darcy Shen: + trd zh
+
+  Revision 1.25  2015/06/29 16:33:23  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.24  2013/12/24 02:10:12  revo
   Damien Brucker: +trd fr
 

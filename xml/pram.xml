@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pram.xml,v 1.18 2011/12/05 23:10:14 revo Exp $">
+<art mrk="$Id: pram.xml,v 1.21 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pram</rad>/o <fnt><bib>PV</bib></fnt>
@@ -24,10 +24,18 @@
   <trd lng="be">&c_p;&c_a;&c_r;&c_o;&c_m;</trd>
   <trd lng="bg">&c_f;&c_je;&c_r;&c_i;&c_b;&c_o;&c_t;</trd>
   <trd lng="ca">transbordador</trd>
+  <trdgrp lng="cs">
+    <trd>pramice</trd>,
+    <trd>prám</trd>
+  </trdgrp>
   <trd lng="de">F&auml;hre</trd>
   <trdgrp lng="en">
     <trd>ferry</trd>,
     <trd>pontoon</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>ferry</trd>,
+    <trd>transbordador</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>bac<klr> (bateau)</klr></trd>
@@ -43,6 +51,10 @@
     <trd>ferryboat</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_o;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>kompa</trd>,
+    <trd>prievoz</trd>
+  </trdgrp>
   <trd lng="sv">f&auml;rja</trd>
 </drv>
 
@@ -66,6 +78,10 @@
   </snc>
   <trd lng="ca">transbordador espacial</trd>
   <trd lng="de">Raumf&auml;hre</trd>
+  <trdgrp lng="es">
+    <trd>nave <ind>espacial</ind></trd>,
+    <trd>transbordador <ind>espacial</ind></trd>
+  </trdgrp>
   <trd lng="fr">navette spatiale</trd>
   <trdgrp lng="it">
     <trd>navetta <ind>spaziale</ind></trd>,
@@ -82,6 +98,15 @@
 </art>
 <!--
 $Log: pram.xml,v $
+Revision 1.21  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2015/04/07 09:10:14  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.18  2011/12/05 23:10:14  revo
 Marc Rausell: kataluna traduko
 
@@ -101,8 +126,5 @@ Revision 1.13  2006/03/17 17:32:15  revo
 Tulio Flores: +tr pt
 
 Revision 1.12  2003/08/19 16:30:57  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2002/11/01 17:30:32  revo
 -->
 </vortaro>

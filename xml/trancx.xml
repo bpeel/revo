@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trancx.xml,v 1.35 2013/09/25 06:10:10 revo Exp $">
+<art mrk="$Id: trancx.xml,v 1.38 2015/09/05 13:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>tran&ccirc;</rad>/i
+  <rad>tran&ccirc;</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
 
 <drv mrk="trancx.0i">
@@ -125,9 +125,18 @@
         plumbon<fnt>B</fnt>.
       </ekz>
     </dif>
-    
     <trd lng="de">Schnitt</trd>
-    <trd lng="es">cortadura</trd>
+    <trd lng="en">cut</trd>
+    <trdgrp lng="es">
+      <trd>cortadura</trd>,
+      <trd>recorte</trd>,
+      <trd>corte</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>coupe</trd>,
+      <trd>d&eacute;coupe</trd>,
+      <trd>incision</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>v&aacute;g&aacute;s</trd>,
       <trd>bemetsz&eacute;s</trd>,
@@ -147,6 +156,43 @@
     <trd lng="hu">szelet</trd>
     <trd lng="ru">&c_s;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
   </snc>
+</drv>
+
+<drv mrk="trancx.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="trancx.0ajxo.SNC">
+    <dif>
+      <ref tip="super" cel="pec.0o.rompajxo">Peco</ref>
+      apartigita per <tld/>o:
+      <ekz>
+        mi donis al &scirc;i <tld/>a&jcirc;on da pano trempitan en mielo
+        <fnt>
+          <aut>A. L&ouml;wenstein</aut>,
+          <vrk>La &scirc;tona urbo</vrk>,
+          <lok>1999</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili ankora&ubreve; &scirc;miras buteron sur siajn
+        pan<tld/>a&jcirc;ojn
+        <fnt>
+          <aut>S. &Scaron;timec</aut>,
+          <vrk>Zagrebaj solistoj en Bonaero</vrk>,
+          <bib>Monato</bib>,
+          <lok>2001:7</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="es">
+    <trd>filete</trd>,
+    <trd>tajada</trd>,
+    <trd>rebanada</trd>,
+    <trd>loncha</trd>,
+    <trd>rodaja</trd>,
+    <trd>porci&oacute;n</trd>
+  </trdgrp>
+  <trd lng="fr">tranche</trd>
 </drv>
 
 <drv mrk="trancx.0ilo">
@@ -190,11 +236,12 @@
         al<tld/>i drapon por vesto;
       </ekz>
       <ekz>
-        vestojn, supervestojn kaj e&ccirc; iom pli elegantan tola&jcirc;on mi
-        al<tld/>i ne povus
+        vestojn, supervestojn kaj e&ccirc; iom pli elegantan
+        tola&jcirc;on mi  al<tld/>i ne povus
         <fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="es">cortar</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_r;&c_a;&c_z;&c_a;&c_c;&c_mol;</trd>
   <trd lng="hu">kiszab <klr tip="ind">(anyagb&oacute;l)</klr></trd>
@@ -214,10 +261,11 @@
         la salika bran&ccirc;o tie ekstere fari&gcirc;is belega
         arbo, libera kaj ne &ccirc;irka&ubreve;<tld/>ita &gcirc;i
         tie staris
-        <fnt><bib>Fab3</bib>, <lok>&ccirc;io sur sian &gcirc;ustan
+        <fnt><bib>Fab3</bib>, <lok>&Ccirc;io sur sian &gcirc;ustan
         lokon!</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="es">recortar</trd>
   </snc>
   <trd lng="fr">tailler</trd>
   <trdgrp lng="hu">
@@ -227,10 +275,10 @@
   <trd lng="pl">obcina&cacute;</trd>
 </drv>
 
-<drv mrk="trancx.de0ifor0i">
+<drv mrk="trancx.de0i">
   <kap>de<tld/>i, <var><kap>for<tld/>i</kap></var></kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="trancx.de0i.KOMUNE">
     <dif>
       Apartigi, forigi <tld/>ante:
       <ekz>
@@ -242,14 +290,10 @@
       </ekz>
     </dif>
     <trd lng="hu">lev&aacute;g</trd>
-    <trdgrp lng="es">
-      <trd>cortar (de)</trd>,
-      <trd>arrancar</trd>
-    </trdgrp>
     <trd lng="pl">odcina&cacute;</trd>
     <trd lng="ru">&c_o;&c_t;&c_r;&c_je;&c_z;&c_a;&c_t;&c_mol;</trd>
   </snc>
-  <snc>
+  <snc mrk="trancx.de0i.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
       Apartigi, forigi:
@@ -258,12 +302,10 @@
       </ekz>
       <ekz>
         pro manko de komunikiloj tiu vasta regiono estas for<tld/>ita
-        for
-        de la mondvivo.
+        for de la mondvivo.
       </ekz>
     </dif>
     <trd lng="hu">elv&aacute;g</trd>
-    <trd lng="es">arrancar</trd>
     <trd lng="pl">odcina&cacute;</trd>
     <trdgrp lng="ru">
       <trd>&c_o;&c_t;&c_r;&c_je;&c_z;&c_a;&c_t;&c_mol;</trd>,
@@ -283,8 +325,7 @@
       randoj de tiu arko estas intersekcopunktoj de la cirklo kun la
       lateroj de la angulo; diri, ke solida angulo de<tld/>as surfacon
       sur sfero, signifas, ke tiu surfaco estas intersekco de la sfero
-      kun
-      la solida angulo:
+      kun la solida angulo:
       <ekz>
         <ref cel="angul.centra0o">centra angulo</ref> estas duoblo de
         <ref cel="angul.cirkonferenca0o">cirkonferenca angulo</ref>, kiu
@@ -293,8 +334,9 @@
     </dif>
     <adm>
       &Ccirc;i tiu termino logike devenas de "d&eacute;couper" kaj
-      "&c_v;&c_y;&c_r;&c_je;&c_z;&c_a;&c_t;&c_mol;", sed mi ne certas, &ccirc;u
-      &gcirc;i estas tradicia en E. <aut>MB</aut>
+      "&c_v;&c_y;&c_r;&c_je;&c_z;&c_a;&c_t;&c_mol;", sed mi ne certas,
+      &ccirc;u &gcirc;i estas tradicia en E.
+      <aut>MB</aut>
     </adm>
     <trd lng="de">einen <ind>zugeordneten</ind> Bogen haben</trd>
     <trdgrp lng="en">
@@ -307,15 +349,23 @@
       <trd>intercepter<klr tip="ind"> (math.)</klr></trd>
     </trdgrp>
     <trd lng="hu">kimetsz<klr tip="ind"> (&iacute;vet)</klr></trd>
-    <trd lng="pl">by&cacute; opartym na<klr tip="ind"> (&lstroke;uku)</klr></trd>
+    <trd lng="pl">by&cacute; opartym na<klr tip="ind">
+    (&lstroke;uku)</klr></trd>
     <trdgrp lng="ru">
       <trd>&c_v;&c_y;&c_r;&c_je;&c_z;&c_a;&c_t;&c_mol;</trd>,
-      <trd>&c_o;&c_p;&c_i;&c_r;&c_a;&c_t;&c_s;&c_ja;<klr tip="ind"> (&c_n;&c_a; &c_d;&c_u;&c_g;&c_u;)</klr></trd>,
+      <trd>&c_o;&c_p;&c_i;&c_r;&c_a;&c_t;&c_s;&c_ja;<klr tip="ind">
+      (&c_n;&c_a; &c_d;&c_u;&c_g;&c_u;)</klr></trd>,
       <trd>&c_o;&c_t;&c_s;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>,
       <trd>&c_o;&c_t;&c_s;&c_je;&c_ch;&c_mol;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_r;&c_a;&c_z;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="es">
+    <trd>cortar</trd>,
+    <trd>amputar</trd>,
+    <trd>cercenar</trd>,
+    <trd>truncar</trd>
+  </trdgrp>
   <trd lng="fr">d&eacute;couper</trd>
   <trd lng="nl">afsnijden</trd>
 </drv>
@@ -325,17 +375,16 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="trancx.el0i.formi">
     <dif>
-      Doni formon al io, for<tld/>ante de &gcirc;i pecetojn:
+      Doni formon al io, for<tld/>ante de &gcirc;i pecetojn,
+      <ref tip="vid" cel="tajl.0i">tajli</ref>:
       <ekz>
         en la balkono estis el<tld/>ita karikatura viza&gcirc;o
-        <fnt><bib>Fab2</bib>, <lok>malnova domo</lok></fnt>.
+        <fnt><bib>Fab2</bib>, <lok>Malnova domo</lok></fnt>.
       </ekz>
     </dif>
-    <refgrp tip="sin">
-      <ref cel="tajl.0i">tajli</ref>
-    </refgrp>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_r;&c_a;&c_z;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="es">tallar</trd>
   <trdgrp lng="hu">
     <trd>kiv&aacute;g</trd>,
     <trd>kimetsz</trd>
@@ -349,7 +398,17 @@
   <kap>po&scirc;<tld/>ilo</kap>
   <snc mrk="trancx.posx0ilo.KOMUNE">
     <dif>
-      Malgranda <tld/>ilo kun faldebla klingo.
+      Malgranda <tld/>ilo kun faldebla klingo:
+      <ekz>
+        sur la baskon &scirc;i elmetadis rozarion, po&scirc;<tld/>ilon,
+        kelke da pankrustetoj
+        <fnt>
+          <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K. Proch&aacute;zka</aut>,
+          <vrk><url ref="https://eo.wikisource.org/wiki/Avineto/I.">
+          Avineto</url></vrk>,
+          <lok>[sen dato]</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -364,8 +423,10 @@
   <trd lng="es">navaja de bolsillo</trd>
   <trd lng="pl">scyzoryk</trd>
   <trdgrp lng="ru">
-    <trd>&c_p;&c_je;&c_r;&c_o;&c_ch;&c_i;&c_n;&c_n;&c_y;&c_j; &c_n;&c_o;&c_zh;&c_i;&c_k;</trd>,
-    <trd>&c_s;&c_k;&c_l;&c_a;&c_d;&c_n;&c_o;&c_j; &c_n;&c_o;&c_zh;&c_i;&c_k;</trd>
+    <trd>&c_p;&c_je;&c_r;&c_o;&c_ch;&c_i;&c_n;&c_n;&c_y;&c_j;
+    &c_n;&c_o;&c_zh;&c_i;&c_k;</trd>,
+    <trd>&c_s;&c_k;&c_l;&c_a;&c_d;&c_n;&c_o;&c_j;
+    &c_n;&c_o;&c_zh;&c_i;&c_k;</trd>
   </trdgrp>
   <trdgrp lng="sv">
     <trd>fickkniv</trd>,
@@ -402,11 +463,22 @@
   <trd lng="fr">coupure de Dedekind</trd>
   <trd lng="hu">Dedekind-szelet</trd>
   <trd lng="pl">przekr&oacute;j Dedekinda</trd>
-  <trd lng="ru">&c_d;&c_je;&c_d;&c_je;&c_k;&c_i;&c_n;&c_d;&c_o;&c_v;&c_o; <ind>&c_s;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd
+  lng="ru">&c_d;&c_je;&c_d;&c_je;&c_k;&c_i;&c_n;&c_d;&c_o;&c_v;&c_o;
+  <ind>&c_s;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</ind></trd>
 </drv>
 </art>
 <!--
 $Log: trancx.xml,v $
+Revision 1.38  2015/09/05 13:10:16  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.37  2015/04/09 10:10:14  revo
+Carlos Garcia: +trd es -o -ajxo al-i cxirkaux-i de-i (krktd) el-i
+
+Revision 1.36  2015/02/17 23:10:15  revo
+Alain Gerard: + ~ajxo + trd (fr)
+
 Revision 1.35  2013/09/25 06:10:10  revo
 Sebastian Cyprych: +trd pl
 
@@ -420,14 +492,5 @@ Revision 1.32  2008/01/29 17:30:40  revo
 Wieland Pusch: +korr lng=bg
 
 Revision 1.31  2008/01/14 18:07:02  revo
-Wieland Pusch: +trd bg
-
-Revision 1.30  2006/07/29 16:34:56  revo
-Eduardo Navas: +trd es
-
-Revision 1.29  2006/01/20 17:31:20  revo
-Jeromo Vasxe: + kk mrk, + 2 ekz, + 1 fnt
-
-Revision 1.28 2004/12/10 17:31:31 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: funel.xml,v 1.13 2011/12/03 21:10:15 revo Exp $">
+<art mrk="$Id: funel.xml,v 1.15 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>funel</rad>/o
@@ -18,6 +18,11 @@
   </snc>
   <trd lng="bg">&c_f;&c_u;&c_n;&c_i;&c_ja;</trd>
   <trd lng="ca">embut</trd>
+  <trdgrp lng="cs">
+    <trd>nálevka</trd>,
+    <trd>násypka</trd>,
+    <trd>trychtýř</trd>
+  </trdgrp>
   <trd lng="de">Trichter</trd>
   <trd lng="en">funnel</trd>
   <trd lng="es">embudo</trd>
@@ -28,10 +33,17 @@
     <trd>&c_v;&c_o;&c_r;&c_o;&c_n;&c_k;&c_a;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_t;&c_r;&c_u;&c_b;</trd>
   </trdgrp>
+  <trd lng="sk">lievik</trd>
 </drv>
 </art>
 <!--
 $Log: funel.xml,v $
+Revision 1.15  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2011/12/03 21:10:15  revo
 Wieland Pusch: +trd bg
 

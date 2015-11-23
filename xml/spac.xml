@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: spac.xml,v 1.69 2012/10/23 00:13:49 revo Exp $">
+<art mrk="$Id: spac.xml,v 1.72 2015/07/06 12:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>spac</rad>/o
@@ -114,11 +114,23 @@
     <trd lng="pl">przestrze&nacute;</trd>
   </snc>
   <trd lng="ca">espai</trd>
+  <trdgrp lng="cs">
+    <trd>mezera</trd>,
+    <trd>m&iacute;sto</trd>,
+    <trd>oblast</trd>,
+    <trd>prostor</trd>
+  </trdgrp>
   <trd lng="fr">espace</trd>
   <trd lng="nl">ruimte</trd>
   <trd lng="pl">przestrze&nacute;</trd>
   <trd lng="ro">spa&tcedil;iu</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>medzera</trd>,
+    <trd>miesto</trd>,
+    <trd>oblas&tcaron;</trd>,
+    <trd>priestor</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="spac.0eto">
@@ -163,6 +175,16 @@
     <trd lng="pl">spacja</trd>
     <trd lng="ru">&c_p;&c_r;&c_o;&c_b;&c_je;&c_l; <klr>(&c_v; &c_t;&c_je;&c_k;&c_s;&c_t;&c_je;)</klr></trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>mezera mezi p&iacute;smeny</trd>,
+    <trd>mezera mezi slovy</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>medzera</trd>,
+    <trd>miesto</trd>,
+    <trd>oblas&tcaron;</trd>,
+    <trd>priestor</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="spac.en0i">
@@ -189,9 +211,14 @@
     </trdgrp>
     <trd lng="pl">zamie&sacute;ci&cacute;</trd>
   </snc>
+  <trd lng="cs">b&yacute;t v prostoru</trd>
   <trdgrp lng="fr">
     <trd>contenir</trd>,
     <trd>envelopper<klr> (contenir)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>priestor; rozprestrie&tcaron; sa</trd>,
+    <trd>zauja&tcaron; miesto</trd>
   </trdgrp>
 </drv>
 
@@ -211,6 +238,13 @@
     <trd>separaci&oacute;</trd>,
     <trd>dist&agrave;ncia</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>mezera</trd>,
+    <trd>odstup</trd>,
+    <trd>prostor mezi</trd>,
+    <trd>rozestup</trd>,
+    <trd>sp&aacute;ra</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&eacute;cart</trd>,
     <trd>&eacute;cartement</trd>,
@@ -225,6 +259,11 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_o;&c_m;&c_je;&c_zh;&c_u;&c_t;&c_o;&c_k;</trd>,
     <trd>&c_i;&c_n;&c_t;&c_je;&c_r;&c_v;&c_a;&c_l;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>medzera</trd>,
+    <trd>odstup</trd>,
+    <trd>rozp&auml;tie</trd>
   </trdgrp>
 </drv>
 
@@ -496,6 +535,7 @@
     </refgrp>
   </snc>
   <trd lng="ca"><ind>espai</ind> m&egrave;tric</trd>
+  <trd lng="cs">metrick&yacute; prostor</trd>
   <trd lng="de">metrischer <ind>Raum</ind></trd>
   <trd lng="en">metric <ind>space</ind></trd>
   <trd lng="fr">espace m&eacute;trique</trd>
@@ -503,6 +543,7 @@
   <trd lng="pl">przestrze&nacute; metryczna</trd>
   <trd lng="ru">&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je;
   <ind>&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;</ind></trd>
+  <trd lng="sk">metrick&yacute; priestor</trd>
 </drv>
 
 <drv mrk="spac.mezurhava0o">
@@ -665,6 +706,10 @@
     </rim>
   </snc>
   <trd lng="ca"><ind>espai</ind> vectorial</trd>
+  <trdgrp lng="cs">
+    <trd>line&aacute;rn&iacute; prostor</trd>,
+    <trd>spojit&yacute; prostor</trd>
+  </trdgrp>
   <trd lng="de">Vektorraum</trd>
   <trd lng="en">vector <ind>space</ind></trd>
   <trd lng="fr">espace vectoriel</trd>
@@ -679,6 +724,7 @@
     <trd>&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;&c_n;&c_o;&c_je;
     <ind>&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;</ind></trd>
   </trdgrp>
+  <trd lng="sk">line&aacute;rny priestor</trd>
 </drv>
 
 <drv mrk="spac.vektorasub0o">
@@ -696,10 +742,12 @@
     </dif>
   </snc>
   <trd lng="ca"><ind>subespai</ind> vectorial</trd>
+  <trd lng="cs">vektorov&yacute; podprostor</trd>
   <trd lng="de">Untervektorraum</trd>
   <trd lng="en">vector subspace</trd>
   <trd lng="fr">sous-espace vectoriel</trd>
-  <trd lng="hu">line&aacute;ris <ind>alt&eacute;r</ind></trd> <trd
+  <trd lng="hu">line&aacute;ris <ind>alt&eacute;r</ind></trd>
+  <trd
   lng="pl">podprzestrze&nacute; liniowa</trd>
   <trdgrp lng="ru">
     <trd>&c_l;&c_i;&c_n;&c_je;&c_j;&c_n;&c_o;&c_je;
@@ -707,6 +755,7 @@
     <trd>&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;&c_n;&c_o;&c_je;
     <ind>&c_p;&c_o;&c_d;&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;</ind></trd>
   </trdgrp>
+  <trd lng="sk">vektorov&yacute; podpriestor</trd>
 </drv>
 
 <drv mrk="spac.topologia0o">
@@ -739,7 +788,7 @@
       <ref cel="adher.0ajxo.MAT">adhera&jcirc;o</ref>,
       <ref cel="ferm.0ajxo.MAT">ferma&jcirc;o</ref>,
       <ref cel="ferm.mal0ajxo.MAT">malferma&jcirc;o</ref>,
-      <ref cel="intern.0o.topologio">interno</ref>,
+      <ref cel="intern.0o">interno</ref>,
       <ref cel="rand.0o.topologio">rando</ref>;
     </refgrp>
     <refgrp tip="vid">
@@ -809,6 +858,15 @@
 </art>
 <!--
 $Log: spac.xml,v $
+Revision 1.72  2015/07/06 12:10:19  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.71  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.70  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.69  2012/10/23 00:13:49  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -822,14 +880,5 @@ Revision 1.66  2006/07/02 16:31:26  revo
 Jeromo Vasxe: reordig. snc, en~i + ekz, + 3 trd fr
 
 Revision 1.65 2006/03/23 17:31:37 revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.64 2004/11/28 19:44:21 revo
-Marc Bavant: vektora ~o: +rim
-
-Revision 1.63 2004/11/23 17:31:44 revo
-Marc Bavant: topologia sub~o: kor dif
-Revision 1.62 2004/11/18 17:31:45 revo
-Marc Bavant: kor duobligitajn punktojn
 -->
 </vortaro>

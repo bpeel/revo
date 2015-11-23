@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sekund.xml,v 1.26 2014/07/02 15:10:38 revo Exp $">
+<art mrk="$Id: sekund.xml,v 1.28 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sekund</rad>/o
@@ -55,7 +55,8 @@
   <trd lng="ca">segon</trd>
   <trdgrp lng="cs">
     <trd>sekunda</trd>,
-    <trd>vte&rcaron;ina</trd>
+    <trd>vte&rcaron;ina</trd>,
+    <trd>vteřina</trd>
   </trdgrp>
   <trd lng="en">second</trd>
   <trd lng="es">segundo</trd>
@@ -67,10 +68,17 @@
   <trd lng="ro">secund&abreve;</trd>
   <trd lng="ru">&c_s;&c_je;&c_k;&c_u;&c_n;&c_d;&c_a;</trd>
   <trd lng="sk">sekunda</trd>
+  <trd lng="zh">秒 [<ind>miǎo</ind>]</trd>
 </drv>
 </art>
 <!--
 $Log: sekund.xml,v $
+Revision 1.28  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/26 22:10:18  revo
+Darcy Shen: +trd zh
+
 Revision 1.26  2014/07/02 15:10:38  revo
 Eko Nur Syah Hidayat: +id
 
@@ -90,8 +98,5 @@ Revision 1.21  2006/03/21 17:32:49  revo
 Vito Redsky: +trd pl +trd ro
 
 Revision 1.20  2006/01/23 17:31:08  revo
-Jeromo Vasxe: + fak kal
-
-Revision 1.19 2005/04/28 16:34:45 revo
 -->
 </vortaro>

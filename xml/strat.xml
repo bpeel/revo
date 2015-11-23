@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: strat.xml,v 1.26 2014/10/28 04:11:04 revo Exp $">
+<art mrk="$Id: strat.xml,v 1.29 2015/11/02 06:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>strat</rad>/o <fnt><bib>PV</bib></fnt>
@@ -39,9 +39,10 @@
   <trd lng="cs">ulice</trd>
   <trd lng="de">Stra&szlig;e</trd>
   <trd lng="en">street</trd>
+  <trd lng="es">calle</trd>
   <trd lng="fr">rue</trd>
   <trd lng="he">&resh;&het;&vav;&bet;</trd>
-  <trd lng="hu">utca</trd>  
+  <trd lng="hu">utca</trd>
   <trd lng="id">jalan</trd>
   <trd lng="kk">&c_k;&#1257;&c_sh;&c_je;</trd>
   <trd lng="nl">straat</trd>
@@ -49,6 +50,7 @@
   <trd lng="pl">ulica</trd>
   <trd lng="pt">rua</trd>
   <trd lng="ru">&c_u;&c_l;&c_i;&c_c;&c_a;</trd>
+  <trd lng="sk">ulica</trd>
   <trd lng="tr">sokak</trd>
   <trd lng="vo">s&uuml;t</trd>
 </drv>
@@ -68,8 +70,21 @@
         </fnt>.
       </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>nev&ecaron;stka</trd>,
+    <trd>pouli&ccaron;n&iacute; d&ecaron;vka</trd>,
+    <trd>&scaron;lapka</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>prostituta</trd>
+  </trdgrp>
   <trd lng="fr">fille publique</trd>
   <trd lng="id">[<ind>lacur</ind>] pelacur</trd>
+  <trdgrp lng="sk">
+    <trd>prostit&uacute;tka</trd>,
+    <trd>&lcaron;ahk&aacute; &zcaron;ena</trd>,
+    <trd>&scaron;&lcaron;apka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="strat.cxef0o">
@@ -86,6 +101,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd>avenida</trd>,
+    <trd>calle principal</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>art&egrave;re<klr> (rue)</klr></trd>,
     <trd>grand-rue</trd>,
@@ -114,6 +133,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">calle lateral</trd>
   <trd lng="fr">rue lat&eacute;rale</trd>
   <trdgrp lng="hu">
   <trd>mell&eacute;kutca</trd>,
@@ -165,14 +185,26 @@
   <refgrp tip="vid">
     <ref cel="ir.senel0ejo">senelirejo</ref>
   </refgrp>
+  <trd lng="es">calle sin salida</trd>
   <trd lng="fr">impasse</trd>
   <trd lng="hu">zs&aacute;kutca</trd>
   <trd lng="id"><ind>jalan</ind> buntu</trd>
  
+  <trd lng="sk">slep&aacute; uli&ccaron;ka</trd>
+  <trd lng="cs">slep&aacute; ulice</trd>
 </drv>
 </art>
 <!--
 $Log: strat.xml,v $
+Revision 1.29  2015/11/02 06:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.28  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2014/10/28 04:11:04  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -186,14 +218,5 @@ Revision 1.23  2009/10/29 17:31:14  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.22  2009/08/20 16:30:39  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.21  2009/08/14 16:31:07  revo
-Jeromo Vasxe: + cxef/flanko/sak~o - ~kanaleto portita al kanal.xml
-
-Revision 1.20  2008/03/28 17:30:34  revo
-Jeromo Vasxe: kor duobligitan punkton
-
-Revision 1.19  2008/01/19 17:30:16  revo
 -->
 </vortaro>

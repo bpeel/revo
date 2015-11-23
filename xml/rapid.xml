@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rapid.xml,v 1.32 2014/06/03 15:10:36 revo Exp $">
+<art mrk="$Id: rapid.xml,v 1.34 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rapid</rad>/a <fnt><bib>PV</bib></fnt>
@@ -64,11 +64,19 @@
     <trd>&c_sh;&c_p;&c_a;&c_r;&c_k;&c_ib;</trd>,
     <trd>&c_b;&c_o;&c_r;&c_z;&c_d;&c_y;</trd>
   </trdgrp>
-  <trd lng="cs">rychl&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>chvatný</trd>,
+    <trd>rychl&yacute;</trd>,
+    <trd>velmi rychlý</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>fast</trd>,
     <trd>quick</trd>,
     <trd>rapid</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>r&aacute;pido, -a</trd>,
+    <trd>veloz</trd>
   </trdgrp>
   <trd lng="fr">rapide</trd>
   <trdgrp lng="hu">
@@ -88,13 +96,13 @@
     <trd>&c_b;&c_y;&c_s;&c_t;&c_r;&c_y;&c_j;</trd>,
     <trd>&c_s;&c_k;&c_o;&c_r;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>náhlivý</trd>,
+    <trd>veľmi rýchly</trd>
+  </trdgrp>
   <trdgrp lng="sv">
     <trd>snabb</trd>,
     <trd>rask</trd>
-  </trdgrp>
-  <trdgrp lng="es">
-    <trd>r&aacute;pido, -a</trd>,
-    <trd>veloz</trd>
   </trdgrp>
 </drv>
 
@@ -143,9 +151,11 @@
     <trd lng="nl">snelheid</trd>
   </snc>
   <trd lng="be">&c_h;&c_u;&c_t;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="cs">rychlost</trd>
   <trd lng="pl">pr&eogonek;dko&sacute;&cacute;</trd>
   <trd lng="ro">vitez&abreve;</trd>
   <trd lng="ru">&c_s;&c_k;&c_o;&c_r;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">rýchlosť</trd>
 </drv>
 
 <drv mrk="rapid.0i">
@@ -209,7 +219,12 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_p;&c_ja;&c_sh;&c_a;&c_c;&c_c;&c_a;</trd>
-  <trd lng="cs">sp&ecaron;chat</trd>
+  <trdgrp lng="cs">
+    <trd>mít naspěch</trd>,
+    <trd>pospíchat</trd>,
+    <trd>sp&ecaron;chat</trd>,
+    <trd>spěchat</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>d&eacute;p&ecirc;cher</ind></trd>,
     <trd>se <ind>h&acirc;ter</ind></trd>,
@@ -226,6 +241,7 @@
     <trd>&c_s;&c_p;&c_je;&c_sh;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_t;&c_o;&c_r;&c_o;&c_p;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trd lng="sk">náhliť sa domov</trd>
 </drv>
 
 <drv mrk="rapid.0eco">
@@ -242,6 +258,8 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_h;&c_u;&c_t;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="cs">rychlost</trd>
   <trdgrp lng="de">
     <trd>Eile</trd>,
     <trd>Schnelligkeit</trd>
@@ -250,7 +268,6 @@
     <trd>rapidez <klr>(caracter&iacute;stica)</klr></trd>,
     <trd>velocidad</trd>
   </trdgrp>
-  <trd lng="be">&c_h;&c_u;&c_t;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="fr">rapidit&eacute;</trd>
   <trd lng="hu">gyorsas&aacute;g</trd>
   <trd lng="id">[<ind>cepat</ind>] kecepatan</trd>
@@ -264,6 +281,7 @@
     <trd>&c_s;&c_k;&c_o;&c_r;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_b;&c_y;&c_s;&c_t;&c_r;&c_o;&c_t;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">rýchlosť</trd>
 </drv>
 
 <drv mrk="rapid.0igi">
@@ -287,6 +305,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_s;&c_k;&c_o;&c_r;&c_y;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>popohnat</trd>,
+    <trd>zrychlit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>beschleunigen</trd>,
     <trd>antreiben</trd>
@@ -311,6 +333,7 @@
     <trd>&c_u;&c_s;&c_k;&c_o;&c_r;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_s;&c_k;&c_o;&c_r;&c_ja;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">zrýchliť</trd>
 </drv>
 
 <drv mrk="rapid.0igxi">
@@ -348,10 +371,14 @@
       Plibonigi dif. <aut>MB</aut>
     </adm>
   </snc>
-  <trd lng="es">velocidad <klr>(de motor)</klr></trd>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_d;&c_a;&c_ch;&c_a;
   <klr>(&c_t;&c_r;&c_a;&c_n;&c_s;&c_m;&c_ib;&c_s;&c_ib;&c_ib;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>převod</trd>,
+    <trd>rychlostní stupeň <klr>(auta)</klr></trd>
+  </trdgrp>
   <trd lng="de">Gang</trd>
+  <trd lng="es">velocidad <klr>(de motor)</klr></trd>
   <trdgrp lng="fr">
     <trd>rapport<klr tip="ind"> (de bo&icirc;te de vitesse)</klr></trd>,
     <trd>vitesse<klr tip="ind"> (rapport)</klr></trd>
@@ -367,6 +394,7 @@
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_d;&c_a;&c_ch;&c_a;<klr
   tip="amb">
   (&c_t;&c_r;&c_a;&c_n;&c_s;&c_m;&c_i;&c_s;&c_s;&c_i;&c_i;)</klr></trd>
+  <trd lng="sk">rýchlostný stupeň</trd>
 </drv>
 
 <drv mrk="rapid.fulm0a">
@@ -403,12 +431,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">pomalý</trd>
   <trd lng="fr">lent</trd>
   <trdgrp lng="id">
     <trd>lama</trd>,
     <trd>lambat</trd>,
     <trd>pelan</trd>
   </trdgrp>
+  <trd lng="sk">pomalý</trd>
 </drv>
 
 <drv mrk="rapid.mal0i">
@@ -430,6 +460,12 @@
 </art>
 <!--
 $Log: rapid.xml,v $
+Revision 1.34  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.32  2014/06/03 15:10:36  revo
 Eko Nur Syah Hidayat: +id
 

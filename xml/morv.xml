@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: morv.xml,v 1.12 2013/12/01 10:10:17 revo Exp $">
+<art mrk="$Id: morv.xml,v 1.14 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>morv</rad>/o
 </kap>
@@ -18,6 +18,7 @@
   </snc>
   <trd lng="be">&c_s;&c_a;&c_p;</trd>
   <trd lng="ca">borm</trd>
+  <trd lng="cs">ozhřivka</trd>
   <trdgrp lng="de">
     <trd>Rotz<klr> (Krankheit)</klr></trd>,
     <trd>Hautwurm</trd>
@@ -32,10 +33,17 @@
   <trd lng="nl">droes</trd>
   <trd lng="pl">nosacizna</trd>
   <trd lng="ru">&c_s;&c_a;&c_p;</trd>
+  <trd lng="sk">sopľavka <klr>(u koňa)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: morv.xml,v $
+Revision 1.14  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2013/12/01 10:10:17  revo
 Damien Brucker: +trd fr
 

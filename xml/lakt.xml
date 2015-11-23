@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
  
 <vortaro>
-  <art mrk="$Id: lakt.xml,v 1.28 2014/05/08 18:11:04 revo Exp $">
+  <art mrk="$Id: lakt.xml,v 1.33 2015/07/04 08:37:38 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>lakt</rad>/o <fnt><bib>PV</bib></fnt>
@@ -41,24 +41,26 @@
         </dif>
         <trd lng="pl">mleczko</trd>
       </snc>
-      <trd lng="be">&c_m;&c_a;&c_l;&c_a;&c_k;&c_o;</trd>
-      <trd lng="bg">&c_m;&c_l;&c_ja;&c_k;&c_o;</trd>
-      <trd lng="br">laezh</trd>
-      <trd lng="ca">llet</trd>
-      <trd lng="de">Milch</trd>
-      <trd lng="el">&gamma;&alfa_ton;&lambda;&alfa;</trd>
-      <trd lng="en">milk</trd>
-      <trd lng="es">leche</trd>
-      <trd lng="fr">lait</trd>
-      <trd lng="hu">tej</trd>   
-      <trd lng="id">susu</trd>
-      <trd lng="nl">melk</trd>
-      <trd lng="pt">leite</trd>
-      <trd lng="tr">s&uuml;t</trd>
-      <trd lng="ru">&c_m;&c_o;&c_l;&c_o;&c_k;&c_o;</trd>
-      <trd lng="sv">mj&ouml;lk</trd>
-      <trd lng="vo">milig</trd>
-    </drv>
+  <trd lng="be">&c_m;&c_a;&c_l;&c_a;&c_k;&c_o;</trd>
+  <trd lng="bg">&c_m;&c_l;&c_ja;&c_k;&c_o;</trd>
+  <trd lng="br">laezh</trd>
+  <trd lng="ca">llet</trd>
+  <trd lng="cs">mléko</trd>
+  <trd lng="de">Milch</trd>
+  <trd lng="el">&gamma;&alfa_ton;&lambda;&alfa;</trd>
+  <trd lng="en">milk</trd>
+  <trd lng="es">leche</trd>
+  <trd lng="fr">lait</trd>
+  <trd lng="hu">tej</trd>
+  <trd lng="id">susu</trd>
+  <trd lng="nl">melk</trd>
+  <trd lng="pt">leite</trd>
+  <trd lng="ru">&c_m;&c_o;&c_l;&c_o;&c_k;&c_o;</trd>
+  <trd lng="sk">mlieko</trd>
+  <trd lng="sv">mj&ouml;lk</trd>
+  <trd lng="tr">s&uuml;t</trd>
+  <trd lng="vo">milig</trd>
+</drv>
  
     <drv mrk="lakt.0eca">
       <kap><tld/>eca, <var><kap><tld/>a</kap></var></kap>
@@ -66,6 +68,7 @@
         <dif>
           Apartenanta al <tld/>o.
         </dif>
+        <trd lng="de">Milch-</trd>
         <trdgrp lng="hu">
           <trd>tej-</trd>,
           <trd>tejes</trd>
@@ -103,6 +106,10 @@
         <trd>lacti</trd>,
         <trd>l&agrave;ctic</trd>
       </trdgrp>
+      <trdgrp lng="es">
+        <trd>l&aacute;cteo</trd>,
+        <trd>l&aacute;ctea</trd>
+      </trdgrp>
       <trd lng="ru">&c_m;&c_o;&c_l;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
     </drv>
  
@@ -125,8 +132,10 @@
         </dif>
       </snc>
       <trdgrp lng="be">
-        <trd>&c_M;&c_a;&c_l;&c_o;&c_ch;&c_n;&c_y; &c_Sh;&c_l;&c_ja;&c_h;</trd>,
-        <trd>&c_P;&c_t;&c_u;&c_sh;&c_y;&c_n;&c_y; &c_Sh;&c_l;&c_ja;&c_h;</trd>,
+        <trd>&c_M;&c_a;&c_l;&c_o;&c_ch;&c_n;&c_y;
+        &c_Sh;&c_l;&c_ja;&c_h;</trd>,
+        <trd>&c_P;&c_t;&c_u;&c_sh;&c_y;&c_n;&c_y;
+        &c_Sh;&c_l;&c_ja;&c_h;</trd>,
         <trd>&c_S;&c_t;&c_a;&c_n;</trd>
       </trdgrp>
       <trd lng="bg">&c_m;&c_l;&c_je;&c_ch;&c_je;&c_n;
@@ -139,12 +148,10 @@
       <trd lng="cs">Ml&eacute;&ccaron;n&aacute; dr&aacute;ha</trd>
       <trd lng="de">Milchstra&szlig;e</trd>
       <trd lng="en">Milky Way</trd>
-      <trdgrp lng="es">
-        <trd>V&iacute;a L&aacute;ctea</trd>,
-        <trd>Camino de Santiago</trd>
-      </trdgrp>
+      <trd lng="es">V&iacute;a L&aacute;ctea</trd>
       <trd lng="fr">Voie Lact&eacute;e</trd>
       <trd lng="hu">tej&uacute;t</trd>   
+      <trd lng="id">Bima Sakti (galaksi)</trd>
       <trd lng="it">Via Lattea</trd>
       <trd lng="la">Lacteus orbis</trd>
       <trd lng="nl">Melkweg</trd>
@@ -167,23 +174,33 @@
             <tld/>anta bovino<fnt>B</fnt>.</ekz>
         </dif>
       </snc>
-      <trd lng="be">&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; &c_m;&c_a;&c_l;&c_a;&c_k;&c_o;</trd>
-      <trd lng="br">rei&ntilde; <ind>laezh</ind></trd>
-      <trdgrp lng="ca">
+  <trd lng="be">&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;
+      &c_m;&c_a;&c_l;&c_a;&c_k;&c_o;</trd>
+  <trd lng="br">rei&ntilde; <ind>laezh</ind></trd>
+  <trdgrp lng="ca">
         <trd>lactar</trd>,
         <trd>alletar</trd>
       </trdgrp>
-      <trd lng="de">Milch geben</trd>
-      <trd lng="en">lactate</trd>
-      <trd lng="fr">donner du lait</trd>
-      <trd lng="hu">tejel</trd>
-      <trdgrp lng="pl">
+  <trdgrp lng="cs">
+    <trd>dojit</trd>,
+    <trd>dávat mléko</trd>
+  </trdgrp>
+  <trd lng="de">Milch geben</trd>
+  <trd lng="en">lactate</trd>
+  <trd lng="fr">donner du lait</trd>
+  <trd lng="hu">tejel</trd>
+  <trdgrp lng="pl">
         <trd>mleczny</trd>,
         <trd>mlekodajny</trd>
       </trdgrp>
-      <trd lng="ru">&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol;
-      &c_m;&c_o;&c_l;&c_o;&c_k;&c_o;<klr> (&c_o; &c_k;&c_o;&c_r;&c_o;&c_v;&c_je; &c_i; &c_t;.&c_p;.)</klr></trd>
-    </drv>
+  <trd lng="ru">&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol;
+      &c_m;&c_o;&c_l;&c_o;&c_k;&c_o;<klr> (&c_o;
+      &c_k;&c_o;&c_r;&c_o;&c_v;&c_je; &c_i; &c_t;.&c_p;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>dojiť</trd>,
+    <trd>dávať mlieko</trd>
+  </trdgrp>
+</drv>
  
     <drv mrk="lakt.0umo">
       <kap><tld/>umo</kap>
@@ -200,21 +217,43 @@
           <ref cel="kaviar.0o">kaviaro</ref>
         </refgrp>
       </snc>
-      <trd lng="br">laezhenn</trd>
-      <trdgrp lng="ca">
+  <trd lng="br">laezhenn</trd>
+  <trdgrp lng="ca">
         <trd>llet</trd>,
         <trd>l&iacute;quid seminal dels peixos</trd>
       </trdgrp>
-      <trd lng="en">milt</trd>
-      <trd lng="fr">laitance</trd>
-      <trd lng="hu">haltej</trd>
-      <trd lng="nl">hom</trd>   
-      <trd lng="ru">&c_m;&c_o;&c_l;&c_o;&c_k;&c_i;</trd>
-      <trd lng="tr">s&uuml;t</trd>
-    </drv>
+  <trd lng="cs">rybí mlíčí</trd>
+  <trdgrp lng="de">
+        <trd>Fischmilch</trd>,
+        <trd>Milch <klr>(vom Fisch)</klr></trd>
+      </trdgrp>
+  <trd lng="en">milt</trd>
+  <trd lng="es">lecha</trd>
+  <trd lng="fr">laitance</trd>
+  <trd lng="hu">haltej</trd>
+  <trd lng="nl">hom</trd>
+  <trd lng="ru">&c_m;&c_o;&c_l;&c_o;&c_k;&c_i;</trd>
+  <trd lng="sk">mliečie <klr>(rybacie sperma)</klr></trd>
+  <trd lng="tr">s&uuml;t</trd>
+</drv>
   </art>
   <!--
   $Log: lakt.xml,v $
+  Revision 1.33  2015/07/04 08:37:38  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.32  2015/06/29 16:33:18  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.31  2015/04/03 22:10:17  revo
+  Carlos Garcia: +trd es -a -um / krktd - Vojo
+
+  Revision 1.30  2015/01/29 04:10:23  revo
+  Eko Nur Syah Hidayat: +trd id
+
+  Revision 1.29  2015/01/01 15:10:18  revo
+  Wolfram Diestel: +trd de
+
   Revision 1.28  2014/05/08 18:11:04  revo
   Damien Brucker: +ekz
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eskuz.xml,v 1.4 2010/03/05 17:30:42 revo Exp $">
+<art mrk="$Id: eskuz.xml,v 1.6 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <rad>eskuz</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -31,6 +31,8 @@
     </trdgrp>
     <trd lng="pt">desculpar-se</trd>
   </snc>
+  <trd lng="cs">omluvit</trd>
+  <trd lng="sk">ospravedlniť</trd>
 </drv>
 
 <drv mrk="eskuz.0o">
@@ -43,10 +45,18 @@
       <trd>usprawiedliwienie</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">omluva</trd>
+  <trd lng="sk">ospravedlnenie</trd>
 </drv>
 </art>
 <!--
 $Log: eskuz.xml,v $
+Revision 1.6  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2010/03/05 17:30:42  revo
 Sebastian Cyprych: +trd pl
 

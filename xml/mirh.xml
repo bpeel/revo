@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mirh.xml,v 1.14 2012/12/17 14:10:08 revo Exp $">
+<art mrk="$Id: mirh.xml,v 1.16 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mirh</rad>/o
@@ -24,9 +24,10 @@
       <ref cel="hisop.0o">hisopo</ref>.
     </refgrp>
   </snc>
-  <trd lng="be">&c_m;&c_ib;&c_r;&c_a;</trd>       
+  <trd lng="be">&c_m;&c_ib;&c_r;&c_a;</trd>
   <trd lng="br">mir<klr tip="ind"> (gom-rousin)</klr></trd>
   <trd lng="ca">mirra</trd>
+  <trd lng="cs">myrha</trd>
   <trd lng="de">Myrrhe</trd>
   <trd lng="en">myrrh</trd>
   <trd lng="es">mirra</trd>
@@ -42,10 +43,17 @@
     <trd>&c_m;&c_i;&c_r;&c_r;&c_a;</trd>,
     <trd>&c_m;&c_i;&c_r;&c_r;&c_o;</trd>
   </trdgrp>
+  <trd lng="sk">myrha <klr>(živica)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: mirh.xml,v $
+Revision 1.16  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2012/12/17 14:10:08  revo
 Agustin Garcia Lopez: +trd(es)
 

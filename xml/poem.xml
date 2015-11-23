@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: poem.xml,v 1.20 2014/04/22 18:11:12 revo Exp $">
+  <art mrk="$Id: poem.xml,v 1.22 2015/07/04 08:37:41 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>poem</rad>/o
@@ -91,7 +91,8 @@
       <trd lng="hu">k&ouml;ltem&eacute;ny</trd>
       <trd lng="nl">gedicht</trd>
       <trd lng="pt">poema</trd>
-    </drv>
+      <trd lng="sk">báseň</trd>
+</drv>
 
     <drv mrk="poem.0aro">
       <kap><tld/>aro</kap>
@@ -120,16 +121,24 @@
         <trd lng="ru">&c_p;&c_o;&c_e;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
 &c_s;&c_b;&c_o;&c_r;&c_n;&c_i;&c_k;</trd>
       </snc>
-      <trd lng="be">&c_z;&c_b;&c_o;&c_r;&c_n;&c_ib;&c_k;
+  <trd lng="be">&c_z;&c_b;&c_o;&c_r;&c_n;&c_ib;&c_k;
         <ind>&c_p;&c_a;&c_e;&c_m;&c_a;&c_w;</ind></trd>
-      <trd lng="bg">&c_s;&c_t;&c_i;&c_h;&c_o;&c_t;&c_v;&c_o;&c_r;&c_je;&c_n;&c_i;&c_ja;</trd>
-      <trd lng="fr">recueil de <ind>po&egrave;mes</ind></trd>
-      <trd lng="nl">gedichtenbundel</trd>
-      <trd lng="hu">versesk&ouml;tet</trd>
-    </drv>
+  <trd lng="bg">&c_s;&c_t;&c_i;&c_h;&c_o;&c_t;&c_v;&c_o;&c_r;&c_je;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="cs">sbírka básní</trd>
+  <trd lng="fr">recueil de <ind>po&egrave;mes</ind></trd>
+  <trd lng="hu">versesk&ouml;tet</trd>
+  <trd lng="nl">gedichtenbundel</trd>
+  <trd lng="sk">zbierka básní</trd>
+</drv>
   </art>
   <!--
   $Log: poem.xml,v $
+  Revision 1.22  2015/07/04 08:37:41  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.21  2015/06/29 16:40:18  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.20  2014/04/22 18:11:12  revo
   Joop Eggen: +trd bg
 

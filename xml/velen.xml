@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: velen.xml,v 1.12 2012/07/30 13:10:12 revo Exp $">
+<art mrk="$Id: velen.xml,v 1.14 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>velen</rad>/o
@@ -31,13 +31,24 @@
     <trd lng="ru">&c_v;&c_je;&c_l;&c_je;&c_n;&c_je;&c_v;&c_a;&c_ja; &c_b;&c_u;&c_m;&c_a;&c_g;&c_a;</trd>
   </snc>
   <trd lng="ca">vitel&middot;la</trd>
+  <trdgrp lng="cs">
+    <trd>velín</trd>,
+    <trd>velínový papír</trd>
+  </trdgrp>
   <trd lng="fr">v&eacute;lin</trd>
   <trd lng="hu">velin(pap&iacute;r)</trd>
   <trd lng="pt">velino</trd>
+  <trd lng="sk">teľacia koža upravená na písanie</trd>
 </drv>
 </art>
 <!--
 $Log: velen.xml,v $
+Revision 1.14  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2012/07/30 13:10:12  revo
 Marc Rausell: + trd ca
 

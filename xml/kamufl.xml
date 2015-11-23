@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kamufl.xml,v 1.14 2010/06/06 16:30:48 revo Exp $">
+<art mrk="$Id: kamufl.xml,v 1.16 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <rad>kamufl</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -39,15 +39,22 @@
     </trdgrp>
     <trd lng="pt">camuflar</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>fingovat</trd>,
+    <trd>kamuflovat</trd>,
+    <trd>maskovat</trd>,
+    <trd>předstírat</trd>
+  </trdgrp>
   <trd lng="es">camuflar</trd>
   <trd lng="fr">camoufler</trd>
-  <trd lng="nl">camoufleren</trd>
   <trd lng="hu">&aacute;lc&aacute;z</trd>
+  <trd lng="nl">camoufleren</trd>
   <trd lng="pt">camuflar</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_a;&c_m;&c_u;&c_f;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_m;&c_a;&c_s;&c_k;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">maskovať</trd>
 </drv>
 
 <drv mrk="kamufl.0ado">
@@ -57,6 +64,10 @@
       Ago <tld/>i.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kamufláž</trd>,
+    <trd>zastírání</trd>
+  </trdgrp>
   <trd lng="de">Tarnen</trd>
   <trd lng="fr">camouflage<klr tip="ind"> (action)</klr></trd>
   <trdgrp lng="it">
@@ -67,6 +78,10 @@
    </trdgrp>
   <trd lng="nl">het <ind>camoufleren</ind></trd>
   <trd lng="pt">camuflagem</trd>
+  <trdgrp lng="sk">
+    <trd>kamufláž</trd>,
+    <trd>maskovanie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kamufl.0ajxo">
@@ -96,6 +111,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_m;&c_u;&c_f;&c_l;&c_ja;&c_zh;</trd>
+  <trd lng="cs">kamufláž</trd>
   <trd lng="de">Tarnmaterial</trd>
   <trd lng="en">camouflage material</trd>
   <trdgrp lng="fr">
@@ -109,10 +125,20 @@
   <trd lng="nl">camouflagemateriaal</trd>
   <trd lng="pt">camuflagem</trd>
   <trd lng="ru">&c_k;&c_a;&c_m;&c_u;&c_f;&c_l;&c_ja;&c_zh;</trd>
+  <trdgrp lng="sk">
+    <trd>kamufláž</trd>,
+    <trd>maskovanie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kamufl.xml,v $
+Revision 1.16  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2010/06/06 16:30:48  revo
 Antonio Codazzi: +trd it
 

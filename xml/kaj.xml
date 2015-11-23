@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-     <art mrk="$Id: kaj.xml,v 1.35 2014/06/02 14:10:14 revo Exp $">
+     <art mrk="$Id: kaj.xml,v 1.37 2015/07/04 08:37:36 revo Exp $">
        <kap>
          <ofc>*</ofc>
          <rad>kaj</rad>
@@ -49,45 +49,49 @@
            </ekz>
          </dif>
          </snc>
-         <trd lng="be">&c_ib;</trd>
-         <trd lng="br">ha<klr tip="ind"> (stl. kenur.)</klr></trd>
-         <trd lng="ca">i</trd>
-         <trd lng="cs">a</trd>
-         <trd lng="de">und</trd>
-         <trd lng="en">and</trd>
-         <trd lng="es">y</trd>
-         <trdgrp lng="fi">
+  <trd lng="be">&c_ib;</trd>
+  <trd lng="br">ha<klr tip="ind"> (stl. kenur.)</klr></trd>
+  <trd lng="ca">i</trd>
+  <trdgrp lng="cs">
+    <trd>a</trd>,
+    <trd>logický součin</trd>
+  </trdgrp>
+  <trd lng="de">und</trd>
+  <trd lng="en">and</trd>
+  <trd lng="es">y</trd>
+  <trdgrp lng="fi">
            <trd>ja</trd>,
            <trd>sek&auml;</trd>
          </trdgrp>
-         <trd lng="fr">et</trd>
-         <trdgrp lng="he">
+  <trd lng="fr">et</trd>
+  <trdgrp lng="he">
            <trd>&vav;-</trd>,
            <trd>&vav;&gimel;&fmem;</trd>
          </trdgrp>
-         <trdgrp lng="hu">
+  <trdgrp lng="hu">
            <trd>&eacute;s</trd>,
            <trd>s</trd>,
            <trd>meg <klr tip="ind"> (k&ouml;t&odblac;sz&oacute;)</klr>
            </trd>
          </trdgrp>
-         <trd lng="id">dan</trd>
-         <trd lng="nl">en</trd>
-         <trdgrp lng="pl">
+  <trd lng="id">dan</trd>
+  <trd lng="nl">en</trd>
+  <trdgrp lng="pl">
            <trd>i</trd>,
            <trd>oraz</trd>
          </trdgrp>
-         <trd lng="pt">e <klr tip="amb">(conj.)</klr></trd>
-         <trd lng="ru">&c_i;</trd>
-         <trdgrp lng="sk">
-           <trd>a</trd>,
-           <trd>aj</trd>
-         </trdgrp>
-         <trd lng="sv">och</trd>
-         <trd lng="vo">e</trd>
-         <trd lng="tp">en</trd>
-         <trd lng="tr">ve</trd>
-       </drv>
+  <trd lng="pt">e <klr tip="amb">(conj.)</klr></trd>
+  <trd lng="ru">&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>a</trd>,
+    <trd>aj</trd>,
+    <trd>logický súčin</trd>
+  </trdgrp>
+  <trd lng="sv">och</trd>
+  <trd lng="tp">en</trd>
+  <trd lng="tr">ve</trd>
+  <trd lng="vo">e</trd>
+</drv>
 
 <drv mrk="kaj.0o">
     <kap><tld/>o
@@ -288,6 +292,12 @@
 </art>
 <!--
 $Log: kaj.xml,v $
+Revision 1.37  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.36  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.35  2014/06/02 14:10:14  revo
 Eko Nur Syah Hidayat: +id
 

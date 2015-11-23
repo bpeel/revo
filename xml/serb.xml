@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: serb.xml,v 1.9 2014/06/14 03:10:28 revo Exp $">
+<art mrk="$Id: serb.xml,v 1.11 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>serb</rad>/o
 </kap>
@@ -20,8 +20,10 @@
       Homo kun <tld/>a nacieco.
     </dif>
   </snc>
+  <trd lng="cs">Srb</trd>
   <trd lng="fr">Serbe<klr> (subst.)</klr></trd>
   <trd lng="pt">s&eacute;rvio <klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="sk">Srb</trd>
 </drv>
 
 <drv mrk="serb.0a">
@@ -31,8 +33,10 @@
       Rilatanta al <tld/>oj, ilia nacieco a&ubreve; &scirc;tato.
     </dif>
   </snc>
+  <trd lng="cs">srbský</trd>
   <trd lng="fr">serbe<klr> (adj.)</klr></trd>
   <trd lng="pt">s&eacute;rvio <klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="sk">srbský</trd>
 </drv>
 
 <drv mrk="serb.S0ujo">
@@ -85,6 +89,12 @@
 
 <!--
 $Log: serb.xml,v $
+Revision 1.11  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2014/06/14 03:10:28  revo
 Eko Nur Syah Hidayat: +id
 

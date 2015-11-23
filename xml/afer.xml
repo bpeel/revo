@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: afer.xml,v 1.40 2014/05/13 09:10:13 revo Exp $">
+  <art mrk="$Id: afer.xml,v 1.43 2015/07/04 08:37:29 revo Exp $">
     <kap>
       <ofc>*</ofc><rad>afer</rad>/o <fnt><bib>PV</bib></fnt>
     </kap>
@@ -154,6 +154,7 @@
               </fnt>.
             </ekz>
           </dif>
+          <trd lng="id"><ind>urus</ind>an</trd>
         </subsnc>
         <subsnc mrk="afer.0o.JUR">
           <uzo tip="fak">JUR</uzo>
@@ -212,6 +213,7 @@
             <trd>proc&egrave;s</trd>
           </trdgrp>
           <trd lng="hu">&uuml;gy</trd>
+          <trd lng="id">kasus</trd>
           <trdgrp lng="pl">
             <trd>sprawa</trd>
           </trdgrp>
@@ -260,6 +262,7 @@
             <trd>soci&eacute;t&eacute;<klr tip="ind">
                 (entreprise commerciale)</klr></trd>
           </trdgrp>
+          <trd lng="id">bisnis</trd>
           <trdgrp lng="pl">
             <trd>sprawa</trd>,
             <trd>interes</trd>
@@ -353,6 +356,7 @@
           <trd>affaire<klr tip="ind"> (chose)</klr></trd>
         </trdgrp>
         <trd lng="hu">dolog</trd>
+        <trd lng="id">hal</trd>
         <trdgrp lng="pl">
           <trd>sprawa</trd>,
           <trd>rzecz</trd>
@@ -371,32 +375,34 @@
           <trd>e&scedil;ya</trd>
         </trdgrp>
       </snc>
-      <trd lng="be">&c_s;&c_p;&c_r;&c_a;&c_v;&c_a;</trd>
-      <trdgrp lng="ca">
+  <trd lng="be">&c_s;&c_p;&c_r;&c_a;&c_v;&c_a;</trd>
+  <trdgrp lng="ca">
         <trd>afer</trd>,
         <trd>assumpte</trd>
         <trd>cosa</trd>
       </trdgrp>
-      <trdgrp lng="cs">
-        <trd>v&ecaron;c</trd>,
-        <trd>z&aacute;le&zcaron;itost</trd>
-      </trdgrp>
-      <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>případ</trd>,
+    <trd>v&ecaron;c</trd>,
+    <trd>věc</trd>,
+    <trd>z&aacute;le&zcaron;itost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>Sache</trd>,
         <trd>Angelegenheit</trd>
       </trdgrp>
-      <trdgrp lng="en">
+  <trdgrp lng="en">
         <trd>matter</trd>,
         <trd>affair</trd>
       </trdgrp>
-      <trd lng="nl">zaak</trd>
-      <trd lng="it">faccenda, affare, cosa</trd>
-      <trdgrp lng="oc">
+  <trd lng="it">faccenda, affare, cosa</trd>
+  <trd lng="nl">zaak</trd>
+  <trdgrp lng="oc">
         <trd>afar</trd>,
         <trd>causa</trd>
       </trdgrp>
-      <trd lng="tp">ijo</trd>
-    </drv>
+  <trd lng="tp">ijo</trd>
+</drv>
 
     <drv mrk="afer.0a">
       <kap><tld/>a</kap>
@@ -447,7 +453,9 @@
         </subsnc>
         <trd lng="fi">asia-</trd>
       </snc>
-    </drv>
+  <trd lng="cs">aférový</trd>
+  <trd lng="sk">aférový</trd>
+</drv>
 
     <drv mrk="afer.0eca">
       <kap><tld/>eca</kap>
@@ -533,20 +541,32 @@
           </ekz>
         </dif>
       </snc>
-      <trdgrp lng="en">
+  <trdgrp lng="cs">
+    <trd>obchodní zástupce</trd>,
+    <trd>správce majetku</trd>
+  </trdgrp>
+  <trdgrp lng="en">
         <trd>businessperson</trd>,
         <trd>businessman</trd>
       </trdgrp>
-      <trdgrp lng="fi">
+  <trdgrp lng="fi">
         <trd>liikemies</trd>,
         <trd>liikenainen</trd>
       </trdgrp>
-      <trdgrp lng="fr">
+  <trdgrp lng="fr">
         <trd>homme d'<ind>affaire</ind>s</trd>,
         <trd><ind>business</ind>-man</trd>
       </trdgrp>
-      <trd lng="tr">i&scedil; adam&inodot;</trd>
-    </drv>
+  <trdgrp lng="id">
+        <trd>[<ind>bisnis</ind>] pebisnis</trd>,
+        <trd>[<ind>usaha</ind>] pengusaha</trd>
+      </trdgrp>
+  <trdgrp lng="sk">
+    <trd>obchodný zástupca</trd>,
+    <trd>správca majetku</trd>
+  </trdgrp>
+  <trd lng="tr">i&scedil; adam&inodot;</trd>
+</drv>
 
     <drv mrk="afer.am0o">
       <kap>am<tld/>o</kap>
@@ -555,20 +575,23 @@
           Ama kaj seksa interrilato.
         </dif>
       </snc>
-      <trdgrp lng="en">
+  <trd lng="cs">milostná záležitost <klr>(s někým)</klr></trd>
+  <trdgrp lng="en">
         <trd>affair</trd>,
         <trd>love affair</trd>
       </trdgrp>
-      <trdgrp lng="fi">
+  <trdgrp lng="fi">
         <trd>rakkausjuttu</trd>,
         <trd>suhde</trd>
       </trdgrp>
-      <trdgrp lng="fr">
+  <trdgrp lng="fr">
         <trd>aventure<klr tip="ind"> (amoureuse)</klr></trd>,
         <trd>liaison<klr tip="ind"> (amoureuse)</klr></trd>
       </trdgrp>
-      <trd lng="tr">macera<klr>(a&scedil;k)</klr></trd>
-    </drv>
+  <trd lng="id"><ind>hubung</ind>an cinta</trd>
+  <trd lng="sk">milostná záležitosť</trd>
+  <trd lng="tr">macera<klr>(a&scedil;k)</klr></trd>
+</drv>
 
     <drv mrk="afer.jugx0o">
       <kap>ju&gcirc;<tld/>o</kap>
@@ -639,6 +662,15 @@
   </art>
   <!--
   $Log: afer.xml,v $
+  Revision 1.43  2015/07/04 08:37:29  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.42  2015/06/28 12:03:35  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.41  2015/01/23 08:10:16  revo
+  Eko Nur Syah Hidayat: +trd id
+
   Revision 1.40  2014/05/13 09:10:13  revo
   Damien Brucker: +ekz
 

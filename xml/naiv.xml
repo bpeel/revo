@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: naiv.xml,v 1.23 2013/12/23 21:10:12 revo Exp $">
+<art mrk="$Id: naiv.xml,v 1.27 2015/10/01 15:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>naiv</rad>/a <fnt><bib>PV</bib></fnt>
@@ -38,6 +38,13 @@ rigardataj kiel
       <trd>naive</trd>,
       <trd>artless</trd>,
       <trd>ingenuous</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>ingenuo</trd>,
+      <trd>inocente</trd>,
+      <trd>c&aacute;ndido</trd>,
+      <trd>ingenua</trd>,
+      <trd>c&aacute;ndida</trd>,
     </trdgrp>
     <trdgrp lng="hu">
       <trd>na&iacute;v</trd>,
@@ -75,6 +82,11 @@ rigardataj kiel
     </trdgrp>    
   </snc>
   <trd lng="be">&c_n;&c_a;&c_ib;&c_w;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>bl&aacute;hov&yacute;</trd>,
+    <trd>naivn&iacute;</trd>,
+    <trd>prostoduch&yacute;</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>unbefangen</trd>,
      <trd>naiv</trd>
@@ -93,6 +105,7 @@ rigardataj kiel
     <trd>&c_n;&c_a;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_o;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">naivn&yacute;</trd>
   <trdgrp lng="tr">
     <trd>Saf</trd>,
     <trd>deneyimsiz</trd>,
@@ -113,6 +126,8 @@ rigardataj kiel
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">to be naive</trd>
+  <trd lng="es">ser ingenuo</trd>
   <trd lng="fr">&ecirc;tre <ind>na&iuml;f</ind></trd>
 </drv>
 
@@ -127,6 +142,7 @@ rigardataj kiel
     <trd>ximple</trd>,
     <trd>beneit</trd>
   </trdgrp>
+  <trd lng="cs">velmi naivn&iacute;</trd>
   <trdgrp lng="de">
      <trd>einf&auml;ltig</trd>,
      <trd>leichtgl&auml;ubig</trd>,
@@ -149,6 +165,7 @@ rigardataj kiel
     <trd>lichtgelovig</trd>,
     <trd>goedgelovig</trd>
   </trdgrp>
+  <trd lng="sk">ve&lcaron;mi naivn&yacute;</trd>
 </drv>
 
 <drv mrk="naiv.0ulo">
@@ -165,9 +182,24 @@ rigardataj kiel
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;tina</trd>,
+    <trd>hlup&aacute;k</trd>,
+    <trd>naiva</trd>,
+    <trd>pros&tcaron;&aacute;&ccaron;ek</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>gullible person</trd>,
+    <trd>ingenue</trd>
+  </trdgrp>
+  <trd lng="es">ingenuo<klr> (persona)</klr></trd>
   <trdgrp lng="fr">
     <trd>ben&ecirc;t<klr> (subst.)</klr></trd>,
     <trd>b&ecirc;ta<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hlup&aacute;k</trd>,
+    <trd>naivn&yacute; &ccaron;lovek</trd>
   </trdgrp>
 </drv>
 
@@ -183,6 +215,7 @@ rigardataj kiel
   </snc>
   <trd lng="ca">art na&iuml;f</trd>
   <trd lng="de">naive <ind>Kunst</ind></trd>
+  <trd lng="en">naivism</trd>
   <trdgrp lng="fr">
     <trd>art <ind>na&iuml;f</ind></trd>
   </trdgrp>
@@ -193,6 +226,18 @@ rigardataj kiel
 </art>
 <!--
 $Log: naiv.xml,v $
+Revision 1.27  2015/10/01 15:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.26  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2015/04/20 17:10:15  revo
+Carlos Garcia: +trd es -a -i -ulo
+
 Revision 1.23  2013/12/23 21:10:12  revo
 Jeromo Vasxe: + ~i ~ulo
 
@@ -203,17 +248,5 @@ Revision 1.21  2009/10/15 16:31:04  revo
 Paul Peeraerts: +nl
 
 Revision 1.20  2009/08/25 16:33:07  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.19  2004/06/16 16:32:17  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.18  2004/06/15 21:33:41  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.17  2003/06/09 16:31:11  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.16  2002/12/14 17:30:24  revo
 -->
 </vortaro>

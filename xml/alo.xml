@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: alo.xml,v 1.23 2013/08/27 10:10:29 revo Exp $">
+<art mrk="$Id: alo.xml,v 1.25 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>alo</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -13,7 +13,7 @@
     <uzo tip="fak">BOT</uzo>
     <dif>
       Suka vegeta&jcirc;o kun baza ringo de dikaj folioj,
-      kun plejmultaj specioj en Afriko,
+      kun plej multaj specioj en Afriko,
       <ref tip="lst" cel="genr.0o.BIO"
       lst="voko:botanikaj_genroj">genro</ref> el familio <ref
       tip="malprt" cel="liliac.0oj">liliacoj</ref>
@@ -38,6 +38,7 @@
   </trdgrp>
   <trd lng="bg">&c_a;&c_l;&c_o;&c_je;</trd>
   <trd lng="ca">&agrave;loe</trd>
+  <trd lng="cs">aloe</trd>
   <trd lng="de">Aloe</trd>
   <trd lng="en">aloe</trd>
   <trdgrp lng="es">
@@ -72,6 +73,12 @@
 </art>
 <!--
 $Log: alo.xml,v $
+Revision 1.25  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/03/11 21:10:17  revo
+Wolfram Diestel: -tajperaro
+
 Revision 1.23  2013/08/27 10:10:29  revo
 Wolfram Diestel: referenco al listo bot genroj
 
@@ -91,8 +98,5 @@ Revision 1.18 2004/03/09 17:31:36 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.17 2003/05/18 18:02:02 revo
-Viliam Bur: +trd sk
-
-Revision 1.16 2002/04/02 17:55:12 revo
 -->
 </vortaro>

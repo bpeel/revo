@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mez.xml,v 1.45 2014/10/31 10:10:17 revo Exp $">
+<art mrk="$Id: mez.xml,v 1.47 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mez</rad>/o <fnt><bib>PV</bib></fnt>
@@ -75,7 +75,10 @@
   <trd lng="be">&c_s;&c_ja;&c_r;&c_e;&c_d;&c_z;&c_ib;&c_n;&c_a;</trd>
   <trd lng="br">kreiz</trd>
   <trd lng="ca">mig</trd>
-  <trd lng="cs">st&rcaron;ed</trd>
+  <trdgrp lng="cs">
+    <trd>st&rcaron;ed</trd>,
+    <trd>svalový obal arterie</trd>
+  </trdgrp>
   <trd lng="de">Mitte</trd>
   <trd lng="en">middle</trd>
   <trdgrp lng="es">
@@ -92,7 +95,10 @@
   <trd lng="pt">meio</trd>
   <trd lng="ro">mijloc</trd>
   <trd lng="ru">&c_s;&c_je;&c_r;&c_je;&c_d;&c_i;&c_n;&c_a;</trd>
-  <trd lng="sk">stred</trd>
+  <trdgrp lng="sk">
+    <trd>stred</trd>,
+    <trd>svalový obal artérie</trd>
+  </trdgrp>
   <trd lng="zh">&#20013;</trd>
 </drv>
 
@@ -126,6 +132,11 @@
     <trd>-<ind>kreiz</ind></trd>,
     <trd>krenn</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>prostřední</trd>,
+    <trd>průměrný</trd>,
+    <trd>střední</trd>
+  </trdgrp>
   <trd lng="en">middle</trd>
   <trd lng="es">medio</trd>
   <trdgrp lng="fr">
@@ -157,7 +168,11 @@
     <trd>de <ind>mijloc</ind></trd>,
   </trdgrp>
   <trd lng="ru">&c_s;&c_r;&c_je;&c_d;&c_n;&c_i;&c_j;</trd>
-  <trd lng="sk">prostredn&yacute;</trd>
+  <trdgrp lng="sk">
+    <trd>priemerný</trd>,
+    <trd>prostredn&yacute;</trd>,
+    <trd>stredný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mez.0e">
@@ -333,6 +348,7 @@ ref="http://eo.wikibooks.org/wiki/Rakontoj_pri_Feinoj">Rakontoj
   <trd lng="be">&c_p;&c_o;&c_w;&c_n;&c_a;&c_ch;</trd>
   <trd lng="bg">&c_p;&c_o;&c_l;&c_u;&c_n;&c_o;&c_shch;</trd>
   <trd lng="br">hanternoz</trd>
+  <trd lng="cs">půlnoc</trd>
   <trd lng="de">Mitternacht</trd>
   <trd lng="en">midnight</trd>
   <trd lng="es">medianoche</trd>
@@ -343,6 +359,10 @@ ref="http://eo.wikibooks.org/wiki/Rakontoj_pri_Feinoj">Rakontoj
   <trd lng="pl">p&oacute;&lstroke;noc <klr tip="amb">(godzina)</klr></trd>
   <trd lng="ro">miezul <ind>nop&tcedil;ii</ind></trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_n;&c_o;&c_ch;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>polnoc</trd>,
+    <trd>stred noci</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mez.posttag0o">
@@ -382,6 +402,10 @@ ref="http://eo.wikibooks.org/wiki/Rakontoj_pri_Feinoj">Rakontoj
   <trd lng="pl">popo&lstroke;udnie</trd>
   <trd lng="ro">dup&abreve; <ind>amiaza</ind></trd>
   <trd lng="ru">&c_p;&c_o;&c_p;&c_o;&c_l;&c_u;&c_d;&c_n;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>odpoludnie</trd>,
+    <trd>poobedie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mez.tag0o">
@@ -402,6 +426,7 @@ ref="http://eo.wikibooks.org/wiki/Rakontoj_pri_Feinoj">Rakontoj
     <trd>&c_o;&c_b;&c_je;&c_d;</trd>
   </trdgrp>
   <trd lng="br">kreisteiz</trd>
+  <trd lng="cs">poledne</trd>
   <trd lng="de">Mittag</trd>
   <trd lng="en">noon</trd>
   <trd lng="es">mediod&iacute;a</trd>
@@ -414,11 +439,18 @@ ref="http://eo.wikibooks.org/wiki/Rakontoj_pri_Feinoj">Rakontoj
   <trd lng="pl">po&lstroke;udnie <klr>(godzina)</klr></trd>
   <trd lng="ro">amiaz&abreve;</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_d;&c_je;&c_n;&c_mol;</trd>
+  <trd lng="sk">poludnie</trd>
   <trd lng="vo">zendel</trd>
 </drv>
 </art>
 <!--
 $Log: mez.xml,v $
+Revision 1.47  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.46  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.45  2014/10/31 10:10:17  revo
 Guillermo Molleda Jimena: trd es
 

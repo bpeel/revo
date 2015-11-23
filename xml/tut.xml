@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tut.xml,v 1.36 2011/12/07 23:10:09 revo Exp $">
+<art mrk="$Id: tut.xml,v 1.38 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tut</rad>/a
@@ -50,7 +50,11 @@
     <trd>complet</trd>,
     <trd>total</trd>
   </trdgrp>
-  <trd lng="cs">cel&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>cel&yacute;</trd>,
+    <trd>všecek</trd>,
+    <trd>úplný</trd>
+  </trdgrp>
   <trd lng="de">ganz</trd>
   <trdgrp lng="en">
     <trd>complete</trd>,
@@ -82,11 +86,12 @@
     <trd>&c_c;&c_je;&c_l;&c_y;&c_j;</trd>,
     <trd>&c_v;&c_je;&c_s;&c_mol;</trd>
   </trdgrp>
-<trdgrp lng="tp">
+  <trd lng="sk">celý</trd>
+  <trd lng="sv">hela</trd>
+  <trdgrp lng="tp">
 <trd>ale</trd>,
 <trd>ali</trd>
 </trdgrp>
-  <trd lng="sv">hela</trd>
 </drv>
 
 <drv mrk="tut.0e">
@@ -146,6 +151,11 @@
       </ekz>
     </rim>
   </snc>
+  <trdgrp lng="lat">
+    <trd>omnino</trd>,
+    <trd>penitus</trd>,
+    <trd>prorsus</trd>
+  </trdgrp>
   <trdgrp lng="be">
     <trd>&c_c;&c_a;&c_l;&c_k;&c_a;&c_m;</trd>,
     <trd>&c_z;&c_u;&c_s;&c_ib;&c_m;</trd>,
@@ -156,7 +166,11 @@
     <trd>totalment</trd>,
     <trd>del tot</trd>
   </trdgrp>
-  <trd lng="cs">zcela</trd>
+  <trdgrp lng="cs">
+    <trd>docela</trd>,
+    <trd>nadobro</trd>,
+    <trd>zcela</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>completely</trd>,
     <trd>entirely</trd>,
@@ -173,11 +187,6 @@
   <trdgrp lng="hu">
     <trd>eg&eacute;szen</trd>,
     <trd>teljesen</trd>
-  </trdgrp>
-  <trdgrp lng="lat">
-    <trd>omnino</trd>,
-    <trd>penitus</trd>,
-    <trd>prorsus</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>helemaal</trd>,
@@ -198,6 +207,12 @@
     <trd>&c_p;&c_o;&c_l;&c_n;&c_o;&c_s;&c_t;&c_mol;&c_ju;</trd>,
     <trd>&c_c;&c_je;&c_l;&c_i;&c_k;&c_o;&c_m;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>celkom</trd>,
+    <trd>naskrze</trd>,
+    <trd>vonkoncom</trd>,
+    <trd>úplne</trd>
+  </trdgrp>
   <trd lng="sv">helt<klr> (och h&aring;llet)</klr></trd>
 </drv>
 
@@ -217,6 +232,7 @@
     <trd>integritat</trd>,
     <trd>tot <klr>(subst.)</klr></trd>
   </trdgrp>
+  <trd lng="cs">množina</trd>
   <trdgrp lng="en">
     <trd>entirety</trd>,
     <trd>whole</trd>,
@@ -235,6 +251,7 @@
     <trd>&c_c;&c_je;&c_l;&c_o;&c_je;</trd>,
     <trd>&c_v;&c_s;&c_jo; &c_v; &c_c;&c_je;&c_l;&c_o;&c_m;</trd>
   </trdgrp>
+  <trd lng="sk">celistvosť</trd>
 </drv>
 
 <drv mrk="tut.0ajxo">
@@ -311,6 +328,7 @@
     <trd>completesa</trd>,
     <trd>totalitat</trd>
   </trdgrp>
+  <trd lng="cs">celistvost</trd>
   <trdgrp lng="en">
     <trd>entirety</trd>,
     <trd>completeness</trd>,
@@ -334,6 +352,7 @@
     <trd>&c_p;&c_o;&c_l;&c_n;&c_o;&c_t;&c_a; <klr
     tip="ind">(&c_c;&c_je;&c_l;&c_o;&c_s;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;)</klr></trd>
   </trdgrp>
+  <trd lng="sk">celistvosť</trd>
   <trd lng="sv">helhet</trd>
 </drv>
 
@@ -385,6 +404,11 @@
       (&c_p;&c_o;&c_r;&c_ja;&c_d;&c_o;&c_k;)</klr></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>celistvý</trd>,
+    <trd>celkový</trd>
+  </trdgrp>
+  <trd lng="sk">celkový</trd>
 </drv>
 
 <drv mrk="tut.en0e">
@@ -505,15 +529,31 @@
     <trd>&c_n;&c_a;&c_a;&c_g;&c_u;&c_l;</trd>,
     <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>celkem</trd>,
+    <trd>dohromady</trd>,
+    <trd>vcelku</trd>,
+    <trd>vesměs</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>as a whole</trd>,
     <trd>on the whole</trd>,
     <trd>in short</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>celkom</trd>,
+    <trd>celkove</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: tut.xml,v $
+Revision 1.38  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.37  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.36  2011/12/07 23:10:09  revo
 Marc Rausell: kataluna traduko
 

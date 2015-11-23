@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: produk.xml,v 1.26 2013/01/07 01:10:14 revo Exp $">
+<art mrk="$Id: produk.xml,v 1.29 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>produkt</rad>/i <fnt><bib>PV</bib></fnt>
@@ -12,22 +12,7 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="produk.0i.BIO">
     <dif>
-      Estigi viva&jcirc;ojn a&ubreve; senviva&jcirc;ojn per natura evoluipovo:
-      <ekz>
-        la &scirc;afinoj <tld/>as ordinare nur unu &scirc;afidon;
-      </ekz>
-      <ekz>
-        tiuj arboj <tld/>as pomojn;
-      </ekz>
-      <ekz>
-        Ameriko <tld/>as multon da greno<fnt>B</fnt>;
-      </ekz>
-      <ekz>
-        tiu grundo <tld/>as oron;
-      </ekz>
-      <ekz>
-        la lando <tld/>is grandajn homojn;
-      </ekz>
+      Estigi per natura evoluado viva&jcirc;ojn a&ubreve; senviva&jcirc;ojn:
       <ekz>
         mar&ccirc;a tero, kiu <tld/>as nur malmulte da beroj
         <fnt><bib>Fab4</bib>, <lok>filino de la mar&ccirc;a
@@ -58,7 +43,8 @@
       Fari el krudaj materialoj substancojn a&ubreve; objektojn utilajn por la
       homo:
       <ekz>
-        batado de lakto <tld/>as buteron<fnt>Z</fnt>
+        batado de lakto <tld/>as buteron
+        <fnt><bib>MT</bib>, <lok>Sentencoj 30:33</lok></fnt>
         <klr>(oni ne devas miri pri la neeviteblaj konsekvencoj de siaj
         faroj)</klr>;
       </ekz>
@@ -89,6 +75,12 @@
     <trd>&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">produir</trd>
+  <trdgrp lng="cs">
+    <trd>plodit</trd>,
+    <trd>produkovat</trd>,
+    <trd>rodit</trd>,
+    <trd>vyrábět</trd>
+  </trdgrp>
   <trd lng="de">produzieren</trd>
   <trd lng="en">produce</trd>
   <trd lng="es">producir</trd>
@@ -97,6 +89,11 @@
   <trd lng="pl">produkowa&cacute;</trd>
   <trd lng="pt">produzir</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>dorábať</trd>,
+    <trd>produkovať</trd>,
+    <trd>vyrábať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="produk.0o">
@@ -127,12 +124,14 @@
   </snc>
   <snc mrk="produk.0o.produktajxo">
     <ref tip="dif" cel="produk.0ajxo"><tld/>a&jcirc;o</ref>
+    <ekz>  
+     ili man&gcirc;is el la <tld/>oj de la tero en la sekvanta tago 
+     <fnt><bib>MT</bib>, <lok>Josuo 5:11</lok></fnt>
+    </ekz> 
     <ekz>
-      la porcelan-industrio, kies <tld/>oj estas eksportataj;
-    </ekz>
-    <ekz>
-      &ccirc;iuj <tld/>oj de la homa penso fari&gcirc;us akireblaj
-      por &ccirc;iu el ni<fnt>Z</fnt>;
+      &ccirc;iuj <tld/>oj de la homa spirito fari&gcirc;us akireblaj
+      por &ccirc;iu el ni
+      <fnt><bib>EE</bib>, <lok>&ccirc;ap. 2</lok></fnt>
     </ekz>
     <ekz>
       la <tld/>oj de unu literaturo
@@ -233,6 +232,18 @@
     produzida)</klr></trd>
     <trd lng="ru">&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>produkt</trd>,
+    <trd>výrobek</trd>,
+    <trd>výtvor</trd>,
+    <trd>zplodina</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>produkt</trd>,
+    <trd>splodina</trd>,
+    <trd>výrobok</trd>,
+    <trd>výtvor</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="produk.0ado">
@@ -252,6 +263,11 @@
   <trdgrp lng="ca">
     <trd>producci&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>produkce</trd>,
+    <trd>provoz</trd>,
+    <trd>výroba</trd>
+  </trdgrp>
   <trd lng="de">Produktion</trd>
   <trd lng="en">production</trd>
   <trd lng="es">producci&oacute;n</trd>
@@ -264,6 +280,10 @@
   <trd lng="pl">produkcja</trd>
   <trd lng="pt">produ&ccedil;&atilde;o <klr tip="amb">(atividade)</klr></trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>produkcia</trd>,
+    <trd>výroba</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="produk.0ajxo">
@@ -411,6 +431,11 @@
   </trdgrp>
   </snc>
   <trd lng="ca">reproduir</trd>
+  <trdgrp lng="cs">
+    <trd>množit</trd>,
+    <trd>reprodukovat</trd>,
+    <trd>zplodit novou generaci</trd>
+  </trdgrp>
   <trd lng="en">reproduce</trd>
   <trd lng="es">reproducir</trd>
   <trd lng="fr">reproduire</trd>
@@ -419,6 +444,10 @@
     <trd>&c_v;&c_o;&c_s;&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_o;&c_s;&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>,
     <trd>&c_r;&c_je;&c_p;&c_r;&c_o;&c_d;&c_u;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>množiť</trd>,
+    <trd>reprodukovať</trd>
   </trdgrp>
 </drv>
 
@@ -437,21 +466,32 @@
     </dif>
   </snc>
   <trd lng="ca">subproducte</trd>
+  <trd lng="cs">vedlejší výrobek</trd>
+  <trd lng="es">subproducto</trd>
   <trdgrp lng="fr">
     <trd>produit d&eacute;riv&eacute;</trd>,
     <trd>sous-produit</trd>
   </trdgrp>
-  <trd lng="es">subproducto</trd>
   <trd lng="nl">bijproduct</trd>
   <trd lng="pt">subproduto</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_n;&c_y;&c_j; &c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>,
     <trd>&c_s;&c_u;&c_b;&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>
   </trdgrp>
+  <trd lng="sk">vedľajší výrobok</trd>
 </drv>
 </art>
 <!--
 $Log: produk.xml,v $
+Revision 1.29  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/03/08 17:10:19  revo
+Wolfram Diestel: -stileraro, forigis kelkajn ekzemploj sen fonto
+
 Revision 1.26  2013/01/07 01:10:14  revo
 Neil Roberts: Forigo de malplena traduko al la kataluna lingvo
 
@@ -471,8 +511,5 @@ Revision 1.21  2009/03/05 17:30:38  revo
 Marcus Curdeius: +MNP +pluraj tradukoj
 
 Revision 1.20  2009/02/19 20:26:05  revo
-Marcus Curdeius: +trd pl
-
-Revision 1.19  2008/07/13 16:30:16  revo
 -->
 </vortaro>

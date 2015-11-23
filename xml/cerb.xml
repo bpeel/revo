@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cerb.xml,v 1.37 2014/06/01 15:10:21 revo Exp $">
+<art mrk="$Id: cerb.xml,v 1.40 2015/10/09 11:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>cerb</rad>/o
@@ -28,6 +28,7 @@
     <trd lng="fr">cerveau</trd>
     <trd lng="he">&mem;&vav;&het;</trd>
     <trd lng="pl">m&oacute;zg</trd>
+    <trd lng="pt">c&eacute;rebro</trd>
     <trd lng="sv">hj&auml;rna</trd>
   </snc>
   <snc mrk="cerb.0o.FIG">
@@ -55,6 +56,7 @@
     <trd>&c_m;&c_o;&c_z;&c_g;</trd>,
     <trd>&c_m;&c_a;&c_z;&c_g;&c_ib;</trd>
   </trdgrp>
+  <trd lng="cs">mozek</trd>
   <trdgrp lng="hu">
     <trd>agy</trd>,
     <trd>agyvel&odblac;</trd>
@@ -82,6 +84,11 @@
   <trd lng="bg">&c_m;&c_a;&c_l;&c_k;&c_i;&c_ja;&c_t; <ind>&c_m;&c_o;&c_z;&c_malmol;&c_k;</ind></trd>
   <trd lng="br">ilpenn</trd>
   <trd lng="ca">cerebel</trd>
+  <trdgrp lng="cs">
+    <trd>cerebellum</trd>,
+    <trd>mal&yacute; mozek</trd>,
+    <trd>moze&ccaron;ek</trd>
+  </trdgrp>
   <trd lng="de">Kleinhirn</trd>
   <trd lng="el">&pi;&alfa;&rho;&epsilon;&gamma;&kappa;&epsilon;&phi;&alfa;&lambda;&jota_ton;&delta;&alfa;</trd>
   <trd lng="en">cerebellum</trd>
@@ -100,7 +107,10 @@
   <trd lng="pl">m&oacute;&zdot;d&zdot;ek</trd>
   <trd lng="pt">cerebelo</trd>
   <trd lng="ru">&c_m;&c_o;&c_z;&c_zh;&c_je;&c_ch;&c_o;&c_k;</trd>
-  <trd lng="sk">mozo&ccaron;ek</trd>
+  <trdgrp lng="sk">
+    <trd>mal&yacute; mozog</trd>,
+    <trd>mozo&ccaron;ek</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cerb.0ajxo">
@@ -136,17 +146,18 @@
   <snc>
     <ref tip="dif" cel="krani.0o">kranio</ref>
   </snc>
-  <trd lng="be">&c_ch;&c_e;&c_r;&c_a;&c_p;</trd>  
+  <trd lng="be">&c_ch;&c_e;&c_r;&c_a;&c_p;</trd>
   <trd lng="bg">&c_ch;&c_je;&c_r;&c_je;&c_p;</trd>
   <trd lng="br">klopenn</trd>
   <trd lng="ca">crani</trd>
+  <trd lng="cs">mozkovna</trd>
   <trd lng="de">Sch&auml;del</trd>
+  <trd lng="el">&kappa;&rho;&alfa;&ny;&jota_ton;&omikron;</trd>
   <trdgrp lng="en">
     <trd>brainpan</trd>,
     <trd>braincase</trd>,
     <trd>cranium</trd>
   </trdgrp>
-  <trd lng="el">&kappa;&rho;&alfa;&ny;&jota_ton;&omikron;</trd>
   <trd lng="es">cr&aacute;neo</trd>
   <trd lng="fr">bo&icirc;te <ind>cr&acirc;nienne</ind></trd>
   <trd lng="he">&gimel;&vav;&lamed;&gimel;&vav;&lamed;&tav;</trd>
@@ -192,6 +203,12 @@
     <trd>prederia&ntilde;<klr tip="ind"> (en em so&ntilde;jal)</klr></trd>
   </trdgrp>
   <trd lng="ca">escalfar-se el cap</trd>
+  <trdgrp lng="cs">
+    <trd>b&aacute;dat</trd>,
+    <trd>hloubat</trd>,
+    <trd>nechat proj&iacute;t hlavou</trd>,
+    <trd>p&rcaron;em&yacute;&scaron;let</trd>
+  </trdgrp>
   <trd lng="de">gr&uuml;beln</trd>
   <trdgrp lng="en">
     <trd>rack one's brains</trd>,
@@ -199,22 +216,26 @@
     <trd>cerebrate</trd>
   </trdgrp>
   <trd lng="es">reflexionar</trd>
+  <trdgrp lng="fr">
+    <trd>r&eacute;fl&eacute;chir</trd>,
+    <trd>cogiter</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>t&ouml;ri a <ind>fej&eacute;t</ind></trd>,
     <trd>elgondolkodik</trd>
   </trdgrp>
   <trd lng="it">scervellarsi</trd>
-  <trdgrp lng="fr">
-    <trd>r&eacute;fl&eacute;chir</trd>,
-    <trd>cogiter</trd>
-  </trdgrp>
   <trd lng="nl">nadenken</trd>
   <trd lng="pl">g&lstroke;owi&cacute; si&eogonek;</trd>
   <trdgrp lng="ru">
     <trd>&c_l;&c_o;&c_m;&c_a;&c_t;&c_mol; &c_g;&c_o;&c_l;&c_o;&c_v;&c_u;</trd>,
     <trd>&c_o;&c_b;&c_m;&c_o;&c_z;&c_g;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">l&aacute;ma&tcaron; si <ind>hlavu</ind></trd>
+  <trdgrp lng="sk">
+    <trd>l&aacute;ma&tcaron; si <ind>hlavu</ind></trd>,
+    <trd>l&aacute;ma&tcaron; si hlavu</trd>,
+    <trd>rozm&yacute;&scaron;&lcaron;a&tcaron;</trd>
+  </trdgrp>
   <trdgrp lng="sv">
     <trd>grubbla</trd>,
     <trd>fundera</trd>
@@ -236,6 +257,10 @@
     <trd>gravar-hi al cap</trd>,
     <trd>inculcar</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>vr&yacute;t do pam&ecaron;ti</trd>,
+    <trd>zapamatovat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>einh&auml;mmern</trd>, <trd>eintrichtern</trd>
   </trdgrp>
@@ -248,7 +273,10 @@
   <trd lng="pl">wbi&cacute; do g&lstroke;owy</trd>
   <trd lng="ru">&c_v;&c_b;&c_i;&c_t;&c_mol; &c_v;
   &c_g;&c_o;&c_l;&c_o;&c_v;&c_u;</trd>
-  <trd lng="sk">vzia&tcaron; si do <ind>hlavy</ind></trd>
+  <trdgrp lng="sk">
+    <trd>vry&tcaron; do pam&auml;ti</trd>,
+    <trd>vzia&tcaron; si do <ind>hlavy</ind></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cerb.sen0ulo">
@@ -271,6 +299,10 @@
     <trd>arrauxat</trd>,
     <trd>irreflexiu</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nerozuma</trd>,
+    <trd>nerozumn&yacute; &ccaron;lov&ecaron;k</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Hirnloser</trd>
   </trdgrp>
@@ -281,6 +313,7 @@
     <trd>imbecile</trd>,
     <trd>noodle</trd>
   </trdgrp>
+  <trd lng="es">descerebrado</trd>
   <trdgrp lng="fr">
     <trd>&eacute;cervel&eacute;<klr tip="ind"> (personne)</klr></trd>,
     <trd>t&ecirc;te de linotte</trd>
@@ -292,10 +325,10 @@
   </trdgrp>
   <trd lng="it">decerebrato<klr> (fig.)</klr></trd>
   <trd lng="nl">uilskuiken</trd>
-  <trd lng="es">descerebrado</trd> 
   <trd lng="pl">osobnik bezmy&sacute;lny</trd>
   <trd lng="ru">&c_b;&c_je;&c_z;&c_m;&c_o;&c_z;&c_g;&c_l;&c_y;&c_j;
   &c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k;</trd>
+  <trd lng="sk">nerozumn&yacute; &ccaron;lovek</trd>
 </drv>
 
 <drv mrk="cerb.osto0o">
@@ -319,6 +352,10 @@
     <trd>medul&middot;la &ograve;ssia</trd>,
     <trd>moll de l'os</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kostn&iacute; d&rcaron;e&ncaron;</trd>,
+    <trd>morek kosti</trd>
+  </trdgrp>
   <trd lng="de">Knochenmark</trd>
   <trd lng="el">&my;&epsilon;&delta;&omikron;&ypsilon_ton;&lambda;&jota;</trd>
   <trd lng="en">marrow</trd>
@@ -330,10 +367,20 @@
   <trd lng="pl">szpik kostny</trd>
   <trd lng="pt">medula<klr> (&oacute;ssea)</klr></trd>
   <trd lng="ru">&c_k;&c_o;&c_s;&c_t;&c_n;&c_y;&c_j; &c_m;&c_o;&c_z;&c_g;</trd>
+  <trd lng="sk">kostn&aacute; dre&ncaron;</trd>
 </drv>
 </art>
 <!--
 $Log: cerb.xml,v $
+Revision 1.40  2015/10/09 11:10:14  revo
+Evandro Avellar: +trd pt
+
+Revision 1.39  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.38  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.37  2014/06/01 15:10:21  revo
 Eko Nur Syah Hidayat: +id
 
@@ -347,14 +394,5 @@ Revision 1.34  2009/07/01 17:22:25  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.33  2009/05/24 11:26:57  revo
-Antonio Codazzi: +trd it
-
-Revision 1.32  2008/01/20 17:30:26  revo
-Wieland Pusch: +trd bg
-
-Revision 1.31  2007/12/20 17:30:28  revo
-Wieland Pusch: +trd bg
-
-Revision 1.30  2006/09/01 18:30:51  revo
 -->
 </vortaro>

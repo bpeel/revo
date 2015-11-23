@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: depresi.xml,v 1.6 2013/08/26 15:10:20 revo Exp $">
+<art mrk="$Id: depresi.xml,v 1.8 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>depresi</rad>/o
 </kap>
@@ -62,15 +62,30 @@
     </trdgrp>
   </snc>
   <trd lng="ca">depressi&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>deprese</trd>,
+    <trd>skleslost</trd>,
+    <trd>sklíčenost</trd>
+  </trdgrp>
   <trd lng="de">Depression</trd>
   <trd lng="en">depression</trd>
   <trd lng="nl">depressie</trd>
   <trd lng="pt">depress&atilde;o</trd>
+  <trdgrp lng="sk">
+    <trd>depresia</trd>,
+    <trd>skľúčenosť</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: depresi.xml,v $
+Revision 1.8  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2013/08/26 15:10:20  revo
 Joop Eggen: +trd bg de en nl
 

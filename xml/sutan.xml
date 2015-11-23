@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sutan.xml,v 1.15 2009/10/08 16:30:58 revo Exp $">
+<art mrk="$Id: sutan.xml,v 1.17 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>sutan</rad>/o
@@ -23,6 +23,12 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_t;&c_a;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>hábit</trd>,
+    <trd>klerika</trd>,
+    <trd>sutana</trd>,
+    <trd>řeholní roucho</trd>
+  </trdgrp>
   <trd lng="de">Sutane</trd>
   <trdgrp lng="en">
     <trd>soutane</trd>,
@@ -40,10 +46,20 @@
     <trd>&c_s;&c_u;&c_t;&c_a;&c_n;&c_a;</trd>,
     <trd>&c_r;&c_ja;&c_s;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>klerika</trd>,
+    <trd>reverenda</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: sutan.xml,v $
+Revision 1.17  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:25  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2009/10/08 16:30:58  revo
 Antonio Codazzi: +trd it
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sulk.xml,v 1.18 2011/01/06 15:25:12 revo Exp $">
+<art mrk="$Id: sulk.xml,v 1.22 2015/10/30 08:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sulk</rad>/o <fnt><bib>PV</bib></fnt>
@@ -41,7 +41,7 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="fald.0o0ajxo">faldo</ref>,
+      <ref cel="fald.0o">faldo</ref>,
       <ref cel="falt.0o">falto</ref>,
       <ref cel="fend.0o">fendo</ref>
     </refgrp>
@@ -60,13 +60,22 @@
       <trd>&c_s;&c_k;&c_l;&c_a;&c_d;&c_k;&c_a;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>br&aacute;zda</trd>,
+    <trd>r&yacute;ha</trd>,
+    <trd>stru&zcaron;ka</trd>
+  </trdgrp>
   <trd lng="en">furrow</trd>
-  <trd lng="es">surco</trd> 
+  <trd lng="es">surco</trd>
   <trdgrp lng="fr">
     <trd>ride</trd>,
     <trd>sillon</trd>
   </trdgrp>
   <trd lng="it">solco</trd>
+  <trdgrp lng="sk">
+    <trd>br&aacute;zda</trd>,
+    <trd>vr&aacute;ska</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sulk.0i">
@@ -80,6 +89,13 @@
       <fnt><bib>Marta</bib></fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>br&aacute;zdit</trd>,
+    <trd>krabatit</trd>,
+    <trd>svra&scaron;tit</trd>,
+    <trd>vr&aacute;s&ccaron;it</trd>,
+    <trd>zbr&aacute;zdit</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>froncer</trd>,
     <trd>plisser</trd>,
@@ -97,6 +113,11 @@
   <trdgrp lng="ru">
     <trd>&c_b;&c_o;&c_r;&c_o;&c_z;&c_d;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_m;&c_o;&c_r;&c_shch;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>br&aacute;zdi&tcaron;</trd>,
+    <trd>vr&aacute;sni&tcaron;</trd>,
+    <trd>zvra&scaron;ti&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -122,6 +143,7 @@
     <trd>furrow</trd>,
     <trd>wrinkle</trd>
   </trdgrp>
+  <trd lng="es">surcar</trd>
   <trdgrp lng="fr">
     <trd>froncer</trd>,
     <trd>plisser</trd>,
@@ -193,6 +215,7 @@
     <trd>groove</trd>,
     <trd>slot</trd>
   </trdgrp>
+  <trd lng="es">ranura</trd>
   <trd lng="fr">rainure</trd>
   <trd lng="hu">ereszt&eacute;khorony</trd>
   <trd lng="it">scanalatura</trd>
@@ -216,15 +239,36 @@
       la voj<tld/>o de la rutino.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kolej</trd>,
+    <trd>stopa vozu</trd>,
+    <trd>vyjet&aacute; kolej</trd>
+  </trdgrp>
   <trd lng="fr">orni&egrave;re</trd>
   <trd lng="hu">ker&eacute;knyom</trd>
   <trd lng="it">solco<klr> (traccia di ruote)</klr></trd>
   <trd lng="nl">wagenspoor</trd>
   <trd lng="ru">&c_k;&c_o;&c_l;&c_je;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>ko&lcaron;aj</trd>,
+    <trd>stopa vozu <klr>(po koles&aacute;ch)</klr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: sulk.xml,v $
+Revision 1.22  2015/10/30 08:10:15  revo
+Damien Brucker: -eraro cxe ref en ~o
+
+Revision 1.21  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2015/04/18 10:10:17  revo
+Carlos Garcia: +trd es -igi sxov-o
+
 Revision 1.18  2011/01/06 15:25:12  revo
 Jeromo Vasxe: kor. 1 fusxitajn fnt, + 2 trd fr
 
@@ -235,17 +279,5 @@ Revision 1.16  2009/10/15 16:33:26  revo
 Antonio Codazzi: +trd it
 
 Revision 1.15  2008/11/23 19:12:28  revo
-Wieland Pusch: entoj por unikodo
-
-Revision 1.14  2008/10/31 17:30:29  revo
-Russ Williams: +trd en
-
-Revision 1.13  2005/01/03 17:32:06  revo
-Marc Bavant: kor ref cel al radokavo
-
-Revision 1.12  2004/11/29 17:31:04  revo
-Jeromo Vasxe: -(ig)i -> ~i/~igi, + fak, + kk fnt, + trd fr
-
-Revision 1.11 2004/11/09 17:31:43 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kaset.xml,v 1.15 2014/05/10 16:10:14 revo Exp $">
+<art mrk="$Id: kaset.xml,v 1.19 2015/09/22 10:10:25 revo Exp $">
 <kap>
   <rad>kaset</rad>/o
 </kap>
@@ -10,15 +10,37 @@
   <kap><tld/>o</kap>
   <uzo tip="stl">ARK</uzo>
   <ref tip="dif" cel="kased.0o">kasedo</ref>
+  <trd lng="en">cassette</trd>
   <trd lng="be">&c_k;&c_a;&c_s;&c_e;&c_t;&c_a;</trd>
   <trd lng="de">Kassette</trd>
   <trd lng="fr">cassette</trd>
   <trd lng="hu">kazetta</trd>
   <trd lng="nl">casette<klr tip="ind"> (arch.)</klr></trd>
+  <trd lng="pl">kaseta</trd>
+  <trdgrp lng="sk">
+    <trd>pokladni&ccaron;ka</trd>,
+    <trd>prenosn&yacute; trezor</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pokladni&ccaron;ka</trd>,
+    <trd>p&rcaron;enosn&yacute; trezorek</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kaset.xml,v $
+Revision 1.19  2015/09/22 10:10:25  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2015/09/16 14:10:18  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.17  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2014/05/10 16:10:14  revo
 Damien Brucker: +trd fr
 
@@ -29,17 +51,5 @@ Revision 1.13  2004/12/05 17:33:29  revo
 Marc Bavant: mod ref
 
 Revision 1.12 2004/03/29 18:32:24 revo
-Sergio Pokrovskij: Transportis la enhavon al KASED (laux niaj reguloj
-kaj PIV2)
-
-Revision 1.11 2004/03/22 17:30:36 revo
-Marc Bavant: kor duobligitan punkton
-
-Revision 1.10 2004/03/12 17:31:16 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9 2003/08/28 06:15:04 revo
-Yury Finkel: +trd ru
-
 -->
 </vortaro>

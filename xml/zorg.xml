@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: zorg.xml,v 1.41 2013/04/25 20:10:08 revo Exp $">
+<art mrk="$Id: zorg.xml,v 1.43 2015/07/04 08:37:46 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>zorg</rad>/i
@@ -117,7 +117,7 @@ sz&oacute;rakoz&aacute;s</trd>
     <trdgrp lng="pl">
       <trd>dba&cacute;</trd>,
       <trd>piel&eogonek;gnowa&cacute;</trd>
-      <trd lng="pl">stara&cacute; si&eogonek;</trd>
+      <trd>stara&cacute; si&eogonek;</trd>
     </trdgrp>
     <trdgrp lng="pt">
       <trd>cuidar</trd>,
@@ -168,8 +168,10 @@ sz&oacute;rakoz&aacute;s</trd>
       <trd>&c_z;&c_a;&c_b;&c_o;&c_t;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
     </trdgrp>
   </snc>
-  <trd lng="es">preocuparse</trd>
   <trdgrp lng="cs">
+    <trd>dbát o něčí dobro <klr>(o někoho)</klr></trd>,
+    <trd>hájit</trd>,
+    <trd>obávat se</trd>,
     <trd>pe&ccaron;ovat</trd>,
     <trd>starat se</trd>
   </trdgrp>
@@ -178,22 +180,23 @@ sz&oacute;rakoz&aacute;s</trd>
     <trd><klr>sich </klr>k&uuml;mmern</trd>
   </trdgrp>
   <trd lng="en">care</trd>
+  <trd lng="es">preocuparse</trd>
   <trdgrp lng="fr">
     <trd>s'occuper de</trd>
   </trdgrp>
   <trd lng="he">&lamed;&dalet;&alef;&vav;&gimel;</trd>
-  <trdgrp lng="nl">
-    <trd>zorgen</trd>,
-    <trd>zich <ind>bekommeren</ind></trd>,
-    <trd>bezorgd zijn</trd>
-  </trdgrp>
-  <trd lng="sk">stara&tcaron; sa</trd>
   <trdgrp lng="it">
       <trd>badare</trd>,
       <trd>occuparsi</trd>,
       <trd>curare<klr> (aver cura)</klr></trd>,
       <trd>preoccuparsi</trd>
     </trdgrp>
+  <trdgrp lng="nl">
+    <trd>zorgen</trd>,
+    <trd>zich <ind>bekommeren</ind></trd>,
+    <trd>bezorgd zijn</trd>
+  </trdgrp>
+  <trd lng="sk">stara&tcaron; sa</trd>
 </drv>
 
 <drv mrk="zorg.0ede">
@@ -334,6 +337,10 @@ sz&oacute;rakoz&aacute;s</trd>
       <trd>preoccupazione</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>péče</trd>,
+    <trd>starost</trd>
+  </trdgrp>
   <trd lng="de">Sorge</trd>
   <trd lng="he">&dalet;&alef;&gimel;&he;</trd>
   <trd lng="nl">zorg</trd>
@@ -367,6 +374,10 @@ sz&oacute;rakoz&aacute;s</trd>
     <trd>&c_u;&c_v;&c_a;&c_zh;&c_l;&c_ib;&c_v;&c_y;</trd>,
     <trd>&c_b;&c_je;&c_r;&c_a;&c_zh;&c_l;&c_ib;&c_v;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pečlivý</trd>,
+    <trd>starostlivý</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>sorgf&auml;ltig</trd>,
     <trd>sorgsam</trd>
@@ -376,6 +387,12 @@ sz&oacute;rakoz&aacute;s</trd>
   </trdgrp>
   <trd lng="fr">soigneux</trd>
   <trd lng="hu">gondos</trd>
+  <trdgrp lng="it">
+    <trd>scrupoloso</trd>,
+    <trd>attento</trd>, 
+    <trd>accurato</trd>, 
+    <trd>vigile</trd>,
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>zorgzaam</trd>,
     <trd>zorgvuldig</trd>
@@ -392,12 +409,9 @@ sz&oacute;rakoz&aacute;s</trd>
     <trd>&c_z;&c_a;&c_b;&c_o;&c_t;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>,
     <trd>&c_b;&c_je;&c_r;&c_je;&c_zh;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
-  <trd lng="sk">starostliv&yacute;</trd>
-  <trdgrp lng="it">
-    <trd>scrupoloso</trd>,
-    <trd>attento</trd>, 
-    <trd>accurato</trd>, 
-    <trd>vigile</trd>,
+  <trdgrp lng="sk">
+    <trd>pozorný</trd>,
+    <trd>starostliv&yacute;</trd>
   </trdgrp>
 </drv>
 
@@ -424,6 +438,10 @@ sz&oacute;rakoz&aacute;s</trd>
     <trd>&c_u;&c_v;&c_a;&c_zh;&c_l;&c_ib;&c_v;&c_y;</trd>,
     <trd>&c_b;&c_je;&c_r;&c_a;&c_zh;&c_l;&c_ib;&c_v;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pečlivý</trd>,
+    <trd>starostlivý</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>sorgf&auml;ltig</trd>,
     <trd>sorgsam</trd>
@@ -437,24 +455,6 @@ sz&oacute;rakoz&aacute;s</trd>
   <trdgrp lng="hu">
     <trd>gondoskod&oacute;</trd>
   </trdgrp>
-  <trdgrp lng="nl">
-    <trd>zorgzaam</trd>,
-    <trd>zorgvuldig</trd>
-  </trdgrp>
-  <trdgrp lng="pt">
-    <trd>cuidadoso</trd>,
-    <trd>zeloso</trd>
-  </trdgrp>
-  <trdgrp lng="pl">
-    <trd>troskliwy</trd>,
-    <trd>staranny</trd>,
-    <trd>dba&lstroke;y</trd>
-  </trdgrp>
-  <trdgrp lng="ru">
-    <trd>&c_z;&c_a;&c_b;&c_o;&c_t;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>,
-    <trd>&c_b;&c_je;&c_r;&c_je;&c_zh;&c_n;&c_y;&c_j;</trd>
-  </trdgrp>
-  <trd lng="sk">starostliv&yacute;</trd>
   <trdgrp lng="it">
     <trd>scrupoloso</trd>,
     <trd>attento</trd>, 
@@ -462,6 +462,27 @@ sz&oacute;rakoz&aacute;s</trd>
     <trd>solerte</trd>, 
     <trd>sollecito</trd>, 
     <trd>vigile</trd>,
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>zorgzaam</trd>,
+    <trd>zorgvuldig</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>troskliwy</trd>,
+    <trd>staranny</trd>,
+    <trd>dba&lstroke;y</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>cuidadoso</trd>,
+    <trd>zeloso</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_b;&c_o;&c_t;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>,
+    <trd>&c_b;&c_je;&c_r;&c_je;&c_zh;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pozorný</trd>,
+    <trd>starostliv&yacute;</trd>
   </trdgrp>
 </drv>
 
@@ -482,18 +503,24 @@ sz&oacute;rakoz&aacute;s</trd>
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_a;&c_p;&c_je;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>chovanec</trd>,
+    <trd>poručenec</trd>,
+    <trd>svěřenec</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Pflegeperson</trd>,
     <trd>Pflegling</trd>
   </trdgrp>
+  <trd lng="en">ward</trd>
   <trdgrp lng="fr">
     <trd>prot&eacute;g&eacute;<klr tip="amb"> (subst.)</klr></trd>
   </trdgrp>
-  <trd lng="en">ward</trd>
   <trdgrp lng="hu">
     <trd>gondozott</trd>,
     <trd>gy&aacute;mfi&uacute;</trd>
   </trdgrp>
+  <trd lng="it">pupillo</trd>
   <trd lng="nl">pupil<klr tip="ind"> (leerling)</klr></trd>
   <trdgrp lng="pl">
     <trd>wychowanek</trd>,
@@ -504,7 +531,10 @@ sz&oacute;rakoz&aacute;s</trd>
     <trd>&c_p;&c_o;&c_d;&c_o;&c_p;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_o;&c_p;&c_je;&c_k;&c_a;&c_je;&c_m;&c_y;&c_j;</trd>
   </trdgrp>
-  <trd lng="it">pupillo</trd>
+  <trdgrp lng="sk">
+    <trd>chovanec</trd>,
+    <trd>zverenec</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="zorg.0anto">
@@ -523,6 +553,11 @@ sz&oacute;rakoz&aacute;s</trd>
       <ref cel="kurato.0o.JUR">kuratoro <sncref/></ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>pečovatel</trd>,
+    <trd>poručník</trd>,
+    <trd>pěstoun</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Pfleger</trd>,
     <trd>Pflegerin</trd>,
@@ -539,10 +574,14 @@ sz&oacute;rakoz&aacute;s</trd>
     <trd>gondoz&oacute;</trd>,
     <trd>gy&aacute;m</trd>
   </trdgrp>
-  <trd lng="pl">opiekun</trd>
-  <trd lng="pt">tutor</trd>  
-  <trd lng="ru">&c_o;&c_p;&c_je;&c_k;&c_u;&c_n;</trd>
   <trd lng="it">tutore</trd>
+  <trd lng="pl">opiekun</trd>
+  <trd lng="pt">tutor</trd>
+  <trd lng="ru">&c_o;&c_p;&c_je;&c_k;&c_u;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>opatrovateľ</trd>,
+    <trd>poručník</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="zorg.antaux0i">
@@ -625,6 +664,10 @@ malbonon:
     <trd>&c_n;&c_je; &c_z;&c_mol;&c_v;&c_ja;&c_r;&c_n;&c_u;&c_c;&c_mol; 
 &c_u;&c_v;&c_a;&c_g;&c_ib;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>opomíjet</trd>,
+    <trd>zanedbávat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>vernachl&auml;ssigen</trd>,
     <trd>verkommen lassen</trd>,
@@ -640,7 +683,11 @@ malbonon:
   <trdgrp lng="hu">
     <trd>elhanyagol</trd>,
     <trd>nem <ind>t&ouml;r&odblac;dik</ind> vele</trd>
-  </trdgrp>  
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>abbandonare<klr> (trascurare)</klr></trd>, 
+    <trd>trascurare</trd>  
+  </trdgrp>
   <trd lng="nl">verwaarlozen</trd>
   <trd lng="pl">zaniedbywa&cacute;</trd>
   <trd lng="pt">negligenciar</trd>
@@ -651,10 +698,9 @@ malbonon:
     <trd>&c_n;&c_je; &c_o;&c_b;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol; 
 &c_v;&c_n;&c_i;&c_m;&c_a;&c_n;&c_i;&c_ja;</trd>
   </trdgrp>
-  <trd lng="sk">nestara&tcaron; sa</trd>
-  <trdgrp lng="it">
-    <trd>abbandonare<klr> (trascurare)</klr></trd>, 
-    <trd>trascurare</trd>  
+  <trdgrp lng="sk">
+    <trd>nedbať</trd>,
+    <trd>nestara&tcaron; sa</trd>
   </trdgrp>
 </drv>
 
@@ -675,6 +721,13 @@ malbonon:
     </dif>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>dbát o něčí dobro <klr>(o někoho)</klr></trd>,
+    <trd>hájit</trd>,
+    <trd>obávat se</trd>,
+    <trd>pečovat</trd>,
+    <trd>starat se</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>umsorgen</trd>,
     <trd>pflegen</trd>,
@@ -693,6 +746,11 @@ malbonon:
     <trd>gondoz</trd>,
     <trd>ell&aacute;t <klr>(tev&eacute;kenys&eacute;get)</klr></trd>
   </trdgrp>
+  <trdgrp lng="it">
+    <trd>accudire</trd>,
+    <trd>badare</trd>,
+    <trd>occuparsi di</trd>
+  </trdgrp>
   <trd lng="nl">verzorgen</trd>
   <trdgrp lng="pl">
     <trd>opiekowa&cacute; si&eogonek;</trd>,
@@ -704,10 +762,16 @@ malbonon:
     <trd>zelar</trd>
   </trdgrp>
   <trd lng="ru">&c_u;&c_h;&c_a;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
-  <trdgrp lng="it">
-    <trd>accudire</trd>,
-    <trd>badare</trd>,
-    <trd>occuparsi di</trd>
+  <trdgrp lng="sk">
+    <trd>obstarať</trd>,
+    <trd>postarať sa</trd>,
+    <trd>pozháňať</trd>,
+    <trd>starať sa</trd>,
+    <trd>ujať sa</trd>,
+    <trd>vybaviť</trd>,
+    <trd>zadovážiť</trd>,
+    <trd>zaobstarať</trd>,
+    <trd>zaopatriť</trd>
   </trdgrp>
 </drv>
 
@@ -736,6 +800,7 @@ malbonon:
     <trd>&c_b;&c_je;&c_s;&c_k;&c_l;&c_a;&c_p;&c_o;&c_t;&c_n;&c_y;</trd>,
     <trd>&c_b;&c_je;&c_s;&c_t;&c_u;&c_r;&c_b;&c_o;&c_t;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="cs">bezstarostný</trd>
   <trdgrp lng="de">
     <trd>sorglos</trd>,
     <trd>unbesorgt</trd>,
@@ -749,6 +814,11 @@ malbonon:
   </trdgrp>
   <trd lng="he">&shin;&alef;&nun;&fnun;</trd>
   <trd lng="hu">gondtalan</trd>
+  <trdgrp lng="it">
+    <trd>disattento<klr> (incurante)</klr></trd>,
+    <trd>incurante</trd>,
+    <trd>spensierato</trd>
+  </trdgrp>
   <trd lng="nl">onbezorgd</trd>
   <trdgrp lng="pl">
     <trd>beztroski</trd>,
@@ -758,15 +828,16 @@ malbonon:
   <trd lng="pt">despreocupado</trd>
   <trd lng="ru">&c_b;&c_je;&c_z;&c_z;&c_a;&c_b;&c_o;&c_t;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">bezstarostn&yacute;</trd>
-  <trdgrp lng="it">
-    <trd>disattento<klr> (incurante)</klr></trd>,
-    <trd>incurante</trd>,
-    <trd>spensierato</trd>
-  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: zorg.xml,v $
+Revision 1.43  2015/07/04 08:37:46  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.42  2015/06/28 10:33:41  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.41  2013/04/25 20:10:08  revo
 Norbert Luckhardt: kor trd(es)
 

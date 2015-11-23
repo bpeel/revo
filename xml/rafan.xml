@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rafan.xml,v 1.17 2013/10/31 17:10:14 revo Exp $">
+<art mrk="$Id: rafan.xml,v 1.19 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rafan</rad>/o
@@ -23,6 +23,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_d;&c_z;&c_mol;&c_k;&c_a;</trd>
+  <trd lng="cs">ředkev</trd>
   <trd lng="de">Rettich</trd>
   <trd lng="en">radish</trd>
   <trd lng="hu">retek</trd>
@@ -30,6 +31,10 @@
   <trd lng="pl">rzodkiew</trd>
   <trd lng="pt">r&aacute;bano</trd>
   <trd lng="ru">&c_r;&c_je;&c_d;&c_mol;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>reďkev</trd>,
+    <trd>reďkovka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rafan.0eto">
@@ -39,6 +44,7 @@
       Varia&jcirc;o de <tld/>o kun malgranda ekstere ru&gcirc;a radiko.
     </dif>
   </snc>
+  <trd lng="cs">ředkvička</trd>
   <trd lng="de">Radieschen</trd>
   <trd lng="fr">radis</trd>
   <trd lng="hu">h&oacute;napos <ind>retek</ind></trd>
@@ -46,10 +52,20 @@
   <trd lng="pl">rzodkiewka</trd>
   <trd lng="pt">rabanete</trd>
   <trd lng="ru">&c_r;&c_je;&c_d;&c_i;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>reďkev</trd>,
+    <trd>reďkovka</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: rafan.xml,v $
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/10/31 17:10:14  revo
 Wolfram Diestel: ref al brasikoparencoj
 

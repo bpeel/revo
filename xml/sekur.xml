@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sekur.xml,v 1.19 2014/09/03 01:10:22 revo Exp $">
+<art mrk="$Id: sekur.xml,v 1.21 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>sekur</rad>/a <fnt><bib>PV</bib></fnt>
@@ -23,6 +23,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_b;&c_ja;&c_s;&c_mol;&c_p;&c_je;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>bezpečný</trd>,
+    <trd>jistý</trd>
+  </trdgrp>
   <trd lng="de">sicher</trd>
   <trd lng="en">safe</trd>
   <trdgrp lng="fr">
@@ -36,6 +40,10 @@
   <trd lng="it">sicuro</trd>
   <trd lng="nl">veilig</trd>
   <trd lng="ru">&c_b;&c_je;&c_z;&c_o;&c_p;&c_a;&c_s;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>bezpečný</trd>,
+    <trd>istý</trd>
+  </trdgrp>
   <trd lng="sv">s&auml;ker</trd>
 </drv>
 
@@ -49,10 +57,15 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bezpečnost</trd>,
+    <trd>zabezpečení</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>s&eacute;curit&eacute;</trd>,
     <trd>suret&eacute;</trd>
   </trdgrp>
+  <trd lng="sk">bezpečnosť</trd>
 </drv>
 
 <drv mrk="sekur.0igi">
@@ -67,6 +80,13 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>jistit</trd>,
+    <trd>zabezpečit</trd>,
+    <trd>zabezpečovat</trd>,
+    <trd>zajistit</trd>,
+    <trd>zaopatřit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>sichern</trd>,
     <trd>absichern</trd>,
@@ -85,8 +105,12 @@
     <trd>mettere in <ind>sicurezza</ind></trd>,
     <trd>rendere <ind>sicuro</ind></trd>,
     <trd>mettere al <ind>sicuro</ind></trd>
-  </trdgrp>    
+  </trdgrp>
   <trd lng="ru">&c_o;&c_b;&c_je;&c_z;&c_o;&c_p;&c_a;&c_s;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>uložiť</trd>,
+    <trd>zapísať do pamäte</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sekur.0igxi">
@@ -129,6 +153,12 @@
 </art>
 <!--
 $Log: sekur.xml,v $
+Revision 1.21  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/09/03 01:10:22  revo
 Jeromo Vasxe: + mal~a
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kul.xml,v 1.31 2014/10/23 17:10:14 revo Exp $">
+<art mrk="$Id: kul.xml,v 1.33 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kul</rad>/o
@@ -34,6 +34,7 @@ mamuloj kaj
   <trd lng="be">&c_k;&c_a;&c_m;&c_a;&c_r;</trd>
   <trd lng="bg">&c_k;&c_o;&c_m;&c_a;&c_r;</trd>
   <trd lng="ca">mosquit</trd>
+  <trd lng="cs">komár</trd>
   <trd lng="de">Stechm&uuml;cke</trd>
   <trd lng="en">mosquito</trd>
   <trdgrp lng="es">
@@ -52,6 +53,7 @@ mamuloj kaj
     <trd>muri&ccedil;oca</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_m;&c_a;&c_r;</trd>
+  <trd lng="sk">komár</trd>
   <trd lng="sv">mygga</trd>
 </drv>
 
@@ -73,6 +75,10 @@ mamuloj kaj
   <trd lng="be">&c_s;&c_je;&c_t;&c_k;&c_a; &c_a;&c_d;
   <ind>&c_k;&c_a;&c_m;&c_a;&c_r;&c_o;&c_w;</ind></trd>
   <trd lng="ca">mosquitera</trd>
+  <trdgrp lng="cs">
+    <trd>moskytiéra</trd>,
+    <trd>závoj proti hmyzu</trd>
+  </trdgrp>
   <trd lng="de">M&uuml;ckennetz</trd>
   <trdgrp lng="en">
     <trd>mosquito net</trd>
@@ -94,11 +100,18 @@ mamuloj kaj
   <trd lng="pt">mosquiteiro</trd>
   <trd lng="ru">&c_s;&c_je;&c_t;&c_k;&c_a; &c_o;&c_t;
 &c_k;&c_o;&c_m;&c_a;&c_r;&c_o;&c_v;</trd>
+  <trd lng="sk">sieť proti komárom</trd>
   <trd lng="sv">myggn&auml;t</trd>
 </drv>
 </art>
 <!--
 $Log: kul.xml,v $
+Revision 1.33  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.31  2014/10/23 17:10:14  revo
 Guillermo Molleda Jimena: trd es
 

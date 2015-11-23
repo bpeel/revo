@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rimoid.xml,v 1.9 2012/08/04 08:10:29 revo Exp $">
+<art mrk="$Id: rimoid.xml,v 1.11 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <rad>rimoid</rad>/o
 </kap>
@@ -24,6 +24,7 @@
     <ref tip="vid" cel="asonan.0o.rimo">asonanco <sncref/></ref>
   </snc>
   <trd lng="ca">asson&agrave;ncia<klr> (rima)</klr></trd>
+  <trd lng="cs">nepravý rým</trd>
   <trdgrp lng="en">
     <trd>assonant rhyme</trd>,
     <trd>approximate rhyme</trd>,
@@ -33,13 +34,20 @@
     <trd>off rhyme</trd>,
     <trd>slant rhyme</trd>
   </trdgrp>
-  <trd lng="hu">mag&aacute;nhangz&oacute;s <ind>asszon&aacute;nc</ind></trd>  
+  <trd lng="hu">mag&aacute;nhangz&oacute;s <ind>asszon&aacute;nc</ind></trd>
   <trd lng="nl">halfrijm</trd>
   <trd lng="pt">rima toante</trd>
+  <trd lng="sk">nepravý rým</trd>
 </drv>
 </art>
 <!--
 $Log: rimoid.xml,v $
+Revision 1.11  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2012/08/04 08:10:29  revo
 Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: akroba.xml,v 1.20 2013/03/08 10:10:11 revo Exp $">
+<art mrk="$Id: akroba.xml,v 1.21 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>akrobat</rad>/o <fnt><bib>PV</bib></fnt>
@@ -17,6 +17,11 @@
   </snc>
   <trd lng="be">&c_a;&c_k;&c_r;&c_a;&c_b;&c_a;&c_t;</trd>
   <trd lng="bg">&c_a;&c_k;&c_r;&c_o;&c_b;&c_a;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>akrobat</trd>,
+    <trd>cirkusový umělec</trd>,
+    <trd>varietní umělec</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Zirkust&auml;nzer</trd>,
      <trd>Akrobat</trd>
@@ -81,6 +86,9 @@
 </art>
 <!--
 $Log: akroba.xml,v $
+Revision 1.21  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.20  2013/03/08 10:10:11  revo
 Jeromo Vasxe: + 1 manka dif
 

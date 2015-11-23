@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: burles.xml,v 1.15 2011/12/05 23:10:19 revo Exp $">
+<art mrk="$Id: burles.xml,v 1.17 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>burlesk</rad>/a
@@ -21,6 +21,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_b;&c_u;&c_r;&c_l;&c_je;&c_s;&c_k;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>burleskní</trd>,
+    <trd>drsně komický</trd>,
+    <trd>žertovný</trd>
+  </trdgrp>
   <trd lng="de">burlesk</trd>
   <trd lng="en">burlesque</trd>
   <trd lng="es">burlesco</trd>
@@ -40,6 +45,11 @@
     &c_v;&c_y;&c_ch;&c_u;&c_r;&c_n;&c_o;-
     &c_k;&c_o;&c_m;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
     </trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>burleskný</trd>,
+    <trd>fraškovitý</trd>,
+    <trd>komický</trd>
   </trdgrp>
 </drv>
 
@@ -64,11 +74,16 @@
     </dif>
     <ref tip="super" cel="komedi.0o.TEA">komedio</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>fraška</trd>,
+    <trd>žert</trd>
+  </trdgrp>
   <trd lng="it">commedia burlesca</trd>
   <trdgrp lng="pl">
     <trd>burleska</trd>,
     <trd>krotochwila</trd>
   </trdgrp>
+  <trd lng="sk">fraška</trd>
 </drv>
 
 <drv mrk="burles.0ulo">
@@ -85,6 +100,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_b;&c_l;&c_a;&c_z;&c_a;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>tatrman</trd>,
+    <trd>šašek</trd>
+  </trdgrp>
   <trd lng="es">buf&oacute;n</trd>
   <trdgrp lng="fr">
     <trd>bouffon</trd>,
@@ -100,10 +119,20 @@
     <trd>comico</trd>
   </trdgrp>
   <trd lng="ru">&c_sh;&c_u;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>komik</trd>,
+    <trd>pajác</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: burles.xml,v $
+Revision 1.17  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2011/12/05 23:10:19  revo
 Eduardo Navas: +trad es
 

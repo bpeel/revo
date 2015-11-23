@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: akapar.xml,v 1.17 2009/08/28 16:31:06 revo Exp $">
+<art mrk="$Id: akapar.xml,v 1.19 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>akapar</rad>/i
@@ -57,10 +57,21 @@
     <trd lng="sk">uchv&aacute;ti&tcaron; <klr>(prisvoji&tcaron; si</klr></trd>
     <trd lng="sv">l&auml;gga <ind>beslag</ind> p&aring;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>keťasit</trd>,
+    <trd>skupovat zboží</trd>,
+    <trd>šmelinařit</trd>,
+    <trd>šmelit</trd>
+  </trdgrp>
   <trd lng="es">acaparar</trd>
   <trd lng="fr">accaparer</trd>
   <trd lng="nl">z. <ind>toe-eigenen</ind></trd>
   <trd lng="pt">a&ccedil;ambarcar</trd>
+  <trdgrp lng="sk">
+    <trd>skupovať tovar</trd>,
+    <trd>úžerníčiť</trd>,
+    <trd>šmeliť</trd>
+  </trdgrp>
   <trdgrp lng="tr">
     <trd>tekeline almak</trd>,
     <trd>istif&ccedil;ilik etmek</trd>
@@ -69,6 +80,12 @@
 </art>
 <!--
 $Log: akapar.xml,v $
+Revision 1.19  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2009/08/28 16:31:06  revo
 Emmanuel Debanne: +trd tr
 

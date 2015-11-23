@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: damn.xml,v 1.19 2013/12/21 02:10:14 revo Exp $">
+<art mrk="$Id: damn.xml,v 1.21 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>damn</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -21,7 +21,10 @@
     <trd>&c_p;&c_r;&c_a;&c_k;&c_l;&c_ja;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">damnar</trd>
-  <trd lng="cs">zatratit</trd>
+  <trdgrp lng="cs">
+    <trd>proklít</trd>,
+    <trd>zatratit</trd>
+  </trdgrp>
   <trd lng="de">verdammen</trd>
   <trd lng="en">damn</trd>
   <trd lng="es">condenar</trd>
@@ -46,6 +49,10 @@
     <trd>&c_p;&c_r;&c_o;&c_k;&c_l;&c_ja;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_k;&c_l;&c_i;&c_n;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>posielať do pekla</trd>,
+    <trd>zatratiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="damn.0o">
@@ -61,12 +68,17 @@
     <trd>&c_p;&c_r;&c_a;&c_k;&c_l;&c_ja;&c_c;&c_mol;&c_c;&c_je;</trd>
   </trdgrp>
   <trd lng="ca">damnaci&oacute;</trd>
-  <trd lng="cs">zatracen&iacute;</trd>
+  <trdgrp lng="cs">
+    <trd>kletba</trd>,
+    <trd>odsouzení</trd>,
+    <trd>prokletí</trd>,
+    <trd>zatracen&iacute;</trd>
+  </trdgrp>
   <trd lng="de">Verdammnis</trd>
   <trd lng="en">damnation</trd>
   <trd lng="es">condenaci&oacute;n</trd>
-  <trd lng="hu">k&aacute;rhozat</trd>
   <trd lng="fr">damnation</trd>
+  <trd lng="hu">k&aacute;rhozat</trd>
   <trdgrp lng="nl">
     <trd>verdoeming</trd>,
     <trd>verdoemenis</trd>,
@@ -74,6 +86,10 @@
   </trdgrp>
   <trd lng="pl">przekle&nacute;stwo</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_k;&c_l;&c_ja;&c_t;&c_mol;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>kliatba</trd>,
+    <trd>prekliatie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="damn.0inda">
@@ -111,6 +127,12 @@
 </art>
 <!--
 $Log: damn.xml,v $
+Revision 1.21  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/12/21 02:10:14  revo
 Jeromo Vasxe: + ~inda
 

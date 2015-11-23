@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: greb.xml,v 1.7 2013/11/02 12:10:20 revo Exp $">
+<art mrk="$Id: greb.xml,v 1.9 2015/07/04 08:37:35 revo Exp $">
 
 <kap>
   <rad>greb</rad>/o <fnt><bib>PIV1</bib></fnt>
@@ -23,6 +23,8 @@
     <trd lng="fr">gr&egrave;be</trd>
     <trd lng="pl">perkoz</trd>
   </snc>
+  <trd lng="cs">potápka</trd>
+  <trd lng="sk">potápka</trd>
 </drv>
 
 <drv mrk="greb.tuf0o">
@@ -38,9 +40,14 @@
     </dif>
   </snc>
   <trd lng="ca"><ind>cabuss&oacute;</ind> emplomallat</trd>
+  <trdgrp lng="cs">
+    <trd>potápka roháč</trd>,
+    <trd>roháč velký</trd>
+  </trdgrp>
   <trd lng="de">Haubentaucher</trd>
   <trd lng="fr">gr&egrave;be hupp&eacute;</trd>
   <trd lng="pl">perkoz dwuczuby</trd>
+  <trd lng="sk">potápka chochlatá</trd>
 </drv>
 
 <drv mrk="greb.malgranda0o">
@@ -62,6 +69,12 @@
 
 <!--
 $Log: greb.xml,v $
+Revision 1.9  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.7  2013/11/02 12:10:20  revo
 Wolfram Diestel: kor. ref-cel
 

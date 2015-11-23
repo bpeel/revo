@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pandio1.xml,v 1.8 2006/02/24 17:35:34 revo Exp $">
+<art mrk="$Id: pandio1.xml,v 1.10 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>pandioned</rad>/oj
 </kap>
@@ -16,6 +16,7 @@
       (<trd lng="la">Pandionidae</trd>).
     </dif>
   </snc>
+  <trd lng="cs">orlovcovití</trd>
   <trd lng="de">Fischadler<klr tip="ind"> (Familie)</klr></trd>
   <trdgrp lng="fr">
     <trd>aigles p&ecirc;cheurs</trd>,
@@ -24,10 +25,17 @@
   <trd lng="hu">r&aacute;r&oacute;f&eacute;l&eacute;k</trd>
   <trd lng="nl">visarenden<klr tip="ind"> (fam.)</klr></trd>
   <trd lng="pt">pandion&iacute;deos</trd>
+  <trd lng="sk">ršiakorodé</trd>
 </drv>
 </art>
 <!--
 $Log: pandio1.xml,v $
+Revision 1.10  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2006/02/24 17:35:34  revo
 Tulio Flores: +trd pt
 

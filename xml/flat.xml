@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flat.xml,v 1.19 2012/10/23 00:11:09 revo Exp $">
+<art mrk="$Id: flat.xml,v 1.21 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>flat</rad>/i
@@ -72,9 +72,10 @@
   </snc>
   <trd lng="be">&c_l;&c_ib;&c_s;&c_mol;&c_l;&c_ib;&c_v;&c_ib;&c_c;&c_mol;</trd>
   <trd lng="ca">afalagar</trd>
+  <trd lng="cs">lichotit</trd>
   <trd lng="en">flatter</trd>
-  <trd lng="fr">flatter</trd>
   <trd lng="es">halagar</trd>
+  <trd lng="fr">flatter</trd>
   <trd lng="hu">h&iacute;zeleg</trd>
   <trd lng="nl">flatteren</trd>
   <trdgrp lng="pt">
@@ -83,6 +84,7 @@
     <trd>puxar o <ind>saco</ind> de</trd>
   </trdgrp>
   <trd lng="ru">&c_l;&c_mol;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">lichotiť</trd>
 </drv>
 
 <drv mrk="flat.0anto0ulo">
@@ -97,13 +99,15 @@
     <trd>adulador</trd>,
     <trd>llagoter</trd>
   </trdgrp>
+  <trd lng="cs">šplhoun</trd>
   <trd lng="de">Schmeichler</trd>
   <trd lng="en">flatterer</trd>
-  <trd lng="fr">flatteur</trd>
   <trd lng="es">halagador</trd>
+  <trd lng="fr">flatteur</trd>
   <trd lng="hu">h&iacute;zelg&odblac;</trd>
   <trd lng="nl">vleier</trd>
   <trd lng="ru">&c_l;&c_mol;&c_s;&c_t;&c_je;&c_c;</trd>
+  <trd lng="sk">šplhúň</trd>
 </drv>
 
 <drv mrk="flat.cxirkaux0adi">
@@ -130,6 +134,12 @@
 </art>
 <!--
 $Log: flat.xml,v $
+Revision 1.21  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2012/10/23 00:11:09  revo
 Neil Roberts: aldonu la etikedon <var>
 

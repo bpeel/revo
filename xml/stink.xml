@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stink.xml,v 1.5 2005/03/17 17:32:05 revo Exp $">
+<art mrk="$Id: stink.xml,v 1.7 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>stink</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -16,6 +16,7 @@
       <fnt><bib>RugxDom</bib> <lok>&ccirc;apitro 66a, p. 426a</lok></fnt>!
     </ekz>
   </snc>
+  <trd lng="cs">páchnout</trd>
   <trdgrp lng="fr">
     <trd>puer</trd>
   </trdgrp>
@@ -25,6 +26,7 @@
     <trd>&c_v;&c_o;&c_n;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_m;&c_je;&c_r;&c_d;&c_je;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">zapáchať</trd>
 </drv>
 
 <drv mrk="stink.0o">
@@ -51,6 +53,12 @@
 
 <!--
 $Log: stink.xml,v $
+Revision 1.7  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2005/03/17 17:32:05  revo
 Yury Finkel: +trd ru
 

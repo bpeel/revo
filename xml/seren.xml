@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: seren.xml,v 1.20 2009/09/01 04:54:16 revo Exp $">
+<art mrk="$Id: seren.xml,v 1.22 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>seren</rad>/a
@@ -59,11 +59,20 @@
       <trd>&c_s;&c_v;&c_je;&c_t;&c_l;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>jasný</trd>,
+    <trd>klidný</trd>,
+    <trd>nezkalený</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>serene</trd>,
     <trd>calm</trd>
   </trdgrp>
   <trd lng="fr">serein</trd>
+  <trdgrp lng="sk">
+    <trd>jasný</trd>,
+    <trd>neskalený</trd>
+  </trdgrp>
   <trd lng="tr">huzurlu</trd>
 </drv>
 
@@ -105,11 +114,13 @@
       <trd>&c_t;&c_i;&c_sh;&c_i;&c_n;&c_a;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">čížek</trd>
   <trdgrp lng="en">
     <trd>serenity</trd>,
     <trd>calmness</trd>
   </trdgrp>
   <trd lng="fr">s&eacute;r&eacute;nit&eacute;</trd>
+  <trd lng="sk">stehlík čížavý</trd>
   <trd lng="tr">huzurluluk</trd>
 </drv>
 
@@ -159,6 +170,13 @@
     <trd>&c_p;&c_a;&c_h;&c_m;&c_u;&c_r;&c_n;&c_y;</trd>,
     <trd>&c_h;&c_m;&c_u;&c_r;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>matný</trd>,
+    <trd>mdlý</trd>,
+    <trd>pochmurný</trd>,
+    <trd>ponurý</trd>,
+    <trd>temný</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>stormy</trd>,
     <trd>agitated</trd>
@@ -176,6 +194,10 @@
     <trd>&c_p;&c_a;&c_s;&c_m;&c_u;&c_r;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_m;&c_r;&c_a;&c_ch;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chmúrny</trd>,
+    <trd>pochmúrny</trd>
+  </trdgrp>
   <trdgrp lng="tr">
     <trd>huzursuz</trd>,
     <trd>kayg&inodot;l&inodot;</trd>
@@ -184,6 +206,12 @@
 </art>
 <!--
 $Log: seren.xml,v $
+Revision 1.22  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2009/09/01 04:54:16  revo
 Emmanuel Debanne: +trd tr
 

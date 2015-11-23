@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: balanc1.xml,v 1.24 2013/09/08 19:10:29 revo Exp $">
+<art mrk="$Id: balanc1.xml,v 1.27 2015/10/01 12:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>balanc</rad>/i <fnt><bib>PV</bib></fnt>
@@ -48,6 +48,14 @@
     <trd>balancejar</trd>,
     <trd>gronxar</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>balancovat</trd>,
+    <trd>dr&zcaron;et rovnov&aacute;hu</trd>,
+    <trd>houpat</trd>,
+    <trd>kom&iacute;hat</trd>,
+    <trd>kym&aacute;cet</trd>,
+    <trd>k&yacute;vat <klr>(&ccaron;&iacute;m)</klr></trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>wiegen</trd>,
     <trd>schaukeln</trd>,
@@ -70,10 +78,15 @@
   <trdgrp lng="pl">
     <trd>hu&sacute;ta&cacute;</trd>
   </trdgrp>
+  <trd lng="pt">balan&ccedil;ar</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_a;&c_ch;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_k;&c_a;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_m;&c_a;&c_h;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hojda&tcaron;</trd>,
+    <trd>k&yacute;va&tcaron;</trd>
   </trdgrp>
   <trd lng="sv">gunga<klr> (n&aring;gon eller n&aring;got)</klr></trd>
 </drv>
@@ -144,6 +157,10 @@
     <trd>&c_g;&c_u;&c_sh;&c_k;&c_a;&c_l;&c_k;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">gronxador</trd>
+  <trdgrp lng="cs">
+    <trd>houpa&ccaron;ka</trd>,
+    <trd>kyvadlo</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Wippe</trd>, <trd>Schaukel</trd>
   </trdgrp>
@@ -156,6 +173,10 @@
   </trdgrp>
   <trd lng="pl">hu&sacute;tawka</trd>
   <trd lng="ru">&c_k;&c_a;&c_ch;&c_je;&c_l;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>hojda&ccaron;ka</trd>,
+    <trd>kyvadlo</trd>
+  </trdgrp>
   <trdgrp lng="sv">
     <trd>gunga<klr> (subst.)</klr></trd>,
     <trd>gungbr&auml;da</trd>
@@ -164,6 +185,15 @@
 </art>
 <!--
 $Log: balanc1.xml,v $
+Revision 1.27  2015/10/01 12:10:21  revo
+Evandro Avellar: +trd pt
+
+Revision 1.26  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2013/09/08 19:10:29  revo
 Wolfram Diestel: ref al listo ludiloj
 
@@ -177,14 +207,5 @@ Revision 1.21  2009/08/26 16:31:09  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.20  2009/02/19 20:27:47  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.19  2005/05/11 16:31:03  revo
-Yury Finkel: +trd ru
-
-Revision 1.18  2003/11/17 08:34:43  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.17  2002/10/24 20:00:07  revo
 -->
 </vortaro>

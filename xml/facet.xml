@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: facet.xml,v 1.17 2012/08/29 16:10:12 revo Exp $">
+<art mrk="$Id: facet.xml,v 1.20 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>facet</rad>/o
@@ -29,6 +29,7 @@
     <trd>&c_f;&c_a;&c_s;&c_e;&c_t;</trd>
   </trdgrp>
   <trd lng="ca">faceta</trd>
+  <trd lng="cs">faceta</trd>
   <trdgrp lng="de">
     <trd>Facette</trd>,
     <trd>Schliff</trd>
@@ -51,6 +52,7 @@
     <trd>&c_g;&c_r;&c_a;&c_n;&c_mol;</trd>,
     <trd>&c_f;&c_a;&c_s;&c_je;&c_t;</trd>
   </trdgrp>
+  <trd lng="sk">drobná plôška na oku hmyzu</trd>
 </drv>
 
 <drv mrk="facet.0i">
@@ -65,6 +67,7 @@
     </dif>
   </snc>
   <trd lng="ca">facetar</trd>
+  <trd lng="cs">brousit plošky <klr>(na drahém kameni| sklu| diamantu)</klr></trd>
   <trd lng="de">schleifen</trd>
   <trdgrp lng="es">
     <trd>hacer facetas</trd>,
@@ -80,6 +83,10 @@
   </trdgrp>
   <trd lng="nl">slijpen<klr tip="ind"> (v.diamant)</klr></trd>
   <trd lng="ru">&c_g;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>brúsiť <klr>(sklo, diamant)</klr></trd>,
+    <trd>brúsiť <klr>(sklo| diamant)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="facet.mult0a">
@@ -112,6 +119,15 @@
 </art>
 <!--
 $Log: facet.xml,v $
+Revision 1.20  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2012/08/29 16:10:12  revo
 Marc Rausell: + trd ca
 

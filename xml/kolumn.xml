@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kolumn.xml,v 1.14 2013/12/30 20:10:18 revo Exp $">
+<art mrk="$Id: kolumn.xml,v 1.16 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>kolumn</rad>/o <fnt><bib>SPV</bib></fnt>
@@ -83,7 +83,16 @@
     </trdgrp>
     <trd lng="sv">kolonn</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kolonka</trd>,
+    <trd>sloupec</trd>,
+    <trd>řada</trd>
+  </trdgrp>
   <trd lng="en">column</trd>
+  <trdgrp lng="sk">
+    <trd>kolónka</trd>,
+    <trd>stĺpec</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kolumn.0isto">
@@ -111,6 +120,12 @@
 </art>
 <!--
 $Log: kolumn.xml,v $
+Revision 1.16  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2013/12/30 20:10:18  revo
 Jeromo Vasxe: + ~isto
 

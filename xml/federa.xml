@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: federa.xml,v 1.22 2010/10/27 16:30:34 revo Exp $">
+<art mrk="$Id: federa.xml,v 1.24 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>federaci</rad>/o
@@ -19,6 +19,11 @@
   <ref tip="vid" cel="feder.0o">federo</ref>
   </snc>
   <trd lng="be">&c_f;&c_e;&c_d;&c_e;&c_r;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>federace</trd>,
+    <trd>sdružení</trd>,
+    <trd>svaz</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>F&ouml;deration</trd>,
     <trd>Staatenbund</trd>
@@ -36,6 +41,11 @@
   <trd lng="pl">federacja</trd>
   <trd lng="pt">federa&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_f;&c_je;&c_d;&c_je;&c_r;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>federácia</trd>,
+    <trd>združenie</trd>,
+    <trd>zväz</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="federa.0a">
@@ -48,6 +58,11 @@
   <trdgrp lng="be">
     <trd>&c_f;&c_e;&c_d;&c_e;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
     <trd>&c_f;&c_e;&c_d;&c_e;&c_r;&c_a;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>federativní</trd>,
+    <trd>federální</trd>,
+    <trd>spolkový</trd>
   </trdgrp>
   <trd lng="de">Bundes-</trd>
   <trd lng="en">federal</trd>
@@ -65,6 +80,10 @@
     <trd>&c_f;&c_je;&c_d;&c_je;&c_r;&c_a;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;
     </trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>federatívny</trd>,
+    <trd>spolkový</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="federa.0i">
@@ -79,6 +98,10 @@
   <trd lng="be">
   &c_a;&c_b;'&c_ja;&c_d;&c_n;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol; &c_u;
   <ind>&c_f;&c_e;&c_d;&c_e;&c_r;&c_a;&c_c;&c_y;&c_ju;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>federalizovat</trd>,
+    <trd>vytvořit federaci</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>f&ouml;derieren</trd>,
     <trd>zu einem Bund vereinigen</trd>
@@ -95,6 +118,7 @@
   <trd lng="ru">
   &c_o;&c_b;&c_malmol;&c_je;&c_d;&c_i;&c_n;&c_ja;&c_t;&c_mol; &c_v;
   <ind>&c_f;&c_je;&c_d;&c_je;&c_r;&c_a;&c_c;&c_i;&c_ju;</ind></trd>
+  <trd lng="sk">vytvoriť federáciu</trd>
 </drv>
 
 <drv mrk="federa.0ismo">
@@ -107,12 +131,23 @@
     </dif>
     <ref tip="vid" cel="feder.0ismo">federismo</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>federalizmus</trd>,
+    <trd>profederální hnutí</trd>
+  </trdgrp>
   <trd lng="en">federalism</trd>
   <trd lng="it">federalismo</trd>
+  <trd lng="sk">federalizmus</trd>
 </drv>
 </art>
 <!--
 $Log: federa.xml,v $
+Revision 1.24  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2010/10/27 16:30:34  revo
 Russ Williams: +vid feder
 

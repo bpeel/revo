@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ku.xml,v 1.4 2014/01/22 17:10:16 revo Exp $">
+<art mrk="$Id: ku.xml,v 1.7 2015/10/30 11:10:19 revo Exp $">
 <kap>
     <ofc>9</ofc><rad>ku</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -33,11 +33,32 @@
   <trd lng="fr">Q<klr> (ensemble des nombres rationnels)</klr></trd>
   </subsnc>  
   </snc>
-  </drv>
+  <trdgrp lng="cs">
+    <trd>Q <klr>(neesperantsk&eacute; p&iacute;smeno a souhl&aacute;ska)</klr></trd>,
+    <trd>q</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>Q</trd>,
+    <trd>q</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>Q</trd>,
+    <trd>q</trd>
+  </trdgrp>
+</drv>
 </art>
 
 <!--
 $Log: ku.xml,v $
+Revision 1.7  2015/10/30 11:10:19  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.6  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2014/01/22 17:10:16  revo
 Damien Brucker: + trd fr
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sur.xml,v 1.27 2014/07/04 15:10:15 revo Exp $">
+<art mrk="$Id: sur.xml,v 1.30 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sur</rad> <fnt><bib>PV</bib></fnt>
@@ -390,18 +390,20 @@
         <trd>-<ind>re</ind></trd>
       </trdgrp>
     </snc>
-    <trd lng="be">&c_n;&c_a;</trd>
-    <trd lng="cs">na</trd>
-    <trd lng="de">auf</trd>
-    <trd lng="fr">sur</trd>
-    <trd lng="id"><ind>ke</ind> atas</trd>
-    <trd lng="it">su</trd>
-    <trd lng="nl">op</trd>
-    <trd lng="ru">&c_n;&c_a;</trd>
-    <trd lng="sv">p&aring;</trd>
-    <trd lng="vo">su</trd>
-    <trd lng="tp">lon</trd>
-  </drv>
+  <trd lng="be">&c_n;&c_a;</trd>
+  <trd lng="cs">na</trd>
+  <trd lng="de">auf</trd>
+  <trd lng="es">sobre</trd>
+  <trd lng="fr">sur</trd>
+  <trd lng="id"><ind>ke</ind> atas</trd>
+  <trd lng="it">su</trd>
+  <trd lng="nl">op</trd>
+  <trd lng="ru">&c_n;&c_a;</trd>
+  <trd lng="sk">na</trd>
+  <trd lng="sv">p&aring;</trd>
+  <trd lng="tp">lon</trd>
+  <trd lng="vo">su</trd>
+</drv>
   <drv mrk="sur.al0">
     <kap>al <tld/></kap>
     <uzo tip="stl">RAR</uzo>
@@ -440,15 +442,18 @@
         </ekz>
       </dif>
     </snc>
-    <trd lng="fr">de dessus</trd>
-    <trdgrp lng="hu">
+  <trd lng="cs">s povrchu</trd>
+  <trd lng="es">encima de</trd>
+  <trd lng="fr">de dessus</trd>
+  <trdgrp lng="hu">
       <trd>-<ind>r&oacute;l</ind> <klr
       tip="ind">(fel&uuml;letr&odblac;l)</klr></trd>,
       <trd>-<ind>r&odblac;l</ind> <klr
       tip="ind">(fel&uuml;letr&odblac;l)</klr></trd>
     </trdgrp>
-    <trd lng="id"><ind>dari</ind> atas</trd>
-  </drv>
+  <trd lng="id"><ind>dari</ind> atas</trd>
+  <trd lng="sk">z povrchu</trd>
+</drv>
 </subart>
 
 <subart>
@@ -481,6 +486,15 @@
 </art>
 <!--
 $Log: sur.xml,v $
+Revision 1.30  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:33:25  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2014/11/22 12:10:15  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.27  2014/07/04 15:10:15  revo
 Eko Nur Syah Hidayat: +id
 
@@ -500,8 +514,5 @@ Revision 1.22  2007/12/26 17:30:38  revo
 Marc Bavant: reaperigo de sncref
 
 Revision 1.21 2007/06/03 18:34:39 revo
-Sergio Pokrovskij: arangxo, dif, +ekz
-
-Revision 1.20 2007/01/12 17:30:54 revo
 -->
 </vortaro>

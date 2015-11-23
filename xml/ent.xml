@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: ent.xml,v 1.12 2012/08/02 09:10:48 revo Exp $">
+  <art mrk="$Id: ent.xml,v 1.14 2015/07/04 08:37:33 revo Exp $">
     <kap>
       <rad>ent</rad>/o
     </kap>
@@ -94,11 +94,27 @@
 	postrestas?
 	<aut>Sergio</aut>
       </adm>
-    </drv>
+      <trdgrp lng="sk">
+    <trd>celok</trd>,
+    <trd>jednotka</trd>,
+    <trd>objekt</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>celek</trd>,
+    <trd>jednotka</trd>,
+    <trd>objekt</trd>
+  </trdgrp>
+</drv>
 
   </art>
   <!--
   $Log: ent.xml,v $
+  Revision 1.14  2015/07/04 08:37:33  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.13  2015/06/29 16:29:37  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.12  2012/08/02 09:10:48  revo
   Marc Rausell: + trd ca
 

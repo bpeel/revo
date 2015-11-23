@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: delega.xml,v 1.17 2014/11/07 16:10:13 revo Exp $">
+<art mrk="$Id: delega.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
 <kap>
 <ofc>3</ofc>
 <rad>delegaci</rad>/o
@@ -13,7 +13,9 @@
     <ref tip="dif" cel="deleg.0itaro">delegitaro.</ref>
   </snc>
   <trd lng="be">&c_d;&c_e;&c_l;&c_je;&c_g;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_l;&c_je;&c_g;&c_a;&c_c;&c_i;&c_ja;</trd>
   <trd lng="ca">delegaci&oacute;</trd>
+  <trd lng="cs">delegace <klr>(osoby)</klr></trd>
   <trdgrp lng="de">
     <trd>Abordnung</trd>,
     <trd>Delegation</trd>
@@ -29,6 +31,7 @@
   <trd lng="no">delegasjon</trd>
   <trd lng="pt">delega&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_je;&c_g;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">delegácia <klr>(osoby)</klr></trd>
 </drv>
 <drv mrk="delega.D0o">
   <kap><tld lit="D"/>o</kap>
@@ -56,15 +59,26 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">delegace <klr>(osoby)</klr></trd>
   <trd lng="fr">D&eacute;l&eacute;gation pour l'adoption d'une langue auxiliaire
   internationale</trd>
   <trd lng="hu">a <ind>K&uuml;ld&ouml;tts&eacute;g</ind></trd>
   <trd lng="it"><ind>delegazione</ind> per l'adozione di una lingua
   ausiliaria internazionale</trd>
+  <trd lng="sk">delegácia <klr>(osoby)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: delega.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/05/26 11:10:15  revo
+Joop Eggen: +trd bg
+
 Revision 1.17  2014/11/07 16:10:13  revo
 Filip van Laenen: +trd(nl,no)
 
@@ -84,8 +98,5 @@ Revision 1.12  2003/01/05 17:32:45  revo
 Oscar Puig: + trd ca
 
 Revision 1.11  2002/10/24 21:17:37  revo
-aktualigo de malnovaj fnt-indikoj enkondukante <bib>
-
-Revision 1.10  2002/05/21 16:37:56  revo
 -->
 </vortaro>

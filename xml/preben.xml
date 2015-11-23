@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: preben.xml,v 1.12 2010/11/04 17:31:09 revo Exp $">
+<art mrk="$Id: preben.xml,v 1.14 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>prebend</rad>/o
   <fnt>Z</fnt>
@@ -16,6 +16,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_e;&c_b;&c_e;&c_n;&c_d;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>obročí</trd>,
+    <trd>prebenda</trd>
+  </trdgrp>
   <trd lng="de">Pr&auml;bende</trd>
   <trd lng="en">prebend</trd>
   <trdgrp lng="hu">
@@ -30,10 +34,21 @@
   <trd lng="pl">prebenda</trd>
   <trd lng="pt">prebenda</trd>
   <trd lng="ru">&c_p;&c_r;&c_je;&c_b;&c_je;&c_n;&c_d;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>benefícium</trd>,
+    <trd>obročie</trd>,
+    <trd>prebenda</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: preben.xml,v $
+Revision 1.14  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2010/11/04 17:31:09  revo
 Antonio Codazzi: +trd it
 

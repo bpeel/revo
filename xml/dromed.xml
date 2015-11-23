@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dromed.xml,v 1.18 2012/08/25 09:10:23 revo Exp $">
+<art mrk="$Id: dromed.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>dromedar</rad>/o
@@ -44,10 +44,25 @@
     </trdgrp>
     <trd lng="sv">dromedar</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dromedár</trd>,
+    <trd>dromedář</trd>,
+    <trd>velbloud jednohrbý</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dromedár</trd>,
+    <trd>ťava jednohrbá</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: dromed.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/08/25 09:10:23  revo
 Marc Rausell: + trd ca
 

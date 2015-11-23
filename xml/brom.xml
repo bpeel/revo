@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: brom.xml,v 1.24 2014/06/03 10:10:31 revo Exp $">
+<art mrk="$Id: brom.xml,v 1.26 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>brom</rad>/o
@@ -21,9 +21,10 @@
   </dif>
   </snc>
   <trd lng="be">&c_b;&c_r;&c_o;&c_m;</trd>
-  <trd lng="bg">&c_b;&c_r;&c_o;&c_m;</trd>     
+  <trd lng="bg">&c_b;&c_r;&c_o;&c_m;</trd>
   <trd lng="br">brom</trd>
   <trd lng="ca">brom</trd>
+  <trd lng="cs">brom</trd>
   <trd lng="de">Brom</trd>
   <trd lng="en">bromine</trd>
   <trd lng="es">bromo</trd>
@@ -37,12 +38,21 @@
   <trd lng="pl">brom</trd>
   <trd lng="pt">bromo</trd>
   <trd lng="ru">&c_b;&c_r;&c_o;&c_m;</trd>
-  <trd lng="sk">br&oacute;m</trd>
+  <trdgrp lng="sk">
+    <trd>br&oacute;m</trd>,
+    <trd>bróm</trd>
+  </trdgrp>
   <trd lng="sv">brom</trd>
 </drv>
 </art>
 <!--
 $Log: brom.xml,v $
+Revision 1.26  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2014/06/03 10:10:31  revo
 Eko Nur Syah Hidayat: +id
 

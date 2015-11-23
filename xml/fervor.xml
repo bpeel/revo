@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fervor.xml,v 1.22 2014/05/04 01:10:21 revo Exp $">
+<art mrk="$Id: fervor.xml,v 1.25 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fervor</rad>/o <fnt><bib>PV</bib></fnt>
@@ -42,11 +42,19 @@
     <trd>&c_r;&c_u;&c_p;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_p;&c_a;&c_l;</trd>
   </trdgrp>
+  <trd lng="cs">horlivost</trd>
   <trdgrp lng="de">
     <trd>Eifer</trd>,
     <trd>Begeisterung</trd>,
     <trd>Inbrunst</trd>,
     <trd>Leidenschaft</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>ardour</trd>,
+    <trd>fervour</trd>,
+    <trd>fervency</trd>,
+    <trd>passion</trd>,
+    <trd>zeal</trd>
   </trdgrp>
   <trd lng="es">fervor</trd>
   <trdgrp lng="fr">
@@ -72,6 +80,7 @@
     <trd>&c_r;&c_v;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_v;&c_o;&c_o;&c_d;&c_u;&c_sh;&c_je;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
+  <trd lng="sk">horlivosť</trd>
 </drv>
 
 <drv mrk="fervor.0i">
@@ -95,6 +104,10 @@
     <trd>&c_r;&c_u;&c_p;&c_ib;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_d;&c_b;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dávat přednost <klr>(někomu)</klr></trd>,
+    <trd>nadržovat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>eifern</trd>,
     <trd>eifrig sein</trd>,
@@ -102,10 +115,16 @@
     <trd>mit <ind>Inbrunst</ind> tun</trd>,
     <trd><ind>leidenschaftlich</ind> dabei sein</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>be <ind>fervent</ind></trd>,
+    <trd>be <ind>passionate</ind></trd>,
+    <trd>be <ind>zealous</ind></trd>
+  </trdgrp>
   <trd lng="fr">&ecirc;tre <ind>fervent</ind></trd>
   <trd lng="hu">buzg&oacute;lkodik</trd>
   <trd lng="nl">ijveren</trd>
   <trd lng="ru">&c_u;&c_s;&c_je;&c_r;&c_d;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">dávať prednosť</trd>
 </drv>
 
 <drv mrk="fervor.0a">
@@ -123,11 +142,24 @@
     <trd>&c_r;&c_u;&c_p;&c_l;&c_ib;&c_v;&c_y;</trd>,
     <trd>&c_d;&c_b;&c_a;&c_j;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>horlivý</trd>,
+    <trd>pilný</trd>,
+    <trd>s pílí konaný</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>eifrig</trd>,
     <trd>begeistert</trd>,
     <trd>inbr&uuml;nstig</trd>,
     <trd>leidenschaftlich</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>ardent</trd>,
+    <trd>eager</trd>,
+    <trd>fervent</trd>,
+    <trd>fervid</trd>,
+    <trd>impassioned</trd>,
+    <trd>zealous</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>ardent</trd>,
@@ -136,7 +168,7 @@
   </trdgrp>
   <trd lng="hu">buzg&oacute;</trd>
   <trd lng="nl">ijverig</trd>
-    <trdgrp lng="pl">
+  <trdgrp lng="pl">
     <trd>zapalczywy</trd>,
     <trd>&zdot;arliwy</trd>,
     <trd>zagorza&lstroke;y</trd>,
@@ -146,6 +178,7 @@
     <trd>&c_u;&c_s;&c_je;&c_r;&c_d;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_r;&c_je;&c_v;&c_n;&c_o;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">horlivý</trd>
 </drv>
 
 <drv mrk="fervor.0igi">
@@ -157,11 +190,18 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_t;&c_h;&c_n;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="cs">rozohnit</trd>
   <trdgrp lng="de">
     <trd>anfeuern</trd>,
     <trd>anstacheln</trd>,
     <trd>begeistern</trd>,
     <trd><klr>in </klr>Begeisterung <ind>versetzen</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>incite the <ind>fervour</ind> (of)</trd>,
+    <trd>galvanize<klr tip="ind"> (excite passion)</klr></trd>,
+    <trd>inflame<klr tip="ind"> (incite the fervour of)</klr></trd>,
+    <trd>make fervid</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>susciter la <ind>ferveur</ind> (de)</trd>,
@@ -179,6 +219,7 @@
     <trd>zagrzewa&cacute;<klr tip="ind"> (np. zagrzewa&cacute; do walki)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_v;&c_o;&c_o;&c_d;&c_u;&c_sh;&c_je;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  <trd lng="sk">rozhorliť</trd>
 </drv>
 
 <drv mrk="fervor.0ulo">
@@ -193,6 +234,15 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_w;&c_z;&c_ja;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>fanda</trd>,
+    <trd>horlivec</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>devotee</trd>,
+    <trd>enthusiast</trd>,
+    <trd>zealot</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>adepte fervent</trd>,
     <trd>passionn&eacute;<klr> (subst.)</klr></trd>
@@ -206,6 +256,7 @@
     <trd>&c_g;&c_o;&c_r;&c_ja;&c_ch;&c_i;&c_j; &c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_n;&c_i;&c_k;</trd>,
     <trd>&c_r;&c_je;&c_v;&c_n;&c_o;&c_s;&c_t;&c_n;&c_y;&c_j; &c_p;&c_o;&c_b;&c_o;&c_r;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
+  <trd lng="sk">fanúšik</trd>
 </drv>
 
 <drv mrk="fervor.mal0a">
@@ -225,11 +276,26 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">lhostejný</trd>
+  <trdgrp lng="en">
+    <trd>apathetic</trd>,
+    <trd>indifferent</trd>
+  </trdgrp>
   <trd lng="fr">apathique</trd>
+  <trd lng="sk">ľahostajný</trd>
 </drv>
 </art>
 <!--
 $Log: fervor.xml,v $
+Revision 1.25  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2015/05/25 04:10:21  revo
+Erik Pedersen: aldonis anglajn tradukojn
+
 Revision 1.22  2014/05/04 01:10:21  revo
 Jeromo Vasxe: + mal~a
 
@@ -249,8 +315,5 @@ Revision 1.17  2004/04/20 17:24:41  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.16  2003/12/09 17:30:45  revo
-Jeromo Vasxe: + ~ulo, kor. ortog. trd fr, preciz. kk ref
-
-Revision 1.15 2003/10/24 16:31:07 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kun.xml,v 1.42 2014/10/30 17:10:20 revo Exp $">
+<art mrk="$Id: kun.xml,v 1.46 2015/11/03 23:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kun</rad> <fnt><bib>PV</bib></fnt>
@@ -277,25 +277,33 @@
         </ekz>
       </rim>
     </snc>
-    <trd lng="ca">amb</trd>
-    <trd lng="bg">&c_s;</trd>
-    <trd lng="de">mit</trd>
-    <trd lng="en">with</trd>
-    <trd lng="es">con</trd>
-    <trd lng="fr">avec</trd>
-    <trdgrp lng="hu">
+  <trd lng="bg">&c_s;</trd>
+  <trd lng="ca">amb</trd>
+  <trdgrp lng="cs">
+    <trd>s</trd>,
+    <trd>se <klr>(7. p&aacute;d)</klr></trd>
+  </trdgrp>
+  <trd lng="de">mit</trd>
+  <trd lng="en">with</trd>
+  <trd lng="es">con</trd>
+  <trd lng="fr">avec</trd>
+  <trdgrp lng="hu">
       <trd>-<ind>val</ind></trd>,
       <trd>-<ind>vel</ind></trd>
     </trdgrp>
-    <trd lng="nl">met</trd>
-    <trdgrp lng="oc">
+  <trd lng="it">con</trd>
+  <trd lng="nl">met</trd>
+  <trdgrp lng="oc">
       <trd>amb</trd>,
       <trd>ambe</trd>
     </trdgrp>
-    <trd lng="sv">med</trd>
-    <trd lng="ru">&c_s;</trd>
-    <trd lng="it">con</trd>
-  </drv>
+  <trd lng="ru">&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>s</trd>,
+    <trd>so</trd>
+  </trdgrp>
+  <trd lng="sv">med</trd>
+</drv>
 </subart>
 
 <subart>
@@ -350,20 +358,27 @@
       </ekz>
       <ref tip="vid" cel="op.0">op</ref>
     </snc>
-    <trd lng="cs">spolu</trd>
-    <trd lng="de">zusammen</trd>
-    <trd lng="en">together</trd>
-    <trdgrp lng="es">
+  <trdgrp lng="cs">
+    <trd>celkem</trd>,
+    <trd>dohromady</trd>,
+    <trd>spole&ccaron;n&ecaron;</trd>,
+    <trd>spolu</trd>,
+    <trd>vcelku</trd>
+  </trdgrp>
+  <trd lng="de">zusammen</trd>
+  <trd lng="en">together</trd>
+  <trdgrp lng="es">
       <trd>en com&uacute;n</trd>,
       <trd>conjuntamente<klr tip="ind"> (adv.)</klr></trd>
     </trdgrp>
-    <trd lng="fr">ensemble<klr tip="ind"> (adv.)</klr></trd>
-    <trd lng="hu">egy&uuml;tt</trd>
-    <trd lng="nl">samen</trd>
-    <trd lng="ru">&c_v;&c_m;&c_je;&c_s;&c_t;&c_je;</trd>
-    <trd lng="sv">tillsammans</trd>
-    <trd lng="it">assieme</trd>
-  </drv>
+  <trd lng="fr">ensemble<klr tip="ind"> (adv.)</klr></trd>
+  <trd lng="hu">egy&uuml;tt</trd>
+  <trd lng="it">assieme</trd>
+  <trd lng="nl">samen</trd>
+  <trd lng="ru">&c_v;&c_m;&c_je;&c_s;&c_t;&c_je;</trd>
+  <trd lng="sk">spolo&ccaron;ne</trd>
+  <trd lng="sv">tillsammans</trd>
+</drv>
 
   <drv mrk="kun.0e0">
     <kap><tld/>e <tld/></kap>
@@ -391,24 +406,34 @@
         </ekz>
       </dif>
     </snc>
-    <trd lng="de">zusammen mit</trd>
-    <trd lng="en">together with</trd>
-    <trdgrp lng="es">
+  <trd lng="lat">una cum</trd>
+  <trdgrp lng="cs">
+    <trd>s</trd>,
+    <trd>se <klr>(7. p&aacute;d)</klr></trd>
+  </trdgrp>
+  <trd lng="de">zusammen mit</trd>
+  <trd lng="en">together with</trd>
+  <trdgrp lng="es">
       <trd>en uni&oacute;n de</trd>,
       <trd>en compa&ntilde;&iacute;a de</trd>
     </trdgrp>
-    <trd lng="fr">en m&ecirc;me <ind>temps</ind> que<klr tip="ind"> (avec)
-      </klr></trd>
-    <trdgrp lng="hu">
+  <trdgrp lng="fr">
+    <trd>en m&ecirc;me <ind>temps</ind> que<klr tip="ind"> (avec)</klr></trd>,
+    <trd>en compagnie de</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
       <trd>-val <ind>egy&uuml;tt</ind></trd>,
       <trd>-vel <ind>egy&uuml;tt</ind></trd>
     </trdgrp>
-    <trd lng="lat">una cum</trd>
-    <trd lng="nl">samen met</trd>
-    <trd lng="ru">&c_v;&c_m;&c_je;&c_s;&c_t;&c_je; &c_s;</trd>
-    <trd lng="sv">tillsammans med</trd>
-    <trd lng="it">assieme a</trd>
-  </drv>
+  <trd lng="it">assieme a</trd>
+  <trd lng="nl">samen met</trd>
+  <trd lng="ru">&c_v;&c_m;&c_je;&c_s;&c_t;&c_je; &c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>s</trd>,
+    <trd>so</trd>
+  </trdgrp>
+  <trd lng="sv">tillsammans med</trd>
+</drv>
 
   <drv mrk="kun.0a">
     <kap><tld/>a</kap>
@@ -417,23 +442,25 @@
         Kune rilata; komuna; havanta saman lokon a&ubreve; celon.
       </dif>
     </snc>
-    <trdgrp lng="de">
+  <trd lng="cs">spole&ccaron;n&yacute;</trd>
+  <trdgrp lng="de">
       <trd>beisammen</trd>,
       <trd>zusammen</trd>
     </trdgrp>
-    <trd lng="es">adjunto</trd>
-    <trd lng="fr">commun<klr tip="ind"> (qui va avec)</klr></trd>
-    <trdgrp lng="hu">
+  <trd lng="es">adjunto</trd>
+  <trd lng="fr">commun<klr tip="ind"> (qui va avec)</klr></trd>
+  <trdgrp lng="hu">
       <trd>egy&uuml;ttes</trd>,
       <trd>k&ouml;z&ouml;s</trd>
     </trdgrp>
-    <trd lng="ru">&c_s;&c_o;&c_v;&c_m;&c_je;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>
-    <trdgrp lng="it">
+  <trdgrp lng="it">
       <trd>comune <klr>(di o tra due o pi&ugrave;)</klr></trd>,
       <trd>unito<klr> (in relazione con)</klr></trd>,
       <trd>congiunto<klr> (in relazione con)</klr></trd>
     </trdgrp>
-  </drv>
+  <trd lng="ru">&c_s;&c_o;&c_v;&c_m;&c_je;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">spolo&ccaron;n&yacute;</trd>
+</drv>
 
   <drv mrk="kun.0ajxo">
     <kap><tld/>a&jcirc;o</kap>
@@ -508,29 +535,40 @@
         </ekz>
       </dif>
     </snc>
-    <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>dru&zcaron;ba</trd>,
+    <trd>pospolitost</trd>,
+    <trd>spole&ccaron;enstv&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
       <trd>Zusammensein</trd>,
       <trd>Beisammensein</trd>
     </trdgrp>
-    <trd lng="es">convivencia</trd>
-    <trd lng="fr">coexistence</trd>
-    <trdgrp lng="it">
-      <trd>concomitanza</trd>,
-      <trd>comunanza</trd>
-    </trdgrp>
-    <trdgrp lng="hu">
+  <trd lng="es">convivencia</trd>
+  <trd lng="fr">coexistence</trd>
+  <trdgrp lng="hu">
       <trd>k&ouml;z&ouml;ss&eacute;g</trd>,
       <trd>egy&uuml;ttess&eacute;g</trd>,
       <trd>egy&uuml;ttl&eacute;t</trd>
     </trdgrp>
-    <trdgrp lng="ru">
+  <trdgrp lng="it">
+      <trd>concomitanza</trd>,
+      <trd>comunanza</trd>
+    </trdgrp>
+  <trdgrp lng="ru">
       <trd>&c_s;&c_o;&c_v;&c_m;&c_je;&c_s;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
       <trd>&c_b;&c_l;&c_i;&c_z;&c_o;&c_s;&c_t;&c_mol;</trd>
     </trdgrp>
-  </drv>
+  <trdgrp lng="sk">
+    <trd>dru&zcaron;ba</trd>,
+    <trd>pospolitos&tcaron;</trd>,
+    <trd>spolo&ccaron;enstvo</trd>
+  </trdgrp>
+</drv>
 
   <drv mrk="kun.0igi">
     <kap><tld/>igi</kap>
+    <gra><vspec>tr</vspec></gra>
     <snc mrk="kun.0igi.KOMUNE">
       <dif>
         Fari, ke pluraj personoj a&ubreve; objektoj estu <tld/>e:
@@ -551,46 +589,58 @@
         <ref cel="unu.0igi">unigi</ref>
       </refgrp>
     </snc>
-    <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>d&aacute;t dohromady</trd>,
+    <trd>sdru&zcaron;it</trd>,
+    <trd>slou&ccaron;it</trd>,
+    <trd>spojit</trd>,
+    <trd>stmelit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
       <trd>vereinigen</trd>,
       <trd>vereinen</trd>,
       <trd>zusammentun</trd>,
       <trd>zusammenf&uuml;gen</trd>
     </trdgrp>
-    <trdgrp lng="es">
+  <trdgrp lng="es">
       <trd>reunir</trd>,
       <trd>unir</trd>,
       <trd>juntar</trd>,
       <trd>empalmar</trd>,
       <trd>enganchar</trd>
     </trdgrp>
-    <trdgrp lng="fr">
+  <trdgrp lng="fr">
       <trd>rapprocher</trd>,
       <trd>r&eacute;unir</trd>,
       <trd>unir</trd>
     </trdgrp>
-    <trdgrp lng="hu">
+  <trdgrp lng="hu">
       <trd>&ouml;sszes&iacute;t</trd>,
       <trd>&ouml;sszehoz</trd>,
       <trd>egyes&iacute;t</trd>
     </trdgrp>
-    <trd lng="nl">samenvoegen</trd>
-    <trdgrp lng="ru">
-      <trd>&c_o;&c_b;&c_malmol;&c_je;&c_d;&c_i;&c_n;&c_i;&c_t;&c_mol;</trd>,
-      <trd>&c_s;&c_o;&c_v;&c_m;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
-    </trdgrp>
-    <trdgrp lng="sv">
-      <trd>sammanf&ouml;ra</trd>,
-      <trd>f&ouml;rena</trd>
-    </trdgrp>
-    <trdgrp lng="it">
+  <trdgrp lng="it">
       <trd>unire</trd>,
       <trd>riunire</trd>,
       <trd>congiungere</trd>,
       <trd>accoppiare</trd>,
       <trd>agglomerare</trd>
     </trdgrp>
-  </drv>
+  <trd lng="nl">samenvoegen</trd>
+  <trdgrp lng="ru">
+      <trd>&c_o;&c_b;&c_malmol;&c_je;&c_d;&c_i;&c_n;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_s;&c_o;&c_v;&c_m;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  <trdgrp lng="sk">
+    <trd>posp&aacute;ja&tcaron;</trd>,
+    <trd>spoji&tcaron;</trd>,
+    <trd>zl&uacute;&ccaron;i&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+      <trd>sammanf&ouml;ra</trd>,
+      <trd>f&ouml;rena</trd>
+    </trdgrp>
+</drv>
 
   <drv mrk="kun.0igajxo">
     <kap><tld/>iga&jcirc;o</kap>
@@ -607,6 +657,7 @@
 
   <drv mrk="kun.0igxi">
     <kap><tld/>i&gcirc;i</kap>
+    <gra><vspec>ntr</vspec></gra>
     <snc mrk="kun.0igxi.KOMUNE">
       <dif>
         Esti <tld/>igita <tld/>; i&gcirc;i <tld/>:
@@ -673,23 +724,31 @@
         <ref cel="kun.viv0ulo">vivkunulo</ref>
       </refgrp>
     </snc>
-    <trdgrp lng="es">
+  <trdgrp lng="cs">
+    <trd>druh</trd>,
+    <trd>spole&ccaron;n&iacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="es">
       <trd>compa&ntilde;ero</trd>,
       <trd>camarada</trd>,
       <trd>colega</trd>
     </trdgrp>
-    <trdgrp lng="fr">
+  <trdgrp lng="fr">
       <trd>compagne</trd>,
       <trd>compagnon</trd>
     </trdgrp>
-    <trd lng="hu">t&aacute;rs</trd>
-    <trd lng="nl">metgezel</trd>
-    <trdgrp lng="ru">
+  <trd lng="hu">t&aacute;rs</trd>
+  <trd lng="it">compagno</trd>
+  <trd lng="nl">metgezel</trd>
+  <trdgrp lng="ru">
       <trd>&c_t;&c_o;&c_v;&c_a;&c_r;&c_i;&c_shch;</trd>,
       <trd>&c_p;&c_r;&c_i;&c_ja;&c_t;&c_je;&c_l;&c_mol;</trd>
     </trdgrp>
-    <trd lng="it">compagno</trd>
-  </drv>
+  <trdgrp lng="sk">
+    <trd>partner</trd>,
+    <trd>spolo&ccaron;n&iacute;k</trd>
+  </trdgrp>
+</drv>
 
   <drv mrk="kun.0ularo">
     <kap><tld/>ularo</kap>
@@ -710,15 +769,17 @@
         </ekz>
       </dif>
     </snc>
-    <trdgrp lng="es">
+  <trd lng="cs">spole&ccaron;n&iacute;ci</trd>
+  <trdgrp lng="es">
       <trd>compa&ntilde;&iacute;a<klr> (grupo de personas)</klr></trd>,
       <trd>grupo<klr> (de personas)</klr></trd>
-    </trdgrp>  
-    <trdgrp lng="fr">
+    </trdgrp>
+  <trdgrp lng="fr">
       <trd>compagnie<klr> (groupe de personnes)</klr></trd>,
       <trd>groupe<klr> (de personnes)</klr></trd>
-    </trdgrp>  
-  </drv>
+    </trdgrp>
+  <trd lng="sk">spolo&ccaron;n&iacute;ci</trd>
+</drv>
 
   <drv mrk="kun.0uleco">
     <kap><tld/>uleco</kap>
@@ -772,6 +833,26 @@
     <trd lng="fr">ci-joint</trd>
   </drv>
 
+  <drv mrk="kun.re0igi">
+    <kap>re<tld/>igi</kap>
+    <gra><vspec>tr</vspec></gra>
+    <snc mrk="kun.re0igi.KOMUNE">
+      <dif>
+        Rekonduki al sama loko, de kiu okazis disiro:
+        <ekz>
+          la intendanto <klr>...</klr> re<tld/>igis ilin ka&scirc;e 
+          kaj reorganizis ilian bandon
+          <fnt>
+            <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+            <vrk>Montara Vila&gcirc;o</vrk>,
+            <lok>1984</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </snc>
+    <trd lng="fr">rassembler</trd>
+  </drv>
+  
   <drv mrk="kun.seks0igxi">
     <kap>seks<tld/>i&gcirc;i</kap>
     <snc mrk="kun.seks0igxi.AMOR">
@@ -893,13 +974,14 @@
         <ref cel="amik.kor0o">koramiko</ref>
       </refgrp>
     </snc>
-    <trdgrp lng="es">
+  <trd lng="cs">dru&zcaron;ka ve spole&ccaron;n&eacute; dom&aacute;cnosti</trd>
+  <trdgrp lng="es">
       <trd>compa&ntilde;ero<klr tip="ind"> (persona con la que
       vive)</klr></trd>,
       <trd>c&oacute;nyuge</trd>,
       <trd>novio</trd>
     </trdgrp>
-    <trdgrp lng="fr">
+  <trdgrp lng="fr">
       <trd>compagne<klr tip="ind"> (personne avec qui on
           vit)</klr></trd>,
       <trd>compagnon<klr tip="ind"> (personne avec qui on
@@ -912,13 +994,14 @@
       <trd>copine<klr tip="ind"> (personne avec qui on
       vit)</klr></trd>
     </trdgrp>
-    <trdgrp lng="pt">
+  <trd lng="it">covivente</trd>
+  <trdgrp lng="pt">
       <trd>companheiro</trd>,
       <trd>companheira</trd>
     </trdgrp>
-    <trd lng="ru">&c_s;&c_p;&c_u;&c_t;&c_n;&c_i;&c_k; &c_zh;&c_i;&c_z;&c_n;&c_i;</trd>
-    <trd lng="it">covivente</trd>
-  </drv>
+  <trd lng="ru">&c_s;&c_p;&c_u;&c_t;&c_n;&c_i;&c_k; &c_zh;&c_i;&c_z;&c_n;&c_i;</trd>
+  <trd lng="sk">dru&zcaron;ka</trd>
+</drv>
 </subart>
 
 <subart>
@@ -1032,6 +1115,18 @@
 </art>
 <!--
 $Log: kun.xml,v $
+Revision 1.46  2015/11/03 23:10:14  revo
+Alain Gerard: +trd (fr)
+
+Revision 1.45  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.44  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.43  2014/12/14 11:10:42  revo
+Jeromo Vasxe: + re~igi
+
 Revision 1.42  2014/10/30 17:10:20  revo
 Guillermo Molleda Jimena: trd es
 
@@ -1042,17 +1137,5 @@ Revision 1.40  2014/01/08 21:10:11  revo
 Jeromo Vasxe: + ~uleco
 
 Revision 1.39  2013/12/12 02:10:25  revo
-Jeromo Vasxe: + ~ularo
-
-Revision 1.38  2013/07/02 01:10:16  revo
-Benito Subejrano: + trd ca oc
-
-Revision 1.37  2012/10/23 00:12:38  revo
-Neil Roberts: aldonu la etikedon <var>
-
-Revision 1.36  2011/11/07 01:10:13  revo
- Anchise Inzaghi: traduko q'eqchi'
-
-Revision 1.35  2011/10/07 09:10:10  revo
 -->
 </vortaro>

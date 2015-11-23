@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: far.xml,v 1.37 2014/08/13 19:10:10 revo Exp $">
+<art mrk="$Id: far.xml,v 1.40 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>far</rad>/i <fnt><bib>PV</bib></fnt>
@@ -277,7 +277,25 @@
     <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="cs">d&ecaron;lat</trd>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;lat</trd>,
+    <trd>dělat</trd>,
+    <trd>nadělat</trd>,
+    <trd>provádět</trd>,
+    <trd>provést</trd>,
+    <trd>páchat</trd>,
+    <trd>spáchat</trd>,
+    <trd>tropit</trd>,
+    <trd>tvořit</trd>,
+    <trd>udělat</trd>,
+    <trd>vykonat</trd>,
+    <trd>vykonat</trd>,
+    <trd>vykonávat</trd>,
+    <trd>vytvořit</trd>,
+    <trd>zastávat</trd>,
+    <trd>zhotovit</trd>,
+    <trd>činit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>machen</trd>,
     <trd>erschaffen</trd>,
@@ -317,6 +335,12 @@
     <trd>&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konať</trd>,
+    <trd>páchať</trd>,
+    <trd>robiť</trd>,
+    <trd>urobiť</trd>
+  </trdgrp>
   <trd lng="vo">mek&ouml;n</trd>
 </drv>
 
@@ -327,7 +351,7 @@
   <snc mrk="far.0.KOMUNE">
   <uzo tip="stl">EVI</uzo>
     <refgrp tip="dif">
-      <ref cel="de.0.aganto">de <sncref/></ref>
+      <ref cel="de.0.aganto">de<sncref/></ref>
     </refgrp>
     <refgrp tip="sin">
       <ref cel="far.0ede"><tld/>e de</ref>,
@@ -341,18 +365,37 @@
       granda urbo preska&ubreve; tute forbalaita <tld/> titana kataklismo
       <fnt>
       <bib>Voja&gcirc;o</bib>,
-      <aut>Mauro Nervi</aut>,
+      <aut>M. Nervi</aut>,
       <vrk>Tertremo</vrk>,
       <lok>leciono 24a</lok>
+      </fnt>;
+    </ekz>
+    <ekz>
+      sen la forta tenado <tld/> mia patrino, &scirc;i estus 
+      falinta teren
+      <fnt>
+        <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+        <vrk>Montara Vila&gcirc;o</vrk>,
+        <lok>1984</lok>
       </fnt>.
     </ekz>
     <rim mrk="far.0.RIM">
-    En la Universala Vortaro la radiko "<tld/>&#180;" fini&gcirc;as per streketo.
-    Tio signifas, ke &gcirc;i nepre postulas fina&jcirc;on a&ubreve;, rolante kiel
-    substantivo, apostrofon: &gcirc;i do ne povas esti uzata kiel nuda radiko,
-    &ccirc;ar reguloj, kiuj povus pravigi la forfalon de la fina&jcirc;o, ne
-    ekzistas.
+      En la Universala Vortaro la radiko <em><tld/>'</em> fini&gcirc;as per
+      streketo.
+      Tio signifas, ke &gcirc;i nepre postulas fina&jcirc;on a&ubreve;, rolante kiel
+      substantivo, apostrofon: &gcirc;i do ne povas esti uzata kiel nuda
+      radiko,
+      &ccirc;ar reguloj, kiuj povus pravigi la forfalon de la fina&jcirc;o, ne
+      ekzistas.
     </rim>
+    <rim mrk="far.0.RIM2">
+      La sama rimarko tamen validas pri ekzemple <em>paf'</em>.
+      Se la fina apostrofo signifas, ke &gcirc;i postulas fina&jcirc;on,
+      tiam la sonimito <em>paf</em>, kiu ne rolas substantive
+      sed adverbe, estas same kontra&ubreve;fundamenta
+      kiel la prepozicio <em>far</em>.
+      <aut>&jcirc;v</aut>
+    </rim>    
   </snc>
   <trdgrp lng="fr">
     <trd>de<klr> (compl&eacute;ment d'agent)</klr></trd>,
@@ -382,6 +425,12 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_p;&c_r;&c_a;&c_v;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>skutek</trd>,
+    <trd>výkon</trd>,
+    <trd>úkon</trd>,
+    <trd>čin</trd>
+  </trdgrp>
   <trd lng="de">Tat</trd>
   <trdgrp lng="fr">
     <trd>action</trd>
@@ -395,6 +444,11 @@
     <trd>handeling</trd>
   </trdgrp>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>skutok</trd>,
+    <trd>výkon</trd>,
+    <trd>čin</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="far.0ado">
@@ -415,6 +469,10 @@
     <trd>&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_ch;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dělání</trd>,
+    <trd>konání</trd>
+  </trdgrp>
   <trd lng="de">Herstellung</trd>
   <trdgrp lng="fr">
     <trd>fabrication</trd>,
@@ -431,6 +489,10 @@
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_b;&c_o;&c_t;&c_a;</trd>,
     <trd>&c_d;&c_je;&c_l;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konanie</trd>,
+    <trd>robenie</trd>
   </trdgrp>
 </drv>
 
@@ -531,6 +593,10 @@
       de la filioj <tld/>e de la asekuritoj mem.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>od</trd>,
+    <trd>provedeno <klr>(kým)</klr></trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd><ind>durch</ind> den</trd>,
     <trd><ind>seitens</ind> des</trd>
@@ -544,6 +610,7 @@
     <trd>r&eacute;v&eacute;n</trd>
   </trdgrp>
   <trd lng="nl">door</trd>
+  <trd lng="sk">zo strany</trd>
 </drv>
 
 <drv mrk="far.0isto">
@@ -568,6 +635,7 @@
     <trd>&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_n;&c_ib;&c_k;</trd>,
     <trd>&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_c;&c_a;</trd>
   </trdgrp>
+  <trd lng="cs">výrobce</trd>
   <trdgrp lng="de">
     <trd>Hersteller</trd>,
     <trd>-<ind>macher</ind></trd>
@@ -590,6 +658,7 @@
     <trd>&c_i;&c_z;&c_g;&c_o;&c_t;&c_o;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">výrobca</trd>
 </drv>
 
 <drv mrk="far.0igi">
@@ -607,6 +676,7 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_m;&c_u;&c_s;&c_ib;&c_c;&c_mol; <ind>&c_z;&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;</ind></trd>
+  <trd lng="cs">dát udělat</trd>
   <trdgrp lng="de">
     <trd><ind>machen</ind> lassen</trd>,
     <trd><ind>anfertigen</ind> lassen</trd>
@@ -621,6 +691,7 @@
     <trd>laten <ind>maken</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_z;&c_a;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol; <ind>&c_s;&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol;</ind></trd>
+  <trd lng="sk">dať vykonať</trd>
 </drv>
 
 <drv mrk="far.0igxi">
@@ -733,6 +804,10 @@
     <trd>&c_p;&c_r;&c_y;&c_l;&c_a;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_m;&c_a;&c_j;&c_s;&c_t;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>přihotovit</trd>,
+    <trd>upravit</trd>
+  </trdgrp>
   <trd lng="de">anpassen</trd>
   <trdgrp lng="fr">
     <trd>adapter</trd>
@@ -745,6 +820,10 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_i;&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prihotoviť</trd>,
+    <trd>upraviť</trd>
   </trdgrp>
 </drv>
 
@@ -786,6 +865,7 @@
     <trd>&c_z;&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="cs">vyrábět</trd>
   <trdgrp lng="fr">
     <trd>achever<klr> (la fabrication)</klr></trd>
     <trd>fabriquer</trd>
@@ -800,6 +880,7 @@
     <trd>&c_i;&c_z;&c_g;&c_o;&c_t;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">vyrábať</trd>
 </drv>
 
 <drv mrk="far.kun0i">
@@ -861,6 +942,11 @@
     <trd>&c_z;&c_mol;&c_n;&c_ib;&c_sh;&c_ch;&c_a;&c_c;&c_mol;</trd>
     <trd>&c_z;&c_mol;&c_n;&c_ib;&c_sh;&c_ch;&c_y;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nedělat</trd>,
+    <trd>neprovádět</trd>,
+    <trd>vrátit zpět předchozí povel</trd>
+  </trdgrp>
   <trd lng="de">zerst&ouml;ren</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;faire</trd>
@@ -877,6 +963,10 @@
     <trd>&c_r;&c_a;&c_z;&c_r;&c_u;&c_sh;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_n;&c_i;&c_ch;&c_t;&c_o;&c_zh;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>neprevádzať</trd>,
+    <trd>nerobiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="far.bon0i">
@@ -887,8 +977,10 @@
       Bonvole helpi, utili, agi por &gcirc;enerala bono.
     </dif>
   </snc>
+  <trd lng="cs">činit dobro</trd>
   <trd lng="fr">aider<klr> (exercer la bienfaisance)</klr></trd>
   <trd lng="hu">j&oacute;t&eacute;konykodik</trd>
+  <trd lng="sk">robiť dobro</trd>
 </drv>
 
 <drv mrk="far.bon0anto">
@@ -905,11 +997,37 @@
     <trd>&c_d;&c_a;&c_b;&c_r;&c_a;&c_ch;&c_y;&c_n;&c_je;&c_c;</trd>,
     <trd>&c_d;&c_a;&c_b;&c_r;&c_a;&c_d;&c_z;&c_je;&c_j;</trd>
   </trdgrp>
+  <trd lng="cs">dobrodinec</trd>
   <trd lng="fr">bienfaiteur</trd>
   <trd lng="hu">j&oacute;tev&odblac;</trd>
   <trdgrp lng="ru">
     <trd>&c_b;&c_l;&c_a;&c_g;&c_o;&c_t;&c_v;&c_o;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_b;&c_l;&c_a;&c_g;&c_o;&c_d;&c_je;&c_t;&c_je;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">dobrodinec</trd>
+</drv>
+
+<drv mrk="far.hejm0ita">
+  <kap>hejm<tld/>ita</kap>
+  <snc mrk="far.hejm0ita.KOMUNE">
+    <dif>
+      Farita hejme, per propraj rimedoj, kontraste al
+      havigita, a&ccirc;etita, industrie fabrikita objekto:
+      <ekz>
+        recepto por natura, hejm<tld/>ita kosmetika&jcirc;o
+        <fnt>
+          <aut>R. Pavinski</aut>,
+          <vrk><url
+          ref="http://kontakto.tejo.org/2013/10/la-sennagila-foceno-ce-la-rando-de.html">
+          Kontakto 2013:4 aperis en la reto!</url></vrk>,
+          <lok>2013-10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>autoproduit</trd>,
+    <trd>fait maison</trd>
   </trdgrp>
 </drv>
 
@@ -951,11 +1069,16 @@
       <ref cel="sid.forno0a.hejmama">fornosida</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>nečinnost</trd>,
+    <trd>nicnedělání</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>inaction</trd>,
     <trd>inactivit&eacute;</trd>,
     <trd>oisivet&eacute;</trd>
   </trdgrp>
+  <trd lng="sk">nečinnosť</trd>
 </drv>
 
 <drv mrk="far.sen0a">
@@ -976,6 +1099,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_b;&c_ja;&c_z;&c_mol;&c_d;&c_z;&c_je;&c_j;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>líný</trd>,
+    <trd>povalečný</trd>
+  </trdgrp>
   <trd lng="de">unt&auml;tig</trd>
   <trdgrp lng="fr">
     <trd>inactif</trd>,
@@ -986,10 +1113,20 @@
     <trd>&c_b;&c_je;&c_z;&c_d;&c_je;&c_ja;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_z;&c_d;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">lenivý</trd>
 </drv>
 </art>
 <!--
 $Log: far.xml,v $
+Revision 1.40  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.38  2014/12/18 23:10:33  revo
+Jeromo Vasxe: ~+ 1 ekz + 1 rim, + hejm~ita
+
 Revision 1.37  2014/08/13 19:10:10  revo
 Damien Brucker: +rim cxe far
 
@@ -1009,8 +1146,5 @@ Revision 1.32  2013/09/10 15:10:09  revo
 Damien Brucker: far +evitinde
 
 Revision 1.31  2013/07/29 01:10:16  revo
-Jeromo Vasxe: + 1 ref sin
-
-Revision 1.30  2013/03/08 14:10:07  revo
 -->
 </vortaro>

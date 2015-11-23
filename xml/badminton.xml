@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: badminton.xml,v 1.10 2012/08/24 19:10:22 revo Exp $">
+  <art mrk="$Id: badminton.xml,v 1.13 2015/11/04 13:10:17 revo Exp $">
     <kap>
       <rad>badminton</rad>/o <fnt><bib>NePiv</bib></fnt>
     </kap>
@@ -28,6 +28,7 @@
       <trd lng="bg">&c_b;&c_a;&c_d;&c_m;&c_i;&c_n;&c_t;&c_o;&c_n;</trd>
       <trd lng="ca">b&agrave;dminton</trd>
       <trd lng="de">Badminton</trd>
+      <trd lng="en">badminton</trd>
       <trd lng="fa">&a_b;&a_d;&a_m;&f_y;&a_n;&a_t;&a_w;&a_n;</trd>
       <trd lng="fr">badminton</trd>
       <trd lng="hu">tollaslabda</trd>
@@ -39,11 +40,22 @@
       </trdgrp>
       <trd lng="ru">&c_b;&c_a;&c_d;&c_m;&c_i;&c_n;&c_t;&c_o;&c_n;</trd>
       <trd lng="sv">badminton</trd>
-    </drv>
+      <trd lng="sk">bedminton</trd>
+  <trd lng="cs">badminton</trd>
+</drv>
   </art>
 
   <!--
   $Log: badminton.xml,v $
+  Revision 1.13  2015/11/04 13:10:17  revo
+  Cindy Moon McKee: +trd en
+
+  Revision 1.12  2015/07/04 08:37:31  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.11  2015/06/29 16:29:35  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.10  2012/08/24 19:10:22  revo
   Marc Rausell: + trd ca
 

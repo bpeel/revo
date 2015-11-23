@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: poefag.xml,v 1.4 2009/10/25 17:31:23 revo Exp $">
+<art mrk="$Id: poefag.xml,v 1.7 2015/10/06 15:10:18 revo Exp $">
 <kap>
   <rad>poefag</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -35,11 +35,26 @@
     <trd lng="nl">jak</trd>
     <trd lng="pl">jak</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>jak chrochtav&yacute;</trd>,
+    <trd>jak divok&yacute;</trd>
+  </trdgrp>
+  <trd lng="en">yak</trd>
+  <trd lng="sk">jak</trd>
 </drv>
 </art>
 
 <!--
 $Log: poefag.xml,v $
+Revision 1.7  2015/10/06 15:10:18  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.6  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2009/10/25 17:31:23  revo
 Paul Peeraerts: +nl
 

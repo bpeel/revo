@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: solan.xml,v 1.16 2013/11/02 14:10:26 revo Exp $">
+<art mrk="$Id: solan.xml,v 1.18 2015/07/04 08:37:43 revo Exp $">
 <kap>
 <rad>solan</rad>/o
 </kap>
@@ -25,6 +25,7 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_s;&c_mol;&c_l;&c_jo;&c_n;</trd>
   <trd lng="ca">g&egrave;nere Solanum</trd>
+  <trd lng="cs">lilek</trd>
   <trd lng="de">Nachtschatten</trd>
   <trdgrp lng="hu">
     <trd>csucsor</trd>,
@@ -32,10 +33,17 @@
   </trdgrp>
   <trd lng="nl">nachtschade</trd>
   <trd lng="ru">&c_p;&c_a;&c_s;&c_l;&c_jo;&c_n;</trd>
+  <trd lng="sk">ľuľok</trd>
 </drv>
 </art>
 <!--
 $Log: solan.xml,v $
+Revision 1.18  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/11/02 14:10:26  revo
 Wolfram Diestel: kor. ref-cel
 

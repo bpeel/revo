@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hidroc.xml,v 1.13 2013/10/09 19:11:01 revo Exp $">
+<art mrk="$Id: hidroc.xml,v 1.16 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>hidrocefal</rad>/o
 </kap>
@@ -17,6 +17,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_ib;&c_d;&c_r;&c_a;&c_c;&c_e;&c_f;&c_a;&c_l;&c_ib;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>hydrocefalie</trd>,
+    <trd>hydrocefalus</trd>,
+    <trd>vodnatelnost mozku</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Wasserkopf</trd>,
     <trd>Hydrocephalus<klr> [fak]</klr></trd>
@@ -28,6 +33,7 @@
     <trd>v&iacute;zfej&udblac;s&eacute;g</trd>,
     <trd>hidrocef&aacute;lia</trd>
   </trdgrp>
+  <trd lng="id">hidrosefalus</trd>
   <trd lng="it">idrocefalia</trd>
   <trdgrp lng="nl">
     <trd>waterhoofd</trd>,
@@ -41,6 +47,10 @@
   <trdgrp lng="ru">
     <trd>&c_g;&c_i;&c_d;&c_r;&c_o;&c_c;&c_je;&c_f;&c_a;&c_l;&c_i;&c_ja;</trd>,
     <trd>&c_v;&c_o;&c_d;&c_ja;&c_n;&c_k;&c_a; &c_m;&c_o;&c_z;&c_g;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hydrocefalus</trd>,
+    <trd>vodnateľnosť mozgu</trd>
   </trdgrp>
 </drv>
 
@@ -104,6 +114,15 @@
 </art>
 <!--
 $Log: hidroc.xml,v $
+Revision 1.16  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2014/11/18 20:10:20  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.13  2013/10/09 19:11:01  revo
 Wolfram Diestel: ref al lst malsanoj
 
@@ -123,8 +142,5 @@ Revision 1.8  2002/07/11 17:34:53  revo
 Alejandro Mejia Greene: ald 2 his trd
 
 Revision 1.7  2002/07/07 17:31:58  revo
-Ulrich Fellmann: + 6 trd de
-
-Revision 1.6  2002/07/06 17:31:55  revo
 -->
 </vortaro>

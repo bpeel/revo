@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sekund1.xml,v 1.12 2009/10/24 16:31:41 revo Exp $">
+<art mrk="$Id: sekund1.xml,v 1.14 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>sekundant</rad>/o
@@ -23,6 +23,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_e;&c_k;&c_u;&c_n;&c_d;&c_a;&c_n;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>sekundant</trd>,
+    <trd>svědek</trd>
+  </trdgrp>
   <trd lng="de">Sekundant</trd>
   <trd lng="en">second</trd>
   <trd lng="fr">t&eacute;moin<klr tip="amb"> (dans un duel)</klr></trd>
@@ -33,10 +37,20 @@
   <trd lng="it">secondo<klr> (di duello)</klr></trd>
   <trd lng="nl">secondant</trd>
   <trd lng="ru">&c_s;&c_je;&c_k;&c_u;&c_n;&c_d;&c_a;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>sekundant</trd>,
+    <trd>svedok</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: sekund1.xml,v $
+Revision 1.14  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2009/10/24 16:31:41  revo
 Antonio Codazzi: +trd it
 

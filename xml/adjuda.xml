@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: adjuda.xml,v 1.4 2009/08/26 16:31:30 revo Exp $">
+<art mrk="$Id: adjuda.xml,v 1.6 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <rad>adjudant</rad>/o
   <fnt><bib>PIV2</bib></fnt>
@@ -24,10 +24,12 @@
       <ref cel="adjuta.0o">adjutanto</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">adjutant</trd>
   <trd lng="fa">&a_A;&a_s;&a_t;&a_w;&a_A;&a_r; &a_d;&a_w;&a_m;</trd>
   <trd lng="fr">adjudant</trd>
-  <trd lng="nl">adjudant</trd>
   <trd lng="it">maresciallo</trd>
+  <trd lng="nl">adjudant</trd>
+  <trd lng="sk">adjutant</trd>
 </drv>
 
 <drv mrk="adjuda.cxef0o">
@@ -62,6 +64,12 @@ esperantigita militara hierarkio).
 
 <!--
 $Log: adjuda.xml,v $
+Revision 1.6  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2009/08/26 16:31:30  revo
 Behnam Tabatabai: +trd fa
 

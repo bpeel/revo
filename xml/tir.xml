@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tir.xml,v 1.33 2011/12/09 23:10:09 revo Exp $">
+<art mrk="$Id: tir.xml,v 1.36 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tir</rad>/i <fnt><bib>PV</bib></fnt>
@@ -83,6 +83,7 @@
         <uzo tip="fak">AGR</uzo>
         <ind><tld/>&ccirc;evalo</ind>,
         <trd lng="en">draft <ind>horse</ind></trd>
+        <trd lng="es">caballo de tiro</trd>
         <trd lng="fr">cheval de trait</trd>
         <trd lng="hu">ig&aacute;sl&oacute;</trd>
         <trd lng="pl">ko&nacute; poci&aogonek;gowy</trd>
@@ -249,6 +250,7 @@
       Kontroli, ke la jamaj trd cs/de/en/nl tauxgas
       por cxi tiu senco. <aut>MB</aut>
     </adm>
+    <trd lng="es">trazar<klr tip="ind"> (una l&iacute;nea)</klr></trd>
     <trdgrp lng="fr">
       <trd>tracer<klr tip="ind"> (une courbe)</klr></trd>,
       <trd>mener<klr tip="ind"> (une courbe par un point)</klr></trd>,
@@ -266,14 +268,26 @@
     <trd lng="ru">&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;<klr
     tip="ind"> (&c_l;&c_i;&c_n;&c_i;&c_ju;)</klr></trd>
   </snc>
-  <trd lng="cs">t&aacute;hnout</trd>
+  <trdgrp lng="cs">
+    <trd>mít za následek</trd>,
+    <trd>t&aacute;hnout</trd>,
+    <trd>vyvodit</trd>
+  </trdgrp>
   <trd lng="de">ziehen</trd>
   <trd lng="en">pull</trd>
+  <trdgrp lng="es">
+    <trd>tirar</trd>,
+    <trd>arrastrar</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>tirer</trd>,
     <trd>trainer</trd>
   </trdgrp>
   <trd lng="nl">trekken</trd>
+  <trdgrp lng="sk">
+    <trd>extrahovať</trd>,
+    <trd>vylúhovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tir.sin0i">
@@ -294,6 +308,7 @@
       <ref cel="ramp.0i">rampi</ref>
     </refgrp>
     <trd lng="de"><klr>sich </klr>schleppen</trd>
+    <trd lng="es"><ind>arrastrar</ind>se</trd>
     <trd lng="fr">se <ind>trainer</ind></trd>
     <trd lng="hu">vonszolja mag&aacute;t</trd>
     <trdgrp lng="pl">
@@ -342,9 +357,17 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>tah</trd>,
+    <trd>táhnutí</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Zug</trd>,
     <trd>Ziehen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>arrastre<klr> (subst.)</klr></trd>,
+    <trd>trazo</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>trait<klr> (traction)</klr></trd>,
@@ -365,6 +388,10 @@
     <trd>&c_v;&c_y;&c_t;&c_ja;&c_g;&c_i;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_d;&c_jo;&c_r;&c_g;&c_a;&c_n;&c_mol;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ťah</trd>,
+    <trd>ťahanie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tir.0ilo">
@@ -374,6 +401,7 @@
       Ilo por <tld/>i:
       <ekz>
         <ind>buton<tld/>ilo</ind>,
+        <trd lng="es">abrochador<klr> (de bot&oacute;n)</klr></trd>
         <trd lng="fr">tire-bouton</trd>
         <trd lng="hu">cip&odblac;gombol&oacute;</trd>
         <trd lng="ru">&c_k;&c_r;&c_ju;&c_ch;&c_o;&c_k; &c_d;&c_l;&c_ja;
@@ -381,6 +409,7 @@
       </ekz>
       <ekz>
         <ind>bot<tld/>ilo</ind>.
+        <trd lng="es">saca-botas</trd>
         <trd lng="fr">tire-botte</trd>
         <trd lng="hu">csizmah&uacute;z&oacute;</trd>
         <trd lng="pl">szczeniak<klr> (do zdejmowania
@@ -390,10 +419,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">tažný nástroj</trd>
   <trdgrp lng="de">
     <trd><klr>(Korken-)</klr>Zieher</trd>,
     <trd><klr>(Acker-)</klr>Schlepper</trd>
   </trdgrp>
+  <trd lng="es">tirador</trd>
   <trd lng="hu">h&uacute;z&oacute;(eszk&ouml;z)</trd>
   <trd lng="nl">trekker</trd>
   <trdgrp lng="pl">
@@ -401,6 +432,7 @@
     <trd>wyci&aogonek;g</trd>,
     <trd>wyci&aogonek;garka</trd>
   </trdgrp>
+  <trd lng="sk">ťahadlo</trd>
 </drv>
 
 <drv mrk="tir.al0i">
@@ -441,11 +473,17 @@
       <trd>zjednywa&cacute;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>přisunout</trd>,
+    <trd>přitáhnout</trd>,
+    <trd>zaujmout</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>anziehen</trd>,
     <trd><klr>an sich </klr>ziehen</trd>,
     <trd><klr>sich </klr>verschaffen</trd>
   </trdgrp>
+  <trd lng="es">atraer</trd>
   <trd lng="fr">attirer</trd>
   <trd lng="nl">aantrekken</trd>
   <trdgrp lng="ru">
@@ -454,6 +492,7 @@
     <trd>&c_p;&c_r;&c_i;&c_v;&c_l;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_v;&c_l;&c_je;&c_ch;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">pritiahnuť</trd>
 </drv>
 
 <drv mrk="tir.de0i">
@@ -491,6 +530,9 @@
         <fnt><bib>Revadoj</bib>, <lok>Na&ubreve;a promenado</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="es">
+      <trd>desprender<klr tip="ind"> (tirando)</klr></trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>&ocirc;ter<klr tip="ind"> (en tirant)</klr></trd>,
       <trd>enlever<klr tip="ind"> (&ocirc;ter en tirant)</klr></trd>,
@@ -530,6 +572,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="es">
+      <trd>sacar</trd>,
+      <trd>extraer</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>d&eacute;gager<klr tip="ind"> (&eacute;loigner en
       tirant)</klr></trd>,
@@ -549,10 +595,15 @@
       <trd>&c_o;&c_t;&c_d;&c_jo;&c_r;&c_n;&c_u;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">stáhnout</trd>
   <trdgrp lng="hu">
     <trd>elh&uacute;z</trd>,
     <trd>leh&uacute;z</trd>,
     <trd>levon</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odtiahnuť</trd>,
+    <trd>stiahnuť</trd>
   </trdgrp>
 </drv>
 
@@ -589,11 +640,23 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dobývat</trd>,
+    <trd>extrahovat</trd>,
+    <trd>ozolovat</trd>,
+    <trd>těžit</trd>,
+    <trd>vyluhovat</trd>,
+    <trd>vytřepávat</trd>,
+    <trd>získávat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>herausholen</trd>,
     <trd>herausziehen</trd>,
     <trd>extrahieren</trd>,
     <trd>gewinnen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>extraer</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>extraire</trd>,
@@ -624,6 +687,7 @@
     <trd>&c_i;&c_z;&c_v;&c_l;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_i;&c_z;&c_v;&c_l;&c_je;&c_ch;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">vytiahnuť</trd>
 </drv>
 
 <drv mrk="tir.kun0i">
@@ -643,10 +707,16 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>spojit</trd>,
+    <trd>stáhnout</trd>,
+    <trd>utáhnout</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>zusammenziehen</trd>,
     <trd>kontrahieren</trd>
   </trdgrp>
+  <trd lng="es">contraer<klr> (m&uacute;sculos etc.)</klr></trd>
   <trd lng="fr">contracter<klr> (muscles etc.)</klr></trd>
   <trdgrp lng="hu">
     <trd>&ouml;sszeh&uacute;z</trd>,
@@ -658,6 +728,10 @@
     <trd>&c_s;&c_t;&c_ja;&c_g;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_t;&c_ja;&c_n;&c_u;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>stiahnuť</trd>,
+    <trd>zmrštiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tir.kun0o">
@@ -666,6 +740,10 @@
     <dif>
       Ago kun<tld/>i.
     </dif>
+    <trdgrp lng="es">
+      <trd>contracci&oacute;n</trd>,
+      <trd>retracci&oacute;n</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>contration</trd>,
       <trd>r&eacute;traction</trd>
@@ -706,6 +784,10 @@
       <trd>contraction</trd>,
       <trd>contractive <ind>mapping</ind></trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>contracci&oacute;n</trd>,
+      <trd>aplicaci&oacute;n contractiva</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>contraction</trd>,
       <trd>application contractante</trd>
@@ -718,6 +800,8 @@
       <ind>&c_o;&c_t;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</ind></trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">kontrakce</trd>
+  <trd lng="sk">kontrakcia</trd>
 </drv>
 
 <drv mrk="tir.kun0igxi">
@@ -736,6 +820,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd>acurrucarse</trd>,
+    <trd>retraerse<klr> (f&iacute;sicamente)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se recroqueviller</trd>,
     <trd>se r&eacute;tracter<klr> (physiquement)</klr></trd>
@@ -765,6 +853,7 @@
     </dif>
     <ref tip="vid" cel="tren.0i">treni</ref>
   </snc>
+  <trd lng="es">arrastrar</trd>
   <trd lng="fr">trainer</trd>
   <trdgrp lng="hu">
     <trd>maga ut&aacute;n <ind>h&uacute;z</ind></trd>,
@@ -800,6 +889,7 @@
       </ekz>
       <ekz>
         la malamika armeo, la superakvo <ind>re<tld/>i&gcirc;i</ind>s;
+        <trd lng="es"><ind>retirar</ind>se</trd>
         <trd lng="fr">se <ind>retirer</ind></trd>
         <trd lng="hu">visszah&uacute;z&oacute;dik</trd>
         <trd
@@ -810,7 +900,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">stáhnout zpět</trd>
   <trd lng="de">zur&uuml;ckziehen</trd>
+  <trd lng="es">retirar</trd>
   <trd lng="fr">retirer</trd>
   <trdgrp lng="hu">
     <trd>visszah&uacute;z</trd>,
@@ -818,6 +910,7 @@
   </trdgrp>
   <trd lng="nl">terugtrekken</trd>
   <trd lng="ru">&c_o;&c_t;&c_v;&c_je;&c_s;&c_t;&c_i; &c_n;&c_a;&c_z;&c_a;&c_d;</trd>
+  <trd lng="sk">stiahnuť späť</trd>
 </drv>
 
 <drv mrk="tir.kork0ilo">
@@ -829,11 +922,14 @@
       &scirc;topilon de botelo.
     </dif>
   </snc>
+  <trd lng="cs">vývrtka na zátky</trd>
+  <trd lng="es">sacacorchos</trd>
   <trd lng="fr">tire-bouchon</trd>
   <trd lng="hu">dug&oacute;h&uacute;z&oacute;</trd>
   <trd lng="nl">kurkentrekker</trd>
   <trd lng="pl">korkoci&aogonek;g</trd>
   <trd lng="ru">&c_sh;&c_t;&c_o;&c_p;&c_o;&c_r;</trd>
+  <trd lng="sk">vývrtka</trd>
 </drv>
 
 <drv mrk="tir.sangel0o">
@@ -854,14 +950,28 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">puštění žilou</trd>
+  <trdgrp lng="es">
+    <trd>extracci&oacute;n de sangre</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>prise de sang</trd>,
     <trd>saign&eacute;e</trd>
   </trdgrp>
+  <trd lng="sk">pustiť žilu</trd>
 </drv>
 </art>
 <!--
 $Log: tir.xml,v $
+Revision 1.36  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.35  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.34  2014/12/20 09:10:17  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.33  2011/12/09 23:10:09  revo
 Jeromo Vasxe: + sangel~ilo
 
@@ -881,8 +991,5 @@ Revision 1.28 2005/04/27 16:31:37 revo
 Yury Finkel: +trd ru
 
 Revision 1.27 2004/12/04 20:22:34 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.26 2004/07/20 22:22:38 revo
 -->
 </vortaro>

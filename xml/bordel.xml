@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bordel.xml,v 1.19 2011/12/06 21:10:21 revo Exp $">
+<art mrk="$Id: bordel.xml,v 1.21 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>bordel</rad>/o
@@ -32,6 +32,12 @@
     <trd>&c_b;&c_o;&c_r;&c_d;&c_je;&c_j;</trd>
   </trdgrp>
   <trd lng="ca">bordell</trd>
+  <trdgrp lng="cs">
+    <trd>bordel</trd>,
+    <trd>lupanár <klr>(zast.)</klr></trd>,
+    <trd>lupanárium</trd>,
+    <trd>nevěstinec</trd>
+  </trdgrp>
   <trd lng="de">Puff</trd>
   <trdgrp lng="en">
     <trd>bordello</trd>,
@@ -67,12 +73,21 @@
     &c_d;&c_o;&c_m;</trd>,
     <trd>&c_b;&c_o;&c_r;&c_d;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">bordel</trd>
+  <trdgrp lng="sk">
+    <trd>bordel</trd>,
+    <trd>dom prostitútok</trd>
+  </trdgrp>
   <trd lng="sv">bordell</trd>
 </drv>
 </art>
 <!--
 $Log: bordel.xml,v $
+Revision 1.21  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2011/12/06 21:10:21  revo
 Marc Rausell: kataluna traduko
 

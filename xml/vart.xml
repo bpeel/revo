@@ -2,15 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vart.xml,v 1.20 2012/08/12 08:10:15 revo Exp $">
+<art mrk="$Id: vart.xml,v 1.23 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>vart</rad>/i
+  <rad>vart</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="vart.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="vart.0i.KOMUNE">
     <dif>
       Gardi kaj zorgi estulon, kiu bezonas helpon pro sia juneco:
       <ekz>
@@ -25,8 +25,8 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
-    <refgrp tip="sin">
-      <ref cel="fleg.0i">flegi</ref>.
+    <refgrp tip="vid">
+      <ref cel="fleg.0i.KOMUNE">flegi</ref>.
     </refgrp>
   </snc>
   <trdgrp lng="be">
@@ -44,6 +44,14 @@
     <trd>guardar <klr>(un infant)</klr></trd>,
     <trd>tenir cura <klr>(d'un infant, d'un cadell, d'una
     planta)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>chovat</trd>,
+    <trd>hlídat</trd>,
+    <trd>opatrovat</trd>,
+    <trd>pečovat</trd>,
+    <trd>střežit</trd>,
+    <trd>vartovat</trd>
   </trdgrp>
   <trd lng="de">h&uuml;ten</trd>
   <trdgrp lng="en">
@@ -72,18 +80,22 @@ animal)</klr></trd>
 tip="amb">(&c_z;&c_a; &c_r;&c_je;&c_b;&c_jo;&c_n;&c_k;&c_o;&c_m; &c_i;
 &c_t;.&c_p;.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dozerať na niekoho</trd>,
+    <trd>opatrovať</trd>,
+    <trd>varovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vart.0istino">
   <kap><tld/>istino</kap>
-  <snc>
+  <snc mrk="vart.0istino.PED">
+    <uzo tip="fak">PED</uzo>
     <dif>
-      Virino, kiu metie <tld/>as infanojn.
+      Virino, kiu metie <tld/>as infanojn;
+      <ref tip="sin" cel="infan.0istino">infanistino</ref>.
     </dif>
   </snc>
-  <refgrp tip="sin">
-    <ref cel="infan.0istino">infanistino</ref>
-  </refgrp>
   <trdgrp lng="be">
     <trd>&c_n;&c_ja;&c_n;&c_mol;&c_k;&c_a;</trd>,
     <trd>&c_n;&c_ja;&c_n;&c_je;&c_ch;&c_k;&c_a;</trd>,
@@ -91,14 +103,22 @@ tip="amb">(&c_z;&c_a; &c_r;&c_je;&c_b;&c_jo;&c_n;&c_k;&c_o;&c_m; &c_i;
   </trdgrp>
   <trd lng="br">diwallerez</trd>
   <trd lng="ca">mainadera</trd>
-  <trd lng="en">nanny</trd>
-  <trdgrp lng="fr">
-    <trd>nounou</trd>,
-    <trd>nourrice</trd>
+  <trdgrp lng="cs">
+    <trd>chůva</trd>,
+    <trd>pečovatelka</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Kinderg&auml;rtnerin</trd>
     <trd>Erzieherin</trd>
+  </trdgrp>
+  <trd lng="en">nanny</trd>
+  <trdgrp lng="es">
+    <trd>ni&ntilde;era</trd>,
+    <trd>nana</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>nounou</trd>,
+    <trd>nourrice</trd>
   </trdgrp>
   <trdgrp lng="hu">
     <trd>dajka</trd>,
@@ -109,22 +129,66 @@ tip="amb">(&c_z;&c_a; &c_r;&c_je;&c_b;&c_jo;&c_n;&c_k;&c_o;&c_m; &c_i;
     <trd>kindermeisje</trd>,
     <trd>oppas</trd>
   </trdgrp>
-  <trdgrp lng="es">
-    <trd>ni&ntilde;era</trd>,
-    <trd>nana</trd>
-  </trdgrp>
   <trd lng="pt">bab&aacute;</trd>
   <trdgrp lng="ru">
     <trd>&c_n;&c_ja;&c_n;&c_mol;&c_k;&c_a;</trd>,
     <trd>&c_n;&c_ja;&c_n;&c_je;&c_ch;&c_k;&c_a;</trd>,
-    <trd>&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_a;
-<klr tip="amb">(&c_v; &c_ja;&c_s;&c_l;&c_ja;&c_h;,
-&c_d;&c_je;&c_t;&c_s;&c_k;&c_o;&c_m; &c_s;&c_a;&c_d;&c_u;)</klr></trd>
+    <trd>&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_a; <klr tip="amb">(&c_v; &c_ja;&c_s;&c_l;&c_ja;&c_h;, &c_d;&c_je;&c_t;&c_s;&c_k;&c_o;&c_m;
+    &c_s;&c_a;&c_d;&c_u;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dozorkyňa</trd>,
+    <trd>opatrovníčka</trd>,
+    <trd>pestúnka</trd>,
+    <trd>varovkyňa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vart.infan0ejo">
+  <kap>infan<tld/>ejo</kap>
+  <snc mrk="vart.infan0ejo.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Vartejo por junaj infanoj, kiuj
+      ankora&ubreve; ne vizitas lernejon:
+      <ekz>
+        dum la 89-a UK funkcias infan<tld/>ejo, kiu portas 
+        la nomon Song Qingling
+        <fnt>
+          <aut>Wang Lihua</aut>,
+          <vrk><url
+          ref="http://www.espero.com.cn/old/epch/z-uk-2004/04z-02t/04z-uk-02-19.htm">
+          La infanvartejo Song Qingling</url></vrk>,
+          <lok>El Popola &Ccirc;inio, [2004]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="gxarde.infan0o.PED">infan&gcirc;ardeno</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dětská školka</trd>,
+    <trd>jesle</trd>
+  </trdgrp>
+  <trd lng="fr">garderie</trd>
+  <trdgrp lng="sk">
+    <trd>jasle</trd>,
+    <trd>materská škôlka</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: vart.xml,v $
+Revision 1.23  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2015/01/10 19:10:52  revo
+Jeromo Vasxe: + infan~ejo
+
 Revision 1.20  2012/08/12 08:10:15  revo
 Marc Rausell: ++ trd ca
 
@@ -144,8 +208,5 @@ Revision 1.15  2005/04/12 16:34:48  revo
 Raul Salinas Monteagudo: +trd es
 
 Revision 1.14  2005/01/21 17:32:54  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.13  2005/01/12 18:23:14  revo
 -->
 </vortaro>

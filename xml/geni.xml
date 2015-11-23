@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: geni.xml,v 1.22 2011/12/06 23:10:16 revo Exp $">
+<art mrk="$Id: geni.xml,v 1.25 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>1</ofc>
-  <rad>geni</rad>/o
+  <rad>geni</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="geni.0o">
   <kap><tld/>o</kap>
@@ -95,12 +95,17 @@
     <trd lng="tr">cin</trd>
   </snc>
   <trd lng="ca">geni</trd>
+  <trd lng="cs">domácí skřítek</trd>
   <trd lng="en">genius</trd>
   <trd lng="es">genio</trd>
   <trd lng="fr">g&eacute;nie</trd>
   <trd lng="it">genio</trd>
   <trd lng="nl">genie</trd>
   <trd lng="ru">&c_g;&c_je;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>génius</trd>,
+    <trd>veľduch</trd>
+  </trdgrp>
   <trd lng="tr">dahi</trd>
 </drv>
 
@@ -111,15 +116,14 @@
       Havanta <tld/>on:
       <ekz>
         genia a&ubreve;toro
-        <fnt><bib>FK</bib>, <lok>4, rakontoj, Arturo, (rakonto de V.
-        Devjatnin), 2</lok></fnt>;
+        <fnt><bib>FK</bib>, <lok>Arturo</lok></fnt>;
       </ekz>
       <ekz>
         <tld/>a spirito, verko, eltrovo;
       </ekz>
       <ekz>
         kiel ajn <tld/>a la sistemo estas
-        <fnt><bib>FK</bib>, <lok>6, artikoloj pri esperanto, al la
+        <fnt><bib>FK</bib>, <lok>Al la
         historio de la provoj de lingvoj tutmondaj de Leibnitz &gcirc;is
         la nuna tempo</lok></fnt>;
       </ekz>
@@ -131,6 +135,10 @@
   <trd lng="be">&c_g;&c_je;&c_n;&c_ib;&c_ja;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="bg">&c_g;&c_je;&c_n;&c_ja;&c_l;&c_je;&c_n;</trd>
   <trd lng="ca">genial</trd>
+  <trdgrp lng="cs">
+    <trd>geniální</trd>,
+    <trd>ženiální</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>genial</trd>,
     <trd>hochbegabt</trd>
@@ -155,10 +163,39 @@
   <trd lng="pl">genialny</trd>
   <trd lng="pt">genial</trd>
   <trd lng="ru">&c_g;&c_je;&c_n;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">geniálny</trd>
+</drv>
+
+<drv mrk="geni.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="geni.0ajxo.KOMUNE">
+    <dif>
+      <tld lit="G"/>eca ideo, plenumo, invento:
+      <ekz>
+        &scirc;i sugestis al mi <klr>...</klr> kelkajn &scirc;an&gcirc;etojn en la 
+        internacia lingvo, kiuj estas veraj <tld/>a&jcirc;oj
+        <fnt>
+          <aut>L. Beaucaire</aut>,
+          <vrk>El la vivo de bervala senta&ubreve;gulo</vrk>,
+          <lok>1974</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">trait de g&eacute;nie</trd>
 </drv>
 </art>
 <!--
 $Log: geni.xml,v $
+Revision 1.25  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2015/06/01 19:10:17  revo
+Jeromo Vasxe: + ~ajxo
+
 Revision 1.22  2011/12/06 23:10:16  revo
 Marc Rausell: kataluna traduko
 
@@ -178,8 +215,5 @@ Revision 1.17  2008/06/12 19:06:53  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.16  2008/01/04 17:30:18  revo
-Wieland Pusch: +trd bg (de Joop Eggen)
-
-Revision 1.15  2005/08/22 16:31:25  revo
 -->
 </vortaro>

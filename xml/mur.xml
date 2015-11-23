@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mur.xml,v 1.24 2012/07/30 10:10:32 revo Exp $">
+<art mrk="$Id: mur.xml,v 1.27 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>mur</rad>/o
 </kap>
@@ -62,7 +62,10 @@
     <trd>paret</trd>,
     <trd>mur</trd>
   </trdgrp>
-  <trd lng="cs">ze&dcaron;</trd>
+  <trdgrp lng="cs">
+    <trd>stěna</trd>,
+    <trd>ze&dcaron;</trd>
+  </trdgrp>
   <trd lng="de">Mauer</trd>
   <trd lng="en">wall</trd>
   <trdgrp lng="es">
@@ -71,8 +74,8 @@
   </trdgrp>
   <trd lng="fr">mur</trd>
   <trd lng="hu">fal</trd>
-  <trd lng="it">muro</trd>
   <trd lng="id">dinding</trd>
+  <trd lng="it">muro</trd>
   <trd lng="nl">muur</trd>
   <trd lng="pl">&sacute;ciana</trd>
   <trdgrp lng="pt">
@@ -80,6 +83,7 @@
     <trd>parede</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_t;&c_je;&c_n;&c_a;</trd>
+  <trd lng="sk">stena</trd>
   <trd lng="sv">v&auml;gg</trd>
 </drv>
 
@@ -99,6 +103,8 @@
     &c_v;&c_a;&c_l;</trd>
   </trdgrp>
   <trd lng="ca">muralla</trd>
+  <trd lng="cs">hradba</trd>
+  <trd lng="es">muralla</trd>
   <trd lng="fr">muraille</trd>
   <trd lng="hu">v&aacute;rfal</trd>
   <trdgrp lng="it">
@@ -110,13 +116,14 @@
     <trd>vestingmuur</trd>
   </trdgrp>
   <trd lng="pt">muralha</trd>
-  <trd lng="sv">mur</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_r;&c_je;&c_p;&c_o;&c_s;&c_t;&c_n;&c_a;&c_ja;
     &c_s;&c_t;&c_je;&c_n;&c_a;</trd>,
     <trd>&c_g;&c_o;&c_r;&c_o;&c_d;&c_s;&c_k;&c_a;&c_ja;
     &c_s;&c_t;&c_je;&c_n;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">hradba</trd>
+  <trd lng="sv">mur</trd>
 </drv>
 
 <drv mrk="mur.cxirkaux0o">
@@ -132,6 +139,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd>cerca</trd>,
+    <trd>cerco</trd>,
+    <trd>cercado</trd>,
+    <trd>tapia</trd>
+  </trdgrp>
   <trd lng="fr">mur d'enceinte</trd>
   <trdgrp lng="it">
     <trd>mura</trd>,
@@ -162,6 +175,7 @@
     </dif>
   </snc>
   <trd lng="ca">Gran Muralla</trd>
+  <trd lng="es">la <ind>Gran muralla</ind> china</trd>
   <trd lng="de">Chinesische Mauer</trd>
   <trd lng="fr">la <ind>Grande Muraille</ind><klr> (de
   Chine)</klr></trd>
@@ -172,6 +186,15 @@
 </art>
 <!--
 $Log: mur.xml,v $
+Revision 1.27  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2015/04/20 17:10:16  revo
+Carlos Garcia: +trd es -ego cxirkaux-o Granda -
+
 Revision 1.24  2012/07/30 10:10:32  revo
 Marc Rausell: + trd ca
 
@@ -191,8 +214,5 @@ Revision 1.19  2006/08/16 19:53:41  revo
 Tulio Flores: +tr pt
 
 Revision 1.18  2004/08/23 16:33:00  revo
-Marc Bavant: +drv cxirkaux~o
-
-Revision 1.17 2004/04/24 19:19:20 revo
 -->
 </vortaro>

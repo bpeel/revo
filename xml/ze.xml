@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ze.xml,v 1.4 2014/01/24 10:10:30 revo Exp $">
+<art mrk="$Id: ze.xml,v 1.7 2015/07/04 08:37:46 revo Exp $">
 <kap>
   <rad>ze</rad>/o
 </kap>
@@ -26,29 +26,38 @@
         lia verko <ctl>Monumente pri Esperanto</ctl> (1997) registris 
         1044 <tld/>ojn en 54 landoj
         <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;Hugo R&ouml;llinger&rightquot;, 
-        2007-11-13</lok></fnt>;
-      </ekz>
-      <ekz>
-      litere <ctl>Zamenhofa a&ubreve; Esperanta Objekto</ctl>.
+        2007-11-13</lok></fnt>.
       </ekz>
     </dif>
   <rim mrk="ze.0o.RIM_ORT">
+    Plenvorte <ctl>Zamenhofa a&ubreve; Esperanta Objekto</ctl>.
     Ofte skribata per grandaj literoj: <em>ZEO</em>, <em>ZEOj</em>.
     </rim>
     </snc>
-    <trdgrp lng="ca">
+  <trdgrp lng="ca">
       <trd>monument a l'Esperanto</trd>,
       <trd>monument a en Zamenhof</trd>
     </trdgrp>
-    <trdgrp lng="fr">
+  <trd lng="cs">kukuřice</trd>
+  <trdgrp lng="fr">
   <trd>monument<klr> d&eacute;di&eacute; &agrave; Zamenhof</klr></trd>,
   <trd>monument<klr> d&eacute;di&eacute; &agrave; l'Esp&eacute;ranto</klr></trd>
 </trdgrp>
+  <trd lng="sk">kukurica</trd>
 </drv>
 </art>
 
 <!--
 $Log: ze.xml,v $
+Revision 1.7  2015/07/04 08:37:46  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/28 10:33:41  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2015/01/23 23:10:14  revo
+Jeromo Vasxe: vortanalizilo: ne ekz-a ekz -> rim
+
 Revision 1.4  2014/01/24 10:10:30  revo
 Damien Brucker: +ekz
 

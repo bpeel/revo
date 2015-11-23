@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: karbon.xml,v 1.24 2014/05/30 08:10:28 revo Exp $">
+<art mrk="$Id: karbon.xml,v 1.26 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>karbon</rad>/o <fnt><bib>PV</bib></fnt>
@@ -28,6 +28,10 @@
   <trd lng="bg">&c_v;&c_malmol;&c_g;&c_l;&c_je;&c_r;&c_o;&c_d;</trd>
   <trd lng="br">karbon</trd>
   <trd lng="ca">carboni</trd>
+  <trdgrp lng="cs">
+    <trd>carboneum</trd>,
+    <trd>uhlík</trd>
+  </trdgrp>
   <trd lng="de">Kohlenstoff</trd>
   <trd lng="en">carbon</trd>
   <trd lng="es">carbono</trd>
@@ -43,6 +47,7 @@
   <trd lng="pl">w&eogonek;giel</trd>
   <trd lng="pt">carbono</trd>
   <trd lng="ru">&c_u;&c_g;&c_l;&c_je;&c_r;&c_o;&c_d;</trd>
+  <trd lng="sk">uhlík</trd>
   <trd lng="sv">kol</trd>
 </drv>
 
@@ -90,6 +95,12 @@
 </art>
 <!--
 $Log: karbon.xml,v $
+Revision 1.26  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2014/05/30 08:10:28  revo
 Eko Nur Syah Hidayat: +id
 

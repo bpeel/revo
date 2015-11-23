@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: kulomb.xml,v 1.19 2014/07/01 17:10:45 revo Exp $">
+<art mrk="$Id: kulomb.xml,v 1.21 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>Kulomb</rad>/o
 </kap>
@@ -18,6 +18,7 @@
   </snc>
   <trd lng="bg">&c_Sh;&c_a;&c_r;&c_l; &c_d;&c_mol;&c_o; <ind>&c_K;&c_u;&c_l;&c_o;&c_n;</ind></trd>
   <trd lng="ca">Coulomb</trd>
+  <trd lng="cs">C.A. de Coulomb</trd>
   <trd lng="de">Charles de <ind>Coulomb</ind></trd>
   <trd lng="en">Charles de <ind>Coulomb</ind></trd>
   <trd lng="hu">Charles de <ind>Coulomb</ind></trd>
@@ -26,6 +27,7 @@
   <trd lng="nl">Charles de <ind>Coulomb</ind></trd>
   <trd lng="pt">Charles Augustin de <ind>Coulomb</ind></trd>
   <trd lng="ru">&c_K;&c_u;&c_l;&c_o;&c_n;</trd>
+  <trd lng="sk">C.A. de Coulomb</trd>
   <trd lng="sv">Charles de <ind>Coulomb</ind></trd>
 </drv>
 <drv mrk="kulomb.k0o">
@@ -52,6 +54,7 @@
   </snc>
   <trd lng="bg">&c_k;&c_u;&c_l;&c_o;&c_n;</trd>
   <trd lng="ca">coulomb</trd>
+  <trd lng="cs">C.A. de Coulomb</trd>
   <trd lng="de">Coulomb</trd>
   <trd lng="en">coulomb</trd>
   <trd lng="es">culombio</trd>
@@ -62,11 +65,18 @@
   <trd lng="nl">coulomb</trd>
   <trd lng="pt">coulomb</trd>
   <trd lng="ru">&c_k;&c_u;&c_l;&c_o;&c_n;</trd>
+  <trd lng="sk">C.A. de Coulomb</trd>
   <trd lng="sv">coulomb</trd>
 </drv>
 </art>
 <!--
 $Log: kulomb.xml,v $
+Revision 1.21  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/07/01 17:10:45  revo
 Eko Nur Syah Hidayat: +id
 

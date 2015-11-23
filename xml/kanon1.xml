@@ -2,24 +2,24 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kanon1.xml,v 1.11 2012/07/17 09:10:16 revo Exp $">
+<art mrk="$Id: kanon1.xml,v 1.14 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>1</ofc>
-  <rad>kanon</rad>/o
+  <rad>kanon</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="kanon1.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">MIL</uzo>
   <snc mrk="kanon1.0o.pafilo">
+    <uzo tip="fak">MIL</uzo>
     <dif>
-      Granddimensia
+      Granda
       <ref tip="super" cel="paf.pulvo0ilo">pulvopafilo</ref>,
       &jcirc;etanta <ref cel="paf.0ajxo">pafa&jcirc;ojn</ref> la&ubreve;
       plata, preska&ubreve; rekta trajektorio al rekte trafeblaj,
-      vertikalaj celoj, a&ubreve; al relative malproksimaj celoj
-      (18&ndash;40km). La starta rapido de la pafa&jcirc;o estas pli
-      granda ol &ccirc;e ha&ubreve;bizoj a&ubreve; bombopafiloj.
-      <tld lit="K"/>o konsistas el cilindra metala
+      vertikalaj celoj, a&ubreve; al malproksimaj celoj
+      (18&ndash;40 km) kun starta rapido de pafa&jcirc;o pli
+      granda ol &ccirc;e ha&ubreve;bizoj a&ubreve; bombopafiloj;
+      <tld/>o konsistas el cilindra metala
       <ref tip="prt" cel="tub.0o">tubo</ref> (40&ndash;80 kalibrojn longa),
       pretigita por enteni pafa&jcirc;ojn, kiujn el&jcirc;etas la eksplodo
       de pulvo, kaj portata de movebla a&ubreve; nemovebla
@@ -74,39 +74,79 @@
   <trd lng="ca">can&oacute;</trd>
   <trd lng="fr">canon<klr tip="ind"> (arme)</klr></trd>
   <trd lng="hu">l&ouml;veg</trd>  
+  <trdgrp lng="sk">
+    <trd>delo</trd>,
+    <trd>kanón</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dělo</trd>,
+    <trd>kanón</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kanon1.0i">
   <kap><tld/>i</kap>
-  <uzo tip="fak">MIL</uzo>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="kanon1.0i.MIL">
+   <uzo tip="fak">MIL</uzo>
     <dif>
-      Pripafi iun a&ubreve; ion per <tld/>o:
+      Pripafi per <tld/>o:
       <ekz>
         Harriman-&scirc;ipo poste sukcese <tld/>is la danan &scirc;ipon kaj
         dronigis &gcirc;in
         <fnt>
-        <aut>Karel &Ccaron;apek</aut>:
+        <aut>K. &Ccaron;apek, trad. J. Vondrou&scaron;ek</aut>,
         <vrk>Milito kontra&ubreve; salamandroj</vrk>,
-        <lok>Libro 3a, &ccirc;ap. 1.</lok>
+        <lok>1994</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_b;&c_s;&c_t;&c_r;&c_a;&c_l;&c_ja;&c_c;&c_mol; &c_z; <ind>&c_g;&c_a;&c_r;&c_m;&c_a;&c_t;&c_y;</ind></trd>
   <trd lng="ca">canonejar</trd>
-  <trd lng="fr">canonner</trd>
+  <trd lng="cs">být kanonizován</trd>
   <trd lng="es">ca&ntilde;onear</trd>
+  <trd lng="fr">canonner</trd>
   <trd lng="hu">&aacute;gy&uacute;z</trd>
   <trd lng="nl">kanonneren</trd>
   <trd lng="ru">&c_o;&c_b;&c_s;&c_t;&c_r;&c_je;&c_l;&c_ja;&c_t;&c_mol; &c_i;&c_z; &c_p;&c_u;&c_sh;&c_je;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>delom</trd>,
+    <trd>strieľať kanónom</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kanon1.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="kanon1.0isto.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Soldato reganta <tld/>on:
+      <ekz>
+        mi <klr>...</klr> rigardis nur la prusajn <tld/>istojn, kiuj 
+        re&scirc;argis siajn pecojn
+        <fnt>
+          <aut>Erckmann-Chatrian, trad. P. J. Doumen</aut>,
+          <vrk><url
+          ref="http://esperanto-forum.net/doc/Romanoj/konskripto1813.pdf">
+          Soldato de Napoleono</url></vrk>,
+          <lok>[vidita en 2015]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dělostřelec</trd>,
+    <trd>kanonýr</trd>
+  </trdgrp>
+  <trd lng="fr">cannonier</trd>
+  <trd lng="sk">delostrelec</trd>
 </drv>
 
 <drv mrk="kanon1.strek0o">
   <kap>strek<tld/>o</kap>
-  <uzo tip="fak">MIL</uzo>
-  <snc>
+  <snc mrk="kanon1.strek0o.MIL">
+    <uzo tip="fak">MIL</uzo>
     <dif>
       <tld lit="K"/>o, kies tubo estas interne strekita por
       pliprecizigi la pafadon.
@@ -125,6 +165,15 @@
 </art>
 <!--
 $Log: kanon1.xml,v $
+Revision 1.14  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2015/06/01 19:10:16  revo
+Jeromo Vasxe: + ~isto
+
 Revision 1.11  2012/07/17 09:10:16  revo
 Marc Rausell: ++ trd ca
 
@@ -144,8 +193,5 @@ Revision 1.6 2003/03/31 16:31:45 revo
 Sergio Pokrovskij: +ekz, +trd=ru
 
 Revision 1.5 2002/10/21 16:35:55 revo
-Jose Martin del Pozo: ald es trd -o -i
-
-Revision 1.4 2002/07/12 17:34:07 revo
 -->
 </vortaro>

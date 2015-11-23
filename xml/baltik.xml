@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: baltik.xml,v 1.11 2009/07/01 17:22:18 revo Exp $">
+<art mrk="$Id: baltik.xml,v 1.13 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <rad>Baltik</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -19,6 +19,10 @@
     &c_m;&c_o;&c_r;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">B&agrave;ltic</trd>
+  <trdgrp lng="cs">
+    <trd>Balt</trd>,
+    <trd>Baltik</trd>
+  </trdgrp>
   <trd lng="de">Ostsee</trd>
   <trdgrp lng="en">
     <trd>Baltic</trd>,
@@ -45,6 +49,10 @@
     <trd>&c_B;&c_a;&c_l;&c_t;&c_i;&c_k;&c_a;</trd>,
     <trd>&c_B;&c_a;&c_l;&c_t;&c_i;&c_j;&c_s;&c_k;&c_o;&c_je;
     &c_m;&c_o;&c_r;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>Balt</trd>,
+    <trd>Baltik</trd>
   </trdgrp>
 </drv>
 
@@ -77,6 +85,12 @@
 </art>
 <!--
 $Log: baltik.xml,v $
+Revision 1.13  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2009/07/01 17:22:18  revo
 Paul Peeraerts: +trd nl
 

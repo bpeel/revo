@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: viv.xml,v 1.65 2014/06/06 15:10:28 revo Exp $">
+<art mrk="$Id: viv.xml,v 1.73 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>viv</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -131,6 +131,12 @@
   <trdgrp lng="zh">
     <trd>&#27963;<klr> [hu&oacute;]</klr></trd>,
     <trd>&#29983;<klr> [sh&#275;ng]</klr></trd>
+  </trdgrp>
+  <trd lng="sk">žiť, existovať</trd>
+  <trd lng="sk">žiť, existovať</trd>
+  <trdgrp lng="cs">
+    <trd>bydlet <klr>(v, u)</klr></trd>,
+    <trd>existovat</trd>
   </trdgrp>
 </drv>
 
@@ -303,14 +309,24 @@
       </ekz>
     </dif>
     <trd lng="fr">live<klr> (en pr&eacute;sence)</klr></trd>
-  </snc>      
+  </snc>
+  <trdgrp lng="cs">
+    <trd>naživu jsoucí</trd>,
+    <trd>živ</trd>,
+    <trd>živoucí</trd>,
+    <trd>živý</trd>
+  </trdgrp>
   <trd lng="de">lebendig</trd>
   <trd
     lng="el">&zeta;&omega;&ny;&tau;&alfa;&ny;&omikron_acute;&sigma_fina;</trd>
   <trd lng="id">langsung (live)</trd>
   <trd lng="pt">vivo</trd>
   <trd lng="ru">&c_zh;&c_i;&c_v;&c_o;&c_j;</trd>
-  <trd lng="sk">&zcaron;iv&yacute;</trd>
+  <trdgrp lng="sk">
+    <trd>&zcaron;iv&yacute;</trd>,
+    <trd>oživený</trd>,
+    <trd>svieži</trd>
+  </trdgrp>
   <trd lng="vo">lifik</trd>
 </drv>
 
@@ -368,6 +384,7 @@
     <trd>&c_zh;&c_v;&c_a;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_r;&c_u;&c_h;&c_a;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="cs">živost</trd>
   <trd lng="el">&zeta;&omega;&ny;&tau;&alfa_acute;&ny;&jota;&alfa;</trd>
   <trd lng="es">vivacidad</trd>
   <trdgrp lng="fr">
@@ -378,6 +395,7 @@
   <trd lng="nl">levendigheid</trd>
   <trd lng="pt">vivacidade</trd>
   <trd lng="ru">&c_zh;&c_i;&c_v;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">živosť</trd>
 </drv>
 
 <drv mrk="viv.0ema">
@@ -435,6 +453,14 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_zh;&c_y;&c_v;&c_ib;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>dodat života</trd>,
+    <trd>oživit</trd>,
+    <trd>vdechnout život</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>beleben</trd>
+  </trdgrp>
   <trd lng="fr">animer</trd>
   <trd lng="he">&lamed;&he;&het;&yod;&vav;&tav;</trd>
   <trdgrp lng="hu">
@@ -444,8 +470,10 @@
   <trd lng="id">[<ind>hidup</ind>] menghidupkan</trd>
   <trd lng="nl">verlevendigen</trd>
   <trd lng="ru">&c_o;&c_zh;&c_i;&c_v;&c_i;&c_t;&c_mol;</trd>
-  <trdgrp lng="de">
-    <trd>beleben</trd>
+  <trdgrp lng="sk">
+    <trd>dodať života</trd>,
+    <trd>oživiť</trd>,
+    <trd>vdýchnuť život</trd>
   </trdgrp>
 </drv>
 
@@ -466,14 +494,15 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_zh;&c_y;&c_c;&c_mol;&c_c;&c_ja;&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="cs">životaschopný</trd>
+  <trdgrp lng="de">
+    <trd>&uuml;berlebensf&auml;hig</trd>
+  </trdgrp>
   <trd lng="fr">viable</trd>
   <trd lng="hu">&eacute;leter&odblac;s</trd>
   <trd lng="nl">levensvatbaar</trd>
   <trd lng="ru">&c_zh;&c_i;&c_z;&c_n;&c_je;&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">&zcaron;ivotaschopn&yacute;</trd>
-  <trdgrp lng="de">
-    <trd>&uuml;berlebensf&auml;hig</trd>
-  </trdgrp>
 </drv>
 
 <drv mrk="viv.0uo">
@@ -523,6 +552,10 @@
   </snc>
   <trd lng="be">&c_zh;&c_y;&c_v;&c_a;&c_ja;
     &c_ib;&c_s;&c_t;&c_o;&c_t;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>živá bytost</trd>,
+    <trd>živý tvor</trd>
+  </trdgrp>
   <trd lng="el">&epsilon_acute;&my;&beta;&jota;&omikron;
     &omikron;&ny;</trd>
   <trdgrp lng="fr">
@@ -533,6 +566,7 @@
   <trd lng="pt">ser vivo</trd>
   <trd lng="ru">&c_zh;&c_i;&c_v;&c_o;&c_je;
     &c_s;&c_u;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="sk">živý tvor</trd>
 </drv>
 
 <drv mrk="viv.bon0anto">
@@ -553,7 +587,13 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bonviván</trd>,
+    <trd>hýřil</trd>,
+    <trd>požitkář</trd>
+  </trdgrp>
   <trd lng="fr">bon vivant</trd>
+  <trd lng="sk">pôžitkár</trd>
 </drv>
 
 <drv mrk="viv.gxis0i">
@@ -612,8 +652,7 @@
     </dif>
     <adm>
       &Ccirc;u la vorto efektive havas tiun sencon? Por mi tio
-      &scirc;ajnas
-      stranga, kaj en PIV mi &gcirc;in ne trovis.
+      &scirc;ajnas stranga, kaj en PIV mi &gcirc;in ne trovis.
       <aut>Sergio</aut>
     </adm>
     <trd
@@ -622,71 +661,104 @@
       <trd>Zeitgenosse</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>druh</trd>,
+    <trd>společník</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>partner</trd>,
+    <trd>spoločník</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="viv.mal0a">
   <kap><ofc>*</ofc>mal<tld/>a</kap>
-  <snc mrk="viv.mal0a.KOMUNE">
+  <snc>
     <dif>
-      Ne posedanta la <tld/>on:
-      <ekz>
-        mal<tld/>a substanco;
-      </ekz><ekz>
-        lia filo mortis kaj estas nun mal<tld/>a
-        <fnt><bib>F</bib>, <lok>&FE;31</lok></fnt>;
-      </ekz><ekz>
-        mal<tld/>e naskita infano;
-      </ekz><ekz>
-        <uzo tip="stl">FIG</uzo>
-        la afero <klr>[...]</klr> montri&gcirc;is mal<tld/>e naskita
-        <fnt>
-          <aut>&Z;</aut>:
-          <vrk>El la unua libro de la lingvo Esperanto</vrk>
-          <lok>Fundamenta Krestomatio, Parto Sesa</lok>.
-        </fnt>;
-      </ekz><ekz>
-        la mal<tld/>a naturo
-        <klr>(kontraste al la organika mondo de biologiaj
-          esta&jcirc;oj)</klr>;
-      </ekz><ekz>
-        la suno levi&gcirc;is el la maro, kviete kaj varme falis &gcirc;iaj
-        radioj sur la malvarman mal<tld/>an &scirc;a&ubreve;mon de la maro
-        <fnt><bib>Fab1</bib>, <lok>La virineto de maro</lok></fnt>;
-      </ekz><ekz>
-        <ind>Mal<tld/>a Maro</ind><fnt>K</fnt>;
-        <trd lng="hu">Holt-tenger</trd>
-      </ekz><ekz>
-        <ctl>La mal<tld/>aj animoj</ctl> <klr>(romano de
-          Gogolo)</klr>;
-      </ekz><ekz>
-        <uzo tip="stl">FIG</uzo>
-        kontra&ubreve; tio &ccirc;i protestus la vivo mem, kaj ilia elekto
-        restus nur <ind>mal<tld/>a litero</ind>
-        <fnt><bib>EE</bib>, <lok>&ccirc;ap. 5a</lok></fnt>
-        <klr>(senefika decido)</klr>;
-        <trd lng="ru">&c_m;&c_jo;&c_r;&c_t;&c_v;&c_a;&c_ja; &c_b;&c_u;&c_k;&c_v;&c_a;</trd>
-      </ekz><ekz>
-        <uzo tip="stl">FIG</uzo>
-        <ind>mal<tld/>a sezono</ind>
-        <klr>(kiam la turisma vivo malestas)</klr>;
-        <trdgrp lng="hu">
-          <trd>holtid&eacute;ny</trd>,
-          <trd>holtszezon</trd>
-        </trdgrp>
-        <trd lng="ru">&c_m;&c_jo;&c_r;&c_t;&c_v;&c_y;&c_j; &c_s;&c_je;&c_z;&c_o;&c_n;</trd>
-      </ekz><ekz>
-        Pilato rigardis la &ccirc;efpastron per mal<tld/>aj
-        okuloj <klr>(senesprimaj, en kiun ne videblis vivo)</klr>
-        kaj nudigis la dentojn por esprimi rideton
-        <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 2, p. 30</lok></fnt>.
-      </ekz>
+      Ne posedanta <tld/>on:
     </dif>
+    <subsnc mrk="viv.mal0a.sxtono">
+      <dif>
+        Ne apartenanta al la mondo de la <tld/>a&jcirc;oj,
+        sen<tld/>a, en kiu malestas kaj neniam estis vivo:
+        <ekz>
+          mal<tld/>a substanco (ekz-e metalo, vitro);
+        </ekz><ekz>
+          la mal<tld/>a naturo
+          <klr>(kontraste al la organika mondo de biologiaj
+            esta&jcirc;oj)</klr>;
+        </ekz><ekz>
+          la <ref cel="mar.MalvivaM0o">Mal<tld/>a
+          Maro</ref><fnt>K</fnt>;
+        </ekz><ekz>
+          la suno levi&gcirc;is el la maro, kviete kaj varme falis &gcirc;iaj
+          radioj sur la malvarman mal<tld/>an &scirc;a&ubreve;mon de la maro
+          <fnt><bib>Fab1</bib>, <lok>La virineto de maro</lok></fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="viv.mal0a.mortinta">
+      <dif>
+        <ref cel="mort.0i">Mortinta</ref>:
+        <ekz>
+          lia filo mortis kaj estas nun mal<tld/>a
+          <fnt><bib>F</bib>, <lok>&FE;31</lok></fnt>;
+        </ekz><ekz>
+          <ref cel="nask.malvive0ita.MED">mal<tld/>e
+          naskita<sncref/></ref> infano;
+        </ekz><ekz>
+          <ctl>La mal<tld/>aj animoj</ctl>
+          <klr>(romano de Gogolo)</klr>;
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="viv.mal0a.senefika">
+      <uzo tip="stl">FIG</uzo>
+      <dif>
+        Senefika, malvigla, nekapabla funkcii, senti:
+        <ekz>
+          lia koro, rilate al amo, jam estis mal<tld/>a
+          <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;ap. 17a</lok></fnt>;
+        </ekz><ekz>
+          la butono estis mal<tld/>a, la sonorilo estis difektita
+          <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 14a</lok></fnt>;
+        </ekz><ekz>
+          <ref cel="liter.malviva0o">mal<tld/>a
+          litero</ref><fnt>Z</fnt>;
+        </ekz><ekz>
+          afero <ref cel="nask.malvive0ita.FIG">mal<tld/>e
+          naskita</ref><fnt>Z</fnt>;
+        </ekz><ekz>
+          <uzo tip="stl">FIG</uzo>
+          <ind>mal<tld/>a sezono</ind>
+          <klr>(kiam la turisma vivo malestas)</klr>;
+          <trdgrp lng="hu">
+            <trd>holtid&eacute;ny</trd>,
+            <trd>holtszezon</trd>
+          </trdgrp>
+          <trd lng="ru">&c_m;&c_jo;&c_r;&c_t;&c_v;&c_y;&c_j; &c_s;&c_je;&c_z;&c_o;&c_n;</trd>
+        </ekz><ekz>
+          Pilato rigardis la &ccirc;efpastron per mal<tld/>aj
+          okuloj <klr>(senesprimaj, en kiun ne videblis vivo)</klr>
+          kaj nudigis la dentojn por esprimi rideton
+          <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 2, p. 30</lok></fnt>;
+        </ekz><ekz>
+          &scirc;iaj okuloj estis &ccirc;irka&ubreve;itaj de malhelaj rondoj, la
+          pupiloj estis kvaza&ubreve; mal<tld/>aj
+          <fnt><bib>Marta</bib></fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
   </snc>
   <trd lng="be">&c_m;&c_jo;&c_r;&c_t;&c_v;&c_y;</trd>
-  <trd lng="el">&pi;&epsilon;&theta;&alfa;&my;&epsilon_acute;&ny;&omikron;&sigma_fina;</trd>
+  <trdgrp lng="cs">
+    <trd>mrtvý</trd>,
+    <trd>neživý</trd>
+  </trdgrp>
   <trd lng="de">tot</trd>
+  <trd lng="el">&pi;&epsilon;&theta;&alfa;&my;&epsilon_acute;&ny;&omikron;&sigma_fina;</trd>
   <trd lng="en">dead</trd>
-  <trd lng="fr">mort <klr>adj.</klr></trd>
+  <trd lng="fr">mort<klr> (adj.)</klr></trd>
   <trdgrp lng="hu">
     <trd>holt</trd>,
     <trd>&eacute;lettelen</trd>
@@ -694,7 +766,11 @@
   <trd lng="nl">levenloos</trd>
   <trd lng="pt">morto</trd>
   <trd lng="ru">&c_m;&c_jo;&c_r;&c_t;&c_v;&c_y;&c_j;</trd>
-  <trd lng="sk">m&racute;tvy</trd>
+  <trdgrp lng="sk">
+    <trd>m&racute;tvy</trd>,
+    <trd>mŕtvy</trd>,
+    <trd>neživý</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="viv.mal0ulo">
@@ -714,6 +790,8 @@
     <trd>&c_m;&c_jo;&c_r;&c_t;&c_v;&c_y; (&c_n;&c_a;&c_z;)</trd>,
     <trd>&c_m;&c_ja;&c_r;&c_c;&c_mol;&c_v;&c_ja;&c_k;</trd>
   </trdgrp>
+  <trd lng="cs">mrtvý <klr>(čl.)</klr></trd>
+  <trd lng="de">Toter</trd>
   <trdgrp lng="fr">
     <trd>mort</trd>,
     <trd>mort-vivant</trd>
@@ -723,11 +801,11 @@
     <trd>holt</trd>
   </trdgrp>
   <trd lng="nl">overledene</trd>
-  <trd lng="de">Toter</trd>
   <trdgrp lng="ru">
     <trd>&c_m;&c_je;&c_r;&c_t;&c_v;&c_je;&c_c;</trd>,
     <trd>&c_m;&c_je;&c_r;&c_t;&c_v;&c_ja;&c_k;</trd>
   </trdgrp>
+  <trd lng="sk">mŕtvy človek</trd>
 </drv>
 
 <drv mrk="viv.mal0o">
@@ -805,66 +883,73 @@
 </drv>
 
 <drv mrk="viv.post0i">
-  <kap>post<tld/>i,
-  <var><kap>super<tld/>i</kap></var>,
-  <var><kap>trans<tld/>i</kap></var></kap>
-  <gra><vspec>tr</vspec></gra>
-  <snc mrk="viv.post0i.iun">
-    <dif>
-      <tld lit="V"/>i ankora&ubreve; post ies morto:
-      <ekz>
-        post<tld/>i sian filon;
-      </ekz>
-      <ekz>
-        <uzo tip="stl">FIG</uzo>
-        post<tld/>i sin mem
-        <klr>(ankora&ubreve; <tld/>i perdinte siajn intelektajn
-          fortojn)</klr>;
-      </ekz>
-      <ekz>
-        trans<tld/>u min<fnt>Z</fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <snc mrk="viv.post0i.ion">
-    <dif>
-      <tld lit="V"/>i ankora&ubreve; post ia grava okaza&jcirc;o:
-      <ekz>
-        la maljuna aveto disrompi&gcirc;is en pecojn, kaj ni estas
-        kulpaj pri tio: tion mi ne povas post<tld/>i
-        <fnt><bib>Fab3</bib>, <lok>pa&scirc;tistino kaj
-        kamentubisto</lok></fnt>;
-      </ekz>
-      <ekz>
-        li ne super<tld/>os tiun funebran sciigon;
-      </ekz>
-      <ekz>
-        patrino lia amas lin varmege
-        kaj certe ne trans<tld/>us lian punon<fnt>Z</fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <snc mrk="viv.post0i.postekzisti">
-    <uzo tip="klr">(io)</uzo>
-    <dif>
-      Ekzisti ankora&ubreve; post ies morto, post la fino de io:
-      <ekz>
-        tiel kantis la brava Eunana, kaj lia kanto, plena de larmoj,
-        post<tld/>is la egiptan regnon
-        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 4a</lok></fnt>;
-      </ekz>
-      <ekz>
-        oni povas esperi, ke la memoro de granda homo
-        per duonjaro super<tld/>os lian morton<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        <uzo tip="stl">FIG</uzo>
-        trans<tld/>i sin mem
-        <klr>(<tld/>i post sia morto en la memoro de la homoj)</klr>.
-      </ekz>
-    </dif>
-  </snc>
+      <kap>post<tld/>i</kap>
+      <gra><vspec>tr</vspec></gra>
+      <snc mrk="viv.post0i.plu">
+        <dif>
+          Plu <tld/>i, ekzisti post io okazo a&ubreve; tempo:
+          <ekz>
+            Jen ni &gcirc;in festis, kaj la nepo &mdash; sola post<tld/>anto de la
+            familio, viro, kiu portas la gloran nomon de sia avo &ndash; ne
+            &ccirc;eestis la solenan kunvenon
+            <fnt>
+              <aut>N. Z. Maimon</aut>:
+              <vrk>Postrikolto el la Zamenhofa Jaro</vrk>.
+              <lok>Nica literatura revuo, 7:2 (n-ro 38)</lok>
+            </fnt>;
+          </ekz><ekz>
+            aliaj post<tld/>intoj de tiu masakro estis transportitaj
+            al Babelo, kie ili estis sklavoj
+            <fnt>
+              <aut>Wolfram ROHLOFF</aut>:
+              <vrk>Abortigo kaj la biblio (2)</vrk>.
+              <lok>Monato</lok>.
+            </fnt>
+          </ekz>
+        </dif>
+        <subsnc mrk="viv.post0i.iun">
+          <dif>
+            <tld lit="V"/>i ankora&ubreve; post ies morto:
+            <ekz>
+              &scirc;i je dek jaroj post<tld/>i sian edzon;
+            </ekz><ekz>
+              <uzo tip="stl">FIG</uzo>
+              post<tld/>i sin mem
+              <klr>(ankora&ubreve; <tld/>i perdinte siajn intelektajn
+                fortojn, sian gloron a&ubreve; a&ubreve;toritaton; cetere, kp la
+                rimarkon &ccirc;e
+                <ref
+                cel="viv.trans0i.post">trans<tld/>i<sncref/></ref>)</klr>.
+            </ekz>
+          </dif>
+        </subsnc>
+        <subsnc mrk="viv.post0i.postekzisti">
+          <uzo tip="klr">(io)</uzo>
+          <dif>
+            Ekzisti ankora&ubreve; post ies morto, post la fino de io:
+            <ekz>
+              tiel kantis la brava Eunana, kaj lia kanto, plena de
+              larmoj,
+              post<tld/>is la egiptan regnon
+              <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 4a</lok></fnt>;
+            </ekz><ekz>
+              La sunradio post<tld/>os ja nin &ccirc;iujn!
+              <fnt><bib>Fab4</bib>, <lok>Kuristoj</lok></fnt>.
+            </ekz>
+          </dif>
+        </subsnc>
+      </snc>
+      <snc mrk="viv.post0i.trans">
+        <ref cel="viv.trans0i.malbonajxon">trans<tld/>i<sncref/></ref>
+          <ekz>
+            la maljuna aveto disrompi&gcirc;is en pecojn, kaj ni estas
+            kulpaj pri tio: tion mi ne povas post<tld/>i
+            <fnt><bib>Fab3</bib>,
+              <lok>pa&scirc;tistino kaj kamentubisto</lok></fnt>.
+          </ekz>
+      </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_zh;&c_y;&c_c;&c_mol;</trd>
+  <trd lng="cs">přežít</trd>
   <trd lng="de">&uuml;berleben</trd>
   <trd lng="el">&epsilon;&pi;&jota;&zeta;&omega_acute;</trd>
   <trd lng="fr">survivre</trd>
@@ -872,6 +957,7 @@
   <trd lng="nl">overleven</trd>
   <trd lng="pt">sobreviver</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_zh;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">prežiť</trd>
 </drv>
 
 <drv mrk="viv.re0igi">
@@ -895,6 +981,12 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_zh;&c_y;&c_v;&c_ib;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>křísit</trd>,
+    <trd>oživit</trd>,
+    <trd>resuscitovat</trd>,
+    <trd>vzkřísit k životu</trd>
+  </trdgrp>
   <trd lng="el">&alfa;&ny;&alfa;&sigma;&tau;&alfa;&jota_ton;&ny;&omega;</trd>
   <trdgrp lng="fr">
     <trd>r&eacute;animer</trd>,
@@ -911,6 +1003,11 @@
   <trdgrp lng="ru">
     <trd>&c_o;&c_zh;&c_i;&c_v;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_o;&c_s;&c_k;&c_r;&c_je;&c_s;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>oživiť</trd>,
+    <trd>resuscitovať</trd>,
+    <trd>vzkriesiť</trd>
   </trdgrp>
 </drv>
 
@@ -971,8 +1068,7 @@
       Perdinta la <tld/>on:
       <ekz>
         sen<tld/>a korpo;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         estas feli&ccirc;o, ke la maljuna avino jam ne <tld/>is,
         alie li sen<tld/>igus &scirc;in<fnt>Z</fnt>.
       </ekz>
@@ -986,6 +1082,12 @@
     <trd>&c_b;&c_je;&c_z;&c_zh;&c_y;&c_c;&c_mol;&c_c;&c_jo;&c_v;&c_y;</trd>,
     <trd>&c_z;&c_mol;&c_m;&c_ja;&c_r;&c_c;&c_mol;&c_v;&c_je;&c_l;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bez života</trd>,
+    <trd>mrtvý</trd>,
+    <trd>neživý</trd>,
+    <trd>pustý <klr>(kraj)</klr></trd>
+  </trdgrp>
   <trd lng="el">&pi;&epsilon;&theta;&alfa;&my;&epsilon_ton;&ny;&omikron;&sigma_fina;</trd>
   <trd lng="fr">inanim&eacute;</trd>
   <trd lng="he">&nun;&tet;&vav;&lamed; &het;&yod;&yod;&fmem;</trd>
@@ -993,6 +1095,12 @@
   <trd lng="nl">levenloos</trd>
   <trd lng="pt">morto</trd>
   <trd lng="ru">&c_b;&c_je;&c_z;&c_zh;&c_i;&c_z;&c_n;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>bezduchý</trd>,
+    <trd>mŕtvy</trd>,
+    <trd>neživý</trd>,
+    <trd>pustý</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="viv.sen0ajxo">
@@ -1003,17 +1111,13 @@
       kontraste al la <ref tip="ant"
         cel="viv.0ajxo"><tld/>a&jcirc;oj</ref>:
       <ekz>
-        e&ccirc; la sen<tld/>a&jcirc;oj, kiuj produktas sonon, &ccirc;u
-        fluto, &ccirc;u
-        harpo, se ili ne donas diferencon en la sonoj, kiel oni
-        scios, kio estas flutata a&ubreve; harpata?
+        e&ccirc; la sen<tld/>a&jcirc;oj, kiuj produktas sonon, &ccirc;u fluto, &ccirc;u harpo,
+        se ili ne donas diferencon en la sonoj, kiel oni scios, kio
+        estas flutata a&ubreve; harpata?
         <fnt><bib>NT</bib>, <lok>&Ko1; 14:7</lok></fnt>;
-      </ekz>
-      <ekz>
-        la vorto <ctl>&gcirc;i</ctl> (uzata speciale por
-        <ctl>bestoj</ctl> a&ubreve;
-        &#171;sen<tld/>a&jcirc;oj&#187;) enhavas en si ion
-        malaltigan
+      </ekz><ekz>
+        la vorto <ctl>&gcirc;i</ctl> (uzata speciale por <ctl>bestoj</ctl>
+        a&ubreve; &#171;sen<tld/>a&jcirc;oj&#187;) enhavas en si ion malaltigan
         <fnt><bib>LR</bib>,
           <lok>Respondo 23a, La Revuo, 1907, a&ubreve;gusto</lok></fnt>.
       </ekz>
@@ -1022,8 +1126,7 @@
   <trd lng="hu">&eacute;lettelen dolog</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_je;&c_shch;&c_mol;</trd>,
-    <trd>&c_n;&c_je;&c_o;&c_d;&c_u;&c_sh;&c_je;&c_v;&c_l;&c_jo;&c_n;&c_n;&c_y;&c_j;
-      &c_p;&c_r;&c_je;&c_d;&c_m;&c_je;&c_t;</trd>
+    <trd>&c_n;&c_je;&c_o;&c_d;&c_u;&c_sh;&c_je;&c_v;&c_l;&c_jo;&c_n;&c_n;&c_y;&c_j; &c_p;&c_r;&c_je;&c_d;&c_m;&c_je;&c_t;</trd>
   </trdgrp>
 </drv>
 
@@ -1040,23 +1143,58 @@
     </dif>
   </snc>
   <trd lng="fr">perdre la vie</trd>
+  <trd lng="ru">&c_u;&c_m;&c_je;&c_r;&c_je;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="viv.super0i">
+  <kap>super<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="viv.super0i.trans">
+    <ref tip="dif"
+    cel="viv.trans0i.malbonajxon">trans<tld/>i<sncref/></ref>
+    <ekz>
+       la maljunulo kulpigos sin pri la morto de sia filo, kaj &mdash; li
+       estas malsana, <klr>(...)</klr> &mdash;
+       li ne super<tld/>os la <klr>(funebran)</klr> sciigon
+       <fnt>
+         <aut>&Scirc;ilero, tr. &Z;o</aut>: <vrk>La rabistoj</vrk>.
+         <lok>2:2</lok>.
+       </fnt>
+    </ekz>
+  </snc>
+  <snc mrk="viv.super0i.post">
+    <ref tip="dif" cel="viv.post0i.plu">post<tld/>i<sncref/></ref>
+        <ekz>
+          kiam la homo, kiun mi amis, estis mortanta, mi 
+          pensis, ke mi lin ne super<tld/>os... mi super<tld/>is...
+          <fnt><bib>Marta</bib></fnt>;
+        </ekz>
+    <ekz>
+        oni povas esperi, ke la memoro de granda homo
+        per duonjaro super<tld/>os lian morton
+        <fnt>
+          <aut>&Scirc;ekspiro, tr. &Z;o</aut>:
+          <vrk>Hamleto, Re&gcirc;ido de Danujo</vrk>. <lok>1:3</lok>.
+        </fnt>.
+      </ekz>
+  </snc>
+  <trd lng="cs">přežít</trd>
+  <trd lng="sk">prežiť</trd>
 </drv>
 
 <drv mrk="viv.tra0i">
   <kap>tra<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="viv.tra0i.pasi">
     <dif>
-      Pasigi <tld/>ante:
+      Pasi <tld/>ante:
       <ekz>
         <uzo tip="stl">FRAZ</uzo>
         <ind><mll tip="kom"><tld/>on tra<tld/>i</mll>
           estas art' malfacila</ind>
         <fnt><bib>PrV</bib></fnt>;
-        <trd lng="ru"><mll tip="kom">&c_zh;&c_i;&c_z;&c_n;&c_mol;
-            &c_p;&c_r;&c_o;&c_zh;&c_i;&c_t;&c_mol;</mll>
-          &#8208; &c_n;&c_je; &c_p;&c_o;&c_l;&c_je;
-          &c_p;&c_je;&c_r;&c_je;&c_j;&c_t;&c_i;</trd>
+        <trd lng="ru"><mll tip="kom">&c_zh;&c_i;&c_z;&c_n;&c_mol; &c_p;&c_r;&c_o;&c_zh;&c_i;&c_t;&c_mol;</mll>
+              &#8208; &c_n;&c_je; &c_p;&c_o;&c_l;&c_je; &c_p;&c_je;&c_r;&c_je;&c_j;&c_t;&c_i;</trd>
       </ekz><ekz>
         tra<tld/>i teruran minuton, grandan epokon, la junecon
         en malliberejo<fnt>B</fnt>;
@@ -1068,7 +1206,7 @@
     <trd lng="hu">v&eacute;gig&eacute;l</trd>
     <trd lng="ru">&c_p;&c_r;&c_o;&c_zh;&c_i;&c_t;&c_mol;</trd>
   </snc>
-  <snc>
+  <snc mrk="viv.tra0i.sperti">
     <dif>
       Ekkoni, senti, sperti dum sia <tld/>o:
       <ekz>
@@ -1076,6 +1214,10 @@
         belajn festojn;
       </ekz><ekz>
         mi estis juna kaj ne multon tra<tld/>is<fnt>B</fnt>;
+      </ekz><ekz>
+        mi estos tra<tld/>inta feli&ccirc;egan tempon, kiu kompensos
+        &ccirc;iujn postajn dolorojn
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;ap. 14a</lok></fnt>;
       </ekz><ekz>
         dum tiuj tra<tld/>a&jcirc;oj.
       </ekz>
@@ -1089,27 +1231,150 @@
     <trd lng="hu">&aacute;t&eacute;l</trd>
     <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_zh;&c_i;&c_t;&c_mol;</trd>
   </snc>
-  <snc>
+  <snc mrk="viv.tra0i.dum">
     <dif>
-      Ne morti (dum):
+      Elteni <klr>(malfacila&jcirc;on)</klr>, ne morti <klr>(dum iu
+      periodo)</klr>:
       <ekz>
-        Lingvo, kiu eltenis la provon dum dudek kvin jaroj, kiu en
+        lingvo, kiu eltenis la provon dum dudek kvin jaroj, kiu en
         plej bona kaj &ccirc;iam pli floranta stato tra<tld/>is jam tutan
         homan generacion;
-      </ekz><ekz>
-        Se li tra<tld/>os, li eble fari&gcirc;os anka&ubreve; prudenta;
-      </ekz><ekz>
-        Malgra&ubreve; mia momento de paniko la anta&ubreve;an tagon, mi ne
-        dubis, ke li tra<tld/>is la brulegon.
       </ekz>
     </dif>
   </snc>
+  <snc mrk="viv.tra0i.trans">
+    <uzo tip="stl">EVI</uzo>
+    <ref cel="viv.trans0i.malbonajxon">trans<tld/>i<sncref/></ref>
+    <ekz>
+      se li tra<tld/>os, li eble fari&gcirc;os anka&ubreve; prudenta;
+    </ekz><ekz>
+      malgra&ubreve; mia momento de paniko la anta&ubreve;an tagon, mi ne
+      dubis, ke li tra<tld/>is la brulegon.
+    </ekz>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>poznat</trd>,
+    <trd>prodělat</trd>,
+    <trd>prožít</trd>,
+    <trd>přestát</trd>,
+    <trd>zažít</trd>
+  </trdgrp>
   <trd lng="nl">beleven</trd>
-  <trd lng="sk">pre&zcaron;i&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>pre&zcaron;i&tcaron;</trd>,
+    <trd>zažiť</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="viv.trans0i">
+  <kap>trans<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="viv.trans0i.malbonajxon">
+    <dif>
+      <ref cel="viv.tra0i.sperti">Tra<tld/>i<sncref/></ref> kaj
+      <ref cel="viv.post0i.postekzisti">post<tld/>i<sncref/></ref>
+      gravan (kaj, plejparte, malfeli&ccirc;an) okaza&jcirc;on:
+      <ekz>
+        Patrino lia amas lin varmege
+        Kaj certe ne trans<tld/>us lian punon
+        <fnt>
+          <aut>&Scirc;ekspiro, tr. &Z;</aut>:
+          <vrk>Hamleto, Re&gcirc;ido de Danujo</vrk>. <lok>4:7</lok>.
+        </fnt>;
+      </ekz><ekz>
+        Bulgario ja trans<tld/>is la preska&ubreve; 200-jaran
+        bizanc<klr>i</klr>an jugon (1018&ndash;1186) kaj la preska&ubreve;
+        500-jaran otomanan jugon (1396&ndash;1878)
+        <fnt>
+          <aut>Dimitar HA&Gcirc;IEV</aut>:
+          <vrk>Kio estas spiriteco?</vrk>. <bib>Monato</bib>.
+        </fnt>;
+      </ekz><ekz>
+        Kompreneble, la plimulto de poloj &mdash; samkiel &ccirc;iuj, kiuj
+        trans<tld/>is la holoka&ubreve;ston - konis la veron
+        <fnt>
+          <aut>Zofia BANET-FORNALOWA</aut>:
+          <vrk>Pollando</vrk>.  <bib>Monato</bib>.
+        </fnt>;
+      </ekz><ekz>
+        la slovena &scirc;tato esploris diplomatiajn eblojn por lin
+        liberigi, sciante, ke Kri&zcaron;nar ver&scirc;ajne ne trans<tld/>os
+        du jarojn en sudanaj malliberejoj
+        <fnt>
+          <aut>Zlatko TISLJAR</aut>:
+          <vrk>&leftquot;Pac-peranto&rightquot; liberigita</vrk>. <bib>Monato</bib>.
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="viv.trans0i.post">
+    <ref tip="dif" cel="viv.post0i.plu">post<tld/>i<sncref/></ref>
+    <ekz>
+      Trans<tld/>u min!
+      <fnt>
+        <aut>&Scirc;ekspiro, tr. &Z;</aut>:
+        <vrk>Hamleto, Re&gcirc;ido de Danujo</vrk>. <lok>3:2</lok>.
+      </fnt>.
+    </ekz>
+    <rim>
+      PV kaj la PIV-oj ilustras tiun signifon per neatribuita
+      ekzemplo:
+      &leftquot;<ekz><uzo tip="stl">FIG</uzo>
+        trans<tld/>i sin mem
+        <klr>(<tld/>i post sia morto en la memoro de la homoj)</klr>.
+      </ekz>&rightquot;
+      La panegira interpreto de tiuj vortaroj estas tute ebla
+      situacie; tamen egale eblas interpreto kompata a&ubreve; moka,
+      ke temas pri politika kadavro, perdinta sian gloron kaj
+      a&ubreve;toritaton, a&ubreve; pri demenciulo perdinta siajn mensajn
+      kapablojn. Malpli ambigua la&ubreve;do estus <ctl>lia nomo, lia
+      afero plu <tld/>as (en niaj koroj, en niaj faroj ktp)</ctl>.
+      Cetere, tiel la vorto estas uzita de &Z;o:
+      <ekz>
+        mi estas pli ol maljuna, &ccirc;ar mi trans<tld/>is min mem
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      vd <ref cel="viv.post0i.plu">post<tld/>i<sncref/></ref>.
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+  </snc>
+  <trd lng="cs">přežít</trd>
+  <trdgrp lng="en">
+    <trd>survive</trd>,
+    <trd>live through</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_zh;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">prežiť</trd>
+</drv>
+
+
 </art>
 <!--
 $Log: viv.xml,v $
+Revision 1.73  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.72  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.71  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.70  2015/05/08 05:10:15  revo
+Sergio Pokrovskij: +ekz
+
+Revision 1.69  2015/05/06 12:10:14  revo
+Sergio Pokrovskij: disigo de {post|trans|super}~i
+
+Revision 1.68  2014/12/22 07:10:11  revo
+Sergio Pokrovskij: TEZ
+
+Revision 1.67  2014/12/21 12:10:37  revo
+Sergio Pokrovskij: TEZ
+
+Revision 1.66  2014/12/15 06:10:12  revo
+Sergio Pokrovskij: +dissencigis
+
 Revision 1.65  2014/06/06 15:10:28  revo
 Eko Nur Syah Hidayat: +id
 
@@ -1117,20 +1382,5 @@ Revision 1.64  2014/03/31 03:10:24  revo
 Jeromo Vasxe: + bon~anto re~igxo sen~igxi
 
 Revision 1.63  2013/11/01 15:10:15  revo
-Wolfram Diestel: ref al ekzisti, esti
-
-Revision 1.62  2013/10/07 08:10:10  revo
-Sergio Pokrovskij: precizigo de ekz
-
-Revision 1.61  2010/10/11 16:30:25  revo
-Jeromo Vasxe: ~a + 1 snc
-
-Revision 1.60  2010/08/17 16:30:36  revo
-Wieland Pusch: +trd bg
-
-Revision 1.59  2010/06/23 16:30:47  revo
-Jeromo Vasxe: kor snc-ref al snc-mrk
-
-Revision 1.58  2010/06/17 16:31:11  revo
 -->
 </vortaro>

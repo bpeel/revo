@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sutr.xml,v 1.11 2009/10/12 16:30:47 revo Exp $">
+<art mrk="$Id: sutr.xml,v 1.13 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>sutr</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -21,23 +21,31 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_t;&c_r;&c_a;</trd>
+  <trd lng="cs">sútra</trd>
   <trd lng="de">Sutra</trd>
   <trd lng="en">sutra</trd>
   <trdgrp lng="fr">
     <trd>soutra</trd>,
     <trd>sutra</trd>
   </trdgrp>
-  <trd lng="pt">sutra</trd>
   <trd lng="hu">szutra</trd>
   <trdgrp lng="it">
     <trd>sutra</trd>
   </trdgrp>
   <trd lng="nl">soetra</trd>
+  <trd lng="pt">sutra</trd>
   <trd lng="ru">&c_s;&c_u;&c_t;&c_r;&c_a;</trd>
+  <trd lng="sk">sutra</trd>
 </drv>
 </art>
 <!--
 $Log: sutr.xml,v $
+Revision 1.13  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:25  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2009/10/12 16:30:47  revo
 Russ Williams: +trd en
 

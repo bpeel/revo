@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sugest.xml,v 1.19 2013/04/05 19:10:10 revo Exp $">
+  <art mrk="$Id: sugest.xml,v 1.21 2015/07/04 08:37:44 revo Exp $">
     <kap>
       <ofc>9</ofc><rad>sugest</rad>/i
       <fnt>B</fnt>
@@ -341,30 +341,51 @@ kemia&jcirc;oj)
 <trd>&c_v;&c_y;&c_s;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
 	</trdgrp>
       </snc>
-      <trd lng="bg">&c_v;&c_n;&c_u;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
-      <trd lng="de">Vorschlag</trd>
-      <trd lng="en">suggestion</trd>
-      <trd lng="es">sugerencia</trd>
-      <trdgrp lng="fr">
+  <trd lng="bg">&c_v;&c_n;&c_u;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="ca">suggesti&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>námět</trd>,
+    <trd>návrh</trd>,
+    <trd>podnět</trd>,
+    <trd>popud</trd>,
+    <trd>rada</trd>,
+    <trd>sugestivní vliv</trd>
+  </trdgrp>
+  <trd lng="de">Vorschlag</trd>
+  <trd lng="en">suggestion</trd>
+  <trd lng="es">sugerencia</trd>
+  <trdgrp lng="fr">
 	<trd>suggestion</trd>
       </trdgrp>
-      <trdgrp lng="hu">
+  <trdgrp lng="hu">
         <trd>sugallat</trd>,
         <trd>javaslat</trd>,
         <trd>ind&iacute;tv&aacute;ny</trd>,
         <trd>tan&aacute;cs</trd>
       </trdgrp>
-      <trd lng="ca">suggesti&oacute;</trd>
-      <trdgrp lng="nl">
+  <trdgrp lng="nl">
         <trd>voorstel</trd>,
         <trd>suggestie</trd>
       </trdgrp>
-      <trd lng="oc">suggestion</trd>
-      <trd lng="pt">sugest&atilde;o</trd>    
-    </drv>
+  <trd lng="oc">suggestion</trd>
+  <trd lng="pt">sugest&atilde;o</trd>
+  <trdgrp lng="sk">
+    <trd>námet</trd>,
+    <trd>návrh</trd>,
+    <trd>podnet</trd>,
+    <trd>popud</trd>,
+    <trd>sugestívny vplyv</trd>
+  </trdgrp>
+</drv>
   </art>
   <!--
   $Log: sugest.xml,v $
+  Revision 1.21  2015/07/04 08:37:44  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.20  2015/06/29 16:33:24  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.19  2013/04/05 19:10:10  revo
   Sebastian Cyprych: +trd pl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aloj.xml,v 1.20 2014/09/24 08:10:21 revo Exp $">
+<art mrk="$Id: aloj.xml,v 1.22 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>aloj</rad>/o
 </kap>
@@ -34,6 +34,8 @@
   <trd lng="pt">liga</trd>
   <trd lng="ru">&c_s;&c_p;&c_l;&c_a;&c_v;</trd>
   <trd lng="sk">zliatina</trd>
+  <trd lng="sk">ligatúra</trd>
+  <trd lng="cs">ligatura</trd>
 </drv>
 
 <drv mrk="aloj.0i">
@@ -52,6 +54,11 @@
     <trd>&c_p;&c_r;&c_a;&c_v;&c_ja; <ind>&c_s;&c_p;&c_l;&c_a;&c_v;</ind></trd>,
     <trd>&c_s;&c_m;&c_je;&c_s;&c_v;&c_a;&c_m;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>legovat</trd>,
+    <trd>mísit kovy</trd>,
+    <trd>slévat</trd>
+  </trdgrp>
   <trd lng="de">legieren</trd>
   <trd lng="en">alloy</trd>
   <trd lng="es">alear</trd>
@@ -63,10 +70,21 @@
   </trdgrp>
   <trd lng="ru">&c_s;&c_p;&c_l;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol; <klr
   tip="amb">(&c_m;&c_je;&c_t;&c_a;&c_l;&c_l;&c_y;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>legovať</trd>,
+    <trd>miešať kovy</trd>,
+    <trd>zlievať</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: aloj.xml,v $
+Revision 1.22  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2014/09/24 08:10:21  revo
 Sebastian Cyprych: +trd pl
 

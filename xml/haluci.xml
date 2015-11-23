@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: haluci.xml,v 1.19 2011/12/16 17:10:13 revo Exp $">
+<art mrk="$Id: haluci.xml,v 1.21 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>halucin</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -129,10 +129,17 @@
   <trd lng="be">&c_v;&c_y;&c_k;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_mol;
   <ind>&c_g;&c_a;&c_l;&c_ju;&c_c;&c_y;&c_n;&c_a;&c_c;&c_y;&c_ib;</ind>
   </trd>
+  <trdgrp lng="cs">
+    <trd>mít halucinace</trd>,
+    <trd>mít přeludy</trd>,
+    <trd>podléhat halucinacím</trd>,
+    <trd>upadat do halucinací</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Halluzinationen hervorrufen</trd>,
     <trd>Sinnest&auml;uschungen verursachen</trd>
   </trdgrp>
+  <trd lng="es">alucinar (a alguien)</trd>
   <trd lng="fr">halluciner<klr tip="ind"> (tr.)</klr></trd>
   <trdgrp lng="hu">
     <trd>&eacute;rz&eacute;kcsal&oacute;d&aacute;st okoz vkinek</trd>,
@@ -151,7 +158,7 @@
     <trd>desvairar</trd>
   </trdgrp>
   <trd lng="ru">&c_v;&c_y;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol; <ind>&c_g;&c_a;&c_l;&c_l;&c_ju;&c_c;&c_i;&c_n;&c_a;&c_c;&c_i;&c_i;</ind></trd>
-  <trd lng="es">alucinar (a alguien)</trd>
+  <trd lng="sk">halucinovať</trd>
 </drv>
 
 <drv mrk="haluci.0igxi">
@@ -195,6 +202,12 @@
 </art>
 <!--
 $Log: haluci.xml,v $
+Revision 1.21  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2011/12/16 17:10:13  revo
 Eduardo Navas: +trad es
 

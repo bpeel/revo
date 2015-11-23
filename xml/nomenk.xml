@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nomenk.xml,v 1.17 2010/02/02 17:30:21 revo Exp $">
+<art mrk="$Id: nomenk.xml,v 1.19 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <rad>nomenklatur</rad>/o
   <fnt>Z</fnt>
@@ -22,6 +22,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_m;&c_e;&c_n;&c_k;&c_l;&c_ja;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>nomenklatura</trd>,
+    <trd>odborné názvosloví</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Nomenklatur</trd>,
     <trd>Benennungssystem</trd>,
@@ -41,6 +45,10 @@
   <trd lng="nl">nomenclatuur</trd>
   <trd lng="pt">nomenclatura</trd>
   <trd lng="ru">&c_n;&c_o;&c_m;&c_je;&c_n;&c_k;&c_l;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>nomenklatúra</trd>,
+    <trd>odborné názvoslovie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nomenk.0o.NBN">
@@ -74,6 +82,12 @@
 </art>
 <!--
 $Log: nomenk.xml,v $
+Revision 1.19  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2010/02/02 17:30:21  revo
 Antonio Codazzi: +trd it
 

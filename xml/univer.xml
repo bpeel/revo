@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: univer.xml,v 1.28 2014/02/07 19:10:13 revo Exp $">
+<art mrk="$Id: univer.xml,v 1.30 2015/07/04 08:37:45 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>univers</rad>/o <fnt><bib>PV</bib></fnt>
@@ -27,32 +27,36 @@
        </ekz>
      </dif>
    </snc>
-   <trd lng="be">&c_s;&c_u;&c_s;&c_mol;&c_v;&c_je;&c_t;</trd>
-   <trd lng="ca">univers</trd>
-   <trd lng="br">hollved</trd>
-   <trd lng="de">Universum</trd>
-   <trd lng="el">&sigma;&ypsilon_ton;&my;&pi;&alfa;&ny;</trd>
-   <trd lng="en">universe</trd>
-   <trd lng="es">universo</trd>
-   <trdgrp lng="fi">
+  <trd lng="be">&c_s;&c_u;&c_s;&c_mol;&c_v;&c_je;&c_t;</trd>
+  <trd lng="br">hollved</trd>
+  <trd lng="ca">univers</trd>
+  <trd lng="cs">vesmír</trd>
+  <trd lng="de">Universum</trd>
+  <trd lng="el">&sigma;&ypsilon_ton;&my;&pi;&alfa;&ny;</trd>
+  <trd lng="en">universe</trd>
+  <trd lng="es">universo</trd>
+  <trdgrp lng="fi">
      <trd>maailmankaikkeus</trd>,
      <trd>universumi</trd>
    </trdgrp>
-   <trd lng="fr">univers</trd>
-   <trdgrp lng="hu">
+  <trd lng="fr">univers</trd>
+  <trdgrp lng="hu">
      <trd>vil&aacute;gegyetem</trd>,
      <trd>univerzum</trd>
    </trdgrp>
-   <trd lng="it">universo</trd>
-   <trd lng="nl">heelal</trd>
-   <trd lng="pt">universo</trd>
-   <trd lng="ru">&c_v;&c_s;&c_je;&c_l;&c_je;&c_n;&c_n;&c_a;&c_ja;</trd>
-   <trd lng="sv">universum</trd>
-    <trdgrp lng="tp">
+  <trd lng="it">universo</trd>
+  <trd lng="nl">heelal</trd>
+  <trd lng="pt">universo</trd>
+  <trd lng="ru">&c_v;&c_s;&c_je;&c_l;&c_je;&c_n;&c_n;&c_a;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>univerzum</trd>,
+    <trd>vesm&iacute;r</trd>
+  </trdgrp>
+  <trd lng="sv">universum</trd>
+  <trdgrp lng="tp">
       <trd>ale</trd>,
       <trd>ali</trd>
     </trdgrp>
-   <trd lng="sk">vesm&iacute;r</trd>
 </drv>
 
 <drv mrk="univer.0a">
@@ -67,30 +71,31 @@
        </ekz>
      </dif>
    </snc>
-   <trd lng="be">&c_s;&c_u;&c_s;&c_mol;&c_v;&c_je;&c_t;&c_n;&c_y;</trd>
-   <trd lng="br">hollvedel</trd>
-   <trd lng="ca">universal</trd>
-   <trd lng="en">universal</trd>
-   <trd lng="es">universal</trd>
-   <trdgrp lng="fi">
+  <trd lng="be">&c_s;&c_u;&c_s;&c_mol;&c_v;&c_je;&c_t;&c_n;&c_y;</trd>
+  <trd lng="br">hollvedel</trd>
+  <trd lng="ca">universal</trd>
+  <trd lng="cs">vesmírný</trd>
+  <trd lng="en">universal</trd>
+  <trd lng="es">universal</trd>
+  <trdgrp lng="fi">
      <trd>universumin</trd>,
      <trd>kosminen</trd>
    </trdgrp>
-   <trdgrp lng="fr">
+  <trdgrp lng="fr">
      <trd>cosmique</trd>,
      <trd>universel<klr> (cosmique)</klr></trd>
    </trdgrp>
-   <trd lng="hu">&udblac;r-</trd>
-   <trdgrp lng="it">
+  <trd lng="hu">&udblac;r-</trd>
+  <trdgrp lng="it">
      <trd>universale<klr> (cosmico)</klr></trd>,
      <trd>cosmico</trd>
    </trdgrp>
-   <trd lng="pt">universal</trd>
-   <trdgrp lng="sk">
+  <trd lng="pt">universal</trd>
+  <trdgrp lng="sk">
      <trd>kozmick&yacute;</trd>,
      <trd>vesm&iacute;rny</trd>
    </trdgrp>
-   <trdgrp lng="tp">
+  <trdgrp lng="tp">
      <trd>ale</trd>,
      <trd>ali</trd>
    </trdgrp>
@@ -125,6 +130,12 @@
 </art>
 <!--
 $Log: univer.xml,v $
+Revision 1.30  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.28  2014/02/07 19:10:13  revo
 Damien Brucker: -eraro cxe ref
 

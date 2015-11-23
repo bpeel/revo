@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tabak.xml,v 1.26 2013/03/21 20:10:48 revo Exp $">
+<art mrk="$Id: tabak.xml,v 1.28 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tabak</rad>/o <fnt><bib>PV</bib></fnt>
@@ -34,20 +34,21 @@
   <trd lng="bg">&c_t;&c_ju;&c_t;&c_ju;&c_n;</trd>
   <trd lng="br">butun</trd>
   <trd lng="ca">tabac</trd>
+  <trd lng="cs">tabák</trd>
   <trd lng="de">Tabak</trd>
   <trd lng="en">tobacco</trd>
   <trd lng="fr">tabac</trd>
   <trd lng="hu">doh&aacute;ny</trd>
+  <trd lng="it">tabacco</trd>
   <trd lng="nl">tabak</trd>
-  <trd lng="sv">tobak</trd>
   <trdgrp lng="pt">
     <trd>tabaco</trd>,
     <trd>fumno</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_a;&c_b;&c_a;&c_k;</trd>
-  <trd lng="tr">t&uuml;t&uuml;n</trd>
   <trd lng="sk">tabak</trd>
-  <trd lng="it">tabacco</trd>
+  <trd lng="sv">tobak</trd>
+  <trd lng="tr">t&uuml;t&uuml;n</trd>
 </drv>
 
 <drv mrk="tabak.0ujo">
@@ -65,9 +66,11 @@
     </dif>
   </snc>
   <trd lng="ca">tabaquera</trd>
+  <trd lng="cs">tabatěrka</trd>
   <trd lng="fr">tabati&egrave;re</trd>
-  <trd lng="pl">tabakierka</trd>
   <trd lng="it">tabacchiera</trd>
+  <trd lng="pl">tabakierka</trd>
+  <trd lng="sk">tabatierka <klr>(na tabak)</klr></trd>
 </drv>
 
 <drv mrk="tabak.flar0o">
@@ -90,16 +93,18 @@
     <trd><ind>tabac</ind> d'ensumar</trd>,
     <trd>rap&eacute;</trd>
   </trdgrp>
+  <trd lng="cs">šňupavý tabák</trd>
   <trd lng="de">Schnupftabak</trd>
   <trd lng="fr">tabac &agrave; priser</trd>
   <trdgrp lng="hu">
     <trd>burn&oacute;t</trd>,
     <trd>tub&aacute;k</trd>
   </trdgrp>
+  <trd lng="it">tabacco da naso</trd>
   <trd lng="nl">snuiftabak</trd>
   <trd lng="pl">tabaka</trd>
-  <trd lng="it">tabacco da naso</trd>
   <trd lng="ru">&c_n;&c_ju;&c_h;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_t;&c_a;&c_b;&c_a;&c_k;</trd>
+  <trd lng="sk">šnupavý tabak</trd>
 </drv>
 
 <drv mrk="tabak.fum0o">
@@ -112,10 +117,12 @@
     </dif>
   </snc>
   <trd lng="ca"><ind>tabac</ind> de fumar</trd>
+  <trd lng="cs">kuřácký tabák</trd>
   <trd lng="fr">tabac &agrave; fumer</trd>
   <trd lng="hu">f&uuml;stdoh&aacute;ny</trd>
-  <trd lng="pl">tyto&nacute;</trd>
   <trd lng="it">trinciato <klr>(tabacco)</klr></trd>
+  <trd lng="pl">tyto&nacute;</trd>
+  <trd lng="sk">fajčiarsky tabak</trd>
 </drv>
 
 <drv mrk="tabak.macx0o">
@@ -136,6 +143,12 @@
 </art>
 <!--
 $Log: tabak.xml,v $
+Revision 1.28  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2013/03/21 20:10:48  revo
 Dmitri Gabinski: redakto: +trd be
 

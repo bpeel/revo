@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vand.xml,v 1.17 2011/12/07 00:10:21 revo Exp $">
+<art mrk="$Id: vand.xml,v 1.18 2015/05/08 22:10:15 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>vand</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -87,6 +87,7 @@
     <trd>&a_j;&a_d;&a_A;&a_r;</trd>
   </trdgrp>
   <trdgrp lng="fr">
+    <trd>cloison</trd>,
     <trd>paroi</trd>
   </trdgrp>
   <trdgrp lng="hu">
@@ -102,6 +103,9 @@
 </art>
 <!--
 $Log: vand.xml,v $
+Revision 1.18  2015/05/08 22:10:15  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.17  2011/12/07 00:10:21  revo
 Marc Rausell: kataluna traduko
 
@@ -121,8 +125,5 @@ Revision 1.12 2005/05/17 16:32:45 revo
 Luiz Portella: +trd pt
 
 Revision 1.11 2005/01/18 17:31:16 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10 2002/07/18 11:23:51 revo
 -->
 </vortaro>

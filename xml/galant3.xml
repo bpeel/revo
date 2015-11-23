@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: galant3.xml,v 1.14 2012/01/02 10:10:13 revo Exp $">
+<art mrk="$Id: galant3.xml,v 1.16 2015/07/04 08:37:34 revo Exp $">
 <kap><ofc>2</ofc>
 <rad>galantin</rad>/o</kap>
 <drv mrk="galant3.0o">
@@ -15,6 +15,7 @@
     </dif>
   </snc>
   <trd lng="ca">galantina</trd>
+  <trd lng="cs">galantina</trd>
   <trd lng="de">Galantine</trd>
   <trd lng="el">&pi;&eta;&chi;&tau;&eta_ton;</trd>
   <trd lng="en">gallantine</trd>
@@ -28,10 +29,17 @@
     <trd>&c_z;&c_a;&c_l;&c_i;&c_v;&c_n;&c_o;&c_je;</trd>,
     <trd>&c_h;&c_o;&c_l;&c_o;&c_d;&c_je;&c_c;</trd>
   </trdgrp>
+  <trd lng="sk">huspenina</trd>
 </drv>
 </art>
 <!--
 $Log: galant3.xml,v $
+Revision 1.16  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2012/01/02 10:10:13  revo
 Marc Rausell: +trd ca
 

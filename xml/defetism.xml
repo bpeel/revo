@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: defetism.xml,v 1.5 2009/04/30 16:30:40 revo Exp $">
+<art mrk="$Id: defetism.xml,v 1.7 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>defetism</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -30,15 +30,28 @@
     &c_s;&c_ib;&c_l;&c_y;</trd>
   </trdgrp>
   <trd lng="ca">derrotisme</trd>
+  <trdgrp lng="cs">
+    <trd>defétizmus</trd>,
+    <trd>malodušnost</trd>,
+    <trd>nevíra v úspěch</trd>,
+    <trd>poraženectví</trd>
+  </trdgrp>
   <trd lng="es">derrotismo</trd>
   <trd lng="fr">d&eacute;faitisme</trd>
   <trd lng="pl">defetyzm</trd>
   <trd lng="pt">derrotismo</trd>
+  <trd lng="sk">neviera v úspech</trd>
 </drv>
 </art>
 
 <!--
 $Log: defetism.xml,v $
+Revision 1.7  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2009/04/30 16:30:40  revo
 Sebastian Cyprych: +trd pl
 

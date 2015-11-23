@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: estrad.xml,v 1.15 2013/09/09 09:10:11 revo Exp $">
+<art mrk="$Id: estrad.xml,v 1.17 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>estrad</rad>/o
@@ -24,6 +24,10 @@
   <trdgrp lng="bg">
     <trd>&c_je;&c_s;&c_t;&c_r;&c_a;&c_d;&c_a;</trd>,
     <trd>&c_p;&c_o;&c_d;&c_i;&c_u;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>estráda</trd>,
+    <trd>pódium</trd>
   </trdgrp>
   <trdgrp lng="de">
      <trd>Estrade</trd>,
@@ -49,10 +53,20 @@
     <trd>&c_e;&c_s;&c_t;&c_r;&c_a;&c_d;&c_a;</trd>,
     <trd>&c_p;&c_o;&c_d;&c_m;&c_o;&c_s;&c_t;&c_k;&c_i;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vedenie</trd>,
+    <trd>velenie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: estrad.xml,v $
+Revision 1.17  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/09/09 09:10:11  revo
 Joop Eggen: +trd bg nl
 

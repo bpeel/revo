@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: framas.xml,v 1.14 2011/11/21 23:10:10 revo Exp $">
+<art mrk="$Id: framas.xml,v 1.16 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>framason</rad>/o
@@ -65,12 +65,18 @@
     <trd>ma&ccedil;&oacute;</trd>,
     <trd>francma&ccedil;&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>frajmaer</trd>,
+    <trd>frajmaur</trd>,
+    <trd>mason</trd>,
+    <trd>svobodný zednář</trd>
+  </trdgrp>
   <trd lng="de">Freimaurer</trd>
   <trd lng="en">freemason</trd>
   <trdgrp lng="fr">
     <trd>franc-ma&ccedil;on</trd>,
     <trd>ma&ccedil;on<klr tip="ind"> (franc-ma&ccedil;on)</klr></trd></trdgrp>
-  <trd lng="hu">szabadk&odblac;m&udblac;ves</trd> 
+  <trd lng="hu">szabadk&odblac;m&udblac;ves</trd>
   <trd lng="nl">vrijmetselaar</trd>
   <trdgrp lng="pt">
     <trd>franco-ma&ccedil;om</trd>,
@@ -80,10 +86,17 @@
     <trd>pedreiro-livre</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_a;&c_s;&c_o;&c_n;</trd>
+  <trd lng="sk">slobodomurár</trd>
 </drv>
 </art>
 <!--
 $Log: framas.xml,v $
+Revision 1.16  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2011/11/21 23:10:10  revo
 Marc Rausell: kataluna traduko
 

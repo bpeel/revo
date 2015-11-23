@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sekc.xml,v 1.31 2010/01/18 17:30:54 revo Exp $">
+<art mrk="$Id: sekc.xml,v 1.33 2015/07/04 08:37:43 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>sekc</rad>/i <fnt><bib>PV</bib></fnt>
@@ -65,9 +65,18 @@
     <trd lng="pl">przecina&cacute;</trd>
     <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_s;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>pitvat</trd>,
+    <trd>řezat</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_s;&c_s;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_s;&c_je;&c_ch;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>deliť</trd>,
+    <trd>pretínať</trd>,
+    <trd>robiť prierez</trd>
   </trdgrp>
 </drv>
 
@@ -110,14 +119,25 @@
     <trd lng="it">sezione<klr> (geom.)</klr></trd>
     <trd lng="pl">przekr&oacute;j</trd>
   </snc>
-  <trd lng="nl">sectie</trd>
+  <trdgrp lng="cs">
+    <trd>autopsie</trd>,
+    <trd>obdukce</trd>,
+    <trd>pitva</trd>,
+    <trd>sekce</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>section<klr tip="ind"> (dessein en coupe,
     intersection)</klr></trd>,
     <trd>coupe<klr tip="ind"> (dessein)</klr></trd>
   </trdgrp>
   <trd lng="hu">metszet</trd>
+  <trd lng="nl">sectie</trd>
   <trd lng="ru">&c_s;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>plocha rezu</trd>,
+    <trd>prierez</trd>,
+    <trd>rez</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sekc.0anto">
@@ -143,6 +163,10 @@
       nocion, sed sub formo <ctl>secanto</ctl>.
     </rim>
   </snc>
+  <trdgrp lng="cs">
+    <trd>sekanta</trd>,
+    <trd>sečna</trd>
+  </trdgrp>
   <trd lng="de">Sekante</trd>
   <trd lng="en">secant<klr tip="ind"> (line)</klr></trd>
   <trd lng="fr">s&eacute;cante<klr tip="ind"> (droite)</klr></trd>
@@ -151,6 +175,7 @@
   <trd lng="pl">sieczna</trd>
   <trd lng="ru">&c_s;&c_je;&c_k;&c_u;&c_shch;&c_a;&c_ja;<klr tip="ind">
   (&c_p;&c_r;&c_ja;&c_m;&c_a;&c_ja;)</klr></trd>
+  <trd lng="sk">sečnica</trd>
 </drv>
 
 <drv mrk="sekc.du0i">
@@ -170,6 +195,7 @@
     </dif>
     <ref tip="sin" cel="bisekc.0i">bisekci</ref>
   </snc>
+  <trd lng="cs">rozdělit na dvě části</trd>
   <trd lng="de">halbieren</trd>
   <trd lng="en">bisect</trd>
   <trd lng="fr">diviser en deux parties &eacute;gales</trd>
@@ -178,6 +204,7 @@
   <trd lng="pl">dzieli&cacute; na po&lstroke;owy</trd>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol;
 &c_p;&c_o;&c_p;&c_o;&c_l;&c_a;&c_m;</trd>
+  <trd lng="sk">rozdeliť na dve časti</trd>
 </drv>
 
 <drv mrk="sekc.du0anto">
@@ -228,6 +255,8 @@
 <trd>&c_r;&c_a;&c_v;&c_n;&c_o;&c_d;&c_je;&c_l;&c_ja;&c_shch;&c_a;&c_ja;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">půlící přímka</trd>
+  <trd lng="sk">poliaca priamka</trd>
 </drv>
 
 <drv mrk="sekc.inter0isin">
@@ -297,10 +326,18 @@ netransitivan
 
 lng="ru">&c_p;&c_je;&c_r;&c_je;&c_s;&c_je;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </snc>
+  <trd lng="cs">protínat se</trd>
+  <trd lng="sk">pretínať sa</trd>
 </drv>
 </art>
 <!--
 $Log: sekc.xml,v $
+Revision 1.33  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.31  2010/01/18 17:30:54  revo
 Wieland Pusch: svg -> gif
 

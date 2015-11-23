@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pian.xml,v 1.22 2014/10/26 03:10:22 revo Exp $">
+<art mrk="$Id: pian.xml,v 1.24 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>pian</rad>/o
@@ -28,6 +28,11 @@
     </refgrp>  </snc>
   <trd lng="be">&c_p;&c_ib;&c_ja;&c_n;&c_ib;&c_n;&c_a;</trd>
   <trd lng="ca">piano</trd>
+  <trdgrp lng="cs">
+    <trd>klavír</trd>,
+    <trd>piano</trd>,
+    <trd>pianoforte</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Klavier</trd>,
     <trd>Piano</trd>
@@ -37,9 +42,8 @@
     <trd>upright piano</trd>
   </trdgrp>
   <trd lng="es">piano</trd>
-  <trd lng="fr">piano</trd>
+  <trd lng="fr">piano</trd><trd lng="fr">piano</trd>
   <trd lng="hu">pian&iacute;n&oacute;</trd>
-  <trd lng="fr">piano</trd>
   <trd lng="id">piano</trd>
   <trd lng="it">pianoforte<klr> verticale</klr></trd>
   <trd lng="nl">piano</trd>
@@ -49,11 +53,18 @@
     <trd>piano vertical</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_i;&c_a;&c_n;&c_i;&c_n;&c_o;</trd>
+  <trd lng="sk">klavír</trd>
   <trd lng="sv">piano</trd>
 </drv>
 </art>
 <!--
 $Log: pian.xml,v $
+Revision 1.24  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/10/26 03:10:22  revo
 Eko Nur Syah Hidayat: +trd id
 

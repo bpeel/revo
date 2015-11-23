@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bandoni.xml,v 1.8 2013/09/08 18:10:31 revo Exp $">
+<art mrk="$Id: bandoni.xml,v 1.10 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <rad>bandoni</rad>/o <fnt><bib>NeoGlo</bib></fnt>
 </kap>
@@ -20,6 +20,12 @@
       populara en sudamerika muziko.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bandoneon</trd>,
+    <trd>bandonika</trd>,
+    <trd>bandonion</trd>,
+    <trd>bandonium</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Bandoneon</trd>,
     <trd>Bandonion</trd>
@@ -35,11 +41,18 @@
     <trd>bandonion</trd>
   </trdgrp>
   <trd lng="ru">&c_b;&c_a;&c_n;&c_d;&c_o;&c_n;&c_je;&c_o;&c_n;</trd>
+  <trd lng="sk">bandonion</trd>
 </drv>
 </art>
 
 <!--
 $Log: bandoni.xml,v $
+Revision 1.10  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2013/09/08 18:10:31  revo
 Wolfram Diestel: ref al listo blovinstrumentoj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aceton.xml,v 1.20 2012/08/22 16:10:14 revo Exp $">
+<art mrk="$Id: aceton.xml,v 1.22 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <rad>aceton</rad>/o
 </kap>
@@ -29,6 +29,10 @@
     <trd>2-propanona</trd>,
     <trd>dimetilcetona</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>aceton</trd>,
+    <trd>propanon</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Azeton</trd>,
     <trd>Propanon</trd>
@@ -48,7 +52,10 @@
   <trd lng="pl">aceton</trd>
   <trd lng="pt">acetona</trd>
   <trd lng="ru">&c_a;&c_c;&c_je;&c_t;&c_o;&c_n;</trd>
-  <trd lng="sk">acet&oacute;n</trd>
+  <trdgrp lng="sk">
+    <trd>acet&oacute;n</trd>,
+    <trd>acetón</trd>
+  </trdgrp>
   <trdgrp lng="sv">
     <trd>aceton</trd>,
     <trd>propanon</trd>,
@@ -58,6 +65,12 @@
 </art>
 <!--
 $Log: aceton.xml,v $
+Revision 1.22  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 09:53:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2012/08/22 16:10:14  revo
 Marc Rausell: + trd ca
 

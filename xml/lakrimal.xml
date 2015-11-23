@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lakrimal.xml,v 1.10 2012/01/02 18:10:35 revo Exp $">
+<art mrk="$Id: lakrimal.xml,v 1.12 2015/07/04 08:37:38 revo Exp $">
 <kap><rad>lakrimal</rad>/o</kap>
 <drv mrk="lakrimal.0o">
   <kap><tld/>o</kap>
@@ -16,6 +16,7 @@
     </dif>
   </snc>
   <trd lng="ca">unguis</trd>
+  <trd lng="cs">slzná kost</trd>
   <trd lng="de">Tr&auml;nenbein</trd>
   <trd lng="es">hueso <ind>lagrimal</ind></trd>
   <trd lng="hu">k&ouml;nnycsont</trd>
@@ -27,10 +28,17 @@
     <trd>&uacute;ngui</trd>,
     <trd>lacrimal <klr tip="amb">(subst., anat.)</klr></trd>
   </trdgrp>
+  <trd lng="sk">slzná kosť</trd>
 </drv>
 </art>
 <!--
 $Log: lakrimal.xml,v $
+Revision 1.12  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2012/01/02 18:10:35  revo
 Marc Rausell: +trd ca
 

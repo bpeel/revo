@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: katar.xml,v 1.19 2013/12/14 02:10:11 revo Exp $">
+<art mrk="$Id: katar.xml,v 1.22 2015/10/26 12:11:57 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>katar</rad>/o <fnt><bib>PV</bib></fnt>
@@ -28,11 +28,15 @@
     <trd>&c_k;&c_a;&c_t;&c_a;&c_r;</trd>,
     <trd>&c_k;&c_a;&c_t;&c_a;&c_r;&c_a;&c_l;&c_n;&c_o; &c_v;&c_malmol;&c_z;&c_p;&c_a;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>katar</trd>,
+    <trd>z&aacute;n&ecaron;t sliznice</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Katarrh</trd>,
     <trd>Schleimhautentz&uuml;ndung</trd>
   </trdgrp>
-  <trd lng="en">cattarh</trd>
+  <trd lng="en">catarrh</trd>
   <trd lng="es">catarro</trd>
   <trd lng="fa">&a_A_madda;&a_b;&a_r;&f_y;&a_z;&a_sh;</trd>
   <trd lng="fr">catarrhe<klr tip="ind"> (de muqueuse)</klr></trd>
@@ -41,6 +45,10 @@
   <trdgrp lng="ru">
     <trd>&c_k;&c_a;&c_t;&c_a;&c_r;</trd>,
     <trd>&c_v;&c_o;&c_s;&c_p;&c_a;&c_l;&c_je;&c_n;&c_i;&c_je; &c_s;&c_l;&c_i;&c_z;&c_i;&c_s;&c_t;&c_o;&c_j; &c_o;&c_b;&c_o;&c_l;&c_o;&c_ch;&c_k;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>katar</trd>,
+    <trd>z&aacute;pal sliznice</trd>
   </trdgrp>
 </drv>
 
@@ -58,8 +66,12 @@
     <trd>&c_n;&c_a;&c_s;&c_m;&c_a;&c_r;&c_g;&c_a;</trd>
   </trdgrp>
   <trd lng="bg">&c_h;&c_r;&c_je;&c_m;&c_a;</trd>
-  <trd lng="br">friad<klr tip="ind"> (kle&ntilde;ved)</klr></trd> 
+  <trd lng="br">friad<klr tip="ind"> (kle&ntilde;ved)</klr></trd>
   <trd lng="ca">rinitis</trd>
+  <trdgrp lng="cs">
+    <trd>katar nosn&iacute; sliznice</trd>,
+    <trd>r&yacute;ma</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Schnupfen</trd>
   </trdgrp>
@@ -71,14 +83,27 @@
     <trd>coryza</trd>,    
     <trd>rhinite</trd>, 
     <trd>rhume de cerveau</trd>
-  </trdgrp> 
+  </trdgrp>
   <trd lng="hu">n&aacute;tha</trd>
   <trd lng="nl">verkoudheid</trd>
   <trd lng="ru">&c_n;&c_a;&c_s;&c_m;&c_o;&c_r;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>katar nosnej sliznice</trd>,
+    <trd>n&aacute;dcha</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: katar.xml,v $
+Revision 1.22  2015/10/26 12:11:57  revo
+Cindy Moon McKee: -tajperaro en
+
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/12/14 02:10:11  revo
 Jeromo Vasxe: + kk trd
 
@@ -92,14 +117,5 @@ Revision 1.16  2009/08/25 16:33:50  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.15  2008/01/14 18:06:56  revo
-Wieland Pusch: +trd bg
-
-Revision 1.14  2006/10/01 16:30:36  revo
-Wieland Pusch: +trd de
-
-Revision 1.13  2005/04/26 16:32:24  revo
-Raul Salinas Monteagudo: +trd es
-
-Revision 1.12  2004/12/13 17:31:31  revo
 -->
 </vortaro>

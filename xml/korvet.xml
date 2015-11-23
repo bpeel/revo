@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korvet.xml,v 1.17 2013/08/17 01:10:14 revo Exp $">
+<art mrk="$Id: korvet.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>korvet</rad>/o
@@ -34,6 +34,10 @@
   <trd lng="be">&c_k;&c_a;&c_r;&c_v;&c_e;&c_t;</trd>
   <trd lng="bg">&c_k;&c_o;&c_r;&c_v;&c_je;&c_t;&c_a;</trd>
   <trd lng="ca">corbeta</trd>
+  <trdgrp lng="cs">
+    <trd>kavka</trd>,
+    <trd>kavka obecná</trd>
+  </trdgrp>
   <trd lng="de">Korvette</trd>
   <trd lng="en">corvette</trd>
   <trd lng="es">corbeta</trd>
@@ -48,10 +52,17 @@
   <trd lng="nl">korvet</trd>
   <trd lng="pt">corveta <klr tip="amb">(&ecirc;)</klr></trd>
   <trd lng="ru">&c_k;&c_o;&c_r;&c_v;&c_je;&c_t;</trd>
+  <trd lng="sk">ľahká vojenská plachetnica</trd>
 </drv>
 </art>
 <!--
 $Log: korvet.xml,v $
+Revision 1.19  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/08/17 01:10:14  revo
 Joop Eggen: +trd nl
 

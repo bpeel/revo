@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: golf.xml,v 1.22 2014/06/11 17:10:15 revo Exp $">
+<art mrk="$Id: golf.xml,v 1.24 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>golf</rad>/o <fnt><bib>PV</bib></fnt>
@@ -42,6 +42,11 @@
   <trd lng="ru">&c_z;&c_a;&c_l;&c_i;&c_v;</trd>
   <trd lng="pt">golfo</trd>
   <trd lng="tr">k&ouml;rfez</trd>
+  <trdgrp lng="sk">
+    <trd>záliv</trd>,
+    <trd>zátoka</trd>
+  </trdgrp>
+  <trd lng="cs">záliv</trd>
 </drv>
 
 <drv mrk="golf.0eto">
@@ -58,10 +63,11 @@
   </snc>
   <trd lng="be">&c_b;&c_u;&c_h;&c_t;&c_a;</trd>
   <trd lng="ca">badia</trd>
+  <trd lng="cs">minigolf</trd>
   <trd lng="de">Bucht</trd>
   <trd lng="en">bay</trd>
-  <trd lng="fr">baie</trd>
   <trd lng="es">bah&iacute;a</trd>
+  <trd lng="fr">baie</trd>
   <trd lng="hu">&ouml;b&ouml;l<klr tip="ind"> (kisebb)</klr></trd>
   <trd lng="id">teluk</trd>
   <trdgrp lng="pt">
@@ -69,10 +75,17 @@
      <trd>enseada</trd>
   </trdgrp>
   <trd lng="ru">&c_b;&c_u;&c_h;&c_t;&c_a;</trd>
+  <trd lng="sk">minigolf</trd>
 </drv>
 </art>
 <!--
 $Log: golf.xml,v $
+Revision 1.24  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/06/11 17:10:15  revo
 Eko Nur Syah Hidayat: +id
 

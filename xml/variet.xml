@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: variet.xml,v 1.14 2014/01/08 15:10:15 revo Exp $">
+<art mrk="$Id: variet.xml,v 1.16 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <rad>variete</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -27,6 +27,7 @@
   <trd lng="be">&c_v;&c_a;&c_r;'&c_ja;&c_t;&c_e;</trd>
   <trd lng="bg">&c_v;&c_o;&c_d;&c_je;&c_v;&c_i;&c_l;</trd>
   <trd lng="ca">varietats</trd>
+  <trd lng="cs">varieté</trd>
   <trdgrp lng="de">
     <trd>Variet&eacute;</trd>,
     <trd>Variet&eacute;programm</trd>
@@ -36,16 +37,23 @@
     <trd><ind>vari&eacute;t&eacute;</ind>s</trd>,
     <trd>spectacle de <ind>vari&eacute;t&eacute;</ind>s</trd>
   </trdgrp>
-  <trd lng="hu">variet&eacute;</trd>  
+  <trd lng="hu">variet&eacute;</trd>
   <trd lng="nl">variet&eacute;</trd>
   <trdgrp lng="pt">
    <trd>variedades</trd>
   </trdgrp>
   <trd lng="ru">&c_v;&c_a;&c_r;&c_mol;&c_je;&c_t;&c_je;</trd>
+  <trd lng="sk">varieté</trd>
 </drv>
 </art>
 <!--
 $Log: variet.xml,v $
+Revision 1.16  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2014/01/08 15:10:15  revo
 Joop Eggen: +trd bg
 

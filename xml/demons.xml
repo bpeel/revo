@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: demons.xml,v 1.24 2013/07/23 13:10:11 revo Exp $">
+  <art mrk="$Id: demons.xml,v 1.26 2015/07/04 08:37:32 revo Exp $">
     <kap>
       <rad>demonstr</rad>/i
     </kap>
@@ -88,26 +88,28 @@
           <trd>&c_p;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;</trd>
         </trdgrp>
       </snc>
-      <trdgrp lng="be">
+  <trdgrp lng="be">
         <trd>&c_p;&c_a;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>,
         <trd>&c_d;&c_e;&c_m;&c_a;&c_n;&c_s;&c_t;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
         <trd>&c_d;&c_a;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>,
         <trd>&c_d;&c_a;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
       </trdgrp>
-      <trd lng="ca">demostrar</trd>
-      <trd lng="es">demostrar</trd> 
-      <trdgrp lng="fr">
+  <trd lng="ca">demostrar</trd>
+  <trd lng="cs">demonstrovat - vysvětlit a dokázat</trd>
+  <trd lng="es">demostrar</trd>
+  <trdgrp lng="fr">
         <trd>d&eacute;montrer</trd>,
         <trd>&eacute;tablir<klr tip="ind">
         (d&eacute;montrer)</klr></trd>
       </trdgrp>
-      <trdgrp lng="hu">
+  <trdgrp lng="hu">
         <trd>igazol</trd>,
         <trd>bizony&iacute;t</trd>
         <trd>bebizony&iacute;t</trd>
       </trdgrp>
-      <trd lng="pt">demonstrar</trd>
-    </drv>
+  <trd lng="pt">demonstrar</trd>
+  <trd lng="sk">znázorniť</trd>
+</drv>
 
     <drv mrk="demons.0o">
       <kap><tld/>o</kap>
@@ -164,10 +166,18 @@
         <trd>preuve<klr tip="ind"> (d&eacute;monstration)</klr></trd>
       </trdgrp>
       <trd lng="hu">bizony&iacute;t&aacute;s</trd>
-    </drv>
+      <trd lng="sk">názorný výklad</trd>
+  <trd lng="cs">názorný výklad</trd>
+</drv>
   </art>
   <!--
   $Log: demons.xml,v $
+  Revision 1.26  2015/07/04 08:37:32  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.25  2015/06/29 16:29:36  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.24  2013/07/23 13:10:11  revo
   Joop Eggen: +trd bg
 

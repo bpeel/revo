@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gobelin.xml,v 1.8 2012/08/19 00:10:44 revo Exp $">
+<art mrk="$Id: gobelin.xml,v 1.10 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>gobelin</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -25,10 +25,21 @@
   <trd lng="nl">gobelin</trd>
   <trd lng="pt">gobelim</trd>
   <trd lng="ru">&c_g;&c_o;&c_b;&c_je;&c_l;&c_je;&c_n;</trd>
+  <trd lng="sk">gobelín</trd>
+  <trdgrp lng="cs">
+    <trd>gobelín</trd>,
+    <trd>goblén</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: gobelin.xml,v $
+Revision 1.10  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2012/08/19 00:10:44  revo
 Marc Rausell: + trd ca
 

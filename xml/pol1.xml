@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pol1.xml,v 1.5 2014/08/21 13:10:13 revo Exp $">
+<art mrk="$Id: pol1.xml,v 1.7 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>pol</rad>/i <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -33,6 +33,7 @@
   <rim>
     Ne konfuzu kun polio (malsano).
   </rim>
+  <trd lng="sk">aproximovať</trd>
 </drv>
 
 <drv mrk="pol1.inter0i">
@@ -50,6 +51,11 @@
     <trd lng="nl">interpoleren</trd>
     <trd lng="pl">interpolowa&cacute;</trd>
   </snc>
+  <trd lng="cs">interpolovat, vsunout</trd>
+  <trdgrp lng="sk">
+    <trd>interpolovať</trd>,
+    <trd>vsunúť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pol1.ekster0i">
@@ -67,6 +73,7 @@
     <trd lng="nl">extrapoleren</trd>
     <trd lng="pl">ekstrapolowa&cacute;</trd>
   </snc>
+  <trd lng="sk">extrapolovať</trd>
 </drv>
 
 <drv mrk="pol1.ekstra0i">
@@ -91,6 +98,12 @@
 
 <!--
 $Log: pol1.xml,v $
+Revision 1.7  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2014/08/21 13:10:13  revo
 Damien Brucker: +trd fr
 

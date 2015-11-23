@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kompot.xml,v 1.14 2011/12/05 23:10:25 revo Exp $">
+<art mrk="$Id: kompot.xml,v 1.16 2015/07/04 08:37:37 revo Exp $">
 <kap>
 <ofc>2</ofc>
   <rad>kompot</rad>/o
@@ -18,6 +18,10 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_o;&c_t;</trd>
   <trd lng="ca">compota</trd>
+  <trdgrp lng="cs">
+    <trd>kompot</trd>,
+    <trd>nakládané ovoce</trd>
+  </trdgrp>
   <trd lng="de">Kompott</trd>
   <trd lng="en">compote</trd>
   <trd lng="es">compota</trd>
@@ -29,6 +33,7 @@
   <trd lng="pl">mus</trd>
   <trd lng="pt">compota</trd>
   <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_o;&c_t;</trd>
+  <trd lng="sk">kompót</trd>
   <trdgrp lng="tr">
     <trd>ho&scedil;af</trd>,
     <trd>komposto</trd>
@@ -42,6 +47,12 @@
 </art>
 <!--
 $Log: kompot.xml,v $
+Revision 1.16  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2011/12/05 23:10:25  revo
 Marc Rausell: kataluna traduko
 

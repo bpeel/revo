@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: akcept.xml,v 1.37 2014/03/04 10:10:14 revo Exp $">
+  <art mrk="$Id: akcept.xml,v 1.40 2015/09/21 14:10:16 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>akcept</rad>/i
@@ -170,7 +170,14 @@
         <trd>kabullenmek</trd>,
         <trd>kar&scedil;&inodot;lamak</trd>
       </trdgrp>
-    </drv>
+      <trdgrp lng="cs">
+    <trd>akceptovat</trd>,
+    <trd>p&rcaron;ijmout</trd>,
+    <trd>p&rcaron;iv&iacute;tat</trd>,
+    <trd>p&rcaron;&iacute;jmat</trd>,
+    <trd>uzn&aacute;vat</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="akcept.0o">
       <kap><tld/>o</kap>
@@ -236,19 +243,31 @@
           </trd>
         </trdgrp>
       </snc>
-      <trdgrp lng="en">
+  <trdgrp lng="cs">
+    <trd>akcepce</trd>,
+    <trd>akceptace</trd>,
+    <trd>audience</trd>,
+    <trd>p&rcaron;ijet&iacute;</trd>,
+    <trd>p&rcaron;ij&iacute;m&aacute;n&iacute;</trd>,
+    <trd>p&rcaron;&iacute;jem</trd>
+  </trdgrp>
+  <trdgrp lng="en">
         <trd>acceptance</trd>
       </trdgrp>
-      <trd lng="es">aceptaci&oacute;n</trd>
-      <trdgrp lng="fr">
+  <trd lng="es">aceptaci&oacute;n</trd>
+  <trdgrp lng="fr">
         <trd>accueil</trd>,
         <trd>acceptation</trd>
       </trdgrp>
-      <trdgrp lng="tr">
+  <trdgrp lng="sk">
+    <trd>akcept&aacute;cia</trd>,
+    <trd>prijatie</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
         <trd>kar&scedil;&inodot;lama</trd>,
         <trd>kabullenme</trd>
       </trdgrp>
-    </drv>
+</drv>
 
     <drv mrk="akcept.0ejo">
       <kap><tld/>ejo</kap>
@@ -266,20 +285,30 @@
         </dif>
         <ref tip="vid" cel="atend.0ejo">atendejo</ref>
       </snc>
-      <trd lng="br">degemer<klr tip="ind"> (lec'h)</klr></trd>
-      <trd lng="de">Rezeption</trd>
-      <trd lng="es">recepci&oacute;n<klr tip="amb"> (en un edificio, empresa,
+  <trd lng="br">degemer<klr tip="ind"> (lec'h)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>hovorna</trd>,
+    <trd>p&rcaron;&iacute;jmac&iacute; kancel&aacute;&rcaron;</trd>,
+    <trd>p&rcaron;&iacute;jmac&iacute; m&iacute;stnost</trd>,
+    <trd>recepce</trd>
+  </trdgrp>
+  <trd lng="de">Rezeption</trd>
+  <trd lng="es">recepci&oacute;n<klr tip="amb"> (en un edificio, empresa,
           etc)</klr></trd>
-      <trd lng="fr">accueil<klr> (lieu)</klr></trd>
-      <trdgrp lng="hu">
+  <trd lng="fr">accueil<klr> (lieu)</klr></trd>
+  <trdgrp lng="hu">
         <trd>recepci&oacute;</trd>,
         <trd>fogad&oacute;helyis&eacute;g</trd>
       </trdgrp>
-      <trd lng="nl">receptie</trd>
-      <trd lng="pl">recepcja</trd>
-      <trd lng="ru">&c_p;&c_r;&c_i;&c_jo;&c_m;&c_n;&c_a;&c_ja;</trd>
-      <trd lng="tr">resepsiyon</trd>
-    </drv>
+  <trd lng="nl">receptie</trd>
+  <trd lng="pl">recepcja</trd>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_jo;&c_m;&c_n;&c_a;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>prij&iacute;macia kancel&aacute;ria</trd>,
+    <trd>recepcia</trd>
+  </trdgrp>
+  <trd lng="tr">resepsiyon</trd>
+</drv>
 
     <drv mrk="akcept.0isto">
       <kap><tld/>isto</kap>
@@ -293,20 +322,26 @@
           <ref cel="pord.0isto">pordisto</ref>
         </refgrp>
       </snc>
-      <trd lng="de">Rezeptionist</trd>
-      <trdgrp lng="fr">
+  <trd lng="cs">recep&ccaron;n&iacute;</trd>
+  <trd lng="de">Rezeptionist</trd>
+  <trdgrp lng="en">
+    <trd>usher</trd>,
+    <trd>receptionist</trd>, <trd>host(ess)</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
         <trd>ouvreur</trd>,
         <trd>ouvreuse</trd>,
         <trd>personnel d'accueil</trd>,
         <trd>r&eacute;ceptionniste</trd>
       </trdgrp>
-      <trdgrp lng="hu">
+  <trdgrp lng="hu">
         <trd>sz&aacute;llodai <ind>port&aacute;s</ind></trd>,
         <trd>recepci&oacute;s</trd>
       </trdgrp>
-      <trd lng="nl">receptionist</trd>
-      <trd lng="tr">resepsiyonist</trd>
-    </drv>
+  <trd lng="nl">receptionist</trd>
+  <trd lng="sk">recep&ccaron;n&yacute;</trd>
+  <trd lng="tr">resepsiyonist</trd>
+</drv>
 
     <drv mrk="akcept.mal0i">
       <kap>mal<tld/>i</kap>
@@ -398,10 +433,24 @@
           <trd>&c_o;&c_t;&c_t;&c_o;&c_r;&c_g;&c_a;&c_t;&c_mol;</trd>
         </trdgrp>
       </snc>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>nep&rcaron;ijmout</trd>,
+    <trd>odm&iacute;tnout</trd>
+  </trdgrp>
+  <trd lng="sk">odmietn&uacute;&tcaron;</trd>
+</drv>
   </art>
   <!--
   $Log: akcept.xml,v $
+  Revision 1.40  2015/09/21 14:10:16  revo
+  Cindy Moon McKee: +trd en
+
+  Revision 1.39  2015/07/04 08:37:29  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.38  2015/06/28 12:03:35  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.37  2014/03/04 10:10:14  revo
   Damien Brucker: +ekz
 

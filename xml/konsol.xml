@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konsol.xml,v 1.16 2013/06/30 01:10:11 revo Exp $">
+<art mrk="$Id: konsol.xml,v 1.19 2015/07/04 08:37:37 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>konsol</rad>/i <fnt><bib>PV</bib></fnt>
@@ -16,8 +16,13 @@
        Mildigi ies &ccirc;agrenon, beda&ubreve;ron, doloron kaj
        reesperigi lin per afablaj kura&gcirc;igaj paroloj:
        <ekz>
-         ni provis <tld/>i la kompatindan orfon.
+         ni provis <tld/>i la kompatindan orfon;
        </ekz>
+      <ekz>
+        oni ne disdonos inter ili panon de funebro, por 
+        <tld/>i ilin pri la mortinto
+        <fnt><bib>MT</bib>, <lok>&Jer; 16:7</lok></fnt>.
+      </ekz>
      </dif>
    </snc>
    <snc mrk="konsol.0i.io">
@@ -33,38 +38,43 @@
        </ekz>
      </dif>
    </snc>
-   <trdgrp lng="be">
+  <trdgrp lng="be">
      <trd>&c_s;&c_u;&c_c;&c_ja;&c_sh;&c_a;&c_c;&c_mol;</trd>,
      <trd>&c_s;&c_u;&c_p;&c_a;&c_k;&c_o;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>,
      <trd>&c_z;&c_a;&c_s;&c_p;&c_a;&c_k;&c_o;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
    </trdgrp>
-   <trdgrp lng="ca">
+  <trdgrp lng="ca">
      <trd>consolar</trd>,
      <trd>reconfortar</trd>
    </trdgrp>
-   <trd lng="de">tr&ouml;sten</trd>
-   <trdgrp lng="en">
+  <trdgrp lng="cs">
+    <trd>smířit se</trd>,
+    <trd>usmířit se</trd>
+  </trdgrp>
+  <trd lng="de">tr&ouml;sten</trd>
+  <trdgrp lng="en">
      <trd>console</trd>,
      <trd>cheer</trd>,
      <trd>comfort</trd>,
      <trd>solace</trd>,
      <trd>soothe</trd>
    </trdgrp>
-   <trd lng="es">consolar</trd>
+  <trd lng="es">consolar</trd>
   <trdgrp lng="fr">
      <trd>consoler</trd>,
      <trd>r&eacute;conforter</trd>,
      <trd>soulager</trd>
    </trdgrp>
-   <trd lng="nl">troosten</trd>
-   <trdgrp lng="pt">
+  <trd lng="nl">troosten</trd>
+  <trdgrp lng="pt">
      <trd>consolar</trd>,
      <trd>aliviar</trd>
    </trdgrp>
-   <trdgrp lng="ru">
+  <trdgrp lng="ru">
      <trd>&c_u;&c_t;&c_je;&c_sh;&c_a;&c_t;&c_mol;</trd>,
      <trd>&c_u;&c_t;&c_je;&c_sh;&c_i;&c_t;&c_mol;</trd>
    </trdgrp>
+  <trd lng="sk">zmieriť sa</trd>
 </drv>
 
 <drv mrk="konsol.0o">
@@ -77,25 +87,31 @@
        </ekz>
      </dif>
    </snc>
-   <trd lng="be">&c_s;&c_u;&c_c;&c_ja;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
-   <trdgrp lng="ca">
+  <trd lng="be">&c_s;&c_u;&c_c;&c_ja;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="ca">
      <trd>consol</trd>,
      <trd>reconfort</trd>
    </trdgrp>
-   <trd lng="de">Trost</trd>
-   <trdgrp lng="en">
+  <trd lng="cs">útěcha</trd>
+  <trd lng="de">Trost</trd>
+  <trdgrp lng="en">
      <trd>consolation</trd>,
      <trd>comfort</trd>,
      <trd>solace</trd>
    </trdgrp>
-   <trd lng="es">consuelo</trd>
-   <trdgrp lng="fr">
+  <trd lng="es">consuelo</trd>
+  <trdgrp lng="fr">
      <trd>consolation</trd>,
      <trd>r&eacute;confort</trd>,
      <trd>soulagement</trd>
    </trdgrp>
-   <trd lng="nl">troost</trd>
-   <trd lng="ru">&c_u;&c_t;&c_je;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="nl">troost</trd>
+  <trd lng="ru">&c_u;&c_t;&c_je;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>potecha</trd>,
+    <trd>potešenie</trd>,
+    <trd>útecha</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konsol.0igxi">
@@ -127,7 +143,9 @@
        </ekz>
     </dif>
   </snc>
+  <trd lng="cs">neutěšený</trd>
   <trd lng="fr">inconsolable</trd>
+  <trd lng="sk">bezútešný</trd>
 </drv>
 
 <drv mrk="konsol.sen0a">
@@ -146,11 +164,22 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">neutěšený</trd>
   <trd lng="fr">sans consolation</trd>
+  <trd lng="sk">bezútešný</trd>
 </drv>
 </art>
 <!--
 $Log: konsol.xml,v $
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2015/01/28 23:10:18  revo
+Jeromo Vasxe: + ekz ~i pri
+
 Revision 1.16  2013/06/30 01:10:11  revo
 Jeromo Vasxe: + ~igxi ne~ebla sen~a
 
@@ -170,8 +199,5 @@ Revision 1.11  2005/12/06 17:33:22  revo
 Raul Salinas Monteagudo: +trd es
 
 Revision 1.10  2003/04/23 16:31:23  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9  2002/03/16 17:31:17  revo
 -->
 </vortaro>

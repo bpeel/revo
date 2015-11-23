@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klostr.xml,v 1.12 2014/11/01 18:10:18 revo Exp $">
+<art mrk="$Id: klostr.xml,v 1.14 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>klostr</rad>/o <fnt>V</fnt>
 </kap>
@@ -22,6 +22,10 @@
     </dif>
   </snc>
   <trd lng="ca">claustre</trd>
+  <trdgrp lng="cs">
+    <trd>klášterní ambit</trd>,
+    <trd>klášterní ochoz</trd>
+  </trdgrp>
   <trd lng="de">Kreuzgang</trd>
   <trd lng="en">cloister</trd>
   <trd lng="es">claustro</trd>
@@ -32,10 +36,17 @@
     <trd>&c_k;&c_r;&c_y;&c_t;&c_a;&c_ja; &c_a;&c_r;&c_k;&c_a;&c_d;&c_a;</trd>,
     <trd>&c_m;&c_o;&c_n;&c_a;&c_s;&c_t;&c_y;&c_r;&c_s;&c_k;&c_i;&c_j; &c_s;&c_v;&c_o;&c_d;</trd>
   </trdgrp>
+  <trd lng="sk">kláštor s ambitom</trd>
 </drv>
 </art>
 <!--
 $Log: klostr.xml,v $
+Revision 1.14  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2014/11/01 18:10:18  revo
 Jeromo Vasxe: + mrk, rearangx. dif
 

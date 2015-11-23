@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: huf.xml,v 1.25 2013/10/19 14:10:13 revo Exp $">
+<art mrk="$Id: huf.xml,v 1.29 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>huf</rad>/o <fnt><bib>PV</bib></fnt>
@@ -29,6 +29,7 @@
     <trd>botez<klr tip="ind"> (karn)</klr></trd>
     <trd>karn</trd>
   </trdgrp>
+  <trd lng="cs">devětsil</trd>
   <trd lng="de">Huf</trd>
   <trd lng="el">&omikron;&pi;&lambda;&eta_ton;</trd>
   <trd lng="en">hoof</trd>
@@ -49,7 +50,31 @@
   </trdgrp>
   <trd lng="pt">casco</trd>
   <trd lng="ru">&c_k;&c_o;&c_p;&c_y;&c_t;&c_o;</trd>
+  <trd lng="sk">deväťsil</trd>
   <trd lng="sv">hov <klr>(p&aring; djur)</klr></trd>
+</drv>
+
+<drv mrk="huf.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="huf.0ulo.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Besto kun <tld/>havaj piedoj:
+      <ekz>
+        <tld/>uloj kolekti&gcirc;as sur ri&ccirc;aj pa&scirc;tejoj
+        <fnt>
+          <aut>J. &Scirc;uvajev</aut>,
+          <vrk><url
+          ref="http://www.eventoj.hu/steb/zoologio/konduto_de_bestoj/f874-p30.htm">
+          Pri la konduto de bestoj</url></vrk>,
+          <lok>Fokuso, 1987:1, p. 2a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">kopytník</trd>
+  <trd lng="fr">animal &agrave; sabots</trd>
+  <trd lng="sk">kopytník</trd>
 </drv>
 
 <drv mrk="huf.0umo">
@@ -63,9 +88,10 @@
         <fnt><bib>Fab4</bib>, <lok>Sterkskarabo</lok></fnt>.
       </ekz>
     </dif>
-  </snc>     
-  <trd lng="be">&c_p;&c_a;&c_d;&c_k;&c_o;&c_v;&c_a;</trd>               
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_k;&c_o;&c_v;&c_a;</trd>
   <trd lng="br">houarn-marc'h</trd>
+  <trd lng="cs">podkova</trd>
   <trd lng="de">Hufeisen</trd>
   <trd lng="el">&pi;&epsilon_ton;&tau;&alfa;&lambda;&omikron;</trd>
   <trd lng="fr">fer &agrave; cheval</trd>
@@ -75,6 +101,7 @@
   <trd lng="pl">podkowa</trd>
   <trd lng="pt">ferradura</trd>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_k;&c_o;&c_v;&c_a;</trd>
+  <trd lng="sk">podkova</trd>
 </drv>
 
 <drv mrk="huf.du0a">
@@ -125,6 +152,7 @@
   </snc>
   <trd
   lng="be">&c_n;&c_ja;&c_p;&c_a;&c_r;&c_n;&c_a;&c_k;&c_a;&c_p;&c_y;&c_t;&c_n;&c_y;&c_ja;</trd>
+  <trd lng="cs">lichokopytníci</trd>
   <trd lng="de">Unpaarhufer</trd>
   <trd lng="en">perissodactyls</trd>
   <trd lng="es">perisod&aacute;ctilos</trd>
@@ -136,6 +164,7 @@
   <trd lng="pl">nieparzystokopytne</trd>
   <trd
   lng="ru">&c_n;&c_je;&c_p;&c_a;&c_r;&c_n;&c_o;&c_k;&c_o;&c_p;&c_y;&c_t;&c_n;&c_y;&c_je;</trd>
+  <trd lng="sk">nepárnokopytníci</trd>
 </drv>
 
 <drv mrk="huf.par0ulo">
@@ -167,6 +196,7 @@
   </snc>
   <trd
   lng="be">&c_p;&c_a;&c_r;&c_n;&c_a;&c_k;&c_a;&c_p;&c_y;&c_t;&c_n;&c_y;&c_ja;</trd>
+  <trd lng="cs">sudokopytníci</trd>
   <trd lng="de">Paarhufer</trd>
   <trd lng="en">artiodactyls</trd>
   <trd lng="es">artiod&aacute;ctilos</trd>
@@ -176,6 +206,7 @@
   <trd lng="pl">parzystokopytne</trd>
   <trd
   lng="ru">&c_p;&c_a;&c_r;&c_n;&c_o;&c_k;&c_o;&c_p;&c_y;&c_t;&c_n;&c_y;&c_je;</trd>
+  <trd lng="sk">párnokopytníci</trd>
 </drv>
 
 <drv mrk="huf.unu0uloj">
@@ -183,11 +214,13 @@
   <snc>
     <ref tip="dif" cel="cxeval1.0oj">&ccirc;evaledoj</ref>
   </snc>
+  <trd lng="cs">koňovití</trd>
   <trd lng="fr">&eacute;quid&eacute;s</trd>
   <trd lng="hu">l&oacute;f&eacute;l&eacute;k</trd>
   <trd lng="nl">eenhoevigen</trd>
   <trd lng="pl">koniowate</trd>
   <trd lng="pt">&eacute;q&uuml;idas</trd>
+  <trd lng="sk">koňovité</trd>
 </drv>
 
 <drv mrk="huf.0obati">
@@ -202,8 +235,9 @@
     <trd>&c_b;&c_r;&c_y;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_b;&c_ib;&c_c;&c_mol;
     <ind>&c_k;&c_a;&c_p;&c_y;&c_t;&c_a;&c_m;&c_ib;</ind></trd>
-  </trdgrp>        
+  </trdgrp>
   <trd lng="br">pavata</trd>
+  <trd lng="cs">kopnout kopytem</trd>
   <trdgrp lng="fr">
     <trd>piaffer<klr tip="ind"> (en p. d'un cheval)</klr></trd>,
     <trd>battre des sabots</trd>
@@ -220,6 +254,7 @@
     <trd>&c_b;&c_r;&c_y;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_b;&c_i;&c_t;&c_mol; &c_k;&c_o;&c_p;&c_y;&c_t;&c_a;&c_m;&c_i;</trd>
   </trdgrp>
+  <trd lng="sk">kopnúť kopytom</trd>
 </drv>
 
 <drv mrk="huf.0oferi">
@@ -232,14 +267,16 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="br">houarna&ntilde;<klr tip="ind"> (ur marc'h)</klr></trd>
+  <trd lng="cs">okovat</trd>
   <trd lng="de">beschlagen <klr tip="ind">(Pferd)</klr></trd>
   <trd lng="fr">ferrer<klr tip="ind"> (un cheval)</klr></trd>
-  <trd lng="it">ferrare<klr> (di cavallo o sim.)</klr></trd>
   <trd lng="hu">patkol</trd>
+  <trd lng="it">ferrare<klr> (di cavallo o sim.)</klr></trd>
   <trd lng="nl">beslaan<klr tip="ind"> (paard)</klr></trd>
   <trd lng="pl">podkuwa&cacute;</trd>
   <trd lng="pt">ferrar<klr tip="amb"> (um cavalo)</klr></trd>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">podkovať</trd>
 </drv>
 
 <drv mrk="huf.0ofero">
@@ -254,8 +291,9 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_p;&c_a;&c_d;&c_k;&c_o;&c_v;&c_a;</trd>         
+  <trd lng="be">&c_p;&c_a;&c_d;&c_k;&c_o;&c_v;&c_a;</trd>
   <trd lng="br">houarn-marc'h</trd>
+  <trd lng="cs">podkova</trd>
   <trd lng="de">Hufeisen</trd>
   <trd lng="el">&pi;&epsilon_ton;&tau;&alfa;&lambda;&omikron;</trd>
   <trd lng="fr">fer &agrave; cheval</trd>
@@ -265,10 +303,23 @@
   <trd lng="pl">podkowa</trd>
   <trd lng="pt">ferradura</trd>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_k;&c_o;&c_v;&c_a;</trd>
+  <trd lng="sk">podkova</trd>
 </drv>
 </art>
 <!--
 $Log: huf.xml,v $
+Revision 1.29  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2014/12/21 15:10:25  revo
+Jeromo Vasxe: + ul en kap
+
+Revision 1.26  2014/12/20 21:10:17  revo
+Jeromo Vasxe: + ~ulo
+
 Revision 1.25  2013/10/19 14:10:13  revo
 Wolfram Diestel: +nepar~ulo, par~ulo
 
@@ -284,12 +335,6 @@ Sebastian Cyprych: +trd pl
 
 Revision 1.21  2009/09/16 16:30:52  revo
 Antonio Codazzi: +trd it
-
-Revision 1.20  2006/01/29 17:31:21  revo
-H. Neal Parker: + 2 ekz; + 3 trd en,es; + drv
-
-Revision 1.19  2005/10/17 16:31:48  revo
-Luiz Portella: +trd pt
 
 -->
 </vortaro>

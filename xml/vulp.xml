@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vulp.xml,v 1.26 2013/10/20 19:10:17 revo Exp $">
+<art mrk="$Id: vulp.xml,v 1.28 2015/06/28 12:03:50 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vulp</rad>/o
@@ -53,6 +53,7 @@
   <trd lng="fr">renard</trd>
   <trd lng="he">&shin;&vav;&ayin;&lamed;</trd>
   <trd lng="hu">r&oacute;ka</trd>
+  <trd lng="id">rubah</trd>
   <trd lng="nl">vos</trd>
   <trd lng="pl">lis</trd>
   <trd lng="pt">raposa</trd>
@@ -60,11 +61,18 @@
     <trd>&c_l;&c_i;&c_s;&c_a;</trd>,
     <trd>&c_l;&c_i;&c_s;&c_i;&c_c;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">líška</trd>
   <trd lng="sv">r&auml;v</trd>
 </drv>
 </art>
 <!--
 $Log: vulp.xml,v $
+Revision 1.28  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2014/11/09 14:10:17  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.26  2013/10/20 19:10:17  revo
 Wolfram Diestel: ref al lst rabobestoj
 
@@ -84,8 +92,5 @@ Revision 1.21  2008/02/29 17:30:21  revo
 Wieland Pusch: +trd bg
 
 Revision 1.20  2005/04/12 16:31:52  revo
-Alan ar Gall: +trd br
-
-Revision 1.19  2003/03/15 17:32:01  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kuplet.xml,v 1.7 2011/12/11 21:10:16 revo Exp $">
+<art mrk="$Id: kuplet.xml,v 1.9 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>kuplet</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -20,6 +20,10 @@
   </snc>
   <trd lng="be">&c_k;&c_u;&c_p;&c_l;&c_je;&c_t;</trd>
   <trd lng="ca">estrofa</trd>
+  <trdgrp lng="cs">
+    <trd>kuplet</trd>,
+    <trd>popěvek</trd>
+  </trdgrp>
   <trd lng="de">Couplet</trd>
   <trd lng="en">couplet</trd>
   <trd lng="fr">couplet</trd>
@@ -29,11 +33,21 @@
     <trd>strofe</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_u;&c_p;&c_l;&c_je;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>kuplet</trd>,
+    <trd>popevok</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: kuplet.xml,v $
+Revision 1.9  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.7  2011/12/11 21:10:16  revo
 Marc Rausell: +trd ca
 

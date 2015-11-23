@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kolaps.xml,v 1.11 2013/10/09 19:11:19 revo Exp $">
+<art mrk="$Id: kolaps.xml,v 1.13 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>kolaps</rad>/o
 </kap>
@@ -45,6 +45,10 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_l;&c_ja;&c_p;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>kolaps</trd>,
+    <trd>zhroucení</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Kollaps</trd>,
     <trd>Kreislaufversagen</trd>,
@@ -56,6 +60,10 @@
     <trd>inzinking</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_l;&c_l;&c_a;&c_p;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>kolaps</trd>,
+    <trd>náhle ochabnutie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kolaps.0i">
@@ -77,6 +85,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>utrpět kolaps</trd>,
+    <trd>zhroutit se</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>kollabieren</trd>,
     <trd>zusammenbrechen</trd>
@@ -92,10 +104,20 @@
     <trd>crouler</trd>,
     <trd>d&eacute;gringoler</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>náhle ochabnúť</trd>,
+    <trd>utrpieť kolaps</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kolaps.xml,v $
+Revision 1.13  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2013/10/09 19:11:19  revo
 Wolfram Diestel: ref al lst malsanoj
 

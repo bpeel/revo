@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: paspor.xml,v 1.18 2013/10/10 16:10:10 revo Exp $">
+<art mrk="$Id: paspor.xml,v 1.20 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pasport</rad>/o
@@ -25,10 +25,15 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_sh;&c_p;&c_a;&c_r;&c_t;</trd>
-  <trd lng="bg">&c_p;&c_a;&c_s;&c_p;&c_o;&c_r;&c_t;</trd>       
+  <trd lng="bg">&c_p;&c_a;&c_s;&c_p;&c_o;&c_r;&c_t;</trd>
   <trdgrp lng="br">
     <trd>paseporzh</trd>,
     <trd>tremen-hent</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>cestovní pas</trd>,
+    <trd>pas</trd>,
+    <trd>průvodní list</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Pass</trd>,
@@ -37,15 +42,16 @@
   <trd lng="en">passport</trd>
   <trd lng="es">pasaporte</trd>
   <trd lng="fr">passeport</trd>
-  <trd lng="hu">&uacute;tlev&eacute;l</trd>  
+  <trd lng="hu">&uacute;tlev&eacute;l</trd>
   <trdgrp lng="nl">
     <trd>reispas</trd>,
     <trd>paspoort</trd>
   </trdgrp>
   <trd lng="pl">paszport</trd>
   <trd lng="pt">passaporte</trd>
-  <trd lng="sv">pass</trd>
   <trd lng="ru">&c_p;&c_a;&c_s;&c_p;&c_o;&c_r;&c_t;</trd>
+  <trd lng="sk">sprievodný list</trd>
+  <trd lng="sv">pass</trd>
   <trd lng="tr">pasaport</trd>
 </drv>
 
@@ -82,6 +88,12 @@
 </art>
 <!--
 $Log: paspor.xml,v $
+Revision 1.20  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2013/10/10 16:10:10  revo
 Joop Eggen: +trd bg
 

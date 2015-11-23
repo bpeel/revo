@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dement.xml,v 1.12 2009/06/03 16:30:48 revo Exp $">
+<art mrk="$Id: dement.xml,v 1.14 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>dement</rad>/i
 </kap>
@@ -19,6 +19,11 @@
   </snc>
   <trd lng="be">&c_a;&c_b;&c_v;&c_ja;&c_r;&c_g;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">desmentir</trd>
+  <trdgrp lng="cs">
+    <trd>dementovat</trd>,
+    <trd>popírat</trd>,
+    <trd>vyvracet</trd>
+  </trdgrp>
   <trd lng="es">desmentir</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;mentir</trd>,
@@ -35,11 +40,21 @@
   <trd lng="pt">desmentir</trd>
   <trd
   lng="ru">&c_o;&c_p;&c_r;&c_o;&c_v;&c_je;&c_r;&c_g;&c_n;&c_u;&c_t;&c_mol;</trd>
-  <trd lng="sk">dementova&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>dementova&tcaron;</trd>,
+    <trd>popierať</trd>,
+    <trd>vyvracať</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: dement.xml,v $
+Revision 1.14  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2009/06/03 16:30:48  revo
 Sebastian Cyprych: +trd pl
 

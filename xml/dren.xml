@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dren.xml,v 1.12 2009/09/05 16:30:29 revo Exp $">
+<art mrk="$Id: dren.xml,v 1.14 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>dren</rad>/i
   <fnt>Z</fnt>
@@ -16,6 +16,11 @@
       Sekigi tro malsekan grundon per subteraj tuboj.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>drenážovat</trd>,
+    <trd>odvádět sekrety</trd>,
+    <trd>vyprázdnit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>dr&auml;nieren</trd>,
     <trd>dr&auml;nen</trd>,
@@ -38,6 +43,10 @@
     &c_p;&c_o;&c_ch;&c_v;&c_u;</trd>,
     <trd>&c_d;&c_r;&c_je;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>drenážovať</trd>,
+    <trd>vyprázdniť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dren.0ilo">
@@ -47,6 +56,11 @@
       Subtera tubo, por elfluigi akvon el tro malseka grundo.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>drén</trd>,
+    <trd>odvodňovací potrubí</trd>,
+    <trd>trativod</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Dr&auml;nrohr</trd>,
     <trd>Dr&auml;nager&ouml;hre</trd>
@@ -66,10 +80,17 @@
     &c_s;&c_t;&c_o;&c_k;</trd>,
     <trd>&c_k;&c_a;&c_n;&c_a;&c_v;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">drén</trd>
 </drv>
 </art>
 <!--
 $Log: dren.xml,v $
+Revision 1.14  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2009/09/05 16:30:29  revo
 Russ Williams: +trd en
 

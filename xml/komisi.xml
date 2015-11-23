@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: komisi.xml,v 1.19 2012/10/23 00:12:13 revo Exp $">
+<art mrk="$Id: komisi.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>komisi</rad>/i
@@ -31,7 +31,9 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="kek"><trd>ab&#789;enank</trd><trd>ab&#789;enak</trd></trdgrp>
   <trd lng="be">&c_d;&c_a;&c_r;&c_u;&c_ch;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">pověřit <klr>(někoho něčím)</klr></trd>
   <trdgrp lng="de">
     <trd>beauftragen</trd>,
     <trd>einen <ind>Auftrag erteilen</ind></trd>,
@@ -60,7 +62,7 @@
     <trd>dar <ind>mandato</ind> a</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_r;&c_u;&c_ch;&c_i;&c_t;&c_mol;</trd>
-  <trdgrp lng="kek"><trd>ab&#789;enank</trd><trd>ab&#789;enak</trd></trdgrp>
+  <trd lng="sk">poveriť <klr>(niekoho niečím)</klr></trd>
 </drv>
 
 <drv mrk="komisi.0o">
@@ -149,6 +151,17 @@
     <trd lng="nl">commissie<klr tip="ind"> (arch.)</klr></trd>
   </snc>
   <trd lng="kek">ab&#789;en</trd>
+  <trdgrp lng="cs">
+    <trd>komise</trd>,
+    <trd>pověření</trd>,
+    <trd>přikázání</trd>,
+    <trd>příkaz</trd>,
+    <trd>zmocnění</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>poverenie</trd>,
+    <trd>príkaz</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="komisi.0ede">
@@ -236,6 +249,13 @@
     <trd>&c_k;&c_a;&c_m;&c_ib;&c_s;&c_ib;&c_ja;&c_n;&c_e;&c_r;</trd>,
     <trd>&c_p;&c_a;&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>komisionář</trd>,
+    <trd>mandatář</trd>,
+    <trd>obchodník pověřovaný k prodeji</trd>,
+    <trd>obstaravatel</trd>,
+    <trd>pověřenec</trd>
+  </trdgrp>
   <trd lng="de">Beauftragter</trd>
   <trd lng="es">comisionado</trd>
   <trdgrp lng="ru">
@@ -243,6 +263,7 @@
     <trd>&c_d;&c_o;&c_v;&c_je;&c_r;&c_je;&c_n;&c_n;&c_o;&c_je; &c_l;&c_i;&c_c;&c_o;</trd>,
     <trd>&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
+  <trd lng="sk">komisionár</trd>
 </drv>
 
 <drv mrk="komisi.0ito">
@@ -257,6 +278,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>komisař</trd>,
+    <trd>pověřenec</trd>,
+    <trd>pořadatel</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>personne <ind>commis</ind>e</trd>,
     <trd>commis<klr tip="ind"> (personne qu'on a charg&eacute; de
@@ -266,6 +292,10 @@
   </trdgrp>
   <trd lng="nl">afgevaardigde</trd>
   <trd lng="ru">&c_d;&c_o;&c_v;&c_je;&c_r;&c_je;&c_n;&c_n;&c_o;&c_je; &c_l;&c_i;&c_c;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>poverenec</trd>,
+    <trd>povereník</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="komisi.0itaro">
@@ -287,6 +317,7 @@
     <trd>&c_k;&c_a;&c_m;&c_ib;&c_s;&c_ib;&c_ja;</trd>,
     <trd>&c_k;&c_a;&c_m;&c_ib;&c_t;&c_e;&c_t;</trd>
   </trdgrp>
+  <trd lng="cs">řešitelský tým</trd>
   <trd lng="de">Ausschuss</trd>
   <trd lng="fr">commission<klr tip="ind"> (groupe de personnes
   commises)</klr></trd>
@@ -295,6 +326,7 @@
     <trd>&c_k;&c_o;&c_m;&c_i;&c_t;&c_je;&c_t;</trd>,
     <trd>&c_k;&c_o;&c_m;&c_i;&c_s;&c_s;&c_i;&c_ja;</trd>
   </trdgrp>
+  <trd lng="sk">zbor povereníkov</trd>
 </drv>
 
 <drv mrk="komisi.0ulo">
@@ -312,12 +344,17 @@
     <trd>&c_k;&c_a;&c_m;&c_ib;&c_s;&c_ib;&c_ja;&c_n;&c_e;&c_r;</trd>,
     <trd>&c_p;&c_a;&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
+  <trd lng="cs">pověřenec</trd>
   <trd lng="de">Beauftragter</trd>
-   <trd lng="nl">afgevaardigde<klr tip="ind"> (arch.)</klr></trd>
+  <trd lng="nl">afgevaardigde<klr tip="ind"> (arch.)</klr></trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_m;&c_i;&c_s;&c_s;&c_i;&c_o;&c_n;&c_je;&c_r;</trd>,
     <trd>&c_d;&c_o;&c_v;&c_je;&c_r;&c_je;&c_n;&c_n;&c_o;&c_je; &c_l;&c_i;&c_c;&c_o;</trd>,
     <trd>&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>poverenec</trd>,
+    <trd>povereník</trd>
   </trdgrp>
 </drv>
 
@@ -345,6 +382,12 @@
 </art>
 <!--
 $Log: komisi.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2012/10/23 00:12:13  revo
 Neil Roberts: aldonu la etikedon <var>
 

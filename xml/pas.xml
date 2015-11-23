@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pas.xml,v 1.24 2014/09/13 12:10:13 revo Exp $">
+<art mrk="$Id: pas.xml,v 1.29 2015/10/05 13:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pas</rad>/i
@@ -23,6 +23,10 @@
         <uzo tip="stl">FIG</uzo>
         <ind><tld/>i al alia demando</ind>;
         <trd lng="hu">&aacute;tt&eacute;r m&aacute;sik k&eacute;rd&eacute;sre</trd>
+      </ekz><ekz>
+        <uzo tip="stl">FIG</uzo>
+        la vojo <tld/>is tra malvasta kaj malluma koridoro
+        <fnt><bib>Far2</bib>, <lok>&ccirc;ap. 3a.</lok></fnt>;
       </ekz><ekz>
         <uzo tip="stl">FIG</uzo>
         &ccirc;iuj &ccirc;i bildoj rapide <tld/>is tra lia cerbo.
@@ -65,7 +69,7 @@
     <ekz>
       <tld/>as la tempo;
     </ekz><ekz>
-      jam kvin jaroj <tld/>is depost tio;
+      jam kvin jaroj <tld/>is de post tio;
     </ekz><ekz>
       kio <tld/>is ne revenos
       <fnt><bib>PrV</bib></fnt>;
@@ -153,7 +157,15 @@
     <trd>paseal<klr tip="ind"> (v.g.)</klr></trd>,
     <trd>tremen<klr tip="ind"> (v.g.)</klr></trd>
   </trdgrp>
-  <trd lng="cs">minout</trd>
+  <trdgrp lng="cs">
+    <trd>minout</trd>,
+    <trd>m&iacute;jet <klr>(&ccaron;as.)</klr></trd>,
+    <trd>plynout</trd>,
+    <trd>proj&iacute;t (lh&uring;ta)</trd>,
+    <trd>ub&iacute;hat</trd>,
+    <trd>uplynout</trd>,
+    <trd>vypr&scaron;et</trd>
+  </trdgrp>
   <trd lng="en">pass</trd>
   <trd lng="es">pasar</trd>
   <trd lng="fr">passer<klr tip="amb"> (intr.)</klr></trd>
@@ -168,6 +180,12 @@
   </trdgrp>
   <trd lng="pt">passar</trd>
   <trd lng="ro">a trece</trd>
+  <trdgrp lng="sk">
+    <trd>plyn&uacute;&tcaron;</trd>,
+    <trd>pomin&uacute;&tcaron; sa</trd>,
+    <trd>uplyn&uacute;&tcaron;</trd>,
+    <trd>vypr&scaron;a&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pas.0e">
@@ -182,12 +200,23 @@
     <trd lng="fr">passag&egrave;rement</trd>
   </snc>
   <trd lng="br">diwar dremen</trd>
+  <trdgrp lng="cs">
+    <trd>chvilkov&ecaron;</trd>,
+    <trd>letmo</trd>,
+    <trd>mimochodem</trd>,
+    <trd>nedlouho</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>in passing</trd>,
+    <trd>briefly</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>fut&oacute;lag</trd>,
     <trd>&aacute;tmenetileg</trd>
   </trdgrp>
   <trd lng="nl">zijdelings</trd>
   <trd lng="pl">przej&sacute;ciowo</trd>
+  <trd lng="sk">letmo</trd>
 </drv>
 
 <drv mrk="pas.0ado">
@@ -201,6 +230,11 @@
     </dif>
   </snc>
   <trd lng="br">tremenadenn</trd>
+  <trdgrp lng="cs">
+    <trd>ch&uring;ze</trd>,
+    <trd>m&iacute;jen&iacute;</trd>
+  </trdgrp>
+  <trd lng="en">passage</trd>
   <trd lng="fr">passage<klr tip="amb"> (action)</klr></trd>
   <trdgrp lng="hu">
     <trd>halad&aacute;s</trd>,
@@ -211,6 +245,7 @@
   <trd lng="pl">przechodzenie</trd>
   <trd
 lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">ch&ocirc;dza</trd>
 </drv>
 
 <drv mrk="pas.0ajxo">
@@ -228,6 +263,7 @@ lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">passage <klr>(fine arts)</klr></trd>
   <trdgrp lng="fr">
     <trd>moment d&eacute;cisif</trd>,
     <trd>transition</trd>
@@ -255,13 +291,20 @@ lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
     <trd>tremeniad</trd>,
     <trd>tremener</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kolemjdouc&iacute;</trd>,
+    <trd>okolojdouc&iacute;</trd>,
+    <trd>pasant</trd>
+  </trdgrp>
   <trd lng="de">Passant</trd>
+  <trd lng="en">passerby</trd>
   <trd lng="fr">passant<klr tip="amb"> (subst.)</klr></trd>
   <trd lng="hu">j&aacute;r&oacute;kel&odblac;</trd>
   <trd lng="nl">voorbijganger</trd>
   <trd lng="pl">przechodzie&nacute;</trd>
   <trd lng="ro">pieton</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_i;&c_j;</trd>
+  <trd lng="sk">chodec</trd>
 </drv>
 
 <drv mrk="pas.0ejo">
@@ -284,6 +327,14 @@ lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
     <trd>tremen<klr tip="ind"> (lec'h)</klr></trd>,
     <trd>tremenvan<klr tip="ind"> (lec'h)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pas&aacute;&zcaron;</trd>,
+    <trd>pr&uring;chod</trd>,
+    <trd>pr&uring;smyk</trd>,
+    <trd>p&rcaron;echod</trd>,
+    <trd>p&rcaron;ejezd</trd>
+  </trdgrp>
+  <trd lng="en">passage</trd>
   <trd lng="es">pasaje</trd>
   <trd lng="fr">passage<klr tip="amb"> (lieu)</klr></trd>
   <trd lng="hu">&aacute;tj&aacute;r&oacute;</trd>
@@ -295,6 +346,7 @@ lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="pl">przej&sacute;cie</trd>
   <trd lng="ro">trecere</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_d;</trd>
+  <trd lng="sk">priechod</trd>
 </drv>
 
 <drv mrk="pas.0ema">
@@ -316,6 +368,14 @@ lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
     <trd>o tremen</trd>,
     <trd>berrbad</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>m&iacute;jej&iacute;c&iacute;</trd>,
+    <trd>pom&iacute;jiv&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>passing</trd>,
+    <trd>fleeting</trd>
+  </trdgrp>
   <trd lng="fr">passager<klr tip="amb"> (adj.)</klr></trd>
   <trd lng="hu">m&uacute;l&eacute;kony</trd>
   <trd lng="nl">voorbijgaand</trd>
@@ -328,6 +388,7 @@ lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
     <trd>&c_p;&c_r;&c_je;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;</trd>,
     <trd>&c_m;&c_i;&c_m;&c_o;&c_l;&c_jo;&c_t;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">pominute&lcaron;n&yacute;</trd>
 </drv>
 
 <drv mrk="pas.0igi">
@@ -344,6 +405,10 @@ lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
         bonvolu <tld/>igi al mi la salon.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd>to give passage</trd>,
+      <trd>to pass</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>&aacute;tvisz</trd>,
       <trd>&aacute;tad</trd>,
@@ -365,6 +430,10 @@ lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
         <fnt><bib>Fab1</bib>, <lok>fluganta kofro</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd>to pass</trd>,
+      <trd>spend</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>t&ouml;lt <klr tip="ind">(id&odblac;t)</klr></trd>,
       <trd>elt&ouml;lt</trd>
@@ -372,6 +441,10 @@ lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
     <trd lng="nl">doorbrengen</trd>
   </snc>
   <trd lng="br">tremen<klr tip="ind"> (v.k..)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>str&aacute;vit <klr>(&ccaron;as)</klr></trd>,
+    <trd>tr&aacute;vit</trd>
+  </trdgrp>
   <trd lng="fr">passer<klr tip="amb"> (tr.)</klr></trd>
   <trdgrp lng="pl">
     <trd>przeprawi&cacute;</trd>,
@@ -382,6 +455,7 @@ lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
     <trd>&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
   </trdgrp>
+  <trd lng="sk">str&aacute;vi&tcaron; &ccaron;as</trd>
 </drv>
 
 <drv mrk="pas.for0i">
@@ -405,18 +479,27 @@ lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
     </refgrp>
   </snc>
   <trd lng="br">tremen<klr tip="amb"> (mont da get)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>minout</trd>,
+    <trd>m&iacute;jet <klr>(&ccaron;as.)</klr></trd>,
+    <trd>plynout</trd>,
+    <trd>proj&iacute;t (lh&uring;ta)</trd>,
+    <trd>ub&iacute;hat</trd>,
+    <trd>uplynout</trd>,
+    <trd>vypr&scaron;et</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>pass away</trd>,
     <trd>die</trd>
   </trdgrp>
+  <trd lng="es">pasar, desaparecer<klr tip="amb"> (una
+  persona)</klr></trd>
   <trd lng="fr">passer<klr tip="amb"> (disparaitre)</klr></trd>
   <trdgrp lng="hu">
     <trd>elm&uacute;lik</trd>,
     <trd>v&eacute;get &eacute;r</trd>,
     <trd>elh&uacute;ny</trd>
   </trdgrp>
-  <trd lng="es">pasar, desaparecer<klr tip="amb"> (una
-  persona)</klr></trd>
   <trdgrp lng="nl">
     <trd>vergaan</trd>,
     <trd>sterven</trd>,
@@ -430,6 +513,12 @@ lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
     <trd>&c_p;&c_r;&c_o;&c_j;&c_t;&c_i;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>plyn&uacute;&tcaron;</trd>,
+    <trd>pomin&uacute;&tcaron; sa</trd>,
+    <trd>uplyn&uacute;&tcaron;</trd>,
+    <trd>vypr&scaron;a&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -452,6 +541,10 @@ lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
 dan&gcirc;eron<fnt>Z</fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd>to pass by</trd>,
+      <trd>move past</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>elmegy <klr tip="amb">(mellette)</klr></trd>,
       <trd>elhalad</trd>,
@@ -474,16 +567,35 @@ dan&gcirc;eron<fnt>Z</fnt>.
     <refgrp tip="sin">
       <ref cel="las.preter0i">preterlasi</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd>to pass over</trd>,
+      <trd>overlook</trd>
+    </trdgrp>
     <trd lng="hu">figyelmen k&iacute;v&uuml;l hagy</trd>
     <trd lng="ru">&c_p;&c_r;&c_o;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
   </snc>
   <trd lng="br">mont hebiou</trd>
+  <trdgrp lng="cs">
+    <trd>minout</trd>,
+    <trd>m&iacute;jet <klr>(&ccaron;as.)</klr></trd>,
+    <trd>plynout</trd>,
+    <trd>proj&iacute;t (lh&uring;ta)</trd>,
+    <trd>ub&iacute;hat</trd>,
+    <trd>uplynout</trd>,
+    <trd>vypr&scaron;et</trd>
+  </trdgrp>
   <trd lng="fr">passer &agrave; c&ocirc;t&eacute; de</trd>
   <trd lng="nl">voorbijgaan</trd>
   <trdgrp lng="pl">
     <trd>opuszcza&cacute;</trd>,
     <trd>przechodzi&cacute; obok</trd>
     <trd>wymija&cacute;</trd>,
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>plyn&uacute;&tcaron;</trd>,
+    <trd>pomin&uacute;&tcaron; sa</trd>,
+    <trd>uplyn&uacute;&tcaron;</trd>,
+    <trd>vypr&scaron;a&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -507,6 +619,11 @@ dan&gcirc;eron<fnt>Z</fnt>.
     <trd>treizha&ntilde;</trd>,
     <trd>treuzi&ntilde;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>absolvovat</trd>,
+    <trd>proch&aacute;zet <klr>(n&ecaron;co)</klr></trd>
+  </trdgrp>
+  <trd lng="en">to pass through</trd>
   <trd lng="fr">traverser</trd>
   <trdgrp lng="hu">
     <trd>&aacute;tmegy</trd>,
@@ -516,6 +633,11 @@ dan&gcirc;eron<fnt>Z</fnt>.
   <trd lng="pl">przeby&cacute;</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_j;&c_t;&c_i;
 <klr>(&c_ch;&c_je;&c_r;&c_je;&c_z; &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>prejs&tcaron;</trd>,
+    <trd>pre&zcaron;i&tcaron;</trd>,
+    <trd>sk&uacute;si&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pas.trans0i">
@@ -536,6 +658,10 @@ dan&gcirc;eron<fnt>Z</fnt>.
         <fnt>Z</fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd>to pass over</trd>,
+      <trd>to cross</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>&aacute;tkel</trd>,
       <trd>&aacute;tmegy (vmin)</trd>,
@@ -551,6 +677,10 @@ dan&gcirc;eron<fnt>Z</fnt>.
         tio trans<tld/>as mian komprenon, &ccirc;iun imagon.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd>to pass</trd>,
+      <trd>surpass</trd>
+    </trdgrp>
     <trd lng="hu">meghalad</trd>
     <trd lng="nl">te <ind>bovengaan</ind></trd>
   </snc>
@@ -569,6 +699,10 @@ dan&gcirc;eron<fnt>Z</fnt>.
         trans<tld/>i de la avertoj al la agoj<fnt>B</fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd>to pass</trd>,
+      <trd>go through</trd>
+    </trdgrp>
     <trd lng="hu">&aacute;tmegy (vhov&aacute;)</trd>
     <trd lng="nl">overgaan</trd>
   </snc>
@@ -580,15 +714,28 @@ dan&gcirc;eron<fnt>Z</fnt>.
         trans<tld/>i de la solida al la flueca stato.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd>to pass</trd>,
+      <trd>transform</trd>
+    </trdgrp>
     <trd lng="hu">&aacute;tmegy <klr tip="amb">(&aacute;llapotba)</klr></trd>
     <trd lng="nl">overgaan</trd>
   </snc>
   <trd lng="br">tremen (hebiou)</trd>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;ejet</trd>,
+    <trd>p&rcaron;ej&iacute;t</trd>,
+    <trd>p&rcaron;ekro&ccaron;it <klr>(&rcaron;eku, hranici)</klr></trd>
+  </trdgrp>
   <trd lng="fr">d&eacute;passer</trd>
   <trd lng="pl">przekroczy&cacute;</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_je;&c_r;&c_je;&c_j;&c_t;&c_i;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_je;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;<klr> (&c_ch;&c_t;&c_o;-&c_l;., &c_ch;&c_je;&c_r;&c_je;&c_z; &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prejs&tcaron;</trd>,
+    <trd>prekro&ccaron;i&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -610,6 +757,21 @@ dan&gcirc;eron<fnt>Z</fnt>.
 </art>
 <!--
 $Log: pas.xml,v $
+Revision 1.29  2015/10/05 13:10:14  revo
+Sergio Pokrovskij: +ekz
+
+Revision 1.28  2015/09/22 13:10:19  revo
+Cindy Moon McKee: +klr en
+
+Revision 1.27  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2015/02/04 18:10:15  revo
+Wolfram Diestel: - erareto
+
 Revision 1.24  2014/09/13 12:10:13  revo
 Norbert Luckhardt: +tra DE
 
@@ -617,20 +779,5 @@ Revision 1.23  2014/06/06 09:10:12  revo
 Sergio Pokrovskij: +tr, +ark
 
 Revision 1.22  2011/03/07 15:10:09  revo
-Agustin Garcia Lopez: +trd es (for - i)
-
-Revision 1.21  2010/07/10 16:30:40  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.20  2006/09/17 16:31:12  revo
-Russ Williams: +trd en
-
-Revision 1.19  2006/05/13 16:31:09  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.18  2006/02/25 17:32:44  revo
-Tulio Flores: +tr pt
-
-Revision 1.17  2005/12/15 17:31:00  revo
 -->
 </vortaro>

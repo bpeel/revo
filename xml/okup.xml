@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: okup.xml,v 1.22 2014/04/09 09:10:11 revo Exp $">
+<art mrk="$Id: okup.xml,v 1.25 2015/10/20 06:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>okup</rad>/i
+  <rad>okup</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="okup.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
@@ -160,6 +160,19 @@
   <trd lng="fr">occuper</trd>
   <trd lng="pl">zajmowa&cacute;</trd>
   <trd lng="pt">ocupar</trd>
+  <trdgrp lng="sk">
+    <trd>prideli&tcaron;</trd>,
+    <trd>priradi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>obsadit</trd>,
+    <trd>okupovat</trd>,
+    <trd>zabrat</trd>,
+    <trd>zam&ecaron;stnat</trd>,
+    <trd>zast&aacute;vat</trd>,
+    <trd>zaujmout</trd>,
+    <trd>zmocnit se</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="okup.0o">
@@ -181,11 +194,17 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_n;&c_ja;&c_t;&c_a;&c_k;</trd>
+  <trdgrp lng="cs">
+    <trd>povol&aacute;n&iacute;</trd>,
+    <trd>zab&yacute;v&aacute;n&iacute; se</trd>,
+    <trd>zam&ecaron;stn&aacute;n&iacute;</trd>,
+    <trd>zam&ecaron;stn&aacute;n&iacute;</trd>,
+    <trd>zaujatost <klr>(z&aacute;jem)</klr></trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Besch&auml;ftigung</trd>,
     <trd>Besetzung</trd>
   </trdgrp>
-  <trd lng="cs">zam&ecaron;stn&aacute;n&iacute;</trd>
   <trd lng="es">ocupaci&oacute;n</trd>
   <trd lng="fr">occupation</trd>
   <trdgrp lng="hu">
@@ -196,6 +215,12 @@
   <trd lng="pl">zaj&eogonek;cie</trd>
   <trd lng="pt">ocupa&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_z;&c_a;&c_n;&c_ja;&c_t;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>povolanie</trd>,
+    <trd>zamestnanie</trd>,
+    <trd>zaoberanie sa</trd>,
+    <trd>zaujatos&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="okup.0ado">
@@ -208,6 +233,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>obsazen&iacute;</trd>,
+    <trd>okupace</trd>,
+    <trd>zabr&aacute;n&iacute;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Besch&auml;ftigen</trd>,
     <trd>Besetzen</trd>
@@ -220,6 +250,10 @@
   <trd lng="nl">bezetting</trd>
   <trd lng="pl">zaj&eogonek;cie</trd>
   <trd lng="pt">ocupa&ccedil;&atilde;o</trd>
+  <trdgrp lng="sk">
+    <trd>okup&aacute;cia</trd>,
+    <trd>zabratie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="okup.0igxo0ateco">
@@ -230,6 +264,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_n;&c_ja;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="cs">zam&ecaron;stnanost</trd>
   <trdgrp lng="de">
     <trd>Besch&auml;ftigtsein</trd>
   </trdgrp>
@@ -245,6 +280,10 @@
   </trdgrp>
   <trd lng="pt">ocupa&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_z;&c_a;&c_n;&c_ja;&c_t;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>zamestnanos&tcaron;</trd>,
+    <trd>zanepr&aacute;zdnenos&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="okup.0igxi">
@@ -275,6 +314,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_n;&c_ja;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>obsadit</trd>,
+    <trd>zaujmout postaven&iacute;</trd>,
+    <trd>zmocnit se</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>beginnen, sich (mit etwas) zu <ind>besch&auml;ftigen</ind></trd>
   </trdgrp>
@@ -285,6 +329,7 @@
   <trd lng="nl">zich <ind>meester</ind> maken van</trd>
   <trd lng="pl">zaj&aogonek;&cacute; si&eogonek;</trd>
   <trd lng="ru">&c_z;&c_a;&c_n;&c_ja;&c_t;&c_mol;</trd>
+  <trd lng="sk">zauja&tcaron; postavenie</trd>
 </drv>
 
 <drv mrk="okup.mal0i">
@@ -320,10 +365,46 @@
   <trd lng="nl">ontruimen</trd>
   <trd lng="pl">zwalnia&cacute;</trd>
   <trd lng="pt">desocupar</trd>
+  <trdgrp lng="sk">
+    <trd>opusti&tcaron;</trd>,
+    <trd>vypr&aacute;zdni&tcaron;</trd>,
+    <trd>zanecha&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="okup.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc>
+    <dif>
+      Havanta nenian <tld/>i&gcirc;on:
+      <ekz>
+        Mi duone sidis sur la angulo de granda tablo, <klr>[...]</klr>
+        kun senkura&gcirc;a kaj senokupa mieno
+        <fnt>
+          <aut>Alain Fournier, trad. Roger Bernard</aut>,
+          <vrk>La Granda Meaulnes</vrk>,
+          <lok>p. 121</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>d&eacute;s&oelig;uvr&eacute;</trd>,
+    <trd>d&eacute;soeuvr&eacute;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: okup.xml,v $
+Revision 1.25  2015/10/20 06:10:19  revo
+Alain Gerard: + sen~a +trd (fr)
+
+Revision 1.24  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/04/09 09:10:11  revo
 Damien Brucker: +ekz
 
@@ -337,14 +418,5 @@ Revision 1.19  2012/10/23 00:13:11  revo
 Neil Roberts: aldonu la etikedon <var>
 
 Revision 1.18  2010/07/04 16:30:30  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.17  2004/07/09 17:21:30  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.16  2004/01/13 18:59:13  revo
-Jeromo Vasxe: + bib fundamento en ekz
-
-Revision 1.15  2003/09/12 16:31:32  revo
 -->
 </vortaro>

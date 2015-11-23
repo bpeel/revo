@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: parenc.xml,v 1.24 2013/10/25 13:10:10 revo Exp $">
+<art mrk="$Id: parenc.xml,v 1.26 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>parenc</rad>/o
@@ -56,7 +56,10 @@
   </snc>
   <trd lng="be">&c_s;&c_v;&c_a;&c_ja;&c_k;</trd>
   <trd lng="br">kar<klr tip="ind"> (ak.)</klr></trd>
-  <trd lng="cs">p&rcaron;&iacute;buzn&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;&iacute;buzn&yacute;</trd>,
+    <trd>příbuzný <klr>(osoba)</klr></trd>
+  </trdgrp>
   <trd lng="de">Verwandter</trd>
   <trdgrp lng="en">
     <trd>relative</trd>,
@@ -68,6 +71,10 @@
   <trd lng="nl">familielid</trd>
   <trd lng="pt">parente</trd>
   <trd lng="ru">&c_r;&c_o;&c_d;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>príbuzný</trd>,
+    <trd>rodina</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="parenc.0a">
@@ -110,6 +117,10 @@
     </trdgrp>
   </snc>
   <trd lng="br">kar<klr tip="ind"> (ag.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>příbuzný</trd>,
+    <trd>spřízněný</trd>
+  </trdgrp>
   <trd lng="en">related</trd>
   <trdgrp lng="fr">
     <trd>apparent&eacute;</trd>,
@@ -122,6 +133,7 @@
    <trd>aparentado<klr tip="ind"> (adj.)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_o;&c_d;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">príbuzný</trd>
 </drv>
 
 <drv mrk="parenc.0ino">
@@ -165,6 +177,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">příbuzný získaný sňatkem</trd>
   <trd lng="en">in-law</trd>
   <trd lng="hu">rokon <klr tip="amb">(h&aacute;zass&aacute;g
 r&eacute;v&eacute;n)</klr></trd>
@@ -175,10 +188,17 @@ r&eacute;v&eacute;n)</klr></trd>
     <trd>parente por <ind>afinidade</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_v;&c_o;&c_j;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">príbuzný získaný manželstvom</trd>
 </drv>
 </art>
 <!--
 $Log: parenc.xml,v $
+Revision 1.26  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2013/10/25 13:10:10  revo
 Wolfram Diestel: disigis tri snc de ~o, ekz-fnt
 

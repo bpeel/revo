@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: venen.xml,v 1.26 2014/06/09 16:10:50 revo Exp $">
+<art mrk="$Id: venen.xml,v 1.29 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>venen</rad>/o <fnt><bib>PV</bib></fnt>
@@ -28,6 +28,7 @@
   </trdgrp>
   <trd lng="bg">&c_o;&c_t;&c_r;&c_o;&c_v;&c_a;</trd>
   <trd lng="ca">ver&iacute;</trd>
+  <trd lng="cs">jed</trd>
   <trd lng="de">Gift</trd>
   <trd lng="el">&delta;&eta;&lambda;&eta;&tau;&eta_ton;&rho;&jota;&omikron;</trd>
   <trd lng="en">poison</trd>
@@ -40,7 +41,7 @@
     <trd>poison<klr> (subst.)</klr></trd>,
     <trd>venin</trd>
   </trdgrp>
-  <trd lng="hu">m&eacute;reg</trd>  
+  <trd lng="hu">m&eacute;reg</trd>
   <trdgrp lng="id">
     <trd>racun</trd>,
     <trd>toksin</trd>
@@ -51,7 +52,10 @@
     <trd>&c_ja;&c_d;</trd>,
     <trd>&c_o;&c_t;&c_r;&c_a;&c_v;&c_a;</trd>
   </trdgrp>
-  <trd lng="sk">jed</trd>
+  <trdgrp lng="sk">
+    <trd>jed</trd>,
+    <trd>otrava</trd>
+  </trdgrp>
   <trd lng="tr">zehir</trd>
 </drv>
 
@@ -85,6 +89,10 @@
     <trd>&c_a;&c_t;&c_r;&c_u;&c_t;&c_n;&c_y;</trd>
   </trdgrp>
   <trd lng="ca">verin&oacute;s</trd>
+  <trdgrp lng="cs">
+    <trd>jedovatý</trd>,
+    <trd>jedový</trd>
+  </trdgrp>
   <trd lng="de">giftig</trd>
   <trd lng="el">&delta;&eta;&lambda;&eta;&tau;&eta;&rho;&jota;&omega_ton;&delta;&eta;&sigma_fina;</trd>
   <trd lng="en">poisonous</trd>
@@ -109,7 +117,10 @@
   <trd lng="nl">giftig</trd>
   <trd lng="pt">venenoso</trd>
   <trd lng="ru">&c_ja;&c_d;&c_o;&c_v;&c_i;&c_t;&c_y;&c_j;</trd>
-  <trd lng="sk">jedovat&yacute;</trd>
+  <trdgrp lng="sk">
+    <trd>jedovat&yacute;</trd>,
+    <trd>otravný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="venen.0i">
@@ -121,7 +132,8 @@
     </dif>
   <subsnc>
     <dif>
-      <ref tip="super" cel="mort.0igi.malvivigi">Mortigi</ref>
+      Provi
+      <ref tip="super" cel="mort.0igi.malvivigi">mortigi</ref>
       per efiko de <tld/>o:
       <ekz>
         <tld/>i rabian hundon.
@@ -140,7 +152,7 @@
       </ekz>
       <ekz>
         spir<tld/>i
-        <klr>(pp gasoj)</klr>.
+        <klr>(per gasoj)</klr>.
       </ekz>
     </dif>
   </subsnc>
@@ -182,9 +194,13 @@
   </snc>
   <trd lng="be">&c_a;&c_t;&c_r;&c_u;&c_c;&c_ib;&c_c;&c_mol;</trd>
   <trd lng="ca">enverinar</trd>
+  <trdgrp lng="cs">
+    <trd>otrávit</trd>,
+    <trd>trávit jedem</trd>
+  </trdgrp>
   <trd lng="de">vergiften</trd>
-  <trd lng="en">poison</trd>
   <trd lng="el">&delta;&eta;&lambda;&eta;&tau;&eta;&rho;&jota;&alfa_ton;&zeta;&omega;</trd>
+  <trd lng="en">poison</trd>
   <trd lng="es">envenenar</trd>
   <trdgrp lng="fa">
     <trd>&a_z;&a_h;&a_r;&a_A_madda;&a_l;&a_w;&a_d; &f_k;&a_r;&a_d;&a_n;</trd>,
@@ -200,6 +216,25 @@
   <trd lng="pt">envenenar</trd>
   <trd lng="ru">&c_o;&c_t;&c_r;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
   <trd lng="sk">otr&aacute;vi&tcaron;</trd>
+</drv>
+
+<drv mrk="venen.0igxo">
+  <kap><tld/>i&gcirc;o</kap>
+  <snc mrk="venen.0igxo.KOMUNE">
+    <dif>
+      Enpreno de <tld/>o:
+      <ekz>
+        Lajba&ubreve; sufi&ccirc;e reforti&gcirc;is post la <tld/>i&gcirc;o, kvankam 
+        li ankora&ubreve; aspektis tre malforta
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">empoisonnement</trd>
 </drv>
 
 <drv mrk="venen.kontraux0o">
@@ -246,6 +281,15 @@
 </art>
 <!--
 $Log: venen.xml,v $
+Revision 1.29  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2014/12/14 18:10:15  revo
+Jeromo Vasxe: + ~igxo
+
 Revision 1.26  2014/06/09 16:10:50  revo
 Eko Nur Syah Hidayat: +id
 
@@ -265,8 +309,5 @@ Revision 1.21  2008/12/26 18:42:12  revo
 Wieland Pusch: +trd bg
 
 Revision 1.20  2008/07/16 16:30:47  revo
-Jozefo Horvath: kor. trd hu
-
-Revision 1.19  2006/12/22 17:30:28  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dank.xml,v 1.63 2014/08/21 09:10:10 revo Exp $">
+<art mrk="$Id: dank.xml,v 1.70 2015/10/29 07:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dank</rad>/i <fnt><bib>PV</bib></fnt>
@@ -158,7 +158,10 @@
   <trd lng="bg">&c_b;&c_l;&c_a;&c_g;&c_o;&c_d;&c_a;&c_r;&c_ja;</trd>
   <trd lng="br">trugarekaat</trd>
   <trd lng="ca">agrair</trd>
-  <trd lng="cs">d&ecaron;kovat</trd>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;kovat</trd>,
+    <trd>d&ecaron;kovat</trd>
+  </trdgrp>
   <trd lng="de">danken</trd>
   <trd lng="en">thank</trd>
   <trd lng="es">agradecer</trd>
@@ -171,7 +174,11 @@
   <trd lng="no">takke</trd>
   <trd lng="pt">agradecer</trd>
   <trd lng="ru">&c_b;&c_l;&c_a;&c_g;&c_o;&c_d;&c_a;&c_r;&c_i;&c_t;&c_mol;</trd>
-  <trd lng="sk">&dcaron;akova&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>&dcaron;akova&tcaron;</trd>,
+    <trd>po&dcaron;akovanie</trd>,
+    <trd>&dcaron;akova&tcaron;</trd>
+  </trdgrp>
   <trd lng="sv">tacka</trd>
   <trd lng="uk">&c_d;&c_ja;&c_k;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   <trd lng="vo">dan&ouml;n</trd>
@@ -215,6 +222,7 @@
         </trdgrp>
         <trd lng="pl">dzi&eogonek;kuj&eogonek;</trd>
         <trd lng="pt">obrigado</trd>
+        <trd lng="ro">mul&tcedil;umesc</trd>
         <trd lng="ru">&c_s;&c_p;&c_a;&c_s;&c_i;&c_b;&c_o;</trd>
         <trd lng="tp">pona</trd>
         <trdgrp lng="zh">
@@ -232,21 +240,23 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">thanks</trd>
   <trd lng="be">&c_p;&c_a;&c_d;&c_z;&c_ja;&c_k;&c_a;</trd>
   <trd lng="ca">agra&iuml;ment</trd>
+  <trd lng="cs">d&ecaron;kov&aacute;n&iacute;</trd>
   <trd lng="de">Dank</trd>
   <trd lng="es">agradecimiento</trd>
   <trdgrp lng="fr">
     <trd>remerciement</trd>,
     <trd>merci</trd>
   </trdgrp>
-  <trdgrp lng="hu">
-    <trd>k&ouml;sz&ouml;net</trd>,
-    <trd>megk&ouml;sz&ouml;n&eacute;s</trd>
-  </trdgrp>
   <trdgrp lng="he">
     <trd>&he;&vav;&dalet;&yod;&he;</trd>,
     <trd>&tav;&vav;&dalet;&he;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&ouml;sz&ouml;net</trd>,
+    <trd>megk&ouml;sz&ouml;n&eacute;s</trd>
   </trdgrp>
   <trd lng="nl">dank</trd>
   <trd lng="no">takk</trd>
@@ -259,7 +269,10 @@
     <trd>&c_b;&c_l;&c_a;&c_g;&c_o;&c_d;&c_a;&c_r;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je; &c_p;&c_r;&c_i;&c_z;&c_n;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_i;</trd>
   </trdgrp>
-  <trd lng="sk">po&dcaron;akovanie</trd>
+  <trdgrp lng="sk">
+    <trd>po&dcaron;akovanie</trd>,
+    <trd>&dcaron;akovanie</trd>
+  </trdgrp>
   <trd lng="sv">tack</trd>
   <trd lng="tr">te&scedil;ekk&uuml;r</trd>
   <trd lng="vo">dan</trd>
@@ -280,12 +293,17 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="lat">gratus</trd>
   <trd lng="be">&c_u;&c_d;&c_z;&c_ja;&c_ch;&c_n;&c_y;</trd>
   <trd lng="br">anaoudek<klr tip="ind"> (a ziskouez e
   anaoudegezh-vat)
     </klr></trd>
   <trd lng="ca">agra&iuml;t</trd>
-  <trd lng="cs">vd&ecaron;&ccaron;n&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>povd&ecaron;&ccaron;n&yacute;</trd>,
+    <trd>vd&ecaron;&ccaron;n&yacute;</trd>,
+    <trd>vd&ecaron;&ccaron;n&yacute;</trd>
+  </trdgrp>
   <trd lng="de">dankbar</trd>
   <trdgrp lng="en">
     <trd>thankful</trd>,
@@ -298,7 +316,6 @@
   </trdgrp>
   <trd lng="he">&alef;&samekh;&yod;&resh; &tav;&vav;&dalet;&he;</trd>
   <trd lng="hu">h&aacute;l&aacute;s</trd>
-  <trd lng="lat">gratus</trd>
   <trd lng="nl">dankbaar</trd>
   <trd lng="no">takknemlig</trd>
   <trd lng="pl">wdzi&eogonek;czny</trd>
@@ -307,7 +324,10 @@
     <trd>&c_b;&c_l;&c_a;&c_g;&c_o;&c_d;&c_a;&c_r;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_z;&c_n;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
-  <trd lng="sk">v&dcaron;a&ccaron;n&yacute;</trd>
+  <trdgrp lng="sk">
+    <trd>v&dcaron;a&ccaron;n&yacute;</trd>,
+    <trd>&dcaron;akovn&yacute;</trd>
+  </trdgrp>
   <trd lng="uk">&c_v;&c_d;&c_ja;&c_ch;&c_n;&c_i;&c_j;</trd>
   <trd lng="vo">danik</trd>
 </drv>
@@ -321,7 +341,7 @@
         ju la kritikoj de mia lingvo estas pli severaj, des
         pli <tld/>e mi ilin alprenas
         <fnt>
-          <aut>&Z;</aut>:
+          <aut>L. L. Zamenhof</aut>:
           <vrk>Anta&ubreve;parolo al la Dua Libro de l' Lingvo
           Internacia</vrk>.
         </fnt>;
@@ -333,6 +353,10 @@
     </dif>
     <trd lng="ru">&c_b;&c_l;&c_a;&c_g;&c_o;&c_d;&c_a;&c_r;&c_n;&c_o;</trd>
   </snc>
+  <trdgrp lng="en">
+    <trd>thankfully</trd>,
+    <trd>appreciatively</trd>
+  </trdgrp>
   <trd lng="be">&c_d;&c_z;&c_ja;&c_k;&c_u;&c_ju;&c_ch;&c_y;</trd>
   <trd lng="es">con reconocimiento</trd>
   <trd lng="fr">avec reconnaissance</trd>
@@ -384,15 +408,15 @@
         mi esperas, ke l' afero balda&ubreve; kaj sen bruo vasti&gcirc;os en la
         tuta mondo
         <fnt>
-          <aut>&Z;</aut>:
+          <aut>L. L. Zamenhof</aut>,
           <vrk>Aldono al la Dua Libro de l' Lingvo Internacia</vrk>;
         </fnt>;
       </ekz>
       <ekz>
         <tld/>e la intervenon de la vorto <ctl>po</ctl> la
         <ctl>pecoj</ctl> jam ne dependas rekte de la <ctl>doni</ctl>
-        <fnt><aut>&Z;</aut>: <bib>LR</bib>,
-          <lok>La Esperantisto, 1891, p. 7</lok></fnt>. 
+        <fnt><aut>L. L. Zamenhof</aut>, <bib>LR</bib>,
+          <lok>La Esperantisto, 1891, p. 7a</lok></fnt>. 
       </ekz>
     </dif>
     <ref tip="vid" cel="spit.0eal">spite al</ref>
@@ -460,7 +484,11 @@
   anaoudegezh-vat)
     </klr></trd>
   <trd lng="ca">agra&iuml;t</trd>
-  <trd lng="cs">vd&ecaron;&ccaron;n&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>povd&ecaron;&ccaron;n&yacute;</trd>,
+    <trd>vd&ecaron;&ccaron;n&yacute;</trd>,
+    <trd>vd&ecaron;&ccaron;n&yacute;</trd>
+  </trdgrp>
   <trd lng="de">dankbar</trd>
   <trdgrp lng="en">
     <trd>thankful</trd>,
@@ -476,10 +504,13 @@
     <trd>wdzi&eogonek;czny</trd>,
     <trd>dzi&eogonek;kczynny</trd>
   </trdgrp>
-  <trd lng="sk">v&dcaron;a&ccaron;n&yacute;</trd>
   <trdgrp lng="ru">
     <trd>&c_b;&c_l;&c_a;&c_g;&c_o;&c_d;&c_a;&c_r;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_z;&c_n;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>v&dcaron;a&ccaron;n&yacute;</trd>,
+    <trd>v&dcaron;a&ccaron;n&yacute;</trd>
   </trdgrp>
 </drv>
 
@@ -535,6 +566,33 @@
   <trd lng="sv">tacksamhet</trd>
 </drv>
 
+<drv mrk="dank.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="dank.mal0i.KOMUNE">
+    <dif>
+      Esprimi malkontenton pro ricevita malagrabla&jcirc;o,
+      <ref tip="vid" cel="plend.0i">plendi</ref>:
+      <ekz>
+        agu do, kaj vin ne &gcirc;enu, se mal<tld/>os la popolo
+        <fnt>
+          <aut>I. Mad&aacute;ch, trad. K. Kalocsay</aut>,
+          <vrk><url
+          ref="http://mek.oszk.hu/00900/00928/html/madach15.htm">
+          La Tragedio de l' Homo</url></vrk>,
+          <lok>1965</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en"><trd>to express one's dissatisfaction to</trd>,
+  <trd>to complain</trd></trdgrp>
+  <trdgrp lng="fr">
+    <trd>se montrer <ind>ingrat</ind></trd>,
+    <trd>protester</trd>
+  </trdgrp>
+</drv>
+
 <drv mrk="dank.sen0a">
   <kap>sen<tld/>a</kap>
   <snc mrk="dank.sen0a.nemontrante">
@@ -559,28 +617,55 @@
     <trd lng="ca">desagra&iuml;t</trd>
     <trd lng="es">desagradecido</trd>
   </snc>
+  <trd lng="lat">ingratus</trd>
   <trd lng="be">&c_n;&c_ja;&c_w;&c_d;&c_z;&c_ja;&c_ch;&c_n;&c_y;</trd>
   <trd lng="br">dianaoudek</trd>
   <trd lng="ca">malagra&iuml;t</trd>
-  <trd lng="cs">nevd&ecaron;&ccaron;n&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>nevd&ecaron;&ccaron;n&yacute;</trd>,
+    <trd>nevd&ecaron;&ccaron;n&yacute;</trd>
+  </trdgrp>
   <trd lng="de">undankbar</trd>
   <trdgrp lng="en">
     <trd>thankless</trd>,
     <trd>unsung</trd>
   </trdgrp>
   <trd lng="es">desagradecido</trd>
-  <trd lng="fr">ingrat</trd>
+  <trd lng="fr">ingrat<klr> (adj.)</klr></trd>
+  <trd lng="he">&kaf;&pe;&vav;&yod;-&tet;&vav;&bet;&he;</trd>
   <trd lng="hu">h&aacute;l&aacute;tlan</trd>
-  <trd lng="lat">ingratus</trd>
   <trd lng="nl">ondankbaar</trd>
   <trd lng="no">utakknemmelig</trd>
   <trd lng="pl">niewdzi&eogonek;czny</trd>
-  <trd lng="ru">&c_n;&c_je;&c_b;&c_l;&c_a;&c_g;&c_o;&c_d;&c_a;&c_r;&c_n;&c_y;&c_j;</trd>
-  <trd lng="sk">nev&dcaron;a&ccaron;n&yacute;</trd>
-  <trd lng="sv">otacksam</trd>
-  <trd lng="he">&kaf;&pe;&vav;&yod;-&tet;&vav;&bet;&he;</trd>
-  <trd lng="uk">&c_n;&c_je;&c_v;&c_d;&c_ja;&c_ch;&c_n;&c_i;&c_j;</trd>
   <trd lng="pt">ingrato</trd>
+  <trd lng="ru">&c_n;&c_je;&c_b;&c_l;&c_a;&c_g;&c_o;&c_d;&c_a;&c_r;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>nev&dcaron;a&ccaron;n&yacute;</trd>,
+    <trd>nev&dcaron;a&ccaron;n&yacute;</trd>
+  </trdgrp>
+  <trd lng="sv">otacksam</trd>
+  <trd lng="uk">&c_n;&c_je;&c_v;&c_d;&c_ja;&c_ch;&c_n;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="dank.sen0ulo">
+  <kap>sen<tld/>ulo</kap>
+  <snc mrk="dank.sen0ulo.PSI">
+    <dif>
+      Homo sen<tld/>a, ne repaganta per vortoj a&ubreve;
+      per agoj ricevitan bonon:
+      <ekz>
+        kontra&ubreve; sen<tld/>ulo fu&gcirc;anta kun mal&scirc;ato
+        <fnt>
+          <aut>J. Racine, trad. G. Lagrange</aut>,
+          <vrk>Fedra</vrk>,
+          <lok>1991</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">ingrate</trd>
+  <trd lng="fr">ingrat<klr> (subst.)</klr></trd>
+  <trd lng="pl">niewdzi&eogonek;cznik</trd>
 </drv>
 
 <drv mrk="dank.D0ofesto">
@@ -589,7 +674,9 @@
   <snc mrk="dank.D0ofesto.KAL">
     <uzo tip="fak">KAL</uzo>
     <dif>
-      Nordamerika festo, okazanta je la 4a &jcirc;a&ubreve;do de
+      Nordamerika
+      <ref tip="lst" cel="fest.0o" lst="voko:festoj">festo</ref>,
+      okazanta je la 4a &jcirc;a&ubreve;do de
       novembro en Usono, kaj je la 2a lundo de oktobro en Kanado,
       origine danka al Dio pro la favoroj de la pasinta jaro:
       <ekz>
@@ -631,27 +718,27 @@
 </art>
 <!--
 $Log: dank.xml,v $
+Revision 1.70  2015/10/29 07:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.69  2015/09/13 23:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.68  2015/07/08 20:10:16  revo
+Vito Redsky: +trd ro
+
+Revision 1.67  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.66  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.65  2015/06/13 17:10:22  revo
+Jeromo Vasxe: + sen~ulo
+
+Revision 1.64  2014/12/19 23:10:21  revo
+Jeromo Vasxe: + mal~i
+
 Revision 1.63  2014/08/21 09:10:10  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.62  2014/07/29 07:10:27  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.61  2014/06/29 01:10:10  revo
-Jeromo Vasxe: 1 drv por danke al/ dank' al/ danke ...n
-
-Revision 1.60  2014/04/23 08:10:31  revo
-Damien Brucker: aldono al difino
-
-Revision 1.59  2013/12/29 02:10:13  revo
-Damien Brucker: +ref
-
-Revision 1.58  2013/11/28 14:10:14  revo
-Damien Brucker: +rim cxe dankema
-
-Revision 1.57  2013/10/07 07:10:09  revo
-Damien Brucker: Aldono de citiloj
-
-Revision 1.56  2013/09/09 16:10:10  revo
 -->
 </vortaro>

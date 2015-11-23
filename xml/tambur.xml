@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tambur.xml,v 1.24 2014/11/01 06:10:24 revo Exp $">
+<art mrk="$Id: tambur.xml,v 1.26 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tambur</rad>/o <fnt><bib>PV</bib></fnt>
@@ -26,6 +26,10 @@
   </snc>
   <trd lng="be">&c_b;&c_a;&c_r;&c_a;&c_b;&c_a;&c_n;</trd>
   <trd lng="ca">tambor</trd>
+  <trdgrp lng="cs">
+    <trd>buben</trd>,
+    <trd>tamburo</trd>
+  </trdgrp>
   <trd lng="de">Trommel</trd>
   <trd lng="en">drum</trd>
   <trd lng="fr">tambour</trd>
@@ -41,6 +45,7 @@
     <trd>tambor</trd>
   </trdgrp>
   <trd lng="ru">&c_b;&c_a;&c_r;&c_a;&c_b;&c_a;&c_n;</trd>
+  <trd lng="sk">bubon</trd>
   <trd lng="sv">trumma</trd>
 </drv>
 
@@ -83,6 +88,7 @@
     <trd lng="fr">battre du tambour</trd>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_r;&c_a;&c_b;&c_a;&c_n;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="cs">tlouci na buben</trd>
   <trd lng="hu">dobol</trd>
   <trdgrp lng="it">
     <trd>tamburellare</trd>,
@@ -91,6 +97,7 @@
   </trdgrp>
   <trd lng="nl">trommelen</trd>
   <trd lng="ru">&c_b;&c_a;&c_r;&c_a;&c_b;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">bubnovať</trd>
   <trd lng="sv">trumma</trd>
 </drv>
 
@@ -109,7 +116,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">tambor</trd>
   <trd lng="fr">tambour<klr> (archi.)</klr></trd>
+  <trd lng="sk">tambor</trd>
 </drv>
 
 <drv mrk="tambur.orel0o">
@@ -122,6 +131,7 @@
   <trd lng="be">&c_b;&c_a;&c_r;&c_a;&c_b;&c_a;&c_n;&c_n;&c_a;&c_ja; &c_p;&c_je;&c_r;&c_a;&c_p;&c_o;&c_n;&c_k;&c_a;</trd>
   <trd lng="br">taboulin<klr tip="ind"> (ar skouarn)</klr></trd>
   <trd lng="ca">timp&agrave;</trd>
+  <trd lng="cs">ušní bubínek</trd>
   <trd lng="de">Trommelfell</trd>
   <trd lng="es">t&iacute;mpano</trd>
   <trd lng="fr">tympan<klr> (anatomie)</klr></trd>
@@ -136,10 +146,17 @@
   <trd lng="pl">b&eogonek;benek uszny</trd>
   <trd lng="pt">t&iacute;mpano</trd>
   <trd lng="ru">&c_b;&c_a;&c_r;&c_a;&c_b;&c_a;&c_n;&c_n;&c_a;&c_ja; &c_p;&c_je;&c_r;&c_je;&c_p;&c_o;&c_n;&c_k;&c_a;</trd>
+  <trd lng="sk">ušný bubienok</trd>
 </drv>
 </art>
 <!--
 $Log: tambur.xml,v $
+Revision 1.26  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2014/11/01 06:10:24  revo
 Jeromo Vasxe: +  ~umo
 

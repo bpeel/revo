@@ -2,12 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arhxitekt.xml,v 1.5 2006/03/10 17:31:37 revo Exp $">
+<art mrk="$Id: arhxitekt.xml,v 1.7 2015/01/16 08:10:16 revo Exp $">
 <kap>
   <ofc>3</ofc><rad>ar&hcirc;itekt</rad>/o
 </kap>
 <drv mrk="arhxitekt.0o">
   <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">ARKI</uzo>
   <ref tip="dif" cel="arkite1.0isto">arkitekturisto</ref>
   <ekz>
     <tld/>o povus diri: Mi kredas, ke la ru&gcirc;aj se&gcirc;egoj aspektos belegaj
@@ -19,6 +21,7 @@
     2005-05-27</lok>
     </fnt>.
   </ekz>
+  </snc>
   <trd lng="be">&c_a;&c_r;&c_h;&c_ib;&c_t;&c_e;&c_k;&c_t;&c_a;&c_r;</trd>
   <trdgrp lng="br">
     <trd>adeiladour</trd>,
@@ -39,6 +42,12 @@
 </art>
 <!--
 $Log: arhxitekt.xml,v $
+Revision 1.7  2015/01/16 08:10:16  revo
+Damien Brucker: +fak
+
+Revision 1.6  2015/01/15 21:10:14  revo
+Damien Brucker: +fak
+
 Revision 1.5  2006/03/10 17:31:37  revo
 Jeromo Vasxe: + ekz
 

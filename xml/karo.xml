@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: karo.xml,v 1.17 2011/08/24 07:10:13 revo Exp $">
+<art mrk="$Id: karo.xml,v 1.20 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>karo</rad>/o
@@ -25,10 +25,16 @@
       <ref cel="pik.0o.emblemo">piko</ref>,
       <ref cel="tref.0o">trefo</ref>
     </refgrp>
-  </snc>                        
+  </snc>
   <trd lng="br">karo</trd>
+  <trdgrp lng="cs">
+    <trd>karo</trd>,
+    <trd>kule <klr>(karty)</klr></trd>
+  </trdgrp>
   <trd lng="de">Karo</trd>
   <trd lng="en">diamond</trd>
+  <trd lng="es">diamantes <klr>(palo de la baraja de naipes
+  francesa)</klr></trd>
   <trd lng="fr">carreau<klr tip="ind"> (jeu de cartes)</klr></trd>
   <trd lng="hu">k&aacute;r&oacute;</trd>
   <trd lng="nl">ruiten<klr tip="ind"> (in kaartspel)</klr></trd>
@@ -39,11 +45,24 @@
   </trdgrp>
   <trd lng="ru">&c_b;&c_u;&c_b;&c_n;&c_y;
   <klr>(&c_m;&c_a;&c_s;&c_t;&c_mol;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>guľa <klr>(karty)</klr></trd>,
+    <trd>káro</trd>
+  </trdgrp>
   <trd lng="sv">ruter</trd>
 </drv>
 </art>
 <!--
 $Log: karo.xml,v $
+Revision 1.20  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/01/11 06:11:04  revo
+Carlos Garcia: +trd es -o
+
 Revision 1.17  2011/08/24 07:10:13  revo
 Sebastian Cyprych: +trd pl
 
@@ -63,8 +82,5 @@ Revision 1.12 2004/03/11 17:30:57 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.11 2001/11/05 19:11:32 revo
-Ulrich Fellmann: + germ trd
-
-Revision 1.10 2001/07/22 18:14:48 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: piked.xml,v 1.15 2010/06/21 16:30:24 revo Exp $">
+<art mrk="$Id: piked.xml,v 1.17 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>piked</rad>/o
@@ -46,13 +46,27 @@
     <trd lng="it">piquet<klr> (gioco)</klr></trd>
     <trd lng="ru">&c_p;&c_i;&c_k;&c_je;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>piketa</trd>,
+    <trd>vojenská hlídka</trd>
+  </trdgrp>
   <trd lng="fr">piquet</trd>
   <trd lng="nl">piket</trd>
   <trd lng="pt">piqu&ecirc;</trd>
+  <trdgrp lng="sk">
+    <trd>piketa</trd>,
+    <trd>vojenský oddiel</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: piked.xml,v $
+Revision 1.17  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2010/06/21 16:30:24  revo
 Antonio Codazzi: +trd it
 

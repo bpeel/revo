@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eksud.xml,v 1.9 2010/01/13 17:30:52 revo Exp $">
+<art mrk="$Id: eksud.xml,v 1.11 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <rad>eksud</rad>/i
 </kap>
@@ -19,6 +19,11 @@
     </dif>
     <ref tip="vid" cel="sxvit.0igxi">&scirc;viti&gcirc;i.</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>exsudovat</trd>,
+    <trd>vyměšovat exsudát</trd>,
+    <trd>vypocovat se</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>ausschwitzen</trd>,
      <trd>absondern</trd>
@@ -27,6 +32,7 @@
   <trd lng="hu">izzadm&aacute;ny k&eacute;pz&odblac;dik</trd>
   <trd lng="pl">wysi&eogonek;ka&cacute;</trd>
   <trd lng="pt">exsudar</trd>
+  <trd lng="sk">vypotiť</trd>
 </drv>
 
 <drv mrk="eksud.0o">
@@ -70,6 +76,12 @@
 </art>
 <!--
 $Log: eksud.xml,v $
+Revision 1.11  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2010/01/13 17:30:52  revo
 Sebastian Cyprych: +trd pl
 

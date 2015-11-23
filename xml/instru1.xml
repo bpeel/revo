@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: instru1.xml,v 1.22 2014/08/25 11:10:09 revo Exp $">
+<art mrk="$Id: instru1.xml,v 1.25 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>instrukci</rad>/o <fnt><bib>PV</bib></fnt>
@@ -16,7 +16,7 @@
       <ekz>
         Toro metis la felojn de la kaproj &ccirc;e la alia flanko
         de la fajro kaj <tld/>is al la bienulo kaj liaj
-        domanoj, ke ili &jcirc;etu la ostojn sur la feojn
+        domanoj, ke ili &jcirc;etu la ostojn sur la felojn
         <fnt>
           <aut>S. Sturluson, trad. B. Ragnarsson</aut>,
           <vrk>La Edda de Snorri Sturluson</vrk>,
@@ -28,6 +28,10 @@
       <ref cel="preskr.0i">preskribi</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dát instrukci</trd>,
+    <trd>instruovat</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>dar &oacute;rdenes</trd>,
     <trd>explicar<klr> (c&oacute;mo...)</klr></trd>
@@ -35,6 +39,10 @@
   <trdgrp lng="fr">
     <trd>donner des ordres</trd>,
     <trd>expliquer<klr> (comment faire...)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dať inštrukciu</trd>,
+    <trd>inštruovať</trd>
   </trdgrp>
 </drv>
 
@@ -154,10 +162,57 @@
     <trd lng="nl">opdracht</trd>
     <trd lng="pt">comando<klr tip="amb"> (computa&ccedil;&atilde;o)</klr></trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>instrukce</trd>,
+    <trd>nařízení</trd>,
+    <trd>návod</trd>,
+    <trd>pokyn</trd>,
+    <trd>poučení</trd>,
+    <trd>předpis</trd>,
+    <trd>směrnice</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>inštrukcia</trd>,
+    <trd>nariadenie</trd>,
+    <trd>návod</trd>,
+    <trd>pokyn</trd>,
+    <trd>predpis</trd>,
+    <trd>predpis</trd>,
+    <trd>smernica</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="instru1.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="instru1.0igxi.KOMUNE">
+    <dif>
+      Ekkoni, akcepti <tld/>on:
+      <ekz>
+        mi devas iri la &ccirc;efsidejon de l' Revolucia Partio 
+        por <tld/>i&gcirc;i
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">recevoir des <ind>instructions</ind></trd>
 </drv>
 </art>
 <!--
 $Log: instru1.xml,v $
+Revision 1.25  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2014/12/13 19:10:31  revo
+Jeromo Vasxe: + ~igxi
+
 Revision 1.22  2014/08/25 11:10:09  revo
 Guillermo Molleda Jimena: trd es
 
@@ -176,9 +231,6 @@ Dmitri Gabinski: +trd be
 Revision 1.17  2004/02/09 17:31:22  revo
 Marc Bavant: +tip en trd/klr[@lng='fr']; ~o 1: kor ekz, mod ref al
 direkto; ~o KOMP: mod dif
-
-Revision 1.16  2004/02/05 17:30:36  revo
-Jozefo Horvath: +trd hu
 
 -->
 </vortaro>

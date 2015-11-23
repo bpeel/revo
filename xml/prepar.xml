@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: prepar.xml,v 1.21 2008/06/20 16:30:17 revo Exp $">
+  <art mrk="$Id: prepar.xml,v 1.25 2015/07/04 08:37:42 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>prepar</rad>/i
@@ -45,25 +45,35 @@
           <fnt><bib>MT</bib>, <lok>&Sen; 21:31</lok></fnt>;
         </ekz><ekz>
           ni <tld/>as el &gcirc;i panon
-          <fnt><bib>FK</bib>, <lok>4, rakontoj, la hejmo de la metiisto, (de
-              nov-jorka kuracisto, rerakontita de E. Weilsh&auml;user)</lok></fnt>.
+          <fnt><bib>FK</bib>, <lok>4, rakontoj, la hejmo de la metiisto,
+          (de
+              nov-jorka kuracisto, rerakontita de E.
+              Weilsh&auml;user)</lok></fnt>.
         </ekz>
         <trd lng="hu">elk&eacute;sz&iacute;t</trd>
       </snc>
-      <trdgrp lng="be">
+  <trdgrp lng="be">
         <trd>&c_r;&c_y;&c_h;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
         <trd>&c_p;&c_a;&c_d;&c_r;&c_y;&c_h;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
       </trdgrp>
-      <trd lng="cs">p&rcaron;ipravit</trd>
-      <trd lng="de">vorbereiten</trd>
-      <trd lng="en">prepare</trd>
-      <trd lng="es">preparar</trd>
-      <trd lng="fr">pr&eacute;parer</trd>
-      <trdgrp lng="nl">
+  <trd lng="bg">&c_p;&c_o;&c_d;&c_g;&c_o;&c_t;&c_v;&c_i;</trd>
+  <trdgrp lng="cs">
+    <trd>chystat</trd>,
+    <trd>p&rcaron;ipravit</trd>,
+    <trd>přichystat</trd>,
+    <trd>připravit</trd>,
+    <trd>uchystat</trd>,
+    <trd>upravit</trd>
+  </trdgrp>
+  <trd lng="de">vorbereiten</trd>
+  <trd lng="en">prepare</trd>
+  <trd lng="es">preparar</trd>
+  <trd lng="fr">pr&eacute;parer</trd>
+  <trdgrp lng="nl">
         <trd>voorbereiden</trd>,
         <trd>klaarmaken</trd>
       </trdgrp>
-      <trdgrp lng="pt">
+  <trdgrp lng="pt">
         <trd>preparar</trd>,
         <trd>aparelhar</trd>,
         <trd>dispor</trd>,
@@ -71,13 +81,18 @@
         <trd>aprestar</trd>,            
         <trd>aprontar</trd>
       </trdgrp>
-      <trdgrp lng="ru">
+  <trdgrp lng="ru">
         <trd>&c_g;&c_o;&c_t;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>,
         <trd>&c_p;&c_r;&c_i;&c_g;&c_o;&c_t;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>,
         <trd>&c_p;&c_o;&c_d;&c_g;&c_o;&c_t;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>
       </trdgrp>
-      <trd lng="sv">f&ouml;rbereda</trd>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>prichystať</trd>,
+    <trd>pripraviť</trd>,
+    <trd>upraviť</trd>
+  </trdgrp>
+  <trd lng="sv">f&ouml;rbereda</trd>
+</drv>
 
     <drv mrk="prepar.0igxi">
       <kap><tld/>i&gcirc;i</kap>
@@ -98,6 +113,7 @@
         <trd>&c_r;&c_y;&c_h;&c_t;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
         <trd>&c_p;&c_a;&c_d;&c_r;&c_y;&c_h;&c_t;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
       </trdgrp>
+      <trd lng="bg">&c_p;&c_r;&c_i;&c_g;&c_o;&c_t;&c_v;&c_i; &c_s;&c_je;</trd>
       <trdgrp lng="fr">
         <trd>se <ind>mettre en condition</ind></trd>,
         <trd>se <ind>pr&eacute;parer</ind></trd>
@@ -114,10 +130,16 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="be">&c_p;&c_a;&c_d;&c_r;&c_y;&c_h;&c_t;&c_o;&c_w;&c_k;&c_a;</trd>
-      <trd lng="fr">pr&eacute;paration</trd>
-      <trd lng="ru">&c_p;&c_o;&c_d;&c_g;&c_o;&c_t;&c_o;&c_v;&c_k;&c_a;</trd>
-    </drv>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_r;&c_y;&c_h;&c_t;&c_o;&c_w;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_p;&c_o;&c_d;&c_g;&c_o;&c_t;&c_o;&c_v;&c_k;&c_a;</trd>
+  <trd lng="cs">příprava</trd>
+  <trd lng="de">Vorbereitung</trd>
+  <trd lng="en">preparation</trd>
+  <trd lng="fr">pr&eacute;paration</trd>
+  <trd lng="nl">voorbereiding</trd>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_g;&c_o;&c_t;&c_o;&c_v;&c_k;&c_a;</trd>
+  <trd lng="sk">príprava</trd>
+</drv>
 
     <drv mrk="prepar.0ado">
       <kap><tld/>ado</kap>
@@ -136,7 +158,7 @@
       <snc mrk="prepar.0ado.BIB">
         <uzo tip="fak">BIB</uzo>
         <dif>
-          Posttagmeza tempoperiodo (proksimime de la 3a horo
+          Posttagmeza tempoperiodo (proksimume de la 3a horo
           posttagmeze &gcirc;is la la sunsubiro) dum kiu la judismanoj
           preparas &ccirc;ion necesan por sabato a&ubreve; simila festo:
           <ekz>
@@ -173,16 +195,20 @@
         </trdgrp>
         <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_k;&c_o;&c_m;&c_i;&c_d;&c_i;&c_ja;</trd>
       </snc>
-      <trd lng="be">&c_p;&c_a;&c_d;&c_r;&c_y;&c_h;&c_t;&c_o;&c_w;&c_k;&c_a;</trd>
-      <trd lng="de">Vorbereitung</trd>
-      <trd lng="es">preparaci&oacute;n</trd>
-      <trd lng="fr">pr&eacute;paration</trd>
-      <trdgrp lng="hu">
+  <trd lng="be">&c_p;&c_a;&c_d;&c_r;&c_y;&c_h;&c_t;&c_o;&c_w;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_p;&c_o;&c_d;&c_g;&c_o;&c_t;&c_o;&c_v;&c_k;&c_a;</trd>
+  <trd lng="cs">příprava</trd>
+  <trd lng="de">Vorbereitung</trd>
+  <trd lng="en">preparation</trd>
+  <trd lng="es">preparaci&oacute;n</trd>
+  <trd lng="fr">pr&eacute;paration</trd>
+  <trdgrp lng="hu">
         <trd>el&odblac;k&eacute;sz&iacute;t&eacute;s</trd>,
         <trd>elk&eacute;sz&iacute;t&eacute;s</trd>
       </trdgrp>
-      <trd lng="nl">voorbereiding</trd>
-    </drv>
+  <trd lng="nl">voorbereiding</trd>
+  <trd lng="sk">príprava</trd>
+</drv>
 
     <drv mrk="prepar.0a">
       <kap><tld/>a</kap>
@@ -192,7 +218,8 @@
           <ekz>
             <tld/>aj ekzercoj, kursoj, lernejoj;
           </ekz><ekz>
-            la spaco da tero <klr>...</klr> estas tre fruktoporta, sed arbara
+            la spaco da tero <klr>...</klr> estas tre fruktoporta, sed
+            arbara
             kaj postulanta multe da <tld/>a laborado
             <fnt><bib>FK</bib>, <lok>5, el la vivo kaj sciencoj,
                 bagateloj</lok></fnt>.
@@ -200,6 +227,7 @@
         </dif>
       </snc>
       <trd lng="be">&c_p;&c_a;&c_d;&c_r;&c_y;&c_h;&c_t;&c_o;&c_w;&c_ch;&c_y;</trd>
+      <trd lng="bg">&c_p;&c_r;&c_i;&c_g;&c_o;&c_t;&c_v;&c_je;&c_n;</trd>
       <trdgrp lng="ca">
         <trd>preparatiu</trd>,
         <trd>preparatori</trd>
@@ -229,30 +257,46 @@
           <ref cel="improv.0i">improvizi</ref>
         </refgrp>
       </snc>
-      <trdgrp lng="be">
+  <trdgrp lng="be">
         <trd>&c_b;&c_je;&c_z;
           <ind>&c_p;&c_a;&c_d;&c_r;&c_y;&c_h;&c_t;&c_o;&c_w;&c_k;&c_ib;</ind></trd>,
         <trd>&c_n;&c_je;&c_p;&c_a;&c_d;&c_r;&c_y;&c_h;&c_t;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
       </trdgrp>
-      <trd lng="de">unvorbereitet</trd>
-      <trdgrp lng="fr">
+  <trd lng="bg">&c_n;&c_je;&c_p;&c_r;&c_i;&c_g;&c_o;&c_t;&c_v;&c_je;&c_n;</trd>
+  <trd lng="cs">bez přípravy <klr>(adj.)</klr></trd>
+  <trd lng="de">unvorbereitet</trd>
+  <trd lng="en">unprepared</trd>
+  <trdgrp lng="fr">
         <trd>impromptu</trd>,
         <trd>improvis&eacute;</trd>
       </trdgrp>
-      <trdgrp lng="hu">
+  <trdgrp lng="hu">
         <trd>el&odblac;k&eacute;sz&iacute;tetlen</trd>,
         <trd>vill&aacute;m-<klr tip="amb"> (pl. dolgozat)</klr></trd>
       </trdgrp>
-      <trd lng="nl">onvoorbereid</trd>
-      <trdgrp lng="ru">
+  <trd lng="nl">onvoorbereid</trd>
+  <trdgrp lng="ru">
         <trd>&c_b;&c_je;&c_z; <ind>&c_p;&c_o;&c_d;&c_g;&c_o;&c_t;&c_o;&c_v;&c_k;&c_i;</ind></trd>,
         <trd>&c_n;&c_je;&c_p;&c_o;&c_d;&c_g;&c_o;&c_t;&c_o;&c_v;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
       </trdgrp>
-      <trd lng="sv">of&ouml;rberedd</trd>
-    </drv>
+  <trd lng="sk">nepripravený</trd>
+  <trd lng="sv">of&ouml;rberedd</trd>
+</drv>
   </art>
   <!--
   $Log: prepar.xml,v $
+  Revision 1.25  2015/07/04 08:37:42  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.24  2015/06/29 16:40:18  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.23  2015/05/22 18:10:12  revo
+  Joop Eggen: +trd bg en
+
+  Revision 1.22  2015/02/04 17:10:16  revo
+  Wolfram Diestel: -tajperaro
+
   Revision 1.21  2008/06/20 16:30:17  revo
   Sergio Pokrovskij: +trd=ru
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nenial.xml,v 1.14 2014/04/12 15:10:16 revo Exp $">
+<art mrk="$Id: nenial.xml,v 1.17 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nenial</rad>
@@ -27,6 +27,10 @@
     <trd>&c_b;&c_je;&c_s;&c_p;&c_r;&c_y;&c_ch;&c_y;&c_n;&c_n;&c_a;</trd>,
     <trd>&c_b;&c_je;&c_z; &c_d;&c_a;&c_j; &c_p;&c_r;&c_y;&c_ch;&c_y;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bez příčiny</trd>,
+    <trd>pro nic za nic</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>grundlos</trd>,
      <trd>aus keinem <ind>Grund</ind></trd>
@@ -37,6 +41,7 @@
     <trd>on no <ind>account</ind></trd>,
     <trd>without any <ind>reason (cause, motive)</ind> whatever</trd>
   </trdgrp>
+  <trd lng="es">por ninguna raz&oacute;n</trd>
   <trd lng="fr">pour aucune cause</trd>
   <trdgrp lng="hu">
     <trd>semmi&eacute;rt<klr tip="ind"> (semmilyen okb&oacute;l)</klr></trd>,
@@ -50,10 +55,23 @@
     <trd>&c_b;&c_je;&c_s;&c_p;&c_r;&c_i;&c_ch;&c_i;&c_n;&c_n;&c_o;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_o; &c_t;&c_a;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bezdôvodne</trd>,
+    <trd>pre nič</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: nenial.xml,v $
+Revision 1.17  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2015/04/18 11:10:18  revo
+Carlos Garcia: +trd es
+
 Revision 1.14  2014/04/12 15:10:16  revo
 Damien Brucker: +trd fr
 
@@ -73,8 +91,5 @@ Revision 1.9  2002/10/14 16:33:52  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.8  2001/12/24 19:28:28  revo
-Karlo Freeman: +trd=en
-
-Revision 1.7  2001/11/30 17:35:07  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kaze.xml,v 1.23 2012/01/02 17:10:09 revo Exp $">
+<art mrk="$Id: kaze.xml,v 1.25 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kaze</rad>/o <fnt><bib>PV</bib></fnt>
@@ -28,6 +28,7 @@
   <trd lng="bg">&c_i;&c_z;&c_v;&c_a;&c_r;&c_a;</trd>
   <trd lng="br">kaouledenn (laezh)</trd>
   <trd lng="ca">mat&oacute;</trd>
+  <trd lng="cs">tvaroh</trd>
   <trd lng="de">Quark</trd>
   <trd lng="en">curd</trd>
   <trd lng="es">reques&oacute;n</trd>
@@ -45,6 +46,7 @@
     <trd>ser fromage</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_v;&c_o;&c_r;&c_o;&c_g;</trd>
+  <trd lng="sk">tvaroh</trd>
   <trdgrp lng="tr">
     <trd>kesik s&uuml;t</trd>,
     <trd>kazein</trd>
@@ -114,6 +116,11 @@
   <trd lng="be">&c_t;&c_o;&c_f;&c_u;</trd>
   <trd lng="bg">&c_t;&c_o;&c_f;&c_u;</trd>
   <trd lng="ca">tofu</trd>
+  <trdgrp lng="cs">
+    <trd>sojový sýr</trd>,
+    <trd>sojový tvaroh</trd>,
+    <trd>tofu</trd>
+  </trdgrp>
   <trdgrp lng="de">
       <trd>Tofu</trd>,
       <trd>Sojabohnenpaste</trd>,
@@ -133,11 +140,21 @@
   </trdgrp>
   <trd lng="pl">serek <ind>tofu</ind></trd>
   <trd lng="pt">tofu</trd>
+  <trdgrp lng="sk">
+    <trd>sójový syr</trd>,
+    <trd>tofu</trd>
+  </trdgrp>
   <trd lng="tr">tofu</trd>
 </drv>
 </art>
 <!--
 $Log: kaze.xml,v $
+Revision 1.25  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2012/01/02 17:10:09  revo
 Marc Rausell: +trd ca
 

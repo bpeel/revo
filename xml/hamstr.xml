@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hamstr.xml,v 1.31 2013/10/29 19:10:15 revo Exp $">
+<art mrk="$Id: hamstr.xml,v 1.34 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hamstr</rad>/o
@@ -29,16 +29,19 @@
     <trd>hamster</trd>,
     <trd>razh-segal</trd>
   </trdgrp>
+  <trd lng="cs">křeček</trd>
   <trd lng="de">Hamster</trd>
   <trd lng="en">hamster</trd>
   <trd lng="es">h&aacute;mster</trd>
   <trd lng="fr">hamster</trd>
   <trd lng="hu">h&ouml;rcs&ouml;g</trd>
+  <trd lng="id">hamster</trd>
   <trd lng="it">criceto</trd>
   <trd lng="nl">hamster</trd>
   <trd lng="pl">chomik</trd>
   <trd lng="pt">hamster</trd>
   <trd lng="ru">&c_h;&c_o;&c_m;&c_ja;&c_k;</trd>
+  <trd lng="sk">škrečok</trd>
   <trd lng="sv">hamster</trd>
 </drv>
 
@@ -63,21 +66,40 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hromadit</trd>,
+    <trd>křečkovat</trd>,
+    <trd>střádat</trd>,
+    <trd>škudlit</trd>
+  </trdgrp>
   <trd lng="de">hamstern</trd>
   <trd lng="en">hoard</trd>
   <trdgrp lng="fr">
     <trd>emmagasiner</trd>,
     <trd>th&eacute;sauriser</trd>
   </trdgrp>
-  <trd lng="nl">hamsteren</trd>
   <trdgrp lng="it"><trd>accaparrare</trd>, 
   <trd>accumulare<klr> (raccogliere)</klr></trd>
   </trdgrp>
+  <trd lng="nl">hamsteren</trd>
   <trd lng="pl">chomikowa&cacute;</trd>
+  <trdgrp lng="sk">
+    <trd>zhromažďovať</trd>,
+    <trd>šmeliť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: hamstr.xml,v $
+Revision 1.34  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2014/11/09 04:10:32  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.31  2013/10/29 19:10:15  revo
 Wolfram Diestel: kor. ref-cel
 
@@ -97,8 +119,5 @@ Revision 1.26  2009/08/28 16:32:57  revo
 Antonio Codazzi: +trd it
 
 Revision 1.25  2009/08/08 16:32:28  revo
-Russ Williams: +trd en
-
-Revision 1.24  2008/09/11 16:31:03  revo
 -->
 </vortaro>

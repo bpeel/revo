@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arkite1.xml,v 1.27 2014/01/29 03:10:12 revo Exp $">
+<art mrk="$Id: arkite1.xml,v 1.30 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>8</ofc><rad>arkitektur</rad>/o
 </kap>
@@ -39,10 +39,13 @@
     <trd>&eacute;p&iacute;t&odblac;m&udblac;v&eacute;szet</trd>,
     <trd>architekt&uacute;ra</trd>
   </trdgrp>
+  <trd lng="id">arsitektur</trd>
   <trd lng="it">architettura</trd>
   <trd lng="pl">architektura</trd>
   <trd lng="ru">&c_a;&c_r;&c_h;&c_i;&c_t;&c_je;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>
   <trd lng="sv">arkitektur</trd>
+  <trd lng="sk">architektúra</trd>
+  <trd lng="cs">architektura</trd>
 </drv>
 
 <drv mrk="arkite1.0isto">
@@ -78,6 +81,7 @@
     <trd>&eacute;p&iacute;t&odblac;m&udblac;v&eacute;sz</trd>,
     <trd>&eacute;p&iacute;t&eacute;sz</trd>
   </trdgrp>
+  <trd lng="id">arsitek</trd>
   <trd lng="it">architetto</trd>
   <trd lng="pl">architekt</trd>
   <trd lng="ru">&c_a;&c_r;&c_h;&c_i;&c_t;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
@@ -87,6 +91,15 @@
 </art>
 <!--
 $Log: arkite1.xml,v $
+Revision 1.30  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2014/11/13 10:10:17  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.27  2014/01/29 03:10:12  revo
 Sergio Pokrovskij: for misan fundamentecindikon; TEZ
 
@@ -106,8 +119,5 @@ Revision 1.22  2009/06/16 16:31:39  revo
 Wieland Pusch: +trd bg
 
 Revision 1.21  2009/06/14 16:31:27  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.20  2006/06/18 16:32:50  revo
 -->
 </vortaro>

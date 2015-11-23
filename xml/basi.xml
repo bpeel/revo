@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: basi.xml,v 1.9 2013/08/29 12:10:19 revo Exp $">
+<art mrk="$Id: basi.xml,v 1.11 2015/07/04 08:37:31 revo Exp $">
 <kap>
 <rad>basi</rad>/o
 </kap>
@@ -25,10 +25,21 @@
   </trdgrp>
   <trd lng="pl">mas&lstroke;osz</trd>
   </snc>
+  <trd lng="cs">baissa</trd>
+  <trdgrp lng="sk">
+    <trd>baissa</trd>,
+    <trd>pokles kurzov na burze</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: basi.xml,v $
+Revision 1.11  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2013/08/29 12:10:19  revo
 Wolfram Diestel: referenco al listo bot genroj
 

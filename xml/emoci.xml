@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: emoci.xml,v 1.17 2013/12/02 10:10:29 revo Exp $">
+<art mrk="$Id: emoci.xml,v 1.20 2015/07/04 08:37:33 revo Exp $">
 <kap>
 <ofc>3</ofc>
 <rad>emoci</rad>/i
@@ -17,7 +17,8 @@
         <tld/>i iun &gcirc;is larmoj;
       </ekz>
       <ekz>
-        &ccirc;iuj estis <tld/>itaj<fnt>Z</fnt>.
+        <klr>[la konfirmaciatoj]</klr> estis <tld/>itaj
+        <fnt><bib>Fab2</bib>, <lok>Sonorilo</lok></fnt>.
       </ekz>
     </dif>
     <ref tip="sin" cel="kor.0tusxi">kortu&scirc;i</ref>
@@ -28,6 +29,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_h;&c_v;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>dojímat</trd>,
+    <trd>vzrušit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>ergreifen</trd>,
     <trd>r&uuml;hren</trd>,
@@ -53,6 +58,10 @@
     <trd>abalar</trd>
   </trdgrp>
   <trd lng="ru">&c_v;&c_o;&c_l;&c_n;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>dojať</trd>,
+    <trd>rozochvieť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="emoci.0o">
@@ -117,6 +126,21 @@
   </trdgrp>
   <adm>Precizigi ref al afekcio post enkonduko de snc-mrk
 tie<aut>wd</aut></adm>
+  <trdgrp lng="sk">
+    <trd>dojatie</trd>,
+    <trd>vzrušenie</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>cit</trd>,
+    <trd>citové pohnutí</trd>,
+    <trd>dojetí</trd>,
+    <trd>emoce</trd>,
+    <trd>hnutí mysli</trd>,
+    <trd>pocit</trd>,
+    <trd>pohnutí</trd>,
+    <trd>rozechvění</trd>,
+    <trd>vzrušení</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="emoci.0a">
@@ -130,6 +154,13 @@ tie<aut>wd</aut></adm>
     </dif>
   </snc>
   <trd lng="be">&c_e;&c_m;&c_a;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>dojemný</trd>,
+    <trd>emocionální</trd>,
+    <trd>emoční</trd>,
+    <trd>pohnutý</trd>,
+    <trd>vzrušující</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>bewegt</trd>,
     <trd>emotional</trd>,
@@ -152,6 +183,11 @@ tie<aut>wd</aut></adm>
   <trd
 lng="ru">&c_e;&c_m;&c_o;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;
 </trd>
+  <trdgrp lng="sk">
+    <trd>dojemný</trd>,
+    <trd>emočný</trd>,
+    <trd>vzrušujúci</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="emoci.0igxi">
@@ -195,6 +231,15 @@ lng="ru">&c_e;&c_m;&c_o;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;
 </art>
 <!--
 $Log: emoci.xml,v $
+Revision 1.20  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 08:10:15  revo
+Sergio Pokrovskij: +fnt
+
 Revision 1.17  2013/12/02 10:10:29  revo
 Damien Brucker: +trd fr
 
@@ -214,8 +259,5 @@ Revision 1.12  2005/01/23 17:32:15  revo
 Paul Peeraerts: ald trd nl + belarangho
 
 Revision 1.11  2003/12/05 17:32:10  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.10  2003/11/08 08:19:24  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kanti.xml,v 1.7 2014/03/24 17:10:35 revo Exp $">
+<art mrk="$Id: kanti.xml,v 1.9 2015/07/04 08:37:36 revo Exp $">
 <kap>
 <rad>kanti</rad>/a
 </kap>
@@ -57,12 +57,14 @@
     </dif>
   </snc>
   <trd lng="ca">kanti&agrave;<klr> (subst.)</klr></trd>
+  <trd lng="cs">Kantův žák</trd>
+  <trd lng="es">kantiano</trd>
   <trd lng="fa">&f_k;&a_A;&a_n;&a_t;&zwnj;&f_g;&a_r;&a_A;</trd>
   <trd lng="fr">kantiste</trd>
   <trd lng="it">kantiano</trd>
   <trd lng="pl">kantysta</trd>
   <trd lng="ru">&c_k;&c_a;&c_n;&c_t;&c_i;&c_a;&c_n;&c_je;&c_c;</trd>
-  <trd lng="es">kantiano</trd>
+  <trd lng="sk">Kantov žiak</trd>
 </drv>
 
 <drv mrk="kanti.0ismo">
@@ -74,16 +76,24 @@
     </dif>
   </snc>
   <trd lng="ca">kantisme</trd>
+  <trd lng="cs">kantismus</trd>
+  <trd lng="es">kantianismo</trd>
   <trd lng="fa">&f_k;&a_A;&a_n;&a_t;&zwnj;&f_g;&a_r;&a_A;&f_y;&f_y;</trd>
   <trd lng="fr">kantisme</trd>
   <trd lng="it">scuola kantiana</trd>
   <trd lng="pl">kantyzm</trd>
   <trd lng="ru">&c_k;&c_a;&c_n;&c_t;&c_i;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
-  <trd lng="es">kantianismo</trd>
+  <trd lng="sk">kantizmus</trd>
 </drv>
 </art>
 <!--
 $Log: kanti.xml,v $
+Revision 1.9  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.7  2014/03/24 17:10:35  revo
 Damien Brucker: +trd fr
 

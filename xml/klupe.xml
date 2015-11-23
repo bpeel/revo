@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klupe.xml,v 1.17 2013/10/13 09:10:16 revo Exp $">
+<art mrk="$Id: klupe.xml,v 1.19 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>klupe</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -24,6 +24,7 @@
       <ref tip="sub" cel="haring.0o">haringo</ref>.
     </dif>
   </snc>
+  <trd lng="cs">sleď</trd>
   <trd lng="de">Hering</trd>
   <trd lng="fr">hareng</trd>
   <trd lng="hu">hering</trd>
@@ -32,6 +33,7 @@
     <trd>&c_s;&c_je;&c_l;&c_mol;&c_d;&c_mol;</trd>,
     <trd>&c_s;&c_je;&c_l;&c_jo;&c_d;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">sleď</trd>
 </drv>
 
 <drv mrk="klupe.0oformaj">
@@ -54,6 +56,12 @@
 </art>
 <!--
 $Log: klupe.xml,v $
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/10/13 09:10:16  revo
 Wolfram Diestel: ref al lst fishoj, prilaboris dif
 

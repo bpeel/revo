@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: girlan.xml,v 1.18 2012/08/18 20:10:33 revo Exp $">
+<art mrk="$Id: girlan.xml,v 1.20 2015/07/04 08:37:35 revo Exp $">
 <kap><ofc>1</ofc>
   <rad>girland</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -26,18 +26,22 @@
   </snc>
   <trd lng="be">&c_g;&c_ib;&c_r;&c_l;&c_ja;&c_n;&c_d;&c_a;</trd>
   <trd lng="ca">garlanda</trd>
+  <trdgrp lng="cs">
+    <trd>girlanda</trd>,
+    <trd>věncoví</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Girlande</trd>,
     <trd>Blumengewinde</trd>,
     <trd>Laubgewinde</trd>
   </trdgrp>
   <trd lng="en">garland</trd>
+  <trd lng="es">guirnalda</trd>
   <trdgrp lng="fa">
     <trd>&f_g;&a_l;&a_b;&a_n;&a_d;</trd>,
     <trd>&a_t;&a_A;&a_j; &f_g;&a_l;</trd>
   </trdgrp>
   <trd lng="fr">guirlande</trd>
-  <trd lng="es">guirnalda</trd>
   <trdgrp lng="nl">
     <trd>guirlande</trd>,
     <trd>slinger</trd>
@@ -48,6 +52,10 @@
    <trd>grinalda</trd>
   </trdgrp>
   <trd lng="ru">&c_g;&c_i;&c_r;&c_l;&c_ja;&c_n;&c_d;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>girlanda</trd>,
+    <trd>veniec</trd>
+  </trdgrp>
   <trdgrp lng="tr">
     <trd>&ccedil;i&ccedil;ekten/yapraktan &ccedil;elenk</trd>,
     <trd>bezek kordonu</trd>
@@ -56,6 +64,12 @@
 </art>
 <!--
 $Log: girlan.xml,v $
+Revision 1.20  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/08/18 20:10:33  revo
 Marc Rausell: + trd ca
 

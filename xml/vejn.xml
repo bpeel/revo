@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vejn.xml,v 1.23 2012/08/12 09:10:17 revo Exp $">
+<art mrk="$Id: vejn.xml,v 1.26 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vejn</rad>/o <fnt><bib>PV</bib></fnt>
@@ -25,6 +25,10 @@
       <trd>vissz&eacute;r</trd>
     </trdgrp>
     <trd lng="es">vena</trd>
+    <trdgrp lng="id">
+      <trd>vena</trd>,
+      <trd>pem<ind>buluh</ind> balik</trd>
+    </trdgrp>
     <trd lng="it">vena</trd>
     <trd lng="pl">&zdot;y&lstroke;a</trd>
     <trd lng="ru">&c_v;&c_je;&c_n;&c_a;</trd>
@@ -72,6 +76,10 @@
   </snc>
   <trd lng="bg">&c_v;&c_je;&c_n;&c_a;</trd>
   <trd lng="ca">vena</trd>
+  <trdgrp lng="cs">
+    <trd>véna</trd>,
+    <trd>žíla</trd>
+  </trdgrp>
   <trd lng="el">&alfa;&gamma;&gamma;&epsilon;&jota_ton;&omikron;</trd>
   <trd lng="en">vein</trd>
   <trd lng="fr">veine</trd>
@@ -90,6 +98,7 @@
     </dif>
   </snc>
   <trd lng="ca">marcar les venes</trd>
+  <trd lng="cs">imitovat žilkování</trd>
   <trdgrp lng="en">
     <trd>mark with veins</trd>,
     <trd>marble</trd>
@@ -103,10 +112,20 @@
     <trd>marmeren</trd>
   </trdgrp>
   <trd lng="pl">&zdot;y&lstroke;&eogonek; zaznacza&cacute;</trd>
+  <trd lng="sk">žilkovať</trd>
 </drv>
 </art>
 <!--
 $Log: vejn.xml,v $
+Revision 1.26  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2015/01/29 04:10:49  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.23  2012/08/12 09:10:17  revo
 Marc Rausell: + trd ca
 
@@ -126,8 +145,5 @@ Revision 1.18  2008/11/23 19:12:47  revo
 Wieland Pusch: entoj por unikodo
 
 Revision 1.17  2008/11/01 17:30:43  revo
-Russ Williams: +trd en
-
-Revision 1.16  2006/07/21 18:03:49  revo
 -->
 </vortaro>

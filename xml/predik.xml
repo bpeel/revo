@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: predik.xml,v 1.17 2011/12/05 09:10:11 revo Exp $">
+<art mrk="$Id: predik.xml,v 1.20 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>predik</rad>/i <fnt><bib>PV</bib></fnt>
@@ -39,8 +39,14 @@
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_p;&c_a;&c_v;&c_je;&c_d;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">predicar</trd>
+  <trdgrp lng="cs">
+    <trd>predikovat</trd>,
+    <trd>přisoudit vlastnost n. vtah</trd>,
+    <trd>přisuzovat</trd>
+  </trdgrp>
   <trd lng="de">predigen</trd>
   <trd lng="en">preach</trd>
+  <trd lng="es">predicar</trd>
   <trd lng="fr">pr&ecirc;cher</trd>
   <trdgrp lng="hu">
     <trd>pr&eacute;dik&aacute;l</trd>,
@@ -56,6 +62,10 @@
     <trd>fazer <ind>serm&atilde;o</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_p;&c_o;&c_v;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>predikovať</trd>,
+    <trd>prisudzovať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="predik.0o">
@@ -84,6 +94,10 @@
     <trd>predicaci&oacute;</trd>,
     <trd>serm&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kázání</trd>,
+    <trd>promluva</trd>
+  </trdgrp>
   <trd lng="de">Predigt</trd>
   <trd lng="en">sermon</trd>
   <trdgrp lng="fr">
@@ -97,6 +111,7 @@
   </trdgrp>
   <trd lng="nl">preek</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_p;&c_o;&c_v;&c_je;&c_d;&c_mol;</trd>
+  <trd lng="sk">predikcia</trd>
 </drv>
 
 <drv mrk="predik.0isto">
@@ -117,11 +132,22 @@
     </dif>
   </snc>
   <trd lng="ca">predicador</trd>
+  <trd lng="cs">přednášející</trd>
   <trd lng="fr">pr&eacute;dicateur</trd>
+  <trd lng="sk">prednášajúci</trd>
 </drv>
 </art>
 <!--
 $Log: predik.xml,v $
+Revision 1.20  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/01/10 10:10:19  revo
+Agustin Garcia Lopez: +trd(es)
+
 Revision 1.17  2011/12/05 09:10:11  revo
 Marc Rausell: kataluna traduko
 
@@ -141,8 +167,5 @@ Revision 1.12 2002/12/19 17:31:53 revo
 Jozefo Horvath: +trd hu
 
 Revision 1.11 2002/10/26 16:30:54 revo
-Christopher Zervic: + ang
-
-Revision 1.10 2002/02/27 18:03:36 revo
 -->
 </vortaro>

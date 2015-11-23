@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: inkviz1.xml,v 1.15 2010/10/28 16:30:34 revo Exp $">
+<art mrk="$Id: inkviz1.xml,v 1.17 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>inkvizitor</rad>/o
@@ -19,6 +19,7 @@
   </snc>
   <trd lng="be">&c_ib;&c_n;&c_k;&c_v;&c_ib;&c_z;&c_ib;&c_t;&c_a;&c_r;
   </trd>
+  <trd lng="cs">inkvizitor</trd>
   <trd lng="de">Inquisitor</trd>
   <trd lng="en">inquisitor</trd>
   <trd lng="es">inquisidor</trd>
@@ -29,10 +30,17 @@
   <trd lng="pl"><klr>&sacute;wi&eogonek;ty </klr>inkwizytor</trd>
   <trd lng="pt">inquisidor</trd>
   <trd lng="ru">&c_i;&c_n;&c_k;&c_v;&c_i;&c_z;&c_i;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">inkvizítor</trd>
 </drv>
 </art>
 <!--
 $Log: inkviz1.xml,v $
+Revision 1.17  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2010/10/28 16:30:34  revo
 Antonio Codazzi: +trd it
 

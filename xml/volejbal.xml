@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: volejbal.xml,v 1.6 2012/08/12 17:10:33 revo Exp $">
+<art mrk="$Id: volejbal.xml,v 1.8 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <rad>volejbal</rad>/o <fnt><bib>SPIV</bib></fnt>
 </kap>
@@ -32,6 +32,10 @@ arenduono:
     <trd>voleibol</trd>,
     <trd>v&ograve;lei</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>odbíjená</trd>,
+    <trd>volejbal</trd>
+  </trdgrp>
   <trd lng="de">Volleyball</trd>
   <trd lng="fr">volleyball</trd>
   <trd lng="hu">r&ouml;plabda</trd>
@@ -43,6 +47,7 @@ arenduono:
     <trd>voleibol</trd>,
     <trd>v&ocirc;lei</trd>
   </trdgrp>
+  <trd lng="sk">volejbal</trd>
 </drv>
 
 <drv mrk="volejbal.0isto">
@@ -53,6 +58,7 @@ arenduono:
     </dif>
   </snc>
   <trd lng="ca">jugador de <ind>voleibol</ind></trd>
+  <trd lng="cs">volejbalista</trd>
   <trd lng="de">Volleyballspieler</trd>
   <trdgrp lng="hu">
     <trd>r&ouml;plabd&aacute;s</trd>,
@@ -62,12 +68,18 @@ arenduono:
   <trdgrp lng="pt">
     <trd>jogador de voleibol</trd>
   </trdgrp>
-
+  <trd lng="sk">volejbalista</trd>
 </drv>
 </art>
 
 <!--
 $Log: volejbal.xml,v $
+Revision 1.8  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2012/08/12 17:10:33  revo
 Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: alkal.xml,v 1.18 2012/08/02 08:10:18 revo Exp $">
+<art mrk="$Id: alkal.xml,v 1.20 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>alkal</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -19,6 +19,10 @@
   </snc>
   <trd lng="be">&c_sh;&c_ch;&c_o;&c_l;&c_a;&c_ch;</trd>
   <trd lng="ca">&agrave;lcali</trd>
+  <trdgrp lng="cs">
+    <trd>alkálie</trd>,
+    <trd>zásada <klr>(chem.)</klr></trd>
+  </trdgrp>
   <trdgrp lng="de">
    <trd>Alkali</trd>,
    <trd>Laugensalz</trd>
@@ -34,7 +38,11 @@
   </trdgrp>
   <trd lng="pt">&aacute;lcali</trd>
   <trd lng="ru">&c_shch;&c_jo;&c_l;&c_o;&c_ch;&c_mol;</trd>
-  <trd lng="sk">z&aacute;sada <klr>(chemick&aacute;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>alkália</trd>,
+    <trd>z&aacute;sada <klr>(chemick&aacute;)</klr></trd>,
+    <trd>zásada</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="alkal.0eca">
@@ -46,6 +54,10 @@
   </snc>
   <trd lng="be">&c_sh;&c_ch;&c_o;&c_l;&c_a;&c_ch;&c_n;&c_y;</trd>
   <trd lng="ca">alcal&iacute;</trd>
+  <trdgrp lng="cs">
+    <trd>alkalický</trd>,
+    <trd>zásaditý</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>alkalisch</trd>,
     <trd>alkaliartig</trd>
@@ -61,11 +73,20 @@
   </trdgrp>
   <trd lng="pt">alcalino</trd>
   <trd lng="ru">&c_shch;&c_je;&c_l;&c_o;&c_ch;&c_n;&c_o;&c_j;</trd>
-  <trd lng="sk">z&aacute;sadit&yacute;</trd>
+  <trdgrp lng="sk">
+    <trd>z&aacute;sadit&yacute;</trd>,
+    <trd>zásaditý roztok</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: alkal.xml,v $
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/08/02 08:10:18  revo
 Marc Rausell: + trd ca
 

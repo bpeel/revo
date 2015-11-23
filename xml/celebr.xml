@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: celebr.xml,v 1.17 2013/01/15 08:10:09 revo Exp $">
+<art mrk="$Id: celebr.xml,v 1.19 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>celebr</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -29,6 +29,11 @@
   <trd
   lng="be">&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">celebrar</trd>
+  <trdgrp lng="cs">
+    <trd>celebrovat</trd>,
+    <trd>oslavovat</trd>,
+    <trd>slavit</trd>
+  </trdgrp>
   <trd lng="de">zelebrieren</trd>
   <trd lng="el">&gamma;&jota;&omikron;&rho;&tau;&alfa_ton;&zeta;&omega;</trd>
   <trd lng="en">celebrate</trd>
@@ -49,10 +54,20 @@
     <trd>&c_o;&c_s;&c_u;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_l;&c_ja;&c_t;&c_mol;
     &c_c;&c_je;&c_r;&c_je;&c_m;&c_o;&c_n;&c_i;&c_ju;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>oslavovať</trd>,
+    <trd>sláviť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: celebr.xml,v $
+Revision 1.19  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/01/15 08:10:09  revo
 Jeromo Vasxe: + mrk
 

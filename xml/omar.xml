@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: omar.xml,v 1.25 2014/10/28 11:10:37 revo Exp $">
+<art mrk="$Id: omar.xml,v 1.27 2015/07/04 08:37:40 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>omar</rad>/o
@@ -26,29 +26,43 @@
        </ekz>
      </dif>
      <ref tip="vid" cel="palinu.0o">palinuro</ref>
-   </snc>		       
-   <trd lng="be">&c_a;&c_m;&c_a;&c_r;</trd>
-   <trd lng="bg">&c_o;&c_m;&c_a;&c_r;</trd>
-   <trd lng="br">legestr</trd>
-   <trd lng="de">Hummer</trd>
-   <trd
+   </snc>
+  <trd lng="be">&c_a;&c_m;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_o;&c_m;&c_a;&c_r;</trd>
+  <trd lng="br">legestr</trd>
+  <trdgrp lng="cs">
+    <trd>humr</trd>,
+    <trd>mořský rak</trd>
+  </trdgrp>
+  <trd lng="de">Hummer</trd>
+  <trd
    lng="el">&alfa;&sigma;&tau;&alfa;&kappa;&omikron_ton;&sigma_fina;</trd>
-   <trd lng="en">lobster</trd>
-   <trd lng="hu">hom&aacute;r</trd>
-   <trd lng="id">lobster</trd>
-   <trdgrp lng="nl">
+  <trd lng="en">lobster</trd>
+  <trd lng="fr">homard</trd>
+  <trd lng="hu">hom&aacute;r</trd>
+  <trd lng="id">lobster</trd>
+  <trdgrp lng="nl">
      <trd>kreeft<klr tip="ind"> (zee-)</klr></trd>,
      <trd>zeekreeft</trd>
    </trdgrp>
-   <trd lng="pl">homar</trd>
-   <trd lng="pt">lagosta</trd>
-   <trd lng="fr">homard</trd>
-   <trd lng="ru">&c_o;&c_m;&c_a;&c_r;</trd>
-   <trd lng="sv">hummer</trd>
+  <trd lng="pl">homar</trd>
+  <trd lng="pt">lagosta</trd>
+  <trd lng="ru">&c_o;&c_m;&c_a;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>homár</trd>,
+    <trd>rak <klr>(morský)</klr></trd>
+  </trdgrp>
+  <trd lng="sv">hummer</trd>
 </drv>
 </art>
 <!--
 $Log: omar.xml,v $
+Revision 1.27  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.25  2014/10/28 11:10:37  revo
 Eko Nur Syah Hidayat: +trd id
 

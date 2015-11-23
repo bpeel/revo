@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: poent.xml,v 1.21 2012/01/09 07:10:09 revo Exp $">
+<art mrk="$Id: poent.xml,v 1.23 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>poent</rad>/o <fnt><bib>PV</bib></fnt>
@@ -43,6 +43,7 @@
   </subsnc>
   </snc>
   <trd lng="ca">punt</trd>
+  <trd lng="cs">pointa <klr>(čti poenta)</klr></trd>
   <trd lng="de">Punkt</trd>
   <trd lng="en">point</trd>
   <trd lng="es">punto</trd>
@@ -55,6 +56,7 @@
     <trd>&c_o;&c_ch;&c_k;&c_o;</trd>,
     <trd>&c_b;&c_a;&c_l;&c_l;</trd>
   </trdgrp>
+  <trd lng="sk">bod <klr>(pri bodovaní)</klr></trd>
   <trd lng="sv">po&auml;ng</trd>
 </drv>
 
@@ -75,9 +77,11 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">bodovat</trd>
   <trd lng="en">score <klr>(a point)</klr></trd>
   <trd lng="fr">marquer un point</trd>
   <trd lng="nl">punten scoren</trd>
+  <trd lng="sk">bodovať</trd>
 </drv>
 
 <drv mrk="poent.el0i">
@@ -95,12 +99,17 @@
       <ref cel="gajn.0i.FIG">gajni <sncref/></ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>vybodovat</trd>,
+    <trd>zvítězit ve hře na body</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>win</trd>,
     <trd>gain</trd>
   </trdgrp>
   <trd lng="fr">gagner<klr tip="amb"> (quelque chose au jeu)</klr></trd>
   <trd lng="nl">winnen<klr tip="ind"> (in een spel)</klr></trd>
+  <trd lng="sk">vybodovať</trd>
 </drv>
 
 <drv mrk="poent.0aro">
@@ -110,13 +119,24 @@
     <dif>Nombro da <tld/>oj gajnitaj de ludanto a&ubreve; partio
     en ludo a&ubreve; mat&ccirc;o.</dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>jelita</trd>,
+    <trd>podlitiny</trd>
+  </trdgrp>
   <trd lng="en">score</trd>
   <trd lng="fr">score</trd>
+  <trd lng="sk">podliatiny</trd>
 </drv>
 
 </art>
 <!--
 $Log: poent.xml,v $
+Revision 1.23  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2012/01/09 07:10:09  revo
 Axel Rousseau: +trd fr
 

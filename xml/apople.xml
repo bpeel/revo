@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: apople.xml,v 1.16 2013/10/09 18:10:37 revo Exp $">
+<art mrk="$Id: apople.xml,v 1.19 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>apopleksi</rad>/o
@@ -29,15 +29,20 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_a;&c_p;&c_a;&c_p;&c_l;&c_je;&c_k;&c_s;&c_ib;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>apoplexie</trd>,
+    <trd>mrtvice</trd>,
+    <trd>šlak</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Apoplexie</trd>,
     <trd>Schlaganfall</trd>
   </trdgrp>
-  <trd lng="es">apopleg&iacute;a</trd>
   <trdgrp lng="en">
     <trd>apoplexy</trd>,
     <trd>stroke</trd>
   </trdgrp>
+  <trd lng="es">apopleg&iacute;a</trd>
   <trdgrp lng="fr">
     <trd>apoplexie</trd>,
     <trd>ictus apoplectique</trd>
@@ -47,6 +52,10 @@
     <trd>agyv&eacute;rz&eacute;s</trd>,
     <trd>sz&eacute;lh&udblac;d&eacute;s</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>apopleksi</trd>,
+    <trd>strok</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_a;&c_p;&c_o;&c_p;&c_l;&c_je;&c_k;&c_s;&c_i;&c_ja;</trd>,
     <trd>&c_i;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;</trd>,
@@ -54,12 +63,23 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>apoplexia</trd>,
-    <trd>mozgov&aacute; <ind>por&aacute;&zcaron;ka</ind></trd>
+    <trd>mozgov&aacute; <ind>por&aacute;&zcaron;ka</ind></trd>,
+    <trd>mozgová porážka</trd>,
+    <trd>mŕtvica</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: apople.xml,v $
+Revision 1.19  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/11/15 05:10:26  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.16  2013/10/09 18:10:37  revo
 Wolfram Diestel: ref al lst malsanoj
 
@@ -79,8 +99,5 @@ Revision 1.11 2002/05/13 16:34:26 revo
 Alejandro Mejia Greene: ald his trd
 
 Revision 1.10 2002/03/07 18:09:10 revo
-Karlo Freeman: +trd=en
-
-Revision 1.9 2002/03/03 17:30:52 revo
 -->
 </vortaro>

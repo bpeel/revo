@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: garn.xml,v 1.20 2012/10/23 00:11:31 revo Exp $">
+<art mrk="$Id: garn.xml,v 1.22 2015/07/04 08:37:34 revo Exp $">
 <kap>
 <ofc>3</ofc>
 <rad>garn</rad>/i
@@ -139,6 +139,15 @@
     <trd>garneren</trd>,
   </trdgrp>
   <trd lng="pt">guarnecer</trd>
+  <trdgrp lng="sk">
+    <trd>obložiť</trd>,
+    <trd>ozdobiť</trd>,
+    <trd>zaopatriť niečím</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>obložit</trd>,
+    <trd>pobít</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="garn.0ajxo0ilo">
@@ -195,6 +204,12 @@
 </art>
 <!--
 $Log: garn.xml,v $
+Revision 1.22  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2012/10/23 00:11:31  revo
 Neil Roberts: aldonu la etikedon <var>
 

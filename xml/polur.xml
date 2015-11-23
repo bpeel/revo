@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: polur.xml,v 1.18 2014/08/20 09:10:09 revo Exp $">
+<art mrk="$Id: polur.xml,v 1.20 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>polur</rad>/o
@@ -15,7 +15,9 @@
       Surfaca brilo, ricevita per frotado.
     </dif>
   </snc>
+  <trd lng="cs">leštění</trd>
   <trd lng="fr">poli<klr> (subst.)</klr></trd>
+  <trd lng="sk">leštenie</trd>
 </drv>
 
 <drv mrk="polur.0ado">
@@ -25,7 +27,9 @@
       Ago <ref tip="dif" cel="polur.0i">poluri</ref>.
     </dif>
   </snc>
+  <trd lng="cs">leštění</trd>
   <trd lng="fr">polissage</trd>
+  <trd lng="sk">leštenie</trd>
 </drv>
 
 <drv mrk="polur.0i">
@@ -83,17 +87,24 @@
     <trd>&c_sh;&c_l;&c_ib;&c_f;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">polir</trd>
+  <trd lng="cs">leštit</trd>
   <trd lng="de">polieren</trd>
   <trd lng="en">polish</trd>
   <trd lng="nl">oppoetsen</trd>
-  <trd lng="pt">polir</trd>
   <trdgrp lng="no">
     <trd>polere</trd>,
     <trd>finpusse</trd>
   </trdgrp>
+  <trd lng="pt">polir</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_o;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_sh;&c_l;&c_i;&c_f;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cibriť</trd>,
+    <trd>leštiť</trd>,
+    <trd>vybrúsiť</trd>,
+    <trd>vyleštiť</trd>
   </trdgrp>
   <trdgrp lng="sv">
     <trd>polera</trd>,
@@ -103,6 +114,12 @@
 </art>
 <!--
 $Log: polur.xml,v $
+Revision 1.20  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2014/08/20 09:10:09  revo
 Damien Brucker: +~o +~ado +trd fr
 

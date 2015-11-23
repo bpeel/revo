@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: relief.xml,v 1.18 2014/08/15 01:10:09 revo Exp $">
+<art mrk="$Id: relief.xml,v 1.20 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>relief</rad>/o <fnt><bib>PV</bib></fnt> 
@@ -42,6 +42,7 @@
   </snc>
   <trd lng="be">&c_r;&c_e;&c_l;&c_mol;&c_je;&c_f;</trd>
   <trd lng="bg">&c_r;&c_je;&c_l;&c_je;&c_f;</trd>
+  <trd lng="cs">kontrast</trd>
   <trd lng="de">Relief</trd>
   <trdgrp lng="en">
     <trd>relief</trd>,
@@ -56,6 +57,7 @@
   <trd lng="nl">reli&euml;f</trd>
   <trd lng="pt">relevo</trd>
   <trd lng="ru">&c_r;&c_je;&c_l;&c_mol;&c_je;&c_f;</trd>
+  <trd lng="sk">kontrast</trd>
 </drv>
 
 <drv mrk="relief.0a">
@@ -73,7 +75,16 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>plastický</trd>,
+    <trd>vypouklý</trd>
+  </trdgrp>
   <trd lng="fr">en <ind>relief</ind></trd>
+  <trdgrp lng="sk">
+    <trd>kontrastný</trd>,
+    <trd>vypuklý</trd>,
+    <trd>výrazný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="relief.alt0o">
@@ -88,6 +99,7 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_r;&c_e;&c_l;&c_mol;&c_je;&c_f;</trd>
+  <trd lng="cs">hluboký reliéf</trd>
   <trd lng="de">Hochrelief</trd>
   <trd lng="en">high relief</trd>
   <trd lng="es">altorrelieve</trd>
@@ -96,6 +108,7 @@
   <trd lng="it">altorilievo</trd>
   <trd lng="nl">haut-reli&euml;f</trd>
   <trd lng="ru">&c_g;&c_o;&c_r;&c_je;&c_l;&c_mol;&c_je;&c_f;</trd>
+  <trd lng="sk">hlboký reliéf</trd>
 </drv>
 
 <drv mrk="relief.sen0a">
@@ -143,12 +156,26 @@
       <trd>&c_b;&c_a;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bez kontrastu</trd>,
+    <trd>nevýrazný</trd>
+  </trdgrp>
   <trd lng="fr">plat</trd>
   <trd lng="hu">lapos<klr tip="amb"> (&aacute;tv. is)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>bez kontrastu</trd>,
+    <trd>nevýrazný</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: relief.xml,v $
+Revision 1.20  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2014/08/15 01:10:09  revo
 Carlos Garcia: +trd es -o alt-o
 

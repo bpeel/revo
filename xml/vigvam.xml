@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vigvam.xml,v 1.5 2012/08/12 11:10:25 revo Exp $">
+<art mrk="$Id: vigvam.xml,v 1.8 2015/10/15 12:10:22 revo Exp $">
 <kap>
   <rad>vigvam</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -24,14 +24,29 @@
   </snc>
   <trd lng="be">&c_v;&c_ib;&c_g;&c_v;&c_a;&c_m;</trd>
   <trd lng="ca">wigwam</trd>
+  <trd lng="cs">vigvam</trd>
+  <trdgrp lng="en">
+    <trd>wigwam</trd>,
+    <trd>wickiup</trd>
+  </trdgrp>
   <trd lng="fr">wigwam</trd>
   <trd lng="hu">vigvam</trd>
   <trd lng="ru">&c_v;&c_i;&c_g;&c_v;&c_a;&c_m;</trd>
+  <trd lng="sk">vigvam</trd>
 </drv>
 </art>
 
 <!--
 $Log: vigvam.xml,v $
+Revision 1.8  2015/10/15 12:10:22  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.7  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2012/08/12 11:10:25  revo
 Marc Rausell: + trd ca
 
@@ -45,7 +60,5 @@ Revision 1.2  2004/10/13 16:33:07  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.1  2004/09/01 16:31:28  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

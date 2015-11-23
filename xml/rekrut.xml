@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rekrut.xml,v 1.15 2011/12/07 21:10:11 revo Exp $">
+<art mrk="$Id: rekrut.xml,v 1.18 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rekrut</rad>/o
@@ -10,6 +10,7 @@
 <drv mrk="rekrut.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc>
+  <uzo tip="fak">MIL</uzo>
     <dif>
       Nova soldato:
       <ekz>
@@ -53,12 +54,25 @@
       </trdgrp>    
       <trd lng="ru">&c_n;&c_o;&c_v;&c_o;&c_b;&c_r;&c_a;&c_n;&c_je;&c_c;</trd>
       </snc>
-      <trd lng="ca">recluta</trd>
+  <trd lng="ca">recluta</trd>
+  <trdgrp lng="cs">
+    <trd>branec</trd>,
+    <trd>nováček</trd>,
+    <trd>odvedenec</trd>,
+    <trd>zast. rekrut</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>branec</trd>,
+    <trd>nováčik</trd>,
+    <trd>odvedenec</trd>,
+    <trd>regrút</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rekrut.0igi">
   <kap><tld/>igi</kap>
-  <snc mrk="rekrut.0igi.baze">
+  <snc mrk="rekrut.0igi.MIL">
+  <uzo tip="fak">MIL</uzo>
     <dif>
        Fari iun <tld/>o:
        <ekz>
@@ -92,13 +106,32 @@
       <trd lng="de">rekrutieren</trd> 
       <trd lng="nl">rekruteren</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>odvést na vojnu</trd>,
+    <trd>povolat do armády</trd>,
+    <trd>verbovat</trd>
+  </trdgrp>
   <trd lng="en">recruit</trd>
   <trd lng="fr">recruter</trd>
+  <trdgrp lng="sk">
+    <trd>odviesť na vojnu</trd>,
+    <trd>povolať do armády</trd>,
+    <trd>verbovať</trd>
+  </trdgrp>
 </drv>
 
 </art>
 <!--
 $Log: rekrut.xml,v $
+Revision 1.18  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/12/15 10:10:29  revo
+Damien Brucker: +mrk cxe snc
+
 Revision 1.15  2011/12/07 21:10:11  revo
 Marc Rausell: kataluna traduko
 
@@ -118,8 +151,5 @@ Revision 1.10  2004/09/06 16:35:24  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2003/08/08 16:32:17  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2002/01/11 17:35:01  revo
 -->
 </vortaro>

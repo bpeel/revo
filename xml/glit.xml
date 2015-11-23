@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: glit.xml,v 1.32 2014/10/25 08:10:12 revo Exp $">
+<art mrk="$Id: glit.xml,v 1.34 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>glit</rad>/i <fnt><bib>PV</bib></fnt>
@@ -166,6 +166,16 @@
   </trdgrp>
   <trd lng="ru">&c_s;&c_k;&c_o;&c_l;&c_mol;&c_z;&c_i;&c_t;&c_mol;</trd>
   <trd lng="sv">glida</trd>
+  <trdgrp lng="sk">
+    <trd>kĺzať<klr>(sa)</klr></trd>,
+    <trd>šmýkať sa</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>klouzat se</trd>,
+    <trd>proklouznout</trd>,
+    <trd>prokluzovat</trd>,
+    <trd>smekat se</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="glit.0o">
@@ -234,6 +244,15 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>skluz</trd>,
+    <trd>smyk</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kĺzanie</trd>,
+    <trd>šmyk</trd>,
+    <trd>šmýkanie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="glit.0a">
@@ -277,6 +296,7 @@
     <trd>&c_s;&c_mol;&c_l;&c_ib;&c_z;&c_k;&c_ib;</trd>,
     <trd>&c_k;&c_o;&c_w;&c_z;&c_k;&c_ib;</trd>
   </trdgrp>
+  <trd lng="cs">kluzký</trd>
   <trdgrp lng="de">
     <trd>glatt</trd>,
     <trd>rutschig</trd>,
@@ -294,6 +314,10 @@
   <trd lng="nl">glad</trd>
   <trd lng="pt">escorregadio</trd>
   <trd lng="ru">&c_s;&c_k;&c_o;&c_l;&c_mol;&c_z;&c_k;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>klzký</trd>,
+    <trd>šmykľavý</trd>
+  </trdgrp>
   <trd lng="sv">hal</trd>
 </drv>
 
@@ -336,23 +360,29 @@
       </ekz>
     </dif>
   </snc>
-    <trdgrp lng="be">
+  <trdgrp lng="be">
     <trd>&c_s;&c_mol;&c_l;&c_ib;&c_z;&c_g;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
     <trd>&c_s;&c_mol;&c_l;&c_ib;&c_z;&c_g;&c_a;&c_c;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
       <trd>&c_k;&c_o;&c_w;&c_z;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
     </trdgrp>
-    <trd lng="fr">glissade</trd>
-    <trdgrp lng="hu">
+  <trd lng="cs">klouzání se</trd>
+  <trd lng="fr">glissade</trd>
+  <trdgrp lng="hu">
       <trd>cs&uacute;sz&aacute;s</trd>,
       <trd>sikl&aacute;s</trd>,
       <trd>cs&uacute;szk&aacute;l&aacute;s</trd>
     </trdgrp>
-    <trd lng="nl">het <ind>glijden</ind></trd>
-    <trdgrp lng="pl">
+  <trd lng="nl">het <ind>glijden</ind></trd>
+  <trdgrp lng="pl">
       <trd>&sacute;lizg</trd>,
       <trd>po&sacute;lizg</trd>
     </trdgrp>
-    <trd lng="ru">&c_s;&c_k;&c_o;&c_l;&c_mol;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="ru">&c_s;&c_k;&c_o;&c_l;&c_mol;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>kĺzanie</trd>,
+    <trd>šmyk</trd>,
+    <trd>šmýkanie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="glit.0emigi">
@@ -447,6 +477,17 @@
     absoluta sinonimo de ~sxuo. <aut>MB</aut>
   </adm>
   <trd lng="fr">patin</trd>
+  <trdgrp lng="sk">
+    <trd>klzná plocha</trd>,
+    <trd>sanica</trd>,
+    <trd>sklznica</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>klouzátko</trd>,
+    <trd>kluznice</trd>,
+    <trd>sanice</trd>,
+    <trd>skluznice</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="glit.de0i">
@@ -480,11 +521,16 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_z;&c_n;&c_u;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>sklouznout</trd>,
+    <trd>smeknout se</trd>
+  </trdgrp>
   <trd lng="fr">glisser<klr tip="ind"> (intr., de qc)</klr></trd>
   <trdgrp lng="pl">
     <trd>ze&sacute;lizgiwa&cacute; si&eogonek;</trd>,
     <trd>zje&zdot;d&zdot;a&cacute;</trd>
   </trdgrp>
+  <trd lng="sk">pošmyknúť sa</trd>
 </drv>
 
 <drv mrk="glit.de0ilo">
@@ -531,7 +577,9 @@
      </fnt>
      </ekz>
   </snc>
+  <trd lng="cs">skluzavka</trd>
   <trd lng="fr">tobogan</trd>
+  <trd lng="sk">nájazd <klr>(lyžiarsky)</klr></trd>
 </drv>
 
 <drv mrk="glit.el0i">
@@ -618,6 +666,7 @@
   <trd>&c_v;&c_y;&c_s;&c_mol;&c_l;&c_ib;&c_z;&c_g;&c_v;&c_a;&c_c;&c_mol;</trd>,
   <trd>&c_v;&c_y;&c_s;&c_mol;&c_l;&c_ib;&c_z;&c_n;&c_u;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="cs">vyklouznout</trd>
   <trdgrp lng="fr">
     <trd>s'&eacute;chapper<klr tip="ind"> (en se glissant hors de)</klr>
     </trd>,
@@ -628,6 +677,10 @@
   <trdgrp lng="hu">
     <trd>kics&uacute;szik</trd>,
     <trd>kisiklik</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vykĺznuť</trd>,
+    <trd>vyšmyknúť sa</trd>
   </trdgrp>
 </drv>
 
@@ -657,6 +710,10 @@
   <trd lng="be">
   &c_p;&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_z;&c_n;&c_u;&c_c;&c_mol;
   </trd>
+  <trdgrp lng="cs">
+    <trd>lehce vsunout</trd>,
+    <trd>vklouznout</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>glisser</ind><klr tip="ind"> (dans)</klr></trd>,
     <trd>se <ind>couler</ind><klr tip="ind"> (dans)</klr></trd>,
@@ -672,6 +729,7 @@
   <trd lng="pt">entrar deslizando</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_k;&c_o;&c_l;&c_mol;&c_z;&c_n;&c_u;&c_t;&c_mol;
   </trd>
+  <trd lng="sk">vkĺznuť</trd>
   <trd lng="sv">halka in i</trd>
 </drv>
 
@@ -688,6 +746,10 @@
     </trd>,
     <trd>&c_p;&c_a;&c_k;&c_a;&c_w;&c_z;&c_n;&c_u;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>smeknout se a upadnout</trd>,
+    <trd>uklouznout s pádem</trd>
+  </trdgrp>
   <trd lng="de">ausgleiten</trd>
   <trd lng="fr">tomber<klr tip="ind"> (&agrave; la suite d'une
   glissade)</klr></trd>
@@ -695,6 +757,7 @@
   <trd lng="nl">uitglijden</trd>
   <trd lng="pl">po&sacute;lizgn&aogonek;&cacute; si&eogonek;</trd>
   <trd lng="ru">&c_p;&c_o;&c_s;&c_k;&c_o;&c_l;&c_mol;&c_z;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trd lng="sk">padnúť pokĺznutím</trd>
 </drv>
 
 <drv mrk="glit.0kuri">
@@ -715,6 +778,10 @@
     </klr></trd>,
     <trd>&c_k;&c_o;&c_w;&c_z;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bruslit</trd>,
+    <trd>klouzat se</trd>
+  </trdgrp>
   <trd lng="de">Schlittschuh laufen</trd>
   <trdgrp lng="fr">
     <trd>patiner<klr tip="ind"> (en patins &agrave; glace)</klr></trd>,
@@ -726,6 +793,7 @@
   <trdgrp lng="pl">
     <trd>je&zacute;dzi&cacute; na &lstroke;y&zdot;wach</trd>
   </trdgrp>
+  <trd lng="sk">korčuľovať sa</trd>
 </drv>
 
 <drv mrk="glit.0punkta.koma">
@@ -751,6 +819,7 @@
     <ref tip="malprt" cel="reel.0o.KOMP">reeloj</ref>
     <ref tip="vid" cel="fiks.0punkta.koma">fikspunkta, fikskoma</ref>
   </snc>
+  <trd lng="cs">s pohyblivou desetinou čárkou</trd>
   <trd lng="de">Gleitkomma-</trd>
   <trd lng="en">floating-point</trd>
   <trd lng="fr">&agrave; <ind>virgule</ind> flottante</trd>
@@ -758,11 +827,18 @@
   <trd lng="pl">zmiennoprzecinkowy</trd>
   <trd lng="ru">&c_s; <ind>&c_p;&c_l;&c_a;&c_v;&c_a;&c_ju;&c_shch;&c_je;&c_j;</ind> &c_t;&c_o;&c_ch;&c_k;&c_o;&c_j;
   <klr>(&c_i;&c_l;&c_i; &c_z;&c_a;&c_p;&c_ja;&c_t;&c_o;&c_j;)</klr></trd>
+  <trd lng="sk">s pohyblivou desatinnou čiarkou</trd>
   <trd lng="sv">flyttals-</trd>
 </drv>
 </art>
 <!--
 $Log: glit.xml,v $
+Revision 1.34  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.32  2014/10/25 08:10:12  revo
 Damien Brucker: +trd fr
 

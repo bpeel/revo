@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: otit.xml,v 1.4 2010/10/26 16:31:20 revo Exp $">
+<art mrk="$Id: otit.xml,v 1.6 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <rad>otit</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -33,6 +33,11 @@
       </fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>otitida</trd>,
+    <trd>otitis</trd>,
+    <trd>ušní zánět</trd>
+  </trdgrp>
   <trd lng="en">otitis</trd>
   <trd lng="fr">otite</trd>
   <trd lng="it">otite</trd>
@@ -40,11 +45,18 @@
     <trd>otitis</trd>,
     <trd>oorontsteking</trd>
   </trdgrp>
+  <trd lng="sk">zápal ucha</trd>
 </drv>
 </art>
 
 <!--
 $Log: otit.xml,v $
+Revision 1.6  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2010/10/26 16:31:20  revo
 Russ Williams: +trd en
 

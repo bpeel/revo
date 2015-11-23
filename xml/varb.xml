@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: varb.xml,v 1.20 2011/12/07 20:10:25 revo Exp $">
+<art mrk="$Id: varb.xml,v 1.22 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>varb</rad>/i
@@ -52,12 +52,16 @@
     <trd>&c_v;&c_a;&c_b;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_v;&c_a;&c_b;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_c;&c_ja;&c_g;&c_v;&c_a;&c_c;&c_mol;</trd>
-  </trdgrp>        
+  </trdgrp>
   <trd lng="br">tuta</trd>
   <trdgrp lng="ca">
     <trd>reclutar</trd>,
     <trd>allistar</trd>,
     <trd>enrolar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>provádět nábor</trd>,
+    <trd>získávat</trd>
   </trdgrp>
   <trd lng="en">enlist</trd>
   <trd lng="es">reclutar</trd>
@@ -68,7 +72,7 @@
   <trdgrp lng="hu">
     <trd>toboroz</trd>,
     <trd>verbuv&aacute;l</trd>
-  </trdgrp>                      
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>ronselen</trd>,
     <trd>werven</trd>
@@ -78,11 +82,21 @@
     <trd>recrutar</trd>
   </trdgrp>
   <trd lng="ru">&c_v;&c_je;&c_r;&c_b;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
-  <trd lng="sk">verbova&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd><klr>(z)</klr>verbovať</trd>,
+    <trd>robiť nábor</trd>,
+    <trd>verbova&tcaron;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: varb.xml,v $
+Revision 1.22  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2011/12/07 20:10:25  revo
 Marc Rausell: kataluna traduko
 

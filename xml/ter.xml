@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ter.xml,v 1.71 2014/10/26 21:10:15 revo Exp $">
+<art mrk="$Id: ter.xml,v 1.74 2015/09/17 12:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>ter</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -128,13 +128,22 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_z;&c_ja;&c_m;&c_l;&c_ja;</trd>
-  <trd lng="cs">zem</trd>
+  <trdgrp lng="cs">
+    <trd>p&uring;da</trd>,
+    <trd>zem</trd>,
+    <trd>zemina</trd>,
+    <trd>zem&ecaron;</trd>
+  </trdgrp>
   <trd lng="de">Erde</trd>
   <trd lng="en">earth</trd>
   <trd lng="es">tierra</trd>
   <trd lng="fr">terre</trd>
   <trd lng="he">&alef;&resh;&ftsadi;</trd>
   <trd lng="ru">&c_z;&c_je;&c_m;&c_l;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>p&ocirc;da</trd>,
+    <trd>zem</trd>
+  </trdgrp>
   <trd lng="tp">ma</trd>
   <trd lng="zh">&#22303;<klr> [t&#468;]</klr></trd>
 </drv>
@@ -181,10 +190,16 @@
     <trd lng="pl">ziemny</trd>
     <trd lng="ru">&c_z;&c_je;&c_m;&c_l;&c_ja;&c_n;&c_o;&c_j;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>pozemsk&yacute;</trd>,
+    <trd>p&uring;dn&iacute;</trd>,
+    <trd>zemn&iacute;</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>en <ind>terre</ind></trd>,
     <trd>terrestre</trd>
   </trdgrp>
+  <trd lng="sk">zemsk&yacute;</trd>
 </drv>
 
 <drv mrk="ter.al0igxi">
@@ -259,6 +274,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">mimozem&scaron;&tcaron;an</trd>
   <trd lng="fr">extra-terrestre<klr tip="amb"> (subst.)</klr></trd>
   <trdgrp lng="pl">
     <trd>istota <ind>pozaziemska</ind></trd>,
@@ -268,6 +284,7 @@
   <trd lng="ru">
   &c_i;&c_n;&c_o;&c_p;&c_l;&c_a;&c_n;&c_je;&c_t;&c_ja;&c_n;&c_i;&c_n;
   </trd>
+  <trd lng="sk">mimozem&scaron;&tcaron;an</trd>
 </drv>
 
 <drv mrk="ter.en0igi">
@@ -362,8 +379,18 @@
     <trd
     lng="ru">&c_p;&c_o;&c_h;&c_o;&c_r;&c_o;&c_n;&c_i;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>poh&rcaron;b&iacute;vat</trd>,
+    <trd>ulo&zcaron;it do zem&ecaron;</trd>,
+    <trd>zakop&aacute;vat</trd>
+  </trdgrp>
   <trd lng="es">enterrar</trd>
   <trd lng="fr">enterrer</trd>
+  <trdgrp lng="sk">
+    <trd>pochova&tcaron;</trd>,
+    <trd>zahraba&tcaron; do zeme</trd>,
+    <trd>zakopa&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ter.el0igi">
@@ -387,6 +414,7 @@
     <trd>&c_a;&c_d;&c_k;&c_a;&c_p;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_k;&c_a;&c_p;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="cs">vykopat ze zem&ecaron;</trd>
   <trd lng="de">ausgraben</trd>
   <trd lng="es">desenterrar</trd>
   <trd lng="fr">d&eacute;terrer</trd>
@@ -399,6 +427,10 @@
   <trdgrp lng="ru">
     <trd>&c_o;&c_t;&c_k;&c_o;&c_p;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_k;&c_o;&c_p;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vybra&tcaron;</trd>,
+    <trd>vyhraba&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -417,8 +449,10 @@
       </fnt>.
     </ekz>
   </snc>
+  <trd lng="cs">Nov&aacute; Zem&ecaron;</trd>
   <trd lng="en">Newfoundland</trd>
   <trd lng="fr">Terre-Neuve</trd>
+  <trd lng="sk">Nov&aacute; Zem</trd>
 </drv>
 
 <drv mrk="ter.sub0ajxo">
@@ -476,6 +510,11 @@
     <trd>&c_n;&c_a;&c_z;&c_je;&c_m;&c_n;&c_y;</trd>,
     <trd>&c_z;&c_ja;&c_m;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pozemn&iacute;</trd>,
+    <trd>pozemsk&yacute;</trd>,
+    <trd>vezdej&scaron;&iacute;</trd>
+  </trdgrp>
   <trd lng="fr">terrestre</trd>
   <trd lng="hu">f&ouml;ldi</trd>
   <trdgrp lng="nl">
@@ -486,6 +525,10 @@
   <trdgrp lng="ru">
     <trd>&c_n;&c_a;&c_z;&c_je;&c_m;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_z;&c_je;&c_m;&c_n;&c_o;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pozemn&yacute;</trd>,
+    <trd>pozemsk&yacute;</trd>
   </trdgrp>
 </drv>
 
@@ -515,6 +558,7 @@
     <trd>&c_z;&c_ja;&c_m;&c_n;&c_y; &c_sh;&c_a;&c_r;</trd>,
     <trd>&c_z;&c_ja;&c_m;&c_n;&c_a;&c_ja; &c_k;&c_u;&c_l;&c_ja;</trd>
   </trdgrp>
+  <trd lng="cs">zem&ecaron;koule</trd>
   <trd lng="de">Erdkugel</trd>
   <trd lng="es">globo terr&aacute;queo</trd>
   <trd lng="fr">globe terrestre</trd>
@@ -533,6 +577,7 @@
     <trd>&c_Z;&c_je;&c_m;&c_l;&c_ja;</trd>,
     <trd>&c_z;&c_je;&c_m;&c_n;&c_o;&c_j; &c_sh;&c_a;&c_r;</trd>
   </trdgrp>
+  <trd lng="sk">zemegu&lcaron;a</trd>
   <trd lng="zh">&#22320;&#29699;<klr> [d&igrave;qi&uacute;]</klr></trd>
 </drv>
 
@@ -573,6 +618,11 @@
   </trdgrp>
   <trd lng="sv">udde</trd>
   <trd lng="tr">burun</trd>
+  <trdgrp lng="sk">
+    <trd>mys</trd>,
+    <trd>zemsk&yacute; v&yacute;be&zcaron;ok do mora</trd>
+  </trdgrp>
+  <trd lng="cs">mys</trd>
 </drv>
 
 <drv mrk="ter.0konekto">
@@ -590,6 +640,7 @@
   </snc>
   <trd lng="be">
   &c_z;&c_a;&c_z;&c_ja;&c_m;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="cs">uzemn&ecaron;n&iacute;</trd>
   <trd lng="fr">terre<klr> (&eacute;lectricit&eacute;)</klr></trd>
   <trd lng="he">&he;&alef;&resh;&qof;&he;</trd>
   <trd lng="hu">f&ouml;ldel&eacute;s</trd>
@@ -600,6 +651,7 @@
   </trdgrp>
   <trd lng="ru">
   &c_z;&c_a;&c_z;&c_je;&c_m;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">uzemnenie</trd>
 </drv>
 
 <drv mrk="ter.0kontakto">
@@ -615,6 +667,7 @@
   </snc>
   <trd lng="be">&c_z;&c_a;&c_m;&c_y;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_je;
   &c_n;&c_a; &c_z;&c_ja;&c_m;&c_l;&c_ju;</trd>
+  <trd lng="cs">uzemn&ecaron;n&iacute;</trd>
   <trd lng="he">&he;&alef;&resh;&qof;&he;</trd>
   <trd lng="hu">f&ouml;ldr&ouml;vidz&aacute;rlat</trd>
   <trd lng="nl">aarding</trd>
@@ -623,6 +676,10 @@
   </trdgrp>
   <trd lng="ru">&c_z;&c_a;&c_m;&c_y;&c_k;&c_a;&c_n;&c_i;&c_je;
   &c_n;&c_a; &c_z;&c_je;&c_m;&c_l;&c_ju;</trd>
+  <trdgrp lng="sk">
+    <trd>zemn&yacute; kontakt</trd>,
+    <trd>zvod</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ter.0kulturo">
@@ -637,6 +694,7 @@
       <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 17a</lok></fnt>.
     </ekz>
   </snc>
+  <trd lng="cs">zem&ecaron;d&ecaron;lstv&iacute;</trd>
   <trd lng="es">agricultura</trd>
   <trd lng="fr">agriculture</trd>
   <trd lng="he">&het;&qof;&lamed;&alef;&vav;&tav;</trd>
@@ -648,6 +706,7 @@
   </trdgrp>
   <trd lng="ru">&c_s;&c_je;&c_l;&c_mol;&c_s;&c_k;&c_o;&c_je;
   &c_h;&c_o;&c_z;&c_ja;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="sk">po&lcaron;nohospod&aacute;rstvo</trd>
 </drv>
 
 <drv mrk="ter.0laboristo">
@@ -662,11 +721,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">zem&ecaron;d&ecaron;lsk&yacute; d&ecaron;ln&iacute;k</trd>
+  <trd lng="fr">ouvrier agricole</trd>
   <trdgrp lng="he">
     <trd>&ayin;&vav;&bet;&dalet; &alef;&dalet;&mem;&he;</trd>,
     <trd>&het;&qof;&lamed;&alef;&yod;</trd>
   </trdgrp>
-  <trd lng="fr">ouvrier agricole</trd>
   <trdgrp lng="hu">
     <trd>b&eacute;res</trd>,
     <trd>mez&odblac;gazdas&aacute;gi <ind>munk&aacute;s</ind></trd>,
@@ -677,6 +737,7 @@
   <trd
   lng="ru">&c_s;&c_je;&c_l;&c_mol;&c_s;&c_k;&c_o;&c_h;&c_o;&c_z;&c_ja;&c_j;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;
   &c_r;&c_a;&c_b;&c_o;&c_ch;&c_i;&c_j;</trd>
+  <trd lng="sk">po&lcaron;nohospod&aacute;rsky robotn&iacute;k</trd>
 </drv>
 
 <drv mrk="ter.0lango">
@@ -713,6 +774,11 @@
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_s;&c_a;<klr tip="amb">
   (&c_g;&c_je;&c_o;&c_g;&c_r;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>mys</trd>,
+    <trd>zemsk&yacute; v&yacute;be&zcaron;ok</trd>
+  </trdgrp>
+  <trd lng="cs">kosa</trd>
 </drv>
 
 <drv mrk="ter.0mezuri">
@@ -728,10 +794,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">m&ecaron;&rcaron;it v ter&eacute;nu</trd>
   <trd lng="fr">arpenter<klr> (mesurer les surf.)</klr></trd>
   <trd lng="hu">felm&eacute;r<klr tip="ind"> (f&ouml;ldet)</klr></trd>
   <trd lng="nl">landmeten</trd>
   <trd lng="ru">&c_m;&c_je;&c_zh;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">zameriava&tcaron; zemsk&eacute; plochy</trd>
 </drv>
 
 <drv mrk="ter.0mezuristo">
@@ -751,11 +819,13 @@
     <trd>&c_k;&c_a;&c_m;&c_o;&c_r;&c_n;&c_ib;&c_k;</trd>,
     <trd>&c_z;&c_je;&c_m;&c_l;&c_ja;&c_m;&c_je;&c_r;</trd>
   </trdgrp>
+  <trd lng="cs">zem&ecaron;m&ecaron;&rcaron;i&ccaron;</trd>
   <trd lng="fr">arpenteur</trd>
   <trd lng="hu">f&ouml;ldm&eacute;r&odblac;</trd>
   <trd lng="nl">landmeter</trd>
   <trd lng="pl">mierniczy</trd>
   <trd lng="ru">&c_z;&c_je;&c_m;&c_l;&c_je;&c_m;&c_je;&c_r;</trd>
+  <trd lng="sk">zememera&ccaron;</trd>
 </drv>
 
 <drv mrk="ter.0nukso">
@@ -781,6 +851,11 @@
       ref="ter.0nukso.BOT"/></ref>.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>ara&scaron;&iacute;d</trd>,
+    <trd>ara&scaron;&iacute;dov&yacute; o&rcaron;&iacute;&scaron;ek</trd>,
+    <trd>podzemnice olejn&aacute;</trd>
+  </trdgrp>
   <trd lng="es">cacahuate</trd>
   <trd lng="fr">cacahou&egrave;te</trd>
   <trd lng="he">&bet;&vav;&tet;&fnun;</trd>
@@ -799,6 +874,10 @@
     <trd>&c_z;&c_je;&c_m;&c_l;&c_ja;&c_n;&c_o;&c_j;
     &c_o;&c_r;&c_je;&c_h;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ara&scaron;id</trd>,
+    <trd>podzemnica olejn&aacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ter.0parto">
@@ -809,6 +888,10 @@
   </snc>
   <trd lng="be">&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;
   &c_s;&c_mol;&c_v;&c_je;&c_t;&c_u;</trd>
+  <trdgrp lng="cs">
+    <trd>kontinent</trd>,
+    <trd>sv&ecaron;tad&iacute;l</trd>
+  </trdgrp>
   <trd lng="fr">r&eacute;gion du monde</trd>
   <trd lng="hu">f&ouml;ldr&eacute;sz</trd>
   <trd lng="nl">werelddeel</trd>
@@ -817,6 +900,10 @@
   </trdgrp>
   <trd lng="ru">&c_ch;&c_a;&c_s;&c_t;&c_mol;
   &c_s;&c_v;&c_je;&c_t;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>kontinent</trd>,
+    <trd>svetadiel</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ter.0peco">
@@ -839,6 +926,10 @@
     <trd>&c_p;&c_a;&c_l;&c_je;&c_t;&c_a;&c_k;</trd>,
     <trd>&c_p;&c_l;&c_ja;&c_c;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>parcela</trd>,
+    <trd>pozemek</trd>
+  </trdgrp>
   <trd lng="fr">terrain</trd>
   <trd lng="he">&pe;&yod;&samekh;&tav; &qof;&resh;&qof;&ayin;</trd>
   <trd lng="hu">f&ouml;lddarab</trd>
@@ -846,6 +937,10 @@
   <trd lng="pl">skrawek <ind>ziemi</ind></trd>
   <trd lng="ru">&c_u;&c_ch;&c_a;&c_s;&c_t;&c_o;&c_k;
   &c_z;&c_je;&c_m;&c_l;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>kus zeme</trd>,
+    <trd>pozemok</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ter.0pomo">
@@ -865,6 +960,7 @@
   </snc>
   <trd lng="be">&c_b;&c_u;&c_l;&c_mol;&c_b;&c_a;</trd>
   <trd lng="bg">&c_k;&c_a;&c_r;&c_t;&c_o;&c_f;</trd>
+  <trd lng="cs">brambora</trd>
   <trd lng="de">Kartoffel</trd>
   <trd lng="en">potato</trd>
   <trdgrp lng="es">
@@ -884,6 +980,7 @@
     <trd>kartofel</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_a;&c_r;&c_t;&c_o;&c_f;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">zemiak</trd>
   <trd lng="tr">patates</trd>
 </drv>
 
@@ -903,6 +1000,7 @@
   </snc>
   <trd lng="be">&c_b;&c_u;&c_l;&c_mol;&c_b;&c_ja;&c_t;&c_n;&c_ib;&c_k;
   </trd>
+  <trd lng="cs">brambora</trd>
   <trd lng="de">Kartoffel<klr tip="ind"> (-pflanze)</klr></trd>
   <trd lng="fr">pomme de terre<klr tip="amb"> (plante)</klr></trd>
   <trdgrp lng="hu">
@@ -913,6 +1011,7 @@
   <trd lng="ru">&c_k;&c_a;&c_r;&c_t;&c_o;&c_f;&c_je;&c_l;&c_mol;<klr
   tip="amb">
   (&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trd lng="sk">zemiak</trd>
   <trd lng="tr">patates</trd>
 </drv>
 
@@ -924,8 +1023,8 @@
     <ref tip="dif" cel="cxips.0o">&ccirc;ipso</ref>
   </snc>
   <trdgrp lng="en">
-    <trd>potato chip<klr> (Usono)</klr></trd>,
-    <trd>crisp<klr> (Britujo)</klr></trd>
+    <trd>potato chip<klr> (usone)</klr></trd>,
+    <trd>crisp<klr> (brite)</klr></trd>
   </trdgrp>
   <trd lng="de">Kartoffelflocke</trd>
   <trd lng="es">papas fritas<klr> (plural)</klr></trd>
@@ -955,8 +1054,8 @@
     <trd>Fritten</trd>
   </trdgrp>
   <trdgrp lng="en">
-    <trd>French <ind>fry</ind><klr> (Usono)</klr></trd>,
-    <trd>potato <ind>chip</ind><klr> (Britujo)</klr></trd>
+    <trd>French <ind>fry</ind><klr> (usone)</klr></trd>,
+    <trd>potato <ind>chip</ind><klr> (brite)</klr></trd>
   </trdgrp>
   <trd lng="es">papas a la francesa<klr> (plural)</klr></trd>
   <trd lng="fr">frite</trd>
@@ -993,6 +1092,10 @@
   <trd lng="be">&c_sh;&c_t;&c_u;&c_r;&c_sh;&c_o;&c_k; <klr
   tip="amb">(&c_p;&c_a;&c_d;&c_ch;&c_a;&c_s;
   &c_z;&c_je;&c_m;&c_l;&c_ja;&c_t;&c_r;&c_u;&c_s;&c_a;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>ot&rcaron;es p&uring;dy</trd>,
+    <trd>seizmick&yacute; ot&rcaron;es</trd>
+  </trdgrp>
   <trd lng="fr">secousse tellurique</trd>
   <trd lng="hu">f&ouml;ldl&ouml;k&eacute;s</trd>
   <trd lng="nl">aardtrilling</trd>
@@ -1001,6 +1104,7 @@
   (&c_p;&c_r;&c_i;
   &c_z;&c_je;&c_m;&c_l;&c_je;&c_t;&c_r;&c_ja;&c_s;&c_je;&c_n;&c_i;&c_i;)
   </klr></trd>
+  <trd lng="sk">z&aacute;chvev zeme</trd>
 </drv>
 
 <drv mrk="ter.0tremo">
@@ -1018,6 +1122,10 @@
   </snc>
   <trd lng="be">&c_z;&c_je;&c_m;&c_l;&c_ja;&c_t;&c_r;&c_u;&c_s;</trd>
   <trd lng="bg">&c_z;&c_je;&c_m;&c_je;&c_t;&c_r;&c_je;&c_s;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>ot&rcaron;es p&uring;dy</trd>,
+    <trd>seizmick&yacute; ot&rcaron;es</trd>
+  </trdgrp>
   <trd lng="de">Erdbeben</trd>
   <trd lng="en">earthquake</trd>
   <trd lng="es">temblor</trd>
@@ -1030,6 +1138,7 @@
   <trd lng="nl">aardbeving</trd>
   <trd lng="pl">trz&eogonek;sienie <ind>ziemi</ind></trd>
   <trd lng="ru">&c_z;&c_je;&c_m;&c_l;&c_je;&c_t;&c_r;&c_ja;&c_s;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">z&aacute;chvev zeme</trd>
 </drv>
 
 <drv mrk="ter.0zono">
@@ -1047,16 +1156,31 @@
   <trd lng="be">
   &c_k;&c_l;&c_ib;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_ja;
   &c_z;&c_o;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>zemsk&eacute; p&aacute;smo</trd>,
+    <trd>zem&ecaron;pisn&eacute; p&aacute;smo</trd>,
+    <trd>z&oacute;na</trd>
+  </trdgrp>
   <trd lng="hu">&eacute;gt&aacute;j</trd>
   <trd lng="nl">aardgordel</trd>
   <trd lng="pl">strefa<klr> (klimatyczna)</klr></trd>
   <trd lng="ru">
   &c_k;&c_l;&c_i;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
   &c_p;&c_o;&c_ja;&c_s;</trd>
+  <trd lng="sk">zemsk&yacute; p&aacute;s <klr>(klimatick&yacute;)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: ter.xml,v $
+Revision 1.74  2015/09/17 12:10:24  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.73  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.72  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.71  2014/10/26 21:10:15  revo
 Jeromo Vasxe: - ~krusto portita al krust.xml
 
@@ -1070,14 +1194,5 @@ Revision 1.68  2013/11/02 16:10:16  revo
 Wolfram Diestel: terpomujo: ref al solanoparencoj, bot specioj
 
 Revision 1.67  2013/09/23 08:10:21  revo
-Wolfram Diestel: simb
-
-Revision 1.66  2013/08/20 19:10:15  revo
-Wolfram Diestel: referenco al listo planedoj
-
-Revision 1.65  2012/02/23 13:10:10  revo
-Jeromo Vasxe: + nov~o
-
-Revision 1.64  2010/01/18 17:31:07  revo
 -->
 </vortaro>

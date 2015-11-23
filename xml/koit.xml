@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koit.xml,v 1.10 2004/12/26 17:33:13 revo Exp $">
+<art mrk="$Id: koit.xml,v 1.12 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>koit</rad>/i
 </kap>
@@ -18,6 +18,7 @@
     </refgrp>
   </snc>
   <trd lng="ca">copular</trd>
+  <trd lng="cs">souložit</trd>
   <trdgrp lng="de">
     <trd>koitieren</trd>,
     <trd>den Beischlaf vollziehen</trd>
@@ -69,6 +70,11 @@
     <trd>coit</trd>,
     <trd>c&ograve;pula</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>koitus</trd>,
+    <trd>sexuální akt</trd>,
+    <trd>soulož</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Koitus</trd>,
     <trd>Beischlaf</trd>
@@ -93,11 +99,20 @@
     <trd>&c_p;&c_o;&c_l;&c_o;&c_v;&c_o;&c_je;
     &c_s;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
-  <trd lng="sk">s&uacute;lo&zcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>s&uacute;lo&zcaron;</trd>,
+    <trd>súloženie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: koit.xml,v $
+Revision 1.12  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2004/12/26 17:33:13  revo
 Marc Bavant: +trd fr, reverkis, sxangxis radikkarakteron
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: citron.xml,v 1.23 2012/08/27 00:10:23 revo Exp $">
+<art mrk="$Id: citron.xml,v 1.25 2015/07/04 08:37:32 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>citron</rad>/o
@@ -22,19 +22,23 @@
     <trd>sitron</trd>
   </trdgrp>
   <trd lng="ca">poncem</trd>
+  <trd lng="cs">citrón</trd>
   <trd lng="de">Zitrone</trd>
   <trd lng="el">&lambda;&epsilon;&my;&omikron_ton;&ny;&jota;</trd>
   <trd lng="en">lemon</trd>
   <trd lng="es">lim&oacute;n</trd>
+  <trd lng="fr">citron</trd>
   <trd lng="hu">citrom</trd>
   <trd lng="it">limone<klr> (frutto)</klr></trd>
   <trd lng="nl">citroen</trd>
   <trd lng="no">sitron</trd>
-  <trd lng="fr">citron</trd>
   <trd lng="pl">cytryna</trd>
   <trd lng="pt">lim&atilde;o</trd>
   <trd lng="ru">&c_l;&c_i;&c_m;&c_o;&c_n;</trd>
-  <trd lng="sk">citr&oacute;n</trd>
+  <trdgrp lng="sk">
+    <trd>citr&oacute;n</trd>,
+    <trd>citrón</trd>
+  </trdgrp>
   <trd lng="sv">citron</trd>
   <trd lng="tr">limon</trd>
 </drv>
@@ -51,6 +55,10 @@
   <trd lng="be">&c_l;&c_ib;&c_m;&c_o;&c_n;&c_a;&c_v;&c_a;&c_je; &c_d;&c_r;&c_e;&c_v;&c_a;</trd>
   <trd lng="br">suravalenn</trd>
   <trd lng="ca">poncemer</trd>
+  <trdgrp lng="cs">
+    <trd>citronovník</trd>,
+    <trd>citroník</trd>
+  </trdgrp>
   <trd lng="de">Zitronenbaum</trd>
   <trd lng="el">&lambda;&epsilon;&my;&omikron;&ny;&jota;&alfa_ton;</trd>
   <trd lng="en">lemon tree</trd>
@@ -63,11 +71,18 @@
   <trd lng="pl">cytryna</trd>
   <trd lng="pt">limoeiro</trd>
   <trd lng="ru">&c_l;&c_i;&c_m;&c_o;&c_n;&c_n;&c_o;&c_je; &c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
+  <trd lng="sk">citrónovník</trd>
   <trd lng="tr">limon</trd>
 </drv>
 </art>
 <!--
 $Log: citron.xml,v $
+Revision 1.25  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2012/08/27 00:10:23  revo
 Marc Rausell: + trd ca
 

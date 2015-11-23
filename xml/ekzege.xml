@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekzege.xml,v 1.15 2013/04/05 20:10:17 revo Exp $">
+<art mrk="$Id: ekzege.xml,v 1.17 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <rad>ekzegez</rad>/o
   <fnt>Z</fnt>
@@ -19,6 +19,7 @@
   </snc>
   <trd lng="be">&c_e;&c_k;&c_z;&c_e;&c_g;&c_je;&c_z;&c_a;</trd>
   <trd lng="ca">exegesi</trd>
+  <trd lng="cs">exegeze</trd>
   <trdgrp lng="de">
     <trd>Textauslegung</trd>,
     <trd>Bibelauslegung</trd>,
@@ -34,6 +35,11 @@
   <trd lng="pl">egzegeza</trd>
   <trd lng="pt">exegese</trd>
   <trd lng="ru">&c_t;&c_o;&c_l;&c_k;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>exegéza</trd>,
+    <trd>vysvetlenie</trd>,
+    <trd>výklad textu</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ekzege.0isto">
@@ -45,6 +51,10 @@
     </dif>
   </snc>
   <trd lng="ca">exegeta</trd>
+  <trdgrp lng="cs">
+    <trd>exeget</trd>,
+    <trd>exegeta</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Interpret</trd>,
     <trd>Textausleger</trd>,
@@ -65,10 +75,17 @@
     <trd>&c_t;&c_o;&c_l;&c_k;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_i;&c_n;&c_t;&c_je;&c_r;&c_p;&c_r;&c_je;&c_t;&c_a;&c_t;&c_o;&c_r;</trd>
   </trdgrp>
+  <trd lng="sk">exegét</trd>
 </drv>
 </art>
 <!--
 $Log: ekzege.xml,v $
+Revision 1.17  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/04/05 20:10:17  revo
 Sebastian Cyprych: +trd pl
 

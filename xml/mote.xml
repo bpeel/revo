@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mote.xml,v 1.3 2012/12/04 01:10:08 revo Exp $">
+<art mrk="$Id: mote.xml,v 1.5 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>mote</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -26,13 +26,21 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">mol</trd>
   <trd lng="de">Motte</trd>
   <trd lng="fr">mite</trd>
+  <trd lng="sk">mol</trd>
 </drv>
 </art>
 
 <!--
 $Log: mote.xml,v $
+Revision 1.5  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.3  2012/12/04 01:10:08  revo
 Jeromo Vasxe: kor. en ekz
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: minimu.xml,v 1.33 2009/04/17 19:47:34 revo Exp $">
+<art mrk="$Id: minimu.xml,v 1.35 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>minimum</rad>/o
@@ -140,6 +140,10 @@ tip="ind"> (&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
   </snc>
   <trd
   lng="be">&c_m;&c_ib;&c_n;&c_ib;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>minimální</trd>,
+    <trd>nejmenší</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>minim&aacute;lis</trd>,
     <trd>legkevesebb</trd>,
@@ -147,6 +151,10 @@ tip="ind"> (&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
   </trdgrp>
   <trd
   lng="ru">&c_m;&c_i;&c_n;&c_i;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>minimálny</trd>,
+    <trd>najmenší</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="minimu.0ejo">
@@ -156,10 +164,12 @@ tip="ind"> (&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
   <snc>
     <ref tip="dif" cel="minimu.0iganto"><tld/>iganto.</ref>
   </snc>
+  <trd lng="cs">minimum <klr>(na křivce| na grafu)</klr></trd>
   <trd lng="en">point of minimum</trd>
   <trd lng="hu">minimaliz&aacute;l&oacute;</trd>
   <trd lng="pl">punkt minimum</trd>
   <trd lng="pt">ponto de <ind>m&iacute;nimo</ind></trd>
+  <trd lng="sk">minimum</trd>
 </drv>
 
 <drv mrk="minimu.0iganto">
@@ -225,6 +235,12 @@ tip="ind"> (&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
 </art>
 <!--
 $Log: minimu.xml,v $
+Revision 1.35  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.34  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.33  2009/04/17 19:47:34  revo
 Sebastian Cyprych: +trd pl
 

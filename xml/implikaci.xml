@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: implikaci.xml,v 1.6 2007/04/20 16:31:05 revo Exp $">
+  <art mrk="$Id: implikaci.xml,v 1.8 2015/07/04 08:37:36 revo Exp $">
     <kap>
       <rad>implikaci</rad>/o
     </kap>
@@ -57,7 +57,12 @@
         <trd lng="pt">implica&#231;&#227;o</trd>
         <trd lng="ru">&c_i;&c_m;&c_p;&c_l;&c_i;&c_k;&c_a;&c_c;&c_i;&c_ja;</trd>
       </snc>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>zapletení</trd>,
+    <trd>zápletka</trd>
+  </trdgrp>
+  <trd lng="sk">zápletka</trd>
+</drv>
 
     <drv mrk="implikaci.0a">
       <kap><tld/>a</kap>
@@ -137,6 +142,12 @@
 
   <!--
   $Log: implikaci.xml,v $
+  Revision 1.8  2015/07/04 08:37:36  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.7  2015/06/29 16:33:15  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.6  2007/04/20 16:31:05  revo
   Tulio Flores: +tr pt
 

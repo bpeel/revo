@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lund.xml,v 1.31 2013/09/23 07:10:12 revo Exp $">
+<art mrk="$Id: lund.xml,v 1.33 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lund</rad>/o
@@ -30,7 +30,10 @@
     <trd>dilun</trd>
   </trdgrp>
   <trd lng="ca">dilluns</trd>
-  <trd lng="cs">pond&ecaron;l&iacute;</trd>
+  <trdgrp lng="cs">
+    <trd>pond&ecaron;l&iacute;</trd>,
+    <trd>pondělí</trd>
+  </trdgrp>
   <trd lng="de">Montag</trd>
   <trd lng="el">&delta;&epsilon;&ypsilon;&tau;&epsilon_ton;&rho;&alfa;</trd>
   <trd lng="en">Monday</trd>
@@ -39,8 +42,8 @@
   <trd lng="fr">lundi</trd>
   <trd lng="he">&yod;&vav;&fmem; &shin;&nun;&yod;</trd>
   <trd lng="hu">h&eacute;tf&odblac;</trd>
-  <trd lng="it">luned&igrave;</trd>
   <trd lng="id">Senin</trd>
+  <trd lng="it">luned&igrave;</trd>
   <trd lng="ja">&#26376;&#26332;&#26085; [<ind>&#12370;&#12388;&#12424;&#12358;&#12403;</ind>]</trd>
   <trd lng="nl">maandag</trd>
   <trd lng="pl">poniedzia&lstroke;ek</trd>
@@ -48,13 +51,20 @@
   <trd lng="ro">luni</trd>
   <trd 
 lng="ru">&c_p;&c_o;&c_n;&c_je;&c_d;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>
-  <trd lng="tr">pazartesi</trd>
+  <trd lng="sk">pondelok</trd>
   <trd lng="sv">m&aring;ndag</trd>
+  <trd lng="tr">pazartesi</trd>
   <trd lng="vo">mundel</trd>
 </drv>
 </art>
 <!--
 $Log: lund.xml,v $
+Revision 1.33  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.31  2013/09/23 07:10:12  revo
 Wolfram Diestel: +val
 

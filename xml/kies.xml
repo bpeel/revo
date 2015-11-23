@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kies.xml,v 1.18 2014/10/27 07:10:22 revo Exp $">
+<art mrk="$Id: kies.xml,v 1.20 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kies</rad>
@@ -146,10 +146,26 @@
     <trd>hvem sin</trd>
   </trdgrp>
   <trd lng="ru">&c_ch;&c_je;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>koho</trd>,
+    <trd>čí</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jehož</trd>,
+    <trd>jejichž</trd>,
+    <trd>jejíž</trd>,
+    <trd>čí</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kies.xml,v $
+Revision 1.20  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2014/10/27 07:10:22  revo
 Eko Nur Syah Hidayat: +trd id
 

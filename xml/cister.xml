@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cister.xml,v 1.18 2012/07/31 19:10:15 revo Exp $">
+<art mrk="$Id: cister.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>cistern</rad>/o <fnt><bib>PV</bib></fnt>
@@ -56,6 +56,13 @@
     <trd>cisterna</trd>,
     <trd>dip&ograve;sit</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>cisterna</trd>,
+    <trd>káď</trd>,
+    <trd>nádrž</trd>,
+    <trd>rezervoár</trd>,
+    <trd>zásobník</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>cistern</trd>,
     <trd>reservoir</trd>,
@@ -69,11 +76,20 @@
     <trd>&c_c;&c_i;&c_s;&c_t;&c_je;&c_r;&c_n;&c_a;</trd>,
     <trd>&c_b;&c_a;&c_k;</trd>
   </trdgrp>
-  <trd lng="sk">cisterna</trd>
+  <trdgrp lng="sk">
+    <trd>cisterna</trd>,
+    <trd>nádrž</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: cister.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/07/31 19:10:15  revo
 Marc Rausell: + trd ca
 

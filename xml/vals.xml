@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vals.xml,v 1.26 2014/04/22 18:11:13 revo Exp $">
+<art mrk="$Id: vals.xml,v 1.28 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vals</rad>/o
@@ -49,11 +49,15 @@
       </ekz>
     </dif>
     <trd lng="pt">valsa<klr tip="ind"> (m&uacute;sica)</klr></trd>    
-  </snc>                    
+  </snc>
   <trd lng="be">&c_v;&c_a;&c_l;&c_mol;&c_s;</trd>
   <trd lng="bg">&c_v;&c_a;&c_l;&c_s;</trd>
   <trd lng="br">valsenn</trd>
   <trd lng="ca">vals</trd>
+  <trdgrp lng="cs">
+    <trd>vals</trd>,
+    <trd>valčík</trd>
+  </trdgrp>
   <trd lng="el">&beta;&alfa_ton;&lambda;&sigma_fina;</trd>
   <trd lng="en">waltz</trd>
   <trd lng="fr">valse</trd>
@@ -61,6 +65,7 @@
   <trd lng="nl">wals</trd>
   <trd lng="pl">walc</trd>
   <trd lng="ru">&c_v;&c_a;&c_l;&c_mol;&c_s;</trd>
+  <trd lng="sk">valčík</trd>
   <trd lng="sv">vals</trd>
 </drv>
 
@@ -71,11 +76,12 @@
     <dif>
       Danci <tld/>on.
     </dif>
-  </snc>                           
+  </snc>
   <trd lng="be">&c_v;&c_a;&c_l;&c_mol;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="bg">&c_t;&c_a;&c_n;&c_c;&c_u;&c_v;&c_a;&c_m; &c_v;&c_a;&c_l;&c_s;</trd>
   <trd lng="br">valsi&ntilde;</trd>
   <trd lng="ca">valsar</trd>
+  <trd lng="cs">tančit valčík</trd>
   <trd lng="de">Walzer <ind>tanzen</ind></trd>
   <trd lng="es">vals</trd>
   <trd lng="fr">valser</trd>
@@ -84,11 +90,18 @@
   <trd lng="pl">ta&nacute;czy&cacute; <ind>walca</ind></trd>
   <trd lng="pt">valsar</trd>
   <trd lng="ru">&c_v;&c_a;&c_l;&c_mol;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">tancovať valčík</trd>
   <trd lng="sv">valsa</trd>
 </drv>
 </art>
 <!--
 $Log: vals.xml,v $
+Revision 1.28  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2014/04/22 18:11:13  revo
 Wieland Pusch: +trd bg
 

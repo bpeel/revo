@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: purita.xml,v 1.13 2009/06/29 18:05:53 revo Exp $">
+<art mrk="$Id: purita.xml,v 1.15 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>puritan</rad>/o
@@ -30,6 +30,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_u;&c_r;&c_y;&c_t;&c_a;&c_n;&c_ib;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>puritán</trd>,
+    <trd>čl. přísných mravů</trd>
+  </trdgrp>
   <trd lng="de">Puritaner</trd>
   <trd lng="en">puritan</trd>
   <trdgrp lng="fr">
@@ -42,6 +46,7 @@
    <trd>puritano</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_u;&c_r;&c_i;&c_t;&c_a;&c_n;&c_i;&c_n;</trd>
+  <trd lng="sk">puritán</trd>
 </drv>
 
 <drv mrk="purita.0ismo">
@@ -69,6 +74,12 @@
 </art>
 <!--
 $Log: purita.xml,v $
+Revision 1.15  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2009/06/29 18:05:53  revo
 Russ Williams: +trd en
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: japani.xml,v 1.7 2014/06/10 12:10:22 revo Exp $">
+<art mrk="$Id: japani.xml,v 1.9 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <rad>Japani</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -19,23 +19,31 @@
   </ekz>
   </snc>
   <trd lng="bg">&c_Ja;&c_p;&c_o;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="cs">Japonsko</trd>
   <trd lng="de">Japan</trd>
+  <trd lng="en">Japan</trd>
   <trd lng="fr">Japon</trd>
   <trd lng="hu">Jap&aacute;n</trd>
   <trd lng="id">Jepang</trd>
   <trd lng="it">Giappone</trd>
-  <trd lng="en">Japan</trd>
   <trdgrp lng="pl">
     <trd>Japonia</trd>,
     <trd>Kraj Kwitn&aogonek;cej Wi&sacute;ni<klr> (poet.)</klr></trd>
   </trdgrp>
   <trd lng="pt">Jap&atilde;o</trd>
+  <trd lng="sk">Japonsko</trd>
   <trd lng="sv">Japan</trd>
 </drv>
 </art>
 
 <!--
 $Log: japani.xml,v $
+Revision 1.9  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.7  2014/06/10 12:10:22  revo
 Damien Brucker: +ref
 

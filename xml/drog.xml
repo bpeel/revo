@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: drog.xml,v 1.16 2009/07/17 16:30:46 revo Exp $">
+<art mrk="$Id: drog.xml,v 1.18 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>drog</rad>/o
@@ -79,6 +79,7 @@
       <trd>doping<klr> (&sacute;rodek wspomagaj&aogonek;cy)</klr></trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">droga</trd>
   <trdgrp lng="es">
     <trd>droga</trd>,
     <trd>medicamento</trd>,
@@ -89,6 +90,7 @@
     <trd>&c_s;&c_n;&c_a;&c_d;&c_o;&c_b;&c_mol;&c_je;</trd>,
     <trd>&c_p;&c_r;&c_je;&c_p;&c_a;&c_r;&c_a;&c_t;</trd>
   </trdgrp>
+  <trd lng="sk">droga</trd>
 </drv>
 
 <drv mrk="drog.0acxo">
@@ -189,6 +191,12 @@
 </art>
 <!--
 $Log: drog.xml,v $
+Revision 1.18  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2009/07/17 16:30:46  revo
 Sebastian Cyprych: +trd pl
 

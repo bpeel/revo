@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: belved.xml,v 1.11 2009/03/09 17:31:30 revo Exp $">
+<art mrk="$Id: belved.xml,v 1.13 2015/07/04 08:37:31 revo Exp $">
   <kap>
     <rad>belveder</rad>/o
     <fnt>V</fnt>
@@ -39,10 +39,24 @@
       <trd
       lng="ru">&c_b;&c_je;&c_l;&c_mol;&c_v;&c_je;&c_d;&c_je;&c_r;</trd>
     </snc>
-  </drv>
+  <trdgrp lng="cs">
+    <trd>belvedér</trd>,
+    <trd>letohrádek</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>letohrádok</trd>,
+    <trd>rozhľadňa</trd>
+  </trdgrp>
+</drv>
 </art>
 <!--
 $Log: belved.xml,v $
+Revision 1.13  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2009/03/09 17:31:30  revo
 Sebastian Cyprych: +trd pl
 

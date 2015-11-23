@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: integr.xml,v 1.21 2014/08/18 08:10:10 revo Exp $">
+  <art mrk="$Id: integr.xml,v 1.23 2015/07/04 08:37:36 revo Exp $">
     <kap>
       <rad>integr</rad>/a
     </kap>
@@ -133,12 +133,22 @@
           <aut>Sergio Pokrovskij</aut>
         </rim>
       </snc>
-      <trdgrp lng="nl">
+  <trdgrp lng="cs">
+    <trd>celistvý</trd>,
+    <trd>integrovaný</trd>,
+    <trd>integrální</trd>,
+    <trd>nedílný</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
         <trd>ongeschonden</trd>,
         <trd>integer</trd>,
         <trd>volledig</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>celistvý</trd>,
+    <trd>integrálny</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="integr.0i">
       <kap><tld/>i</kap>
@@ -178,7 +188,16 @@
           <aut>Sergio Pokrovskij</aut>
         </rim>
       </snc>
-    </drv>
+  <trdgrp lng="cs">
+    <trd>integrovat</trd>,
+    <trd>počítat integrál</trd>,
+    <trd>slučovat</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>integrovať</trd>,
+    <trd>zlučovať</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="integr.0igi">
       <kap><tld/>igi</kap>
@@ -284,20 +303,28 @@
         </dif>
         <ref tip="malprt" cel="blat.0o.ic">blato</ref>
       </snc>
-      <trd lng="en">integrated circuit</trd>
-      <trdgrp lng="de">
+  <trd lng="cs">integrovaný obvod</trd>
+  <trdgrp lng="de">
         <trd>integrierter Schaltkreis</trd>,
         <trd>integrierte Schaltung</trd>
       </trdgrp>
-      <trd lng="fr">circuit int&eacute;gr&eacute;</trd>
-      <trd lng="hu">integr&aacute;lt <ind>&aacute;ramk&ouml;r</ind></trd>
-      <trd lng="nl">ge&iuml;ntegreerde <ind>schakeling</ind></trd>
-      <trd lng="ru">&c_i;&c_n;&c_t;&c_je;&c_g;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;  &c_s;&c_h;&c_je;&c_m;&c_a;</trd>
-      <trd lng="sv">integrerad krets</trd>
-    </drv>
+  <trd lng="en">integrated circuit</trd>
+  <trd lng="fr">circuit int&eacute;gr&eacute;</trd>
+  <trd lng="hu">integr&aacute;lt <ind>&aacute;ramk&ouml;r</ind></trd>
+  <trd lng="nl">ge&iuml;ntegreerde <ind>schakeling</ind></trd>
+  <trd lng="ru">&c_i;&c_n;&c_t;&c_je;&c_g;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;  &c_s;&c_h;&c_je;&c_m;&c_a;</trd>
+  <trd lng="sk">integrovaný obvod</trd>
+  <trd lng="sv">integrerad krets</trd>
+</drv>
   </art>
   <!--
   $Log: integr.xml,v $
+  Revision 1.23  2015/07/04 08:37:36  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.22  2015/06/29 16:33:15  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.21  2014/08/18 08:10:10  revo
   Sergio Pokrovskij: apartigo de ~igxi
 

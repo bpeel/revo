@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: antrak.xml,v 1.16 2012/09/01 19:10:13 revo Exp $">
+<art mrk="$Id: antrak.xml,v 1.18 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>antraks</rad>/o
   <fnt>Z</fnt>
@@ -71,10 +71,25 @@
     <trd>antraz</trd>,
     <trd>carb&uacute;nculo</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>antrax</trd>,
+    <trd>slezinná sneť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>antrax</trd>,
+    <trd>sněť slezinná</trd>,
+    <trd>uhlák</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: antrak.xml,v $
+Revision 1.18  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2012/09/01 19:10:13  revo
 Marc Rausell: + trd ca
 

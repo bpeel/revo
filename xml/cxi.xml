@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxi.xml,v 1.13 2011/02/09 08:10:08 revo Exp $">
+<art mrk="$Id: cxi.xml,v 1.16 2015/10/10 13:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;i</rad> <fnt><bib>PV</bib></fnt>
@@ -24,12 +24,19 @@
           <trd><klr>o </klr>ten</trd>
         </trdgrp>
         <trd lng="nl">deze</trd>
+        <trdgrp lng="no">
+          <trd>denne</trd>,
+          <trd>denne her</trd>
+        </trdgrp>
+        <trd lng="pt">este</trd>
       </ekz>
       <ekz>
         <ind><tld/> tie</ind>;
         <trd lng="fi">t&auml;&auml;ll&auml;</trd>
         <trd lng="nl">hier</trd>
+        <trd lng="no">her</trd>
         <trd lng="pl">tutaj</trd>
+        <trd lng="pt">aqui</trd>
       </ekz>
       <ekz>
         <ind>&ccirc;io <tld/></ind>.
@@ -95,16 +102,19 @@
         <trd lng="fi">t&auml;ll&auml; kertaa</trd>
         <trd lng="pl">tym <ind>razem</ind></trd>
         <trd lng="nl">dit <ind>keer</ind></trd>
+        <trd lng="no">denne <ind>gangen</ind></trd>
       </ekz>
       <ekz>
         <ind><tld/>-okaze</ind>;
         <trd lng="nl">bij die <ind>gelegenheid</ind></trd>
+        <trd lng="no">ved denne <ind>anledningen</ind></trd>
         <trd lng="pl">w tym <ind>przypadku</ind></trd>
       </ekz>
       <ekz>
         <ind><tld/>-rilate</ind>;
         <trd lng="nl"><ind><klr tip="ind">betreffen</klr>:</ind>
         wat dat betreft</trd>
+        <trd lng="no">i <ind>forbindelse</ind> med</trd>
       </ekz>
       <ekz>
         <ind><tld/>-landa</ind><fnt>Z</fnt>;
@@ -132,11 +142,18 @@
       adverbeissa)
       </klr> t&auml;ss&auml; l&auml;hell&auml; oleva</trd>
     </trdgrp>
-    <rim>
+    <rim num="1">
       Tian prefikson oni kutime apartigas per streketo,
       interalie por eviti momentan konfuzon kun la tabelvorta
       elemento &ccirc;i- (kp <ekz>&ccirc;iokaze,
       &ccirc;iapude</ekz> ktp).
+    </rim>
+    <rim num="2">
+      En adverbaj kaj adjektivaj kunmeta&jcirc;oj oni eliminas <ekz>tiu, tio,
+      tie</ekz> kaj uzas <ekz><tld/></ekz> tute
+      solan: <ekz><tld/> tiu jare &#8594; <tld/>-jare; <tld/> tio kune &#8594;
+      <tld/>-kune; <tld/> tie sube &#8594;
+      <tld/>-sube</ekz><fnt><bib>LtE</bib></fnt>.
     </rim>
   </snc>
   <snc mrk="cxi.0.POE">
@@ -182,6 +199,15 @@
 </art>
 <!--
 $Log: cxi.xml,v $
+Revision 1.16  2015/10/10 13:10:14  revo
+Evandro Avellar: +trd pt
+
+Revision 1.15  2015/05/31 22:10:15  revo
+Damien Brucker: +rim 2
+
+Revision 1.14  2015/04/12 22:10:17  revo
+Filip van Laenen: +trd(no)
+
 Revision 1.13  2011/02/09 08:10:08  revo
 Jeromo Vasxe: interpunkcio de ekz
 
@@ -195,14 +221,5 @@ Revision 1.10  2007/07/19 16:30:41  revo
 Harri Laine: kor trd fi
 
 Revision 1.9  2007/07/13 16:30:51  revo
-Harri Laine: +trd fi
-
-Revision 1.8  2007/01/07 17:31:16  revo
-Russ Williams: +trd en tp
-
-Revision 1.7  2001/10/03 18:18:20  revo
-Jerome Vachey: uzo fak POE - uzo stl POE
-
-Revision 1.6  2001/02/24 17:55:43  revo
 -->
 </vortaro>

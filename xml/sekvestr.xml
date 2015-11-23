@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sekvestr.xml,v 1.3 2013/02/20 15:10:09 revo Exp $">
+<art mrk="$Id: sekvestr.xml,v 1.5 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>sekvestr</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,6 +27,12 @@
   </snc>
   <trd lng="be">&c_s;&c_e;&c_k;&c_v;&c_e;&c_s;&c_t;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">segrest<klr> (dret)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>dát do nucené správy</trd>,
+    <trd>obstavit</trd>,
+    <trd>sekvestrovat</trd>,
+    <trd>zabavit</trd>
+  </trdgrp>
   <trd lng="de">unter <ind>Zwangsverwaltung</ind> stellen</trd>
   <trd lng="en">sequester</trd>
   <trd lng="fr">mettre sous <ind>s&eacute;questre</ind></trd>
@@ -41,6 +47,10 @@
   <trdgrp lng="ru">
     <trd>&c_s;&c_je;&c_k;&c_v;&c_je;&c_s;&c_t;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_a;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol; <ind>&c_s;&c_je;&c_k;&c_v;&c_je;&c_s;&c_t;&c_r;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>sekvestrovať</trd>,
+    <trd>súdne zhabať</trd>
   </trdgrp>
 </drv>
 
@@ -61,13 +71,32 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>nucená správa</trd>,
+    <trd>obstávka</trd>,
+    <trd>sekvestr</trd>,
+    <trd>sekvestrace</trd>,
+    <trd>sekvestura</trd>,
+    <trd>zabavení</trd>
+  </trdgrp>
   <trd lng="en">sequester</trd>
   <trd lng="fr">s&eacute;questre</trd>
+  <trdgrp lng="sk">
+    <trd>nútená správa</trd>,
+    <trd>sekvestrácia</trd>,
+    <trd>zhabanie</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: sekvestr.xml,v $
+Revision 1.5  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.3  2013/02/20 15:10:09  revo
 Jeromo Vasxe: + ref sin, + trd el sekvestraci k sekestri
 

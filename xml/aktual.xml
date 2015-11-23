@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: aktual.xml,v 1.24 2014/01/07 12:10:18 revo Exp $">
+  <art mrk="$Id: aktual.xml,v 1.28 2015/10/31 08:10:15 revo Exp $">
     <kap>
       <ofc>4</ofc>
       <rad>aktual</rad>/a
@@ -214,7 +214,14 @@
       <trd lng="pt">atual</trd>
       <trd lng="ro">actual</trd>
       <trd lng="sv">aktuell</trd>
-    </drv>
+      <trd lng="sk">aktu&aacute;lny, &ccaron;asov&yacute;</trd>
+  <trd lng="sk">aktu&aacute;lny, &ccaron;asov&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>aktu&aacute;ln&iacute;</trd>,
+    <trd>nal&eacute;hav&yacute;</trd>,
+    <trd>&ccaron;asov&yacute;</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="aktual.0ajxo">
       <kap><tld/>a&jcirc;o</kap>
@@ -339,7 +346,10 @@
         <trd lng="en">update</trd>
         <trd lng="ru">&c_o;&c_b;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>
       </snc>
-    </drv>
+  <trd lng="cs">zaktualizovat</trd>
+  <trd lng="fr">actualiser</trd>
+  <trd lng="sk">zaktualizova&tcaron;</trd>
+</drv>
 
     <drv mrk="aktual.0igxi">
       <kap><tld/>i&gcirc;i</kap>
@@ -365,6 +375,18 @@
   </art>
   <!--
   $Log: aktual.xml,v $
+  Revision 1.28  2015/10/31 08:10:15  revo
+  Alain Gerard: +trd (fr)
+
+  Revision 1.27  2015/07/04 08:37:30  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.26  2015/06/29 16:39:29  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.25  2015/06/28 12:03:35  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.24  2014/01/07 12:10:18  revo
   Damien Brucker: +trd fr
 

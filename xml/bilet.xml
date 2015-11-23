@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: bilet.xml,v 1.26 2013/11/08 19:10:33 revo Exp $">
+<art mrk="$Id: bilet.xml,v 1.28 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>bilet</rad>/o <fnt><bib>PV</bib></fnt>
@@ -62,11 +62,13 @@
       <fnt><bib>&Scirc;talrato</bib>, <lok>&ccirc;apitro 1a</lok></fnt>!
     </ekz>
   </snc>
+  <trd lng="cs">lístek <klr>(vstupenka| jízdenka)</klr></trd>
   <trd lng="es">billete</trd>
   <trdgrp lng="fr">
     <trd>billet</trd>,
     <trd>ticket</trd>
   </trdgrp>
+  <trd lng="sk">cestovný lístok</trd>
   <trd lng="tp">lipu</trd>
 </drv>
 
@@ -77,6 +79,8 @@
     <trd lng="fr">portefeuille</trd>
     <trd lng="pl">portfel</trd>
   </snc>
+  <trd lng="cs">schránka na lístky</trd>
+  <trd lng="sk">schránka na lístky</trd>
 </drv>
 
 <drv mrk="bilet.flug0o">
@@ -100,8 +104,10 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">letenka</trd>
   <trd lng="en">air ticket</trd>
   <trd lng="fr">billet d'avion</trd>
+  <trd lng="sk">letenka</trd>
 </drv>
 
 <drv mrk="bilet.mon0o">
@@ -158,10 +164,21 @@
       <trd>&c_k;&c_u;&c_p;&c_ju;&c_r;&c_a;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">bankovka</trd>
+  <trdgrp lng="sk">
+    <trd>bankovka</trd>,
+    <trd>papierový peniaz</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: bilet.xml,v $
+Revision 1.28  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2013/11/08 19:10:33  revo
 Jeromo Vasxe: + flug~o
 

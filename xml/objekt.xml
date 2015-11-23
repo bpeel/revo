@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: objekt.xml,v 1.17 2009/10/15 16:32:14 revo Exp $">
+<art mrk="$Id: objekt.xml,v 1.21 2015/07/10 19:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>objekt</rad>/o
+  <rad>objekt</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="objekt.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -110,9 +110,6 @@
       multaj leteroj mi ricevis pri tiu <tld/>o<fnt>Z</fnt>;
     </ekz>
     <ekz>
-      <tld/>o de studo<fnt>B</fnt>;
-    </ekz>
-    <ekz>
       la legita <tld/>o<fnt>Z</fnt>
       <klr>(<tld/>o de legado)</klr>;
     </ekz>
@@ -207,30 +204,43 @@ lng="be">&c_d;&c_a;&c_p;&c_a;&c_w;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
     <trd lng="nl">voorwerp</trd>
     <trd lng="ru">&c_d;&c_o;&c_p;&c_o;&c_l;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
   </snc>
-  <trd lng="cs">p&rcaron;edm&ecaron;t</trd>
-  <trd lng="de">Objekt</trd>
-  <trdgrp lng="fr">
-    <trd>objet</trd>
+  <trdgrp lng="cs">
+    <trd>celek</trd>,
+    <trd>jednotka</trd>,
+    <trd>objekt</trd>,
+    <trd>p&rcaron;edm&ecaron;t</trd>
   </trdgrp>
+  <trd lng="de">Objekt</trd>
   <trd 
 lng="el">&alfa;&ny;&tau;&jota;&kappa;&epsilon;&jota_ton;&my;&epsilon;&ny;&omikron;</trd>
   <trd lng="en">object</trd>
   <trd lng="es">objeto</trd>
+  <trdgrp lng="fr">
+    <trd>objet</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>benda</trd>,
+    <trd>objek</trd>
+  </trdgrp>
   <trd lng="pt">obje(c)to</trd>
+  <trdgrp lng="sk">
+    <trd>celok</trd>,
+    <trd>jednotka</trd>,
+    <trd>objekt</trd>
+  </trdgrp>
   <trd lng="tp">ijo</trd>
 </drv>
 
 <drv mrk="objekt.0a">
   <kap><tld/>a</kap>
-  <snc>
+  <snc mrk="objekt.0a.FIL">
     <uzo tip="fak">FIL</uzo>
     <dif>
       Objektiva.
     </dif>
     <trd lng="be">&c_a;&c_b;'&c_ja;&c_k;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>
     <trd lng="de">objektiv</trd>
-    <trd 
-lng="el">&alfa;&ny;&tau;&jota;&kappa;&epsilon;&jota;&my;&epsilon;&ny;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>
+    <trd lng="el">&alfa;&ny;&tau;&jota;&kappa;&epsilon;&jota;&my;&epsilon;&ny;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>
     <trdgrp lng="fr">
       <trd>objectif</trd>
     </trdgrp>
@@ -238,13 +248,14 @@ lng="el">&alfa;&ny;&tau;&jota;&kappa;&epsilon;&jota;&my;&epsilon;&ny;&jota;&kapp
       <trd>objekt&iacute;v</trd>,
       <trd>t&aacute;rgyi</trd>
     </trdgrp>
+    <trd lng="id">objektif</trd>
     <trd lng="nl">objectief</trd>
     <trd lng="pt">obje(c)tivo</trd>
   </snc>
-  <snc>
+  <snc mrk="objekt.0a.GRA">
     <uzo tip="fak">GRA</uzo>
     <dif>
-      Rilata al <tld/>o:
+      Rilata al <ref tip="vid" cel="objekt.0o.GRA"><tld/>o</ref>:
       <ekz>
         <tld/>a komplemento.
       </ekz>
@@ -253,9 +264,49 @@ lng="el">&alfa;&ny;&tau;&jota;&kappa;&epsilon;&jota;&my;&epsilon;&ny;&jota;&kapp
     <trd lng="nl">voorwerpelijk</trd> 
   </snc>
 </drv>
+
+<drv mrk="objekt.stud0o">
+  <kap>stud<tld/>o,
+  <var><kap><tld/>o de studo<fnt>B</fnt></kap></var></kap>
+  <snc mrk="objekt.stud0o.PED">
+    <uzo tip="fak">PED</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      <tld lit="O"/>o studata en kurso,
+      por diplomlaboro
+      a&ubreve; difinita kiel longatempa esplorinda&jcirc;o:
+      <ekz>
+        mi oficiale instruis Esperanton en MASI/MGIU kiel devigan 
+        stud<tld/>on por studentoj de diversaj teknikaj fakoj
+        <fnt>
+          <aut>I. Gon&ccirc;arova</aut>,
+          <vrk><url ref="http://sezonoj.ru/2015/07/masi-15/">
+          MASI 20-jara. Bela juna a&gcirc;o!</url></vrk>,
+          <lok>La Balta Ondo, 2015-07-06</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>objet d'&eacute;tude</trd>,
+    <trd>sujet d'&eacute;tude</trd>
+  </trdgrp>
+</drv>
 </art>
 <!--
 $Log: objekt.xml,v $
+Revision 1.21  2015/07/10 19:10:14  revo
+Jeromo Vasxe: + stud~o
+
+Revision 1.20  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/11/14 03:10:26  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.17  2009/10/15 16:32:14  revo
 Paul Peeraerts: +nl +ref
 
@@ -266,17 +317,5 @@ Revision 1.15  2004/06/24 16:33:14  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.14  2002/09/03 17:32:09  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.13  2002/05/30 15:02:46  revo
-Eduardo M. Kalinowski: ald trd pt
-
-Revision 1.12  2002/05/25 16:56:27  revo
-Jeromo Vasxe: snc 3 ref dif temo, snc 5 ref ant subjekto, + trd fr
-
-Revision 1.11 2002/01/18 21:59:48 revo
-fontindiko PrV per programo de Jerome
-
-Revision 1.10 2001/12/03 17:31:17 revo
 -->
 </vortaro>

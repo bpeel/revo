@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: karas.xml,v 1.19 2013/10/08 19:10:19 revo Exp $">
+<art mrk="$Id: karas.xml,v 1.22 2015/10/30 06:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>karas</rad>/o
@@ -31,16 +31,28 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_r;&c_a;&c_s;&c_mol;</trd>
+  <trd lng="cs">karas</trd>
   <trd lng="de">Karausche</trd>
   <trd lng="en">crucian <ind>carp</ind></trd>
   <trd lng="fr">carassin</trd>
   <trd lng="hu">k&aacute;r&aacute;sz</trd>
   <trd lng="nl">steenkarper</trd>
+  <trd lng="pl">kara&sacute;</trd>
   <trd lng="ru">&c_k;&c_a;&c_r;&c_a;&c_s;&c_mol;</trd>
+  <trd lng="sk">karas</trd>
 </drv>
 </art>
 <!--
 $Log: karas.xml,v $
+Revision 1.22  2015/10/30 06:10:20  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/10/08 19:10:19  revo
 Wolfram Diestel: fishoj, prilaboris dif
 
@@ -54,14 +66,5 @@ Revision 1.16 2004/11/28 19:43:08 revo
 Marc Bavant: +trd fr
 
 Revision 1.15 2002/10/24 16:31:33 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14 2002/07/03 19:04:29 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.13 2001/10/25 18:50:12 revo
-Yury Finkel: +trd ru
-
-Revision 1.12 2001/05/11 19:58:55 revo
 -->
 </vortaro>

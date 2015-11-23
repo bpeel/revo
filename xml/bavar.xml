@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bavar.xml,v 1.12 2014/02/07 21:10:16 revo Exp $">
+<art mrk="$Id: bavar.xml,v 1.15 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <rad>bavar</rad>/o
 </kap>
@@ -38,8 +38,10 @@
     <trd lng="ru">&c_b;&c_a;&c_v;&c_a;&c_r;</trd>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_v;&c_a;&c_r;&c_a;&c_c;</trd>
+  <trd lng="cs">Bavor<klr>(ák)</klr></trd>
   <trd lng="en">Bavarian</trd>
   <trd lng="fr">Bavarois<klr> (habitant)</klr></trd>
+  <trd lng="sk">Bavorák</trd>
 </drv>
 
 <drv mrk="bavar.0a">
@@ -72,14 +74,18 @@
     <trd lng="pl">bawarski</trd>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_v;&c_a;&c_r;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="bg">&c_B;&c_a;&c_v;&c_a;&c_r;&c_s;&c_k;&c_i;</trd>
+  <trd lng="cs">bavorský</trd>
   <trd lng="en">Bavarian</trd>
+  <trd lng="es">b&aacute;varo</trd>
   <trd lng="fr">bavarois<klr> (adjectif)</klr></trd>
   <trdgrp lng="hu">
     <trd>bajor</trd>,
     <trd>bajuvar</trd>
   </trdgrp>
-  <trd lng="es">b&aacute;varo</trd>
+  <trd lng="nl">beiers</trd>
   <trd lng="ru">&c_b;&c_a;&c_v;&c_a;&c_r;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">bavorský</trd>
 </drv>
 
 <drv mrk="bavar.B0ujo">
@@ -116,8 +122,10 @@
     <trd lng="lat">Bavaria</trd>
   </snc>
   <trd lng="be">&c_B;&c_a;&c_v;&c_a;&c_r;&c_y;&c_ja;</trd>
+  <trd lng="bg">&c_B;&c_a;&c_v;&c_a;&c_r;&c_i;&c_ja;</trd>
   <trd lng="fr">Bavi&egrave;re</trd>
   <trd lng="hu">Bajororsz&aacute;g</trd>
+  <trd lng="nl">Beieren</trd>
   <trd lng="ru">&c_B;&c_a;&c_v;&c_a;&c_r;&c_i;&c_ja;</trd>
 </drv>
 
@@ -141,6 +149,15 @@
 </art>
 <!--
 $Log: bavar.xml,v $
+Revision 1.15  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2015/05/26 17:10:18  revo
+Joop Eggen: +trd bg nl
+
 Revision 1.12  2014/02/07 21:10:16  revo
 Damien Brucker: -eraro cxe ref
 
@@ -160,8 +177,5 @@ Revision 1.7  2003/09/10 16:30:46  revo
 Yury Finkel: +trd ru
 
 Revision 1.6 2002/11/05 17:33:57 revo
-Christopher Zervic: + ang
-
-Revision 1.5 2002/10/22 16:34:20 revo
 -->
 </vortaro>

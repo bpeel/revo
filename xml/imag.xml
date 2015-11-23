@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: imag.xml,v 1.22 2010/09/05 16:30:36 revo Exp $">
+<art mrk="$Id: imag.xml,v 1.24 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>imag</rad>/i <fnt><bib>PV</bib></fnt>
@@ -58,6 +58,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_u;&c_ja;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>představit si</trd>,
+    <trd>vybavovat si</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>sich <ind>vorstellen</ind></trd>,
     <trd>sich <ind>einbilden</ind></trd>
@@ -76,6 +80,7 @@
     <trd>&c_p;&c_r;&c_je;&c_d;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;
 &c_s;&c_je;&c_b;&c_je;</trd>
   </trdgrp>
+  <trd lng="sk">predstaviť si v duchu</trd>
 </drv>
 
 <drv mrk="imag.0o0ado0emo0povo">
@@ -109,6 +114,7 @@
     </ekz>
   </snc>
   <trd lng="be">&c_u;&c_ja;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="cs">představivost</trd>
   <trd lng="en">imagination</trd>
   <trd lng="es">imaginaci&oacute;n</trd>
   <trdgrp lng="fr">
@@ -122,6 +128,10 @@
   <trd lng="pt">imagina&ccedil;&atilde;o<klr tip="amb"> (capacidade de
 imaginar)</klr></trd>
   <trd lng="ru">&c_v;&c_o;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>obrazotvornosť</trd>,
+    <trd>predstavivosť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="imag.0ajxo">
@@ -171,6 +181,10 @@ imaginar)</klr></trd>
     <trd>&c_v;&c_o;&c_b;&c_r;&c_a;&c_z;</trd>,
     <trd>&c_u;&c_ja;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>image <klr>(imidž)</klr> představa</trd>,
+    <trd>obraz osoby</trd>
+  </trdgrp>
   <trd lng="de">Vorstellung</trd>
   <trdgrp lng="en"><trd>image</trd>, <trd>mental image</trd></trdgrp>
   <trdgrp lng="fr">
@@ -181,6 +195,10 @@ imaginar)</klr></trd>
   <trd lng="nl">verbeelding</trd>
   <trd lng="pt">imagina&ccedil;&atilde;o<klr tip="ind"> (coisa
 imaginada)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>obrazotvornosť</trd>,
+    <trd>predstavivosť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="imag.0a">
@@ -233,9 +251,18 @@ imaginada)</klr></trd>
       <trd>&c_m;&c_n;&c_i;&c_m;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>imaginární</trd>,
+    <trd>pomyslný</trd>,
+    <trd>zdánlivý</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>de l'<ind>imagination</ind></trd>,
     <trd>imaginaire</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>imaginárny</trd>,
+    <trd>zdanlivý</trd>
   </trdgrp>
 </drv>
 
@@ -247,9 +274,11 @@ imaginada)</klr></trd>
     </dif>
     <ref tip="vid" cel="koncep.0ebla">konceptebla</ref>
   </snc>
+  <trd lng="cs">představitelný</trd>
   <trd lng="en">imaginable</trd>
   <trd lng="fr">imaginable</trd>
   <trd lng="pt">imagin&aacute;vel</trd>
+  <trd lng="sk">predstaviteľný</trd>
 </drv>
 
 <drv mrk="imag.0ema">
@@ -299,6 +328,10 @@ b&iacute;r&oacute;</trd>,
     <trd>&c_n;&c_ja;&c_w;&c_ja;&c_w;&c_n;&c_y;</trd>,
     <trd>&c_n;&c_je;&c_j;&c_m;&c_a;&c_v;&c_je;&c_r;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nemyslitelný</trd>,
+    <trd>nepředstavitelný</trd>
+  </trdgrp>
   <trd lng="de">unvorstellbar</trd>
   <trdgrp lng="en"><trd>unimaginable</trd>,
   <trd>inconceivable</trd></trdgrp>
@@ -308,6 +341,7 @@ b&iacute;r&oacute;</trd>,
   <trd lng="nl">onvoorstelbaar</trd>
   <trd lng="pt">inimagin&aacute;vel</trd>
   <trd lng="ru">&c_n;&c_je;&c_v;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_i;&c_m;&c_y;&c_j;</trd>
+  <trd lng="sk">nepredstaviteľný</trd>
 </drv>
 <rim mrk="imag.0.RIM">
   Imago havas sencon pli ampleksan ol
@@ -330,6 +364,12 @@ b&iacute;r&oacute;</trd>,
 </art>
 <!--
 $Log: imag.xml,v $
+Revision 1.24  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2010/09/05 16:30:36  revo
 Jeromo Vasxe: - kramp
 

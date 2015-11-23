@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sezam.xml,v 1.19 2013/10/05 01:10:20 revo Exp $">
+<art mrk="$Id: sezam.xml,v 1.21 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>sezam</rad>/o
 </kap>
@@ -22,22 +22,30 @@
   <trd lng="be">&c_s;&c_e;&c_z;&c_a;&c_m;</trd>
   <trd lng="bg">&c_s;&c_u;&c_s;&c_a;&c_m;</trd>
   <trd lng="ca">g&egrave;nere Sesamum</trd>
+  <trd lng="cs">sezam</trd>
   <trd lng="de">Sesam</trd>
   <trd lng="en">sesame</trd>
   <trd lng="fa">&f_k;&a_n;&a_j;&a_d;</trd>
   <trd lng="fr">s&eacute;same</trd>
   <trd lng="hu">szez&aacute;m</trd>
   <trd lng="nl">sesam</trd>
-  <trd lng="sv">sesam</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_u;&c_n;&c_zh;&c_u;&c_t;</trd>,
     <trd>&c_s;&c_je;&c_z;&c_a;&c_m;</trd>
   </trdgrp>
+  <trd lng="sk">sezam</trd>
+  <trd lng="sv">sesam</trd>
   <trd lng="tr">susam</trd>
 </drv>
 </art>
 <!--
 $Log: sezam.xml,v $
+Revision 1.21  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/10/05 01:10:20  revo
 Joop Eggen: +trd bg
 

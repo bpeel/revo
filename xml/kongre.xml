@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kongre.xml,v 1.17 2010/12/03 17:30:17 revo Exp $">
+<art mrk="$Id: kongre.xml,v 1.19 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>kongregaci</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -50,6 +50,10 @@
   </snc>
   <trd lng="be">
   &c_k;&c_a;&c_n;&c_g;&c_r;&c_e;&c_g;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>kongregace</trd>,
+    <trd>sdružení</trd>
+  </trdgrp>
   <trd lng="en">congregation</trd>
   <trd lng="fr">congr&eacute;gation</trd>
   <trd lng="hu">kongreg&aacute;ci&oacute;</trd>
@@ -59,6 +63,10 @@
   <trd lng="pl">kongregacja</trd>
   <trd lng="pt">congrega&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_k;&c_o;&c_n;&c_g;&c_r;&c_je;&c_g;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>kongregácia</trd>,
+    <trd>združenie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kongre.0ismo">
@@ -112,6 +120,12 @@
 </art>
 <!--
 $Log: kongre.xml,v $
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2010/12/03 17:30:17  revo
 Jeromo Vasxe: + ~ano
 

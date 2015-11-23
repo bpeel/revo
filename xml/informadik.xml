@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: informadik.xml,v 1.4 2009/03/07 17:30:25 revo Exp $">
+<art mrk="$Id: informadik.xml,v 1.6 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <rad>informadik</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -22,10 +22,15 @@
       </fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>informatika</trd>,
+    <trd>nauka o informacích</trd>
+  </trdgrp>
   <trd lng="de">Informatik</trd>
   <trd lng="fr">informatique<klr> (subst.)</klr></trd>
   <trd lng="pl">informatyka</trd>
   <trd lng="pt">inform&aacute;tica</trd>
+  <trd lng="sk">informatika</trd>
 </drv>
 
 <drv mrk="informadik.0isto">
@@ -42,14 +47,22 @@
       <lok>2005-03</lok></fnt>
     </ekz>
   </snc>
+  <trd lng="cs">informatik</trd>
   <trd lng="de">Informatiker</trd>
   <trd lng="fr">informaticien</trd>
   <trd lng="pl">informatyk</trd>
+  <trd lng="sk">informatik</trd>
 </drv>
 </art>
 
 <!--
 $Log: informadik.xml,v $
+Revision 1.6  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2009/03/07 17:30:25  revo
 Wieland Pusch: +trd de
 

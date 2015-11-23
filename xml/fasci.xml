@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fasci.xml,v 1.11 2007/05/17 16:30:30 revo Exp $">
+<art mrk="$Id: fasci.xml,v 1.13 2015/07/04 08:37:34 revo Exp $">
 <kap>
 <rad>fasci</rad>/o
 </kap>
@@ -16,10 +16,14 @@
     </dif>
   </snc>
   <trd lng="be">&c_f;&c_a;&c_s;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>fascie</trd>,
+    <trd>povázka</trd>
+  </trdgrp>
   <trd lng="de">Faszie</trd>
   <trdgrp lng="fr">
     <trd>apon&eacute;vrose</trd>,
-    <trd>fascia</trd></trdgrp> 
+    <trd>fascia</trd></trdgrp>
   <trdgrp lng="hu">
     <trd>izomp&oacute;lya</trd>,
     <trd>fascia</trd></trdgrp>
@@ -33,10 +37,17 @@
     <trd>&c_f;&c_a;&c_s;&c_c;&c_i;&c_ja;</trd>,
     <trd>&c_m;&c_y;&c_sh;&c_je;&c_ch;&c_n;&c_a;&c_ja; &c_o;&c_b;&c_o;&c_l;&c_o;&c_ch;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">fascia</trd>
 </drv>
 </art>
 <!--
 $Log: fasci.xml,v $
+Revision 1.13  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2007/05/17 16:30:30  revo
 Tulio Flores: +tr pt
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: litera.xml,v 1.27 2010/05/24 16:30:26 revo Exp $">
+  <art mrk="$Id: litera.xml,v 1.30 2015/07/22 17:10:15 revo Exp $">
     <kap>
       <ofc>*</ofc> <ofc>1</ofc> <ofc>7</ofc>
       <rad>literatur</rad>/o
@@ -25,24 +25,29 @@
           </ekz>
         </dif>
       </snc>
-      <trd
-      lng="be">&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
-      <trd
-      lng="el">&lambda;&omikron;&gamma;&omikron;&tau;&epsilon;&chi;&ny;&jota_ton;&alfa;</trd>
-      <trdgrp lng="de">
+  <trd lng="be">&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="bg">&c_l;&c_i;&c_t;&c_je;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="cs">literatura</trd>
+  <trdgrp lng="de">
         <trd>Literatur</trd>,
         <trd>Schrifttum</trd>
       </trdgrp>
-      <trd lng="en">literature</trd>
-      <trd lng="es">literatura</trd>
-      <trd lng="fr">litt&eacute;rature</trd>
-      <trd lng="he">&samekh;&pe;&resh;&vav;&tav;</trd>
-      <trd lng="hu">irodalom</trd>
-      <trd lng="it">letteratura</trd>
-      <trd lng="nl">literatuur</trd>
-      <trd lng="pt">literatura</trd>
-      <trd lng="ru">&c_l;&c_i;&c_t;&c_je;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
-    </drv>
+  <trd
+      lng="el">&lambda;&omikron;&gamma;&omikron;&tau;&epsilon;&chi;&ny;&jota_ton;&alfa;</trd>
+  <trd lng="en">literature</trd>
+  <trd lng="es">literatura</trd>
+  <trd lng="fr">litt&eacute;rature</trd>
+  <trd lng="he">&samekh;&pe;&resh;&vav;&tav;</trd>
+  <trd lng="hu">irodalom</trd>
+  <trd lng="it">letteratura</trd>
+  <trd lng="nl">literatuur</trd>
+  <trd lng="pt">literatura</trd>
+  <trd lng="ru">&c_l;&c_i;&c_t;&c_je;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>literat&uacute;ra</trd>,
+    <trd>slovesnos&tcaron;</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="litera.0isto">
       <kap><tld/>isto</kap>
@@ -67,20 +72,25 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="be">&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;&c_t;&c_a;&c_r;</trd>
-      <trdgrp lng="fr">
+  <trd lng="be">&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_m;&c_malmol;&c_zh; &c_n;&c_a; &c_p;&c_i;&c_s;&c_m;&c_a;</trd>
+  <trd lng="cs">liter&aacute;t</trd>
+  <trd lng="de">Literat</trd>
+  <trd lng="en">man of letters</trd>
+  <trdgrp lng="fr">
         <trd>homme de lettres</trd>,
         <trd>litt&eacute;rateur</trd>
       </trdgrp>
-      <trd lng="hu">irodalm&aacute;r</trd>
-      <trd lng="it">letterato</trd>
-      <trd lng="nl">letterkundige</trd>  
-      <trdgrp lng="pl">
+  <trd lng="hu">irodalm&aacute;r</trd>
+  <trd lng="it">letterato</trd>
+  <trd lng="nl">letterkundige</trd>
+  <trdgrp lng="pl">
         <trd>literat</trd>,
         <trd>pisarz</trd>
       </trdgrp>
-      <trd lng="ru">&c_l;&c_i;&c_t;&c_je;&c_r;&c_a;&c_t;&c_o;&c_r;</trd>
-    </drv>
+  <trd lng="ru">&c_l;&c_i;&c_t;&c_je;&c_r;&c_a;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">spisovate&lcaron;</trd>
+</drv>
 
     <drv mrk="litera.bela0o">
       <kap>bela <tld/>o <fnt><bib>VdE</bib>, <lok>artikolo
@@ -93,8 +103,7 @@
           bel<tld/>a<fnt>Z</fnt>.
         </ekz>
       </snc>
-      <trd lng="be">&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_k;&c_a;&c_ja;
-      &c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+      <trd lng="be">&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_k;&c_a;&c_ja; &c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
       <trdgrp lng="de">
         <trd>sch&ouml;ngeistige Literatur</trd>,
         <trd>Belletristik</trd>
@@ -139,7 +148,7 @@
           amatore faritaj bro&scirc;uroj.
         </rim>
       </snc>
-      <trd lng="de">graue Literatur</trd>
+      <trd lng="de">graue <ind>Literatur</ind></trd>
       <trd lng="fr">litt&eacute;rature grise</trd>
       <trd lng="it">letteratura grigia</trd>
       <trd lng="nl">grijze <ind>literatuur</ind></trd>
@@ -155,7 +164,7 @@
           scienco pri <tld/>o el la vidpuktoj estetika, historia,
           funkcia ktp:
           <ekz>
-            poste, jam forgesinte pri intimeco, Declerck meditas &dash;
+            poste, jam forgesinte pri intimeco, Declerck meditas &#8208;
             kio necesas por ke iu verko apartenu al beletro kaj kial
             necesas recenzado kaj <tld/>scienco
             <fnt>
@@ -175,16 +184,27 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="de">Literaturwissenschaft</trd>
-      <trd lng="it">storia della letteratura moderna</trd>
-      <trd lng="nl">literatuurwetenschap</trd>
-      <trd lng="pl">literaturoznawstwo</trd>
-      <trd lng="ru">&c_l;&c_i;&c_t;&c_je;&c_r;&c_a;&c_t;&c_u;&c_r;&c_o;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
-    </drv>
+  <trd lng="cs">liter&aacute;rn&iacute; v&ecaron;da</trd>
+  <trd lng="de">Literaturwissenschaft</trd>
+  <trd lng="it">storia della letteratura moderna</trd>
+  <trd lng="nl">literatuurwetenschap</trd>
+  <trd lng="pl">literaturoznawstwo</trd>
+  <trd lng="ru">&c_l;&c_i;&c_t;&c_je;&c_r;&c_a;&c_t;&c_u;&c_r;&c_o;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">liter&aacute;rna veda</trd>
+</drv>
 
   </art>
   <!--
   $Log: litera.xml,v $
+  Revision 1.30  2015/07/22 17:10:15  revo
+  Joop Eggen: +trd bg
+
+  Revision 1.29  2015/07/04 08:37:38  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.28  2015/06/29 16:33:19  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.27  2010/05/24 16:30:26  revo
   Antonio Codazzi: +trd it
 

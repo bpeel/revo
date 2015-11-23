@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dukat.xml,v 1.15 2009/07/01 17:21:37 revo Exp $">
+<art mrk="$Id: dukat.xml,v 1.17 2015/07/04 08:37:32 revo Exp $">
 <kap>
 	<ofc>1</ofc>
 	<rad>dukat</rad>/o
@@ -20,6 +20,7 @@
   <trd lng="be">&c_d;&c_u;&c_k;&c_a;&c_t;</trd>
   <trd lng="bg">&c_d;&c_u;&c_k;&c_a;&c_t;</trd>
   <trd lng="ca">ducat</trd>
+  <trd lng="cs">dukát</trd>
   <trdgrp lng="de">
     <trd>Dukat</trd>,
     <trd>Dukaten</trd>
@@ -32,10 +33,17 @@
   <trd lng="pl">dukat</trd>
   <trd lng="pt">ducado <klr tip="ind">(moeda)</klr></trd>
   <trd lng="ru">&c_d;&c_u;&c_k;&c_a;&c_t;</trd>
+  <trd lng="sk">dukát</trd>
 </drv>
 </art>
 <!--
 $Log: dukat.xml,v $
+Revision 1.17  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2009/07/01 17:21:37  revo
 Russ Williams: +trd en
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: adjunk.xml,v 1.16 2013/10/30 20:10:15 revo Exp $">
+<art mrk="$Id: adjunk.xml,v 1.18 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <rad>adjunkt</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -25,6 +25,10 @@
   <trdgrp lng="ca">
     <trd>adjunt</trd>,
     <trd>assistent</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>adjunkt</trd>,
+    <trd>pomocný úředník</trd>
   </trdgrp>
   <trd lng="en">adjunct</trd>
   <trd lng="es">asistente</trd>
@@ -50,11 +54,20 @@
     <trd>&c_a;&c_s;&c_s;&c_i;&c_s;&c_t;&c_je;&c_n;&c_t;</trd>,
     <trd>&c_a;&c_d;&c_malmol;&c_ju;&c_n;&c_k;&c_t;</trd>
   </trdgrp>
-  <trd lng="sk">pomocn&yacute; <ind>&uacute;radn&iacute;k</ind></trd>
+  <trdgrp lng="sk">
+    <trd>pomocn&yacute; <ind>&uacute;radn&iacute;k</ind></trd>,
+    <trd>pomocný úradník</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: adjunk.xml,v $
+Revision 1.18  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/10/30 20:10:15  revo
 Vito Redsky: +trd  pl ro
 

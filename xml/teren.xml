@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: teren.xml,v 1.18 2014/08/10 17:10:12 revo Exp $">
+<art mrk="$Id: teren.xml,v 1.20 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>teren</rad>/o
@@ -87,13 +87,28 @@
     </trdgrp>
   </snc>
   <trd lng="ca">terreny</trd>
+  <trdgrp lng="cs">
+    <trd>přízemí</trd>,
+    <trd>terén</trd>,
+    <trd>území</trd>
+  </trdgrp>
   <trd lng="hu">ter&uuml;let</trd>
   <trd lng="nl">terrein</trd>
   <trd lng="pl">teren</trd>
+  <trdgrp lng="sk">
+    <trd>oblasť</trd>,
+    <trd>terén</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: teren.xml,v $
+Revision 1.20  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2014/08/10 17:10:12  revo
 Carlos Garcia: +trd es -o
 

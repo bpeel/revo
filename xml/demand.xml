@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: demand.xml,v 1.35 2014/04/22 18:11:04 revo Exp $">
+<art mrk="$Id: demand.xml,v 1.37 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>demand</rad>/i
@@ -56,7 +56,13 @@
     <trd>&c_p;&c_i;&c_t;&c_a;&c_m;</trd>
   </trdgrp>
   <trd lng="ca">preguntar</trd>
-  <trd lng="cs">pt&aacute;t se</trd>
+  <trdgrp lng="cs">
+    <trd>otázat se</trd>,
+    <trd>pt&aacute;t se</trd>,
+    <trd>tázat se</trd>,
+    <trd>zeptat se</trd>,
+    <trd>činit dotaz</trd>
+  </trdgrp>
   <trd lng="de">fragen</trd>
   <trd lng="en">ask</trd>
   <trd lng="es">preguntar</trd>
@@ -87,7 +93,11 @@
     <trd>&c_s;&c_p;&c_r;&c_o;&c_s;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_p;&c_r;&c_a;&c_sh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">p&yacute;ta&tcaron; sa</trd>
+  <trdgrp lng="sk">
+    <trd>p&yacute;ta&tcaron; sa</trd>,
+    <trd>pýtať<klr>(sa)</klr></trd>,
+    <trd>spýtať sa</trd>
+  </trdgrp>
   <trd lng="sv">fr&aring;ga</trd>
   <trd lng="tr">sormak</trd>
   <trd lng="vo">s&auml;k&ouml;n</trd>
@@ -106,12 +116,14 @@
     </dif>
   </snc>
   <trd lng="ca">interrogar</trd>
+  <trd lng="cs">vyptávat se</trd>
   <trd lng="en">interrogate</trd>
-  <trd lng="es">interrogar</trd> 
+  <trd lng="es">interrogar</trd>
   <trd lng="fr">interroger</trd>
   <trdgrp lng="pl">
     <trd>wypyta&cacute;<klr> (si&eogonek;)</klr></trd>
   </trdgrp>
+  <trd lng="sk">vypytovať sa</trd>
 </drv>
 
 <drv mrk="demand.0o">
@@ -179,6 +191,11 @@
   </snc>
   <trd lng="be">&c_p;&c_y;&c_t;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="bg">&c_v;&c_malmol;&c_p;&c_r;&c_o;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>dotaz</trd>,
+    <trd>otázka</trd>,
+    <trd>problém</trd>
+  </trdgrp>
   <trd lng="de">Frage</trd>
   <trd lng="en">question</trd>
   <trdgrp lng="es">
@@ -217,6 +234,7 @@
     </dif>
   </snc>
   <trd lng="ca">q&uuml;estionari</trd>
+  <trd lng="cs">dotazník</trd>
   <trd lng="en">questionnaire</trd>
   <trd lng="fr">questionnaire</trd>
   <trdgrp lng="pl">
@@ -224,6 +242,7 @@
     <trd>ankieta</trd>
   </trdgrp>
   <trd lng="ru">&c_v;&c_o;&c_p;&c_r;&c_o;&c_s;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">dotazník</trd>
 </drv>
 
 <drv mrk="demand.0ilo">
@@ -250,6 +269,7 @@
     </refgrp>
   </snc>
   <trd lng="ca">formulari</trd>
+  <trd lng="cs">anketní lístek</trd>
   <trdgrp lng="fr">
     <trd>formulaire de demande</trd>,
     <trd>questionnaire<klr tip="amb"> (formulaire)</klr></trd>
@@ -265,6 +285,7 @@
     </trd>,
     <trd>&c_a;&c_n;&c_k;&c_je;&c_t;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">dotazník</trd>
 </drv>
 
 <drv mrk="demand.0osigno">
@@ -281,6 +302,7 @@
   </snc>
   <trd lng="be">&c_p;&c_y;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
   <trd lng="ca">signe d'<ind>interrogaci&oacute;</ind></trd>
+  <trd lng="cs">otazník</trd>
   <trd lng="de">Fragezeichen</trd>
   <trd lng="en">question mark</trd>
   <trd lng="es">signo de <ind>interrogaci&oacute;n</ind></trd>
@@ -297,6 +319,12 @@
 </art>
 <!--
 $Log: demand.xml,v $
+Revision 1.37  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.36  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.35  2014/04/22 18:11:04  revo
 Sergio Pokrovskij: pli da kunteksto en ekz
 

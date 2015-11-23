@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: libr.xml,v 1.64 2014/05/31 16:10:23 revo Exp $">
+<art mrk="$Id: libr.xml,v 1.68 2015/09/05 10:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>libr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -43,6 +43,7 @@
       ordinare grupo de &ccirc;apitroj.
     </dif>
   </snc>
+  <trd lng="lat">liber, bri</trd>
   <trd lng="be">&c_k;&c_n;&c_ib;&c_g;&c_a;</trd>
   <trd lng="bg">&c_k;&c_n;&c_i;&c_g;&c_a;</trd>
   <trd lng="ca">llibre</trd>
@@ -56,12 +57,12 @@
   <trd lng="id">buku</trd>
   <trd lng="it">libro</trd>
   <trd lng="ja">&#26412; [<ind>&#12411;&#12435;</ind>]</trd>
-  <trd lng="lat">liber, bri</trd>
   <trd lng="nl">boek</trd>
-  <trd lng="pt">livro</trd>
   <trd lng="pl">ksi&aogonek;&zdot;ka</trd>
+  <trd lng="pt">livro</trd>
   <trd lng="ro">carte</trd>
   <trd lng="ru">&c_k;&c_n;&c_i;&c_g;&c_a;</trd>
+  <trd lng="sk">kniha</trd>
   <trd lng="sv">bok</trd>
   <trd lng="tr">kitap</trd>
   <trd lng="vo">buk</trd>
@@ -116,8 +117,14 @@
     <trd lng="be">&c_b;&c_ib;&c_b;&c_l;&c_ib;&c_ja;&c_t;&c_e;&c_k;&c_a;</trd>
     <trd lng="ca">biblioteca</trd>
     <trd lng="en">library</trd>
+    <trd lng="es">biblioteca</trd>
     <trd lng="hu">k&ouml;nyvt&aacute;r</trd>
   </snc>
+  <trd lng="cs">knihovna <klr>(m&iacute;stnost)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>knihov&ncaron;a</trd>,
+    <trd>kni&zcaron;nica</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="libr.0eto">
@@ -155,6 +162,7 @@
     <trd lng="ca">llibret <klr tip="amb">&ograve;pera</klr></trd>
     <trd lng="en">libretto</trd>
     <trd lng="de">Libretto</trd>
+    <trd lng="es">libretto<klr tip="amb"> &oacute;pera</klr></trd>
     <trdgrp lng="hu">
       <trd>sz&ouml;vegk&ouml;nyv</trd>,
       <trd>librett&oacute;</trd>
@@ -180,10 +188,13 @@
     <trd lng="ru">&c_l;&c_i;&c_b;&c_r;&c_je;&c_t;&c_t;&c_o;</trd>
   </snc>
   <trd lng="ca">llibret</trd>
+  <trd lng="cs">libreto <klr>(opery)</klr></trd>
+  <trd lng="es">libretto <klr>(opera)</klr></trd>
   <trdgrp lng="fr">
     <trd>libretto</trd>,
     <trd>livret</trd>
   </trdgrp>
+  <trd lng="sk">libreto</trd>
 </drv>
 
 <drv mrk="libr.aboco0o">
@@ -201,6 +212,11 @@
     <trd>&c_a;&c_z;&c_b;&c_u;&c_k;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">beceroles</trd>
+  <trd lng="cs">slabik&aacute;&rcaron;</trd>
+  <trdgrp lng="es">
+    <trd>abecedario</trd>,
+    <trd>ABC<klr tip="ind"> (abecedario)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>ab&eacute;c&eacute;daire</trd>,
     <trd>ABC<klr tip="ind"> (ab&eacute;c&eacute;daire)</klr></trd>
@@ -214,6 +230,7 @@
     <trd>&c_a;&c_z;&c_b;&c_u;&c_k;&c_a;</trd>,
     <trd>&c_b;&c_u;&c_k;&c_v;&c_a;&c_r;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">&scaron;labik&aacute;r</trd>
 </drv>
 
 <drv mrk="libr.bit0o">
@@ -245,6 +262,9 @@
   <trd lng="be">&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_n;&c_a;&c_ja; <ind>&c_k;&c_n;&c_ib;&c_g;&c_a;</ind></trd>
   <trd lng="ca">llibre <klr>electr&ograve;nic</klr></trd>
   <trd lng="en">e-book</trd>
+  <trdgrp lng="es">
+    <trd>libro electr&oacute;nico</trd>
+  </trdgrp>
   <trd lng="fr">lire &eacute;lectronique</trd>
   <trdgrp lng="pl">
     <trd>ksi&aogonek;&zdot;ka elektroniczna</trd>,
@@ -276,6 +296,7 @@
   <trd lng="be">&c_b;&c_je;&c_l;&c_a;&c_ja; &c_k;&c_n;&c_ib;&c_g;&c_a;</trd>
   <trd lng="ca">Llibre <ind>Blanc</ind></trd>
   <trd lng="en">white paper</trd>
+  <trd lng="es">libro <ind>blanco</ind></trd>
   <trd lng="fr">livre blanc</trd>
   <trd lng="hu">feh&eacute;r k&ouml;nyv</trd>
   <trd lng="pl">bia&lstroke;a <ind>ksi&eogonek;ga</ind></trd>
@@ -330,7 +351,7 @@
     <trd>festschrift</trd>,
     <trd>commemorative publication</trd>
   </trdgrp>
-  <trd lng="es">homenaje</trd>
+  <trd lng="es">publicaci&oacute;n conmemorativa</trd>
   <trd lng="fr">m&eacute;langes<klr> (recueil d'essais)</klr></trd>
   <trd lng="hu">eml&eacute;kk&ouml;tet</trd>
   <trd lng="nl">feestbundel</trd>
@@ -354,7 +375,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">konverza&ccaron;n&iacute; p&rcaron;&iacute;ru&ccaron;ka</trd>
   <trd lng="fr">guide de conversation</trd>
+  <trd lng="sk">konverza&ccaron;n&aacute; pr&iacute;ru&ccaron;ka</trd>
 </drv>
 
 <drv mrk="libr.gast0o">
@@ -373,15 +396,18 @@
   </snc>
   <trd lng="be">&c_k;&c_n;&c_ib;&c_g;&c_a; &c_v;&c_o;&c_d;&c_g;&c_u;&c_k;&c_a;&c_w;</trd>
   <trd lng="ca">llibre de visites</trd>
+  <trd lng="cs">kniha host&uring;</trd>
   <trd lng="de">G&auml;stebuch</trd>
   <trd lng="el">&beta;&jota;&beta;&lambda;&jota_ton;&omikron; &epsilon;&pi;&jota;&sigma;&kappa;&epsilon;&pi;&tau;&omega_ton;&ny;</trd>
   <trd lng="en">guestbook</trd>
+  <trd lng="es">libro de visitas</trd>
   <trd lng="fr">livre d'or</trd>
   <trd lng="hu">vend&eacute;gk&ouml;nyv</trd>
   <trd lng="id"><ind>buku</ind> tamu</trd>
   <trd lng="pl">ksi&eogonek;ga go&sacute;ci</trd>
   <trd lng="pt">livro de visitantes</trd>
   <trd lng="ru">&c_k;&c_n;&c_i;&c_g;&c_a; &c_o;&c_t;&c_z;&c_y;&c_v;&c_o;&c_v;</trd>
+  <trd lng="sk">kniha host&iacute;</trd>
   <trd lng="sv">g&auml;stbok</trd>
 </drv>
 
@@ -400,6 +426,7 @@
     </dif>
   </snc>
   <trd lng="ca">guia <klr>(d'una ciutat, un museu)</klr></trd>
+  <trd lng="cs">pr&uring;vodce <klr>(kniha)</klr></trd>
   <trdgrp lng="de">
     <trd><klr tip="ind">Reise-</klr>F&uuml;hrer</trd>,
     <trd>Reisef&uuml;hrer</trd>
@@ -416,6 +443,7 @@
   <trd lng="pl">przewodnik</trd>
   <trd lng="pt">guia<klr tip="amb"> (livro)</klr></trd>
   <trd lng="ru">&c_p;&c_u;&c_t;&c_je;&c_v;&c_o;&c_d;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">sprievodca <klr>(kniha)</klr></trd>
 </drv>
 
 <drv mrk="libr.jar0o">
@@ -432,9 +460,17 @@
     <trd>anuari</trd>,
     <trd>almanac</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>annu&aacute;rium</trd>,
+    <trd>kalend&aacute;&rcaron;</trd>,
+    <trd>ro&ccaron;enka</trd>
+  </trdgrp>
   <trd lng="de">Jahrbuch</trd>
   <trd lng="en">yearbook</trd>
-  <trd lng="es">anuario</trd>
+  <trdgrp lng="es">
+    <trd>almanaque</trd>,
+    <trd>calendario</trd>
+  </trdgrp>
   <trd lng="fr">annuaire</trd>
   <trd lng="hu">&eacute;vk&ouml;nyv</trd>
   <trd lng="id"><ind>buku</ind> tahunan</trd>
@@ -442,7 +478,10 @@
   <trd lng="pl">rocznik</trd>
   <trd lng="ro">anuar</trd>
   <trd lng="ru">&c_je;&c_zh;&c_je;&c_g;&c_o;&c_d;&c_n;&c_i;&c_k;</trd>
-  <trd lng="sk">ro&ccaron;enka</trd>
+  <trdgrp lng="sk">
+    <trd>kalend&aacute;r</trd>,
+    <trd>ro&ccaron;enka</trd>
+  </trdgrp>
   <trd lng="sv">&aring;rsbok</trd>
 </drv>
 
@@ -457,6 +496,49 @@
     </dif>
   </snc>
   <trd lng="pl">dziennik <klr tip="amb">(szkolny)</klr></trd>
+  <trd lng="sk">triedna kniha</trd>
+</drv>
+
+<drv mrk="libr.lerno0o">
+  <kap><ofc>*</ofc>lerno<tld/>o,
+  <var><kap>instru<tld/>o</kap></var></kap>
+  <snc mrk="libr.lerno0o.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      <tld lit="L"/>o por lernantoj:
+      <ekz>
+        lerno<tld/>on oni devas ne tralegi, sed tralerni
+        <fnt><bib>F</bib>, <lok>&FE; 31</lok></fnt>;
+      </ekz>
+      <ekz>
+        li sentis sin stimulita mendi instru<tld/>on el 
+        Francio
+        <fnt>
+          <aut>Jean</aut>,
+          <vrk>Nigrulo, ru&gcirc;ulo, blankulo &ndash; mi ne vidas 
+          diferencon</vrk>,
+          <lok>en: Vivprotokoloj, 2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_r;&c_u;&c_ch;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="bg">&c_u;&c_ch;&c_je;&c_b;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="br">
+    <trd>levr-skol</trd>,
+    <trd>dornlevr</trd>
+  </trdgrp>
+  <trd lng="cs">u&ccaron;ebnice</trd>
+  <trd lng="de">Lehrbuch</trd>
+  <trdgrp lng="fr">
+    <trd>livre de classe</trd>,
+    <trd>manuel</trd>
+  </trdgrp>
+  <trd lng="hu">tank&ouml;nyv</trd>
+  <trd lng="id"><ind>buku</ind> pelajaran</trd>
+  <trd lng="nl">leerboek</trd>
+  <trd lng="ru">&c_u;&c_ch;&c_je;&c_b;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">u&ccaron;ebnica</trd>
 </drv>
 
 <drv mrk="libr.man0o">
@@ -480,8 +562,17 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>manu&aacute;l</trd>,
+    <trd>manu&aacute;ln&iacute;k</trd>,
+    <trd>p&rcaron;&iacute;ru&ccaron;ka</trd>
+  </trdgrp>
   <trd lng="en">manual</trd>
   <trd lng="fr">manuel<klr> (ouvrage)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>manu&aacute;l</trd>,
+    <trd>pr&iacute;ru&ccaron;ka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="libr.memor0o">
@@ -514,18 +605,27 @@
     <trd>&c_u;&c_s;&c_p;&c_a;&c_m;&c_ib;&c_n;&c_y;</trd>
   </trdgrp>
   <trd lng="ca">llibre <ind>de mem&ograve;ries</ind></trd>
+  <trdgrp lng="cs">
+    <trd>kniha popisuj&iacute;c&iacute; pam&aacute;tn&eacute; ud&aacute;losti</trd>,
+    <trd>pam&ecaron;tn&iacute; kniha</trd>
+  </trdgrp>
+  <trd lng="de">Tagebuch</trd>
   <trd lng="en">memoir</trd>
+  <trd lng="es">libro <ind>de memorias</ind></trd>
   <trd lng="fr">m&eacute;moires</trd>
   <trdgrp lng="hu">
     <trd>eml&eacute;kirat</trd>,
     <trd>memo&aacute;r</trd>
   </trdgrp>
   <trd lng="nl">memoires</trd>
-  <trd lng="de">Tagebuch</trd>
   <trd lng="pl">pami&eogonek;tnik <klr>(ksi&aogonek;&zdot;ka)</klr></trd>
   <trdgrp lng="ru">
     <trd>&c_m;&c_je;&c_m;&c_u;&c_a;&c_r;&c_y;</trd>,
     <trd>&c_v;&c_o;&c_s;&c_p;&c_o;&c_m;&c_i;&c_n;&c_a;&c_n;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pam&auml;tn&aacute; kniha</trd>,
+    <trd>pam&auml;tn&iacute;k</trd>
   </trdgrp>
 </drv>
 
@@ -543,11 +643,20 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="ca">quadern <ind>d'apunts</ind></trd>
+  <trdgrp lng="cs">
+    <trd>notes</trd>,
+    <trd>notov&yacute; se&scaron;it</trd>,
+    <trd>not&yacute;sek</trd>,
+    <trd>pam&aacute;tn&iacute;k</trd>,
+    <trd>pozn&aacute;mkov&yacute;</trd>,
+    <trd>z&aacute;pisn&iacute;k</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Notizbuch</trd>
   </trdgrp>
-  <trd lng="ca">quadern <ind>d'apunts</ind></trd>
   <trd lng="en">notebook</trd>
+  <trd lng="es">cuaderno de apuntes</trd>
   <trdgrp lng="fr">
     <trd>agenda</trd>,
     <trd>calepin</trd>
@@ -564,6 +673,14 @@
   <trdgrp lng="ru">
     <trd>&c_b;&c_l;&c_o;&c_k;&c_n;&c_o;&c_t;</trd>,
     <trd>&c_z;&c_a;&c_p;&c_i;&c_s;&c_n;&c_a;&c_ja; &c_k;&c_n;&c_i;&c_zh;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>notes</trd>,
+    <trd>notov&yacute; zo&scaron;it</trd>,
+    <trd>pam&auml;tn&iacute;k</trd>,
+    <trd>pozn&aacute;mkov&yacute;</trd>,
+    <trd>z&aacute;pisn&iacute;k</trd>,
+    <trd>z&aacute;znamn&iacute;k</trd>
   </trdgrp>
 </drv>
 
@@ -590,6 +707,7 @@
     </dif>
   </snc>
   <trd lng="en">paperback<klr tip="amb"> (book)</klr></trd>
+  <trd lng="es">libro de bolsillo</trd>
   <trd lng="fr">livre de poche</trd>
   <trd lng="pl">wydanie kieszonkowe <klr
   tip="amb">ksi&aogonek;&zdot;ki</klr></trd>
@@ -610,6 +728,10 @@
   <trdgrp lng="en">
     <trd>blog</trd>,
     <trd>weblog</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>blog</trd>,
+    <trd>bit&aacute;cora en internet</trd>
   </trdgrp>
   <trd lng="fr">blog</trd>
   <trdgrp lng="hu">
@@ -648,6 +770,7 @@
     <trd>llibre <ind>sonor</ind></trd>,
     <trd>llibre <ind>parlat</ind></trd>
   </trdgrp>
+  <trd lng="es">audio-libro</trd>
   <trd lng="fr">livre sonore</trd>
   <trdgrp lng="pl">
     <trd>ksi&aogonek;&zdot;ka nagrana</trd>,
@@ -682,16 +805,26 @@
     <trd>diari</trd>,
     <trd>quadern <ind>de bit&agrave;cola</ind></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>den&iacute;k</trd>,
+    <trd>di&aacute;&rcaron;</trd>,
+    <trd>z&aacute;znamn&iacute;k</trd>
+  </trdgrp>
   <trd lng="de">Tagebuch</trd>
   <trdgrp lng="en">
     <trd>diary</trd>,
     <trd>journal</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>diario</trd>,
+    <trd>cuaderno <ind>de bit&aacute;cora</ind></trd>
   </trdgrp>
   <trd lng="fr">journal<klr tip="amb"> (intime, etc.)</klr></trd>
   <trd lng="hu">napl&oacute;</trd>
   <trd lng="pl">pami&eogonek;tnik</trd>
   <trd lng="ro">jurnal</trd>
   <trd lng="ru">&c_d;&c_n;&c_je;&c_v;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">&uacute;&ccaron;tovn&yacute; denn&iacute;k</trd>
 </drv>
 
 <drv mrk="libr.telefon0o">
@@ -713,18 +846,21 @@
     </dif>
   </snc>
   <trd lng="ca">guia <ind>telef&ograve;nica</ind></trd>
+  <trd lng="cs">telefonn&iacute; seznam</trd>
   <trd lng="de">Telefonbuch</trd>
   <trdgrp lng="en">
     <trd>phone book</trd>,
     <trd>telephone book</trd>,
     <trd>telephone directory</trd>
   </trdgrp>
+  <trd lng="es">gu&iacute;a <ind>telef&oacute;nica</ind></trd>
   <trd lng="fr">annuaire t&eacute;l&eacute;phonique</trd>
   <trd lng="hu">telefonk&ouml;nyv</trd>
   <trd lng="id"><ind>buku</ind> telepon</trd>
   <trd lng="pl">ksi&aogonek;&zdot;ka telefoniczna</trd>
   <trd lng="ro">carte telefonic&abreve;</trd>
   <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_a;&c_ja; &c_k;&c_n;&c_i;&c_g;&c_a;</trd>
+  <trd lng="sk">telef&oacute;nny zoznam</trd>
 </drv>
 
 <drv mrk="libr.vojagx0o">
@@ -747,6 +883,7 @@
     </dif>
   </snc>
   <trd lng="ca">guia <ind>de viatges</ind></trd>
+  <trd lng="es">gu&iacute;a <ind>de viaje</ind></trd>
   <trdgrp lng="fr">
     <trd>livre de bord</trd>,
     <trd>livre de voyage</trd>
@@ -767,6 +904,12 @@
     <trd>&c_b;&c_u;&c_g;&c_a;&c_l;&c_mol;&c_t;&c_a;&c_r;&c_s;&c_k;&c_ib; &c_w;&c_l;&c_ib;&c_k;</trd>
   </trdgrp>
   <trd lng="ca">registre <ind>mercantil</ind></trd>
+  <trdgrp lng="cs">
+    <trd>kontace</trd>,
+    <trd>veden&iacute; &uacute;&ccaron;tu</trd>,
+    <trd>&uacute;&ccaron;etnictv&iacute;</trd>,
+    <trd>&uacute;&ccaron;tov&aacute;n&iacute;</trd>
+  </trdgrp>
   <trd lng="de">Buchhaltung</trd>
   <trd lng="es">contabilidad</trd>
   <trd lng="fr">comptabilit&eacute;</trd>
@@ -778,6 +921,10 @@
   </trdgrp>
   <trd lng="ru">&c_b;&c_u;&c_h;&c_g;&c_a;&c_l;&c_t;&c_je;&c_r;&c_i;&c_ja;<klr
       tip="amb"> (&c_u;&c_ch;&c_jo;&c_t;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>vedenie &uacute;&ccaron;tu</trd>,
+    <trd>&uacute;&ccaron;tovanie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="libr.0otenejo">
@@ -791,12 +938,14 @@
         de laborforto, la CO-<tld/>otenejo ricevu pli da
         laborforto
         <fnt>
-          <aut>Komitatano Z</aut>:
-          <vrk>TEJO eliru el sia ka&scirc;ejo</vrk>.
-          <bib>LOdE</bib><lok> 2003. N-ro 5 (103)</lok>
+          <aut>Komitatano Z</aut>,
+          <vrk>TEJO eliru el sia ka&scirc;ejo</vrk>,
+          <bib>LOdE</bib>,
+          <lok> 2003:5 (103)</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="es">almac&eacute;n de libros de contabilidad</trd>
     <trd lng="hu">k&ouml;nyvel&eacute;s<klr tip="amb"> (oszt&aacute;ly)</klr></trd>
     <trd lng="pl">ksi&eogonek;gowo&sacute;&cacute;<klr> (dzia&lstroke; firmy)</klr></trd>
     <trd lng="ru">&c_b;&c_u;&c_h;&c_g;&c_a;&c_l;&c_t;&c_je;&c_r;&c_i;&c_ja;<klr tip="amb">
@@ -839,6 +988,11 @@
     <trd lng="ru">&c_k;&c_n;&c_i;&c_g;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_l;&c_i;&c_shch;&c_je;</trd>
     <trd lng="tr">kitapl&inodot;k</trd>
   </snc>
+  <trd lng="cs">&uacute;&ccaron;t&aacute;rna</trd>
+  <trdgrp lng="sk">
+    <trd>knihov&ncaron;a</trd>,
+    <trd>kni&zcaron;nica</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="libr.0otenisto">
@@ -858,6 +1012,7 @@
   </snc>
   <trd lng="be">&c_b;&c_u;&c_g;&c_a;&c_l;&c_mol;&c_t;&c_a;&c_r;</trd>
   <trd lng="ca">comptable</trd>
+  <trd lng="cs">&uacute;&ccaron;etn&iacute;</trd>
   <trd lng="de">Buchhalter</trd>
   <trd lng="es">contable</trd>
   <trd lng="fr">comptable</trd>
@@ -868,6 +1023,7 @@
     <trd>buchalter</trd>
   </trdgrp>
   <trd lng="ru">&c_b;&c_u;&c_h;&c_g;&c_a;&c_l;&c_t;&c_je;&c_r;</trd>
+  <trd lng="sk">&uacute;&ccaron;tovn&iacute;k</trd>
 </drv>
 
 <drv mrk="libr.0ovendejo">
@@ -884,6 +1040,7 @@
   </snc>
   <trd lng="be">&c_k;&c_n;&c_ib;&c_g;&c_a;&c_r;&c_n;&c_ja;</trd>
   <trd lng="ca">llibreria</trd>
+  <trd lng="cs">knihkupectv&iacute;</trd>
   <trd lng="de">Buchhandlung</trd>
   <trd lng="el">&beta;&jota;&beta;&lambda;&jota;&omikron;&pi;&omega;&lambda;&epsilon;&jota_ton;&omikron;</trd>
   <trd lng="en">bookstore</trd>
@@ -897,11 +1054,24 @@
     <trd>&c_k;&c_n;&c_i;&c_zh;&c_n;&c_a;&c_ja; &c_l;&c_a;&c_v;&c_k;&c_a;</trd>,
     <trd>&c_k;&c_n;&c_i;&c_zh;&c_n;&c_y;&c_j; &c_m;&c_a;&c_g;&c_a;&c_z;&c_i;&c_n;</trd>
   </trdgrp>
+  <trd lng="sk">kn&iacute;hkupectvo</trd>
   <trd lng="tr">kitabevi</trd>
 </drv>
 </art>
 <!--
 $Log: libr.xml,v $
+Revision 1.68  2015/09/05 10:10:17  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.67  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.66  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.65  2015/01/10 19:10:53  revo
+Jeromo Vasxe: + lerno/instru~o
+
 Revision 1.64  2014/05/31 16:10:23  revo
 Eko Nur Syah Hidayat: +id
 
@@ -912,17 +1082,5 @@ Revision 1.62  2014/02/14 21:10:13  revo
 Jeromo Vasxe: + man~o
 
 Revision 1.61  2014/01/02 21:10:25  revo
-Jeromo Vasxe: + depon~eto
-
-Revision 1.60  2013/02/05 16:10:15  revo
-Dmitri Gabinski: redakto: +trd be
-
-Revision 1.59  2013/01/01 14:10:35  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.58  2012/08/22 06:10:09  revo
-Sebastian Cyprych: +klas~o +trd pl
-
-Revision 1.57  2011/11/22 08:10:12  revo
 -->
 </vortaro>

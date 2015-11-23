@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konsil.xml,v 1.22 2014/09/16 08:10:14 revo Exp $">
+<art mrk="$Id: konsil.xml,v 1.24 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konsil</rad>/i <fnt><bib>PV</bib></fnt>
@@ -65,6 +65,8 @@
     <trd>persuadir</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_o;&c_v;&c_je;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">radiť</trd>
+  <trd lng="cs">radit, poradit</trd>
 </drv>
 
 <drv mrk="konsil.0o">
@@ -146,8 +148,10 @@
       <trd>raad<klr tip="ind"> (ontr.)</klr></trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">rada <klr>(udělovaná)</klr></trd>
   <trd lng="fr">conseil</trd>
   <trd lng="ru">&c_s;&c_o;&c_v;&c_je;&c_t;</trd>
+  <trd lng="sk">rada</trd>
 </drv>
 
 <drv mrk="konsil.0anaro">
@@ -156,10 +160,15 @@
   <snc mrk="konsil.0anaro.KOMUNE">
     <ref tip="dif" cel="konsil.0istaro"><tld/>istaro</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>konsilium</trd>,
+    <trd>rada <klr>(sbor)</klr></trd>
+  </trdgrp>
   <trd lng="fr">conseil<klr> (groupe de conseillers)</klr></trd>
   <trd lng="nl">raad<klr tip="ind"> (raadgevend lichaam;
   ontr.)</klr></trd>
   <trd lng="ru">&c_s;&c_o;&c_v;&c_je;&c_t;</trd>
+  <trd lng="sk">poradný zbor</trd>
 </drv>
 
 <drv mrk="konsil.0anto">
@@ -169,10 +178,16 @@
       Tiu, kiu donas konsilojn.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>konzultant</trd>,
+    <trd>poradce</trd>,
+    <trd>rádce</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Berater</trd>,
     <trd>Ratgeber</trd>
   </trdgrp>
+  <trd lng="es">consejero</trd>
   <trd lng="fr">conseiller</trd>
   <trdgrp lng="nl">
     <trd>raadgever</trd>,
@@ -182,7 +197,10 @@
   <trd>&c_s;&c_o;&c_v;&c_je;&c_t;&c_n;&c_i;&c_k;</trd>,
   <trd>&c_s;&c_o;&c_v;&c_je;&c_t;&c_ch;&c_i;&c_k;</trd>
   </trdgrp>
-  <trd lng="es">consejero</trd>
+  <trdgrp lng="sk">
+    <trd>poradca</trd>,
+    <trd>radca</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konsil.0antaro">
@@ -190,11 +208,16 @@
   <snc mrk="konsil.0antaro.KOMUNE">
     <ref tip="dif" cel="konsil.0istaro"><tld/>istaro</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>konsilium</trd>,
+    <trd>rada <klr>(sbor)</klr></trd>
+  </trdgrp>
   <trd lng="fr">conseil<klr> (groupe de conseillers)</klr></trd>
   <trd lng="nl">raad<klr tip="ind"> (raadgevend
   lichaam)</klr></trd>
   <trd lng="pl">rada <klr>(organ doradczy)</klr></trd>
   <trd lng="ru">&c_s;&c_o;&c_v;&c_je;&c_t;</trd>
+  <trd lng="sk">poradný zbor</trd>
 </drv>
 
 <drv mrk="konsil.0isto">
@@ -222,7 +245,16 @@
     <trd>&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_n;&c_t;</trd>
   </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>konzultant</trd>,
+    <trd>poradce</trd>,
+    <trd>rádce</trd>
+  </trdgrp>
   <trd lng="fr">conseiller</trd>
+  <trdgrp lng="sk">
+    <trd>poradca</trd>,
+    <trd>radca</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konsil.0istaro">
@@ -317,11 +349,13 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">bezradný</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;contenanc&eacute;</trd>,
     <trd>&eacute;perdu</trd>
   </trdgrp>
   <trd lng="pl">bezradny</trd>
+  <trd lng="sk">bezradný</trd>
 </drv>
 
 <drv mrk="konsil.sen0eco">
@@ -348,10 +382,17 @@
     <trd>trouble</trd>
   </trdgrp>
   <trd lng="pl">bezradno&sacute;&cacute;</trd>
+  <trd lng="sk">bezradnosť</trd>
 </drv>
 </art>
 <!--
 $Log: konsil.xml,v $
+Revision 1.24  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2014/09/16 08:10:14  revo
 Sebastian Cyprych: +trd pl
 

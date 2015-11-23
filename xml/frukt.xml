@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frukt.xml,v 1.35 2011/12/29 07:10:08 revo Exp $">
+<art mrk="$Id: frukt.xml,v 1.37 2015/07/04 08:37:34 revo Exp $">
 <kap><ofc>*</ofc>
   <rad>frukt</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -112,6 +112,11 @@
   <trd lng="nl">vrucht</trd>
   <trd lng="pl">owoc</trd>
   <trd lng="ru">&c_p;&c_l;&c_o;&c_d;</trd>
+  <trdgrp lng="sk">
+    <trd>ovocie</trd>,
+    <trd>plod</trd>,
+    <trd>výsledok</trd>
+  </trdgrp>
   <trd lng="tp">kili</trd>
   <trd lng="tr">meyve</trd>
 </drv>
@@ -143,8 +148,13 @@
     <trd>&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; 
     <ind>&c_p;&c_l;&c_jo;&c_n;</ind></trd>
   </trdgrp>
-  <trd lng="fr">fructifier</trd>
+  <trdgrp lng="cs">
+    <trd>nést ovoce</trd>,
+    <trd>plodit</trd>,
+    <trd>semenit</trd>
+  </trdgrp>
   <trd lng="es">dar <ind>fruto</ind></trd>
+  <trd lng="fr">fructifier</trd>
   <trdgrp lng="hu">
     <trd>gy&uuml;m&ouml;lcs&ouml;zik</trd>,
     <trd>gy&uuml;m&ouml;lcs&ouml;t ad</trd>,
@@ -163,6 +173,10 @@
     &c_p;&c_l;&c_o;&c_d;&c_y;</trd>,
     <trd>&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol; 
     &c_r;&c_je;&c_z;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>niesť ovocie</trd>,
+    <trd>plodiť</trd>
   </trdgrp>
 </drv>
 
@@ -189,6 +203,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>oplodnit</trd>,
+    <trd>zúrodnit</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>rendre <ind>f&eacute;cond</ind></trd>,
     <trd>rendre <ind>fertile</ind></trd>,
@@ -199,6 +217,10 @@
     <trd>megterm&eacute;keny&iacute;t</trd>
   </trdgrp>
   <trd lng="nl">vruchtbaar maken</trd>
+  <trdgrp lng="sk">
+    <trd>oplodniť</trd>,
+    <trd>zúrodniť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frukt.0odona0oporta">
@@ -214,6 +236,10 @@
     <trd>&c_p;&c_l;&c_a;&c_d;&c_a;&c_r;&c_o;&c_d;&c_n;&c_y;</trd>,
     <trd>&c_p;&c_l;&c_a;&c_d;&c_a;&c_v;&c_ib;&c_t;&c_y;</trd>,
     <trd>&c_p;&c_l;&c_jo;&c_n;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bohatě plodící</trd>,
+    <trd>plodný</trd>
   </trdgrp>
   <trd lng="de">fruchtbar</trd>
   <trdgrp lng="fr">
@@ -235,6 +261,7 @@
     <trd>&c_p;&c_l;&c_o;&c_d;&c_o;&c_t;&c_v;&c_o;&c_r;&c_n;&c_y;&c_j;
     </trd>
   </trdgrp>
+  <trd lng="sk">plodonosný</trd>
 </drv>
 
 <drv mrk="frukt.sen0a">
@@ -253,15 +280,23 @@
     <trd>&c_b;&c_ja;&c_s;&c_p;&c_l;&c_o;&c_d;&c_n;&c_y;</trd>,
     <trd>&c_b;&c_ja;&c_s;&c_p;&c_l;&c_jo;&c_n;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jalový</trd>,
+    <trd>neplodný</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>st&eacute;rile</trd>,
     <trd>infertile</trd>
   </trdgrp>
-  <trd lng="hu">term&eacute;ketlen</trd>  
+  <trd lng="hu">term&eacute;ketlen</trd>
   <trd lng="nl">steriel</trd>
   <trd lng="pl">bezowocny</trd>
   <trd lng="ru">
   &c_b;&c_je;&c_s;&c_p;&c_l;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>jalový</trd>,
+    <trd>neplodný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frukt.fendo0o">
@@ -373,11 +408,13 @@
     <ref tip="sin" cel="karpel.0o">karpelo</ref>
   </snc>
   <trd lng="be">&c_p;&c_l;&c_a;&c_d;&c_a;&c_l;&c_ib;&c_s;&c_mol;&c_c;&c_ib;&c_k;</trd>
+  <trd lng="cs">plodolist</trd>
   <trd lng="de">Fruchtblatt</trd>
   <trd lng="fr">carpelle</trd>
-  <trd lng="hu">term&odblac;lev&eacute;l</trd>  
+  <trd lng="hu">term&odblac;lev&eacute;l</trd>
   <trd lng="nl">vruchtblad</trd>
   <trd lng="ru">&c_p;&c_l;&c_o;&c_d;&c_o;&c_l;&c_i;&c_s;&c_t;&c_i;&c_k;</trd>
+  <trd lng="sk">plodolist</trd>
 </drv>
 
 <drv mrk="frukt.0uzo">
@@ -391,14 +428,22 @@
       bienon a&ubreve; la kapitalon.
     </dif>
   </snc>
+  <trd lng="cs">požívací právo</trd>
   <trd lng="fr">usufruit</trd>
-  <trd lng="hu">haszon&eacute;lvezet</trd>  
+  <trd lng="hu">haszon&eacute;lvezet</trd>
   <trd lng="nl">vruchtgebruik</trd>
   <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_o; &c_p;&c_o;&c_l;&c_mol;&c_z;&c_o;&c_v;&c_a;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="sk">užívacie právo</trd>
 </drv>
 </art>
 <!--
 $Log: frukt.xml,v $
+Revision 1.37  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.36  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.35  2011/12/29 07:10:08  revo
 Jozefo Horvath: kor. tr hu
 

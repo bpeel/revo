@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sistem.xml,v 1.30 2014/06/10 14:10:28 revo Exp $">
+  <art mrk="$Id: sistem.xml,v 1.34 2015/07/04 08:37:43 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>sistem</rad>/o <fnt><bib>PV</bib></fnt>
@@ -31,11 +31,13 @@
         <subsnc mrk="sistem.0o.FIZL">
           <uzo tip="fak">FIZL</uzo>
           <dif>
-            Organaro a&ubreve; tuto de korpaj elementoj kun komunaj funkcioj.
+            <ref tip="vid" cel="organ.0aro">Organaro</ref> a&ubreve; tuto de
+            korpaj elementoj kun komunaj funkcioj.
           </dif>
         </subsnc>
         <refgrp tip="vid">
-          <ref cel="strukt.0o">strukturo</ref>
+          <ref cel="strukt.0o">strukturo</ref>,
+          <ref cel="organ.0aro">organaro </ref>
         </refgrp>
       </snc>
       <snc>
@@ -63,24 +65,33 @@
         <trd lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;
           &c_u;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_j;</trd>
       </snc>
-      <trd lng="be">&c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_a;</trd>
-      <trd lng="bg">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
-      <trd lng="de">System</trd>
-      <trd lng="en">system</trd>
-      <trd lng="es">sistema</trd>
-      <trd lng="fr">syst&egrave;me</trd>
-      <trdgrp lng="hu">
+  <trd lng="be">&c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_a;</trd>
+  <trd lng="bg">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>soustava</trd>,
+    <trd>systém</trd>
+  </trdgrp>
+  <trd lng="de">System</trd>
+  <trd lng="en">system</trd>
+  <trd lng="es">sistema</trd>
+  <trd lng="fr">syst&egrave;me</trd>
+  <trdgrp lng="hu">
         <trd>rendszer</trd>,
         <trd>sziszt&eacute;ma</trd>
       </trdgrp>
-      <trd lng="id">sistem</trd>
-      <trdgrp lng="nl">
+  <trd lng="id">sistem</trd>
+  <trdgrp lng="nl">
         <trd>systeem</trd>,
         <trd>stelsel</trd>
       </trdgrp>
-      <trd lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
-      <trd lng="sv">system</trd>
-    </drv>
+  <trd lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>systém</trd>,
+    <trd>sústava</trd>,
+    <trd>zriadenie</trd>
+  </trdgrp>
+  <trd lng="sv">system</trd>
+</drv>
 
     <drv mrk="sistem.sub0o">
       <kap>sub<tld/>o</kap>
@@ -358,17 +369,57 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="fr">syst&egrave;me mon&eacute;taire</trd>
-      <trd lng="hu">monet&aacute;ris <ind>rendszer</ind></trd>
-      <trd lng="id"><ind>sistem</ind> keuangan</trd>
-      <trd lng="nl">muntstelsel</trd>
-      <trd lng="ru">&c_v;&c_a;&c_l;&c_ju;&c_t;&c_n;&c_a;&c_ja; &c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>měna</trd>,
+    <trd>měnový systém</trd>,
+    <trd>peněžní soustava</trd>
+  </trdgrp>
+  <trd lng="fr">syst&egrave;me mon&eacute;taire</trd>
+  <trd lng="hu">monet&aacute;ris <ind>rendszer</ind></trd>
+  <trd lng="id"><ind>sistem</ind> keuangan</trd>
+  <trd lng="nl">muntstelsel</trd>
+  <trd lng="ru">&c_v;&c_a;&c_l;&c_ju;&c_t;&c_n;&c_a;&c_ja; &c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
+  <trd lng="sk">mena</trd>
+</drv>
+    
+    <drv mrk="sistem.muskoloskeleta0o">
+      <kap>muskolo-skeleta <tld/>o</kap>
+      <snc mrk="sistem.muskoloskeleta0o.FIZL">
+      <uzo tip="fak">FIZL</uzo>
+        <dif>
+          Tuto de la organoj kaj histoj, kiuj havigas al animaloj la
+          kapablon sin movi fizike. &Gcirc;i konsistas el muskolaro, ostaro
+          kaj la koneksaj elementoj (kartilagoj, ligamentoj kaj
+          tendenoj):
+          <ekz>
+            malsanoj de la muskolo-skeleta sistemo
+            <fnt>
+              <aut>Vikipedio</aut>,
+              <vrk><url
+              ref="http://eo.wikipedia.org/wiki/Klasifiko_Internacia_de_Malsanoj">Klasifiko
+              internacia de malsanoj</url></vrk>
+            </fnt>.
+          </ekz>
+        </dif>
+      </snc>
+      <trd lng="en">musculoskeletal system</trd>
+      <trdgrp lng="es">
+        <trd>aparato locomotor</trd>,
+        <trd>sistema musculoesquel&eacute;tico</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>appareil locomoteur</trd>,
+        <trd>syst&egrave;me musculo-squelettique</trd>
+      </trdgrp>
+      <trdgrp lng="pt">
+        <trd>sistema locomotor</trd>,
+        <trd>sistema esquel&eacute;tico</trd>
+      </trdgrp>
     </drv>
 
     <drv mrk="sistem.nervo0o">
-      <kap>nervo<tld/>o,
-        <var><kap>nerv<tld/>o</kap></var>,
-        <var><kap>nerva <tld/>o</kap></var></kap>
+      <kap>nervo<tld/>o, <var><kap>nerv<tld/>o</kap></var>,
+      <var><kap>nerva <tld/>o</kap></var></kap>
       <snc mrk="sistem.nervo0o.FIZL">
         <uzo tip="fak">FIZL</uzo>
         <dif>
@@ -411,12 +462,15 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="fr">syst&egrave;me nerveux</trd>
-      <trd lng="es">sistema nervoso</trd>
-      <trd lng="id"><ind>sistem</ind> saraf</trd>
-      <trd lng="nl">zenuwstelsel</trd>
-      <trd lng="ru">&c_n;&c_je;&c_r;&c_v;&c_n;&c_a;&c_ja; &c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
-    </drv>
+  <trd lng="cs">nervstvo</trd>
+  <trd lng="en">nervous system</trd>
+  <trd lng="es">sistema nervoso</trd>
+  <trd lng="fr">syst&egrave;me nerveux</trd>
+  <trd lng="id"><ind>sistem</ind> saraf</trd>
+  <trd lng="nl">zenuwstelsel</trd>
+  <trd lng="ru">&c_n;&c_je;&c_r;&c_v;&c_n;&c_a;&c_ja; &c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
+  <trd lng="sk">nervstvo</trd>
+</drv>
 
     <drv mrk="sistem.politika0o">
       <kap>politika <tld/>o</kap>
@@ -563,6 +617,18 @@
   </art>
   <!--
   $Log: sistem.xml,v $
+  Revision 1.34  2015/07/04 08:37:43  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.33  2015/06/29 16:33:23  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.32  2015/02/11 14:10:15  revo
+  Alain Gerard: + muskolo-skeleta ~o
+
+  Revision 1.31  2014/12/30 14:10:35  revo
+  Alain Gerard: +ref
+
   Revision 1.30  2014/06/10 14:10:28  revo
   Eko Nur Syah Hidayat: edit trd id
 

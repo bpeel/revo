@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: leuxke.xml,v 1.15 2014/04/14 11:10:15 revo Exp $">
+<art mrk="$Id: leuxke.xml,v 1.16 2014/11/18 20:10:46 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>le&ubreve;kemi</rad>/o
 </kap>
@@ -36,6 +36,10 @@
     <trd>leuk&eacute;mia</trd>,
     <trd>feh&eacute;rv&eacute;r&udblac;s&eacute;g</trd>
   </trdgrp>  
+  <trdgrp lng="id">
+    <trd><ind>kanker</ind> darah</trd>,
+    <trd>leukemia</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>bloedkanker</trd>,
     <trd>leukemie</trd>,
@@ -50,6 +54,9 @@
 </art>
 <!--
 $Log: leuxke.xml,v $
+Revision 1.16  2014/11/18 20:10:46  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.15  2014/04/14 11:10:15  revo
 Damien Brucker: +trd fr
 
@@ -69,8 +76,5 @@ Revision 1.10  2003/05/06 16:33:17  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9  2002/09/30 16:31:46  revo
-Ulrich Fellmann: + 3 trd de
-
-Revision 1.8  2002/08/29 17:33:05  revo
 -->
 </vortaro>

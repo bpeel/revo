@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: uzin.xml,v 1.8 2011/12/06 17:10:19 revo Exp $">
+<art mrk="$Id: uzin.xml,v 1.10 2015/07/04 08:37:45 revo Exp $">
 <kap>
    <rad>uzin</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -21,28 +21,39 @@
        </ekz>
      </dif>
    </snc>
-   <trd lng="ca">foneria</trd>
-   <trdgrp lng="fi">
+  <trd lng="ca">foneria</trd>
+  <trdgrp lng="cs">
+    <trd>továrna</trd>,
+    <trd>závod</trd>
+  </trdgrp>
+  <trdgrp lng="fi">
      <trd>tehdas <klr tip="amb"> (suuri 
 metalliteollisuuslaitos)</klr></trd>,
    </trdgrp>
-   <trdgrp lng="fr">
+  <trdgrp lng="fr">
      <trd>fonderie</trd>,
      <trd>usine m&eacute;tallurgique</trd>
    </trdgrp>
-   <trd lng="it">fonderia</trd>
-   <trdgrp lng="no">
+  <trd lng="it">fonderia</trd>
+  <trdgrp lng="no">
      <trd>jernverk</trd>,
      <trd>fabrikkanlegg</trd>
    </trdgrp>
-   <trdgrp lng="pt">
+  <trdgrp lng="pt">
     <trd>usina</trd>
    </trdgrp>
-   <trd lng="ru">&c_z;&c_a;&c_v;&c_o;&c_d;</trd>
+  <trd lng="ru">&c_z;&c_a;&c_v;&c_o;&c_d;</trd>
+  <trd lng="sk">závod</trd>
 </drv>
 </art>
 <!--
 $Log: uzin.xml,v $
+Revision 1.10  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2011/12/06 17:10:19  revo
 Marc Rausell: kataluna traduko
 

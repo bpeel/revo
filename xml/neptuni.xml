@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: neptuni.xml,v 1.17 2014/06/07 03:10:29 revo Exp $">
+<art mrk="$Id: neptuni.xml,v 1.19 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <rad>neptuni</rad>/o
 </kap>
@@ -25,9 +25,10 @@
   <trd lng="bg">&c_n;&c_je;&c_p;&c_t;&c_u;&c_n;&c_i;&c_j;</trd>
   <trd lng="br">neptuniom</trd>
   <trd lng="ca">neptuni</trd>
+  <trd lng="cs">neptunium</trd>
   <trd lng="de">Neptunium</trd>
   <trd lng="en">neptunium</trd>
-  <trd lng="es">neptunio</trd> 
+  <trd lng="es">neptunio</trd>
   <trd lng="fr">neptunium</trd>
   <trd lng="hu">nept&uacute;nium</trd>
   <trd lng="id">neptunium</trd>
@@ -37,11 +38,18 @@
   <trd lng="pl">neptun</trd>
   <trd lng="pt">net&uacute;nio</trd>
   <trd lng="ru">&c_n;&c_je;&c_p;&c_t;&c_u;&c_n;&c_i;&c_j;</trd>
+  <trd lng="sk">neptúnium</trd>
   <trd lng="sv">neptunium</trd>
 </drv>
 </art>
 <!--
 $Log: neptuni.xml,v $
+Revision 1.19  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2014/06/07 03:10:29  revo
 Eko Nur Syah Hidayat: +id
 

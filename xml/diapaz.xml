@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: diapaz.xml,v 1.13 2010/05/28 16:30:34 revo Exp $">
+<art mrk="$Id: diapaz.xml,v 1.15 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>diapazon</rad>/o
@@ -28,10 +28,25 @@
     <trd lng="pt">diapas&atilde;o</trd>
     <trd lng="ru">&c_k;&c_a;&c_m;&c_je;&c_r;&c_t;&c_o;&c_n;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>diapazon</trd>,
+    <trd>hlasové rozpětí</trd>,
+    <trd>tónové rozpětí</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pásmo</trd>,
+    <trd>rozpätie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: diapaz.xml,v $
+Revision 1.15  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2010/05/28 16:30:34  revo
 Antonio Codazzi: +trd it
 

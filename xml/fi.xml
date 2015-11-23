@@ -2,13 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: fi.xml,v 1.18 2014/02/17 02:10:14 revo Exp $">
+  <art mrk="$Id: fi.xml,v 1.21 2015/09/17 08:10:16 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>fi</rad>
     </kap>
     <subart>
-    <drv mrk="fi.0">
+
+<drv mrk="fi.0">
 	<kap><tld/></kap>
       <snc mrk="fi.0.interjekcio">
 	<dif>
@@ -24,20 +25,24 @@
 	  </ekz>
 	</dif>
         </snc>
-	<trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>fuj</trd>,
+    <trd>jak nevhodn&eacute; slovo</trd>
+  </trdgrp>
+  <trdgrp lng="de">
 	  <trd>pfui!</trd>,
 	  <trd>ih!</trd>
 	</trdgrp>
-	<trdgrp lng="en">
+  <trdgrp lng="en">
           <trd>fie!</trd>,
 	  <trd>for shame!</trd>
 	</trdgrp>
-	<trdgrp lng="fr">
+  <trdgrp lng="fr">
 	  <trd>fi!</trd>,
 	  <trd>beurk!</trd>,
 	  <trd>pouah!</trd>
 	</trdgrp>
-        <trd lng="hu">pfuj!</trd>
+  <trd lng="hu">pfuj!</trd>
   <trdgrp lng="pt">
     <trd>fu</trd>,
     <trd>abren&uacute;ncio</trd>,
@@ -48,12 +53,16 @@
     <trd>fora</trd>,
     <trd>irra</trd>
   </trdgrp>
-	<trdgrp lng="ru">
+  <trdgrp lng="ru">
 	  <trd>&c_f;&c_i;!</trd>,
 	  <trd>&c_f;&c_u;!</trd>
 	</trdgrp>
-    </drv>
-    </subart>
+  <trdgrp lng="sk">
+    <trd>ak&eacute; nevhodn&eacute; slovo</trd>,
+    <trd>fuj</trd>
+  </trdgrp>
+</drv>
+</subart>
 
     <subart>
     <drv mrk="fi.0.prefikso">
@@ -83,6 +92,21 @@
 	</ekz>
       </dif>
       </snc>
+      <rim mrk="fi.0.RIM">
+      Prefikseca <em><tld/>-</em> kaj la sufikso <ref tip="sin"
+      cel="acx">-a&ccirc;</ref> estas similaj kaj povas en multaj okazoj esti
+      preka&ubreve; indiferente uzataj. Ili tamen diferencas inter si per
+      tio, ke <em>-a&ccirc;</em> estas prefere objektiva, dum <em><tld/>-</em>
+      estas prefere subjektiva; <em>-a&ccirc;</em> povas montri simple, ke iu
+      a&ubreve; io estas malbonkvalita, neta&ubreve;ga, a&ubreve; ke oni
+      opinias &gcirc;in tia; <em><tld/>-</em> esprimas negativan ju&gcirc;on el
+      morala vidpunkto:
+      <ekz>
+	&ccirc;evala&ccirc;o ne estas <tld/>a &ccirc;evalo, sed tre malfeli&ccirc;a;
+      </ekz><ekz>
+	tiu <tld/>ulo estas tre lerta kaj bela viro.
+      </ekz>
+    </rim>
       <trd lng="vo">lu-</trd>
       </drv>
     </subart>
@@ -116,7 +140,14 @@
 	    </ekz>
 	  </dif>
 	</snc>
-	<trdgrp lng="en">
+  <trdgrp lng="cs">
+    <trd>b&iacute;dn&yacute;</trd>,
+    <trd>hanebn&yacute;</trd>,
+    <trd>mrzk&yacute;</trd>,
+    <trd>ni&ccaron;emn&yacute;</trd>,
+    <trd>podl&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
 	    <trd>vile</trd>,
 	    <trd>filthy</trd>,
 	    <trd>dirty</trd>,
@@ -124,25 +155,26 @@
 	    <trd>shameful</trd>,
 	    <trd>disgusting</trd>
 	</trdgrp>
-	<trdgrp lng="fr">
+  <trdgrp lng="fr">
 	    <trd>abject<klr tip="ind"> (m&eacute;prisable)</klr></trd>,
 	    <trd>bas<klr tip="ind"> (m&eacute;prisable)</klr></trd>,
 	    <trd>indigne</trd>,
 	    <trd>vilain</trd>,
 	    <trd>m&eacute;prisable</trd>
 	</trdgrp>
-	<trdgrp lng="hu">
+  <trdgrp lng="hu">
 	    <trd>aljas</trd>,
 	    <trd>ocsm&aacute;ny</trd>,
 	    <trd>gal&aacute;d</trd>
 	</trdgrp>
-	<trdgrp lng="ru">
+  <trdgrp lng="ru">
 	  <trd>&c_m;&c_je;&c_r;&c_z;&c_k;&c_i;&c_j;</trd>,
 	  <trd>&c_g;&c_a;&c_d;&c_k;&c_i;&c_j;</trd>,
 	  <trd>&c_p;&c_r;&c_je;&c_z;&c_r;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
 	  <trd>&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
 	</trdgrp>
-      </drv>
+  <trd lng="sk">hanebn&yacute;</trd>
+</drv>
 
       <drv mrk="fi.0ajxo">
 	<kap><tld/>a&jcirc;o<fnt>Z</fnt></kap>
@@ -169,10 +201,12 @@
          Karakterizo de io a&ubreve; iu <tld/>a.
         </dif>
         </snc>
-        <trd lng="fr">bassesse<klr tip="ind"> (caract&egrave;re
+  <trd lng="cs">podlost</trd>
+  <trd lng="fr">bassesse<klr tip="ind"> (caract&egrave;re
 	      m&eacute;prisable)</klr></trd>
-	<trd lng="ru">&c_p;&c_o;&c_d;&c_l;&c_o;&c_s;&c_t;&c_mol; <klr>(&c_k;&c_a;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
-        </drv>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_l;&c_o;&c_s;&c_t;&c_mol; <klr>(&c_k;&c_a;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  <trd lng="sk">oplanstvo</trd>
+</drv>
 
         <drv mrk="fi.0ulo">
 	<kap><tld/>ulo</kap>
@@ -181,27 +215,20 @@
          Persono malestiminda.
         </dif>
         </snc>
-        <trd lng="fr">salaud</trd>
-	</drv>
-
+  <trdgrp lng="cs">
+    <trd>dareb&aacute;k</trd>,
+    <trd>padouch</trd>,
+    <trd>v&scaron;iv&aacute;k</trd>
+  </trdgrp>
+  <trd lng="fr">salaud</trd>
+  <trdgrp lng="sk">
+    <trd>dareb&aacute;k</trd>,
+    <trd>podliak</trd>,
+    <trd>v&scaron;iv&aacute;k</trd>
+  </trdgrp>
+</drv>
     </subart>
-
-    <rim mrk="fi.0.RIM">
-      Kvankam <em><tld/></em> kaj <ref tip="sin" cel="acx">a&ccirc;</ref>
-      povas en multaj okazoj esti
-      preka&ubreve; indiferente uzataj, ili tamen diferencas inter si per
-      tio, ke <em>a&ccirc;</em> estas prefere objektiva, dum <em><tld/></em>
-      estas prefere subjektiva; <em>a&ccirc;</em> povas montri simple, ke iu
-      a&ubreve; io estas malbonkvalita, neta&ubreve;ga, a&ubreve; ke oni
-      opinias &gcirc;in tia; <em><tld/></em> esprimas negativan ju&gcirc;on el
-      morala
-      vidpunkto:
-      <ekz>
-	&ccirc;evala&ccirc;o ne estas <tld/>a &ccirc;evalo, sed tre malfeli&ccirc;a;
-      </ekz><ekz>
-	tiu <tld/>ulo estas tre lerta kaj bela viro.
-      </ekz>
-    </rim>
+   
       <adm>
 	La rimarko ne kontentigas min. Mi sentas, ke "fi" referencas al ia
 	socia morala normo, dum "acx", kvankam gxi celas kaj materiajn kaj
@@ -214,6 +241,15 @@
   </art>
   <!--
   $Log: fi.xml,v $
+  Revision 1.21  2015/09/17 08:10:16  revo
+  Damien Brucker: Reverkado kaj alilokigo (por PReVo) de la rim
+
+  Revision 1.20  2015/07/04 08:37:34  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.19  2015/06/29 16:29:38  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.18  2014/02/17 02:10:14  revo
   Damien Brucker: +trd fr
 

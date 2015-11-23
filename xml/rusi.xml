@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rusi.xml,v 1.13 2014/06/27 08:10:16 revo Exp $">
+<art mrk="$Id: rusi.xml,v 1.15 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>Rusi</rad>/o
 </kap>
@@ -22,6 +22,7 @@
   </snc>
   <trd lng="be">&c_R;&c_a;&c_s;&c_je;&c_ja;</trd>
   <trd lng="bg">&c_R;&c_u;&c_s;&c_i;&c_ja;</trd>
+  <trd lng="cs">Rusko</trd>
   <trd lng="de">Russland</trd>
   <trdgrp lng="fr">
     <trd>Russie</trd>,
@@ -31,6 +32,7 @@
   <trd lng="nl">Rusland</trd>
   <trd lng="pl">Rosja</trd>
   <trd lng="ru">&c_R;&c_o;&c_s;&c_s;&c_i;&c_ja;</trd>
+  <trd lng="sk">Rusko</trd>
   <trdgrp lng="zh">
     <trd>&#20420;&#22269;</trd>,
     <trd><klr>tr. </klr>&#20420;&#22283;<klr>
@@ -100,6 +102,12 @@
 </art>
 <!--
 $Log: rusi.xml,v $
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2014/06/27 08:10:16  revo
 Damien Brucker: +trd fr
 

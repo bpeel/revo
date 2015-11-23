@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: orator.xml,v 1.14 2014/03/25 20:10:21 revo Exp $">
+<art mrk="$Id: orator.xml,v 1.16 2015/07/04 08:37:40 revo Exp $">
 <kap><ofc>1</ofc> <rad>orator</rad>/o</kap>
 <drv mrk="orator.0o">
   <kap><tld/>o</kap>
@@ -41,6 +41,10 @@
     <trd>&c_a;&c_r;&c_a;&c_t;&c_a;&c_r;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_m;&c_o;&c_w;&c_c;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>orátor</trd>,
+    <trd>řečník</trd>
+  </trdgrp>
   <trdgrp lng="el">
     <trd>&omikron;&my;&jota;&lambda;&eta;&tau;&eta_ton;&sigma_fina;</trd>,
     <trd>&rho;&eta_ton;&tau;&omikron;&rho;&alfa;&sigma_fina;</trd>
@@ -48,6 +52,7 @@
   <trd lng="en">speaker</trd>
   <trd lng="fr">orateur</trd>
   <trd lng="pt">orador</trd>
+  <trd lng="sk">rečník</trd>
 </drv>
 
 <drv mrk="orator.0a">
@@ -83,6 +88,11 @@
     <trd>orar</trd>,
     <trd>discursejar</trd>
   </trdgrp>
+  <trd lng="cs">řečnit</trd>
+  <trdgrp lng="de">
+      <trd><klr>(</klr>&ouml;ffentlich) <ind>reden</ind></trd>,
+      <trd><klr>(</klr>&ouml;ffentlich) <ind>sprechen</ind></trd>
+    </trdgrp>
   <trd lng="el">&pi;&rho;&omikron;&phi;&epsilon_ton;&rho;&omega; &omikron;&my;&jota;&lambda;&jota_ton;&alfa;</trd>
   <trd lng="en">deliver an oration</trd>
   <trd lng="fr">orationner</trd>
@@ -92,10 +102,7 @@
     <trd>discursar</trd>,
     <trd>orar</trd>
   </trdgrp>
-    <trdgrp lng="de">
-      <trd><klr>(</klr>&ouml;ffentlich) <ind>reden</ind></trd>,
-      <trd><klr>(</klr>&ouml;ffentlich) <ind>sprechen</ind></trd>
-    </trdgrp>
+  <trd lng="sk">rečniť</trd>
 </drv>
 
 <drv mrk="orator.0ajxo">
@@ -130,6 +137,12 @@
 </art>
 <!--
 $Log: orator.xml,v $
+Revision 1.16  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2014/03/25 20:10:21  revo
 Damien Brucker: +trd fr
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: enu.xml,v 1.17 2010/02/03 17:30:33 revo Exp $">
+<art mrk="$Id: enu.xml,v 1.21 2015/07/04 08:37:33 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>enu</rad>/i
@@ -26,6 +26,10 @@
     <trd>&c_n;&c_u;&c_d;&c_z;&c_ib;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">avorrir-se</trd>
+  <trdgrp lng="cs">
+    <trd>mít dlouhou chvíli</trd>,
+    <trd>nudit se</trd>
+  </trdgrp>
   <trd lng="de">sich <ind>langweilen</ind></trd>
   <trd lng="en">be bored</trd>
   <trd lng="es">aburrirse</trd>
@@ -35,6 +39,7 @@
     <trd>s'<ind>ennuyer</ind><klr tip="ind"> (&eacute;prouver de
     l'ennui)</klr></trd>
   </trdgrp>
+  <trd lng="nl">zich <ind>vervelen</ind></trd>
   <trd lng="pl">nudzi&cacute; si&eogonek;</trd>
   <trdgrp lng="pt">
     <trd>aborrecer-se</trd>,
@@ -42,6 +47,7 @@
     <trd>enfadar-se</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_k;&c_u;&c_ch;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">nudiť</trd>
 </drv>
 <drv mrk="enu.0o">
   <kap><tld/>o</kap>
@@ -72,15 +78,21 @@
     <trd>&c_n;&c_u;&c_d;&c_o;&c_t;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">avorriment</trd>
+  <trd lng="cs">nuda</trd>
+  <trd lng="de">Langweile</trd>
   <trd lng="en">boredom</trd>
   <trd lng="es">aburrimiento</trd>
-  <trd lng="de">Langweile</trd>
   <trdgrp lng="fr">
     <trd>ennui<klr tip="ind"> (lassitude)</klr></trd>,
     <trd>lassitude<klr tip="ind"> (ennui)</klr></trd>
   </trdgrp>
+  <trd lng="nl">verveling</trd>
   <trd lng="pl">nuda</trd>
   <trd lng="ru">&c_s;&c_k;&c_u;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>dlhá chvíľa</trd>,
+    <trd>nuda</trd>
+  </trdgrp>
 </drv>
 <drv mrk="enu.0a">
   <kap><tld/>a</kap>
@@ -124,8 +136,14 @@
     <trd>ennuyeux<klr tip="ind"> (lassant)</klr></trd>,
     <trd>lassant<klr tip="ind"> (ennuyeux)</klr></trd>
   </trdgrp>
+  <trd lng="nl">saai</trd>
   <trd lng="pl">nudny</trd>
   <trd lng="ru">&c_s;&c_k;&c_u;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>nezáživný</trd>,
+    <trd>nudný</trd>
+  </trdgrp>
+  <trd lng="cs">nezáživný</trd>
 </drv>
 <drv mrk="enu.0igi">
   <kap><tld/>igi</kap>
@@ -148,13 +166,18 @@
   <trd
   lng="be">&c_n;&c_a;&c_d;&c_a;&c_k;&c_u;&c_ch;&c_y;&c_c;&c_mol;</trd>
   <trd lng="ca">avorrir</trd>
+  <trdgrp lng="cs">
+    <trd>nudit <klr>(někoho)</klr></trd>,
+    <trd>unudit</trd>
+  </trdgrp>
   <trd lng="de">langweilen</trd>
-  <trd lng="es">aburrir</trd>
   <trd lng="en">bore</trd>
+  <trd lng="es">aburrir</trd>
   <trdgrp lng="fr">
     <trd>ennuyer<klr tip="ind"> (lasser)</klr></trd>,
     <trd>lasser<klr tip="ind"> (ennuyer)</klr></trd>
   </trdgrp>
+  <trd lng="nl">vervelen</trd>
   <trdgrp lng="pl">
     <trd>nudzi&cacute;</trd>,
     <trd>zanudza&cacute;</trd>
@@ -163,6 +186,10 @@
     <trd>&c_n;&c_a;&c_s;&c_k;&c_u;&c_ch;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_a;&c_v;&c_je;&c_s;&c_t;&c_i;
     &c_s;&c_k;&c_u;&c_k;&c_u;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nudiť</trd>,
+    <trd>vzbudzovať nudu</trd>
   </trdgrp>
 </drv>
 <drv mrk="enu.0iga">
@@ -187,23 +214,45 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_u;&c_d;&c_n;&c_y;</trd>
-  <trd lng="de">langweilig</trd>
   <trd lng="ca">avorrit</trd>
+  <trdgrp lng="cs">
+    <trd>nudný</trd>,
+    <trd>nudící</trd>,
+    <trd>otravný</trd>
+  </trdgrp>
+  <trd lng="de">langweilig</trd>
   <trd lng="en">boring</trd>
   <trd lng="es">aburrido</trd>
   <trdgrp lng="fr">
     <trd>ennuyeux<klr tip="ind"> (lassant)</klr></trd>,
     <trd>lassant<klr tip="ind"> (ennuyeux)</klr></trd></trdgrp>
+  <trd lng="nl">vervelend</trd>
   <trd lng="pl">nudny</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_k;&c_u;&c_ch;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_a;&c_v;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;
     &c_s;&c_k;&c_u;&c_k;&c_u;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nezáživný</trd>,
+    <trd>nudný</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: enu.xml,v $
+Revision 1.21  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2015/05/21 17:10:20  revo
+Joop Eggen: +trd nl
+
+Revision 1.18  2015/05/13 15:10:15  revo
+Joop Eggen: +trd nl
+
 Revision 1.17  2010/02/03 17:30:33  revo
 Sebastian Cyprych: +trd pl
 
@@ -219,12 +268,6 @@ Tulio Flores: +tr pt
 
 Revision 1.13  2006/01/12 21:53:36  revo
 Raul Salinas Monteagudo: +trd en,es
-
-Revision 1.12  2005/04/27 16:31:12  revo
-Lluis Batlle i Rossell: korekto al ntr, +trd ca,es
-
-Revision 1.11  2003/12/18 17:31:37  revo
-Dmitri Gabinski: +trd be
 
 -->
 </vortaro>

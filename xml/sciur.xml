@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sciur.xml,v 1.30 2014/09/13 08:10:12 revo Exp $">
+<art mrk="$Id: sciur.xml,v 1.33 2015/08/20 20:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sciur</rad>/o <fnt><bib>PV</bib></fnt>
@@ -46,6 +46,8 @@
   <trd lng="nl">eekhoorn</trd>
   <trd lng="ru">&c_b;&c_je;&c_l;&c_k;&c_a;</trd>
   <trd lng="sv">ekorre</trd>
+  <trd lng="sk">veverica</trd>
+  <trd lng="cs">veverka</trd>
 </drv>
 
 <drv mrk="sciur.flug0o">
@@ -82,7 +84,7 @@
       Flugopova <ref tip="lst" cel="marsup.0o"
       lst="voko:marsupiuloj">marsupiulo</ref>
       malgranda (korpe 16 &gcirc;is 20 centimetrojn longa)
-      vivanta en norda kaj orienta A&ubreve;stalio, Novgvineo, Tasmanio;
+      vivanta en norda kaj orienta A&ubreve;stralio, Novgvineo, Tasmanio;
       <ref tip="lst" cel="speci.0o.BIO" lst="voko:zoologiaj_specioj">
       specio</ref>
       <trd lng="la">Petaurus breviceps</trd>:
@@ -107,6 +109,15 @@
 </art>
 <!--
 $Log: sciur.xml,v $
+Revision 1.33  2015/08/20 20:10:17  revo
+Jeromo Vasxe: Auxstalio -> Auxstralio
+
+Revision 1.32  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.30  2014/09/13 08:10:12  revo
 Agustin Garcia Lopez: +trd(es)
 
@@ -120,14 +131,5 @@ Revision 1.27  2013/10/20 16:10:16  revo
 Wolfram Diestel: suker~o: ref al lst marsupiuloj, prilaboretis dif
 
 Revision 1.26  2013/09/03 18:10:15  revo
-Wolfram Diestel: referenco al listo zoo genroj
-
-Revision 1.25  2013/07/05 20:10:22  revo
-Wolfram Diestel: referencoj
-
-Revision 1.24  2012/09/29 17:10:14  revo
-Jeromo Vasxe: + var ekz k akuzativoj en dif de flug~o
-
-Revision 1.23  2009/03/19 18:17:19  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-   <art mrk="$Id: nab.xml,v 1.17 2012/09/17 14:10:12 revo Exp $">
+   <art mrk="$Id: nab.xml,v 1.19 2015/07/04 08:37:39 revo Exp $">
      <kap>
        <rad>nab</rad>/o
      </kap>
@@ -46,42 +46,38 @@ kiu
              <trd>tekerlek g&ouml;be&gbreve;i</trd>
            </trdgrp>
        </snc>
-       <trd lng="sv">nav</trd>
-       <snc mrk="nab.0o.KOMP">
-         <uzo tip="fak">KOMP</uzo>
-         <dif>
-           Aran&gcirc;a&jcirc;o interliganta plurajn aliajn
-aran&gcirc;a&jcirc;ojn:
-           <ekz>
-             &ccirc;iuj komputiloj en oficeja &ccirc;ambro estas konektitaj
-al la
-             loka reto per <tld/>o fiksita sur la muro en la
-             kontra&ubreve;a angulo.</ekz>
-         </dif>
-         <trdgrp lng="be">
+  <trdgrp lng="be">
            <trd>&c_k;&c_a;&c_n;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_t;&c_a;&c_r;</trd>,
            <trd>&c_h;&c_a;&c_b;</trd>
          </trdgrp>
-         <trd lng="ca">concentrador</trd>
-         <trd lng="de">Hub</trd>
-         <trd lng="es">concentrador <klr>(c&oacute;mputo)</klr></trd>
-         <trdgrp lng="hu">
+  <trd lng="ca">concentrador</trd>
+  <trd lng="cs">náboj kola</trd>
+  <trd lng="de">Hub</trd>
+  <trd lng="en">hub</trd>
+  <trd lng="es">concentrador <klr>(c&oacute;mputo)</klr></trd>
+  <trd lng="fa">&a_t;&a_w;&f_p;&f_y;</trd>
+  <trdgrp lng="hu">
            <trd>hub</trd>,
            <trd>fej</trd>,
            <trd>h&aacute;l&oacute;zati f&odblac;eloszt&oacute;</trd>
          </trdgrp>
-         <trd lng="nl">hub</trd>
-        <trdgrp lng="ru">
+  <trd lng="nl">hub</trd>
+  <trdgrp lng="ru">
 
 <trd>&c_k;&c_o;&c_n;&c_c;&c_je;&c_n;&c_t;&c_r;&c_a;&c_t;&c_o;&c_r;</trd>,
            <trd>&c_h;&c_a;&c_b;</trd></trdgrp>
-       </snc>
-       <trd lng="en">hub</trd>
-       <trd lng="fa">&a_t;&a_w;&f_p;&f_y;</trd>
-     </drv>
+  <trd lng="sk">náboj kolesa</trd>
+  <trd lng="sv">nav</trd>
+</drv>
    </art>
 <!--
 $Log: nab.xml,v $
+Revision 1.19  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2012/09/17 14:10:12  revo
 Marc Rausell: + trd ca
 

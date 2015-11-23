@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: magist.xml,v 1.21 2013/08/06 09:10:16 revo Exp $">
+<art mrk="$Id: magist.xml,v 1.22 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>magistr</rad>/o <fnt>Z</fnt>
 </kap>
@@ -40,6 +40,10 @@
   </snc>
   <trd lng="be">&c_m;&c_a;&c_g;&c_ib;&c_s;&c_t;&c_a;&c_r;</trd>
   <trd lng="bg">&c_m;&c_a;&c_g;&c_i;&c_s;&c_t;&c_malmol;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>magistr</trd>,
+    <trd>mistr</trd>
+  </trdgrp>
   <trd lng="de">Oberlehrer</trd>
   <trdgrp lng="es">
     <trd>m&aacute;ster</trd>,
@@ -53,6 +57,9 @@
 </art>
 <!--
 $Log: magist.xml,v $
+Revision 1.22  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.21  2013/08/06 09:10:16  revo
 Joop Eggen: +trd bg
 

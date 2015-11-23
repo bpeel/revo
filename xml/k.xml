@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: k.xml,v 1.6 2014/04/12 07:10:35 revo Exp $">
+<art mrk="$Id: k.xml,v 1.8 2015/07/04 08:37:38 revo Exp $">
 <kap>
     <ofc>*</ofc><rad>k</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -55,7 +55,9 @@
   <trd lng="fr">et<klr> (abr&eacute;viation)</klr></trd>
   </subsnc>
   </snc>
-  </drv>
+  <trd lng="cs">k</trd>
+  <trd lng="sk">k <klr>(kilo)</klr></trd>
+</drv>
 </subart>
 
 <subart>
@@ -74,6 +76,12 @@
 
 <!--
 $Log: k.xml,v $
+Revision 1.8  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2014/04/12 07:10:35  revo
 Damien Brucker: aldono (dauxrigo)
 

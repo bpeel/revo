@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pens.xml,v 1.26 2014/09/01 01:10:13 revo Exp $">
+<art mrk="$Id: pens.xml,v 1.29 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pens</rad>/i <fnt><bib>PV</bib></fnt>
@@ -75,11 +75,22 @@
     </trdgrp>
     <trd lng="ru">&c_d;&c_u;&c_m;&c_a;&c_t;&c_mol;</trd>
   </snc>
-  <trd lng="cs">myslet</trd>
+  <trdgrp lng="cs">
+    <trd>domnívat se</trd>,
+    <trd>myslet</trd>,
+    <trd>myslit</trd>,
+    <trd>mínit</trd>,
+    <trd>zamýšlet</trd>
+  </trdgrp>
   <trd lng="de">denken</trd>
   <trd lng="en">think</trd>
   <trd lng="fr">penser</trd>
   <trd lng="nl">denken</trd>
+  <trdgrp lng="sk">
+    <trd>domnievať sa</trd>,
+    <trd>myslieť</trd>,
+    <trd>zamýšľať</trd>
+  </trdgrp>
   <trd lng="vo">tik&ouml;n</trd>
 </drv>
 
@@ -91,7 +102,12 @@
   <snc mrk="pens.0o.pensajxo">
     <ref tip="dif" cel="pens.0ajxo"><tld/>a&jcirc;o</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>myšlenka</trd>,
+    <trd>nápad</trd>
+  </trdgrp>
   <trd lng="fr">pens&eacute;e</trd>
+  <trd lng="sk">myšlienka</trd>
 </drv>
 
 <drv mrk="pens.0ado">
@@ -108,12 +124,17 @@
     <trd>pensa</trd>,
     <trd>pensament</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>myšlení</trd>,
+    <trd>přemýšlení</trd>
+  </trdgrp>
   <trd lng="de">Denken</trd>
   <trd lng="es">pensamiento</trd>
   <trd lng="fr">pens&eacute;e</trd>
   <trd lng="hu">gondolkod&aacute;s</trd>
   <trd lng="nl">het <ind>denken</ind></trd>
   <trd lng="ru">&c_m;&c_y;&c_sh;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">myslenie</trd>
 </drv>
 
 <drv mrk="pens.0ajxo">
@@ -164,10 +185,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">přemýšlivý</trd>
   <trdgrp lng="fr">
     <trd>r&eacute;fl&eacute;chi</trd>,
     <trd>pensif</trd>
   </trdgrp>
+  <trd lng="sk">premýšľavý</trd>
 </drv>
 
 <drv mrk="pens.0isto">
@@ -181,12 +204,17 @@
     </dif>
   </snc>
   <trd lng="ca">pensador</trd>
+  <trdgrp lng="cs">
+    <trd>mudrlant</trd>,
+    <trd>přemýšlivý čl.</trd>
+  </trdgrp>
   <trd lng="de">Denker</trd>
   <trd lng="es">pensador</trd>
   <trd lng="fr">penseur</trd>
   <trd lng="hu">gondolkod&oacute;</trd>
   <trd lng="nl">denker</trd>
   <trd lng="ru">&c_m;&c_y;&c_s;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">premýšľavý človek</trd>
 </drv>
 
 <drv mrk="pens.0iga">
@@ -200,6 +228,7 @@
     <trd>profund</trd>,
     <trd>que indueix a reflexi&oacute;</trd>
   </trdgrp>
+  <trd lng="cs">nutící k zamyšlení</trd>
   <trdgrp lng="de">
     <trd>bedenkenswert</trd>,
     <trd>nachdenkenswert</trd>,
@@ -219,6 +248,7 @@
     <trd>&c_n;&c_a;&c_v;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j; &c_n;&c_a; &c_r;&c_a;&c_z;&c_m;&c_y;&c_sh;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_z;&c_a;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_ju;&c_shch;&c_i;&c_j; <ind>&c_z;&c_a;&c_d;&c_u;&c_m;&c_a;&c_t;&c_mol;&c_s;&c_ja;</ind></trd>
   </trdgrp>
+  <trd lng="sk">nútiaci k zamysleniu</trd>
 </drv>
 
 <drv mrk="pens.0igi">
@@ -371,7 +401,7 @@
       cel="fantaz.0i">fantazii</ref> (aproban a&ubreve; malla&ubreve;dan):
       <ekz>
         deliranto aplikas propran logikon: tiun de
-        raciecigo de fantazitaj el<tld/>oj
+        raciecigo de fantazi<klr>[i]</klr>taj el<tld/>oj
         <fnt>
           <aut>J. Camacho</aut>,
           <vrk><url
@@ -418,6 +448,7 @@
     <trd>inventar</trd>,
     <trd>idear</trd>
   </trdgrp>
+  <trd lng="cs">vymyslet</trd>
   <trdgrp lng="de">
     <trd>ausdenken</trd>,
     <trd>erfinden</trd>
@@ -434,6 +465,7 @@
   <trd lng="nl">bedenken</trd>
   <trd lng="pt">inventar</trd>
   <trd lng="ru">&c_v;&c_y;&c_d;&c_u;&c_m;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">vymyslieť</trd>
 </drv>
 
 <drv mrk="pens.en0igxi">
@@ -488,10 +520,15 @@
     </ekz>
   </snc>
   <trd lng="ca">lliurepensador</trd>
+  <trdgrp lng="cs">
+    <trd>volnomyšlenkář</trd>,
+    <trd>čl. neuznávající dogmata</trd>
+  </trdgrp>
   <trd lng="es">librepensador</trd>
   <trd lng="fr">libre-penseur<klr> (subst.)</klr></trd>
   <trd lng="hu">szabadgondolkod&oacute;</trd>
   <trd lng="ru">&c_s;&c_v;&c_o;&c_b;&c_o;&c_d;&c_o;&c_m;&c_y;&c_s;&c_l;&c_ja;&c_shch;&c_i;&c_j;<klr> (&c_s;&c_u;&c_shch;.)</klr></trd>
+  <trd lng="sk">voľnomyšlienkar</trd>
 </drv>
 
 <drv mrk="pens.prem0o">
@@ -500,6 +537,7 @@
     <ref tip="dif" cel="obsed.0o">obsedo</ref>
   </snc>
   <trd lng="ca">obsessi&oacute;</trd>
+  <trd lng="cs">vtíravá myšlenka</trd>
   <trdgrp lng="de">
     <trd>Besessenheit</trd>,
     <trd>Obsession</trd>
@@ -512,6 +550,7 @@
   </trdgrp>
   <trd lng="nl">obsessie</trd>
   <trd lng="ru">&c_n;&c_a;&c_v;&c_ja;&c_z;&c_ch;&c_i;&c_v;&c_a;&c_ja; &c_i;&c_d;&c_je;&c_ja;</trd>
+  <trd lng="sk">vtieravá myšlienka</trd>
 </drv>
 
 <drv mrk="pens.pri0i">
@@ -571,6 +610,14 @@
     <trd>meditar</trd>,
     <trd>rumiar</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>promyslit</trd>,
+    <trd>přemýšlet</trd>,
+    <trd>rozvážit</trd>,
+    <trd>usoudit</trd>,
+    <trd>uvážit</trd>,
+    <trd>zvážit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>durchdenken</trd>,
     <trd>&uuml;berlegen</trd>,
@@ -591,6 +638,11 @@
   </trdgrp>
   <trd lng="nl">overdenken</trd>
   <trd lng="ru">&c_o;&c_b;&c_d;&c_u;&c_m;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>premyslieť</trd>,
+    <trd>rozmyslieť</trd>,
+    <trd>uvážiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pens.pri0inda">
@@ -686,14 +738,37 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bezmyšlenkovitý</trd>,
+    <trd>lehkovážný</trd>,
+    <trd>nepředložený</trd>,
+    <trd>nerozvážný</trd>,
+    <trd>nerozvážný</trd>,
+    <trd>ukvapený</trd>,
+    <trd>zbrklý</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&eacute;cervel&eacute;</trd>,
     <trd>&eacute;tourdi</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nepremyslený</trd>,
+    <trd>nerozmyslený</trd>,
+    <trd>nerozvážny</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: pens.xml,v $
+Revision 1.29  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/03/15 18:10:18  revo
+Wolfram Diestel: markis tajperaron en citajho
+
 Revision 1.26  2014/09/01 01:10:13  revo
 Guillermo Molleda Jimena: trd es
 
@@ -713,8 +788,5 @@ Revision 1.21  2008/07/21 16:30:27  revo
 Jeromo Vasxe: + ~o
 
 Revision 1.20 2006/02/27 17:33:49 revo
-Tulio Flores: +tr pt
-
-Revision 1.19 2004/08/04 16:32:02 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: abel1.xml,v 1.26 2012/08/22 09:10:19 revo Exp $">
+<art mrk="$Id: abel1.xml,v 1.29 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <rad>Abel</rad>/o
 </kap>
@@ -11,7 +11,8 @@
   <uzo tip="fak">PERS</uzo>
   <snc>
     <dif>
-      Norveglingve: Niels <trd lng="no">Abel</trd>, 1802-1829.
+      Norveglingve: <trd lng="no">Niels <ind>Abel</ind></trd>,
+      1802-1829.
       Norvega matematikisto.
     </dif>
   </snc>
@@ -165,10 +166,24 @@
       <trd>&c_a;&c_b;&c_je;&c_l;&c_je;&c_v;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>Abelův</trd>,
+    <trd>abelovský</trd>
+  </trdgrp>
+  <trd lng="sk">Ábelov</trd>
 </drv>
 </art>
 <!--
 $Log: abel1.xml,v $
+Revision 1.29  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/01/22 19:10:18  revo
+Wolfram Diestel: sxovis Niels en trd
+
 Revision 1.26  2012/08/22 09:10:19  revo
 Marc Rausell: ++ trd ca
 
@@ -188,8 +203,5 @@ Revision 1.21  2009/01/22 17:30:45  revo
 Wieland Pusch: +trd bg
 
 Revision 1.20  2007/12/02 17:30:15  revo
-Tulio Flores: +tr pt
-
-Revision 1.19  2007/11/30 17:30:31  revo
 -->
 </vortaro>

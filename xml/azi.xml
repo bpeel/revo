@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: azi.xml,v 1.36 2014/02/16 17:10:12 revo Exp $">
+<art mrk="$Id: azi.xml,v 1.38 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <rad>Azi</rad>/o
   <ofc>8</ofc>
@@ -45,9 +45,11 @@
     </dif>
     <ref tip="malprt" cel="euxraz.E0o">E&ubreve;razio</ref>
   </snc>
+  <trd lng="lat">Asia</trd>
   <trd lng="be">&c_A;&c_z;&c_ib;&c_ja;</trd>
   <trd lng="bg">&c_A;&c_z;&c_i;&c_ja;</trd>
   <trd lng="ca">&Agrave;sia</trd>
+  <trd lng="cs">Asie</trd>
   <trd lng="de">Asien</trd>
   <trd lng="el">&Alfa;&sigma;&jota_ton;&alfa;</trd>
   <trd lng="en">Asia</trd>
@@ -55,12 +57,14 @@
   <trd lng="fr">Asie</trd>
   <trd lng="hu">&Aacute;zsia</trd>
   <trd lng="it">Asia</trd>
-  <trd lng="lat">Asia</trd>
   <trd lng="nl">Azi&euml;</trd>
   <trd lng="pl">Azja</trd>
   <trd lng="pt">&Aacute;sia</trd>
   <trd lng="ru">&c_A;&c_z;&c_i;&c_ja;</trd>
-  <trd lng="sk">&Aacute;zia</trd>
+  <trdgrp lng="sk">
+    <trd>&Aacute;zia</trd>,
+    <trd>Ázia</trd>
+  </trdgrp>
   <trd lng="sv">Asien</trd>
   <trd lng="vo">Silop</trd>
 </drv>
@@ -159,6 +163,11 @@
     <trd>Kelet-&Aacute;zsia</trd>,
     <trd>T&aacute;vol-Kelet</trd>
   </trdgrp>
+  <trd lng="sk">Ďaleký východ</trd>
+  <trdgrp lng="cs">
+    <trd>Dálný Východ</trd>,
+    <trd>Jihovýchodní Asie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="azi.OkcidentaA0o">
@@ -175,6 +184,7 @@
     </dif>
   </snc>
   <trd lng="ca">Orient Mitj&agrave;</trd>
+  <trd lng="cs">Západní Asie</trd>
   <trd lng="de">Westasien</trd>
   <trdgrp lng="en">
     <trd>Middle <ind>East</ind></trd>,
@@ -192,6 +202,7 @@
   <trd lng="pl">Bliski Wsch&oacute;d</trd>
   <trd lng="ru">&c_P;&c_je;&c_r;&c_je;&c_d;&c_n;&c_ja;&c_ja;
   &c_A;&c_z;&c_i;&c_ja;</trd>
+  <trd lng="sk">Západná Ázia</trd>
 </drv>
 
 <drv mrk="azi.SudaA0o">
@@ -233,6 +244,7 @@
       Turkestano).
     </rim>
   </snc>
+  <trd lng="cs">Střední Asie</trd>
   <trd lng="de">Innerasien</trd>
   <trdgrp lng="en">
     <trd>Central <ind>Asia</ind></trd>
@@ -246,6 +258,7 @@
   </trdgrp>
   <trd lng="ru">&c_V;&c_n;&c_u;&c_t;&c_r;&c_je;&c_n;&c_n;&c_ja;&c_ja;
   &c_A;&c_z;&c_i;&c_ja;</trd>
+  <trd lng="sk">Stredná Ázia</trd>
 </drv>
 
 <drv mrk="azi.MalgrandA0o">
@@ -276,6 +289,12 @@
 </art>
 <!--
 $Log: azi.xml,v $
+Revision 1.38  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.37  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.36  2014/02/16 17:10:12  revo
 Dmitri Gabinski: +trd be
 

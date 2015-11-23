@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stumbl.xml,v 1.16 2013/10/09 20:10:30 revo Exp $">
+<art mrk="$Id: stumbl.xml,v 1.18 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>stumbl</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -92,10 +92,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">klopýtání</trd>
   <trdgrp lng="fr">
     <trd>faux-pas</trd>,
     <trd>tr&eacute;buchement</trd>
   </trdgrp>
+  <trd lng="sk">potkýnanie</trd>
 </drv>
 
 <drv mrk="stumbl.0ilo">
@@ -125,6 +127,12 @@
 </art>
 <!--
 $Log: stumbl.xml,v $
+Revision 1.18  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/10/09 20:10:30  revo
 Jeromo Vasxe: + ~ilo
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: star.xml,v 1.30 2014/07/07 01:10:16 revo Exp $">
+<art mrk="$Id: star.xml,v 1.32 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>star</rad>/i <fnt><bib>PV</bib></fnt>
@@ -173,7 +173,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol;</trd>
-  <trd lng="cs">st&aacute;t</trd>
+  <trdgrp lng="cs">
+    <trd>nalézat se</trd>,
+    <trd>st&aacute;t</trd>
+  </trdgrp>
   <trd lng="de">stehen</trd>
   <trd lng="en">stand</trd>
   <trd lng="es">estar de pie</trd>
@@ -183,6 +186,10 @@
   <trd lng="nl">staan</trd>
   <trd lng="pt"> estar de p&eacute;</trd>
   <trd lng="ru">&c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>nachádzať sa</trd>,
+    <trd>stáť</trd>
+  </trdgrp>
   <trd lng="sv">st&aring;</trd>
 </drv>
 
@@ -236,9 +243,20 @@
     </ekz>
     <trd lng="hu">megb&iacute;z</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>postavit</trd>,
+    <trd>stanovit</trd>,
+    <trd>ustavit</trd>,
+    <trd>zavést</trd>,
+    <trd>zřídit</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>mettre <ind>debout</ind></trd>,
     <trd>monter<klr> (mettre en place)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>postaviť</trd>,
+    <trd>ustanoviť</trd>
   </trdgrp>
   <trd lng="sv">st&auml;lla</trd>
 </drv>
@@ -440,11 +458,21 @@
     </dif>
   </snc>
   <trd lng="be">&c_u;&c_s;&c_t;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>postavit se</trd>,
+    <trd>stanout</trd>,
+    <trd>ustavit se</trd>,
+    <trd>vstát</trd>
+  </trdgrp>
   <trd lng="de">aufstehen</trd>
   <trd lng="fr">se <ind>mettre debout</ind></trd>
   <trd lng="hu">fel&aacute;ll</trd>
   <trd lng="nl">opstaan</trd>
   <trd lng="ru">&c_v;&c_s;&c_t;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>postaviť sa</trd>,
+    <trd>povstať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="star.el0a">
@@ -490,9 +518,20 @@
     <trd lng="fr">grand<klr> (&eacute;minent)</klr></trd>
     <trd lng="ru">&c_v;&c_y;&c_d;&c_a;&c_ju;&c_shch;&c_i;&c_j;&c_s;&c_ja;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>náramný</trd>,
+    <trd>přečnívající vyčnívající</trd>,
+    <trd>skvělý</trd>,
+    <trd>vynikající</trd>,
+    <trd>špičkový</trd>
+  </trdgrp>
   <trd lng="de">hervorragend</trd>
   <trd lng="id">istimewa</trd>
   <trd lng="nl">uitstekend</trd>
+  <trdgrp lng="sk">
+    <trd>vynikajúci</trd>,
+    <trd>vyčnievajúci</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="star.el0i">
@@ -507,6 +546,13 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_t;&c_y;&c_r;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>excelovat</trd>,
+    <trd>trčet do výše</trd>,
+    <trd>vynikat</trd>,
+    <trd>vyčnívat</trd>,
+    <trd>čnět</trd>
+  </trdgrp>
   <trd lng="de">hervorstehen</trd>
   <trd lng="fr">d&eacute;passer<klr> (les autres)</klr></trd>
   <trd lng="hu">ki&aacute;ll</trd>
@@ -514,6 +560,7 @@
     <trd>&c_v;&c_y;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_v;&c_y;&c_s;&c_t;&c_u;&c_p;&c_a;&c_t;&c_mol;<klr tip="amb"> (&c_o; &c_ch;&c_jo;&c_m;-&c_l;.)</klr></trd>
   </trdgrp>
+  <trd lng="sk">vynikať</trd>
 </drv>
 
 <drv mrk="star.kontraux0i">
@@ -557,11 +604,16 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_a;&c_m;&c_a;&c_s;&c_t;&c_o;&c_j;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>neodvislý</trd>,
+    <trd>samostatný</trd>
+  </trdgrp>
   <trd lng="de">selbstst&auml;ndig</trd>
   <trd lng="fr">autonome</trd>
   <trd lng="hu">&ouml;n&aacute;ll&oacute;</trd>
   <trd lng="id">otonom</trd>
   <trd lng="ru">&c_s;&c_a;&c_m;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">samostatný</trd>
 </drv>
 
 <drv mrk="star.re0igi">
@@ -584,10 +636,16 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>navrátit</trd>,
+    <trd>obnovit</trd>,
+    <trd>uvést do původního stavu</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>restaurer</trd>,
     <trd>r&eacute;tablir</trd>
   </trdgrp>
+  <trd lng="sk">znova postaviť</trd>
 </drv>
 
 <drv mrk="star.senkontraux0e">
@@ -608,6 +666,12 @@
 </art>
 <!--
 $Log: star.xml,v $
+Revision 1.32  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.30  2014/07/07 01:10:16  revo
 Jeromo Vasxe: + senkontraux~e
 

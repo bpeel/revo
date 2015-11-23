@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: burgxo.xml,v 1.17 2011/03/17 21:10:09 revo Exp $">
+<art mrk="$Id: burgxo.xml,v 1.18 2015/10/07 11:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bur&gcirc;on</rad>/o <fnt><bib>PV</bib></fnt>
@@ -31,6 +31,7 @@
       <trd>p&aogonek;k</trd>,
       <trd>p&aogonek;czek</trd>
     </trdgrp>
+    <trd lng="pt">bot&atilde;o<klr> (de flor)</klr></trd>
     <trd lng="ru">&c_p;&c_o;&c_ch;&c_k;&c_a; <klr>(&c_n;&c_a;
     &c_d;&c_je;&c_r;&c_je;&c_v;&c_mol;&c_ja;&c_h;)</klr></trd>
   </snc>
@@ -106,6 +107,9 @@
 </art>
 <!--
 $Log: burgxo.xml,v $
+Revision 1.18  2015/10/07 11:10:26  revo
+Evandro Avellar: +trd pt
+
 Revision 1.17  2011/03/17 21:10:09  revo
 Jeromo Vasxe: - num + mrk
 
@@ -125,8 +129,5 @@ Revision 1.12  2003/05/15 16:32:27  revo
 Christopher Zervic: + ang
 
 Revision 1.11  2002/04/04 16:31:40  revo
-Ulrich Fellmann: + 4 germ trdj
-
-Revision 1.10  2002/04/02 17:55:38  revo
 -->
 </vortaro>

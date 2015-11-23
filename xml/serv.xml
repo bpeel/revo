@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: serv.xml,v 1.31 2014/07/12 19:10:16 revo Exp $">
+<art mrk="$Id: serv.xml,v 1.35 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>serv</rad>/i <fnt><bib>PV</bib></fnt>
@@ -80,7 +80,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_l;&c_u;&c_zh;&c_y;&c_c;&c_mol;</trd>
-  <trd lng="cs">slou&zcaron;it</trd>
+  <trdgrp lng="cs">
+    <trd>poskytovat službu</trd>,
+    <trd>slou&zcaron;it</trd>
+  </trdgrp>
   <trd lng="de">dienen</trd>
   <trd lng="en">serve</trd>
   <trd lng="es">servir</trd>
@@ -89,6 +92,10 @@
   <trd lng="it">servire</trd>
   <trd lng="nl">dienen</trd>
   <trd lng="ru">&c_s;&c_l;&c_u;&c_zh;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>prisluhovať</trd>,
+    <trd>slúžiť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="serv.0o">
@@ -125,6 +132,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_l;&c_u;&c_zh;&c_b;&c_a;</trd>
+  <trd lng="cs">služba</trd>
   <trd lng="de">Dienst</trd>
   <trd lng="es">servicio</trd>
   <trd lng="fr">service</trd>
@@ -132,6 +140,7 @@
   <trd lng="it">servizio</trd>
   <trd lng="nl">dienst</trd>
   <trd lng="ru">&c_s;&c_l;&c_u;&c_zh;&c_b;&c_a;</trd>
+  <trd lng="sk">služba</trd>
 </drv>
 
 <drv mrk="serv.0ado">
@@ -177,6 +186,10 @@
     <trd>&c_s;&c_l;&c_u;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
     <trd>&c_s;&c_l;&c_u;&c_zh;&c_b;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>sloužení</trd>,
+    <trd>služba</trd>
+  </trdgrp>
   <trd lng="de">Bedienen</trd>
   <trd lng="fr">service</trd>
   <trd lng="hu">szolg&aacute;lat</trd>
@@ -185,6 +198,7 @@
     <trd>&c_s;&c_l;&c_u;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_s;&c_l;&c_u;&c_zh;&c_b;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">obsluha</trd>
 </drv>
 
 <drv mrk="serv.0ema">
@@ -199,12 +213,23 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>koplezantní</trd>,
+    <trd>laskavý</trd>,
+    <trd>ochotný</trd>,
+    <trd>úslužný</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>complaisant</trd>,
     <trd>serviable</trd>
   </trdgrp>
   <trd lng="hu">szolg&aacute;latk&eacute;sz</trd>
   <trd lng="it">servile</trd>
+  <trdgrp lng="sk">
+    <trd>láskavý</trd>,
+    <trd>ochotný</trd>,
+    <trd>úslužný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="serv.0ilo">
@@ -219,9 +244,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_e;&c_r;&c_v;&c_e;&c_r;</trd>
+  <trd lng="cs">server</trd>
   <trd lng="de">Server</trd>
-  <trd lng="fr">serveur</trd>
   <trd lng="en">server</trd>
+  <trd lng="fr">serveur</trd>
   <trdgrp lng="hu">
     <trd>szerver</trd>,
     <trd>kiszolg&aacute;l&oacute;</trd>
@@ -230,6 +256,7 @@
   <trd lng="nl">server</trd>
   <trd lng="pl">serwer</trd>
   <trd lng="ru">&c_s;&c_je;&c_r;&c_v;&c_je;&c_r;</trd>
+  <trd lng="sk">server</trd>
 </drv>
 
 <drv mrk="serv.0isto">
@@ -257,12 +284,21 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_s;&c_l;&c_u;&c_g;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>sluha</trd>,
+    <trd>služebník</trd>
+  </trdgrp>
   <trd lng="de">Diener</trd>
   <trd lng="fr">serviteur</trd>
   <trd lng="hu">szolga</trd>
   <trd lng="it">servo</trd>
   <trd lng="nl">dienstbode</trd>
   <trd lng="ru">&c_s;&c_l;&c_u;&c_g;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>poskok</trd>,
+    <trd>sluha</trd>,
+    <trd>služobník</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="serv.0istaro">
@@ -277,7 +313,13 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>služebnictvo</trd>,
+    <trd>čeleď</trd>,
+    <trd>čeládka</trd>
+  </trdgrp>
   <trd lng="fr">domesticit&eacute;</trd>
+  <trd lng="sk">služobníctvo</trd>
 </drv>
 
 <drv mrk="serv.0istino">
@@ -308,6 +350,7 @@
     <trd>Bedienstete</trd>,
     <trd>Bedienung (weiblich)</trd>
   </trdgrp>
+  <trd lng="fr">servante</trd>
   <trd lng="hu">szolg&aacute;l&oacute;l&aacute;ny</trd>
   <trd lng="it">serva</trd>
   <trd lng="ru">&c_s;&c_l;&c_u;&c_zh;&c_a;&c_n;&c_k;&c_a;</trd>
@@ -362,6 +405,10 @@
     <trd>missa</trd>,
     <trd>ofici div&iacute;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bohoslužba</trd>,
+    <trd>pobožnost</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>culte</trd>,
     <trd>office religieux</trd>
@@ -370,6 +417,10 @@
   <trd lng="it">funzione<klr> religiosa</klr></trd>
   <trd lng="nl">eredienst</trd>
   <trd lng="ru">&c_b;&c_o;&c_g;&c_o;&c_s;&c_l;&c_u;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>konať bohoslužbu</trd>,
+    <trd>pobožnosť</trd>
+  </trdgrp>
   <trd lng="sv">gudstj&auml;nst</trd>
 </drv>
 
@@ -477,15 +528,53 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">sloužit na vojně</trd>
   <trdgrp lng="fr">
     <trd>faire son <ind>service</ind> militaire</trd>
     <trd>&ecirc;tre sous les <ind>drapeaux</ind></trd>
   </trdgrp>
   <trd lng="it">prestare <ind>servizio</ind> militare</trd>
+  <trd lng="sk">slúžiť na vojne</trd>
+</drv>
+
+<drv mrk="serv.sekret0o">
+  <kap>sekret<tld/>o,
+  <var><kap>sekreta <tld/>o</kap></var></kap>
+  <snc mrk="serv.sekret0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="vid" cel="spion.0i">Spion</ref>oficejo,
+      kiu &ccirc;iurimede kolektas informojn pri
+      aliaj regnoj, eventuale eksterle&gcirc;e agas en ili,
+      defendas la propran regnon kontra&ubreve;
+      fremdaj sekretaj servoj, terorismo kaj similaj:
+      <ekz>
+        la israela sekret<tld/>o estas konata kiel unu el 
+        la plej efikaj en la mondo 
+        <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u ni kunvenis 
+        vane?</vrk>, <lok>1982</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">secret service</trd>
+  <trd lng="fr">services secrets</trd>
+  <trd lng="it">servizio segreto</trd>
 </drv>
 </art>
 <!--
 $Log: serv.xml,v $
+Revision 1.35  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.34  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.33  2014/12/22 11:10:22  revo
+Damien Brucker: +trd fr
+
+Revision 1.32  2014/12/07 20:10:15  revo
+Jeromo Vasxe: + sekret~o
+
 Revision 1.31  2014/07/12 19:10:16  revo
 Jeromo Vasxe: + ~istaro
 
@@ -502,11 +591,5 @@ Revision 1.27  2009/02/10 14:18:53  revo
 Sebastian Cyprych: +trd pl -utf8
 
 Revision 1.26  2008/12/22 17:30:32  revo
-Marc Bavant: +drv milit~i, milit~o
-
-Revision 1.25 2006/09/22 19:54:12 revo
-Wolfram Diestel: +tezrad(REL)
-Revision 1.24 2006/09/22 12:26:56 revo
-Wolfram Diestel: +tezrad(KRI)
 -->
 </vortaro>

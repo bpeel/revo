@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: geril.xml,v 1.8 2010/06/06 16:30:43 revo Exp $">
+<art mrk="$Id: geril.xml,v 1.10 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>geril</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -38,14 +38,19 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>gerila</trd>,
+    <trd>partyzánská válka</trd>
+  </trdgrp>
   <trd lng="de">Guerilla</trd>
   <trd lng="en">guerilla war</trd>
+  <trd lng="es">guerrilla</trd>
   <trd lng="fr">gu&eacute;rilla</trd>
   <trd lng="hu">gerillaharc</trd>
   <trd lng="it">guerriglia</trd>
   <trd lng="nl">guerrilla</trd>
-  <trd lng="es">guerrilla</trd>
   <trd lng="pt">guerrilha</trd>
+  <trd lng="sk">partizánske boje</trd>
 </drv>
 
 <drv mrk="geril.0ano">
@@ -56,6 +61,10 @@
       Ano de grupo, praktikanta <tld/>on.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>makista</trd>,
+    <trd>partyzán</trd>
+  </trdgrp>
   <trd lng="de">Guerrillero</trd>
   <trd lng="en">guerilla</trd>
   <trd lng="es">guerrillero</trd>
@@ -63,11 +72,18 @@
   <trd lng="it">guerrigliero</trd>
   <trd lng="nl">guerrillastrijder</trd>
   <trd lng="pt">guerrilheiro</trd>
+  <trd lng="sk">partizánsky bojovník</trd>
 </drv>
 </art>
 
 <!--
 $Log: geril.xml,v $
+Revision 1.10  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2010/06/06 16:30:43  revo
 Antonio Codazzi: +trd it
 

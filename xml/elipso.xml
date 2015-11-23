@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: elipso.xml,v 1.13 2009/07/17 16:31:16 revo Exp $">
+<art mrk="$Id: elipso.xml,v 1.15 2015/07/04 08:37:33 revo Exp $">
 <kap>
 <rad>elipsoid</rad>/o
 </kap>
@@ -32,6 +32,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_e;&c_l;&c_ib;&c_p;&c_s;&c_o;&c_ib;&c_d;</trd>
+  <trd lng="cs">elipsoid</trd>
   <trd lng="de">Ellipsoid</trd>
   <trd lng="en">ellipsoid</trd>
   <trd lng="es">elipsoide</trd>
@@ -40,10 +41,17 @@
   <trd lng="pl">elipsoida</trd>
   <trd lng="pt">elips&oacute;ide</trd>
   <trd lng="ru">&c_e;&c_l;&c_l;&c_i;&c_p;&c_s;&c_o;&c_i;&c_d;</trd>
+  <trd lng="sk">elipsoid</trd>
 </drv>
 </art>
 <!--
 $Log: elipso.xml,v $
+Revision 1.15  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2009/07/17 16:31:16  revo
 Behnam Tabatabai: +trd fa
 

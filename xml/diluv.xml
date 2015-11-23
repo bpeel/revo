@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: diluv.xml,v 1.16 2013/08/08 14:10:14 revo Exp $">
+<art mrk="$Id: diluv.xml,v 1.18 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>diluv</rad>/o
@@ -39,6 +39,7 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_t;&c_o;&c_p;</trd>
   <trd lng="bg">&c_p;&c_o;&c_t;&c_o;&c_p;</trd>
+  <trd lng="cs">biblická potopa</trd>
   <trdgrp lng="de">
      <trd>Sintflut</trd>
   </trdgrp>
@@ -52,10 +53,17 @@
   <trd lng="pl">potop</trd>
   <trd lng="pt">dil&uacute;vio</trd>
   <trd lng="ru">&c_p;&c_o;&c_t;&c_o;&c_p;</trd>
+  <trd lng="sk">potopa</trd>
 </drv>
 </art>
 <!--
 $Log: diluv.xml,v $
+Revision 1.18  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/08/08 14:10:14  revo
 Joop Eggen: +trd bg
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: floren.xml,v 1.14 2013/09/22 19:11:29 revo Exp $">
+<art mrk="$Id: floren.xml,v 1.16 2015/07/04 08:37:34 revo Exp $">
 <kap>
 <ofc>2</ofc>
 <rad>floren</rad>/o
@@ -23,6 +23,12 @@
     </adm>
     <ref tip="vid" cel="gulden.0o">guldeno.</ref>
   </snc>
+  <trdgrp lng="cs">
+    <trd>florin</trd>,
+    <trd>florén</trd>,
+    <trd>zlatník</trd>,
+    <trd>zlatý</trd>
+  </trdgrp>
   <trd lng="de">Florin</trd>
   <trdgrp lng="en">
     <trd>florin</trd>,
@@ -37,10 +43,17 @@
   <trd lng="nl">florijn</trd>
   <trd lng="pt">florim</trd>
   <trd lng="ru">&c_f;&c_l;&c_o;&c_r;&c_i;&c_n;</trd>
+  <trd lng="sk">florén</trd>
 </drv>
 </art>
 <!--
 $Log: floren.xml,v $
+Revision 1.16  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2013/09/22 19:11:29  revo
 Wolfram Diestel: referenco al listo monunuoj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ej.xml,v 1.17 2012/09/05 08:10:14 revo Exp $">
+<art mrk="$Id: ej.xml,v 1.19 2015/07/04 08:37:33 revo Exp $">
 <kap>
 <ofc>*</ofc>
 -<rad>ej</rad></kap>
@@ -85,34 +85,47 @@
         konkreta a&ubreve; abstrakta.
       </rim>
     </snc>
-    <trdgrp lng="be">
+  <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_m;&c_ja;&c_sh;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
       <trd>&c_m;&c_je;&c_s;&c_c;&c_a;</trd>
     </trdgrp>
-    <trdgrp lng="ca">
+  <trdgrp lng="ca">
       <trd>indret</trd>,
       <trd>lloc</trd>
     </trdgrp>
-    <trdgrp lng="de">
+  <trdgrp lng="cs">
+    <trd>místnost</trd>,
+    <trd>místo</trd>,
+    <trd>prostor</trd>,
+    <trd>působiště</trd>
+  </trdgrp>
+  <trdgrp lng="de">
       <trd>Ort</trd>,
       <trd>Platz</trd>,
       <trd>Stelle</trd>,
       <trd>St&auml;tte</trd>
     </trdgrp>
-    <trdgrp lng="fr">
+  <trdgrp lng="fr">
       <trd>endroit</trd>,
       <trd>lieu</trd>,
-      <trd>local<klr tip="ind"> (subst.)</klr></trd></trdgrp> 
-    <trdgrp lng="hu">
+      <trd>local<klr tip="ind"> (subst.)</klr></trd></trdgrp>
+  <trdgrp lng="hu">
       <trd>hely</trd>,
       <trd>helyis&eacute;g</trd>
     </trdgrp>
-    <trd lng="ru">&c_p;&c_o;&c_m;&c_je;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
-  </drv>
+  <trd lng="ru">&c_p;&c_o;&c_m;&c_je;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">miestnosť</trd>
+</drv>
 </subart>
 </art>
 <!--
 $Log: ej.xml,v $
+Revision 1.19  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2012/09/05 08:10:14  revo
 Marc Rausell: ++ trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekzeku.xml,v 1.19 2014/01/04 02:10:14 revo Exp $">
+<art mrk="$Id: ekzeku.xml,v 1.21 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ekzekut</rad>/i <fnt><bib>PV</bib></fnt>
@@ -43,6 +43,11 @@
   <trd lng="fr">ex&eacute;cuter<klr tip="ind"> (un
   condamn&eacute;)</klr></trd>
   <trd lng="sv">avr&auml;tta</trd>
+  <trd lng="sk">popraviť</trd>
+  <trdgrp lng="cs">
+    <trd>popravit</trd>,
+    <trd>popravovat</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ekzeku.0o">
@@ -62,6 +67,10 @@
     <trd>execuci&oacute;</trd>,
     <trd>ajusticiament</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>exekuce</trd>,
+    <trd>poprava</trd>
+  </trdgrp>
   <trd lng="en">execution</trd>
   <trd lng="es">ejecuci&oacute;n</trd>
   <trd lng="fr">ex&eacute;cution<klr tip="ind"> (d'un
@@ -73,6 +82,10 @@
     <trd>ka&zacute;&nacute;</trd>
   </trdgrp>
   <trd lng="pt">execu&ccedil;&atilde;o</trd>
+  <trdgrp lng="sk">
+    <trd>poprava</trd>,
+    <trd>výkon rozsudku</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ekzeku.0ejo">
@@ -90,7 +103,12 @@
     <trd>&c_k;&c_a;&c_t;&c_o;&c_w;&c_n;&c_ja;</trd>,
     <trd>&c_z;&c_a;&c_s;&c_mol;&c_c;&c_je;&c_n;&c_a;&c_k;</trd>
   </trdgrp>
+  <trd lng="cs">popraviště</trd>
   <trd lng="fr">&eacute;chafaud</trd>
+  <trdgrp lng="sk">
+    <trd>popravisko</trd>,
+    <trd>popravisko</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ekzeku.0isto">
@@ -102,6 +120,10 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_t;</trd>
   <trd lng="ca">botx&iacute;</trd>
+  <trdgrp lng="cs">
+    <trd>kat</trd>,
+    <trd>popravčí</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Henker</trd>,
      <trd>Scharfrichter</trd>
@@ -120,6 +142,7 @@
   </trdgrp>
   <trd lng="pl">kat</trd>
   <trd lng="ru">&c_p;&c_a;&c_l;&c_a;&c_ch;</trd>
+  <trd lng="sk">kat</trd>
 </drv>
 
 <drv mrk="ekzeku.elektro0i">
@@ -145,10 +168,18 @@
   <trdgrp lng="pl">
     <trd>krzes&lstroke;o elektryczne<klr> (pot.)</klr></trd>
   </trdgrp>
+  <trd lng="sk">popraviť v el. kresle</trd>
+  <trd lng="cs">popravit na elektrickém křesle</trd>
 </drv>
 </art>
 <!--
 $Log: ekzeku.xml,v $
+Revision 1.21  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2014/01/04 02:10:14  revo
 Jeromo Vasxe: memstar ~ejo
 

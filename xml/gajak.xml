@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gajak.xml,v 1.16 2013/08/29 15:10:38 revo Exp $">
+<art mrk="$Id: gajak.xml,v 1.18 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <rad>gajak</rad>/o
 </kap>
@@ -19,6 +19,7 @@
     </dif>
   </snc>
   <trd lng="ca">guaiac</trd>
+  <trd lng="cs">guajak</trd>
   <trd lng="de">Guajakbaum</trd>
   <trd lng="en">lignum vitae</trd>
   <trd lng="fr">ga&iuml;ac</trd>
@@ -35,6 +36,7 @@
     <trd>&c_b;&c_a;&c_k;&c_a;&c_u;&c_t;&c_o;&c_v;&c_o;&c_je;
 &c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
   </trdgrp>
+  <trd lng="sk">guajak <klr>(bot)</klr></trd>
 </drv>
 <drv mrk="gajak.0ligno">
   <kap><tld/>ligno</kap>
@@ -56,7 +58,8 @@
   <trdgrp lng="nl">
     <trd>guajakhout</trd>,
     <trd>pokhout</trd></trdgrp>
-  </drv>
+  <trd lng="sk">guajakové drevo</trd>
+</drv>
   <trdgrp lng="pl">
     <trd>drewno <ind>gwajakowe</ind></trd>,
     <trd>drewno <ind>gwajakowca</ind></trd>
@@ -67,6 +70,12 @@ PIV1 preferas pli la&ubreve;skriban formon "gvajak" de la radiko.
 </art>
 <!--
 $Log: gajak.xml,v $
+Revision 1.18  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/08/29 15:10:38  revo
 Wolfram Diestel: referenco al listo bot genroj
 

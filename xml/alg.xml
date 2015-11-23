@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: alg.xml,v 1.25 2014/10/28 04:10:38 revo Exp $">
+<art mrk="$Id: alg.xml,v 1.27 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>alg</rad>/oj <fnt><bib>PV</bib></fnt>
@@ -34,6 +34,7 @@
   </trdgrp>
   <trd lng="bg">&c_v;&c_o;&c_d;&c_o;&c_r;&c_a;&c_s;&c_l;&c_i;</trd>
   <trd lng="ca">algues</trd>
+  <trd lng="cs">řasy</trd>
   <trd lng="de">Alge</trd>
   <trd lng="en">algae</trd>
   <trd lng="fa">&a_j;&a_l;&a_b;&f_k;</trd>
@@ -46,7 +47,10 @@
   <trd lng="nl">algen</trd>
   <trd lng="pt">algas</trd>
   <trd lng="ru">&c_v;&c_o;&c_d;&c_o;&c_r;&c_o;&c_s;&c_l;&c_i;</trd>
-  <trd lng="sk">morsk&eacute; <ind>riasy</ind></trd>
+  <trdgrp lng="sk">
+    <trd>morsk&eacute; <ind>riasy</ind></trd>,
+    <trd>riasy</trd>
+  </trdgrp>
   <trd lng="sv">alger</trd>
 </drv>
 
@@ -105,6 +109,7 @@
     <trd><ind>algues</ind> brunes</trd>,
     <trd>fe&ograve;fits</trd>
   </trdgrp>
+  <trd lng="cs">hnědé řasy</trd>
   <trd lng="de">Braunalgen</trd>
   <trd lng="en">brown algae</trd>
   <trd lng="fa">&a_j;&a_l;&a_b;&f_k;&zwnj;&a_h;&a_A;&f_y; &a_q;&a_h;&a_w;&a_h;&zwnj;&a_A;&f_y;</trd>
@@ -113,6 +118,7 @@
   <trd lng="id"><ind>alga</ind> cokelat</trd>
   <trd lng="nl">bruinalgen</trd>
   <trd lng="pt">algas marrons</trd>
+  <trd lng="sk">hnedé riasy</trd>
 </drv>
 
 <drv mrk="alg.rugx0oj">
@@ -163,6 +169,7 @@
     <trd><ind>algues</ind> verdes</trd>,
     <trd>clor&ograve;fits</trd>
   </trdgrp>
+  <trd lng="cs">zelené řasy</trd>
   <trd lng="de">Gr&uuml;nalgen</trd>
   <trd lng="en">green algae</trd>
   <trd lng="fa">&a_j;&a_l;&a_b;&f_k;&zwnj;&a_h;&a_A;&f_y; &a_s;&a_b;&a_z;</trd>
@@ -172,10 +179,17 @@
   <trd lng="la">Chlorophycota</trd>
   <trd lng="nl">groenalgen</trd>
   <trd lng="pt">algas verdes</trd>
+  <trd lng="sk">zelené riasy</trd>
 </drv>
 </art>
 <!--
 $Log: alg.xml,v $
+Revision 1.27  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.25  2014/10/28 04:10:38  revo
 Eko Nur Syah Hidayat: +trd id
 

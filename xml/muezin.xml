@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: muezin.xml,v 1.10 2013/04/03 12:10:17 revo Exp $">
+<art mrk="$Id: muezin.xml,v 1.12 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>muezin</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -18,6 +18,10 @@
   </snc>
   <trd lng="be">&c_m;&c_u;&c_e;&c_d;&c_z;&c_ib;&c_n;</trd>
   <trd lng="ca">muetz&iacute;</trd>
+  <trdgrp lng="cs">
+    <trd>muezin</trd>,
+    <trd>muezzin</trd>
+  </trdgrp>
   <trd lng="de">Muezzin</trd>
   <trd lng="en">muezzin</trd>
   <trdgrp lng="fa">
@@ -35,11 +39,18 @@
     <trd>muedem</trd>    
   </trdgrp>
   <trd lng="ru">&c_m;&c_u;&c_e;&c_d;&c_z;&c_i;&c_n;</trd>
+  <trd lng="sk">muezín</trd>
 </drv>
 </art>
 
 <!--
 $Log: muezin.xml,v $
+Revision 1.12  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2013/04/03 12:10:17  revo
 Sebastian Cyprych: +trd pl
 

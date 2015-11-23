@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: simi.xml,v 1.26 2014/09/13 08:10:11 revo Exp $">
+<art mrk="$Id: simi.xml,v 1.28 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>simi</rad>/o
@@ -20,22 +20,23 @@
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_l;&c_p;&c_a;</trd>
+  <trd lng="bg">&c_m;&c_a;&c_j;&c_m;&c_u;&c_n;&c_a;</trd>
   <trd lng="br">marmouz</trd>
   <trdgrp lng="ca">
     <trd>simi</trd>,
     <trd>mona, mico</trd>
   </trdgrp>
-  <trd lng="bg">&c_m;&c_a;&c_j;&c_m;&c_u;&c_n;&c_a;</trd>
+  <trd lng="cs">opice</trd>
   <trd lng="de">Affe</trd>
   <trdgrp lng="en">
      <trd>monkey</trd>,
      <trd>ape</trd>
   </trdgrp>
-  <trd lng="fr">singe</trd>
   <trdgrp lng="es">
     <trd>simio</trd>,
     <trd>mono</trd>
   </trdgrp>
+  <trd lng="fr">singe</trd>
   <trd lng="hu">majom</trd>
   <trdgrp lng="id">
     <trd>monyet</trd>,
@@ -59,15 +60,19 @@
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_m;&c_a;&c_t;&c_y;</trd>
   <trd lng="ca">primats</trd>
+  <trd lng="cs">vyšší primáti</trd>
   <trd lng="de">Herrentiere</trd>
   <trd lng="en">primates</trd>
+  <trd lng="fr">primates</trd>
   <trd lng="hu">f&odblac;eml&odblac;s&ouml;k</trd>
   <trd lng="id">primata</trd>
   <trd lng="it">primati</trd>
   <trd lng="pl">naczelne<klr tip="amb"> (rz&aogonek;d)</klr></trd>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_m;&c_a;&c_t;&c_y;<klr tip="amb"> (&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
-  <trd lng="sk">prim&aacute;ty</trd>
-  <trd lng="fr">primates</trd>
+  <trdgrp lng="sk">
+    <trd>prim&aacute;ty</trd>,
+    <trd>vyšší primáti</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="simi.0i">
@@ -83,6 +88,10 @@
   </snc>
   <trd lng="be">&c_m;&c_a;&c_l;&c_p;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">imitar</trd>
+  <trdgrp lng="cs">
+    <trd>napodobovat</trd>,
+    <trd>opičit se</trd>
+  </trdgrp>
   <trd lng="de">nach&auml;ffen</trd>
   <trd lng="en">ape</trd>
   <trd lng="fr">singer</trd>
@@ -91,11 +100,20 @@
   <trd lng="nl">na-apen</trd>
   <trd lng="pl">ma&lstroke;powa&cacute;</trd>
   <trd lng="ru">&c_o;&c_b;&c_je;&c_z;&c_mol;&c_ja;&c_n;&c_n;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>
-  <trd lng="sk">opi&ccaron;i&tcaron; sa</trd>
+  <trdgrp lng="sk">
+    <trd>napodobňovať</trd>,
+    <trd>opi&ccaron;i&tcaron; sa</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: simi.xml,v $
+Revision 1.28  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2014/09/13 08:10:11  revo
 Agustin Garcia Lopez: +trd(es)
 

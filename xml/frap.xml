@@ -2,34 +2,11 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frap.xml,v 1.24 2013/12/14 21:10:27 revo Exp $">
+<art mrk="$Id: frap.xml,v 1.28 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>frap</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
-<drv mrk="frap.0">
-  <kap><tld/></kap>
-  <gra><vspec>sonimito</vspec></gra>
-  <snc mrk="frap.0.SON">
-    <dif>
-      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
-      de <tld/>o;
-      <ref tip="vid" cel="bat.0.SON">bat</ref>:
-      <ekz>
-        signalo estis trifoja <tld/>o sur plej alta &scirc;tupo
-        <klr>...</klr> - <tld/>! - <tld/>! - <tld/>!
-        <fnt>
-          <aut>J. Mahen, trad. Moraviaj Esperanto-Pioniroj</aut>,
-          <vrk><url
-          ref="http://eo.wikisource.org/wiki/La_koboldo_Ondra">
-          La koboldo Ondra</url></vrk>,
-          <lok>1921</lok>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="fr">pan !</trd>
-</drv>
 
 <drv mrk="frap.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
@@ -200,6 +177,10 @@
     <trd lng="pl">uderza&cacute;</trd>
     <trd lng="ru">&c_p;&c_o;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>zabouchat</trd>,
+    <trd>zabušit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>klopfen</trd>,
     <trd>schlagen</trd>,
@@ -228,14 +209,45 @@
     <trd>saisir<klr tip="ind"> (frapper)</klr></trd>,
     <trd>taper</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>[<ind>ketok</ind>] mengetok</trd>,
+    <trd>[<ind>ketuk</ind>] mengetuk</trd>
+  </trdgrp>
   <trd lng="nl">slaan</trd>
   <trdgrp lng="pt">
     <trd>bater</trd>,
     <trd>golpear</trd>,
     <trd>percutir</trd>
   </trdgrp>
+  <trd lng="sk">zabúchať</trd>
   <trd lng="tp">utala</trd>
 </drv>
+
+<drv mrk="frap.0">
+  <kap><tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="frap.0.SON">
+    <dif>
+      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
+      de <tld/>o;
+      <ref tip="vid" cel="bat.0.SON">bat</ref>:
+      <ekz>
+        signalo estis trifoja <tld/>o sur plej alta &scirc;tupo
+        <klr>...</klr> - <tld/>! - <tld/>! - <tld/>!
+        <fnt>
+          <aut>J. Mahen, trad. Moraviaj Esperanto-Pioniroj</aut>,
+          <vrk><url
+          ref="http://eo.wikisource.org/wiki/La_koboldo_Ondra">
+          La koboldo Ondra</url></vrk>,
+          <lok>1921</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">pan !</trd>
+  <trd lng="id">tok !</trd>
+</drv>
+
 
 <drv mrk="frap.0o">
   <kap><tld/>o</kap>
@@ -258,6 +270,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>klep</trd>,
+    <trd>klepnutí</trd>,
+    <trd>úder</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>hit</trd>,
     <trd>knock</trd>,
@@ -266,6 +283,10 @@
   </trdgrp>
   <trd lng="es">golpe</trd>
   <trd lng="fr">coup</trd>
+  <trdgrp lng="id">
+    <trd>[<ind>ketok</ind>] ketokan</trd>,
+    <trd>[<ind>ketuk</ind>] ketukan</trd>
+  </trdgrp>
   <trd lng="nl">slag</trd>
   <trdgrp lng="pl">
     <trd>uderzenie</trd>,
@@ -279,6 +300,10 @@
     <trd>&c_s;&c_t;&c_u;&c_k;</trd>,
     <trd>&c_u;&c_d;&c_a;&c_r;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>klepnutie</trd>,
+    <trd>úder</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frap.0ado">
@@ -291,6 +316,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>klepání</trd>,
+    <trd>tepání</trd>,
+    <trd>tlukot</trd>,
+    <trd>tlučení</trd>
+  </trdgrp>
   <trd lng="nl">het <ind>slaan</ind></trd>
   <trdgrp lng="pl">
     <trd>uderzanie</trd>,
@@ -300,6 +331,7 @@
     <trd>walenie</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_t;&c_u;&c_k;</trd>
+  <trd lng="sk">klopanie</trd>
 </drv>
 
 <drv mrk="frap.0ilo">
@@ -313,6 +345,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">klepadlo</trd>
   <trdgrp lng="de">
     <trd>T&uuml;rklopfer</trd>,
     <trd>Schlagwerk <klr tip="ind">(Uhr)</klr></trd>
@@ -334,6 +367,10 @@
     <trd>m&lstroke;otek<klr> (w zegarze, pianinie</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_l;&c_o;&c_t;&c_u;&c_sh;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>klopadlo</trd>,
+    <trd>klopáč</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frap.0igxi">
@@ -412,9 +449,19 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>nápadný</trd>,
+    <trd>okatý</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>flagrant</trd>,
     <trd>voyant</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>krikľavý</trd>,
+    <trd>nápadný</trd>,
+    <trd>okatý</trd>,
+    <trd>zjavný</trd>
   </trdgrp>
 </drv>
 
@@ -456,10 +503,27 @@
     <trd lng="pl">udar s&lstroke;oneczny</trd>
     <trd lng="ru">&c_s;&c_o;&c_l;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j; &c_u;&c_d;&c_a;&c_r;</trd>
   </snc>
+  <trd lng="cs">spálenina || úžeh</trd>
+  <trdgrp lng="sk">
+    <trd>spálenie pokožky</trd>,
+    <trd>úžeh</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: frap.xml,v $
+Revision 1.28  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2015/02/24 21:10:18  revo
+Wolfram Diestel: + drv-ordo
+
+Revision 1.25  2014/11/19 08:10:40  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.24  2013/12/14 21:10:27  revo
 Jeromo Vasxe: + okul~a
 
@@ -476,11 +540,5 @@ Revision 1.20  2012/10/23 00:11:23  revo
 Neil Roberts: aldonu la etikedon <var>
 
 Revision 1.19  2011/03/02 13:10:10  revo
-Russ Williams: +trd en
-
-Revision 1.18  2009/01/28 17:30:17  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.17  2007/06/13 16:31:31  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: katara.xml,v 1.14 2013/10/09 19:11:13 revo Exp $">
+<art mrk="$Id: katara.xml,v 1.17 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>katarakt</rad>/o
@@ -18,6 +18,11 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_t;&c_a;&c_r;&c_a;&c_k;&c_t;&c_a;</trd>
   <trd lng="ca">cataracta</trd>
+  <trdgrp lng="cs">
+    <trd>katarakt</trd>,
+    <trd>peřeje</trd>,
+    <trd>stupňovitý vodopád</trd>
+  </trdgrp>
   <trdgrp lng="de">
   <trd>Katarakt</trd>, 
   <trd>Grauer Star</trd>
@@ -26,15 +31,30 @@
   <trd lng="es">catarata</trd>
   <trd lng="fr">cataracte<klr tip="ind"> (m&eacute;d.)</klr></trd>
   <trd lng="hu">sz&uuml;rkeh&aacute;lyog</trd>
+  <trd lng="id">katarak</trd>
   <trdgrp lng="nl">
     <trd>cataract</trd>,
     <trd>grauwe <ind>staar</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_a;&c_t;&c_a;&c_r;&c_a;&c_k;&c_t;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>beľmo</trd>,
+    <trd>katarakta</trd>,
+    <trd>šedý očný zákal</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: katara.xml,v $
+Revision 1.17  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/11/18 20:10:33  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.14  2013/10/09 19:11:13  revo
 Wolfram Diestel: ref al lst malsanoj
 
@@ -54,8 +74,5 @@ Revision 1.9  2002/10/27 17:11:40  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.8  2001/11/07 19:15:29  revo
-Ulrich Fellmann: + germ trd
-
-Revision 1.7  2001/09/10 18:11:16  revo
 -->
 </vortaro>

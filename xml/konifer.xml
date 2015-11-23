@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konifer.xml,v 1.19 2013/10/26 16:10:22 revo Exp $">
+<art mrk="$Id: konifer.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>konifer</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -18,6 +18,10 @@
   </snc>
   <trd lng="be">&c_h;&c_v;&c_o;&c_j;&c_n;&c_a;&c_je; &c_d;&c_r;&c_e;&c_v;&c_a;</trd>
   <trd lng="ca">con&iacute;fera</trd>
+  <trdgrp lng="cs">
+    <trd>jehličnan</trd>,
+    <trd>konifer</trd>
+  </trdgrp>
   <trd lng="en">conifer</trd>
   <trdgrp lng="fr">
     <trd>conif&egrave;re</trd>,
@@ -28,6 +32,7 @@
   <trd lng="pl">drzewo iglaste</trd>
   <trd lng="pt">con&iacute;fera</trd>
   <trd lng="ru">&c_h;&c_v;&c_o;&c_j;&c_n;&c_o;&c_je; &c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
+  <trd lng="sk">ihličnatý strom</trd>
   <trd lng="sv">barrtr&auml;d</trd>
 </drv>
 
@@ -46,6 +51,10 @@
     <trd>pin&ograve;psids</trd>,
     <trd>con&iacute;feres</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jehličnany</trd>,
+    <trd>konifery</trd>
+  </trdgrp>
   <trd lng="de">Koniferen</trd>
   <trdgrp lng="hu">
     <trd>tobozterm&odblac;k</trd>,
@@ -53,11 +62,21 @@
   </trdgrp>
   <trd lng="nl">coniferen</trd>
   <trd lng="ru">&c_h;&c_v;&c_o;&c_j;&c_n;&c_y;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>ihličiny</trd>,
+    <trd>ihličnaté rastliny</trd>
+  </trdgrp>
 </drv>
 
 </art>
 <!--
 $Log: konifer.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/10/26 16:10:22  revo
 Wolfram Diestel: ...nudsemaj plantoj, forigis adm
 

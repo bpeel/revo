@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: magm.xml,v 1.22 2009/06/19 05:09:52 revo Exp $">
+<art mrk="$Id: magm.xml,v 1.24 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>magm</rad>/o
 </kap>
@@ -37,11 +37,19 @@
     <uzo tip="fak">MAT</uzo>
     <ref tip="dif" cel="grupoi.0o">grupoido.</ref>
   </snc>
+  <trd lng="cs">magma</trd>
   <trd lng="nl">magma</trd>
+  <trd lng="sk">magma</trd>
 </drv>
 </art>
 <!--
 $Log: magm.xml,v $
+Revision 1.24  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2009/06/19 05:09:52  revo
 Behnam Tabatabai: +trd fa
 

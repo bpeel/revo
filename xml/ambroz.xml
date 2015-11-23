@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ambroz.xml,v 1.18 2013/07/26 11:10:11 revo Exp $">
+<art mrk="$Id: ambroz.xml,v 1.20 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>ambrozi</rad>/o
@@ -37,17 +37,32 @@
   </snc>
   <trd lng="be">&c_a;&c_m;&c_b;&c_r;&c_o;&c_z;&c_ib;&c_ja;</trd>
   <trd lng="bg">&c_a;&c_m;&c_b;&c_r;&c_o;&c_z;&c_i;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>ambrózie</trd>,
+    <trd>pokrm bohů</trd>,
+    <trd>přen. lahodné jídlo</trd>
+  </trdgrp>
   <trd lng="en">ambrosia</trd>
   <trd lng="es">ambros&iacute;a</trd>
   <trd lng="fr">ambroisie</trd>
   <trd lng="it">ambrosia</trd>
   <trd lng="nl">ambrozijn</trd>
   <trd lng="ru">&c_a;&c_m;&c_b;&c_r;&c_o;&c_z;&c_i;&c_ja;</trd>
-  <trd lng="sk">ambr&oacute;zia</trd>
+  <trdgrp lng="sk">
+    <trd>ambr&oacute;zia</trd>,
+    <trd>ambrózia</trd>,
+    <trd>pokrm bohov</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ambroz.xml,v $
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2013/07/26 11:10:11  revo
 Joop Eggen: +trd bg
 

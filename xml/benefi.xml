@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: benefi.xml,v 1.12 2009/03/12 17:32:17 revo Exp $">
+<art mrk="$Id: benefi.xml,v 1.14 2015/07/04 08:37:31 revo Exp $">
   <kap>
   <rad>benefic</rad>/o
   <fnt>Z</fnt>
@@ -27,10 +27,21 @@
       <trd lng="pl">benefis</trd>
       <trd lng="ru">&c_b;&c_je;&c_n;&c_je;&c_f;&c_i;&c_s;</trd>
     </snc>
-  </drv>
+  <trdgrp lng="cs">
+    <trd>benefice</trd>,
+    <trd>benefiční představení</trd>
+  </trdgrp>
+  <trd lng="sk">benefičné predstavenie</trd>
+</drv>
 </art>
 <!--
 $Log: benefi.xml,v $
+Revision 1.14  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2009/03/12 17:32:17  revo
 Wieland Pusch: +trd bg
 

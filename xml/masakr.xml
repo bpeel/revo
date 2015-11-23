@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: masakr.xml,v 1.13 2013/12/02 12:10:23 revo Exp $">
+<art mrk="$Id: masakr.xml,v 1.15 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>masakr</rad>/i
 </kap>
@@ -92,10 +92,25 @@
     </trdgrp>
     <trd lng="tr">katliyam</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hekatomba</trd>,
+    <trd>krveprolití</trd>,
+    <trd>masakr</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hromadné vraždenie</trd>,
+    <trd>masakra</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: masakr.xml,v $
+Revision 1.15  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2013/12/02 12:10:23  revo
 Damien Brucker: +trd fr
 

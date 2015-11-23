@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bismut.xml,v 1.22 2014/06/06 04:10:55 revo Exp $">
+<art mrk="$Id: bismut.xml,v 1.23 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bismut</rad>/o
@@ -22,8 +22,12 @@
   </snc>
   <trd lng="be">&c_v;&c_ib;&c_s;&c_m;&c_u;&c_t;</trd>
   <trd lng="bg">&c_b;&c_i;&c_s;&c_m;&c_u;&c_t;</trd>
-  <trd lng="ca">bismut</trd>
   <trd lng="br">bismut</trd>
+  <trd lng="ca">bismut</trd>
+  <trdgrp lng="cs">
+    <trd>bizmut</trd>,
+    <trd>vizmut</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Bismut</trd>,
     <trd>Wismut</trd>
@@ -45,6 +49,9 @@
 </art>
 <!--
 $Log: bismut.xml,v $
+Revision 1.23  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.22  2014/06/06 04:10:55  revo
 Eko Nur Syah Hidayat: +id
 

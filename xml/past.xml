@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: past.xml,v 1.27 2012/10/23 00:13:21 revo Exp $">
+<art mrk="$Id: past.xml,v 1.29 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>past</rad>/o
@@ -58,6 +58,10 @@
   </snc>
   <trd lng="br">toaz</trd>
   <trd lng="ca">pasta</trd>
+  <trdgrp lng="cs">
+    <trd>pasta</trd>,
+    <trd>těsto</trd>
+  </trdgrp>
   <trd lng="de">Teig</trd>
   <trd lng="en">dough</trd>
   <trd lng="es">pasta</trd>
@@ -66,6 +70,7 @@
     <trd>pasta</trd>,
     <trd>massa</trd>
   </trdgrp>
+  <trd lng="sk">cesto</trd>
   <trd lng="tp">ko</trd>
 </drv>
 
@@ -150,6 +155,7 @@
   <trd lng="be">&c_z;&c_u;&c_b;&c_n;&c_a;&c_ja; &c_p;&c_a;&c_s;&c_t;&c_a;</trd>
   <trd lng="bg">&c_p;&c_a;&c_s;&c_t;&c_a; &c_z;&c_a; &c_z;&c_malmol;&c_b;&c_i;&c_t;&c_je;</trd>
   <trd lng="br">toaz-dent</trd>
+  <trd lng="cs">pasta na zuby</trd>
   <trd lng="de">Zahnpasta</trd>
   <trdgrp lng="es">
     <trd>pasta de <klr tip="ind">dientes</klr></trd>,
@@ -159,6 +165,7 @@
   <trd lng="hu">fogkr&eacute;m</trd>
   <trd lng="nl">tandpasta</trd>
   <trd lng="ru">&c_z;&c_u;&c_b;&c_n;&c_a;&c_ja; &c_p;&c_a;&c_s;&c_t;&c_a;</trd>
+  <trd lng="sk">pasta na zuby</trd>
 </drv>
 
 <drv mrk="past.modlo0o">
@@ -173,6 +180,7 @@
   </snc>
   <trd lng="be">&c_p;&c_l;&c_ja;&c_s;&c_t;&c_y;&c_l;&c_ib;&c_n;</trd>
   <trd lng="br">toaz-merat</trd>
+  <trd lng="cs">modelovací hmota</trd>
   <trdgrp lng="de">
     <trd>Plastilin</trd>,
     <trd>Knetmasse</trd>
@@ -185,6 +193,7 @@
     <trd>boetseerklei</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_l;&c_a;&c_s;&c_t;&c_i;&c_l;&c_i;&c_n;</trd>
+  <trd lng="sk">modelovacia hmota</trd>
 </drv>
 
 <drv mrk="past.tomat0o">
@@ -210,6 +219,12 @@
 </art>
 <!--
 $Log: past.xml,v $
+Revision 1.29  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.27  2012/10/23 00:13:21  revo
 Neil Roberts: aldonu la etikedon <var>
 

@@ -2,39 +2,11 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bat.xml,v 1.41 2014/10/30 10:10:17 revo Exp $">
+<art mrk="$Id: bat.xml,v 1.45 2015/10/03 03:10:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bat</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
-<drv mrk="bat.0">
-  <kap><tld/></kap>
-  <gra><vspec>sonimito</vspec></gra>
-  <snc mrk="bat.0.SON">
-    <dif>
-      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
-      de <tld/>o, de io subite trafanta ion;
-      <ref tip="vid" cel="bac.0.SON">bac</ref>,
-      <ref tip="vid" cel="frap.0.SON">frap</ref>:
-      <ekz>
-        A&ubreve; &ccirc;u venas, sur aero, ripetata frapo? /
-        Pulso-frapo-pulsofrapo- <tld/>' <tld/>' <tld/>';
-        <fnt>
-          <aut>C. N. Newell</aut>,
-          <vrk>Afrika nokto</vrk>,
-          <lok><url
-          ref="http://literaturamondo.org/PDF/1937/LM%201937-05c.pdf">
-          Literatura Mondo, 1937:5</url></lok>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trdgrp lng="es">
-    <trd>&#161;bam!</trd>,
-    <trd>&#161;paf!</trd>
-  </trdgrp>
-  <trd lng="fr">paf !</trd>
-</drv>
 
 <drv mrk="bat.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
@@ -74,6 +46,7 @@
       <trd>paln&aogonek;&cacute;</trd>,
       <trd>r&aogonek;bn&aogonek;&cacute;</trd>
     </trdgrp>
+
   </snc>
   <snc mrk="bat.0i.movi">
     <gra><vspec>ntr</vspec></gra>
@@ -125,7 +98,11 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_ib;&c_c;&c_mol;</trd>
-  <trd lng="cs">b&iacute;t</trd>
+  <trdgrp lng="cs">
+    <trd>b&iacute;t</trd>,
+    <trd>ude&rcaron;it</trd>,
+    <trd>zabu&scaron;it <klr>(srdce)</klr></trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>schlagen</trd>,
     <trd>hauen</trd>,
@@ -151,16 +128,51 @@
     <trd>&uuml;t</trd>,
     <trd>ver</trd>
   </trdgrp>
+  <trd lng="pt">bater</trd>
   <trdgrp lng="ru">
     <trd>&c_b;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_k;&c_o;&c_l;&c_o;&c_t;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_d;&c_a;&c_r;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_d;&c_a;&c_r;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">bi&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>bi&tcaron;</trd>,
+    <trd>odb&iacute;ja&tcaron;</trd>,
+    <trd>udrie&tcaron;</trd>
+  </trdgrp>
   <trd lng="sv">sl&aring;</trd>
   <trd lng="tp">utala</trd>
 </drv>
+
+<drv mrk="bat.0">
+  <kap><tld/></kap>
+  <gra><vspec>ekkrio</vspec></gra>
+  <snc mrk="bat.0.SON">
+    <dif>
+      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
+      de <tld/>o, de io subite trafanta ion;
+      <ref tip="vid" cel="bac.0.SON">bac</ref>,
+      <ref tip="vid" cel="frap.0.SON">frap</ref>:
+      <ekz>
+        A&ubreve; &ccirc;u venas, sur aero, ripetata frapo? /
+        Pulso-frapo-pulsofrapo- <tld/>' <tld/>' <tld/>';
+        <fnt>
+          <aut>C. N. Newell</aut>,
+          <vrk>Afrika nokto</vrk>,
+          <lok><url
+          ref="http://literaturamondo.org/PDF/1937/LM%201937-05c.pdf">
+          Literatura Mondo, 1937:5</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="es">
+    <trd>&#161;bam!</trd>,
+    <trd>&#161;paf!</trd>
+  </trdgrp>
+  <trd lng="fr">paf !</trd>
+</drv>
+
 
 <drv mrk="bat.0o">
   <kap><tld/>o</kap>
@@ -187,6 +199,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_u;&c_d;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>klep&aacute;n&iacute;</trd>,
+    <trd>tep</trd>,
+    <trd>tlukot</trd>
+  </trdgrp>
   <trd lng="de">Schlag</trd>
   <trd lng="en">hit</trd>
   <trdgrp lng="es">
@@ -208,6 +225,11 @@
     <trd>chla&sacute;ni&eogonek;cie</trd>
   </trdgrp>
   <trd lng="ru">&c_u;&c_d;&c_a;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>klepanie</trd>,
+    <trd>tep</trd>,
+    <trd>tlkot</trd>
+  </trdgrp>
   <trd lng="sv">slag</trd>
 </drv>
 
@@ -237,6 +259,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_b;&c_ib;&c_c;&c_mol;&c_c;&c_jo;</trd>
+  <trdgrp lng="cs">
+    <trd>bit&iacute;</trd>,
+    <trd>ml&aacute;cen&iacute;</trd>,
+    <trd>tlu&ccaron;en&iacute;</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>beating</trd>,
     <trd>barrage</trd>
@@ -258,6 +285,11 @@
     <trd>&c_b;&c_i;&c_t;&c_mol;&c_jo;</trd>,
     <trd>&c_b;&c_i;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_u;&c_d;&c_a;&c_r;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>klepanie</trd>,
+    <trd>tep</trd>,
+    <trd>tlkot</trd>
   </trdgrp>
 </drv>
 
@@ -311,6 +343,12 @@
       </trdgrp>
     </subsnc>
   </snc>
+  <trdgrp lng="cs">
+    <trd>klepa&ccaron;</trd>,
+    <trd>pl&aacute;ca&ccaron;ka</trd>,
+    <trd>p&aacute;lka</trd>,
+    <trd>tlouk</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>batidora</trd>,
     <trd>bate (de hockey, b&eacute;isbol)</trd>
@@ -322,6 +360,10 @@
   <trdgrp lng="ru">
     <trd>&c_b;&c_i;&#769;&c_l;&c_o;</trd>,
     <trd>&c_k;&c_o;&c_l;&c_o;&c_t;&c_u;&c_sh;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>p&aacute;lka</trd>,
+    <trd>raketa</trd>
   </trdgrp>
 </drv>
 
@@ -370,6 +412,11 @@
     <trd>&c_s;&c_b;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_b;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">debatova&tcaron;</trd>
+  <trdgrp lng="cs">
+    <trd>debatovat</trd>,
+    <trd>diskutovat</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bat.dis0i">
@@ -396,6 +443,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>rozb&iacute;t</trd>,
+    <trd>rozklepat</trd>,
+    <trd>rozrazit</trd>
+  </trdgrp>
   <trd lng="de">zerschlagen</trd>
   <trd lng="en">smash</trd>
   <trdgrp lng="es">
@@ -419,6 +471,7 @@
     <trd>&c_r;&c_a;&c_z;&c_b;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_b;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">rozbi&tcaron;</trd>
 </drv>
 
 <drv mrk="bat.el0i">
@@ -440,6 +493,13 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>rozb&iacute;jet</trd>,
+    <trd>vyb&iacute;jet</trd>,
+    <trd>vyb&iacute;t</trd>,
+    <trd>vytlouci</trd>,
+    <trd>vytloukat</trd>
+  </trdgrp>
   <trd lng="de">herausschlagen</trd>
   <trd lng="en">strike out</trd>
   <trdgrp lng="es">
@@ -458,6 +518,10 @@
   <trdgrp lng="ru">
     <trd>&c_v;&c_y;&c_b;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_b;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vyb&iacute;ja&tcaron;</trd>,
+    <trd>vyt&lacute;ka&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -479,6 +543,14 @@
     </dif>
   </snc>
   <trd lng="be">&c_u;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>natlouci</trd>,
+    <trd>vb&iacute;t</trd>,
+    <trd>vtlouci</trd>,
+    <trd>zab&iacute;t</trd>,
+    <trd>zarazit</trd>,
+    <trd>zatlouci</trd>
+  </trdgrp>
   <trd lng="de">einschlagen</trd>
   <trd lng="en">drive in</trd>
   <trdgrp lng="es">
@@ -499,6 +571,10 @@
     <trd>&c_v;&c_b;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_b;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_b;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vbi&tcaron;</trd>,
+    <trd>zat&lacute;c&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -543,6 +619,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_u;&c_d;&c_a;&c_r;&c_y;&c_c;&c_mol; &c_r;&c_o;&c_g;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>p&iacute;chnout rohem</trd>,
+    <trd>trkat</trd>,
+    <trd>trknout</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>cornear</trd>,
     <trd>empitonar</trd>
@@ -559,6 +640,10 @@
   <trdgrp lng="ru">
     <trd>&c_b;&c_o;&c_d;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_d;&c_a;&c_i;&c_t;&c_mol; &c_r;&c_o;&c_g;&c_o;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>picha&tcaron; rohom</trd>,
+    <trd>trka&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -621,8 +706,10 @@
     <dif>
       &Gcirc;ismorte <tld/>i.
     </dif>
-  </snc> <trd lng="be">&c_b;&c_ib;&c_c;&c_mol; 
+  </snc>
+  <trd lng="be">&c_b;&c_ib;&c_c;&c_mol; 
     &c_d;&c_a; &c_s;&c_mol;&c_m;&c_je;&c_r;&c_c;&c_ib;</trd>
+  <trd lng="cs">d&aacute;t <klr>(n&ecaron;komu)</klr> smrtelnou r&aacute;nu</trd>
   <trd lng="de">totschlagen</trd>
   <trd lng="en">beat to death</trd>
   <trd lng="es">luchar a muerte</trd>
@@ -630,7 +717,11 @@
   <trd lng="hu">agyonver</trd>
   <trd lng="pl">zat&lstroke;uc<klr> na &sacute;mier&cacute;</klr></trd>
   <trd lng="ru">&c_z;&c_a;&c_b;&c_i;&c_t;&c_mol; &c_d;&c_o; &c_s;&c_m;&c_je;&c_r;&c_t;&c_i;</trd>
-  <trd lng="sk">dobi&tcaron; <klr>(na smr&tcaron;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>dobi&tcaron; <klr>(na smr&tcaron;)</klr></trd>,
+    <trd>usmrti&tcaron;</trd>,
+    <trd>zabi&tcaron; <klr>(&uacute;derom)</klr></trd>
+  </trdgrp>
   <trd lng="sv">sl&aring; ihj&auml;l</trd>
 </drv>
 
@@ -668,6 +759,14 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>dupat</trd>,
+    <trd>dupnout</trd>,
+    <trd>kopat</trd>,
+    <trd>kopat nohou</trd>,
+    <trd>nakopat</trd>,
+    <trd>zadupat</trd>
+  </trdgrp>
   <trd lng="de">mit den F&uuml;&szlig;en treten (Fu&szlig;tritt)</trd>
   <trd lng="es">dar una patada</trd>
   <trdgrp lng="fr">
@@ -676,6 +775,7 @@
   </trdgrp>
   <trd lng="pl">kopn&aogonek;&cacute;</trd>
   <trd lng="ru">&c_p;&c_i;&c_n;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">kopa&tcaron; <klr>(nohou)</klr></trd>
   <trd lng="sv">sparka</trd>
 </drv>
 
@@ -687,10 +787,18 @@
       <tld lit="B"/>o de la preferata flanko.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>facka</trd>,
+    <trd>r&aacute;na dlan&iacute;</trd>
+  </trdgrp>
   <trd lng="de">Vorhand</trd>
   <trd lng="en">forehand</trd>
   <trd lng="es">derechazo</trd>
   <trd lng="fr">coup droit</trd>
+  <trdgrp lng="sk">
+    <trd>facka</trd>,
+    <trd>&uacute;der dla&ncaron;ou</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bat.re0i">
@@ -708,6 +816,12 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>odp&aacute;lit</trd>,
+    <trd>odrazit r&aacute;nu</trd>,
+    <trd>vr&aacute;tit r&aacute;nu</trd>,
+    <trd>znovu uhodit</trd>
+  </trdgrp>
   <trd lng="de">zur&uuml;ckschlagen</trd>
   <trdgrp lng="en">
     <trd>strike back</trd>,
@@ -735,6 +849,10 @@
   <trdgrp lng="ru">
     <trd>&c_o;&c_t;&c_b;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_t;&c_b;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vr&aacute;ti&tcaron; ranu</trd>,
+    <trd>znova udrie&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -804,6 +922,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">prorazit</trd>
   <trdgrp lng="de">
     <trd>durchschlagen</trd>, <trd>freischlagen</trd>
   </trdgrp>
@@ -822,6 +941,10 @@
     <trd>&c_p;&c_r;&c_o;&c_b;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_b;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prebi&tcaron;</trd>,
+    <trd>prerazi&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bat.venko0i">
@@ -839,6 +962,10 @@
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_m;&c_a;&c_g;&c_ch;&c_y; 
     <klr tip="amb">(&c_u; &c_b;&c_o;&c_j;&c_c;&c_y;, 
       &c_z;&c_m;&c_a;&c_g;&c_a;&c_n;&c_mol;&c_n;&c_ib;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>porazit</trd>,
+    <trd>v&iacute;t&ecaron;zn&ecaron; rozdrtit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>besiegen</trd>,
     <trd>schlagen</trd>
@@ -858,7 +985,10 @@
     <trd>&c_s;&c_o;&c_k;&c_r;&c_u;&c_sh;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_b;&c_i;&c_t;&c_mol;<klr> (&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_n;&c_i;&c_k;&c_a;)</klr></trd>
   </trdgrp>
-  <trd lng="sk">doby&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>doby&tcaron;</trd>,
+    <trd>porazi&tcaron;</trd>
+  </trdgrp>
 </drv>
 <adm>
   Interesaj pliaj deriva&jcirc;oj kun bibliaj ekz-oj:
@@ -873,6 +1003,18 @@
 </art>
 <!--
 $Log: bat.xml,v $
+Revision 1.45  2015/10/03 03:10:39  revo
+Evandro Avellar: +trd pt
+
+Revision 1.44  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.43  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.42  2015/02/24 20:10:14  revo
+Wolfram Diestel: + drv-ordo
+
 Revision 1.41  2014/10/30 10:10:17  revo
 Guillermo Molleda Jimena: trd es
 
@@ -883,17 +1025,5 @@ Revision 1.39  2014/10/25 07:10:14  revo
 Damien Brucker: -fak cxe netra~ebla
 
 Revision 1.38  2014/10/24 03:10:22  revo
-Jeromo Vasxe: + netra~ebla
-
-Revision 1.37  2014/05/30 01:10:28  revo
-Jeromo Vasxe: + inter~igxo
-
-Revision 1.36  2014/05/08 18:11:23  revo
-Jeromo Vasxe: + lav~ilo
-
-Revision 1.35  2013/10/17 19:10:23  revo
-Wolfram Diestel: kor. stl-etikedon
-
-Revision 1.34  2013/10/15 01:10:16  revo
 -->
 </vortaro>

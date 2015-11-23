@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cikori.xml,v 1.22 2009/09/14 16:31:00 revo Exp $">
+<art mrk="$Id: cikori.xml,v 1.24 2015/07/04 08:37:32 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>cikori</rad>/o</kap>
 <drv mrk="cikori.0o">
@@ -70,10 +70,24 @@
   <trd lng="pt">chic&oacute;ria</trd>
   <trd lng="ru">&c_c;&c_i;&c_k;&c_o;&c_r;&c_i;&c_j;</trd>
   <trd lng="sv">cikoria</trd>
+  <trdgrp lng="sk">
+    <trd>cigória</trd>,
+    <trd>čakanka</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>cikorie</trd>,
+    <trd>čekanka</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: cikori.xml,v $
+Revision 1.24  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2009/09/14 16:31:00  revo
 Behnam Tabatabai: +trd fa
 

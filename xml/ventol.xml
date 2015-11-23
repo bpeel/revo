@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ventol.xml,v 1.17 2013/07/31 10:10:11 revo Exp $">
+<art mrk="$Id: ventol.xml,v 1.19 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ventol</rad>/i
@@ -50,6 +50,10 @@ neta&ubreve;gan
     <trd lng="nl">wannen</trd>
     <trd lng="ru">&c_p;&c_r;&c_o;&c_v;&c_je;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>ventilovat</trd>,
+    <trd>větrat</trd>
+  </trdgrp>
   <trd lng="el">&alfa;&epsilon;&rho;&jota_ton;&zeta;&omega;</trd>
   <trd lng="en">ventilate</trd>
   <trdgrp lng="fr">
@@ -58,6 +62,11 @@ neta&ubreve;gan
     <trd>ventiler</trd>
   </trdgrp>
   <trd lng="pt">ventilar</trd>
+  <trdgrp lng="sk">
+    <trd>prevetrať</trd>,
+    <trd>ventilovať</trd>,
+    <trd>vetrať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ventol.0ilo">
@@ -91,6 +100,11 @@ neta&ubreve;gan
     <trd lng="nl">wan</trd>
     <trd lng="ru">&c_v;&c_je;&c_ja;&c_l;&c_k;&c_a;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>ventilátor</trd>,
+    <trd>větrák</trd>
+  </trdgrp>
+  <trd lng="el">&alfa;&ny;&epsilon;&my;&jota;&sigma;&tau;&eta_ton;&rho;&alfa;&sigma_fina;</trd>
   <trdgrp lng="en">
     <trd>ventilator</trd>,
     <trd>ventilating fan</trd>,
@@ -102,12 +116,22 @@ neta&ubreve;gan
     <trd>van</trd>,
     <trd>ventilateur</trd>
   </trdgrp>
-  <trd lng="el">&alfa;&ny;&epsilon;&my;&jota;&sigma;&tau;&eta_ton;&rho;&alfa;&sigma_fina;</trd>
   <trd lng="pt">ventilador</trd>
+  <trdgrp lng="sk">
+    <trd>2.vejačka</trd>,
+    <trd>ventilátor</trd>,
+    <trd>veterník</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ventol.xml,v $
+Revision 1.19  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2013/07/31 10:10:11  revo
 Joop Eggen: +trd bg
 

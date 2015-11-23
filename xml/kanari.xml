@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kanari.xml,v 1.16 2013/09/01 14:10:50 revo Exp $">
+<art mrk="$Id: kanari.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kanari</rad>/o
@@ -27,6 +27,7 @@
     <trd>gafarr&oacute;</trd>,
     <trd>llucareta</trd>
   </trdgrp>
+  <trd lng="cs">kanár</trd>
   <trdgrp lng="de">
     <trd>Kanarienvogel</trd>,
     <trd>Girlitz</trd>
@@ -40,10 +41,17 @@
   <trd lng="hu">kan&aacute;ri</trd>
   <trd lng="nl">kanarie</trd>
   <trd lng="ru">&c_k;&c_a;&c_n;&c_a;&c_r;&c_je;&c_j;&c_k;&c_a;</trd>
+  <trd lng="sk">kanárik</trd>
 </drv>
 </art>
 <!--
 $Log: kanari.xml,v $
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/09/01 14:10:50  revo
 Wolfram Diestel: referenco al listo bot genroj
 

@@ -2,9 +2,9 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koneks.xml,v 1.21 2009/07/12 16:30:43 revo Exp $">
+<art mrk="$Id: koneks.xml,v 1.24 2015/07/04 08:37:37 revo Exp $">
 <kap>
-  <rad>koneks</rad>/a
+  <rad>koneks</rad>/a <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="koneks.0a">
   <kap><tld/>a</kap>
@@ -64,6 +64,12 @@
     </subsnc>
     <trd lng="fa">&a_h;&a_m;&a_b;&a_n;&a_d;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>souvislý</trd>,
+    <trd>souvisící</trd>,
+    <trd>spojitý</trd>,
+    <trd>vzájemně závislý</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>verbunden</trd>,
     <trd>verkn&uuml;pft</trd>,
@@ -71,6 +77,43 @@
   </trdgrp>
   <trd lng="nl">samenhangend</trd>
   <trd lng="pt">conexo</trd>
+  <trdgrp lng="sk">
+    <trd>spojitý</trd>,
+    <trd>súvisiaci</trd>,
+    <trd>súvislý</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="koneks.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="koneks.0o.KOMUNE">
+    <dif>
+      Konstanta, proksima rilato,
+      <ref tip="vid" cel="lig.0o.kioligas">ligo</ref>:
+      <ekz>
+        kun <klr>[fiziko kaj pedagogio]</klr> la fizikdidaktiko havas 
+        senperajn <tld/>ojn
+        <fnt>
+          <aut>J. Brockmeyer</aut>,
+          <vrk><url
+          ref="https://scienca-revuo.info/article/download/481/460">
+          Scienca Objekto kaj Metodoj de la Fakdidaktikoj</url></vrk>,
+          <lok>Scienca Revuo, 1988 (155)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>přípoj</trd>,
+    <trd>spoj</trd>,
+    <trd>spojení</trd>
+  </trdgrp>
+  <trd lng="fr">accointance</trd>
+  <trdgrp lng="sk">
+    <trd>prípoj</trd>,
+    <trd>spoj</trd>,
+    <trd>spojenie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="koneks.0ega">
@@ -85,6 +128,7 @@
       <ref cel="voj.0o.grafeo">vojo</ref>, kiu ilin ligas.
     </dif>
   </snc>
+  <trd lng="cs">silně souvislý <klr>(orientovaný graf)</klr></trd>
   <trd lng="de">stark zusammenh&auml;ngend<klr tip="ind"> (-er
   Graph)</klr></trd>
   <trd lng="en">strongly connected<klr tip="ind"> (graph)</klr></trd>
@@ -95,6 +139,30 @@
   <ind>sp&oacute;jny</ind></trd>
   <trd lng="ru">&c_s;&c_i;&c_l;&c_mol;&c_n;&c_o; <ind>&c_s;&c_v;&c_ja;&c_z;&c_n;&c_y;&c_j;</ind><klr tip="ind">
   (&c_g;&c_r;&c_a;&c_f;)</klr></trd>
+  <trd lng="sk">silne súvislý <klr>(orientovaný graf)</klr></trd>
+</drv>
+
+<drv mrk="koneks.0ekun">
+  <kap><tld/>e kun</kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="koneks.0ekun.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="lig.0ekun.KOMUNE">Lige kun</ref>,
+      <ref tip="vid" cel="rilat.0e">rilate al</ref>:
+      <ekz>
+        <tld/>e kun tio, ke lupojn minacas kompleta ekstermo, 
+        lastatempe alti&gcirc;is la interesi&gcirc;o pri ili 
+        <fnt>
+          <aut>J. &Scirc;uvajev</aut>,
+          <vrk><url
+          ref="http://www.eventoj.hu/steb/zoologio/konduto_de_bestoj/f874-p30.htm">
+          Pri la konduto de bestoj</url></vrk>,
+          <lok>Fokuso, 1987:1, p. 2a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">en lien avec</trd>
 </drv>
 
 <drv mrk="koneks.simple0a">
@@ -109,6 +177,7 @@
       &gcirc;i estas <ref cel="homoto.0a.vojoj">homotopa</ref> al punkto.
     </dif>
   </snc>
+  <trd lng="cs">jednoduše souvislý</trd>
   <trd lng="de">einfach <ind>zusammenh&auml;ngend</ind><klr tip="ind"> (-er
   Raum)</klr></trd>
   <trd lng="en">simply <ind>connected</ind><klr tip="ind">
@@ -119,6 +188,7 @@
   <trd lng="pl"><klr tip="amb">(przestrze&nacute;) </klr>jednosp&oacute;jna</trd>
   <trd lng="ru">&c_o;&c_d;&c_n;&c_o;&c_s;&c_v;&c_ja;&c_z;&c_n;&c_o;&c_je;<klr tip="amb">
   (&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  <trd lng="sk">jednoducho súvislý</trd>
 </drv>
 
 <drv mrk="koneks.voj0a">
@@ -163,6 +233,15 @@
 </art>
 <!--
 $Log: koneks.xml,v $
+Revision 1.24  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/12/30 21:10:14  revo
+Jeromo Vasxe: + ~o, ~e kun
+
 Revision 1.21  2009/07/12 16:30:43  revo
 Behnam Tabatabai: +trd fa
 
@@ -182,8 +261,5 @@ Revision 1.15  2002/11/18 17:34:28  revo
 Marc Bavant: +drv ~ega; +frm
 Revision 1.14 2002/10/27 17:13:32 revo
 Marc Bavant: ~a MAT: reordigis al subsnc, +subsnc; snc MAT: +trd pl
-Revision 1.13 2002/08/25 19:01:27 revo
-Marc Bavant: +ref interna
-Revision 1.12 2002/06/16 17:33:20 revo
 -->
 </vortaro>

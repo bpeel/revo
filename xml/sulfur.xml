@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sulfur.xml,v 1.20 2014/06/03 09:10:23 revo Exp $">
+<art mrk="$Id: sulfur.xml,v 1.22 2015/07/04 08:37:44 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>sulfur</rad>/o
@@ -22,33 +22,47 @@
        metalaj kombina&jcirc;oj.
      </dif>
    </snc>
-   <trd lng="be">&c_s;&c_je;&c_r;&c_a;</trd>
-   <trd lng="bg">&c_s;&c_ja;&c_r;&c_a;</trd>
-   <trdgrp lng="br">
+  <trd lng="be">&c_s;&c_je;&c_r;&c_a;</trd>
+  <trd lng="bg">&c_s;&c_ja;&c_r;&c_a;</trd>
+  <trdgrp lng="br">
      <trd>soufr</trd>,
      <trd>sulfur</trd>
    </trdgrp>
-   <trd lng="ca">sofre</trd>
-   <trd lng="de">Schwefel</trd>
-   <trd lng="en">sulfur</trd>
-   <trd lng="es">azufre</trd>
-   <trd lng="fr">soufre</trd>
-   <trd lng="hu">k&eacute;n</trd>
-   <trdgrp lng="id">
+  <trd lng="ca">sofre</trd>
+  <trdgrp lng="cs">
+    <trd>S</trd>,
+    <trd>síra</trd>
+  </trdgrp>
+  <trd lng="de">Schwefel</trd>
+  <trd lng="en">sulfur</trd>
+  <trd lng="es">azufre</trd>
+  <trd lng="fr">soufre</trd>
+  <trd lng="hu">k&eacute;n</trd>
+  <trdgrp lng="id">
      <trd>belerang</trd>,
      <trd>sulfur</trd>
    </trdgrp>
-   <trd lng="it">zolfo</trd>
-   <trd lng="la">Sulphur</trd>
-   <trd lng="nl">zwavel</trd>
-   <trd lng="pl">siarka</trd>
-   <trd lng="pt">enxofre</trd>
-   <trd lng="ru">&c_s;&c_je;&c_r;&c_a;</trd>
-   <trd lng="sv">svavel</trd>
+  <trd lng="it">zolfo</trd>
+  <trd lng="la">Sulphur</trd>
+  <trd lng="nl">zwavel</trd>
+  <trd lng="pl">siarka</trd>
+  <trd lng="pt">enxofre</trd>
+  <trd lng="ru">&c_s;&c_je;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>S</trd>,
+    <trd>síra</trd>
+  </trdgrp>
+  <trd lng="sv">svavel</trd>
 </drv>
 </art>
 <!--
 $Log: sulfur.xml,v $
+Revision 1.22  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2014/06/03 09:10:23  revo
 Eko Nur Syah Hidayat: +id
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trafik.xml,v 1.17 2014/10/28 04:11:09 revo Exp $">
+<art mrk="$Id: trafik.xml,v 1.19 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>trafik</rad>/o <fnt><bib>PV</bib></fnt>
@@ -66,6 +66,13 @@
     <trd>&c_s;&c_u;&c_v;&c_ja;&c_z;&c_mol;</trd>,
     <trd>&c_z;&c_n;&c_o;&c_s;&c_ib;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>cestovní ruch</trd>,
+    <trd>doprava</trd>,
+    <trd>frekvence</trd>,
+    <trd>provoz</trd>,
+    <trd>přeprava</trd>
+  </trdgrp>
   <trd lng="de">Verkehr</trd>
   <trd lng="en">traffic</trd>
   <trdgrp lng="fr">
@@ -83,6 +90,11 @@
     tip="amb">(&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_r;&c_t;&c_n;&c_o;&c_je;)</klr></trd>,
     <trd>&c_t;&c_r;&c_a;&c_f;&c_i;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>doprava</trd>,
+    <trd>premávka</trd>,
+    <trd>ruch</trd>
+  </trdgrp>
   <trd lng="sv">trafik</trd>
 </drv>
 
@@ -99,12 +111,17 @@
     </dif>
   </snc>
   <trd lng="ca">transitar</trd>
+  <trdgrp lng="cs">
+    <trd>dopravovat</trd>,
+    <trd>provozovat dopravu</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>circuler<klr> (en v&eacute;hicule)</klr></trd>,
     <trd>se <ind>d&eacute;placer</ind><klr> (par un moyen de
     transport)</klr></trd>
   </trdgrp>
   <trd lng="id">[<ind>lalu</ind> lintas] berlalu lintas</trd>
+  <trd lng="sk">dopravovať</trd>
 </drv>
 
 <drv mrk="trafik.0ilo">
@@ -122,6 +139,7 @@
     </dif>    
   </snc>
   <trd lng="ca">mitj&agrave; de transport</trd>
+  <trd lng="cs">dopravní prostředek</trd>
   <trd lng="fr">moyen de transport</trd>
   <trd lng="hu">k&ouml;zleked&eacute;si eszk&ouml;z</trd>
   <trd lng="id"><ind>alat</ind> transportasi</trd>
@@ -129,10 +147,17 @@
     <trd>&sacute;rodek <ind>komunikacji</ind></trd>,
     <trd>&sacute;rodek <ind>transportu</ind></trd>
   </trdgrp>
+  <trd lng="sk">dopravný prostriedok</trd>
 </drv>
 </art>
 <!--
 $Log: trafik.xml,v $
+Revision 1.19  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2014/10/28 04:11:09  revo
 Eko Nur Syah Hidayat: +trd id
 

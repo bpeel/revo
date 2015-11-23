@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rod.xml,v 1.14 2014/04/07 12:10:18 revo Exp $">
+<art mrk="$Id: rod.xml,v 1.16 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rod</rad>/o
@@ -18,6 +18,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_j;&c_d; <klr>(&c_m;&c_a;&c_r;&c_s;&c_k;&c_ib;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>kotviště</trd>,
+    <trd>rejda</trd>
+  </trdgrp>
   <trd lng="de">Reede</trd>
   <trdgrp lng="en">
     <trd>road<klr> (nautical)</klr></trd>,
@@ -34,10 +38,21 @@
   <trd lng="nl">rede</trd>
   <trd lng="pt">enseada</trd>
   <trd lng="ru">&c_r;&c_je;&c_j;&c_d; <klr tip="amb">(&c_m;&c_o;&c_r;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>kotvište</trd>,
+    <trd>otvorené prístavisko</trd>,
+    <trd>rejda</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: rod.xml,v $
+Revision 1.16  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2014/04/07 12:10:18  revo
 Damien Brucker: +trd fr
 

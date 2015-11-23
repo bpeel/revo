@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: suspensi.xml,v 1.7 2013/04/05 19:10:15 revo Exp $">
+<art mrk="$Id: suspensi.xml,v 1.10 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>suspensi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,6 +27,11 @@
     <trd>&c_s;&c_u;&c_s;&c_p;&c_e;&c_n;&c_z;&c_ib;&c_ja;</trd>
   </trdgrp>
   <trd lng="ca">suspensi&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>pérování</trd>,
+    <trd>zavěšení</trd>,
+    <trd>závěs</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>flottement<klr> (chimie)</klr></trd>,
     <trd>suspension<klr> (chimie)</klr></trd>
@@ -36,6 +41,8 @@
     <trd>lebeg&eacute;s<klr> (k&eacute;miai)</klr></trd>
   </trdgrp>
   <trd lng="it">sospensione<klr> (ch.)</klr></trd>
+  <trd lng="nl">suspensie</trd>
+  <trd lng="no">suspensjon</trd>
   <trdgrp lng="pl">
     <trd>zawieszenie</trd>,
     <trd>zwis</trd>
@@ -44,11 +51,25 @@
     <trd>&c_v;&c_z;&c_v;&c_je;&c_s;&c_mol;</trd>,
     <trd>&c_s;&c_u;&c_s;&c_p;&c_je;&c_n;&c_z;&c_i;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pérovanie</trd>,
+    <trd>zavesenie</trd>,
+    <trd>záves</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: suspensi.xml,v $
+Revision 1.10  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:25  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2015/04/13 23:10:12  revo
+Filip van Laenen: +trd(nl,no)
+
 Revision 1.7  2013/04/05 19:10:15  revo
 Sebastian Cyprych: +trd pl
 
@@ -68,7 +89,5 @@ Revision 1.2  2004/11/05 17:31:39  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.1  2004/01/19 17:31:51  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

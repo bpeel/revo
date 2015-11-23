@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hezit.xml,v 1.21 2009/09/10 16:31:32 revo Exp $">
+<art mrk="$Id: hezit.xml,v 1.23 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>hezit</rad>/i
@@ -54,6 +54,13 @@
     <trd>&c_b;&c_y;&c_c;&c_mol; &c_u; <ind>&c_n;&c_je;&c_r;&c_a;&c_sh;&c_u;&c_ch;&c_a;&c_s;&c_mol;&c_c;&c_ib;</ind></trd>
   </trdgrp>
   <trd lng="bg">&c_b;&c_a;&c_v;&c_ja; &c_s;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>být na rozpacích</trd>,
+    <trd>kolísat</trd>,
+    <trd>otálet</trd>,
+    <trd>rozpakovat se</trd>,
+    <trd>váhat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>z&ouml;gern</trd>,
     <trd>zaudern</trd>
@@ -79,6 +86,11 @@
     <trd>&c_k;&c_o;&c_l;&c_je;&c_b;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_n;&c_je; &c_r;&c_je;&c_sh;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>otáľať</trd>,
+    <trd>váhať</trd>,
+    <trd>zdráhať sa</trd>
+  </trdgrp>
   <trd lng="sv">tveka</trd>
 </drv>
 
@@ -95,6 +107,10 @@
     <trd>&c_h;&c_ib;&c_s;&c_t;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
     <trd>&c_n;&c_je;&c_r;&c_a;&c_sh;&c_u;&c_ch;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>okolky</trd>,
+    <trd>váhání</trd>
+  </trdgrp>
   <trd lng="de">Z&ouml;gern</trd>
   <trd lng="fr">h&eacute;sitation</trd>
   <trd lng="it">esitazione</trd>
@@ -102,6 +118,10 @@
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_l;&c_je;&c_b;&c_a;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_n;&c_je;&c_r;&c_je;&c_sh;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>okolky</trd>,
+    <trd>váhanie</trd>
   </trdgrp>
 </drv>
 
@@ -114,6 +134,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_r;&c_a;&c_sh;&c_u;&c_ch;&c_y;</trd>
+  <trd lng="cs">váhavý</trd>
   <trdgrp lng="de">
     <trd>z&ouml;gerlich</trd>,
     <trd>zaudernd</trd>,
@@ -129,6 +150,7 @@
   </trdgrp>
   <trd lng="pt">hesitante</trd>
   <trd lng="ru">&c_n;&c_je;&c_r;&c_je;&c_sh;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">váhavý</trd>
 </drv>
 
 <drv mrk="hezit.sen0a">
@@ -162,6 +184,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">bez váhání</trd>
   <trdgrp lng="de">
     <trd>ohne zu z&ouml;gern</trd>,
     <trd>ohne Z&ouml;gern</trd>,
@@ -177,10 +200,17 @@
     <trd>&c_r;&c_je;&c_sh;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;</trd>,
     <trd>&c_b;&c_je;&c_z; <ind>&c_k;&c_o;&c_l;&c_je;&c_b;&c_a;&c_n;&c_i;&c_j;</ind></trd>
   </trdgrp>
+  <trd lng="sk">bez váhania</trd>
 </drv>
 </art>
 <!--
 $Log: hezit.xml,v $
+Revision 1.23  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.21  2009/09/10 16:31:32  revo
 Antonio Codazzi: +trd it
 

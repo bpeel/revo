@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gargar.xml,v 1.19 2012/10/23 00:11:30 revo Exp $">
+<art mrk="$Id: gargar.xml,v 1.21 2015/07/04 08:37:34 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>gargar</rad>/i</kap>
 <drv mrk="gargar.0i">
@@ -85,12 +85,24 @@
       <trd>&c_p;&c_r;&c_o;&c_b;&c_u;&c_r;&c_ch;&c_a;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>blekotat</trd>,
+    <trd>kloktat</trd>,
+    <trd>máchat</trd>,
+    <trd>oplachovat</trd>
+  </trdgrp>
   <trd lng="en">gargle</trd>
   <trdgrp lng="fr">
     <trd>rincer</trd>,
     <trd>gargariser</trd>,
     <trd>bredouiller</trd>,
     <trd>gargouiller<klr tip="ind"> (des paroles)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hrdlo</trd>,
+    <trd>kloktať</trd>,
+    <trd>plákať</trd>,
+    <trd>vyplachovať ústa</trd>
   </trdgrp>
 </drv>
 
@@ -114,6 +126,12 @@
 </art>
 <!--
 $Log: gargar.xml,v $
+Revision 1.21  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2012/10/23 00:11:30  revo
 Neil Roberts: aldonu la etikedon <var>
 

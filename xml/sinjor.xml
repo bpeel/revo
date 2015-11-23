@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sinjor.xml,v 1.24 2014/07/11 16:10:13 revo Exp $">
+<art mrk="$Id: sinjor.xml,v 1.28 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>sinjor</rad>/o
+  <rad>sinjor</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="sinjor.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -86,7 +86,11 @@
     <trd lng="ru">&c_g;&c_o;&c_s;&c_p;&c_o;&c_d;&c_mol;</trd>
   </snc>
   <trd lng="ca">senyor</trd>
-  <trd lng="cs">p&aacute;n</trd>
+  <trdgrp lng="cs">
+    <trd>p&aacute;n</trd>,
+    <trd>signor</trd>,
+    <trd>signore</trd>
+  </trdgrp>
   <trd lng="de">Herr</trd>
   <trdgrp lng="en">
     <trd>Mister</trd>,
@@ -104,6 +108,7 @@
     <trd>meneer</trd>
   </trdgrp>
   <trd lng="pl">pan</trd>
+  <trd lng="sk">pán</trd>
   <trdgrp lng="tr">
     <trd>bay</trd>,
     <trd>bey</trd>
@@ -129,13 +134,16 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="ca">senyoret</trd>
+  <trd lng="cs">panský synek</trd>
   <trd lng="fr">jeune monsieur</trd>
+  <trd lng="sk">panský syn</trd>
 </drv>
 
 <drv mrk="sinjor.0ino">
   <kap><ofc>*</ofc><tld/>ino</kap>
   <mlg>s-ino</mlg>
-  <snc>
+  <snc mrk="sinjor.0ino.KOMUNE">
     <dif>
       &Gcirc;entila titolo uzata por edzini&gcirc;intaj virinoj:
       <ekz>
@@ -158,6 +166,7 @@
     </refgrp>
   </snc>
   <trd lng="ca">senyora</trd>
+  <trd lng="cs">signora <klr>(siňora)</klr></trd>
   <trd lng="de">Frau</trd>
   <trdgrp lng="es">
     <trd>se&ntilde;ora</trd>,
@@ -175,28 +184,35 @@
   <trd lng="id">nyonya</trd>
   <trd lng="nl">mevrouw</trd>
   <trd lng="pl">pani</trd>
+  <trd lng="ru">&c_g;&c_o;&c_s;&c_p;&c_o;&c_zh;&c_a;</trd>
+  <trd lng="sk">signora <klr>(seňora)</klr></trd>
   <trdgrp lng="tr">
     <trd>bayan</trd>,
     <trd>han&inodot;m</trd>
   </trdgrp>
-  <trd lng="ru">&c_g;&c_o;&c_s;&c_p;&c_o;&c_zh;&c_a;</trd>
 </drv>
 
 <drv mrk="sinjor.grand0o">
   <kap>grand<tld/>o</kap>
-  <snc>
+  <snc mrk="sinjor.grand0o.NOB">
     <dif>
       Altranga <ref tip="super" cel="nobel.0o">nobelo</ref>;
-      <ref tip="sin" cel="grand.0ulo.nobelo">grandulo</ref>.
+      <ref tip="sin" cel="grand.0ulo.nobelo">grandulo</ref>:
+      <ekz>
+        grand<tld/>aj manieroj<fnt>Z</fnt>.
+      </ekz>
     </dif>
-    <ekz>
-      grand<tld/>aj manieroj<fnt>Z</fnt>.
-    </ekz>
   </snc>
   <trdgrp lng="ca">
     <trd><ind>alt </ind>noble</trd>,
     <trd>arist&ograve;crata</trd>,
     <trd>emin&egrave;ncia</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>grand</trd>,
+    <trd>magnát</trd>,
+    <trd>majetný člověk</trd>,
+    <trd>velmož</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>grand seigneur</trd>,
@@ -208,10 +224,65 @@
   </trdgrp>
   <trd lng="nl">grand seigneur</trd>
   <trd lng="ru">&c_g;&c_r;&c_a;&c_n;&c_d;</trd>
+  <trd lng="sk">veľkomožný pán</trd>
+</drv>
+
+<drv mrk="sinjor.0umi">
+  <kap><tld/>umi</kap>
+  <snc mrk="sinjor.0umi.MOR">
+    <gra><vspec>ntr</vspec></gra>
+    <dif>
+      Senrajte afekti sintenon de <tld/>o, de superulo:
+      <ekz>
+        la Brita Imperio forsendis milionojn, precipe 
+        senta&ubreve;gulojn, al siaj kolonioj, por tie <tld/>umi 
+        super la enlo&gcirc;antoj
+        <fnt>
+          <aut>K. Miner</aut>,
+          <vrk><url
+          ref="http://www.sunflower.com/~miner/TAGLIBRO_package/Oktobro_2005.html">
+          Reta taglibro</url></vrk>,
+          <lok>2005-10-15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">faire l'important</trd>
+  </snc>
+  <snc mrk="sinjor.0umi.alparole">
+    <gra><vspec>tr</vspec></gra>
+    <dif>
+      Alparoli per &leftquot;<tld/>o&rightquot;:
+      <ekz>
+        &mdash; Estimata Sinjoro <klr>...</klr>
+        &mdash; Mi &scirc;atus se vi ne <tld/>umus min
+        <fnt>
+          <aut>S. Johansson</aut>,
+          <vrk><url
+          ref="https://groups.yahoo.com/neo/groups/per-esperanto-literaturo/conversations/topics/88">
+          sveda verkisto</url></vrk>,
+          <lok>Literaturo en kaj per Esperanto, 2001-12-16</lok>
+        </fnt>
+      </ekz>
+    </dif>
+    <trd lng="fr">donner du <ind>monsieur</ind> &agrave; qqun</trd>
+  </snc>
+  <trd lng="ca">senyorejar</trd>
 </drv>
 </art>
 <!--
 $Log: sinjor.xml,v $
+Revision 1.28  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2015/04/04 22:10:16  revo
+Josep-Enric Peres-i-Blesa: Aldono de novaj tradukoj katalunaj
+
+Revision 1.25  2014/12/13 23:10:13  revo
+Jeromo Vasxe: + ~umi
+
 Revision 1.24  2014/07/11 16:10:13  revo
 Eko Nur Syah Hidayat: +id
 
@@ -228,11 +299,5 @@ Revision 1.20  2004/10/13 16:32:25  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.19  2004/03/01 17:31:35  revo
-Jeromo Vasxe: + kk ekz fundam. k. a.
-
-Revision 1.18 2003/09/04 16:32:13 revo
-Yury Finkel: +trd ru, zh
-
-Revision 1.17 2003/03/16 19:29:38 revo
 -->
 </vortaro>

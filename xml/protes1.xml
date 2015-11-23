@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: protes1.xml,v 1.17 2012/01/02 18:10:18 revo Exp $">
+<art mrk="$Id: protes1.xml,v 1.21 2015/10/27 11:10:17 revo Exp $">
 <kap>
   <rad>protestant</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -28,15 +28,22 @@
       <trd>evangelischer Christ</trd>,
       <trd>Evangele</trd>
     </trdgrp>
+    <trd lng="en">Protestant</trd>
     <trdgrp lng="fr">
       <trd>&eacute;vang&eacute;lique<klr> (protestant)</klr></trd>,
       <trd>protestant</trd>
     </trdgrp>
     <trd lng="hu">protest&aacute;ns</trd>
     <trd lng="nl">protestant</trd>
+    <trd lng="pl">protestant</trd>
     <trd lng="pt">protestante <klr>(rel.)</klr></trd>
     <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_je;&c_s;&c_t;&c_a;&c_n;&c_t;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>nekatol&iacute;k</trd>,
+    <trd>protestant</trd>
+  </trdgrp>
+  <trd lng="sk">protestant</trd>
 </drv>
 
 <drv mrk="protes1.0a">
@@ -55,12 +62,19 @@
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_t;&c_e;&c_s;&c_t;&c_a;&c_n;&c_c;&c_k;&c_ib;</trd>
   <trd lng="ca">protestant <klr>(adj.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>protestantsk&yacute;</trd>,
+    <trd>protestuj&iacute;c&iacute;</trd>
+  </trdgrp>
+  <trd lng="en">Protestant</trd>
   <trdgrp lng="fr">
     <trd>&eacute;vang&eacute;lique<klr> (protestant)</klr></trd>,
     <trd>protestant</trd>
   </trdgrp>
   <trd lng="hu">protest&aacute;ns</trd>
   <trd lng="nl">protestants</trd>
+  <trd lng="pl">protestancki</trd>
+  <trd lng="sk">protestantsk&yacute;</trd>
 </drv>
 
 <drv mrk="protes1.0ismo">
@@ -83,9 +97,11 @@
     <trd>evangelische Konfession</trd>,
     <trd>lutherische Konfession</trd>
   </trdgrp>
+  <trd lng="en">Protestantism</trd>
   <trd lng="fr">protestantisme</trd>
   <trd lng="hu">protestantizmus</trd>
   <trd lng="nl">protestantisme</trd>
+  <trd lng="pl">protestantyzm</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_je;&c_s;&c_t;&c_a;&c_n;&c_t;&c_s;&c_t;&c_v;&c_o;</trd>
 </drv>
 <rim>
@@ -96,6 +112,18 @@
 </art>
 <!--
 $Log: protes1.xml,v $
+Revision 1.21  2015/10/27 11:10:17  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2015/10/04 15:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2012/01/02 18:10:18  revo
 Marc Rausell: +trd ca
 
@@ -106,17 +134,5 @@ Revision 1.15  2009/11/07 17:31:06  revo
 Paul Peeraerts: +nl
 
 Revision 1.14  2006/04/02 17:03:01  revo
-Tulio Flores: +tr pt
-
-Revision 1.13  2003/07/23 17:42:19  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12  2002/08/08 17:32:28  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11  2002/08/04 17:32:32  revo
-Jeromo Vasxe: memkor: + ,
-
-Revision 1.10  2002/08/03 18:54:30  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mojos.xml,v 1.7 2013/10/03 10:10:12 revo Exp $">
+<art mrk="$Id: mojos.xml,v 1.9 2015/11/04 13:10:19 revo Exp $">
 <kap>
     <rad>mojos</rad>/a
     <fnt><bib>Viki</bib></fnt>
@@ -20,6 +20,11 @@
     </dif>
   </snc>
   <trd lng="en">cool</trd>
+  <trdgrp lng="es">
+    <trd>chulo</trd>,
+    <trd>majo</trd>,
+    <trd>genial</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>relax</trd>,
     <trd>sympa</trd>
@@ -39,28 +44,38 @@
 <drv mrk="mojos.0eco">
   <kap><tld/>eco</kap>
   <snc>
-     <dif>
+    <dif>
        Stato de tio, kio estas <tld/>a.
-     </dif>
-   </snc>
+    </dif>
+  </snc>
+  <trd lng="en">coolness</trd>
+  <trd lng="es">algo fant&aacute;stico</trd>
 </drv>
 
 <drv mrk="mojos.0ejo">
   <kap><tld/>ejo</kap>
   <snc>
-     <dif>
-       <tld lit="M"/>a renkontejo, renkonto, retpa&gcirc;o; gejunulejo:
-       <ekz>
-          MOJOsejo, alternativa semajno por gejunuloj
-          <klr>(gejunula renkonto en kastelo Gresiljono)</klr>.
-       </ekz>
-     </dif>
-   </snc>
+    <dif>
+      <tld lit="M"/>a renkontejo, renkonto, retpa&gcirc;o; gejunulejo:
+      <ekz>
+         MOJOsejo, alternativa semajno por gejunuloj
+         <klr>(gejunula renkonto en kastelo Gresiljono)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">cool place</trd>
+  <trd lng="es">sitio de reuni&oacute;n de moda</trd>
 </drv>
 </art>
 
 <!--
 $Log: mojos.xml,v $
+Revision 1.9  2015/11/04 13:10:19  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.8  2015/06/18 10:10:19  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.7  2013/10/03 10:10:12  revo
 Damien Brucker: Aldono de mojoseco
 
@@ -76,12 +91,6 @@ Sebastian Cyprych: +trd pl
 
 Revision 1.3  2013/09/17 07:10:09  revo
 Damien Brucker: +trd
-
-Revision 1.2  2013/09/16 16:10:13  revo
-Damien Brucker: Aldono de ekzemplo
-
-Revision 1.1  2013/09/16 10:10:10  revo
-Damien Brucker: nova artikolo
 
 -->
 </vortaro>

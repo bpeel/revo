@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tromp.xml,v 1.21 2009/02/06 17:59:35 revo Exp $">
+<art mrk="$Id: tromp.xml,v 1.24 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>tromp</rad>/i
+  <rad>tromp</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="tromp.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
@@ -61,9 +61,20 @@
       <ref cel="polv.0o">polvo</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="lat">
+    <trd>decipio, ere</trd>,
+    <trd>fallo, ere</trd>
+  </trdgrp>
   <trdgrp lng="be">
     <trd>&c_a;&c_sh;&c_u;&c_k;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_a;&c_d;&c_m;&c_a;&c_n;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>klamat</trd>,
+    <trd>mýlit</trd>,
+    <trd>ošidit</trd>,
+    <trd>podvádět</trd>,
+    <trd>zklamat</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>entt&auml;uschen</trd>,
@@ -88,10 +99,6 @@
     <trd>csal</trd>,
     <trd lng="hu">megcsal</trd>,
     <trd lng="hu">megker&uuml;l</trd>
-  </trdgrp>
-  <trdgrp lng="lat">
-    <trd>decipio, ere</trd>,
-    <trd>fallo, ere</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>bedriegen</trd>,
@@ -119,6 +126,12 @@
     <trd>&c_o;&c_b;&c_m;&c_a;&c_n;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_b;&c_m;&c_a;&c_n;&c_u;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>oklamať</trd>,
+    <trd>ošialiť</trd>,
+    <trd>ošudiť</trd>,
+    <trd>podviesť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tromp.0a">
@@ -138,10 +151,18 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="lat">
+    <trd>dolosus</trd>,
+    <trd>fallax</trd>
+  </trdgrp>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_d;&c_m;&c_a;&c_n;&c_l;&c_ib;&c_v;&c_y;</trd>,
     <trd>&c_z;&c_m;&c_a;&c_n;&c_l;&c_ib;&c_v;&c_y;</trd>,
     <trd>&c_a;&c_sh;&c_u;&c_k;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>klamný</trd>,
+    <trd>podvodný</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>t&auml;uschend</trd>,
@@ -155,10 +176,6 @@
     <trd>csal&oacute;</trd>,
     <trd>megt&eacute;veszt&odblac;</trd>
   </trdgrp>
-  <trdgrp lng="lat">
-    <trd>dolosus</trd>,
-    <trd>fallax</trd>
-  </trdgrp>
   <trd lng="nl">bedrieglijk</trd>
   <trdgrp lng="pl">
     <trd>oszuka&nacute;czy</trd>,
@@ -167,6 +184,39 @@
   <trdgrp lng="ru">
     <trd>&c_o;&c_b;&c_m;&c_a;&c_n;&c_ch;&c_i;&c_v;&c_y;&c_j;</trd>,
     <trd>&c_o;&c_b;&c_m;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>klamný</trd>,
+    <trd>lživý</trd>,
+    <trd>podvodný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tromp.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tromp.0o.KOMUNE">
+    <dif>
+      Konscia, ruza kredigo de malvera&jcirc;o, misgvido, 
+      erarigo:
+      <ekz>
+        la <tld/>on en liaj paroloj neniu rimarkis
+        <fnt>
+          <aut>Manashi Dasgupta, trad. G. Gharbaari</aut>,
+          <vrk>Dormanta Hejmaro</vrk>,
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>tromp</trd>,
+    <trd>trompa</trd>
+  </trdgrp>
+  <trd lng="fr">tromperie</trd>
+  <trdgrp lng="sk">
+    <trd>klam</trd>,
+    <trd>klamstvo</trd>,
+    <trd>podvod</trd>
   </trdgrp>
 </drv>
 
@@ -204,7 +254,7 @@
   </snc>
   <snc mrk="tromp.0igxi.erari">
     <uzo tip="stl">EVI</uzo>
-    <ref tip="dif" cel="erar.0i.opinii">erari <sncref/></ref>
+    <ref tip="dif" cel="erar.0i.opinii">erari<sncref/></ref>
     <ekz>
       balda&ubreve; ni vidis, ke ni <tld/>i&gcirc;is
       <fnt><bib>F</bib>, <lok>&FE; 40</lok></fnt>.
@@ -225,8 +275,7 @@
     <trd>&c_p;&c_a;&c_d;&c_m;&c_a;&c_n;&c_u;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
   <trd lng="hu">csal&oacute;dik</trd>
-  <trd
-  lng="ru">&c_o;&c_b;&c_m;&c_a;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trd lng="ru">&c_o;&c_b;&c_m;&c_a;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>
 </drv>
 
 <drv mrk="tromp.0igxo">
@@ -247,6 +296,15 @@
 </art>
 <!--
 $Log: tromp.xml,v $
+Revision 1.24  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/01/08 00:10:46  revo
+Jeromo Vasxe: + ~o
+
 Revision 1.21  2009/02/06 17:59:35  revo
 Sebastian Cyprych: +trd pl
 
@@ -266,8 +324,5 @@ Revision 1.16 2004/10/13 16:31:54 revo
 Wolfram Diestel: kor. germ trd
 
 Revision 1.15 2004/07/19 17:45:01 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14 2002/12/18 18:51:11 revo
 -->
 </vortaro>

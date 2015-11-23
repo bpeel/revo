@@ -2,32 +2,11 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: glut.xml,v 1.25 2013/10/16 01:10:13 revo Exp $">
+<art mrk="$Id: glut.xml,v 1.28 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>glut</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
-<drv mrk="glut.0">
-  <kap><tld/></kap>
-  <gra><vspec>sonimito</vspec></gra>
-  <snc mrk="glut.0.SON">
-    <dif>
-      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
-      de <tld/>ado:
-      <ekz>
-        li trinkadis labore.  <tld lit="G"/>...<tld/>...<tld/>...
-        &Ccirc;u li eltenos?
-        <fnt><bib>KielAkvo</bib>, <lok>2:1</lok></fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trdgrp lng="ca">
-    <trd>blub-blub</trd>,
-    <trd>gloc-gloc</trd>
-  </trdgrp>
-  <trd lng="fr">glou !</trd>
-  <trd lng="it">glu</trd>
-</drv>
 
 <drv mrk="glut.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
@@ -127,7 +106,42 @@
   <trd lng="sv">sv&auml;lja</trd>
   <trd lng="tp">moku</trd>
   <trd lng="tr">yutmak</trd>
+  <trdgrp lng="sk">
+    <trd>hltať</trd>,
+    <trd>prehltnúť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lokat</trd>,
+    <trd>loknout</trd>,
+    <trd>pohlcovat</trd>,
+    <trd>polykat</trd>,
+    <trd>spolknout</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="glut.0">
+  <kap><tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="glut.0.SON">
+    <dif>
+      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
+      de <tld/>ado:
+      <ekz>
+        li trinkadis labore.  <tld lit="G"/>...<tld/>...<tld/>...
+        &Ccirc;u li eltenos?
+        <fnt><bib>KielAkvo</bib>, <lok>2:1</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>blub-blub</trd>,
+    <trd>gloc-gloc</trd>
+  </trdgrp>
+  <trd lng="fr">glou !</trd>
+  <trd lng="it">glu</trd>
+</drv>
+
+
 
 <drv mrk="glut.0o">
   <kap><tld/>o</kap>
@@ -184,9 +198,19 @@
     </trdgrp>
     <trd lng="tr">lokma</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>doušek</trd>,
+    <trd>hlt</trd>,
+    <trd>lok</trd>,
+    <trd>polknutí</trd>
+  </trdgrp>
   <trd lng="de">Schluck</trd>
   <trd lng="nl">slok</trd>
   <trd lng="ru">&c_g;&c_l;&c_o;&c_t;&c_o;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>dúšok</trd>,
+    <trd>hlt</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="glut.0ema">
@@ -201,6 +225,7 @@
     <trd>vora&ccedil;</trd>,
     <trd>fartaner</trd>
   </trdgrp>
+  <trd lng="cs">hltavý</trd>
   <trd lng="es">trag&oacute;n</trd>
   <trd lng="fr">glouton<klr> (adj.)</klr></trd>
   <trdgrp lng="hu">
@@ -212,6 +237,7 @@
   <trd lng="pl">&zdot;ar&lstroke;oczny</trd>
   <trd lng="pt">glut&atilde;o<klr tip="ind"> (adj.)</klr></trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_zh;&c_o;&c_r;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>
+  <trd lng="sk">hltavý</trd>
   <trd lng="tr">obur</trd>
 </drv>
 
@@ -261,7 +287,12 @@
     </trdgrp>
     <trd lng="sv">avgrund</trd>
   </snc>
+  <trd lng="cs">propast</trd>
   <trd lng="de">Rachen</trd>
+  <trdgrp lng="sk">
+    <trd>hltan</trd>,
+    <trd>priepasť <klr>(prenesene)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="glut.for0i">
@@ -283,6 +314,7 @@
     <trd>empassar-se</trd>,
     <trd>empassolar-se</trd>
   </trdgrp>
+  <trd lng="cs">zhltnout</trd>
   <trd lng="de">verschlucken</trd>
   <trdgrp lng="fr">
     <trd>avaler<klr tip="ind"> (faire dispara&icirc;tre)</klr></trd>,
@@ -297,10 +329,23 @@
   <trd lng="nl">inslikken<klr tip="ind"> (fig.)</klr></trd>
   <trd lng="pl">po&lstroke;yka&cacute;</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_g;&c_l;&c_o;&c_t;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>pohltiť</trd>,
+    <trd>zhltnúť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: glut.xml,v $
+Revision 1.28  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2015/02/15 11:10:17  revo
+Wolfram Diestel: ordo de drv
+
 Revision 1.25  2013/10/16 01:10:13  revo
 Jeromo Vasxe: ref al lst sonoj
 
@@ -320,8 +365,5 @@ Revision 1.20  2007/08/05 16:31:36  revo
 Jeromo Vasxe: + ~, + mrk
 
 Revision 1.19 2007/04/29 16:31:48 revo
-Tulio Flores: +tr pt
-
-Revision 1.18 2006/11/10 17:30:27 revo
 -->
 </vortaro>

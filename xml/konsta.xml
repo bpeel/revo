@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konsta.xml,v 1.26 2013/05/08 11:10:12 revo Exp $">
+<art mrk="$Id: konsta.xml,v 1.30 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>konstant</rad>/a
+  <rad>konstant</rad>/a <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="konsta.0a">
   <kap><ofc>*</ofc><tld/>a</kap>
@@ -24,9 +24,9 @@ sen&scirc;an&gcirc;a, sen&ccirc;esa,
         ili turmenti&gcirc;as per <tld/>aj duboj<fnt>Z</fnt>;
       </ekz>
       <ekz>
-        lia malfeli&ccirc;o estis tiel <tld/>a, ke &gcirc;i povis 
-supersti&ccirc;igi
-        &ccirc;iun<fnt>B</fnt>;
+        lia malfeli&ccirc;o estis tiel <tld/>a, ke &gcirc;i povis
+        supersti&ccirc;igi &ccirc;iun
+        <fnt>B</fnt>;
       </ekz>
       <ekz>
         <tld/>a mokado<fnt>Z</fnt>,
@@ -42,18 +42,18 @@ supersti&ccirc;igi
         <tld/>a arbitracio, armeo;
       </ekz>
       <ekz>
-        &ccirc;iu litero havas prononcon tre klaran kaj 
-<tld/>an<fnt>Z</fnt>;
+        &ccirc;iu litero havas prononcon tre klaran kaj
+        <tld/>an<fnt>Z</fnt>;
       </ekz>
       <ekz>
         resti en <tld/>a loko<fnt>Z</fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="halt.sen0a">senhalta</ref>,
       <ref cel="dauxr.0a">da&ubreve;ra</ref>,
+      <ref cel="kontin3.0a">kontinua</ref>,
       <ref cel="pas">nepasa</ref>,
-      <ref cel="kontin3.0a">kontinua</ref>.
+      <ref cel="halt.sen0a">senhalta</ref>
     </refgrp>
     <trdgrp lng="de">
       <trd>dauerhaft</trd>,
@@ -150,7 +150,16 @@ cel="indic.0o.familio">indico</ref>
     <trd>&c_p;&c_a;&c_s;&c_t;&c_a;&c_ja;&c_n;&c_n;&c_y;</trd>,
     <trd>&c_s;&c_t;&c_a;&c_l;&c_y;</trd>
   </trdgrp>
-  <trd lng="cs">st&aacute;l&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>invariantní</trd>,
+    <trd>konstantní</trd>,
+    <trd>neměnný</trd>,
+    <trd>neproměnný</trd>,
+    <trd>nepřetržitý</trd>,
+    <trd>st&aacute;l&yacute;</trd>,
+    <trd>trvalý</trd>,
+    <trd>ustavičný</trd>
+  </trdgrp>
   <trd lng="en">constant</trd>
   <trd lng="es">constante</trd>
   <trd lng="nl">constant</trd>
@@ -159,6 +168,13 @@ cel="indic.0o.familio">indico</ref>
   <trdgrp lng="ru">
     <trd>&c_p;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_i;&c_z;&c_m;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konštantný</trd>,
+    <trd>nemenný</trd>,
+    <trd>nepretržitý</trd>,
+    <trd>stály</trd>,
+    <trd>trvalý</trd>
   </trdgrp>
 </drv>
 
@@ -206,10 +222,18 @@ cel="indic.0o.familio">indico</ref>
     <trd>&c_s;&c_t;&c_a;&c_l;&c_a;&c_ja; <klr tip="amb">(&c_v;&c_je;&c_l;&c_ib;&c_ch;&c_y;&c_n;&c_ja;)</klr></trd>,
     <trd>&c_k;&c_a;&c_n;&c_s;&c_t;&c_a;&c_n;&c_t;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>konstanta</trd>,
+    <trd>stálá veličina</trd>
+  </trdgrp>
   <trd lng="pl">sta&lstroke;a</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_n;&c_s;&c_t;&c_a;&c_n;&c_t;&c_a;</trd>,
     <trd>&c_p;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_n;&c_a;&c_ja; <klr tip="amb">(&c_v;&c_je;&c_l;&c_i;&c_ch;&c_i;&c_n;&c_a;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konštanta</trd>,
+    <trd>stála veličina</trd>
   </trdgrp>
 </drv>
 
@@ -275,6 +299,11 @@ cel="indic.0o.familio">indico</ref>
     <trd>&c_n;&c_ja;&c_z;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_a;</trd>,
     <trd>&c_s;&c_t;&c_a;&c_l;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>konstantně</trd>,
+    <trd>stále</trd>,
+    <trd>ustavičně</trd>
+  </trdgrp>
   <trd lng="nl">onophoudelijk</trd>
   <trdgrp lng="pl">
     <trd>stale</trd>,
@@ -284,10 +313,51 @@ cel="indic.0o.familio">indico</ref>
     <trd>&c_p;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_n;&c_o;</trd>,
     <trd>&c_n;&c_je;&c_i;&c_z;&c_m;&c_je;&c_n;&c_n;&c_o;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konštantne</trd>,
+    <trd>stále</trd>,
+    <trd>ustavične</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konsta.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="konsta.mal0a.KOMUNE">
+    <dif>
+      &Scirc;an&gcirc;i&gcirc;ema;
+      <ref tip="vid" cel="efemer.0a">efemera</ref>,
+      <ref tip="vid" cel="pas.0ema.KOMUNE">pasema</ref>:
+      <ekz>
+        en la Plena Ilustrita Vortaro oni priskribas la
+        komunuzan sencon de
+        &leftquot;papilia (neserioza kaj mal<tld/>a) amo&rightquot;
+        <fnt>
+          <aut>Bob</aut>,
+          <vrk>Papiliaj Pensoj</vrk>,
+          <lok><url
+          ref="http://www.gazetejo.org/system/files/gazetoj/in9910.pdf">
+          Inter Ni, 1999-10</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">inconstant</trd>
 </drv>
 </art>
 <!--
 $Log: konsta.xml,v $
+Revision 1.30  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2015/01/28 23:10:15  revo
+Jeromo Vasxe: sx -> Sx
+
+Revision 1.27  2015/01/26 23:10:16  revo
+Jeromo Vasxe: + mal~a
+
 Revision 1.26  2013/05/08 11:10:12  revo
 Sebastian Cyprych: +trd pl
 
@@ -304,11 +374,5 @@ Revision 1.22  2005/02/25 17:32:45  revo
 Yury Finkel: kor trd ru
 
 Revision 1.21  2004/08/12 16:32:04  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.20  2003/04/12 16:32:47  revo
-Marc Bavant: variigo de ~oj: kor trd ru
-
-Revision 1.19  2003/04/11 16:32:31  revo
 -->
 </vortaro>

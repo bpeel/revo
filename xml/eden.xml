@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eden.xml,v 1.22 2012/08/04 07:10:29 revo Exp $">
+<art mrk="$Id: eden.xml,v 1.24 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>Eden</rad>/o
@@ -118,16 +118,27 @@
     </trdgrp>
     <trd lng="sv">paradis</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>eden</trd>,
+    <trd>ráj</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_j;</trd>,
     <trd>&c_e;&c_d;&c_je;&c_m;</trd>,
     <trd>&c_r;&c_a;&c_j;&c_s;&c_k;&c_i;&c_je;
     &c_k;&c_u;&c_shch;&c_i;</trd>
   </trdgrp>
+  <trd lng="sk">raj</trd>
 </drv>
 </art>
 <!--
 $Log: eden.xml,v $
+Revision 1.24  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.22  2012/08/04 07:10:29  revo
 Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kinema1.xml,v 1.12 2009/08/28 16:31:01 revo Exp $">
+<art mrk="$Id: kinema1.xml,v 1.14 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>kinematograf</rad>/o
   <fnt>Z</fnt>
@@ -18,6 +18,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_ib;&c_n;&c_a;&c_p;&c_r;&c_a;&c_je;&c_k;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>kinematograf</trd>,
+    <trd>promítací přístroj</trd>
+  </trdgrp>
   <trd lng="de">Filmprojektor</trd>
   <trdgrp lng="en">
     <trd>film projector</trd>,
@@ -40,6 +44,7 @@
     <trd>&c_k;&c_i;&c_n;&c_je;&c_m;&c_a;&c_t;&c_o;&c_g;&c_r;&c_a;&c_f;</trd>,
     <trd>&c_k;&c_i;&c_n;&c_o;&c_p;&c_r;&c_o;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
   </trdgrp>
+  <trd lng="sk">premietací prístroj</trd>
 </drv>
 
 <drv mrk="kinema1.0ejo">
@@ -49,6 +54,10 @@
     <ref tip="dif" cel="kin.0ejo">kinejo</ref>
   </snc>
   <trd lng="be">&c_k;&c_ib;&c_n;&c_a;&c_t;&c_e;&c_a;&c_t;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>biograf</trd>,
+    <trd>kino</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Kino</trd>,
     <trd>Filmtheater</trd>
@@ -62,6 +71,7 @@
   <trdgrp lng="ru">
     <trd>&c_k;&c_i;&c_n;&c_o;&c_t;&c_je;&c_a;&c_t;&c_r;</trd>
   </trdgrp>
+  <trd lng="sk">kino</trd>
 </drv>
 
 <drv mrk="kinema1.0ajxo">
@@ -118,10 +128,18 @@
     kamerao.
     <aut>MB</aut>
   </adm>
+  <trd lng="sk">filmovať</trd>
+  <trd lng="cs">filmovat</trd>
 </drv>
 </art>
 <!--
 $Log: kinema1.xml,v $
+Revision 1.14  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2009/08/28 16:31:01  revo
 Paul Peeraerts: korekto en nl
 

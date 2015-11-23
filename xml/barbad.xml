@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: barbad.xml,v 1.7 2014/06/10 04:10:37 revo Exp $">
+<art mrk="$Id: barbad.xml,v 1.8 2015/08/22 15:10:22 revo Exp $">
 <kap>
   <rad>Barbad</rad>/o
 </kap>
@@ -27,6 +27,8 @@
     </dif>
     <rim>Mi trovis anka&ubreve; nomon de la &ccirc;efurbo:
     Bri&gcirc;ta&ubreve;no.<aut>SC</aut></rim>
+    </snc>
+    <trd lng="fr">Barbade</trd>
     <trd lng="hu">Barbados</trd>
     <trd lng="id">Barbados</trd>
     <trdgrp lng="pl">
@@ -34,13 +36,15 @@
     </trdgrp>
     <trd lng="nl">Barbados</trd>
     <trd lng="pt">Barbados</trd>
-  </snc>
 </drv>
 
 </art>
 
 <!--
 $Log: barbad.xml,v $
+Revision 1.8  2015/08/22 15:10:22  revo
+Damien Brucker: +trd fr
+
 Revision 1.7  2014/06/10 04:10:37  revo
 Eko Nur Syah Hidayat: +id
 
@@ -60,7 +64,5 @@ Revision 1.2  2009/07/03 16:30:38  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.1  2009/05/07 16:31:23  revo
-Sebastian Cyprych: nova artikolo
-
 -->
 </vortaro>

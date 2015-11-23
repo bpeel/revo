@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kerosen.xml,v 1.9 2005/11/20 17:31:53 revo Exp $">
+<art mrk="$Id: kerosen.xml,v 1.11 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>kerosen</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -23,6 +23,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_z;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>kerosen</trd>,
+    <trd>lampový petrolej</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Brenn&ouml;l</trd>,
     <trd>Petroleum</trd>,
@@ -33,10 +37,20 @@
   <trd lng="hu">kerozin</trd>
   <trd lng="nl">kerosine</trd>
   <trd lng="ru">&c_k;&c_je;&c_r;&c_o;&c_s;&c_i;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>kerosén</trd>,
+    <trd>lampový olej</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kerosen.xml,v $
+Revision 1.11  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2005/11/20 17:31:53  revo
 Jeromo Vasxe: + 1 ekz
 

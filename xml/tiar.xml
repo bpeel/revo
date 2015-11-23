@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tiar.xml,v 1.16 2013/08/29 11:10:12 revo Exp $">
+<art mrk="$Id: tiar.xml,v 1.18 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>tiar</rad>/o
@@ -21,6 +21,10 @@
   <trd lng="be">&c_t;&c_y;&c_ja;&c_r;&c_a;</trd>
   <trd lng="bg">&c_t;&c_i;&c_a;&c_r;&c_a;</trd>
   <trd lng="ca">tiara</trd>
+  <trdgrp lng="cs">
+    <trd>papežská koruna</trd>,
+    <trd>tiara</trd>
+  </trdgrp>
   <trd lng="de">Tiara</trd>
   <trdgrp lng="en">
     <trd>tiara</trd>,
@@ -34,10 +38,20 @@
     <trd>tiara</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_i;&c_a;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>pápežská koruna</trd>,
+    <trd>tiara</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: tiar.xml,v $
+Revision 1.18  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/08/29 11:10:12  revo
 Joop Eggen: korekto bg
 

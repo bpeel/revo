@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: franc.xml,v 1.30 2014/06/27 07:10:14 revo Exp $">
+<art mrk="$Id: franc.xml,v 1.33 2015/07/04 08:37:34 revo Exp $">
 <kap>
 <ofc>*</ofc>
   <rad>franc</rad>/o
@@ -84,7 +84,11 @@
   <trd lng="be">&c_f;&c_r;&c_a;&c_n;&c_c;&c_u;&c_s;&c_k;&c_ib;</trd>
   <trd lng="bg">&c_f;&c_r;&c_je;&c_n;&c_s;&c_k;&c_i;</trd>
   <trd lng="ca">franc&eacute;s<klr> (adj.)</klr></trd>
-  <trd lng="cs">francouzsk&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>francouzsk&yacute;</trd>,
+    <trd>francouzština</trd>,
+    <trd>franština</trd>
+  </trdgrp>
   <trd lng="de">franz&ouml;sisch</trd>
   <trd lng="en">French</trd>
   <trd lng="es">franc&eacute;s</trd>
@@ -96,6 +100,7 @@
   <trd lng="pt">franc&ecirc;s <klr tip="amb">(adj.)</klr></trd>
   <trd
   lng="ru">&c_f;&c_r;&c_a;&c_n;&c_c;&c_u;&c_z;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">francúzština</trd>
   <trd lng="vo">flentik</trd>
 </drv>
 
@@ -183,6 +188,7 @@
   <trd lng="en">France</trd>
   <trd lng="es">Francia</trd>
   <trd lng="eu">Frantzia</trd>
+  <trd lng="fa">&a_f;&a_r;&a_A;&a_n;&a_s;&a_h;</trd>
   <trd lng="fi">Ranska</trd>
   <trdgrp lng="fr">
     <trd>France</trd>,
@@ -215,6 +221,15 @@
 </art>
 <!--
 $Log: franc.xml,v $
+Revision 1.33  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.31  2015/06/12 17:10:17  revo
+Joop Eggen: +trd fa
+
 Revision 1.30  2014/06/27 07:10:14  revo
 Damien Brucker: +trd fr
 
@@ -234,8 +249,5 @@ Revision 1.25  2009/08/08 16:33:51  revo
 Russ Williams: +trd en
 
 Revision 1.24  2009/06/23 16:32:16  revo
-Emmanuel Debanne: +trd id
-
-Revision 1.23  2009/05/19 17:00:43  revo
 -->
 </vortaro>

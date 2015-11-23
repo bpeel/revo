@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: limona.xml,v 1.14 2005/01/15 17:31:32 revo Exp $">
+<art mrk="$Id: limona.xml,v 1.16 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>limonad</rad>/o
@@ -22,6 +22,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_ib;&c_m;&c_a;&c_n;&c_a;&c_d;</trd>
+  <trd lng="cs">limonáda</trd>
   <trdgrp lng="de">
     <trd>Limonade</trd>,
     <trd>Limo</trd>,
@@ -38,10 +39,17 @@
   <trd lng="pl">lemoniada</trd>
   <trd lng="pt">limonada</trd>
   <trd lng="ru">&c_l;&c_i;&c_m;&c_o;&c_n;&c_a;&c_d;</trd>
+  <trd lng="sk">limonáda</trd>
 </drv>
 </art>
 <!--
 $Log: limona.xml,v $
+Revision 1.16  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2005/01/15 17:31:32  revo
 Vito Redsky: korekto trd pl
 

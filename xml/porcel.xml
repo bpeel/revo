@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: porcel.xml,v 1.18 2009/11/22 17:30:22 revo Exp $">
+<art mrk="$Id: porcel.xml,v 1.20 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>porcelan</rad>/o <fnt><bib>PV</bib></fnt>
@@ -28,6 +28,10 @@
     <trd>&c_p;&c_a;&c_r;&c_c;&c_a;&c_l;&c_ja;&c_n;&c_a;</trd>,
     <trd>&c_f;&c_a;&c_r;&c_f;&c_o;&c_r;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>porcelán</trd>,
+    <trd>porculán</trd>
+  </trdgrp>
   <trd lng="de">Porzellan</trd>
   <trd lng="en">porcelain</trd>
   <trd lng="fr">porcelaine<klr> (mat&eacute;riau)</klr></trd>
@@ -36,6 +40,7 @@
   <trd lng="pl">porcelana</trd>
   <trd lng="pt">porcelana</trd>
   <trd lng="ru">&c_f;&c_a;&c_r;&c_f;&c_o;&c_r;</trd>
+  <trd lng="sk">porcelán</trd>
   <trd lng="sv">porslin</trd>
 </drv>
 
@@ -94,6 +99,12 @@
 </art>
 <!--
 $Log: porcel.xml,v $
+Revision 1.20  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2009/11/22 17:30:22  revo
 Jeromo Vasxe: + 1 ekz
 

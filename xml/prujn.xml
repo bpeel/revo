@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prujn.xml,v 1.18 2013/07/23 13:10:10 revo Exp $">
+<art mrk="$Id: prujn.xml,v 1.20 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>prujn</rad>/o
@@ -34,6 +34,10 @@
     <trd>&c_sh;&c_e;&c_r;&c_a;&c_n;&c_mol;</trd>
   </trdgrp>
   <trd lng="bg">&c_s;&c_l;&c_a;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>jinovatka</trd>,
+    <trd>jíní</trd>
+  </trdgrp>
   <trd lng="de">Reif</trd>
   <trdgrp lng="en">
     <trd>frost</trd>,
@@ -43,7 +47,7 @@
   <trdgrp lng="es">
     <trd>escarcha</trd>,
     <trd>helada</trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="fa">
     <trd>&a_b;&a_sh;&a_m;</trd>,
     <trd>&a_b;&a_r;&a_f;&f_k;</trd>,
@@ -64,10 +68,21 @@
     <trd>&c_i;&c_n;&c_je;&c_j;</trd>,
     <trd>&c_i;&c_z;&c_m;&c_o;&c_r;&c_o;&c_z;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>inovať</trd>,
+    <trd>osuheľ</trd>,
+    <trd>srieň</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: prujn.xml,v $
+Revision 1.20  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2013/07/23 13:10:10  revo
 Joop Eggen: +trd bg
 

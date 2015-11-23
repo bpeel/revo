@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: erar.xml,v 1.23 2011/05/06 15:10:08 revo Exp $">
+<art mrk="$Id: erar.xml,v 1.25 2015/07/04 08:37:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>erar</rad>/i <fnt><bib>PV</bib></fnt>
@@ -83,7 +83,15 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_m;&c_y;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>
   <trd lng="bg">&c_g;&c_r;&c_je;&c_sh;&c_a;</trd>
-  <trd lng="cs">m&yacute;lit se</trd>
+  <trdgrp lng="cs">
+    <trd>být na omylu</trd>,
+    <trd>chybovat</trd>,
+    <trd>m&yacute;lit se</trd>,
+    <trd>plést se</trd>,
+    <trd>splést se</trd>,
+    <trd>zabloudit</trd>,
+    <trd>zmýlit se</trd>
+  </trdgrp>
   <trd lng="de">irren</trd>
   <trd lng="en">err</trd>
   <trdgrp lng="fr">
@@ -103,6 +111,10 @@
     <trd>&c_o;&c_sh;&c_i;&c_b;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_o;&c_sh;&c_i;&c_b;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_z;&c_a;&c_b;&c_l;&c_u;&c_zh;&c_d;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mýliť sa</trd>,
+    <trd>zmýliť sa</trd>
   </trdgrp>
 </drv>
 
@@ -156,6 +168,14 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_m;&c_y;&c_l;&c_k;&c_a;</trd>
   <trd lng="bg">&c_g;&c_r;&c_je;&c_sh;&c_k;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>chyba</trd>,
+    <trd>nedopatření</trd>,
+    <trd>omyl</trd>,
+    <trd>omyl</trd>,
+    <trd>přehmat</trd>,
+    <trd>vada</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Fehler</trd>,
     <trd>Irrtum</trd>
@@ -168,15 +188,19 @@
     <trd>t&eacute;ved&eacute;s</trd>,
     <trd>hiba</trd>
   </trdgrp>
-  <trd lng="pt">erro</trd>
   <trdgrp lng="pl">
     <trd>b&lstroke;&aogonek;d</trd>,
     <trd>pomy&lstroke;ka</trd>,
     <trd>omy&lstroke;ka</trd>
   </trdgrp>
+  <trd lng="pt">erro</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_sh;&c_i;&c_b;&c_k;&c_a;</trd>,
     <trd>&c_z;&c_a;&c_b;&c_l;&c_u;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chyba</trd>,
+    <trd>omyl</trd>
   </trdgrp>
   <trd lng="tp">pakala</trd>
 </drv>
@@ -196,6 +220,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_m;&c_y;&c_l;&c_k;&c_o;&c_v;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>chybný</trd>,
+    <trd>mylný</trd>,
+    <trd>nesprávný</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>falsch</trd>,
     <trd>fehlerhaft</trd>
@@ -216,6 +245,11 @@
     <trd>mylny</trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_sh;&c_i;&c_b;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>bludný</trd>,
+    <trd>chybný</trd>,
+    <trd>mylný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="erar.0ema">
@@ -232,6 +266,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>chybující</trd>,
+    <trd>omylný</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>fehlbar</trd>,
     <trd>fehleranf&auml;llig</trd>
@@ -243,6 +281,7 @@
     <trd>nem t&eacute;vedhetetlen</trd>
   </trdgrp>
   <trd lng="pl">nieomylny</trd>
+  <trd lng="sk">omylný</trd>
 </drv>
 
 <drv mrk="erar.0igi">
@@ -264,6 +303,14 @@
       <ref cel="tromp.0i">trompi</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>klamat</trd>,
+    <trd>mást</trd>,
+    <trd>mýlit</trd>,
+    <trd>splést</trd>,
+    <trd>uvádět v omyl</trd>,
+    <trd>zmást</trd>
+  </trdgrp>
   <trd lng="de">irref&uuml;hren</trd>
   <trdgrp lng="fr">
     <trd>&eacute;garer</trd>,
@@ -282,6 +329,10 @@
   <trdgrp lng="ru">
     <trd>&c_v;&c_v;&c_je;&c_s;&c_t;&c_i; &c_v; &c_z;&c_a;&c_b;&c_l;&c_u;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_v;&c_je;&c_s;&c_t;&c_i; &c_k; &c_o;&c_sh;&c_i;&c_b;&c_k;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pomýliť</trd>,
+    <trd>zmýliť</trd>
   </trdgrp>
 </drv>
 
@@ -319,6 +370,12 @@
 </art>
 <!--
 $Log: erar.xml,v $
+Revision 1.25  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2011/05/06 15:10:08  revo
 Jeromo Vasxe: + sens/sent~o
 

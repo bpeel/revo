@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: saltomortal.xml,v 1.9 2013/08/16 07:10:14 revo Exp $">
+<art mrk="$Id: saltomortal.xml,v 1.11 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>saltomortal</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -23,6 +23,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">salto mortale</trd>
   <trd lng="es">salto mortal</trd>
   <trd lng="fr">saut p&eacute;rilleux</trd>
   <trdgrp lng="hu">
@@ -37,10 +38,17 @@
    <trd>salto mortal</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_a;&c_l;&c_mol;&c_t;&c_o;-&c_m;&c_o;&c_r;&c_t;&c_a;&c_l;&c_je;</trd>
+  <trd lng="sk">salto mortale</trd>
 </drv>
 </art>
 <!--
 $Log: saltomortal.xml,v $
+Revision 1.11  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2013/08/16 07:10:14  revo
 Joop Eggen: +trd bg
 

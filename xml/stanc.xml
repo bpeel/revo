@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stanc.xml,v 1.12 2012/08/04 11:10:15 revo Exp $">
+<art mrk="$Id: stanc.xml,v 1.14 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <rad>stanc</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -31,6 +31,7 @@
     <trd lng="nl">strofe</trd>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_a;&c_n;&c_s;</trd>
+  <trd lng="cs">stance</trd>
   <trd lng="de">Stanze</trd>
   <trd lng="en">stanza</trd>
   <trdgrp lng="fr">
@@ -38,10 +39,20 @@
     <trd>stanza</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_t;&c_a;&c_n;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>osemveršová strofa</trd>,
+    <trd>stanca</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: stanc.xml,v $
+Revision 1.14  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2012/08/04 11:10:15  revo
 Marc Rausell: + trd ca
 

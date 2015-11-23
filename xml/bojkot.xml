@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bojkot.xml,v 1.16 2014/08/31 01:10:11 revo Exp $">
+<art mrk="$Id: bojkot.xml,v 1.18 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>bojkot</rad>/i
@@ -38,6 +38,7 @@
   lng="ru">&c_b;&c_o;&c_j;&c_k;&c_o;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">bojkotova&tcaron;</trd>
   </snc>
+  <trd lng="cs">bojkotovat</trd>
 </drv>
 
 <drv mrk="bojkot.0o">
@@ -68,10 +69,18 @@
   <trd lng="pl">bojkot</trd>
   <trd lng="ru">&c_b;&c_o;&c_j;&c_k;&c_o;&c_t;</trd>
   </snc>
+  <trd lng="cs">bojkot</trd>
+  <trd lng="sk">bojkot</trd>
 </drv>
 </art>
 <!--
 $Log: bojkot.xml,v $
+Revision 1.18  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2014/08/31 01:10:11  revo
 Carlos Garcia: +trd es -i -o
 

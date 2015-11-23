@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pustul.xml,v 1.12 2013/12/02 13:10:47 revo Exp $">
+<art mrk="$Id: pustul.xml,v 1.14 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>pustul</rad>/o
@@ -15,6 +15,10 @@
       Pusa akno.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>sporangie</trd>,
+    <trd>výtrusnice</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Pustel</trd>,
     <trd>Eiterbl&auml;schen</trd>
@@ -35,10 +39,17 @@
     <trd>&c_p;&c_u;&c_s;&c_t;&c_u;&c_l;&c_a;</trd>,
     <trd>&c_g;&c_n;&c_o;&c_j;&c_n;&c_i;&c_ch;&c_o;&c_k;</trd>
   </trdgrp>
+  <trd lng="sk">výtrusnica</trd>
 </drv>
 </art>
 <!--
 $Log: pustul.xml,v $
+Revision 1.14  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2013/12/02 13:10:47  revo
 Damien Brucker: +trd fr
 

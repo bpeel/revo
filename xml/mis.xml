@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mis.xml,v 1.12 2014/02/05 17:10:19 revo Exp $">
+<art mrk="$Id: mis.xml,v 1.16 2015/10/06 15:10:16 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>mis</rad>- <fnt><bib>PV</bib></fnt>
@@ -142,15 +142,64 @@ Samsignifa memstara vortero.
   <dif>
   Malkonvene, malbone:
   <ekz>
-  hidropso, kiu membrojn mise formas<fnt>K</fnt>.
+  hidropso, kiu membrojn <tld/>e formas<fnt>K</fnt>.
   </ekz>
   </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>chybn&ecaron;</trd>,
+    <trd>nespr&aacute;vn&ecaron;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>amiss</trd>,
+    <trd>faultily</trd>
+  </trdgrp>
+  <trd lng="fr">de travers</trd>
+  <trdgrp lng="sk">
+    <trd>chybne</trd>,
+    <trd>nespr&aacute;vne</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="mis.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="mis.0a.KOMUNE">
+  <dif>
+  Malkonvena, malbona, maltrafa:
+  </dif>
+  <ekz>
+  <tld/>a &jcirc;eto de lanco.
+  </ekz>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>chybn&yacute;</trd>,
+    <trd>myln&yacute;</trd>,
+    <trd>nezda&rcaron;en&yacute;</trd>
+  </trdgrp>
+  <trd lng="en">amiss</trd>
+  <trd lng="fr">rat&eacute;</trd>
+  <trdgrp lng="sk">
+    <trd>chybn&yacute;</trd>,
+    <trd>myln&yacute;</trd>
+  </trdgrp>
+</drv>
+
 </subart>
 </art>
 <!--
 $Log: mis.xml,v $
+Revision 1.16  2015/10/06 15:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.15  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2015/02/05 14:10:16  revo
+Damien Brucker: +~a +trd fr
+
 Revision 1.12  2014/02/05 17:10:19  revo
 Damien Brucker: +~e
 
@@ -161,17 +210,5 @@ Revision 1.10  2006/08/06 16:31:07  revo
 Tulio Flores: +tr pt
 
 Revision 1.9  2006/07/19 16:31:53  revo
-Jeromo Vasxe: + trd fr
-
-Revision 1.8 2004/06/17 16:31:17 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.7 2002/03/13 17:32:29 revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/10/01 18:13:34 revo
-jxeromo vasxe: misortografi - misortografii (memekzemplado?)
-
-Revision 1.5 2001/09/02 18:15:27 revo
 -->
 </vortaro>

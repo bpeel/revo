@@ -2,7 +2,7 @@
 
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: batal.xml,v 1.26 2014/02/06 02:10:15 revo Exp $">
+<art mrk="$Id: batal.xml,v 1.30 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>batal</rad>/i <fnt><bib>PV</bib></fnt>
@@ -81,7 +81,10 @@
     <trd>stourm ouzh</trd>,
     <trd>en em ganna&ntilde;</trd>
   </trdgrp>
-  <trd lng="cs">bojovat</trd>
+  <trdgrp lng="cs">
+    <trd>bojovat</trd>,
+    <trd>bít se s něčím</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>k&auml;mpfen</trd>,
     <trd>fechten</trd>,
@@ -92,9 +95,17 @@
     <trd>fight</trd>,
     <trd>engage in <ind>combat</ind></trd>
   </trdgrp>
-  <trd lng="es">combatir</trd>
+  <trdgrp lng="es">
+    <trd>combatir</trd>,
+    <trd>batallar</trd>,
+    <trd>pelear</trd>,
+    <trd>pugnar</trd>,
+    <trd>luchar</trd>,
+    <trd>guerrear</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>battre</ind></trd>,
+    <trd>batailler</trd>,
     <trd>lutter</trd>,
     <trd>combattre</trd>
   </trdgrp>
@@ -135,6 +146,11 @@
     <trd>&c_z;&c_m;&c_a;&c_g;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   </trdgrp>
   <trd lng="br">emgann</trd>
+  <trdgrp lng="cs">
+    <trd>bitka</trd>,
+    <trd>bitva</trd>,
+    <trd>boj</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Gefecht</trd>,
     <trd>Kampf</trd>,
@@ -143,7 +159,9 @@
   <trd lng="en">battle</trd>
   <trdgrp lng="es">
     <trd>batalla</trd>,
-    <trd>combate</trd>
+    <trd>combate</trd>,
+    <trd>lucha</trd>,
+    <trd>pugna</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>bataille</trd>,
@@ -166,7 +184,10 @@
     <trd>&c_s;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_b;&c_i;&c_t;&c_v;&c_a;</trd>
   </trdgrp>
-  <trd lng="sk">boj</trd>
+  <trdgrp lng="sk">
+    <trd>bitka</trd>,
+    <trd>boj</trd>
+  </trdgrp>
   <trd lng="tp">utala</trd>
 </drv>
 
@@ -188,6 +209,10 @@
     <trd>aerva</trd>,
     <trd>tachenn <ind>emgann</ind></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bitevní pole</trd>,
+    <trd>bojiště</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Kampfst&auml;tte</trd>,
     <trd>Schlachtfeld</trd>
@@ -196,6 +221,7 @@
     <trd>battlefield</trd>,
     <trd>battleground</trd>
   </trdgrp>
+  <trd lng="es">campo de batalla</trd>
   <trd lng="fr">champ de <ind>bataille</ind></trd>
   <trdgrp lng="hu">
     <trd>csatat&eacute;r</trd>,
@@ -218,6 +244,7 @@
     <trd>argadus</trd>,
     <trd>stourmidik</trd>
   </trdgrp>
+  <trd lng="cs">bojovný</trd>
   <trdgrp lng="de">
     <trd>k&auml;mpferisch</trd>,
     <trd>kampflustig</trd>,
@@ -229,6 +256,10 @@
     <trd>combative</trd>,
     <trd>militant</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>batallador</trd>,
+    <trd>combativo</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>batailleur</trd>,
     <trd>combatif</trd>
@@ -238,7 +269,9 @@
     <trd>wojowniczy</trd>,
     <trd>bitny</trd>
   </trdgrp>
-  <trd lng="ru">&c_v;&c_o;&c_i;&c_n;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd
+  lng="ru">&c_v;&c_o;&c_i;&c_n;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">bojovný</trd>
 </drv>
 
 <drv mrk="batal.0ilo">
@@ -260,6 +293,7 @@
   </snc>
   <trd lng="be">&c_z;&c_b;&c_r;&c_o;&c_ja;</trd>
   <trd lng="br">arm</trd>
+  <trd lng="cs">zbraň</trd>
   <trdgrp lng="de">
     <trd>Waffe</trd>,
     <trd>Kampfmittel</trd>
@@ -272,6 +306,10 @@
     <trd>uzbrojenie</trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>bojový prostriedok</trd>,
+    <trd>zbraň</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="batal.0isto">
@@ -287,7 +325,8 @@
       <ekz>
         nun armu vin, ho <ind>batalistino</ind>! oni sie&gcirc;os nin
         <fnt><bib>MT</bib>, <lok>&Mih; 5:1</lok></fnt>.
-        <trd lng="ru">&c_v;&c_o;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_a;</trd>
+        <trd
+        lng="ru">&c_v;&c_o;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_a;</trd>
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -306,12 +345,17 @@
     <trd>brezelour</trd>,
     <trd>kadour</trd>
   </trdgrp>
+  <trd lng="cs">žoldnéř</trd>
   <trdgrp lng="de">
     <trd>K&auml;mpfer</trd>,
     <trd>Krieger</trd>,
     <trd>Streiter<klr> [ark, poez]</klr></trd>
   </trdgrp>
   <trd lng="en">warrior</trd>
+  <trdgrp lng="es">
+    <trd>guerrero</trd>,
+    <trd>combatiente</trd>
+  </trdgrp>
   <trd lng="fr">guerrier</trd>
   <trd lng="hu">harcos</trd>
   <trdgrp lng="pl">
@@ -325,7 +369,10 @@
     <trd>&c_v;&c_o;&c_i;&c_n;</trd>,
     <trd>&c_v;&c_o;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">vojak</trd>
+  <trdgrp lng="sk">
+    <trd>vojak</trd>,
+    <trd>žoldnier</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="batal.inter0i">
@@ -339,9 +386,23 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bojovat navzájem</trd>,
+    <trd>bít se</trd>,
+    <trd>zápasit</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>enfrentarse</trd>,
+    <trd>pelearse</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>batailler</trd>,
+    <trd>se <ind>battre</ind></trd>,
     <trd>se <ind>bagarrer</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>biť sa</trd>,
+    <trd>pobiť sa</trd>
   </trdgrp>
 </drv>
 
@@ -358,11 +419,13 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">spolubojovník</trd>
   <trdgrp lng="fr">
     <trd><ind>camarade</ind> de combat</trd>
     <trd><ind>compagnon</ind> d'armes</trd>
   </trdgrp>
   <trd lng="pl">towarzysz broni</trd>
+  <trd lng="sk">spolubojovník</trd>
 </drv>
 
 <drv mrk="batal.kontraux0i">
@@ -370,11 +433,13 @@
   <gra><vspec>tr</vspec>, <vspec>uzebla anka&ubreve; abs.</vspec></gra>
   <adm>
     &Ccirc;i tiu indiko "uzebla anka&ubreve; abs." estas tute superflua
-    &#8208; en Esperanto &ccirc;iu ajn transitiva verbo uzeblas anka&ubreve;
+    &#8208; en Esperanto &ccirc;iu ajn transitiva verbo uzeblas
+    anka&ubreve;
     senobjekte.
     <aut>Sergio</aut>
     Tio ne estas vera. Kelkaj verboj &gcirc;uste postulas objekton, kiel
-    ekz-e "vesti" a&ubreve; "prizorgi" kaj pluraj verboj derivi&gcirc;intaj de
+    ekz-e "vesti" a&ubreve; "prizorgi" kaj pluraj verboj
+    derivi&gcirc;intaj de
     netransira verbo pere de prefikse uzata prepozicio.
     <aut>MB</aut>
   </adm>
@@ -431,6 +496,7 @@
       <klr>(&c_ch;&c_je;&c_m;&c_u;-&c_l;.)</klr></trd>
     </trdgrp>
   </snc>
+  <trd lng="es">combatir</trd>
 </drv>
 
 <drv mrk="batal.kontraux0anto">
@@ -444,6 +510,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">combatiente</trd>
   <trdgrp lng="fr">
     <trd>adversaire<klr tip="ind"> (subst.)</klr></trd>
     <trd>antagoniste<klr tip="ind"> (subst.)</klr></trd>
@@ -467,6 +534,7 @@
     <trd>Anh&auml;nger</trd>,
     <trd>Verfechter</trd>
   </trdgrp>
+  <trd lng="es">combatiente</trd>
   <trdgrp lng="fr">
     <trd>champion<klr tip="ind"> (d&eacute;fenseur d'une
     id&eacute;e)</klr></trd>
@@ -498,6 +566,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">zastánce</trd>
   <trdgrp lng="de">
     <trd>Anh&auml;nger</trd>,
     <trd>Verfechter</trd>
@@ -514,6 +583,7 @@
     <trd>&c_p;&c_o;&c_b;&c_o;&c_r;&c_n;&c_i;&c_k;</trd>,
     <trd>&c_z;&c_a;&c_shch;&c_i;&c_t;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
+  <trd lng="sk">zástanca</trd>
 </drv>
 
 <drv mrk="batal.vorto0i">
@@ -543,6 +613,7 @@
     <trd>Wortgefecht</trd>
   </trdgrp>
   <trd lng="en">argue</trd>
+  <trd lng="es">discutir</trd>
   <trd lng="fr">pol&eacute;miquer</trd>
   <trdgrp lng="hu">
     <trd>vitatkozik</trd>,
@@ -560,6 +631,18 @@
 </art>
 <!--
 $Log: batal.xml,v $
+Revision 1.30  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2015/04/13 10:10:17  revo
+Carlos Garcia: +trd es ~i ~o  ~ejo ~ema ~isto inter~i kontraux~i kontraux~anto ~anto vorto~i
+
+Revision 1.27  2015/04/10 22:10:17  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.26  2014/02/06 02:10:15  revo
 Jeromo Vasxe: + inter~i
 
@@ -576,10 +659,5 @@ Revision 1.22 2005/02/25 17:34:17 revo
 Alan ar Gall: +trd br
 Revision 1.21 2004/11/29 17:31:41 revo
 Sergio Pokrovskij: +pro~anto; adm
-Revision 1.20 2004/03/09 17:32:19 revo
-Dmitri Gabinski: +trd be
-Revision 1.19 2003/04/06 16:31:29 revo
-Ulrich Fellmann: + 24 trd=de
-Revision 1.18 2003/01/13 17:35:52 revo
 -->
 </vortaro>

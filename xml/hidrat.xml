@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hidrat.xml,v 1.15 2013/10/31 02:10:27 revo Exp $">
+<art mrk="$Id: hidrat.xml,v 1.17 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>hidrat</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -17,6 +17,10 @@
   </snc>
   <trd lng="be">&c_g;&c_ib;&c_d;&c_r;&c_a;&c_t;</trd>
   <trd lng="ca">hidrat</trd>
+  <trdgrp lng="cs">
+    <trd>hydrát</trd>,
+    <trd>sůl s krystalickou vodou</trd>
+  </trdgrp>
   <trd lng="de">Hydrat</trd>
   <trd lng="el">&ypsilon;&delta;&rho;&omikron;&chi;&epsilon;&jota_ton;&delta;&jota;&omikron;</trd>
   <trd lng="fr">hydrate</trd>
@@ -29,6 +33,7 @@
   </trdgrp>
   <trd lng="pt">hidrato</trd>
   <trd lng="ru">&c_g;&c_i;&c_d;&c_r;&c_a;&c_t;</trd>
+  <trd lng="sk">hydrát</trd>
 </drv>
 
 <drv mrk="hidrat.0a">
@@ -64,6 +69,11 @@
   </snc>
   <trd lng="be">&c_g;&c_ib;&c_d;&c_r;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">hidratar</trd>
+  <trdgrp lng="cs">
+    <trd>hasit</trd>,
+    <trd>hydratovat</trd>,
+    <trd>sloučit s vodou</trd>
+  </trdgrp>
   <trd lng="de">hydratisieren</trd>
   <trd lng="el">&ypsilon;&delta;&rho;&omikron;&chi;&epsilon;&jota;&delta;&omega_ton;&ny;&omega;</trd>
   <trd lng="fr">hydrater<klr tip="ind"> (chim., transformer en
@@ -76,6 +86,10 @@
   </trdgrp>
   <trd lng="pt">hidratar</trd>
   <trd lng="ru">&c_g;&c_i;&c_d;&c_r;&c_a;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>hydrátovať</trd>,
+    <trd>zlučovať s vodou</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="hidrat.karbon0o">
@@ -99,20 +113,28 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="en">carbohydrate</trd>
   <trdgrp lng="ca">
     <trd>gl&uacute;cid</trd>,
     <trd>gl&iacute;cid</trd>
   </trdgrp>
+  <trd lng="cs">uhlovodík</trd>
+  <trd lng="en">carbohydrate</trd>
   <trd lng="fr">glucide</trd>
   <trdgrp lng="pt">
     <trd>glic&iacute;dio</trd>,
     <trd>gluc&iacute;dio</trd>
   </trdgrp>
+  <trd lng="sk">uhľovodík</trd>
 </drv>
 </art>
 <!--
 $Log: hidrat.xml,v $
+Revision 1.17  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/10/31 02:10:27  revo
 Jeromo Vasxe: + karbon~o
 

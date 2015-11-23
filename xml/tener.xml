@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tener.xml,v 1.11 2012/08/13 20:10:18 revo Exp $">
+<art mrk="$Id: tener.xml,v 1.13 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>8</ofc><rad>tener</rad>/a <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -38,6 +38,10 @@
   <trdgrp lng="ca">
     <trd>tendre</trd>,
     <trd>dol&ccedil;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>láskyplný</trd>,
+    <trd>něžný</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>z&auml;rtlich</trd>,
@@ -78,6 +82,10 @@
     <trd>&c_l;&c_a;&c_s;&c_k;&c_o;&c_v;&c_y;&c_j;</trd>,
     <trd>&c_s;&c_je;&c_r;&c_d;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>láskyplný</trd>,
+    <trd>nežný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tener.0e">
@@ -103,6 +111,7 @@
     <trd>tendrament</trd>,
     <trd>dol&ccedil;ament</trd>
   </trdgrp>
+  <trd lng="cs">teneramente</trd>
   <trdgrp lng="de">
     <trd>z&auml;rtlich</trd>,
     <trd>sanft</trd>,
@@ -138,10 +147,17 @@
     <trd>&c_s;&c_je;&c_r;&c_d;&c_je;&c_ch;&c_n;&c_o;</trd>,
     <trd>&c_s; <ind>&c_l;&c_ju;&c_b;&c_o;&c_v;&c_mol;&c_ju;</ind></trd>
   </trdgrp>
+  <trd lng="sk">nežne</trd>
 </drv>
 </art>
 <!--
 $Log: tener.xml,v $
+Revision 1.13  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2012/08/13 20:10:18  revo
 Marc Rausell: + trd ca
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hin.xml,v 1.9 2012/10/10 00:10:13 revo Exp $">
+<art mrk="$Id: hin.xml,v 1.11 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>hin</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -25,6 +25,10 @@
     </refgrp>
   </snc>
   <trd lng="bg">&c_m;&c_u;&c_l;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>hin</trd>,
+    <trd>hín</trd>
+  </trdgrp>
   <trd lng="de">Maulesel</trd>
   <trd lng="en">hinny</trd>
   <trdgrp lng="fa">
@@ -38,10 +42,17 @@
   <trd lng="it">bardotto</trd>
   <trd lng="pt">burro</trd>
   <trd lng="ru">&c_l;&c_o;&c_sh;&c_a;&c_k;</trd>
+  <trd lng="sk">mulica</trd>
 </drv>
 </art>
 <!--
 $Log: hin.xml,v $
+Revision 1.11  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2012/10/10 00:10:13  revo
 Jeromo Vasxe: + ekz
 

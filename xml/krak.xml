@@ -2,32 +2,11 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krak.xml,v 1.20 2013/10/16 01:10:16 revo Exp $">
+<art mrk="$Id: krak.xml,v 1.23 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>krak</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
-<drv mrk="krak.0">
-  <kap><tld/></kap>
-  <gra><vspec>sonimito</vspec></gra>
-  <snc mrk="krak.0.SON">
-    <dif>
-      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
-      de krevo, de rompo:
-      <ekz>
-        &leftquot;<tld/>!&rightquot; la silikvo krevis, kaj &ccirc;iuj kvin pizoj elruli&gcirc;is
-        <fnt><bib>Fab3</bib>, <lok>kvin en unu silikvo</lok></fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="fr">crac !</trd>
-  <trdgrp lng="ru">
-    <trd>&c_h;&c_r;&c_u;&c_s;&c_t;&c_mol;!</trd>,
-    <trd>&c_k;&c_r;&c_a;&c_k;!</trd>
-  </trdgrp>
-  <trd lng="hu">reccs!</trd>
-</drv>
-
 <drv mrk="krak.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
   <gra><vspec>ntr</vspec></gra>
@@ -95,6 +74,13 @@
     <trd>&c_l;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_h;&c_r;&c_a;&c_b;&c_u;&c_s;&c_t;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bortit se</trd>,
+    <trd>bouchat</trd>,
+    <trd>praskat</trd>,
+    <trd>prásknout</trd>,
+    <trd>pukat</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>krachen</trd>,
     <trd>knacken</trd>
@@ -121,7 +107,34 @@
     <trd>&c_t;&c_r;&c_je;&c_shch;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_h;&c_r;&c_u;&c_s;&c_t;&c_je;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>plieskať</trd>,
+    <trd>práskať</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="krak.0">
+  <kap><tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="krak.0.SON">
+    <dif>
+      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
+      de krevo, de rompo:
+      <ekz>
+        &leftquot;<tld/>!&rightquot; la silikvo krevis, kaj &ccirc;iuj kvin pizoj elruli&gcirc;is
+        <fnt><bib>Fab3</bib>, <lok>kvin en unu silikvo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">crac !</trd>
+  <trdgrp lng="ru">
+    <trd>&c_h;&c_r;&c_u;&c_s;&c_t;&c_mol;!</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_k;!</trd>
+  </trdgrp>
+  <trd lng="hu">reccs!</trd>
+</drv>
+
+
 
 <drv mrk="krak.0o">
   <kap><tld/>o</kap>
@@ -142,6 +155,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>lusknutí</trd>,
+    <trd>praskot</trd>,
+    <trd>třesknutí</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Krachen</trd>
   </trdgrp>
@@ -158,6 +176,11 @@
   <trdgrp lng="ru">
     <trd>&c_h;&c_r;&c_u;&c_s;&c_t;</trd>,
     <trd>&c_t;&c_r;&c_je;&c_s;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>lúsknutie</trd>,
+    <trd>praskot</trd>,
+    <trd>tresknutie</trd>
   </trdgrp>
 </drv>
 
@@ -184,6 +207,13 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>chrastit</trd>,
+    <trd>cvakat</trd>,
+    <trd>dostávat trhlinu</trd>,
+    <trd>lupat <klr>(oheň)</klr></trd>,
+    <trd>pukat</trd>
+  </trdgrp>
   <trd lng="de">knistern</trd>
   <trdgrp lng="en">
     <trd>crackle</trd>,
@@ -202,6 +232,10 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_o;&c_t;&c_r;&c_je;&c_s;&c_k;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_h;&c_r;&c_u;&c_s;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cvakať</trd>,
+    <trd>pukať</trd>
   </trdgrp>
 </drv>
 
@@ -260,6 +294,15 @@
 </art>
 <!--
 $Log: krak.xml,v $
+Revision 1.23  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2015/02/15 11:10:22  revo
+Wolfram Diestel: ordo de drv
+
 Revision 1.20  2013/10/16 01:10:16  revo
 Jeromo Vasxe: ref al lst sonoj
 
@@ -279,8 +322,5 @@ Revision 1.15  2005/02/07 17:32:08  revo
 Yury Finkel: +trd ru
 
 Revision 1.14  2004/08/01 19:37:37  revo
-Jeromo Vasxe: + ~ ~o, preciz. kk fnt
-
-Revision 1.13 2004/05/20 20:15:22 revo
 -->
 </vortaro>

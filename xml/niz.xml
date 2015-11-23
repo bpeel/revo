@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: niz.xml,v 1.16 2011/12/01 07:10:08 revo Exp $">
+<art mrk="$Id: niz.xml,v 1.17 2015/06/29 16:33:21 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>niz</rad>/o
@@ -21,24 +21,28 @@
         129a</lok></fnt>.
       </ekz>
     </dif>
-  </snc>      
-  <trd lng="bg">&c_m;&c_a;&c_l;&c_malmol;&c_k; &c_ja;&c_s;&c_t;&c_r;&c_je;&c_b;</trd>                         
+  </snc>
+  <trd lng="bg">&c_m;&c_a;&c_l;&c_malmol;&c_k; &c_ja;&c_s;&c_t;&c_r;&c_je;&c_b;</trd>
   <trd lng="br">sparfell c'hlas</trd>
   <trd lng="cs">krahujec obecn&yacute;</trd>
   <trd lng="de">Sperber</trd>
   <trd lng="en">sparrow-hawk</trd>
+  <trd lng="es">gavil&aacute;n</trd>
   <trd lng="fr">&eacute;pervier<klr> (oiseau)</klr></trd>
   <trd lng="hu">karvaly</trd>
   <trd lng="nl">sperwer</trd>
   <trd lng="pl">krogulec</trd>
   <trd lng="pt">gavi&atilde;o</trd>
-  <trd lng="es">gavil&aacute;n</trd>
   <trd lng="ru">&c_ja;&c_s;&c_t;&c_r;&c_je;&c_b;-<ind>&c_p;&c_je;&c_r;&c_je;&c_p;&c_je;&c_l;&c_ja;&c_t;&c_n;&c_i;&c_k;</ind></trd>
+  <trd lng="sk">krahulec</trd>
   <trd lng="sv">sparvh&ouml;k</trd>
 </drv>
 </art>
 <!--
 $Log: niz.xml,v $
+Revision 1.17  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2011/12/01 07:10:08  revo
 Wieland Pusch: +trd bg
 

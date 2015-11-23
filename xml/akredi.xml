@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: akredi.xml,v 1.16 2012/07/15 11:10:08 revo Exp $">
+<art mrk="$Id: akredi.xml,v 1.17 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>akredit</rad>/i
 </kap>
@@ -47,6 +47,11 @@
     </trdgrp>
   </snc>
   <trd lng="ca">acreditar</trd>
+  <trdgrp lng="cs">
+    <trd>akreditovat</trd>,
+    <trd>ověřit</trd>,
+    <trd>vystavit akreditiv</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>splnomocni&tcaron;</trd>,
     <trd>akreditova&tcaron;</trd>
@@ -55,6 +60,9 @@
 </art>
 <!--
 $Log: akredi.xml,v $
+Revision 1.17  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.16  2012/07/15 11:10:08  revo
 Marc Rausell: + trd ca
 

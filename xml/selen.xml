@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: selen.xml,v 1.17 2014/06/03 10:10:30 revo Exp $">
+<art mrk="$Id: selen.xml,v 1.19 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>selen</rad>/o
 </kap>
@@ -27,10 +27,14 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_s;&c_e;&c_l;&c_je;&c_n;</trd>   
-  <trd lng="bg">&c_s;&c_je;&c_l;&c_je;&c_n;</trd>          
+  <trd lng="be">&c_s;&c_e;&c_l;&c_je;&c_n;</trd>
+  <trd lng="bg">&c_s;&c_je;&c_l;&c_je;&c_n;</trd>
   <trd lng="br">seleniom</trd>
   <trd lng="ca">seleni</trd>
+  <trdgrp lng="cs">
+    <trd>selen</trd>,
+    <trd>selenium</trd>
+  </trdgrp>
   <trd lng="de">Selen</trd>
   <trd lng="en">selenium</trd>
   <trd lng="es">selenio</trd>
@@ -44,11 +48,22 @@
   <trd lng="pl">selen</trd>
   <trd lng="pt">sel&eacute;nio</trd>
   <trd lng="ru">&c_s;&c_je;&c_l;&c_je;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>Se</trd>,
+    <trd>selén</trd>,
+    <trd>selénium</trd>
+  </trdgrp>
   <trd lng="sv">selen</trd>
 </drv>
 </art>
 <!--
 $Log: selen.xml,v $
+Revision 1.19  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2014/06/03 10:10:30  revo
 Eko Nur Syah Hidayat: +id
 

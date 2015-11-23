@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ur.xml,v 1.18 2012/08/13 14:10:29 revo Exp $">
+<art mrk="$Id: ur.xml,v 1.20 2015/07/04 08:37:45 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>ur</rad>/o
@@ -20,28 +20,36 @@
        </ekz>
      </dif>
    </snc>
-   <trd lng="be">&c_z;&c_u;&c_b;&c_a;&c_r;</trd>
-   <trd lng="ca">ur</trd>
-   <trdgrp lng="de">
+  <trd lng="lat">Bos urus</trd>
+  <trd lng="be">&c_z;&c_u;&c_b;&c_a;&c_r;</trd>
+  <trd lng="ca">ur</trd>
+  <trd lng="cs">pratur</trd>
+  <trdgrp lng="de">
      <trd>Ur</trd>,
      <trd>Auerochse</trd>
    </trdgrp>
-   <trd lng="en">aurochs</trd>
-   <trd lng="es">uro</trd>
-   <trd lng="fi">alkuh&auml;rk&auml;</trd>
-   <trd lng="fr">aurochs</trd>
-   <trd lng="hu">&odblac;stulok</trd>
-   <trd lng="it">uro</trd>
-   <trd lng="lat">Bos urus</trd>
-   <trd lng="nl">oeros</trd>
-   <trdgrp lng="pt">
+  <trd lng="en">aurochs</trd>
+  <trd lng="es">uro</trd>
+  <trd lng="fi">alkuh&auml;rk&auml;</trd>
+  <trd lng="fr">aurochs</trd>
+  <trd lng="hu">&odblac;stulok</trd>
+  <trd lng="it">uro</trd>
+  <trd lng="nl">oeros</trd>
+  <trdgrp lng="pt">
     <trd>auroque</trd>
    </trdgrp>
-   <trd lng="ru">&c_z;&c_u;&c_b;&c_r;</trd>
+  <trd lng="ru">&c_z;&c_u;&c_b;&c_r;</trd>
+  <trd lng="sk">zubor európsky</trd>
 </drv>
 </art>
 <!--
 $Log: ur.xml,v $
+Revision 1.20  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/08/13 14:10:29  revo
 Marc Rausell: + trd ca
 

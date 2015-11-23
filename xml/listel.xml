@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: listel.xml,v 1.10 2006/09/15 16:30:31 revo Exp $">
+<art mrk="$Id: listel.xml,v 1.12 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>listel</rad>/o
 </kap>
@@ -22,6 +22,7 @@
       <ref cel="modlur.0o">modluro</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">výstupek</trd>
   <trd lng="de">Leiste</trd>
   <trdgrp lng="fr">
     <trd>moulure</trd>,
@@ -44,10 +45,20 @@
     <trd>&c_v;&c_a;&c_l;&c_i;&c_k;</trd>,
     <trd>&c_p;&c_o;&c_r;&c_je;&c_b;&c_r;&c_i;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>lem<klr>(vyčnievajúci)</klr></trd>,
+    <trd>obruba</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: listel.xml,v $
+Revision 1.12  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.10  2006/09/15 16:30:31  revo
 Tulio Flores: +tr pt
 

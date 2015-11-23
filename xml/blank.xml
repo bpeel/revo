@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: blank.xml,v 1.37 2014/07/01 17:10:19 revo Exp $">
+<art mrk="$Id: blank.xml,v 1.41 2015/10/05 04:10:25 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>blank</rad>/a <fnt><bib>PV</bib></fnt>
@@ -41,6 +41,7 @@
   <trd lng="nl">wit</trd>
   <trd lng="oc">blanc</trd>
   <trd lng="pl">bia&lstroke;y</trd>
+  <trd lng="pt">branco</trd>
   <trd lng="ru">&c_b;&c_je;&c_l;&c_y;&c_j;</trd>
   <trd lng="sk">biely</trd>
   <trd lng="sv">vit</trd>
@@ -50,6 +51,7 @@
     <trd>ak</trd>
   </trdgrp>
   <trd lng="vo">vietik</trd>
+  <trd lng="zh">&#30333; [<ind>b&aacute;i</ind>]</trd>
 </drv>
 
 <drv mrk="blank.0o">
@@ -77,6 +79,10 @@
   </snc>
   <trd lng="be">&c_b;&c_je;&c_l;&c_mol;</trd>
   <trd lng="br">gwenn</trd>
+  <trdgrp lng="cs">
+    <trd>b&ecaron;loba</trd>,
+    <trd>b&ecaron;lost</trd>
+  </trdgrp>
   <trd lng="de">Wei&szlig;</trd>
   <trd lng="en">white</trd>
   <trd lng="es">blanco</trd>
@@ -86,13 +92,18 @@
   </trdgrp>
   <trd lng="fr">blanc <klr>(couleur)</klr></trd>
   <trd lng="hu">feh&eacute;r sz&iacute;n</trd>
+  <trd lng="ku">sp&icirc;</trd>
   <trd lng="nl">het <ind>wit</ind></trd>
-  <trd lng="vo">viet</trd>
   <trdgrp lng="ru">
     <trd>&c_b;&c_je;&c_l;&c_y;&c_j; &c_c;&c_v;&c_je;&c_t;</trd>,
     <trd>&c_b;&c_je;&c_l;&c_i;&c_z;&c_n;&c_a;</trd>
   </trdgrp>
-  <trd lng="ku">sp&icirc;</trd>
+  <trdgrp lng="sk">
+    <trd>belos&tcaron;</trd>,
+    <trd>biela farba</trd>,
+    <trd>bieloba</trd>
+  </trdgrp>
+  <trd lng="vo">viet</trd>
 </drv>
 
 <drv mrk="blank.0ajxo">
@@ -110,16 +121,25 @@
     </dif>
   </snc>
   <trd lng="be">&c_b;&c_ja;&c_l;&c_o;&c_k;</trd>
+  <trdgrp lng="cs">
+    <trd>b&ecaron;loba</trd>,
+    <trd>b&ecaron;lost</trd>
+  </trdgrp>
   <trd lng="en">white</trd>
   <trd lng="fr">blanc<klr tip="ind"> (subst.)</klr></trd>
   <trd lng="hu">feh&eacute;rs&eacute;g<klr tip="ind"> 
   (feh&eacute;r valami)</klr></trd>
   <trd lng="nl">iets <ind>wit</ind>s</trd>
-  <trd lng="vo">din vietik</trd>
   <trdgrp lng="ru">
     <trd>&c_n;&c_je;&c_ch;&c_t;&c_o; <ind>&c_b;&c_je;&c_l;&c_o;&c_je;
     </ind></trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>belos&tcaron;</trd>,
+    <trd>biela farba</trd>,
+    <trd>bieloba</trd>
+  </trdgrp>
+  <trd lng="vo">din vietik</trd>
 </drv>
 
 <drv mrk="blank.0eta">
@@ -137,6 +157,7 @@
     <trd>arwenn</trd>,
     <trd>damwenn</trd>
   </trdgrp>
+  <trd lng="cs">blanketov&yacute;</trd>
   <trd lng="de">wei&szlig;lich</trd>
   <trdgrp lng="fa">
     <trd>&a_s;&a_f;&f_y;&a_d;&f_g;&a_w;&a_n;</trd>,
@@ -148,6 +169,7 @@
   <trd lng="nl">gebroken <ind>wit</ind></trd>
   <trd lng="pl">bia&lstroke;awy</trd>
   <trd lng="ru">&c_b;&c_je;&c_l;&c_o;&c_v;&c_a;&c_t;&c_y;&c_j;</trd>
+  <trd lng="sk">belav&yacute;</trd>
   <trd lng="tr">beyaz&inodot;ms&inodot;</trd>
   <trd lng="vo">vietilik</trd>
 </drv>
@@ -176,6 +198,12 @@
   </snc>
   <trd lng="be">&c_b;&c_ja;&c_l;&c_ib;&c_c;&c_mol;</trd>
   <trd lng="br">gwenna&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>b&iacute;lit</trd>,
+    <trd>b&ecaron;lit</trd>,
+    <trd>ob&iacute;lit</trd>,
+    <trd>vyb&iacute;lit</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>wei&szlig;en</trd>, <trd>bleichen</trd>
   </trdgrp>
@@ -196,7 +224,11 @@
   </trdgrp>
   <trd lng="pl">wybiela&cacute;</trd>
   <trd lng="ru">&c_b;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
-  <trd lng="sk">bieli&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>bieli&tcaron;</trd>,
+    <trd>nabieli&tcaron;</trd>,
+    <trd>vybieli&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="blank.0ulo">
@@ -220,6 +252,7 @@
   <trd lng="be">&c_b;&c_je;&c_l;&c_y;<klr> (&c_n;&c_a;&c_z;.)</klr>
   </trd>
   <trd lng="br">den <ind>gwenn</ind></trd>
+  <trd lng="cs">b&ecaron;logvard&ecaron;jec</trd>
   <trd lng="de">Wei&szlig;er</trd>
   <trd lng="es">blanco</trd>
   <trd lng="fa">&a_s;&a_f;&f_y;&a_d;&f_p;&a_w;&a_s;&a_t;</trd>
@@ -231,7 +264,10 @@
   <trd lng="pl">bia&lstroke;y</trd>
   <trd lng="ru">&c_b;&c_je;&c_l;&c_y;&c_j;<klr tip="amb"> 
   (&c_s;&c_u;&c_shch;.)</klr></trd>
-  <trd lng="sk">beloch</trd>
+  <trdgrp lng="sk">
+    <trd>beloch</trd>,
+    <trd>bielogvardejec</trd>
+  </trdgrp>
   <trd lng="tr">beyaz</trd>
   <trd lng="vo">vietel</trd>
 </drv>
@@ -252,7 +288,8 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="fa">&a_s;&a_f;&f_y;&a_d;&a_h;&a_hamza_sure; &a_t;&a_kh;&a_m;&zwnj;&a_m;&a_r;&a_gh;</trd>
+  <trd lng="fa">&a_s;&a_f;&f_y;&a_d;&a_h;&a_hamza_sure; 
+&a_t;&a_kh;&a_m;&zwnj;&a_m;&a_r;&a_gh;</trd>
   <trd lng="fr">blanc d'&oelig;uf</trd>
   <trdgrp lng="id">
     <trd>albumen</trd>,
@@ -269,6 +306,18 @@
 <!--
 
 $Log: blank.xml,v $
+Revision 1.41  2015/10/05 04:10:25  revo
+Evandro Avellar: +trd pt
+
+Revision 1.40  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.38  2015/06/26 22:10:24  revo
+Darcy Shen: +trd zh
+
 Revision 1.37  2014/07/01 17:10:19  revo
 Eko Nur Syah Hidayat: +id
 
@@ -279,18 +328,6 @@ Revision 1.35  2013/09/14 09:10:47  revo
 Wolfram Diestel: ref al lst koloroj, ref-oj
 
 Revision 1.34  2010/09/02 16:30:31  revo
-Jeromo Vasxe: - kramp, reord. drv, + 2 fak
-
-Revision 1.33  2010/08/26 16:30:25  revo
-Mireille Corobu: ovoblanko
-
-Revision 1.32  2009/08/26 16:31:39  revo
-Emmanuel Debanne: +trd ku
-
-Revision 1.31  2009/07/08 16:31:09  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.30  2009/06/20 18:01:08  revo
 -->
 
 </vortaro>

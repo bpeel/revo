@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sincer.xml,v 1.17 2014/08/19 01:10:12 revo Exp $">
+<art mrk="$Id: sincer.xml,v 1.20 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sincer</rad>/a <fnt><bib>PV</bib></fnt>
@@ -46,7 +46,10 @@
     <trd>sincer</trd>,
     <trd>franc</trd>
   </trdgrp>
-  <trd lng="cs">up&rcaron;&iacute;mn&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>up&rcaron;&iacute;mn&yacute;</trd>,
+    <trd>upřímný</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>aufrichtig</trd>,
     <trd>lauter</trd>
@@ -67,6 +70,36 @@
     <trd>&c_i;&c_s;&c_k;&c_r;&c_je;&c_n;&c_n;&c_i;&c_j;</trd>,
     <trd>&c_ch;&c_i;&c_s;&c_t;&c_o;&c_s;&c_je;&c_r;&c_d;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nezaobalený</trd>,
+    <trd>otvorený</trd>,
+    <trd>úprimný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sincer.0o">
+  <kap><tld/>o,
+  <var><kap><tld/>eco</kap></var></kap>
+  <snc mrk="sincer.0o.PSI">
+    <dif>
+      <ref tip="vid" cel="dir.ver0emo.PSI">Verdiremo</ref>,
+      inklino al malka&scirc;a diro de sentoj kaj opinioj:
+      <ekz>
+        la krabo &ccirc;iam montras <tld/>econ kaj amikecon al la 
+        serpento, dum tiu estas insida kaj malvirta
+        <fnt>
+          <aut>red. Vejdo</aut>,
+          <vrk><url
+          ref="http://cindymckee.com/librejo/440FablojdeEzopo.pdf">
+          440 Fabloj de Ezopo</url></vrk>,
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">upřímnost</trd>
+  <trd lng="fr">sinc&eacute;rit&eacute;</trd>
+  <trd lng="sk">úprimnosť</trd>
 </drv>
 
 <drv mrk="sincer.mal0a">
@@ -93,6 +126,10 @@
     <trd lng="es">falseado</trd>
   </snc>
   <trd lng="bg">&c_n;&c_je;&c_i;&c_s;&c_k;&c_r;&c_je;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>neupřímný</trd>,
+    <trd>záludný</trd>
+  </trdgrp>
   <trd lng="de">unaufrichtig</trd>
   <trd lng="en">insincere</trd>
   <trdgrp lng="fr">
@@ -104,10 +141,23 @@
     <trd>achterbaks</trd>
   </trdgrp>
   <trd lng="pl">nieszczery</trd>
+  <trdgrp lng="sk">
+    <trd>falošný</trd>,
+    <trd>neúprimný</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: sincer.xml,v $
+Revision 1.20  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/12/19 23:10:24  revo
+Jeromo Vasxe: + ~eco
+
 Revision 1.17  2014/08/19 01:10:12  revo
 Guillermo Molleda Jimena: Hispana tradukado
 
@@ -127,8 +177,5 @@ Revision 1.12 2009/08/08 16:33:16 revo
 Russ Williams: +trd en
 
 Revision 1.11 2004/10/12 16:31:59 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10 2003/03/13 17:34:07 revo
 -->
 </vortaro>

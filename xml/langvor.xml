@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: langvor.xml,v 1.6 2012/07/30 09:10:20 revo Exp $">
+<art mrk="$Id: langvor.xml,v 1.8 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>langvor</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -25,6 +25,10 @@
     <trd>&c_z;&c_mol;&c_n;&c_ja;&c_m;&c_o;&c_g;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">llangor</trd>
+  <trdgrp lng="cs">
+    <trd>malátnost</trd>,
+    <trd>ochablost</trd>
+  </trdgrp>
   <trd lng="en">languor</trd>
   <trdgrp lng="fr">
     <trd>alanguissement</trd>,
@@ -34,10 +38,15 @@
     <trd>b&aacute;gyadts&aacute;g</trd>,
     <trd>ernyedts&eacute;g</trd>,
     <trd>lankad&aacute;s</trd>
-  </trdgrp>  
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>loomheid</trd>,
     <trd>slapheid</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>malátnosť</trd>,
+    <trd>ochablosť</trd>,
+    <trd>skleslosť</trd>
   </trdgrp>
 </drv>
 
@@ -55,6 +64,11 @@
     </dif>
   </snc>
   <trd lng="ca">llanguir</trd>
+  <trdgrp lng="cs">
+    <trd>být vyčerpán</trd>,
+    <trd>soužit se</trd>,
+    <trd>trápit se</trd>
+  </trdgrp>
   <trd lng="en">languish</trd>
   <trdgrp lng="fr">
     <trd>languir</trd>
@@ -63,13 +77,24 @@
     <trd>b&aacute;gyadt</trd>,
     <trd>ernyedt</trd>,
     <trd>lankadt</trd>
-  </trdgrp> 
-  <trd lng="nl">kwijnen</trd> 
+  </trdgrp>
+  <trd lng="nl">kwijnen</trd>
+  <trdgrp lng="sk">
+    <trd>byť vyčerpaný</trd>,
+    <trd>súžiť sa</trd>,
+    <trd>trápiť sa</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: langvor.xml,v $
+Revision 1.8  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2012/07/30 09:10:20  revo
 Marc Rausell: + trd ca
 

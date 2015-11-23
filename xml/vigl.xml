@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vigl.xml,v 1.20 2014/01/08 21:10:14 revo Exp $">
+<art mrk="$Id: vigl.xml,v 1.22 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vigl</rad>/a <fnt><bib>PV</bib></fnt>
@@ -98,20 +98,38 @@
       <trd>&c_p;&c_r;&c_i;&c_s;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bdělý</trd>,
+    <trd>bystrý</trd>,
+    <trd>hbitý</trd>,
+    <trd>jarý</trd>,
+    <trd>čilý</trd>,
+    <trd>čiperný</trd>,
+    <trd>živý</trd>
+  </trdgrp>
   <trd lng="en">alert</trd>
   <trdgrp lng="es">
      <trd>despierto</trd>,
      <trd>espabilado</trd>,
      <trd>listo</trd>
   </trdgrp>
-  <trdgrp lng="nl">
-    <trd>levendig</trd>,
-    <trd>kwiek</trd>
-  </trdgrp>
   <trdgrp lng="fr">
     <trd>alerte<klr tip="amb"> (adj.)</klr></trd>,
     <trd>anim&eacute;</trd>,
     <trd>vif</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>levendig</trd>,
+    <trd>kwiek</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bdelý</trd>,
+    <trd>bystrý</trd>,
+    <trd>pohyblivý</trd>,
+    <trd>vrtký</trd>,
+    <trd>čiperný</trd>,
+    <trd>čulý</trd>,
+    <trd>živý</trd>
   </trdgrp>
 </drv>
 
@@ -129,6 +147,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>křepce</trd>,
+    <trd>čile</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>vigoureusement</trd>,
     <trd>vivement</trd>
@@ -142,6 +164,12 @@
     <trd>&c_o;&c_zh;&c_i;&c_v;&c_l;&c_jo;&c_n;&c_n;&c_o;</trd>,
     <trd>&c_b;&c_o;&c_d;&c_r;&c_o;</trd>,
     <trd>&c_e;&c_n;&c_je;&c_r;&c_g;&c_i;&c_ch;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bdelo</trd>,
+    <trd>bystro</trd>,
+    <trd>sviežo</trd>,
+    <trd>čulo</trd>
   </trdgrp>
 </drv>
 
@@ -162,6 +190,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bdít</trd>,
+    <trd>být bdělý</trd>,
+    <trd>nelenit</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>s'<ind>activer</ind></trd>,
     <trd>se <ind>d&eacute;mener</ind></trd>,
@@ -171,6 +204,7 @@
     <trd>szorgoskodik</trd>,
     <trd>s&uuml;rg&ouml;l&odblac;dik</trd>
   </trdgrp>
+  <trd lng="sk">bdieť</trd>
 </drv>
 
 <drv mrk="vigl.0o">
@@ -192,6 +226,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bdělost</trd>,
+    <trd>jarost</trd>,
+    <trd>křepkost</trd>,
+    <trd>čilost</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>animation</trd>,
     <trd>vigilance</trd>,
@@ -207,6 +247,14 @@
     <trd>&c_zh;&c_i;&c_v;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_b;&c_o;&c_d;&c_r;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_e;&c_n;&c_je;&c_r;&c_g;&c_i;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bdelosť</trd>,
+    <trd>bystrosť</trd>,
+    <trd>rezkosť</trd>,
+    <trd>sviežosť</trd>,
+    <trd>veselosť</trd>,
+    <trd>čulosť</trd>
   </trdgrp>
 </drv>
 
@@ -262,6 +310,7 @@
       <ref cel="instig.0i">instigi</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">vzpružit</trd>
   <trdgrp lng="es">
      <trd>despertar</trd>,
      <trd>espabilar (ref. a estar atento)</trd>
@@ -276,6 +325,11 @@
     <trd>&c_o;&c_b;&c_o;&c_d;&c_r;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_d;&c_b;&c_o;&c_d;&c_r;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_o;&c_shch;&c_r;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>občerstviť</trd>,
+    <trd>oživiť</trd>,
+    <trd>vzpružiť</trd>
   </trdgrp>
 </drv>
 
@@ -329,6 +383,10 @@
     <trd>&c_b;&c_ja;&c_z;&c_zh;&c_y;&c_z;&c_mol;&c_n;&c_je;&c_n;&c_y;</trd>,
     <trd>&c_s;&c_l;&c_a;&c_b;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>netečný</trd>,
+    <trd>otupělý</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>tr&auml;ge</trd>,
     <trd>m&uuml;de</trd>
@@ -349,6 +407,12 @@
     <trd>&c_i;&c_n;&c_je;&c_r;&c_t;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_a;&c_p;&c_a;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_b;&c_je;&c_z;&c_zh;&c_i;&c_z;&c_n;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mdlý</trd>,
+    <trd>nepohyblivý</trd>,
+    <trd>pomalý</trd>,
+    <trd>ťarbavý</trd>
   </trdgrp>
 </drv>
 
@@ -410,6 +474,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">otupit pozornost</trd>
   <trdgrp lng="fr">
     <trd>abattre<klr tip="amb"> (rendre abattu)</klr></trd>,
     <trd>refroidir<klr tip="amb"> (l'ambiance etc.)</klr></trd>
@@ -424,6 +489,7 @@
     <trd>&c_o;&c_s;&c_l;&c_a;&c_b;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_d;&c_k;&c_o;&c_s;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">otupiť pozornosť</trd>
 </drv>
 
 <drv mrk="vigl.mal0igxi">
@@ -467,6 +533,7 @@
       <ref cel="vek.0i">veki</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">znovu oživit</trd>
   <trdgrp lng="fr">
     <trd>ranimer</trd>,
     <trd>r&eacute;veiller<klr tip="amb"> (fig.)</klr></trd>
@@ -477,6 +544,7 @@
     <trd>&c_p;&c_o;&c_d;&c_b;&c_o;&c_d;&c_r;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_zh;&c_i;&c_v;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">znova oživiť</trd>
 </drv>
 
 <drv mrk="vigl.re0igxi">
@@ -502,6 +570,12 @@
 </art>
 <!--
 $Log: vigl.xml,v $
+Revision 1.22  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2014/01/08 21:10:14  revo
 Jeromo Vasxe: + ~iga
 

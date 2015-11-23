@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konsis.xml,v 1.18 2011/12/30 17:10:09 revo Exp $">
+<art mrk="$Id: konsis.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konsist</rad>/i <fnt><bib>PV</bib></fnt>
@@ -43,22 +43,30 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_c;&c_a;</trd>
-  <trd lng="cs">skl&aacute;dat se</trd>
+  <trdgrp lng="cs">
+    <trd>sestávat</trd>,
+    <trd>skl&aacute;dat se</trd>,
+    <trd>skládat se z ...</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>bestehen (aus)</trd>,
     <trd>beschaffen sein (aus)</trd>
   </trdgrp>
   <trd lng="en">consist</trd>
+  <trd lng="es">consistir</trd>
   <trdgrp lng="fr">
     <trd>&ecirc;tre <ind>compos&eacute;</ind> de</trd>,
-    <trd>consister en</trd>,
+    <trd>consister<klr tip="amb"> en</klr></trd>,
     <trd>&ecirc;tre <ind>constitu&eacute;</ind> de</trd>
   </trdgrp>
   <trd lng="it">consistere</trd>
   <trd lng="nl">bestaan<klr tip="ind"> (uit, in)</klr></trd>
   <trd lng="pt">consistir</trd>
   <trd lng="ru">&c_s;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol; <klr>(&c_i;&c_z; &c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>
-  <trd lng="es">consistir</trd>
+  <trdgrp lng="sk">
+    <trd>pozostávať</trd>,
+    <trd>skladať sa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konsis.0o">
@@ -80,17 +88,22 @@
     </refgrp>    
   </snc>
   <trd lng="be">&c_s;&c_k;&c_l;&c_a;&c_d;</trd>
+  <trdgrp lng="cs">
+    <trd>sestava</trd>,
+    <trd>složení</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Beschaffenheit</trd>,
     <trd>Konsistenz</trd>
   </trdgrp>
+  <trd lng="es">consistencia</trd>
   <trdgrp lng="fr">
     <trd>composition<klr> (organisation)</klr></trd>,
     <trd>organisation</trd>
   </trdgrp>
   <trd lng="nl">samenstelling</trd>
   <trd lng="ru">&c_s;&c_o;&c_s;&c_t;&c_a;&c_v;</trd>
-  <trd lng="es">consistencia</trd>
+  <trd lng="sk">zloženie</trd>
 </drv>
 
 <drv mrk="konsis.0a">
@@ -104,15 +117,17 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_ju;&c_ch;&c_y;</trd>
+  <trd lng="cs">složený</trd>
   <trdgrp lng="de">
     <trd>bildend</trd>,
   </trdgrp>
+  <trd lng="es">constituyente</trd>
   <trd lng="fr">constitutif</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_o;&c_s;&c_t;&c_a;&c_v;&c_n;&c_o;&c_j;</trd>,
     <trd>&c_s;&c_o;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_ju;&c_shch;&c_i;&c_j;</trd>
   </trdgrp>
-  <trd lng="es">constituyente</trd>
+  <trd lng="sk">zložený</trd>
 </drv>
 
 <drv mrk="konsis.0ajxo">
@@ -179,16 +194,36 @@
     <trd>&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_f;&c_a;&c_r;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>skládat</trd>,
+    <trd>tvořit</trd>,
+    <trd>utvářet</trd>,
+    <trd>zakládat</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>composer<klr> (constituer)</klr></trd>,
     <trd>constituer</trd>
   </trdgrp>
   <trd lng="it">costituire</trd>
   <trd lng="ru">&c_s;&c_o;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>zakladať</trd>,
+    <trd>zložiť</trd>,
+    <trd>zostaviť</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: konsis.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2015/02/01 17:10:29  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.18  2011/12/30 17:10:09  revo
 Eduardo Navas: +trad es
 
@@ -208,8 +243,5 @@ Revision 1.13  2005/05/08 16:31:42  revo
 Yury Finkel: +trd ru
 
 Revision 1.12  2005/02/06 17:31:57  revo
-Marc Bavant: +drv ~ajxo
-
-Revision 1.11 2004/08/12 16:32:00 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kotang.xml,v 1.18 2012/10/23 00:12:31 revo Exp $">
+<art mrk="$Id: kotang.xml,v 1.20 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>kotangent</rad>/o
 </kap>
@@ -42,13 +42,19 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_t;&c_a;&c_n;&c_g;&c_je;&c_n;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>cotangens</trd>,
+    <trd>kotangens</trd>,
+    <trd>kotangenta</trd>
+  </trdgrp>
   <trd lng="de">Kotangens</trd>
   <trd lng="en">cotangent</trd>
   <trd lng="fr">cotangente</trd>
-  <trd lng="hu">kotangens</trd>  
+  <trd lng="hu">kotangens</trd>
   <trd lng="pl">cotangens</trd>
   <trd lng="pt">co-tangente</trd>
   <trd lng="ru">&c_k;&c_o;&c_t;&c_a;&c_n;&c_g;&c_je;&c_n;&c_s;</trd>
+  <trd lng="sk">kotangens</trd>
 </drv>
 
 <drv mrk="kotang.are0o">
@@ -149,6 +155,12 @@
 </art>
 <!--
 $Log: kotang.xml,v $
+Revision 1.20  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2012/10/23 00:12:31  revo
 Neil Roberts: aldonu la etikedon <var>
 

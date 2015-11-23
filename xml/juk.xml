@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: juk.xml,v 1.26 2014/06/30 10:10:15 revo Exp $">
+<art mrk="$Id: juk.xml,v 1.28 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>juk</rad>/i <fnt><bib>PV</bib></fnt>
@@ -46,6 +46,10 @@
   <trd lng="be">&c_s;&c_mol;&c_v;&c_ja;&c_r;&c_b;&c_je;&c_c;&c_mol;</trd>
   <trd lng="br">debroni&ntilde;</trd>
   <trd lng="ca">picar</trd>
+  <trdgrp lng="cs">
+    <trd>svrbět</trd>,
+    <trd>svědit</trd>
+  </trdgrp>
   <trd lng="de">jucken</trd>
   <trd lng="en">itch</trd>
   <trd lng="es">picar</trd>
@@ -66,6 +70,7 @@
     <trd>&c_ch;&c_je;&c_s;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_z;&c_u;&c_d;&c_je;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">svrbieť</trd>
 </drv>
 
 <drv mrk="juk.0a">
@@ -91,10 +96,12 @@
       <ref cel="tikl.0a">tikla</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">svědivý</trd>
   <trdgrp lng="fr">
     <trd>qui <ind>d&eacute;mange</ind></trd>,
     <trd>prurigineux</trd>
   </trdgrp>
+  <trd lng="sk">šteklivý</trd>
 </drv>
 
 <drv mrk="juk.0o">
@@ -107,6 +114,11 @@
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_v;&c_je;&c_r;&c_b;</trd>
   <trd lng="br">debron</trd>
+  <trdgrp lng="cs">
+    <trd>svrab</trd>,
+    <trd>svrbění</trd>,
+    <trd>svědění</trd>
+  </trdgrp>
   <trd lng="de">Jucken</trd>
   <trd lng="en">itch</trd>
   <trd lng="es">picor</trd>
@@ -116,8 +128,8 @@
   </trdgrp>
   <trd lng="hu">viszket&eacute;s</trd>
   <trd lng="id">gatal</trd>
-  <trd lng="nl">jeuk</trd>
   <trd lng="it">prurito</trd>
+  <trd lng="nl">jeuk</trd>
   <trdgrp lng="pl">
     <trd>sw&eogonek;dzenie</trd>,
     <trd>&sacute;wierzbienie</trd>
@@ -127,10 +139,20 @@
     <trd>comi&ccedil;&atilde;o</trd>
   </trdgrp>
   <trd lng="ru">&c_z;&c_u;&c_d;</trd>
+  <trdgrp lng="sk">
+    <trd>svrab</trd>,
+    <trd>svrbenie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: juk.xml,v $
+Revision 1.28  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2014/06/30 10:10:15  revo
 Eko Nur Syah Hidayat: +id
 

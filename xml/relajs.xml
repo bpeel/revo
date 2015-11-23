@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: relajs.xml,v 1.3 2009/11/11 17:30:17 revo Exp $">
+  <art mrk="$Id: relajs.xml,v 1.5 2015/07/04 08:37:42 revo Exp $">
     <kap>
       <rad>relajs</rad>/o
     </kap>
@@ -78,7 +78,9 @@
         <trd>relais</trd>
       </trdgrp>
       <trd lng="ru">&c_r;&c_je;&c_l;&c_je;</trd>
-    </drv>
+      <trd lng="sk">relé</trd>
+  <trd lng="cs">relé</trd>
+</drv>
 
 
     <drv mrk="relajs.tempo0o">
@@ -111,6 +113,12 @@
 
   <!--
   $Log: relajs.xml,v $
+  Revision 1.5  2015/07/04 08:37:42  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.4  2015/06/29 16:33:22  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.3  2009/11/11 17:30:17  revo
   Wieland Pusch: +trd bg+de
 

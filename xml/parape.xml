@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: parape.xml,v 1.16 2010/06/25 17:26:17 revo Exp $">
+<art mrk="$Id: parape.xml,v 1.18 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>parapet</rad>/o
 </kap>
@@ -70,10 +70,24 @@
     <trd lng="nl">kogelvrij vest</trd>
     <trd lng="pt">colete &agrave; prova de <ind>bala</ind></trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>parapet</trd>,
+    <trd>předprseň</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>násyp pred zákopom</trd>,
+    <trd>parapet</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: parape.xml,v $
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2010/06/25 17:26:17  revo
 Antonio Codazzi: +trd it
 

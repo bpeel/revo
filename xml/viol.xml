@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: viol.xml,v 1.34 2014/06/10 04:10:56 revo Exp $">
+<art mrk="$Id: viol.xml,v 1.37 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>viol</rad>/o <fnt><bib>PV</bib></fnt>
@@ -41,6 +41,11 @@
   <trd lng="ru">&c_f;&c_i;&c_a;&c_l;&c_k;&c_a;</trd>
   <trd lng="sv">viol</trd>
   <trd lng="tr">menek&scedil;e</trd>
+  <trd lng="sk">sirôtka</trd>
+  <trdgrp lng="cs">
+    <trd>maceška</trd>,
+    <trd>maceška trojbarevná</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="viol.0a">
@@ -64,6 +69,8 @@
     <trd lng="sv">violett</trd>
     <trd lng="tr">mor</trd>
   </snc>
+  <trd lng="cs">fialový</trd>
+  <trd lng="sk">fialový</trd>
 </drv>
 
 <drv mrk="viol.0ego">
@@ -95,6 +102,8 @@
     &c_g;&c_l;&c_a;&c_z;&c_k;&c_i;</trd>
   </trdgrp>
   <trd lng="sv">styvmorsviol</trd>
+  <trd lng="sk">sirôtka</trd>
+  <trd lng="cs">zahradní maceška</trd>
 </drv>
 
 <drv mrk="viol.0kolora">
@@ -106,6 +115,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_f;&c_ib;&c_ja;&c_l;&c_je;&c_t;&c_a;&c_v;&c_y;</trd>
+  <trd lng="cs">fialový</trd>
   <trd lng="de">violett</trd>
   <trd lng="en">violet</trd>
   <trd lng="fa">&a_b;&a_n;&a_f;&a_sh;</trd>
@@ -120,6 +130,7 @@
   <trd lng="pt">violeta</trd>
   <trd lng="ru">&c_f;&c_i;&c_o;&c_l;&c_je;&c_t;&c_o;&c_v;&c_y;&c_j;
   </trd>
+  <trd lng="sk">fialový</trd>
   <trd lng="sv">violett</trd>
   <trd lng="tr">mor</trd>
 </drv>
@@ -149,7 +160,7 @@
     <uzo tip="fak">FIZ</uzo>
     <uzo tip="klr">(pri radiado)</uzo>
     <dif>
-      Rapidege vibranta, deviita de prismo trans
+      Rapidege vibranta, deviigita de prismo trans
       la <tld/>aj radioj;
       <ref tip="sin" cel="ultraviol.0a.FIZ">ultraviola</ref>:
       <ekz>
@@ -170,6 +181,7 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_u;&c_l;&c_mol;&c_t;&c_r;&c_a;&c_f;&c_ib;&c_ja;&c_l;&c_je;&c_t;&c_a;&c_v;&c_y;</trd>
+  <trd lng="cs">ultrafialový</trd>
   <trd lng="de">ultraviolett</trd>
   <trd lng="en">ultraviolet</trd>
   <trdgrp lng="fa">
@@ -196,12 +208,22 @@
   </trdgrp>
   <trd lng="pt">ultravioleta</trd>
   <trd lng="ru">&c_u;&c_l;&c_mol;&c_t;&c_r;&c_a;&c_f;&c_i;&c_o;&c_l;&c_je;&c_t;&c_o;&c_v;&c_y;&c_j;</trd>
+  <trd lng="sk">ultrafialový</trd>
   <trd lng="sv">ultraviolett</trd>
   <trd lng="tr">mor&ouml;te</trd>
 </drv>
 </art>
 <!--
 $Log: viol.xml,v $
+Revision 1.37  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.36  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.35  2015/06/06 22:10:15  revo
+Jeromo Vasxe: deviita -> deviigita
+
 Revision 1.34  2014/06/10 04:10:56  revo
 Eko Nur Syah Hidayat: +id
 
@@ -221,8 +243,5 @@ Revision 1.29  2013/01/07 01:10:21  revo
 Neil Roberts: Forigo de malplena traduko
 
 Revision 1.28  2012/08/02 00:10:09  revo
-Jeromo Vasxe: + mrk
-
-Revision 1.27  2010/10/26 16:31:46  revo
 -->
 </vortaro>

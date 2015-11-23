@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: trip.xml,v 1.16 2013/12/02 13:10:45 revo Exp $">
+  <art mrk="$Id: trip.xml,v 1.18 2015/07/04 08:37:45 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>trip</rad>/o
@@ -34,40 +34,56 @@
           </ekz>
         </dif>
       </snc>
-      <trdgrp lng="be">
+  <trdgrp lng="be">
         <trd>&c_t;&c_r;&c_y;&c_b;&c_u;&c_h;&c_ib;</trd>,
         <trd>&c_v;&c_a;&c_n;&c_t;&c_r;&c_o;&c_b;&c_y;</trd>
       </trdgrp>
-      <trd lng="ca">budells</trd>
-      <trdgrp lng="de">
+  <trd lng="ca">budells</trd>
+  <trdgrp lng="cs">
+    <trd>drůbky</trd>,
+    <trd>držky</trd>,
+    <trd>vnitřnosti</trd>
+  </trdgrp>
+  <trdgrp lng="de">
         <trd>Eingeweide</trd>,
         <trd>Kaldaunen</trd>,
         <trd>Kutteln</trd>
       </trdgrp>
-      <trd lng="en">tripe</trd>
-      <trdgrp lng="fa">
+  <trd lng="en">tripe</trd>
+  <trdgrp lng="fa">
         <trd>&a_sh;&f_k;&a_n;&a_b;&a_h;</trd>,
         <trd>&a_s;&f_y;&a_r;&a_A;&a_b;&f_y;</trd>,
         <trd>&a_d;&a_l; &a_w; &a_r;&a_w;&a_d;&a_h;</trd>
       </trdgrp>
-      <trd lng="fr">tripes</trd>
-      <trdgrp lng="hu">
+  <trd lng="fr">tripes</trd>
+  <trdgrp lng="hu">
         <trd>zsigerek</trd>,
         <trd>bels&odblac;s&eacute;g</trd>,
         <trd>pacal</trd>
       </trdgrp>
-      <trd lng="nl">pens</trd>
-      <trd lng="pl">podroby</trd>
-      <trd lng="pt">tripa</trd>
-      <trdgrp lng="ru">
+  <trd lng="nl">pens</trd>
+  <trd lng="pl">podroby</trd>
+  <trd lng="pt">tripa</trd>
+  <trdgrp lng="ru">
         <trd>&c_v;&c_n;&c_u;&c_t;&c_r;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_i;</trd>,
         <trd>&c_p;&c_o;&c_t;&c_r;&c_o;&c_h;&c_a;</trd>,
         <trd>&c_t;&c_r;&c_je;&c_b;&c_u;&c_h;&c_a;</trd>
       </trdgrp>
-    </drv>
+  <trdgrp lng="sk">
+    <trd>droby</trd>,
+    <trd>jedlé črevá zvierat</trd>,
+    <trd>vnútornosti</trd>
+  </trdgrp>
+</drv>
   </art>
   <!--
   $Log: trip.xml,v $
+  Revision 1.18  2015/07/04 08:37:45  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.17  2015/06/29 16:40:20  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.16  2013/12/02 13:10:45  revo
   Damien Brucker: +trd fr
 

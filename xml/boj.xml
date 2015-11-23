@@ -2,37 +2,12 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: boj.xml,v 1.24 2013/10/10 20:10:17 revo Exp $">
+<art mrk="$Id: boj.xml,v 1.28 2015/10/06 02:10:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>boj</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
 
-<drv mrk="boj.0">
-  <kap><tld/></kap>
-  <gra><vspec>sonimito</vspec></gra>
-  <snc mrk="boj.0.SON">
-    <dif>
-      Ordinara <ref tip="lst" cel="blek.0o"
-      lst="voko:blekoj">bleko</ref>
-      de <ref tip="vid" cel="hund.0o.dombesto">hundo</ref>;
-      <ref tip="sin" cel="vaux.0.SON">va&ubreve;</ref>:
-      <ekz>
-        mi havas malgrandan vilan nigran hundon nomitan Toto
-        <klr>...</klr> lia sola parolo &ccirc;iam estas nur 
-        <ctl><tld/>! <tld/>!</ctl>
-        <fnt>
-          <aut>L. Frank Baum, trad. D. Broadribb</aut>,
-          <vrk><url
-          ref="http://ttt.esperanto.org/esperante/literatur/Baum/tiktoko/cxapitro25.html">
-          Tiktoko de Oz</url></vrk>,
-          <lok>[1996]</lok>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="fr">ouah !<klr> (chien)</klr></trd>
-</drv>
 
 <drv mrk="boj.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
@@ -47,6 +22,7 @@
       <trd>havlamak</trd>,
       <trd>&uuml;r&uuml;mek</trd>
     </trdgrp>
+    <trd lng="pt">latir</trd>
   </snc>
   <snc mrk="boj.0i.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -76,6 +52,10 @@
     <trd>&c_b;&c_r;&c_a;&c_h;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="br">harzhal</trd>
+  <trdgrp lng="cs">
+    <trd>hafat</trd>,
+    <trd>&scaron;t&ecaron;kat <klr>(na n&ecaron;koho)</klr></trd>
+  </trdgrp>
   <trd lng="en">bark</trd>
   <trd lng="es">ladrar</trd>
   <trd lng="fr">aboyer</trd>
@@ -84,9 +64,39 @@
     <trd>&c_l;&c_a;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_g;&c_a;&c_v;&c_k;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">&scaron;teka&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>&scaron;teka&tcaron;</trd>,
+    <trd>brecha&tcaron;</trd>
+  </trdgrp>
   <trd lng="sv">sk&auml;lla</trd>
 </drv>
+
+<drv mrk="boj.0">
+  <kap><tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="boj.0.SON">
+    <dif>
+      Ordinara <ref tip="lst" cel="blek.0o"
+      lst="voko:blekoj">bleko</ref>
+      de <ref tip="vid" cel="hund.0o.dombesto">hundo</ref>;
+      <ref tip="sin" cel="vaux.0.SON">va&ubreve;</ref>:
+      <ekz>
+        mi havas malgrandan vilan nigran hundon nomitan Toto
+        <klr>...</klr> lia sola parolo &ccirc;iam estas nur 
+        <ctl><tld/>! <tld/>!</ctl>
+        <fnt>
+          <aut>L. Frank Baum, trad. D. Broadribb</aut>,
+          <vrk><url
+          ref="http://ttt.esperanto.org/esperante/literatur/Baum/tiktoko/cxapitro25.html">
+          Tiktoko de Oz</url></vrk>,
+          <lok>[1996]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">ouah !<klr> (chien)</klr></trd>
+</drv>
+
 
 <drv mrk="boj.tir0i">
   <kap>tir<tld/>i</kap>
@@ -100,6 +110,7 @@
   </snc>
   <trd lng="be">&c_v;&c_y;&c_c;&c_mol;</trd>
   <trd lng="br">yudal</trd>
+  <trd lng="cs">v&yacute;t</trd>
   <trd lng="de">heulen</trd>
   <trdgrp lng="en">
     <trd>bay</trd>,
@@ -113,6 +124,18 @@
 </art>
 <!--
 $Log: boj.xml,v $
+Revision 1.28  2015/10/06 02:10:31  revo
+Evandro Avellar: +trd pt
+
+Revision 1.27  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2015/02/15 12:10:14  revo
+Wolfram Diestel: ordo de drv
+
 Revision 1.24  2013/10/10 20:10:17  revo
 Jeromo Vasxe: + ~
 
@@ -123,17 +146,5 @@ Revision 1.22  2009/03/04 17:31:06  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.21  2005/02/24 17:33:18  revo
-Alan ar Gall: +trd br
-
-Revision 1.20  2004/02/18 17:38:30  revo
-Jeromo Vasxe: + mrk, + 1 ekz, + 1 trd fr prv
-
-Revision 1.19 2003/11/28 17:32:45 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.18 2002/09/14 18:51:17 revo
-Ulrich Fellmann: + 1 plia trd de
-
-Revision 1.17 2002/09/09 19:54:11 revo
 -->
 </vortaro>

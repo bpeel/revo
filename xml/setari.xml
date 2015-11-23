@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: setari.xml,v 1.4 2013/08/28 16:10:14 revo Exp $">
+<art mrk="$Id: setari.xml,v 1.7 2015/10/26 13:10:49 revo Exp $">
 <kap>
   <rad>setari</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -22,7 +22,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">b&eacute;r siv&yacute;</trd>
   <trd lng="de">Borstenhirse</trd>
+  <trdgrp lng="en">
+    <trd>Setaria</trd>,
+    <trd>bristlegrass</trd>, <trd>foxtail millet</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>millet<klr tip="amb"> (&agrave; grappes, d'italie...)</klr></trd>,
     <trd>s&eacute;taire</trd>
@@ -32,11 +37,21 @@
     <trd>mohar</trd>
   </trdgrp>
   <trd lng="it">setaria</trd>
+  <trd lng="sk">moh&aacute;r siv&yacute;</trd>
 </drv>
 </art>
 
 <!--
 $Log: setari.xml,v $
+Revision 1.7  2015/10/26 13:10:49  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.6  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2013/08/28 16:10:14  revo
 Wolfram Diestel: referencoj al bot genroj, trd la, de
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: dielek.xml,v 1.11 2009/06/14 16:30:55 revo Exp $">
+<art mrk="$Id: dielek.xml,v 1.13 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>dielektrik</rad>/o
 </kap>
@@ -15,6 +15,11 @@
   </snc>
   <trd
   lng="be">&c_d;&c_y;&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_k;</trd>
+  <trdgrp lng="cs">
+    <trd>dielektrikum</trd>,
+    <trd>izolátor</trd>,
+    <trd>nevodivé prostředí</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Dielektrikum</trd>,
      <trd>Nichtleiter</trd>
@@ -29,6 +34,10 @@
   <trd lng="pt">diel&eacute;trico</trd>
   <trd
   lng="ru">&c_d;&c_i;&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_i;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>dielektrikum</trd>,
+    <trd>izolátor</trd>
+  </trdgrp>
 </drv>
 <drv mrk="dielek.0a">
   <kap><tld/>a</kap>
@@ -56,6 +65,12 @@
 </art>
 <!--
 $Log: dielek.xml,v $
+Revision 1.13  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2009/06/14 16:30:55  revo
 Sebastian Cyprych: +trd pl
 

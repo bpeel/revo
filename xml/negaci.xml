@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: negaci.xml,v 1.17 2010/01/18 17:31:15 revo Exp $">
+<art mrk="$Id: negaci.xml,v 1.19 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <rad>negaci</rad>/o
   <fnt>Z</fnt>
@@ -70,10 +70,24 @@
     </klr>&c_o;&c_t;&c_r;&c_i;&c_c;&c_a;&c_n;&c_i;&c_je;
     </trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>negace</trd>,
+    <trd>zápor</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>negácia</trd>,
+    <trd>zápor</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: negaci.xml,v $
+Revision 1.19  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2010/01/18 17:31:15  revo
 Mireille Corobu: svg->gif
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vesel.xml,v 1.3 2010/08/04 16:30:17 revo Exp $">
+<art mrk="$Id: vesel.xml,v 1.5 2015/07/04 08:37:45 revo Exp $">
   <kap>
     <rad>vesel</rad>/o
    <fnt><bib>PIV1</bib></fnt>
@@ -36,11 +36,22 @@
     Bv ne traduki!
     <aut>MB</aut>
   </adm>
+  <trd lng="sk">vojnová plachetnica</trd>
+  <trdgrp lng="cs">
+    <trd>koráb</trd>,
+    <trd>válečná loď</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: vesel.xml,v $
+Revision 1.5  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.3  2010/08/04 16:30:17  revo
 Jeromo Vasxe: + -n
 

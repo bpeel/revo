@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: persek.xml,v 1.18 2009/02/15 14:18:16 revo Exp $">
+<art mrk="$Id: persek.xml,v 1.20 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>persekut</rad>/i
@@ -75,10 +75,15 @@
     </refgrp>                                         
     <trd lng="fr">pers&eacute;cuter <klr>(fig.)</klr></trd>
   </snc>
-  <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_s;&c_mol;&c_l;&c_je;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>  
+  <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_s;&c_mol;&c_l;&c_je;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="bg">&c_p;&c_r;&c_je;&c_s;&c_l;&c_je;&c_d;&c_v;&c_a;&c_m;</trd>
   <trd lng="br">poursui&ntilde;</trd>
   <trd lng="ca">perseguir</trd>
+  <trdgrp lng="cs">
+    <trd>perzekvovat</trd>,
+    <trd>pronásledovat</trd>,
+    <trd>stíhat</trd>
+  </trdgrp>
   <trd lng="de">verfolgen</trd>
   <trd lng="en">persecute</trd>
   <trd lng="es">perseguir</trd>
@@ -97,6 +102,10 @@
     <trd>ir ao <ind>encal&ccedil;o</ind> de</trd>    
   </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_je;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>prenasledovať</trd>,
+    <trd>stíhať</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="persek.0isto">
@@ -106,20 +115,33 @@
     <dif>
       Oficisto komisiita por plenumi la decidojn de tribunalo.
     </dif>
-  </snc>                
-  <trd lng="bg">&c_s;&c_malmol;&c_d;&c_i;&c_ja;-&c_i;&c_z;&c_p;&c_malmol;&c_l;&c_n;&c_i;&c_t;&c_je;&c_l;</trd>                   
-   
+  </snc>
+  <trd lng="bg">&c_s;&c_malmol;&c_d;&c_i;&c_ja;-&c_i;&c_z;&c_p;&c_malmol;&c_l;&c_n;&c_i;&c_t;&c_je;&c_l;</trd>
   <trd lng="br">urcher</trd>
+  <trdgrp lng="cs">
+    <trd>soudní exekutor</trd>,
+    <trd>soudní vykonavatel</trd>
+  </trdgrp>
   <trd lng="de">Gerichtsvollzieher</trd>
   <trd lng="en">prosecutor</trd>
   <trd lng="fr">huissier</trd>
-  <trd lng="hu">v&eacute;grehajt&oacute;</trd>  
+  <trd lng="hu">v&eacute;grehajt&oacute;</trd>
   <trd lng="nl">deurwaarder</trd>
   <trd lng="ru">&c_s;&c_u;&c_d;&c_je;&c_b;&c_n;&c_y;&c_j; &c_i;&c_s;&c_p;&c_o;&c_l;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>exekútor <klr>(práv.)</klr></trd>,
+    <trd>vykonávateľ</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: persek.xml,v $
+Revision 1.20  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2009/02/15 14:18:16  revo
 Russ Williams: +trd en
 

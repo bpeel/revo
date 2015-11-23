@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kivi.xml,v 1.7 2013/09/11 07:10:13 revo Exp $">
+<art mrk="$Id: kivi.xml,v 1.9 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <rad>kivi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -17,6 +17,7 @@
     </dif>
   </snc>
   <trd lng="bg">&c_k;&c_i;&c_v;&c_i;<klr tip="ind"> (&c_p;&c_t;&c_i;&c_c;&c_a;)</klr></trd>
+  <trd lng="cs">kiwi <klr>(plod)</klr></trd>
   <trd lng="de">Kiwi<klr> (Vogel)</klr></trd>
   <trd lng="en">kiwi</trd>
   <trd lng="es">kiwi<klr> (p&aacute;jaro)</klr></trd>
@@ -24,11 +25,18 @@
   <trd lng="fr">kiwi<klr> (oiseau)</klr></trd>
   <trd lng="nl">kiwi<klr tip="ind"> (vogel)</klr></trd>
   <trd lng="pl">kiwi<klr> (ptak)</klr></trd>
+  <trd lng="sk">kivi <klr>(plod)</klr></trd>
 </drv>
 </art>
 
 <!--
 $Log: kivi.xml,v $
+Revision 1.9  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.7  2013/09/11 07:10:13  revo
 Joop Eggen: +trd bg en
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flank.xml,v 1.40 2014/06/14 01:10:10 revo Exp $">
+<art mrk="$Id: flank.xml,v 1.46 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>flank</rad>/o <fnt><bib>PV</bib></fnt>
@@ -254,6 +254,7 @@
       </trd>
     </subsnc>
   </snc>
+  <trd lng="cs">plášť <klr>(kužele| válce)</klr></trd>
   <trdgrp lng="de">
     <trd>Seite</trd>,
     <trd>Flanke</trd>
@@ -265,6 +266,7 @@
     <trd>flanc</trd>,
     <trd>part<klr tip="ind"> (c&ocirc;t&eacute;, direction)</klr></trd>
   </trdgrp>
+  <trd lng="id">sisi</trd>
   <trdgrp lng="pt">
     <trd>lado</trd>,
     <trd>flanco</trd>,
@@ -273,6 +275,10 @@
     <trd>costado <klr tip="amb">(de navio)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>plášť <klr>(kužeľa, valca)</klr></trd>,
+    <trd>plášť <klr>(kužeľa| valca)</klr></trd>
+  </trdgrp>
   <trd lng="vo">flan</trd>
 </drv>
 
@@ -329,6 +335,12 @@
     </trdgrp>
     <trd lng="ru">&c_p;&c_o;&c_b;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>boční</trd>,
+    <trd>postranní</trd>,
+    <trd>vedlejší <klr>(stojící vedle něčeho hlavního)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">bočný</trd>
 </drv>
 
 <drv mrk="flank.0ajxo">
@@ -459,6 +471,7 @@
       <trd>&c_p;&c_o;&c_b;&c_o;&c_k;&c_u;</trd>
     </trdgrp>
   </snc>
+  <trd lng="cs">po mojí straně</trd>
   <trdgrp lng="de">
     <trd>seitlich</trd>,
     <trd>auf der <ind>Seite</ind></trd>,
@@ -469,6 +482,7 @@
     <trd>de <ind>c&ocirc;t&eacute;</ind></trd>,
     <trd>sur le <ind>c&ocirc;t&eacute;</ind></trd>
   </trdgrp>
+  <trd lng="sk">po mojej strane</trd>
 </drv>
 
 <drv mrk="flank.0en">
@@ -490,6 +504,10 @@
       <klr>(alparoli personon ne estantan sur la scenejo)</klr>.
     </ekz>
   </snc>
+  <trdgrp lng="cs">
+    <trd>na bok</trd>,
+    <trd>stranou</trd>
+  </trdgrp>
   <trd lng="de">zur <ind>Seite</ind></trd>
   <trdgrp lng="fr">
     <trd>&agrave; <ind>c&ocirc;t&eacute;</ind></trd>,
@@ -506,6 +524,50 @@
     <trd>na stron&eogonek;</trd>
   </trdgrp>
   <trd lng="ru">&c_v; &c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_u;</trd>
+  <trd lng="sk">nabok</trd>
+</drv>
+
+<drv mrk="flank.0al0e">
+  <kap><tld/>al<tld/>e</kap>
+  <snc mrk="flank.0al0e.KOMUNE">
+    <dif>
+      Starante tre proksime kaj rigardante al sama
+      (a&ubreve; eventuale inversa) direkto:
+      <ekz>
+        e&ccirc; gemortintoj ku&scirc;as en la lito <tld/>al<tld/>e
+        <fnt>
+          <aut>-, [trad. D. Harlow]</aut>,
+          <vrk><url
+          ref="http://192.220.96.203/don/esplit/Eskimino.html">
+          La Eskimino</url></vrk>,
+          <lok>[1997?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">po mojí straně</trd>
+  <trd lng="fr">c&ocirc;te &agrave; c&ocirc;te</trd>
+  <trd lng="sk">po mojej strane</trd>
+</drv>
+
+<drv mrk="flank.0al0ekun">
+  <kap><tld/>al<tld/>e kun</kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="flank.0al0ekun.KOMUNE">
+    <dif>
+      Starante apud, proksime kunlaborante kun...:
+      <ekz>
+        li <klr>...</klr> staris <tld/>al<tld/>e kun terura 
+        viro
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">aux c&ocirc;t&eacute;s de</trd>
 </drv>
 
 <drv mrk="flank.0ede">
@@ -585,12 +647,21 @@
     </trdgrp>
     <trd lng="nl">bovendien</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>bočně</trd>,
+    <trd>po boku</trd>,
+    <trd>stranou</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&agrave; <ind>c&ocirc;t&eacute;</ind> de</trd>,
     <trd>du <ind>c&ocirc;t&eacute;</ind> de</trd>,
     <trd>de la <ind>part</ind> de</trd>
   </trdgrp>
   <trd lng="pl">opr&oacute;cz</trd>
+  <trdgrp lng="sk">
+    <trd>po boku</trd>,
+    <trd>pri</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flank.0i">
@@ -632,6 +703,8 @@
     <trd>&c_f;&c_l;&c_a;&c_n;&c_k;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_p;&c_o;&c_l;&c_a;&c_g;&c_a;&c_t;&c_mol;&c_s;&c_ja; &c_p;&c_o; &c_b;&c_o;&c_k;&c_a;&c_m;</trd>
   </trdgrp>
+  <trd lng="sk">chrániť krídla</trd>
+  <trd lng="cs">chránit křídla</trd>
 </drv>
 
 <drv mrk="flank.0igxi">
@@ -716,6 +789,7 @@
   <trd lng="be">&c_z; &c_d;&c_r;&c_u;&c_g;&c_o;&c_g;&c_a; &c_b;&c_o;&c_k;&c_u;</trd>
   <trd lng="bg">&c_o;&c_t; &c_d;&c_r;&c_u;&c_g;&c_a; &c_s;&c_t;&c_r;&c_a;&c_n;&c_a;</trd>
   <trd lng="ca">per altra banda</trd>
+  <trd lng="cs">na druhé straně</trd>
   <trd lng="de">andererseits</trd>
   <trd lng="en">on the other hand</trd>
   <trdgrp lng="fi">
@@ -726,6 +800,7 @@
     <trd>d'autre part</trd>,
     <trd>d'un autre c&ocirc;t&eacute;</trd>
   </trdgrp>
+  <trd lng="id">di <ind>sisi</ind> lain</trd>
   <trd lng="nl">anderzijds</trd>
   <trdgrp lng="pl">
     <trd>z drugiej <ind>strony</ind></trd>,
@@ -733,11 +808,29 @@
   </trdgrp>
   <trd lng="pt">por outro lado</trd>
   <trd lng="ru">&c_s; &c_d;&c_r;&c_u;&c_g;&c_o;&c_j; &c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_y;</trd>
-  <trd lng="sk">na druhej <ind>strane</ind>
-  <klr>(metaforicky)</klr></trd>
- </drv>
+  <trdgrp lng="sk">
+    <trd>na druhej <ind>strane</ind>
+  <klr>(metaforicky)</klr></trd>,
+    <trd>na druhej strane</trd>
+  </trdgrp>
+</drv>
 
-<drv mrk="flank.de0igxi">
+<drv mrk="flank.amba&ubreve;0a">
+  <kap>amba&ubreve;<tld/>a</kap>
+  <snc mrk="flank.amba&ubreve;0a.ARG">
+    <dif>
+     Rilata  la du flankoj:
+     <ekz>la amba&ubreve;<tld/>aj kolonoj havis unu mezuron
+      <fnt><bib>MT</bib>, <lok>Je&hcirc;ezkel 40:10</lok></fnt>.
+     </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">bilateral</trd>
+  <trd lng="fr">bilat&eacute;ral</trd>
+  <trd lng="id">bilateral</trd>
+  </drv>
+  
+  <drv mrk="flank.de0igxi">
   <kap>de<tld/>i&gcirc;i<fnt>Z</fnt></kap>
   <snc>
     <uzo tip="stl">EVI</uzo>
@@ -836,6 +929,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">rub <klr>(mince| medaile)</klr></trd>
   <trdgrp lng="fr">
     <trd>dos<klr> (d'un objet)</klr></trd>,
     <trd>revers<klr> (d'un objet)</klr></trd>
@@ -846,6 +940,7 @@
     <trd>odwr&oacute;t <klr>(odwrotna strona)</klr></trd>,
     <trd>rewers</trd>
   </trdgrp>
+  <trd lng="sk">dorsum</trd>
 </drv>
 
 <drv mrk="flank.sia0e">
@@ -866,7 +961,31 @@
   <trd lng="fr">de son c&ocirc;t&eacute;</trd>
 </drv>
 
-<drv mrk="flank.unu0e">
+<drv mrk="flank.unu0a">
+  <kap>unu<tld/>a</kap>
+  <snc mrk="flank.unu0a.ARG">
+    <dif>
+     Rilata al nur unu flanko:
+     <ekz>Cetere la konversacio ne estis unu<tld/>a
+        <fnt>
+        <aut>Stellan Engholm</aut>,
+        <vrk><url
+        ref="http://i-espero.info/files/elibroj/eo%20-%20engholm,%20stellan%20-%20homoj%20sur%20la%20tero.pdf">Homoj
+        sur la tero</url></vrk>
+      </fnt>.
+     </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>jednosměrný</trd>,
+    <trd>jednostranný</trd>
+  </trdgrp>
+  <trd lng="en">unilateral</trd>
+  <trd lng="fr">unilat&eacute;ral</trd>
+  <trd lng="sk">jednostranný</trd>
+</drv>
+
+  <drv mrk="flank.unu0e">
   <kap>unu<tld/>e</kap>
   <snc mrk="flank.unu0e.ARG">
     <dif>
@@ -881,15 +1000,34 @@
       <ref cel="flank.ali0e.ARG">ali<tld/>e</ref>
     </refgrp>
   </snc>
-  <trd lng="fr">einerseits</trd>
+  <trd lng="de">einerseits</trd>
   <trdgrp lng="fr">
     <trd>d'un c&ocirc;t&eacute;</trd>,
     <trd>d'une part</trd>
   </trdgrp>
+  <trd lng="id">di satu <ind>sisi</ind></trd>
 </drv>
 </art>
 <!--
 $Log: flank.xml,v $
+Revision 1.46  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.45  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.44  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.43  2015/01/23 08:10:17  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.42  2014/12/22 14:10:14  revo
+Alain Gerard: + ambaux~a
+
+Revision 1.41  2014/12/15 23:10:11  revo
+Jeromo Vasxe: + ~al~e (kun)
+
 Revision 1.40  2014/06/14 01:10:10  revo
 Jeromo Vasxe: + sia~e
 
@@ -903,14 +1041,5 @@ Revision 1.37  2012/08/23 06:10:11  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.36  2010/01/24 17:30:28  revo
-Jeromo Vasxe: + dors~o, dis~igxi + ekz + trd fr
-
-Revision 1.35 2010/01/05 17:30:16 revo
-Sergio Pokrovskij: +rim, +ekz
-
-Revision 1.34 2009/02/11 19:42:21 revo
-Sebastian Cyprych: -fusxaj linirompoj en trd
-
-Revision 1.33 2008/03/28 17:30:28 revo
 -->
 </vortaro>

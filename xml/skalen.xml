@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skalen.xml,v 1.8 2013/08/28 11:10:09 revo Exp $">
+<art mrk="$Id: skalen.xml,v 1.10 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <rad>skalen</rad>/a
 </kap>
@@ -19,18 +19,29 @@
   <trd lng="be">&c_r;&c_o;&c_z;&c_n;&c_a;&c_b;&c_a;&c_k;&c_o;&c_v;&c_y;</trd>
   <trd lng="bg">&c_r;&c_a;&c_z;&c_n;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_je;&c_n;</trd>
   <trd lng="ca">escal&egrave;</trd>
+  <trdgrp lng="cs">
+    <trd>obecný</trd>,
+    <trd>různostranný</trd>
+  </trdgrp>
   <trd lng="de">ungleichseitig</trd>
   <trd lng="en">scalene</trd>
   <trd lng="es">escaleno</trd>
   <trd lng="fr"><klr tip="ind">(triangle) </klr>scal&egrave;ne</trd>
-  <trd lng="hu">szab&aacute;lytalan <klr tip="ind">(h&aacute;romsz&ouml;g)</klr></trd>  
+  <trd lng="hu">szab&aacute;lytalan <klr tip="ind">(h&aacute;romsz&ouml;g)</klr></trd>
   <trd lng="nl">ongelijkzijdig</trd>
   <trd lng="pl"><klr tip="ind">(tr&oacute;jk&aogonek;t) </klr>r&oacute;&zdot;noboczny</trd>
   <trd lng="ru">&c_r;&c_a;&c_z;&c_n;&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_n;&c_i;&c_j;</trd>
+  <trd lng="sk">nerovnostranný</trd>
 </drv>
 </art>
 <!--
 $Log: skalen.xml,v $
+Revision 1.10  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2013/08/28 11:10:09  revo
 Joop Eggen: +trd bg
 

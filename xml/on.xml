@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: on.xml,v 1.38 2014/02/04 15:10:25 revo Exp $">
+<art mrk="$Id: on.xml,v 1.40 2015/07/04 08:37:40 revo Exp $">
 <kap>
    <ofc>*</ofc>
    -<rad>on</rad>/
@@ -197,7 +197,9 @@ pozicio
 <ind>&c_c;&c_i;&c_f;&c_r;&c_a;</ind></trd>
        </trdgrp>
      </snc>
-   </drv>
+  <trd lng="cs">kmenový zlomek</trd>
+  <trd lng="sk">kmeňový zlomok</trd>
+</drv>
    <drv mrk="on.0igi">
      <kap><tld/>igi</kap>
      <snc>
@@ -220,9 +222,14 @@ pozicio
          <ref cel="divid.0i.MAT">Dividi</ref> per entjero.
        </dif>
      </snc>
-     <trd lng="hu">oszt</trd>
-     <trd lng="nl">delen</trd>     
-   </drv>
+  <trdgrp lng="cs">
+    <trd>rozdělit na zlomky</trd>,
+    <trd>rozdělit na části</trd>
+  </trdgrp>
+  <trd lng="hu">oszt</trd>
+  <trd lng="nl">delen</trd>
+  <trd lng="sk">rozdeliť na časti</trd>
+</drv>
    <drv mrk="on.0eco">
      <kap><tld/>eco</kap>
      <snc>
@@ -292,6 +299,12 @@ tip="ind"> (&c_d;&c_r;&c_o;&c_b;&c_i;)</klr></trd>
 </art>
 <!--
 $Log: on.xml,v $
+Revision 1.40  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.38  2014/02/04 15:10:25  revo
 Damien Brucker: +kap
 

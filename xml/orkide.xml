@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: orkide.xml,v 1.20 2014/09/16 09:10:28 revo Exp $">
+<art mrk="$Id: orkide.xml,v 1.22 2015/07/04 08:37:40 revo Exp $">
 <kap><ofc>2</ofc> <rad>orkide</rad>/o</kap>
 <drv mrk="orkide.0o">
   <kap><tld/>o</kap>
@@ -34,10 +34,21 @@
   <trd lng="pl">orchidea</trd>
   <trd lng="pt">orqu&iacute;dea</trd>
   <trd lng="ru">&c_o;&c_r;&c_h;&c_i;&c_d;&c_je;&c_ja;</trd>
+  <trd lng="sk">orchidea</trd>
+  <trdgrp lng="cs">
+    <trd>orchidej</trd>,
+    <trd>vstavač</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: orkide.xml,v $
+Revision 1.22  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.20  2014/09/16 09:10:28  revo
 Sebastian Cyprych: +trd pl
 

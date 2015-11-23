@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: permanent.xml,v 1.4 2014/09/01 07:10:15 revo Exp $">
+<art mrk="$Id: permanent.xml,v 1.7 2015/10/07 15:10:17 revo Exp $">
 <kap>
   <rad>permanent</rad>/a <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -28,13 +28,36 @@
       </ekz>
   </snc>
   <trd lng="ca">permanent</trd>
+  <trdgrp lng="cs">
+    <trd>nem&ecaron;nn&yacute;</trd>,
+    <trd>permanentn&iacute;</trd>,
+    <trd>st&aacute;l&yacute;</trd>,
+    <trd>trval&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>permanent</trd>,
+    <trd>constant</trd>
+  </trdgrp>
   <trd lng="fr">permanent</trd>
   <trd lng="nl">permanent<klr tip="ind"> (zeldz.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>st&aacute;ly</trd>,
+    <trd>trval&yacute;</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: permanent.xml,v $
+Revision 1.7  2015/10/07 15:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.6  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2014/09/01 07:10:15  revo
 Damien Brucker: +trd fr
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dup.xml,v 1.1 2013/08/29 01:10:31 revo Exp $">
+<art mrk="$Id: dup.xml,v 1.3 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>dup</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -23,15 +23,31 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>hlupáček</trd>,
+    <trd>jelimánek</trd>,
+    <trd>tupan</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>dupe</trd>,
     <trd>pigeon<klr> (dupe)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hlupáčik</trd>,
+    <trd>jelimánek</trd>,
+    <trd>naivka</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: dup.xml,v $
+Revision 1.3  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.1  2013/08/29 01:10:31  revo
 Jeromo Vasxe: nova artikolo
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kolor.xml,v 1.30 2014/06/10 15:10:19 revo Exp $">
+<art mrk="$Id: kolor.xml,v 1.32 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kolor</rad>/o <fnt><bib>PV</bib></fnt>
@@ -161,6 +161,10 @@
   </snc>
   <trd lng="bg">&c_c;&c_v;&c_ja;&c_t;</trd>
   <trd lng="br">liv</trd>
+  <trdgrp lng="cs">
+    <trd>barva</trd>,
+    <trd>instrukce pro nastavení barevného výstupu</trd>
+  </trdgrp>
   <trd lng="en">color</trd>
   <trdgrp lng="fr">
     <trd>couleur</trd>,
@@ -175,6 +179,7 @@
     <trd>colorido</trd>,    
     <trd>timbre <klr tip="amb">(de voz)</klr></trd>
   </trdgrp>
+  <trd lng="sk">farebný odtieň</trd>
   <trd lng="sv">f&auml;rg</trd>
   <trd lng="tp">kule</trd>
   <trd lng="tr">renk</trd>
@@ -195,7 +200,10 @@
     <trd>&c_c;&c_v;&c_je;&c_t;&c_n;&c_o;&c_k;&c_o;&c_zh;</trd>
   </trdgrp>
   <trd lng="ca">colorat</trd>
-  <trd lng="cs">barevn&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>barevn&yacute;</trd>,
+    <trd>barvitý</trd>
+  </trdgrp>
   <trd lng="de">farbig</trd>
   <trd lng="en">colored</trd>
   <trdgrp lng="fr">
@@ -211,6 +219,12 @@
     <trd>barwny</trd>
   </trdgrp>
   <trd lng="ru">&c_c;&c_v;&c_je;&c_t;&c_n;&c_o;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>farbistý</trd>,
+    <trd>pestrofarebný</trd>,
+    <trd>pestrý</trd>,
+    <trd>viacfarebný</trd>
+  </trdgrp>
   <trd lng="tp">kule</trd>
   <trdgrp lng="tr">
     <trd>renkli</trd>,
@@ -241,6 +255,7 @@
   </snc>
   <trd lng="bg">&c_o;&c_c;&c_v;&c_je;&c_t;&c_ja;&c_v;&c_a;&c_m;</trd>
   <trd lng="ca">colorar</trd>
+  <trd lng="cs">kolorovat</trd>
   <trd lng="de">f&auml;rben</trd>
   <trd lng="en">color</trd>
   <trd lng="fr">colorer</trd>
@@ -259,6 +274,7 @@
     <trd>&c_o;&c_k;&c_r;&c_a;&c_sh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_k;&c_r;&c_a;&c_s;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">kolorovať</trd>
   <trd lng="sv">f&auml;rga</trd>
   <trd lng="tp">kule</trd>
   <trdgrp lng="tr">
@@ -283,6 +299,10 @@
   <trd lng="bg">&c_b;&c_o;&c_ja;&c_d;&c_i;&c_s;&c_v;&c_a;&c_m;</trd>
   <trd lng="br">liva&ntilde;</trd>
   <trd lng="ca">acolorir</trd>
+  <trdgrp lng="cs">
+    <trd>nechat natřít</trd>,
+    <trd>nechat omalovat</trd>
+  </trdgrp>
   <trd lng="de">bemalen</trd>
   <trd lng="en">color</trd>
   <trd lng="fr">colorier</trd>
@@ -298,6 +318,11 @@
     <trd>&c_k;&c_r;&c_a;&c_s;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_k;&c_r;&c_a;&c_sh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_k;&c_r;&c_a;&c_s;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nafarbiť</trd>,
+    <trd>vymaľovať</trd>,
+    <trd>zafarbiť</trd>
   </trdgrp>
   <trd lng="sv">m&aring;la</trd>
   <trdgrp lng="tr">
@@ -320,6 +345,7 @@
     <trd>pintura</trd>,
     <trd>colorant</trd>
   </trdgrp>
+  <trd lng="cs">barva</trd>
   <trd lng="de">Farbe</trd>
   <trd lng="en">paint</trd>
   <trdgrp lng="fr">
@@ -333,6 +359,7 @@
     <trd>&c_k;&c_r;&c_a;&c_s;&c_k;&c_a;</trd>,
     <trd>&c_k;&c_r;&c_a;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">farba</trd>
   <trd lng="tr">boya</trd>
 </drv>
 
@@ -363,7 +390,9 @@
     <trd lng="ca">tintorer</trd>
     <trd lng="pl">farbiarz</trd>
   </snc>
+  <trd lng="cs">malíř pokojů</trd>
   <trd lng="nl">verver</trd>
+  <trd lng="sk">maliar izieb</trd>
 </drv>
 
 <drv mrk="kolor.0ilo">
@@ -377,6 +406,7 @@
     </ekz>
   </snc>
   <trd lng="ca">pintura</trd>
+  <trd lng="cs">barva <klr>(nátěr.hmota)</klr></trd>
   <trd lng="de">Farbe</trd>
   <trd lng="en">paint</trd>
   <trdgrp lng="fr">
@@ -394,6 +424,7 @@
     <trd>&c_k;&c_r;&c_a;&c_s;&c_k;&c_a;</trd>,
     <trd>&c_k;&c_r;&c_a;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">farba <klr>(náterová hmota)</klr></trd>
   <trd lng="tr">boya</trd>
 </drv>
 
@@ -408,10 +439,12 @@
   </snc>
   <trd lng="br">liver</trd>
   <trd lng="ca">colorista</trd>
+  <trd lng="cs">malíř pokojů</trd>
   <trd lng="en">colorist</trd>
   <trd lng="fr">coloriste</trd>
   <trd lng="nl">colorist</trd>
   <trd lng="ru">&c_k;&c_o;&c_l;&c_o;&c_r;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">maliar izieb</trd>
 </drv>
 
 <drv mrk="kolor.divers0a">
@@ -429,6 +462,10 @@
     <trd>policrom</trd>,
     <trd>virolat</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>různobarevný</trd>,
+    <trd>strakatý</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>multicolore</trd>,
     <trd>polychrome</trd>
@@ -441,6 +478,10 @@
   <trdgrp lng="pl">
     <trd>wielobarwny</trd>,
     <trd>kolorowy</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rôznofarebný</trd>,
+    <trd>strakatý</trd>
   </trdgrp>
   <trdgrp lng="tr">
     <trd>&ccedil;ok renkli</trd>,
@@ -478,19 +519,29 @@
   </snc>
   <trd lng="bg">&c_k;&c_o;&c_l;&c_o;&c_r;&c_i;&c_t;&c_je;&c_n;</trd>
   <trd lng="ca">multicolor</trd>
+  <trdgrp lng="cs">
+    <trd>mnohobarevný</trd>,
+    <trd>pestrobarevný</trd>
+  </trdgrp>
   <trd lng="de">bunt</trd>
   <trdgrp lng="fr">
     <trd>chamarr&eacute;</trd>,
     <trd>multicolore</trd>,
   </trdgrp>
   <trd lng="id"><ind>warna</ind>-warni</trd>
-   <trdgrp lng="nl">
+  <trdgrp lng="nl">
     <trd>veelkleurig</trd>,
     <trd>polychroom</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>wielobarwny</trd>,
     <trd>kolorowy</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>farbistý</trd>,
+    <trd>pestrofarebný</trd>,
+    <trd>pestrý</trd>,
+    <trd>viacfarebný</trd>
   </trdgrp>
 </drv>
 
@@ -515,11 +566,13 @@
   </snc>
   <trd lng="bg">&c_b;&c_je;&c_z;&c_c;&c_v;&c_je;&c_t;&c_je;&c_n;</trd>
   <trd lng="ca">incolor</trd>
+  <trd lng="cs">bezbarvý</trd>
   <trd lng="de">farblos</trd>
   <trd lng="en">colorless</trd>
   <trd lng="fr">incolore</trd>
   <trd lng="nl">kleurloos</trd>
   <trd lng="pl">bezbarwny</trd>
+  <trd lng="sk">bezfarebný</trd>
 </drv>
 
 <drv mrk="kolor.son0o">
@@ -530,6 +583,10 @@
   </snc>
   <trd lng="bg">&c_t;&c_je;&c_m;&c_b;&c_malmol;&c_r;</trd>
   <trd lng="ca">timbre</trd>
+  <trdgrp lng="cs">
+    <trd>barva hlasu</trd>,
+    <trd>barva zvuku</trd>
+  </trdgrp>
   <trd lng="de">Klangfarbe</trd>
   <trd lng="en">timbre</trd>
   <trdgrp lng="fr">
@@ -546,6 +603,10 @@
   </trdgrp>
   <trd lng="pl">barwa g&lstroke;osu</trd>
   <trd lng="ru">&c_o;&c_k;&c_r;&c_a;&c_s;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>farba hlasu</trd>,
+    <trd>farba zvuku</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kolor.tri0eto">
@@ -568,6 +629,10 @@
       </ekz>
   </snc>
   <trd lng="bg">&c_t;&c_je;&c_m;&c_je;&c_n;&c_u;&c_g;&c_i;</trd>
+  <trdgrp lng="cs">
+    <trd>maceška</trd>,
+    <trd>maceška trojbarevná</trd>
+  </trdgrp>
   <trd lng="de">Stiefm&uuml;tterchen</trd>
   <trd lng="en">pansy</trd>
   <trd lng="fa">&a_b;&a_n;&a_f;&a_sh;&a_h;&a_hamza_sure; &a_s;&a_h;&zwnj;&a_r;&a_n;&f_g;</trd>
@@ -584,11 +649,18 @@
     <trd>&c_a;&c_n;&c_ju;&c_t;&c_i;&c_n;&c_y;
     &c_g;&c_l;&c_a;&c_z;&c_k;&c_i;</trd>
   </trdgrp>
+  <trd lng="sk">sirôtka</trd>
   <trd lng="sv">styvmorsviol</trd>
 </drv>
 </art>
 <!--
 $Log: kolor.xml,v $
+Revision 1.32  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.30  2014/06/10 15:10:19  revo
 Eko Nur Syah Hidayat: +id
 

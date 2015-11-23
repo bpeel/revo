@@ -2,37 +2,74 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: transp.xml,v 1.15 2013/08/01 09:10:12 revo Exp $">
+<art mrk="$Id: transp.xml,v 1.18 2015/07/04 08:37:45 revo Exp $">
 <kap>
-  <rad>transpon</rad>/i
+  <rad>transpon</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
 <drv mrk="transp.0i">
   <kap><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <uzo tip="fak">MAT</uzo>
-  <fnt><bib>PIV1</bib></fnt>
-  <uzo tip="klr">(fakula &jcirc;argono)</uzo>
-  <snc>
+  <snc mrk="transp.0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
     <dif>
       <klr>(<ref cel="matric.n_p0o">matricon</ref>)</klr>
       Apliki la operacion <ref cel="transp.0o"><tld/>o</ref>.
     </dif>
+    <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="bg">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_n;&c_i;&c_r;&c_a;&c_m;</trd>
+    <trd lng="de">transponieren</trd>
+    <trd lng="en">transpose</trd>
+    <trd lng="fr">transposer<klr tip="ind"> (une matrice)</klr></trd>
+    <trd lng="hu">transzpon&aacute;l</trd>  
+    <trd lng="nl">transponeren</trd>
+    <trd lng="ru">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
-  <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
-  <trd lng="bg">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_n;&c_i;&c_r;&c_a;&c_m;</trd>
-  <trd lng="de">transponieren</trd>
-  <trd lng="en">transpose</trd>
-  <trd lng="fr">transposer<klr tip="ind"> (une matrice)</klr></trd>
-  <trd lng="hu">transzpon&aacute;l</trd>  
-  <trd lng="nl">transponeren</trd>
-  <trd lng="ru">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <snc mrk="transp.0i.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <uzo tip="klr">(pri melodio)</uzo>
+    <dif>
+      Adapti al alia tonalo, &scirc;an&gcirc;ante samgrade la 
+      altecojn de &ccirc;iuj notoj:
+      <ekz>
+        la tamburisto <klr>...</klr> <tld/>is la kanton por 
+        tamburo kaj tamburis &gcirc;in en la urbo
+        <fnt>
+          <bib>Fab3</bib>,
+          <vrk>&Scirc;tono de la sa&gcirc;uloj</vrk>.
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="transp.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Porti kaj adapti al alia kondi&ccirc;aro:
+      <ekz>
+        li <tld/>as veran traviva&jcirc;on al malvera kadro
+        <fnt>
+          <aut>B. Pabst</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/bernardo/291996">
+          Kial vi lernis lingvon?</url></vrk>,
+          <lok>2010-11-26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>přemísťovat</trd>,
+    <trd>transponovat</trd>
+  </trdgrp>
+  <trd lng="fr">transposer</trd>
+  <trd lng="sk">premiestňovať</trd>
 </drv>
 
 <drv mrk="transp.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">MAT</uzo>
-  <fnt><bib>PIV2</bib></fnt>
-  <snc>
+  <snc mrk="transp.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV2</bib></fnt>
     <dif>
       <klr>(de <ref cel="matric.n_p0o">(n,p)-matrico</ref> 
       <frm>A</frm>)</klr>
@@ -52,19 +89,21 @@
   </snc>
   <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="bg">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_n;&c_i;&c_r;&c_a;&c_n;&c_je;</trd>
+  <trd lng="cs">transponování</trd>
   <trd lng="de">Transponieren</trd>
   <trd lng="en">transposition</trd>
   <trd lng="fr">transposition<klr tip="ind"> (de matrice)</klr></trd>
-  <trd lng="hu">transzpon&aacute;l&aacute;s</trd>  
+  <trd lng="hu">transzpon&aacute;l&aacute;s</trd>
   <trd lng="nl">transpositie</trd>
   <trd lng="ru">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">transponovanie</trd>
 </drv>
 
 <drv mrk="transp.0ajxo">
   <kap><tld/>a&jcirc;o</kap>
-  <uzo tip="fak">MAT</uzo>
-  <fnt><bib>MatVort</bib></fnt>
-  <snc>
+  <snc mrk="transp.0ajxo.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
     <dif>
       <klr>(de <ref cel="matric.n_p0o">(n,p)-matrico</ref>)</klr>
       Rezulto de &gcirc;ia <ref cel="transp.0o"><tld/>o</ref>:
@@ -93,10 +132,10 @@
 
 <drv mrk="transp.0ato">
   <kap><tld/>ato</kap>
-  <uzo tip="fak">MAT</uzo>
-  <fnt><bib>PIV1</bib></fnt>
-  <uzo tip="stl">EVI</uzo>
-  <snc>
+  <snc mrk="transp.0ato.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <uzo tip="stl">EVI</uzo>
     <dif>
       <ref tip="dif" cel="transp.0ajxo"><tld lit="T"/>a&jcirc;o</ref>.
     </dif>
@@ -111,10 +150,22 @@
     skribante la 
     nedifinitan <ctl>transpozito</ctl> en artikolo <ctl>konjug</ctl>.
   </rim>
+  <!-- formon evitindan prefere ne traduku -->
+  <trd lng="sk">transponovaná matica</trd>
+  <trd lng="cs">transponovaná matice</trd>
 </drv>
 </art>
 <!--
 $Log: transp.xml,v $
+Revision 1.18  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2015/01/06 21:10:18  revo
+Jeromo Vasxe: ~i + snc muz fig
+
 Revision 1.15  2013/08/01 09:10:12  revo
 Joop Eggen: +trd bg
 
@@ -134,8 +185,5 @@ Marc Bavant: +frm, +trd pl
 Revision 1..9  2002/10/18 16:40:44  revo
 Marc Bavant: ~ato: +ctl en rim
 Revision 1.8  2002/05/27 17:20:13  revo
-Marc Bavant: ~o: +fnt
-Revision 1.7  2002/05/12 16:35:53  revo
-Marc Bavant: ~i, ~o: +trd; ~ato: mod rim
 -->
 </vortaro>

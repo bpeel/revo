@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kre.xml,v 1.17 2010/10/15 16:30:28 revo Exp $">
+<art mrk="$Id: kre.xml,v 1.20 2015/10/01 07:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kre</rad>/i
@@ -97,9 +97,15 @@
     <trd>&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_t;&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="cs">tvo&rcaron;it</trd>
+  <trdgrp lng="cs">
+    <trd>kreovat</trd>,
+    <trd>tvo&rcaron;it</trd>,
+    <trd>tvo&rcaron;it</trd>,
+    <trd>vytvo&rcaron;it</trd>
+  </trdgrp>
   <trd lng="de">bilden</trd>
   <trd lng="en">create</trd>
+  <trd lng="es">crear</trd>
   <trd lng="fr">cr&eacute;er</trd>
   <trdgrp lng="hu">
     <trd>alkot</trd>,
@@ -111,6 +117,12 @@
     <trd>&c_s;&c_o;&c_z;&c_d;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_o;&c_z;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_t;&c_v;&c_o;&c_r;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>stvori&tcaron;</trd>,
+    <trd>tvori&tcaron;</trd>,
+    <trd>utvori&tcaron;</trd>,
+    <trd>vytvori&tcaron;</trd>
   </trdgrp>
   <trd lng="sv">skapa</trd>
 </drv>
@@ -135,6 +147,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>tvorba</trd>,
+    <trd>tvo&rcaron;en&iacute;</trd>
+  </trdgrp>
   <trd lng="en">creation</trd>
   <trd lng="fr">cr&eacute;ation<klr tip="amb"> (acte)</klr></trd>
   <trdgrp lng="nl">
@@ -144,6 +160,10 @@
   <trdgrp lng="ru">
     <trd>&c_s;&c_o;&c_z;&c_d;&c_a;&c_n;&c_i;&c_je;<klr tip="ind"> (&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;)</klr></trd>,
     <trd>&c_t;&c_v;&c_o;&c_r;&c_je;&c_n;&c_i;&c_je;<klr tip="amb"> (&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>tvorba</trd>,
+    <trd>tvorenie</trd>
   </trdgrp>
 </drv>
 
@@ -260,6 +280,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_v;&c_a;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_zh;&c_y;&c_v;&c_o;&c_je;)</klr></trd>
+  <trd lng="cs">tvor</trd>
   <trdgrp lng="en">
     <trd>creature</trd>
   </trdgrp>
@@ -272,6 +293,7 @@
     <trd>&c_t;&c_v;&c_o;&c_r;&c_je;&c_n;&c_i;&c_je;<klr tip="amb"> (&c_zh;&c_i;&c_v;&c_o;&c_je;)</klr></trd>,
     <trd>&c_t;&c_v;&c_a;&c_r;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">tvor</trd>
 </drv>
 
 <drv mrk="kre.0itajxo">
@@ -307,6 +329,15 @@
 </art>
 <!--
 $Log: kre.xml,v $
+Revision 1.20  2015/10/01 07:10:15  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.19  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2010/10/15 16:30:28  revo
 Russ Williams: +trd en
 
@@ -320,14 +351,5 @@ Revision 1.14  2005/04/28 16:32:22  revo
 Yury Finkel: +trd ru
 
 Revision 1.13  2005/04/24 16:31:29  revo
-Jeromo Vasxe: + ~o ~ismo, dis. ~ajxo/itajxo, ~i snc/subsnc, + trd fr
-
-Revision 1.12 2004/04/18 16:31:48 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11 2002/12/17 20:11:31 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10 2002/01/11 19:09:38 revo
 -->
 </vortaro>

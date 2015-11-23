@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ali.xml,v 1.40 2014/06/08 01:10:16 revo Exp $">
+<art mrk="$Id: ali.xml,v 1.45 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ali</rad>/a <fnt><bib>PV</bib></fnt>
@@ -17,7 +17,7 @@
          li estas tute <tld/>a ol li estis;
        </ekz>
        <ekz>
-         la rezultato estis tute <tld/>a ol ni esperis;
+         la rezulto estis tute <tld/>a ol ni esperis;
        </ekz>
        <ekz>
          kun la tempo la formo de la lingvo eble estos <tld/>a ol
@@ -56,10 +56,6 @@
          <fnt><bib>MT</bib>, <lok>&Re2; 5:17</lok></fnt>;
        </ekz>
        <ekz>
-         la diletanteco ne povas esti io <tld/>a krom aldono, ornamo
-         de la vivo<fnt>Z</fnt>;
-       </ekz>
-       <ekz>
          ne scii <tld/>an lingvon krom sia propra<fnt>Z</fnt>;
        </ekz>
        <ekz>
@@ -86,7 +82,8 @@
        </ekz>
        <ekz>
          unuj ridas, <tld/>aj ploras<fnt>Z</fnt>;
-       </ekz><ekz>
+       </ekz>
+       <ekz>
          helpi, kompreni unu la <tld/>an<fnt>Z</fnt>;
        </ekz>
        <ekz>
@@ -101,18 +98,16 @@
      <trd lng="pt">outro</trd>
    </snc>
    <snc mrk="ali.0a.pron">
-     <uzo tip="klr">(pron.)</uzo>
-     <dif>
-       <tld/>a homo, <tld/>ulo, proksimulo:
-       <ekz>
-         ne kondamnu <tld/>an, oni vin ne
-         kondamnos<fnt><bib>PrV</bib></fnt>;
-       </ekz>
-       <ekz>
-         ne moku mizeron de <tld/>a, &ccirc;ar balda&ubreve; venos
-         via<fnt><bib>PrV</bib></fnt>.
-       </ekz>
-     </dif>
+     <uzo tip="klr">(pronomo)</uzo>
+     <ref tip="dif" cel="ali.0ulo.KOMUNE">aliulo</ref>
+     <ekz>
+       ne kondamnu <tld/>an, oni vin ne
+       kondamnos<fnt><bib>PrV</bib></fnt>;
+     </ekz>
+     <ekz>
+       ne moku mizeron de <tld/>a, &ccirc;ar balda&ubreve; venos
+       via<fnt><bib>PrV</bib></fnt>.
+     </ekz>
      <trd lng="ca">altri</trd>
      <trd lng="fr">autrui</trd>
      <trd lng="nl">andere</trd>
@@ -123,32 +118,37 @@
      <trd lng="pt">outro</trd>
      <trd lng="sk">druh&yacute;</trd>
    </snc>
-   <trdgrp lng="be">
+  <trdgrp lng="be">
      <trd>&c_ib;&c_n;&c_sh;&c_y;</trd>,
      <trd>&c_d;&c_r;&c_u;&c_g;&c_ib;</trd>
    </trdgrp>
-   <trd lng="bg">&c_d;&c_r;&c_u;&c_g;</trd>
-   <trdgrp lng="cs">
+  <trd lng="bg">&c_d;&c_r;&c_u;&c_g;</trd>
+  <trdgrp lng="cs">
      <trd>jin&yacute;</trd>,
      <trd>druh&yacute;</trd>
    </trdgrp>
-   <trd lng="de">anderer</trd>
-   <trd lng="en">other</trd>
-   <trdgrp lng="fi">
+  <trd lng="de">anderer</trd>
+  <trd lng="en">other</trd>
+  <trd lng="es">otro</trd>
+  <trdgrp lng="fi">
      <trd>toinen</trd>,
      <trd>muu</trd>
    </trdgrp>
-   <trd lng="es">otro</trd>
-   <trd lng="he">&alef;&het;&resh;</trd>
-   <trd lng="it">altro</trd>
-   <trd lng="oc">autre</trd>
-   <trdgrp lng="ru">
+  <trd lng="he">&alef;&het;&resh;</trd>
+  <trd lng="it">altro</trd>
+  <trd lng="no">annen</trd>
+  <trd lng="oc">autre</trd>
+  <trdgrp lng="ru">
      <trd>&c_i;&c_n;&c_o;&c_j;</trd>,
      <trd>&c_d;&c_r;&c_u;&c_g;&c_o;&c_j;</trd>
    </trdgrp>
-   <trd lng="sk">in&yacute;</trd>
-   <trd lng="vo">votik</trd>
- </drv>
+  <trdgrp lng="sk">
+    <trd>in&yacute;</trd>,
+    <trd>inakší</trd>,
+    <trd>onaký</trd>
+  </trdgrp>
+  <trd lng="vo">votik</trd>
+</drv>
 
  <drv mrk="ali.0e">
    <kap><tld/>e</kap>
@@ -163,15 +163,14 @@
        </ekz>
      </dif>
      <rim>
-     La radiko <tld></tld>- kaj &gcirc;iaj fina&jcirc;oj devenantaj de la
+     La radiko <tld/>- kaj &gcirc;iaj fina&jcirc;oj devenantaj de la
      <ref tip="super" cel="tabel.0vorto">tabelvortoj</ref> (-al,
      -am, -el, -es, -om, -u) estas neoficialaj kaj evitindaj: ili
      ja kreas konfuzon &ccirc;e la difino de <em>alie</em>,
      kies signifo estus tiel <ekz>aliloke</ekz> kaj ne plu
      <ekz>alimaniere</ekz>. Aldone
-     ili
-     alportas nenion pli bonan al la lingvo, &ccirc;ar klare kompreneblaj
-     sinonimoj
+     ili alportas nenion pli bonan al la lingvo,
+     &ccirc;ar klare kompreneblaj samsenca&jcirc;oj
      jam ekzistas: <ekz>alika&ubreve;ze</ekz> anstata&ubreve; <ctl>alial</ctl>,
      <ekz>alifoje</ekz> a&ubreve;
      <ekz>aliokaze</ekz> anstata&ubreve; <ctl>aliam</ctl>,
@@ -245,8 +244,8 @@
        <trd>muussa tapauksessa</trd>
      </trdgrp>
      <trdgrp lng="fr">
-       <trd>sinon</trd>,
-       <trd>autrement</trd>
+       <trd>autrement</trd>,
+       <trd>sinon</trd>
      </trdgrp>
      <trd lng="nl">zo <ind>niet</ind></trd>
      <trdgrp lng="pl">
@@ -267,12 +266,21 @@
        <trd>&c_a; &c_n;&c_je; &c_t;&c_o;</trd>
      </trdgrp>
    </snc>
-   <trd lng="be">&c_ib;&c_n;&c_a;&c_ch;&c_a;&c_j;</trd>
-   <trd lng="cs">jinak</trd>
-   <trd lng="he">&alef;&het;&resh;&tav;</trd>
-   <trd lng="oc">autrament</trd>
-   <trd lng="sk">inak</trd>
- </drv>
+  <trd lng="be">&c_ib;&c_n;&c_a;&c_ch;&c_a;&c_j;</trd>
+  <trdgrp lng="cs">
+    <trd>jinak</trd>,
+    <trd>ostatně</trd>,
+    <trd>v jiném případě</trd>
+  </trdgrp>
+  <trd lng="he">&alef;&het;&resh;&tav;</trd>
+  <trd lng="no">ellers</trd>
+  <trd lng="oc">autrament</trd>
+  <trdgrp lng="sk">
+    <trd>inak</trd>,
+    <trd>ináč</trd>,
+    <trd>iným spôsobom</trd>
+  </trdgrp>
+</drv>
 
  <drv mrk="ali.0o">
    <kap><tld/>o</kap>
@@ -287,33 +295,38 @@
        </ekz>
      </dif>
    </snc>
-   <trd lng="be">&c_ib;&c_n;&c_sh;&c_a;&c_je;</trd>
-   <trdgrp lng="bg">
+  <trd lng="be">&c_ib;&c_n;&c_sh;&c_a;&c_je;</trd>
+  <trdgrp lng="bg">
      <trd>&c_n;&c_je;&c_shch;&c_o; <ind>&c_d;&c_r;&c_u;&c_g;&c_o;</ind></trd>,
      <trd>&c_o;&c_shch;&c_je; &c_n;&c_je;&c_shch;&c_o;</trd>
    </trdgrp>
-   <trdgrp lng="ca">
+  <trdgrp lng="ca">
      <trd>una altra cosa</trd>,
      <trd>el contrari <klr>(se kontra&Aring;&#173;a)</klr></trd>
    </trdgrp>
-   <trd lng="en">something else</trd>
-   <trdgrp lng="fi">
+  <trd lng="cs">něco jiného</trd>
+  <trd lng="en">something else</trd>
+  <trdgrp lng="fi">
      <trd><klr tip="amb">(jotakin) </klr>muuta</trd>,
      <trd>muu<klr> (asia)</klr></trd>
    </trdgrp>
-   <trd lng="fr">autre chose</trd>
-   <trd lng="nl">iets <ind>anders</ind></trd>
-   <trdgrp lng="pl">
+  <trd lng="fr">autre chose</trd>
+  <trd lng="nl">iets <ind>anders</ind></trd>
+  <trd lng="no">noe <ind>annet</ind></trd>
+  <trdgrp lng="pl">
      <trd>co innego</trd>,
      <trd>co&sacute; innego</trd>
    </trdgrp>
-   <trdgrp lng="pt">
+  <trdgrp lng="pt">
      <trd>outra coisa</trd>,
      <trd>al <klr>(ark.)</klr></trd>
    </trdgrp>
-   <trd lng="ru">&c_d;&c_r;&c_u;&c_g;&c_o;&c_je;</trd>
-   <trd lng="sk">in&eacute;</trd>
- </drv>
+  <trd lng="ru">&c_d;&c_r;&c_u;&c_g;&c_o;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>in&eacute;</trd>,
+    <trd>niečo iné</trd>
+  </trdgrp>
+</drv>
 
  <drv mrk="ali.0igi">
    <kap><tld/>igi</kap>
@@ -321,50 +334,60 @@
    <snc mrk="ali.0igi.KOMUNE">
      <dif>
        Fari ion <tld/>a, &scirc;an&gcirc;i, modifi,
-       <ref tip="vid" cel="form.trans0i">transformi</ref>:
+       <ref tip="vid" cel="form.ali0i.KOMUNE">aliformi</ref>:
        <ekz>
          por ke oni ne rekonu
-         lin, li <tld/>igis sian vo&ccirc;on
+         lin, li <tld/>igis sian vo&ccirc;on.
        </ekz>
      </dif>
    </snc>
-   <trdgrp lng="be">
+  <trdgrp lng="be">
      <trd>&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_mol;</trd>,
      <trd>&c_z;&c_mol;&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_mol;</trd>
    </trdgrp>
-   <trd lng="bg">&c_i;&c_z;&c_m;&c_je;&c_n;&c_ja;&c_v;&c_a;&c_m;</trd>
-   <trd lng="ca">transformar</trd>
-   <trdgrp lng="de">
+  <trd lng="bg">&c_i;&c_z;&c_m;&c_je;&c_n;&c_ja;&c_v;&c_a;&c_m;</trd>
+  <trd lng="ca">transformar</trd>
+  <trdgrp lng="cs">
+    <trd><klr>(po)</klr>změnit</trd>,
+    <trd>měnit</trd>,
+    <trd>přeměnit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
      <trd>&auml;ndern</trd>,
      <trd>ver&auml;ndern</trd>,
      <trd>ab&auml;ndern</trd>
    </trdgrp>
-   <trd lng="en">modify</trd>
-   <trdgrp lng="fi">
+  <trd lng="en">modify</trd>
+  <trdgrp lng="fi">
      <trd>muuttaa<klr tip="amb"> (toiseksi, toisenlaiseksi)</klr>
      </trd>
    </trdgrp>
-   <trd lng="fr">alt&eacute;rer</trd>
-   <trdgrp lng="nl">
+  <trd lng="fr">alt&eacute;rer</trd>
+  <trdgrp lng="nl">
      <trd>veranderen</trd>,
      <trd>aanpassen</trd>
    </trdgrp>
-   <trdgrp lng="pl">
+  <trd lng="no">endre</trd>
+  <trdgrp lng="pl">
      <trd>zmienia&cacute;</trd>,
      <trd>przeinacza&cacute;</trd>,
      <trd>przemienia&cacute;</trd>
    </trdgrp>
-   <trdgrp lng="pt">
+  <trdgrp lng="pt">
      <trd>modificar</trd>,
      <trd>mudar</trd>
    </trdgrp>
-   <trdgrp lng="ru">
+  <trdgrp lng="ru">
      <trd>&c_m;&c_je;&c_n;&c_ja;&c_t;&c_mol;</trd>,
      <trd>&c_i;&c_z;&c_m;&c_je;&c_n;&c_ja;&c_t;&c_mol;</trd>,
      <trd>&c_i;&c_z;&c_m;&c_je;&c_n;&c_i;&c_t;&c_mol;</trd>
    </trdgrp>
-   <trd lng="sk">zmeni&tcaron;</trd>
- </drv>
+  <trdgrp lng="sk">
+    <trd>pozmeniť</trd>,
+    <trd>upraviť</trd>,
+    <trd>zmeni&tcaron;</trd>
+  </trdgrp>
+</drv>
 
  <drv mrk="ali.0igxi">
    <kap><tld/>i&gcirc;i</kap>
@@ -388,6 +411,7 @@
    </trdgrp>
    <trd lng="fr">s'<ind>alt&eacute;rer</ind></trd>
    <trd lng="nl">veranderen</trd>
+   <trd lng="no">endre seg</trd>
    <trdgrp lng="pl">
      <trd>zmienia&cacute; si&eogonek;</trd>,
      <trd>przemienia&cacute; si&eogonek;</trd>
@@ -398,39 +422,68 @@
    </trdgrp>
    <trdgrp lng="ru">
      <trd>&c_m;&c_je;&c_n;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>,
-     <trd>&c_i;&c_z;&c_m;&c_je;&c_n;&c_ja;&c_t;&c_mol;&c_s;&c_ja;
-     </trd>,
+     <trd>&c_i;&c_z;&c_m;&c_je;&c_n;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>,
      <trd>&c_i;&c_z;&c_m;&c_je;&c_n;&c_i;&c_t;&c_mol;&c_s;&c_ja;
      </trd>
    </trdgrp>
    <trd lng="sk">zmeni&tcaron; sa</trd>
  </drv>
 
- <drv mrk="ali.inter0e">
-   <kap>inter<tld/>e</kap>
-   <snc mrk="ali.inter0e.KOMUNE">
-     <dif>
-       Inter <tld/>aj aferoj.
-     </dif>
-     </snc>
-   <trd lng="be">&c_p;&c_a;&c_m;&c_ib;&c_zh; &c_ib;&c_n;&c_sh;&c_y;&c_m;</trd>
-   <trd lng="bg">&c_m;&c_je;&c_zh;&c_d;&c_u; <ind>&c_d;&c_r;&c_u;&c_g;&c_o;&c_t;&c_o;</ind></trd>
-   <trd lng="ca">entre d'altres <klr>(coses)</klr></trd>
-   <trd lng="de">unter <ind>anderem</ind></trd>
-   <trdgrp lng="en">
-     <trd>among others</trd>,
-     <trd>inter alia</trd>
-   </trdgrp>
-   <trd lng="fi">muun muassa</trd>
-   <trd lng="fr">entre <ind>autres</ind></trd>
-   <trd lng="he">&bet;&yod;&fnun; &he;&shin;&alef;&resh;</trd>
-   <trd lng="nl">onder <ind>andere</ind></trd>
-   <trd lng="pl">mi&eogonek;dzy <ind>innymi</ind></trd>
-   <trd lng="pt">entre <ind>outrod</ind></trd>
-   <trd lng="ru">&c_m;&c_je;&c_zh;&c_d;&c_u;
-     &c_p;&c_r;&c_o;&c_ch;&c_i;&c_m;</trd>
-   <trd lng="sk">okrem <ind>in&eacute;ho</ind></trd>
- </drv>
+<drv mrk="ali.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="ali.0ulo.KOMUNE">
+    <dif>
+      <tld lit="A"/>a homo;
+      <ref tip="sin" cel="ali.0a.pron">alia<sncref/></ref>:
+      <ekz>
+        diras la proverbo, ke <tld/>ula sperto lernigas neniun
+        <fnt>
+          <aut>-, trad. B. Ragnarsson</aut>,
+          <vrk>Torstein la Stangofrapito</vrk>,
+          <lok>en: Islandaj Pravo&ccirc;oj, 1964</lok>
+        </fnt>.
+      </ekz>      
+    </dif>
+  </snc>
+  <trd lng="cs">někdo jiný</trd>
+  <trd lng="fr">quelqu'un d'autre</trd>
+  <trd lng="sk">niekto iný</trd>
+</drv>
+
+<drv mrk="ali.inter0e">
+  <kap>inter<tld/>e</kap>
+  <snc mrk="ali.inter0e.KOMUNE">
+    <dif>
+      Inter <tld/>aj aferoj.
+    </dif>
+    </snc>
+  <trd lng="be">&c_p;&c_a;&c_m;&c_ib;&c_zh; &c_ib;&c_n;&c_sh;&c_y;&c_m;</trd>
+  <trd lng="bg">&c_m;&c_je;&c_zh;&c_d;&c_u; <ind>&c_d;&c_r;&c_u;&c_g;&c_o;&c_t;&c_o;</ind></trd>
+  <trd lng="ca">entre d'altres <klr>(coses)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>mezi jiným</trd>,
+    <trd>mimo jiné</trd>,
+    <trd>mimochodem</trd>
+  </trdgrp>
+  <trd lng="de">unter <ind>anderem</ind></trd>
+  <trdgrp lng="en">
+    <trd>among others</trd>,
+    <trd>inter alia</trd>
+  </trdgrp>
+  <trd lng="fi">muun muassa</trd>
+  <trd lng="fr">entre <ind>autres</ind></trd>
+  <trd lng="he">&bet;&yod;&fnun; &he;&shin;&alef;&resh;</trd>
+  <trd lng="nl">onder <ind>andere</ind></trd>
+  <trd lng="no">blant <ind>annet</ind></trd>
+  <trd lng="pl">mi&eogonek;dzy <ind>innymi</ind></trd>
+  <trd lng="pt">entre <ind>outrod</ind></trd>
+  <trd lng="ru">&c_m;&c_je;&c_zh;&c_d;&c_u; &c_p;&c_r;&c_o;&c_ch;&c_i;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>medzi iným</trd>,
+    <trd>mimochodom</trd>,
+    <trd>okrem <ind>in&eacute;ho</ind></trd>
+  </trdgrp>
+</drv>
 
 <drv mrk="ali.kun0e">
   <kap>kun<tld/>e</kap>
@@ -444,6 +497,7 @@
     </dif>
   </snc>
   <trd lng="ca">amb altres</trd>
+  <trd lng="cs">spolu s něčím jiným</trd>
   <trdgrp lng="de">
     <trd>neben <ind>anderem</ind></trd>,
     <trd>neben <ind>anderen</ind></trd>,
@@ -456,10 +510,26 @@
   </trdgrp>
   <trd lng="fr">sans distinction</trd>
   <trd lng="pt"><ind>junto</ind> com outras coisas</trd>
+  <trd lng="sk">spolu s niečím iným</trd>
 </drv>
  </art>
  <!--
  $Log: ali.xml,v $
+ Revision 1.45  2015/07/04 08:37:30  revo
+ aldono de trd cs per skripto de M. von Laer
+
+ Revision 1.44  2015/06/28 12:03:35  revo
+ aldono de trd sk per skripto de M. von Laer
+
+ Revision 1.43  2014/12/14 08:10:15  revo
+ Jeromo Vasxe: kor ref
+
+ Revision 1.42  2014/12/11 00:11:17  revo
+ Jeromo Vasxe: + ~ulo
+
+ Revision 1.41  2014/12/03 23:10:12  revo
+ Filip van Laenen: +trd(no)
+
  Revision 1.40  2014/06/08 01:10:16  revo
  Jeromo Vasxe: + - ~flanke -> flank.xml, + kk fr
 

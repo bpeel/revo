@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: alkad.xml,v 1.3 2003/08/22 16:31:08 revo Exp $">
+<art mrk="$Id: alkad.xml,v 1.4 2015/10/01 14:10:23 revo Exp $">
 <kap>
   <rad>alkad</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -12,7 +12,8 @@
   <uzo tip="fak">JUR</uzo>
   <snc>
     <dif>
-      <ref tip="super" cel="jugx.0isto">Ju&gcirc;isto</ref> kun urb-administraj
+      <ref tip="super" cel="jugx.0isto">Ju&gcirc;isto</ref> kun
+      urb-administraj
       funkcioj en malnovaj Hispanujo kaj hispanaj kolonioj:
       <ekz>
         la sceno, kie la <tld/>o de Antequera <klr>...</klr> arestas kaj
@@ -21,6 +22,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">alcalde</trd>
   <trd lng="es">alcaide</trd>
   <trd lng="fr">alcade</trd>
   <trdgrp lng="hu">
@@ -32,6 +34,9 @@
 
 <!--
 $Log: alkad.xml,v $
+Revision 1.4  2015/10/01 14:10:23  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.3  2003/08/22 16:31:08  revo
 Jose Martin del Pozo: +trd es
 
@@ -43,4 +48,3 @@ Jeromo Vasxe: nova artikolo
 
 -->
 </vortaro>
-

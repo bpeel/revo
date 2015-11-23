@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: siri.xml,v 1.16 2014/06/13 09:10:11 revo Exp $">
+  <art mrk="$Id: siri.xml,v 1.18 2015/07/04 08:37:43 revo Exp $">
     <kap>
       <ofc>8</ofc>
       <rad>Siri</rad>/o <fnt><bib>PIV1</bib></fnt>
@@ -42,19 +42,21 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="en">Syria</trd>
-      <trdgrp lng="fr">
+  <trd lng="cs">Sýrie</trd>
+  <trd lng="en">Syria</trd>
+  <trdgrp lng="fr">
         <trd>Syrie</trd>,
         <trd>R&eacute;publique arabe syrienne</trd>
       </trdgrp>
-      <trd lng="he">&samekh;&vav;&resh;&yod;&he;</trd>
-      <trd lng="hu">Sz&iacute;ria</trd>
-      <trd lng="id">Suriah</trd>
-      <trd lng="nl">Syri&euml;</trd>
-      <trd lng="pl">Syria</trd>
-      <trd lng="pt">S&iacute;ria</trd>
-      <trd lng="ru">&c_S;&c_i;&c_r;&c_i;&c_ja;</trd>
-    </drv>
+  <trd lng="he">&samekh;&vav;&resh;&yod;&he;</trd>
+  <trd lng="hu">Sz&iacute;ria</trd>
+  <trd lng="id">Suriah</trd>
+  <trd lng="nl">Syri&euml;</trd>
+  <trd lng="pl">Syria</trd>
+  <trd lng="pt">S&iacute;ria</trd>
+  <trd lng="ru">&c_S;&c_i;&c_r;&c_i;&c_ja;</trd>
+  <trd lng="sk">Sýria</trd>
+</drv>
 
     <drv mrk="siri.s0a">
       <kap><tld lit="s"/>a</kap>
@@ -143,6 +145,12 @@
 
   <!--
   $Log: siri.xml,v $
+  Revision 1.18  2015/07/04 08:37:43  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.17  2015/06/29 16:33:23  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.16  2014/06/13 09:10:11  revo
   Damien Brucker: +trd fr
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bistur.xml,v 1.17 2012/01/03 08:10:33 revo Exp $">
+<art mrk="$Id: bistur.xml,v 1.20 2015/10/02 18:10:14 revo Exp $">
 <kap>
 <ofc>2</ofc>
 <rad>bisturi</rad>/o
@@ -16,12 +16,17 @@
     </dif>
     <ref tip="vid" cel="skalpe.0o">skalpelo</ref>
   </snc>
+  <trd lng="lat">scalprum</trd>
   <trd lng="bg">&c_l;&c_a;&c_n;&c_c;&c_je;&c_t;</trd>
   <trd lng="ca">bistur&iacute;</trd>
+  <trdgrp lng="cs">
+    <trd>b&rcaron;itvice</trd>,
+    <trd>chirurgick&yacute; no&zcaron;&iacute;k</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Lanzette</trd>
   </trdgrp>
-  <trd lng="en">lancet</trd>
+  <trdgrp lng="en"><trd>bistoury</trd><trd>lancet</trd></trdgrp>
   <trd lng="es">bistur&iacute;</trd>
   <trdgrp lng="fa">
     <trd>&a_t;&f_y;&a_gh; &a_j;&a_r;&a_A;&a_H;&f_y;</trd>
@@ -29,6 +34,8 @@
   </trdgrp>
   <trd lng="fr">bistouri</trd>
   <trd lng="hu">bistouri</trd>
+  <trd lng="it">bisturi</trd>
+  <trd lng="la">scalprum</trd>
   <trdgrp lng="nl">
     <trd>scalpel</trd>,
     <trd>lancet</trd>,
@@ -44,13 +51,20 @@
     <trd>&c_h;&c_i;&c_r;&c_u;&c_r;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
     &c_n;&c_o;&c_zh;</trd>
   </trdgrp>
-  <trd lng="it">bisturi</trd>
-  <trd lng="la">scalprum</trd>
-  <trd lng="lat">scalprum</trd>
+  <trd lng="sk">chirurgick&yacute; no&zcaron;&iacute;k</trd>
 </drv>
 </art>
 <!--
 $Log: bistur.xml,v $
+Revision 1.20  2015/10/02 18:10:14  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.19  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2012/01/03 08:10:33  revo
 Marc Rausell: +trd ca
 
@@ -64,14 +78,5 @@ Revision 1.14  2009/05/04 16:32:01  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.13  2009/03/15 17:30:56  revo
-Wieland Pusch: +trd bg
-
-Revision 1.12  2009/03/13 17:30:50  revo
-Antonio Codazzi: +trd it, la, lat
-
-Revision 1.11  2009/03/12 17:32:00  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.10  2007/01/30 17:30:52  revo
 -->
 </vortaro>

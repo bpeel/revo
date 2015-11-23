@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tritik.xml,v 1.24 2014/07/02 16:10:18 revo Exp $">
+<art mrk="$Id: tritik.xml,v 1.26 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tritik</rad>/o
@@ -34,6 +34,7 @@ Van
     <trd>blat</trd>,
     <trd>forment <klr>(reg)</klr></trd>
   </trdgrp>
+  <trd lng="cs">pšenice</trd>
   <trd lng="de">Weizen</trd>
   <trd lng="en">wheat</trd>
   <trd lng="es">trigo</trd>
@@ -53,12 +54,19 @@ Van
   <trd lng="pl">pszenica</trd>
   <trd lng="pt">trigo</trd>
   <trd lng="ru">&c_p;&c_sh;&c_je;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trd lng="sk">pšenica</trd>
   <trd lng="sv">vete</trd>
   <trd lng="tr">bu&gbreve;day</trd>
 </drv>
 </art>
 <!--
 $Log: tritik.xml,v $
+Revision 1.26  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2014/07/02 16:10:18  revo
 Eko Nur Syah Hidayat: +id
 

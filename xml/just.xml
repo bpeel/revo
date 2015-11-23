@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: just.xml,v 1.17 2009/02/19 20:26:03 revo Exp $">
+<art mrk="$Id: just.xml,v 1.19 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>just</rad>/a
@@ -52,6 +52,10 @@
     <trd>&c_s;&c_p;&c_r;&c_a;&c_v;&c_ja;&c_d;&c_l;&c_ib;&c_v;&c_y;</trd>,
     <trd>&c_z;&c_a;&c_k;&c_o;&c_n;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>oprávněný</trd>,
+    <trd>spravedlivý</trd>
+  </trdgrp>
   <trd lng="en">just</trd>
   <trdgrp lng="fr">
     <trd>juste</trd>,
@@ -65,6 +69,7 @@
     <trd>&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_v;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">spravodlivý</trd>
 </drv>
 
 <drv mrk="just.0eco">
@@ -106,6 +111,10 @@
     <trd>&c_p;&c_r;&c_a;&c_v;&c_a;</trd>,
     <trd>&c_z;&c_a;&c_k;&c_o;&c_n;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>oprávněnost</trd>,
+    <trd>spravedlnost</trd>
+  </trdgrp>
   <trd lng="de">Gerechtigkeit</trd>
   <trd lng="en">justice</trd>
   <trd lng="fr">justice<klr tip="ind"> (caract&egrave;re juste)</klr></trd>
@@ -117,6 +126,7 @@
     <trd>&c_p;&c_r;&c_a;&c_v;&c_o;</trd>,
     <trd>&c_s;&c_p;&c_r;&c_a;&c_v;&c_je;&c_d;&c_l;&c_i;&c_v;&c_o;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sk">spravodlivosť</trd>
   <trd lng="sv">r&auml;ttvisa</trd>
 </drv>
 
@@ -138,6 +148,11 @@
     <trd>&c_n;&c_je;&c_z;&c_a;&c_k;&c_o;&c_n;&c_n;&c_y;</trd>,
     <trd>&c_n;&c_ja;&c_p;&c_r;&c_a;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bezprávný</trd>,
+    <trd>neoprávněný</trd>,
+    <trd>nespravedlivý</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>unrecht</trd>,
     <trd>ungerecht</trd>
@@ -155,6 +170,10 @@
   <trd lng="nl">onrechtvaardig</trd>
   <trd lng="pt">injusto</trd>
   <trd lng="ru">&c_n;&c_je;&c_s;&c_p;&c_r;&c_a;&c_v;&c_je;&c_d;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>krivdiaci</trd>,
+    <trd>nespravodlivý</trd>
+  </trdgrp>
   <trd lng="sv">or&auml;ttvis</trd>
 </drv>
 
@@ -205,6 +224,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_s;&c_p;&c_r;&c_a;&c_v;&c_ja;&c_d;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>bezpráví</trd>,
+    <trd>neoprávněnost</trd>,
+    <trd>nespravedlnost</trd>
+  </trdgrp>
   <trd lng="de">Ungerechtigkeit</trd>
   <trd lng="en">injustice</trd>
   <trd lng="fr">injustice<klr tip="ind"> (caract&egrave;re
@@ -217,10 +241,17 @@
   <trd lng="nl">onrechtvaardigheid</trd>
   <trd lng="pt">injusti&ccedil;a</trd>
   <trd lng="ru">&c_n;&c_je;&c_s;&c_p;&c_r;&c_a;&c_v;&c_je;&c_d;&c_l;&c_i;&c_v;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">nespravodlivosť <klr>(vlastnosť)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: just.xml,v $
+Revision 1.19  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.17  2009/02/19 20:26:03  revo
 Russ Williams: +trd en
 

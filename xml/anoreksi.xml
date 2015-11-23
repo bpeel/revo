@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: anoreksi.xml,v 1.5 2013/10/09 18:10:34 revo Exp $">
+<art mrk="$Id: anoreksi.xml,v 1.8 2015/07/04 08:37:30 revo Exp $">
 <kap>
   <rad>anoreksi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -28,25 +28,39 @@
     </dif>
   </snc>
   <trd lng="bg">&c_a;&c_n;&c_o;&c_r;&c_je;&c_k;&c_s;&c_i;&c_ja;</trd>
+  <trd lng="ca">anor&egrave;xia</trd>
+  <trdgrp lng="cs">
+    <trd>anorexie</trd>,
+    <trd>nechutenství</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Anorexie</trd>,
     <trd>Appetitlosigkeit</trd>,
     <trd>Magersucht</trd>,
     <trd>Essst&ouml;rung</trd>
   </trdgrp>
-  <trd lng="ca">anor&egrave;xia</trd>
   <trd lng="en">anorexia</trd>
   <trd lng="fr">anorexie</trd>
+  <trd lng="id">anoreksia</trd>
   <trd lng="nl">anorexia</trd>
-  <adm>
-    "Anorexia nervosa" kiel aparta psike ka&ubreve;zita formo ne konfuzi&gcirc;u kun
-    la pli &gcirc;enerala simptomo "Anorexia". <aut>WD</aut>
-  </adm>
+  <trdgrp lng="sk">
+    <trd>anorexia</trd>,
+    <trd>nechutenstvo</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: anoreksi.xml,v $
+Revision 1.8  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2014/11/15 05:10:24  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.5  2013/10/09 18:10:34  revo
 Wolfram Diestel: ref al lst malsanoj
 

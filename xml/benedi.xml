@@ -2,17 +2,25 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: benedi.xml,v 1.12 2013/04/19 10:10:09 revo Exp $">
+<art mrk="$Id: benedi.xml,v 1.14 2015/07/04 08:37:31 revo Exp $">
 <kap>
 <rad>benediktan</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="benedi.0o">
   <kap><tld/>o</kap>
   <ref tip="dif" cel="benedikt.0ano.KAT">benediktano</ref>
+  <trd lng="sk">benediktín</trd>
+  <trd lng="cs">benediktýn</trd>
 </drv>
 </art>
 <!--
 $Log: benedi.xml,v $
+Revision 1.14  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2013/04/19 10:10:09  revo
 Jeromo Vasxe: + fnt
 

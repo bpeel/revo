@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: alkoho.xml,v 1.32 2014/06/04 10:10:16 revo Exp $">
+<art mrk="$Id: alkoho.xml,v 1.36 2015/09/30 05:10:18 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>alkohol</rad>/o
@@ -23,6 +23,10 @@
     <trd>&c_a;&c_l;&c_mol;&c_k;&c_a;&c_g;&c_o;&c_l;&c_mol;</trd>
   </trdgrp>
   <trd lng="bg">&c_a;&c_l;&c_k;&c_o;&c_h;&c_o;&c_l;</trd>
+  <trdgrp lng="cs">
+    <trd>alkohol</trd>,
+    <trd>l&iacute;h</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Alkohol</trd>,
      <trd>&Auml;thylalkohol</trd>,
@@ -37,15 +41,23 @@
     <trd>szesz</trd>,
     <trd>alkohol</trd>
   </trdgrp>
+  <trd lng="id">alkohol</trd>
   <trd lng="it">alcool</trd>
-  <trd lng="tr">alkol</trd>
   <trd lng="nl">alcohol</trd>
+  <trdgrp lng="pl">
+    <trd>alkohol</trd>,
+    <trd>spirytus</trd>
+  </trdgrp>
   <trd lng="pt">&aacute;lcool</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_p;&c_i;&c_r;&c_t;</trd>,
     <trd>&c_a;&c_l;&c_k;&c_o;&c_g;&c_o;&c_l;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">alkohol</trd>
+  <trdgrp lng="sk">
+    <trd>alkohol</trd>,
+    <trd>lieh</trd>
+  </trdgrp>
+  <trd lng="tr">alkol</trd>
 </drv>
 
 <drv mrk="alkoho.0ajxo">
@@ -78,7 +90,12 @@
     <trd>spiritueux</trd>
   </trdgrp>
   <trd lng="hu">szeszes ital</trd>  
+  <trd lng="id"><ind>minum</ind>an beralkohol</trd>
   <trd lng="nl">alcoholische drank</trd>
+  <trdgrp lng="pl">
+    <trd>alkohol</trd>,
+    <trd>spirytus</trd>
+  </trdgrp>
   <trd lng="pt">bebida alco&oacute;lica</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_p;&c_i;&c_r;&c_t;&c_n;&c_o;&c_je;</trd>,
@@ -112,6 +129,11 @@
     <trd lng="pt">alcoolizar</trd>
     <trd lng="es">alcoholizar</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>alkoholizovat</trd>,
+    <trd>zkvasit na alkohol</trd>
+  </trdgrp>
+  <trd lng="sk">skvasi&tcaron; na alkohol</trd>
 </drv>
 
 <drv mrk="alkoho.0ismo">
@@ -126,29 +148,50 @@
   </snc>
   <trd lng="be">&c_a;&c_l;&c_mol;&c_k;&c_a;&c_g;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
   <trd lng="bg">&c_a;&c_l;&c_k;&c_o;&c_h;&c_o;&c_l;&c_i;&c_z;&c_malmol;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>alkoholizmus</trd>,
+    <trd>opilstv&iacute;</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Alkoholismus</trd>,
      <trd>Alkoholsucht</trd>,
      <trd>Alkoholabh&auml;ngigkeit</trd>
   </trdgrp>
   <trd lng="en">alcoholism</trd>
+  <trd lng="es">alcoholismo</trd>
   <trd lng="fa">&a_A;&a_l;&f_k;&a_l;&f_y;&a_s;&a_m;</trd>
   <trd lng="fr">alcoolisme</trd>
-  <trd lng="es">alcoholismo</trd>
   <trdgrp lng="hu">
     <trd>r&eacute;szegesked&eacute;s</trd>,
     <trd>alkoholizmus</trd>,
     <trd>alkoholfogyaszt&aacute;s</trd>
   </trdgrp>
+  <trd lng="id">alkoholisme</trd>
   <trd lng="it">alcolismo</trd>
   <trd lng="nl">alcoholisme</trd>
+  <trd lng="pl">alkoholizm</trd>
   <trd lng="pt">alcoolismo</trd>
   <trd lng="ru">&c_a;&c_l;&c_k;&c_o;&c_g;&c_o;&c_l;&c_i;&c_z;&c_m;</trd>
-  <trd lng="sk">alkoholizmus</trd>
+  <trdgrp lng="sk">
+    <trd>alkoholizmus</trd>,
+    <trd>opilstvo</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: alkoho.xml,v $
+Revision 1.36  2015/09/30 05:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.35  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.34  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.33  2014/11/15 05:10:22  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.32  2014/06/04 10:10:16  revo
 Damien Brucker: +trd fr
 
@@ -159,17 +202,5 @@ Revision 1.30  2009/11/10 17:30:33  revo
 Wieland Pusch: +trd bg+de
 
 Revision 1.29  2009/11/09 17:30:29  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.28  2007/11/16 17:30:19  revo
-Wieland Pusch: +trd bg
-
-Revision 1.27  2006/11/03 17:30:21  revo
-Jeromo Vasxe: + mrk
-
-Revision 1.26  2005/05/16 17:48:37  revo
-Marc Bavant: kor duobligitajn punktojn
-
-Revision 1.25  2005/04/19 16:31:53  revo
 -->
 </vortaro>

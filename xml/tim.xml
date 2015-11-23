@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tim.xml,v 1.35 2014/03/09 02:10:21 revo Exp $">
+<art mrk="$Id: tim.xml,v 1.38 2015/07/04 08:37:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tim</rad>/i <fnt><bib>PV</bib></fnt>
@@ -110,7 +110,12 @@
   </snc>
   <trd lng="be">&c_b;&c_a;&c_ja;&c_c;&c_c;&c_a;</trd>
   <trd lng="bg">&c_s;&c_t;&c_r;&c_a;&c_h;&c_u;&c_v;&c_a;&c_m; &c_s;&c_je;</trd>
-  <trd lng="cs">b&aacute;t se</trd>
+  <trdgrp lng="cs">
+    <trd>b&aacute;t se</trd>,
+    <trd>lekat se</trd>,
+    <trd>mít strach</trd>,
+    <trd>strachovat se</trd>
+  </trdgrp>
   <trd lng="de">f&uuml;rchten</trd>
   <trd lng="en">fear</trd>
   <trd lng="es">temer</trd>
@@ -118,6 +123,10 @@
     <trd>craindre</trd>,
     <trd>avoir <ind>peur</ind> de</trd>,
     <trd>redouter</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>khawatir</trd>,
+    <trd>takut</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>bang zijn voor</trd>,
@@ -130,6 +139,7 @@
     <trd>&c_b;&c_o;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_s;&c_t;&c_r;&c_a;&c_sh;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trd lng="sk">hroziť sa <klr>(niečoho)</klr></trd>
 </drv>
 
 <drv mrk="tim.0o">
@@ -163,6 +173,14 @@
   <trdgrp lng="bg">
     <trd>&c_s;&c_t;&c_r;&c_a;&c_h;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bázeň</trd>,
+    <trd>leknutí</trd>,
+    <trd>strach</trd>,
+    <trd>tíseň</trd>,
+    <trd>úděs</trd>,
+    <trd>úzkost</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Furcht</trd>,
     <trd>Angst</trd>
@@ -179,6 +197,10 @@
     <trd>f&eacute;lelem</trd>,
     <trd>aggodalom</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>[<ind>khawatir</ind>] kekhawatiran</trd>,
+    <trd>[<ind>takut</ind>] ketakutan</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>vrees</trd>,
     <trd>angst</trd>
@@ -193,6 +215,11 @@
   <trdgrp lng="ru">
     <trd>&c_s;&c_t;&c_r;&c_a;&c_h;</trd>,
     <trd>&c_b;&c_o;&c_ja;&c_z;&c_n;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bázeň</trd>,
+    <trd>obava</trd>,
+    <trd>strach</trd>
   </trdgrp>
 </drv>
 
@@ -211,6 +238,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_ja;&c_z;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>bojácný</trd>,
+    <trd>trpící trémou</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>furchtsam</trd>,
     <trd>&auml;ngstlich</trd>
@@ -221,6 +252,7 @@
     <trd>timor&eacute;</trd>
   </trdgrp>
   <trd lng="hu">f&eacute;l&eacute;nk</trd>
+  <trd lng="id"><ind>malu</ind>-malu</trd>
   <trdgrp lng="nl">
     <trd>bang</trd>,
     <trd>vreesachtig</trd>
@@ -234,6 +266,11 @@
     <trd>p&lstroke;ochliwy</trd>
   </trdgrp>
   <trd lng="ru">&c_b;&c_o;&c_ja;&c_z;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>bojazlivý</trd>,
+    <trd>plachý</trd>,
+    <trd>ľakavý</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tim.0igi">
@@ -256,7 +293,13 @@
     <trd>&c_z;&c_a;&c_p;&c_a;&c_l;&c_o;&c_h;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_s;&c_p;&c_u;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="es">atemorizar</trd> 
+  <trdgrp lng="cs">
+    <trd>odstrašit</trd>,
+    <trd>plašit</trd>,
+    <trd>vyplašit</trd>,
+    <trd>zastrašit</trd>
+  </trdgrp>
+  <trd lng="es">atemorizar</trd>
   <trdgrp lng="fr">
     <trd>apeurer</trd>,
     <trd>effrayer</trd>,
@@ -266,6 +309,7 @@
     <trd>megijeszt</trd>,
     <trd>megf&eacute;leml&iacute;t</trd>
   </trdgrp>
+  <trd lng="id">[<ind>takut</ind>] menakuti</trd>
   <trdgrp lng="pl">
     <trd>straszy&cacute;</trd>,
     <trd>przestrasza&cacute;</trd>,
@@ -275,6 +319,10 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_u;&c_g;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_t;&c_r;&c_a;&c_sh;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>naľakať</trd>,
+    <trd>postrašiť</trd>
   </trdgrp>
 </drv>
 
@@ -291,7 +339,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_sh;&c_n;&c_y;</trd>
-  <trd lng="es">temible</trd> 
+  <trdgrp lng="cs">
+    <trd>hrozný</trd>,
+    <trd>nebezpečný</trd>
+  </trdgrp>
+  <trd lng="es">temible</trd>
   <trd lng="fr">redoutable</trd>
   <trdgrp lng="hu">
     <trd>f&eacute;lelmetes</trd>,
@@ -304,6 +356,10 @@
   <trdgrp lng="ru">
     <trd>&c_s;&c_t;&c_r;&c_a;&c_sh;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_u;&c_g;&c_a;&c_ju;&c_shch;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hrozný</trd>,
+    <trd>nebezpečný</trd>
   </trdgrp>
 </drv>
 
@@ -343,6 +399,7 @@
     </dif>
   </snc>
   <trd lng="fr">peureux<klr> (subst.)</klr></trd>
+  <trd lng="id">[<ind>takut</ind>] penakut</trd>
 </drv>
 
 <drv mrk="tim.antaux0i">
@@ -434,6 +491,13 @@
     <trd>&c_n;&c_a;&c_p;&c_a;&c_l;&c_o;&c_h;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_z;&c_a;&c_b;&c_a;&c_ja;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>leknout se</trd>,
+    <trd>plašit se</trd>,
+    <trd>polekat se</trd>,
+    <trd>uleknout se</trd>,
+    <trd>zaleknout se</trd>
+  </trdgrp>
   <trd lng="fr">s'<ind>effrayer</ind> de</trd>
   <trd lng="hu">megijed</trd>
   <trdgrp lng="pl">
@@ -443,6 +507,10 @@
   </trdgrp>
   <trd
   lng="ru">&c_i;&c_s;&c_p;&c_u;&c_g;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>dostať strach</trd>,
+    <trd>zľaknúť sa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tim.for0igi">
@@ -465,6 +533,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>odstrašit</trd>,
+    <trd>plašit</trd>,
+    <trd>vyplašit</trd>,
+    <trd>zastrašit</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>effaroucher</trd>,
     <trd>effrayer<klr tip="amb"> (faire fuire)</klr></trd>,
@@ -474,6 +548,7 @@
     <trd>odstrasza&cacute;</trd>,
     <trd>p&lstroke;oszy&cacute;</trd>
   </trdgrp>
+  <trd lng="sk">odstrašiť</trd>
 </drv>
 
 <drv mrk="tim.mal0i">
@@ -501,6 +576,7 @@
     <trd>&c_a;&c_d;&c_v;&c_a;&c_zh;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_a;&c_s;&c_mol;&c_m;&c_je;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trd lng="cs">nebát se</trd>
   <trdgrp lng="fr">
     <trd>avoir l'<ind>audace</ind> de</trd>,
     <trd>oser<klr> (avoir l'audace)</klr></trd>
@@ -519,6 +595,10 @@
   <trdgrp lng="ru">
     <trd>&c_o;&c_s;&c_m;&c_je;&c_l;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_o;&c_t;&c_v;&c_a;&c_zh;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mať odvahu</trd>,
+    <trd>nebáť sa</trd>
   </trdgrp>
 </drv>
 
@@ -586,6 +666,13 @@
     <trd>&c_s;&c_m;&c_je;&c_l;&c_y;&c_j;</trd>,
     <trd>&c_o;&c_t;&c_v;&c_a;&c_zh;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nebojácny</trd>,
+    <trd>neohrozený</trd>,
+    <trd>odvážny</trd>,
+    <trd>smelý</trd>
+  </trdgrp>
+  <trd lng="cs">nebojácný</trd>
 </drv>
 
 <drv mrk="tim.kulis0o">
@@ -610,9 +697,11 @@
     </dif>
   </snc>
   <trd lng="bg">&c_s;&c_c;&c_je;&c_n;&c_i;&c_ch;&c_n;&c_a; &c_t;&c_r;&c_je;&c_s;&c_k;&c_a;</trd>
+  <trd lng="cs">tréma na jevišti před publikem</trd>
   <trd lng="de">Lampenfieber</trd>
   <trd lng="fr">trac</trd>
   <trd lng="pl">trema</trd>
+  <trd lng="sk">tréma na javisku pred publikom</trd>
 </drv>
 
 <drv mrk="tim.0osento">
@@ -621,6 +710,10 @@
     <ref tip="dif" cel="tim.0o">timo</ref>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_h;</trd>
+  <trdgrp lng="cs">
+    <trd>bázeň</trd>,
+    <trd>strach</trd>
+  </trdgrp>
   <trd lng="hu">f&eacute;lelem&eacute;rz&eacute;s</trd>
   <trd lng="nl">angstgevoel</trd>
   <trdgrp lng="pl">
@@ -635,10 +728,20 @@
     <trd>&c_ch;&c_u;&c_v;&c_s;&c_t;&c_v;&c_o;
     <ind>&c_s;&c_t;&c_r;&c_a;&c_h;&c_a;</ind></trd>
   </trdgrp>
+  <trd lng="sk">pocit strachu</trd>
 </drv>
 </art>
 <!--
 $Log: tim.xml,v $
+Revision 1.38  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.37  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.36  2014/11/13 10:10:16  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.35  2014/03/09 02:10:21  revo
 Jeromo Vasxe: + ~ulo
 
@@ -658,8 +761,5 @@ Revision 1.30  2012/10/23 00:14:02  revo
 Neil Roberts: aldonu la etikedon <var>
 
 Revision 1.29  2011/09/01 22:10:21  revo
-Carlos Garcia: +trd es
-
-Revision 1.28  2009/01/17 18:09:25  revo
 -->
 </vortaro>

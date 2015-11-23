@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hindu.xml,v 1.12 2012/01/02 13:10:22 revo Exp $">
+<art mrk="$Id: hindu.xml,v 1.14 2015/07/04 08:37:35 revo Exp $">
 <kap>
   <rad>hindu</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -29,22 +29,27 @@
     <trd>hind&uacute;</trd>,
     <trd>hinduista</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hind</trd>,
+    <trd>hinduista <klr>(náb.)</klr></trd>
+  </trdgrp>
   <trd lng="en">hindu</trd>
   <trdgrp lng="fr">
     <trd>hindou<klr> (hindouiste)</klr></trd>,
     <trd>hindouiste</trd>
   </trdgrp>
+  <trd lng="hu">hindu</trd>
   <trdgrp lng="it">
     <trd>ind&ugrave;</trd>,
     <trd>induista</trd>
   </trdgrp>
+  <trd lng="nl">hindoe</trd>
   <trd lng="pl">hinduista</trd>
   <trdgrp lng="pt">
     <trd>hindu</trd>,
     <trd>hinu&iacute;sta</trd>
   </trdgrp>
-  <trd lng="hu">hindu</trd>
-  <trd lng="nl">hindoe</trd>
+  <trd lng="sk">hind</trd>
 </drv>
 
 <drv mrk="hindu.0ismo">
@@ -61,17 +66,25 @@
   </snc>
   <trd lng="be">&c_ib;&c_n;&c_d;&c_u;&c_ib;&c_z;&c_m;</trd>
   <trd lng="ca">hinduisme</trd>
+  <trd lng="cs">hinduismus</trd>
   <trd lng="en">hinduism</trd>
   <trd lng="fr">hindouisme</trd>
-  <trd lng="it">induismo</trd>
-  <trd lng="pt">hindu&iacute;smo</trd>
   <trd lng="hu">hinduizmus</trd>
+  <trd lng="it">induismo</trd>
   <trd lng="nl">hindoe&iuml;sme</trd>
   <trd lng="pl">hinduizm</trd>
+  <trd lng="pt">hindu&iacute;smo</trd>
+  <trd lng="sk">hinduizmus</trd>
 </drv>
 </art>
 <!--
 $Log: hindu.xml,v $
+Revision 1.14  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.12  2012/01/02 13:10:22  revo
 Marc Rausell: +trd ca
 

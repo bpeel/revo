@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: benzin.xml,v 1.17 2014/10/14 11:10:24 revo Exp $">
+<art mrk="$Id: benzin.xml,v 1.20 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>benzin</rad>/o
@@ -33,6 +33,10 @@
       Enkonduki deriva&jcirc;on "~ilo" sub "solvi". (MB)
     </adm>
   </snc>
+  <trdgrp lng="cs">
+    <trd>benzin</trd>,
+    <trd>benzín</trd>
+  </trdgrp>
   <trd lng="de">Benzin</trd>
   <trdgrp lng="en">
     <trd>gasoline<klr> (usone)</klr></trd>,
@@ -60,7 +64,10 @@
       Estus bone plidetaligi la temon.(MB)
     </adm>
   </snc>
+  <trd lng="cs">rafinovaný benzin</trd>
   <trd lng="de">Reinigungsbenzin</trd>
+  <trd lng="fr">essence F</trd>
+  <trd lng="sk">rafinovaný benzín</trd>
 </drv>
 
 <drv mrk="benzin.0ejo">
@@ -73,6 +80,7 @@
       <ref cel="benzin.0stacio"><tld/>stacio</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">benzinová stanice</trd>
   <trd lng="de">Tankstelle</trd>
   <trdgrp lng="en">
     <trd>gas station<klr> (usone)</klr></trd>,
@@ -87,6 +95,7 @@
     &c_s;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;</trd>,
     <trd>&c_b;&c_je;&c_n;&c_z;&c_o;&c_z;&c_a;&c_p;&c_r;&c_a;&c_v;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="sk">benzénová stanica</trd>
   <trdgrp lng="sv">
     <trd>bensinmack</trd>,
     <trd>bensinstation</trd>
@@ -109,6 +118,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">benzinová čerpací stanice</trd>
   <trd lng="de">Tankstelle</trd>
   <trdgrp lng="en">
     <trd>gas station<klr> (usone)</klr></trd>,
@@ -121,6 +131,7 @@
   <trd
   lng="ru">&c_b;&c_je;&c_n;&c_z;&c_o;&c_z;&c_a;&c_p;&c_r;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_a;&c_ja;
   &c_s;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">benzínová stanica</trd>
   <trdgrp lng="sv">
     <trd>bensinmack</trd>,
     <trd>bensinstation</trd>
@@ -135,6 +146,10 @@
       <tld/>o.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>nádrž na benzin</trd>,
+    <trd>tank</trd>
+  </trdgrp>
   <trd lng="de">Benzintank</trd>
   <trdgrp lng="en">
     <trd>gas tank<klr> (usone)</klr></trd>,
@@ -147,7 +162,10 @@
   </trdgrp>
   <trd lng="pt">tanque de gasolina</trd>
   <trd lng="ru">&c_b;&c_je;&c_n;&c_z;&c_o;&c_b;&c_a;&c_k;</trd>
-  <trd lng="sk">n&aacute;dr&zcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>benzínová nádrž</trd>,
+    <trd>n&aacute;dr&zcaron;</trd>
+  </trdgrp>
   <trd lng="sv">bensintank</trd>
 </drv>
 
@@ -172,6 +190,15 @@
 </art>
 <!--
 $Log: benzin.xml,v $
+Revision 1.20  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/12/05 13:10:50  revo
+Damien Brucker: +trd fr
+
 Revision 1.17  2014/10/14 11:10:24  revo
 Damien Brucker: +ref
 
@@ -191,8 +218,5 @@ Revision 1.12 2003/06/12 15:26:29 revo
 Sergio Pokrovskij: TEZ
 
 Revision 1.11 2002/11/12 17:31:52 revo
-Christopher Zervic: + ang
-
-Revision 1.10 2002/10/10 16:46:46 revo
 -->
 </vortaro>

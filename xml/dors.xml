@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dors.xml,v 1.28 2014/05/30 17:10:18 revo Exp $">
+<art mrk="$Id: dors.xml,v 1.30 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>dors</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -119,6 +119,7 @@
     <trd lng="pl">grzbiet</trd>
   </snc>
   <trd lng="bg">&c_g;&c_r;&c_malmol;&c_b;</trd>
+  <trd lng="cs">rub <klr>(mince| medaile)</klr></trd>
   <trd lng="de">R&uuml;cken</trd>
   <trd lng="en">back</trd>
   <trd lng="es">dorso</trd>
@@ -131,6 +132,7 @@
     <trd>costas</trd>,
     <trd>dorso</trd>
   </trdgrp>
+  <trd lng="sk">chrbát</trd>
 </drv>
 
 <drv mrk="dors.0al0e">
@@ -153,7 +155,9 @@
       <ref cel="front.0al0e.KOMUNE">frontalfronte</ref>
     </refgrp>
   </snc>
+  <trd lng="cs">vzadu</trd>
   <trd lng="fr">dos &agrave; dos<klr> (adv.)</klr></trd>
+  <trd lng="sk">vzadu</trd>
 </drv>
 
 <drv mrk="dors.0en">
@@ -168,6 +172,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_z;&c_a;&c_d;</trd>
+  <trd lng="cs">dozadu</trd>
   <trdgrp lng="de">
     <trd>r&uuml;ckw&auml;rts</trd>,
     <trd>nach hinten</trd>;
@@ -183,6 +188,10 @@
     <trd>do <ind>ty&lstroke;u</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_n;&c_a;&c_z;&c_a;&c_d;</trd>
+  <trdgrp lng="sk">
+    <trd>dozadu</trd>,
+    <trd>naspäť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dors.0e.de">
@@ -220,6 +229,12 @@
 </art>
 <!--
 $Log: dors.xml,v $
+Revision 1.30  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.28  2014/05/30 17:10:18  revo
 Eko Nur Syah Hidayat: +id
 

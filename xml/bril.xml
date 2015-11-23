@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bril.xml,v 1.19 2008/01/24 19:48:51 revo Exp $">
+<art mrk="$Id: bril.xml,v 1.23 2015/10/07 15:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bril</rad>/i
@@ -45,6 +45,7 @@
       <trd>l&sacute;ni&cacute;</trd>,
       <trd>ja&sacute;nie&cacute;</trd>
     </trdgrp>
+    <trd lng="pt">brilhar</trd>
   </snc>
   <snc mrk="bril.0i.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -68,12 +69,20 @@
     <trd>&c_b;&c_l;&c_ib;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_b;&c_l;&c_ib;&c_s;&c_k;&c_a;&c_c;&c_je;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="cs">z&aacute;&rcaron;it</trd>
+  <trdgrp lng="cs">
+    <trd>bl&yacute;skat se</trd>,
+    <trd>lesknout se</trd>,
+    <trd>skv&ecaron;t se</trd>,
+    <trd>skv&ecaron;t se</trd>,
+    <trd>t&rcaron;pytit se</trd>,
+    <trd>z&aacute;&rcaron;it</trd>,
+    <trd>z&aacute;&rcaron;it</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>gl&auml;nzen</trd>,
     <trd>scheinen</trd>
   </trdgrp>
-  <trd lng="en">bright</trd>
+  <trd lng="en">to shine</trd>
   <trd lng="es">brillar</trd>
   <trdgrp lng="fr">
     <trd>briller</trd>,
@@ -87,7 +96,10 @@
     <trd>&c_s;&c_i;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_v;&c_je;&c_r;&c_k;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">&zcaron;iari&tcaron;</trd>
+  <trdgrp lng="sk">
+    <trd>&zcaron;iari&tcaron;</trd>,
+    <trd>ligota&tcaron; sa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bril.0o">
@@ -116,9 +128,18 @@
     <trd>&c_z;&c_mol;&c_z;&c_ja;&c_n;&c_mol;&c_n;&c_je;</trd>,
     <trd>&c_z;&c_ib;&c_h;&c_a;&c_c;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lesk</trd>,
+    <trd>z&aacute;&rcaron;</trd>,
+    <trd>z&aacute;&rcaron;e</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Glanz</trd>,
     <trd>Schein</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>light</trd>,
+    <trd>brightness</trd>, <trd>brilliance</trd>
   </trdgrp>
   <trd lng="es">brillo</trd>
   <trdgrp lng="fr">
@@ -134,7 +155,11 @@
     <trd>&c_b;&c_l;&c_je;&c_s;&c_k;</trd>,
     <trd>&c_s;&c_i;&c_ja;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
-  <trd lng="sk">&zcaron;iara</trd>
+  <trdgrp lng="sk">
+    <trd>&zcaron;iara</trd>,
+    <trd>lesk</trd>,
+    <trd>ligot</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bril.0a">
@@ -172,7 +197,23 @@
       <trd>&c_s;&c_i;&c_ja;&c_ju;&c_shch;&c_i;&c_j;</trd>
     </trdgrp>
   </snc>
-  <trd lng="sk">&zcaron;iariv&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>jiskrn&yacute;</trd>,
+    <trd>n&aacute;dhern&yacute;</trd>,
+    <trd>skv&ecaron;l&yacute;</trd>,
+    <trd>skv&ecaron;l&yacute;</trd>,
+    <trd>z&aacute;&rcaron;iv&yacute;</trd>
+  </trdgrp>
+   <trdgrp lng="en">
+      <trd>bright</trd>,
+      <trd>shiny</trd>, <trd>shining</trd>, <trd>brilliant</trd>
+    </trdgrp>
+  <trdgrp lng="sk">
+    <trd>&zcaron;iariv&yacute;</trd>,
+    <trd>leskl&yacute;</trd>,
+    <trd>ligotav&yacute;</trd>,
+    <trd>skvel&yacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bril.re0i">
@@ -187,6 +228,8 @@
   </snc>
   <trd lng="be">&c_k;&c_ib;&c_d;&c_a;&c_c;&c_mol; <ind>
   &c_v;&c_o;&c_d;&c_b;&c_l;&c_je;&c_s;&c_k;</ind></trd>
+  <trd lng="cs">odr&aacute;&zcaron;et se</trd>
+  <trd lng="en">to reflect</trd>
   <trdgrp lng="fr">
     <trd>se <ind>refl&eacute;ter</ind></trd>,
     <trd>se <ind>r&eacute;fl&eacute;chir</ind> <klr tip="ind">
@@ -200,6 +243,7 @@
   </trdgrp>
   <trd lng="ru">&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol; <ind>
   &c_o;&c_t;&c_b;&c_l;&c_je;&c_s;&c_k;</ind></trd>
+  <trd lng="sk">odr&aacute;&zcaron;a&tcaron; sa</trd>
 </drv>
 
 <drv mrk="bril.trem0i">
@@ -223,9 +267,19 @@
     <trd>&c_m;&c_ib;&c_g;&c_c;&c_je;&c_c;&c_mol;</trd>,
     <trd>&c_m;&c_ib;&c_g;&c_a;&c_c;&c_je;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>blikat</trd>,
+    <trd>mrkat</trd>,
+    <trd>m&zcaron;ikat</trd>,
+    <trd>t&rcaron;pytit se</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>flimmern</trd>,
     <trd>glitzern</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>to sparkle</trd>,
+    <trd>glitter</trd>
   </trdgrp>
   <trd lng="es">parpadear<klr> (una luz)</klr></trd>
   <trd lng="fr">scintiller</trd>
@@ -241,10 +295,26 @@
     <trd>pe&lstroke;ga&cacute;<klr> (o ogniu)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_je;&c_r;&c_c;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>kmita&tcaron;</trd>,
+    <trd>trblieta&tcaron; sa</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: bril.xml,v $
+Revision 1.23  2015/10/07 15:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.22  2015/10/06 11:10:18  revo
+Evandro Avellar: +trd pt
+
+Revision 1.21  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2008/01/24 19:48:51  revo
 Sebastian Cyprych: +trd pl
 
@@ -255,17 +325,5 @@ Revision 1.17 2004/08/06 16:31:50 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.16 2003/11/09 17:30:45 revo
-Bart Demeyere: +mrkoj
-
-Revision 1.15 2003/01/30 19:02:31 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.14 2002/09/10 17:33:42 revo
-Viliam Bur: +trd sk
-
-Revision 1.13 2002/05/17 16:33:46 revo
-Alejandro Mejia Greene: ald 3 his trd
-
-Revision 1.12 2002/01/29 17:33:12 revo
 -->
 </vortaro>

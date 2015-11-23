@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: karcer.xml,v 1.16 2012/02/18 21:10:11 revo Exp $">
+<art mrk="$Id: karcer.xml,v 1.18 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>karcer</rad>/o
@@ -61,6 +61,12 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_r;&c_c;&c_e;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>ela předběžného zadržení</trd>,
+    <trd>izolace</trd>,
+    <trd>samovazba <klr>(cela)</klr></trd>,
+    <trd>vazební místnost</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Karzer</trd>,
     <trd>Kerker</trd>,
@@ -71,6 +77,10 @@
     <trd>jail</trd>,
     <trd>lock up</trd>,
     <trd>prison</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>celda</trd>,
+    <trd>prisi&oacute;n</trd>
   </trdgrp>
   <trdgrp lng="fa">
     <trd>&a_s;&f_y;&a_A;&a_h;&f_ch;&a_A;&a_l;</trd>,
@@ -95,14 +105,20 @@
     <trd>&c_k;&c_a;&c_r;&c_c;&c_je;&c_r;</trd>,
     <trd>&c_t;&c_je;&c_m;&c_n;&c_i;&c_c;&c_a;</trd>
   </trdgrp>
-  <trdgrp lng="es">
-    <trd>celda</trd>,
-    <trd>prisi&oacute;n</trd>
+  <trdgrp lng="sk">
+    <trd>samoväzba</trd>,
+    <trd>väznica predbežného zadržania</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: karcer.xml,v $
+Revision 1.18  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2012/02/18 21:10:11  revo
 Marc Rausell: +trd ca
 

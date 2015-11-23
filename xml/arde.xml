@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arde.xml,v 1.19 2012/02/13 18:10:11 revo Exp $">
+<art mrk="$Id: arde.xml,v 1.20 2015/09/16 11:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>arde</rad>/o <fnt><bib>PV</bib></fnt>
@@ -48,6 +48,7 @@
   <trd lng="hu">g&eacute;m</trd>
   <trd lng="nl">reiger</trd>
   <trd lng="pl">czapla</trd>
+  <trd lng="pt">gar&ccedil;a</trd>
   <trd lng="ru">&c_c;&c_a;&c_p;&c_l;&c_ja;</trd>
   <trd lng="sk">volavka</trd>
   <trd lng="sv">h&auml;ger</trd>
@@ -55,6 +56,9 @@
 </art>
 <!--
 $Log: arde.xml,v $
+Revision 1.20  2015/09/16 11:10:22  revo
+Evandro Avellar: +trd pt
+
 Revision 1.19  2012/02/13 18:10:11  revo
 Carlos Garcia: +trd es -o
 
@@ -74,8 +78,5 @@ Revision 1.14  2001/11/16 19:13:52  revo
 Yury Finkel: formatigis
 
 Revision 1.13  2001/07/24 13:35:50  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.12  2001/05/03 10:40:28  revo
 -->
 </vortaro>

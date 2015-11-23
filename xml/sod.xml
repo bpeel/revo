@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sod.xml,v 1.25 2012/06/04 05:10:09 revo Exp $">
+  <art mrk="$Id: sod.xml,v 1.27 2015/07/04 08:37:43 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>sod</rad>/o
@@ -67,7 +67,9 @@
           <ctl>re&gcirc;akvon</ctl> per simpla <ctl>akvo</ctl>.
         </rim>
       </snc>
-    </drv>
+  <trd lng="cs">soda</trd>
+  <trd lng="sk">sóda</trd>
+</drv>
 
     <drv mrk="sod.bak0o">
       <kap>bak<tld/>o</kap>
@@ -157,6 +159,12 @@
   </art>
   <!--
   $Log: sod.xml,v $
+  Revision 1.27  2015/07/04 08:37:43  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.26  2015/06/29 16:33:23  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.25  2012/06/04 05:10:09  revo
   Sergio Pokrovskij: -tajperaro
 

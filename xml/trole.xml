@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trole.xml,v 1.4 2013/12/01 20:10:18 revo Exp $">
+<art mrk="$Id: trole.xml,v 1.6 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <rad>trole</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -26,17 +26,31 @@
     </dif>
   </snc>
   <trd lng="ca">tr&ograve;lei</trd>
+  <trdgrp lng="cs">
+    <trd>sběrač</trd>,
+    <trd>trolej</trd>
+  </trdgrp>
   <trd lng="de">Stromabnehmer</trd>
-  <trd lng="fr">trolley</trd>
   <trdgrp lng="en">
      <trd>trolley pole</trd>
      <trd>trolley</trd>
+  </trdgrp>
+  <trd lng="fr">trolley</trd>
+  <trdgrp lng="sk">
+    <trd>trolej</trd>,
+    <trd>zberná tyč</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: trole.xml,v $
+Revision 1.6  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.4  2013/12/01 20:10:18  revo
 Jessica Grasso: +tr en
 

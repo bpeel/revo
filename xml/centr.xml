@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: centr.xml,v 1.56 2013/10/27 15:10:19 revo Exp $">
+<art mrk="$Id: centr.xml,v 1.59 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
   <rad>centr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -24,6 +24,10 @@
     <refgrp tip="ant">
       <ref cel="rand.0o.KOMUNE">rando</ref>
     </refgrp>
+    <trdgrp lng="no">
+      <trd>middelpunkt</trd>,
+      <trd>sentrum</trd>
+    </trdgrp>
     <trd lng="pl">&sacute;rodek</trd>
   </snc>
   <snc mrk="centr.0o.cxefajxo">
@@ -46,6 +50,7 @@
     <refgrp tip="ant">
       <ref cel="ekstre.0ajxo.space">ekstrema&jcirc;o</ref>
     </refgrp>
+    <trd lng="no">senter</trd>
     <trd lng="pl">centrum</trd>
   </snc>
   <snc mrk="centr.0o.MAT">
@@ -116,6 +121,7 @@
       <trd>Zentrum</trd>
       </trdgrp>
     </subsnc>
+    <trd lng="no">middelpunkt</trd>
     <trd lng="pl">&sacute;rodek</trd>
   </snc>
   <snc mrk="centr.0o.partio">
@@ -123,6 +129,7 @@
     <dif>
       Modera partio, kiu sidas meze inter la ekstremoj.
     </dif>
+    <trd lng="no">sentrum</trd>
     <trdgrp lng="pl">
       <trd>centrum</trd>,
       <trd>&sacute;rodek</trd>
@@ -131,7 +138,11 @@
   <trd lng="be">&c_c;&c_e;&c_n;&c_t;&c_a;&c_r;</trd>
   <trd lng="br">kreizenn</trd>
   <trd lng="ca">centre</trd>
-  <trd lng="cs">centrum</trd>
+  <trdgrp lng="cs">
+    <trd>centrum</trd>,
+    <trd>střed</trd>,
+    <trd>ústředí</trd>
+  </trdgrp>
   <trd lng="el">&kappa;&epsilon_ton;&ny;&tau;&rho;&omikron;</trd>
   <trd lng="en">center</trd>
   <trd lng="es">centro</trd>
@@ -141,12 +152,17 @@
   <trd>centrum</trd>
   </trdgrp>
   <trd lng="it">centro</trd>
+  <trdgrp lng="nl">
+    <trd>middelpunt</trd>,
+    <trd>centrum</trd>
+  </trdgrp>
   <trd lng="oc">centre</trd>
   <trd lng="pt">centro</trd>
   <trd lng="ru">&c_c;&c_je;&c_n;&c_t;&c_r;</trd>
   <trdgrp lng="sk">
-  <trd>stred</trd>,
-  <trd>centrum</trd>
+    <trd>centrum</trd>,
+    <trd>centrála</trd>,
+    <trd>stred</trd>
   </trdgrp>
   <trd lng="tp">insa</trd>
   <trd lng="zh">&#20013;&#24515;<klr> [zh&#333;ngx&#299;n]</klr></trd>
@@ -176,7 +192,13 @@
     <trd>central</trd>,
     <trd>c&egrave;ntric</trd>
   </trdgrp>
-  <trd lng="cs">&uacute;st&rcaron;edn&iacute;</trd>
+  <trdgrp lng="cs">
+    <trd>&uacute;st&rcaron;edn&iacute;</trd>,
+    <trd>centrální</trd>,
+    <trd>střední</trd>,
+    <trd>středový</trd>,
+    <trd>ústřední</trd>
+  </trdgrp>
   <trdgrp lng="el">
   <trd>&kappa;&epsilon;&ny;&tau;&rho;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>,
   <trd>&kappa;&epsilon;&ny;&tau;&rho;&omega_ton;&omikron;&sigma_fina;</trd>
@@ -187,6 +209,8 @@
   <trd>centr&aacute;lis</trd>
   </trdgrp>
   <trd lng="it">centrale<klr> (agg.)</klr></trd>
+  <trd lng="nl">centraal</trd>
+  <trd lng="no">sentral</trd>
   <trdgrp lng="pl">
     <trd>&sacute;rodkowy</trd>,
     <trd>centralny</trd>
@@ -194,7 +218,10 @@
   <trd lng="pt">central</trd>
   <trd
   lng="ru">&c_c;&c_je;&c_n;&c_t;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
-  <trd lng="sk">stredov&yacute;</trd>
+  <trdgrp lng="sk">
+    <trd>stredov&yacute;</trd>,
+    <trd>ústredný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="centr.al0igikun0igi">
@@ -250,12 +277,13 @@
     <ref tip="dif" cel="ortoce.0o">ortocentro.</ref>
   </snc>
   <trd lng="be">&c_a;&c_r;&c_t;&c_a;&c_c;&c_e;&c_n;&c_t;&c_a;&c_r;</trd>
+  <trd lng="br">ortokreizenn</trd>
+  <trd lng="ca">ortocentre</trd>
+  <trd lng="cs">ortocentrum</trd>
   <trdgrp lng="de">
   <trd>H&ouml;henpunkt</trd>,
   <trd>Orthozentrum</trd>
   </trdgrp>
-  <trd lng="br">ortokreizenn</trd>
-  <trd lng="ca">ortocentre</trd>
   <trd lng="en">orthocenter</trd>
   <trd lng="fr">orthocentre</trd>
   <trdgrp lng="hu">
@@ -266,6 +294,7 @@
   <trd lng="pl">ortocentrum</trd>
   <trd lng="pt">ortocentro</trd>
   <trd lng="ru">&c_o;&c_r;&c_t;&c_o;&c_c;&c_je;&c_n;&c_t;&c_r;</trd>
+  <trd lng="sk">ortocentrum</trd>
 </drv>
 
 <drv mrk="centr.dis0ael0a">
@@ -288,6 +317,10 @@
     <trd>descentrat</trd>,
     <trd>exc&egrave;ntric <klr>(posici&oacute;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>excentrický</trd>,
+    <trd>nesoustředný</trd>
+  </trdgrp>
   <trdgrp lng="fr">
   <trd>excentrique<klr tip="ind"> (subst., tech.)</klr></trd>,
   <trd>excentr&eacute;<klr tip="ind"> (tech.)</klr></trd>
@@ -304,6 +337,7 @@
   </trdgrp>
   <trd lng="ru">&c_e;&c_k;&c_s;&c_c;&c_je;&c_n;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;<klr
   tip="amb"> (&c_t;&c_je;&c_h;.)</klr></trd>
+  <trd lng="sk">výstredný</trd>
 </drv>
 
 <drv mrk="centr.dis0eco">
@@ -349,6 +383,10 @@
     <trd lng="pt">excentricidade</trd>
   </snc>
   <trd lng="ca">excentricitat</trd>
+  <trdgrp lng="cs">
+    <trd>excentricita</trd>,
+    <trd>výstřednost</trd>
+  </trdgrp>
   <trdgrp lng="hu">
   <trd>excentricit&aacute;s</trd>,
   <trd>k&uuml;lpontoss&aacute;g</trd>
@@ -358,6 +396,7 @@
   <trd>&c_e;&c_k;&c_s;&c_c;&c_je;&c_n;&c_t;&c_r;&c_i;&c_c;&c_i;&c_t;&c_je;&c_t;</trd>,
   <trd>&c_e;&c_k;&c_s;&c_c;&c_je;&c_n;&c_t;&c_r;&c_i;&c_s;&c_i;&c_t;&c_je;&c_t;</trd>
   </trdgrp>
+  <trd lng="sk">excentricita</trd>
 </drv>
 
 <drv mrk="centr.kun0igxi">
@@ -535,6 +574,7 @@
     &c_t;&c_o;&c_ch;&c_je;&c_k;)</klr></trd>
     <trd lng="sk">&tcaron;a&zcaron;isko</trd>
   </snc>
+  <trd lng="cs">těžiště</trd>
   <trd lng="hu">s&uacute;lypont</trd>
   <trd lng="it">baricentro</trd>
 </drv>
@@ -613,6 +653,11 @@
   lng="be">&c_k;&c_a;&c_n;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
   <trd lng="br">kengreiz</trd>
   <trd lng="ca">conc&egrave;ntric</trd>
+  <trdgrp lng="cs">
+    <trd>se stejným středem</trd>,
+    <trd>soustředný</trd>,
+    <trd>stejného středu</trd>
+  </trdgrp>
   <trd lng="de">konzentrisch</trd>
   <trd lng="en">concentric</trd>
   <trd lng="fr">concentrique</trd>
@@ -622,6 +667,10 @@
     <trd>koncentryczny</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_n;&c_c;&c_je;&c_n;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>koncentrický</trd>,
+    <trd>sústredný</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="centr.sun0a">
@@ -641,7 +690,10 @@
     </dif>
   </snc>
   <trd lng="ca">helioc&egrave;ntric</trd>
+  <trd lng="cs">heliocentrický</trd>
   <trd lng="fr">h&eacute;liocentrique</trd>
+  <trd lng="nl">heliocentristisch</trd>
+  <trd lng="sk">heliocentrický</trd>
 </drv>
 
 <drv mrk="centr.sun0ismo">
@@ -664,6 +716,7 @@
   </snc>
   <trd lng="ca">heliocentrisme</trd>
   <trd lng="fr">h&eacute;liocentrisme</trd>
+  <trd lng="nl">heliocentrisme</trd>
 </drv>
 
 <drv mrk="centr.ter0a">
@@ -687,6 +740,7 @@
   </snc>
   <trd lng="ca">geoc&egrave;ntric</trd>
   <trd lng="fr">g&eacute;ocentrique</trd>
+  <trd lng="nl">geocentristisch</trd>
 </drv>
 
 <drv mrk="centr.ter0ismo">
@@ -711,11 +765,21 @@
   </snc>
   <trd lng="ca">geocentrisme</trd>
   <trd lng="fr">g&eacute;ocentrisme</trd>
+  <trd lng="nl">geocentrisme</trd>
 </drv>
 </art>
 <!--
 
 $Log: centr.xml,v $
+Revision 1.59  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.58  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.57  2014/12/28 21:10:16  revo
+Filip van Laenen: +trd(nl,no)
+
 Revision 1.56  2013/10/27 15:10:19  revo
 Benito Subejrano: + trd oc
 
@@ -735,9 +799,6 @@ Revision 1.51  2011/04/22 12:10:08  revo
 Jeromo Vasxe: + ter/sun~a/ismo
 
 Revision 1.50  2009/05/22 16:30:47  revo
-Antonio Codazzi: +trd it
-
-Revision 1.49  2009/04/17 19:47:53  revo
 -->
 
 </vortaro>

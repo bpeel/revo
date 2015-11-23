@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: polus.xml,v 1.26 2014/06/08 10:10:15 revo Exp $">
+<art mrk="$Id: polus.xml,v 1.28 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>polus</rad>/o <fnt><bib>PV</bib></fnt>
@@ -85,14 +85,25 @@
   </snc>
   <trd lng="be">&c_p;&c_o;&c_l;&c_ju;&c_s;</trd>
   <trd lng="ca">pol</trd>
+  <trdgrp lng="cs">
+    <trd>pól</trd>,
+    <trd>točna</trd>
+  </trdgrp>
   <trd lng="es">polo</trd>
   <trd lng="id">kutub</trd>
   <trd lng="nl">pool</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_ju;&c_s;</trd>
+  <trd lng="sk">pól <klr>(geogr.| astr.| fyz.| el.tech.)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: polus.xml,v $
+Revision 1.28  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.26  2014/06/08 10:10:15  revo
 Eko Nur Syah Hidayat: +id
 

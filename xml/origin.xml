@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: origin.xml,v 1.23 2014/03/17 15:10:12 revo Exp $">
+<art mrk="$Id: origin.xml,v 1.25 2015/07/04 08:37:40 revo Exp $">
 <kap><ofc>1</ofc> <rad>origin</rad>/o</kap>
 <drv mrk="origin.0o">
   <kap><tld/>o</kap>
@@ -100,10 +100,20 @@
       <trd>&c_i;&c_s;&c_h;&c_o;&c_d;&c_n;&c_a;&c_ja; <ind>&c_t;&c_o;&c_ch;&c_k;&c_a;</ind></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>počátek</trd>,
+    <trd>počáteční bod</trd>,
+    <trd>začátek</trd>
+  </trdgrp>
   <trd lng="es">origen</trd>
   <trd lng="fr">origine</trd>
   <trd lng="nl">oorsprong</trd>
   <trd lng="pt">origem</trd>
+  <trdgrp lng="sk">
+    <trd>pôvod</trd>,
+    <trd>východisko</trd>,
+    <trd>začiatok existencie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="origin.0a">
@@ -117,7 +127,9 @@
       konservi al frukto &gcirc;ian <tld/>an guston.
      </ekz>
    </snc>
-<trd lng="fr">originel</trd>
+  <trd lng="cs">původní</trd>
+  <trd lng="fr">originel</trd>
+  <trd lng="sk">pôvodný</trd>
 </drv> 
 
 <drv mrk="origin.0e">
@@ -130,7 +142,9 @@
       kontrakto <tld/>e falsita.
      </ekz>
    </snc>
-<trd lng="fr">originellement</trd>
+  <trd lng="cs">původně</trd>
+  <trd lng="fr">originellement</trd>
+  <trd lng="sk">pôvodne</trd>
 </drv> 
 
 
@@ -147,24 +161,38 @@
     <trd>&c_p;&c_a;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_m;&c_je;&c_c;&c_mol; <ind>&c_p;&c_a;&c_ch;&c_a;&c_t;&c_a;&c_k;</ind></trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>mít původ</trd>,
+    <trd>pocházet</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>abstammen</trd>,
     <trd>herkommen</trd>
   </trdgrp>
+  <trd lng="es">originar</trd>
   <trd lng="fr">descendre de</trd>
   <trdgrp lng="hu">
     <trd>ered</trd>,
     <trd>sz&aacute;rmazik</trd>
   </trdgrp>
   <trd lng="nl">afkomstig zijn</trd>
-  <trd lng="pt">originar</trd>
-  <trd lng="es">originar</trd>
   <trd lng="pl">pochodzi&cacute;</trd>
+  <trd lng="pt">originar</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_s;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>mať pôvod</trd>,
+    <trd>pochádzať</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: origin.xml,v $
+Revision 1.25  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2014/03/17 15:10:12  revo
 Damien Brucker: +tld
 

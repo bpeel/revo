@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: paradi.xml,v 1.13 2009/06/24 16:30:54 revo Exp $">
+<art mrk="$Id: paradi.xml,v 1.15 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>2</ofc><rad>paradigm</rad>/o
 </kap>
@@ -24,6 +24,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_d;&c_y;&c_g;&c_m;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>jazykový vzor</trd>,
+    <trd>paradigma</trd>,
+    <trd>příklad</trd>
+  </trdgrp>
   <trd lng="de">Paradigma</trd>
   <trd lng="en">paradigm</trd>
   <trd lng="fr">paradigme</trd>
@@ -35,6 +40,11 @@
   <trd lng="nl">paradigma</trd>
   <trd lng="pt">paradigma</trd>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_a;&c_d;&c_i;&c_g;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>paradigma</trd>,
+    <trd>príklad</trd>,
+    <trd>vzor</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="paradi.0a">
@@ -45,12 +55,23 @@
       Prezentanta lingvajn elementojn la&ubreve; sistema gramatika ordo.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>jazykově vzorový</trd>,
+    <trd>paradigmatický</trd>
+  </trdgrp>
   <trd lng="en">paradigmatic</trd>
   <trd lng="fr">paradigmatique</trd>
+  <trd lng="sk">jazykovo vzorový</trd>
 </drv>
 </art>
 <!--
 $Log: paradi.xml,v $
+Revision 1.15  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2009/06/24 16:30:54  revo
 Russ Williams: +trd en
 

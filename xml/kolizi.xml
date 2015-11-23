@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kolizi.xml,v 1.14 2013/07/27 01:10:13 revo Exp $">
+<art mrk="$Id: kolizi.xml,v 1.16 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>kolizi</rad>/i
@@ -97,6 +97,10 @@
       <trd>&c_v;&c_s;&c_t;&c_u;&c_p;&c_i;&c_t;&c_mol; &c_v; &c_k;&c_o;&c_n;&c_f;&c_l;&c_i;&c_k;&c_t;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>kolidovat</trd>,
+    <trd>srazit se</trd>
+  </trdgrp>
   <trd lng="es">colisionar</trd>
   <trdgrp lng="fr">
     <trd>entrer en <ind>collision</ind></trd>
@@ -111,6 +115,11 @@
     <trd>t&eacute;lescoper<klr tip="ind"> (heurter)</klr></trd>
   </trdgrp>
   <trd lng="nl">botsen</trd>
+  <trdgrp lng="sk">
+    <trd>kolidovať</trd>,
+    <trd>nezhodovať sa</trd>,
+    <trd>zraziť sa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kolizi.0o">
@@ -139,6 +148,12 @@
     <trd>&c_k;&c_a;&c_n;&c_f;&c_l;&c_ib;&c_k;&c_t;</trd>,
     <trd>&c_s;&c_u;&c_p;&c_ja;&c_r;&c_e;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kolize</trd>,
+    <trd>rozpor</trd>,
+    <trd>srážka</trd>,
+    <trd>střet</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Zusammensto&szlig;</trd>,
     <trd>Kollision</trd>
@@ -162,10 +177,20 @@
     <trd>&c_k;&c_o;&c_l;&c_l;&c_i;&c_z;&c_i;&c_ja;</trd>,
     <trd>&c_k;&c_o;&c_n;&c_f;&c_l;&c_i;&c_k;&c_t;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kolízia</trd>,
+    <trd>zrážka</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: kolizi.xml,v $
+Revision 1.16  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.14  2013/07/27 01:10:13  revo
 Agustin Garcia Lopez: +trd(es)
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: duenj.xml,v 1.9 2013/08/30 20:10:17 revo Exp $">
+<art mrk="$Id: duenj.xml,v 1.11 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <rad>duenj</rad>/o <fnt><bib>NeoGlo</bib></fnt>
 </kap>
@@ -27,6 +27,7 @@
     <trd>&c_k;&c_a;&c_m;&c_p;&c_a;&c_n;&c_mol;&c_jo;&c_n;&c_k;&c_a;</trd>
   </trdgrp>
   <trd lng="bg">&c_ch;&c_a;&c_p;&c_je;&c_r;&c_o;&c_n;&c_a;</trd>
+  <trd lng="cs">dueňa</trd>
   <trd lng="de">Anstandsdame</trd>
   <trdgrp lng="en">
     <trd>chaperon</trd>,
@@ -42,10 +43,17 @@
     <trd>duenha</trd>,
     <trd>dama de companhia</trd>
   </trdgrp>
+  <trd lng="sk">dueňa</trd>
 </drv>
 </art>
 <!--
 $Log: duenj.xml,v $
+Revision 1.11  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2013/08/30 20:10:17  revo
 Joop Eggen: +trd bg
 

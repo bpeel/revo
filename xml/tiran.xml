@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tiran.xml,v 1.15 2014/01/14 02:10:22 revo Exp $">
+<art mrk="$Id: tiran.xml,v 1.18 2015/09/21 17:10:18 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>tiran</rad>/o <fnt><bib>PV</bib></fnt>
@@ -51,11 +51,21 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_t;&c_y;&c_r;&c_a;&c_n;</trd>
+  <trd lng="bg">&c_t;&c_i;&c_r;&c_a;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>samovl&aacute;dce</trd>,
+    <trd>tyran</trd>,
+    <trd>ukrutn&iacute;k</trd>
+  </trdgrp>
   <trd lng="de">Tyrann</trd>
   <trd lng="en">tyrant</trd>
   <trd lng="fr">tyran</trd>
   <trd lng="nl">tiran</trd>
   <trd lng="ru">&c_t;&c_i;&c_r;&c_a;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>katan</trd>,
+    <trd>tyran</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tiran.0a">
@@ -86,6 +96,11 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_t;&c_y;&c_r;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_t;&c_i;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_n;&c_o;</trd>
+  <trdgrp lng="cs">
+    <trd>samovl&aacute;dn&yacute;</trd>,
+    <trd>tyransk&yacute;</trd>
+  </trdgrp>
   <trd lng="de">tyrannisch</trd>
   <trd lng="en">tyrannical</trd>
   <trd lng="fr">tyrannique</trd>
@@ -96,6 +111,7 @@
   </trdgrp>
   <trd lng="nl">tiranniek</trd>
   <trd lng="ru">&c_t;&c_i;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">tyransk&yacute;</trd>
 </drv>
 
 <drv mrk="tiran.0i">
@@ -111,14 +127,30 @@
     </dif>
   </snc>
   <trd lng="be">&c_t;&c_y;&c_r;&c_a;&c_n;&c_ib;&c_c;&c_mol;</trd>
+  <trdgrp lng="bg">
+    <trd>&c_t;&c_i;&c_r;&c_a;&c_n;&c_i;&c_z;&c_i;&c_r;&c_a;&c_m;</trd>,
+    <trd>&c_p;&c_o;&c_t;&c_i;&c_s;&c_k;&c_a;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jednat jako tyran</trd>,
+    <trd>krut&ecaron; vl&aacute;dnout</trd>,
+    <trd>tyranizovat</trd>
+  </trdgrp>
+  <trd lng="de">tyrannisieren</trd>
+  <trd lng="en">tyrannize</trd>
   <trd lng="fr">tyranniser</trd>
   <trdgrp lng="hu">
     <trd>zsarnokoskodik</trd>,
     <trd>&ouml;nk&eacute;nyeskedik</trd>,
     <trd>tiranniz&aacute;l</trd>
   </trdgrp>
+  <trd lng="nl">tiranniseren</trd>
   <trd lng="pl">tyrania</trd>
   <trd lng="ru">&c_t;&c_i;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>kruto vl&aacute;dnu&tcaron;</trd>,
+    <trd>tyranizova&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tiran.0eco">
@@ -137,19 +169,34 @@
     </dif>
   </snc>
   <trd lng="be">&c_t;&c_y;&c_r;&c_a;&c_n;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_t;&c_i;&c_r;&c_a;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="cs">tyranstv&iacute;</trd>
+  <trd lng="de">Tyrannei</trd>
+  <trd lng="en">tyranny</trd>
   <trd lng="fr">despotisme</trd>
   <trdgrp lng="hu">
     <trd>zsarnoks&aacute;g</trd>,
     <trd>&ouml;nk&eacute;nyuralom</trd>
   </trdgrp>
+  <trd lng="nl">tirannie</trd>
   <trdgrp lng="ru">
     <trd>&c_t;&c_i;&c_r;&c_a;&c_n;&c_i;&c_ja;</trd>,
     <trd>&c_t;&c_i;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
   </trdgrp>
+  <trd lng="sk">tyranstvo</trd>
 </drv>
 </art>
 <!--
 $Log: tiran.xml,v $
+Revision 1.18  2015/09/21 17:10:18  revo
+Joop Eggen: +trd bg de en nl
+
+Revision 1.17  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2014/01/14 02:10:22  revo
 Jeromo Vasxe: + ~i/eco
 
@@ -163,14 +210,5 @@ Revision 1.12  2004/12/04 20:22:28  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.11  2003/09/23 16:31:36  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10  2002/03/11 17:35:04  revo
-Yury Finkel: +trd ru
-
-Revision 1.9 2001/05/16 18:13:05 revo
-Paul Peeraerts: ald pliajn trd nl
-
-Revision 1.8 2001/04/14 17:24:40 revo
 -->
 </vortaro>

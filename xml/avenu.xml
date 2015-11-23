@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: avenu.xml,v 1.16 2011/10/05 09:10:20 revo Exp $">
+<art mrk="$Id: avenu.xml,v 1.18 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>avenu</rad>/o
@@ -31,6 +31,11 @@
     <trd>&c_sh;&c_y;&c_r;&c_o;&c_k;&c_a;&c_ja;
     &c_v;&c_u;&c_l;&c_ib;&c_c;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>avenue</trd>,
+    <trd>třída</trd>,
+    <trd>široká ulice</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Avenue</trd>,
     <trd>Allee</trd>,
@@ -57,10 +62,21 @@
     <trd>&c_a;&c_l;&c_l;&c_je;&c_ja;</trd>,
     <trd>&c_a;&c_v;&c_je;&c_n;&c_ju;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>avenue</trd>,
+    <trd>trieda</trd>,
+    <trd>široká ulica so stromami</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: avenu.xml,v $
+Revision 1.18  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2011/10/05 09:10:20  revo
 Antonio Codazzi: +trd it
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: feromon.xml,v 1.8 2011/12/11 20:10:13 revo Exp $">
+<art mrk="$Id: feromon.xml,v 1.10 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <rad>feromon</rad>/o <fnt><bib>PIV2</bib></fnt> 
 </kap>
@@ -30,6 +30,7 @@
   </snc>
   <trd lng="bg">&c_f;&c_je;&c_r;&c_o;&c_m;&c_o;&c_n;</trd>
   <trd lng="ca">feromona</trd>
+  <trd lng="cs">feromon</trd>
   <trd lng="de">Pheromon</trd>
   <trd lng="en">pheromone</trd>
   <trd lng="fr">ph&eacute;romone</trd>
@@ -38,11 +39,18 @@
     <trd>feromona</trd>,
     <trd>ferom&ocirc;nio</trd>
   </trdgrp>
+  <trd lng="sk">feromón</trd>
 </drv>
 </art>
 
 <!--
 $Log: feromon.xml,v $
+Revision 1.10  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.8  2011/12/11 20:10:13  revo
 Marc Rausell: +trd ca
 

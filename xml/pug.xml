@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pug.xml,v 1.15 2013/07/10 15:10:08 revo Exp $">
+<art mrk="$Id: pug.xml,v 1.17 2015/07/04 08:37:42 revo Exp $">
 <kap>
   <rad>pug</rad>/o
 </kap>
@@ -33,6 +33,12 @@
   </snc>
   <trd lng="be">&c_z;&c_a;&c_d;&c_n;&c_ib;&c_c;&c_a;</trd>
   <trd lng="bg">&c_d;&c_u;&c_p;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>boky</trd>,
+    <trd>zadek</trd>,
+    <trd>zadnice</trd>,
+    <trd>zvířecí řiť</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Hintern</trd>,
     <trd>Arsch</trd>,
@@ -68,10 +74,6 @@
     <trd>didietro</trd>
   </trdgrp>
   <trd lng="nl">achterwerk</trd>
-  <trdgrp lng="pt">
-    <trd>n&aacute;degas</trd>,  
-    <trd>bunda</trd>
-  </trdgrp>
   <trdgrp lng="pl">
     <trd>po&sacute;ladki</trd>,
     <trd>okolica <ind>po&sacute;ladkowa</ind></trd>,
@@ -82,11 +84,22 @@
     <trd>pupa <klr>(euf.)</klr></trd>,
     <trd>dupa <klr>(wulg.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="pt">
+    <trd>n&aacute;degas</trd>,  
+    <trd>bunda</trd>
+  </trdgrp>
   <trd lng="ru">&c_z;&c_a;&c_d;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trd lng="sk">zadok</trd>
 </drv>
 </art>
 <!--
 $Log: pug.xml,v $
+Revision 1.17  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2013/07/10 15:10:08  revo
 Joop Eggen: +trd bg
 

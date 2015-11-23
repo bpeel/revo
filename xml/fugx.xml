@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fugx.xml,v 1.19 2012/01/02 10:10:30 revo Exp $">
+<art mrk="$Id: fugx.xml,v 1.20 2015/10/28 07:10:15 revo Exp $">
 <kap><ofc>8</ofc>
 <rad>fu&gcirc;</rad>/i</kap>
 <drv mrk="fugx.0i">
@@ -61,21 +61,22 @@
     <trd>fuga</trd>,
     <trd>fugida</trd>
   </trdgrp>
-  <trd lng="en">flight</trd>
   <trd lng="de">Flucht</trd>
+  <trd lng="en">flight</trd>
   <trdgrp lng="fa">
     <trd>&f_g;&a_r;&f_y;&a_z;</trd>,
     <trd>&a_f;&a_r;&a_A;&a_r;</trd>
   </trdgrp>
-  <trdgrp lng="pt">
-    <trd>fuga</trd>,
-    <trd>escapada</trd>
-  </trdgrp>
+  <trd lng="fr">fuite</trd>
   <trdgrp lng="hu">
     <trd>menek&uuml;l&eacute;s</trd>,
     <trd>sz&ouml;k&eacute;s</trd>
   </trdgrp>
   <trd lng="nl">vlucht<klr tip="ind"> (het vluchten)</klr></trd>
+  <trdgrp lng="pt">
+    <trd>fuga</trd>,
+    <trd>escapada</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_b;&c_je;&c_g;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_p;&c_o;&c_b;&c_je;&c_g;</trd>
@@ -107,6 +108,9 @@
 </art>
 <!--
 $Log: fugx.xml,v $
+Revision 1.20  2015/10/28 07:10:15  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.19  2012/01/02 10:10:30  revo
 Marc Rausell: +trd ca
 
@@ -126,8 +130,5 @@ Revision 1.14  2005/06/28 20:26:36  revo
 Yury Finkel: +trd ru
 
 Revision 1.13  2004/02/02 19:41:40  revo
-Ulrich Fellmann: kor en la dif de ~o
-
-Revision 1.12  2004/01/31 17:32:33  revo
 -->
 </vortaro>

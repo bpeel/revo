@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kromos.xml,v 1.14 2012/01/03 23:10:29 revo Exp $">
+<art mrk="$Id: kromos.xml,v 1.15 2015/10/17 13:10:20 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>kromosom</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -64,11 +64,15 @@
     </dif>
   </snc>
   <trd lng="ca">cariotip</trd>
+  <trd lng="en">karyotype</trd>
   <trd lng="fr">caryotype</trd>
 </drv>
 </art>
 <!--
 $Log: kromos.xml,v $
+Revision 1.15  2015/10/17 13:10:20  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.14  2012/01/03 23:10:29  revo
 Marc Rausell: ++trd ca
 
@@ -88,8 +92,5 @@ Revision 1.9  2006/01/12 21:52:56  revo
 Raul Salinas Monteagudo: +trd ca,es,it
 
 Revision 1.8  2004/02/23 18:18:00  revo
-Jeromo Vasxe: + fnt spv, + trd fr
-
-Revision 1.7 2003/04/22 16:31:26 revo
 -->
 </vortaro>

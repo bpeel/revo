@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: abrakadabr.xml,v 1.6 2013/08/16 15:10:12 revo Exp $">
+  <art mrk="$Id: abrakadabr.xml,v 1.8 2015/07/04 08:37:29 revo Exp $">
     <kap><rad>abrakadabr</rad>/o</kap>
 
     <drv mrk="abrakadabr.0o">
@@ -66,21 +66,29 @@
 	  <trd>czary-mary</trd>
 	</trdgrp>
       </snc>
-      <trd lng="be">&c_a;&c_b;&c_r;&c_a;&c_k;&c_a;&c_d;&c_a;&c_b;&c_r;&c_a;</trd>
-      <trd lng="bg">&c_a;&c_b;&c_r;&c_a;&c_k;&c_a;&c_d;&c_a;&c_b;&c_r;&c_a;</trd>
-      <trd lng="de">Abrakadabra</trd>
-      <trd lng="en">abracadabra</trd>
-      <trd lng="fr">abracadabra</trd>
-      <trd lng="it">Abracadabra</trd>
-      <trd lng="nl">abracadabra</trd>
-      <trd lng="ru">
+  <trd lng="be">&c_a;&c_b;&c_r;&c_a;&c_k;&c_a;&c_d;&c_a;&c_b;&c_r;&c_a;</trd>
+  <trd lng="bg">&c_a;&c_b;&c_r;&c_a;&c_k;&c_a;&c_d;&c_a;&c_b;&c_r;&c_a;</trd>
+  <trd lng="cs">abrakadabra</trd>
+  <trd lng="de">Abrakadabra</trd>
+  <trd lng="en">abracadabra</trd>
+  <trd lng="fr">abracadabra</trd>
+  <trd lng="it">Abracadabra</trd>
+  <trd lng="nl">abracadabra</trd>
+  <trd lng="ru">
       &c_a;&c_b;&c_r;&c_a;&c_k;&c_a;&c_d;&c_a;&c_b;&c_r;&c_a;</trd>
-    </drv>
+  <trd lng="sk">čary-mary</trd>
+</drv>
 
   </art>
 
 <!--
 $Log: abrakadabr.xml,v $
+Revision 1.8  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.6  2013/08/16 15:10:12  revo
 Joop Eggen: +trd bg
 

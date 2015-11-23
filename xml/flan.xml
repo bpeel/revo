@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flan.xml,v 1.15 2009/08/27 16:31:36 revo Exp $">
+<art mrk="$Id: flan.xml,v 1.17 2015/07/04 08:37:34 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>flan</rad>/o
@@ -27,15 +27,24 @@
     <trd>&c_s;&c_k;&c_a;&c_v;&c_a;&c_r;&c_o;&c_d;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
   <trd lng="ca">flam</trd>
+  <trdgrp lng="cs">
+    <trd>lívanec</trd>,
+    <trd>placka</trd>
+  </trdgrp>
   <trd lng="de">Fladen</trd>
   <trd lng="en">thin flat pastry <klr>(varies by region)</klr></trd>
   <trd lng="es">flan</trd>
   <trdgrp lng="fr">
     <trd>galette</trd>,
-    <trd>cr&ecirc;pe</trd></trdgrp> 
+    <trd>cr&ecirc;pe</trd></trdgrp>
   <trd lng="hu">lep&eacute;ny</trd>
   <trd lng="pt">bolacha</trd>
   <trd lng="ru">&c_l;&c_je;&c_p;&c_jo;&c_sh;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>lokša</trd>,
+    <trd>placka</trd>,
+    <trd>posúch</trd>
+  </trdgrp>
   <trdgrp lng="tr">
     <trd>krep</trd>,
     <trd>g&ouml;zleme</trd>
@@ -49,6 +58,12 @@ http://vortaro-blogo.blogspot.com/2009/01/flano.html
 </art>
 <!--
 $Log: flan.xml,v $
+Revision 1.17  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2009/08/27 16:31:36  revo
 Emmanuel Debanne: +trd tr
 

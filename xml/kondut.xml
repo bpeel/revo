@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kondut.xml,v 1.18 2014/10/04 16:10:34 revo Exp $">
+<art mrk="$Id: kondut.xml,v 1.20 2015/07/04 08:37:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kondut</rad>/i <fnt><bib>PV</bib></fnt>
@@ -62,6 +62,10 @@
     <trd>agir</trd>
   </trdgrp>
   <trd lng="ru">&c_v;&c_je;&c_s;&c_t;&c_i; &c_s;&c_je;&c_b;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>chovať sa</trd>,
+    <trd>správať sa</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kondut.0o">
@@ -81,6 +85,10 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_n;&c_y;</trd>
   <trd lng="ca">comportament</trd>
+  <trdgrp lng="cs">
+    <trd>chování</trd>,
+    <trd>jednání</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Benehmen</trd>,
     <trd>F&uuml;hrung</trd>,
@@ -102,6 +110,11 @@
   </trdgrp>
   <trd lng="nl">gedrag</trd>
   <trd lng="ru">&c_p;&c_o;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>chovanie</trd>,
+    <trd>počínanie</trd>,
+    <trd>správanie</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kondut.0ismo">
@@ -142,10 +155,17 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>slušný</trd>,
+    <trd>uhlazený</trd>,
+    <trd>vychovaný</trd>,
+    <trd>způsobný</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>convenable<klr> (comportement)</klr></trd>,
     <trd>comme il faut<klr> (comportement)</klr></trd>
   </trdgrp>
+  <trd lng="sk">vychovaný</trd>
 </drv>
 
 <drv mrk="kondut.malbon0a">
@@ -156,14 +176,25 @@
       <ref tip="vid" cel="dec.mal0a.KOMUNE">maldece</ref>.
     </dif>
   </snc>
+  <trdgrp lng="cs">
+    <trd>špatného chování</trd>,
+    <trd>špatně se chovající</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>inconvenant</trd>,
     <trd>mals&eacute;ant</trd>
   </trdgrp>
+  <trd lng="sk">zle sa správajúci</trd>
 </drv>
 </art>
 <!--
 $Log: kondut.xml,v $
+Revision 1.20  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.18  2014/10/04 16:10:34  revo
 Jeromo Vasxe: + ~ismo
 

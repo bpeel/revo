@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: volont.xml,v 1.24 2013/06/24 13:10:10 revo Exp $">
+<art mrk="$Id: volont.xml,v 1.26 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>volont</rad>/e <fnt><bib>PV</bib></fnt>
@@ -32,7 +32,9 @@
     <trd>de bon grau</trd>
   </trdgrp>
   <trdgrp lng="cs">
+    <trd>beze všeho</trd>,
     <trd>ochotn&ecaron;</trd>,
+    <trd>ochotně</trd>,
     <trd>r&aacute;d</trd>
   </trdgrp>
   <trdgrp lng="de">
@@ -40,7 +42,7 @@
     <trd>bereitwillig</trd>
   </trdgrp>
   <trd lng="en">willingly</trd>
-  <trd lng="es">voluntariamente</trd> 
+  <trd lng="es">voluntariamente</trd>
   <trdgrp lng="fr">
     <trd>de bon gr&eacute;</trd>,
     <trd>avec plaisir</trd>,
@@ -59,6 +61,11 @@
     <trd>&c_o;&c_h;&c_o;&c_t;&c_n;&c_o;</trd>,
     <trd>&c_s; <ind>&c_u;&c_d;&c_o;&c_v;&c_o;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_i;&c_je;&c_m;</ind></trd>,
     <trd>&c_d;&c_o;&c_b;&c_r;&c_o;&c_v;&c_o;&c_l;&c_mol;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ochotne</trd>,
+    <trd>rád</trd>,
+    <trd>vďačne</trd>
   </trdgrp>
 </drv>
 
@@ -84,11 +91,15 @@
     <trd>afany</trd>,
     <trd><ind>bona</ind> disposici&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dobrovolnost</trd>,
+    <trd>ochota</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Freiwilligkeit</trd>
   </trdgrp>
   <trd lng="en">willingness</trd>
-  <trd lng="es">voluntariedad</trd> 
+  <trd lng="es">voluntariedad</trd>
   <trdgrp lng="fr">
     <trd>bonne volont&eacute;</trd>,
     <trd>disposition<klr> (&agrave;)</klr></trd>
@@ -102,6 +113,10 @@
     <trd>&c_o;&c_h;&c_o;&c_t;&c_a;<klr tip="ind"> (&c_zh;&c_je;&c_l;&c_a;&c_n;&c_i;&c_je;)</klr></trd>,
     <trd>&c_zh;&c_je;&c_l;&c_a;&c_n;&c_i;&c_je;<klr> (&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; &c_ch;&c_t;&c_o;-&c_l;. &c_d;&c_l;&c_ja;
     &c_k;&c_o;&c_g;&c_o;-&c_l;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dobrovoľnosť</trd>,
+    <trd>ochota</trd>
   </trdgrp>
 </drv>
 
@@ -127,6 +142,10 @@
     <trd>afanyar-se</trd>,
     <trd>estar disposat <klr>(inclinat)</klr> a</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>být ochotný</trd>,
+    <trd>ráčit</trd>
+  </trdgrp>
   <trd lng="en">be willing</trd>
   <trdgrp lng="fr">
     <trd>&ecirc;tre tout <ind>dispos&eacute;</ind> &agrave;</trd>
@@ -135,6 +154,7 @@
     <trd>sz&iacute;vesen tesz</trd>
   </trdgrp>
   <trd lng="nl">graag doen</trd>
+  <trd lng="sk">byť ochotný</trd>
 </drv>
 
 <drv mrk="volont.0igi">
@@ -158,6 +178,10 @@
     <trd>kedvet csin&aacute;l</trd>
   </trdgrp>
   <trd lng="nl">iem. <ind>overhalen</ind></trd>
+  <trdgrp lng="sk">
+    <trd>nakloniť</trd>,
+    <trd>naladiť <klr>(niekoho na niečo)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="volont.0uli">
@@ -203,12 +227,16 @@
     <trd>&c_d;&c_a;&c_b;&c_r;&c_a;&c_ch;&c_y;&c_n;&c_je;&c_c;</trd>
   </trdgrp>
   <trd lng="ca">voluntari</trd>
+  <trdgrp lng="cs">
+    <trd>dobrovolník</trd>,
+    <trd>volontér</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Freiwillige</trd>,
     <trd>Freiwilliger</trd>
   </trdgrp>
   <trd lng="en">volunteer</trd>
-  <trd lng="es">voluntario</trd> 
+  <trd lng="es">voluntario</trd>
   <trdgrp lng="fr">
     <trd>b&eacute;n&eacute;vole<klr> (subst.)</klr></trd>,
     <trd>volontaire<klr> (subst.)</klr></trd>
@@ -216,6 +244,7 @@
   <trd lng="hu">&ouml;nk&eacute;ntes</trd>
   <trd lng="nl">vrijwilliger</trd>
   <trd lng="ru">&c_d;&c_o;&c_b;&c_r;&c_o;&c_v;&c_o;&c_l;&c_je;&c_c;</trd>
+  <trd lng="sk">dobrovoľník</trd>
 </drv>
 
 <drv mrk="volont.mal0e">
@@ -240,6 +269,10 @@
     <trd>a contracor</trd>,
     <trd>de mala gana</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>neochotně</trd>,
+    <trd>velice nerad</trd>
+  </trdgrp>
   <trd lng="de">unfreiwillig</trd>
   <trd lng="en">unwillingly</trd>
   <trdgrp lng="fr">
@@ -251,10 +284,17 @@
     <trd>ongaarne</trd>,
     <trd>tegen zijn <ind>zin</ind></trd>
   </trdgrp>
+  <trd lng="sk">neochotne</trd>
 </drv>
 </art>
 <!--
 $Log: volont.xml,v $
+Revision 1.26  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.24  2013/06/24 13:10:10  revo
 Jeromo Vasxe: + ~uli
 

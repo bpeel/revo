@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pig.xml,v 1.16 2013/09/08 19:11:19 revo Exp $">
+<art mrk="$Id: pig.xml,v 1.18 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pig</rad>/o
@@ -19,11 +19,14 @@
       (<trd lng="la">Pica</trd>), kun okulfrapa nigra blanka plumaro
       kaj longa vosto.
     </dif>
-  </snc>                     
+  </snc>
   <trd lng="be">&c_s;&c_a;&c_r;&c_o;&c_k;&c_a;</trd>
   <trd lng="br">pig</trd>
   <trd lng="ca">garsa</trd>
-  <trd lng="cs">straka</trd>
+  <trdgrp lng="cs">
+    <trd>straka</trd>,
+    <trd>straka obecná</trd>
+  </trdgrp>
   <trd lng="de">Elster</trd>
   <trd lng="en">magpie</trd>
   <trd lng="fr">pie</trd>
@@ -32,10 +35,17 @@
   <trd lng="pl">sroka</trd>
   <trd lng="pt">pega (&ecirc;)</trd>
   <trd lng="ru">&c_s;&c_o;&c_r;&c_o;&c_k;&c_a;</trd>
+  <trd lng="sk">straka</trd>
 </drv>
 </art>
 <!--
 $Log: pig.xml,v $
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.16  2013/09/08 19:11:19  revo
 Wolfram Diestel: kor. lst-ref
 

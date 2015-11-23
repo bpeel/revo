@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: figur.xml,v 1.41 2013/11/02 12:10:16 revo Exp $">
+<art mrk="$Id: figur.xml,v 1.46 2015/07/04 08:37:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>figur</rad>/o <fnt><bib>PV</bib></fnt>
@@ -15,16 +15,22 @@
       Videbla ekstera formo de esta&jcirc;o a&ubreve; objekto:
       <ekz>
         subite virina <tld/>o ekstaris anta&ubreve; mi;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         &scirc;ia tuta <tld/>o estis senmova<fnt>Z</fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         nun &scirc;i per sia tuta <tld/>o el&scirc;ovi&gcirc;is
         en la lumon<fnt>Z</fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <uzo tip="stl">FIG</uzo>
         li estas grava <tld/>o de la angla literaturo.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="person.0o.rolanto">persono<sncref/></ref>
+    </refgrp>
     <trdgrp lng="de">
       <trd>K&ouml;rper</trd>,
       <trd>Figur</trd>
@@ -40,10 +46,12 @@
       Belarta prezenta&jcirc;o de objekto a&ubreve; estulo:
       <ekz>
         <tld/>oj de dioj;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         sankt<tld/>o<fnt>Z</fnt>;
       </ekz>
     </dif>
+    <trd lng="es">imagen</trd>
     <trd lng="hu">alak</trd>
     <subsnc mrk="figur.0o.sxaka">
       <uzo tip="fak">SPO</uzo>
@@ -98,6 +106,7 @@
   <snc mrk="figur.0o.geometria">
     <ref tip="dif" cel="figur.geometria0o">geometria figuro</ref>
     <trd lng="de">geometrische Figur</trd>
+    <trd lng="es">figura geom&eacute;trica</trd>
     <trd lng="hu">alakzat</trd>
     <trd lng="pl">figura geometryczna</trd>
   </snc>
@@ -111,6 +120,7 @@
     <trdgrp lng="de">
       <trd>Stilfigur</trd>
     </trdgrp>
+    <trd lng="es">figura literaria</trd>
     <trdgrp lng="fr">
       <trd>figure de style</trd>,
       <trd>trope</trd>
@@ -127,6 +137,12 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_f;&c_ib;&c_g;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>figura</trd>,
+    <trd>obrazec</trd>,
+    <trd>postava</trd>,
+    <trd>útvar</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Figur</trd>
   </trdgrp>
@@ -137,6 +153,11 @@
   <trd lng="nl">figuur</trd>
   <trd lng="pt">figura</trd>
   <trd lng="ru">&c_f;&c_i;&c_g;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>diagram</trd>,
+    <trd>schéma</trd>,
+    <trd>značka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="figur.0a">
@@ -166,6 +187,16 @@
     <trd
     lng="ru">&c_f;&c_i;&c_g;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </snc>
+  <trdgrp lng="cs">
+    <trd>figurální</trd>,
+    <trd>obrazný</trd>,
+    <trd>přenesený</trd>
+  </trdgrp>
+  <trd lng="es">figurado</trd>
+  <trdgrp lng="sk">
+    <trd>figurálny</trd>,
+    <trd>prenesený</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="figur.0i">
@@ -250,7 +281,12 @@
       <trd>&c_p;&c_r;&c_je;&c_d;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="cs">
+    <trd>představovat</trd>,
+    <trd>zobrazovat</trd>
+  </trdgrp>
   <trd lng="es">figurar</trd>
+  <trd lng="sk">zobrazovať</trd>
 </drv>
 
 <drv mrk="figur.0anto">
@@ -266,8 +302,13 @@
     <trd>&c_a;&c_k;&c_t;&c_o;&c_r;
       &c_k;&c_a;&c_r;&c_d;&c_e;&c_b;&c_a;&c_l;&c_je;&c_t;&c_u;</trd>
   </trdgrp>
+  <trd lng="cs">statista <klr>(div.)</klr></trd>
+  <trdgrp lng="es">
+    <trd>comparsa</trd>,
+    <trd>extra</trd>,
+    <trd>figurante</trd>
+  </trdgrp>
   <trd lng="fr">figurant</trd>
-  <trd lng="nl">figurant</trd>
   <trdgrp lng="hu">
     <trd>statiszta</trd>,
     <trd>mell&eacute;kszerepl&odblac;</trd>
@@ -276,6 +317,7 @@
     <trd>figurante<klr> (cin. e spettac.)</klr></trd>,
     <trd>comparsa<klr> (cin. e teat.)</klr></trd>
   </trdgrp>
+  <trd lng="nl">figurant</trd>
   <trdgrp lng="pl">
     <trd>figurant</trd>,
     <trd>statysta</trd>
@@ -285,37 +327,7 @@
     <ind>&c_k;&c_o;&c_r;&c_d;&c_je;&c_b;&c_a;&c_l;&c_je;&c_t;&c_a;</ind></trd>;
     <trd>&c_s;&c_t;&c_a;&c_t;&c_i;&c_s;&c_t;</trd>
   </trdgrp>
-</drv>
-
-<drv mrk="figur.trans0igxo">
-  <kap>Trans<tld/>i&gcirc;o</kap>
-  <snc mrk="figur.trans0igxo.KRI">
-    <uzo tip="fak">KRI</uzo>
-    <dif>
-      Unu el la
-      <ref tip="lst" cel="fest.dekduopa0o.KRI"
-      lst="voko:festoj">dekduopaj 
-      festoj</ref>
-      kristanaj, rememore pri la apero de
-      <ref cel="jesu.0o.homo">Jesuo</ref> en glora supernatura
-      aspekto sur la monto Tabor (Mateo, &ccirc;ap. 17a):
-      <ekz>
-        la nova pre&gcirc;ejo de Valamo, dedi&ccirc;ita al la
-        trans<tld/>i&gcirc;o de Kristo, estis konstruita
-        en 1975&ndash;1977
-        <fnt>
-          <aut>Saliko</aut>:
-          <vrk>La hereda&jcirc;o de orientaj ortodoksuloj</vrk>
-          <bib>Monato</bib>.
-        </fnt>.
-      </ekz>        
-    </dif>
-  </snc>
-  <trd lng="en">Transfiguration</trd>
-  <trd lng="fr">transfiguration</trd>
-  <trd lng="it">Trasfigurazione<klr> di Nostro Signore</klr></trd>
-  <trd lng="pl">Przeistoczenie</trd>
-  <trd lng="ru">&c_P;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">štatista</trd>
 </drv>
 
 <drv mrk="figur.geometria0o">
@@ -350,12 +362,38 @@
       tip="amb">(&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>
   <trd lng="de">Figur</trd>
   <trd lng="en">figure<klr tip="ind"> (geometric shape)</klr></trd>
+  <trd lng="es">figura geom&eacute;trica</trd>
   <trd lng="fr">figure g&eacute;om&eacute;trique</trd>
   <trd lng="hu">m&eacute;rtani <ind>alakzat</ind></trd>
   <trd lng="it">figura<klr> geometrica</klr></trd>
   <trd lng="nl">figuur<klr tip="ind"> (geometrie)</klr></trd>
   <trd lng="pl">figura geometryczna</trd>
   <trd lng="ru">&c_f;&c_i;&c_g;&c_u;&c_r;&c_a;</trd>
+  <trd lng="sk">geometrický útvar</trd>
+  <trd lng="cs">geometrický útvar</trd>
+</drv>
+
+<drv mrk="figur.mis0igi">
+  <kap>mis<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="figur.mis0igi.KOMUNE">
+    <dif>
+      Malbonigi la figuron de...;
+      <ref tip="vid" cel="form.mis0i.KOMUNE">misformi</ref>,
+      <ref tip="vid" cel="tord.0i.misforme">tordi</ref>:
+      <ekz>
+        en nia vila&gcirc;o estas <klr>...</klr> knabino kies 
+        viza&gcirc;on hazarde mis<tld/>igas variolumado
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">desfigurar</trd>
+  <trd lng="fr">d&eacute;figurer</trd>
 </drv>
 
 <drv mrk="figur.stil0o">
@@ -381,20 +419,25 @@
     <trd>&c_f;&c_ib;&c_g;&c_u;&c_r;&c_a;
       &c_r;&c_y;&c_t;&c_a;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>stylistický útvar</trd>,
+    <trd>řečnická ozdoba</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Stilfigur</trd>
   </trdgrp>
+  <trd lng="es">figura literaria</trd>
   <trdgrp lng="fr">
     <trd>figure de style</trd>,
     <trd>trope</trd>
   </trdgrp>
-  <trd lng="nl">stijlfiguur</trd>
   <trdgrp lng="hu">
     <trd>sz&oacute;k&eacute;p</trd>,
     <trd>k&eacute;pes kifejez&eacute;s</trd>,
     <trd>tr&oacute;pus</trd>
   </trdgrp>
   <trd lng="it">figura<klr> stilistica</klr></trd>
+  <trd lng="nl">stijlfiguur</trd>
   <trdgrp lng="pl">
     <trd>figura retoryczna</trd>,
     <trd>przeno&sacute;nia</trd>,
@@ -408,6 +451,43 @@
     <trd>&c_f;&c_i;&c_g;&c_u;&c_r;&c_a;
       &c_s;&c_t;&c_i;&c_l;&c_i;&c_s;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rečnícka ozdoba</trd>,
+    <trd>štylistický útvar</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="figur.trans0igxo">
+  <kap>Trans<tld/>i&gcirc;o</kap>
+  <snc mrk="figur.trans0igxo.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Unu el la
+      <ref tip="lst" cel="fest.dekduopa0o.KRI"
+      lst="voko:festoj">dekduopaj 
+      festoj</ref>
+      kristanaj, rememore pri la apero de
+      <ref cel="jesu.0o.homo">Jesuo</ref> en glora supernatura
+      aspekto sur la monto Tabor (Mateo, &ccirc;ap. 17a):
+      <ekz>
+        la nova pre&gcirc;ejo de Valamo, dedi&ccirc;ita al la
+        trans<tld/>i&gcirc;o de Kristo, estis konstruita
+        en 1975&ndash;1977
+        <fnt>
+          <aut>Saliko</aut>:
+          <vrk>La hereda&jcirc;o de orientaj ortodoksuloj</vrk>
+          <bib>Monato</bib>.
+        </fnt>.
+      </ekz>        
+    </dif>
+  </snc>
+  <trd lng="en">Transfiguration</trd>
+  <trd lng="es">transfiguraci&oacute;n de Jes&uacute;s</trd>
+  <trd lng="fr">transfiguration</trd>
+  <trd lng="it">Trasfigurazione<klr> di Nostro Signore</klr></trd>
+  <trd lng="pl">Przeistoczenie</trd>
+  <trd
+  lng="ru">&c_P;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
 </drv>
 
 <drv mrk="figur.vort0o">
@@ -424,9 +504,14 @@
     <trd>&c_f;&c_ib;&c_g;&c_u;&c_r;&c_a;
       &c_r;&c_y;&c_t;&c_a;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>slovní figura</trd>,
+    <trd>slovní útvar ze sémantického hlediska</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Stilfigur</trd>
   </trdgrp>
+  <trd lng="es">figura literaria</trd>
   <trdgrp lng="fr">
     <trd>figure de style</trd>,
     <trd>trope</trd>
@@ -445,10 +530,26 @@
   </trdgrp>
   <trd lng="ru">&c_f;&c_i;&c_g;&c_u;&c_r;&c_a;
   &c_r;&c_je;&c_ch;&c_i;</trd>
+  <trd lng="sk">slovný útvar</trd>
 </drv>
 </art>
 <!--
 $Log: figur.xml,v $
+Revision 1.46  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.45  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.44  2015/04/02 05:10:18  revo
+Carlos Garcia: +trd es -o2 -o3 -o4 -a -ant geometria mis-ig Trans-igx stil- vort-
+
+Revision 1.43  2015/02/16 00:10:16  revo
+Jeromo Vasxe: + 1 ref
+
+Revision 1.42  2014/12/14 18:10:14  revo
+Jeromo Vasxe: + mis~igi
+
 Revision 1.41  2013/11/02 12:10:16  revo
 Wolfram Diestel: lst festoj
 
@@ -462,14 +563,5 @@ Revision 1.38  2010/06/17 16:30:39  revo
 Agustin Garcia Lopez: +trd es (-i)
 
 Revision 1.37  2010/02/22 17:30:21  revo
-Mireille Corobu: svg->gif
-
-Revision 1.36  2009/02/06 17:59:32  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.35  2007/05/30 16:30:45  revo
-Tulio Flores: +tr pt
-
-Revision 1.34  2006/09/22 12:27:46  revo
 -->
 </vortaro>

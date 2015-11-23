@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: deklar1.xml,v 1.19 2009/04/30 16:31:00 revo Exp $">
+<art mrk="$Id: deklar1.xml,v 1.21 2015/07/04 08:37:32 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>deklaraci</rad>/o
@@ -32,6 +32,10 @@
   <trd
   lng="be">&c_d;&c_e;&c_k;&c_l;&c_ja;&c_r;&c_a;&c_c;&c_y;&c_ja;</trd>
   <trd lng="ca">declaraci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>deklarace</trd>,
+    <trd>prohlášení <klr>(slavnostní)</klr></trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Erkl&auml;rung</trd>,
     <trd>Verk&uuml;ndung</trd>,
@@ -53,11 +57,21 @@
   <trd lng="pt">declara&ccedil;&atilde;o</trd>
   <trd
   lng="ru">&c_d;&c_je;&c_k;&c_l;&c_a;&c_r;&c_a;&c_c;&c_i;&c_ja;</trd>
-  <trd lng="sk">deklar&aacute;cia</trd>
+  <trdgrp lng="sk">
+    <trd>deklar&aacute;cia</trd>,
+    <trd>prejav</trd>,
+    <trd>verejné vyhlásenie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: deklar1.xml,v $
+Revision 1.21  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2009/04/30 16:31:00  revo
 Sebastian Cyprych: +trd pl
 

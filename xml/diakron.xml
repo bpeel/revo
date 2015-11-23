@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: diakron.xml,v 1.1 2013/08/31 13:10:10 revo Exp $">
+<art mrk="$Id: diakron.xml,v 1.4 2015/11/04 15:10:19 revo Exp $">
 <kap>
   <rad>diakron</rad>/a <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -28,12 +28,24 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="cs">diachronick&yacute;</trd>
+  <trd lng="en">diachronic</trd>
   <trd lng="fr">diachronique</trd>
+  <trd lng="sk">diachronick&yacute;</trd>
 </drv>
 </art>
 
 <!--
 $Log: diakron.xml,v $
+Revision 1.4  2015/11/04 15:10:19  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.3  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.1  2013/08/31 13:10:10  revo
 Jeromo Vasxe: nova artikolo
 

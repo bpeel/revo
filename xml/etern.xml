@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: etern.xml,v 1.26 2014/06/02 14:10:16 revo Exp $">
+  <art mrk="$Id: etern.xml,v 1.28 2015/07/04 08:37:33 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>etern</rad>/a
@@ -81,32 +81,37 @@
           <trd>indefectible</trd>
         </trdgrp>
       </snc>
-      <trd lng="be">&c_v;&c_je;&c_ch;&c_n;&c_y;</trd>
-      <trd lng="ca">etern</trd>
-      <trd lng="cs">v&ecaron;&ccaron;n&yacute;</trd>
-      <trd lng="de">ewig</trd>
-      <trd lng="es">eterno</trd>
-      <trdgrp lng="fa">
+  <trd lng="be">&c_v;&c_je;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="ca">etern</trd>
+  <trdgrp lng="cs">
+    <trd>přen.dlouho trvající</trd>,
+    <trd>v&ecaron;&ccaron;n&yacute;</trd>,
+    <trd>věčný</trd>
+  </trdgrp>
+  <trd lng="de">ewig</trd>
+  <trd lng="es">eterno</trd>
+  <trdgrp lng="fa">
         <trd>&a_j;&a_A;&a_w;&a_d;&a_A;&a_n;&a_h;</trd>,
         <trd>&a_A;&a_b;&a_d;&f_y;</trd>
       </trdgrp>
-      <trd lng="fr">&eacute;ternel</trd>
-      <trdgrp lng="hu">
+  <trd lng="fr">&eacute;ternel</trd>
+  <trdgrp lng="hu">
         <trd>&ouml;r&ouml;k</trd>,
         <trd>&ouml;r&ouml;kk&eacute;val&oacute;</trd>
       </trdgrp>
-      <trd lng="pl">wieczny</trd>
-      <trd lng="id">abadi</trd>
+  <trd lng="id">abadi</trd>
+  <trd lng="pl">wieczny</trd>
   <trdgrp lng="pt">
     <trd>eterno</trd>,
     <trd>perp&eacute;tuo</trd>,
     <trd>imperec&iacute;vel</trd>,
     <trd>perene</trd>
   </trdgrp>
-      <trd lng="ro">etern</trd>
-      <trd lng="ru">&c_v;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
-      <trd lng="sv">evig</trd>
-    </drv>
+  <trd lng="ro">etern</trd>
+  <trd lng="ru">&c_v;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">večný</trd>
+  <trd lng="sv">evig</trd>
+</drv>
 
     <drv mrk="etern.0e">
       <kap><tld/>e</kap>
@@ -123,23 +128,25 @@
           </ekz>
         </dif>
       </snc>
-      <trd lng="be">&c_v;&c_je;&c_ch;&c_n;&c_a;</trd>
-      <trdgrp lng="ca">
+  <trd lng="be">&c_v;&c_je;&c_ch;&c_n;&c_a;</trd>
+  <trdgrp lng="ca">
         <trd>eternament</trd>,
         <trd>per sempre</trd>
       </trdgrp>
-      <trdgrp lng="fa">
+  <trd lng="cs">věčně</trd>
+  <trdgrp lng="fa">
         <trd>&a_j;&a_A;&a_w;&f_y;&a_d;&a_A;&a_n;</trd>,
         <trd>&a_A;&a_l;&f_y;&zwnj;&a_A;&a_l;&a_A;&a_b;&a_d;</trd>
       </trdgrp>
-      <trd lng="fr">&eacute;ternellement</trd>
-      <trdgrp lng="hu">
+  <trd lng="fr">&eacute;ternellement</trd>
+  <trdgrp lng="hu">
         <trd>&ouml;r&ouml;kk&eacute;</trd>,
         <trd>&ouml;r&ouml;k&ouml;sen</trd>
       </trdgrp>
-      <trd lng="pl">wiecznie</trd>
-      <trd lng="ru">&c_v;&c_je;&c_ch;&c_n;&c_o;</trd>
-    </drv>
+  <trd lng="pl">wiecznie</trd>
+  <trd lng="ru">&c_v;&c_je;&c_ch;&c_n;&c_o;</trd>
+  <trd lng="sk">naveky</trd>
+</drv>
 
     <drv mrk="etern.0ulo">
       <kap><tld lit="E"/>ulo</kap>
@@ -202,6 +209,12 @@
   </art>
   <!--
   $Log: etern.xml,v $
+  Revision 1.28  2015/07/04 08:37:33  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.27  2015/06/29 16:29:38  revo
+  aldono de trd sk per skripto de M. von Laer
+
   Revision 1.26  2014/06/02 14:10:16  revo
   Eko Nur Syah Hidayat: +id
 

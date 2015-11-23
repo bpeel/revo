@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: adolt.xml,v 1.11 2011/12/09 19:10:10 revo Exp $">
+<art mrk="$Id: adolt.xml,v 1.13 2015/07/04 08:37:29 revo Exp $">
 <kap>
   <rad>adolt</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -21,6 +21,7 @@
     <trd>&c_s;&c_t;&c_a;&c_l;&c_y; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>
   </trdgrp>
   <trd lng="ca">adult <klr>(subst.)</klr></trd>
+  <trd lng="cs">dospělý jedinec</trd>
   <trd lng="de">Erwachsener</trd>
   <trd lng="es">adulto</trd>
   <trd lng="fr">adulte<klr tip="ind"> (subst.)</klr></trd>
@@ -31,6 +32,7 @@
   <trd lng="ro">adult</trd>
   <trd lng="ru">&c_v;&c_z;&c_r;&c_o;&c_s;&c_l;&c_y;&c_j;<klr> 
 (&c_s;&c_u;&c_shch;.)</klr></trd>
+  <trd lng="sk">dospelý jedinec</trd>
 </drv>
 
 <drv mrk="adolt.0a">
@@ -51,6 +53,7 @@ en la
     <trd>&c_s;&c_t;&c_a;&c_l;&c_y;</trd>
   </trdgrp>
   <trd lng="ca">adult <klr>(adj.)</klr></trd>
+  <trd lng="cs">dospělý</trd>
   <trdgrp lng="de">
     <trd>erwachsen</trd>,
     <trd>vollj&auml;hrig</trd>
@@ -67,6 +70,7 @@ en la
     <trd>&c_v;&c_z;&c_r;&c_o;&c_s;&c_l;&c_y;&c_j;</trd>,
     <trd>&c_z;&c_r;&c_je;&c_l;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="sk">dospelý</trd>
 </drv>
 
 <drv mrk="adolt.0eco">
@@ -78,6 +82,7 @@ en la
   </snc>
   <trd lng="be">&c_s;&c_t;&c_a;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="ca">adultesa</trd>
+  <trd lng="cs">dospělost</trd>
   <trdgrp lng="fr">
     <trd>&acirc;ge <ind>adulte</ind></trd>,
     <trd>maturit&eacute;<klr tip="ind"> (&acirc;ge adulte)</klr></trd>
@@ -89,6 +94,7 @@ en la
   <trd lng="nl">volwassenheid</trd>
   <trd lng="pl">doros&lstroke;o&sacute;&cacute;</trd>
   <trd lng="ru">&c_z;&c_r;&c_je;&c_l;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">dospelosť</trd>
 </drv>
 
 <drv mrk="adolt.0igxi">
@@ -152,6 +158,12 @@ en la
 </art>
 <!--
 $Log: adolt.xml,v $
+Revision 1.13  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.11  2011/12/09 19:10:10  revo
 Marc Rausell: kataluna traduko
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: astrol1.xml,v 1.15 2012/01/31 18:10:18 revo Exp $">
+<art mrk="$Id: astrol1.xml,v 1.17 2015/07/04 08:37:31 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>astrolog</rad>/o
@@ -16,11 +16,15 @@
     377a</lok></fnt>.</ekz>
   </snc>
   <trd lng="be">&c_a;&c_s;&c_t;&c_r;&c_o;&c_l;&c_ja;&c_g;</trd>
-  <trd lng="en">astrologist</trd>
+  <trdgrp lng="cs">
+    <trd>astrolog</trd>,
+    <trd>hvězdopravec</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Astrologe</trd>,
     <trd>Sterndeuter</trd>
   </trdgrp>
+  <trd lng="en">astrologist</trd>
   <trd lng="es">astr&oacute;logo</trd>
   <trdgrp lng="fa">
     <trd>&a_A;&a_kh;&a_t;&a_r;&a_b;&f_y;&a_n;</trd>,
@@ -36,10 +40,17 @@
   </trdgrp>
   <trd lng="it">astrologo</trd>
   <trd lng="ru">&c_a;&c_s;&c_t;&c_r;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="sk">astrológ</trd>
 </drv>
 </art>
 <!--
 $Log: astrol1.xml,v $
+Revision 1.17  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2012/01/31 18:10:18  revo
 Antonio Codazzi: +trd it
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nori.xml,v 1.9 2012/01/02 13:10:13 revo Exp $">
+<art mrk="$Id: nori.xml,v 1.11 2015/07/04 08:37:40 revo Exp $">
 <kap>
   <rad>nori</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -23,11 +23,12 @@
     </dif>
   </snc>
   <trd lng="ca">s&iacute;nia</trd>
-  <trd lng="es">noria</trd>
+  <trd lng="cs">korečkové čerpadlo</trd>
   <trdgrp lng="de">
     <trd>Sch&ouml;pfwerk</trd>,
     <trd>Noria</trd>
   </trdgrp>
+  <trd lng="es">noria</trd>
   <trd lng="fr">noria</trd>
   <trdgrp lng="hu">
     <trd>j&aacute;rg&aacute;nyos <ind>v&iacute;zemel&odblac;</ind></trd>,
@@ -40,10 +41,17 @@
     <trd>&c_n;&c_o;&c_r;&c_i;&c_ja;</trd>,
     <trd>&c_ch;&c_je;&c_r;&c_p;&c_a;&c_k;&c_o;&c_v;&c_y;&c_j; &c_p;&c_o;&c_d;&c_malmol;&c_jo;&c_m;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
+  <trd lng="sk">vodné čerpacie koleso</trd>
 </drv>
 </art>
 <!--
 $Log: nori.xml,v $
+Revision 1.11  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.9  2012/01/02 13:10:13  revo
 Marc Rausell: +trd ca
 

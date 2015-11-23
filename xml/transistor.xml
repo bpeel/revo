@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: transistor.xml,v 1.5 2014/03/20 15:10:15 revo Exp $">
+<art mrk="$Id: transistor.xml,v 1.7 2015/07/04 08:37:45 revo Exp $">
 <kap>
     <ofc>9</ofc><rad>transistor</rad>/o <fnt><bib>PIV3</bib></fnt>
     <fnt><bib>Viki</bib></fnt>
@@ -31,12 +31,20 @@
      Ricevaparato enhavanta <tld/>o(j)n.
     </dif>
   </snc>
+  <trd lng="cs">tranzistorový radiopříjmač</trd>
   <trd lng="fr">transistor</trd>
+  <trd lng="sk">tranzistorový prijímač</trd>
 </drv>
 </art>
 
 <!--
 $Log: transistor.xml,v $
+Revision 1.7  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2014/03/20 15:10:15  revo
 Damien Brucker: +ref
 

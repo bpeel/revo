@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: specia.xml,v 1.18 2013/04/21 19:10:11 revo Exp $">
+<art mrk="$Id: specia.xml,v 1.21 2015/07/04 08:37:43 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>special</rad>/a
@@ -67,6 +67,7 @@
     <trd>&a_m;&a_kh;&a_S;&a_w;&a_S;</trd>,
     <trd>&a_kh;&a_A;&a_S;</trd>
   </trdgrp>
+  <trd lng="fr">sp&eacute;cial</trd>
   <trdgrp lng="hu">
     <trd>speci&aacute;lis</trd>,
     <trd>saj&aacute;tos</trd>,
@@ -79,6 +80,16 @@
     <trd>specjalistyczny</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_p;&c_je;&c_c;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>výberový</trd>,
+    <trd>zvláštny</trd>,
+    <trd>špeciálny</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>speciální</trd>,
+    <trd>výběrový</trd>,
+    <trd>zvláštní</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="specia.0e">
@@ -96,12 +107,19 @@
     <trd>&c_a;&c_d;&c_m;&c_y;&c_s;&c_l;&c_o;&c_v;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">especialment</trd>
+  <trdgrp lng="cs">
+    <trd>obzvláště</trd>,
+    <trd>především</trd>,
+    <trd>zejména</trd>,
+    <trd>zvláště</trd>
+  </trdgrp>
   <trd lng="de">speziell</trd>
   <trd lng="es">especialmente</trd>
   <trdgrp lng="fa">
     <trd>&a_b;&a_w;&f_y;&f_zh;&a_h;</trd>,
     <trd>&a_b;&a_kh;&a_S;&a_w;&a_S;</trd>
   </trdgrp>
+  <trd lng="fr">sp&eacute;cialement</trd>
   <trdgrp lng="hu">
     <trd>speci&aacute;lisan</trd>,
     <trd>saj&aacute;tosan</trd>,
@@ -116,6 +134,10 @@
     <trd>w szczeg&oacute;lno&sacute;ci</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_p;&c_je;&c_c;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>hlavne</trd>,
+    <trd>obzvlášť</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="specia.0isto">
@@ -130,6 +152,10 @@
     <trd>&c_a;&c_d;&c_m;&c_y;&c_s;&c_l;&c_o;&c_v;&c_je;&c_c;</trd>
   </trdgrp>
   <trd lng="ca">especialista</trd>
+  <trdgrp lng="cs">
+    <trd>odborník</trd>,
+    <trd>specialista</trd>
+  </trdgrp>
   <trd lng="de">Spezialist</trd>
   <trd lng="en">specialist</trd>
   <trd lng="es">especialista</trd>
@@ -138,6 +164,7 @@
     <trd>&f_k;&a_A;&a_r;&a_sh;&a_n;&a_A;&a_s;</trd>,
     <trd>&a_w;&f_y;&f_zh;&a_h;&zwnj;&f_k;&a_A;&a_r;</trd>
   </trdgrp>
+  <trd lng="fr">sp&eacute;cialiste</trd>
   <trdgrp lng="hu">
     <trd>szakember</trd>,
     <trd>specialista</trd>
@@ -145,10 +172,20 @@
   <trd lng="nl">specialist</trd>
   <trd lng="pl">specjalista</trd>
   <trd lng="ru">&c_s;&c_p;&c_je;&c_c;&c_i;&c_a;&c_l;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">odborník</trd>
 </drv>
 </art>
 <!--
 $Log: specia.xml,v $
+Revision 1.21  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2015/01/01 16:10:11  revo
+Alain Gerard: +trd (fr)
+
 Revision 1.18  2013/04/21 19:10:11  revo
 Sebastian Cyprych: +trd pl
 
@@ -168,8 +205,5 @@ Revision 1.13  2004/05/02 16:32:29  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.12  2002/07/08 18:24:31  revo
-Wolfram Diestel: kor. ref-cel
-
-Revision 1.11  2002/02/05 17:33:51  revo
 -->
 </vortaro>

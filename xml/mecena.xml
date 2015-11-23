@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mecena.xml,v 1.13 2012/08/19 18:10:26 revo Exp $">
+<art mrk="$Id: mecena.xml,v 1.15 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <rad>mecenat</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -32,6 +32,10 @@
     <trd>&c_f;&c_u;&c_n;&c_d;&c_a;&c_t;&c_a;&c_r;</trd>
   </trdgrp>
   <trd lng="ca">mecenes</trd>
+  <trdgrp lng="cs">
+    <trd>dobrodinec</trd>,
+    <trd>mecenáš</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>M&auml;zen</trd>,
     <trd>Kunstfreund</trd>,
@@ -55,6 +59,10 @@
     <trd>patrocinador <klr tip="amb">(subst.)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_je;&c_c;&c_je;&c_n;&c_a;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>dobrodinec</trd>,
+    <trd>mecenáš</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mecena.0i">
@@ -111,6 +119,7 @@
     </refgrp>
   </snc>
   <trd lng="ca">mecenatge</trd>
+  <trd lng="cs">mecenášství</trd>
   <trdgrp lng="en">
       <trd>patronage</trd>,
       <trd>support</trd>
@@ -119,10 +128,17 @@
     <trd>m&eacute;c&eacute;nat</trd>,
     <trd>sponsoring</trd>
   </trdgrp>
+  <trd lng="sk">mecenášstvo</trd>
 </drv>
 </art>
 <!--
 $Log: mecena.xml,v $
+Revision 1.15  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.13  2012/08/19 18:10:26  revo
 Marc Rausell: + trd ca
 

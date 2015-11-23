@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: miasm.xml,v 1.15 2014/03/08 02:10:14 revo Exp $">
+<art mrk="$Id: miasm.xml,v 1.17 2015/07/04 08:37:39 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>miasm</rad>/o <fnt><bib>PV</bib></fnt>
@@ -27,12 +27,14 @@
   </snc>
   <trd lng="be">&c_m;&c_ib;&c_ja;&c_z;&c_m;&c_y;</trd>
   <trd lng="ca">miasma</trd>
+  <trd lng="cs">miasma</trd>
   <trdgrp lng="de">
     <trd>Miasma</trd>,
     <trd>verseuchte <ind>Ausd&uuml;nstung</ind></trd>,
     <trd>Pesthauch</trd>
   </trdgrp>
   <trd lng="en">miasma</trd>
+  <trd lng="fr">miasmes</trd>
   <trd lng="hu">miazma</trd>
   <trdgrp lng="nl">
     <trd>miasma</trd>,
@@ -44,11 +46,17 @@
   </trdgrp>
   <trd lng="pt">miasma</trd>
   <trd lng="ru">&c_m;&c_i;&c_a;&c_z;&c_m;&c_y;</trd>
-  <trd lng="fr">miasmes</trd>
+  <trd lng="sk">miazma</trd>
 </drv>
 </art>
 <!--
 $Log: miasm.xml,v $
+Revision 1.17  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2014/03/08 02:10:14  revo
 Jeromo Vasxe: + ekz
 

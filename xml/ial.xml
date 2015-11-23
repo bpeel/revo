@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ial.xml,v 1.15 2010/08/08 16:30:22 revo Exp $">
+<art mrk="$Id: ial.xml,v 1.17 2015/07/04 08:37:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ial</rad>
@@ -17,6 +17,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_ch;&c_a;&c_m;&c_u;&c_s;&c_mol;&c_c;&c_ib;</trd>
+  <trdgrp lng="cs">
+    <trd>z jakéhosi důvodu</trd>,
+    <trd>z nějaké příčiny</trd>
+  </trdgrp>
   <trd lng="de">aus irgendeinem <ind>Grund</ind></trd>
   <trd lng="en">for some reason</trd>
   <trd lng="es">por alguna raz&oacute;n</trd>
@@ -40,10 +44,20 @@
     <trd>&c_p;&c_o;&c_ch;&c_je;&c_m;&c_u;-&c_t;&c_o;</trd>,
     <trd>&c_z;&c_a;&c_ch;&c_je;&c_m;-&c_t;&c_o;</trd>
   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pre niečo</trd>,
+    <trd>z nejakej príčiny</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ial.xml,v $
+Revision 1.17  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.15  2010/08/08 16:30:22  revo
 Agustin Garcia Lopez: +trd es
 

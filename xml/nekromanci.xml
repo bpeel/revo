@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nekromanci.xml,v 1.5 2011/12/05 10:10:14 revo Exp $">
+<art mrk="$Id: nekromanci.xml,v 1.8 2015/10/26 12:12:03 revo Exp $">
 <kap>
   <rad>nekromanci</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -24,12 +24,15 @@
     </dif>
   </snc>
   <trd lng="ca">nigrom&agrave;ncia</trd>
+  <trd lng="cs">p&rcaron;edpov&iacute;d&aacute;n&iacute; budoucnosti vyvol&aacute;v&aacute;n&iacute;m mrtv&yacute;ch</trd>
+  <trd lng="en">necromancy</trd>
   <trd lng="fr">n&eacute;cromancie</trd>
   <trd lng="hu">halottid&eacute;z&eacute;s</trd>
   <trdgrp lng="nl">
     <trd>necromantie</trd>,
     <trd>dodenbezwering</trd>
   </trdgrp>
+  <trd lng="sk">nekromancia</trd>
 </drv>
 
 <drv mrk="nekromanci.0isto">
@@ -55,6 +58,7 @@
     <trd>nigrom&agrave;ntic</trd>,
     <trd>nigromant</trd>
   </trdgrp>
+  <trd lng="en">necromancer</trd>
   <trdgrp lng="fr">
     <trd>n&eacute;cromancien</trd>,
     <trd>n&eacute;cromant</trd>
@@ -72,6 +76,15 @@
 
 <!--
 $Log: nekromanci.xml,v $
+Revision 1.8  2015/10/26 12:12:03  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.7  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2011/12/05 10:10:14  revo
 Marc Rausell: kataluna traduko
 
@@ -85,7 +98,5 @@ Revision 1.2  2009/05/07 16:31:45  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.1  2007/08/06 16:30:18  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pirakant.xml,v 1.5 2013/08/29 07:10:38 revo Exp $">
+<art mrk="$Id: pirakant.xml,v 1.7 2015/07/04 08:37:41 revo Exp $">
 <kap>
   <rad>pirakant</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -32,6 +32,10 @@
     </dif>
   </snc>
   <trd lng="ca">piracant</trd>
+  <trdgrp lng="cs">
+    <trd>hlohyně</trd>,
+    <trd>kysilník</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>buisson ardent</trd>,
     <trd>pyracantha</trd>
@@ -41,11 +45,18 @@
     <trd>piracanto</trd>,
     <trd>espinheiro-ardente</trd>
   </trdgrp>
+  <trd lng="sk">hlohyňa</trd>
 </drv>
 </art>
 
 <!--
 $Log: pirakant.xml,v $
+Revision 1.7  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.5  2013/08/29 07:10:38  revo
 Wolfram Diestel: referenco al listo bot genroj
 

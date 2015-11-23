@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sceptr.xml,v 1.19 2013/09/01 18:10:10 revo Exp $">
+<art mrk="$Id: sceptr.xml,v 1.21 2015/07/04 08:37:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sceptr</rad>/o
@@ -27,6 +27,11 @@
   </snc>
   <trd lng="be">&c_s;&c_k;&c_ib;&c_p;&c_e;&c_t;&c_a;&c_r;</trd>
   <trd lng="bg">&c_zh;&c_je;&c_z;&c_malmol;&c_l;</trd>
+  <trdgrp lng="cs">
+    <trd>přen. vláda</trd>,
+    <trd>sceptrum</trd>,
+    <trd>žezlo</trd>
+  </trdgrp>
   <trd lng="de">Zepter</trd>
   <trdgrp lng="en">
     <trd>scepter</trd>,
@@ -43,10 +48,21 @@
   <trd lng="nl">scepter</trd>
   <trd lng="pl">ber&lstroke;o</trd>
   <trd lng="ru">&c_s;&c_k;&c_i;&c_p;&c_je;&c_t;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>kráľovská berla; pren. kráľovská moc</trd>,
+    <trd>vláda</trd>,
+    <trd>žezlo</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: sceptr.xml,v $
+Revision 1.21  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.19  2013/09/01 18:10:10  revo
 Carlos Garcia: +trd es -o
 

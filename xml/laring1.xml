@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: laring1.xml,v 1.16 2013/10/09 19:11:26 revo Exp $">
+<art mrk="$Id: laring1.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
 <kap>
   <rad>laringit</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -37,13 +37,31 @@
     <trd>laryngitis</trd>,
     <trd>g&eacute;gegyullad&aacute;s</trd>
   </trdgrp>
+  <trd lng="id">laringitis</trd>
   <trd lng="nl">keelontsteking</trd>
   <trd lng="pt">laringite</trd>
   <trd lng="ru">&c_l;&c_a;&c_r;&c_i;&c_n;&c_g;&c_i;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>laryngitída</trd>,
+    <trd>zápal hrtanu</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>laryngitida</trd>,
+    <trd>zánět hrtanu</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: laring1.xml,v $
+Revision 1.19  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/11/18 20:10:44  revo
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.16  2013/10/09 19:11:26  revo
 Wolfram Diestel: ref al lst malsanoj
 
@@ -63,8 +81,5 @@ Revision 1.11 2003/05/02 16:30:44 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.10 2002/09/14 18:52:04 revo
-Ulrich Fellmann: + 2 trd de
-
-Revision 1.9 2002/08/23 17:31:01 revo
 -->
 </vortaro>

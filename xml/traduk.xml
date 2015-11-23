@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: traduk.xml,v 1.23 2014/07/10 09:10:20 revo Exp $">
+<art mrk="$Id: traduk.xml,v 1.25 2015/07/04 08:37:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>traduk</rad>/i
@@ -36,11 +36,12 @@
   <trd
   lng="be">&c_p;&c_je;&c_r;&c_a;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">traduir</trd>
+  <trd lng="cs">překládat</trd>
   <trd lng="de">&uuml;bersetzen</trd>
   <trd lng="en">translate</trd>
   <trd lng="es">traducir</trd>
   <trd lng="fr">traduire</trd>
-  <trd lng="hu">ford&iacute;t</trd>  
+  <trd lng="hu">ford&iacute;t</trd>
   <trd lng="nl">vertalen</trd>
   <trdgrp lng="pl">
     <trd>t&lstroke;umaczy&cacute;</trd>,
@@ -50,6 +51,11 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prekladať</trd>,
+    <trd>preložiť</trd>,
+    <trd>tlmočiť <klr>(z inej reči)</klr></trd>
   </trdgrp>
 </drv>
 
@@ -76,9 +82,18 @@
     </trdgrp>
   </snc>
   <trd lng="ca">traducci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>překl.</trd>,
+    <trd>přel. <klr>(překlad, přeložil, přeložený)</klr></trd>
+  </trdgrp>
   <trd lng="es">traducci&oacute;n</trd>
   <trd lng="fr">traduction</trd>
-  <trd lng="hu">ford&iacute;t&aacute;s</trd>  
+  <trd lng="hu">ford&iacute;t&aacute;s</trd>
+  <trdgrp lng="sk">
+    <trd>preklad</trd>,
+    <trd>preložený</trd>,
+    <trd>preložil</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="traduk.0ado">
@@ -93,17 +108,19 @@
   </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_k;&c_l;&c_a;&c_d;</trd>
   <trd lng="ca">traducci&oacute;<klr> (acci&oacute; de traduir)</klr></trd>
+  <trd lng="cs">překládání</trd>
   <trd lng="de">&Uuml;bersetzen</trd>
   <trd lng="es">traducci&oacute;n<klr> (proceso)</klr></trd>
   <trd lng="fr">traduction<klr> (processus)</klr></trd>
   <trd lng="hu">ford&iacute;t&aacute;s <klr
-  tip="ind">(folyamat)</klr></trd>  
+  tip="ind">(folyamat)</klr></trd>
   <trd lng="nl">het <ind>vertalen</ind></trd>
   <trdgrp lng="pl">
     <trd>przek&lstroke;ad<klr> (j&eogonek;zykowy)</klr></trd>,
     <trd>t&lstroke;umaczenie</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;</trd>
+  <trd lng="sk">prekladanie</trd>
 </drv>
 
 <drv mrk="traduk.0ajxo">
@@ -149,6 +166,10 @@
     <trd>&c_k;&c_a;&c_m;&c_p;&c_ib;&c_l;&c_ja;&c_t;&c_a;&c_r;</trd>
   </trdgrp>
   <trd lng="ca">compilador</trd>
+  <trdgrp lng="cs">
+    <trd>kompilátor</trd>,
+    <trd>překladač z vyššího jazyka</trd>
+  </trdgrp>
   <trd lng="de">&Uuml;bersetzungsprogramm</trd>
   <trdgrp lng="en">
     <trd>translator</trd>,
@@ -158,7 +179,7 @@
     <trd>aparato traductor</trd>,
     <trd>compilador <klr>(inform&aacute;tica)</klr></trd>
   </trdgrp>
-  <trd lng="hu">ford&iacute;t&oacute;program</trd>  
+  <trd lng="hu">ford&iacute;t&oacute;program</trd>
   <trd lng="nl">vertaalprogramma</trd>
   <trdgrp lng="pl">
     <trd>translator</trd>,
@@ -169,6 +190,7 @@
     <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>,
     <trd>&c_k;&c_o;&c_m;&c_p;&c_i;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
   </trdgrp>
+  <trd lng="sk">kompilátor</trd>
 </drv>
 
 <drv mrk="traduk.0tempa">
@@ -206,6 +228,12 @@
 </art>
 <!--
 $Log: traduk.xml,v $
+Revision 1.25  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.23  2014/07/10 09:10:20  revo
 Damien Brucker: +ekz
 

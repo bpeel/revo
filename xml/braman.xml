@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: braman.xml,v 1.13 2013/09/22 19:11:18 revo Exp $">
+<art mrk="$Id: braman.xml,v 1.16 2015/07/04 08:37:31 revo Exp $">
   <kap>
     <ofc>2</ofc>
     <rad>braman</rad>/o
@@ -30,7 +30,9 @@
     <trd lng="ru">&c_b;&c_r;&c_a;&c_m;&c_i;&c_n;</trd>
     <trd lng="sk">brahman</trd>
   </snc>
-  </drv>
+  <trd lng="cs">bráhman</trd>
+  <trd lng="es">brahm&aacute;n</trd>
+</drv>
   
   <drv mrk="braman.0ismo">
     <kap><tld/>ismo</kap>
@@ -52,10 +54,22 @@
       <trd lng="ru">&c_b;&c_r;&c_a;&c_m;&c_a;&c_n;&c_i;&c_z;&c_m;</trd>
       <trd lng="sk">brahmanizmus</trd>
     </snc>
-  </drv>
+  <trd lng="cs">bráhmanství</trd>
+  <trd lng="es">brahmanismo</trd>
+  <trd lng="sk">brahmanstvo</trd>
+</drv>
 </art>
 <!--
 $Log: braman.xml,v $
+Revision 1.16  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2015/04/18 03:10:17  revo
+Carlos Garcia: +trd es -o -ismo
+
 Revision 1.13  2013/09/22 19:11:18  revo
 Wolfram Diestel: referenco al religioj
 
@@ -75,8 +89,5 @@ Revision 1.8  2003/01/24 17:31:08  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.7  2002/09/10 17:33:24  revo
-Viliam Bur: +trd sk
-
-Revision 1.6  2001/02/18 17:12:26  revo
 -->
 </vortaro>
