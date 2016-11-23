@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-   <art mrk="$Id: kvazau.xml,v 1.20 2016/06/03 20:10:30 revo Exp $">
+   <art mrk="$Id: kvazau.xml,v 1.21 2016/11/12 14:10:14 revo Exp $">
      <kap>
        <ofc>*</ofc>
        <rad>kvaza&ubreve;</rad>
@@ -234,6 +234,10 @@
            <trd>as though</trd>
          </trdgrp>
          <trd lng="it">come se</trd>
+         <trdgrp lng="zh">
+           <trd>&#22909;&#20687;</trd>
+           <trd>&#20284;&#20046;</trd>
+         </trdgrp>
        </drv>
      </subart>
 
@@ -429,6 +433,9 @@ evoluskalon de la
    </art>
    <!--
    $Log: kvazau.xml,v $
+   Revision 1.21  2016/11/12 14:10:14  revo
+   Darcy Shen: +trd zh
+
    Revision 1.20  2016/06/03 20:10:30  revo
    Omar Belingheri: +trd en,it
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: adres.xml,v 1.42 2015/10/27 14:10:15 revo Exp $">
+<art mrk="$Id: adres.xml,v 1.43 2016/11/14 14:10:27 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>adres</rad>/o
@@ -378,6 +378,7 @@ pri tiaj vortoj ni povas
        <trd><ind>indirizzo</ind> di posta elettronica</trd>
      </trdgrp>
      <trd lng="nl">mailadres</trd>
+     <trd lng="pl">adres sieciowy</trd>
      <trd lng="pt">endere&ccedil;o eletr&ocirc;nico</trd>
      <trdgrp lng="ru">
        <trd>&c_s;&c_je;&c_t;&c_je;&c_v;&c_o;&c_j;
@@ -401,6 +402,9 @@ pri tiaj vortoj ni povas
 </art>
 <!--
 $Log: adres.xml,v $
+Revision 1.43  2016/11/14 14:10:27  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.42  2015/10/27 14:10:15  revo
 Sebastian Cyprych: +trd pl
 
@@ -420,8 +424,5 @@ Revision 1.37  2014/06/23 02:10:23  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.36  2011/10/05 16:10:15  revo
-Antonio Codazzi: ++trd it
-
-Revision 1.35  2008/09/20 07:22:02  revo
 -->
 </vortaro>

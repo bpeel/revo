@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxia.xml,v 1.18 2015/10/10 13:10:15 revo Exp $">
+<art mrk="$Id: cxia.xml,v 1.19 2016/11/12 13:10:26 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>&ccirc;ia</rad></kap>
@@ -98,10 +98,18 @@
   </trdgrp>
   <trd lng="ru">&c_v;&c_o; &c_v;&c_s;&c_ja;&c_k;&c_o;&c_m;
   &c_s;&c_l;&c_u;&c_ch;&c_a;&c_je;</trd>
+  <trdgrp lng="zh">
+    <trd>&#26080;&#35770;&#22914;&#20309;</trd>
+    <trd>&#24635;&#20043;</trd>
+    <trd>&#19981;&#31649;&#24590;&#26679;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: cxia.xml,v $
+Revision 1.19  2016/11/12 13:10:26  revo
+Darcy Shen: +trd zh
+
 Revision 1.18  2015/10/10 13:10:15  revo
 Evandro Avellar: +trd pt
 
@@ -121,8 +129,5 @@ Revision 1.13  2003/12/08 17:31:40  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.12  2003/03/26 17:30:49  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11  2002/10/23 20:37:59  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sordid.xml,v 1.4 2015/09/16 14:10:20 revo Exp $">
+<art mrk="$Id: sordid.xml,v 1.5 2016/11/15 08:10:13 revo Exp $">
 <kap>
   <rad>sordid</rad>/a <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -34,6 +34,10 @@
     <trd>&scaron;pinav&yacute;</trd>
   </trdgrp>
   <trd lng="fr">sordide</trd>
+  <trdgrp lng="pl">
+    <trd>brudny</trd>,
+    <trd>niechlujny</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>podl&yacute;</trd>,
     <trd>uf&uacute;&lcaron;an&yacute;</trd>,
@@ -44,6 +48,9 @@
 
 <!--
 $Log: sordid.xml,v $
+Revision 1.5  2016/11/15 08:10:13  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.4  2015/09/16 14:10:20  revo
 Cindy Moon McKee: +trd en
 

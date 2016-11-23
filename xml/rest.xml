@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: rest.xml,v 1.36 2016/05/13 11:10:19 revo Exp $">
+  <art mrk="$Id: rest.xml,v 1.37 2016/11/13 00:10:15 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>rest</rad>/i <fnt><bib>PV</bib></fnt>
@@ -256,6 +256,8 @@
         <trd>marad&eacute;k</trd>,
         <trd>maradv&aacute;ny</trd>
       </trdgrp>
+      <trd lng="nl">rest</trd>
+      <trd lng="no">rest</trd>
       <trd lng="ru">&c_o;&c_s;&c_t;&c_a;&c_t;&c_o;&c_k;</trd>
       <trdgrp lng="sk">
         <trd>ostatok</trd>,
@@ -548,6 +550,9 @@
   </art>
   <!--
   $Log: rest.xml,v $
+  Revision 1.37  2016/11/13 00:10:15  revo
+  Filip van Laenen: +trd nl, nl
+
   Revision 1.36  2016/05/13 11:10:19  revo
   Sergio Pokrovskij: +ref-tip
 

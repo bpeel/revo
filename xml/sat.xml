@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sat.xml,v 1.29 2015/08/20 20:10:16 revo Exp $">
+<art mrk="$Id: sat.xml,v 1.30 2016/11/13 08:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sat</rad>/a <fnt><bib>PV</bib></fnt>
@@ -285,6 +285,7 @@
     <trd>ma&tcaron; hlad</trd>
   </trdgrp>
   <trd lng="sv">hungra</trd>
+  <trd lng="zh">&#39295;</trd>
 </drv>
 
 <drv mrk="sat.ne0igebla">
@@ -352,6 +353,9 @@
 </art>
 <!--
 $Log: sat.xml,v $
+Revision 1.30  2016/11/13 08:10:24  revo
+Darcy Shen: + trd zh
+
 Revision 1.29  2015/08/20 20:10:16  revo
 Jeromo Vasxe: vulupto -> volupto
 
@@ -371,8 +375,5 @@ Revision 1.24  2009/12/09 17:30:44  revo
 Jeromo Vasxe: - sup d -> fnt millidge
 
 Revision 1.23  2009/11/12 17:30:19  revo
-Jeromo Vasxe: + gxis~e
-
-Revision 1.22  2009/10/03 16:30:37  revo
 -->
 </vortaro>

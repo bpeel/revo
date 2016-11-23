@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nerv.xml,v 1.23 2015/07/04 08:37:40 revo Exp $">
+<art mrk="$Id: nerv.xml,v 1.24 2016/11/12 14:10:15 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>nerv</rad>/o <fnt><bib>PV</bib></fnt>
@@ -22,7 +22,7 @@
   <trd lng="br">nervenn</trd>
   <trdgrp lng="cs">
     <trd>nerv</trd>,
-    <trd>čiv</trd>
+    <trd>&ccaron;iv</trd>
   </trdgrp>
   <trd lng="de">Nerv</trd>
   <trd lng="el">&ny;&epsilon;&ypsilon_ton;&rho;&omikron;</trd>
@@ -37,6 +37,7 @@
   <trd lng="ru">&c_n;&c_je;&c_r;&c_v;</trd>
   <trd lng="sk">nerv</trd>
   <trd lng="sv">nerv</trd>
+  <trd lng="zh">&#31070;&#32463;</trd>
 </drv>
 
 <drv mrk="nerv.0a">
@@ -128,18 +129,21 @@
     </ekz>
   </snc>
   <trdgrp lng="cs">
-    <trd>nervózní</trd>,
-    <trd>popudlivý</trd>
+    <trd>nerv&oacute;zn&iacute;</trd>,
+    <trd>popudliv&yacute;</trd>
   </trdgrp>
   <trd lng="fr">nerveux</trd>
   <trdgrp lng="sk">
-    <trd>nervózny</trd>,
-    <trd>popudlivý</trd>
+    <trd>nerv&oacute;zny</trd>,
+    <trd>popudliv&yacute;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: nerv.xml,v $
+Revision 1.24  2016/11/12 14:10:15  revo
+Darcy Shen: +trd zh
+
 Revision 1.23  2015/07/04 08:37:40  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -159,14 +163,5 @@ Revision 1.18  2007/02/26 17:30:27  revo
 Jeromo Vasxe: + ~aro
 
 Revision 1.17  2005/06/12 16:31:18  revo
-Alan ar Gall: +trd br
-
-Revision 1.16  2005/03/16 18:17:16  revo
-Vito Redsky: +trd pl
-
-Revision 1.15  2004/02/19 18:50:06  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14  2002/06/08 17:31:52  revo
 -->
 </vortaro>

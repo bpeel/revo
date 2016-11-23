@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pas.xml,v 1.29 2015/10/05 13:10:14 revo Exp $">
+<art mrk="$Id: pas.xml,v 1.30 2016/11/15 11:10:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pas</rad>/i
@@ -752,11 +752,18 @@ dan&gcirc;eron<fnt>Z</fnt>.
   <trd lng="fr">passe-temps</trd>
   <trd lng="hu">id&odblac;t&ouml;lt&eacute;s</trd>
   <trd lng="nl">tijdverdrijf</trd>
+  <trdgrp lng="pl">
+    <trd>wype&lstroke;niacz <ind>czasu</ind></trd>,
+    <trd>zabijacz <ind>czasu</ind></trd>
+  </trdgrp>
   <trd lng="ru">&c_v;&c_r;&c_je;&c_m;&c_ja;&c_p;&c_r;&c_je;&c_p;&c_r;&c_o;&c_v;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
 </drv>
 </art>
 <!--
 $Log: pas.xml,v $
+Revision 1.30  2016/11/15 11:10:44  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.29  2015/10/05 13:10:14  revo
 Sergio Pokrovskij: +ekz
 
@@ -776,8 +783,5 @@ Revision 1.24  2014/09/13 12:10:13  revo
 Norbert Luckhardt: +tra DE
 
 Revision 1.23  2014/06/06 09:10:12  revo
-Sergio Pokrovskij: +tr, +ark
-
-Revision 1.22  2011/03/07 15:10:09  revo
 -->
 </vortaro>

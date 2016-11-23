@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flug.xml,v 1.43 2016/06/03 20:10:28 revo Exp $">
+<art mrk="$Id: flug.xml,v 1.44 2016/11/13 00:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>flug</rad>/i <fnt><bib>PV</bib></fnt>
@@ -189,6 +189,7 @@
   <trd lng="it">volo</trd>
   <trd lng="nl">vlucht</trd>
   <trd lng="pl">lot</trd>
+  <trd lng="ro">zbor</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_jo;&c_t;</trd>
   <trd lng="sk">let</trd>
 </drv>
@@ -212,6 +213,7 @@
           disvolvi la <tld/>ilojn<fnt>Z</fnt>.
         </ekz>
       </dif>
+      <trd lng="ro">arip&abreve;</trd>
     </subsnc>
     <subsnc mrk="flug.0ilo.avia">
       <uzo tip="fak">AVI</uzo>
@@ -224,6 +226,7 @@
       <refgrp tip="vid">
         <ref cel="sxveb">&scirc;vebilo</ref>
       </refgrp>
+      <trd lng="ro">palet&abreve;</trd>
     </subsnc>
   </snc>
   <snc mrk="flug.0ilo.POE">
@@ -704,6 +707,9 @@
 </art>
 <!--
 $Log: flug.xml,v $
+Revision 1.44  2016/11/13 00:10:19  revo
+Carlos Garcia: +trd ro -o -il
+
 Revision 1.43  2016/06/03 20:10:28  revo
 Omar Belingheri: +trd it
 
@@ -723,8 +729,5 @@ Revision 1.38  2014/06/09 16:10:40  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.37  2013/09/01 13:10:27  revo
-Wolfram Diestel: ret~iluloj: referenco al listo zoo ordoj
-
-Revision 1.36  2013/04/30 01:10:09  revo
 -->
 </vortaro>

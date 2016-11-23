@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
  
 <vortaro>
-  <art mrk="$Id: lakt.xml,v 1.35 2016/08/01 11:10:18 revo Exp $">
+  <art mrk="$Id: lakt.xml,v 1.36 2016/11/13 17:10:17 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>lakt</rad>/o <fnt><bib>PV</bib></fnt>
@@ -66,7 +66,8 @@
   <trd lng="id">susu</trd>
   <trd lng="nl">melk</trd>
   <trd lng="pt">leite</trd>
-  <trd lng="ru">&c_m;&c_o;&c_l;&c_o;&c_k;&c_o;</trd>
+  <trd lng="ro">lapte</trd>
+      <trd lng="ru">&c_m;&c_o;&c_l;&c_o;&c_k;&c_o;</trd>
   <trd lng="sk">mlieko</trd>
   <trd lng="sv">mj&ouml;lk</trd>
   <trd lng="tr">s&uuml;t</trd>
@@ -168,6 +169,7 @@
       <trd lng="nl">Melkweg</trd>
       <trd lng="pl">droga mleczna</trd>
       <trd lng="pt">Via L&aacute;ctea</trd>
+      <trd lng="ro">calea Lactee</trd>
       <trd lng="ru">&c_M;&c_l;&c_je;&c_ch;&c_n;&c_y;&c_j;
       &c_P;&c_u;&c_t;&c_mol;</trd>
       <trd lng="tr">Samanyolu</trd>
@@ -252,6 +254,9 @@
   </art>
   <!--
   $Log: lakt.xml,v $
+  Revision 1.36  2016/11/13 17:10:17  revo
+  Carlos Garcia: +trd ro
+
   Revision 1.35  2016/08/01 11:10:18  revo
   Damien Brucker: -eraro cxe cel en ref
 
