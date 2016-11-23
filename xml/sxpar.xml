@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: sxpar.xml,v 1.32 2015/12/31 23:10:18 revo Exp $">
+<art mrk="$Id: sxpar.xml,v 1.33 2016/11/07 14:10:21 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>&scirc;par</rad>/i <fnt><bib>PV</bib></fnt>
@@ -126,6 +126,7 @@
     <trd>&eacute;conomies<klr> (&eacute;pargne)</klr></trd>,
     <trd>&eacute;pargne</trd>
   </trdgrp>
+  <trd lng="pl">oszcz&eogonek;dno&sacute;ci</trd>
 </drv>
 
 <drv mrk="sxpar.0ema">
@@ -330,6 +331,9 @@ vmit&odblac;l)</klr></trd>
 </art>
 <!--
 $Log: sxpar.xml,v $
+Revision 1.33  2016/11/07 14:10:21  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.32  2015/12/31 23:10:18  revo
 Jeromo Vasxe: + ~ajxo
 
@@ -349,8 +353,5 @@ Revision 1.27  2011/01/25 11:10:09  revo
 Russ Williams: +trd en
 
 Revision 1.26  2010/10/30 16:30:30  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.25  2009/09/02 16:30:40  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: o.xml,v 1.7 2013/12/17 21:10:11 revo Exp $">
+<art mrk="$Id: o.xml,v 1.8 2016/11/09 21:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>-<rad>o</rad>
 </kap>
@@ -36,12 +36,22 @@
       <trd>-t&auml;t</trd>,
       <trd>-<klr> [neniu deviga sufikso]</klr></trd>
     </trdgrp>
+    <trd lng="en">suffix for <ind>nouns</ind> in Esperanto</trd>
+    <trd lng="fy">efterheaksel foar <ind>haadwurden</ind> yn it
+    Esperanto</trd>
+    <trd lng="io">-o</trd>
+    <trd lng="nl">achtervoegsel voor <ind>zelfstandige naamwoorden</ind>
+    in het Esperanto</trd>
     <trd lng="pt">termina&ccedil;&atilde;o dos <ind>substantivos</ind> em
-  Esperanto</trd>    <trd lng="vo">-</trd>
+    Esperanto</trd>
+    <trd lng="vo">-</trd>
 </drv>
 </art>
 <!--
 $Log: o.xml,v $
+Revision 1.8  2016/11/09 21:10:20  revo
+Erik van Bom: +trd: en,fy,io,nl
+
 Revision 1.7  2013/12/17 21:10:11  revo
 Damien Brucker: +fak
 
@@ -61,7 +71,5 @@ Revision 1.2 2003/04/21 16:35:25 revo
 Ulrich Fellmann: + 2 pliaj trd de + ald de <klr>
 
 Revision 1.1 2003/03/16 19:29:27 revo
-Ulrich Fellmann: nova artikolo
-
 -->
 </vortaro>
