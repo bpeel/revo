@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fris1.xml,v 1.12 2015/07/04 08:37:34 revo Exp $">
+<art mrk="$Id: fris1.xml,v 1.14 2016/11/20 13:10:13 revo Exp $">
 <kap>
 <rad>fris</rad>/o
 </kap>
@@ -19,15 +19,22 @@
   <trd lng="de">Friese</trd>
   <trd lng="en">Frisian</trd>
   <trd lng="fr">Frison</trd>
+  <trd lng="fy">Fries</trd>
+  <trdgrp lng="io">
+    <trd>Frisiano</trd>,
+    <trd>Friso</trd>
+  </trdgrp>
   <trd lng="nl">Fries</trd>
   <trdgrp lng="pt">
     <trd>fr&iacute;sio</trd>,
     <trd>fris&atilde;o</trd>
   </trdgrp>
   <trd lng="ru">&c_f;&c_r;&c_i;&c_z;</trd>
-   <trd lng="sk">vlys</trd>
+  <trd lng="sk">vlys</trd>
+  <trd lng="vo">Fris&auml;nan</trd>
   <trdgrp lng="cs">
-    <trd>obrubnice ,, malované proužky představující na scéně strop nebo nebe</trd>,
+    <trd>obrubnice ,, malovan&eacute; prou&zcaron;ky p&rcaron;edstavuj&iacute;c&iacute; na sc&eacute;n&ecaron; strop nebo
+    nebe</trd>,
     <trd>vlys</trd>
   </trdgrp>
 </drv>
@@ -43,8 +50,14 @@
   <trd lng="de">friesisch</trd>
   <trd lng="en">Frisian</trd>
   <trd lng="fr">frison</trd>
+  <trd lng="fy">Frysk</trd>
+  <trdgrp lng="io">
+    <trd>Frisiana</trd>,
+    <trd>Frisa</trd>
+  </trdgrp>
   <trd lng="nl">Fries</trd>
   <trd lng="ru">&c_f;&c_r;&c_i;&c_z;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="vo">Fris&auml;nik</trd>
 </drv>
 
 <drv mrk="fris1.F0ujo">
@@ -69,17 +82,24 @@
   </snc>
   <ref tip="sin" cel="frisi.F0o">Frisio</ref>
   <trd lng="be">&c_F;&c_r;&c_y;&c_z;&c_ib;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>Fr&iacute;zsko</trd>,
+    <trd>Fr&iacute;sko</trd>
+  </trdgrp>
   <trd lng="da">Frisland</trd>
   <trd lng="de">Friesland</trd>
-  <trd lng="cs">Fr&iacute;zsko</trd>
   <trd lng="en">Frisia</trd>
   <trd lng="es">Frisia</trd>
   <trd lng="fr">Frise</trd>
+  <trd lng="fy">Frysl&acirc;n</trd>
+  <trd lng="io">Frisia</trd>
   <trd lng="it">Frisia</trd>
   <trd lng="nl">Friesland</trd>
   <trd lng="pl">Fryzja</trd>
   <trd lng="pt">Fr&iacute;sia</trd>
   <trd lng="ru">&c_F;&c_r;&c_i;&c_z;&c_i;&c_ja;</trd>
+  <trd lng="sk">Fr&iacute;sko</trd>
+  <trd lng="vo">Fris&auml;n</trd>
   </drv>
 
   <drv mrk="fris1.F0lando">
@@ -97,22 +117,35 @@
     </dif>
   </snc>
   <trd lng="be">&c_F;&c_r;&c_y;&c_z;&c_ib;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>Fr&iacute;zsko</trd>,
+    <trd>Fr&iacute;sko</trd>
+  </trdgrp>
   <trd lng="da">Frisland</trd>
   <trd lng="de">Friesland</trd>
-  <trd lng="cs">Fr&iacute;zsko</trd>
   <trd lng="en">Frisia</trd>
   <trd lng="es">Frisia</trd>
   <trd lng="fr">Frise</trd>
+  <trd lng="fy">Frysl&acirc;n</trd>
+  <trd lng="io">Frisia</trd>
   <trd lng="it">Frisia</trd>
   <trd lng="nl">Friesland</trd>
   <trd lng="pl">Fryzja</trd>
   <trd lng="pt">Fr&iacute;sia</trd>
   <trd lng="ru">&c_F;&c_r;&c_i;&c_z;&c_i;&c_ja;</trd>
+  <trd lng="sk">Fr&iacute;sko</trd>
+  <trd lng="vo">Fris&auml;n</trd>
   </drv>
 </art>
 
 <!--
 $Log: fris1.xml,v $
+Revision 1.14  2016/11/20 13:10:13  revo
+Robin van der Vliet: +trd cs
+
+Revision 1.13  2016/11/20 02:10:14  revo
+Robin van der Vliet: +trd fy, io, sk, vo
+
 Revision 1.12  2015/07/04 08:37:34  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -129,17 +162,5 @@ Revision 1.8  2009/10/30 17:30:32  revo
 Paul Peeraerts: +nl
 
 Revision 1.7  2007/06/13 16:32:08  revo
-Tulio Flores: +tr pt
-
-Revision 1.6  2005/05/27 16:31:18  revo
-Yury Finkel: +trd ru
-
-Revision 1.5  2004/01/04 17:33:17  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.4  2002/07/07 17:32:49  revo
-Ulrich Fellmann: + 2 pliaj trd de
-
-Revision 1.3  2001/09/27 18:17:08  revo
 -->
 </vortaro>

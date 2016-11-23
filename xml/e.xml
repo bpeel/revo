@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: e.xml,v 1.4 2015/12/05 21:10:20 revo Exp $">
+<art mrk="$Id: e.xml,v 1.5 2016/11/20 01:10:22 revo Exp $">
 <kap>
     <ofc>*</ofc>-<rad>e</rad>
 </kap>
@@ -25,13 +25,23 @@
       ke mi iru!<fnt>Z</fnt>; estas varme<fnt>Z</fnt></ekz>.
     </dif>
   </snc>
+  <trd lng="en">suffix for <ind>adverbs</ind> in Esperanto</trd>
   <trd lng="fr">-ment<klr> (terminaison d'adverbe)</klr></trd>
+  <trd lng="fy">efterheaksel foar <ind>bywurden</ind> yn it
+  Esperanto</trd>
+  <trd lng="io">-e</trd>
+  <trd lng="nl">achtervoegsel voor <ind>bijwoorden</ind> in het
+  Esperanto</trd>
   <trd lng="pt">termina&ccedil;&atilde;o dos adv&eacute;rbios derivados</trd>
+  <trd lng="vo">-iko</trd>
 </drv>
 </art>
 
 <!--
 $Log: e.xml,v $
+Revision 1.5  2016/11/20 01:10:22  revo
+Robin van der Vliet: +trd en, fy, io, nl, vo
+
 Revision 1.4  2015/12/05 21:10:20  revo
 Evandro Avellar: +trd pt
 

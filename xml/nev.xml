@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nev.xml,v 1.27 2015/10/26 06:10:15 revo Exp $">
+<art mrk="$Id: nev.xml,v 1.29 2016/11/20 21:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nev</rad>/o
@@ -16,6 +16,7 @@
       frato.
     </dif>
     <trd lng="pl">bratanek</trd>
+    <trd lng="vo">blodason</trd>
   </snc>
   <snc mrk="nev.0o.fratina">
     <dif>
@@ -23,6 +24,7 @@
       fratino.
     </dif>
     <trd lng="pl">siostrzeniec</trd>
+    <trd lng="vo">s&ouml;rason</trd>
   </snc>
   <trd lng="be">&c_p;&c_l;&c_ja;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>
   <trd lng="bg">&c_p;&c_l;&c_je;&c_m;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>
@@ -37,9 +39,11 @@
     <trd>&a_b;&a_r;&a_A;&a_d;&a_r;&a_z;&a_A;&a_d;&a_h;</trd>
   </trdgrp>
   <trd lng="fr">neveu</trd>
+  <trd lng="fy">neef</trd>
   <trd lng="he">&alef;&het;&yod;&yod;&fnun;</trd>
   <trd lng="hu">unoka&ouml;ccs</trd>
-  <trd lng="nl">neef<klr tip="ind"> (zoon v. broer of zus)</klr></trd>
+  <trd lng="io">nevulo</trd>
+  <trd lng="nl">neef<klr tip="ind"> (zoon van broer of zus)</klr></trd>
   <trd lng="pt">sobrinho</trd>
   <trd lng="ru">&c_p;&c_l;&c_je;&c_m;&c_ja;&c_n;&c_n;&c_i;&c_k;</trd>
   <trd lng="sk">synovec</trd>
@@ -49,6 +53,7 @@
     <trd>systerson</trd>
   </trdgrp>
   <trd lng="tr">erkek ye&gbreve;en</trd>
+  <trd lng="vo">hinef</trd>
 </drv>
 
 <drv mrk="nev.0ino">
@@ -60,6 +65,7 @@
       frato.
     </dif>
     <trd lng="pl">bratanica</trd>
+    <trd lng="vo">blodadaut</trd>
   </snc>
   <snc>
     <dif>
@@ -67,6 +73,7 @@
       fratino.
     </dif>
     <trd lng="pl">siostrzenica</trd>
+    <trd lng="vo">s&ouml;radaut</trd>
   </snc>
   <trd lng="be">&c_p;&c_l;&c_ja;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_c;&c_a;</trd>
   <trd lng="bg">&c_p;&c_l;&c_je;&c_m;&c_je;&c_n;&c_n;&c_i;&c_c;&c_a;</trd>
@@ -74,10 +81,14 @@
   <trd lng="cs">nete&rcaron;</trd>
   <trd lng="de">Nichte</trd>
   <trd lng="en">niece</trd>
+  <trd lng="es">sobrina</trd>
   <trd lng="fr">ni&egrave;ce</trd>
+  <trd lng="fy">nicht</trd>
   <trd lng="hu">unokah&uacute;g</trd>
-  <trd lng="nl">nicht<klr tip="ind"> (dochter v. broer of
+  <trd lng="io">nevino</trd>
+  <trd lng="nl">nicht<klr tip="ind"> (dochter van broer of
   zus)</klr></trd>
+  <trd lng="pt">sobrinha</trd>
   <trd lng="ru">&c_p;&c_l;&c_je;&c_m;&c_ja;&c_n;&c_n;&c_i;&c_c;&c_a;</trd>
   <trd lng="sk">neter</trd>
   <trdgrp lng="sv">
@@ -86,11 +97,18 @@
     <trd>systerdotter</trd>
   </trdgrp>
   <trd lng="tr">k&inodot;z ye&gbreve;en</trd>
+  <trd lng="vo">jinef</trd>
 </drv>
 
 </art>
 <!--
 $Log: nev.xml,v $
+Revision 1.29  2016/11/20 21:10:14  revo
+Robin van der Vliet: +trd fy, vo
+
+Revision 1.28  2016/11/19 23:10:18  revo
+Robin van der Vliet: +trd es, io, pt, vo
+
 Revision 1.27  2015/10/26 06:10:15  revo
 Sebastian Cyprych: +divido de difino al du sencoj +trd pl
 
@@ -107,11 +125,5 @@ Revision 1.23  2009/10/15 16:31:31  revo
 Paul Peeraerts: +nl
 
 Revision 1.22  2009/09/10 16:31:55  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.21  2009/08/27 16:33:50  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.20  2009/06/16 16:31:18  revo
 -->
 </vortaro>

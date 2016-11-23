@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: i1.xml,v 1.4 2016/10/26 13:10:14 revo Exp $">
+<art mrk="$Id: i1.xml,v 1.5 2016/11/20 01:10:21 revo Exp $">
 <kap>
     <ofc>*</ofc>-<rad>i</rad>
 </kap>
@@ -22,11 +22,16 @@
     <ref cel="i.0.sufikso">-<tld/>/<klr> (&scirc;ajna sufikso)</klr></ref>
   </refgrp>
   <trd lng="fr"><klr>(infinitif de verbes)</klr></trd>
+  <trd lng="io">-ar</trd>
+  <trd lng="vo">-&ouml;n</trd>
 </drv>
 </art>
 
 <!--
 $Log: i1.xml,v $
+Revision 1.5  2016/11/20 01:10:21  revo
+Robin van der Vliet: +trd io, vo
+
 Revision 1.4  2016/10/26 13:10:14  revo
 Damien Brucker: +precizigo cxe ref
 

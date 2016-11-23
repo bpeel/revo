@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: icx.xml,v 1.5 2008/07/18 13:15:01 revo Exp $">
+<art mrk="$Id: icx.xml,v 1.6 2016/11/19 19:10:14 revo Exp $">
 <kap>
   -<rad>i&ccirc;</rad>
 </kap>
@@ -64,7 +64,9 @@
       de Bertilo Wennergren. 
     </rim>
     </snc>
+    <trd lng="io">-ul</trd>
     <trd lng="pt">-macho</trd>
+    <trd lng="vo">hi-</trd>
   </drv>
 </subart>
 
@@ -92,12 +94,30 @@
       </ekz> 
     </dif>
     </snc>
+    <trdgrp lng="de">
+      <trd>M&auml;nnchen</trd>,
+      <trd>Mann</trd>
+    </trdgrp>
+    <trd lng="en">male</trd>
+    <trdgrp lng="fr">
+      <trd>homme</trd>,
+      <trd>m&acirc;le<klr tip="ind"> (subst.)</klr></trd>
+    </trdgrp>
+    <trd lng="io">maskulo</trd>
+    <trdgrp lng="nl">
+      <trd>man</trd>,
+      <trd>mannetje</trd>
+    </trdgrp>
+    <trd lng="tp">mije</trd>
   </drv>
 </subart>
 </art>
 
 <!--
 $Log: icx.xml,v $
+Revision 1.6  2016/11/19 19:10:14  revo
+Robin van der Vliet: +trd de, en, fr, io, tp, vo
+
 Revision 1.5  2008/07/18 13:15:01  revo
 Sebastian Cyprych: sen-utf8-igita
 

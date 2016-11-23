@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: av.xml,v 1.37 2015/09/29 12:10:13 revo Exp $">
+<art mrk="$Id: av.xml,v 1.39 2016/11/20 21:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>av</rad>/o <fnt><bib>PV</bib></fnt>
@@ -10,15 +10,25 @@
 
 <drv mrk="av.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <snc mrk="av.0o.GEN">
-    <uzo tip="fak">GEN</uzo>
+  <uzo tip="fak">GEN</uzo>
+  <snc mrk="av.0o.patra">
     <dif>
       <ref tip="lst" cel="patr.0o" lst="voko:parencoj">Patro</ref> de
-      patro a&ubreve; patrino:
+      patro:
+    </dif>
+    <trd lng="sv">farfar</trd>
+    <trd lng="vo">fatafat</trd>
+  </snc>
+  <snc mrk="av.0o.patrina">
+    <dif>
+      <ref tip="lst" cel="patr.0o" lst="voko:parencoj">Patro</ref> de
+      patrino:
       <ekz>
         patrinflanka <tld/>o<fnt>Z</fnt>.
       </ekz>
     </dif>
+    <trd lng="sv">morfar</trd>
+    <trd lng="vo">motafat</trd>
   </snc>
   <trd lng="be">&c_d;&c_z;&c_je;&c_d;</trd>
   <trd lng="bg">&c_d;&c_ja;&c_d;&c_o;</trd>
@@ -41,18 +51,23 @@
   <trd lng="es">abuelo</trd>
   <trd lng="eu">aitite</trd>
   <trd lng="fr">grand-p&egrave;re</trd>
+  <trd lng="fy">pake</trd>
   <trdgrp lng="he">
     <trd>&samekh;&bet;</trd>,
     <trd>&samekh;&bet;&alef;</trd>
   </trdgrp>
   <trd lng="hu">nagyapa</trd>
   <trd lng="id">kakek</trd>
+  <trd lng="io">avulo</trd>
   <trd lng="it">nonno</trd>
   <trdgrp lng="ja">
     <trd>&#31062;&#29238; [<ind>&#12381;&#12405;</ind>]</trd>,
     <trd>&#12362;&#12376;&#12356;&#12373;&#12435;</trd>
   </trdgrp>
-  <trd lng="nl">grootvader</trd>
+  <trdgrp lng="nl">
+    <trd>grootvader</trd>,
+    <trd>opa</trd>
+  </trdgrp>
   <trd lng="no">bestefar</trd>
   <trd lng="pt">av&ocirc;</trd>
   <trdgrp lng="ru">
@@ -63,25 +78,40 @@
     <trd>star&yacute; otec</trd>,
     <trd>dedko</trd>
   </trdgrp>
+  <trd lng="tp">mama mama mije</trd>
   <trdgrp lng="tr">
     <trd>dede</trd>,
     <trd>b&uuml;y&uuml;k baba</trd>
+  </trdgrp>
+  <trdgrp lng="vo">
+    <trd>lefat</trd>,
+    <trd>hilepal</trd>
   </trdgrp>
 </drv>
 
 <drv mrk="av.0ino">
   <kap><tld/>ino</kap>
-  <snc mrk="av.0ino.GEN">
-    <uzo tip="fak">GEN</uzo>
+  <uzo tip="fak">GEN</uzo>
+  <snc mrk="av.0ino.patra">
     <dif>
       <ref tip="lst" cel="patr.0ino" lst="voko:parencoj">Patrino</ref>
-      de patro a&ubreve; patrino:
+      de patro:
       <ekz>
         vi &gcirc;uos intimon kaj apogon &ccirc;e la <tld/>ino
         <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 3a, volumo 1a, p.
         33a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="sv">farmor</trd>
+    <trd lng="vo">fatamot</trd>
+  </snc>
+  <snc mrk="av.0ino.patrina">
+    <dif>
+      <ref tip="lst" cel="patr.0ino" lst="voko:parencoj">Patrino</ref>
+      de patrino:
+    </dif>
+    <trd lng="sv">mormor</trd>
+    <trd lng="vo">motamot</trd>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_b;&c_k;&c_a;</trd>
   <trd lng="bg">&c_b;&c_a;&c_b;&c_a;</trd>
@@ -103,24 +133,35 @@
   <trd lng="es">abuela</trd>
   <trd lng="eu">amama</trd>
   <trd lng="fr">grand-m&egrave;re</trd>
+  <trd lng="fy">beppe</trd>
   <trd lng="he">&samekh;&bet;&tav;&alef;</trd>
   <trd lng="hu">nagyanya</trd>
   <trd lng="id">nenek</trd>
+  <trd lng="io">avino</trd>
   <trd lng="it">nonna</trd>
   <trdgrp lng="ja">
     <trd>&#31062;&#27597; [<ind>&#12381;&#12412;</ind>]</trd>,
     <trd>&#12362;&#12400;&#12354;&#12373;&#12435;</trd>
   </trdgrp>
-  <trd lng="nl">grootmoeder</trd>
+  <trdgrp lng="nl">
+    <trd>grootmoeder</trd>,
+    <trd>oma</trd>
+  </trdgrp>
   <trd lng="no">bestemor</trd>
+  <trd lng="pt">av&oacute;</trd>
   <trd lng="ru">&c_b;&c_a;&c_b;&c_u;&c_sh;&c_k;&c_a;</trd>
   <trdgrp lng="sk">
     <trd>star&aacute; mama</trd>,
     <trd>babka</trd>
   </trdgrp>
+  <trd lng="tp">mama mama meli</trd>
   <trdgrp lng="tr">
     <trd>nine</trd>,
     <trd>b&uuml;y&uuml;k anne</trd>
+  </trdgrp>
+  <trdgrp lng="vo">
+    <trd>lemot</trd>,
+    <trd>jilepal</trd>
   </trdgrp>
 </drv>
 
@@ -154,6 +195,7 @@
   <trd lng="fr">arri&egrave;re-grand-p&egrave;re</trd>
   <trd lng="he">&samekh;&bet;&alef; &resh;&bet;&alef;</trd>
   <trd lng="hu">d&eacute;dapa</trd>
+  <trd lng="io">preavulo</trd>
   <trdgrp lng="it">
     <trd>bisnonno</trd>, <trd>bisavo</trd>, <trd>bisavolo</trd>
   </trdgrp>
@@ -167,6 +209,10 @@
   <trdgrp lng="sk">
     <trd>praded</trd>,
     <trd>pradedko</trd>
+  </trdgrp>
+  <trdgrp lng="vo">
+    <trd>lelefat</trd>,
+    <trd>hilelepal</trd>
   </trdgrp>
 </drv>
 
@@ -198,6 +244,7 @@
   <trd lng="fr">arri&egrave;re-grand-m&egrave;re</trd>
   <trd lng="he">&samekh;&bet;&tav;&alef; &resh;&bet;&tav;&alef;</trd>
   <trd lng="hu">d&eacute;danya</trd>
+  <trd lng="io">preavino</trd>
   <trdgrp lng="it">
     <trd>bisnonna</trd>, <trd>bisava</trd>, <trd>bisavola</trd>
   </trdgrp>
@@ -209,6 +256,10 @@
   <trd lng="no">oldemor</trd>
   <trd lng="ru">&c_p;&c_r;&c_a;&c_b;&c_a;&c_b;&c_u;&c_sh;&c_k;&c_a;</trd>
   <trd lng="sk">prababka</trd>
+  <trdgrp lng="vo">
+    <trd>lelemot</trd>,
+    <trd>jilelepal</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="av.pra0ismo">
@@ -227,6 +278,7 @@
   </snc>
   <trd lng="be">&c_a;&c_t;&c_a;&c_v;&c_ib;&c_z;&c_m;</trd>
   <trd lng="ca">atavisme</trd>
+  <trd lng="cs">atavizmus</trd>
   <trd lng="de">Atavismus</trd>
   <trd lng="en">atavism</trd>
   <trd lng="es">atavismo</trd>
@@ -235,14 +287,22 @@
     <trd>atavizmus</trd>,
     <trd>vissza&uuml;t&eacute;s</trd>
   </trdgrp>
+  <trd lng="io">atavismo</trd>
   <trd lng="it">atavismo</trd>
   <trd lng="nl">atavisme</trd>
   <trd lng="no">atavisme</trd>
   <trd lng="ru">&c_a;&c_t;&c_a;&c_v;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">atavizmus</trd>
 </drv>
 </art>
 <!--
 $Log: av.xml,v $
+Revision 1.39  2016/11/20 21:10:16  revo
+Robin van der Vliet: Disigis patro/patrino, +trd io, sv, tp, vo
+
+Revision 1.38  2016/11/19 18:10:16  revo
+Robin van der Vliet: +trd fy, io, nl, pt, vo
+
 Revision 1.37  2015/09/29 12:10:13  revo
 Evandro Avellar: +trd pt
 
@@ -259,11 +319,5 @@ Revision 1.33  2014/05/31 16:10:19  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.32  2014/02/11 11:10:11  revo
-Carlos Garcia: trd+ es pra-o pra-ino
-
-Revision 1.31  2013/09/08 11:10:19  revo
-Wolfram Diestel: ref-oj al listo parencoj
-
-Revision 1.30  2012/09/23 11:10:08  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: morgau.xml,v 1.31 2016/01/26 14:10:19 revo Exp $">
+<art mrk="$Id: morgau.xml,v 1.32 2016/11/16 10:10:17 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>morga&ubreve;</rad>
@@ -84,6 +84,7 @@ t&ocirc;t</trd>
      <trd>huomis-</trd>
    </trdgrp>
    <trd lng="fr">de <ind>demain</ind></trd>
+   <trd lng="pl">jutrzejszy</trd>
 </drv>
 
 <drv mrk="morgau.0o">
@@ -108,6 +109,7 @@ t&ocirc;t</trd>
      <trd>lendemain</trd>,
      <trd>jour suivant</trd>
    </trdgrp>
+   <trd lng="pl">nazajutrz</trd>
    <trd lng="pt">o <ind>amanh&atilde;</ind></trd>
    <trdgrp lng="ru">
      <trd>&c_z;&c_a;&c_v;&c_t;&c_r;&c_a;&c_sh;&c_n;&c_i;&c_j;
@@ -153,6 +155,9 @@ lng="ru">&c_p;&c_o;&c_s;&c_l;&c_je;&c_z;&c_a;&c_v;&c_t;&c_r;&c_a;</trd>
 <!--
 
 $Log: morgau.xml,v $
+Revision 1.32  2016/11/16 10:10:17  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.31  2016/01/26 14:10:19  revo
 Cindy Moon McKee: +trd en
 
@@ -172,9 +177,6 @@ Revision 1.26  2009/08/18 19:18:19  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.25  2007/07/24 19:12:07  revo
-Harri Laine: +trd fi
-
-Revision 1.24  2006/08/10 19:45:10  revo
 -->
 
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nep.xml,v 1.32 2015/07/04 08:37:40 revo Exp $">
+<art mrk="$Id: nep.xml,v 1.33 2016/11/19 23:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nep</rad>/o
@@ -29,14 +29,14 @@
   <trd lng="br">mab-bihan</trd>
   <trd lng="cs">vnuk</trd>
   <trd lng="de">Enkel</trd>
-  <trd lng="el">
-  &epsilon;&gamma;&gamma;&omikron;&ny;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="el">&epsilon;&gamma;&gamma;&omikron;&ny;&omikron_ton;&sigma_fina;</trd>
   <trd lng="en">grandson</trd>
   <trd lng="es">nieto</trd>
   <trd lng="fr">petit-fils</trd>
   <trd lng="he">&nun;&kaf;&dalet;</trd>
   <trd lng="hu">unoka</trd>
   <trd lng="id">cucu</trd>
+  <trd lng="io">nepotulo</trd>
   <trd lng="nl">kleinzoon</trd>
   <trd lng="pl">wnuk</trd>
   <trd lng="pt">neto</trd>
@@ -48,6 +48,7 @@
     <trd>dotterson</trd>
   </trdgrp>
   <trd lng="tr">erkek torun</trd>
+  <trd lng="vo">posson</trd>
 </drv>
 
 <drv mrk="nep.0ino">
@@ -66,23 +67,25 @@
   </snc>
   <trd lng="be">&c_u;&c_n;&c_u;&c_ch;&c_k;&c_a;</trd>
   <trd lng="br">merc'h-vihan</trd>
-  <trd lng="cs">vnučka</trd>
+  <trd lng="cs">vnu&ccaron;ka</trd>
   <trd lng="de">Enkelin</trd>
   <trd lng="en">granddaughter</trd>
   <trd lng="es">nieta</trd>
   <trd lng="fr">petite-fille</trd>
   <trd lng="id">cucu</trd>
+  <trd lng="io">nepotino</trd>
   <trd lng="nl">kleindochter</trd>
   <trd lng="pl">wnuczka</trd>
   <trd lng="pt">neta</trd>
   <trd lng="ru">&c_v;&c_n;&c_u;&c_ch;&c_k;&c_a;</trd>
-  <trd lng="sk">vnučka</trd>
+  <trd lng="sk">vnu&ccaron;ka</trd>
   <trdgrp lng="sv">
     <trd>barnbarn<klr> (flicka)</klr></trd>,
     <trd>sondotter</trd>,
     <trd>dotterdotter</trd>
   </trdgrp>
   <trd lng="tr">k&inodot;z torun</trd>
+  <trd lng="vo">posdaut</trd>
 </drv>
 
 <drv mrk="nep.pra0opost0o">
@@ -103,14 +106,14 @@
   <trd lng="br">mab-ku&ntilde;v</trd>
   <trd lng="cs">pravnuk</trd>
   <trd lng="de">Urenkel</trd>
-  <trd
-  lng="el">&delta;&jota;&sigma;&epsilon_ton;&gamma;&gamma;&omikron;&ny;&omikron;&sigma_fina;</trd>
+  <trd lng="el">&delta;&jota;&sigma;&epsilon_ton;&gamma;&gamma;&omikron;&ny;&omikron;&sigma_fina;</trd>
   <trd lng="en">great-grandson</trd>
   <trd lng="es">bisnieto</trd>
   <trd lng="fr">arri&egrave;re-petit-fils</trd>
   <trd lng="he">&nun;&yod;&fnun;</trd>
   <trd lng="hu">d&eacute;dunoka</trd>
   <trd lng="id">cicit</trd>
+  <trd lng="io">posnepotulo</trd>
   <trd lng="nl">achterkleinzoon</trd>
   <trd lng="pl">prawnuk</trd>
   <trd lng="pt">bisneto</trd>
@@ -120,6 +123,7 @@
     <trd>barnbarnsbarn<klr> (pojke)</klr></trd>,
     <trd>barnbarnsson</trd>
   </trdgrp>
+  <trd lng="vo">posposson</trd>
 </drv>
 
 <drv mrk="nep.pra0opost0ino">
@@ -131,20 +135,28 @@
       <tld/>o a&ubreve; <tld/>ino.
     </dif>
   </snc>
-  <trd lng="cs">pravnučka</trd>
+  <trd lng="cs">pravnu&ccaron;ka</trd>
+  <trd lng="de">Urenkelin</trd>
+  <trd lng="en">great-granddaughter</trd>
   <trd lng="es">bisnieta</trd>
   <trd lng="id">cicit</trd>
+  <trd lng="io">posnepotino</trd>
   <trd lng="nl">achterkleindochter</trd>
   <trd lng="pl">prawnuczka</trd>
-  <trd lng="sk">pravnučka</trd>
+  <trd lng="pt">bisneta</trd>
+  <trd lng="sk">pravnu&ccaron;ka</trd>
   <trdgrp lng="sv">
     <trd>barnbarnsbarn<klr> (flicka)</klr></trd>,
     <trd>barnbarnsdotter</trd>
   </trdgrp>
+  <trd lng="vo">posposdaut</trd>
 </drv>
 </art>
 <!--
 $Log: nep.xml,v $
+Revision 1.33  2016/11/19 23:10:19  revo
+Robin van der Vliet: +trd de, en, io, pt, vo
+
 Revision 1.32  2015/07/04 08:37:40  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -164,14 +176,5 @@ Revision 1.27  2012/10/23 00:13:07  revo
 Neil Roberts: aldonu la etikedon <var>
 
 Revision 1.26  2009/10/08 16:30:41  revo
-Paul Peeraerts: +nl
-
-Revision 1.25  2009/09/10 16:31:53  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.24  2009/08/27 16:33:49  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.23  2009/01/27 17:30:30  revo
 -->
 </vortaro>

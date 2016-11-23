@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: format.xml,v 1.18 2015/07/04 08:37:34 revo Exp $">
+<art mrk="$Id: format.xml,v 1.19 2016/11/20 09:10:13 revo Exp $">
 <kap><ofc>1</ofc>
 <rad>format</rad>/o</kap>
 <drv mrk="format.0o">
@@ -76,20 +76,24 @@
     <trd>&c_r;&c_a;&c_z;&c_m;&c_je;&c_r;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>formát</trd>,
+    <trd>form&aacute;t</trd>,
     <trd>rozmer</trd>,
     <trd>tvar</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>formát</trd>,
-    <trd>rozměr</trd>,
+    <trd>form&aacute;t</trd>,
+    <trd>rozm&ecaron;r</trd>,
     <trd>tvar</trd>,
     <trd>velikost</trd>
   </trdgrp>
+  <trd lng="zh">&#26684;&#24335;</trd>
 </drv>
 </art>
 <!--
 $Log: format.xml,v $
+Revision 1.19  2016/11/20 09:10:13  revo
+Darcy Shen: + trd zh
+
 Revision 1.18  2015/07/04 08:37:34  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -109,14 +113,5 @@ Revision 1.13  2006/06/05 16:40:36  revo
 Jeromo Vasxe: + snc komp
 
 Revision 1.12  2004/01/04 17:31:56  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2003/10/01 16:30:53  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2002/12/16 17:31:21  revo
-Paul Peeraerts: ald trd nl + belarangho
-
-Revision 1..9 2002/07/02 17:33:31 revo
 -->
 </vortaro>

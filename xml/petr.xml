@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: petr.xml,v 1.4 2015/02/22 21:10:15 revo Exp $">
+<art mrk="$Id: petr.xml,v 1.5 2016/11/16 20:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>Petr</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -26,6 +26,11 @@
     <trd lng="de">Peter</trd>
     <trd lng="en">Peter</trd>
     <trd lng="fr">Pierre<klr> (pr&eacute;nom)</klr></trd>
+    <trdgrp lng="nl">
+      <trd>Pieter</trd>,
+      <trd>Peter</trd>
+    </trdgrp>
+    <trd lng="no">Petter</trd>
     <trd lng="pl">Piotr</trd>
   </snc>
 </drv>
@@ -33,6 +38,9 @@
 
 <!--
 $Log: petr.xml,v $
+Revision 1.5  2016/11/16 20:10:12  revo
+Filip van Laenen: +trd nl, no
+
 Revision 1.4  2015/02/22 21:10:15  revo
 Wolfram Diestel: ~o: listo persnom; trd de, en
 
