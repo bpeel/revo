@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: seps.xml,v 1.14 2016/02/21 08:10:16 revo Exp $">
+<art mrk="$Id: seps.xml,v 1.15 2016/11/04 08:10:13 revo Exp $">
 <kap>
   <rad>seps</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -24,6 +24,8 @@
   </snc>
   <trd lng="de">Sepsis</trd>
   <trd lng="fr">sepsis</trd>
+  <trd lng="la">Sepsis</trd>
+  <trd lng="pl">sepsa</trd>
 </drv>
 
 <drv mrk="seps.0a">
@@ -70,6 +72,9 @@
 </art>
 <!--
 $Log: seps.xml,v $
+Revision 1.15  2016/11/04 08:10:13  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.14  2016/02/21 08:10:16  revo
 Damien Brucker: + trd fr
 
@@ -89,8 +94,5 @@ Revision 1.9  2012/01/05 16:10:27  revo
 Marc Rausell: +trd ca (kor)
 
 Revision 1.8  2004/10/08 16:31:40  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.7  2002/12/20 17:33:08  revo
 -->
 </vortaro>
