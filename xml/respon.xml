@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: respon.xml,v 1.32 2015/07/04 08:37:42 revo Exp $">
+<art mrk="$Id: respon.xml,v 1.35 2016/09/27 09:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>respond</rad>/i
@@ -57,6 +57,7 @@
     <trd lng="de">erwidern</trd>
     <trd lng="hu">viszonoz</trd>
     <trd lng="nl">beantwoorden</trd>
+    <trd lng="pl">odpowiada&cacute;</trd>
     <trdgrp lng="ru">
       <trd>&c_o;&c_t;&c_v;&c_je;&c_t;&c_i;&c_t;&c_mol;</trd>,
       <trd>&c_o;&c_t;&c_v;&c_je;&c_ch;&c_a;&c_t;&c_mol;</trd>
@@ -85,19 +86,21 @@
     <trd lng="fr">correspondre</trd>
     <trd lng="hu">megfelel</trd>
     <trd lng="nl">beantwoorden</trd>
+    <trdgrp lng="pl">
+      <trd>odpowiada&cacute;</trd>,
+      <trd>pasowa&cacute;</trd>
+    </trdgrp>
     <trd lng="ru">&c_s;&c_o;&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
   <snc mrk="respon.0i.responsi">
     <uzo tip="stl">ARK</uzo>
-    <dif>
-      = <ref tip="dif" cel="respons.0i">Responsi</ref>:
+      <ref tip="dif" cel="respons.0i">responsi</ref>
       <ekz>
         ni ne <tld/>as por la konvinkoj nek agoj de li<fnt>Z</fnt>;
       </ekz>
       <ekz>
         ni ne <tld/>as pri la enhavo de la reklamoj.
       </ekz>
-    </dif>
     <trdgrp lng="be">
       <trd>&c_a;&c_d;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_n;&c_je;&c_s;&c_mol;&c_c;&c_ib; &c_a;&c_d;&c_k;&c_a;&c_z;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
@@ -109,6 +112,10 @@
       <trd>felel&odblac;s</trd>
     </trdgrp>
     <trd lng="nl">verantwoordelijk zijn</trd>
+    <trdgrp lng="pl">
+      <trd>odpowiada&cacute;</trd>,
+      <trd>by&cacute; <ind>odpowiedzialnym</ind></trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_o;&c_t;&c_v;&c_je;&c_ch;&c_a;&c_t;&c_mol;<klr tip="amb"> (&c_z;&c_a;
       &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>,
@@ -119,8 +126,8 @@
   <trdgrp lng="cs">
     <trd>odepsat</trd>,
     <trd>odpov&ecaron;d&ecaron;t</trd>,
-    <trd>odpovídat</trd>,
-    <trd>odpovědět</trd>,
+    <trd>odpov&iacute;dat</trd>,
+    <trd>odpov&ecaron;d&ecaron;t</trd>,
     <trd>vztahovat se</trd>
   </trdgrp>
   <trd lng="en">answer</trd>
@@ -131,8 +138,8 @@
   <trd lng="fr"><ind>r&eacute;pondre</ind> (&agrave;)</trd>
   <trd lng="pt">responder</trd>
   <trdgrp lng="sk">
-    <trd>odpovedať</trd>,
-    <trd>odpísať</trd>
+    <trd>odpoveda&tcaron;</trd>,
+    <trd>odp&iacute;sa&tcaron;</trd>
   </trdgrp>
   <trd lng="vo">lebl&uuml;d&ouml;n</trd>
 </drv>
@@ -171,6 +178,8 @@
     <trd>v&aacute;lasz</trd>
   </trdgrp>
   <trd lng="nl">antwoord</trd>
+  <trd lng="pl">odpowied&zacute;</trd>
+  <trd lng="pt">resposta</trd>
   <trd lng="ru">&c_o;&c_t;&c_v;&c_je;&c_t;</trd>
   <trdgrp lng="sk">
     <trd>odozva</trd>,
@@ -252,12 +261,12 @@
     (&c_u;&c_g;&c_o;&c_l;)</klr></trd>
   </snc>
   <trdgrp lng="cs">
-    <trd>odpovídající</trd>,
-    <trd>odpovědní</trd>
+    <trd>odpov&iacute;daj&iacute;c&iacute;</trd>,
+    <trd>odpov&ecaron;dn&iacute;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>zodpovedajúci</trd>,
-    <trd>zodpovedný</trd>
+    <trd>zodpovedaj&uacute;ci</trd>,
+    <trd>zodpovedn&yacute;</trd>
   </trdgrp>
 </drv>
 
@@ -275,8 +284,7 @@
     <trd lng="ru">&c_s;&c_o;&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
   </snc>
   <snc mrk="respon.0eco.responso">
-    <dif>
-      = <ref tip="dif" cel="respons.0o">Responso</ref>:
+      <ref tip="dif" cel="respons.0o">responso</ref>
       <ekz>
         mi prenas sur min la tutan <tld/>econ;
       </ekz>
@@ -287,7 +295,6 @@
       <ekz>
         malakcepti la <tld/>econ pri io
       </ekz>
-    </dif>
     <refgrp tip="vid">
       <ref cel="lav.0i">lavi</ref>.
     </refgrp>
@@ -312,11 +319,11 @@
   </snc>
   <trdgrp lng="cs">
     <trd>korespondence</trd>,
-    <trd>vzájemný vztah</trd>
+    <trd>vz&aacute;jemn&yacute; vztah</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>korešpondencia</trd>,
-    <trd>vzájomný vzťah</trd>
+    <trd>kore&scaron;pondencia</trd>,
+    <trd>vz&aacute;jomn&yacute; vz&tcaron;ah</trd>
   </trdgrp>
 </drv>
 
@@ -333,6 +340,10 @@
     <trd lng="en">answering machine</trd>
     <trd lng="fr">r&eacute;pondeur</trd>
     <trd lng="nl">antwoordapparaat</trd>
+    <trdgrp lng="pl">
+      <trd>automatyczna sekretarka</trd>,
+      <trd>poczta g&lstroke;osowa</trd>
+    </trdgrp>
   </snc>
   <snc>
     <dif>
@@ -349,6 +360,7 @@
       <trd>elektronisch <ind>antwoordapparaat</ind></trd>,
       <trd>voicemail</trd>
     </trdgrp>
+    <trd lng="pl">poczta g&lstroke;osowa</trd>
   </snc>
   <trd lng="ru">&c_a;&c_v;&c_t;&c_o;&c_o;&c_t;&c_v;&c_je;&c_t;&c_ch;&c_i;&c_k;</trd>
 </drv>
@@ -357,9 +369,7 @@
   <kap>pri<tld/>i, <var><kap><tld/>eci</kap></var>,
   <var><kap><tld/>umi</kap></var></kap>
   <snc>
-    <dif>
-      = <ref tip="dif" cel="respons.0i">Responsi</ref>.
-    </dif>
+    <ref tip="dif" cel="respons.0i">responsi</ref>
     <refgrp tip="vid">
       <ref cel="kacx.0o.konfuzo">ka&ccirc;o<sncref/></ref>,
       <ref cel="kas.0o">kaso</ref>,
@@ -370,6 +380,15 @@
 </art>
 <!--
 $Log: respon.xml,v $
+Revision 1.35  2016/09/27 09:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.34  2016/09/17 12:10:13  revo
+Evandro Avellar: traduko al portugala ~o
+
+Revision 1.33  2016/08/08 08:10:29  revo
+Damien Brucker: -eraro cxe ref
+
 Revision 1.32  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -383,20 +402,5 @@ Revision 1.29  2014/05/23 07:10:17  revo
 Damien Brucker: +ekz
 
 Revision 1.28  2012/10/23 00:13:35  revo
-Neil Roberts: aldonu la etikedon <var>
-
-Revision 1.27  2010/07/15 16:30:19  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.26  2009/02/11 19:43:47  revo
-Wieland Pusch: +trd bg
-
-Revision 1.25  2006/02/20 17:33:36  revo
-Tulio Flores: +trd pt
-
-Revision 1.24  2005/08/28 16:31:10  revo
-Wieland Pusch: +trd bg
-
-Revision 1.23  2005/04/12 16:32:47  revo
 -->
 </vortaro>

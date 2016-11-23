@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nub.xml,v 1.27 2015/10/03 16:10:15 revo Exp $">
+<art mrk="$Id: nub.xml,v 1.28 2016/09/06 09:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nub</rad>/o <fnt><bib>PV</bib></fnt>
@@ -21,6 +21,7 @@
         la en<tld/>a luno<fnt>Z</fnt>
       </ekz>
     </dif>
+    <trd lng="ro">nor</trd>
   </snc>
   <snc mrk="nub.0o.FIG.malklara">
     <uzo tip="stl">FIG</uzo>
@@ -233,6 +234,9 @@
 </art>
 <!--
 $Log: nub.xml,v $
+Revision 1.28  2016/09/06 09:10:15  revo
+Carlos Garcia: +trd es
+
 Revision 1.27  2015/10/03 16:10:15  revo
 Jeromo Vasxe: memstar. sen~a
 
@@ -252,8 +256,5 @@ Revision 1.22  2011/12/06 13:10:20  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.21  2010/04/20 16:30:23  revo
-Russ Williams: +trd en
-
-Revision 1.20  2008/07/29 16:30:27  revo
 -->
 </vortaro>

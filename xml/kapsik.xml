@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kapsik.xml,v 1.26 2015/07/04 08:37:36 revo Exp $">
+<art mrk="$Id: kapsik.xml,v 1.27 2016/08/31 10:10:14 revo Exp $">
 <kap>
   <ofc>9</ofc> <rad>kapsik</rad>/o <fnt>Z</fnt> 
   <fnt><bib>PV</bib></fnt>
@@ -27,6 +27,10 @@
       <trd>pebrotera</trd>,
       <trd>pebrer</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>pimentera</trd>,
+      <trd>capsicum</trd>
+    </trdgrp>
   </snc>
   <snc mrk="kapsik.0o.KUI">
     <uzo tip="fak">KUI</uzo>
@@ -49,11 +53,15 @@
       <trd>pebrot</trd>,
       <trd>pebrera</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>pimiento</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_c; <klr>(&c_s;&c_t;&c_r;&c_u;&c_ch;&c_k;&c_o;&c_v;&c_y;)</klr></trd>
-  <trd lng="cs">paprika roční</trd>
+  <trd lng="cs">paprika ro&ccaron;n&iacute;</trd>
   <trd lng="de">Paprika</trd>
   <trd lng="en">pepper</trd>
+  <trd lng="es">pimiento</trd>
   <trd lng="fr">poivron</trd>
   <trd lng="hu">paprika</trd>
   <trd lng="nl">paprika</trd>
@@ -89,6 +97,7 @@
     <trd>chili</trd>,
     <trd>chilli</trd>
   </trdgrp>
+  <trd lng="es">chile</trd>
   <trd lng="fr">piment</trd>
   <trdgrp lng="nl">
     <trd>lombok</trd>,
@@ -99,6 +108,9 @@
 </art>
 <!--
 $Log: kapsik.xml,v $
+Revision 1.27  2016/08/31 10:10:14  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.26  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -118,14 +130,5 @@ Revision 1.21  2012/09/01 18:10:15  revo
 Marc Rausell: + trd ca
 
 Revision 1.20  2009/08/27 16:31:55  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.19  2009/08/23 16:33:53  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.18  2008/01/20 17:30:19  revo
-Jeromo Vasxe: + snc en ~eto, reordig. trd fr
-
-Revision 1.17 2008/01/18 17:30:18 revo
 -->
 </vortaro>

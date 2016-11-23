@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arb.xml,v 1.55 2015/07/31 08:10:17 revo Exp $">
+<art mrk="$Id: arb.xml,v 1.56 2016/09/05 22:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>arb</rad>/o <fnt><bib>PV</bib></fnt>
@@ -230,6 +230,7 @@
     <trd>chojniak</trd>,
     <trd>olszynka</trd>
   </trdgrp>
+  <trd lng="ro">p&abreve;dure</trd>
   <trd lng="ru">&c_l;&c_je;&c_s;</trd>
   <trdgrp lng="sk">
     <trd>hora</trd>,
@@ -675,6 +676,9 @@
 </art>
 <!--
 $Log: arb.xml,v $
+Revision 1.56  2016/09/05 22:10:22  revo
+Carlos Garcia: +trd ro
+
 Revision 1.55  2015/07/31 08:10:17  revo
 Guillermo Molleda Jimena: trd es
 
@@ -694,8 +698,5 @@ Revision 1.50  2014/09/02 09:10:09  revo
 Guillermo Molleda Jimena: trd es
 
 Revision 1.49  2014/05/30 08:10:34  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.48  2014/04/01 19:10:20  revo
 -->
 </vortaro>

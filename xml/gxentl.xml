@@ -2,12 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gxentl.xml,v 1.15 2015/04/11 15:10:16 revo Exp $">
+<art mrk="$Id: gxentl.xml,v 1.16 2016/05/24 04:10:21 revo Exp $">
 <kap>
-  <rad>&gcirc;entleman</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+  <rad>&gcirc;entleman</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="gxentl.0o">
-  <kap><tld/>o</kap>
+      <kap><tld/>o, <var>
+          <kap>&gcirc;entelmeno</kap>
+        </var>
+      </kap>
   <snc mrk="gxentl.0o.MOR">
     <dif>
       Viro rimarkinda pro sia delikata &gcirc;entileco kaj elegantaj 
@@ -19,8 +22,15 @@
           <aut>E. de Zilah</aut>,
           <vrk>Vivi sur barko</vrk>,
           <lok>1994</lok>
-        </fnt>.
-      </ekz>
+        </fnt>;
+          </ekz><ekz>
+            Mi akceptas vian provokon kiel &gcirc;entelmeno
+            <fnt><bib>PatrojFiloj</bib>,
+              <lok>&Ccirc;ap. 24a (Tiel estas en la originala eldono de
+              1909; en postaj eldonoj misredaktita al
+              &#171;&gcirc;entilhomo&#187;).</lok>
+            </fnt>.
+          </ekz>
     </dif>
     <ref tip="vid" cel="gxenti.0homo">&gcirc;entilhomo</ref>
     <adm>
@@ -60,6 +70,9 @@
 </art>
 <!--
 $Log: gxentl.xml,v $
+Revision 1.16  2016/05/24 04:10:21  revo
+Sergio Pokrovskij: +var
+
 Revision 1.15  2015/04/11 15:10:16  revo
 Vito Redsky: trd pl
 
@@ -79,8 +92,5 @@ Revision 1.10  2002/07/09 17:34:57  revo
 Alejandro Mejia Greene: ald 1 his trd
 
 Revision 1.9  2002/05/07 16:33:20  revo
-Eduardo M. Kalinowski: ald , inter tradukoj
-
-Revision 1.8  2002/05/06 16:33:55  revo
 -->
 </vortaro>

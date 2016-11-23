@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klem.xml,v 1.5 2015/12/31 16:10:26 revo Exp $">
+<art mrk="$Id: klem.xml,v 1.6 2016/10/13 06:10:32 revo Exp $">
 <kap>
     <rad>klem</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,6 +27,10 @@
     <trd>connecteur</trd>,
     <trd>prise<klr> (&eacute;lectrique)</klr></trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zacisk</trd>,
+    <trd>klema</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>svorka</trd>,
     <trd>v&yacute;vod</trd>
@@ -36,6 +40,9 @@
 
 <!--
 $Log: klem.xml,v $
+Revision 1.6  2016/10/13 06:10:32  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.5  2015/12/31 16:10:26  revo
 Cindy Moon McKee: +trd en
 

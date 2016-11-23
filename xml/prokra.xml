@@ -2,24 +2,25 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prokra.xml,v 1.23 2016/01/11 21:10:16 revo Exp $">
+<art mrk="$Id: prokra.xml,v 1.27 2016/08/08 09:10:28 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>prokrast</rad>/i
+  <rad>prokrast</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="prokra.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="prokra.0i.KOMUNE">
     <dif>
       Transmeti al pli malfrua tempo agon, kies tujan plenumon oni
       rezignas:
       <ekz>
         la regno <tld/>is subskribi la traktaton;
       </ekz>
-      <ekz>ne <tld/>u &gcirc;is morga&ubreve;, kion vi povas fari 
-hodia&ubreve;
-<fnt><bib>PrV</bib></fnt>;</ekz>
+      <ekz>
+        ne <tld/>u &gcirc;is morga&ubreve;, kion vi povas fari 
+        hodia&ubreve;
+        <fnt><bib>PrV</bib></fnt>;</ekz>
       <ekz>
         lia varmege sopirata kaj longe <tld/>ata reveno;
       </ekz>
@@ -27,20 +28,17 @@ hodia&ubreve;
         la fondado de Ligo montri&gcirc;is tro frua kaj devis esti
         <tld/>ita<fnt>Z</fnt>;
       </ekz>
-      <ekz><tld/>ita ne estas perdita,
-<fnt><bib>PrV</bib></fnt></ekz>
       <ekz>
-        ne estas for&jcirc;etita<fnt>Z</fnt>;
-      </ekz>
+        <tld/>ita ne estas perdita,
+        <fnt><bib>PrV</bib></fnt></ekz>
       <ekz>
-        la katastrofo devis okazi, kaj ne estis plu <tld/>ebla.
+        ne estas for&jcirc;etita<fnt>Z</fnt>.
       </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_k;&c_l;&c_a;&c_d;&c_v;&c_a;&c_c;&c_mol;</trd>,
-    
-<trd>&c_a;&c_d;&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd>&c_a;&c_d;&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trdgrp lng="cs">
     <trd>odkl&aacute;dat</trd>,
@@ -53,7 +51,11 @@ hodia&ubreve;
   <trd lng="de">verz&ouml;gern</trd>
   <trd lng="en">procrastinate</trd>
   <trd lng="es">posponer</trd>
-  <trd lng="fr">procrastiner</trd>
+  <trdgrp lng="fr">
+    <trd>diff&eacute;rer<klr> (remettre &agrave; plus tard)</klr></trd>,
+    <trd>remettre &agrave; plus tard</trd>,
+    <trd>repousser<klr> (dans le temps)</klr></trd>
+  </trdgrp>
   <trdgrp lng="he">
     <trd>&lamed;&dalet;&het;&vav;&tav; /<ind>&dalet;&het;&he;</ind>/</trd>,
     <trd>&lamed;<ind>&ayin;&qof;&bet;</ind></trd>
@@ -95,27 +97,27 @@ hodia&ubreve;
 
 <drv mrk="prokra.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <snc mrk="prokra.0o.KOMUNE">
     <dif>
       Ago <tld/>i:
       <ekz>
         akcepti <tld/>on de sia proceso;
       </ekz>
       <ekz>
-        supera oficiro kondamnita al morto kun dujara <tld/>o.
+        supera oficiro kondamnita al morto kun dujara <tld/>o
         <fnt>
+          <bib>CRI</bib>,
           <aut>Yu Rongkang</aut>,
           <vrk><url
           ref="http://esperanto.cri.cn/581/2015/08/11/179s179061.htm">Eksa
           supera oficiro kondamnita al morto...</url></vrk>
-        </fnt>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_a;&c_t;&c_r;&c_y;&c_m;&c_k;&c_a;</trd>,
-    
-<trd>&c_a;&c_d;&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_o;&c_w;&c_k;&c_a;</trd>,
+    <trd>&c_a;&c_d;&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_o;&c_w;&c_k;&c_a;</trd>,
     <trd>&c_a;&c_d;&c_k;&c_l;&c_a;&c_d;</trd>
   </trdgrp>
   <trdgrp lng="cs">
@@ -130,7 +132,10 @@ hodia&ubreve;
   </trdgrp>
   <trd lng="de">Verz&ouml;gerung</trd>
   <trd lng="es">posposici&oacute;n</trd>
-  <trd lng="fr">procrastination</trd>
+  <trdgrp lng="fr">
+    <trd>report<klr> (&agrave; plus tard)</klr></trd>,
+    <trd>sursis</trd>
+  </trdgrp>
   <trdgrp lng="he">
     <trd>&dalet;&het;&yod;&he;</trd>,
     <trd>&ayin;&yod;&qof;&vav;&bet;</trd>
@@ -157,14 +162,32 @@ hodia&ubreve;
   </trdgrp>
 </drv>
 
+<drv mrk="prokra.0ebla">
+  <kap><tld/>ebla</kap>
+  <snc mrk="prokra.0ebla.KOMUNE">
+    <dif>
+      Kiun oni povas <tld/>i, portempe ne fari, ne okazigi:
+      <ekz>
+        la katastrofo devis okazi, kaj ne estis plu <tld/>ebla.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">reportable</trd>
+</drv>
+
 <drv mrk="prokra.sen0e">
   <kap>sen<tld/>e</kap>
-  <snc>
+  <snc mrk="prokra.sen0e.KOMUNE">
     <dif>
       Tuj:
       <ekz>
-        li sen<tld/>e haltigis la vagonaron por eviti
-        katastrofon<fnt>B</fnt>.
+        Jesuo do diris al li: kion vi faras tion faru sen<tld/>e
+        <fnt><bib>NT</bib>, <lok>&Joh; 13:27</lok></fnt>;
+      </ekz>
+      <ekz>
+        la kronprinco <klr>[...]</klr> sendis ordonon sen<tld/>e resendi
+        la virinojn en la urbon 
+        <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 1</lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -184,8 +207,7 @@ hodia&ubreve;
   <trd lng="hu">halad&eacute;ktalanul</trd>
   <trd lng="nl">onmiddellijk</trd>
   <trd lng="pl">bezzw&lstroke;ocznie</trd>
-  <trd
-lng="ru">&c_n;&c_je;&c_z;&c_a;&c_m;&c_je;&c_d;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;</trd>
+  <trd lng="ru">&c_n;&c_je;&c_z;&c_a;&c_m;&c_je;&c_d;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;</trd>
   <trdgrp lng="sk">
     <trd>bez prie&tcaron;ahov</trd>,
     <trd>bezodkladne</trd>,
@@ -195,6 +217,18 @@ lng="ru">&c_n;&c_je;&c_z;&c_a;&c_m;&c_je;&c_d;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;&
 </art>
 <!--
 $Log: prokra.xml,v $
+Revision 1.27  2016/08/08 09:10:28  revo
+Damien Brucker: +tra fr
+
+Revision 1.26  2016/07/25 22:10:24  revo
+Jeromo Vasxe: memstar ~ebla, + kk trd fr
+
+Revision 1.25  2016/05/06 22:10:20  revo
+Jeromo Vasxe: senp<tld/>e -> sen<tld/>e
+
+Revision 1.24  2016/02/20 17:10:15  revo
+Wolfram Diestel: ekz sen~e
+
 Revision 1.23  2016/01/11 21:10:16  revo
 Wolfram Diestel: precizigo de fontindiko
 
@@ -205,17 +239,5 @@ Revision 1.21  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.20  2015/06/29 16:40:19  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.19  2013/12/02 13:10:49  revo
-Damien Brucker: +trd fr
-
-Revision 1.18  2010/08/03 16:30:54  revo
-Agustin Garcia Lopez: +trd es (-o)
-
-Revision 1.17  2006/03/30 16:31:42  revo
-Tulio Flores: +tr pt
-
-Revision 1.16  2006/03/18 17:32:08  revo
 -->
 </vortaro>

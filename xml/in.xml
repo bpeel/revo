@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: in.xml,v 1.29 2015/11/21 19:12:28 revo Exp $">
+  <art mrk="$Id: in.xml,v 1.30 2016/08/20 17:10:39 revo Exp $">
     <kap>
       <ofc>*</ofc>
       -<rad>in</rad>/
@@ -38,6 +38,9 @@
           </ekz><ekz>
             virgul<tld/>o.
           </ekz>
+        <rim>
+      Vidu la <ref cel="sxi.0rim">rimarkon</ref> por &#171;&scirc;i&#187;.
+        </rim>
         </snc>
         <trd lng="de"><klr>-</klr>in</trd>
         <trdgrp lng="en">
@@ -194,6 +197,9 @@
   </art>
   <!--
   $Log: in.xml,v $
+  Revision 1.30  2016/08/20 17:10:39  revo
+  Damien Brucker: +rim
+
   Revision 1.29  2015/11/21 19:12:28  revo
   Cindy Moon McKee: +trd en
 

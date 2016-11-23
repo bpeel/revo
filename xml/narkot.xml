@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: narkot.xml,v 1.24 2015/11/24 14:10:22 revo Exp $">
+<art mrk="$Id: narkot.xml,v 1.25 2016/09/29 13:10:14 revo Exp $">
 <kap>
   <ofc>4</ofc> <rad>narkot</rad>/i <fnt>Z</fnt>
 </kap>
@@ -40,6 +40,10 @@
   <trdgrp lng="nl">
     <trd>onder <ind>narcose</ind> brengen</trd>,
     <trd>verdoven</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>bra&cacute; <ind>narkotyki</ind></trd>,
+    <trd>&cacute;pa&cacute;</trd>
   </trdgrp>
   <trd lng="pt">narcotizar</trd>
   <trdgrp lng="ru">
@@ -106,6 +110,7 @@
     <trd>drug</trd>,
     <trd>verdovend middel</trd>
   </trdgrp>
+  <trd lng="pl">narkotyk</trd>
   <trd lng="pt">narc&oacute;tico</trd>
   <trdgrp lng="ru">
     <trd>&c_n;&c_a;&c_r;&c_k;&c_o;&c_t;&c_i;&c_k;</trd>,
@@ -154,11 +159,18 @@
     <trd>junkie</trd>,
     <trd>drugsverslaafde</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>narkoman</trd>,
+    <trd>&cacute;pun</trd>
+  </trdgrp>
   <trd lng="ru">&c_n;&c_a;&c_r;&c_k;&c_o;&c_m;&c_a;&c_n;</trd>
 </drv>
 </art>
 <!--
 $Log: narkot.xml,v $
+Revision 1.25  2016/09/29 13:10:14  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.24  2015/11/24 14:10:22  revo
 Cindy Moon McKee: +trd en
 
@@ -178,8 +190,5 @@ Revision 1.19  2009/10/15 16:31:11  revo
 Paul Peeraerts: +nl
 
 Revision 1.18  2009/08/27 16:33:32  revo
-Russ Williams: +trd en
-
-Revision 1.17  2005/05/16 17:47:25  revo
 -->
 </vortaro>

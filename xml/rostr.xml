@@ -2,15 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rostr.xml,v 1.23 2015/07/04 08:37:43 revo Exp $">
+<art mrk="$Id: rostr.xml,v 1.25 2016/08/12 08:10:25 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rostr</rad>/o
 </kap>
 <drv mrk="rostr.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <uzo tip="fak">ZOO</uzo>
   <snc>
+  <uzo tip="fak">ZOO</uzo>
     <dif>
       Tre longa tubforma nazo de elefanto kaj de kelkaj mambestoj:
       <ekz>
@@ -38,12 +38,18 @@
     <trd lng="ru">&c_h;&c_o;&c_b;&c_o;&c_t;&c_o;&c_k;</trd>
   </snc>
   <trd lng="ca">trompa</trd>
-  <trd lng="cs">obrněná příď voj. lodi</trd>
+  <trd lng="cs">obrn&ecaron;n&aacute; p&rcaron;&iacute;&dcaron; voj.
+  lodi</trd>
   <trd lng="de">R&uuml;ssel</trd>
+  <trdgrp lng="es">
+    <trd>prob&oacute;scide</trd>,
+    <trd>trompa</trd>
+  </trdgrp>
   <trd lng="fr">trompe</trd>
   <trd lng="hu">sz&iacute;v&oacute;szerv</trd>
   <trd lng="nl">slurf</trd>
-  <trd lng="sk">obrnená predná časť vojenskej lode</trd>
+  <trd lng="sk">obrnen&aacute; predn&aacute; &ccaron;as&tcaron;
+  vojenskej lode</trd>
   <trd lng="tr">hortum</trd>
 </drv>
 
@@ -54,6 +60,7 @@
       Iu el <ref tip="malprt" cel="rostr.0uloj"><tld/>uloj</ref>.
     </dif>
   </snc>
+  <trd lng="es">probosc&iacute;deo</trd>
 </drv>
 
 <drv mrk="rostr.0uloj">
@@ -71,14 +78,23 @@
   </snc>
   <trd lng="ca">proboscidis</trd>
   <trd lng="de">R&uuml;sseltiere</trd>
+  <trd lng="es">probosc&iacute;deos</trd>
+  <trd lng="fr">Proboscidiens</trd>
   <trd lng="hu">orm&aacute;nyos <ind>eml&odblac;s&ouml;k</ind></trd>
   <trd lng="pl">tr&aogonek;bowce</trd>
-  <trd lng="ru">&c_h;&c_o;&c_b;&c_o;&c_t;&c_n;&c_y;&c_je; <klr tip="amb">(&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
+  <trd lng="ru">&c_h;&c_o;&c_b;&c_o;&c_t;&c_n;&c_y;&c_je; <klr
+  tip="amb">(&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
   <trd lng="tr">hortumlular</trd>
 </drv>
 </art>
 <!--
 $Log: rostr.xml,v $
+Revision 1.25  2016/08/12 08:10:25  revo
+Carlos Garcia: +trd es -o -ulo -uloj
+
+Revision 1.24  2016/08/09 08:10:43  revo
+Damien Brucker: +trd fr
+
 Revision 1.23  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -95,17 +111,5 @@ Revision 1.19  2013/10/19 15:10:17  revo
 Wolfram Diestel: kor. ref-tip
 
 Revision 1.18  2013/09/01 13:10:25  revo
-Wolfram Diestel: ~uloj: referenco al listo zoo ordoj
-
-Revision 1.17  2013/04/10 10:10:17  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.16  2012/01/02 13:10:30  revo
-Marc Rausell: +trd ca
-
-Revision 1.15  2006/02/24 17:33:00  revo
-Tulio Flores: +trd pt
-
-Revision 1.14  2004/05/25 16:34:34  revo
 -->
 </vortaro>

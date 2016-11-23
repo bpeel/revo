@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxanc.xml,v 1.26 2015/11/23 13:10:25 revo Exp $">
+<art mrk="$Id: sxanc.xml,v 1.28 2016/10/03 11:10:34 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>&scirc;anc</rad>/o <fnt><bib>PV</bib></fnt>
@@ -33,7 +33,7 @@
         <ind>bon<tld/>o</ind>;
         <trdgrp lng="he">
           <trd>&mem;&zayin;&lamed;</trd>,
-          <trd>&gimel;&dalet;</trd>
+          <trd>&#8503;&dalet;</trd>
         </trdgrp>
         <trd lng="nl">geluk</trd>
       </ekz>
@@ -41,7 +41,7 @@
         <ind>malbon<tld/>o</ind>.
         <trdgrp lng="he">
           <trd>&bet;&yod;&shin; &mem;&zayin;&lamed;</trd>,
-          <trd>&bet;&yod;&shin; &gimel;&dalet;</trd>
+          <trd>&bet;&yod;&shin; &#8503;&dalet;</trd>
         </trdgrp>
         <trdgrp lng="nl">
           <trd>ongeluk</trd>,
@@ -65,7 +65,8 @@
   <trdgrp lng="en"><trd>chance</trd>, <trd>luck</trd></trdgrp>
   <trdgrp lng="es">
     <trd>oportunidad</trd>,
-    <trd>suerte<klr> (en la expresi&oacute;n "Bonan &scirc;ancon!")</klr></trd>
+    <trd>suerte<klr> (en la expresi&oacute;n "Bonan
+    &scirc;ancon!")</klr></trd>
   </trdgrp> 
   <trd lng="fr">chance<klr tip="amb"> (possibilit&eacute;, 
 probabilit&eacute;)</klr></trd>
@@ -81,6 +82,7 @@ probabilit&eacute;)</klr></trd>
     <trd>chance</trd>    
   </trdgrp>
   <trd lng="nl">kans</trd>
+  <trd lng="pl">szansa</trd>
   <trdgrp lng="pt">
     <trd>chance</trd>,
     <trd>oportunidade</trd>
@@ -108,12 +110,16 @@ probabilit&eacute;)</klr></trd>
     <trd>Gl&uuml;ck haben</trd>
   </trdgrp>
   <trd lng="en">lucky</trd>
-  <trd lng="es">afortunado</trd> 
+  <trdgrp lng="es">
+    <trd>afortunado</trd>,
+    <trd>afortunada</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>chanceux</trd>,
     <trd>heureux<klr tip="amb"> (chanceux)</klr></trd>
   </trdgrp>
   <trd lng="nl">gelukkig<klr tip="ind"> (geluk hebbend)</klr></trd>
+  <trd lng="pl">maj&aogonek;cy <ind>szcz&eogonek;&sacute;cie</ind></trd>
   <trd lng="it">fortunato</trd>
 </drv>
 
@@ -136,7 +142,8 @@ probabilit&eacute;)</klr></trd>
         </fnt>;
       </ekz>
       <ekz>
-        malbon<tld/>a junulino delasis nesekuran tenon &ccirc;e alta bran&ccirc;o
+        malbon<tld/>a junulino delasis nesekuran tenon &ccirc;e alta
+        bran&ccirc;o
         kaj kra&scirc;falis teren
         <fnt>
           <aut>E. R. Burroughs, trad. D. J. Harlow</aut>,
@@ -152,10 +159,15 @@ probabilit&eacute;)</klr></trd>
     <trd>unlucky</trd>,
     <trd>luckless</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>desafortunado</trd>,
+    <trd>desafortunada</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>malchanceux</trd>,
     <trd>malheureux<klr> (malchanceux)</klr></trd>
   </trdgrp>
+  <trd lng="pl">maj&aogonek;cy <ind>pecha</ind></trd>
 </drv>
 
 <drv mrk="sxanc.sen0a">
@@ -181,10 +193,17 @@ probabilit&eacute;)</klr></trd>
   </snc>
   <trd lng="en">hopeless <klr>(no chance)</klr></trd>
   <trd lng="fr">qui n'a <ind>aucune chance</ind></trd>
+  <trd lng="pl">bez <ind>szans</ind></trd>
 </drv>
 </art>
 <!--
 $Log: sxanc.xml,v $
+Revision 1.28  2016/10/03 11:10:34  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.27  2016/09/06 09:10:16  revo
+Carlos Garcia: +trd es
+
 Revision 1.26  2015/11/23 13:10:25  revo
 Cindy Moon McKee: +trd en
 
@@ -201,11 +220,5 @@ Revision 1.22  2009/08/25 16:33:48  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.21  2009/08/21 16:31:23  revo
-Carlos Garcia: +trd "es" -o bon-a
-
-Revision 1.20  2009/03/28 17:31:16  revo
-Antonio Codazzi: +trd it
-
-Revision 1.19  2006/10/24 16:30:23  revo
 -->
 </vortaro>

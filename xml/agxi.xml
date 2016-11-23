@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: agxi.xml,v 1.12 2011/11/18 11:10:20 revo Exp $">
+<art mrk="$Id: agxi.xml,v 1.13 2016/09/01 09:10:14 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>a&gcirc;i</rad>/o
@@ -23,6 +23,7 @@
      <trd>Agio</trd>
   </trdgrp>
   <trd lng="en">agio</trd>
+  <trd lng="es">agio</trd>
   <trd lng="fr">agio</trd>
   <trdgrp lng="hu">
     <trd>&aacute;zsi&oacute;</trd>,
@@ -41,6 +42,9 @@
 </art>
 <!--
 $Log: agxi.xml,v $
+Revision 1.13  2016/09/01 09:10:14  revo
+Agustin Garcia Lopez: +trd(es)
+
 Revision 1.12  2011/11/18 11:10:20  revo
 Antonio Codazzi: + trd it
 
@@ -60,8 +64,5 @@ Revision 1.7  2002/03/21 18:33:29  revo
 Ulrich Fellmann: + 2 germ trdj + ligo al alparo
 
 Revision 1.6  2002/02/14 17:39:23  revo
-Yury Finkel: +trd ru, +uzo EKON
-
-Revision 1.5 2001/07/03 18:12:40 revo
 -->
 </vortaro>

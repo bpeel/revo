@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: pluk.xml,v 1.13 2015/12/18 07:10:16 revo Exp $">
+<art mrk="$Id: pluk.xml,v 1.14 2016/09/29 22:10:14 revo Exp $">
 <kap>
   <rad>pluk</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -48,7 +48,10 @@
   <trd lng="de">pfl&uuml;cken</trd>
   <trd lng="en">pluck</trd>
   <trd lng="es">recolectar</trd>
-  <trd lng="fr">cueillir</trd>
+  <trdgrp lng="fr">
+    <trd>cueillir</trd>,
+    <trd>ramasser</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>szak&iacute;t<klr tip="ind"> (sz&uuml;retel)</klr></trd>,
     <trd>szed</trd>,
@@ -85,6 +88,9 @@
 </art>
 <!--
 $Log: pluk.xml,v $
+Revision 1.14  2016/09/29 22:10:14  revo
+Alain Gerard: +trd fr
+
 Revision 1.13  2015/12/18 07:10:16  revo
 Alain Gerard: +var
 
@@ -104,8 +110,5 @@ Revision 1.8  2009/10/24 16:31:59  revo
 Russ Williams: +trd en
 
 Revision 1.7  2006/04/30 16:31:51  revo
-Eduardo Navas: +trd es
-
-Revision 1.6  2006/01/25 17:31:03  revo
 -->
 </vortaro>

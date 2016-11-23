@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: akuzat.xml,v 1.39 2015/07/04 08:37:30 revo Exp $">
+  <art mrk="$Id: akuzat.xml,v 1.40 2016/08/08 07:10:22 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>akuzativ</rad>/o
@@ -27,6 +27,7 @@
             Jen estas la pomo, kiun mi trovis<fnt><bib>F</bib></fnt>.
           </ekz>
         </dif>
+        <ref tip="vid" cel="transi1.0a">transitiva</ref>
         <rim>
         Apud izolita <tld/>igita vorto, kiel &leftquot;saluton!&rightquot;, &leftquot;gratulon!&rightquot;,
         &leftquot;dankon!&rightquot; 
@@ -257,16 +258,19 @@
         <trd>4. <ind>p&aacute;d</ind></trd>
       </trdgrp>
       <trd lng="sv">ackusativ</trd>
-      <trd lng="sk">akuzatív, 4. pád</trd>
-  <trd lng="sk">akuzatív, 4. pád</trd>
+      <trd lng="sk">akuzat&iacute;v, 4. p&aacute;d</trd>
+  <trd lng="sk">akuzat&iacute;v, 4. p&aacute;d</trd>
   <trdgrp lng="cs">
     <trd>akuzativ</trd>,
-    <trd>čtvrtý pád</trd>
+    <trd>&ccaron;tvrt&yacute; p&aacute;d</trd>
   </trdgrp>
 </drv>
   </art>
   <!--
   $Log: akuzat.xml,v $
+  Revision 1.40  2016/08/08 07:10:22  revo
+  Damien Brucker: +ref
+
   Revision 1.39  2015/07/04 08:37:30  revo
   aldono de trd cs per skripto de M. von Laer
 

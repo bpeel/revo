@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pasxte.xml,v 1.14 2005/04/28 16:35:19 revo Exp $">
+<art mrk="$Id: pasxte.xml,v 1.15 2016/10/06 10:10:21 revo Exp $">
 <kap>
 <ofc>4</ofc>
 <rad>pa&scirc;tel</rad>/o
@@ -29,6 +29,7 @@
   </trdgrp>
   <trd lng="hu">pasztell</trd>
   <trd lng="nl">pastel</trd>
+  <trd lng="pl">pastela</trd>
   <trd lng="ru">&c_p;&c_a;&c_s;&c_t;&c_je;&c_l;&c_mol;</trd>
 </drv>
 
@@ -54,11 +55,15 @@
     <trd>kr&eacute;tarajz</trd>
   </trdgrp>
   <trd lng="nl">pastel</trd>
+  <trd lng="pl">pastela</trd>
   <trd lng="ru">&c_p;&c_a;&c_s;&c_t;&c_je;&c_l;&c_mol;</trd>
 </drv>
 </art>
 <!--
 $Log: pasxte.xml,v $
+Revision 1.15  2016/10/06 10:10:21  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.14  2005/04/28 16:35:19  revo
 Raul Salinas Monteagudo: +trd ca,es
 
@@ -78,8 +83,5 @@ Revision 1.9 2001/12/11 18:26:47 revo
 Yury Finkel: +trd ru
 
 Revision 1.8 2001/09/28 18:14:17 revo
-jxerom vasxe: + fak bela
-
-Revision 1.7 2001/08/22 18:14:39 revo
 -->
 </vortaro>

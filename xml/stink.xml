@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stink.xml,v 1.7 2015/07/04 08:37:44 revo Exp $">
+<art mrk="$Id: stink.xml,v 1.8 2016/10/14 13:10:35 revo Exp $">
 <kap>
   <rad>stink</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -16,17 +16,22 @@
       <fnt><bib>RugxDom</bib> <lok>&ccirc;apitro 66a, p. 426a</lok></fnt>!
     </ekz>
   </snc>
-  <trd lng="cs">páchnout</trd>
+  <trd lng="cs">p&aacute;chnout</trd>
   <trdgrp lng="fr">
     <trd>puer</trd>
   </trdgrp>
   <trd lng="hu">b&udblac;zlik</trd>
   <trd lng="nl">stinken</trd>
+  <trdgrp lng="pl">
+    <trd>&sacute;mierdzie&cacute;</trd>,
+    <trd>cuchn&aogonek;&cacute;</trd>,
+    <trd>wonie&cacute;</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_v;&c_o;&c_n;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_m;&c_je;&c_r;&c_d;&c_je;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">zapáchať</trd>
+  <trd lng="sk">zap&aacute;cha&tcaron;</trd>
 </drv>
 
 <drv mrk="stink.0o">
@@ -43,6 +48,11 @@
   </trdgrp>
   <trd lng="hu">b&udblac;z</trd>
   <trd lng="nl">stank</trd>
+  <trdgrp lng="pl">
+    <trd>fetor</trd>,
+    <trd>smr&oacute;d</trd>,
+    <trd>od&oacute;r</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_v;&c_o;&c_n;&c_mol;</trd>,
     <trd>&c_s;&c_m;&c_r;&c_a;&c_d;</trd>,
@@ -53,6 +63,9 @@
 
 <!--
 $Log: stink.xml,v $
+Revision 1.8  2016/10/14 13:10:35  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.7  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -72,7 +85,5 @@ Revision 1.2  2003/01/06 17:31:50  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.1  2003/01/03 17:31:40  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

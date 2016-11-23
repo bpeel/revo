@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: baldau.xml,v 1.32 2015/11/24 14:10:20 revo Exp $">
+<art mrk="$Id: baldau.xml,v 1.33 2016/10/06 10:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>balda&ubreve;</rad> <fnt><bib>PV</bib></fnt> 
@@ -104,6 +104,7 @@
     <trd>prest</trd>,
     <trd>prompte</trd>
   </trdgrp>
+  <trd lng="pl">rych&lstroke;y</trd>
 </drv>
 
 <drv mrk="baldau.0o">
@@ -129,6 +130,9 @@
 </art>
 <!--
 $Log: baldau.xml,v $
+Revision 1.33  2016/10/06 10:10:17  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.32  2015/11/24 14:10:20  revo
 Cindy Moon McKee: +trd en
 
@@ -148,8 +152,5 @@ Revision 1.27  2011/03/12 19:10:08  revo
 Jeromo Vasxe: + ~a ~o
 
 Revision 1.26  2009/06/20 18:01:03  revo
-Behnam Tabatabai: korr arabaj/persaj koderoj
-
-Revision 1.25  2009/05/04 16:32:00  revo
 -->
 </vortaro>

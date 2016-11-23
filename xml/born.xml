@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: born.xml,v 1.5 2015/12/31 17:10:17 revo Exp $">
+<art mrk="$Id: born.xml,v 1.6 2016/10/13 06:10:33 revo Exp $">
 <kap>
     <rad>born</rad>/o <fnt><bib>PIV3</bib></fnt>
 </kap>
@@ -18,6 +18,10 @@
   </trdgrp>
   <trd lng="en">terminal</trd>
   <trd lng="fr">borne</trd>
+  <trdgrp lng="pl">
+    <trd>zacisk</trd>,
+    <trd>klema</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>svorka</trd>,
     <trd>v&yacute;vod</trd>
@@ -27,6 +31,9 @@
 
 <!--
 $Log: born.xml,v $
+Revision 1.6  2016/10/13 06:10:33  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.5  2015/12/31 17:10:17  revo
 Cindy Moon McKee: +trd en
 

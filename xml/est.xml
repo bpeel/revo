@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: est.xml,v 1.56 2015/08/16 10:10:15 revo Exp $">
+<art mrk="$Id: est.xml,v 1.58 2016/08/20 10:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>est</rad>/i <fnt><bib>PV</bib></fnt>
@@ -145,6 +145,7 @@
     <trd>by&tcaron;</trd>,
     <trd>existova&tcaron;</trd>
   </trdgrp>
+  <trd lng="tr">olmak</trd>
   <trd lng="uk">&c_b;&c_u;&c_t;&c_i;</trd>
   <trd lng="vo">bin&ouml;n</trd>
   <trd lng="zh">&#26159;<klr> [sh&igrave;]</klr></trd>
@@ -231,6 +232,7 @@
   <trd lng="nl">wezen</trd>
   <trd lng="ro">f&abreve;ptur&abreve;</trd>
   <trd lng="tp">jan</trd>
+  <trd lng="tr">varl&inodot;k</trd>
 </drv>
 
 <drv mrk="est.0ulo">
@@ -316,6 +318,7 @@
     <klr>(&c_s;&c_u;&c_shch;.)</klr>
   </trd>
   <trd lng="sk">pr&iacute;tomn&yacute; &ccaron;as</trd>
+  <trd lng="tr">&scedil;imdi</trd>
 </drv>
 
 <drv mrk="est.0inteco">
@@ -349,6 +352,7 @@
     </trd>
   </trdgrp>
   <trd lng="sk">minul&yacute; &ccaron;as</trd>
+  <trd lng="tr">ge&ccedil;mi&scedil;</trd>
 </drv>
 
 <drv mrk="est.0onteco">
@@ -379,6 +383,7 @@
   <klr>(&c_s;&c_u;&c_shch;.)</klr>
   </trd>
   <trd lng="sk">bud&uacute;ci &ccaron;as</trd>
+  <trd lng="tr">gelecek</trd>
 </drv>
 
 <drv mrk="est.0igi">
@@ -427,6 +432,14 @@
     <trd>create</trd>,
     <trd>make</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>causar</trd>,
+    <trd>crear</trd>,
+    <trd>hacer</trd>,
+    <trd>generar</trd>,
+    <trd>ocasionar</trd>,
+    <trd>suscitar</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>causer<klr tip="ind"> (occasionner)</klr></trd>,
     <trd>cr&eacute;er<klr tip="ind"> (occasionner)</klr></trd>,
@@ -461,6 +474,7 @@
     <trd>stvori&tcaron;</trd>,
     <trd>zapr&iacute;&ccaron;ini&tcaron; vznik</trd>
   </trdgrp>
+  <trd lng="tr">oldurmak</trd>
 </drv>
 
 <drv mrk="est.0igxi">
@@ -481,6 +495,10 @@
     <trd>&c_p;&c_a;&c_w;&c_s;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="en">come into being</trd>
+  <trdgrp lng="es">
+    <trd><ind>producir</ind>se</trd>,
+    <trd>sobrevenir</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>produire</ind></trd>,
     <trd>survenir</trd>
@@ -503,6 +521,7 @@
   </trdgrp>
   <trd
   lng="ru">&c_v;&c_o;&c_z;&c_n;&c_i;&c_k;&c_n;&c_u;&c_t;&c_mol;</trd>
+  <trd lng="tr">olu&scedil;mak</trd>
 </drv>
 
 <drv mrk="est.al0i">
@@ -544,6 +563,7 @@
     <trd>b&yacute;t p&rcaron;&iacute;tomen</trd>,
     <trd>z&uacute;&ccaron;astnit se</trd>
   </trdgrp>
+  <trd lng="tr">mevcut olmak</trd>
 </drv>
 
 <drv mrk="est.cxe0i">
@@ -558,22 +578,20 @@
         &ccirc;e<tld/>i en, &ccirc;e kunveno;
       </ekz><ekz>
         en <ind>&ccirc;e<tld/>o</ind> amata, en for<tld/>' insultata;
-        <trd
-        lng="be">&c_p;&c_r;&c_y;&c_s;&c_u;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
-        <trdgrp lng="fr">
-          <trd>assistance<klr tip="ind"> (fait d'assister)</klr></trd>,
-          <trd>pr&eacute;sence</trd>
-        </trdgrp>
-        <trd lng="hu">jelenl&eacute;t</trd>
         <fnt><bib>PrV</bib></fnt>
       </ekz><ekz>
         multnombra <ind>&ccirc;e<tld/>antaro</ind>.
+        <trdgrp lng="es">
+          <trd>p&uacute;blico</trd>,
+          <trd>concurrencia</trd>
+        </trdgrp>
         <trd lng="fr">assistance<klr tip="ind"> (personnes)</klr></trd>
         <trd lng="hu">jelenl&eacute;v&odblac;k</trd>
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_p;&c_r;&c_y;&c_s;&c_u;&c_t;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;</trd>
+  <trd
+  lng="be">&c_p;&c_r;&c_y;&c_s;&c_u;&c_t;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">ser present</trd>
   <trd lng="de">dabei sein</trd>
   <trdgrp lng="en">
@@ -610,6 +628,7 @@
   <trd
   lng="ru">&c_p;&c_r;&c_i;&c_s;&c_u;&c_t;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="tp">lon</trd>
+  <trd lng="tr">haz&inodot;r bulunmak</trd>
 </drv>
 
 <drv mrk="est.cxe0o">
@@ -628,7 +647,18 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="fr">pr&eacute;sence</trd>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_s;&c_u;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="es">
+    <trd>comparecencia</trd>,
+    <trd>presencia</trd>,
+    <trd>asistencia</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>assistance<klr tip="ind"> (fait d'assister)</klr></trd>,
+    <trd>pr&eacute;sence</trd>
+  </trdgrp>
+  <trd lng="hu">jelenl&eacute;t</trd>
+  <trd lng="tr">haz&inodot;r bulunma</trd>
 </drv>
 
 <drv mrk="est.cxie0o">
@@ -652,8 +682,10 @@
     <trd>ubiquity</trd>,
     <trd>ubiquitousness</trd>
   </trdgrp>
+  <trd lng="es">ubicuidad</trd>
   <trd lng="fr">ubiquit&eacute;</trd>
   <trd lng="pl">wsz&eogonek;dobylstwo</trd>
+  <trd lng="tr">ayn&inodot; anda her yerde bulunma</trd>
 </drv>
  
 <drv mrk="est.ek0i">
@@ -699,6 +731,10 @@
     <trd>vzniknout</trd>
   </trdgrp>
   <trd lng="en">start to be</trd>
+  <trdgrp lng="es">
+    <trd>sobrevenir</trd>,
+    <trd>ocurrir</trd>
+  </trdgrp>
   <trd lng="fr">survenir</trd>
   <trdgrp lng="hu">
     <trd>be&aacute;ll<klr tip="ind"> (hirtelen)</klr></trd>,
@@ -708,6 +744,7 @@
   <trd
   lng="ru">&c_v;&c_o;&c_z;&c_n;&c_i;&c_k;&c_n;&c_u;&c_t;&c_mol;</trd>
   <trd lng="sk">vznikn&uacute;&tcaron;</trd>
+  <trd lng="tr">olmaya ba&scedil;lamak</trd>
 </drv>
 
 <drv mrk="est.for0i">
@@ -725,18 +762,22 @@
       </ekz><ekz>
         <ind>for<tld/>o</ind> de ofendo estas plej bona defendo
         <fnt><bib>PrV</bib></fnt>;
+        <trd lng="es">estar ausente</trd>
         <trd lng="fr">absence</trd>
         <trd lng="hu">t&aacute;voll&eacute;t</trd>
       </ekz><ekz>
         la <ind>for<tld/>anto</ind> &ccirc;iam estas malprava
         <fnt><bib>PrV</bib></fnt>.
+        <trd lng="es">ausente<klr tip="ind"> (subst.)</klr></trd>
         <trd lng="fr">absent<klr tip="ind"> (subst.)</klr></trd>
         <trd lng="hu">t&aacute;voll&eacute;v&odblac;</trd>
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_a;&c_d;&c_s;&c_u;&c_t;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;
-    <klr tip="amb">(&c_b;&c_y;&c_c;&c_mol; &c_u; &c_ib;&c_n;&c_sh;&c_y;&c_m; &c_m;&c_je;&c_s;&c_c;&c_y;)</klr>
+  <trd
+  lng="be">&c_a;&c_d;&c_s;&c_u;&c_t;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;
+    <klr tip="amb">(&c_b;&c_y;&c_c;&c_mol; &c_u;
+    &c_ib;&c_n;&c_sh;&c_y;&c_m; &c_m;&c_je;&c_s;&c_c;&c_y;)</klr>
   </trd>
   <trd lng="ca">ser absent</trd>
   <trdgrp lng="cs">
@@ -754,13 +795,16 @@
   <trd lng="it">assentarsi</trd>
   <trd lng="nl">afwezig zijn</trd><trd lng="nl">afwezig zijn</trd>
   <trd lng="pl">by&cacute; <ind>nieobecnym</ind></trd>
-  <trd lng="ru">&c_o;&c_t;&c_s;&c_u;&c_t;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;
-    <klr tip="amb">(&c_b;&c_y;&c_t;&c_mol; &c_v; &c_d;&c_r;&c_u;&c_g;&c_o;&c_m; &c_m;&c_je;&c_s;&c_t;&c_je;)</klr>
+  <trd
+  lng="ru">&c_o;&c_t;&c_s;&c_u;&c_t;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;
+    <klr tip="amb">(&c_b;&c_y;&c_t;&c_mol; &c_v;
+    &c_d;&c_r;&c_u;&c_g;&c_o;&c_m; &c_m;&c_je;&c_s;&c_t;&c_je;)</klr>
   </trd>
   <trdgrp lng="sk">
     <trd>ch&yacute;ba&tcaron;</trd>,
     <trd>neby&tcaron; pr&iacute;tomn&yacute;</trd>
   </trdgrp>
+  <trd lng="tr">olmamak</trd>
 </drv>
 
 <drv mrk="est.for0o">
@@ -776,6 +820,7 @@
   </trdgrp>
   <trd lng="de">Abwesenheit</trd>
   <trd lng="en">absence</trd>
+  <trd lng="es">ausencia</trd>
   <trd lng="fr">absence</trd>
   <trd lng="pl">nieobecno&sacute;&cacute;</trd>
   <trdgrp lng="ro">
@@ -784,6 +829,7 @@
   </trdgrp>
   <trd lng="sk">nepr&iacute;tomnos&tcaron;</trd>
   <trd lng="tp">weka</trd>
+  <trd lng="tr">yokluk</trd>
 </drv>
 
 <drv mrk="est.kun0i">
@@ -810,6 +856,10 @@
     <trd>&zcaron;&iacute;t spolu</trd>
   </trdgrp>
   <trd lng="en">be with</trd>
+  <trdgrp lng="es">
+    <trd>estar juntos</trd>,
+    <trd>darse compa&ntilde;&iacute;a</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&ecirc;tre ensemble</trd>,
     <trd>se <ind>tenir compagnie</ind></trd>
@@ -819,6 +869,7 @@
     <trd>dotrzymywa&cacute; <ind>towarzystwa</ind></trd>
   </trdgrp>
   <trd lng="sk">&zcaron;i&tcaron; spolu</trd>
+  <trd lng="tr">ile birlikte olmak</trd>
 </drv>
 
 <drv mrk="est.mal0i">
@@ -846,6 +897,10 @@
   </trdgrp>
   <trd lng="de">fehlen</trd>
   <trd lng="en">not exist</trd>
+  <trdgrp lng="es">
+    <trd>no existir</trd>,
+    <trd>faltar</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>faire <ind>d&eacute;faut</ind></trd>,
     <trd>manquer</trd>
@@ -865,6 +920,7 @@
     <trd>ch&yacute;ba&tcaron;</trd>,
     <trd>neby&tcaron;</trd>
   </trdgrp>
+  <trd lng="tr">var olmamak</trd>
 </drv>
 
 <drv mrk="est.mar0ajxo">
@@ -882,6 +938,10 @@
     </dif>
   </snc>
   <trd lng="en">sea creature</trd>
+  <trdgrp lng="es">
+    <trd>animal marino</trd>,
+    <trd>criatura marina</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>animal marin</trd>,
     <trd>cr&eacute;ature marine</trd>
@@ -890,6 +950,7 @@
     <trd>stworzenie morskie</trd>,
     <trd>zwierz&eogonek; morskie</trd>
   </trdgrp>
+  <trd lng="tr">deniz yarat&inodot;&gbreve;&inodot;</trd>
 </drv>
 
 <drv mrk="est.ne0o">
@@ -921,6 +982,7 @@
   <trd lng="ru">&c_n;&c_je;&c_b;&c_y;&c_t;&c_i;&c_je;</trd>
   <trd lng="sk">nebytie</trd>
   <trd lng="tp">weka</trd>
+  <trd lng="tr">yokluk</trd>
 </drv>
 
 <drv mrk="est.tio0as">
@@ -969,6 +1031,7 @@
   <trd lng="pl">to jest <klr>(tj.)</klr></trd>
   <trd lng="ru">&c_t;&c_o; &c_je;&c_s;&c_t;&c_mol;</trd>
   <trd lng="sk">t.j. <klr>(skratka "to je")</klr></trd>
+  <trd lng="tr">i&scedil;te</trd>
 </drv>
 <adm>
   ~ant(ec)o, ktp: aldoni ekz GRA. <aut>MB</aut>
@@ -976,6 +1039,12 @@
 </art>
 <!--
 $Log: est.xml,v $
+Revision 1.58  2016/08/20 10:10:23  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.57  2016/04/20 18:10:17  revo
+Bora Can Asli: +trd tr
+
 Revision 1.56  2015/08/16 10:10:15  revo
 Damien Brucker: +snc
 
@@ -992,11 +1061,5 @@ Revision 1.52  2014/12/22 13:10:33  revo
 Damien Brucker: +trd fr
 
 Revision 1.51  2014/07/13 19:10:10  revo
-Sergio Pokrovskij: +fnt, TEZ
-
-Revision 1.50  2014/06/02 15:10:21  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.49  2010/10/04 16:31:05  revo
 -->
 </vortaro>

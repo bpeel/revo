@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: satan.xml,v 1.18 2015/07/04 08:37:43 revo Exp $">
+<art mrk="$Id: satan.xml,v 1.20 2016/10/20 18:10:16 revo Exp $">
 <kap>
    <ofc>1</ofc>
    <rad>satan</rad>/o <fnt><bib>PV</bib></fnt>
@@ -15,6 +15,7 @@
      </dif>
      <trd lng="en">Satan</trd>
      <trd lng="it">Satana</trd>
+     <trd lng="pl">Szatan</trd>
      <trd lng="sk">Satan</trd>
    </snc>
    <snc>
@@ -27,6 +28,11 @@
      <trd>satanasso</trd>,
      <trd>demonio</trd>
    </trdgrp>
+     <trdgrp lng="pl">
+       <trd>szatan</trd>,
+       <trd>diabe&lstroke;</trd>,
+       <trd>bies</trd>
+     </trdgrp>
      <trd lng="sk">diabol</trd>
    </snc>
   <trdgrp lng="be">
@@ -37,8 +43,8 @@
    </trdgrp>
   <trdgrp lng="cs">
     <trd>satan</trd>,
-    <trd>satanáš</trd>,
-    <trd>ďábel</trd>
+    <trd>satan&aacute;&scaron;</trd>,
+    <trd>&dcaron;&aacute;bel</trd>
   </trdgrp>
   <trdgrp lng="de">
      <trd>Satan</trd>,
@@ -46,7 +52,8 @@
    </trdgrp>
   <trdgrp lng="es">
      <trd>sat&aacute;n</trd>,
-     <trd>diablo</trd>
+     <trd>diablo</trd>,
+     <trd>satan&aacute;s</trd>
    </trdgrp>
   <trdgrp lng="fr">
      <trd>satan</trd>,
@@ -66,7 +73,7 @@
    </trdgrp>
   <trdgrp lng="sk">
     <trd>satan</trd>,
-    <trd>satanáš</trd>
+    <trd>satan&aacute;&scaron;</trd>
   </trdgrp>
 </drv>
 
@@ -77,14 +84,17 @@
     <dif>
       Kultado, adorado de <tld/>o:
       <ekz>
-        &ccirc;i-okaze majstro Christoforo vendis sian animon al la <tld 
+        &ccirc;i-okaze majstro Christoforo vendis sian animon al la <tld
+        
         lit="S"/>o, do, li uzas <tld/>ismon
         <fnt><bib>SatirRak</bib>, <lok>Supersti&ccirc;o</lok></fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="cs">satanizmus</trd>
+  <trd lng="es">satanismo</trd>
   <trd lng="fr">satanisme</trd>
+  <trd lng="pl">satanizm</trd>
   <trd lng="sk">satanizmus</trd>
 </drv>
 
@@ -107,12 +117,20 @@
     </dif>
   </snc>
   <trd lng="cs">satanista</trd>
+  <trd lng="es">satanista</trd>
   <trd lng="fr">sataniste</trd>
+  <trd lng="pl">satanista</trd>
   <trd lng="sk">satanista</trd>
 </drv>
 </art>
 <!--
 $Log: satan.xml,v $
+Revision 1.20  2016/10/20 18:10:16  revo
+Carlos Garcia: +trd es -ism -ist
+
+Revision 1.19  2016/10/06 10:10:14  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.18  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -129,17 +147,5 @@ Revision 1.14  2009/01/30 17:30:29  revo
 Russ Williams: +trd en
 
 Revision 1.13  2004/01/22 17:30:44  revo
-Emmanuel Debanne: +trd fr
-
-Revision 1.12  2003/01/04 17:34:11  revo
-Viliam Bur: +trd sk
-
-Revision 1.11  2002/12/11 17:32:20  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.10  2002/08/29 17:36:17  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2002/02/07 17:32:15  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: apog.xml,v 1.28 2015/09/11 03:10:14 revo Exp $">
+<art mrk="$Id: apog.xml,v 1.29 2016/09/27 10:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>apog</rad>/i <fnt><bib>PV</bib></fnt>
@@ -217,6 +217,7 @@
     <trd>accoudoir</trd>
   </trdgrp>
   <trd lng="it">bracciolo</trd>
+  <trd lng="pl">pod&lstroke;okietnik</trd>
   <trd lng="sk">operadlo r&uacute;k</trd>
 </drv>
 
@@ -237,6 +238,7 @@
     <trd>op&ecaron;radlo zad</trd>
   </trdgrp>
   <trd lng="fr">dossier<klr> (de si&egrave;ge)</klr></trd>
+  <trd lng="pl">oparcie <klr>(krzes&lstroke;a)</klr></trd>
   <trd lng="sk">zadn&eacute; operadlo</trd>
 </drv>
 
@@ -270,6 +272,9 @@
 </art>
 <!--
 $Log: apog.xml,v $
+Revision 1.29  2016/09/27 10:10:14  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.28  2015/09/11 03:10:14  revo
 Evandro Avellar: +trd pt
 
@@ -289,8 +294,5 @@ Revision 1.23  2009/03/07 17:30:33  revo
 Antonio Codazzi: +trd it, +ekz (brakapogilo)
 
 Revision 1.22  2008/06/18 16:30:15  revo
-Mireille Corobu: + kor en trd fr
-
-Revision 1.21  2008/06/15 16:30:16  revo
 -->
 </vortaro>

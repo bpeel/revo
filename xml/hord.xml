@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: hord.xml,v 1.20 2015/10/30 11:10:17 revo Exp $">
+  <art mrk="$Id: hord.xml,v 1.21 2016/09/27 13:10:42 revo Exp $">
     <kap>
       <rad>hord</rad>/o
       <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -23,6 +23,7 @@
             la <ind>Blanka <tld/>o</ind>,
             <trd lng="be">&c_B;&c_je;&c_l;&c_a;&c_ja; &c_a;&c_r;&c_d;&c_a;</trd>
             <trd lng="hu">Feh&eacute;r Horda</trd>
+            <trd lng="pl">Bia&lstroke;a Orda</trd>
             <trd lng="ru">&c_B;&c_je;&c_l;&c_a;&c_ja; &c_o;&c_r;&c_d;&c_a;</trd>
 
           </ekz><ekz>
@@ -55,6 +56,7 @@
         </rim>
 	<trd lng="es">horda</trd>
         <trd lng="nl">horde</trd>
+        <trd lng="pl">orda</trd>
       </snc>
       <snc mrk="hord.0o.FIG">
         <uzo tip="stl">FIG</uzo>
@@ -72,6 +74,7 @@
           </ekz>
         </dif>
         <trd lng="nl">woeste <ind>bende</ind></trd>
+        <trd lng="pl">horda</trd>
         <trdgrp lng="ru">
           <trd>&c_p;&c_o;&c_l;&c_ch;&c_i;&c_shch;&c_je;</trd>,
           <trd>&c_o;&c_r;&c_d;&c_a;</trd>
@@ -87,6 +90,10 @@
           <aut>Sergio Pokrovskij</aut>
         </rim>
         <trd lng="nl">bende</trd>
+        <trdgrp lng="pl">
+          <trd>horda</trd>,
+          <trd>zgraja</trd>
+        </trdgrp>
       </snc>
   <trd lng="be">&c_a;&c_r;&c_d;&c_a;</trd>
   <trd lng="ca">horda</trd>
@@ -132,12 +139,16 @@
       <trd lng="fr">Horde d'Or</trd>
       <trd lng="hu">Arany Horda</trd>
       <trd lng="it">Orda<klr> d'Oro</klr></trd>
+      <trd lng="pl">Z&lstroke;ota Orda</trd>
       <trd lng="ru">&c_Z;&c_o;&c_l;&c_o;&c_t;&c_a;&c_ja; &c_o;&c_r;&c_d;&c_a;</trd>
     </drv>
 
   </art>
   <!--
   $Log: hord.xml,v $
+  Revision 1.21  2016/09/27 13:10:42  revo
+  Sebastian Cyprych: +trd pl
+
   Revision 1.20  2015/10/30 11:10:17  revo
   Cindy Moon McKee: +trd en
 

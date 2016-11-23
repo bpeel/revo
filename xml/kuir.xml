@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kuir.xml,v 1.36 2015/07/04 08:37:38 revo Exp $">
+<art mrk="$Id: kuir.xml,v 1.39 2016/08/11 23:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kuir</rad>/i <fnt><bib>PV</bib></fnt>
@@ -15,7 +15,8 @@
     <tezrad fak="KUI"/>
     <uzo tip="fak">KUI</uzo>
     <dif>
-      Prepari nutra&jcirc;on, elmetante &gcirc;in al varmego por igi &gcirc;in
+      Prepari nutra&jcirc;on, elmetante &gcirc;in al varmego por igi
+      &gcirc;in
       man&gcirc;ebla:
       <ekz>
         <tld/>i viandon, supon<fnt>B</fnt>,
@@ -34,7 +35,8 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        plej <tld/>ita <klr>(kulturita, edukita)</klr> kampulo &ccirc;iam
+        plej <tld/>ita <klr>(kulturita, edukita)</klr> kampulo
+        &ccirc;iam
         restos
         krudulo<fnt><bib>PrV</bib></fnt>.
       </ekz>
@@ -48,13 +50,14 @@
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>,
-    <trd>&c_g;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_s;&c_t;&c_r;&c_a;&c_v;&c_u;)</klr></trd>,
+    <trd>&c_g;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;
+    <klr>(&c_s;&c_t;&c_r;&c_a;&c_v;&c_u;)</klr></trd>,
     <trd>&c_k;&c_u;&c_h;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="bg">&c_g;&c_o;&c_t;&c_v;&c_ja;</trd>
   <trdgrp lng="cs">
     <trd>va&rcaron;it</trd>,
-    <trd>vařit <klr>(jídla)</klr></trd>
+    <trd>va&rcaron;it <klr>(j&iacute;dla)</klr></trd>
   </trdgrp>
   <trdgrp lng="de">
      <trd>kochen</trd>,
@@ -64,7 +67,8 @@
   <trd lng="es">cocinar</trd>
   <trd lng="fr">faire <ind>cuire</ind></trd>
   <trdgrp lng="hu">
-    <trd>k&eacute;sz&iacute;t <klr tip="ind">(&eacute;ltelt)</klr></trd>,
+    <trd>k&eacute;sz&iacute;t <klr
+    tip="ind">(&eacute;ltelt)</klr></trd>,
     <trd>f&odblac;z</trd>,
     <trd>s&uuml;t</trd>
   </trdgrp>
@@ -75,9 +79,10 @@
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_v;&c_a;&c_r;&c_i;&c_t;&c_mol;</trd>,
-    <trd>&c_g;&c_o;&c_t;&c_o;&c_v;&c_i;&c_t;&c_mol; <klr>(&c_p;&c_i;&c_shch;&c_u;)</klr></trd>
+    <trd>&c_g;&c_o;&c_t;&c_o;&c_v;&c_i;&c_t;&c_mol;
+    <klr>(&c_p;&c_i;&c_shch;&c_u;)</klr></trd>
   </trdgrp>
-  <trd lng="sk">variť</trd>
+  <trd lng="sk">vari&tcaron;</trd>
   <trd lng="sv">laga mat</trd>
   <trd lng="tp">seli</trd>
   <trd lng="tr">pi&scedil;irmek</trd>
@@ -98,7 +103,7 @@
   </snc>
   <trd lng="be">&c_k;&c_u;&c_h;&c_n;&c_ja;</trd>
   <trd lng="bg">&c_k;&c_u;&c_h;&c_n;&c_ja;</trd>
-  <trd lng="cs">kuchyň</trd>
+  <trd lng="cs">kuchy&ncaron;</trd>
   <trdgrp lng="de">
      <trd>K&uuml;che</trd>,
      <trd>Kochstube</trd>
@@ -109,7 +114,7 @@
   <trd lng="hu">konyha</trd>
   <trd lng="nl">keuken</trd>
   <trd lng="ru">&c_k;&c_u;&c_h;&c_n;&c_ja;</trd>
-  <trd lng="sk">kuchyňa</trd>
+  <trd lng="sk">kuchy&ncaron;a</trd>
   <trd lng="sv">k&ouml;k</trd>
   <trd lng="tr">mutfak</trd>
 </drv>
@@ -131,6 +136,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">jefe de cocina</trd>
   <trdgrp lng="fr">
     <trd>chef cuisinier</trd>,
     <trd>maitre queux</trd>
@@ -154,6 +160,7 @@
     </dif>
     <trd lng="fr">cuire</trd>
   </snc>
+  <trd lng="es">cocinarse</trd>
 </drv>
 
 <drv mrk="kuir.0ilo">
@@ -188,7 +195,8 @@
       </ekz>
       <ekz>
         <ind>tro da <tld/>istoj ka&ccirc;on difektas</ind>.
-        <trd lng="de">viele <ind>K&ouml;che</ind> verderben den Brei</trd>
+        <trd lng="de">viele <ind>K&ouml;che</ind> verderben den
+        Brei</trd>
         <trd lng="en">too many <ind>cook</ind>s spoil the broth</trd>
         <trd lng="nl">te veel <ind>kok</ind>s bederven de brij</trd>
       </ekz>
@@ -196,7 +204,7 @@
   </snc>
   <trd lng="be">&c_k;&c_u;&c_h;&c_a;&c_r;</trd>
   <trd lng="bg">&c_g;&c_o;&c_t;&c_v;&c_a;&c_ch;</trd>
-  <trd lng="cs">kuchař</trd>
+  <trd lng="cs">kucha&rcaron;</trd>
   <trdgrp lng="de">
      <trd>Koch</trd>,
      <trd>K&ouml;chin</trd>
@@ -210,7 +218,7 @@
   </trdgrp>
   <trd lng="nl">kok</trd>
   <trd lng="ru">&c_p;&c_o;&c_v;&c_a;&c_r;</trd>
-  <trd lng="sk">kuchár</trd>
+  <trd lng="sk">kuch&aacute;r</trd>
   <trd lng="sv">kock</trd>
   <trd lng="tr">a&scedil;&ccedil;&inodot;</trd>
 </drv>
@@ -224,7 +232,8 @@
       <ref tip="super" cel="kuir.0i.KUI"><tld lit="K"/>i</ref>
       man&gcirc;a&jcirc;on en bolanta akvo:
       <ekz>
-        sa&ubreve;co a&ubreve; spica&jcirc;o <klr>[uzata]</klr> en bol<tld/>ado
+        sa&ubreve;co a&ubreve; spica&jcirc;o <klr>[uzata]</klr> en
+        bol<tld/>ado
         <fnt>
         <vrk>PIV2</vrk>, <lok>art. &leftquot;Sojo&rightquot;</lok>.
         </fnt>.
@@ -234,16 +243,18 @@
   </snc>
   <trd lng="be">&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol;
   <klr>(&c_s;&c_t;&c_r;&c_a;&c_v;&c_u;)</klr></trd>
-  <trd lng="cs">vařit ve vroucí vodě</trd>
+  <trd lng="cs">va&rcaron;it ve vrouc&iacute; vod&ecaron;</trd>
   <trdgrp lng="de">
     <trd>frittieren</trd>,
     <trd>kochen<klr> (in kochendem Wasser)</klr></trd>
   </trdgrp>
+  <trd lng="es">hervir</trd>
   <trd lng="fr">faire <ind>bouillir</ind></trd>
   <trd lng="hu">f&odblac;z <klr>(l&eacute;ben)</klr></trd>
   <trd lng="nl">koken<klr tip="ind"> (in kokend water)</klr></trd>
-  <trd lng="ru">&c_v;&c_a;&c_r;&c_i;&c_t;&c_mol; <klr>(&c_p;&c_i;&c_shch;&c_u;)</klr></trd>
-  <trd lng="sk">variť vo vriacej vode</trd>
+  <trd lng="ru">&c_v;&c_a;&c_r;&c_i;&c_t;&c_mol;
+  <klr>(&c_p;&c_i;&c_shch;&c_u;)</klr></trd>
+  <trd lng="sk">vari&tcaron; vo vriacej vode</trd>
   <trd lng="sv">koka</trd>
   <trd lng="tr">kaynatmak</trd>
 </drv>
@@ -262,13 +273,14 @@
   <trd lng="fr">g&acirc;te-sauce <klr>(mauvais cuisinier)</klr></trd>
   <trd lng="hu">kont&aacute;r <ind>szak&aacute;cs</ind></trd>
   <trd lng="nl">slechte <ind>kok</ind></trd>
-  <trd lng="ru">&c_p;&c_l;&c_o;&c_h;&c_o;&c_j; <ind>&c_p;&c_o;&c_v;&c_a;&c_r;</ind></trd>
+  <trd lng="ru">&c_p;&c_l;&c_o;&c_h;&c_o;&c_j;
+  <ind>&c_p;&c_o;&c_v;&c_a;&c_r;</ind></trd>
 </drv>
 
-<drv mrk="kuir.&scirc;elo0o">
+<drv mrk="kuir.sxel0i">
   <kap>&scirc;elo<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc mrk="kuir.&scirc;elo0i.KUI">
+  <snc mrk="kuir.sxel0i.KUI">
     <uzo tip="fak">KUI</uzo>
     <dif>
       <ref tip="super" cel="kuir.0i.KUI"><tld lit="K"/>i</ref>
@@ -315,6 +327,15 @@
 </art>
 <!--
 $Log: kuir.xml,v $
+Revision 1.39  2016/08/11 23:10:26  revo
+Carlos Garcia: +trd es -estro -igxi -bol-i
+
+Revision 1.38  2016/08/01 12:10:12  revo
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.37  2016/07/31 16:45:43  revo
+korektis mrk
+
 Revision 1.36  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -328,20 +349,5 @@ Revision 1.33  2014/07/12 19:10:12  revo
 Jeromo Vasxe: + sxelo~i
 
 Revision 1.32  2014/01/05 02:10:19  revo
-Jeromo Vasxe: + ~ilo
-
-Revision 1.31  2010/09/07 16:30:30  revo
-Jeromo Vasxe: - ~poto -> pot.xml
-
-Revision 1.30  2010/01/02 17:30:52  revo
-Jeromo Vasxe: + ~estro
-
-Revision 1.29  2009/09/19 16:30:33  revo
-Paul Peeraerts: +nl
-
-Revision 1.28  2009/08/27 16:31:26  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.27  2008/11/24 17:30:36  revo
 -->
 </vortaro>

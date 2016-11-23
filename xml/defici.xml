@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: defici.xml,v 1.18 2015/07/04 08:37:32 revo Exp $">
+<art mrk="$Id: defici.xml,v 1.20 2016/08/23 20:10:11 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>deficit</rad>/o
@@ -24,10 +24,14 @@
       </ekz>
     </dif>
   </snc>
+  <adm>
+     &Ccirc;u oni povas uzi ~o anka&ubreve; por paroli
+     pri debeta saldo de konto? <aut>MB</aut>
+  </adm>
   <trd lng="be">&c_d;&c_e;&c_f;&c_ib;&c_c;&c_y;&c_t;</trd>
   <trdgrp lng="cs">
     <trd>deficit</trd>,
-    <trd>ztráta v hospodaření</trd>
+    <trd>ztr&aacute;ta v hospoda&rcaron;en&iacute;</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Defizit</trd>,
@@ -53,7 +57,7 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>deficit</trd>,
-    <trd>schodok <klr>(učt.)</klr></trd>
+    <trd>schodok <klr>(u&ccaron;t.)</klr></trd>
   </trdgrp>
 </drv>
 
@@ -69,9 +73,10 @@
   </snc>
   <trd lng="be">&c_d;&c_e;&c_f;&c_ib;&c_c;&c_y;&c_t;&c_n;&c_y;</trd>
   <trdgrp lng="cs">
-    <trd>deficitní</trd>,
-    <trd>ztrátový</trd>
+    <trd>deficitn&iacute;</trd>,
+    <trd>ztr&aacute;tov&yacute;</trd>
   </trdgrp>
+  <trd lng="es">deficitario</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;ficitaire</trd>
   </trdgrp>
@@ -80,13 +85,20 @@
   <trd
   lng="ru">&c_d;&c_je;&c_f;&c_i;&c_c;&c_i;&c_t;&c_n;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
-    <trd>deficitný</trd>,
-    <trd>stratový</trd>
+    <trd>deficitn&yacute;</trd>,
+    <trd>stratov&yacute;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: defici.xml,v $
+Revision 1.20  2016/08/23 20:10:11  revo
+Carlos Garcia: +trd es -a
+
+Revision 1.19  2016/02/28 19:10:28  revo
+Wolfram Diestel: riparo: adm forighis per skripto de Laer pro
+interlokita traduko
+
 Revision 1.18  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -102,18 +114,5 @@ Sebastian Cyprych: +trd pl
 Revision 1.14  2007/07/19 16:30:55  revo
 Tulio Flores: +tr pt
 
-Revision 1.13  2005/02/25 17:32:25  revo
-Yury Finkel: +trd ru
-
-Revision 1.12  2003/12/10 17:31:34  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2003/04/08 16:32:06  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2002/09/29 17:51:24  revo
-Jeromo Vasxe: + ~a, + ekz
-
-Revision 1.9 2002/09/13 16:33:26 revo
 -->
 </vortaro>

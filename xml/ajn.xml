@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ajn.xml,v 1.37 2015/07/04 08:37:29 revo Exp $">
+<art mrk="$Id: ajn.xml,v 1.38 2016/07/30 12:10:22 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>ajn</rad> <fnt><bib>PV</bib></fnt>
@@ -99,6 +99,10 @@
    <trdgrp lng="sk">
      <trd>hoci-</trd>,
      <trd>-<ind>ko&lcaron;vek</ind></trd>
+   </trdgrp>
+   <trdgrp lng="th">
+     <trd>&#3629;&#3632;&#3652;&#3619;&#3585;&#3655;&#3652;&#3604;&#3657;</trd>,
+     <trd>-&#3652;&#3627;&#3609;&#3585;&#3655;&#3652;&#3604;&#3657;</trd>
    </trdgrp>
    <trd lng="vo">sem-</trd>
 </drv>
@@ -202,10 +206,10 @@ quel)</klr></trd>,
      <trd lng="sk">&lcaron;ubovo&lcaron;n&yacute;</trd>
    </snc>
   <trdgrp lng="cs">
-    <trd>jakýkoli</trd>,
-    <trd>libovolný</trd>,
-    <trd>libovolný</trd>,
-    <trd>nějaký</trd>
+    <trd>jak&yacute;koli</trd>,
+    <trd>libovoln&yacute;</trd>,
+    <trd>libovoln&yacute;</trd>,
+    <trd>n&ecaron;jak&yacute;</trd>
   </trdgrp>
   <trdgrp lng="nl">
      <trd>welke ook</trd>,
@@ -215,8 +219,8 @@ quel)</klr></trd>,
    </trdgrp>
   <trd lng="pt">qualquer</trd>
   <trdgrp lng="sk">
-    <trd>bársaký</trd>,
-    <trd>hocaký</trd>
+    <trd>b&aacute;rsak&yacute;</trd>,
+    <trd>hocak&yacute;</trd>
   </trdgrp>
 </drv>
 
@@ -332,7 +336,7 @@ quel)</klr></trd>,
     <trd>ktosi</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>hejpočkej</trd>,
+    <trd>hejpo&ccaron;kej</trd>,
     <trd>kdosi</trd>,
     <trd>leckdo</trd>,
     <trd>ledaskdo</trd>
@@ -341,6 +345,9 @@ quel)</klr></trd>,
 </art>
 <!--
 $Log: ajn.xml,v $
+Revision 1.38  2016/07/30 12:10:22  revo
+Warut Bunprasert: +trd th
+
 Revision 1.37  2015/07/04 08:37:29  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -360,14 +367,5 @@ Revision 1.32  2012/04/16 13:10:15  revo
 Mireille Corobu: trd fr de ajnulo
 
 Revision 1.31  2011/05/11 10:10:09  revo
-Jeromo Vasxe: + ~ulo
-
-Revision 1.30  2010/09/12 16:30:33  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.29  2010/07/10 16:30:51  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.28  2008/12/21 17:30:19  revo
 -->
 </vortaro>

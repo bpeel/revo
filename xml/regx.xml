@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: regx.xml,v 1.46 2014/06/30 12:10:11 revo Exp $">
+  <art mrk="$Id: regx.xml,v 1.47 2016/05/12 16:10:17 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>re&gcirc;</rad>/o
@@ -181,6 +181,14 @@
         <dif>
           Esti <tld/>o, posedi la <tld/>an potencon:
           <ekz>
+            la tempo, dum kiu Salomono <tld/>is en Jerusalem super
+            la tuta Izrael, estis kvardek jaroj
+	    <fnt><bib>MT</bib>, <lok>&Re1; 11:42</lok></fnt>;
+          </ekz><ekz>
+            tiu A&hcirc;a&scirc;vero&scirc;, kiu <tld/>is de Hindujo &gcirc;is Etiopujo, super
+            127 landoj
+            <fnt><bib>MT</bib>, <lok>&Est; 1:1</lok></fnt>;
+          </ekz><ekz>
             anstata&ubreve; li ek<tld/>is lia filo Asa
             <fnt><bib>MT</bib>, <lok>&Re1; 15:8</lok></fnt>;
           </ekz><ekz>
@@ -500,6 +508,9 @@
   </art>
   <!--
   $Log: regx.xml,v $
+  Revision 1.47  2016/05/12 16:10:17  revo
+  Sergio Pokrovskij: +ekz
+
   Revision 1.46  2014/06/30 12:10:11  revo
   Eko Nur Syah Hidayat: +id
 

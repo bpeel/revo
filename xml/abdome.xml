@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: abdome.xml,v 1.32 2015/07/04 08:37:29 revo Exp $">
+<art mrk="$Id: abdome.xml,v 1.34 2016/10/26 19:10:13 revo Exp $">
 <kap>
   <rad>abdomen</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -15,6 +15,11 @@
       inter la torako kaj la pelvo, kiu entenas 
       la intestojn.
     </dif>
+  <trdgrp lng="da">
+    <trd>abdomen</trd>,
+    <trd>underliv</trd>
+    <trd>vom</trd>
+  </trdgrp>
   <trdgrp lng="pl">
   	<trd>abdomen</trd>,
     <trd>brzuch</trd>
@@ -39,7 +44,8 @@
   </trdgrp>
   <trd lng="br">abdomen</trd>
   <trd lng="ca">abdomen</trd>
-  <trd lng="cs">zadní část těla hmyzu</trd>
+  <trd lng="cs">zadn&iacute; &ccaron;&aacute;st t&ecaron;la hmyzu</trd>
+  <trd lng="da">abdomen</trd>
   <trdgrp lng="de">
     <trd>Unterleib</trd>,
     <trd>Bauch</trd>,
@@ -65,7 +71,7 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>brucho</trd>,
-    <trd>zadná časť tela hmyzu</trd>
+    <trd>zadn&aacute; &ccaron;as&tcaron; tela hmyzu</trd>
   </trdgrp>
   <trdgrp lng="sv">
     <trd>mage</trd>,
@@ -77,6 +83,12 @@
 </art>
 <!--
 $Log: abdome.xml,v $
+Revision 1.34  2016/10/26 19:10:13  revo
+Lars Raarup Knudsen: aldono de danaj tradukoj
+
+Revision 1.33  2016/10/24 20:10:14  revo
+Lars Raarup Knudsen: aldono de danaj tradukoj
+
 Revision 1.32  2015/07/04 08:37:29  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -93,18 +105,6 @@ Revision 1.28  2009/03/19 18:17:24  revo
 Wieland Pusch: +trd bg
 
 Revision 1.27  2008/08/23 16:30:52  revo
-Wieland Pusch: +trd bg
-
-Revision 1.26  2007/07/26 16:30:26  revo
-Jeromo Vasxe: kor 1 ref, sxovis 2a drv al 2a snc
-
-Revision 1.25  2007/05/11 16:30:45  revo
-Sebastian Cyprych: +drv ZOO; +trd pl; +multaj ref
-
-Revision 1.24  2005/08/31 16:31:56  revo
-Marc Bavant: belarangho
-
-Revision 1.23 2005/07/24 16:32:35 revo
 -->
 
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: serv.xml,v 1.37 2015/11/07 10:10:14 revo Exp $">
+<art mrk="$Id: serv.xml,v 1.40 2016/09/06 09:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>serv</rad>/i <fnt><bib>PV</bib></fnt>
@@ -220,6 +220,7 @@
     <trd>ochotn&yacute;</trd>,
     <trd>&uacute;slu&zcaron;n&yacute;</trd>
   </trdgrp>
+  <trd lng="es">servicial</trd>
   <trdgrp lng="fr">
     <trd>complaisant</trd>,
     <trd>serviable</trd>
@@ -248,6 +249,7 @@
   <trd lng="cs">server</trd>
   <trd lng="de">Server</trd>
   <trd lng="en">server</trd>
+  <trd lng="es">servidor</trd>
   <trd lng="fr">serveur</trd>
   <trdgrp lng="hu">
     <trd>szerver</trd>,
@@ -290,7 +292,14 @@
     <trd>slu&zcaron;ebn&iacute;k</trd>
   </trdgrp>
   <trd lng="de">Diener</trd>
-  <trd lng="fr">serviteur</trd>
+  <trdgrp lng="es">
+    <trd>criado</trd>,
+    <trd>sirviente</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>serviteur</trd>,
+    <trd>domestique</trd>
+  </trdgrp>
   <trd lng="hu">szolga</trd>
   <trd lng="it">servo</trd>
   <trd lng="nl">dienstbode</trd>
@@ -319,6 +328,7 @@
     <trd>&ccaron;ele&dcaron;</trd>,
     <trd>&ccaron;el&aacute;dka</trd>
   </trdgrp>
+  <trd lng="es">servicio</trd>
   <trd lng="fr">domesticit&eacute;</trd>
   <trd lng="sk">slu&zcaron;obn&iacute;ctvo</trd>
 </drv>
@@ -351,54 +361,14 @@
     <trd>Bedienstete</trd>,
     <trd>Bedienung (weiblich)</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>criada</trd>,
+    <trd>sirvienta</trd>
+  </trdgrp>
   <trd lng="fr">servante</trd>
   <trd lng="hu">szolg&aacute;l&oacute;l&aacute;ny</trd>
   <trd lng="it">serva</trd>
   <trd lng="ru">&c_s;&c_l;&c_u;&c_zh;&c_a;&c_n;&c_k;&c_a;</trd>
-</drv>
-
-<drv mrk="serv.pri0i">
-  <kap>pri<tld/>i</kap>
-  <gra><vspec>tr</vspec></gra>
-  <snc mrk="serv.0i.iun">
-    <uzo tip="klr">(iun)</uzo>
-    <dif>
-      Liveri al kliento laborojn, <tld/>ojn ofertatajn de publika
-      entrepreno (restoracio ktp):
-      <ekz>
-        Fermi restoraciojn, kafejojn, rifuzi pri<tld/>i
-        eksterlandanojn <klr>...</klr>
-        <fnt><aut>LAST</aut>: <vrk>Lakto-akto</vrk>.
-             <bib>Monato</bib></fnt>;
-      </ekz><ekz>
-        Tamen ili pri<tld/>is nur la tablon de Demetrio
-        <fnt><vrk>La &scirc;tona urbo</vrk></fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <snc mrk="serv.0i.ion">
-    <uzo tip="klr">(ion)</uzo>
-    <dif>
-      Prizorgi ion la&ubreve; mendo, devo a&ubreve; kontrakto:
-      <ekz>
-        <klr>La glacirompiloj</klr> levas pezajn &scirc;ar&gcirc;ojn de la
-        marfundo, pri<tld/>as marajn petrolkampojn kaj
-        borstaciojn <klr>...</klr>
-        <fnt><aut>SALIKO</aut>: <vrk>Krozi en glacio</vrk>.
-             <bib>Monato</bib></fnt>;
-      </ekz><ekz>
-         &Ccirc;u mi ne estas tiel same bona kiel la granda besto,
-         kiu &ccirc;iam estas pri<tld/>ata, striglata, vartata kaj ricevas
-         bonan man&gcirc;adon kaj drinkadon?
-         <fnt><bib>Fab4</bib>, <lok>Sterkskarabo</lok></fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="de">bedienen</trd>
-  <trdgrp lng="ru">
-    <trd>&c_o;&c_b;&c_s;&c_l;&c_u;&c_zh;&c_i;&c_t;&c_mol;</trd>,
-    <trd>&c_o;&c_b;&c_s;&c_l;&c_u;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
-  </trdgrp>
 </drv>
 
 <drv mrk="serv.Di0o">
@@ -467,6 +437,55 @@
     <trd>pobo&zcaron;nos&tcaron;</trd>
   </trdgrp>
   <trd lng="sv">gudstj&auml;nst</trd>
+</drv>
+
+<drv mrk="serv.pri0i">
+  <kap>pri<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="serv.0i.iun">
+    <uzo tip="klr">(iun)</uzo>
+    <dif>
+      Liveri al kliento laborojn, <tld/>ojn ofertatajn de publika
+      entrepreno (restoracio ktp):
+      <ekz>
+        Fermi restoraciojn, kafejojn, rifuzi pri<tld/>i
+        eksterlandanojn <klr>...</klr>
+        <fnt><aut>LAST</aut>: <vrk>Lakto-akto</vrk>.
+             <bib>Monato</bib></fnt>;
+      </ekz><ekz>
+        Tamen ili pri<tld/>is nur la tablon de Demetrio
+        <fnt><vrk>La &scirc;tona urbo</vrk></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="es">atender</trd>
+  </snc>
+  <snc mrk="serv.0i.ion">
+    <uzo tip="klr">(ion)</uzo>
+    <dif>
+      Prizorgi ion la&ubreve; mendo, devo a&ubreve; kontrakto:
+      <ekz>
+        <klr>La glacirompiloj</klr> levas pezajn &scirc;ar&gcirc;ojn de la
+        marfundo, pri<tld/>as marajn petrolkampojn kaj
+        borstaciojn <klr>...</klr>
+        <fnt><aut>Saliko</aut>, <vrk>Krozi en glacio</vrk>,
+             <bib>Monato</bib></fnt>;
+      </ekz><ekz>
+         &Ccirc;u mi ne estas tiel same bona kiel la granda besto,
+         kiu &ccirc;iam estas pri<tld/>ata, striglata, vartata kaj ricevas
+         bonan man&gcirc;adon kaj drinkadon?
+         <fnt><bib>Fab4</bib>, <lok>Sterkskarabo</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="es">
+      <trd>ocuparse de</trd>,
+      <trd>atender</trd>
+  </trdgrp>
+  </snc>
+  <trd lng="de">bedienen</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_s;&c_l;&c_u;&c_zh;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_b;&c_s;&c_l;&c_u;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="serv.mem0a">
@@ -545,6 +564,7 @@
       trejnado a&ubreve; por defendi sian landon.
     </rim>
   </snc>
+  <trd lng="es">servicio militar</trd>
   <trdgrp lng="fr">
     <trd>service militaire</trd>
     <trd>carri&egrave;re des armes<klr tip="ind"> (m&eacute;tier
@@ -601,12 +621,38 @@
     </dif>
   </snc>
   <trd lng="en">secret service</trd>
+  <trd lng="es">servicio secreto</trd>
   <trd lng="fr">services secrets</trd>
   <trd lng="it">servizio segreto</trd>
+</drv>
+
+<drv mrk="serv.sinen0igi">
+  <kap>sin en<tld/>igi</kap>
+  <snc mrk="serv.sinen0igi.KOMUNE">
+    <dif>
+      Komenci da&ubreve;ran <tld/>adon, ekofici por iu funkcio:
+      <ekz>
+        li mem, kiel li diris, intencas en<tld/>igi sin
+        sur &scirc;ipo, al tio estas direktitaj &ccirc;iuj liaj deziroj
+        <fnt><bib>Fab4</bib>, <lok>Historio el la
+         dunoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">entrer en <ind>service</ind></trd>
 </drv>
 </art>
 <!--
 $Log: serv.xml,v $
+Revision 1.40  2016/09/06 09:10:14  revo
+Carlos Garcia: +trd es -ema -ilo -isto istaro -istino pri-i milit-o sekret-o
+
+Revision 1.39  2016/07/14 20:10:28  revo
+Jeromo Vasxe: + sin en~igi
+
+Revision 1.38  2016/02/25 07:10:15  revo
+Alain Gerard: +trd fr
+
 Revision 1.37  2015/11/07 10:10:14  revo
 Sergio Pokrovskij: mempri~a
 
@@ -620,14 +666,5 @@ Revision 1.34  2015/06/29 16:33:23  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.33  2014/12/22 11:10:22  revo
-Damien Brucker: +trd fr
-
-Revision 1.32  2014/12/07 20:10:15  revo
-Jeromo Vasxe: + sekret~o
-
-Revision 1.31  2014/07/12 19:10:16  revo
-Jeromo Vasxe: + ~istaro
-
-Revision 1.30  2011/01/06 15:25:13  revo
 -->
 </vortaro>

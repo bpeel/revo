@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: spar.xml,v 1.7 2015/11/26 14:10:18 revo Exp $">
+<art mrk="$Id: spar.xml,v 1.8 2016/09/30 13:10:14 revo Exp $">
 <kap>
   <rad>spar</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -29,6 +29,7 @@
   </trdgrp>
   <trd lng="hu">tengeri <ind>durbincs</ind></trd>
   <trd lng="nl">brasem</trd>
+  <trd lng="pl">dorada</trd>
   <trd lng="sk">pozd&lacute;&zcaron;nik stroja alebo dopravn&eacute;ho prostriedku</trd>
 </drv>
 
@@ -50,11 +51,18 @@
     <trd>aranyfej&udblac; tengeri <ind>keszeg</ind></trd>
   </trdgrp>
   <trd lng="nl">goudbrasem</trd>
+  <trdgrp lng="pl">
+    <trd>dorada</trd>,
+    <trd>sparus z&lstroke;otog&lstroke;owy</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: spar.xml,v $
+Revision 1.8  2016/09/30 13:10:14  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.7  2015/11/26 14:10:18  revo
 Cindy Moon McKee: +trd en
 
@@ -74,7 +82,5 @@ Revision 1.2  2007/03/06 17:31:14  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.1  2005/10/01 16:31:04  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klozet.xml,v 1.4 2015/11/26 14:10:24 revo Exp $">
+<art mrk="$Id: klozet.xml,v 1.5 2016/09/30 13:10:17 revo Exp $">
 <kap>
   <rad>klozet</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -37,12 +37,21 @@
     <trd>water closet</trd>, <trd>W.C.</trd>
   </trdgrp>
   <trd lng="fr">lieux d'aisances</trd>
+  <trdgrp lng="pl">
+    <trd>klozet</trd>,
+    <trd>sedes</trd>,
+    <trd>ubikacja</trd>,
+    <trd>ust&eogonek;p</trd>
+  </trdgrp>
   <trd lng="sk">z&aacute;chod splachovac&iacute;</trd>
 </drv>
 </art>
 
 <!--
 $Log: klozet.xml,v $
+Revision 1.5  2016/09/30 13:10:17  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.4  2015/11/26 14:10:24  revo
 Cindy Moon McKee: +trd en
 

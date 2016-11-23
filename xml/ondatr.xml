@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ondatr.xml,v 1.6 2015/07/04 08:37:40 revo Exp $">
+<art mrk="$Id: ondatr.xml,v 1.8 2016/07/10 10:10:15 revo Exp $">
 <kap>
   <rad>ondatr</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -14,13 +14,14 @@
       <ref tip="lst" cel="mus.kampo0o"
       lst="voko:ron&gcirc;uloj">Kampomuso</ref>
        vivanta apud lagoj a&ubreve; riveroj en Nordameriko,
-      bredata pro felo, disvastin&gcirc;inta tra E&ubreve;razio;
+      bredata pro felo, disvasti&gcirc;inta tra E&ubreve;razio;
       unuspecia <ref tip="lst" cel="genr.0o.BIO" 
       lst="voko:zoologiaj_genroj">genro</ref> el familio 
       <ref tip="malprt" cel="hamstr1.0oj">hamstredoj</ref>
       (<trd lng="la">Ondatra</trd>):
       <ekz>
-        aliaj plantman&gcirc;antoj enmigris memstare, kiel <klr>...</klr>
+        aliaj plantman&gcirc;antoj enmigris memstare, kiel
+        <klr>...</klr>
         kastoroj kaj <tld/>oj
         <fnt>
           <bib>Viki</bib>,
@@ -36,6 +37,7 @@
   <trd lng="cs">ondatra</trd>
   <trd lng="de">Bisamratte</trd>
   <trd lng="en">muscrat</trd>
+  <trd lng="es">rata almizclera</trd>
   <trd lng="fr">rat musqu&eacute;</trd>
   <trd lng="sk">ondatra</trd>
 </drv>
@@ -43,6 +45,12 @@
 
 <!--
 $Log: ondatr.xml,v $
+Revision 1.8  2016/07/10 10:10:15  revo
+Carlos Garcia: +trd es -o
+
+Revision 1.7  2016/06/25 22:10:18  revo
+Jeromo Vasxe: disvastingxinta -> disvastigxinta
+
 Revision 1.6  2015/07/04 08:37:40  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -59,7 +67,5 @@ Revision 1.2  2012/11/06 15:10:10  revo
 Wieland Pusch: +trd bg+de
 
 Revision 1.1  2012/11/05 01:10:08  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: transi1.xml,v 1.27 2015/07/04 08:37:45 revo Exp $">
+<art mrk="$Id: transi1.xml,v 1.29 2016/08/11 09:10:15 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>transitiv</rad>/a
@@ -14,12 +14,13 @@
     <dif>
       Kvalifikas verbon, kiu esprimas agon rekte pasantan de subjekto al
       objekto kaj kies komplemento estas en Esperanto senpere kaj
-      senprepozicie signita per akuz.; transira. Ekz.:
+      senprepozicie signita per akuzativo; transira. Ekz.:
       <ekz>
         movi, frapi, turni, lavi, komenci, &ccirc;esigi,
         enuigi, da&ubreve;rigi.
       </ekz>
     </dif>
+    <ref tip="vid" cel="akuzat.0o">akuzativo</ref>
     <trdgrp lng="hu">
       <trd>t&aacute;rgyas</trd>,
       <trd>tranzit&iacute;v</trd>
@@ -95,8 +96,8 @@
   </trdgrp>
   <trd lng="ca">transitiu</trd>
   <trdgrp lng="cs">
-    <trd>přechodný <klr>(sloveso)</klr></trd>,
-    <trd>tranzitivní</trd>
+    <trd>p&rcaron;echodn&yacute; <klr>(sloveso)</klr></trd>,
+    <trd>tranzitivn&iacute;</trd>
   </trdgrp>
   <trd lng="de">transitiv</trd>
   <trd lng="en">transitive</trd>
@@ -104,8 +105,8 @@
   <trd lng="fr">transitif</trd>
   <trd lng="nl">transitief</trd>
   <trdgrp lng="sk">
-    <trd>prechodný</trd>,
-    <trd>tranzitívny</trd>
+    <trd>prechodn&yacute;</trd>,
+    <trd>tranzit&iacute;vny</trd>
   </trdgrp>
 </drv>
 
@@ -122,6 +123,7 @@
         okazi, morti.
       </ekz>
     </dif>
+    <ref tip="vid" cel="prepoz.0o">prepozicio</ref>
     <trd lng="ca">intransitiu</trd>
     <trd lng="de">intransitiv</trd>
     <trd lng="en">intransitive</trd>
@@ -151,15 +153,21 @@
     <trd>&c_n;&c_je;&c_p;&c_je;&c_r;&c_a;&c_h;&c_o;&c_d;&c_n;&c_y;</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>chůzí nepřekonatelný</trd>,
-    <trd>jízdou nepřekonatelný</trd>,
-    <trd>nepřechodný</trd>
+    <trd>ch&uring;z&iacute; nep&rcaron;ekonateln&yacute;</trd>,
+    <trd>j&iacute;zdou nep&rcaron;ekonateln&yacute;</trd>,
+    <trd>nep&rcaron;echodn&yacute;</trd>
   </trdgrp>
-  <trd lng="sk">neprechodný <klr>(sloveso)</klr></trd>
+  <trd lng="sk">neprechodn&yacute; <klr>(sloveso)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: transi1.xml,v $
+Revision 1.29  2016/08/11 09:10:15  revo
+Damien Brucker: +ref (dauxrigo)
+
+Revision 1.28  2016/08/11 08:10:14  revo
+Damien Brucker: +ref (vidu)
+
 Revision 1.27  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -176,17 +184,5 @@ Revision 1.23  2004/12/14 17:31:25  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.22  2004/10/12 16:32:25  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.21  2003/04/09 16:31:23  revo
-Paul Peeraerts: ald pliajn trd nl
-
-Revision 1.20  2003/02/24 17:34:35  revo
-Marc Bavant: ~a: +ekz kun ~eco
-
-Revision 1.19  2003/02/01 17:34:24  revo
-Marc Bavant: +trd pl
-
-Revision 1.18  2003/01/02 17:51:58  revo
 -->
 </vortaro>

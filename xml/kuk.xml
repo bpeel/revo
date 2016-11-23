@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kuk.xml,v 1.26 2015/10/13 09:10:31 revo Exp $">
+<art mrk="$Id: kuk.xml,v 1.27 2016/07/25 20:10:16 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>kuk</rad>/o</kap>
 <drv mrk="kuk.0o">
@@ -10,7 +10,8 @@
   <snc mrk="kuk.0o.KUI">
     <uzo tip="fak">KUI</uzo>
     <dif>
-      Franda <ref tip="super" cel="bak.0ajxo.KUI">baka&jcirc;o</ref> el 
+      Franda <ref tip="lst" cel="bak.0ajxo.KUI"
+      lst="voko:man&gcirc;a&jcirc;oj">baka&jcirc;o</ref> el 
       diversspeca pasto kun sukero:
       <ekz>
         tablon ornamas ne tuko sed <tld/>o<fnt><bib>PrV</bib></fnt>;
@@ -203,6 +204,9 @@
 </art>
 <!--
 $Log: kuk.xml,v $
+Revision 1.27  2016/07/25 20:10:16  revo
+Wolfram Diestel: listo mangxajxoj
+
 Revision 1.26  2015/10/13 09:10:31  revo
 Sebastian Cyprych: +trd pl
 
@@ -222,8 +226,5 @@ Revision 1.21  2009/09/19 16:30:34  revo
 Paul Peeraerts: +nl +mielkuko
 
 Revision 1.20  2006/08/11 14:16:01  revo
-Jeromo Vasxe: + mrk + tez + 1 ekz
-
-Revision 1.19  2006/07/29 16:33:36  revo
 -->
 </vortaro>

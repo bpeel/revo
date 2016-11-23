@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ced.xml,v 1.28 2015/07/20 22:10:15 revo Exp $">
+<art mrk="$Id: ced.xml,v 1.29 2016/09/07 04:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ced</rad>/i <fnt><bib>PV</bib></fnt>
@@ -288,7 +288,10 @@
     </dif>
   </snc>
   <trd lng="cs">postoupit</trd>
-  <trd lng="fr">conc&eacute;der</trd>
+  <trdgrp lng="fr">
+    <trd>conc&eacute;der</trd>,
+    <trd>ali&eacute;ner</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>afstaan</trd>,
     <trd>afstand doen van</trd>
@@ -446,6 +449,9 @@
 </art>
 <!--
 $Log: ced.xml,v $
+Revision 1.29  2016/09/07 04:10:22  revo
+Alain Gerard: +trd fr
+
 Revision 1.28  2015/07/20 22:10:15  revo
 Jeromo Vasxe: + trans~i
 
@@ -465,8 +471,5 @@ Revision 1.23  2012/08/25 18:10:09  revo
 Marc Rausell: + trd ca
 
 Revision 1.22  2010/06/11 16:30:22  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.21  2009/04/28 16:31:01  revo
 -->
 </vortaro>

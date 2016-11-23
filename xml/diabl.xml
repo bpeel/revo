@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: diabl.xml,v 1.30 2015/07/04 08:37:32 revo Exp $">
+<art mrk="$Id: diabl.xml,v 1.32 2016/10/20 18:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>diabl</rad>/o <fnt><bib>PV</bib></fnt>
@@ -33,7 +33,8 @@
     <trdgrp lng="pl">
       <trd>Antychryst</trd>,
       <trd>Belzebub</trd>,
-      <trd>Lucyfer</trd>
+      <trd>Lucyfer</trd>,
+      <trd>Szatan</trd>
     </trdgrp>
     <trd lng="ru">&c_d;&c_mol;&c_ja;&c_v;&c_o;&c_l;</trd>
   </snc>
@@ -118,7 +119,7 @@
   <trdgrp lng="cs">
     <trd>&ccaron;ert</trd>,
     <trd>&dcaron;&aacute;bel</trd>,
-    <trd>ďábel</trd>
+    <trd>&dcaron;&aacute;bel</trd>
   </trdgrp>
   <trd lng="de">Teufel</trd>
   <trd lng="en">devil</trd>
@@ -157,10 +158,10 @@
     <trd>&c_sh;&c_a;&c_t;&c_a;&c_n;&c_s;&c_k;&c_ib;</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>diabolický</trd>,
-    <trd>zlý</trd>,
-    <trd>čertovský</trd>,
-    <trd>ďábelský</trd>
+    <trd>diabolick&yacute;</trd>,
+    <trd>zl&yacute;</trd>,
+    <trd>&ccaron;ertovsk&yacute;</trd>,
+    <trd>&dcaron;&aacute;belsk&yacute;</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>teuflisch</trd>,
@@ -171,7 +172,10 @@
     <trd>diabolical</trd>,
     <trd>devilish</trd>
   </trdgrp>
-  <trd lng="es">diab&oacute;lico</trd>
+  <trdgrp lng="es">
+    <trd>diab&oacute;lico</trd>,
+    <trd>diab&oacute;lica</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>diabolique</trd>,
     <trd>d&eacute;moniaque</trd>
@@ -240,13 +244,14 @@
     <trd>&c_d;'&c_ja;&c_b;&c_a;&c_l;&c_mol;&c_s;&c_k;&c_ib;</trd>,
     <trd>&c_ch;&c_a;&c_r;&c_t;&c_o;&c_w;&c_s;&c_k;&c_ib;</trd>
   </trdgrp>
-  <trd lng="cs">ďábelsky</trd>
+  <trd lng="cs">&dcaron;&aacute;belsky</trd>
   <trdgrp lng="de">
     <trd>Mist</trd>,
     <trd>verdammt</trd>,
     <trd>Schei&szlig;e</trd>
   </trdgrp>
   <trd lng="en">diabolically</trd>
+  <trd lng="es">&#161;diablos!</trd>
   <trd lng="he">&bet;&alef;&vav;&pe;&fnun;
   <ind>&shin;&tet;&nun;&yod;</ind></trd>
   <trdgrp lng="hu">
@@ -307,11 +312,12 @@
       Malgranda, komika <tld/>o.
     </dif>
   </snc>
-  <trd lng="cs">čertík</trd>
+  <trd lng="cs">&ccaron;ert&iacute;k</trd>
   <trdgrp lng="de">
     <trd>Teufelchen</trd>
   </trdgrp>
   <trd lng="en">little <ind>devil</ind></trd>
+  <trd lng="es">diablillo</trd>
   <trd lng="fr">diablotin</trd>
   <trd lng="he">&shin;&tet;&fnun; &qof;&tet;&fnun;</trd>
   <trd lng="hu">kis&ouml;rd&ouml;g</trd>
@@ -323,6 +329,12 @@
 </art>
 <!--
 $Log: diabl.xml,v $
+Revision 1.32  2016/10/20 18:10:15  revo
+Carlos Garcia: +trd es -a -e -et
+
+Revision 1.31  2016/10/06 11:10:14  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.30  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -339,14 +351,5 @@ Revision 1.26  2007/07/23 16:31:36  revo
 Tulio Flores: +tr pt
 
 Revision 1.25  2007/05/22 16:32:05  revo
-Wieland Pusch: +trd de
-
-Revision 1.24  2006/01/18 17:31:17  revo
-Jeromo Vasxe: kor aut en fnt
-
-Revision 1.23  2006/01/16 17:32:59  revo
-Jeromo Vasxe: + ekz, ~e 2 snc
-
-Revision 1.22 2005/01/24 19:03:11 revo
 -->
 </vortaro>

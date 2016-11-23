@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: turp.xml,v 1.4 2015/12/26 14:10:22 revo Exp $">
+<art mrk="$Id: turp.xml,v 1.5 2016/10/06 08:10:17 revo Exp $">
 <kap>
   <rad>turp</rad>/a <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -24,12 +24,19 @@
   <trd lng="cs">o&scaron;kliv&yacute;</trd>
   <trd lng="en">ugly</trd>
   <trd lng="fr">hideux</trd>
+  <trdgrp lng="pl">
+    <trd>brzydki</trd>,
+    <trd>szkaradny</trd>
+  </trdgrp>
   <trd lng="sk">&scaron;kared&yacute;</trd>
 </drv>
 </art>
 
 <!--
 $Log: turp.xml,v $
+Revision 1.5  2016/10/06 08:10:17  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.4  2015/12/26 14:10:22  revo
 Cindy Moon McKee: +trd en
 
