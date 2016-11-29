@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lampio.xml,v 1.14 2014/04/15 06:10:13 revo Exp $">
+<art mrk="$Id: lampio.xml,v 1.15 2016/11/23 23:10:16 revo Exp $">
 <kap>
   <rad>lampion</rad>/o
   <fnt>Z</fnt>
@@ -36,6 +36,7 @@
     <trd>pap&iacute;rl&aacute;mpa</trd>
   </trdgrp>  
   <trd lng="nl">lampion</trd>
+  <trd lng="no">lykt<klr tip="amb"> (med kul&oslash;rte glass)</klr></trd>
   <trd lng="pl">lampion</trd>
   <trdgrp lng="pt">
     <trd>lampi&atilde;o</trd>,
@@ -46,6 +47,9 @@
 </art>
 <!--
 $Log: lampio.xml,v $
+Revision 1.15  2016/11/23 23:10:16  revo
+Filip van Laenen: +trd no
+
 Revision 1.14  2014/04/15 06:10:13  revo
 Damien Brucker: +trd fr
 
@@ -65,8 +69,5 @@ Revision 1.9  2004/05/22 16:32:24  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.8  2002/09/14 18:51:39  revo
-Ulrich Fellmann: + 2 trd de
-
-Revision 1.7  2002/08/18 18:00:38  revo
 -->
 </vortaro>

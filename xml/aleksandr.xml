@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aleksandr.xml,v 1.11 2016/11/20 18:10:13 revo Exp $">
+<art mrk="$Id: aleksandr.xml,v 1.13 2016/11/22 07:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>Aleksandr</rad>/o
@@ -10,14 +10,14 @@
 
 <drv mrk="aleksandr.A0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <uzo tip="fak">NOM</uzo>
   <snc>
+  <uzo tip="fak">NOM</uzo>
     <dif>
       Vira <ref tip="lst" cel="nom.antaux0o"
       lst="voko:personaj_nomoj">anta&ubreve;nomo</ref> grekdevena:
       <ekz>
         <tld/>o ne volas lerni
-        <fnt><bib>F</bib>, <lok>&FE; 9</lok></fnt>;
+        <fnt><bib>F</bib>, <lok>&FE; 9</lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -41,25 +41,31 @@
 
 <drv mrk="aleksandr.A0o.la_granda">
   <kap><tld/>o la Granda</kap>
-  <uzo tip="fak">HIS</uzo>
   <snc>
+  <uzo tip="fak">HIS</uzo>
     <dif>
       <tld lit="A"/>o la 3a de Makedonujo (356 a. K. &ndash; 323 a. K.),
       konkerinto de vasta efemera imperio de Grekujo okcidente
       &gcirc;is nordokcidenta Hindujo oriente, kiu vastigis la influon
       de la helena kulturo:
       <ekz>
-        330 jc a.K. &dash; post la disfalo de Persa imperio pro la atakoj de <tld/>o la Granda, aramea lingvo cedas la pozicion de oficiala lingvo
+        330 jc a.K. &#8208; post la disfalo de Persa imperio pro la atakoj de
+        <tld/>o la Granda, aramea lingvo cedas la pozicion de oficiala
+        lingvo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=202'>Aramea lingvo</url></lok>
+          <lok><url ref='https://eo.wikipedia.org/?curid=202'>Aramea
+          lingvo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        en <ctl>Paralelaj Vivoj</ctl> Plutarko <klr>[...]</klr> skribis pri la vivoj de Aleksandro la Granda, Cezaro, Cicerono, <klr>[...]</klr>
+        en <ctl>Paralelaj Vivoj</ctl> Plutarko <klr>[...]</klr> skribis
+        pri la vivoj de Aleksandro la Granda, Cezaro, Cicerono,
+        <klr>[...]</klr>
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=3462'>Plutarko</url></lok>
+          <lok><url
+          ref='https://eo.wikipedia.org/?curid=3462'>Plutarko</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -68,7 +74,7 @@
   &c_V;&c_ja;&c_l;&c_ib;&c_k;&c_ib;</trd>
   <trd lng="de">Alexander der Gro&szlig;e</trd>
   <trd lng="en">Alexander the Great</trd>
-  <trd lng="fr">Alexandre le grand</trd>
+  <trd lng="fr">Alexandre le Grand</trd>
   <trdgrp lng="it">
     <trd><ind>Alessandro</ind> Magno</trd>,
     <trd><ind>Alessandro</ind> il macedone</trd>
@@ -90,6 +96,12 @@
 
 <!--
 $Log: aleksandr.xml,v $
+Revision 1.13  2016/11/22 07:10:21  revo
+Wolfram Diestel: kor. mrk. 2an fojon :)
+
+Revision 1.12  2016/11/21 11:10:24  revo
+Damien Brucker: -eraro cxe drv en mrk
+
 Revision 1.11  2016/11/20 18:10:13  revo
 Wolfram Diestel: ekz-oj, kor. mrk
 
@@ -106,11 +118,5 @@ Revision 1.7  2009/10/30 17:31:07  revo
 Antonio Codazzi: +trd it
 
 Revision 1.6  2009/02/11 19:42:48  revo
-Russ Williams: +trd en
-
-Revision 1.5  2008/09/16 16:30:36  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.4  2007/05/20 16:30:48  revo
 -->
 </vortaro>

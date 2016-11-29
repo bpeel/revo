@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: magnitud.xml,v 1.4 2015/07/04 08:37:39 revo Exp $">
+<art mrk="$Id: magnitud.xml,v 1.5 2016/11/23 21:10:17 revo Exp $">
 <kap>
   <rad>magnitud</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -31,6 +31,8 @@
           </fnt>.
         </ekz>
       </dif>
+      <trd lng="nl">momentmagnitudeschaal</trd>
+      <trd lng="no">momentmagnitude</trd>
     </subsnc>
     <subsnc mrk="magnitud.0o.AST">
       <uzo tip="fak">AST</uzo>
@@ -47,16 +49,23 @@
           </fnt>.
         </ekz>
       </dif>
+      <trd lng="nl">magnitude</trd>
+      <trd lng="no">st&oslash;rrelsesklasse</trd>
     </subsnc>
   </snc>
   <trd lng="cs">magnitudo</trd>
   <trd lng="fr">magnitude</trd>
-  <trd lng="sk">magnitúda</trd>
+  <trd lng="nl">magnitude</trd>
+  <trd lng="no">magnitude</trd>
+  <trd lng="sk">magnit&uacute;da</trd>
 </drv>
 </art>
 
 <!--
 $Log: magnitud.xml,v $
+Revision 1.5  2016/11/23 21:10:17  revo
+Filip van Laenen: +trd nl, no
+
 Revision 1.4  2015/07/04 08:37:39  revo
 aldono de trd cs per skripto de M. von Laer
 

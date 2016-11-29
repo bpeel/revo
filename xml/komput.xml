@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: komput.xml,v 1.44 2016/01/08 20:10:15 revo Exp $">
+  <art mrk="$Id: komput.xml,v 1.45 2016/11/20 23:10:20 revo Exp $">
     <kap>
       <ofc>9</ofc><rad>komput</rad>/i
       <fnt>(<lok><url ref="&KompLeks;/KO.HTM#KOMPUTI"
@@ -154,8 +154,7 @@
       <trdgrp lng="de">
         <trd>Rechner</trd>,
         <trd>Computer</trd>,
-        <trd>Komputer</trd>,
-        <trd>Elektronengehirn [arkaika]</trd>
+        <trd>Elektronengehirn <klr>[arkaika]</klr></trd>
       </trdgrp>
       <trd lng="en">computer</trd>
       <trdgrp lng="es">
@@ -596,6 +595,9 @@
   </art>
   <!--
   $Log: komput.xml,v $
+  Revision 1.45  2016/11/20 23:10:20  revo
+  Norbert Luckhardt: ~ilo: kor. trd. DE
+
   Revision 1.44  2016/01/08 20:10:15  revo
   Guillermo Molleda Jimena: trd es
 
