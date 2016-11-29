@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ten.xml,v 1.63 2016/06/03 20:10:36 revo Exp $">
+<art mrk="$Id: ten.xml,v 1.64 2016/11/25 21:11:04 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>ten</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -2864,6 +2864,10 @@
     <trd>chov&aacute;n&iacute;</trd>,
     <trd>zp&uring;sob my&scaron;len&iacute;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd><klr>(innere) </klr>Haltung</trd>,
+    <trd>Einstellung</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>comportamiento</trd>,
     <trd>conducta<klr tip="ind"> (comportamiento)</klr></trd>,
@@ -3425,6 +3429,9 @@
 </art>
 <!--
 $Log: ten.xml,v $
+Revision 1.64  2016/11/25 21:11:04  revo
+Norbert Luckhardt: sin~o: +trd DE
+
 Revision 1.63  2016/06/03 20:10:36  revo
 Omar Belingheri: +trd en,it
 
@@ -3444,8 +3451,5 @@ Revision 1.58  2014/01/09 02:10:22  revo
 Jeromo Vasxe: + el~emo
 
 Revision 1.57  2014/01/02 21:10:32  revo
-Jeromo Vasxe: + de~igxema
-
-Revision 1.56  2013/11/30 17:10:12  revo
 -->
 </vortaro>
