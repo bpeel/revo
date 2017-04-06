@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gastor.xml,v 1.8 2012/03/13 18:10:11 revo Exp $">
+<art mrk="$Id: gastor.xml,v 1.9 2017/03/31 08:10:20 revo Exp $">
 <kap>
   <rad>gastornit</rad>/o
 </kap>
@@ -18,12 +18,19 @@
   </snc>
   <trd lng="ca">g&egrave;nere Gastornis</trd>
   <trd lng="de">Gastornis</trd>
+  <trdgrp lng="fr">
+    <trd>Gastornis</trd>,
+    <trd>oiseau de Gaston</trd>
+  </trdgrp>
   <trd lng="hu">Gastornis</trd>
   <trd lng="pt">gast&oacute;rnis</trd>
 </drv>
 </art>
 <!--
 $Log: gastor.xml,v $
+Revision 1.9  2017/03/31 08:10:20  revo
+Damien Brucker: +trd fr
+
 Revision 1.8  2012/03/13 18:10:11  revo
 Marc Rausell: + trd ca
 

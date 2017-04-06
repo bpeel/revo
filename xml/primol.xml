@@ -2,15 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: primol.xml,v 1.21 2015/07/04 08:37:42 revo Exp $">
+<art mrk="$Id: primol.xml,v 1.22 2017/03/31 07:10:25 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>primol</rad>/o
 </kap>
 <drv mrk="primol.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <uzo tip="fak">BOT</uzo>
   <snc>
+  <uzo tip="fak">BOT</uzo>
     <dif>
       <ref tip="lst" cel="genr.0o.BIO"
       lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
@@ -34,6 +34,7 @@
     <trd>primrose</trd>,
     <trd>primula</trd>
   </trdgrp>
+  <trd lng="fr">primev&egrave;re</trd>
   <trdgrp lng="hu">
     <trd>kankalin</trd>,
     <trd>primula</trd>
@@ -56,13 +57,16 @@
     <trd>prvosienka</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>petrklíč</trd>,
+    <trd>petrkl&iacute;&ccaron;</trd>,
     <trd>prvosenka</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: primol.xml,v $
+Revision 1.22  2017/03/31 07:10:25  revo
+Damien Brucker: +trd fr
+
 Revision 1.21  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -82,14 +86,5 @@ Revision 1.16  2006/03/20 17:32:49  revo
 Tulio Flores: +tr pt
 
 Revision 1.15  2002/05/13 16:32:50  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.14  2002/03/24 20:30:56  revo
-Wolfram Diestel: +bld, precizigis dif
-
-Revision 1.13  2001/12/24 19:30:20  revo
-Yury Finkel: +trd ru
-
-Revision 1.12 2001/09/02 18:13:28 revo
 -->
 </vortaro>

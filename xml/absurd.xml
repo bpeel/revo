@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: absurd.xml,v 1.31 2017/02/08 14:10:17 revo Exp $">
+<art mrk="$Id: absurd.xml,v 1.32 2017/04/01 16:10:17 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>absurd</rad>/a
@@ -84,6 +84,10 @@
     <trd>absurdn&iacute;</trd>,
     <trd>protismysln&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="da">
+    <trd>absurd</trd>,
+    <trd>meningsl&oslash;s</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>absurd</trd>,
     <trd>ungereimt</trd>,
@@ -132,6 +136,9 @@
 </art>
 <!--
 $Log: absurd.xml,v $
+Revision 1.32  2017/04/01 16:10:17  revo
+Lars Raarup Knudsen: dana traduko
+
 Revision 1.31  2017/02/08 14:10:17  revo
 Adam Eng: trd ms
 
@@ -151,8 +158,5 @@ Revision 1.26  2009/08/23 16:32:45  revo
 Emmanuel Debanne: +trd tr
 
 Revision 1.25  2008/07/29 16:31:08  revo
-Wieland Pusch: +trd bg
-
-Revision 1.24  2005/02/14 18:20:34  revo
 -->
 </vortaro>

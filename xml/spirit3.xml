@@ -2,20 +2,26 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: spirit3.xml,v 1.14 2015/07/04 08:37:44 revo Exp $">
+<art mrk="$Id: spirit3.xml,v 1.15 2017/03/31 07:10:24 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>spiritualism</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="spirit3.0o">
   <kap><tld/>o</kap>
+  <snc>
   <ref tip="dif" cel="spiritual.0ismo">spiritual-ismo</ref>
+  </snc>
+  <trd lng="fr">spiritualisme</trd>
   <trd lng="sk">spiritualizmus</trd>
   <trd lng="cs">spiritualizmus</trd>
 </drv>
 </art>
 <!--
 $Log: spirit3.xml,v $
+Revision 1.15  2017/03/31 07:10:24  revo
+Damien Brucker: +trd fr
+
 Revision 1.14  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -35,14 +41,5 @@ Revision 1.9  2004/10/27 16:31:17  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.8  2003/01/21 17:31:23  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.7  2002/02/15 17:34:04  revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/10/07 18:17:04 revo
-Dennis Wibrow: +trd germ
-
-Revision 1.5 2001/08/01 18:12:38 revo
 -->
 </vortaro>

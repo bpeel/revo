@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: direktiv.xml,v 1.3 2015/07/04 08:37:32 revo Exp $">
+<art mrk="$Id: direktiv.xml,v 1.4 2017/03/31 07:10:14 revo Exp $">
 <kap>
   <rad>direktiv</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -26,18 +26,22 @@
   <trdgrp lng="cs">
     <trd>instrukce</trd>,
     <trd>pokyn</trd>,
-    <trd>směrnice</trd>
+    <trd>sm&ecaron;rnice</trd>
   </trdgrp>
+  <trd lng="fr">directive</trd>
   <trdgrp lng="sk">
     <trd>pokyn</trd>,
     <trd>smernica</trd>,
-    <trd>úprava</trd>
+    <trd>&uacute;prava</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: direktiv.xml,v $
+Revision 1.4  2017/03/31 07:10:14  revo
+Damien Brucker: +trd fr
+
 Revision 1.3  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
 

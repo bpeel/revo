@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: paludism.xml,v 1.4 2015/07/04 08:37:40 revo Exp $">
+<art mrk="$Id: paludism.xml,v 1.5 2017/04/03 16:10:20 revo Exp $">
 <kap>
   <rad>paludism</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,17 +27,24 @@
       Jaroj da Soleco</vrk>, <lok>Fonto, 1992</lok></fnt>.
     </ekz>
   </snc>
-  <trd lng="cs">malárie</trd>
+  <trd lng="cs">mal&aacute;rie</trd>
+  <trdgrp lng="fr">
+    <trd>paludisme</trd>,
+    <trd>malaria</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>paludisme</trd>,
     <trd>malaria</trd>
   </trdgrp>
-  <trd lng="sk">malárie</trd>
+  <trd lng="sk">mal&aacute;rie</trd>
 </drv>
 </art>
 
 <!--
 $Log: paludism.xml,v $
+Revision 1.5  2017/04/03 16:10:20  revo
+Ludoviko Francisco: +trd fr
+
 Revision 1.4  2015/07/04 08:37:40  revo
 aldono de trd cs per skripto de M. von Laer
 

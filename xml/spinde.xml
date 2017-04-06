@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: spinde.xml,v 1.12 2015/09/05 15:10:16 revo Exp $">
+<art mrk="$Id: spinde.xml,v 1.14 2017/04/04 12:10:15 revo Exp $">
 <kap>
   <rad>spindel</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -63,11 +63,17 @@
     </dif>
   </snc>
   <trd lng="en">fusee</trd>
-  <trd lng="fr">fus&eacute;e<klr> (horlogerie)</klr></trd>
+  <trd lng="fr">fus&eacute;e<klr tip="ind"> (horlogerie)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: spinde.xml,v $
+Revision 1.14  2017/04/04 12:10:15  revo
+Ludoviko Francisco: spaceto de ekster al ene de la elemento 'klr'.
+
+Revision 1.13  2017/04/04 08:10:13  revo
+Ludoviko Francisco: +tip
+
 Revision 1.12  2015/09/05 15:10:16  revo
 Jeromo Vasxe: + ekz
 
@@ -84,11 +90,5 @@ Revision 1.8  2010/03/03 17:31:21  revo
 Russ Williams: +trd en
 
 Revision 1.7  2004/10/26 16:31:36  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.6  2002/02/15 17:33:55  revo
-Yury Finkel: +trd ru
-
-Revision 1.5 2001/10/07 18:17:32 revo
 -->
 </vortaro>

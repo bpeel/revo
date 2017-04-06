@@ -2,15 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kocx.xml,v 1.4 2012/07/31 16:10:22 revo Exp $">
+<art mrk="$Id: kocx.xml,v 1.5 2017/03/31 08:10:25 revo Exp $">
 <kap>
   <rad>ko&ccirc;</rad>/o
 </kap>
 <drv mrk="kocx.0o">
-  <kap><tld/>o</kap>
-  <uzo tip="fak">ZOO</uzo>
-  <fnt><bib>PIV1</bib></fnt>
+  <kap><tld/>o <fnt><bib>PIV1</bib></fnt></kap>
   <snc>
+  <uzo tip="fak">ZOO</uzo>
     <ref tip="dif" cel="kocxen.0o.ZOO">ko&ccirc;enilo <sncref/></ref>
     <rim>
       Pro la tie donitaj tradukoj la zoologia senco jam enestas en la 
@@ -23,12 +22,16 @@
     </rim>
   </snc>
   <trd lng="ca">cotxinilla</trd>
+  <trd lng="fr">cochenille</trd>
   <trd lng="nl">cochenilleluis</trd>
 </drv>
 </art>
 
 <!--
 $Log: kocx.xml,v $
+Revision 1.5  2017/03/31 08:10:25  revo
+Damien Brucker: +trd fr
+
 Revision 1.4  2012/07/31 16:10:22  revo
 Marc Rausell: + trd ca
 

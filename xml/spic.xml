@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: spic.xml,v 1.27 2015/09/30 09:10:12 revo Exp $">
+<art mrk="$Id: spic.xml,v 1.28 2017/04/04 16:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>spic</rad>/o <fnt><bib>PV</bib></fnt>
@@ -75,7 +75,6 @@
       <trd>especiat</trd>,
       <trd>assaonat</trd>
     </trdgrp>
-    <trd lng="fr">&eacute;pic&eacute;</trd>
     <trdgrp lng="nl">
       <trd>gekruid</trd>,
       <trd>kruidig</trd>
@@ -118,6 +117,7 @@
     </trdgrp>
   </snc>
   <trd lng="cs">ko&rcaron;en&ecaron;n&yacute;</trd>
+  <trd lng="fr">&eacute;pic&eacute;</trd>
   <trd lng="sk">korenen&yacute;</trd>
 </drv>
 
@@ -210,6 +210,9 @@
 </art>
 <!--
 $Log: spic.xml,v $
+Revision 1.28  2017/04/04 16:10:19  revo
+Ludoviko Francisco: +trd fr
+
 Revision 1.27  2015/09/30 09:10:12  revo
 Sebastian Cyprych: +trd pl
 
@@ -229,8 +232,5 @@ Revision 1.22  2009/09/05 16:31:18  revo
 Paul Peeraerts: +nl
 
 Revision 1.21  2007/06/14 16:31:43  revo
-Jeromo Vasxe: + mrk + trd fr
-
-Revision 1.20 2006/09/22 12:27:00 revo
 -->
 </vortaro>

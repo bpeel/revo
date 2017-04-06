@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pol1.xml,v 1.7 2015/07/04 08:37:41 revo Exp $">
+<art mrk="$Id: pol1.xml,v 1.8 2017/04/04 16:10:18 revo Exp $">
 <kap>
   <rad>pol</rad>/i <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -33,7 +33,7 @@
   <rim>
     Ne konfuzu kun polio (malsano).
   </rim>
-  <trd lng="sk">aproximovať</trd>
+  <trd lng="sk">aproximova&tcaron;</trd>
 </drv>
 
 <drv mrk="pol1.inter0i">
@@ -53,8 +53,8 @@
   </snc>
   <trd lng="cs">interpolovat, vsunout</trd>
   <trdgrp lng="sk">
-    <trd>interpolovať</trd>,
-    <trd>vsunúť</trd>
+    <trd>interpolova&tcaron;</trd>,
+    <trd>vsun&uacute;&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -73,7 +73,7 @@
     <trd lng="nl">extrapoleren</trd>
     <trd lng="pl">ekstrapolowa&cacute;</trd>
   </snc>
-  <trd lng="sk">extrapolovať</trd>
+  <trd lng="sk">extrapolova&tcaron;</trd>
 </drv>
 
 <drv mrk="pol1.ekstra0i">
@@ -83,7 +83,8 @@
     <uzo tip="fak">MAT</uzo>
       <ref tip="dif" cel="pol1.ekster0i.MAT">eksterpoli</ref>
   </snc>
-   <trd lng="nl">extrapoleren</trd>
+  <trd lng="fr">extrapoler</trd>
+  <trd lng="nl">extrapoleren</trd>
 </drv>
 
 <adm>
@@ -98,6 +99,9 @@
 
 <!--
 $Log: pol1.xml,v $
+Revision 1.8  2017/04/04 16:10:18  revo
+Ludoviko Francisco: +trd fr
+
 Revision 1.7  2015/07/04 08:37:41  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -116,9 +120,6 @@ Paul Peeraerts: +nl
 Revision 1.2  2008/12/11 17:31:03  revo
 Luiz Portella: ~i: kor mrk; inter~i: kor mrk, kor dif; ekster~i: kor mrk
 kor dif; ekstra~i: ...
-
-Revision 1.1  2008/10/03 18:16:22  revo
-Sebastian Cyprych: nova artikolo
 
 -->
 </vortaro>
