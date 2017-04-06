@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-   <art mrk="$Id: hxerone.xml,v 1.9 2014/02/08 08:10:17 revo Exp $">
+   <art mrk="$Id: hxerone.xml,v 1.10 2017/03/29 07:10:22 revo Exp $">
      <kap><rad>&Hcirc;erone</rad>/o <fnt><bib>NePiv</bib></fnt></kap>
 
      <drv mrk="hxerone.0o">
@@ -19,6 +19,7 @@
        <trd lng="bg">&c_H;&c_je;&c_r;&c_o;&c_n;&c_je;&c_ja;</trd>
        <trd lng="de">Chaironeia</trd>
        <trd lng="en">Chaeronea</trd>
+       <trd lng="fr">Ch&eacute;ron&eacute;e</trd>
        <trd lng="el">&Chi;&alfa;&jota;&rho;&omega_acute;&ny;&epsilon;&jota;&alfa;</trd>
        <trd lng="fi">Khaironeia</trd>
        <trd lng="la">Chaeronea</trd>
@@ -30,6 +31,9 @@
    </art>
 <!--
 $Log: hxerone.xml,v $
+Revision 1.10  2017/03/29 07:10:22  revo
+Damien Brucker: +trd fr
+
 Revision 1.9  2014/02/08 08:10:17  revo
 Damien Brucker: -eraro cxe ref
 
@@ -49,8 +53,5 @@ Revision 1.4  2007/06/15 16:30:44  revo
 Harri Laine: +trd fi
 
 Revision 1.3  2007/04/21 07:06:38  revo
-Tulio Flores: +tr pt
-
-Revision 1.2  2005/01/10 20:40:27  revo
 -->
 </vortaro>

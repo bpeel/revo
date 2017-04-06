@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: infekt.xml,v 1.29 2017/01/22 21:10:16 revo Exp $">
+  <art mrk="$Id: infekt.xml,v 1.30 2017/03/30 18:10:14 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>infekt</rad>/i
@@ -245,6 +245,7 @@
           </ekz>
         </dif>
         <trd lng="de"><klr tip="ind">(Krankheits-)</klr>Keim</trd>
+        <trd lng="fr">agent infectieux</trd>
         <trd lng="hu">fert&odblac;z&odblac; anyag</trd>
         <trd lng="nl">smetstof</trd>
         <trd lng="ru">&c_z;&c_a;&c_r;&c_a;&c_z;&c_a;</trd>
@@ -297,6 +298,9 @@
   </art>
   <!--
   $Log: infekt.xml,v $
+  Revision 1.30  2017/03/30 18:10:14  revo
+  Ludoviko Francisco: +trd fr
+
   Revision 1.29  2017/01/22 21:10:16  revo
   Adam Eng: tradukas
 

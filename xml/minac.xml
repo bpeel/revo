@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: minac.xml,v 1.25 2016/03/16 18:10:16 revo Exp $">
+<art mrk="$Id: minac.xml,v 1.26 2017/03/29 15:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>minac</rad>/i
@@ -72,6 +72,7 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_g;&c_r;&c_a;&c_zh;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_z;&c_a;&c_p;&c_l;&c_a;&c_sh;&c_v;&c_a;&c_m;</trd>
   <trd lng="br">gourdrouz<klr tip="ind"> (v.)</klr></trd>
   <trd lng="ca">amena&ccedil;ar</trd>
   <trdgrp lng="cs">
@@ -143,6 +144,7 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_g;&c_r;&c_o;&c_z;&c_a;</trd>
+  <trd lng="bg">&c_z;&c_a;&c_p;&c_l;&c_a;&c_h;&c_a;</trd>
   <trd lng="br">gourdrouz<klr tip="ind"> (ak.)</klr></trd>
   <trd lng="ca">amena&ccedil;a</trd>
   <trdgrp lng="cs">
@@ -169,6 +171,9 @@
 </art>
 <!--
 $Log: minac.xml,v $
+Revision 1.26  2017/03/29 15:10:16  revo
+Lyubomir Vasilev: +trd bg
+
 Revision 1.25  2016/03/16 18:10:16  revo
 Warut Bunprasert: +trd th
 
@@ -188,8 +193,5 @@ Revision 1.20  2008/05/16 16:31:12  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.19  2006/08/04 16:31:40  revo
-Tulio Flores: +tr pt
-
-Revision 1.18  2006/08/03 16:31:54  revo
 -->
 </vortaro>

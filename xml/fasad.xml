@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fasad.xml,v 1.23 2017/02/17 15:10:15 revo Exp $">
+<art mrk="$Id: fasad.xml,v 1.24 2017/03/30 17:10:19 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>fasad</rad>/o <fnt><bib>PV</bib></fnt>
@@ -76,6 +76,7 @@
     <trdgrp lng="en">
       <trd>front-end interface</trd>,
       <trd>look and feel</trd></trdgrp>
+    <trd lng="fr">interface</trd>
     <trd lng="hu">fel&uuml;let</trd>
     <trd lng="es">Interfaz de Usuario<klr> (computacional, de
     programas de computadora)</klr></trd>
@@ -123,6 +124,7 @@
       <trd>GUI</trd>,
       <trd>graphical user interface</trd>
     </trdgrp>
+    <trd lng="fr">interface graphique</trd>
     <trd lng="hu">grafikus <ind>fel&uuml;let</ind></trd>
     <trd lng="es">Interfaz Gr&aacute;fica de Usuario</trd>
     <trdgrp lng="it">
@@ -142,6 +144,9 @@
 </art>
 <!--
 $Log: fasad.xml,v $
+Revision 1.24  2017/03/30 17:10:19  revo
+Ludoviko Francisco: +trd fr
+
 Revision 1.23  2017/02/17 15:10:15  revo
 Jeromo Vasxe: diponigante ->  disponigante
 
@@ -161,8 +166,5 @@ Revision 1.18  2009/03/15 17:31:27  revo
 Wieland Pusch: +trd bg
 
 Revision 1.17  2009/03/13 17:30:41  revo
-Russ Williams: +trd en
-
-Revision 1.16  2007/06/27 16:30:52  revo
 -->
 </vortaro>

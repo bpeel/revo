@@ -2,12 +2,12 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: litori1.xml,v 1.6 2013/08/31 16:10:34 revo Exp $">
+<art mrk="$Id: litori1.xml,v 1.7 2017/03/29 07:10:14 revo Exp $">
 <kap><rad>litorined</rad>/oj</kap>
 <drv mrk="litori1.0oj">
   <kap><tld/>oj</kap>
-  <uzo tip="fak">ZOO</uzo>
   <snc>
+  <uzo tip="fak">ZOO</uzo>
      <dif>
        <ref tip="lst" cel="famili.0o.BIO"
        lst="voko:zoologiaj_familioj">Familio</ref> el la klaso <ref
@@ -17,6 +17,7 @@
      </dif>
   </snc>
   <trd lng="de">Strandschnecke <klr>[Familie]</klr></trd>
+  <trd lng="fr">Littorinid&eacute;s</trd>
   <trd lng="hu">parti <ind>csig&aacute;k</ind><klr tip="ind">
   (csal&aacute;d)</klr></trd>
   <trd lng="nl">alikruiken</trd>
@@ -26,6 +27,9 @@
 
 <!--
 $Log: litori1.xml,v $
+Revision 1.7  2017/03/29 07:10:14  revo
+Damien Brucker: +trd fr
+
 Revision 1.6  2013/08/31 16:10:34  revo
 Wolfram Diestel: referenco al listo zoo familioj
 

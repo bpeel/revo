@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krasul.xml,v 1.13 2013/08/27 07:10:33 revo Exp $">
+<art mrk="$Id: krasul.xml,v 1.14 2017/03/29 07:10:21 revo Exp $">
 <kap>
   <rad>krasul</rad>/o
 </kap>
@@ -10,8 +10,8 @@
   <kap>
     <tld/>o
   </kap>
-  <uzo tip="fak">BOT</uzo>
   <snc>
+  <uzo tip="fak">BOT</uzo>
     <dif>
       <ref tip="lst" cel="genr.0o.BIO"
       lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
@@ -22,6 +22,7 @@
     </dif>
   </snc>
   <trd lng="de">Dickblatt</trd>
+  <trd lng="fr">crassula</trd>
   <trd lng="hu">pozsga</trd>
   <trd lng="nl">crassula<klr tip="ind"> (vetplant)</klr></trd>
   <trd lng="pt">cr&aacute;ssula</trd>
@@ -30,6 +31,9 @@
 </art>
 <!--
 $Log: krasul.xml,v $
+Revision 1.14  2017/03/29 07:10:21  revo
+Damien Brucker: +trd fr
+
 Revision 1.13  2013/08/27 07:10:33  revo
 Wolfram Diestel: referenco al listo bot genroj
 
@@ -49,8 +53,5 @@ Revision 1.8  2001/04/20 12:55:09  revo
 krasul.0acoj -> krasul1.0oj
 
 Revision 1.7  2001/04/20 12:53:21  revo
-shovis krasul.0acoj al krasul1.0oj
-
-Revision 1.6  2000/11/30 12:44:11  revo
 -->
 </vortaro>

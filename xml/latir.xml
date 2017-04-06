@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: latir.xml,v 1.15 2013/08/30 10:10:15 revo Exp $">
+<art mrk="$Id: latir.xml,v 1.16 2017/03/29 07:10:25 revo Exp $">
 <kap>
   <rad>latir</rad>/o
 </kap>
@@ -10,8 +10,8 @@
   <kap>
     <tld/>o
   </kap>
-  <uzo tip="fak">BOT</uzo>
   <snc>
+  <uzo tip="fak">BOT</uzo>
     <dif>
       <ref tip="lst" cel="genr.0o.BIO"
       lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
@@ -36,6 +36,7 @@
     <trd>everlasting pea</trd>,
     <trd>meadow pea</trd>
   </trdgrp>
+  <trd lng="fr">gesse</trd>
   <trd lng="hu">lednek</trd>
   <trd lng="nl">lathyrus</trd>
   <trd lng="pt">l&aacute;tiro</trd>
@@ -44,6 +45,9 @@
 </art>
 <!--
 $Log: latir.xml,v $
+Revision 1.16  2017/03/29 07:10:25  revo
+Damien Brucker: +trd fr
+
 Revision 1.15  2013/08/30 10:10:15  revo
 Joop Eggen: +trd bg
 
@@ -63,8 +67,5 @@ Revision 1.10  2001/11/14 19:14:07  revo
 Yury Finkel: +trd ru
 
 Revision 1.9  2001/09/17 18:14:21  revo
-Karlo Freeman: +trd=en
-
-Revision 1.8  2001/04/19 14:31:03  revo
 -->
 </vortaro>
