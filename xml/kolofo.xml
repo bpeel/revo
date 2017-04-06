@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kolofo.xml,v 1.16 2016/03/12 13:10:16 revo Exp $">
+<art mrk="$Id: kolofo.xml,v 1.17 2017/03/23 10:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kolofon</rad>/o
@@ -24,6 +24,7 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_n;&c_ib;&c_f;&c_o;&c_l;&c_mol;</trd>
+  <trd lng="bg">&c_k;&c_o;&c_l;&c_o;&c_f;&c_o;&c_n;</trd>
   <trdgrp lng="ca">
     <trd>colof&ograve;nia</trd>,
     <trd>pega grega</trd>
@@ -58,6 +59,9 @@
 </art>
 <!--
 $Log: kolofo.xml,v $
+Revision 1.17  2017/03/23 10:10:12  revo
+Lyubomir Vasilev: +trd bg
+
 Revision 1.16  2016/03/12 13:10:16  revo
 Wolfram Diestel: ref al rezino
 
@@ -77,8 +81,5 @@ Revision 1.11  2007/02/22 17:30:29  revo
 Tulio Flores: +tr pt
 
 Revision 1.10  2004/12/26 17:34:33  revo
-Marc Bavant: +trd fr, +KEM, +ref al "kolfono"
-
-Revision 1.9  2002/12/18 18:51:35  revo
 -->
 </vortaro>
