@@ -2,13 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: vifi.xml,v 1.4 2014/03/22 08:10:15 revo Exp $">
+  <art mrk="$Id: vifi.xml,v 1.5 2017/02/27 21:10:36 revo Exp $">
     <kap><rad>vifi</rad>/o</kap>
 
     <drv mrk="vifi.0o">
       <kap><tld/>o</kap>
       <snc>
       <uzo tip="fak">KOMP</uzo>
+      <uzo tip="fak">RET</uzo>
       <uzo tip="fak">ELE</uzo>
         <dif>
           La varmarko de <ctl>Wi-Fi Alliance</ctl> por sendrataj
@@ -28,7 +29,7 @@
             </fnt>.
           </ekz>
         </dif>
-      <ref tip="vid" cel="ret.inter0o.la">Interreto</ref>  
+      <ref tip="vid" cel="ret.Inter0o">Interreto</ref>  
       </snc>
       <trd lng="en">Wi-Fi</trd>
       <trdgrp lng="fr">
@@ -41,6 +42,9 @@
 
 <!--
 $Log: vifi.xml,v $
+Revision 1.5  2017/02/27 21:10:36  revo
+Wolfram Diestel: kor. ref-cel, +RET
+
 Revision 1.4  2014/03/22 08:10:15  revo
 Damien Brucker: +ref
 

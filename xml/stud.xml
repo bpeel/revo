@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stud.xml,v 1.21 2016/10/20 07:10:23 revo Exp $">
+<art mrk="$Id: stud.xml,v 1.22 2017/01/02 23:10:14 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>stud</rad>/i <fnt><bib>PV</bib></fnt>
@@ -126,9 +126,30 @@
   <trd lng="fr">&eacute;tude<klr> (ouvrage)</klr></trd>
   <trd lng="pl">studium</trd>
 </drv>
+
+<drv mrk="stud.0inda">
+  <kap><tld/>inda</kap>
+  <snc mrk="stud.0inda.KOMUNE">
+    <dif>
+      Kies <tld/>ado eble donos interesan rezulton:
+      <ekz>
+        jen ankora&ubreve; tre vasta, <tld/>inda kaj pliprofundiginda tereno
+        <fnt>
+          <aut>O. M. A&iuml;vanhov, trad. pluraj</aut>,
+          <vrk>La homo, konkere al sia destino</vrk>,
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">&agrave; <ind>approfondir</ind></trd>
+</drv>
 </art>
 <!--
 $Log: stud.xml,v $
+Revision 1.22  2017/01/02 23:10:14  revo
+Jeromo Vasxe: + ~inda
+
 Revision 1.21  2016/10/20 07:10:23  revo
 Sebastian Cyprych: +trd pl
 
@@ -148,8 +169,5 @@ Revision 1.16  2011/05/30 22:10:08  revo
 Mireille Corobu: aldonis studo
 
 Revision 1.15  2004/11/03 17:31:37  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.14  2004/07/13 16:31:11  revo
 -->
 </vortaro>

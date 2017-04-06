@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jam.xml,v 1.26 2015/10/23 13:10:18 revo Exp $">
+<art mrk="$Id: jam.xml,v 1.27 2017/01/28 13:10:22 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>jam</rad>
@@ -216,6 +216,7 @@ parolis)</klr>;
      <trd>bereits</trd>
    </trdgrp>
    <trd lng="es">ya</trd>
+   <trd lng="ms">sesudah</trd>
    <trdgrp lng="fi">
      <trd>jo</trd>,
      <trd><klr>(kieltosanan seuratessa) </klr> en&auml;&auml;</trd>
@@ -242,6 +243,9 @@ parolis)</klr>;
 </art>
 <!--
 $Log: jam.xml,v $
+Revision 1.27  2017/01/28 13:10:22  revo
+Adam Eng: + trd
+
 Revision 1.26  2015/10/23 13:10:18  revo
 Cindy Moon McKee: +trd en
 
@@ -261,8 +265,5 @@ Marc Bavant: kor trd fr, kor interpunkcion en ekz, +fnt FE
 
 Revision 1.21 2004/01/22 17:30:42 revo
 Emmanuel Debanne: +trd fr
-
-Revision 1.20 2004/01/13 18:59:02 revo
-Jeromo Vasxe: + bib fundamento en ekz
 -->
 </vortaro>

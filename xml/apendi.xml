@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: apendi.xml,v 1.27 2015/07/04 08:37:30 revo Exp $">
+  <art mrk="$Id: apendi.xml,v 1.28 2017/01/30 15:10:13 revo Exp $">
     <kap>
       <rad>apendic</rad>/o
     </kap>
@@ -68,16 +68,20 @@
       <trd lng="fr">appendice</trd>
       <trd lng="it">appendice</trd>
       <trd lng="tr">apandis</trd>
-      <trd lng="sk">dodatok, príloha</trd>
-  <trd lng="sk">dodatok, príloha</trd>
+      <trd lng="sk">dodatok, pr&iacute;loha</trd>
+      <trd lng="ms">lampiran</trd>
+  <trd lng="sk">dodatok, pr&iacute;loha</trd>
   <trdgrp lng="cs">
     <trd>apendix</trd>,
-    <trd>přívěsek slepého střeva</trd>
+    <trd>p&rcaron;&iacute;v&ecaron;sek slep&eacute;ho st&rcaron;eva</trd>
   </trdgrp>
 </drv>
   </art>
   <!--
   $Log: apendi.xml,v $
+  Revision 1.28  2017/01/30 15:10:13  revo
+  Adam Eng: +trd ms
+
   Revision 1.27  2015/07/04 08:37:30  revo
   aldono de trd cs per skripto de M. von Laer
 

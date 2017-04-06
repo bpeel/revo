@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: reklam.xml,v 1.25 2016/11/03 16:10:17 revo Exp $">
+<art mrk="$Id: reklam.xml,v 1.26 2017/01/28 12:10:19 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>reklam</rad>/i <fnt><bib>PV</bib></fnt>
@@ -97,6 +97,7 @@
     <trd>Reklame</trd>
   </trdgrp>
   <trd lng="en">advertisement</trd>
+  <trd lng="ms">iklan</trd>
   <trdgrp lng="es">
     <trd>publicidad</trd>,
     <trd>propaganda</trd>,
@@ -165,6 +166,9 @@
 </art>
 <!--
 $Log: reklam.xml,v $
+Revision 1.26  2017/01/28 12:10:19  revo
+Adam Eng: + trd
+
 Revision 1.25  2016/11/03 16:10:17  revo
 Carlos Garcia: +trd ro -o, es -ist
 
@@ -184,8 +188,5 @@ Revision 1.20  2006/02/19 17:32:16  revo
 Tulio Flores: +trd pt
 
 Revision 1.19  2005/05/12 16:32:37  revo
-Raul Salinas Monteagudo: +trd es
-
-Revision 1.18  2005/04/03 17:17:10  revo
 -->
 </vortaro>

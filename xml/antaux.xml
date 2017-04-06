@@ -2,11 +2,12 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: antaux.xml,v 1.70 2016/08/14 12:10:13 revo Exp $">
+<art mrk="$Id: antaux.xml,v 1.74 2017/03/07 19:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>anta&ubreve;</rad> <fnt><bib>PV</bib></fnt>
 </kap>
+
 <subart>
   <drv mrk="antaux.0">
     <kap><ofc>*</ofc><tld/></kap>
@@ -245,6 +246,10 @@
       sencon.
     </rim>
     <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_d;</trd>
+    <trdgrp lng="bg">
+      <trd>&c_p;&c_r;&c_je;&c_d;</trd>,
+      <trd>&c_p;&c_r;&c_je;&c_d;&c_i;</trd>
+    </trdgrp>
     <trd lng="de">vor</trd>
     <trdgrp lng="es">
       <trd>delante de</trd>,
@@ -262,6 +267,7 @@
     (&c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_g;)</klr></trd>
     <trd lng="sk">pred</trd>
   </drv>
+
   <drv mrk="antaux.al0">
     <kap>al <tld/>, <var><kap><tld/> ...-n</kap></var></kap>
     <snc>
@@ -320,6 +326,7 @@
     &c_p;&c_je;&c_r;&c_je;&c_d;<klr tip="amb">
     (&c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_g;)</klr></trd>
   </drv>
+
   <drv mrk="antaux.de0">
     <kap>de <tld/></kap>
     <snc mrk="antaux.de0.pliProksima">
@@ -430,16 +437,19 @@
       <trd>&c_o;&c_t;</trd>
     </trdgrp>
   </drv>
+
   <drv mrk="antaux.el0">
     <kap>el <tld/></kap>
     <snc>
-      <ref tip="dif" cel="antaux.de0.pliProksima">de <tld/> <sncref/>
-      </ref>
-      <ekz>
-        eliris fajro el <tld/> la Eternulo kaj konsumis
-        sur la altaro la bruloferon kaj la sebon
-        <fnt><bib>MT</bib>, <lok>&Lev; 9:24</lok></fnt>.
-      </ekz>
+      <dif>
+         <ref tip="dif" cel="antaux.de0.pliProksima">De <tld/>
+         <sncref/></ref>:
+        <ekz>
+          eliris fajro el <tld/> la Eternulo kaj konsumis
+          sur la altaro la bruloferon kaj la sebon
+          <fnt><bib>MT</bib>, <lok>&Lev; 9:24</lok></fnt>.
+        </ekz>
+      </dif>
     </snc>
     <trdgrp lng="es">
       <trd>desde la parte delantera de</trd>,
@@ -455,6 +465,7 @@
     <trd lng="pl">z przed</trd>
     <trd lng="ru">&c_o;&c_t;</trd>
   </drv>
+
   <drv mrk="antaux.mal0">
     <kap>mal<tld/></kap>
     <snc>
@@ -496,6 +507,10 @@
       <trd>&c_z;&c_a;</trd>,
       <trd>&c_p;&c_a;-&c_z;&c_a;</trd>
     </trdgrp>
+    <trdgrp lng="bg">
+      <trd>&c_z;&c_a;&c_d;</trd>,
+      <trd>&c_s;&c_l;&c_je;&c_d;</trd>
+    </trdgrp>
     <trd lng="en">behind</trd>
     <trdgrp lng="es">
       <trd>detr&aacute;s</trd>,
@@ -529,6 +544,7 @@
     <trd lng="sk">za</trd>
     <trd lng="vo">po</trd>
   </drv>
+
   <drv mrk="antaux.almal0">
     <kap>al mal<tld/>, <var><kap>mal<tld/> ...-n</kap></var></kap>
     <snc>
@@ -575,6 +591,7 @@
     (&c_o; &c_n;&c_a;&c_p;&c_r;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_i;)
     </klr></trd>
   </drv>
+
   <drv mrk="antaux.demal0">
     <kap>de mal<tld/></kap>
     <snc>
@@ -618,20 +635,23 @@
     (&c_o; &c_n;&c_a;&c_p;&c_r;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_i;,
     &c_m;&c_je;&c_s;&c_t;&c_je;)</klr></trd>
   </drv>
+
   <drv mrk="antaux.elmal0">
     <kap>el mal<tld/></kap>
     <snc>
-      <ref tip="dif" cel="antaux.demal0">de mal<tld/></ref>
-      <ekz>
-        fre&scirc;aj la&ubreve;robran&ccirc;oj, alportitaj
-        el mal<tld/> la montoj
-        <fnt><bib>Fab1</bib>, <lok>Ligo de amikeco</lok></fnt>;
-      </ekz>
-      <ekz>
-        &scirc;i prenis ankora&ubreve; el mal<tld/> la forno
-        faskon da lignetoj
-        <fnt><bib>Marta</bib></fnt>.
-      </ekz>
+      <dif>
+        <ref tip="dif" cel="antaux.demal0">De mal<tld/></ref>:
+        <ekz>
+          fre&scirc;aj la&ubreve;robran&ccirc;oj, alportitaj
+          el mal<tld/> la montoj
+          <fnt><bib>Fab1</bib>, <lok>Ligo de amikeco</lok></fnt>;
+        </ekz>
+        <ekz>
+          &scirc;i prenis ankora&ubreve; el mal<tld/> la forno
+          faskon da lignetoj
+          <fnt><bib>Marta</bib></fnt>.
+        </ekz>
+      </dif>
     </snc>
     <trdgrp lng="es">
       <trd>desde detr&aacute;s de</trd>,
@@ -657,6 +677,7 @@
     Vortero esprimanta &gcirc;enerale pliproksimecon a&ubreve;
     plifruecon:
   </dif>
+
   <drv mrk="antaux.0a">
     <kap><ofc>*</ofc><tld/>a</kap>
     <snc mrk="antaux.0a.pliProksima">
@@ -686,9 +707,34 @@
     </snc>
     <snc mrk="antaux.0a.pliFrua">
       <dif>
-        Pli frua:
+        Pli frua:     
+         <ekz>
+          nokto &#8208; same tenebra kiel la <tld/>a
+          <fnt>
+            <aut>Michael Ende, trad. Wolfram Diestel</aut>
+            <vrk>La Sen&ccirc;esa Rakonto</vrk>
+            <lok>La Urbo de Imperiestroj</lok>
+          </fnt>;
+        </ekz>
         <ekz>
-          la <tld/>a semajno estis pli bela ol la nuna.
+          sen iu anta&ubreve;a averto <klr>[li]</klr> demisiis
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Maul Stefan</aut>
+            <vrk><url
+            ref='http://www.esperanto.be/fel/mon/007124.html'>Majstroverko,
+            sed nur taktika</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          kreskanta krimeco kaj neplenumo de <tld/>aj politikaj promesoj
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Josef Hradil</aut>
+            <vrk><url
+            ref='http://www.esperanto.be/fel/mon/007320.html'>Senato sen
+            &scirc;ato</url></vrk>
+          </fnt>.
         </ekz>
       </dif>
       <trdgrp lng="be">
@@ -722,12 +768,17 @@
       </trdgrp>
       <trd lng="sk">predch&aacute;dzaj&uacute;ci</trd>
     </snc>
+    <trdgrp lng="bg">
+      <trd>&c_p;&c_r;&c_je;&c_d;&c_je;&c_n;</trd>,
+      <trd>&c_p;&c_r;&c_je;&c_d;&c_i;&c_sh;&c_je;&c_n;</trd>
+    </trdgrp>
     <trd lng="cs">p&rcaron;ede&scaron;l&yacute;</trd>
     <trdgrp lng="de">
       <trd>vorig</trd>, <trd>vorder</trd>
     </trdgrp>
     <trd lng="es">frontal</trd>
   </drv>
+
   <drv mrk="antaux.0e">
     <kap><ofc>*</ofc><tld/>e</kap>
     <snc mrk="antaux.0e.loke">
@@ -737,16 +788,24 @@
           <tld/>e pasis la prezidanto;
         </ekz>
         <ekz>
-          la rajdistoj iradis <tld/>e.
+          la rajdistoj iradis <tld/>e;
+        </ekz>
+        <ekz>
+          li sidis <tld/>e sur la pruo kaj rigardis
+          <fnt>
+            <aut>Michael Ende, trad. Wolfram Diestel</aut>
+            <vrk>La Sen&ccirc;esa Rakonto</vrk>
+            <lok>La Urbo de Imperiestroj</lok>
+          </fnt>.
         </ekz>
       </dif>
+      <refgrp tip="vid">
+        <ref cel="front.0e">fronte</ref>.
+      </refgrp>
       <trdgrp lng="be">
         <trd>&c_n;&c_a;&c_p;&c_je;&c_r;&c_a;&c_d;&c_z;&c_je;</trd>,
         <trd>&c_u;&c_p;&c_je;&c_r;&c_a;&c_d;&c_z;&c_je;</trd>
       </trdgrp>
-      <refgrp tip="vid">
-        <ref cel="front.0e">fronte</ref>.
-      </refgrp>
       <trd lng="en">in front of</trd>
       <trdgrp lng="de">
         <trd>davor</trd>,
@@ -805,6 +864,10 @@
         <trd>&c_r;&c_a;&c_n;&c_je;&c_j;</trd>,
         <trd>&c_z;&c_a;&c_g;&c_a;&c_d;&c_z;&c_ja;</trd>
       </trdgrp>
+      <trdgrp lng="bg">
+        <trd>&c_p;&c_o;-&c_r;&c_a;&c_n;&c_o;</trd>,
+        <trd>&c_p;&c_r;&c_je;&c_d;&c_i;</trd>
+      </trdgrp>
       <trdgrp lng="de">
         <trd>eher</trd>,
         <trd>vorher</trd>,
@@ -846,6 +909,7 @@
     </snc>
     <trd lng="cs">vp&rcaron;edu; d&rcaron;&iacute;ve</trd>
   </drv>
+
   <drv mrk="antaux.0en">
     <kap><tld/>en</kap>
     <snc>
@@ -859,6 +923,23 @@
           rigardu <tld/>en;
         </ekz>
         <ekz>
+          rekte <tld/>en!
+          <fnt>
+            <aut>Michael Ende, trad. Wolfram Diestel</aut>
+            <vrk>La Sen&ccirc;esa Rakonto</vrk>
+            <lok>La Vidanta Mano</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <klr>[li]</klr> klinis sin anta&ubreve;en kaj
+          malla&ubreve;tigis sian vo&ccirc;on
+          <fnt>
+            <aut>Michael Ende, trad. Wolfram Diestel</aut>
+            <vrk>La Sen&ccirc;esa Rakonto</vrk>
+            <lok>La Akvo de l' Vivo</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
           <tld/>en <klr>(iru <tld/>en)</klr> por la progreso!
         </ekz>
       </dif>
@@ -867,6 +948,7 @@
       <trd>&c_n;&c_a;&c_p;&c_je;&c_r;&c_a;&c_d;</trd>,
       <trd>&c_u;&c_p;&c_je;&c_r;&c_a;&c_d;</trd>
     </trdgrp>
+    <trd lng="bg">&c_n;&c_a;&c_p;&c_r;&c_je;&c_d;</trd>
     <trdgrp lng="de">
       <trd>vorw&auml;rts</trd>,
       <trd>voran</trd>
@@ -897,6 +979,7 @@
     <trd lng="ru">&c_v;&c_p;&c_je;&c_r;&c_jo;&c_d;</trd>
     <trd lng="sk">dopredu</trd>
   </drv>
+
   <drv mrk="antaux.0o">
     <kap><tld/>o</kap>
     <snc mrk="antaux.0o.loke">
@@ -1008,6 +1091,7 @@
       </trdgrp>
     </snc>
   </drv>
+
   <drv mrk="antaux.0i">
     <kap><tld/>i</kap>
     <gra><vspec>x</vspec></gra>
@@ -1081,15 +1165,18 @@
       </trd>
     </trdgrp>
   </drv>
+
   <drv mrk="antaux.0ajxo">
     <kap><tld/>a&jcirc;o</kap>
     <snc mrk="antaux.0ajxo.loke">
-      <ref tip="dif" cel="antaux.0o.loke"><tld/>o</ref>
-      <ekz>
-        <klr>[la ligna bildo]</klr> estis destinita por ornami
-        la <tld/>a&jcirc;on de &scirc;ipo
-        <fnt><bib>Fab2</bib>, <lok>Dano Holger</lok></fnt>.
-      </ekz>
+      <dif>
+        <ref tip="dif" cel="antaux.0o.loke"><tld lit="A"/>o</ref>:
+        <ekz>
+          <klr>[la ligna bildo]</klr> estis destinita por ornami
+          la <tld/>a&jcirc;on de &scirc;ipo
+          <fnt><bib>Fab2</bib>, <lok>Dano Holger</lok></fnt>.
+        </ekz>
+      </dif>
       <trdgrp lng="de">
         <trd>Vorderteil</trd>,
         <trd>Front</trd>
@@ -1165,11 +1252,21 @@
       </trdgrp>
     </snc>
   </drv>
+
   <drv mrk="antaux.0anto">
     <kap><tld/>anto</kap>
     <snc mrk="antaux.0anto.KOMUNE">
       <dif>
-        Iu, kiu <tld/>as.
+        Iu (a&ubreve; io) <tld/>a:
+      <ekz>
+        <klr>[ili]</klr> subskribis la Traktaton de Bruselo, kiu estas
+        <tld/>anto al la akordo de NATO
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url
+          ref='https://eo.wikipedia.org/?curid=10475'>NATO</url></lok>
+        </fnt>.
+      </ekz>
       </dif>
       <trdgrp lng="es">
         <trd>antecesor</trd>,
@@ -1195,11 +1292,21 @@
         <ref cel="najbar.0a.en_orda_aro">najbara</ref> kun &gcirc;i kaj
         pli malgranda ol &gcirc;i:
         <ekz>
-          <frm>3</frm> estas <tld/>anto de <frm>4</frm>.
+          <frm>3</frm> estas <tld/>anto de <frm>4</frm>;
+        </ekz>
+        <ekz>
+          en bonorda aro <klr>[...]</klr> ne &ccirc;iu elemento nepre
+          havas <tld/>anton.
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url ref='https://eo.wikipedia.org/?curid=105668'>Bona
+            ordo</url></lok>
+          </fnt>.
         </ekz>
       </dif>
       <trd lng="es">el que va antes (en el orden)</trd>
     </snc>
+    <ref tip="ant" cel="post.0anto">postanto</ref>
     <trd lng="de">Vorg&auml;nger</trd>
     <trd lng="en">predecessor</trd>
     <trd lng="es">predecesor</trd>
@@ -1214,6 +1321,7 @@
     </trd>
     <trd lng="sk">predchodca</trd>
   </drv>
+
   <drv mrk="antaux.0eco">
     <kap><tld/>eco</kap>
     <snc>
@@ -1221,16 +1329,36 @@
         Stato de iu a&ubreve; io, kiu estas loke a&ubreve; tempe <tld/>
         alia:
         <ekz>
-          la <tld/>eco de la eltrovo apartenas al li.
+          la <tld/>eco de la eltrovo apartenas al li;
+        </ekz>
+        <ekz>
+          rezigno pri 2-poenta <tld/>eco en tenis
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url
+            ref='https://eo.wikipedia.org/?curid=114905'>Remiso</url></lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          vokalojn oni distingas per du &ccirc;efaj trajtoj: <tld/>eco
+          kaj vasteco
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url
+            ref='https://eo.wikipedia.org/?curid=7570'>Vokalo</url></lok>
+          </fnt>.
         </ekz>
       </dif>
+      <ref tip="sub" cel="avanta.0o">avanta&gcirc;o</ref>
       <trdgrp lng="be">
         <trd>&c_p;&c_je;&c_r;&c_sh;&c_y;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>,
         <trd>&c_p;&c_je;&c_r;&c_sh;&c_y;&c_n;&c_ja;</trd>
       </trdgrp>
       <trdgrp lng="de">
         <trd>F&uuml;hrung</trd>,
-        <trd>Voransein</trd>
+        <trd>Vorsprung</trd>,
+        <trd>Vorteil</trd>,
+        <trd>N&auml;he <klr>(zum Betrachter)</klr></trd>
       </trdgrp>
       <trdgrp lng="en">
         <trd>priority</trd>
@@ -1263,11 +1391,23 @@
       <trd>la precedencia</trd>
     </trdgrp>
   </drv>
+
   <drv mrk="antaux.0enema">
     <kap><tld/>enema</kap>
     <snc>
       <dif>
-        Iniciatema, progresema.
+        Iniciatema, progresema:
+        <ekz>
+          la anta&ubreve;enema naturo de elekto <klr>(<ref tip="vid"
+          cel="progre.0igi">progresiga</ref>
+          principo en ekonomio)</klr>
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url
+            ref='https://eo.wikipedia.org/?curid=12259'>A&ubreve;stria
+            skolo de ekonomiko</url></lok>
+          </fnt>;
+        </ekz>
       </dif>
       <refgrp tip="vid">
         <ref cel="ambici.0a">ambicia</ref>,
@@ -1314,15 +1454,37 @@
       <trd>con tendencia a seguir adelante</trd>
     </trdgrp>
   </drv>
+
   <drv mrk="antaux.0enigi">
     <kap><tld/>enigi</kap>
     <snc mrk="antaux.0enigi.FIG">
       <uzo tip="stl">FIG</uzo>
       <dif>
         Igi iri pluen,
-        <ref tip="vid" cel="progre.0igi">progresigi</ref>:
+        <ref tip="sin" cel="progre.0igi">progresigi</ref>:
         <ekz>
-          tia aprobo multe <tld/>enigis nian aferon.
+          tia aprobo multe <tld/>enigis nian aferon;
+        </ekz>
+        <ekz>
+          <tld/>enigi neprajn riparojn kaj plibonigojn
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Paul Gubbins</aut>
+            <vrk><url
+            ref='http://www.esperanto.be/fel/mon/007260.html'>Politiko
+            elreligita</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          NATO estas regata de Usono por <tld/>enigi ties eksteran
+          politikon
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Garbhan Macaoidh</aut>
+            <vrk><url
+            ref='http://www.esperanto.be/fel/mon/007003.html'>Iinternaciaj
+            Rilatoj: El flamo en fajron</url></vrk>
+          </fnt>.
         </ekz>
       </dif>
       <refgrp tip="vid">
@@ -1336,8 +1498,8 @@
         </trd>
       </trdgrp>
       <trdgrp lng="de">
-        <trd>anf&uuml;hren</trd>,
-        <trd>vorausgehen</trd>
+        <trd>voranbringen</trd>,
+        <trd>voran<ind>treiben</ind></trd>
       </trdgrp>
       <trdgrp lng="en">
         <trd>advance</trd>,
@@ -1374,16 +1536,44 @@
       </trdgrp>
     </snc>
   </drv>
+
   <drv mrk="antaux.0igi">
     <kap><tld/>igi</kap>
     <snc>
       <dif>
-        Meti ion <tld/> io alia.
+        Meti ion <tld/> io alia:
+        <ekz>
+          <tld/>igi al la dan&gcirc;ero <klr>(eviti agante unue)</klr>
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url ref='https://eo.wikipedia.org/?curid=6737'>Batalo
+            de Waterloo</url></lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          malagrablaj simptomoj <klr>[...]</klr> povas <tld/>igi
+          a&ubreve; akompani la menstruon
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url
+            ref='https://eo.wikipedia.org/?curid=55537'>Menstruo</url></lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          estis nepre kutime, <tld/>igi al la operoj uverturojn
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url
+            ref='https://eo.wikipedia.org/?curid=336817'>Serioza
+            opero</url></lok>
+          </fnt>.
+        </ekz>
       </dif>
     </snc>
     <trdgrp lng="de">
-      <trd><klr>an die </klr>Spitze <ind>stellen</ind></trd>,
-      <trd>voranstellen</trd>
+      <trd>voranstellen</trd>,
+      <trd>an die Spitze <ind>stellen</ind></trd>,
+      <trd>zuvorkommen</trd>
     </trdgrp>
     <trdgrp lng="es">
       <trd>adelantar <ind>(espacio)</ind></trd>,
@@ -1403,6 +1593,7 @@
     &c_v;&c_p;&c_je;&c_r;&c_je;&c_d;&c_i;
     </trd>
   </drv>
+
   <drv mrk="antaux.0igxi">
     <kap><tld/>i&gcirc;i</kap>
     <snc>
@@ -1491,6 +1682,7 @@
       <aut>MB</aut>
     </adm>
   </drv>
+
   <drv mrk="antaux.0ulo">
     <kap><tld/>ulo</kap>
     <snc mrk="antaux.0ulo.GEN">
@@ -1498,8 +1690,30 @@
       <dif>
         Tiu, kiu <tld/>as tempe:
         <ekz>
-          ni profitas la spertojn de niaj <tld/>uloj.
+          ni profitas la spertojn de niaj <tld/>uloj;
         </ekz>
+        <ekz>
+          viaj respektindaj <tld/>uloj lo&gcirc;as en plej belaj tomboj
+          <fnt>
+            <bib>Far3</bib>
+            <lok>&Ccirc;apitro XII</lok>
+          </fnt>;
+        </ekz>
+      <ekz>
+        miaj <tld/>uloj kaj <ref tip="ant"
+        cel="post.0eulo">posteuloj</ref>
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; la tradicio de la <tld/>uloj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Marko 7:5</lok>
+        </fnt>.
+      </ekz>
       </dif>
       <trdgrp lng="es">
         <trd>antecesor</trd>,
@@ -1535,6 +1749,7 @@
     </trdgrp>
     <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_o;&c_k;</trd>
   </drv>
+
   <drv mrk="antaux.mal0a">
     <kap>mal<tld/>a</kap>
     <snc>
@@ -1561,6 +1776,7 @@
         <ref cel="post.0a.loke">posta <sncref/></ref>.
       </refgrp>
     </snc>
+    <trd lng="bg">&c_z;&c_a;&c_d;&c_je;&c_n;</trd>
     <trdgrp lng="es">
       <trd>posterior <ind>(solo espacio)</ind></trd>,
       <trd>de detr&aacute;s</trd>
@@ -1585,6 +1801,7 @@
     </trdgrp>
     <trd lng="ru">&c_z;&c_a;&c_d;&c_n;&c_i;&c_j;</trd>
   </drv>
+
   <drv mrk="antaux.mal0e">
     <kap>mal<tld/>e</kap>
     <snc>
@@ -1600,6 +1817,7 @@
         <ref cel="post.0e.loke">poste <sncref/></ref>.
       </refgrp>
     </snc>
+    <trd lng="bg">&c_z;&c_a;&c_d;</trd>
     <trd lng="ca">endarrera</trd>
     <trdgrp lng="es">
       <trd>detr&aacute;s</trd>,
@@ -1632,6 +1850,7 @@
       <trd>&c_s;&c_z;&c_a;&c_d;&c_i;</trd>
     </trdgrp>
   </drv>
+
   <drv mrk="antaux.mal0en">
     <kap>mal<tld/>en</kap>
     <snc>
@@ -1644,13 +1863,22 @@
         </ekz>
         <ekz>
           Li etendis reton <tld/> miaj piedoj, renversis min mal<tld/>en
-          <fnt><bib>MT</bib>, <lok>&Plo; 1:13</lok></fnt>.
+          <fnt><bib>MT</bib>, <lok>&Plo; 1:13</lok></fnt>;
+        </ekz>
+        <ekz>
+          vi iris mal<tld/>en por telefoni
+          <fnt>
+            <aut>Michael Ende, trad. Wolfram Diestel</aut>
+            <vrk>La Sen&ccirc;esa Rakonto</vrk>
+            <lok>La Akvo de l' Vivo</lok>
+          </fnt>.
         </ekz>
       </dif>
       <refgrp tip="sin">
         <ref cel="post.0en">posten</ref>.
       </refgrp>
     </snc>
+    <trd lng="bg">&c_n;&c_a;&c_z;&c_a;&c_d;</trd>
     <trdgrp lng="es">
       <trd>atr&aacute;s</trd>,
       <trd>hacia atr&aacute;s</trd>,
@@ -1678,6 +1906,7 @@
     </trdgrp>
     <trd lng="ru">&c_n;&c_a;&c_z;&c_a;&c_d;</trd>
   </drv>
+
   <drv mrk="antaux.mal0o">
     <kap>mal<tld/>o, <var><kap>mal<tld/>a&jcirc;o</kap></var></kap>
     <snc>
@@ -1740,6 +1969,7 @@
       </trd>
     </trdgrp>
   </drv>
+
   <drv mrk="antaux.0cxio">
     <kap><ofc>*</ofc><tld/> &ccirc;io</kap>
     <snc mrk="antaux.0cxio.KOMUNE">
@@ -1748,8 +1978,25 @@
         <ekz>
           la tri verkoj represitaj en tiu &ccirc;i libro devas
           anta&ubreve; &ccirc;io esti <em>netu&scirc;eblaj</em>
-          <fnt><bib>F</bib>, <lok>Anta&ubreve;parolo</lok></fnt>.
+          <fnt><bib>F</bib>, <lok>Anta&ubreve;parolo</lok></fnt>,
         </ekz>
+      <ekz>
+        la provianto estis jam malmulta, <tld/> &ccirc;io mankis viando
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Kunvoja&gcirc;antoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plej koran kamaradan dankon mi esprimas kompreneble <tld/>
+        &ccirc;io al la senlaca loka organiza komitato
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en
+          Krakow en la 11a de a&ubreve;gusto 1912</vrk>
+        </fnt>.
+      </ekz>
       </dif>
       <refgrp tip="vid">
         <ref cel="precip.0e">precipe</ref>,
@@ -1766,7 +2013,8 @@
       <trd>&c_p;&c_je;&c_r;&c_a;&c_d; &c_u;&c_s;&c_ib;&c_m;</trd>,
       <trd>&c_n;&c_a;&c_j;&c_p;&c_je;&c_r;&c_sh;</trd>
     </trdgrp>
-  <trd lng="fr">avant tout</trd>
+  <trd lng="bg">&c_p;&c_r;&c_je;&c_d;&c_i; &c_v;&c_s;&c_i;&c_ch;&c_k;&c_o;</trd>
+    <trd lng="fr">avant tout</trd>
   <trdgrp lng="id">
     <trd><ind>lebih</ind> dahulu</trd>,
     <trd>pertama-tama</trd>
@@ -1776,7 +2024,7 @@
   
   <drv mrk="antaux.0ke">
     <kap><tld/> ke</kap>
-    <gra><vspec>dependiga konjunkcio</vspec></gra>
+    <gra>dependiga <vspec>konjunkcio</vspec></gra>
     <uzo tip="stl">RAR</uzo>
     <snc mrk="antaux.0ke.KOMUNE">
       <ref tip="dif" cel="antaux.0ol.KOMUNE">anta&ubreve; ol</ref>
@@ -1801,7 +2049,7 @@
   <drv mrk="antaux.0ol">
     <kap><tld/> ol,
     <var><kap><tld/> kiam</kap></var></kap>
-    <gra><vspec>dependiga konjunkcio</vspec></gra>
+    <gra>dependiga <vspec>konjunkcio</vspec></gra>
     <snc mrk="antaux.0ol.KOMUNE">
       <dif>
         En tempo pli frua ol tio, ke...:
@@ -1836,18 +2084,15 @@
 
 <subart>
   <dif>
-    Prefikso esprimanta la samajn ideojn.
+    Prefikso esprimanta la samajn ideojn:
   </dif>
   <snc>
     <dif>
-      En spaco:
+      en spaco:
     </dif>
     <subsnc>
       <dif>
-        <klr>(<tld/><frm><k>X</k></frm>o:
-        <tld/>a <frm><k>X</k></frm>o,
-        io <tld/>anta <frm><k>X</k></frm>on,
-        <frm><k>X</k></frm>o <tld/>anta ion)</klr>
+        Ion <tld/>an a&ubreve; <tld/>an parton de io:
         <ekz>
           <refgrp tip="vid">
             <ref cel="brak.antaux0o"><tld/>brako</ref>,
@@ -1866,8 +2111,7 @@
     </subsnc>
     <subsnc>
       <dif>
-        <klr>(<tld/><frm><k>X</k></frm>i al <frm><k>Y</k></frm>-o:
-        <frm><k>X</k></frm>i <tld/> <frm><k>Y</k></frm>-o)</klr>
+        Agi a&ubreve; esti <tld/>e:
         <ekz>
           <refgrp tip="vid">
             <ref cel="ir.antaux0i"><tld/>iri</ref>,
@@ -1878,10 +2122,7 @@
     </subsnc>
     <subsnc>
       <dif>
-        <klr>(<tld/><frm><k>X</k></frm>i <frm><k>Y</k></frm>-on al
-        <frm><k>Z</k></frm>-o:
-        <frm><k>X</k></frm>i <frm><k>Y</k></frm>-on
-        <tld/> <frm><k>Z</k></frm>-o)</klr>
+        Kovri, protekti per io:
         <ekz>
           <refgrp tip="vid">
             <ref cel="met.antaux0i"><tld/>meti</ref>,
@@ -1893,8 +2134,7 @@
     <subsnc>
       <uzo tip="stl">RAR</uzo>
       <dif>
-        <klr>(<tld/><frm><k>X</k></frm>i:
-        <frm><k>X</k></frm>i publike)</klr>
+        Fari ion <tld/> publiko:
         <ekz>
           <refgrp tip="vid">
             <ref cel="kant.antaux0i"><tld/>kanti</ref>,
@@ -1908,19 +2148,17 @@
   </snc>
   <snc>
     <dif>
-      En tempo:
+      en tempo:
     </dif>
     <subsnc>
       <dif>
-        <klr>(<tld/><frm><k>X</k></frm>i:
-        <frm><k>X</k></frm>i anticipe, <frm><k>X</k></frm>i pli frue)
-        </klr>
+        Agi pli frue, <ref tip="super" cel="antici.0i">anticipi</ref>:
         <ekz>
           <refgrp tip="vid">
             <ref cel="anonc.antaux0i"><tld/>anonci</ref>,
             <ref cel="arangx.antaux0i"><tld/>aran&gcirc;i</ref>,
             <ref cel="decid.antaux0i"><tld/>decidi</ref>,
-            <ref cel="destin.antaux0ismo"><tld/>destinismo</ref>,
+            <ref cel="destin.0o"><tld/>destini</ref>,
             <ref cel="difin.antaux0i"><tld/>difini</ref>,
             <ref cel="dir.antaux0i"><tld/>diri</ref>,
             <ref cel="far.antaux0i"><tld/>fari</ref>,
@@ -1951,9 +2189,7 @@
     </subsnc>
     <subsnc>
       <dif>
-        <klr>(<tld/><frm><k>X</k></frm>o:
-        <tld/>a <frm><k>X</k></frm>o,
-        io <tld/>anta <frm><k>X</k></frm>on)</klr>
+        <tld lit="A"/>an parton, komencon, enkondukon:
         <ekz>
           <refgrp tip="vid">
             <ref cel="gust.antaux0o"><tld/>gusto</ref>,
@@ -1971,34 +2207,13 @@
     </subsnc>
     <subsnc>
       <dif>
-        <klr>(<tld/><frm><k>X</k></frm>a:
-        estanta <tld/> <frm><k>X</k></frm>o)</klr>
+        Periodon <tld/> certa tempo, evento:
         <ekz>
           <refgrp tip="vid">
             <ref cel="milit.antaux0a"><tld/>milita</ref>,
             <ref cel="revolu.antaux0a"><tld/>revolucia</ref>,
-            <ref cel="temp.antaux0a"><tld/>tempa</ref>...
-          </refgrp>
-        </ekz>
-      </dif>
-    </subsnc>
-    <subsnc>
-      <dif>
-        <klr>(<tld/><frm><k>X</k></frm>a:
-        estanta <tld/> la <frm><k>X</k></frm>a)</klr>
-        <ekz>
-          <refgrp tip="vid">
-            <ref cel="last.antaux0a"><tld/>lasta</ref>...
-          </refgrp>
-        </ekz>
-      </dif>
-    </subsnc>
-    <subsnc>
-      <dif>
-        <klr>(<tld/><frm><k>X</k></frm>:
-        <tld/> la <frm><k>X</k></frm>o)</klr>
-        <ekz>
-          <refgrp tip="vid">
+            <ref cel="temp.antaux0a"><tld/>tempa</ref>,
+            <ref cel="last.antaux0a"><tld/>lasta</ref>,
             <ref cel="hierau.antaux0"><tld/>hiera&ubreve;</ref>...
           </refgrp>
         </ekz>
@@ -2009,6 +2224,18 @@
 </art>
 <!--
 $Log: antaux.xml,v $
+Revision 1.74  2017/03/07 19:10:21  revo
+Jeromo Vasxe: antauxuxigi -> antauxigi
+
+Revision 1.73  2017/01/26 11:10:14  revo
+Lyubomir Vasilev: +trd bg
+
+Revision 1.72  2016/12/22 15:10:13  revo
+Wolfram Diestel: stile adaptis III, ekz-oj por ~ chio, ~ulo
+
+Revision 1.71  2016/12/22 12:10:12  revo
+Wolfram Diestel: ekz-oj kaj fnt-oj
+
 Revision 1.70  2016/08/14 12:10:13  revo
 Alejandro Escobedo: +trd es
 
@@ -2019,17 +2246,5 @@ Revision 1.68  2014/12/12 16:10:17  revo
 Damien Brucker: +ref cxe ~ ol
 
 Revision 1.67  2014/12/10 19:10:14  revo
-Filip van Laenen: +trd(no)
-
-Revision 1.66  2014/08/08 06:10:11  revo
-Agustin Garcia Lopez: +trd(es) mal-
-
-Revision 1.65  2014/06/12 04:10:14  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.64  2013/06/30 18:10:08  revo
-Benito Subejrano: + trd ca oc
-
-Revision 1.63  2013/05/26 14:10:10  revo
 -->
 </vortaro>

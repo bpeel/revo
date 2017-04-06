@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: poem.xml,v 1.23 2016/11/23 01:10:11 revo Exp $">
+  <art mrk="$Id: poem.xml,v 1.25 2017/03/07 10:10:15 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>poem</rad>/o
@@ -23,7 +23,10 @@
             <fnt><bib>FK</bib>,
               <lok>5, El la vivo kaj sciencoj, bagateloj</lok></fnt>;
           </ekz><ekz>
-            la eposaj <tld/>oj de Homero;
+            la <tld/>oj de Homero kaj Heziodo
+            <fnt><bib>FK</bib>,
+              <lok>5, El la vivo kaj sciencoj,  La deveno de la
+              kiso.</lok></fnt>;
           </ekz><ekz>
             la filozofia <tld/>o de Lukrecio
             <ctl>Pri la naturo de la a&jcirc;oj</ctl>;
@@ -62,24 +65,25 @@
       </snc>
       <snc mrk="poem.0o.versajxo">
         <uzo tip="stl">EVI</uzo>
-        <ref tip="dif" cel="poezi.0ajxo.POE">Poezia&jcirc;o</ref>
+        <refgrp tip="dif">
+          <ref cel="poezi.0ajxo.POE">Poezia&jcirc;o</ref>,
+          <ref cel="vers.0ajxo">versa&jcirc;o</ref>
+        </refgrp>
       </snc>
       <rim>
         La <tld/>oj<sncref ref="poem.0o.POE"/> ekzistas en &ccirc;iuj
         literaturoj, sed ial la okcidentaj lingvoj malhavas terminon
         por tiu formo poezia, kaj la okcidentaj esperantistoj ofte
         nomas <tld/>o &ccirc;ian ajn poezia&jcirc;on.  Por parolanto de
-        lingvo kiu
-        havas apartan nomon por  <tld/>oj<sncref ref="poem.0o.POE"/>
-        tio estas egale stranga, kiel nomi &ccirc;ian proza&jcirc;on
-        romano
+        lingvo kiu havas apartan nomon por
+        <tld/>oj<sncref ref="poem.0o.POE"/>
+        tio estas egale stranga, kiel nomi &ccirc;ian proza&jcirc;on romano
         (celante &ccirc;i tiun analogion, Kabe en sia vortaro difinis
         <tld/>on kiel <ctl>romanon en versoj</ctl>).
 
         La vorto <tld/>o tamen estis oficialiginda nur por la strikta
         senco grandforma, alie &gcirc;i estus malnecesa duobla&jcirc;o
-        por la
-        vorto <ctl>poezia&jcirc;o</ctl>.
+        por la vorto <ctl>poezia&jcirc;o</ctl>.
         <aut>Sergio Pokrovskij</aut>
       </rim>
       <trd lng="be">&c_p;&c_a;&c_e;&c_m;&c_a;</trd>
@@ -144,6 +148,12 @@
   </art>
   <!--
   $Log: poem.xml,v $
+  Revision 1.25  2017/03/07 10:10:15  revo
+  Sergio Pokrovskij: +fnt
+
+  Revision 1.24  2017/02/05 12:45:16  revo
+  Sergio Pokrovskij: +ref
+
   Revision 1.23  2016/11/23 01:10:11  revo
   Carlos Garcia: +trd ro - o, es -o -ar
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konsen.xml,v 1.25 2016/11/07 10:10:13 revo Exp $">
+<art mrk="$Id: konsen.xml,v 1.26 2017/01/30 15:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konsent</rad>/i <fnt><bib>PV</bib></fnt> 
@@ -142,6 +142,7 @@
       <trd>consent to</trd>,
     </trdgrp>
     <trd lng="es">consentir</trd>
+    <trd lng="ms">izin</trd>
     <trdgrp lng="de">
       <trd>bewilligen</trd>,
       <trd>gew&auml;hren</trd>,
@@ -635,6 +636,9 @@
 </art>
 <!--
 $Log: konsen.xml,v $
+Revision 1.26  2017/01/30 15:10:16  revo
+Adam Eng: +trd ms
+
 Revision 1.25  2016/11/07 10:10:13  revo
 Carlos Garcia: +trd ro ~i  inter~o, es ~i 2 inter~o mal~i inter~i
 
@@ -654,8 +658,5 @@ Revision 1.20  2014/11/09 20:10:18  revo
 Jeromo Vasxe: + ~ema, + kk trd fr
 
 Revision 1.19  2014/10/12 09:10:22  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.18  2010/08/16 16:30:18  revo
 -->
 </vortaro>

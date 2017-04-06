@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: h.xml,v 1.15 2016/01/27 09:10:18 revo Exp $">
+<art mrk="$Id: h.xml,v 1.16 2017/02/17 10:10:14 revo Exp $">
 <kap>
     <ofc>*</ofc><rad>h</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -37,7 +37,7 @@
     <subsnc>
     <uzo tip="fak">KEM</uzo>
     <dif>
-    (maj.) simbolo de hydrogeno: <ekz> <tld lit="H"/></ekz>;
+    (maj.) simbolo de hidrogeno: <ekz> <tld lit="H"/></ekz>;
     </dif>
     <trd lng="fr">hydrog&egrave;ne</trd>
     </subsnc>
@@ -100,6 +100,9 @@
 
 <!--
 $Log: h.xml,v $
+Revision 1.16  2017/02/17 10:10:14  revo
+Jeromo Vasxe: hydrogeno -> hidrogeno
+
 Revision 1.15  2016/01/27 09:10:18  revo
 Damien Brucker: -eraro en ref chez dif
 
@@ -119,8 +122,5 @@ Revision 1.10  2014/03/04 09:10:13  revo
 Damien Brucker: Aldono al la rim
 
 Revision 1.9  2014/01/16 11:10:14  revo
-Damien Brucker: sxangxo cxe la difino
-
-Revision 1.8  2014/01/02 15:10:12  revo
 -->
 </vortaro>

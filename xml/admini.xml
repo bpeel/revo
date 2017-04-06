@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: admini.xml,v 1.29 2015/10/22 22:10:40 revo Exp $">
+<art mrk="$Id: admini.xml,v 1.30 2017/01/29 13:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>administr</rad>/i <fnt><bib>PV</bib></fnt>
@@ -33,6 +33,7 @@
   <trd lng="de">verwalten</trd>
   <trd lng="en">administer</trd>
   <trd lng="es">administrar</trd>
+  <trd lng="ms">mentadbir</trd>
   <trdgrp lng="fr">
     <trd>administrer<klr tip="ind"> (diriger)</klr></trd>,
     <trd>diriger</trd>,
@@ -114,6 +115,7 @@
   <trd lng="de">Verwaltung</trd>
   <trd lng="en">administrative unit</trd>
   <trd lng="es">administraci&oacute;n</trd>    
+  <trd lng="ms">bahagian mentadbir</trd>
   <trd lng="fr">administration<klr tip="ind"> (groupe,
   institution)</klr></trd>
   <trdgrp lng="hu">
@@ -180,6 +182,9 @@
 </art>
 <!--
 $Log: admini.xml,v $
+Revision 1.30  2017/01/29 13:10:19  revo
+Adam Eng: +trd ms
+
 Revision 1.29  2015/10/22 22:10:40  revo
 Jeromo Vasxe: + ajxo
 
@@ -199,8 +204,5 @@ Revision 1.24  2013/10/31 19:10:14  revo
 Vito Redsky: +trd ro pl
 
 Revision 1.23  2011/10/05 16:10:09  revo
-Antonio Codazzi: ++trd it
-
-Revision 1.22  2010/06/15 16:30:34  revo
 -->
 </vortaro>

@@ -20,11 +20,47 @@ H2 {color: #000000;
 H3 {font-size: 90%; border-top-width: 2px; border-top-style: solid; 
   border-top-color: #E0E0A0; padding-top: 0.5ex}
 
+DD {text-align: justify}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) { 
+
+    BODY { font-size: x-large }
+    H1 {font-size: xx-large}
+    H2 {font-size: xx-large}
+    H3 {font-size: x-large}
+//    img { min-width: 36 }
+    DD {text-align: left}
+}
+
+
+
 HR {border-style: dotted; border-color: black; 
   border-top-width: 2px;
   border-bottom-width: 0px;
   margin-top: 4ex}
-DD {text-align: justify}
+DT.subart { 
+    border-top-style: dotted; 
+    border-width: 2px; 
+    padding: 1ex;
+    margin-top: 2ex; 
+    margin-bottom: 1ex; 
+    font-weight: bold; 
+/*    border-right-style: dotted;
+    background: #E0E0A0; 
+    background-image: url(angulo.png); 
+    background-repeat: no-repeat;
+*/
+}
+/*
+DT.subart::before { content: "– "}
+DT.subart::after { content: " –"}
+*/
 
 /*A {text-decoration: none}*/
 A:link {color: blue}
@@ -125,8 +161,23 @@ A.redakto:link {text-decoration: underline; color: black}
 A.redakto:visited {text-decoration: underline; color: black}
 A.redakto:active {text-decoration: underline; color: gray}
 
-.flago {  border-color: #CCCCCC; border-width: 1px;  border-style: outset}
-IMG.bld {  border-color: #cccccc; border-width: 2px; border-style: outset} 
+.flago {  border-color: #cccccc; border-width: 1px;  border-style: outset}
+IMG.bld { border-color: #cccccc; border-width: 2px; border-style: outset} 
+IMG.fak { height: 1.5em; vertical-align: bottom; }
+
+IMG.tez { height: 1.2em; padding: 1px; vertical-align: bottom;
+	  border-radius: 20%; border: 2px outset transparent}
+A IMG.tez:focus {background-color:  #c0c090; border: 2px outset gray}
+A IMG.tez:hover {background-color:  #c0c090; border: 2px outset gray}
+A IMG.tez:active {background-color:  #a0a070; border: 2px inset gray}
+
+IMG.viki { height: 1.2em; vertical-align: bottom;
+	   border-radius: 20%; border: 2px outset transparent}
+A IMG.viki:focus {background-color:  #c0c090; border: 2px outset gray}
+A IMG.viki:hover {background-color:  #c0c090; border: 2px outset gray}
+A IMG.viki:active {background-color:  #a0a070; border: 2px inset gray}
+
 
 /* formuloj */
 .frm { font-style: normal }
+

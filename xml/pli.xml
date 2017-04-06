@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pli.xml,v 1.36 2015/10/25 14:10:16 revo Exp $">
+<art mrk="$Id: pli.xml,v 1.37 2017/01/29 13:10:17 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>pli</rad> <fnt><bib>PV</bib></fnt>
@@ -85,6 +85,7 @@
   <trdgrp lng="cs">
     <trd>samostatn&ecaron; kombinovateln&yacute; morf&eacute;m s v&yacute;znamem "v&iacute;ce"</trd>,
     <trd>v&iacute;ce</trd>
+    <trd lng="ms">tambahan</trd>
   </trdgrp>
   <trd lng="de">mehr</trd>
   <trd lng="en">more</trd>
@@ -564,6 +565,9 @@ batalas kontra&ubreve;
 </art>
 <!--
 $Log: pli.xml,v $
+Revision 1.37  2017/01/29 13:10:17  revo
+Adam Eng: +trd ms
+
 Revision 1.36  2015/10/25 14:10:16  revo
 Cindy Moon McKee: +trd en
 
@@ -583,8 +587,5 @@ Revision 1.31  2011/01/09 12:10:10  revo
 Jeromo Vasxe: kor 1 fnt
 
 Revision 1.30  2010/12/12 17:30:19  revo
-Jeromo Vasxe: + cxiam ~
-
-Revision 1.29  2009/10/16 16:31:20  revo
 -->
 </vortaro>

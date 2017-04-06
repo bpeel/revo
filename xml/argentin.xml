@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: argentin.xml,v 1.9 2016/11/22 21:10:18 revo Exp $">
+<art mrk="$Id: argentin.xml,v 1.10 2017/03/07 14:10:14 revo Exp $">
 <kap><rad>Argentin</rad>/o</kap>
 <drv mrk="argentin.A0o">
   <kap><tld/>o</kap>
@@ -58,6 +58,7 @@
      <trd>Argentine</trd>,
      <trd>Argentinean</trd>
    </trdgrp>
+   <trd lng="fr">argentin<klr> (adj.)</klr></trd>
    <trd lng="fy">Argentynsk</trd>
    <trdgrp lng="io">
      <trd>Arjentiniana</trd>,
@@ -79,6 +80,7 @@
      <trd>Argentine</trd>,
      <trd>Argentinean</trd>
    </trdgrp>
+   <trd lng="fr">Argentin<klr> (subst.)</klr></trd>
    <trd lng="fy">Argentyn</trd>
    <trdgrp lng="io">
      <trd>Arjentiniano</trd>,
@@ -92,6 +94,9 @@
 
 <!--
 $Log: argentin.xml,v $
+Revision 1.10  2017/03/07 14:10:14  revo
+Damien Brucker: +trd fr
+
 Revision 1.9  2016/11/22 21:10:18  revo
 Robin van der Vliet: +argentina, +argentinano, +trd
 
@@ -111,8 +116,5 @@ Revision 1.4  2011/02/13 02:10:35  revo
 Luiz Portella: kor. ref k mrk
 
 Revision 1.3  2009/07/03 16:31:02  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.2  2008/12/12 17:57:11  revo
 -->
 </vortaro>

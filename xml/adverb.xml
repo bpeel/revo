@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: adverb.xml,v 1.27 2016/09/28 22:10:21 revo Exp $">
+  <art mrk="$Id: adverb.xml,v 1.28 2017/01/29 13:10:22 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>adverb</rad>/o
@@ -57,6 +57,7 @@
   <trd lng="ru">&c_n;&c_a;&c_r;&c_je;&c_ch;&c_i;&c_je;</trd>
   <trd lng="sk">pr&iacute;slovka</trd>
   <trd lng="sv">adverb</trd>
+  <trd lng="ms">kata keterangan</trd>
 </drv>
 
     <drv mrk="adverb.lok0o">
@@ -89,6 +90,9 @@
   </art>
   <!--
   $Log: adverb.xml,v $
+  Revision 1.28  2017/01/29 13:10:22  revo
+  Adam Eng: +trd ms
+
   Revision 1.27  2016/09/28 22:10:21  revo
   Sebastian Cyprych: +trd pl
 

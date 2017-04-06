@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: acx.xml,v 1.28 2016/11/10 15:10:17 revo Exp $">
+<art mrk="$Id: acx.xml,v 1.29 2016/12/04 15:10:17 revo Exp $">
 <kap>
   <ofc>1</ofc>
   -<rad>a&ccirc;</rad>/ <fnt><bib>PV</bib></fnt>
@@ -40,14 +40,15 @@
       <trd>Mist-<klr> [pref]</klr></trd>,
       <trd>Drecks-<klr> [pref]</klr></trd>
     </trdgrp>
-    <trdgrp lng="fr">
-      <trd>-asse<klr> (suffixe p&eacute;joratif)</klr></trd>,
-      <trd>-&acirc;tre<klr> (suffixe p&eacute;joratif)</klr></trd>
-    </trdgrp>
     <trdgrp lng="es">
       <trd>-aco<klr> (sufijo peyorativo)</klr></trd>,
       <trd>-ucho<klr> (sufijo peyorativo)</klr></trd>
     </trdgrp>
+    <trdgrp lng="fr">
+      <trd>-asse<klr> (suffixe p&eacute;joratif)</klr></trd>,
+      <trd>-&acirc;tre<klr> (suffixe p&eacute;joratif)</klr></trd>
+    </trdgrp>
+    <trd lng="io">-ach</trd>
     <trd lng="vo">lu-</trd>
   </snc>
   <rim>
@@ -246,6 +247,9 @@
 </art>
 <!--fi
 $Log: acx.xml,v $
+Revision 1.29  2016/12/04 15:10:17  revo
+Robin van der Vliet: +trd
+
 Revision 1.28  2016/11/10 15:10:17  revo
 Carlos Garcia: +trd ro ~a ~ajxo ~igxi ~ulo,es ~ulo ~igxi ~ajxo ~a ~
 
@@ -290,6 +294,9 @@ Revision 1.15  2007/12/18 17:30:12  revo
 
 <!--
 $Log: acx.xml,v $
+Revision 1.29  2016/12/04 15:10:17  revo
+Robin van der Vliet: +trd
+
 Revision 1.28  2016/11/10 15:10:17  revo
 Carlos Garcia: +trd ro ~a ~ajxo ~igxi ~ulo,es ~ulo ~igxi ~ajxo ~a ~
 

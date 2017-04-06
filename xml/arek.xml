@@ -2,20 +2,21 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arek.xml,v 1.7 2016/04/09 17:10:15 revo Exp $">
+<art mrk="$Id: arek.xml,v 1.9 2016/12/23 14:10:13 revo Exp $">
 <kap>
   <rad>arek</rad>/o
 </kap>
 
 <drv mrk="arek.0o">
   <kap><tld/>o</kap>
-  <snc mrk="arek.0arbo">
+  <snc mrk="arek.0o.arbo">
     <fnt><bib>PIV1</bib></fnt>
     <uzo tip="fak">BOT</uzo>
     <dif>
       <ref tip="lst" cel="genr.0o.BIO"
       lst="voko:botanikaj_genroj">Genro</ref> de 
-      palmoj el Sudorientazio (<trd lng="la">Areca</trd>),
+      <ref tip="lst" lst="voko:arekoparencoj" cel="palm.0oj">palmoj</ref>
+      el Sudorientazio (<trd lng="la">Areca</trd>),
       el familio 
       <ref tip="super" cel="arekac.0oj">arekacoj</ref>; 
       unu specio (<trd lng="la">Areca catechu</trd>) 
@@ -32,7 +33,7 @@
     </trdgrp>
   </snc>
   
-  <snc>
+  <snc mrk="arek.0o.nukso">
     <dif>
       <ref tip="dif" cel="arek.0nukso"><tld lit="A"/>nukso</ref>:
       <ekz>
@@ -69,7 +70,7 @@
 
 <drv mrk="arek.0nukso">
   <kap><tld/>nukso</kap>
-  <snc>
+  <snc mrk="arek.0nukso.BOT">
     <dif>
       <ref tip="super" cel="kern.0o.BOT">Kerno</ref> de la frukto de
       <tld/>arbo kun man&gcirc;ebla grajno:
@@ -85,8 +86,8 @@
   </snc>
   <trd lng="ca">nou d'areca</trd>
   <trdgrp lng="de">
-    <trd>Beteln&uuml;sse</trd>,
-    <trd>Arekan&uuml;sse</trd>
+    <trd>Betelnuss</trd>,
+    <trd>Arekanuss</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>noix d'arec</trd>,
@@ -97,6 +98,12 @@
 
 <!--
 $Log: arek.xml,v $
+Revision 1.9  2016/12/23 14:10:13  revo
+Wolfram Diestel: lst-ref
+
+Revision 1.8  2016/12/23 11:10:13  revo
+Wolfram Diestel: mrk-oj
+
 Revision 1.7  2016/04/09 17:10:15  revo
 Wolfram Diestel: iom reverkis per trovitaj fontoj
 
@@ -113,10 +120,5 @@ Revision 1.3  2012/07/17 12:10:10  revo
 Marc Rausell: + trd ca
 
 Revision 1.2  2007/05/22 16:30:57  revo
-Wieland Pusch: +trd de
-
-Revision 1.1  2003/07/14 16:32:08  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

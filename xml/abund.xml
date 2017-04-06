@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: abund.xml,v 1.32 2015/10/15 12:10:19 revo Exp $">
+<art mrk="$Id: abund.xml,v 1.33 2017/02/08 14:10:14 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>abund</rad>/a
@@ -45,6 +45,7 @@
           <trd>&agrave; <ind>profusion</ind></trd>,
           <trd>en <ind>quantit&eacute;</ind></trd>
         </trdgrp>
+        <trd lng="ms">banyak</trd>
       </ekz>
       <ekz>
         kiu ripetas <tld/>e, lernas plej funde
@@ -538,6 +539,9 @@
 </art>
 <!--
 $Log: abund.xml,v $
+Revision 1.33  2017/02/08 14:10:14  revo
+Adam Eng: trd ms
+
 Revision 1.32  2015/10/15 12:10:19  revo
 Cindy Moon McKee: +trd en
 
@@ -557,8 +561,5 @@ Revision 1.27  2013/10/29 17:10:11  revo
 Vito Redsky: +trd  pl ro
 
 Revision 1.26  2012/08/22 10:10:25  revo
-Marc Rausell: + trd ca
-
-Revision 1.25  2007/05/19 17:02:53  revo
 -->
 </vortaro>

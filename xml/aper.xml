@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aper.xml,v 1.35 2016/11/06 23:10:18 revo Exp $">
+<art mrk="$Id: aper.xml,v 1.36 2017/01/30 14:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>aper</rad>/i <fnt><bib>PV</bib></fnt>
@@ -67,6 +67,7 @@
     </refgrp>
     <trd lng="br">dont war wel</trd>
     <trd lng="es">aparecer</trd>
+    <trd lng="ms">menjemal</trd>
     <trdgrp lng="fr">
       <trd>appara&icirc;tre</trd>,
       <trd>se <ind>montrer</ind></trd>,
@@ -479,6 +480,9 @@
 </art>
 <!--
 $Log: aper.xml,v $
+Revision 1.36  2017/01/30 14:10:24  revo
+Adam Eng: +trd ms
+
 Revision 1.35  2016/11/06 23:10:18  revo
 Alain Gerard: +trd fr
 
@@ -498,8 +502,5 @@ Revision 1.30  2008/09/11 16:30:38  revo
 Jeromo Vasxe: kor 1 ref
 
 Revision 1.29  2007/12/03 17:30:37  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.28  2006/09/14 16:31:41  revo
 -->
 </vortaro>

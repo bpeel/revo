@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pornografi.xml,v 1.1 2011/03/23 11:10:09 revo Exp $">
+<art mrk="$Id: pornografi.xml,v 1.2 2016/12/01 18:10:17 revo Exp $">
 <kap>
   <rad>pornografi</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -30,7 +30,12 @@
       <ref cel="erotik.0a.AMOR">erotika<sncref/></ref>
     </refgrp>
   </snc>
+  <trd lng="ca">pornografia</trd>
+  <trd lng="en">pornography</trd>
+  <trd lng="es">pornograf&iacute;a</trd>
   <trd lng="fr">pornographie</trd>
+  <trd lng="fy">pornografy</trd>
+  <trd lng="nl">pornografie</trd>
 </drv>
 
 <drv mrk="pornografi.0ajxo">
@@ -75,15 +80,21 @@
       <ref cel="pedofili.0o.SNC">pedofilio</ref>
     </refgrp>
   </snc>
+  <trd lng="en">child pornography</trd>
   <trdgrp lng="fr">
     <trd>p&eacute;dopornographie</trd>,
     <trd>pornographie enfantine</trd>
   </trdgrp>
+  <trd lng="fy">bernepornografy</trd>
+  <trd lng="nl">kinderpornografie</trd>
 </drv>
 </art>
 
 <!--
 $Log: pornografi.xml,v $
+Revision 1.2  2016/12/01 18:10:17  revo
+Robin van der Vliet: +trd
+
 Revision 1.1  2011/03/23 11:10:09  revo
 Jeromo Vasxe: nova artikolo
 

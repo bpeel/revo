@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: menestre.xml,v 1.5 2015/07/04 08:37:39 revo Exp $">
+<art mrk="$Id: menestre.xml,v 1.6 2017/02/14 16:10:23 revo Exp $">
 <kap>
   <rad>menestrel</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -13,10 +13,10 @@
     <uzo tip="fak">HIS</uzo>
     <uzo tip="fak">POE</uzo>
     <dif>
-      Tradicia poet-muzikisto; mezepoka kantisto de peozio de
+      Tradicia poet-muzikisto; mezepoka kantisto de poezio de
       trobadoroj, ofte ilia servanto:
       <ekz>
-        &ccirc;i-nokte  blinda  bonzo-<tld/>o  ludis  bivon
+        &ccirc;i-nokte blinda bonzo-<tld/>o ludis bivon
         <fnt>
           <aut>Basyoo, trad. Sasaki T.</aut>,
           <vrk><url
@@ -42,12 +42,15 @@
   </trdgrp>
   <trd lng="fr">m&eacute;n&eacute;strel</trd>
   <trd lng="pl">minstrel</trd>
-  <trd lng="sk">spevák <klr>(stredoveký)</klr></trd>
+  <trd lng="sk">spev&aacute;k <klr>(stredovek&yacute;)</klr></trd>
 </drv>
 </art>
 
 <!--
 $Log: menestre.xml,v $
+Revision 1.6  2017/02/14 16:10:23  revo
+Jeromo Vasxe: peozio -> poezio
+
 Revision 1.5  2015/07/04 08:37:39  revo
 aldono de trd cs per skripto de M. von Laer
 

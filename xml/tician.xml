@@ -2,13 +2,13 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: tician.xml,v 1.4 2015/07/04 08:37:44 revo Exp $">
+  <art mrk="$Id: tician.xml,v 1.5 2017/03/08 20:10:32 revo Exp $">
     <kap><rad>Tician</rad>/o<fnt>Z</fnt></kap>
 
     <drv mrk="tician.0o">
       <kap><tld/>o</kap>
-      <uzo tip="fak">PERS</uzo>
       <snc>
+      <uzo tip="fak">PERS</uzo>
         <dif>
           Granda venecia pentristo (itale
           <trd lng="it">Tiziano Vecellio</trd>, 1488/1490&ndash;1576):
@@ -23,6 +23,10 @@
   <trd lng="ca">Tici&agrave;</trd>
   <trd lng="cs">Tizian <klr>(Tiziano Vecellio)</klr></trd>
   <trd lng="en">Titian</trd>
+  <trdgrp lng="fr">
+    <trd>Titien</trd>,
+    <trd>le Titien</trd>
+  </trdgrp>
   <trd lng="ru">&c_T;&c_i;&c_c;&c_i;&c_a;&c_n;</trd>
   <trd lng="sk">Tizian</trd>
 </drv>
@@ -31,6 +35,9 @@
 
 <!--
 $Log: tician.xml,v $
+Revision 1.5  2017/03/08 20:10:32  revo
+Damien Brucker: +trd fr
+
 Revision 1.4  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 

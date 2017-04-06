@@ -2,13 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arab.xml,v 1.17 2015/07/04 08:37:30 revo Exp $">
+<art mrk="$Id: arab.xml,v 1.19 2017/03/07 23:10:22 revo Exp $">
 <kap>
-  <ofc>8</ofc><rad>arab</rad>/o
+  <ofc>8</ofc>
+  <rad>arab</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="arab.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <snc mrk="arab.0o.ETN">
     <dif>
       Membro de semida popolo devena de
       <ref tip="vid" cel="arab.A0aDuoninsulo"><tld lit="A"/>a
@@ -19,7 +20,7 @@
   <trd lng="ca">&agrave;rab <klr>(subst.)</klr></trd>
   <trdgrp lng="cs">
     <trd>arab</trd>,
-    <trd>arabský kůň</trd>
+    <trd>arabsk&yacute; k&uring;&ncaron;</trd>
   </trdgrp>
   <trd lng="de">Araber</trd>
   <trd lng="en">Arab</trd>
@@ -29,7 +30,8 @@
   <trd lng="hu">arab</trd>
   <trd lng="pl">Arab</trd>
   <trd lng="ru">&c_a;&c_r;&c_a;&c_b;</trd>
-  <trd lng="sk">arabský kôň</trd>
+  <trd lng="sk">arabsk&yacute; k&ocirc;&ncaron;</trd>
+  <trd lng="ms">Arab</trd>
 </drv>
 
 <drv mrk="arab.0a">
@@ -41,7 +43,7 @@
     </dif>
   </snc>
   <trd lng="ca">&agrave;rab <klr>(adj.)</klr></trd>
-  <trd lng="cs">arabština</trd>
+  <trd lng="cs">arab&scaron;tina</trd>
   <trd lng="de">arabisch</trd>
   <trdgrp lng="en">
     <trd>Arab</trd>,
@@ -60,7 +62,7 @@
   <trd lng="hu">arab</trd>
   <trd lng="pl">arabski</trd>
   <trd lng="ru">&c_a;&c_r;&c_a;&c_b;&c_s;&c_k;&c_i;&c_j;</trd>
-  <trd lng="sk">arabčina</trd>
+  <trd lng="sk">arab&ccaron;ina</trd>
 </drv>
 
 <drv mrk="arab.A0ujo">
@@ -110,15 +112,15 @@
       </ekz>
     </dif>
   <ref tip="vid" cel="arabes.0o">arabesko</ref>
-  <trd lng="fr">arabesque</trd>
   </snc>
   <trdgrp lng="ca">
     <trd>arabesc</trd>,
     <trd>ar&agrave;bic</trd>
   </trdgrp>
+  <trd lng="de">arabisch</trd>
   <trd lng="en">Arabian</trd>
   <trd lng="es">arabesco, -a</trd>
-  <trd lng="de">arabisch</trd>
+  <trd lng="fr">arabesque</trd>
   <trd lng="he">&ayin;&resh;&bet;&yod;</trd>
   <trdgrp lng="hu">
     <trd>arabos</trd>,
@@ -191,7 +193,7 @@
   <rim num="2">
     La nomo de la re&gcirc;a familio de tiu lando estas Sa-ud, kun
     du plenaj vokaloj apartigitaj de konsonanto en la araba lingvo.
-    Tial la formoj kun diftongo <ctl>a&ubreve;</ctl> anstataux plenaj
+    Tial la formoj kun diftongo <ctl>a&ubreve;</ctl> anstata&ubreve; plenaj
     vokaloj estas evitindaj. <aut>Adamo Raizen</aut>
   </rim>
   <trd lng="ca">l'Ar&agrave;bia Saudita</trd>
@@ -216,6 +218,12 @@
 </art>
 <!--
 $Log: arab.xml,v $
+Revision 1.19  2017/03/07 23:10:22  revo
+Jeromo Vasxe: anstataux -> anstataux (kun u-hoko)
+
+Revision 1.18  2017/01/30 15:10:19  revo
+Adam Eng: +trd ms
+
 Revision 1.17  2015/07/04 08:37:30  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -232,17 +240,5 @@ Revision 1.13  2013/02/18 02:10:13  revo
 Evandro Avellar: +tr pt
 
 Revision 1.12  2012/01/01 23:10:52  revo
-Marc Rausell: +trd ca
-
-Revision 1.11  2011/02/15 13:10:11  revo
-Luiz Portella: kor. ref k mrk
-
-Revision 1.10  2010/04/30 12:25:33  revo
-Russ Williams: +8OA
-
-Revision 1.9  2009/02/15 14:17:51  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.8  2008/12/01 16:47:05  revo
 -->
 </vortaro>

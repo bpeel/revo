@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jar.xml,v 1.55 2015/12/31 08:10:14 revo Exp $">
+<art mrk="$Id: jar.xml,v 1.56 2017/01/29 14:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>jar</rad>/o <fnt><bib>PV</bib></fnt>
@@ -163,6 +163,7 @@ lst="voko:da&ubreve;roj">Da&ubreve;ro</ref>
   <trd lng="en">annual</trd>
   <trd lng="es">anual</trd>
   <trd lng="fr">annuel</trd>
+  <trd lng="ms">tahunan</trd>
   <trdgrp lng="hu">
     <trd>&eacute;venk&eacute;nti</trd>,
     <trd>&eacute;vel&odblac;</trd>
@@ -507,6 +508,9 @@ lng="ru">&c_i;&c_s;&c_p;&c_y;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
 </art>
 <!--
 $Log: jar.xml,v $
+Revision 1.56  2017/01/29 14:10:17  revo
+Adam Eng: +trd ms
+
 Revision 1.55  2015/12/31 08:10:14  revo
 Joop Eggen: +trd bg
 
@@ -526,8 +530,5 @@ Revision 1.50  2014/11/24 23:10:13  revo
 Jeromo Vasxe: + lst festoj
 
 Revision 1.49  2014/11/23 21:10:33  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.48  2014/11/21 21:10:15  revo
 -->
 </vortaro>

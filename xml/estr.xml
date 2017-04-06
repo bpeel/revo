@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: estr.xml,v 1.24 2016/07/27 10:10:25 revo Exp $">
+<art mrk="$Id: estr.xml,v 1.25 2016/12/04 14:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   -<rad>estr</rad>/
@@ -20,6 +20,7 @@
   </ekz>
   </dif>
   </snc>
+  <trd lng="io">-estr</trd>
 </drv>
 </subart>
 
@@ -81,6 +82,7 @@ Samsignifa memstara vortero.
     <trd>ir&aacute;ny&iacute;t&oacute;</trd>,
     <trd>f&odblac;n&ouml;k</trd>
   </trdgrp>
+  <trd lng="nl">leider</trd>
   <trdgrp lng="pl">
     <trd>szef</trd>,
     <trd>kierownik</trd>,
@@ -153,6 +155,7 @@ Samsignifa memstara vortero.
     <trd>f&odblac;n&ouml;k</trd>,
     <trd>vez&eacute;r</trd>
   </trdgrp>
+  <trd lng="nl">leiden</trd>
   <trdgrp lng="pl">
     <trd>zarz&aogonek;dza&cacute;</trd>,
     <trd>rz&aogonek;dzi&cacute;</trd>,
@@ -304,6 +307,9 @@ Samsignifa memstara vortero.
 </art>
 <!--
 $Log: estr.xml,v $
+Revision 1.25  2016/12/04 14:10:18  revo
+Robin van der Vliet: +trd
+
 Revision 1.24  2016/07/27 10:10:25  revo
 Agustin Garcia Lopez: +trd(es) -aro
 
@@ -323,8 +329,5 @@ Revision 1.19  2007/07/09 16:30:41  revo
 Tulio Flores: +tr pt
 
 Revision 1.18  2007/04/08 16:30:24  revo
-Luiz Portella: +trd pt
-
-Revision 1.17  2006/09/27 16:30:24  revo
 -->
 </vortaro>

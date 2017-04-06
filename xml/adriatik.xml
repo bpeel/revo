@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: adriatik.xml,v 1.4 2015/07/04 08:37:29 revo Exp $">
+<art mrk="$Id: adriatik.xml,v 1.5 2016/12/18 08:10:14 revo Exp $">
 <kap>
     <rad>Adriatik</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -16,17 +16,22 @@
     </dif>
   </snc>
   <trdgrp lng="cs">
-    <trd>Adriatické moře</trd>,
-    <trd>Jaderské moře</trd>,
+    <trd>Adriatick&eacute; mo&rcaron;e</trd>,
+    <trd>Jadersk&eacute; mo&rcaron;e</trd>,
     <trd>Jadran</trd>
   </trdgrp>
+  <trd lng="de">Adriatisches Meer</trd>
+  <trd lng="en">Adriatic Sea</trd>
   <trd lng="fr">Adriatique</trd>
-  <trd lng="sk">Adriatické more</trd>
+  <trd lng="sk">Adriatick&eacute; more</trd>
 </drv>
 </art>
 
 <!--
 $Log: adriatik.xml,v $
+Revision 1.5  2016/12/18 08:10:14  revo
+Jessica Grasso: +tr en, de
+
 Revision 1.4  2015/07/04 08:37:29  revo
 aldono de trd cs per skripto de M. von Laer
 

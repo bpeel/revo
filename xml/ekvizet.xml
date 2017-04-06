@@ -2,9 +2,9 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekvizet.xml,v 1.4 2015/07/04 08:37:33 revo Exp $">
+<art mrk="$Id: ekvizet.xml,v 1.5 2017/02/20 21:10:18 revo Exp $">
 <kap>
-    <rad>ekvizet</rad>/o <fnt><bib>Viki</bib></fnt>
+    <rad>ekvizet</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="ekvizet.0o">
   <kap><tld/>o</kap>
@@ -18,9 +18,8 @@
       kun verda tigo multartika, kiu &ccirc;e &ccirc;iu artiko surhavas 
       skatolecan ingon, 
       konsistantan el kuni&gcirc;intaj skvamformaj folioj kun liberaj pintoj,
-      kun kirlile elkreskantaj fadenoformaj folioj; ofte kreksanta sur
-      malseka 
-      grundo;
+      kun kirlile elkreskantaj fadenoformaj folioj; ofte kreskanta sur
+      malseka grundo;
       sola plu vivanta 
       <ref tip="lst" cel="genr.0o.BIO"
       lst="voko:botanikaj_genroj">genro</ref>
@@ -28,9 +27,10 @@
       cel="ekvizet.0oj"><tld/>oj</ref>.
     </dif>
   </snc>
-  <trd lng="cs">přeslička</trd>
+  <trd lng="cs">p&rcaron;esli&ccaron;ka</trd>
   <trd lng="de">Schachtelhalm</trd>
-  <trd lng="sk">praslička</trd>
+  <trd lng="fr">pr&ecirc;le</trd>
+  <trd lng="sk">prasli&ccaron;ka</trd>
 </drv>
 
 <drv mrk="ekvizet.0oj">
@@ -50,6 +50,9 @@
 
 <!--
 $Log: ekvizet.xml,v $
+Revision 1.5  2017/02/20 21:10:18  revo
+Jeromo Vasxe: kreksanta -> kreskanta, + trd fr
+
 Revision 1.4  2015/07/04 08:37:33  revo
 aldono de trd cs per skripto de M. von Laer
 

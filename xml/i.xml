@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: i.xml,v 1.30 2016/10/26 13:10:13 revo Exp $">
+<art mrk="$Id: i.xml,v 1.32 2017/02/16 13:10:17 revo Exp $">
 <kap>
   -<rad>i</rad>/ <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -65,8 +65,9 @@
     </dif>
   </subsnc>
   <subsnc mrk="i.0.etno">
+  <uzo tip="stl">EVI</uzo>
     <dif>
-      (neoficiala uzo) iama a&ubreve; nuna enlo&gcirc;a etno:
+      iama a&ubreve; nuna enlo&gcirc;a etno:
       <ekz>
         franco - Franc<tld/>o,
         brito &#8208; Brit<tld/>o,
@@ -76,8 +77,8 @@
     </dif>
     <rim>
       Por la okazoj de deetna landonomado la Fundamento uzas la
-      sufikson <ref tip="sin" cel="uj.0.lando">-uj/</ref>.
-      <em>Oni plue preferu tiun fundamentan
+      sufikson <ref tip="sin" cel="uj.0.lando">-uj/</ref>. <em>Oni plue
+      preferu tiun fundamentan
       uzmanieron</em>, &ccirc;ar &gcirc;i forigas konfuzon kun la landnomaj jam
       enhavantaj
       la literon i en siaj radikoj/radikaloj kiel &scirc;ajnan sufikson
@@ -87,9 +88,7 @@
       cel="an.0">-an/</ref> (a&ubreve;straliano, libiano, al&gcirc;eriano, tuniziano,
       ni&gcirc;eriano ktp.). De post 1974 la
       Akademio nek aprobas, nek
-      malaprobas la deetnajn landonomojn per -<tld/>o, nuliginte sian
-      pli fruan
-      malaprobon.
+      malaprobas la deetnajn landonomojn per -<tld/>o.
     </rim>
   </subsnc>
   <subsnc mrk="i.0.cetero">
@@ -115,7 +114,7 @@
     </ekz>
     Tamen ne &ccirc;iam tiuj sufiksoj estas inter&scirc;an&gcirc;eblaj: -uj/
     apliki&gcirc;as nur al hom- a&ubreve; lingvo-indikaj radikoj, kaj -land/ estas
-    kelkfoje netu&scirc;ebala parto de la radikalo (&ccirc;e Irlando, Islando,
+    kelkfoje netu&scirc;ebla parto de la radikalo (&ccirc;e Irlando, Islando,
     Nederlando, Holando, Gronlando, Togolando, Nov-Zelando, Burgenlando,
     Kablando).
   </rim>
@@ -139,6 +138,12 @@
 </art>
 <!--
 $Log: i.xml,v $
+Revision 1.32  2017/02/16 13:10:17  revo
+Jeromo Vasxe: netusxebala -> netusxebla
+
+Revision 1.31  2016/12/19 12:10:13  revo
+Damien Brucker: +evitinde laux la Fundamento
+
 Revision 1.30  2016/10/26 13:10:13  revo
 Damien Brucker: -sufikso cxe snc
 
@@ -155,11 +160,5 @@ Revision 1.26  2014/02/04 11:10:16  revo
 Damien Brucker: +ref al landnomo
 
 Revision 1.25  2014/01/10 14:10:26  revo
-Damien Brucker: +ref
-
-Revision 1.24  2013/11/12 10:10:17  revo
-Damien Brucker: -ekzemplo
-
-Revision 1.23  2013/11/11 09:10:16  revo
 -->
 </vortaro>

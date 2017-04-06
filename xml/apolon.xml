@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: apolon.xml,v 1.8 2015/07/04 08:37:30 revo Exp $">
+<art mrk="$Id: apolon.xml,v 1.9 2017/01/27 15:10:25 revo Exp $">
 <kap>
 <rad>Apolon</rad>/o
 </kap>
@@ -18,19 +18,23 @@ poezio, filo de
     </dif>
   </snc>
   <trdgrp lng="cs">
-    <trd>Apollón</trd>,
-    <trd>Apollón</trd>
+    <trd>Apoll&oacute;n</trd>,
+    <trd>Apoll&oacute;n</trd>
   </trdgrp>
   <trd lng="en">Apollo</trd>
   <trd lng="fr">Apollon</trd>
   <trd lng="it">Apollo</trd>
   <trd lng="nl">Apollo</trd>
-  <trd lng="sk">Apolón</trd>
+  <trd lng="sk">Apol&oacute;n</trd>
+  <trd lng="ms">Apollo</trd>
 </drv>
 </art>
 
 <!--
 $Log: apolon.xml,v $
+Revision 1.9  2017/01/27 15:10:25  revo
+Adam Eng: +trd ms
+
 Revision 1.8  2015/07/04 08:37:30  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -50,10 +54,5 @@ Revision 1.3  2009/09/07 16:30:42  revo
 Paul Peeraerts: +nl
 
 Revision 1.2  2008/09/11 16:30:57  revo
-Dmitri Gabinski: kor de ligilo al artemido
-
-Revision 1.1  2008/09/07 16:33:23  revo
-Antonio Codazzi: nova artikolo
-
 -->
 </vortaro>

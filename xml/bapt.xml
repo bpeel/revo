@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bapt.xml,v 1.34 2015/10/02 02:10:18 revo Exp $">
+<art mrk="$Id: bapt.xml,v 1.36 2017/02/19 16:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bapt</rad>/i <fnt><bib>PV</bib></fnt>
@@ -15,8 +15,57 @@
   <snc mrk="bapt.0i.KRI">
     <uzo tip="fak">KRI</uzo>
     <dif>
-      Rite purigi iun en akvo, precipe en kristanismo kun la donado de
-      aparta nomo.
+      Rite purigi iun en akvo, precipe en kristanismo, ligante lin al religia kredo a&ubreve; spirita gvidanto, 
+      ofte donante al li apartan nomon:
+      <ekz>
+        kiel Johano <tld/>is per akvo, vi <tld/>i&gcirc;os per la Sankta Spirito
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 1:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i&gcirc;u &ccirc;iu el vi en la nomo de Jesuo Kristo por forigo de pekoj, kaj vi ricevos la donacon de la Sankta Spirito
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 2:38</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili <tld/>i&gcirc;is en la nomon de la Sinjoro Jesuo
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 19:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj, kiuj <tld/>i&gcirc;is al Jesuo Kristo, bapti&gcirc;is al lia morto
+        <fnt>
+          <bib>NT</bib>
+          <lok>Romanoj 6:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la infano estas <tld/>ita Kristane
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj <tld/>itoj ja estas ligitaj al Kristo, sed &scirc;ajne ne &ccirc;iuj al la eklezio
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url>http://www.esperanto.be/fel/mon/007178.html</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la paro estis <tld/>ita Romeo kaj Julieta
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref='http://www.esperanto.be/fel/mon/007205.html'>KOSOVO: Voja&gcirc;impresoj, somero 2000</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
     <ref tip="super" cel="sakram.0o.kri">sakramento</ref>
     <trd lng="hu">keresztel</trd>
@@ -24,7 +73,6 @@
       <trd>chrzci&cacute;</trd>,
       <trd>ochrzci&cacute;</trd>
     </trdgrp>
-    
     <trdgrp lng="ru">
       <trd>&c_k;&c_r;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
       <trd>&c_k;&c_r;&c_je;&c_shch;&c_a;&c_t;&c_mol;</trd>,
@@ -36,7 +84,14 @@
     <dif>
       Doni nomon al iu a&ubreve; io:
       <ekz>
-        <tld/>i &scirc;ipon, sonorilegon.
+        <tld/>i &scirc;ipon, sonorilegon;
+      </ekz>
+      <ekz>
+        pro ties nigraj muroj la turkoj <tld/>is &gcirc;in <ctl>Janik Kala</ctl>, brulinta urbo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=21314'>Gy&odblac;r</url></lok>
+        </fnt>.
       </ekz>
     </dif>
     <ref tip="super" cel="inauxg.0i">ina&ubreve;guri</ref>
@@ -72,7 +127,7 @@
   <kap><tld/>o</kap>
   <snc>
     <dif>
-      Religia a&ubreve; civila ceremonio per kiu oni <tld/>as.
+      Religia a&ubreve; civila ceremonio per kiu oni <tld/>as:
       <ekz>
         venis Johano, kiu <klr>...</klr> predikis la <tld/>on de pento
         por
@@ -151,7 +206,16 @@
   <kap><tld/>ato</kap>
   <snc mrk="bapt.0ato.KRI">
     <dif>
-      Tiu, kiu ricevas la <tld/>on.
+      Tiu, kiu ricevas la <tld/>on:
+      <ekz>
+        la akvon de malgrandaj <tld/>ujoj oni uzas por ver&scirc;i akvon sur la kapon de de la <tld/>ato 
+        <klr>[en]</klr> <tld/>ujoj pli grandaj, foje nomataj <tld/>obasenojn, 
+        <klr>[...]</klr> oni tute subakvigas la <tld/>aton
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=53926'>Baptujo</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="cs">k&rcaron;t&ecaron;nec</trd>
@@ -161,32 +225,6 @@
   <trd lng="nl">dopeling</trd>
   <trd lng="ru">&c_k;&c_r;&c_je;&c_shch;&c_a;&c_je;&c_m;&c_y;&c_j;</trd>
   <trd lng="sk">krstenec</trd>
-</drv>
-
-<drv mrk="bapt.0ingo">
-  <kap><tld/>ingo</kap>
-  <snc mrk="bapt.0ingo.KRI">
-    <uzo tip="fak">KRI</uzo>
-    <ref tip="dif" cel="kuv.bapto0o.KRI">baptokuvo</ref>
-    <ekz>
-      estis en la &ccirc;ambro neniu, krom la aku&scirc;istino kiu en
-      ver&scirc;is akvon en la <tld/>ingo
-      <fnt><bib>Voja&gcirc;Imp</bib>, <lok>du blinduloj</lok></fnt>.
-    </ekz>
-  </snc>
-  <trdgrp lng="br">
-    <trd>maen-badez</trd>,
-    <trd>maen-font</trd>
-  </trdgrp>
-  <trd lng="fr">fonts baptismaux</trd>
-  <trd lng="hu">keresztel&odblac;medence</trd>
-  <trdgrp lng="nl">
-    <trd>doopvont</trd>,
-    <trd>doopbekken</trd>,
-    <trd>vont</trd>
-  </trdgrp>
-  <trd lng="pt">pia batismal</trd>
-  <trd lng="ru">&c_k;&c_u;&c_p;&c_je;&c_l;&c_mol;</trd>
 </drv>
 
 <drv mrk="bapt.0ismo">
@@ -219,7 +257,8 @@
 <drv mrk="bapt.0ismano">
   <kap><tld/>ismano</kap>
   <snc mrk="bapt.0ismano.KRI">
-    <ref tip="dif" cel="bapt.0isto.KRI_sekte"><tld/>isto<sncref/></ref>
+    <dif>
+      <ref tip="dif" cel="bapt.0isto.KRI_sekte"><tld lit="B"/>isto<sncref/></ref>:
       <ekz>
         iuj &ccirc;ikanas pri la aserto, ke <tld/>ismanoj estas Protestantoj
         <fnt>
@@ -230,6 +269,7 @@
           <lok>[vidita en 2010]</lok>
         </fnt>.
       </ekz>
+    </dif>
   </snc>
   <trd lng="fr">baptiste<klr> (subst.)</klr></trd>
 </drv>
@@ -268,6 +308,68 @@
   <trd lng="sk">krstite&lcaron;</trd>
 </drv>
 
+<drv mrk="bapt.0ujo">
+  <kap>
+    <tld/>ujo
+  </kap>
+  <snc>
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+       Ujo entenanta <tld/>akvon::
+       <ekz>
+        la akvon de malgrandaj <tld/>ujoj oni uzas por ver&scirc;i akvon sur la kapon de de la <tld/>ato 
+        <klr>[en]</klr> <tld/>ujoj pli grandaj, foje nomataj <tld/>obasenojn, 
+        <klr>[...]</klr> oni tute subakvigas la <tld/>aton
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=53926'>Baptujo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>ujo portas reliefon de <tld/>o de Kristo el la duono de 19-a jarcento
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=127401'>Ostrov (distrikto &Uacute;st&iacute; nad Orlic&iacute;)</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tombo&scirc;tonoj, <tld/>ujo kaj renesancaj brakse&gcirc;oj
+        <fnt>
+          <vrk><url ref='http://pola-retradio.org/felietonoj-4/pago-5/'>Vizitindaj lokoj: Gniew 20.12.2008</url></vrk>
+          <lok>Pola Retradio en Esperanto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    En iu verko trovi&gcirc;as anka&ubreve; la vorto &leftquot;<tld/>ingo&rightquot;:
+    <ekz>
+        estis en la &ccirc;ambro neniu, krom la aku&scirc;istino kiu 
+        en<klr>[-]</klr>ver&scirc;is akvon en la <tld/>ingo<klr>[n]</klr>
+        <fnt><bib>Voja&gcirc;Imp</bib>, <lok>du blinduloj</lok></fnt>.
+    </ekz>
+  </rim>
+  <trdgrp lng="br">
+    <trd>maen-badez</trd>,
+    <trd>maen-font</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Taufstein</trd>,
+    <trd>Taufbecken</trd>
+  </trdgrp>
+  <trd lng="fr">fonts baptismaux</trd>
+  <trd lng="hu">keresztel&odblac;medence</trd>
+  <trdgrp lng="nl">
+    <trd>doopvont</trd>,
+    <trd>doopbekken</trd>,
+    <trd>vont</trd>
+  </trdgrp>
+  <trd lng="pt">pia batismal</trd>
+  <trd lng="ru">&c_k;&c_u;&c_p;&c_je;&c_l;&c_mol;</trd>
+</drv>
+
+
+
 <drv mrk="bapt.B0isto">
   <kap><tld lit="B"/>isto</kap>
   <snc mrk="bapt.B0isto.NOM">
@@ -296,7 +398,23 @@
   <kap><ofc>*</ofc><tld/>ofilo</kap>
   <snc mrk="bapt.0ofilo.KRI">
     <dif>
-      La <tld/>ito rilate al la <tld/>opatro a&ubreve; <tld/>opatrino.
+      La <tld/>ito rilate al la <tld/>opatro a&ubreve; <tld/>opatrino:
+      <ekz>
+        Georg Philipp Telemann <klr>[... post sia morto]</klr>
+        anstata&ubreve;igis lia <tld/>ofilo Carl Philipp Emanuel Bach
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=31389'>Georg Philipp Telemann</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>   
+        la vera <tld/>ofilo de &Gcirc;uangzio ne estis tia popola taoismo, sed zenismo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=1348'>&Gcirc;uangzio</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="br">filhor</trd>
@@ -320,7 +438,22 @@
   <snc mrk="bapt.0opatro.KRI">
     <dif>
       Tiu viro, kiu prezentas infanon por <tld/>o,
-      donante al &gcirc;i &gcirc;ian anta&ubreve;nomon.
+      donante al &gcirc;i &gcirc;ian anta&ubreve;nomon:
+      <ekz>
+        episkopo de Varmio kaj la <tld/>opatro de Koperniko
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=2100'>Koperniko</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Jonas Mekas, litovdevena usona film­kreanto, artisto ofte nomata &leftquot;<tld/>opatro de usona avangarda kino&rightquot;
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref='http://www.esperanto.be/fel/2008/009648.php'>Arta futuro</url></vrk>
+          <lok>esperanto.be</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="br">paeron</trd>
@@ -350,7 +483,24 @@
   <snc mrk="bapt.0opatrino.KRI">
     <dif>
       Tiu virino, kiu prezentas infanon por <tld/>o,
-      donante al &gcirc;i &gcirc;ian anta&ubreve;nomon.
+      donante al &gcirc;i &gcirc;ian anta&ubreve;nomon:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        Klara Zilbernik, la edzino de Z, estis kvaza&ubreve; <tld/>opatrino al ties verko, 
+        helpante &gcirc;ian publikigon kaj poste fidele kaj nelaci&gcirc;eme zorgante pri &gcirc;ia prospero
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=13653'>Feminismo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i estis anka&ubreve; <tld/>opatrino de Ter&eacute;z Brunszvik, portanta la saman virinan nomon, 
+        Tereza kiel &scirc;i
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=36929'>Maria Tereza de A&ubreve;strio</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="br">maeronez</trd>
@@ -381,6 +531,12 @@
 <!--
 
 $Log: bapt.xml,v $
+Revision 1.36  2017/02/19 16:10:15  revo
+Wolfram Diestel: +~ujo, -~ingo (nur unu fonto), ~patr(in)o: ekz-oj
+
+Revision 1.35  2017/02/19 14:10:13  revo
+Wolfram Diestel: ekz-oj kun fontoj, dif chirkau ref-dif, adm che ~ingo
+
 Revision 1.34  2015/10/02 02:10:18  revo
 Evandro Avellar: +trd pt
 
@@ -397,12 +553,6 @@ Revision 1.30  2010/11/11 17:30:40  revo
 Jeromo Vasxe: + ~ismo/isto
 
 Revision 1.29  2009/02/26 17:30:52  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.28  2007/06/13 16:31:12  revo
-Wieland Pusch: +trd de
-
-Revision 1.27  2007/05/22 16:31:31  revo
 -->
 
 </vortaro>

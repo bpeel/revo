@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: radi.xml,v 1.30 2015/07/04 08:37:42 revo Exp $">
+<art mrk="$Id: radi.xml,v 1.32 2017/03/07 12:10:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>radi</rad>/o
@@ -26,6 +26,7 @@
       <ref cel="kis.0i">kisi</ref>.
     </refgrp>
     <trd lng="be">&c_p;&c_r;&c_a;&c_m;&c_je;&c_n;&c_mol;</trd>
+    <trd lng="bg">&c_l;&c_malmol;&c_ch;</trd>
     <trd lng="de">Strahl</trd>
     <trd lng="es">rayo</trd>
     <trd lng="fr">rayon<klr tip="ind"> (p.ex. lumineux)</klr></trd>
@@ -53,6 +54,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_r;&c_a;&c_d;&c_y;&c_ju;&c_s;</trd>
+    <trd lng="bg">&c_r;&c_a;&c_d;&c_i;&c_u;&c_s;</trd>
     <trd lng="de">Radius</trd>
     <trd lng="es">radio</trd>
     <trd lng="hu">sug&aacute;r <klr tip="ind">(f&eacute;l &aacute;tm&eacute;r&odblac;)</klr></trd>    
@@ -64,6 +66,7 @@
     <uzo tip="fak">MAT</uzo>
     <fnt><bib>MatVort</bib></fnt>
     <trd lng="be">&c_p;&c_r;&c_a;&c_m;&c_je;&c_n;&c_mol;</trd>
+    <trd lng="bg">&c_l;&c_malmol;&c_ch;</trd>
     <ref tip="dif" cel="rekt.duon0o">duonrekto.</ref>
     <trd lng="de">Halbgerade</trd>
     <trd lng="es">semirrecta</trd>
@@ -95,6 +98,7 @@
       <trd>&c_r;&c_a;&c_d;&c_y;&c_ju;&c_s;</trd>,
       <trd>&c_s;&c_mol;&c_p;&c_ib;&c_c;&c_a;</trd>
     </trdgrp>
+    <trd lng="bg">&c_l;&c_malmol;&c_ch;</trd>
     <trd lng="de">Strahl</trd>
     <trd lng="es">rayo</trd>
     <trd lng="hu">sug&aacute;r</trd>   
@@ -129,6 +133,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_p;&c_r;&c_a;&c_m;&c_je;&c_n;&c_mol;</trd>
+    <trd lng="bg">&c_l;&c_malmol;&c_ch;</trd>
     <trd lng="de">Strahlen</trd>
     <trd lng="fr">rayon<klr tip="ind"> (p.ex. de bonheur)</klr></trd>
     <trd lng="hu">sug&aacute;r <klr tip="ind">(&aacute;tv.)</klr></trd>    
@@ -168,15 +173,15 @@
     <trd>dosah</trd>,
     <trd>okruh</trd>,
     <trd>paprsek</trd>,
-    <trd>polopřímka</trd>,
-    <trd>rádius</trd>
+    <trd>polop&rcaron;&iacute;mka</trd>,
+    <trd>r&aacute;dius</trd>
   </trdgrp>
   <trd lng="en">ray</trd>
   <trdgrp lng="sk">
     <trd>dosah</trd>,
-    <trd>lúč</trd>,
+    <trd>l&uacute;&ccaron;</trd>,
     <trd>okruh</trd>,
-    <trd>rádius</trd>
+    <trd>r&aacute;dius</trd>
   </trdgrp>
 </drv>
 
@@ -314,20 +319,27 @@
       <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol; &c_p;&c_o; &c_r;&c_a;&c_d;&c_i;&c_o;</trd>
     </trdgrp>
   </snc>
+  <trd lng="bg">&c_i;&c_z;&c_l;&c_malmol;&c_ch;&c_v;&c_a;&c_m;</trd>
   <trdgrp lng="cs">
-    <trd>rozzářit</trd>,
-    <trd>vysílat rozhlasem</trd>
+    <trd>rozz&aacute;&rcaron;it</trd>,
+    <trd>vys&iacute;lat rozhlasem</trd>
   </trdgrp>
   <trd lng="fr">&eacute;mettre</trd>
   <trdgrp lng="sk">
-    <trd>sálať</trd>,
-    <trd>vyžarovať</trd>,
-    <trd>žiariť</trd>
+    <trd>s&aacute;la&tcaron;</trd>,
+    <trd>vy&zcaron;arova&tcaron;</trd>,
+    <trd>&zcaron;iari&tcaron;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: radi.xml,v $
+Revision 1.32  2017/03/07 12:10:12  revo
+Lyubomir Vasilev: +trd bg
+
+Revision 1.31  2017/03/07 10:10:14  revo
+Lyubomir Vasilev: -trd bg
+
 Revision 1.30  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -344,17 +356,5 @@ Revision 1.26  2011/06/03 11:10:17  revo
 Carlos Angus: +trd es
 
 Revision 1.25  2007/12/09 17:30:51  revo
-Wieland Pusch: +trd bg
-
-Revision 1.24  2006/02/18 17:31:43  revo
-Tulio Flores: +trd pt
-
-Revision 1.23  2005/01/12 18:22:45  revo
-Wieland Pusch: +trd de
-
-Revision 1.22  2004/08/30 16:32:50  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.21  2004/05/25 16:34:10  revo
 -->
 </vortaro>

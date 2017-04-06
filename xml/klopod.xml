@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klopod.xml,v 1.23 2015/09/23 20:10:15 revo Exp $">
+<art mrk="$Id: klopod.xml,v 1.24 2017/01/21 12:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>klopod</rad>/i <fnt><bib>PV</bib></fnt> 
@@ -54,8 +54,7 @@
   <trdgrp lng="es">
      <trd>esforzarse</trd>,
      <trd>tratar de</trd>,
-     <trd>intentar</trd>,
-     <trd>conseguir</trd>
+     <trd>intentar</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>s'<ind>agiter</ind><klr tip="ind"> (autour de qc ou
@@ -239,6 +238,9 @@
 </art>
 <!--
 $Log: klopod.xml,v $
+Revision 1.24  2017/01/21 12:10:13  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.23  2015/09/23 20:10:15  revo
 Jeromo Vasxe: + ~ema
 
@@ -258,8 +260,5 @@ Revision 1.18  2011/07/04 18:10:09  revo
 Evandro Avellar: +trd pt
 
 Revision 1.17  2010/07/15 16:30:23  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.16  2004/12/19 18:56:25  revo
 -->
 </vortaro>

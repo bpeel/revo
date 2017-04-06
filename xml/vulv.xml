@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vulv.xml,v 1.21 2015/07/04 08:37:46 revo Exp $">
+<art mrk="$Id: vulv.xml,v 1.23 2017/01/27 08:10:17 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>vulv</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -12,14 +12,17 @@
   <snc mrk="vulv.0o.ANA">
   <uzo tip="fak">ANA</uzo>
     <dif>
-      La ekstera&jcirc;o de la seksaj organoj &ccirc;e virino kaj &ccirc;e aliaj superaj
+      La ekstera&jcirc;o de la seksaj organoj &ccirc;e virino kaj
+      &ccirc;e aliaj superaj
       animalinoj:
       <ekz>
-        post kelkaj jaroj komencos kreski &scirc;iaj mamoj, &scirc;ia <tld/>o
+        post kelkaj jaroj komencos kreski &scirc;iaj mamoj, &scirc;ia
+        <tld/>o
         pligrandi&gcirc;os
         <fnt>
         <aut>Donald Broadribb</aut>
-        <vrk>Ne al &ccirc;iuj pla&ccirc;os &ccirc;i literatura gemeto</vrk>
+        <vrk>Ne al &ccirc;iuj pla&ccirc;os &ccirc;i literatura
+        gemeto</vrk>
         <lok><url
         ref="http://www.esperanto.be/fel/2003/007837.html">Monato</url></lok>
         </fnt>.
@@ -27,11 +30,13 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_u;&c_l;&c_mol;&c_v;&c_a;</trd>
+  <trd lng="bg">&c_v;&c_u;&c_l;&c_v;&c_a;</trd>
   <trd lng="ca">vulva</trd>
   <trdgrp lng="cs">
-    <trd>stydké pysky</trd>,
+    <trd>stydk&eacute; pysky</trd>,
     <trd>vulva</trd>,
-    <trd>ženské vnější pohl. ústrojí</trd>
+    <trd>&zcaron;ensk&eacute; vn&ecaron;j&scaron;&iacute; pohl.
+    &uacute;stroj&iacute;</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Vulva</trd>,
@@ -42,13 +47,18 @@
   <trd lng="fa">&a_f;&a_fatha;&a_r;&a_j;</trd>
   <trd lng="fr">vulve</trd>
   <trd lng="hu">szem&eacute;remtest</trd>
+  <trd lng="io">vulvo</trd>
   <trd lng="it">vulva</trd>
-  <trd lng="nl">schaamspleet</trd>
+  <trdgrp lng="nl">
+    <trd>vulva</trd>,
+    <trd>schaamspleet</trd>
+  </trdgrp>
   <trd lng="pl">srom</trd>
   <trd lng="pt">vulva</trd>
   <trd lng="ru">&c_v;&c_u;&c_l;&c_mol;&c_v;&c_a;</trd>
   <trdgrp lng="sk">
-    <trd>vonkajšia časť ženský pohl. orgánov</trd>,
+    <trd>vonkaj&scaron;ia &ccaron;as&tcaron; &zcaron;ensk&yacute; pohl.
+    org&aacute;nov</trd>,
     <trd>vulva</trd>
   </trdgrp>
 </drv>
@@ -69,10 +79,17 @@
     </dif>
   </snc>
   <trd lng="fr">vulvaire</trd>
+  <trd lng="io">vulvala</trd>
 </drv>
 </art>
 <!--
 $Log: vulv.xml,v $
+Revision 1.23  2017/01/27 08:10:17  revo
+Lyubomir Vasilev: +trd bg
+
+Revision 1.22  2016/12/04 15:10:18  revo
+Robin van der Vliet: +trd
+
 Revision 1.21  2015/07/04 08:37:46  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -89,17 +106,5 @@ Revision 1.17  2009/08/24 16:32:51  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.16  2009/03/01 17:34:23  revo
-Russ Williams: + 9OA
-
-Revision 1.15  2007/06/10 16:31:57  revo
-Wieland Pusch: +trd de
-
-Revision 1.14  2005/04/30 16:31:21  revo
-Vito Redsky: +trd pl
-
-Revision 1.13  2005/02/03 17:34:27  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12  2002/10/21 16:35:03  revo
 -->
 </vortaro>

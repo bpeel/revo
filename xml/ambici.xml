@@ -2,14 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ambici.xml,v 1.16 2015/07/04 08:37:30 revo Exp $">
+<art mrk="$Id: ambici.xml,v 1.18 2017/03/13 21:10:16 revo Exp $">
 <kap>
   <ofc>1</ofc>
-  <rad>ambici</rad>/o
+  <rad>ambici</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="ambici.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <snc mrk="ambici.0o.PSI">
     <dif>
       Gloramo, honoramo:
       <ekz>
@@ -17,11 +17,24 @@
       </ekz>
     </dif>
   </snc>
+  <snc mrk="ambici.0o.KOMUNE">
+    <dif>
+      Afero aspirata, dezirata, celata pro <tld/>a sento:
+      <ekz>
+        politikaj <tld/>oj de subridantaj mistifikistoj
+        <fnt>
+          <aut>K. Kalocsay</aut>,
+          <vrk>Mia penso</vrk>,
+          <lok>Norda Prismo, 1957:4, p. 182a-185a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
   <trd lng="be">&c_a;&c_m;&c_b;&c_ib;&c_c;&c_y;&c_ja;</trd>
   <trdgrp lng="cs">
     <trd>ambice</trd>,
     <trd>aspirace</trd>,
-    <trd>ctižádost</trd>
+    <trd>cti&zcaron;&aacute;dost</trd>
   </trdgrp>
   <trdgrp lng="de">
      <trd>Ehrgeiz</trd>,
@@ -42,21 +55,22 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>amb&iacute;cia</trd>,
-    <trd>ašpirácia</trd>
+    <trd>a&scaron;pir&aacute;cia</trd>
   </trdgrp>
 </drv>
 
 <drv mrk="ambici.0a">
   <kap><tld/>a</kap>
-  <snc>
+  <snc mrk="ambici.0a.PSI">
     <dif>
       Havanta <tld/>on.
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_m;&c_b;&c_ib;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>
+  <trd lng="ms">cita-cita</trd>
   <trdgrp lng="cs">
-    <trd>ambiciózní</trd>,
-    <trd>náročný</trd>
+    <trd>ambici&oacute;zn&iacute;</trd>,
+    <trd>n&aacute;ro&ccaron;n&yacute;</trd>
   </trdgrp>
   <trdgrp lng="de">
      <trd>ehrgeizig</trd>,
@@ -74,14 +88,14 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>ambici&oacute;zny</trd>,
-    <trd>ambiciózny</trd>
+    <trd>ambici&oacute;zny</trd>
   </trdgrp>
 </drv>
 
 <drv mrk="ambici.0i">
   <kap><tld/>i</kap>
   <gra><vspec>x</vspec></gra>
-  <snc>
+  <snc mrk="ambici.0i.PSI">
     <dif>
       Esti <tld/>a pri:
       <ekz>
@@ -91,7 +105,7 @@
   </snc>
   <trd lng="be">&c_m;&c_je;&c_c;&c_mol; <ind>&c_a;&c_m;&c_b;&c_ib;&c_c;&c_y;&c_ju;</ind></trd>
   <trdgrp lng="cs">
-    <trd>ctižádostivě usilovat</trd>,
+    <trd>cti&zcaron;&aacute;dostiv&ecaron; usilovat</trd>,
     <trd>dychtit</trd>
   </trdgrp>
   <trdgrp lng="de">
@@ -112,12 +126,18 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>ma&tcaron; <ind>amb&iacute;ciu</ind></trd>,
-    <trd>mať ambíciu</trd>
+    <trd>ma&tcaron; amb&iacute;ciu</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: ambici.xml,v $
+Revision 1.18  2017/03/13 21:10:16  revo
+Jeromo Vasxe: ~o + snc 2
+
+Revision 1.17  2017/02/05 12:40:02  revo
+Adam Eng: trd ms
+
 Revision 1.16  2015/07/04 08:37:30  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -134,17 +154,5 @@ Revision 1.12  2003/05/18 18:02:33  revo
 Viliam Bur: +trd sk
 
 Revision 1.11  2002/10/01 16:37:15  revo
-Christopher Zervic: + ang
-
-Revision 1.10  2002/08/03 18:54:34  revo
-Ulrich Fellmann: + 9 trd de
-
-Revision 1.9  2002/05/09 18:44:01  revo
-Alejandro Mejia Greene: ald 2 his trd
-
-Revision 1.8  2002/02/23 19:47:44  revo
-Yury Finkel: formatigis
-
-Revision 1.7 2001/08/02 18:14:59 revo
 -->
 </vortaro>
