@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ananas.xml,v 1.27 2015/09/10 11:10:27 revo Exp $">
+<art mrk="$Id: ananas.xml,v 1.28 2017/07/14 17:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ananas</rad>/o
@@ -37,6 +37,7 @@
     <trd>anan&aacute;s</trd>,
     <trd>abacaxi</trd>
   </trdgrp>
+  <trd lng="ro">ananas</trd>
   <trd lng="ru">&c_a;&c_n;&c_a;&c_n;&c_a;&c_s;</trd>
   <trd lng="sk">anan&aacute;s</trd>
   <trd lng="sv">ananas</trd>
@@ -75,6 +76,9 @@ tip="amb">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
 </art>
 <!--
 $Log: ananas.xml,v $
+Revision 1.28  2017/07/14 17:10:15  revo
+Vito Redsky: +trd ro
+
 Revision 1.27  2015/09/10 11:10:27  revo
 Evandro Avellar: +trd pt
 
@@ -94,8 +98,5 @@ Revision 1.22  2012/07/31 16:10:14  revo
 Marc Rausell: + trd ca
 
 Revision 1.21  2009/07/11 16:31:51  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.20  2005/08/28 16:31:07  revo
 -->
 </vortaro>

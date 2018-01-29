@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cerb.xml,v 1.40 2015/10/09 11:10:14 revo Exp $">
+<art mrk="$Id: cerb.xml,v 1.41 2017/09/10 17:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>cerb</rad>/o
@@ -64,6 +64,7 @@
   <trd lng="id">otak (besar)</trd>
   <trd lng="it">cervello</trd>
   <trd lng="nl">hersenen</trd>
+  <trd lng="ro">creier</trd>
   <trd lng="ru">&c_m;&c_o;&c_z;&c_g;</trd>
   <trd lng="sk">mozog</trd>
 </drv>
@@ -372,6 +373,9 @@
 </art>
 <!--
 $Log: cerb.xml,v $
+Revision 1.41  2017/09/10 17:10:14  revo
+Vito Redsky: +trd ro
+
 Revision 1.40  2015/10/09 11:10:14  revo
 Evandro Avellar: +trd pt
 
@@ -391,8 +395,5 @@ Revision 1.35  2010/02/07 17:30:29  revo
 Carlos Garcia: +trd "es" sen-ulo
 
 Revision 1.34  2009/07/01 17:22:25  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.33  2009/05/24 11:26:57  revo
 -->
 </vortaro>

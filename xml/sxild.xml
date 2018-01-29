@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxild.xml,v 1.23 2016/06/01 16:10:20 revo Exp $">
+<art mrk="$Id: sxild.xml,v 1.26 2017/08/31 19:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;ild</rad>/o <fnt><bib>PV</bib></fnt>
@@ -101,7 +101,7 @@
         &ccirc;iuj <tld/>oj sur la tablo, starigitaj po persono,
         estis Arabalfabetaj
         <fnt>
-          <aut>Pejno Simono</aut>,
+          <aut>Pejno S.</aut>,
           <vrk>Tagmeze en Tunizo</vrk>,
           <bib>Monato</bib>
         </fnt>;
@@ -109,12 +109,12 @@
       <ekz>
         en la litova urbo Kaunas iun vendredan posttagmezon
         surstrate aperis homgranda leporo, kiu surhavis <tld/>on
-        &leftquot;Mi &scirc;uldas&rightquot;.
+        &leftquot;Mi &scirc;uldas&rightquot;
         <fnt>
-        <aut>LAST</aut>,
-        <vrk>LITOVIO: &Scirc;uldanta leporo</vrk>,
+        <aut>Last</aut>,
+        <vrk>Litovio: &Scirc;uldanta leporo</vrk>,
         <bib>Monato</bib>
-        </fnt>
+        </fnt>.
       </ekz> 
       <trdgrp lng="en">
         <trd>sign</trd>,
@@ -134,6 +134,30 @@
   <trd lng="de">Schild</trd>
 </drv>
 
+<drv mrk="sxild.SX0o">
+  <kap><tld lit="&Scirc;"/>o
+    <fnt>
+      <aut>D. Galad&iacute;-Enr&iacute;quez, A. Wandel</aut>,
+      <vrk>La kosmo kaj ni</vrk>,
+      <lok>2005</lok>
+    </fnt>.
+  </kap>
+  <mlg>Sct</mlg>
+  <snc mrk="sxild.SX0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Sud-hemisfera <ref tip="lst" cel="stel.0figuro"
+      lst="voko:stelfiguroj">stelfiguro</ref>
+      (<trd lng="la">Scutum</trd>).
+    </dif>
+  </snc>
+  <trd lng="en">Scutum</trd>
+  <trdgrp lng="fr">
+    <trd>Bouclier<klr tip="ind"> (constellation)</klr></trd>,
+    <trd>&Eacute;cu de Sobieski</trd>
+  </trdgrp>
+</drv>
+
 <drv mrk="sxild.et0o">
   <kap><tld/>eto</kap>
   <snc>
@@ -141,7 +165,7 @@
       Tabuleto montranta nomon a&ubreve; aliaj informojn, lokita &ccirc;e pordoj 
       kaj sonoriloj, sur la tabloj, sur la sidlokoj kaj sur la brusto: 
       <ekz>
-        &leftquot;&Ccirc;i tie. Kaj jen la &scirc;ildeto: O.L. Latunskij.&rightquot;
+        &leftquot;jen la <tld/>eto: O.L. Latunskij.&rightquot;
         <fnt>
           <bib>MkM</bib>
         </fnt>.
@@ -161,8 +185,26 @@
     <uzo tip="fak">HER</uzo>
     <dif>
       Tabuleto en formo de milit<tld/>o, sur kiu estas pentrita 
-     <ref tip="vid" cel="blazon.0o">blazono</ref>
-      de iu nobelo, regno, urbo, korporacio, a&ubreve; simila.
+      <ref tip="vid" cel="blazon.0o">blazono</ref>
+      de iu nobelo, regno, urbo, korporacio, a&ubreve; simila:
+      <ekz>
+        en sia blazon<tld/>o ili havis cikonian flugilon kun fi&scirc;vosto
+        <fnt>
+          <aut>J. Ha&scaron;ek, trad. V. V&aacute;&ncaron;a</aut>
+          <vrk>La aventuroj de la brava soldato &Scirc;vejk dum la
+          mondmilito</vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la familia blazon<tld/>o trovi&gcirc;as tuje malsupre de la
+        fenestro
+        <fnt>
+          <aut>H. Vallienne</aut>,
+          <vrk>Kastelo de Prelongo</vrk>,
+          <lok>1907</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="de">Wappenschild</trd>
@@ -171,6 +213,7 @@
     <trd>escutcheon</trd>
   </trdgrp>
   <trdgrp lng="fr">
+    <trd>blason</trd>,
     <trd>&eacute;cu<klr> (h&eacute;raldique)</klr></trd>
   </trdgrp>
   <trd lng="hu">c&iacute;merpajzs</trd>
@@ -186,7 +229,16 @@
     <dif>
       Tabuleto montranta la nomon de sidanto
       en konferenco, la nomon de lo&gcirc;anto apud
-      dompordo a&ubreve; simile.
+      dompordo a&ubreve; simile:
+      <ekz>Sur la muro pendas senmakula kupra nom<tld/>o
+        <fnt>
+          <aut>A. Tilmont</aut>,
+          <vrk>Arthur C. Clarke, kosmopolita civitano kun okulo al la
+          universo</vrk>,
+          <bib>Monato</bib>,
+          <lok>1998:4, p. 9a</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="kart.nom0o.KOMUNE">nomkarto</ref>
@@ -268,6 +320,15 @@
 </art>
 <!--
 $Log: sxild.xml,v $
+Revision 1.26  2017/08/31 19:10:13  revo
+Jeromo Vasxe: kor trd fr
+
+Revision 1.25  2017/05/31 09:10:17  revo
+Ludoviko Francisco: +trd
+
+Revision 1.24  2017/05/30 16:10:22  revo
+Ludoviko Francisco: +ekz +drv
+
 Revision 1.23  2016/06/01 16:10:20  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -281,14 +342,5 @@ Revision 1.20  2010/06/07 16:30:20  revo
 Antonio Codazzi: ++trd it
 
 Revision 1.19  2009/06/27 16:31:04  revo
-Russ Williams: +trd en
-
-Revision 1.18  2009/04/05 16:30:45  revo
-Antonio Codazzi: +trd it; +nom~o; +~eto
-
-Revision 1.17  2008/01/31 17:30:32  revo
-Wieland Pusch: +trd de+bg
-
-Revision 1.16  2006/02/10 19:17:43  revo
 -->
 </vortaro>

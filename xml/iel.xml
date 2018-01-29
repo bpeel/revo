@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: iel.xml,v 1.18 2009/04/01 16:30:28 revo Exp $">
+<art mrk="$Id: iel.xml,v 1.19 2017/10/28 22:11:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>iel</rad>
@@ -43,6 +43,10 @@
   <trdgrp lng="pt">
    <trd>de algum <ind>modo</ind></trd>, 
    <trd>de alguma <ind>maneira</ind></trd> 
+  </trdgrp>
+  <trdgrp lng="ro">
+   <trd>intr-un mod anume</trd>, 
+   <trd>intr-un fel anume</trd> 
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_k;&c_a;&c_k;-&c_t;&c_o;</trd>,
@@ -86,6 +90,9 @@
 </art>
 <!--
 $Log: iel.xml,v $
+Revision 1.19  2017/10/28 22:11:21  revo
+Vito Redsky: +trd ro
+
 Revision 1.18  2009/04/01 16:30:28  revo
 Antonio Codazzi: +trd it
 
@@ -105,8 +112,5 @@ Revision 1.13  2004/07/08 17:05:48  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.12  2004/01/08 17:30:57  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11  2003/03/11 17:32:03  revo
 -->
 </vortaro>

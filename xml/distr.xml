@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: distr.xml,v 1.19 2016/02/17 19:10:18 revo Exp $">
+<art mrk="$Id: distr.xml,v 1.21 2017/06/19 08:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>distr</rad>/i <fnt><bib>PV</bib></fnt>
@@ -10,76 +10,82 @@
 <drv mrk="distr.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc mrk="distr.0i.deatentigi">
+  <snc mrk="distr.0i.PSI">
     <dif>
-      Malhelpe deturni la spiriton de &gcirc;ia okupi&gcirc;o:
-      <ekz>
-        la lernantojn <tld/>is zumado de mu&scirc;o;
-      </ekz>
-      <ekz>
-        la urba bruo tro <tld/>as min.
-      </ekz>
-      </dif>
-    <refgrp tip="vid">
-      <ref cel="absorb">malabsorbigi</ref>,
-      <ref cel="atent">malatentigi</ref>.
-    </refgrp>
-    <trd lng="de">ablenken</trd>
-    <trdgrp lng="fr">
-      <trd>d&eacute;ranger<klr tip="ind"> (distraire)</klr></trd>,
-      <trd>distraire<klr tip="ind"> (d&eacute;ranger)</klr></trd>
-    </trdgrp>
-    <trd lng="hu">sz&oacute;rakoztat</trd>
-    <trd lng="pl">rozprasza&cacute;</trd>
-    <trdgrp lng="pt">
-      <trd>distrair</trd>,
-      <trd>desviar a <ind>aten&ccedil;&atilde;o</ind></trd>
-    </trdgrp>
-    <trd lng="ru">&c_o;&c_t;&c_v;&c_l;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
-  </snc>
-  <snc mrk="distr.0i.amuzi">
-    <dif>
-      Deturni la spiriton de &gcirc;iaj prizorgoj, agrable okupante,
-      amuzante &gcirc;in:
-      <ekz>
-        mi provis min <tld/>i en la societo<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        la kuracisto diras, ke mi devas <tld/>i min;
-      </ekz>
-      <ekz>
-        <klr>[tie]</klr> oni povis trafi ilin en ilia vera formo: tiu de
-        <tld/>ato, de <ctl>amuzi&gcirc;anto</ctl>
-        <fnt><bib>UrdHadda</bib>, <lok>p. 17</lok></fnt>.
-      </ekz>
+      Deturni ies atenton de &jcirc;usa al nova temo,
+      <ref tip="vid" cel="atent.mal0igi.PSI">malatentigi</ref>.
     </dif>
-    <refgrp tip="vid">
-      <ref cel="strecx">malstre&ccirc;i</ref>,
-      <ref cel="enu">malenuigi</ref>,
-      <ref cel="lac">mallacigi</ref>.
-    </refgrp>
-    <trdgrp lng="de">
-      <trd>zerstreuen</trd>,
-      <trd>unterhalten</trd>
-    </trdgrp>
-    <trdgrp lng="fr">
-      <trd>amuser</trd>,
-      <trd>divertir<klr tip="ind"> (amuser)</klr></trd>,
-      <trd>distraire<klr tip="ind"> (amuser)</klr></trd>
-    </trdgrp>
-    <trd lng="hu">kikapcsol<klr tip="ind">
-    (sz&oacute;rakoztat)</klr></trd>
-    <trdgrp lng="pl">
-      <trd>bawi&cacute;</trd>,
-      <trd>cieszy&cacute;</trd>
-    </trdgrp>
-    <trdgrp lng="pt">
-      <trd>distrair</trd>,
-      <trd>divertir</trd>,
-      <trd>entreter</trd>
-    </trdgrp>
-    <trd
-    lng="ru">&c_r;&c_a;&c_z;&c_v;&c_l;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
+    <subsnc mrk="distr.0i.deatentigi">
+      <dif>
+        Malhelpe deturni la spiriton de &gcirc;ia okupi&gcirc;o:
+        <ekz>
+          la lernantojn <tld/>is zumado de mu&scirc;o;
+        </ekz>
+        <ekz>
+          la urba bruo tro <tld/>as min.
+        </ekz>
+        </dif>
+      <refgrp tip="vid">
+        <ref cel="absorb">malabsorbigi</ref>.
+      </refgrp>
+      <trd lng="de">ablenken</trd>
+      <trdgrp lng="fr">
+        <trd>d&eacute;ranger<klr tip="ind"> (distraire)</klr></trd>,
+        <trd>distraire<klr tip="ind"> (d&eacute;ranger)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">sz&oacute;rakoztat</trd>
+      <trd lng="pl">rozprasza&cacute;</trd>
+      <trdgrp lng="pt">
+        <trd>distrair</trd>,
+        <trd>desviar a <ind>aten&ccedil;&atilde;o</ind></trd>
+      </trdgrp>
+      <trd lng="ru">&c_o;&c_t;&c_v;&c_l;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
+    </subsnc>
+    <subsnc mrk="distr.0i.amuzi">
+      <dif>
+        Deturni la spiriton de &gcirc;iaj prizorgoj, agrable okupante,
+        amuzante &gcirc;in:
+        <ekz>
+          mi provis min <tld/>i en la societo<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          la kuracisto diras, ke mi devas <tld/>i min;
+        </ekz>
+        <ekz>
+          <klr>[tie]</klr> oni povis trafi ilin en ilia vera formo: tiu
+          de
+          <tld/>ato, de <ctl>amuzi&gcirc;anto</ctl>
+          <fnt><bib>UrdHadda</bib>, <lok>p. 17</lok></fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="enu">malenuigi</ref>,
+        <ref cel="lac">mallacigi</ref>,
+        <ref cel="strecx">malstre&ccirc;i</ref>
+      </refgrp>
+      <trdgrp lng="de">
+        <trd>zerstreuen</trd>,
+        <trd>unterhalten</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>amuser</trd>,
+        <trd>divertir<klr tip="ind"> (amuser)</klr></trd>,
+        <trd>distraire<klr tip="ind"> (amuser)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">kikapcsol<klr tip="ind">
+      (sz&oacute;rakoztat)</klr></trd>
+      <trdgrp lng="pl">
+        <trd>bawi&cacute;</trd>,
+        <trd>cieszy&cacute;</trd>
+      </trdgrp>
+      <trdgrp lng="pt">
+        <trd>distrair</trd>,
+        <trd>divertir</trd>,
+        <trd>entreter</trd>
+      </trdgrp>
+      <trd
+      lng="ru">&c_r;&c_a;&c_z;&c_v;&c_l;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>
+    </subsnc>
   </snc>
   <snc mrk="distr.0i.disigi">
     <uzo tip="stl">ARK</uzo>
@@ -172,6 +178,31 @@
     <trd>z&aacute;bava</trd>
   </trdgrp>
   <trd lng="sk">zabavenie</trd>
+</drv>
+
+<drv mrk="distr.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="distr.0ajxo.KOMUNE">
+    <dif>
+      Afero, okupo, okaza&jcirc;o kiu <tld/>as:
+      <ekz>
+        Eisinger <klr>...</klr> elpensadis historietojn, <tld/>a&jcirc;ojn, 
+        en kiuj li mem estis celo de mokado
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="https://www.vedem-terezin.cz/eo/la-respubliko-skid.html">
+          La respubliko &Scaron;kid</url></vrk>,
+          <lok>[vidita en 2017]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="amuz.0ajxo.KOMUNE">amuza&jcirc;o</ref>,
+      <ref cel="sxat.0okupo">&scirc;atokupo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="fr">distraction</trd>
 </drv>
 
 <drv mrk="distr.0igxi">
@@ -312,6 +343,12 @@
 </art>
 <!--
 $Log: distr.xml,v $
+Revision 1.21  2017/06/19 08:10:16  revo
+Jeromo Vasxe: + ~ajxo
+
+Revision 1.20  2017/04/11 20:10:23  revo
+Jeromo Vasxe: ~i snc / subsnc
+
 Revision 1.19  2016/02/17 19:10:18  revo
 Alain Gerard: +trd fr
 
@@ -328,11 +365,5 @@ Revision 1.15  2015/02/03 23:10:15  revo
 Jeromo Vasxe: + ~a, ~igxi + kk ekz
 
 Revision 1.14  2009/06/27 16:30:51  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.13  2007/08/08 16:31:16  revo
-Tulio Flores: +tr pt
-
-Revision 1.12  2003/09/10 16:31:07  revo
 -->
 </vortaro>

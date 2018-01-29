@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: invers.xml,v 1.31 2015/07/04 08:37:36 revo Exp $">
+<art mrk="$Id: invers.xml,v 1.35 2017/08/08 19:10:13 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>invers</rad>/a
@@ -13,13 +13,11 @@
     <dif>
       Estanta en mala, kontra&ubreve;a pozicio a&ubreve; direkto rilate al alia:
       <ekz>
-        la antipodoj estas rilate al ni en <tld/>a pozicio;
-      </ekz>
-      <ekz>
         la gvidisto erarinte pri la vojo returniris en <tld/>a direkto;
       </ekz>
       <ekz>
-        <tld/>a bildo;
+        <tld/>a bildo <klr>(&gcirc;i povas esti ekz spegulita a&ubreve; turnita tiel, ke la dorsflanko vidi&gcirc;as 
+        a&ubreve; kun inversigitaj koloroj, t.e. nigro anstata&ubreve; blanko, ru&gcirc;o anstata&ubreve; verdo ktp.)</klr>;
       </ekz>
       <ekz>
         <tld/>a rilato
@@ -27,8 +25,31 @@
         mezuro kiel la alia malpligrandi&gcirc;as)</klr>;
       </ekz>
       <ekz>
+        <tld/>a grando al rezistanco estas konduktanco, kiu estas mezurita en simensoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=45028'>Elektra rezistanco</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         la korpoj sin altiras la&ubreve; <tld/>a rilato de la kvadrato
-        de sia distanco.
+        de sia distanco;
+      </ekz>
+      <ekz>
+        en <klr>[...]</klr> la hispana lingvo demandaj &ccirc;effrazoj estu komencataj per 
+        <tld/>a (surkapa, turnita) demandosigno (¿) kaj finataj per la tradicia demandosigno
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=41754'>Demandosigno</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a pola notacio <klr>(maniero noti matematikajn formulojn kun la operatoro 
+        post la argumentoj, <tld/>e al la pola notacio, kie oni notas la operatoron anta&ubreve; la argumentoj)</klr>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=293712'>Inversa pola notacio</url></lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="fr">
@@ -46,7 +67,25 @@
     <uzo tip="fak">MAT</uzo>
     <fnt><bib>PIV1</bib></fnt>
     <dif>
-      Estanta <ref cel="invers.0o.MAT"><tld/>o <sncref/></ref>.
+      Estanta <ref cel="invers.0o.MAT"><tld/>o <sncref/></ref>:
+      <ekz>
+        la <tld/>a rilato de funkcio <frm><k>f</k>:<k>X</k>&#10230;<k>Y</k></frm> 
+        estas la duargumenta rilato <frm><k>f</k><sup>-1</sup>&#8838;<k>Y</k>×<k>X</k></frm> 
+        difinita per <frm><k>f</k><sup>-1</sup>={(<k>y</k>,<k>x</k>):(<k>x</k>,<k>y</k>)&#8712;<k>f</k>}</frm> 
+        <klr>[...]</klr> en la okazo ke &gcirc;i estas funkcio, &gcirc;i nomi&gcirc;as <klr>[...]</klr> <tld/>a funkcio 
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=83352'>Inversa rilato</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        logaritmo kun bazo a <klr>[<frm>y=log<sub>a</sub>x</frm>]</klr> estas la <tld/>a 
+        funkcio de eksponenta funkcio kun la sama bazo <frm>y = a<sup>x</sup></frm>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=37395'>Logaritmo</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="de">inverse</trd>
     <trd lng="en">inverse</trd>
@@ -56,10 +95,10 @@
     <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>
   </snc>
   <trdgrp lng="cs">
-    <trd>inverzní</trd>,
-    <trd>opačný</trd>,
-    <trd>převrácený</trd>,
-    <trd>reciproký</trd>
+    <trd>inverzn&iacute;</trd>,
+    <trd>opa&ccaron;n&yacute;</trd>,
+    <trd>p&rcaron;evr&aacute;cen&yacute;</trd>,
+    <trd>reciprok&yacute;</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>umgekehrt</trd>,
@@ -73,9 +112,9 @@
     <trd>&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>inverzný</trd>,
-    <trd>opačný</trd>,
-    <trd>prevrátený</trd>
+    <trd>inverzn&yacute;</trd>,
+    <trd>opa&ccaron;n&yacute;</trd>,
+    <trd>prevr&aacute;ten&yacute;</trd>
   </trdgrp>
 </drv>
 
@@ -83,7 +122,14 @@
   <kap><tld/>o</kap>
   <snc>
     <dif>
-      Io <tld/>a.
+      Io <tld/>a:
+      <ekz>
+        la grekoj respektis logikon pli ol fakto<klr>[n]</klr>, sed en moderna scienco, la <tld/>o estas la kazo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=2915'>Moderna scienco</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trdgrp lng="de">
       <trd>Umkehrung</trd>,
@@ -120,6 +166,13 @@
         <ekz>
           por &ccirc;iu elemento de grupo ekzistas &gcirc;ia <tld/>o.
         </ekz>
+        <ekz>
+          en aritmetiko multipliko estas unu el operacioj per nombroj, kiu estas la <tld/>o de divido
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url ref='https://eo.wikipedia.org/?curid=2959'>Multipliko</url></lok>
+          </fnt>.
+        </ekz>
       </dif>
       <rim>
         Verdire la citita fonto limigas la nocion al <tld/>oj de
@@ -146,13 +199,16 @@
     </subsnc>
     <subsnc mrk="invers.0o.per0igo">
       <dif>
-        <ref cel="bild.0o.MAT">Bildo</ref> de punkto a&ubreve; figuro per
-        <ref cel="invers.0igo.transformo"><tld/>igo</ref>:
+        <ref cel="bild.0o.MAT">Bildigo</ref>, funkcio esti&gcirc;anta per inter&scirc;an&gcirc;o de origino kaj bildopunkto:
         <ekz>
-          la <tld/>o de rekto ne trairanta la centron estas cirklo
-          &gcirc;in trairanta.
+          sekanto &dash; la <tld/>o de la kosinuso, kosekanto &dash; la <tld/>o de la sinuso
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url ref='https://eo.wikipedia.org/?curid=4188'>Trigonometrio</url></lok>
+          </fnt>.
         </ekz>
       </dif>
+<!--
       <trdgrp lng="de">
         <trd>inverser <ind>Punkt</ind></trd>,
         <trd>inverse <ind>Figur</ind></trd>
@@ -168,8 +224,23 @@
         <trd>&c_i;&c_n;&c_v;&c_je;&c_r;&c_s;&c_n;&c_a;&c_ja; <ind>&c_t;&c_o;&c_ch;&c_k;&c_a;</ind></trd>,
         <trd>&c_i;&c_n;&c_v;&c_je;&c_r;&c_s;&c_n;&c_a;&c_ja; <ind>&c_f;&c_i;&c_g;&c_u;&c_r;&c_a;</ind></trd>
       </trdgrp>
+-->
     </subsnc>
     <subsnc mrk="invers.0o.variaj">
+      <ekz>
+        integralo estas la <tld/>o de deriva&jcirc;o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=14013'>Integralo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o (logiko)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=83283'>Inverso (matematiko)</url></lok>
+        </fnt>.
+      </ekz>
       <refgrp tip="vid">
         <ref cel="par.inversa0o"><tld/>a paro</ref>,
         <ref cel="rilat.inversa0o"><tld/>a rilato</ref>,
@@ -187,20 +258,37 @@
     esprimi pli precize sen neologismo.
     <aut>MB</aut>
   </adm>
-  <trd lng="sk">inverzné zobrazenie</trd>
-  <trd lng="cs">inverzní zobrazení</trd>
+  <trd lng="sk">inverzn&eacute; zobrazenie</trd>
+  <trd lng="cs">inverzn&iacute; zobrazen&iacute;</trd>
 </drv>
 
 <drv mrk="invers.0e">
   <kap><tld/>e</kap>
   <snc>
     <dif>
-      En <tld/>a maniero:
+      En <tld/>a maniero, <tld/>a direkto:
       <ekz>
         la akvo spegulas <tld/>e la objektojn;
       </ekz>
       <ekz>
-        movi pi&scirc;ton de supre malsupren kaj <tld/>e.
+        movi pi&scirc;ton de supre malsupren kaj <tld/>e;
+      </ekz>
+      <ekz>
+        la angla posedas 6000 idiomajn esprimojn kaj avera&gcirc;e 5 signifojn por &ccirc;iu vorto a&ubreve; <tld/>e 5 vortojn por &ccirc;iu signifo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>S. Maul</aut>
+          <vrk><url>http://steloj.de/esperanto/monato2/007089.html</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Svislando devas akcepti gigantan trafikon de nordo al sudo kaj inverse
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mireille Grosjean</aut>
+          <vrk><url ref='http://www.monato.net/2015/011394.php'>Kultura mozaiko</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -211,7 +299,7 @@
   </snc>
   <trdgrp lng="cs">
     <trd>naopak</trd>,
-    <trd>obráceně</trd>
+    <trd>obr&aacute;cen&ecaron;</trd>
   </trdgrp>
   <trd lng="de">umgekehrt</trd>
   <trd lng="es">inversamente</trd>
@@ -240,7 +328,24 @@
     <dif>
       Meti en <tld/>an pozicion a&ubreve; direkton:
       <ekz>
-        <tld/>igi bildon, elektran fluon, la rolojn.
+        <tld/>igi bildon, elektran fluon, la rolojn;
+      </ekz>
+      <ekz>
+        humile li provis pardonpeti, sed lia lango &scirc;ajnis <tld/>igi &ccirc;iujn movojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lode Van de Velde</aut>
+          <vrk><url ref='http://www.monato.net/2010/009883.php'>Trancporto</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;io estas <tld/>igita: kio povas vidigi, blindigas, kio povas krei ion novan, detruas
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Infana Imperiestrino</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="de">
@@ -278,12 +383,12 @@
     <trd lng="ru">&c_i;&c_n;&c_v;&c_je;&c_r;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
   <trdgrp lng="cs">
-    <trd>otočit do protisměru</trd>,
-    <trd>zvrátit</trd>
+    <trd>oto&ccaron;it do protism&ecaron;ru</trd>,
+    <trd>zvr&aacute;tit</trd>
   </trdgrp>
   <trd lng="es">invertir</trd>
   <trd lng="pt">inverter</trd>
-  <trd lng="sk">vypočítať inverziu</trd>
+  <trd lng="sk">vypo&ccaron;&iacute;ta&tcaron; inverziu</trd>
 </drv>
 
 <drv mrk="invers.0igo">
@@ -325,7 +430,21 @@
           <frm>&lambda;</frm> estas sen&scirc;an&gcirc;a per la <tld/>igo;
         </ekz>
         <ekz>
-          <tld/>igo estas <ref cel="involu1.0o">involucio</ref>.
+          <tld/>igo estas <ref cel="involu1.0o">involucio</ref>;
+        </ekz>
+        <ekz>
+          cirkla <tld/>igo
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url ref='https://eo.wikipedia.org/?curid=83283'>Inverso (matematiko)</url></lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <tld/>igo en punkto
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url ref='https://eo.wikipedia.org/?curid=83283'>Inverso (matematiko)</url></lok>
+          </fnt>.
         </ekz>
       </dif>
       <rim>
@@ -388,27 +507,54 @@
     <trd lng="pl">odwracalny</trd>
     <trd lng="ru">&c_d;&c_o;&c_p;&c_u;&c_s;&c_k;&c_a;&c_ju;&c_shch;&c_i;&c_j; &c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>
   </snc>
-  <trd lng="cs">reverzibilní <klr>(turbína)</klr></trd>
+  <trd lng="cs">reverzibiln&iacute; <klr>(turb&iacute;na)</klr></trd>
   <trd lng="de">umkehrbar</trd>
   <trd lng="es">invertible</trd>
   <trd lng="fr">inversible</trd>
   <trd lng="nl">omkeerbaar</trd>
   <trd lng="pt">invert&iacute;vel</trd>
   <trdgrp lng="sk">
-    <trd>vratný</trd>,
-    <trd>zvratný</trd>
+    <trd>vratn&yacute;</trd>,
+    <trd>zvratn&yacute;</trd>
   </trdgrp>
 </drv>
 
 <drv mrk="invers.ne0igebla">
   <kap>ne<tld/>igebla</kap>
-  <uzo tip="fak">MAT</uzo>
-  <snc>
+  <snc mrk="invers.ne0igebla.KOMUNE">
     <dif>
-      Ne <ref cel="invers.0igebla"><tld/>igebla</ref>.
+      Ne <ref cel="invers.0igebla.KOMUNE">inversigebla<sncref/></ref>:
+      <ekz>
+        kelkaj efikoj estas ne<tld/>igeblaj (a&ubreve;, pli precize, restas dum tre longega tempo en nia klimatsistemo)
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marco van Hulten</aut>
+          <vrk><url ref='http://www.monato.net/2015/011605.php'>Interrilato de la oceano kaj klimat&scirc;an&gcirc;i&gcirc;o</url></vrk>
+          <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne<tld/>igebla transpolenado de la modifita tritiko al aliaj grenspecioj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Joyce Bunting</aut>
+          <vrk><url ref='http://www.monato.net/2013/010846.php'>Taktiko por noveca tritiko</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>unumkehrbar</trd>,
+      <trd>irreversibel</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      Ne <ref cel="invers.0igebla.MAT"><tld/>igebla<sncref/></ref>.
     </dif>
   </snc>
-  <trd lng="cs">neinverzibilní</trd>
+  <trd lng="cs">neinverzibiln&iacute;</trd>
   <trd lng="de">unumkehrbar</trd>
   <trd lng="en">non-inversible</trd>
   <trd lng="fr">non inversible</trd>
@@ -420,7 +566,7 @@
     <trd>&c_n;&c_je;&c_d;&c_o;&c_p;&c_u;&c_s;&c_k;&c_a;&c_ju;&c_shch;&c_i;&c_j; &c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_o;&c_b;&c_r;&c_a;&c_t;&c_i;&c_m;&c_y;&c_j;</trd>
   </trdgrp>
-  <trd lng="sk">neinverzibilný</trd>
+  <trd lng="sk">neinverzibiln&yacute;</trd>
 </drv>
 
 <drv mrk="invers.0hava">
@@ -428,7 +574,7 @@
   <uzo tip="fak">MAT</uzo>
   <fnt><bib>EKV</bib><lok>&para;186</lok></fnt>
   <snc>
-    <ref tip="dif" cel="invers.0igebla.MAT"><tld/>igebla.</ref>
+    <ref tip="dif" cel="invers.0igebla.MAT"><tld/>igebla</ref>
   </snc>
   <trd lng="de">umkehrbar</trd>
   <trd lng="en">inversible</trd>
@@ -443,10 +589,7 @@
 <drv mrk="invers.ne0hava">
   <kap>ne<tld/>hava</kap>
   <snc>
-    <ref tip="dif" cel="invers.ne0igebla">ne<tld/>igebla.</ref>
-    <dif>
-      Ne <ref cel="invers.0igebla"><tld/>igebla</ref>.
-    </dif>
+    <ref tip="dif" cel="invers.ne0igebla">ne<tld/>igebla</ref>
   </snc>
   <trd lng="de">unumkehrbar</trd>
   <trd lng="en">non-inversible</trd>
@@ -460,6 +603,18 @@
 </art>
 <!--
 $Log: invers.xml,v $
+Revision 1.35  2017/08/08 19:10:13  revo
+Wolfram Diestel: pliaj ekz-oj
+
+Revision 1.34  2017/08/06 12:10:17  revo
+Wolfram Diestel: korektetoj
+
+Revision 1.33  2017/07/13 08:10:13  revo
+Wolfram Diestel: prilaboris ekz-oj por ~o, ~igo, ~e
+
+Revision 1.32  2017/07/12 19:10:14  revo
+Wolfram Diestel: ~a: prilaboris ekz-ojn
+
 Revision 1.31  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -470,21 +625,5 @@ Revision 1.29  2004/09/06 16:36:56  revo
 Marc Bavant: +trd fr; ~igi: +ref al renversi; ~o: +adm
 
 Revision 1.28  2004/04/27 16:31:23  revo
-Luis Oliveira: +trd pt
-Revision 1.27  2004/02/22 17:31:44  revo
-Marc Bavant: kor duobligitan punkton
-Revision 1.26  2004/02/16 20:48:45  revo
-Jozefo Horvath: +trd hu
-Revision 1.25  2003/09/17 16:31:33  revo
-Yury Finkel: +trd ru
-Revision 1.24  2003/04/13 16:31:41  revo
-Marc Bavant: ne~igebla: mod trd ru
-Revision 1.23  2003/04/08 16:33:22  revo
-Alejandro Mejia Greene: ald 4 his trd
-Revision 1.22  2003/03/30 16:31:02  revo
-Marc Bavant: ~o (neuxtriganto): mod trd en; ~igebla: kor trd en
-Revision 1.21  2003/03/23 17:33:02  revo
-Marc Bavant: ~igo: +trd fr,pl; ~igi: +trd fr
-Revision 1.20  2003/03/05 17:34:42  revo
 -->
 </vortaro>

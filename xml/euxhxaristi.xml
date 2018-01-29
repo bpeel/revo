@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: euxhxaristi.xml,v 1.5 2011/12/12 19:10:13 revo Exp $">
+<art mrk="$Id: euxhxaristi.xml,v 1.6 2017/12/10 10:10:16 revo Exp $">
 <kap>
   <rad>e&ubreve;&hcirc;aristi</rad>/o
 </kap>
@@ -12,11 +12,11 @@
     <uzo tip="fak">KRI</uzo>
     <dif>
       Kristana <ref tip="super" cel="sakram.0o.kri">sakramento</ref>,
-      rememoriganta la <ref cel="mangx.sankta-0o">Sanktan
+      rememoriganta la <ref cel="mangx.sankta_0o">Sanktan
       Man&gcirc;on</ref>, dum kiu okazas konsekrado de pano kaj vino.
     </dif>
     <refgrp tip="vid">
-      <ref cel="komuni.0o">komunio</ref>;
+      <ref cel="komuni.0o">komunio</ref>,
     </refgrp>
     <refgrp tip="sin">
       <ref cel="euxkar.0o">e&ubreve;karistio</ref>.
@@ -42,6 +42,9 @@
 
 <!--
 $Log: euxhxaristi.xml,v $
+Revision 1.6  2017/12/10 10:10:16  revo
+Wolfram Diestel: kor. ref-cel
+
 Revision 1.5  2011/12/12 19:10:13  revo
 Marc Rausell: +trd ca
 

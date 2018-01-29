@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: lim.xml,v 1.37 2015/07/04 08:37:38 revo Exp $">
+<art mrk="$Id: lim.xml,v 1.40 2017/12/20 00:11:01 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lim</rad>/o <fnt><bib>PV</bib></fnt>
@@ -17,7 +17,23 @@
       </ekz>
       <ekz>
         kaj ili komencis petegi lin, ke li foriru el iliaj <tld/>oj
-        <fnt><bib>NT</bib>, <lok>&Mar; 5:17</lok>;</fnt>
+        <fnt><bib>NT</bib>, <lok>&Mar; 5:17</lok></fnt>;
+      </ekz>
+      <ekz>
+        sur la okcidenta <tld/>o la faraono ekvidis du armeojn, sin
+        preparantajn al la batalo
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XXIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        elveturante el la <tld/>oj de nia patrujo, ni ordinare ne havas
+        la 
+        eblon kompreni&gcirc;adi kun similaj al ni homoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
       </ekz>
       <ekz>
         &ccirc;ie lingvaj <tld/>oj baras la vojojn inter la popoloj.
@@ -72,10 +88,42 @@
         deco, de permesata polemiko;
       </ekz>
       <ekz>
-        li fari&gcirc;adis tute sova&gcirc;a kaj petola kaj transiradis
-        &ccirc;iajn <tld/>ojn<fnt>Z</fnt>
-        <klr>(estis tute senmodera)</klr>.
+        &ccirc;ar ili rekonas la <tld/>ojn de siaj pretendataj povoj, ili
+        elektas ignori la situacion
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="http://www.monato.net/2015/011487.php">Facilas
+          priskribi, malfacilas preskribi</url></vrk>
+        </fnt>;
       </ekz>
+      <ekz>
+        li fari&gcirc;adis tute sova&gcirc;a kaj petola kaj transiradis
+        &ccirc;iajn <tld/>ojn
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>
+        <klr>(estis tute senmodera)</klr>;
+      </ekz>
+      <ekz>
+        ekzistas genetika <tld/>o por la da&ubreve;rigo de la vivo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jorge Montanari</aut>
+          <vrk><url
+          ref="http://www.monato.net/2013/011064.php">Telomero: &ccirc;u
+          rimedo kontra&ubreve; kancero?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Usono balda&ubreve; forgesis la &leftquot;ru&gcirc;ajn <tld/>ojn&#8221; difinitajn de Obama
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jomo Ipfelkofer</aut>
+          <vrk><url ref="http://www.monato.net/2014/011402.php">Ne
+          interveni signifas ne solvi</url></vrk>
+        </fnt>.
+    </ekz>
     </dif>
     <trdgrp lng="de">
       <trd>Grenze</trd>,
@@ -106,7 +154,7 @@
     <trd>hranice</trd>,
     <trd>limit</trd>,
     <trd>mez</trd>,
-    <trd>předěl</trd>
+    <trd>p&rcaron;ed&ecaron;l</trd>
   </trdgrp>
   <trd lng="en">limit</trd>
   <trd lng="es">l&iacute;mite</trd>
@@ -126,7 +174,38 @@
   <kap><tld/>a</kap>
   <snc mrk="lim.0a.KOMUNE">
     <dif>
-      Rilata al <tld/>o; konsistiganta <tld/>on; estanta &ccirc;e <tld/>o.
+      Rilata al <tld/>o; konsistiganta <tld/>on; estanta &ccirc;e <tld/>o:
+      <ekz>
+        Polujon tutan a&ubreve; nur <tld/>an pecon?
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la polico, <tld/>aj gardistoj kaj kelke da regulaj regimentoj
+        <klr>[&#8230;]</klr> sufi&ccirc;is por konservi ordon
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ta&ccirc;mento direktis sin la&ubreve; la <tld/>a vojo, kiu kondukas al la
+        valo   
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. samuel 13:18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la <tld/>a punkto inter sano kaj malsano
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mu Binghua</aut>
+          <vrk><url ref="http://www.monato.net/2006/009055.php">Pezaj
+          enlandaj &scirc;ar&gcirc;oj por la registaro</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -135,9 +214,9 @@
     <trd>&c_p;&c_a;&c_g;&c_r;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_y;</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>hraniční</trd>,
-    <trd>mezní</trd>,
-    <trd>pohraniční</trd>
+    <trd>hrani&ccaron;n&iacute;</trd>,
+    <trd>mezn&iacute;</trd>,
+    <trd>pohrani&ccaron;n&iacute;</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>angrenzend</trd>,
@@ -166,9 +245,9 @@
     <trd>&c_p;&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>hraničný</trd>,
-    <trd>medzný</trd>,
-    <trd>pohraničný</trd>
+    <trd>hrani&ccaron;n&yacute;</trd>,
+    <trd>medzn&yacute;</trd>,
+    <trd>pohrani&ccaron;n&yacute;</trd>
   </trdgrp>
 </drv>
 
@@ -183,10 +262,42 @@
         rivero, muro <tld/>as la bienon;
       </ekz>
       <ekz>
-        Jordano <tld/>as oriente la landon<fnt>Z</fnt>;
+        al la provinco <tld/>as montaro;
       </ekz>
       <ekz>
-        al la provinco <tld/>as montaro.
+        Jordan <tld/>as sur la flanko orienta
+        <fnt>
+          <bib>MT</bib>
+          <lok>Josuo 18:20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Rusio estas la plej granda lando en la mondo kaj do <tld/>as
+        multajn aliajn, 
+        ekzemple Norvegion en E&ubreve;ropo, Japanion en Azio kaj e&ccirc; Usonon en
+        alia kontinento
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Sergeo Jurji&ccirc;</aut>
+          <vrk><url ref="http://www.monato.net/2009/009713.php">Necesas
+          senlima pacienco</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malanta&ubreve; la domo, profunda akvofosa&jcirc;o <tld/>as kun &gcirc;ardeno kaj
+        najbara tereno nordflanke
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url
+          ref="http://steloj.de/esperanto/monato2/006878.html">DOMMASTRUMO:
+          &Gcirc;ardenumi</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la lerna jaro <tld/>as sin per 10 monatoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="de">
@@ -209,9 +320,9 @@
     <trd>&c_a;&c_b;&c_m;&c_ja;&c_zh;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_s;&c_a;&c_b;&c_o;&c_j;)</klr></trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>být na hranici</trd>,
-    <trd>hraničit</trd>,
-    <trd>ohraničit</trd>,
+    <trd>b&yacute;t na hranici</trd>,
+    <trd>hrani&ccaron;it</trd>,
+    <trd>ohrani&ccaron;it</trd>,
     <trd>sousedit</trd>
   </trdgrp>
   <trdgrp lng="en">
@@ -230,16 +341,18 @@
     <trd>&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;<klr tip="amb"> (&c_s;&c_o;&c_b;&c_o;&c_j;)</klr></trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>hraničiť</trd>,
-    <trd>ohraničiť</trd>,
-    <trd>susediť</trd>
+    <trd>hrani&ccaron;i&tcaron;</trd>,
+    <trd>ohrani&ccaron;i&tcaron;</trd>,
+    <trd>susedi&tcaron;</trd>
   </trdgrp>
 </drv>
 
 <drv mrk="lim.0igi">
-  <kap><tld/>igi</kap>
+  <kap><ofc>*</ofc><tld/>igi <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5090">lim'ig'</url></lok></fnt></kap>
   <gra><vspec>tr</vspec></gra>
-  <snc mrk="lim.0igi.krei.limon">
+  <snc mrk="lim.0igi.krei_limon">
     <uzo tip="klr">(iu)</uzo>
     <dif>
       Fiksi, difini, montri per iu signo la <tld/>on de:
@@ -273,11 +386,21 @@
         <tld/>igi la da&ubreve;ron de la diskutado;
       </ekz>
       <ekz>
-        mi longe <tld/>igis min per revado<fnt>Z</fnt>;
+        mi longan tempon <tld/>igadis min nur per revado kaj nevola
+        meditado
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        mi <tld/>igas min per mallonga rimarko, per tio, ke<fnt>Z</fnt>
-        (<ref tip="sin" cel="konten.0igxi">kontenti&gcirc;i</ref>);
+        mi <tld/>igas min nur per tio, ke mi donos klarigon proksimuman,
+        
+        ne garantiante, ke mia klarigo ta&ubreve;gos por &ccirc;iuj okazoj
+        <klr>(<ref tip="sin" cel="konten.0igxi">kontenti&gcirc;i</ref>)</klr>;
+        <fnt>
+          <bib>LR</bib>
+          <lok>12. Adverboj kaj konjunkcioj</lok>
+        </fnt>;
       </ekz>
       <ekz>
         pro manko de loko mi <tld/>igas min je la plej
@@ -314,7 +437,7 @@
   <trd lng="be">&c_a;&c_b;&c_m;&c_ja;&c_zh;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>limitovat</trd>,
-    <trd>ohraničit</trd>,
+    <trd>ohrani&ccaron;it</trd>,
     <trd>omezit</trd>
   </trdgrp>
   <trdgrp lng="de">
@@ -341,9 +464,9 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>medze</trd>,
-    <trd>označiť hranicu</trd>,
-    <trd>stanoviť</trd>,
-    <trd>určiť</trd>
+    <trd>ozna&ccaron;i&tcaron; hranicu</trd>,
+    <trd>stanovi&tcaron;</trd>,
+    <trd>ur&ccaron;i&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -354,7 +477,46 @@
       Esence konsisti el, ne esti pli ampleksa ol:
       <ekz>
         &ccirc;iuj liaj pretendoj
-        <tld/>i&gcirc;as je la edzi&gcirc;-permeso.
+        <tld/>i&gcirc;as je la edzi&gcirc;-permeso;
+      </ekz>
+      <ekz>
+        la flankaj galerioj <klr>[&#8230;]</klr> <tld/>i&gcirc;is per la muro, kiu
+        estis 
+        &ccirc;e la domo por la galerioj &ccirc;irka&ubreve;e, por ke ili estu kunigitaj
+        inter si
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 41:6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia influo ne <tld/>i&gcirc;is al la kristana medio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Kimura Goro Christoph</aut>
+          <vrk><url ref="http://www.monato.net/2011/010304.php">Utimura
+          Kanzo anta&ubreve; 150 jaroj naski&gcirc;is</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni <tld/>i&gcirc;is je la lernado de multaj nacilingvoj a&ubreve; de unu
+        &leftquot;nesurdula&#8221; pontolingvo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="http://www.monato.net/2014/011278.php">Vortaro
+          intuicia, horizonto internacia</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kilovata kompenso <tld/>i&gcirc;is al &ccirc;irka&ubreve; 54 cendoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url
+          ref="http://www.monato.net/2012/010844.php">Sunelektraj
+          kamparanoj</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -401,8 +563,8 @@
   </snc>
   <trd lng="be">&c_v;&c_o;&c_d;&c_a;&c_p;&c_a;&c_d;&c_z;&c_je;&c_l;</trd>
   <trdgrp lng="cs">
-    <trd>hranice mezi povodími</trd>,
-    <trd>rozvodí</trd>
+    <trd>hranice mezi povod&iacute;mi</trd>,
+    <trd>rozvod&iacute;</trd>
   </trdgrp>
   <trd lng="de">Wasserscheide</trd>
   <trdgrp lng="en">
@@ -445,10 +607,22 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="lim.dis0i.KOMUNE">
     <dif>
-      Dupartigi:
+      Dupartigi, <ref tip="sin" cel="apart.0igi">apartigi</ref>,
+      <ref tip="sin" cel="dis.0igi">disigi</ref>:
       <ekz>
         dis<tld/>i la harojn<fnt>Z</fnt>
-        <klr>(diskombante ilin la&ubreve; rekta linio)</klr>.
+        <klr>(diskombante ilin la&ubreve; rekta linio)</klr>;
+      </ekz>
+      <ekz>
+        Bosnio-Hercegovino situas sur la rompolinio kiu <klr>[&#8230;]</klr>
+        lastatempe dis<tld/>is la interes-zonojn de Rusio kaj de la
+        okcidentaj potencoj
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url
+          ref="http://steloj.de/esperanto/monato1/monato-9310-sarajevo.txt">La
+          Fino de la Mondo Komenci&gcirc;as en Sarajevo</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -456,7 +630,7 @@
     <trd>&c_r;&c_a;&c_z;&c_mol;&c_m;&c_ja;&c_zh;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ja;&c_l;&c_ja;&c_c;&c_mol;</trd>
   </trdgrp>
-  <trd lng="cs">rozhraničit</trd>
+  <trd lng="cs">rozhrani&ccaron;it</trd>
   <trdgrp lng="de">
     <trd>teilen</trd>,
     <trd>zerschneiden</trd>,
@@ -480,7 +654,7 @@
     <trd>&c_r;&c_a;&c_z;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">rozhraničiť</trd>
+  <trd lng="sk">rozhrani&ccaron;i&tcaron;</trd>
 </drv>
 
 <drv mrk="lim.gxis0i">
@@ -540,7 +714,54 @@
     <dif>
       <tld lit="L"/>o inter du landoj:
       <ekz>
-        fermi la land<tld/>ojn al la internacia trafiko.
+        fermi la land<tld/>ojn al la internacia trafiko;
+      </ekz>
+      <ekz>
+        du cervoj saltadis apude kaj akompanis ilin &gcirc;is la land<tld/>o
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e la land<tld/>o li donas al ni <klr>[&#8230;]</klr> pasporton
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Turgardisto Ole</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e land<tld/>o inter pola kaj litva landoj, tiam regataj de rusa
+        caro
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Vienanoj kaj Dresdenanoj simpatias, malgra&ubreve; la land<tld/>o
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Seborgo trovi&gcirc;as apud la land<tld/>o kun Francio kaj apud
+        Mediteraneo
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url
+          ref="http://steloj.de/esperanto/monato2/006859.html">Seborgo:
+          Urbeto a&ubreve; sendependa lando?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Pogranicze estas fondita anta&ubreve; 10 jaroj de kvar personoj sur
+        terpeco apud la land<tld/>o pol-litova-belorusia
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url
+          ref="http://steloj.de/esperanto/monato2/007095.html">Pollando:
+          Landlimoj sen limoj</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -549,8 +770,8 @@
     <trd>&c_g;&c_r;&c_a;&c_n;&c_ib;&c_c;&c_a;</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>hranice země</trd>,
-    <trd>státu</trd>
+    <trd>hranice zem&ecaron;</trd>,
+    <trd>st&aacute;tu</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>politische Grenze</trd>,
@@ -577,7 +798,59 @@
       Tempo dum kiu, a&ubreve; momento anta&ubreve; kiu oni devas fari ion:
       <ekz>
         temp<tld/>o de kambio, de konkurso, de valideco de fervoja
-        bileto.
+        bileto;
+      </ekz>
+      <ekz>
+        li atendis sep tagojn &gcirc;is la temp<tld/>o, kiun difinis Samuel,
+        sed Samuel ne venis en Gilgalon
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Samuel 13:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li malfruis la temp<tld/>on, kiu estis destinita al li
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 20:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi difinus por mi temp<tld/>on kaj poste rememorus min
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 14:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        difinita estas ja por la homo la <tld/>tempo sur la tero
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 7:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kun granda malfacileco la admiralo elpetis de &gcirc;i <tld/>tempon de
+        tri tagoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas donita temp<tld/>o de unu jaro
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Supo el kolbasaj bastonetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam pasos la temp<tld/>o, kaj la kreditoroj komencos vin viziti
+        je preteksto honori vin, vi estos kiel cervo, persekutata de
+        hundoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -616,13 +889,58 @@
     <dif>
       Havanta neniun <tld/>on:
       <ekz>
-        sen<tld/>a multego<fnt>Z</fnt>,
+        sen<tld/>a multego
+        <fnt>
+          <bib>LR</bib>
+          <lok>4. Vortaroj</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        spaco, tempo, povo, fiero, konfido;
+        sen<tld/>a spaco
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>En la lasta tago</lok>
+        </fnt>, 
+        tempo, povo, fiero, konfido,
+        universo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Du fratoj</lok>
+        </fnt>,
+        &gcirc;ojo
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Du fratoj</lok>
+        </fnt>,
+        profundega&jcirc;o
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        sen<tld/>e ami.
+        sen<tld/>e ami;
+      </ekz>
+      <ekz>
+        li sentis en si sen<tld/>an kura&gcirc;on
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen<tld/>a teruro lar&gcirc;igis &scirc;iajn pupilojn
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ekvidis la sen<tld/>an dezerton
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -636,7 +954,7 @@
   </trdgrp>
   <trdgrp lng="cs">
     <trd>bez hranic</trd>,
-    <trd>bezmezný</trd>
+    <trd>bezmezn&yacute;</trd>
   </trdgrp>
   <trd lng="de">unbegrenzt</trd>
   <trdgrp lng="en">
@@ -660,9 +978,9 @@
     <trd>&c_n;&c_je;&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>bez hraníc</trd>,
-    <trd>bezhraničný</trd>,
-    <trd>bezmedzný</trd>
+    <trd>bez hran&iacute;c</trd>,
+    <trd>bezhrani&ccaron;n&yacute;</trd>,
+    <trd>bezmedzn&yacute;</trd>
   </trdgrp>
 </drv>
 
@@ -670,7 +988,24 @@
   <kap><tld/>&scirc;tono</kap>
   <snc>
     <dif>
-      &Scirc;tono, kiu signas <tld/>on de tereno a&ubreve; distancon sur vojo.
+      &Scirc;tono, kiu signas <tld/>on de tereno a&ubreve; distancon sur vojo:
+      <ekz>
+        &ccirc;e&hcirc;a <tld/>&scirc;tono &ccirc;e F&uuml;rstenwalde
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=217964">Landlimo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        historia <tld/>&scirc;tono inter landoj Bohemio kaj Moravio situas
+        apud busa haltejo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=345770">Kukle</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -700,6 +1035,15 @@
 </art>
 <!--
 $Log: lim.xml,v $
+Revision 1.40  2017/12/20 00:11:01  revo
+Michel Cantigneaux: "lim/ig/i" fundamenta kunmetajxo el la U.V.
+
+Revision 1.39  2017/12/04 19:10:24  revo
+Wolfram Diestel: kor. mrk, plu prilaboris ekz-ojn
+
+Revision 1.38  2017/12/01 10:10:15  revo
+Wolfram Diestel: prilaboris ekz-ojn
+
 Revision 1.37  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -713,20 +1057,5 @@ Revision 1.34  2012/10/23 00:12:48  revo
 Neil Roberts: aldonu la etikedon <var>
 
 Revision 1.33  2011/01/08 16:10:08  revo
-Russ Williams: +trd en
-
-Revision 1.32  2007/05/30 16:31:45  revo
-Wieland Pusch: +trd de
-
-Revision 1.31  2005/04/29 16:32:26  revo
-Yury Finkel: +trd ru
-
-Revision 1.30  2005/01/17 17:34:43  revo
-Vito Redsky: korekto trd pl + trd pl
-
-Revision 1.29  2004/10/13 16:31:49  revo
-Wolfram Diestel: kor. germ trd
-
-Revision 1.28  2004/08/29 16:33:00  revo
 -->
 </vortaro>

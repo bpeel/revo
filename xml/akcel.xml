@@ -4,7 +4,7 @@
 
 <vortaro>
 
-<art mrk="$Id: akcel.xml,v 1.38 2017/02/08 14:10:18 revo Exp $">
+<art mrk="$Id: akcel.xml,v 1.40 2017/12/20 15:10:25 revo Exp $">
 
 <kap><ofc>*</ofc><rad>akcel</rad>/i</kap>
 
@@ -223,7 +223,7 @@ la <ref cel="dimens.0o.FIZ">dimensioj</ref> de <tld/>o estas
 
 <refgrp tip="vid">
 
-<ref cel="metr.0oens2">metro en kvadrata sekundo</ref>.
+<ref cel="metr.0oenss">metro en kvadrata sekundo</ref>.
 
 </refgrp>
 
@@ -299,6 +299,7 @@ lng="be">&c_a;&c_k;&c_s;&c_je;&c_l;&c_je;&c_r;&c_a;&c_t;&c_a;&c_r;</trd>
 <trd lng="pl">peda&lstroke; gazu</trd>
 
 <trd lng="pt">acelerador</trd>
+<trd lng="ro">pedal&abreve;  pentru accelera&tcedil;ie</trd>
 
 <trd 
 lng="ru">&c_a;&c_k;&c_s;&c_je;&c_l;&c_je;&c_r;&c_a;&c_t;&c_o;&c_r;</trd>
@@ -374,6 +375,12 @@ lng="be">&c_p;&c_a;&c_s;&c_k;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
 <!--
 
 $Log: akcel.xml,v $
+Revision 1.40  2017/12/20 15:10:25  revo
+Joop Eggen: Referenceraro metr.0oens2 al metr.0oenss
+
+Revision 1.39  2017/11/28 01:10:17  revo
+Vito Redsky: +trd ro
+
 Revision 1.38  2017/02/08 14:10:18  revo
 Adam Eng: trd ms
 
@@ -390,12 +397,6 @@ Revision 1.34  2009/07/02 16:30:35  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.33  2006/02/17 17:32:08  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.32  2005/03/06 17:36:41  revo
-Alan ar Gall: kor mal&gcirc;uste rompitajn liniojn
-
-
 -->
 
 </vortaro>

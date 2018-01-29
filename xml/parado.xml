@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: parado.xml,v 1.15 2015/07/04 08:37:41 revo Exp $">
+<art mrk="$Id: parado.xml,v 1.16 2017/12/15 14:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc> <ofc>2</ofc> <ofc>7</ofc>
-  <rad>paradoks</rad>/o</kap> <fnt><bib>PV</bib></fnt>
+  <rad>paradoks</rad>/o <fnt><bib>PV</bib></fnt></kap> 
 <drv mrk="parado.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="parado.0o.LOG">
@@ -64,9 +64,27 @@
     <trd>rozpor</trd>
   </trdgrp>
 </drv>
+
+<drv mrk="parado.0a">
+  <kap><ofc>*</ofc><ofc>ekz</ofc> <tld/>a</kap>
+  <snc mrk="parado.0a.LOG">
+    <dif>
+      Prezentanta paradokson:
+      <ekz>
+      nun mi diros pri tio &ccirc;i nur kelkajn vortojn, por ke mia opinio ne
+      &scirc;ajnu tro paradoksa <fnt><bib>F</bib>,
+      <lok>Anta&ubreve;parolo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+</drv>
+
 </art>
 <!--
 $Log: parado.xml,v $
+Revision 1.16  2017/12/15 14:10:14  revo
+Michel Cantigneaux: + ekzemplo el Antauxparolo
+
 Revision 1.15  2015/07/04 08:37:41  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -86,14 +104,5 @@ Revision 1.10  2004/07/16 16:31:31  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2003/07/15 16:31:18  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2001/12/11 18:25:04  revo
-Yury Finkel: +trd ru
-
-Revision 1.7 2001/08/27 18:14:40 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.6 2001/02/18 14:18:45 revo
 -->
 </vortaro>

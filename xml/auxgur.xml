@@ -2,12 +2,59 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: auxgur.xml,v 1.20 2016/02/01 13:10:22 revo Exp $">
+<art mrk="$Id: auxgur.xml,v 1.21 2017/12/30 12:10:13 revo Exp $">
 <kap>
   <ofc>6</ofc>
-  <rad>a&ubreve;gur</rad>/o
+  <rad>a&ubreve;gur</rad>/i
   <fnt>Z</fnt>
 </kap>
+
+<drv mrk="auxgur.0i">
+  <kap><ofc>6</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Diveni, <ref tip="super" cel="dir.antaux0i">anta&ubreve;diri</ref>
+      estonta&jcirc;on helpe de <tld/>aj signoj.
+    </dif>
+  </snc>
+  <trd
+  lng="be">&c_p;&c_r;&c_a;&c_d;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="en">
+    <trd>augur</trd>,
+    <trd>predict</trd>,
+    <trd>foretell</trd>,
+    <trd>foreshadow</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>augurar</trd>,
+    <trd>presagiar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>augurer</trd>,
+    <trd>pr&eacute;voir<klr> (augurer)</klr></trd>,
+    <trd>pr&eacute;dire<klr> (augurer)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>j&ouml;vend&ouml;l</trd>,
+    <trd>(meg)<ind>j&oacute;sol</ind></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>predire</trd>,
+    <trd>presagire</trd>,
+    <trd>divinare</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wr&oacute;&zdot;y&cacute;</trd>,
+    <trd>wieszczy&cacute;</trd>,
+    <trd>przepowiada&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_s;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_v;&c_je;&c_shch;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
 <drv mrk="auxgur.0o">
   <kap><tld/>o</kap>
   <snc mrk="auxgur.0o.DIV">
@@ -78,52 +125,6 @@
     <trd>augure <klr tip="ind">(divination)</klr></trd>,
     <trd>auspice</trd>,
     <trd>pr&eacute;sage</trd>
-  </trdgrp>
-</drv>
-
-<drv mrk="auxgur.0i">
-  <kap><tld/>i</kap>
-  <gra><vspec>tr</vspec></gra>
-  <snc>
-    <dif>
-      Diveni, <ref tip="super" cel="dir.antaux0i">anta&ubreve;diri</ref>
-      estonta&jcirc;on helpe de <tld/>aj signoj.
-    </dif>
-  </snc>
-  <trd
-  lng="be">&c_p;&c_r;&c_a;&c_d;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>
-  <trdgrp lng="en">
-    <trd>augur</trd>,
-    <trd>predict</trd>,
-    <trd>foretell</trd>,
-    <trd>foreshadow</trd>
-  </trdgrp>
-  <trdgrp lng="es">
-    <trd>augurar</trd>,
-    <trd>presagiar</trd>
-  </trdgrp>
-  <trdgrp lng="fr">
-    <trd>augurer</trd>,
-    <trd>pr&eacute;voir<klr> (augurer)</klr></trd>,
-    <trd>pr&eacute;dire<klr> (augurer)</klr></trd>
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>j&ouml;vend&ouml;l</trd>,
-    <trd>(meg)<ind>j&oacute;sol</ind></trd>
-  </trdgrp>
-  <trdgrp lng="it">
-    <trd>predire</trd>,
-    <trd>presagire</trd>,
-    <trd>divinare</trd>
-  </trdgrp>
-  <trdgrp lng="pl">
-    <trd>wr&oacute;&zdot;y&cacute;</trd>,
-    <trd>wieszczy&cacute;</trd>,
-    <trd>przepowiada&cacute;</trd>
-  </trdgrp>
-  <trdgrp lng="ru">
-    <trd>&c_p;&c_r;&c_je;&c_d;&c_s;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
-    <trd>&c_p;&c_r;&c_je;&c_d;&c_v;&c_je;&c_shch;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
 </drv>
 
@@ -298,6 +299,9 @@
 </art>
 <!--
 $Log: auxgur.xml,v $
+Revision 1.21  2017/12/30 12:10:13  revo
+Michel Cantigneaux: baza vorto = auxguri
+
 Revision 1.20  2016/02/01 13:10:22  revo
 Warut Bunprasert: +trd th
 
@@ -317,8 +321,5 @@ Revision 1.15  2005/05/28 16:32:10  revo
 Marc Bavant: kor duobligitajn punktojn
 
 Revision 1.14  2005/04/04 16:38:11  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.13  2005/03/15 19:56:40  revo
 -->
 </vortaro>

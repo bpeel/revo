@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: logotip.xml,v 1.6 2015/07/04 08:37:38 revo Exp $">
+<art mrk="$Id: logotip.xml,v 1.7 2017/08/30 15:10:14 revo Exp $">
 <kap>
   <rad>logotip</rad>/o
 </kap>
@@ -10,9 +10,9 @@
   <kap><tld/>o</kap>
   <snc mrk="logotip.0o.simbolo">
     <dif>
-      <ref tip="super" cel="emblem.0o.simbolo">Emblemo</ref> 
-      entenanta la nomon de firmao, institucio, komerca 
-      marko, evento...:
+      Bilda kaj plejofte anka&ubreve; nom-enhava
+      <ref tip="super" cel="insign.0o.signo">insigno</ref> 
+      de firmao, institucio, komerca marko, evento...:
       <ekz>
         &ccirc;u estu konferenca &scirc;ildo <klr>a&ubreve;</klr> <tld/>o
         <fnt>
@@ -56,6 +56,9 @@
 
 <!--
 $Log: logotip.xml,v $
+Revision 1.7  2017/08/30 15:10:14  revo
+Jeromo Vasxe: preciz. dif
+
 Revision 1.6  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 

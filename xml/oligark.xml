@@ -2,12 +2,12 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: oligark.xml,v 1.7 2015/10/27 10:10:19 revo Exp $">
+<art mrk="$Id: oligark.xml,v 1.8 2018/01/02 20:10:14 revo Exp $">
 <kap>
-  <rad>oligark</rad>/o <fnt><bib>PIV2</bib></fnt>
+  <ofc>7</ofc><rad>oligark</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
 <drv mrk="oligark.0o">
-  <kap><tld/>o</kap>
+  <kap><ofc>7</ofc><tld/>o</kap>
   <snc mrk="oligark.0o.POL">
     <uzo tip="fak">POL</uzo>
     <dif>
@@ -40,6 +40,9 @@
 
 <!--
 $Log: oligark.xml,v $
+Revision 1.8  2018/01/02 20:10:14  revo
+Michel Cantigneaux: Aldonita per 7a OA
+
 Revision 1.7  2015/10/27 10:10:19  revo
 Sebastian Cyprych: +trd pl
 
@@ -59,7 +62,5 @@ Revision 1.2  2012/05/25 14:10:10  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.1  2012/05/24 11:10:19  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

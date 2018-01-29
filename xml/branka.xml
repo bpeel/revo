@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: branka.xml,v 1.18 2016/01/05 21:10:21 revo Exp $">
+<art mrk="$Id: branka.xml,v 1.19 2017/08/30 14:10:14 revo Exp $">
 <kap>
   <rad>brankard</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -49,9 +49,32 @@
   </trdgrp>
   <trd lng="sv">b&aring;r</trd>
 </drv>
+
+<drv mrk="branka.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="branka.0isto.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Sanprofesiulo, kiu transportas malsanulojn, vunditojn:
+      <ekz>
+        <tld/>istoj alvenis, kaj kun ekzercita rapido banda&gcirc;is la 
+        vundon
+        <fnt>
+          <aut>J. Francis</aut>,
+          <vrk>La Granda Kaldrono</vrk>,
+          <lok>1978</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">brancardier</trd>
+</drv>
 </art>
 <!--
 $Log: branka.xml,v $
+Revision 1.19  2017/08/30 14:10:14  revo
+Jeromo Vasxe: + ~isto
+
 Revision 1.18  2016/01/05 21:10:21  revo
 Jeromo Vasxe: + ekz
 
@@ -71,8 +94,5 @@ Revision 1.13  2009/06/20 18:01:09  revo
 Behnam Tabatabai: korr arabaj/persaj koderoj
 
 Revision 1.12  2009/05/03 16:30:24  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.11  2009/03/25 17:30:59  revo
 -->
 </vortaro>

@@ -2,17 +2,26 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: afrik.xml,v 1.32 2017/01/27 14:10:22 revo Exp $">
+<art mrk="$Id: afrik.xml,v 1.36 2017/12/30 00:10:12 revo Exp $">
 <kap>
+  <ofc>8</ofc>
   <rad>Afrik</rad>/o
   <fnt>Z</fnt>
   <fnt><bib>ZR</bib></fnt>
 </kap>
 
 <drv mrk="afrik.A0o">
-  <kap>
-    <tld/>o
-    <ofc>8</ofc>
+  <kap><ofc>8</ofc><tld/>o
+   <fnt><aut>Akademio de Esperanto</aut>, 
+<vrk><url
+ref="http://www.akademio-de-esperanto.org/aktoj/aktoj2/8oa.html"> 8a
+Oficiala Aldono</url></vrk>, <lok>III</lok></fnt>
+    <fnt><aut>Akademio de Esperanto</aut>, 
+<vrk><url
+ref="http://www.akademio-de-esperanto.org/decidoj/landnomoj/listo_de_rekomendataj_landnomoj/index.html">Oficiala
+Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
+    <fnt><bib>Viki</bib>, <lok><url 
+    ref="http://eo.wikipedia.org/wiki/Afriko">Afriko</url></lok></fnt>
   </kap>
   <snc mrk="afrik.A0o.mondparto">
   <uzo tip="fak">GEOG</uzo>
@@ -32,6 +41,7 @@
         <fnt><bib>Fab2</bib>, <lok>Dio de dormo</lok></fnt>.
       </ekz>
     </dif>
+  <trd lng="th">&#3607;&#3623;&#3637;&#3611;&#3649;&#3629;&#3615;&#3619;&#3636;&#3585;&#3634;</trd>
   </snc>
   <snc mrk="afrik.A0o.kontinento">
     <dif>
@@ -104,6 +114,7 @@
   <trd lng="ru">&c_a;&c_f;&c_r;&c_i;&c_k;&c_a;&c_n;&c_je;&c_c;</trd>
   <trd lng="sk">Afri&ccaron;an</trd>
   <trd lng="sv">afrikan</trd>
+  <trd lng="th">&#3594;&#3634;&#3623;&#3649;&#3629;&#3615;&#3619;&#3636;&#3585;&#3634;</trd>
   <trd lng="tp">jan Apika</trd>
   <trd lng="tr">Afrika'l&inodot;</trd>
   <trd lng="vo">Frikopan</trd>
@@ -122,7 +133,9 @@
     <uzo tip="fak">POL</uzo>
     <mlg kod="ISO-3166">CF</mlg>
     <dif>
-      Lando en la centra <ref tip="malprt" cel="afrik.A0o">Afriko</ref> 
+      <ref tip="lst" cel="land.0o.POL"
+      lst="voko:&scirc;tatoj">Lando</ref>
+      en la centra <ref tip="malprt" cel="afrik.A0o">Afriko</ref> 
       kun &ccirc;efurbo Bango.
       Teritorio de Respubliko Centr-Afriko.
       &Gcirc;i limas kun
@@ -133,6 +146,7 @@
       Kin&scirc;asa</ref>
       kaj <ref tip="vid" cel="sudan.S0o.GEOG">Sudano</ref>.
     </dif>
+    <trd lng="th">&#3611;&#3619;&#3632;&#3648;&#3607;&#3624;&#3649;&#3629;&#3615;&#3619;&#3636;&#3585;&#3634;&#3585;&#3621;&#3634;&#3591;</trd>
     </snc>
     <trd lng="ca">Rep&uacute;blica Centreafricana</trd>
     <trdgrp lng="fr">
@@ -167,7 +181,9 @@
     <uzo tip="fak">POL</uzo>
     <mlg kod="ISO-3166">ZA</mlg>
     <dif>
-      Lando &ccirc;e la suda ekstremo de <ref tip="malprt"
+      <ref tip="lst" cel="land.0o.POL"
+      lst="voko:&scirc;tatoj">Lando</ref>
+      &ccirc;e la suda ekstremo de <ref tip="malprt"
       cel="afrik.A0o">Afriko</ref> 
       kun &ccirc;efurbo Pretorio.
       Teritorio de Federacia Respubliko Sud-Afriko.
@@ -179,6 +195,7 @@
       <ref tip="vid" cel="svazi.S0lando.GEOG">Svazilando</ref>
       kaj <ref tip="vid" cel="zimbabv.Z0o.GEOG">Zimbabvo</ref>
     </dif>
+    <trd lng="th">&#3611;&#3619;&#3632;&#3648;&#3607;&#3624;&#3649;&#3629;&#3615;&#3619;&#3636;&#3585;&#3634;&#3651;&#3605;&#3657;</trd>
     </snc>
     <trd lng="ca">Rep&uacute;blica de Sud-&agrave;frica</trd>
     <trd lng="en">South Africa</trd>
@@ -201,6 +218,18 @@
 </art>
 <!--
 $Log: afrik.xml,v $
+Revision 1.36  2017/12/30 00:10:12  revo
+Michel Cantigneaux: ligiloj pri 8a Oficiala Aldono kaj 12a Oficiala Informo kaj Vikipedio
+
+Revision 1.35  2017/12/21 16:10:16  revo
+Michel Cantigneaux: aldonita per 8a OA
+
+Revision 1.34  2017/07/10 06:10:20  revo
+Warut Bunprasert: +trd th
+
+Revision 1.33  2017/06/20 15:10:20  revo
+Ludoviko Francisco: +lst
+
 Revision 1.32  2017/01/27 14:10:22  revo
 Adam Eng: +trd ms
 
@@ -211,17 +240,5 @@ Revision 1.30  2014/06/04 02:10:14  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.29  2013/12/13 10:10:11  revo
-Damien Brucker: +trd fr
-
-Revision 1.28  2013/08/23 08:10:20  revo
-Wolfram Diestel: referencoj al listo kontinentoj, mondopartoj
-
-Revision 1.27  2013/02/10 04:10:08  revo
-Evandro Avellar: Traduko al PT - Sud-Afriko
-
-Revision 1.26  2013/02/10 02:10:25  revo
-Evandro Avellar: Traduko al Pt
-
-Revision 1.25  2012/08/03 08:10:18  revo
 -->
 </vortaro>

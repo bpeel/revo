@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vest.xml,v 1.38 2016/10/29 19:10:21 revo Exp $">
+<art mrk="$Id: vest.xml,v 1.39 2017/12/20 15:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vest</rad>/i <fnt><bib>PV</bib></fnt>
@@ -124,7 +124,9 @@
 </drv>
 
 <drv mrk="vest.0o">
-  <kap><tld/>o</kap>
+  <kap><ofc>*</ofc><tld/>o <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5249">vest'o</url></lok></fnt></kap>
   <snc mrk="vest.0o.TEKS">
     <tezrad fak="TEKS"/>	
     <uzo tip="fak">TEKS</uzo>
@@ -575,7 +577,7 @@
 </drv>
 
 <drv mrk="vest.super0o">
-  <kap><ofc>*</ofc>super<tld/>o</kap>
+  <kap><ofc>*</ofc><ofc>ekz</ofc>super<tld/>o</kap>
   <snc mrk="vest.super0o.TEKS">
     <uzo tip="fak">TEKS</uzo>
     <dif>
@@ -646,6 +648,9 @@
 </art>
 <!--
 $Log: vest.xml,v $
+Revision 1.39  2017/12/20 15:10:24  revo
+Michel Cantigneaux: "vest/o" fundamenta kunmetajxo el la U.V. + mencio "ekz" por supervesto
+
 Revision 1.38  2016/10/29 19:10:21  revo
 Wolfram Diestel: strukturo: dif chirkau dif-ref
 
@@ -665,8 +670,5 @@ Revision 1.33  2013/10/23 20:10:20  revo
 Benito Subejrano: + trd ca oc fr
 
 Revision 1.32  2009/09/01 04:54:29  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.31  2008/03/11 17:30:16  revo
 -->
 </vortaro>

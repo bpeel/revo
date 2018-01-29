@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mol.xml,v 1.38 2017/02/14 16:10:29 revo Exp $">
+<art mrk="$Id: mol.xml,v 1.39 2017/12/19 10:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mol</rad>/a <fnt><bib>PV</bib></fnt>
@@ -88,7 +88,8 @@
 </drv>
 
 <drv mrk="mol.0ajxo">
-  <kap><tld/>a&jcirc;o</kap>
+  <kap><ofc>*</ofc><tld/>a&jcirc;o
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, -a&jcirc;'</lok></fnt></kap>
   <snc mrk="mol.0ajxo.KOMUNE">
     <dif>
       Io <tld/>a a&ubreve; <tld/>a parto de io:
@@ -284,6 +285,9 @@
 </art>
 <!--
 $Log: mol.xml,v $
+Revision 1.39  2017/12/19 10:10:20  revo
+Michel Cantigneaux: fundamenta "molajxo" el la U.V.
+
 Revision 1.38  2017/02/14 16:10:29  revo
 Jeromo Vasxe: Senindulda ->  Senindulga
 
@@ -303,8 +307,5 @@ Revision 1.33  2012/01/24 17:10:10  revo
 Carlos Garcia: korktd es -a
 
 Revision 1.32  2011/08/19 05:10:24  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.31  2010/10/06 16:30:29  revo
 -->
 </vortaro>

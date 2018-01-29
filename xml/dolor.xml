@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dolor.xml,v 1.45 2017/02/21 15:10:16 revo Exp $">
+<art mrk="$Id: dolor.xml,v 1.47 2017/10/26 09:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dolor</rad>/i <fnt><bib>PV</bib></fnt>
@@ -77,6 +77,7 @@
     <trd>ache</trd>,
     <trd>pain</trd>
   </trdgrp>
+  <trd lng="es">doler</trd>
   <trdgrp lng="fr">
     <trd>faire <ind>mal</ind><klr tip="ind"> (&ecirc;tre douloureux)
     </klr></trd>,
@@ -96,6 +97,7 @@
     <trd>doer</trd>,
     <trd>causar <ind>dor</ind></trd>
   </trdgrp>
+  <trd lng="ro">a durea</trd>
   <trd lng="ru">&c_b;&c_o;&c_l;&c_je;&c_t;&c_mol;<klr tip="ind"> 
   (&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol; &c_ch;&c_u;&c_v;&c_s;&c_t;&c_v;&c_o;
   &c_b;&c_o;&c_l;&c_i;)</klr></trd>
@@ -135,6 +137,12 @@
     <trd>hurt</trd>,
     <trd>inflict pain</trd>,
     <trd>cause pain</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>doler</trd>,
+    <trd>da&ntilde;ar</trd>,
+    <trd>lastimar</trd>,
+    <trd>adolorar</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>faire <ind>mal</ind><klr tip="ind"> (causer une
@@ -205,6 +213,11 @@
     <trd>dolegliwo&sacute;&cacute;</trd>
   </trdgrp>
   <trd lng="pt">dor</trd>
+  <trdgrp lng="ro">
+    <trd>durere</trd>,
+    <trd>chin</trd>,
+    <trd>amaraciune</trd>,
+  </trdgrp>
   <trd lng="ru">&c_b;&c_o;&c_l;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>boles&tcaron;</trd>,
@@ -241,6 +254,10 @@
       <trd>bol&aogonek;cy</trd>
       <trd>dolegliwy</trd>
     </trdgrp>
+    <trdgrp lng="ro">
+    <trd>dureros</trd>,
+    <trd>penibil</trd>,
+    </trdgrp>
   </snc>
   <snc>
     <dif>
@@ -267,6 +284,10 @@
     <trd>bolestn&yacute;</trd>
   </trdgrp>
   <trd lng="de">Schmerzens-</trd>
+  <trdgrp lng="es">
+    <trd>doloroso</trd>,
+    <trd>doliente</trd>
+  </trdgrp>
   <trd lng="fr">douloureux</trd>
   <trd lng="hu">f&aacute;jdalmas</trd>
   <trdgrp lng="it"><trd>doloroso</trd>, <trd>dolente</trd></trdgrp>
@@ -300,6 +321,10 @@
     <trd>painful</trd>,
     <trd>agonizing</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>doloroso</trd>,
+    <trd>da&ntilde;oso</trd>
+  </trdgrp>
   <trd lng="fr">douloureux</trd>
   <trd lng="hu">f&aacute;jdalmat okoz&oacute;</trd>
   <trd lng="it">doloroso</trd>
@@ -307,6 +332,11 @@
   <trdgrp lng="pl">
     <trd>bolesny</trd>,
     <trd>dolegliwy</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>chinuitor</trd>,
+    <trd>dureros</trd>,
+    <trd>care provoac&abreve; durere</trd>,
   </trdgrp>
   <trd lng="ru">&c_b;&c_o;&c_l;&c_je;&c_z;&c_n;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">bolestn&yacute;</trd>
@@ -323,6 +353,7 @@
     <trd>suffer</trd>,
     <trd>feel pain</trd>
   </trdgrp>
+  <trd lng="es">sentir <ind>dolor</ind></trd>
   <trd lng="fr">se <ind>faire mal</ind></trd>
   <trd lng="hu">megf&aacute;jdul</trd>
   <trd lng="it">sentire <ind>dolore</ind></trd>
@@ -368,6 +399,7 @@
     <trd>pain remedy</trd>,
     <trd>painkiller</trd>
   </trdgrp>
+  <trd lng="es">analg&eacute;sico<klr> (sust.)</klr></trd>
   <trdgrp lng="fr">
     <trd>analg&eacute;sique<klr> (subst.)</klr></trd>,
     <trd>antalgique<klr> (subst.)</klr></trd>
@@ -393,6 +425,7 @@
   <trd lng="cs">bezbolestn&yacute;</trd>
   <trd lng="de">schmerzfrei</trd>
   <trd lng="en">painless</trd>
+  <trd lng="es">indoloro</trd>
   <trd lng="fr">indolore</trd>
   <trd lng="hu">f&aacute;jdalommentes</trd>
   <trd lng="it">indolore</trd>
@@ -434,6 +467,7 @@
     <trd>analgesia</trd>,
     <trd>absence of pain</trd>
   </trdgrp>
+  <trd lng="es">analgesia</trd>
   <trd lng="fr">analg&eacute;sie</trd>
   <trd lng="it">anelgesia</trd>
   <trdgrp lng="nl">
@@ -464,6 +498,10 @@
     <trd>schmerzstillend</trd>
   </trdgrp>
   <trd lng="en">analgesic</trd>
+  <trdgrp lng="es">
+    <trd>analg&eacute;sico<klr> (adj.)</klr></trd>,
+    <trd>calmante<klr tip="ind"> (del dolor)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>analg&eacute;sique<klr> (adj.)</klr></trd>,
     <trd>calmant<klr tip="ind"> (la douleur)</klr></trd>
@@ -513,6 +551,10 @@
      </rim>
   </snc>
   <trd lng="en">arthralgia</trd>
+  <trdgrp lng="es">
+    <trd>artralgia</trd>,
+    <trd>dolor articular</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>arthralgie</trd>,
     <trd>douleur articulaire</trd>
@@ -536,6 +578,10 @@
   <trd lng="cs">bolest zubu</trd>
   <trdgrp lng="en">
     <trd>toothache</trd>,
+    <trd>odontalgia</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>dolor dental</trd>,
     <trd>odontalgia</trd>
   </trdgrp>
   <trdgrp lng="fr">
@@ -672,6 +718,11 @@
     <trd>headache</trd>,
     <trd>cephalalgia</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>dolor de cabeza</trd>,
+    <trd>cefalea</trd>
+    <trd>cefalalgia</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>mal de t&ecirc;te</trd>,
     <trd>c&eacute;phal&eacute;e</trd>
@@ -733,6 +784,10 @@
     <trd>&uacute;st&rcaron;el</trd>
   </trdgrp>
   <trd lng="en">low back pain</trd>
+  <trdgrp lng="es">
+    <trd>lumbalgia</trd>,
+    <trd>dolor lumbar</trd>
+  </trdgrp>
   <trd lng="fr">lombalgie</trd>
   <trd lng="sk">boles&tcaron; v hrbte</trd>
 </drv>
@@ -786,6 +841,11 @@
   </snc>
   <trd lng="cs">myalgie</trd>
   <trd lng="en">myalgia</trd>
+  <trdgrp lng="es">
+    <trd>dolor muscular</trd>,
+    <trd>mialgia</trd>,
+    <trd>miodinia</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>myalgie</trd>,
     <trd>courbature</trd>
@@ -806,6 +866,7 @@
     <trd>cervicodynia</trd>,
     <trd>neck pain</trd>
   </trdgrp>
+  <trd lng="es">dolor cervical</trd>
   <trd lng="fr">cervicalgie</trd>
   <trd lng="sk">boles&tcaron; v &scaron;iji</trd>
 </drv>
@@ -830,6 +891,7 @@
      </rim>
   </snc>
   <trd lng="en">otalgia</trd>
+  <trd lng="es">otalgia</trd>
   <trdgrp lng="fr">
     <trd>otalgie</trd>,
     <trd>otodynie</trd>
@@ -861,6 +923,10 @@
     <trd>stomachache</trd>,
     <trd>gastralgia</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>dolor de est&oacute;mago</trd>,
+    <trd>gastralgia</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>mal d&#8217;estomac</trd>,
     <trd>gastralgie</trd>
@@ -869,8 +935,15 @@
 </art>
 <!--
 $Log: dolor.xml,v $
+Revision 1.47  2017/10/26 09:10:14  revo
+Eduardo Iriarte Gahete: +trd es
+
+Revision 1.46  2017/07/09 22:10:28  revo
+Vito Redsky: +trd ro
+
 Revision 1.45  2017/02/21 15:10:16  revo
-Jeromo Vasxe: kelkoje -> kelkfoje, cefalagio  -> cefalalgio, lumbodoro -> lumbodoloro
+Jeromo Vasxe: kelkoje -> kelkfoje, cefalagio  -> cefalalgio, lumbodoro
+-> lumbodoloro
 
 Revision 1.44  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
@@ -884,12 +957,5 @@ Alain Gerard: +fnt
 Revision 1.41  2015/01/10 06:11:10  revo
 Alain Gerard: +fnt
 
-Revision 1.40  2014/12/27 11:10:11  revo
-Alain Gerard: +rim
-
-Revision 1.39  2014/12/27 07:10:12  revo
-Alain Gerard: +mrk
-
-Revision 1.38  2014/12/22 11:10:21  revo
 -->
 </vortaro>

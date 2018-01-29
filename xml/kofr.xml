@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kofr.xml,v 1.19 2016/11/21 20:10:16 revo Exp $">
+  <art mrk="$Id: kofr.xml,v 1.24 2017/11/16 03:10:15 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>kofr</rad>/o
@@ -12,7 +12,8 @@
       <kap><tld/>o</kap>
       <snc mrk="kofr.0o.meblo">
         <dif>
-          Unu el la plej antikvaj formoj de <ref tip="lst" lst="voko:mebloj" cel="mebl.0o">meblo</ref>, 
+          Unu el la plej antikvaj formoj de <ref tip="lst"
+          lst="voko:mebloj" cel="mebl.0o">meblo</ref>, 
           nun eksmoda, en formo de fortika &scirc;losebla
           <ref tip="super" cel="kest.0o.KOMUNE">kesto</ref>, eventuale
           kun internaj fakoj, kun demetebla a&ubreve; &ccirc;arnire malfermebla
@@ -40,10 +41,13 @@
         <trd lng="de">Truhe</trd>
         <trdgrp lng="en">
           <trd><ofc>1</ofc>coffer</trd>,
-          <trd>chest</trd>,
+          <trd>chest<klr tip="ind"> (furniture)</klr></trd>,
           <trd>trunk</trd>
         </trdgrp>
         <trd lng="fr"><ofc>1</ofc>coffre</trd>
+        <trd lng="nl">kist</trd>
+        <trd lng="pl">kufer</trd>
+        <trd lng="ro">cuf&abreve;r</trd>
         <trd lng="ru"><ofc>1</ofc>&c_s;&c_u;&c_n;&c_d;&c_u;&c_k;</trd>
       </snc>
       <snc mrk="kofr.0o.vojagxa">
@@ -67,6 +71,9 @@
           <trd>cantine<klr tip="ind"> (malle)</klr></trd>,
           <trd><ofc>1</ofc>malle</trd>
         </trdgrp>
+        <trd lng="nl">hutkoffer</trd>
+        <trd lng="pl">kufer</trd>
+        <trd lng="ro">cuf&abreve;r</trd>
         <trdgrp lng="ru">
           <trd><ofc>1</ofc>&c_s;&c_u;&c_n;&c_d;&c_u;&c_k;</trd>,
           <trd>&c_k;&c_o;&c_f;&c_r;</trd>,
@@ -107,16 +114,62 @@
         <trd>koffer</trd>,
         <trd>utaz&oacute;l&aacute;da</trd>
       </trdgrp>
-      <trdgrp lng="nl">
-        <trd>koffer</trd>,
-        <trd>reiskoffer</trd>
-      </trdgrp>
       <trd lng="sk">kufor</trd>
   <trd lng="cs">kufr, zavazadlov&yacute; prostor auta</trd>
+</drv>
+
+<drv mrk="kofr.trezor0o">
+  <kap>trezor<tld/>o</kap>
+  <snc mrk="kofr.trezor0o.meblo">
+    <dif>
+      <ref tip="super" cel="kofr.0o.meblo">Kofro<sncref/></ref>
+      kiu enhavas multajn valora&jcirc;ojn (kutime monerojn, orajn objektojn,
+      gemojn, k.s.):
+      <ekz>
+        en aventuraj romanoj, fabeloj, kaj ludoj ofte rolas 
+        trezor<tld/>o kiel centra punkto de la intrigo
+        <fnt>
+          <vrk>Kofro</vrk>
+          <lok><url
+          ref="http://eo.wikipedia.org/wiki/Kofro">Vikipedio</url></lok>
+        </fnt>;
+      </ekz>          
+      <ekz>
+        &ccirc;u vi volas <klr>...</klr> ion alian el la luksaj a&jcirc;oj,
+        kiuj trovi&gcirc;as en la trezor<tld/>o?
+        <fnt>
+          <vrk><url
+          ref="http://esperantaretradio.blogspot.nl/2013/05/la-rido-kiel-filozofia-elekto.html">
+          La rido kiel filozofia elekto</url></vrk>,
+          <lok>esperantaretradio.blogspot.nl, 2013-05-27</lok>
+        </fnt>.
+      </ekz>
+    </dif>   
+  </snc>
+  <trd lng="de">Schatzkiste</trd>
+  <trd lng="en">treasure chest</trd>
+  <trd lng="es">cofre del tesoro</trd>
+  <trd lng="ja">&#23453;&#31665; [<ind>&#12383;&#12363;&#12425;&#12400;&#12371;</ind>]</trd>
+  <trd lng="nl">schatkist</trd>
 </drv>
   </art>
   <!--
   $Log: kofr.xml,v $
+  Revision 1.24  2017/11/16 03:10:15  revo
+  Sam Penter: +klr en
+
+  Revision 1.23  2017/11/06 00:10:19  revo
+  Sam Penter: eta stila konformigo
+
+  Revision 1.22  2017/11/05 21:10:14  revo
+  Sam Penter: + trezor~o
+
+  Revision 1.21  2017/11/05 19:10:26  revo
+  Sam Penter: korektoj pri trd nl
+
+  Revision 1.20  2017/08/05 18:10:20  revo
+  Vito Redsky: +trd pl +trd ro
+
   Revision 1.19  2016/11/21 20:10:16  revo
   Wolfram Diestel: ref "mebloj"
 

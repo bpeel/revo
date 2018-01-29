@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: etimolog.xml,v 1.1 2018/01/02 19:10:18 revo Exp $">
+<kap>
+  <ofc>7</ofc>
+  <rad>etimolog</rad>/o
+</kap>
+<drv mrk="etimolog.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="etimolog.0o.SCI">
+    <uzo tip="fak">LIN</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Sciencisto pri la deveno de la vortoj. 
+    </dif>
+    <ref tip="vid" cel="etimol.0o">&quadrat;etimologio</ref>
+  </snc>
+  <trd lng="fr">&eacute;tymologiste</trd>
+</drv>
+</art>
+
+<!--
+$Log: etimolog.xml,v $
+Revision 1.1  2018/01/02 19:10:18  revo
+Michel Cantigneaux: nova artikolo
+
+-->
+</vortaro>

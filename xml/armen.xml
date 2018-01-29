@@ -2,18 +2,44 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: armen.xml,v 1.19 2015/07/04 08:37:30 revo Exp $">
+<art mrk="$Id: armen.xml,v 1.22 2017/12/28 20:10:13 revo Exp $">
 <kap>
   <rad>armen</rad>/o
   <ofc>8</ofc>
 </kap>
 
 <drv mrk="armen.0o">
-  <kap><tld/>o</kap>
+  <kap><ofc>8</ofc><tld/>o
+  <fnt><aut>Akademio de Esperanto</aut>, 
+<vrk><url
+ref="http://www.akademio-de-esperanto.org/aktoj/aktoj2/8oa.html"> 8a
+Oficiala Aldono</url></vrk>, <lok>II.C.1</lok></fnt>,
+  <var><kap><tld/>ino</kap></var>
+  </kap>
   <snc mrk="armen.0o.sxtatano">
     <dif>
-      <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de
-      <ref tip="malprt" cel="alban.A0ujo"><tld lit="A"/>ujo</ref>.
+      <ref tip="super" cel="sxtat.0ano">&Scirc;tatan(in)o</ref> de
+      <ref tip="malprt" cel="alban.A0ujo"><tld lit="A"/>ujo</ref>:
+      <ekz>Trovi&gcirc;ante sur la limo de Azio kaj E&ubreve;ropo, la <tld/>oj
+      komuniki&gcirc;is kun ties kulturoj
+        <fnt>
+          <aut>Lida Elbakjan</aut>
+          <vrk>Kristanismo: Armenio festis 1700 jarojn da
+          kristanismo</vrk>
+          <bib>Monato</bib>
+          <lok>jaro 2003a, numero 12a, p. 22a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>mi &gcirc;ojus, se oni povus lerni same multe de la foirisma
+      demagogio, kiel de la reala kultura agado de <tld/>oj
+        <fnt>
+          <aut>Jorge Camacho</aut>
+          <vrk>La Liturgio de l' foiro (Elementoj por ekzegezo)</vrk>
+          <lok>&ccirc;apitro 66a</lok>
+        </fnt>.
+      </ekz>
+    
+      <ekz></ekz>
     </dif>
   </snc>
   <snc mrk="armen.0o.naciano">
@@ -21,39 +47,79 @@
       Homo kun <tld/>a nacieco.
     </dif>
   </snc>
-  <trd lng="cs">Armén</trd>
-  <trd lng="en">Armenian</trd>
-  <trd lng="fr">Arm&eacute;nien<klr> (subst.)</klr></trd>
-  <trd lng="sk">Armén</trd>
+  <trd lng="cs">Arm&eacute;n</trd>
+  <trd lng="en">Armenian<klr> (subst.)</klr></trd>
+   <trdgrp lng="fr"> 
+    <trd>Arm&eacute;nien</trd>
+    <trd>Arm&eacute;nienne<klr> (subst.)</klr></trd>
+   </trdgrp>
+  <trd lng="sk">Arm&eacute;n</trd>
 </drv>
 
 <drv mrk="armen.0a">
   <kap><tld/>a</kap>
   <snc>
     <dif>
-      Rilatanta al <tld/>oj, ilia nacieco a&ubreve; &scirc;tato.
+      Rilatanta al <tld/>oj, ilia nacieco a&ubreve; &scirc;tato:
+      <ekz>En la komenco de la kvara jarcento okazis evento, kiu
+      anta&ubreve;difinis la historian evoluon de l' <tld/>a popolo
+        <fnt>
+          <aut>Lida Elbakjan</aut>
+          <vrk>Kristanismo: Armenio festis 1700 jarojn da
+          kristanismo</vrk>
+          <bib>Monato</bib>
+          <lok>jaro 2003a, numero 12a, p. 22a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>li dis&scirc;iris la tunikon surbruste, malkovris la cikatrojn,
+      kiuj restis al li post vundoj, ricevitaj en la <tld/>a milito, kaj
+      etendis la brakojn al la popolo
+        <fnt>
+          <aut>H. Sienkiewicz trad. Lydia Zamenhof</aut>
+          <vrk>Quo vadis?</vrk>
+          <lok>&ccirc;apitro 66a</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <trd lng="en">Armenian<klr> (adj.)</klr></trd>
+    <trdgrp lng="fr"> 
+    <trd>arm&eacute;nien</trd>
+    <trd>arm&eacute;nienne<klr> (adj.)</klr></trd>
+   </trdgrp>
   </snc>
-  <trd lng="cs">arménský</trd>
+  <snc>
+    <dif>
+    "la armena" = la nacia <ref tip="super" cel="lingv.0o">lingvo</ref>
+    de Armenujo
+    <ekz><fnt><bib>Viki</bib>, <lok><url 
+    ref="http://eo.wikipedia.org/wiki/Armena lingvo">Armena
+    lingvo</url></lok></fnt></ekz>.
+    </dif>
+   <trd lng="en">Armenian<klr> (language)</klr></trd>
+   <trd lng="fr">arm&eacute;nien<klr> (langue)</klr></trd>
+  </snc>
+  <trd lng="cs">arm&eacute;nsk&yacute;</trd>
   <trd lng="en">Armenian</trd>
-  <trd lng="fr">arm&eacute;nien<klr> (adj.) </klr></trd>
-  <trd lng="sk">arménsky</trd>
+  <trd lng="sk">arm&eacute;nsky</trd>
 </drv>
 
 <drv mrk="armen.A0ujo">
   <kap>
     <tld lit="A"/>ujo
-    <fnt>
-      <vrk>Oficiala Informo de AdE</vrk>,
-      <lok>numero 11</lok>
-    </fnt>
+    <fnt><aut>Akademio de Esperanto</aut>, 
+<vrk><url
+ref="http://www.akademio-de-esperanto.org/decidoj/landnomoj/listo_de_rekomendataj_landnomoj/index.html">Oficiala
+Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
+    <fnt><bib>Viki</bib>, <lok><url 
+     ref="http://eo.wikipedia.org/wiki/Armenio">Armenio</url></lok></fnt>
   </kap>
   <snc mrk="armen.A0ujo.GEOG">
     <uzo tip="fak">GEOG</uzo>
     <uzo tip="fak">POL</uzo>
     <mlg>AM</mlg>
     <dif>
-      &Scirc;tato en la centra Azio kun &ccirc;efurbo Erevano.
+      <ref tip="lst" cel="sxtat.0o.POL" lst="voko:&scirc;tatoj">&Scirc;tato</ref> en
+      la centra Azio kun &ccirc;efurbo Erevano.
       Teritorio de <em>Respubliko Armenujo</em>. &Gcirc;is 1991
       <ref tip="vid" cel="sovet.S0unio">Sovetunia</ref> respubliko.
       &Gcirc;i limas kun <ref tip="vid"
@@ -61,10 +127,43 @@
       <ref tip="vid" cel="iran.I0o.GEOG">Irano</ref>,
       <ref tip="vid" cel="kartvel.K0ujo">Kartvelujo</ref>,
       Na&hcirc;i&ccirc;evano
-      kaj <ref tip="vid" cel="uzbek.U0ujo">Turkujo</ref>.
+      kaj <ref tip="vid" cel="uzbek.U0ujo">Turkujo</ref>:
+      <ekz>Li estas parenco de Petronius, kiu anta&ubreve; nelonge revenis el
+      Armenujo
+        <fnt>
+          <aut>H. Sienkiewicz trad. Lydia Zamenhof</aut>
+          <vrk>Quo vadis?</vrk>
+          <lok>&ccirc;apitro 7a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>&gcirc;i insta&ubreve;ri&gcirc;is kiel grava aparta dinastio en <tld
+      lit="A"/>ujo
+        <fnt>
+          <aut>Vikipedio</aut>,
+          <vrk><url
+      ref="https://eo.wikipedia.org/wiki/Arsakida_Dinastio">Arsakida
+      Dinastio</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
     <ref tip="sin" cel="armeni.A0o.GEOG">Armenio</ref>
     </snc>
+    <rim mrk="armen.A0io.RIM">
+  "Gentobazaj landnomoj. Oni ordinare formas la nomon de la lando per la
+  <em>Fundamenta sufikso UJ</em> a&ubreve; per la <em>neoficiala sufikso
+  I</em>. Pri la karaktero de tiu I sufikso (uzata post popolvortoj
+  anstata&ubreve; UJ) ekzistas diversaj opinioj. Iuj rigardas &gcirc;in kiel
+  <em>efektivan sufikson</em> (kvankam neoficialan), dum aliaj preferas
+  rigardi &gcirc;in kiel <em>eron de aparta landnoma radiko</em> paralela kun
+  la responda popolnoma radiko. 
+  Tiuj diversaj analizoj &ccirc;iuokaze ne faras praktikan diferencon en la
+  uzado de tiaj landnomoj kiel Francio, Rusio, Japanio
+  kaj &Ccirc;inio. <em>En tiu &ccirc;i dokumento la Akademio ne alprenas starpunkton
+  pri tiu teoria demando</em>" <fnt><aut>Akademio de Esperanto</aut>, 
+  <vrk><url
+  ref="http://www.akademio-de-esperanto.org/decidoj/landnomoj/listo_de_rekomendataj_landnomoj/index.html">Oficiala
+  Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>.
+    </rim>
     <trd lng="be">&c_A;&c_r;&c_m;&c_e;&c_n;&c_ib;&c_ja;</trd>
     <trd lng="bg">&c_A;&c_r;&c_m;&c_je;&c_n;&c_i;&c_ja;</trd>
     <trd lng="de">Armenien</trd>
@@ -89,6 +188,16 @@
 
 <!--
 $Log: armen.xml,v $
+Revision 1.22  2017/12/28 20:10:13  revo
+Michel Cantigneaux: rimarko pri radiko kaj sufikso (+ "la armena" )
+
+Revision 1.21  2017/12/23 00:10:48  revo
+Michel Cantigneaux: Pli bonaj indikoj pri 8a Oficiala Aldono kaj 12a
+Oficiala Informo (+ /ino)
+
+Revision 1.20  2017/08/03 09:10:14  revo
+Ludoviko Francisco: +ref lst +ekz
+
 Revision 1.19  2015/07/04 08:37:30  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -101,21 +210,5 @@ Eko Nur Syah Hidayat: +id
 Revision 1.16  2014/04/12 15:10:15  revo
 Damien Brucker: +trd fr
 
-Revision 1.15  2013/03/01 08:10:13  revo
-Dmitri Gabinski: redakto: +trd be
-
-Revision 1.14  2013/02/11 04:10:12  revo
-Evandro Avellar: Tr+ pt
-
-Revision 1.13  2011/02/13 01:10:13  revo
-Luiz Portella: kor. ref k mrk
-
-Revision 1.12  2010/10/26 16:31:27  revo
-Russ Williams: +armeno, armena
-
-Revision 1.11  2009/08/08 16:33:45  revo
-Russ Williams: +trd en
-
-Revision 1.10  2009/07/03 16:31:40  revo
 -->
 </vortaro>

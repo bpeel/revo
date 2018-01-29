@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: princ.xml,v 1.25 2014/06/27 15:10:17 revo Exp $">
+  <art mrk="$Id: princ.xml,v 1.26 2017/04/20 09:10:13 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>princ</rad>/o
@@ -67,7 +67,7 @@
         <trd>pr&iacute;ncep <ind>hereditari</ind></trd>
       </trdgrp>
       <trd lng="de">Kronprinz</trd>
-      <trd lng="fr">dauphin<klr> (h&eacute;ritier royal)</klr></trd>
+      <trd lng="fr">dauphin<klr tip="ind"> (h&eacute;ritier royal)</klr></trd>
       <trdgrp lng="hu">
         <trd>koronaherceg</trd>,
         <trd>tr&oacute;n&ouml;r&ouml;k&ouml;s</trd>
@@ -266,6 +266,9 @@
   </art>
   <!--
   $Log: princ.xml,v $
+  Revision 1.26  2017/04/20 09:10:13  revo
+  Ludoviko Francisco: +ind klr trd fr
+
   Revision 1.25  2014/06/27 15:10:17  revo
   Eko Nur Syah Hidayat: +id
 

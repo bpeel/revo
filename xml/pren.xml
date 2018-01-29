@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pren.xml,v 1.33 2015/09/16 14:10:23 revo Exp $">
+<art mrk="$Id: pren.xml,v 1.35 2017/12/20 12:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pren</rad>/i <fnt><bib>PV</bib></fnt>
@@ -233,7 +233,9 @@
 </drv>
 
 <drv mrk="pren.0o">
-  <kap><tld/>o</kap>
+  <kap><ofc>*</ofc><tld/>o <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5169">pren'o</url></lok></fnt></kap>
   <snc mrk="pren.0o.ago">
     <dif>
       Ago <tld/>i:
@@ -276,6 +278,23 @@
   </trdgrp>
 </drv>
 
+<drv mrk="pren.0ilo">
+  <kap><ofc>*</ofc><tld/>ilo <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5170">pren'il'</url></lok></fnt></kap>
+  <snc>
+    <dif>
+    Instrumento, kun du artikigitaj bran&ccirc;oj, uzata por diversaj celoj,
+    i.a. por eltiri najlojn 
+    </dif>
+    <refgrp tip="prt">
+      <ref cel="pren.pincx0ilo">pin&ccirc;prenilo</ref>,
+      <ref cel="tenajl.0o">tenajlo</ref>; 
+    </refgrp>
+    <ref tip="vid" cel="pincx.0ilo">pin&ccirc;ilo (de krustuloj)</ref>
+  </snc>
+</drv>
+  
 <drv mrk="pren.al0i">
   <kap>al<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
@@ -308,7 +327,9 @@
 </drv>
 
 <drv mrk="pren.cxirkaux0i">
-  <kap>&ccirc;irka&ubreve;<tld/>i</kap>
+  <kap><ofc>*</ofc> &ccirc;irka&ubreve;<tld/>i <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-4997">&ccirc;irka&ubreve;'pren'</url></lok></fnt></kap>
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
@@ -635,6 +656,12 @@
 </art>
 <!--
 $Log: pren.xml,v $
+Revision 1.35  2017/12/20 12:10:13  revo
+Michel Cantigneaux: "pren/o" & + "pren/il/o" fundamentaj kunmetajxoj el la U.V.
+
+Revision 1.34  2017/12/19 14:10:29  revo
+Michel Cantigneaux: "cxirkaux/pren/i" fundamenta kunmetajxo el la U.V.
+
 Revision 1.33  2015/09/16 14:10:23  revo
 Guillermo Molleda Jimena: trd es
 
@@ -651,11 +678,5 @@ Revision 1.29  2014/08/18 04:10:10  revo
 Sergio Pokrovskij: +nefor~ebla
 
 Revision 1.28  2014/08/02 16:10:12  revo
-Guillermo Molleda Jimena: Hispana tradukado
-
-Revision 1.27  2012/03/11 20:10:17  revo
-Agustin Garcia Lopez: +trd(es)  lu - i
-
-Revision 1.26  2010/07/07 16:30:23  revo
 -->
 </vortaro>

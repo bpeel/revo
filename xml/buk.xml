@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: buk.xml,v 1.19 2015/10/06 12:10:21 revo Exp $">
+<art mrk="$Id: buk.xml,v 1.20 2017/06/12 14:10:15 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>buk</rad>/o</kap>
 <drv mrk="buk.0o">
@@ -86,6 +86,7 @@
   <ref tip="dif" cel="buk.0i">buki</ref>
   </snc>
   <trd lng="cs">zapnout na p&rcaron;ezku</trd>
+  <trd lng="fr">boucler</trd>
   <trd lng="sk">zapn&uacute;&tcaron; pracku</trd>
 </drv>
 
@@ -93,6 +94,7 @@
   <kap>kun<tld/>i</kap>
   <snc>
   <ref tip="dif" cel="buk.0i">buki</ref>
+  <trd lng="fr">boucler</trd>
   </snc>
 </drv>
 
@@ -133,12 +135,16 @@
   <snc>
   <uzo tip="fak">TEKS</uzo>
       <ref tip="dif" cel="buk.0dorno">bukodorno</ref>
+  <trd lng="fr">ardillon</trd>
   </snc>
 </drv>
 
 </art>
 <!--
 $Log: buk.xml,v $
+Revision 1.20  2017/06/12 14:10:15  revo
+Ludoviko Francisco: +trd fr
+
 Revision 1.19  2015/10/06 12:10:21  revo
 Evandro Avellar: +trd pt
 
@@ -158,8 +164,5 @@ Revision 1.14  2007/11/06 18:57:53  revo
 Sebastian Cyprych: +~o ref +drv ~fermi, kun~i, ~pinglo +trd pl
 
 Revision 1.13  2005/08/31 16:31:24  revo
-Wieland Pusch: +trd de
-
-Revision 1.12  2005/06/29 16:31:17  revo
 -->
 </vortaro>

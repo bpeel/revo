@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: rifuz.xml,v 1.21 2016/09/27 10:10:20 revo Exp $">
+  <art mrk="$Id: rifuz.xml,v 1.22 2017/12/20 13:10:16 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>rifuz</rad>/i <fnt><bib>PV</bib></fnt>
@@ -168,7 +168,9 @@
 </drv>
 
     <drv mrk="rifuz.for0i">
-      <kap>for<tld/>i, <var><kap><tld/>i&gcirc;i</kap></var></kap>
+      <kap>for<tld/>i, <var><kap><ofc>*</ofc><tld/>i&gcirc;i
+      <fnt><bib>F</bib>, <lok>Universala Vortaro, <url
+      ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5182">rifuz'i&gcirc;'</url></lok></fnt></kap></var></kap>
       <gra><vspec>tr</vspec></gra>
       <snc mrk="rifuz.for0i.KOMUNE">
         <dif>
@@ -220,6 +222,9 @@
   </art>
   <!--
   $Log: rifuz.xml,v $
+  Revision 1.22  2017/12/20 13:10:16  revo
+  Michel Cantigneaux: "rifuz/igx/i" fundamenta kunmetajxo el la U.V.
+
   Revision 1.21  2016/09/27 10:10:20  revo
   Sebastian Cyprych: +trd pl
 

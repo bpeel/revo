@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pied.xml,v 1.54 2017/02/17 08:10:15 revo Exp $">
+<art mrk="$Id: pied.xml,v 1.58 2017/12/20 10:10:22 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>pied</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,11 +13,12 @@
      <uzo tip="fak">ANA</uzo>
      <dif>
        Artikita parto &ccirc;e ekstremo de la homa a&ubreve; besta
-       <ref tip="malprt" cel="krur.0o.gambo">kruro</ref>,
+       <ref tip="malprt" cel="krur.0o.tuto">kruro</ref>,
        servanta por stari kaj pa&scirc;i:
        <ekz>
          mi sidas sur se&gcirc;o kaj tenas
-         la <tld/>ojn sur benketo<fnt>Z</fnt>;
+         la <tld/>ojn sur benketo<fnt><bib>F</bib><lok>&FE;
+         26</lok></fnt>;
        </ekz>
        <ekz>
          &scirc;i &jcirc;etis
@@ -29,15 +30,17 @@
        </ekz>
        <ekz>
          <tld/>a <klr>(kie ku&scirc;as la
-         <tld/>oj)</klr> parto de lito<fnt>Z</fnt>;
+         <tld/>oj)</klr> parto de la lito<fnt><bib>Fab4</bib><lok>Filino
+         de la mar&ccirc;a re&gcirc;o</lok></fnt>;
        </ekz>
        <ekz>
-         kurba<tld/>a ulo<fnt>Z</fnt>.
+         kurba<tld/>a ulo<fnt>Z</fnt>;
        </ekz>
-       <ekz>
-         li ne volis krei la&ubreve; sia persona pla&ccirc;o la <tld/>an
-         lingvon <ind>de l' kapo &gcirc;is la
-         <tld/>oj</ind><fnt>Z</fnt>.
+       <ekz>mi ne havis la intencon eldoni a&ubreve;tore plenan vortaron kaj
+       krei la&ubreve; mia persona pla&ccirc;o la tutan lingvon de l' kapo &gcirc;is la
+       <tld/>oj<fnt><aut>L. &Z;</aut>
+            <vrk>Aldono al la dua libro de la lingvo
+            internacia</vrk></fnt>.
          <trd lng="ca">de cap a peus</trd>
          <trd lng="es">de los pies a la cabeza</trd>
        </ekz>
@@ -333,12 +336,23 @@ halto</url></vrk></fnt>.
 </drv>
 
 <drv mrk="pied.0ingo">
-   <kap><tld/>ingo</kap>
+   <kap><ofc>*</ofc><tld/>ingo <fnt><bib>F</bib>, <lok>Universala
+   Vortaro, <url
+   ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5158">pied'ing'</url></lok></fnt></kap>
    <snc mrk="pied.0ingo.RAJ">
      <dif>
        Speco de ringo, kiu pendas de la selo kaj en kiun oni metas
        ekstrema&jcirc;ojn de la <tld/>oj por sur&ccirc;evali&gcirc;i kaj
-       rajdi.
+       rajdi:
+       <ekz>li defalas, restas alkro&ccirc;ita per <tld/>o en la <tld/>ingo,
+       kaj la furioze forrapidanta &ccirc;evalo posttrenas lin sur la &scirc;tona
+       tera&jcirc;o
+         <fnt>
+           <aut>Bertha von Suttner, trad. Armand Caumont</aut>
+		   <vrk>For la batalilojn!</vrk>
+		   <lok>kvara libro</lok>
+         </fnt>.
+       </ekz>
      </dif>
    </snc>
   <trd lng="br">stleug</trd>
@@ -363,13 +377,42 @@ halto</url></vrk></fnt>.
   <trd lng="sv">stigbygel</trd>
 </drv>
 
+<drv mrk="pied.0umi">
+  <kap><tld/>umi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pied.0umi.KOMUNE">
+    <dif>
+      Vole a&ubreve; nevole tu&scirc;i, premi, bateti per la <tld/>o:
+      <ekz>
+        Dunkan <klr>...</klr> stre&ccirc;is la krurojn, tamen zorge, por ne 
+        <tld/>umi iujn el la homfiguroj kiuj ku&scirc;e-side apogis sin 
+        kontra&ubreve; la muro
+        <fnt>
+          <aut>J. Francis</aut>,
+          <vrk>La Granda Kaldrono</vrk>,
+          <lok>1978</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">fouler aux pieds</trd>
+</drv>
+
 <drv mrk="pied.du0ulo">
    <kap>du<tld/>ulo</kap>
    <snc mrk="pied.du0ulo.ZOO">
      <uzo tip="fak">ZOO</uzo>
      <dif>
        <ref tip="super" cel="animal.0o">Animalo</ref>, iranta sur du
-       <tld/>oj.
+       <tld/>oj:
+       <ekz>mi opinias, ke du<tld/>ulo sen homaj virtoj ne estas reala
+       homo
+         <fnt>
+           <aut>Fanny Alving, trad. John Lundgren</aut>
+           <vrk>Uzino 2</vrk>
+           <lok>Trans la rozkrado</lok>
+         </fnt>.
+       </ekz>
      </dif>
    </snc>
    <trd lng="br">daoudroadeg</trd>
@@ -387,8 +430,15 @@ halto</url></vrk></fnt>.
    <snc mrk="pied.kvar0ulo.ZOO">
      <uzo tip="fak">ZOO</uzo>
      <dif>
-       <ref tip="super" cel="animal.0o">Animalo</ref>, iranta sur kvar 
-<tld/>oj.
+       <ref tip="super" cel="animal.0o">Animalo</ref>, iranta sur kvar
+       <tld/>oj:
+       <ekz>oni sur &gcirc;in ku&scirc;igis la vunditan kvar<tld/>ulon
+         <fnt>
+           <aut>Henri Vallienne</aut>
+           <vrk>Kastelo de Prelongo</vrk>
+           <lok>&ccirc;apitro 4a</lok>
+         </fnt>.
+       </ekz>
      </dif>
    </snc>
    <trd lng="br">pevarzroadeg</trd>
@@ -409,7 +459,21 @@ halto</url></vrk></fnt>.
    <kap>tri<tld/>o</kap>
    <snc mrk="pied.tri0o.KOMUNE">
      <dif>
-       Tablo a&ubreve; se&gcirc;o kun tri <tld/>oj.
+       Tablo, se&gcirc;o a&ubreve; subtenilo kun tri <tld/>oj:
+       <ekz>Vinicius sidis sur tri<tld/>o
+         <fnt>
+           <aut>H. Sienkiewicz trad. L. &Z;</aut>
+           <vrk>Quo vadis?</vrk>
+           <lok>&ccirc;apitro 51a</lok>
+         </fnt>;
+       </ekz>
+       <ekz>la fidela servistino metis la skribilaron sur kanapon kaj la
+       incensilon sur tri<tld/>on
+         <fnt>
+           <bib>I&scirc;tar</bib>
+           <lok>&ccirc;apitro 22a</lok>
+         </fnt>.
+       </ekz>
      </dif>
      <rim>
        <ctl>TriKRURA se&gcirc;o</ctl> estus pli trafa kaj klara.
@@ -503,7 +567,7 @@ halto</url></vrk></fnt>.
      <uzo tip="fak">ZOO</uzo>
      <ref tip="dif" cel="miriap.0oj.ZOO">miriapodoj</ref>
      <ekz>
-       mult<tld/>ulo <klr>...</klr> artikulo kun multaj piedoj
+       mult<tld/>ulo <klr>...</klr> artikulo kun multaj <tld/>oj
        <fnt>
        <aut>T. Jansson, trad. S. Johansson</aut>,
        <vrk><url 
@@ -535,7 +599,7 @@ ref="http://www.geocities.com/muminvalo">Muminvalo</url></vrk>,
    <snc mrk="pied.sur0igxi.KOMUNE">
      <dif>
        <ref tip="super" cel="star.ek0i.KOMUNE">Ekstari</ref> sur siaj
-       piedoj:
+       <tld/>oj:
        <ekz>
          Maksim facilmove sur<tld/>i&gcirc;is
          <fnt>
@@ -604,6 +668,7 @@ ref="http://www.geocities.com/muminvalo">Muminvalo</url></vrk>,
    <trd lng="ca">peu <klr>(po&egrave;tica)</klr></trd>
    <trd lng="en">foot <klr>(poetry)</klr></trd>
    <trd lng="es">pie <klr>(poes&iacute;a)</klr></trd>
+   <trd lng="fr">pied<klr tip="ind"> (po&eacute;sie)</klr></trd>
    <trd lng="hu">versl&aacute;b</trd>
    <trd lng="it">piede<klr> (poes.)</klr></trd>
    <trd lng="pl">stopa <klr>(wierszowa)</klr></trd>
@@ -613,6 +678,18 @@ ref="http://www.geocities.com/muminvalo">Muminvalo</url></vrk>,
 </art>
 <!--
 $Log: pied.xml,v $
+Revision 1.58  2017/12/20 10:10:22  revo
+Michel Cantigneaux: "pied/ing/o" fundamenta kunmetajxo el la U.V.
+
+Revision 1.57  2017/09/05 16:10:15  revo
+Jeromo Vasxe: + ~umi
+
+Revision 1.56  2017/08/23 11:10:15  revo
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.55  2017/06/12 14:10:14  revo
+Ludoviko Francisco: +trd fr +fnt +ekz
+
 Revision 1.54  2017/02/17 08:10:15  revo
 Lyubomir Vasilev: Redakto de malgxusta traduko
 
@@ -623,17 +700,5 @@ Revision 1.52  2015/07/09 06:10:14  revo
 Christophe Chazarein: Forigo de nenecesa sufikso (-ig-)
 
 Revision 1.51  2015/07/04 08:37:41  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.50  2015/06/29 16:40:18  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.49  2014/09/01 15:10:09  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.48  2013/07/13 13:10:20  revo
-Benito Subejrano: + trd oc
-
-Revision 1.47  2013/01/01 08:10:09  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: muk.xml,v 1.22 2015/07/04 08:37:39 revo Exp $">
+<art mrk="$Id: muk.xml,v 1.24 2017/11/05 20:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>muk</rad>/o <fnt><bib>PV</bib></fnt>
@@ -36,8 +36,12 @@
     <trd>mukus</trd>,
     <trd>sliz</trd>
   </trdgrp>
+  <trd lng="bg">&c_s;&c_l;&c_u;&c_z;</trd>
   <trd lng="de">Schleim</trd>
-  <trd lng="en">mucus</trd>
+  <trdgrp lng="en">
+    <trd>mucus</trd>,
+    <trd>slime</trd>
+  </trdgrp>
   <trd lng="fa">&a_m;&a_kh;&a_A;&a_T;</trd>
   <trd lng="fr">mucus</trd>
   <trd lng="it">muco</trd>
@@ -69,7 +73,8 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_l;&c_ib;&c_z;&c_ib;&c_s;&c_t;&c_y;</trd>
-  <trd lng="cs">hlenový</trd>
+  <trd lng="bg">&c_s;&c_l;&c_u;&c_z;&c_je;&c_s;&c_t;</trd>
+  <trd lng="cs">hlenov&yacute;</trd>
   <trd lng="de">schleimig</trd>
   <trd lng="en">mucous</trd>
   <trd lng="fa">&a_m;&a_kh;&a_A;&a_T;&f_y;</trd>
@@ -77,7 +82,7 @@
   <trd lng="it">mucosa</trd>
   <trd lng="pl">&sacute;luzowy</trd>
   <trd lng="ru">&c_s;&c_l;&c_i;&c_z;&c_i;&c_s;&c_t;&c_y;&c_j;</trd>
-  <trd lng="sk">hlienový</trd>
+  <trd lng="sk">hlienov&yacute;</trd>
   <trd lng="sv">slemmig</trd>
 </drv>
 
@@ -100,11 +105,12 @@
       </ekz>
     </dif>   
   </snc>
-  <trd lng="cs">nosní hlen</trd>
+  <trd lng="bg">&c_s;&c_o;&c_p;&c_o;&c_l;</trd>
+  <trd lng="cs">nosn&iacute; hlen</trd>
   <trdgrp lng="en">
-    <trd>mucus</trd>,
+    <trd>snot</trd>,
     <trd>phlegm</trd>,
-    <trd>snot</trd>
+    <trd>mucus</trd>
   </trdgrp>
   <trdgrp lng="fa">
     <trd>&a_A_madda;&a_b; &a_b;&f_y;&a_n;&f_y;</trd>,
@@ -112,12 +118,13 @@
   </trdgrp>
   <trd lng="fr">morve</trd>
   <trd lng="it">moccolo<klr> (di naso)</klr></trd>
+  <trd lng="nl">snot</trd>
   <trdgrp lng="pl">
     <trd>smark</trd>.
     <trd>gil<klr> (pot.)</klr></trd>,
     <trd>koza<klr> (pot.)</klr></trd>
   </trdgrp>
-  <trd lng="sk">sopeľ</trd>
+  <trd lng="sk">sope&lcaron;</trd>
   <trd lng="sv">snor</trd>
 </drv>
 
@@ -142,6 +149,12 @@
 </art>
 <!--
 $Log: muk.xml,v $
+Revision 1.24  2017/11/05 20:10:11  revo
+Sam Penter: +trd en nl
+
+Revision 1.23  2017/05/27 07:10:13  revo
+Joop Eggen: +trd bg
+
 Revision 1.22  2015/07/04 08:37:39  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -158,17 +171,5 @@ Revision 1.18  2009/08/26 16:31:35  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.17  2009/07/01 17:21:41  revo
-Russ Williams: +trd en
-
-Revision 1.16  2009/03/15 17:30:59  revo
-Antonio Codazzi: +trd it
-
-Revision 1.15  2009/03/13 17:30:40  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.14  2009/02/28 17:30:53  revo
-Jeromo Vasxe: + naz~o, fak ana -> fizl
-
-Revision 1.13  2006/08/16 19:53:39  revo
 -->
 </vortaro>

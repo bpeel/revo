@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: din.xml,v 1.2 2017/06/23 22:10:16 revo Exp $">
+<kap>
+  <rad>din</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="din.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="din.0o.MEZ">
+    <dif>
+      <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:mezurunuoj">Mezurunuo</ref> de
+      <ref tip="vid" cel="fort.0o.FIZ">forto</ref>
+      en la sistemo cgs; unu dino rapidigas 1-graman
+      mason je 1 g&middot;cm/s<sup>2</sup>.
+    </dif>
+  </snc>
+  <trd lng="fr">dyne</trd>
+  <trd lng="pl">dyna</trd>
+</drv>
+</art>
+
+<!--
+$Log: din.xml,v $
+Revision 1.2  2017/06/23 22:10:16  revo
+Vito Redsky: +trd pl
+
+Revision 1.1  2017/05/02 22:10:13  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

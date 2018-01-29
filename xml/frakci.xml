@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frakci.xml,v 1.44 2015/07/04 08:37:34 revo Exp $">
+<art mrk="$Id: frakci.xml,v 1.47 2017/06/13 10:10:11 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>frakci</rad>/o <fnt><bib>PV</bib></fnt>
@@ -10,6 +10,7 @@
 <drv mrk="frakci.0o">
   <kap><tld/>o</kap>
   <fnt><bib>VdE</bib></fnt>
+
   <snc mrk="frakci.0o.MAT">
     <uzo tip="fak">MAT</uzo>
     <dif>
@@ -107,14 +108,6 @@
         <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
       </ekz>
     </dif>
-    <adm>
-      Mi ne trovis pravigon por la terminoj "propra ~o" kaj
-      "nepropra ~o" krom en PIV2. MatVort havas
-      "vera" kaj "nenorma", PIV1 havas nur "nenorma", sen
-      konsideri &leftquot;partumo&rightquot;, kiu ankaux signifas &leftquot;norma frakcio&rightquot;.
-      Tiom granda hxaoso por absolute senutila nocio sxajnas troa.
-      <aut>MB</aut>
-    </adm>
     <ref tip="sub" cel="on.0o.frakcio">ono;</ref>
     <refgrp tip="sin">
       <ref cel="frakci.kvocienta0o">kvocienta frakcio</ref>;
@@ -153,6 +146,14 @@
     <trd lng="nl">breuk <klr tip="ind"> (wisk.)</klr></trd>
     <trd lng="pl">u&lstroke;amek</trd>
     <trd lng="ru">&c_d;&c_r;&c_o;&c_b;&c_mol;</trd>
+    <adm>
+      Mi ne trovis pravigon por la terminoj "propra ~o" kaj
+      "nepropra ~o" krom en PIV2. MatVort havas
+      "vera" kaj "nenorma", PIV1 havas nur "nenorma", sen
+      konsideri &leftquot;partumo&rightquot;, kiu ankaux signifas &leftquot;norma frakcio&rightquot;.
+      Tiom granda hxaoso por absolute senutila nocio sxajnas troa.
+      <aut>MB</aut>
+    </adm>
   </snc>
   <snc mrk="frakci.0o.SCI">
     <uzo tip="fak">SCI</uzo>
@@ -211,6 +212,36 @@
           ref="http://www.satesperanto.org/Regularo-de-la-Komunista-Frakcio.html">
           Regularo de la Komunista Frakcio</url></vrk>,
           <lok>Sennaciulo, 1996-11, p. 112a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        amba&ubreve; influhavaj <tld/>oj malfidas kaj timas unu la alian
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url
+          ref='http://www.esperanto.be/fel/mon/006913.html'>Irlando: 
+            Karuselo de seniluzii&gcirc;o</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        elekto de ministroj el amba&ubreve; <tld/>oj en Nord-Irlando 
+        (la porbrita uniista kaj la irlanda respublikista)
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url
+          ref='http://www.esperanto.be/fel/mon/006826.html'>Irlando: 
+            &Ccirc;u pa&scirc;oj al paco?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nur <tld/>o <klr>(<ref tip="sin"
+        cel="on.0o.frakcio">ono<sncref/></ref>)</klr>
+        de la esperantistaro disponas pri konoj de la germana
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url
+          ref='http://www.esperanto.be/fel/mon/006813.html'>Sa&gcirc;a kapo 
+            duonvorton komprenas</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -224,9 +255,10 @@
     </trdgrp>
     <trd lng="en">faction</trd>
     <trdgrp lng="fr">
+      <trd>faction<klr tip="ind"> (politique)</klr></trd>,
       <trd>groupe<klr tip="ind"> (politique)</klr></trd>,
-      <trd>fraction<klr tip="ind"> (politique)</klr></trd>,
-      <trd>courant<klr tip="ind"> (politique)</klr></trd>
+      <trd>courant<klr tip="ind"> (politique)</klr></trd>,
+      <trd>fraction<klr tip="ind"> (politique)</klr></trd>
     </trdgrp>
     <trd lng="nl">fractie<klr tip="ind"> (pol.)</klr></trd>
     <trd lng="pt">fac&ccedil;&atilde;o</trd>
@@ -237,14 +269,14 @@
     <trd>porci&oacute;</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>díl z množství</trd>,
+    <trd>d&iacute;l z mno&zcaron;stv&iacute;</trd>,
     <trd>zlomek</trd>
   </trdgrp>
   <trd lng="en">fraction</trd>
   <trd lng="es">fracci&oacute;n</trd>
   <trdgrp lng="sk">
     <trd>zlomok</trd>,
-    <trd>časť z množstva</trd>
+    <trd>&ccaron;as&tcaron; z mno&zcaron;stva</trd>
   </trdgrp>
 </drv>
 
@@ -266,10 +298,10 @@
     <trd>segmentar</trd>
   </trdgrp>
   <trd lng="es">fraccionar</trd>
-  <trd lng="sk">vytvárať frakcie</trd>
+  <trd lng="sk">vytv&aacute;ra&tcaron; frakcie</trd>
   <trdgrp lng="cs">
     <trd>frakcionovat</trd>,
-    <trd>vytvářet frakce <klr>(v pol. straně)</klr></trd>
+    <trd>vytv&aacute;&rcaron;et frakce <klr>(v pol. stran&ecaron;)</klr></trd>
   </trdgrp>
 </drv>
 
@@ -281,7 +313,16 @@
   <snc>
     <dif>
       Signo uzata por apartigi la numeratoron disde la denominatoro
-      en <ref tip="malprt" cel="frakci.0o.MAT">frakcio</ref>.
+      en <ref tip="malprt" cel="frakci.0o.MAT">frakcio</ref>:      <ekz>
+        la taktindiko staras je la komenco de muzika&jcirc;o <klr>[...]</klr>
+        kiel matematika <tld/>o kun numeratoro kaj denominatoro, tamen
+        sen <tld/>streko 
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url
+          ref='https://eo.wikipedia.org/?curid=255681'>Taktindiko</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
     <rim>
       &Gcirc;i povas esti horizontala a&ubreve; oblikva; la oblikva
@@ -300,8 +341,8 @@
     <trd lng="pl">kreska u&lstroke;amkowa</trd>
     <trd lng="ru">&c_ch;&c_je;&c_r;&c_t;&c_a; &c_d;&c_r;&c_o;&c_b;&c_i;</trd>
   </snc>
-  <trd lng="cs">zlomková čára</trd>
-  <trd lng="sk">zlomková čiara</trd>
+  <trd lng="cs">zlomkov&aacute; &ccaron;&aacute;ra</trd>
+  <trd lng="sk">zlomkov&aacute; &ccaron;iara</trd>
 </drv>
 
 <drv mrk="frakci.algebra0o">
@@ -321,7 +362,7 @@
     </dif>
   </snc>
   <trd lng="ca">fracci&oacute; alg&egrave;brica</trd>
-  <trd lng="cs">algebraický zlomek</trd>
+  <trd lng="cs">algebraick&yacute; zlomek</trd>
   <trd lng="de">algebraischer <ind>Bruch</ind></trd>
   <trd lng="en">algebraic <ind>fraction</ind></trd>
   <trd lng="es"><ind>fracci&oacute;n</ind> algebr&aacute;ica</trd>
@@ -331,7 +372,7 @@
   <trd
   lng="ru">&c_a;&c_l;&c_g;&c_je;&c_b;&c_r;&c_a;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
   <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
-  <trd lng="sk">algebrický zlomok</trd>
+  <trd lng="sk">algebrick&yacute; zlomok</trd>
 </drv>
 
 <drv mrk="frakci.cxena0o">
@@ -339,7 +380,20 @@
   <uzo tip="fak">MAT</uzo>
   <fnt><bib>PIV2</bib></fnt>
   <snc>
-    <ref tip="dif" cel="frakci.cxen0o">&ccirc;en<tld/>o.</ref>
+    <dif>
+      <ref tip="dif" cel="frakci.cxen0o">&Ccirc;en<tld/>o</ref>:
+      <ekz>
+        &ccirc;iuj reelaj nombroj estas prezenteblaj kiel regularaj &ccirc;enaj
+        <tld/>oj, 
+        racionalaj nombroj estas prezenteblaj per finiaj <tld/>oj,
+        neracionalaj per nefiniaj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=388067'>&Ccirc;ena
+          frakcio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="ca">fracci&oacute; cont&iacute;nua</trd>
   <trdgrp lng="de">
@@ -428,14 +482,23 @@
     <dif>
       <ref tip="dif" cel="frakci.0o.MAT">Frakcio</ref> prezentita
       per numeratoro kaj denominatoro <klr>(kontraste al
-      <ref cel="frakci.pozicia0o">pozicia frakcio</ref>)</klr>.
+      <ref cel="frakci.pozicia0o">pozicia frakcio</ref>)</klr>:
+      <ekz>
+        al la dekuma 0,75 respondas la duuma 0,11 (samkiel la dekuma
+        kvocienta <tld/>o &#190;)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=389772'>Pozicia
+          frakcio</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="ca">
     <trd>fracci&oacute; <klr>(nombre fraccionari)</klr></trd>,
     <trd>nombre trencat</trd>
   </trdgrp>
-  <trd lng="cs">podílový zlomek</trd>
+  <trd lng="cs">pod&iacute;lov&yacute; zlomek</trd>
   <trd lng="de">gew&ouml;hnlicher <ind>Bruch</ind></trd>
   <trdgrp lng="en">
     <trd>common <ind>fraction</ind></trd>,
@@ -446,7 +509,7 @@
   <trd lng="pl">u&lstroke;amek zwyk&lstroke;y</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_t;&c_a;&c_ja;
   <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
-  <trd lng="sk">podielový zlomok</trd>
+  <trd lng="sk">podielov&yacute; zlomok</trd>
 </drv>
 
 <drv mrk="frakci.numa0o">
@@ -513,11 +576,14 @@
       <ref tip="super" cel="prezen1.numa0o">n-uma prezento</ref>
       de reelo, precipe se &gcirc;i ne estas entjero:
       <ekz>
-        el &ccirc;iaj poziciaj <tld/>oj por komputiko plej gravas la dekumaj,
-        kiel <frm>0,75</frm>, kaj la duumaj, kiel <frm>0,11</frm>
-        <klr>(tiuj du
-        skriba&jcirc;oj prezentas unu saman nombron <frm>&#190;</frm>
-        en siaj respektivaj nombrosistemoj)</klr>;
+        en la komputiloj estas uzataj duumaj <klr>[...]</klr> 
+        poziciaj <tld/>oj, tiel al la dekuma 0,75 respondas la duuma
+        0,11
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=389772'>Pozicia
+          frakcio</url></lok>
+        </fnt>;
       </ekz>
       <ekz>
         se pozicia <tld/>o konsistas el finia nombro <frm><k>p</k></frm>
@@ -556,8 +622,8 @@
     lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
     <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
   </snc>
-  <trd lng="cs">poziční zlomek</trd>
-  <trd lng="sk">pozičný zlomok</trd>
+  <trd lng="cs">pozi&ccaron;n&iacute; zlomek</trd>
+  <trd lng="sk">pozi&ccaron;n&yacute; zlomok</trd>
 </drv>
 
 <drv mrk="frakci.racionala0o">
@@ -593,6 +659,15 @@
 </art>
 <!--
 $Log: frakci.xml,v $
+Revision 1.47  2017/06/13 10:10:11  revo
+Ludoviko Francisco: +trd fr
+
+Revision 1.46  2017/06/12 19:10:13  revo
+Wolfram Diestel: pliaj ekz-oj, shovis adm iom posten
+
+Revision 1.45  2017/06/06 06:10:14  revo
+Wolfram Diestel: ekz-oj de ~o.POL
+
 Revision 1.44  2015/07/04 08:37:34  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -606,20 +681,5 @@ Revision 1.41  2011/11/23 14:10:08  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.40  2009/02/22 17:30:43  revo
-Russ Williams: +trd en
-
-Revision 1.39  2007/06/10 16:30:57  revo
-Tulio Flores: +tr pt
-
-Revision 1.38  2003/05/09 16:31:25  revo
-Marc Bavant: ~o: mod rim
-
-Revision 1.37  2003/04/21 16:34:10  revo
-Marc Bavant: dekuma ~o: mod trd en/de; duuma ~o: mod trd en/fr, -adm;
-pozicia ~o: mod dif
-Revision 1.36  2003/04/07 16:35:08  revo
-Marc Bavant: ~o MAT: mod mod rim
-Revision 1.35  2003/03/23 17:32:53  revo
-Marc Bavant: algebra ~o: +trd pl
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kusen.xml,v 1.23 2015/07/26 04:10:15 revo Exp $">
+<art mrk="$Id: kusen.xml,v 1.24 2017/12/20 21:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kusen</rad>/o
@@ -55,6 +55,22 @@
     <trd>vank&uacute;&scaron;</trd>
   </trdgrp>
   <trd lng="sv">kudde</trd>
+</drv>
+
+<drv mrk="kusen.0ego">
+  <kap><ofc>*</ofc><tld/>ego <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5078">kusen'eg'</url></lok></fnt></kap>
+  <snc>
+    <dif>
+    Longa sako el tolo, plenigita de plumoj, sur kiu oni povas ku&scirc;i.
+    </dif>
+  </snc>
+    <trd lng="en">bolster</trd>
+    <trdgrp lng="fr">
+    <trd>couette</trd>,
+    <trd>lit de plumes</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kusen.kap0o">
@@ -141,6 +157,9 @@
 </art>
 <!--
 $Log: kusen.xml,v $
+Revision 1.24  2017/12/20 21:10:14  revo
+Michel Cantigneaux: Aldono de "kusen/eg/o", fundamenta kunmetajxo el la U.V.
+
 Revision 1.23  2015/07/26 04:10:15  revo
 Guillermo Molleda Jimena: trd es kaj en
 
@@ -160,8 +179,5 @@ Revision 1.18  2009/09/22 17:17:31  revo
 Paul Peeraerts: +nl
 
 Revision 1.17  2009/01/17 18:09:26  revo
-Wieland Pusch: +trd bg,de
-
-Revision 1.16  2007/12/09 17:30:52  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxi.xml,v 1.30 2016/11/20 13:10:15 revo Exp $">
+<art mrk="$Id: sxi.xml,v 1.33 2017/12/19 23:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;i</rad>
@@ -75,21 +75,27 @@
     <trd>ella</trd>,
     <trd>lei</trd>
   </trdgrp>
+  <trd lng="ja">&#24444;&#22899; [<ind>&#12363;&#12398;&#12376;&#12423;</ind>]<klr> (&#20195;&#21517;&#35422;)</klr></trd>
   <trd lng="nl">zij</trd>
   <trd lng="pl">ona</trd>
   <trd lng="pt">ela</trd>
   <trd lng="ru">&c_o;&c_n;&c_a;</trd>
   <trd lng="sv">hon</trd>
-  <trd lng="tp">ona</trd>
+  <trdgrp lng="tp">
+    <trd>ona</trd>,
+    <trd>meli ni</trd>
+  </trdgrp>
   <trd lng="vo">of</trd>
-  <trd lng="zh">&#22905;<klr> [t&#257;]</klr></trd>
+  <trd lng="zh">&#22905; [<ind>t&#257;</ind>]</trd>
 </drv>
 
 <drv mrk="sxi.0a">
-  <kap><tld/>a</kap>
+  <kap><ofc>*</ofc><tld/>a <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5196">&scirc;i'a</url></lok></fnt></kap>
   <snc>
     <dif>
-      Rilata al priparolata ina persono:
+      Posedata de <tld/>, rilata al <tld/>:
       <ekz>
         la re&gcirc;ino kaj <tld/>a familio signifas malpopularan
         anakronismon<fnt><aut>W. H. Simcock</aut>:
@@ -115,20 +121,33 @@
   <trd lng="id"><ind>milik</ind>nya (perempuan)</trd>
   <trd lng="io">elua</trd>
   <trd lng="it">suo<klr> (di lei)</klr></trd>
+  <trd lng="ja">&#24444;&#22899;&#12398; [<ind>&#12363;&#12398;&#12376;&#12423;&#12398;</ind>]</trd>
   <trd lng="nl">haar</trd>
   <trd lng="pl">jej</trd>
   <trd lng="ru">&c_je;&c_jo;<klr tip="amb">(&c_ch;&c_je;&c_j;?)</klr></trd>
   <trd lng="sv">hennes</trd>
-  <trd lng="tp">ona</trd>
+  <trdgrp lng="tp">
+    <trd>ona</trd>,
+    <trd>pi meli ni</trd>
+  </trdgrp>
   <trdgrp lng="vo">
     <trd>ofik</trd>,
     <trd>ofa</trd>
   </trdgrp>
-  <trd lng="zh">&#22905;&#30340;<klr> [t&#257;de]</klr></trd>
+  <trd lng="zh">&#22905;&#30340; [<ind>t&#257;de</ind>]</trd>
 </drv>
 </art>
 <!--
 $Log: sxi.xml,v $
+Revision 1.33  2017/12/19 23:10:19  revo
+Michel Cantigneaux: "sxi/a" fundamenta kunmetajxo el la U.V.
+
+Revision 1.32  2017/12/11 12:10:15  revo
+Robin van der Vliet: koherigi
+
+Revision 1.31  2017/11/06 14:10:14  revo
+Sam Penter: +trd ja,tp
+
 Revision 1.30  2016/11/20 13:10:15  revo
 Robin van der Vliet: +trd en, fy, io, nl, sv, vo
 
@@ -142,14 +161,5 @@ Revision 1.27  2014/06/07 15:10:20  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.26  2009/04/01 16:30:47  revo
-Antonio Codazzi: +trd it
-
-Revision 1.25  2008/06/11 16:48:26  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.24  2007/07/28 16:30:19  revo
-Harri Laine: +trd fi
-
-Revision 1.23  2007/01/07 17:31:19  revo
 -->
 </vortaro>

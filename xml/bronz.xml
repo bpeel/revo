@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bronz.xml,v 1.25 2017/02/25 19:10:17 revo Exp $">
+<art mrk="$Id: bronz.xml,v 1.26 2017/09/13 22:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bronz</rad>/o <fnt><bib>PV</bib></fnt>
@@ -23,7 +23,9 @@
         sonoriloj, kiuj havas la kolorojn de <tld/>o kaj kupro
         <fnt>
           <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007297.html'>Kolekti sonorilojn</url></vrk>
+          <vrk><url
+          ref='http://www.esperanto.be/fel/mon/007297.html'>Kolekti
+          sonorilojn</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -71,6 +73,7 @@
     <trd>bronze <klr tip="ind">(m&eacute;tal)</klr></trd>
   </trdgrp>
   <trd lng="hu">bronz</trd>
+  <trd lng="nl">brons</trd>
   <trd lng="pl">br&aogonek;z</trd>
   <trd lng="pt">bronze</trd>
   <trd lng="ru">&c_b;&c_r;&c_o;&c_n;&c_z;&c_a;</trd>
@@ -95,7 +98,9 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Laimius Straznickas</aut>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/006824.html'>Litovio: Monda &ccirc;ampionado de dancoj</url></vrk>
+          <vrk><url
+          ref='http://www.esperanto.be/fel/mon/006824.html'>Litovio:
+          Monda &ccirc;ampionado de dancoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -138,6 +143,7 @@
     <trd>bronz-</trd>,
     <trd>bronzb&oacute;l k&eacute;sz&uuml;lt</trd>
     </trdgrp>
+    <trd lng="nl">bronzen</trd>
     <trdgrp lng="pl">
       <trd>z <ind>br&aogonek;zu</ind></trd>,
       <trd>br&aogonek;zowy<klr> (z br&aogonek;zu)</klr></trd>
@@ -154,7 +160,8 @@
         lst="voko:koloroj">kolora</ref>)</klr>;
       </ekz>
       <ekz>
-        kiam mi etendos mian <tld/>an manon, ili falos sur la viza&gcirc;on kaj la tuta malordo fini&gcirc;os per paco kaj &gcirc;enerala prospero
+        kiam mi etendos mian <tld/>an manon, ili falos sur la viza&gcirc;on
+        kaj la tuta malordo fini&gcirc;os per paco kaj &gcirc;enerala prospero
         <fnt>
           <bib>Far3</bib>
           <lok>&Ccirc;apitro XV</lok>
@@ -209,7 +216,9 @@
         li <tld/>is ilian duron
         <fnt>
           <aut>Ken Miner</aut>
-          <vrk><url ref='http://www.sunflower.com/~miner/POEZIO_package/poezio.html'>Tiel malgranda lando</url></vrk>
+          <vrk><url
+          ref='http://www.sunflower.com/~miner/POEZIO_package/poezio.html'>Tiel
+          malgranda lando</url></vrk>
           <lok>poezio - sunflower.com</lok>
         </fnt>.
       </ekz>
@@ -229,7 +238,9 @@
         kaj edzino kies ha&ubreve;to <tld/>as per la natura brun'
         <fnt>
           <aut>Carl Anton Axelsson, trad. Sten Johansson</aut>
-          <vrk><url ref='http://www.angelfire.com/ok/stenjo/mevoj.html'>Valso kun mevoj</url></vrk>
+          <vrk><url
+          ref='http://www.angelfire.com/ok/stenjo/mevoj.html'>Valso kun
+          mevoj</url></vrk>
           <lok>angelfire.com</lok>
         </fnt>.
       </ekz>
@@ -260,7 +271,8 @@
     <dif>
       Objekto el <tld/>o, plej ofte artisma:
       <ekz>
-        mi sendos al vi specimenojn de tieaj teksa&jcirc;oj, arboj kaj <tld/>a&jcirc;oj
+        mi sendos al vi specimenojn de tieaj teksa&jcirc;oj, arboj kaj
+        <tld/>a&jcirc;oj
         <fnt>
           <bib>Far3</bib>
           <lok>&Ccirc;apitro VI</lok>
@@ -283,6 +295,9 @@
 <!--
 
 $Log: bronz.xml,v $
+Revision 1.26  2017/09/13 22:10:21  revo
+Piet Glorieux: aldono de tradukoj por 'bronzo' kaj 'bronza'
+
 Revision 1.25  2017/02/25 19:10:17  revo
 Wolfram Diestel: ekz-oj
 
@@ -302,9 +317,6 @@ Revision 1.20  2011/06/16 13:10:09  revo
 Jeromo Vasxe: - num + mrk
 
 Revision 1.19  2009/09/22 17:17:15  revo
-Wieland Pusch: +trd bg
-
-Revision 1.18  2009/08/18 19:18:50  revo
 -->
 
 </vortaro>

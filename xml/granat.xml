@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: granat.xml,v 1.27 2016/02/03 10:10:19 revo Exp $">
+<art mrk="$Id: granat.xml,v 1.28 2017/04/17 11:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>granat</rad>/o <fnt><bib>PV</bib></fnt>
@@ -53,7 +53,7 @@
       Arbusto, <ref tip="lst" cel="genr.0o.BIO"
       lst="voko:botanikaj_genroj">genro</ref> el familio <ref
       tip="malprt"
-      cel="granat1.0oj"><tld/>ujacoj</ref>
+      cel="litrum1.0oj">litrumacoj</ref>
       (<trd lng="la">Punica</trd>):
       <ekz>
         eleganta <tld/>arbo moketas figarbon,
@@ -92,6 +92,9 @@
 </art>
 <!--
 $Log: granat.xml,v $
+Revision 1.28  2017/04/17 11:10:17  revo
+Wolfram Diestel: nova familio: litrumacoj
+
 Revision 1.27  2016/02/03 10:10:19  revo
 Warut Bunprasert: +trd th
 
@@ -111,8 +114,5 @@ Revision 1.22  2013/08/30 14:11:18  revo
 Wolfram Diestel: kor. lst-ref
 
 Revision 1.21  2013/08/26 19:10:43  revo
-Wolfram Diestel: referenco al listo bot genroj
-
-Revision 1.20  2012/08/19 00:11:03  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxiel.xml,v 1.15 2015/10/11 14:10:16 revo Exp $">
+<art mrk="$Id: cxiel.xml,v 1.16 2017/10/21 22:10:18 revo Exp $">
   <kap>
     <ofc>*</ofc>
     <rad>&ccirc;iel</rad>
@@ -46,6 +46,11 @@
       <trd>de toda a maneira</trd>,
       <trd>de todo modo</trd>
     </trdgrp>
+    <trdgrp lng="ro">
+      <trd>in orice fel</trd>,
+      <trd>in toate modurile</trd>,
+      <trd>in orice caz </trd>,
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_v;&c_s;&c_ja;&c_ch;&c_je;&c_s;&c_k;&c_i;</trd>,
       <trd>&c_p;&c_o;-&c_v;&c_s;&c_ja;&c_k;&c_o;&c_m;&c_u;</trd>,
@@ -57,6 +62,9 @@
 </art>
 <!--
 $Log: cxiel.xml,v $
+Revision 1.16  2017/10/21 22:10:18  revo
+Vito Redsky: +trd ro
+
 Revision 1.15  2015/10/11 14:10:16  revo
 Evandro Avellar: +trd pt
 
@@ -76,8 +84,5 @@ Revision 1.10  2003/03/28 17:31:51  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2002/08/24 17:32:38  revo
-Allon Rothfarb: +trd he
-
-Revision 1.8  2001/10/11 18:18:05  revo
 -->
 </vortaro>

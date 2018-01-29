@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: drak.xml,v 1.22 2015/07/04 08:37:32 revo Exp $">
+<art mrk="$Id: drak.xml,v 1.25 2017/04/20 08:10:14 revo Exp $">
 <kap>
  <ofc>*</ofc>
  <rad>drak</rad>/o
@@ -74,16 +74,23 @@
  </snc>
   <trdgrp lng="cs">
     <trd>drak</trd>,
-    <trd>saň</trd>
+    <trd>sa&ncaron;</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>drak</trd>,
-    <trd>šarkan</trd>
+    <trd>&scaron;arkan</trd>
   </trdgrp>
 </drv>
 
 <drv mrk="drak.D0o">
- <kap><tld lit="D"/>o</kap>
+ <kap><tld lit="D"/>o
+    <fnt>
+      <aut>Galad&iacute;-Enr&iacute;quez, David; Wandel, Amri</aut>:
+      <vrk>La kosmo kaj ni. Galaksioj, planedoj kaj vivo en la
+      universo</vrk>.
+      <lok>FEL, Antverpeno, 2005</lok>
+    </fnt>
+ </kap>
  <mlg>Dra</mlg>
  <snc mrk="drak.D0o.AST">
    <uzo tip="fak">AST</uzo>
@@ -96,18 +103,18 @@
   <trd lng="ca">el Drag&oacute;</trd>
   <trdgrp lng="cs">
     <trd>drak</trd>,
-    <trd>saň</trd>
+    <trd>sa&ncaron;</trd>
   </trdgrp>
   <trd lng="de">Drache</trd>
   <trd lng="en">Draco</trd>
   <trd lng="es">Drag&oacute;n</trd>
-  <trd lng="fr">Dragon<klr> (constellation)</klr></trd>
+  <trd lng="fr">Dragon<klr tip="ind"> (constellation)</klr></trd>
   <trd lng="it">Dragone<klr> (astr.)</klr></trd>
   <trd lng="nl">Draak</trd>
   <trd lng="pl">Smok</trd>
   <trdgrp lng="sk">
     <trd>drak</trd>,
-    <trd>šarkan</trd>
+    <trd>&scaron;arkan</trd>
   </trdgrp>
 </drv>
 
@@ -115,13 +122,18 @@
  <kap>flug<tld/>o</kap>
  <snc mrk="drak.flug0o.SPO">
    <uzo tip="fak">SPO</uzo>
+   <ekz> La ventoj [...] portis iliajn flug<tld/>ojn al la altoj
+    <fnt>
+      <aut>Stellan Engholm</aut>:
+      <vrk>Homoj sur la Tero</vrk>.
+    </fnt></ekz>
    <ref tip="dif" cel="kajt.0o">kajto</ref>
  </snc>
   <trdgrp lng="ca">
    <trd>estel</trd>,
    <trd>milotxa</trd>
  </trdgrp>
-  <trd lng="cs">drak <klr>(hračka| letadlo)</klr></trd>
+  <trd lng="cs">drak <klr>(hra&ccaron;ka| letadlo)</klr></trd>
   <trd lng="de">Flugdrache</trd>
   <trd lng="fr">cerf-volant</trd>
   <trdgrp lng="id">
@@ -131,11 +143,20 @@
   <trd lng="it">aquilone</trd>
   <trd lng="nl">vlieger</trd>
   <trd lng="ru">&c_v;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j; &c_z;&c_m;&c_je;&c_j;</trd>
-  <trd lng="sk">šarkan</trd>
+  <trd lng="sk">&scaron;arkan</trd>
 </drv>
 </art>
 <!--
 $Log: drak.xml,v $
+Revision 1.25  2017/04/20 08:10:14  revo
+Ludoviko Francisco: kor ekz
+
+Revision 1.24  2017/04/19 20:10:28  revo
+Ludoviko Francisco: +ekz
+
+Revision 1.23  2017/04/18 13:10:26  revo
+Ludoviko Francisco: +fnt +ind klr trd fr
+
 Revision 1.22  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -149,20 +170,5 @@ Revision 1.19  2013/08/25 08:10:25  revo
 Wolfram Diestel: referenco al listo stelfiguroj
 
 Revision 1.18  2012/07/20 13:10:21  revo
-Marc Rausell: + trd ca
-
-Revision 1.17  2012/01/23 12:10:09  revo
-Joop Eggen: +trd nl
-
-Revision 1.16  2010/06/07 16:30:33  revo
-Antonio Codazzi: +trd it
-
-Revision 1.15  2007/11/06 18:57:30  revo
-Jeromo Vasxe: - ~sxipo jam en artikolo sxip, + kk ekz
-
-Revision 1.14  2007/10/31 17:30:26  revo
-Sebastian Cyprych: +ref Levjatano,Behemoto,hximero +drv ~sxipo
-
-Revision 1.13  2007/09/02 16:30:25  revo
 -->
 </vortaro>

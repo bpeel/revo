@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pes.xml,v 1.30 2016/11/03 16:10:15 revo Exp $">
+<art mrk="$Id: pes.xml,v 1.34 2017/12/20 10:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pes</rad>/i
@@ -11,7 +11,7 @@
 <drv mrk="pes.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="pes.0i.pezon">
     <dif>
       Mezuri la pezon de objekto, komparante tiun pezon al alia pezo
       elektita kiel unuo:
@@ -32,7 +32,7 @@
     <trd lng="hu">m&eacute;r<klr tip="ind"> (s&uacute;lyt)</klr></trd>
     <trd lng="nl">wegen<klr tip="ind"> (gewicht bepalen)</klr></trd>
   </snc>
-  <snc>
+  <snc mrk="pes.0i.valoron">
     <uzo tip="stl">FIG</uzo>
     <dif>
       Esplori la valoron de, taksi, ekzameni:
@@ -45,11 +45,12 @@
       <ekz>
         longe pripensadi kaj
         <tld/>adi <klr>(singarde eldiri)</klr> &ccirc;iun sian
-        vorton<fnt>Z</fnt>;
+        vorton<fnt><bib>LR</bib>, <lok>Respondo 3, La Revuo, 1906,
+        Decembro</lok></fnt>;
       </ekz>
       <ekz>
-        la sorto de la &scirc;tato estas nun
-        <tld/>ata<fnt>B</fnt>.
+        estas <tld/>ata sorto de la &scirc;tato
+        <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 11a</lok></fnt>.
       </ekz>
     </dif>
     <trd lng="ca">sospesar</trd>
@@ -85,7 +86,9 @@
 </drv>
 
 <drv mrk="pes.0ilo">
-  <kap><tld/>ilo</kap>
+  <kap><ofc>*</ofc><tld/>ilo <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5156">pes'il'</url></lok></fnt></kap>
   <snc>
     <dif>
       Diversforma aparato por precize taksi la pezon:
@@ -93,7 +96,18 @@
         vekta, risorta <tld/>ilo;
       </ekz>
       <ekz>
-        <tld/>iltaso<fnt>Z</fnt>.
+        &Gcirc;usta <tld/>ilo kaj &gcirc;ustaj <ind><tld/>iltaso</ind><trd
+        lng="fr">plateau<klr tip="ind"> de balance</klr></trd>j
+        estas de la Eternulo
+        <fnt><bib>MT</bib><lok>&Sen; 16:11</lok></fnt>;
+      </ekz>
+      <ekz>
+        Kruko konstatas sur <tld/>ilo, ke li perdis du funtojn
+        <fnt>
+        <aut>Louis Beaucaire</aut>
+        <vrk>Kruko kaj Baniko en Bervalo</vrk>
+        <lok>A new approach</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -183,6 +197,18 @@ zodiaque)</klr></trd>
 </art>
 <!--
 $Log: pes.xml,v $
+Revision 1.34  2017/12/20 10:10:20  revo
+Michel Cantigneaux: "pes/il/o" fundamenta kunmetajxo el la U.V.
+
+Revision 1.33  2017/09/24 14:10:13  revo
+Wolfram Diestel: snc mrk
+
+Revision 1.32  2017/06/06 16:10:19  revo
+Ludoviko Francisco: +trd
+
+Revision 1.31  2017/06/01 10:10:14  revo
+Ludoviko Francisco: +fnt +ekz
+
 Revision 1.30  2016/11/03 16:10:15  revo
 Warut Bunprasert: +trd th
 
@@ -193,17 +219,5 @@ Revision 1.28  2015/06/29 16:40:18  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.27  2014/06/06 15:10:47  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.26  2013/09/23 19:10:23  revo
-Wolfram Diestel: ref al list zodiakoaj signoj, mlg
-
-Revision 1.25  2012/01/05 16:10:22  revo
-Marc Rausell: +trd ca (kor)
-
-Revision 1.24  2010/10/04 16:31:18  revo
-Agustin Garcia Lopez: +trd es (-i)
-
-Revision 1.23  2007/01/13 17:30:48  revo
 -->
 </vortaro>

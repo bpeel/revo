@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kun.xml,v 1.47 2017/02/17 15:10:14 revo Exp $">
+<art mrk="$Id: kun.xml,v 1.49 2017/11/06 17:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kun</rad> <fnt><bib>PV</bib></fnt>
@@ -855,6 +855,7 @@
 
   <drv mrk="kun.seks0igxi">
     <kap>seks<tld/>i&gcirc;i</kap>
+    <gra><vspec>ntr</vspec></gra>
     <snc mrk="kun.seks0igxi.AMOR">
       <dif>
         Havi seksan rilaton:
@@ -1005,7 +1006,7 @@
     <kap>viv<tld/>ulino</kap>
     <snc mrk="kun.viv0ulino.MOR">
       <dif>
-        Ina vivkunulo:
+        Inseksa <ref tip="super" cel="kun.viv0ulo">viv<tld/>ulo</ref>:
         <ekz>
           li sincere amegis sian viv<tld/>ulinon <klr>[kaj]</klr>
           por nenio en la mondo li volus &ccirc;agreni &scirc;in
@@ -1146,6 +1147,12 @@
 </art>
 <!--
 $Log: kun.xml,v $
+Revision 1.49  2017/11/06 17:10:16  revo
+Sam Penter: seks~igxi +vspec
+
+Revision 1.48  2017/10/31 19:10:31  revo
+Robin van der Vliet: +super
+
 Revision 1.47  2017/02/17 15:10:14  revo
 Robin van der Vliet: disigita kaj plibonigita
 
@@ -1162,11 +1169,5 @@ Revision 1.43  2014/12/14 11:10:42  revo
 Jeromo Vasxe: + re~igi
 
 Revision 1.42  2014/10/30 17:10:20  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.41  2014/01/09 19:10:14  revo
-Jeromo Vasxe: kor en dif
-
-Revision 1.40  2014/01/08 21:10:11  revo
 -->
 </vortaro>

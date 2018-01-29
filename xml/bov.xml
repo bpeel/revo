@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bov.xml,v 1.63 2016/11/20 02:10:16 revo Exp $">
+<art mrk="$Id: bov.xml,v 1.66 2017/12/18 23:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bov</rad>/o <fnt><bib>PV</bib></fnt>
@@ -18,7 +18,11 @@
       <ref tip="lst" cel="genr.0o.BIO"
       lst="voko:zoologiaj_genroj">genro</ref> el familio
       <ref tip="malprt" cel="boved.0oj">bovedoj</ref>
-      (<trd lng="la">Bos</trd>).
+      (<trd lng="la">Bos</trd>):
+      <ekz>li &scirc;ar&gcirc;is &ccirc;aron per ligno, jungis du <tld/>ojn kaj veturis en
+      la urbon
+        <fnt><bib>ElektFab</bib>, <lok>Doktoro &Ccirc;ioscia</lok></fnt>.
+      </ekz>
     </dif>
   </snc>
   <bld lok="../bld/bov.jpg">
@@ -126,7 +130,18 @@
   <snc mrk="bov.0ajxo.KUI">
     <uzo tip="fak">KUI</uzo>
     <dif>
-      Viando de <tld/>o.
+      Viando de <tld/>o:
+      <ekz>mi ne tre amas <tld/>a&jcirc;on, &gcirc;i ne estas sufi&ccirc;e suka
+        <fnt><bib>ElektFab</bib>, <lok>Feli&ccirc;a Jo&ccirc;jo</lok></fnt>;
+      </ekz>
+      <ekz>li kontenti&gcirc;is per peco de kuirita <tld/>a&jcirc;o kaj porcio da
+      fragoj kaj kremo
+        <fnt>
+          <aut>Jerome K. Jerome, trad. G. Badash</aut>
+          <vrk>Tri Viroj en Boato</vrk>
+          <lok>&ccirc;apitro 1a</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_ja;&c_l;&c_a;&c_v;&c_ib;&c_ch;&c_y;&c_n;&c_a;</trd>
@@ -152,6 +167,7 @@
   <trd lng="ru">&c_g;&c_o;&c_v;&c_ja;&c_d;&c_i;&c_n;&c_a;</trd>
   <trd lng="sk">hov&auml;dzie</trd>
   <trd lng="tr">s&inodot;&gbreve;&inodot;r eti</trd>
+  <trd lng="vo">bubamit</trd>
 </drv>
 
 <drv mrk="bov.0idajxo">
@@ -159,7 +175,21 @@
   <snc mrk="bov.0idajxo.KUI">
     <uzo tip="fak">KUI</uzo>
     <dif>
-      Viando de <tld/>ido.
+      Viando de <tld/>ido:
+      <ekz>&scirc;i man&gcirc;is nek <tld/>ida&jcirc;on, nek kolombojn
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>&ccirc;apitro 20a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>tiu fripona hundo &gcirc;in ne tu&scirc;is, &ccirc;ar tio estis <tld/>ida&jcirc;o
+            <fnt>
+              <aut>Jaroslav Ha&scaron;ek, trad. Vladim&iacute;r V&aacute;&ncaron;a</aut>
+              <vrk>La aventuroj de la brava soldato &Scirc;vejk dum la
+              mondmilito, parto 3</vrk>
+              <lok>&ccirc;apitro 1a</lok>
+            </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="ca">carn de vedella</trd>
@@ -168,10 +198,12 @@
   <trd lng="fa">&f_g;&a_w;&a_sh;&a_t; &f_g;&a_w;&a_s;&a_A;&a_l;&a_h;</trd>
   <trd lng="nl">kalfsvlees</trd>
   <trd lng="pl">ciel&eogonek;cina</trd>
+  <trd lng="vo">bub&uuml;lamit</trd>
 </drv>
 
 <drv mrk="bov.0ido">
-  <kap><tld/>ido</kap>
+  <kap><ofc>*</ofc><tld/>ido
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, -id'</lok></fnt></kap>
   <snc mrk="bov.0ido.AGR">
     <dif>
       Ido de <tld/>o:
@@ -202,6 +234,7 @@
   </trdgrp>
   <trd lng="he">&ayin;&gimel;&lamed;</trd>
   <trd lng="hu">borj&uacute;</trd>
+  <trd lng="io">bovyuno</trd>
   <trd lng="it">vitello</trd>
   <trd lng="nl">kalf</trd>
   <trd lng="no">kalv</trd>
@@ -212,10 +245,12 @@
   <trd lng="pt">bezerro</trd>
   <trd lng="sk">te&lcaron;a</trd>
   <trd lng="tr">buza&gbreve;&inodot;</trd>
+  <trd lng="vo">bub&uuml;l</trd>
 </drv>
 
 <drv mrk="bov.0ino">
-  <kap><tld/>ino</kap>
+  <kap><ofc>*</ofc><tld/>ino
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, -in'</lok></fnt></kap>
   <snc mrk="bov.0ino.AGR">
     <uzo tip="fak">AGR</uzo>
     <dif>
@@ -289,6 +324,7 @@
         <trd lng="br">ejen</trd>
         <trd lng="ca">bou</trd>
         <trd lng="fr">b&oelig;uf<klr tip="ind"> (castr&eacute;)</klr></trd>
+        <trd lng="nl">os</trd>
         <trd lng="vo">hobub</trd>
       </ekz>
     </dif>
@@ -366,6 +402,15 @@
 </art>
 <!--
 $Log: bov.xml,v $
+Revision 1.66  2017/12/18 23:10:26  revo
+Michel Cantigneaux: "bov/id/o", "bov/in/o"  ekzemploj en la Universala Vortaro, do fundamentaj
+
+Revision 1.65  2017/06/03 15:10:16  revo
+Robin van der Vliet: +trd
+
+Revision 1.64  2017/06/01 09:10:15  revo
+Ludoviko Francisco: +ekz
+
 Revision 1.63  2016/11/20 02:10:16  revo
 Robin van der Vliet: +trd io, vo
 
@@ -379,14 +424,5 @@ Revision 1.60  2015/06/29 16:29:36  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.59  2014/06/06 04:11:00  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.58  2013/09/23 19:10:18  revo
-Wolfram Diestel: ref al list zodiakoaj signoj, mlg
-
-Revision 1.57  2013/09/01 13:10:57  revo
-Wolfram Diestel: referenco al listo zoo genroj
-
-Revision 1.56  2013/08/25 08:10:47  revo
 -->
 </vortaro>

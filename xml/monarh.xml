@@ -2,20 +2,32 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: monarh.xml,v 1.17 2013/08/23 14:10:13 revo Exp $">
+<art mrk="$Id: monarh.xml,v 1.19 2017/12/21 17:10:28 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>monar&hcirc;</rad>/o, <var><kap>monark/o
+  <rad>monar&hcirc;</rad>/o, <var><kap><ofc>8</ofc>monark/o
 </kap></var></kap>
 
 <drv mrk="monarh.0o">
-  <kap><ofc>*</ofc><tld/>o</kap>
+  <kap><ofc>*</ofc><tld/>o,
+  <var><kap><ofc>8</ofc>monarko <fnt><lok>Akademio de Esperanto, <url
+  ref="http://www.akademio-de-esperanto.org/aktoj/aktoj2/8oa.html">8a
+  Oficiala Aldono</url>, II.A.1</lok></fnt></kap></var>
+  </kap> 
   <uzo tip="fak">JUR</uzo>
   <uzo tip="fak">POL</uzo>
   <snc>
     <dif>
       Regnestro en <ref tip="malprt" cel="monarh1">monarkio</ref>:
-      emiro, &hcirc;alifo, &hcirc;ano, imperiestro, princo, re&gcirc;o, sultano ktp.
+      emiro, &hcirc;alifo, &hcirc;ano, imperiestro, princo, re&gcirc;o, sultano ktp.:
+      <ekz>
+        la filo de potenca <tld/>o
+        <fnt>
+          <aut>Wilhelm Hauff, trad. J. W. Eggleton</aut>
+          <vrk><url ref="http://www.gutenberg.org/ebooks/22070"> La
+          Karavano</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>                      
   <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_r;&c_h;</trd>
@@ -42,7 +54,7 @@
 </drv>
 
 <drv mrk="monarh.0ismo">
-  <kap><tld/>ismo</kap>
+  <kap><tld/>ismo, <var><kap>monarkismo</kap></var></kap>
   <uzo tip="fak">POL</uzo>
   <snc>
     <dif>
@@ -68,7 +80,7 @@
 </drv>
 
 <drv mrk="monarh.0isto">
-  <kap><tld/>isto</kap>
+  <kap><tld/>isto, <var><kap>monarkisto</kap></var></kap>
   <uzo tip="fak">POL</uzo>
   <snc>
     <dif>
@@ -94,6 +106,12 @@
 </art>
 <!--
 $Log: monarh.xml,v $
+Revision 1.19  2017/12/21 17:10:28  revo
+Michel Cantigneaux: aldono ligilo al la 8a OA
+
+Revision 1.18  2017/11/28 08:10:13  revo
+Andrew Sly: + ekz
+
 Revision 1.17  2013/08/23 14:10:13  revo
 Joop Eggen: +trd bg
 
@@ -110,11 +128,5 @@ Revision 1.13  2008/12/11 17:31:14  revo
 Alejandro Mejia Greene: ald his trdk
 
 Revision 1.12  2007/06/04 16:30:22  revo
-Wieland Pusch: +trd de
-
-Revision 1.11  2006/08/07 16:33:03  revo
-Tulio Flores: +tr pt
-
-Revision 1.10  2005/05/26 16:31:06  revo
 -->
 </vortaro>

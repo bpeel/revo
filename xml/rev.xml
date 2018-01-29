@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rev.xml,v 1.35 2017/03/28 17:10:13 revo Exp $">
+<art mrk="$Id: rev.xml,v 1.37 2017/12/20 13:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rev</rad>/i <fnt><bib>PV</bib></fnt>
@@ -44,6 +44,11 @@
     <trd>daydream</trd>,
     <trd>muse</trd>,
     <trd>be in a reverie</trd>
+  </trdgrp>
+<trdgrp lng="it">
+    <trd>sognare <klr>(a occhi aperti)</klr></trd>,
+    <trd>fantasticare</trd>,
+    <trd>vagheggiare</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>so&ntilde;ar <klr>(despierto)</klr></trd>,
@@ -160,6 +165,11 @@
     <trd>aspiraci&oacute;n</trd>,
     <trd>ilusi&oacute;n</trd>
   </trdgrp>
+  <trdgrp lng="it">
+    <trd>sogno <klr>(aspirazione)</klr></trd>,
+    <trd>fantasticheria</trd>,
+    <trd>illusione</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>r&ecirc;verie</trd>,
     <trd>r&ecirc;ve<klr tip="amb"> (&eacute;veill&eacute;)</klr></trd>
@@ -256,6 +266,10 @@
     <trd>so&ntilde;ador (persona)</trd>,
     <trd>iluso</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>sognatore<klr>(persona)</klr></trd>,
+    <trd>illuso</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>r&ecirc;veur<klr> (subst.)</klr></trd>,
     <trd>t&ecirc;te-en-l'air<klr> (subst.)</klr></trd>
@@ -285,6 +299,10 @@
   <trdgrp lng="es">
     <trd>decepcionar</trd>,
     <trd>desilusionar</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>deludere</trd>,
+    <trd>disincantare</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>d&eacute;tromper</trd>,
@@ -325,7 +343,9 @@
 
 <drv mrk="rev.el0igxo">
   <kap>el<tld/>i&gcirc;o,
-  <var><kap>dis<tld/>i&gcirc;o</kap></var>,
+  <var><kap><ofc>*</ofc>dis<tld/>i&gcirc;o <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5181">dis'rev'i&gcirc;'</url></lok></fnt></kap></var>,
   <var><kap>sen<tld/>i&gcirc;o</kap></var></kap>
   <snc mrk="rev.el0igxo.PSI">
     <dif>
@@ -344,6 +364,9 @@
     <trd>disillusionment</trd>,
     <trd>disappointment</trd>,
     <trd>disenchantment</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>delusione</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>decepci&oacute;n</trd>,
@@ -412,6 +435,12 @@
 </art>
 <!--
 $Log: rev.xml,v $
+Revision 1.37  2017/12/20 13:10:15  revo
+Michel Cantigneaux: "dis/rev/igx/o" fundamenta kunmetajxo el la U.V.
+
+Revision 1.36  2017/09/26 13:10:16  revo
+Filippo Botta: traduko italen
+
 Revision 1.35  2017/03/28 17:10:13  revo
 Damien Brucker: +ekz
 
@@ -428,11 +457,5 @@ Revision 1.31  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.30  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.29  2015/04/05 10:10:17  revo
-Carlos Garcia: +trd es -i -o -ema -iga -ulo -igi el-igxi el-igxo
-
-Revision 1.28  2015/03/02 21:10:16  revo
 -->
 </vortaro>

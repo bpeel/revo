@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bird.xml,v 1.54 2016/11/13 00:10:16 revo Exp $">
+<art mrk="$Id: bird.xml,v 1.56 2017/05/31 07:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bird</rad>/o <fnt><bib>PV</bib></fnt>
@@ -204,6 +204,40 @@ lng="ru">&c_v;&c_o;&c_d;&c_o;&c_p;&c_l;&c_a;&c_v;&c_a;&c_ju;&c_shch;&c_a;&c_ja;
   <trd lng="tr">su ku&scedil;u</trd>
 </drv>
 
+<drv mrk="bird.paradiz0o">
+  <kap>paradiz<tld/>o</kap>
+  <snc mrk="bird.paradiz0o.SNC">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Nov-Gvinea <ref tip="lst" cel="bird.0o"
+      lst="voko:birdoj"><tld/>o</ref> kun plenkolora plumaro, <ref
+      tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
+      cel="paradizeed.0oj">paradizeedoj</ref>
+      (<trd lng="la">Paradisaea</trd>):
+      <ekz>kantantaj paradiz<tld/>oj enflugis
+        <fnt>
+          <aut>Franjo Modrijan, trad. John Lundgren</aut>
+          <vrk>Fabeloj</vrk>
+          <lok>&ccirc;apitro 6a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>niaj svedaj fra&ubreve;linoj <klr>[...]</klr> estas nur paseroj
+      kompare kun tiuj &ccirc;i paradiz<tld/>oj kaj kolibroj
+        <fnt>
+          <aut>Oscar Levertin, trad. John Lundgren</aut>
+          <vrk>Uzino 2</vrk>
+          <lok>La fremdlanda voja&gcirc;o de Mathias Waldius</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="paradize.0o">paradizeo</ref>
+  </snc>
+  <trdgrp lng="fr"><trd>paradisier</trd><trd>oiseau de
+  paradis</trd></trdgrp>
+</drv>
+
 <drv mrk="bird.rabo0oj">
   <kap>rabo<tld/>oj, <var><kap>rab<tld/>oj</kap></var></kap>
   <snc mrk="bird.rabo0oj.ZOO">
@@ -316,6 +350,12 @@ tip="amb">
 <!--
 
 $Log: bird.xml,v $
+Revision 1.56  2017/05/31 07:10:13  revo
+Ludoviko Francisco: +ref
+
+Revision 1.55  2017/05/29 11:10:11  revo
+Ludoviko Francisco: +drv
+
 Revision 1.54  2016/11/13 00:10:16  revo
 Carlos Garcia: +trd ro -o vad-, es -o vad~oj nagxo~o
 
@@ -332,12 +372,6 @@ Revision 1.50  2014/05/30 08:10:35  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.49  2013/10/26 19:10:15  revo
-Wolfram Diestel: ref al dinosauroj
-
-Revision 1.48  2013/10/08 20:10:12  revo
-Benito Subejrano: + trd oc
-
-Revision 1.47  2013/09/01 09:10:13  revo
 -->
 
 </vortaro>

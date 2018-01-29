@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tiom.xml,v 1.23 2015/08/25 22:10:15 revo Exp $">
+<art mrk="$Id: tiom.xml,v 1.25 2017/11/17 23:10:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tiom</rad> <fnt><bib>PV</bib></fnt>
@@ -147,6 +147,7 @@
   konas <tld/> homojn</ekz> kaj <ekz>mi konas <tld/> da
   homoj</ekz>"<fnt><bib>LR</bib></fnt>.
   </rim>
+  <trd lng="ro">at&acirc;t</trd>
   <trdgrp lng="sk">
     <trd>nato&lcaron;ko</trd>,
     <trd>to&lcaron;ko</trd>
@@ -178,7 +179,10 @@
         <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 13a</lok></fnt>.
       </ekz>
     </dif>
-    <trd lng="fr">tanti&egrave;me<klr> (adj. ordinal)</klr></trd>
+    <trdgrp lng="fr">
+      <trd>tanti&egrave;me<klr> (adj. ordinal)</klr></trd>,
+      <trd>tant</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_n;&c_o;&c_m;&c_je;&c_r; &c_t;&c_a;&c_k;&c_o;&c_j;-&c_t;&c_o;</trd>,
       <trd>&c_e;&c_n;&c_n;&c_y;&c_j;</trd>
@@ -195,6 +199,7 @@
         <fnt><bib>Lanti</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="fr">tel</trd>
     <trdgrp lng="hu">
       <trd>olyan <ind>sok</ind></trd>,
       <trd>olyan <ind>m&eacute;rv&udblac;</ind></trd>
@@ -237,7 +242,13 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="fr">au point que</trd>
+  <trdgrp lng="fr">
+    <trd>si ... que</trd>,
+    <trd>tellement ... que</trd>,
+    <trd>tant ... que</trd>,
+    <trd>au point que</trd>
+  </trdgrp>
+  <trd lng="pl">tyle &zdot;e</trd>
 </drv>
 
 <drv mrk="tiom.gxis0ke">
@@ -262,6 +273,12 @@
 </art>
 <!--
 $Log: tiom.xml,v $
+Revision 1.25  2017/11/17 23:10:31  revo
+Vito Redsky: +trd pl+trd ro
+
+Revision 1.24  2017/04/05 08:10:15  revo
+Ludoviko Francisco: +trd fr
+
 Revision 1.23  2015/08/25 22:10:15  revo
 Jeromo Vasxe: + gxis~ ke
 
@@ -278,11 +295,5 @@ Revision 1.19  2014/10/28 04:10:35  revo
 Eko Nur Syah Hidayat: +trd id
 
 Revision 1.18  2014/05/03 20:10:21  revo
-Damien Brucker: +tld
-
-Revision 1.17  2014/02/24 02:10:14  revo
-Carlos Garcia: trd+ es
-
-Revision 1.16  2014/02/22 18:10:12  revo
 -->
 </vortaro>

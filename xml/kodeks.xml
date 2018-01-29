@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kodeks.xml,v 1.20 2015/11/20 17:10:42 revo Exp $">
+  <art mrk="$Id: kodeks.xml,v 1.21 2017/09/15 07:10:17 revo Exp $">
     <kap>
       <ofc>9</ofc><rad>kodeks</rad>/o
       <fnt>Z</fnt>
@@ -142,7 +142,7 @@
             </fnt>.
           </ekz>
         </dif>
-        <ref tip="sin" cel="kod.0o.JUR">kodo<sncref/></ref>
+        <ref tip="sin" cel="kod1.0o.JUR">kodo</ref>
         <trd lng="be">&c_k;&c_o;&c_d;&c_e;&c_k;&c_s;</trd>
         <trdgrp lng="de">
           <trd>Kodex</trd>,
@@ -162,6 +162,9 @@
   </art>
   <!--
   $Log: kodeks.xml,v $
+  Revision 1.21  2017/09/15 07:10:17  revo
+  Damien Brucker: -eraro cxe cel en ref
+
   Revision 1.20  2015/11/20 17:10:42  revo
   Joop Eggen: +trd bg
 

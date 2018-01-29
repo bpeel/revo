@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxtup.xml,v 1.38 2016/10/06 08:10:19 revo Exp $">
+<art mrk="$Id: sxtup.xml,v 1.39 2017/12/19 13:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;tup</rad>/o <fnt><bib>PV</bib></fnt>
@@ -121,7 +121,8 @@
 </drv>
 
 <drv mrk="sxtup.0aro">
-  <kap><ofc>*</ofc><tld/>aro</kap>
+  <kap><ofc>*</ofc><tld/>aro
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, -ar'</lok></fnt></kap>
   <snc mrk="sxtup.0aro.ARKI">
     <uzo tip="fak">ARKI</uzo>
     <dif>
@@ -332,6 +333,9 @@
 </art>
 <!--
 $Log: sxtup.xml,v $
+Revision 1.39  2017/12/19 13:10:15  revo
+Michel Cantigneaux: fundamenta "sxtuparo" el la U.V. (-ar-)
+
 Revision 1.38  2016/10/06 08:10:19  revo
 Sebastian Cyprych: +trd pl
 
@@ -351,8 +355,5 @@ Revision 1.33  2009/11/09 17:30:34  revo
 Jeromo Vasxe: + sxrauxba ~aro
 
 Revision 1.32  2009/10/06 16:44:59  revo
-Paul Peeraerts: +nl
-
-Revision 1.31  2009/04/18 16:30:16  revo
 -->
 </vortaro>

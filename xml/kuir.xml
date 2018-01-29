@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kuir.xml,v 1.39 2016/08/11 23:10:26 revo Exp $">
+<art mrk="$Id: kuir.xml,v 1.40 2017/12/19 08:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kuir</rad>/i <fnt><bib>PV</bib></fnt>
@@ -89,7 +89,8 @@
 </drv>
 
 <drv mrk="kuir.0ejo">
-  <kap><ofc>*</ofc><tld/>ejo</kap>
+  <kap><ofc>*</ofc><tld/>ejo
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, -ej'</lok></fnt></kap>
   <snc mrk="kuir.0ejo.KUI">
     <uzo tip="fak">KUI</uzo>
     <dif>
@@ -327,6 +328,9 @@
 </art>
 <!--
 $Log: kuir.xml,v $
+Revision 1.40  2017/12/19 08:10:23  revo
+Michel Cantigneaux: fundamenta "kuirejo" el la Universala Vortaro
+
 Revision 1.39  2016/08/11 23:10:26  revo
 Carlos Garcia: +trd es -estro -igxi -bol-i
 
@@ -346,8 +350,5 @@ Revision 1.34  2015/01/25 12:10:15  revo
 Alain Gerard: + ~igxi
 
 Revision 1.33  2014/07/12 19:10:12  revo
-Jeromo Vasxe: + sxelo~i
-
-Revision 1.32  2014/01/05 02:10:19  revo
 -->
 </vortaro>

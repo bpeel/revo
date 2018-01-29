@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: anabaptist.xml,v 1.4 2015/07/04 08:37:30 revo Exp $">
+<art mrk="$Id: anabaptist.xml,v 1.5 2017/05/27 20:10:18 revo Exp $">
 <kap>
   <rad>anabaptist</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -31,15 +31,20 @@
   <trd lng="ca">anabaptista <klr>(subst.)</klr></trd>
   <trdgrp lng="cs">
     <trd>anabaptista</trd>,
-    <trd>novokřtěnec</trd>
+    <trd>novok&rcaron;t&ecaron;nec</trd>
   </trdgrp>
   <trd lng="fr">anabaptiste<klr> (subst.)</klr></trd>
+  <trd lng="pl">anabaptysta</trd>
+  <trd lng="ro">anabaptist</trd>
   <trd lng="sk">anabaptista</trd>
 </drv>
 </art>
 
 <!--
 $Log: anabaptist.xml,v $
+Revision 1.5  2017/05/27 20:10:18  revo
+Vito Redsky: trd pl+trd ro
+
 Revision 1.4  2015/07/04 08:37:30  revo
 aldono de trd cs per skripto de M. von Laer
 

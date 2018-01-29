@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aprec.xml,v 1.4 2015/07/04 08:37:30 revo Exp $">
+<art mrk="$Id: aprec.xml,v 1.5 2017/10/17 17:10:13 revo Exp $">
 <kap>
   <rad>aprec</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -40,13 +40,33 @@
     <trd>ohodnotit</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>hodnotiť</trd>,
-    <trd>oceniť</trd>
+    <trd>hodnoti&tcaron;</trd>,
+    <trd>oceni&tcaron;</trd>
   </trdgrp>
+</drv>
+
+<drv mrk="aprec.0o">
+  <kap><tld/>o,
+  <var><kap><tld/>ado</kap></var></kap>
+  <snc mrk="aprec.0o.KOMUNE">
+    <ref tip="dif" cel="aprez.0o.KOMUNE">aprezo</ref>
+    <ekz>
+      li eble intencis impresi min pri sia supereco
+      en la <tld/>ado de belarto
+        <fnt>
+          <aut>R. Akutaga&ubreve;a, trad. K. Sekimoto</aut>,
+          <vrk>Mar&ccirc;ejo</vrk>,
+          <lok>La Revuo Orienta, 1935-03, p. 73a</lok>
+        </fnt>.
+    </ekz>
+  </snc>
 </drv>
 </art>
 <!--
 $Log: aprec.xml,v $
+Revision 1.5  2017/10/17 17:10:13  revo
+Jeromo Vasxe: + ~o
+
 Revision 1.4  2015/07/04 08:37:30  revo
 aldono de trd cs per skripto de M. von Laer
 

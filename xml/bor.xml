@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bor.xml,v 1.24 2015/10/06 02:10:35 revo Exp $">
+<art mrk="$Id: bor.xml,v 1.25 2017/09/17 22:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bor</rad>/i <fnt><bib>PV</bib></fnt>
@@ -67,6 +67,11 @@
     <trd>&sacute;widrowa&cacute;</trd>
   </trdgrp>
   <trd lng="pt">furar</trd>
+  <trdgrp lng="ro">
+    <trd>str&abreve;punge</trd>,
+    <trd>fora</trd>
+    <trd>perfora</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_b;&c_u;&c_r;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_b;&c_u;&c_r;&c_i;&c_t;&c_mol;</trd>,
@@ -194,6 +199,9 @@
 </art>
 <!--
 $Log: bor.xml,v $
+Revision 1.25  2017/09/17 22:10:26  revo
+Vito Redsky: +trd ro
+
 Revision 1.24  2015/10/06 02:10:35  revo
 Evandro Avellar: +trd pt
 
@@ -213,8 +221,5 @@ Revision 1.19  2015/01/02 09:10:55  revo
 Filip van Laenen: +trd(nl,no)
 
 Revision 1.18  2011/12/11 16:10:22  revo
-Marc Rausell: +trd ca
-
-Revision 1.17  2010/12/28 08:46:49  revo
 -->
 </vortaro>

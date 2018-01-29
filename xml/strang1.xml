@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: strang1.xml,v 1.12 2013/05/25 19:10:11 revo Exp $">
+<art mrk="$Id: strang1.xml,v 1.13 2017/09/06 16:10:19 revo Exp $">
 <kap>
-  <ofc>9</ofc><rad>strangol</rad>/i
-  <fnt>C</fnt>
+  <ofc>9</ofc><rad>strangol</rad>/i <fnt><aut>P. Christaller</aut>,
+  <vrk>Deutsch-Esperanto W&ouml;rterbuch</vrk>, <lok>1910</lok></fnt>
 </kap>
 <drv mrk="strang1.0i">
   <kap><ofc>9</ofc><tld/>i</kap>
@@ -17,9 +17,7 @@
       <ekz>
         la lastan jaron <klr>...</klr> unu patrino de enlanda komunisto
         postulis de sia filo <klr>...</klr>, ke li <tld/>u &scirc;in
-        <fnt><bib>&Ccirc;uk&ccirc;oj</bib>, <lok>La trimova &scirc;akproblemo, (Tria
-        skizo
-        el la &ccirc;uk&ccirc;a vivo), 8, la plej amika kompleza&jcirc;o</lok></fnt>.
+        <fnt><bib>&Ccirc;uk&ccirc;oj</bib>, <lok>La trimova &scirc;akproblemo</lok></fnt>.
       </ekz>
     </dif>
     <refgrp tip="super">
@@ -51,6 +49,9 @@
 </art>
 <!--
 $Log: strang1.xml,v $
+Revision 1.13  2017/09/06 16:10:19  revo
+Jeromo Vasxe: fnt C
+
 Revision 1.12  2013/05/25 19:10:11  revo
 Jeromo Vasxe: kor. 1 ref
 
@@ -70,8 +71,5 @@ Revision 1.7 2003/03/05 17:36:13 revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.6 2002/02/23 19:52:39 revo
-Yury Finkel: +trd ru
-
-Revision 1.5 2001/08/21 18:13:46 revo
 -->
 </vortaro>

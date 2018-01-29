@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aligat.xml,v 1.22 2015/07/04 08:37:30 revo Exp $">
+<art mrk="$Id: aligat.xml,v 1.24 2017/06/17 19:10:15 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>aligator</rad>/o
@@ -20,12 +20,23 @@
       lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
       tip="malprt"
       cel="aligat1.0oj"><tld/>edoj</ref>
-      (<trd lng="la">Alligator</trd>).
+      (<trd lng="la">Alligator</trd>):
+      <ekz>oni komencis la sekigadon de grandegaj mar&ccirc;oj, kiuj &gcirc;is nun
+      estis nur la loko de lo&gcirc;ado de aligatoroj kaj aliaj akvaj bestoj
+        <fnt>
+          <bib>FK</bib>
+          <vrk>Bagateloj</vrk>
+          <lok>Sekigado de mar&ccirc;oj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>ku&scirc;as senmovaj aligatoroj kun pecoj da viando en bu&scirc;oj
+        <fnt><bib>Metrop</bib></fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_l;&c_ib;&c_g;&c_a;&c_t;&c_a;&c_r;</trd>
   <trd lng="bg">&c_a;&c_l;&c_i;&c_g;&c_a;&c_t;&c_o;&c_r;</trd>
-  <trd lng="cs">aligátor</trd>
+  <trd lng="cs">alig&aacute;tor</trd>
   <trd lng="de">Alligator</trd>
   <trd lng="en">alligator</trd>
   <trd lng="es">alig&aacute;tor</trd>
@@ -34,12 +45,20 @@
   <trd lng="he">&tav;&nun;&yod;&fnun;</trd>
   <trd lng="hu">alig&aacute;tor</trd>
   <trd lng="nl">alligator</trd>
+  <trd lng="pl">aligator</trd>
+  <trd lng="ro">aligatorul</trd>
   <trd lng="ru">&c_a;&c_l;&c_l;&c_i;&c_g;&c_a;&c_t;&c_o;&c_r;</trd>
   <trd lng="sk">alig&aacute;tor</trd>
 </drv>
 </art>
 <!--
 $Log: aligat.xml,v $
+Revision 1.24  2017/06/17 19:10:15  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.23  2017/06/15 09:10:13  revo
+Ludoviko Francisco: +ekz
+
 Revision 1.22  2015/07/04 08:37:30  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -56,14 +75,5 @@ Revision 1.18  2009/08/08 16:33:41  revo
 Wieland Pusch: +trd bg
 
 Revision 1.17  2009/07/14 16:30:38  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.16  2008/12/14 07:32:40  revo
-Raul Salinas Monteagudo: +trd es
-
-Revision 1.15  2003/11/06 17:30:56  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14  2002/09/07 17:39:29  revo
 -->
 </vortaro>

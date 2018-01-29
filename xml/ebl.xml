@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ebl.xml,v 1.40 2017/03/28 09:10:13 revo Exp $">
+<art mrk="$Id: ebl.xml,v 1.41 2017/12/19 16:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   -<rad>ebl</rad>/
@@ -197,7 +197,9 @@
   </drv>
 
   <drv mrk="ebl.0e">
-    <kap><tld/>e</kap>
+    <kap><ofc>*</ofc><tld/>e <fnt><bib>F</bib>, <lok>Universala Vortaro,
+    <url
+    ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5010">ebl'e</url></lok></fnt></kap>
     <snc>
       <dif>
         Eventuale, okazeble, povas esti ke:
@@ -424,6 +426,9 @@
 </art>
 <!--
 $Log: ebl.xml,v $
+Revision 1.41  2017/12/19 16:10:14  revo
+Michel Cantigneaux: "ebl/e" fundamenta kunmetajxo el la U.V.
+
 Revision 1.40  2017/03/28 09:10:13  revo
 Guillermo Molleda Jimena: trd es
 
@@ -443,8 +448,5 @@ Revision 1.35  2014/02/05 10:10:16  revo
 Damien Brucker: +kap
 
 Revision 1.34  2013/10/12 01:10:23  revo
-Benito Subejrano: + trd ca oc
-
-Revision 1.33  2010/09/28 16:30:24  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sagx.xml,v 1.29 2015/05/05 19:10:12 revo Exp $">
+<art mrk="$Id: sagx.xml,v 1.31 2017/10/19 20:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sa&gcirc;</rad>/a <fnt><bib>PV</bib></fnt>
@@ -76,8 +76,8 @@
   <trd lng="it">saggio<klr tip="amb"> (agg.)</klr></trd>
   <trd lng="nl">wijs</trd>
   <trdgrp lng="pl">
-  <trd>m&aogonek;dry</trd>,
-  <trd>rozumny</trd>
+    <trd>m&aogonek;dry</trd>,
+    <trd>rozumny</trd>
   </trdgrp>
   <trdgrp lng="pt">
    <trd>s&aacute;bio</trd>
@@ -126,7 +126,8 @@
       <aut>Sergio Pokrovskij</aut>
     </rim>
     <trd lng="be">&c_m;&c_u;&c_d;&c_r;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
-    <trd lng="hu">b&ouml;lcsess&eacute;g</trd>    
+    <trd lng="hu">b&ouml;lcsess&eacute;g</trd> 
+    <trd lng="pl">m&aogonek;dro&sacute;&cacute;</trd>   
     <trd lng="ru">&c_m;&c_u;&c_d;&c_r;&c_o;&c_s;&c_t;&c_mol;</trd>
   </snc>
   <snc mrk="sagx.0o.prudento">
@@ -158,7 +159,7 @@
     <trd lng="ru">&c_r;&c_a;&c_z;&c_u;&c_m;</trd>
   </snc>
   <snc mrk="sagx.0o.menso">
-      <ref tip="dif" cel="mens.0o">menso</ref>
+      <ref tip="dif" cel="intele.0o.MENS">intelekto</ref>
       <ekz>
         kiu prudenton ne havas, tiun <tld/>o ne savas
         <fnt><bib>PrV</bib></fnt>;
@@ -199,8 +200,8 @@
   <trd lng="it">saggezza</trd>
   <trd lng="nl">wijsheid</trd>
   <trdgrp lng="pl">
-  <trd>m&aogonek;dro&sacute;&cacute;</trd>,
-  <trd>rozum</trd>
+    <trd>m&aogonek;dro&sacute;&cacute;</trd>,
+    <trd>rozum</trd>
   </trdgrp>
   <trdgrp lng="pt">
     <trd>sabedoria</trd>,
@@ -259,7 +260,8 @@
   </snc>
   <trd lng="be">&c_m;&c_u;&c_d;&c_r;&c_e;&c_c;</trd>
   <trd lng="fr">sage<klr> (subst.)</klr></trd>
-  <trd lng="hu">b&ouml;lcs</trd>        
+  <trd lng="hu">b&ouml;lcs</trd>
+  <trd lng="pl">m&eogonek;drzec</trd>        
   <trd lng="ru">&c_m;&c_u;&c_d;&c_r;&c_je;&c_c;</trd>
 </drv>
 
@@ -372,8 +374,8 @@
     <trd>stom</trd>
   </trdgrp>
   <trdgrp lng="pl">
-  <trd>g&lstroke;upi</trd>,
-  <trd>nierozumny</trd>
+    <trd>g&lstroke;upi</trd>,
+    <trd>nierozumny</trd>
   </trdgrp>
   <trdgrp lng="pt">
     <trd>tolo</trd>,
@@ -381,6 +383,7 @@
     <trd>imbecil</trd>,
     <trd>n&eacute;scio</trd>
   </trdgrp>
+  <trd lng="ro">prost</trd>
   <trd lng="sk">hl&uacute;py</trd>
 </drv>
 
@@ -401,6 +404,7 @@
     </dif>
   </snc>
   <trd lng="fr">d&eacute;raison</trd>
+  <trd lng="pl">g&lstroke;upota</trd>
 </drv>
 
 <drv mrk="sagx.mal0ulo">
@@ -425,7 +429,8 @@
   <trdgrp lng="nl">
     <trd>domoor</trd>,
     <trd>dommerik</trd>
-  </trdgrp>        
+  </trdgrp> 
+  <trd lng="pl">g&lstroke;upiec</trd>       
   <trd lng="ru">&c_g;&c_l;&c_u;&c_p;&c_je;&c_c;</trd>
 </drv>
 
@@ -442,14 +447,24 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="fr">sens commun</trd>
+  <trdgrp lng="fr">
+    <trd>bon sens</trd>,
+    <trd>sens commun</trd>
+  </trdgrp>
   <trd lng="hu">j&oacute;zan <ind>&eacute;sz</ind></trd>
   <trd lng="id"><ind>akal</ind> sehat</trd>
   <trd lng="nl">gezond <ind>verstand</ind></trd>
+  <trd lng="pl"><ind>m&aogonek;dro&sacute;&cacute;</ind> zbiorowa</trd>
 </drv>
 </art>
 <!--
 $Log: sagx.xml,v $
+Revision 1.31  2017/10/19 20:10:15  revo
+Jeromo Vasxe: kor 1 ref
+
+Revision 1.30  2017/08/13 19:10:45  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.29  2015/05/05 19:10:12  revo
 Guillermo Molleda Jimena: trd es
 
@@ -466,11 +481,5 @@ Revision 1.25  2010/08/11 16:30:44  revo
 Jeromo Vasxe: kor. fusxitajn fontojn, + kk trd fr
 
 Revision 1.24  2009/09/20 16:30:57  revo
-Antonio Codazzi: +trd it
-
-Revision 1.23  2009/07/09 16:31:45  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.22  2007/10/20 18:54:21  revo
 -->
 </vortaro>

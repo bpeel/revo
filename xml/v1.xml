@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: v1.xml,v 1.9 2015/07/04 08:37:45 revo Exp $">
+  <art mrk="$Id: v1.xml,v 1.10 2017/11/30 21:10:47 revo Exp $">
     <kap>
       <ofc>*</ofc><rad>v</rad> <fnt><bib>PIV1</bib></fnt>
     </kap>
@@ -93,7 +93,7 @@
 
     <subart>
       <drv mrk="v1.0o">
-        <kap><tld/>o</kap>
+        <kap><ofc>* 7</ofc><tld/>o</kap>
         <snc>
           <dif>
             La nomo de la litero <ref cel="v1.0.TIP">V(v)</ref>.
@@ -121,11 +121,11 @@
           </ekz>
         </rim>
         <trdgrp lng="sk">
-    <trd>dvojití v</trd>,
+    <trd>dvojit&iacute; v</trd>,
     <trd>w</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>dvojité v</trd>,
+    <trd>dvojit&eacute; v</trd>,
     <trd>w</trd>
   </trdgrp>
 </drv>
@@ -135,6 +135,9 @@
 
   <!--
   $Log: v1.xml,v $
+  Revision 1.10  2017/11/30 21:10:47  revo
+  Michel Cantigneaux: aldonita kaj fundamenta par 7a OA
+
   Revision 1.9  2015/07/04 08:37:45  revo
   aldono de trd cs per skripto de M. von Laer
 

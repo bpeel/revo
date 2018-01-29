@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: boks.xml,v 1.19 2015/07/04 08:37:31 revo Exp $">
+<art mrk="$Id: boks.xml,v 1.21 2017/06/14 17:10:13 revo Exp $">
   <kap>
   <ofc>1</ofc>
   <rad>boks</rad>/i
@@ -13,12 +13,20 @@
     <uzo tip="fak">SPO</uzo>
     <snc mrk="boks.0i.lukti">
       <dif>
-      Pugnolukti. 
+      Pugnolukti:
+      <ekz>
+        personoj kiuj kvaza&ubreve; <tld/>as unu la alian kaj konkuras por
+        akiri la regpovon
+        <fnt>
+          <aut>Platono, trad. Donald Broadribb</aut>
+          <vrk>La Respubliko</vrk>
+          <lok>parto 1</lok>
+        </fnt>
+      </ekz> 
       </dif>
       <trd lng="de">boxen</trd>
       <trd lng="en">box</trd>
       <trd lng="es">boxear</trd>
-      <trd lng="fr">boxer</trd>
       <trd lng="hu">bokszol</trd>
       <trdgrp lng="it">
          <trd>boxare</trd>,
@@ -41,6 +49,7 @@
     </snc>
   <trd lng="ca">boxar</trd>
   <trd lng="cs">boxovat</trd>
+  <trd lng="fr">boxer</trd>
 </drv>
 
   <drv mrk="boks.0o">
@@ -48,7 +57,16 @@
     <uzo tip="fak">SPO</uzo>
     <snc>
       <dif>
-        Arto, sporto de pugnolukto.
+        Arto, sporto de pugnolukto:
+      <ekz>
+        Al racie pensanta homo &scirc;ajnas strange, ke oni nomas <tld/>on
+        <ctl>la nobla arto</ctl>
+        <fnt>
+          <aut>Jos&eacute; Dias Pinto</aut>
+          <vrk>Brazila Esperantisto, 2014-07, numero 349a</vrk>
+          <lok>La arto politiki</lok>
+        </fnt>
+      </ekz>
       </dif>
       <trd lng="be">&c_b;&c_o;&c_k;&c_s;</trd>
       <trd lng="ca">boxa</trd>
@@ -77,11 +95,17 @@
       <trd lng="sv">boxning</trd>
     </snc>
   <trd lng="cs">box</trd>
-  <trd lng="sk">box <klr>(oddelené miesto v reštaurácií)</klr></trd>
+  <trd lng="sk">box <klr>(oddelen&eacute; miesto v re&scaron;taur&aacute;ci&iacute;)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: boks.xml,v $
+Revision 1.21  2017/06/14 17:10:13  revo
+Ludoviko Francisco: +ekz
+
+Revision 1.20  2017/06/13 14:10:13  revo
+Ludoviko Francisco: +trd fr
+
 Revision 1.19  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -98,17 +122,5 @@ Revision 1.15  2009/03/18 17:32:40  revo
 Sebastian Cyprych: +snc boks.0i.okupigxi +trd pl
 
 Revision 1.14  2003/12/01 17:30:38  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.13  2003/01/16 17:32:26  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12  2002/09/09 19:54:10  revo
-Viliam Bur: +trd sk
-
-Revision 1.11  2002/05/16 16:35:23  revo
-Alejandro Mejia Greene: ald 2 his trd
-
-Revision 1.10  2001/11/19 17:31:53  revo
 -->
 </vortaro>

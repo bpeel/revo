@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: abriko.xml,v 1.43 2017/01/29 14:10:19 revo Exp $">
+<art mrk="$Id: abriko.xml,v 1.44 2017/11/26 15:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>abrikot</rad>/o
@@ -40,6 +40,10 @@
   <trdgrp lng="pt">
     <trd>abric&oacute;</trd>,
     <trd>abricote</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>cais</trd>,
+    <trd>cais&abreve;</trd>
   </trdgrp>
   <trd lng="ru">&c_a;&c_b;&c_r;&c_i;&c_k;&c_o;&c_s;</trd>
   <trdgrp lng="sk">
@@ -89,6 +93,9 @@
 </art>
 <!--
 $Log: abriko.xml,v $
+Revision 1.44  2017/11/26 15:10:15  revo
+Vito Redsky: + trd ro
+
 Revision 1.43  2017/01/29 14:10:19  revo
 Adam Eng: +trd ms
 
@@ -108,8 +115,5 @@ Revision 1.38  2012/10/22 00:10:11  revo
 Neil Roberts: aldonu la etikedon <var>
 
 Revision 1.37  2009/06/16 16:31:00  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.36  2006/01/18 17:31:11  revo
 -->
 </vortaro>

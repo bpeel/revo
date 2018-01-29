@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bru.xml,v 1.35 2015/10/26 14:10:17 revo Exp $">
+<art mrk="$Id: bru.xml,v 1.37 2017/10/18 12:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>bru</rad>/i
+  <rad>bru</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="bru.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
@@ -113,16 +113,21 @@
   <kap><tld/>o</kap>
   <snc mrk="bru.0o.sonaro">
     <dif>
-      Aro da konfuzaj sonoj:
+      <ref tip="super" cel="son.0o.SON">Sono</ref> a&ubreve;
+      sonoj konfuzaj, sen difinita alteco:
       <ekz>
         ne faru tian <tld/>on!
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <tld/>o de rompo;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <tld/>o metala, pla&ubreve;da, raspa;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         pa&scirc;<tld/>o;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <tld/>o de susurado de folioj.
       </ekz>
     </dif>
@@ -136,6 +141,7 @@
       <trd>ha&lstroke;as</trd>,
       <trd>szum</trd>
     </trdgrp>
+    <trd lng="ro">zgomot</trd>
     <trd lng="ru">&c_sh;&c_u;&c_m;</trd>
   </snc>
   <snc mrk="bru.0o.FIG">
@@ -211,6 +217,7 @@
       <trd>l&aacute;rm&aacute;s</trd>
     </trdgrp>
     <trd lng="pl">ha&lstroke;a&sacute;liwy</trd>
+    <trd lng="ro">zgomotos</trd>
   </snc>
   <snc>
     <uzo tip="stl">FIG</uzo>
@@ -323,6 +330,12 @@
 </art>
 <!--
 $Log: bru.xml,v $
+Revision 1.37  2017/10/18 12:10:17  revo
+Jeromo Vasxe: ~o preciz dif + ref
+
+Revision 1.36  2017/07/14 17:10:20  revo
+Vito Redsky: +trd ro
+
 Revision 1.35  2015/10/26 14:10:17  revo
 Guillermo Molleda Jimena: trd es
 
@@ -339,11 +352,5 @@ Revision 1.31  2015/01/09 17:10:21  revo
 Sergio Pokrovskij: ref-tip
 
 Revision 1.30  2015/01/07 21:10:13  revo
-Wolfram Diestel: plibonigis fnt-indikon
-
-Revision 1.29  2015/01/07 18:10:21  revo
-Wolfram Diestel: plibonigis kelkaj fnt-indikojn
-
-Revision 1.28  2015/01/06 08:10:13  revo
 -->
 </vortaro>

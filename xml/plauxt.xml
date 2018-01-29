@@ -2,15 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plauxt.xml,v 1.4 2012/08/04 11:10:25 revo Exp $">
+<art mrk="$Id: plauxt.xml,v 1.5 2017/04/14 20:10:25 revo Exp $">
 <kap>
 <rad>Pla&ubreve;t</rad>/o
 </kap>
 <drv mrk="plauxt.0o">
   <kap><tld/>o</kap>
+  <snc>
   <uzo tip="fak">TEA</uzo>
   <uzo tip="fak">PERS</uzo>
-  <snc>
     <dif>
       Tito Maccio Pla&ubreve;to (254 a&ubreve; 251 &ndash; 184 a.K.). Fama latinlingva
       komediverkisto, a&ubreve;toro de 21 komedioj: Amphitruo, Asinaria,
@@ -27,6 +27,7 @@
   </snc>
   <trd lng="ca">Plaute</trd>
   <trd lng="en">Plautus</trd>
+  <trd lng="fr">Plaute</trd>
   <trd lng="it">Plauto</trd>
   <trd lng="nl">Tito Maccio <ind>Plauto</ind></trd>
 </drv>
@@ -34,6 +35,9 @@
 
 <!--
 $Log: plauxt.xml,v $
+Revision 1.5  2017/04/14 20:10:25  revo
+Damien Brucker: +trd fr
+
 Revision 1.4  2012/08/04 11:10:25  revo
 Marc Rausell: + trd ca
 

@@ -2,19 +2,19 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fumari.xml,v 1.17 2015/07/04 08:37:34 revo Exp $">
+<art mrk="$Id: fumari.xml,v 1.20 2017/06/28 23:10:17 revo Exp $">
 <kap>
 <rad>fumari</rad>/o
 </kap>
 <drv mrk="fumari.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">BOT</uzo>
   <snc>
+  <uzo tip="fak">BOT</uzo>
     <dif>
       <ref tip="lst" cel="genr.0o.BIO"
       lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
       tip="malprt"
-      cel="fumari1.0oj"><tld/>acoj</ref>
+      cel="papava.0oj">papavacoj</ref>
       (<trd lng="la">Fumaria</trd>).
     </dif>
     <ref tip="sin" cel="fum.ter0o">terfumo</ref>
@@ -24,6 +24,7 @@
   <trd lng="fr">fumeterre</trd>
   <trd lng="hu">f&uuml;stike</trd>
   <trd lng="nl">duivekerver</trd>
+  <trd lng="pl">dymnica</trd>
   <trdgrp lng="pt">
     <trd>fum&aacute;ria</trd>,
     <trd>fumo-da-terra</trd>,
@@ -36,6 +37,15 @@
 </art>
 <!--
 $Log: fumari.xml,v $
+Revision 1.20  2017/06/28 23:10:17  revo
+Vito Redsky: +trd pl
+
+Revision 1.19  2017/04/21 12:10:17  revo
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.18  2017/04/16 16:10:26  revo
+Wolfram Diestel: nova familio
+
 Revision 1.17  2015/07/04 08:37:34  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -49,20 +59,5 @@ Revision 1.14  2013/08/26 19:10:38  revo
 Wolfram Diestel: referenco al listo bot genroj
 
 Revision 1.13  2007/06/21 16:30:38  revo
-Tulio Flores: +tr pt
-
-Revision 1.12  2002/07/12 17:32:22  revo
-Jozefo Horvath: +trd hu, fr > nl
-
-Revision 1.11  2002/03/30 19:12:14  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.10  2001/09/27 18:15:18  revo
-Marc Bavant: +trd fr
-
-Revision 1.9  2001/05/14 19:05:42  revo
-Yury Finkel: +trd ru
-
-Revision 1.8  2001/04/19 14:48:07  revo
 -->
 </vortaro>

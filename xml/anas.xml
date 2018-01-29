@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: anas.xml,v 1.48 2017/04/04 17:10:15 revo Exp $">
+<art mrk="$Id: anas.xml,v 1.51 2017/12/20 00:11:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>anas</rad>/o <fnt><bib>PV</bib></fnt>
@@ -32,6 +32,7 @@
     <trd lng="no">and</trd>
     <trd lng="pl">kaczka</trd>
     <trd lng="pt">pato</trd>
+    <trd lng="ro">ra&tcedil;&abreve;</trd>
     <trd lng="ru">&c_u;&c_t;&c_k;&c_a;</trd>
     <trd lng="sk">ka&ccaron;ica</trd>
     <trdgrp lng="sv">
@@ -100,7 +101,7 @@
       <trd>white-winged <ind>scoter</ind></trd>,
       <trd>velvet <ind>scoter</ind></trd>
     </trdgrp>
-    <trd lng="fr">macreuse brune</trd>
+    <trd lng="fr"><ind>macreuse</ind> brune</trd>
     <trd lng="pl">uhla</trd>
     <trd lng="sv">sv&auml;rta</trd>
   </snc>
@@ -125,7 +126,7 @@
     </dif>
     <trd lng="de">Blaufl&uuml;gelente</trd>
     <trd lng="en">blue-winged teal</trd>
-    <trd lng="fr">sarcelle &agrave; ailes bleues</trd>
+    <trd lng="fr"><ind>sarcelle</ind> &agrave; ailes bleues</trd>
     <trd lng="pl">cyranka modroskrzyd&lstroke;a</trd>
     <trd lng="sv">bl&aring;vingad <ind>&aring;rta</ind></trd>
   </snc>
@@ -150,7 +151,7 @@
         <trd lng="la">Aythya ferina</trd>).
     </dif>
     <trd lng="en"><klr>common</klr> pochard</trd>
-    <trd lng="fr">fuligule milouin</trd>
+    <trd lng="fr"><ind>fuligule</ind> milouin</trd>
     <trd lng="pl">g&lstroke;owienka</trd>
     <trd lng="sv">brun<ind>and</ind></trd>
   </snc>
@@ -175,7 +176,7 @@
     </dif>
     <trd lng="de">Pfeifente</trd>
     <trd lng="en"><klr>eurasian </klr>wigeon</trd>
-    <trd lng="fr">canard siffleur</trd>
+    <trd lng="fr"><ind>canard</ind> siffleur</trd>
     <trd lng="hu">f&uuml;ty&uuml;l&oacute; r&eacute;ce</trd>
     <trd lng="nl">smient</trd>
     <trd lng="pl">&sacute;wistun</trd>
@@ -205,7 +206,7 @@
     </dif>
     <trd lng="de">Sichelente</trd>
     <trd lng="en">falcated <ind>duck</ind></trd>
-    <trd lng="fr">canard &agrave; faucilles</trd>
+    <trd lng="fr"><ind>canard</ind> &agrave; faucilles</trd>
     <trd lng="pl">czuprynka</trd>
     <trd lng="sv">prakt<ind>and</ind></trd>
   </snc>
@@ -230,7 +231,7 @@
     </dif>
     <trd lng="de">Schnatterente</trd>
     <trd lng="en">gadwall</trd>
-    <trd lng="fr">canard chipeau</trd>
+    <trd lng="fr"><ind>canard</ind> chipeau</trd>
     <trd lng="pl">krakwa</trd>
     <trd lng="sv">snatter<ind>and</ind></trd>
   </snc>
@@ -257,7 +258,7 @@
     </dif>
     <trd lng="de">L&ouml;ffelente</trd>
     <trd lng="en"><klr>northern</klr> shoveler</trd>
-    <trd lng="fr">canard souchet</trd>
+    <trd lng="fr"><ind>canard</ind> souchet</trd>
     <trd lng="pl">p&lstroke;askonos</trd>
     <trd lng="sv">sked<ind>and</ind></trd>
   </snc>
@@ -285,7 +286,7 @@
     </dif>
     <trd lng="de"><klr>i.a. </klr>Brillenente</trd>
     <trd lng="en">scoter</trd>
-    <trd lng="fr">macreuse</trd>
+    <trd lng="fr"><ind>macreuse</ind></trd>
     <trd lng="hu"><klr>i.a. </klr>papaszemes r&eacute;ce</trd>
     <trd lng="nl">zee-eend</trd>
     <trd lng="sv">sv&auml;rta</trd>
@@ -314,7 +315,7 @@
     
     <trd lng="de">Kn&auml;kente</trd>
     <trd lng="en">garganey</trd>
-    <trd lng="fr">sarcelle d'&eacute;t&eacute;</trd>
+    <trd lng="fr"><ind>sarcelle</ind> d'&eacute;t&eacute;</trd>
     <trd lng="hu">b&odblac;jti <ind>r&eacute;ce</ind></trd>
     <trd lng="nl">zomertaling</trd>
     <trd lng="pl">cyranka</trd>
@@ -368,7 +369,7 @@
       (<trd lng="la">Aix galericulata</trd>).
     </dif>
     <trd lng="en">mandarin <ind>duck</ind></trd>
-    <trd lng="fr">canard mandarin</trd>
+    <trd lng="fr"><ind>canard</ind> mandarin</trd>
     <trd lng="pl">mandarynka</trd>
     <trd lng="sv">mandarin<ind>and</ind></trd>
   </snc>
@@ -409,7 +410,9 @@
 </drv>
 
 <drv mrk="anas.mol0o">
-  <kap>mol<tld/>o</kap>
+  <kap><ofc>*</ofc>mol<tld/>o <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5115">mol'anas'</url></lok></fnt></kap>
   <snc mrk="anas.mol0o.KOMUNE">
     <uzo tip="stl">KOMUNE</uzo>
     <uzo tip="fak">ZOO</uzo>
@@ -452,7 +455,7 @@
     </dif>
     <ref tip="sin" cel="somateri.0o.ZOO">somaterio</ref>
     <trd lng="en"><klr>common</klr> eider</trd>
-    <trd lng="fr">eider &agrave; duvet</trd>
+    <trd lng="fr"><ind>eider</ind> &agrave; duvet</trd>
     <trd lng="pl">edredon</trd>
     <trd lng="sv">ejder</trd>
   </snc>
@@ -488,7 +491,7 @@
       <trd>common <ind>scoter</ind></trd>,
       <trd>black <ind>scoter</ind></trd>
     </trdgrp>
-    <trd lng="fr">macreuse noire</trd>
+    <trd lng="fr"><ind>macreuse</ind> noire</trd>
     <trd lng="pl">markaczka</trd>
     <trd lng="sv">sj&ouml;orre</trd>
   </snc>
@@ -511,7 +514,7 @@
        de <ref tip="super" cel="anas.mar0o">mar<tld/>o</ref>
       (<trd lng="la">Melanitta perspicillata</trd>):
     </dif>
-    <trd lng="fr">macreuse &agrave; front blanc</trd>
+    <trd lng="fr"><ind>macreuse</ind> &agrave; front blanc</trd>
     <trd lng="pl">uhla pstrodzioba</trd>
     <trd lng="sv">vitnackad <ind>sv&auml;rta</ind></trd>
   </snc>
@@ -562,7 +565,7 @@
     </dif>
     <trd lng="de">Spie&szlig;ente</trd>
     <trd lng="en"><klr>northern</klr> pintail</trd>
-    <trd lng="fr">canard pilet</trd>
+    <trd lng="fr"><ind>canard</ind> pilet</trd>
     <trd lng="pl">ro&zdot;eniec</trd>
     <trd lng="sv">stj&auml;rt<ind>and</ind></trd>
   </snc>
@@ -591,7 +594,7 @@
       (<trd lng="la">Somateria spectabilis</trd>):
     </dif>
     <trd lng="en">king <ind>eider</ind></trd>
-    <trd lng="fr">eider &agrave; t&ecirc;te grise</trd>
+    <trd lng="fr"><ind>eider</ind> &agrave; t&ecirc;te grise</trd>
     <trd lng="pl">turkan</trd>
     <trd lng="sv">praktejder</trd>
   </snc>
@@ -616,7 +619,7 @@
       <trd lng="la">Polysticta stelleri</trd>):
     </dif>
     <trd lng="en">steller's <ind>eider</ind></trd>
-    <trd lng="fr">eider de Steller</trd>
+    <trd lng="fr"><ind>eider</ind> de Steller</trd>
     <trd lng="pl">birginiak</trd>
     <trd lng="sv">alf&ouml;rr&auml;dare</trd>
   </snc>
@@ -656,6 +659,15 @@
 </art>
 <!--
 $Log: anas.xml,v $
+Revision 1.51  2017/12/20 00:11:16  revo
+Michel Cantigneaux: "mol/anas/o" fundamenta kunmetajxo el la U.V.
+
+Revision 1.50  2017/11/30 23:10:30  revo
+Vito Redsky: +trd ro
+
+Revision 1.49  2017/04/05 11:10:16  revo
+Ludoviko Francisco: +ind en trd fr
+
 Revision 1.48  2017/04/04 17:10:15  revo
 Ludoviko Francisco: +trd fr
 
@@ -669,14 +681,5 @@ Revision 1.45  2015/06/28 12:03:35  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.44  2014/11/23 21:10:27  revo
-Wolfram Diestel: uzu cx en markoj, zip konfiuzighas pro tegmentitaj
-literoj
-
-Revision 1.43  2014/06/25 16:10:10  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.42  2013/11/02 11:10:13  revo
-Wolfram Diestel: kor. ref-cel
-
 -->
 </vortaro>

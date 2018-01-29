@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cx.xml,v 1.7 2015/10/11 15:10:15 revo Exp $">
+<art mrk="$Id: cx.xml,v 1.8 2017/11/30 21:10:24 revo Exp $">
 <kap>
     <ofc>*</ofc><rad>&ccirc;</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -38,7 +38,7 @@
 
 <subart>
 <drv mrk="cx.0.nomo">
-  <kap><tld/>o</kap>
+   <kap> <ofc>* 7</ofc> <tld/>o</kap>
   <snc> 
     <dif>
       Nomo de tiuj <ref tip="dif" cel="fonem.0o">fonemo</ref> kaj
@@ -54,6 +54,9 @@
 
 <!--
 $Log: cx.xml,v $
+Revision 1.8  2017/11/30 21:10:24  revo
+Michel Cantigneaux: aldonita kaj fundamenta per 7a OA
+
 Revision 1.7  2015/10/11 15:10:15  revo
 Evandro Avellar: +trd pt
 
@@ -73,7 +76,5 @@ Revision 1.2  2013/12/28 13:10:18  revo
 Damien Brucker: +ref
 
 Revision 1.1  2013/12/27 20:10:17  revo
-Damien Brucker: nova artikolo
-
 -->
 </vortaro>

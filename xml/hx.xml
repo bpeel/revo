@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hx.xml,v 1.14 2017/03/19 17:10:16 revo Exp $">
+<art mrk="$Id: hx.xml,v 1.16 2017/11/30 21:10:29 revo Exp $">
 <kap>
     <ofc>*</ofc><rad>&hcirc;</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -33,7 +33,7 @@
 
 <subart>
 <drv mrk="hx.0o.nomo">
-  <kap><tld/>o</kap>
+  <kap><ofc>* 7</ofc><tld/>o</kap>
   <snc>   
     <dif>
       Nomo de la litero <tld/>.
@@ -48,7 +48,7 @@
     <fnt>
       <aut>Sergio Pokrovskij</aut>:
       <vrk><url
-ref="http://serpo.5gbfree.com/eo/artikoloj/AdE/la_mito_pri_hx.html"
+ref="http://pok.heliohost.org/eo/artikoloj/AdE/la_mito_pri_hx.html"
            >La mita &leftquot;Akademia decido de la 1921&#170; jaro&rightquot;</url></vrk>
       <bib>LOdE</bib>,
       <lok>n-ro 266, 2016:11&ndash;12. P. 14&ndash;15</lok>.
@@ -80,6 +80,12 @@ ref="http://serpo.5gbfree.com/eo/artikoloj/AdE/la_mito_pri_hx.html"
 
 <!--
 $Log: hx.xml,v $
+Revision 1.16  2017/11/30 21:10:29  revo
+Michel Cantigneaux: aldonita kaj fundamenta per 7a OA
+
+Revision 1.15  2017/04/23 05:10:14  revo
+Sergio Pokrovskij: kor url
+
 Revision 1.14  2017/03/19 17:10:16  revo
 Sergio Pokrovskij: kor fnt
 
@@ -96,11 +102,5 @@ Revision 1.10  2014/04/10 16:10:22  revo
 Damien Brucker: fak
 
 Revision 1.9  2014/01/16 11:10:15  revo
-Damien Brucker: sxangxo cxe la difino
-
-Revision 1.8  2013/12/28 16:10:16  revo
-Damien Brucker: +IFA
-
-Revision 1.7  2013/12/28 14:10:19  revo
 -->
 </vortaro>

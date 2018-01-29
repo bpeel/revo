@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: cxambr.xml,v 1.55 2017/02/22 20:10:11 revo Exp $">
+<art mrk="$Id: cxambr.xml,v 1.56 2017/10/14 12:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;ambr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -50,7 +50,10 @@
         <trd>sala</trd>
       </trdgrp>
       <trd lng="pt">c&ocirc;modo<klr tip="ind"> (subst.)</klr></trd>
-      <trd lng="ro">camer&abreve;</trd>
+      <trdgrp lng="ro">
+        <trd>camer&abreve;</trd>,
+        <trd>odaie</trd>
+      </trdgrp>
       <trd lng="sk">izba</trd>
       <trd lng="sv">rum</trd>
     </subsnc>
@@ -295,6 +298,7 @@
       <trd>voorkamer</trd>,
       <trd>wachtkamer</trd>
     </trdgrp>
+    <trd lng="pl">poczekalnia</trd>
     <trd lng="pt">antec&acirc;mera</trd>
   </snc>
   <trd lng="en">antechamber</trd>
@@ -422,6 +426,7 @@
   <trd lng="id"><ind>ruang</ind> kelas</trd>
   <trd lng="it">aula<klr> (scuola)</klr></trd>
   <trd lng="pl">klasa</trd>
+  <trd lng="ro">clas&abreve;</trd>
   <trd lng="pt">sala de aula</trd>
 </drv>
 
@@ -690,6 +695,9 @@
 </art>
 <!--
 $Log: cxambr.xml,v $
+Revision 1.56  2017/10/14 12:10:14  revo
+Vito Redsky: +trd ro
+
 Revision 1.55  2017/02/22 20:10:11  revo
 Jeromo Vasxe: kai -> kaj
 
@@ -708,9 +716,6 @@ Eko Nur Syah Hidayat: +trd id
 
 Revision 1.50  2013/10/20 15:10:11  revo
 Benito Subejrano: + trd ca oc
-
-Revision 1.49  2010/10/18 16:30:27  revo
-Jeromo Vasxe: aux -> u hoko, + fak arki
 
 -->
 </vortaro>

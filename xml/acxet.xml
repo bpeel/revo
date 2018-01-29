@@ -2,13 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: acxet.xml,v 1.57 2017/04/01 17:10:14 revo Exp $">
+<art mrk="$Id: acxet.xml,v 1.60 2017/12/21 15:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>a&ccirc;et</rad>/i
 </kap>
 
 <drv mrk="acxet.0i">
-  <kap><ofc>*</ofc><tld/>i</kap>
+  <kap><ofc>*</ofc><tld/>i <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-27">a&ccirc;et'</url></lok></fnt></kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="acxet.0i.EKON">
     <dif>
@@ -66,6 +68,10 @@
   <trd lng="he">&lamed;&qof;&nun;&vav;&tav; \<ind>&qof;&nun;&he;</ind>\
   </trd>
   <trd lng="hr">kupiti</trd>
+  <trdgrp lng="ja">
+    <trd>&#36023;&#12358; [<ind>&#12363;&#12358;</ind>]</trd>,
+    <trd>&#36092;&#20837;&#12377;&#12427; [<ind>&#12371;&#12358;&#12395;&#12421;&#12358;&#12377;&#12427;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">kopen</trd>
   <trdgrp lng="pl">
     <trd>kupowa&cacute;</trd>,
@@ -107,6 +113,7 @@
            <fnt><bib>MT</bib><lok>&Jer; 32:14</lok></fnt>.</ekz>
            
     </dif>
+    <trd lng="th">&#3585;&#3634;&#3619;&#3595;&#3639;&#3657;&#3629;</trd>
  </snc>
  <trdgrp lng="be">
    <trd>&c_k;&c_u;&c_p;&c_l;&c_ja;</trd>,
@@ -122,6 +129,7 @@
    <trd>&a_A;&a_b;&a_t;&f_y;&a_A;&a_ayn;</trd>
  </trdgrp>
  <trd lng="fr">achat</trd>
+ <trd lng="ja"><klr>(&#20491;&#21029;&#12398;)</klr>&#36092;&#20837; [<ind>&#12371;&#12358;&#12395;&#12421;&#12358;</ind>]</trd>
 </drv>
 
 <drv mrk="acxet.0ajxo">
@@ -137,7 +145,8 @@
         <lok>1907</lok></fnt>.
       </ekz>
     </dif>
-    <trd lng="th">&#3586;&#3629;&#3591;&#3595;&#3639;&#3657;&#3629;&#3586;&#3629;&#3591;&#3586;&#3634;&#3618;</trd>
+    <trd
+    lng="th">&#3586;&#3629;&#3591;&#3595;&#3639;&#3657;&#3629;&#3586;&#3629;&#3591;&#3586;&#3634;&#3618;</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_k;&c_u;&c_p;&c_k;&c_a;</trd>,
@@ -151,6 +160,10 @@
     <trd>achat<klr> (objet achet&eacute;)</klr></trd>,
     <trd>course<klr> (objet achet&eacute;)</klr></trd>,
     <trd>emplette</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#36023;&#12356;&#29289; [<ind>&#12363;&#12356;&#12418;&#12398;</ind>]</trd>,
+    <trd>&#36092;&#20837;&#21697; [<ind>&#12371;&#12358;&#12395;&#12421;&#12358;&#12402;&#12435;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">aankoop<klr tip="ind"> (gekochte waren)</klr></trd>
 </drv>
@@ -195,6 +208,10 @@
       <trd>v&aacute;s&aacute;rl&oacute;</trd>
     </trdgrp>
     <trd lng="hr">kupac</trd>
+    <trdgrp lng="ja">
+      <trd>&#36023;&#12356;&#25163; [<ind>&#12363;&#12356;&#12390;</ind>]</trd>,
+      <trd>&#36092;&#20837;&#32773; [<ind>&#12371;&#12358;&#12395;&#12421;&#12358;&#12375;&#12419;</ind>]</trd>
+    </trdgrp>
     <trdgrp lng="nl">
       <trd>koper</trd>,
       <trd>aankoper</trd>
@@ -208,7 +225,8 @@
     &c_p;&c_o;&c_k;&c_u;&c_p;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
     <trd lng="sk">kupec</trd>
     <trd lng="sv">k&ouml;pare</trd>
-    <trd lng="th">&#3612;&#3641;&#3657;&#3595;&#3639;&#3657;&#3629;</trd>
+    <trd
+    lng="th">&#3612;&#3641;&#3657;&#3595;&#3639;&#3657;&#3629;</trd>
     <trd lng="tr">al&inodot;c&inodot;</trd>
   </snc>
 </drv>
@@ -284,6 +302,7 @@
       ilojn a&ubreve; aliajn necesa&jcirc;ojn por sia
       kompanio.
     </dif>
+    <trd lng="th">&#3614;&#3656;&#3629;&#3588;&#3657;&#3634;</trd>
   </snc>
   <trd lng="br">prenour<klr tip="ind"> (a vicher)</klr></trd>
   <trd lng="ca">agent de compres</trd>
@@ -388,7 +407,9 @@
 </drv>
 
 <drv mrk="acxet.sub0i">
-  <kap><ofc>*</ofc>sub<tld/>i</kap>
+  <kap><ofc>*</ofc>sub<tld/>i <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-4965">sub'a&ccirc;et'</url></lok></fnt></kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="acxet.sub0i.EKON">
     <uzo tip="fak">EKON</uzo>
@@ -445,6 +466,10 @@
       <trd>potkupiti</trd>,
       <trd>podmititi</trd>
     </trdgrp>
+    <trdgrp lng="ja">
+      <trd><klr>(&#12431;&#12356;&#12429;&#12391;)</klr>&#36023;&#21454;&#12377;&#12427; [<ind>&#12400;&#12356;&#12375;&#12421;&#12358;&#12377;&#12427;</ind>]</trd>,
+      <trd>&#36104;&#36036;&#12377;&#12427; [<ind>&#12382;&#12358;&#12431;&#12356;&#12377;&#12427;</ind>]</trd>
+    </trdgrp>
     <trdgrp lng="nl">
       <trd>omkopen</trd> 
       <trd>corrumperen</trd>,
@@ -471,6 +496,7 @@
     </trdgrp>
     <trd lng="sk">podplati&tcaron;</trd>
     <trd lng="sv">muta</trd>
+    <trd lng="th">&#3605;&#3636;&#3604;&#3626;&#3636;&#3609;&#3610;&#3609;</trd>
     <trdgrp lng="tr">
       <trd>r&uuml;&scedil;vet vermek</trd>,
       <trd>ba&scedil;tan &ccedil;&inodot;karmak</trd>,
@@ -481,6 +507,15 @@
 </art>
 <!--
 $Log: acxet.xml,v $
+Revision 1.60  2017/12/21 15:10:16  revo
+Michel Cantigneaux: aldono de fontaj ligiloj (al Universala Vortaro)
+
+Revision 1.59  2017/11/06 14:10:19  revo
+Sam Penter: +trd ja
+
+Revision 1.58  2017/05/31 04:10:14  revo
+Warut Bunprasert: +trd th
+
 Revision 1.57  2017/04/01 17:10:14  revo
 Lars Raarup Knudsen: dana traduko
 
@@ -494,14 +529,5 @@ Revision 1.54  2013/03/01 07:10:14  revo
 Dmitri Gabinski: redakto: +trd be
 
 Revision 1.53  2012/08/22 16:10:19  revo
-Marc Rausell: + trd ca
-
-Revision 1.52  2010/04/26 16:30:20  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.51  2009/11/08 17:31:05  revo
-Mireille Corobu: aldono de acxeto
-
-Revision 1.50  2009/09/13 16:57:00  revo
 -->
 </vortaro>

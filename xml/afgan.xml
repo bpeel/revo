@@ -2,11 +2,42 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: afgan.xml,v 1.16 2014/06/06 16:10:17 revo Exp $">
+<art mrk="$Id: afgan.xml,v 1.18 2017/06/22 10:10:22 revo Exp $">
 <kap>
   <rad>afgan</rad>/o
   <ofc>*</ofc>
 </kap>
+
+<drv mrk="afgan.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="afgan.0o.sxtatano">
+    <dif>
+      <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de
+      <ref tip="malprt" cel="afgan.A0ujo"><tld lit="A"/>ujo</ref>:
+      <ekz>en Irano kaj Pakistano lo&gcirc;as pli ol 4 milionoj da <tld/>oj
+      kiel rifu&gcirc;intoj
+        <fnt>
+          <aut>Renato Corsetti</aut>
+          <vrk><url
+          ref="http://esperanto-ondo.ru/87-lode.htm#87-07">Lingvo de
+          paco</url></vrk>
+          <bib>LOdE</bib>
+          <lok>2002:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>germana ministro pri eksterlandaj aferoj ina&ubreve;guris
+      trinkakvosistemon en la urbo Herat kaj transdonis &gcirc;in al <tld/>oj
+        <fnt>
+          <aut>Stefan Maul</aut>
+          <vrk>Du mil ok</vrk>
+          <bib>Monato</bib>
+          <lok>jaro 2008a, numero 12a, p. 7a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">Afghan<klr tip="ind"> (subst.)</klr></trd>
+</drv>
 
 <drv mrk="afgan.A0ujo">
   <kap>
@@ -21,7 +52,8 @@
     <uzo tip="fak">POL</uzo>
     <mlg>AF</mlg>
     <dif>
-      &Scirc;tato en la sudcentra Azio kun &ccirc;efurbo Kabulo.
+      <ref tip="lst" cel="sxtat.0o.POL" lst="voko:&scirc;tatoj">&Scirc;tato</ref> en
+      la sudcentra Azio kun &ccirc;efurbo Kabulo.
       Oficiala nomo: <em>Islama Respubliko de Afganujo</em>.
       &Gcirc;i limas kun <ref tip="vid"
       cel="cxin.CX0ujo">&Ccirc;inujo</ref>,
@@ -29,7 +61,18 @@
       <ref tip="vid" cel="pakistan.P0o.GEOG">Pakistano</ref>,
       <ref tip="vid" cel="tagxik.T0ujo.GEO">Ta&gcirc;ikujo</ref>,
       <ref tip="vid" cel="turkmen.T0ujo.GEOG">Turkmenujo</ref>
-      kaj <ref tip="vid" cel="uzbek.U0ujo">Uzbekujo</ref>.
+      kaj <ref tip="vid" cel="uzbek.U0ujo">Uzbekujo</ref>:
+      <ekz>Instruado de Esperanto al rifu&gcirc;intoj, kiuj jam emas reiri
+      siajn hejmojn, garantias la ekziston kaj vivon de Esperanto en
+      <tld lit="A"/>ujo
+        <fnt>
+          <aut>Reza Torabi</aut>
+          <vrk><url
+          ref="http://esperanto-ondo.ru/90-lode.htm#90-05">Zaban-e-salam</url></vrk>
+          <bib>LOdE</bib>
+          <lok>2002:4</lok>
+        </fnt>
+      </ekz>
     </dif>
     <ref tip="sin" cel="afgani.A0o.GEOG">Afganio</ref>
     </snc>
@@ -63,6 +106,12 @@
 
 <!--
 $Log: afgan.xml,v $
+Revision 1.18  2017/06/22 10:10:22  revo
+Ludoviko Francisco: +drv ~o
+
+Revision 1.17  2017/06/20 15:10:19  revo
+Ludoviko Francisco: +lst +ekz
+
 Revision 1.16  2014/06/06 16:10:17  revo
 Eko Nur Syah Hidayat: +id
 
@@ -79,11 +128,5 @@ Revision 1.12  2012/07/23 14:10:20  revo
 Marc Rausell: + trd ca
 
 Revision 1.11  2012/03/04 01:10:08  revo
-Glavkos Xaon: greka signifo de vorto
-
-Revision 1.10  2011/02/17 11:10:09  revo
-Luiz Portella: kor. ref k mrk
-
-Revision 1.9  2011/02/13 01:10:12  revo
 -->
 </vortaro>

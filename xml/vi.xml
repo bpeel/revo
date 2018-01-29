@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vi.xml,v 1.40 2016/11/20 14:10:15 revo Exp $">
+<art mrk="$Id: vi.xml,v 1.43 2017/12/19 23:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vi</rad> <fnt><bib>PV</bib></fnt>
@@ -86,6 +86,11 @@
       <trdgrp lng="it">
         <trd>tu</trd>,
         <trd>Lei<klr> (&gcirc;entila)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="ja">
+        <trd>&#12354;&#12394;&#12383;</trd>,
+        <trd>&#21531; [<ind>&#12365;&#12415;</ind>]</trd>,
+        <trd>&#12362;&#21069; [<ind>&#12362;&#12414;&#12360;</ind>]</trd>
       </trdgrp>
       <trd lng="ku">we</trd>
       <trdgrp lng="nl">
@@ -184,6 +189,12 @@
       <trdgrp lng="it">
         <trd>voi</trd>
       </trdgrp>
+      <trdgrp lng="ja">
+        <trd>&#12354;&#12394;&#12383;&#12383;&#12385;</trd>,
+        <trd>&#12354;&#12394;&#12383;&#12364;&#12383;</trd>,
+        <trd>&#21531;&#12383;&#12385; [<ind>&#12365;&#12415;&#12383;&#12385;</ind>]</trd>,
+        <trd>&#12362;&#21069;&#12425; [<ind>&#12362;&#12414;&#12360;&#12425;</ind>]</trd>
+      </trdgrp>
       <trdgrp lng="nl">
         <trd>jullie</trd>,
         <trd>je</trd>,
@@ -207,8 +218,9 @@
       </trdgrp>
       <trd lng="sv">ni</trd>
       <trdgrp lng="tp">
-        <trd>sina</trd>,
-        <trd>sina mute</trd>
+        <trd>sina<klr> (ajnnombra)</klr></trd>,
+        <trd>sina tu<klr> (dunombra)</klr></trd>,
+        <trd>sina mute<klr> (plurnombra)</klr></trd>
       </trdgrp>
       <trd lng="vo">ols</trd>
       <trdgrp lng="tr">
@@ -229,7 +241,9 @@
 </drv>
 
 <drv mrk="vi.0a">
-  <kap><tld/>a</kap>
+  <kap><ofc>*</ofc><tld/>a <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5250">vi'a</url></lok></fnt></kap>
   <snc mrk="vi.0a.KOMUNE">
     <dif>
       Posedata de <tld/>, rilata al <tld/>.
@@ -255,6 +269,11 @@
       <trdgrp lng="io">
         <trd>tua</trd>,
         <trd>vua<klr> (&gcirc;entila)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="ja">
+        <trd>&#12354;&#12394;&#12383;&#12398;</trd>,
+        <trd>&#21531;&#12398; [<ind>&#12365;&#12415;&#12398;</ind>]</trd>,
+        <trd>&#12362;&#21069;&#12398; [<ind>&#12362;&#12414;&#12360;&#12398;</ind>]</trd>
       </trdgrp>
       <trdgrp lng="nl">
         <trd>jouw</trd>,
@@ -295,6 +314,12 @@
       </trdgrp>
       <trd lng="id"><ind>milik</ind> kalian</trd>
       <trd lng="io">via</trd>
+      <trdgrp lng="ja">
+        <trd>&#12354;&#12394;&#12383;&#12383;&#12385;&#12398;</trd>,
+        <trd>&#12354;&#12394;&#12383;&#12364;&#12383;&#12398;</trd>,
+        <trd>&#21531;&#12383;&#12385;&#12398; [<ind>&#12365;&#12415;&#12383;&#12385;&#12398;</ind>]</trd>,
+        <trd>&#12362;&#21069;&#12425;&#12398; [<ind>&#12362;&#12414;&#12360;&#12425;&#12398;</ind>]</trd>
+      </trdgrp>
       <trdgrp lng="nl">
         <trd>jullie</trd>,
         <trd>je</trd>,
@@ -311,8 +336,9 @@
         <trd>era</trd>
       </trdgrp>
       <trdgrp lng="tp">
-        <trd>sina</trd>,
-        <trd>sina mute</trd>
+        <trd>sina<klr> (ajnnombra)</klr></trd>,
+        <trd>pi sina tu<klr> (dunombra)</klr></trd>,
+        <trd>pi sina mute<klr> (plurnombra)</klr></trd>
       </trdgrp>
       <trdgrp lng="vo">
         <trd>olsik</trd>,
@@ -361,6 +387,15 @@
 </art>
 <!--
 $Log: vi.xml,v $
+Revision 1.43  2017/12/19 23:10:20  revo
+Michel Cantigneaux: "vi/a" fundamenta kunmetajxo el la U.V.
+
+Revision 1.42  2017/11/06 16:10:15  revo
+Sam Penter: +klr tp
+
+Revision 1.41  2017/11/06 13:10:14  revo
+Sam Penter: +trd ja,tp
+
 Revision 1.40  2016/11/20 14:10:15  revo
 Robin van der Vliet: +trd en, fy, io, nl, sv, tp, vo
 
@@ -374,14 +409,5 @@ Revision 1.37  2014/12/13 21:10:13  revo
 Jeromo Vasxe: ~ k ~a : snc/subsnc + ekz, + ~umi
 
 Revision 1.36  2014/06/07 15:10:17  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.35  2012/11/09 07:10:07  revo
-Valentin Safonnikov: +trd ru
-
-Revision 1.34  2012/08/12 11:10:19  revo
-Marc Rausell: + trd ca
-
-Revision 1.33  2009/08/27 16:32:20  revo
 -->
 </vortaro>

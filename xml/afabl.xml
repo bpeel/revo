@@ -2,13 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: afabl.xml,v 1.37 2016/10/04 11:10:13 revo Exp $">
+<art mrk="$Id: afabl.xml,v 1.40 2017/12/21 15:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>afabl</rad>/a
 </kap>
 <drv mrk="afabl.0a">
-  <kap><ofc>*</ofc><tld/>a</kap>
+  <kap><ofc>*</ofc><tld/>a <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-51">afabl'</url></lok></fnt></kap>
   <snc mrk="afabl.0a.KOMUNE">
     <dif>
       Pla&ccirc;a per &gcirc;entileco, bonakcepto, agrablaj vortoj,
@@ -68,6 +70,10 @@
     </trdgrp>
     <trd lng="sk">l&aacute;skav&yacute;</trd>
     <trd lng="sv">v&auml;nlig</trd>
+    <trdgrp lng="th">
+      <trd>&#3648;&#3611;&#3655;&#3609;&#3617;&#3636;&#3605;&#3619;</trd>,
+      <trd>&#3629;&#3633;&#3608;&#3618;&#3634;&#3624;&#3633;&#3618;&#3604;&#3637;</trd>
+    </trdgrp>
   </snc>
   <snc mrk="afabl.0a.KOMP">
     <uzo tip="fak">KOMP</uzo>
@@ -92,9 +98,14 @@
       <trd>przyjazny</trd>,
       <trd>intuicyjny</trd>
     </trdgrp>
-    <trd lng="ru">&c_d;&c_r;&c_u;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+    <trd
+    lng="ru">&c_d;&c_r;&c_u;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
     <trd lng="sk">u&zcaron;&iacute;vate&lcaron;sky
 <ind>priate&lcaron;sk&yacute;</ind></trd>
+    <trdgrp lng="th">
+      <trd>&#3651;&#3594;&#3657;&#3591;&#3656;&#3634;&#3618;</trd>,
+      <trd>&#3651;&#3594;&#3657;&#3626;&#3632;&#3604;&#3623;&#3585;</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="cs">
     <trd>mil&yacute;</trd>,
@@ -103,12 +114,15 @@
     <trd>vl&iacute;dn&yacute;</trd>,
     <trd>&uacute;slu&zcaron;n&yacute;</trd>
   </trdgrp>
-  <trd lng="sk">u&zcaron;&iacute;vate&lcaron;sky pr&iacute;jemn&yacute;</trd>
+  <trd lng="sk">u&zcaron;&iacute;vate&lcaron;sky
+  pr&iacute;jemn&yacute;</trd>
   <trd lng="tp">pona</trd>
 </drv>
 
 <drv mrk="afabl.mal0a">
-  <kap><ofc>*</ofc>mal<tld/>a</kap>
+  <kap><ofc>*</ofc>mal<tld/>a <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-4967">mal'afabl'</url></lok></fnt></kap>
   <snc mrk="afabl.mal0a.KOMUNE">
     <dif>
       Montranta a&ubreve; esprimanta malbonvolon, malfavoran humoron:
@@ -162,11 +176,13 @@
       <trd>opryskliwy</trd>
     </trdgrp>
     <trd lng="sk">nevrl&yacute;</trd>
+    <trd lng="ro">nepoliticos</trd>
     <trdgrp lng="ru">
       <trd>&c_g;&c_r;&c_u;&c_b;&c_y;&c_j;</trd>,
       <trd>&c_n;&c_je;&c_v;&c_je;&c_zh;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>,
       <trd>&c_n;&c_je;&c_l;&c_ju;&c_b;&c_je;&c_z;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
+    <trd lng="th">&#3652;&#3617;&#3656;&#3648;&#3611;&#3655;&#3609;&#3617;&#3636;&#3605;&#3619;</trd>
   </snc>
   <trdgrp lng="cs">
     <trd>mrzut&yacute;</trd>,
@@ -183,6 +199,15 @@
 <!--
 
 $Log: afabl.xml,v $
+Revision 1.40  2017/12/21 15:10:18  revo
+Michel Cantigneaux: aldono de fontaj ligiloj (al Universala Vortaro)
+
+Revision 1.39  2017/08/18 18:10:21  revo
+Vito Redsky: +trd ro
+
+Revision 1.38  2017/07/10 06:10:18  revo
+Warut Bunprasert: +trd th
+
 Revision 1.37  2016/10/04 11:10:13  revo
 Sebastian Cyprych: +trd pl
 
@@ -196,15 +221,6 @@ Revision 1.34  2015/06/28 12:03:35  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.33  2013/09/05 10:10:09  revo
-Joop Eggen: +trd bg
-
-Revision 1.32  2013/06/29 20:10:26  revo
-Benito Subejrano: + trd ca oc
-
-Revision 1.31  2013/03/21 20:10:23  revo
-Dmitri Gabinski: redakto: +trd be
-
-Revision 1.30  2011/11/12 17:10:09  revo
 -->
 
 </vortaro>

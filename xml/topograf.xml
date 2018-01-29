@@ -2,13 +2,13 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: topograf.xml,v 1.5 2015/07/04 08:37:45 revo Exp $">
+<art mrk="$Id: topograf.xml,v 1.6 2018/01/02 19:10:24 revo Exp $">
 <kap>
-  <rad>topograf</rad>/o <fnt><bib>PIV1</bib></fnt>
+  <ofc>7</ofc><rad>topograf</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 
 <drv mrk="topograf.0o">
-  <kap><tld/>o</kap>
+  <kap><ofc>7</ofc><tld/>o</kap>
   <snc mrk="topograf.0o.GEOD">
     <uzo tip="fak">GEOD</uzo>
     <ref tip="dif" cel="topogr.0isto.GEOD">topografiisto</ref>
@@ -34,9 +34,9 @@
     </ekz>
   </snc>
   <trdgrp lng="cs">
-    <trd>místopisec</trd>,
+    <trd>m&iacute;stopisec</trd>,
     <trd>topograf</trd>,
-    <trd>zeměměřič</trd>
+    <trd>zem&ecaron;m&ecaron;&rcaron;i&ccaron;</trd>
   </trdgrp>
   <trd lng="de">Topograf</trd>
   <trd lng="en">topographer</trd>
@@ -45,13 +45,16 @@
   <trd lng="pl">topograf</trd>
   <trdgrp lng="sk">
     <trd>topograf</trd>,
-    <trd>zememerač</trd>
+    <trd>zememera&ccaron;</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: topograf.xml,v $
+Revision 1.6  2018/01/02 19:10:24  revo
+Michel Cantigneaux: Aldonita per 7a OA
+
 Revision 1.5  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 

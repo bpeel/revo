@@ -2,16 +2,19 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sok.xml,v 1.13 2015/07/04 08:37:43 revo Exp $">
+<art mrk="$Id: sok.xml,v 1.14 2017/09/06 18:10:22 revo Exp $">
 <kap>
-  <rad>sok</rad>/o
+  <rad>sok</rad>/o <fnt><aut>E. Millidge</aut>, <vrk>The
+  Esperanto-English dictionary</vrk>, <lok>1912-1924</lok></fnt>
 </kap>
 <drv mrk="sok.0o">
-  <kap><tld/>o<fnt>D</fnt></kap>
-  <uzo tip="fak">AGR</uzo>
-  <snc>
+  <kap><tld/>o</kap>
+  <snc mrk="sok.0o.AGR">
+    <uzo tip="fak">AGR</uzo>
     <dif>
-      Parto de plugilo, konsistanta el triangula oblikva klingo,
+      Parto de
+      <ref tip="malprt" cel="plug.0ilo.AGR">plugilo</ref>,
+      konsistanta el triangula oblikva klingo,
       kiu sublevas la teron kaj renversas &gcirc;in flanken.
     </dif>
   </snc>
@@ -22,7 +25,7 @@
   </trdgrp>
   <trdgrp lng="cs">
     <trd>radlice</trd>,
-    <trd>rádlo</trd>
+    <trd>r&aacute;dlo</trd>
   </trdgrp>
   <trd lng="de">Pflugschar</trd>
   <trdgrp lng="en">
@@ -36,11 +39,14 @@
     <trd>&c_s;&c_o;&c_sh;&c_n;&c_i;&c_k;</trd>,
     <trd>&c_l;&c_je;&c_m;&c_je;&c_h;</trd>
   </trdgrp>
-  <trd lng="sk">radlica <klr>(poľnohosp.)</klr></trd>
+  <trd lng="sk">radlica <klr>(po&lcaron;nohosp.)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: sok.xml,v $
+Revision 1.14  2017/09/06 18:10:22  revo
+Jeromo Vasxe: fnt D
+
 Revision 1.13  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -60,15 +66,5 @@ Revision 1.8  2004/03/01 17:32:02  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.7  2002/03/18 18:08:31  revo
-Karlo Freeman: +trd=en
-
-Revision 1.6  2002/02/14 17:35:04  revo
-Yury Finkel: +trd ru, +uzo AGR
-
-Revision 1.5 2001/10/07 18:15:30 revo
-Dennis Wibrow: +trd germ
-
-Revision 1.4 2001/07/31 18:12:25 revo
 -->
 </vortaro>
-

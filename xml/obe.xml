@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: obe.xml,v 1.27 2016/04/13 15:10:33 revo Exp $">
+<art mrk="$Id: obe.xml,v 1.28 2017/09/04 16:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>obe</rad>/i <fnt><bib>PV</bib></fnt>
@@ -119,6 +119,28 @@
   <trd lng="sk">poslu&scaron;nos&tcaron; <klr>(&ccaron;innos&tcaron;)</klr></trd>
 </drv>
 
+<drv mrk="obe.0eal">
+  <kap><tld/>e al</kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="obe.0eal.KOMUNE">
+    <dif>
+      <ref tip="super" cel="laux.0.io_obeata">La&ubreve;<sncref/></ref>
+      regulo de...;
+      <ref tip="vid" cel="konfor.0eal.KOMUNE">konforme al</ref>:
+      <ekz>
+        la trupo <klr>...</klr> <tld/>e al la ordono de la &ccirc;efo, 
+        envici&gcirc;as kaj ekmar&scirc;as la&ubreve; la herba deklivo
+        <fnt>
+          <aut>J. Francis</aut>,
+          <vrk>La Granda Kaldrono</vrk>,
+          <lok>1978</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">conform&eacute;ment &agrave;</trd>
+</drv>
+
 <drv mrk="obe.0ema">
   <kap><tld/>ema</kap>
   <snc mrk="obe.0ema.KOMUNE">
@@ -223,6 +245,9 @@
 </art>
 <!--
 $Log: obe.xml,v $
+Revision 1.28  2017/09/04 16:10:18  revo
+Jeromo Vasxe: ~e al
+
 Revision 1.27  2016/04/13 15:10:33  revo
 Dmitri Gabinski: +trd be
 
@@ -242,8 +267,5 @@ Revision 1.22  2011/11/07 01:10:26  revo
  Anchise Inzaghi: traduko q'eqchi'
 
 Revision 1.21  2009/10/15 16:32:13  revo
-Paul Peeraerts: +nl
-
-Revision 1.20  2005/12/22 17:31:38  revo
 -->
 </vortaro>

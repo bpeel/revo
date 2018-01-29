@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skorpi.xml,v 1.28 2015/07/04 08:37:43 revo Exp $">
+<art mrk="$Id: skorpi.xml,v 1.30 2017/06/06 16:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>skorpi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -16,7 +16,19 @@
       sessegmentan abdomenon fini&gcirc;antan je venena pikilo;
       ordo el la filumo
       <ref tip="super" cel="artik.0uloj.ZOO">artikuloj</ref>
-      (<trd lng="la">Scorpiones</trd>).
+      (<trd lng="la">Scorpiones</trd>):
+      <ekz>ili havis vostojn similajn al vostoj de <tld/>oj, kaj
+      pikilojn
+        <fnt><bib>NT</bib><lok>&Apo; 9:10</lok></fnt>;
+      </ekz>
+      <ekz>Vane ni avertis lin pri la dan&gcirc;ero de serpentoj kaj <tld/>oj
+        <fnt>
+          <aut>Werner Schad</aut>
+          <vrk>Inter maro kaj arbarego</vrk>
+          <bib>Monato</bib>
+          <lok>jaro 2000a, numero 5a, p. 14a</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_a;&c_r;&c_p;&c_ib;&c_jo;&c_n;</trd>
@@ -42,16 +54,25 @@
       <ref tip="lst" cel="stel.0figuro" lst="voko:zodiakaj_signoj"
       val="8">Stelfiguro</ref> kaj signo de la <ref tip="malprt"
       cel="zodiak.0o">zodiako</ref>
-      (<trd lng="la">Scorpio</trd>).
+      (<trd lng="la">Scorpio</trd>):
+      <ekz>protektas kaj gardas nin stelo, kiun e&ubreve;ropaj astronomoj
+      mistifike nomas Antareso, t.e. Anti-Areso a&ubreve; Mal-Marso, en la
+      konstelacio <tld lit="S"/>o
+        <fnt>
+          <aut>Jorge Camacho</aut>
+          <vrk>La Majstro kaj Martinelli</vrk>
+          <lok>&ccirc;apitro 8a</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_S;&c_k;&c_a;&c_r;&c_p;&c_ib;&c_jo;&c_n;</trd>
   <trd lng="ca">(l') Escorpi&oacute;</trd>
-  <trd lng="cs">štír</trd>
+  <trd lng="cs">&scaron;t&iacute;r</trd>
   <trd lng="de">Skorpion</trd>
   <trd lng="en">Scorpio</trd>
   <trd lng="es">Escorpio</trd>
-  <trd lng="fr">Scorpion<klr> (constellation)</klr></trd>
+  <trd lng="fr">Scorpion<klr tip="ind"> (constellation)</klr></trd>
   <trd lng="he">&mem;&zayin;&lamed; &ayin;&qof;&resh;&bet;</trd>
   <trd lng="hu">Skorpi&oacute;</trd>
   <trdgrp lng="id">
@@ -62,11 +83,17 @@
   <trd lng="nl">schorpioen</trd>
   <trd lng="pl">skorpion</trd>
   <trd lng="ru">&c_S;&c_k;&c_o;&c_r;&c_p;&c_i;&c_o;&c_n;</trd>
-  <trd lng="sk">škorpión</trd>
+  <trd lng="sk">&scaron;korpi&oacute;n</trd>
 </drv>
 </art>
 <!--
 $Log: skorpi.xml,v $
+Revision 1.30  2017/06/06 16:10:20  revo
+Ludoviko Francisco: +klr trd fr
+
+Revision 1.29  2017/06/01 09:10:20  revo
+Ludoviko Francisco: +ekz
+
 Revision 1.28  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -83,17 +110,5 @@ Revision 1.24  2013/01/09 14:10:13  revo
 Jeromo Vasxe: kor 1 ref
 
 Revision 1.23  2012/03/17 19:10:12  revo
-Agustin Garcia Lopez: +trd(es)
-
-Revision 1.22  2012/01/04 13:10:11  revo
-Marc Rausell: +trd ca
-
-Revision 1.21  2009/08/08 16:31:50  revo
-Russ Williams: +trd en
-
-Revision 1.20  2005/01/17 17:32:34  revo
-Vito Redsky: korekto trd pl pluralo
-
-Revision 1.19  2003/01/14 17:35:53  revo
 -->
 </vortaro>

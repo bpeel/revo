@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dank.xml,v 1.73 2017/03/05 11:10:13 revo Exp $">
+<art mrk="$Id: dank.xml,v 1.75 2017/07/22 03:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dank</rad>/i <fnt><bib>PV</bib></fnt>
@@ -70,12 +70,13 @@
       klaran respondon: <ctl>Jes, <tld/>on</ctl> a&ubreve;
       <ctl>Ne, <tld/>on</ctl>.
       (Rusa gastiganto, ricevinte la malklaran respondon, normale
-      redemandas: <ctl>&Ccirc;u &#699;<tld/>on jes&#700; a&ubreve; &#699;<tld/>on ne&#700;?</ctl>.)
+      redemandas: &#171;&Ccirc;u <ctl><tld/>on jes</ctl> a&ubreve; <ctl><tld/>on
+      ne</ctl>?&#187;)
       Ial sub la sama sencodifino PIV-oj donas la ironian
       proverbon
       <ekz>
         Por honoro ni <tld/>as, se man&gcirc;' al ni mankas
-        <fnt><bib>PrV</bib></fnt> &#8208;
+        <fnt><bib>PrV</bib></fnt> &mdash;
       </ekz>
       probable pro miskompreno.
       <aut>Sergio Pokrovskij</aut>
@@ -141,7 +142,8 @@
         al tiu neatendita cirkonstanco mi <tld/>is la vivon;
       </ekz>
       <ekz>
-        la tutan nian altan kulturon kaj civilizacion ni dankas nur al <klr>[...]</klr> la posedado de lingvo
+        la tutan nian altan kulturon kaj civilizacion ni dankas nur al
+        <klr>[...]</klr> la posedado de lingvo
         <fnt>
           <bib>EE</bib>
         </fnt>.
@@ -311,7 +313,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        ni &ccirc;iuj <klr>[...]</klr> estus nedireble <tld/>aj al vi, se vi volus donaci kelkajn novajn rakontojn
+        ni &ccirc;iuj <klr>[...]</klr> estus nedireble <tld/>aj al vi, se vi
+        volus donaci kelkajn novajn rakontojn
         <fnt>
           <aut>Michael Ende, trad. Wolfram Diestel</aut>
           <vrk>La Sen&ccirc;esa Rakonto</vrk>
@@ -448,13 +451,34 @@
     </dif>
     <ref tip="vid" cel="spit.0eal">spite al</ref>
   </snc>
-  <rim>
+  <rim num="1">
     Pri &leftquot;dank' al&rightquot;:
     Prepozicia&jcirc;o regula devenanta de la mallongigita esprimo
     &leftquot;(estu dirita) dank(o) al&rightquot; a&ubreve; &leftquot;(estu) dank(o) al&rightquot;.
     La apostrofo &ccirc;i-okaze ne anstata&ubreve;as la forlasitan literon e,
     &ccirc;ar tion ne ebligas la 16-a regulo de gramatiko.
     <aut>db</aut>
+  </rim>
+  <rim num="2">
+    Komike impresas la misuzo de &leftquot;<tld/>' al&rightquot; kiam temas pri
+    cirkonstanco malfavora kaj beda&ubreve;rinda, ekz-e
+    <ekz>
+      &leftquot;<klr>(venis)</klr> 3.600 kongresanoj, sed <em><tld/>' al</em>
+      kriza
+      valuto estis grava deficito malfacile kompensita de la tuta
+      esperantistaro&rightquot;
+      <fnt>
+        <aut>Rollet de l'Isle</aut>:
+        <vrk>Kongresoj Universalaj</vrk>. <bib>EdE</bib>.
+      </fnt>.
+      </ekz>
+      &Gcirc;enerale, la pli klaraj a&ubreve; simplaj esprimoj, kiaj
+      <refgrp tip="super">
+         <ref cel="kauxz.0e_de">&leftquot;ka&ubreve;ze de&rightquot;</ref>,
+         <ref cel="sekv.0ede">&leftquot;sekve de&rightquot;</ref>,
+         <ref cel="pro.0.kial">&leftquot;pro&rightquot;</ref>
+      </refgrp> estas preferindaj.
+      <aut>Sergio Pokrovskij</aut>
   </rim>
   <trd lng="be">&c_d;&c_z;&c_ja;&c_k;&c_u;&c_ju;&c_ch;&c_y; <klr>
       (&c_ch;&c_a;&c_m;&c_u;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
@@ -506,8 +530,12 @@
         konkreta
         servo oni simple uzu <ctl><tld/>a</ctl>
         <fnt>
-          <vrk><url ref='http://www.akademio-de-esperanto.org/aktoj/aktoj2/konsultoj.html?&amp;dosiero=decidoj/kelkaj_misuzoj.html'>Aktoj 
-          de la Akademio 1968-1974 &dash; Diversaj Konsultoj</url></vrk>
+          <vrk><url
+          ref='http://www.akademio-de-esperanto.org/aktoj/aktoj2/konsultoj.html?&amp;dosiero=decidoj/kelkaj_misuzoj.html'>Aktoj
+          
+          de la Akademio 1968-1974 &#8208; Diversaj
+          
+          Konsultoj</url></vrk>
         </fnt>.
       </ekz>
     </rim>
@@ -632,7 +660,8 @@
     <dif>
       Ne havanta a&ubreve; ne montranta <tld/>an senton:
       <ekz>
-        vi estis por mi tiel bona, ke krom nehonesta mi estus ankora&ubreve; sen<tld/>a, se mi...
+        vi estis por mi tiel bona, ke krom nehonesta mi estus ankora&ubreve;
+        sen<tld/>a, se mi...
         <fnt>
           <bib>Marta</bib>
         </fnt>;
@@ -673,7 +702,8 @@
         nia laborado estas iafoje tre malfacila kaj sen<tld/>a
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en Washington en la 15a de a&ubreve;gusto 1910</vrk>
+          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en
+          Washington en la 15a de a&ubreve;gusto 1910</vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -739,7 +769,8 @@
     <dif>
       Esprimo de <tld/>o, ekz. per konduto, parolo, pre&gcirc;o, rekompenso:
       <ekz>
-        &ccirc;iu kreita&jcirc;o de Dio estas bona, kaj nenio devas esti for&jcirc;etita, se oni &gcirc;in ricevas kun <tld/>kesprimo
+        &ccirc;iu kreita&jcirc;o de Dio estas bona, kaj nenio devas esti for&jcirc;etita,
+        se oni &gcirc;in ricevas kun <tld/>kesprimo
         <fnt>
           <bib>NT</bib>
           <lok>I. Timoteo 4:4</lok>
@@ -844,7 +875,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        li rekonstruis la altaron de la Eternulo kaj faris sur &gcirc;i pacoferojn kaj <tld/>oferojn
+        li rekonstruis la altaron de la Eternulo kaj faris sur &gcirc;i
+        pacoferojn kaj <tld/>oferojn
         <fnt>
           <bib>MT</bib>
           <lok>II. Kroniko 33:16</lok>
@@ -857,13 +889,20 @@
 
 
 <adm>
-  &Scirc;ovi dankokanto, dankofero, dankesprimo al artikoloj kant, ofer, esprim
+  &Scirc;ovi dankokanto, dankofero, dankesprimo al artikoloj kant, ofer,
+  esprim
   kaj referenci tien.
 </adm>
 
 </art>
 <!--
 $Log: dank.xml,v $
+Revision 1.75  2017/07/22 03:10:13  revo
+Sergio Pokrovskij: +TEZ
+
+Revision 1.74  2017/07/21 05:10:13  revo
+Sergio Pokrovskij: +rim2
+
 Revision 1.73  2017/03/05 11:10:13  revo
 Wolfram Diestel: ekz-oj, plibonigetoj, novaj: ~esprimo, ~okanto, ~ofero
 
@@ -880,11 +919,5 @@ Revision 1.69  2015/09/13 23:10:15  revo
 Cindy Moon McKee: +trd en
 
 Revision 1.68  2015/07/08 20:10:16  revo
-Vito Redsky: +trd ro
-
-Revision 1.67  2015/07/04 08:37:32  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.66  2015/06/29 16:29:36  revo
 -->
 </vortaro>

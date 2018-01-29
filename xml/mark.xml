@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mark.xml,v 1.34 2017/03/07 09:10:18 revo Exp $">
+<art mrk="$Id: mark.xml,v 1.35 2017/12/21 14:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mark</rad>/o
@@ -252,7 +252,12 @@
 </drv>
 
 <drv mrk="mark.posxt0o">
-  <kap>po&scirc;t<tld/>o</kap>
+  <kap>po&scirc;t<tld/>o,
+  <var><kap><ofc>*</ofc>signo de po&scirc;to <fnt><bib>F</bib>,
+  <lok>Universala Vortaro, <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5168">sign'o
+  de po&scirc;t'o </url></lok></fnt></kap></var>
+  </kap>
   <snc mrk="mark.posxt0o.LETERO">
     <dif>
       Po&scirc;t<tld/>o estas papera marko kun difinita valoro. 
@@ -268,6 +273,9 @@
 </art>
 <!--
 $Log: mark.xml,v $
+Revision 1.35  2017/12/21 14:10:15  revo
+Michel Cantigneaux: Aldono de "sign/o de posxt/o", fundamenta kunmetajxo el la U.V.
+
 Revision 1.34  2017/03/07 09:10:18  revo
 Lyubomir Vasilev: +trd bg
 
@@ -287,8 +295,5 @@ Revision 1.29  2009/02/15 14:18:24  revo
 Wieland Pusch: +drv mark.posxt0o
 
 Revision 1.28  2007/11/22 17:30:59  revo
-Wieland Pusch: +trd bg
-
-Revision 1.27  2007/07/02 16:30:24  revo
 -->
 </vortaro>

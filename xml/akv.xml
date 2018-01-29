@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: akv.xml,v 1.73 2017/03/06 21:10:18 revo Exp $">
+<art mrk="$Id: akv.xml,v 1.81 2017/12/20 15:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>akv</rad>/o <fnt><bib>PV</bib></fnt>
@@ -26,6 +26,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#3609;&#3657;&#3635;</trd>
   </snc>
   <trd lng="be">&c_v;&c_a;&c_d;&c_a;</trd>
   <trd lng="bg">&c_v;&c_o;&c_d;&c_a;</trd>
@@ -43,7 +44,7 @@
   <trd lng="fr">eau</trd>
   <trd lng="id">air</trd>
   <trd lng="it">acqua</trd>
-  <trd lng="ja">&#27700; [<ind>&#12377;&#12356;</ind>]</trd>
+  <trd lng="ja">&#27700; [<ind>&#12415;&#12378;</ind>]</trd>
   <trd lng="ku">av</trd>
   <trd lng="la">aqua</trd>
   <trd lng="nl">water</trd>
@@ -108,9 +109,29 @@
 </drv>
 
 <drv mrk="akv.0i">
-  <kap><tld/>i<fnt>Z</fnt></kap>
+  <kap><tld/>i</kap>
   <snc mrk="akv.0i.akvumi">
-    <ref tip="dif" cel="akv.0umi.KOMUNE"><tld/>umi</ref>
+    <dif>
+      <ref tip="dif" cel="akv.0umi.KOMUNE"><tld lit="A"/>umi</ref>:
+      <ekz>
+        plugadu plue la senfruktan grundon kaj <tld/>u &gcirc;in
+        <fnt>
+          <aut>Pavel Orsz&aacute;gh Hv&ecaron;zdoslav, trad. Milo&scirc;
+          Luka&scirc;</aut>
+          <vrk>&Ccirc;e&hcirc;a kaj slovaka antologio, Unua Parto</vrk>
+          <lok>La fina parto el la drama eposo "Kain"</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i prenas <tld/>okarafon de la bufedo kaj <tld/>as la
+        floron
+        <fnt>
+          <aut>August Strindberg, trad. Stellan Engholm</aut>
+          <vrk>Pasko</vrk>
+          <lok>unua akto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="ca">regar</trd>
   <trd lng="cs">zavla&zcaron;ovat</trd>
@@ -137,11 +158,13 @@
     <dif>
       Loko, kie kolekti&gcirc;as <tld/>o:
       <ekz>
-        la <tld/>oj, kie &gcirc;i restadis, estis fosoj kun malprofunda klara 
+        la <tld/>oj, kie &gcirc;i restadis, estis fosoj kun malprofunda
+        klara 
         <tld/>o
         <fnt>
           <aut>A.-C. M. Meeske, K. J. Rybczy&nacute;ski</aut>,
-          <vrk>Telemetriaj studoj pri la mar&ccirc;a testudo Emys orbicularis 
+          <vrk>Telemetriaj studoj pri la mar&ccirc;a testudo Emys
+          orbicularis 
           en suda Litovio</vrk>,
           <lok><url
           ref="https://scienca-revuo.info/article/viewFile/1585/1564">
@@ -149,6 +172,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#3649;&#3627;&#3621;&#3656;&#3591;&#3609;&#3657;&#3635;</trd>
   </snc>
   <trdgrp lng="fr">
     <trd>cours d'eau</trd>,
@@ -174,11 +198,13 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_k;&c_r;&c_o;&c_p;&c_l;&c_ja; &c_v;&c_a;&c_d;&c_y;</trd>
+  <trd lng="be">&c_k;&c_r;&c_o;&c_p;&c_l;&c_ja;
+  &c_v;&c_a;&c_d;&c_y;</trd>
   <trd lng="ca">gota</trd>
   <trd lng="cs">kapka vody</trd>
   <trd lng="de">Wassertropfen</trd>
-  <trd lng="fa">&a_q;&a_T;&a_r;&a_h;&a_hamza_sure; &a_A_madda;&a_b;</trd>
+  <trd lng="fa">&a_q;&a_T;&a_r;&a_h;&a_hamza_sure;
+  &a_A_madda;&a_b;</trd>
   <trd lng="fr">goutte d'eau</trd>
   <trd lng="nl">waterdruppel</trd>
   <trd lng="pl">kropla <ind>wody</ind></trd>
@@ -199,7 +225,25 @@
       val="11">stelfiguro</ref>
       kaj signo de la <ref tip="malprt"
       cel="zodiak.0o">zodiako</ref>
-      (<trd lng="la">Aquarius</trd>).
+      (<trd lng="la">Aquarius</trd>:
+      <ekz>
+        Aglo <klr>[...]</klr> situas dekstre de la <tld lit="A"/>isto,
+        kiu fakte estas Ganimedo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=115083'>Aglo
+          (konstelacio)</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        NGC 6985-1 <klr>[...]</klr> estas galaksio en konstelacio <tld
+        lit="A"/>isto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref='https://eo.wikipedia.org/?curid=120331'>NGC
+          6985-1</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
     <ref tip="sin" cel="versx.V0isto">Ver&scirc;isto</ref>
     <trdgrp lng="be">
@@ -208,8 +252,9 @@
     </trdgrp>
     <trd lng="ca">Aquari</trd>
     <trd lng="de">Wassermann<klr tip="amb"> (Sternbild)</klr></trd>
-    <trd lng="fa">&a_d;&a_l;&a_w;<klr tip="amb"> (&a_S;&a_w;&a_r;&a_t; &a_f;&a_l;&f_k;&f_y;)</klr></trd>
-    <trd lng="fr">Verseau<klr> (constellation)</klr></trd>
+    <trd lng="fa">&a_d;&a_l;&a_w;<klr tip="amb"> (&a_S;&a_w;&a_r;&a_t;
+    &a_f;&a_l;&f_k;&f_y;)</klr></trd>
+    <trd lng="fr">Verseau<klr tip="ind"> (constellation)</klr></trd>
     <trd lng="he">&mem;&zayin;&lamed; &dalet;&lamed;&yod;</trd>
     <trd lng="hu">V&iacute;z&ouml;nt&odblac;</trd>
     <trdgrp lng="id">
@@ -217,12 +262,14 @@
       <trd>Delu</trd>,
       <trd>Kumba</trd>
     </trdgrp>
-    <trd lng="ja">&#23453;&#29942;&#23470; [<ind>&#12411;&#12358;&#12408;&#12356;&#12365;&#12421;&#12358;</ind>]</trd>
+    <trd lng="ja">&#23453;&#29942;&#23470;
+    [<ind>&#12411;&#12358;&#12408;&#12356;&#12365;&#12421;&#12358;</ind>]</trd>
     <trd lng="nl">Waterman<klr tip="ind"> (sterrebeeld)</klr></trd>
     <trd lng="pl">wodnik</trd>
     <trd lng="pt">Aqu&aacute;rio</trd>
     <trd lng="ru">&c_V;&c_o;&c_d;&c_o;&c_l;&c_je;&c_j;</trd>
     <trd lng="sk">Vodn&aacute;r</trd>
+    <trd lng="th">&#3585;&#3621;&#3640;&#3656;&#3617;&#3604;&#3634;&#3623;&#3588;&#3609;&#3649;&#3610;&#3585;&#3627;&#3617;&#3657;&#3629;&#3609;&#3657;&#3635;</trd>
   </snc>
 </drv>
 
@@ -246,6 +293,11 @@
         oni devas <tld/>umi florojn post la sunsubiro.
       </ekz>
     </dif>
+    <trdgrp lng="th">
+      <trd>&#3619;&#3604;&#3609;&#3657;&#3635;</trd>,
+      <trd>&#3626;&#3634;&#3604;&#3609;&#3657;&#3635;</trd>,
+      <trd>&#3614;&#3619;&#3617;&#3609;&#3657;&#3635;</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>,
@@ -344,6 +396,7 @@
       <trd>&c_c;&c_i;&c_s;&c_t;&c_je;&c_r;&c_n;&c_a;</trd>,
       <trd>&c_r;&c_je;&c_z;&c_je;&c_r;&c_v;&c_u;&c_a;&c_r;</trd>
     </trdgrp>
+    <trd lng="th">&#3629;&#3656;&#3634;&#3591;&#3648;&#3585;&#3655;&#3610;&#3609;&#3657;&#3635;</trd>
   </snc>
   <snc mrk="akv.0ujo.GEOG">
     <uzo tip="fak">GEOG</uzo>
@@ -362,7 +415,9 @@
         </fnt>;
       </ekz><ekz>
         <ind>natura <tld/>ujo</ind> <klr>(maro, lago, rivero)</klr>
-        <trd lng="ru">&c_je;&c_s;&c_t;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j; &c_v;&c_o;&c_d;&c_o;&c_jo;&c_m;</trd>
+        <trd
+        lng="ru">&c_je;&c_s;&c_t;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;
+        &c_v;&c_o;&c_d;&c_o;&c_jo;&c_m;</trd>
       </ekz>
     </dif>
     <trd lng="ca">massa d'aigua</trd>
@@ -397,6 +452,10 @@
         <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 8a</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="th">
+      <trd>&#3586;&#3638;&#3657;&#3609;&#3617;&#3634;&#3592;&#3634;&#3585;&#3609;&#3657;&#3635;</trd>,
+      <trd>&#3650;&#3614;&#3621;&#3656;&#3617;&#3634;&#3592;&#3634;&#3585;&#3609;&#3657;&#3635;</trd>
+    </trdgrp>
   </snc>
   <trd lng="ca">emergir</trd>
   <trd lng="fr">&eacute;merger</trd>
@@ -416,7 +475,8 @@
     <ref tip="dif" cel="fal.akvo0o.GEOG">akvofalo</ref>
     <ekz>
       li rakontis <klr>...</klr> pri la fal<tld/>oj, kiuj
-      &scirc;a&ubreve;mante falegas malsupren kun bruo simila al frapoj de
+      &scirc;a&ubreve;mante falegas malsupren kun bruo simila al frapoj
+      de
       tondro <fnt><bib>Fab2</bib>, <lok>monteto de elfoj</lok></fnt>.
     </ekz>
   </snc>
@@ -495,8 +555,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#3609;&#3657;&#3635;&#3607;&#3632;&#3648;&#3621;</trd>
   </snc>
-  <trd lng="be">&c_m;&c_a;&c_r;&c_s;&c_k;&c_a;&c_ja; <ind>&c_v;&c_a;&c_d;&c_a;</ind></trd>
+  <trd lng="be">&c_m;&c_a;&c_r;&c_s;&c_k;&c_a;&c_ja;
+  <ind>&c_v;&c_a;&c_d;&c_a;</ind></trd>
   <trd lng="ca">aigua marina</trd>
   <trd lng="cs">mo&rcaron;sk&aacute; voda</trd>
   <trd lng="de">Meerwasser</trd>
@@ -507,7 +569,8 @@
 [<ind>&#12363;&#12356;&#12377;&#12356;</ind>]</trd>
   <trd lng="nl">zeewater</trd>
   <trd lng="pl">woda morska</trd>
-  <trd lng="ru">&c_m;&c_o;&c_r;&c_s;&c_k;&c_a;&c_ja; &c_v;&c_o;&c_d;&c_a;</trd>
+  <trd lng="ru">&c_m;&c_o;&c_r;&c_s;&c_k;&c_a;&c_ja;
+  &c_v;&c_o;&c_d;&c_a;</trd>
   <trd lng="sk">morsk&aacute; voda</trd>
   <trd lng="sv">havsvatten</trd>
 </drv>
@@ -529,8 +592,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#3609;&#3657;&#3635;&#3649;&#3619;&#3656;</trd>
   </snc>
-  <trd lng="be">&c_m;&c_ib;&c_n;&c_e;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_v;&c_a;&c_d;&c_a;</ind></trd>
+  <trd
+  lng="be">&c_m;&c_ib;&c_n;&c_e;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+  <ind>&c_v;&c_a;&c_d;&c_a;</ind></trd>
   <trd lng="ca">aigua mineral</trd>
   <trdgrp lng="cs">
     <trd>miner&aacute;lka</trd>,
@@ -538,6 +604,8 @@
   </trdgrp>
   <trd lng="fr">eau min&eacute;rale</trd>
   <trd lng="id"><ind>air</ind> mineral</trd>
+  <trd lng="pl">woda mineralna</trd>
+  <trd lng="ro">ap&abreve; mineral&abreve;</trd>
   <trdgrp lng="sk">
     <trd>kyselka</trd>,
     <trd>medok&yacute;&scaron;</trd>,
@@ -565,15 +633,18 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#3609;&#3657;&#3635;&#3604;&#3629;&#3585;&#3652;&#3617;&#3657;&#3648;&#3607;&#3624;</trd>
   </snc>
-  <trd lng="bg">&c_r;&c_o;&c_z;&c_o;&c_v;&c_a; &c_v;&c_o;&c_d;&c_a;</trd>
+  <trd lng="bg">&c_r;&c_o;&c_z;&c_o;&c_v;&c_a;
+  &c_v;&c_o;&c_d;&c_a;</trd>
   <trd lng="ca">aigua de roses</trd>
   <trd lng="de">Rosenwasser</trd>
   <trd lng="fa">&f_g;&a_l;&a_A;&a_b;</trd>
   <trd lng="fr">eau de rose</trd>
   <trd lng="nl">rozenwater</trd>
   <trd lng="pl">woda r&oacute;&zdot;ana</trd>
-  <trd lng="ru">&c_r;&c_o;&c_z;&c_o;&c_v;&c_a;&c_ja; &c_v;&c_o;&c_d;&c_a;</trd>
+  <trd lng="ru">&c_r;&c_o;&c_z;&c_o;&c_v;&c_a;&c_ja;
+  &c_v;&c_o;&c_d;&c_a;</trd>
   <trd lng="sv">rosenvatten</trd>
 </drv>
 
@@ -623,6 +694,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#3650;&#3595;&#3604;&#3634;</trd>
   </snc>
   <trdgrp lng="kek"><trd>aaw</trd><trd>kaxlan ha&#700;</trd></trdgrp>
   <trd lng="ca">soda</trd>
@@ -641,8 +713,10 @@
   </trdgrp>
   <trd lng="pl">woda sodowa</trd>
   <trdgrp lng="ru">
-    <trd>&c_s;&c_o;&c_d;&c_o;&c_v;&c_a;&c_ja; &c_v;&c_o;&c_d;&c_a;</trd>,
-    <trd>&c_g;&c_a;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_a;&c_ja; &c_v;&c_o;&c_d;&c_a;</trd>
+    <trd>&c_s;&c_o;&c_d;&c_o;&c_v;&c_a;&c_ja;
+    &c_v;&c_o;&c_d;&c_a;</trd>,
+    <trd>&c_g;&c_a;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_a;&c_ja;
+    &c_v;&c_o;&c_d;&c_a;</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>limon&aacute;da</trd>,
@@ -667,6 +741,10 @@
       20a</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="th">
+      <trd>&#3607;&#3635;&#3651;&#3627;&#3657;&#3592;&#3617;&#3609;&#3657;&#3635;</trd>,
+      <trd>&#3607;&#3635;&#3651;&#3627;&#3657;&#3629;&#3618;&#3641;&#3656;&#3651;&#3605;&#3657;&#3609;&#3657;&#3635;</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_t;&c_a;&c_p;&c_ib;&c_c;&c_mol;</trd>,
@@ -687,8 +765,10 @@
   <trd lng="en">submerge</trd>
   <trd lng="es">sumergir</trd>
   <trdgrp lng="fa">
-    <trd>&a_z;&f_y;&a_r; <ind>&a_A_madda;&a_b;</ind> &a_b;&a_r;&a_d;&a_n;</trd>,
-    <trd>&a_gh;&a_r;&a_q; &a_d;&a_r; <ind>&a_A_madda;&a_b;</ind> &f_k;&a_r;&a_d;&a_n;</trd>
+    <trd>&a_z;&f_y;&a_r; <ind>&a_A_madda;&a_b;</ind>
+    &a_b;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_gh;&a_r;&a_q; &a_d;&a_r; <ind>&a_A_madda;&a_b;</ind>
+    &f_k;&a_r;&a_d;&a_n;</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>immerger</trd>,
@@ -720,9 +800,31 @@
       Profundi&gcirc;i sub <tld/>on:
       <ekz>
         la submar&scirc;ipo sub<tld/>i&gcirc;is, &ccirc;ar &gcirc;i
-        ekvidis kroziston malamikan.
+        ekvidis kroziston malamikan;
+      </ekz>
+      <ekz>nia &scirc;ipo trafis rifon kaj sub<tld/>i&gcirc;is, kaj
+      &gcirc;in ni ne vidis
+      plu
+        <fnt>
+          <aut>Danielo Defoe, trad. A. Krafft</aut>
+          <vrk>Robinsono Kruso</vrk>
+          <lok>Parto I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>ili scivole rigardis la lutrojn, kiuj na&gcirc;is kaj
+      sub<tld/>i&gcirc;is
+      de la bordo sen laci&gcirc;i
+        <fnt>
+          <aut>Astrid Lindgren, trad. Runo Stridell</aut>
+          <vrk>Ronjo, rabista filino</vrk>
+          <lok>&ccirc;apitro 8a</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="th">
+      <trd>&#3604;&#3635;&#3609;&#3657;&#3635;</trd>,
+      <trd>&#3629;&#3618;&#3641;&#3656;&#3651;&#3605;&#3657;&#3609;&#3657;&#3635;</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_a;&c_t;&c_a;&c_n;&c_u;&c_c;&c_mol;</trd>,
@@ -736,7 +838,8 @@
   <trd lng="ca">submergir-se</trd>
   <trd lng="en">become submerged</trd>
   <trdgrp lng="fa">
-    <trd>&a_d;&a_r; <ind>&a_A_madda;&a_b;</ind> &a_f;&a_r;&a_w; &a_r;&a_f;&a_t;&a_n;</trd>,
+    <trd>&a_d;&a_r; <ind>&a_A_madda;&a_b;</ind> &a_f;&a_r;&a_w;
+    &a_r;&a_f;&a_t;&a_n;</trd>,
     <trd>&a_gh;&a_w;&a_T;&a_h;&zwnj;&a_w;&a_r; &a_sh;&a_d;&a_n;</trd>
   </trdgrp>
   <trdgrp lng="fr">
@@ -762,16 +865,28 @@
   <kap>sub<tld/>i&gcirc;o</kap>
   <snc mrk="akv.sub0igxo.KOMUNE">
     <dif>
-      Profundi&gcirc;o sub <tld/>on por sportaj a&ubreve; profesiaj celoj:
+      Profundi&gcirc;o sub <tld/>on por sportaj a&ubreve; profesiaj
+      celoj:
       <ekz>
         kompreneble, iam lia hobio estis sub<tld/>i&gcirc;o
         <fnt><aut>A. Tilmont</aut>, <vrk><url
         ref="http://www.esperanto.be/fel/mon/005932.html">Kosmopolita
         civitano kun okulo al la universo</url></vrk>,
         <bib>Monato</bib>,
-        <lok>1998-04, p. 9</lok></fnt>.
+        <lok>1998-04, p. 9</lok></fnt>;
+      </ekz>
+      <ekz>Krom skoltismo la geknaboj en [la klubo] okupi&gcirc;as pri
+      sub<tld/>i&gcirc;o kaj para&scirc;utismo
+        <fnt>
+          <aut>Vera Matvejeva</aut>
+          <vrk><url
+          ref="http://esperanto-ondo.ru/Ondo/114-lode.htm#114-22">Esperanto
+          kaj kaza&hcirc;stanaj skoltoj</url></vrk>
+          <lok>La Ondo de Esperanto, 2004:4</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#3585;&#3634;&#3619;&#3604;&#3635;&#3609;&#3657;&#3635;</trd>
   </snc>
   <trd lng="ca">immersionisme</trd>
   <trd lng="nl">duiken<klr tip="ind"> (zn.)</klr></trd>
@@ -781,7 +896,8 @@
   <kap>sub<tld/>i&gcirc;anto</kap>
   <snc mrk="akv.sub0igxanto.KOMUNE">
     <dif>
-      Persono, kiu sub<tld/>i&gcirc;as por sportaj a&ubreve; profesiaj celoj:
+      Persono, kiu sub<tld/>i&gcirc;as por sportaj a&ubreve; profesiaj
+      celoj:
       <ekz>
         en la litova urbo Trakai estas klubo de sub<tld/>i&gcirc;antoj
         <ctl>Amfibija</ctl>
@@ -790,21 +906,50 @@
         <lok>2002/11, p. 16</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="th">
+      <trd>&#3609;&#3633;&#3585;&#3611;&#3619;&#3632;&#3604;&#3634;&#3609;&#3657;&#3635;</trd>,
+      <trd>&#3609;&#3633;&#3585;&#3604;&#3635;&#3609;&#3657;&#3635;</trd>
+    </trdgrp>
   </snc>
   <trd lng="ca">immersionista</trd>
   <trd lng="nl">duiker</trd>
  </drv>
 
 <drv mrk="akv.super0i">
-  <kap>super<tld/>i<fnt>Z</fnt></kap>
+  <kap><ofc>*</ofc>super<tld/>i <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5213">super'akv'</url></lok></fnt></kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="akv.super0i.KOMUNE">
     <dif>
       Inundi:
       <ekz>
-        la herbejoj estis super<tld/>itaj<fnt>B</fnt>.
+        la tuta vila&gcirc;o estis super<tld/>ita, kaj oni remis per
+        kanoto
+        inter la domoj
+        <fnt>
+          <aut>Sten Bergman, trad. Birger Gerdman</aut>
+          <vrk>Tra sova&gcirc;a Kam&ccirc;atko</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        granda <tld/>o ne povas estingi la amon, kaj riveroj ne povas
+        super<tld/>i &gcirc;in
+        <fnt>
+          <bib>MT</bib>
+          <lok>Alta kanto 8:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por gardi sin kontra&ubreve; troaj super<tld/>oj, 
+        ili konstruis potencajn digojn kaj fosis <tld/>ujojn
+        <fnt>
+          <bib>Far1</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#3609;&#3657;&#3635;&#3607;&#3656;&#3623;&#3617;</trd>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_t;&c_a;&c_p;&c_ib;&c_c;&c_mol;</trd>
   <trd lng="br">li&ntilde;va&ntilde;</trd>
@@ -822,7 +967,8 @@
     <trd>flood</trd>,
     <trd>inundate</trd>
   </trdgrp>
-  <trd lng="fa">&a_gh;&a_r;&a_q; &a_d;&a_r; &a_A_madda;&a_b; &f_k;&a_r;&a_d;&a_n;</trd>
+  <trd lng="fa">&a_gh;&a_r;&a_q; &a_d;&a_r; &a_A_madda;&a_b;
+  &f_k;&a_r;&a_d;&a_n;</trd>
   <trd lng="fr">inonder</trd>
   <trd lng="nl">overstromen</trd>
   <trdgrp lng="pl">
@@ -853,6 +999,7 @@
         bagateloj</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#3609;&#3657;&#3635;&#3607;&#3656;&#3623;&#3617;&#3651;&#3627;&#3597;&#3656;</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_v;&c_a;&c_d;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
@@ -892,7 +1039,17 @@
   <snc mrk="akv.tra0igi.AGR">
     <uzo tip="fak">AGR</uzo>
     <dif>
-      Alkonduki <tld/>on sur kulturatan terspacon.
+      Alkonduki <tld/>on sur kulturatan terspacon:
+      <ekz>
+        Bambuo <klr>[...]</klr> tradicie utilis <klr>[por]</klr>
+        tra<tld/>igi la 
+        kampojn per la &scirc;almoj kaj rikolti per bamburastilo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url
+          ref='https://eo.wikipedia.org/?curid=40002'>Bambuo</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="sin">
       <ref cel="irigaci.0i.AGR">irigacii</ref>
@@ -906,7 +1063,8 @@
   <trd lng="de">bew&auml;ssern</trd>
   <trd lng="en">irrigate</trd>
   <trd lng="es">irrigar</trd>
-  <trd lng="fa">&a_A_madda;&a_b;&f_y;&a_A;&a_r;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>
+  <trd lng="fa">&a_A_madda;&a_b;&f_y;&a_A;&a_r;&f_y;
+  &f_k;&a_r;&a_d;&a_n;</trd>
   <trd lng="fr">irriguer</trd>
   <trd lng="hu">&ouml;nt&ouml;z</trd>
   <trdgrp lng="nl">
@@ -941,11 +1099,13 @@
         <lok>tria libro, &ccirc;apitro 47a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#3609;&#3657;&#3635;&#3604;&#3639;&#3656;&#3617;</trd>
   </snc>
   <trd lng="ca">aigua potable</trd>
   <trd lng="cs">pitn&aacute; voda</trd>
   <trd lng="de">Trinkwasser</trd>
-  <trd lng="fa">&a_A_madda;&a_b; &a_A_madda;&a_sh;&a_A;&a_m;&f_y;&a_d;&a_n;&f_y;</trd>
+  <trd lng="fa">&a_A_madda;&a_b;
+  &a_A_madda;&a_sh;&a_A;&a_m;&f_y;&a_d;&a_n;&f_y;</trd>
   <trd lng="fr">eau potable</trd>
   <trd lng="id"><ind>air</ind> minum</trd>
   <trd lng="ja">&#39154;&#12415;&#27700;
@@ -981,6 +1141,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#3629;&#3640;&#3607;&#3585;&#3623;&#3636;&#3607;&#3618;&#3634;</trd>
   </snc>
   <trd lng="ca">hidrologia</trd>
   <trd lng="fa">&a_A_madda;&a_b;&zwnj;&a_sh;&a_n;&a_A;&a_s;&f_y;</trd>
@@ -990,7 +1151,8 @@
     <trd>hydrologie</trd>
   </trdgrp>
   <trd lng="pl">hydrologia</trd>
-  <trd lng="ru">&c_g;&c_i;&c_d;&c_r;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd
+  lng="ru">&c_g;&c_i;&c_d;&c_r;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
 </drv>
 
 <drv mrk="akv.0osciencisto">
@@ -1000,6 +1162,7 @@
     <dif>
       Fakulo pri <tld/>oscienco.
     </dif>
+    <trd lng="th">&#3609;&#3633;&#3585;&#3629;&#3640;&#3607;&#3585;&#3623;&#3636;&#3607;&#3618;&#3634;</trd>
   </snc>
   <trd lng="ca">hidr&ograve;leg</trd>
   <trd lng="fa">&a_A_madda;&a_b;&zwnj;&a_sh;&a_n;&a_A;&a_s;</trd>
@@ -1018,27 +1181,27 @@
 </art>
 <!--
 $Log: akv.xml,v $
-Revision 1.73  2017/03/06 21:10:18  revo
-Jeromo Vasxe: sauxmante ->  sxauxmante
+Revision 1.81  2017/12/20 15:10:16  revo
+Michel Cantigneaux: "super/akv/i" fundamenta kunmetajxo el la U.V.
 
-Revision 1.72  2017/01/30 15:10:17  revo
-Adam Eng: +trd ms
+Revision 1.80  2017/11/05 21:10:15  revo
+Sam Penter: korekto al trd ja
 
-Revision 1.71  2015/11/20 21:10:48  revo
-Jeromo Vasxe: + ~ejo
+Revision 1.79  2017/07/14 09:10:13  revo
+Warut Bunprasert: +trd th
 
-Revision 1.70  2015/07/04 08:37:30  revo
-aldono de trd cs per skripto de M. von Laer
+Revision 1.78  2017/07/04 22:10:15  revo
+Vito Redsky: +trd ro
 
-Revision 1.69  2015/06/28 12:03:35  revo
-aldono de trd sk per skripto de M. von Laer
+Revision 1.77  2017/06/13 18:10:21  revo
+Wolfram Diestel: ekz-o por tra~igi
 
-Revision 1.68  2014/06/06 04:10:59  revo
-Eko Nur Syah Hidayat: +id
+Revision 1.76  2017/06/13 17:10:19  revo
+Wolfram Diestel: prilaboris ekz-ojn
 
-Revision 1.67  2014/05/31 16:10:18  revo
-Eko Nur Syah Hidayat: +id
+Revision 1.75  2017/06/06 17:10:18  revo
+Ludoviko Francisco: mov dif en snc ; +tip ind
 
-Revision 1.66  2013/09/23 19:10:27  revo
+Revision 1.74  2017/06/01 09:10:14  revo
 -->
 </vortaro>

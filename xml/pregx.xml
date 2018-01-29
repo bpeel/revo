@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: pregx.xml,v 1.29 2016/05/21 07:10:18 revo Exp $">
+  <art mrk="$Id: pregx.xml,v 1.30 2017/12/19 11:10:15 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>pre&gcirc;</rad>/i
@@ -113,7 +113,8 @@
     </drv>
 
     <drv mrk="pregx.0ejo">
-      <kap><tld/>ejo</kap>
+      <kap><ofc>*</ofc><tld/>ejo
+      <fnt><bib>F</bib>, <lok>Universala Vortaro, -ej'</lok></fnt></kap>
       <snc mrk="pregx.0ejo.REL">
         <uzo tip="fak">REL</uzo>
         <dif>
@@ -242,6 +243,9 @@
   </art>
   <!--
   $Log: pregx.xml,v $
+  Revision 1.30  2017/12/19 11:10:15  revo
+  Michel Cantigneaux: fundamenta "pregxejo" el la U.V.
+
   Revision 1.29  2016/05/21 07:10:18  revo
   Eko Nur Syah Hidayat: +id
 

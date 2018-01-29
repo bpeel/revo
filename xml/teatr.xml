@@ -2,9 +2,9 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: teatr.xml,v 1.31 2015/07/04 08:37:44 revo Exp $">
+<art mrk="$Id: teatr.xml,v 1.33 2017/12/17 20:10:17 revo Exp $">
 <kap>
-  <ofc>*</ofc>
+  <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
   <rad>teatr</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="teatr.0o">
@@ -16,11 +16,16 @@
       pri verkado kaj aran&gcirc;ado de rakontoj prezentotaj
       de aktoroj a&ubreve; pupoj al spektantoj:
       <ekz>
+      Teatramanto ofte vizitas la teatron kaj ricevas balda&ubreve; teatrajn
+manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>;
+      </ekz>
+      <ekz>
         de miaj infanaj jaroj mi amas la <tld/>on
         <fnt><bib>DonKihxoto</bib>, <lok>parto 2a, &ccirc;apitro 11a, p.
         453a</lok></fnt>
       </ekz>
     </dif>
+    <trd lng="es">arte dram&aacute;tico</trd>
     <trdgrp lng="fr">
       <trd>art dramatique</trd>
     </trdgrp>
@@ -34,6 +39,7 @@
       la koncernan petskribon alportis en la <tld/>on lia edzino
       <fnt><bib>MkM</bib>, <lok>epilogo, p. 338a</lok></fnt>;
     </ekz>
+    <trd lng="es">teatro</trd>
     <trd lng="pl">teatr</trd>
   </snc>
   <snc mrk="teatr.0o.spektantaro">
@@ -46,6 +52,7 @@
         <fnt>Z</fnt>.
       </ekz>
     </dif>
+    <trd lng="es">p&uacute;blico</trd>
   </snc>
   <snc mrk="teatr.0o.aktoreco">
     <uzo tip="stl">RAR</uzo>
@@ -57,6 +64,7 @@
   <trd lng="cs">divadlo</trd>
   <trd lng="de">Theater</trd>
   <trd lng="en">theatre</trd>
+  <trd lng="es">teatro</trd>
   <trdgrp lng="fr">
     <trd>th&eacute;&acirc;tre</trd>
   </trdgrp>
@@ -73,6 +81,47 @@
   <trd lng="ru">&c_t;&c_je;&c_a;&c_t;&c_r;</trd>
   <trd lng="sk">divadlo</trd>
   <trd lng="sv">teater</trd>
+</drv>
+
+<drv mrk="teatr.0a">
+  <kap><ofc>*</ofc><ofc>ekz</ofc><tld/>a</kap>
+  <snc mrk="teatr.0a.teatrajxo">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      Rilata al la materiala teatro a&ubreve; la prezentado de teatra&jcirc;oj.
+    </dif>
+  </snc>
+  <snc mrk="teatr.0a.figure">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+     Konvena al aktoro, anta&ubreve;kalkulita por fari efekton:
+      <ekz>
+      Teatramanto ofte vizitas la teatron kaj ricevas balda&ubreve; teatrajn
+manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>th&eacute;&acirc;tral</trd>
+    <trd>th&eacute;&acirc;trale</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="teatr.0amanto">
+  <kap><ofc>*</ofc><ofc>ekz</ofc><tld/>amanto</kap>
+  <snc>
+    <dif>
+     Homo, kiu ofte vizitas teatron kaj &scirc;atas teatra&jcirc;ojn:
+      <ekz>
+      Teatramanto ofte vizitas la teatron kaj ricevas balda&ubreve; teatrajn
+manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>th&eacute;&acirc;tral</trd>
+    <trd>th&eacute;&acirc;trale</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="teatr.0ajxo">
@@ -95,6 +144,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;'&c_je;&c_s;&c_a;</trd>
+  <trdgrp lng="es">
+    <trd>representaci&oacute;n</trd>,
+    <trd>pieza de teatro</trd>,
+    <trd>obra de teatro</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>pi&egrave;ce de th&eacute;&acirc;tre</trd>
   </trdgrp>
@@ -133,6 +187,7 @@
   <trd lng="be">&c_t;&c_e;&c_a;&c_t;&c_a;&c_r;<klr>
   (&c_b;&c_u;&c_d;&c_y;&c_n;&c_a;&c_k;)</klr></trd>
   <trd lng="cs">divadlo <klr>(budova)</klr></trd>
+  <trd lng="es">teatro</trd>
   <trdgrp lng="fr">
     <trd>th&eacute;&acirc;tre<klr> (b&acirc;timent)</klr></trd>
   </trdgrp>
@@ -153,6 +208,7 @@
     <ref tip="dif" cel="kin.0ejo">kinejo</ref>
   </snc>
   <trd lng="be">&c_k;&c_ib;&c_n;&c_a;&c_t;&c_e;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trd lng="es">cine</trd>
   <trd lng="fr">cin&eacute;matographe</trd>
   <trd lng="hu">filmsz&iacute;nh&aacute;z</trd>
   <trd lng="nl">bioscoop</trd>
@@ -182,6 +238,9 @@
     <trd>movie theater</trd>,
     <trd>cinema</trd>,
     <trd>movie house</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>cine</trd>
   </trdgrp>
   <trd lng="fr">cin&eacute;matographe</trd>
   <trd lng="he">&bet;&yod;&tav; &qof;&vav;&lamed;&nun;&vav;&ayin;</trd>
@@ -214,13 +273,18 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="cs">stínové divadlo</trd>
+  <trd lng="cs">st&iacute;nov&eacute; divadlo</trd>
+  <trdgrp lng="es">
+    <trd>teatro de sombras chinescas</trd>,
+    <trd>teatro de sombras chinas</trd>,
+    <trd>teatro de sombras</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>ombres chinoises</trd>,
     <trd>th&eacute;&acirc;tre d'ombres</trd>
   </trdgrp>
   <trd lng="pl">teatr cieni</trd>
-  <trd lng="sk">tieňové divadlo</trd>
+  <trd lng="sk">tie&ncaron;ov&eacute; divadlo</trd>
 </drv>
 
 <drv mrk="teatr.pup0o">
@@ -238,8 +302,12 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_ja;&c_l;&c_je;&c_ch;&c_n;&c_y; <ind>&c_t;&c_e;&c_a;&c_t;&c_a;&c_r;</ind></trd>
-  <trd lng="cs">loutkové divadlo</trd>
+  <trd lng="cs">loutkov&eacute; divadlo</trd>
   <trd lng="de">Puppentheater</trd>
+  <trdgrp lng="es">
+    <trd>teatro de marionetas</trd>,
+    <trd>teatro de t&iacute;teres</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>th&eacute;&acirc;tre de marionnettes</trd>
   </trdgrp>
@@ -250,7 +318,7 @@
     <trd>teatrzyk kukie&lstroke;kowy</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_u;&c_k;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_j; <ind>&c_t;&c_je;&c_a;&c_t;&c_r;</ind></trd>
-  <trd lng="sk">bábkové divadlo</trd>
+  <trd lng="sk">b&aacute;bkov&eacute; divadlo</trd>
   <trd lng="sv">dockteater</trd>
 </drv>
 
@@ -267,10 +335,15 @@
   </snc>
   <trd lng="be">&c_t;&c_e;&c_a;&c_t;&c_r; 
     <ind>&c_v;&c_a;&c_r;'&c_ja;&c_t;&c_e;</ind></trd>
-  <trd lng="cs">varietní divadlo</trd>
+  <trd lng="cs">varietn&iacute; divadlo</trd>
   <trdgrp lng="de">
     <trd>Variet&eacute;</trd>,
     <trd>Variet&eacute;theater</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>teatro de <ind>variedades</ind></trd>,
+    <trd>cabar&eacute;</trd>,
+    <trd>cabaret</trd>
   </trdgrp>
   <trd lng="fr">th&eacute;&acirc;tre de <ind>vari&eacute;t&eacute;</ind>s</trd>
   <trdgrp lng="hu">
@@ -287,11 +360,17 @@
    <trd>teatro de variedades</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_a;&c_t;&c_r; <ind>&c_v;&c_a;&c_r;&c_mol;&c_je;&c_t;&c_je;</ind></trd>
-  <trd lng="sk">varietné divadlo</trd>
+  <trd lng="sk">varietn&eacute; divadlo</trd>
 </drv>
 </art>
 <!--
 $Log: teatr.xml,v $
+Revision 1.33  2017/12/17 20:10:17  revo
+Michel Cantigneaux: aldonita per 1a OA kaj klarige fundamenta per 7a OA + ekzemplo el la Ekzercaro
+
+Revision 1.32  2017/11/17 12:10:20  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.31  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -308,17 +387,5 @@ Revision 1.27  2013/09/22 18:10:22  revo
 Wolfram Diestel: referenco al listo artoj
 
 Revision 1.26  2013/08/29 01:10:30  revo
-Jeromo Vasxe: + ombro~o
-
-Revision 1.25  2012/05/08 10:10:08  revo
-Jeromo Vasxe: + varietea ~o el art variete
-
-Revision 1.24  2009/09/10 16:30:58  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.23  2008/10/24 16:40:46  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.22  2006/09/22 20:22:35  revo
 -->
 </vortaro>

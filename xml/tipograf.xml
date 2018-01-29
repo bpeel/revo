@@ -2,12 +2,12 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tipograf.xml,v 1.3 2013/12/22 09:10:14 revo Exp $">
+<art mrk="$Id: tipograf.xml,v 1.4 2018/01/02 19:10:22 revo Exp $">
 <kap>
-  <rad>tipograf</rad>/o <fnt><bib>PIV1</bib></fnt>
+  <ofc>7</ofc><rad>tipograf</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="tipograf.0o">
-  <kap><tld/>o</kap>
+  <kap><ofc>7</ofc><tld/>o</kap>
   <snc mrk="tipograf.0o.TIP">
     <uzo tip="fak">TIP</uzo>
     <ref tip="dif" cel="tipogr.0a.TIP">tipografiisto</ref>
@@ -42,6 +42,9 @@
 
 <!--
 $Log: tipograf.xml,v $
+Revision 1.4  2018/01/02 19:10:22  revo
+Michel Cantigneaux: Aldonita per 7a OA
+
 Revision 1.3  2013/12/22 09:10:14  revo
 Damien Brucker: +trd fr
 

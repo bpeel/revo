@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kur.xml,v 1.36 2017/03/29 11:10:13 revo Exp $">
+<art mrk="$Id: kur.xml,v 1.39 2017/12/19 08:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kur</rad>/i <fnt><bib>PV</bib></fnt>
@@ -16,18 +16,38 @@
     <dif>
       Iri per movoj pli rapidaj ol mar&scirc;o:
       <ekz>
-        <tld/>i kiel venenita
-        muso<fnt>Z</fnt>
-        <klr>(rapide kaj &ccirc;ien)</klr>;
-      </ekz><ekz>
-        &scirc;i tuj <tld/>is bati &scirc;in<fnt>Z</fnt>;
+        &scirc;i tuj <tld/>is bati &scirc;in
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 21</lok>
+        </fnt>;
       </ekz><ekz>
         <tld/>i post iu, al iu;
       </ekz><ekz>
-        la muso <tld/>is sub la liton<fnt>Z</fnt>;
-      </ekz><ekz>
+        la muso <tld/>is sub la liton
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 26</lok>
+        </fnt>
+        <fnt>
+          <bib>LR</bib>
+          <lok>13. Prepozicioj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>adi kiel venenita muso
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+        <klr>(rapide kaj &ccirc;ien)</klr>;
+      </ekz>
+      <ekz>
         <uzo tip="stl">FIG</uzo>
-        <tld/>i en dan&gcirc;eron<fnt>B</fnt>.
+        <tld/>i en dan&gcirc;eron
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -65,16 +85,27 @@
         mono <tld/>as al mono
         <fnt><bib>PrV</bib></fnt>;
       </ekz><ekz>
-        tremoj <tld/>is sur mia dorso<fnt>B</fnt>;
+        tremoj <tld/>as sur mia dorso
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>;
       </ekz><ekz>
         <uzo tip="stl">FIG</uzo>
-        la dormo <tld/>is for de miaj okuloj<fnt>Z</fnt>;
+        la dormo <tld/>is for de miaj okuloj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 31:40</lok>
+        </fnt>;
       </ekz><ekz>
         <uzo tip="stl">FIG</uzo>
         scii&gcirc;o <tld/>is tra la urbo;
       </ekz><ekz>
         <uzo tip="stl">FIG</uzo>
-        larmoj el<tld/>is al li sur la vangoj<fnt>Z</fnt>.
+        larmoj el<tld/>is al li sur la vangojn
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="bg">
@@ -104,10 +135,7 @@
       </ekz><ekz>
         ru&gcirc;a fadeno <tld/>as tra la &scirc;tofo;
       </ekz><ekz>
-        la procentoj <tld/>as jam de unu jaro;
-      </ekz><ekz>
-        de&scirc;irita de la <tld/>a <klr>(ordinara, kutima)</klr> sorto
-        de mia domo<fnt>Z</fnt>.
+        la procentoj <tld/>as jam de unu jaro.
       </ekz>
     </dif>
     <rim>
@@ -209,16 +237,23 @@
     <dif>
       Ripete, regule okazanta; kutima, ordinara:
       <ekz>
-        Kiel vi pagas la <tld/>antajn elspezojn?
-        <fnt><bib>Far3</bib>, <lok>&ccirc;ap. 10a.</lok></fnt>;
+        kiel vi pagas la <tld/>antajn elspezojn?
+        <fnt><bib>Far3</bib>, <lok>&ccirc;ap. 10a.</lok></fnt>
       </ekz><ekz>
         <uzo tip="fak">EKON</uzo>
         <ind><tld/>anta konto</ind>
         <klr>(banka <ref cel="kont.0o.KOME">konto<sncref/></ref>
-        por fari <tld/>antajn, kutimajn operaciojn)</klr>
+        por fari <tld/>antajn, kutimajn operaciojn)</klr>;
         <trd lng="en">current account</trd>
         <trd lng="ru">&c_t;&c_je;&c_k;&c_u;&c_shch;&c_i;&c_j;
         &c_s;&c_ch;&c_jo;&c_t;</trd>
+      </ekz>
+      <ekz>
+        de&scirc;irita de la <tld/>anta sort'
+        de mia domo
+        <fnt>
+          <bib>Ifigenio</bib>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -384,7 +419,11 @@
         li <tld/>igis &ccirc;iujn siajn
         servistojn por plenumi plej malgrandan deziron;
       </ekz><ekz>
-        <tld/>igi malbonan famon pri iu<fnt>Z</fnt>.
+        <tld/>igi malbonan famon pri iu
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 22</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -545,6 +584,17 @@
   </trdgrp>
 </drv>
 
+<drv mrk="kur.dis0i">
+  <kap><ofc>*</ofc>dis<tld/>i
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, dis'</lok></fnt></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Kuri en diversaj direktoj.
+    </dif>
+  </snc>
+</drv>    
+
 <drv mrk="kur.for0i">
   <kap>for<tld/>i</kap>
   <gra><vspec>ntr</vspec></gra>
@@ -554,15 +604,25 @@
       eviti:
       <ekz>
         li for<tld/>is de sia kreditoro, tuj kiam li ekvidis lin;
-      </ekz><ekz>
-        for<tld/>i el malliberejo<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        malliberejo, el kiu li lerte for<tld/>is kaj malaperis, oni ne
+        scias kien
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
       </ekz><ekz>
         <uzo tip="stl">FIG</uzo>
-        la mallumo for<tld/>is<fnt>B</fnt>
+        la mallumo for<tld/>is
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>
         <klr>(&ccirc;esis, fini&gcirc;is)</klr>;
-      </ekz><ekz>
-        <uzo tip="stl">FIG</uzo>
-        la dormo for<tld/>is de miaj okuloj<fnt>Z</fnt>;
       </ekz><ekz>
         <uzo tip="stl">FIG</uzo>
         la tro rapida for<tld/>o de la tempo;
@@ -664,9 +724,14 @@
         la Egiptoj post<tld/>is viajn patrojn per &ccirc;aroj kaj
         rajdantoj &gcirc;is la Ru&gcirc;a Maro
         <fnt><bib>MT</bib>, <lok>&Jos; 24:6</lok></fnt>;
-      </ekz><ekz>
-        post<tld/>i &scirc;teliston<fnt>Z</fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
+        preta post<tld/>i, se iu metus ian libron en la po&scirc;on
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
         la <ind>post<tld/>anto</ind>j ser&ccirc;is sur la tuta vojo,
         kaj ne trovis
         <fnt><bib>MT</bib>, <lok>&Jos; 2:22</lok></fnt>.
@@ -726,10 +791,18 @@
       <ekz>
         tra<tld/>i kampon;
       </ekz><ekz>
-        li tra<tld/>is per la okuloj la unuan pa&gcirc;on<fnt>Z</fnt>;
+        li tra<tld/>is per la okuloj la unuan pa&gcirc;on
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
       </ekz><ekz>
         du ekbriloj de fulmo tra<tld/>is tra la malluma
-        &ccirc;ielo<fnt>Z</fnt>;
+        &ccirc;ielo
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 40</lok>
+        </fnt>;
       </ekz><ekz>
         <uzo tip="stl">FIG</uzo>
         tiu penso tra<tld/>is mian animon kiel fulmo;
@@ -780,13 +853,41 @@
     <dif>
       Trairi rapide kaj poste forlasi:
       <ekz>
-        rideto trans<tld/>is liajn lipojn;
+        ni trans<tld/>u al alia temo;
       </ekz>
       <ekz>
-        ni trans<tld/>u al alia temo.
+        sur &scirc;ia viza&gcirc;o trans<tld/>is dum unu minuto milo da
+        <klr>[&#8230;]</klr> malestimaj ridetoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i rapidis trans<tld/>i la straton, kiam du kale&scirc;oj kun furioza
+        rapideco pretergalopis
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Knabineto kun alumetoj</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <snc mrk="kur.trans0i.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Transiri kaj submeti&gcirc;i al la ordono de la malamiko:
+      <ekz>
+        mi timas la Judojn, kiuj trans~is al la &Hcirc;aldeoj, ke oni ne
+        transdonu min en iliajn manojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 38:19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">&uuml;berlaufen</trd>
+  </snc>
+
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_b;&c_je;&c_g;&c_ch;&c_y; <klr
   tip="amb">(&c_p;&c_r;&c_a;&c_z;
   &c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
@@ -821,10 +922,12 @@
   <kap>&ccirc;as<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="kur.cxas0i.KOMUNE">
-    <ref tip="dif" cel="kur.post0i">post<tld/>i</ref>
-    <ekz>
-      &ccirc;as<tld/>i leporon.
-    </ekz>
+    <dif>
+     <ref tip="dif" cel="kur.post0i">Post<tld/>i</ref>:
+      <ekz>
+        &ccirc;as<tld/>i leporon.
+      </ekz>
+    </dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_g;&c_n;&c_a;&c_c;&c_c;&c_a;</trd>,
@@ -862,7 +965,37 @@
   <snc mrk="kur.vet0o.SPO">
     <uzo tip="fak">SPO</uzo>
     <dif>
-      <tld lit="K"/>o inter sportaj konkurantoj.
+      <tld lit="K"/>o inter sportaj konkurantoj:
+      <ekz>
+        jen la botelo mobilizas / kaj via glaso improvizas / vet<tld/>on
+        al najbara glas'
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk>La Stranga Butiko</vrk>
+          <lok>Vagonrestoracio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li trovis anoncon pri la sabataj &ccirc;evalaj vet<tld/>oj, do ni kune
+        iris al la kurejo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url
+          ref="http://www.monato.net/2012/010361.php">Lisuarte</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        subite arego da virinoj interrompas prezentotan &ccirc;arvet<tld/>on
+        per sia propra 
+        &ccirc;irka&ubreve;<tld/>ado en la cirkejo, tiel malebligante la prezenta&jcirc;on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="http://www.monato.net/2006/008885.php">Rakontoj
+          neniam perdontaj sian legindecon</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -903,6 +1036,15 @@
 </art>
 <!--
 $Log: kur.xml,v $
+Revision 1.39  2017/12/19 08:10:24  revo
+Michel Cantigneaux: fundamenta "diskuri" el la Universala Vortaro
+
+Revision 1.38  2017/11/21 19:10:24  revo
+Wolfram Diestel: prilaboris ekz-ojn, +snc transkuri MIL
+
+Revision 1.37  2017/11/20 19:10:24  revo
+Wolfram Diestel: fnt-oj de ekz-oj
+
 Revision 1.36  2017/03/29 11:10:13  revo
 Lyubomir Vasilev: +trd bg
 
@@ -916,14 +1058,5 @@ Revision 1.33  2015/06/29 16:33:18  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.32  2014/03/30 13:10:22  revo
-Jeromo Vasxe: + al~i
-
-Revision 1.31  2013/08/22 15:10:15  revo
-Sergio Pokrovskij: ~anta
-
-Revision 1.30  2011/07/14 05:10:17  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.29  2011/01/17 00:10:10  revo
 -->
 </vortaro>

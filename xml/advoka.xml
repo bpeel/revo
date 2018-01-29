@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: advoka.xml,v 1.30 2016/05/21 07:10:20 revo Exp $">
+<art mrk="$Id: advoka.xml,v 1.32 2017/11/26 16:10:15 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>advokat</rad>/o <fnt><bib>PV</bib></fnt>
@@ -89,7 +89,14 @@
   <trd lng="de">Anwalt</trd>
   <trd lng="hu">&uuml;gyv&eacute;d</trd>
   <trd lng="nl">advocaat</trd>
-  <trd lng="pl">adwokat</trd>
+  <trdgrp lng="pl">
+    <trd>adwokat</trd>,
+    <trd>obro&nacute;ca</trd>
+  </trdgrp> 
+  <trdgrp lng="ro">
+    <trd>avocat</trd>,
+    <trd>campion</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_a;&c_d;&c_v;&c_o;&c_k;&c_a;&c_t;</trd>,
     <trd>&c_z;&c_a;&c_shch;&c_i;&c_t;&c_n;&c_i;&c_k;</trd>
@@ -107,6 +114,12 @@
 </art>
 <!--
 $Log: advoka.xml,v $
+Revision 1.32  2017/11/26 16:10:15  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.31  2017/07/04 22:10:14  revo
+Vito Redsky: +trd ro
+
 Revision 1.30  2016/05/21 07:10:20  revo
 Eko Nur Syah Hidayat: +id
 
@@ -123,11 +136,5 @@ Revision 1.26  2015/01/22 20:10:17  revo
 Wolfram Diestel: -tajperaro, ekz-oj PrV
 
 Revision 1.25  2011/11/02 11:10:11  revo
-Antonio Codazzi: +trd it
-
-Revision 1.24  2011/02/18 17:10:09  revo
-Jeromo Vasxe: ref dif porparolanto
-
-Revision 1.23  2008/07/30 18:14:00  revo
 -->
 </vortaro>

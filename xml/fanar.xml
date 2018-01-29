@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: fanar.xml,v 1.10 2016/08/09 08:10:34 revo Exp $">
+  <art mrk="$Id: fanar.xml,v 1.11 2017/04/27 18:10:21 revo Exp $">
     <kap><rad>Fanar</rad>/o
       <fnt>
 	<aut>A.D. Atanasov k.a.</aut>:
@@ -13,7 +13,7 @@
 
     <drv mrk="fanar.F0o">
       <kap><tld/>o</kap>
-      <snc mrk="fanar.F0o..GEOG">
+      <snc mrk="fanar.F0o.GEOG">
 	<uzo tip="fak">GEOG</uzo>
 	<dif>
 	  La &leftquot;Lumtura kvartalo&rightquot; en
@@ -87,10 +87,17 @@
 	<trd>&c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k; <ind>&c_F;&c_a;&c_n;&c_a;&c_r;&c_a;</ind></trd>
       </trdgrp>
     </drv>
+
+    <adm>Mi ne trovis uzojn de tiu vorto en Interreto. Anstata&ubreve;e aperas "fanaro" en la senco "amikaro", "anaro", ekz. pri piedpilko-kluboj
+       <aut>WD</aut>
+    </adm>
   </art>
 
   <!--
   $Log: fanar.xml,v $
+  Revision 1.11  2017/04/27 18:10:21  revo
+  Wolfram Diestel: kor. mrk, +adm pri manko de ekz-oj
+
   Revision 1.10  2016/08/09 08:10:34  revo
   Damien Brucker: +trd fr
 

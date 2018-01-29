@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: hxet.xml,v 1.2 2014/02/09 09:10:13 revo Exp $">
+  <art mrk="$Id: hxet.xml,v 1.3 2017/04/27 23:10:42 revo Exp $">
     <kap>
       <rad>&hcirc;et</rad>/o <fnt>Z</fnt>
     </kap>
@@ -50,6 +50,10 @@
           <ref cel="anatoli.0o">Anatolio</ref> kaj
           formis tie grandan regnon (1500&ndash;1200 a.K.):
           <ekz>
+            Bat-&Scirc;eba, filino de Eliam, kaj edzino de Urija, la
+            <tld/>ido
+            <fnt><bib>MT</bib>, <lok>&Sa2; 11:3</lok></fnt>;
+          </ekz><ekz>
             kaj <klr>la sirianoj</klr> diris unu al la alia: Certe la
             re&gcirc;o de Izrael dungis kontra&ubreve; ni la re&gcirc;ojn de la
             <tld/>idoj kaj la re&gcirc;ojn de la egiptoj, ke ili iru kontra&ubreve;
@@ -57,6 +61,7 @@
 	    <fnt><bib>MT</bib>, <lok>&Re1; 7:6</lok></fnt>.
           </ekz>
         </dif>
+        <trd lng="el">&Chi;&epsilon;&tau;&tau;&alfa;&jota_trema_ton;&omikron;&jota;</trd>
         <trd lng="en">Hittite</trd>
         <trd lng="ru">&c_h;&c_je;&c_t;&c_t;</trd>
       </snc>
@@ -119,6 +124,9 @@
 
 <!--
 $Log: hxet.xml,v $
+Revision 1.3  2017/04/27 23:10:42  revo
+Sergio Pokrovskij: +ekz
+
 Revision 1.2  2014/02/09 09:10:13  revo
 Damien Brucker: -eraro cxe ref
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: part.xml,v 1.53 2017/03/30 11:10:13 revo Exp $">
+<art mrk="$Id: part.xml,v 1.55 2017/12/28 23:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>part</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -306,7 +306,9 @@
 </drv>
 
 <drv mrk="part.0opreni">
-  <kap><tld/>opreni</kap>
+  <kap><ofc>*</ofc><tld/>opreni <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5142">part'o'pren'</url></lok></fnt></kap>
   <gra><vspec>x</vspec></gra>
   <snc mrk="part.0opreni.preni">
     <dif>
@@ -494,6 +496,10 @@
     <trdgrp lng="pl">
       <trd>podzia&lstroke;</trd>,
       <trd>rozdzia&lstroke;</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+      <trd>divizie</trd>,
+      <trd>&icirc;mp&abreve;r&tcedil;ire</trd>
     </trdgrp>
     <trd lng="ru">&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
   </snc>
@@ -795,6 +801,12 @@
 </art>
 <!--
 $Log: part.xml,v $
+Revision 1.55  2017/12/28 23:10:16  revo
+Vito Redsky: +trd ro
+
+Revision 1.54  2017/12/20 09:10:15  revo
+Michel Cantigneaux: "part/o/pren/i" fundamenta kunmetajxo el la U.V.
+
 Revision 1.53  2017/03/30 11:10:13  revo
 Ludoviko Francisco: +trd fr
 
@@ -811,11 +823,5 @@ Revision 1.49  2015/02/04 17:10:21  revo
 Wolfram Diestel: - erareto
 
 Revision 1.48  2014/09/19 10:10:09  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.47  2014/06/08 01:10:18  revo
-Jeromo Vasxe: + sia~e
-
-Revision 1.46  2014/05/24 17:10:20  revo
 -->
 </vortaro>

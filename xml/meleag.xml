@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: meleag.xml,v 1.20 2014/05/01 08:10:33 revo Exp $">
+<art mrk="$Id: meleag.xml,v 1.21 2017/08/15 22:10:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>meleagr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -48,11 +48,13 @@
   </trdgrp>
   <trd lng="hu">pulyka</trd>
   <trd lng="nl">kalkoen</trd>
+  <trd lng="pl">indyk</trd>
   <trd lng="pt">peru</trd>
   <trdgrp lng="es">
     <trd>pavo</trd>,  
     <trd>chompipe</trd>
   </trdgrp>
+  <trd lng="ro">curcan</trd>
   <trdgrp lng="ru">
     <trd>&c_i;&c_n;&c_d;&c_ju;&c_k; <klr>(masklo)</klr></trd>,
     <trd>&c_i;&c_n;&c_d;&c_je;&c_j;&c_k;&c_a; <klr>(femalo)</klr></trd>,
@@ -63,6 +65,9 @@
 </art>
 <!--
 $Log: meleag.xml,v $
+Revision 1.21  2017/08/15 22:10:29  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.20  2014/05/01 08:10:33  revo
 Joop Eggen: korekto de preventinte trovi Pute
 
@@ -82,8 +87,5 @@ Revision 1.15  2006/07/30 16:32:58  revo
 Tulio Flores: +tr pt
 
 Revision 1.14  2005/07/07 16:33:24  revo
-Alan ar Gall: +trd br, +1 trd fr
-
-Revision 1.13  2003/05/19 19:41:36  revo
 -->
 </vortaro>

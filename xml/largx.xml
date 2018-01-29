@@ -2,14 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: largx.xml,v 1.28 2017/01/27 12:10:18 revo Exp $">
+<art mrk="$Id: largx.xml,v 1.30 2017/12/21 08:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lar&gcirc;</rad>/a <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="largx.0a">
   <kap>
-    <ofc>*</ofc><tld/>a
+    <ofc>*</ofc><tld/>a <fnt><bib>F</bib>, <lok>Universala Vortaro, <url
+    ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-2487">lar&gcirc;'</url></lok></fnt>
   </kap>
   <snc>
     <dif>
@@ -248,7 +249,7 @@ tip="ind">(m&eacute;ret)</klr></trd>
 
 <drv mrk="largx.mal0a">
   <kap>
-    mal<tld/>a
+    <ofc>*</ofc><ofc>ekz</ofc> mal<tld/>a
   </kap>
   <snc>
     <dif>
@@ -258,7 +259,15 @@ tip="ind">(m&eacute;ret)</klr></trd>
         mal<tld/>a rubando, vojeto, pordo;
       </ekz>
       <ekz>
-        mal<tld/>a vesto, cerbo.
+        mal<tld/>a vesto, cerbo;
+      </ekz>
+      <ekz>
+      Li estas tiel dika, ke li ne povas trairi tra nia mal<tld/>a pordo
+      <fnt><bib>F</bib>, <lok>&FE; 33</lok></fnt>;
+      </ekz>
+      <ekz>
+      Mal<tld/>a vojeto kondukas tra tiu &ccirc;i kampo al nia domo
+      <fnt><bib>F</bib>, <lok>&FE; 38</lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -299,9 +308,39 @@ tip="ind">(m&eacute;ret)</klr></trd>
   <trd lng="pt">estreito</trd>
   <trd lng="ru">&c_u;&c_z;&c_k;&c_i;&c_j;</trd>
 </drv>
+
+
+<drv mrk="largx.laux0e">
+  <kap>
+    <ofc>*</ofc> la&ubreve;<tld/>e <fnt><bib>F</bib>, <lok>Universala Vortaro,
+    <url
+    ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5085">la&ubreve;'lar&gcirc;'</url></lok></fnt>
+  </kap>
+  <snc>
+    <dif>
+    Transverse.
+    </dif>
+  </snc>
+  <trd lng="de">quer</trd>
+  <trdgrp lng="en">
+    <trd>across</trd>,
+    <trd>in width</trd>,
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&agrave; travers</trd>,
+    <trd>en large</trd>,
+  </trdgrp>
+ </drv>
 </art>
 <!--
 $Log: largx.xml,v $
+Revision 1.30  2017/12/21 08:10:13  revo
+Michel Cantigneaux: korektigeto
+
+Revision 1.29  2017/12/21 00:10:28  revo
+Michel Cantigneaux: Aldono de "laux/largx/e", fundamenta kunmetajxo el
+la U.V.
+
 Revision 1.28  2017/01/27 12:10:18  revo
 Lyubomir Vasilev: +trd bg
 
@@ -317,12 +356,5 @@ Behnam Tabatabai: korr arabaj/persaj koderoj
 Revision 1.24  2009/05/17 16:31:25  revo
 Behnam Tabatabai: +trd fa
 
-Revision 1.23  2008/05/06 16:37:26  revo
-Jeromo Vasxe: kor 2 fnt
-
-Revision 1.22  2006/01/12 21:54:14  revo
-H. Neal Parker: +trd en,es
-
-Revision 1.21  2005/03/28 17:15:27  revo
 -->
 </vortaro>

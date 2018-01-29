@@ -2,9 +2,11 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lang.xml,v 1.33 2015/07/04 08:37:38 revo Exp $">
-<kap><ofc>*</ofc>
-<rad>lang</rad>/o</kap>
+<art mrk="$Id: lang.xml,v 1.35 2017/11/01 20:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>lang</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
 <drv mrk="lang.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="lang.0o.ANA">
@@ -15,7 +17,8 @@
       gustumi kaj paroli:
       <ekz>
         montri la <tld/>on al la kuracisto;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         man&gcirc;i bov<tld/>on.
       </ekz>
     </dif>
@@ -25,28 +28,35 @@
       Tiu organo, &ccirc;e la homo, konsiderata kiel sidejo de parolkapablo:
       <ekz>
         ili parolas kun mi per mensogema <tld/>o
-        <fnt><bib>MT</bib>, <lok>&Psa; 109:2</lok></fnt>;
-      </ekz><ekz>
+        <fnt><bib>MT</bib> <lok>&Psa; 109:2</lok></fnt>;
+      </ekz>
+      <ekz>
         milda<fnt>Z</fnt>,
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         malpia<fnt>Z</fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         mia <tld/>o parolos veron<fnt>Z</fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         gardi sian <tld/>on<fnt>Z</fnt>
         <klr>(silenti)</klr>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         plej bona gvidilo estas <tld/>o<fnt>Z</fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <uzo tip="stl">FIG</uzo>
         lia nomo estas sur &ccirc;ies <tld/>o
         <klr>(li estas tre fama)</klr>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <ctl>Fajro sur mia <tld/>o</ctl>
         <klr>(poemaro de Edwin de Kock)</klr>
-        <fnt><aut>de Kock Edwin</aut>,
-          <vrk>Fajro sur mia lango.</vrk>
-          <lok>La Laguna: R&eacute;gulo, 1967</lok>
+        <fnt><aut>E. de Kock</aut>
+          <vrk>Fajro sur mia lango</vrk>
+          <lok>1967</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -57,7 +67,8 @@
       Io simila al <tld/>o:
       <ekz>
         longaj <tld/>oj de flamo;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         ter<tld/>o <klr>(terkapo)</klr>.
       </ekz>
     </dif>
@@ -67,13 +78,13 @@
   <trd lng="br">teod</trd>
   <trdgrp lng="cs">
     <trd>jazyk (v &uacute;stech)</trd>,
-    <trd>jazyk <klr>(v ústech)</klr></trd>
+    <trd>jazyk <klr>(v &uacute;stech)</klr></trd>
   </trdgrp>
   <trd lng="de">Zunge</trd>
   <trd lng="el">&gamma;&lambda;&omega_ton;&sigma;&sigma;&alfa;</trd>
   <trd lng="en">tongue</trd>
   <trd lng="es">lengua</trd>
-  <trd lng="fr">langue<klr> (organe)</klr></trd>
+  <trd lng="fr">langue<klr tip="ind"> (organe)</klr></trd>
   <trd lng="hu">nyelv<klr> (szerv)</klr></trd>
   <trd lng="id">lidah</trd>
   <trd lng="it">lingua<klr> (anat.)</klr></trd>
@@ -94,15 +105,19 @@
       <ekz>
         <uzo tip="fak">ANA</uzo>
         <tld/>a arterio;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <tld/>a kiso;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <uzo tip="fak">KUI</uzo>
         <tld/>a kolbaso;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <uzo tip="fak">FON</uzo>
         <tld/>a konsonanto;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <uzo tip="stl">FIG</uzo>
         <uzo tip="stl">FRAZ</uzo>
         <tld/>a vundo plej profunda
@@ -110,6 +125,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="fr">lingual</trd>
   <trdgrp lng="ru">
     <trd>&c_ja;&c_z;&c_y;&c_k;&c_o;&c_v;&c_y;&c_j;</trd>,
     <trd>&c_ja;&c_z;&c_y;&c_ch;&c_n;&c_y;&c_j;</trd>
@@ -118,26 +134,27 @@
 
 <drv mrk="lang.0eto">
   <kap><tld/>eto</kap>
-  <uzo tip="fak">KOMP</uzo>
-  <snc>
+  <snc mrk="lang.0eto.KOMP">
+   <uzo tip="fak">KOMP</uzo>
     <dif>
-      Elstara parto de komputila <ref tip="malprt"
+      Elstara&jcirc;o de komputila <ref tip="malprt"
       cel="fenest.0o.KOMP">fenestro</ref>, facile alklakebla.
       <ekz>
-        Firefox estas kompakta versio de la programo Mozilo. &Gcirc;i
-        inkluzivas
-        &scirc;ildon kontra&ubreve; <ref tip="vid"
+        Firefox estas kompakta versio de la programo Mozilo; &gcirc;i
+        inkluzivas &scirc;ildon kontra&ubreve; <ref tip="vid"
         cel="fenest.sxpruc0o">&scirc;prucfenestroj</ref>, Guglo-ser&ccirc;ejon kaj
-        la
-        eblon navigi per <tld/>etoj
-        <fnt><aut>Marko Naoki LINS</aut>:
-        <vrk>Foliumiloj denove interbatalas</vrk>,
-        <bib>Monato</bib><lok>jaro 2005, numero 1a, p. 17a</lok></fnt>.
+        la eblon navigi per <tld/>etoj
+        <fnt>
+        <aut>M. Naoki Lins</aut>
+        <vrk>Foliumiloj denove interbatalas</vrk>
+        <bib>Monato</bib>
+        <lok>2005:1, p. 17a</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="br">pempilh<klr tip="ind"> (stlenn.)</klr></trd>
-  <trd lng="cs">jazýček nástroje</trd>
+  <trd lng="cs">jaz&yacute;&ccaron;ek n&aacute;stroje</trd>
   <trd lng="en">tab</trd>
   <trdgrp lng="fr">
     <trd>languette</trd>,
@@ -153,7 +170,27 @@
     <trd>&c_z;&c_a;&c_k;&c_l;&c_a;&c_d;&c_k;&c_a;</trd>,
     <trd>&c_ja;&c_z;&c_y;&c_ch;&c_o;&c_k;<klr tip="ind"> (&c_z;&c_a;&c_k;&c_l;&c_a;&c_d;&c_k;&c_a;)</klr></trd>
   </trdgrp>
-  <trd lng="sk">jazýček nástroja</trd>
+  <trd lng="sk">jaz&yacute;&ccaron;ek n&aacute;stroja</trd>
+</drv>
+
+<drv mrk="lang.sonoril0o">
+  <kap>sonoril<tld/>o</kap>
+  <snc mrk="lang.sonoril0o.MUZ">
+    <dif>
+      Centre pendanta, pendola parto de
+      <ref tip="malprt" cel="sonor.0ilo.MUZ">sonorilo</ref>,
+      kiu, agitate, frapas la vandon kaj &gcirc;in sonigas:
+      <ekz>
+        la sonoril<tld/>o frapis la vandon de sonorilego
+        <fnt>
+          <aut>Mo Yan, trad. Vejdo</aut>
+          <vrk>Travidebla Ru&gcirc;a Rafano</vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">battant de cloche</trd>
 </drv>
 
 <drv mrk="lang.0trinki">
@@ -185,14 +222,20 @@
   <trd lng="pl">ch&lstroke;epta&cacute;</trd>
   <trd lng="ru">&c_l;&c_a;&c_k;&c_a;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
-    <trd>chleptať</trd>,
-    <trd>strebať</trd>
+    <trd>chlepta&tcaron;</trd>,
+    <trd>streba&tcaron;</trd>
   </trdgrp>
   <trd lng="sv">lapa</trd>
 </drv>
 </art>
 <!--
 $Log: lang.xml,v $
+Revision 1.35  2017/11/01 20:10:16  revo
+Jeromo Vasxe: + sonoril~o
+
+Revision 1.34  2017/04/05 11:10:14  revo
+Ludoviko Francisco: +trd fr
+
 Revision 1.33  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -209,17 +252,5 @@ Revision 1.29  2010/12/02 17:30:54  revo
 Wieland Pusch: +trd bg
 
 Revision 1.28  2010/11/28 17:30:17  revo
-Antonio Codazzi: +trd it
-
-Revision 1.27  2005/05/25 16:31:37  revo
-Yury Finkel: +trd ru
-
-Revision 1.26  2005/04/08 16:32:02  revo
-Alan ar Gall: +trd br
-
-Revision 1.25  2005/02/13 17:31:13  revo
-Vito Redsky: +trd pl
-
-Revision 1.24  2005/01/20 17:32:03  revo
 -->
 </vortaro>

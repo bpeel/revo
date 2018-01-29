@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: misisipi.xml,v 1.5 2015/09/23 07:10:17 revo Exp $">
+<art mrk="$Id: misisipi.xml,v 1.6 2017/12/22 14:10:14 revo Exp $">
 <kap>
   <rad>Misisipi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -10,19 +10,29 @@
   <kap><tld/>o</kap>
   <snc mrk="misisipi.0o.GEOG">
     <uzo tip="fak">GEOG</uzo>
-    <ref tip="dif" cel="misisip.0o.GEOG_sxtato">Misisipo<sncref/></ref>
-    <ekz>
-      neniam ni kontenti&gcirc;u tiom da&ubreve;re, kiom la Negro en 
-      <tld/>o ne rajtos vo&ccirc;i  
-      <fnt>
-        <aut>M. Luther King, trad. Pejno Simono</aut>,
-        <vrk><url ref="http://www.nodo50.org/esperanto/artik90.htm">
-        Revon Havas Mi</url></vrk>,
-        <lok>[2009?]</lok>
-      </fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="misisip.0o.GEOG_sxtato">Misisipo<sncref/></ref>
+      <ekz>
+        la rivero Tombigbee situas plejparte en la samnoma sub&scirc;tato Alabamo de Usono, la unuaj kilometroj en la najbara &scirc;tato <tld/>o 
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=194">Alabamo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neniam ni kontenti&gcirc;u tiom da&ubreve;re, kiom la Negro en 
+        <tld/>o ne rajtos vo&ccirc;i  
+        <fnt>
+          <aut>M. Luther King, trad. Pejno Simono</aut>,
+          <vrk><url ref="http://www.nodo50.org/esperanto/artik90.htm">
+          Revon Havas Mi</url></vrk>,
+          <lok>[2009?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="cs">st&aacute;t Mississippi</trd>
+  <trd lng="de">Mississipi <klr>(Bundesstaat)</klr></trd>
   <trd lng="en">Mississipi</trd>
   <trd lng="fr">Mississipi</trd>
   <trd lng="nl">Mississipi</trd>
@@ -34,6 +44,9 @@
 
 <!--
 $Log: misisipi.xml,v $
+Revision 1.6  2017/12/22 14:10:14  revo
+Wolfram Diestel: plia ekz-o, germ trd.
+
 Revision 1.5  2015/09/23 07:10:17  revo
 Sebastian Cyprych: +trd pl
 

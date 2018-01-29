@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: testik.xml,v 1.24 2015/07/04 08:37:44 revo Exp $">
+<art mrk="$Id: testik.xml,v 1.26 2017/11/01 12:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>testik</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,9 +12,14 @@
   <snc mrk="testik.0o.ANA">
     <uzo tip="fak">ANA</uzo>
     <dif>
-      &Ccirc;iu el la du glandoj sekreciantaj la spermon &ccirc;e viraj mambestoj.
+      &Ccirc;iu el la du <ref tip="vid"
+      cel="endokrin.0a.FIZL">endokrinaj<sncref/></ref> <ref tip="vid"
+      cel="gland.0o.ANA">glandoj</ref>, kiuj sekrecias <ref tip="vid"
+      cel="sperm.0o.FIZL">spermon</ref> kaj virseksajn <ref tip="vid"
+      cel="hormon.0o.FIZL">hormonojn<sncref/></ref> &ccirc;e virseksuloj.
     </dif>
   </snc>
+  <ref tip="super" cel="gonad.0o.ANA">gonado</ref>
   <trd lng="kek">ab&#789;aj</trd>
   <trd lng="be">&c_ja;&c_je;&c_ch;&c_k;&c_a; <klr tip="amb">(&c_a;&c_n;&c_a;&c_t;.)</klr></trd>
   <trd lng="ca">testicle</trd>
@@ -38,7 +43,9 @@
   <trd lng="fr">testicule</trd>
   <trd lng="hu">here <klr tip="amb">(anat.)</klr></trd>
   <trd lng="id">testis</trd>
+  <trd lng="io">testikulo</trd>
   <trd lng="it">testicolo</trd>
+  <trd lng="iu">&#5123;&#5281;&#5418;&#5251;</trd>
   <trdgrp lng="nl">
     <trd>teelbal</trd>,
     <trd>testikel</trd>
@@ -49,8 +56,8 @@
   </trdgrp>
   <trd lng="ru">&c_ja;&c_i;&c_ch;&c_k;&c_o; <klr tip="amb">(&c_a;&c_n;&c_a;&c_t;.)</klr></trd>
   <trdgrp lng="sk">
-    <trd>semenník</trd>,
-    <trd>vajíčka <klr>(samčie)</klr></trd>
+    <trd>semenn&iacute;k</trd>,
+    <trd>vaj&iacute;&ccaron;ka <klr>(sam&ccaron;ie)</klr></trd>
   </trdgrp>
 </drv>
 
@@ -59,33 +66,47 @@
   <snc mrk="testik.0ujo.ANA">
     <uzo tip="fak">ANA</uzo>
     <dif>
-      Ha&ubreve;tsako entenanta &ccirc;e viraj mamuloj
-      la <tld/>ojn;
-      <ref tip="sin" cel="skrot.0o.ANA">skroto</ref>:
+      La ha&ubreve;tsako, kiu entenas la <ref tip="vid"
+      cel="testik.0o.ANA"><tld/>ojn</ref> &ccirc;e virseksuloj; <ref tip="sin"
+      cel="skrot.0o.ANA">skroto</ref>:
       <ekz>
         <tld/>ujo, en kiu konturi&gcirc;is grandaj <tld/>oj
         <fnt>
           <aut>A. Tolstoj, trad. V. Bujak</aut>,
           <vrk><url
-          ref="http://miresperanto.com/diversajhoj/erotiko/en_banejo.htm">
-          En Banejo</url></vrk>,
+          ref="http://miresperanto.com/diversajhoj/erotiko/en_banejo.htm">En
+          Banejo</url></vrk>,
           <lok>[vidita en 2013]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="cs">šourek</trd>
+  <trd lng="cs">&scaron;ourek</trd>
   <trd lng="en">scrotum</trd>
+  <trd lng="es">escroto</trd>
   <trdgrp lng="fr">
     <trd>bourse<klr> (scrotum)</klr></trd>,
     <trd>scrotum</trd>
   </trdgrp>
+  <trd lng="io">skroto</trd>
   <trd lng="id">skrotum</trd>
-  <trd lng="sk">miešok</trd>
+  <trd lng="iu">&#5123;&#5281;&#5418;&#5507;&#5125;&#5198;</trd>
+  <trdgrp lng="nl">
+    <trd>scrotum</trd>,
+    <trd>balzak</trd>
+  </trdgrp>
+  <trd lng="sk">mie&scaron;ok <klr>(vajcov&yacute;)</klr></trd>
+  <trd lng="vo">skrot</trd>
 </drv>
 </art>
 <!--
 $Log: testik.xml,v $
+Revision 1.26  2017/11/01 12:10:13  revo
+Robin van der Vliet: pliprecizigita difino, +ref, +trd
+
+Revision 1.25  2017/05/16 23:10:27  revo
+Robin van der Vliet: +trd
+
 Revision 1.24  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -102,17 +123,5 @@ Revision 1.20  2011/12/06 15:10:21  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.19  2011/11/07 01:10:21  revo
- Anchise Inzaghi: traduko q'eqchi'
-
-Revision 1.18  2010/12/16 17:30:31  revo
-Antonio Codazzi: +trd it
-
-Revision 1.17  2009/12/23 17:30:17  revo
-Carlos Garcia: +trd es
-
-Revision 1.16  2009/08/19 18:42:04  revo
-Russ Williams: +trd en
-
-Revision 1.15  2009/06/23 16:31:24  revo
 -->
 </vortaro>

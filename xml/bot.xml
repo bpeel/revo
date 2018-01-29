@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bot.xml,v 1.25 2015/10/06 03:10:19 revo Exp $">
+<art mrk="$Id: bot.xml,v 1.26 2017/12/18 23:10:25 revo Exp $">
 <kap>
 <ofc>*</ofc>
   <rad>bot</rad>/o <fnt><bib>PV</bib></fnt>
@@ -81,11 +81,15 @@
 </drv>
 
 <drv mrk="bot.0isto">
-  <kap><tld/>isto</kap>
+  <kap><ofc>*</ofc><tld/>isto</kap>
   <snc mrk="bot.0isto.TEKS">
   <uzo tip="fak">TEKS</uzo>
     <dif>
       Faristo de <tld/>oj kaj aliaj piedvestoj:
+      <ekz>
+      bot' = botte &dash;> bot'ist' = bottier
+      <fnt><bib>F</bib>, <lok>Universala Vortaro, -ist'</lok></fnt>
+      </ekz>
       <ekz>
         &ccirc;e <tld/>isto la &scirc;uo estas &ccirc;iam kun truo
         <fnt><bib>PrV</bib></fnt>.
@@ -168,6 +172,9 @@
 </art>
 <!--
 $Log: bot.xml,v $
+Revision 1.26  2017/12/18 23:10:25  revo
+Michel Cantigneaux: "bot/ist/o" : ekzemplo de ist' en Universala Vortaro, do fundamenta kunmetajxo
+
 Revision 1.25  2015/10/06 03:10:19  revo
 Evandro Avellar: +trd pt
 
@@ -187,8 +194,5 @@ Revision 1.20  2011/12/04 13:10:19  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.19  2010/01/07 17:30:40  revo
-Jeromo Vasxe: + leki la ~ojn, - 1 trd fr
-
-Revision 1.18  2009/08/26 16:31:56  revo
 -->
 </vortaro>

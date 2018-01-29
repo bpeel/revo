@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mem.xml,v 1.23 2015/07/04 08:37:39 revo Exp $">
+<art mrk="$Id: mem.xml,v 1.25 2017/10/23 17:10:15 revo Exp $">
 <kap>
     <ofc>*</ofc>
     <rad>mem</rad> <fnt><bib>PV</bib></fnt>
@@ -116,7 +116,7 @@
       </trdgrp>
     </snc>
   <trd lng="be">&c_s;&c_a;&c_m;</trd>
-  <trd lng="cs">sám <klr>(osobně)</klr></trd>
+  <trd lng="cs">s&aacute;m <klr>(osobn&ecaron;)</klr></trd>
   <trdgrp lng="fr">
       <trd>m&ecirc;me<klr> (soi-m&ecirc;me)</klr></trd>,
       <trd>soi-m&ecirc;me</trd>
@@ -124,7 +124,7 @@
   <trd lng="ru">&c_s;&c_a;&c_m;</trd>
   <trdgrp lng="sk">
     <trd>osobne</trd>,
-    <trd>sám</trd>
+    <trd>s&aacute;m</trd>
   </trdgrp>
   <trd lng="sv">sj&auml;lv</trd>
 </drv>
@@ -422,7 +422,7 @@ lng="ru">&c_s;&c_a;&c_m;&c_o;&c_b;&c_y;&c_t;&c_n;&c_y;&c_j;</trd>
         <dif>
           La <ref tip="dif" cel="sam.0a.tiu">sama</ref>,
           pri kiu temas a&ubreve; kiun koncernas la afero;
-          <ref tip="sin" cel="ident.0a.tiuSama">identa<sncref/></ref>.
+          <ref tip="sin" cel="ident.0a.tiu_sama">identa<sncref/></ref>.
         </dif>
         <rim>
           Tian uzon oni efektive trovas en la Reto, sed mi ne konas
@@ -436,7 +436,7 @@ lng="ru">&c_s;&c_a;&c_m;&c_o;&c_b;&c_y;&c_t;&c_n;&c_y;&c_j;</trd>
   <trd lng="de">selbst</trd>
   <trd lng="hu">ugyanaz</trd>
   <trd lng="nl">zelf</trd>
-  <trd lng="sk">totožný s predmetom</trd>
+  <trd lng="sk">toto&zcaron;n&yacute; s predmetom</trd>
 </drv>
 
     <drv mrk="mem.0o">
@@ -488,13 +488,15 @@ lng="ru">&c_s;&c_a;&c_m;&c_o;&c_b;&c_y;&c_t;&c_n;&c_y;&c_j;</trd>
               kruele dis&scirc;irata per militoj, naciaj malamoj,
               rasaj konfliktoj kaj lingvaj baroj
               <fnt>
-              <vrk>La plej indaj verkoj de nia literaturo</vrk>,
-              <bib>LOdE</bib>
+                <aut>T. Chmielik</aut>
+                <vrk>La plej indaj verkoj de nia literaturo</vrk>
+                <bib>LOdE</bib>
+                <lok><url ref="http://esperanto-ondo.ru/64-lode.htm">
+                2000:2 (64)</url></lok>
               </fnt>.
             </ekz>
           </dif>
-          <trd
-lng="ru">&c_s;&c_a;&c_m;&c_o;&c_b;&c_y;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+          <trd lng="ru">&c_s;&c_a;&c_m;&c_o;&c_b;&c_y;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
         </subsnc>
         <trdgrp lng="fi">
           <trd>min&auml; <klr tip="ind"> (subst.)</klr></trd>,
@@ -510,7 +512,7 @@ lng="ru">&c_s;&c_a;&c_m;&c_o;&c_b;&c_y;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
           <trd>identitet</trd>
         </trdgrp>
       </snc>
-      <trd lng="sk">ja <klr>(moje dobré ja)</klr></trd>
+      <trd lng="sk">ja <klr>(moje dobr&eacute; ja)</klr></trd>
 </drv>
     <drv mrk="mem.0eco">
       <kap><tld/>eco</kap>
@@ -531,6 +533,33 @@ lng="ru">&c_s;&c_a;&c_m;&c_o;&c_b;&c_y;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
       <trdgrp lng="sv">
         <trd>personlighet</trd>,
         <trd>identitet</trd>
+      </trdgrp>
+    </drv>
+    
+    <drv mrk="mem.0ismo">
+      <kap><tld/>ismo</kap>
+      <snc mrk="mem.0ismo.PSI">
+        <dif>
+          Granda interesi&gcirc;o pri sia <tld/>o,
+          pri siaj personaj ecoj kaj inklinoj:
+          <ekz>
+            senbrida <tld/>ismo kaj avido
+            <fnt>
+              <aut>N. Klein</aut>,
+              <vrk><url
+              ref="http://vlutermano.free.fr/klein-decido-%C4%89ap.1.pdf">
+              La decido kapitalismo a&ubreve; klimato</url></vrk>,
+              <lok>2016</lok>
+            </fnt>
+          </ekz>
+        </dif>
+        <refgrp tip="vid">
+          <ref cel="ego.0ismo.PSI">egoismo</ref>
+        </refgrp>
+      </snc>
+      <trdgrp lng="fr">
+        <trd>&eacute;go&iuml;sme</trd>,
+        <trd>&eacute;gotisme</trd>
       </trdgrp>
     </drv>
 
@@ -575,6 +604,12 @@ ref="http://www.ikue.org/papoj/benediktoxvi/prediko051101.html">
 </art>
 <!--
 $Log: mem.xml,v $
+Revision 1.25  2017/10/23 17:10:15  revo
+Jeromo Vasxe: + ~ismo
+
+Revision 1.24  2017/07/07 07:10:15  revo
+Damien Brucker: -eraro cxe cel en ref
+
 Revision 1.23  2015/07/04 08:37:39  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -591,17 +626,5 @@ Revision 1.19  2009/07/08 16:31:16  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.18  2007/07/25 20:12:19  revo
-Harri Laine: +trd fi
-
-Revision 1.17  2007/04/30 17:28:18  revo
-Jeromo Vasxe: + en~igxi
-
-Revision 1.16 2006/07/31 16:32:05 revo
-Tulio Flores: +tr pt
-
-Revision 1.15 2006/07/19 16:31:52 revo
-jxeromo vasxe: simplig. dif de ~, + trd fr
-
-Revision 1.14 2006/01/29 17:32:14 revo
 -->
 </vortaro>

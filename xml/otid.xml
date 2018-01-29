@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: otid.xml,v 1.7 2015/07/04 08:37:40 revo Exp $">
+<art mrk="$Id: otid.xml,v 1.8 2017/04/05 10:10:14 revo Exp $">
 <kap>
   <rad>otid</rad>/o
   <fnt><bib>SPV</bib></fnt>
@@ -70,6 +70,10 @@
       <trd>pioc salvatge</trd>
     </trdgrp>
     <trd lng="en">great <ind>bustard</ind></trd>
+    <trdgrp lng="fr">
+      <trd>grande <ind>outarde</ind></trd>,
+      <trd><ind>outarde</ind> barbue</trd>
+    </trdgrp>
     <trd lng="pl">drop</trd>
     <trd lng="sv">stortrapp</trd>
   </snc>
@@ -97,6 +101,7 @@
     </dif>
     <trd lng="ca">sis&oacute;</trd>
     <trd lng="en">little <ind>bustard</ind></trd>
+    <trd lng="fr"><ind>outarde</ind> canepeti&egrave;re</trd>
     <trd lng="pl">strepet</trd>
     <trd lng="sv">sm&aring;trapp</trd>
   </snc>
@@ -105,6 +110,9 @@
 
 <!--
 $Log: otid.xml,v $
+Revision 1.8  2017/04/05 10:10:14  revo
+Ludoviko Francisco: +trd fr
+
 Revision 1.7  2015/07/04 08:37:40  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -124,7 +132,5 @@ Revision 1.2  2007/05/23 16:30:43  revo
 Wieland Pusch: +trd de
 
 Revision 1.1  2007/04/15 16:30:20  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

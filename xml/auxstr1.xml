@@ -2,13 +2,22 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: auxstr1.xml,v 1.23 2016/12/01 12:10:14 revo Exp $">
+<art mrk="$Id: auxstr1.xml,v 1.25 2017/12/22 18:10:13 revo Exp $">
 <kap>
-  <rad>A&ubreve;strali</rad>/o <fnt><bib>ZR</bib></fnt>
+  <ofc>8</ofc><rad>A&ubreve;strali</rad>/o <fnt><bib>ZR</bib></fnt>
 </kap>
 
 <drv mrk="auxstr1.A0o">
-  <kap><tld/>o</kap>
+  <kap><ofc>8</ofc> <tld/>o 
+  <fnt><aut>Akademio de Esperanto</aut>, 
+  <vrk><url
+  ref="http://www.akademio-de-speranto.org/aktoj/aktoj2/8oa.html"> 8a
+  Oficiala Aldono</url></vrk>, <lok>II.C.1</lok></fnt>
+  <fnt><aut>Akademio de Esperanto</aut>, 
+  <vrk><url
+  ref="http://www.akademio-de-esperanto.org/decidoj/landnomoj/listo_de_rekomendataj_landnomoj/index.html">Oficiala
+  Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
+  </kap>
   <snc mrk="auxstr1.A0o.kontinento">
     <uzo tip="fak">GEOG</uzo>
     <dif>
@@ -22,6 +31,7 @@
   <snc mrk="auxstr1.A0o.sxtato">
     <uzo tip="fak">GEOG</uzo>
     <uzo tip="fak">POL</uzo>
+    <mlg kod="ISO-3166">AU</mlg>
     <dif>
       La sola <ref tip="lst" cel="sxtat.0o"
       lst="voko:&scirc;tatoj">&scirc;tato</ref>
@@ -123,6 +133,12 @@
 </art>
 <!--
 $Log: auxstr1.xml,v $
+Revision 1.25  2017/12/22 18:10:13  revo
+Michel Cantigneaux: Plibonaj indikoj pri 8a Oficiala Aldono kaj 12a Oficiala Informo
+
+Revision 1.24  2017/08/08 15:10:14  revo
+Ludoviko Francisco: +mlg
+
 Revision 1.23  2016/12/01 12:10:14  revo
 Robin van der Vliet: +trd
 
@@ -139,11 +155,5 @@ Revision 1.19  2011/12/30 14:10:15  revo
 Antonio Codazzi: +trd it
 
 Revision 1.18  2011/12/07 20:10:15  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.17  2009/09/03 16:30:40  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.16  2009/06/27 16:31:15  revo
 -->
 </vortaro>

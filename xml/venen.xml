@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: venen.xml,v 1.30 2017/02/28 12:10:13 revo Exp $">
+<art mrk="$Id: venen.xml,v 1.32 2017/11/15 07:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>venen</rad>/o <fnt><bib>PV</bib></fnt>
@@ -67,7 +67,18 @@
     <dif>
       Enhavanta <tld/>on:
       <ekz>
-        <tld/>a besto, vegeta&jcirc;o.
+        <tld/>a besto, vegeta&jcirc;o;
+      </ekz>
+      <ekz>
+        la lo&gcirc;ejo estis plena de la <tld/>a gaso
+        <fnt>
+          <aut>Hans Weinhengst</aut>,
+          <vrk>Tur-Strato 4</vrk>,
+          <lok><url
+          ref="http://www.fadedpage.com/showbook.php?pid=20131216">
+        Fadedpage</url>
+          </lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -296,6 +307,12 @@
 </art>
 <!--
 $Log: venen.xml,v $
+Revision 1.32  2017/11/15 07:10:16  revo
+Andrew Sly: uskleco
+
+Revision 1.31  2017/11/07 06:10:13  revo
+Andrew Sly: + ekz
+
 Revision 1.30  2017/02/28 12:10:13  revo
 Lyubomir Vasilev: +trd bg
 
@@ -312,11 +329,5 @@ Revision 1.26  2014/06/09 16:10:50  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.25  2012/08/12 09:10:24  revo
-Marc Rausell: ++ trd ca
-
-Revision 1.24  2009/09/23 17:26:32  revo
-Paul Peeraerts: +nl
-
-Revision 1.23  2009/08/26 16:32:07  revo
 -->
 </vortaro>

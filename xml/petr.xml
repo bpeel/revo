@@ -2,9 +2,9 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: petr.xml,v 1.5 2016/11/16 20:10:12 revo Exp $">
+<art mrk="$Id: petr.xml,v 1.6 2017/10/27 23:10:26 revo Exp $">
 <kap>
-  <ofc>*</ofc><rad>Petr</rad>/o <fnt><bib>PIV1</bib></fnt>
+  <ofc>* 7</ofc><rad>Petr</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="petr.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -18,8 +18,12 @@
         <fnt><bib>F</bib>, <lok>&FE; 18</lok></fnt>;
       </ekz>
       <ekz>
+        <tld/>o, Anno kaj Elizabeto estas miaj gefratoj
+        <fnt><bib>F</bib>, <lok>&FE; 36</lok></fnt>;
+      </ekz>
+      <ekz>
         kaj mi diras al vi, ke vi estas <tld/>o
-        <fnt><bib>&Mat;</bib>, <lok>16:18</lok></fnt>.
+        <fnt><bib>NT</bib>, <lok>Mat 16:18</lok></fnt>.
       </ekz>
     </dif>
     <trd lng="ca">Pere</trd>
@@ -38,6 +42,9 @@
 
 <!--
 $Log: petr.xml,v $
+Revision 1.6  2017/10/27 23:10:26  revo
+Michel Cantigneaux: Fundamenta : Ekzercaro + 7a OA
+
 Revision 1.5  2016/11/16 20:10:12  revo
 Filip van Laenen: +trd nl, no
 

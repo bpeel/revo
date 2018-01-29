@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: s.xml,v 1.10 2015/12/07 11:10:15 revo Exp $">
+  <art mrk="$Id: s.xml,v 1.11 2017/11/30 21:10:42 revo Exp $">
     <kap>
       <ofc>*</ofc><rad>s</rad> <fnt><bib>PIV1</bib></fnt>
     </kap>
@@ -73,7 +73,7 @@
 
     <subart>
       <drv mrk="s.0.nomo">
-        <kap><tld/>o</kap>
+        <kap><ofc>* 7</ofc><tld/>o</kap>
         <snc>    
           <dif>
             Nomo de tiu <ref tip="super"
@@ -89,8 +89,12 @@
 
   <!--
   $Log: s.xml,v $
+  Revision 1.11  2017/11/30 21:10:42  revo
+  Michel Cantigneaux: aldonita kaj fundamenta par 7a OA
+
   Revision 1.10  2015/12/07 11:10:15  revo
-  Damien Brucker: Rearangxo de la difinformo por simili al tiu de la aliaj
+  Damien Brucker: Rearangxo de la difinformo por simili al tiu de la
+  aliaj
 
   Revision 1.9  2015/11/24 00:10:33  revo
   Neil Roberts: Movi la etikedon 'uzo' al la sama loko kie gxi estas por

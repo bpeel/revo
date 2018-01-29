@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mort.xml,v 1.61 2017/02/14 18:10:10 revo Exp $">
+<art mrk="$Id: mort.xml,v 1.64 2017/12/19 10:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mort</rad>/i <fnt><bib>PV</bib></fnt>
@@ -797,7 +797,8 @@
 </drv>
 
 <drv mrk="mort.0igi">
-  <kap><tld/>igi</kap>
+  <kap><ofc>*</ofc><tld/>igi
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, -ig'</lok></fnt></kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="mort.0igi.malvivigi">
     <dif>
@@ -1644,8 +1645,21 @@
 <drv mrk="mort.sin0igo">
   <kap>sin<tld/>igo</kap>
   <snc mrk="mort.sin0igo.KOMUNE">
+      <dif><tld/>igi sin mem:
+        <ekz>
+        li konsideris la ideon fini &ccirc;ion per sin<tld/>igo
+        <fnt>
+          <aut>Hans Weinhengst</aut>,
+          <vrk>Tur-Strato 4</vrk>,
+          <lok><url
+          ref="http://www.fadedpage.com/showbook.php?pid=20131216">
+        Fadedpage</url>
+          </lok>
+        </fnt>.
+      </ekz>
+    </dif>
     <ref tip="dif" cel="mort.mem0igo">mem<tld/>igo</ref>
-  </snc>
+  </snc>      
   <ref tip="sin" cel="suicid.0o">suicido</ref>
   <trd lng="fr">suicide</trd>
   <trd lng="de">Selbstmord</trd>
@@ -1722,6 +1736,15 @@
 </art>
 <!--
 $Log: mort.xml,v $
+Revision 1.64  2017/12/19 10:10:21  revo
+Michel Cantigneaux: fundamenta "mortigi" el la U.V.
+
+Revision 1.63  2017/11/15 07:10:14  revo
+Andrew Sly: forigi nebezonata punkto
+
+Revision 1.62  2017/11/08 05:10:13  revo
+Andrew Sly: + ekz
+
 Revision 1.61  2017/02/14 18:10:10  revo
 Jeromo Vasxe: malsxantantoj -> malsxatantoj
 
@@ -1735,14 +1758,5 @@ Revision 1.58  2015/07/04 08:37:39  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.57  2015/06/29 16:33:20  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.56  2015/05/03 07:10:15  revo
-Alain Gerard: +vid
-
-Revision 1.55  2015/04/02 23:10:17  revo
-Carlos Garcia: +trd es hom-igi hom-igo malsat-igi sin-igi sxton-igi
-
-Revision 1.54  2015/04/02 12:10:15  revo
 -->
 </vortaro>

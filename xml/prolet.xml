@@ -2,15 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prolet.xml,v 1.16 2013/09/24 15:10:10 revo Exp $">
+<art mrk="$Id: prolet.xml,v 1.18 2017/12/21 17:10:36 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>prolet</rad>/o
 </kap>
 <drv mrk="prolet.0o">
-  <kap>
-    <tld/>o
-  </kap>
+  <kap><tld/>o <fnt><lok>Akademio de Esperanto, <url
+  ref="http://www.akademio-de-esperanto.org/aktoj/aktoj2/8oa.html">8a
+  Oficiala Aldono</url>, II.A.3</lok></fnt></kap>
   <snc>
     <dif>
       Homo, kies nuraj vivrimedoj estas vendo de sia laborforto, &ccirc;u
@@ -34,7 +34,8 @@
   <trd lng="en">proletarian</trd>
   <trd lng="es">proletario</trd>
   <trd lng="fr">prol&eacute;taire</trd>
-  <trd lng="hu">prolet&aacute;r</trd>  
+  <trd lng="hu">prolet&aacute;r</trd>
+  <trd lng="it">proletario</trd>    
   <trd lng="nl">proletari&euml;r</trd>
   <trd lng="pt">prolet&aacute;rio</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_l;&c_je;&c_t;&c_a;&c_r;&c_i;&c_j;</trd>
@@ -56,7 +57,8 @@
   <trd lng="en">proletariat</trd>
   <trd lng="es">proletariado</trd>
   <trd lng="fr">prol&eacute;tariat</trd>
-  <trd lng="hu">proletari&aacute;tus</trd>  
+  <trd lng="hu">proletari&aacute;tus</trd>
+  <trd lng="it">proletariato</trd>    
   <trd lng="nl">proletariaat</trd>
   <trd lng="pt">proletariado</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_l;&c_je;&c_t;&c_a;&c_r;&c_i;&c_a;&c_t;</trd>
@@ -64,6 +66,12 @@
 </art>
 <!--
 $Log: prolet.xml,v $
+Revision 1.18  2017/12/21 17:10:36  revo
+Michel Cantigneaux: aldono ligilo al la 8a OA
+
+Revision 1.17  2017/09/26 12:10:13  revo
+Filippo Botta: traduko italen
+
 Revision 1.16  2013/09/24 15:10:10  revo
 Joop Eggen: +trd bg
 
@@ -80,11 +88,5 @@ Revision 1.12  2005/12/06 17:34:14  revo
 Raul Salinas Monteagudo: +trd es
 
 Revision 1.11  2004/08/23 16:34:02  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2004/08/16 16:33:10  revo
-Jean Hennebert: +trd fr
-
-Revision 1.9  2003/07/22 16:30:34  revo
 -->
 </vortaro>

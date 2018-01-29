@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pom.xml,v 1.51 2017/01/27 15:10:28 revo Exp $">
+<art mrk="$Id: pom.xml,v 1.52 2017/12/19 12:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pom</rad>/o <fnt><bib>PV</bib></fnt>
@@ -67,7 +67,9 @@
 </drv>
 
 <drv mrk="pom.0ujo">
-  <kap><tld/>ujo, <var><kap><tld/>arbo</kap></var></kap>
+  <kap><ofc>*</ofc><tld/>ujo 
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, -uj'</lok></fnt>,
+  <var><kap><tld/>arbo</kap></var></kap>
   <snc mrk="pom.0ujo.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
@@ -254,6 +256,9 @@ tratran&ccirc;o
 </art>
 <!--
 $Log: pom.xml,v $
+Revision 1.52  2017/12/19 12:10:13  revo
+Michel Cantigneaux: fundamenta "pomujo" el la U.V.
+
 Revision 1.51  2017/01/27 15:10:28  revo
 Adam Eng: +trd ms
 
@@ -273,8 +278,5 @@ Revision 1.46  2015/06/25 10:10:14  revo
 Darcy Shen: +trd zh
 
 Revision 1.45  2014/06/12 04:10:11  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.44  2013/10/29 08:10:20  revo
 -->
 </vortaro>

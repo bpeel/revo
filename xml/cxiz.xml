@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxiz.xml,v 1.20 2014/04/06 18:10:14 revo Exp $">
+<art mrk="$Id: cxiz.xml,v 1.24 2017/04/20 08:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;iz</rad>/i
@@ -20,14 +20,19 @@
       ioman 
       materion:
       <ekz>
-        sur marmora tabulo estas <tld/>ita lia nomo.
+        sur marmora tabulo estas <tld/>ita lia nomo;
       </ekz>
+      <ekz>kaj por <tld/>i &scirc;tonojn por enkadrigo, kaj por <tld/>i
+      lignon, por
+      fari &ccirc;ian laboron<fnt><bib>MT</bib>, <lok>&Eli;
+      31:5</lok></fnt></ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="skulpt.0i">skulpti</ref>,
       <ref cel="cizel.0i.BELA">cizeli</ref>.
     </refgrp>
     <trdgrp lng="fr">
+      <trd>ciseler</trd>,
       <trd>creuser<klr tip="ind"> (au ciseau)</klr></trd>,
       <trd>fa&ccedil;onner<klr tip="ind"> (au ciseau)</klr></trd>
     </trdgrp>
@@ -77,6 +82,8 @@
       uzata por prilabori malmolajn materiojn, kaj havanta ordinare
       lignan
       tenilon.
+      <ekz>Unu tran&ccirc;as la feron per &ccirc;izilo<fnt><bib>MT</bib>, <lok>&Jes;
+      44:12</lok></fnt></ekz>
     </dif>
   </snc>
   <trd lng="ca">cisell</trd>
@@ -109,7 +116,14 @@
 </drv>
 
 <drv mrk="cxiz.CX0ilo">
-  <kap><tld lit="&Ccirc;"/>ilo</kap>
+  <kap><tld lit="&Ccirc;"/>ilo
+    <fnt>
+      <aut>Galad&iacute;-Enr&iacute;quez, David; Wandel, Amri</aut>:
+      <vrk>La kosmo kaj ni. Galaksioj, planedoj kaj vivo en la
+      universo</vrk>.
+      <lok>FEL, Antverpeno, 2005</lok>
+    </fnt>
+  </kap>
   <mlg>Cae</mlg>
   <snc>
     <dif>
@@ -122,6 +136,7 @@
   <trd lng="de">Grabstichel</trd>
   <trd lng="en">Caelum</trd>
   <trd lng="es">Cincel</trd>
+  <trd lng="fr">Burin<klr tip="ind"> (constellation)</klr></trd>
   <trd lng="it">Bulino</trd>
   <trd lng="pl">Rylec</trd>
 </drv>
@@ -176,6 +191,18 @@
 </art>
 <!--
 $Log: cxiz.xml,v $
+Revision 1.24  2017/04/20 08:10:13  revo
+Ludoviko Francisco: kor ekz
+
+Revision 1.23  2017/04/19 20:10:26  revo
+Ludoviko Francisco: +ekz
+
+Revision 1.22  2017/04/18 13:10:25  revo
+Ludoviko Francisco: +fnt
+
+Revision 1.21  2017/04/05 13:10:14  revo
+Ludoviko Francisco: +trd fr
+
 Revision 1.20  2014/04/06 18:10:14  revo
 Wolfram Diestel: kor. sud-hemisfera, ref al stelfiguroj
 
@@ -186,17 +213,5 @@ Revision 1.18  2009/03/02 17:30:41  revo
 Antonio Codazzi: +trd it
 
 Revision 1.17  2008/03/20 17:30:15  revo
-Wieland Pusch: forigo de UTF8 de marko
-
-Revision 1.16  2007/06/06 16:30:30  revo
-Wieland Pusch: +trd de
-
-Revision 1.15  2006/01/27 17:31:24  revo
-H. Neal Parker: +drv
-
-Revision 1.14  2005/11/24 17:32:36  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.13  2005/06/26 16:32:12  revo
 -->
 </vortaro>

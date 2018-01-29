@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frukt.xml,v 1.37 2015/07/04 08:37:34 revo Exp $">
+<art mrk="$Id: frukt.xml,v 1.40 2017/12/19 08:10:14 revo Exp $">
 <kap><ofc>*</ofc>
   <rad>frukt</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -12,7 +12,7 @@
   <snc mrk="frukt.0o.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      &Ccirc;e <ref tip="malprt" cel="flor.0oplantoj">floroplantoj</ref>,
+      &Ccirc;e <ref tip="malprt" cel="flor.0oplant">floroplantoj</ref>,
       produkto esti&gcirc;inta el fekundi&gcirc;inta floro
       enhavanta la <ref tip="prt" cel="grajn.0o.BOT">grajnojn</ref>:
       <ekz>
@@ -115,7 +115,7 @@
   <trdgrp lng="sk">
     <trd>ovocie</trd>,
     <trd>plod</trd>,
-    <trd>výsledok</trd>
+    <trd>v&yacute;sledok</trd>
   </trdgrp>
   <trd lng="tp">kili</trd>
   <trd lng="tr">meyve</trd>
@@ -149,7 +149,7 @@
     <ind>&c_p;&c_l;&c_jo;&c_n;</ind></trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>nést ovoce</trd>,
+    <trd>n&eacute;st ovoce</trd>,
     <trd>plodit</trd>,
     <trd>semenit</trd>
   </trdgrp>
@@ -175,9 +175,20 @@
     &c_r;&c_je;&c_z;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_t;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>niesť ovocie</trd>,
-    <trd>plodiť</trd>
+    <trd>nies&tcaron; ovocie</trd>,
+    <trd>plodi&tcaron;</trd>
   </trdgrp>
+</drv>
+
+<drv mrk="frukt.0ajxo">
+  <kap><ofc>*</ofc><tld/>a&jcirc;o
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, -a&jcirc;'</lok></fnt></kap>
+  <snc>
+    <dif>
+      <ref tip="malprt" cel="mangx.0ajxo">Man&gcirc;a&jcirc;o</ref> farita el
+      <tld/>oj.
+    </dif>
+  </snc>
 </drv>
 
 <drv mrk="frukt.0ero">
@@ -205,7 +216,7 @@
   </snc>
   <trdgrp lng="cs">
     <trd>oplodnit</trd>,
-    <trd>zúrodnit</trd>
+    <trd>z&uacute;rodnit</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>rendre <ind>f&eacute;cond</ind></trd>,
@@ -218,8 +229,8 @@
   </trdgrp>
   <trd lng="nl">vruchtbaar maken</trd>
   <trdgrp lng="sk">
-    <trd>oplodniť</trd>,
-    <trd>zúrodniť</trd>
+    <trd>oplodni&tcaron;</trd>,
+    <trd>z&uacute;rodni&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -238,8 +249,8 @@
     <trd>&c_p;&c_l;&c_jo;&c_n;&c_n;&c_y;</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>bohatě plodící</trd>,
-    <trd>plodný</trd>
+    <trd>bohat&ecaron; plod&iacute;c&iacute;</trd>,
+    <trd>plodn&yacute;</trd>
   </trdgrp>
   <trd lng="de">fruchtbar</trd>
   <trdgrp lng="fr">
@@ -261,7 +272,7 @@
     <trd>&c_p;&c_l;&c_o;&c_d;&c_o;&c_t;&c_v;&c_o;&c_r;&c_n;&c_y;&c_j;
     </trd>
   </trdgrp>
-  <trd lng="sk">plodonosný</trd>
+  <trd lng="sk">plodonosn&yacute;</trd>
 </drv>
 
 <drv mrk="frukt.sen0a">
@@ -281,8 +292,8 @@
     <trd>&c_b;&c_ja;&c_s;&c_p;&c_l;&c_jo;&c_n;&c_n;&c_y;</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>jalový</trd>,
-    <trd>neplodný</trd>
+    <trd>jalov&yacute;</trd>,
+    <trd>neplodn&yacute;</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>st&eacute;rile</trd>,
@@ -294,8 +305,8 @@
   <trd lng="ru">
   &c_b;&c_je;&c_s;&c_p;&c_l;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
-    <trd>jalový</trd>,
-    <trd>neplodný</trd>
+    <trd>jalov&yacute;</trd>,
+    <trd>neplodn&yacute;</trd>
   </trdgrp>
 </drv>
 
@@ -376,7 +387,18 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="af">seekos</trd>
+  <trd lng="ca">marisc</trd>
+  <trd lng="de">Meeresfr&uuml;chte</trd>
+  <trd lng="en">seafood</trd>
+  <trd lng="es">marisco</trd>
   <trd lng="fr">fruit de mer</trd>
+  <trd lng="gl">marisco</trd>
+  <trd lng="ko">&#54644;&#49328;&#47932;</trd>
+  <trd lng="nl">zeevrucht</trd>
+  <trd lng="pt">fruto do mar</trd>
+  <trd lng="ro">fructe de mare</trd>
+  <trd lng="ru">&c_m;&c_o;&c_r;&c_je;&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>
 </drv>
 
 <drv mrk="frukt.plur0o">
@@ -428,16 +450,25 @@
       bienon a&ubreve; la kapitalon.
     </dif>
   </snc>
-  <trd lng="cs">požívací právo</trd>
+  <trd lng="cs">po&zcaron;&iacute;vac&iacute; pr&aacute;vo</trd>
   <trd lng="fr">usufruit</trd>
   <trd lng="hu">haszon&eacute;lvezet</trd>
   <trd lng="nl">vruchtgebruik</trd>
   <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_o; &c_p;&c_o;&c_l;&c_mol;&c_z;&c_o;&c_v;&c_a;&c_n;&c_i;&c_ja;</trd>
-  <trd lng="sk">užívacie právo</trd>
+  <trd lng="sk">u&zcaron;&iacute;vacie pr&aacute;vo</trd>
 </drv>
 </art>
 <!--
 $Log: frukt.xml,v $
+Revision 1.40  2017/12/19 08:10:14  revo
+Michel Cantigneaux: fundamenta "fruktajxo" = ekzemplo de la U.V. por -ajx'
+
+Revision 1.39  2017/09/12 19:10:15  revo
+Robin van der Vliet: +trd
+
+Revision 1.38  2017/04/22 13:10:27  revo
+Damien Brucker: -eraro cxe cel en ref
+
 Revision 1.37  2015/07/04 08:37:34  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -451,20 +482,5 @@ Revision 1.34  2009/12/06 17:30:34  revo
 Jeromo Vasxe: + mar~o, + mrk, kor. 2 fnt, reordig. drv
 
 Revision 1.33  2009/08/27 16:31:40  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.32  2009/06/23 16:32:10  revo
-Emmanuel Debanne: +trd id
-
-Revision 1.31  2007/12/07 17:30:17  revo
-Wieland Pusch: +trd bg
-
-Revision 1.30  2007/06/13 16:32:32  revo
-Tulio Flores: +tr pt
-
-Revision 1.29  2006/09/16 16:30:47  revo
-Axel Rousseau: +trd tp
-
-Revision 1.28  2006/07/04 16:32:03  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: analgezi.xml,v 1.6 2017/03/07 18:10:22 revo Exp $">
+<art mrk="$Id: analgezi.xml,v 1.7 2017/06/03 12:10:18 revo Exp $">
 <kap>
   <rad>analgezi</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -29,6 +29,10 @@
     <trd>analgesie</trd>,
     <trd>gevoelloosheid<klr tip="ind"> (voor pijn)</klr></trd>
   </trdgrp>
+    <trdgrp lng="pl">
+    <trd>analgezja</trd>,
+    <trd>znieczulenie</trd>,
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>analgia</trd>,
     <trd>analg&eacute;za</trd>,
@@ -39,6 +43,9 @@
 
 <!--
 $Log: analgezi.xml,v $
+Revision 1.7  2017/06/03 12:10:18  revo
+Vito Redsky: +trd pl
+
 Revision 1.6  2017/03/07 18:10:22  revo
 Jeromo Vasxe: - anestezio en ekz
 

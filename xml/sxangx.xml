@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxangx.xml,v 1.42 2017/02/21 08:10:16 revo Exp $">
+<art mrk="$Id: sxangx.xml,v 1.43 2017/11/06 03:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;an&gcirc;</rad>/i <fnt><bib>PV</bib></fnt>
@@ -320,10 +320,10 @@
     <trd>mutare</trd>
   </trdgrp>
   <trdgrp lng="nl">
-    <trd>zich veranderen</trd>
+    <trd>zich <ind>veranderen</ind></trd>
     <trd>veranderen</trd>,
     <trd>kenteren</trd>,
-    <trd>zich aanpassen</trd>,
+    <trd>zich <ind>aanpassen</ind></trd>,
   </trdgrp>
   <trd lng="oc">cambiar</trd>
   <trd lng="pl">zmienia&cacute; si&eogonek;</trd>
@@ -468,6 +468,9 @@
 </art>
 <!--
 $Log: sxangx.xml,v $
+Revision 1.43  2017/11/06 03:10:13  revo
+Sam Penter: +ind al nl-tradukoj
+
 Revision 1.42  2017/02/21 08:10:16  revo
 Lyubomir Vasilev: +trd bg
 
@@ -487,8 +490,5 @@ Revision 1.37  2014/06/11 07:10:13  revo
 Damien Brucker: +rim
 
 Revision 1.36  2014/05/12 07:10:24  revo
-Damien Brucker: +ekz
-
-Revision 1.35  2014/01/11 20:10:11  revo
 -->
 </vortaro>

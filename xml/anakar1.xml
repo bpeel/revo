@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: anakar1.xml,v 1.7 2013/08/26 17:10:16 revo Exp $">
+<art mrk="$Id: anakar1.xml,v 1.8 2017/04/14 22:10:51 revo Exp $">
 <kap>
   <rad>anakardiac</rad>/oj
 </kap>
@@ -10,8 +10,8 @@
   <kap>
     <tld/>oj
   </kap>
-  <uzo tip="fak">BOT</uzo>
   <snc>
+  <uzo tip="fak">BOT</uzo>
     <dif>
       <ref tip="lst" cel="famili.0o.BIO"
       lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
@@ -27,6 +27,7 @@
     <trd>cashew family</trd>,
     <trd>sumac family</trd>
   </trdgrp>
+  <trd lng="fr">Anacardiac&eacute;es</trd>
   <trdgrp lng="hu">
     <trd>sz&ouml;m&ouml;rcef&eacute;l&eacute;k</trd>,
     <trd>kesufaf&eacute;l&eacute;k</trd>
@@ -43,6 +44,9 @@
 
 <!--
 $Log: anakar1.xml,v $
+Revision 1.8  2017/04/14 22:10:51  revo
+Damien Brucker: +trd fr
+
 Revision 1.7  2013/08/26 17:10:16  revo
 Joop Eggen: +trd bg en nl
 

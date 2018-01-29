@@ -13,8 +13,8 @@
     <bildo loko="revo.jpg"/>
     <alineo>
       Jen Revo &#8213; la &gcirc;enerala esperanta vortaro en la reto.
-      Alternative vi povas uzi la <url ref="http://purl.org/net/voko/revo/eta/">fasadon por ekranetoj
-      (eksperimenta)</url> kun po&scirc;telefonoj kaj tabulkomputiloj.
+<!--      Alternative vi povas uzi la <url ref="http://purl.org/net/voko/revo/eta/">fasadon por ekranetoj
+      (eksperimenta)</url> kun po&scirc;telefonoj kaj tabulkomputiloj. -->
     </alineo>
     <alineo>
       Se vi pretas helpi progresigi vortaron, kun
@@ -32,10 +32,10 @@
       elektante tie la menueron por aldono a&ubreve; klakante sur la sekvajn
       ligilojn por 
       <serchaldono tipo="revo">aldoni Revoser&ccirc;on</serchaldono> a&ubreve;
-      <serchaldono tipo="google">aldoni Revoser&ccirc;on per Guglo</serchaldono>
+      <serchaldono tipo="google">aldoni Revoser&ccirc;on per Guglo</serchaldono>.
     </alineo>
     <alineo>
-      Se vi volas referenci al la vortaro, bonvolu uzi nur la adreson
+      Se vi volas referenci al la vortaro, vi povas uzi la persistan adreson
       <url ref="http://purl.org/net/voko/revo">http://purl.org/net/voko/revo/</url>.
     </alineo>
 
@@ -167,7 +167,8 @@
       <ero ref="../titolo.html" titolo="Titolpa&gcirc;o kun ser&ccirc;o" kadro="precipa" />
       <ero ref="http://kono.be/vivo/" titolo="Superser&ccirc;o per ViVo" kadro="_new"/>
       <ero ref="../dok/mallongigoj.html" titolo="Vortaraj mallongigoj"/>
-
+      <ero ref="../dok/gramatiko.html" titolo="Gramatikaj informoj" kadro="precipa"/>
+      
       <ero ref="../dok/bibliogr.html" titolo="Bibliografio la&ubreve; mallongigoj" 
 	style="margin-top: 0.4em; margin-bottom: 0"/>
       <ero ref="../dok/biblaut.html" titolo="Bibliografio la&ubreve; a&ubreve;toroj"/>

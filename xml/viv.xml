@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: viv.xml,v 1.77 2016/12/16 04:10:13 revo Exp $">
+<art mrk="$Id: viv.xml,v 1.79 2017/10/23 15:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>viv</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -618,6 +618,47 @@
   <trd lng="hu">meg&eacute;l</trd>
   <trd lng="nl">beleven</trd>
   <trd lng="ru">&c_d;&c_o;&c_zh;&c_i;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="viv.kun0i">
+  <kap>kun<tld/>i</kap>
+  <snc mrk="viv.kun0i.KOMUNE">
+    <dif>
+      <tld lit="V"/>i kun, komune kun, en grupo, en komunumo, en 
+      familio...:
+      <ekz>
+        ili <klr>...</klr> geedzi&gcirc;is kaj feli&ccirc;e kun<tld/>is
+        havante multajn idojn
+        <fnt>
+          <aut>V. Vina&rcaron; la&ubreve; B. N&ecaron;mcov&aacute;</aut>
+          <vrk>Jo&ccirc;jo la senta&ubreve;gulo kaj kartludema re&gcirc;idino</vrk>
+          <lok>en: &Ccirc;e&hcirc;aj Fabeloj, 1976</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">vivre ensemble</trd>
+</drv>
+
+<drv mrk="viv.kun0o">
+  <kap>kun<tld/>o</kap>
+  <snc mrk="viv.kun0o.KOMUNE">
+    <dif>
+      <tld lit="V"/>ado en komuna loko, lo&gcirc;ejo, establo:
+      <ekz>
+        ni kunvenas &ccirc;iujare el &ccirc;iuj partoj de la mondo, por havi la 
+        &gcirc;ojon vidi samideanojn, por premi al ili la manon, por varmigi 
+        en ni per reciproka renkonti&gcirc;o kaj kun<tld/>o la amon kaj 
+        entuziasmon por la ideo, kiun la Esperantismo en si enhavas   
+        <fnt>
+          <bib>Paroloj</bib>
+          <lok>Parolado anta&ubreve; la Tria Kongreso Esperantista en 
+          Cambridge en la 12a de a&ubreve;gusto 1907</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">vie en commun</trd>
 </drv>
 
 <drv mrk="viv.kun0anto">
@@ -1300,6 +1341,29 @@
   </trdgrp>
 </drv>
 
+<drv mrk="viv.tra0o">
+  <kap>tra<tld/>o,
+  <var><kap>tra<tld/>a&jcirc;o</kap></var></kap>
+  <snc mrk="viv.tra0o.KOMUNE">
+    <dif>
+      Okaza&jcirc;o, kiun iu tra<tld/>as, vive spertas:
+      <ekz>
+        mi ne &ccirc;eestis ludon ekde la Hampden tumulto anta&ubreve; kvar jaroj; 
+        tio estis timiga tra<tld/>o!
+        <fnt>
+          <aut>J. Francis</aut>,
+          <vrk>La Granda Kaldrono</vrk>,
+          <lok>1978</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>exp&eacute;rience v&eacute;cue</trd>,
+    <trd>v&eacute;cu</trd>
+  </trdgrp>
+</drv>
+
 <drv mrk="viv.trans0i">
   <kap>trans<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
@@ -1389,6 +1453,12 @@
 </art>
 <!--
 $Log: viv.xml,v $
+Revision 1.79  2017/10/23 15:10:14  revo
+Jeromo Vasxe: + kun~i/o
+
+Revision 1.78  2017/09/12 16:10:14  revo
+Jeromo Vasxe: + tra~o
+
 Revision 1.77  2016/12/16 04:10:13  revo
 Sergio Pokrovskij: +ekz
 
@@ -1405,11 +1475,5 @@ Revision 1.73  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.72  2015/06/29 16:40:20  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.71  2015/06/28 12:03:50  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.70  2015/05/08 05:10:15  revo
 -->
 </vortaro>

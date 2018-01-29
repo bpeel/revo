@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: glit.xml,v 1.42 2017/02/18 12:10:13 revo Exp $">
+<art mrk="$Id: glit.xml,v 1.44 2017/12/19 17:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>glit</rad>/i <fnt><bib>PV</bib></fnt>
@@ -42,22 +42,6 @@
         <trd lng="de">Rechenschieber</trd>
       </ekz>
     </dif>
-    <trdgrp lng="ca">
-      <trd>lliscar</trd>,
-      <trd>patinar</trd>
-    </trdgrp>
-    <trdgrp lng="es">
-      <trd>deslizarse</trd>,
-      <trd>patinar</trd>
-    </trdgrp>
-    <trdgrp lng="hu">
-      <trd>cs&uacute;szik</trd>,
-      <trd>siklik</trd>
-    </trdgrp>
-    <trdgrp lng="pl">
-      <trd>&sacute;lizga&cacute;</trd>,
-      <trd>&sacute;lizga&cacute; si&eogonek;</trd>
-    </trdgrp>
     <subsnc mrk="glit.0i.antauxenigxi">
       <dif>
         Anta&ubreve;eni&gcirc;i sur glata supra&jcirc;o, konservante sian
@@ -112,6 +96,22 @@
       <trd lng="hu">megcs&uacute;szik</trd>
       <trd lng="pl">po&sacute;lizgn&aogonek;&cacute; si&eogonek;</trd>
     </subsnc>
+    <trdgrp lng="ca">
+      <trd>lliscar</trd>,
+      <trd>patinar</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>deslizarse</trd>,
+      <trd>patinar</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>cs&uacute;szik</trd>,
+      <trd>siklik</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>&sacute;lizga&cacute;</trd>,
+      <trd>&sacute;lizga&cacute; si&eogonek;</trd>
+    </trdgrp>
   </snc>
   <snc mrk="glit.0i.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -486,7 +486,9 @@
 </drv>
 
 <drv mrk="glit.0ilo">
-  <kap><tld/>ilo</kap>
+  <kap><ofc>*</ofc><tld/>ilo <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5037">glit'il'</url></lok></fnt></kap>
   <dif>
     &Ccirc;ia ilo <tld/>anta, servanta por <tld/>i a&ubreve; <tld/>igi:
       <ekz>
@@ -1039,6 +1041,12 @@
 </art>
 <!--
 $Log: glit.xml,v $
+Revision 1.44  2017/12/19 17:10:15  revo
+Michel Cantigneaux: "glit/il/o" fundamenta kunmetajxo el la U.V.
+
+Revision 1.43  2017/06/25 14:10:17  revo
+Wolfram Diestel: shovis trd en ghustan lokon
+
 Revision 1.42  2017/02/18 12:10:13  revo
 Jeromo Vasxe: tld/veturilo -> ~veturilo
 
@@ -1055,11 +1063,5 @@ Revision 1.38  2017/01/06 12:10:13  revo
 Damien Brucker: -eraro cxe cel en ref
 
 Revision 1.37  2017/01/05 20:10:13  revo
-Wolfram Diestel: pli prilaboris ekz-ojn, fnt-ojn
-
-Revision 1.36  2017/01/05 18:10:13  revo
-Wolfram Diestel: pli prilaboris ~ilo (sncoj,ekz-oj)
-
-Revision 1.35  2017/01/03 20:10:13  revo
 -->
 </vortaro>

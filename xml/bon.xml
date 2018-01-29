@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bon.xml,v 1.57 2017/01/26 09:10:28 revo Exp $">
+<art mrk="$Id: bon.xml,v 1.60 2017/12/21 16:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bon</rad>/a <fnt><bib>PV</bib></fnt>
@@ -135,14 +135,17 @@
     <trd>hodn&yacute;</trd>,
     <trd>laskav&yacute;</trd>
   </trdgrp>
+  <trd lng="af">goed</trd>
   <trd lng="de">gut</trd>
   <trd lng="en">good</trd>
   <trd lng="es">bueno</trd>
   <trd lng="et">hea</trd>
   <trd lng="fr">bon</trd>
   <trd lng="fy">goed</trd>
+  <trd lng="ia">bon</trd>
   <trd lng="id">baik</trd>
   <trd lng="io">bona</trd>
+  <trd lng="jbo">xamgu</trd>
   <trd lng="kk">&c_zh;&c_a;&#1179;&c_s;&c_y;</trd>
   <trd lng="ky">&c_zh;&c_a;&c_k;&c_sh;&c_y;</trd>
   <trd lng="nl">goed</trd>
@@ -166,6 +169,10 @@
   <snc mrk="bon.0e.maniero">
     <dif>
       En <tld/>a maniero:
+      <ekz>
+        e = marque l&#8217;adverbe, ex. bon'e = bien
+        <fnt><bib>F</bib>, <lok>Universala Vortaro, -e</lok></fnt>
+      </ekz>
       <ekz>
         la tran&ccirc;ilo tran&ccirc;as <tld/>e
         <fnt><bib>F</bib>, <lok>&FE; 16</lok></fnt>;
@@ -240,6 +247,33 @@
   <trd lng="vo">gudiko</trd>
 </drv>
 
+<drv mrk="bon.0i">
+  <kap><tld/>i</kap>
+  <snc>
+    <dif>
+      Esti <tld/>a:
+      <ekz>
+        la usonaj konsuloj pli <tld/>as ol ilia reputacio
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kaj vi geedzi&gcirc;is: tio <tld/>as
+        <fnt>
+          <aut>Louis Couperus</aut>
+          <vrk><url
+          ref="https://books.google.com/books?id=gM3DyPtTq08C">Pri
+          maljunuloj, la a&jcirc;oj kiuj pasas...</url></vrk>
+          <lok>jaro 2013a, &ccirc;apitro 4a, p. 58a</lok>
+        </fnt>.
+      </ekz> 
+    </dif>
+  </snc>
+  <trd lng="en">be good</trd>
+  <trd lng="nl">goed zijn</trd>
+</drv>
+
 <drv mrk="bon.0o">
   <kap><tld/>o, <var><kap><tld/>a&jcirc;o</kap></var></kap>
   <snc>
@@ -312,6 +346,21 @@
   <trd lng="tp">pona</trd>
 </drv>
 
+<drv mrk="bon.0eco">
+  <kap><ofc>*</ofc><tld/>eco</kap>
+  <snc>
+    <dif>
+      Eco de tio, kio estas bona:
+      <ekz>
+        bon' = bon &#8208;> bon'ec' = bont&eacute;
+        <fnt><bib>F</bib>, <lok>Universala Vortaro, -ec'</lok></fnt>
+      </ekz>
+    </dif>
+    <trd lng="en">goodness</trd>
+    <trd lng="fr">bont&eacute;</trd>
+  </snc>
+</drv>
+
 <drv mrk="bon.0ulo">
   <kap><tld/>ulo</kap>
   <snc mrk="bon.0ulo.virtulo">
@@ -356,6 +405,10 @@
     <dif>
       Ne ta&ubreve;ga por sia funkcio, celo, ne konforma al la atendoj:
       <ekz>
+        bon'= bon &#8208;> mal'bon' = mauvais
+        <fnt><bib>F</bib>, <lok>Universala Vortaro, mal'</lok></fnt>
+      </ekz>
+      <ekz>
         el &scirc;iaj multaj infanoj unuj estas <tld/>aj kaj aliaj estas
         mal<tld/>aj
         <fnt><bib>F</bib>, <lok>&FE; 12</lok></fnt>.
@@ -393,12 +446,16 @@
     <trd>zl&yacute;</trd>,
     <trd>&scaron;patn&yacute;</trd>
   </trdgrp>
+  <trd lng="af">sleg</trd>
   <trd lng="de">schlecht</trd>
   <trd lng="en">bad</trd>
   <trd lng="es">malo</trd>
   <trd lng="fr">mauvais</trd>
+  <trd lng="fy">min</trd>
+  <trd lng="ia">mal</trd>
   <trd lng="id">buruk</trd>
   <trd lng="io">mala</trd>
+  <trd lng="jbo">xlali</trd>
   <trd lng="pl">z&lstroke;y</trd>
   <trdgrp lng="sk">
     <trd>zl&yacute;</trd>,
@@ -448,6 +505,7 @@
     (d&eacute;t&eacute;riorer)</klr></trd>
   </trdgrp>
   <trd lng="id">[<ind>buruk</ind>] memperburuk</trd>
+  <trd lng="io">maligar</trd>
   <trd lng="nl">slecht maken</trd>
   <trdgrp lng="pl">
     <trd>pogarsza&cacute;</trd>,
@@ -641,6 +699,16 @@
 <!--
 
 $Log: bon.xml,v $
+Revision 1.60  2017/12/21 16:10:20  revo
+Robin van der Vliet: +boni
+
+Revision 1.59  2017/12/18 23:10:24  revo
+Michel Cantigneaux: "bon/ec/o" : ekzemplo de ec' en la Universala
+Vortaro, do fundamenta kunmetajxo
+
+Revision 1.58  2017/04/24 12:10:17  revo
+Robin van der Vliet: +trd
+
 Revision 1.57  2017/01/26 09:10:28  revo
 Lyubomir Vasilev: +trd bg
 
@@ -653,16 +721,6 @@ Evandro Avellar: +trd pt
 Revision 1.54  2015/09/17 18:10:16  revo
 Bora Can Asli: +trd az,et,kk,ky,tk,tr,tt,ug,uz
 
-Revision 1.53  2015/07/04 18:10:15  revo
-Vito Redsky: +trd ro
-
-Revision 1.52  2015/07/04 08:37:31  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.51  2015/06/29 16:29:36  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.50  2014/12/28 21:10:15  revo
 -->
 
 </vortaro>

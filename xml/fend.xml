@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fend.xml,v 1.23 2015/07/04 08:37:34 revo Exp $">
+<art mrk="$Id: fend.xml,v 1.25 2017/07/24 09:10:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fend</rad>/i <fnt><bib>PV</bib></fnt>
@@ -50,6 +50,10 @@
       <ref cel="trancx.0i">tran&ccirc;i</ref>
     </refgrp>
     <trd lng="de">spalten</trd>
+    <trdgrp lng="pl">
+      <trd>&lstroke;upa&cacute;</trd>,
+      <trd>roz&lstroke;upywa&cacute;</trd>
+    </trdgrp>
   </snc>
   <snc mrk="fend.0i.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -82,6 +86,7 @@
       <trd>zerschneiden</trd>,
       <trd>teilen</trd>
     </trdgrp>
+    <trd lng="pl">rozcina&cacute;</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_a;&c_s;&c_sh;&c_ch;&c_a;&c_p;&c_l;&c_ja;&c_c;&c_mol;</trd>,
@@ -89,9 +94,9 @@
   </trdgrp>
   <trdgrp lng="cs">
     <trd>poltit</trd>,
-    <trd>rozrážet</trd>,
-    <trd>štípat <klr>(dřevo)</klr></trd>,
-    <trd>štěpit</trd>
+    <trd>rozr&aacute;&zcaron;et</trd>,
+    <trd>&scaron;t&iacute;pat <klr>(d&rcaron;evo)</klr></trd>,
+    <trd>&scaron;t&#65533;&#8250;pit</trd>
   </trdgrp>
   <trd lng="en">split</trd>
   <trdgrp lng="es">
@@ -118,8 +123,8 @@
     <trd>&c_r;&c_a;&c_s;&c_k;&c_o;&c_l;&c_o;&c_t;&c_mol;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>rozštiepiť</trd>,
-    <trd>štiepať</trd>
+    <trd>roz&scaron;tiepi&tcaron;</trd>,
+    <trd>&scaron;tiepa&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -135,6 +140,20 @@
     <refgrp tip="vid">
       <ref cel="brecx.0o">bre&ccirc;o</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd>slot</trd>,
+      <trd>cleft</trd>,
+      <trd>crack</trd>,
+      <trd>crevice</trd>,
+      <trd>fissure</trd>,
+      <trd>gap</trd>,
+      <trd>split</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>szpara</trd>,
+      <trd>szczelina</trd>,
+      <trd>rysa</trd>
+    </trdgrp>
   </snc>
   <snc mrk="fend.0o.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -150,6 +169,11 @@
       <ref cel="difere.0o">diferenco</ref>,
       <ref cel="skism.0o">skismo</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd>gap</trd>,
+      <trd>split</trd>
+    </trdgrp>
+    <trd lng="pl">rysa</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_sh;&c_ch;&c_y;&c_l;&c_ib;&c_n;&c_a;</trd>,
@@ -157,15 +181,16 @@
   </trdgrp>
   <trdgrp lng="cs">
     <trd>prasklina</trd>,
-    <trd>rozštěpení</trd>,
-    <trd>spára</trd>,
-    <trd>škvíra</trd>,
-    <trd>štěrbina</trd>
+    <trd>roz&scaron;t&#65533;&#8250;pen&iacute;</trd>,
+    <trd>sp&aacute;ra</trd>,
+    <trd>&scaron;kv&iacute;ra</trd>,
+    <trd>&scaron;t&#65533;&#8250;rbina</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Spalt</trd>,
     <trd>Riss</trd>
   </trdgrp>
+  <trd lng="en">split</trd>
   <trdgrp lng="es">
     <trd>hendidura</trd>,
     <trd>hendedura</trd>,  
@@ -188,7 +213,7 @@
   <trdgrp lng="sk">
     <trd>diera</trd>,
     <trd>puklina</trd>,
-    <trd>štrbina</trd>
+    <trd>&scaron;trbina</trd>
   </trdgrp>
 </drv>
 
@@ -208,12 +233,19 @@
     <trd>Spalte</trd>,
     <trd>Schlucht</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>chasm</trd>,
+    <trd>divide</trd>,
+    <trd>gulf</trd>,
+    <trd>ravine</trd>
+  </trdgrp>
   <trd lng="fr">faille</trd>
   <trdgrp lng="hu">
     <trd>szakad&eacute;k</trd>,
     <trd>sziklahasad&eacute;k</trd>,
     <trd>szurdok</trd>
   </trdgrp>
+  <trd lng="pl">rozpadlina</trd>
   <trd lng="ru">&c_r;&c_a;&c_s;&c_s;&c_je;&c_l;&c_i;&c_n;&c_a;</trd>
   <trd lng="sk">prasklina</trd>
 </drv>
@@ -231,12 +263,13 @@
   <trdgrp lng="cs">
     <trd>prasklina</trd>,
     <trd>skulina</trd>,
-    <trd>štěrbina</trd>
+    <trd>&scaron;t&#65533;&#8250;rbina</trd>
   </trdgrp>
   <trd lng="es">fisura</trd>
   <trd lng="fr">fissure</trd>
   <trd lng="hu">reped&eacute;s</trd>
-  <trd lng="sk">štrbinka</trd>
+  <trd lng="pl">rysa</trd>
+  <trd lng="sk">&scaron;trbinka</trd>
 </drv>
 
 <drv mrk="fend.har0i">
@@ -262,12 +295,14 @@
     </refgrp>
   </snc>
   <trd lng="de">Haarspalterei betreiben</trd>
+  <trd lng="en">split hairs</trd>
   <trdgrp lng="es">
     <trd>pedantear</trd>,
     <trd>cominear</trd>,
     <trd>hablar babosadas</trd>
   </trdgrp>
   <trd lng="fr">couper les cheveux en quatre</trd>
+  <trd lng="pl">dzieli&cacute; <ind>w&lstroke;os</ind> <klr>na czworo</klr></trd>
 </drv>
 
 <drv mrk="fend.pantalon0o">
@@ -289,20 +324,28 @@
         </fnt>.
       </ekz>
     </dif>
-  </snc>
   <trdgrp lng="cs">
     <trd>poklopec</trd>,
     <trd>rozparek</trd>
   </trdgrp>
+  <trd lng="en">fly</trd>
   <trd lng="fr">braguette</trd>
+  <trd lng="pl">rozporek</trd>
   <trdgrp lng="sk">
     <trd>jatka</trd>,
-    <trd>rázporok</trd>
+    <trd>r&aacute;zporok</trd>
   </trdgrp>
+  </snc>
 </drv>
 </art>
 <!--
 $Log: fend.xml,v $
+Revision 1.25  2017/07/24 09:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.24  2017/07/10 08:10:21  revo
+Ian Dalton: +trd en
+
 Revision 1.23  2015/07/04 08:37:34  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -319,17 +362,5 @@ Revision 1.19  2010/11/04 17:30:51  revo
 Carlos Garcia: +trd "es" -o, -eto
 
 Revision 1.18  2008/11/05 17:30:53  revo
-Peter Hauser: + germana trad. "harfendi"
-
-Revision 1.17  2007/05/20 16:31:19  revo
-Tulio Flores: +tr pt
-
-Revision 1.16  2006/07/29 16:35:03  revo
-Eduardo Navas: +trd es
-
-Revision 1.15  2005/04/01 17:47:52  revo
-Jeromo Vasxe: + har~i
-
-Revision 1.14 2004/10/20 16:32:08 revo
 -->
 </vortaro>

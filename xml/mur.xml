@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mur.xml,v 1.28 2017/02/14 17:10:13 revo Exp $">
+<art mrk="$Id: mur.xml,v 1.29 2017/12/19 10:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>mur</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -126,6 +126,20 @@
   <trd lng="sv">mur</trd>
 </drv>
 
+<drv mrk="mur.0eto">
+  <kap><ofc>*</ofc><tld/>eto
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, -et'</lok></fnt></kap>
+  <snc>
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Malalta <ref tip="super" cel="mur.0o.ARKI">muro</ref>, ofte uzata
+      kiel limo de &gcirc;ardeno, kampo a&ubreve; pa&scirc;tejo.
+    </dif>
+  </snc>
+  <trd lng="en"><klr>(low)</klr> stone wall</trd>
+  <trd lng="fr">muret</trd>
+</drv>
+
 <drv mrk="mur.cxirkaux0o">
   <kap>&ccirc;irka&ubreve;<tld/>o</kap>
   <snc>
@@ -186,6 +200,9 @@
 </art>
 <!--
 $Log: mur.xml,v $
+Revision 1.29  2017/12/19 10:10:22  revo
+Michel Cantigneaux: fundamenta "mureto" al la U.V.
+
 Revision 1.28  2017/02/14 17:10:13  revo
 Jeromo Vasxe: mallhelpajxo -> malhelpajxo
 
@@ -205,8 +222,5 @@ Revision 1.23  2012/03/11 20:10:11  revo
 Agustin Garcia Lopez: +trd(es)
 
 Revision 1.22  2010/06/20 16:30:27  revo
-Antonio Codazzi: +trd it
-
-Revision 1.21  2009/10/11 16:30:38  revo
 -->
 </vortaro>

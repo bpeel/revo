@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eglanteri.xml,v 1.8 2015/07/04 08:37:33 revo Exp $">
+<art mrk="$Id: eglanteri.xml,v 1.9 2017/06/24 23:10:13 revo Exp $">
 <kap>
   <rad>eglanteri</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -40,8 +40,8 @@
     <trd><ind>roser</ind> silvestre</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>planá růže</trd>,
-    <trd>šípek</trd>
+    <trd>plan&aacute; r&uring;&zcaron;e</trd>,
+    <trd>&scaron;&iacute;pek</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Hundsrose</trd>,
@@ -51,16 +51,20 @@
     <trd>&eacute;glantier</trd>,
     <trd>&eacute;glantine</trd>
   </trdgrp>
+  <trd lng="pl">r&oacute;&zdot;a dzika</trd>
   <trd lng="pt">rosa-canina</trd>
   <trdgrp lng="sk">
-    <trd>planá ruža</trd>,
-    <trd>šípka</trd>
+    <trd>plan&aacute; ru&zcaron;a</trd>,
+    <trd>&scaron;&iacute;pka</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: eglanteri.xml,v $
+Revision 1.9  2017/06/24 23:10:13  revo
+Vito Redsky: +trd pl
+
 Revision 1.8  2015/07/04 08:37:33  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -80,10 +84,5 @@ Revision 1.3  2007/06/22 17:25:36  revo
 Tulio Flores: +tr pt
 
 Revision 1.2  2006/02/03 17:32:24  revo
-Jeromo Vasxe: kor 1 fnt
-
-Revision 1.1  2006/02/02 17:31:34  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

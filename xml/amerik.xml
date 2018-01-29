@@ -2,13 +2,23 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
- <art mrk="$Id: amerik.xml,v 1.23 2015/07/04 08:37:30 revo Exp $">
+ <art mrk="$Id: amerik.xml,v 1.25 2017/12/29 23:10:16 revo Exp $">
  <kap>
-   <rad>Amerik</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+   <ofc>8</ofc><rad>Amerik</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
  </kap>
  
 <drv mrk="amerik.A0o">
-  <kap><tld/>o</kap>
+  <kap><ofc>8</ofc><tld/>o <fnt><aut>Akademio de Esperanto</aut>, 
+<vrk><url
+ref="http://www.akademio-de-esperanto.org/aktoj/aktoj2/8oa.html"> 8a
+Oficiala Aldono</url></vrk>, <lok>III</lok></fnt>
+  <fnt><aut>Akademio de Esperanto</aut>, 
+<vrk><url
+ref="http://www.akademio-de-esperanto.org/decidoj/landnomoj/listo_de_rekomendataj_landnomoj/index.html">Oficiala
+Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
+    <fnt><bib>Viki</bib>, <lok><url 
+    ref="http://eo.wikipedia.org/wiki/Ameriko">Ameriko</url></lok></fnt>
+  </kap>
   <fnt><bib>ZR</bib></fnt>
   <snc mrk="amerik.A0o.GEOG">
     <uzo tip="fak">GEOG</uzo>
@@ -42,6 +52,7 @@
   <trd lng="nl">Amerika</trd>
   <trd lng="pl">Ameryka</trd>
   <trd lng="pt">Am&eacute;rica</trd>
+  <trd lng="ro">America</trd>
   <trd lng="ru">&c_A;&c_m;&c_je;&c_r;&c_i;&c_k;&c_a;</trd>
   <trd lng="sk">Amerika</trd>
   <trd lng="vo">Melop</trd>
@@ -165,6 +176,7 @@
   <trd lng="de">Lateinamerika</trd>
   <trd lng="fr">Am&eacute;rique latine</trd>
   <trd lng="id"><ind></ind> Latin</trd>
+  <trd lng="pl">Ameryka &Lstroke;aci&nacute;ska</trd>
 </drv>
 
 <drv mrk="amerik.Nord0o">
@@ -245,6 +257,12 @@
  </art>
  <!--
  $Log: amerik.xml,v $
+ Revision 1.25  2017/12/29 23:10:16  revo
+ Michel Cantigneaux: aldonita per 8a OA
+
+ Revision 1.24  2017/11/30 23:10:27  revo
+ Vito Redsky: +trd ro +trd pl
+
  Revision 1.23  2015/07/04 08:37:30  revo
  aldono de trd cs per skripto de M. von Laer
 

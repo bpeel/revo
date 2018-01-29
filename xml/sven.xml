@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sven.xml,v 1.23 2017/01/20 08:10:17 revo Exp $">
+<art mrk="$Id: sven.xml,v 1.24 2017/09/12 16:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sven</rad>/i <fnt><bib>PV</bib></fnt>
@@ -185,6 +185,23 @@
   </trdgrp>
 </drv>
 
+<drv mrk="sven.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="sven.0ema.PSI">
+    <dif>
+      Preska&ubreve; <tld/>anta, sentanta grandegan malforti&gcirc;on:
+      <ekz>
+        li sentis sin <tld/>ema pro lacego post la
+        dumnokta viglado
+        <fnt><aut>J. Francis</aut>,
+        <vrk>La Granda Kaldrono</vrk>, 
+        <lok>1978</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">d&eacute;faillant<klr> (se sentant mal)</klr></trd>
+</drv>
+
 <drv mrk="sven.0emo">
   <kap><tld/>emo</kap>
   <snc mrk="sven.0emo.PSI">
@@ -318,6 +335,9 @@
 </art>
 <!--
 $Log: sven.xml,v $
+Revision 1.24  2017/09/12 16:10:15  revo
+Jeromo Vasxe: + ~ema
+
 Revision 1.23  2017/01/20 08:10:17  revo
 Lyubomir Vasilev: +trd bg
 
@@ -337,8 +357,5 @@ Revision 1.18  2015/06/29 16:33:25  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.17  2015/02/04 23:10:15  revo
-Jeromo Vasxe: + ~emo/igi
-
-Revision 1.16  2009/10/06 16:43:57  revo
 -->
 </vortaro>

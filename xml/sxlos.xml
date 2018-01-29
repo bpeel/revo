@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxlos.xml,v 1.25 2016/06/01 16:10:22 revo Exp $">
+<art mrk="$Id: sxlos.xml,v 1.26 2017/12/20 14:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;los</rad>/i <fnt><bib>PV</bib></fnt>
@@ -84,7 +84,9 @@
 </drv>
 
 <drv mrk="sxlos.0ilo">
-  <kap><tld/>ilo</kap>
+  <kap><ofc>*</ofc><tld/>ilo <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5202">&scirc;los'il'</url></lok></fnt></kap>
   <snc mrk="sxlos.0ilo.seruro">
     <dif>
       Metala peco, la&ubreve;cele tran&ccirc;ita, servanta por fermi
@@ -194,6 +196,9 @@
 </art>
 <!--
 $Log: sxlos.xml,v $
+Revision 1.26  2017/12/20 14:10:18  revo
+Michel Cantigneaux: "sxlos/il/o" fundamenta kunmetajxo el la U.V.
+
 Revision 1.25  2016/06/01 16:10:22  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -213,8 +218,5 @@ Revision 1.20  2009/04/05 16:30:55  revo
 Antonio Codazzi: +trd it
 
 Revision 1.19  2007/12/14 17:30:13  revo
-Wieland Pusch: +trd bg (de Joop Eggen)
-
-Revision 1.18  2007/12/12 17:30:23  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tol.xml,v 1.22 2016/02/03 21:10:27 revo Exp $">
+<art mrk="$Id: tol.xml,v 1.23 2017/12/20 15:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tol</rad>/o
@@ -44,7 +44,9 @@
 </drv>
 
 <drv mrk="tol.0ajxo">
-  <kap><ofc>*</ofc><tld/>a&jcirc;o</kap>
+  <kap><ofc>*</ofc><tld/>a&jcirc;o <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5230">tol'a&jcirc;'</url></lok></fnt></kap>
   <snc mrk="tol.0ajxo.TEKS">
     <uzo tip="fak">TEKS</uzo>
     <dif>
@@ -92,7 +94,9 @@
 </drv>
 
 <drv mrk="tol.vaks0o">
-  <kap>vaks<tld/>o</kap>
+  <kap><ofc>*</ofc>vaks<tld/>o <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5241">vaks'tol'</url></lok></fnt></kap>
   <snc mrk="tol.vaks0o.TEKS">
     <uzo tip="fak">TEKS</uzo>
     <dif>
@@ -126,6 +130,9 @@
 </art>
 <!--
 $Log: tol.xml,v $
+Revision 1.23  2017/12/20 15:10:23  revo
+Michel Cantigneaux: "vaks/tol/o" fundamenta kunmetajxo el la U.V. + UV-ligilo "tolajxo"
+
 Revision 1.22  2016/02/03 21:10:27  revo
 Alain Gerard: +trd fr
 
@@ -145,8 +152,5 @@ Revision 1.17  2008/02/12 17:30:24  revo
 Wieland Pusch: +trd bg
 
 Revision 1.16  2008/02/11 17:30:34  revo
-Russ Williams: +trd en
-
-Revision 1.15  2006/02/15 17:35:33  revo
 -->
 </vortaro>

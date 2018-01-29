@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ter.xml,v 1.75 2015/12/07 15:10:15 revo Exp $">
+<art mrk="$Id: ter.xml,v 1.77 2017/11/30 23:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>ter</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -234,6 +234,7 @@
     <trd>l&aogonek;dowa&cacute;</trd>,
     <trd>przybija&cacute; do <ind>l&aogonek;du</ind></trd>
   </trdgrp>
+  <trd lng="ro">ateriza</trd>
   <trd lng="ru">
   &c_p;&c_r;&c_i;&c_z;&c_je;&c_m;&c_l;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
 </drv>
@@ -1213,6 +1214,12 @@
 </art>
 <!--
 $Log: ter.xml,v $
+Revision 1.77  2017/11/30 23:10:24  revo
+Vito Redsky: +trd ro
+
+Revision 1.76  2017/09/27 11:10:15  revo
+Filippo Botta: traduko italen
+
 Revision 1.75  2015/12/07 15:10:15  revo
 Cindy Moon McKee: +trd en
 
@@ -1229,11 +1236,5 @@ Revision 1.71  2014/10/26 21:10:15  revo
 Jeromo Vasxe: - ~krusto portita al krust.xml
 
 Revision 1.70  2014/05/30 17:10:31  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.69  2013/11/02 17:10:10  revo
-Wolfram Diestel: ternukso: ref al faboparencoj, bot specioj +snc frukto
-
-Revision 1.68  2013/11/02 16:10:16  revo
 -->
 </vortaro>

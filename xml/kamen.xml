@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kamen.xml,v 1.23 2016/08/29 15:10:15 revo Exp $">
+<art mrk="$Id: kamen.xml,v 1.24 2017/08/21 20:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kamen</rad>/o
@@ -47,6 +47,7 @@
     <trd>kominek</trd>,
     <trd>koza<klr> (rodzaj kominka)</klr></trd>
   </trdgrp>
+  <trd lng="ro">c&abreve;min</trd>
   <trd lng="ru">&c_k;&c_a;&c_m;&c_i;&c_n;</trd>
   <trdgrp lng="sk">
     <trd>kozub</trd>,
@@ -77,6 +78,9 @@
 </art>
 <!--
 $Log: kamen.xml,v $
+Revision 1.24  2017/08/21 20:10:21  revo
+Vito Redsky: +trd ro
+
 Revision 1.23  2016/08/29 15:10:15  revo
 Guillermo Molleda Jimena: trd es
 
@@ -96,8 +100,5 @@ Revision 1.18  2009/03/30 16:30:47  revo
 Wieland Pusch: +trd bg
 
 Revision 1.17  2008/06/11 16:48:17  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.16  2005/12/06 17:33:08  revo
 -->
 </vortaro>

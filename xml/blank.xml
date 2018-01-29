@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: blank.xml,v 1.41 2015/10/05 04:10:25 revo Exp $">
+<art mrk="$Id: blank.xml,v 1.42 2017/12/20 01:10:25 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>blank</rad>/a <fnt><bib>PV</bib></fnt>
@@ -273,7 +273,11 @@
 </drv>
 
 <drv mrk="blank.ovo0o">
-  <kap>ovo<tld/>o, <var><kap>ovo<tld/>a&jcirc;o</kap></var></kap>
+  <kap><ofc>*</ofc>ov<tld/>o <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5135">ov'blank'</url></lok></fnt>,
+  <var><kap>ovo<tld/>o</kap></var>, 
+  <var><kap>ovo<tld/>a&jcirc;o</kap></var></kap>
   <snc mrk="blank.ovo0o.KUI">
     <uzo tip="fak">KUI</uzo>
     <dif>
@@ -306,6 +310,9 @@
 <!--
 
 $Log: blank.xml,v $
+Revision 1.42  2017/12/20 01:10:25  revo
+Michel Cantigneaux: "ov/blank/o" fundamenta kunmetajxo el la U.V.
+
 Revision 1.41  2015/10/05 04:10:25  revo
 Evandro Avellar: +trd pt
 
@@ -325,9 +332,6 @@ Revision 1.36  2013/10/12 01:10:29  revo
 Benito Subejrano: + trd ca oc
 
 Revision 1.35  2013/09/14 09:10:47  revo
-Wolfram Diestel: ref al lst koloroj, ref-oj
-
-Revision 1.34  2010/09/02 16:30:31  revo
 -->
 
 </vortaro>

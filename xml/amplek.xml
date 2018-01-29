@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: amplek.xml,v 1.27 2016/12/16 17:10:12 revo Exp $">
+<art mrk="$Id: amplek.xml,v 1.28 2017/11/30 23:10:28 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ampleks</rad>/o <fnt><bib>PV</bib></fnt>
@@ -141,6 +141,7 @@
   </trdgrp>
   <trd lng="en">extensive</trd>
   <trd lng="fr">&eacute;tendu<klr> (vaste)</klr></trd>
+  <trd lng="ro">larg</trd>
   <trdgrp lng="sk">
     <trd>objemn&yacute;</trd>,
     <trd>obsiahly</trd>
@@ -342,6 +343,9 @@
 </art>
 <!--
 $Log: amplek.xml,v $
+Revision 1.28  2017/11/30 23:10:28  revo
+Vito Redsky: +trd ro
+
 Revision 1.27  2016/12/16 17:10:12  revo
 Wolfram Diestel: dif chirkau dif-ref; ekz-fnt-o
 
@@ -361,8 +365,5 @@ Revision 1.22  2015/06/28 12:03:35  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.21  2015/02/19 14:10:13  revo
-Alain Gerard: + trd fr
-
-Revision 1.20  2013/11/21 02:10:25  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: virg.xml,v 1.31 2017/02/28 19:10:11 revo Exp $">
+<art mrk="$Id: virg.xml,v 1.34 2017/12/20 16:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>virg</rad>/a
@@ -31,8 +31,12 @@
         la <tld/>a blankeco de la muroj<fnt>B</fnt>;
       </ekz>
       <ekz>
-        super Betanio pendis la <tld/>a bluo de l'
-        &ccirc;ielo<fnt>B</fnt>.
+        super Betanio pendis la <tld/>a bluo de la &ccirc;ielo
+        <fnt>
+          <aut>A. Niemojewski, trad. Kabe</aut>,
+          <vrk>Internacia Krestomatio</vrk>,
+          <lok>En kvieta vespero</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -141,7 +145,7 @@
 </drv>
 
 <drv mrk="virg.0ulino">
-  <kap><ofc>*</ofc><tld/>ulino</kap>
+  <kap><ofc>*</ofc><ofc>ekz</ofc><tld/>ulino</kap>
   <snc>
     <dif>
       <tld lit="V"/>a ino:
@@ -208,7 +212,7 @@
   <trd lng="cs">panna</trd>
   <trd lng="de">Jungfrau</trd>
   <trd lng="es">Virgo<klr tip="amb"> (costelaci&oacute;n, zod&iacute;aco)</klr></trd>
-  <trd lng="fr">Vierge<klr tip="amb"> (constellation)</klr></trd>
+  <trd lng="fr">Vierge<klr tip="ind"> (constellation)</klr></trd>
   <trd lng="he">&mem;&zayin;&lamed; &bet;&tav;&vav;&lamed;&he;</trd>
   <trd lng="hu">Sz&udblac;z</trd>
   <trdgrp lng="id">
@@ -223,7 +227,9 @@
 </drv>
 
 <drv mrk="virg.mal0igi">
-  <kap>mal<tld/>igi</kap>
+  <kap><ofc>*</ofc>mal<tld/>igi <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5254">mal'virg'ig'</url></lok></fnt></kap>
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
@@ -262,6 +268,15 @@
 </art>
 <!--
 $Log: virg.xml,v $
+Revision 1.34  2017/12/20 16:10:17  revo
+Michel Cantigneaux: "mal/virg/ig/i" fundamenta kunmetajxo el la U.V. + mencio "ekz" por "virgulino"
+
+Revision 1.33  2017/06/06 16:10:22  revo
+Ludoviko Francisco: +tip ind
+
+Revision 1.32  2017/06/01 10:10:13  revo
+Ludoviko Francisco: +fnt
+
 Revision 1.31  2017/02/28 19:10:11  revo
 Robin van der Vliet: +trd
 
@@ -275,14 +290,5 @@ Revision 1.28  2015/06/28 12:03:50  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.27  2014/06/06 16:10:14  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.26  2013/09/23 19:10:22  revo
-Wolfram Diestel: ref al list zodiakoaj signoj, mlg
-
-Revision 1.25  2012/01/05 16:10:23  revo
-Marc Rausell: +trd ca (kor)
-
-Revision 1.24  2010/05/13 16:30:32  revo
 -->
 </vortaro>

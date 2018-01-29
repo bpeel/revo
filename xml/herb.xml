@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: herb.xml,v 1.45 2015/07/04 08:37:35 revo Exp $">
+<art mrk="$Id: herb.xml,v 1.48 2017/12/20 16:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>herb</rad>/o <fnt><bib>PV</bib></fnt>
@@ -82,26 +82,30 @@
   </snc>
   <snc mrk="herb.0o.ero">
     <uzo tip="stl">RAR</uzo>
-    <ref tip="dif" cel="herb.0ero"><tld/>ero</ref>
-    <ekz>
-      homojn kaj brutojn kaj &ccirc;iun <tld/>on de la kampo
-      batdifektis la hajlo kaj &ccirc;iujn arbojn de la kampo
-      &gcirc;i rompis
-      <fnt><bib>MT</bib>, <lok>&Eli; 9:25</lok></fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="herb.0ero"><tld lit="H"/>ero</ref>:
+      <ekz>
+        homojn kaj brutojn kaj &ccirc;iun <tld/>on de la kampo
+        batdifektis la hajlo kaj &ccirc;iujn arbojn de la kampo
+        &gcirc;i rompis
+        <fnt><bib>MT</bib>, <lok>&Eli; 9:25</lok></fnt>.
+      </ekz>
+    </dif>
   </snc>
   <snc mrk="herb.0o.BOT">
     <uzo tip="fak">BOT</uzo>
-    <ref tip="dif" cel="plant.nedauxra0o">Neda&ubreve;ra planto</ref>
-    <ekz>
-      unujara <klr>(vivas nur unu jaron)</klr>,
-      somera <klr>(&gcirc;ermas printempe kaj fruktas somere
-      a&ubreve; a&ubreve;tune)</klr>,
-      vintra <klr>(&gcirc;ermas a&ubreve;tune kaj fruktas
-      sekvajare printempe)</klr>,
-      dujara <klr>(&gcirc;ermas en unu jaro kaj floras kaj
-      fruktas en sekva jaro)</klr>, plurjara <tld/>o.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="plant.nedauxra0o">Neda&ubreve;ra planto</ref>:
+      <ekz>
+        unujara <klr>(vivas nur unu jaron)</klr>,
+        somera <klr>(&gcirc;ermas printempe kaj fruktas somere
+        a&ubreve; a&ubreve;tune)</klr>,
+        vintra <klr>(&gcirc;ermas a&ubreve;tune kaj fruktas
+        sekvajare printempe)</klr>,
+        dujara <klr>(&gcirc;ermas en unu jaro kaj floras kaj
+        fruktas en sekva jaro)</klr>, plurjara <tld/>o.
+      </ekz>
+    </dif>
     <trd lng="de">Kraut</trd>
   </snc>
   <trd lng="be">&c_t;&c_r;&c_a;&c_v;&c_a;</trd>
@@ -123,7 +127,7 @@
   <trd lng="ru"><ofc>*</ofc>&c_t;&c_r;&c_a;&c_v;&c_a;</trd>
   <trdgrp lng="sk">
     <trd>bylina</trd>,
-    <trd>tráva</trd>
+    <trd>tr&aacute;va</trd>
   </trdgrp>
   <trd lng="sv">gr&auml;s</trd>
   <trd lng="tp">kasi</trd>
@@ -134,8 +138,7 @@
   <snc>
     <dif>
       Unuopa individua vegetalo el tiaj, kiuj konsistigas
-      <ref tip="malprt"
-      cel="herb.0o.KOMUNE"><tld/>on<sncref/></ref>:
+      <ref tip="malprt" cel="herb.0o.KOMUNE"><tld/>on<sncref/></ref>:
       <ekz>
         Floro falis ankora&ubreve;! seki&gcirc;is <tld/>ero kaj mortis,
         Velkis pro vintra la frosto &gcirc;ia verdanta folio!
@@ -159,18 +162,18 @@
         kaj inter la <tld/>eroj ili ekvidis grandajn nuksojn
         <fnt>
         <vrk><url
-        ref="http://kastoraklubo.w.interia.pl/tri/index.html"
-        >Tri re&gcirc;idinoj</url></vrk>
+        ref="http://kastoraklubo.w.interia.pl/tri/index.html">Tri
+        re&gcirc;idinoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="bg">&c_s;&c_t;&c_r;&c_malmol;&c_k;&c_ch;&c_je; <ind>&c_t;&c_r;&c_je;&c_v;&c_a;</ind></trd>
-  <trd lng="cs">stonek trávy</trd>
+  <trd lng="cs">stonek tr&aacute;vy</trd>
   <trd lng="it">filo d'<ind>erba</ind></trd>
   <trd lng="nl">grasspriet</trd>
   <trd lng="ru">&c_t;&c_r;&c_a;&c_v;&c_i;&c_n;&c_k;&c_a;</trd>
-  <trd lng="sk">byľ</trd>
+  <trd lng="sk">by&lcaron;</trd>
 </drv>
 
 <drv mrk="herb.0acxo">
@@ -186,8 +189,7 @@
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_p;&c_u;&c_s;&c_t;&c_a;&c_z;&c_je;&c_l;&c_mol;&c_l;&c_je;</trd>
+  <trd lng="be">&c_p;&c_u;&c_s;&c_t;&c_a;&c_z;&c_je;&c_l;&c_mol;&c_l;&c_je;</trd>
   <trd lng="bg">&c_p;&c_l;&c_je;&c_v;&c_je;&c_l;</trd>
   <trd lng="br">louzaouenn fall</trd>
   <trd lng="de">Unkraut</trd>
@@ -213,7 +215,9 @@
 </drv>
 
 <drv mrk="herb.0ejo">
-  <kap><tld/>ejo</kap>
+  <kap><ofc>*</ofc><tld/>ejo <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5263">herb'ej'</url></lok></fnt></kap>
   <snc mrk="herb.0ejo.AGR">
     <uzo tip="fak">AGR</uzo>
     <dif>
@@ -233,9 +237,9 @@
   </trdgrp>
   <trdgrp lng="cs">
     <trd>louka</trd>,
-    <trd>lučina</trd>,
+    <trd>lu&ccaron;ina</trd>,
     <trd>palouk</trd>,
-    <trd>trávník</trd>
+    <trd>tr&aacute;vn&iacute;k</trd>
   </trdgrp>
   <trd lng="de">Wiese</trd>
   <trdgrp lng="en">
@@ -256,9 +260,24 @@
   <trd lng="pt">prado</trd>
   <trd lng="ru">&c_l;&c_u;&c_g;</trd>
   <trdgrp lng="sk">
-    <trd>lúka</trd>,
-    <trd>trávnik</trd>
+    <trd>l&uacute;ka</trd>,
+    <trd>tr&aacute;vnik</trd>
   </trdgrp>
+</drv>
+
+<drv mrk="herb.0ori&ccirc;a">
+  <kap><ofc>*</ofc><ofc>ekz</ofc><tld/>ori&ccirc;a</kap>
+  <snc>
+    <dif>
+    Plena da herbo, parolante de kampo a&ubreve; herbejo:
+    <ekz>
+    Sur tiuj &ccirc;i vastaj kaj herbori&ccirc;aj kampoj pa&scirc;tas sin grandaj
+    brutaroj, precipe aroj da bellanaj &scirc;afoj.
+    <fnt><bib>F</bib>, <lok>&FE; 34</lok></fnt>.
+    </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">gras <klr> (riche en herbe)</klr></trd>
 </drv>
 
 <drv mrk="herb.birdo0o">
@@ -266,13 +285,15 @@
   <uzo tip="stl">KOMUNE</uzo>
   <snc mrk="herb.birdo0o.BOT">
     <uzo tip="fak">BOT</uzo>
-    <ref tip="dif" cel="stelari.meza0o.BOT">meza stelario</ref>
-    <ekz>
-      la sturno fajfis, kiel oni lin lernigis, kaj la avino pendigis
-      birdo<tld/>on super la ka&gcirc;o
-      <fnt><bib>Fab3</bib>, <lok>&ccirc;e la plej ekstrema
-      maro</lok></fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="stelari.meza0o.BOT">Meza stelario</ref>:
+      <ekz>
+        la sturno fajfis, kiel oni lin lernigis, kaj la avino pendigis
+        birdo<tld/>on super la ka&gcirc;o
+        <fnt><bib>Fab3</bib>, <lok>&ccirc;e la plej ekstrema
+        maro</lok></fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="bg">&c_v;&c_r;&c_a;&c_b;&c_ch;&c_o;&c_v;&c_i; <ind>&c_ch;&c_r;&c_je;&c_v;&c_c;&c_a;</ind></trd>
   <trdgrp lng="br">
@@ -299,7 +320,16 @@
     <uzo tip="fak">BOT</uzo>
     <dif>
       <ref tip="dif" cel="elim.hunda0o">hunda elimo</ref> a&ubreve;
-      <ref tip="dif" cel="agropi.0o">agropiro</ref>.
+      <ref tip="dif" cel="agropi.0o">agropiro</ref>:
+      <ekz>
+        elimo a&ubreve; hund<tld/>o estas genro de plantoj de <klr>[...]</klr>
+        parenca al elitrigio
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=476377">Elymus</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_y;&c_r;&c_n;&c_ib;&c_k;</trd>
@@ -332,15 +362,16 @@
   </snc>
   <trd lng="bg">&c_b;&c_i;&c_l;&c_k;&c_a;</trd>
   <trdgrp lng="cs">
-    <trd>léčivka</trd>,
-    <trd>léčivá bylina</trd>,
-    <trd>léčivá rostlina</trd>
+    <trd>l&eacute;&ccaron;ivka</trd>,
+    <trd>l&eacute;&ccaron;iv&aacute; bylina</trd>,
+    <trd>l&eacute;&ccaron;iv&aacute; rostlina</trd>
   </trdgrp>
+  <trd lng="de">Heilkraut</trd>
   <trdgrp lng="fr">
     <trd>plante m&eacute;dicinale</trd>,
     <trd>simple<klr> (plante m&eacute;dicinale)</klr></trd>
   </trdgrp>
-  <trd lng="sk">liečivá rastlina</trd>
+  <trd lng="sk">lie&ccaron;iv&aacute; rastlina</trd>
 </drv>
 
 <drv mrk="herb.pan0o">
@@ -378,12 +409,26 @@
   <uzo tip="stl">KOMUNE</uzo>
   <snc mrk="herb.veruk0o.BOT">
     <uzo tip="fak">BOT</uzo>
-    <ref tip="dif" cel="kelido.0o">kelidonio</ref>
+    <dif>
+      <ref tip="dif" cel="kelido.0o">Kelidonio</ref>:
+      <ekz>
+        kelidonio a&ubreve; veruk<tld/>o estas palearktisa genro de papavacoj
+        kun nur unu specio
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=22018">Kelidonio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
-  <trd
-  lng="be">&c_p;&c_a;&c_d;&c_t;&c_y;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_t;&c_y;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>
   <trd lng="br">louzaouenn-ar-plac'h-koant</trd>
-  <trd lng="cs">vlaštovičník větší</trd>
+  <trd lng="cs">vla&scaron;tovi&ccaron;n&iacute;k v&ecaron;t&scaron;&iacute;</trd>
+  <trdgrp lng="de">
+    <trd>Warzenkraut</trd>,
+    <trd>Sch&ouml;llkraut</trd>
+  </trdgrp>
   <trd lng="fr">ch&eacute;lidoine</trd>
   <trd lng="hu">fecskef&udblac;</trd>
   <trd lng="it">celidonia</trd>
@@ -400,11 +445,21 @@
     <trd>erva-andorinha</trd>
   </trdgrp>
   <trd lng="ru">&c_ch;&c_i;&c_s;&c_t;&c_o;&c_t;&c_je;&c_l;</trd>
-  <trd lng="sk">lastovičník väčší</trd>
+  <trd lng="sk">lastovi&ccaron;n&iacute;k v&auml;&ccaron;&scaron;&iacute;</trd>
 </drv>
+
 </art>
 <!--
 $Log: herb.xml,v $
+Revision 1.48  2017/12/20 16:10:19  revo
+Michel Cantigneaux: "herb/ej/o" (kunmetajxo fundamentaj el la U.V.) kaj aldono "herboricxa" (ekz #34
+
+Revision 1.47  2017/07/03 19:10:14  revo
+Wolfram Diestel: +germ trd
+
+Revision 1.46  2017/07/02 19:10:19  revo
+Wolfram Diestel: dif chirkau dif-ref; +ekz-oj
+
 Revision 1.45  2015/07/04 08:37:35  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -418,20 +473,5 @@ Revision 1.42  2015/05/26 17:10:17  revo
 Joop Eggen: +trd bg
 
 Revision 1.41  2014/12/17 00:10:40  revo
-Jeromo Vasxe: + kurac~o
-
-Revision 1.40  2013/08/28 16:10:22  revo
-Wolfram Diestel: hundherbo ankaux nomigxas hunda elimo
-
-Revision 1.39  2010/04/09 16:30:49  revo
-Jeromo Vasxe: + pan~o el herb.xml
-
-Revision 1.38 2009/09/12 16:31:10 revo
-Paul Peeraerts: +nl
-
-Revision 1.37 2009/09/05 16:31:27 revo
-Antonio Codazzi: +trd it ++trd la (veruk~o)
-
-Revision 1.36 2007/07/04 16:30:46 revo
 -->
 </vortaro>

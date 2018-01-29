@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: agord.xml,v 1.34 2017/01/30 15:10:18 revo Exp $">
+<art mrk="$Id: agord.xml,v 1.35 2017/06/02 22:10:27 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>agord</rad>/i <fnt><bib>PV</bib></fnt>
@@ -452,7 +452,7 @@ ref="http://www.nabble.com/Agordo-de-Esperanto-sur-Debiano-aux-Ubunto:-cxu-facil
     <trdgrp lng="en">
       <trd>setup program</trd>,
       <trd>customization facility</trd>,
-      <trd>wizard (in MS Windows applications)</trd>
+      <trd>wizard (in applications)</trd>
     </trdgrp>
     <trdgrp lng="es">
       <trd>instalador</trd>,
@@ -554,6 +554,9 @@ ref="http://www.nabble.com/Agordo-de-Esperanto-sur-Debiano-aux-Ubunto:-cxu-facil
 <!--
 
 $Log: agord.xml,v $
+Revision 1.35  2017/06/02 22:10:27  revo
+Robin van der Vliet: ne nur por Windows
+
 Revision 1.34  2017/01/30 15:10:18  revo
 Lyubomir Vasilev: +trd bg
 
@@ -573,9 +576,6 @@ Revision 1.29  2014/11/06 10:10:15  revo
 Guillermo Molleda Jimena: trd es
 
 Revision 1.28  2010/05/26 17:01:38  revo
-Antonio Codazzi: ++trd it
-
-Revision 1.27  2007/12/20 17:30:31  revo
 -->
 
 </vortaro>

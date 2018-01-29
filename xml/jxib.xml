@@ -2,18 +2,17 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jxib.xml,v 1.20 2011/09/11 17:10:10 revo Exp $">
+<art mrk="$Id: jxib.xml,v 1.21 2017/08/08 13:10:14 revo Exp $">
 <kap>
   <rad>&jcirc;ib</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="jxib.0o">
   <kap><tld/>o</kap>
-  <snc mrk="jxib.0o.MAR">
-    <uzo tip="fak">MAR</uzo>
+  <snc mrk="jxib.0o.SHI">
+    <uzo tip="fak">SHI</uzo>
     <dif>
       Triangula velo, kiu trovi&gcirc;as sur la anta&ubreve;a parto
       de &scirc;ipo kaj fiksi&gcirc;as inter la
-      <!-- <ref tip="vid" cel="buspri.0o">busprito</ref> -->
       <ref tip="vid" cel="pru.0o">pruo</ref>
       kaj la 
       <ref tip="vid" cel="mast.front0o">anta&ubreve;masto</ref>:
@@ -48,6 +47,9 @@
 </art>
 <!--
 $Log: jxib.xml,v $
+Revision 1.21  2017/08/08 13:10:14  revo
+Jeromo Vasxe: forma modifo por regeneri la (nevideblan) art
+
 Revision 1.20  2011/09/11 17:10:10  revo
 Jeromo Vasxe: + ekz
 
@@ -67,8 +69,5 @@ Revision 1.15  2006/05/27 18:01:08  revo
 Yury Finkel: kor dif, ref
 
 Revision 1.14  2006/05/15 16:32:26  revo
-Yury Finkel: ref
-
-Revision 1.13  2006/05/14 16:55:33  revo
 -->
 </vortaro>

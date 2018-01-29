@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: sci.xml,v 1.35 2017/02/27 08:10:10 revo Exp $">
+<art mrk="$Id: sci.xml,v 1.36 2017/12/20 16:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sci</rad>/i <fnt><bib>PV</bib></fnt>
@@ -308,7 +308,9 @@
 </drv>
 
 <drv mrk="sci.0igi">
-  <kap><ofc>*</ofc><tld/>igi</kap>
+  <kap><ofc>*</ofc><tld/>igi <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5191">sci'ig'</url></lok></fnt></kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="sci.0igi.KOMUNE">
     <dif>
@@ -449,7 +451,9 @@
 </drv>
 
 <drv mrk="sci.0igxi">
-  <kap><tld/>i&gcirc;i</kap>
+  <kap><ofc>*</ofc><tld/>i&gcirc;i <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5267">sci'i&gcirc;'</url></lok></fnt></kap>
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="sci.0igxi.KOMUNE">
     <dif>
@@ -879,6 +883,9 @@
 </art>
 <!--
 $Log: sci.xml,v $
+Revision 1.36  2017/12/20 16:10:21  revo
+Michel Cantigneaux: "sci/igx/i" fundamenta kunmetajxo el la U.V. + UV+ligilo por "sci/ig/i"
+
 Revision 1.35  2017/02/27 08:10:10  revo
 Lyubomir Vasilev: +trd bg
 
@@ -898,8 +905,5 @@ Revision 1.30  2015/01/17 07:10:16  revo
 Alain Gerard: +fnt +trd (fr)
 
 Revision 1.29  2014/12/16 11:10:20  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.28  2012/10/23 00:13:39  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: salut.xml,v 1.35 2016/08/23 19:10:15 revo Exp $">
+<art mrk="$Id: salut.xml,v 1.36 2017/07/22 00:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>salut</rad>/i <fnt><bib>PV</bib></fnt>
@@ -307,6 +307,29 @@
   <trd lng="sv">logga in</trd>
 </drv>
 
+<drv mrk="salut.inter0i">
+  <kap>inter<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="salut.inter0i.MOR">
+    <dif>
+      <tld lit="S"/>i unu la alian:
+      <ekz>
+        en kunvenejo a&ubreve; teatro kie ne decas interparolo,
+        oni inter<tld/>as per kapbalanco kaj rideto
+        <fnt>
+          <aut>Pang Naiying</aut>,
+          <vrk><url
+          ref="http://esperanto.china.org.cn/EL/EL/ElPopolaCxinio/9908/bd99-8-24.html">
+          Kiamaniere &ccirc;inoj intersalutas &ccirc;e
+          renkonti&gcirc;o?</url></vrk>,
+          <lok>El Popola &Ccirc;inio, 1999-08</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">se <ind>saluer</ind></trd>
+</drv>
+
 <drv mrk="salut.kap0o">
   <kap>kap<tld/>o</kap>
   <snc mrk="salut.kap0o.MOR">
@@ -406,6 +429,9 @@
 </art>
 <!--
 $Log: salut.xml,v $
+Revision 1.36  2017/07/22 00:10:13  revo
+Jeromo Vasxe: + inter~i
+
 Revision 1.35  2016/08/23 19:10:15  revo
 Carlos Garcia: +trd es -i -inda kap-o klin-o
 
@@ -425,8 +451,5 @@ Revision 1.30  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.29  2015/06/29 16:33:23  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.28  2015/04/11 19:10:15  revo
 -->
 </vortaro>

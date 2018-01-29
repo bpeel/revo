@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: scienc.xml,v 1.35 2016/11/22 23:10:25 revo Exp $">
+<art mrk="$Id: scienc.xml,v 1.36 2017/11/06 06:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>scienc</rad>/o <fnt><bib>PV</bib></fnt>
@@ -126,6 +126,13 @@
     <dif>
       Esploranto pri fenomenoj de iu fako, pri ties devenoj, evoluoj kaj
       klarigoj:
+      <ekz>
+       la fondintoj kunvokis al Parizo komitaton de <tld/>uloj
+       diverslandaj
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
       <ekz>
         apogis lin <klr>...</klr> hungaraj aktoroj, sportistoj kaj
         <tld/>uloj
@@ -303,6 +310,9 @@
 </art>
 <!--
 $Log: scienc.xml,v $
+Revision 1.36  2017/11/06 06:10:13  revo
+Andrew Sly: + ekz
+
 Revision 1.35  2016/11/22 23:10:25  revo
 Robin van der Vliet: +trd
 
@@ -322,8 +332,5 @@ Revision 1.30  2013/02/01 15:10:12  revo
 Dmitri Gabinski: redakto: +trd be, kk, ru
 
 Revision 1.29  2012/01/05 15:10:23  revo
-Marc Rausell: +trd ca
-
-Revision 1.28  2011/04/11 12:10:10  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kompak.xml,v 1.32 2015/07/04 08:37:37 revo Exp $">
+<art mrk="$Id: kompak.xml,v 1.33 2017/04/10 11:10:19 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>kompakt</rad>/a <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -44,10 +44,6 @@
         </fnt>.
       </ekz>
     </dif>
-    <adm>
-      La termino "teksturo" aperanta en ekz ne ekzistas en REVO.
-      <aut>MB</aut>
-    </adm>
     <trdgrp lng="de">
       <trd>festgef&uuml;gt</trd>,
       <trd>dicht</trd>,
@@ -163,8 +159,8 @@
     </dif>
   </snc>
   <trdgrp lng="cs">
-    <trd>nekompaktní</trd>,
-    <trd>nesoudržný</trd>
+    <trd>nekompaktn&iacute;</trd>,
+    <trd>nesoudr&zcaron;n&yacute;</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>diffus</trd>,
@@ -172,7 +168,7 @@
     <trd>l&acirc;che<klr tip="ind"> (pas compact)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_y;&c_h;&c_l;&c_y;&c_j;</trd>
-  <trd lng="sk">nesúdržný</trd>
+  <trd lng="sk">nes&uacute;dr&zcaron;n&yacute;</trd>
 </drv>
 
 <drv mrk="kompak.kvazaux0a">
@@ -228,6 +224,9 @@
 </art>
 <!--
 $Log: kompak.xml,v $
+Revision 1.33  2017/04/10 11:10:19  revo
+Ludoviko Francisco: ~a1: -adm
+
 Revision 1.32  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -247,14 +246,5 @@ Revision 1.27  2007/01/06 17:30:19  revo
 Tulio Flores: +tr pt
 
 Revision 1.26  2005/02/07 17:31:28  revo
-Vito Redsky: +trd pl kompakta histo
-
-Revision 1.25  2005/01/09 17:32:23  revo
-Marc Bavant: +trd fr; ~a1: +adm
-
-Revision 1.24 2003/10/05 18:52:52 revo
-Sergio Pokrovskij: dif, ekz, rim
-Revision 1.23 2003/07/16 17:50:35 revo
-Sergio Pokrovskij: snc-mrk
 -->
 </vortaro>

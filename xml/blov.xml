@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: blov.xml,v 1.28 2016/03/26 23:10:41 revo Exp $">
+<art mrk="$Id: blov.xml,v 1.30 2017/12/20 23:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>blov</rad>/i <fnt><bib>PV</bib></fnt>
@@ -134,6 +134,7 @@
     <trd>dmuchni&eogonek;cie</trd>,
     <trd>tchnienie</trd>
   </trdgrp>
+  <trd lng="ro">sufla</trd>
   <trd lng="ru">&c_d;&c_u;&c_n;&c_o;&c_v;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="sk">z&aacute;van</trd>
 </drv>
@@ -339,6 +340,43 @@
     <trd>se <ind>dissiper</ind></trd>,
     <trd>s'<ind>&eacute;vanouir</ind><klr> (disparaitre)</klr></trd>
   </trdgrp>
+</drv>
+
+<drv mrk="blov.en0i">
+  <kap>en<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="blov.en0i.KOMUNE">
+    <dif>
+      <tld lit="B"/>i al la interno de...:
+      <ekz>
+        en<tld/>is vento tiel glacia, ke &scirc;ajnis, ke &gcirc;i venas 
+        rekte de la suda poluso
+        <fnt>
+          <aut>C. Gates</aut>,
+          <vrk>La Vidvino kaj la Profesoro</vrk>,
+          <lok>1997</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="blov.en0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Inspiri, sugeste komuniki:
+      <ekz>
+        tra pluraj generacioj, vjetnamaj artistoj scipovis en<tld/>i 
+        novan spiriton per elpensado de novaj teknikoj
+        <fnt>
+          <aut>Nguyen Xuan Thu</aut>,
+          <vrk><url
+          ref="http://www.ipernity.com/blog/xuanautuno32/427884">
+          La vjetnama tradicia silko-pentrarto</url></vrk>,
+          <lok>Ipernity, 2012-11-08</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">insuffler</trd>
 </drv>
 
 <drv mrk="blov.for0i">
@@ -558,7 +596,15 @@
     <dif>
       Estingi <tld/>ante:
       <ekz>
-        <tld/>estingi kandelon.
+        mi rajtis <tld/>estingi la lanternon, per kiu li
+        lumigis sian vojon al ni, kaj li montrigis al si
+        miajn luda&jcirc;ojn kaj dancis francan dancon kun mia
+        favorata pupo
+        <fnt>
+          <aut>T. Mann, trad. K. Schulze</aut>
+          <vrk>Lotte en Weimar</vrk>
+          <lok>2005</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -587,6 +633,12 @@
 </art>
 <!--
 $Log: blov.xml,v $
+Revision 1.30  2017/12/20 23:10:24  revo
+Vito Redsky: +trd ro
+
+Revision 1.29  2017/08/02 10:10:13  revo
+Jeromo Vasxe: + en-i, -estingi + ekz
+
 Revision 1.28  2016/03/26 23:10:41  revo
 Jeromo Vasxe: + dis~igxi
 
@@ -603,12 +655,6 @@ Revision 1.24  2009/03/18 17:32:08  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.23  2005/06/27 19:22:00  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.22  2005/05/27 16:31:16  revo
-Yury Finkel: +trd ru
-
-Revision 1.21  2005/03/19 17:32:23  revo
 -->
 
 </vortaro>

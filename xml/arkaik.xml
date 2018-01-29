@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arkaik.xml,v 1.24 2016/07/31 16:45:43 revo Exp $">
+<art mrk="$Id: arkaik.xml,v 1.25 2017/11/20 14:10:18 revo Exp $">
 <kap><ofc>3</ofc>
 <rad>arkaik</rad>/a</kap>
 <drv mrk="arkaik.0a">
@@ -69,10 +69,14 @@
     </dif>
   </snc>
   <trd lng="fr">antiquit&eacute;</trd>
+  <trd lng="pl">archaizm</trd>
 </drv>
 </art>
 <!--
 $Log: arkaik.xml,v $
+Revision 1.25  2017/11/20 14:10:18  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.24  2016/07/31 16:45:43  revo
 korektis mrk
 
@@ -92,11 +96,5 @@ Revision 1.19  2012/07/15 11:10:11  revo
 Marc Rausell: + trd ca
 
 Revision 1.18  2012/02/16 17:10:14  revo
-Antonio Codazzi: +trd it
-
-Revision 1.17  2006/02/21 17:33:13  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.16  2005/01/11 19:03:41  revo
 -->
 </vortaro>

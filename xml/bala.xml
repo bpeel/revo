@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: bala.xml,v 1.42 2017/02/23 14:10:22 revo Exp $">
+<art mrk="$Id: bala.xml,v 1.43 2017/09/17 22:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bala</rad>/i <fnt><bib>PV</bib></fnt>
@@ -203,6 +203,7 @@
     <trd>zmiotka</trd>
   </trdgrp>
   <trd lng="pt">vassoura</trd>
+  <trd lng="ro">m&abreve;tur&abreve;</trd>
   <trdgrp lng="ru">
     <trd>&c_m;&c_je;&c_t;&c_l;&c_a;</trd>,
     <trd>&c_v;&c_je;&c_n;&c_i;&c_k;</trd>
@@ -332,6 +333,9 @@
 </art>
 <!--
 $Log: bala.xml,v $
+Revision 1.43  2017/09/17 22:10:23  revo
+Vito Redsky: +trd ro
+
 Revision 1.42  2017/02/23 14:10:22  revo
 Lyubomir Vasilev: +trd bg
 
@@ -350,9 +354,6 @@ aldono de trd cs per skripto de M. von Laer
 
 Revision 1.37  2015/06/29 16:29:35  revo
 aldono de trd sk per skripto de M. von Laer
-
-Revision 1.36  2014/06/23 16:10:11  revo
-Eko Nur Syah Hidayat: +id
 
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxar1.xml,v 1.32 2015/07/24 12:10:16 revo Exp $">
+<art mrk="$Id: cxar1.xml,v 1.34 2017/04/11 13:10:20 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>&ccirc;ar</rad>/o <fnt><bib>PV</bib></fnt>
@@ -183,13 +183,13 @@
       Nord-hemisfera <ref tip="lst" cel="stel.0figuro"
       lst="voko:stelfiguroj">stelfiguro</ref>
       (<trd lng="la">Auriga</trd>).
-    </dif>
+    </dif><ref tip="sin" cel="kocxer.K0o">Ko&ccirc;ero</ref>
   </snc>
   <trd lng="ca">el Cotxer</trd>
   <trd lng="de">Fuhrmann</trd>
   <trd lng="en">Auriga</trd>
   <trd lng="es">Cochero</trd>
-  <trd lng="fr">Cocher<klr> (astr.)</klr></trd>
+  <trd lng="fr">Cocher<klr tip="ind"> (constellation)</klr></trd>
   <trd lng="it">Cocchiere</trd>
   <trd lng="nl">Voerman<klr tip="ind"> (sterrenbeeld)</klr></trd>
 </drv>
@@ -390,6 +390,12 @@
 </art>
 <!--
 $Log: cxar1.xml,v $
+Revision 1.34  2017/04/11 13:10:20  revo
+Ludoviko Francisco: +klr trd fr
+
+Revision 1.33  2017/04/06 14:10:14  revo
+Ludoviko Francisco: +ref kocxero
+
 Revision 1.32  2015/07/24 12:10:16  revo
 Damien Brucker: -eraro cxe ref
 
@@ -406,11 +412,5 @@ Revision 1.28  2012/01/26 12:10:10  revo
 Jeromo Vasxe: + acxet- k.a. ~etoj
 
 Revision 1.27  2011/12/12 12:10:13  revo
-Marc Rausell: +trd ca
-
-Revision 1.26  2011/01/05 12:10:10  revo
-Jeromo Vasxe: + 1 ekz
-
-Revision 1.25  2010/06/28 17:53:22  revo
 -->
 </vortaro>

@@ -2,16 +2,16 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: artisx.xml,v 1.30 2015/09/17 03:10:24 revo Exp $">
+<art mrk="$Id: artisx.xml,v 1.32 2017/12/08 23:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>arti&scirc;ok</rad>/o
+  <rad>arti&scirc;ok</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 
 <drv mrk="artisx.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <uzo tip="fak">BOT</uzo>
   <snc mrk="artisx.0o.genro">
+    <uzo tip="fak">BOT</uzo>
     <dif>
       Genro el familio <ref tip="super" cel="astera.0oj">asteracoj</ref>
       (<trd lng="la">Cynara</trd>).
@@ -19,10 +19,20 @@
     <trd lng="fr">Cynara</trd>
   </snc>
   <snc mrk="artisx.0o.specio">
+    <uzo tip="fak">KUI</uzo>
     <dif>
-      Specio de <tld/>o <sncref ref="artisx.0o.genro"/>
+      Specio de <tld/>o<sncref ref="artisx.0o.genro"/>
       (<trd lng="la">Cynara scolymus</trd>), kies kapitulo
-      estas uzata kiel legomo.
+      estas uzata kiel legomo:
+      <ekz>
+        <klr>...</klr> sed karoto, a&ubreve; rapo, a&ubreve; <tld/>o
+        estos neniam bonaj
+        <fnt>
+          <aut>N. V. Gogol, trad. N. Z. Osjmak</aut>,
+          <vrk>Skriboj de la frenezulo</vrk>,
+          <lok>La Revuo, 1910, p. 524a</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trdgrp lng="br">
       <trd>artichaodenn</trd>
@@ -46,13 +56,14 @@
   <trd lng="hu">artics&oacute;ka</trd>
   <trd lng="it">carciofo</trd>
   <trd lng="nl">artisjok</trd>
+  <trd lng="ro">anghinare</trd>
   <trd lng="ru">&c_a;&c_r;&c_t;&c_i;&c_sh;&c_o;&c_k;</trd>
 </drv>
 
 <drv mrk="artisx.hispana0o">
   <kap>hispana <tld/>o</kap>
-  <snc>
-    <ref tip="dif" cel="kardon.0o">Kardono</ref>
+  <snc mrk="artisx.hispana0o.BOT">
+    <ref tip="dif" cel="kardon.0o.BOT">kardono</ref>
   </snc>
   <trd lng="ca">card</trd>
   <trdgrp lng="de">
@@ -78,6 +89,12 @@
 </art>
 <!--
 $Log: artisx.xml,v $
+Revision 1.32  2017/12/08 23:10:19  revo
+Vito Redsky: +trd ro
+
+Revision 1.31  2017/10/16 17:10:13  revo
+Jeromo Vasxe: + ekz
+
 Revision 1.30  2015/09/17 03:10:24  revo
 Evandro Avellar: +trd pt
 
@@ -94,11 +111,5 @@ Revision 1.26  2010/10/11 16:30:26  revo
 Agustin Garcia Lopez: +trd es
 
 Revision 1.25  2009/07/03 16:31:38  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.24  2009/07/01 17:20:30  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.23  2008/01/29 17:30:53  revo
 -->
 </vortaro>

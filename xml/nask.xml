@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: nask.xml,v 1.68 2017/02/10 16:10:13 revo Exp $">
+  <art mrk="$Id: nask.xml,v 1.71 2017/12/20 02:10:11 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>nask</rad>/i <fnt><bib>PV</bib></fnt>
@@ -214,10 +214,10 @@
 </drv>
 
     <drv mrk="nask.0antino">
-      <kap><tld/>antino</kap>
+      <kap><tld/>anto, <var><kap><tld/>antino</kap></var></kap>
       <snc mrk="nask.0anto.KOMUNE">
         <dif>
-          Ino kiu naskas:
+          Ino, kiu naskas:
           <ekz>
             spasmoj kaj doloroj ilin atakas, ili sin tordas, kiel
             <ind><tld/>antino</ind>
@@ -391,7 +391,9 @@
 </drv>
 
     <drv mrk="nask.0igxi">
-      <kap><tld/>i&gcirc;i</kap>
+      <kap><ofc>*</ofc><tld/>i&gcirc;i <fnt><bib>F</bib>, <lok>Universala
+      Vortaro, <url
+      ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5117">nask'i&gcirc;'</url></lok></fnt></kap>
       <snc>
         <dif>
           Esti <tld/>ita, veni en la vivon, aperi en la mondon (p.p.
@@ -567,8 +569,7 @@
         <subsnc mrk="nask.de0ulo.ESP">
           <uzo tip="fak">ESP</uzo>
           <dif>
-            Homo, kiu lernis la Lingvon Internacian infana&gcirc;e en
-            hejma medio.
+            Homo, kiu lernis Esperanton infana&gcirc;e en hejma medio.
           </dif>
           <trd lng="de">Esperanto-Muttersprachler</trd>
           <trd lng="hu">sz&uuml;letett eszperantista</trd>
@@ -589,7 +590,9 @@
     </drv>
 
     <drv mrk="nask.du0ito">
-      <kap>du<tld/>ito</kap>
+      <kap><ofc>*</ofc>du<tld/>ito <fnt><bib>F</bib>, <lok>Universala
+      Vortaro, <url
+      ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5118">du'nask'it'</url></lok></fnt></kap>
       <snc mrk="nask.du0ito.GEN">
         <uzo tip="fak">GEN</uzo>
         <fnt><bib>PV</bib><lok>&gcirc;emelo</lok></fnt>
@@ -932,6 +935,7 @@
       </snc>
   <trd lng="cs">mrtv&ecaron; porozen&yacute;</trd>
   <trd lng="en">stillborn</trd>
+  <trd lng="fr">mort-n&eacute;</trd>
   <trd lng="ru">&c_m;&c_je;&c_r;&c_t;&c_v;&c_o;&c_r;&c_o;&c_zh;&c_d;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">m&racute;tvo naroden&yacute;</trd>
 </drv>
@@ -952,6 +956,15 @@
   </art>
   <!--
   $Log: nask.xml,v $
+  Revision 1.71  2017/12/20 02:10:11  revo
+  Michel Cantigneaux: "nask/igx/i" & "du/nask/it/o" fundamentaj kunmetajxoj el la U.V.
+
+  Revision 1.70  2017/07/04 16:10:23  revo
+  Robin van der Vliet: vortumo
+
+  Revision 1.69  2017/04/05 08:10:14  revo
+  Ludoviko Francisco: +trd fr
+
   Revision 1.68  2017/02/10 16:10:13  revo
   Jeromo Vasxe: kontrauxdundamenta -> kontrauxfundamenta
 

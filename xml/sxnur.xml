@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxnur.xml,v 1.31 2013/12/06 02:10:13 revo Exp $">
+<art mrk="$Id: sxnur.xml,v 1.32 2017/12/30 10:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;nur</rad>/o <fnt><bib>PV</bib></fnt>
@@ -113,6 +113,7 @@ a&ubreve;
     <trd>&c_sh;&c_n;&c_u;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_sh;&c_n;&c_u;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="en">tie</trd>
   <trd lng="es">atar con cuerda</trd>
   <trdgrp lng="fr">
     <trd>attacher par une corde</trd>,
@@ -157,6 +158,11 @@ objektojn:
     <trd>Seil</trd>,
     <trd>Tau</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>painter</trd>,
+    <trd>hawser</trd>,
+    <trd>cable</trd>
+  </trdgrp>
   <trd lng="es">maroma</trd>
   <trdgrp lng="fr">
     <trd>c&acirc;ble<klr tip="ind"> (faisceau de fils)</klr></trd>,
@@ -183,6 +189,7 @@ objektojn:
       kunligitaj per sekur&scirc;nuro.
     </dif>
   </snc>
+  <trd lng="en">climb leader</trd>
   <trd lng="it">capocordata</trd>
 </drv>
 
@@ -218,6 +225,9 @@ objektojn:
 </art>
 <!--
 $Log: sxnur.xml,v $
+Revision 1.32  2017/12/30 10:10:13  revo
+Erik Pedersen: Aldonis anglajn vortojn
+
 Revision 1.31  2013/12/06 02:10:13  revo
 Agustin Garcia Lopez: +trd(es)
 
@@ -237,8 +247,5 @@ Revision 1.26  2006/10/04 16:30:27  revo
 Axel Rousseau: +trd tp
 
 Revision 1.25  2005/06/17 17:21:01  revo
-Yury Finkel: +trd ru
-
-Revision 1.24  2004/11/01 17:31:47  revo
 -->
 </vortaro>

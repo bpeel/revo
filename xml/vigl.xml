@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vigl.xml,v 1.23 2017/01/28 12:10:29 revo Exp $">
+<art mrk="$Id: vigl.xml,v 1.24 2017/04/13 06:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vigl</rad>/a <fnt><bib>PV</bib></fnt>
@@ -279,7 +279,7 @@
   </snc>
   <trdgrp lng="fr">
     <trd>&eacute;nergisant</trd>,
-    <trd>tonique</trd>
+    <trd>tonique<klr tip="ind"> (&eacute;nergisant)</klr></trd>
   </trdgrp>
 </drv>
 
@@ -571,6 +571,9 @@
 </art>
 <!--
 $Log: vigl.xml,v $
+Revision 1.24  2017/04/13 06:10:14  revo
+Ludoviko Francisco: +ind klr trd fr
+
 Revision 1.23  2017/01/28 12:10:29  revo
 Adam Eng: + trd
 
@@ -590,8 +593,5 @@ Revision 1.18  2006/09/05 15:23:34  revo
 Jeromo Vasxe: + mrk
 
 Revision 1.17  2005/04/24 16:33:04  revo
-Yury Finkel: +trd ru
-
-Revision 1.16  2005/02/03 17:32:44  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trans.xml,v 1.24 2017/01/29 12:10:13 revo Exp $">
+<art mrk="$Id: trans.xml,v 1.26 2017/12/10 14:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>trans</rad> <fnt><bib>PV</bib></fnt>
@@ -12,9 +12,8 @@
     <kap><ofc>*</ofc><tld/></kap>
     <snc mrk="trans.0.loko">
       <dif>
-        Prepozicio montranta
-        lokon ku&scirc;antan sur la alia, pli malproksima flanko
-        de la objekto, kiun la prepozicio enkondukas:
+        Prepozicio montranta lokon ku&scirc;antan sur la alia, pli malproksima
+        flanko de la objekto, kiun la prepozicio enkondukas:
         <ekz>
           <tld/> la rivero sin trovis aliaj hirundoj
           <fnt><bib>F</bib><lok>&FE; 22</lok></fnt>;
@@ -43,10 +42,13 @@
         <em>trans</em>, ke oni pasis sur a&ubreve; super &gcirc;i.
       </rim>
       <rim>
-        Pri uzo de <em><tld/></em> kun akuzativo,
-        vd <ref cel="trans.al0">al <tld/>, <tld/> ...-n</ref>.
+        Pri uzo de <em><tld/></em> kun akuzativo, vidu <ref
+        cel="trans.al0">al <tld/>, <tld/> ...-n</ref>.
       </rim>
-      <trd lng="ms">melintasi</trd>
+      <trdgrp lng="es">
+        <trd>al otro lado de</trd>,
+        <trd>m&aacute;s all&aacute; de</trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>au-del&agrave; de</trd>,
         <trd>de l'autre c&ocirc;t&eacute; de</trd>
@@ -55,6 +57,8 @@
         <trd>t&uacute;l</trd>,
         <trd>m&ouml;g&ouml;tt</trd>
       </trdgrp>
+      <trd lng="io">trans</trd>
+      <trd lng="ms">melintasi</trd>
       <trdgrp lng="pt">
         <trd>al&eacute;m de</trd>,
         <trd>do outro lado de</trd>
@@ -94,6 +98,7 @@
         tiom zorge distingas per uzo de deviga akuzativo la sencon
         &leftquot;celo&rightquot; disde la senco &leftquot;loko&rightquot;.
       </rim>
+      <trd lng="es">a trav&eacute;s de</trd>
       <trdgrp lng="hu">
         <trd>&aacute;t</trd>,
         <trd>kereszt&uuml;l</trd>
@@ -108,6 +113,7 @@
         tiu stelo tre luma, en sia kurado <tld/> arka&jcirc;o
         la &ccirc;iela<fnt>Z</fnt>.
       </ekz>
+      <trd lng="es">a trav&eacute;s de</trd>
     </snc>
   <trdgrp lng="cs">
     <trd>p&rcaron;es</trd>,
@@ -153,6 +159,7 @@
         <ref cel="cxe.al0.kunajxo_kun_al">al &ccirc;e</ref>.
       </rim>
     </snc>
+    <trd lng="es">hacia m&aacute;s all&aacute; de</trd>
     <trd lng="fr">au-del&agrave; de</trd>
     <trdgrp lng="hu">
       <trd>t&uacute;lra</trd>,
@@ -183,6 +190,10 @@
         </ekz>
       </dif>
     </snc>
+    <trdgrp lng="es">
+      <trd>desde m&aacute;s all&aacute; de</trd>,
+      <trd>allende</trd>
+    </trdgrp>
     <trd lng="fr">d'au-del&agrave; de</trd>
     <trdgrp lng="hu">
       <trd>t&uacute;lr&oacute;l</trd>,
@@ -208,6 +219,7 @@
         <fnt><bib>NT</bib><lok>&Mat; 4:25</lok></fnt>.
       </ekz>
     </snc>
+    <trd lng="es">de m&aacute;s all&aacute; de</trd>
     <trd lng="fr">d'au-del&agrave; de</trd>
     <trdgrp lng="hu">
       <trd>t&uacute;lr&oacute;l</trd>,
@@ -240,6 +252,7 @@
   </trdgrp>
   <trd lng="de">&uuml;ber</trd>
   <trd lng="en">across</trd>
+  <trd lng="es">de m&aacute;s all&aacute;<klr> (adj.)</klr></trd>
   <trd lng="fr">au-del&agrave;<klr> (adj.)</klr></trd>
   <trdgrp lng="hu">
       <trd>t&uacute;loldali</trd>,
@@ -267,6 +280,7 @@
       </dif>
     </snc>
   <trd lng="cs">nap&rcaron;&iacute;&ccaron;</trd>
+  <trd lng="es">en el otro lado</trd>
   <trdgrp lng="hu">
       <trd>t&uacute;loldalt</trd>,
       <trd>oda&aacute;t</trd>,
@@ -294,10 +308,14 @@
     <trd>v&ecaron;c jdouc&iacute; p&rcaron;es</trd>,
     <trd>v&ecaron;c na druh&eacute; stran&ecaron;</trd>
   </trdgrp>
+  <trdgrp lng="es">
+      <trd>otro lado</trd>,
+      <trd>lado opuesto</trd>
+  </trdgrp>
   <trdgrp lng="hu">
       <trd>t&uacute;loldal</trd>,
       <trd>oda&aacute;t <klr tip="ind">(f&odblac;n&eacute;v)</klr></trd>
-    </trdgrp>
+  </trdgrp>
   <trd lng="ru">&c_t;&c_a; &c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_a;</trd>
   <trdgrp lng="sk">
     <trd>miesto na druhej strane</trd>,
@@ -310,6 +328,10 @@
       <dif>
         Porti <tld/>en, meti <tld/>en, <tld/>doni.
       </dif>
+      <trdgrp lng="es">
+        <trd>transferir</trd>,
+        <trd>transmitir</trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>passer par-dessus</trd>,
         <trd>transmettre</trd>
@@ -360,6 +382,10 @@
       <dif>
         Rel&scirc;an&gcirc;ilo.
       </dif>
+      <trdgrp lng="es">
+        <trd>cambio de agujas<klr> (de v&iacute;as de tren)</klr></trd>,
+        <trd>desv&iacute;o<klr> (de v&iacute;as de tren)</klr></trd>
+      </trdgrp>
       <trd lng="fr">aiguillage</trd>
       <trd lng="hu">v&aacute;lt&oacute; <klr tip="amb">(vas&uacute;ti)</klr></trd>
       <trd lng="nl">wissel</trd>
@@ -387,6 +413,11 @@
         </ekz>
       </dif>
     </snc>
+    <trd lng="en">cross</trd>
+    <trdgrp lng="es">
+      <trd>cruzar por s&iacute; mismo</trd>,
+      <trd>cruzar</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>&aacute;tjut</trd>,
       <trd>&aacute;ttev&odblac;dik</trd>,
@@ -405,12 +436,55 @@
       <dif>
         Tiu, kiu lo&gcirc;as <tld/>e.
       </dif>
+      <trd lng="es">vecino</trd>
+      <trdgrp lng="hu">
+        <trd>t&uacute;loldalt lak&oacute;</trd>,
+        <trd>t&uacute;lparti</trd>
+      </trdgrp>
+      <trd lng="nl">overbuur</trd>
     </snc>
-    <trdgrp lng="hu">
-      <trd>t&uacute;loldalt lak&oacute;</trd>,
-      <trd>t&uacute;lparti</trd>
-    </trdgrp>
-    <trd lng="nl">overbuur</trd>
+    <snc>
+      <ref tip="dif" cel="genr.trans0ulo">transgenrulo</ref>
+      <ekz>
+        enketoj montris, ke proksimume la duono de <tld/>uloj ka&scirc;as sian
+        genran identecon en laborejo pro timo, ke ili perdos sian
+        laboron
+        <fnt>
+          <aut>Johan Derks</aut>,
+          <vrk><url
+          ref="http://www.elerno.cn/elibro/Kroniko%20de%20Balkanio.pdf">Kroniko
+          de Balkanio</url></vrk>,
+          <lok>Klaraj le&gcirc;oj necesas por protekti transulojn de
+          diskriminacio kaj malamo, Strasburgo, 2011-07-26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pri &ccirc;i tiuj difinoj ne &ccirc;iuj <tld/>uloj interkonsentas, tamen mi
+        prezentis la plej akceptatan difinon
+        <fnt>
+          <aut>Rolando Bonkorpa</aut>,
+          <vrk>Pluraneco</vrk>,
+          <lok>Beletra Almanako 21, 2014-11-20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi &gcirc;ojus se iu <tld/>ulo, kiu spektis la epizodon, volus aldoni
+        ankau siajn komentojn sube
+        <fnt>
+          <vrk>Grey&#8217;s Anatomy: &ccirc;u egaleca televidserio?</vrk>,
+          <lok><url
+          ref="https://egalecen.org/2015/10/19/greys-anatomy-cu-egaleca-televidserio/">Egalecen</url>,
+          2015-10-19</lok>
+        </fnt>.
+      </ekz>
+      <trdgrp lng="en">
+        <trd>trans person</trd>,
+        <trd>transgender person</trd>
+      </trdgrp>
+      <trd lng="fi">transihminen</trd>
+      <trd lng="nl">transgender persoon</trd>
+      <trd lng="sv">transperson</trd>
+    </snc>
   </drv>
   <drv mrk="trans.nervo0igilo">
     <kap>nervo<tld/>igilo</kap>
@@ -418,26 +492,31 @@
       <uzo tip="fak">FIZL</uzo>
       <dif>
         &Ccirc;iu el la substancoj, kiuj portas <ref tip="vid"
-        cel="impuls.nerv0o.FIZL">nervimpulson</ref> inter
-        ne&ubreve;ronoj a&ubreve; de ne&ubreve;ronoj al organoj.
+        cel="impuls.nerv0o.FIZL">nervimpulson</ref> inter <ref tip="vid"
+        cel="neuxron.0o.FIZL">ne&ubreve;ronoj</ref> a&ubreve; de ne&ubreve;ronoj al organoj.
       </dif>
       <ref tip="sin" cel="neuxrotransmisi.0ilo">ne&ubreve;rotransmisiilo</ref>
       <rim>
-        &Ccirc;i tiu formo, kvankam apena&ubreve; uzata, &scirc;ajnas tamen preferinda
-        al &leftquot;ne&ubreve;rotransmisiilo&rightquot; pro multaj kialoj:
-        (1) &gcirc;ia
-        simileco kun la solvoj troveblaj en tiuj aliaj lingvoj,
-        kiuj ne povas kontenti&gcirc;i
-        per simpla transpreno de la &leftquot;internacia&rightquot; vorto (ekz-e:
-        &leftquot;nerva transportanto&rightquot; en la araba);
-        (2) pro la dubinda valoro de la scienca prefikso
-        &leftquot;ne&ubreve;ro-&rightquot;;
-        (3) pro la neta&ubreve;gaj signifoj de radiko &leftquot;transmisi-&rightquot;
-        en Esperanto, rilatantaj &ccirc;efe kun me&hcirc;aniko kaj medicino.
+        &Ccirc;i tiu formo, kvankam apena&ubreve; uzata, &scirc;ajnas tamen preferinda al
+        &leftquot;ne&ubreve;rotransmisiilo&rightquot; pro multaj kialoj:
+        (1) &gcirc;ia simileco kun la solvoj troveblaj en tiuj aliaj lingvoj,
+        kiuj ne povas kontenti&gcirc;i per simpla transpreno de la
+        &leftquot;internacia&rightquot; vorto (ekz-e: &leftquot;nerva transportanto&rightquot; en la araba);
+        (2) pro la dubinda valoro de la scienca prefikso &leftquot;ne&ubreve;ro-&rightquot;;
+        (3) pro la neta&ubreve;gaj signifoj de radiko &leftquot;transmisi-&rightquot; en
+        Esperanto, rilatantaj &ccirc;efe kun me&hcirc;aniko kaj medicino.
       </rim>
     </snc>
+    <trd lng="af">senuoordraer</trd>
+    <trd lng="ca">neurotransmissor</trd>
+    <trd lng="en">neurotransmitter</trd>
+    <trd lng="es">neurotransmisor</trd>
     <trd lng="fr">neurotransmetteur</trd>
+    <trd lng="hu">neurotranszmitter</trd>
     <trd lng="it">neurotrasmettitore</trd>
+    <trd lng="nl">neurotransmitter</trd>
+    <trd lng="pt">neurotransmissor</trd>
+    <trd lng="tr">n&ouml;rotransmitter</trd>
   </drv>
 </subart>
 
@@ -450,20 +529,29 @@
         Irante <tld/>en:
         <ekz>
           <ind><tld/>iri</ind>;
+          <trd lng="es">cruzar</trd>
           <trd lng="hu">&aacute;tmegy <klr tip="ind">(vhova)</klr></trd>
           <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_j;&c_t;&c_i;</trd>
         </ekz>
         <ekz>
           <ind><tld/>&jcirc;eti</ind>;
+          <trd lng="es">lanzar</trd>
           <trd lng="hu">&aacute;tdob</trd>
           <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_b;&c_r;&c_o;&c_s;&c_i;&c_t;&c_mol;</trd>
         </ekz>
         <ekz>
           <ind><tld/>kapi&gcirc;i</ind>;
+          <trd lng="es">dar volteretas</trd>
           <trd lng="hu">bukfencezik</trd>
         </ekz>
         <ekz>
           <ind><tld/>pasi</ind>;
+          <trdgrp lng="es">
+            <trd>pasar</trd>,
+            <trd>franquear</trd>,
+            <trd>traspasar</trd>
+            <trd>sobrepasar</trd>
+          </trdgrp>
           <trdgrp lng="hu">
             <trd>&aacute;tkel</trd>,
             <trd>&aacute;tmegy</trd>,
@@ -474,12 +562,21 @@
         </ekz>
         <ekz>
           <ind><tld/>salti</ind>;
+          <trdgrp lng="es">
+            <trd>saltar por encima de</trd>,
+            <trd>saltarse</trd>
+          </trdgrp>
           <trd lng="hu">&aacute;tugrik</trd>
           <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_p;&c_r;&c_y;&c_g;&c_n;&c_u;&c_t;&c_mol;</trd>
         </ekz>
         <ekz>
           <ind><tld/>porti</ind>
           la se&gcirc;on de tie &ccirc;i sur alian lokon<fnt>Z</fnt>;
+          <trdgrp lng="es">
+            <trd>llevar</trd>,
+            <trd>portear</trd>,
+            <trd>transportar</trd>
+          </trdgrp>
           <trdgrp lng="hu">
             <trd>&aacute;tvisz</trd>,
             <trd>sz&aacute;ll&iacute;t</trd>
@@ -495,12 +592,14 @@
           <ind><tld/>atendi</ind>
           <klr>(atendi &gcirc;is la fino de)</klr> la malbonan
           veteron<fnt>Z</fnt>;
+          <trd lng="es">esperar <klr>(hasta el fin de)</klr></trd>
           <trd lng="hu">megv&aacute;r <klr tip="ind">(vmi v&eacute;g&eacute;t)</klr></trd>
           <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>
         </ekz>
         <ekz>
           <uzo tip="stl">FIG</uzo>
           <ind><tld/>vivi</ind> grandan doloron;
+          <trd lng="es">sobrevivir</trd>
           <trd lng="hu">t&uacute;l&eacute;l</trd>
           <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_zh;&c_i;&c_t;&c_mol;</trd>
         </ekz>
@@ -514,6 +613,7 @@
         &Scirc;an&gcirc;ante lokon a&ubreve; staton:
         <ekz>
           <ind><tld/>planti</ind>,
+          <trd lng="es">trasplantar</trd>
           <trdgrp lng="hu">
             <trd>&aacute;t&uuml;ltet</trd>,
             <trd>&aacute;tpl&aacute;nt&aacute;l</trd>
@@ -525,6 +625,13 @@
         </ekz>
         <ekz>
           <ind><tld/>ver&scirc;i</ind>,
+          <trdgrp lng="es">
+            <trd>trasvasar</trd>,
+            <trd>transfundir</trd>,
+            <trd>trasegar</trd>,
+            <trd>embrocar</trd>,
+            <trd>extravasar</trd>
+          </trdgrp>
           <trdgrp lng="hu">
             <trd>&aacute;tt&ouml;lt</trd>,
             <trd>&aacute;t&ouml;nt</trd>
@@ -534,6 +641,7 @@
         </ekz>
         <ekz>
           <ind><tld/>loki</ind>,
+          <trd lng="es">mudar</trd>
           <trdgrp lng="hu">
             <trd>&aacute;thelyez</trd>,
             <trd>&aacute;ttesz</trd>
@@ -542,6 +650,7 @@
         </ekz>
         <ekz>
           <ind><tld/>skribi</ind> <klr>(kopii)</klr>;
+          <trd lng="es">transcribir</trd>
           <trdgrp lng="hu">
             <trd>&aacute;t&iacute;r</trd>,
             <trd>&aacute;tm&aacute;sol</trd>,
@@ -554,11 +663,16 @@
         <ekz>
           oni <ind><tld/>diri</ind>s al li la vortojn de
           la lo&gcirc;antoj<fnt>Z</fnt>;
+          <trd lng="es">comunicar</trd>
           <trd lng="hu">k&ouml;z&ouml;l</trd>
           <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_s;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;</trd>
         </ekz>
         <ekz>
           mi <ind><tld/>doni</ind>s ilin en viajn manojn<fnt>Z</fnt>;
+          <trdgrp lng="es">
+            <trd>transferir</trd>,
+            <trd>traspasar</trd>
+          </trdgrp>
           <trdgrp lng="hu">
             <trd>&aacute;tad</trd>,
             <trd>&aacute;tny&uacute;jt</trd>
@@ -568,6 +682,9 @@
         <ekz>
           <ind><tld/>formi</ind> <klr>(doni alian formon al)</klr>
           dezerton en kulturejon;
+          <trdgrp lng="es">
+            <trd>transformar</trd>
+          </trdgrp>
           <trdgrp lng="hu">
             <trd>&aacute;talak&iacute;t</trd>,
             <trd>transzform&aacute;l</trd>
@@ -587,6 +704,7 @@
             <ref cel="form.ali0i">aliformigi</ref>,
             <ref cel="metamo1.0i">metamorfozi</ref>
           </refgrp>);
+          <trd lng="es">transformarse</trd>
           <trd lng="hu">&aacute;talakul</trd>
           <trdgrp lng="ru">
             <trd>&c_p;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
@@ -597,6 +715,10 @@
         <ekz>
           <ind><tld/>kurinto</ind> (<ref tip="sin"
           cel="perfid">perfidinto</ref>);
+          <trdgrp lng="es">
+            <trd>desertor</trd>,
+            <trd>tr&aacute;nsfuga</trd>
+          </trdgrp>
           <trdgrp lng="hu">
             <trd>sz&ouml;kev&eacute;ny</trd>,
             <trd>&aacute;rul&oacute;</trd>
@@ -617,6 +739,7 @@
         Trovi&gcirc;ante <tld/>e de io:
         <ekz>
           &ccirc;io <ind><tld/>mara</ind> estas &ccirc;arma kaj kara<fnt>Z</fnt>;
+          <trd lng="es">extranjero</trd>
           <trd lng="hu">tengerent&uacute;li</trd>
           <trd lng="ru">&c_z;&c_a;&c_m;&c_o;&c_r;&c_s;&c_k;&c_i;&c_j;</trd>
         </ekz>
@@ -628,11 +751,18 @@
       <trd lng="hu">t&uacute;l-</trd>
     </snc>
   </drv>
+  <trd lng="es">trans-</trd>
   <trd lng="fr">trans-</trd>
 </subart>
 </art>
 <!--
 $Log: trans.xml,v $
+Revision 1.26  2017/12/10 14:10:14  revo
+Robin van der Vliet: +transulo, +trd
+
+Revision 1.25  2017/11/14 17:10:16  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.24  2017/01/29 12:10:13  revo
 Adam Eng: +trd ms
 
@@ -649,11 +779,5 @@ Revision 1.20  2012/04/16 15:10:08  revo
 Jeromo Vasxe: + kap por pref. + mrk por gxiaj snc
 
 Revision 1.19  2010/05/02 16:31:18  revo
-Jeromo Vasxe: + kk mrk + kk trd fr
-
-Revision 1.18  2008/11/07 17:30:40  revo
-Marc Bavant: +drv nervo~igilo
-
-Revision 1.17 2006/02/16 17:33:32 revo
 -->
 </vortaro>

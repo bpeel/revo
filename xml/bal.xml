@@ -2,13 +2,13 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bal.xml,v 1.21 2017/03/29 15:10:18 revo Exp $">
+<art mrk="$Id: bal.xml,v 1.23 2017/12/11 14:10:13 revo Exp $">
 <kap>
-  <ofc>*</ofc>
+  <ofc>* 1 7</ofc>
   <rad>bal</rad>/o
 </kap>
 <drv mrk="bal.0o">
-  <kap><tld/>o</kap>
+  <kap><ofc>*</ofc> <tld/>o</kap>
   <snc>
     <dif>
       Pompa kunveno, en kiu oni dancas:
@@ -44,9 +44,44 @@
   </trdgrp>
   <trd lng="sv">bal</trd>
 </drv>
+
+<drv mrk="bal.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc>
+    <dif>
+      &Ccirc;ambro a&ubreve; loko, en kiu <tld/>oj okazas, en kiu oni dancas
+    </dif>
+  </snc>
+  <trd lng="en">ballroom</trd>
+  <trd lng="fr">salle de bal</trd>
+</drv>
+
+<drv mrk="bal.kostum0o">
+  <kap>kostum<tld/>o, <var><kap>masko<tld/>o</kap></var></kap>
+  <snc>
+    <dif>
+       <tld/>o, en kiu la invititoj devas porti travestion a&ubreve; simple
+       maskon:
+      <ekz>kiel strange ili aspektas! lli certe venas de
+      maskobalo!</ekz>
+    </dif>
+  </snc>
+    <trd lng="en">masked ball</trd>
+    <trdgrp lng="fr">
+      <trd>bal costum&eacute;</trd>,
+      <trd>bal masqu&eacute;</trd>,
+   </trdgrp>
+</drv>
+
 </art>
 <!--
 $Log: bal.xml,v $
+Revision 1.23  2017/12/11 14:10:13  revo
+Michel Cantigneaux: korektigo de tradukoj de kostumbalo, maskobalo
+
+Revision 1.22  2017/12/11 13:10:13  revo
+Michel Cantigneaux: aldonita per la 1a OA kaj fundamentita per la 7a OA
+
 Revision 1.21  2017/03/29 15:10:18  revo
 Lyubomir Vasilev: +trd bg
 
@@ -63,11 +98,5 @@ Revision 1.17  2012/08/25 09:10:25  revo
 Marc Rausell: + trd ca
 
 Revision 1.16  2009/02/23 17:30:27  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.15  2007/11/22 17:30:43  revo
-Eduardo Navas: +trd es
-
-Revision 1.14  2005/02/19 18:51:27  revo
 -->
 </vortaro>

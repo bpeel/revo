@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: per.xml,v 1.35 2017/01/26 09:10:22 revo Exp $">
+<art mrk="$Id: per.xml,v 1.36 2017/12/20 10:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>per</rad> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -350,7 +350,9 @@
     Vortero samsignifa:
   </dif>
   <drv mrk="per.0a">
-    <kap><tld/>a</kap>
+    <kap><ofc>*</ofc><tld/>a <fnt><bib>F</bib>, <lok>Universala Vortaro,
+    <url
+    ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5150">per'a</url></lok></fnt></kap>
     <snc>
       <dif>
         Ne efikanta nur per si mem; ne rekte trafanta; bezonanta interan
@@ -388,6 +390,7 @@
     <trd>sprostredkovan&yacute;</trd>
   </trdgrp>
 </drv>
+
   <drv mrk="per.0ede">
     <kap><tld/>e de</kap>
     <gra><vspec>prepozicia&jcirc;o</vspec></gra>
@@ -431,8 +434,11 @@
     </trdgrp>
   <trd lng="sk">prostredn&iacute;ctvom</trd>
 </drv>
+
   <drv mrk="per.0i">
-    <kap><tld/>i</kap>
+    <kap><ofc>*</ofc><tld/>i <fnt><bib>F</bib>, <lok>Universala Vortaro,
+    <url
+    ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5151">per'i</url></lok></fnt></kap>
     <snc mrk="per.0i.KOMUNE">
       <dif>
         <ref tip="vid" cel="help.0i">Helpi</ref> al iu atingo.
@@ -778,6 +784,9 @@
 </art>
 <!--
 $Log: per.xml,v $
+Revision 1.36  2017/12/20 10:10:16  revo
+Michel Cantigneaux: "per/a" & "per/i" fundamentaj kunmetajxoj el la U.V.
+
 Revision 1.35  2017/01/26 09:10:22  revo
 Adam Eng: trd ms
 
@@ -797,8 +806,5 @@ Revision 1.30  2015/03/23 23:10:15  revo
 Jeromo Vasxe: + cxi~e
 
 Revision 1.29  2014/10/03 14:10:22  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.28  2014/05/19 14:10:15  revo
 -->
 </vortaro>

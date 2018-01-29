@@ -2,13 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mekani.xml,v 1.17 2016/09/30 13:10:19 revo Exp $">
+<art mrk="$Id: mekani.xml,v 1.18 2017/12/21 17:10:27 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>mekanik</rad>/o
 </kap>
 <drv mrk="mekani.0o">
-  <kap><tld/>o</kap>
+  <kap><tld/>o <fnt><lok>Akademio de Esperanto, <url
+  ref="http://www.akademio-de-esperanto.org/aktoj/aktoj2/8oa.html">8a
+  Oficiala Aldono</url>, II.A.1</lok></fnt></kap>
   <snc>
       <ref tip="dif" cel="mehxan.0o">me&hcirc;aniko</ref>
       <ekz>
@@ -43,6 +45,9 @@
 </art>
 <!--
 $Log: mekani.xml,v $
+Revision 1.18  2017/12/21 17:10:27  revo
+Michel Cantigneaux: aldono ligilo al la 8a OA
+
 Revision 1.17  2016/09/30 13:10:19  revo
 Sebastian Cyprych: +trd pl
 
@@ -62,8 +67,5 @@ Revision 1.12  2005/12/08 17:31:05  revo
 Jeromo Vasxe: + 1 ekz, + trd fr
 
 Revision 1.11 2005/04/06 16:35:08 revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.10 2004/06/09 16:32:01 revo
 -->
 </vortaro>

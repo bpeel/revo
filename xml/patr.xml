@@ -2,18 +2,20 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: patr.xml,v 1.66 2016/11/20 21:10:13 revo Exp $">
+<art mrk="$Id: patr.xml,v 1.71 2017/12/20 18:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>patr</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 
 <drv mrk="patr.0o">
-  <kap><ofc>*</ofc><tld/>o</kap>
+  <kap><ofc>*</ofc><tld/>o, <var><kap><ofc>*</ofc><tld/>oj
+  <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  -j'</lok></fnt></kap></var></kap>
   <uzo tip="fak">GEN</uzo>
   <snc mrk="patr.0o.GEN">
     <dif>
-      Virseksulo naskiginto de ido:
+      Virseksa naskiginto de ido:
       <ekz>
         li estas la portreto de sia <tld/>o
         <fnt><bib>PrV</bib></fnt>;
@@ -154,14 +156,19 @@
 </drv>
 
 <drv mrk="patr.0ino">
-  <kap><tld/>ino</kap>
+  <kap><ofc>*</ofc><tld/>ino
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, bo'</lok></fnt>
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, in'</lok></fnt></kap>
   <snc mrk="patr.0ino.GEN">
     <uzo tip="fak">GEN</uzo>
     <dif>
       Naskintino de ido:
       <ekz>
-        la edzino de mia <tld/>o estas mia
-        <tld/>ino<fnt>Z</fnt>;
+        La pli maljuna estis tiel simila al la patrino per sia karaktero
+        kaj viza&gcirc;o <fnt><bib>F</bib>, <lok>&FE; 11</lok></fnt>.
+      </ekz><ekz>
+        la edzino de mia <tld/>o estas mia <tld/>ino
+         <fnt><bib>F</bib>, <lok>&FE; 33</lok></fnt>;
       </ekz><ekz>
         <uzo tip="stl">FIG</uzo>
         senlaboremo estas <tld/>ino de &ccirc;iuj 
@@ -282,7 +289,9 @@
 </drv>
 
 <drv mrk="patr.0ujo">
-  <kap><tld/>ujo</kap>
+  <kap><ofc>*</ofc><tld/>ujo <fnt><bib>F</bib>, <lok>Universala Vortaro,
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5145">patr'uj'</url></lok></fnt></kap>
   <snc mrk="patr.0ujo.GEOG">
     <dif>
       <ref tip="super" cel="land.0o.POL">Lando</ref> konsiderata 
@@ -366,12 +375,13 @@
 </drv>
 
 <drv mrk="patr.bo0o">
-  <kap>bo<tld/>o</kap>
+  <kap><ofc>*</ofc>bo<tld/>o
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, bo'</lok></fnt></kap>
   <snc mrk="patr.bo0o.aledza">
     <uzo tip="fak">GEN</uzo>
     <dif>
       <ref tip="super" cel="patr.0o"><tld lit="P"/>o</ref> de la 
-      edzino rilate al la edzo:
+      edzino rilate al la edz(in)o:
       <ekz>
         Zhen Shiyin <klr>...</klr> rifu&gcirc;is kun la edzino kaj du
         servistinoj al la sufi&ccirc;e bonhava bo<tld/>o
@@ -385,7 +395,7 @@
   <snc mrk="patr.bo0o.aledzina">
     <uzo tip="fak">GEN</uzo>
     <dif>
-      <tld lit="P"/>o de la edzo rilate al la edzino:
+      <tld lit="P"/>o de la edzo rilate al la edz(in)o:
       <ekz>
         kaj oni sciigis al Tamar, dirante: Jen via bo<tld/>o iras
         Timnan, por tondi siajn &scirc;afojn
@@ -428,11 +438,12 @@
 </drv>
 
 <drv mrk="patr.bo0ino">
-  <kap>bo<tld/>ino</kap>
+  <kap><ofc>*</ofc>bo<tld/>ino
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, bo'</lok></fnt></kap>
   <snc mrk="patr.bo0ino.aledza">
     <uzo tip="fak">GEN</uzo>
     <dif>
-      <tld lit="P"/>ino de la edzino rilate al la edzo:
+      <tld lit="P"/>ino de la edzino rilate al la edz(in)o:
       <ekz>
         lia edzino mastrumis, ne povante zorgi la du infanojn, pro
         kio li venigis sian bo<tld/>inon
@@ -446,7 +457,7 @@
   <snc mrk="patr.bo0ino.aledzina">
     <uzo tip="fak">GEN</uzo>
     <dif>
-      <tld lit="P"/>ino de la edzo rilate al la edzino:
+      <tld lit="P"/>ino de la edzo rilate al la edz(in)o:
       <ekz>
         kaj Boaz respondis kaj diris al &scirc;i: Jam estas rakontita
         al mi &ccirc;io, kion vi faris al via bo<tld/>ino post la morto
@@ -490,11 +501,11 @@
 </drv>
 
 <drv mrk="patr.boge0oj">
-  <kap><ofc>*</ofc>boge<tld/>oj</kap>
+  <kap><ofc>*</ofc><ofc>ekz</ofc>boge<tld/>oj</kap>
   <uzo tip="fak">GEN</uzo>
   <snc mrk="patr.boge0oj.aledzaj">
     <dif>
-      La <tld/>o kaj la <tld/>ino de edzino rilate al la edzo:
+      La <tld/>o kaj la <tld/>ino de edzino rilate al la edz(in)o:
       <ekz>
         la edzi&gcirc;a festo estos en la domo de liaj estontaj
         boge<tld/>oj
@@ -505,7 +516,7 @@
   </snc>    
   <snc mrk="patr.boge0oj.aledzinaj">
     <dif>
-      La <tld/>o kaj la <tld/>ino de edzo rilate al la edzino:
+      La <tld/>o kaj la <tld/>ino de edzo rilate al la edz(in)o:
       <ekz>
         mia edzo Bruno estas sola infano, kaj miaj boge<tld/>oj
         estas tre ordemaj homoj, kiuj kredeble neniam e&ccirc; pensis
@@ -542,11 +553,13 @@
 </drv>
 
 <drv mrk="patr.duon0o">
-  <kap>duon<tld/>o</kap>
+  <kap><ofc>*</ofc>duon<tld/>o <fnt><bib>F</bib>, <lok>Universala
+  Vortaro, <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5273">du'on'patr'</url></lok></fnt></kap>
   <snc mrk="patr.duon0o.GEN">
     <uzo tip="fak">GEN</uzo>
     <dif>
-      Edzo de <tld/>ino, kiu tamen ne estas la <tld/>o.
+      Edzo de <tld/>ino, kiu tamen ne estas la biologia <tld/>o.
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -572,11 +585,15 @@
 </drv>
 
 <drv mrk="patr.duon0ino">
-  <kap>duon<tld/>ino</kap>
+  <kap><ofc>*</ofc><ofc>ekz</ofc>duon<tld/>ino</kap>
   <snc mrk="patr.duon0ino.GEN">
     <uzo tip="fak">GEN</uzo>
     <dif>
-      Edzino de <tld/>o, kiu tamen ne estas la <tld/>ino.
+      Edzino de <tld/>o, kiu tamen ne estas la biologia <tld/>ino.
+      <ekz>
+      Lia duonpatrino estas mia bofratino
+      <fnt><bib>F</bib>, <lok>&FE; 33</lok></fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_ch;&c_a;&c_h;&c_a;</trd>
@@ -602,11 +619,16 @@
 </drv>
 
 <drv mrk="patr.ge0oj">
-  <kap>ge<tld/>oj</kap>
+  <kap><ofc>*</ofc>ge<tld/>oj
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, ge'</lok></fnt></kap>
   <uzo tip="fak">GEN</uzo>
   <snc mrk="patr.ge0oj.tradicie">
     <dif>
       <tld lit="P"/>o(j) kaj <tld/>ino(j):
+      <ekz>
+       Patro kaj patrino kune estas nomataj gepatroj
+       <fnt><bib>F</bib>, <lok>&FE; 36</lok></fnt>.
+      </ekz>
       <ekz>
         ke Sara <klr>...</klr> neniam forlasos la religion
         de siaj ge<tld/>oj
@@ -623,7 +645,6 @@
     <trd lng="vo">fat(s) e mot(s)</trd>
   </snc>
   <snc mrk="patr.ge0oj.NEO">
-    <uzo tip="stl">NEO</uzo>
     <dif>
       Plurnombro de &leftquot;<ref cel="patr.ge0o">ge<tld/>o</ref>&rightquot;,
       eble &ccirc;iuj samseksaj, eble ne.
@@ -651,7 +672,7 @@
 
 <drv mrk="patr.ge0o">
   <kap>ge<tld/>o</kap>
-  <uzo tip="stl">NEO</uzo>
+  <uzo tip="stl">RAR</uzo>
   <snc mrk="patr.ge0o.GEN">
     <uzo tip="fak">GEN</uzo>
     <dif>
@@ -678,9 +699,9 @@
       </ekz>
     </dif>
     <rim>
-      Tia uzo devias de la tradicia, kaj ne &ccirc;iuj esperantistoj &gcirc;in
-      akceptas. Vd la &gcirc;eneralan noton &ccirc;e
-      <ref cel="ge.0.senseksigo">ge-</ref>.
+      &Ccirc;i tiu uzo devias de la tradicia uzo, kaj ne &ccirc;iuj esperantistoj
+      akceptas &gcirc;in. Vidu la <ref cel="ge.0.ununombro">duan sencon de
+      ge-</ref>.
     </rim>
   </snc>
   <trd lng="br">unan eus ar gerent</trd>
@@ -786,27 +807,27 @@
 </art>
 <!--
 $Log: patr.xml,v $
+Revision 1.71  2017/12/20 18:10:14  revo
+Michel Cantigneaux: fundamentaj kunmetajxoj "du/on/patr/o" el la U.V. & "duonpatrino" el ekzerco ktp
+
+Revision 1.70  2017/12/20 09:10:17  revo
+Michel Cantigneaux: "patr/uj/o" fundamenta kunmetajxo el la U.V.
+
+Revision 1.69  2017/12/19 10:10:27  revo
+Michel Cantigneaux: fundamenta "patroj" el la U.V.
+
+Revision 1.68  2017/12/19 07:10:14  revo
+Michel Cantigneaux: ekzemploj de la U.V. por fundamentaj "patrino"
+"bopatro" "bopatrino" "gepatroj"
+
+Revision 1.67  2017/05/06 01:10:13  revo
+Robin van der Vliet: sxangxo al teksto pro samseksaj paroj
+
 Revision 1.66  2016/11/20 21:10:13  revo
 Robin van der Vliet: +trd fy, nl, tp, sw, vo
 
 Revision 1.65  2015/07/04 08:37:41  revo
 aldono de trd cs per skripto de M. von Laer
 
-Revision 1.64  2015/06/29 16:40:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.63  2015/06/13 07:10:14  revo
-Jeromo Vasxe: + ~i
-
-Revision 1.62  2015/04/17 04:10:14  revo
-Sergio Pokrovskij: ofc=*, +ekz
-
-Revision 1.61  2014/05/30 17:10:30  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.60  2013/09/26 01:10:13  revo
-Jessica Grasso: korektis antauxan laboron
-
-Revision 1.59  2013/09/25 17:10:10  revo
 -->
 </vortaro>

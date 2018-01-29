@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hipokondri.xml,v 1.7 2015/07/04 08:37:35 revo Exp $">
+<art mrk="$Id: hipokondri.xml,v 1.8 2017/09/13 17:10:18 revo Exp $">
 <kap>
   <rad>hipokondri</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -34,11 +34,13 @@
   <trd lng="ca">hipocondria</trd>
   <trdgrp lng="cs">
     <trd>hypochondrium</trd>,
-    <trd>podžebří</trd>
+    <trd>pod&zcaron;eb&rcaron;&iacute;</trd>
   </trdgrp>
   <trd lng="fr">hypocondrie</trd>
   <trd lng="it">ipocondria</trd>
+  <trd lng="pl">hipochondria</trd>
   <trd lng="pt">hipocondria</trd>
+  <trd lng="ro">ipohondrie</trd>
   <trd lng="sk">hypochondria</trd>
 </drv>
 
@@ -66,6 +68,7 @@
    <trd>ipocondriaco</trd>, 
    <trd><ind>malato</ind> immaginario</trd>
   </trdgrp>
+  <trd lng="pl">hipochondryk</trd>
   <trd lng="pt">hipocondr&iacute;aco</trd>
   <trd lng="sk">hypochonder</trd>
 </drv>
@@ -73,6 +76,9 @@
 
 <!--
 $Log: hipokondri.xml,v $
+Revision 1.8  2017/09/13 17:10:18  revo
+Vito Redsky: +trd ro +trd pl
+
 Revision 1.7  2015/07/04 08:37:35  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -92,7 +98,5 @@ Revision 1.2  2008/05/03 16:30:17  revo
 Tulio Flores: +tr pt
 
 Revision 1.1  2008/05/01 16:30:24  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

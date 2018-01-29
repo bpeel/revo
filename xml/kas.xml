@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kas.xml,v 1.28 2016/09/11 09:10:14 revo Exp $">
+<art mrk="$Id: kas.xml,v 1.29 2017/08/22 22:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kas</rad>/o <fnt><bib>PV</bib></fnt>
@@ -230,6 +230,7 @@
     <trd>caixa <klr tip="amb">(local)</klr></trd>,
     <trd>tesouraria</trd>
   </trdgrp>
+  <trd lng="ro">casa</trd>
   <trd lng="ru">&c_k;&c_a;&c_s;&c_s;&c_a;</trd>
   <trd lng="sk">pokladni&ccaron;n&aacute; miestnos&tcaron;</trd>
   <trd lng="sv">kassa</trd>
@@ -287,6 +288,7 @@
     <trd>caixa <klr tip="amb">(funcion&aacute;rio)</klr></trd>,
     <trd>tesoureiro</trd>
   </trdgrp>
+  <trd lng="ro">casier</trd>
   <trd lng="ru">&c_k;&c_a;&c_s;&c_s;&c_i;&c_r;</trd>
   <trd lng="sk">pokladn&iacute;k</trd>
   <trd lng="sv">kass&ouml;r</trd>
@@ -361,6 +363,9 @@
 </art>
 <!--
 $Log: kas.xml,v $
+Revision 1.29  2017/08/22 22:10:24  revo
+Vito Redsky: +trd ro
+
 Revision 1.28  2016/09/11 09:10:14  revo
 Guillermo Molleda Jimena: trd es
 
@@ -380,8 +385,5 @@ Revision 1.23  2009/08/23 16:34:16  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.22  2009/07/03 16:30:55  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.21  2008/06/19 16:44:19  revo
 -->
 </vortaro>
