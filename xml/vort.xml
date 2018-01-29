@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vort.xml,v 1.103 2017/12/19 12:10:19 revo Exp $">
+<art mrk="$Id: vort.xml,v 1.104 2018/01/14 16:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vort</rad>/o <fnt><bib>PV</bib></fnt>
@@ -674,7 +674,7 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="nom.0e.te">nome <sncref/></ref>,
+      <ref cel="nom.0e.t_e">nome <sncref/></ref>,
       <ref cel="est.tio0as">tio estas</ref>
     </refgrp>
   </snc>
@@ -1703,6 +1703,9 @@
 </art>
 <!--
 $Log: vort.xml,v $
+Revision 1.104  2018/01/14 16:10:15  revo
+Wolfram Diestel: kor. mrk
+
 Revision 1.103  2017/12/19 12:10:19  revo
 Michel Cantigneaux: fundamenta "vortaro" el la U.V.
 
@@ -1722,8 +1725,5 @@ Revision 1.98  2015/07/04 08:37:46  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.97  2015/06/28 12:03:50  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.96  2015/04/09 12:10:15  revo
 -->
 </vortaro>

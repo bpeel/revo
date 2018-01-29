@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: rus.xml,v 1.33 2017/12/17 18:10:20 revo Exp $">
+  <art mrk="$Id: rus.xml,v 1.34 2018/01/12 11:10:14 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>rus</rad>/o
@@ -36,6 +36,11 @@ ne estas rusoj <fnt><bib>F</bib>, <lok>&FE; 37</lok></fnt>;
       <snc>
       	<uzo tip="stl">RAR</uzo>
         <ref tip="dif" cel="rus.0ujano"><tld/>ujano</ref>
+        <ekz>
+          la <tld/>oj lo&gcirc;as en <tld lit="R"/>ujo kaj la germanoj en
+          Germanujo
+          <fnt><bib>F</bib>, <lok>Ekzercaro, &para; 40</lok></fnt>;
+        </ekz>
         <ekz>
           &ccirc;u ne estas pli simple tuj scii, ke se la lando nomi&gcirc;as <tld
           lit="R"/>ujo, la civitano havos la nomon <tld/>o?
@@ -375,8 +380,12 @@ ne estas rusoj <fnt><bib>F</bib>, <lok>&FE; 37</lok></fnt>;
   </art>
   <!--
   $Log: rus.xml,v $
+  Revision 1.34  2018/01/12 11:10:14  revo
+  Robin van der Vliet: +ekz
+
   Revision 1.33  2017/12/17 18:10:20  revo
-  Michel Cantigneaux: aldonita kaj klarige fundamenta per 7a OA + ekzemploj el la Ekzercaro
+  Michel Cantigneaux: aldonita kaj klarige fundamenta per 7a OA +
+  ekzemploj el la Ekzercaro
 
   Revision 1.32  2017/11/28 16:10:14  revo
   Robin van der Vliet: ruso, rusino, +trd

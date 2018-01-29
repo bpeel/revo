@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nombr.xml,v 1.69 2017/12/20 01:10:17 revo Exp $">
+<art mrk="$Id: nombr.xml,v 1.71 2018/01/13 20:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nombr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -15,7 +15,34 @@
     <uzo tip="fak">MAT</uzo>
     <fnt><bib>VdE</bib></fnt>
     <dif>
-      Matematika objekto esprimanta grandon a&ubreve; mezuron.
+      Matematika objekto esprimanta grandon a&ubreve; mezuron:
+      <ekz>
+        la <tld/>o de &ccirc;iuj <klr>[&#8230;]</klr> liaj filoj kaj filinoj estis tridek tri
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 46:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj militkapablaj prezentis en la tribo de Gad la <tld/>on de kvardek kvin mil sescent kvindek
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 1:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni instruis <klr>[&#8230;]</klr> skribi la nombrojn
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o 10&nbsp;000&nbsp;000, pri kiu estas parolita en mia unua verko, &scirc;ajnas al multaj absolute ne ricevebla
+        <fnt>
+          <bib>DL</bib>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="sub">
       <ref cel="entjer.natura0o">natura entjero</ref>,
@@ -39,11 +66,97 @@
     <trd lng="nl">getal</trd>
     <trd lng="pl">liczba</trd>
   </snc>
+
+  <snc mrk="nombr.0o.grupo">
+    <dif>
+      <klr>(pp homoj)</klr> <ref tip="super" cel="grup.0o.personoj">grupo</ref>
+      kun certa kvanto da membroj:
+      <ekz>
+        Satano eniris en Judason, nomatan Iskariota, kiu estis el la <tld/>o de la dek du
+        <klr>(dis&ccirc;iploj)</klr>
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 22:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        granda nombro kredis kaj turni&gcirc;is al la Sinjoro
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 11:21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam ili estis kune en granda <tld/>o, al kelkaj el ili la veturo tedis
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi apartenas al la <tld/>o de tiuj, kiuj kolektas la vortojn de l' vero
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam kolekti&gcirc;is sufi&ccirc;a <tld/>o da a&ubreve;skultantoj, ili anoncis <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni iel alkalkulos lin mem al la <tld/>o de tiuj malsa&gcirc;uloj
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur ilian lokon vi elektu por mi komizinojn el la <tld/>o de viaj protektatinoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Anzahl <klr>(Gruppe)</klr></trd>
+  </snc>
+
   <snc>
     <dif>
-      Nedifinita kvanto:
+      Nedifinita <ref tip="super" cel="kvant.0o">kvanto</ref>:
       <ekz>
-        granda <tld/>o da homoj, demandoj.
+        granda <tld/>o da homoj, demandoj;
+      </ekz>
+      <ekz>
+        granda nombro de la popolo el la tuta Judujo kaj Jerusalem<klr>[&#8230;]</klr> 
+        alvenis, por a&ubreve;skulti lin kaj sani&gcirc;i je siaj malsanoj 
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 6:17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ilia <tld/>o estas kiel la sablo de la maro
+        <fnt>
+          <bib>NT</bib>
+          <lok>Apokalipso 20:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve; kelka <tld/>o da jaroj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        el la senlima <tld/>o da sonoj &ccirc;iu ekzistanta lingvo elektis por si nur certan difinitan kolekton
+        <fnt>
+          <bib>LR</bib>
+          <lok>2. Transskribo</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="be">
@@ -51,8 +164,7 @@
       <trd>&c_k;&c_o;&c_l;&c_mol;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
     </trdgrp>
     <trd lng="de">Anzahl</trd>
-    <trd lng="hu">sz&aacute;m <klr
-        tip="ind">(mennyis&eacute;g)</klr></trd>
+    <trd lng="hu">sz&aacute;m <klr tip="ind">(mennyis&eacute;g)</klr></trd>
     <trd lng="nl">aantal</trd>
   </snc>
   <snc mrk="nombr.0o.GRA">
@@ -63,9 +175,15 @@
       aferoj:
       <ekz>
         la pronomo, kiu staras anta&ubreve; la verbo, jam tute
-        sufi&ccirc;e
-        montras &gcirc;ian personon kaj <tld/>on
-        <fnt><bib>EE</bib>, <lok>&ccirc;ap. 1a</lok></fnt>.
+        sufi&ccirc;e montras &gcirc;ian personon kaj <tld/>on
+        <fnt><bib>EE</bib>, <lok>&ccirc;ap. 1a</lok></fnt>;
+      </ekz>
+      <ekz>
+        ni bezonas apartan serion da fini&gcirc;oj por &ccirc;iu persono kaj <tld/>o, kaj 
+        al tio &ccirc;i en &ccirc;iu tempo kaj en &ccirc;iu modo apartan novan serion da tiuj &ccirc;i fini&gcirc;oj
+        <fnt>
+          <bib>EE</bib>
+        </fnt>.
       </ekz>
     </dif>
     <rim>
@@ -130,7 +248,14 @@
           <bib>FK</bib>,
           <lok>parolado de L. Einstein, 1884</lok>
         </fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
+        li uzas la <tld/>ajn signojn de 1 &gcirc;is 999 por &ccirc;iuj gramatikaj fleksioj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
         kelkaj konsideras tiun principon nur kiel <tld/>an aferon.
       </ekz>
     </dif>  
@@ -158,10 +283,14 @@
       <ekz>
         dekmilione <tld/>a popolo;
       </ekz><ekz>
-        al la pli<tld/>a familio donu pli grandan
-        poseda&jcirc;on<fnt>Z</fnt>;
+        al la pli<tld/>a <klr>[familio]</klr> donu pli grandan
+        poseda&jcirc;on
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 33:54</lok>
+        </fnt>;
       </ekz><ekz>
-        kiom <tld/>aj ili estas?.
+        kiom <tld/>aj ili estas?
       </ekz>
     </dif>
     <rim>
@@ -232,7 +361,30 @@
         oni <tld/>as en la lando cent mil senlaborulojn;
       </ekz><ekz>
         vendisto de briketoj scipovas malbone <tld/>i, sed bone
-        kalkuli.
+        kalkuli;
+      </ekz>
+      <ekz>
+        oferbu&ccirc;ante &scirc;afojn kaj bovojn, kiujn oni ne povis <tld/>i nek kalkuli pro ilia granda multeco
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Re&gcirc;oj 8:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la programo <tld/>as, kiom ofte la vorto aperis en la rubaj mesa&gcirc;oj, kaj kiom ofte en la nerubaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2003/008177.html">Kia solvo por rubpo&scirc;to?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni <tld/>as, ke 300&nbsp;000 infanoj estis viktimoj de tiu fra&ubreve;do
+        <fnt>
+          <bib>Monato</bib>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="http://www.monato.net/2014/011160.php">Kiam nutra&jcirc;o ka&scirc;as putra&jcirc;on</url></vrk>
+        </fnt>.
       </ekz>
     </dif>           
     <trdgrp lng="be">
@@ -245,12 +397,12 @@
       <trd>konta&ntilde;<klr tip="ind"> (niveri&ntilde;)</klr></trd>,
       <trd>niveri&ntilde;</trd>
     </trdgrp>
-    <trd lng="de">z&auml;hlen</trd>
+    <trd lng="de"/>
     <trdgrp lng="hu">
       <trd>sz&aacute;mol</trd>,
       <trd>megsz&aacute;mol</trd>
     </trdgrp>
-    <trd lng="pt">contar</trd>
+    <trd lng="pt">, dum 54 000 enhospitali&gcirc;is kaj 6 mortis pro dama&gcirc;o en la renoj ka&ubreve;zita de melaminocontar</trd>
     <trdgrp lng="ru">
       <trd>&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>,
       <trd>&c_s;&c_o;&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>,
@@ -265,18 +417,32 @@
       </ekz><ekz>
         libro <tld/>anta 600 pa&gcirc;ojn;
       </ekz><ekz>
-        tiu tradicio <tld/>as pli ol 300 jarojn.
+        tiu tradicio <tld/>as pli ol 300 jarojn;
+      </ekz>
+      <ekz>
+        &ccirc;irka&ubreve; 20 procentojn (1,2 miliardoj) <tld/>as la islamanoj la&ubreve; la menciita statistika&jcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007053.html">Statistiko: Du miliardoj da kristanoj tutmonde</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; statistikoj, en la nuna &Ccirc;inio kamparanoj sen tero <tld/>as &ccirc;irka&ubreve; 40 milionojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Xu Jinming</aut>
+          <vrk><url ref="http://www.monato.net/2005/008582.php">Senkampaj kamparanoj</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="amplek.0i">ampleksi</ref>,
       <ref cel="ating.0i">atingi</ref>
     </refgrp>
-    <trd
-      lng="be">&c_n;&c_a;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="be">&c_n;&c_a;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
     <trd lng="hu">sz&aacute;ml&aacute;l</trd>
-    <trd
-      lng="ru">&c_n;&c_a;&c_s;&c_ch;&c_i;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+    <trd lng="ru">&c_n;&c_a;&c_s;&c_ch;&c_i;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
   <trd lng="bg">&c_b;&c_r;&c_o;&c_ja;</trd>
   <trdgrp lng="cs">
@@ -284,6 +450,7 @@
     <trd>po&ccaron;&iacute;tat</trd>,
     <trd>&ccaron;&iacute;tat <klr>(obsahovat po&ccaron;et)</klr></trd>
   </trdgrp>
+  <trd lng="de">z&auml;hlen</trd>
   <trdgrp lng="fr">
     <trd>compter</trd>,
     <trd>d&eacute;nombrer</trd>
@@ -301,13 +468,28 @@
   <kap><tld/>ebla</kap>
   <snc mrk="nombr.0ebla.KOMUNE">
     <dif>
-      Tia, ke eblas &gcirc;in <tld/>i.
+      Tia, ke eblas &gcirc;in <tld/>i:
+      <ekz>
+        la ripoj sub &gcirc;ia ta&ubreve;zita felo estis <tld/>eblaj, la vertebroj &ccirc;e la spino elstaris kiel la dentoj de segilo
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>Fantomurbo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;io ne <tld/>eblas, kaj estas bone, ke ne
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Grigorij Arosev</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2003/008100.html">Grigorij Arosev</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="de">z&auml;hlbar</trd>
     <trd lng="fr">d&eacute;nombrable</trd>
     <trd lng="hu">megsz&aacute;ml&aacute;lhat&oacute;</trd>
-    <trd
-      lng="ru">&c_i;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_m;&c_y;&c_j;</trd>
+    <trd lng="ru">&c_i;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_m;&c_y;&c_j;</trd>
   </snc>
   <snc mrk="nombr.0ebla.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -357,11 +539,17 @@
     <uzo tip="fak">KOMP</uzo>
     <dif>
       Variablo, memor&ccirc;elo a&ubreve; aparato ebliganta ajnmomente
-      ekscii
-      la <tld/>on de okazoj a&ubreve; aperoj de evento, signalo, simbolo
+      ekscii la <tld/>on de okazoj a&ubreve; aperoj de evento, signalo, simbolo
       ktp. &Ccirc;e &ccirc;iu apero de la fenomeno la valoro de la
-      <tld/>ilo
-      kreskas.
+      <tld/>ilo kreskas:
+      <ekz>
+        ne &ccirc;iu gejgera <tld/>ilo kapablas detekti alfa- a&ubreve; beta-radiadon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="http://www.monato.net/2011/010370.php">Moderna minaco: radioaktiveco</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="en">counter</trd>
     <trd lng="hu">sz&aacute;ml&aacute;l&oacute;</trd>
@@ -385,8 +573,7 @@
   </snc>
   <rim>
     &Ccirc;ar la nocio "<ref cel="nombr.0o.MAT"><tld/>o</ref>" kovras
-    kaj
-    entjerojn, kaj reelojn, estas racie unuecigi la terminojn por
+    kaj entjerojn, kaj reelojn, estas racie unuecigi la terminojn por
     la <tld/>iloj entjeraj kaj reelaj.
   </rim>                         
   <trd lng="be">&c_l;&c_ib;&c_ch;&c_y;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
@@ -413,25 +600,24 @@
     <dif>
       &Gcirc;enerale, persono kies okupo estas <tld/>i:
       <ekz>
-        la <em>cirklo<tld/>istoj</em> <tld/>as la plenumitajn
-        cirklojn de maksimume 4 konkursantoj, &ccirc;e kur- aux
+        la cirklo<tld/>istoj <tld/>as la plenumitajn
+        cirklojn de maksimume 4 konkursantoj, &ccirc;e kur- a&ubreve;
         mar&scirc;distancoj pli longaj ol 1500 m
         <fnt>
           <aut>T. Ujlaky-Nagy</aut>:
-          <vrk><url
-          ref="http://www.freeweb.hu/eventoj/steb/sportalingvo.rtf">
-          La sporta lingvo en Esperanto</url></vrk>.
-          <lok>1972</lok>
-        </fnt>.
+          <vrk><url ref="http://www.freeweb.hu/eventoj/steb/sportalingvo.rtf">
+          La sporta lingvo en Esperanto</url></vrk>
+          <lok>1972</lok>.
+        </fnt>
       </ekz>
     </dif>
+    <trd lng="de">Z&auml;hler</trd>
   </snc>
   <snc mrk="nombr.0isto.popol">
     <dif>
       Speciale, persono registranta datumojn pri individuaj
       enlo&gcirc;antoj
-      dum <ref tip="malprt"
-      cel="nombr.popol0ado">popol<tld/>ado</ref>:
+      dum <ref tip="malprt" cel="nombr.popol0ado">popol<tld/>ado</ref>:
       <ekz>
         en la anonima enketilo <klr>(popol<tld/>ada)</klr>, kun
         kiu la &scirc;tataj <tld/>istoj vizitos &ccirc;iujn hejmojn en
@@ -445,28 +631,39 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd>Volksz&auml;hler</trd>,
+      <trd>Statistiker</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>census-taker</trd>,
       <trd>enumerator</trd>
     </trdgrp>
     <trd lng="fr">recenseur</trd>
   </snc>
+  <trd lng="de"/>
   <trd lng="ru">&c_s;&c_ch;&c_jo;&c_t;&c_ch;&c_i;&c_k;</trd>
 </drv>
 
 <drv mrk="nombr.0ono">
   <kap><tld/>ono</kap>
   <snc>
-    <ref tip="dif" cel="on.0o.frakcio">ono <sncref/></ref>
-    <ekz>
-      li povoscias kalkuli en la kapo, e&ccirc; kun <tld/>onoj
-      <fnt><bib>Fab2</bib>,
-        <lok>Ne&gcirc;a Re&gcirc;ino</lok></fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="on.0o.frakcio">Ono <sncref/></ref>:
+      <ekz>
+        li povoscias kalkuli en la kapo, e&ccirc; kun <tld/>onoj
+        <fnt><bib>Fab2</bib>,
+          <lok>Ne&gcirc;a Re&gcirc;ino</lok></fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trdgrp lng="cs">
     <trd>d&iacute;l z mno&zcaron;stv&iacute;</trd>,
     <trd>zlomek</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Bruch</trd>,
+    <trd>gebrochene Zahl</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>zlomok</trd>,
@@ -483,7 +680,16 @@
       <ref tip="super" cel="nombr.0o.GRA">nombro<sncref/></ref>
       kiu en kelkaj lingvoj (i.a. greka, hebrea, Slavono, slovena)
       estas uzata, kiam oni parolas pri du personoj a&ubreve; du aferoj;
-      <ref tip="sin" cel="dual.0o.GRA">dualo<sncref/></ref>.
+      <ref tip="sin" cel="dual.0o.GRA">dualo<sncref/></ref>:
+      <ekz>
+        la motlava havas plurajn ecojn tipajn de oceaniaj lingvoj:
+        &gcirc;ia pronoma sistemo distingas kvar <tld/>ojn (unu<tld/>o,
+        du<tld/>o, tri<tld/>o kaj multe<tld/>o)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=380096">Motlava lingvo</url></lok>
+        </fnt>.
+      </ekz>
     </dif>   
     <trd lng="br">niver-daou<klr tip="ind"> (yezhadur)</klr></trd>
     <trdgrp lng="de">
@@ -496,8 +702,7 @@
       <trd>kett&odblac;s sz&aacute;m</trd>,
       <trd>du&aacute;lis</trd>
     </trdgrp>
-    <trd
-    lng="ru">&c_d;&c_v;&c_o;&c_j;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;
+    <trd lng="ru">&c_d;&c_v;&c_o;&c_j;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;
     &c_ch;&c_i;&c_s;&c_l;&c_o;</trd>
   </snc>
   <trd lng="bg">&c_d;&c_u;&c_a;&c_l; (&c_d;&c_v;&c_o;&c_j;&c_s;&c_t;&c_v;&c_je;&c_n;&c_o; &c_ch;&c_i;&c_s;&c_l;&c_o;)</trd>
@@ -509,9 +714,23 @@
     <dif>
       Estanta en granda <tld/>o, tre multa:
       <ekz>
+        mi scias, ke vi havas grand<tld/>ajn brutarojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 3:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         grand<tld/>a homamaso, a&ubreve;dinte &ccirc;ion, kion li faris,
         venis al li
-        <fnt><bib>NT</bib>, <lok>&Mar; 3:8</lok></fnt>.
+        <fnt><bib>NT</bib>, <lok>&Mar; 3:8</lok></fnt>;
+      </ekz>
+      <ekz>
+        Dio longigu vian vivon kaj <klr>[&#8230;]</klr> Li donu al vi idaron grand<tld/>an, nepojn kaj pranepojn
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvina</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -527,15 +746,13 @@
   </trdgrp>
   <trd lng="nl">talrijk</trd>
   <trd lng="pt">numeroso</trd>
-  <trd
-  lng="ru">&c_m;&c_n;&c_o;&c_g;&c_o;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="ru">&c_m;&c_n;&c_o;&c_g;&c_o;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">po&ccaron;etn&yacute;</trd>
 </drv>
 
 <drv mrk="nombr.mez0o">
   <kap>mez<tld/>o, <var><kap><ofc>*</ofc>mezo<tld/>o <fnt><bib>F</bib>,
-  <lok>Universala Vortaro, <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5110">mez'o'nombr'</url></lok></fnt><fnt>Z</fnt></kap></var></kap>
+  <lok>Universala Vortaro, <url ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5110">mez'o'nombr'</url></lok></fnt></kap></var></kap>
   <uzo tip="fak">MAT</uzo>
   <fnt><bib>VdE</bib>, <lok>mezo</lok></fnt>
   <snc mrk="nombr.mez0o.MAT">
@@ -543,6 +760,12 @@
       En aro el <frm><k>n</k></frm> <tld/>oj, <tld/>o situanta inter
       la plej granda kaj la plej malgranda, kaj iasence tipa de la
       koncerna aro:
+      <ekz>
+        ni povas mezo<tld/>e perlabori ok dolarojn
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
       <ekz>
         <ind>aritmetika mez<tld/>o</ind>
         <klr>(ilia sumo dividita per <frm><k>n</k></frm>)</klr>;
@@ -619,15 +842,14 @@
         <trd lng="fr">moyenne pond&eacute;r&eacute;e</trd>
         <trd lng="hu">s&uacute;lyozott <ind>&aacute;tlag</ind></trd>
         <trd lng="pl">&sacute;rednia wa&zdot;ona</trd>
-        <trd
-        lng="ru">&c_v;&c_z;&c_v;&c_je;&c_sh;&c_je;&c_n;&c_n;&c_o;&c_je;<ind>
+        <trd lng="ru">&c_v;&c_z;&c_v;&c_je;&c_sh;&c_je;&c_n;&c_n;&c_o;&c_je;<ind>
         &c_s;&c_r;&c_je;&c_d;&c_n;&c_je;&c_je;</ind></trd>
       </ekz><ekz>
         la geometria mez<tld/>o de du <tld/>oj estas tiu <tld/>o, al
-        kiu
-        la unua rilatas kiel &gcirc;i mem rilatas al la dua.
+        kiu la unua rilatas kiel &gcirc;i mem rilatas al la dua.
       </ekz>
     </dif>
+    <ref tip="sub" cel="averagx.0o">avera&gcirc;o</ref>
     <rim>
       Bricard <fnt><bib>MatTerm</bib>, <lok>p. 8</lok></fnt>
       &ccirc;i-sence uzis nur <ctl>mezo</ctl>, kio en difinita kunteksto
@@ -662,19 +884,21 @@
 <drv mrk="nombr.mult0a">
   <kap>mult<tld/>a, <var><kap>multe<tld/>a</kap></var></kap>
   <snc mrk="nombr.mult0a.KOMUNE">
-    <ref tip="dif" cel="nombr.grand0a">grand<tld/>a</ref>
-    <ekz>
-      ili estas pli multe<tld/>aj, ol la haroj sur mia kapo
-      <fnt><bib>MT</bib>, <lok>&Psa; 40:12</lok></fnt>;
-    </ekz><ekz>
-      Josuo diris al ili: Se vi estas mult<tld/>a, iru supren
-      en la arbaron, kaj elhaku al vi tie lokon
-      <fnt><bib>MT</bib>, <lok>&Jos; 17:15</lok></fnt>.
-    </ekz><ekz>
-      kursoj kun multe<tld/>a lernantaro
-      <fnt><bib>Lanti</bib>, <lok>Je la lumo de la
-      sperto</lok></fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="nombr.grand0a">Grand<tld/>a</ref>:
+      <ekz>
+        ili estas pli multe<tld/>aj, ol la haroj sur mia kapo
+        <fnt><bib>MT</bib>, <lok>&Psa; 40:12</lok></fnt>;
+      </ekz><ekz>
+        Josuo diris al ili: Se vi estas mult<tld/>a, iru supren
+        en la arbaron, kaj elhaku al vi tie lokon
+        <fnt><bib>MT</bib>, <lok>&Jos; 17:15</lok></fnt>;
+      </ekz><ekz>
+        kursoj kun multe<tld/>a lernantaro
+        <fnt><bib>Lanti</bib>, <lok>Je la lumo de la
+        sperto</lok></fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="be">&c_sh;&c_m;&c_a;&c_t;&c_l;&c_ib;&c_k;&c_ib;</trd>
   <trd lng="br">niverus</trd>
@@ -692,8 +916,7 @@
   </trdgrp>
   <trd lng="nl">talrijk</trd>
   <trd lng="pt">numeroso</trd>
-  <trd
-  lng="ru">&c_m;&c_n;&c_o;&c_g;&c_o;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="ru">&c_m;&c_n;&c_o;&c_g;&c_o;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
     <trd>mnohopo&ccaron;etn&yacute;</trd>,
     <trd>po&ccaron;etn&yacute;</trd>
@@ -701,7 +924,7 @@
 </drv>
 
 <drv mrk="nombr.multe0o">
-  <kap>multe<tld/>o<fnt>Z</fnt>,
+  <kap>multe<tld/>o,
   <var><kap>plur<tld/>o</kap></var></kap>
   <uzo tip="fak">GRA</uzo>
   <snc mrk="nombr.multe0o.GRA">
@@ -721,6 +944,10 @@
         <fnt><bib>LR</bib>, <lok>Respondo 18a</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd>Mehrzahl</trd>,
+      <trd>Plural</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_m;&c_n;&c_o;&c_zh;&c_n;&c_y;
   <ind>&c_l;&c_ib;&c_k;</ind></trd>
@@ -737,8 +964,7 @@
   </trdgrp>
   <trd lng="nl">meervoud</trd>
   <trd lng="pl">liczba mnoga</trd>
-  <trd
-  lng="ru">&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;
+  <trd lng="ru">&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;
   &c_ch;&c_i;&c_s;&c_l;&c_o;</trd>
   <trd lng="sk">mno&zcaron;n&eacute; &ccaron;&iacute;slo</trd>
   <trdgrp lng="tr">
@@ -751,7 +977,16 @@
   <uzo tip="fak">MAT</uzo>
   <fnt><bib>EKV</bib>, <lok>&FE;290</lok></fnt>
   <snc mrk="nombr.natura0o.MAT">
-    <ref tip="dif" cel="entjer.natura0o">natura entjero</ref>
+    <dif>
+      <ref tip="dif" cel="entjer.natura0o">Natura entjero</ref>:
+      <ekz>
+        &ccirc;iu primo pli granda ol 3 estas de formo <frm>6n-1</frm> a&ubreve; <frm>6n+1</frm> por iu natura nombro <frm>n</frm>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=3388">Primo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;
   <ind>&c_l;&c_ib;&c_k;</ind></trd> 
@@ -762,8 +997,7 @@
   <trd lng="fr">entier naturel</trd>
   <trd lng="hu">term&eacute;szetes <ind>sz&aacute;m</ind></trd>
   <trd lng="pl">liczba naturalna</trd>
-  <trd
-  lng="ru">&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+  <trd lng="ru">&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
   <ind>&c_ch;&c_i;&c_s;&c_l;&c_o;</ind></trd>
 </drv>
 
@@ -775,15 +1009,45 @@
     <dif>
       Tiel multa, ke oni ne povas kalkuli la kvanton:
       <ekz>
+        simile al akridoj <klr>[&#8230;]</klr> ili kaj iliaj kameloj estis 
+        sen<tld/>aj, kaj ili venadis en la landon, por dezertigi &gcirc;in
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ju&gcirc;istoj 6:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;irka&ubreve;is min suferoj sen<tld/>aj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 40:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la dikaj trunkoj kaj la sen<tld/>aj foliori&ccirc;aj bran&ccirc;oj formis kvaza&ubreve; du murojn
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
         grandega arbo kovrita per ne<tld/>eblaj floroj
         <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro
-        4a</lok></fnt>.
+        4a</lok></fnt>;
+      </ekz>
+      <ekz>
+        uzante la vastan nombron da radikoj, afiksoj kaj partikuloj, 
+        oni facile povas formi ne<tld/>eblan kvanton da vortoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="http://www.monato.net/2014/011300.php">Antikva
+            lingvo por moderna lando</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
+    <trd lng="de">unz&auml;hlig</trd>
   </snc>
-  <trd
-  lng="be">&c_n;&c_je;&c_z;&c_mol;&c_l;&c_ib;&c_ch;&c_o;&c_n;&c_y;</trd>
-  
+  <trd lng="be">&c_n;&c_je;&c_z;&c_mol;&c_l;&c_ib;&c_ch;&c_o;&c_n;&c_y;</trd>
   <trd lng="bg">&c_n;&c_je;&c_i;&c_z;&c_b;&c_r;&c_o;&c_i;&c_m;</trd>
   <trd lng="br">diniver</trd>
   <trd lng="fr">innombrable</trd>
@@ -823,6 +1087,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd>Einzahl</trd>,
+      <trd>Singular</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_z;&c_ib;&c_n;&c_o;&c_ch;&c_n;&c_y;
   <ind>&c_l;&c_ib;&c_k;</ind></trd>
@@ -837,8 +1105,7 @@
   <trd lng="hu">egyes sz&aacute;m</trd>
   <trd lng="nl">enkelvoud</trd>
   <trd lng="pl">liczba pojedyncza</trd>
-  <trd
-  lng="ru">&c_je;&c_d;&c_i;&c_n;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;
+  <trd lng="ru">&c_je;&c_d;&c_i;&c_n;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;
   &c_ch;&c_i;&c_s;&c_l;&c_o;</trd>
   <trd lng="sk">jednotn&eacute; &ccaron;&iacute;slo</trd>
   <trd lng="tr">tek</trd>
@@ -915,17 +1182,29 @@
   <kap><tld/>onomo</kap>
   <uzo tip="fak">GRA</uzo>
   <snc mrk="nombr.0onomo.GRA">
-    <ref tip="dif" cel="numera.0o.gra">numeralo</ref>
-    <ekz>
-      la <tld/>onomoj ordaj, fundamentaj<fnt><aut>&Z;</aut>,
-        <lok>citita la&ubreve; PIV</lok></fnt>.
-    </ekz>                        
+    <dif>
+      <ref tip="dif" cel="numera.0o.gra">Numeralo</ref>:
+      <ekz>
+        la <tld/>onomoj fundamentaj per supre metitaj, 
+        la <tld/>onomoj ordaj per malsupre metitaj punktoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o en ciferoj: 10&nbsp;374 &dash; <tld/>onomo en vortoj: dekmil tricent sepdek kvar
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=24612">Nombronomo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>             
     <trd lng="be">&c_l;&c_ib;&c_ch;&c_e;&c_b;&c_n;&c_ib;&c_k;</trd>
     <trd lng="br">ger niveri&ntilde;</trd>
+    <trd lng="de">Zahlwort</trd>
     <trd lng="es">numeral</trd>
     <trd lng="hu">sz&aacute;mn&eacute;v</trd>
-    <trd
-    lng="ru">&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;</trd>
+    <trd lng="ru">&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;</trd>
   </snc>
   <trd lng="cs">&ccaron;&iacute;slovka</trd>
   <trd lng="sk">&ccaron;&iacute;slovka</trd>
@@ -954,8 +1233,7 @@
         <trd lng="hu">helyi&eacute;rt&eacute;kes
           <ind>sz&aacute;mrendszer</ind></trd>
         <trd lng="pl">system pozycyjny</trd>
-        <trd
-        lng="ru">&c_p;&c_o;&c_z;&c_i;&c_c;&c_i;&c_o;&c_n;&c_n;&c_a;&c_ja;
+        <trd lng="ru">&c_p;&c_o;&c_z;&c_i;&c_c;&c_i;&c_o;&c_n;&c_n;&c_a;&c_ja;
         <ind>&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;
         &c_s;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_i;&c_ja;</ind></trd>
       </ekz>
@@ -967,7 +1245,23 @@
       <ekz>
         la maniero <tld/>i po <frm>60</frm> sekundojn en minuto
         kaj po <frm>60</frm> minutojn en horo a&ubreve; grado estas
-        hereda&jcirc;o de la sesdekuma <tld/>osistemo &hcirc;aldea.
+        hereda&jcirc;o de la sesdekuma <tld/>osistemo &hcirc;aldea;
+      </ekz>
+      <ekz>
+        vi skribas pri miliardoj kaj bilionoj (da dolaroj) la&ubreve; du malsamaj <tld/>osistemoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Douglas Draper</aut>
+          <vrk><url ref="http://www.monato.net/2015/011568.php">Miliardo da pardonpetoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;Unu, du, tri ... multo!&#8221; &dash; preter tiu modesta <tld/>a sistemo ili ne kapablas progresi
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="http://www.monato.net/2015/011495.php">Dana abako dolorigas la kapon</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -996,11 +1290,18 @@
     <trd>&ccaron;&iacute;seln&aacute; soustava</trd>,
     <trd>&ccaron;&iacute;seln&yacute; syst&eacute;m</trd>
   </trdgrp>
+  <trd lng="de">Zahlensystem</trd>
   <trd lng="sk">&ccaron;&iacute;seln&aacute; s&uacute;stava</trd>
 </drv>
 </art>
 <!--
 $Log: nombr.xml,v $
+Revision 1.71  2018/01/13 20:10:14  revo
+Wolfram Diestel: prilaboris ekz-ojn (dua parto), germ trd-oj
+
+Revision 1.70  2018/01/13 19:10:32  revo
+Wolfram Diestel: prilaboris ekz-ojn (unua parto)
+
 Revision 1.69  2017/12/20 01:10:17  revo
 Michel Cantigneaux: "mez/o/nombr/o" fundamenta kunmetajxo el la U.V.
 
@@ -1017,11 +1318,5 @@ Revision 1.65  2014/10/03 11:10:26  revo
 Guillermo Molleda Jimena: trd es
 
 Revision 1.64  2012/09/29 12:10:09  revo
-Jeromo Vasxe: + ne~ebla
-
-Revision 1.63  2011/07/13 19:10:49  revo
-Sergio Pokrovskij: +ekz, kor rim
-
-Revision 1.62  2011/03/05 05:10:08  revo
 -->
 </vortaro>
