@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
 <vortaro>
-<art mrk="$Id: mov.xml,v 1.31 2015/09/18 13:10:17 revo Exp $">
+<art mrk="$Id: mov.xml,v 1.34 2018/01/07 10:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mov</rad>/i <fnt><bib>PV</bib></fnt>
@@ -16,6 +17,13 @@
         ni ne povis <tld/>i tiun pezan &scirc;tonon;
       </ekz>
       <ekz>
+        <tld/>u pli rapide la piedojn, por ke ni venu &gcirc;ustatempe
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Kamarado Gaja</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         <tld/>u nenion en la &ccirc;ambro;
       </ekz>
       <ekz>
@@ -25,10 +33,22 @@
         barko <tld/>ata de fortaj brakoj;
       </ekz>
       <ekz>
-        la &scirc;ipo sin <tld/>as per vaporo<fnt>Z</fnt>;
+        &scirc;ipo, kiu sin <tld/>as per vaporo
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 27</lok>
+        </fnt>;
       </ekz>
       <ekz>
         la luno sin <tld/>as sur la &ccirc;ielo;
+      </ekz>
+      <ekz>
+        starigataj en vicoj <klr>[&#8230;]</klr> tiel dense, ke ili ne povis
+        <tld/>i la brakojn
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Johan&ccirc;jo-malsa&gcirc;ulo</lok>
+        </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
@@ -42,7 +62,7 @@
     </dif>
     <trd lng="nl">verplaatsen</trd>
   </snc>
-  <snc mrk="mov.0i.transloki.parton">
+  <snc mrk="mov.0i.transloki_parton">
     <dif>
       &Scirc;an&gcirc;i la pozicion de io a&ubreve; de partoj de io rilate
       al fiksa punkto:
@@ -50,19 +70,44 @@
         <tld/>i la lipojn, la okulojn;
       </ekz>
       <ekz>
-        la vento <tld/>is la bran&ccirc;ojn<fnt>Z</fnt>;
+        <tld/>i la bu&scirc;on
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+     <ekz>
+        Marion sin ne <tld/>is
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        la saliko <tld/>is siajn bran&ccirc;ojn en la vento<fnt>Z</fnt>;
+        ili &ccirc;e la plej malgranda fluo de la akvo sin <tld/>as, kiel
+        vivaj esta&jcirc;oj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        vigle <tld/>adi siajn piedojn<fnt>Z</fnt>.
+        se la vento ne <tld/>us la bran&ccirc;ojn kaj la arbeta&jcirc;ojn, oni povus
+        preska&ubreve; kredi, ke ili estas pentritaj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vigle <tld/>adi siajn piedojn
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="mov.0eti"><tld/>eti</ref>
     </refgrp>
-    <trd lng="de">bewegen</trd>
     <trd lng="nl">bewegen</trd>
     <trd lng="ru">&c_sh;&c_je;&c_v;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
   </snc>
@@ -76,10 +121,6 @@
       </ekz>
     </dif>
   </snc>
-  <trdgrp lng="de">
-    <trd>antreiben</trd>
-  </trdgrp>
-  <trd lng="nl">doen <ind>bewegen</ind></trd>
   <snc mrk="mov.0i.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
@@ -107,7 +148,10 @@
     <trd>bellugar</trd>
   </trdgrp>
   <trd lng="cs">hnout</trd>
-  <trd lng="de">bewegen</trd>
+  <trdgrp lng="de">
+    <trd>bewegen</trd>
+    <trd>antreiben</trd>
+  </trdgrp>
   <trd lng="en">move</trd>
   <trdgrp lng="es">
     <trd>mover<klr> (tr.)</klr></trd>,
@@ -118,6 +162,7 @@
     <trd>d&eacute;placer</trd>,
     <trd>mouvoir</trd>
   </trdgrp>
+  <trd lng="nl">doen <ind>bewegen</ind></trd>
   <trd lng="oc">bolegar</trd>
   <trdgrp lng="pt">
     <trd>mover</trd>,
@@ -141,7 +186,50 @@
         la <tld/>oj de la korpo, de la brakoj;
       </ekz>
       <ekz>
-        <tld/>oplena strato<fnt>Z</fnt>;
+        &ccirc;e &ccirc;iu <tld/>o &scirc;ia beleco pli multe elmontri&gcirc;adis
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la unua <tld/>o, kiun faris lia mano, estis triangula <tld/>o 
+        de la dekstra flanko al la maldekstra kaj supren al la brusto
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fi&scirc;o &jcirc;etadis sin tien kaj reen kaj faradis la plej terurajn
+        <tld/>ojn
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Persista stana soldato</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        farinte kaptan <tld/>on per la bu&scirc;o
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malbela anasido</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        trafinte lokon, kie du mar<tld/>oj sin renkontas, ili surterigis
+        la &scirc;ipon,
+        kaj la anta&ubreve;o fiksi&gcirc;is kaj restis nemovebla, 
+        sed la malanta&ubreve;o rompi&gcirc;is de la forto de la ondoj. 
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 27:41</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oplena strato
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
@@ -184,13 +272,40 @@
     <dif>
       <tld lit="M"/>anta:
       <ekz>
-        <tld/>a forto<fnt>Z</fnt>
+        la <tld/>aj kapabloj fiksi&gcirc;as precipe en la profunda dormo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ivo Durwael</aut>
+          <vrk><url ref="http://www.monato.net/2012/010683.php">Dormu
+          bone, vivu bone</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la banlokoj oni kuracas malsanojn de la <tld/>a aparato
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="http://www.monato.net/2015/011372.php">Moderna
+          banloko</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        natura selektado estas la <tld/>a forto de evolucio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url
+          ref="http://www.monato.net/2009/009787.php">Supervivo de plej
+          ta&ubreve;ga teorio</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
   <trdgrp lng="de">
     <trd>antreibend</trd>,
-    <trd>Antriebs...</trd>
+    <trd>Antriebs-</trd>,
+    <trd>treibend</trd>,
+    <trd>bewegend</trd>
   </trdgrp>
   <trd lng="nl">bewegend</trd>
   <trdgrp lng="es">
@@ -209,9 +324,18 @@
   <kap><tld/>ado</kap>
   <snc>
     <dif>
-      Ago <tld/>i 2:
+      Ago <ref tip="vid"
+      cel="mov.0i.transloki_parton">movi<sncref/></ref>:
       <ekz>
-        re&ubreve;matismo malfaciligas al mi la <tld/>adon de la brako.
+        re&ubreve;matismo malfaciligas al mi la <tld/>adon de la brako;
+      </ekz>
+      <ekz>
+        &scirc;i faris <tld/>adon per &scirc;iaj okuloj, &ccirc;ar &scirc;ia nuko estis tro
+        rigida por tio
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Knabino, kiu pa&scirc;is sur panon</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -223,10 +347,26 @@
         akuzativo montras <tld/>adon al ia loko;
       </ekz>
       <ekz>
-        la strata <tld/>ado<fnt>B</fnt>;
+        vivo kaj <tld/>ado regis malsupre sur la strato
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>La ombro</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        en la urbo ili trovis ne malpli grandan <tld/>adon<fnt>Z</fnt>;
+        estis granda <tld/>ado en la tuta &ccirc;irka&ubreve;a&jcirc;o
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#8230;]</klr> &ccirc;iun nova&jcirc;on pri la <tld/>ado de la egiptaj 
+        armeoj kaj pri la situacio de la malamiko signis sur karto
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
       </ekz>
       <ekz>
         la <tld/>ado de la &scirc;ipo estis tre malrapida.
@@ -239,12 +379,36 @@
     <dif>
       Tuto de la agado de iu organizo por atingi difinitan celon:
       <ekz>
-        politika, esperantista <tld/>ado.
+        politika <tld/>ado;
+      </ekz>
+      <ekz>
+        la <tld/>ado esperantista
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ne volas malutili al nia <tld/>ado
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvina Kongreso Esperantista en
+          Barcelona en la 6a de septembro 1909</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nia <tld/>ado ne estas oficiale ligita kun ia speciala idealo
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la malferma kunveno de UEA &ccirc;e la Kvina
+          Kongreso Esperantista en Barcelona en la 7a de septembro
+          1909</vrk>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_u;&c_h;</trd>
   <trd lng="cs">hnut&iacute;</trd>
+  <trd lng="de">Bewegung</trd>
   <trd lng="en">movement</trd>
   <trdgrp lng="es">
     <trd>desplazamiento</trd>,
@@ -276,6 +440,16 @@
           ref="http://pola-retradio.org/2014/04/e_elsendo-el-la-22-04-2014/">
           E_elsendo el la 22.04.2014</url></vrk>,
           <lok>Pola RetRadio, 2014-04-22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li, 73-jara kuracisto, preferas verki ol <tld/>adumi
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url
+          ref="http://www.monato.net/2008/009455.php">Mezepokaj
+          sekret(igit)aj sonetoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -289,7 +463,33 @@
       Ne fiksita, kiu povas esti <tld/>ata:
       <ekz>
         vi havas &ccirc;i tie dormo&ccirc;ambron kun <tld/>ebla tegmento
-        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 9a</lok></fnt>.
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 9a</lok></fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu pordo havis du fermoplatojn, kiuj amba&ubreve; estis <tld/>eblaj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 41:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>eblaj &scirc;tuparetoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Aldo Grassini</aut>
+          <vrk><url ref="http://www.monato.net/2006/008997.php">Arto
+          videbla anka&ubreve; por blinduloj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la grandaj EU-&scirc;tatoj favoris koncepton de rapidege <tld/>eblaj
+        trupoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marko Naoki Lins</aut>
+          <vrk><url ref="http://www.monato.net/2005/008516.php">&Ccirc;u
+          E&ubreve;ropa Unio fari&gcirc;as militema?</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -332,7 +532,31 @@
     <refgrp tip="vid">
       <ref cel="mov.ne0eblajxo.JUR">ne<tld/>ebla&jcirc;o</ref>
     </refgrp>
+    <trd lng="de">Mobilie</trd>
   </snc>
+  <snc mrk="mov.0eblajxo.artajxo">
+    <dif>
+      Arta aran&gcirc;o de malpezaj solidaj pecoj kiel balancilo &ccirc;e fadenoj,
+      tiel,
+      ke ili facile movi&gcirc;as en venteto, ofte instalitaj &ccirc;eplafone a&ubreve; &ccirc;e
+      pordo:
+      <ekz>
+        Alexander Calder <klr>[&#8230;]</klr> fami&gcirc;is kiel inventisto a&ubreve;
+        popularigisto de la <tld/>ebla&jcirc;oj kiel arta figuro
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=430581">Alexander
+          Calder</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Unruhe</trd>,
+      <trd>Mobile</trd>
+    </trdgrp>
+  </snc>
+
   <trdgrp lng="be">
     <trd>&c_r;&c_u;&c_h;&c_o;&c_m;&c_a;&c_ja; &c_m;&c_a;&c_jo;&c_m;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_r;&c_u;&c_h;&c_o;&c_m;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
@@ -357,7 +581,56 @@
       <tld lit="M"/>i nur iom, nur parteton:
       <ekz>
         li <tld/>etis en la dormado la kapon
-        <fnt><bib>Fab2</bib>, <lok>dano Holger</lok></fnt>.
+        <fnt><bib>Fab2</bib>, <lok>dano Holger</lok></fnt>;
+      </ekz>
+      <ekz>
+        la voston &scirc;i <tld/>etis kvaza&ubreve; metronome dum &scirc;i parolis
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url
+          ref="http://www.esperanto.be/fel/2003/007991.html">Espero</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li rimarkis varmon &ccirc;e la femuroj, pro kiu li <tld/>etis la
+        aparaton de 
+        tempo al tempo, sed la dama&gcirc;on al siaj generiloj li rimarkis nur
+        
+        la sekvan tagon, kiam komencis aperi doloraj vezikoj,
+        
+        kiuj poste
+        infekti&gcirc;is
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Edmund Grimley Evans</aut>
+          <vrk><url
+          ref="http://www.esperanto.be/fel/2003/008166.html">Tekokomputilo
+          vundas scienciston</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pordokurteno <klr>[&#8230;]</klr> <tld/>eti&gcirc;is
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nebulnuba&jcirc;oj <tld/>eti&gcirc;is super ili
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Pramaljuna Morlino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        junte <tld/>i&gcirc;eti
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Wim Jansen</aut>
+          <vrk><url
+          ref="http://steloj.de/esperanto/monato2/006827.html">Reago De
+          &Gcirc;ermano: La germana kaj Esperanto</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -419,23 +692,50 @@
         mi ne kura&gcirc;is <tld/>i&gcirc;i<fnt>B</fnt>;
       </ekz>
       <ekz>
-        ne <tld/>i&gcirc;i de la se&gcirc;o<fnt>B</fnt>;
+        la kompatinda maljunulino <tld/>i&gcirc;is sur la se&gcirc;o
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        nenia venteto <tld/>i&gcirc;is<fnt>Z</fnt>;
+        nenia venteto <tld/>i&gcirc;is
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de la jaro</lok>
+        </fnt>
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Dekdu per la po&scirc;to</lok>
+        </fnt>;
       </ekz>
       <ekz>
         la boato balanci&gcirc;as, &gcirc;i tamen ne <tld/>i&gcirc;as de sia
-        loko<fnt>Z</fnt>;
+        loko
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        la Izraelidoj el<tld/>i&gcirc;is el la dezerto<fnt>Z</fnt>;
+        la Izraelidoj el<tld/>i&gcirc;is el la dezerto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 17:1</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        neregula <tld/>i&gcirc;ado de la kandela flamo<fnt>Z</fnt>;
+        neregula <tld/>i&gcirc;ado de la kandela flamo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Dano Holger</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        la folioj de la arboj<fnt>Z</fnt>,
+        la bran&ccirc;oj de la arboj <tld/>i&gcirc;is
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Dio de dormo</lok>
+        </fnt>;
       </ekz>
       <ekz>
         la plumoj de lia bireto <tld/>i&gcirc;adis<fnt>Z</fnt>;
@@ -453,12 +753,20 @@
     <dif>
       Ne resti en la anta&ubreve;a stato:
       <ekz>
-        en lia koro <tld/>i&gcirc;is poetaj pensoj<fnt>Z</fnt>.
+        en lia koro <tld/>i&gcirc;is poetaj pensoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_u;&c_h;&c_a;&c_c;&c_c;&c_a;</trd>
   <trd lng="ca">moure's</trd>
+  <trdgrp lng="de">
+    <trd>sich <ind>bewegen</ind></trd>,
+    <trd><ind>bewegt</ind> werden</trd>
+  </trdgrp>
   <trd lng="en">move</trd>
   <trdgrp lng="es">
     <trd><ind>mover</ind>se<klr> (intr.)</klr></trd>,
@@ -482,10 +790,17 @@
     <dif>
       Volonte a&ubreve; facile <tld/>i&gcirc;anta:
       <ekz>
-        pintoj <tld/>i&gcirc;emaj de l' arbareto<fnt>Z</fnt>;
+        pintoj <tld/>i&gcirc;emaj de l' arbareto
+        <fnt>
+          <bib>Ifigenio</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i&gcirc;emo de karaktero<fnt>B</fnt>.
+        <tld/>i&gcirc;emo de lia karaktero
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -494,6 +809,7 @@
     <trd>&c_r;&c_u;&c_h;&c_a;&c_v;&c_y;</trd>,
     <trd>&c_zh;&c_v;&c_a;&c_v;&c_y;</trd>
   </trdgrp>
+  <trd lng="de">beweglich</trd>
   <trdgrp lng="es">
     <trd>fluctuante</trd>,
     <trd>m&oacute;vil</trd>
@@ -510,7 +826,7 @@
 </drv>
 
 <drv mrk="mov.0ilo">
-  <kap><tld/>ilo<fnt>Z</fnt></kap>
+  <kap><tld/>ilo</kap>
   <snc mrk="mov.0ilo.KOMUNE">
     <dif>
       Aparato a&ubreve; rimedo por <tld/>i ion:
@@ -538,8 +854,9 @@
         moralecon
         <fnt>
         <aut>Helvecio</aut>,
-        <vrk><url ref="http://free-zg.t-com.hr/cdm-hr/helvetio.htm"
-        >Elektitaj pensoj</url></vrk>
+        <vrk><url
+        ref="http://free-zg.t-com.hr/cdm-hr/helvetio.htm">Elektitaj
+        pensoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -553,6 +870,10 @@
     <trd>pohon</trd>,
     <trd>p&aacute;&ccaron;ka</trd>,
     <trd>&scaron;oup&ecaron;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Motor</trd>,
+    <trd>Treiber</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>movement mechanism</trd>
@@ -601,9 +922,26 @@
       Eli&gcirc;i kaj foriri de:
       <ekz>
         la popolo el<tld/>i&gcirc;is el siaj tendoj, por transiri Jordanon
-        <fnt><bib>MT</bib>, <lok>&Jos; 3:14</lok></fnt>.
+        <fnt><bib>MT</bib>, <lok>&Jos; 3:14</lok></fnt>;
+      </ekz>
+      <ekz>
+        kiam vi trumpetos tambursone duan fojon, tiam el<tld/>i&gcirc;u la
+        tendaroj, kiuj staras sude 
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 10:6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la re&gcirc;o de Asirio, el<tld/>i&gcirc;is kaj iris kaj rehejmi&gcirc;is kaj
+        restis en Nineve
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Re&gcirc;oj 19:36</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <trd lng="de">ausziehen</trd>
   </snc>
   <trdgrp lng="en">
     <trd>exit</trd>,
@@ -637,6 +975,12 @@
           <vrk><url ref="https://eo.wikisource.org/wiki/Avineto/V.">
           Avineto</url></vrk>,
           <lok>[sen dato]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        facil<tld/>ebla sa&gcirc;o
+        <fnt>
+          <bib>Ifigenio</bib>
         </fnt>.
       </ekz>
     </dif>
@@ -685,12 +1029,45 @@
       <ekz>
         li proprietis imponan ri&ccirc;on el ne<tld/>ebla&jcirc;oj
         <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u li bremsis 
-        sufi&ccirc;e?</vrk>, <lok>1979</lok></fnt>.
+        sufi&ccirc;e?</vrk>, <lok>1979</lok></fnt>;
+      </ekz>
+      <ekz>
+        se temas pri grandaj sumoj a&ubreve; ne<tld/>ebla&jcirc;oj, aplikeblas
+        administraj, fiskaj kaj juraj proceduroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url
+          ref="http://www.monato.net/2005/008594.php">Transnacie
+          bonfari</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        entreprenoj specialigitaj en negoco de ne<tld/>ebla&jcirc;oj 
+        a&ccirc;etas terpecojn kaj memstare konstruas kaj vendas novajn domojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mu Binghua</aut>
+          <vrk><url
+          ref="http://www.monato.net/2007/009219.php">Eksterlandaj
+            investantoj rapide a&ccirc;etas nemovebla&jcirc;ojn</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Albanio altiris intereson de eksterlandanoj, kiuj volis a&ccirc;eti
+        ne<tld/>ebla&jcirc;ojn, interalie apartamentojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="http://www.monato.net/2008/009497.php">Anka&ubreve;
+          eksterlandanoj a&ccirc;etas domojn</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="mov.0eblajxo.JUR"><tld/>ebla&jcirc;o</ref>
     </refgrp>
+    <trd lng="de">Immobilie</trd>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_r;&c_u;&c_h;&c_o;&c_m;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="en">real property</trd>
@@ -715,10 +1092,24 @@
           ref="http://www.angelfire.com/ok/stenjo/avangard.html">
           Portreto de la avangardo</url></vrk>,
           <lok>[vidita en 2014]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la gepatroj atentu, ke ili ne tro la&ubreve;du siajn silentajn,
+        ne<tld/>i&gcirc;emajn kaj bonkondutajn etulojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Saliko</aut>
+          <vrk><url ref="http://www.monato.net/2009/009812.php">&Gcirc;ui
+          simplajn &scirc;atokupojn sub&ccirc;iele</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="de">
+    <trd>Tr&auml;gheit</trd>,
+    <trd>Faulheit</trd>
+  </trdgrp>
   <trd lng="es">inmovilismo</trd>
   <trd lng="fr">immobilisme</trd>
 </drv>
@@ -729,13 +1120,14 @@
     <dif>
       Per propra forto, interna impulso:
       <ekz>
-        ili venis al la fera pordego, kiu kondukas en la urbon; kaj &gcirc;i
+        ili venis al la fera pordego, kiu kondukas en la urbon, kaj &gcirc;i
         malfermi&gcirc;is al ili propra<tld/>e
         <fnt><bib>NT</bib>, <lok>&Ago; 12:10</lok></fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="cs">samo&ccaron;inn&ecaron;</trd>
+  <trd lng="de">selbstt&auml;tig</trd>
   <trdgrp lng="en">
     <trd>of one's own accord</trd>,
     <trd>spontaneously</trd>
@@ -766,6 +1158,15 @@
           ref="http://wikilivres.ca/wiki/En_%C4%88inio_Batalanta">
           En &Ccirc;inio Batalanta</url></vrk>, 
           <lok>1954</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> estas tre nekredeble lertaj kaj
+        rapid<tld/>aj kaj kapablas &scirc;an&gcirc;i sian direkton meze de salto
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>Fantaziujo en Dan&gcirc;ero</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -775,6 +1176,7 @@
     <trd>mr&scaron;tn&yacute;</trd>,
     <trd>svi&zcaron;n&yacute;</trd>
   </trdgrp>
+  <trd lng="de">schnell <klr>(Bewegung)</klr></trd>
   <trdgrp lng="es">
     <trd>pronta</trd>,
     <trd>&aacute;gil<klr> (con movimiento r&aacute;pido)</klr></trd>
@@ -798,6 +1200,21 @@
         li restis sen<tld/>e;
       </ekz>
       <ekz>
+        la orgenisto staris sen<tld/>a, por kredigi al la junulo, ke tio
+        estas fantomo
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Fabelo pri iu, kiu migris por ekkoni timon</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kio turnas ilin, la aero ja estas sen<tld/>a
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Sesope oni trairas la tutan mondon</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         akvon sen<tld/>an kovras putra&jcirc;o
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
@@ -815,6 +1232,11 @@
     <trd>bez hnut&iacute; <klr>(adj.)</klr></trd>,
     <trd>nehybn&yacute;</trd>,
     <trd>stojat&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>unbeweglich</trd>,
+    <trd>bewegungslos</trd>,
+    <trd>still <klr>(stehen)</klr></trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>immobile</trd>,
@@ -843,7 +1265,23 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="mov.sen0igi.KOMUNE">
     <dif>
-      Igi sen<tld/>a.
+      Igi sen<tld/>a:
+      <ekz>
+        tremo trapenetris min kaj sen<tld/>igis
+        <fnt>
+          <bib>FdO</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj obstine insistas, persistas, en kolektiva strebado
+        sen<tld/>igi sian predon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Eduardo Novembro</aut>
+          <vrk><url ref="http://www.monato.net/2014/011318.php">Ta&ubreve;ro???
+          Festo!!!</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="halt.0igi">haltigi</ref>,
@@ -852,6 +1290,10 @@
   </snc>
   <trd lng="be">&c_s;&c_p;&c_y;&c_n;&c_ib;&c_c;&c_mol;</trd>
   <trd lng="cs">zarazit</trd>
+  <trdgrp lng="de">
+    <trd>anhalten</trd>,
+    <trd>l&auml;hmen</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>immobilize</trd>,
     <trd>paralize</trd>
@@ -867,13 +1309,21 @@
     <trd>paralyseren</trd>,
     <trd>verlammen</trd>
   </trdgrp>
-  <trd
-  lng="ru">&c_o;&c_b;&c_je;&c_z;&c_d;&c_v;&c_i;&c_zh;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="ru">&c_o;&c_b;&c_je;&c_z;&c_d;&c_v;&c_i;&c_zh;&c_i;&c_t;&c_mol;</trd>
   <trd lng="sk">znehybni&tcaron;</trd>
 </drv>
 </art>
 <!--
 $Log: mov.xml,v $
+Revision 1.34  2018/01/07 10:10:13  revo
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.33  2018/01/06 14:10:12  revo
+Wolfram Diestel: prilaboris ekz-ojn, germ trd (dua parto)
+
+Revision 1.32  2018/01/05 23:10:16  revo
+Wolfram Diestel: prilaboris ekz-ojn, germ trd-ojn (unua duono)
+
 Revision 1.31  2015/09/18 13:10:17  revo
 Jeromo Vasxe: + facil~a
 
@@ -887,14 +1337,5 @@ Revision 1.28  2014/12/15 21:10:19  revo
 Jeromo Vasxe: + ~adumi
 
 Revision 1.27  2014/08/12 15:10:11  revo
-Guillermo Molleda Jimena: Hispana tradukado
-
-Revision 1.26  2014/02/07 02:10:16  revo
-Jeromo Vasxe: + ne~igxemo
-
-Revision 1.25  2013/12/21 02:10:13  revo
-Jeromo Vasxe: + ne~eblajxo
-
-Revision 1.24  2013/10/13 17:10:13  revo
 -->
 </vortaro>
