@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kadrat.xml,v 1.16 2015/10/07 13:10:16 revo Exp $">
+<art mrk="$Id: kadrat.xml,v 1.17 2018/01/16 18:10:18 revo Exp $">
 <kap>
    <rad>kadrat</rad>/o
 </kap>
@@ -35,6 +35,8 @@
      <trd>kwadraat<klr tip="ind"> (boekdruk)</klr></trd>
    </trdgrp>
   <trd lng="pt">quadrado <klr tip="amb">(tip.)</klr></trd>
+  <trd lng="pl">justunek</trd>
+  <trd lng="ro">justificare</trd>
   <trdgrp lng="ru">
      <trd>&c_b;&c_a;&c_b;&c_a;&c_sh;&c_k;&c_a;</trd>,
      <trd>&c_m;&c_a;&c_r;&c_z;&c_a;&c_n;</trd>,
@@ -64,10 +66,14 @@
    <trd lng="hu">kis <ind>kvadr&aacute;t</ind> <klr 
 tip="ind">(nyomd&aacute;szat)</klr></trd>
    <trd lng="nl">reglet<klr tip="ind"> (boekdruk)</klr></trd>
+   <trd lng="pl">kwadrat <klr>(czcionka)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: kadrat.xml,v $
+Revision 1.17  2018/01/16 18:10:18  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.16  2015/10/07 13:10:16  revo
 Cindy Moon McKee: +trd en
 
@@ -87,8 +93,5 @@ Revision 1.11  2009/08/23 16:32:12  revo
 Paul Peeraerts: korekto en nl
 
 Revision 1.10  2007/07/08 16:30:30  revo
-Harri Laine: +trd fi
-
-Revision 1.9  2006/09/16 16:31:10  revo
 -->
 </vortaro>

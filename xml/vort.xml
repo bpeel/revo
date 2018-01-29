@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vort.xml,v 1.104 2018/01/14 16:10:15 revo Exp $">
+<art mrk="$Id: vort.xml,v 1.106 2018/01/16 18:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vort</rad>/o <fnt><bib>PV</bib></fnt>
@@ -546,6 +546,24 @@
     <trd>vyslovi&tcaron;</trd>
   </trdgrp>
 </drv>
+
+  <drv mrk="vort.ne0igebla">
+    <kap>ne<tld/>igebla</kap>
+    <snc mrk="vort.ne0igebla.KOMUNE">
+      <dif>
+        Tia, ke oni ne povas esprimi &gcirc;in per <tld/>oj:
+        <ekz>
+         la nevortigeblaj &gcirc;ojo kaj doloro de lia interno
+         <fnt><aut>Stellan Engholm</aut>: <vrk>Al Torento</vrk>,
+         <lok>&ccirc;apitro IV, 1930</lok></fnt>.
+      </ekz>
+      </dif>
+    </snc>
+    <trdgrp lng="fr">
+     <trd>informulable</trd>
+     <trd>inexprimable</trd>
+    </trdgrp> 
+  </drv>
 
 <drv mrk="vort.0umi">
   <kap><tld/>umi</kap>
@@ -1133,7 +1151,13 @@
       Sen paroloj, silente, ne donante atendatan respondon:
       <ekz>
         li sen<tld/>e obeis
-        <fnt><bib>FK</bib>, <lok>4, rakontoj, Arturo</lok></fnt>.
+        <fnt><bib>FK</bib>, <lok>4, rakontoj, Arturo</lok></fnt>;
+      </ekz>
+      <ekz>
+       Lipoj ridas, okuloj briletas kaj ser&ccirc;adas, demandas senvorte,
+       respondas senvorte
+       <fnt><aut>Stellan Engholm</aut>: <vrk>Al Torento</vrk>,
+       <lok>&ccirc;apitro IV, 1930</lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -1703,6 +1727,12 @@
 </art>
 <!--
 $Log: vort.xml,v $
+Revision 1.106  2018/01/16 18:10:17  revo
+Michel Cantigneaux: fonto por senvorte
+
+Revision 1.105  2018/01/16 16:10:15  revo
+Michel Cantigneaux: aldono de nevortigebla + fonto + trd-fr
+
 Revision 1.104  2018/01/14 16:10:15  revo
 Wolfram Diestel: kor. mrk
 
@@ -1719,11 +1749,5 @@ Revision 1.100  2016/09/03 16:10:13  revo
 Wolfram Diestel: plibonigo de la arangho
 
 Revision 1.99  2015/11/06 21:10:19  revo
-Jeromo Vasxe: + ~umi/umo
-
-Revision 1.98  2015/07/04 08:37:46  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.97  2015/06/28 12:03:50  revo
 -->
 </vortaro>

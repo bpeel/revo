@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dis.xml,v 1.36 2017/12/29 00:10:19 revo Exp $">
+<art mrk="$Id: dis.xml,v 1.37 2018/01/16 15:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>dis</rad> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -250,6 +250,11 @@
           <fnt><bib>MT</bib>, <lok>&Psa; 89:39</lok></fnt>;
         </ekz>
         <ekz>
+      tiu doloro, kiu samtempe disigis kaj kunligis ilin
+    <fnt><aut>Stellan Engholm</aut>: <vrk>Al Torento</vrk>, <lok>&ccirc;apitro
+    IV, 1930</lok></fnt>;
+        </ekz>        
+        <ekz>
           fremdaj elementoj <tld/>igis la socion<fnt>B</fnt>;
         </ekz>
         <ekz>
@@ -408,6 +413,9 @@
 </art>
 <!--
 $Log: dis.xml,v $
+Revision 1.37  2018/01/16 15:10:18  revo
+Michel Cantigneaux: fonto por disigi
+
 Revision 1.36  2017/12/29 00:10:19  revo
 Vito Redsky: kor trd pl
 
@@ -427,8 +435,5 @@ Revision 1.31  2015/03/26 23:10:16  revo
 Jeromo Vasxe: + ne~igebla
 
 Revision 1.30  2014/02/04 17:10:13  revo
-Damien Brucker: +kap
-
-Revision 1.29  2009/06/19 05:09:26  revo
 -->
 </vortaro>
