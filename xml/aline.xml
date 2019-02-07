@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: aline.xml,v 1.23 2017/12/21 16:10:18 revo Exp $">
+  <art mrk="$Id: aline.xml,v 1.24 2019/01/25 05:10:14 revo Exp $">
     <kap>
       <ofc>2</ofc>
       <rad>aline</rad>/o
@@ -16,6 +16,9 @@
           pensan, pli granda ol frazo kaj malpli granda ol &ccirc;apitro a&ubreve;
           sekcio, apartigita per speciala liniaran&gcirc;o:
 	  <ekz>
+            En <ctl>Vortaro de Esperanto</ctl> &ccirc;iu radiko havas sian
+            <tld/>on<fnt><bib>VdE</bib></fnt>;
+	  </ekz><ekz>
 	    du <tld/>ojn li tradukis diligente
             <fnt><aut>Istv&aacute;n Ertl</aut>:
 	      <vrk>Jarmil&scirc;an&gcirc;o</vrk>,
@@ -89,6 +92,9 @@
   </art>
   <!--
   $Log: aline.xml,v $
+  Revision 1.24  2019/01/25 05:10:14  revo
+  Sergio Pokrovskij: +VdE-ekz
+
   Revision 1.23  2017/12/21 16:10:18  revo
   Michel Cantigneaux: korekteto
 
