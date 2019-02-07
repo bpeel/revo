@@ -2,9 +2,9 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: po1.xml,v 1.15 2017/04/23 11:10:12 revo Exp $">
+<art mrk="$Id: po1.xml,v 1.16 2018/11/14 13:10:15 revo Exp $">
 <kap>
-    <ofc>*</ofc><rad>po</rad>
+    <ofc>*</ofc><ofc>7</ofc><rad>po</rad>
 </kap>
 <drv mrk="po1.0.konsonanto">
   <kap><tld/></kap> 
@@ -68,11 +68,15 @@
 
 <!--
 $Log: po1.xml,v $
+Revision 1.16  2018/11/14 13:10:15  revo
+Michel Cantigneaux: mi plibonigis la aldonajn indikilojn
+
 Revision 1.15  2017/04/23 11:10:12  revo
 Wolfram Diestel: po kiel liternomo, ne signo
 
 Revision 1.14  2016/06/13 18:10:17  revo
-Damien Brucker: reverko al primitiva formo por simili al tiu de la aliaj literoj
+Damien Brucker: reverko al primitiva formo por simili al tiu de la aliaj
+literoj
 
 Revision 1.13  2015/07/04 08:37:41  revo
 aldono de trd cs per skripto de M. von Laer

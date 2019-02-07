@@ -2,14 +2,52 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: agend.xml,v 1.11 2015/09/23 07:10:15 revo Exp $">
+<art mrk="$Id: agend.xml,v 1.12 2018/10/27 10:10:21 revo Exp $">
   <kap><rad>agend</rad>/o<fnt>Z</fnt></kap>
 
 <drv mrk="agend.0o">
   <kap><tld/>o</kap>
   <snc>
     <dif>
-      Kajero en kiu oni notas la&ubreve; &ccirc;iu tago la farotajn  aferojn.
+      <ref tip="super" cel="regist.0o.dokumento">Registro</ref>
+      de la farenda&jcirc;oj:
+      <ekz>
+        tiu libro estis siatempe furore akceptata, kiel proponata <tld/>o por socia reformo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="http://www.monato.net/2005/008649.php">Utopia verko dekna&ubreve;jarcenta</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la nombro de individuoj kun dekstremaj vidpunktoj kaj <tld/>oj &scirc;ajnas kreski
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ionel Onet</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007036.html">Ekstremismo:
+         Pri kaldronoj kaj potoj: &ccirc;u amba&ubreve; kotaj?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi povas per <klr>[po&scirc;telefono]</klr> telefoni, krozi en Interreto, 
+        kontroli vian retpo&scirc;ton, sendi tekstomesa&gcirc;ojn <klr>[&#8230;]</klr> kontroli 
+        vian <tld/>on, a&ubreve;skulti vian &scirc;atatan muzikon, rigardi filmojn, kaj kaj kaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Pa&ubreve;l Peeraerts</aut>
+          <vrk><url ref="http://www.monato.net/2008/009612.php">Inteligenta po&scirc;amiko</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lokaj administradestroj kaj politikistoj, kiuj kune cerbumis por
+        provi respekti la <tld lit="A"/>o-21-kontrakton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>&Jcirc;anin Ratu&scirc;njak</aut>
+          <vrk><url ref="http://www.monato.net/2010/009980.php">Senpaga 
+          transporto danke al lo&gcirc;antarkonscii&gcirc;o</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -25,10 +63,10 @@
     <trd>z&aacute;pisn&iacute;k</trd>
   </trdgrp>
   <trdgrp lng="de">
-     <trd>Terminkalender</trd>,
-     <trd>Kalender</trd>,
-     <trd>Vormerkbuch</trd>,
-     <trd>Vormerkkalender</trd>
+    <trd>Agenda</trd>,
+    <trd>Todo-Liste</trd>,
+    <trd>Programm</trd>,
+    <trd>Tagesordnung</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>memorandum book</trd>,
@@ -62,6 +100,9 @@
 </art>
 <!--
 $Log: agend.xml,v $
+Revision 1.12  2018/10/27 10:10:21  revo
+Wolfram Diestel: dif lau fakta uzo, +ekz-oj, adaptis germanajn trd-ojn
+
 Revision 1.11  2015/09/23 07:10:15  revo
 Sebastian Cyprych: +trd pl
 
@@ -81,8 +122,5 @@ Revision 1.6  2003/05/17 16:32:04  revo
 Viliam Bur: +trd sk
 
 Revision 1.5  2002/12/16 17:31:30  revo
-Ulrich Fellmann: + 1 plia trd = de + 1 plia trd = en
-
-Revision 1.4  2002/10/30 18:37:29  revo
 -->
 </vortaro>

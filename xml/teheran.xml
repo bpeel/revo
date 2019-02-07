@@ -2,14 +2,16 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: teheran.xml,v 1.4 2015/07/04 08:37:44 revo Exp $">
+<art mrk="$Id: teheran.xml,v 1.5 2018/10/01 06:10:16 revo Exp $">
 <kap>
     <rad>Teheran</rad>/o, 
     <var><kap>Tehrano</kap></var>
     <fnt><bib>PIV2</bib></fnt>
 </kap>
 <drv mrk="teheran.0o">
-  <kap><tld/>o</kap>
+  <kap><tld/>o,
+   <var><kap>Tehrano</kap></var>
+  </kap>
   <snc mrk="teheran.0o.cxefurbo">
     <uzo tip="fak">GEOG</uzo>
     <uzo tip="fak">POL</uzo>
@@ -36,15 +38,18 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="cs">Teherán</trd>
+  <trd lng="cs">Teher&aacute;n</trd>
   <trd lng="de">Teheran</trd>
   <trd lng="fr">T&eacute;h&eacute;ran</trd>
-  <trd lng="sk">Teherán</trd>
+  <trd lng="sk">Teher&aacute;n</trd>
 </drv>
 </art>
 
 <!--
 $Log: teheran.xml,v $
+Revision 1.5  2018/10/01 06:10:16  revo
+Wolfram Diestel: + drv/var
+
 Revision 1.4  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 

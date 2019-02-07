@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ebl.xml,v 1.41 2017/12/19 16:10:14 revo Exp $">
+<art mrk="$Id: ebl.xml,v 1.42 2018/06/27 11:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   -<rad>ebl</rad>/
@@ -131,6 +131,27 @@
     <trd lng="ru">&c_v;&c_o;&c_z;&c_m;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>
     <trd lng="sk">mo&zcaron;n&yacute;</trd>
     <trd lng="sv">m&ouml;jlig</trd>
+  </drv>
+
+  <drv mrk="ebl.0i">
+    <kap><tld/>i</kap>
+    <snc>
+      <dif>
+        Esti ebla:
+        <ekz>
+          fu&gcirc;o ne plu <tld/>is
+          <fnt>
+            <bib>Mortul&Scirc;ip</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          malsaton <tld/>as pli malpli elporti, sed soifon ne
+          <fnt><bib>Gerda</bib>, <lok>&ccirc;apitro 18a</lok></fnt>.
+        </ekz>
+      </dif>
+    </snc>
+    <trd lng="en">be possible</trd>
+    <trd lng="nl">mogelijk zijn</trd>
   </drv>
 
   <drv mrk="ebl.0igi">
@@ -426,6 +447,9 @@
 </art>
 <!--
 $Log: ebl.xml,v $
+Revision 1.42  2018/06/27 11:10:16  revo
+Robin van der Vliet: +ebli
+
 Revision 1.41  2017/12/19 16:10:14  revo
 Michel Cantigneaux: "ebl/e" fundamenta kunmetajxo el la U.V.
 
@@ -445,8 +469,5 @@ Revision 1.36  2014/04/08 03:10:11  revo
 Sergio Pokrovskij: +ekz
 
 Revision 1.35  2014/02/05 10:10:16  revo
-Damien Brucker: +kap
-
-Revision 1.34  2013/10/12 01:10:23  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kris.xml,v 1.4 2015/07/04 08:37:38 revo Exp $">
+<art mrk="$Id: kris.xml,v 1.5 2018/09/27 22:10:23 revo Exp $">
 <kap>
   <rad>kris</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -23,12 +23,17 @@
   <trd lng="cs">kris</trd>
   <trd lng="de">Kris</trd>
   <trd lng="fr">kriss</trd>
+  <trd lng="pl">kris</trd>     
+  <trd lng="ro">pumnal malaiez</trd>
   <trd lng="sk">kris</trd>
 </drv>
 </art>
 
 <!--
 $Log: kris.xml,v $
+Revision 1.5  2018/09/27 22:10:23  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.4  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 

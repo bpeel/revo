@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kut.xml,v 1.4 2015/07/04 08:37:38 revo Exp $">
+<art mrk="$Id: kut.xml,v 1.5 2018/10/20 18:10:15 revo Exp $">
 <kap>
   <rad>kut</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -25,7 +25,9 @@
   </snc>
   <trd lng="cs">kutna</trd>
   <trd lng="fr">cotte</trd>
-  <trd lng="sk">kutňa</trd>
+  <trd lng="pl">habit</trd>     
+  <trd lng="ro">obicei</trd>
+  <trd lng="sk">kut&ncaron;a</trd>
 </drv>
 
 <drv mrk="kut.masx0x">
@@ -47,11 +49,19 @@
       </fnt>.
     </ekz>
   </snc>
+  <trdgrp lng="pl">
+    <trd>kolczuga</trd>,
+    <trd>misiurka</trd>
+  </trdgrp>   
+  <trd lng="ro">plato&#537;&abreve;</trd>
 </drv>
 </art>
 
 <!--
 $Log: kut.xml,v $
+Revision 1.5  2018/10/20 18:10:15  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.4  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 

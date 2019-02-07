@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: auxtor1.xml,v 1.25 2015/09/29 11:10:17 revo Exp $">
+<art mrk="$Id: auxtor1.xml,v 1.27 2018/09/02 23:10:14 revo Exp $">
 <kap>
-  <ofc>*</ofc><ofc>1</ofc>
+  <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
   <rad>a&ubreve;toritat</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 
@@ -46,7 +46,7 @@
 </snc>
 <snc mrk="auxtor1.0o.potenco">
   <dif>
-  <ref tip="sin" cel="potenc.0o.JUR.POL">Potenco</ref>:
+  <ref tip="sin" cel="potenc.0o.JUR_POL">Potenco</ref>:
   <ekz>
     kaj li donis al ili <tld/>on super malpuraj spiritoj
     <fnt><bib>NT</bib>: <lok>&Mar; 6:7.</lok></fnt>;
@@ -238,6 +238,12 @@
 
 <!--
 $Log: auxtor1.xml,v $
+Revision 1.27  2018/09/02 23:10:14  revo
+Michel Cantigneaux: teknika ripareto de indikiloj
+
+Revision 1.26  2018/03/12 12:10:15  revo
+Damien Brucker: -eraro cxe cel en ref
+
 Revision 1.25  2015/09/29 11:10:17  revo
 Evandro Avellar: +trd pt
 
@@ -254,12 +260,6 @@ Revision 1.21  2010/09/02 16:30:28  revo
 Jeromo Vasxe: - kramp
 
 Revision 1.20  2007/02/26 17:30:28  revo
-Wieland Pusch: +trd de
-
-Revision 1.19  2005/02/26 17:31:39  revo
-Alan ar Gall: +trd br
-
-
 -->
 
 </vortaro>

@@ -18,6 +18,8 @@
      licenco GPL 2.0
 -->
 
+<xsl:include href="inc/inx_kodigo.inc"/>
+
 <xsl:output method="@format@" encoding="utf-8"/>
 <xsl:strip-space elements="t t1 k"/>
 
@@ -26,6 +28,8 @@
 <xsl:variable name="lingvoj"><xsl:value-of select="concat($agordo-pado,'/lingvoj.xml')"/></xsl:variable>
 <xsl:variable name="fakoj"><xsl:value-of select="concat($agordo-pado,'/fakoj.xml')"/></xsl:variable>
 <xsl:variable name="enhavo"><xsl:value-of select="concat($agordo-pado,'/enhavo.xml')"/></xsl:variable>
+<xsl:variable name="klasoj"><xsl:value-of
+select="concat($agordo-pado,'/klasoj.xml')"/></xsl:variable>
 
 <xsl:key name="trd-oj" match="//trd-oj/litero/v" use="concat(../../@lng,'-',../@name,'-',t)"/>
 
@@ -108,10 +112,12 @@
   <!-- xsl:message>skribas al <xsl:value-of
   select="@dosiero"/></xsl:message -->
   <!-- redirect:write select="@dosiero" -->
-  <xsl:result-document href="{@dosiero}" method="@format@" encoding="utf-8" indent="no">
+  <xsl:result-document href="{@dosiero}" method="@format@" encoding="utf-8"
+		       indent="no">
   <html>
     <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+      <meta name="viewport" content="width=device-width,initial-scale=1"/>
       <title><xsl:value-of select="concat(../@nometo,'-indekso: ',@titolo)"/></title>
       <link title="indekso-stilo" type="text/css" 
             rel="stylesheet" href="../stl/indeksoj.css"/>
@@ -186,6 +192,59 @@
 </xsl:template>
 
 
+<xsl:template match="LISTOJ">
+  <ul style="padding-left: 0; font-weight: 600">
+  <xsl:for-each select="document($klasoj)/klasoj/kls">
+    <xsl:call-template name="listoj1"/>
+  </xsl:for-each>
+  </ul>
+</xsl:template>
+
+
+<xsl:template name="listoj1">
+   <li style="margin-top: 0.4em">
+      <xsl:value-of select="translate(substring-after(@nom,'#'),'_',' ')"/>
+      <xsl:for-each select="kls">
+        <ul style="font-weight: normal">
+          <xsl:call-template name="listoj2"/>
+        </ul>
+      </xsl:for-each>
+    </li>
+</xsl:template>
+
+<xsl:template name="listoj2">
+     <li>
+       <a>
+         <xsl:attribute name="href">
+           <xsl:text>../tez/vx_</xsl:text>
+           <xsl:call-template name="eo-kodigo">
+             <xsl:with-param name="str"><xsl:value-of select="substring-after(@nom,'#')"/></xsl:with-param>
+           </xsl:call-template>
+           <xsl:text>.html</xsl:text>
+         </xsl:attribute>
+         <xsl:if test="kls[@prezento='integrita']">
+           <xsl:attribute name="title">
+              <xsl:text>inkl. </xsl:text>
+              <xsl:for-each select="kls[@prezento='integrita']">
+                <xsl:value-of
+		    select="translate(substring-after(@nom,'#'),'_',' ')"/>
+                <xsl:if test="following-sibling::kls[@prezento='integrita']">
+                  <xsl:text>, </xsl:text>
+                </xsl:if>
+              </xsl:for-each>
+           </xsl:attribute>
+         </xsl:if>
+         <xsl:value-of select="translate(substring-after(@nom,'#'),'_',' ')"/>
+       </a>
+       <xsl:for-each select="kls[not(@prezento='integrita')]">
+         <ul style="font-weight: normal">
+           <xsl:call-template name="listoj2"/>
+         </ul>
+       </xsl:for-each>
+     </li>
+</xsl:template>
+
+
 <xsl:template match="TRD-OJ[@lng]">
   <p>
   <xsl:for-each select="document($lingvoj)/lingvoj/lingvo[@kodo=current()/@lng]">
@@ -249,10 +308,12 @@
 
 <xsl:template name="MANKO-LISTOJ">
   <!-- redirect:write select="'mankantaj.html'" -->
-  <xsl:result-document href="mankantaj.html" method="@format@" encoding="utf-8" indent="no">
+  <xsl:result-document href="mankantaj.html" method="@format@"
+		       encoding="utf-8" indent="no">
   <html>
     <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+      <meta name="viewport" content="width=device-width,initial-scale=1"/>   
       <title><xsl:value-of select="concat(../@nometo,'-indekso: ',@titolo)"/></title>
       <link title="indekso-stilo" type="text/css" 
             rel="stylesheet" href="../stl/indeksoj.css"/>
@@ -297,7 +358,7 @@
               <xsl:sort lang="eo"/>
 
               <xsl:if test="$root//fako[@fak=current()/@kodo]">
-                <img src="{@vinjeto}" alt="{@kodo}" border="0" align="middle"/>
+                <img src="{@vinjeto}" class="fak" alt="{@kodo}" border="0"/>
                 <xsl:text>&#xa0;</xsl:text>
                 <a>
                   <xsl:attribute name="href">
@@ -387,7 +448,7 @@
 
 
 <xsl:template name="menuo-ktp">
-  <xsl:for-each select="document($enhavo)//pagho[.//BLD-OJ][1]"> 
+  <xsl:for-each select="document($enhavo)//pagho[.//STAT][1]"> 
     <xsl:call-template name="menuo"/>
   </xsl:for-each>
 </xsl:template>
@@ -429,11 +490,13 @@
   </xsl:variable>
 
   <!-- redirect:write select="concat($pref,$lit,'.html')" -->
-  <xsl:result-document href="{concat($pref,$lit,'.html')}" method="@format@" encoding="utf-8" indent="no">
+  <xsl:result-document href="{concat($pref,$lit,'.html')}" method="@format@"
+		       encoding="utf-8" indent="no">
 
   <html>
     <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+      <meta name="viewport" content="width=device-width,initial-scale=1"/> 
           <xsl:choose>
              <xsl:when test="parent::node()[self::kap-oj]">
        <title>esperanta indekso</title>
@@ -577,7 +640,17 @@
 
               <h2>kapvortoj k.a.</h2>
               <table>
-                <xsl:for-each select="ero">
+                <xsl:for-each select="ero[@s='kap']">
+                  <tr>
+                    <td><xsl:value-of select="@t"/><xsl:text>: </xsl:text></td>
+                    <td align="right"><xsl:value-of select="@n"/></td>
+                  </tr>
+                </xsl:for-each>
+              </table>
+
+              <h2>oficialaj radikoj</h2>
+              <table>
+                <xsl:for-each select="ero[@s='rad']">
                   <tr>
                     <td><xsl:value-of select="@t"/><xsl:text>: </xsl:text></td>
                     <td align="right"><xsl:value-of select="@n"/></td>
@@ -613,7 +686,7 @@
                   <xsl:sort select="@fak"/>
                   <tr>
                     <xsl:for-each select="document($fakoj)/fakoj/fako[@kodo=current()/@fak]">
-                      <td><img src="{@vinjeto}" alt="{@fak}" border="0" align="middle"/></td>
+                      <td><img src="{@vinjeto}" class="fak" alt="{@fak}" border="0" align="middle"/></td>
                       <td><xsl:value-of select="."/><xsl:text>: </xsl:text></td>
                     </xsl:for-each>
                     <td align="right"><xsl:value-of select="@n"/></td>

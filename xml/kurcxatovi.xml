@@ -2,15 +2,25 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kurcxatovi.xml,v 1.15 2016/08/10 07:10:34 revo Exp $">
+<art mrk="$Id: kurcxatovi.xml,v 1.16 2018/09/21 17:10:15 revo Exp $">
 <kap>
   <rad>kur&ccirc;atovi</rad>/o
 </kap>
 <drv mrk="kurcxatovi.0o">
   <kap><tld/>o</kap>
   <snc>
-  <uzo tip="fak">KEM</uzo>
-  <ref tip="dif" cel="ruterfordi.0o">ruterfordio</ref>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Sovetia nomo de <ref tip="dif" cel="ruterfordi.0o">ruterfordio</ref>:
+      <ekz>
+        <nom>Igor Kur&ccirc;atov</nom>: <klr>[la&ubreve; li]</klr>
+        la 104-a kemia elemento estis nomata en la sovetia epoko kaj en la sovetia fiziko <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=288616">Igor Kur&ccirc;atov</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trdgrp lng="ca">
     <trd>unnilquadi</trd>,
@@ -31,6 +41,9 @@
 </art>
 <!--
 $Log: kurcxatovi.xml,v $
+Revision 1.16  2018/09/21 17:10:15  revo
+Wolfram Diestel: +ekz
+
 Revision 1.15  2016/08/10 07:10:34  revo
 Damien Brucker: +trd fr
 
@@ -50,8 +63,5 @@ Revision 1.10  2009/09/13 16:56:50  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.9  2009/08/08 16:34:54  revo
-Russ Williams: +trd en
-
-Revision 1.8  2006/06/08 16:31:32  revo
 -->
 </vortaro>

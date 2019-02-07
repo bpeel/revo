@@ -2,22 +2,35 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ninjx.xml,v 1.5 2017/07/19 22:10:14 revo Exp $">
+<art mrk="$Id: ninjx.xml,v 1.7 2018/08/31 17:10:19 revo Exp $">
 <kap>
 <rad>nin&jcirc;</rad>/o
 </kap>
 <drv mrk="ninjx.0o">
   <kap><tld/>o</kap>
   <snc>
-    <uzo tip="fak">HIS</uzo>
-    <uzo tip="fak">MIL</uzo>
     <dif>
-      Altnivela batalanto de <ref tip="vid"
+     <ref tip="dif" cel="sxinob.0o">&Scirc;inobo</ref>, precipe  
+     aperanta kun tiu nomo en <ref tip="malprt" cel="manga.0o">mangaoj</ref>:
+<!--
+        Altnivela batalanto de <ref tip="vid"
       cel="japan.0ujo">Japanujo</ref>, spertulo je spionado, enfiltrado,
       mortigado, kunigado de informoj kaj, la&ubreve; la komuna imagaro, nigre
       vestita kun kovrita viza&gcirc;o. 
+-->
+      <ekz>
+        &scirc;i estas <tld/>o de la skolo <nom>Koga</nom>, 
+        en sia libera tempo, &scirc;i <tld/>-ekzercas sin en montoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=50159">Magia Instruisto Negima</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
+  <rim>
+    Foje aperas anka&ubreve; la formoj &leftquot;nin&gcirc;o&rightquot; kaj &leftquot;nin&jcirc;ao&rightquot;.
+  </rim>
   <trd lng="ar">&a_n;&a_kasra_y;&a_n;&a_sukun;&a_j;&a_fatha_A;</trd>
   <trd lng="az">nindza</trd>
   <trd lng="ba">&c_n;&c_i;&c_n;&c_d;&c_z;&c_ja;</trd>
@@ -67,6 +80,12 @@
 
 <!--
 $Log: ninjx.xml,v $
+Revision 1.7  2018/08/31 17:10:19  revo
+Wolfram Diestel: +rim
+
+Revision 1.6  2018/08/28 20:10:13  revo
+Wolfram Diestel: +ekz, dif per ref al sxinobo, +ref al manago
+
 Revision 1.5  2017/07/19 22:10:14  revo
 Robin van der Vliet: plej ofta kaj plej internacia vorto, jam Esperanta vorto pro la 15-a regulo
 

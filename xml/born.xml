@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: born.xml,v 1.6 2016/10/13 06:10:33 revo Exp $">
+<art mrk="$Id: born.xml,v 1.7 2018/08/14 17:10:18 revo Exp $">
 <kap>
     <rad>born</rad>/o <fnt><bib>PIV3</bib></fnt>
 </kap>
@@ -10,7 +10,17 @@
   <kap><tld/>o</kap>
   <snc mrk="born.0o.SNC">
     <uzo tip="fak">ELE</uzo>
-    <ref tip="dif" cel="klem.0o">klemo</ref>
+    <dif>
+      <ref tip="dif" cel="klem.0o">Klemo</ref>:
+      <ekz>
+        konekta&jcirc;o de la <tld/>o kun ena cirkvito de la aparato
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1120">Terminaro pri elektro</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Klemme</trd>
   </snc>
   <trdgrp lng="cs">
     <trd>svorka</trd>,
@@ -31,6 +41,9 @@
 
 <!--
 $Log: born.xml,v $
+Revision 1.7  2018/08/14 17:10:18  revo
+Wolfram Diestel: +ekz
+
 Revision 1.6  2016/10/13 06:10:33  revo
 Sebastian Cyprych: +trd pl
 

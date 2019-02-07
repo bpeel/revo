@@ -31,15 +31,17 @@
 <xsl:variable name="lingvoj">../cfg/lingvoj.xml</xsl:variable>
 <xsl:variable name="fakoj">../cfg/fakoj.xml</xsl:variable>
 <xsl:variable name="stiloj">../cfg/stiloj.xml</xsl:variable>
-
+<xsl:variable name="klasoj">../cfg/klasoj.xml</xsl:variable>
 
 <xsl:template match="/">
   <xsl:apply-templates/>
 </xsl:template>
 
 <xsl:template match="art">
-  <art dos="{$filename}">
   <xsl:variable name="mrk" select="substring-after(substring-before(@mrk,'.xml'),'Id: ')"/>
+  <xsl:variable name="dat" select="substring(substring-after(substring-after(@mrk,'.xml,v '),' '),1,19)"/>
+
+  <art dos="{$filename}" dat="{$dat}">
 
   <xsl:choose>
     <xsl:when test="$mrk='' or not($mrk)">
@@ -57,6 +59,13 @@
     </xsl:otherwise>
   </xsl:choose>
 
+  <xsl:if test="not(//ekz)">
+      <ero  kie="art" mrk="{$mrk}" tip="dos-sen-ekz"/>
+  </xsl:if>
+
+  <xsl:if test="kap/var and not(//drv/kap/var)">
+      <ero  kie="art" mrk="{$mrk}" tip="drv-sen-var"/>
+  </xsl:if>
 
   <xsl:apply-templates/>
   </art>
@@ -176,6 +185,14 @@
       <ero kie="{$kie}" mrk="{$mrk}" tip="ref-cel-mrk" arg="{@cel}"/>
     </xsl:when>
   </xsl:choose>
+
+  <xsl:if test="@tip='lst' and (not(@lst) or @lst='')">
+    <ero kie="{$kie}" mrk="{$mrk}" tip="ref-tip-lst" arg="{@cel}"/>
+  </xsl:if>
+  <xsl:if test="@lst and 
+not(document($klasoj)//kls[substring-after(@nom,'#')=current()/substring-after(@lst,':')])">
+    <ero kie="{$kie}" mrk="{$mrk}" tip="ref-lst" arg="{@lst}"/>
+  </xsl:if>
 </xsl:template>
 
 

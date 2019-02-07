@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: uretr.xml,v 1.22 2017/10/31 14:10:14 revo Exp $">
+<art mrk="$Id: uretr.xml,v 1.23 2018/11/02 13:10:26 revo Exp $">
 <kap>
    <rad>uretr</rad>/o
 </kap>
@@ -88,10 +88,7 @@
   </trdgrp>
   <trd lng="sh">mokra&cacute;na cijev</trd>
   <trd lng="sk">mo&ccaron;ov&aacute; r&uacute;ra</trd>
-  <trdgrp lng="sl">
-    <trd>s&eacute;&ccaron;nica</trd>,
-    <trd>&c_u;&c_r;&c_je;&c_t;&c_r;&c_a;</trd>
-  </trdgrp>
+  <trd lng="sl">se&ccaron;nica</trd>
   <trd lng="sq">uret&euml;r</trd>
   <trd lng="su">ur&eacute;tra</trd>
   <trd lng="sv">urinr&ouml;r</trd>
@@ -108,6 +105,9 @@
 </art>
 <!--
 $Log: uretr.xml,v $
+Revision 1.23  2018/11/02 13:10:26  revo
+Peter Garami: malgxustaj slovenaj tradukajxoj korektitaj
+
 Revision 1.22  2017/10/31 14:10:14  revo
 Robin van der Vliet: pliprecizigita difino, +trd
 
@@ -127,8 +127,5 @@ Revision 1.17  2009/08/20 16:30:46  revo
 Antonio Codazzi: +trd it
 
 Revision 1.16  2009/06/14 16:31:48  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.15  2007/07/05 16:30:34  revo
 -->
 </vortaro>

@@ -2,11 +2,129 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flor.xml,v 1.59 2017/06/29 17:10:14 revo Exp $">
+<art mrk="$Id: flor.xml,v 1.62 2018/10/07 19:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>flor</rad>/o <fnt><bib>PV</bib></fnt>
+  <rad>flor</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
+
+<drv mrk="flor.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="flor.0i.naski">
+    <dif>
+      Naski <tld/>ojn <sncref ref="flor.0o.BOT"/>:
+      <ekz>
+        ekfloros kiel lilio
+        <fnt><bib>MT</bib>, <lok>&Jes; 34:17</lok></fnt>;
+      </ekz>
+      <ekz>
+        la vegeta&jcirc;oj <tld/>as en printempo.
+      </ekz>
+    </dif>
+    <trdgrp lng="id">
+      <trd>[<ind>bunga</ind>] berbunga</trd>,
+      <trd>mekar</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="flor.0i.prosperi">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Brile prosperi:
+      <ekz>
+        &gcirc;i forte ekfloros kaj triumfos, triumfos kaj kantos
+        <fnt><bib>MT</bib>, <lok>&Jes; 35:2</lok></fnt>;
+      </ekz>
+      <ekz>
+        vivu, kresku kaj <tld/>u nia afero
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sepa Kongreso Esperantista en Antwerpen
+          en la 21a de a&ubreve;gusto 1911</vrk>
+        </fnt>!
+      </ekz>
+      <ekz>
+        <ind><tld/>anta</ind> sano, a&gcirc;o, viza&gcirc;o, knabina kapo;
+        <trd lng="fr">florissant</trd>
+        <trd lng="es">floreciente</trd>
+        <trd lng="hu">vir&aacute;gz&oacute;</trd>
+        <trd lng="nl">florissant</trd>
+        <trd lng="ru">&c_c;&c_v;&c_je;&c_t;&c_u;&c_shch;&c_i;&c_j;
+        </trd>
+      </ekz>
+      <ekz>
+        en la <tld/>antaj tagoj de Romo;
+      </ekz>
+      <ekz>
+        la artoj longe <tld/>adis en Grekujo;
+      </ekz>
+      <ekz>
+        la komerco <tld/>as;
+      </ekz>
+      <ekz>
+        la gajeco de l' vivo en mi neniam plu re<tld/>os
+        <fnt>
+          <aut>J. W. von Goethe, trad. L. L. Zamenhof</aut>
+          <vrk><url        
+          ref='http://karavelo.net/html/pdf/zamenhofo_trad_goethe_ifigenio_en_taurido.pdf'>Ifigenio
+          en Ta&ubreve;rido</url></vrk>
+          <lok>1908</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="flor.0i.disvolvigxi">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Disvolvi&gcirc;i simile al <tld/>oj:
+      <ekz>
+        se la lepro disfloros sur la ha&ubreve;to kaj la lepro
+        kovros la tutan ha&ubreve;ton
+        <fnt><bib>MT</bib>, <lok>&Lev; 13:12</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_mol;&c_v;&c_ib;&c_s;&c_mol;&c_c;&c_ib;</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_v;&c_ib;&c_t;&c_n;&c_je;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_c;&c_malmol;&c_f;&c_t;&c_ja;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_c;&c_malmol;&c_f;&c_t;&c_ja;&c_v;&c_a;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kv&eacute;st</trd>,
+    <trd>vzkv&eacute;tat</trd>
+  </trdgrp>
+  <trd lng="de">bl&uuml;hen</trd>
+  <trdgrp lng="es">
+    <trd>florear</trd>,
+    <trd>florecer</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>fleurir<klr tip="ind"> (&ecirc;tre en fleurs)</klr></trd>,
+    <trd>&ecirc;tre en <ind>fleurs</ind></trd>,
+    <trd>cro&icirc;tre</trd>,
+    <trd>s'<ind>&eacute;panouir</ind><klr tip="ind"> (fleurir)</klr>
+    </trd>,
+    <trd>prosp&eacute;rer</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>vir&aacute;gzik</trd>,
+    <trd>kivir&aacute;gzik</trd>
+  </trdgrp>
+  <trd lng="nl">bloeien</trd>
+  <trdgrp lng="pl">
+    <trd>rozkwita&cacute;</trd>,
+    <trd>zakwita&cacute;</trd>,
+    <trd>kwitn&aogonek;&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_c;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
+  <trd lng="sk">kvitn&uacute;&tcaron;</trd>
+  <trd lng="sv">att <ind>blomma</ind></trd>
+</drv>
+
 <drv mrk="flor.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="flor.0o.planto">
@@ -77,7 +195,8 @@
         <fnt><bib>MT</bib>, <lok>&Alt; 7:12</lok></fnt>;
       </ekz>
       <ekz>
-        &gcirc;i <klr>[...]</klr> donadis <klr>(naskis)</klr> siajn ru&gcirc;ajn bonodorajn <tld/>ojn
+        &gcirc;i <klr>[...]</klr> donadis <klr>(naskis)</klr> siajn ru&gcirc;ajn
+        bonodorajn <tld/>ojn
         <fnt>
           <bib>Fab2</bib>
           <lok>Najbaraj familioj</lok>
@@ -104,7 +223,8 @@
         jaroj;
       </ekz>
       <ekz>
-        la amo bezonas liberecon kaj tempon por doni siajn plej belajn <tld/>ojn
+        la amo bezonas liberecon kaj tempon por doni siajn plej belajn
+        <tld/>ojn
         <fnt>
           <bib>Far1</bib>
           <lok>&Ccirc;apitro XV</lok>
@@ -148,118 +268,6 @@
   <trd lng="sv">blomma</trd>
 </drv>
 
-<drv mrk="flor.0i">
-  <kap><ofc>*</ofc><tld/>i</kap>
-  <gra><vspec>ntr</vspec></gra>
-  <snc mrk="flor.0i.naski">
-    <dif>
-      Naski <tld/>ojn <sncref ref="flor.0o.BOT"/>:
-      <ekz>
-        ekfloros kiel lilio
-        <fnt><bib>MT</bib>, <lok>&Jes; 34:17</lok></fnt>;
-      </ekz>
-      <ekz>
-        la vegeta&jcirc;oj <tld/>as en printempo.
-      </ekz>
-    </dif>
-    <trdgrp lng="id">
-      <trd>[<ind>bunga</ind>] berbunga</trd>,
-      <trd>mekar</trd>
-    </trdgrp>
-  </snc>
-  <snc mrk="flor.0i.prosperi">
-    <uzo tip="stl">FIG</uzo>
-    <dif>
-      Brile prosperi:
-      <ekz>
-        &gcirc;i forte ekfloros kaj triumfos, triumfos kaj kantos
-        <fnt><bib>MT</bib>, <lok>&Jes; 35:2</lok></fnt>;
-      </ekz>
-      <ekz>
-        vivu, kresku kaj <tld/>u nia afero
-        <fnt>
-          <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Sepa Kongreso Esperantista en Antwerpen en la 21a de a&ubreve;gusto 1911</vrk>
-        </fnt>!
-      </ekz>
-      <ekz>
-        <ind><tld/>anta</ind> sano, a&gcirc;o, viza&gcirc;o, knabina kapo;
-        <trd lng="fr">florissant</trd>
-        <trd lng="es">floreciente</trd>
-        <trd lng="hu">vir&aacute;gz&oacute;</trd>
-        <trd lng="nl">florissant</trd>
-        <trd lng="ru">&c_c;&c_v;&c_je;&c_t;&c_u;&c_shch;&c_i;&c_j;
-        </trd>
-      </ekz>
-      <ekz>
-        en la <tld/>antaj tagoj de Romo;
-      </ekz>
-      <ekz>
-        la artoj longe <tld/>adis en Grekujo;
-      </ekz>
-      <ekz>
-        la komerco <tld/>as;
-      </ekz>
-      <ekz>
-        la gajeco de l' vivo en mi neniam plu re<tld/>os        <fnt>
-          <aut>Johann Wolfgang von Goethe, trad. L. L. Zamenhof</aut>
-          <vrk><url ref='http://karavelo.net/html/pdf/zamenhofo_trad_goethe_ifigenio_en_taurido.pdf'>Ifigenio en Ta&ubreve;rido</url></vrk>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <snc mrk="flor.0i.disvolvigxi">
-    <uzo tip="stl">FIG</uzo>
-    <dif>
-      Disvolvi&gcirc;i simile al <tld/>oj:
-      <ekz>
-        se la lepro disfloros sur la ha&ubreve;to kaj la lepro
-        kovros la tutan ha&ubreve;ton
-        <fnt><bib>MT</bib>, <lok>&Lev; 13:12</lok></fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trdgrp lng="be">
-    <trd>&c_c;&c_mol;&c_v;&c_ib;&c_s;&c_mol;&c_c;&c_ib;</trd>,
-    <trd>&c_k;&c_r;&c_a;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
-    <trd>&c_k;&c_v;&c_ib;&c_t;&c_n;&c_je;&c_c;&c_mol;</trd>
-  </trdgrp>
-  <trdgrp lng="bg">
-    <trd>&c_c;&c_malmol;&c_f;&c_t;&c_ja;</trd>,
-    <trd>&c_r;&c_a;&c_z;&c_c;&c_malmol;&c_f;&c_t;&c_ja;&c_v;&c_a;&c_m;</trd>
-  </trdgrp>
-  <trdgrp lng="cs">
-    <trd>kv&eacute;st</trd>,
-    <trd>vzkv&eacute;tat</trd>
-  </trdgrp>
-  <trd lng="de">bl&uuml;hen</trd>
-  <trdgrp lng="es">
-    <trd>florear</trd>,
-    <trd>florecer</trd>
-  </trdgrp>
-  <trdgrp lng="fr">
-    <trd>fleurir<klr tip="ind"> (&ecirc;tre en fleurs)</klr></trd>,
-    <trd>&ecirc;tre en <ind>fleurs</ind></trd>,
-    <trd>cro&icirc;tre</trd>,
-    <trd>s'<ind>&eacute;panouir</ind><klr tip="ind"> (fleurir)</klr>
-    </trd>,
-    <trd>prosp&eacute;rer</trd>
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>vir&aacute;gzik</trd>,
-    <trd>kivir&aacute;gzik</trd>
-  </trdgrp>
-  <trd lng="nl">bloeien</trd>
-  <trdgrp lng="pl">
-    <trd>rozkwita&cacute;</trd>,
-    <trd>zakwita&cacute;</trd>,
-    <trd>kwitn&aogonek;&cacute;</trd>
-  </trdgrp>
-  <trd lng="ru">&c_c;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
-  <trd lng="sk">kvitn&uacute;&tcaron;</trd>
-  <trd lng="sv">att <ind>blomma</ind></trd>
-</drv>
-
 <drv mrk="flor.0ado">
   <kap><tld/>ado</kap>
   <snc mrk="flor.0ado.naskigxado">
@@ -292,7 +300,8 @@
         en plena <tld/>ado;
       </ekz>
       <ekz>
-        anta&ubreve; la rikolto, kiam la <tld/>ado fini&gcirc;is kaj la <tld/>o fari&gcirc;is matura bero
+        anta&ubreve; la rikolto, kiam la <tld/>ado fini&gcirc;is kaj la <tld/>o
+        fari&gcirc;is matura bero
         <fnt>
           <bib>MT</bib>
           <lok>Jesaja 18:5</lok>
@@ -309,11 +318,14 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lode VAN DE VELDE</aut>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007144.html'>Bierlando Belgio</url></vrk>
+          <vrk><url
+          ref='http://www.esperanto.be/fel/mon/007144.html'>Bierlando
+          Belgio</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        Organiza&jcirc;o por Ekonomia Kunlaboro kaj Evoluigo (OEKE) atendas por tiuj landoj novan ekonomian <tld/>adon
+        Organiza&jcirc;o por Ekonomia Kunlaboro kaj Evoluigo (OEKE) atendas
+        por tiuj landoj novan ekonomian <tld/>adon
         <fnt>
           <bib>Monato</bib>
         </fnt>.
@@ -497,9 +509,22 @@
 <drv mrk="flor.for0i">
   <kap>for<tld/>i</kap>
   <gra><vspec>ntr</vspec></gra>
-  <snc>
+  <snc mrk="flor.for0i.BOT">
     <dif>
-      Perdi siajn florojn, <ref tip="vid" cel="velk.0i">velki</ref>.
+      <ref tip="super" cel="velk.0i">Velki</ref>,
+      perdante siajn florojn:
+      <ekz>
+        la &ccirc;irka&ubreve;a&jcirc;o i&gcirc;is pli kaj pli a&ubreve;tuna:
+        en mia &gcirc;ardeno kompozitanoj jam for<tld/>is
+        kaj portis la semojn
+        <fnt>
+          <aut>&Scirc;. Hori</aut>
+          <vrk><url
+          ref="http://www.eventoj.hu/steb/biologio/la-volvotigo-de-amikeco.pdf">
+          La Volvotigo de Amikeco</url></vrk>
+          <lok>1965</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_c;&c_mol;&c_v;&c_ib;&c_t;&c_a;&c_c;&c_mol;</trd>
@@ -651,10 +676,16 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="helian.0o.BOT">helianto</ref>
+    <bld
+       lok="&WCU;/thumb/a/a9/A_sunflower.jpg/360px-A_sunflower.jpg"
+       prm="Public domain"
+       ><ind>sun<tld/>o</ind> <klr>(Helianthus annuus)</klr>
+         <fnt>
+           <lok><url ref="&WCW;/File:A_sunflower.jpg"
+               >&WCW;/File:A_sunflower.jpg</url></lok>
+         </fnt>
+    </bld>
   </snc>
-  <bld lok="../bld/heliant.jpg">
-    sun<tld/>oj <klr>(Helianthus annuus)</klr>
-  </bld>
   <trd lng="be">&c_s;&c_l;&c_a;&c_n;&c_je;&c_ch;&c_n;&c_ib;&c_k;</trd>
   <trd lng="bg">&c_s;&c_l;&c_malmol;&c_n;&c_ch;&c_o;&c_g;&c_l;&c_je;&c_d;</trd>
   <trd lng="de">Sonnenblume</trd>
@@ -749,6 +780,14 @@
 </art>
 <!--
 $Log: flor.xml,v $
+Revision 1.62  2018/10/07 19:10:20  revo
+Wolfram Diestel: sun~o: pli bona foto
+
+Revision 1.61  2018/05/27 16:10:14  revo
+
+Revision 1.60  2018/02/19 16:10:14  revo
+Jeromo Vasxe: for~i + ekz
+
 Revision 1.59  2017/06/29 17:10:14  revo
 Wolfram Diestel: prilaboris ekz-oj, * che sunfloro
 
@@ -763,13 +802,5 @@ aldono de trd cs per skripto de M. von Laer
 
 Revision 1.55  2015/06/29 16:29:38  revo
 aldono de trd sk per skripto de M. von Laer
-
-Revision 1.54  2014/12/15 21:10:12  revo
-Jeromo Vasxe: + ~umi
-
-Revision 1.53  2014/06/23 05:10:11  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.52  2014/02/08 17:10:17  revo
 -->
 </vortaro>

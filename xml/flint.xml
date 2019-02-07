@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: flint.xml,v 1.12 2015/07/04 08:37:34 revo Exp $">
+<art mrk="$Id: flint.xml,v 1.13 2018/09/14 20:10:15 revo Exp $">
 <kap>
 <rad>flint</rad>/o
 </kap>
@@ -12,7 +12,28 @@
   <uzo tip="fak">TEK</uzo>
   <snc>
     <dif>
-      Speco de tre refraktiga vitro.  
+      Speco de tre refraktiga <ref tip="super" cel="vitr.0o.substanco">vitro</ref>:
+      <ekz>
+        refrakta indico <klr>[de]</klr> flinto: 1,60 
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=36787">Refrakta indico</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        akromata lenso <klr>[&#8230;]</klr> konsistas el <klr>[&#8230;]</klr> <tld/>o <klr>[&#8230;]</klr> kaj <klr>[&#8230;]</klr> kra&ubreve;no
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=51927">Akromata lenso</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>on kun malpli ol 50&nbsp;% de plumbo oni nomas <klr>[&#8230;]</klr> malpeza
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=52092">Flinto</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="cs">
@@ -31,12 +52,15 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>flint</trd>,
-    <trd>pazúrik</trd>
+    <trd>paz&uacute;rik</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: flint.xml,v $
+Revision 1.13  2018/09/14 20:10:15  revo
+Wolfram Diestel: +ekz-oj, ref
+
 Revision 1.12  2015/07/04 08:37:34  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -56,13 +80,5 @@ Revision 1.7  2002/11/17 18:27:04  revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.6  2001/09/03 18:11:53  revo
-Marc Bavant: +trd fr
-
-Revision 1.5  2001/07/09 18:17:44  revo
-Ulrich Fellmann: + germ trd
-
-Revision 1.4  2001/05/08 17:51:58  revo
-Yury Finkel: +trd ru
-
 -->
 </vortaro>

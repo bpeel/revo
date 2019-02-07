@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: korpus.xml,v 1.16 2015/07/04 08:37:38 revo Exp $">
+  <art mrk="$Id: korpus.xml,v 1.17 2018/09/04 10:10:16 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>korpus</rad>/o
@@ -37,6 +37,7 @@
           <trd>legercorps</trd>,
           <trd>corps</trd>
         </trdgrp>
+        <trd lng="pl">korpus</trd>
         <trd lng="pt">corpora&ccedil;&atilde;o</trd>
       </snc>
       <snc mrk="korpus.0o.LIN">
@@ -56,18 +57,20 @@
         </trdgrp>
         <trd lng="it">corpus</trd>
         <trd lng="nl">corpus</trd>
+        <trd lng="pl">korpus</trd>
       </snc>
   <trd lng="be">&c_k;&c_o;&c_r;&c_p;&c_u;&c_s;</trd>
   <trdgrp lng="cs">
     <trd>celek</trd>,
     <trd>corpus</trd>,
     <trd>korpus</trd>,
-    <trd>sbírka</trd>
+    <trd>sb&iacute;rka</trd>
   </trdgrp>
   <trdgrp lng="pt">
-        <trd>corpus</trd>,
-        <trd>colet&acirc;nea</trd>,
-      </trdgrp>
+    <trd>corpus</trd>,
+    <trd>colet&acirc;nea</trd>,
+  </trdgrp>
+  <trd lng="ro">corp</trd>
   <trd lng="ru">&c_k;&c_o;&c_r;&c_p;&c_u;&c_s;</trd>
   <trdgrp lng="sk">
     <trd>celok</trd>,
@@ -78,6 +81,9 @@
   </art>
   <!--
   $Log: korpus.xml,v $
+  Revision 1.17  2018/09/04 10:10:16  revo
+  Vito Redsky: +trd pl +trd ro
+
   Revision 1.16  2015/07/04 08:37:38  revo
   aldono de trd cs per skripto de M. von Laer
 

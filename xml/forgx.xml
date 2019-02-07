@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: forgx.xml,v 1.16 2017/11/03 12:10:13 revo Exp $">
+<art mrk="$Id: forgx.xml,v 1.17 2018/06/04 00:10:13 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>
   for&gcirc;</rad>/i <fnt><bib>PV</bib></fnt>
@@ -83,6 +83,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">herrero</trd>
   <trdgrp lng="fr">
     <trd>ferronnier</trd>,
     <trd>forgeron</trd>
@@ -179,6 +180,9 @@
 </art>
 <!--
 $Log: forgx.xml,v $
+Revision 1.17  2018/06/04 00:10:13  revo
+Dusan Juretic: +trd es
+
 Revision 1.16  2017/11/03 12:10:13  revo
 Jeromo Vasxe: + ~ejo/isto
 
@@ -198,8 +202,5 @@ Revision 1.11 2002/07/02 17:33:27 revo
 Alejandro Mejia Greene: ald 1 his trd
 
 Revision 1.10 2002/01/10 20:33:21 revo
-fontindiko PrV per programo de Jerome
-
-Revision 1.9 2001/09/17 18:15:02 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korakl.xml,v 1.6 2015/07/04 08:37:38 revo Exp $">
+<art mrk="$Id: korakl.xml,v 1.7 2018/08/20 23:10:30 revo Exp $">
 <kap>
   <rad>korakl</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -36,20 +36,25 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="cs">rybářský člun</trd>
+  <trd lng="cs">ryb&aacute;&rcaron;sk&yacute; &ccaron;lun</trd>
   <trd lng="en">coracle</trd>
   <trd lng="fr">coracle</trd>
   <trdgrp lng="nl">
     <trd>coracle</trd>,
     <trd>mandboot</trd>
   </trdgrp>
+  <trd lng="pl">korakl</trd>
   <trd lng="pt">coracle</trd>
-  <trd lng="sk">rybársky čln</trd>
+  <trd lng="ro">dubas&abreve;</trd>
+  <trd lng="sk">ryb&aacute;rsky &ccaron;ln</trd>
 </drv>
 </art>
 
 <!--
 $Log: korakl.xml,v $
+Revision 1.7  2018/08/20 23:10:30  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.6  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 

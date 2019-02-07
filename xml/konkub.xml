@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konkub.xml,v 1.12 2014/10/22 07:10:12 revo Exp $">
+<art mrk="$Id: konkub.xml,v 1.14 2018/08/19 13:10:15 revo Exp $">
 <kap>
   <rad>konkubin</rad>/o
-  <fnt>B</fnt>
+  <fnt><bib>Far1</bib></fnt>
 </kap>
 <drv mrk="konkub.0o">
   <kap>
@@ -13,11 +13,25 @@
   </kap>
   <snc>
     <dif>
-      Virino vivanta kun viro, kun kiu &scirc;i ne estas edzinigita.
+      Virino vivanta kun viro, kun kiu &scirc;i ne estas edzinigita:
+      <ekz>
+        li preferus vidi sian filinon kadavro, ol ies <tld/>o
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Elizaveta Petrovna</nom> ne havis edzon kaj do oficialajn heredintojn,
+        kelkajn jarojn &scirc;i onidire estis <tld/>o de <nom>Aleksio Rozumovskij</nom>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=17922">Elizabeto (Rusio)</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trdgrp lng="de">
-       <trd>Lebensgef&auml;hrtin</trd>,
-       <trd>Partnerin</trd>
+      <trd>Konkubine</trd>
     </trdgrp>
     <trd lng="es">concubina</trd>
     <trd lng="fr">concubine</trd>
@@ -25,14 +39,21 @@
       <trd>levensgezellin</trd>,
       <trd>partner<klr tip="ind"> (vr.)</klr></trd>
     </trdgrp>
+    <trd lng="pl">konkubina</trd>  
     <trd lng="pt">concubina</trd>
+    <trd lng="ro">concubin&abreve;</trd>
   </snc>
   <snc>
     <dif>
       Kromvirino.
     </dif>
+    <adm>
+      &Ccirc;u ekzistas pruvo por tiu dua senco? Ordinare la infanoj de ~oj 
+      ne havas rajton heredi de la kunulo de la konkubino. Kromvirino ver&scirc;ajne 
+      havas heredrajton....?
+      <aut>WD</aut>
+    </adm>
     <trdgrp lng="de">
-      <trd>Konkubine</trd>,
       <trd>Kebse</trd>,
       <trd>Nebenfrau</trd>
     </trdgrp>
@@ -44,12 +65,18 @@
       <trd>am&aacute;sia</trd>
     </trdgrp>
   </snc>
-  <trd lng="ca">concubina</trd>
+  <trd lng="ca">concubina</trd> 
   <trd lng="ru">&c_s;&c_o;&c_zh;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log: konkub.xml,v $
+Revision 1.14  2018/08/19 13:10:15  revo
+Wolfram Diestel: +ekz-oj, +adm
+
+Revision 1.13  2018/07/19 18:10:19  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.12  2014/10/22 07:10:12  revo
 Damien Brucker: +trd fr
 
@@ -66,11 +93,5 @@ Revision 1.8  2005/01/21 17:31:56  revo
 Paul Peeraerts: ald pliajn trd nl
 
 Revision 1.7  2002/02/27 17:59:46  revo
-Ulrich Fellmann: dispartigis la du sencojn + 5 germ trj
-
-Revision 1.6  2001/10/19 18:13:09  revo
-Yury Finkel: +trd ru
-
-Revision 1.5  2001/04/05 16:12:01  revo
 -->
 </vortaro>

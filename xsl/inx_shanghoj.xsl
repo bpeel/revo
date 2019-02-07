@@ -18,10 +18,9 @@
      licenco GPL 2.0
 -->
 
+<xsl:include href="inc/inx_menuo.inc"/>
 
 <xsl:output method="xhtml" encoding="utf-8"/>
-
-<xsl:variable name="enhavo">../cfg/enhavo.xml</xsl:variable>
 
 <xsl:key name="autoroj" match="//entry" use="substring-before(msg,':')"/>
 
@@ -36,6 +35,7 @@
   <html>
     <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+      <meta name="viewport" content="width=device-width,initial-scale=1"/>
       <title>laste &#x015d;an&#x011d;itaj artikoloj</title>
       <link title="indekso-stilo" type="text/css" 
             rel="stylesheet" href="../stl/indeksoj.css"/>
@@ -44,8 +44,7 @@
       <table cellspacing="0">
         <xsl:call-template name="menuo-ktp"/>
         <tr>
-          <td colspan="{count(document($enhavo)//pagho[not(@kashita='jes')])}" 
-              class="enhavo">
+          <td colspan="{$inx_paghoj}" class="enhavo">
             <h1>laste &#x015d;an&#x011d;itaj</h1>
             <ul>
               <xsl:for-each select="//entry[count(.
@@ -108,7 +107,8 @@
   <!-- redirect:write select="'novaj.html'" -->
   <html>
     <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+      <meta name="viewport" content="width=device-width,initial-scale=1"/>
       <title>novaj artikoloj</title>
       <link title="indekso-stilo" type="text/css" 
             rel="stylesheet" href="../stl/indeksoj.css"/>
@@ -117,7 +117,7 @@
       <table cellspacing="0">
         <xsl:call-template name="menuo-ktp"/>
         <tr>
-          <td colspan="{count(document($enhavo)//pagho[not(@kashita='jes')])}" 
+          <td colspan="{$inx_paghoj}" 
               class="enhavo">
             <h1>novaj artikoloj</h1>
             <dl>
@@ -153,39 +153,6 @@
     </xsl:otherwise>
   </xsl:choose>
 </xsl:template>
-
-
-<xsl:template name="menuo-ktp">
-  <xsl:for-each select="document($enhavo)//pagho[.//BLD-OJ][1]"> 
-    <xsl:call-template name="menuo"/>
-  </xsl:for-each>
-</xsl:template>
-
-
-<xsl:template name="menuo">
-  <xsl:variable name="aktiva" select="@dosiero"/>
-  <tr>
-    <xsl:for-each select="../pagho[not(@kashita='jes')]">
-      <xsl:choose>
-        <xsl:when test="@dosiero=$aktiva">
-          <td class="aktiva">
-            <a href="../inx/{@dosiero}">
-              <xsl:value-of select="@titolo"/>
-            </a>
-          </td>
-        </xsl:when>
-        <xsl:otherwise>
-          <td class="fona">
-            <a href="../inx/{@dosiero}">
-              <xsl:value-of select="@titolo"/>
-            </a>
-          </td>
-        </xsl:otherwise>
-      </xsl:choose>
-    </xsl:for-each>     
-  </tr>
-</xsl:template>
-
 
 <xsl:template match="entry">
   <xsl:apply-templates select="file"/>

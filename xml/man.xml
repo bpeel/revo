@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: man.xml,v 1.52 2017/12/19 14:10:28 revo Exp $">
+<art mrk="$Id: man.xml,v 1.53 2018/11/02 13:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>man</rad>/o <fnt><bib>PV</bib></fnt>
@@ -221,6 +221,7 @@
   <trd lng="en">hand</trd>
   <trd lng="es">mano</trd>
   <trd lng="fr">main</trd>
+  <trd lng="hu">k&eacute;z</trd>
   <trd lng="id">tangan</trd>
   <trd lng="it">mano</trd>
   <trd lng="nl">hand</trd>
@@ -229,6 +230,7 @@
   <trd lng="ro">m&acirc;n&abreve;</trd>
   <trd lng="ru">&c_r;&c_u;&c_k;&c_a; <klr
   tip="amb">(&c_k;&c_i;&c_s;&c_t;&c_mol;)</klr></trd>
+  <trd lng="sl">roka</trd>
   <trd lng="sk">ruka</trd>
   <trd lng="sv">hand</trd>
   <trd lng="tp">luka</trd>
@@ -993,6 +995,9 @@
 </art>
 <!--
 $Log: man.xml,v $
+Revision 1.53  2018/11/02 13:10:17  revo
+Peter Garami: hungara kaj slovena tradukoj aldonitaj
+
 Revision 1.52  2017/12/19 14:10:28  revo
 Michel Cantigneaux: "cxirkaux/man/o" fundamenta kunmetajxo el la U.V.
 
@@ -1012,8 +1017,5 @@ Darcy Shen: + trd zh
 Revision 1.47  2016/11/11 11:10:14  revo
 Carlos Garcia: +trd ro -o, es  ~pleno peti ies ~on ~en~e kun en~igi 
 cxe~e mal/dekstra~a  dua~a
-
-Revision 1.46  2015/07/04 08:37:39  revo
-aldono de trd cs per skripto de M. von Laer
 -->
 </vortaro>

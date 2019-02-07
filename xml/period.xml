@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
  
 <vortaro>
-<art mrk="$Id: period.xml,v 1.35 2017/04/03 17:10:11 revo Exp $">
+<art mrk="$Id: period.xml,v 1.36 2018/04/06 09:10:21 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>period</rad>/o <fnt><bib>PV</bib></fnt>
@@ -243,6 +243,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_e;&c_r;&c_y;&c_ja;&c_d;&c_y;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>periodizovat</trd>,
     <trd>&ccaron;asov&ecaron; rozlo&zcaron;it</trd>
@@ -286,6 +287,9 @@
 </art>
 <!--
 $Log: period.xml,v $
+Revision 1.36  2018/04/06 09:10:21  revo
+Dmitri Gabinski: +trd be
+
 Revision 1.35  2017/04/03 17:10:11  revo
 Ludoviko Francisco: +trd fr
 
@@ -305,8 +309,5 @@ Revision 1.30  2012/08/04 17:10:21  revo
 Marc Rausell: + trd ca
 
 Revision 1.29  2009/08/21 16:31:20  revo
-Russ Williams: +trd en
-
-Revision 1.28  2009/06/29 18:07:09  revo
 -->
 </vortaro>

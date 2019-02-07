@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plend.xml,v 1.19 2017/03/24 09:10:18 revo Exp $">
+<art mrk="$Id: plend.xml,v 1.20 2018/08/24 15:15:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>plend</rad>/i
@@ -88,7 +88,7 @@
   </trdgrp>
   <trdgrp lng="cs">
     <trd>na&rcaron;&iacute;kat</trd>,
-    <trd>st&#65533;&#8250;&zcaron;ovat si</trd>,
+    <trd>st&ecaron;&zcaron;ovat si</trd>,
     <trd>&zcaron;alovat</trd>
   </trdgrp>
   <trd lng="en">complain</trd>
@@ -169,6 +169,9 @@
 </art>
 <!--
 $Log: plend.xml,v $
+Revision 1.20  2018/08/24 15:15:13  revo
+kor. ecaron en la chehha
+
 Revision 1.19  2017/03/24 09:10:18  revo
 Lyubomir Vasilev: +trd bg
 

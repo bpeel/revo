@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kaz.xml,v 1.39 2017/09/06 09:10:17 revo Exp $">
+  <art mrk="$Id: kaz.xml,v 1.41 2018/09/11 15:10:19 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>kaz</rad>/o
@@ -26,9 +26,23 @@
         <fnt>
           <aut>&Z;</aut>:
           <vrk>Plena gramatiko de esperanto</vrk>.
-          <lok>La regulo 2&#170;.</lok>. <bib>FK</bib>. 
+          <lok>La regulo 2ª.</lok>. <bib>FK</bib>. 
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;e&hcirc;a kiel fleksia lingvo uzas 7 deklinaciajn <tld/>ojn:
+        1. <ref tip="sub" cel="nomina1.0o">nominativo</ref> (<nac>&zcaron;ena</nac> virino)
+        2. <ref tip="sub" cel="geniti.0o">genitivo</ref> (<nac>&zcaron;eny</nac> de virino)
+        3. <ref tip="sub" cel="dativ.0o">dativo</ref> (<nac>&zcaron;en&ecaron;</nac> al virino)
+        4. <ref tip="sub" cel="akuzat.0o">akuzativo</ref> (<nac>&zcaron;enu</nac> virinon)
+        5. <ref tip="sub" cel="vokati.0o">vokativo</ref> (<nac>&zcaron;eno</nac>! virino!)
+        6. lokativo (<nac>&zcaron;en&ecaron;</nac> pri virino)
+        7. instrumentalo (<nac>&zcaron;enou</nac> per virino)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=738">&Ccirc;e&hcirc;a lingvo</url></lok>
         </fnt>.
-       </ekz>
+      </ekz>
     </dif>
     <ref tip="malprt" cel="deklin.0o">deklinacio</ref>     
     <rim>
@@ -188,6 +202,7 @@
   <trd lng="en">case</trd>
   <trd lng="es">caso</trd>
   <trd lng="pl">przypadek</trd>
+  <trd lng="ro">caz</trd>
   <trdgrp lng="sk">
     <trd>pr&iacute;pad</trd>,
     <trd>p&aacute;d</trd>
@@ -229,6 +244,7 @@
     <trd>deklinacja</trd>
   </trdgrp>
   <trd lng="pt">declina&ccedil;&atilde;o</trd>
+  <trd lng="ro">declina&#539;ie</trd>
   <trd lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;
     <ind>&c_p;&c_a;&c_d;&c_je;&c_zh;&c_je;&c_j;</ind></trd>
   <trd lng="sk">sklo&ncaron;ovanie</trd>
@@ -258,6 +274,7 @@
     <trd>biernik</trd>,
     <trd>przypadek celu</trd>
   </trdgrp>
+  <trd lng="ro">acuzativ</trd>
   <trd lng="ru">&c_n;&c_a;&c_p;&c_r;&c_a;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
     &c_p;&c_a;&c_d;&c_je;&c_zh;</trd>
 </drv>
@@ -299,6 +316,7 @@
     <trd>przypadek miejsca</trd>
   </trdgrp>
   <trd lng="pt">locativo</trd>
+  <trd lng="ro">locativ&abreve;</trd>
   <trd lng="ru">&c_m;&c_je;&c_s;&c_t;&c_n;&c_y;&c_j; &c_p;&c_a;&c_d;&c_je;&c_zh;</trd>
   <trd lng="tr">de hali</trd>
 </drv>
@@ -362,6 +380,7 @@
   <trd lng="nl">vocatief</trd>
   <trd lng="pl">wo&lstroke;acz</trd>
   <trd lng="pt">vocativo</trd>
+  <trd lng="ro">vocativ</trd>
   <trd lng="ru">&c_z;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
     &c_p;&c_a;&c_d;&c_je;&c_zh;</trd>
 </drv>
@@ -369,6 +388,12 @@
   </art>
   <!--
   $Log: kaz.xml,v $
+  Revision 1.41  2018/09/11 15:10:19  revo
+  Wolfram Diestel: +ekz chehha kun referencoj al div. kazoj
+
+  Revision 1.40  2018/03/26 17:10:22  revo
+  Vito Redsky: +trd ro
+
   Revision 1.39  2017/09/06 09:10:17  revo
   Damien Brucker: -eraro cxe cel en ref
 

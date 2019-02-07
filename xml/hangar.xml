@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hangar.xml,v 1.19 2015/07/04 08:37:35 revo Exp $">
+<art mrk="$Id: hangar.xml,v 1.20 2018/08/06 20:10:30 revo Exp $">
 <kap>
   <ofc>8</ofc>
-  <rad>hangar</rad>/o
+  <rad>hangar</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
 <drv mrk="hangar.0o">
   <kap><tld/>o</kap>
@@ -31,7 +31,7 @@
   <trd lng="be">&c_a;&c_n;&c_g;&c_a;&c_r;</trd>
   <trd lng="bg">&c_h;&c_a;&c_n;&c_g;&c_a;&c_r;</trd>
   <trd lng="ca">hangar</trd>
-  <trd lng="cs">hangár</trd>
+  <trd lng="cs">hang&aacute;r</trd>
   <trdgrp lng="de">
     <trd>Hangar</trd>,
     <trd>Flughalle</trd>
@@ -56,12 +56,15 @@
   <trd lng="pl">hangar</trd>
   <trd lng="pt">hangar</trd>
   <trd lng="ru">&c_a;&c_n;&c_g;&c_a;&c_r;</trd>
-  <trd lng="sk">hangár</trd>
+  <trd lng="sk">hang&aacute;r</trd>
   <trd lng="sv">hangar</trd>
 </drv>
 </art>
 <!--
 $Log: hangar.xml,v $
+Revision 1.20  2018/08/06 20:10:30  revo
+Michel Cantigneaux: aperas unue en SPV (1953), oficiala en 8OA (1974)
+
 Revision 1.19  2015/07/04 08:37:35  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -81,14 +84,5 @@ Revision 1.14  2009/08/28 16:32:59  revo
 Antonio Codazzi: +trd it
 
 Revision 1.13  2009/06/14 16:31:37  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.12  2008/04/22 17:50:01  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.11  2006/01/29 17:32:46  revo
-Jeromo Vasxe: + ekz
-
-Revision 1.10 2004/01/10 17:32:35 revo
 -->
 </vortaro>

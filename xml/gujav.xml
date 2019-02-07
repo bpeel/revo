@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gujav.xml,v 1.13 2018/01/15 16:10:14 revo Exp $">
+<art mrk="$Id: gujav.xml,v 1.14 2018/08/07 20:10:15 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>gujav</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -47,8 +47,9 @@
 </drv>
 
 <drv mrk="gujav.0arbo">
-  <kap><ofc>9</ofc><tld/>arbo,
-  <var><kap><ofc>9</ofc><tld/>ujo</kap></var></kap>
+  <kap><ofc>9</ofc><tld/>arbo <fnt><bib>SPV</bib></fnt>,
+  <var><kap><ofc>9</ofc><tld/>ujo
+  <fnt><bib>PIV1</bib></fnt></kap></var></kap>
   <snc mrk="gujav.0arbo.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
@@ -90,8 +91,12 @@
 </art>
 <!--
 $Log: gujav.xml,v $
+Revision 1.14  2018/08/07 20:10:15  revo
+Michel Cantigneaux: aperas unue en SPV (1953), oficiala en 9OA (2007)
+
 Revision 1.13  2018/01/15 16:10:14  revo
-Michel Cantigneaux: gujavarbo & gujavujo oficialaj kunmetajxoj de la 9a Aldono
+Michel Cantigneaux: gujavarbo &amp; gujavujo oficialaj kunmetajxoj de la 9a
+Aldono
 
 Revision 1.12  2015/07/04 08:37:35  revo
 aldono de trd cs per skripto de M. von Laer
@@ -108,9 +113,5 @@ Joop Eggen: +trd bg nl
 Revision 1.8  2012/08/19 09:10:29  revo
 Marc Rausell: + trd ca
 
-Revision 1.7  2009/08/27 16:31:45  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.6  2009/03/01 17:32:08  revo
 -->
 </vortaro>

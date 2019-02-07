@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-  <art mrk="$Id: tig.xml,v 1.25 2015/07/04 08:37:44 revo Exp $">
+  <art mrk="$Id: tig.xml,v 1.26 2018/08/06 22:11:13 revo Exp $">
     <kap>
       <ofc>8</ofc>
-      <rad>tig</rad>/o
+      <rad>tig</rad>/o <fnt><bib>PV</bib></fnt>
     </kap>
     <drv mrk="tig.0o">
       <kap><tld/>o</kap>
@@ -50,8 +50,8 @@
   <trd lng="bg">&c_s;&c_t;&c_malmol;&c_b;&c_l;&c_o;</trd>
   <trd lng="ca">tija</trd>
   <trdgrp lng="cs">
-    <trd>držák</trd>,
-    <trd>dřík</trd>,
+    <trd>dr&zcaron;&aacute;k</trd>,
+    <trd>d&rcaron;&iacute;k</trd>,
     <trd>kmen</trd>,
     <trd>stopka</trd>
   </trdgrp>
@@ -86,8 +86,8 @@
     </trdgrp>
   <trd lng="ru">&c_s;&c_t;&c_je;&c_b;&c_je;&c_l;&c_mol;</trd>
   <trdgrp lng="sk">
-    <trd>držiak</trd>,
-    <trd>kmeň</trd>,
+    <trd>dr&zcaron;iak</trd>,
+    <trd>kme&ncaron;</trd>,
     <trd>stopka</trd>
   </trdgrp>
   <trd lng="sr">&c_s;&c_t;&c_a;&c_b;&c_l;&c_o;</trd>
@@ -96,6 +96,9 @@
   </art>
   <!--
   $Log: tig.xml,v $
+  Revision 1.26  2018/08/06 22:11:13  revo
+  Michel Cantigneaux: aperas unue en PV (1934), oficiala en 8OA (1974)
+
   Revision 1.25  2015/07/04 08:37:44  revo
   aldono de trd cs per skripto de M. von Laer
 

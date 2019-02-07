@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: aski.xml,v 1.16 2015/07/04 08:37:30 revo Exp $">
+  <art mrk="$Id: aski.xml,v 1.17 2018/03/07 10:10:12 revo Exp $">
     <kap>
       <rad>Aski</rad>/o
     </kap>
@@ -24,7 +24,7 @@ novajn
         </dif>
         <ref tip="super" cel="kod.0o.SCI">kodo</ref>
         <refgrp tip="prt">
-          <ref cel="po.0-signo">po-signo</ref>,
+          <ref cel="po.0_signo">po-signo</ref>,
           <ref cel="helik.0o.ascii">heliko</ref>.
         </refgrp>
         <trd lng="ca">ASCII</trd>
@@ -67,6 +67,9 @@ novajn
   </art>
   <!--
   $Log: aski.xml,v $
+  Revision 1.17  2018/03/07 10:10:12  revo
+  Damien Brucker: -eraro cxe cel en ref
+
   Revision 1.16  2015/07/04 08:37:30  revo
   aldono de trd cs per skripto de M. von Laer
 

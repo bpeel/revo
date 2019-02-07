@@ -11,7 +11,7 @@
 #           KADRA STRUKTURO DE VORTARO
 # ********************************************************
 
-default namespace = "http://steloj.de/voko"
+#default namespace = "http://steloj.de/voko"
 namespace a = "http://relaxng.org/ns/compatibility/annotations/1.0"
 
 ## Radiko de la strukturarbo de vortaro. La elemento ampleksas
@@ -176,6 +176,7 @@ sekva-parto =
   referenciloj*,
   notiloj*,
   referenciloj*,
+  bld*,
   tradukiloj*,
   adm*
 
@@ -207,10 +208,10 @@ sekva-parto =
 ## La unuo <dfn>tekst-stiloj</dfn> 
 ## listigas ĉiujn strukturilojn, kiuj donas stilon al tekstoparto,
 ## ekz. emfazita, citilita, altigita aŭ malaltigita teksto.
-## Aliaj elementoj klarigo kaj tildo kaj sencreferenco same povas esti
-## multloke, do ankaŭ ili estas listigitaj tie ĉi.
+## Aliaj elementoj klarigo, tildo, sencreferenco, nomo aŭ nacilingva esprimo
+## same povas esti multloke, do ankaŭ ili estas listigitaj tie ĉi.
 
-tekst-stiloj = tld | sncref | klr | em | sup | sub | ctl | frm
+tekst-stiloj = tld | sncref | klr | em | sup | sub | ctl | frm | nom | nac
 
 
 ## Unuopa artikolo de la vortaro. Ĝi povas okazi en
@@ -242,10 +243,10 @@ subart =
     (drv | snc)*,
     sekva-parto 
   }
-attlist-subart &= empty
+attlist-subart &= attribute mrk { drv-marko }?
 
 ## Derivaĵo ene de artikolo. Unu artikolo povas priskribi plurajn
-## derivaĵojn de la kapvorto. Derivaĵo komenciĝas ja kapvorto kaj
+## derivaĵojn de la kapvorto. Derivaĵo komenciĝas je kapvorto kaj
 ## priskribaj elementoj pri ĝi aŭ el unu aŭ pluraj sencoj aŭ el unu aŭ
 ## pluraj subdividoj <dfn>subdrv</dfn>.
 
@@ -281,7 +282,7 @@ subdrv =
     (snc)*,
     sekva-parto
   }
-attlist-subdrv &= empty
+attlist-subdrv &= attribute mrk { snc-marko }?
 
 
 ## Senco de unuopa vorto en artikolo. Komparu la latinajn ciferojn en
@@ -342,7 +343,7 @@ fako = xsd:string { pattern = "[A-Z]{3,4}" }
 ##  Por uzo de versiokontrolo CVS en Revo uziĝas por novaj artikoloj 
 ##  anstataŭe $Id$ kiun CVS etendas al kompleta versioindiko.
 
-art-marko = xsd:string { pattern = "($Id: )?([a-z0-9_]+)(.xml)?.*" }
+art-marko = xsd:string { pattern = "$Id$|($Id: )?([a-z0-9_]+)(.xml)?.*" }
 
 
 ##  La marko de derivaĵo konsistas el dosiernomo, punkto kaj aldono, donanta la
@@ -415,9 +416,11 @@ vspec = element vspec {
   | ("subst."|"substantivo") 
   | ("adj."|"adjektivo") 
   | ("adv."|"adverbo") 
-  | ("interj."|"interjekcio"|"ekkrio" | "sonimito") 
+  | ("artikolo"|"determinilo")
+  | ("interj."|"interjekcio"|"ekkrio"|"sonimito") 
   | ("konj."|"konjunkcio") 
   | ("pref."|"prefikso") | ("suf."|"sufikso") 
+  | ("prep."|"prepozicio") | "prepoziciaĵo"
   | ("pron."|"pronomo") 
   ) 
   # ĉu necesas aldoni aliajn: disjunkcio, ...?
@@ -456,6 +459,7 @@ ekz =
      | ind
      | trd
      | trdgrp
+     | esc
      | tekst-stiloj)*
   }
 attlist-ekz &= attribute mrk { marko }?
@@ -465,7 +469,7 @@ attlist-ekz &= attribute mrk { marko }?
 # senco, krome referencojn, ekzemplojn, emfazitajn partojn.
 rim =
   element rim {
-    attlist-rim, (text | ref | refgrp | ekz | aut | fnt | tekst-stiloj)*
+    attlist-rim, (text | ref | refgrp | ekz | aut | fnt | esc | tekst-stiloj)*
   }
 attlist-rim &=
   attribute num { text }?,
@@ -571,6 +575,8 @@ attlist-mll &= attribute tip { "kom" | "mez" | "fin" }?
 ## Per <dfn>alt</dfn> aŭ <dfn>lrg</dfn> vi povas doni fiksan formaton.
 ## Per <dfn>tip</dfn> vi donas tipon de la bildo, t.e. <dfn>img</dfn>
 ## por JPEG, GIF, PNG-bildo, <dfn>svg</dfn> por SVG-vektorgrafiko.
+## Per <dfn>aut</dfn> vi donas aŭtoron kaj <dfn>prm</dfn> la permesilon
+## laŭ kiu la bildo rajtas esti uzata (vd ĉe Wikimedia Commons).
 
 bld =
   element bld {
@@ -581,8 +587,8 @@ attlist-bld &=
   attribute mrk { marko }?,
   [ a:defaultValue = "img" ] attribute tip { "img" | "svg" }?,
   attribute alt { xsd:int }?,
-  attribute lrg { xsd:int }?
-
+  attribute lrg { xsd:int }?,
+  attribute prm { text }?
 
 # [adm] Administraj informoj estu por redaktado. Ili povus
 # enhavi informojn pri kreodato, ŝanĝdato, aŭtoro, eraroj kaj
@@ -605,7 +611,7 @@ attlist-tld &= attribute lit { text }?
 klr =
   element klr {
     attlist-klr,
-    (text | trd | trdgrp | ekz | ref | refgrp | tekst-stiloj)*
+    (text | trd | trdgrp | ekz | ref | refgrp | esc | tekst-stiloj)*
   }
 attlist-klr &= attribute tip { "ind" | "amb" }?
 
@@ -668,6 +674,22 @@ attlist-sub &= empty
 ctl = element ctl { attlist-ctl, (text | tld | em | frm)* }
 attlist-ctl &= empty
 
+# [nom] nomo ne-esperantigita, ignorata dum vortkontrolo
+# ekz. "Karl Bein"
+nom = element nom { attlist-nom, text* }
+attlist-nom &= empty
+
+
+# [nac] nacilingva vorto aŭ esprimo, ignorata dum vortkontrolo
+# ekz. "powerful"
+nac = element nac { attlist-nac, text* }
+attlist-nac &= empty
+
+
+# [esc] escepta vorto aŭ esprimo laŭ vortanaliza gramatiko, 
+# ekz. "vivipova" (anst. "pova vivi" aŭ "vivopova"), "ĵusfarita" (anst. "ĵus farita")
+esc = element esc { attlist-esc, text* }
+attlist-esc &= empty
 
 # [url] Referenco al iu ekstera dosiero. En la HTML-versio de vortaro
 # tio fariĝas &lt;a href=...&gt; Anstataŭ la TTT-ejo prefere uzu

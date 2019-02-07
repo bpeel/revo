@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stupa.xml,v 1.4 2015/07/04 08:37:44 revo Exp $">
+<art mrk="$Id: stupa.xml,v 1.6 2018/10/02 07:10:15 revo Exp $">
 <kap>
   <rad>stupa</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -12,13 +12,17 @@
     <uzo tip="fak">ARKI</uzo>
     <uzo tip="fak">BUD</uzo>
     <dif>
-      Budaisma kupola <ref tip="super" cel="pregx.0ejo">pre&gcirc;ejo</ref>
-      ordinare ne enirebla, entenanta relikvojn a&ubreve; sanktajn tekstojn,
-      anta&ubreve; kiu oni pre&gcirc;as, kaj kiun oni rite &ccirc;irka&ubreve;iras:
+      Budaisma kupola <ref tip="super"
+      cel="pregx.0ejo">pre&gcirc;ejo</ref>
+      ordinare ne enirebla, entenanta relikvojn a&ubreve; sanktajn
+      tekstojn,
+      anta&ubreve; kiu oni pre&gcirc;as, kaj kiun oni rite
+      &ccirc;irka&ubreve;iras:
       <ekz>
         la montodeklivoj estis plene kovritaj de domoj, <tld/>oj kaj
         kavernoj
-        <fnt><aut>&Ccirc;ina Radio Internacia</aut>, <vrk>Tie estis la antikva
+        <fnt><aut>&Ccirc;ina Radio Internacia</aut>, <vrk>Tie estis la
+        antikva
         re&gcirc;lando Guge</vrk>, <lok>2005-03-30</lok></fnt>
       </ekz>
     </dif>
@@ -34,6 +38,7 @@
   <trd lng="de">Stupa</trd>
   <trd lng="en">stupa</trd>
   <trd lng="es">estupa</trd>
+  <trd lng="fa">&a_A;&a_s;&a_t;&a_w;&f_p;&a_A;</trd>
   <trd lng="fr">st&ucirc;pa</trd>
   <trd lng="hr">stupa</trd>
   <trd lng="hu">szt&uacute;pa</trd>
@@ -44,11 +49,18 @@
   <trd lng="sk">stupa</trd>
   <trd lng="sr">&c_s;&c_t;&c_u;&c_p;&c_a;</trd>
   <trd lng="sv">stupa</trd>
+  <trd lng="th">&#3626;&#3606;&#3641;&#3611;</trd>
 </drv>
 </art>
 
 <!--
 $Log: stupa.xml,v $
+Revision 1.6  2018/10/02 07:10:15  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.5  2018/09/11 15:10:14  revo
+Warut Bunprasert: +trd th
+
 Revision 1.4  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 

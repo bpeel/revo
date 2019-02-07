@@ -2,9 +2,9 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: amend.xml,v 1.20 2017/01/29 13:10:30 revo Exp $">
+<art mrk="$Id: amend.xml,v 1.21 2018/08/06 11:10:16 revo Exp $">
 <kap>
-  <ofc>9</ofc><rad>amend</rad>/i
+  <ofc>9</ofc><rad>amend</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="amend.0i">
   <kap><ofc>9</ofc><tld/>i</kap>
@@ -28,7 +28,7 @@
 </drv>
 
 <drv mrk="amend.0o">
-  <kap><ofc>9</ofc><tld/>o</kap>
+  <kap><ofc>9</ofc><tld/>o <fnt><bib>PV</bib></fnt></kap>
   <snc mrk="amend.0o.JUR">
     <uzo tip="fak">JUR</uzo>
     <dif>
@@ -68,6 +68,9 @@
 </art>
 <!--
 $Log: amend.xml,v $
+Revision 1.21  2018/08/06 11:10:16  revo
+Michel Cantigneaux: aperas unue en PV (1934), oficiala en 9OA (2007)
+
 Revision 1.20  2017/01/29 13:10:30  revo
 Adam Eng: +trd ms
 
@@ -87,8 +90,5 @@ Dmitri Gabinski: +trd be
 Revision 1.14 2003/05/18 18:02:37 revo
 Viliam Bur: +trd sk
 Revision 1.13 2003/02/16 17:33:10 revo
-Ulrich Fellmann: + uzo fak JUR
-Revision 1.12 2003/02/15 17:34:06 revo
-Ulrich Fellmann: + 8 trd = de
 -->
 </vortaro>

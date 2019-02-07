@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: avid.xml,v 1.28 2015/10/29 19:10:15 revo Exp $">
+<art mrk="$Id: avid.xml,v 1.29 2018/12/28 17:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>avid</rad>/a <fnt><bib>PV</bib></fnt>
@@ -222,6 +222,27 @@
   <trd lng="sk">chamtivec</trd>
 </drv>
 
+<drv mrk="avid.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="avid.mal0a.KOMUNE">
+    <dif>
+      Kiu ne <tld/>as, ne deziras multon por si:
+      <ekz>
+        kiu estas senpasia, mal<tld/>a kaj krome rezona kaj erudicia, 
+        meritas la nomon de granda sa&gcirc;ulo; li pasigas la lastan vivon
+        <fnt>
+          <aut>-, trad. Seiho Nishi</aut>
+          <vrk><url
+          ref="http://www001.upp.so-net.ne.jp/jble/sutro/darmapado.html">
+          Darmapado, 352</url></vrk>
+          <lok>La Japana Budhano, 1974-1975 (162-169)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">d&eacute;sinteress&eacute;</trd>
+</drv>
+
 <drv mrk="avid.glor0a">
   <kap>glor<tld/>a</kap>
   <snc mrk="avid.glor0a.KOMUNE">
@@ -333,6 +354,9 @@
 </art>
 <!--
 $Log: avid.xml,v $
+Revision 1.29  2018/12/28 17:10:19  revo
+Jeromo Vasxe: + mal~a
+
 Revision 1.28  2015/10/29 19:10:15  revo
 Jeromo Vasxe: + ~inda
 
@@ -352,8 +376,5 @@ Revision 1.23  2011/10/05 09:10:15  revo
 Antonio Codazzi: +trd it
 
 Revision 1.22  2010/02/02 17:30:38  revo
-Russ Williams: +trd en
-
-Revision 1.21  2007/06/13 16:31:03  revo
 -->
 </vortaro>

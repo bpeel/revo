@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: modus.xml,v 1.12 2016/02/28 19:10:53 revo Exp $">
+<art mrk="$Id: modus.xml,v 1.13 2018/11/12 13:10:14 revo Exp $">
 <kap>
   <rad>modus</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -72,12 +72,7 @@ ref="http://ourworld.compuserve.com/homepages/Uli_Ender/e-esp01.htm#109"
     <trd lng="de">Modus</trd>
   </snc>
    <rim>
-     Kelkaj vortaroj
-     <ekz>
-       <fnt><aut>Gaston Waringhien</aut>,
-       <vrk>Grand dictionnaire esp&eacute;ranto-fran&ccedil;ais</vrk>.
-       <lok>Paris, 1954.</lok></fnt>
-     </ekz>
+     Kelkaj vortaroj <ekz>(ekz-e <fnt><bib>GFEF</bib></fnt>)</ekz>
      indikas <ctl><tld/>o</ctl>n kiel sinonomon por
      <ref tip="sin" cel="modal.0o">modalo</ref>. Mi tamen opinias
      ke la internacia vortuzo ebligas klare apartigi la tre diversajn
@@ -100,8 +95,12 @@ ref="http://ourworld.compuserve.com/homepages/Uli_Ender/e-esp01.htm#109"
 </art>
 <!--
 $Log: modus.xml,v $
+Revision 1.13  2018/11/12 13:10:14  revo
+Sergio Pokrovskij: GDEF
+
 Revision 1.12  2016/02/28 19:10:53  revo
-Wolfram Diestel: riparo: ref  forighis per skripto de M.Laer pro interlokita traduko
+Wolfram Diestel: riparo: ref  forighis per skripto de M.Laer pro
+interlokita traduko
 
 Revision 1.11  2015/07/04 08:37:39  revo
 aldono de trd cs per skripto de M. von Laer
@@ -118,9 +117,5 @@ Tulio Flores: +tr pt
 Revision 1.7  2004/06/15 21:33:01  revo
 Jozefo Horvath: +trd hu
 
-Revision 1.6  2004/03/22 17:30:53  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.5  2004/02/26 17:31:00  revo
 -->
 </vortaro>

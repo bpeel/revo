@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxapel.xml,v 1.34 2017/10/14 12:10:15 revo Exp $">
+<art mrk="$Id: cxapel.xml,v 1.35 2018/12/13 23:10:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;apel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -178,6 +178,28 @@
   <trd lng="fr">chapeau-melon</trd>
 </drv>
 
+<drv mrk="cxapel.cilindro0o">
+  <kap>cilindro<tld/>o</kap>
+  <snc mrk="cxapel.cilindro0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Alta, cilindroforma <tld/>o, pliofte nigra,
+      moda &ccirc;e okcidentaj viroj de alta klaso en la
+      19a jarcento:
+      <ekz>
+        la fiera cilindro<tld/>o ricevis piedpu&scirc;on kaj
+        ruli&gcirc;is en fosa&jcirc;on
+        <fnt>
+          <aut>W. Kabel, trad. M. Lennartz</aut>
+          <vrk>La domo &ccirc;e la mueleja kanalo</vrk>
+          <lok>2017</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">haut-de-forme</trd>
+</drv>
+
 <drv mrk="cxapel.klak0o">
   <kap>klak<tld/>o</kap>
   <snc mrk="cxapel.klak0o.TEKS">
@@ -212,6 +234,9 @@
 </art>
 <!--
 $Log: cxapel.xml,v $
+Revision 1.35  2018/12/13 23:10:20  revo
+Jeromo Vasxe: + cilindro~o
+
 Revision 1.34  2017/10/14 12:10:15  revo
 Vito Redsky: +trd ro
 
@@ -231,8 +256,5 @@ Revision 1.29  2010/08/12 16:30:34  revo
 Jeromo Vasxe: + funga ~o
 
 Revision 1.28  2009/04/27 16:31:14  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.27  2009/04/17 19:48:28  revo
 -->
 </vortaro>

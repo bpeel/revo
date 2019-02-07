@@ -2,46 +2,28 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: balan.xml,v 1.6 2017/11/16 19:10:26 revo Exp $">
+<art mrk="$Id: balan.xml,v 1.7 2018/08/31 20:10:25 revo Exp $">
 <kap>
   <rad>balan</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="balan.0o">
   <kap><tld/>o</kap>
-  <snc mrk="balan.0o.ZOO">
-    <uzo tip="fak">ZOO</uzo>
-    <dif>
-      Mara krustuleto, kiu fiksas sian &scirc;elon &ccirc;e roko, ekstere tre simile
-      al konko; genro el familio balanedoj (<trd
-      lng="la">Balanus</trd>); <ref tip="sin"
-      cel="glan.mar0o.ZOO">marglano</ref>:
-      <ekz>
-        e&ccirc; la elstara Kuvier (Cuvier) ne pensis ke la <tld/>o estas 
-        <klr>...</klr> krustulo
-        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 13a</lok></fnt>.
-      </ekz>
-    </dif>
-    <trd lng="cs">balanus</trd>
-    <trd lng="en">Balanus</trd>
-    <trd lng="fr">balane</trd>
-    <trd lng="nl">Balanus</trd>
-    <trd lng="pl">p&aogonek;kle</trd>
-    <trd lng="sk">morsk&yacute; &zcaron;alu&dcaron;</trd>
-  </snc>
   <snc mrk="balan.0o.ANA">
     <uzo tip="fak">ANA</uzo>
-    <ref tip="dif" cel="glan.0o.penisa">glano<sncref/></ref>
-    <ekz>
-      por bone purigi la penison, la prepucio (la ha&ubreve;to &ccirc;irka&ubreve; la
-      <tld/>o) devas esti tute repu&scirc;ita
-      <fnt>
-        <aut>trad. Pa&ubreve;lin'</aut>,
-        <vrk>Adoleskantinaj Demandoj</vrk>,
-        <lok>1999</lok>
-      </fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="glan.0o.penisa">Glano<sncref/></ref>:
+      <ekz>
+        por bone purigi la penison, la prepucio (la ha&ubreve;to &ccirc;irka&ubreve; la
+        <tld/>o) devas esti tute repu&scirc;ita
+        <fnt>
+          <aut>trad. Pa&ubreve;lin'</aut>,
+          <vrk>Adoleskantinaj Demandoj</vrk>,
+          <lok>1999</lok>
+        </fnt>.
+      </ekz>
+    </dif>
     <trd lng="be">&c_g;&c_a;&c_l;&c_o;&c_w;&c_k;&c_a; <klr tip="amb">(&c_p;&c_e;&c_n;&c_ib;&c_s;&c_a;)</klr></trd>
-    <trd lng="de">Peniseichel</trd>
+    <trd lng="de">Eichel <klr>(Penis)</klr></trd>
     <trd lng="en">glans penis</trd>
     <trd lng="fr">gland<klr tip="ind"> (t.s.)</klr></trd>
     <trd lng="fy">n&uacute;t</trd>
@@ -60,6 +42,9 @@
 
 <!--
 $Log: balan.xml,v $
+Revision 1.7  2018/08/31 20:10:25  revo
+Wolfram Diestel: remetis la marbeston sur sian apartan lokon (balan1)
+
 Revision 1.6  2017/11/16 19:10:26  revo
 Robin van der Vliet: referencoj kaj tradukoj
 

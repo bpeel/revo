@@ -162,7 +162,7 @@ A.redakto:visited {text-decoration: underline; color: black}
 A.redakto:active {text-decoration: underline; color: gray}
 
 .flago {  border-color: #cccccc; border-width: 1px;  border-style: outset}
-IMG.bld { border-color: #cccccc; border-width: 2px; border-style: outset} 
+IMG.bld { border-color: #cccccc; border-width: 1px; background: #E0E0A0; border-style: solid; padding: 2px; margin: 0.5em} 
 IMG.fak { height: 1.5em; vertical-align: bottom; }
 
 IMG.tez { height: 1.2em; padding: 1px; vertical-align: bottom;
@@ -171,13 +171,33 @@ A IMG.tez:focus {background-color:  #c0c090; border: 2px outset gray}
 A IMG.tez:hover {background-color:  #c0c090; border: 2px outset gray}
 A IMG.tez:active {background-color:  #a0a070; border: 2px inset gray}
 
+A.tez-ref { text-decoration: none; baseline-shift: super; color: darkgreen; font-weight: normal; padding: 0.1em; border-radius: 40%}
+A.tez-ref:visited { background-color: transparent; color: darkgreen}
+A.tez-ref:focus {background-color:  #c0c090; color: brown}
+A.tez-ref:hover {background-color:  #c0c090; color: brown}
+A.tez-ref:active {background-color:  #a0a070; color: coral}
+
 IMG.viki { height: 1.2em; vertical-align: bottom;
 	   border-radius: 20%; border: 2px outset transparent}
 A IMG.viki:focus {background-color:  #c0c090; border: 2px outset gray}
 A IMG.viki:hover {background-color:  #c0c090; border: 2px outset gray}
 A IMG.viki:active {background-color:  #a0a070; border: 2px inset gray}
 
+.piedlinio {color: #104040; text-align: center}
+.kuketoaverto { position: fixed; bottom: 0px; left: 5%; width: 90%; min-height:7em;
+		background-color: #c0c090; margin: 0; display: none;
+		border-radius: 5px 5px 0 0; border: 1px solid #303030; border-bottom: none
+	      }
+.kuketoaverto P { text-align:center }
+.kuketoaverto FORM { text-align:center }
 
 /* formuloj */
 .frm { font-style: normal }
+
+.bld_atrib { font-size: 80%; color: gray }
+.bld_atrib:link { font-size: 80%; color: gray }
+.bld_atrib:visited { font-size: 80%; color: gray }
+.bld_atrib:focus { font-size: 80%; color: gray }
+.bld_atrib:hover { font-size: 80%; color: gray }
+.bld_atrib:active { font-size: 80%; color: gray }
 

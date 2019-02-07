@@ -3,7 +3,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bon.xml,v 1.60 2017/12/21 16:10:20 revo Exp $">
+<art mrk="$Id: bon.xml,v 1.65 2018/06/30 08:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bon</rad>/a <fnt><bib>PV</bib></fnt>
@@ -249,7 +249,7 @@
 
 <drv mrk="bon.0i">
   <kap><tld/>i</kap>
-  <snc>
+  <snc mrk="bon.0i.KOMUNE">
     <dif>
       Esti <tld/>a:
       <ekz>
@@ -261,11 +261,11 @@
       <ekz>
         kaj vi geedzi&gcirc;is: tio <tld/>as
         <fnt>
-          <aut>Louis Couperus</aut>
+          <aut>L. Couperus</aut>
           <vrk><url
           ref="https://books.google.com/books?id=gM3DyPtTq08C">Pri
           maljunuloj, la a&jcirc;oj kiuj pasas...</url></vrk>
-          <lok>jaro 2013a, &ccirc;apitro 4a, p. 58a</lok>
+          <lok>2013</lok>
         </fnt>.
       </ekz> 
     </dif>
@@ -275,8 +275,8 @@
 </drv>
 
 <drv mrk="bon.0o">
-  <kap><tld/>o, <var><kap><tld/>a&jcirc;o</kap></var></kap>
-  <snc>
+  <kap><tld/>o, <ofc>*</ofc><var><kap><tld/>a&jcirc;o</kap></var></kap>
+  <snc mrk="bon.0o.KOMUNE">
     <dif>
       Io <tld/>a:
       <ekz>
@@ -348,7 +348,7 @@
 
 <drv mrk="bon.0eco">
   <kap><ofc>*</ofc><tld/>eco</kap>
-  <snc>
+  <snc mrk="bon.0eco.KOMUNE">
     <dif>
       Eco de tio, kio estas bona:
       <ekz>
@@ -468,7 +468,7 @@
 <drv mrk="bon.mal0igi">
   <kap><ofc>*</ofc>mal<tld/>igi</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="bon.mal0igi.KOMUNE">
     <dif>
       Fari ion mal<tld/>a, difekti ion:
       <ekz>
@@ -524,9 +524,35 @@
   <trd lng="tp">ike</trd>
 </drv>
 
+<drv mrk="bon.mal0igxi">
+  <kap>mal<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="bon.mal0igxi.KOMUNE">
+    <dif>
+      I&gcirc;i mal<tld/>a, ne funkcianta, difektita, misa:
+      <ekz>
+        por esplori ovojn, &ccirc;u ili ne mal<tld/>i&gcirc;is,
+        oni povas teni ilin kontra&ubreve; la lumo de la suno
+        <fnt>
+          <aut>-</aut>
+          <vrk>El la mondo</vrk>
+          <lok><url
+          ref="http://anno.onb.ac.at/cgi-content/anno-plus?aid=e0a&amp;datum=1892&amp;page=28">
+          La esperantisto, 1892:2, p. 28a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>se <ind>corrompre</ind></trd>,
+    <trd>se <ind>d&eacute;grader</ind></trd>,
+    <trd>se <ind>g&acirc;ter</ind></trd>
+  </trdgrp>
+</drv>
+
 <drv mrk="bon.plej0eco">
   <kap>plej<tld/>eco</kap>
-  <snc>
+  <snc mrk="bon.plej0eco.KOMUNE">
     <dif>
       Plej alta kvalito, plej bona stato, kiun io povas atingi:
       <ekz>
@@ -536,7 +562,10 @@
         <fnt><bib>BonaLingvo</bib>, <lok>p. 95a</lok></fnt>.
       </ekz>
     </dif>
-    <ref tip="vid" cel="perfek.0a">perfekta</ref>
+    <refgrp tip="vid">
+      <ref cel="optimum.0o">optimumo</ref>,
+      <ref cel="perfek.0a">perfekta</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_o;&c_t;&c_p;&c_y;&c_m;&c_u;&c_m;</trd>,
@@ -568,12 +597,16 @@
 </drv>
 
 <drv mrk="bon.pli0igi">
-  <kap>pli<tld/>igi</kap>
-  <snc>
+  <kap><ofc>*</ofc>pli<tld/>igi</kap>
+  <snc mrk="bon.pli0igi.KOMUNE">
     <dif>
       Meti en pli <tld/>an staton, forigante difektojn:
       <ekz>
-        pli<tld/>igi aparaton, metodon
+        pli<tld/>igi aparaton, metodon;
+      </ekz>
+      <ekz>
+      &ccirc;ar se mi volus pli<tld/>igi, tio &ccirc;i jam estus&nbsp;&scirc;an&gcirc;o...
+      <fnt><bib>F</bib>, <lok>Anta&ubreve;parolo</lok></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -622,7 +655,7 @@
 <drv mrk="bon.re0igi">
   <kap>re<tld/>igi</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="bon.re0igi.KOMUNE">
     <dif>
       Meti denove en <tld/>an staton, ripari:
       <ekz>
@@ -667,6 +700,33 @@
   </trdgrp>
 </drv>
 
+<drv mrk="bon.komuna0o">
+  <kap>komuna <tld/>o</kap>
+  <snc mrk="bon.komuna0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Bono, prospero komuna kaj utila al &ccirc;iuj anoj
+      de la socio:
+      <ekz>
+        ni bezonas regulojn! sen le&gcirc;oj, neniu laboras
+        por la komuna <tld/>o
+        <fnt>
+          <aut>C. McKee</aut>
+          <vrk><url
+          ref="https://cindymckee.com/librejo/Tuboj-unua_parto.pdf">
+          Tuboj</url></vrk>
+          <lok>[vidita en 2018]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>bien commun</trd>,
+    <trd>int&eacute;r&ecirc;t g&eacute;n&eacute;ral</trd>
+  </trdgrp>
+</drv>
+
 <drv mrk="bon.mal0avida">
   <kap>mal<tld/>avida<fnt>Z</fnt></kap>
   <snc>
@@ -699,27 +759,27 @@
 <!--
 
 $Log: bon.xml,v $
+Revision 1.65  2018/06/30 08:10:14  revo
+Jeromo Vasxe: kor fnt
+
+Revision 1.64  2018/06/29 12:10:15  revo
+Michel Cantigneaux: bonajxo, fundamenta kunmetajxo el ekzercaro
+
+Revision 1.63  2018/06/29 10:10:15  revo
+Jeromo Vasxe: + mal~igxi
+
+Revision 1.62  2018/06/12 08:10:14  revo
+Jeromo Vasxe: + komuna ~o
+
+Revision 1.61  2018/03/14 09:10:15  revo
+Michel Cantigneaux: plibonigi fundamenta vorto de la Antauxparolo
+
 Revision 1.60  2017/12/21 16:10:20  revo
 Robin van der Vliet: +boni
 
 Revision 1.59  2017/12/18 23:10:24  revo
 Michel Cantigneaux: "bon/ec/o" : ekzemplo de ec' en la Universala
 Vortaro, do fundamenta kunmetajxo
-
-Revision 1.58  2017/04/24 12:10:17  revo
-Robin van der Vliet: +trd
-
-Revision 1.57  2017/01/26 09:10:28  revo
-Lyubomir Vasilev: +trd bg
-
-Revision 1.56  2016/11/20 01:10:17  revo
-Robin van der Vliet: +trd fy, io, vo
-
-Revision 1.55  2015/10/06 02:10:34  revo
-Evandro Avellar: +trd pt
-
-Revision 1.54  2015/09/17 18:10:16  revo
-Bora Can Asli: +trd az,et,kk,ky,tk,tr,tt,ug,uz
 
 -->
 

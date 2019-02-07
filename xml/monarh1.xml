@@ -2,11 +2,12 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: monarh1.xml,v 1.17 2017/12/21 17:10:30 revo Exp $">
+  <art mrk="$Id: monarh1.xml,v 1.19 2018/11/17 23:10:18 revo Exp $">
     <kap>
       <ofc>8</ofc>
-      <rad>monar&hcirc;i</rad>/o, <var><kap>monarki/o
-    </kap></var></kap>
+      <rad>monar&hcirc;i</rad>/o, 
+      <var><kap><ofc>8</ofc> <rad>monarki</rad>/o
+      <fnt><bib>PV</bib></fnt></kap></var></kap>
     <drv mrk="monarh1.0o">
       <kap><tld/>o, <var><kap>monarkio <fnt><lok>Akademio de Esperanto,
       <url
@@ -53,6 +54,12 @@
   </art>
 <!--
 $Log: monarh1.xml,v $
+Revision 1.19  2018/11/17 23:10:18  revo
+Michel Cantigneaux: indikilo de la 8a OA por monarkio ankaux
+
+Revision 1.18  2018/08/06 22:10:53  revo
+Michel Cantigneaux: aperas unue en PV (1934), oficiala en 8OA (1974)
+
 Revision 1.17  2017/12/21 17:10:30  revo
 Michel Cantigneaux: aldono ligilo al la 8a OA
 
@@ -69,11 +76,5 @@ Revision 1.13  2009/06/21 16:30:45  revo
 Wieland Pusch: +trd bg,de
 
 Revision 1.12  2009/06/19 05:09:34  revo
-Russ Williams: tajperaro Polilika / Politika
-
-Revision 1.11  2006/08/07 16:33:01  revo
-Tulio Flores: +tr pt
-
-Revision 1.10  2003/06/05 16:30:45  revo
 -->
 </vortaro>

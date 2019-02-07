@@ -2,16 +2,25 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kompen2.xml,v 1.14 2015/10/23 12:10:18 revo Exp $">
+<art mrk="$Id: kompen2.xml,v 1.16 2018/08/29 10:10:15 revo Exp $">
 <kap>
   <rad>kompensator</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="kompen2.0o">
   <kap><tld/>o</kap>
   <snc>
-  <uzo tip="fak">ELE</uzo>
+    <uzo tip="fak">ELE</uzo>
     <uzo tip="stl">ARK</uzo>
-     <ref tip="dif" cel="kompen1.0ilo">kompensilo</ref>
+    <dif>
+      <ref tip="dif" cel="kompen1.0ilo">Kompensilo</ref>:
+      <ekz>
+        la rapideckontrolilo konsistas el PID-kontrolilo (proporcia-integrala-deriva kontrolilo) kaj ak<klr>[c]</klr>eli&gcirc;a <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=18135">Rapidecregulilo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_e;&c_n;&c_s;&c_a;&c_t;&c_a;&c_r;</trd>
   <trd lng="cs">kompenz&aacute;tor</trd>
@@ -20,13 +29,21 @@
   <trd lng="fr">compensateur</trd>
   <trd lng="hu">kompenz&aacute;tor</trd>
   <trd lng="nl">compensator</trd>
+  <trd lng="pl">kompensator</trd>  
   <trd lng="pt">compensador</trd>
+  <trd lng="ro">compensator</trd>
   <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_je;&c_n;&c_s;&c_a;&c_t;&c_o;&c_r;</trd>
   <trd lng="sk">kompenz&aacute;tor</trd>
 </drv>
 </art>
 <!--
 $Log: kompen2.xml,v $
+Revision 1.16  2018/08/29 10:10:15  revo
+Wolfram Diestel: +ekz
+
+Revision 1.15  2018/07/30 19:10:14  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.14  2015/10/23 12:10:18  revo
 Cindy Moon McKee: +trd en
 
@@ -43,11 +60,5 @@ Revision 1.10  2007/01/05 17:30:18  revo
 Tulio Flores: +tr pt
 
 Revision 1.9  2005/01/23 17:32:58  revo
-Marc Bavant: +ARK, +fnt
-
-Revision 1.8  2003/01/05 17:34:56  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.7  2002/09/13 16:35:58  revo
 -->
 </vortaro>

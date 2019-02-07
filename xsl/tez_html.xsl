@@ -28,20 +28,22 @@
      El ĉiu nodo kreiĝas unu HTML-dosiero 
 -->
 
+<xsl:include href="inc/inx_kodigo.inc"/>
 
 <xsl:output method="@format@" encoding="utf-8"/>
 <xsl:strip-space elements="k"/>
 
-<xsl:include href="inx_ordigo2.inc"/>
+<xsl:include href="inc/inx_ordigo2.inc"/>
 <xsl:template name="v"/> <!-- referencita de inx_ordigo2.inc, sed ne bezonata tie ĉi -->
 
 <xsl:param name="verbose" select="'false'"/>
 <xsl:param name="warn-about-dead-refs" select="'false'"/>
 
 
-<!-- xsl:variable name="fakoj">../cfg/fakoj.xml</xsl:variable -->
+<xsl:variable name="fakoj">../cfg/fakoj.xml</xsl:variable>
+<xsl:variable name="klasoj_cfg" select="'../cfg/klasoj.xml'"/>
 <xsl:variable name="enhavo">../cfg/enhavo.xml</xsl:variable>
-  <xsl:variable name="inx_paghoj" select="count(document($enhavo)//pagho[not(@kashita='jes')])"/>
+<xsl:variable name="inx_paghoj" select="count(document($enhavo)//pagho[not(@kashita='jes')])"/>
 
 <xsl:variable name="root" select="/"/>
 
@@ -52,6 +54,7 @@
   <xsl:apply-templates select="//tez"/>
 </xsl:template>
 
+<!-- NE PLU UZENDA, forigu okaze -->
 <xsl:template match="tez">
   <xsl:apply-templates/>
 
@@ -60,7 +63,16 @@
 
 
 <xsl:template match="nod">
-  <xsl:variable name="dosiero" select="concat('tz_',translate(@mrk,'.','_'),'.html')"/>
+  <xsl:variable name="dosiero">
+    <xsl:choose>
+      <xsl:when test="@mrk != ''">
+        <xsl:value-of select="concat('tz_',translate(@mrk,'.','_'),'.html')"/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:value-of select="concat('tz_',translate(@mrk2,'.','_'),'.html')"/>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:variable>
 
   <xsl:if test="$verbose='true'">
     <xsl:message>skribas al <xsl:value-of select="$dosiero"/></xsl:message>
@@ -70,7 +82,8 @@
   <xsl:result-document href="{$dosiero}" method="@format@" encoding="utf-8" indent="yes">
   <html>
     <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+      <meta name="viewport" content="width=device-width,initial-scale=1"/>
       <title><xsl:value-of select="concat('teza&#x016d;ro: ',k)"/></title>
       <link title="indekso-stilo" type="text/css" 
             rel="stylesheet" href="../stl/indeksoj.css"/>
@@ -112,7 +125,8 @@
     <xsl:result-document href="{$dosiero}" method="@format@" encoding="utf-8" indent="yes">
     <html>
       <head>
-         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+         <meta name="viewport" content="width=device-width,initial-scale=1"/>
          <title><xsl:value-of select="concat('teza&#x016d;ro - fako: ',$fak)"/></title>
          <link title="indekso-stilo" type="text/css" 
             rel="stylesheet" href="../stl/indeksoj.css"/>
@@ -160,21 +174,20 @@
 </xsl:template -->
 
 
-<!-- xsl:template name="fak-ref">
-  <xsl:param name="fak"/>
-
-  <a href="{concat('fxs_',$fak,'.html')}">
-    <img src="{concat('../smb/',$fak,'.gif')}" alt="{$fak}" border="0"/>
-  </a>
-</xsl:template -->
-
-
 <xsl:template name="fak-ref">
   <xsl:param name="fak"/>
 
+  <xsl:for-each select="document($fakoj)/fakoj/fako[@kodo=$fak]">
+    <a href="{concat('../inx/fx_',$fak,'.html')}">
+      <img src="{@vinjeto}" class="fak" alt="{@kodo}" border="0"/>
+    </a>
+  </xsl:for-each>
+
+  <!--
   <a href="{concat('../inx/fx_',$fak,'.html')}">
     <img src="{concat('../smb/',$fak,'.gif')}" alt="{$fak}" border="0"/>
-  </a>
+    </a>
+    -->
 </xsl:template>
 
 
@@ -321,8 +334,8 @@
 <xsl:template match="lst">
   <xsl:if test="r">
     <h3 class="griza">listoj</h3>
-    <xsl:call-template name="refs">
-       <xsl:with-param name="smb" select="'lst.gif'"/>
+    <xsl:call-template name="lst-refs">
+       <xsl:with-param name="smb" select="'listo.gif'"/>
        <xsl:with-param name="alt" select="'&#x21c9;'"/>
     </xsl:call-template>
   </xsl:if>
@@ -355,11 +368,14 @@
   <xsl:param name="smb"/>
   <xsl:param name="alt"/>
   <xsl:for-each select="r">
-    <xsl:sort lang="eo" collation="eo" select="translate(//tez/nod[@mrk=current()/@c or @mrk2=current()/@c]/k,'-( )','')"/>
+     <!-- [1] ĉar foje mrk aperas dufoje pro erara artikolo, tiel ne haltas la tuta servo, sed aliflanke la eraroj ne rimarkiĝas... -->
+    <xsl:sort lang="eo" collation="http://saxon.sf.net/collation?class=de.steloj.respiro.EsperantoCollator" select="translate(//tez/nod[@mrk=current()/@c or @mrk2=current()/@c][1]/k,'-( )','')"/>
 
     <xsl:if test="not(following-sibling::r[@c=current()/@c])"> <!-- evitu duoblajhojn -->
 
-      <xsl:variable name="nod" select="//tez/nod[@mrk=current()/@c or @mrk2=current()/@c]"/>
+    <!-- [1] ĉar foje mrk aperas dufoje pro erara artikolo, tiel ne haltas la tuta servo, sed aliflanke la eraroj ne rimarkiĝas... -->
+
+      <xsl:variable name="nod" select="//tez/nod[@mrk=current()/@c or @mrk2=current()/@c][1]"/>
       <xsl:choose>
         <xsl:when test="$nod">
 
@@ -381,6 +397,56 @@
            </xsl:message>
         </xsl:when>
       </xsl:choose>
+
+    </xsl:if>
+  </xsl:for-each>
+</xsl:template>
+
+
+<xsl:template name="lst-refs">
+  <xsl:param name="smb"/>
+  <xsl:param name="alt"/>
+  <xsl:for-each select="r">
+    <xsl:sort lang="eo" collation="http://saxon.sf.net/collation?class=de.steloj.respiro.EsperantoCollator" select="@l"/>
+
+    <xsl:if test="not(following-sibling::r[@l=current()/@l])"> <!-- evitu duoblajhojn -->
+
+      <xsl:variable name="kls" select="(document($klasoj_cfg)/klasoj//kls
+          [substring-after(@nom,'#')=substring-after(current()/@l,':')])[1]"/>
+
+   <!--  <xsl:message>kls: <xsl:value-of select="$kls/@nom"/> l: <xsl:value-of
+   select="@l"/></xsl:message> -->
+
+      <xsl:variable name="dosiero">
+          <xsl:text>vx_</xsl:text>
+          <xsl:choose>
+            <xsl:when test="$kls[@prezento='integrita']">
+               <xsl:call-template name="eo-kodigo">
+                 <xsl:with-param name="str"><xsl:value-of
+		 select="substring-after($kls/../@nom,'#')"/></xsl:with-param>
+               </xsl:call-template>
+               <xsl:text>.html#</xsl:text>
+               <xsl:call-template name="eo-kodigo">
+                 <xsl:with-param name="str"><xsl:value-of
+		 select="substring-after(@l,':')"/></xsl:with-param>
+               </xsl:call-template>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:call-template name="eo-kodigo">
+                <xsl:with-param name="str"><xsl:value-of 
+		select="substring-after(@l,':')"/></xsl:with-param>
+              </xsl:call-template>
+              <xsl:text>.html</xsl:text>
+            </xsl:otherwise>
+          </xsl:choose>
+      </xsl:variable>
+
+      <p class="tez"> 
+        <a href="{$dosiero}">
+          <img src="{concat('../smb/',$smb)}" alt="{$alt}" border="0"/>
+          <xsl:value-of select="translate(substring-after(@l,':'),'_',' ')"/>
+        </a>
+      </p>
 
     </xsl:if>
   </xsl:for-each>

@@ -11,13 +11,14 @@ transform-reguloj
 
 -->
 
-<xsl:import href="revo_trd.xsl"/>
-<xsl:import href="revo_fnt.xsl"/>
-<xsl:import href="revo_adm.xsl"/>
-<xsl:import href="revo_kap.xsl"/>
-<xsl:import href="revo_art.xsl"/>
-<xsl:import href="revo_ref.xsl"/>
-<xsl:import href="revo_dif.xsl"/>
+
+<xsl:import href="inc/revo_trd.xsl"/>
+<xsl:import href="inc/revo_fnt.xsl"/>
+<xsl:import href="inc/revo_adm.xsl"/>
+<xsl:import href="inc/revo_kap.xsl"/>
+<xsl:import href="inc/revo_art.xsl"/>
+<xsl:import href="inc/revo_ref.xsl"/>
+<xsl:import href="inc/revo_dif.xsl"/>
 
 <xsl:output method="html" version="4.0" encoding="utf-8"/>
 <xsl:strip-space elements="trdgrp refgrp kap"/>
@@ -32,13 +33,21 @@ transform-reguloj
 <xsl:variable name="bibliografio">../cfg/bibliogr.xml</xsl:variable>
 <xsl:variable name="bibliogrhtml">../dok/bibliogr.html</xsl:variable>
 <xsl:variable name="revo">/home/revo/revo</xsl:variable>
-<xsl:variable name="lingvoj_cfg" select="'../cfg/lingvoj.xml'"/>
-<xsl:variable name="fakoj_cfg" select="'../cfg/fakoj.xml'"/>
+<xsl:variable name="lingvoj_cfg" select="'../../cfg/lingvoj.xml'"/>
+<xsl:variable name="klasoj_cfg" select="'../../cfg/klasoj.xml'"/>
+<xsl:variable name="fakoj_cfg" select="'../../cfg/fakoj.xml'"/>
+<xsl:variable name="permesoj_cfg" select="'../../cfg/permesoj.xml'"/>
 <xsl:variable name="arhhivo" select="'http://www.reta-vortaro.de/cgi-bin/historio.pl?art='"/>
 
 <!-- ilustrite por HTML kun grafikoj ktp.
      simple por HTML tauga por konverto al simpla teksto -->
 <xsl:variable name="aspekto" select="'ilustrite'"/>
+
+<xsl:template name="eo-kodigo">
+  <xsl:param name="str"/>
+  <xsl:value-of select="$str"/> 
+</xsl:template>
+
 
 </xsl:stylesheet>
 

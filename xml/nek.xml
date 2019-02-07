@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-   <art mrk="$Id: nek.xml,v 1.23 2017/03/27 13:10:13 revo Exp $">
+   <art mrk="$Id: nek.xml,v 1.24 2018/04/23 15:10:14 revo Exp $">
      <kap>
        <ofc>*</ofc>
        <rad>nek</rad>
@@ -92,6 +92,7 @@
            </ekz>
          </dif>
        </snc>
+       <trd lng="be">&c_n;&c_ib;&#8230;, &c_n;&c_ib;&#8230;</trd>
        <trd lng="de">weder ... noch</trd>
        <trd lng="en">neither ... nor</trd>
        <trd lng="es">ni</trd>
@@ -104,6 +105,9 @@
    </art>
    <!--
    $Log: nek.xml,v $
+   Revision 1.24  2018/04/23 15:10:14  revo
+   Dmitri Gabinski: +trd be
+
    Revision 1.23  2017/03/27 13:10:13  revo
    Ludoviko Francisco: +trd fr
 

@@ -2,11 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: defi.xml,v 1.17 2011/11/25 18:10:10 revo Exp $">
+<art mrk="$Id: defi.xml,v 1.18 2018/08/06 22:11:25 revo Exp $">
 <kap>
-  <ofc>9</ofc>
-  <rad>defi</rad>/i
-  <fnt>Z</fnt>
+  <ofc>9</ofc> <rad>defi</rad>/i
+  <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="defi.0i">
   <kap><ofc>9</ofc><tld/>i</kap>
@@ -115,6 +114,9 @@
 </art>
 <!--
 $Log: defi.xml,v $
+Revision 1.18  2018/08/06 22:11:25  revo
+Michel Cantigneaux: aperas unue en PV (1934), oficiala en 9OA (2007)
+
 Revision 1.17  2011/11/25 18:10:10  revo
 Eduardo Navas: +trad es
 
@@ -134,8 +136,5 @@ Revision 1.12 2007/07/19 16:30:56 revo
 Tulio Flores: +tr pt
 Revision 1.11 2004/04/12 16:33:29 revo
 Dmitri Gabinski: +trd be
-Revision 1.10 2003/04/08 16:32:08 revo
-Jozefo Horvath: +trd hu
-Revision 1.9 2002/09/13 16:33:24 revo
 -->
 </vortaro>

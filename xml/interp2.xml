@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: interp2.xml,v 1.20 2017/07/12 08:10:14 revo Exp $">
+<art mrk="$Id: interp2.xml,v 1.21 2018/09/03 22:10:25 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>interpret</rad>/i <fnt><bib>PV</bib></fnt>
@@ -209,7 +209,7 @@
       </ekz>
       <ekz>
         anta&ubreve; la dua retumila milito en la jaroj 2008-2009 JavaScript-<tld/>ilo estis 
-        konata simple kiel <tld/>ilo, kiu legas JavaScript- fontkodon kaj funkciigas la skripton koresponde
+        konata simple kiel <tld/>ilo, kiu legas JavaScript- fontkodon kaj funkciigas la skripton <klr>[&#8230;]</klr>responde
         <fnt>
           <bib>Viki</bib>
           <lok><url ref='https://eo.wikipedia.org/?curid=327381'>JavaScript-interpretilo</url></lok>
@@ -306,6 +306,9 @@
 </art>
 <!--
 $Log: interp2.xml,v $
+Revision 1.21  2018/09/03 22:10:25  revo
+Wolfram Diestel: -ko
+
 Revision 1.20  2017/07/12 08:10:14  revo
 Wolfram Diestel: ekzemploj, kor. mrk
 
@@ -325,8 +328,5 @@ Revision 1.15  2009/09/14 16:31:11  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.14  2006/01/12 21:52:32  revo
-Raul Salinas Monteagudo: +trd ca,es,en
-
-Revision 1.13  2005/11/14 17:31:31  revo
 -->
 </vortaro>

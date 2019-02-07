@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: amel.xml,v 1.22 2015/09/10 11:10:23 revo Exp $">
+<art mrk="$Id: amel.xml,v 1.23 2018/11/02 13:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>amel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -30,8 +30,10 @@
     <trd>stijfsel</trd>,
     <trd>zetmeel</trd>
   </trdgrp>
+  <trd lng="hu">kem&eacute;ny&iacute;t&odblac;</trd>
   <trd lng="pt">amido</trd>
   <trd lng="ru">&c_k;&c_r;&c_a;&c_h;&c_m;&c_a;&c_l;</trd>
+  <trd lng="sl">&scaron;krob</trd>
   <trdgrp lng="sk">
     <trd>&scaron;krob</trd>,
     <trd>&scaron;krobov&aacute; m&uacute;&ccaron;ka</trd>
@@ -79,6 +81,9 @@
 </art>
 <!--
 $Log: amel.xml,v $
+Revision 1.23  2018/11/02 13:10:16  revo
+Peter Garami: hungara kaj slovena tradukoj aldonitaj
+
 Revision 1.22  2015/09/10 11:10:23  revo
 Evandro Avellar: +trd pt
 
@@ -98,8 +103,5 @@ Revision 1.17  2012/02/13 18:10:08  revo
 Carlos Garcia: +trd es -o -i
 
 Revision 1.16  2009/08/28 16:31:46  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.15  2007/06/10 16:31:43  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: taks.xml,v 1.28 2017/11/22 19:10:35 revo Exp $">
+<art mrk="$Id: taks.xml,v 1.29 2018/08/24 15:15:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>taks</rad>/i <fnt><bib>PV</bib></fnt>
@@ -173,7 +173,7 @@
     </snc>
   <trdgrp lng="cs">
     <trd>cena</trd>,
-    <trd>ocen&#65533;&#8250;n&iacute;</trd>,
+    <trd>ocen&ecaron;n&iacute;</trd>,
     <trd>odhad</trd>,
     <trd>poplatek</trd>,
     <trd>taxa</trd>
@@ -278,6 +278,9 @@
 </art>
 <!--
 $Log: taks.xml,v $
+Revision 1.29  2018/08/24 15:15:13  revo
+kor. ecaron en la chehha
+
 Revision 1.28  2017/11/22 19:10:35  revo
 Vito Redsky: +trd pl +trd ro
 

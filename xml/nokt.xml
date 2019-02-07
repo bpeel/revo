@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: nokt.xml,v 1.51 2018/01/12 20:10:13 revo Exp $">
+  <art mrk="$Id: nokt.xml,v 1.52 2018/05/13 14:10:15 revo Exp $">
     <kap><ofc>*</ofc>
       <rad>nokt</rad>/o
     </kap>
@@ -580,7 +580,8 @@
 </drv>
 
 <drv mrk="nokt.tag0o">
-  <kap>tag<tld/>o</kap>
+  <kap>tag<tld/>o,
+  <var><kap>tago<tld/>o</kap></var></kap>
   <snc mrk="nokt.tag0o.KAL">
     <uzo tip="fak">KAL</uzo>
     <dif>
@@ -609,8 +610,12 @@
         </fnt>;
       </ekz>
       <ekz>
-        &ccirc;i tie dum tag<tld/>o tondras la muziko
-        <fnt><bib>Metrop</bib></fnt>.
+        la batalo da&ubreve;ris ankora&ubreve; du tago<tld/>ojn
+        <fnt>
+          <aut>J. Francis</aut>
+          <vrk>La Granda Kaldrono</vrk>
+          <lok>1978</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -694,6 +699,9 @@
   </art>
   <!--
   $Log: nokt.xml,v $
+  Revision 1.52  2018/05/13 14:10:15  revo
+  Jeromo Vasxe: + tag*o*~o
+
   Revision 1.51  2018/01/12 20:10:13  revo
   Wolfram Diestel: prilaboris ekz-ojn, +~omezo
 

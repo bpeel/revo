@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kuz.xml,v 1.32 2017/07/02 13:10:13 revo Exp $">
+<art mrk="$Id: kuz.xml,v 1.33 2018/10/21 18:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kuz</rad>/o
@@ -120,6 +120,7 @@
   </trdgrp>
   <trd lng="br">keniterv</trd>
   <trd lng="ca">cosina</trd>
+  <trd lng="cs">sest&rcaron;enice</trd>
   <trdgrp lng="de">
     <trd>Base</trd>,
     <trd>Cousine</trd>
@@ -217,6 +218,9 @@
 </art>
 <!--
 $Log: kuz.xml,v $
+Revision 1.33  2018/10/21 18:10:15  revo
+Petr Diblik: +cs trd
+
 Revision 1.32  2017/07/02 13:10:13  revo
 Robin van der Vliet: +gekuzo(j)
 
@@ -236,8 +240,5 @@ Revision 1.27  2015/06/29 16:33:18  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.26  2013/09/08 11:10:18  revo
-Wolfram Diestel: ref-oj al listo parencoj
-
-Revision 1.25  2010/06/12 16:30:32  revo
 -->
 </vortaro>

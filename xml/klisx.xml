@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klisx.xml,v 1.14 2011/04/29 19:10:30 revo Exp $">
+<art mrk="$Id: klisx.xml,v 1.16 2019/01/14 23:10:18 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kli&scirc;</rad>/i <fnt><bib>PV</bib></fnt>
@@ -22,6 +22,7 @@
     </trdgrp>
     <trd lng="fr">clich&eacute;<klr tip="ind"> (typog.)</klr></trd>
      <trd lng="nl">clich&eacute;</trd>
+     <trd lng="pt">clich&ecirc;</trd>
   </snc>
   <snc mrk="klisx.0o.FOT">
     <uzo tip="fak">FOT</uzo>
@@ -40,6 +41,7 @@
       <trd>&eacute;preuve n&eacute;gative</trd>
     </trdgrp>
     <trd lng="nl">negatief<klr tip="ind"> (zn.)</klr></trd>
+    <trd lng="pt">negativo</trd>
   </snc>
   <snc mrk="klisx.0o.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -76,6 +78,15 @@
     </trdgrp>
     <trd lng="ru">&c_sh;&c_t;&c_a;&c_m;&c_p;</trd>
   </snc>
+  <trdgrp lng="pl">
+    <trd>klisza</trd>,
+    <trd>stereotyp</trd>,
+    <trd>wyra&zdot;enie banalne <klr>(przen.)</klr></trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>cli&#537;eu</trd>,
+    <trd>stereotip</trd>
+  </trdgrp> 
   <trd lng="ru">&c_k;&c_l;&c_i;&c_sh;&c_je;</trd>
 </drv>
 
@@ -101,6 +112,8 @@
       </ekz>
     </dif>
     <trd lng="fr">st&eacute;r&eacute;otyp&eacute;</trd>
+    <trd lng="pl">stereotypowy</trd>     
+    <trd lng="ro">stereotip&abreve;</trd>
   </snc>
 </drv>
 
@@ -121,6 +134,8 @@
     <trd>prendre en <ind>photo</ind></trd>
   </trdgrp>
   <trd lng="nl">clicheren</trd>
+  <trd lng="pl">klisz&eogonek; robi&cacute;</trd>     
+  <trd lng="ro">plac&abreve; de a face</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_l;&c_i;&c_sh;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_m;&c_n;&c_o;&c_zh;&c_a;&c_t;&c_mol; &c_k;&c_o;&c_p;&c_i;&c_i;</trd>
@@ -129,6 +144,12 @@
 </art>
 <!--
 $Log: klisx.xml,v $
+Revision 1.16  2019/01/14 23:10:18  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.15  2018/10/13 18:10:14  revo
+Evandro Avellar: +trd pt
+
 Revision 1.14  2011/04/29 19:10:30  revo
 Jeromo Vasxe: + ~a, reord. drv
 
@@ -145,11 +166,5 @@ Revision 1.10 2002/11/17 18:26:26 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9 2001/12/10 17:34:04 revo
-Ulrich Fellmann: + 7 germ trdj
-
-Revision 1.8 2001/11/05 19:11:21 revo
-Karlo Freeman: + trd =en @ ~o snc-j 2 kaj 3
-
-Revision 1.7 2001/10/27 18:11:40 revo
 -->
 </vortaro>

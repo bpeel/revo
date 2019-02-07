@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sun.xml,v 1.43 2017/04/24 13:10:22 revo Exp $">
+<art mrk="$Id: sun.xml,v 1.44 2018/05/24 23:10:27 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sun</rad>/o <fnt><bib>PV</bib></fnt>
@@ -83,6 +83,7 @@
   <trd lng="jbo">solri</trd>
   <trd lng="nl">zon</trd>
   <trd lng="pl">s&lstroke;o&nacute;ce</trd>
+  <trd lng="pt">sol</trd>
   <trd lng="ro">soare</trd>
   <trd lng="ru">&c_s;&c_o;&c_l;&c_n;&c_c;&c_je;</trd>
   <trd lng="sv">sol</trd>
@@ -184,6 +185,7 @@
   <trd lng="it">sistema <ind>solare</ind></trd>
   <trd lng="nl">zonnestelsel</trd>
   <trd lng="pl">uk&lstroke;ad <ind>s&lstroke;oneczny</ind></trd>
+  <trd lng="pt">sistema solar</trd>
   <trd lng="ro">sistemul solar</trd>
   <trd lng="ru">&c_s;&c_o;&c_l;&c_n;&c_je;&c_ch;&c_n;&c_a;&c_ja; &c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
   <trd lng="sk">slne&ccaron;n&aacute; s&uacute;stava</trd>
@@ -216,6 +218,9 @@
 </art>
 <!--
 $Log: sun.xml,v $
+Revision 1.44  2018/05/24 23:10:27  revo
+Evandro Avellar: +trd pt
+
 Revision 1.43  2017/04/24 13:10:22  revo
 Robin van der Vliet: +trd
 
@@ -235,8 +240,5 @@ Revision 1.38  2014/05/30 09:10:24  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.37  2013/09/23 08:10:27  revo
-Wolfram Diestel: simb
-
-Revision 1.36  2012/09/04 08:10:19  revo
 -->
 </vortaro>

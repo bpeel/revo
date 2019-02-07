@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kuskus.xml,v 1.4 2015/07/04 08:37:38 revo Exp $">
+<art mrk="$Id: kuskus.xml,v 1.5 2018/10/13 22:10:19 revo Exp $">
 <kap>
   <rad>kuskus</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,14 +27,16 @@
     </dif>
   </snc>
   <trdgrp lng="cs">
-    <trd>arabské knedlíčky</trd>,
-    <trd>karbanátky</trd>,
+    <trd>arabsk&eacute; knedl&iacute;&ccaron;ky</trd>,
+    <trd>karban&aacute;tky</trd>,
     <trd>kus-kus</trd>,
     <trd>kuskus</trd>
   </trdgrp>
   <trd lng="fr">couscous</trd>
   <trd lng="nl">couscous</trd>
   <trd lng="no">couscous</trd>
+  <trd lng="pl">kuskus</trd>     
+  <trd lng="ro">cu&#537; cu&#537;</trd>
   <trdgrp lng="sk">
     <trd>kus-kus</trd>,
     <trd>kuskus</trd>
@@ -44,6 +46,9 @@
 
 <!--
 $Log: kuskus.xml,v $
+Revision 1.5  2018/10/13 22:10:19  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.4  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gelder.xml,v 1.6 2015/08/11 16:10:15 revo Exp $">
+<art mrk="$Id: gelder.xml,v 1.7 2018/10/31 16:10:17 revo Exp $">
 <kap>
 <rad>Gelderland</rad>/o
 </kap>
@@ -14,7 +14,14 @@
     <dif>
       <ref tip="super" cel="provin.0o">Provinco</ref> en orienta   
       <ref tip="malprt" cel="nederl.N0o">Nederlando</ref>, kun &ccirc;efurbo
-      <ref tip="prt" cel="arnhem.A0o">Arnhemo</ref>.
+      <ref tip="prt" cel="arnhem.A0o">Arnhemo</ref>:
+      <ekz>
+        <nom>Wageningen</nom> estas urbo en la provinco <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=49067">Wageningen</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="bg">&c_G;&c_je;&c_l;&c_d;&c_je;&c_r;&c_l;&c_a;&c_n;&c_d;</trd>
@@ -35,6 +42,9 @@
 
 <!--
 $Log: gelder.xml,v $
+Revision 1.7  2018/10/31 16:10:17  revo
+Wolfram Diestel: +ekz
+
 Revision 1.6  2015/08/11 16:10:15  revo
 Joop Eggen: +trd bg fa ru uk
 

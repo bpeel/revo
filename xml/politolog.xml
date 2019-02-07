@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: politolog.xml,v 1.4 2014/11/25 08:10:22 revo Exp $">
+<art mrk="$Id: politolog.xml,v 1.5 2018/05/07 13:10:16 revo Exp $">
 <kap>
   <rad>politolog</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -21,14 +21,23 @@
     </fnt>.
   </ekz>
   </snc>
+  <trd lng="bg">&c_p;&c_o;&c_l;&c_i;&c_t;&c_o;&c_l;&c_o;&c_g;</trd>
   <trd lng="ca">polit&ograve;leg</trd>
+  <trd lng="cs">politolog</trd>
+  <trd lng="de">Politologe</trd>
+  <trd lng="en">political scientist</trd>
   <trd lng="fr">politologue</trd>
+  <trd lng="nl">politoloog</trd>
   <trd lng="pl">politolog</trd>
+  <trd lng="sk">politol&oacute;g</trd>
 </drv>
 </art>
 
 <!--
 $Log: politolog.xml,v $
+Revision 1.5  2018/05/07 13:10:16  revo
+Joop Eggen: +trd bg e.a.
+
 Revision 1.4  2014/11/25 08:10:22  revo
 Damien Brucker: +trd fr
 

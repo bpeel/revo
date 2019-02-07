@@ -2,18 +2,65 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: amulet.xml,v 1.16 2015/11/20 06:10:16 revo Exp $">
+<art mrk="$Id: amulet.xml,v 1.18 2018/10/11 22:10:17 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>amulet</rad>/o
 </kap>
 <drv mrk="amulet.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <snc mrk="amulet.0o.MAGI">
     <dif>
-      Objekto, kiu, per supozata magia efiko, &scirc;irmas kontra&ubreve;
-      dan&gcirc;ero, malsano, sor&ccirc;o, ktp.
+      Objekto, kiu, per supozata magia efiko, &scirc;irmas
+      la portanton kontra&ubreve; dan&gcirc;ero, malsano, sor&ccirc;o, ktp.:
+      <ekz>
+        &ccirc;i tiu ora &scirc;ildo, inkrustita per multekostaj &scirc;tonoj,
+        havis, krom granda mona valoro, forton de l' <tld/>o
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&ccirc;apitro 17a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tri oraj <tld/>oj kun bildo de la diino <nom>Astarte</nom>
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&ccirc;apitro 25a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oficiro, kovrita de <tld/>oj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&ccirc;apitro 4a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li faru al li <tld/>on, ke liaj aferoj sukcesu
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gbeglo Koffi</aut>
+          <vrk><url
+          ref="http://www.monato.net/2010/009910.php">Ventreligio, dua r
+          aldoni&gcirc;u</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;irka&ubreve; lia kolo pendis &ccirc;e &ccirc;eno granda ora <tld/>o,
+        sur kiu estis videblaj 
+        du serpentoj, hela kaj malhela, kiuj sin reciproke
+        mordis en la voston kaj formis ovrondon
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Destino de Atrejo</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="feticx.0o.MAG">feti&ccirc;o<sncref/></ref>;
+       <ref cel="talism.0o">talismano</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_a;&c_m;&c_u;&c_l;&c_je;&c_t;</trd>
   <trd lng="cs">amulet</trd>
@@ -50,6 +97,12 @@
 </art>
 <!--
 $Log: amulet.xml,v $
+Revision 1.18  2018/10/11 22:10:17  revo
+Jeromo Vasxe: preciz. dif
+
+Revision 1.17  2018/10/06 06:10:16  revo
+Wolfram Diestel: +ekz-oj, ref-oj
+
 Revision 1.16  2015/11/20 06:10:16  revo
 Sebastian Cyprych: +trd pl
 
@@ -66,11 +119,5 @@ Revision 1.12  2002/10/01 16:37:59  revo
 Christopher Zervic: + ang
 
 Revision 1.11  2002/09/07 17:40:39  revo
-Viliam Bur: +sk trd
-
-Revision 1.10  2002/05/09 18:44:30  revo
-Alejandro Mejia Greene: korek his trd
-
-Revision 1.9  2002/02/23 19:48:45  revo
 -->
 </vortaro>

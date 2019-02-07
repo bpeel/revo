@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ced.xml,v 1.29 2016/09/07 04:10:22 revo Exp $">
+<art mrk="$Id: ced.xml,v 1.31 2018/06/27 13:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ced</rad>/i <fnt><bib>PV</bib></fnt>
@@ -69,7 +69,12 @@
       <trd>nachgeben</trd>, <trd>weichen</trd>
     </trdgrp>
     <trd lng="hu">enged</trd>
-    <trd lng="nl">toelaten</trd>
+    <trdgrp lng="nl">
+      <trd>toegeven</trd>,
+      <trd>wijken</trd>,
+      <trd>zwichten</trd>,
+      <trd>het veld ruimen</trd>
+    </trdgrp>
     <trd lng="pl">ust&eogonek;powa&cacute;</trd>
   </snc>
   <snc mrk="ced.0i.fordoni">
@@ -103,7 +108,11 @@
       <trd>&uuml;berlassen</trd>
     </trdgrp>
     <trd lng="hu">&aacute;tenged</trd>
-    <trd lng="nl">afdanken</trd>
+    <trdgrp lng="nl">
+      <trd>afstaan</trd>,
+      <trd>afstand doen van</trd>,
+      <trd>opgeven</trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd>cedowa&cacute;</trd>,
       <trd>oddawa&cacute;</trd>,
@@ -163,6 +172,10 @@
         apartaj kutimoj de la rusa lingvo.
       </ekz>
     </dif>
+    <trdgrp lng="nl">
+      <trd>afstand</trd>,
+      <trd>toegeving</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_a;&c_s;&c_t;&c_u;&c_p;&c_k;&c_a; <klr
   tip="amb">(&c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_je;)</klr></trd>
@@ -201,6 +214,10 @@
     <dif>
       Tio, kion oni <tld/>as.
     </dif>
+    <trdgrp lng="nl">
+      <trd>afgestane</trd>,
+      <trd>iets wat afgestaan is</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_a;&c_s;&c_t;&c_u;&c_p;&c_k;&c_a; <klr
   tip="amb">(&c_n;&c_je;&c_sh;&c_t;&c_a;
@@ -270,6 +287,26 @@
   <trd lng="sk">&uacute;stup&ccaron;iv&yacute;</trd>
 </drv>
 
+<drv mrk="ced.0emo">
+  <kap><tld/>emo</kap>
+  <snc mrk="ced.0emo.KOMUNE">
+    <dif>
+      Ne<ref tip="ant" cel="rezist.0emo.KOMUNE">rezistemo</ref>,
+      emo al facila <tld/>ado, al obeo al ekstera premo:
+      <ekz>
+        lin kolerigis &scirc;ia <tld/>emo al la mondo,
+        al homoj malsuperaj al &scirc;i
+        <fnt>
+          <aut>J. Francis</aut>
+          <vrk>La Granda Kaldrono</vrk>
+          <lok>1978</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">docilit&eacute;</trd>
+</drv>
+
 <drv mrk="ced.for0i">
   <kap>for<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
@@ -278,7 +315,8 @@
       Senreziste fordoni;
       <ref tip="vid" cel="ced.0i.fordoni">cedi<sncref/></ref>:
       <ekz>
-        la a&ubreve;toro por &ccirc;iam for<tld/>as &ccirc;iujn personajn rajtojn
+        la a&ubreve;toro por &ccirc;iam for<tld/>as &ccirc;iujn
+        personajn rajtojn
         <fnt>
           <aut>L. L. Zamenhof</aut>,
           <vrk>Unua Libro</vrk>,
@@ -342,7 +380,11 @@
   </trdgrp>
   <trdgrp lng="nl">
    <trd>weerstaan</trd>, 
-   <trd>weerstand bieden</trd>
+   <trd>weerstand bieden</trd>,
+    <trd>het hoofd bieden</trd>,
+    <trd>niet toegeven</trd>,
+    <trd>niet wijken</trd>,
+    <trd>pal staan</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>przeciwstawia&cacute; si&eogonek;</trd>,
@@ -409,7 +451,11 @@
   <trdgrp lng="nl">
     <trd>standvastig</trd>,
     <trd>onverzettelijk</trd>,
-    <trd>onbuigzaam</trd>
+    <trd>onbuigzaam</trd>,
+    <trd>halsstarrig</trd>,
+    <trd>star</trd>,
+    <trd>volhoudend</trd>,
+    <trd>weerbarstig</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>nieust&eogonek;pliwy</trd>,
@@ -432,7 +478,8 @@
       respondecon pri io;
       <ref tip="vid" cel="ced.0i.fordoni">cedi<sncref/></ref>:
       <ekz>
-        sed la lo&gcirc;antaron de &Hcirc;atuso, kiun li trans<tld/>is, mi prenis 
+        sed la lo&gcirc;antaron de &Hcirc;atuso, kiun li trans<tld/>is,
+        mi prenis 
         kaj &ccirc;iujn mi ree lo&gcirc;igis
         <fnt>
           <aut>trad. C. Brosch</aut>,
@@ -449,6 +496,12 @@
 </art>
 <!--
 $Log: ced.xml,v $
+Revision 1.31  2018/06/27 13:10:15  revo
+Jeromo Vasxe: + ~emo
+
+Revision 1.30  2018/06/04 15:10:19  revo
+Bart Demeyere: +~trd nl
+
 Revision 1.29  2016/09/07 04:10:22  revo
 Alain Gerard: +trd fr
 
@@ -465,11 +518,5 @@ Revision 1.25  2015/05/11 14:10:18  revo
 Joop Eggen: +trd nl
 
 Revision 1.24  2015/02/24 21:10:16  revo
-Jeromo Vasxe: + for~i
-
-Revision 1.23  2012/08/25 18:10:09  revo
-Marc Rausell: + trd ca
-
-Revision 1.22  2010/06/11 16:30:22  revo
 -->
 </vortaro>

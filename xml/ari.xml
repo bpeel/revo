@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ari.xml,v 1.19 2017/06/01 19:10:16 revo Exp $">
+<art mrk="$Id: ari.xml,v 1.20 2018/10/22 18:10:21 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>ari</rad>/o
@@ -15,7 +15,13 @@
       Strofa, lirika <ref tip="super" cel="kant.0ajxo">kanta&jcirc;o</ref>
       por solisto, parto de ampleksa <ref tip="malprt"
       cel="kompon.0ajxo">kompona&jcirc;o</ref>,
-      ekzemple de opero, oratorio, pasiono.
+      ekzemple de opero, oratorio, pasiono:
+      <ekz>
+        la juna homo <klr>[&#8230;]</klr> malla&ubreve;te, ekfajfis la <tld/>on de Kal&hcirc;as el la Bela Heleno
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_r;&c_y;&c_ja;</trd>
@@ -43,6 +49,9 @@
 </art>
 <!--
 $Log: ari.xml,v $
+Revision 1.20  2018/10/22 18:10:21  revo
+Wolfram Diestel: +ekz
+
 Revision 1.19  2017/06/01 19:10:16  revo
 Vito Redsky: trd pl+trd ro
 
@@ -62,8 +71,5 @@ Revision 1.14  2006/01/09 17:34:46  revo
 Raul Salinas Monteagudo: +trd ca,de,es
 
 Revision 1.13  2003/11/28 17:30:49  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12  2002/10/29 18:01:05  revo
 -->
 </vortaro>

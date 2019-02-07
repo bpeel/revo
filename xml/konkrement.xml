@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konkrement.xml,v 1.5 2015/07/04 08:37:37 revo Exp $">
+<art mrk="$Id: konkrement.xml,v 1.6 2018/07/19 18:10:18 revo Exp $">
 <kap>
   <rad>konkrement</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -31,17 +31,22 @@
     <ref cel="konkreci.0o.KEM">konkrecio</ref>
   </refgrp>
   <trd lng="ca">c&agrave;lcul<klr> (patol.)</klr></trd>
-  <trd lng="fr">calcul<klr> (m&eacute;d.)</klr></trd>
-  <trd lng="sk">zhluk kryštálov</trd>
   <trdgrp lng="cs">
-    <trd>kamínek</trd>,
+    <trd>kam&iacute;nek</trd>,
     <trd>konkrement</trd>
   </trdgrp>
+  <trd lng="fr">calcul<klr> (m&eacute;d.)</klr></trd>
+  <trd lng="pl">konkrement</trd>     
+  <trd lng="ro">concre&tcedil;iilor</trd>
+  <trd lng="sk">zhluk kry&scaron;t&aacute;lov</trd> 
 </drv>
 </art>
 
 <!--
 $Log: konkrement.xml,v $
+Revision 1.6  2018/07/19 18:10:18  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.5  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skizofreni.xml,v 1.7 2017/11/09 16:10:14 revo Exp $">
+<art mrk="$Id: skizofreni.xml,v 1.8 2018/05/20 20:10:24 revo Exp $">
 <kap>
   <rad>skizofreni</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -29,7 +29,8 @@
         <fnt>
           <aut>Miaohui</aut>,
           <vrk><url ref="http://www.ipernity.com/blog/miaohui/81473">
-          Mi a&ubreve;dis, ke meditado povas esti dan&gcirc;era...</url></vrk>,
+          Mi a&ubreve;dis, ke meditado povas esti
+          dan&gcirc;era...</url></vrk>,
           <lok>2008-07-31</lok>
         </fnt>.
       </ekz>
@@ -38,6 +39,7 @@
   <trd lng="cs">schizofrenie</trd>
   <trd lng="de">Schizophrenie</trd>
   <trd lng="en">schizophrenia</trd>
+  <trd lng="es">esquizofrenia</trd>
   <trd lng="fr">schizophr&eacute;nie</trd>
   <trd lng="id">skizofrenia</trd>
   <trd lng="sk">schizofr&eacute;nia</trd>
@@ -49,8 +51,10 @@
     <dif>
       Homo suferanta pro <tld/>o:
       <ekz>
-        &ccirc;u mi ne estas <tld/>ulo alparolanta aparaton, kiu dissendas 
-        dira&jcirc;on nea&ubreve;skultatan, &ccirc;ar al neniu &gcirc;i interesas?
+        &ccirc;u mi ne estas <tld/>ulo alparolanta aparaton, kiu
+        dissendas 
+        dira&jcirc;on nea&ubreve;skultatan, &ccirc;ar al neniu &gcirc;i
+        interesas?
         <fnt>
           <aut>B. Cadei</aut>,
           <vrk>Percepti la A&ubreve;skultantaron</vrk>,
@@ -63,6 +67,7 @@
   </snc>
   <trd lng="cs">schizofrenik</trd>
   <trd lng="de">Schizophreniekranker</trd>
+  <trd lng="es">esquizofr&eacute;nico</trd>
   <trd lng="fr">schizophr&egrave;ne<klr> (subst.)</klr></trd>
   <trd lng="sk">schizofrenik</trd>
 </drv>
@@ -70,6 +75,9 @@
 
 <!--
 $Log: skizofreni.xml,v $
+Revision 1.8  2018/05/20 20:10:24  revo
+Dusan Juretić: +trd es
+
 Revision 1.7  2017/11/09 16:10:14  revo
 Wieland Pusch: +trd de
 
@@ -89,7 +97,5 @@ Revision 1.2  2010/04/09 16:31:30  revo
 Lucas Larson: +trd en
 
 Revision 1.1  2010/02/20 18:02:12  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

@@ -34,7 +34,7 @@ Ekz-o pri prefiksa uzo cxe plej originalaj kunmetajxoj
 -->
 
 <vortaro>
-<art mrk="$Id: prem.xml,v 1.43 2018/01/03 09:10:13 revo Exp $">
+<art mrk="$Id: prem.xml,v 1.45 2018/07/18 20:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>prem</rad>/i <fnt><bib>PV</bib></fnt>
@@ -619,7 +619,10 @@ Ekz-o pri prefiksa uzo cxe plej originalaj kunmetajxoj
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="pastel.0o">pastelo</ref>,
+      <ref cel="kapsul.0o.MED">kapsulo</ref>,
+      <ref cel="oblat.0o.MED">oblato</ref>,
+      <ref cel="pastel.0o.MED">pastelo</ref>,
+      <ref cel="pilol.0o.MED">pilolo</ref>,
       <ref cel="tablojd.0o">tablojdo</ref>.
     </refgrp>
   </snc>
@@ -1380,6 +1383,11 @@ Ekz-o pri prefiksa uzo cxe plej originalaj kunmetajxoj
       <ekz>
         kio tiel kor<tld/>as vin?
         <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 22</lok></fnt>.
+      </ekz>
+      <ekz>
+      ... kaj la tuta kristnaskarbeto kaj la kristnasko mem &scirc;ajnis al li
+      korpreme melankoliaj. <fnt><bib>InfanTorent2</bib>, <lok>unua
+     parto</lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -2182,6 +2190,12 @@ Ekz-o pri prefiksa uzo cxe plej originalaj kunmetajxoj
 </art>
 <!--
 $Log: prem.xml,v $
+Revision 1.45  2018/07/18 20:10:15  revo
+Alain Gerard: + ligiloj
+
+Revision 1.44  2018/05/04 09:10:15  revo
+Michel Cantigneaux: + ekzemplo por korpremi el Infanoj en Torento
+
 Revision 1.43  2018/01/03 09:10:13  revo
 Guillermo Molleda Jimena: trd es
 
@@ -2198,11 +2212,5 @@ Revision 1.39  2015/06/29 16:40:18  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.38  2014/11/05 16:10:18  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.37  2014/11/05 13:10:26  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.36  2014/08/25 02:10:11  revo
 -->
 </vortaro>

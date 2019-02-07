@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sag.xml,v 1.32 2017/05/30 15:10:15 revo Exp $">
+<art mrk="$Id: sag.xml,v 1.34 2018/08/24 15:15:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sag</rad>/o <fnt><bib>PV</bib></fnt>
@@ -54,6 +54,10 @@
       <trd>fletxa</trd>,
       <trd>indicaci&oacute;</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>flecha</trd>,
+      <trd>indicaci&oacute;n</trd>
+    </trdgrp>
   </snc>
   <snc mrk="sag.0o.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -79,6 +83,10 @@
     </dif>
     <trd lng="ca">versinus</trd>
     <trd lng="en">sagitta</trd>
+    <trdgrp lng="es">
+      <trd>flecha</trd>,
+      <trd>sagita</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>ny&iacute;l(&aacute;s)</trd>,
       <trd>szagitta</trd>
@@ -133,6 +141,10 @@
     </dif>
   </snc>
   <trd lng="en">Sagitta</trd>
+  <trdgrp lng="es">
+    <trd>Sagitta</trd>,
+    <trd>la Flecha</trd>
+  </trdgrp>
   <trd lng="fr">Fl&egrave;che<klr tip="ind"> (constellation)</klr></trd>
 </drv>
 
@@ -154,6 +166,7 @@
         </fnt>.        
       </ekz>
     </dif>
+    <trd lng="es">disparar una flecha</trd>
     <trd lng="fr">fl&egrave;cher</trd>
   </snc>
   <snc mrk="sag.0i.FIG">
@@ -168,10 +181,11 @@
         </fnt>
       </ekz>
     </dif>
+    <trd lng="es">salir r&aacute;pido<klr> (como una flecha)</klr></trd>
     <trd lng="fr">filer<klr> (comme une fl&egrave;che)</klr></trd>
   </snc>
   <trdgrp lng="cs">
-    <trd>let&#65533;&#8250;t jako &scaron;&iacute;p</trd>,
+    <trd>let&ecaron;t jako &scaron;&iacute;p</trd>,
     <trd>rychle ut&iacute;kat</trd>
   </trdgrp>
   <trd lng="sk">letie&tcaron; ako &scaron;&iacute;p</trd>
@@ -198,6 +212,7 @@
   <trd lng="ca">carcaix</trd>
   <trd lng="cs">toulec</trd>
   <trd lng="de">K&ouml;cher</trd>
+  <trd lng="es">carcaj</trd>
   <trd lng="fr">carquois</trd>
   <trdgrp lng="hu">
     <trd>tegez</trd>,
@@ -215,6 +230,12 @@
 </art>
 <!--
 $Log: sag.xml,v $
+Revision 1.34  2018/08/24 15:15:13  revo
+kor. ecaron en la chehha
+
+Revision 1.33  2018/07/24 11:10:11  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.32  2017/05/30 15:10:15  revo
 Ludoviko Francisco: +ekz ~o +drv
 
@@ -234,8 +255,5 @@ Revision 1.27  2011/12/02 12:10:10  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.26  2010/10/25 16:31:18  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.25  2010/10/24 16:30:19  revo
 -->
 </vortaro>

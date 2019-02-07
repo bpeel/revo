@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konson1.xml,v 1.23 2016/01/04 04:10:15 revo Exp $">
+<art mrk="$Id: konson1.xml,v 1.24 2018/07/28 12:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konsonant</rad>/o
@@ -96,7 +96,9 @@
   </trdgrp>
   <trd lng="fr">consonne</trd>
   <trd lng="nl">medeklinker</trd>
+  <trd lng="pl">sp&oacute;&lstroke;g&lstroke;oska</trd>
   <trd lng="pt">consoante <klr tip="amb">(fon.)</klr></trd>
+  <trd lng="ro">consoan&abreve;</trd>
   <trd lng="ru">&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_n;&c_y;&c_j;<klr>
   (&c_z;&c_v;&c_u;&c_k;)</klr></trd>
   <trd lng="sk">spoluhl&aacute;ska</trd>
@@ -143,13 +145,17 @@
     <trd>consonantique</trd>
   </trdgrp>
   <trd lng="nl">meeklinkend</trd>
-  <trd
-  lng="ru">&c_k;&c_o;&c_n;&c_s;&c_o;&c_n;&c_a;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>
+  <trd lng="pl">sp&oacute;&lstroke;g&lstroke;oskowa</trd>     
+  <trd lng="ro">consonantic</trd>
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_s;&c_o;&c_n;&c_a;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>
   <trd lng="sv">konsonant</trd>
 </drv>
 </art>
 <!--
 $Log: konson1.xml,v $
+Revision 1.24  2018/07/28 12:10:16  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.23  2016/01/04 04:10:15  revo
 Warut Bunprasert: +trd th
 
@@ -169,8 +175,5 @@ Revision 1.18  2015/01/06 10:10:14  revo
 Sergio Pokrovskij: kor dif; +rim1-6
 
 Revision 1.17  2014/01/03 02:10:13  revo
-Damien Brucker: +ref
-
-Revision 1.16  2009/08/28 16:31:27  revo
 -->
 </vortaro>

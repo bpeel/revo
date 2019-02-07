@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: karat.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
+<art mrk="$Id: karat.xml,v 1.20 2019/01/04 21:10:20 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>karat</rad>/o
@@ -40,20 +40,30 @@
       <trd>carat</trd>,
       <trd>karat</trd>
     </trdgrp>
-    <trd lng="fr">carat<klr tip="ind"> (unit&eacute; de masse)</klr></trd>
+    <trd lng="fr">carat<klr tip="ind"> (unit&eacute; de
+    masse)</klr></trd>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_r;&c_a;&c_t;</trd>
-  <trd lng="cs">karát <klr>(klenot.)</klr></trd>
+  <trd lng="cs">kar&aacute;t <klr>(klenot.)</klr></trd>
   <trd lng="de">Karat</trd>
+  <trd lng="es">quilate</trd>
   <trd lng="hu">kar&aacute;t</trd>
   <trd lng="id">karat</trd>
   <trd lng="nl">karaat</trd>
+  <trd lng="pl">karat</trd>     
+  <trd lng="ro">carat</trd>
   <trd lng="ru">&c_k;&c_a;&c_r;&c_a;&c_t;</trd>
-  <trd lng="sk">karát</trd>
+  <trd lng="sk">kar&aacute;t</trd>
 </drv>
 </art>
 <!--
 $Log: karat.xml,v $
+Revision 1.20  2019/01/04 21:10:20  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.19  2018/06/09 22:10:19  revo
+Dusan Juretic: +trd es
+
 Revision 1.18  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -70,17 +80,5 @@ Revision 1.14  2013/09/20 14:10:19  revo
 Wolfram Diestel: ref al lst mezurunuoj
 
 Revision 1.13  2004/11/30 17:31:20  revo
-Marc Bavant: ~o 2: kor dif
-
-Revision 1.12  2004/11/28 19:43:11  revo
-Marc Bavant: +mrk, -uzo EKON, mod dif, +trd fr
-
-Revision 1.11 2004/03/10 17:30:35 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10 2002/10/24 16:31:38 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9 2001/10/25 18:50:46 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: filant.xml,v 1.13 2017/06/28 20:10:25 revo Exp $">
+<art mrk="$Id: filant.xml,v 1.15 2018/10/13 14:10:15 revo Exp $">
 <kap>
 <rad>filant</rad>/o
 </kap>
@@ -21,8 +21,26 @@
       plumojn; kies virseksaj floroj estas senkorolaj, havantaj
       du &gcirc;is ses stamenojn;
       kaj kun globformaj <ref tip="prt" cel="kapsul.0o">kapsuloj</ref>
-      disi&gcirc;antaj maturi&gcirc;inte en tri dufakajn partojn.
+      disi&gcirc;antaj maturi&gcirc;inte en tri dufakajn partojn:
+      <ekz>
+        filanto<klr>[j&#8230;]</klr> estas <esc>plejparte</esc> da&ubreve;rafoliaj arboj kaj arbedoj,
+        &scirc;ajne havantaj kunmetajn foliojn pro &scirc;osetoj plati&gcirc;intaj al simplaj kaj stipulohavaj kladodioj 
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=606717">Filanto</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <bld
+      lok="&WCU;/thumb/0/04/Phyllantus_acidus_surette_cochon.jpg/640px-Phyllantus_acidus_surette_cochon.jpg"
+      prm="CC BY-SA 4.0"
+      >bran&ccirc;o kun fruktoj de <tld/>o (Phyllanthus acidus), Parc de l' Habitation Cl&eacute;ment en Martinique
+        <fnt>
+          <aut>Patrice78500, propra verko</aut>
+          <lok><url ref="&WCW;/File:Phyllantus_acidus_surette_cochon.jpg"
+              >&WCW;/File:Phyllantus_acidus_surette_cochon.jpg</url></lok>
+        </fnt>
+    </bld>
   </snc>
   <trdgrp lng="de">
      <trd>Blattblume</trd>,
@@ -37,6 +55,12 @@
 
 <!--
 $Log: filant.xml,v $
+Revision 1.15  2018/10/13 14:10:15  revo
+Wolfram Diestel: +bld
+
+Revision 1.14  2018/10/13 13:10:22  revo
+Wolfram Diestel: +ekz
+
 Revision 1.13  2017/06/28 20:10:25  revo
 Vito Redsky: +trd pl
 
@@ -53,11 +77,5 @@ Revision 1.9  2013/08/26 15:10:28  revo
 Wolfram Diestel: referenco al listo bot genroj
 
 Revision 1.8  2007/05/30 16:30:54  revo
-Tulio Flores: +tr pt
-
-Revision 1.7  2003/10/16 16:51:22  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.6  2001/07/04 18:11:38  revo
 -->
 </vortaro>

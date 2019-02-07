@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: auxspi.xml,v 1.15 2011/12/30 14:10:16 revo Exp $">
+  <art mrk="$Id: auxspi.xml,v 1.16 2018/03/20 09:10:16 revo Exp $">
     <kap>
       <rad>a&ubreve;spici</rad>/o
       <fnt>Z</fnt>
@@ -43,8 +43,8 @@
       <snc mrk="auxspi.0o.POL">
 	<uzo tip="stl">EVI</uzo>
 	<dif>
-	  = <ref tip="sin" cel="egid.0o.protekto">Egido<sncref/></ref>,
-	  <ref tip="sin" cel="protek.alta0ado">alta protektado</ref>.
+	  = <ref tip="sin" cel="egid.0o.protekto">Egido<sncref/></ref>, alta
+	  <ref tip="sin" cel="protek.0ado">protektado</ref>.
 	</dif>
 	<trdgrp lng="be">
 	  <trd>&c_z;&c_a;&c_s;&c_t;&c_u;&c_p;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a;</trd>,
@@ -84,6 +84,9 @@
   </art>
   <!--
   $Log: auxspi.xml,v $
+  Revision 1.16  2018/03/20 09:10:16  revo
+  Damien Brucker: -eraro cxe cel en ref
+
   Revision 1.15  2011/12/30 14:10:16  revo
   Antonio Codazzi: +trd it
 

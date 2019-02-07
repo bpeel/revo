@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: difin.xml,v 1.26 2015/10/04 14:10:17 revo Exp $">
+<art mrk="$Id: difin.xml,v 1.27 2018/11/02 13:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>difin</rad>/i
@@ -29,6 +29,10 @@
         povas <tld/>i tion, sed ke ili facile &gcirc;in rekonas.
       </ekz>
     </dif>
+    <trdgrp lng="hu">
+      <trd>defini&aacute;l</trd>,
+      <trd>meghat&aacute;roz (fogalmat)</trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd>definiowa&cacute;</trd>,
       <trd>okre&sacute;la&cacute;</trd>
@@ -267,6 +271,9 @@
 </art>
 <!--
 $Log: difin.xml,v $
+Revision 1.27  2018/11/02 13:10:21  revo
+Peter Garami: hungara tradukajxo aldonita
+
 Revision 1.26  2015/10/04 14:10:17  revo
 Cindy Moon McKee: +trd en
 
@@ -286,8 +293,5 @@ Revision 1.21  2007/12/07 17:30:20  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.20  2007/07/26 16:31:02  revo
-Tulio Flores: +tr pt
-
-Revision 1.19  2007/06/20 16:30:43  revo
 -->
 </vortaro>

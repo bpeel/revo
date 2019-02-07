@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxehxi.xml,v 1.9 2014/06/19 17:10:14 revo Exp $">
+<art mrk="$Id: cxehxi.xml,v 1.10 2018/10/21 11:10:14 revo Exp $">
 <kap>
   <rad>&Ccirc;e&hcirc;i</rad>/o
 </kap>
@@ -24,8 +24,15 @@
   </snc>
   <trd lng="be">&c_Ch;&c_e;&c_h;&c_ib;&c_ja;</trd>
   <trd lng="bg">&c_Ch;&c_je;&c_h;&c_i;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>&Ccaron;esko</trd>,
+    <trd>&Ccaron;esk&aacute; republika</trd>
+  </trdgrp>
   <trd lng="de">Tschechien</trd>
-  <trd lng="en">Czech Republic</trd>
+  <trdgrp lng="en">
+    <trd>Czechia</trd>,
+    <trd>Czech Republic</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>Tch&eacute;quie</trd>,
     <trd>R&eacute;publique tch&egrave;que</trd>
@@ -45,6 +52,9 @@
 
 <!--
 $Log: cxehxi.xml,v $
+Revision 1.10  2018/10/21 11:10:14  revo
+Petr Diblik: + 2 cs kaj 1 en tradukoj
+
 Revision 1.9  2014/06/19 17:10:14  revo
 Damien Brucker: -tajperaro
 
@@ -64,9 +74,6 @@ Revision 1.4  2009/05/07 16:31:00  revo
 Sebastian Cyprych: +trd pl; +~oslovakio
 
 Revision 1.3  2009/04/17 19:49:44  revo
-Antonio Codazzi: +trd it
-
-Revision 1.2  2008/10/24 16:40:51  revo
 -->
 
 </vortaro>

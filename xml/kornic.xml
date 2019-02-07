@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kornic.xml,v 1.15 2016/10/28 00:10:19 revo Exp $">
+<art mrk="$Id: kornic.xml,v 1.16 2018/09/01 22:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kornic</rad>/o <fnt><bib>PV</bib></fnt>
@@ -70,13 +70,18 @@
   <trdgrp lng="nl">
     <trd>lijst</trd>,
     <trd>kroonlijst</trd>
-  </trdgrp>   
+  </trdgrp> 
+  <trd lng="pl">gzyms</trd>     
+  <trd lng="ro">corni&#537;&abreve;</trd>  
   <trd lng="ru">&c_k;&c_a;&c_r;&c_n;&c_i;&c_z;</trd>
 </drv>
 </art>
 
 <!--
 $Log: kornic.xml,v $
+Revision 1.16  2018/09/01 22:10:24  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.15  2016/10/28 00:10:19  revo
 Carlos Garcia: +trd es -o
 
@@ -96,8 +101,5 @@ Revision 1.10  2004/04/28 16:31:50  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2002/12/08 17:32:08  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2002/03/07 18:09:06  revo
 -->
 </vortaro>

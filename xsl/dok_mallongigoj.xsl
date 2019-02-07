@@ -2,22 +2,21 @@
                 version="1.0">
 
 
-<!-- (c) 2002 che Wolfram Diestel
+<!-- (c) 2002-2013 che Wolfram Diestel
 
   transformi la mallongigoliston al HTML
 
 -->
 
+<xsl:include href="inc/inx_menuo.inc"/>
 
 <xsl:output method="html" version="4.0" encoding="utf-8"/>
-
-<xsl:variable name="enhavo">../cfg/enhavo.xml</xsl:variable>
-
 
 <xsl:template match="mallongigoj">
   <html>
     <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+      <meta name="viewport" content="width=device-width,initial-scale=1"/>
       <title><xsl:value-of select="concat(../@nometo,'-indekso: ',@titolo)"/></title>
       <link title="indekso-stilo" type="text/css" 
             rel="stylesheet" href="../stl/indeksoj.css"/>
@@ -26,7 +25,7 @@
       <table cellspacing="0">
         <xsl:call-template name="menuo-ktp"/>
         <tr>
-          <td colspan="{count(document($enhavo)//pagho[not(@kashita='jes')])}" class="enhavo">
+          <td colspan="{$inx_paghoj}" class="enhavo">
 
     <h1>mallongigoj</h1>
 
@@ -44,38 +43,6 @@
     </body>
   </html>
 
-</xsl:template>
-
-
-<xsl:template name="menuo-ktp">
-  <xsl:for-each select="document($enhavo)//pagho[.//BLD-OJ][1]"> 
-    <xsl:call-template name="menuo"/>
-  </xsl:for-each>
-</xsl:template>
-
-
-<xsl:template name="menuo">
-  <xsl:variable name="aktiva" select="@dosiero"/>
-  <tr>
-    <xsl:for-each select="../pagho[not(@kashita='jes')]">
-      <xsl:choose>
-        <xsl:when test="@dosiero=$aktiva">
-          <td class="aktiva">
-            <a href="../inx/{@dosiero}">
-              <xsl:value-of select="@titolo"/>
-            </a>
-          </td>
-        </xsl:when>
-        <xsl:otherwise>
-          <td class="fona">
-            <a href="../inx/{@dosiero}">
-              <xsl:value-of select="@titolo"/>
-            </a>
-          </td>
-        </xsl:otherwise>
-      </xsl:choose>
-    </xsl:for-each>     
-  </tr>
 </xsl:template>
 
 </xsl:stylesheet>

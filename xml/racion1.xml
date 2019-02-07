@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: racion1.xml,v 1.14 2015/03/25 18:10:17 revo Exp $">
+<art mrk="$Id: racion1.xml,v 1.16 2018/11/17 11:10:14 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>racionalist</rad>/o
@@ -12,7 +12,15 @@
   <uzo tip="fak">FIL</uzo>
   <snc>
     <dif>
-      Adepto de la <ref tip="vid" cel="racion.0ismo">racionalismo</ref>.
+      Adepto de la <ref cel="racion2.0o">racionalismo</ref>:
+      <ekz>
+        la gazeto &leftquot;A&ubreve;stralia <tld lit="R"/>o&#8221;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Kep Enderby</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2004/008256.html">Bezonata: nova mondordo</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_ib;&c_s;&c_t;</trd>
@@ -29,6 +37,12 @@
 </art>
 <!--
 $Log: racion1.xml,v $
+Revision 1.16  2018/11/17 11:10:14  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.15  2018/11/16 19:10:17  revo
+Wolfram Diestel: +ekz
+
 Revision 1.14  2015/03/25 18:10:17  revo
 Josep-Enric Peres-i-Blesa: Aldono de nova traduko
 
@@ -45,11 +59,5 @@ Revision 1.10  2003/08/01 16:30:39  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9  2002/10/18 16:38:58  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2002/05/22 16:32:52  revo
-Axel Rousseau: +trd fr
-
-Revision 1.7  2002/01/08 19:27:19  revo
 -->
 </vortaro>

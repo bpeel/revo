@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: banan.xml,v 1.30 2015/07/04 08:37:31 revo Exp $">
+<art mrk="$Id: banan.xml,v 1.32 2018/09/02 13:10:14 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>banan</rad>/o
@@ -11,16 +11,41 @@
 <drv mrk="banan.0o">
   <kap><tld/>o</kap>
   <snc>
+    <uzo tip="fak">KUI</uzo>
     <dif>
       Frukto de la <ref tip="malprt" cel="banan.0ujo"><tld/>ujo</ref>,
       flav&scirc;ela, kurbe longa; kelkaj specoj estas tre bongustaj.
+      <ekz>
+        la okcidentaj butikoj por solidara komerco, ne estas nuraj vendejoj de kafo, &ccirc;okolado, teo, sukero, <tld/>oj, mielo, <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9405-komerco.txt">komercismo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        turoj kurbaj kiel <tld/>oj
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Urbo de Imperiestroj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &ccirc;e PISA oni komparas ne nur pirojn kun pomoj sed ofte kun <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="http://www.monato.net/2005/008522.php">Histerio</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_n;&c_a;&c_n;<klr tip="amb">
 (&c_p;&c_l;&c_o;&c_d;)</klr></trd>
   <trd lng="bg">&c_b;&c_a;&c_n;&c_a;&c_n;</trd>
   <trd lng="ca">banana</trd>
-  <trd lng="cs">banán</trd>
+  <trd lng="cs">ban&aacute;n</trd>
   <trd lng="de">Banane</trd>
   <trd lng="en">banana</trd>
   <trdgrp lng="es">
@@ -29,6 +54,7 @@
   </trdgrp>
   <trd lng="fa">&a_m;&a_w;&a_z;</trd>
   <trd lng="fr">banane</trd>
+  <trd lng="he">&#64305;&nun;&nun;&he;</trd>
   <trd lng="hu">ban&aacute;n</trd>
   <trd lng="id">pisang</trd>
   <trd lng="nl">banaan</trd>
@@ -43,17 +69,37 @@
 
 <drv mrk="banan.0ujo">
   <kap><tld/>ujo</kap>
-  <uzo tip="fak">BOT</uzo>
   <snc>
+    <uzo tip="fak">BOT</uzo>
     <dif>
       <ref tip="lst" cel="genr.0o.BIO"
       lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
-      tip="malprt"
-cel="banan1.0oj"><tld/>ujacoj</ref>
+      tip="malprt" cel="banan1.0oj"><tld/>ujacoj</ref>
       (<trd lng="la">Musa</trd>), tropika vegeta&jcirc;o kun multaj
       specioj. La fruktoj de iuj specioj estas man&gcirc;ataj, la
       folioj de aliaj specioj liveras fibrojn uzatajn por &scirc;nuroj,
-      retoj ktp.
+      retoj ktp.:
+      <ekz>
+        kvankam <tld/>ujo povas atingi grandan alton (9m), &gcirc;i ne estas arbo, &gcirc;i efektive ne produktas lignan trunkon
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=243805">Bananujo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malpli dol&ccirc;a <klr>[&#8230;]</klr> la kuirbanano estas normale man&gcirc;ata kuirite, &gcirc;i kreskas de <tld/>ujo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=532830">Kuirbanano</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        izoamil-acetato nature okazas en <tld/>ujo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=590059">Izoamila acetato</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_n;&c_a;&c_n;
@@ -61,7 +107,7 @@ cel="banan1.0oj"><tld/>ujacoj</ref>
   <trd lng="bg">&c_g;&c_r;&c_o;&c_z;&c_d;
 &c_b;&c_a;&c_n;&c_a;&c_n;&c_i;</trd>
   <trd lng="ca">bananer</trd>
-  <trd lng="cs">banánovník</trd>
+  <trd lng="cs">ban&aacute;novn&iacute;k</trd>
   <trd lng="de">Bananenstaude</trd>
   <trd lng="en">banana tree</trd>
   <trd lng="fa">&a_d;&a_r;&a_kh;&a_t; <ind>&a_m;&a_w;&a_z;</ind></trd>
@@ -78,6 +124,12 @@ cel="banan1.0oj"><tld/>ujacoj</ref>
 </art>
 <!--
 $Log: banan.xml,v $
+Revision 1.32  2018/09/02 13:10:14  revo
+Wolfram Diestel: +ekz-oj
+
+Revision 1.31  2018/05/14 22:10:18  revo
+Benoit Soubeyran: +he
+
 Revision 1.30  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -94,14 +146,5 @@ Revision 1.26  2009/07/01 17:20:34  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.25  2009/06/23 16:32:17  revo
-Emmanuel Debanne: +trd id
-
-Revision 1.24  2008/01/16 17:30:39  revo
-Sebastian Cyprych: ~ujo +trd pl
-
-Revision 1.23  2007/12/09 17:30:29  revo
-Wieland Pusch: +trd bg
-
-Revision 1.22  2007/11/22 17:30:31  revo
 -->
 </vortaro>

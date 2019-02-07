@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vort.xml,v 1.106 2018/01/16 18:10:17 revo Exp $">
+<art mrk="$Id: vort.xml,v 1.107 2018/02/28 21:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vort</rad>/o <fnt><bib>PV</bib></fnt>
@@ -151,7 +151,6 @@
       <trd lng="ja">&#35328;&#33865; [<ind>&#12371;&#12392;&#12400;</ind>]</trd>
     </subsnc>
     <refgrp tip="vid">
-      <ref cel="parol.0o.vorto">parolo <sncref/></ref>,
       <ref cel="termin.0o">termino</ref>
     </refgrp>
     <trdgrp lng="pl">
@@ -1727,6 +1726,9 @@
 </art>
 <!--
 $Log: vort.xml,v $
+Revision 1.107  2018/02/28 21:10:14  revo
+Wolfram Diestel: -ref
+
 Revision 1.106  2018/01/16 18:10:17  revo
 Michel Cantigneaux: fonto por senvorte
 
@@ -1746,8 +1748,5 @@ Revision 1.101  2016/09/09 09:10:11  revo
 Damien Brucker: +ekz
 
 Revision 1.100  2016/09/03 16:10:13  revo
-Wolfram Diestel: plibonigo de la arangho
-
-Revision 1.99  2015/11/06 21:10:19  revo
 -->
 </vortaro>

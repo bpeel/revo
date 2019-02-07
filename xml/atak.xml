@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: atak.xml,v 1.29 2017/09/04 13:10:14 revo Exp $">
+<art mrk="$Id: atak.xml,v 1.30 2018/04/13 18:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>atak</rad>/i <fnt><bib>PV</bib></fnt>
@@ -165,6 +165,45 @@
     <trd>napadnutie</trd>,
     <trd>&uacute;tok</trd>
   </trdgrp>
+</drv>
+
+<drv mrk="atak.0anto">
+  <kap><ofc>*</ofc><tld/>anto</kap>
+  <snc mrk="atak.0anto.ludo">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Homo kiu atakas, dum ludo a&ubreve; sporto, kiel piedpilkado
+    </dif>
+  </snc>
+  <snc mrk="atak.0anto.batalo">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Homo kiu <tld/>as, komencas batalon:
+      <ekz>
+        Kvinope ili sin &jcirc;etis sur min, sed mi venkis &ccirc;iujn kvin
+        <tld/>antojn
+        <fnt><bib>F</bib>, <lok>&FE; 14</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">attaquant</trd>
+</drv>
+
+<drv mrk="atak.0antino">
+  <kap><tld/>antino</kap>
+  <snc mrk="atak.0antino.ludo">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Virina <tld/>anto
+    </dif>
+  </snc>
+  <snc mrk="atak.0antino.batalo">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Virino kiu <tld/>as, komencas batalon.
+    </dif>
+  </snc>
+  <trd lng="fr">attaquante</trd>
 </drv>
 
 <drv mrk="atak.0ema">
@@ -334,6 +373,9 @@
 </art>
 <!--
 $Log: atak.xml,v $
+Revision 1.30  2018/04/13 18:10:14  revo
+Michel Cantigneaux: + atakanto, fundamenta kunmetajxo de la Ekzercaro + atakantino
+
 Revision 1.29  2017/09/04 13:10:14  revo
 Jeromo Vasxe: + tromp~o
 
@@ -353,8 +395,5 @@ Revision 1.24  2015/02/04 00:10:16  revo
 Jeromo Vasxe: + vort~o
 
 Revision 1.23  2012/01/31 20:10:09  revo
-Antonio Codazzi: ++trd it
-
-Revision 1.22  2012/01/31 18:10:14  revo
 -->
 </vortaro>

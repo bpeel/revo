@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ostr.xml,v 1.24 2016/04/11 19:10:21 revo Exp $">
+<art mrk="$Id: ostr.xml,v 1.26 2018/10/08 20:10:21 revo Exp $">
 <kap><ofc>*</ofc> <rad>ostr</rad>/o</kap>
 <drv mrk="ostr.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -10,11 +10,54 @@
   <snc>
     <dif>
       <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
-      tip="malprt"
-      cel="ostred.0oj"><tld/>edoj</ref>
-      (<trd lng="la">Ostrea</trd>), man&gcirc;ebla konko.
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio 
+      <ref tip="malprt" cel="ostred.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Ostrea</trd>), kies konkoj el du nesimetriaj kaj tre malglataj valvoj
+      estas tritavolaj, kaj kies interna perlamota tavolo &ccirc;e kelkaj specioj povas formi perlon. 
+      Kelkaj specioj estas man&gcirc;eblaj:
+      <ekz>
+        <klr>[la]</klr> maljuna patrino <klr>[de la re&gcirc;o de la maro]</klr>
+        portis <esc>dekdu</esc> <tld/>ojn sur la vosto, dum aliaj nobeloj ne devis porti pli ol ses
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sinjoro <nom>Britain</nom>, pren<klr>[is]</klr> sian pladeton kiel <tld/>on kaj 
+        sorb<klr>[is]</klr> &gcirc;in en tia sama maniero
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fuma&jcirc;ita fi&scirc;a&jcirc;o, <tld/>oj, olivoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marc Gassion</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2003/007934.html">Aude</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plisali&gcirc;as riveroj, dum la kvanto de <tld/>oj kaptitaj en Meksika Golfo abrupte &scirc;rumpis
+        <fnt>
+          <bib>Monato</bib>
+          <aut>AMik</aut>
+          <vrk><url ref="http://www.monato.net/2011/010514.php">Soifas ne nur homoj ...</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
+    <bld
+      lok="&WCU;/thumb/4/46/Ostrea_Lurida.jpg/600px-Ostrea_Lurida.jpg"
+      prm="CC BY 2.0"
+      ><tld/>oj (Ostrea lurida)
+
+        <fnt>
+          <aut>VIUDeepBay</aut>
+          <lok><url ref="&WCW;/File:Ostrea_Lurida.jpg"
+              >&WCW;/File:Ostrea_Lurida.jpg</url></lok>
+        </fnt>
+    </bld>
   </snc>
   <trd lng="be">&c_v;&c_u;&c_s;&c_t;&c_r;&c_y;&c_c;&c_a;</trd>
   <trd lng="bg">&c_s;&c_t;&c_r;&c_i;&c_d;&c_a;</trd>
@@ -36,6 +79,12 @@
 </art>
 <!--
 $Log: ostr.xml,v $
+Revision 1.26  2018/10/08 20:10:21  revo
+Wolfram Diestel: +bld
+
+Revision 1.25  2018/09/28 19:10:20  revo
+Wolfram Diestel: +ekz-oj, precizigis dif
+
 Revision 1.24  2016/04/11 19:10:21  revo
 Agustin Garcia Lopez: +trd(es)
 
@@ -52,11 +101,5 @@ Revision 1.20  2013/09/01 17:10:21  revo
 Wolfram Diestel: referenco al listo zoo genroj
 
 Revision 1.19  2009/06/22 16:30:50  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.18  2008/11/14 17:31:11  revo
-Wieland Pusch: +trd bg
-
-Revision 1.17  2005/05/29 18:41:04  revo
 -->
 </vortaro>

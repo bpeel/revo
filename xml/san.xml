@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: san.xml,v 1.65 2017/10/20 22:10:18 revo Exp $">
+<art mrk="$Id: san.xml,v 1.70 2018/05/20 22:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>san</rad>/a <fnt><bib>PV</bib></fnt>
+  <rad>san</rad>/a
 </kap>
 <drv mrk="san.0a">
   <kap><ofc>*</ofc><tld/>a</kap>
@@ -14,11 +14,38 @@
       Havanta korpon, organaron, menson, kiuj bone kaj normale
       funkcias:
       <ekz>
-        Se mi estus <tld/>a, mi estus feli&ccirc;a
+        se mi estus <tld/>a, mi estus feli&ccirc;a
         <fnt><bib>F</bib>, <lok>&FE; 20</lok></fnt>;
       </ekz>
       <ekz>
-        <ind>en korpo <tld/>a la menso <tld/>a</ind>;
+        ili estis junaj kaj <tld/>aj, bone elkreskintaj kaj kun fortaj membroj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dormu nun, fari&gcirc;u fre&scirc;a kaj <tld/>a
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>La najtingalo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li fari&gcirc;is <tld/>a kaj vigla
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[oni pre&gcirc;u, ke]</klr> <ind>en korpo <tld/>a estu menso <tld/>a</ind>;
+        <fnt>
+           <aut>Juvenal</aut>
+           <vrk>Satiroj</vrk>
+           <lok>10, 356</lok>
+        </fnt>
+        <trd lng="de">ein gesunder <ind>Geist</ind> in einem gesunden K&ouml;rper</trd>
         <trd lng="fr">un esprit sain dans un corps sain</trd>
         <trd lng="hu">&eacute;p testben &eacute;p l&eacute;lek</trd>
         <trd lng="ru">&c_v; &c_z;&c_d;&c_o;&c_r;&c_o;&c_v;&c_o;&c_m; &c_t;&c_je;&c_l;&c_je; &c_z;&c_d;&c_o;&c_r;&c_o;&c_v;&c_y;&c_j;
@@ -27,20 +54,115 @@
       <ekz>
         <uzo tip="stl">FIG</uzo>
         Esperanto <tld/>e eltenis &ccirc;iujn ventojn kaj
-        pu&scirc;ojn<fnt>Z</fnt>;
+        pu&scirc;ojn
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en la 11a de a&ubreve;gusto 1912</vrk>
+        </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
         tio malpermesas al la lingvo libere kaj <tld/>e
-        disvolvi&gcirc;i<fnt>Z</fnt>.
+        disvolvi&gcirc;i
+        <fnt>
+          <bib>LR</bib>
+          <lok>4. Vortaroj</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
   <snc mrk="san.0a.saniga">
-    <ref tip="dif" cel="favor.san0a.MED"><tld/>favora</ref>
-    <ekz>
-      <tld/>a pano<fnt>Z</fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="favor.san0a.MED"><tld lit="S"/>favora</ref>:
+      <ekz>
+         el la tuta bestaro nenia speco da bestoj man&gcirc;as bakitan panon,
+         <klr>[pro kio iu]</klr> venis al la logika konvinko, ke &gcirc;i ne 
+         estas <tld/>a kaj bongusta, kaj komencis sin nutradi je kampaj herboj kaj kruda viando
+        <fnt>
+          <bib>LR</bib>
+          <lok>4. Fonetiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        transdoni <tld/>an, puran frukton
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007272.html">Reen al la edena paradizo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la receptoj en &ccirc;i tiu verketo estas bona bazo por <tld/>a nutrado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan Macaoidh</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2003/008020.html">Man&gcirc;u por sano, samideano!</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="san.0a.sanrilata">
+    <dif>
+       Rilata al <tld/>eco, al konservado de <tld/>eco:
+      <ekz>
+        klerigadaj kaj <tld/>aj servoj
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/006882.html">Pollando: Kiam orkestro fari&gcirc;as orkesto</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la bu&gcirc;eto inkluzivas novajn kostojn, kiel <tld/>a kaj pensia asekuroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zlatko Hin&scaron;t</aut>
+          <vrk><url ref="http://www.monato.net/2007/009212.php">Kiel oni (trans)vivas en Kroatio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Gesundheits-</trd>
+  </snc>
+  <snc mrk="san.0a.instruo">
+    <dif>
+      Karakterizanta instruon, kiu certigu ekvilibran, bone funkciantan socion:
+      <ekz>
+        konservu la modelon de sanaj vortoj, kiujn vi a&ubreve;dis de mi, en fido kaj amo
+        <fnt>
+          <bib>NT</bib>
+          <lok>II. Timoteo 1:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        venos tempo, kiam oni ne toleros la <tld/>an instruon
+        <fnt>
+          <bib>NT</bib>
+          <lok>Ii. timoteo 4:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         li povu admoni pri la <tld/>a doktrino 
+        <fnt>
+          <bib>NT</bib>
+          <lok>Tito 1:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la maljunuloj estu sobraj, seriozmienaj, prudentaj, <tld/>aj en la fido, en amo en pacienco
+        <fnt>
+          <bib>NT</bib>
+          <lok>Tito 2:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        albanoj devas fari plejeblon por plibonigi sian imagon je la okuloj
+        de la mondo, evitante kian ajn eksceson, konforme al sia <tld/>a
+        kaj pozitiva morala tradicio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007205.html">Kosovo: Voja&gcirc;impresoj, somero 2000</url></vrk>
+        </fnt>.
+      </ekz>
+   </dif>
   </snc>
   <trd lng="be">&c_z;&c_d;&c_a;&c_r;&c_o;&c_v;&c_y;</trd>
   <trd lng="bg">&c_z;&c_d;&c_r;&c_a;&c_v;</trd>
@@ -74,17 +196,49 @@
 </drv>
 
 <drv mrk="san.0o">
-  <kap><ofc>*</ofc><tld/>o</kap>
+  <kap>
+    <ofc>*</ofc><tld/>o,
+    <var><kap><tld/>eco</kap></var>
+  </kap>
   <snc mrk="san.0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Stato de iu a&ubreve; io <tld/>a, en <ref tip="vid"
-      cel="fart.bon0o">bonfarto</ref>:
+      Stato de iu a&ubreve; io <tld/>a, en <ref tip="vid" cel="fart.bon0o">bonfarto</ref>:
       <ekz>
         <tld/>o estas pli valora ol oro;
       </ekz>
       <ekz>
-        <tld/>osubtenanta ridado<fnt>Z</fnt>;
+        juna knabino kun lumantaj okuloj, kun la brilo de <tld/>eco sur la vangoj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Kvin en unu silikvo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Dio donu al vi plenan sanecon
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto tria</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        <tld/>osubtenanta ridado
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nenio pli grandan mizeron prezentas, ol se <tld/>o mankas 
+        kaj &scirc;uldoj turmentas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        taksi la <tld/>on ni lernas en mal<tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
       </ekz>
       <ekz>
         trinki pro ies <tld/>o
@@ -128,7 +282,29 @@
       </ekz>
       <ekz>
         &gcirc;oja koro estas <tld/>iga
-        <fnt><bib>MT</bib>, <lok>&Sen; 17:22</lok></fnt>.
+        <fnt><bib>MT</bib>, <lok>&Sen; 17:22</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>iga&jcirc;o malbongusta, sed efiko plej &gcirc;usta
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;inoj subtaksas lakton kaj sin turnas al <tld/>igaj produktoj enhavantaj kalcion
+        <fnt>
+          <bib>Monato</bib>
+          <aut>MU Binghua</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007169.html">Lakto ne &scirc;atata</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la a&ubreve;torino asertas pri la enhavo kaj <tld/>iga efiko de la ingrediencoj, kiujn &scirc;i uzas
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan Macaoidh</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2003/008020.html">Man&gcirc;u por sano, samideano!</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -145,6 +321,10 @@
     <trd>hojiv&yacute;</trd>,
     <trd>l&eacute;&ccaron;iv&yacute;</trd>,
     <trd>uzdravuj&iacute;c&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>heilsam</trd>,
+    <trd>gesund <klr>(machend)</klr></trd>
   </trdgrp>
   <trd lng="en">salubrious</trd>
   <trdgrp lng="fr">
@@ -181,41 +361,6 @@
   <trd lng="tr">sa&gbreve;l&inodot;&gbreve;a yararl&inodot;</trd>
 </drv>
 
-<drv mrk="san.0ilo">
-  <kap><ofc>*</ofc><tld/>ilo<fnt>B</fnt></kap>
-  <snc mrk="san.0ilo.MED">
-    <ref tip="dif" cel="kurac.0ilo">kuracilo</ref>
-  </snc>
-  <trdgrp lng="be">
-    <trd>&c_l;&c_ja;&c_k;&c_a;&c_r;&c_s;&c_t;&c_v;&c_a;</trd>,
-    <trd>&c_l;&c_je;&c_k;&c_ib;</trd>
-  </trdgrp>
-  <trd lng="de">Medizin</trd>
-  <trdgrp lng="en">
-    <trd>cure</trd>,
-    <trd>medicine</trd>,
-    <trd>remedy</trd>
-  </trdgrp>
-  <trd lng="fr">rem&egrave;de</trd>
-  <trd lng="he">&tav;&resh;&vav;&pe;&he;</trd>
-  <trd lng="hu">gy&oacute;gy&aacute;szati eszk&ouml;z</trd>
-  <trd lng="id">obat</trd>
-  <trd lng="it">medicina<klr> (farmaco)</klr></trd>
-  <trdgrp lng="nl">
-    <trd>geneesmiddel</trd>,
-    <trd>medicijn</trd>
-  </trdgrp>
-  <trdgrp lng="pl">
-    <trd>lekarstwo</trd>,
-    <trd>medykament</trd>
-  </trdgrp>
-  <trd lng="ru">&c_l;&c_je;&c_k;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;</trd>
-  <trdgrp lng="tr">
-    <trd>&ccedil;are</trd>,
-    <trd>ila&ccedil;</trd>
-  </trdgrp>
-</drv>
-
 <drv mrk="san.0igi">
   <kap><ofc>*</ofc><tld/>igi</kap>
   <gra><vspec>tr</vspec></gra>
@@ -224,8 +369,35 @@
       Sukcese <ref tip="sin" cel="kurac.0i.MED">kuraci</ref>, meti iun
       en <tld/>an staton:
       <ekz>
-        Li <tld/>igas la korprematojn kaj banda&gcirc;as iliajn vundojn
-        <fnt><bib>MT</bib>, <lok>&Psa; 147:3</lok></fnt>.
+        li <tld/>igas la korprematojn kaj banda&gcirc;as iliajn vundojn
+        <fnt><bib>MT</bib>, <lok>&Psa; 147:3</lok></fnt>;
+      </ekz>
+      <ekz>
+        oni alportu dispremitan figon kaj metu sur la &scirc;vela&jcirc;on, kaj li estos <tld/>igita
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 38:21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li kiel febro mian sangon batas... vi devas min <tld/>igi
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        silentu, respondis Sankta Petro, mi povas ne nur <tld/>igi la malsanulojn, sed anka&ubreve; revivigi mortintojn
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Kamarado Gaja</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Pa&ubreve;lo eniris, kaj pre&gcirc;is, kaj, metinte la manojn sur lin, <tld/>igis lin
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 28:8</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -270,11 +442,79 @@
   <trd lng="tr">i&gbreve;le&scedil;tirmek</trd>
 </drv>
 
+<drv mrk="san.0ilo">
+  <kap><ofc>*</ofc><tld/>ilo<fnt>
+          <bib>F</bib>
+          <lok>&FE; 42</lok>
+        </fnt>,
+     <var><kap><tld/>igilo</kap></var>
+  </kap>
+  <snc mrk="san.0ilo.MED">
+    <dif>
+      <ref tip="dif" cel="kurac.0ilo">Kuracilo</ref>:
+      <ekz>
+        en 2000-jara &ccirc;ina medicina teksto legeblas pri kanabo kiel <tld/>ilo kontra&ubreve; re&ubreve;matismo kaj malario
+        <fnt>
+          <vrk><url ref="https://eo.wikipedia.org/wiki/Kanabo">Kanabo - Vikipedio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi trovis la mal<tld/>on, vi ser&ccirc;os <tld/>igilon kaj aplikos &gcirc;in
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi esploru, kio estas la ka&ubreve;zo de la mal<tld/>o <klr>[&#8230;]</klr> kaj kiu <tld/>igilo kontra&ubreve; tio ekzistas
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>En la Lando de la Noktuloj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_ja;&c_k;&c_a;&c_r;&c_s;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_l;&c_je;&c_k;&c_ib;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Heilmittel</trd>,
+    <trd>Medizin</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>cure</trd>,
+    <trd>medicine</trd>,
+    <trd>remedy</trd>
+  </trdgrp>
+  <trd lng="fr">rem&egrave;de</trd>
+  <trd lng="he">&tav;&resh;&vav;&pe;&he;</trd>
+  <trd lng="hu">gy&oacute;gy&aacute;szati eszk&ouml;z</trd>
+  <trd lng="id">obat</trd>
+  <trd lng="it">medicina<klr> (farmaco)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>geneesmiddel</trd>,
+    <trd>medicijn</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>lekarstwo</trd>,
+    <trd>medykament</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_je;&c_k;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trdgrp lng="tr">
+    <trd>&ccedil;are</trd>,
+    <trd>ila&ccedil;</trd>
+  </trdgrp>
+</drv>
+
+
+
 <drv mrk="san.mal0a">
   <kap><ofc>*</ofc>mal<tld/>a</kap>
   <snc mrk="san.mal0a.MED">
     <dif>
-      <klr>(Pri homo, besto a&ubreve; vegetalo)</klr> suferanta
+      <klr>(pri organismo a&ubreve; parto de &gcirc;i)</klr> Suferanta
       misfunkciadon de siaj organoj:
       <ekz>
         li estas morte mal<tld/>a, li ne vivos pli, ol unu
@@ -286,6 +526,51 @@
         <fnt><bib>F</bib>, <lok>&FE;39.</lok></fnt>;
       </ekz>
       <ekz>
+        La okuloj de Lea estis mal<tld/>aj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 29:17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> havis malsanajn piedojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 4:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la anim&#8217; mal<tld/>a
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ku&scirc;i&gcirc;u en vian liton, kaj &scirc;ajnigu vin mal<tld/>a
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 13:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estas senespere mal<tld/>a, kaj savi lin povas nur ia mireginda&jcirc;o
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li klini&gcirc;is ame super &gcirc;ia korpo mal<tld/>a, venenita
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la duone acida, duone apatia mieno montris homon &hcirc;ronike mal<tld/>an 
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
         <ind>cerbomal<tld/>a</ind>;
         <trdgrp lng="hu">
           <trd>elmebeteg</trd>,
@@ -294,11 +579,43 @@
         </trdgrp>
       </ekz>
       <ekz>
+        oni uzis tiucele e&ccirc; mal<tld/>ajn bestojn, interalie &scirc;afojn, kiuj mortis pro &scirc;afofrenezo&rightquot;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>S. Maul</aut>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu kvara arbo en E&ubreve;ropo estas mal<tld/>a
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+        </fnt>;
+      </ekz>
+      <ekz>
         mal<tld/>eca paleco;
       </ekz>
       <ekz>
+        premson&gcirc;o a&ubreve; mal<tld/>a fantazio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Boris Kolker</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2003/007812.html">Estas
+            dan&gcirc;ere esti poeto</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
         <uzo tip="stl">FIG</uzo>
-        tiu okazo mal<tld/>igis nian financan staton.
+        tiu okazo mal<tld/>igis nian financan staton;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        komenci <tld/>igi sian ege mal<tld/>an ekonomion
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zlatko Ti&scaron;ljar</aut>
+          <vrk><url ref="http://www.monato.net/2009/009729.php">Novaj &ccirc;apitroj en najbar-konflikto</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -359,12 +676,82 @@
         <fnt><bib>MT</bib>, <lok>&Psa; 103:3</lok></fnt>.
       </ekz>
       <ekz>
+        por longa mal<tld/>o kurac' estas vana
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia mal<tld/>o estis tre forta, tiel, ke li tute &ccirc;esis spiri
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Re&gcirc;oj 17:17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e tiu &ccirc;i mal<tld/>o unu horo povas decidi inter vivo kaj morto
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu &ccirc;i banejo estas vere por mia mal<tld/>o la plej helpa
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+         atakitaj de mara mal<tld/>o
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        alpistoj, bezonantaj medicinan priservadon rezulte de altecmal<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007116.html">Sir Edmund Hillary: Vivo dedi&ccirc;e al la &scirc;erpoj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mal<tld/>o de moderna japana socio estas tuberkulozo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007148.html">Ne mortis mortiga malsano</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        gripo (influenco) estas al &ccirc;iu konata mal<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2003/008099.html">Birda gripo, &ccirc;u dan&gcirc;era por la homo?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiom dan&gcirc;era vere estas la nova grava mal<tld/>o &leftquot;netipa pne&ubreve;monio&#8221;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2003/008129.html">Propagando dan&gcirc;era</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
         &ccirc;iutage homoj kolapsas pro kormal<tld/>o
         <fnt>
         <aut>J. Ipfelkofer</aut>,
         <vrk>Esploroj kortu&scirc;aj</vrk>,
         <bib>Monato</bib>,
         <lok>jaro 2001a, numero 9a, p. 12a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pacientoj kadre de la &scirc;tata mal<tld/>asekuro &gcirc;uas kontentigan medicinan servon 
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="http://www.monato.net/2013/010943.php">Kiel ku&scirc;i klinike?</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -411,11 +798,37 @@
 </drv>
 
 <drv mrk="san.mal0ema">
-  <kap><ofc>*</ofc>mal<tld/>ema</kap>
-  <fnt><bib>F</bib>, <lok>&FE; 42</lok></fnt>
+  <kap><ofc>*</ofc>mal<tld/>ema
+    <fnt><bib>F</bib>, <lok>&FE; 42</lok></fnt>
+  </kap>
   <snc>
     <dif>
       Kiu ofte kaj facile mal<tld/>i&gcirc;as:
+      <ekz>
+        estis malfacile rekoni en &scirc;i la anta&ubreve;an mal<tld/>eman, palan Malanja'n
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+         fre&scirc;a sango venas en la mal<tld/>emajn, sangomankajn familiojn de la urbo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ia patrino anka&ubreve; estas mal<tld/>ema kaj, por diri la veron, virino kapricema kaj malpacema
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li estis]</klr> iom pli mal<tld/>ema ol aliaj maljunuloj 
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         mal<tld/>ema korpo bezonas nur malgrandan pu&scirc;on de ekstere
         por fali en mal<tld/>on
@@ -431,6 +844,7 @@
     <trd>&c_h;&c_v;&c_a;&c_r;&c_a;&c_v;&c_ib;&c_t;&c_y;</trd>,
     <trd>&c_b;&c_a;&c_l;&c_je;&c_s;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="de">kr&auml;nklich</trd>
   <trdgrp lng="en">
     <trd>ailing</trd>,
     <trd>sickly</trd>
@@ -464,8 +878,51 @@
     <dif>
       Eksperti korpan a&ubreve; spiritan misfunkciadon:
       <ekz>
+         en sia maljuneco li mal<tld/>i&gcirc;is je siaj piedoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Re&gcirc;oj 15:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i mal<tld/>i&gcirc;is, kaj mortis
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 9:37</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> patro serioze mal<tld/>i&gcirc;is
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mal<tld/>i&gcirc;i je la lepro
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la soldatoj komencis mal<tld/>i&gcirc;i je disenterio kaj je inflamo de l' palpebroj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XXIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         de rigardo tro alta mal<tld/>i&gcirc;as okulo
         <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        en 1918 kaj 1919, kiam en la mondo mal<tld/>i&gcirc;is je gripo &ccirc;irka&ubreve; 500 milionoj da homoj, el kiuj 20 milionoj mortis
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2003/008099.html">Birda gripo, &ccirc;u dan&gcirc;era por la homo?</url></vrk>
+        </fnt>;
       </ekz>
       <ekz>
         mal<tld/>i&gcirc;as pro kancero ankora&ubreve; triono de la
@@ -503,6 +960,39 @@
     <dif>
       Granda, ordinare publika kuracejo kun ekipa&jcirc;oj kaj oficantaj
       medicinistoj:
+      <ekz>
+        oni venigis &scirc;in en la mal<tld/>ulejon de la malri&ccirc;ulejo, kie &scirc;i mortis
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Juda knabino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve; sia morto li mal<tld/>i&gcirc;is kaj oni lin sendis en la mal<tld/>ulejon
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nia fidela servanto mortis en la mal<tld/>ulejo
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ebriuloj estos veturigitaj a&ubreve; al policejoj a&ubreve; al mal<tld/>ulejoj
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007066.html">Litovio: Sobriga propono</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Natalia estis flegistino en la urba mal<tld/>ulejo
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007215.html">La peko de Ros</url></vrk>
+        </fnt>;
+      </ekz>
       <ekz>
         la konstruado de lernejoj, mal<tld/>ulejoj kaj pontoj
         kondukis al la estigo de modesta bonstato
@@ -549,17 +1039,56 @@
   <kap><ofc>*</ofc>re<tld/>igi</kap>
   <snc mrk="san.re0igi.MED">
     <dif>
-      Redoni la <tld/>on al iu, sukcese <ref tip="sin"
-      cel="kurac.0i.MED">kuraci</ref>:
+      Redoni la <tld/>on al iu, sukcese <ref tip="sin" cel="kurac.0i.MED">kuraci</ref>:
       <ekz>
-        la Eternulo banda&gcirc;os la difektojn de sia popolo kaj
-        re<tld/>igos &gcirc;iajn vundojn<fnt>Z</fnt>;
+        oni alkondukis al li &ccirc;iujn malsanulojn, malfortigitajn de diversaj malsanoj 
+        kaj turmentoj, demonhavantojn, epilepsiulojn, kaj paralizulojn, kaj li re<tld/>igis ilin
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 4:24</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <ind>nere<tld/>igebla</ind> vundo<fnt>Z</fnt>.
+        la tempo re<tld/>igas &ccirc;ion
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>nere<tld/>igebla</ind> vundo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 10:19</lok>
+        </fnt>.
         <trd lng="hu">gy&oacute;gy&iacute;thatatlan</trd>
       </ekz>
     </dif>
+  </snc>
+  <snc mrk="san.re0igi.organizon">
+    <uzo tip="fak">EKON</uzo><uzo tip="fak">POL</uzo>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+       Reformi misfunkciantan organiza&jcirc;on:
+      <ekz>
+        re<tld/>igi la entreprenon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007334.html">Belgio: Lernout kaj Hauspie: revo fini&gcirc;is</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        re<tld/>igi la &scirc;taton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="http://www.monato.net/2012/010718.php">Amara medikamento</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">sanieren</trd>
+    <trd lng="en">sanitize</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_y;&c_l;&c_ja;&c_ch;&c_y;&c_c;&c_mol;</trd>,
@@ -606,7 +1135,23 @@
 <drv mrk="san.re0igilo">
   <kap>re<tld/>igilo<fnt>Z</fnt></kap>
   <snc mrk="san.re0igilo.MED">
-    <ref tip="dif" cel="kurac.0ilo">kuracilo</ref>
+    <dif>
+      <ref tip="dif" cel="kurac.0ilo">Kuracilo</ref>:
+      <ekz>
+        muziko estas re<tld/>igilo
+        <fnt>
+          <vrk><url ref="https://www.paivanetto.com/eo/spiriteco/la-mondo-naskigis-kun-muziko">La
+           mondo naski&gcirc;is kun muziko | Paiva Netto</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        kelkaj Usonanoj pensas ke Donald Trump estas la re<tld/>igilo por la mal<tld/>o de avareco kaj korupteco
+        <fnt>
+          <vrk><url ref="https://lernu.net/en/forumo/temo/23090/6">Trump / Viewpoints / Forum - lernu.net</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_l;&c_ja;&c_k;&c_a;&c_r;&c_s;&c_t;&c_v;&c_a;</trd>,
@@ -651,10 +1196,34 @@
     <dif>
       Retrovi la <tld/>on post misfarto:
       <ekz>
-        re<tld/>i&gcirc;i el rabio.
+        re<tld/>i&gcirc;i de rabio
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 28:27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         dispremitan figon <klr>[&#8230;]</klr> oni alportis kaj metis sur la &scirc;vela&jcirc;on, kaj li re<tld/>i&gcirc;is
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Re&gcirc;oj 20:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne perdu la esperon, sinjorino, li diris milde, la infano povas re<tld/>i&gcirc;i
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;is la edzi&gcirc;o venos re<tld/>i&gcirc;o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">genesen</trd>
   <trdgrp lng="en">
     <trd>get better</trd>,
     <trd>heal</trd>,
@@ -680,22 +1249,28 @@
   <snc mrk="san.flavmal0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Akra <ref tip="lst" cel="inflam.0o"
-      lst="voko:malsanoj">inflamo</ref> de la hepato, unu el kies
+      Akra <ref tip="lst" cel="inflam.0o" lst="voko:malsanoj">inflamo</ref> de la hepato, unu el kies
       simptomoj estas
       <ref cel="flav.0igxo.MED">flavi&gcirc;o<sncref/></ref> de la
       ha&ubreve;to, mukozoj kaj okuloj:
       <ekz>
-        &leftquot;Estas &ccirc;i tie kamparano, kiu estas mal<tld/>a je
+        &leftquot;estas &ccirc;i tie kamparano, kiu estas mal<tld/>a je
         <ref tip="dif" cel="ikter.0o.malsano">iktero</ref>...&rightquot;
-        &#8208; &leftquot;Tio estas je flavmal<tld/>o?&rightquot;
+        &dash; &leftquot;tio estas je flavmal<tld/>o?&rightquot;
         <fnt>
         <bib>PatrojFiloj</bib>,
         <lok>&ccirc;ap. 21a</lok>
         </fnt>;
       </ekz>
       <ekz>
-        &Ccirc;u tio estas flavmal<tld/>o, a&ubreve; ftizo?
+        en 1822 epidemio de flavmal<tld/>o en Novjorko instigis la lo&gcirc;antaron eskapi al loko kun pli <tld/>a aero
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=283114">Greenwich Village</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u tio estas flavmal<tld/>o, a&ubreve; ftizo?
         <fnt>
         <aut>M. Martinson, trad. F. Szil&aacute;gyi</aut>,
         <vrk>Vespera ru&gcirc;o anoncas ventegon</vrk>,
@@ -736,7 +1311,7 @@
       <ref tip="lst" cel="san.mal0o" lst="voko:malsanoj">Malsano</ref>
       ka&ubreve;zata de malsufi&ccirc;o de vivnecesa substanco:
       <ekz>
-        homo <klr>...</klr> povas suferi de
+        homo <klr>[&#8230;]</klr> povas suferi de
         mankomal<tld/>o, ka&ubreve;zita de deficito
         de proteinoj, de vitaminoj a&ubreve; de mineraloj
         <fnt><aut>W. F. Rolt</aut>, <vrk>El la Polvo de la Tero</vrk>, 
@@ -745,6 +1320,7 @@
     </dif>
   </snc>
   <trd lng="cs">nemoc z podv&yacute;&zcaron;ivy</trd>
+  <trd lng="de">Mangelerkrankung</trd>
   <trd lng="fr">carence<klr> (m&eacute;d.)</klr></trd>
   <trd lng="sk">choroba z podv&yacute;&zcaron;ivy</trd>
 </drv>
@@ -756,9 +1332,22 @@
     <dif>
       Na&ubreve;zo kiun oni povas senti pro la ruli&gcirc;o de &scirc;ipo:
       <ekz>
+        estas bona kontra&ubreve; la marmal<tld/>o, se oni havas &scirc;talan stomakon
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Flikilo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Mooney, kiu devenis de la Orkadoj, rapide rezignis kaj el&scirc;ipi&gcirc;is en Madejron pro kronika marmal<tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=273639">Ekspedicio Shackleton-Rowett</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         dum la unuaj simptomoj de la marmal<tld/>o, oni fajfas pri
-        la
-        haveno, &ccirc;ar oni deziras morti surloke
+        la haveno, &ccirc;ar oni deziras morti surloke
         <fnt><aut>R. Radiguet, trad. M. Duc Goninaz</aut>, <vrk>Kun
         Diablo en la korpo</vrk>, <lok>Mondial,
         2006</lok></fnt>.
@@ -795,17 +1384,39 @@
     <dif>
       Nenormala funkciado de racio, humoro a&ubreve; alia mensa&jcirc;o:
       <ekz>
-        <ctl>Nova Progreso en Medicino por Mensmal<tld/>o</ctl>
+        honorata psikologo, kiu sukcesas konvinki la familianojn, ke vegetarismo ne estas mensmal<tld/>o
         <fnt>
-        <aut>Kobayasi T.</aut>,
-        <vrk>Nova Progreso...</vrk>,
-        <lok><url ref="http://jei.or.jp/kaem/kaem-ais.htm">
-        AIS-Sesio, 2002</url></lok>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="http://www.monato.net/2007/009082.php">Majstra verko de a&ubreve;toro preska&ubreve; nekonata</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili postvivas multe pli gravajn vundojn, ekzemple membrojn amputitajn kaj tra&ubreve;matajn brulvundojn, mensaj mal<tld/>oj anka&ubreve; estas kompensataj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Thibault</aut>
+          <vrk><url ref="http://www.monato.net/2008/009538.php">Nombro de militistaj invalidoj kreskas</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post la diagnozo &leftquot;nekuracebla mensmalsano&rightquot; li pasigis la reston de sia vivo en la domo de ligna&jcirc;isto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1318">Friedrich H&ouml;lderlin</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Lorenzo Celsi mortis, oficiale frapita de mensmal<tld/>o sen pluaj difinoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=505963">Lorenzo Celsi</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="cs">du&scaron;evn&iacute; nemoc</trd>
+  <trd lng="de">Geisteskrankheit</trd>
   <trd lng="en">mental illness</trd>
   <trdgrp lng="fr">
     <trd>maladie mentale</trd>,
@@ -830,18 +1441,34 @@
         se homoj vomas kaj abomenas la religiojn, kaj e&ccirc; Dion, tio 
         estas &gcirc;uste pro tiaj ekscesoj de religiuloj sencerbaj kaj 
         senkoraj, de mensmal<tld/>uloj, kiuj pensas nur per siaj tripoj 
-        
         <fnt>
         <aut>H. Masson</aut>,
         <vrk>Esperanto serve al la vivo...</vrk>,
-        <lok><url
-        ref="http://groups.yahoo.com/group/esper-inform/message/1286">
+        <lok><url ref="http://groups.yahoo.com/group/esper-inform/message/1286">
         esper-inform, 2003-05-15</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        servoj por mensmal<tld/>uloj estas nesufi&ccirc;aj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="http://www.monato.net/2011/010291.php">Tigro, kiu ne plu roras</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni ne rajtas forstreki la krimegon kiel misfaron de mensmal<tld/>ulo, 
+        Breivik estas produkto de politika medio kun longa historio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Douglas Draper</aut>
+          <vrk><url ref="http://www.monato.net/2012/010860.php">Freneza, ne; celkonscia, jes.</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="cs">choromysln&yacute; <klr>(osoba)</klr></trd>
+  <trd lng="de">Geisteskranker</trd>
   <trd lng="en">mentally ill person</trd>
   <trdgrp lng="fr">
     <trd>malade mental</trd>,
@@ -855,15 +1482,15 @@
   <trd lng="sk">choromyse&lcaron;n&yacute;</trd>
 </drv>
 
-<drv mrk="san.0o.MOS">
-  <kap>Monda Organiza&jcirc;o pri <tld lit="S"/>o</kap>
+<drv mrk="san.MOS0o">
+  <kap>Monda Organiza&jcirc;o pri <tld lit="S"/>o
+    <fnt><bib>ManPol</bib></fnt>
+  </kap>
   <mlg>MOS</mlg>
-  <fnt><bib>ManPol</bib></fnt>
-  <snc mrk="san.0o.MOS.MED">
+  <snc mrk="san.MOS0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Speciala <ref tip="lst"
-      cel="organi2.0ajxo" lst="voko:organiza&jcirc;oj">organiza&jcirc;o</ref> de
+      Speciala <ref tip="lst" cel="organi2.0ajxo" lst="voko:organiza&jcirc;oj">organiza&jcirc;o</ref> de
       <ref tip="malprt" cel="naci.Unuigxintaj_0oj">Unui&gcirc;intaj
       Nacioj</ref>
       por kontra&ubreve;batali <ref cel="epidem.0o">epidemiojn</ref> kaj
@@ -873,8 +1500,7 @@
         Monda Organiza&jcirc;o pri <tld lit="S"/>o (MOS) en sia
         lastatempa
         raporto deklaris, ke la proverbo &leftquot;&ccirc;iutage unu
-        glason da biero kaj
-        la kuracistoj estos superfluaj&rightquot; havas nenian sciencan
+        glason da biero kaj la kuracistoj estos superfluaj&rightquot; havas nenian sciencan
         bazon
         <fnt><aut>Peng Juan</aut>,
         <vrk><url ref="&Monato;/007379.html">Alkohola&jcirc;o &ndash;
@@ -882,6 +1508,22 @@
         dan&gcirc;era</url></vrk>,
         <bib>Monato</bib>,
         <lok>numero 04/2001</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        Monda Organiza&jcirc;o pri <tld lit="S"/>o jam plurfoje devis korekti indikojn, statistikojn kaj prognozojn pri sarso
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan MAUL</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2003/008129.html">Propagando dan&gcirc;era</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili postulas <klr>[&#8230;]</klr> ne plu reklami por energiri&ccirc;aj nutra&jcirc;oj, kiel tion rekomendas Monda Organiza&jcirc;o pri <tld lit="S"/>o (MOS)
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="http://www.monato.net/2007/009234.php">Dikeco</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -894,7 +1536,7 @@
   </trdgrp>
   <trdgrp lng="de">
     <trd>Weltgesundheits-Organisation</trd>,
-    <trd>WGO</trd>
+    <trd>WHO</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>World <ind>Health</ind> Organisation</trd>,
@@ -939,6 +1581,21 @@
 </art>
 <!--
 $Log: san.xml,v $
+Revision 1.70  2018/05/20 22:10:16  revo
+Wolfram Diestel: prilaboris ekz. (cetero), kor. mrk MOS0o
+
+Revision 1.69  2018/05/20 18:10:13  revo
+Wolfram Diestel: resan*: ekz-oj
+
+Revision 1.68  2018/05/19 11:10:13  revo
+Wolfram Diestel: malsan*: prilaboris ekz-ojn
+
+Revision 1.67  2018/05/18 19:10:14  revo
+Wolfram Diestel: ~o, ~eco, ~ig*: prilaboris ekz-ojn, + 2 var
+
+Revision 1.66  2018/05/15 19:10:14  revo
+Wolfram Diestel: ~a: +snc-oj rilata, instruo, ekz-oj
+
 Revision 1.65  2017/10/20 22:10:18  revo
 Evandro Avellar: trd pt
 
@@ -946,20 +1603,5 @@ Revision 1.64  2016/11/13 08:10:25  revo
 Darcy Shen: + trd zh
 
 Revision 1.63  2015/07/04 08:37:43  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.62  2015/06/29 16:33:23  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.61  2015/04/02 08:10:15  revo
-Alain Gerard: +trd (fr)
-
-Revision 1.60  2014/09/26 08:10:10  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.59  2014/06/10 10:10:15  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.58  2013/11/23 02:10:24  revo
 -->
 </vortaro>

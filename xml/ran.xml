@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ran.xml,v 1.28 2015/07/04 08:37:42 revo Exp $">
+<art mrk="$Id: ran.xml,v 1.32 2018/10/07 18:10:17 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>ran</rad>/o
@@ -12,9 +12,29 @@
    <snc mrk="ran.0o.komune">
      <uzo tip="stl">KOMUNE</uzo>
      <dif>
-       Iu el <tld/>edoj; <ref tip="lst" cel="amfibi.0o"
-       lst="voko:amfibioj">amfibio</ref>, senvostulo kun horizontalaj
-       pupiloj kaj dentoj.
+       Iu el <ref tip="malprt" cel="raned.0oj">ranedoj</ref>;
+       <ref tip="lst" cel="amfibi.0o" lst="voko:amfibioj">amfibio</ref>, 
+       senvostulo kun horizontalaj pupiloj kaj dentoj:
+      <ekz>
+        kie ajn <tld/>o iras, &gcirc;i &ccirc;iam mar&ccirc;on sopiras
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        eksvarmos la rivero per <tld/>oj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 8:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o kvakis tiel timeme, kvaza&ubreve; &gcirc;i volus elpetegi de &scirc;i kompaton
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>.
+      </ekz>
      </dif>
      <ref tip="vid" cel="buf.0o">bufo</ref>
    </snc>
@@ -23,19 +43,35 @@
      <dif>
        <ref tip="lst" cel="genr.0o.BIO"
        lst="voko:zoologiaj_genroj">Genro</ref> el la familio <ref
-       tip="malprt"
-       cel="raned.0oj"><tld/>edoj</ref>
-       (<trd lng="la">Rana</trd>).
+       tip="malprt" cel="raned.0oj"><tld/>edoj</ref>
+       (<trd lng="la">Rana</trd>):
+      <ekz>
+        la e&ubreve;ropa hilo estas la plej rara <tld/>o en Litovio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="http://www.monato.net/2012/010875.php">Pereon de specioj malhelpas homoj</url></vrk>
+        </fnt>.
+      </ekz>
      </dif>
      <trd lng="pl">&zdot;aba</trd>
    </snc>
-   <bld lok="../bld/ran2.jpg">
-     <ind>akvo<tld/>o</ind>
+   <bld
+     lok="&WCU;/thumb/7/75/Rana_esculenta_on_Nymphaea_edit.JPG/640px-Rana_esculenta_on_Nymphaea_edit.JPG"
+     prm="CC BY 3.0"
+     ><ind>akvo<tld/>o</ind> (Rana esculenta)
+       <fnt>
+         <aut>Helge Busch-Paulick (Grand-Duc @ Wikipedia), prilaborita de Niabot</aut>
+         <lok><url ref="&WCW;/File:Rana_esculenta_on_Nymphaea_edit.JPG"
+             >&WCW;/File:Rana_esculenta_on_Nymphaea_edit.JPG</url></lok>
+       </fnt>
+     <trd lng="de">Wasserfrosch</trd>
      <trd lng="hu">kecskeb&eacute;ka</trd>
      <trd lng="la">Rana esculenta</trd>
      <trd lng="es">Rana de agua</trd>
    </bld>
    <trd lng="be">&c_zh;&c_a;&c_b;&c_a;</trd>
+   <trd lng="bg">&c_zh;&c_a;&c_b;&c_a;</trd>
    <trd lng="de">Frosch</trd>
    <trd lng="en">frog</trd>
    <trd lng="es">rana</trd>
@@ -50,15 +86,55 @@
    <trd lng="pt">r&atilde;</trd>
    <trd lng="ru">&c_l;&c_ja;&c_g;&c_u;&c_sh;&c_k;&c_a;</trd>
    <trd lng="sv">groda</trd>
-  <trd lng="sk">žaba</trd>
+  <trd lng="sk">&zcaron;aba</trd>
   <trdgrp lng="cs">
     <trd>skokan</trd>,
-    <trd>žába</trd>
+    <trd>&zcaron;&aacute;ba</trd>
   </trdgrp>
 </drv>
+
+<drv mrk="ran.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <tld/>a ha&ubreve;to
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i konforme al sia <tld/>a naturo subakvi&gcirc;adis kaj poste levi&gcirc;adis returne supren
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+</drv>
+
+
+
 </art>
 <!--
 $Log: ran.xml,v $
+Revision 1.32  2018/10/07 18:10:17  revo
+Wolfram Diestel: pli bona bildo
+
+Revision 1.31  2018/08/19 15:10:16  revo
+Wolfram Diestel: +ekz-oj, + ~a
+
+Revision 1.30  2018/05/22 10:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.29  2018/02/17 14:10:13  revo
+Michel Cantigneaux: PV indico (ciuj fundamentaj vortoj estas en PV)
+
 Revision 1.28  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -69,23 +145,5 @@ Revision 1.26  2014/06/09 16:10:35  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.25  2013/10/21 19:10:22  revo
-Wolfram Diestel: ref al lst amfibioj, prilaboris dif
-
-Revision 1.24  2013/09/03 17:10:38  revo
-Wolfram Diestel: referenco al listo zoo genroj
-
-Revision 1.23  2013/06/23 15:10:08  revo
-Wolfram Diestel: korektis reftip al ranedoj
-
-Revision 1.22  2012/05/06 17:10:14  revo
-Bart Demeyere: +mrkoj
-
-Revision 1.21  2009/03/31 16:30:42  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.20  2006/05/04 16:32:09  revo
-Eduardo Navas: +trd es
-
-Revision 1.19  2006/02/18 17:33:07  revo
 -->
 </vortaro>

@@ -21,7 +21,7 @@
 <!-- saxon:collation name="unicode"
 class="net.sf.saxon.sort.CodepointCollator"/ -->
 
-<xsl:include href="inx_ordigo2.inc"/>
+<xsl:include href="inc/inx_ordigo2.inc"/>
 
 <xsl:variable name="ordigo">../cfg/ordigo2.xml</xsl:variable>
 
@@ -62,8 +62,14 @@ class="net.sf.saxon.sort.CodepointCollator"/ -->
     <xsl:message>DBG: ordigi lau lingvo: "<xsl:value-of select="$ordlng"/>"...</xsl:message>
   </xsl:if>
 
+  <!-- Chu problemo: tio enkludas ankau <i>...</i> kiuj tiel ne aparas sub la ĵokero-litero "?" 
+       aliflanke en taja lingvo tio estas ghuse uzata por ne havi vortojn komencighantajn
+       per vokalo en du indeksoj -->
   <xsl:variable name="chiuj_literoj"
       select="translate(normalize-space(document($ordigo)/ordigo/lingvo[@lng=$ordlng]),' ','')"/>
+
+  <xsl:variable name="ignorendaj" select="concat('-(',document($ordigo)/ordigo/lingvo[@lng=$ordlng]/@ignorendaj)"/>
+
 
   <xsl:if test="$debug='true'">
     <xsl:message>DBG: literoj: "<xsl:value-of select="$chiuj_literoj"/>"...</xsl:message>
@@ -89,7 +95,8 @@ class="net.sf.saxon.sort.CodepointCollator"/ -->
            select="number(substring(concat(../l[@name=current()/@minus]/@n,'1'),1,1))"/>     
 
         <xsl:call-template name="trd-litero">
-           <xsl:with-param name="trdoj" select="$trdoj/v[contains(current(),substring(t,1,$n)) 
+           <xsl:with-param name="trdoj" select="$trdoj/v[contains(current(),
+		substring(translate(t,$ignorendaj,''),1,$n)) 
              and not(contains($minus,substring(t,1,$nminus)))]"/>
            <xsl:with-param name="ordlng" select="$ordlng"/>
            <xsl:with-param name="lit-name" select="@name"/>
@@ -107,7 +114,8 @@ class="net.sf.saxon.sort.CodepointCollator"/ -->
 
         <xsl:call-template name="trd-litero">
            <xsl:with-param name="trdoj"
-              select="$trdoj/v[not(contains($chiuj_literoj,substring(t,1,1)))]"/>
+              select="$trdoj/v[not(contains($chiuj_literoj,
+		substring(translate(t,$ignorendaj,''),1,1)))]"/>
            <xsl:with-param name="ordlng" select="$ordlng"/>
            <xsl:with-param name="lit-name" select="'0'"/>
            <xsl:with-param name="lit-min" select="'?'"/>
@@ -140,7 +148,7 @@ class="net.sf.saxon.sort.CodepointCollator"/ -->
           <xsl:for-each 
              select="$kapoj/v[contains(current(),substring(translate(k,'-(',''),1,1))]">
  
-            <xsl:sort collation="eo" lang="eo" select="translate(k,'-( )','')"/>
+            <xsl:sort collation="http://saxon.sf.net/collation?class=de.steloj.respiro.EsperantoCollator" lang="eo" select="translate(k,'-( )','')"/>
             <xsl:call-template name="v"/>
           </xsl:for-each>
         </litero>
@@ -154,7 +162,7 @@ class="net.sf.saxon.sort.CodepointCollator"/ -->
         <xsl:for-each 
            select="$kapoj/v[not(contains($chiuj_literoj,substring(translate(k,'-(',''),1,1)))]">
  
-          <xsl:sort collation="eo" lang="eo" select="k"/>
+          <xsl:sort collation="http://saxon.sf.net/collation?class=de.steloj.respiro.EsperantoCollator" lang="eo" select="k"/>
           <xsl:call-template name="v"/>
         </xsl:for-each>
       </litero>
@@ -170,7 +178,7 @@ class="net.sf.saxon.sort.CodepointCollator"/ -->
           <xsl:for-each select="$kapoj/v[r and
              contains(current(),substring(r,1,1))]">
 
-            <xsl:sort collation="eo" lang="eo" select="r"/> 
+            <xsl:sort collation="http://saxon.sf.net/collation?class=de.steloj.respiro.EsperantoCollator" lang="eo" select="r"/> 
             <xsl:call-template name="v-inv"/>
           </xsl:for-each>
         </litero>
@@ -191,7 +199,7 @@ class="net.sf.saxon.sort.CodepointCollator"/ -->
   <fako fak="{@fak}" n="{@n}">
     <xsl:apply-templates select="tez[v]"/>
     <xsl:for-each select="v">
-      <xsl:sort collation="eo" lang="eo"/>
+      <xsl:sort collation="http://saxon.sf.net/collation?class=de.steloj.respiro.EsperantoCollator" lang="eo"/>
       <xsl:call-template name="v-fak"/>
     </xsl:for-each>
   </fako>
@@ -201,7 +209,7 @@ class="net.sf.saxon.sort.CodepointCollator"/ -->
 <xsl:template match="bld-oj">
   <bld-oj>
     <xsl:for-each select="v">
-      <xsl:sort collation="eo" lang="eo" select="k"/>
+      <xsl:sort collation="http://saxon.sf.net/collation?class=de.steloj.respiro.EsperantoCollator" lang="eo" select="k"/>
       <xsl:call-template name="v"/>
     </xsl:for-each>
   </bld-oj>
@@ -211,7 +219,7 @@ class="net.sf.saxon.sort.CodepointCollator"/ -->
 <xsl:template match="mlg-oj">
   <mlg-oj>
     <xsl:for-each select="v">
-      <xsl:sort collation="eo" lang="eo" select="t"/>
+      <xsl:sort collation="http://saxon.sf.net/collation?class=de.steloj.respiro.EsperantoCollator" lang="eo" select="t"/>
       <xsl:call-template name="v"/>
     </xsl:for-each>
   </mlg-oj>
@@ -221,7 +229,7 @@ class="net.sf.saxon.sort.CodepointCollator"/ -->
 <xsl:template match="tez">
   <tez>
     <xsl:for-each select="v">
-      <xsl:sort collation="eo" lang="eo"/>
+      <xsl:sort collation="http://saxon.sf.net/collation?class=de.steloj.respiro.EsperantoCollator" lang="eo"/>
       <xsl:call-template name="v"/>
     </xsl:for-each>
   </tez>

@@ -2,7 +2,7 @@
 		version="1.0">
 
 
-<!-- (c) 1999-2003 che Wolfram Diestel 
+<!-- (c) 1999-2018 che Wolfram Diestel 
      licenco GPL 2.0
 
 tie chi trovighas nur variabloj por agordo kaj la
@@ -11,14 +11,15 @@ transform-reguloj
 
 -->
 
+<xsl:import href="inc/inx_kodigo.inc"/>
 
-<xsl:import href="revo_trd.xsl"/>
-<xsl:import href="revo_fnt.xsl"/>
-<xsl:import href="revo_adm.xsl"/>
-<xsl:import href="revo_kap.xsl"/>
-<xsl:import href="revo_art2.xsl"/>
-<xsl:import href="revo_ref.xsl"/>
-<xsl:import href="revo_dif.xsl"/>
+<xsl:import href="inc/revo_trd.xsl"/>
+<xsl:import href="inc/revo_fnt.xsl"/>
+<xsl:import href="inc/revo_adm.xsl"/>
+<xsl:import href="inc/revo_kap.xsl"/>
+<xsl:import href="inc/revo_art2.xsl"/>
+<xsl:import href="inc/revo_ref.xsl"/>
+<xsl:import href="inc/revo_dif.xsl"/>
 
 <xsl:param name="xml-ref-pado"/>
 
@@ -33,11 +34,14 @@ transform-reguloj
 <xsl:variable name="xmldir">../xml</xsl:variable> 
 <xsl:variable name="cssdir">../stl</xsl:variable>
 <xsl:variable name="redcgi">/cgi-bin/vokomail.pl?art=</xsl:variable>
+<xsl:variable name="vivocgi">http://kono.be/cgi-bin/vivo/ViVo.cgi?tradukiReVon=</xsl:variable>
 <xsl:variable name="bibliografio">../cfg/bibliogr.xml</xsl:variable>
 <xsl:variable name="bibliogrhtml">../dok/bibliogr.html</xsl:variable>
 <xsl:variable name="revo">/home/revo/revo</xsl:variable>
-<xsl:variable name="lingvoj_cfg" select="'../cfg/lingvoj.xml'"/>
-<xsl:variable name="fakoj_cfg" select="'../cfg/fakoj.xml'"/>
+<xsl:variable name="lingvoj_cfg" select="'../../cfg/lingvoj.xml'"/>
+<xsl:variable name="klasoj_cfg" select="'../../cfg/klasoj.xml'"/>
+<xsl:variable name="fakoj_cfg" select="'../../cfg/fakoj.xml'"/>
+<xsl:variable name="permesoj_cfg" select="'../../cfg/permesoj.xml'"/>
 <xsl:variable name="arhhivo" select="'http://www.reta-vortaro.de/cgi-bin/historio.pl?art='"/>
 
 <!-- ilustrite por HTML kun grafikoj ktp.
@@ -53,13 +57,18 @@ transform-reguloj
 
 <!-- <xsl:message>ref: <xsl:value-of select="$ref"/> doc: <xsl:value-of select="$doc"/></xsl:message> --> 
 
-<xsl:if test="doc-available($doc)">
-  <sup><i>
-    <xsl:apply-templates mode="number-of-ref-snc"
-    select=
-      "document($doc,/)//node()[@mrk=$ref]"/>
-  </i></sup>
-</xsl:if>
+  <xsl:choose>
+    <xsl:when test="doc-available($doc)">
+      <sup><i>
+	<xsl:apply-templates mode="number-of-ref-snc"
+			   select=
+			   "document($doc,/)//node()[@mrk=$ref]"/>
+      </i></sup>
+    </xsl:when>
+    <xsl:otherwise>
+      <sup>&#x21b7;</sup>
+    </xsl:otherwise>
+  </xsl:choose>
 </xsl:template>
 
 

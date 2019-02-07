@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konstanten.xml,v 1.6 2015/02/26 19:11:54 revo Exp $">
+<art mrk="$Id: konstanten.xml,v 1.7 2018/07/28 13:10:14 revo Exp $">
 <kap>
   <rad>Konstanten</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -32,13 +32,18 @@
   </trdgrp>
   <trd lng="fr">Constantin</trd>
   <trd lng="it">Costantino</trd>
+  <trd lng="pl">Konstantyn</trd>
   <trd lng="pt">Constantino</trd>
+  <trd lng="ro">Constantin</trd>
   <trd lng="ru">&c_K;&c_o;&c_n;&c_s;&c_t;&c_a;&c_n;&c_t;&c_i;&c_n;</trd>
 </drv>
 </art>
 
 <!--
 $Log: konstanten.xml,v $
+Revision 1.7  2018/07/28 13:10:14  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.6  2015/02/26 19:11:54  revo
 Wolfram Diestel: lst antaunomoj
 

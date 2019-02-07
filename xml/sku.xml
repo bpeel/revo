@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sku.xml,v 1.26 2017/01/20 09:10:15 revo Exp $">
+<art mrk="$Id: sku.xml,v 1.27 2018/10/12 23:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sku</rad>/i <fnt><bib>PV</bib></fnt>
@@ -120,6 +120,13 @@
     <trd>pretrep&aacute;va&tcaron;</trd>,
     <trd>trepa&tcaron;</trd>,
     <trd>vytrep&aacute;va&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>sacudir</trd>,
+    <trd>abalar</trd>,
+    <trd>estremecer</trd>,
+    <trd>aluir</trd>,
+    <trd>sacolejar</trd>
   </trdgrp>
 </drv>
 
@@ -397,6 +404,9 @@
 </art>
 <!--
 $Log: sku.xml,v $
+Revision 1.27  2018/10/12 23:10:16  revo
+Evandro Avellar: +trd pt
+
 Revision 1.26  2017/01/20 09:10:15  revo
 Lyubomir Vasilev: +trd bg
 
@@ -416,8 +426,5 @@ Revision 1.21  2013/08/05 11:10:14  revo
 Joop Eggen: +trd bg
 
 Revision 1.20  2011/03/23 20:10:08  revo
-Jeromo Vasxe: + kk mrk
-
-Revision 1.19  2010/10/18 16:30:37  revo
 -->
 </vortaro>

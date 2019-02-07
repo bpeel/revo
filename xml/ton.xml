@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ton.xml,v 1.29 2017/10/19 19:10:15 revo Exp $">
+<art mrk="$Id: ton.xml,v 1.31 2018/07/10 10:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>ton</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -15,7 +15,8 @@
       havanta difinitan altecon:
       <ekz>
         li tamen a&ubreve;dis ankora&ubreve; la <tld/>ojn de orgeno
-        <fnt><bib>Fab1</bib>, <lok>galo&scirc;oj de feli&ccirc;o, 4</lok></fnt>;
+        <fnt><bib>Fab1</bib>, <lok>galo&scirc;oj de feli&ccirc;o,
+        4</lok></fnt>;
       </ekz>
       <ekz>
         tio estas nur du <tld/>oj, &ccirc;iam bum, bum
@@ -53,7 +54,8 @@
     <subsnc mrk="ton.0o.FON">
       <uzo tip="fak">FON</uzo>
       <dif>
-        Altigo, malaltigo a&ubreve; teno de vo&ccirc;-alteco dum parolado:
+        Altigo, malaltigo a&ubreve; teno de vo&ccirc;-alteco dum
+        parolado:
         <ekz>
           afabla, amika, kolera, kortu&scirc;a <tld/>o;
         </ekz>
@@ -65,7 +67,8 @@
           aristokrate<fnt>Z</fnt>;
         </ekz>
         <ekz>
-          de tiu momento la <tld/>o de nia interparolado iom dol&ccirc;i&gcirc;is
+          de tiu momento la <tld/>o de nia interparolado iom
+          dol&ccirc;i&gcirc;is
           <fnt><bib>Lanti</bib>, <lok>tri semajnoj en rusio, &ccirc;e la
           sidejo
           de Komintern</lok></fnt>;
@@ -91,7 +94,8 @@
       Nuanco de koloro:
       <ekz>
         &ccirc;irka&ubreve;e la montoj ricevis belegan verdan <tld/>on
-        <fnt><bib>Fab1</bib>, <lok>galo&scirc;oj de feli&ccirc;o</lok></fnt>.
+        <fnt><bib>Fab1</bib>, <lok>galo&scirc;oj de
+        feli&ccirc;o</lok></fnt>.
       </ekz>
     </dif>
     <trdgrp lng="hu">
@@ -112,6 +116,7 @@
   </trdgrp>
   <trd lng="de">Ton</trd>
   <trd lng="en">tone</trd>
+  <trd lng="es">tono</trd>
   <trdgrp lng="fr">
     <trd>ton</trd>
   </trdgrp>
@@ -126,7 +131,8 @@
   <kap>bon<tld/>o</kap>
   <snc mrk="ton.bon0o.MOR">
     <dif>
-      Eleganta <ref tip="super" cel="gxenti.0eco">&gcirc;entileco</ref> de
+      Eleganta <ref tip="super" cel="gxenti.0eco">&gcirc;entileco</ref>
+      de
       bonedukita homo:
       <ekz>
         nur en la &ccirc;efurbo ekzistas ja bon-<tld/>o
@@ -157,8 +163,10 @@
     <trd>boas <ind>maneiras</ind></trd>
   </trdgrp>
   <trdgrp lng="ru">
-    <trd>&c_h;&c_o;&c_r;&c_o;&c_sh;&c_i;&c_je; &c_m;&c_a;&c_n;&c_je;&c_r;&c_y;</trd>,
-    <trd>&c_b;&c_o;&c_n;&c_t;&c_o;&c_n; <klr>(&c_u;&c_s;&c_t;.)</klr></trd>
+    <trd>&c_h;&c_o;&c_r;&c_o;&c_sh;&c_i;&c_je;
+    &c_m;&c_a;&c_n;&c_je;&c_r;&c_y;</trd>,
+    <trd>&c_b;&c_o;&c_n;&c_t;&c_o;&c_n;
+    <klr>(&c_u;&c_s;&c_t;.)</klr></trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>bont&oacute;n</trd>,
@@ -207,7 +215,8 @@
           <aut>B. Ragnarsson</aut>,
           <vrk><url
           ref="http://www.liberafolio.org/2005/aperis/baldur11szilagyi">
-          Ferenc Szil&aacute;gyi: Novelisto kun du hejmlandoj</url></vrk>,
+          Ferenc Szil&aacute;gyi: Novelisto kun du
+          hejmlandoj</url></vrk>,
           <lok>libera folio, 2005</lok>
         </fnt>.
       </ekz>
@@ -224,7 +233,7 @@
   <kap>unu<tld/>a</kap>
   <snc mrk="ton.unu0a.aspekte">
     <dif>
-      &Ccirc;iam samsona, samkolora, samaspekta, ne sufi&ccirc;e varia,
+      &Ccirc;iam samsona, samkolora, samaspekta, ne varia,
       <ref tip="vid" cel="banal.0a">banala</ref>,
       <ref tip="vid" cel="griz.0a">griza</ref>,
       <ref tip="vid" cel="monoto.0a">monotona</ref>:
@@ -275,9 +284,39 @@
     <trd>monot&oacute;nny</trd>
   </trdgrp>
 </drv>
+
+<drv mrk="ton.unu0o">
+  <kap>unu<tld/>o,
+  <var><kap>unu<tld/>eco</kap></var></kap>
+  <snc mrk="ton.unu0o.KOMUNE">
+    <dif>
+      Karaktero de tio, kio havas nur unu <tld/>on,
+      unu koloron, da&ubreve;re saman aspekton:
+      <ekz>
+        en la tago de Lak&scirc;mi Pu&gcirc;a, grupoj da homoj iras dum multaj 
+        horoj de domo al domo, kantante <ctl>bhaijlo &ndash; bhaijlo</ctl>
+        kun &gcirc;oja unu<tld/>o
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://www.geocities.ws/jeneeya/esperanto/montejo/montejo8/landodefestivalo.htm">
+          Nepalo &ndash; La Lando de Festivaloj</url></vrk>,
+          <lok>Montejo, 2000:1</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">monotonie</trd>
+</drv>
 </art>
 <!--
 $Log: ton.xml,v $
+Revision 1.31  2018/07/10 10:10:18  revo
+Jeromo Vasxe: + unu~o
+
+Revision 1.30  2018/06/09 22:10:20  revo
+Dusan Juretic: +trd es
+
 Revision 1.29  2017/10/19 19:10:15  revo
 Jeromo Vasxe: kor mrk
 
@@ -294,11 +333,5 @@ Revision 1.25  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.24  2015/06/29 16:40:20  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.23  2014/12/17 00:11:36  revo
-Jeromo Vasxe: + dekdu~ismo
-
-Revision 1.22  2013/09/12 20:10:10  revo
 -->
 </vortaro>

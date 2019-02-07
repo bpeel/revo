@@ -2,9 +2,9 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pane.xml,v 1.20 2017/01/27 08:10:14 revo Exp $">
+<art mrk="$Id: pane.xml,v 1.22 2018/08/24 15:15:13 revo Exp $">
 <kap>
-  <ofc>8</ofc><rad>pane</rad>/o
+  <ofc>8</ofc><rad>pane</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="pane.0o">
   <kap><tld/>o</kap>
@@ -33,7 +33,7 @@
     <trd>&c_p;&c_o;&c_v;&c_r;&c_je;&c_d;&c_a;</trd>
   </trdgrp>
   <trd lng="ca">avaria</trd>
-  <trd lng="cs">p&rcaron;eru&scaron;en&iacute; plavby plachetnice pro bezv&#65533;&#8250;t&rcaron;&iacute;</trd>
+  <trd lng="cs">p&rcaron;eru&scaron;en&iacute; plavby plachetnice pro bezv&ecaron;t&rcaron;&iacute;</trd>
   <trd lng="de">Panne</trd>
   <trd lng="en">breakdown</trd>
   <trd lng="es">aver&iacute;a</trd>
@@ -115,6 +115,12 @@
 </art>
 <!--
 $Log: pane.xml,v $
+Revision 1.22  2018/08/24 15:15:13  revo
+kor. ecaron en la chehha
+
+Revision 1.21  2018/08/06 20:10:40  revo
+Michel Cantigneaux: aperas unue en PV (1934), oficiala en 8OA (1974)
+
 Revision 1.20  2017/01/27 08:10:14  revo
 Lyubomir Vasilev: +trd bg
 
@@ -134,8 +140,5 @@ Revision 1.15  2005/12/08 17:31:03  revo
 Jeromo Vasxe: + 1 ekz
 
 Revision 1.14 2005/04/29 16:32:34 revo
-Yury Finkel: +trd ru
-
-Revision 1.13 2005/04/18 16:32:47 revo
 -->
 </vortaro>

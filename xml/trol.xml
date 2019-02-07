@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trol.xml,v 1.11 2016/12/29 23:10:13 revo Exp $">
+<art mrk="$Id: trol.xml,v 1.12 2018/03/08 21:10:17 revo Exp $">
 <kap>
   <rad>trol</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -26,6 +26,15 @@
         </fnt>;
       </ekz>
       <ekz>
+        turbanornamitaj &gcirc;inoj, malgrandegaj koboldoj, trikapaj <tld/>oj, barbaj nanoj, 
+        lumineskantaj feoj, kaprokruraj fa&ubreve;noj <klr>[&#8230;]</klr> movis sin la&ubreve; la strato supren
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>Fantaziujo en Dan&gcirc;ero</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         la <tld/>o stari&gcirc;is kiel eble plej silente
         <fnt>
           <aut>T. Jansson, trad. S. Johansson</aut>,
@@ -46,8 +55,19 @@
         ne nutru la <tld/>on!
         <klr>(ne respondu al provokanto)</klr>
       </ekz>
+      <ekz>
+        ne &ccirc;iam klaras, kiu estas <tld/>o kaj kiu ne, &ccirc;ar temas pri subjektiva 
+        rigardado depende de la mesa&gcirc;o, la temo kaj la propra vidpunkto ene de &gcirc;i
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=266260">Interreta trolo</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
+  <rim>
+    &leftquot;<ref tip="hom" cel="trol1.0o">Trolo</ref>&rightquot; estas anka&ubreve; fi&scirc;reto.
+  </rim>
   <trd lng="bg">&c_t;&c_r;&c_o;&c_l;</trd>
   <trd lng="ca">trol</trd>
   <trd lng="cs">vle&ccaron;n&aacute; s&iacute;&tcaron;</trd>
@@ -93,6 +113,9 @@ g&lstroke;&oacute;wnie z&lstroke;y duch g&oacute;r)</klr></trd>
 
 <!--
 $Log: trol.xml,v $
+Revision 1.12  2018/03/08 21:10:17  revo
+Wolfram Diestel: +ekz, ref-hom
+
 Revision 1.11  2016/12/29 23:10:13  revo
 Jeromo Vasxe: + snc komp, + ~i
 
@@ -112,8 +135,5 @@ Revision 1.6  2009/08/08 16:34:58  revo
 Russ Williams: +trd en
 
 Revision 1.5  2009/07/06 16:30:35  revo
-Wieland Pusch: +trd bg+de
-
-Revision 1.4  2006/05/17 16:31:25  revo
 -->
 </vortaro>

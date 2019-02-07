@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: karism.xml,v 1.3 2015/07/04 08:37:37 revo Exp $">
+<art mrk="$Id: karism.xml,v 1.4 2019/01/11 23:10:18 revo Exp $">
 <kap>
   <rad>karism</rad>/o <fnt><bib>NeoGlo</bib></fnt>
 </kap>
@@ -44,12 +44,17 @@
   </snc>
   <trd lng="cs">charisma</trd>
   <trd lng="fr">charisme</trd>
+  <trd lng="pl">charyzma</trd>     
+  <trd lng="ro">charism&abreve;</trd>
   <trd lng="sk">charizma</trd>
 </drv>
 </art>
 
 <!--
 $Log: karism.xml,v $
+Revision 1.4  2019/01/11 23:10:18  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.3  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 

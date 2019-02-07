@@ -1,6 +1,12 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 version="1.0">
 
+<!--
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    version="2.0"
+    xpath-default-namespace="http://www.w3.org/1999/xhtml">
+
+-->
 
 <!-- (c) 2006 che Wolfram Diestel
      licenco GPL 2.0
@@ -37,7 +43,12 @@
   </xsl:copy> 
 </xsl:template>
 
-<xsl:template match="ekz"/>
+<!-- trovu ankau referencojn ene de ekzemploj, se tio estas tro kuragha,
+    eble limighu al nur tipo "lst", kie ghis estas bezonata,
+    vd. ekz. "franca"->"lingvoj" -->
+<xsl:template match="ekz">
+  <xsl:apply-templates select="ref"/>
+</xsl:template>
 
 <xsl:template match="rim">
   <xsl:apply-templates select="ref"/>
@@ -72,16 +83,24 @@
   </xsl:copy>
 </xsl:template>
 
-<xsl:template match="kap/ofc|kap/fnt|ekz/uzo|trd/ofc
+<xsl:template match="kap/fnt|ekz/uzo|trd/ofc
   |klr[not(@tip='ind' or @tip='amb')]"/>
 
 <xsl:template match="ekz/ind[mll]">
   <xsl:copy><xsl:apply-templates select="mll"/></xsl:copy>
 </xsl:template>
 
-<xsl:template match="kap|rad|var|@mrk|@lng|uzo[@tip='fak']|bld|mlg
+<xsl:template match="kap|rad|ofc|var|@mrk|@lng|uzo[@tip='fak']|mlg
   |ind|klr[@tip='ind' or @tip='amb']">
   <xsl:copy><xsl:apply-templates/></xsl:copy>
+</xsl:template>
+
+<xsl:template match="bld">
+  <xsl:copy><xsl:apply-templates select="text()|ind|klr|tld"/></xsl:copy>
+</xsl:template>
+
+<xsl:template match="uzo[@tip='stl']">
+  <stl><xsl:apply-templates/></stl>
 </xsl:template>
 
 <xsl:template match="tld">
@@ -99,7 +118,18 @@
 </xsl:template>
 
 <xsl:template match="ref">
-  <ref tip="{ancestor-or-self::*/@tip}" cel="{@cel}"/>
+  <ref tip="{ancestor-or-self::*/@tip}" cel="{@cel}">
+    <xsl:if test="@lst">
+      <xsl:attribute name="lst">
+        <xsl:value-of select="@lst"/>
+      </xsl:attribute>
+    </xsl:if>
+    <xsl:if test="@val">
+      <xsl:attribute name="val">
+        <xsl:value-of select="@val"/>
+      </xsl:attribute>
+    </xsl:if>
+  </ref>
 </xsl:template>
 
 <xsl:template match="tezrad">

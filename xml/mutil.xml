@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mutil.xml,v 1.4 2017/10/13 22:10:19 revo Exp $">
+<art mrk="$Id: mutil.xml,v 1.6 2018/10/04 14:10:18 revo Exp $">
 <kap>
   <rad>mutil</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -36,8 +36,10 @@
     <trd>zmrza&ccaron;it</trd>,
     <trd>znetvo&rcaron;it</trd>
   </trdgrp>
+  <trd lng="de">beschneiden</trd>
   <trd lng="en">mutilate</trd>
   <trd lng="es">mutilar</trd>
+  <trd lng="fa">&a_m;&a_th;&a_l;&a_h; &f_k;&a_r;&a_d;&a_n;</trd>
   <trd lng="fr">mutiler</trd>
   <trd lng="gl">mutilar</trd>
   <trd lng="nl">verminken</trd>
@@ -51,6 +53,12 @@
 
 <!--
 $Log: mutil.xml,v $
+Revision 1.6  2018/10/04 14:10:18  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.5  2018/05/27 12:10:13  revo
+Wolfram Diestel: +trd de
+
 Revision 1.4  2017/10/13 22:10:19  revo
 Robin van der Vliet: +dif, +trd
 

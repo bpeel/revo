@@ -23,6 +23,7 @@
 
 <!ENTITY url_mjb "http://pagesperso-orange.fr/kursoj1/revo">
 <!ENTITY url_wd "http://www.steloj.de/esperanto">
+<!ENTITY url_ade "http://www.akademio-de-esperanto.org">
 
 ]>
  
@@ -312,7 +313,7 @@
   </vrk>
 
   <vrk mll="EE">
-    <url>http://steloj.de/esperanto/esenco/</url>
+    <url>&url_wd;/esenco/</url>
     <aut><a>L. L.</a> <n>Zamenhof</n></aut>
     <tit>Esenco kaj Estonteco</tit>
   </vrk>
@@ -430,7 +431,7 @@
   </vrk>
 
   <vrk mll="F" tip="vortaro">
-    <url>http://www.steloj.de/esperanto/fundamento/index.html</url>
+    <url>&url_wd;/fundamento/index.html</url>
     <aut><a>L. L.</a> <n>Zamenhof</n></aut>
     <tit>Fundamento de Esperanto</tit>
     <eld>
@@ -440,7 +441,7 @@
   </vrk>
 
   <vrk mll="Fab1">
-    <url>http://www.steloj.de/esperanto/fabeloj1/</url>
+    <url>&url_wd;/fabeloj1/</url>
     <aut><a>H. C.</a> <n>Andersen</n></aut>
     <trd><a>L. L.</a> <n>Zamenhof</n></trd>
     <tit>Fabeloj, vol. 1</tit>
@@ -645,7 +646,7 @@
   </vrk>
 
   <vrk mll="Homaranismo">
-    <url>http://tekstaro.com/pl/prenitutantekston.pl?nomo=homaranismo-1913/</url> 
+    <url>&url_wd;/homaranismo/</url> 
     <aut><a>L. L.</a> <n>Zamenhof</n></aut>
     <tit>Homaranismo</tit>
     <eld>
@@ -1298,6 +1299,7 @@ M&uuml;nchhausen</tit>
   </vrk>
 
   <vrk mll="PatrojFiloj">
+    <url>http://miresperanto.com/biblioteko/patroj_kaj_filoj.htm</url>
     <aut><a>I. S.</a> <n>Turgenjev</n></aut>
     <trd><a>Kazimierz</a> <n>Bein</n></trd>
     <tit>Patroj kaj filoj</tit> 
@@ -1392,7 +1394,7 @@ M&uuml;nchhausen</tit>
   </vrk>
 
   <vrk mll="PrV">
-    <url>http://steloj.de/esperanto/proverb/</url>
+    <url>&url_wd;/proverb/</url>
     <aut><a>L. L.</a> <n>Zamenhof</n></aut>
     <aut><a>C.</a> <n>Rogister</n> ed.</aut>
     <tit>Proverbaro esperanta</tit>
@@ -1426,6 +1428,16 @@ M&uuml;nchhausen</tit>
     <aut><a>N. V.</a> <n>Gogol</n></aut>
     <trd><a>L. L.</a> <n>Zamenhof</n></trd>
     <tit>La Revizoro</tit>
+  </vrk>
+
+  <vrk mll="RLN">
+    <url>&url_ade;/decidoj/landnomoj/listo_de_rekomendataj_landnomoj/</url>
+    <tit>Listo de Rekomendataj Landnomoj</tit>
+    <ald>Oficialaj Informoj, n-ro 12</ald>
+    <eld>
+      <nom>Akademio de Esperanto</nom>
+      <dat>2009</dat>
+    </eld>
   </vrk>
 
   <vrk mll="RokPop" tip="termiaro">

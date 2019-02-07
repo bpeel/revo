@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: zepto.xml,v 1.4 2013/09/22 20:10:16 revo Exp $">
+<art mrk="$Id: zepto.xml,v 1.5 2018/08/13 20:10:18 revo Exp $">
 <kap>
     <rad>zepto</rad>/- <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -14,8 +14,16 @@
     <uzo tip="fak">FIZ</uzo>
     <dif>
       &leftquot;Triiliardono da&rightquot;, 10<sup>-21</sup>
-      en la Internacia Sistemo de unuoj (SI)
+      en la Internacia Sistemo de unuoj (SI):
+      <ekz>
+        zC &ndash; <tld/>kulombo (mil-triilion-ona kulombo)
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=52797">Vortoj por grandegaj nombroj</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <ref tip="vid" cel="zeta.0">zeta-</ref>
   </snc>
   <trd lng="be">&c_z;&c_je;&c_p;&c_t;&c_a;-</trd>
   <trd lng="bg">&c_s;&c_je;&c_p;&c_t;&c_o;-</trd>
@@ -38,6 +46,9 @@
 
 <!--
 $Log: zepto.xml,v $
+Revision 1.5  2018/08/13 20:10:18  revo
+Wolfram Diestel: +ekz, ref al zeta-
+
 Revision 1.4  2013/09/22 20:10:16  revo
 Wolfram Diestel: kor. mrk-on
 

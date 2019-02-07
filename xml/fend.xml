@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fend.xml,v 1.25 2017/07/24 09:10:11 revo Exp $">
+<art mrk="$Id: fend.xml,v 1.26 2018/08/24 15:15:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fend</rad>/i <fnt><bib>PV</bib></fnt>
@@ -96,7 +96,7 @@
     <trd>poltit</trd>,
     <trd>rozr&aacute;&zcaron;et</trd>,
     <trd>&scaron;t&iacute;pat <klr>(d&rcaron;evo)</klr></trd>,
-    <trd>&scaron;t&#65533;&#8250;pit</trd>
+    <trd>&scaron;t&ecaron;pit</trd>
   </trdgrp>
   <trd lng="en">split</trd>
   <trdgrp lng="es">
@@ -181,10 +181,10 @@
   </trdgrp>
   <trdgrp lng="cs">
     <trd>prasklina</trd>,
-    <trd>roz&scaron;t&#65533;&#8250;pen&iacute;</trd>,
+    <trd>roz&scaron;t&ecaron;pen&iacute;</trd>,
     <trd>sp&aacute;ra</trd>,
     <trd>&scaron;kv&iacute;ra</trd>,
-    <trd>&scaron;t&#65533;&#8250;rbina</trd>
+    <trd>&scaron;t&ecaron;rbina</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Spalt</trd>,
@@ -263,7 +263,7 @@
   <trdgrp lng="cs">
     <trd>prasklina</trd>,
     <trd>skulina</trd>,
-    <trd>&scaron;t&#65533;&#8250;rbina</trd>
+    <trd>&scaron;t&ecaron;rbina</trd>
   </trdgrp>
   <trd lng="es">fisura</trd>
   <trd lng="fr">fissure</trd>
@@ -340,6 +340,9 @@
 </art>
 <!--
 $Log: fend.xml,v $
+Revision 1.26  2018/08/24 15:15:13  revo
+kor. ecaron en la chehha
+
 Revision 1.25  2017/07/24 09:10:11  revo
 Sebastian Cyprych: +trd pl
 

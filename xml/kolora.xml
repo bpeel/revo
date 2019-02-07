@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kolora.xml,v 1.16 2015/12/01 06:10:19 revo Exp $">
+<art mrk="$Id: kolora.xml,v 1.17 2018/10/04 19:10:14 revo Exp $">
 <kap>
   <rad>koloratur</rad>/o
   <fnt>Z</fnt>
@@ -13,7 +13,23 @@
   <uzo tip="fak">MUZ</uzo>
   <snc>
     <dif>
-      Artista la&ubreve;vola ornamado de la kanto per triloj.  
+      Artista la&ubreve;vola <ref tip="super" cel="ornam.0ado">ornamado</ref>
+      de la kanto per triloj:
+      <ekz>
+        <tld/>oj estas melismaj, do havas plurajn tonoj sur unu tekstosilabo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=257935">Koloraturo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>soprano oni nomas en la klasika muziko sopranvo&ccirc;on kun <tld/>o-kapablo,
+        t.e. speciala movebleco anta&ubreve; &ccirc;io en la alta registro
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=141916">Koloratursoprano</url></lok>
+        </fnt>.
+      </ekz> 
     </dif>
   </snc>
   <adm>
@@ -41,6 +57,9 @@
 </art>
 <!--
 $Log: kolora.xml,v $
+Revision 1.17  2018/10/04 19:10:14  revo
+Wolfram Diestel: +ekz-oj
+
 Revision 1.16  2015/12/01 06:10:19  revo
 Sebastian Cyprych: +trd pl
 
@@ -60,8 +79,5 @@ Revision 1.11  2007/07/23 16:30:38  revo
 Wieland Pusch: +trd de
 
 Revision 1.10  2007/02/07 17:30:29  revo
-Tulio Flores: +tr pt
-
-Revision 1.9  2005/04/05 16:35:29  revo
 -->
 </vortaro>

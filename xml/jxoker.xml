@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: jxoker.xml,v 1.14 2012/08/02 09:10:35 revo Exp $">
+<art mrk="$Id: jxoker.xml,v 1.16 2018/09/23 09:10:15 revo Exp $">
 <kap>
   <rad>&jcirc;oker</rad>/o
 </kap>
@@ -12,9 +12,23 @@
   <snc mrk="jxoker.0o.karto">
     <uzo tip="fak">SPO</uzo>
     <dif>
-      Kroma ludkarto senemblema a&ubreve; kun speciala emblemo, kiu en
-      kelkaj kartludoj
-      povas anstata&ubreve;i iun ajn ludkarton la&ubreve;vole.
+      Kroma ludkarto senemblema a&ubreve; kun speciala emblemo, ofte de
+      <ref tip="vid" cel="bufon.0o">bufono</ref>,
+      kiu en kelkaj kartludoj povas anstata&ubreve;i iun ajn ludkarton la&ubreve;vole:
+      <ekz>
+        54 kartoj kun du <tld/>oj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=18151">Pokera terminaro</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        trefa fanto, karoa damo, kera re&gcirc;o, pika aso, <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=10932">Kartludo</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="as.0o.SPO">aso</ref>,
@@ -29,6 +43,7 @@
     </trdgrp>
     <trd lng="de">Joker</trd>
     <trd lng="en">joker</trd>
+    <trd lng="fa">&f_zh;&a_w;&f_k;&a_r;</trd>
     <trd lng="fr">joker<klr tip="ind"> (carte)</klr></trd>
     <trd lng="hu">dzs&oacute;ker</trd>
     <trdgrp lng="pl">
@@ -41,7 +56,14 @@
     <uzo tip="fak">KOMP</uzo>
     <dif>
       Elemento de &scirc;ablono, kongrua kun ajna datumano de koncerna
-      tipo &#8208; ekz-e la steleto en dosiernomaj &scirc;ablonoj.
+      tipo &dash; ekz-e la steleto en dosiernomaj &scirc;ablonoj:
+      <ekz>
+        eblas ser&ccirc;i per <tld/>signoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=334511">Akademia Vortaro</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="ca">(car&agrave;cter) comod&iacute;</trd>
     <trdgrp lng="de">
@@ -51,6 +73,10 @@
     <trdgrp lng="en">
       <trd>wildcard character</trd>,
       <trd>match-all pattern</trd>
+    </trdgrp>
+    <trdgrp lng="fa">
+      <trd>&a_n;&a_w;&f_y;&a_s;&a_h;&a_hamza_sure; &a_j;&a_A;&a_n;&a_sh;&f_y;&a_n;</trd>,
+      <trd>&a_f;&a_r;&a_A;&a_n;&a_w;&f_y;&a_s;&a_h;</trd>
     </trdgrp>
     <trd lng="fr">joker<klr tip="ind"> (info.)</klr></trd>
     <trdgrp lng="hu">
@@ -77,6 +103,12 @@
 </art>
 <!--
 $Log: jxoker.xml,v $
+Revision 1.16  2018/09/23 09:10:15  revo
+Wolfram Diestel: +ekz-oj, ref bufono
+
+Revision 1.15  2018/09/22 20:10:25  revo
+Behnam Tabatabai: +trd fa
+
 Revision 1.14  2012/08/02 09:10:35  revo
 Marc Rausell: + trd ca
 
@@ -93,11 +125,5 @@ Revision 1.10  2004/10/11 16:33:06  revo
 Marc Bavant: +uzo SPO, +trd fr
 
 Revision 1.9 2004/02/25 17:31:07 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8 2003/01/02 17:43:03 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.7 2002/10/26 16:31:38 revo
 -->
 </vortaro>

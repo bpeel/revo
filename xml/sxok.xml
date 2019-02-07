@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxok.xml,v 1.18 2013/11/24 02:10:20 revo Exp $">
+<art mrk="$Id: sxok.xml,v 1.19 2018/08/07 22:10:15 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>&scirc;ok</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -71,7 +71,7 @@
 </drv>
 
 <drv mrk="sxok.0o">
-  <kap><tld/>o</kap>
+  <kap><ofc>9</ofc> <tld/>o <fnt><bib>PIV1</bib></fnt> </kap>
   <snc mrk="sxok.0o.KOMUNE">
     <dif>
       Ago <tld/>i kaj ties rezulto.
@@ -148,6 +148,9 @@
 </art>
 <!--
 $Log: sxok.xml,v $
+Revision 1.19  2018/08/07 22:10:15  revo
+Michel Cantigneaux: aperas unue en PV (1934) k PIV1 (1970), oficialaj en 9OA (2007)
+
 Revision 1.18  2013/11/24 02:10:20  revo
 Jeromo Vasxe: reord. drv, snc/subsnc, kelkaj kor
 
@@ -166,9 +169,6 @@ Russ Williams: +trd en 9OA
 
 Revision 1.13  2007/05/13 16:30:36  revo
 Jeromo Vasxe: + ~a
-
-Revision 1.12  2002/10/24 16:32:31  revo
-Jozefo Horvath: +trd hu
 
 -->
 </vortaro>

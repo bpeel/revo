@@ -2,38 +2,210 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sistem.xml,v 1.36 2017/12/17 19:10:36 revo Exp $">
+<art mrk="$Id: sistem.xml,v 1.41 2018/06/09 17:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
-  <rad>sistem</rad>/o <fnt><bib>PV</bib></fnt>
+  <rad>sistem</rad>/o 
 </kap>
 
 <drv mrk="sistem.0o">
-  <kap><ofc>*</ofc><tld/>o <fnt><bib>F</bib>, <lok>&FE;
-  3</lok></fnt></kap>
-  <snc mrk="sistem.0o.SCI">
+  <kap><ofc>*</ofc><tld/>o 
+     <fnt><bib>F</bib>, <lok>&FE; 3</lok></fnt></kap>
+  <snc mrk="sistem.0o.tuto">
     <dif>
       Harmonia tuto da interdependaj a&jcirc;oj kunordigitaj la&ubreve;
       malmultaj fiksitaj principoj:
       <ekz>
-        ni analizos <tld/>e la demandojn<fnt>Z</fnt>;
-      </ekz><ekz>
-        pro <tld/>eco de mia analizo<fnt>Z</fnt>.
+        konstruita en la stilo &hcirc;aldea <klr>[&gcirc;i]</klr> tute diferencis de la egiptaj temploj
+        <klr>[&#8230;]</klr> per la <tld/>o de l' eta&gcirc;oj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[lingvo estas]</klr> <tld/>o da sonoj por la esprimado de pensoj
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        internacia mon<tld/>o, hor<tld/>o
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto 1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o monata
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la muzika nota <tld/>o
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o &ccirc;ifrada
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        planeda <tld/>o
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nia sun<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Boris Kolker</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007158.html">Astronomio por &ccirc;iuj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>oj naturkuracaj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <subsnc mrk="sistem.0o.SCI">
+      <uzo tip="fak">SCI</uzo>
+      <dif>
+        La&ubreve;principa ordigo de objektoj a&ubreve; fenomenoj; <ref tip="sub" cel="klasif.0o">klasifiko</ref>:
+        <ekz>
+          profesoro de botaniko <klr>[&#8230;]</klr> pririgardis la kreska&jcirc;on, gustumis &gcirc;in,
+          sed <klr>[&#8230;]</klr> li neniel povis trovi, al kiu klaso &gcirc;i apartenas &dash;
+          &leftquot;tio estas varia&jcirc;o&rightquot; &dash; li diris, &leftquot;mi &gcirc;in ne konas, &gcirc;i ne estas registrita en la sistemo!&rightquot;
+          <fnt>
+            <bib>Fab3</bib>
+            <lok>Folio el la &ccirc;ielo</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          li studadis la <tld/>on de sufiksoj kaj prefiksoj en diversaj lingvoj
+          <fnt>
+            <bib>VivZam</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la metra <tld/>o
+          <fnt>
+            <bib>Monato</bib>
+            <vrk><url ref="http://steloj.de/esperanto/monato2/006852.html">Reago: &Ccirc;u vere kristana erao?</url></vrk>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="sistem.0o.TEK">
+      <uzo tip="fak">TEK</uzo>
+      <dif>
+        Aparato, ma&scirc;ino a&ubreve; alispeca aran&gcirc;o de te&hcirc;nikaj elementoj plenumanta planitan funkcion:
+        <ekz>
+          la prezoj de la komputiloj kaj de la tradukaj <tld/>oj malplialti&gcirc;is
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Marc Vanden Bempt</aut>
+          </fnt>;
+        </ekz>
+        <ekz>
+          ekspluatado de novaj minejoj <klr>[&#8230;]</klr> per nova <tld/>o de tuboretoj, 
+          ver&scirc;ante akvofluetojn la&ubreve;longe de la rokoj por forporti la argilan sablon
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Robert Roze</aut>
+            <vrk><url ref="http://steloj.de/esperanto/monato2/006945.html">Francio: 
+            Flagrantaj koloroj</url></vrk>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="sistem.0o.POL">
+      <uzo tip="fak">POL</uzo>
+      <dif>
+         Regularo la&ubreve; kiu funkcias organizo, &scirc;tataj institucioj:
+        <ekz>
+          politikistoj kulpigas la edukan <tld/>on kaj &leftquot;malbonajn&rightquot; instruistojn pri la angla
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Hori Jasuo</aut>
+            <vrk><url ref="http://steloj.de/esperanto/monato2/006939.html">Kara angoro ...</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          inflaciego malri&ccirc;igis la popolon kaj la politika <tld/>o estis nestabila
+          <fnt>
+            <bib>Monato</bib>
+            <vrk><url ref="http://steloj.de/esperanto/monato2/006885.html">Naziaj kruela&jcirc;oj</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          reformi la ju&gcirc;<tld/>on kaj &scirc;an&gcirc;i la konstitucion
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Paul Gubbins</aut>
+            <vrk><url ref="http://steloj.de/esperanto/monato2/006910.html">Post morto &dash; nova sorto</url></vrk>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
     <subsnc mrk="sistem.0o.FIL">
-      <ref tip="dif" cel="doktri.0o">doktrino</ref>
-      <ekz>
-        la <tld/>o de Platono;
-      </ekz><ekz>
-        dis&scirc;iri tiun aranea&jcirc;on da <tld/>oj<fnt>Z</fnt>.
-      </ekz>
+      <dif><ref tip="dif" cel="doktri.0o">Doktrino</ref>:
+        <ekz>
+          la <tld/>o de Platono;
+        </ekz>
+        <ekz>
+          la plej diversaj religioj kaj filozofiaj <tld/>oj
+          <fnt>
+            <bib>Homaranismo</bib>
+            <vrk>Dogmoj de Hilelismo</vrk>
+          </fnt>.
+        </ekz>
+      </dif>
     </subsnc>
     <subsnc mrk="sistem.0o.FIZL">
       <uzo tip="fak">FIZL</uzo>
       <dif>
         <ref tip="vid" cel="organ.0aro">Organaro</ref> a&ubreve; tuto de
-        korpaj elementoj kun komunaj funkcioj.
+        korpaj elementoj kun komunaj funkcioj:
+        <ekz>
+          la digesta <tld/>o
+          <fnt>
+            <bib>Monato</bib>
+            <aut>last</aut>
+            <vrk><url ref="http://www.monato.net/2010/010185.php">Malbonan apetiton</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la osta kaj nerva <tld/>oj
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Vladimir Lemelev</aut>
+            <vrk><url ref="http://www.monato.net/2007/008991.php">La &ccirc;efaj murdistoj de HIV-infektitoj</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la <tld/>oj kardiovaskula (korangia), nerva <klr>[&#8230;]</klr>
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Vladimir Lemelev</aut>
+            <vrk><url ref="http://www.monato.net/2012/010767.php">Elimino atingeblas</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la virusoj restas dumvive en la ganglioj de la nerva sistemo
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Vladimir Lemelev</aut>
+            <vrk><url ref="http://www.monato.net/2007/008991.php">La &ccirc;efaj murdistoj de HIV-infektitoj</url></vrk>
+          </fnt>.
+        </ekz>
       </dif>
     </subsnc>
     <refgrp tip="vid">
@@ -41,12 +213,43 @@
       <ref cel="organ.0aro">organaro </ref>
     </refgrp>
   </snc>
-  <snc>
+  <snc mrk="sistem.0o.plano">
     <dif>
       Anta&ubreve;e pripensita plano a&ubreve; direktanta ideo, la&ubreve;
       kiu oni konstante agas por trafi difinitan celon:
       <ekz>
-        mi ekprovis <tld/>e venki &ccirc;iujn barojn<fnt>Z</fnt>
+        vivi per <tld/>o de el mano al bu&scirc;o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tiamaj pastroj trovis <tld/>on gvidi sian popolon same avangardan kaj
+        konvinkan kiel, nuntempe, televidaj elsendoj kun brilaj statistikoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Boris Kolker</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/006820.html">Plia
+            libro biblia</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        donacoj estis grava parto de lia <tld/>o, kies esencon oni povas priskribi tiel: 
+        kio estis bona por <nom>Kohl</nom>, estis bona por la partio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/006835.html">Germanio:
+          Pekoj de patriarko</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la registaro promesis &scirc;an&gcirc;i la <tld/>on, la&ubreve; kiu kuracistoj atestas mortojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/006872.html">Britio: Doktoro Morto</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -66,32 +269,114 @@
     <trd lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;
       &c_u;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_j;</trd>
   </snc>
-<trd lng="be">&c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_a;</trd>
-<trd lng="bg">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
-<trdgrp lng="cs">
-<trd>soustava</trd>,
-<trd>syst&eacute;m</trd>
-</trdgrp>
-<trd lng="de">System</trd>
-<trd lng="en">system</trd>
-<trd lng="es">sistema</trd>
-<trd lng="fr">syst&egrave;me</trd>
-<trdgrp lng="hu">
+  <trd lng="be">&c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_a;</trd>
+  <trd lng="bg">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>soustava</trd>,
+    <trd>syst&eacute;m</trd>
+  </trdgrp>
+  <trd lng="de">System</trd>
+  <trd lng="en">system</trd>
+  <trd lng="es">sistema</trd>
+  <trd lng="fr">syst&egrave;me</trd>
+  <trdgrp lng="hu">
     <trd>rendszer</trd>,
     <trd>sziszt&eacute;ma</trd>
   </trdgrp>
-<trd lng="id">sistem</trd>
-<trdgrp lng="nl">
+  <trd lng="id">sistem</trd>
+  <trdgrp lng="nl">
     <trd>systeem</trd>,
     <trd>stelsel</trd>
   </trdgrp>
-<trd lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
-<trdgrp lng="sk">
-<trd>syst&eacute;m</trd>,
-<trd>s&uacute;stava</trd>,
-<trd>zriadenie</trd>
-</trdgrp>
-<trd lng="sv">system</trd>
+  <trd lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>syst&eacute;m</trd>,
+    <trd>s&uacute;stava</trd>,
+    <trd>zriadenie</trd>
+  </trdgrp>
+  <trd lng="sv">system</trd>
+</drv>
+
+<drv mrk="sistem.0e">
+  <kap>
+    <tld/>e
+  </kap>
+  <snc>
+    <dif>
+      Metode, agante la&ubreve; plano, la&ubreve; sistemo<sncref ref="sistem.0o.plano"/>
+      por atingi celon:
+      <ekz>
+        mi ekprovis <tld/>e venki &ccirc;iujn barojn
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni analizos <tld/>e la sekvantajn demandojn
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz><ekz>
+        pro <tld/>eco de mia analizo
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pruvi ilian <tld/>ecan mensogadon kaj trompemon
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/006947.html">Reago:
+          Eks-Jugoslavio: kiu kiun mistifikas?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en iuj landoj oni jam sisteme trejnas soldatojn por &leftquot;inform-militado&rightquot;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007289.html">Militado sen bataliloj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">systematisch</trd>
+</drv>
+
+<drv mrk="sistem.0estro">
+  <kap>
+    <tld/>estro
+  </kap>
+  <snc>
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Administranto de mastrum<tld/>o:
+      <ekz>
+        mi estas 27-jara kaj mi laboras kiel <tld/>estro 
+        <fnt>
+          <vrk><url ref="https://forum.unilang.org/viewtopic.php?t=2787&amp;start=40">Esperanto - Amikeco</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en uniksaj operaciumoj ofte necesas privilegioj de <tld/>estro por malprepari aparaton
+        <fnt>
+          <vrk><url ref="https://hu.glosbe.com/eo/hu/necesa">Necesa Magyar, 
+          ford&iacute;t&aacute;s, Eszperant&oacute;-Magyar Sz&oacute;t&aacute;r - Glosbe</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        KVM-komutilo estas flankaparato por komuti multajn 
+        komputilojn al unu muso, unu klavaro kaj unu ekrano
+        <klr>[&#8230;]</klr> tiamaniere <tld/>estro povas ruli diversajn
+        komputilojn sen rekomuto de stirorganoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=206460">KVM (aparata&jcirc;o)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Sytemadministrator</trd>
 </drv>
 
 <drv mrk="sistem.sub0o">
@@ -108,6 +393,34 @@
           <vrk>Kio estas Javo?</vrk>,
           <bib>Monato</bib>,
           <lok>1998:5, p. 13a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        faklingvo estas sub<tld/>o a&ubreve; parto de natura lingvo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=24358">Faklingvo</url></lok>
+        </fnt>;
+      </ekz>
+     <ekz>
+        <tld/>o kiu havis lambda-kalkulon kiel konsekvenca sub<tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=607208">Haskell Curry</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        procesoro <klr>[&#8230;]</klr> estas sub<tld/>o de datum-prilabora <tld/>o, centra unuo de la komputilo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=38096">Procesoro</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en komputado protokolo estas a&ubreve;tomate generata raporto pri la aktivado de komputila <tld/>o a&ubreve; sub<tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=36469">Protokolo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -119,6 +432,52 @@
   <trd lng="ru">&c_p;&c_o;&c_d;&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
 </drv>
 
+<drv mrk="sistem.centranervo0o">
+  <kap>centra nervo<tld/>o</kap>
+  <snc mrk="sistem.centranervo0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Centra parto de organizita
+      <ref tip="malprt" cel="sistem.nervo0o.FIZL">nervo<tld/>o</ref>
+      konsistanta el la
+      <ref tip="prt" cel="cerb.0o.ANA">cerbo</ref> kaj la
+      <ref tip="prt" cel="mjel.0o.ANA">mjelo</ref>, kiu
+      kunordigas la grandajn nervarajn funkciojn:
+      <ekz>
+        kokaino estas kristala alkaloido eltirita
+        el la folioj de la kokao-planto; kiam oni
+        konsumas &gcirc;in, &gcirc;i stimulas la centran nervo<tld/>on
+        <fnt>
+          <aut>[A. Oberndorfer]</aut>,
+          <vrk><url ref="http://esperantaretradio.blogspot.fr/2014/02/la-drogo-kiu-mortigas-la-emociojn.html">
+          La drogo kiu mortigas la emociojn</url></vrk>,
+          <lok>Esperanta Retradio, 2014-02-11</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        striaj muskoloj (skeletaj muskoloj) aktivi&gcirc;as vole per la centra nerva <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=22095">Muskolo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        apopleksio estas supernocio de diversaj malsanoj, kies komuna trajto 
+        estas subita perturbo de la sangocirkulado en la centra nervo<tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=51997">Apopleksio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Zentralnervensystem</trd>,
+      <trd>ZNS</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="fr">syst&egrave;me nerveux central</trd>
+</drv>
+
 <drv mrk="sistem.digesto0o">
   <kap>digesto<tld/>o</kap>
   <snc mrk="sistem.digesto0o.FIZL">
@@ -126,18 +485,27 @@
     <dif>
       Organaro kiu digestas la man&gcirc;a&jcirc;ojn: stomako, intestoj...:
       <ekz>
-        en Duszniki eblas kuraci kormalsanojn kaj ginekologiajn 
+        en <nom>Duszniki</nom> eblas kuraci kormalsanojn kaj ginekologiajn 
         problemojn, malsanojn de la spir- kaj digesto<tld/>oj kaj 
         anka&ubreve; ostoporozon
         <fnt>
           <aut>B. Pietrzak</aut>,
-          <vrk><url
-              ref="http://www.polskieradio.pl/zagranica/pl/news/artykul11438.html">
+          <vrk><url ref="http://www.polskieradio.pl/zagranica/pl/news/artykul11438.html">
               Vizitu Pollandon - K&lstroke;odzko-regiono</url></vrk>,
           <lok>Pola Radio, 2004-06-08</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la digesto<tld/>o de sova&gcirc;a leopardo evoluis, spertante iom putrajn
+        bestokadavrojn, kaj ne &ccirc;iu parto de morta besto estas egale nutra por sova&gcirc;a leopardo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="http://www.monato.net/2007/009210.php">La mondo la&ubreve; la vidpunkto de leopardo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de">Verdauungssystem</trd>
   </snc>
   <trdgrp lng="fr">
     <trd>appareil digestif</trd>,
@@ -159,13 +527,30 @@
       Tuto de la lernejoj, programoj, administroj pri edukado:
       <ekz>
         la pli multaj italoj povas paroli kaj kompreni la italan,
-        pro la
-        influo de la komunikiloj, la eduk<tld/>o
+        pro la influo de la komunikiloj, la eduk<tld/>o
         <fnt>
           <aut>B. Kendal</aut>,
           <vrk>La itala</vrk>,
           <bib>Monato</bib>,
           <lok>2002:8, p. 17a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        el 580&nbsp;000 instruistoj laborantaj en la pola eduk<tld/>o nur 
+        &ccirc;irka&ubreve; 30&nbsp;000 estas lektoroj de fremdaj lingvoj
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007193.html">Pollando: 
+          Instruisto de la angla ser&ccirc;ata</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malbona eduk<tld/>o do rekte kontribuas al tragedioj en la sansektoro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>A. Giridhar Rao</aut>
+          <vrk><url ref="http://www.monato.net/2008/009532.php">La barata 
+          ekonomio: miraklo neefika</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -193,8 +578,8 @@
       Organaro dedi&ccirc;ita al la generado de novaj
       vivuloj:
       <ekz>
-        persistaj organikaj malpura&jcirc;oj <klr>...</klr>
-        provokas malordon en funkciado de reprodukta <tld/>o,
+        persistaj organikaj malpura&jcirc;oj <klr>[&#8230;]</klr>
+        provokas malordon en funkciado de reprodukta <tld/>o
         <fnt>
           <aut>V. Lapskij, trad. niskt</aut>,
           <vrk>En Jugoslavio Iras Kemia Milito</vrk>,
@@ -202,12 +587,12 @@
         </fnt>;        
       </ekz><ekz>
         mi kredas ke vivkondi&ccirc;oj, &ccirc;ar ili efikas sur la genera
-        <tld/>o,
-        estas plej gravaj ka&ubreve;zoj de variemo
+        <tld/>o, estas plej gravaj ka&ubreve;zoj de variemo
         <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro
         1a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de">Reproduktionsapparat</trd>
   </snc>
   <trdgrp lng="fr">
     <trd>appareil reproducteur</trd>,
@@ -218,11 +603,29 @@
 </drv>
 
 <drv mrk="sistem.impost0o">
-  <kap>impost<tld/>o</kap>
+  <kap>impost<tld/>o,
+    <var><kap>imposta <tld/>o</kap></var>
+  </kap>
   <snc mrk="sistem.impost0o.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Le&gcirc;aro kaj administraj aran&gcirc;oj pri impostoj.
+      Le&gcirc;aro kaj administraj aran&gcirc;oj pri impostoj:
+      <ekz>
+        la &ccirc;efa ero de ekonomia politiko, la impost<tld/>o, pli emas disi&gcirc;i ol kuni&gcirc;i
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007184.html">Petrolo: Nehaltigeblaj prezalti&gcirc;oj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;efa temo diskutita estis kian impostan <tld/>on devas elekti la registaro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gerard Escuer</aut>
+          <vrk><url ref="http://www.monato.net/2005/008697.php">Andoro ne estas Monako</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="de">Steuersystem</trd>
@@ -245,9 +648,7 @@
       malsanigaj fremda&jcirc;oj:
       <ekz>
         okaze de limigita funkciado de la <tld/>sistemo
-        <klr>...</klr>
-        ne
-        kreskas signife la ofteco de la tumoroj
+        <klr>[&#8230;]</klr> ne kreskas signife la ofteco de la tumoroj
         <fnt>
           <vrk><url ref="http://culevit.hu/doc120/">La pasiva
           antitumora
@@ -269,6 +670,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">Immunsystem</trd>
   <trd lng="fr">syst&egrave;me immunitaire</trd>
   <trdgrp lng="id">
     <trd><ind>sistem</ind> imun</trd>,
@@ -296,6 +698,23 @@
       </ekz>
     </dif>
   </snc>
+  <snc mrk="sistem.komunik0o.lingvo">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+       Lingvo:
+      <ekz>
+        komunik<tld/>o por homoj kun kognitivaj handikapoj a&ubreve; aliaj komunikadaj
+        malfacila&jcirc;oj, nomata <nom>Makaton</nom>, estis originale ellaborita uzante signojn
+        pruntitajn de la brita signa lingvo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=199332">Brita signolingvo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Sprache</trd>
+  </snc>
+  <trd lng="de">Kommunikationssystem</trd>
   <trd lng="fr">syst&egrave;me de communication</trd>
   <trd lng="hu">kommunik&aacute;ci&oacute;s <ind>rendszer</ind></trd>
   <trd lng="id"><ind>sistem</ind> komunikasi</trd>
@@ -312,7 +731,15 @@
       vastasence anka&ubreve; rilataj organoj kaj histoj, kiaj
       lieno, timuso, medolo...:
       <ekz>
-        uzante la herbajn kandelojn oni <klr>...</klr> aktivigus la 
+        antisepsa&jcirc;oj estas &gcirc;enerale distingitaj de antibiotikoj per la posta
+        kapablo esti transportitaj tra la limfo<tld/>o por detrui bakteriojn ene de la korpo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=586541">Antisepso</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        uzante la herbajn kandelojn oni <klr>[&#8230;]</klr> aktivigus la 
         limfo<tld/>on
         <fnt>
           <bib>Viki</bib>,
@@ -322,9 +749,52 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">Lymphsystem</trd>
   <trd lng="fr">syst&egrave;me lymphatique</trd>
   <trd lng="id"><ind>sistem</ind> limfatik</trd>
   <trd lng="ru">&c_l;&c_i;&c_m;&c_f;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja; &c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
+</drv>
+
+<drv mrk="sistem.mastrum0o">
+  <kap>
+    mastrum<tld/>o,
+    <var><kap>mastruma <tld/>o</kap></var>
+  </kap>
+  <snc>
+    <dif>
+       <ref tip="dif" cel="operac.0umo">Operaciumo</ref>:
+      <ekz>
+        Unikso, kiel aliaj mastrumaj <tld/>oj, havas sian propran kulturon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Edmund Grimley Evans</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/006801.html">Interreto:
+         Uniksulo ekspertas Unikodon</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Linukso uzeblus de iu krom de privataj entuziasmuloj kaj iugrade en servila
+        medio, nun &gcirc;i estas establita kiel servila mastrum<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2004/007797.html">Mikrosofto
+         ektimas Linukson</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la programoj]</klr> funkciis per la tiam plej ofte uzata
+        mastruma <tld/>o, DOS, la anta&ubreve;ulo de Vindozo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="http://www.monato.net/2005/008660.php">De triopa
+          monopolo al mikrosofta monopolo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Betriebssytem</trd>
 </drv>
 
 <drv mrk="sistem.mezur0o">
@@ -334,17 +804,35 @@
     <dif>
       Tuto da mezurunuoj kaj ties uzmanieroj:
       <ekz>
-        plimultaj homoj nombras la&ubreve; dekuma bazo, sed plimultaj 
+        en mezur<tld/>o SI unuo de rezistanco estas omo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=45028">Elektra rezistanco</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pli<klr>[ ]</klr>multaj homoj nombras la&ubreve; dekuma bazo, sed pli<klr>[ ]</klr>multaj 
         mezur<tld/>oj evoluis la&ubreve; bazo dek du
         <fnt>
           <aut>Astura Esperanto-Asocio</aut>,
-          <vrk><url
-          ref="http://carleos.epv.uniovi.es/~esperanto/zen/">
+          <vrk><url ref="http://carleos.epv.uniovi.es/~esperanto/zen/">
               Dozenuma (dekduuma) Esperanto-Societo</url></vrk>,
           <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la internacia mejlo <klr>[&#8230;]</klr> egalas <klr>[&#8230;]</klr> 1609,344 
+        metrojn, &gcirc;iaj radikoj estas en la Brita mezur<tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=19424">Mejlo</url></lok>
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd>Ma&szlig;system</trd>,
+      <trd>Einheitensystem</trd>
+    </trdgrp>
   </snc>
   <trd lng="fr">syst&egrave;me de mesures</trd>
   <trd lng="id"><ind>sistem</ind> pengukuran</trd>
@@ -357,18 +845,42 @@
   <snc mrk="sistem.mon0o.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Regularo pri mono, &gcirc;iaj unuoj, valoroj, permesataj uzoj:
+      Regularo pri <ref tip="prt" cel="mon.0o">mono</ref>,
+      &gcirc;iaj unuoj, valoroj, permesataj uzoj:
       <ekz>
-        svedoj, kiuj ne volas havi la mon<tld/>on
-        &#171;e&ubreve;ro&#187;
+        oni povas proponi al niaj kongresoj internaciajn <tld/>ojn
+        <klr>[&#8230;]</klr> kiel ekzemple internacian mon<tld/>on
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en 
+          Cambridge en la 12a de a&ubreve;gusto 1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        svedoj, kiuj ne volas havi la mon<tld/>on &leftquot;e&ubreve;ro&rightquot;
         <fnt>
           <aut>I. Johansson</aut>,
           <vrk>E&ubreve;ro kaj ne&ubreve;ro</vrk>,
           <bib>Monato</bib>,
           <lok>2002:3, p. 7a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[<nom>Bitcoin</nom>]</klr> estis kreita de iu <nom>Sato&scirc;i Nakamoto</nom> (eble ka&scirc;nomo)
+        en 2009, <klr>[&#8230;]</klr> mon<tld/>o bazita sur kriptografia reto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="http://www.monato.net/2013/011017.php">Bitcoin: &ccirc;u 
+          scienca eksperimento, trompado a&ubreve; reale uzebla virtuala mono?</url></vrk>
         </fnt>.
       </ekz>
     </dif>
+    <ref tip="sub" cel="valut.0o">valuto</ref>
+    <trdgrp lng="de">
+      <trd>Geldsystem</trd>,
+      <trd>W&auml;hrung</trd>
+    </trdgrp>
   </snc>
 <trdgrp lng="cs">
 <trd>m&ecaron;na</trd>,
@@ -389,19 +901,19 @@
   <uzo tip="fak">FIZL</uzo>
     <dif>
       Tuto de la organoj kaj histoj, kiuj havigas al animaloj la
-      kapablon sin movi fizike. &Gcirc;i konsistas el muskolaro, ostaro
+      kapablon sin movi fizike, konsistanta el muskolaro, ostaro
       kaj la koneksaj elementoj (kartilagoj, ligamentoj kaj
       tendenoj):
       <ekz>
         malsanoj de la muskolo-skeleta sistemo
         <fnt>
           <aut>Vikipedio</aut>,
-          <vrk><url
-          ref="http://eo.wikipedia.org/wiki/Klasifiko_Internacia_de_Malsanoj">Klasifiko
+          <vrk><url ref="http://eo.wikipedia.org/wiki/Klasifiko_Internacia_de_Malsanoj">Klasifiko
           internacia de malsanoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de">Bewegungsapparat</trd>
   </snc>
   <trd lng="en">musculoskeletal system</trd>
   <trdgrp lng="es">
@@ -424,44 +936,42 @@
   <snc mrk="sistem.nervo0o.FIZL">
     <uzo tip="fak">FIZL</uzo>
     <dif>
-      Tuto de la kunfunkciantaj
-      <ref tip="prt" cel="cerb.0o.ANA">cerbo</ref>,
-      <ref tip="prt" cel="mjel.0o.ANA">mjelo</ref>,
-      <ref tip="prt" cel="nerv.0aro.ANA">nervaro</ref>:
+      Tuto de la kunfunkcianta
+      <ref tip="prt" cel="nerv.0aro.ANA">nervaro</ref>
+      de besto:
       <ekz>
         &ccirc;e la bestoj disvolvi&gcirc;as la kapablo de konsciaj la&ubreve;planaj
-        agoj 
-        en la rilato al la evoluo de la nervo<tld/>o
+        agoj en la rilato al la evoluo de la nervo<tld/>o
         <fnt>
-          <aut>F. Engels, trad. Cezar</aut>,
-          <vrk><url
-              ref="http://www.marxists.org/esperanto/marx-engels/1870s/1876junio.htm">
-              La kontribuo de la laboro ...</url></vrk>,
+          <aut>F. Engels, trad. Cezar</aut>
+          <vrk><url ref="http://www.marxists.org/esperanto/marx-engels/1870s/1876junio.htm">
+          La kontribuo de la laboro ...</url></vrk>
           <lok>2005-01</lok>
         </fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         tra la nerv<tld/>o kaj tra la hormon<tld/>o signaloj
         transiras
         <fnt>
-          <aut>H. G. Frank</aut>,
-          <vrk><url
-              ref="http://wwwcs.uni-paderborn.de/extern/fb/2/Kyb.Paed/KP1/1_1.htm">
-              Kibernetikaj fundamentoj de la pedagogio</url></vrk>,
+          <aut>H. G. Frank</aut>
+          <vrk><url ref="http://wwwcs.uni-paderborn.de/extern/fb/2/Kyb.Paed/KP1/1_1.htm">
+          Kibernetikaj fundamentoj de la pedagogio</url></vrk>
           <lok>2002-11</lok>
-        </fnt>
-      </ekz><ekz>
-        la akvo estas alkali-hidrogenkarbonata <klr>...</klr> &gcirc;i
-        estas 
-        utila kaze de metabolisma malordo kaj problemoj de la nerva 
-        <tld/>o
+        </fnt>;
+      </ekz>
+      <ekz>
+        la akvo estas alkali-hidrogenkarbonata <klr>[&#8230;]</klr> &gcirc;i
+        estas utila kaze de metabolisma malordo kaj problemoj de
+        la nerva <tld/>o
         <fnt>
-          <aut>-</aut>,
-          <vrk><url
-              ref="http://www.hungario.hu/">hungario.hu</url></vrk>,
+          <aut>-</aut>
+          <vrk><url ref="http://www.hungario.hu/">
+          hungario.hu</url></vrk>
           <lok>Regiono 1, [2006]</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de">Nervensystem</trd>
   </snc>
   <trd lng="cs">nervstvo</trd>
   <trd lng="en">nervous system</trd>
@@ -473,20 +983,83 @@
   <trd lng="sk">nervstvo</trd>
 </drv>
 
+<drv mrk="sistem.periferianervo0o">
+  <kap>periferia nervo<tld/>o</kap>
+  <snc mrk="sistem.periferianervo0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Parto de organizita
+      <ref tip="malprt" cel="sistem.nervo0o.FIZL">nervo<tld/>o</ref>,
+      kiu tra la korpo kolektas sensa&jcirc;ojn por la
+      <ref tip="vid" cel="sistem.centranervo0o.FIZL">centra
+      nervo<tld/>o</ref>
+      kaj al la diversaj partoj de la korpo kondukas movajn impulsojn:
+      <ekz>
+        en la ripozejo estas kurac-diagnoza centro pri nespecifaj
+        malsanoj de pulmoj, kormalsanoj, periferia nerva <tld/>o
+        <fnt>
+          <aut>-</aut>
+          <vrk><url ref="http://satesperanto.org/spip.php?article2081">
+          Lo&gcirc;eblecoj</url></vrk>
+          <lok>SAT, 2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">peripheres Nervensystem</trd>
+  </snc>
+  <rim>
+    La esprimo <ctl>malcentra nervosistemo</ctl>, kiel en:
+    <ekz>
+      la fiziologia funkcio de la cerbo estas <klr>[&#8230;]</klr>
+      reguligo de la organa funkciado per helpo de
+      <klr>[&#8230;]</klr> la malcentra nervo<tld/>o
+      <fnt>
+        <bib>Viki</bib>,
+        <vrk><url ref="https://eo.wikipedia.org/wiki/Cerbo">
+        cerbo</url>, 2017-09-14</vrk>
+      </fnt>.
+    </ekz>
+    ne klare distingas, &ccirc;u celata estas
+    <ctl>periferia nervosistemo</ctl> de supera besto a&ubreve;
+    <ctl>disa nervosistemo</ctl> de primitiva organismo.
+  </rim>
+  <trd lng="fr">syst&egrave;me nerveux p&eacute;riph&eacute;rique</trd>
+</drv>
+
 <drv mrk="sistem.politika0o">
   <kap>politika <tld/>o</kap>
   <snc mrk="sistem.politika0o.POL">
     <uzo tip="fak">POL</uzo>
-    <ref tip="dif" cel="regxim.0o.POL">re&gcirc;imo <sncref/></ref>
-    <ekz>
-      ili travivis ne malpli ol kvin diversajn politikajn <tld/>ojn
-      <fnt>
-        <aut>S. Maul</aut>,
-        <vrk>Germanio-Auschwitz/Malbonaj konsciencoj</vrk>,
-    <bib>Monato</bib>,
-    <lok>1995:3, p. 5a</lok>
-  </fnt>.
-  </ekz>
+    <dif>
+     <ref tip="dif" cel="regxim.0o.POL">Re&gcirc;imo <sncref/></ref>:
+      <ekz>
+        ili travivis ne malpli ol kvin diversajn politikajn <tld/>ojn
+        <fnt>
+          <aut>S. Maul</aut>,
+          <vrk>Germanio-Auschwitz/Malbonaj konsciencoj</vrk>,
+          <bib>Monato</bib>,
+          <lok>1995:3, p. 5a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        transformado en la na&ubreve;dekaj jaroj de la politika <tld/>o en Nord-Irlando
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan Macaoidh</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2003/007983.html">Lingvo 
+          kiel politikilo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en &ccirc;iu lando, &ccirc;iu politika <tld/>o ekzistas burokratoj 
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="http://www.monato.net/2008/009402.php">Socipolitika satiro</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">politisches System</trd>
   </snc>
   <trd lng="fr">r&eacute;gime politique</trd>
   <trd lng="hu">politikai <ind>rendszer</ind></trd>
@@ -507,11 +1080,11 @@
       necesa&jcirc;oj, en kiu &ccirc;iu ricevas sian porcion
       ordinare kontra&ubreve; <ref tip="vid" cel="kupon.0o.MIL">kupono</ref>:
       <ekz>
-        mencio pri la bona kvalito de la viskio kiun Donald akiris en 
+        mencio pri la bona kvalito de la viskio kiun <nom>Donald</nom> akiris en 
         tiu &ccirc;i milittempo stimulis diskuton inter kvar virinoj pri la 
         gena&jcirc;oj de la porci<tld/>o
         <fnt><aut>J. Francis</aut>,
-        <vrk>La Granda Kaldrono</vrk>, 
+        <vrk><url ref="http://novajhoj.weebly.com/uploads/8/2/9/5/8295099/la_granda_kaldrono_-_john_francis.pdf">La Granda Kaldrono</url></vrk>, 
         <lok>1978</lok></fnt>.
       </ekz>
     </dif>
@@ -527,13 +1100,29 @@
       Aran&gcirc;o de la &scirc;tata kaj alinivela oficiala regado:
       <ekz>
         parlamenta plimulto tamen volas, ke komisiono diskutu la
-        &scirc;tatan
-        reg<tld/>on
+        &scirc;tatan reg<tld/>on
         <fnt>
           <aut>B. Hekland</aut>,
           <vrk>Monarkio denove la&ubreve;moda</vrk>,
           <bib>Monato</bib>,
           <lok>2002:1, p. 14a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li sendependigis Rumanion de Sovetio kaj da&ubreve;rigis stalinisman reg<tld/>on
+        tre severan, &gcirc;is kiam, en 1989, kontra&ubreve;komunista ribelo en Rumanio ekzekutis lin
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="http://www.monato.net/2008/009584.php">Kvaza&ubreve;a&ubreve;tobiografia
+         rakonto tre maltrankviliga</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu provinco organizas la municipojn en sia teritorio la&ubreve; sia propra municipa reg<tld/>o 
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=29555">Municipo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -541,6 +1130,10 @@
       <ref cel="admini1.0o">administracio</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="de">
+    <trd>Regierungssystem</trd>,
+    <trd>Herrschaftsform</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>administration</trd>,
     <trd>syst&egrave;me administratif</trd>
@@ -562,7 +1155,7 @@
       Sortimento da literoj a&ubreve; aliaj signoj kaj ties uzreguloj por 
       skribi:
       <ekz>
-        la skrib<tld/>o de &ccirc;iu lingvo <klr>...</klr> spegulas ties
+        la skrib<tld/>o de &ccirc;iu lingvo <klr>[&#8230;]</klr> spegulas ties
         fonologian strukturon
         <fnt>
           <aut>Yamasaki Seik&ocirc;</aut>,
@@ -571,18 +1164,35 @@
           <lok>1999:10, p. 19a</lok></fnt>;
       </ekz><ekz>
         se Esperanto havus fonetikan skrib<tld/>on, ni ver&scirc;ajne
-        devus uzi tri diversajn literojn por r de hispanoj,
-        francoj kaj angloj <klr>(...)</klr>
+        devus uzi tri diversajn literojn por &leftquot;r&rightquot; de hispanoj,
+        francoj kaj angloj 
         <fnt>
           <aut>S. Ivan&oacute;v</aut>,
           <vrk>Gramatiko por amasoj (Recenzo)</vrk>,
           <bib>LOdE</bib>,
           <lok>2004:3</lok>.
+        </fnt>;
+      </ekz>
+      <ekz>
+        la unua vaste uzata skrib<tld/>o aperis &ccirc;e la osetoj en la jaro 1844
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vja&ccirc;eslav (Slavik) Ivanov</aut>
+          <vrk><url ref="http://www.esperanto.be/fel/2003/007865.html">La oseta lingvo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        spertuloj pri kelta arto kaj skrib<tld/>o prelegis pri la beleco kaj signifo de la artelementoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="http://www.monato.net/2007/009180.php">Ornamitaj manuskriptoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="sin" cel="skrib.0o.sistemo">skribo<sncref/></ref>
     <ref tip="vid" cel="sistem.son0o.FON">son<tld/>o</ref>
+    <trd lng="de">Schriftsystem</trd>
   </snc>
   <trdgrp lng="fr">
     <trd>&eacute;criture<klr> (syst&egrave;me)</klr></trd>,
@@ -615,6 +1225,22 @@
           <vrk>La korea</vrk>,
           <bib>Monato</bib>,
           <lok>2002:3, p. 21-23a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la akada lingvo uzis kojnoskribon, kiu havis pli ol 600 signojn por vortoj
+        kaj silaboj, la son<tld/>o enhavis 20 konsonantojn kaj 4 mallongajn vokalojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=201">Akada lingvo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Le&gcirc;o de <nom>Grimm</nom> <klr>[&#8230;]</klr> montras la la&ubreve;regulan manieron per kiu
+        la &gcirc;ermanida son<tld/>o diver&gcirc;is de la hinde&ubreve;ropa son<tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=8562">Le&gcirc;o de Grimm</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -640,6 +1266,21 @@
 </art>
 <!--
 $Log: sistem.xml,v $
+Revision 1.41  2018/06/09 17:10:13  revo
+Wolfram Diestel: prilaboris ekz-ojn (cetero)
+
+Revision 1.40  2018/06/09 14:10:13  revo
+Wolfram Diestel: + ~estro; prilaboris ekz-ojn kaj germ trd-ojn
+
+Revision 1.39  2018/06/08 16:10:14  revo
+Wolfram Diestel: + ~e
+
+Revision 1.38  2018/06/08 06:10:13  revo
+Wolfram Diestel: ~o: +snc SCI, TEK, POL, ekz-oj
+
+Revision 1.37  2018/02/13 11:10:13  revo
+Jeromo Vasxe: + centra/periferia nervo~o
+
 Revision 1.36  2017/12/17 19:10:36  revo
 Michel Cantigneaux: aldonita per 1a OA kaj klarige fundamenta per 7a OA
 
@@ -647,20 +1288,5 @@ Revision 1.35  2017/09/18 15:10:13  revo
 Jeromo Vasxe: + porci~o
 
 Revision 1.34  2015/07/04 08:37:43  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.33  2015/06/29 16:33:23  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.32  2015/02/11 14:10:15  revo
-Alain Gerard: + muskolo-skeleta ~o
-
-Revision 1.31  2014/12/30 14:10:35  revo
-Alain Gerard: +ref
-
-Revision 1.30  2014/06/10 14:10:28  revo
-Eko Nur Syah Hidayat: edit trd id
-
-Revision 1.29  2014/06/01 15:10:19  revo
 -->
 </vortaro>

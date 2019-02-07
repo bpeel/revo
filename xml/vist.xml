@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: vist.xml,v 1.16 2015/07/04 08:37:45 revo Exp $">
+  <art mrk="$Id: vist.xml,v 1.17 2018/10/16 14:10:20 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>vist</rad>/o
@@ -31,12 +31,15 @@
   <trd lng="en">whist</trd>
   <trd lng="fr">whist</trd>
   <trd lng="hu">whist</trd>
-  <trd lng="nl">whist</trd>
+  <trdgrp lng="nl">
+        <trd>whist</trd>,
+        <trd>wiezen</trd>
+      </trdgrp>
   <trd lng="pl">wist</trd>
   <trd lng="pt">u&iacute;ste</trd>
   <trd lng="ru">&c_v;&c_i;&c_s;&c_t;</trd>
   <trdgrp lng="sk">
-    <trd>anglická kartová hra</trd>,
+    <trd>anglick&aacute; kartov&aacute; hra</trd>,
     <trd>whist</trd>
   </trdgrp>
 </drv>
@@ -50,6 +53,9 @@
   </art>
   <!--
   $Log: vist.xml,v $
+  Revision 1.17  2018/10/16 14:10:20  revo
+  Bart Demeyere: +trd nl
+
   Revision 1.16  2015/07/04 08:37:45  revo
   aldono de trd cs per skripto de M. von Laer
 

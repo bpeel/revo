@@ -2,23 +2,49 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: apel.xml,v 1.10 2015/07/04 08:37:30 revo Exp $">
+<art mrk="$Id: apel.xml,v 1.11 2018/08/17 22:10:18 revo Exp $">
 <kap>
   <rad>apel</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="apel.0i">
   <kap><tld/>i</kap>
-  <uzo tip="stl">EVI</uzo>
+  <snc mrk="apel.0i.posteni">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      <klr>(pp soldatoj)</klr> Stari vice senmove por ricevi instrukciojn
+      de superulo:
+      <ekz>
+        policisto <klr>[&#8230;]</klr>, kiu <tld/>is sur la trotuaro
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kontrolado dum <ind><tld/>o</ind>, 2012
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=527351">58-a armeo (Rusio)</url></lok>
+        </fnt>.
+        <trd lng="de"><klr>(Fahnen-)</klr>Appell</trd>
+      </ekz>
+    </dif>
+    <trd lng="de">zum <ind>Appell</ind> antreten</trd>
+  </snc>
+
   <snc mrk="apel.0i.JUR">
+    <uzo tip="stl">EVI</uzo>
     <uzo tip="fak">JUR</uzo>
     <ref tip="dif" cel="apelac.0i">apelacii</ref>
   </snc>
   <trd lng="cs">apelovat</trd>
-  <trd lng="sk">apelovať</trd>
+  <trd lng="sk">apelova&tcaron;</trd>
 </drv>
 </art>
 <!--
 $Log: apel.xml,v $
+Revision 1.11  2018/08/17 22:10:18  revo
+Wolfram Diestel: +snc MIL kun ekz-oj
+
 Revision 1.10  2015/07/04 08:37:30  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -38,7 +64,5 @@ Revision 1.5 1999/11/26 16:41:51 revo
 Lars Soezueer: mankis i en drv
 
 Revision 1.4 1999/11/25 16:53:19 revo
-Lars Soezueer: /i
-
 -->
 </vortaro>

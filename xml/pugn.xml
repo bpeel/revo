@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pugn.xml,v 1.21 2015/12/04 11:10:24 revo Exp $">
+<art mrk="$Id: pugn.xml,v 1.23 2018/11/15 03:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pugn</rad>/o <fnt><bib>PV</bib></fnt>
@@ -14,13 +14,11 @@
       Fermita mano:
       <ekz>
         bati per <tld/>o;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         ludi kun iu ludon de <tld/>oj
         <klr>(interbati&gcirc;i)</klr>
         <fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         <uzo tip="stl">FIG</uzo>
         tiam ekzistis nur rajto de <tld/>o kaj
         glavo<fnt>Z</fnt>
@@ -59,8 +57,8 @@
         <fnt>
           <aut>Pistike</aut>,
           <vrk><url
-          ref="https://pistike65.wordpress.com/2011/08/13/facebook-amy-winehouse-nelson-mandela/">
-          Facebook, Amy Winehouse, Nelson Mandela</url></vrk>,
+ref="https://pistike65.wordpress.com/2011/08/13/facebook-amy-winehouse-nelson-mandela/"
+          >Facebook, Amy Winehouse, Nelson Mandela</url></vrk>,
           <lok>Legologa Blog, 2011-08-13</lok>
         </fnt>
       </ekz>
@@ -70,6 +68,7 @@
     <trd>combattif</trd>,
     <trd>pugnace</trd>
   </trdgrp>
+  <trd lng="ru">&c_d;&c_r;&c_a;&c_ch;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>
 </drv>
 
 <drv mrk="pugn.0igxi">
@@ -83,10 +82,40 @@
     </dif>
   </snc>
   <trd lng="fr">se <ind>fermer</ind><klr> (poing)</klr></trd>
+  <trd lng="ru">&c_s;&c_zh;&c_a;&c_t;&c_mol;&c_s;&c_ja; &c_v; &c_k;&c_u;&c_l;&c_a;&c_k;</trd>
+</drv>
+
+<drv mrk="pugn.0ingo">
+  <kap><tld/>ingo
+    <fnt><vrk><url ref="http://www.vortaro.hu/vortaro.htm"
+       >EHV Hungara-Esperanta Vortaro</url>.</vrk></fnt>
+  </kap>
+  <snc>
+    <dif>
+      Kontakta armilo en formo de metala a&ubreve; plasta plato kun unu
+      komuna a&ubreve; kvar apartaj aperturoj por la fingroj, kiun oni fiksas
+      sur <tld/>o por plifortigi la efikon de pugnobato:
+      <ekz>
+        la <tld/>ingo estis tro mallar&gcirc;a kaj premis la fingrojn,
+        malebligante <tld/>igi la manon.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Schlagring</trd>
+  <trd lng="en">knuckleduster</trd>
+  <trd lng="fr">coup-de-poing am&eacute;ricain</trd>
+  <trd lng="hu">bokszer</trd>
+  <trd lng="ru">&c_k;&c_a;&c_s;&c_t;&c_je;&c_t;</trd>
 </drv>
 </art>
 <!--
 $Log: pugn.xml,v $
+Revision 1.23  2018/11/15 03:10:14  revo
+Sergio Pokrovskij: kor dif ~ingo
+
+Revision 1.22  2018/10/31 11:10:15  revo
+Sergio Pokrovskij: +~ingo
+
 Revision 1.21  2015/12/04 11:10:24  revo
 Jeromo Vasxe: + ~ema
 
@@ -103,11 +132,5 @@ Revision 1.17  2014/12/25 21:10:14  revo
 Jeromo Vasxe: + ~igxi
 
 Revision 1.16  2013/09/13 01:10:10  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.15  2009/05/28 16:30:22  revo
-Russ Williams: +trd en
-
-Revision 1.14  2006/04/17 16:32:25  revo
 -->
 </vortaro>

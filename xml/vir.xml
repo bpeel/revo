@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vir.xml,v 1.42 2017/12/19 12:10:18 revo Exp $">
+<art mrk="$Id: vir.xml,v 1.43 2018/06/03 20:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vir</rad>/o <fnt><bib>PV</bib></fnt>
@@ -269,7 +269,7 @@
   <trdgrp lng="en">
     <trd>male</trd>,
     <trd>manly</trd>,
-    <trd>unmasculine</trd>
+    <trd>masculine</trd>
   </trdgrp>
   <trd lng="fr">masculin</trd>
   <trdgrp lng="he">
@@ -559,8 +559,12 @@
 </art>
 <!--
 $Log: vir.xml,v $
+Revision 1.43  2018/06/03 20:10:24  revo
+Robin van der Vliet: erara traduko forigita
+
 Revision 1.42  2017/12/19 12:10:18  revo
-Michel Cantigneaux: fundamentaj "vireco", "virino", "virineco" al la U.V.
+Michel Cantigneaux: fundamentaj "vireco", "virino", "virineco" al la
+U.V.
 
 Revision 1.41  2017/11/05 00:10:52  revo
 Robin van der Vliet: +malvira, +trd
@@ -577,9 +581,5 @@ konsentas (tro subjektiva)
 
 Revision 1.37  2016/10/29 18:10:14  revo
 Wolfram Diestel: strukturaj plibonigoj (shovis trd de snc)
-
-Revision 1.36  2015/09/17 16:10:28  revo
-Bora Can Asli: +trd et,tr
-
 -->
 </vortaro>

@@ -2,9 +2,9 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bovl.xml,v 1.11 2017/08/26 20:10:20 revo Exp $">
+<art mrk="$Id: bovl.xml,v 1.13 2018/08/17 08:10:13 revo Exp $">
 <kap>
-  <ofc>8</ofc><rad>bovl</rad>/o
+  <ofc>8</ofc><rad>bovl</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
 <drv mrk="bovl.0o">
   <kap><tld/>o</kap>
@@ -34,7 +34,10 @@
   </trdgrp>
   <trd lng="de">Schale</trd>
   <trd lng="en">bowl</trd>
-  <trd lng="es">bol</trd>
+  <trdgrp lng="es">
+    <trd>cuenco</trd>,
+    <trd>bol</trd>
+  </trdgrp>
   <trd lng="fr">bol</trd>
   <trdgrp lng="hu">
     <trd>csupor</trd>,
@@ -58,6 +61,12 @@
 </art>
 <!--
 $Log: bovl.xml,v $
+Revision 1.13  2018/08/17 08:10:13  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.12  2018/08/06 20:10:29  revo
+Michel Cantigneaux: aperas unue en SPV (1953), oficiala en 8OA (1974)
+
 Revision 1.11  2017/08/26 20:10:20  revo
 Vito Redsky: +trd ro
 
@@ -74,11 +83,5 @@ Revision 1.7  2011/01/27 11:10:08  revo
 Mireille Corobu: trd fr
 
 Revision 1.6  2009/10/24 16:31:32  revo
-Russ Williams: + 8OA
-
-Revision 1.5  2007/04/08 16:30:18  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.4  2006/09/24 16:30:28  revo
 -->
 </vortaro>

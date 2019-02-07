@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
 <vortaro>
-<art mrk="$Id: rilat.xml,v 1.61 2017/07/25 13:10:13 revo Exp $">
+<art mrk="$Id: rilat.xml,v 1.68 2018/12/28 18:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>rilat</rad>/i <fnt><bib>PV</bib></fnt>
+  <rad>rilat</rad>/i
 </kap>
 <drv mrk="rilat.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
@@ -16,7 +17,33 @@
         ili amba&ubreve; intime (inter)<tld/>as;
       </ekz>
       <ekz>
-        ek<tld/>i, <tld/>i&gcirc;i kun iu.
+        ek<tld/>i, <tld/>i&gcirc;i kun iu;
+      </ekz>
+      <ekz>
+        la Judoj ne inter<tld/>as kun la Samarianoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Johano 4:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la egipta registaro amike <tld/>is al la pilgrimoj, kiuj
+        alportis al &gcirc;i grandajn enspezojn
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mankas al nunaj gejunuloj sperto grupe ludi: ili malfacile
+        <tld/>as kun aliaj homoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo</aut>
+          <vrk><url
+          ref="http://steloj.de/esperanto/monato2/007187.html">Po&scirc;telefonoj:
+          &Ccirc;u beno a&ubreve; malbeno?</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -36,7 +63,47 @@
       Havi inter si ian ajn ligitecon a&ubreve; interefikon:
       <ekz>
         mi ne povas kompreni kiel via konkludo <tld/>as kun viaj
-        premisoj.
+        premisoj;
+      </ekz>
+      <ekz>
+        tenu la vizion sekrete, &ccirc;ar &gcirc;i <tld/>as tempon malproksiman
+        <fnt>
+          <bib>MT</bib>
+          <lok>Daniel 8:26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nia rakonto <tld/>as la XI-an jarcenton anta&ubreve; Kristo
+        <fnt>
+          <bib>Far1</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la prefikso &leftquot;ge&rightquot; <tld/>as ne sole al du personoj, sed &gcirc;i povas
+        <tld/>i anka&ubreve; al multaj personoj
+        <fnt>
+          <bib>LR</bib>
+          <lok>1. Vortfarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en Esperanto la adverba participo &ccirc;iam <tld/>as la subjekton de
+        la &ccirc;efa propozicio
+        <fnt>
+          <bib>LR</bib>
+          <lok>11. Verboj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia pan-dona laboro <tld/>as plejparte al komputado kaj informaj
+        teknologioj
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url
+          ref="http://www.esperanto.be/fel/2003/007974.html">Alexander
+          Shlafer</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="fr">
@@ -60,11 +127,17 @@
       Iel ju&gcirc;i pri io; konsideri de ia vidpunkto:
       <ekz>
         tiuj, kiuj provis
-        <tld/>i al nia ideo serioze kaj kun ju&gcirc;o memstara<fnt>Z</fnt>;
+        <tld/>i al nia ideo serioze kaj kun ju&gcirc;o memstara
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
       </ekz>
       <ekz>
         ni scias, ke vi kutimas <tld/>i kun estimo nur al tiaj
-        argumentoj<fnt>Z</fnt>.
+        argumentoj, kiuj estas plenigitaj per multo da citatoj
+        <fnt>
+          <bib>EE</bib>
+        </fnt>.
       </ekz>
     </dif>
     <trd lng="de">besch&auml;ftigen (mit)</trd>
@@ -79,8 +152,7 @@
   <snc mrk="rilat.0o.proporcio">
     <dif>
       Esti tiomfoje pli granda ol alia kvanto, kiom tria kvanto estas
-      pli granda
-      ol kvara:
+      pli granda ol kvara:
       <ekz>
         20 <tld/>as al 5, kiel 8 al 2.
       </ekz>
@@ -115,47 +187,41 @@
 
 <drv mrk="rilat.0o">
   <kap><tld/>o</kap>
-  <snc mrk="rilat.0o.interligo">
-    <dif>
-      Ia ajn ligiteco a&ubreve; interefiko inter du a&ubreve; pluraj aferoj:
-      <ekz>
-        estas neniu logika <tld/>o inter amba&ubreve; ideoj;
-      </ekz>
-      <ekz>
-        la vorto <ctl>mia</ctl> montras <tld/>on de posedo.
-      </ekz>
-    </dif>
-    <trdgrp lng="fr">
-      <trd>relation</trd>,
-      <trd>lien</trd>,
-      <trd>rapport</trd>
-    </trdgrp>
-    <trd lng="de">Beziehung</trd>
-    <trdgrp lng="hu">
-      <trd>&ouml;sszef&uuml;gg&eacute;s</trd>,
-      <trd>kapcsolat</trd>
-    </trdgrp>
-    <trdgrp lng="nl">
-      <trd>relatie</trd>,
-      <trd>betrekking</trd>
-    </trdgrp>
-    <trdgrp lng="ru">
-      <trd>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>,
-      <trd>&c_s;&c_v;&c_ja;&c_z;&c_mol;</trd>
-    </trdgrp>
-  </snc>
   <snc mrk="rilat.0o.interpersona">
     <dif>
       Ligiteco kaj reciproka konduto inter du a&ubreve; pluraj personoj,
       <ref tip="sin" cel="rilat.inter0o.KOMUNE">inter<tld/>o</ref>:
       <ekz>
-        esti en <tld/>o kun iu<fnt>Z</fnt>;
+        la <tld/>oj inter edzo kaj lia edzino, inter patro kaj lia
+        filino
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 30:16</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        la ekonomiaj <tld/>oj inter la okcidentaj kaj orientaj landoj;
+        ni restos en intima <tld/>o kun ili <klr>[&#8230;]</klr>
+        ni reciproke dividos inter ni mal&gcirc;ojon kaj &gcirc;ojon
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Muta libro</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        havi kun iu amikajn <tld/>ojn.
+        kore bona &scirc;i estis en <tld/>o al li
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi estis iam en amikaj rilatoj kun mia edzo
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ekonomiaj <tld/>oj inter la okcidentaj kaj orientaj landoj.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -181,27 +247,106 @@
       <trd>&c_s;&c_v;&c_ja;&c_z;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <snc mrk="rilat.0o.interligo">
+    <dif>
+      Ia ajn ligiteco a&ubreve; interefiko inter du a&ubreve; pluraj aferoj:
+      <ekz>
+        estas neniu logika <tld/>o inter amba&ubreve; ideoj;
+      </ekz>
+      <ekz>
+        kia estas la <tld/>o de &ccirc;i tiuj du faktoj
+        <fnt>
+          <bib>IK</bib>
+        </fnt>?
+      </ekz>
+      <ekz>
+        la elekto de solidareca sinteno dum konfliktoj havas evidente
+        nenian <tld/>on kun &leftquot;genoj&rightquot;
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url
+          ref="http://steloj.de/esperanto/monato2/006947.html">Reago:
+          Eks-Jugoslavio: 
+             kiu kiun mistifikas?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam la prepozicia <tld/>o inter du vortoj estas ne klara, ni
+        povas uzi la prepozicion &leftquot;je&rightquot;
+        <fnt>
+          <bib>LR</bib>
+          <lok>13. Prepozicioj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>relation</trd>,
+      <trd>lien</trd>,
+      <trd>rapport</trd>
+    </trdgrp>
+    <trd lng="de">Beziehung</trd>
+    <trdgrp lng="hu">
+      <trd>&ouml;sszef&uuml;gg&eacute;s</trd>,
+      <trd>kapcsolat</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>relatie</trd>,
+      <trd>betrekking</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_s;&c_v;&c_ja;&c_z;&c_mol;</trd>
+    </trdgrp>
+  </snc>
   <snc>
     <dif>
       Ju&gcirc;maniero de iu pri io; vidpunkto:
       <ekz>
-        malfacile estas atingita la
-        nuna favora <tld/>o de la mondo al nia afero<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
         mia <tld/>o al tiu a&ubreve; alia politika a&ubreve; religia
-        demando<fnt>Z</fnt>;
+        demando
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Homaranismo</vrk>
+        </fnt>;
       </ekz>
       <ekz>
         Esperanto estas nenies propra&jcirc;o, nek en <tld/>o materiala, nek
-        en <tld/>o morala<fnt>Z</fnt>;
+        en <tld/>o morala
+        <fnt>
+          <aut>L. L. Zamenhof</aut>
+          <vrk><url
+          ref="https://eo.wikipedia.org/wiki/Deklaracio_pri_Esperanto">Deklaracio
+          pri Esperanto</url></vrk>
+        </fnt>;
       </ekz>
       <ekz>
-        certe minacas al ni nenia dan&gcirc;ero en &ccirc;i tia
-        <tld/>o<fnt>Z</fnt>;
+         en &ccirc;i tiu <tld/>o &scirc;i estas absolute necedema
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        la&ubreve; tiu <tld/>o.
+         &scirc;i estas en &ccirc;iu <tld/>o majstrino
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Pupludisto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en certa <tld/>o por mi efektive komenci&gcirc;is nova vivo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Peco da perlovico</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        eble mi estas iom tro postulema en tiu <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Edmund Grimley Evans</aut>
+          <vrk><url ref="http://www.monato.net/2014/011289.php">Kajto
+          flugas plu</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="fr">
@@ -225,7 +370,17 @@
         alia:
         <ekz>
           la <tld/>o de <frm>6</frm> al <frm>3</frm> estas
-          <frm>2</frm><fnt>B</fnt>.
+          <frm>2</frm><fnt><aut>Kazimierz Bein</aut></fnt>;
+        </ekz>
+        <ekz>
+          la rilato e&ubreve;ro/dolaro kreskos denove al inter 1,10 kaj 1,15
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Roland Rotsaert</aut>
+            <vrk><url
+            ref="http://steloj.de/esperanto/monato2/006821.html">E&ubreve;ropa
+            Unio: E&ubreve;ro unujara</url></vrk>
+          </fnt>.
         </ekz>
       </dif>
       <refgrp tip="sin">
@@ -287,7 +442,7 @@
         <fnt><bib>EKV</bib><lok>&para;379</lok></fnt>.
         La &ccirc;i-supra difino pli precize koncernas la <ctl>duargumentajn
         <tld/>ojn</ctl>, sed eblas difini anka&ubreve;
-        &leftquot;<ref cel="rilat.n-argumenta0o">n-argumentajn
+        &leftquot;<ref cel="rilat.n_argumenta_0o">n-argumentajn
         <tld/>ojn</ref>&rightquot;.
       </rim>
       <rim>
@@ -356,9 +511,19 @@
     <dif>
       Kiu <tld/>as, estas iel ligita al menciita afero:
       <ekz>
-        la bulteno<klr>...</klr> disponigos multajn aliajn informojn por
-        universitatanoj
-        kaj &ccirc;iuj, kiuj interesi&gcirc;as pri interlingvistiko kaj <tld/>aj
+        la &scirc;ton&jcirc;etistoj ne vidis plu la malamikojn kaj fari&gcirc;is <tld/>a
+        silento, 
+        en kiu sonis nur la &gcirc;emoj kaj ploroj de la vunditaj batalistoj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la bulteno <klr>[&#8230;]</klr> disponigos multajn aliajn informojn
+        por
+        universitatanoj kaj &ccirc;iuj, kiuj interesi&gcirc;as pri interlingvistiko
+        kaj <tld/>aj
         kampoj
         <fnt>
           <aut>Y. Amis</aut>,
@@ -366,6 +531,82 @@
           ref="http://www.esperantic.org/eo/2017/07/20/esf-lancas-novan-bultenon-kaj-revivigas-alian/">
           ESF lan&ccirc;as novan bultenon kaj revivigas alian</url></vrk>,
           <lok>2017-07-20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la organiza&jcirc;o Psikologoj de la Mondo (PDM) estas fondita por
+        <klr>[&#8230;]</klr> 
+        personoj, kiuj deziras konsulti por solvi problemojn, kiujn
+        starigas ilia mensa kaj <tld/>a vivo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Kiss Adam</aut>
+          <vrk><url ref="http://www.monato.net/2009/009905.php">&Ccirc;u
+          necesas psikologa rethelpo esperantlingva?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> demando pri tio, kiom multe da lingvoj homo
+        povas lerni 
+        <klr>[estas]</klr> demando <tld/>a ne nur al kogno kaj
+        sindedi&ccirc;o, sed anka&ubreve; al mono
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Reinaldo Marcelo Ferreira</aut>
+          <vrk><url
+          ref="http://www.monato.net/2007/009078.php">Interlingvistiko
+          por &ccirc;iuj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pastro estas petata anka&ubreve; kaj precipe pri aferoj ne <tld/>aj al
+        sia tasko
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Armando Zecchin</aut>
+          <vrk><url ref="http://www.monato.net/2008/009436.php">Jen ne
+          pastra tasko</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">GRA</uzo>
+        ni ricevas vortojn demandajn a&ubreve; <tld/>ajn: kia, kial, kiam, kie,
+        kiel, kies, kio, kiom, kiu
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 30</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">MAT</uzo>
+        profesoro Bucher el Lejpcigo elkalkulis la <tld/>an nombron de
+        la
+        viroj kaj virinoj en E&ubreve;ropo, montri&gcirc;as, ke <klr>[&#8230;]</klr> sin
+        trovas 4 1/2 milionoj 
+        pli da virinoj, ol da viroj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne malalti&gcirc;is la <tld/>a valoro de eno kontra&ubreve; usona dolaro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Isikawa Takasi</aut>
+          <vrk><url
+          ref="http://www.monato.net/2012/010776.php">Konkurado al &scirc;tata
+          paneo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">KOMP</uzo>
+        mi vere bezonus <tld/>an datumbazan programon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url
+          ref="http://www.monato.net/2005/008659.php">OpenOffice:
+          senpaga alternativo por Microsoft Office</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -381,6 +622,15 @@
   <trdgrp lng="cs">
     <trd>rela&ccaron;n&iacute;</trd>,
     <trd>vzta&zcaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>diesbez&uuml;glich</trd>,
+    <trd>mit <ind>Bezug</ind></trd>,
+    <trd>Beziehungs-</trd>,
+    <trd>Relativ-</trd>,
+    <trd>Verh&auml;ltnis-</trd>,
+    <trd>Umrechnungs-</trd>,
+    <trd>relational</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>relatif (&agrave;)</trd>,
@@ -401,6 +651,34 @@
       <ref tip="vid" cel="pri.0">Pri</ref>,
       en <tld/>o al, la&ubreve; vidpunkto de,
       <ref tip="vid" cel="koncer.0eal.KOMUNE">koncerne al</ref>:
+      <ekz>
+        estu singardaj <tld/>e al &ccirc;i tiuj homoj pri tio, kion vi celas
+        fari
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 5:35</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e al la aferoj, pri kiuj vi skribis: <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Korintanoj 7:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili &ccirc;iuj kondutis tre serveme <tld/>e al &scirc;i
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Floroj de la malgranda Ida</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         maljusta&jcirc;o <tld/>e virinon
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
       <ekz>
         mi petas vian pardonon pri la malbonaj pensoj, kiujn mi havis 
         <tld/>e vin
@@ -437,6 +715,32 @@
   </trdgrp>
 </drv>
 
+<drv mrk="rilat.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="rilat.0ulo.KOMUNE">
+    <dif>
+      Persono kun kiu oni <tld/>as, malpli ofte a&ubreve; konfide ol
+      <ref tip="vid" cel="amik.0o.KOMUNE">amiko</ref> a&ubreve;
+      <ref tip="vid" cel="intim.0ulo.KOMUNE">intimulo</ref>:
+      <ekz>
+        miaj <tld/>uloj ne posedas Esperanton kaj mi devas
+        a&ccirc;umi per la Angla a&ubreve; la Germana
+        <fnt>
+          <aut>G. Hamming</aut>
+          <vrk><url
+          ref="https://scienca-revuo.info/article/view/1795">
+          Esenco de Esperanto</url></vrk>
+          <lok>Scienca Revuo, 1953, 4:16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="proksi.0ulo.KOMUNE">proksimulo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="fr">relation<klr> (personne)</klr></trd>
+</drv>
+
 <drv mrk="rilat.ekvivalento0o">
   <kap>ekvivalento-<tld/>o,
   <var><kap>ekvivalent<tld/>o<fnt><bib>EKV</bib><lok>&para;115</lok></fnt></kap></var>,
@@ -450,11 +754,20 @@
       <ref cel="reflek1.0a.rilato">refleksiva</ref>,
       <ref cel="simetr.0a.rilato">simetria</ref> kaj
       <ref cel="transi1.0a.rilato">transitiva</ref>:
+      <ekz>
+        en la aro de &ccirc;iuj homoj la <tld/>o <ctl>x estas parenco
+        de y</ctl> estas ekvivalento-<tld/>o;
+      </ekz>
+      <ekz>
+        parta ekvivalent<tld/>o estas transitiva kaj simetria, sed ne
+        refleksiva
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=252542">Ekvivalentrilato</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
-    <ekz>
-      en la aro de &ccirc;iuj homoj la <tld/>o <ctl>x estas parenco
-      de y</ctl> estas ekvivalento-<tld/>o.
-    </ekz>
     <ref tip="vid" cel="ar.kvocienta0o">kvocienta aro.</ref>
     <trd lng="de">&Auml;quivalenzrelation</trd>
     <trd lng="en">equivalence relation</trd>
@@ -479,9 +792,23 @@
           <bib>Lanti</bib>,
           <lok><url ref="http://www.satesperanto.org/lanti/v3_10.htm">
           Idealo estas necesa</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estis ia<tld/>e dorna situacio
+        <fnt>
+          <aut>M. Proust, trad. &Jcirc;. Va&scirc;e</aut>
+          <vrk><url
+          ref="http://jxvasxe.free.fr/tradukoj/en-ombro-de-florantaj-junulinoj-eo.htm">En
+           ombro de florantaj junulinoj</url></vrk>
+           <lok>2017-...</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd>irgendwie</trd>,
+      <trd>gewisserma&szlig;en</trd>
+    </trdgrp>
   </snc>
   <trd lng="fr">en quelque sorte</trd>
 </drv>
@@ -555,7 +882,48 @@
       <ref tip="dif" cel="rilat.0o.interpersona"><tld lit="R"/>o<sncref
       ref="rilat.0o.interpersona"/></ref>:
       <ekz>
-        ligi, teksi inter<tld/>ojn kun iu.
+        ligi, teksi inter<tld/>ojn kun iu;
+      </ekz>
+      <ekz>
+        la&ubreve; la personoj, kun kiuj oni havas inter<tld/>ojn, estas
+        difinata la propra valoro de homo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Turgardisto Ole</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pulo <klr>[&#8230;]</klr> estis alkutimi&gcirc;inta al inter<tld/>oj kun
+        homoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Konkurso de saltado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiuj &ccirc;i tiel diversaspecaj plendoj tute ne trovas sin en
+        difinita inter<tld/>o al la objektiva stato
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kia inter<tld/>o povas esti inter viaj vortoj kaj la situacio,
+        en kiu mi
+        trovi&gcirc;as kun doloro de vidvino, kun zorgoj de patrino
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>?
+      </ekz>
+      <ekz>
+        miaj malnovaj kaj konstantaj inter<tld/>oj kun &ccirc;iuj firmoj
+        &ccirc;i-tieaj donas 
+        al mi la eblon trakti la negocojn de miaj mendantoj kun la tuta
+        kompetento
+        dezirinda kaj per tia maniero, ke ili estu plene kontentaj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -596,6 +964,26 @@
           Plaro, a&ubreve; la Flava Terpomo</url></vrk>,
           <bib>Monato</bib>,
           <lok>2011:05, p. 16a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        konscio estas la kapablo fari spertojn kaj akiri kaj
+        inter<tld/>igi sciojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=46489">Konscio</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la nombroj de ali&gcirc;intoj &ccirc;e grandaj esperantaj asocioj povas esti
+        uzata kiel indikilo,
+        kvankam ne estas facile inter<tld/>igi precize tiujn nombrojn
+        kun la nombro de Esperanto-parolantoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=14529">Nombro
+          de Esperanto-parolantoj</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -610,6 +998,23 @@
     <dif>
       Reciproke <tld/>i&gcirc;i kun...:
       <ekz>
+         la delegito rajtas inter<tld/>i&gcirc;i kun loka agentejo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=11394">Delegito
+          de UEA</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+         birdoj uzas la bekon por inter<tld/>i&gcirc;i inter masklo kaj ino 
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=30638">Beko</url></lok>
+        </fnt>.
+      </ekz>
+<!-- sonas gramatike dubinda, devus esti inter~igi en tiu okazo:
+      <ekz>
         bone estas, renkontante &ccirc;iun homon <klr>...</klr> 
         rememori, ke tiu homo ebligas cin inter<tld/>i&gcirc;i 
         kun la spirita Principo
@@ -619,6 +1024,7 @@
           <lok>1912</lok>
         </fnt>.
       </ekz>
+-->
     </dif>
   </snc>
   <trd lng="fr">se mettre en <ind>relation</ind></trd>
@@ -666,7 +1072,7 @@
   <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_o;&c_je; <ind>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</ind></trd>
 </drv>
 
-<drv mrk="rilat.n-argumenta0o">
+<drv mrk="rilat.n_argumenta_0o">
   <kap>n-argumenta <tld/>o</kap>
   <uzo tip="fak">MAT</uzo>
   <snc>
@@ -798,6 +1204,17 @@
           Kiu gardas la tombo&scirc;tonon de usona armeano en sudokcidenta
           &Ccirc;inio?</url></vrk>,
           <lok>El Popola &Ccirc;inio, 2015-04-14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi mencias tiun &scirc;ajne tute sen<tld/>an fakton, &ccirc;ar
+        <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Edmund Grimley Evans</aut>
+          <vrk><url
+          ref="http://www.monato.net/2009/009593.php">Porte(b)la
+          Ilustrita Vortaro</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -830,27 +1247,27 @@
 </art>
 <!--
 $Log: rilat.xml,v $
+Revision 1.68  2018/12/28 18:10:18  revo
+Jeromo Vasxe: + ~e de, + ~e ke
+
+Revision 1.67  2018/07/02 22:10:15  revo
+Jeromo Vasxe: fnt
+
+Revision 1.66  2018/04/25 07:10:13  revo
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.65  2018/04/24 19:10:13  revo
+Wolfram Diestel: kor. mrk, inter~ig(x)i, sen~e: prilaboris ekz-ojn
+
+Revision 1.64  2018/04/24 18:10:13  revo
+Wolfram Diestel: prilaboris ekz-ojn
+
+Revision 1.63  2018/04/23 17:10:15  revo
+Wolfram Diestel: ~a: ekz-oj kaj germ. trd-oj
+
+Revision 1.62  2018/04/22 20:10:13  revo
+Wolfram Diestel: ~i, ~o: prilaboris ekz-ojn
+
 Revision 1.61  2017/07/25 13:10:13  revo
-Jeromo Vasxe: + sen-a, sen-e al
-
-Revision 1.60  2017/07/25 07:10:13  revo
-Damien Brucker: +mrk en snc
-
-Revision 1.59  2016/02/18 08:10:18  revo
-Alain Gerard: +trd fr
-
-Revision 1.58  2015/12/01 19:10:22  revo
-Jeromo Vasxe: + ia~e
-
-Revision 1.57  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.56  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.55  2015/02/23 23:10:15  revo
-Alain Gerard: +trd (fr)
-
-Revision 1.54  2014/10/25 09:10:13  revo
 -->
 </vortaro>

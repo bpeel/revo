@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ir.xml,v 1.84 2017/12/19 17:10:25 revo Exp $">
+<art mrk="$Id: ir.xml,v 1.85 2018/03/02 00:10:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ir</rad>/i <fnt><bib>PV</bib></fnt>
@@ -803,7 +803,7 @@
 </drv>
 
 <drv mrk="ir.el0i">
-  <kap>el<tld/>i</kap>
+  <kap><ofc>*</ofc>el<tld/>i</kap>
   <gra><vspec>x</vspec></gra>
   <snc mrk="ir.el0i.eksteren">
     <dif>
@@ -2191,6 +2191,9 @@
 </art>
 <!--
 $Log: ir.xml,v $
+Revision 1.85  2018/03/02 00:10:34  revo
+Michel Cantigneaux: eliri, fundamenta kunmetajxo el la ekzercaro
+
 Revision 1.84  2017/12/19 17:10:25  revo
 Michel Cantigneaux: "ir/il/o" fundamenta kunmetajxo el la U.V.
 
@@ -2209,9 +2212,6 @@ Alain Gerard: +klr
 
 Revision 1.77  2015/03/08 14:10:13  revo
 Alain Gerard: +fnt
-
-Revision 1.76  2015/03/08 09:10:16  revo
-Alain Gerard: +gra + fnt
 
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kopul.xml,v 1.4 2015/09/25 22:10:16 revo Exp $">
+<art mrk="$Id: kopul.xml,v 1.6 2018/09/01 12:10:16 revo Exp $">
 <kap>
     <rad>kopul</rad>/o <fnt><bib>PIV3</bib></fnt>
 </kap>
@@ -10,27 +10,56 @@
   <kap><tld/>o</kap>
   <snc>
     <uzo tip="fak">GRA</uzo>
-    <ref tip="sin" cel="lig.0verbo">ligverbo</ref>
+    <dif>
+      <ref tip="sin" cel="lig.0verbo">Ligverbo</ref>:
+      <ekz>
+        ekzistas lingvoj, kiuj entute ne havas tiajn verbojn a&ubreve; uzas nur 
+        la <tld/>on: &leftquot;la telero (estas) en la korbo&#8221;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Kirilo Brosch</aut>
+          <vrk><url ref="http://www.monato.net/2011/010485.php">Spaco kaj lingvo &ccirc;u facila afero?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trdgrp lng="cs">
     <trd>kopula</trd>,
     <trd>spona</trd>,
     <trd>sponov&eacute; sloveso</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd>Bindeverb</trd>,
+    <trd>Kopulaverb</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>copular verb</trd>,
     <trd>copulative</trd>, <trd>copula</trd>
   </trdgrp>
   <trdgrp lng="fr">
-  <trd>copule</trd>,
-  <trd>verbe d'&eacute;tat</trd>
-</trdgrp>
+    <trd>copule</trd>,
+    <trd>verbe d'&eacute;tat</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kopula</trd>,
+    <trd>&lstroke;&aogonek;cznik</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>copul&abreve;</trd>,
+    <trd>verb copulativ</trd>
+  </trdgrp>
   <trd lng="sk">sponov&eacute; sloveso</trd>
 </drv>
 </art>
 
 <!--
 $Log: kopul.xml,v $
+Revision 1.6  2018/09/01 12:10:16  revo
+Wolfram Diestel: +ekz, germ trd
+
+Revision 1.5  2018/08/29 22:10:18  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.4  2015/09/25 22:10:16  revo
 Cindy Moon McKee: +trd en
 

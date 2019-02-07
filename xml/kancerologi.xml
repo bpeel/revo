@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kancerologi.xml,v 1.4 2015/07/04 08:37:36 revo Exp $">
+<art mrk="$Id: kancerologi.xml,v 1.5 2018/12/16 21:10:15 revo Exp $">
 <kap>
   <rad>kancerologi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -32,20 +32,25 @@
     <trd>oncologia</trd>,
     <trd>cancerologia</trd>
   </trdgrp>
-  <trd lng="cs">lékařský obor nádorových onemocnění</trd>
+  <trd lng="cs">l&eacute;ka&rcaron;sk&yacute; obor n&aacute;dorov&yacute;ch onemocn&ecaron;n&iacute;</trd>
   <trdgrp lng="fr">
     <trd>canc&eacute;rologie</trd>,
     <trd>oncologie</trd>
   </trdgrp>
+  <trd lng="pl">onkologia</trd>     
+  <trd lng="ro">oncologie</trd>
   <trdgrp lng="sk">
-    <trd>kancerológia</trd>,
-    <trd>výskum rakoviny</trd>
+    <trd>kancerol&oacute;gia</trd>,
+    <trd>v&yacute;skum rakoviny</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: kancerologi.xml,v $
+Revision 1.5  2018/12/16 21:10:15  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.4  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 

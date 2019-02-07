@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: efemer2.xml,v 1.11 2017/06/24 23:10:12 revo Exp $">
+<art mrk="$Id: efemer2.xml,v 1.12 2018/08/31 16:10:19 revo Exp $">
 <kap>
   <rad>efemered</rad>/oj
 </kap>
@@ -17,7 +17,8 @@
       lst="voko:zoologiaj_familioj">Familio</ref> el la ordo
       <ref tip="malprt" cel="efemer.0oformaj">efemeroformaj
       insektoj</ref>
-      (<trd lng="la">Ephemeridae</trd>).
+      (<trd lng="la">Ephemeridae</trd>), kiuj en la lasta stadio ne plu
+      prenas nutra&jcirc;on.
     </dif>
   </snc>
   <trd lng="de">Eintagsfliegen</trd>
@@ -36,6 +37,9 @@
 
 <!--
 $Log: efemer2.xml,v $
+Revision 1.12  2018/08/31 16:10:19  revo
+Wolfram Diestel: precizigis dif
+
 Revision 1.11  2017/06/24 23:10:12  revo
 Vito Redsky: +trd pl
 
@@ -55,8 +59,5 @@ Revision 1.6  2002/06/29 17:47:45  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.5  2002/05/20 16:34:30  revo
-Karlo Freeman: +trd=en
-
-Revision 1.4  2002/05/17 16:33:29  revo
 -->
 </vortaro>

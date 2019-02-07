@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: luk.xml,v 1.20 2017/07/24 08:10:14 revo Exp $">
+<art mrk="$Id: luk.xml,v 1.22 2018/08/24 15:15:13 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>luk</rad>/o <fnt><bib>PV</bib></fnt>
@@ -39,7 +39,8 @@
     <trdgrp lng="es">
       <trd>claraboya</trd>,
       <trd>lucera</trd>,
-      <trd>lucernario</trd>
+      <trd>lucernario</trd>,
+      <trd>tragaluz</trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>oculus</trd>,    
@@ -68,7 +69,7 @@
   </snc>
   <trdgrp lng="cs">
     <trd>st&rcaron;e&scaron;n&iacute; okno</trd>,
-    <trd>sv&#65533;&#8250;tl&iacute;k</trd>,
+    <trd>sv&ecaron;tl&iacute;k</trd>,
     <trd>vik&yacute;&rcaron;</trd>
   </trdgrp>
   <trdgrp lng="en">
@@ -107,6 +108,12 @@
 </art>
 <!--
 $Log: luk.xml,v $
+Revision 1.22  2018/08/24 15:15:13  revo
+kor. ecaron en la chehha
+
+Revision 1.21  2018/05/29 02:10:14  revo
+Dusan Juretic: +trd es
+
 Revision 1.20  2017/07/24 08:10:14  revo
 Sebastian Cyprych: +trd pl
 
@@ -126,8 +133,5 @@ Revision 1.15  2012/07/03 10:10:10  revo
 Axel Rousseau: +trd fr
 
 Revision 1.14  2009/02/19 20:26:20  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.13  2008/08/29 16:30:24  revo
 -->
 </vortaro>

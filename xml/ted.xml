@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ted.xml,v 1.20 2015/11/09 06:10:16 revo Exp $">
+<art mrk="$Id: ted.xml,v 1.22 2018/11/06 15:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ted</rad>/i <fnt><bib>PV</bib></fnt>
@@ -51,6 +51,7 @@
   <trd lng="en">bore</trd>
   <trdgrp lng="es">
     <trd>aburrir</trd>,
+    <trd>dar el rollo</trd>,
     <trd>fastidiar</trd>
   </trdgrp>
   <trdgrp lng="fr">
@@ -108,6 +109,12 @@
     <trd>tedious</trd>,
     <trd>boring</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>tedioso</trd>,
+    <trd>fastidioso</trd>,
+    <trd>pesado</trd>,
+    <trd>cargante</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>ennuyeux</trd>,
     <trd>lassant</trd>
@@ -140,6 +147,10 @@
   <trdgrp lng="en">
     <trd>tedium</trd>,
     <trd>boredom</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>rollo</trd>,
+    <trd>tedio</trd>
   </trdgrp>
   <trd lng="fr">lassitude</trd>
   <trdgrp lng="pl">
@@ -178,6 +189,10 @@
     <trd>to weary</trd>,
     <trd>become bored</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd><ind>cansar</ind>se<klr> (de)</klr></trd>,
+    <trd><ind>aburrir</ind>se<klr> (de)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>lasser</ind><klr> (de)</klr></trd>,
     <trd>en avoir <ind>marre</ind><klr> (de)</klr></trd>
@@ -187,6 +202,12 @@
 </art>
 <!--
 $Log: ted.xml,v $
+Revision 1.22  2018/11/06 15:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.21  2018/11/04 08:10:14  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.20  2015/11/09 06:10:16  revo
 Sebastian Cyprych: +trd pl
 
@@ -203,11 +224,5 @@ Revision 1.16  2015/02/14 07:10:15  revo
 Alain Gerard: +trd (fr)
 
 Revision 1.15  2014/12/25 21:10:12  revo
-Jeromo Vasxe: + ~a ~o ~igxi
-
-Revision 1.14  2014/03/01 09:10:13  revo
-Agustin Garcia Lopez: +trd(es)
-
-Revision 1.13  2008/10/30 19:25:04  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kulp.xml,v 1.22 2017/10/29 17:10:13 revo Exp $">
+<art mrk="$Id: kulp.xml,v 1.24 2018/06/08 03:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kulp</rad>/a <fnt><bib>PV</bib></fnt>
@@ -11,7 +11,8 @@
   <kap><ofc>*</ofc><tld/>a</kap>
   <snc mrk="kulp.0a.JUR">
     <dif>
-      Intence a&ubreve; konscie plenuminta ion ripro&ccirc;indan a&ubreve; punindan:
+      Intence a&ubreve; konscie plenuminta ion ripro&ccirc;indan
+      a&ubreve; punindan:
       <ekz>
         <tld/>a pri eraro, krimo, je forgeso;
       </ekz>
@@ -32,6 +33,7 @@
   </trdgrp>
   <trd lng="de">schuldig</trd>
   <trd lng="en">guilty</trd>
+  <trd lng="es">culpable<klr> (adj.)</klr></trd>
   <trdgrp lng="fr">
     <trd>coupable</trd>,
     <trd>fautif</trd>
@@ -46,6 +48,12 @@
     <trd>delituoso</trd>,
     <trd>faltoso</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>winny</trd>,
+    <trd>winien</trd>,
+    <trd>grzeszny</trd>
+  </trdgrp>
+  <trd lng="ro">vinovat</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_i;&c_n;&c_o;&c_v;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_v;&c_i;&c_n;&c_o;&c_v;&c_a;&c_t;&c_y;&c_j;</trd>
@@ -68,7 +76,8 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_b;&c_y;&c_c;&c_mol; <ind>&c_v;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_t;&c_y;&c_m;</ind></trd>
+  <trd lng="be">&c_b;&c_y;&c_c;&c_mol;
+  <ind>&c_v;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_t;&c_y;&c_m;</ind></trd>
   <trd lng="ca"><ind>&eacute;sser</ind> culpable</trd>
   <trdgrp lng="cs">
     <trd>b&yacute;t vinen</trd>,
@@ -90,7 +99,13 @@
     <trd>b&udblac;n&ouml;s</trd>
   </trdgrp>
   <trd lng="nl">schuldig zijn</trd>
-  <trd lng="ru">&c_b;&c_y;&c_t;&c_mol; &c_v;&c_i;&c_n;&c_o;&c_v;&c_a;&c_t;&c_y;&c_m;</trd>
+  <trdgrp lng="pl">
+    <trd>winnym by&cacute;</trd>,
+    <trd>zawini&cacute;</trd>
+  </trdgrp>
+  <trd lng="ro">vinovat de</trd>
+  <trd lng="ru">&c_b;&c_y;&c_t;&c_mol;
+  &c_v;&c_i;&c_n;&c_o;&c_v;&c_a;&c_t;&c_y;&c_m;</trd>
   <trdgrp lng="sk">
     <trd>by&tcaron; vinn&yacute;</trd>,
     <trd>previni&tcaron; sa</trd>
@@ -170,6 +185,8 @@
     <trd>b&udblac;n</trd>
   </trdgrp>
   <trd lng="nl">schuld</trd>
+  <trd lng="pl">wina</trd>     
+  <trd lng="ro">eroare</trd>
   <trd lng="ru">&c_v;&c_i;&c_n;&c_a;</trd>
   <trd lng="sk">previnenie</trd>
   <trd lng="sv">skuld</trd>
@@ -216,6 +233,15 @@
     <trd>gyan&uacute;s&iacute;t</trd>
   </trdgrp>
   <trd lng="nl">beschuldigen</trd>
+  <trdgrp lng="pl">
+    <trd>obwinia&cacute;</trd>,
+    <trd>wini&cacute;</trd>,
+    <trd>oskar&zdot;a&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>acuza</trd>,
+    <trd>s&abreve; vin&abreve;</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_o;&c_b;&c_v;&c_i;&c_n;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_i;&c_n;&c_i;&c_t;&c_mol;</trd>
@@ -242,11 +268,20 @@
     <trd>provinilec</trd>,
     <trd>vin&iacute;k</trd>
   </trdgrp>
+  <trd lng="es">culpable<klr> (subst.)</klr></trd>
   <trdgrp lng="fr">
     <trd>coupable<klr> (subst.)</klr></trd>,
     <trd>fautif<klr> (subst.)</klr></trd>
   </trdgrp>
   <trd lng="en">culprit</trd>
+  <trdgrp lng="pl">
+    <trd>winowajca</trd>,
+    <trd>winna osoba</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>delincvent</trd>,
+    <trd>g&abreve;sit vinovat</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>delikvent</trd>,
     <trd>vinn&iacute;k</trd>
@@ -284,6 +319,8 @@
     <trd>&aacute;rtatlan</trd>
   </trdgrp>
   <trd lng="nl">onschuldig</trd>
+  <trd lng="pl">niewinny</trd>     
+  <trd lng="ro">nevinovat</trd>
   <trdgrp lng="ru">
     <trd>&c_n;&c_je;&c_v;&c_i;&c_n;&c_o;&c_v;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_b;&c_je;&c_z;&c_v;&c_i;&c_n;&c_n;&c_y;&c_j;</trd>
@@ -318,6 +355,11 @@
   </trdgrp>
   <trd lng="en">innocence</trd>
   <trd lng="fr">innocence</trd>
+  <trd lng="pl">niewinno&sacute;&cacute;</trd> 
+  <trdgrp lng="ro">
+    <trd>nevinov&abreve;&#539;ie</trd>,
+    <trd>integritate</trd>
+  </trdgrp>
   <trd lng="sk">nevina</trd>
 </drv>
 
@@ -342,7 +384,8 @@
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_a;&c_c;&c_mol;</trd>,
-    <trd>&c_z;&c_mol;&c_n;&c_ja;&c_c;&c_mol; <ind>&c_a;&c_b;&c_v;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
+    <trd>&c_z;&c_mol;&c_n;&c_ja;&c_c;&c_mol;
+    <ind>&c_a;&c_b;&c_v;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
   </trdgrp>
   <trdgrp lng="ca">
     <trd>exculpar</trd>,
@@ -370,9 +413,15 @@
     <trd>menteget</trd>
   </trdgrp>
   <trd lng="nl">verontschuldigen</trd>
+  <trd lng="pl">uniewinnia&cacute;</trd>
+  <trdgrp lng="ro">
+    <trd>achita</trd>,
+    <trd>s&abreve;-mi cer scuze</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_o;&c_p;&c_r;&c_a;&c_v;&c_d;&c_a;&c_t;&c_mol;</trd>,
-    <trd>&c_s;&c_n;&c_ja;&c_t;&c_mol; &c_o;&c_b;&c_v;&c_i;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+    <trd>&c_s;&c_n;&c_ja;&c_t;&c_mol;
+    &c_o;&c_b;&c_v;&c_i;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>ospravedlni&tcaron;</trd>,
@@ -397,6 +446,8 @@
   </snc>
   <trd lng="fr">innocent<klr> (subst.)</klr></trd>
   <trd lng="en">innocent<klr> (subst.)</klr></trd>
+  <trd lng="pl">niewinny <klr>(osoba)</klr></trd>     
+  <trd lng="ro">nevinova&#539;ii</trd>
 </drv>
 
 <drv mrk="kulp.0ede">
@@ -406,8 +457,10 @@
     <dif>
       Pro <tld/>o de:
       <ekz>
-        malsani&gcirc;is 300 000 &ccirc;inaj infanoj pro melamino en sekigita 
-        lakto, <tld/>e de fabrikistoj, kiuj deziris rapide ri&ccirc;i&gcirc;i
+        malsani&gcirc;is 300 000 &ccirc;inaj infanoj pro melamino en
+        sekigita 
+        lakto, <tld/>e de fabrikistoj, kiuj deziris rapide
+        ri&ccirc;i&gcirc;i
         <fnt>
           <aut>J. Werner</aut>,
           <vrk><url
@@ -423,10 +476,17 @@
       <trd>by the fault of</trd>
       <trd>because of</trd>
   </trdgrp>
+  <trd lng="pl">z winy</trd> 
 </drv>
 </art>
 <!--
 $Log: kulp.xml,v $
+Revision 1.24  2018/06/08 03:10:15  revo
+Dusan Juretic: +trd es
+
+Revision 1.23  2018/02/18 21:10:15  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.22  2017/10/29 17:10:13  revo
 Michel Cantigneaux: Angla : tradukajxoj
 
@@ -443,11 +503,5 @@ Revision 1.18  2015/06/13 17:10:23  revo
 Jeromo Vasxe: + sen~ulo
 
 Revision 1.17  2015/01/10 06:10:57  revo
-Jeromo Vasxe: + ~ulo sen~eco + kk trd fr
-
-Revision 1.16  2011/11/22 09:10:11  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.15  2010/07/04 16:30:25  revo
 -->
 </vortaro>

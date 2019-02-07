@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: odise.xml,v 1.17 2015/07/04 08:37:40 revo Exp $">
+<art mrk="$Id: odise.xml,v 1.18 2018/05/30 20:10:15 revo Exp $">
 <kap><rad>Odise</rad>/o <fnt><bib>PIV1</bib></fnt></kap>
 <drv mrk="odise.0o">
   <kap><tld/>o</kap>
@@ -51,9 +51,9 @@
   <snc mrk="odise.0ado.BELE">
     <uzo tip="fak">BELE</uzo>
     <dif>
-      Antikva greklingva eposo 24-&ccirc;apitra, sekvo de <ref tip="vid"
-      cel="iliad.0o">Iliado</ref>, temanta pri la aventura
-      hejmen&scirc;ipado de <tld/>o post la milito kontra&ubreve; Trojo,
+      Antikva greklingva epopeo, sekvo de <ref tip="vid"
+      cel="iliad.0o">Iliado</ref>, rakontanta la aventuran
+      hejmen&scirc;ipadon de <tld/>o post la milito kontra&ubreve; Trojo,
       atribuita al
       <ref tip="vid" cel="homer.0o">Homero</ref>.
     </dif>
@@ -67,11 +67,11 @@
         aperis:
         <ctl>3001, La lasta <tld/>ado</ctl>
         <fnt>
-          <aut>Anne Tilmont</aut>:
+          <aut>A. Tilmont</aut>
           <vrk>Arthur C. Clarke, kosmopolita civitano kun okulo al la
-            universo</vrk>,
-          <bib>Monato</bib>, 
-          <lok>jaro 1998a, numero 4a, p. 9a</lok>
+            universo</vrk>
+          <bib>Monato</bib>
+          <lok>1998:4, p. 9a</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -94,6 +94,9 @@
 </art>
 <!--
 $Log: odise.xml,v $
+Revision 1.18  2018/05/30 20:10:15  revo
+Jeromo Vasxe: eposo -> epopeo
+
 Revision 1.17  2015/07/04 08:37:40  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -113,14 +116,5 @@ Revision 1.12  2009/11/01 17:30:34  revo
 Antonio Codazzi: +trd it
 
 Revision 1.11  2006/09/14 16:31:38  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.10  2006/04/17 16:34:29  revo
-Tulio Flores: +tr pt
-
-Revision 1.9  2006/01/09 17:35:12  revo
-Raul Salinas Monteagudo: +trd es
-
-Revision 1.8  2005/12/05 17:31:54  revo
 -->
 </vortaro>

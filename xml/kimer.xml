@@ -2,15 +2,32 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kimer.xml,v 1.13 2017/09/15 16:10:17 revo Exp $">
+<art mrk="$Id: kimer.xml,v 1.14 2018/08/31 20:10:19 revo Exp $">
 <kap>
   <rad>kimer</rad>/o
+  <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="kimer.0o">
   <kap><tld/>o</kap>
-  <fnt><bib>PV</bib></fnt>
   <snc>
-    <ref tip="dif" cel="hximer.0o">&hcirc;imero</ref>
+    <dif>
+      <ref tip="dif" cel="hximer.0o">&Hcirc;imero</ref>:
+      <ekz>
+        mi volas revi pri amo kaj <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Geraldo Mattos</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/006863.html">Kio estas Amo?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de la katedralo <nom>Notre-Dame</nom> de Parizo rigarde al la <esc>grandurbo</esc>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=6664">Nia Damo de Parizo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="be">&c_h;&c_ib;&c_m;&c_e;&c_r;&c_a;</trd>
   <trd lng="bg">&c_h;&c_i;&c_m;&c_je;&c_r;&c_a;</trd>
@@ -45,6 +62,9 @@
 </art>
 <!--
 $Log: kimer.xml,v $
+Revision 1.14  2018/08/31 20:10:19  revo
+Wolfram Diestel: +ekz-oj
+
 Revision 1.13  2017/09/15 16:10:17  revo
 Vito Redsky: +ald trd pl
 
@@ -64,8 +84,5 @@ Revision 1.8  2009/07/07 16:30:41  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.7  2004/12/13 17:32:35  revo
-Marc Bavant: +trd fr, +fnt
-
-Revision 1.6 2004/05/14 17:47:38 revo
 -->
 </vortaro>

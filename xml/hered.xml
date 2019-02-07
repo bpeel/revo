@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hered.xml,v 1.27 2015/07/04 08:37:35 revo Exp $">
+<art mrk="$Id: hered.xml,v 1.29 2018/03/12 15:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hered</rad>/i <fnt><bib>PV</bib></fnt>
@@ -90,9 +90,9 @@
     <trd>susita&ntilde;</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>dědit</trd>,
-    <trd>podědit</trd>,
-    <trd>zdědit</trd>
+    <trd>d&ecaron;dit</trd>,
+    <trd>pod&ecaron;dit</trd>,
+    <trd>zd&ecaron;dit</trd>
   </trdgrp>
   <trd lng="de">erben</trd>
   <trd lng="el">&kappa;&lambda;&eta;&rho;&omikron;&ny;&omikron;&my;&omega_ton;</trd>
@@ -116,8 +116,8 @@
     <trd>&c_u;&c_n;&c_a;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>podediť</trd>,
-    <trd>zdediť</trd>
+    <trd>podedi&tcaron;</trd>,
+    <trd>zdedi&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -144,32 +144,49 @@
       <ekz>
         <uzo tip="stl">FIG</uzo>
         loto agrabla trafis min, &ccirc;arma estas mia <tld/>o
-        <fnt><bib>MT</bib>, <lok>&Psa; 16:6</lok></fnt>;
+        <fnt><bib>MT</bib>, <lok>&Psa; 16:6</lok></fnt>.
       </ekz>
+    </dif>
+  </snc>
+  <snc mrk="hered.0ajxo.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Publika a&ubreve; kolektiva valora&jcirc;o postlasita de anta&ubreve;aj generacioj:
       <ekz>
         <uzo tip="stl">FIG</uzo>
         tiu le&gcirc;o estas nur <tld/>a&jcirc;o de la anta&ubreve;aj
-        registaroj.
+        registaroj;
+      </ekz>
+      <ekz>
+        la protekto de kultura <tld/>a&jcirc;o ne povas
+        esti apartigita de la protektado de homaj
+        vivoj
+        <fnt>
+          <aut>I. Bokova, trad. R. Corsetti</aut>
+          <vrk>Redakcie</vrk>
+          <lok><url ref="https://uea.org/l/?prenu=Unesko_Kuriero_3_17">
+          Unesko-kuriero, 2017-10 &gcirc;is 12 (3)</url></lok>
+        </fnt>.
       </ekz>
     </dif>
-    <refgrp tip="vid">
-      <ref cel="las">postlasa&jcirc;o</ref>,
-      <ref cel="rest.0ajxo">resta&jcirc;o</ref>.
-    </refgrp>
-    <rim>
-      La formo <ctl><tld/>o</ctl> estas tre ofta en la Biblio, kun la
-      indikita senco, sed foje anka&ubreve; kun senco de ago kiel en
-      <ctl>rajto de <tld/>o</ctl>.
-    </rim>
   </snc>
+  <refgrp tip="vid">
+    <ref cel="las.post0i">postlasa&jcirc;o</ref>,
+    <ref cel="rest.0ajxo">resta&jcirc;o</ref>.
+  </refgrp>
+  <rim>
+    La formo <ctl><tld/>o</ctl> estas tre ofta en la Biblio, kun la
+    indikita senco, sed foje anka&ubreve; kun senco de ago kiel en
+    <ctl>rajto de <tld/>o</ctl>.
+  </rim>
   <trd lng="be">&c_s;&c_p;&c_a;&c_d;&c_ch;&c_y;&c_n;&c_a;</trd>
   <trdgrp lng="br">
     <trd>h&ecirc;rezh</trd>,
     <trd>susit</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>dědictví <klr>(majetek)</klr></trd>,
-    <trd>pozůstalost</trd>
+    <trd>d&ecaron;dictv&iacute; <klr>(majetek)</klr></trd>,
+    <trd>poz&uring;stalost</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd><klr>(das)</klr> Erbe</trd>,
@@ -206,8 +223,8 @@
     <trd>&c_n;&c_a;&c_s;&c_l;&c_je;&c_d;&c_i;&c_je;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>dedičstvo</trd>,
-    <trd>pozostalosť</trd>
+    <trd>dedi&ccaron;stvo</trd>,
+    <trd>pozostalos&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -235,10 +252,6 @@
         <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 0</lok></fnt>;
       </ekz>
       <ekz>
-        <uzo tip="fak">MED</uzo>
-        <tld/>a malsano <klr>(havanta genetikajn ka&ubreve;zojn)</klr>;
-      </ekz>
-      <ekz>
         <uzo tip="fak">EKON</uzo>
         <ind><tld/>aj impostoj</ind> <klr>(pagataj surbaze de la
         hereditaj
@@ -259,9 +272,18 @@
       </ekz>
     </dif>
   </snc>
+  <snc mrk="hered.0a.GNT">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Biologie transdonata tra la generacioj:
+      <ekz>
+        <tld/>a malsano <klr>(havanta genetikajn ka&ubreve;zojn)</klr>.
+      </ekz>
+    </dif>
+  </snc>
   <trd lng="be">&c_s;&c_p;&c_a;&c_d;&c_ch;&c_y;&c_n;&c_n;&c_y;</trd>
   <trd lng="br">h&ecirc;rezhel</trd>
-  <trd lng="cs">dědičný</trd>
+  <trd lng="cs">d&ecaron;di&ccaron;n&yacute;</trd>
   <trdgrp lng="de">
     <trd>Erb-</trd>,
     <trd>erblich</trd>
@@ -278,7 +300,7 @@
   <trd lng="pl">dziedziczny</trd>
   <trd lng="pt">heredit&aacute;rio</trd>
   <trd lng="ru">&c_n;&c_a;&c_s;&c_l;&c_je;&c_d;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
-  <trd lng="sk">dedičný</trd>
+  <trd lng="sk">dedi&ccaron;n&yacute;</trd>
 </drv>
 
 <drv mrk="hered.0eco">
@@ -322,11 +344,11 @@
     </refgrp>
   </snc>
   <trdgrp lng="cs">
-    <trd>dědičnost</trd>,
+    <trd>d&ecaron;di&ccaron;nost</trd>,
     <trd>heredita</trd>
   </trdgrp>
   <trd lng="fr">h&eacute;r&eacute;dit&eacute;</trd>
-  <trd lng="sk">dedičnosť</trd>
+  <trd lng="sk">dedi&ccaron;nos&tcaron;</trd>
 </drv>
 
 <drv mrk="hered.0igi">
@@ -360,8 +382,8 @@
   </trdgrp>
   <trd lng="br">legadi&ntilde;</trd>
   <trdgrp lng="cs">
-    <trd>odkázat dědictví</trd>,
-    <trd>zůstavit dědictví</trd>
+    <trd>odk&aacute;zat d&ecaron;dictv&iacute;</trd>,
+    <trd>z&uring;stavit d&ecaron;dictv&iacute;</trd>
   </trdgrp>
   <trd lng="de">vererben</trd>
   <trd lng="en">bequeath</trd>
@@ -389,7 +411,7 @@
     <trd>&c_s;&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; <ind>&c_n;&c_a;&c_s;&c_l;&c_je;&c_d;&c_n;&c_i;&c_k;&c_o;&c_m;</ind><klr>
     (&c_k;&c_o;&c_g;&c_o;-&c_l;.)</klr></trd>
   </trdgrp>
-  <trd lng="sk">odkázať dedičstvo</trd>
+  <trd lng="sk">odk&aacute;za&tcaron; dedi&ccaron;stvo</trd>
 </drv>
 
 <drv mrk="hered.pri0a">
@@ -436,7 +458,7 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_z;&c_b;&c_a;&c_v;&c_ib;&c_c;&c_mol; <ind>&c_s;&c_p;&c_a;&c_d;&c_ch;&c_y;&c_n;&c_y;</ind></trd>
   <trd lng="br">dish&ecirc;ria&ntilde;</trd>
-  <trd lng="cs">vydědit</trd>
+  <trd lng="cs">vyd&ecaron;dit</trd>
   <trd lng="de">enterben</trd>
   <trd lng="el">&alfa;&pi;&omikron;&kappa;&lambda;&eta;&rho;&omega_ton;&ny;&omega;</trd>
   <trdgrp lng="en">
@@ -455,11 +477,17 @@
   <trd lng="pl">wydziedziczy&cacute;</trd>
   <trd lng="pt">deserdar</trd>
   <trd lng="ru">&c_l;&c_i;&c_sh;&c_i;&c_t;&c_mol; <ind>&c_n;&c_a;&c_s;&c_l;&c_je;&c_d;&c_s;&c_t;&c_v;&c_a;</ind></trd>
-  <trd lng="sk">vydediť</trd>
+  <trd lng="sk">vydedi&tcaron;</trd>
 </drv>
 </art>
 <!--
 $Log: hered.xml,v $
+Revision 1.29  2018/03/12 15:10:14  revo
+Jeromo Vasxe: ~a apartig snc genetika
+
+Revision 1.28  2018/03/06 17:10:15  revo
+Jeromo Vasxe: ~ajxo: + snc fig
+
 Revision 1.27  2015/07/04 08:37:35  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -476,17 +504,5 @@ Revision 1.23  2009/09/10 16:32:08  revo
 Antonio Codazzi: +trd it
 
 Revision 1.22  2005/06/26 16:35:02  revo
-Alan ar Gall: +trd br
-
-Revision 1.21  2004/04/24 19:18:46  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.20  2003/11/26 17:31:54  revo
-Jeromo Vasxe: kor. ortog. 1 trd fr, + mrk
-
-Revision 1.19  2003/09/16 16:31:10  revo
-Yury Finkel: +trd ru
-
-Revision 1.18  2003/08/17 17:32:01  revo
 -->
 </vortaro>

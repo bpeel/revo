@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: androl1.xml,v 1.2 2017/07/31 06:10:13 revo Exp $">
+<art mrk="$Id: androl1.xml,v 1.3 2018/08/31 19:10:16 revo Exp $">
 <kap>
   <rad>andrologi</rad>/o
 </kap>
@@ -11,9 +11,18 @@
   <snc mrk="androl1.0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Medicina fako, kiu studas la <ref tip="vid"
+      Medicina <ref tip="super" cel="fak.0o.brancxo">fako</ref>, 
+      kiu studas la <ref tip="vid"
       cel="fiziol1.0o">fiziologion</ref> kaj la <ref tip="vid"
       cel="patolo.0o">patologion</ref> de viraj seksorganoj.
+      <ekz>
+        la <tld/>o <klr>[&#8230;]</klr> zorgas pri la studo, analizo, kaj
+        scienca esplorado de &ccirc;iu ajn aspekto rilata al la homa seksa funkciado kaj reproduktado vira
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=517553">Andrologio</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="de">Andrologie</trd>
@@ -62,6 +71,9 @@
 
 <!--
 $Log: androl1.xml,v $
+Revision 1.3  2018/08/31 19:10:16  revo
+Wolfram Diestel: +ekz
+
 Revision 1.2  2017/07/31 06:10:13  revo
 Robin van der Vliet: andrologiisto
 

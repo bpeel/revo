@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kvik.xml,v 1.5 2015/07/04 08:37:38 revo Exp $">
+<art mrk="$Id: kvik.xml,v 1.6 2018/10/28 23:10:17 revo Exp $">
 <kap>
   <rad>kvik</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -23,17 +23,22 @@
   </snc>
   <trdgrp lng="cs">
     <trd>cvrlikat</trd>,
-    <trd>kvičet</trd>
+    <trd>kvi&ccaron;et</trd>
   </trdgrp>
   <trd lng="fr">couiner</trd>
   <trd lng="nl">piepen</trd>
+  <trd lng="pl">kwicze&cacute;</trd> 
   <trd lng="pt">piar</trd>
-  <trd lng="sk">kvičať</trd>
+  <trd lng="ro">sc&acirc;nci</trd>
+  <trd lng="sk">kvi&ccaron;a&tcaron;</trd>
 </drv>
 </art>
 
 <!--
 $Log: kvik.xml,v $
+Revision 1.6  2018/10/28 23:10:17  revo
+Vito Redsky: +trd pl  +trd ro
+
 Revision 1.5  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 

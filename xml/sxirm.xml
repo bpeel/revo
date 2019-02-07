@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxirm.xml,v 1.27 2017/07/10 07:10:19 revo Exp $">
+<art mrk="$Id: sxirm.xml,v 1.28 2018/05/15 04:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;irm</rad>/i <fnt><bib>PV</bib></fnt>
@@ -321,6 +321,7 @@
     <trd>expos&eacute;<klr> (au danger)</klr></trd>,
     <trd>sans protection</trd>
   </trdgrp>
+  <trd lng="nl">onbeschut</trd>
 </drv>
 
 <drv mrk="sxirm.faldo0ilo">
@@ -482,6 +483,9 @@
 </art>
 <!--
 $Log: sxirm.xml,v $
+Revision 1.28  2018/05/15 04:10:15  revo
+Bart Demeyere: +trd nl
+
 Revision 1.27  2017/07/10 07:10:19  revo
 Ian Dalton: +trd en
 
@@ -501,8 +505,5 @@ Revision 1.22  2012/10/05 08:10:09  revo
 Sergio Pokrovskij: + faldo~ilo
 
 Revision 1.21  2010/06/21 16:30:21  revo
-Guillem Sevilla: +trd ca
-
-Revision 1.20  2009/11/07 17:30:43  revo
 -->
 </vortaro>

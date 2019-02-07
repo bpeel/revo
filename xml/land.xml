@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: land.xml,v 1.64 2018/01/09 00:10:23 revo Exp $">
+<art mrk="$Id: land.xml,v 1.71 2018/08/21 03:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>land</rad>/o <fnt><bib>PV</bib></fnt>
@@ -213,6 +213,7 @@
     <trd>negara</trd>,
     <trd>negeri</trd>
   </trdgrp>
+  <trd lng="he">&alef;&resh;&ftsadi;</trd>
   <trd lng="ku">welat</trd>
   <trd lng="nl">land</trd>
   <trd lng="pl">kraj</trd>
@@ -228,7 +229,6 @@
   <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_n;&c_a;</trd>
   <trdgrp lng="th">
     <trd>&#3611;&#3619;&#3632;&#3648;&#3607;&#3624;</trd>,
-    <trd>&#3604;&#3636;&#3609;&#3649;&#3604;&#3609;</trd>
   </trdgrp>
   <trd lng="tp">ma</trd>
   <trd lng="vo">laned</trd>
@@ -455,11 +455,11 @@
     landanoj, la&ubreve; la sistemo "Lando-landano": <ekz>Usono-usonano</ekz>.
     Tiu unua kategorio entenas la grandan plimulton de la landnomoj. En
     la dua kategorio la baza radiko nomas genton a&ubreve; popolon. Oni formas
-    la nomon de la lando per la Fundamenta sufikso -uj/, la&ubreve; la sistemo
-    "homo-Homujo" (evitinde: *Homio*): <ekz>franco-Francujo (evitinde:
-    *Francio*)</ekz>. Tiu dua kategorio
-    koncernas nur malplimulton da landnomoj, kiu trovi&gcirc;as principe en
-    E&ubreve;ropo, sed anka&ubreve; en Azio kaj Afriko.
+    la nomon de la lando per la Fundamenta sufikso -uj/ a&ubreve; per la
+    sufikso -i/, la&ubreve; la sistemo "homo-Homujo" a&ubreve; "homo-Homio":
+    <ekz>franco-Francujo</ekz> a&ubreve; <ekz>franco-Francio</ekz>. Tiu dua
+    kategorio koncernas nur malplimulton da landnomoj, kiu trovi&gcirc;as
+    principe en E&ubreve;ropo, sed anka&ubreve; en Azio kaj Afriko.
     </rim>
     <rim num="2">
     En amba&ubreve; klasoj, egale &ccirc;u la radiko nomas landon a&ubreve; genton, la
@@ -1217,27 +1217,27 @@
 </art>
 <!--
 $Log: land.xml,v $
-Revision 1.64  2018/01/09 00:10:23  revo
-Vito Redsky: +trd pl +trd ro
+Revision 1.71  2018/08/21 03:10:14  revo
+Warut Bunprasert: +trd th
 
-Revision 1.63  2017/12/06 18:10:15  revo
-Damien Brucker: +klarigoj en rim
+Revision 1.70  2018/05/14 20:10:17  revo
+Benoit Soubeyran: +he
 
-Revision 1.62  2017/12/06 12:10:14  revo
-Damien Brucker: +rim2 cxe ~o
+Revision 1.69  2018/05/11 23:10:13  revo
+Robin van der Vliet: -i/ estas sufikso laux ReVo, kohereco inter ambaux
+artikoloj
 
-Revision 1.61  2017/11/23 21:10:14  revo
-Wolfram Diestel: prilaboris ekz-ojn, aliaj redaktoj i.a. forigo de tro
-leksikonaj informoj
+Revision 1.68  2018/05/11 15:10:15  revo
+Damien Brucker: Korekto cxe rim1: -i/ ne estas sufikso (sed nur litero
+aux finajxo)
 
-Revision 1.60  2016/12/19 13:10:11  revo
-Damien Brucker: +citiloj
+Revision 1.67  2018/05/10 15:10:15  revo
+Robin van der Vliet: Malfaro de preskriba malfaro, ReVo estas priskriba
+vortaro de gxenerala lingvouzo
 
-Revision 1.59  2016/12/18 10:10:13  revo
-Damien Brucker: +rim cxe ~o
-
-Revision 1.58  2016/12/05 09:10:13  revo
-Damien Brucker: +ekz en rim
+Revision 1.66  2018/04/26 20:10:19  revo
+Damien Brucker: rim cxe ~nomo: reveno al la origina, cxar gxi tute
+respektas la Fundamento
 
 -->
 </vortaro>

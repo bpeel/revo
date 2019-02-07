@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ort.xml,v 1.37 2018/01/23 20:10:17 revo Exp $">
+<art mrk="$Id: ort.xml,v 1.39 2018/08/20 09:10:13 revo Exp $">
 <kap>
   <ofc>8</ofc>
-  <rad>ort</rad>/o
+  <rad>ort</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="ort.0o">
   <kap><tld/>o</kap>
@@ -24,28 +24,34 @@
         <fnt>
           <aut>Akademio de Esperanto</aut>,
           <vrk>Oka Oficiala Aldono al la Universala Vortaro</vrk>,
-          <lok><url ref="http://www.akademio-de-esperanto.org/aktoj/aktoj2/8oa.html">
+          <lok><url
+          ref="http://www.akademio-de-esperanto.org/aktoj/aktoj2/8oa.html">
           Oficiala Bulteno de la Akademio de Esperanto, 
           [1974] (10)</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        <ref tip="malprt" cel="angul.ort0o"><tld/>angulo</ref>: &ccirc;iuj kvar anguloj estas <tld/>oj
+        <ref tip="malprt" cel="angul.ort0o"><tld/>angulo</ref>: &ccirc;iuj
+        kvar anguloj estas <tld/>oj
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=197177">Kvarlatero</url></lok>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=197177">Kvarlatero</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         <ref tip="prt" cel="gradus.0o.unuo">graduso<sncref/></ref>
-        estas <klr>[&#8230;]</klr> mezurunuo por anguloj, egala al centono de <tld/>o
+        estas <klr>[&#8230;]</klr> mezurunuo por anguloj, egala al centono de
+        <tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=37220">Graduso</url></lok>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=37220">Graduso</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        lumigis &gcirc;in malgrandaj fenestroj en la muroj kaj granda <tld/>angula truo en la plafono
+        lumigis &gcirc;in malgrandaj fenestroj en la muroj kaj granda
+        <tld/>angula truo en la plafono
         <fnt>
           <bib>Far1</bib>
           <lok>&Ccirc;apitro VI</lok>
@@ -86,16 +92,19 @@
         unu angulo estas <tld/>a;
       </ekz>
       <ekz>
-        se en triangulo unu el anguloj estas <tld/>a, tiam la aliaj du anguloj estas akutaj
+        se en triangulo unu el anguloj estas <tld/>a, tiam la aliaj du
+        anguloj estas akutaj
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=4167">Teoremo</url></lok>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=4167">Teoremo</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="sin" cel="rekt.0a.orta">rekta.</ref>
     <trd lng="de">recht<klr tip="ind">(-er Winkel)</klr></trd>
     <trd lng="en">right<klr tip="ind"> (angle)</klr></trd>
+    <trd lng="es"><klr>(&aacute;ngulo) </klr><ind>recto</ind></trd>
     <trd lng="fr"><klr tip="ind">(angle) </klr><ind>droit</ind></trd>
     <trd lng="hu">kilencven <ind>fokos</ind><klr tip="ind">(sz&ouml;g)
     </klr></trd>    
@@ -133,6 +142,7 @@
     </rim>
     <trd lng="de">rechtwinklig</trd>
     <trd lng="en">right-angled</trd>
+    <trd lng="es">rect&aacute;ngulo<klr> (adj.)</klr></trd>
     <trd lng="fr">rectangle<klr tip="ind"> (adj.)</klr></trd>
     <trd lng="hu">der&eacute;ksz&ouml;g&udblac;</trd>    
     <trd lng="nl">rechthoekig</trd>
@@ -179,6 +189,7 @@
         <ctl>inter<tld/>a</ctl> en <fnt><bib>PIV1</bib></fnt>.
       </rim>
       <ref tip="sin" cel="perpen1.0a">perpendikulara.</ref>
+      <trd lng="es">perpendicular</trd>
       <trd lng="hu">mer&odblac;leges</trd>
       <trd lng="nl">loodrecht</trd>      
     </subsnc>
@@ -204,6 +215,10 @@
           <tld/>a al &ccirc;iu &gcirc;ia elemento.
         </ekz>
       </dif>
+      <trdgrp lng="es">
+        <trd>perpendicular</trd>,
+        <trd>ortogonal</trd>
+      </trdgrp>
       <trdgrp lng="hu">
         <trd>mer&odblac;leges</trd>,
         <trd>ortogon&aacute;lis</trd>
@@ -226,6 +241,10 @@
         <ctl><tld/>anto</ctl> en
         <fnt><bib>EKV</bib><lok>&para;317</lok></fnt>.
       </rim>
+      <trdgrp lng="es">
+        <trd>perpendicular</trd>,
+        <trd>ortogonal</trd>
+      </trdgrp>
       <trdgrp lng="hu">
         <trd>mer&odblac;leges</trd>,
         <trd>ortogon&aacute;lis</trd>
@@ -235,9 +254,14 @@
       <dif>
         <klr>(p.p. elemento <frm><k>x</k></frm> de
         <ref cel="spac.vektora0o">vektora spaco</ref> kaj elemento
-        <frm><k>f</k></frm> de ties <ref cel="dual.0o.MAT">dualo</ref>)</klr>
+        <frm><k>f</k></frm> de ties <ref
+        cel="dual.0o.MAT">dualo</ref>)</klr>
         Tiaj, ke <frm><k>f</k>(<k>x</k>) = 0</frm>.
       </dif>
+      <trdgrp lng="es">
+        <trd>perpendicular</trd>,
+        <trd>ortogonal</trd>
+      </trdgrp>
       <trdgrp lng="hu">
         <trd>mer&odblac;leges</trd>,
         <trd>ortogon&aacute;lis</trd>
@@ -260,11 +284,11 @@
       <trdgrp lng="en">
         <trd>orthogonal<klr tip="ind"> (matrix)</klr></trd>
       </trdgrp>
+      <trd lng="es"><klr>(matriz) </klr>ortogonal</trd>
       <trdgrp lng="fr">
         <trd><klr tip="amb">(matrice) </klr>orthogonale</trd>
       </trdgrp>
       <trd lng="hu">ortogon&aacute;lis<klr tip="amb">(m&aacute;trix) </klr></trd>   
-        
       <trdgrp lng="pl">
         <trd><klr tip="amb">(macierz) </klr>ortogonalna</trd>
       </trdgrp>
@@ -279,6 +303,10 @@
         <ref cel="projek.orta0o"><tld/>a projekcio</ref>,
         <ref cel="simetr.orta0o"><tld/>a simetrio</ref>.
       </refgrp>
+      <trdgrp lng="es">
+        <trd>proyecci&oacute;n <ind>ortogonal</ind></trd>,
+        <trd>simetr&iacute;a <ind>ortogonal</ind></trd>
+      </trdgrp>
     </subsnc>
     <trdgrp lng="de">
       <trd>perpendikular</trd>,
@@ -288,6 +316,10 @@
     <trdgrp lng="en">
       <trd>orthogonal</trd>,
       <trd>perpendicular</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>ortogonal</trd>,
+      <trd>perpendicular<klr tip="ind"> (adj.)</klr></trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>orthogonal</trd>,
@@ -336,20 +368,24 @@
       <ref tip="super" cel="rekt.0o.elementa">Rekto</ref> <tld/>a al iu
       alia figuro:
       <ekz>
-        la longo de la <tld/>anto de la pinto al la bazo nomi&gcirc;as <ref tip="sub" cel="alt.0o.MAT">alto</ref>
+        la longo de la <tld/>anto de la pinto al la bazo nomi&gcirc;as <ref
+        tip="sub" cel="alt.0o.MAT">alto</ref>
         de la piramido
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=41182">Piramido (geometrio)</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=41182">Piramido
+          (geometrio)</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         surfaca <ref tip="sub" cel="normal.0o">normalo</ref>
         (a&ubreve; normalo, a&ubreve; prefereble <tld/>anto) al surfaco estas 
-        tri-dimensia vektoro, kiu estas perpendikulara al la surfaco en donita punkto
+        tri-dimensia vektoro, kiu estas perpendikulara al la surfaco en
+        donita punkto
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=105885">Surfaca normalo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=105885">Surfaca
+          normalo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -360,7 +396,8 @@
     <rim>
       Tiu &ccirc;i termino aperis anka&ubreve; &ccirc;e Bricard,
       <fnt><bib>MatTerm</bib><lok>p. 27</lok></fnt>
-      sed kun malpli vasta senco, nome: <ref cel="alt.0o.MAT">alto</ref>.
+      sed kun malpli vasta senco, nome: <ref
+      cel="alt.0o.MAT">alto</ref>.
       La malnova senco konservi&gcirc;is &gcirc;is en <fnt><bib>PV</bib></fnt>.
     </rim>
   </snc>
@@ -375,6 +412,10 @@
     <trd>Normale</trd>
   </trdgrp>
   <trdgrp lng="en">
+    <trd>perpendicular</trd>,
+    <trd>normal</trd>
+  </trdgrp>
+  <trdgrp lng="es">
     <trd>perpendicular</trd>,
     <trd>normal</trd>
   </trdgrp>
@@ -445,6 +486,10 @@
     <trd>set square</trd>,
     <trd>triangle<klr tip="ind"> (set square)</klr></trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>cartab&oacute;n</trd>,
+    <trd>escuadra</trd>
+  </trdgrp>
   <trd lng="fr">&eacute;querre</trd>
   <trd lng="hu">der&eacute;ksz&ouml;g&udblac; <ind>vonalz&oacute;</ind></trd>
   <trd lng="pl">ekierka</trd>
@@ -465,19 +510,26 @@
   <snc mrk="ort.O0ilo.AST">
     <uzo tip="fak">AST</uzo>
     <dif>
-      Sud-hemisfera <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref>
+      Sud-hemisfera <ref tip="lst" cel="stel.0figuro"
+      lst="voko:stelfiguroj">stelfiguro</ref>
       (<trd lng="la">Norma</trd>):
       <ekz>
-        NGC 5999 estas malfermita stelamaso en konstelacio <tld lit="O"/>ilo
+        NGC 5999 estas malfermita stelamaso en konstelacio <tld
+        lit="O"/>ilo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=119128">NGC 5999</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=119128">NGC
+          5999</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Winkelma&szlig; Sternbild</trd>
   </snc>
   <trd lng="en">Norma</trd>
+  <trdgrp lng="es">
+    <trd>la Escuadra<klr tip="ind"> (constelaci&oacute;n)</klr></trd>,
+    <trd>Norma<klr tip="ind"> (constelaci&oacute;n)</klr></trd>
+  </trdgrp>
   <trd lng="fr">R&egrave;gle<klr tip="ind"> (constellation)</klr></trd>
 </drv>
 
@@ -509,6 +561,7 @@
   <trd lng="de">Mittelsenkrechte</trd>
   <trd lng="en">mid-perpendicular<klr tip="ind"> (of a
   segment)</klr></trd>
+  <trd lng="es">mediatriz<klr tip="ind"> (de un segmento)</klr></trd>
   <trd lng="fr">m&eacute;diatrice<klr tip="ind"> (d'un segment)</klr></trd>
   <trd lng="hu">szakaszfelel&odblac; <ind>mer&odblac;leges</ind></trd>
   <trd lng="pl">symetralna</trd>
@@ -520,6 +573,12 @@
 </art>
 <!--
 $Log: ort.xml,v $
+Revision 1.39  2018/08/20 09:10:13  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.38  2018/08/06 22:11:02  revo
+Michel Cantigneaux: aperas unue en PV (1934), oficiala en 8OA (1974)
+
 Revision 1.37  2018/01/23 20:10:17  revo
 Wolfram Diestel: ekz-oj
 
@@ -536,11 +595,5 @@ Revision 1.33  2011/12/10 01:10:10  revo
 Eduardo Navas: +trad es
 
 Revision 1.32  2011/12/02 10:10:08  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.31  2010/06/09 16:30:42  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.30  2010/01/18 17:31:46  revo
 -->
 </vortaro>

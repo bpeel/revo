@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cikatr.xml,v 1.23 2015/07/04 08:37:32 revo Exp $">
+<art mrk="$Id: cikatr.xml,v 1.24 2018/09/03 22:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>cikatr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -38,6 +38,10 @@
   <trd lng="el">&omikron;&ypsilon;&lambda;&eta_ton;</trd>
   <trd lng="en">scar</trd>
   <trd lng="es">cicatriz</trd>
+  <trdgrp lng="fa">
+    <trd>&a_j;&a_A;&f_y; &a_z;&a_kh;&a_m;</trd>,
+    <trd>&a_j;&a_w;&a_sh;&f_g;&a_A;&a_h;</trd>
+  </trdgrp>
   <trd lng="fr">cicatrice</trd>
   <trdgrp lng="hu">
     <trd>heg</trd>,
@@ -95,6 +99,9 @@
 </art>
 <!--
 $Log: cikatr.xml,v $
+Revision 1.24  2018/09/03 22:10:26  revo
+Behnam Tabatabai: +trd fa
+
 Revision 1.23  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -114,14 +121,5 @@ Revision 1.18  2009/04/17 19:49:33  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.17  2009/02/19 20:26:43  revo
-Russ Williams: +trd en
-
-Revision 1.16  2005/03/06 17:33:54  revo
-Alan ar Gall: +trd br
-
-Revision 1.15 2004/07/19 17:44:56 revo
-Dmitri Gabinski: +trd be
-Revision 1.14 2003/06/14 20:47:29 revo
-Paul Peeraerts: ald trd nl
 -->
 </vortaro>

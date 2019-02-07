@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: minut.xml,v 1.26 2017/01/15 16:10:12 revo Exp $">
+<art mrk="$Id: minut.xml,v 1.29 2018/08/24 10:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>minut</rad>/o
@@ -52,9 +52,11 @@
   <trd lng="es">minuto</trd>
   <trd lng="fr">minute<klr tip="ind"> (unit&eacute; de temps, 
 d'angle)</klr></trd>
+  <trd lng="he">&dalet;&qof;&he;</trd>
   <trd lng="hu">perc</trd>
   <trd lng="id">menit</trd>
   <trd lng="nl">minuut</trd>
+  <trd lng="pt">minuto</trd>
   <trd lng="pl">minuta</trd>
   <trd lng="ro">minut</trd>
   <trd lng="ru">&c_m;&c_i;&c_n;&c_u;&c_t;&c_a;</trd>
@@ -96,8 +98,8 @@ d'angle)</klr></trd>
     </dif>
   </snc>
   <trdgrp lng="cs">
-    <trd>b&#65533;&#8250;hem kr&aacute;tk&eacute; chv&iacute;le</trd>,
-    <trd>v minut&#65533;&#8250;</trd>
+    <trd>b&ecaron;hem kr&aacute;tk&eacute; chv&iacute;le</trd>,
+    <trd>v minut&ecaron;</trd>
   </trdgrp>
   <trd lng="es">en un <ind>minuto</ind></trd>
   <trd lng="pl">w ci&aogonek;gu <ind>minuty</ind></trd>
@@ -106,6 +108,15 @@ d'angle)</klr></trd>
 </art>
 <!--
 $Log: minut.xml,v $
+Revision 1.29  2018/08/24 10:10:13  revo
+Warut Bunprasert: sxangxi eraron de la cxehxa traduko.
+
+Revision 1.28  2018/05/24 23:10:24  revo
+Evandro Avellar: +trd pt
+
+Revision 1.27  2018/05/16 20:10:22  revo
+Benoit Soubeyran: +he
+
 Revision 1.26  2017/01/15 16:10:12  revo
 Guillermo Molleda Jimena: trd es
 
@@ -119,14 +130,5 @@ Revision 1.23  2015/06/29 16:33:20  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.22  2015/06/26 22:10:19  revo
-Darcy Shen: +trd zh
-
-Revision 1.21  2013/09/15 15:10:28  revo
-Wolfram Diestel: ref al lst dauxroj anst. mezurunuoj
-
-Revision 1.20  2013/09/15 11:10:19  revo
-Wolfram Diestel: ref al lst mezurunuoj
-
-Revision 1.19  2013/03/27 16:10:16  revo
 -->
 </vortaro>

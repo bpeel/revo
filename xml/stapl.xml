@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: stapl.xml,v 1.15 2016/05/06 12:10:21 revo Exp $">
+  <art mrk="$Id: stapl.xml,v 1.16 2018/06/28 09:10:13 revo Exp $">
     <kap>
       <rad>stapl</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
     </kap>
@@ -48,6 +48,11 @@
       <trdgrp lng="en">
         <trd>pile</trd>,
         <trd>stack</trd>
+      </trdgrp>
+      <trdgrp lng="es">
+        <trd>mont&oacute;n</trd>,
+        <trd>dep&oacute;sito</trd>,
+        <trd>pila</trd>
       </trdgrp>
       <trdgrp lng="fr">
         <trd>empilement</trd>,
@@ -106,6 +111,11 @@
         <trd>skladovat</trd>,
         <trd>stohovat</trd>
       </trdgrp>
+      <trdgrp lng="es">
+        <trd>almacenar</trd>,
+        <trd>amontonar</trd>,
+        <trd>apilar</trd>
+      </trdgrp>
       <trd lng="fr">empiler</trd>
       <trdgrp lng="ru">
         <trd>&c_sh;&c_t;&c_a;&c_b;&c_je;&c_l;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>,
@@ -121,6 +131,9 @@
   </art>
   <!--
   $Log: stapl.xml,v $
+  Revision 1.16  2018/06/28 09:10:13  revo
+  Guillermo Molleda Jimena: trd es
+
   Revision 1.15  2016/05/06 12:10:21  revo
   Sergio Pokrovskij: +ekz, dif
 

@@ -2,9 +2,9 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: fram.xml,v 1.16 2015/07/04 08:37:34 revo Exp $">
+  <art mrk="$Id: fram.xml,v 1.17 2018/08/06 22:11:31 revo Exp $">
     <kap>
-      <ofc>9</ofc><rad>fram</rad>/o
+      <ofc>9</ofc><rad>fram</rad>/o <fnt><bib>PV</bib></fnt>
     </kap>
 
     <drv mrk="fram.0o">
@@ -32,7 +32,7 @@
         <rim>
           Kadro &ccirc;iam &ccirc;irka&ubreve;as ion kiel bordera&jcirc;o, kaj propre ne
           estas
-          parto de la &ccirc;irka&ubreve;ata&jcirc;o &dash; dum <tld/>o estas parto de
+          parto de la &ccirc;irka&ubreve;ata&jcirc;o &#8208; dum <tld/>o estas parto de
           la
           objekto mem, kaj ofte estas strukturo tridimensia. Tio, kion
           kadro &ccirc;irka&ubreve;as, estas &ccirc;iam pli-malpli ebena surfaco, do
@@ -99,10 +99,10 @@
         <trd lng="ru">&c_o;&c_s;&c_n;&c_o;&c_v;&c_a;</trd>
       </snc>
   <trdgrp lng="cs">
-    <trd>fréma</trd>,
+    <trd>fr&eacute;ma</trd>,
     <trd>kostra stroje</trd>,
     <trd>podstavec</trd>,
-    <trd>rám</trd>
+    <trd>r&aacute;m</trd>
   </trdgrp>
   <trdgrp lng="de">
         <trd>Rahmen</trd>,
@@ -118,12 +118,15 @@
   <trdgrp lng="sk">
     <trd>kostra stroja</trd>,
     <trd>podstavec</trd>,
-    <trd>rám</trd>
+    <trd>r&aacute;m</trd>
   </trdgrp>
 </drv>
   </art>
   <!--
   $Log: fram.xml,v $
+  Revision 1.17  2018/08/06 22:11:31  revo
+  Michel Cantigneaux: aperas unue en PV (1934), oficiala en 9OA (2007)
+
   Revision 1.16  2015/07/04 08:37:34  revo
   aldono de trd cs per skripto de M. von Laer
 

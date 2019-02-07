@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frap.xml,v 1.32 2017/03/24 09:10:16 revo Exp $">
+<art mrk="$Id: frap.xml,v 1.33 2018/03/01 23:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>frap</rad>/i <fnt><bib>PV</bib></fnt>
@@ -360,10 +360,6 @@
     <trd>tlukot</trd>,
     <trd>tlu&ccaron;en&iacute;</trd>
   </trdgrp>
-  <trdgrp lng="pl">
-    <trd>aporrear</trd>,
-    <trd><ind>golpear</ind> repetidamente</trd>
-  </trdgrp>
   <trd lng="nl">het <ind>slaan</ind></trd>
   <trdgrp lng="pl">
     <trd>uderzanie</trd>,
@@ -601,6 +597,9 @@
 </art>
 <!--
 $Log: frap.xml,v $
+Revision 1.33  2018/03/01 23:10:19  revo
+Vito Redsky: kor trd pl
+
 Revision 1.32  2017/03/24 09:10:16  revo
 Lyubomir Vasilev: +trd bg
 
@@ -620,8 +619,5 @@ Revision 1.27  2015/06/29 16:29:38  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.26  2015/02/24 21:10:18  revo
-Wolfram Diestel: + drv-ordo
-
-Revision 1.25  2014/11/19 08:10:40  revo
 -->
 </vortaro>

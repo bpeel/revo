@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: brid.xml,v 1.27 2017/09/04 14:10:14 revo Exp $">
+<art mrk="$Id: brid.xml,v 1.28 2018/02/27 21:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>brid</rad>/o <fnt><bib>PV</bib></fnt>
@@ -89,7 +89,7 @@
     </dif>
     <refgrp tip="vid">
       <ref cel="brems.0i.FIG">bremsi<sncref/></ref>,
-      <ref cel="buton.0umimalvaste.FRAZ">butonumi malvaste</ref>,
+      <ref cel="buton.0umi">butonumi</ref> malvaste,
       <ref cel="katen.0i.FIG">kateni</ref>,
       <ref cel="reg.0i">regi</ref>,
       <ref cel="ten.0i">teni</ref>
@@ -274,6 +274,9 @@
 </art>
 <!--
 $Log: brid.xml,v $
+Revision 1.28  2018/02/27 21:10:17  revo
+Wolfram Diestel: kor. ref-cel
+
 Revision 1.27  2017/09/04 14:10:14  revo
 Jeromo Vasxe: + ne~ebla
 
@@ -293,8 +296,5 @@ Revision 1.22  2014/10/12 15:10:22  revo
 Guillermo Molleda Jimena: trd es
 
 Revision 1.21  2012/07/16 13:10:11  revo
-Marc Rausell: + trd ca
-
-Revision 1.20  2011/03/03 13:10:09  revo
 -->
 </vortaro>

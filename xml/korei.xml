@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korei.xml,v 1.4 2016/12/02 00:10:14 revo Exp $">
+<art mrk="$Id: korei.xml,v 1.5 2018/09/14 14:10:15 revo Exp $">
 <kap>
     <rad>Korei</rad>/o
 </kap>
@@ -10,7 +10,32 @@
   <kap><tld/>o</kap>
   <snc>
     <uzo tip="fak">GEOG</uzo>
-    <ref tip="dif" cel="kore.K0ujo">Koreujo</ref>
+    <dif>
+      <ref tip="dif" cel="kore.K0ujo">Koreujo</ref>:
+      <ekz>
+        ili vizitis la L&amp;H-filiojn en Singapuro kaj <tld/>o kaj konstatis, ke tiuj filioj estas malfacile a&ubreve; tute ne troveblaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007334.html">Belgio: Lernout kaj Hauspie: revo fini&gcirc;is</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multaj vizitintoj de Norda <tld/>o jam priskribis, kiel malfacile estas eskapi la prizorgan kontrolon de la akompanantoj a&ubreve; gardantoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ulrich Lins</aut>
+          <vrk><url ref="http://www.monato.net/2005/008536.php">Nokta aventuro en Pjongjango</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        subite norda kaj suda <tld/>oj dum pinta kunveno de ties prezidantoj prikantis pacemon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>S. Maul</aut>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="be">&c_K;&c_a;&c_r;&c_e;&c_ja;</trd>
   <trd lng="ca">Corea</trd>
@@ -33,6 +58,9 @@
 
 <!--
 $Log: korei.xml,v $
+Revision 1.5  2018/09/14 14:10:15  revo
+Wolfram Diestel: +ekz-oj
+
 Revision 1.4  2016/12/02 00:10:14  revo
 Robin van der Vliet: +trd
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kancerolog.xml,v 1.4 2014/01/13 07:10:28 revo Exp $">
+<art mrk="$Id: kancerolog.xml,v 1.5 2018/12/16 21:10:16 revo Exp $">
 <kap>
   <rad>kancerolog</rad>/o
 </kap>
@@ -47,12 +47,16 @@
     <trd>canc&eacute;rologue</trd>,
     <trd>oncologue</trd>
   </trdgrp>
-  <trd lng="pl">onkologia</trd>
+  <trd lng="pl">onkolog</trd>
+  <trd lng="ro">oncolog</trd>
 </drv>
 </art>
 
 <!--
 $Log: kancerolog.xml,v $
+Revision 1.5  2018/12/16 21:10:16  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.4  2014/01/13 07:10:28  revo
 Sebastian Cyprych: +trd pl
 

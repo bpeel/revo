@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konotaci.xml,v 1.5 2015/07/04 08:37:37 revo Exp $">
+<art mrk="$Id: konotaci.xml,v 1.6 2018/07/19 19:10:16 revo Exp $">
 <kap>
   <rad>konotaci</rad>/o <fnt><bib>NeoGlo</bib></fnt>
 </kap>
@@ -25,12 +25,17 @@
     </ekz>
   </snc>
   <trd lng="cs">konotace</trd>
-  <trd lng="sk">konotácia</trd>
+  <trd lng="pl">konotacja</trd>     
+  <trd lng="ro">conota&#539;ie</trd>
+  <trd lng="sk">konot&aacute;cia</trd>
 </drv>
 </art>
 
 <!--
 $Log: konotaci.xml,v $
+Revision 1.6  2018/07/19 19:10:16  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.5  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 

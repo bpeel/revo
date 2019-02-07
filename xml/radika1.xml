@@ -2,9 +2,8 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: radika1.xml,v 1.16 2015/07/04 08:37:42 revo Exp $">
+  <art mrk="$Id: radika1.xml,v 1.17 2018/11/17 20:10:13 revo Exp $">
     <kap>
-      <ofc>1</ofc>
       <rad>radikal</rad>/o
     </kap>
     <drv mrk="radika1.0o">
@@ -59,7 +58,7 @@
       </snc>
   <trd lng="cs">kmen <klr>(slova)</klr></trd>
   <trd lng="fr">radical</trd>
-  <trd lng="sk">kmeň <klr>(slova)</klr></trd>
+  <trd lng="sk">kme&ncaron; <klr>(slova)</klr></trd>
 </drv>
     <drv mrk="radika1.0a">
       <kap><tld/>a</kap>
@@ -86,6 +85,9 @@
   </art>
   <!--
   $Log: radika1.xml,v $
+  Revision 1.17  2018/11/17 20:10:13  revo
+  Michel Cantigneaux: radikal/o ne estas radiko de 1a OA, radikal/a estas.
+
   Revision 1.16  2015/07/04 08:37:42  revo
   aldono de trd cs per skripto de M. von Laer
 

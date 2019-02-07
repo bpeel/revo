@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: mont.xml,v 1.35 2017/05/30 17:10:12 revo Exp $">
+  <art mrk="$Id: mont.xml,v 1.37 2018/05/17 20:10:18 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>mont</rad>/o
@@ -66,6 +66,7 @@
         <trd>mont</trd>,
         <trd>montagne</trd>
       </trdgrp>
+  <trd lng="he">&he;&resh;</trd>
   <trd lng="hu">hegy</trd>
   <trd lng="id">gunung</trd>
   <trd lng="nl">berg</trd>
@@ -131,13 +132,13 @@
   <trd lng="sv">bergskedja</trd>
 </drv>
 
-    <drv mrk="mont.0eto">
-      <kap><tld/>eto</kap>
-      <snc>
+<drv mrk="mont.0eto">
+  <kap><ofc>*</ofc><tld/>eto</kap>
+    <snc>
       <uzo tip="fak">GEOG</uzo>
-        <dif>
-          Malalta, malgranda <tld/>o, precipe tia kun plata
-          a&ubreve; ronda supro:
+       <dif>
+        Malalta, malgranda <tld/>o, precipe tia kun plata
+        a&ubreve; ronda supro:
       <ekz>neniam &scirc;i forgesos la belegajn arbarojn, la verdajn
       <tld/>etojn kaj la malgrandajn infanojn
         <fnt><bib>Fab1</bib>, <lok>La virineto de maro</lok></fnt>;
@@ -409,6 +410,12 @@
   </art>
   <!--
   $Log: mont.xml,v $
+  Revision 1.37  2018/05/17 20:10:18  revo
+  Benoit Soubeyran: + he
+
+  Revision 1.36  2018/05/05 12:10:15  revo
+  Michel Cantigneaux: monteto, kunmetajxo de la Ekzercaro
+
   Revision 1.35  2017/05/30 17:10:12  revo
   Ludoviko Francisco: +ekz +trd +fnt
 

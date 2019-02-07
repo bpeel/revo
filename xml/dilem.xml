@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dilem.xml,v 1.17 2015/07/04 08:37:32 revo Exp $">
+<art mrk="$Id: dilem.xml,v 1.18 2018/05/16 20:10:19 revo Exp $">
 <kap><ofc>2</ofc>
 <rad>dilem</rad>/o</kap>
 <drv mrk="dilem.0o">
@@ -38,6 +38,7 @@
   </trdgrp>
   <trd lng="es">dilema</trd>
   <trd lng="fr">dilemme</trd>
+  <trd lng="he">&dalet;&yod;&lamed;&mem;&he;</trd>
   <trd lng="hu">dilemma</trd>
   <trd lng="nl">dilemma</trd>
   <trd lng="pl">dylemat</trd>
@@ -45,16 +46,19 @@
   <trd lng="ru">&c_d;&c_i;&c_l;&c_je;&c_m;&c_m;&c_a;</trd>
   <trdgrp lng="sk">
     <trd>dilema</trd>,
-    <trd>záhada</trd>
+    <trd>z&aacute;hada</trd>
   </trdgrp>
   <trdgrp lng="cs">
     <trd>dilema</trd>,
-    <trd>záhada</trd>
+    <trd>z&aacute;hada</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: dilem.xml,v $
+Revision 1.18  2018/05/16 20:10:19  revo
+Benoit Soubeyran: +he
+
 Revision 1.17  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -74,14 +78,5 @@ Revision 1.12  2005/04/19 16:31:44  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.11  2003/12/13 17:33:27  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10  2003/05/07 16:31:09  revo
-Paul Peeraerts: ald trd nl + belarangho
-
-Revision 1.9 2002/05/23 20:33:39 revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.8 2002/05/03 16:34:13 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ide.xml,v 1.31 2017/11/01 19:10:36 revo Exp $">
+<art mrk="$Id: ide.xml,v 1.32 2018/07/13 08:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc> <ofc>1</ofc> <ofc>7</ofc>
   <rad>ide</rad>/o
@@ -62,7 +62,7 @@
       <ref cel="fund.0o.esenco">fundo</ref>,
       <ref cel="fundam.0o.FIG">fundamento</ref>,
       <ref cel="ideal.0o">idealo</ref>,
-      <ref cel="imag.0o0ado0emo0povo">imago</ref>,
+      <ref cel="imag.0povo.PSI">imago</ref>,
       <ref cel="kern.0o.esenco">kerno</ref>,
       <ref cel="koncep.0o">koncepto</ref>
     </refgrp>
@@ -357,6 +357,9 @@ adj.)</klr></trd>
 </art>
 <!--
 $Log: ide.xml,v $
+Revision 1.32  2018/07/13 08:10:13  revo
+Damien Brucker: -eraro cxe cel en ref
+
 Revision 1.31  2017/11/01 19:10:36  revo
 Vito Redsky: +trd ro
 
@@ -375,9 +378,6 @@ Jeromo Vasxe: + fiksa ~o
 
 Revision 1.26  2013/09/05 01:10:15  revo
 Vito Redsky: kor trd pl +trd ro
-
-Revision 1.25  2012/02/10 09:10:09  revo
-Carlos Garcia: +trd es -a
 
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kortizol.xml,v 1.1 2015/11/29 14:10:15 revo Exp $">
+<art mrk="$Id: kortizol.xml,v 1.4 2018/09/04 10:10:17 revo Exp $">
 <kap>
   <rad>kortizol</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -26,9 +26,13 @@
   </snc>
   <trd lng="bg">&c_k;&c_o;&c_r;&c_t;&c_i;&c_z;&c_o;&c_l;</trd>
   <trd lng="en">cortisol</trd>
+  <trd lng="es">cortisol</trd>
+  <trd lng="fa">&f_k;&a_w;&a_r;&a_t;&f_y;&a_z;&a_w;&a_l;</trd>
   <trd lng="fr">cortisol</trd>
   <trd lng="it">cortisolo</trd>
   <trd lng="nl">cortisol</trd>
+  <trd lng="pl">kortyzol</trd>     
+  <trd lng="ro">cortizol</trd>
   <trd lng="ru">&c_k;&c_o;&c_r;&c_t;&c_i;&c_z;&c_o;&c_l;</trd>
   <trd lng="uk">&c_k;&c_o;&c_r;&c_t;&c_i;&c_z;&c_o;&c_l;</trd>
 </drv>
@@ -36,6 +40,15 @@
 
 <!--
 $Log: kortizol.xml,v $
+Revision 1.4  2018/09/04 10:10:17  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.3  2018/09/02 19:10:21  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.2  2018/05/22 03:10:24  revo
+Dusan Juretic: +trd es
+
 Revision 1.1  2015/11/29 14:10:15  revo
 Jeromo Vasxe: nova artikolo
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fles.xml,v 1.15 2016/01/01 20:10:14 revo Exp $">
+<art mrk="$Id: fles.xml,v 1.17 2018/10/08 15:10:22 revo Exp $">
 <kap>
 <rad>fles</rad>/o
 </kap>
@@ -19,8 +19,26 @@
       <ref tip="lst" cel="genr.0o.BIO"
       lst="voko:zoologiaj_genroj">genro</ref> el familio
       <ref tip="malprt" cel="pleuxr3.0oj">ple&ubreve;ronektedoj</ref>
-      (<trd lng="la">Platichtys</trd>).
+      (<trd lng="la">Platichtys</trd>):
+      <ekz>
+        la <tld/>o havas pli dikan korpon ol la plateso kaj la karno havas
+        pli delikatan strukturon, <tld/>o povas atingi longecon de 60&nbsp;cm
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=102169">Fleso</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <bld
+       lok="&WCU;/thumb/1/13/Platichthys_flesus_V%C3%A4%C3%A4na-J%C3%B5esuu_in_Estonia.jpg/640px-Platichthys_flesus_V%C3%A4%C3%A4na-J%C3%B5esuu_in_Estonia.jpg"
+       prm="CC BY-SA 3.0"
+       ><tld/>o (Platichthys flesus), &ccirc;e V&auml;&auml;na-J&otilde;esuu en Estonujo
+         <fnt>
+           <aut>Tiit Hunt, propra verko</aut>
+           <lok><url ref="&WCW;/File:Platichthys_flesus_V%C3%A4%C3%A4na-J%C3%B5esuu_in_Estonia.jpg"
+               >&WCW;/File:Platichthys_flesus_V%C3%A4%C3%A4na-J%C3%B5esuu_in_Estonia.jpg</url></lok>
+         </fnt>
+    </bld>
   </snc>
   <trd lng="bg">&c_p;&c_i;&c_s;&c_i;&c_ja;</trd>
   <trd lng="de">Flunder</trd>
@@ -38,6 +56,12 @@
 
 <!--
 $Log: fles.xml,v $
+Revision 1.17  2018/10/08 15:10:22  revo
+Wolfram Diestel: +bld
+
+Revision 1.16  2018/10/04 20:10:18  revo
+Wolfram Diestel: +ekz
+
 Revision 1.15  2016/01/01 20:10:14  revo
 Damien Brucker: +trd fr
 
@@ -54,11 +78,5 @@ Revision 1.11  2009/02/11 19:42:54  revo
 Wieland Pusch: +trd bg
 
 Revision 1.10  2007/06/01 16:31:57  revo
-Tulio Flores: +tr pt
-
-Revision 1.9  2003/10/05 18:52:36  revo
-Jozefo Horvath: forigo de () el trd hu
-
-Revision 1.8  2003/10/02 16:30:35  revo
 -->
 </vortaro>

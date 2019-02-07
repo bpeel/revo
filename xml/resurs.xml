@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: resurs.xml,v 1.2 2014/01/07 12:10:17 revo Exp $">
+<art mrk="$Id: resurs.xml,v 1.3 2019/01/13 02:10:14 revo Exp $">
 <kap>
   <rad>resurs</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -11,8 +11,9 @@
   <uzo tip="stl">RAR</uzo>
   <snc mrk="resurs.0o.KOMUNE">
     <dif>
-      Proviza&jcirc;o, materialo, disponebla rimedo,
-      <ref tip="vid" cel="font.0o.originoDeForto">fonto<sncref/></ref>:
+      Proviza&jcirc;o, materialo, disponebla <ref tip="vid"
+      cel="rimed.0o">rimedo</ref>, <ref tip="vid"
+      cel="font.0o.originoDeForto">fonto<sncref/></ref>:
       <ekz>
         oni venas <klr>...</klr> al la ekonomiko kiel teorio
         pri <klr>...</klr> mastrumado super la naturo kaj &gcirc;iaj <tld/>oj
@@ -24,12 +25,16 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">resource</trd>
   <trd lng="fr">ressource</trd>
 </drv>
 </art>
 
 <!--
 $Log: resurs.xml,v $
+Revision 1.3  2019/01/13 02:10:14  revo
+Robin van der Vliet: +trd en, +ligilo
+
 Revision 1.2  2014/01/07 12:10:17  revo
 Damien Brucker: +trd fr
 

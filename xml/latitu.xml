@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: latitu.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
+<art mrk="$Id: latitu.xml,v 1.21 2018/08/06 22:10:40 revo Exp $">
 <kap>
   <ofc>8</ofc>
-  <rad>latitud</rad>/o
+  <rad>latitud</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="latitu.0o">
   <kap><tld/>o</kap>
@@ -55,7 +55,7 @@
   </snc>
   <trd lng="be">&c_sh;&c_y;&c_r;&c_a;&c_t;&c_a;</trd>
   <trdgrp lng="cs">
-    <trd>délka</trd>,
+    <trd>d&eacute;lka</trd>,
     <trd>latituda</trd>,
     <trd>odchylka</trd>
   </trdgrp>
@@ -67,15 +67,15 @@
   <trd lng="pt">latitude</trd>
   <trd lng="ru">&c_sh;&c_i;&c_r;&c_o;&c_t;&c_a;</trd>
   <trdgrp lng="sk">
-    <trd>dĺžka</trd>,
-    <trd>latitúda</trd>,
-    <trd>odchýlka</trd>
+    <trd>d&lacute;&zcaron;ka</trd>,
+    <trd>latit&uacute;da</trd>,
+    <trd>odch&yacute;lka</trd>
   </trdgrp>
   <trd lng="tr">enlem</trd>
 </drv>
 
-<drv mrk="latitu.astronomiaauxgeografia0o">
-  <kap>astronomia a&ubreve; geografia <tld/>o</kap>
+<drv mrk="latitu.astronomia0o">
+  <kap>astronomia <tld/>o, <var><kap>geografia <tld/>o</kap></var></kap>
   <uzo tip="fak">GEOG</uzo>
   <uzo tip="fak">AST</uzo>
   <snc>
@@ -142,16 +142,22 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_l;&c_je;&c_l;&c_mol;
   <klr>(&c_g;&c_je;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>
-  <trd lng="cs">rovnoběžka zeměpisná</trd>
+  <trd lng="cs">rovnob&ecaron;&zcaron;ka zem&ecaron;pisn&aacute;</trd>
   <trd lng="de">Breitenkreis</trd>
   <trd lng="fr">parall&egrave;le<klr tip="ind"> (subst., g&eacute;og.)</klr></trd>
   <trd lng="hu">sz&eacute;less&eacute;gi k&ouml;r</trd>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_mol;</trd>
-  <trd lng="sk">rovnobežka zemepisná</trd>
+  <trd lng="sk">rovnobe&zcaron;ka zemepisn&aacute;</trd>
 </drv>
 </art>
 <!--
 $Log: latitu.xml,v $
+Revision 1.21  2018/08/06 22:10:40  revo
+Michel Cantigneaux: aperas unue en PV (1934), oficiala en 8OA (1974)
+
+Revision 1.20  2018/03/01 15:10:15  revo
+Bart Demeyere: <var> anstataux 'aux'
+
 Revision 1.19  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -168,17 +174,5 @@ Revision 1.15  2003/05/02 16:30:52  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.14  2003/01/13 17:34:08  revo
-Marc Bavant: ~o MAT: +trd de
-
-Revision 1.13  2003/01/09 17:31:42  revo
-Ulrich Fellmann: + 4 trd = de
-Revision 1.12  2002/11/30 17:35:49  revo
-Marc Bavant: +frm
-Revision 1.11  2002/09/01 19:10:13  revo
-Marc Bavant: ~o: +snc MAT, +adm, -uzo SCI, +uzo AST; XXX ~o: +adm, +uzo,
-mod dif
-Revision 1.10 2002/08/23 17:30:47 revo
-Eduardo M. Kalinowski: ald trd el, pt
-Revision 1.9 2001/11/26 17:32:27 revo
 -->
 </vortaro>

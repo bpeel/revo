@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kombine.xml,v 1.5 2015/07/04 08:37:37 revo Exp $">
+<art mrk="$Id: kombine.xml,v 1.6 2018/05/21 22:10:18 revo Exp $">
 <kap>
   <rad>kombine</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -76,23 +76,28 @@
       </subsnc>
   </snc>
   <trdgrp lng="cs">
-    <trd>kombinačka</trd>,
-    <trd>kombiné</trd>
+    <trd>kombina&ccaron;ka</trd>,
+    <trd>kombin&eacute;</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>barboteuse</trd>,
     <trd>combinaison<klr> (v&ecirc;tement)</klr></trd>
   </trdgrp>
+  <trd lng="pl">kombinezon</trd>
   <trdgrp lng="pt">
     <trd>combina&ccedil;&atilde;o</trd>,
     <trd>macac&atilde;o</trd>
   </trdgrp>
-  <trd lng="sk">kombinéza</trd>
+  <trd lng="ro">salopet&abreve;</trd>
+  <trd lng="sk">kombin&eacute;za</trd>
 </drv>
 </art>
 
 <!--
 $Log: kombine.xml,v $
+Revision 1.6  2018/05/21 22:10:18  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.5  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 

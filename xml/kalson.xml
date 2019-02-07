@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kalson.xml,v 1.21 2017/05/09 16:10:14 revo Exp $">
+<art mrk="$Id: kalson.xml,v 1.23 2018/11/24 21:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kalson</rad>/o
@@ -14,7 +14,29 @@
     <uzo tip="fak">TEKS</uzo>
     <dif>
       Pantaloneto portata kiel <ref tip="super"
-      cel="vest.sub0o">subvesto</ref> sub pantalono a&ubreve; jupo.
+      cel="vest.sub0o">subvesto</ref> sub pantalono a&ubreve; jupo;
+      simila vesto portata en somero:
+      <ekz>
+        jako, ve&scirc;to, e&ccirc; <tld/>o &gcirc;enus viajn movojn, <klr>[&#8230;]</klr> &#8208;
+        ta&ubreve;gas nur l' Adam-kostum'!
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga
+          Butiko</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili post la lernejaj jaroj &scirc;atas vesti sin mode malprude, 
+        per <klr>[&#8230;]</klr> tre kurtaj kalsonoj a&ubreve; minijupo
+        <klr>[&#8230;]</klr> &ndash; do iom malbongusta kaj provoka al la junuloj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url
+          ref="http://www.monato.net/2010/009903.php">Internacia
+          miskompreno</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="th">&#3585;&#3634;&#3591;&#3648;&#3585;&#3591;&#3651;&#3609;</trd>
   </snc>
@@ -29,7 +51,10 @@
     <trd>podvl&eacute;ka&ccaron;ky</trd>,
     <trd>spodky</trd>
   </trdgrp>
-  <trd lng="de">Unterhose</trd>
+  <trdgrp lng="de">
+    <trd>Unterhose</trd>,
+    <trd>Shorts</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>underpants</trd>,
     <trd>undershorts</trd>,
@@ -47,6 +72,17 @@
   </trdgrp>
   <trd lng="hu">als&oacute;nadr&aacute;g</trd>
   <trd lng="nl">onderbroek</trd>
+  <trdgrp lng="pl">
+    <trd>kalesony</trd>,
+    <trd>bokserki</trd>,
+    <trd>figi <klr>(majtki)</klr></trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>indispensabili</trd>,
+    <trd>&scedil;ort</trd>,
+    <trd>pantaloni scur&tcedil;i</trd>,
+    <trd>chilo&tcedil;i</trd>
+  </trdgrp>  
   <trdgrp lng="ru">
     <trd>&c_k;&c_a;&c_l;&c_mol;&c_s;&c_o;&c_n;&c_y;</trd>,
     <trd>&c_p;&c_a;&c_n;&c_t;&c_a;&c_l;&c_o;&c_n;&c_y;
@@ -62,7 +98,16 @@
   <snc mrk="kalson.ban0o.TEKS">
     <uzo tip="fak">TEKS</uzo>
     <dif>
-      Pli mallonga <tld/>o uzata por sin bani.
+      <tld lit="K"/>o ta&ubreve;ga por uzi dum banado:
+      <ekz>
+        ban<tld/>o estas <klr>[&#8230;]</klr> <tld/>o farita el speciala
+        elastano por uzo en na&gcirc;ejo a&ubreve; marakvo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=250352">Bankalsono</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="bg">&c_b;&c_a;&c_n;&c_s;&c_k;&c_i;
@@ -80,12 +125,20 @@
   </trdgrp>
   <trd lng="hu">f&uuml;rd&odblac;nadr&aacute;g</trd>
   <trd lng="nl">zwembroek</trd>
+  <trd lng="pl">k&aogonek;piel&oacute;wki</trd>     
+  <trd lng="ro">slip</trd>
   <trd lng="ru">&c_p;&c_l;&c_a;&c_v;&c_k;&c_i;</trd>
   <trd lng="sk">plavky p&aacute;nske</trd>
 </drv>
 </art>
 <!--
 $Log: kalson.xml,v $
+Revision 1.23  2018/11/24 21:10:16  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.22  2018/09/24 17:10:13  revo
+Wolfram Diestel: +ekz-oj, vortumo de dif
+
 Revision 1.21  2017/05/09 16:10:14  revo
 Warut Bunprasert: +trd th
 
@@ -102,11 +155,5 @@ Revision 1.17  2009/06/05 16:30:49  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.16  2006/01/31 17:31:02  revo
-Jeromo Vasxe: - "tola aux kalikota" en dif
-
-Revision 1.15 2003/05/19 19:42:10 revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.14 2002/10/19 18:22:25 revo
 -->
 </vortaro>

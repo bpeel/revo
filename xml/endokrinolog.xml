@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: endokrinolog.xml,v 1.1 2015/01/01 11:10:16 revo Exp $">
+<art mrk="$Id: endokrinolog.xml,v 1.2 2019/01/17 21:10:14 revo Exp $">
 <kap>
     <rad>endokrinolog</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -13,7 +13,17 @@
     <dif>
       <ref tip="super" cel="kurac.0isto">Kuracisto</ref>, kies fako
       estas <ref tip="vid"
-      cel="endokrinologi.0o"><tld/>io</ref>.
+      cel="endokrinologi.0o"><tld/>io</ref>:
+      <ekz>
+        en la &ccirc;efurbo necesas atendi duonjaron por viziti <tld/>on
+        <fnt>
+          <aut>S; Belov</aut>,
+          <vrk><url
+          ref="http://stanobelov.blogspot.com/2018/12/kubo-mito-pri-la-bona-medicino.html">
+          Kubo &ndash; mito pri la bona medicino </url></vrk>,
+          <lok>2018-12-30</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="en">endocrinologist</trd>
@@ -23,6 +33,9 @@
 
 <!--
 $Log: endokrinolog.xml,v $
+Revision 1.2  2019/01/17 21:10:14  revo
+Jeromo Vasxe: + ekz
+
 Revision 1.1  2015/01/01 11:10:16  revo
 Alain Gerard: nova artikolo
 

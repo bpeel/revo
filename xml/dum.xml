@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dum.xml,v 1.25 2011/04/30 20:10:16 revo Exp $">
+<art mrk="$Id: dum.xml,v 1.29 2018/08/25 05:45:56 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dum</rad> <fnt><bib>PV</bib></fnt>
@@ -45,7 +45,6 @@
         </trdgrp>
         <trd lng="pl">gdy</trd>
         <trd lng="pt">durante</trd>
-        <trd lng="ro">ca</trd>
         <trd lng="ru">&c_v; &c_t;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
         <trd lng="sv">under<klr> (om tid)</klr></trd>
       </snc>
@@ -323,6 +322,18 @@
 </art>
 <!--
 $Log: dum.xml,v $
+Revision 1.29  2018/08/25 05:45:56  revo
+Wolfram Diestel: remeti la tekston de la funkcianta versio 1.25 (poste eniris struktura problemo)
+
+Revision 1.28  2018/08/24 19:34:59  revo
+mankinta </subdrv>
+
+Revision 1.27  2018/08/24 15:15:13  revo
+kor. ecaron en la chehha
+
+Revision 1.26  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
 Revision 1.25  2011/04/30 20:10:16  revo
 Jeromo Vasxe: + inter~e
 
@@ -333,14 +344,5 @@ Revision 1.23  2007/12/26 17:30:28  revo
 Marc Bavant: reaperigo de sncref
 
 Revision 1.22 2007/06/24 16:30:57 revo
-Luiz Portella: +6trd pt
-
-Revision 1.21 2006/02/24 17:33:04 revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.20 2004/07/17 18:19:03 revo
-Marc Bavant: konformigis al la kutima strukturo de prepoziciaj
-artikoloj; mod mrk; kor ref al prepozicioj cxe, en; precizigis
-"konjunkcio"
 -->
 </vortaro>

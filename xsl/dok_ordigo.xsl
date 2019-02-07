@@ -19,6 +19,7 @@
 
 -->
 
+<xsl:include href="inc/inx_menuo.inc"/>
 
 <xsl:output method="html" version="4.0" encoding="utf-8"/>
 
@@ -28,31 +29,41 @@
 <xsl:template match="ordigo">
   <html>
     <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+      <meta name="viewport" content="width=device-width,initial-scale=1"/>     
       <title>literoj kaj ordigado</title>
       <link title="indekso-stilo" type="text/css" 
-            rel="stylesheet" href="../stl/artikolo.css"/>
+            rel="stylesheet" href="../stl/indeksoj.css"/>
       <style type="text/css">
-         table { background-color: #E0E0A0; margin-left: 15% }
-         td { background-color: lightblue }
+         td { background-color: lightblue;  }
       </style>
     </head>
     <body>
-    <h1>literoj kaj ordigado</h1>
-    <p>lingvoj:
-    <xsl:for-each select="lingvo">
-      <a href="#{@lng}"><xsl:value-of select="@lng"/></a><xsl:text> </xsl:text>
-    </xsl:for-each>
-    </p>
+      <table cellspacing="0">
+        <xsl:call-template name="menuo-ktp"/>
+        <tr>
+          <td colspan="{$inx_paghoj}" class="enhavo">
 
-    <p>
-    Jen informoj pri la literoj, sub kiu litero(-grupo) ili aperas
-    en la indekso (en krampoj estas askia nomo, kiu uzi&#x011d;as ekzemple
-    en dosieronomoj de la indeksoj). Krome la nomo de la litero, kiel &#x011d;i
-    aperu en la Revo-artikoloj. Ekz. la franca &#x0153; aperu en artikoloj kiel
-    &amp;oelig;. En lasta kolumno estas la unikodo de la litero. 
-    </p>
+	    <h1>literoj kaj ordigado</h1>
+	    <p>lingvoj:
+	    <xsl:for-each select="lingvo">
+	      <a href="#{@lng}"><xsl:value-of select="@lng"/></a><xsl:text> </xsl:text>
+	    </xsl:for-each>
+	    </p>
 
-    <xsl:apply-templates select="lingvo"/>
+	    <p>
+	      Jen informoj pri la literoj, sub kiu litero(-grupo) ili aperas
+	      en la indekso (en krampoj estas askia nomo, kiu uzi&#x011d;as ekzemple
+	      en dosieronomoj de la indeksoj). Krome la nomo de la litero, kiel &#x011d;i
+	      aperu en la Revo-artikoloj. Ekz. la franca &#x0153; aperu en artikoloj kiel
+	      &amp;oelig;. En lasta kolumno estas la unikodo de la litero. 
+	    </p>
+
+	    <xsl:apply-templates select="lingvo"/>
+
+	  </td>
+	</tr>
+      </table>
   </body>
   </html>
 </xsl:template>
@@ -86,13 +97,13 @@
     </xsl:call-template>
   </h2>
 
-  <table>
+  <table style="background-color: #E0E0A0; font-size: small ">
     <TR>
-      <TH ALIGN="LEFT">Grupo</TH>
-      <TH ALIGN="LEFT">Litero</TH>
+      <TH ALIGN="LEFT">Grp</TH>
+      <TH ALIGN="LEFT">Lit</TH>
       <TH ALIGN="LEFT">Priskribo</TH>
-      <TH ALIGN="LEFT">XML-nomo</TH>
-      <TH ALIGN="LEFT">Unikodo</TH>
+      <TH ALIGN="LEFT">XML</TH>
+      <TH ALIGN="LEFT">U-kodo</TH>
     </TR>
     <xsl:apply-templates select="l"/>
   </table>

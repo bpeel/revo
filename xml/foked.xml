@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: foked.xml,v 1.13 2015/10/27 11:10:33 revo Exp $">
+<art mrk="$Id: foked.xml,v 1.14 2018/10/12 16:10:17 revo Exp $">
 <kap><rad>foked</rad>/oj</kap>
 <drv mrk="foked.0oj">
   <kap><tld/>oj</kap>
@@ -12,8 +12,16 @@
       <ref tip="lst" cel="famili.0o.BIO"
       lst="voko:zoologiaj_familioj">Familio</ref> el la ordo
       <ref tip="malprt" cel="best.rabo0oj">rabobestoj</ref>
-      (<trd lng="la">Phocidae</trd>), vivantaj en maro.
+      (<trd lng="la">Phocidae</trd>), vivantaj en maro:
+      <ekz>
+        <tld/>oj <klr>[&#8230;]</klr> estas foje nomataj rampulaj fokoj por distingi ilin disde la felfokoj kaj marleonoj de la familio Otariedoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=582368">Fokedoj</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <ref tip="prt" cel="fok.0o">foko</ref>
   </snc>
   <trd lng="be">&c_s;&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_n;&c_y;&c_ja; <ind>&c_c;&c_ju;&c_l;&c_je;&c_n;&c_ib;</ind> <klr
   tip="amb">(&c_s;&c_ja;&c_m;'&c_ja;)</klr></trd>
@@ -39,6 +47,9 @@
 </art>
 <!--
 $Log: foked.xml,v $
+Revision 1.14  2018/10/12 16:10:17  revo
+Wolfram Diestel: +citajho
+
 Revision 1.13  2015/10/27 11:10:33  revo
 Sebastian Cyprych: +trd pl
 
@@ -58,8 +69,5 @@ Revision 1.8  2007/06/02 19:47:32  revo
 Tulio Flores: +tr pt
 
 Revision 1.7  2004/10/01 16:31:55  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.6  2002/11/26 17:31:11  revo
 -->
 </vortaro>

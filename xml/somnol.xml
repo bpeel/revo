@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: somnol.xml,v 1.4 2015/07/04 08:37:43 revo Exp $">
+<art mrk="$Id: somnol.xml,v 1.5 2018/06/16 19:10:15 revo Exp $">
 <kap>
   <rad>somnol</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -10,49 +10,63 @@
   <kap><tld/>i</kap>
   <uzo tip="stl">RAR</uzo>
   <snc mrk="somnol.0i.KOMUNE">
-    <ref tip="dif" cel="dorm.duon0i.KOMUNE">duondormi</ref>
-    <ekz>
-      &gcirc;i aspektas iom senvive, sed &gcirc;i nur <tld/>as
-      <fnt>
-        <aut>J. Camacho</aut>,
-        <vrk>La Majstro kaj Martinelli</vrk>,
-        <lok>1993</lok>
-      </fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="dorm.duon0i.KOMUNE">Duondormi</ref>:
+      <ekz>
+        &gcirc;i aspektas iom senvive, sed &gcirc;i nur <tld/>as
+        <fnt>
+          <aut>J. Camacho</aut>,
+          <vrk>La Majstro kaj Martinelli</vrk>,
+          <lok>1993</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd><ind>verschlafen</ind> sein</trd>,
+      <trd>halb <ind>schlafen</ind></trd>
+    </trdgrp>
   </snc>
+  <ref tip="vid" cel="somnam.0i">somnambuli</ref>
   <trdgrp lng="cs">
-    <trd>klímat</trd>,
-    <trd>podřimovat</trd>
+    <trd>kl&iacute;mat</trd>,
+    <trd>pod&rcaron;imovat</trd>
   </trdgrp>
-  <trd lng="sk">podriemkavať</trd>
+  <trd lng="de"/>
+  <trd lng="sk">podriemkava&tcaron;</trd>
 </drv>
 
 <drv mrk="somnol.0o">
   <kap><tld/>o</kap>
   <uzo tip="stl">RAR</uzo>
   <snc mrk="somnol.0o.KOMUNE">
-    <ref tip="dif" cel="dorm.duon0o.KOMUNE">duondormo</ref>
-    <ref tip="vid" cel="letarg.0o.FIG">letargio<sncref/></ref>
-    <ref tip="vid" cel="torpor.0o.KOMUNE">torporo</ref>
-    <ekz>
-      ankora&ubreve; en <tld/>o, &scirc;i trenis sin al la fenestro
-      <fnt>
-        <aut>M. Fern&aacute;ndez</aut>,
-        <vrk>Du Gardenioj</vrk>,
-        <lok>Ekstremoj, 1997</lok>
-      </fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="dorm.duon0o.KOMUNE">Duondormo</ref>,
+      <ref tip="vid" cel="letarg.0o.FIG">letargio<sncref/></ref>,
+      <ref tip="vid" cel="torpor.0o.KOMUNE">torporo</ref>:
+      <ekz>
+        ankora&ubreve; en <tld/>o, &scirc;i trenis sin al la fenestro
+        <fnt>
+          <aut>M. Fern&aacute;ndez</aut>,
+          <vrk>Du Gardenioj</vrk>,
+          <lok>Ekstremoj, 1997</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Halbschlaf</trd>
   </snc>
   <trdgrp lng="cs">
-    <trd>dřímota</trd>,
-    <trd>polospánek</trd>
+    <trd>d&rcaron;&iacute;mota</trd>,
+    <trd>polosp&aacute;nek</trd>
   </trdgrp>
-  <trd lng="sk">polospánok</trd>
+  <trd lng="sk">polosp&aacute;nok</trd>
 </drv>
 </art>
 
 <!--
 $Log: somnol.xml,v $
+Revision 1.5  2018/06/16 19:10:15  revo
+Wolfram Diestel: + germ trd, dif chirkau dif-ref, +ref
+
 Revision 1.4  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 

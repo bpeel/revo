@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: trezor.xml,v 1.27 2015/07/04 08:37:45 revo Exp $">
+  <art mrk="$Id: trezor.xml,v 1.28 2018/08/02 13:10:13 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>trezor</rad>/o
@@ -106,6 +106,7 @@
   <trd lng="cs">poklad</trd>
   <trd lng="de">Schatz</trd>
   <trd lng="en">treasure</trd>
+  <trd lng="es">tesoro</trd>
   <trd lng="fr">tr&eacute;sor</trd>
   <trdgrp lng="hu">
         <trd>kincs</trd>,
@@ -162,6 +163,7 @@
     <trd>trezor</trd>
   </trdgrp>
   <trd lng="en">treasury</trd>
+  <trd lng="es">c&aacute;mara del tesoro</trd>
   <trd lng="hu">kincst&aacute;r</trd>
   <trd lng="nl">schatkamer</trd>
   <trdgrp lng="sk">
@@ -191,19 +193,23 @@
       </snc>
   <trd lng="be">&c_s;&c_k;&c_a;&c_r;&c_b;&c_n;&c_ib;&c_k;</trd>
   <trd lng="ca">tresorer</trd>
-  <trd lng="cs">pokladník</trd>
+  <trd lng="cs">pokladn&iacute;k</trd>
   <trd lng="de">Schatzmeister</trd>
+  <trd lng="es">tesorero</trd>
   <trd lng="fr">tr&eacute;sorier</trd>
   <trdgrp lng="hu">
         <trd>kincst&aacute;rnok</trd>,
         <trd>kincst&aacute;ros</trd>
       </trdgrp>
   <trd lng="ru">&c_k;&c_a;&c_z;&c_n;&c_a;&c_ch;&c_je;&c_j;</trd>
-  <trd lng="sk">pokladník</trd>
+  <trd lng="sk">pokladn&iacute;k</trd>
 </drv>
   </art>
   <!--
   $Log: trezor.xml,v $
+  Revision 1.28  2018/08/02 13:10:13  revo
+  Guillermo Molleda Jimena: trd es
+
   Revision 1.27  2015/07/04 08:37:45  revo
   aldono de trd cs per skripto de M. von Laer
 

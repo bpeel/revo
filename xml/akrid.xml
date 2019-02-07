@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: akrid.xml,v 1.30 2017/04/05 08:10:16 revo Exp $">
+<art mrk="$Id: akrid.xml,v 1.32 2018/10/08 19:10:15 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>akrid</rad>/o
@@ -12,13 +12,55 @@
   <snc mrk="akrid.0o.KOMUNE">
     <dif>
       Iu el la familio <tld/>edoj, 
-      salt<ref tip="lst" cel="insekt.0o"
-      lst="voko:insektoj">insekto</ref> 
+      salt<ref tip="lst" cel="insekt.0o" lst="voko:insektoj">insekto</ref> 
       kun mallongaj antenoj
-      kaj povanta muziki per frotado de la kruroj al la elitroj.
+      kaj povanta muziki per frotado de la kruroj &ccirc;e la elitroj:
+      <ekz>
+        etendu vian manon super la landon Egiptan pro la <tld/>oj, ke ili 
+        venu sur la landon Egiptan, kaj forman&gcirc;u &ccirc;iujn herbojn de la tero 
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 10:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la jenajn el ili vi povas man&gcirc;i: la <tld/>on kun &gcirc;ia speco 
+        kaj la <ref cel="cikad.0o">cikadon</ref>
+        kun &gcirc;ia speco kaj la <ref cel="gril.0o.familiano">grilon</ref>
+        kun &gcirc;ia speco kaj la <ref cel="lokust.0o">lokuston</ref> kun &gcirc;ia speco
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 11:22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li man&gcirc;adis <tld/>ojn kaj sova&gcirc;an mielon 
+        <fnt>
+          <bib>NT</bib>
+          <lok>Marko 1:6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili venis kiel granda nubo, kiel svarmo da <tld/>oj 
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fatala kombino de pluv-manko kaj <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hektor Alos i Font</aut>
+          <vrk><url ref="http://www.monato.net/2006/008814.php">E&ubreve;ropo plialtigas sian drataron</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="be">&c_s;&c_a;&c_r;&c_a;&c_n;&c_ch;&c_a;</trd>
-    <trd lng="de">Heuschrecke</trd>
+    <trdgrp lng="de">
+      <trd>Kurzf&uuml;hlerschrecken</trd>,
+      <trd>Heuschrecke <klr>(Kurzf&uuml;hler)</klr></trd>
+    </trdgrp>
     <trdgrp lng="br">
         <trd>karv-raden</trd>,
         <trd>kilhog-raden</trd>
@@ -44,14 +86,21 @@
   <snc mrk="akrid.0o.genro">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
-      tip="malprt"
-      cel="akride.0oj"><tld/>edoj</ref>
-      (<trd lng="la">Acridium</trd>).
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref> el familio
+      <ref tip="malprt" cel="akride.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Acrida</trd>).
     </dif>
+    <bld lok="&WCU;/thumb/2/2d/Acrida_hungarica_%2822123663930%29.jpg/640px-Acrida_hungarica_%2822123663930%29.jpg"
+         prm="CC BY-SA 2.0"
+        ><ind>hungara <tld/>o</ind> (Acrida hungarica)
+        <fnt>
+          <aut>Gilles San Martin de Namur, Belgujo</aut>
+          <lok><url ref="&WCW;/File:Acrida_hungarica_(22123663930).jpg">&WCW;/File:Acrida_hungarica_(22123663930).jpg</url></lok>
+        </fnt>
+    </bld>
     <trdgrp lng="de">
       <trd>Feldheuschrecke</trd>,
+      <trd>Grash&uuml;pfer</trd>,
       <trd>Heuh&uuml;pfer</trd>,
       <trd>Grille</trd>
     </trdgrp>
@@ -77,6 +126,12 @@
 </art>
 <!--
 $Log: akrid.xml,v $
+Revision 1.32  2018/10/08 19:10:15  revo
+Wolfram Diestel: +bld
+
+Revision 1.31  2018/09/24 17:10:14  revo
+Wolfram Diestel: +ekz-oj, ref grilo, cikado, lokusto
+
 Revision 1.30  2017/04/05 08:10:16  revo
 Ludoviko Francisco: +trd fr
 
@@ -93,11 +148,5 @@ Revision 1.26  2013/10/03 08:11:03  revo
 Wolfram Diestel: listo insektoj
 
 Revision 1.25  2013/09/01 13:10:34  revo
-Wolfram Diestel: referenco al listo zoo genroj
-
-Revision 1.24  2009/07/17 16:31:08  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.23  2008/11/19 09:28:33  revo
 -->
 </vortaro>
