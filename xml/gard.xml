@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gard.xml,v 1.36 2018/01/30 19:10:14 revo Exp $">
+<art mrk="$Id: gard.xml,v 1.37 2019/01/29 12:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>gard</rad>/i <fnt><bib>PV</bib></fnt>
@@ -764,6 +764,27 @@ en la mano
   <trd lng="sk">no&ccaron;n&yacute; str&aacute;&zcaron;nik</trd>
 </drv>
 
+<drv mrk="gard.rel0isto">
+  <kap>rel<tld/>isto</kap>
+  <snc mrk="gard.rel0isto.FER">
+    <uzo tip="fak">FER</uzo>
+    <dif>
+      Tiu, kiu gardas fervojon, ordinare lo&gcirc;ante apud kruci&gcirc;o kun strato kaj tie
+      regante la trafikon:
+      <ekz>
+        malgranda Rel<tld/>ista Domo kun kolombejo
+        <fnt>
+          <aut>J. Dorosmai, trad. J. Dorosmai jun. kaj J. Horvath</aut>
+          <vrk>Fabloj kaj Aforismoj</vrk>
+          <lok>2002</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">garde-barri&egrave;re</trd>
+</drv>
+
+
 <drv mrk="gard.sin0i">
   <kap>sin <tld/>i</kap>
   <snc mrk="gard.sin0i.KOMUNE">
@@ -1063,6 +1084,9 @@ en la mano
 </art>
 <!--
 $Log: gard.xml,v $
+Revision 1.37  2019/01/29 12:10:18  revo
+Jeromo Vasxe: + rel~isto
+
 Revision 1.36  2018/01/30 19:10:14  revo
 Jeromo Vasxe: + 1 ref
 
@@ -1082,8 +1106,5 @@ Revision 1.31  2015/07/04 08:37:34  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.30  2015/06/29 16:29:39  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.29  2014/08/28 12:10:10  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: katalo.xml,v 1.18 2015/12/04 14:10:14 revo Exp $">
+<art mrk="$Id: katalo.xml,v 1.19 2019/01/28 19:10:14 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>katalog</rad>/o <fnt><bib>PV</bib></fnt> 
@@ -46,6 +46,8 @@
   <trd lng="hu">katal&oacute;gus</trd>
   <trd lng="it">catalogo</trd>
   <trd lng="nl">catalogus</trd>
+  <trd lng="pl">katalog</trd>     
+  <trd lng="ro">catalog</trd>
   <trd lng="ru">&c_k;&c_a;&c_t;&c_a;&c_l;&c_o;&c_g;</trd>
   <trd lng="sk">katal&oacute;g</trd>
 </drv>
@@ -87,14 +89,17 @@
   <trd lng="hu">katalogiz&aacute;l</trd>
   <trd lng="it">catalogare</trd>
   <trd lng="nl">catalogiseren</trd>
-  <trd lng="ru">
-&c_k;&c_a;&c_t;&c_a;&c_l;&c_o;&c_g;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;
-</trd>
+  <trd lng="pl">katalogowa&cacute;</trd>     
+  <trd lng="ro">catalogare</trd>
+  <trd lng="ru">&c_k;&c_a;&c_t;&c_a;&c_l;&c_o;&c_g;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">katalogizova&tcaron;</trd>
 </drv>
 </art>
 <!--
 $Log: katalo.xml,v $
+Revision 1.19  2019/01/28 19:10:14  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.18  2015/12/04 14:10:14  revo
 Jeromo Vasxe: ~i + ekz
 
@@ -114,8 +119,5 @@ Revision 1.13  2005/12/06 17:33:38  revo
 Raul Salinas Monteagudo: +trd ca,es
 
 Revision 1.12  2005/10/31 17:31:20  revo
-Jeromo Vasxe: + tez, + 1 ekz
-
-Revision 1.11 2004/12/05 17:33:59 revo
 -->
 </vortaro>

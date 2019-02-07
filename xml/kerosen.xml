@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kerosen.xml,v 1.12 2018/05/31 01:10:13 revo Exp $">
+<art mrk="$Id: kerosen.xml,v 1.13 2019/01/31 23:10:16 revo Exp $">
 <kap>
   <rad>kerosen</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -41,6 +41,8 @@
   <trd lng="fr">k&eacute;ros&egrave;ne</trd>
   <trd lng="hu">kerozin</trd>
   <trd lng="nl">kerosine</trd>
+  <trd lng="pl">nafta</trd>     
+  <trd lng="ro">kerosen</trd>
   <trd lng="ru">&c_k;&c_je;&c_r;&c_o;&c_s;&c_i;&c_n;</trd>
   <trdgrp lng="sk">
     <trd>keros&eacute;n</trd>,
@@ -50,6 +52,9 @@
 </art>
 <!--
 $Log: kerosen.xml,v $
+Revision 1.13  2019/01/31 23:10:16  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.12  2018/05/31 01:10:13  revo
 Dusan Juretic: +trd es
 
@@ -69,8 +74,5 @@ Revision 1.7 2003/06/12 15:26:35 revo
 Sergio Pokrovskij: rilato petrolo/nafto
 
 Revision 1.6 2002/10/27 17:12:47 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.5 2002/03/07 18:09:34 revo
 -->
 </vortaro>
