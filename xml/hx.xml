@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hx.xml,v 1.17 2018/08/20 17:10:15 revo Exp $">
+<art mrk="$Id: hx.xml,v 1.18 2019/02/12 19:10:33 revo Exp $">
 <kap>
     <ofc>*</ofc><ofc>7</ofc><rad>&hcirc;o</rad>
 </kap>
@@ -52,7 +52,7 @@ ref="http://pok.heliohost.org/eo/artikoloj/AdE/la_mito_pri_hx.html"
     inter c kaj ch, estas utila por rekoneblo kaj nekonfuzeblo de la
     scienca terminaro. Vd notojn &ccirc;e
     <refgrp tip="vid">
-      <ref cel="cxil.0o">&ccirc;ilo</ref>,
+      <ref cel="hxil.0o">&hcirc;ilo, &ccirc;ilo</ref>,
       <ref cel="kinin.0o">kinino</ref>,
       <ref cel="krom1.0o">kromo</ref>
     </refgrp>.
@@ -65,6 +65,9 @@ ref="http://pok.heliohost.org/eo/artikoloj/AdE/la_mito_pri_hx.html"
 
 <!--
 $Log: hx.xml,v $
+Revision 1.18  2019/02/12 19:10:33  revo
+Wolfram Diestel: kor. ref
+
 Revision 1.17  2018/08/20 17:10:15  revo
 Wolfram Diestel: liernomo anst. litero, koncizigo, cit
 
@@ -84,8 +87,5 @@ Revision 1.12  2014/05/01 08:10:36  revo
 Damien Brucker: +ekz
 
 Revision 1.11  2014/04/12 07:10:31  revo
-Damien Brucker: aldono (dauxrigo)
-
-Revision 1.10  2014/04/10 16:10:22  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bus.xml,v 1.24 2015/07/04 08:37:31 revo Exp $">
+<art mrk="$Id: bus.xml,v 1.25 2019/02/13 17:10:32 revo Exp $">
 <kap>
   <rad>bus</rad>/o
 </kap>
@@ -65,6 +65,7 @@
     <trd>zbernica</trd>
   </trdgrp>
   <trd lng="sv">buss</trd>
+  <trd lng="tr">otob&uuml;s</trd>
 </drv>
 
 <drv mrk="bus.trole0o">
@@ -110,10 +111,14 @@ html">
   <trd lng="it">filobus</trd>
   <trd lng="pl">trolejbus</trd>
   <trd lng="sk">trolejbus</trd>
+  <trd lng="tr">troleyb&uuml;s</trd>
 </drv>
 </art>
 <!--
 $Log: bus.xml,v $
+Revision 1.25  2019/02/13 17:10:32  revo
+Bora Can Asli: +trd tr
+
 Revision 1.24  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -133,14 +138,5 @@ Revision 1.19  2010/03/12 17:30:15  revo
 Wieland Pusch: +trd bg,de
 
 Revision 1.18  2010/03/11 17:30:18  revo
- Evandro Avellar: kor. trd pt
-
-Revision 1.17  2010/02/25 17:30:17  revo
-Orlando de Oliveira: +trd fr pt
-
-Revision 1.16  2010/01/14 18:27:21  revo
-Russ Williams: +trd en
-
-Revision 1.15  2008/05/09 19:11:16  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klaft.xml,v 1.16 2018/06/09 22:10:18 revo Exp $">
+<art mrk="$Id: klaft.xml,v 1.17 2019/02/12 23:10:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>klaft</rad>/o <fnt><bib>PV</bib></fnt>
@@ -50,11 +50,16 @@
   <trd lng="it">braccio<klr tip="amb"> (antica misura)</klr>
 </trd>
   <trd lng="nl">vadem</trd>
+  <trd lng="pl">s&aogonek;&zdot;e&nacute;</trd>     
+  <trd lng="ro">st&acirc;njen</trd>
   <trd lng="sk">siaha</trd>
 </drv>
 </art>
 <!--
 $Log: klaft.xml,v $
+Revision 1.17  2019/02/12 23:10:44  revo
+Vito Redsky: +trd ro +trd pl
+
 Revision 1.16  2018/06/09 22:10:18  revo
 Dusan Juretic: +trd es
 
@@ -74,8 +79,5 @@ Revision 1.11 2004/12/13 17:33:17 revo
 Marc Bavant: +trd fr
 
 Revision 1.10 2004/07/26 17:24:15 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9 2002/08/08 17:31:56 revo
 -->
 </vortaro>

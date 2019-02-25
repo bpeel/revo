@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kin1.xml,v 1.4 2015/07/04 08:37:37 revo Exp $">
+<art mrk="$Id: kin1.xml,v 1.5 2019/02/10 23:10:28 revo Exp $">
 <kap>
   <rad>kin</rad>/o
   <fnt>V</fnt>
@@ -22,12 +22,17 @@
     <trd>kinabast<klr tip="ind"> (arch.)</klr></trd>,
     <trd>kinaboom<klr tip="ind"> (arch.)</klr></trd>
   </trdgrp>
+  <trd lng="pl">chinowiec</trd>     
+  <trd lng="ro">chinchin&abreve;</trd>
   <trd lng="sk">kina</trd>
 </drv>
 </art>
 
 <!--
 $Log: kin1.xml,v $
+Revision 1.5  2019/02/10 23:10:28  revo
+Vito Redsky: +trd ro +trd pl
+
 Revision 1.4  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 

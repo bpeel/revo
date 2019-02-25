@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klostr1.xml,v 1.10 2018/12/16 17:10:17 revo Exp $">
+<art mrk="$Id: klostr1.xml,v 1.11 2019/02/14 23:10:51 revo Exp $">
   <kap>
     <rad>klostrofobi</rad>/o,
     <var><kap><rad>kla&ubreve;strofobi</rad>/o</kap></var>
@@ -22,10 +22,12 @@
       lst="voko:malsanoj">malsano</ref>, karakterizata per timo esti
       en fermita spaco:
       <ekz>
-        la intrigo situas en <tld/>a kaj izolita vila&gcirc;eto en la &scirc;tato de Nov-Jorko 
+        la intrigo situas en <tld/>a kaj izolita vila&gcirc;eto en la &scirc;tato de
+        Nov-Jorko 
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=38784">Johnny Depp</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=38784">Johnny
+          Depp</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -62,8 +64,9 @@ lng="be">&c_k;&c_l;&c_ja;&c_w;&c_s;&c_t;&c_r;&c_a;&c_f;&c_o;&c_b;&c_ib;&c_ja;</t
   </trdgrp>
   <trd lng="id">klaustrofobia</trd>
   <trd lng="nl">claustrofobie</trd>
-  <trd
-lng="ru">&c_k;&c_l;&c_a;&c_u;&c_s;&c_t;&c_r;&c_o;&c_f;&c_o;&c_b;&c_i;&c_ja;</trd>
+  <trd lng="pl">klaustrofobia</trd>     
+  <trd lng="ro">claustrofobie</trd>
+  <trd lng="ru">&c_k;&c_l;&c_a;&c_u;&c_s;&c_t;&c_r;&c_o;&c_f;&c_o;&c_b;&c_i;&c_ja;</trd>
   <trd lng="sk">klaustrof&oacute;bia</trd>
   <trd lng="cs">klaustrofobie</trd>
 </drv>
@@ -71,6 +74,9 @@ lng="ru">&c_k;&c_l;&c_a;&c_u;&c_s;&c_t;&c_r;&c_o;&c_f;&c_o;&c_b;&c_i;&c_ja;</trd
 
   <!--
   $Log: klostr1.xml,v $
+  Revision 1.11  2019/02/14 23:10:51  revo
+  Vito Redsky: +trd ro +trd pl
+
   Revision 1.10  2018/12/16 17:10:17  revo
   Wolfram Diestel: +var, +ekz
 

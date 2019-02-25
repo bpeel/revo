@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: arogan.xml,v 1.17 2015/09/17 03:10:18 revo Exp $">
+<art mrk="$Id: arogan.xml,v 1.18 2019/02/09 05:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>arogant</rad>/a
@@ -32,7 +32,7 @@
     <refgrp tip="sin">
       <ref cel="respek">malrespekta</ref>,
       <ref cel="fid">tromemfida</ref>,
-      <ref cel="modest">malmodesta</ref>.
+      <ref cel="modest.mal0a.PSI">malmodesta</ref>.
     </refgrp>
     <refgrp tip="vid">
       <ref cel="alt">alte</ref>,
@@ -71,6 +71,9 @@
 </art>
 <!--
 $Log: arogan.xml,v $
+Revision 1.18  2019/02/09 05:10:14  revo
+Alain Gerard: erara ligilo
+
 Revision 1.17  2015/09/17 03:10:18  revo
 Evandro Avellar: +trd pt
 
@@ -90,8 +93,5 @@ Revision 1.12  2002/10/29 18:01:34  revo
 Christopher Zervic: + ang
 
 Revision 1.11  2002/09/25 16:32:11  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2002/09/09 19:48:57  revo
 -->
 </vortaro>
