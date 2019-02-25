@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klemat.xml,v 1.9 2005/06/16 17:43:33 revo Exp $">
+<art mrk="$Id: klemat.xml,v 1.10 2019/02/15 23:10:30 revo Exp $">
 <kap>
   <rad>klemat</rad>/o
   <fnt>Z</fnt>
@@ -26,10 +26,15 @@
     <trd>klem&aacute;tisz</trd>
   </trdgrp>
   <trd lng="nl">clematis</trd>
+  <trd lng="pl">powojnik</trd>     
+  <trd lng="ro">clematis</trd>
 </drv>
 </art>
 <!--
 $Log: klemat.xml,v $
+Revision 1.10  2019/02/15 23:10:30  revo
+Vito Redsky: +trd ro +trd pl
+
 Revision 1.9  2005/06/16 17:43:33  revo
 Jozefo Horvath: +trd hu
 
@@ -50,4 +55,3 @@ Paul Peeraerts: aldonis nl trd
 
 -->
 </vortaro>
-

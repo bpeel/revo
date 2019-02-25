@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aliom.xml,v 1.2 2014/02/06 16:10:12 revo Exp $">
+<art mrk="$Id: aliom.xml,v 1.3 2019/02/16 10:10:20 revo Exp $">
 <kap>
     <rad>aliom</rad>
 </kap>
@@ -12,12 +12,12 @@
     <uzo tip="fak">GRA</uzo>
     <uzo tip="stl">EVI</uzo>
     <dif>
-    =<ref tip="dif" cel="ali.0a.diferenca">ali</ref>kvante.
+      <ref tip="dif" cel="ali.0a.diferenca">Ali</ref>kvante.
     </dif>
     <rim>
-    Tiu neoficiala malofta vorto ne apartenas al la <ref tip="dif"
-    cel="tabel.0vorto">tabelvortoj</ref> kaj ties uzo kunportus
-    drastajn &scirc;an&gcirc;ojn en la lingvon.
+      Tiu neoficiala malofta vorto ne apartenas al la <ref tip="dif"
+      cel="tabel.0vorto">tabelvortoj</ref>. Vd rimarkojn &ccirc;e
+      <ref cel="aliam.0">aliam</ref> kaj <ref cel="ali.0e">alie</ref>.
     </rim>
     </snc>
 </drv>
@@ -25,6 +25,9 @@
 
 <!--
 $Log: aliom.xml,v $
+Revision 1.3  2019/02/16 10:10:20  revo
+Wolfram Diestel: ref rim alie, aliam
+
 Revision 1.2  2014/02/06 16:10:12  revo
 Damien Brucker: +rim
 

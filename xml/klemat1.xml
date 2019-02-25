@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klemat1.xml,v 1.17 2013/08/30 14:11:29 revo Exp $">
+<art mrk="$Id: klemat1.xml,v 1.18 2019/02/15 23:10:27 revo Exp $">
 <kap>
   <rad>klematid</rad>/o
 </kap>
@@ -38,11 +38,16 @@
     <trd>klem&aacute;tisz</trd>
   </trdgrp>
   <trd lng="nl">clematis</trd>
+  <trd lng="pl">powojnik</trd>     
+  <trd lng="ro">clematis</trd>
   <trd lng="ru">&c_l;&c_o;&c_m;&c_o;&c_n;&c_o;&c_s;</trd>
 </drv>
 </art>
 <!--
 $Log: klemat1.xml,v $
+Revision 1.18  2019/02/15 23:10:27  revo
+Vito Redsky: +trd ro +trd pl
+
 Revision 1.17  2013/08/30 14:11:29  revo
 Wolfram Diestel: kor. lst-ref
 
@@ -62,8 +67,5 @@ Revision 1.12  2004/11/22 17:31:58  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.11  2002/06/04 18:01:21  revo
-Axel Rousseau: +trd fr
-
-Revision 1.10  2002/05/03 16:35:56  revo
 -->
 </vortaro>
