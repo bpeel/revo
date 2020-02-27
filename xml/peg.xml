@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: peg.xml,v 1.25 2018/11/29 18:10:20 revo Exp $">
+<art mrk="$Id: peg.xml,v 1.27 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>peg</rad>/o
@@ -23,7 +23,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Adriana Pavani</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008147.html">Rumanaj legendoj el Brazilo</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008147.html">Rumanaj legendoj el Brazilo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -31,7 +31,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Saliko</aut>
-          <vrk><url ref="http://www.monato.net/2010/009971.php">Nestokestoj</url></vrk>
+          <vrk><url ref="&Monato;/2010/009971.php">Nestokestoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -386,6 +386,12 @@
 </art>
 <!--
 $Log: peg.xml,v $
+Revision 1.27  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
+Revision 1.26  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.25  2018/11/29 18:10:20  revo
 Wolfram Diestel: +ekz-oj, bld-oj
 

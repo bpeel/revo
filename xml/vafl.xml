@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vafl.xml,v 1.25 2018/08/15 20:10:15 revo Exp $">
+<art mrk="$Id: vafl.xml,v 1.26 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vafl</rad>/o
@@ -20,7 +20,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Walter Klag</aut>
-          <vrk><url ref="http://www.monato.net/2013/010973.php">Bombo-bankroto</url></vrk>
+          <vrk><url ref="&Monato;/2013/010973.php">Bombo-bankroto</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -28,7 +28,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jean Pierre VandenDaele</aut>
-          <vrk><url ref="http://www.monato.net/2012/010697.php">De analogo al cifereco: evoluo de persona historio</url></vrk>
+          <vrk><url ref="&Monato;/2012/010697.php">De analogo al cifereco: evoluo de persona historio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -65,6 +65,9 @@
 </art>
 <!--
 $Log: vafl.xml,v $
+Revision 1.26  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
 Revision 1.25  2018/08/15 20:10:15  revo
 Wolfram Diestel: +ekzoj, +ref oblato
 

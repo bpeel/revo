@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gul.xml,v 1.21 2019/01/29 18:10:17 revo Exp $">
+<art mrk="$Id: gul.xml,v 1.22 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <rad>gul</rad>/o
 </kap>
@@ -25,7 +25,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Saliko</aut>
-          <vrk><url ref="https://www.monato.net/2013/011065.php"
+          <vrk><url ref="&Monato;/2013/011065.php"
               >&Ccirc;asado</url></vrk>
         </fnt>;
       </ekz>
@@ -76,6 +76,9 @@
 </art>
 <!--
 $Log: gul.xml,v $
+Revision 1.22  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.21  2019/01/29 18:10:17  revo
 Wolfram Diestel: +ekz-oj, +bld
 

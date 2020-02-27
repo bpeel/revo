@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prosta.xml,v 1.19 2018/08/18 20:10:15 revo Exp $">
+<art mrk="$Id: prosta.xml,v 1.20 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>prostat</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -19,7 +19,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="http://www.monato.net/2014/011193.php">Malsama a&gcirc;o, malsamaj riskoj</url></vrk>
+          <vrk><url ref="&Monato;/2014/011193.php">Malsama a&gcirc;o, malsamaj riskoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -63,6 +63,9 @@
 </art>
 <!--
 $Log: prosta.xml,v $
+Revision 1.20  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
 Revision 1.19  2018/08/18 20:10:15  revo
 Wolfram Diestel: +ekz-oj, precizigis dif
 

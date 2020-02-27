@@ -2,16 +2,17 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: homofo.xml,v 1.2 2017/11/01 09:10:13 revo Exp $">
+<art mrk="$Id: homofo.xml,v 1.3 2019/11/27 17:10:33 revo Exp $">
 <kap>
-    <rad>homofobi</rad>/o
+  <rad>homofobi</rad>/o
 </kap>
 <drv mrk="homofo.0o">
   <kap><tld/>o</kap>
   <snc>
     <dif>
       Timo, mal&scirc;ato a&ubreve; malamo al <ref tip="vid"
-      cel="seks.sam0emulo">samseksemuloj</ref>:
+      cel="seks.sam0emulo">samseksemuloj</ref> kaj <ref tip="vid"
+      cel="seks.sam0emo">samseksemo</ref>:
       <ekz>
         <tld/>o sin montras nun senvuale en &ccirc;iuj sociaj tavoloj
         <fnt>
@@ -81,6 +82,9 @@
 
 <!--
 $Log: homofo.xml,v $
+Revision 1.3  2019/11/27 17:10:33  revo
+Robin van der Vliet: dif
+
 Revision 1.2  2017/11/01 09:10:13  revo
 Robin van der Vliet: fonto aldonita. +trd fy
 

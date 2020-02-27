@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: milime.xml,v 1.19 2018/08/20 17:10:22 revo Exp $">
+<art mrk="$Id: milime.xml,v 1.20 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>milimetr</rad>/o
@@ -29,7 +29,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref="http://www.monato.net/2005/008735.php">&Ccirc;u la tero fari&gcirc;os sa&ubreve;no?</url></vrk>
+          <vrk><url ref="&Monato;/2005/008735.php">&Ccirc;u la tero fari&gcirc;os sa&ubreve;no?</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -46,7 +46,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.monato.net/2006/008849.php">Katastrofo en Irako</url></vrk>
+          <vrk><url ref="&Monato;/2006/008849.php">Katastrofo en Irako</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -76,6 +76,9 @@
 </art>
 <!--
 $Log: milime.xml,v $
+Revision 1.20  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
 Revision 1.19  2018/08/20 17:10:22  revo
 Wolfram Diestel: kor. ref-tip
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: libi.xml,v 1.18 2018/08/25 10:40:23 revo Exp $">
+<art mrk="$Id: libi.xml,v 1.19 2019/06/30 18:21:03 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>Libi</rad>/o
@@ -63,7 +63,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Prince Henry Oguinye/pg</aut>
-          <vrk><url ref="http://www.monato.net/2005/008501.php">Kune labori, kune solvi</url></vrk>
+          <vrk><url ref="&Monato;/2005/008501.php">Kune labori, kune solvi</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -73,7 +73,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="http://www.monato.net/2013/010870.php">Forna Kalifornio</url></vrk>
+          <vrk><url ref="&Monato;/2013/010870.php">Forna Kalifornio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -130,7 +130,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.monato.net/2009/009929.php">Du mil na&ubreve;</url></vrk>
+          <vrk><url ref="&Monato;/2009/009929.php">Du mil na&ubreve;</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -177,6 +177,9 @@
 
 <!--
 $Log: libi.xml,v $
+Revision 1.19  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
 Revision 1.18  2018/08/25 10:40:23  revo
 Wolfram Diestel: +ekz-oj, fnt, germ trd-oj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: supr.xml,v 1.36 2018/03/01 21:10:13 revo Exp $">
+<art mrk="$Id: supr.xml,v 1.37 2020/01/04 18:32:47 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>supr</rad>/e <fnt><bib>PV</bib></fnt>
@@ -21,7 +21,11 @@
         el &ccirc;io <tld/>e dirita vi povus konkludi, ke;
       </ekz>
       <ekz>
-        la vojo iras <tld/>en<fnt>Z</fnt>;
+        la vojo de la vivo por sa&gcirc;ulo iras <tld/>en
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 15:24</lok>
+        </fnt>;
       </ekz>
       <ekz>
         pilonoj kun muroj mallar&gcirc;i&gcirc;antaj <tld/>en<fnt>B</fnt>.
@@ -522,6 +526,9 @@
 </art>
 <!--
 $Log: supr.xml,v $
+Revision 1.37  2020/01/04 18:32:47  revo
+Wolfram Diestel: ekz-fnt
+
 Revision 1.36  2018/03/01 21:10:13  revo
 Michel Cantigneaux: malsupren, fundamenta kunmetajxo de la Ekzercaro + referencoj
 
@@ -540,9 +547,6 @@ aldono de trd cs per skripto de M. von Laer
 
 Revision 1.31  2015/06/29 16:33:24  revo
 aldono de trd sk per skripto de M. von Laer
-
-Revision 1.30  2014/08/07 01:10:11  revo
-Jeromo Vasxe: + ~emal~en
 
 -->
 </vortaro>

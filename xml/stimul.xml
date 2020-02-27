@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stimul.xml,v 1.15 2017/09/25 13:10:14 revo Exp $">
+<art mrk="$Id: stimul.xml,v 1.16 2019/09/12 07:10:14 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>stimul</rad>/i <fnt><bib>PV</bib></fnt>
@@ -55,7 +55,10 @@
     <trd>anstacheln</trd>,
     <trd>anspornen</trd>
   </trdgrp>
-  <trd lng="en">stimulate</trd>
+  <trdgrp lng="en">
+    <trd>boost</trd>,
+    <trd>stimulate</trd>
+  </trdgrp>
   <trd lng="fr">stimuler</trd>
   <trdgrp lng="hu">
     <trd>sarkall</trd>,
@@ -143,6 +146,9 @@
 </art>
 <!--
 $Log: stimul.xml,v $
+Revision 1.16  2019/09/12 07:10:14  revo
+Aleks Andre: en
+
 Revision 1.15  2017/09/25 13:10:14  revo
 Jeromo Vasxe: + ~i la nervojn
 
@@ -162,8 +168,5 @@ Revision 1.10  2010/04/16 16:30:40  revo
 Russ Williams: +trd en
 
 Revision 1.9  2004/10/29 16:32:54  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2003/03/03 17:31:24  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxanc.xml,v 1.28 2016/10/03 11:10:34 revo Exp $">
+<art mrk="$Id: sxanc.xml,v 1.29 2019/08/17 05:10:17 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>&scirc;anc</rad>/o <fnt><bib>PV</bib></fnt>
@@ -62,7 +62,11 @@
     <trd>Gelegenheit</trd>,
     <trd>Chance</trd>
   </trdgrp>
-  <trdgrp lng="en"><trd>chance</trd>, <trd>luck</trd></trdgrp>
+  <trdgrp lng="en">
+    <trd>chance</trd>,
+    <trd>luck</trd>,
+    <trd>prospect<klr> (chance of success)</klr></trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>oportunidad</trd>,
     <trd>suerte<klr> (en la expresi&oacute;n "Bonan
@@ -198,6 +202,9 @@ probabilit&eacute;)</klr></trd>
 </art>
 <!--
 $Log: sxanc.xml,v $
+Revision 1.29  2019/08/17 05:10:17  revo
+Aleks Andre: en
+
 Revision 1.28  2016/10/03 11:10:34  revo
 Sebastian Cyprych: +trd pl
 
@@ -217,8 +224,5 @@ Revision 1.23  2012/06/19 11:10:07  revo
 Jeromo Vasxe: + mis/sen~a
 
 Revision 1.22  2009/08/25 16:33:48  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.21  2009/08/21 16:31:23  revo
 -->
 </vortaro>

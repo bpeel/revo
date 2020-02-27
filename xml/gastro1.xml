@@ -2,13 +2,12 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gastro1.xml,v 1.14 2018/12/20 19:10:16 revo Exp $">
-<kap><rad>gastronomi</rad>/o
-<fnt>Z</fnt></kap>
+<art mrk="$Id: gastro1.xml,v 1.16 2019/09/19 19:10:15 revo Exp $">
+<kap><rad>gastronomi</rad>/o</kap>
 <drv mrk="gastro1.0o">
   <kap><tld/>o</kap>
   <uzo tip="fak">KUI</uzo>
-  <snc>
+  <snc mrk="gastro1.0o.fako">
     <dif>
       <ref tip="malprt" cel="fak.0o.brancxo">Fako</ref>, 
       arto pri la zorgado de gastaj bezonoj, inkluzive de man&gcirc;ado,
@@ -40,7 +39,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marta Sol&iacute;s</aut>
-          <vrk><url ref="http://www.monato.net/2005/008399.php"
+          <vrk><url ref="&Monato;/2005/008399.php"
               >Unika fervojo en Andoj</url></vrk>
         </fnt>;
       </ekz>
@@ -50,23 +49,15 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.monato.net/2006/008989.php"
+          <vrk><url ref="&Monato;/2006/008989.php"
               >&Scirc;par-hoteloj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
-    <adm>
-      Enkonduki "kuirarto".
-      Mi ne certas, cxu la nuna difino estas suficxe vasta: sxajnas
-      al mi, ke ~o referencas ne nur al la plezuro mangxi, sed
-      ankaux al la arto kuiri. Ekz-e "mi sxatas la cxinan ~on" ne
-      signifas, ke mi sxatas la sxatadon. La nuna difino pensigas
-      pri &leftquot;gastronomeco&rightquot;.
-      <aut>MB</aut>
-    </adm>
+    <ref tip="prt" cel="art.kuir0o">kuirarto</ref>
     <refgrp tip="vid">
       <ref cel="frand.0ema">frandema</ref>,
-      <ref cel="gastro.0o">gastronomo</ref>.
+      <ref cel="gastro.0o">gastronomo</ref>
     </refgrp>
   </snc>
   <trd lng="ca">gastronomia</trd>
@@ -104,6 +95,12 @@
 </art>
 <!--
 $Log: gastro1.xml,v $
+Revision 1.16  2019/09/19 19:10:15  revo
+Wolfram Diestel: -adm, +ref kuirarto
+
+Revision 1.15  2019/06/30 18:21:01  revo
+adaptis URL de Monato
+
 Revision 1.14  2018/12/20 19:10:16  revo
 Wolfram Diestel: pli vastigis dif, +ekz-oj
 
@@ -120,11 +117,5 @@ Revision 1.10  2002/09/19 16:33:50  revo
 Eduardo M. Kalinowski: ald trd el, pt
 
 Revision 1.9  2002/08/05 17:31:25  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2002/07/08 18:25:51  revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.7  2001/12/11 18:23:52  revo
 -->
 </vortaro>

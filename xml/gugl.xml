@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gugl.xml,v 1.4 2018/06/17 09:10:15 revo Exp $">
+<art mrk="$Id: gugl.xml,v 1.5 2019/06/30 18:21:01 revo Exp $">
 <kap>
     <rad>gugl</rad>/o <fnt><bib>Viki</bib></fnt>
 </kap>
@@ -18,7 +18,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.monato.net/2006/008891.php">Reta demokratio</url></vrk>
+          <vrk><url ref="&Monato;/2006/008891.php">Reta demokratio</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -46,6 +46,9 @@
 
 <!--
 $Log: gugl.xml,v $
+Revision 1.5  2019/06/30 18:21:01  revo
+adaptis URL de Monato
+
 Revision 1.4  2018/06/17 09:10:15  revo
 Wolfram Diestel: apartigis retservon Google en apartan artikolon, +ekz-oj
 

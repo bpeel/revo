@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: buda.xml,v 1.26 2019/02/04 21:10:24 revo Exp $">
+<art mrk="$Id: buda.xml,v 1.29 2019/07/06 08:10:23 revo Exp $">
 <kap>
   <rad>buda</rad>/o
   <fnt><bib>PGl</bib></fnt>
@@ -26,7 +26,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Dina Newman kaj Firda&ubreve;s &Scirc;ukurov</aut>
-          <vrk><url ref="https://www.monato.net/2008/009332.php"
+          <vrk><url ref="https://www.monato.be/2008/009332.php"
               >Budhismo en Ta&gcirc;ikio</url></vrk>
         </fnt>;
       </ekz>
@@ -77,7 +77,7 @@
           <vrk><url
           ref="http://home.arcor.de/gmickle/skk/92ms_2.html"
               >Letero pri la kvaza&ubreve;aj
-              «Aksiomoj»</url></vrk>
+              &#171;Aksiomoj&#187;</url></vrk>
         </fnt>;
       </ekz><ekz>
         <tld lit="B"/>nasko estas festo celebranta la
@@ -118,6 +118,7 @@
   <trd lng="de">Buddha</trd>
   <trd lng="en">Buddha</trd>
   <trd lng="fr">Bouddha</trd>
+  <trd lng="hi">&#2348;&#2369;&#2342;&#2381;&#2343;&#2366; [<ind>buddh&#257;</ind>]</trd>
   <trd lng="hu">Buddha</trd>
   <trdgrp lng="it">
     <trd>Budda</trd>,
@@ -168,7 +169,8 @@
               >Kunfluejo de Multaj Religioj</url></lok>
         </fnt>;
       </ekz><ekz>
-        majstro <nom>Congkapa</nom>, kreinto de la Flava Sekto de la &ccirc;ina
+        majstro <nom>Congkapa</nom>, kreinto de la Flava Sekto de la
+        &ccirc;ina
         tibeta <tld/>ismo
         <fnt>
           <vrk><url ref="http://bbs.ebudhano.cn/read.php?tid=106"
@@ -205,7 +207,8 @@
     <dif>
       Homo akceptanta la instruon de <tld/>ismo:
       <ekz>
-        la pli altaj kastoj de la hindoj-buddistoj, uzas pro motivoj religiaj nur man&gcirc;on
+        la pli altaj kastoj de la hindoj-buddistoj, uzas pro motivoj
+        religiaj nur man&gcirc;on
         kreska&jcirc;an
         <fnt>
           <bib>FK</bib>
@@ -216,7 +219,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Gbeglo Koffi</aut>
-          <vrk><url ref="https://www.monato.net/2006/009046.php"
+          <vrk><url ref="https://www.monato.be/2006/009046.php"
               >Mia religio</url></vrk>
         </fnt>;
       </ekz>
@@ -275,7 +278,8 @@
   esti <ctl>budo</ctl>; sed tiun formon jam okupis fundamenta
   vorto, kaj la homonimio estus &gcirc;ena en iuj okazoj (imagu
   &scirc;ercojn pri <ctl>telefonbudo</ctl> ktp).
-  Probable <nom>Zamenhof</nom> rigardis tiun vorton propra nomo, kaj donis al
+  Probable <nom>Zamenhof</nom> rigardis tiun vorton propra nomo, kaj
+  donis al
   &gcirc;i formon similan al unusilabaj propraj nomoj, kiel
   &leftquot;<nom>Anna</nom>&rightquot; kaj &leftquot;<nom>Emma</nom>&rightquot;: <em>Buddo</em> (cetere,
   kiel en la rusa, pola, itala). Proprajn nomojn li rigardis
@@ -304,7 +308,8 @@
     <fnt><vrk>La Budhismo</vrk>,
       <lok>eldonis Budhana Ligo Esperantista, 1933.</lok></fnt>.
   </ekz>
-  <nom>Waringhien</nom>, verkante PIV-on, misklasas la vorton inter <ctl>la
+  <nom>Waringhien</nom>, verkante PIV-on, misklasas la vorton inter
+  <ctl>la
   nomoj propraj</ctl> kaj preferas la formon okcidentan:
   <ctl>Por la hindaj nomoj mi helpis min precipe per la tre bona
   <em>Leksikologia Komentario</em> kiun J. R&eacute;gulo P&eacute;rez
@@ -319,7 +324,8 @@
   <em>&Hcirc;risto</em>), <em>Mesio</em> (kaj ne <em>Ma&scirc;ia&hcirc;</em>)</ctl> [PIV,
   p.xviii]. &Ccirc;i tie enestas pluraj mallogika&jcirc;oj:
   Unue, en la &jcirc;usaj ekzemploj &gcirc;uste la internacia formo
-  preferita de <nom>Zamenhof</nom> <em>anka&ubreve;</em> pli konformas al la kutimoj de la
+  preferita de <nom>Zamenhof</nom> <em>anka&ubreve;</em> pli konformas al la
+  kutimoj de la
   internacia lingvo ol la etimologia, dum la formo
   <ctl>Budho</ctl>, tute male, aspektas plej barbare el &ccirc;iuj.
   Due, tiu barbara&jcirc;o fakte estas malpli fidela al la originalo.
@@ -344,6 +350,15 @@
 </art>
   <!--
   $Log: buda.xml,v $
+  Revision 1.29  2019/07/06 08:10:23  revo
+  Aleks Andre: hi: iso 15919
+
+  Revision 1.28  2019/07/04 16:10:15  revo
+  Aleks Andre: +trd hi
+
+  Revision 1.27  2019/06/30 07:47:08  revo
+  adaptis URL de Monato
+
   Revision 1.26  2019/02/04 21:10:24  revo
   Wolfram Diestel: +var, -ref-sin, pliaj ekz-oj
 

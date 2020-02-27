@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: termom.xml,v 1.17 2018/11/08 08:10:15 revo Exp $">
+<art mrk="$Id: termom.xml,v 1.19 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>termometr</rad>/o
@@ -18,7 +18,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008190.html">Varmego suferiga</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008190.html">Varmego suferiga</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -26,7 +26,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vladimir Lemelev</aut>
-          <vrk><url ref="http://www.monato.net/2005/008721.php">De kie venis kaj 
+          <vrk><url ref="&Monato;/2005/008721.php">De kie venis kaj 
           kial &ccirc;esis netipa pne&ubreve;monio?</url></vrk>
         </fnt>;
       </ekz>
@@ -36,7 +36,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="http://www.monato.net/2014/011332.php">Dilati&gcirc;o,
+          <vrk><url ref="&Monato;/2014/011332.php">Dilati&gcirc;o,
           kuntiri&gcirc;o ... kaj eksperimento por infana amuzi&gcirc;o</url></vrk>
         </fnt>.
       </ekz>
@@ -74,6 +74,12 @@
 </art>
 <!--
 $Log: termom.xml,v $
+Revision 1.19  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.18  2019/06/30 07:43:30  revo
+adaptis URL de Monato
+
 Revision 1.17  2018/11/08 08:10:15  revo
 Wolfram Diestel: +ekz-oj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: adenin.xml,v 1.7 2013/12/18 14:10:12 revo Exp $">
+<art mrk="$Id: adenin.xml,v 1.8 2019/08/31 13:10:14 revo Exp $">
 <kap>
   <rad>adenin</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -12,13 +12,20 @@
     <uzo tip="fak">BIO</uzo>
     <uzo tip="fak">KEM</uzo>
     <dif>
-      Iu el la
-      <ref tip="super" cel="nukleotid.0o.GNT">nukleotido</ref>specoj
-      de ADN a&ubreve; ARN;
-      simbole <frm>C<sub>5</sub>H<sub>5</sub>N<sub>5</sub></frm>:
+      <frm>C<sub>5</sub>H<sub>5</sub>N<sub>5</sub></frm>, unu el la kvin
+      nukleo-bazoj
+      de DNA kaj RNA:
+      <ekz>
+        en DNA, <tld/>o ligi&gcirc;as al <ref cel="timin.0o">timino</ref>, kaj 
+        <ref cel="guanin.0o">guanino</ref> ligi&gcirc;as al citosino
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007157.html">Vivo: Riboj</url></vrk>
+        </fnt>;
+      </ekz>
       <ekz>
         <tld/>o estas purina nitrogen-bazo, kiu povas aperi en 
-        nukleotidoj de DNA kaj RNA
+        <ref tip="malprt" cel="nukleotid.0o.GNT">nukleotido</ref>j de DNA kaj RNA
         <fnt>
           <bib>Viki</bib>,
           <lok><url ref="http://eo.wikipedia.org/wiki/Adenino">
@@ -31,6 +38,7 @@
   <trd lng="bg">&c_a;&c_d;&c_je;&c_n;&c_i;&c_n;</trd>
   <trd lng="ca">adenina</trd>
   <trd lng="da">adenin</trd>
+  <trd lng="de">Adenin</trd>
   <trd lng="en">adenine</trd>
   <trd lng="es">adenina</trd>
   <trd lng="fr">ad&eacute;nine</trd>
@@ -45,6 +53,9 @@
 
 <!--
 $Log: adenin.xml,v $
+Revision 1.8  2019/08/31 13:10:14  revo
+Wolfram Diestel: +ekz, vortumo de dif, referencoj, grm trd.
+
 Revision 1.7  2013/12/18 14:10:12  revo
 Joop Eggen: +trd bg da en es hu nl
 
@@ -64,7 +75,5 @@ Revision 1.2  2010/10/20 16:30:32  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.1  2010/09/19 16:30:32  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

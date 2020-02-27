@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hipoci.xml,v 1.17 2013/10/05 01:10:16 revo Exp $">
+<art mrk="$Id: hipoci.xml,v 1.18 2019/02/24 14:10:20 revo Exp $">
 <kap>
   <rad>hipocikloid</rad>/o
 </kap>
@@ -13,8 +13,16 @@
   <snc>
     <dif>
       Ebena <ref tip="super" cel="kurb.0o.MAT">kurbo</ref>, naskita de
-      punkto 
-      de cirklo, kiu ruli&gcirc;as interne de alia cirklo.
+      punkto de cirklo, kiu ruli&gcirc;as interne de alia cirklo:
+      <ekz>
+        la cikloido, epicikloidoj, kaj <tld/>oj havas la propra&jcirc;on, ke &ccirc;iu estas simila
+        al &gcirc;ia evoluto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=105750"
+              >Cikloido</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="hipoci.longigita0o">longigita <tld/>o</ref>,
@@ -99,6 +107,9 @@
 </art>
 <!--
 $Log: hipoci.xml,v $
+Revision 1.18  2019/02/24 14:10:20  revo
+Wolfram Diestel: +ekz
+
 Revision 1.17  2013/10/05 01:10:16  revo
 Joop Eggen: +trd bg
 
@@ -118,8 +129,5 @@ Revision 1.12  2004/09/15 16:31:11  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.11  2003/02/16 17:32:18  revo
-Marc Bavant: +drv (mal)longigita ~o
-
-Revision 1.10  2003/02/01 17:33:04  revo
 -->
 </vortaro>

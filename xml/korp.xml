@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korp.xml,v 1.51 2018/10/11 19:10:13 revo Exp $">
+<art mrk="$Id: korp.xml,v 1.52 2019/06/30 18:21:03 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>korp</rad>/o <fnt><bib>PV</bib></fnt>
@@ -348,7 +348,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Pa&ubreve;l Peeraerts</aut>
-          <vrk><url ref="http://www.monato.net/2010/010034.php">Parto 2:
+          <vrk><url ref="&Monato;/2010/010034.php">Parto 2:
           Kiun po&scirc;legilon mi akiru?</url></vrk>
         </fnt>.
         <trd lng="de">eingebettet <klr>(Schriftart)</klr></trd>
@@ -512,7 +512,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="http://www.monato.net/2013/011032.php">Skanado
+          <vrk><url ref="&Monato;/2013/011032.php">Skanado
           &gcirc;ena kaj kancerogena</url></vrk>
         </fnt>.
       </ekz>
@@ -815,6 +815,9 @@
 </art>
 <!--
 $Log: korp.xml,v $
+Revision 1.52  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
 Revision 1.51  2018/10/11 19:10:13  revo
 Vito Redsky: +trd pl +trd ro
 

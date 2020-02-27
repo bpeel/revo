@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: horde.xml,v 1.34 2018/10/06 16:10:14 revo Exp $">
+<art mrk="$Id: horde.xml,v 1.35 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>horde</rad>/o
@@ -76,7 +76,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marc Vanden Bempt</aut>
-          <vrk><url ref="http://www.monato.net/2008/009232.php">Simpatia vulgariga fakliteraturo</url></vrk>
+          <vrk><url ref="&Monato;/2008/009232.php">Simpatia vulgariga fakliteraturo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -146,6 +146,9 @@
 </art>
 <!--
 $Log: horde.xml,v $
+Revision 1.35  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.34  2018/10/06 16:10:14  revo
 Wolfram Diestel: +bldoj
 

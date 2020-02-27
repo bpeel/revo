@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: foton.xml,v 1.18 2019/01/04 10:10:19 revo Exp $">
+<art mrk="$Id: foton.xml,v 1.19 2019/06/30 18:21:01 revo Exp $">
 <kap><rad>foton</rad>/o</kap>
 <drv mrk="foton.0o">
   <kap><tld/>o</kap>
@@ -21,7 +21,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Pejno Simono</aut>
-          <vrk><url ref="http://www.monato.net/2011/010370.php"
+          <vrk><url ref="&Monato;/2011/010370.php"
               >Moderna minaco: radioaktiveco</url></vrk>
         </fnt>;
       </ekz>
@@ -31,7 +31,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="http://www.monato.net/2013/011032.php"
+          <vrk><url ref="&Monato;/2013/011032.php"
               >Skanado &gcirc;ena kaj kancerogena</url></vrk>
         </fnt>.
       </ekz>
@@ -66,6 +66,9 @@
 </art>
 <!--
 $Log: foton.xml,v $
+Revision 1.19  2019/06/30 18:21:01  revo
+adaptis URL de Monato
+
 Revision 1.18  2019/01/04 10:10:19  revo
 Wolfram Diestel: +ekz-oj
 

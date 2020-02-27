@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxild.xml,v 1.28 2019/02/15 07:10:17 revo Exp $">
+<art mrk="$Id: sxild.xml,v 1.31 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;ild</rad>/o
@@ -106,7 +106,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garvan Makaj</aut>
-          <vrk><url ref="http://www.monato.net/2010/009989.php">Voja&gcirc;o
+          <vrk><url ref="&Monato;/2010/009989.php">Voja&gcirc;o
           unudirekta</url></vrk>
         </fnt>;
       </ekz>
@@ -128,7 +128,7 @@
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
           <vrk><url
-          ref="http://www.monato.net/2005/008483.php">Foliumiloj denove
+          ref="&Monato;/2005/008483.php">Foliumiloj denove
           interbatalas</url></vrk>
         </fnt>.
       </ekz>
@@ -156,7 +156,7 @@
           <bib>Monato</bib>
           <aut>Garbhan Macaoidh</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/008323.html">Le&gcirc;oj
+          ref="https://www.monato.be/2004/008323.html">Le&gcirc;oj
           landon prosperigas</url></vrk>
         </fnt>;
       </ekz>
@@ -165,7 +165,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="http://www.monato.net/2012/010670.php">Arto
+          <vrk><url ref="&Monato;/2012/010670.php">Arto
           kreas arton</url></vrk>
         </fnt>;
       </ekz>
@@ -174,7 +174,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="http://www.monato.net/2010/010062.php">Merkato
+          <vrk><url ref="&Monato;/2010/010062.php">Merkato
           dampita</url></vrk>
         </fnt>;
       </ekz>
@@ -184,7 +184,7 @@
           <bib>Monato</bib>
           <aut>Garvan Makaj (Garbhan Macaoidh)</aut>
           <vrk><url
-          ref="http://www.monato.net/2013/010673.php">Malgravaj lingvoj
+          ref="&Monato;/2013/010673.php">Malgravaj lingvoj
           gravas</url></vrk>
         </fnt>.
       </ekz>
@@ -199,7 +199,7 @@
             <bib>Monato</bib>
             <aut>J.m. Parisot-delourmel</aut>
             <vrk><url
-            ref="http://www.esperanto.be/fel/2004/008286.html">Charles
+            ref="https://www.monato.be/2004/008286.html">Charles
             Chaplin kaj Esperanto</url></vrk>
           </fnt>;
         </ekz>
@@ -209,7 +209,7 @@
             <bib>Monato</bib>
             <aut>Carlo Minnaja</aut>
             <vrk><url
-            ref="http://www.esperanto.be/fel/2004/008110.html">Longe
+            ref="https://www.monato.be/2004/008110.html">Longe
             atendata &ccirc;efverko</url></vrk>
           </fnt>.
         </ekz>
@@ -259,7 +259,7 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Marko Naoki Lins</aut>
-            <vrk><url ref="http://www.monato.net/2005/008581.php">&Ccirc;u
+            <vrk><url ref="&Monato;/2005/008581.php">&Ccirc;u
             senfuma E&ubreve;ropo?</url></vrk>
           </fnt>;
         </ekz>
@@ -269,7 +269,7 @@
             <bib>Monato</bib>
             <aut>Saliko</aut>
             <vrk><url
-            ref="http://www.monato.net/2013/011065.php">&Ccirc;asado</url></vrk>
+            ref="&Monato;/2013/011065.php">&Ccirc;asado</url></vrk>
           </fnt>.
         </ekz>
       </dif>
@@ -567,6 +567,7 @@
       <trd>Verkehrsschild</trd>
     </trdgrp>
     <trd lng="es">se&ntilde;al de tr&aacute;fico</trd>
+    <trd lng="fr">panneau</trd>
   </snc>
 </drv>
 
@@ -598,11 +599,23 @@
     </trdgrp>
   </snc>
   <trd lng="es">se&ntilde;al de tr&aacute;fico</trd>
-  <trd lng="fr">panneau routier</trd>
+  <trdgrp lng="fr">
+    <trd>panneau routier</trd>,
+    <trd>panneau</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: sxild.xml,v $
+Revision 1.31  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.30  2019/06/30 07:43:30  revo
+adaptis URL de Monato
+
+Revision 1.29  2019/04/01 17:10:14  revo
+Alain Gerard: +trd fr
+
 Revision 1.28  2019/02/15 07:10:17  revo
 Guillermo Molleda Jimena: trd es
 
@@ -621,9 +634,6 @@ Ludoviko Francisco: +ekz +drv
 
 Revision 1.23  2016/06/01 16:10:20  revo
 Eko Nur Syah Hidayat: +trd id
-
-Revision 1.22  2014/01/31 02:10:18  revo
-Jeromo Vasxe: + pendo/voj~o
 
 -->
 </vortaro>

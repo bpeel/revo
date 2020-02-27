@@ -2,13 +2,12 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: icx.xml,v 1.11 2017/11/16 02:10:16 revo Exp $">
+<art mrk="$Id: icx.xml,v 1.13 2019/09/15 16:10:17 revo Exp $">
 <kap>
-  -<rad>i&ccirc;</rad>
+  -<rad>i&ccirc;</rad>/
 </kap>
 <subart>
 <uzo tip="stl">RAR</uzo>
-<uzo tip="stl">EVI</uzo>
   <drv mrk="icx.0">
     <kap>-<tld/></kap>
     <snc>
@@ -28,11 +27,19 @@
         En la domo de Marcelo</url></lok></fnt>;
       </ekz> 
       <ekz>
-        juvelo kaj belul<tld/>o pla&ccirc;as al &scirc;i
-        <fnt><vrk>Crayon Shin-chan</vrk><lok>
-        <url
-        ref="http://eo.wikipedia.org/wiki/Crayon_Shin-chan">Vikipedio
-        </url></lok></fnt>;
+        amikinoj kaj amik<tld/>oj
+        <fnt>
+          <aut>Bal&aacute;zs Wacha</aut>
+          <vrk>tro pacema simpla&jcirc;o pri esperantistoj ri&ccirc;aj kaj
+          malri&ccirc;aj</vrk>
+          <lok>
+            22-a de julio 2009
+            <url
+            ref="http://www.ipernity.com/blog/es_blaziovaha_ns_balazswacha1948/168695">ipernity:
+            tro pacema simpla&jcirc;o pri esperantistoj ri&ccirc;aj kaj malri&ccirc;aj de
+            Blazio VAHA (n.s. WACHA, Bal&aacute;zs)</url>
+          </lok>
+        </fnt>;
       </ekz>
       <ekz>
         instruist<tld/>o
@@ -45,15 +52,17 @@
     <rim>
       &Ccirc;i tiu sufikso estas la plej populara propono el pluraj proponoj
       por montri viran sekson simetrie al la sufikso <ref tip="vid"
-      cel="in.0">-in</ref>. Komparu <ref tip="vid" cel="nj.0">-nj</ref>
-      kaj <ref tip="vid" cel="cxj.0">-&ccirc;j</ref>. &Gcirc;i ankora&ubreve; ne eniris
-      &gcirc;eneralan lingvouzon kaj restas eksperimento, konsiderata de iuj
-      e&ccirc; kontra&ubreve;a al la Fundamento de Esperanto, kiam &gcirc;i estas uzata kun
-      vira radiko. Alternative eblas uzi la adjektivon <ctl>vira</ctl>
-      (kutime por homoj) a&ubreve; la prefikson <ctl>vir-</ctl> (kutime por
-      bestoj) por indiki virecon. Legindaj &ccirc;itiurilate estas la
-      artikoloj <ctl>Seksa signifo de
-      O-vortoj</ctl>
+      cel="in.0">-in</ref>. Komparu <ref tip="vid"
+      cel="nj.0">-nj</ref> kaj <ref tip="vid" cel="cxj.0">-&ccirc;j</ref>.
+      
+      Nuntempe nemalmultaj homoj jam uzas &gcirc;in, sed &gcirc;ia uzado
+      da&ubreve;re estas polemika. Pli oftaj kaj pli vaste akceptataj
+      manieroj por indiki virecon estas la adjektivo
+      <ctl>vira</ctl> (kutime por homoj) kaj la prefikso
+      <ctl>vir-</ctl> (kutime por bestoj).
+      
+      Legindaj &ccirc;itiurilate estas la artikoloj <ctl>Seksa signifo
+      de O-vortoj</ctl>
       <fnt>
           <aut>Bertilo Wennergren</aut>
           <vrk>Plena Manlibro de Esperanta Gramatiko</vrk>
@@ -76,7 +85,11 @@
       de Bertilo Wennergren. 
     </rim>
     </snc>
-    <ref tip="ant" cel="in.0">-in</ref>
+    <refgrp tip="ant">
+      <ref cel="in.0">-in</ref>, 
+      <ref cel="ip.0">-ip</ref>
+    </refgrp>
+    <ref tip="vid" cel="cxj.0">-&ccirc;j</ref>
     <trd lng="io">-ul</trd>
     <trd lng="pt">-macho</trd>
     <trd lng="vo">hi-</trd>
@@ -168,6 +181,13 @@
 
 <!--
 $Log: icx.xml,v $
+Revision 1.13  2019/09/15 16:10:17  revo
+Robin van der Vliet: +ref
+
+Revision 1.12  2019/09/09 19:10:20  revo
+Sam Penter: gxisdatigo al rim laux rimarkoj en PMEG; anstatauxigo de
+eksvalida vikipedia ref
+
 Revision 1.11  2017/11/16 02:10:16  revo
 Sam Penter: +trd ja; +klr cxe de,nl,ja
 
@@ -183,12 +203,5 @@ Robin van der Vliet: Cxiuj aliaj evitindaj vortoj ankaux enhavas
 tradukojn... Do kial ne cxi tie?
 
 Revision 1.7  2016/11/27 16:10:14  revo
-Wolfram Diestel: reverkis por pli klare montri, ke temas pri
-eksperimenta sufikso
-
-Revision 1.6  2016/11/19 19:10:14  revo
-Robin van der Vliet: +trd de, en, fr, io, tp, vo
-
-Revision 1.5  2008/07/18 13:15:01  revo
 -->
 </vortaro>

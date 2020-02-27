@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxpruc.xml,v 1.22 2017/02/12 12:10:13 revo Exp $">
+<art mrk="$Id: sxpruc.xml,v 1.23 2019/05/29 14:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;pruc</rad>/i <fnt><bib>PV</bib></fnt>
@@ -79,7 +79,10 @@
   <trd lng="be">&c_p;&c_y;&c_r;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
   <trd lng="nl">spuiten</trd>
   <trd lng="en">gush</trd>
-  <trd lng="fr">jaillir</trd>
+  <trdgrp lng="fr">
+    <trd>jaillir</trd>,
+    <trd>surgir</trd>
+  </trdgrp> 
   <trdgrp lng="hu">
     <trd>fr&ouml;cs&ouml;g</trd>,
     <trd>fakad</trd>,
@@ -240,6 +243,9 @@
 </art>
 <!--
 $Log: sxpruc.xml,v $
+Revision 1.23  2019/05/29 14:10:15  revo
+Axel Rousseau: +trd fr
+
 Revision 1.22  2017/02/12 12:10:13  revo
 Guillermo Molleda Jimena: trd es
 
@@ -259,8 +265,5 @@ Revision 1.17  2009/04/07 16:30:26  revo
 Antonio Codazzi: +trd it
 
 Revision 1.16  2005/06/27 19:20:41  revo
-Jeromo Vasxe: + dis~i ~igilo, + kk fnt, + trd fr
-
-Revision 1.15 2003/09/08 16:32:05 revo
 -->
 </vortaro>

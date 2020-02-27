@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sxmink.xml,v 1.27 2018/11/21 14:10:14 revo Exp $">
+<art mrk="$Id: sxmink.xml,v 1.29 2019/09/20 07:10:15 revo Exp $">
 <kap>
   <rad>&scirc;mink</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -35,7 +35,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julian Modest</aut>
-          <vrk><url ref="http://www.monato.net/2012/010807.php">La
+          <vrk><url ref="&Monato;/2012/010807.php">La
           memmortigo de Tanja</url></vrk>
         </fnt>.
       </ekz>
@@ -91,7 +91,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julian Modest</aut>
-          <vrk><url ref="http://www.monato.net/2012/010807.php">La
+          <vrk><url ref="&Monato;/2012/010807.php">La
           memmortigo de Tanja</url></vrk>
         </fnt>.
       </ekz>
@@ -168,7 +168,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Saliko</aut>
-          <vrk><url ref="http://www.monato.net/2006/008760.php">En
+          <vrk><url ref="&Monato;/2006/008760.php">En
           fremda lando</url></vrk>
         </fnt>;
       </ekz>
@@ -252,7 +252,7 @@
   </snc>
   <snc mrk="sxmink.0ajxo.farbo">
     <dif>
-      <ref tip="vid" cel="farb.0o.sxminko">Farbo<sncref/></ref>
+      <ref tip="vid" cel="farb.0o.KOL">Farbo</ref>
       uzata por <tld/>i;
       <ref tip="sin" cel="sxmink.0o.farbo"><tld/>o<sncref/></ref>:
       <ekz>
@@ -293,6 +293,12 @@
 </art>
 <!--
 $Log: sxmink.xml,v $
+Revision 1.29  2019/09/20 07:10:15  revo
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.28  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
 Revision 1.27  2018/11/21 14:10:14  revo
 Guillermo Molleda Jimena: trd es
 
@@ -309,11 +315,5 @@ Revision 1.23  2012/12/24 10:10:08  revo
 Agustin Garcia Lopez: +trd(es)
 
 Revision 1.22  2010/10/18 16:30:35  revo
-Jeromo Vasxe: aux -> u hoko
-
-Revision 1.21  2009/04/05 16:30:57  revo
-Antonio Codazzi: +trd it
-
-Revision 1.20  2006/02/17 17:31:33  revo
 -->
 </vortaro>

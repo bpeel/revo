@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: spinac.xml,v 1.23 2018/11/10 13:10:14 revo Exp $">
+<art mrk="$Id: spinac.xml,v 1.24 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>spinac</rad>/o
@@ -27,7 +27,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="http://www.monato.net/2012/010845.php">Saturnia: Vintra magio</url></vrk>
+          <vrk><url ref="&Monato;/2012/010845.php">Saturnia: Vintra magio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -76,6 +76,9 @@
 </art>
 <!--
 $Log: spinac.xml,v $
+Revision 1.24  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
 Revision 1.23  2018/11/10 13:10:14  revo
 Wolfram Diestel: +snc KUI/ekz, +bld
 

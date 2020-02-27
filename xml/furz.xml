@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: furz.xml,v 1.24 2018/11/29 21:10:15 revo Exp $">
+<art mrk="$Id: furz.xml,v 1.25 2019/06/30 18:21:01 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>furz</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -28,7 +28,7 @@
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
           <vrk><url
-          ref="http://www.monato.net/2007/009215.php">Malpermesoj</url></vrk>
+          ref="&Monato;/2007/009215.php">Malpermesoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -36,7 +36,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Trevor Steele</aut>
-          <vrk><url ref="http://www.monato.net/2015/011474.php">Tridek
+          <vrk><url ref="&Monato;/2015/011474.php">Tridek
           jarojn poste</url></vrk>
         </fnt>.
       </ekz>
@@ -98,7 +98,7 @@
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
           <vrk><url
-          ref="http://www.monato.net/2007/009300.php">Sukcesoplena,
+          ref="&Monato;/2007/009300.php">Sukcesoplena,
           &scirc;ercoplena kaj tre malkutima</url></vrk>
         </fnt>;
       </ekz>
@@ -126,6 +126,9 @@
 </art>
 <!--
 $Log: furz.xml,v $
+Revision 1.25  2019/06/30 18:21:01  revo
+adaptis URL de Monato
+
 Revision 1.24  2018/11/29 21:10:15  revo
 Petr Diblik: korektita trd cs
 

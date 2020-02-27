@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klitor.xml,v 1.25 2018/09/10 18:10:14 revo Exp $">
+<art mrk="$Id: klitor.xml,v 1.26 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>klitor</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -44,7 +44,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Denise Hubert-Remy</aut>
-          <vrk><url ref="http://www.monato.net/2006/008931.php">Bato sub la zono (3)</url></vrk>
+          <vrk><url ref="&Monato;/2006/008931.php">Bato sub la zono (3)</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -83,6 +83,9 @@
 </art>
 <!--
 $Log: klitor.xml,v $
+Revision 1.26  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.25  2018/09/10 18:10:14  revo
 Wolfram Diestel: +ekz-oj, +snc ~a glano
 

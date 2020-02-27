@@ -2,20 +2,33 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: abel1.xml,v 1.30 2016/10/25 18:10:49 revo Exp $">
+<art mrk="$Id: abel1.xml,v 1.33 2019/09/28 17:10:16 revo Exp $">
 <kap>
   <rad>Abel</rad>/o
 </kap>
 <drv mrk="abel1.0o">
   <kap><tld/>o</kap>
   <uzo tip="fak">PERS</uzo>
-  <snc>
+  <snc mrk="abel1.0o.matematikisto">
     <dif>
       Norveglingve: <trd lng="no">Niels <ind>Abel</ind></trd>,
-      1802-1829.
-      Norvega matematikisto.
+      (1802&#8239;-&#8239;1829); norvega <ref tip="lst" lst="voko:historiaj_personoj" cel="matema.0isto">matematikisto</ref>:
+      <ekz>
+        la <tld/>-Premio (a&ubreve; <tld/>a Premio) estas jara matematika premio
+        <klr>[&#8230;]</klr>, &ccirc;i tiu premio celas kovri la mankon de Nobel-premio por
+        matematiko, kvankam oni konsideris, ke la Medalo <nom>Fields</nom> estis jam ekvivalento
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=163839"
+              >Abel-Premio</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
+  <rim>
+    <ref tip="hom" cel="abel.0o">Abelo</ref>
+    estas anka&ubreve; insekto.
+  </rim>
   <trd lng="be">&c_A;&c_b;&c_e;&c_l;&c_mol;</trd>
   <trd lng="bg">&c_A;&c_b;&c_je;&c_l;</trd>
   <trd lng="br">Abel</trd>
@@ -39,10 +52,9 @@
   <uzo tip="fak">MAT</uzo>
   <snc mrk="abel1.a0a.grupo">
     <fnt><bib>MatTerm</bib><lok>p. 14</lok></fnt>
-    <dif>
-      <klr>(p.p. <ref cel="grup.0o.MAT">grupo</ref>)</klr>
-    </dif>
-    <ref tip="dif" cel="komut.0eca.grupoido">komuteca.</ref>
+    <uzo tip="klr">(p.p. grupo)</uzo>
+    <ref tip="dif" cel="komut.0eca.grupoido">komuteca</ref>
+    <ref tip="vid" cel="grup.0o.MAT">grupo</ref>
     <trdgrp lng="be">
       <trd>&c_a;&c_b;&c_e;&c_l;&c_je;&c_v;&c_a; <klr tip="amb">(&c_g;&c_r;&c_u;&c_p;&c_a;)</klr></trd>,
       <trd>&c_k;&c_a;&c_m;&c_u;&c_t;&c_a;&c_t;&c_y;&c_w;&c_n;&c_a;&c_ja; <klr tip="amb">(&c_g;&c_r;&c_u;&c_p;&c_a;)</klr></trd>
@@ -177,6 +189,15 @@
 </art>
 <!--
 $Log: abel1.xml,v $
+Revision 1.33  2019/09/28 17:10:16  revo
+Wolfram Diestel: sintakso
+
+Revision 1.32  2019/08/06 18:10:18  revo
+Wolfram Diestel: sintakso
+
+Revision 1.31  2019/03/01 09:10:18  revo
+Wolfram Diestel: +ekz Abelpremio, rim hom abelo (insekto)
+
 Revision 1.30  2016/10/25 18:10:49  revo
 Lars Raarup Knudsen: aldono de danaj tradukoj
 
@@ -190,14 +211,5 @@ Revision 1.27  2015/01/22 19:10:18  revo
 Wolfram Diestel: sxovis Niels en trd
 
 Revision 1.26  2012/08/22 09:10:19  revo
-Marc Rausell: ++ trd ca
-
-Revision 1.25  2010/06/28 17:53:08  revo
-Guillem Sevilla: +trd ca
-
-Revision 1.24  2009/11/28 17:30:56  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.23  2009/11/04 17:30:17  revo
 -->
 </vortaro>

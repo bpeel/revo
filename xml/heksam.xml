@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: heksam.xml,v 1.18 2018/12/23 18:10:17 revo Exp $">
+<art mrk="$Id: heksam.xml,v 1.19 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>heksametr</rad>/o
@@ -22,7 +22,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>D-ro Winfried Schumacher</aut>
-          <vrk><url ref="http://www.monato.net/2012/010605.php"
+          <vrk><url ref="&Monato;/2012/010605.php"
               >Filozofio metio ideologio</url></vrk>
         </fnt>;
       </ekz>
@@ -31,7 +31,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>D-ro Winfried Schumacher</aut>
-          <vrk><url ref="http://www.monato.net/2012/010605.php"
+          <vrk><url ref="&Monato;/2012/010605.php"
               >Filozofio metio ideologio</url></vrk>
         </fnt>.
       </ekz>
@@ -66,6 +66,9 @@
 </art>
 <!--
 $Log: heksam.xml,v $
+Revision 1.19  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.18  2018/12/23 18:10:17  revo
 Wolfram Diestel: +ekz-oj
 

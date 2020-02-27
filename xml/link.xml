@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: link.xml,v 1.31 2018/10/07 11:10:23 revo Exp $">
+<art mrk="$Id: link.xml,v 1.32 2019/06/30 18:21:03 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>link</rad>/o
@@ -42,7 +42,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>last</aut>
-          <vrk><url ref="http://www.monato.net/2012/010875.php">Pereon de specioj malhelpas homoj</url></vrk>
+          <vrk><url ref="&Monato;/2012/010875.php">Pereon de specioj malhelpas homoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -109,6 +109,9 @@ lng="la">Lynx</trd>).
 </art>
 <!--
 $Log: link.xml,v $
+Revision 1.32  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
 Revision 1.31  2018/10/07 11:10:23  revo
 Wolfram Diestel: +ekz, pli bona bildo
 

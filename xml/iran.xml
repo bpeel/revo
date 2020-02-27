@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: iran.xml,v 1.15 2018/08/25 10:40:25 revo Exp $">
+<art mrk="$Id: iran.xml,v 1.16 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>8</ofc><rad>Iran</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -84,7 +84,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="http://www.monato.net/2007/009225.php">Kiom valoras kaptiteco?</url></vrk>
+          <vrk><url ref="&Monato;/2007/009225.php">Kiom valoras kaptiteco?</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -107,7 +107,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Simone Zoppellaro</aut>
-          <vrk><url ref="http://www.monato.net/2014/011224.php">Lingvo 
+          <vrk><url ref="&Monato;/2014/011224.php">Lingvo 
           kiel sukero: notoj pri la nuntempa persa</url></vrk>
         </fnt>.
       </ekz>
@@ -124,6 +124,9 @@
 
 <!--
 $Log: iran.xml,v $
+Revision 1.16  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.15  2018/08/25 10:40:25  revo
 Wolfram Diestel: +ekz-oj, germ trd-oj
 

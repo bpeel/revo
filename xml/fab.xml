@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fab.xml,v 1.26 2019/01/09 17:10:15 revo Exp $">
+<art mrk="$Id: fab.xml,v 1.27 2019/06/30 18:21:01 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>fab</rad>/o</kap>
 <drv mrk="fab.0o">
@@ -46,7 +46,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vladimir Lemelev</aut>
-          <vrk><url ref="http://www.monato.net/2011/010451.php">E&ubreve;ropo en la fajro de la epidemio</url></vrk>
+          <vrk><url ref="&Monato;/2011/010451.php">E&ubreve;ropo en la fajro de la epidemio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -130,6 +130,9 @@
 </art>
 <!--
 $Log: fab.xml,v $
+Revision 1.27  2019/06/30 18:21:01  revo
+adaptis URL de Monato
+
 Revision 1.26  2019/01/09 17:10:15  revo
 Wolfram Diestel: +snc KUI, ekz-oj, bld
 

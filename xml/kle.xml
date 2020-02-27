@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kle.xml,v 1.19 2019/02/15 23:10:32 revo Exp $">
+<art mrk="$Id: kle.xml,v 1.20 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <rad>kle</rad>/o <fnt><bib>PV</bib></fnt>,
   <var><kap><rad>klef</rad>/o</kap></var> <fnt><bib>Viki</bib></fnt>
@@ -24,7 +24,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Gabriela Hrochov&aacute;</aut>
-          <vrk><url ref="http://www.monato.net/2010/009870.php"
+          <vrk><url ref="&Monato;/2010/009870.php"
               >Kolekti krajonojn</url></vrk>
         </fnt>;
       </ekz>
@@ -75,6 +75,9 @@
 </art>
 <!--
 $Log: kle.xml,v $
+Revision 1.20  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.19  2019/02/15 23:10:32  revo
 Vito Redsky: +trd ro +trd pl
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gotam.xml,v 1.14 2018/12/21 14:10:14 revo Exp $">
+<art mrk="$Id: gotam.xml,v 1.15 2019/06/30 18:21:01 revo Exp $">
 <kap>
   <rad>Gotam</rad>/o
   <fnt><bib>PIV1</bib></fnt>,
@@ -26,7 +26,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Navin Lal Shrestha</aut>
-          <vrk><url ref="http://www.monato.net/2006/008927.php"
+          <vrk><url ref="&Monato;/2006/008927.php"
               >La malgranda Budho</url></vrk>
         </fnt>;
       </ekz>
@@ -67,6 +67,9 @@
 </art>
 <!--
 $Log: gotam.xml,v $
+Revision 1.15  2019/06/30 18:21:01  revo
+adaptis URL de Monato
+
 Revision 1.14  2018/12/21 14:10:14  revo
 Wolfram Diestel: +var, +ekz-oj
 

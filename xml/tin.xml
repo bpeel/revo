@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tin.xml,v 1.16 2018/09/20 16:10:16 revo Exp $">
+<art mrk="$Id: tin.xml,v 1.17 2019/06/14 12:10:15 revo Exp $">
 <kap>
   <rad>tin</rad>/o
   <fnt><bib>MT</bib></fnt>
@@ -41,7 +41,8 @@
     </dif>
   </snc>
   <rim>
-    Oni nomas anka&ubreve; tinuson foje <ref tip="hom" cel="tin1.0o">tino</ref>.
+    Oni nomas anka&ubreve; <ref tip="hom" cel="tinus.0o">tinuso</ref>n foje
+    <tld/>o.
   </rim>
   <trdgrp lng="be">
       <trd>&c_ch;&c_o;&c_p;</trd>,
@@ -104,6 +105,9 @@
 </art>
 <!--
 $Log: tin.xml,v $
+Revision 1.17  2019/06/14 12:10:15  revo
+Damien Brucker: -eraro cxe cel en ref
+
 Revision 1.16  2018/09/20 16:10:16  revo
 Wolfram Diestel: +fnt-oj, +rim hom tino (tinuso)
 
@@ -123,8 +127,5 @@ Revision 1.11  2006/02/15 17:34:54  revo
 Tulio Flores: +trd pt
 
 Revision 1.10  2004/12/02 17:31:16  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2004/09/30 16:31:34  revo
 -->
 </vortaro>

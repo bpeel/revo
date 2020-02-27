@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aksel.xml,v 1.32 2018/08/20 17:10:19 revo Exp $">
+<art mrk="$Id: aksel.xml,v 1.33 2019/06/30 07:47:08 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>aksel</rad>/o
@@ -26,7 +26,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Fidilalao Henriel</aut>
-          <vrk><url ref="http://www.monato.net/2006/008921.php">Kontra&ubreve;le&gcirc;a kopiado</url></vrk>
+          <vrk><url ref="https://www.monato.be/2006/008921.php">Kontra&ubreve;le&gcirc;a kopiado</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -34,7 +34,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="http://www.monato.net/2014/011217.php">Nekovrilaj malkovroj</url></vrk>
+          <vrk><url ref="https://www.monato.be/2014/011217.php">Nekovrilaj malkovroj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -93,6 +93,9 @@
 </art>
 <!--
 $Log: aksel.xml,v $
+Revision 1.33  2019/06/30 07:47:08  revo
+adaptis URL de Monato
+
 Revision 1.32  2018/08/20 17:10:19  revo
 Wolfram Diestel: +fnt, ekz, ref, BOT, snc-mrk, prilaboris dif
 

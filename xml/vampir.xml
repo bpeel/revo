@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vampir.xml,v 1.22 2019/02/05 18:10:29 revo Exp $">
+<art mrk="$Id: vampir.xml,v 1.23 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>vampir</rad>/o
@@ -27,7 +27,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vladimir Lemelev</aut>
-          <vrk><url ref="https://www.monato.net/2008/009550.php"
+          <vrk><url ref="&Monato;/2008/009550.php"
               >Batalo kontra&ubreve; mortiga malsano</url></vrk>
         </fnt>.
       </ekz>
@@ -58,7 +58,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garbhan MacAoidh</aut>
-          <vrk><url ref="https://www.monato.net/2005/008717.php"
+          <vrk><url ref="&Monato;/2005/008717.php"
               >Bram Stoker, kreinto de Dracula</url></vrk>
         </fnt>;
       </ekz>
@@ -67,7 +67,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Nina Kor&jcirc;enevskaja-Gouriou</aut>
-          <vrk><url ref="https://www.monato.net/2006/008819.php"
+          <vrk><url ref="&Monato;/2006/008819.php"
               >Kial lundo ekas sabate?</url></vrk>
         </fnt>.
       </ekz>
@@ -125,6 +125,9 @@
 </art>
 <!--
 $Log: vampir.xml,v $
+Revision 1.23  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
 Revision 1.22  2019/02/05 18:10:29  revo
 Wolfram Diestel: +ekz-oj, +bld
 

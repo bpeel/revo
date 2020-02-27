@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: velen.xml,v 1.15 2018/08/15 18:10:18 revo Exp $">
+<art mrk="$Id: velen.xml,v 1.16 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>velen</rad>/o
@@ -18,7 +18,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garbhan MacAoidh</aut>
-          <vrk><url ref="http://www.monato.net/2007/009180.php">Ornamitaj manuskriptoj</url></vrk>
+          <vrk><url ref="&Monato;/2007/009180.php">Ornamitaj manuskriptoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -52,6 +52,9 @@
 </art>
 <!--
 $Log: velen.xml,v $
+Revision 1.16  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
 Revision 1.15  2018/08/15 18:10:18  revo
 Wolfram Diestel: +ekz
 

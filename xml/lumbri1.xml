@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lumbri1.xml,v 1.6 2012/07/31 19:10:14 revo Exp $">
+<art mrk="$Id: lumbri1.xml,v 1.8 2019/03/15 19:10:17 revo Exp $">
 <kap>
   <rad>lumbriked</rad>/oj
 </kap>
@@ -13,9 +13,17 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      Familio el la ordo
+      <ref tip="lst" lst="voko:zoologiaj_familioj" cel="famili.0o.BIO">Familio</ref> el la ordo
       <ref tip="super" cel="oligohx.0oj">oligo&hcirc;etoj</ref>
-      (<trd lng="la">Lumbricidae</trd>).
+      (<trd lng="la">Lumbricidae</trd>):
+      <ekz>
+        <ref tip="prt" cel="lumbri.0o">lumbriko</ref> a&ubreve; tervermo estas genro el familio de <tld/>oj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=28535"
+              >Lumbriko</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="ca">lumbr&iacute;cids</trd> 
@@ -29,6 +37,12 @@
 
 <!--
 $Log: lumbri1.xml,v $
+Revision 1.8  2019/03/15 19:10:17  revo
+Wolfram Diestel: ref lst zool. familioj
+
+Revision 1.7  2019/03/15 18:10:16  revo
+Wolfram Diestel: +ekz
+
 Revision 1.6  2012/07/31 19:10:14  revo
 Marc Rausell: + trd ca
 

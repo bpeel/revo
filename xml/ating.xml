@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ating.xml,v 1.29 2015/09/17 12:10:23 revo Exp $">
+<art mrk="$Id: ating.xml,v 1.30 2019/08/17 05:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ating</rad>/i <fnt><bib>PV</bib></fnt>
@@ -137,7 +137,10 @@
     <trd>zastihnout</trd>
   </trdgrp>
   <trd lng="de">erreichen</trd>
-  <trd lng="en">attain</trd>
+  <trdgrp lng="en">
+    <trd>attain</trd>,
+    <trd>achieve<klr> (reach)</klr></trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>conseguir</trd>,
     <trd>lograr</trd>
@@ -306,6 +309,9 @@
 </art>
 <!--
 $Log: ating.xml,v $
+Revision 1.30  2019/08/17 05:10:16  revo
+Aleks Andre: en
+
 Revision 1.29  2015/09/17 12:10:23  revo
 Evandro Avellar: +trd pt
 
@@ -325,8 +331,5 @@ Revision 1.24  2012/01/26 13:10:08  revo
 Antonio Codazzi: +trd it + korkt hu
 
 Revision 1.23  2007/12/17 17:30:19  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.22  2005/03/28 17:12:48  revo
 -->
 </vortaro>

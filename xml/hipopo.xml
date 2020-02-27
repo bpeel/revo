@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hipopo.xml,v 1.24 2018/12/28 14:10:14 revo Exp $">
+<art mrk="$Id: hipopo.xml,v 1.25 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>hipopotam</rad>/o
@@ -42,7 +42,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jean-Louis Madzella</aut>
-          <vrk><url ref="http://www.monato.net/2013/010841.php"
+          <vrk><url ref="&Monato;/2013/010841.php"
               >&Gcirc;ua blekado</url></vrk>
         </fnt>.
       </ekz>
@@ -88,6 +88,9 @@
 </art>
 <!--
 $Log: hipopo.xml,v $
+Revision 1.25  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.24  2018/12/28 14:10:14  revo
 Wolfram Diestel: +ekz-oj, +bld
 

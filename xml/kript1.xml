@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kript1.xml,v 1.6 2018/09/28 19:10:14 revo Exp $">
+<art mrk="$Id: kript1.xml,v 1.7 2019/06/30 18:21:03 revo Exp $">
 <kap>
   <rad>kript</rad>/a <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -22,7 +22,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lode van de Velde</aut>
-          <vrk><url ref="http://www.monato.net/2005/008430.php">Suspenso
+          <vrk><url ref="&Monato;/2005/008430.php">Suspenso
           de komenco &gcirc;is fino</url></vrk>
         </fnt>.
       </ekz>
@@ -57,7 +57,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marcel Lemeltier</aut>
-          <vrk><url ref="http://www.monato.net/2012/010235.php">&Ccirc;u
+          <vrk><url ref="&Monato;/2012/010235.php">&Ccirc;u
           forgesita trezoro?</url></vrk>
         </fnt>;
       </ekz>
@@ -88,6 +88,9 @@
 
 <!--
 $Log: kript1.xml,v $
+Revision 1.7  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
 Revision 1.6  2018/09/28 19:10:14  revo
 Vito Redsky: +trd pl +trd ro
 

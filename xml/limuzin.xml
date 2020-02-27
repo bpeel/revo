@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: limuzin.xml,v 1.8 2019/02/13 17:10:34 revo Exp $">
+<art mrk="$Id: limuzin.xml,v 1.9 2020/01/11 23:10:35 revo Exp $">
 <kap>
   <rad>limuzin</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -44,6 +44,8 @@
   <trd lng="fr">limousine</trd>
   <trd lng="it">limousine</trd>
   <trd lng="nl">limousine</trd>
+  <trd lng="pl">limuzyna</trd>     
+  <trd lng="ro">limuzin&abreve;</trd>
   <trd lng="sk">limuz&iacute;na</trd>
   <trd lng="tr">limuzin</trd>
 </drv>
@@ -51,6 +53,9 @@
 
 <!--
 $Log: limuzin.xml,v $
+Revision 1.9  2020/01/11 23:10:35  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.8  2019/02/13 17:10:34  revo
 Bora Can Asli: +trd tr
 
@@ -70,8 +75,5 @@ Revision 1.3  2010/05/16 16:30:56  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.2  2010/05/15 16:31:10  revo
-Wieland Pusch: +trd de
-
-Revision 1.1  2010/05/02 16:31:17  revo
 -->
 </vortaro>

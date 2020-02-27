@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: merkat.xml,v 1.32 2017/12/17 14:10:13 revo Exp $">
+<art mrk="$Id: merkat.xml,v 1.34 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>merkat</rad>/o
@@ -249,7 +249,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garbhan MacAoidh</aut>
-          <vrk><url ref="http://www.monato.net/2005/008705.php">Plurlingva tekstoprilaborado</url></vrk>
+          <vrk><url ref="&Monato;/2005/008705.php">Plurlingva tekstoprilaborado</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -301,7 +301,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Istvan Ertl</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008103.html">Dio en la konstitucio, diablo en la detaloj</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008103.html">Dio en la konstitucio, diablo en la detaloj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -310,7 +310,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Istv&aacute;n Ertl</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008140.html">Pri orienti&gcirc;o kaj okcidenti&gcirc;o</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008140.html">Pri orienti&gcirc;o kaj okcidenti&gcirc;o</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -363,7 +363,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Henriel Fidilalao</aut>
-          <vrk><url ref="http://www.monato.net/2012/010829.php">&Ccirc;ine, &ccirc;u ne?</url></vrk>
+          <vrk><url ref="&Monato;/2012/010829.php">&Ccirc;ine, &ccirc;u ne?</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -383,6 +383,12 @@
 </art>
 <!--
 $Log: merkat.xml,v $
+Revision 1.34  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
+Revision 1.33  2019/06/30 07:42:48  revo
+adaptis URL de Monato
+
 Revision 1.32  2017/12/17 14:10:13  revo
 Wolfram Diestel: prilaboris ekz-ojn
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kvadrant.xml,v 1.6 2015/08/21 07:10:15 revo Exp $">
+<art mrk="$Id: kvadrant.xml,v 1.7 2019/03/20 00:10:14 revo Exp $">
 <kap>
   <rad>kvadrant</rad>/o
 </kap>
@@ -29,21 +29,26 @@
     kvaronon de geometria figuro.
   </rim>
   <trd lng="ca">quadrant</trd>
-  <trd lng="fr">quadrant<klr> (monnaie)</klr></trd>
-  <trd lng="nl">kwadrant<klr tip="ind"> (munt)</klr></trd>
-  <trdgrp lng="sk">
-    <trd>kvadrant</trd>,
-    <trd>&scaron;tvr&tcaron; kruh</trd>
-  </trdgrp>
   <trdgrp lng="cs">
     <trd>kvadrant</trd>,
     <trd>&ccaron;tvrtkruh</trd>
+  </trdgrp> 
+  <trd lng="fr">quadrant<klr> (monnaie)</klr></trd>
+  <trd lng="nl">kwadrant<klr tip="ind"> (munt)</klr></trd>
+  <trd lng="pl">kwadrant</trd>     
+  <trd lng="ro">cvadrant</trd>
+  <trdgrp lng="sk">
+    <trd>kvadrant</trd>,
+    <trd>&scaron;tvr&tcaron; kruh</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: kvadrant.xml,v $
+Revision 1.7  2019/03/20 00:10:14  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.6  2015/08/21 07:10:15  revo
 Damien Brucker: +trd fr
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: leg.xml,v 1.52 2019/01/02 11:10:17 revo Exp $">
+<art mrk="$Id: leg.xml,v 1.56 2019/06/30 18:21:03 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>leg</rad>/i <fnt><bib>PV</bib></fnt>
@@ -46,7 +46,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        tiun kontrakton mi <tld/>is mem en ar&hcirc;ivoj de familio Zamenhof
+        tiun kontrakton mi <tld/>is mem en ar&hcirc;ivoj de familio
+        <nom>Zamenhof</nom>
         <fnt>
           <bib>VivZam</bib>
         </fnt>;
@@ -124,7 +125,7 @@
           <bib>Monato</bib>
           <aut>Hektor Alos I Font</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2003/008062.html">Spektantoj
+          ref="https://www.monato.be/2003/008062.html">Spektantoj
           spektataj</url></vrk>
         </fnt>.
       </ekz>
@@ -146,7 +147,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Edmund Grimley Evans</aut>
-          <vrk><url ref="http://www.monato.net/2011/010280.php">La nova
+          <vrk><url ref="&Monato;/2011/010280.php">La nova
           Kindlo de Amazon</url></vrk>
         </fnt>;
       </ekz>
@@ -156,7 +157,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Pa&ubreve;l Peeraerts</aut>
-          <vrk><url ref="http://www.monato.net/2010/010009.php">Parto 1:
+          <vrk><url ref="&Monato;/2010/010009.php">Parto 1:
           Survoje al iu libro-normo</url></vrk>
         </fnt>.
       </ekz>
@@ -221,7 +222,7 @@
           <bib>Monato</bib>
           <aut>Stefan MACGILL</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/008216.html">Konciza
+          ref="https://www.monato.be/2004/008216.html">Konciza
           hororo el la dek-na&ubreve;a jarcento</url></vrk>
         </fnt>;
       </ekz>
@@ -249,7 +250,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hektor Alos i Font</aut>
-          <vrk><url ref="http://www.monato.net/2006/008812.php">Survoje
+          <vrk><url ref="&Monato;/2006/008812.php">Survoje
           al pli granda memregado</url></vrk>
         </fnt>;
       </ekz>
@@ -267,6 +268,7 @@
   <trd lng="br">lennadenn</trd>
   <trd lng="cs">&ccaron;ten&iacute; <klr>(&ccaron;innost)</klr></trd>
   <trd lng="en">reading</trd>
+  <trd lng="es">lectura</trd>
   <trd lng="it">lettura</trd>
   <trd lng="pl">odczyt</trd>
   <trd lng="ru">&c_ch;&c_t;&c_je;&c_n;&c_i;&c_je;</trd>
@@ -287,7 +289,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        ne sole la infanoj <tld/>as kun plezuro la Grimm'ajn fabelojn, 
+        ne sole la infanoj <tld/>as kun plezuro la <nom>Grimm</nom>'ajn
+        fabelojn, 
         anka&ubreve; la maturaj homoj &scirc;atas ilin <klr>[&#8230;]</klr> kiel simplan,
         facilan <tld/>a&jcirc;on
         <fnt>
@@ -301,7 +304,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Anna kaj Mati Pentus</aut>
-          <vrk><url ref="http://www.monato.net/2011/010229.php">Vagadoj
+          <vrk><url ref="&Monato;/2011/010229.php">Vagadoj
           urbaj kaj mensaj</url></vrk>
         </fnt>;
       </ekz>
@@ -310,7 +313,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garvan Makaj'</aut>
-          <vrk><url ref="http://www.monato.net/2014/011154.php">Kerno de
+          <vrk><url ref="&Monato;/2014/011154.php">Kerno de
           la itala lingvo</url></vrk>
         </fnt>.
       </ekz>
@@ -318,6 +321,10 @@
   </snc>
   <trd lng="de">Text</trd>
   <trd lng="en">text</trd>
+  <trdgrp lng="es">
+    <trd>texto</trd>,
+    <trd>escrito</trd>
+  </trdgrp>
 </drv>
 
 
@@ -338,17 +345,18 @@
         skanilo estas speco de <tld/>ilo;
       </ekz>
       <ekz>
-        provu Knoppix <klr>[&#8230;]</klr> sufi&ccirc;as havi &gcirc;in en la
+        provu <nom>Knoppix</nom> <klr>[&#8230;]</klr> sufi&ccirc;as havi &gcirc;in en la
         KD-<tld/>ilo, kiam la komputilo startas
         <fnt>
           <bib>Monato</bib>
-          <aut>Edmund Grimley Evans</aut>
+          <aut>E. Grimley Evans</aut>
           <vrk><url
-          ref="http://www.monato.net/2010/010031.php">Knoppix</url></vrk>
+          ref="&Monato;/2010/010031.php">Knoppix</url></vrk>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Leseger&auml;t</trd>
+    <trd lng="es">lector electr&oacute;nico</trd>   
     <trd lng="hu">olvas&oacute;k&eacute;sz&uuml;l&eacute;k</trd>
     <trd lng="it">lettore<klr> (strumento)</klr></trd>   
     <trd lng="ru">&c_u;&c_s;&c_t;&c_r;&c_o;&c_j;&c_s;&c_t;&c_v;&c_o; &c_ch;&c_t;&c_je;&c_n;&c_i;&c_ja;</trd>
@@ -360,6 +368,7 @@
       elektronikajn informon:
       <ekz>
         <ind>nova&jcirc;<tld/>ilo</ind>;
+        <trd lng="es">agregador<klr> (de noticias RSS)</klr></trd>
         <trd lng="hu">h&iacute;rolvas&oacute;</trd> 
         <trdgrp lng="it">
           <trd>feed reader</trd>,
@@ -373,9 +382,10 @@
          <fnt>
           <bib>Monato</bib>
           <aut>Henriel Fidilalao</aut>
-          <vrk><url ref="http://www.monato.net/2012/010829.php">&Ccirc;ine, &ccirc;u
+          <vrk><url ref="&Monato;/2012/010829.php">&Ccirc;ine, &ccirc;u
           ne?</url></vrk>
          </fnt>;
+         <trd lng="es">navegador<klr> (web)</klr></trd> 
          <trd lng="hu">b&ouml;ng&eacute;sz&odblac;</trd> 
           <trdgrp lng="it">
             <trd>browser</trd>,
@@ -385,11 +395,11 @@
       </ekz>
       <ekz>
         esploristoj disdonis al infanoj kun malaltaj lernoatingoj la
-        retlibran <tld/>ilon Kindle
+        retlibran <tld/>ilon <nom>Kindle</nom>
         <fnt>
           <bib>Monato</bib>
           <aut>Lenio Marobin</aut>
-          <vrk><url ref="http://www.monato.net/2012/010700.php">Mortas
+          <vrk><url ref="&Monato;/2012/010700.php">Mortas
           la libro, vivas la ekrano</url></vrk>
         </fnt>.
       </ekz>
@@ -434,7 +444,7 @@
       a&ubreve;du &ccirc;eestanto:
       <ekz>
         anta&ubreve;<tld/>u &ccirc;i tiun instruon anta&ubreve; la
-        tuta Izrael, anta&ubreve; iliaj oreloj
+        tuta <nom>Izrael</nom>, anta&ubreve; iliaj oreloj
         <fnt><bib>MT</bib><lok>&Rea; 31:11</lok></fnt>;
       </ekz>
       <ekz>
@@ -446,6 +456,10 @@
   <trd lng="be">&c_ch;&c_y;&c_t;&c_a;&c_c;&c_mol;</trd>
   <trd lng="de">vorlesen</trd>
   <trd lng="en">pronounce</trd>
+  <trdgrp lng="es">
+    <trd>leer<klr> (en voz alta)</klr></trd>,
+    <trd>pronunciar<klr tip="ind"> (un discurso)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>lire<klr tip="ind"> (&agrave; un auditoire)</klr></trd>,
     <trd>prononcer<klr tip="ind"> (un discours)</klr></trd>
@@ -477,10 +491,10 @@
       </ekz>
       <ekz>
         mi tre dankas ilin kaj tute aparte la plej akrevidan
-        erar&ccirc;asiston, s-ron Edmund Grimley Evans, kiu
+        erar&ccirc;asiston, s-ron <nom>Edmund Grimley Evans</nom>, kiu
         tra<tld/>is la tutan tekston
         <fnt>
-          <aut>H. Laine</aut>:
+          <aut>H. Laine</aut>
           <vrk>Teknikaj notoj pri prezentado de
           &leftquot;Proverbaro Esperanta&rightquot;</vrk>
          </fnt>.
@@ -495,6 +509,11 @@
   </trdgrp>
   <trd lng="de">durchlesen</trd>
   <trd lng="en">to read through</trd>
+  <trdgrp lng="es">
+    <trd>leer de principio a fin</trd>,
+    <trd>leer<klr> de cabo a rabo</klr></trd>,
+    <trd>leer<klr> de cabo a cabo</klr></trd>
+  </trdgrp>
   <trd lng="fr">lire d'un bout &agrave; l'autre</trd>
   <trd lng="hu">v&eacute;gigolvas</trd>
   <trd lng="nl">doorlezen</trd>
@@ -519,7 +538,7 @@
           <bib>Monato</bib>
           <aut>Guido Van Damme</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/008167.html">Pli
+          ref="https://www.monato.be/2004/008167.html">Pli
           interese estas kreskigi kukurbojn</url></vrk>
         </fnt>;
       </ekz>
@@ -544,6 +563,10 @@
     <trd>zu Ende <ind>lesen</ind></trd>
   </trdgrp>
   <trd lng="en">to read to the end</trd>
+  <trdgrp lng="es">
+    <trd>terminar de <ind>leer</ind></trd>,
+    <trd>finalizar la lectura</trd>
+  </trdgrp>
   <trd lng="fr">finir de lire</trd>
   <trd lng="hu">elolvas</trd>
   <trdgrp lng="it">
@@ -603,7 +626,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Karlijn Van Damme</aut>
-          <vrk><url ref="http://www.monato.net/2007/008628.php">Kio
+          <vrk><url ref="&Monato;/2007/008628.php">Kio
           estas sklavo kaj kiu estis Kristo</url></vrk>
         </fnt>.
       </ekz>
@@ -617,6 +640,7 @@
     </rim>
   </snc>
   <trd lng="en">to read aloud <klr>(sufficiently loudly)</klr></trd>
+  <trd lng="es">leer<klr> (en voz alta)</klr></trd>
   <trdgrp lng="it">
     <trd>leggere<klr> (a voce alta)</klr></trd>
   </trdgrp>
@@ -637,7 +661,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://www.monato.net/2012/010663.php">De
+          <vrk><url ref="&Monato;/2012/010663.php">De
           papero al komputilo: bitigo de presitaj dokumentoj</url></vrk>
         </fnt>;
       </ekz>
@@ -649,7 +673,7 @@
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/008159.html">Fakaj
+          ref="https://www.monato.be/2004/008159.html">Fakaj
           studoj diverstemaj</url></vrk>
         </fnt>;
       </ekz>
@@ -658,7 +682,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Heidi Goes</aut>
-          <vrk><url ref="http://www.monato.net/2010/009857.php">&Ccirc;arma,
+          <vrk><url ref="&Monato;/2010/009857.php">&Ccirc;arma,
           originaltema kaj pensiga</url></vrk>
         </fnt>;
       </ekz>
@@ -676,6 +700,10 @@
   </snc>
   <trd lng="de">redigieren</trd>
   <trd lng="en">to proofread</trd>
+  <trdgrp lng="es">
+    <trd>revisar</trd>
+    <trd>corregir</trd>
+  </trdgrp>
   <trd lng="fr">relire<klr> (pour corriger)</klr></trd> 
   <trd lng="hu">lektor&aacute;l</trd> 
   <trd lng="nl">proeflezen</trd>
@@ -707,6 +735,9 @@
     <trd>ganz durchlesen</trd>
   </trdgrp>
   <trd lng="en">to read from cover to cover</trd>
+  <trdgrp lng="es">
+    <trd>leer completamente</trd>
+  </trdgrp>
   <trd lng="fr">lire enti&egrave;rement</trd>
   <trd lng="hu">kiolvas</trd>
   <trdgrp lng="it">
@@ -759,19 +790,24 @@
     <trd>vorlesen</trd>
   </trdgrp>
   <trd lng="en">to read aloud</trd>
-  <trd lng="nl">hardop <ind>lezen</ind></trd>
+  <trdgrp lng="es">
+    <trd>leer en voz alta</trd>,
+    <trd>leer de viva voz</trd>
+  </trdgrp>
   <trd lng="fr"><ind>lire</ind> &agrave; haute voix</trd>
   <trd lng="hu">felolvas</trd>  
   <trdgrp lng="it">
     <trd>leggere<klr> (a voce alta)</klr></trd>
   </trdgrp>
+  <trd lng="nl">hardop <ind>lezen</ind></trd>
   <trd lng="pl"><ind>czyta&cacute;</ind> na g&lstroke;os</trd>
   <trd lng="pt">ler em voz alta</trd>
   <trd lng="ru">&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol; <ind>&c_v;&c_s;&c_l;&c_u;&c_h;</ind></trd>
 </drv>
 
 <drv mrk="leg.0opova">
-  <kap><tld/>opova</kap>
+  <kap><tld/>opova,
+  <var><kap><tld/>ipova</kap></var></kap>
   <snc mrk="leg.0opova.TIP">
   <uzo tip="fak">TIP</uzo>
     <dif>
@@ -797,11 +833,27 @@
           <vrk><url ref="http://www.elerno.net/elibro/familio26.htm">
           La Familio</url></vrk>
           <lok>1999</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ctl>Semajna Resumo</ctl> elstarigas, ke <ctl>legado kaj 
+        skribado estas nemalhaveblaj por inkludo de individuo en la 
+        <tld/>ipovan socion</ctl>
+        <fnt>
+          <aut>J. de Paiva Netto </aut>
+          <vrk><url
+          ref="https://www.paivanetto.com/eo/homaj-rajtoj/rasismo-socia-kancero">
+          Rasismo &ndash; socia kancero</url></vrk>
+          <lok>[vidita en 2019]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="en">literate</trd>
+  <trdgrp lng="es">
+    <trd>capaz de <ind>leer</ind> y escribir</trd>,
+    <trd>no analfabeto</trd>
+  </trdgrp>
   <trd lng="fr">alphab&eacute;tis&eacute;</trd>
   <trdgrp lng="it">
     <trd>capace di <ind>leggere</ind> e scrivere</trd>,
@@ -812,7 +864,8 @@
 </drv>
 
 <drv mrk="leg.0opovo">
-  <kap><tld/>opovo</kap>
+  <kap><tld/>opovo,
+  <var><kap><tld/>ipovo</kap></var></kap>
   <snc mrk="leg.0opovo.TIP">
     <dif>
       Kapablo <tld/>i:
@@ -827,18 +880,20 @@
         </fnt>;
       </ekz>
       <ekz>
-        malgra&ubreve; 20-procenta kresko de la <tld/>opovo dum la lastaj dek
-        jaroj <klr>[&#8230;]</klr> 49 % de la virinoj restas analfabetaj
+        en indi&gcirc;enaj komunumoj de meksiko, dulingvaj instruistoj notas, 
+        ke lernantoj kiuj komencas la elementan lernejadon en la 
+        gepatra lingvo akiras <tld/>ipovon pli rapide
         <fnt>
-          <bib>Monato</bib>
-          <aut>A. Giridhar Rao</aut>
-          <vrk><url ref="http://www.monato.net/2008/009532.php">La
-          barata ekonomio: miraklo neefika</url></vrk>
+          <aut>A Giridhar RAO</aut>
+          <vrk><url ref="http://www.ipernity.com/blog/giridhar/93260">
+          Kial lingvoj gravas - nova libreto</url></vrk>
+          <lok>2008-09-18</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="en">literacy</trd>
+  <trd lng="es">alfabetizado</trd>
   <trd lng="fr">alphab&eacute;tisme</trd>
   <trdgrp lng="it">
     <trd>saper <ind>leggere</ind> e scrivere</trd>,
@@ -847,7 +902,8 @@
 </drv>
 
 <drv mrk="leg.0opovigo">
-  <kap><tld/>opovigo</kap>
+  <kap><tld/>opovigo,
+  <var><kap><tld/>ipovigo</kap></var></kap>
   <snc mrk="leg.0opovigo.TIP">
     <uzo tip="stl">RAR</uzo>
     <dif>
@@ -856,7 +912,7 @@
         <klr>[...]</klr> postulis ke oni mobilizu por <tld/>opovigo
         <klr>[...]</klr>
         <fnt>
-          <aut>M. Smith, trad. R. Dumain</aut>,
+          <aut>M. Smith, trad. R. Dumain</aut>
           <vrk><url ref="http://www.autodidactproject.org/my/SEU.html">
           Sociaj Aspektoj de la Esperanto-movado...</url></vrk>
           <lok>2003</lok>
@@ -865,6 +921,7 @@
     </dif>
   </snc>
   <trd lng="en">teaching of literacy</trd>
+  <trd lng="es">alfabetizaci&oacute;n</trd>
   <trd lng="fr">alphab&eacute;tisation</trd>
   <trd lng="it">alfabetizzazione</trd>
   <trd lng="pt">alfabetiza&ccedil;&atilde;o<klr tip="ind">
@@ -872,7 +929,8 @@
 </drv>
 
 <drv mrk="leg.ne0opova">
-  <kap>ne<tld/>opova</kap>
+  <kap>ne<tld/>opova,
+  <var><kap>ne<tld/>ipova</kap></var></kap>
   <snc mrk="leg.ne0opova.TIP">
     <uzo tip="fak">TIP</uzo>
     <dif>
@@ -887,6 +945,19 @@
          ref="http://cindymckee.com/librejo/TOLSTOJ_Kristanismo_kaj_patriotismo.pdf">
          Kristanismo kaj Patriotismo</url></vrk>,
          <lok>1931</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bezonas ili ne komfortigan brakon, sed platon da man&gcirc;a&jcirc;o kaj 
+        akvimunajn &scirc;uojn tiel ke ili povas frekventi lernejon; multaj 
+        estas ne<tld/>ipovaj kaj anka&ubreve; siajn infanojn ne povos 
+        sendi al lernejo 
+        <fnt>
+          <aut>E. de Groen</aut>
+          <vrk><url
+          ref="https://komputeko.net/revuoj/Kroniko-de-Balkanio.pdf">
+          Kiel ka&scirc;i la fra&ubreve;don?</url></vrk>
+          <lok>Balkana Versa Stelo, 2017-03-01</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -894,6 +965,10 @@
   <trdgrp lng="en">
     <trd>illiterate</trd>,
     <trd>analphabet</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>analfabeto</trd>,
+    <trd>iletrado</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>analphab&egrave;te</trd>,
@@ -903,6 +978,18 @@
 </art>
 <!--
 $Log: leg.xml,v $
+Revision 1.56  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
+Revision 1.55  2019/06/30 07:42:48  revo
+adaptis URL de Monato
+
+Revision 1.54  2019/06/27 10:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.53  2019/04/03 15:10:15  revo
+Jeromo Vasxe: + formoj leg*i*pov
+
 Revision 1.52  2019/01/02 11:10:17  revo
 Jean-Marc Lugrin: Aldoni fr liseuse en legilo
 
@@ -919,11 +1006,5 @@ Revision 1.48  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.47  2015/06/29 16:33:19  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.46  2014/06/02 15:10:24  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.45  2014/03/26 02:10:18  revo
 -->
 </vortaro>

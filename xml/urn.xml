@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: urn.xml,v 1.21 2018/11/03 10:10:15 revo Exp $">
+<art mrk="$Id: urn.xml,v 1.23 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>urn</rad>/o <fnt><bib>PV</bib></fnt>
@@ -48,7 +48,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Igarasi Takeo</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008406.html">Formi&gcirc;as du blokoj</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008406.html">Formi&gcirc;as du blokoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -56,7 +56,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="http://www.monato.net/2015/011580.php">Jes ni povas ... kaj ili povis.</url></vrk>
+          <vrk><url ref="&Monato;/2015/011580.php">Jes ni povas ... kaj ili povis.</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -82,6 +82,12 @@
 </art>
 <!--
 $Log: urn.xml,v $
+Revision 1.23  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.22  2019/06/30 07:43:30  revo
+adaptis URL de Monato
+
 Revision 1.21  2018/11/03 10:10:15  revo
 Wolfram Diestel: +ekz-oj
 

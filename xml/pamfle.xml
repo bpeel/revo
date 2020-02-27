@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pamfle.xml,v 1.18 2018/11/28 20:10:15 revo Exp $">
+<art mrk="$Id: pamfle.xml,v 1.20 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>3</ofc><rad>pamflet</rad>/o
 </kap>
@@ -17,7 +17,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/007925.html">Voja&gcirc;impresoj, somero 2002: Kosovo anta&ubreve;eniras</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/007925.html">Voja&gcirc;impresoj, somero 2002: Kosovo anta&ubreve;eniras</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -25,7 +25,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hektor Alos i Font</aut>
-          <vrk><url ref="http://www.monato.net/2011/010471.php">Koruptado demisiigas prezidanton</url></vrk>
+          <vrk><url ref="&Monato;/2011/010471.php">Koruptado demisiigas prezidanton</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -71,6 +71,12 @@
 </art>
 <!--
 $Log: pamfle.xml,v $
+Revision 1.20  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
+Revision 1.19  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.18  2018/11/28 20:10:15  revo
 Wolfram Diestel: +ekz-oj
 

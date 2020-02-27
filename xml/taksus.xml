@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: taksus.xml,v 1.24 2018/11/10 13:10:13 revo Exp $">
+<art mrk="$Id: taksus.xml,v 1.25 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>taksus</rad>/o
@@ -25,7 +25,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Judit Felszeghy</aut>
-          <vrk><url ref="http://www.monato.net/2008/009409.php">Ne 
+          <vrk><url ref="&Monato;/2008/009409.php">Ne 
           nur sporto, anka&ubreve; vivoformo</url></vrk>
         </fnt>.
       </ekz>
@@ -61,6 +61,9 @@
 </art>
 <!--
 $Log: taksus.xml,v $
+Revision 1.25  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
 Revision 1.24  2018/11/10 13:10:13  revo
 Wolfram Diestel: +ekz, +bld
 

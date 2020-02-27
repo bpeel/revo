@@ -2,36 +2,38 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skism.xml,v 1.14 2015/07/04 08:37:43 revo Exp $">
+<art mrk="$Id: skism.xml,v 1.15 2019/06/06 13:10:15 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>skism</rad>/o
 </kap>
 <drv mrk="skism.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <snc mrk="skism.0o.REL">
   <uzo tip="fak">REL</uzo>
     <dif>
       Opa disi&gcirc;o de ia eklezio fare de homoj, kiuj, kvankam akceptante
-      la
-      esencon de la dogmaro, malakceptas la eklezian a&ubreve;toritaton kaj
+      la esencon de la dogmaro, malakceptas la eklezian a&ubreve;toritaton a&ubreve;
       kelkajn neesencajn punktojn de la kredo.
     </dif>
-    <refgrp tip="sin">
-      <ref cel="herez.0o">herezo</ref>.
+    <refgrp tip="vid">
+       <ref cel="herez.0o.REL">herezo<sncref/></ref>,
     </refgrp>
   </snc>
-  <snc>
+  <snc mrk="skism.0o.KOMUNE">
     <dif>
       Disi&gcirc;o pro malsameco de opinioj:
       <ekz>
-        kiu ajn volus &scirc;an&gcirc;i la naturan iradon de nia afero, povos nur
-        krei
-        kelktempan <tld/>on kaj akiri la mal&gcirc;ojan gloron de malhelpanto
-        kaj subfosanto<fnt>Z</fnt>
+        kiu ajn volus &scirc;an&gcirc;i la naturan iradon de la internacilingva afero <klr>[&#8230;]</klr>
+        povos nur krei kelktempan <tld/>on kaj akiri la mal&gcirc;ojan gloron de
+        malhelpanto kaj subfosanto
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en Washington en la 15a de a&ubreve;gusto 1910</vrk>
+        </fnt>.
       </ekz>
     </dif>
-    <refgrp tip="sin">
+    <refgrp tip="vid">
       <ref cel="fend.0o">fendo</ref>,
       <ref cel="romp">rompo</ref>.
     </refgrp>
@@ -65,13 +67,16 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>rozkol</trd>,
-    <trd>roztržka</trd>,
+    <trd>roztr&zcaron;ka</trd>,
     <trd>schizma</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: skism.xml,v $
+Revision 1.15  2019/06/06 13:10:15  revo
+Jeromo Vasxe: + 1 ref, preciz. fnt de ekz
+
 Revision 1.14  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -91,14 +96,5 @@ Revision 1.9  2003/10/29 17:30:47  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.8  2003/01/14 17:35:26  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.7  2002/02/13 17:33:10  revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/10/01 18:13:05 revo
-Dennis Wibrow: +trd germ
-
-Revision 1.5 2001/07/27 19:36:44 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sin.xml,v 1.23 2018/08/06 18:10:14 revo Exp $">
+<art mrk="$Id: sin.xml,v 1.24 2019/08/07 07:10:15 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>sin</rad>/o <fnt>Z</fnt> <fnt><bib>PIV1</bib></fnt>
@@ -94,7 +94,7 @@
     <trd lng="ru">&c_l;&c_o;&c_n;&c_o;</trd>
   </snc>
   <trd lng="cs">hrudn&iacute; &ccaron;&aacute;st od&ecaron;vu</trd>
-  <trd lng="es">seno</trd>
+  <trd lng="es">seno<klr> (interior)</klr></trd>
   <trd lng="fr">sein<klr> (int&eacute;rieur)</klr></trd>
   <trd lng="it">seno<klr> (interiorit&agrave;)</klr></trd>
   <trd lng="sk">hrudn&aacute; &ccaron;as&tcaron; odevu</trd>
@@ -125,6 +125,9 @@
 </art>
 <!--
 $Log: sin.xml,v $
+Revision 1.24  2019/08/07 07:10:15  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.23  2018/08/06 18:10:14  revo
 Michel Cantigneaux: aperas unue en PIV1 (1970), oficiala en 8OA (1974)
 
@@ -144,8 +147,5 @@ Revision 1.18  2011/04/30 20:10:29  revo
 Jeromo Vasxe: + ~e de
 
 Revision 1.17  2010/12/17 17:30:46  revo
-Antonio Codazzi: +trd it
-
-Revision 1.16  2006/07/21 18:03:40  revo
 -->
 </vortaro>

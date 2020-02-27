@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klacx.xml,v 1.20 2018/03/31 22:10:56 revo Exp $">
+<art mrk="$Id: klacx.xml,v 1.21 2019/09/08 18:10:16 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>kla&ccirc;</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -39,7 +39,8 @@
     <trd>chambrear</trd>,
     <trd>chambriar</trd>,
     <trd>chismorrear</trd>,
-    <trd>chismear</trd>
+    <trd>chismear</trd>,
+    <trd>cotillear</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>cancaner<klr tip="ind"> (m&eacute;dire)</klr></trd>,
@@ -85,7 +86,8 @@
   </trdgrp>
   <trdgrp lng="es">
     <trd>chisme</trd>,
-    <trd>chambre</trd>
+    <trd>chambre</trd>,
+    <trd>cotilleo</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>cancan</trd>,
@@ -116,6 +118,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd>cotilla</trd>,
+    <trd>chismoso</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>cancanier</trd>,
     <trd>potinier</trd>
@@ -140,11 +146,18 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd>cotillear de</trd>,
+    <trd>chismorrear sobre</trd>
+  </trdgrp>
   <trd lng="fr">jaser sur</trd>
 </drv>
 </art>
 <!--
 $Log: klacx.xml,v $
+Revision 1.21  2019/09/08 18:10:16  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.20  2018/03/31 22:10:56  revo
 Vito Redsky: +trd ro
 
@@ -164,8 +177,5 @@ Revision 1.15  2009/03/05 17:30:31  revo
 Marcus Curdeius: +pl
 
 Revision 1.14  2007/01/20 17:30:20  revo
-Eduardo Navas: +trd es
-
-Revision 1.13  2004/12/13 17:33:16  revo
 -->
 </vortaro>

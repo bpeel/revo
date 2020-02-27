@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ibis.xml,v 1.21 2018/12/15 11:10:17 revo Exp $">
+<art mrk="$Id: ibis.xml,v 1.22 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ibis</rad>/o
@@ -56,7 +56,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hori Jasuo</aut>
-          <vrk><url ref="http://www.monato.net/2008/009634.php"
+          <vrk><url ref="&Monato;/2008/009634.php"
               >Ibisoj kaj cikonioj: reaperintaj birdoj</url></vrk>
         </fnt>;
       </ekz>
@@ -65,7 +65,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.monato.net/2006/008989.php"
+          <vrk><url ref="&Monato;/2006/008989.php"
               >&Scirc;par-hoteloj</url></vrk>
         </fnt>.
       </ekz>
@@ -98,6 +98,9 @@
 </art>
 <!--
 $Log: ibis.xml,v $
+Revision 1.22  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.21  2018/12/15 11:10:17  revo
 Wolfram Diestel: +ekz-oj, +bld, +lst-ref
 

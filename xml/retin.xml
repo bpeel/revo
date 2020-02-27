@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: retin.xml,v 1.18 2018/11/20 20:10:18 revo Exp $">
+<art mrk="$Id: retin.xml,v 1.19 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>retin</rad>/o <fnt><bib>PV</bib></fnt>
@@ -23,7 +23,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>J&aacute;nos S&aacute;rk&ouml;zi</aut>
-          <vrk><url ref="http://www.monato.net/2005/008401.php"
+          <vrk><url ref="&Monato;/2005/008401.php"
               >La fenomeno de ru&gcirc;aj okuloj</url></vrk>
         </fnt>;
       </ekz>
@@ -76,6 +76,9 @@
 </art>
 <!--
 $Log: retin.xml,v $
+Revision 1.19  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
 Revision 1.18  2018/11/20 20:10:18  revo
 Wolfram Diestel: +ekz-oj
 

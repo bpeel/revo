@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mark.xml,v 1.37 2018/08/24 15:15:13 revo Exp $">
+<art mrk="$Id: mark.xml,v 1.40 2019/08/17 08:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mark</rad>/o
@@ -49,31 +49,8 @@
   <snc mrk="mark.0o.objekt">
     <dif>
       Objekto havanta specialan signon:
-      <ekz>
-        <ind>po&scirc;t<tld/>o</ind>,
-        <trd lng="be">&c_p;&c_a;&c_sh;&c_t;&c_o;&c_v;&c_a;&c_ja;
-        <ind>&c_m;&c_a;&c_r;&c_k;&c_a;</ind></trd>
-        <trd lng="bg">&c_p;&c_o;&c_shch;&c_je;&c_n;&c_s;&c_k;&c_a;
-        &c_m;&c_a;&c_r;&c_k;&c_a;</trd>
-        <trd lng="br">timbr</trd>
-        <trd lng="de">Briefmarke</trd>
-        <trdgrp lng="es">
-          <trd>timbre</trd>,
-          <trd>sello</trd>
-        </trdgrp>
-        <trd lng="fr">timbre(-poste)</trd>
-        <trd lng="hu">postab&eacute;lyeg</trd>
-        <trd lng="nl">postzegel</trd>
-        <trdgrp lng="pt">
-          <trd>marca</trd>,
-          <trd>selo</trd>
-        </trdgrp>
-        <trd lng="ru">&c_p;&c_o;&c_ch;&c_t;&c_o;&c_v;&c_a;&c_ja;
-        <ind>&c_m;&c_a;&c_r;&c_k;&c_a;</ind></trd>
-      </ekz>
-      <ekz>
-        lud<tld/>o.
-      </ekz>
+      <ekz>po&scirc;t<tld/>o</ekz>,
+      <ekz>lud<tld/>o</ekz>.
     </dif>
     <trdgrp lng="be">
       <trd>&c_m;&c_a;&c_r;&c_k;&c_a;</trd>,
@@ -251,6 +228,17 @@
   <trd lng="ru">&c_k;&c_l;&c_je;&c_j;&c_m;&c_o;</trd>
 </drv>
 
+<drv mrk="mark.glu0o">
+  <kap>glu<tld/>o</kap>
+  <snc>
+    <dif>
+      Bildo kun gluo.
+    </dif>
+  </snc>
+  <trd lng="es">pegatina</trd>
+  <trd lng="fr">autocollant</trd>
+</drv>
+
 <drv mrk="mark.posxt0o">
   <kap>po&scirc;t<tld/>o,
   <var><kap><ofc>*</ofc>signo de po&scirc;to <fnt><bib>F</bib>,
@@ -274,15 +262,40 @@
         </fnt>.
       </ekz>
     </dif>
-    <trd lng="bg">&c_p;&c_o;&c_shch;&c_je;&c_n;&c_s;&c_k;&c_a;
-    &c_m;&c_a;&c_r;&c_k;&c_a;</trd>
-    <trd lng="de">Briefmarke</trd>
-    <trd lng="en">postage stamp</trd>
+      <trd lng="be">&c_p;&c_a;&c_sh;&c_t;&c_o;&c_v;&c_a;&c_ja; <ind>&c_m;&c_a;&c_r;&c_k;&c_a;</ind></trd>
+      <trd lng="bg">&c_p;&c_o;&c_shch;&c_je;&c_n;&c_s;&c_k;&c_a; &c_m;&c_a;&c_r;&c_k;&c_a;</trd>
+      <trd lng="br">timbr</trd>
+      <trd lng="de">Briefmarke</trd>
+      <trd lng="en">postage stamp</trd>
+      <trdgrp lng="es">
+        <trd>timbre</trd>,
+        <trd>sello</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>timbre</trd>,
+        <trd>timbre-poste</trd>
+      </trdgrp>
+      <trd lng="hu">postab&eacute;lyeg</trd>
+      <trd lng="nl">postzegel</trd>
+      <trdgrp lng="pt">
+        <trd>marca</trd>,
+        <trd>selo</trd>
+      </trdgrp>
+      <trd lng="ru">&c_p;&c_o;&c_ch;&c_t;&c_o;&c_v;&c_a;&c_ja; <ind>&c_m;&c_a;&c_r;&c_k;&c_a;</ind></trd>
   </snc>
 </drv>
 </art>
 <!--
 $Log: mark.xml,v $
+Revision 1.40  2019/08/17 08:10:14  revo
+Alain Gerard: +trd fr
+
+Revision 1.39  2019/08/07 08:10:15  revo
+Alain Gerard: +trd fr
+
+Revision 1.38  2019/06/11 08:10:14  revo
+Guillermo Molleda Jimena: trd es fr
+
 Revision 1.37  2018/08/24 15:15:13  revo
 kor. ecaron en la chehha
 
@@ -295,18 +308,6 @@ el la U.V.
 
 Revision 1.34  2017/03/07 09:10:18  revo
 Lyubomir Vasilev: +trd bg
-
-Revision 1.33  2015/07/04 08:37:39  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.32  2015/06/29 16:33:19  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.31  2014/08/11 16:10:12  revo
-Guillermo Molleda Jimena: Hispana tradukado
-
-Revision 1.30  2009/02/19 20:26:12  revo
-Wieland Pusch: +trd de
 
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rigard.xml,v 1.44 2018/05/23 14:10:14 revo Exp $">
+<art mrk="$Id: rigard.xml,v 1.48 2020/01/29 15:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rigard</rad>/i
@@ -299,6 +299,7 @@
     <trd>pozrie&tcaron;</trd>
   </trdgrp>
   <trd lng="tp">lukin</trd>
+  <trd lng="zh">&#30475;&#30475;<klr> [k&agrave;nk&agrave;n]</klr></trd>
 </drv>
 
 <drv mrk="rigard.0o">
@@ -463,6 +464,43 @@
   <trd lng="hu">k&iacute;v&aacute;ncsi</trd>
   <trd lng="ru">&c_l;&c_ju;&c_b;&c_o;&c_p;&c_y;&c_t;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">zvedav&yacute;</trd>
+</drv>
+
+<drv mrk="rigard.antaux0i">
+  <kap>anta&ubreve;<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rigard.tra0i.KOMP">
+    <dif>
+      Anticipe ekzameni:
+      <ekz>
+        estas tre rekomendinde &ccirc;iam anta&ubreve;rigardi, kaj nur poste
+        konservi <klr>(la tekston de redaktata artikolo)</klr>
+        <fnt><bib>Viki</bib>:
+          <vrk><url
+          ref="https://www.wikidata.org/wiki/Q6521720">Helpo:Kiel
+          redakti pa&gcirc;on por spertuloj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">previsualizar</trd>
+  <trd lng="en">preview</trd>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_v;&c_a;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o; <ind>&c_p;&c_r;&c_o;&c_s;&c_m;&c_a;&c_t;&c_r;&c_i;&c_v;&c_a;&c_t;&c_mol;</ind></trd>
+</drv>
+
+<drv mrk="rigard.antaux0o">
+  <kap>anta&ubreve;<tld/>o</kap>
+  <snc mrk="rigard.tra0o.KOMP">
+    <dif>
+      Anticipa ekzameno.
+    </dif>
+  </snc>
+  <trdgrp lng="es">
+    <trd>previsualizaci&oacute;n</trd>,
+    <trd>vista previa</trd>
+  </trdgrp>
+  <trd lng="en">preview</trd>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_p;&c_r;&c_o;&c_s;&c_m;&c_o;&c_t;&c_r;</trd>
 </drv>
 
 <drv mrk="rigard.cxirkaux0i">
@@ -800,6 +838,27 @@
   <trd lng="fr">regarder avec surprise</trd>
 </drv>
 
+<drv mrk="rigard.mond0o">
+  <kap>mond<tld/>o</kap>
+  <snc mrk="rigard.mond0o.FIL">
+    <dif>
+      <ref tip="dif" cel="koncep.mond0o">Mondkoncepto</ref>:
+      <ekz>
+        la a&ubreve;toro dum sia nelonga vivo <klr>...</klr>
+        sukcesis partopreni gravegajn eventojn kaj dramece
+        evoluigi sian mond<tld/>on
+        <fnt>
+          <aut>A. Pe&ccirc;onkin</aut>
+          <vrk><url
+          ref="http://esperanto-ondo.ru/Recenzoj/R-orwell.htm">
+          Quo vadimus, homines?</url></vrk>
+          <lok>La Ondo de Esperanto, 2013:2 (220)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+</drv>
+
 <drv mrk="rigard.post0i">
   <kap>post<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
@@ -961,7 +1020,7 @@
           <bib>Monato</bib>
           <aut>Husejn Al-amily</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/008404.html">Elmontri
+          ref="https://www.monato.be/2004/008404.html">Elmontri
           belecon de sporto</url></vrk>
         </fnt>;
       </ekz>
@@ -972,7 +1031,7 @@
           <bib>Monato</bib>
           <aut>Manuel Halvelik</aut>
           <vrk><url
-          ref="http://www.monato.net/2007/008949.php">Atentinda solvo
+          ref="&Monato;/2007/008949.php">Atentinda solvo
           por kompleksega problemo</url></vrk>
         </fnt>.
       </ekz>
@@ -1042,7 +1101,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="http://www.monato.net/2011/010345.php">Ne
+          <vrk><url ref="&Monato;/2011/010345.php">Ne
           menciu la n-vorton</url></vrk>
         </fnt>.
       </ekz>
@@ -1189,45 +1248,21 @@
   <trd lng="sk">prezrie&tcaron;</trd>
 </drv>
 
-<drv mrk="rigard.antaux0i">
-  <kap>anta&ubreve;<tld/>i</kap>
-  <gra><vspec>tr</vspec></gra>
-  <snc mrk="rigard.tra0i.KOMP">
-    <dif>
-      Anticipe ekzameni:
-      <ekz>
-        estas tre rekomendinde &ccirc;iam anta&ubreve;rigardi, kaj nur poste
-        konservi <klr>(la tekston de redaktata artikolo)</klr>
-        <fnt><bib>Viki</bib>:
-          <vrk><url
-          ref="https://www.wikidata.org/wiki/Q6521720">Helpo:Kiel
-          redakti pa&gcirc;on por spertuloj</url></vrk>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="es">previsualizar</trd>
-  <trd lng="en">preview</trd>
-  <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_v;&c_a;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o; <ind>&c_p;&c_r;&c_o;&c_s;&c_m;&c_a;&c_t;&c_r;&c_i;&c_v;&c_a;&c_t;&c_mol;</ind></trd>
-</drv>
-
-<drv mrk="rigard.antaux0o">
-  <kap>anta&ubreve;<tld/>o</kap>
-  <snc mrk="rigard.tra0o.KOMP">
-    <dif>
-      Anticipa ekzameno.
-    </dif>
-  </snc>
-  <trdgrp lng="es">
-    <trd>previsualizaci&oacute;n</trd>,
-    <trd>vista previa</trd>
-  </trdgrp>
-  <trd lng="en">preview</trd>
-  <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_p;&c_r;&c_o;&c_s;&c_m;&c_o;&c_t;&c_r;</trd>
-</drv>
 </art>
 <!--
 $Log: rigard.xml,v $
+Revision 1.48  2020/01/29 15:10:18  revo
+Jeromo Vasxe: + mond~o
+
+Revision 1.47  2019/07/02 16:10:23  revo
+Aleks Andre: zh: rigardi
+
+Revision 1.46  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
+Revision 1.45  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.44  2018/05/23 14:10:14  revo
 Guillermo Molleda Jimena: trd es
 
@@ -1238,17 +1273,5 @@ Revision 1.42  2018/04/21 16:10:13  revo
 Wolfram Diestel: ~i: prilaboris ekz-ojn
 
 Revision 1.41  2018/01/29 23:10:27  revo
-Jeromo Vasxe: + ! ekz
-
-Revision 1.40  2017/03/27 12:10:14  revo
-Damien Brucker: -eraro cxe FAK
-
-Revision 1.39  2017/03/26 05:10:13  revo
-Sergio Pokrovskij: +super~o, antaux~o
-
-Revision 1.38  2015/10/03 17:10:17  revo
-Jeromo Vasxe: + sat~i
-
-Revision 1.37  2015/07/04 08:37:42  revo
 -->
 </vortaro>

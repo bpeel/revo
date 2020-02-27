@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klik.xml,v 1.15 2018/12/09 20:10:26 revo Exp $">
+<art mrk="$Id: klik.xml,v 1.16 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <rad>klik</rad>/o
 </kap>
@@ -49,7 +49,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="http://www.monato.net/2014/011384.php"
+          <vrk><url ref="&Monato;/2014/011384.php"
               >A&ccirc;etunto, atentu!</url></vrk>
         </fnt>.
       </ekz>
@@ -108,6 +108,9 @@
 </art>
 <!--
 $Log: klik.xml,v $
+Revision 1.16  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.15  2018/12/09 20:10:26  revo
 Wolfram Diestel: +ekz-oj
 

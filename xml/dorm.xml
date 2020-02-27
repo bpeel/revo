@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: dorm.xml,v 1.62 2018/10/10 12:10:17 revo Exp $">
+<art mrk="$Id: dorm.xml,v 1.65 2019/06/09 08:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dorm</rad>/i <fnt><bib>PV</bib></fnt>
@@ -19,7 +19,6 @@
         nia sukceso ne lasas ilin <tld/>i<fnt>Z</fnt>;
       </ekz><ekz>
         <ind><tld/>i &scirc;tonan <klr>(profundan) </klr> <tld/>on</ind>
-           
         <fnt>B</fnt>.
         <trd lng="ca">dormir com un tronc</trd>
       </ekz>
@@ -225,9 +224,7 @@
       Profunde <tld/>i.
     </dif>
   </snc>
-  <trd lng="be">&c_s;&c_p;&c_a;&c_c;&c_mol; 
-  &c_g;&c_l;&c_y;&c_b;&c_o;&c_k;&c_ib;&c_m;
-    &c_s;&c_n;&c_o;&c_m;</trd>
+  <trd lng="be">&c_s;&c_p;&c_a;&c_c;&c_mol; &c_g;&c_l;&c_y;&c_b;&c_o;&c_k;&c_ib;&c_m; &c_s;&c_n;&c_o;&c_m;</trd>
   <trdgrp lng="ca">
     <trd>dormir <ind>profundament</ind></trd>,
     <trd>dormir com un <ind>soc</ind></trd>
@@ -253,9 +250,7 @@
     <trd>spa&cacute; jak kamie&nacute;</trd>
   </trdgrp>
   <trdgrp lng="ru">
-    <trd>&c_s;&c_p;&c_a;&c_t;&c_mol; 
-    &c_g;&c_l;&c_u;&c_b;&c_o;&c_k;&c_i;&c_m;
-      &c_s;&c_n;&c_o;&c_m;</trd>,
+    <trd>&c_s;&c_p;&c_a;&c_t;&c_mol; &c_g;&c_l;&c_u;&c_b;&c_o;&c_k;&c_i;&c_m; &c_s;&c_n;&c_o;&c_m;</trd>,
     <trd>&c_d;&c_r;&c_y;&c_h;&c_n;&c_u;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">tvrdo spa&tcaron;</trd>
@@ -320,8 +315,7 @@
       kontrolo, &ccirc;u venis veka signalo:
       <ekz>
         &ccirc;i tiu agordo preskribas al la bitlibro <tld/>eti se
-        dum
-        20 minutoj venis nenia komando de la leganto.
+        dum 20 minutoj venis nenia komando de la leganto.
       </ekz>
     </dif>
     <trdgrp lng="en">
@@ -331,8 +325,7 @@
     <trd lng="es">suspender <klr>(guardar sesi&oacute;n de 
     trabajo en la memoria RAM</klr></trd>
     <trd lng="ru">&c_b;&c_y;&c_t;&c_mol; &c_v;
-      <ind>&c_r;&c_je;&c_zh;&c_i;&c_m;&c_je;
-      &c_s;&c_n;&c_a;</ind></trd>
+      <ind>&c_r;&c_je;&c_zh;&c_i;&c_m;&c_je; &c_s;&c_n;&c_a;</ind></trd>
   </snc>
   <trdgrp lng="cs">
     <trd>d&rcaron;&iacute;mat</trd>,
@@ -486,8 +479,7 @@
     <trd>alv&oacute;eszk&ouml;z</trd>,
     <trd>alv&oacute; alkalmatoss&aacute;g</trd>
   </trdgrp>
-  <trd lng="ru">&c_s;&c_p;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
-  &c_p;&c_r;&c_i;&c_n;&c_a;&c_d;&c_l;&c_je;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="ru">&c_s;&c_p;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_p;&c_r;&c_i;&c_n;&c_a;&c_d;&c_l;&c_je;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   <trd lng="sk">pr&aacute;&scaron;ok na spanie</trd>
 </drv>
 
@@ -761,9 +753,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_s;&c_p;&c_a;&c_c;&c_mol;
-  <klr>(&c_u;&c_p;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol; 
-  &c_n;&c_je;&c_sh;&c_t;&c_a; &c_p;&c_r;&c_a;&c_z;
-  &c_s;&c_o;&c_n;)</klr></trd>
+  <klr>(&c_u;&c_p;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol; &c_n;&c_je;&c_sh;&c_t;&c_a; &c_p;&c_r;&c_a;&c_z; &c_s;&c_o;&c_n;)</klr></trd>
   <trd lng="ca">dormir <klr>(cont&iacute;nuament, sense interrupcions ni
   despertar-se)</klr></trd>
   <trd lng="cs">zaspat</trd>
@@ -786,14 +776,12 @@
 </drv>
 
 <drv mrk="dorm.mal0i">
-  <kap>mal<tld/>i</kap>
+  <kap>mal<tld/>i <fnt><bib>PV</bib></fnt></kap>
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="dorm.mal0i.KOMUNE">
     <dif>
       Esti en la aktiva, ne <tld/>a stato, ne <tld/>i:
       <ekz>
-        li mal<tld/>is jam tri noktojn apud la malsana patro;
-      </ekz><ekz>
         ni mal<tld/>as en la tago, <tld/>as en la nokto kaj havas 
         tiam niajn son&gcirc;ojn, sed kun arbo estas alia afero, 
         arbo mal<tld/>as en la da&ubreve;ro de tri sezonoj, kaj nur 
@@ -801,39 +789,54 @@
         <fnt><bib>Fab4</bib>,
               <lok>lasta son&gcirc;o de maljuna kverko</lok></fnt>;
       </ekz><ekz>
-        sed se diversaj homoj parolos diversmaniere, anka&ubreve; 
-        tiam mal<tld/>u, &ccirc;ar la sa&gcirc;o ordonas 
-        anta&ubreve;vidi prefere malbonon ol bonon
-        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 18a</lok></fnt>;
+        fakte &scirc;ajnas, ke kiam infano ku&scirc;as, &gcirc;i
+        preska&ubreve; neniam estas plene mal<tld/>a
+        <fnt>
+          <aut>R. Rossetti</aut>:
+          <vrk>La homo, problemsolva organismo</vrk>.
+          <lok>Literatura foiro, 1998-04 (112), p.&nbsp;44a</lok>
+        </fnt>;
       </ekz><ekz>
-            fakte &scirc;ajnas, ke kiam infano ku&scirc;as, &gcirc;i
-            preska&ubreve; neniam
-            estas plene mal<tld/>a
-            <fnt>
-              <aut>R. Rossetti</aut>:
-              <vrk>La homo, problemsolva organismo</vrk>.
-              <lok>Literatura foiro, 1998-04 (112),
-              p.&nbsp;44a</lok>
-            </fnt>;
-      </ekz><ekz>
-        <uzo tip="stl">FIG</uzo>
-        la Eternulo mal<tld/>as <klr>(= atentas, zorgas)</klr>
-        super siaj fideluloj
-	<fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;ap.&nbsp;15a</lok></fnt>.
+        li mal<tld/>is jam tri noktojn apud la malsana patro;
       </ekz>
     </dif>
-    <rim>
-      PV, PAG kaj PIV ial atribuas al <ctl>mal<tld/>i</ctl> la sencon
-      <ctl>sin deteni de <tld/>o dum la kutima <tld/>tempo</ctl>.  Tio
-      estas mallogika (&ccirc;ar rompas la simetrion inter
-      <ctl><tld/>i</ctl> kaj <ctl>mal<tld/>i</ctl>), malutila (&ccirc;ar
-      arbitre limigante la sencon de <ctl>mal<tld/>i</ctl> tio senigas
-      nin je vorto por situacio kiel la prezentita en la Fabela
-      ekzemplo) kaj simple malvera, kiel atestas la
-      ekzemploj. <ctl>Mal<tld/>i</ctl>, samkiel <ctl>dormi</ctl>, oni
-      povas je &ccirc;ia tempo, &ccirc;u kutima a&ubreve; ne.
-    </rim>
+    <trd lng="ru">&c_b;&c_o;&c_d;&c_r;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
+
+  <snc mrk="dorm.mal0i.atenti">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Havi aktivan, viglan mensostaton,
+      <refgrp tip="sin">
+        <ref cel="atent.0i.sinturni">atenti<sncref/></ref>,
+        <ref cel="zorg.0i">zorgi</ref>
+      </refgrp>:
+      <ekz>
+        la Eternulo mal<tld/>as super siaj fideluloj
+	<fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;ap.&nbsp;15a</lok></fnt>;
+      </ekz><ekz>
+        sed se diversaj homoj parolos diversmaniere, anka&ubreve; 
+        tiam mal<tld/>u, &ccirc;ar la sa&gcirc;o ordonas anta&ubreve;vidi prefere
+        malbonon ol bonon
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 18a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_b;&c_d;&c_je;&c_t;&c_mol;</trd>
+  </snc>
+
+  <rim>
+    PV, PAG kaj PIV ial atribuas al <ctl>mal<tld/>i</ctl> la sencon
+    <ctl>sin deteni de <tld/>o dum la kutima <tld/>tempo</ctl>. Tio
+    estas mallogika (&ccirc;ar rompas la simetrion inter <ctl><tld/>i</ctl>
+    kaj <ctl>mal<tld/>i</ctl>), malutila (&ccirc;ar arbitre limigante la
+    sencon de <ctl>mal<tld/>i</ctl> tio senigas nin je vorto por
+    situacio kiel la prezentita en la Fabela ekzemplo) kaj simple
+    malvera, kiel atestas la ekzemploj. <ctl>Mal<tld/>i</ctl>,
+    samkiel <ctl>dormi</ctl>, oni povas je &ccirc;ia tempo, &ccirc;u kutima a&ubreve; ne.
+    Anka&ubreve; la figura senco mal<tld/>i<sncref ref="dorm.mal0i.atenti"/>
+    pruvas tion.
+  </rim>
+
   <trd lng="be">&c_n;&c_ja; <ind>&c_s;&c_p;&c_a;&c_c;&c_mol;</ind>
   </trd>
   <trdgrp lng="ca">
@@ -863,10 +866,69 @@
     <trd>by&cacute; na jawie</trd>,
     <trd>powstrzymywa&cacute; si&eogonek; od snu</trd>
   </trdgrp>
-  <trd
-  lng="ru">&c_b;&c_o;&c_d;&c_r;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">bdie&tcaron;</trd>
   <trd lng="sv">vara <ind>vaken</ind></trd>
+</drv>
+
+<drv mrk="dorm.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc>
+    <dif>Rilata al aktiva, ne <tld/>a stato:
+      <ekz>
+        Mi <tld/>is, sed mia koro estis mal<tld/>a
+        <fnt><bib>MT</bib>, <lok>&Alt; 5:2</lok></fnt>;
+      </ekz><ekz>
+        &Ccirc;iuj infanoj estis mal<tld/>aj. Ili gapis scivole al Johana
+        <fnt>
+          <aut>Ferenc Szil&aacute;gyi</aut>:
+          <vrk>Vespera ru&gcirc;o anoncas ventegon</vrk>
+        </fnt>;
+      </ekz><ekz>
+         la servuteco en kiun &gcirc;i enfermas iliajn vivojn mem dum ok
+         horoj da laborado, nome duono de iliaj mal<tld/>aj horoj
+         <fnt><lok>Le Monde diplomatique en Esperanto 2014-2016</lok>
+         </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">awake</trd>
+  <trd lng="fr">&eacute;veill&eacute;</trd>
+  <trd lng="ru">&c_b;&c_o;&c_d;&c_r;&c_s;&c_t;&c_v;&c_u;&c_ju;&c_shch;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="dorm.mal0o">
+  <kap>mal<tld/>o</kap>
+  <snc>
+    <dif>Aktiva stato de
+      <ref cel="sistem.nervo0o">nervosistemo</ref>,
+      manifesti&gcirc;anta en konscia konduto:
+      <ekz>
+        la ciklo de <tld/>o kaj mal<tld/>o;
+      </ekz><ekz>
+        vi levi&gcirc;os kvaza&ubreve; el <tld/>o al feli&ccirc;a mal<tld/>o kaj kvaza&ubreve;
+        el nokto al la tagi&gcirc;o de Dio
+        <fnt>
+         <aut>H. Sienkewicz, tr. Lidia Zamenhof</aut>:
+         <vrk>Quo vadis</vrk>, <lok>&Ccirc;ap. 53a</lok>
+        </fnt>;
+      </ekz><ekz>
+        Li akceptas la teorion de duobla konscio en <tld/>o kaj
+        mal<tld/>o, per kio 80 &gcirc;is 90% da homoj povas subi&gcirc;i al
+        hipnotismo
+        <fnt>
+         <aut>Haupenthal, R.</aut>:
+         <vrk>La Esperantisto</vrk>, <lok>p. 28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">wakefulness</trd>
+  <trd lng="cs">bd&ecaron;lost</trd>
+  <trd lng="pl">czuwanie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_o;&c_d;&c_r;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_b;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dorm.tra0i">
@@ -897,9 +959,8 @@
   </trdgrp>
   <trd lng="nl">verslapen</trd>
   <trd lng="pl">przespa&cacute;</trd>
-  <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_p;&c_a;&c_t;&c_mol; <klr>
-  (&c_v;&c_s;&c_ju; &c_n;&c_o;&c_ch;&c_mol; &c_i;
-  &c_t;.&c_p;.)</klr></trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_p;&c_a;&c_t;&c_mol;<klr>
+       (&c_v;&c_s;&c_ju; &c_n;&c_o;&c_ch;&c_mol; &c_i; &c_t;.&c_p;.)</klr></trd>
 </drv>
 
 <drv mrk="dorm.sat0i">
@@ -1117,6 +1178,15 @@
 </art>
 <!--
 $Log: dorm.xml,v $
+Revision 1.65  2019/06/09 08:10:14  revo
+Sergio Pokrovskij: apartigo de mal~i.atenti
+
+Revision 1.64  2019/06/04 09:10:15  revo
+Sergio Pokrovskij: +mal~o
+
+Revision 1.63  2019/05/29 18:10:15  revo
+Sergio Pokrovskij: +mal~a
+
 Revision 1.62  2018/10/10 12:10:17  revo
 Joop Eggen: +trd bg en
 
@@ -1130,14 +1200,5 @@ Revision 1.59  2017/04/01 15:10:15  revo
 Guillermo Molleda Jimena: trd es
 
 Revision 1.58  2017/03/12 10:10:15  revo
-Damien Brucker: -eraro cxe ref en cel
-
-Revision 1.57  2017/02/21 15:10:17  revo
-Jeromo Vasxe: cxefmemeoro -> cxefmemoro, espernta -> esperanta
-
-Revision 1.56  2015/07/04 14:10:16  revo
-Darcy Shen: + trd zh
-
-Revision 1.55  2015/07/04 08:37:32  revo
 -->
 </vortaro>

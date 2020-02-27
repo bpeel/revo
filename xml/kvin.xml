@@ -3,7 +3,7 @@
 
 <vortaro>
 
-<art mrk="$Id: kvin.xml,v 1.39 2018/04/13 18:10:15 revo Exp $">
+<art mrk="$Id: kvin.xml,v 1.42 2019/07/06 09:10:46 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kvin</rad>
@@ -44,6 +44,10 @@
   <trd lng="fi">viisi</trd>
   <trd lng="fr">cinq</trd>
   <trd lng="he">&het;&mem;&shin;</trd>
+  <trdgrp lng="hi">
+    <trd>&#2346;&#2366;&#2306;&#2330; [<ind>p&#257;&ntilde;c</ind>]</trd>,
+    <trd>&#2346;&#2366;&#2305;&#2330; [<ind>p&#257;m&#784;c</ind>]</trd>
+  </trdgrp>
   <trd lng="hu">&ouml;t</trd>
   <trd lng="id">lima</trd>
   <trd lng="ja">&#20116; [<ind>&#12372;</ind>]</trd>
@@ -58,8 +62,8 @@
   <trd lng="tr">be&scedil;</trd>
   <trd lng="vo">lul</trd>
   <trdgrp lng="zh">
-   <trd>&#20116;</trd>,
-   <trd>&#20237;<klr> [w&#468;]</klr></trd>
+   <trd>&#20116; [<ind>w&#468;</ind>]</trd>,
+   <trd>&#20237; [<ind>w&#468;</ind>]</trd>
 </trdgrp>
 </drv>
 
@@ -179,8 +183,18 @@
 <!--
 
 $Log: kvin.xml,v $
+Revision 1.42  2019/07/06 09:10:46  revo
+Aleks Andre: hi: iso 15919
+
+Revision 1.41  2019/07/06 06:10:19  revo
+Aleks Andre: zh: indekso
+
+Revision 1.40  2019/07/04 14:10:32  revo
+Aleks Andre: hi: kvin
+
 Revision 1.39  2018/04/13 18:10:15  revo
-Michel Cantigneaux: + kvinope, fundamenta kunmetajxo de la Ekzercaro + kvinopo
+Michel Cantigneaux: + kvinope, fundamenta kunmetajxo de la Ekzercaro +
+kvinopo
 
 Revision 1.38  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
@@ -191,16 +205,6 @@ aldono de trd sk per skripto de M. von Laer
 Revision 1.36  2013/10/31 11:10:31  revo
 Wolfram Diestel: +val, smb
 
-Revision 1.35  2013/10/28 19:10:23  revo
-Benito Subejrano: + trd oc
-
-Revision 1.34  2013/09/25 18:10:18  revo
-Wolfram Diestel: ref al listo nombroj
-
-Revision 1.33  2013/04/26 15:10:14  revo
-Eko Nur Syah Hidayat: +trd id
-
-Revision 1.32  2012/08/28 13:10:10  revo
 -->
 
 </vortaro>

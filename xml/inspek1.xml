@@ -2,35 +2,37 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: inspek1.xml,v 1.17 2015/11/10 09:10:41 revo Exp $">
+<art mrk="$Id: inspek1.xml,v 1.18 2019/10/11 20:10:24 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>inspektor</rad>/o
 </kap>
 <drv mrk="inspek1.0o">
   <kap><tld/>o</kap>
-  <snc>
-    <ref tip="dif" cel="inspek.0anto">inspektisto</ref>
-    <ekz>
-      vi, kiel <tld/>o de lernejoj, devus ekzorgi precipe 
-      rilate la instruistojn
-      <fnt><bib>Revizoro</bib><lok>1:1</lok></fnt>;
-    </ekz>
-    <ekz>
-      anka&ubreve; <tld/>o Dutri, la konfidenca asistanto de Kant, 
-      sciis ankora&ubreve; nenion pri tio
-      <fnt><bib>UrdHadda</bib><lok>p. 24</lok></fnt>;
-    </ekz>
-    <ekz>
-      &ccirc;ef<tld/>o Ksavero Kant aspektis kiel korpulenta kamparano 
-      en diman&ccirc;a tago
-      <fnt><bib>UrdHadda</bib><lok>p. 3</lok></fnt>;
-    </ekz>
-    <ekz>
-      &scirc;i estis preferinta la liberon ol edzini al 
-      &ccirc;iamde&jcirc;oranta polic-<tld/>o
-      <fnt><bib>UrdHadda</bib><lok>p. 4</lok></fnt>.
-    </ekz>
+  <snc mrk="inspek1.0o.inspektisto">
+    <dif>
+      <ref tip="dif" cel="inspek.0anto">Inspektisto</ref>:
+      <ekz>
+        vi, kiel <tld/>o de lernejoj, devus ekzorgi precipe 
+        rilate la instruistojn
+        <fnt><bib>Revizoro</bib><lok>1:1</lok></fnt>;
+      </ekz>
+      <ekz>
+        anka&ubreve; <tld/>o <nom>Dutri</nom>, la konfidenca asistanto de <nom>Kant</nom>, 
+        sciis ankora&ubreve; nenion pri tio
+        <fnt><bib>UrdHadda</bib><lok>p. 24</lok></fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;ef<tld/>o Ksavero <nom>Kant</nom> aspektis kiel korpulenta kamparano 
+        en diman&ccirc;a tago
+        <fnt><bib>UrdHadda</bib><lok>p. 3</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i estis preferinta la liberon ol edzini al 
+        &ccirc;iamde&jcirc;oranta polic-<tld/>o
+        <fnt><bib>UrdHadda</bib><lok>p. 4</lok></fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_ib;&c_n;&c_s;&c_p;&c_e;&c_k;&c_t;&c_a;&c_r;</trd>,
@@ -77,6 +79,9 @@
 </art>
 <!--
 $Log: inspek1.xml,v $
+Revision 1.18  2019/10/11 20:10:24  revo
+Wolfram Diestel: sintakso
+
 Revision 1.17  2015/11/10 09:10:41  revo
 Damien Brucker: -eraro cxe ref en cel
 
@@ -96,8 +101,5 @@ Revision 1.12  2005/11/03 17:31:43  revo
 Luiz Portella: +trd pt
 
 Revision 1.11  2004/02/04 20:09:35  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2004/01/31 17:32:10  revo
 -->
 </vortaro>

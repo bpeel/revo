@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: materi.xml,v 1.23 2017/02/14 16:10:19 revo Exp $">
+<art mrk="$Id: materi.xml,v 1.24 2019/09/08 19:10:20 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>materi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -165,6 +165,39 @@
   <trd lng="sk">materialista</trd>
 </drv>
 
+<drv mrk="materi.kontraux0o">
+  <kap>
+    kontra&ubreve;<tld/>o
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="antimateri.0o">Antimaterio</ref>:
+      <ekz>
+        <nom>Antonino Zichichi</nom> <klr>[&#8230;]</klr> en 1965 estris la poresploran grupon kiu
+        malkovris la unuan ekzemplon de kontra&ubreve;de&ubreve;terio, nome nukleo de kontra&ubreve;<tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=350098"
+              >Antonino Zichichi</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anihilo de grandaj kvantoj de substanco estas do la plej efika fonto de energio
+        imagebla en nuna nivelo de scioj pri materio, la realigo, tamen, ne eblas
+        <klr>[&#8230;]</klr> pro ekstrema malfacileco de sintezo de kontra&ubreve;materio kaj &gcirc;ia
+        konservado
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=252083"
+              >Anihilo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Antimaterie</trd>
+  <trd lng="en">anti matter</trd>
+</drv>
+
 <drv mrk="materi.blanka0o">
   <kap>blanka <tld/>o</kap>
   <snc mrk="materi.blanka0o.FIZL">
@@ -252,6 +285,9 @@
 </art>
 <!--
 $Log: materi.xml,v $
+Revision 1.24  2019/09/08 19:10:20  revo
+Wolfram Diestel: +kontraux~o
+
 Revision 1.23  2017/02/14 16:10:19  revo
 Jeromo Vasxe: entrikla -> ventrikla
 
@@ -271,8 +307,5 @@ Revision 1.18  2010/03/10 17:30:49  revo
 Jeromo Vasxe: + malhela ~o
 
 Revision 1.17  2008/04/21 16:46:24  revo
-Jeromo Vasxe: + blanka griza ~o
-
-Revision 1.16  2006/07/29 16:35:54  revo
 -->
 </vortaro>

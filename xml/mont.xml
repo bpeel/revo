@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mont.xml,v 1.38 2019/02/09 23:11:27 revo Exp $">
+<art mrk="$Id: mont.xml,v 1.40 2019/07/02 17:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mont</rad>/o
@@ -81,6 +81,7 @@
   </trdgrp>
   <trd lng="sv">berg</trd>
   <trd lng="vo">bel</trd>
+  <trd lng="zh">&#23665;<klr> [sh&#257;n]</klr></trd>
 </drv>
 
 <drv mrk="mont.0aro">
@@ -218,7 +219,8 @@
        Malpli alta parto de monto a&ubreve; montaro, kiu apudas ebena&jcirc;on:
        <ekz>
          por solvi la problemon pri akvomanko en anta&ubreve;<tld/>oj de Soaro
-         estas decidite fosi specialan kanalon de la rivero &gcirc;is la montaro
+         estas decidite fosi specialan kanalon de la rivero &gcirc;is la
+         montaro
         <fnt>
           <aut>K. Buli&ccirc;jov, trad. P. Mo&jcirc;aev</aut>
           <vrk><url ref="http://esperantio.narod.ru/ekster/silentu.htm">
@@ -317,7 +319,8 @@
         <dif>
           Tera a&ubreve; &scirc;tona amaso super tombo, &gcirc;in
           &scirc;irmanta kontra&ubreve; besta a&ubreve; homa
-          rabado:
+          rabado;
+          <ref tip="sin" cel="tumul.0o.ARKE">tumulo</ref>:
           <ekz>
             diference de la anta&ubreve;historia tomb<tld/>eto, havanta
             konusan formon, la vikingaj tomb<tld/>etoj estas kutime
@@ -435,6 +438,12 @@
 </art>
   <!--
   $Log: mont.xml,v $
+  Revision 1.40  2019/07/02 17:10:21  revo
+  Aleks Andre: zh: monto
+
+  Revision 1.39  2019/06/13 14:10:18  revo
+  Jeromo Vasxe: tomb~eto + ref sin
+
   Revision 1.38  2019/02/09 23:11:27  revo
   Jeromo Vasxe: + antaux~o, kor 1 trd fr, reordig drv
 

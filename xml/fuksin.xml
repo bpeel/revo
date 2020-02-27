@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fuksin.xml,v 1.10 2013/04/09 09:10:10 revo Exp $">
+<art mrk="$Id: fuksin.xml,v 1.11 2019/03/16 12:10:15 revo Exp $">
 <kap>
   <rad>fuksin</rad>/o
   <fnt>Z</fnt>
@@ -12,7 +12,16 @@
   <uzo tip="fak">KEM</uzo>
   <snc>
     <dif>
-      Anilina ru&gcirc;a&jcirc;o.  
+      Anilina <ref tip="super" cel="rugx.0o">ru&gcirc;</ref>a&jcirc;o:
+      <ekz>
+        la germana kemiisto, Henriko Karo, <klr>[&#8230;]</klr> anka&ubreve; disvolvis plurajn aliajn
+        sintezojn tiel kiel indulino, eozino, <tld/>o, a&ubreve;rino, <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=537867"
+              >Perokso-unusulfata acido</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_f;&c_u;&c_k;&c_s;&c_ib;&c_n;</trd>
@@ -32,6 +41,9 @@
 </art>
 <!--
 $Log: fuksin.xml,v $
+Revision 1.11  2019/03/16 12:10:15  revo
+Wolfram Diestel: +ekz
+
 Revision 1.10  2013/04/09 09:10:10  revo
 Sebastian Cyprych: +trd
 
@@ -51,7 +63,5 @@ Revision 1.5  2001/07/11 18:11:56  revo
 Ulrich Fellmann: + germ trd
 
 Revision 1.4  2001/05/14 19:04:08  revo
-Yury Finkel: +trd ru
-
 -->
 </vortaro>

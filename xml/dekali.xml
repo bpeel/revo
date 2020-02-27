@@ -2,18 +2,29 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dekali.xml,v 1.17 2012/09/04 08:10:23 revo Exp $">
+<art mrk="$Id: dekali.xml,v 1.18 2019/04/12 16:10:15 revo Exp $">
 <kap>
 <ofc>2</ofc>
 <rad>dekalitr</rad>/o
 </kap>
 <drv mrk="dekali.0o">
   <kap><tld/>o</kap>
+  <mlg>dal</mlg>
   <snc>
     <dif>
       Komunuza <ref tip="super" cel="unu.mezur0o">mezurunuo</ref> de
       kapacito,
-      egala al dek <ref tip="prt" cel="litr.0o">litroj</ref>; simb. dal.
+      egala al dek <ref tip="prt" cel="litr.0o">litroj</ref>:
+      <ekz>
+        ordinara sitelo povas enhavi <tld/>on;
+      </ekz>
+      <ekz>
+        la tria filino kun <tld/>o da milio iris al montaro
+        <fnt>
+          <vrk><url ref="http://esperanto.cri.cn/1/2004/07/06/1@11836.htm"
+              >Origino de Danu-festo de Yao-nacieco</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_d;&c_e;&c_k;&c_a;&c_l;&c_ib;&c_t;&c_r;</trd>
@@ -38,6 +49,9 @@
 </art>
 <!--
 $Log: dekali.xml,v $
+Revision 1.18  2019/04/12 16:10:15  revo
+Wolfram Diestel: +ekz-oj
+
 Revision 1.17  2012/09/04 08:10:23  revo
 Marc Rausell: + trd ca
 
@@ -57,8 +71,5 @@ Revision 1.12  2003/12/10 17:31:52  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.11  2003/05/09 16:31:38  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.10  2003/04/08 16:32:30  revo
 -->
 </vortaro>

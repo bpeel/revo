@@ -2,23 +2,27 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: telefo1.xml,v 1.8 2015/10/09 13:10:17 revo Exp $">
+<art mrk="$Id: telefo1.xml,v 1.10 2019/07/16 16:10:17 revo Exp $">
 <kap>
 <rad>telefotograf</rad>/i
 </kap>
 <drv mrk="telefo1.0i">
-<kap><tld/>i</kap>
-<gra><vspec>tr</vspec></gra>
-<snc>
-<uzo tip="fak">TEK</uzo>
-<dif>
-Fotografi malproksimajn objektojn.  
-</dif>
-<refgrp tip="vid">
-<ref cel="fotote.0i">fototelegrafi</ref>.
-</refgrp>
-</snc>
-<trdgrp lng="en">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="fotogr.0i">Fotografi</ref> malproksimajn
+      objektojn:
+      <ekz>
+        <tld/>ita per objektivo de 180&#8239;mm fokusdistanco.
+      </ekz>  
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="telegr.foto0i">fototelegrafi</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="en">
     <trd>to transmit a wirephoto</trd>,
     <trd>to telephotograph</trd>
   </trdgrp>
@@ -35,6 +39,12 @@ Fotografi malproksimajn objektojn.
 </art>
 <!--
 $Log: telefo1.xml,v $
+Revision 1.10  2019/07/16 16:10:17  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.9  2019/07/14 07:10:14  revo
+Wolfram Diestel: adaptis ref, +ekz
+
 Revision 1.8  2015/10/09 13:10:17  revo
 Cindy Moon McKee: +trd en
 

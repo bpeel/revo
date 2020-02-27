@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: nikab.xml,v 1.5 2015/04/19 11:10:15 revo Exp $">
+<art mrk="$Id: nikab.xml,v 1.6 2019/11/24 02:10:38 revo Exp $">
 <kap>
   <rad>nikab</rad>/o <fnt><vrk><url
   ref="http://www.bonalingvo.org/index.php?title=Radikoj_oficialigindaj">la
@@ -39,6 +39,7 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
+      <ref cel="burk.0o.islamo">burko<sncref/></ref>,
       <ref cel="cxador.0o.TEKS">&ccirc;adoro</ref>,
       <ref cel="higxab.0o.TEKS">hi&gcirc;abo</ref>
     </refgrp>
@@ -87,6 +88,9 @@
 
 <!--
 $Log: nikab.xml,v $
+Revision 1.6  2019/11/24 02:10:38  revo
+Robin van der Vliet: +ref burko
+
 Revision 1.5  2015/04/19 11:10:15  revo
 Peter Hauser: + historia klarigo
 

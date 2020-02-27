@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konser.xml,v 1.23 2018/09/14 19:10:16 revo Exp $">
+<art mrk="$Id: konser.xml,v 1.24 2019/08/14 07:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konserv</rad>/i <fnt><bib>PV</bib></fnt>
@@ -435,7 +435,7 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="arkiv.0o">arkivo</ref>,
+      <ref cel="arhxiv.0o">arkivo</ref>,
       <ref cel="dok.0o">doko</ref>
     </refgrp>
   </snc>
@@ -562,6 +562,9 @@
 </art>
 <!--
 $Log: konser.xml,v $
+Revision 1.24  2019/08/14 07:10:16  revo
+Damien Brucker: -eraro cxe cel en ref
+
 Revision 1.23  2018/09/14 19:10:16  revo
 Vito Redsky: +trd pl +trd ro
 

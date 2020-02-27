@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ruz.xml,v 1.21 2018/01/29 16:10:13 revo Exp $">
+<art mrk="$Id: ruz.xml,v 1.22 2019/09/20 07:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ruz</rad>/a
@@ -50,6 +50,11 @@
     <trd>cunning</trd>,
     <trd>crafty</trd>,
     <trd>sly</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>artero</trd>,
+    <trd>astuto</trd>,
+    <trd>cuco</trd>
   </trdgrp>
   <trd lng="fr">rus&eacute;</trd>
   <trdgrp lng="he">
@@ -111,6 +116,11 @@
     <trd>trick</trd>,
     <trd>ruse</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>ardid</trd>,
+    <trd>treta</trd>,
+    <trd>artima&ntilde;a</trd>
+  </trdgrp>
   <trd lng="fr">ruse</trd>
   <trdgrp lng="he">
     <trd>&tav;&kaf;&samekh;&yod;&samekh;</trd>,
@@ -150,6 +160,7 @@
     <trd>b&yacute;t vychytral&yacute;</trd>,
     <trd>chytra&ccaron;it</trd>
   </trdgrp>
+  <trd lng="es">actuar con astucia</trd>
   <trd lng="fr">ruser</trd>
   <trd lng="hu">ravaszkodik</trd>
   <trdgrp lng="nl">
@@ -180,6 +191,10 @@
   <trd lng="bg">&c_n;&c_a;&c_d;&c_h;&c_i;&c_t;&c_r;&c_ja;&c_v;&c_a;&c_m;</trd>
   <trd lng="cs">p&rcaron;elst&iacute;t</trd>
   <trd lng="de">&uuml;berlisten</trd>
+  <trdgrp lng="es">
+    <trd>burlar</trd>,
+    <trd>buscarle a uno las vueltas</trd>
+  </trdgrp>
   <trd lng="fr">rouler<klr tip="ind"> (quelqu'un)</klr></trd>
   <trd lng="he">&lamed;&he;<ind>&ayin;&resh;&yod;&fmem;</ind>
   &ayin;&lamed;</trd>
@@ -199,6 +214,9 @@
 </art>
 <!--
 $Log: ruz.xml,v $
+Revision 1.22  2019/09/20 07:10:14  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.21  2018/01/29 16:10:13  revo
 Sam Penter: trd nl,en,ja
 
@@ -218,8 +236,5 @@ Revision 1.16  2006/02/24 17:34:20  revo
 Tulio Flores: +trd pt
 
 Revision 1.15  2004/09/06 16:38:12  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.14  2004/08/12 16:32:12  revo
 -->
 </vortaro>

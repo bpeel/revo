@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: leonto.xml,v 1.18 2013/05/08 12:10:12 revo Exp $">
+<art mrk="$Id: leonto.xml,v 1.19 2019/03/09 19:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>leontod</rad>/o
@@ -14,9 +14,24 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      Genro el familio <ref tip="super" cel="astera.0oj">asteracoj</ref>
+      <ref tip="lst" lst="voko:botanikaj_genroj" cel="genr.0o.BIO">Genro</ref>
+      el familio <ref tip="super" cel="astera.0oj">asteracoj</ref>
       (<trd lng="la">Taraxacum</trd>), herbo kun flava floraro kaj
-      dentrandaj folioj, uzebla kiel salato.
+      dentrandaj folioj, uzebla kiel salato:
+      <ekz>
+        <nom>Gerda</nom> iris al la <tld/>o, kiu lumetis tra siaj verdaj folioj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        violoj staris en plena florado, la anemonoj kaj <tld/>oj disvolvi&gcirc;is
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de la jaro</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <bld lok="../bld/leontod.jpg">
@@ -55,6 +70,9 @@
 </art>
 <!--
 $Log: leonto.xml,v $
+Revision 1.19  2019/03/09 19:10:16  revo
+Wolfram Diestel: +ekz-oj
+
 Revision 1.18  2013/05/08 12:10:12  revo
 Sebastian Cyprych: +trd pl
 
@@ -74,8 +92,5 @@ Revision 1.13  2002/03/11 17:35:22  revo
 Zmicier Lapcionak: + trd be
 
 Revision 1.12  2001/11/16 19:12:26  revo
-Yury Finkel: +trd ru
-
-Revision 1.11  2001/04/18 18:55:26  revo
 -->
 </vortaro>

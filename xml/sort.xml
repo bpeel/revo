@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sort.xml,v 1.22 2018/01/16 16:10:14 revo Exp $">
+<art mrk="$Id: sort.xml,v 1.23 2019/07/12 17:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sort</rad>/o <fnt><bib>PV</bib></fnt>
@@ -96,6 +96,7 @@
     <trd>sors</trd>,
     <trd>v&eacute;gzet</trd>
   </trdgrp>
+  <trd lng="id">nasib</trd>
   <trd lng="nl">lot</trd>
   <trdgrp lng="pt">
     <trd>sorte</trd>,
@@ -222,6 +223,9 @@
 </art>
 <!--
 $Log: sort.xml,v $
+Revision 1.23  2019/07/12 17:10:14  revo
+Wolfram Diestel: +trd id
+
 Revision 1.22  2018/01/16 16:10:14  revo
 Michel Cantigneaux: samsortano sinonimo de samsortulo
 
@@ -241,8 +245,5 @@ Revision 1.17  2014/07/07 01:10:18  revo
 Jeromo Vasxe: + bon/malbon~o
 
 Revision 1.16  2010/08/04 16:30:29  revo
-Jeromo Vasxe: + sam~ulo, ~o + trd fr
-
-Revision 1.15  2006/04/28 16:31:45  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: piocx.xml,v 1.19 2019/02/18 19:10:26 revo Exp $">
+<art mrk="$Id: piocx.xml,v 1.20 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>pio&ccirc;</rad>/o
@@ -112,7 +112,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="https://www.monato.net/2012/010686.php"
+          <vrk><url ref="&Monato;/2012/010686.php"
               >Mizeriga petrolo</url></vrk>
         </fnt>.
       </ekz>
@@ -128,6 +128,9 @@
 </art>
 <!--
 $Log: piocx.xml,v $
+Revision 1.20  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
 Revision 1.19  2019/02/18 19:10:26  revo
 Wolfram Diestel: +ekz-oj, +bld
 

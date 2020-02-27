@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: renesa.xml,v 1.21 2018/11/25 19:10:17 revo Exp $">
+<art mrk="$Id: renesa.xml,v 1.23 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>renesanc</rad>/o
@@ -22,7 +22,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>William Simcock</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/007873.html"
+          <vrk><url ref="https://www.monato.be/2003/007873.html"
               >Impresoj pri Portugalio</url></vrk>
         </fnt>;
       </ekz>
@@ -34,7 +34,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Anna kaj Mati Pentus</aut>
-          <vrk><url ref="http://www.monato.net/2008/009566.php"
+          <vrk><url ref="&Monato;/2008/009566.php"
               >Malkovru Napolon!</url></vrk>
         </fnt>;
       </ekz>
@@ -44,7 +44,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Nicolino Rossi</aut>
-          <vrk><url ref="http://www.monato.net/2013/011144.php"
+          <vrk><url ref="&Monato;/2013/011144.php"
               >Familio-sagao, kun lar&gcirc;e variigitaj psikologiaj portretoj</url></vrk>
         </fnt>;
       </ekz>
@@ -67,7 +67,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.monato.net/2008/009637.php"
+          <vrk><url ref="&Monato;/2008/009637.php"
               >Katastrofaj ciferoj</url></vrk>
         </fnt>;
       </ekz>
@@ -113,6 +113,12 @@
 </art>
 <!--
 $Log: renesa.xml,v $
+Revision 1.23  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
+Revision 1.22  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.21  2018/11/25 19:10:17  revo
 Wolfram Diestel: +ekz-oj
 

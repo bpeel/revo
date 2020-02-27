@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: substa.xml,v 1.17 2018/06/24 16:10:13 revo Exp $">
+<art mrk="$Id: substa.xml,v 1.19 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>substanc</rad>/o
@@ -70,7 +70,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/007921.html">Ho, mistera pi!</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/007921.html">Ho, mistera pi!</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -178,7 +178,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paulo S&eacute;rgio Viana</aut>
-          <vrk><url ref="http://www.monato.net/2015/011485.php">Malpura aero dama&gcirc;as infanan cerbon</url></vrk>
+          <vrk><url ref="&Monato;/2015/011485.php">Malpura aero dama&gcirc;as infanan cerbon</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -232,6 +232,12 @@
 </art>
 <!--
 $Log: substa.xml,v $
+Revision 1.19  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.18  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.17  2018/06/24 16:10:13  revo
 Wolfram Diestel: mrk, prilaboris ekz-ojn, germ trd-ojn
 

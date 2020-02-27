@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: okaz.xml,v 1.63 2018/01/24 21:10:14 revo Exp $">
+<art mrk="$Id: okaz.xml,v 1.67 2020/01/14 17:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>okaz</rad>/i <fnt><bib>PV</bib></fnt>
@@ -45,9 +45,9 @@
       <ekz>
         &ndash;&nbsp;Kio <tld/>is? &ndash; kriis li minace. &ndash;
         Kial vi trumpetas alarmon, anstata&ubreve; mar&scirc;i?
-        <fnt><bib>Far1</bib>, <lok>&ccirc;ap.&nbsp;4a.</lok></fnt>
+        <fnt><bib>Far1</bib> <lok>&ccirc;ap.&nbsp;4a.</lok></fnt>
       </ekz><ekz>
-        <em>Linda:</em>&nbsp;Tom, kara! Kio <tld/>as al vi? Eble vi
+        <em>Linda:</em>&nbsp;<nom>Tom</nom>, kara! Kio <tld/>as al vi? Eble vi
         laboras tro multe, kaj...
         <em>Tom:</em>&nbsp;Nenio speciala <tld/>as al mi. Kaj mi ne
         laboras tro multe. Fakte, mi laboras malmulte nun. La vera
@@ -215,52 +215,61 @@
       <ekz>
         en tiaj <tld/>oj ni uzus la fini&gcirc;on <ctl>n</ctl>
         <fnt><bib>F</bib>, <lok>&FE; 28</lok></fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         forlasi iun sufikson ni povas nur en tiaj <tld/>oj, se la
         neceseco de la sufikso estas iom duba
         <fnt>
-          <bib>LR</bib>,
+          <bib>LR</bib>
           <lok>Respondo 44a, La Revuo, 1908, a&ubreve;gusto</lok>.
         </fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         la artikolo uzi&gcirc;as en la sekvantaj <tld/>oj&nbsp;...
-        <fnt><vrk>PAG</vrk>, <lok>119B (p.&nbsp;164)</lok></fnt>;
-      </ekz><ekz>
+        <fnt><vrk>PAG</vrk> <lok>119B (p.&nbsp;164)</lok></fnt>;
+      </ekz>
+      <ekz>
         en plej bona <tld/>o ni povos alveni nur post noktomezo;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         en <tld/>o de bezono ni scias, kie vin trovi
-        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;ap.&nbsp;16a</lok></fnt>;
-      </ekz><ekz>
+        <fnt><bib>I&scirc;tar</bib> <lok>&ccirc;ap.&nbsp;16a</lok></fnt>;
+      </ekz>
+      <ekz>
         &mdash;&nbsp;Vi do vidas, nobla sinjoro, &mdash; diris
-        Hiram, &mdash; ke nur en unu <tld/>o la pastroj povus, e&ccirc;
+        <nom>Hiram</nom>, &mdash; ke nur en unu <tld/>o la pastroj povus, e&ccirc;
         devus akcepti plej malhonoran traktaton kun Asirio: se ili
         celus mallevi kaj nuligi la povon de l' faraono...
-        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 5a</lok></fnt>;
-      </ekz><ekz>
+        <fnt><bib>Far2</bib> <lok>&ccirc;apitro 5a</lok></fnt>;
+      </ekz>
+      <ekz>
         en <tld/>o de efektiva milito la malamiko povus ataki vin de
         tiu flanko
-        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 1a.</lok></fnt>;
-      </ekz><ekz>
+        <fnt><bib>Far1</bib> <lok>&ccirc;apitro 1a</lok></fnt>;
+      </ekz>
+      <ekz>
         &gcirc;ia <klr>(de karambolo)</klr> sola escepta uzebleco
         ekzistas en tiuj <tld/>oj, kiam oni intence volas fari
         abruptan efekton, kaj kvaza&ubreve; devigi la deklamanton je
         pa&ubreve;zo inter la du vortoj
         <fnt>
-          <aut>K. Kalocsay</aut>:
-          <vrk>Kiel verki kaj traduki poemojn?</vrk>.
+          <aut>K. Kalocsay</aut>
+          <vrk>Kiel verki kaj traduki poemojn?</vrk>
           <lok>1979</lok>
         </fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         se la sukceso de libro mezuri&gcirc;us per volumeno kaj diverso
         de resonoj, kiujn tiu estigas &ccirc;e leganto, mi devus
         konstati ke, almena&ubreve; en unu (mia) konkreta <tld/>o, la
-        verko de E&ubreve;geno de Zilah plene atingis sian celon
+        verko de E&ubreve;geno de <nom>Zilah</nom> plene atingis sian celon
         <fnt>
           <aut>A. Kris</aut>,
           <vrk>Scenaj obscenoj... drastaj kontrastoj</vrk>,
           <bib>LOdE</bib>, <lok>2003:12 (110)</lok>
         </fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         en la <tld/>o de Esperanto, kies plej elstaraj poemoj
         estas, el diversaj ka&ubreve;zoj, preska&ubreve; nekonataj e&ccirc; de kleraj
         amatoroj, tio estis ne aplikebla
@@ -269,14 +278,17 @@
           <vrk>Recenzo: Esperanta antologio</vrk>,
           <lok>Nica Literatura Revuo, 4:3</lok>
         </fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         tiuj klarigoj povas esti aplikataj al
         <ind>speciala <tld/>o</ind>
         de akuzativo: la indiko de ia jen prenota, jen prenita pozo,
         kiun manifestas propozicio
         <fnt>
           <aut>G. Mattos</aut>,
-          <vrk><url ref="http://esperantic.org/librejo/dbstudoj/25_Mattos.htm">Okazo de kazo</url></vrk>
+          <vrk><url
+          ref="http://esperantic.org/librejo/dbstudoj/25_Mattos.htm">Okazo
+          de kazo</url></vrk>
         </fnt>
         <ref tip="vid" cel="okaz.aparta0o">aparta <tld/>o</ref>;
         <trdgrp lng="en">
@@ -291,18 +303,21 @@
           <trd>&c_o;&c_s;&c_o;&c_b;&c_y;&c_j; &c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;</trd>,
           <trd>&c_ch;&c_a;&c_s;&c_t;&c_n;&c_y;&c_j; &c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;</trd>
         </trdgrp>
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         en la speciala <tld/>o de lingvo postgramatikeca en tiu
         senco, ke &gcirc;i estas aktive uzata ne de ordinara lingvokomunumo,
         sed nur de homoj, kiuj &gcirc;in speciale lernis, oni povas
         definitive fiksi la uzotan formon
         <fnt>
-          <aut>F. Simonnet</aut>,
-          <vrk><url ref="http://miresperanto.narod.ru/esperantologio/evolui.htm">&Ccirc;u la lingvoj devas evolui?</url></vrk>
+          <aut>F. Simonnet</aut>
+          <vrk><url
+          ref="http://miresperanto.narod.ru/esperantologio/evolui.htm">&Ccirc;u
+          la lingvoj devas evolui?</url></vrk>
         </fnt>;
       </ekz><ekz>
         <ctl>Pri la infinitivo en kelkaj specialaj <tld/>oj</ctl>
-        <fnt><bib>LR</bib>,
+        <fnt><bib>LR</bib>
           <lok>Respondo 20a, La Revuo, 1907, junio</lok></fnt>.
       </ekz>
     </dif>
@@ -316,12 +331,13 @@
             Prelongo</vrk>,
           <lok>1907</lok>
         </fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         en <tld/>o de nombro-egaleco de vo&ccirc;oj la Prezidanto
         havas decidan vo&ccirc;on
-        <fnt><aut>C. Kiselman</aut>,
-          <vrk>15 akademianoj (re)elektotaj</vrk>.
-          <bib>LOdE</bib>, <lok>2004:1 (111)</lok>
+        <fnt><aut>C. Kiselman</aut>
+          <vrk>15 akademianoj (re)elektotaj</vrk>
+          <bib>LOdE</bib> <lok>2004:1 (111)</lok>
         </fnt>.
       </ekz>
     </subsnc>
@@ -333,15 +349,17 @@
         1978, en Anglio, okazis du pliaj <tld/>oj pro infekto
         en laboratorio
         <fnt>
-          <aut>V. Lemelev</aut>,
-          <vrk>Homo, kiu savis milionojn</vrk>. <bib>Monato</bib>
+          <aut>V. Lemelev</aut>
+          <vrk>Homo, kiu savis milionojn</vrk>
+          <bib>Monato</bib>
         </fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         &mdash;&nbsp;Tio estas kurioza <tld/>o de la malsano nomata: la
         monomanio de la memmortigo, diris la sanoficiro patose
         <fnt>
-          <aut>H. Vallienne</aut>,
-          <vrk>Kastelo de Prelongo</vrk>,
+          <aut>H. Vallienne</aut>
+          <vrk>Kastelo de Prelongo</vrk>
           <lok>1907</lok>.
         </fnt>;
       </ekz><ekz>
@@ -349,7 +367,8 @@
       </ekz>
     </subsnc>
     <ref tip="sub" cel="okaz.lim0o">lim<tld/>o</ref>
-    <ref tip="sin" cel="kaz.0o.okazo">kazo<sncref ref="kaz.0o.okazo"/></ref>
+    <ref tip="sin" cel="kaz.0o.okazo">kazo<sncref
+    ref="kaz.0o.okazo"/></ref>
     <trd lng="ca">cas</trd>
     <trdgrp lng="de">
       <trd>Fall</trd>,
@@ -360,6 +379,8 @@
       <trd>cas<klr tip="ind"> (occasion)</klr></trd>,
       <trd>circonstance<klr tip="ind"> (occasion)</klr></trd>,
       <trd>&eacute;v&eacute;nement<klr tip="ind">
+          (occasion)</klr></trd>,
+      <trd>&eacute;v&egrave;nement<klr tip="ind">
           (occasion)</klr></trd>,
       <trd>situation<klr tip="ind"> (occasion)</klr></trd>
     </trdgrp>
@@ -434,11 +455,12 @@
       </ekz><ekz>
         en printempo abundas <tld/>oj malvarmumi;
       </ekz><ekz>
-        Aut-Taurirt prezentis precipe favoran <tld/>on por tiuj,
+        <nom>Aut-Taurirt</nom> prezentis precipe favoran <tld/>on por tiuj,
         kiuj volis ur&gcirc;e morti pro io 
 	    <fnt>
 	      <aut>J. Rejt&odblac;, trad. L. Bal&aacute;zs</aut>,
-	      <lok><url ref="http://www.freeweb.hu/verkoj/02.htm">La anta&ubreve;en&scirc;ovita garnizono</url></lok>
+	      <lok><url ref="http://www.freeweb.hu/verkoj/02.htm">La
+	      anta&ubreve;en&scirc;ovita garnizono</url></lok>
 	    </fnt>.
       </ekz>
     </dif>
@@ -465,7 +487,10 @@
         <trd lng="de">unm&ouml;gliches <ind>Ereignis</ind></trd>
         <trd lng="en">impossible <ind>event</ind></trd>
         <trd lng="es">evento imposible</trd>
-        <trd lng="fr">&eacute;v&eacute;nement impossible</trd>
+        <trdgrp lng="fr">
+          <trd>&eacute;v&eacute;nement impossible</trd>,
+          <trd>&eacute;v&egrave;nement impossible</trd>
+        </trdgrp>
         <trd lng="hu">&uuml;res <ind>esem&eacute;ny</ind></trd>
         <trd lng="pl">zdarzenie niemo&zdot;liwe</trd>
         <trd lng="ru">&c_n;&c_je;&c_v;&c_o;&c_z;&c_m;&c_o;&c_zh;&c_n;&c_o;&c_je; <ind>&c_s;&c_o;&c_b;&c_y;&c_t;&c_i;&c_je;</ind></trd>
@@ -477,7 +502,10 @@
         <trd lng="de">sicheres <ind>Ereignis</ind></trd>
         <trd lng="en">certain <ind>event</ind></trd>
         <trd lng="es">evento seguro</trd>
-        <trd lng="fr">&eacute;v&eacute;nement certain</trd>
+        <trdgrp lng="fr">
+          <trd>&eacute;v&eacute;nement certain</trd>,
+          <trd>&eacute;v&egrave;nement certain</trd>
+        </trdgrp>
         <trd lng="hu">biztos <ind>esem&eacute;ny</ind></trd>
         <trd lng="pl">zdarzenie pewne</trd>
         <trd lng="ru">&c_d;&c_o;&c_s;&c_t;&c_o;&c_v;&c_je;&c_r;&c_n;&c_o;&c_je; <ind>&c_s;&c_o;&c_b;&c_y;&c_t;&c_i;&c_je;</ind></trd>
@@ -491,7 +519,10 @@
         <trd lng="br">darvoud kontrol</trd>
         <trd lng="en">complementary <ind>event</ind></trd>
         <trd lng="es">evento complementario</trd>
-        <trd lng="fr">&eacute;v&eacute;nement contraire</trd>
+        <trdgrp lng="fr">
+          <trd>&eacute;v&eacute;nement contraire</trd>,
+          <trd>&eacute;v&egrave;nement contraire</trd>
+        </trdgrp>
         <trd lng="hu">komlementer <ind>esem&eacute;ny</ind></trd>
         <trd lng="pl">zdarzenie przeciwne</trd>
         <trd lng="ru">&c_d;&c_o;&c_p;&c_o;&c_l;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; <ind>&c_s;&c_o;&c_b;&c_y;&c_t;&c_i;&c_je;</ind></trd>
@@ -524,7 +555,10 @@
     <trd lng="de">Ereignis</trd>
     <trd lng="en">event</trd>
     <trd lng="es">evento</trd>
-    <trd lng="fr">&eacute;v&eacute;nement</trd>
+    <trdgrp lng="fr">
+      <trd>&eacute;v&eacute;nement</trd>,
+      <trd>&eacute;v&egrave;nement</trd>
+    </trdgrp>
     <trd lng="hu">esem&eacute;ny</trd>
     <trd lng="pl">zdarzenie losowe</trd>
     <trd lng="ru">&c_s;&c_o;&c_b;&c_y;&c_t;&c_i;&c_je;</trd>
@@ -551,6 +585,7 @@
     <trd>aventure<klr tip="ind"> (ce qui arrive)</klr></trd>,
     <trd>cas</trd>,
     <trd>&eacute;v&eacute;nement</trd>,
+    <trd>&eacute;v&egrave;nement</trd>,
     <trd>occasion</trd>,
     <trd>occurrence</trd>
   </trdgrp>
@@ -574,7 +609,8 @@
 
 <drv mrk="okaz.0a">
   <kap><ofc>*</ofc><tld/>a <fnt><bib>F</bib>, <lok>Universala Vortaro,
-  <url ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5131">okaz'a</url></lok></fnt></kap>
+  <url
+  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5131">okaz'a</url></lok></fnt></kap>
   <snc mrk="okaz.0a.situacia">
     <dif>
       &Scirc;uldata al <tld/>o<sncref ref="okaz.0o.travivajxo"/>,
@@ -584,7 +620,9 @@
         ofte oni tamen faras <tld/>an <em>um</em>-vorton, kiu
         kompreni&gcirc;as pro la kunteksto, kaj kiu poste malaperas
         <fnt><bib>PMEG</bib>,
-          <lok><url ref="http://bertilow.com/pmeg/vortfarado/afiksoj/sufiksoj/um.html#i-o1k">Novaj UM-vortoj </url></lok></fnt>;
+          <lok><url
+          ref="http://bertilow.com/pmeg/vortfarado/afiksoj/sufiksoj/um.html#i-o1k">Novaj
+          UM-vortoj </url></lok></fnt>;
       </ekz><ekz>
         <tld/>a komplimento ne iras al testamento
         <klr>(ne rajtigas je hereda&jcirc;o)</klr>
@@ -611,6 +649,7 @@
     </trdgrp>
   </snc>
   <snc mrk="okaz.0a.hazarda">
+    <dif>
     <ref tip="dif" cel="hazard.0a">hazarda</ref>
     <ekz>
       &ccirc;iu lingvo natura konstrui&gcirc;is blinde, per la vojo de
@@ -626,6 +665,7 @@
         <lok>1:2</lok>
       </fnt>.
     </ekz>
+    </dif>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_p;&c_a;&c_d;&c_k;&c_o;&c_v;&c_y;</trd>
   <trd lng="br">degouezhel</trd>
@@ -773,16 +813,17 @@
         oni iluminaciis <tld/>e de la nacia festo;
       </ekz>
       <ekz>
-        <tld/>e de la festo de Schleyer ni telegrafe sendu 
+        <tld/>e de la festo de <nom>Schleyer</nom> ni telegrafe sendu 
         al li en la nomo de la tuta esperantistaro nian koran gratulon
         <fnt>
           <bib>Paroloj</bib>
           <vrk>Parolado anta&ubreve; la Sepa Kongreso Esperantista en
-           Antwerpen en la 21a de a&ubreve;gusto 1911</vrk>
+           Antwerpen</vrk>
+           <lok>1911</lok>
         </fnt>;
       </ekz>
       <ekz>
-        tiun &ccirc;i projekton Zamenhof intencis diskuti kun homaranoj
+        tiun &ccirc;i projekton <nom>Zamenhof</nom> intencis diskuti kun homaranoj
         <tld/>e de la deka Universala Kongreso de l' Esperantistoj
         <fnt>
           <bib>VivZam</bib>
@@ -813,7 +854,8 @@
   <kap><tld/>a&jcirc;o</kap>
   <snc mrk="okaz.0ajxo.KOMUNE">
     <dif>
-      <ref tip="dif" cel="okaz.0o.travivajxo"><tld lit="O"/>o<sncref/></ref>:
+      <ref tip="dif" cel="okaz.0o.travivajxo"><tld
+      lit="O"/>o<sncref/></ref>:
       <ekz>
         &ccirc;u tia cirkonstanco ne fari&gcirc;us la ka&ubreve;zo de <tld/>a&jcirc;oj, kiuj
         kompromitus anta&ubreve; la publiko mian magazenon
@@ -868,7 +910,10 @@
     <trd>occurence</trd>,
     <trd>incident</trd>
   </trdgrp>
-  <trd lng="fr">&eacute;v&eacute;nement</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;v&eacute;nement</trd>,
+    <trd>&eacute;v&egrave;nement</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>gebeurtenis</trd>,
     <trd>toevalligheid</trd>
@@ -888,14 +933,16 @@
       <ref cel="okaz.0o.travivajxo"><tld lit="O"/>o<sncref/></ref>
       <tld/>inta:
       <ekz>
-        post tiuj <tld/>inta&jcirc;oj oni sciigis al Abraham, dirante: jen anka&ubreve; Milka naskis infanojn al via frato Na&hcirc;or
+        post tiuj <tld/>inta&jcirc;oj oni sciigis al <nom>Abraham</nom>, dirante: jen
+        anka&ubreve; <nom>Milka</nom> naskis infanojn al via frato <nom>Na&hcirc;or</nom>
         <fnt>
           <bib>MT</bib>
           <lok>Genezo 22:20</lok>
         </fnt>;
       </ekz>
       <ekz>
-        se estos inter vi iu, kiu ne estos pura pro <tld/>inta&jcirc;o nokta, li eliru ekster la tendaron
+        se estos inter vi iu, kiu ne estos pura pro <tld/>inta&jcirc;o nokta,
+        li eliru ekster la tendaron
         <fnt>
           <bib>MT</bib>
           <lok>Readmono 23:10</lok>
@@ -908,7 +955,8 @@
       </ekz>
       <ekz>
         la sorto, kiu &scirc;in trafis, tute ne estis ia sorto escepta, &scirc;ia 
-        malfeli&ccirc;o ne havis sian fonton en ia stranga, neordinara <tld/>inta&jcirc;o, en ia miriga katastrofo
+        malfeli&ccirc;o ne havis sian fonton en ia stranga, neordinara
+        <tld/>inta&jcirc;o, en ia miriga katastrofo
         <fnt>
           <bib>Marta</bib>
         </fnt>.
@@ -916,7 +964,10 @@
     </dif>
     <trd lng="de">Geschehnis</trd>
   </snc>
-  <trd lng="fr">&eacute;v&egrave;nement pass&eacute;</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;v&eacute;nement pass&eacute;</trd>,
+    <trd>&eacute;v&egrave;nement pass&eacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="okaz.0antajxo">
@@ -924,7 +975,8 @@
   <uzo tip="stl">ARK</uzo>
   <snc mrk="okaz.0antajxo.KOMUNE">
     <dif>
-      <ref tip="dif" cel="okaz.0o.travivajxo"><tld lit="O"/>o<sncref/></ref>:
+      <ref tip="dif" cel="okaz.0o.travivajxo"><tld
+      lit="O"/>o<sncref/></ref>:
       <ekz>
         tio <klr>(vizito de skulptisto)</klr> estis grava
         <tld/>anta&jcirc;o, la urbo sciis pri tio
@@ -962,7 +1014,10 @@
     </dif>
     <trd lng="de">k&uuml;nftiges <ind>Ereignis</ind></trd>
   </snc>
-  <trd lng="fr">&eacute;v&egrave;nement &agrave; venir</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;v&eacute;nement &agrave; venir</trd>,
+    <trd>&eacute;v&egrave;nement &agrave; venir</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="okaz.0igi">
@@ -988,7 +1043,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Boris Kolker</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006813.html">Sa&gcirc;a 
+          <vrk><url
+          ref="http://steloj.de/esperanto/monato2/006813.html">Sa&gcirc;a 
            kapo duonvorton komprenas</url></vrk>
         </fnt>;
       </ekz>
@@ -997,7 +1053,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Leif Heilberg</aut>
-          <vrk><url ref="http://www.monato.net/2005/008615.php">Menso 
+          <vrk><url ref="&Monato;/2005/008615.php">Menso 
            sana en korpo nuda</url></vrk>
         </fnt>.
       </ekz>
@@ -1132,7 +1188,9 @@
         <fnt>
           <aut>Tibor Ujlaky-Nagy</aut>:
           <vrk>La sporta lingvo en Esperanto</vrk>.
-          <lok><url ref="http://www.freeweb.hu/eventoj/steb/sportalingvo.rtf">Hungara Esperanto-Asocio, 1972</url></lok>
+          <lok><url
+          ref="http://www.freeweb.hu/eventoj/steb/sportalingvo.rtf">Hungara
+          Esperanto-Asocio, 1972</url></lok>
         </fnt>;
       </ekz><ekz>
         &ccirc;iu<tld/>e li rakontadis sian malsani&gcirc;on.
@@ -1156,21 +1214,25 @@
        Jes a&ubreve; ne depende de <tld/>o,
        se estos <tld/>o:
       <ekz>
-        la moralo estas nek kameleono nek mod-artikolo la&ubreve;pla&ccirc;e, la&ubreve;bezone
+        la moralo estas nek kameleono nek mod-artikolo la&ubreve;pla&ccirc;e,
+        la&ubreve;bezone
         kaj la&ubreve;<tld/>e modifebla, for&jcirc;etebla a&ubreve; restarigebla
         <fnt>
           <bib>Monato</bib>
           <aut>Reinhard Haupenthal</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006848.html">Mallogika
+          <vrk><url
+          ref="http://steloj.de/esperanto/monato2/006848.html">Mallogika
            kaj senracia</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        la&ubreve;<tld/>aj laboristoj ofte &scirc;an&gcirc;as sian laborlokon, sekve sian lo&gcirc;lokon
+        la&ubreve;<tld/>aj laboristoj ofte &scirc;an&gcirc;as sian laborlokon, sekve sian
+        lo&gcirc;lokon
         <fnt>
           <bib>Monato</bib>
           <aut>Hori Jasuo</aut>
-          <vrk><url ref="http://www.monato.net/2009/009794.php">Lernantoj 
+          <vrk><url
+          ref="&Monato;/2009/009794.php">Lernantoj 
             senesperaj</url></vrk>
         </fnt>.
       </ekz>
@@ -1185,28 +1247,34 @@
   <var><kap>en la <tld/>o ke</kap></var>,
   <var><kap><tld/>e ke</kap></var></kap>
   <snc mrk="okaz.enla0ose.ARG">
+    <gra><vspec>konjunkcio</vspec></gra>
     <dif>
-      Je tiu kondi&ccirc;o ke... en tia cirkonstanco se...:      
+      En tia cirkonstanco ke...,
+      <ref tip="sin" cel="se.0.KOMUNE">se<sncref/></ref>:      
       <ekz>
         en la <tld/>o, se vi bezonos vortaron, vi trovos &gcirc;in
         sur la breto;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         en la <tld/>o se vi restos fidelaj, mi revokos vin
-        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro
+        <fnt><bib>I&scirc;tar</bib> <lok>&ccirc;apitro
         6a</lok></fnt>;
-      </ekz><ekz>
-        en la <tld/>o, ke &scirc;i ankora&ubreve; ne trafis Lemuelon, &scirc;i certe 
+      </ekz>
+      <ekz>
+        en la <tld/>o, ke &scirc;i ankora&ubreve; ne trafis <nom>Lemuelon</nom>, &scirc;i certe 
         perdi&gcirc;os en tia urbego
         <fnt>
           <bib>I&scirc;tar</bib>
         </fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <tld/>e ke la &ccirc;effrazo esprimas intencon a&ubreve; decidon pri 
         intenco, oni devas uzi la ordonan formon
         <fnt>
-          <aut>[K. Kalocsay]</aut>,
-          <vrk><url ref="http://www.tekstoj.nl/lm/lm24-7/bibliografio.html">
-          [Recenzo: Idoj de Orfeo]</url></vrk>,
+          <aut>[K. Kalocsay]</aut>
+          <vrk><url
+          ref="http://www.tekstoj.nl/lm/lm24-7/bibliografio.html">
+          [Recenzo: Idoj de Orfeo]</url></vrk>
           <lok>Literatura Mondo, 1924-07, p. 123a-124a</lok>
         </fnt>.
       </ekz>
@@ -1321,7 +1389,8 @@
         kunskriboj de O-vortoj kaj A-vortoj estas lim<tld/>oj
         inter apartaj kaj kunmetitaj vortoj
         <fnt><bib>PMEG</bib>,
-          <lok><url ref="http://bertilow.com/pmeg/gramatiko/specialaj_priskriboj/apudmeto.html">Kunskriboj</url></lok></fnt>;
+          <lok><url
+          ref="http://bertilow.com/pmeg/gramatiko/specialaj_priskriboj/apudmeto.html">Kunskriboj</url></lok></fnt>;
       </ekz><ekz>
         estas malfacile fari definitivan liston de la Esperantaj
         romanoj pro la relative multaj lim<tld/>oj
@@ -1379,11 +1448,13 @@
       </ekz>
       <ekz>
         kelkaj el inter la kunvenintoj a&ubreve;digis por<tld/>ajn paroladojn, 
-        atentigante pri la vivanteco de la idearo de Korczak
+        atentigante pri la vivanteco de la idearo de <nom>Korczak</nom>
         <fnt>
           <bib>Monato</bib>
           <aut>Zofia Banet-Fornalowa</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008093.html">Li semis bonon kaj belon</url></vrk>
+          <vrk><url
+          ref="https://www.monato.be/2003/008093.html">Li semis
+          bonon kaj belon</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -1458,7 +1529,10 @@
     <trd>evento simple</trd>,
     <trd>suceso elemental</trd>
   </trdgrp>
-  <trd lng="fr">&eacute;v&eacute;nement &eacute;l&eacute;mentaire</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;v&eacute;nement &eacute;l&eacute;mentaire</trd>,
+    <trd>&eacute;v&egrave;nement &eacute;l&eacute;mentaire</trd>
+  </trdgrp>
   <trd lng="hu">elemi <ind>esem&eacute;ny</ind></trd>
   <trd lng="pl">zdarzenie elementarne</trd>
   <trd lng="ru">&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;&c_a;&c_r;&c_n;&c_o;&c_je; <ind>&c_s;&c_o;&c_b;&c_y;&c_t;&c_i;&c_je;</ind></trd>
@@ -1468,6 +1542,18 @@
 </art>
 <!--
 $Log: okaz.xml,v $
+Revision 1.67  2020/01/14 17:10:24  revo
+Jeromo Vasxe: en la ~o se: + vspec + ref
+
+Revision 1.66  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
+Revision 1.65  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
+Revision 1.64  2019/04/09 11:10:14  revo
+Alain Gerard: +trd fr
+
 Revision 1.63  2018/01/24 21:10:14  revo
 Wolfram Diestel: prilaboris ekz-ojn, +lau~e, pliaj germ trd
 
@@ -1478,17 +1564,5 @@ Revision 1.61  2017/06/14 12:10:15  revo
 Ludoviko Francisco: -dua ind
 
 Revision 1.60  2017/06/13 14:10:12  revo
-Ludoviko Francisco: +trd fr
-
-Revision 1.59  2016/06/26 10:10:20  revo
-Sergio Pokrovskij: +aparta ~o
-
-Revision 1.58  2015/09/23 22:10:14  revo
-Jeromo Vasxe: + felicx~e
-
-Revision 1.57  2015/09/17 08:10:15  revo
-Sergio Pokrovskij: +cxiu~e
-
-Revision 1.56  2015/07/04 08:37:40  revo
 -->
 </vortaro>

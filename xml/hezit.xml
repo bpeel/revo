@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hezit.xml,v 1.24 2019/02/14 07:10:14 revo Exp $">
+<art mrk="$Id: hezit.xml,v 1.25 2019/02/21 13:10:24 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>hezit</rad>/i
@@ -38,6 +38,9 @@
         <trdgrp lng="de">
           <trd>z&ouml;gernd</trd>,
           <trd>unschl&uuml;ssig</trd>
+        </trdgrp>
+        <trdgrp lng="es">
+          <trd>vacilante</trd>
         </trdgrp>
         <trd lng="fr">h&eacute;sitant</trd>
       </ekz>
@@ -215,6 +218,9 @@
 </art>
 <!--
 $Log: hezit.xml,v $
+Revision 1.25  2019/02/21 13:10:24  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.24  2019/02/14 07:10:14  revo
 Guillermo Molleda Jimena: trd es
 
@@ -234,8 +240,5 @@ Revision 1.19  2007/07/04 16:30:50  revo
 Wieland Pusch: +trd de
 
 Revision 1.18  2005/10/15 16:32:21  revo
-Luiz Portella: +trd pt
-
-Revision 1.17  2005/05/04 16:31:43  revo
 -->
 </vortaro>

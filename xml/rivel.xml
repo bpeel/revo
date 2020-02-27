@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rivel.xml,v 1.19 2018/08/06 20:10:43 revo Exp $">
+<art mrk="$Id: rivel.xml,v 1.21 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>rivel</rad>/i <fnt><bib>PV</bib></fnt>
@@ -29,7 +29,7 @@
           <bib>Monato</bib>
           <aut>Paul Peeraerts</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/008280.html">Komposta 
+          ref="https://www.monato.be/2004/008280.html">Komposta 
           revolucio kaj presada stabileco</url></vrk>
         </fnt>.
       </ekz>
@@ -66,7 +66,7 @@
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
           <vrk><url
-          ref="http://www.monato.net/2005/008619.php">Paradoksa libreto
+          ref="&Monato;/2005/008619.php">Paradoksa libreto
           da paradoksaj rakontetoj</url></vrk>
         </fnt>;
       </ekz>
@@ -156,6 +156,12 @@
 </art>
 <!--
 $Log: rivel.xml,v $
+Revision 1.21  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
+Revision 1.20  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.19  2018/08/06 20:10:43  revo
 Michel Cantigneaux: aperas unue en PV (1934), oficiala en 8OA (1974)
 

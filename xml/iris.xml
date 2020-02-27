@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: iris.xml,v 1.19 2018/12/15 14:10:15 revo Exp $">
+<art mrk="$Id: iris.xml,v 1.20 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>iris</rad>/o
@@ -21,7 +21,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>J&aacute;nos S&aacute;rk&ouml;zi</aut>
-          <vrk><url ref="http://www.monato.net/2005/008401.php"
+          <vrk><url ref="&Monato;/2005/008401.php"
               >La fenomeno de ru&gcirc;aj okuloj</url></vrk>
         </fnt>;
       </ekz>  
@@ -30,7 +30,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>last</aut>
-          <vrk><url ref="http://www.monato.net/2005/008679.php"
+          <vrk><url ref="&Monato;/2005/008679.php"
               >Karto al la estonteco</url></vrk>
         </fnt>;
       </ekz>
@@ -41,7 +41,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Thierry Tailhades</aut>
-          <vrk><url ref="http://www.monato.net/2012/010805.php"
+          <vrk><url ref="&Monato;/2012/010805.php"
               >Erariga foto (2)</url></vrk>
         </fnt>.
       </ekz>
@@ -79,6 +79,9 @@
 </art>
 <!--
 $Log: iris.xml,v $
+Revision 1.20  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.19  2018/12/15 14:10:15  revo
 Wolfram Diestel: +ekz-oj
 

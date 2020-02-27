@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: riz.xml,v 1.31 2018/11/02 13:10:29 revo Exp $">
+<art mrk="$Id: riz.xml,v 1.34 2019/07/06 09:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>riz</rad>/o
@@ -69,7 +69,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hori Jasuo</aut>
-          <vrk><url ref="http://www.monato.net/2008/009634.php">Ibisoj
+          <vrk><url ref="&Monato;/2008/009634.php">Ibisoj
           kaj cikonioj: reaperintaj birdoj</url></vrk>
         </fnt>.
       </ekz>
@@ -83,6 +83,7 @@
   <trd lng="es">arroz</trd>
   <trd lng="fa">&a_b;&a_r;&a_n;&a_j;</trd>
   <trd lng="fr">riz</trd>
+  <trd lng="hi">&#2330;&#2366;&#2357;&#2354; [<ind>ch&#257;val</ind>]</trd>
   <trd lng="hu">rizs</trd>
   <trd lng="it">riso<klr> (cereale)</klr></trd>
   <trd lng="nl">rijst</trd>
@@ -112,7 +113,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Tiombiano Mardia Oumarou</aut>
-          <vrk><url ref="http://www.monato.net/2005/008758.php">&Ccirc;esigu
+          <vrk><url ref="&Monato;/2005/008758.php">&Ccirc;esigu
           la ekspluatadon!</url></vrk>
         </fnt>;
       </ekz>
@@ -204,6 +205,15 @@
 </art>
 <!--
 $Log: riz.xml,v $
+Revision 1.34  2019/07/06 09:10:22  revo
+Aleks Andre: hi: iso 15919
+
+Revision 1.33  2019/07/04 15:10:25  revo
+Aleks Andre: +trd hi
+
+Revision 1.32  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
 Revision 1.31  2018/11/02 13:10:29  revo
 Peter Garami: slovena tradukajxo aldonita
 
@@ -217,14 +227,5 @@ Revision 1.28  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.27  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.26  2013/08/28 16:10:30  revo
-Wolfram Diestel: -tajperaro
-
-Revision 1.25  2013/08/28 15:10:25  revo
-Wolfram Diestel: referencoj al bot genroj
-
-Revision 1.24  2009/10/03 16:30:35  revo
 -->
 </vortaro>

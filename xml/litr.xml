@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: litr.xml,v 1.27 2018/09/30 22:10:21 revo Exp $">
+  <art mrk="$Id: litr.xml,v 1.28 2020/01/24 23:10:33 revo Exp $">
     <kap>
       <ofc>2</ofc>
       <rad>litr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -51,13 +51,18 @@
   <trd lng="hu">liter</trd>
   <trd lng="id">liter</trd>
   <trd lng="nl">liter</trd>
+  <trd lng="pl">litr</trd>
   <trd lng="pt">litro</trd>
+  <trd lng="ro">litru</trd>
   <trd lng="ru">&c_l;&c_i;&c_t;&c_r;</trd>
   <trd lng="sk">liter</trd>
 </drv>
   </art>
   <!--
   $Log: litr.xml,v $
+  Revision 1.28  2020/01/24 23:10:33  revo
+  Vito Redsky: +trd pl +trd ro
+
   Revision 1.27  2018/09/30 22:10:21  revo
   Behnam Tabatabai: +trd fa
 

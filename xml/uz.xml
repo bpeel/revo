@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: uz.xml,v 1.31 2018/08/31 11:10:16 revo Exp $">
+<art mrk="$Id: uz.xml,v 1.33 2019/12/17 17:10:27 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>uz</rad>/i <fnt><bib>PV</bib></fnt>
@@ -358,8 +358,7 @@
         lo&gcirc;ejon
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://www.kono.be/mazingira/eo.html">Mazingira</url></vrk>,
+          <vrk><url ref="http://www.kono.be/mazingira/eo.html">Mazingira</url></vrk>,
           <lok>2008</lok>
         </fnt>.
       </ekz>
@@ -445,13 +444,36 @@
   </trdgrp>
 </drv>
 
+<drv mrk="uz.unu0a">
+  <kap>
+    unu<tld/>a
+  </kap>
+  <snc mrk="uz.unu0a.KOMUNE">
+    <dif>
+      Kiu estas uzebla nur unu fojon, poste ne plu:
+      <ekz>
+        volontuloj disdonadis teon en unu<tld/>aj tasoj
+        <fnt>
+          <aut>K. Kniivil&auml;</aut>
+          <vrk>Homoj de Putin</vrk>
+          <lok>2016</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>&agrave; usage unique</trd>,
+    <trd>jetable</trd>
+  </trdgrp>
+</drv>
+
 <drv mrk="uz.frukt0o">
    <kap>frukt<tld/>o</kap>
    <snc mrk="uz.frukt0o.JUR">
      <uzo tip="fak">JUR</uzo>
      <dif>
-       Rajto <tld/>i ion, kies proprumecon havas alia, kaj kolekti
-       &gcirc;iajn fruktojn a&ubreve; produktojn, sed ne &gcirc;in vendi a&ubreve; detrui.
+        Le&gcirc;a rajto, la&ubreve; kiu iu povas utiligi aferon, poseda&jcirc;on, hereda&jcirc;on,
+        prenante por sia profito nur la produkta&jcirc;ojn a&ubreve; rentojn, sed ne tu&scirc;ante la bienon a&ubreve; la kapitalon.
      </dif>
    </snc>
   <trd lng="cs">po&zcaron;&iacute;vac&iacute; pr&aacute;vo</trd>
@@ -471,6 +493,12 @@
 </art>
 <!--
 $Log: uz.xml,v $
+Revision 1.33  2019/12/17 17:10:27  revo
+Jeromo Vasxe: + unu~a
+
+Revision 1.32  2019/03/22 13:10:15  revo
+Wolfram Diestel: frukt~o: vortumo de dif
+
 Revision 1.31  2018/08/31 11:10:16  revo
 Guillermo Molleda Jimena: trd es
 
@@ -487,11 +515,5 @@ Revision 1.27  2008/07/06 17:22:12  revo
 Jeromo Vasxe: + kun~i, + kk mrk + kk trd fr
 
 Revision 1.26  2007/07/06 18:04:40  revo
-Harri Laine: +trd fi
-
-Revision 1.25  2006/09/16 16:30:45  revo
-Axel Rousseau: +trd tp
-
-Revision 1.24  2005/05/23 16:32:22  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: rifuz.xml,v 1.23 2018/04/21 15:10:15 revo Exp $">
+  <art mrk="$Id: rifuz.xml,v 1.25 2019/06/30 18:21:49 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>rifuz</rad>/i
@@ -90,7 +90,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Eskil Svane</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008197.html">Misinformaj komentoj</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008197.html">Misinformaj komentoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -135,7 +135,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.monato.net/2008/009448.php">Krimaj ri&ccirc;uloj</url></vrk>
+          <vrk><url ref="&Monato;/2008/009448.php">Krimaj ri&ccirc;uloj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -143,7 +143,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="http://www.monato.net/2014/011108.php">Perfidita popolo</url></vrk>
+          <vrk><url ref="&Monato;/2014/011108.php">Perfidita popolo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -151,7 +151,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="http://www.monato.net/2013/010997.php">De fago al fago</url></vrk>
+          <vrk><url ref="&Monato;/2013/010997.php">De fago al fago</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -159,7 +159,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lode Van de Velde</aut>
-          <vrk><url ref="http://www.monato.net/2014/011275.php">Donaco-ekonomio: alia mondo eblas!</url></vrk>
+          <vrk><url ref="&Monato;/2014/011275.php">Donaco-ekonomio: alia mondo eblas!</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -374,6 +374,12 @@
   </art>
   <!--
   $Log: rifuz.xml,v $
+  Revision 1.25  2019/06/30 18:21:49  revo
+  adaptis URL de Monato
+
+  Revision 1.24  2019/06/30 07:43:29  revo
+  adaptis URL de Monato
+
   Revision 1.23  2018/04/21 15:10:15  revo
   Wolfram Diestel: korektis mrk; prilaboris ekz-ojn, +rim, +adm
 

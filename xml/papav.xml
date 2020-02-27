@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: papav.xml,v 1.26 2018/09/17 19:10:16 revo Exp $">
+<art mrk="$Id: papav.xml,v 1.27 2019/06/30 18:21:48 revo Exp $">
 <kap><ofc>*</ofc><rad>papav</rad>/o</kap>
 <drv mrk="papav.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -36,7 +36,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.monato.net/2005/008797.php">Jubileo sen pompo</url></vrk>
+          <vrk><url ref="&Monato;/2005/008797.php">Jubileo sen pompo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -118,6 +118,9 @@
 </art>
 <!--
 $Log: papav.xml,v $
+Revision 1.27  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
 Revision 1.26  2018/09/17 19:10:16  revo
 Wolfram Diestel: +snc KUI, +ekz-oj
 

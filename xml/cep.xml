@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cep.xml,v 1.25 2019/01/18 12:10:17 revo Exp $">
+<art mrk="$Id: cep.xml,v 1.26 2019/06/30 09:58:52 revo Exp $">
 <kap>
 <ofc>8</ofc>
 <rad>cep</rad>/o
@@ -24,7 +24,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Dmitrij Cibulevskij</aut>
-          <vrk><url ref="https://www.monato.net/2007/009117.php">Lardo-ardo</url></vrk>
+          <vrk><url ref="&Monato;/2007/009117.php">Lardo-ardo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -32,7 +32,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Albisturo Kvinke</aut>
-          <vrk><url ref="https://www.monato.net/2008/009326.php">Analoj de Bailenambeann</url></vrk>
+          <vrk><url ref="&Monato;/2008/009326.php">Analoj de Bailenambeann</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -78,6 +78,9 @@
 </art>
 <!--
 $Log: cep.xml,v $
+Revision 1.26  2019/06/30 09:58:52  revo
+adaptis URL de Monato
+
 Revision 1.25  2019/01/18 12:10:17  revo
 Wolfram Diestel: +ekz-oj, +bld
 

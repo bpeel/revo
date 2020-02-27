@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kontrici.xml,v 1.4 2018/08/20 23:10:25 revo Exp $">
+<art mrk="$Id: kontrici.xml,v 1.5 2019/10/13 14:10:18 revo Exp $">
 <kap>
   <rad>kontrici</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -10,18 +10,21 @@
   <kap><tld/>o</kap>
   <uzo tip="stl">RAR</uzo>
   <snc mrk="kontrici.0o.PSI">
-    <ref tip="dif" cel="pent.0o.PSI">pento</ref>
-    <ekz>
-      la renegato eniris denove en la sinon de la Eklezio <klr>...</klr>
-      dank' al siaj <tld/>o kaj pentofarado
-      <fnt><bib>DonKihxoto</bib>, <lok>parto 2a, &ccirc;apitro 65a, p.
-      769a</lok></fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="pent.0o.PSI">Pento</ref>:
+      <ekz>
+        la renegato eniris denove en la sinon de la Eklezio <klr>[&#8230;]</klr>
+        dank' al siaj <tld/>o kaj pentofarado
+        <fnt><bib>DonKihxoto</bib>, <lok>parto 2a, &ccirc;apitro 65a, p.
+        769a</lok></fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trdgrp lng="cs">
     <trd>l&iacute;tost</trd>,
     <trd>&zcaron;al</trd>
   </trdgrp>
+  <trd lng="de">Bu&szlig;e</trd>
   <trd lng="fr">contrition</trd>
   <trdgrp lng="pl">
     <trd>skrucha</trd>,
@@ -37,6 +40,9 @@
 
 <!--
 $Log: kontrici.xml,v $
+Revision 1.5  2019/10/13 14:10:18  revo
+Wolfram Diestel: germ trd
+
 Revision 1.4  2018/08/20 23:10:25  revo
 Vito Redsky: +trd pl trd ro
 

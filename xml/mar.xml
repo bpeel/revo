@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: mar.xml,v 1.56 2017/12/19 10:10:18 revo Exp $">
+  <art mrk="$Id: mar.xml,v 1.59 2019/09/10 22:10:20 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>mar</rad>/o
@@ -406,12 +406,22 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Sergeo Jurji&ccirc;</aut>
-          <vrk><url ref="http://www.monato.net/2009/009713.php">Necesas
+          <vrk><url ref="&Monato;/2009/009713.php">Necesas
           senlima pacienco</url></vrk>
         </fnt>.
       </ekz>
-   </dif>
- </snc>
+    </dif>
+    <bld
+      lok="&WCU;/thumb/c/c2/Bm_krim.jpg/800px-Bm_krim.jpg"
+      prm="PD"
+      >Azova <tld lit="M"/>o kun la duoninsulo Krimeo
+        kaj la Ker&ccirc;a markolo
+        <fnt>
+          <lok><url ref="&WCW;/File:Bm_krim.jpg"
+              >https://commons.wikimedia.org/wiki/File:Bm_krim.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
   <trd lng="be">
     &c_A;&c_z;&c_o;&c_w;&c_s;&c_k;&c_a;&c_je; &c_m;&c_o;&c_r;&c_a;</trd>
   <trd lng="de">Asowsches <ind>Meer</ind></trd>
@@ -484,7 +494,7 @@
           <bib>Monato</bib>
           <aut>Werner FU&szlig;</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2003/007969.html">&Ccirc;u 
+          ref="https://www.monato.be/2003/007969.html">&Ccirc;u 
            la homaro lernis pensi per la lingvo?</url></vrk>
         </fnt>;
       </ekz>
@@ -574,7 +584,7 @@
       <ekz>
         oriente de Bohai-markolo estas la Flava <tld lit="M"/>o
         <fnt><bib>EncCxi</bib>
-          <lok>&ccirc;ap. &#171;Maroj kaj Marbordo&#187;, p. 34a</lok>
+          <lok>&ccirc;ap. «Maroj kaj Marbordo», p. 34a</lok>
         </fnt>;
      </ekz>
       <ekz>
@@ -662,7 +672,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="http://www.monato.net/2014/011214.php">2013:
+          <vrk><url ref="&Monato;/2014/011214.php">2013:
           dek donacoj al la posteuloj</url></vrk>
         </fnt>;
       </ekz>
@@ -786,7 +796,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Karlo Juh&aacute;sz</aut>
-          <vrk><url ref="http://www.monato.net/2008/009465.php">Rivalaj
+          <vrk><url ref="&Monato;/2008/009465.php">Rivalaj
           gastuboj</url></vrk>
         </fnt>;
       </ekz>
@@ -796,7 +806,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>last</aut>
-          <vrk><url ref="http://www.monato.net/2010/010165.php">Celen
+          <vrk><url ref="&Monato;/2010/010165.php">Celen
           sursele</url></vrk>
         </fnt>.
       </ekz>
@@ -841,7 +851,7 @@
           <bib>Monato</bib>
           <aut>Garbhan MACAOIDH</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/008394.html">La angla,
+          ref="https://www.monato.be/2004/008394.html">La angla,
           &ccirc;u troja &ccirc;evalo?</url></vrk>
         </fnt>;
       </ekz>
@@ -851,7 +861,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Mireille Grosjean</aut>
-          <vrk><url ref="http://www.monato.net/2015/011396.php">&Ccirc;arnira
+          <vrk><url ref="&Monato;/2015/011396.php">&Ccirc;arnira
           urbo</url></vrk>
         </fnt>.
       </ekz>
@@ -1083,6 +1093,15 @@
  </art>
   <!--
       $Log: mar.xml,v $
+      Revision 1.59  2019/09/10 22:10:20  revo
+      Wolfram Diestel: Azova ~o: +bld
+
+      Revision 1.58  2019/06/30 18:21:47  revo
+      adaptis URL de Monato
+
+      Revision 1.57  2019/06/30 07:42:48  revo
+      adaptis URL de Monato
+
       Revision 1.56  2017/12/19 10:10:18  revo
       Michel Cantigneaux: fundamenta "maristo" el la Universala Vortaro
 

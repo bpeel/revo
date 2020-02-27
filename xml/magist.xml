@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: magist.xml,v 1.23 2018/12/07 18:10:20 revo Exp $">
+<art mrk="$Id: magist.xml,v 1.25 2019/09/30 08:10:16 revo Exp $">
 <kap>
   <rad>magistr</rad>/o <fnt>Z</fnt>
 </kap>
@@ -15,23 +15,26 @@
       ekzistanta en pluraj landoj kaj ranganta inter
       bakala&ubreve;ro a&ubreve; abituriento kaj doktoro:
       <ekz>
-        ekde 1390 li studis en la praga universitato, en 1393 li fari&gcirc;is bakala&ubreve;ro, 
-        en 1396 <tld/>o de liberaj artoj, ekde 1398 li prelegis en la artisma fakultato 
+        ekde 1390 li studis en la praga universitato, en 1393 li fari&gcirc;is
+        bakala&ubreve;ro, 
+        en 1396 <tld/>o de liberaj artoj, ekde 1398 li prelegis en la
+        artisma fakultato 
         de la universitato, en 1400 li estis ordinita pastro
         <fnt>
           <bib>Monato</bib>
           <aut>Gerrit Berveling</aut>
           <vrk><url ref="http://steloj.de/esperanto/monato2/007031.html"
-              >Katolikismo: Johano Hus &dash; &ccirc;u ne plu herezulo?</url></vrk>
+              >Katolikismo: Johano Hus &#8208; &ccirc;u ne plu herezulo?</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        la novaj universitataj gradoj estu bakala&ubreve;ro (ses-semestra studado), <tld/>o
+        la novaj universitataj gradoj estu bakala&ubreve;ro (ses-semestra
+        studado), <tld/>o
         (pliaj du a&ubreve; kvar semestroj) kaj doktoro
         <fnt>
           <bib>Monato</bib>
           <aut>Walter Klag</aut>
-          <vrk><url ref="http://www.monato.net/2010/010037.php"
+          <vrk><url ref="&Monato;/2010/010037.php"
               >Reformo fu&scirc;ita</url></vrk>
         </fnt>.
       </ekz>
@@ -52,7 +55,7 @@
   </snc>
   <snc mrk="magist.0o.FIG">
     <uzo tip="stl">FIG</uzo>
-    <ref tip="dif" cel="pedant.0o">Pedanto</ref>
+    <ref tip="dif" cel="pedant.0ulo">Pedanto</ref>
     <trd lng="ca">setci&egrave;ncies</trd>
     <trdgrp lng="fr">
       <trd>cuistre</trd>,
@@ -79,6 +82,12 @@
 </art>
 <!--
 $Log: magist.xml,v $
+Revision 1.25  2019/09/30 08:10:16  revo
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.24  2019/06/30 18:21:47  revo
+adaptis URL de Monato
+
 Revision 1.23  2018/12/07 18:10:20  revo
 Wolfram Diestel: +ekz-oj
 
@@ -95,11 +104,5 @@ Revision 1.19  2011/12/07 18:10:17  revo
 Eduardo Navas: +trad es
 
 Revision 1.18  2011/09/22 08:10:08  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.17  2010/08/25 16:30:24  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.16  2009/02/19 20:26:32  revo
 -->
 </vortaro>

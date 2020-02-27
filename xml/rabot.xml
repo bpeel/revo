@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rabot.xml,v 1.22 2018/10/29 17:10:14 revo Exp $">
+<art mrk="$Id: rabot.xml,v 1.23 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rabot</rad>/i <fnt><bib>PV</bib></fnt>
@@ -153,7 +153,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jens Spillner</aut>
-          <vrk><url ref="http://www.monato.net/2015/011575.php">Fajro, forno, fervoro</url></vrk>
+          <vrk><url ref="&Monato;/2015/011575.php">Fajro, forno, fervoro</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -179,6 +179,9 @@
 </art>
 <!--
 $Log: rabot.xml,v $
+Revision 1.23  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
 Revision 1.22  2018/10/29 17:10:14  revo
 Wolfram Diestel: +ekz-oj, +bld
 

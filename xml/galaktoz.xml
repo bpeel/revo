@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: galaktoz.xml,v 1.2 2018/05/20 18:10:14 revo Exp $">
+  <art mrk="$Id: galaktoz.xml,v 1.3 2019/10/07 10:10:20 revo Exp $">
     <kap>
       <rad>galaktoz</rad>/o
     </kap>
@@ -27,7 +27,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        heksozoj: <ref cel="glukoz.0o">glukozo</ref>, <ref
+        heksozoj: <ref cel="glikoz.0o">glukozo</ref>, <ref
         cel="fruktoz.0o">fruktozo</ref>, <tld/>o
         <fnt>
           <bib>Viki</bib>
@@ -63,6 +63,9 @@
 
 <!--
 $Log: galaktoz.xml,v $
+Revision 1.3  2019/10/07 10:10:20  revo
+Damien Brucker: -eraro cxe cel en ref
+
 Revision 1.2  2018/05/20 18:10:14  revo
 Damien Brucker: +trd fr
 

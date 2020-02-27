@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kostarik.xml,v 1.10 2018/08/25 11:10:11 revo Exp $">
+<art mrk="$Id: kostarik.xml,v 1.11 2019/06/30 18:21:03 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>Kostarik</rad>/o <fnt><bib>PIV1</bib></fnt>
@@ -40,7 +40,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hugo Mora</aut>
-          <vrk><url ref="http://www.monato.net/2005/008770.php">Instru-taksilo</url></vrk>
+          <vrk><url ref="&Monato;/2005/008770.php">Instru-taksilo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -48,7 +48,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="http://www.monato.net/2012/010671.php">Kreskanta Interret-minaco</url></vrk>
+          <vrk><url ref="&Monato;/2012/010671.php">Kreskanta Interret-minaco</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -116,6 +116,9 @@
 
 <!--
 $Log: kostarik.xml,v $
+Revision 1.11  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
 Revision 1.10  2018/08/25 11:10:11  revo
 Wolfram Diestel: +ekz-oj, germ trd-oj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: simpozi.xml,v 1.12 2016/03/18 12:10:21 revo Exp $">
+<art mrk="$Id: simpozi.xml,v 1.13 2019/03/06 23:10:29 revo Exp $">
 <kap>
   <rad>simpozi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -41,7 +41,12 @@
   <trd lng="fr">symposium</trd>
   <trd lng="hu">szimpozium</trd>
   <trd lng="it">simposio</trd>
-  <trd lng="pt">simp&oacute;sio</trd>
+  <trd lng="pl">sympozium</trd>
+  <trd lng="pt">simp&oacute;sio</trd>     
+  <trdgrp lng="ro">
+    <trd>simpozion</trd>,
+    <trd>conferin&tcedil;a</trd>
+  </trdgrp> 
   <trd lng="ru">&c_s;&c_i;&c_m;&c_p;&c_o;&c_z;&c_i;&c_u;&c_m;</trd>
   <trdgrp lng="sk">
     <trd>symp&oacute;zium</trd>,
@@ -52,6 +57,9 @@
 
 <!--
 $Log: simpozi.xml,v $
+Revision 1.13  2019/03/06 23:10:29  revo
+Vito Redsky: +trd ro +trd pl
+
 Revision 1.12  2016/03/18 12:10:21  revo
 Warut Bunprasert: +trd th
 
@@ -71,8 +79,5 @@ Revision 1.7  2006/09/01 18:31:00  revo
 Wieland Pusch: +trd de
 
 Revision 1.6  2005/12/19 17:32:10  revo
-Yury Finkel: +trd ru
-
-Revision 1.5  2004/11/30 17:31:49  revo
 -->
 </vortaro>

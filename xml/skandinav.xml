@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: skandinav.xml,v 1.1 2018/05/04 10:10:18 revo Exp $">
+<art mrk="$Id: skandinav.xml,v 1.3 2019/07/17 08:10:14 revo Exp $">
 <kap>
   <rad>skandinav</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -19,7 +19,7 @@
         kiuj eklo&gcirc;is sur la britaj insuloj
         <fnt>
           <aut>O. Prytz</aut>
-          <vrk><url ref="https://www.monato.net/2014/011276.php">
+          <vrk><url ref="&Monato;/2014/011276.php">
           &Ccirc;u la angla ne devenas de la praangla?</url></vrk>
           <bib>Monato</bib>
           <lok>2014:7, p. 16a</lok>
@@ -28,6 +28,7 @@
     </dif>
   </snc>
   <trd lng="fr">scandinave</trd>
+  <trd lng="pl">Skandynaw</trd>
 </drv>
 
 <drv mrk="skandinav.0ujo">
@@ -54,11 +55,18 @@
     </dif>
   </snc>
   <trd lng="fr">Scandinavie</trd>
+  <trd lng="pl">Skandynawia</trd>
 </drv>
 </art>
 
 <!--
 $Log: skandinav.xml,v $
+Revision 1.3  2019/07/17 08:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
 Revision 1.1  2018/05/04 10:10:18  revo
 Jeromo Vasxe: nova artikolo
 

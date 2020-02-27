@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dispep.xml,v 1.21 2018/08/19 20:10:13 revo Exp $">
+<art mrk="$Id: dispep.xml,v 1.22 2019/06/30 18:19:02 revo Exp $">
   <kap>
     <ofc>1</ofc>
     <rad>dispepsi</rad>/o
@@ -18,7 +18,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Mu Binghua</aut>
-          <vrk><url ref="http://www.monato.net/2005/008743.php">Konsumado sur trajnoj multekostas</url></vrk>
+          <vrk><url ref="&Monato;/2005/008743.php">Konsumado sur trajnoj multekostas</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -27,7 +27,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ivo Durwael</aut>
-          <vrk><url ref="http://www.monato.net/2011/010431.php">Tamtamas &scirc;topi&gcirc;oj</url></vrk>
+          <vrk><url ref="&Monato;/2011/010431.php">Tamtamas &scirc;topi&gcirc;oj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -76,6 +76,9 @@
 </art>
 <!--
 $Log: dispep.xml,v $
+Revision 1.22  2019/06/30 18:19:02  revo
+adaptis URL de Monato
+
 Revision 1.21  2018/08/19 20:10:13  revo
 Wolfram Diestel: +ekz-oj
 

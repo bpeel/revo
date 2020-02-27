@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: uni.xml,v 1.28 2018/10/09 18:10:17 revo Exp $">
+<art mrk="$Id: uni.xml,v 1.30 2019/06/30 18:21:50 revo Exp $">
 <kap>
     <ofc>9</ofc><rad>uni</rad>/o
     <fnt><bib>PV</bib></fnt>
@@ -92,7 +92,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/007983.html">Lingvo kiel politikilo</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/007983.html">Lingvo kiel politikilo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -100,7 +100,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008244.html">Modereco venkita</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008244.html">Modereco venkita</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -220,7 +220,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Dimitar Ha&gcirc;iev</aut>
-          <vrk><url ref="http://www.monato.net/2006/008957.php">Religioj en Bulgario</url></vrk>
+          <vrk><url ref="&Monato;/2006/008957.php">Religioj en Bulgario</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -261,6 +261,12 @@
 </art>
 <!--
 $Log: uni.xml,v $
+Revision 1.30  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.29  2019/06/30 07:43:30  revo
+adaptis URL de Monato
+
 Revision 1.28  2018/10/09 18:10:17  revo
 Wolfram Diestel: ekz-oj, kor. ref
 

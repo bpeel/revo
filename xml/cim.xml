@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cim.xml,v 1.26 2019/01/26 20:10:14 revo Exp $">
+<art mrk="$Id: cim.xml,v 1.27 2019/06/30 09:58:52 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>cim</rad>/o
@@ -70,7 +70,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>D. E. Rogers</aut>
-          <vrk><url ref="https://www.monato.net/2004/008269.html"
+          <vrk><url ref="&Monato;/2004/008269.html"
               >Libera programaro: nova rimedo komerci</url></vrk>
         </fnt>;
       </ekz>
@@ -79,7 +79,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Edmund Grimley Evans</aut>
-          <vrk><url ref="https://www.monato.net/2010/010031.php"
+          <vrk><url ref="&Monato;/2010/010031.php"
               >Knoppix</url></vrk>
         </fnt>.
       </ekz>
@@ -168,6 +168,9 @@
 </art>
 <!--
 $Log: cim.xml,v $
+Revision 1.27  2019/06/30 09:58:52  revo
+adaptis URL de Monato
+
 Revision 1.26  2019/01/26 20:10:14  revo
 Wolfram Diestel: +ekz-oj, +bld
 

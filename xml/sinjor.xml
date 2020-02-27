@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sinjor.xml,v 1.30 2018/10/13 18:10:18 revo Exp $">
+<art mrk="$Id: sinjor.xml,v 1.31 2019/07/06 06:10:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sinjor</rad>/o <fnt><bib>PV</bib></fnt>
@@ -25,8 +25,7 @@
     <trd lng="fr">monsieur</trd>
     <trd lng="hu">&uacute;r</trd>
     <trd lng="ru">&c_g;&c_o;&c_s;&c_p;&c_o;&c_d;&c_i;&c_n;</trd>
-    
-    <trd lng="zh">&#20808;&#29983;<klr> [xi&#257;nsheng]</klr></trd>
+    <trd lng="zh">&#20808;&#29983; [<ind>xi&#257;nsheng</ind>]</trd>
   </snc>
   <snc mrk="sinjor.0o.mastro">
     <dif>
@@ -294,6 +293,9 @@
 </art>
 <!--
 $Log: sinjor.xml,v $
+Revision 1.31  2019/07/06 06:10:33  revo
+Aleks Andre: zh: indekso
+
 Revision 1.30  2018/10/13 18:10:18  revo
 Evandro Avellar: +trd pt
 
@@ -313,8 +315,5 @@ Revision 1.25  2014/12/13 23:10:13  revo
 Jeromo Vasxe: + ~umi
 
 Revision 1.24  2014/07/11 16:10:13  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.23  2014/01/02 21:10:21  revo
 -->
 </vortaro>

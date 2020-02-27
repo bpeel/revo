@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kompre.xml,v 1.42 2018/09/16 19:10:13 revo Exp $">
+<art mrk="$Id: kompre.xml,v 1.44 2019/07/02 09:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kompren</rad>/i <fnt><bib>PV</bib></fnt>
@@ -290,6 +290,7 @@
     <trd>f&ouml;rst&aring;</trd>,
     <trd>begripa</trd>
   </trdgrp>
+  <trd lng="zh">&#26126;&#30333;<klr> [m&iacute;ngb&aacute;i]</klr></trd>
 </drv>
 
 <drv mrk="kompre.0o">
@@ -1041,7 +1042,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Zofia Banet-Fornalowa</aut>
-          <vrk><url ref='http://www.monato.net/2005/008642.php'>Tre
+          <vrk><url ref='&Monato;/2005/008642.php'>Tre
           dan&gcirc;era Monato</url></vrk>
           <lok>2005</lok>
         </fnt>.
@@ -1664,7 +1665,7 @@
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
           <vrk><url
-          ref='http://www.monato.net/2007/009218.php'>Modernantikvaj
+          ref='&Monato;/2007/009218.php'>Modernantikvaj
           fabeloj</url></vrk>
           <lok>2007</lok>
         </fnt>.
@@ -1741,6 +1742,12 @@
 </art>
 <!--
 $Log: kompre.xml,v $
+Revision 1.44  2019/07/02 09:10:18  revo
+Aleks Andre: zh: kompreni
+
+Revision 1.43  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
 Revision 1.42  2018/09/16 19:10:13  revo
 Guillermo Molleda Jimena: trd es
 
@@ -1757,11 +1764,5 @@ Revision 1.38  2017/10/02 17:10:14  revo
 Wolfram Diestel: kelkaj fnt-oj
 
 Revision 1.37  2017/02/15 14:10:20  revo
-Jeromo Vasxe: eklizio -> eklezio
-
-Revision 1.36  2015/07/04 08:37:37  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.35  2015/06/29 16:33:17  revo
 -->
 </vortaro>

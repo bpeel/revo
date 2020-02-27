@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rok.xml,v 1.18 2018/05/13 22:10:14 revo Exp $">
+<art mrk="$Id: rok.xml,v 1.20 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>rok</rad>/o
@@ -61,7 +61,7 @@
           <bib>Monato</bib>
           <aut>Vja&ccirc;eslav (Slavik) Ivanov</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2003/007865.html">La oseta
+          ref="https://www.monato.be/2003/007865.html">La oseta
           lingvo</url></vrk>
         </fnt>;
       </ekz>
@@ -169,7 +169,7 @@
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
           <vrk><url
-          ref="http://www.monato.net/2015/011471.php">Palatinata
+          ref="&Monato;/2015/011471.php">Palatinata
           rokolando</url></vrk>
         </fnt>.
       </ekz>
@@ -194,7 +194,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Petro De Smet'</aut>
-          <vrk><url ref="http://www.monato.net/2008/009292.php">Sidante
+          <vrk><url ref="&Monato;/2008/009292.php">Sidante
           en pudingo, 
             mi alvokas miajn savantojn!</url></vrk>
         </fnt>;
@@ -251,6 +251,12 @@
 </art>
 <!--
 $Log: rok.xml,v $
+Revision 1.20  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
+Revision 1.19  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.18  2018/05/13 22:10:14  revo
 Benoit Soubeyran: + he
 

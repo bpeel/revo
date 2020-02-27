@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: porci.xml,v 1.19 2018/06/02 16:10:14 revo Exp $">
+<art mrk="$Id: porci.xml,v 1.21 2019/09/04 10:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>porci</rad>/o <fnt><bib>PV</bib></fnt>
@@ -41,6 +41,10 @@
       <trd>portie</trd>,
       <trd>aandeel</trd>,
       <trd>rantsoen</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>porcja</trd>,
+      <trd>racja</trd>
     </trdgrp>
     <trdgrp lng="pt">
       <trd>por&ccedil;&atilde;o</trd>,
@@ -86,7 +90,7 @@
   <snc mrk="porci.0igi.KOMUNE">
     <dif>
       <ref tip="vid" cel="divid.0i.disdoni">Dividi</ref>,
-      <ref tip="vid" cel="part.0igi.disdoni">partigi</ref>
+      <ref tip="vid" cel="part.0igi.enPartojn">partigi</ref>
       la&ubreve; <tld/>oj:
       <ekz>
         Hrafnkel okupis la tutan valon kaj <tld/>igis
@@ -132,6 +136,10 @@
   </snc>
   <trd lng="cs">p&rcaron;id&ecaron;lovat potraviny</trd>
   <trd lng="fr">rationner</trd>
+  <trdgrp lng="pl">
+    <trd>porcjowa&cacute;</trd>,
+    <trd>racjonowa&cacute;</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>d&aacute;vkova&tcaron;</trd>,
     <trd>prideli&tcaron; <klr>(jedlo)</klr></trd>
@@ -140,6 +148,12 @@
 </art>
 <!--
 $Log: porci.xml,v $
+Revision 1.21  2019/09/04 10:10:15  revo
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.20  2019/07/17 08:10:15  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.19  2018/06/02 16:10:14  revo
 Damien Brucker: -eraro cxe cel en ref
 
@@ -156,11 +170,5 @@ Revision 1.15  2012/01/03 07:10:07  revo
 Eduardo Iriarte Gahete: +trd es
 
 Revision 1.14  2006/03/11 17:32:02  revo
-Tulio Flores: +tr pt
-
-Revision 1.13  2003/07/17 16:38:09  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12  2002/12/18 18:50:28  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: rom.xml,v 1.20 2018/11/19 13:10:13 revo Exp $">
+<art mrk="$Id: rom.xml,v 1.25 2020/01/05 11:10:15 revo Exp $">
 <kap><rad>Rom</rad>/o</kap>
 <drv mrk="rom.0o">
   <kap><tld/>o</kap>
@@ -86,7 +86,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Edward Kusters</aut>
-          <vrk><url ref="http://www.monato.net/2006/009100.php">Alfred
+          <vrk><url ref="&Monato;/2006/009100.php">Alfred
           Nobel: 
           nobelo inter la sciencistoj kaj lingvistoj</url></vrk>
         </fnt>;
@@ -98,7 +98,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Armando Zecchin</aut>
-          <vrk><url ref="http://www.monato.net/2007/009198.php">&Ccirc;u vere
+          <vrk><url ref="&Monato;/2007/009198.php">&Ccirc;u vere
           okazis sang-oferaj paskoj?</url></vrk>
         </fnt>;
       </ekz><ekz>
@@ -107,7 +107,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="http://www.monato.net/2011/010341.php">Kiom da
+          <vrk><url ref="&Monato;/2011/010341.php">Kiom da
           homoj, tiom da gustoj</url></vrk>
         </fnt>;
       </ekz><ekz>
@@ -125,7 +125,7 @@
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2003/007967.html">La Oka
+          ref="https://www.monato.be/2003/007967.html">La Oka
           Koridoro</url></vrk>
         </fnt>;
       </ekz><ekz>
@@ -178,7 +178,7 @@
         <fnt>
           <bib>Monato</bib>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2003/008041.html">La
+          ref="https://www.monato.be/2003/008041.html">La
           aristarka raporto de Albisturo Kvinke</url></vrk>
         </fnt>.
       </ekz>
@@ -233,7 +233,7 @@
         <aut>N. Ku&scirc;nir</aut>: <vrk>Bagateloj</vrk>. <bib>FK</bib>
       </fnt>
       <klr>(vo&ccirc;legu: <ctl>Urbano <em>la</em> ok<em>a</em>
-      kaj Inocento <em>la</em> ok<em>a</em></ctl>)</klr>
+      kaj Inocento <em>la</em> kvar<em>a</em></ctl>)</klr>
    </ekz>
     &mdash; kp
     <ekz>
@@ -245,19 +245,38 @@
     </ekz>
   </rim>
   <trd lng="be">&c_r;&c_y;&c_m;&c_s;&c_k;&c_ib;&c_ja; <ind>&c_l;&c_ib;&c_ch;&c_b;&c_y;</ind></trd>
+  <trd lng="ca"><ind>nombres</ind> romans</trd>
   <trd lng="de">r&ouml;mische <ind>Zahlen</ind></trd>
   <trd lng="en">Roman <ind>numerals</ind></trd>
+  <trd lng="es">N&uacute;meros Romanos</trd>
   <trd lng="fr">chiffres romains</trd>
   <trd lng="fy">Romeinske <ind>sifers</ind></trd>
   <trd lng="hu">r&oacute;mai <ind>sz&aacute;mok</ind></trd>
   <trd lng="nl">Romeinse <ind>cijfers</ind></trd>
+  <trd lng="pl">cyfry <ind>rzymskie</ind></trd> 
   <trd lng="pt">N&uacute;meros Romanos</trd>
+  <trd lng="ro">cifre romane</trd>
   <trd lng="ru">&c_r;&c_i;&c_m;&c_s;&c_k;&c_i;&c_je; &c_c;&c_i;&c_f;&c_r;&c_y;</trd>
 </drv>
 
 </art>
 <!--
 $Log: rom.xml,v $
+Revision 1.25  2020/01/05 11:10:15  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.24  2019/07/07 20:10:14  revo
+Vito Redsky: +trd pl +trd ro +kor rim
+
+Revision 1.23  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
+Revision 1.22  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
+Revision 1.21  2019/03/03 20:10:25  revo
+Marc Rausell: +trd ca
+
 Revision 1.20  2018/11/19 13:10:13  revo
 Sergio Pokrovskij: apartigo de ~aj ciferoj; rim
 
@@ -265,20 +284,5 @@ Revision 1.19  2018/06/11 18:10:16  revo
 Evandro Avellar: trd +pt
 
 Revision 1.18  2018/03/10 13:10:14  revo
-Wolfram Diestel: prilaboris ekz-ojn
-
-Revision 1.17  2017/09/27 12:10:16  revo
-Filippo Botta: traduko italen
-
-Revision 1.16  2016/11/25 21:10:52  revo
-Robin van der Vliet: +trd
-
-Revision 1.15  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.14  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.13  2013/09/23 19:10:39  revo
 -->
 </vortaro>

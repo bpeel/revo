@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sekret.xml,v 1.32 2018/06/13 03:10:20 revo Exp $">
+<art mrk="$Id: sekret.xml,v 1.33 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sekret</rad>/o
@@ -358,7 +358,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="http://www.monato.net/2007/009240.php">Sango
+          <vrk><url ref="&Monato;/2007/009240.php">Sango
           kaj rango</url></vrk>
         </fnt>;
       </ekz>
@@ -506,7 +506,7 @@
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
           <vrk><url
-          ref="http://www.monato.net/2015/011509.php">Esperantistoj
+          ref="&Monato;/2015/011509.php">Esperantistoj
           &ccirc;u kat-enitaj?</url></vrk>
         </fnt>;
       </ekz>
@@ -783,6 +783,9 @@
 </art>
 <!--
 $Log: sekret.xml,v $
+Revision 1.33  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
 Revision 1.32  2018/06/13 03:10:20  revo
 Dusan Juretic: +trd es
 

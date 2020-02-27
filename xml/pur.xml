@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pur.xml,v 1.49 2018/05/30 20:10:22 revo Exp $">
+<art mrk="$Id: pur.xml,v 1.51 2019/06/03 22:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pur</rad>/a <fnt><bib>PV</bib></fnt>
@@ -781,6 +781,45 @@ propret&eacute;)</klr></trd>
   <trd lng="ru">&c_o;&c_t;&c_s;&c_t;&c_a;&c_i;&c_v;&c_a;&c_t;&c_mol;<klr tip="amb"> (&c_zh;&c_i;&c_d;&c_k;&c_o;&c_s;&c_t;&c_mol;)</klr></trd>
 </drv>
 
+<drv mrk="pur.sek0igi">
+  <kap>sek<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pur.sek0igi.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <uzo tip="klr">(pri tola&jcirc;oj)</uzo>
+    <dif>
+      <tld lit="P"/>igi per &hcirc;emia, senakva procedo.
+    </dif>
+  </snc>
+  <trd lng="fr">laver &agrave; sec</trd>
+</drv>
+
+<drv mrk="pur.sek0igejo">
+  <kap>sek<tld/>igejo</kap>
+  <snc mrk="pur.sek0igejo.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Loko a&ubreve; butiko al kiu oni portas tola&jcirc;ojn
+      por ilia sek<tld/>igo:
+      <ekz>
+        kiam Lidia estis en Lima unu el la lokaj bahaanoj,
+        <nom>Glen Sealts</nom>, kiu posedis sek<tld/>igejon, ofertis
+        senpage sek<tld/>igi &scirc;iajn vesta&jcirc;ojn
+        <fnt>
+          <aut>W. Heller, trad. B. Westerhoff</aut>
+          <vrk>Lidia, la Vivo de Lidia Zamenhof, Filino de
+          Esperanto</vrk>
+          <lok>2007</lok>
+        </fnt>.
+    </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>blanchisserie</trd>,
+    <trd>pressing</trd>
+  </trdgrp>
+</drv>
+
 <drv mrk="pur.visx0igi">
   <kap>vi&scirc;<tld/>igi</kap>
   <gra><vspec>tr</vspec></gra>
@@ -809,6 +848,12 @@ propret&eacute;)</klr></trd>
 </art>
 <!--
 $Log: pur.xml,v $
+Revision 1.51  2019/06/03 22:10:16  revo
+Jeromo Vasxe: + 1 trd fr
+
+Revision 1.50  2019/05/27 22:10:20  revo
+Jeromo Vasxe: + sek~igi, + sek~igejo
+
 Revision 1.49  2018/05/30 20:10:22  revo
 Vito Redsky: +trd pl +trd ro
 
@@ -825,11 +870,5 @@ Revision 1.45  2015/06/29 16:40:19  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.44  2015/04/29 20:10:15  revo
-Jeromo Vasxe: + ~isto
-
-Revision 1.43  2015/01/13 12:10:22  revo
-Jeromo Vasxe: kor 1 kap
-
-Revision 1.42  2015/01/10 06:10:59  revo
 -->
 </vortaro>

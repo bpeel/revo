@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kod.xml,v 1.39 2018/08/07 22:10:17 revo Exp $">
+<art mrk="$Id: kod.xml,v 1.42 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>kod</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -28,7 +28,7 @@
           <bib>Monato</bib>
           <aut>Garvan Makaj'</aut>
           <vrk><url
-          ref="http://www.monato.net/2015/011355.php">Komunika&jcirc;o de
+          ref="&Monato;/2015/011355.php">Komunika&jcirc;o de
           Ikaro</url></vrk>
           <lok>2015</lok>
         </fnt>;
@@ -40,7 +40,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vladimir Lemelev</aut>
-          <vrk><url ref="http://www.monato.net/2011/010389.php">Dan&gcirc;era
+          <vrk><url ref="&Monato;/2011/010389.php">Dan&gcirc;era
           malamiko revenas</url></vrk>
           <lok>2011</lok>
         </fnt>;
@@ -56,7 +56,7 @@
         <fnt>
           <bib>Monato</bib>
           <vrk><url
-          ref="http://www.monato.net/2012/010579.php">QR-kodo</url></vrk>
+          ref="&Monato;/2012/010579.php">QR-kodo</url></vrk>
           <lok>2012</lok>
         </fnt>;
       </ekz>
@@ -72,7 +72,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Anna kaj Mati Pentus</aut>
-          <vrk><url ref="http://www.monato.net/2008/009306.php">Lingvo,
+          <vrk><url ref="&Monato;/2008/009306.php">Lingvo,
           Interreto kaj ... alio</url></vrk>
           <lok>2008</lok>
         </fnt>.
@@ -124,7 +124,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lenio Marobin</aut>
-          <vrk><url ref="http://www.monato.net/2013/010921.php">Monujoj,
+          <vrk><url ref="&Monato;/2013/010921.php">Monujoj,
           adia&ubreve;!</url></vrk>
           <lok>2013</lok>
         </fnt>;
@@ -138,7 +138,8 @@
         <trd lng="hu">vonalk&oacute;d</trd>
       </ekz>
       <ekz>
-        <ind>ISBN-<tld/>o</ind> de libro;
+        <ind>International Standard Book Number ISBN-<tld/>o</ind> de
+        libro;
         <trd lng="es">c&oacute;digo ISBN</trd>
         <trd lng="fr">code ISBN</trd>
         <trd lng="hu">ISBN-k&oacute;d</trd>
@@ -163,7 +164,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Alberto Garc&iacute;a Fumero</aut>
-          <vrk><url ref="http://www.monato.net/2015/011562.php">Vifio -
+          <vrk><url ref="&Monato;/2015/011562.php">Vifio -
           ankora&ubreve; defio</url></vrk>
           <lok>2015</lok>
         </fnt>;
@@ -173,7 +174,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://www.monato.net/2006/008954.php">SEPA: la
+          <vrk><url ref="&Monato;/2006/008954.php">SEPA: la
           fina fazo de la enkonduko de e&ubreve;ro</url></vrk>
           <lok>2006</lok>
         </fnt>;
@@ -185,16 +186,12 @@
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
           <vrk><url
-          ref="http://www.monato.net/2010/009999.php">Interlingvo:
+          ref="&Monato;/2010/009999.php">Interlingvo:
           komparo inter du solvoj</url></vrk>
           <lok>2010</lok>
         </fnt>.
       </ekz>
     </dif>
-    <adm>
-      Endas enkonduki la signifon de mallongigo ISBN.
-      <aut>MB</aut>
-    </adm>
     <refgrp tip="vid">
       <ref cel="numer.0o">numero</ref>
     </refgrp>
@@ -233,7 +230,7 @@
           <bib>Monato</bib>
           <aut>Franck Arnaud</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/007797.html">Mikrosofto
+          ref="https://www.monato.be/2004/007797.html">Mikrosofto
           ektimas Linukson</url></vrk>
           <lok>2004</lok>
         </fnt>.
@@ -247,7 +244,7 @@
     <trd lng="es">c&oacute;digo fuente<klr tip="ind"> (programa)</klr></trd>
     <trd lng="fr">code<klr tip="ind"> (programme)</klr></trd>
     <trd lng="nl">code</trd>
-    <trd lng="pl">kod<klr>mprogramu</klr></trd>
+    <trd lng="pl">kod <klr>programu</klr></trd>
     <trd lng="ru">&c_k;&c_o;&c_d;</trd>
   </snc>
 
@@ -294,7 +291,7 @@
           <bib>Monato</bib>
           <aut>Jorge Montanari</aut>
           <vrk><url
-          ref="http://www.monato.net/2013/011064.php">Telomero: &ccirc;u
+          ref="&Monato;/2013/011064.php">Telomero: &ccirc;u
           rimedo kontra&ubreve; kancero?</url></vrk>
           <lok>2013</lok>
         </fnt>;
@@ -308,7 +305,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Pa&ubreve;l Peeraerts</aut>
-          <vrk><url ref="http://www.monato.net/2010/010009.php">Parto 1:
+          <vrk><url ref="&Monato;/2010/010009.php">Parto 1:
           Survoje al iu libro-normo</url></vrk>
           <lok>2010</lok>
         </fnt>.
@@ -408,7 +405,7 @@
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2003/008051.html">Bruselo-Babelo:
+          ref="https://www.monato.be/2003/008051.html">Bruselo-Babelo:
           lingvo-kulturo en E&ubreve;ropa Unio</url></vrk>
           <lok>2003</lok>
         </fnt>.
@@ -455,7 +452,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="http://www.monato.net/2013/010876.php">Elefanta
+          <vrk><url ref="&Monato;/2013/010876.php">Elefanta
           komunikado malkodita</url></vrk>
           <lok>2013</lok>
         </fnt>.
@@ -475,7 +472,7 @@
     </trdgrp>
     <trd lng="nl">decoderen</trd>
     <trdgrp lng="pl">
-      <trd>odkodowaywa&cacute;</trd>,
+      <trd>odkodowywa&cacute;</trd>,
       <trd>rozkodowywa&cacute;</trd>
     </trdgrp>
     <trdgrp lng="ru">
@@ -629,7 +626,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Henry Broadbent</aut>
-          <vrk><url ref="http://www.monato.net/2014/011364.php">La unua
+          <vrk><url ref="&Monato;/2014/011364.php">La unua
           pafo okazis en A&ubreve;stralio</url></vrk>
           <lok>2014</lok>
         </fnt>.
@@ -751,8 +748,18 @@
 </art>
 <!--
 $Log: kod.xml,v $
+Revision 1.42  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
+Revision 1.41  2019/06/30 07:42:48  revo
+adaptis URL de Monato
+
+Revision 1.40  2019/05/06 22:10:20  revo
+Vito Redsky: kor trd pl
+
 Revision 1.39  2018/08/07 22:10:17  revo
-Michel Cantigneaux: aperas unue en PV (1934) k PIV1 (1970), oficialaj en 9OA (2007)
+Michel Cantigneaux: aperas unue en PV (1934) k PIV1 (1970), oficialaj en
+9OA (2007)
 
 Revision 1.38  2017/09/15 07:10:19  revo
 Damien Brucker: -eraro cxe cel en ref
@@ -769,9 +776,5 @@ aldono de trd cs per skripto de M. von Laer
 Revision 1.34  2015/06/29 16:33:17  revo
 aldono de trd sk per skripto de M. von Laer
 
-Revision 1.33  2015/02/28 21:10:14  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.32  2009/11/08 17:30:48  revo
 -->
 </vortaro>

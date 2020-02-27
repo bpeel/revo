@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tonus.xml,v 1.4 2015/07/04 08:37:45 revo Exp $">
+<art mrk="$Id: tonus.xml,v 1.5 2019/10/17 20:10:28 revo Exp $">
 <kap>
   <rad>tonus</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -16,25 +16,27 @@
         homaj sanstatoj esprimi&gcirc;as per momenta muskola <tld/>o
         <fnt>
           <aut>Internacia Naturkuraca Asocio</aut>
-          <vrk><url 
-          ref="http://www.esp-ina.com/revu_april2005.htm">Revuoj</url></vrk>,
+          <vrk><url ref="http://www.esp-ina.com/revu_april2005.htm">Revuoj</url></vrk>,
           <lok>2005-04</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de">Tonus</trd>
   </snc>
   <snc mrk="tonus.0o.KOMUNE">
     <uzo tip="stl">KOMUNE</uzo>
-    <ref tip="dif" cel="vigl.0o.KOMUNE">viglo</ref>
+    <dif>
+      <ref tip="dif" cel="vigl.0o.KOMUNE">Viglo</ref>:
       <ekz>
         altranguloj malaprobas melankoliajn kantojn de junularo, 
         senbaze opiniante, ke ili malaltigas jam sen tio malaltan 
         <tld/>on de vivo  
-        <fnt><aut>Ivan Efremov, trad. Jurij Finkel</aut>, <vrk><url 
-        ref="http://www.esperanto.mv.ru/Efremov">Horo de
+        <fnt><aut>Ivan Efremov, trad. Jurij Finkel</aut>, <vrk><url ref="http://www.esperanto.mv.ru/Efremov">Horo de
         Bovo</url></vrk>,
         <lok>&ccirc;apitro 10a</lok></fnt>.
       </ekz>
+    </dif>
+    
   </snc>
   <trdgrp lng="ca">
     <trd>to</trd>,
@@ -51,6 +53,9 @@
 
 <!--
 $Log: tonus.xml,v $
+Revision 1.5  2019/10/17 20:10:28  revo
+Wolfram Diestel: germ trd
+
 Revision 1.4  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 

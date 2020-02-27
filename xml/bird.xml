@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bird.xml,v 1.56 2017/05/31 07:10:13 revo Exp $">
+<art mrk="$Id: bird.xml,v 1.58 2019/11/04 21:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>bird</rad>/o <fnt><bib>PV</bib></fnt>
+  <rad>bird</rad>/o
 </kap>
 <drv mrk="bird.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -14,8 +14,104 @@
     <dif>
       Iu el la klaso <ref tip="malprt" cel="bird.0oj"><tld/>oj</ref>:
       <ekz>
+        tiu &ccirc;i &gcirc;ardeno estas amata loko de <tld/>oj
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj <tld/>oj kantis
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ido &dash; nematura <tld/>o
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 36</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multaj <tld/>oj flugas en la a&ubreve;tuno en pli varmajn landojn
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 32</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ref tip="ekz" cel="kolomb.0o">kolombo</ref> estas <tld/>o
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ref tip="ekz" cel="pig.0o">pigo</ref> a&ubreve; ia alia <tld/>o
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tero sin trovas en la okcidento, la transflugo de <tld/>oj klare parolas pri la
+        proksimeco
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li lo&gcirc;as tie, kien e&ccirc; <tld/>o ne flugas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tute libera, kiel <tld/>o aera
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la homo donis nomojn <klr>[&#8230;]</klr> al la <tld/>oj de la &ccirc;ielo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 2:20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        traflugis super li noktaj <tld/>oj kaj grandaj vespertoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili enportis kun si la simplan kampan <tld/>on, <klr>[&#8230;]</klr>
+        <ref tip="ekz" cel="alauxd.0o">ala&ubreve;do</ref>n
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
         &gcirc;i estas ankora&ubreve; <tld/>o sur la tegmento
-        <klr>(neefektivigita revo)</klr><fnt><bib>PrV</bib></fnt>.
+        <klr>(neefektivigita <ref cel="rev.0o">revo</ref>)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <ind>bela birdo</ind>
+        <klr>(<ref cel="dand.0o">dando</ref>)</klr><fnt><bib>PrV</bib></fnt>.
+        <trd lng="es">p&aacute;jaro</trd>
+        <trd lng="fr">gandin</trd>
+        <trd lng="hu">piperk&odblac;c</trd>
+        <trdgrp lng="pl">
+          <trd>ptak</trd>,
+          <trd>ptaszek</trd>,
+          <trd>gogu&sacute;</trd>
+        </trdgrp>
       </ekz>
     </dif>
     <trd lng="bg">&c_p;&c_t;&c_i;&c_c;&c_a;</trd>
@@ -47,24 +143,6 @@
     <trd lng="ro">pas&abreve;re</trd>
     <trd lng="tr">ku&scedil;</trd>
   </snc>
-  <snc mrk="bird.0o.FIG">
-    <uzo tip="stl">FIG</uzo>
-    <dif>
-      Ridinde afekta homo:
-      <ekz>
-        bela birdo
-        <klr>(dando)</klr><fnt><bib>PrV</bib></fnt>.
-      </ekz>
-    </dif>
-    <trd lng="es">p&aacute;jaro</trd>
-    <trd lng="fr">gandin</trd>
-    <trd lng="hu">piperk&odblac;c</trd>
-    <trdgrp lng="pl">
-      <trd>ptak</trd>,
-      <trd>ptaszek</trd>,
-      <trd>gogu&sacute;</trd>
-    </trdgrp>
-  </snc>
   <trd lng="be">&c_p;&c_t;&c_u;&c_sh;&c_k;&c_a;</trd>
   <trd lng="cs">pt&aacute;k</trd>
   <trd lng="de">Vogel</trd>
@@ -90,7 +168,16 @@
       lst="voko:zoologiaj_klasoj">klaso</ref> de <ref tip="malprt"
       cel="verteb.0uloj">vertebruloj</ref>
       (<trd lng="la">Aves</trd>), solaj plu vivantaj
-      <ref tip="malprt" cel="dinosa.0oj">dinosa&ubreve;roj</ref>.
+      <ref tip="malprt" cel="dinosa.0oj">dinosa&ubreve;roj</ref>:
+      <ekz>
+        <tld lit="B"/>oj estas klaso de vertebruloj kun &ccirc;irka&ubreve; 9 &gcirc;is 10 mil vivantaj
+        specioj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=16060"
+              >Birdoj</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_t;&c_u;&c_sh;&c_k;&c_ib; 
@@ -108,7 +195,7 @@
 </drv>
 
 <drv mrk="bird.korto0o">
-  <kap>korto<tld/>o</kap>
+  <kap>korto<tld/>o, <var><kap>kort<tld/>o</kap></var></kap>
   <snc mrk="bird.korto0o.AGR">
     <uzo tip="fak">AGR</uzo>
     <dif>
@@ -120,7 +207,26 @@
         <ref tip="sub" cel="anas.0o">anaso</ref>,
         <ref tip="sub" cel="kok.0o">koko</ref> kaj 
         <ref tip="sub" cel="meleag.0o">meleagro</ref> estas
-        korto<tld/>oj.
+        korto<tld/>oj;
+      </ekz>
+      <ekz>
+        sklavinoj <klr>[&#8230;]</klr> komencis disporti kukojn, rostitajn kortbirdojn kaj
+        &ccirc;asa&jcirc;on
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la viruson kunportas la migrantaj birdoj, kaj ili infektas bredejajn
+        korto<tld/>ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Thierry Tailhades</aut>
+          <vrk><url ref="https://www.monato.be/2006/008985.php"
+              >Gurdado de onidiroj</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -147,14 +253,25 @@
   <uzo tip="stl">RAR</uzo>
   <snc mrk="bird.musx0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
-    <ref tip="dif" cel="kolibr.0o.ZOO">kolibro</ref>
-    <ekz>
-      Nel estis ravita precipe pro la vido de paradizaj
-      mu&scirc;<tld/>etoj
-      <fnt><aut>H. Sienkiewicz, trad. M. Sygnarski</aut>, <vrk><url 
-      ref="http://esperanto.pl/page.php?tid=200000">Tra dezerto kaj 
-      praarbaro</url></vrk>, <lok>1978</lok></fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="kolibr.0o.ZOO">Kolibro</ref>:
+      <ekz>
+        <nom>Nel</nom> estis ravita precipe pro la vido de paradizaj
+        mu&scirc;<tld/>etoj
+        <fnt><aut>H. Sienkiewicz, trad. M. Sygnarski</aut>, <vrk><url 
+        ref="http://esperanto.pl/page.php?tid=200000">Tra dezerto kaj 
+        praarbaro</url></vrk>, <lok>1978</lok></fnt>;
+      </ekz>
+      <ekz>
+        la mu&scirc;<tld/>o sidis sur la flugiloj de la aglo, kaj tiamaniere flugis pii alten
+        ol &ccirc;iuj
+        <fnt>
+          <aut>Giovanni Balconi</aut>
+          <vrk><url ref="http://www.ueci.it/grupoj/milano/Homilioj/MM010421.doc"
+              >2a Paska Diman&ccirc;o</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_l;&c_ib;&c_b;&c_r;&c_y;</trd>
   <trd lng="bg">&c_k;&c_o;&c_l;&c_i;&c_b;&c_r;&c_i;</trd>
@@ -184,12 +301,20 @@
       <ekz>
         <ref tip="sub" cel="anas.0o">anaso</ref>, 
         <ref tip="sub" cel="cign.0o">cigno</ref>, 
-        <ref tip="sub" cel="mev.0o">mevo</ref> estas na&gcirc;o<tld/>oj.
+        <ref tip="sub" cel="mev.0o">mevo</ref> estas na&gcirc;o<tld/>oj;
+      </ekz>
+      <ekz>
+        mara na&gcirc;<tld/>o kun blanka plumaro
+        <fnt>
+          <aut>S. Grenkamp</aut>
+          <vrk><url ref="https://arkivo.esperanto-france.org/divers/grenkamp/ove_m.htm"
+              >Oficiala Vortaro de Esperanto</url></vrk>
+          <lok>mevo</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_v;&c_a;&c_d;&c_a;&c_p;&c_l;&c_a;&c_w;&c_n;&c_a;&c_ja;
-  
+  <trd lng="be">&c_v;&c_a;&c_d;&c_a;&c_p;&c_l;&c_a;&c_w;&c_n;&c_a;&c_ja;  
 &c_p;&c_t;&c_u;&c_sh;&c_k;&c_a;</trd>
   <trd lng="br">evn palvezek</trd>
   <trd lng="de">Schwimmvogel</trd>
@@ -199,7 +324,6 @@
   <trd lng="nl">zwemvogel</trd>
   <trd 
 lng="ru">&c_v;&c_o;&c_d;&c_o;&c_p;&c_l;&c_a;&c_v;&c_a;&c_ju;&c_shch;&c_a;&c_ja;
-
 &c_p;&c_t;&c_i;&c_c;&c_a;</trd>
   <trd lng="tr">su ku&scedil;u</trd>
 </drv>
@@ -234,6 +358,19 @@ lng="ru">&c_v;&c_o;&c_d;&c_o;&c_p;&c_l;&c_a;&c_v;&c_a;&c_ju;&c_shch;&c_a;&c_ja;
     </dif>
     <ref tip="sin" cel="paradize.0o">paradizeo</ref>
   </snc>
+  <snc mrk="bird.paradiz0o.fenikso">
+    <dif>
+      <ref tip="dif" cel="feniks.0o.MIT">Fenikso</ref>:
+      <ekz>
+        ho vi paradiza birdo, &ccirc;iucentjare renovigata, en flamoj naskata kaj en flamoj
+        mortanta
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Birdo Fenikso</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
   <trdgrp lng="fr"><trd>paradisier</trd><trd>oiseau de
   paradis</trd></trdgrp>
 </drv>
@@ -247,9 +384,47 @@ lng="ru">&c_v;&c_o;&c_d;&c_o;&c_p;&c_l;&c_a;&c_v;&c_a;&c_ju;&c_shch;&c_a;&c_ja;
       beko kaj ungegoj, tage &ccirc;asantaj el la ordoj 
       <trd lng="la">Accipitriformes</trd> kaj <trd lng="la">
       Falconiformes</trd>, foje anka&ubreve; la nokte &ccirc;asantaj el
-      la 
-ordo <trd
-      lng="la">Strigiformes</trd>.
+      la ordo <trd lng="la">Strigiformes</trd>:
+      <ekz>
+        la rabo<tld/>oj mallevi&gcirc;is sur la kadavrojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 15:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rabo<tld/>o, kiun &ccirc;irka&ubreve;e atakis aliaj rabo<tld/>oj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 12:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la rabo<tld/>oj de la dezerto persekutis la kolombojn kaj monedojn
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rabo<tld/>oj elektas la altan konstrua&jcirc;on kiel gvatejon kaj man&gcirc;ejon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007052.html"
+              >Verda nature, science, socie</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        turfalko estas la plej ofta rabo<tld/>o en A&ubreve;strio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter, Renate, Irene, Stefan Klag</aut>
+          <vrk><url ref="https://www.monato.be/2007/009167.php"
+              >Birdo de la jaro</url></vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd 
@@ -303,7 +478,7 @@ tip="amb">
   <snc mrk="bird.vad0oj.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      <tld lit="B"/>oj kun plejofte 
+      <tld lit="B"/>oj kun plej ofte 
       longaj kruroj kaj bekoj, kiuj ofte
       vadas en akvo, <ref tip="lst" cel="ord.0o.BIO"
       lst="voko:zoologiaj_ordoj">ordo</ref> 
@@ -350,6 +525,12 @@ tip="amb">
 <!--
 
 $Log: bird.xml,v $
+Revision 1.58  2019/11/04 21:10:14  revo
+Wolfram Diestel: ekz-oj
+
+Revision 1.57  2019/11/04 07:10:13  revo
+Wolfram Diestel: ~O: ekz-oj, snc "dando" kiel ekz (tro malofta uzo por aparta snc)
+
 Revision 1.56  2017/05/31 07:10:13  revo
 Ludoviko Francisco: +ref
 
@@ -366,12 +547,6 @@ Revision 1.52  2015/06/29 16:29:35  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.51  2015/06/26 22:10:26  revo
-Darcy Shen: +trd zh
-
-Revision 1.50  2014/05/30 08:10:35  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.49  2013/10/26 19:10:15  revo
 -->
 
 </vortaro>

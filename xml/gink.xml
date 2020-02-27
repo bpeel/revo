@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: gink.xml,v 1.3 2018/10/08 20:10:24 revo Exp $">
+  <art mrk="$Id: gink.xml,v 1.4 2019/06/30 18:21:01 revo Exp $">
     <kap>
       <rad>gink</rad>/o,
       <var><kap>ginkg/o</kap></var>
@@ -23,7 +23,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jomo Ipfelkofer</aut>
-          <vrk><url ref="http://www.monato.net/2008/009438.php">Fosilioj en suda Germanio</url></vrk>
+          <vrk><url ref="&Monato;/2008/009438.php">Fosilioj en suda Germanio</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -55,6 +55,9 @@
 
 <!--
 $Log: gink.xml,v $
+Revision 1.4  2019/06/30 18:21:01  revo
+adaptis URL de Monato
+
 Revision 1.3  2018/10/08 20:10:24  revo
 Wolfram Diestel: +bld
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kaze.xml,v 1.26 2018/11/04 12:10:21 revo Exp $">
+<art mrk="$Id: kaze.xml,v 1.27 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kaze</rad>/o <fnt><bib>PV</bib></fnt>
@@ -27,7 +27,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="http://www.monato.net/2013/011027.php">Oro blanka</url></vrk>
+          <vrk><url ref="&Monato;/2013/011027.php">Oro blanka</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -157,6 +157,9 @@
 </art>
 <!--
 $Log: kaze.xml,v $
+Revision 1.27  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.26  2018/11/04 12:10:21  revo
 Wolfram Diestel: +ekz, kor. ref tofu
 

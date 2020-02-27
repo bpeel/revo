@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pas.xml,v 1.32 2018/02/11 15:10:13 revo Exp $">
+<art mrk="$Id: pas.xml,v 1.34 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pas</rad>/i
@@ -185,16 +185,8 @@
         <fnt>
           <bib>BdV</bib>
         </fnt>;
-      </ekz><ekz>
-        <tld/>inta doloro for el memoro
-        <fnt><bib>PrV</bib></fnt>;
-      </ekz><ekz>
-        ser&ccirc;i la tagon <tld/>intan
-        <klr>(netrovebla&jcirc;on)</klr>;
-        <fnt>
-          <bib>PrV</bib>
-        </fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         le&gcirc;o <ind><tld/>inta&jcirc;o</ind>n ne tu&scirc;as;
         <trdgrp lng="hu">
           <trd>m&uacute;lbeli esem&eacute;ny</trd>,
@@ -526,7 +518,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Mireille Grosjean</aut>
-          <vrk><url ref="http://www.monato.net/2015/011394.php">Kultura mozaiko</url></vrk>
+          <vrk><url ref="&Monato;/2015/011394.php">Kultura mozaiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -534,7 +526,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>last</aut>
-          <vrk><url ref="http://www.monato.net/2005/008679.php">Karto al la estonteco</url></vrk>
+          <vrk><url ref="&Monato;/2005/008679.php">Karto al la estonteco</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -542,7 +534,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="http://www.monato.net/2010/010055.php">Placo Skandal-erbeg</url></vrk>
+          <vrk><url ref="&Monato;/2010/010055.php">Placo Skandal-erbeg</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -550,7 +542,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="http://www.monato.net/2012/010617.php">Brusela fasado</url></vrk>
+          <vrk><url ref="&Monato;/2012/010617.php">Brusela fasado</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -740,6 +732,28 @@
     <trd>&c_p;&c_r;&c_o;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
   </trdgrp>
   <trd lng="sk">str&aacute;vi&tcaron; &ccaron;as</trd>
+</drv>
+
+<drv mrk="pas.0inta">
+  <kap><tld/>inta</kap>
+  <snc mrk="pas.0inta.TEMP">
+    <dif>
+      Kiu jam <tld/>is, estis en anta&ubreve;a, ofte
+      <ref tip="ant" cel="proksi.0a.kiam">proksima<sncref/></ref>
+      tempo, kontraste al io
+      <ref tip="ant" cel="ven.0onta.TEMP">venonta</ref>:
+      <ekz>
+        <tld/>inta doloro
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        ser&ccirc;i la tagon <tld/>intan
+        <klr>(netrovebla&jcirc;on)</klr>
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">pass&eacute;<klr> (adj.)</klr></trd>
+  </snc>
 </drv>
 
 <drv mrk="pas.for0i">
@@ -1069,7 +1083,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Olivier Buisson</aut>
-          <vrk><url ref="http://www.monato.net/2005/008719.php">Esperanta korespondo inter du lingvoj</url></vrk>
+          <vrk><url ref="&Monato;/2005/008719.php">Esperanta korespondo inter du lingvoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -1096,7 +1110,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="http://www.monato.net/2013/011121.php">Urbo kaj eklezio: kulturkonflikto</url></vrk>
+          <vrk><url ref="&Monato;/2013/011121.php">Urbo kaj eklezio: kulturkonflikto</url></vrk>
         </fnt>;
       </ekz><ekz>
         <uzo tip="stl">FIG</uzo>
@@ -1166,7 +1180,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="http://www.monato.net/2012/010612.php">Ludema Italio</url></vrk>
+          <vrk><url ref="&Monato;/2012/010612.php">Ludema Italio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -1186,6 +1200,12 @@
 </art>
 <!--
 $Log: pas.xml,v $
+Revision 1.34  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
+Revision 1.33  2019/02/22 17:10:16  revo
+Jeromo Vasxe: + ~inta
+
 Revision 1.32  2018/02/11 15:10:13  revo
 Wolfram Diestel: prilaboris ekz-ojn (dua parto)
 
@@ -1205,8 +1225,5 @@ Revision 1.27  2015/07/04 08:37:41  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.26  2015/06/29 16:40:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.25  2015/02/04 18:10:15  revo
 -->
 </vortaro>

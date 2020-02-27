@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxel.xml,v 1.51 2017/02/22 19:10:15 revo Exp $">
+<art mrk="$Id: cxel.xml,v 1.52 2019/10/24 08:10:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;el</rad>/o <fnt><bib>PV</bib></fnt>
@@ -336,7 +336,7 @@
       Matura, fekundigebla inseksa
       <ref tip="super" cel="cxel.0o.BIO">&ccirc;elo<sncref/></ref>;
       <ref tip="sin" cel="ovul.0o.FIZL">ovulo</ref>;
-      <ref tip="sin" cel="ovol.0o.FIZL">ovolo</ref>.
+      <ref tip="sin" cel="ovul.0o.FIZL">ovolo</ref>.
     </dif>
     <subsnc mrk="cxel.ovo0o.ZOO">
       <uzo tip="fak">ZOO</uzo>
@@ -660,6 +660,9 @@
 </art>
 <!--
 $Log: cxel.xml,v $
+Revision 1.52  2019/10/24 08:10:19  revo
+Damien Brucker: -eraro cxe cel en ref
+
 Revision 1.51  2017/02/22 19:10:15  revo
 Jeromo Vasxe: diverasfunkciajn -> diversafunkciajn
 
@@ -678,9 +681,6 @@ Alain Gerard: + melano~o +trd
 
 Revision 1.46  2014/02/14 21:10:15  revo
 Jeromo Vasxe: + sun~o
-
-Revision 1.45  2013/10/11 19:10:10  revo
-Wolfram Diestel: kor. ref-tip
 
 -->
 </vortaro>

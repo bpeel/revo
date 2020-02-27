@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gvatemal.xml,v 1.14 2018/08/25 12:10:13 revo Exp $">
+<art mrk="$Id: gvatemal.xml,v 1.16 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>Gvatemal</rad>/o <fnt><bib>PIV1</bib></fnt>
@@ -35,7 +35,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Juan J. Schmitter-soto</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008272.html">&Ccirc;u esperantistoj kapablus altnivele diskuti?</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008272.html">&Ccirc;u esperantistoj kapablus altnivele diskuti?</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -45,7 +45,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Andy Hern&aacute;ndez Mart&iacute;nez</aut>
-          <vrk><url ref="http://www.monato.net/2006/008902.php">Sova&gcirc;a kapitalismo</url></vrk>
+          <vrk><url ref="&Monato;/2006/008902.php">Sova&gcirc;a kapitalismo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -107,6 +107,12 @@
 
 <!--
 $Log: gvatemal.xml,v $
+Revision 1.16  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
+Revision 1.15  2019/06/30 07:41:50  revo
+adaptis URL de Monato
+
 Revision 1.14  2018/08/25 12:10:13  revo
 Wolfram Diestel: +ekz-oj, germ trd-oj
 

@@ -2,19 +2,28 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: antikrez.xml,v 1.12 2019/01/27 13:10:14 revo Exp $">
-<kap><rad>antikrez</rad>/o</kap>
+<art mrk="$Id: antikrez.xml,v 1.15 2019/03/23 14:10:14 revo Exp $">
+<kap><rad>antikrez</rad>/o <fnt><bib>IKEV</bib></fnt></kap> 
 <drv mrk="antikrez.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">EKON</uzo>
-  <fnt><bib>IKEV</bib></fnt>
   <snc>
+  <uzo tip="fak">EKON</uzo>
     <dif>
       Hipoteka <ref tip="super" cel="kontra3.0o">kontrakto</ref>
       la&ubreve; kiu la hipotekkreditoro prenas en
       posedon la hipotekitan proprieta&jcirc;on, &gcirc;uante &gcirc;iajn fruktojn
-      a&ubreve; profitojn anstata&ubreve; renton.
+      a&ubreve; profitojn anstata&ubreve; renton:
+      <ekz>
+        en Babilonio dum la regtempo de Hamurabo la interezo por prunto
+        de greno estis triono kaj de ar&gcirc;ento kvinono, kiun oni povis
+        pagi
+        per sklava laboro kadre de <tld/>o.
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="uz.frukt0o">fruktuzo</ref>,
+      <ref cel="garant.0ajxo">garantia&jcirc;o</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="cs">
     <trd>antichresis</trd>,
@@ -33,6 +42,10 @@
   </trdgrp>
   <trd lng="es">anticresis</trd>
   <trd lng="fa">&a_r;&a_h;&a_n; &a_t;&a_S;&a_r;&a_shadda;&a_f;</trd>
+  <trdgrp lng="fr">
+    <trd>antichr&egrave;se</trd>,
+    <trd>gage immobilier</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>haszn&aacute;lati <ind>z&aacute;log</ind></trd>,
     <trd>haszon&eacute;lvezeti <ind>z&aacute;log</ind></trd>
@@ -53,6 +66,15 @@
 </art>
 <!--
 $Log: antikrez.xml,v $
+Revision 1.15  2019/03/23 14:10:14  revo
+Damien Brucker: +trd fr
+
+Revision 1.14  2019/03/23 08:10:14  revo
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.13  2019/03/22 13:10:14  revo
+Wolfram Diestel: +ekz, ref-oj
+
 Revision 1.12  2019/01/27 13:10:14  revo
 Wolfram Diestel: +ref
 
@@ -66,14 +88,5 @@ Revision 1.9  2011/01/31 18:10:08  revo
 Jozefo Horvath: kor. trd hu
 
 Revision 1.8  2010/04/09 16:32:28  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.7  2005/05/26 16:31:21  revo
-Yury Finkel: +trd ru
-
-Revision 1.6  2005/02/15 17:31:23  revo
-Paul Peeraerts: ald trd nl sv pt
-
-Revision 1.5 2002/10/24 16:32:33 revo
 -->
 </vortaro>

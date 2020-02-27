@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: konstr.xml,v 1.42 2018/08/24 15:15:13 revo Exp $">
+<art mrk="$Id: konstr.xml,v 1.45 2019/07/18 22:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konstru</rad>/i <fnt><bib>PV</bib></fnt>
@@ -133,6 +133,7 @@ b&iacute;r&aacute;l&oacute;ra tal&aacute;l</trd>
       <trd>konstruowa&cacute;</trd>,
       <trd>budowa&cacute;</trd>
     </trdgrp>
+    <trd lng="ro">construi</trd>
     <adm>
       La difino &scirc;ajnas tro strikta: ~i kanalon, ma&scirc;inon k.s.
       <aut>WD</aut>
@@ -293,6 +294,10 @@ b&iacute;r&aacute;l&oacute;ra tal&aacute;l</trd>
   </trdgrp>
   <trd lng="it">costruire</trd>
   <trd lng="nl">bouwen</trd>
+  <trdgrp lng="pl">
+    <trd>konstruowa&cacute;</trd>,
+    <trd>budowa&cacute;</trd>
+  </trdgrp>  
   <trdgrp lng="pt">
     <trd>construir</trd>,
     <trd>edificar</trd>,
@@ -300,6 +305,7 @@ b&iacute;r&aacute;l&oacute;ra tal&aacute;l</trd>
     <trd>arquitetar</trd>,
     <trd>fabricar</trd>
   </trdgrp>
+  <trd lng="ro">construi</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_mol;</trd>
@@ -344,8 +350,7 @@ b&iacute;r&aacute;l&oacute;ra tal&aacute;l</trd>
     </trdgrp>
     <trd lng="hu">&eacute;p&iacute;t&eacute;s</trd>
     <trd lng="nl">constructie</trd>
-    <trd lng="ru">
-&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>
+    <trd lng="ru">&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>
   </snc>
   <snc mrk="konstr.0o.strukturo">
     <dif>
@@ -366,7 +371,7 @@ b&iacute;r&aacute;l&oacute;ra tal&aacute;l</trd>
         <tld/>o de la korpo
         <fnt>
           <bib>NT</bib>
-          <lok>Efesanoj 4:12</lok>
+          <lok>&Efe; 4:12</lok>
         </fnt>,
         de la koro
         <fnt>
@@ -409,6 +414,7 @@ b&iacute;r&aacute;l&oacute;ra tal&aacute;l</trd>
       <trd>konstrukcja</trd>,
       <trd>budowa</trd>
     </trdgrp>
+    <trd lng="ro">structur&abreve;</trd>
     <trdgrp lng="ru">
       <trd>&c_k;&c_o;&c_n;&c_s;&c_t;&c_r;&c_u;&c_k;&c_c;&c_i;&c_ja;</trd>,
       <trd>&c_p;&c_o;&c_s;&c_t;&c_r;&c_o;&c_je;&c_n;&c_i;&c_je;</trd>
@@ -465,6 +471,7 @@ b&iacute;r&aacute;l&oacute;ra tal&aacute;l</trd>
       <trd>konstrukcja</trd>,
       <trd>budowla</trd>
     </trdgrp>
+    <trd lng="ro">construc&#539;ie</trd>
     <trdgrp lng="ru">
       <trd>&c_z;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>,
       <trd>&c_p;&c_o;&c_s;&c_t;&c_r;&c_o;&c_j;&c_k;&c_a;</trd>
@@ -523,7 +530,7 @@ b&iacute;r&aacute;l&oacute;ra tal&aacute;l</trd>
         kvardek kvincent pa&scirc;ojn longa kaj kvincent lar&gcirc;a
         <fnt>
           <bib>Far3</bib>
-          <lok>&Ccirc;apitro VIII</lok>
+          <lok>&ccirc;apitro 8a</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -555,6 +562,10 @@ b&iacute;r&aacute;l&oacute;ra tal&aacute;l</trd>
     <trd>budowla</trd>,
     <trd>konstrukcja</trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>cl&abreve;dire</trd>,
+    <trd>construc&tcedil;ie</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_z;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_p;&c_o;&c_s;&c_t;&c_r;&c_o;&c_j;&c_k;&c_a;</trd>,
@@ -574,17 +585,15 @@ b&iacute;r&aacute;l&oacute;ra tal&aacute;l</trd>
       Loko, en kiu oni estas <tld/>anta domojn, grandajn
       ma&scirc;inojn...:
       <ekz>
-        kiam onklino &Scirc;i informi&gcirc;is ke Hiukin, &scirc;ia 
+        kiam onklino &Scirc;i informi&gcirc;is ke <nom>Hiukin</nom>, &scirc;ia 
         bofilino registris sin por labori sur la <tld/>ejo, &scirc;i 
         estis tiel konsternita, ke dum la tuta posttagmezo &scirc;i 
         portante la 18-monatan nepeton en la brakoj, jen eksidis, 
         jen ekstaris sen momenta kvieto
         <fnt>
           <aut>Sa&ubreve; J.</aut>,
-          <vrk>
-<url
-ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/epc/epc6005/
-nepetou.html">
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/epc/epc6005/nepetou.html">
           La nomo de la nepeto</url></vrk>,
           <lok>El popola &Ccirc;inio, 1960-05, p. 207a-211a</lok>
         </fnt>.
@@ -596,6 +605,11 @@ nepetou.html">
   <trd lng="de">Baustelle</trd>
   <trd lng="fr">chantier</trd>
   <trd lng="it">cantiere</trd>
+  <trdgrp lng="pl">
+    <trd>budowa</trd>,
+    <trd>plac <ind>budowy</ind></trd>
+  </trdgrp> 
+  <trd lng="ro">construc&#539;ii</trd>
   <trd lng="sk">stavenisko</trd>
 </drv>
 
@@ -608,7 +622,7 @@ nepetou.html">
       <ekz>
         li tamen volis lasi mortigi la <tld/>iston, kiu <tld/>is por li 
         lian kastelon kun la turo kaj la dikaj muroj
-        <fnt><bib>Fab4</bib>, <lok>Historio el la dunoj</lok></fnt>.
+        <fnt><bib>Fab4</bib> <lok>Historio el la dunoj</lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -636,6 +650,7 @@ nepetou.html">
     <trd>budowniczy</trd>,
     <trd>konstruktor</trd>
   </trdgrp>
+  <trd lng="ro">arhitect</trd>
   <trdgrp lng="sk">
     <trd>stavb&aacute;r</trd>,
     <trd>stavite&lcaron;</trd>
@@ -668,6 +683,7 @@ nepetou.html">
   <trd lng="de">anbauen</trd>
   <trd lng="fr">adjoindre &agrave; une construction</trd>
   <trd lng="pl">dobudowa&cacute;</trd>
+  <trd lng="ro">construi</trd>
   <trd lng="sk">pristavi&tcaron;</trd>
 </drv>
 
@@ -693,7 +709,7 @@ nepetou.html">
         <fnt>
           <bib>Monato</bib>
           <aut>Jack Warren</aut>
-          <vrk><url ref="http://www.monato.net/2015/011451.php">James
+          <vrk><url ref="&Monato;/2015/011451.php">James
           Cook estis anglo</url></vrk>
         </fnt>;
       </ekz>
@@ -703,8 +719,7 @@ nepetou.html">
         <fnt>
           <bib>Monato</bib>
           <aut>Cyreen Knockaert</aut>
-          <vrk><url
-          ref="http://www.monato.net/2013/010992.php">Nomenklaturo: &ccirc;u
+          <vrk><url ref="&Monato;/2013/010992.php">Nomenklaturo: &ccirc;u
           kroma esperanta finvenko?</url></vrk>
         </fnt>.
       </ekz>
@@ -745,6 +760,12 @@ nepetou.html">
     <trd>burzy&cacute;</trd>,
     <trd>demontowa&cacute;</trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>dezasambla&#539;i</trd>,
+    <trd>demola&#539;i</trd>,
+    <trd>detonatori</trd>,
+    <trd>desface</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_z;&c_r;&c_u;&c_sh;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_o;&c_b;&c_r;&c_a;&c_t;&c_mol;</trd>
@@ -762,7 +783,7 @@ nepetou.html">
         pri<tld/>i monton
         <fnt>
           <bib>MT</bib>
-          <lok>I. Re&gcirc;oj 16:24</lok>
+          <lok>&Re1; 16:24</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -786,14 +807,16 @@ nepetou.html">
     <trd>obudowa&cacute;</trd>,
     <trd>zabudowa&cacute;</trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>zidi</trd>,
+    <trd>cl&abreve;di</trd>
+  </trdgrp>
   <trd lng="ru">&c_z;&c_a;&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_mol;</trd>
 </drv>
 
 <drv mrk="konstr.re0i">
-  <kap>
-    re<tld/>i
-</kap>
-  <snc>
+  <kap>re<tld/>i</kap>
+  <snc mrk="konstr.re0i.restarigi">
     <dif>
        Restarigi <tld/>a&jcirc;on tute a&ubreve; parte detruitan:
       <ekz>
@@ -801,21 +824,21 @@ nepetou.html">
         da&ubreve;ro de tri tagoj  
         <fnt>
           <bib>NT</bib>
-          <lok>Mateo 26:61</lok>
+          <lok>&Mat; 26:61</lok>
         </fnt>;
       </ekz>
       <ekz>
         la ruinoj estos re<tld/>itaj
         <fnt>
           <bib>MT</bib>
-          <lok>Je&hcirc;ezkel 36:33</lok>
+          <lok>&Jeh; 36:33</lok>
         </fnt>;
       </ekz>
       <ekz>
         mi re<tld/>is la muregon kaj ke ne restis en &gcirc;i difektoj
         <fnt>
           <bib>MT</bib>
-          <lok>Ne&hcirc;emja 6:1</lok>
+          <lok>&Neh; 6:1</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -825,9 +848,39 @@ nepetou.html">
     <trd>wiederherstellen</trd>,
     <trd>wieder <ind>aufbauen</ind></trd>
   </trdgrp>
+  <trdgrp lng="fr">
+    <trd>reb&acirc;tir</trd>,
+    <trd>restaurer</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rekonstruowa&cacute;</trd>,
+    <trd>odbudowa&cacute;</trd>
+  </trdgrp>   
+  <trd lng="ro">reconstrui</trd>
 </drv>
 
-
+<drv mrk="konstr.tra0i">
+  <kap>tra<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konstr.tra0i.KON">
+    <dif>
+      Renovigi per riparo a&ubreve; &scirc;an&gcirc;o de la strukturo,
+      de la materialoj a&ubreve; de funkcia&jcirc;oj:
+      <ekz>
+        &scirc;tata mono pagis grandan tra<tld/>on de la
+        biblioteko, kiu estis finita en 2009
+        <fnt>
+          <aut>K. Kniivil&auml;</aut>
+          <vrk>Homoj de Putin</vrk>
+          <lok>2016</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">r&eacute;nover</trd>
+  <trd lng="pl">odnawia&cacute;</trd>     
+  <trd lng="ro">renova</trd>
+</drv>
 
 <drv mrk="konstr.ali0i">
   <kap>ali<tld/>i</kap>
@@ -872,6 +925,10 @@ nepetou.html">
     <trd>[<ind>baru</ind>] memperbarui (bangunan dsj.)</trd>
   </trdgrp>
   <trd lng="pl">przebudowa&cacute;</trd>
+  <trdgrp lng="ro">
+    <trd>remodela</trd>,
+    <trd>restabili</trd>
+  </trdgrp>
   <trd lng="sk">prebudova&tcaron;</trd>
 </drv>
 
@@ -884,15 +941,17 @@ nepetou.html">
       <ref tip="malprt" cel="konstr.0ajxo"><tld/>a&jcirc;on</ref>:
       <ekz>
         ili atingis pordegon kaj anta&ubreve;<tld/>a&jcirc;on,
-        dedi&ccirc;itajn al I&scirc;tar, kiuj formis alirejon al vasta
+        dedi&ccirc;itajn al <nom>I&scirc;tar</nom>, kiuj formis alirejon al vasta
         korto,
-        en kiu staris la granda templo de Meroda&hcirc;
-        <fnt><bib>I&scirc;tar</bib><lok>&ccirc;ap. 11</lok></fnt>.
+        en kiu staris la granda templo de <nom>Meroda&hcirc;</nom>
+        <fnt><bib>I&scirc;tar</bib> <lok>&ccirc;ap. 11a</lok></fnt>.
       </ekz>
     </dif>
-<rim> En la vortaro Minnaja (ItaEsp), &ccirc;i tiu vorto indikas 
-&leftquot;doman prilabora&jcirc;on&rightquot;. <aut>A.
-Codazzi</aut></rim>
+    <rim>
+      En la vortaro Minnaja (ItaEsp), &ccirc;i tiu vorto indikas 
+      &leftquot;doman prilabora&jcirc;on&rightquot;.
+      <aut>A. Codazzi</aut>
+    </rim>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_b;&c_u;&c_d;&c_o;&c_v;&c_a;</trd>
   <trdgrp lng="de">
@@ -900,6 +959,8 @@ Codazzi</aut></rim>
     <trd>Vorderhaus</trd>
   </trdgrp>
   <trd lng="hu">el&odblac;&eacute;p&uuml;let</trd>
+  <trd lng="pl">przybud&oacute;wka</trd>     
+  <trd lng="ro">anex&abreve;</trd>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_s;&c_t;&c_r;&c_o;&c_j;&c_k;&c_a;</trd>
 </drv>
 
@@ -912,6 +973,8 @@ Codazzi</aut></rim>
       Loko, en kiu oni estas <tld/>anta domojn.
    </dif>
     <trd lng="it"><ind>cantiere</ind> edile</trd>
+    <trd lng="pl">plac <ind>budowy</ind></trd>     
+    <trd lng="ro">construc&#539;ii</trd>
    </snc>
 </drv>
 
@@ -958,6 +1021,8 @@ Codazzi</aut></rim>
     <trd>basamento</trd>
   </trdgrp>
   <trd lng="nl">fundament</trd>
+  <trd lng="pl">fundament</trd>
+  <trd lng="ro">fundament</trd>
   <trdgrp lng="ru">
     <trd>&c_b;&c_a;&c_z;&c_a;</trd>,
     <trd>&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_je;&c_n;&c_t;</trd>,
@@ -967,6 +1032,15 @@ Codazzi</aut></rim>
 </art>
 <!--
 $Log: konstr.xml,v $
+Revision 1.45  2019/07/18 22:10:18  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.44  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
+Revision 1.43  2019/06/22 22:10:27  revo
+Jeromo Vasxe: + tra~i
+
 Revision 1.42  2018/08/24 15:15:13  revo
 kor. ecaron en la chehha
 
@@ -980,17 +1054,5 @@ Revision 1.39  2017/08/30 12:10:14  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.38  2017/08/25 18:10:21  revo
-Agustin Garcia Lopez: +trd(es) -ajx
-
-Revision 1.37  2017/02/22 12:10:18  revo
-Lyubomir Vasilev: +trd bg
-
-Revision 1.36  2015/07/04 08:37:37  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.35  2015/06/29 16:33:18  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.34  2014/11/13 11:10:25  revo
 -->
 </vortaro>

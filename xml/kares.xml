@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kares.xml,v 1.24 2018/04/24 14:10:13 revo Exp $">
+<art mrk="$Id: kares.xml,v 1.25 2019/09/07 18:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kares</rad>/i
@@ -75,6 +75,7 @@
     </trdgrp>
   </snc>
   <snc mrk="kares.0i.felicxigi">
+    <uzo tip="stl">FIG</uzo>
     <dif>
       Plezurigi, feli&ccirc;igi,
       <ref tip="vid" cel="dorlot.0i">dorloti</ref>:
@@ -87,7 +88,6 @@
         <fnt><bib>Marta</bib></fnt>;
       </ekz>
       <ekz>
-        <uzo tip="stl">FIG</uzo>
         kiun la sorto <tld/>as, al tiu &ccirc;io sukcesas
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
@@ -314,6 +314,9 @@
 </art>
 <!--
 $Log: kares.xml,v $
+Revision 1.25  2019/09/07 18:10:15  revo
+Sam Penter: +FIG cxe ~i 2
+
 Revision 1.24  2018/04/24 14:10:13  revo
 Jeromo Vasxe: ~i: 2 snc + kk fnt
 
@@ -333,8 +336,5 @@ Revision 1.19  2011/09/06 18:10:07  revo
 Alejandro Escobedo: aldonoj hispane
 
 Revision 1.18  2005/06/30 16:31:54  revo
-Yury Finkel: +trd ru
-
-Revision 1.17  2005/04/28 16:33:01  revo
 -->
 </vortaro>

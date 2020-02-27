@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kelk.xml,v 1.19 2017/01/27 14:10:21 revo Exp $">
+<art mrk="$Id: kelk.xml,v 1.21 2019/09/12 20:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kelk</rad>/a
@@ -58,6 +58,10 @@
       <trd>&c_n;&c_je;&c_k;&c_a;&c_t;&c_o;&c_r;&c_y;</trd>,
       <trd>&c_n;&c_je;&c_j;&c_k;&c_ib;</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>alg&uacute;n</trd>,
+      <trd>cierto</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>quelque</trd>,
       <trd>un <ind>certain</ind></trd>
@@ -84,6 +88,7 @@
       <trd>&c_n;&c_je;&c_k;&c_a;&c_t;&c_o;&c_r;&c_y;</trd>,
       <trd>&c_n;&c_je;&c_j;&c_k;&c_ib;</trd>
     </trdgrp>
+    <trd lng="es">un cierto</trd>
     <trdgrp lng="fr">
       <trd>un <ind>certain</ind></trd>
     </trdgrp>
@@ -99,7 +104,15 @@
     <trd>some</trd>,
     <trd>a little</trd>
   </trdgrp>
-  <trd lng="es">alg&uacute;n</trd>
+  <trdgrp lng="pl">
+    <trd>jaki&sacute;</trd>,
+    <trd>niekt&oacute;ry</trd>,
+    <trd>pewien</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>unii</trd>,
+    <trd>sigur</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>nejak&yacute;</trd>,
     <trd>niektor&yacute;</trd>,
@@ -177,6 +190,11 @@
     <trd>a few</trd>
   </trdgrp>
   <trd lng="es">algunos</trd>
+  <trd lng="pl">kilka</trd> 
+  <trdgrp lng="ro">
+    <trd>ni&#537;te</trd>,
+    <trd>c&acirc;teva</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>nieko&lcaron;ko</trd>,
     <trd>niektor&iacute;</trd>
@@ -221,7 +239,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_k;&c_a;&c_l;&c_mol;&c_k;&c_ib;</trd>
+  <trd lng="es">algunos</trd>
   <trd lng="hu">n&eacute;h&aacute;ny</trd>
+  <trd lng="pl">kilka</trd>     
+  <trd lng="ro">pu&tcedil;in</trd>
   <trd lng="ru">&c_n;&c_je;&c_s;&c_k;&c_o;&c_l;&c_mol;&c_k;&c_o;</trd>
 </drv>
 
@@ -240,7 +261,14 @@
   </snc>
   <trd lng="cs">po n&ecaron;kolika</trd>
   <trd lng="en">several together</trd>
+  <trd lng="es">en grupos peque&ntilde;os</trd>
   <trd lng="fr">en petit <ind>groupe</ind></trd>
+  <trdgrp lng="pl">
+    <trd>kilka</trd>,
+    <trd>kilku</trd>,
+    <trd>kilkoro</trd>
+  </trdgrp> 
+  <trd lng="ro">mai mul&#539;i</trd>
   <trd lng="sk">po nieko&lcaron;ko</trd>
 </drv>
 
@@ -273,6 +301,12 @@
 </art>
 <!--
 $Log: kelk.xml,v $
+Revision 1.21  2019/09/12 20:10:17  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.20  2019/03/29 23:10:17  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.19  2017/01/27 14:10:21  revo
 Adam Eng: +trd ms
 
@@ -289,11 +323,5 @@ Revision 1.15  2009/06/01 16:31:37  revo
 Russ Williams: +trd en
 
 Revision 1.14  2005/11/20 17:31:47  revo
-Jeromo Vasxe: + ~ope
-
-Revision 1.13 2004/12/13 17:31:42 revo
-Marc Bavant: +trd fr, ref tip sin, riparis strukturon, +drv ~aj
-
-Revision 1.12 2004/03/18 17:31:35 revo
 -->
 </vortaro>

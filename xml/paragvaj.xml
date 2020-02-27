@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: paragvaj.xml,v 1.16 2018/08/24 06:10:13 revo Exp $">
+<art mrk="$Id: paragvaj.xml,v 1.17 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>8</ofc><rad>Paragvaj</rad>/o <fnt><bib>FK</bib></fnt>
 </kap>
@@ -31,7 +31,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jozefo Lej&ccirc;</aut>
-          <vrk><url ref="http://www.monato.net/2010/009949.php">Kuranta kurento-krizo</url></vrk>
+          <vrk><url ref="&Monato;/2010/009949.php">Kuranta kurento-krizo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -40,7 +40,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lenio Marobin</aut>
-          <vrk><url ref="http://www.monato.net/2012/010699.php">Neakcepteblaj kaj nepravigeblaj</url></vrk>
+          <vrk><url ref="&Monato;/2012/010699.php">Neakcepteblaj kaj nepravigeblaj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -116,6 +116,9 @@
 
 <!--
 $Log: paragvaj.xml,v $
+Revision 1.17  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
 Revision 1.16  2018/08/24 06:10:13  revo
 Wolfram Diestel: +ekz-oj, fnt FK, germ trd-oj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kardiologi.xml,v 1.6 2018/10/13 10:10:14 revo Exp $">
+<art mrk="$Id: kardiologi.xml,v 1.7 2019/06/30 18:21:02 revo Exp $">
 <kap>
     <rad>kardiologi</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -17,7 +17,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="http://www.monato.net/2013/011124.php">Atentu la koron</url></vrk>
+          <vrk><url ref="&Monato;/2013/011124.php">Atentu la koron</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -26,7 +26,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lenio Marobin</aut>
-          <vrk><url ref="http://www.monato.net/2014/011298.php">Ela&ccirc;etas sin (kelkaj) grasoj</url></vrk>
+          <vrk><url ref="&Monato;/2014/011298.php">Ela&ccirc;etas sin (kelkaj) grasoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -53,6 +53,9 @@
 
 <!--
 $Log: kardiologi.xml,v $
+Revision 1.7  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.6  2018/10/13 10:10:14  revo
 Wolfram Diestel: +ekz, germ trd
 

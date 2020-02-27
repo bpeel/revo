@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: metod.xml,v 1.23 2017/12/18 20:10:15 revo Exp $">
+<art mrk="$Id: metod.xml,v 1.25 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>metod</rad>/o <fnt><bib>PV</bib></fnt>
@@ -90,7 +90,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008129.html">Propagando dan&gcirc;era</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008129.html">Propagando dan&gcirc;era</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -178,7 +178,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ulrich Lins</aut>
-          <vrk><url ref="http://www.monato.net/2006/008971.php">Andreo
+          <vrk><url ref="&Monato;/2006/008971.php">Andreo
            Cseh: legendo jam dum sia vivo</url></vrk>
         </fnt>;
       </ekz>
@@ -187,7 +187,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.monato.net/2010/010028.php">Pufigado</url></vrk>
+          <vrk><url ref="&Monato;/2010/010028.php">Pufigado</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -345,7 +345,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="http://www.monato.net/2013/010948.php">Kredu je la nekredantoj!</url></vrk>
+          <vrk><url ref="&Monato;/2013/010948.php">Kredu je la nekredantoj!</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -358,6 +358,12 @@
 </art>
 <!--
 $Log: metod.xml,v $
+Revision 1.25  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
+Revision 1.24  2019/06/30 07:42:48  revo
+adaptis URL de Monato
+
 Revision 1.23  2017/12/18 20:10:15  revo
 Wolfram Diestel: prilaboris ekz-ojn
 

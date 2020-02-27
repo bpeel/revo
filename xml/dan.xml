@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dan.xml,v 1.22 2018/08/26 16:10:13 revo Exp $">
+<art mrk="$Id: dan.xml,v 1.24 2019/06/30 18:19:02 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>dan</rad>/o <fnt><bib>Hamlet</bib></fnt>
@@ -19,7 +19,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref="http://www.monato.net/2005/008566.php">Frando-lando</url></vrk>
+          <vrk><url ref="&Monato;/2005/008566.php">Frando-lando</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -27,7 +27,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="http://www.monato.net/2011/010149.php">Ho, belaj spritaj tempoj!</url></vrk>
+          <vrk><url ref="&Monato;/2011/010149.php">Ho, belaj spritaj tempoj!</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -46,7 +46,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>H&aring;kan Lundberg</aut>
-          <vrk><url ref="http://www.monato.net/2005/008703.php">La libro de la vivo</url></vrk>
+          <vrk><url ref="&Monato;/2005/008703.php">La libro de la vivo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -58,7 +58,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Betty Chatterjee</aut>
-          <vrk><url ref="http://www.monato.net/2006/008923.php">La karikaturoj: kalumnio, kolero kaj iom da kompreno</url></vrk>
+          <vrk><url ref="&Monato;/2006/008923.php">La karikaturoj: kalumnio, kolero kaj iom da kompreno</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -92,7 +92,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bjarke Nielsen</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008416.html">Per la le&gcirc;o la lando estos konstruita</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008416.html">Per la le&gcirc;o la lando estos konstruita</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -100,7 +100,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Betty Chatterjee</aut>
-          <vrk><url ref="http://www.monato.net/2006/008923.php">La 
+          <vrk><url ref="&Monato;/2006/008923.php">La 
           karikaturoj: kalumnio, kolero kaj iom da kompreno</url></vrk>
         </fnt>.
       </ekz>
@@ -196,6 +196,12 @@
 
 <!--
 $Log: dan.xml,v $
+Revision 1.24  2019/06/30 18:19:02  revo
+adaptis URL de Monato
+
+Revision 1.23  2019/06/30 07:41:50  revo
+adaptis URL de Monato
+
 Revision 1.22  2018/08/26 16:10:13  revo
 Wolfram Diestel: +ekz-oj
 

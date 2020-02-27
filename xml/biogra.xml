@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: biogra.xml,v 1.15 2018/08/21 20:10:19 revo Exp $">
+<art mrk="$Id: biogra.xml,v 1.16 2019/06/29 12:22:51 revo Exp $">
 <kap>
 <ofc>7</ofc> <rad>biograf</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -16,7 +16,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>W. H. Simcock</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008033.html">Esti homa kaj literaturema</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008033.html">Esti homa kaj literaturema</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -24,7 +24,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ranieri Clerici</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008048.html">Paco alvokata</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008048.html">Paco alvokata</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -46,6 +46,9 @@
 </art>
 <!--
 $Log: biogra.xml,v $
+Revision 1.16  2019/06/29 12:22:51  revo
+adaptis URL de Monato
+
 Revision 1.15  2018/08/21 20:10:19  revo
 Wolfram Diestel: +ekz-oj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: persik.xml,v 1.30 2018/09/20 17:10:17 revo Exp $">
+<art mrk="$Id: persik.xml,v 1.31 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>persik</rad>/o
@@ -113,7 +113,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hori Jasuo</aut>
-          <vrk><url ref="http://www.monato.net/2006/009053.php">Prezidanto de la japana centra banko profitis</url></vrk>
+          <vrk><url ref="&Monato;/2006/009053.php">Prezidanto de la japana centra banko profitis</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -140,6 +140,9 @@
 </art>
 <!--
 $Log: persik.xml,v $
+Revision 1.31  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
 Revision 1.30  2018/09/20 17:10:17  revo
 Wolfram Diestel: +KUI, +ref-oj
 

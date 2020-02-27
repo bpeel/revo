@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: templ.xml,v 1.25 2015/07/04 08:37:44 revo Exp $">
+  <art mrk="$Id: templ.xml,v 1.30 2019/07/06 09:10:38 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>templ</rad>/o
@@ -56,8 +56,8 @@
   <trd lng="be">&c_h;&c_r;&c_a;&c_m;</trd>
   <trd lng="bg">&c_h;&c_r;&c_a;&c_m;</trd>
   <trdgrp lng="cs">
-    <trd>chrám</trd>,
-    <trd>posvátné místo</trd>,
+    <trd>chr&aacute;m</trd>,
+    <trd>posv&aacute;tn&eacute; m&iacute;sto</trd>,
     <trd>synagoga</trd>,
     <trd>templ</trd>
   </trdgrp>
@@ -68,6 +68,7 @@
         <trd>&a_m;&a_ayn;&a_b;&a_d;</trd>
       </trdgrp>
   <trd lng="fr">temple</trd>
+  <trd lng="hi">&#2350;&#2306;&#2342;&#2367;&#2352; [<ind>ma&#7745;dir</ind>]</trd>
   <trd lng="hu">templom</trd>
   <trd lng="it">tempio</trd>
   <trd lng="nl">tempel</trd>
@@ -80,8 +81,13 @@
       </trdgrp>
   <trd lng="ru">&c_h;&c_r;&c_a;&c_m;</trd>
   <trdgrp lng="sk">
-    <trd>chrám</trd>,
-    <trd>posvätné miesto</trd>
+    <trd>chr&aacute;m</trd>,
+    <trd>posv&auml;tn&eacute; miesto</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#27583;<klr> [di&agrave;n]</klr></trd>,
+    <trd>&#24217;<klr> [mi&agrave;o]</klr></trd>,
+    <trd>&#23546;&#65288;&#20315;&#23546;&#65289;<klr>[s&igrave;]</klr></trd>
   </trdgrp>
 </drv>
 
@@ -116,6 +122,21 @@
   </art>
   <!--
   $Log: templ.xml,v $
+  Revision 1.30  2019/07/06 09:10:38  revo
+  Aleks Andre: hi: iso 15919
+
+  Revision 1.29  2019/07/04 15:10:34  revo
+  Aleks Andre: +trd hi
+
+  Revision 1.28  2019/07/03 07:10:23  revo
+  Aleks Andre: zh: templo (klarigo)
+
+  Revision 1.27  2019/07/03 05:10:18  revo
+  Aleks Andre: zh: templo (alia vorto)
+
+  Revision 1.26  2019/07/02 17:10:18  revo
+  Aleks Andre: zh: templo
+
   Revision 1.25  2015/07/04 08:37:44  revo
   aldono de trd cs per skripto de M. von Laer
 

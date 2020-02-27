@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tir.xml,v 1.38 2018/05/21 17:10:14 revo Exp $">
+<art mrk="$Id: tir.xml,v 1.39 2019/12/30 12:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tir</rad>/i <fnt><bib>PV</bib></fnt>
@@ -653,8 +653,10 @@
     <trd>herausholen</trd>,
     <trd>herausziehen</trd>,
     <trd>extrahieren</trd>,
-    <trd>gewinnen</trd>
+    <trd>gewinnen</trd>,
+    <trd>entziehen</trd>
   </trdgrp>
+  <trd lng="de">withdraw</trd>
   <trdgrp lng="es">
     <trd>extraer</trd>
   </trdgrp>
@@ -979,6 +981,9 @@
 </art>
 <!--
 $Log: tir.xml,v $
+Revision 1.39  2019/12/30 12:10:17  revo
+Wolfram Diestel: +trd de, en
+
 Revision 1.38  2018/05/21 17:10:14  revo
 Michel Cantigneaux: korktirilo : fundamenta kunmetajxo de la Ekzercaro (ekz. 34)
 
@@ -998,8 +1003,5 @@ Revision 1.33  2011/12/09 23:10:09  revo
 Jeromo Vasxe: + sangel~ilo
 
 Revision 1.32  2011/06/24 23:10:10  revo
-Dominique Pelle: siajn parton -> siajn partojn
-
-Revision 1.31  2009/01/23 18:32:03  revo
 -->
 </vortaro>

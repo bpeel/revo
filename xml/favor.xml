@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: favor.xml,v 1.27 2018/11/28 14:10:14 revo Exp $">
+<art mrk="$Id: favor.xml,v 1.29 2019/10/28 14:10:25 revo Exp $">
 <kap>
     <ofc>*</ofc><rad>favor</rad>/a <fnt><bib>PV</bib></fnt>
 </kap>
@@ -65,6 +65,7 @@
       Helpota&ubreve;ga, faciliga, sukcesiga:
       <ekz>
         <ind><tld/>a vento</ind>, vetero, cirkonstanco;
+        <trd lng="es">viento favorable</trd>
         <trd lng="fr">vent favorable</trd>
         <trd lng="hu">kedvez&odblac; sz&eacute;l</trd>
         <trd lng="ru">&c_p;&c_o;&c_p;&c_u;&c_t;&c_n;&c_y;&c_j;
@@ -160,6 +161,10 @@
       </ekz>
       <ekz>
         suferi <ind>mal<tld/>o</ind>n.
+        <trdgrp lng="es">
+          <trd>disfavor</trd>,
+          <trd>desgracia</trd>
+        </trdgrp>
         <trdgrp lng="fr">
           <trd>d&eacute;faveur</trd>,
           <trd>disgr&acirc;ce</trd>
@@ -465,6 +470,7 @@
       </ekz>
       <ekz>
         rekomendi <ind><tld/>igo</ind>n al la disvastigo de humanismo.
+        <trd lng="es">adhesi&oacute;n</trd>
         <trd lng="fr">ralliement<klr tip="ind"> (adh&eacute;sion)</klr></trd>
       </ekz>
     </dif>
@@ -560,6 +566,10 @@
     <trd>p&rcaron;&iacute;ze&ncaron;</trd>,
     <trd>srde&ccaron;n&yacute; vztah</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>misericordia</trd>,
+    <trd>piedad</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>mis&eacute;ricorde</trd>,
     <trd>piti&eacute;</trd>
@@ -630,6 +640,11 @@
     <trd>gesund <klr>(f&ouml;rderlich)</klr></trd>,
     <trd>der <ind>Gesundheit</ind> f&ouml;rderlich</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>bueno para la salud</trd>,
+    <trd>sano<klr> (bueno para la salud)</klr></trd>,
+    <trd>saludable</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>bon pour la sant&eacute;</trd>,
     <trd>sain<klr> (bon pour la sant&eacute;)</klr></trd>,
@@ -639,6 +654,12 @@
 </art>
 <!--
 $Log: favor.xml,v $
+Revision 1.29  2019/10/28 14:10:25  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.28  2019/10/28 13:10:20  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.27  2018/11/28 14:10:14  revo
 Petr Diblik: +trd cs
 
@@ -655,11 +676,5 @@ Revision 1.23  2015/06/29 16:29:38  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.22  2015/06/05 23:10:15  revo
-Jeromo Vasxe: + mrk
-
-Revision 1.21  2015/02/09 21:10:16  revo
-Alain Gerard: + per~e
-
-Revision 1.20  2007/05/19 17:02:31  revo
 -->
 </vortaro>

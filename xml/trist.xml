@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trist.xml,v 1.11 2018/11/09 15:10:16 revo Exp $">
+<art mrk="$Id: trist.xml,v 1.13 2019/06/30 18:21:50 revo Exp $">
 <kap>
 <rad>trist</rad>/a
 </kap>
@@ -26,7 +26,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Laimius Stra&zcaron;nickas</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008095.html">La segilo sonas!</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008095.html">La segilo sonas!</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -34,7 +34,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jorma Ahom&auml;ki</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008348.html">Nova vortarego en Estonio</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008348.html">Nova vortarego en Estonio</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -42,7 +42,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Geraldo Mattos</aut>
-          <vrk><url ref="http://www.monato.net/2008/009422.php">Rezulto de preseraro</url></vrk>
+          <vrk><url ref="&Monato;/2008/009422.php">Rezulto de preseraro</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -86,6 +86,12 @@
 
 <!--
 $Log: trist.xml,v $
+Revision 1.13  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.12  2019/06/30 07:43:30  revo
+adaptis URL de Monato
+
 Revision 1.11  2018/11/09 15:10:16  revo
 Wolfram Diestel: +ekz-oj, germ trd-oj, ref malgaja
 

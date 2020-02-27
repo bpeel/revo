@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: raben.xml,v 1.20 2018/10/09 17:10:20 revo Exp $">
+<art mrk="$Id: raben.xml,v 1.21 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>raben</rad>/o
@@ -40,7 +40,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Armando Zecchin</aut>
-          <vrk><url ref="http://www.monato.net/2007/009198.php">&Ccirc;u vere okazis sang-oferaj paskoj?</url></vrk>
+          <vrk><url ref="&Monato;/2007/009198.php">&Ccirc;u vere okazis sang-oferaj paskoj?</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -77,6 +77,9 @@
 </art>
 <!--
 $Log: raben.xml,v $
+Revision 1.21  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
 Revision 1.20  2018/10/09 17:10:20  revo
 Wolfram Diestel: reverkis la du snc, ekz-oj
 

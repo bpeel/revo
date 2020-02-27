@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ilumin.xml,v 1.19 2018/12/17 17:10:22 revo Exp $">
+<art mrk="$Id: ilumin.xml,v 1.20 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ilumin</rad>/i
@@ -75,7 +75,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ivo Durwael</aut>
-          <vrk><url ref="http://www.monato.net/2010/010093.php"
+          <vrk><url ref="&Monato;/2010/010093.php"
               >Energiaj ciferoj</url></vrk>
         </fnt>.
       </ekz>
@@ -146,6 +146,9 @@
 </art>
 <!--
 $Log: ilumin.xml,v $
+Revision 1.20  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.19  2018/12/17 17:10:22  revo
 Wolfram Diestel: +ekz-oj
 

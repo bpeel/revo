@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sal.xml,v 1.37 2016/11/22 23:10:26 revo Exp $">
+  <art mrk="$Id: sal.xml,v 1.38 2019/07/04 15:10:30 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>sal</rad>/o <fnt><bib>PV</bib></fnt>
@@ -17,6 +17,7 @@
           interalie kiel <ref tip="super" cel="spic.0o">spico</ref>
           por gustigi man&gcirc;a&jcirc;ojn.
         </dif>
+        <trd lng="hi">&#2344;&#2350;&#2325; [<ind>namak</ind>]</trd>
       </snc>
       <snc mrk="sal.0o.KEM">
         <uzo tip="fak">KEM</uzo>
@@ -232,6 +233,9 @@
   </art>
   <!--
   $Log: sal.xml,v $
+  Revision 1.38  2019/07/04 15:10:30  revo
+  Aleks Andre: +trd hi
+
   Revision 1.37  2016/11/22 23:10:26  revo
   Robin van der Vliet: +trd
 

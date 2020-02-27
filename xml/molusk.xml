@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: molusk.xml,v 1.20 2019/02/19 19:10:22 revo Exp $">
+<art mrk="$Id: molusk.xml,v 1.21 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>molusk</rad>/oj <fnt><bib>PV</bib></fnt>
@@ -29,7 +29,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marta Sol&iacute;s</aut>
-          <vrk><url ref="https://www.monato.net/2006/008665.php"
+          <vrk><url ref="&Monato;/2006/008665.php"
               >La fino de l' mondo</url></vrk>
         </fnt>;
       </ekz>
@@ -40,7 +40,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Oliver Kim</aut>
-          <vrk><url ref="https://www.monato.net/2014/011359.php"
+          <vrk><url ref="&Monato;/2014/011359.php"
               >Rekorda konkulo</url></vrk>
         </fnt>.
       </ekz>
@@ -68,6 +68,9 @@
 </art>
 <!--
 $Log: molusk.xml,v $
+Revision 1.21  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
 Revision 1.20  2019/02/19 19:10:22  revo
 Wolfram Diestel: +ekz-oj
 

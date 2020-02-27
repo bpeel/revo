@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pens.xml,v 1.32 2018/06/21 16:10:19 revo Exp $">
+<art mrk="$Id: pens.xml,v 1.35 2019/12/14 14:10:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pens</rad>/i <fnt><bib>PV</bib></fnt>
@@ -51,7 +51,7 @@
         jarojn<fnt>Z</fnt>;
       </ekz>
       <ekz>
-        Volap&uuml;k ne estis venkita de Esperanto, kiel multaj
+        <nom>Volap&uuml;k</nom> ne estis venkita de Esperanto, kiel multaj
         personoj <tld/>as tute erare<fnt>Z</fnt>;
       </ekz>
       <ekz>
@@ -130,7 +130,10 @@
   </trdgrp>
   <trd lng="de">Denken</trd>
   <trd lng="es">pensamiento</trd>
-  <trd lng="fr">pens&eacute;e</trd>
+  <trdgrp lng="fr">
+    <trd>no&egrave;se</trd>,
+    <trd>pens&eacute;e</trd>
+  </trdgrp>
   <trd lng="hu">gondolkod&aacute;s</trd>
   <trd lng="nl">het <ind>denken</ind></trd>
   <trd lng="ru">&c_m;&c_y;&c_sh;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
@@ -162,7 +165,10 @@
     <trd>idea</trd>,
     <trd>concepto</trd>
   </trdgrp>
-  <trd lng="fr">pens&eacute;e</trd>
+  <trdgrp lng="fr">
+    <trd>no&egrave;me</trd>,
+    <trd>pens&eacute;e</trd>
+  </trdgrp>
   <trd lng="hu">gondolat</trd>
   <trd lng="nl">gedachte</trd>
   <trd lng="pt">ideia</trd>
@@ -186,11 +192,30 @@
     </dif>
   </snc>
   <trd lng="cs">p&rcaron;em&yacute;&scaron;liv&yacute;</trd>
-  <trdgrp lng="fr">
-    <trd>r&eacute;fl&eacute;chi</trd>,
-    <trd>pensif</trd>
-  </trdgrp>
+  <trd lng="fr">r&eacute;fl&eacute;chi</trd>
   <trd lng="sk">prem&yacute;&scaron;&lcaron;av&yacute;</trd>
+</drv>
+
+<drv mrk="pens.0ero">
+  <kap>
+    <tld/>ero
+  </kap>
+  <snc mrk="pens.0ero.PSI">
+    <dif>
+      Nekompleta elemento de <tld/>o, de rezono:
+      <ekz>
+        mi estis kaj mense kaj fizike tro el&ccirc;erpita <klr>...</klr>
+        kaj neniel povis ekhavi la ideon ke mi ordigu la disajn
+        <tld/>erojn
+        <fnt>
+          <aut>Okada H., trad. Konisi G.</aut>
+          <vrk>Notoj pri la Delto</vrk>
+          <lok>1992</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">&eacute;l&eacute;ment de pens&eacute;e</trd>
 </drv>
 
 <drv mrk="pens.0isto">
@@ -400,8 +425,8 @@
     </refgrp>
     <rim>
       Krom tiuj aprobaj sencoj, <ctl>elpensi</ctl> anka&ubreve; povas
-      havi la sencon de <ref tip="vid"
-      cel="fantaz.0i">fantazii</ref> (aproban a&ubreve; malla&ubreve;dan):
+      havi la sencon de <ref tip="vid" cel="fantaz.0i">fantazii</ref>
+      (aproban a&ubreve; malla&ubreve;dan):
       <ekz>
         deliranto aplikas propran logikon: tiun de
         raciecigo de fantazi<klr>[i]</klr>taj el<tld/>oj
@@ -538,12 +563,14 @@
 <drv mrk="pens.liber0ulo">
   <kap>liber<tld/>ulo</kap>
   <snc mrk="pens.liber0ulo.REL">
-    <ref tip="dif" cel="ateism.0ano">ateismano</ref>
-    <ekz>
-      religie li estis liber<tld/>ulo, sed en la fino de sia vivo li
-      ali&gcirc;is al la tutmonda Bahai-movado
-      <fnt><bib>Aventuroj</bib>, <lok>&ccirc;apitro 51a, p. 116a</lok></fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="ateism.0ano">Ateismano</ref>:
+      <ekz>
+        religie li estis liber<tld/>ulo, sed en la fino de sia vivo li
+        ali&gcirc;is al la tutmonda Bahai-movado
+        <fnt><bib>Aventuroj</bib> <lok>&ccirc;apitro 51a, p. 116a</lok></fnt>.
+      </ekz>
+     </dif>
   </snc>
   <trd lng="ca">lliurepensador</trd>
   <trdgrp lng="cs">
@@ -654,6 +681,9 @@
       </ekz>
     </dif>
   </snc>
+  <refgrp tip="vid">
+    <ref cel="medit.0i.KOMUNE">mediti</ref>
+  </refgrp>
   <trdgrp lng="ca">
     <trd>reflexionar</trd>,
     <trd>meditar</trd>,
@@ -692,6 +722,30 @@
     <trd>rozmyslie&tcaron;</trd>,
     <trd>uv&aacute;&zcaron;i&tcaron;</trd>
   </trdgrp>
+</drv>
+
+<drv mrk="pens.pri0ema">
+  <kap>pri<tld/>ema</kap>
+  <snc mrk="pens.pri0ema.PSI">
+    <dif>
+      Momente a&ubreve; karaktere inklina al pri<tld/>o,
+      al konsiderado de demando:
+      <ekz>
+        kiam mi demandas al Marina, kion <nom>Sa&hcirc;arov</nom> la&ubreve; &scirc;i pensus
+        pri la politika evoluo de la lastaj jaroj, &scirc;i
+        silenti&gcirc;as kaj aspektas pri<tld/>ema
+        <fnt>
+          <aut>K. Kniivil&auml;</aut>
+          <vrk>Homoj de Putin</vrk>
+          <lok>2016</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="medit.0ema.PSI">meditema</ref>
+  </refgrp>
+  <trd lng="fr">pensif</trd>
 </drv>
 
 <drv mrk="pens.pri0inda">
@@ -733,7 +787,7 @@
       <ekz>
         <klr>[tiaj frazoj]</klr> ne priskribas la realon, sed preskribas
         &gcirc;in la&ubreve; me&hcirc;anismo, kiun angloj nomas
-        <ctl>wishful thinking</ctl> &#8208; <ind>rev<tld/>ado</ind>
+        <nac>wishful thinking</nac> &#8208; <ind>rev<tld/>ado</ind>
         <fnt>
           <aut>J. Camacho</aut>,
           <vrk><url
@@ -809,6 +863,15 @@
 </art>
 <!--
 $Log: pens.xml,v $
+Revision 1.35  2019/12/14 14:10:22  revo
+Jeromo Vasxe: + ~ero
+
+Revision 1.34  2019/11/24 07:10:13  revo
+Aleks Andre: fr
+
+Revision 1.33  2019/07/04 17:10:18  revo
+Jeromo Vasxe: + pri~ema
+
 Revision 1.32  2018/06/21 16:10:19  revo
 Jeromo Vasxe: + en~(igx)ema
 
@@ -821,15 +884,6 @@ Jeromo Vasxe: + post~o
 
 Revision 1.29  2015/07/04 08:37:41  revo
 aldono de trd cs per skripto de M. von Laer
-
-Revision 1.28  2015/06/29 16:40:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.27  2015/03/15 18:10:18  revo
-Wolfram Diestel: markis tajperaron en citajho
-
-Revision 1.26  2014/09/01 01:10:13  revo
-Guillermo Molleda Jimena: trd es
 
 -->
 </vortaro>

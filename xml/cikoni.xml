@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: cikoni.xml,v 1.25 2019/01/29 07:10:13 revo Exp $">
+<art mrk="$Id: cikoni.xml,v 1.26 2019/06/30 09:58:52 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>cikoni</rad>/o
@@ -51,7 +51,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="https://www.monato.net/2012/010711.php"
+          <vrk><url ref="&Monato;/2012/010711.php"
               >Cikonioj interrete</url></vrk>
         </fnt>.
       </ekz>
@@ -94,6 +94,9 @@
 </art>
 <!--
 $Log: cikoni.xml,v $
+Revision 1.26  2019/06/30 09:58:52  revo
+adaptis URL de Monato
+
 Revision 1.25  2019/01/29 07:10:13  revo
 Wolfram Diestel: alia bld, +ref-oj
 

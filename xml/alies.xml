@@ -2,13 +2,13 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: alies.xml,v 1.5 2018/09/11 17:10:17 revo Exp $">
+<art mrk="$Id: alies.xml,v 1.8 2019/09/29 15:10:16 revo Exp $">
   <kap>
     <rad>alies</rad>
   </kap>
 <drv mrk="alies.0">
   <kap><tld/></kap>
-  <snc>
+  <snc mrk="alies.0.GRA">
     <uzo tip="fak">GRA</uzo>
     <uzo tip="stl">EVI</uzo>
     <dif>
@@ -34,7 +34,7 @@
         temos pri <esc>alies</esc> tasko
         <fnt>
           <bib>Monato</bib>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/007991.html">Espero</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/007991.html">Espero</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -43,7 +43,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://www.monato.net/2005/008698.php">Evitenda evoluo</url></vrk>
+          <vrk><url ref="https://www.monato.be/2005/008698.php">Evitenda evoluo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -51,12 +51,12 @@
         <fnt>
           <bib>Monato</bib>
           <aut>David Kelso</aut>
-          <vrk><url ref="http://www.monato.net/2008/009499.php">Kiuj sendependi&gcirc;u? (10)</url></vrk>
+          <vrk><url ref="https://www.monato.be/2008/009499.php">Kiuj sendependi&gcirc;u? (10)</url></vrk>
         </fnt>.
       </ekz>
     </dif>
     <rim>
-      Tiu neoficiala malofta vorto ne apartenas al la <ref tip="dif"
+      Tiu neoficiala malofta vorto ne apartenas al la <ref tip="vid"
       cel="tabel.0vorto">tabelvortoj</ref> kaj ties regula uzo kunportus
       drastajn &scirc;an&gcirc;ojn en la lingvon.
     </rim>
@@ -77,6 +77,15 @@
 
 <!--
 $Log: alies.xml,v $
+Revision 1.8  2019/09/29 15:10:16  revo
+Wolfram Diestel: kor. ref-tip
+
+Revision 1.7  2019/06/30 07:47:08  revo
+adaptis URL de Monato
+
+Revision 1.6  2019/06/29 12:19:25  revo
+adaptis URL de Monato
+
 Revision 1.5  2018/09/11 17:10:17  revo
 Wolfram Diestel: +ekz-oj
 
@@ -90,7 +99,5 @@ Revision 1.2  2015/06/28 12:03:35  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.1  2014/02/06 13:10:13  revo
-Damien Brucker: nova artikolo
-
 -->
 </vortaro>

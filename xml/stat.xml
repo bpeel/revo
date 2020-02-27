@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stat.xml,v 1.29 2018/06/24 15:10:14 revo Exp $">
+<art mrk="$Id: stat.xml,v 1.31 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>stat</rad>/o
@@ -266,7 +266,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jomo Ipfelkofer</aut>
-          <vrk><url ref="http://www.monato.net/2010/010085.php">Kura&gcirc;u malobei!</url></vrk>
+          <vrk><url ref="&Monato;/2010/010085.php">Kura&gcirc;u malobei!</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -277,7 +277,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Peeraerts</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008280.html">Komposta revolucio kaj presada stabileco</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008280.html">Komposta revolucio kaj presada stabileco</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -465,7 +465,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008020.html">Man&gcirc;u por sano, samideano!</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008020.html">Man&gcirc;u por sano, samideano!</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -490,6 +490,12 @@
 </art>
 <!--
 $Log: stat.xml,v $
+Revision 1.31  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.30  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.29  2018/06/24 15:10:14  revo
 Wolfram Diestel: prilaboris ekz-ojn (cetero), germ trd-oj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pol.xml,v 1.21 2018/03/05 20:10:13 revo Exp $">
+<art mrk="$Id: pol.xml,v 1.23 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>7</ofc> <rad>pol</rad>/o
 </kap>
@@ -19,7 +19,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Angelos Tsirimokos</aut>
-          <vrk><url ref="http://www.monato.net/2011/010297.php">Senmita biografio de Zamenhof</url></vrk>
+          <vrk><url ref="&Monato;/2011/010297.php">Senmita biografio de Zamenhof</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -38,7 +38,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.monato.net/2007/009365.php">Du mil sep</url></vrk>
+          <vrk><url ref="&Monato;/2007/009365.php">Du mil sep</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -108,7 +108,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Dmitrij Cibulevskij/pg</aut>
-          <vrk><url ref="http://www.monato.net/2007/009089.php">Lviv kaj mort'</url></vrk>
+          <vrk><url ref="&Monato;/2007/009089.php">Lviv kaj mort'</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -135,7 +135,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="http://www.monato.net/2013/010984.php">Albanstila divorco</url></vrk>
+          <vrk><url ref="&Monato;/2013/010984.php">Albanstila divorco</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -210,7 +210,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo MINNAJA</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008065.html">Finaj agordoj</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008065.html">Finaj agordoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>  
@@ -366,7 +366,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stanis&lstroke;aw &Sacute;migielski</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/007947.html">Eksporto nur al Okcidento</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/007947.html">Eksporto nur al Okcidento</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -542,6 +542,12 @@
 
 <!--
 $Log: pol.xml,v $
+Revision 1.23  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
+Revision 1.22  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.21  2018/03/05 20:10:13  revo
 Wolfram Diestel: prilaboris ekz-ojn, germ trd-ojn...
 

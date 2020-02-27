@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: polic.xml,v 1.23 2017/03/22 14:10:13 revo Exp $">
+<art mrk="$Id: polic.xml,v 1.24 2019/07/02 16:10:25 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>polic</rad>/o <fnt><bib>PV</bib></fnt>
@@ -41,6 +41,7 @@
   <trd lng="ru">&c_p;&c_o;&c_l;&c_i;&c_c;&c_i;&c_ja;</trd>
   <trd lng="sk">pol&iacute;cia</trd>
   <trd lng="sv">polis</trd>
+  <trd lng="zh">&#35686;&#23519;<klr> [j&#464;ngch&aacute;]</klr></trd>
 </drv>
 
 <drv mrk="polic.0ano">
@@ -204,6 +205,9 @@
 </art>
 <!--
 $Log: polic.xml,v $
+Revision 1.24  2019/07/02 16:10:25  revo
+Aleks Andre: zh: polico
+
 Revision 1.23  2017/03/22 14:10:13  revo
 Lyubomir Vasilev: +trd bg
 
@@ -223,8 +227,5 @@ Revision 1.18  2009/10/25 17:31:32  revo
 Paul Peeraerts: +nl
 
 Revision 1.17  2009/03/19 18:16:45  revo
-Wieland Pusch: +trd de
-
-Revision 1.16  2008/12/22 17:30:31  revo
 -->
 </vortaro>

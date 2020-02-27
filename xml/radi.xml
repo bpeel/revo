@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: radi.xml,v 1.33 2018/03/25 00:10:32 revo Exp $">
+<art mrk="$Id: radi.xml,v 1.36 2019/08/30 05:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>radi</rad>/o
@@ -10,7 +10,7 @@
 
 <drv mrk="radi.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <snc>
+  <snc mrk="radi.0o.rektlinia">
     <dif>
       Rektlinia mallar&gcirc;a lumstrio:
       <ekz>
@@ -85,7 +85,6 @@
     <trd lng="pt">raio</trd>
     <trd lng="ru">&c_l;&c_u;&c_ch;</trd>
   </snc>
-
   <snc mrk="radi.0o.energielsendo">
     <dif>
       &Ccirc;iu aparta elsenda&jcirc;o el energifonto:
@@ -140,7 +139,6 @@
       </ekz>
     </dif>
   </snc>
-
   <snc mrk="radi.0o.radioaparato">
     <dif>
       <ref tip="vid" cel="radiof.0o">Radiofonio</ref>:
@@ -196,7 +194,7 @@
     <trd lng="pl">radio</trd>
     <trd lng="ru">&c_r;&c_a;&c_d;&c_i;&c_o;</trd>
   </snc>
-  <snc mrk="radi.0o.FIG">
+  <snc mrk="radi.0o.discelanta">
     <uzo tip="stl">FIG</uzo>
     <dif>
       Io, kio iras de iu centra punkto, discelante kiel bran&ccirc;oj de
@@ -265,7 +263,7 @@
       <trd>&c_s;&c_p;&c_i;&c_c;&c_a;<klr tip="amb"> (&c_v; &c_k;&c_o;&c_l;&c_je;&c_s;&c_je;)</klr></trd>
     </trdgrp>
   </snc>
-  <snc>
+  <snc mrk="radi.0o.brila">
     <uzo tip="stl">FIG</uzo>
     <dif>
       &Gcirc;ojbrila aspekto:
@@ -343,9 +341,9 @@
   <snc mrk="radi.0o.duonrekto">
     <uzo tip="fak">MAT</uzo>
     <fnt><bib>MatVort</bib></fnt>
+    <ref tip="dif" cel="rekt.duon0o">duonrekto.</ref>
     <trd lng="be">&c_p;&c_r;&c_a;&c_m;&c_je;&c_n;&c_mol;</trd>
     <trd lng="bg">&c_l;&c_malmol;&c_ch;</trd>
-    <ref tip="dif" cel="rekt.duon0o">duonrekto.</ref>
     <trd lng="de">Halbgerade</trd>
     <trd lng="es">semirrecta</trd>
     <trd lng="hu">f&eacute;legyenes</trd>    
@@ -423,7 +421,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Last</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008448.html">Fungoj
+          <vrk><url ref="https://www.monato.be/2004/008448.html">Fungoj
            litova eksportvaro</url></vrk>
         </fnt>;
       </ekz>
@@ -432,7 +430,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="http://www.monato.net/2013/011032.php">Skanado &gcirc;ena kaj kancerogena</url></vrk>
+          <vrk><url ref="&Monato;/2013/011032.php">Skanado &gcirc;ena kaj kancerogena</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -475,7 +473,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garvan Makaj</aut>
-          <vrk><url ref="http://www.monato.net/2012/010649.php">De kelta tigro al orienta tigro</url></vrk>
+          <vrk><url ref="&Monato;/2012/010649.php">De kelta tigro al orienta tigro</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -484,7 +482,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Antonio Val&eacute;n</aut>
-          <vrk><url ref="http://www.monato.net/2005/008625.php">Klero kaj klaro delektos la leganton</url></vrk>
+          <vrk><url ref="&Monato;/2005/008625.php">Klero kaj klaro delektos la leganton</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -492,7 +490,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Rita R&ouml;ssler-Buckel</aut>
-          <vrk><url ref="http://www.monato.net/2007/009174.php">Metio kaj formo tradicio kaj progreso</url></vrk>
+          <vrk><url ref="&Monato;/2007/009174.php">Metio kaj formo tradicio kaj progreso</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -627,7 +625,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garvan Makaj</aut>
-          <vrk><url ref="http://www.monato.net/2010/009989.php">Voja&gcirc;o unudirekta</url></vrk>
+          <vrk><url ref="&Monato;/2010/009989.php">Voja&gcirc;o unudirekta</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -635,7 +633,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vladimir Lemelev</aut>
-          <vrk><url ref="http://www.monato.net/2006/008861.php">Nova etapo en biologio kaj medicino</url></vrk>
+          <vrk><url ref="&Monato;/2006/008861.php">Nova etapo en biologio kaj medicino</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -643,7 +641,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Pejno Simono</aut>
-          <vrk><url ref="http://www.monato.net/2011/010370.php">Moderna minaco: radioaktiveco</url></vrk>
+          <vrk><url ref="&Monato;/2011/010370.php">Moderna minaco: radioaktiveco</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -651,7 +649,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vladimir Lemelev</aut>
-          <vrk><url ref="http://www.monato.net/2007/008991.php">La &ccirc;efaj murdistoj de HIV-infektitoj</url></vrk>
+          <vrk><url ref="&Monato;/2007/008991.php">La &ccirc;efaj murdistoj de HIV-infektitoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -659,7 +657,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garvan Makaj</aut>
-          <vrk><url ref="http://www.monato.net/2010/009989.php">Voja&gcirc;o unudirekta</url></vrk>
+          <vrk><url ref="&Monato;/2010/009989.php">Voja&gcirc;o unudirekta</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -668,7 +666,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Pejno Simono</aut>
-          <vrk><url ref="http://www.monato.net/2011/010370.php">Moderna minaco: radioaktiveco</url></vrk>
+          <vrk><url ref="&Monato;/2011/010370.php">Moderna minaco: radioaktiveco</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -676,7 +674,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Pejno Simono</aut>
-          <vrk><url ref="http://www.monato.net/2011/010370.php">Moderna minaco: radioaktiveco</url></vrk>
+          <vrk><url ref="&Monato;/2011/010370.php">Moderna minaco: radioaktiveco</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -684,7 +682,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Pejno Simono</aut>
-          <vrk><url ref="http://www.monato.net/2011/010370.php">Moderna minaco: radioaktiveco</url></vrk>
+          <vrk><url ref="&Monato;/2011/010370.php">Moderna minaco: radioaktiveco</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -692,7 +690,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="http://www.monato.net/2013/011032.php">Skanado &gcirc;ena kaj kancerogena</url></vrk>
+          <vrk><url ref="&Monato;/2013/011032.php">Skanado &gcirc;ena kaj kancerogena</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -705,6 +703,15 @@
 </art>
 <!--
 $Log: radi.xml,v $
+Revision 1.36  2019/08/30 05:10:14  revo
+Wolfram Diestel: ref antau trd, snc-mrk
+
+Revision 1.35  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
+Revision 1.34  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.33  2018/03/25 00:10:32  revo
 Wolfram Diestel: prilaboris ekz-ojn, ioma reordigo, +~ado
 
@@ -718,14 +725,5 @@ Revision 1.30  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.29  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.28  2014/09/22 12:10:12  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.27  2014/06/04 03:10:48  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.26  2011/06/03 11:10:17  revo
 -->
 </vortaro>

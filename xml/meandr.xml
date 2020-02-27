@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: meandr.xml,v 1.18 2018/09/02 10:10:16 revo Exp $">
+<art mrk="$Id: meandr.xml,v 1.19 2019/06/30 18:21:47 revo Exp $">
 <kap>
   <rad>meandr</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -20,7 +20,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ivo Durwael</aut>
-          <vrk><url ref="http://www.monato.net/2011/010230.php">Kompensi mizeron ne eblas</url></vrk>
+          <vrk><url ref="&Monato;/2011/010230.php">Kompensi mizeron ne eblas</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -30,7 +30,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paulo S&eacute;rgio Viana</aut>
-          <vrk><url ref="http://www.monato.net/2014/011273.php">A&ubreve;skultu simfonion, a&ubreve;skultu la universon</url></vrk>
+          <vrk><url ref="&Monato;/2014/011273.php">A&ubreve;skultu simfonion, a&ubreve;skultu la universon</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -89,6 +89,9 @@
 </art>
 <!--
 $Log: meandr.xml,v $
+Revision 1.19  2019/06/30 18:21:47  revo
+adaptis URL de Monato
+
 Revision 1.18  2018/09/02 10:10:16  revo
 Wolfram Diestel: +ekz-oj, ref-oj
 

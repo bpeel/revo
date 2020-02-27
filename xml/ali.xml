@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ali.xml,v 1.50 2017/07/14 17:10:14 revo Exp $">
+<art mrk="$Id: ali.xml,v 1.52 2019/11/03 12:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>ali</rad>/a <fnt><bib>PV</bib></fnt>
+  <rad>ali</rad>/a
 </kap>
 
  <drv mrk="ali.0a">
@@ -21,46 +21,81 @@
        </ekz>
        <ekz>
          kun la tempo la formo de la lingvo eble estos <tld/>a ol
-         tiu, pro kiu ni nun laboras<fnt>Z</fnt>;
+         tiu, pro kiu ni nun laboras
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
        </ekz>
        <ekz>
-         nun &scirc;ia rideto estis <tld/>a ol matene<fnt>Z</fnt>;
+         nun &scirc;ia rideto estis <tld/>a ol matene
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
        </ekz>
        <ekz>
          <tld/>aj domoj, <tld/>aj homoj<fnt><bib>PrV</bib></fnt>;
        </ekz>
        <ekz>
-         <tld/>loke<fnt>Z</fnt>;
+         <tld/>loke
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
        </ekz>
        <ekz>
-         <tld/>tempe;
+         <tld/>tempe
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo</aut>
+          <vrk><url ref="https://www.monato.be/2009/009620.php"
+              >Ferioj senferiaj</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
        </ekz>
        <ekz>
-         <tld/>vorte;
+         <tld/>vorte
+        <fnt>
+          <bib>NT</bib>
+          <lok>Filemon 1:12</lok>
+        </fnt>;
        </ekz>
        <ekz>
-         <tld/>vesti&gcirc;i.
+         <tld/>vesti&gcirc;i
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gerrit Berveling</aut>
+          <vrk><url ref="https://www.monato.be/2013/011169.php"
+              >&Ccirc;u rasisma? Neniel!</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
        </ekz>
-     </dif>
-     <rim>
-       Se <em>alia</em> estas akompanata de negacio, oni povas post
-       &gcirc;i uzi indiferente <em>ol</em> a&ubreve; <em>krom</em>:
-       <ekz>
-         la kongreso ne povos elekti ian <tld/>an lingvon krom 
-         lingvo arta<fnt>Z</fnt>;
-       </ekz>
-       <ekz>
+    </dif>
+    <rim>
+      Se <em>alia</em> estas akompanata de negacio, oni povas post
+      &gcirc;i uzi indiferente <em>ol</em> a&ubreve; <em>krom</em>:
+      <ekz>
+        la estonta kongreso tute ne povas elekti ian <tld/>an lingvon krom lingvo arta
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
          via servisto ne alportados plu bruloferojn
-         nek bu&ccirc;oferojn al <tld/>aj
-         dioj krom la Eternulo
+         nek bu&ccirc;oferojn al <tld/>aj dioj krom la Eternulo
          <fnt><bib>MT</bib>, <lok>&Re2; 5:17</lok></fnt>;
-       </ekz>
-       <ekz>
-         ne scii <tld/>an lingvon krom sia propra<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+         ne scii <tld/>an lingvon krom sia propra
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 27</lok>
+        </fnt>;
        </ekz>
        <ekz>
          nia tuta vivo estas nenio <tld/>a ol konstanta incensado 
-         pro lia honoro<fnt>Z</fnt>.
+         pro lia honoro
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
        </ekz>
      </rim>
      <trd lng="ca">altre</trd>
@@ -76,41 +111,64 @@
      <trd lng="ro">alt</trd>
     <trd lng="th">&#3629;&#3639;&#3656;&#3609;</trd>
      <trd lng="tp">ante</trd>
-   </snc>
-   <snc mrk="ali.0a.dua">
-     <dif>
-       Dua el du personoj a&ubreve; grupoj:
-       <ekz>
-         krei malamon inter unuj gentoj kaj <tld/>aj<fnt>Z</fnt>;
-       </ekz>
-       <ekz>
-         unuj ridas, <tld/>aj ploras<fnt>Z</fnt>;
-       </ekz>
-       <ekz>
-         helpi, kompreni unu la <tld/>an<fnt>Z</fnt>;
-       </ekz>
-       <ekz>
-         tiuj fratoj fari&gcirc;is tute fremdaj unuj al
-         <tld/>aj<fnt>Z</fnt>.
-       </ekz>
-     </dif>
+  </snc>
+  <snc mrk="ali.0a.dua">
+    <dif>
+      Dua el du personoj a&ubreve; grupoj:
+      <ekz>
+        krei malamon inter unuj gentoj kaj <tld/>aj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista en Gen&egrave;ve en la 28a de a&ubreve;gusto 1906</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        unu floras, <tld/>a ploras
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kompreni unu la <tld/>an
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Oni devas helpi unu la alian
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiuj fratoj fari&gcirc;is tute fremdaj unuj al
+        <tld/>aj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en Boulogne sur Mer en la 5a de a&ubreve;gusto 1905</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
      <trd lng="ca">altre</trd>
      <trd lng="fr">autre</trd>
      <trd lng="nl">ander</trd>
      <trd lng="pl">drugi</trd>
      <trd lng="pt">outro</trd>
-   </snc>
-   <snc mrk="ali.0a.pron">
+  </snc>
+  <snc mrk="ali.0a.pron">
      <uzo tip="klr">(pronomo)</uzo>
-     <ref tip="dif" cel="ali.0ulo.KOMUNE">aliulo</ref>
-     <ekz>
-       ne kondamnu <tld/>an, oni vin ne
-       kondamnos<fnt><bib>PrV</bib></fnt>;
-     </ekz>
-     <ekz>
-       ne moku mizeron de <tld/>a, &ccirc;ar balda&ubreve; venos
-       via<fnt><bib>PrV</bib></fnt>.
-     </ekz>
+     <dif>
+       <ref tip="dif" cel="ali.0ulo.KOMUNE">Aliulo</ref>:
+       <ekz>
+         ne kondamnu <tld/>an, oni vin ne
+         kondamnos<fnt><bib>PrV</bib></fnt>;
+       </ekz>
+       <ekz>
+         ne moku mizeron de <tld/>a, &ccirc;ar balda&ubreve; venos
+         via<fnt><bib>PrV</bib></fnt>.
+       </ekz>
+     </dif>
      <trd lng="ca">altri</trd>
      <trd lng="es">otra persona</trd>
      <trd lng="fr">autrui</trd>
@@ -163,10 +221,13 @@
          nekomprenite, li metis <tld/>e la demandon;
        </ekz>
        <ekz>
-         paroli ne <tld/>e ol kun ironia rideto<fnt>Z</fnt>.
+         paroli ne <tld/>e ol kun ironia <klr>[&#8230;]</klr> rideto
+        <fnt>
+          <bib>EE</bib>
+        </fnt>.
        </ekz>
-     </dif>
-     <rim>
+    </dif>
+    <rim>
      La radiko <tld/>- kaj &gcirc;iaj fina&jcirc;oj devenantaj de la
      <ref tip="super" cel="tabel.0vorto">tabelvortoj</ref> (-al,
      -am, -el, -es, -om, -u) estas neoficialaj kaj evitindaj: ili
@@ -176,16 +237,15 @@
      ili alportas nenion pli bonan al la lingvo,
      &ccirc;ar klare kompreneblaj samsenca&jcirc;oj
      jam ekzistas: <ekz>alika&ubreve;ze</ekz> anstata&ubreve;
-     <ctl>alial</ctl>,
-     <ekz>alifoje</ekz> a&ubreve;
-     <ekz>aliokaze</ekz> anstata&ubreve; <ctl>aliam</ctl>,
+     &leftquot;<esc>alial</esc>&rightquot;, <ekz>alifoje</ekz> a&ubreve;
+     <ekz>aliokaze</ekz> anstata&ubreve; &leftquot;<esc>aliam</esc>&rightquot;,
      <ekz>alimaniere</ekz> a&ubreve; <ekz>alie</ekz> anstata&ubreve;
-     <ctl>aliel</ctl>, <ekz>aliula</ekz> a&ubreve; <ekz>de alia
+     &leftquot;<esc>aliel</esc>&rightquot;, <ekz>aliula</ekz> a&ubreve; <ekz>de alia
      persono</ekz> anstata&ubreve;
-     <ctl>alies</ctl>, <ekz>alikvante</ekz> anstata&ubreve;
-     <ctl>aliom</ctl>, <ekz>alia</ekz>
-     anstata&ubreve; <ctl>aliu</ctl>.
-     </rim>
+     &leftquot;<esc>alies</esc>&rightquot;, <ekz>alikvante</ekz> anstata&ubreve;
+     &leftquot;<esc>aliom</esc>&rightquot;, <ekz>alia</ekz>
+     anstata&ubreve; &leftquot;<esc>aliu</esc>&rightquot;.
+    </rim>
      <trdgrp lng="bg">
        <trd>&c_r;&c_a;&c_z;&c_l;&c_i;&c_ch;&c_n;&c_o;</trd>,
        <trd>&c_p;&c_o; &c_d;&c_r;&c_u;&c_g;
@@ -232,13 +292,17 @@
        Kontra&ubreve;meta konjunkcio</ref>
        signifanta <ctl>en kontra&ubreve;a okazo</ctl>:
        <ekz>
-         &#8208; tion solan &#8208; diris la dio &#8208; ne tu&scirc;u,
+         tion solan &dash; diris la dio &dash; ne tu&scirc;u,
          <tld/>e vi perdos la tutan ri&ccirc;a&jcirc;on
          <fnt><bib>Far3</bib>, <lok>&ccirc;ap. 8a</lok></fnt>;
        </ekz>
        <ekz>
          <tld/>e oni pensos, ke ni &ccirc;iuj havas tiun
-         ideon<fnt>Z</fnt>.
+         ideon
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista en Gen&egrave;ve en la 28a de a&ubreve;gusto 1906</vrk>
+        </fnt>.
        </ekz>
      </dif>
      <trdgrp lng="bg">
@@ -297,17 +361,31 @@
   </trdgrp>
 </drv>
 
- <drv mrk="ali.0o">
-   <kap><tld/>o</kap>
-   <snc mrk="ali.0o.KOMUNE">
-     <dif>
-       Io <tld/>a:
-       <ekz>
-         tio kaj <tld/>o<fnt>Z</fnt>;
-       </ekz>
-       <ekz>
-         la sperto balda&ubreve; montris tute <tld/>on<fnt>Z</fnt>.
-       </ekz>
+<drv mrk="ali.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ali.0o.KOMUNE">
+    <dif>
+      Io <tld/>a:
+      <ekz>
+         tio kaj <tld/>o
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nek io, nek <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sed <tld/>on volis la sorto
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Fingreto</lok>
+        </fnt>!
+      </ekz>
      </dif>
      <trdgrp lng="th">
        <trd>&#3626;&#3636;&#3656;&#3591;&#3629;&#3639;&#3656;&#3609;</trd>,
@@ -322,7 +400,7 @@
    </trdgrp>
   <trdgrp lng="ca">
      <trd>una altra cosa</trd>,
-     <trd>el contrari <klr>(se kontra&Aring;&#173;a)</klr></trd>
+     <trd>el contrari <klr>(se kontra&Aring;­a)</klr></trd>
    </trdgrp>
   <trd lng="cs">n&ecaron;co jin&eacute;ho</trd>
   <trd lng="en">something else</trd>
@@ -349,23 +427,56 @@
   </trdgrp>
 </drv>
 
- <drv mrk="ali.0igi">
-   <kap><tld/>igi</kap>
-   <gra><vspec>tr</vspec></gra>
-   <snc mrk="ali.0igi.KOMUNE">
+<drv mrk="ali.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="ali.0igi.KOMUNE">
      <dif>
-       Fari ion <tld/>a, &scirc;an&gcirc;i, modifi,
-       <ref tip="vid" cel="form.ali0i.KOMUNE">aliformi</ref>:
+       Fari ion <tld/>a, <ref tip="sin" cel="sxangx.0i.modifi">&scirc;an&gcirc;i</ref>,
+       <ref tip="sin" cel="modif.0i">modifi</ref>,
+       <ref cel="form.ali0i.KOMUNE">aliformi</ref>:
        <ekz>
          por ke oni ne rekonu
-         lin, li <tld/>igis sian vo&ccirc;on.
+         lin, li <tld/>igis sian vo&ccirc;on;
        </ekz>
-     </dif>
-     <trdgrp lng="th">
+      <ekz>
+        tio estas nur kontuzo?... kiel &gcirc;i <tld/>igas la viza&gcirc;on!
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tio ne <tld/>igis la bonan humoron de aliaj: ili batalis kun malica &gcirc;ojo
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per magneto oni <tld/>igas la energistaton de tiuj vapori&gcirc;intaj atomoj
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007024.html"
+              >Tempo: Pli ekzakte ne eblas: Radi-regata horlo&gcirc;o</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la multjarcenta historio multon <tld/>igis
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mihail Korotkov</aut>
+          <vrk><url ref="https://www.monato.be/2013/010760.php"
+              >Plej granda invento de la homaro</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="th">
        <trd>&#3607;&#3635;&#3651;&#3627;&#3657;&#3648;&#3611;&#3655;&#3609;&#3629;&#3618;&#3656;&#3634;&#3591;&#3629;&#3639;&#3656;&#3609;</trd>,
        <trd>&#3648;&#3611;&#3621;&#3637;&#3656;&#3618;&#3609;</trd>
-     </trdgrp>
-   </snc>
+    </trdgrp>
+  </snc>
   <trdgrp lng="be">
      <trd>&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_mol;</trd>,
      <trd>&c_z;&c_mol;&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_mol;</trd>
@@ -415,15 +526,45 @@
   </trdgrp>
 </drv>
 
- <drv mrk="ali.0igxi">
-   <kap><tld/>i&gcirc;i</kap>
-   <gra><vspec>ntr</vspec></gra>
-   <snc mrk="ali.0igxi.KOMUNE">
-     <dif>
-       Fari&gcirc;i <tld/>a.
-     </dif>
-     <trd lng="th">&#3585;&#3621;&#3634;&#3618;&#3648;&#3611;&#3655;&#3609;&#3629;&#3618;&#3656;&#3634;&#3591;&#3629;&#3639;&#3656;&#3609;</trd>
-   </snc>
+<drv mrk="ali.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="ali.0igxi.KOMUNE">
+    <dif>
+      Fari&gcirc;i <tld/>a:
+      <ekz>
+        dum li pre&gcirc;is, la aspekto de lia viza&gcirc;o <tld/>i&gcirc;is
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 9:29</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;io &scirc;an&gcirc;i&gcirc;as, &ccirc;io <tld/>i&gcirc;as
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Nokta &ccirc;apo de fra&ubreve;lo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la publiko komencis ridi, sed subite &gcirc;ia &gcirc;ojo <tld/>i&gcirc;is en krion de teruro
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la malla&ubreve;ta kolero rapide <tld/>i&gcirc;is en malla&ubreve;tajn interkonsili&gcirc;ojn, kiuj e&ccirc;
+        similis konspiron
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="sxangx.0igxi">&scirc;an&gcirc;i&gcirc;i</ref>
+    <trd lng="th">&#3585;&#3621;&#3634;&#3618;&#3648;&#3611;&#3655;&#3609;&#3629;&#3618;&#3656;&#3634;&#3591;&#3629;&#3639;&#3656;&#3609;</trd>
+  </snc>
    <trd lng="be">&c_z;&c_mol;&c_m;&c_ja;&c_n;&c_ib;&c_c;&c_c;&c_a;</trd>
    <trdgrp lng="de">
      <trd><klr>sich </klr>&auml;ndern</trd>,
@@ -455,7 +596,7 @@
      </trd>
    </trdgrp>
    <trd lng="sk">zmeni&tcaron; sa</trd>
- </drv>
+</drv>
 
 <drv mrk="ali.0ulo">
   <kap><tld/>ulo</kap>
@@ -463,6 +604,34 @@
     <dif>
       <tld lit="A"/>a homo;
       <ref tip="sin" cel="ali.0a.pron">alia<sncref/></ref>:
+      <ekz>
+        lasante sian bruton, ke &gcirc;i difektu kampon de <tld/>ulo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 22:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sekreton de <tld/>ulo ne malka&scirc;u
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 25:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        iliaj domoj transiros al <tld/>uloj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 6:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        agu kun <tld/>uloj tiel, kiel vi dezirus, ke <tld/>uloj agu kun vi
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Homaranismo</vrk>
+        </fnt>;
+      </ekz>
       <ekz>
         diras la proverbo, ke <tld/>ula sperto lernigas neniun
         <fnt>
@@ -483,7 +652,31 @@
   <kap>inter<tld/>e</kap>
   <snc mrk="ali.inter0e.KOMUNE">
     <dif>
-      Inter <tld/>aj aferoj.
+      Inter <tld/>aj aferoj:
+      <ekz>
+        inter<tld/>e la interparolado ektu&scirc;is anka&ubreve; la epokon de la mezaj jarcentoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        terure multe da paka&jcirc;o li trenis kun si, inter<tld/>e anka&ubreve; anglan plugilon
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Dekdu per la po&scirc;to</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la a&ubreve;torino esploris kelkajn en-esperantigojn, inter<tld/>e en la libro &leftquot;Nuda
+        inter lupoj&rightquot; tradukita el la germana
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Boris Kolker</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/006813.html"
+              >Sa&gcirc;a kapo duonvorton komprenas</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
     <trdgrp lng="th">
       <trd>&#3607;&#3656;&#3634;&#3617;&#3585;&#3621;&#3634;&#3591;&#3626;&#3636;&#3656;&#3591;&#3629;&#3639;&#3656;&#3609;</trd>,
@@ -532,7 +725,18 @@
       Sendistinge kun <tld/>a&jcirc;oj:
       <ekz>
         kredeble mi metis &gcirc;in kun<tld/>e en mian
-        pakon<fnt>Z</fnt>.
+        pakon
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Folio el la &ccirc;ielo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        feino, kies perlo kun<tld/>e apartenas al la plej bonaj donoj de la vivo
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Lasta perlo</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -556,6 +760,12 @@
  </art>
  <!--
  $Log: ali.xml,v $
+ Revision 1.52  2019/11/03 12:10:15  revo
+ Wolfram Diestel: +ekz-oj
+
+ Revision 1.51  2019/11/02 23:10:19  revo
+ Wolfram Diestel: fnt-oj
+
  Revision 1.50  2017/07/14 17:10:14  revo
  Vito Redsky: +trd ro
 
@@ -622,33 +832,5 @@
  Revision 1.29  2005/10/07 16:31:05  revo
  Lluis Batlle i Rossell: +trd ca; korekto de ordo de trd en
 
- Revision 1.28  2005/06/21 16:31:18  revo
- Sergio Pokrovskij: +ekz
-
- Revision 1.27  2005/06/17 17:20:24  revo
- Sergio Pokrovskij: dif ~e
-
- Revision 1.26  2004/05/25 16:32:35  revo
- Allon Rothfarb: korekta => ghusta; +trd he
-
- Revision 1.25  2003/11/13 18:50:03  revo
- Bart Demeyere: +mrkoj
-
- Revision 1.24  2003/03/11 17:32:18  revo
- Ulrich Fellmann: + 1 trd = vo
-
- Revision 1.23  2003/01/30 19:02:39  revo
- Ulrich Fellmann: forigo de duobla trd = de
-
- Revision 1.22  2003/01/29 17:32:18  revo
- Ulrich Fellmann: + 8 pliaj trd = de
-
- Revision 1.21  2002/10/23 20:37:31  revo
- aktualigo de malnovaj fnt-indikoj enkondukante <bib>
-
- Revision 1.20  2002/10/01 16:36:04  revo
- Christopher Zervic: + ang
-
- Revision 1.19  2002/09/10 17:32:57  revo
  -->
 </vortaro>

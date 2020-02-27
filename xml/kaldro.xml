@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kaldro.xml,v 1.31 2019/02/08 23:10:39 revo Exp $">
+<art mrk="$Id: kaldro.xml,v 1.33 2019/06/30 18:21:02 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>kaldron</rad>/o
@@ -59,7 +59,7 @@
           <bib>Monato</bib>
           <aut>Vja&ccirc;eslav (Slavik) Ivanov</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2003/007865.html">La oseta
+          ref="https://www.monato.be/2003/007865.html">La oseta
           lingvo</url></vrk>
           <lok>2003</lok>
         </fnt>;
@@ -167,7 +167,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Isikawa Takasi</aut>
-          <vrk><url ref="http://www.monato.net/2015/011447.php">Kiam
+          <vrk><url ref="&Monato;/2015/011447.php">Kiam
           tremetoj fari&gcirc;as tremegoj</url></vrk>
           <lok>2015</lok>
         </fnt>.
@@ -292,6 +292,12 @@ formon kaj i&gcirc;is
 </art>
 <!--
 $Log: kaldro.xml,v $
+Revision 1.33  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
+Revision 1.32  2019/06/30 07:42:48  revo
+adaptis URL de Monato
+
 Revision 1.31  2019/02/08 23:10:39  revo
 Vito Redsky: +trd pl +trd ro
 

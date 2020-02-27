@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ond.xml,v 1.25 2015/11/18 15:10:15 revo Exp $">
+<art mrk="$Id: ond.xml,v 1.27 2019/08/30 18:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ond</rad>/o
@@ -13,8 +13,7 @@
   <snc mrk="ond.0o.akva">
     <dif>
       Akvomaso, kiu levi&gcirc;as kaj refalas &ccirc;e supra&jcirc;o de maro, lago a&ubreve;
-      rivero
-      blovata de vento; akvo&scirc;velo:
+      rivero, alblovata de vento; akvo&scirc;velo:
       <ekz>
         la <tld/>oj alfrapas, alpla&ubreve;das la rokojn;
       </ekz>
@@ -327,7 +326,7 @@
     <trd>to wave <klr>(hair)</klr></trd>,
     <trd>corrugate <klr>(tin)</klr></trd>
   </trdgrp>
-  <trd lng="es">ondular</trd>
+  <trd lng="es">hacer <ind>ondear</ind></trd>
   <trd lng="fr">faire <ind>onduler</ind></trd>
   <trdgrp lng="hu">
     <trd>hull&aacute;mos&iacute;t</trd>,
@@ -344,6 +343,53 @@
   </trdgrp>
 </drv>
 
+<drv mrk="ond.dis0o">
+  <kap>dis<tld/>o</kap>
+  <snc mrk="ond.dis0o.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      <ref cel="sulk.0o.KOMUNE">sulko<sncref/></ref>,
+      kiun &scirc;ipo lasas malanta&ubreve; si.
+    </dif>
+  </snc>
+  <trd lng="cs">rozbr&aacute;zd&ecaron;n&iacute; vody k&yacute;lem</trd>
+  <trd lng="de">Kielwasser</trd>
+  <trd lng="en">wake</trd>
+  <trd lng="es">estela</trd>
+  <trd lng="fr">sillage</trd>
+  <trdgrp lng="hu">
+    <trd>haj&oacute;sodor</trd>,
+    <trd>nyomdokv&iacute;z</trd>
+  </trdgrp>
+  <trd lng="nl">kielzog</trd>
+  <trd lng="ru">&c_k;&c_i;&c_l;&c_mol;&c_v;&c_a;&c_t;&c_je;&c_r;&c_n;&c_a;&c_ja; &c_s;&c_t;&c_r;&c_u;&c_ja;</trd>
+  <trd lng="sk">br&aacute;zda <klr>(na vode po lodi)</klr></trd>
+</drv>
+
+<drv mrk="ond.mar0ego">
+  <kap>mar<tld/>ego</kap>
+  <snc mrk="ond.mar0ego.MET">
+    <uzo tip="fak">MAR</uzo>
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      Tre alta, dan&gcirc;era mara <tld/>o, en ekstrema formo
+      <ref tip="dif" cel="cunam.0o">cunamo</ref>:
+      <ekz>
+        fortika konstrua&jcirc;o eltenu fortojn de ventoj, tertremoj, 
+        mar<tld/>egoj
+        <fnt>
+          <aut>GrizaLeono</aut>
+          <vrk><url ref="https://tatoeba.org/epo/sentences/show/988569">
+          Tatoeba, frazo 988569a</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">tsunami</trd>
+  <trd lng="fr">tsunami</trd>
+</drv>
+
 <drv mrk="ond.0obanejo">
   <kap><tld/>obanejo</kap>
   <fnt><bib>KrED</bib></fnt>
@@ -355,6 +401,7 @@
   </snc>
   <trd lng="de">Wellenbad</trd>
   <trd lng="en">whirlpool bath</trd>
+  <trd lng="es">piscina de olas</trd>
   <trd lng="fr">bain &agrave; remous</trd>
   <trd lng="hu">hull&aacute;mf&uuml;rd&odblac;</trd>
   <trd lng="nl">golfbad</trd>
@@ -377,6 +424,10 @@
   <trdgrp lng="en">
     <trd>watered <klr>(watered silk)</klr></trd>,
     <trd>moir&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>iridiscente</trd>,
+    <trd>centelleante</trd>
   </trdgrp>
   <trd lng="fr">chatoyant</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_l;&c_i;&c_v;&c_a;&c_ju;&c_shch;&c_i;&c_j;&c_s;&c_ja;</trd>
@@ -401,6 +452,7 @@
      <trd>wellenf&ouml;rmig</trd>,
      <trd>wellig</trd>
   </trdgrp>
+  <trd lng="es">l&iacute;nea de ondulaci&oacute;n</trd>
   <trdgrp lng="fr">
     <trd>ondul&eacute;</trd>,
     <trd>vallonn&eacute;</trd>
@@ -415,30 +467,15 @@
     <trd>&c_v;&c_o;&c_l;&c_n;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
 </drv>
-
-<drv mrk="ond.dis0o">
-  <kap>dis<tld/>o</kap>
-  <snc mrk="ond.dis0o.MAR">
-    <uzo tip="fak">MAR</uzo>
-    <dif>
-      Sulko, kiun &scirc;ipo lasas malanta&ubreve; si.
-    </dif>
-  </snc>
-  <trd lng="cs">rozbr&aacute;zd&ecaron;n&iacute; vody k&yacute;lem</trd>
-  <trd lng="de">Kielwasser</trd>
-  <trd lng="en">wake</trd>
-  <trd lng="fr">sillage</trd>
-  <trdgrp lng="hu">
-    <trd>haj&oacute;sodor</trd>,
-    <trd>nyomdokv&iacute;z</trd>
-  </trdgrp>
-  <trd lng="nl">kielzog</trd>
-  <trd lng="ru">&c_k;&c_i;&c_l;&c_mol;&c_v;&c_a;&c_t;&c_je;&c_r;&c_n;&c_a;&c_ja; &c_s;&c_t;&c_r;&c_u;&c_ja;</trd>
-  <trd lng="sk">br&aacute;zda <klr>(na vode po lodi)</klr></trd>
-</drv>
 </art>
 <!--
 $Log: ond.xml,v $
+Revision 1.27  2019/08/30 18:10:15  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.26  2019/04/17 22:10:21  revo
+Jeromo Vasxe: + mar~ego
+
 Revision 1.25  2015/11/18 15:10:15  revo
 Cindy Moon McKee: +trd en
 
@@ -455,11 +492,5 @@ Revision 1.21  2012/10/23 00:13:16  revo
 Neil Roberts: aldonu la etikedon <var>
 
 Revision 1.20  2009/10/15 16:32:50  revo
-Paul Peeraerts: +nl
-
-Revision 1.19  2007/09/03 16:30:21  revo
-Wieland Pusch: +trd de
-
-Revision 1.18  2006/05/07 16:32:06  revo
 -->
 </vortaro>

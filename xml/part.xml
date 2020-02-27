@@ -2,9 +2,9 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: part.xml,v 1.59 2018/05/31 08:10:13 revo Exp $">
+<art mrk="$Id: part.xml,v 1.67 2019/09/27 07:10:17 revo Exp $">
 <kap>
-  <ofc>*</ofc><rad>part</rad>/o <fnt><bib>PV</bib></fnt>
+  <ofc>*</ofc><rad>part</rad>/o
 </kap>
 
 <drv mrk="part.0o">
@@ -15,29 +15,49 @@
       a&ubreve; per vido, a&ubreve; per efektiva disigo:
       <ekz>
         la kvin <tld/>oj de la mondo;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         la diversaj <tld/>oj de la korpo;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         distran&ccirc;i kukon en ses <tld/>ojn;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         lasta <tld/>o de la programo;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         &scirc;iru vin en du <tld/>ojn, la mondo trian
         postulos
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        por <tld/>on da homoj liberigi de unu facila regulo devigi
-        multe pli grandan <tld/>on da aliaj homoj lerni multajn
-        regulojn<fnt>Z</fnt>.
+        lia verko, krom la <tld/>oj rusa, pola, franca kaj germana,
+        enhavu anka&ubreve; parton
+        Esperantan
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por <tld/>on da homoj liberigi de <klr>[&#8230;]</klr> unu tre facila
+        regulo <klr>[&#8230;]</klr>
+        multe pli grandan <tld/>on da aliaj homoj devigi lerni
+        <klr>[&#8230;]</klr> multajn
+        regulojn
+        <fnt>
+          <bib>LR</bib>
+          <lok>4. Fonetiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pagi sian <tld/>on de la a&ccirc;etprezo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url
+          ref="https://www.monato.be/2008/009505.php">Kreditkrizo
+          da&ubreve;ras</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="er1.0o">ero</ref>,
+      <ref cel="er.0o">ero</ref>,
       <ref cel="fragme.0o">fragmento</ref>,
       <ref cel="pec.0o">peco</ref>,
       <ref cel="pagx.0o">pa&gcirc;o</ref>,
@@ -54,11 +74,94 @@
   </snc>
   <snc mrk="part.0o.porcio">
     <dif>
-      Io, kion iu rajtas postuli el tuto, kiun oni dividas inter pluraj
+      Io, kion iu rajtas postuli el tuto, kiun oni <ref
+      cel="divid.0i.preni">dividas</ref> inter pluraj
       personoj:
       <ekz>
-        disdoni al &ccirc;iu lian <tld/>on de kuko, al &ccirc;iu frato lian
-        heredan <tld/>on<fnt>Z</fnt>.
+        preni sian <tld/>on
+        <fnt>
+          <bib>MT</bib>
+          <lok>Predikanto 5:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al &ccirc;iu frato lian <tld/>on
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Rubenidoj kaj la Gadidoj prenis sian heredan <tld/>on, kiun
+        donis al ili Moseo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Josuo 13:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u ni havas ankora&ubreve; <tld/>on kaj heredon en la domo de nia patro
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 31:14</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        la kapa <tld/>o de la lito
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 47:31</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li forkondukis la &scirc;afojn en malproksiman <tld/>on de la dezerto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 3:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> lo&gcirc;as en la suda <tld/>o de la lando
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 13:29</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        superflua pendanta <tld/>o de la tapi&scirc;oj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 26:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia kapo senhari&gcirc;as sur la anta&ubreve;a <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 13:41</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi alportos el tio la plej bonan <tld/>on
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 18:30</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi donas al li<klr>[&#8230;]</klr> lian <tld/>on de la akiro
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        metu sur lin <tld/>on de via majesto, por ke a&ubreve;skultu lin la
+        tuta komunumo de la
+        Izraelidoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 27:20</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -119,12 +222,53 @@
     <dif>
       Estanta nur <tld/>o de tuto:
       <ekz>
-        <ind><tld/>a pago</ind>, eklipso.
+        <ind><tld/>a pago</ind>, eklipso;
         <trdgrp lng="es">
           <trd>parte del pago</trd>,
           <trd>pago parcial</trd>
         </trdgrp>
         <trd lng="hu">r&eacute;szfizet&eacute;s</trd>
+      </ekz>
+      <ekz>
+        tiu <tld/>a bonstati&gcirc;o kostis kaj plu kostas terure multe
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hektor Alos i Font</aut>
+          <vrk><url
+          ref="https://www.monato.be/2003/007996.html">Socialismo sen
+          masko (2)</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        30-jara&gcirc;a vilniusano <klr>[&#8230;]</klr> jam trairis <tld/>an
+        operacion pri seks-&scirc;an&gcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url
+          ref="https://www.monato.be/2005/008756.php">Malfacilas duoble
+          vivi</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jam aperis almena&ubreve; sep esperantaj versioj, &ccirc;u kompletaj, &ccirc;u
+        <tld/>aj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="https://www.monato.be/2007/009081.php">Klasika
+          versa romano</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        japanaj kompanioj anstata&ubreve;igas plentempajn laboristojn per
+        <tld/>atempaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo</aut>
+          <vrk><url ref="https://www.monato.be/2008/009558.php">Mankas
+          mono, mankas sano</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
     <trd lng="de">teilweise</trd>
@@ -190,56 +334,139 @@
   <trd lng="sk">&ccaron;iastkov&yacute;</trd>
 </drv>
 
+<drv mrk="part.0e">
+  <kap>
+    <tld/>e
+  </kap>
+  <snc>
+    <dif>
+      Ne <ref tip="ant" cel="tut.0e">tute</ref>:
+      <ekz>
+        mi <tld/>e kredas tion
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Korintanoj 11:18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi ja <tld/>e prikonsentis
+        <fnt>
+          <bib>NT</bib>
+          <lok>II. Korintanoj 1:14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la malsano povas konduki al komplika&jcirc;oj, kiuj <tld/>e donas
+        nerebonigeblajn
+        &scirc;an&gcirc;ojn
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sa&gcirc;aj estas viaj vortoj <klr>[&#8230;]</klr>, sed nur <tld/>e mi scios
+        respondi ilin
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e el marmoro, <tld/>e el gipso
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Najbaraj familioj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la bildo &jcirc;etis supren sur la muron longan ombron, kiu <tld/>e
+        etendi&gcirc;is ankora&ubreve;
+        sur la plafonon
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Dano Holger</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">teilweise</trd>
+  <trd lng="en">partially</trd>
+</drv>
+
 <drv mrk="part.0ajxo">
   <kap><tld/>a&jcirc;o</kap>
   <fnt><bib>PIV2</bib></fnt>
   <uzo tip="stl">RAR</uzo>
-  <snc>
+  <snc mrk="part.0ajxo.kvoto">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="dif" cel="part.0o.porcio">Parto<sncref/></ref>, <ref
+      tip="dif" cel="kvot.0o">kvoto</ref>:
+      <ekz>
+        en la miksitaj kotizoj la varia <tld/>a&jcirc;o sekvos la fiksan pagon
+        <fnt>
+          <vrk><url
+          ref="https://inmobiliariagratuita.com/eo/same-kiel-la-miksitaj-hipotekoj-donitaj-en-Hispanio/"
+          >Kiel estas la miksitaj hipotekoj en Hispanio?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Anteil</trd>
+  </snc>
+  <snc mrk="part.0ajxo.TIP">
     <uzo tip="fak">TIP</uzo>
     <dif>
-      Parto de teksto.
+      <ref tip="super" cel="part.0o.KOMUNE">Parto<sncref/></ref>,
+      eltira&jcirc;o de teksto:
+      <ekz>
+        fine oni ne povis fiksi la tekston de <tld/>a&jcirc;o 6 kaj la afero
+        restas ne-decidita
+        <fnt>
+          <vrk><url
+          ref="http://rikukivela.puheenvuoro.uusisuomi.fi/266425-kial-oni-permesas-singapuron-esti-evolulando-en-un-plu-en-2018"
+          >Kial oni permesas Singapuron esti evolulando en UN
+          plu</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
+    <ref tip="sin" cel="ekstra.0o.TIP">ekstrakto<sncref/></ref>
+    <trdgrp lng="be">
+      <trd>&c_u;&c_r;&c_y;&c_v;&c_a;&c_k;</trd>,
+      <trd>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;
+      <klr>(&c_t;&c_e;&c_k;&c_s;&c_t;&c_u;)</klr></trd>
+    </trdgrp>
+    <trd lng="de">Auszug</trd>
+    <trd lng="es">parte de un texto</trd>
+    <trd lng="pl">ust&eogonek;p<klr> tekstu</klr></trd>
   </snc>
-  <trdgrp lng="be">
-    <trd>&c_u;&c_r;&c_y;&c_v;&c_a;&c_k;</trd>,
-    <trd>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a; <klr>(&c_t;&c_e;&c_k;&c_s;&c_t;&c_u;)</klr></trd>
-  </trdgrp>
-  <trd lng="pl">ust&eogonek;p<klr> tekstu</klr></trd>
 </drv>
 
 <drv mrk="part.0igi">
-  <kap><tld/>igi, <var><kap><tld/>umi</kap></var></kap>
+  <kap><tld/>igi</kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="part.0igi.enPartojn">
     <dif>
-      Dividi en <tld/>ojn
-    </dif>
-    <refgrp tip="sin">
-      <ref cel="divid.0i.partigi">dividi<sncref/></ref>.
-    </refgrp>
-  </snc>
-  <snc mrk="part.0igi.disdoni">
-    <dif>
-      Disdoni al &ccirc;iu sian <tld/>on:
+      Dividi en <tld/>ojn:
       <ekz>
-        mi volas <klr>...</klr> <tld/>umi
-        plezuron, doloron kun Vi
+         <tld/>igi laboron <fnt><bib>VdE</bib></fnt>;
+      </ekz>
+      <ekz>
+        la librobretaro &ccirc;irka&ubreve;e estis <tld/>igita je multaj diversaj
+        kategorioj, kiuj
+        estis markitaj de &scirc;ildoj
         <fnt>
-          <aut>E. Mi&hcirc;alski</aut>,
-          <vrk>Prologo</vrk>,
-          <lok>1929</lok>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>Drako por Heroo Hinreko</lok>
         </fnt>.
       </ekz>
     </dif>
     <refgrp tip="sin">
-      <ref cel="divid.0i.disdoni">dividi<sncref/></ref>.
+      <ref cel="part.dis0igi">dis<tld/>igi</ref>,
+      <ref cel="divid.0i.partigi">dividi<sncref/></ref>
     </refgrp>
   </snc>
   <trd lng="be">&c_d;&c_z;&c_ja;&c_l;&c_ib;&c_c;&c_mol;</trd>
-  <trdgrp lng="cs">
-    <trd>participovat</trd>,
-    <trd>&uacute;&ccaron;astnit se</trd>
-  </trdgrp>
   <trdgrp lng="es">
     <trd>repartir</trd>
     <trd>dividir<klr tip="ind"> (repartir)</klr></trd>
@@ -254,11 +481,85 @@
     <trd>rozdzieli&cacute;</trd>,
     <trd>podzieli&cacute;<klr> na cz&eogonek;&sacute;ci</klr></trd>
   </trdgrp>
-  <trd lng="ru">&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol; &c_n;&c_a; &c_ch;&c_a;&c_s;&c_t;&c_i;</trd>
-  <trdgrp lng="sk">
-    <trd>participova&tcaron;</trd>,
-    <trd>&uacute;&ccaron;astni&tcaron; sa</trd>
-  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol;<klr tip="ind"> (&c_n;&c_a; &c_ch;&c_a;&c_s;&c_t;&c_i;)</klr></trd>
+</drv>
+
+<drv mrk="part.0umi">
+  <kap><tld/>umi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="part.0umi.kunhavi">
+    <dif>
+      <ref tip="sin" cel="hav.kun0i.komune">Kunhavi<sncref/></ref>
+      la samajn sentojn, ideojn, spertojn a&ubreve; aliajn aferojn
+      kiel iuj aliaj homoj:
+      <ekz>
+        mi volas <klr>[&#8230;]</klr> <tld/>umi
+        plezuron, doloron kun Vi
+        <fnt>
+          <aut>E. Mi&hcirc;alski</aut>: <vrk>Prologo</vrk>,
+          <lok>1929</lok>
+        </fnt>;
+      </ekz><ekz>
+        Lingva grupo estas &ccirc;iu homa kolektivo kiu <tld/>umas saman
+        lingvon kaj situas en la teritoria spaco de alia lingva
+        komunumo, tamen sen ekvivalenta historieco
+        <fnt>
+          <bib>LOdE</bib>
+          <vrk>Universala Deklaracio de la Lingvaj Rajtoj</vrk>,
+          <lok>art. 1, &para;5</lok>
+         </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="divid.0i.kunhavi">dividi<sncref/></ref>
+    <trd lng="en">share</trd>
+    <trd lng="ru">&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_ja;&c_t;&c_mol;<klr tip="ind"> (&c_ch;&c_u;&c_v;&c_s;&c_t;&c_v;&c_a; &c_i; &c_t;.&c_p;.)</klr></trd>
+  </snc>
+  <snc mrk="part.0umi.partopreni">
+    <dif>
+      <ref tip="dif" cel="part.0opreni"><tld lit="P"/>opreni</ref>:
+      <ekz>
+        ni ne povis trankvile resti kaj preferis tute ne <tld/>umi, ni
+        do malali&gcirc;is perdante ali&gcirc;kotizon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bert Schumann</aut>:
+          <vrk>GK UEA: Kie denaskaj infanoj kune ludas</vrk>;
+         </fnt>
+      </ekz>
+      <ekz>
+        venis <klr>[&#8230;]</klr> diversspecaj aventuremuloj <klr>[&#8230;]</klr>
+        por <tld/>umi en
+        la evento
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Ar&gcirc;enta Urbo Amarganto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="cs">
+      <trd>participovat</trd>,
+      <trd>&uacute;&ccaron;astnit se</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>repartir</trd>
+      <trd>dividir<klr tip="ind"> (repartir)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>partager</trd>,
+      <trd>diviser<klr tip="ind"> (partager)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">feloszt</trd>
+    <trd lng="nl">verdelen</trd>
+    <trdgrp lng="sk">
+      <trd>participova&tcaron;</trd>,
+      <trd>&uacute;&ccaron;astni&tcaron; sa</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="part.0umi.partigi">
+    <uzo tip="stl">ARK</uzo>
+    <ref tip="dif" cel="part.0igi"><tld/>igi</ref>
+  </snc>
 </drv>
 
 <drv mrk="part.0umo">
@@ -271,7 +572,17 @@
       Pozitiva <ref tip="super" cel="frakci.0o.MAT">frakcio</ref> pli
       malgranda ol unu:
       <ekz>
-        <frm>&#8532;</frm>, <frm>&#8540;</frm>.
+        <tld/>umoj <frm>&#8532;</frm>, <frm>&#8540;</frm>;
+      </ekz>
+      <ekz>
+        la meza anomaliangulo estas <klr>[&#8230;]</klr> la <tld/>umo de la
+        periodo kiu
+        elfluis ekde la lasta pasado en periapsido
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=388773"
+              >Meza anomaliangulo</url></lok>
+        </fnt>.
       </ekz>
     </dif>
     <adm>
@@ -283,7 +594,8 @@
   <trd lng="es">fracci&oacute;n propia</trd>
   <trd lng="hu">pozit&iacute;v t&ouml;rt</trd>
   <trd lng="pl">u&lstroke;amek</trd>
-  <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_d;&c_r;&c_o;&c_b;&c_mol;</trd>
+  <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+  &c_d;&c_r;&c_o;&c_b;&c_mol;</trd>
   <trd lng="sk">prav&yacute; zlomok</trd>
 </drv>
 
@@ -292,13 +604,12 @@
   <uzo tip="stl">RAR</uzo>
   <snc mrk="part.mal0o.KOMUNE">
     <dif>
-      Nocio inversa al <ctl><tld/>o</ctl>: tiu tuto, pri kies
+      Tiu tuto, pri kies
       <tld/>o temas:
       <ekz>
         por la nocio <ctl>somero</ctl>, <ctl>sezono</ctl> estas
         supernocio, kaj <ctl>jaro</ctl> estas mal<tld/>o;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         malofta escepto estas nomi Usonon per ties mal<tld/>o
         <ctl>Ameriko</ctl>
         <fnt>
@@ -308,6 +619,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <ref tip="vid" cel="uj.0o">ujo</ref>
   </snc>
   <rim>
     Kvankam <ref tip="sin" cel="tut.0o">tuto</ref> formale estas
@@ -326,13 +638,43 @@
     <dif>
       Preni sian <tld/>on de io:
       <ekz>
-        <tld/>opreni en kongreso, en la profitoj;
+        <tld/>opreni en festo kaj &gcirc;ojo
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Kolo de botelo</lok>
+        </fnt>;
+      </ekz><ekz>
+        <tld/>opreni festenon, la &gcirc;ojon;
       </ekz>
       <ekz>
-        <tld/>opreni je festeno, je la komuna &gcirc;ojo;
+        vi ne povas <tld/>opreni &ccirc;e la tablo de la Sinjoro
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Korintanoj 10:21</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>opreni festenon, la &gcirc;ojon.
+        la laboranta terkultivisto devas la unua <tld/>opreni en la
+        fruktoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>II. Timoteo 2:6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vi deziras anka&ubreve; en &ccirc;i tiu nokto <tld/>opreni en edzi&gcirc;ofesto
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Dio de dormo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kelkaj <klr>[&#8230;]</klr> membroj e&ccirc; <tld/>oprenis en la maldecaj
+        &scirc;ercoj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -345,13 +687,50 @@
   </snc>
   <snc mrk="part.0opreni.kunhelpi">
     <dif>
-      Kunhelpi, kunpeni por plenumado de io:
+      <ref tip="dif" cel="help.kun0i">Kunhelpi</ref>, kunpeni por
+      plenumado de io:
       <ekz>
         <tld/>opreni laboron, en iu
         laboro, en komploto;
+      </ekz><ekz>
+        la hazardo multe <tld/>oprenis en la sukceso;
       </ekz>
       <ekz>
-        la hazardo multe <tld/>oprenis en la sukceso.
+        dividu la prenita&jcirc;on po duono inter tiuj, kiuj <tld/>oprenis en
+        la milito
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 31:27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>oprenis anka&ubreve; en la laborado &ccirc;e tiu murego
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ne&hcirc;emja 5:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ne <tld/>oprenis en ilia petolado
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Cikonioj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        duono de la kortego <tld/>oprenis en la mar&scirc;ado
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>La najtingalo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Johano ilin sekvis, <tld/>oprenis en la kantado de sanktaj
+        kantoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -376,7 +755,13 @@
     <dif>
       Simpatii, kompati:
       <ekz>
-        ni <tld/>oprenas vian funebron.
+        ni <tld/>oprenas vian funebron;
+      </ekz>
+      <ekz>
+        vi <tld/>oprenis en doloro mia
+        <fnt>
+          <bib>Ifigenio</bib>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -409,7 +794,8 @@
   <trd lng="nl">deelnemen</trd>
   <trdgrp lng="ru">
     <trd>&c_u;&c_ch;&c_a;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
-    <trd>&c_p;&c_r;&c_i;&c_n;&c_ja;&c_t;&c_mol; &c_u;&c_ch;&c_a;&c_s;&c_t;&c_i;&c_je;</trd>
+    <trd>&c_p;&c_r;&c_i;&c_n;&c_ja;&c_t;&c_mol;
+    &c_u;&c_ch;&c_a;&c_s;&c_t;&c_i;&c_je;</trd>
   </trdgrp>
   <trd lng="sk">z&uacute;&ccaron;astni&tcaron; sa</trd>
 </drv>
@@ -421,34 +807,49 @@
       Disigi en <tld/>ojn:
       <ekz>
         dis<tld/>igu al vi la landon per loto konforme al viaj familioj
-        <fnt><bib>MT</bib>, <lok>&Nom; 33:54</lok></fnt>.
+        <fnt><bib>MT</bib>, <lok>&Nom; 33:54</lok></fnt>;
+      </ekz>
+      <ekz>
+        la doganistoj tuj eniris la a&ubreve;ton kaj komencis dis<tld/>igi la
+        malanta&ubreve;an
+        sidlokon
+        <fnt>
+          <bib>Monato</bib>
+          <lok><url ref="http://steloj.de/esperanto/monato2/007050.html"
+              >http://steloj.de/esperanto/monato2/007050.html</url></lok>
+        </fnt>.
       </ekz>
     </dif>
-    <subsnc mrk="part.dis0igi.KOMP">
-      <uzo tip="fak">KOMP</uzo>
-      <dif>
-        Apartigi logikajn pecojn de memoro a&ubreve; datumo, ebligante
-        trakti ilin samrange kiel la tuton:
-        <ekz>
-          <ind>dis<tld/>igi</ind>
-          <ref cel="disk.fiksita_0o.KOMP">fiksitan diskon</ref> en
-          <ref cel="disk.sub0o">subdiskojn</ref>
-          <frm>C:</frm> kaj <frm>D:</frm>;
-          <trd lng="ru">&c_r;&c_a;&c_z;&c_b;&c_i;&c_t;&c_mol; &c_n;&c_a;
-            <ind>&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_y;</ind></trd>
-        </ekz>
-        <ekz>
-          <ind>dis<tld/>igi tabelon</ind> per sekcoj;
-          <trd lng="ru">&c_r;&c_a;&c_z;&c_b;&c_i;&c_t;&c_mol; &c_n;&c_a;
-            <ind>&c_s;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_ja;</ind></trd>
-        </ekz>
-        <ekz>
-          dis<tld/>igi <ref cel="datum.0bazo">datumbazon</ref>
-          la&ubreve; valoro de &ccirc;ef&scirc;losilo.
-        </ekz>
-      </dif>
-      <trd lng="en">to <ind>partition</ind></trd>
-    </subsnc>
+    <trdgrp lng="de">
+       <trd>zerteilen</trd>,
+       <trd>auseinander nehmen</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="part.dis0igi.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Apartigi logikajn pecojn de memoro a&ubreve; datumo, ebligante
+      trakti ilin samrange kiel la tuton:
+      <ekz>
+        <ind>dis<tld/>igi</ind>
+        <ref cel="disk.fiksita_0o.KOMP">fiksitan diskon</ref> en
+        <ref cel="disk.sub0o">subdiskojn</ref>
+        <frm>C:</frm> kaj <frm>D:</frm>;
+        <trd lng="ru">&c_r;&c_a;&c_z;&c_b;&c_i;&c_t;&c_mol; &c_n;&c_a;
+          <ind>&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_y;</ind></trd>
+      </ekz>
+      <ekz>
+        <ind>dis<tld/>igi tabelon</ind> per sekcoj;
+        <trd lng="ru">&c_r;&c_a;&c_z;&c_b;&c_i;&c_t;&c_mol; &c_n;&c_a;
+          <ind>&c_s;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_ja;</ind></trd>
+      </ekz>
+      <ekz>
+        dis<tld/>igi <ref cel="datum.0bazo">datumbazon</ref>
+        la&ubreve; valoro de &ccirc;ef&scirc;losilo.
+      </ekz>
+    </dif>
+    <trd lng="de">partitionieren</trd>
+    <trd lng="en">to <ind>partition</ind></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_d;&c_z;&c_ja;&c_l;&c_ib;&c_c;&c_mol;</trd>,
@@ -485,7 +886,26 @@
   <kap>dis<tld/>igo</kap>
   <snc mrk="part.dis0igo.KOMUNE">
     <dif>
-      Ago dis<tld/>igi; rezulto a&ubreve; maniero de tiu ago.
+      Ago dis<tld/>igi; rezulto a&ubreve; maniero de tiu ago:
+      <ekz>
+        Serbio komencis disdividon kaj dis<tld/>igon de Kosovo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="https://www.monato.be/2003/008080.html"
+              >Kosovo kaj Serbio &ccirc;e vojkruci&gcirc;o</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        infektado de homoj povis okazi <klr>[&#8230;]</klr> dum dis<tld/>igo
+        de bestkorpoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="https://www.monato.be/2004/008160.html"
+              >Afriko kaj aidoso</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
     <trdgrp lng="be">
       <trd>&c_d;&c_z;&c_ja;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
@@ -574,9 +994,12 @@
     </rim>
   </snc>
   <trdgrp lng="be">
-    <trd>&c_z;&c_a;&c_l;&c_a;&c_t;&c_o;&c_je; &c_s;&c_ja;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
-    <trd>&c_z;&c_a;&c_l;&c_a;&c_t;&c_a;&c_ja; &c_p;&c_r;&c_a;&c_p;&c_o;&c_r;&c_c;&c_y;&c_ja;</trd>,
-    <trd>&c_g;&c_a;&c_r;&c_m;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_a;&c_je; &c_d;&c_z;&c_ja;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trd>&c_z;&c_a;&c_l;&c_a;&c_t;&c_o;&c_je;
+    &c_s;&c_ja;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_z;&c_a;&c_l;&c_a;&c_t;&c_a;&c_ja;
+    &c_p;&c_r;&c_a;&c_p;&c_o;&c_r;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_g;&c_a;&c_r;&c_m;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_a;&c_je;
+    &c_d;&c_z;&c_ja;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
   </trdgrp>
   <trd lng="cs">zlat&yacute; &rcaron;ez</trd>
   <trd lng="de">goldener <ind>Schnitt</ind></trd>
@@ -591,7 +1014,8 @@
     <trd>z&lstroke;oty <ind>podzia&lstroke;</ind></trd>,
     <trd>liczba z&lstroke;ota</trd>
   </trdgrp>
-  <trd lng="ru">&c_z;&c_o;&c_l;&c_o;&c_t;&c_o;&c_je; <ind>&c_s;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="ru">&c_z;&c_o;&c_l;&c_o;&c_t;&c_o;&c_je;
+  <ind>&c_s;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</ind></trd>
   <trd lng="sk">zlat&yacute; rez</trd>
 </drv>
 
@@ -607,15 +1031,15 @@
       <ekz>
         la entjera <tld/>o de <frm>3,14</frm> estas <frm>3</frm>,
         kaj tiu de <frm>-6,758</frm> estas <frm>-7</frm>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         la entjeran <tld/>on de reelo <frm><k>x</k></frm> oni kutime
         signas
         per <frm>E(<k>x</k>)</frm> a&ubreve; <frm>[<k>x</k>]</frm>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_c;&c_e;&c_l;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</ind></trd>
+  <trd lng="be">&c_c;&c_e;&c_l;&c_a;&c_ja;
+  <ind>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</ind></trd>
   <trd lng="cs">cel&aacute; &ccaron;&aacute;st <klr>(re&aacute;ln&eacute;ho &ccaron;&iacute;sla)</klr></trd>
   <trd lng="de">ganzer <ind>Teil</ind></trd>
   <trdgrp lng="en">
@@ -628,13 +1052,15 @@
   <trd lng="fr">partie enti&egrave;re</trd>
   <trd lng="hu">eg&eacute;szr&eacute;sz</trd>
   <trdgrp lng="pl">
-    <trd>ca&lstroke;o&sacute;&cacute;<klr tip="ind"> (liczby rzeczywistej)</klr></trd>,
+    <trd>ca&lstroke;o&sacute;&cacute;<klr tip="ind"> (liczby
+    rzeczywistej)</klr></trd>,
     <trd>cecha<klr tip="ind"> (liczby rzeczywistej)</klr></trd>,
     <trd>cz&eogonek;&sacute;&cacute; ca&lstroke;kowita<klr tip="ind"> (liczby
         rzeczywistej)</klr></trd>,
     <trd>entier</trd></trdgrp>
   <trdgrp lng="ru">
-    <trd>&c_c;&c_je;&c_l;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_t;&c_mol;</ind></trd>,
+    <trd>&c_c;&c_je;&c_l;&c_a;&c_ja;
+    <ind>&c_ch;&c_a;&c_s;&c_t;&c_mol;</ind></trd>,
     <trd>&c_a;&c_n;&c_t;&c_mol;&c_je;</trd></trdgrp>
   <trd lng="sk">cel&aacute; &ccaron;as&tcaron;</trd>
 </drv>
@@ -653,7 +1079,8 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_d;&c_r;&c_o;&c_b;&c_n;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</ind></trd>
+  <trd lng="be">&c_d;&c_r;&c_o;&c_b;&c_n;&c_a;&c_ja;
+  <ind>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</ind></trd>
   <trd lng="cs">zlomkov&aacute; &ccaron;&aacute;st</trd>
   <trd lng="de">gebrochener <ind>Teil</ind></trd>
   <trd lng="en">fractional <ind>part</ind></trd>
@@ -662,15 +1089,42 @@
   <trd lng="hu">t&ouml;rtr&eacute;sz</trd>
   <trd lng="pl">cz&eogonek;&sacute;&cacute; u&lstroke;amkowa<klr tip="ind"> (liczby
       rzeczywistej)</klr></trd>
-  <trd lng="ru">&c_d;&c_r;&c_o;&c_b;&c_n;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_t;&c_mol;</ind></trd>
+  <trd lng="ru">&c_d;&c_r;&c_o;&c_b;&c_n;&c_a;&c_ja;
+  <ind>&c_ch;&c_a;&c_s;&c_t;&c_mol;</ind></trd>
   <trd lng="sk">zlomkov&aacute; &ccaron;as&tcaron;</trd>
 </drv>
 
 <drv mrk="part.grand0e">
-  <kap>grand<tld/>e</kap>
+  <kap>grand<tld/>e, <var><kap>plej<tld/>e</kap></var>, <var><kap>plej
+  <tld/>e</kap></var></kap>
   <snc mrk="part.grand0e.KOMUNE">
     <dif>
       Ne tute sed precipe, plimulte:
+      <ekz>
+        la konstrua&jcirc;oj en &ccirc;i tiu kvartalo <klr>[&#8230;]</klr> estis plej
+        <tld/>e blankaj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malanta&ubreve; la butika tablo ne staris multe da junaj homoj, ne, tio
+        estis
+        plej<tld/>e maljunaj fra&ubreve;loj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Nokta &ccirc;apo de fra&ubreve;lo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la stratoj <klr>[&#8230;]</klr> estis plej<tld/>e mallar&gcirc;aj, kurbaj,
+        plenaj de kavoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         homoj tie estas ege feli&ccirc;aj grand<tld/>e pro tio, 
         ke ili vivas en stato de konstanta dankemo
@@ -686,7 +1140,8 @@
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_b;&c_o;&c_l;&c_mol;&c_sh;&c_a;&c_g;&c_a;</trd>,
-    <trd>&c_u; &c_b;&c_o;&c_l;&c_mol;&c_sh;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
+    <trd>&c_u;
+    &c_b;&c_o;&c_l;&c_mol;&c_sh;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
   </trdgrp>
   <trdgrp lng="cs">
     <trd>namnoze</trd>,
@@ -716,8 +1171,7 @@
       <ekz>
         la imaginaran <tld/>on de <frm><k>z</k></frm> oni kutime signas
         per <frm>Im <k>z</k></frm>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         reeloj havas nulan imaginaran <tld/>on.
       </ekz>
     </dif>
@@ -726,7 +1180,8 @@
       Oni atentu pri tio, ke imaginara <tld/>o ne estas imaginaro!
     </rim>
   </snc>
-  <trd lng="be">&c_u;&c_ja;&c_w;&c_n;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</ind></trd>
+  <trd lng="be">&c_u;&c_ja;&c_w;&c_n;&c_a;&c_ja;
+  <ind>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</ind></trd>
   <trd lng="de">Imagin&auml;rteil</trd>
   <trd lng="en">imaginary <ind>part</ind></trd>
   <trd lng="es"><ind>parte</ind> imaginaria</trd>
@@ -734,7 +1189,8 @@
   <trd lng="hu">k&eacute;pzetes <ind>r&eacute;sz</ind></trd>
   <trd lng="pl">cz&eogonek;&sacute;&cacute; urojona<klr tip="ind"> (liczby
   zespolonej)</klr></trd>
-  <trd lng="ru">&c_m;&c_n;&c_i;&c_m;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_t;&c_mol;</ind>
+  <trd lng="ru">&c_m;&c_n;&c_i;&c_m;&c_a;&c_ja;
+  <ind>&c_ch;&c_a;&c_s;&c_t;&c_mol;</ind>
   </trd>
 </drv>
 
@@ -772,14 +1228,14 @@
       <ekz>
         la reelan <tld/>on de <frm><k>z</k></frm> oni kutime signas
         per <frm>Re <k>z</k></frm>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         pure imaginaraj nombroj havas nulan reelan <tld/>on.
       </ekz>
     </dif>
     <ref tip="vid" cel="reel.0a">reela.</ref>
   </snc>
-  <trd lng="be">&c_r;&c_e;&c_ch;&c_a;&c_ib;&c_s;&c_n;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</ind></trd>
+  <trd lng="be">&c_r;&c_e;&c_ch;&c_a;&c_ib;&c_s;&c_n;&c_a;&c_ja;
+  <ind>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</ind></trd>
   <trd lng="de">Realteil</trd>
   <trd lng="en">real <ind>part</ind></trd>
   <trd lng="es"><ind>parte</ind> real</trd>
@@ -787,7 +1243,8 @@
   <trd lng="hu">val&oacute;sr&eacute;sz</trd>
   <trd lng="pl">cz&eogonek;&sacute;&cacute; rzeczywista<klr tip="ind"> (liczby
   zespolonej)</klr></trd>
-  <trd lng="ru">&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_t;&c_mol;</ind>
+  <trd lng="ru">&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+  <ind>&c_ch;&c_a;&c_s;&c_t;&c_mol;</ind>
   </trd>
 </drv>
 
@@ -797,6 +1254,14 @@
     <dif>
       Kiu ne <tld/>oprenas, ne kunagas, ne kunsentas, estas
       <ref tip="vid" cel="indife.0a.iu">indiferenta<sncref/></ref>:
+      <ekz>
+        lia patro estis &ccirc;iam malvarmeca kaj sen<tld/>oprena
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=332756"
+              >Giuseppe Tomasi di Lampedusa</url></lok>
+        </fnt>;
+      </ekz>
       <ekz>
         amikinoj rigardis min sen<tld/>oprene
         <fnt>
@@ -819,7 +1284,20 @@
       <ekz>
         nian plejbonon anka&ubreve; ni penos nia<tld/>e fari
         <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
-        fratoj</vrk>, <lok>1947</lok></fnt>.
+        fratoj</vrk>, <lok>1947</lok></fnt>;
+      </ekz>
+      <ekz>
+        Slovenio da&ubreve;re klopodis interkonsenti kun Kroatio, ke tiu
+        fordonu iom da sia
+        maro en formo de koridoro, sia<tld/>e Slovenio rezignu pri tri
+        neklaraj
+        terpecoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zlatko TI&Scaron;LJAR</aut>
+          <vrk><url ref="https://www.monato.be/2004/008454.html"
+              >Malfermi pandoran skatolon</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -828,8 +1306,10 @@
     </refgrp>
   </snc>
   <trdgrp lng="be">
-    <trd>&c_s;&c_a; &c_s;&c_v;&c_a;&c_j;&c_g;&c_o; <ind>&c_b;&c_o;&c_k;&c_u;</ind></trd>,
-    <trd>&c_u; &c_s;&c_v;&c_a;&c_jo;&c_j; <ind>&c_ch;&c_a;&c_s;&c_t;&c_c;&c_y;</ind></trd>
+    <trd>&c_s;&c_a; &c_s;&c_v;&c_a;&c_j;&c_g;&c_o;
+    <ind>&c_b;&c_o;&c_k;&c_u;</ind></trd>,
+    <trd>&c_u; &c_s;&c_v;&c_a;&c_jo;&c_j;
+    <ind>&c_ch;&c_a;&c_s;&c_t;&c_c;&c_y;</ind></trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>en su caso</trd>,
@@ -843,27 +1323,27 @@
 </art>
 <!--
 $Log: part.xml,v $
-Revision 1.59  2018/05/31 08:10:13  revo
-Bart Demeyere: partigi: +snc +sin
+Revision 1.67  2019/09/27 07:10:17  revo
+Jeromo Vasxe: kor 1 ref
 
-Revision 1.58  2018/05/13 20:10:16  revo
-Jeromo Vasxe: + sen~oprena
+Revision 1.66  2019/09/08 19:10:16  revo
+Wolfram Diestel: dis~igi ... +ekz-oj
 
-Revision 1.57  2018/04/24 10:10:14  revo
-Dmitri Gabinski: +trd be
+Revision 1.65  2019/09/08 17:10:17  revo
+Wolfram Diestel: ~ajxo .. ~opreni: ekz-oj
 
-Revision 1.56  2018/04/22 19:10:14  revo
-Dmitri Gabinski: +trd be
+Revision 1.64  2019/09/08 16:10:14  revo
+Wolfram Diestel: ~a: +ekz-oj, +~e, +var plej~e
 
-Revision 1.55  2017/12/28 23:10:16  revo
-Vito Redsky: +trd ro
+Revision 1.63  2019/09/08 15:10:15  revo
+Wolfram Diestel: ~o: ekz-oj
 
-Revision 1.54  2017/12/20 09:10:15  revo
-Michel Cantigneaux: "part/o/pren/i" fundamenta kunmetajxo el la U.V.
+Revision 1.62  2019/09/06 02:10:18  revo
+Sergio Pokrovskij: TEZ
 
-Revision 1.53  2017/03/30 11:10:13  revo
-Ludoviko Francisco: +trd fr
+Revision 1.61  2019/09/03 17:10:15  revo
+Sergio Pokrovskij: +~umi
 
-Revision 1.52  2017/03/12 10:10:14  revo
+Revision 1.60  2019/04/07 11:10:17  revo
 -->
 </vortaro>

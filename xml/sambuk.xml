@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sambuk.xml,v 1.21 2018/10/07 19:10:17 revo Exp $">
+<art mrk="$Id: sambuk.xml,v 1.23 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sambuk</rad>/o
@@ -33,7 +33,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008289.html">Mistera insulo Ailsa Craig</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008289.html">Mistera insulo Ailsa Craig</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -41,7 +41,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garvan Makaj'</aut>
-          <vrk><url ref="http://www.monato.net/2015/011355.php">Komunika&jcirc;o de Ikaro</url></vrk>
+          <vrk><url ref="&Monato;/2015/011355.php">Komunika&jcirc;o de Ikaro</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -100,6 +100,12 @@
 </art>
 <!--
 $Log: sambuk.xml,v $
+Revision 1.23  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
+Revision 1.22  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.21  2018/10/07 19:10:17  revo
 Wolfram Diestel: +ekz-oj, pli bonaj fotoj
 

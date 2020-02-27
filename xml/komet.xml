@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: komet.xml,v 1.21 2018/09/02 18:10:18 revo Exp $">
+<art mrk="$Id: komet.xml,v 1.22 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>1</ofc><rad>komet</rad>/o <fnt><bib>FK</bib></fnt>
 </kap>
@@ -32,7 +32,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Geraldo Mattos</aut>
-          <vrk><url ref="http://www.monato.net/2008/009422.php">Rezulto de preseraro</url></vrk>
+          <vrk><url ref="&Monato;/2008/009422.php">Rezulto de preseraro</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -41,7 +41,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="http://www.monato.net/2013/010945.php">Ne &ccirc;io brilanta estas diamanto</url></vrk>
+          <vrk><url ref="&Monato;/2013/010945.php">Ne &ccirc;io brilanta estas diamanto</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -94,6 +94,9 @@
 </art>
 <!--
 $Log: komet.xml,v $
+Revision 1.22  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.21  2018/09/02 18:10:18  revo
 Wolfram Diestel: +ekz-oj, aktualigis dif
 

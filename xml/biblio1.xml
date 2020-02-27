@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: biblio1.xml,v 1.29 2017/08/26 20:10:17 revo Exp $">
+<art mrk="$Id: biblio1.xml,v 1.30 2019/08/14 07:10:18 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>bibliotek</rad>/o
@@ -21,7 +21,7 @@
     </dif>
     <ref tip="sin" cel="libr.0ejo.biblioteko">librejo<sncref/></ref>
     <refgrp tip="vid">
-      <ref cel="arkiv.0ejo">arkivejo</ref>,
+      <ref cel="arhxiv.0ejo">arkivejo</ref>,
       <ref cel="libr.0otenejo.konservejo">librotenejo<sncref/></ref>,
       <ref cel="muze.0o.ejo">muzeo<sncref/></ref>
     </refgrp>
@@ -163,6 +163,9 @@
 </art>
 <!--
 $Log: biblio1.xml,v $
+Revision 1.30  2019/08/14 07:10:18  revo
+Damien Brucker: -eraro cxe cel en ref
+
 Revision 1.29  2017/08/26 20:10:17  revo
 Vito Redsky: +trd ro
 
@@ -182,8 +185,5 @@ Revision 1.24  2005/03/31 16:32:08  revo
 Jeromo Vasxe: + 1 ekz
 
 Revision 1.23 2005/02/17 17:31:28 revo
-Sergio Pokrovskij: ref-snc
-
-Revision 1.22 2003/11/28 17:31:28 revo
 -->
 </vortaro>

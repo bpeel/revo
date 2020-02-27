@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vit.xml,v 1.23 2018/08/15 17:10:20 revo Exp $">
+<art mrk="$Id: vit.xml,v 1.24 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>vit</rad>/o
@@ -26,7 +26,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Judit Felszeghy</aut>
-          <vrk><url ref="http://www.monato.net/2007/009351.php">Je via sano!</url></vrk>
+          <vrk><url ref="&Monato;/2007/009351.php">Je via sano!</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -76,6 +76,9 @@
 </art>
 <!--
 $Log: vit.xml,v $
+Revision 1.24  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
 Revision 1.23  2018/08/15 17:10:20  revo
 Wolfram Diestel: +ekz-oj
 

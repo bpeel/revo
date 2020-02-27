@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: laparo.xml,v 1.12 2014/06/06 15:10:29 revo Exp $">
+<art mrk="$Id: laparo.xml,v 1.14 2019/10/16 22:10:53 revo Exp $">
 <kap>
   <rad>laparotomi</rad>/o
 </kap>
@@ -13,7 +13,12 @@
   <snc>
   <uzo tip="fak">KIR</uzo>
     <dif>
-      &Hcirc;irurgia malfermo de la ventra pario.
+      &Hcirc;irurgia malfermo de la ventra pario:
+      <ekz>
+        la unua <tld/>o kun gastrotomio sukcesis al <nom>Daniel
+        Schwabe</nom> 1635 en
+        Kenigsbergo.
+      </ekz>
     </dif>
   </snc>
   <trd lng="ca">laparotomia</trd>
@@ -28,7 +33,9 @@
     <trd>hasfalmetsz&eacute;s</trd>
   </trdgrp>
   <trd lng="nl">laparatomie</trd>
+  <trd lng="pl">laparotomia</trd>
   <trd lng="pt">laparotomia</trd>
+  <trd lng="ro">laparotomie</trd>
   <trd lng="ru">&c_l;&c_a;&c_p;&c_a;&c_r;&c_o;&c_t;&c_o;&c_m;&c_i;&c_ja;</trd>
 </drv>
 
@@ -46,10 +53,24 @@
     <trd>pr&oacute;ba-laparotomia</trd>,
     <trd>explorat&iacute;v <ind>laparotomia</ind></trd>
   </trdgrp>  
+  <trdgrp lng="pl">
+    <trd>laparotomia pr&oacute;bna</trd>,
+    <trd>laparotomia eksploracyjna</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>laparotomie de proces</trd>,
+    <trd>laparotomie exploratorie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log: laparo.xml,v $
+Revision 1.14  2019/10/16 22:10:53  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.13  2019/03/22 12:10:13  revo
+Wolfram Diestel: +ekz
+
 Revision 1.12  2014/06/06 15:10:29  revo
 Damien Brucker: +trd fr
 
@@ -66,11 +87,5 @@ Revision 1.8  2002/09/14 18:51:56  revo
 Ulrich Fellmann: + 2 trd de
 
 Revision 1.7  2002/08/23 17:31:05  revo
-Eduardo M. Kalinowski: ald trd el, pt
-
-Revision 1.6  2001/11/14 19:12:44  revo
-Yury Finkel: +trd ru
-
-Revision 1.5  2001/03/29 16:18:21  revo
 -->
 </vortaro>

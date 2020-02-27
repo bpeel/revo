@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: teks.xml,v 1.29 2018/09/11 10:10:13 revo Exp $">
+<art mrk="$Id: teks.xml,v 1.30 2019/06/30 07:43:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>teks</rad>/i <fnt><bib>PIV1</bib></fnt>
@@ -324,7 +324,7 @@
           <bib>Monato</bib>
           <aut>D. E. Rogers</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/008269.html">Libera
+          ref="https://www.monato.be/2004/008269.html">Libera
           programaro: nova rimedo komerci</url></vrk>
         </fnt>;
       </ekz>
@@ -335,7 +335,7 @@
           <bib>Monato</bib>
           <aut>Garbhan Macaoidh</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/008271.html">Flagoj:
+          ref="https://www.monato.be/2004/008271.html">Flagoj:
           fenestro al vasta mondo</url></vrk>
         </fnt>;
       </ekz>
@@ -364,6 +364,9 @@
 </art>
 <!--
 $Log: teks.xml,v $
+Revision 1.30  2019/06/30 07:43:30  revo
+adaptis URL de Monato
+
 Revision 1.29  2018/09/11 10:10:13  revo
 Wolfram Diestel: kor. ref-cel
 

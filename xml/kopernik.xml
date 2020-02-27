@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kopernik.xml,v 1.15 2018/09/10 17:10:13 revo Exp $">
+<art mrk="$Id: kopernik.xml,v 1.16 2019/06/30 18:21:03 revo Exp $">
 <kap>
   <rad>Kopernik</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,7 +27,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Nikolao Gudskov</aut>
-          <vrk><url ref="http://www.monato.net/2009/009858.php">La mondrevolucia verko finfine en Esperanto</url></vrk>
+          <vrk><url ref="&Monato;/2009/009858.php">La mondrevolucia verko finfine en Esperanto</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -35,7 +35,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>H&aring;kan Lundberg</aut>
-          <vrk><url ref="http://www.monato.net/2005/008703.php">La libro de la vivo</url></vrk>
+          <vrk><url ref="&Monato;/2005/008703.php">La libro de la vivo</url></vrk>
         </fnt>?
       </ekz>
     </dif>
@@ -56,6 +56,9 @@
 </art>
 <!--
 $Log: kopernik.xml,v $
+Revision 1.16  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
 Revision 1.15  2018/09/10 17:10:13  revo
 Wolfram Diestel: +ekz-oj, lst historiaj pers
 

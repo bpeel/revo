@@ -2,24 +2,42 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: veteri.xml,v 1.20 2015/07/04 08:37:45 revo Exp $">
+<art mrk="$Id: veteri.xml,v 1.21 2019/09/29 20:10:27 revo Exp $">
 <kap>
   <ofc>1</ofc>
-  <rad>veterinar</rad>/o
+  <rad>veterinar</rad>/o <fnt><bib>IK</bib></fnt>
 </kap>
 <drv mrk="veteri.0o">
   <kap><tld/>o</kap>
-  <snc>
-    <ref tip="dif" cel="kurac.best0isto.MED">bestkuracisto</ref>
-    <ekz>
-      sepdekjara <tld/>a profesoro
-      <fnt><bib>Kiso</bib>, <lok>tombeja arabesko</lok></fnt>.
-    </ekz>
+  <snc mrk="veteri.0o.bestkuracisto">
+    <dif>
+      <ref tip="dif" cel="kurac.best0isto.MED">Bestkuracisto</ref>:
+      <ekz>
+        vidvino de <tld/>o kaj baptopatrino de la patrino de Klaro
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o! mi longe pensis pri la ka&ubreve;z' / de via kontra&ubreve;vivo-na&ubreve;z'
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sepdekjara <tld/>a profesoro
+        <fnt><bib>Kiso</bib>, <lok>tombeja arabesko</lok></fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="be">&c_v;&c_e;&c_t;&c_e;&c_r;&c_y;&c_n;&c_a;&c_r;</trd>
   <trd lng="ca">veterinari</trd>
-  <trd lng="cs">zvěrolékař</trd>
-  <trd lng="de">Tierarzt</trd>
+  <trd lng="cs">zv&ecaron;rol&eacute;ka&rcaron;</trd>
+  <trdgrp lng="de">
+    <trd>Tierarzt</trd>,
+    <trd>Veterin&auml;r</trd>
+  </trdgrp>
   <trd lng="el">&kappa;&tau;&eta;&ny;&jota_ton;&alfa;&tau;&rho;&omikron;&sigma_fina;</trd>
   <trd lng="en">veterinarian</trd>
   <trd lng="es">veterinario</trd>
@@ -39,6 +57,9 @@
 </art>
 <!--
 $Log: veteri.xml,v $
+Revision 1.21  2019/09/29 20:10:27  revo
+Wolfram Diestel: +fnt IK, +ekz
+
 Revision 1.20  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -58,11 +79,5 @@ Revision 1.15  2009/09/12 16:31:02  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.14  2009/09/01 04:54:30  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.13  2009/02/23 17:30:53  revo
-Russ Williams: +trd en
-
-Revision 1.12  2006/05/08 16:31:35  revo
 -->
 </vortaro>

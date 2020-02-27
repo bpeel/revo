@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: samari.xml,v 1.18 2018/11/20 21:10:15 revo Exp $">
+<art mrk="$Id: samari.xml,v 1.19 2019/07/29 15:10:18 revo Exp $">
 <kap>
   <rad>samari</rad>/o
 </kap>
@@ -28,6 +28,9 @@
       </ekz>
     </dif>
   </snc>
+  <rim>
+    Anka&ubreve; regiono nomi&gcirc;as <ref tip="hom" cel="samari1.0o">Samario</ref>.
+  </rim>
   <trd lng="be">&c_s;&c_a;&c_m;&c_a;&c_r;&c_y;&c_j;</trd>
   <trd lng="bg">&c_s;&c_a;&c_m;&c_a;&c_r;&c_i;&c_j;</trd>
   <trd lng="br">samariom</trd>
@@ -57,6 +60,9 @@
 </art>
 <!--
 $Log: samari.xml,v $
+Revision 1.19  2019/07/29 15:10:18  revo
+Wolfram Diestel: +rim homonimo
+
 Revision 1.18  2018/11/20 21:10:15  revo
 Wolfram Diestel: +ekz
 
@@ -76,8 +82,5 @@ Revision 1.13  2013/09/15 19:10:20  revo
 Wolfram Diestel: simb. laux IUPAC, val, +adm
 
 Revision 1.12  2013/08/25 07:10:57  revo
-Wolfram Diestel: referenco al listo elementoj
-
-Revision 1.11  2010/10/26 16:30:38  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kanal.xml,v 1.32 2017/08/23 19:10:14 revo Exp $">
+<art mrk="$Id: kanal.xml,v 1.33 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kanal</rad>/o <fnt><bib>PV</bib></fnt>
@@ -139,7 +139,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jomo Ipfelkofer</aut>
-          <vrk><url ref="http://www.monato.net/2015/011499.php">Limoj de lingvo, limoj de mondo</url></vrk>
+          <vrk><url ref="&Monato;/2015/011499.php">Limoj de lingvo, limoj de mondo</url></vrk>
           <lok>2015</lok>
         </fnt>;
       </ekz>
@@ -148,7 +148,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Nikolao Gudskov </aut>
-          <vrk><url ref="http://www.monato.net/2015/011365.php">Rigardo al la interna Rusio deekstere</url></vrk>
+          <vrk><url ref="&Monato;/2015/011365.php">Rigardo al la interna Rusio deekstere</url></vrk>
           <lok>2015</lok>
         </fnt>.
       </ekz>
@@ -407,6 +407,9 @@
 </art>
 <!--
 $Log: kanal.xml,v $
+Revision 1.33  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.32  2017/08/23 19:10:14  revo
 Wolfram Diestel: precizigis komunikajn snc-ojn, ekz-oj, germ trd.
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: vaku.xml,v 1.20 2018/08/15 19:10:16 revo Exp $">
+<art mrk="$Id: vaku.xml,v 1.21 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>vaku</rad>/o
 </kap>
@@ -19,7 +19,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="http://www.monato.net/2015/011597.php">&Scirc;ton&jcirc;eto sen cenzuro</url></vrk>
+          <vrk><url ref="&Monato;/2015/011597.php">&Scirc;ton&jcirc;eto sen cenzuro</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -29,7 +29,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.monato.net/2006/008849.php">Katastrofo en Irako</url></vrk>
+          <vrk><url ref="&Monato;/2006/008849.php">Katastrofo en Irako</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -38,7 +38,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="http://www.monato.net/2009/009891.php">Planoj kaj prognozoj</url></vrk>
+          <vrk><url ref="&Monato;/2009/009891.php">Planoj kaj prognozoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -118,6 +118,9 @@
 </art>
 <!--
 $Log: vaku.xml,v $
+Revision 1.21  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
 Revision 1.20  2018/08/15 19:10:16  revo
 Wolfram Diestel: +ekz-oj
 

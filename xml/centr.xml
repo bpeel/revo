@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: centr.xml,v 1.61 2018/01/05 20:10:14 revo Exp $">
+<art mrk="$Id: centr.xml,v 1.66 2019/11/15 19:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>1</ofc><ofc>8</ofc>
   <rad>centr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -11,9 +11,52 @@
   <kap><tld/>o</kap>
   <snc mrk="centr.0o.mezo">
     <dif>
-      Meza parto de objekto a&ubreve; loko:
+      <ref tip="vid" cel="mez.0a">Meza</ref> parto
+      de objekto a&ubreve; loko:
       <ekz>
-        <tld/>o de rado, de korto, de urbo.
+        li estas ri&ccirc;a homo, lo&gcirc;as en la <tld/>o de la urbo, en grandega domo
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Saul</nom> ku&scirc;is en la <tld/>o de la tendaro, kaj la tuta popolo &ccirc;irka&ubreve; li
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. samuel 26:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la malordo en la dekstra flanko pligrandi&gcirc;is kaj proksimi&gcirc;is al la <tld/>o de la
+        batala kampo
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la <tld/>o de la korto staris la templo
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de pezo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la tutmonda politika pezo<tld/>o, dum jarcentoj situinta en E&ubreve;ropo, transloki&gcirc;is
+        Usonen
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9405-britio.txt"
+              >Britio</url></vrk>
+          <lok>94/05</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -32,23 +75,60 @@
   </snc>
   <snc mrk="centr.0o.cxefajxo">
     <dif>
-    &Ccirc;efa punkto, fokuso, plej aktiva parto:
-    <ekz>
-      <tld/>o de komerco, de societo, de ribelo;
-    </ekz>
-    <ekz>
-      Londono fari&gcirc;os unu el la plej gravaj <tld/>oj de nia
-      afero<fnt>Z</fnt>.
-    </ekz>
+      &Ccirc;efa punkto, fokuso, plej aktiva parto:
+      <ekz>
+        <tld/>o de komerco, de societo, de ribelo;
+      </ekz>
+      <ekz>
+        Londono fari&gcirc;os unu el la plej gravaj <tld/>oj de nia afero por la tuta mondo
+        <fnt>
+          <vrk><url ref="http://esperanto.cri.cn/2781/2017/02/06/175s191286.htm"
+              >Parolado por 1-a datreveno de Londona E-Klubo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Germanujo, la lando de la filozofoj kaj poetoj, <klr>[&#8230;]</klr> estis iam la
+        <tld/>o de la humanistoj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto 1908</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi vivas sekve en la <klr>[&#8230;]</klr> <tld/>o de &scirc;ia favoro
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>?
+      </ekz>
+      <ekz>
+        kultur<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9308-naciaj-radikoj.txt"
+              >&Ccirc;u reiri al naciaj radikoj?</url></vrk>
+          <lok>93/08</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sport<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9310-sarajevo.txt"
+              >La Fino de la Mondo Komenci&gcirc;as en Sarajevo</url></vrk>
+          <lok>93/10</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="anim.0o">animo</ref>,
       <ref cel="esenc.0o">esenco</ref>,
       <ref cel="kern.0o">kerno</ref>,
-      <ref cel="kor.0o">koro</ref>.
+      <ref cel="kor.0o">koro</ref>,
+      <ref cel="centra1.0o">centralo</ref>
     </refgrp>
     <refgrp tip="ant">
-      <ref cel="ekstre.0ajxo.space">ekstrema&jcirc;o</ref>
+      <ref cel="ekstre.0ajxo.space">ekstrema&jcirc;o</ref>,
+      <ref cel="perife.0o">periferio</ref>
     </refgrp>
     <trd lng="no">senter</trd>
     <trd lng="pl">centrum</trd>
@@ -127,7 +207,16 @@
   <snc mrk="centr.0o.partio">
     <uzo tip="fak">POL</uzo>
     <dif>
-      Modera partio, kiu sidas meze inter la ekstremoj.
+      Modera partio, kiu sidas meze inter la ekstremoj:
+      <ekz>
+        vicministro pri eksteraj aferoj kaj ano de <tld/>a-dekstra partio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/006818.html"
+              >Balkanio: Nova &scirc;anco por &ccirc;iuj etnoj</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="no">sentrum</trd>
     <trdgrp lng="pl">
@@ -165,25 +254,60 @@
     <trd>stred</trd>
   </trdgrp>
   <trd lng="tp">insa</trd>
-  <trd lng="zh">&#20013;&#24515;<klr> [zh&#333;ngx&#299;n]</klr></trd>
+  <trd lng="zh">&#20013;&#24515; [<ind>zh&#333;ngx&#299;n</ind>]</trd>
 </drv>
 
 <drv mrk="centr.0a">
   <kap><tld/>a</kap>
   <snc>
     <dif>
-    Rilata al <tld/>o; estanta &ccirc;e la <tld/>o:
-    <ekz>
-    <tld/>a punkto, kvartalo, regantaro;
-    </ekz>
-    <ekz>
-    <uzo tip="fak">MAT</uzo>
-    <ref cel="angul.centra0o"><tld/>a angulo</ref>;
-    </ekz>
-    <ekz>
-    <uzo tip="fak">MAT</uzo>
-    <ref cel="simetr.0o.orta"><tld/>a simetrio</ref>.
-    </ekz>
+      Rilata al <tld/>o; estanta &ccirc;e la <tld/>o:
+      <ekz>
+        <tld/>a punkto, kvartalo, regantaro;
+      </ekz>
+      <ekz>
+        a&ubreve;toritata <tld/>a institucio
+        <fnt>
+          <bib>F</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>a E&ubreve;ropo
+        <fnt>
+          <bib>Far1</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la <tld/>a kolono eksonis la komando
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi estas nur la <tld/>a punkto, en kiu kolekti&gcirc;is &ccirc;iuj gratuloj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto 1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld lit="C"/>a Oficejo
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista en Gen&egrave;ve en la 28a de a&ubreve;gusto 1906</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">MAT</uzo>
+        <ref cel="angul.centra0o"><tld/>a angulo</ref>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">MAT</uzo>
+        <ref cel="simetr.0o.orta"><tld/>a simetrio</ref>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
@@ -231,15 +355,35 @@
     <dif>
       En la <tld/>o, en la &ccirc;efpunkto de...:
       <ekz>
+        ni konati&gcirc;is en iu kafejo <tld/>e de la urbo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Geraldo Mattos</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/006805.html"
+              >Kota Akvo: Konstanten Krysakov</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
         sep personoj estis mortigitaj en Kin&scirc;aso kaj
         alia en Kanango, <tld/>e de la lando
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://neniammilitointerni.over-blog.com/2018/01/demokratia-respubliko-kongo-ok-mortintoj-en-manifestacioj.html">
-          Demokratia Respubliko Kongo: ok mortintoj en
+          <vrk><url ref=
+"http://neniammilitointerni.over-blog.com/2018/01/demokratia-respubliko-kongo-ok-mortintoj-en-manifestacioj.html"
+          >Demokratia Respubliko Kongo: ok mortintoj en
           manifestacioj</url></vrk>,
           <lok>Neniam milito inter ni, 2017-01-02</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        interrilatoj kun unui&gcirc;inta E&ubreve;ropo kaj libera komerco ku&scirc;as <tld/>e de la naciaj
+        kaj regionaj interesoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="https://www.monato.be/2004/008363.html"
+              >Hirundoj de la estonteco</url></vrk>
+          <lok>2004</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -248,14 +392,19 @@
 </drv>
 
 <drv mrk="centr.0i">
-  <kap><tld/>i<fnt>Z</fnt>, <var><kap><tld/>igi<fnt>Z</fnt></kap></var>,
+  <kap><tld/>i, <var><kap><tld/>igi</kap></var>,
   <var><kap>al<tld/>igi</kap></var>,
   <var><kap>kun<tld/>igi</kap></var></kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="centr.0i.KOMUNE">
     <dif>
       Kolekti, kunigi en la <tld/>on,
-      centralizi, koncentrigi:
+      <ref tip="dif" cel="centra.0i">centralizi</ref>,
+      <ref tip="dif" cel="koncen.0igi">koncentrigi</ref>:
+      <ekz>
+        Marta al<tld/>igis la tutan forton de sia komprenado
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
       <ekz>
         tro ofte oni <tld/>igas la agadon sole al instruado
         <fnt>
@@ -265,10 +414,39 @@
         </fnt>;
       </ekz>
       <ekz>
-        Marta al<tld/>igis la tutan forton de sia komprenado
-        <fnt><bib>Marta</bib></fnt>.
+        la reganta partio emas <tld/>igi &ccirc;irka&ubreve; si potencojn, kiuj apartenis al
+        malcentraj lokaj instancoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>W. H. Simcock</aut>
+          <vrk><url ref="https://www.monato.be/2005/008793.php"
+              >Iom da proporcio</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la industria revolucio fine de la 18a jarcento <tld/>igis laboron,
+        labormezuradon kaj profiton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zlatko Ti&scaron;ljar</aut>
+          <vrk><url ref="https://www.monato.be/2006/009073.php"
+              >Survoje al alia mondo</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili starigas projektojn multcelajn <tld/>itajn sur servado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gbeglo Koffi</aut>
+          <vrk><url ref="https://www.monato.be/2010/009910.php"
+              >Ventreligio, dua r aldoni&gcirc;u</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <ref tip="vid" cel="fokus.0i">fokusi</ref>
   </snc>
   <trd
   lng="be">&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
@@ -310,7 +488,18 @@
   <uzo tip="fak">MAT</uzo>
   <fnt><bib>PIV2</bib></fnt>
   <snc mrk="centr.alto0o.MAT">
-    <ref tip="dif" cel="ortoce.0o">ortocentro.</ref>
+    <dif>
+      <ref tip="dif" cel="ortoce.0o">Ortocentro</ref>:
+      <ekz>
+        en &ccirc;iu triangulo, la <tld/>o de &ccirc;irka&ubreve;skribita cirklo, la pezo<tld/>o kaj
+        alto<tld/>o estas &ccirc;iam sur la sama rekto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=237790"
+              >&Ccirc;irka&ubreve;skribita cirklo</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="be">&c_a;&c_r;&c_t;&c_a;&c_c;&c_e;&c_n;&c_t;&c_a;&c_r;</trd>
   <trd lng="br">ortokreizenn</trd>
@@ -333,17 +522,71 @@
   <trd lng="sk">ortocentrum</trd>
 </drv>
 
+<drv mrk="centr.butik0o">
+  <kap>butik<tld/>o,
+  <var><kap>butikum<tld/>o</kap></var>,
+  <var><kap>a&ccirc;eto<tld/>o</kap></var>,
+  <var><kap>a&ccirc;et<tld/>o</kap></var>
+  </kap>
+  <snc mrk="centr.butik0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Vasta konstrua&jcirc;o entenanta multajn, diversajn butikojn:
+      <ekz>
+        vi estas nur kelkajn minutojn for de la Dubaja
+        Butik<tld/>o, kiu nuntempe estas la plej granda
+        komerca centro en la mondo
+        <fnt>
+          <aut>-</aut>
+          <vrk><url
+          ref="https://www.providentestate.com/eo/dubai-real-estate-projects/difc/park-towers-307.html">
+          Provident</url></vrk>
+          <lok>[vidita en 2019]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la granda vendejo de IKEA estas nur parteto de la enorma
+        a&ccirc;et<tld/>o
+        <fnt>
+          <aut>K. Kniivil&auml;</aut>
+          <vrk>Homoj de Putin</vrk>
+          <lok>2016</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">centre commercial</trd>
+</drv>
+
 <drv mrk="centr.dis0ael0a">
   <kap>dis<tld/>a, <var><kap>el<tld/>a</kap></var></kap>
   <uzo tip="fak">TEK</uzo>
   <fnt><bib>PIV1</bib></fnt>
   <snc>
     <dif>
-    Kies <tld/>o ne koincidas kun la <tld/>o de aliaj pecoj:
-    <ekz>
-    dis<tld/>a rado <klr>(movata per &scirc;afto ne trairanta &gcirc;ian
-    centron)</klr>.
-    </ekz>
+      Kies <tld/>o ne koincidas kun la <tld/>o de aliaj pecoj:
+      <ekz>
+        dis<tld/>a rado <klr>(movata per &scirc;afto ne trairanta &gcirc;ian
+        centron)</klr>;
+      </ekz>
+      <ekz>
+        malavanta&gcirc;o de kejla junto povas esti la el<tld/>a forto de la elemento sur la
+        &scirc;afto
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=133368"
+              >Kejlo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        2938 Hopio estas nebone konata asteroido de la asteroida zono, kun dis<tld/>a
+        kaj k<klr>[l]</klr>inita orbito
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=367086"
+              >2938 Hopio</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_e;&c_k;&c_s;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;
@@ -381,34 +624,41 @@
   <snc mrk="centr.dis0eco.TEK">
     <uzo tip="fak">TEK</uzo>
     <dif>
-    Eco de io dis<tld/>a.
+      Eco de io dis<tld/>a:
+      <ekz>
+        regula satelito estas natura satelito kiu sekvas relative proksiman orbiton kun
+        malgranda klinangulo a&ubreve; dis<tld/>eco
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=299258"
+              >Regula satelito</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="fr">excentricit&eacute;<klr tip="ind"> (tech.)</klr></trd>
     <trdgrp lng="pl">
       <trd>niecentryczno&sacute;&cacute;</trd>,
       <trd>mimo&sacute;r&oacute;d</trd>
     </trdgrp>
-  </snc>
-  
+  </snc>  
   <snc mrk="centr.dis0eco.koniko">
     <uzo tip="fak">MAT</uzo>
     <fnt><bib>MatVort</bib></fnt>
     <dif>
-    <klr>(de <ref cel="konik.0o">koniko</ref>)</klr>
-    La konstanta rilato inter la distanco de &ccirc;iu punkto de la
-    koniko al &gcirc;ia fokuso kaj la distanco de tiu punkto al
-    la direktanto.
+      <klr>(de <ref cel="konik.0o">koniko</ref>)</klr>
+      La konstanta rilato inter la distanco de &ccirc;iu punkto de la
+      koniko al &gcirc;ia fokuso kaj la distanco de tiu punkto al
+      la direktanto.
     </dif>
     <rim>
-    En <fnt><bib>MatVort</bib></fnt> troveblas du sinonimoj:
-    <ctl>disfokuseco</ctl> (uzata en <fnt><bib>PIV1</bib></fnt>)
-    kaj <ctl>fokusdiseco</ctl> (uzata en <fnt><bib>PIV2</bib></fnt>).
-    Bricard <fnt><bib>MatTerm</bib><lok>p. 34</lok></fnt> uzas
-    <ctl>de<tld/>eco</ctl>, kiu &scirc;ajne ne konservi&gcirc;is.
-    <ctl>Dis<tld/>eco</ctl> havas la avanta&gcirc;on de proksimeco kun
-    la
-    nacilingvaj ekvivalentoj kaj la intuicia sento, ke &gcirc;i mezuras
-    la malproksimecon de la fokuso al la simetri<tld/>o.
+      En <fnt><bib>MatVort</bib></fnt> troveblas du sinonimoj:
+      <ctl>disfokuseco</ctl> (uzata en <fnt><bib>PIV1</bib></fnt>)
+      kaj <ctl>fokusdiseco</ctl> (uzata en <fnt><bib>PIV2</bib></fnt>).
+      Bricard <fnt><bib>MatTerm</bib><lok>p. 34</lok></fnt> uzas
+      <ctl>de<tld/>eco</ctl>, kiu &scirc;ajne ne konservi&gcirc;is.
+      <ctl>Dis<tld/>eco</ctl> havas la avanta&gcirc;on de proksimeco kun
+      la nacilingvaj ekvivalentoj kaj la intuicia sento, ke &gcirc;i mezuras
+      la malproksimecon de la fokuso al la simetri<tld/>o.
     </rim>
     <trd lng="br">eskreizegezh</trd>
     <trd lng="en">eccentricity</trd>
@@ -438,11 +688,13 @@
 <drv mrk="centr.kun0igxi">
   <kap>kun<tld/>i&gcirc;i</kap>
   <snc>
-    <ref tip="dif" cel="koncen.0igxi">koncentri&gcirc;i</ref>
-    <ekz>
-    en literaturo kaj eklezio kun<tld/>i&gcirc;as la naciaj sentoj
-    <fnt><bib>VivZam</bib> <lok>&ccirc;apitro 7a, p. 73a</lok></fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="koncen.0igxi">Koncentri&gcirc;i</ref>:
+      <ekz>
+        en literaturo kaj eklezio kun<tld/>i&gcirc;as la naciaj sentoj
+        <fnt><bib>VivZam</bib> <lok>&ccirc;apitro 7a, p. 73a</lok></fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_n;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   <trdgrp lng="ca">
@@ -807,27 +1059,27 @@
 <!--
 
 $Log: centr.xml,v $
+Revision 1.66  2019/11/15 19:10:14  revo
+Wolfram Diestel: dis~*: ekz-oj
+
+Revision 1.65  2019/11/15 17:10:16  revo
+Wolfram Diestel: ~e de .. alto~o: ekz-oj
+
+Revision 1.64  2019/11/14 20:10:19  revo
+Wolfram Diestel: ~o, ~a: ekz-oj
+
+Revision 1.63  2019/07/05 08:10:27  revo
+Aleks Andre: zh: indekso
+
+Revision 1.62  2019/06/25 12:10:15  revo
+Jeromo Vasxe: + butik~o
+
 Revision 1.61  2018/01/05 20:10:14  revo
 Jeromo Vasxe: + -e de, + -i ekz
 
 Revision 1.60  2017/12/11 14:10:15  revo
 Michel Cantigneaux: aldonita per la 1a OA kaj fundamentita per la 8a OA,
 ne per la 7a OA
-
-Revision 1.59  2015/07/04 08:37:32  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.58  2015/06/29 16:29:36  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.57  2014/12/28 21:10:16  revo
-Filip van Laenen: +trd(nl,no)
-
-Revision 1.56  2013/10/27 15:10:19  revo
-Benito Subejrano: + trd oc
-
-Revision 1.55  2013/06/24 14:10:11  revo
-Jeromo Vasxe: + mal~a
 
 -->
 

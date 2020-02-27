@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vulgat.xml,v 1.11 2018/11/01 20:10:14 revo Exp $">
+<art mrk="$Id: vulgat.xml,v 1.12 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <rad>Vulgat</rad>/o
   <fnt>PIV</fnt>
@@ -26,7 +26,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Armando Zecchin</aut>
-          <vrk><url ref="http://www.monato.net/2008/009539.php"
+          <vrk><url ref="&Monato;/2008/009539.php"
           >Vulgato, Vulgatoj, Nova Vulgato</url></vrk>
         </fnt>;
       </ekz>
@@ -36,7 +36,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Angelos Tsirimokos</aut>
-          <vrk><url ref="http://www.monato.net/2008/009635.php">Neniam subtaksu la nescion</url></vrk>
+          <vrk><url ref="&Monato;/2008/009635.php">Neniam subtaksu la nescion</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -63,6 +63,9 @@
 
 <!--
 $Log: vulgat.xml,v $
+Revision 1.12  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
 Revision 1.11  2018/11/01 20:10:14  revo
 Wolfram Diestel: +ekz-oj
 

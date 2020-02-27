@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stadio.xml,v 1.17 2018/11/13 19:10:14 revo Exp $">
+<art mrk="$Id: stadio.xml,v 1.19 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>stadion</rad>/o
@@ -29,7 +29,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ivo Durwael</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/007945.html">Bukedo de popolarto</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/007945.html">Bukedo de popolarto</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -37,7 +37,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008231.html">Ne plu handikapitoj!</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008231.html">Ne plu handikapitoj!</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -46,7 +46,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="http://www.monato.net/2008/009595.php">Hispanio venkis, gastigantoj seniluziigis</url></vrk>
+          <vrk><url ref="&Monato;/2008/009595.php">Hispanio venkis, gastigantoj seniluziigis</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -74,6 +74,12 @@
 </art>
 <!--
 $Log: stadio.xml,v $
+Revision 1.19  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.18  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.17  2018/11/13 19:10:14  revo
 Wolfram Diestel: +ekz-oj
 

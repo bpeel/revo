@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fosfor1.xml,v 1.18 2019/01/08 20:10:21 revo Exp $">
+<art mrk="$Id: fosfor1.xml,v 1.19 2019/06/30 18:21:01 revo Exp $">
 <kap>
   <rad>fosforesk</rad>/i
 </kap>
@@ -61,7 +61,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Filippo</aut>
-          <vrk><url ref="http://www.monato.net/2006/008898.php"
+          <vrk><url ref="&Monato;/2006/008898.php"
               >Moderna po&scirc;to</url></vrk>
         </fnt>;
       </ekz>
@@ -70,7 +70,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="http://www.monato.net/2011/010474.php"
+          <vrk><url ref="&Monato;/2011/010474.php"
               >Ri&ccirc;a tero, malri&ccirc;a popolo</url></vrk>
         </fnt>;
       </ekz>
@@ -79,7 +79,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>G&eacute;rard Mansel</aut>
-          <vrk><url ref="http://www.monato.net/2014/011366.php"
+          <vrk><url ref="&Monato;/2014/011366.php"
               >&Ccirc;arma insulo en Pacifiko</url></vrk>
         </fnt>.
       </ekz>
@@ -122,6 +122,9 @@
 </art>
 <!--
 $Log: fosfor1.xml,v $
+Revision 1.19  2019/06/30 18:21:01  revo
+adaptis URL de Monato
+
 Revision 1.18  2019/01/08 20:10:21  revo
 Wolfram Diestel: +ekz-oj
 

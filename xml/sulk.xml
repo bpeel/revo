@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sulk.xml,v 1.24 2018/06/24 17:10:15 revo Exp $">
+<art mrk="$Id: sulk.xml,v 1.26 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sulk</rad>/o
@@ -193,7 +193,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="http://www.monato.net/2010/009930.php">Ni fosu nian konton!</url></vrk>
+          <vrk><url ref="&Monato;/2010/009930.php">Ni fosu nian konton!</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -406,7 +406,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Angela Tellier</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008306.html">La&ubreve;proverbaj
+          <vrk><url ref="https://www.monato.be/2004/008306.html">La&ubreve;proverbaj
           fabeloj</url></vrk>
         </fnt>.
       </ekz>
@@ -435,6 +435,12 @@
 </art>
 <!--
 $Log: sulk.xml,v $
+Revision 1.26  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.25  2019/06/30 07:43:30  revo
+adaptis URL de Monato
+
 Revision 1.24  2018/06/24 17:10:15  revo
 Wolfram Diestel: prilaboris ekz-ojn, germ trd-ojn
 

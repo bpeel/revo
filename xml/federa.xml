@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: federa.xml,v 1.26 2018/10/03 12:10:16 revo Exp $">
+<art mrk="$Id: federa.xml,v 1.28 2019/06/30 18:21:01 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>federaci</rad>/o
@@ -37,7 +37,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vja&ccirc;eslav (Slavik) Ivanov</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/007865.html">La oseta lingvo</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/007865.html">La oseta lingvo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -45,7 +45,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008168.html">EU-reformeto</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008168.html">EU-reformeto</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -163,7 +163,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Pa&ubreve;l Peeraerts</aut>
-          <vrk><url ref="http://www.monato.net/2007/009338.php">Separismo ne, egalrajteco jes</url></vrk>
+          <vrk><url ref="&Monato;/2007/009338.php">Separismo ne, egalrajteco jes</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -207,7 +207,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jomo Ipfelkofer</aut>
-          <vrk><url ref="http://www.monato.net/2012/010801.php">Murdoj, mankoj kaj misoj: demisias la &ccirc;efo</url></vrk>
+          <vrk><url ref="&Monato;/2012/010801.php">Murdoj, mankoj kaj misoj: demisias la &ccirc;efo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -225,6 +225,12 @@
 </art>
 <!--
 $Log: federa.xml,v $
+Revision 1.28  2019/06/30 18:21:01  revo
+adaptis URL de Monato
+
+Revision 1.27  2019/06/30 07:41:50  revo
+adaptis URL de Monato
+
 Revision 1.26  2018/10/03 12:10:16  revo
 Wolfram Diestel: +ekz-oj, ref-oj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koton.xml,v 1.21 2018/05/20 22:10:19 revo Exp $">
+<art mrk="$Id: koton.xml,v 1.23 2019/06/30 18:21:03 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>koton</rad>/o
@@ -25,7 +25,7 @@
           <bib>Monato</bib>
           <aut>Ren&eacute;e Triolle</aut>
           <vrk><url
-          ref="http://www.monato.net/2014/011219.php">Observanto
+          ref="&Monato;/2014/011219.php">Observanto
           observata</url></vrk>
         </fnt>;
       </ekz>
@@ -42,7 +42,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ren&eacute;e Triolle</aut>
-          <vrk><url ref="http://www.monato.net/2012/010696.php">&Ccirc;u
+          <vrk><url ref="&Monato;/2012/010696.php">&Ccirc;u
           vivofonto a&ubreve; profitfonto?</url></vrk>
         </fnt>.
       </ekz>
@@ -69,7 +69,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Sagbadjelou Kokou/pg</aut>
-          <vrk><url ref="http://www.monato.net/2005/008658.php">Pro
+          <vrk><url ref="&Monato;/2005/008658.php">Pro
           pluvo plu</url></vrk>
         </fnt>.
       </ekz>
@@ -118,7 +118,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        oni elprenis el tiuj riveroj ekde la erao de Stalin 
+        oni elprenis el tiuj riveroj ekde la erao de <nom>Stalin</nom> 
         (komenco de la intensa kultivado de <tld/>ujo en Uzbekio kaj
         Kaza&hcirc;io) multan akvon por irigacio
         <fnt>
@@ -150,8 +150,21 @@
   <kap>fulm<tld/>o</kap>
   <snc>
     <dif>
-      Kombita <tld/>o preparita kun azotacido kaj flagranta kiel pulvo.
+      Kombita <tld/>o preparita kun azotacido kaj flagranta kiel pulvo,
+      &hcirc;emie t.e. <ref cel="celulo1.0o">celuloza</ref>
+      <ref tip="super" cel="nitrat.0o">nitrato</ref> a&ubreve; piroksilino:
+      <ekz>
+        solvante fulm<tld/>on en etero a&ubreve; alkoholo, oni ricevas <ref cel="celoid.0o">celoidinon</ref>, kiun
+        oni uzas por prepari specimenojn por mikroskopado;
+      </ekz>
+      <ekz>
+        el <ref tip="malprt" cel="celulo.0o">celuloido</ref>, kombina&jcirc;o de <tld/>o kun kamforo, 
+        &gcirc;is 1950 oni produktis filmbendojn.
+      </ekz>
     </dif>
+    <refgrp tip="malprt">
+      <ref cel="kolodi.0o">kolodio</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_ib;&c_r;&c_a;&c_k;&c_s;&c_ib;&c_l;&c_ib;&c_n;</trd>,
@@ -179,8 +192,14 @@
 </art>
 <!--
 $Log: koton.xml,v $
+Revision 1.23  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
+Revision 1.22  2019/04/12 17:10:15  revo
+Wolfram Diestel: fulm~o: ref-oj, ekz-oj
+
 Revision 1.21  2018/05/20 22:10:19  revo
-Dusan Juretić: +trd es
+Dusan Jureti&cacute;: +trd es
 
 Revision 1.20  2017/11/18 12:10:14  revo
 Wolfram Diestel: prilaboris ekz-ojn, dif BOT
@@ -198,8 +217,5 @@ Revision 1.16  2014/07/01 16:10:13  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.15  2012/10/23 00:12:32  revo
-Neil Roberts: aldonu la etikedon <var>
-
-Revision 1.14  2012/08/27 06:10:16  revo
 -->
 </vortaro>

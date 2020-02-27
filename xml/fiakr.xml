@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fiakr.xml,v 1.18 2019/01/29 21:10:18 revo Exp $">
+<art mrk="$Id: fiakr.xml,v 1.19 2019/06/30 18:21:01 revo Exp $">
 <kap>
 <ofc>2</ofc>
 <rad>fiakr</rad>/o
@@ -20,7 +20,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Walter Klag</aut>
-          <vrk><url ref="http://www.monato.net/2012/010753.php">Tramo sen enir-dramo</url></vrk>
+          <vrk><url ref="&Monato;/2012/010753.php">Tramo sen enir-dramo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -88,6 +88,9 @@
 </art>
 <!--
 $Log: fiakr.xml,v $
+Revision 1.19  2019/06/30 18:21:01  revo
+adaptis URL de Monato
+
 Revision 1.18  2019/01/29 21:10:18  revo
 Wolfram Diestel: motor~o: dif+bld
 

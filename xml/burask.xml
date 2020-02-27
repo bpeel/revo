@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: burask.xml,v 1.6 2018/03/24 16:10:17 revo Exp $">
+<art mrk="$Id: burask.xml,v 1.7 2019/04/07 10:10:18 revo Exp $">
 <kap>
   <rad>burask</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -23,10 +23,12 @@
         </fnt>;
       </ekz>
       <ekz>
-        en 1834 aperis lia unua verko &leftquot;<tld lit="B"/>o&rightquot;
+        en 1834 aperis lia unua verko &leftquot;<tld
+        lit="B"/>o&rightquot;
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=283568">Sergio Aksakov</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=283568">Sergio
+          Aksakov</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -34,6 +36,7 @@
   <!-- forman maloftan traduku per malofta&jcirc;o se tia ekzistas -->
   <trd lng="de">Windb&ouml;</trd>
   <trd lng="en">squall</trd>
+  <trd lng="es">borrasca</trd>
   <trd lng="fr">rafale</trd>
   <trd lng="nl">windstoot</trd>
   <trd lng="sk">&ccaron;&lcaron;apkanica</trd>
@@ -43,6 +46,9 @@
 
 <!--
 $Log: burask.xml,v $
+Revision 1.7  2019/04/07 10:10:18  revo
+Santiago Amposta: +trd es
+
 Revision 1.6  2018/03/24 16:10:17  revo
 Wolfram Diestel: +ekz, +germ trd
 

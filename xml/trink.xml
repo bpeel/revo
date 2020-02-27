@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: trink.xml,v 1.34 2018/04/04 13:10:15 revo Exp $">
+<art mrk="$Id: trink.xml,v 1.37 2019/08/15 20:10:27 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>trink</rad>/i <fnt><bib>PV</bib></fnt>
+  <rad>trink</rad>/i 
 </kap>
 
 <drv mrk="trink.0i">
@@ -53,7 +53,28 @@
         <fnt><bib>MT</bib>, <lok>&Jug; 7:5</lok></fnt>;
       </ekz><ekz>
         man&gcirc;i sian ekskrementon kaj <tld/>i sian urinon
-        <fnt><bib>MT</bib>, <lok>&Re2; 18:27</lok></fnt>.
+        <fnt><bib>MT</bib>, <lok>&Re2; 18:27</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>mielo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>akvo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        akvo<tld/>igaj kanaloj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 30:38</lok>
+        </fnt>.
       </ekz>
     </dif>
     <ref tip="sub" cel="drink.0i">drinki</ref>
@@ -79,11 +100,11 @@
         akvon
         <fnt><bib>MT</bib>, <lok>&Ijo; 15:15</lok></fnt>;
       </ekz><ekz>
-        kiu homo estas simila al Ijob, kiu <tld/>as mokojn kiel
+        kiu homo estas simila al <nom>Ijob</nom>, kiu <tld/>as mokojn kiel
         akvon
         <fnt><bib>MT</bib>, <lok>&Ijo; 34:7</lok></fnt>;
       </ekz><ekz>
-        veki&gcirc;u, levi&gcirc;u ho Jerusalem, vi, kiu <tld/>is
+        veki&gcirc;u, levi&gcirc;u ho <nom>Jerusalem</nom>, vi, kiu <tld/>is
         el la mano de la Eternulo la kalikon de Lia kolero
         <fnt><bib>MT</bib>, <lok>&Jes; 51:16</lok></fnt>;
       </ekz><ekz>
@@ -174,19 +195,23 @@
     <dif>
       Loko ta&ubreve;ga a&ubreve; aran&gcirc;ita por <tld/>ado:
       <ekz>
-        estas nun a&ubreve;tuno sed &ccirc;i tiuj belaj floraj
-        ankora&ubreve; floras - malgra&ubreve; la haladzo de la
-        a&ubreve;toj kaj busoj - anta&ubreve; la "Cricketers"
-        <tld/>ejo, kiu estas apud la urbcentro
+        kiam la brutoj, kiuj havis soifon, ekvidis la akvon, ili ekkuris kiel eble plej
+        rapide malsupren, al la <tld/>ejo
         <fnt>
-          <aut>christine</aut>
-          <vrk><url
-          ref="http://esperanto-christine.blogspot.fr/2010/09/blog-post.html">
-          La "Cricketers" Trinkejo</url></vrk>
-          <lok>Mia Loko, 2010-09-21</lok>
+          <bib>Fab1</bib>
+          <lok>Malgranda Niko kaj granda Niko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        veninte al <tld/>ejo, li haltis <klr>[&#8230;]</klr> kaj plena de &gcirc;ojo trinkis
+        duonglason da biero por la lastaj moneroj
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Feli&ccirc;a Jo&ccirc;jo</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de">Sch&auml;nke</trd>
   </snc>
 </drv>
 
@@ -212,7 +237,7 @@
           <fnt><bib>Ekolud</bib></fnt>;
         </ekz><ekz>
           glaso: vitra <tld/>ujo
-          <fnt><bib>BazRad</bib></fnt>..
+          <fnt><bib>BazRad</bib></fnt>.
         </ekz>
       </dif>
       <trd lng="de">Trinkgef&auml;&szlig;</trd>
@@ -233,12 +258,9 @@
           por &ccirc;erpi por &ccirc;iuj liaj kameloj
           <fnt><bib>MT</bib>, <lok>&Gen; 24:20</lok></fnt>;
         </ekz><ekz>
-          <tld/>ujo = granda longforma ujo (<ref tip="sin"
-            cel="trog.0o">trogo</ref>),
+          <tld/>ujo = granda longforma ujo (<ref tip="sin" cel="trog.0o">trogo</ref>),
           el kiu bestoj <tld/>as
-          <fnt><bib>PMEG</bib>, <lok><url
- ref="http://purl.oclc.org/net/pmego?d=pmeg/pmeg10/uj.htm"
-                >uj</url></lok></fnt>.
+          <fnt><bib>PMEG</bib>, <lok><url ref="http://purl.oclc.org/net/pmego?d=pmeg/pmeg10/uj.htm">uj</url></lok></fnt>.
         </ekz>
       </dif>
       <trd lng="de">Tr&auml;nke</trd>
@@ -286,6 +308,7 @@
   </snc>
   <trd lng="be">&c_v;&c_y;&c_p;&c_ib;&c_c;&c_mol;</trd>
   <trd lng="cs">vyp&iacute;t</trd>
+  <trd lng="de">austrinken</trd>
   <trdgrp lng="fr">
       <trd>boire enti&egrave;rement</trd>,
       <trd>vider<klr> (son verre etc.)</klr></trd>
@@ -318,11 +341,13 @@
   <trd>dosyta se nap&iacute;t</trd>,
   <trd>p&iacute;t dosyta</trd>
   </trdgrp>
+  <trd lng="de">sich satt <ind>trinken</ind></trd>
   <trd lng="ru">&c_n;&c_a;&c_p;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
   <trd lng="sk">pi&tcaron; dos&yacute;ta</trd>
 </drv>
 
-<drv mrk="trink.0mono">
+<!-- tio estas en artikolo "mon" 
+drv mrk="trink.0mono">
   <kap><tld/>mono</kap>
   <snc>
     <dif>
@@ -347,17 +372,26 @@
   <trd lng="pl">napiwek</trd>
   <trd lng="ru">&c_ch;&c_a;&c_je;&c_v;&c_y;&c_je;</trd>
   <trd lng="sk">prepitn&eacute;</trd>
-</drv>
+</drv -->
 
 <drv mrk="trink.0vazo">
   <kap><tld/>vazo</kap>
   <snc>
-      <ref tip="dif" cel="trink.0ujo"><tld/>ujo</ref>
+     <dif>
+      <ref tip="dif" cel="trink.0ujo"><tld lit="T"/>ujo</ref>:
       <ekz>
         &ccirc;iuj <tld/>vazoj de la re&gcirc;o Salomono
         estis el oro
-        <fnt><bib>MT</bib>, <lok>&Kr2; 9:20</lok></fnt>.
+        <fnt><bib>MT</bib>, <lok>&Kr2; 9:20</lok></fnt>;
       </ekz>
+      <ekz>
+        kolo de botelo <klr>[&#8230;]</klr> servos kiel <tld/>vazeto por birdo
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Kolo de botelo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_d;&c_z;&c_ib;&c_n;&c_a; <klr tip="amb">(&c_d;&c_l;&c_ja;
   &c_p;&c_ib;&c_c;&c_mol;&c_c;&c_ja;)</klr></trd>
@@ -365,6 +399,10 @@
   <trd>n&aacute;doba na pit&iacute;</trd>,
   <trd>poh&aacute;r</trd>,
   <trd>&ccaron;&iacute;&scaron;e</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Trinkbecher</trd>,
+    <trd>Kelch</trd>
   </trdgrp>
   <trd lng="hu">iv&oacute;ed&eacute;ny</trd>
   <trd lng="ru">&c_s;&c_o;&c_s;&c_u;&c_d;<klr tip="amb"> (&c_d;&c_l;&c_ja;
@@ -378,6 +416,15 @@
 </art>
 <!--
 $Log: trink.xml,v $
+Revision 1.37  2019/08/15 20:10:27  revo
+Wolfram Diestel: +germ trd-oj
+
+Revision 1.36  2019/08/15 19:10:26  revo
+Wolfram Diestel: kelkaj pliaj ekz-oj
+
+Revision 1.35  2019/03/01 15:10:18  revo
+Wolfram Diestel: - ~mono
+
 Revision 1.34  2018/04/04 13:10:15  revo
 Jeromo Vasxe: + ~ejo
 
@@ -391,14 +438,5 @@ Revision 1.31  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.30  2015/06/29 16:40:20  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.29  2014/03/12 20:10:12  revo
-Agustin Garcia Lopez: +trd(es) -ajx -uj -mono
-
-Revision 1.28  2013/10/12 01:10:26  revo
-Benito Subejrano: + trd oc
-
-Revision 1.27  2013/04/29 16:10:15  revo
 -->
 </vortaro>

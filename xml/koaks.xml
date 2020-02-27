@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: koaks.xml,v 1.16 2018/12/13 20:10:20 revo Exp $">
+<art mrk="$Id: koaks.xml,v 1.17 2019/02/20 23:10:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>koaks</rad>/o
@@ -16,9 +16,12 @@
       ujo por apartigi de &gcirc;i la lumgason kaj la sulfurajn kaj bitumajn
       erojn:
       <ekz>
-        <tld/>o estas griza, poreca brula&jcirc;o, kiu konsistas grandparte el karbono, oni
-        produktas &gcirc;in el karbo per seka distilado, senaera varmigo al 1000&#8239;&deg;C elpelas
-        el karbo la volatilajn partojn, kiuj nomi&gcirc;as (kruda) <tld/>a gaso
+        <tld/>o estas griza, poreca brula&jcirc;o, kiu konsistas grandparte el
+        karbono, oni
+        produktas &gcirc;in el karbo per seka distilado, senaera varmigo al
+        1000&#8239;&deg;C elpelas
+        el karbo la volatilajn partojn, kiuj nomi&gcirc;as (kruda) <tld/>a
+        gaso
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=122699"
@@ -36,12 +39,17 @@
   <trd lng="fa">&f_k;&a_damma;&f_k;</trd>
   <trd lng="fr">coke</trd>
   <trd lng="nl">cokes</trd>
+  <trd lng="pl">koks</trd>     
+  <trd lng="ro">cocs</trd>
   <trd lng="ru">&c_k;&c_o;&c_k;&c_s;</trd>
   <trd lng="sk">koks</trd>
 </drv>
 </art>
 <!--
 $Log: koaks.xml,v $
+Revision 1.17  2019/02/20 23:10:32  revo
+Vito Redsky: +trd ro +trd pl
+
 Revision 1.16  2018/12/13 20:10:20  revo
 Wolfram Diestel: +ekz
 
@@ -61,8 +69,5 @@ Revision 1.11  2005/04/24 16:32:10  revo
 Alan ar Gall: +trd br
 
 Revision 1.10  2004/12/26 17:32:43  revo
-Marc Bavant: +trd fr
-
-Revision 1.9  2004/11/22 17:32:08  revo
 -->
 </vortaro>

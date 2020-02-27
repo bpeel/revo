@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: mufti.xml,v 1.15 2018/12/04 18:10:22 revo Exp $">
+<art mrk="$Id: mufti.xml,v 1.16 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <rad>mufti</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -24,7 +24,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Petro De Smet'</aut>
-          <vrk><url ref="http://www.monato.net/2008/009516.php"
+          <vrk><url ref="&Monato;/2008/009516.php"
               >&Ccirc;u &scirc;tormo en tetaso a&ubreve; en ambono?</url></vrk>
         </fnt>.
       </ekz>
@@ -50,6 +50,9 @@
 
 <!--
 $Log: mufti.xml,v $
+Revision 1.16  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
 Revision 1.15  2018/12/04 18:10:22  revo
 Wolfram Diestel: +ekz
 

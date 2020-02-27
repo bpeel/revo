@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sperm.xml,v 1.22 2018/11/14 18:10:19 revo Exp $">
+<art mrk="$Id: sperm.xml,v 1.23 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>sperm</rad>/o
@@ -22,7 +22,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="http://www.monato.net/2014/011217.php">Nekovrilaj malkovroj</url></vrk>
+          <vrk><url ref="&Monato;/2014/011217.php">Nekovrilaj malkovroj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -32,7 +32,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garvan Makaj</aut>
-          <vrk><url ref="http://www.monato.net/2008/009457.php">Nigra apokalipso</url></vrk>
+          <vrk><url ref="&Monato;/2008/009457.php">Nigra apokalipso</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -78,6 +78,9 @@
 </art>
 <!--
 $Log: sperm.xml,v $
+Revision 1.23  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
 Revision 1.22  2018/11/14 18:10:19  revo
 Wolfram Diestel: +ekz-oj, ref-oj
 

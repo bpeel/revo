@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: inkluz.xml,v 1.33 2017/02/16 15:10:16 revo Exp $">
+<art mrk="$Id: inkluz.xml,v 1.34 2019/04/10 19:10:18 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>inkluziv</rad>/a <fnt><bib>PV</bib></fnt>
@@ -49,7 +49,7 @@
 </drv>
 
 <drv mrk="inkluz.0e">
-  <kap><tld/>e</kap>
+  <kap><ofc>2</ofc> <tld/>e</kap>
   <snc mrk="inkluz.0e.KOMUNE">
     <dif>
       Enhavante la koncernatan aferon a&ubreve; limon:
@@ -319,6 +319,9 @@
 </art>
 <!--
 $Log: inkluz.xml,v $
+Revision 1.34  2019/04/10 19:10:18  revo
+Wolfram Diestel: ofc 2 che ~e
+
 Revision 1.33  2017/02/16 15:10:16  revo
 Jeromo Vasxe: inkluzivvigas -> inkluzivigas
 
@@ -338,8 +341,5 @@ Revision 1.28  2009/09/28 16:30:28  revo
 Sergio Pokrovskij: movis tr={fr,hu} en ilian lokon sub ~igi
 
 Revision 1.27  2009/09/26 16:30:57  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.26  2009/09/23 17:25:46  revo
 -->
 </vortaro>

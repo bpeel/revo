@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kurtin.xml,v 1.13 2018/10/22 17:10:17 revo Exp $">
+<art mrk="$Id: kurtin.xml,v 1.14 2019/06/30 18:21:03 revo Exp $">
 <kap>
   <rad>kurtin</rad>/o
 </kap>
@@ -19,7 +19,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jean-Yves Santerre</aut>
-          <vrk><url ref="http://www.monato.net/2009/009817.php">Fortika&jcirc;urbo Gerando</url></vrk>
+          <vrk><url ref="&Monato;/2009/009817.php">Fortika&jcirc;urbo Gerando</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -48,6 +48,9 @@
 </art>
 <!--
 $Log: kurtin.xml,v $
+Revision 1.14  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
 Revision 1.13  2018/10/22 17:10:17  revo
 Wolfram Diestel: +ekz-oj
 

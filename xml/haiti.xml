@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: haiti.xml,v 1.12 2018/08/19 16:10:16 revo Exp $">
+<art mrk="$Id: haiti.xml,v 1.13 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <rad>Haiti</rad>/o
   <fnt><bib>RLN</bib></fnt>
@@ -27,7 +27,7 @@
         unu el la multaj, kiuj perdis familianojn kaj sian tutan hava&jcirc;on en <tld/>o
         <fnt>
           <bib>Monato</bib>
-          <vrk><url ref="http://www.monato.net/2010/009994.php">Mi vivas surstrate ...</url></vrk>
+          <vrk><url ref="&Monato;/2010/009994.php">Mi vivas surstrate ...</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -35,7 +35,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="http://www.monato.net/2012/010625.php">Batalanto universitata</url></vrk>
+          <vrk><url ref="&Monato;/2012/010625.php">Batalanto universitata</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -63,6 +63,9 @@
 
 <!--
 $Log: haiti.xml,v $
+Revision 1.13  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.12  2018/08/19 16:10:16  revo
 Wolfram Diestel: bib RLN
 

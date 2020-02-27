@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: monak1.xml,v 1.11 2019/02/06 17:10:20 revo Exp $">
+<art mrk="$Id: monak1.xml,v 1.13 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <rad>Monak</rad>/o
   <fnt><bib>RLN</bib></fnt>
@@ -31,7 +31,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ren&eacute;e Triolle</aut>
-          <vrk><url ref="https://www.monato.net/2006/008835.php"
+          <vrk><url ref="&Monato;/2006/008835.php"
               >500 &ccirc;efverkoj en Monako</url></vrk>
         </fnt>;
       </ekz>
@@ -51,32 +51,41 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Gerard Escuer</aut>
-          <vrk><url ref="https://www.monato.net/2005/008697.php"
+          <vrk><url ref="&Monato;/2005/008697.php"
               >Andoro ne estas Monako</url></vrk>
         </fnt>.
       </ekz>
     </dif>
-    </snc>
-    <trd lng="be">&c_M;&c_a;&c_n;&c_a;&c_k;&c_a;</trd>
-    <trd lng="bg">&c_M;&c_o;&c_n;&c_a;&c_k;&c_o;</trd>
-    <trd lng="de">Monaco</trd>
-    <trd lng="en">Monaco</trd>
-    <trd lng="es">M&oacute;naco</trd>
-    <trd lng="fa">&a_m;&a_w;&a_n;&a_A;&f_k;&a_w;</trd>
-    <trd lng="fr">Monaco</trd>
-    <trd lng="id">Monako</trd>
-    <trd lng="nl">Monaco</trd>
-    <trdgrp lng="pl">
-      <trd>Monako</trd>,
-      <trd>Ksi&eogonek;stwo <ind>Monako</ind></trd>
-    </trdgrp>
-    <trd lng="pt">M&oacute;naco</trd>
+  </snc>
+  <rim>
+    Monako estas anka&ubreve; apena&ubreve; uzata varia&jcirc;o de <ref tip="hom" cel="monahx.0o">mona&hcirc;o</ref>.
+  </rim>
+  <trd lng="be">&c_M;&c_a;&c_n;&c_a;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_M;&c_o;&c_n;&c_a;&c_k;&c_o;</trd>
+  <trd lng="de">Monaco</trd>
+  <trd lng="en">Monaco</trd>
+  <trd lng="es">M&oacute;naco</trd>
+  <trd lng="fa">&a_m;&a_w;&a_n;&a_A;&f_k;&a_w;</trd>
+  <trd lng="fr">Monaco</trd>
+  <trd lng="id">Monako</trd>
+  <trd lng="nl">Monaco</trd>
+  <trdgrp lng="pl">
+    <trd>Monako</trd>,
+    <trd>Ksi&eogonek;stwo <ind>Monako</ind></trd>
+  </trdgrp>
+  <trd lng="pt">M&oacute;naco</trd>
 </drv>
 
 </art>
 
 <!--
 $Log: monak1.xml,v $
+Revision 1.13  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
+Revision 1.12  2019/03/01 14:10:17  revo
+Wolfram Diestel: +rim hom monako (piulo)
+
 Revision 1.11  2019/02/06 17:10:20  revo
 Wolfram Diestel: +ekz-oj
 
@@ -96,8 +105,5 @@ Revision 1.6  2013/02/12 03:10:11  revo
 Evandro Avellar: Tr+ pt
 
 Revision 1.5  2011/02/15 18:10:16  revo
-Luiz Portella: kor. ref k mrk
-
-Revision 1.4  2009/10/01 16:30:31  revo
 -->
 </vortaro>

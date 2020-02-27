@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sep.xml,v 1.34 2017/10/20 23:10:19 revo Exp $">
+<art mrk="$Id: sep.xml,v 1.36 2019/07/06 09:10:51 revo Exp $">
 <kap><ofc>*</ofc>
   <rad>sep</rad></kap>
 
@@ -35,6 +35,7 @@
   <trd lng="fi">seitsem&auml;n</trd>
   <trd lng="fr">sept</trd>
   <trd lng="he">&shin;&bet;&ayin;</trd>
+  <trd lng="hi">&#2360;&#2366;&#2340; [<ind>s&#257;t</ind>]</trd>
   <trd lng="hu">h&eacute;t</trd>
   <trd lng="id">tujuh</trd>
   <trd lng="it">sette</trd>
@@ -108,6 +109,12 @@
 <!--
 
 $Log: sep.xml,v $
+Revision 1.36  2019/07/06 09:10:51  revo
+Aleks Andre: hi: iso 15919
+
+Revision 1.35  2019/07/04 15:10:17  revo
+Aleks Andre: hi: sep
+
 Revision 1.34  2017/10/20 23:10:19  revo
 Evandro Avellar: trd pt
 
@@ -124,12 +131,6 @@ Revision 1.30  2013/10/31 11:10:36  revo
 Wolfram Diestel: +val, smb
 
 Revision 1.29  2013/09/25 18:10:20  revo
-Wolfram Diestel: ref al listo nombroj
-
-Revision 1.28  2013/04/26 15:10:16  revo
-Eko Nur Syah Hidayat: +trd id
-
-Revision 1.27  2012/08/28 13:10:13  revo
 -->
 
 </vortaro>

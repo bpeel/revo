@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ukrajn.xml,v 1.15 2019/02/10 18:10:15 revo Exp $">
+<art mrk="$Id: ukrajn.xml,v 1.17 2019/10/16 06:10:16 revo Exp $">
 <kap>
   <rad>ukrajn</rad>/o,
   <var><kap><rad>ukrain</rad>/o</kap></var>
@@ -57,7 +57,7 @@
       </ekz>
     </dif>
     <rim>
-      La malavanta&gcirc;o de &ccirc;i tiu formo kompare kun
+      La malavanta&gcirc;o de la formo <ctl>ukraino</ctl> kompare kun
       <ctl>ukrajno</ctl> estas la &scirc;ajne sufiksa
       <ctl>-ino</ctl>,
       kian oni normale evitas en Esperanto &scirc;an&gcirc;ante la
@@ -191,7 +191,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Dmitrij Cibulevskij</aut>
-          <vrk><url ref="https://www.monato.net/2003/008014.html"
+          <vrk><url ref="&Monato;/2003/008014.html"
               >Ukrainaj kantoj kaj peterburgaj groteskoj</url></vrk>
         </fnt>;
       </ekz>
@@ -265,6 +265,12 @@
 
   <!--
   $Log: ukrajn.xml,v $
+  Revision 1.17  2019/10/16 06:10:16  revo
+  Wolfram Diestel: rim: vortumo
+
+  Revision 1.16  2019/06/30 18:21:50  revo
+  adaptis URL de Monato
+
   Revision 1.15  2019/02/10 18:10:15  revo
   Wolfram Diestel: +var, pliaj ekz-oj
 

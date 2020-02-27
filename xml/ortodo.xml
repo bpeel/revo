@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ortodo.xml,v 1.30 2015/07/04 08:37:40 revo Exp $">
+<art mrk="$Id: ortodo.xml,v 1.31 2019/06/30 07:43:29 revo Exp $">
 <kap><ofc>2</ofc>
   <rad>ortodoks</rad>/a</kap> <fnt><bib>PV</bib></fnt>
 
@@ -156,7 +156,7 @@
         <fnt>
           <aut>G. Berveling</aut>,
           <vrk><url
-              ref="http://www.esperanto.be/fel/2005/008506.php"
+              ref="https://www.monato.be/2005/008506.php"
               >Nova biblio okopa</url></vrk>,
           <bib>Monato</bib>
         </fnt>.
@@ -252,6 +252,9 @@
 </art>
 <!--
 $Log: ortodo.xml,v $
+Revision 1.31  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.30  2015/07/04 08:37:40  revo
 aldono de trd cs per skripto de M. von Laer
 

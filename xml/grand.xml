@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd"> 
 
 <vortaro> 
-<art mrk="$Id: grand.xml,v 1.55 2018/08/24 15:15:13 revo Exp $"> 
+<art mrk="$Id: grand.xml,v 1.58 2019/08/28 01:10:21 revo Exp $"> 
 <kap> 
   <ofc>*</ofc> 
   <rad>grand</rad>/a <fnt><bib>PV</bib></fnt> 
@@ -108,6 +108,7 @@
   <trd lng="es">grande</trd>
   <trd lng="fr">grand</trd>
   <trd lng="he">&gimel;&dalet;&vav;&lamed;</trd>
+  <trd lng="hi">&#2350;&#2361;&#2366; [<ind>mah&#257;</ind>]</trd>
   <trd lng="hu">nagy</trd>
   <trdgrp lng="id">
     <trd>agung</trd>,
@@ -226,10 +227,9 @@
     <trd>urasta&cacute;</trd> 
   </trdgrp> 
   <trd lng="pt">crescer</trd> 
-  <trd lng="ru"> 
-  &c_u;&c_v;&c_je;&c_l;&c_i;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;
-</trd> 
+  <trd lng="ru">&c_u;&c_v;&c_je;&c_l;&c_i;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd> 
   <trd lng="sv">v&auml;xa</trd> 
+  <trd lng="tp">kama suli</trd>
 </drv> 
 
 <drv mrk="grand.0egulo"> 
@@ -271,6 +271,7 @@
     <trd>obor</trd>,
     <trd>velik&aacute;n</trd>
   </trdgrp>
+  <trd lng="tp">jan pi suli mute</trd>
   <trd lng="vo">gletel</trd>
 </drv> 
 
@@ -417,6 +418,7 @@
     <trd>trpasl&iacute;k</trd>
   </trdgrp>
   <trd lng="sv">dv&auml;rg</trd>
+  <trd lng="tp">jan pi lili mute</trd>
 </drv> 
 
 <drv mrk="grand.mez0a"> 
@@ -601,6 +603,15 @@
 </art> 
 <!-- 
 $Log: grand.xml,v $
+Revision 1.58  2019/08/28 01:10:21  revo
+Sam Penter: +trd tp
+
+Revision 1.57  2019/07/06 09:10:37  revo
+Aleks Andre: hi: iso 15919
+
+Revision 1.56  2019/07/04 15:10:39  revo
+Aleks Andre: +trd hi
+
 Revision 1.55  2018/08/24 15:15:13  revo
 kor. ecaron en la chehha
 
@@ -614,17 +625,5 @@ tradukoj aldonitaj
 Revision 1.52  2018/05/16 19:10:16  revo
 Benoit Soubeyran: +he
 
-Revision 1.51  2017/06/04 22:10:13  revo
-Robin van der Vliet: nun ja anglas, antauxe estis en alia lingvo
-
-Revision 1.50  2017/01/27 13:10:11  revo
-Lyubomir Vasilev: +trd en,bg
-
-Revision 1.49  2016/11/03 01:10:14  revo
-Carlos Garcia: +trd ro  ~a ~o fizika ~o, es ~a ~o fizika~o -igx tro~igi
-mez~a
-
-Revision 1.48  2015/07/04 08:37:35  revo
-aldono de trd cs per skripto de M. von Laer
 --> 
 </vortaro>

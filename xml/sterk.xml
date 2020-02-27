@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: sterk.xml,v 1.22 2018/10/12 20:10:19 revo Exp $">
+<art mrk="$Id: sterk.xml,v 1.23 2019/07/30 14:10:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sterk</rad>/o <fnt><bib>PV</bib></fnt>
@@ -136,12 +136,19 @@
     </dif>
   </snc>
   <trd lng="cs">hromada hnoje</trd>
+  <trdgrp lng="es">
+    <trd>estercolero</trd>,
+    <trd>muladar<klr tip="ind">(estercolero)</klr></trd>
+  </trdgrp>
   <trd lng="fr">tas de <ind>fumier</ind></trd>
   <trd lng="sk">hromada hnoja</trd>
 </drv>
 </art>
 <!--
 $Log: sterk.xml,v $
+Revision 1.23  2019/07/30 14:10:14  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.22  2018/10/12 20:10:19  revo
 Behnam Tabatabai: +trd fa
 
@@ -161,8 +168,5 @@ Revision 1.17  2011/11/07 01:10:19  revo
  Anchise Inzaghi: traduko q'eqchi'
 
 Revision 1.16  2010/09/14 16:30:16  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.15  2010/06/16 16:30:30  revo
 -->
 </vortaro>

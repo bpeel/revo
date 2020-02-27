@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kokon.xml,v 1.16 2018/05/17 09:10:15 revo Exp $">
+<art mrk="$Id: kokon.xml,v 1.17 2019/03/02 00:10:22 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>kokon</rad>/o <fnt><bib>PV</bib></fnt>
@@ -44,12 +44,36 @@
   <trd lng="de">Kokon</trd>
   <trd lng="fr">cocon</trd>
   <trd lng="nl">cocon</trd>
-  <trd lng="ru">&c_k;&c_o;&c_k;&c_o;&c_n;</trd>
+  <trdgrp lng="pl">
+    <trd>kokon</trd>,
+    <trd>oprz&eogonek;d <klr>(larw)</klr> </trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>cocon</trd>,
+    <trd>pup&abreve;</trd>
+  </trdgrp>                                                             
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                        
+  <trd
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                        
+  lng="ru">&c_k;&c_o;&c_k;&c_o;&c_n;</trd>
   <trd lng="sk">z&aacute;motok h&uacute;senice</trd>
 </drv>
 </art>
 <!--
 $Log: kokon.xml,v $
+Revision 1.17  2019/03/02 00:10:22  revo
+Vito Redsky: +trd ro +trd pl
+
 Revision 1.16  2018/05/17 09:10:15  revo
 Joop Eggen: +trd bg
 
@@ -69,8 +93,5 @@ Revision 1.11  2004/12/26 17:33:39  revo
 Marc Bavant: +trd fr, +ZOO
 
 Revision 1.10  2002/11/17 18:26:58  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9  2002/01/03 17:33:36  revo
 -->
 </vortaro>

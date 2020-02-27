@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krom1.xml,v 1.31 2018/12/10 17:51:51 revo Exp $">
+<art mrk="$Id: krom1.xml,v 1.32 2019/06/30 18:21:03 revo Exp $">
 <kap>
   <rad>krom</rad>/o <fnt><bib>VdE</bib></fnt>,
   <var><kap><rad>&hcirc;rom</rad>/o</kap></var>,
@@ -42,7 +42,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ren&eacute;e Triolle</aut>
-          <vrk><url ref="http://www.monato.net/2015/011584.php"
+          <vrk><url ref="&Monato;/2015/011584.php"
               >Ru&gcirc;aj &scirc;limoj en Mediteraneo</url></vrk>
         </fnt>;
       </ekz>
@@ -51,7 +51,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="http://www.monato.net/2011/010474.php"
+          <vrk><url ref="&Monato;/2011/010474.php"
               >Ri&ccirc;a tero, malri&ccirc;a popolo</url></vrk>
         </fnt>;
       </ekz>
@@ -143,6 +143,9 @@
 </art>
   <!--
   $Log: krom1.xml,v $
+  Revision 1.32  2019/06/30 18:21:03  revo
+  adaptis URL de Monato
+
   Revision 1.31  2018/12/10 17:51:51  revo
   Wolfram Diestel: +var kromio, pliaj ekz-oj
 

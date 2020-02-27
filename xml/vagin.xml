@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vagin.xml,v 1.29 2018/08/19 09:10:17 revo Exp $">
+<art mrk="$Id: vagin.xml,v 1.31 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>vagin</rad>/o
   <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -31,7 +31,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008429.html">Komiksoj bonintencaj, sed tre mallertaj</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008429.html">Komiksoj bonintencaj, sed tre mallertaj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -39,7 +39,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Gerrit Berveling</aut>
-          <vrk><url ref="http://www.monato.net/2006/008882.php">Malpaciga pacpremio</url></vrk>
+          <vrk><url ref="&Monato;/2006/008882.php">Malpaciga pacpremio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -118,7 +118,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ren&eacute;e Triolle</aut>
-          <vrk><url ref="http://www.monato.net/2005/008741.php">Norduloj ebligas sudan sanon</url></vrk>
+          <vrk><url ref="&Monato;/2005/008741.php">Norduloj ebligas sudan sanon</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -164,6 +164,12 @@
 </art>
 <!--
 $Log: vagin.xml,v $
+Revision 1.31  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.30  2019/06/30 07:43:30  revo
+adaptis URL de Monato
+
 Revision 1.29  2018/08/19 09:10:17  revo
 Wolfram Diestel: +ekz-oj
 

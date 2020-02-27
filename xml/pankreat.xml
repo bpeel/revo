@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pankreat.xml,v 1.7 2018/09/29 15:10:15 revo Exp $">
+<art mrk="$Id: pankreat.xml,v 1.8 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>9</ofc>
   <rad>pankreat</rad>/o <fnt><bib>PIV1</bib></fnt>,
@@ -40,7 +40,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Petro Desmet'</aut>
-          <vrk><url ref="http://www.monato.net/2006/009004.php">Jubile, jubilade, gargantuece palatkareseme</url></vrk>
+          <vrk><url ref="&Monato;/2006/009004.php">Jubile, jubilade, gargantuece palatkareseme</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -77,6 +77,9 @@
 
 <!--
 $Log: pankreat.xml,v $
+Revision 1.8  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
 Revision 1.7  2018/09/29 15:10:15  revo
 Wolfram Diestel: +var, +ekz-oj
 

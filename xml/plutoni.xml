@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plutoni.xml,v 1.18 2018/11/04 14:10:16 revo Exp $">
+<art mrk="$Id: plutoni.xml,v 1.19 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <rad>plutoni</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -31,7 +31,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.monato.net/2009/009837.php">Monstra atompotenco</url></vrk>
+          <vrk><url ref="&Monato;/2009/009837.php">Monstra atompotenco</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -40,7 +40,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>last</aut>
-          <vrk><url ref="http://www.monato.net/2013/010882.php">Muzeo pri la malvarma milito</url></vrk>
+          <vrk><url ref="&Monato;/2013/010882.php">Muzeo pri la malvarma milito</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -67,6 +67,9 @@
 </art>
 <!--
 $Log: plutoni.xml,v $
+Revision 1.19  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
 Revision 1.18  2018/11/04 14:10:16  revo
 Wolfram Diestel: +ekz-oj
 

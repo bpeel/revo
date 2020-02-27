@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: paletr.xml,v 1.20 2018/11/30 21:10:14 revo Exp $">
+<art mrk="$Id: paletr.xml,v 1.22 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>paletr</rad>/o
 </kap>
@@ -33,7 +33,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marc Gassion</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/007934.html">Aude</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/007934.html">Aude</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -41,7 +41,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008066.html">Retrorigardo al intensa vivo</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008066.html">Retrorigardo al intensa vivo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -49,7 +49,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garvan Makaj</aut>
-          <vrk><url ref="http://www.monato.net/2010/010132.php">Monda kulturo apud la maro</url></vrk>
+          <vrk><url ref="&Monato;/2010/010132.php">Monda kulturo apud la maro</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -76,6 +76,12 @@
 </art>
 <!--
 $Log: paletr.xml,v $
+Revision 1.22  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
+Revision 1.21  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.20  2018/11/30 21:10:14  revo
 Wolfram Diestel: +snc figure, +ekz-oj
 

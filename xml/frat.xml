@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frat.xml,v 1.49 2018/07/06 20:10:17 revo Exp $">
+<art mrk="$Id: frat.xml,v 1.51 2019/07/06 09:10:53 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>frat</rad>/o
@@ -653,7 +653,7 @@ amon:
   <trd lng="en">sibling</trd>
   <trd lng="fa">&a_h;&a_m;&zwnj;&a_n;&f_y;&a_A;</trd>
   <trd lng="fi">sisarus</trd>
-  <trd lng="hi">&#2360;&#2361;&#2379;&#2342;&#2352;</trd>
+  <trd lng="hi">&#2360;&#2361;&#2379;&#2342;&#2352; [<ind>sah&#333;dar</ind>]</trd>
   <trd lng="hu">testv&eacute;r</trd>
   <trd lng="id">saudara</trd>
   <trd lng="io">frato</trd>
@@ -807,6 +807,12 @@ amon:
 </art>
 <!--
 $Log: frat.xml,v $
+Revision 1.51  2019/07/06 09:10:53  revo
+Aleks Andre: hi: iso 15919
+
+Revision 1.50  2019/07/04 14:10:27  revo
+Aleks Andre: hi: prononcado en -ind- por la indekso
+
 Revision 1.49  2018/07/06 20:10:17  revo
 Jeromo Vasxe: + laika ~o
 
@@ -823,11 +829,5 @@ Robin van der Vliet: +gefrato, +gefratoj, +laktofratino, +mamfratino,
 
 Revision 1.45  2016/11/20 21:10:17  revo
 Robin van der Vliet: +trd sv, tp
-
-Revision 1.44  2016/11/19 21:10:13  revo
-Robin van der Vliet: +fratina, +fratineco, +trd en, io, nl, vo
-
-Revision 1.43  2015/07/04 08:37:34  revo
-aldono de trd cs per skripto de M. von Laer
 -->
 </vortaro>

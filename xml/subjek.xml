@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: subjek.xml,v 1.17 2018/11/13 18:10:15 revo Exp $">
+<art mrk="$Id: subjek.xml,v 1.19 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>subjekt</rad>/o
@@ -30,7 +30,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vinko O&scaron;lak</aut>
-          <vrk><url ref="http://www.monato.net/2010/010022.php">Dekstrismo en demokratio</url></vrk>
+          <vrk><url ref="&Monato;/2010/010022.php">Dekstrismo en demokratio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -63,7 +63,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Yamasaki Seik&ocirc;</aut>
-          <vrk><url ref="http://www.monato.net/2005/008691.php">Familia nomo</url></vrk>
+          <vrk><url ref="&Monato;/2005/008691.php">Familia nomo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -93,7 +93,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008067.html">Marioneto &ccirc;iam aktuala</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008067.html">Marioneto &ccirc;iam aktuala</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -125,6 +125,12 @@
   </art>
   <!--
   $Log: subjek.xml,v $
+  Revision 1.19  2019/06/30 18:21:50  revo
+  adaptis URL de Monato
+
+  Revision 1.18  2019/06/30 07:43:29  revo
+  adaptis URL de Monato
+
   Revision 1.17  2018/11/13 18:10:15  revo
   Wolfram Diestel: +ekz-oj
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: kimon.xml,v 1.20 2019/02/09 23:11:24 revo Exp $">
+<art mrk="$Id: kimon.xml,v 1.22 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>kimon</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -21,7 +21,7 @@
           <bib>Monato</bib>
           <aut>Hori Yasuo</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2003/007854.html">&Ccirc;u &gcirc;oja
+          ref="https://www.monato.be/2003/007854.html">&Ccirc;u &gcirc;oja
           plorpluvo?</url></vrk>
         </fnt>;
       </ekz>
@@ -31,7 +31,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Se&scirc;imo Masaja</aut>
-          <vrk><url ref="http://www.monato.net/2015/011526.php">Ono da
+          <vrk><url ref="&Monato;/2015/011526.php">Ono da
           kimono-portantoj</url></vrk>
         </fnt>;
       </ekz>
@@ -42,7 +42,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Yves Nicolas</aut>
-          <vrk><url ref="http://www.monato.net/2015/011609.php">Ne
+          <vrk><url ref="&Monato;/2015/011609.php">Ne
           mortas la kimono-kulturo</url></vrk>
         </fnt>.
       </ekz>
@@ -67,6 +67,12 @@
 </art>
 <!--
 $Log: kimon.xml,v $
+Revision 1.22  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
+Revision 1.21  2019/06/30 07:42:48  revo
+adaptis URL de Monato
+
 Revision 1.20  2019/02/09 23:11:24  revo
 Vito Redsky: +trd pl +trd ro
 

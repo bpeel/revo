@@ -2,10 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hejm.xml,v 1.37 2018/05/14 22:10:16 revo Exp $">
+<art mrk="$Id: hejm.xml,v 1.39 2019/09/27 16:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>hejm</rad>/o <fnt><bib>PV</bib></fnt>
+  <rad>hejm</rad>/o 
 </kap>
 <drv mrk="hejm.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -14,13 +14,85 @@
       Loko, lo&gcirc;ejo a&ubreve; konstrua&jcirc;o en kiu koncernulo
       vivas konstante, precipe la familia restadejo:
       <ekz>
-        vagulo ne havanta <tld/>on<fnt>B</fnt>;
+        la necesan grenon por via <tld/>o prenu kaj iru
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 42:33</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        Jehuda estis <ind>el<tld/>igi</ind>ta el sia lando
-        <fnt><bib>MT</bib>, <lok>&Re2; 25:21</lok></fnt>.
-        <trd lng="fr">expulser<klr tip="ind"> (de son domicile)</klr>
+        &scirc;i forlasis la amikojn kaj <tld/>on
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nur unu fojon &ccirc;iujare estas al ni permesite viziti nian patran <tld/>on
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni atingis nian <tld/>on, sed nia kabano estis amaso da ruinoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Ligo de amikeco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        inter la fremduloj estis unu kantisto el nordo, el la <tld/>o de la nebuloj kaj
+        nordaj lumoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Rozo de la tombo de Homero</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>sopiro al la <tld/>o</ind> ilin atakis
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+        <trd lng="de">Heimweh</trd>
+      </ekz>
+      <ekz>
+        <nom>Jehuda</nom> estis <ind>el<tld/>igi</ind>ta el sia lando
+        <fnt><bib>MT</bib>, <lok>&Re2; 25:21</lok></fnt>;
+          <trd lng="fr">expulser<klr tip="ind"> (de son domicile)</klr>
         </trd>
+      </ekz>
+      <ekz>
+        azil<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Maul Stefan</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/006929.html">Germanio: Brutalaj dekstruloj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        studenta <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/006938.html">Arkitekturo: Friedensreich Hundertwasser 1928 - 2000</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        orfo<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zofia Banet-Fornalowa</aut>
+          <vrk><url ref="https://www.monato.be/2003/008093.html">Li semis bonon kaj belon</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>estro en <tld/>o por mizeruloj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Boris Kolker</aut>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007110.html">Atentokapta sed ru&gcirc;krajoninda</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -128,23 +200,60 @@
 
 <drv mrk="hejm.0a">
   <kap><tld/>a</kap>
-  <snc>
+  <snc mrk="hejm.0a.rilata">
     <dif>
       De <tld/>o, rilata al <tld/>o:
       <ekz>
-        <tld/>a lando, lingvo;
+        <tld/>a lingvo
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        nia lingvo estas al ili <tld/>a<fnt>Z</fnt>
-        <klr>(malfremda)</klr>;
+        la <tld/>a lando
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili flugis super la <tld/>aj lokoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>An&gcirc;elo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li sentis kvaza&ubreve; odoron el la <tld/>aj arbaroj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Sambuka virineto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nia lingvo <klr>[&#8230;]</klr> estas al ili <klr>[&#8230;]</klr> <tld/>a
+        <klr>(malfremda)</klr>
+        <fnt>
+          <bib>LR</bib>
+          <lok>4. Vortaroj</lok>
+        </fnt>;
       </ekz>
       <ekz>
         <tld/>a <klr>(negli&gcirc;a)</klr> vesto;
       </ekz>
-      <ekz><tld/>a dometo estas kiel patrineto
-        <fnt><bib>PrV</bib></fnt></ekz>
+      <ekz>
+        <tld/>a dometo estas kiel patrineto
+        <fnt><bib>PrV</bib></fnt>
+      </ekz>
       <ekz>
         <tld/>aj dia&jcirc;oj.
+      </ekz>
+      <ekz>
+        sen<tld/>aj malri&ccirc;uloj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 58:7</lok>
+        </fnt>;
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -161,7 +270,7 @@
       <trd>ojczysty</trd>
     </trdgrp>
   </snc>
-  <snc>
+  <snc mrk="hejm.0a.apudhejma">
     <dif>
       Vivanta &ccirc;e <tld/>o:
       <ekz>
@@ -176,7 +285,12 @@
         &c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_o;&c_je;</trd>
       </ekz>
       <ekz>
-        <tld/>aj katoj, &scirc;afinoj<fnt>Z</fnt>.
+        sur la herbejo sin pa&scirc;tis sennombraj aroj de <tld/>aj bestoj: bovoj senkornaj
+        kaj kornaj, &scirc;afinoj, kaprinoj, azenoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXI</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="sin">
@@ -189,6 +303,7 @@
     <trd>dom&aacute;ck&yacute;</trd>,
     <trd>&uacute;tuln&yacute;</trd>
   </trdgrp>
+  <trd lng="de">heimisch</trd>
   <trd lng="es">dom&eacute;stico</trd>
   <trdgrp lng="fr">
     <trd>domestique</trd>,
@@ -215,11 +330,11 @@
 
 <drv mrk="hejm.0e">
   <kap><tld/>e</kap>
-  <snc>
+  <snc mrk="hejm.0e.en_hejmo">
     <dif>
       En sia <tld/>o:
       <ekz>
-        &ccirc;u s-ro N. estas <tld/>e?;
+        &ccirc;u s-ro N. estas <tld/>e?
       </ekz>
       <ekz>
         reveni <tld/>en;
@@ -230,11 +345,18 @@
       </ekz>
       <ekz>
         al &scirc;i fari&gcirc;is en la koro ankora&ubreve; pli agrable
-        kaj <tld/>e<fnt>Z</fnt>;
+        kaj <tld/>e
+        <fnt>
+          <aut>Henri Heine, trad. L. L. Zamenhof</aut>
+          <vrk><url ref="https://tekstaro.com/pl/prenitutantekston.pl?nomo=la-rabeno-de-bahharahh">La Rabeno de Ba&hcirc;ara&hcirc;</url></vrk>
+        </fnt>;
       </ekz>
       <ekz>
         tiu &ccirc;i ideo en la publiko ne estas tiel <tld/>e <klr>
-        (kutime akceptata)</klr>, kiel &gcirc;i devos esti<fnt>Z</fnt>.
+        (kutime akceptata)</klr>, kiel &gcirc;i devus esti
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -263,6 +385,14 @@
     <dif>
       Resti en <tld/>o:
       <ekz>
+        la UK okazis en lando, kie iam Esperanto <tld/>is nature
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="https://www.monato.be/2004/008066.html">Retrorigardo al intensa vivo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
         domo, en kiu mia familio <tld/>is
         <fnt>
           <aut>-</aut>,
@@ -277,6 +407,13 @@
     <uzo tip="stl">FIG</uzo>
     <dif>
       Esti en sia normala, konvena loko a&ubreve; medio:
+      <ekz>
+        &gcirc;oj' sova&gcirc;a <tld/>as meze de l' naturo
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+        </fnt>;
+      </ekz>
       <ekz>
         <tld/>as anka&ubreve; en la franca tiu dirmaniero
         <fnt>
@@ -300,16 +437,41 @@
 </drv>
 
 <drv mrk="hejm.0eca">
-  <kap><tld/>eca<fnt>Z</fnt></kap>
+  <kap><tld/>eca</kap>
   <snc mrk="hejm.0eca.KOMUNE">
     <dif>
-      Kvaza&ubreve; <tld/>a.
+      Kvaza&ubreve; <tld/>a:
+      <ekz>
+        la &ccirc;ambro estis tre <tld/>eca kaj komforta
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova strata lanterno</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la domo estis <tld/>ece, kaj oni tie bone vivis
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la sonoj estis tiel solenaj kaj <tld/>ecaj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Sub la saliko</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <ref tip="vid" cel="komfor.0a">komforta</ref>
   </snc>
   <trdgrp lng="cs">
     <trd>dom&aacute;ck&yacute;</trd>,
     <trd>&uacute;tuln&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>heimelig</trd>,
+    <trd>gem&uuml;tlich</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>hogare&ntilde;o</trd>,
@@ -346,6 +508,7 @@
   <snc mrk="hejm.0igita.KOMUNE">
     <ref tip="dif" cel="sovagx.mal0a">malsova&gcirc;a</ref>
   </snc>
+  <trd lng="de">angesiedelt</trd>
   <trd lng="fr">apprivois&eacute;</trd>
   <trdgrp lng="pl">
     <trd>udomowiony<klr> (o zwierz&eogonek;ciu)</klr></trd>,
@@ -363,7 +526,23 @@
   </kap>
   <snc mrk="hejm.0igxi.KOMUNE">
     <dif>
-      Fari iun lokon sia <tld/>o.
+      Fari iun lokon sia <tld/>o:
+      <ekz>
+        &ccirc;irka&ubreve; 2000 judoj alvenis de orienta E&ubreve;ropo kaj <tld/>i&gcirc;is en Belfasto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan Macaoidh</aut>
+          <vrk><url ref="https://www.monato.be/2003/008105.html">Renkonti&gcirc;o kun &scirc;rumpanta komunumo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dumtempe ili en<tld/>i&gcirc;is, kreante siajn proprajn kulturon kaj lingvojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan Macaoidh</aut>
+          <vrk><url ref="https://www.monato.be/2004/008265.html">Parakosmo</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="logx.en0igxi">enlo&gcirc;i&gcirc;i</ref>,
@@ -376,7 +555,7 @@
       Adapti&gcirc;i al iu loko, medio:
       <ekz>
         post kelkaj tagoj li plene <tld/>i&gcirc;is inter la fulgonigraj
-        viroj de la <klr>...</klr> uzinoj
+        viroj de la <klr>[&#8230;]</klr> uzinoj
         <fnt>
           <aut>S. Engholm</aut>,
           <vrk>Al Torento</vrk>,
@@ -399,6 +578,10 @@
       <ref cel="komfor.0igxi">komforti&gcirc;i</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="de">
+    <trd>sich <ind>einleben</ind></trd>,
+    <trd>sich <ind>ansiedeln</ind></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>s'<ind>acclimater</ind><klr> (fig.)</klr></trd>,
     <trd>s'<ind>installer</ind></trd>
@@ -412,6 +595,13 @@
     <dif>
       Eliri el sia <tld/>o:
       <ekz>
+        en el<tld/>i&gcirc;on, en kaptitecon ili iros
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 12:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         Fradeko el<tld/>i&gcirc;is matene
         <fnt>
           <aut>H. Vallienne</aut>,
@@ -421,6 +611,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de"><ind>ausgesto&szlig;en</ind> werden</trd>
   <trd lng="fr">sortir de chez soi</trd>
   <trd lng="it">uscire di <ind>casa</ind></trd>
   <trdgrp lng="pl">
@@ -433,10 +624,10 @@
   <kap>re<tld/>i&gcirc;i</kap>
   <snc mrk="hejm.re0igxi.KOMUNE">
     <dif>
-      Reiri en sian <tld/>on:
+      Reiri en sian <tld/>on; <tld/>i&gcirc;i denove:
       <ekz>
-        San&hcirc;erib, la re&gcirc;o de Asirio, elmovi&gcirc;is kaj
-        iris kaj re<tld/>i&gcirc;is kaj restis en Nineve
+        <nom>San&hcirc;erib</nom>, la re&gcirc;o de Asirio, elmovi&gcirc;is kaj
+        iris kaj re<tld/>i&gcirc;is kaj restis en <nom>Nineve</nom>
         <fnt><bib>MT</bib>, <lok>&Re2; 19:36</lok></fnt>.
       </ekz>
     </dif>
@@ -456,11 +647,42 @@
   <kap>sen<tld/>ulo</kap>
   <snc mrk="hejm.sen0ulo.KOMUNE">
     <dif>
-      Vagulo.
+      Vagulo:
+      <ekz>
+        triono de la sen<tld/>uloj sur la stratoj de Britio estas eksarmeanoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="https://www.monato.be/2003/008119.html"
+              >Taglibro de l' milito ... el la lando de &Scirc;ekspiro</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estas a&ubreve; sen<tld/>ulo a&ubreve; drogulo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="https://www.monato.be/2005/008463.php"
+              >Strangulo en la naturo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam ili ne havas lo&gcirc;ejon, ili ne povas ser&ccirc;i alian laboron, &ccirc;ar kompanioj ne
+        volas dungi sen<tld/>ulojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo</aut>
+          <vrk><url ref="https://www.monato.be/2009/009770.php"
+              >Vila&gcirc;o por maldungitoj</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="cs">bezdomovec</trd>
-  <trd lng="de">Obdachloser</trd>
+  <trdgrp lng="de">
+    <trd>Obdachloser</trd>,
+    <trd>Heimatloser</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>sans-abri<klr> (subst.)</klr></trd>,
     <trd>sans-logis<klr> (subst.)</klr></trd>,
@@ -525,7 +747,7 @@
 <drv mrk="hejm.0ama">
   <kap><tld/>ama</kap>
   <snc mrk="hejm.0ama.MOR">
-    <ref tip="dif" cel="sid.hejmo0a.MOR">hejmosida</ref>
+    <ref tip="dif" cel="sid.forno0a.hejmama">fornosida, hejmosida</ref>
   </snc>
   <trd lng="de">h&auml;uslich</trd>
   <trdgrp lng="es">
@@ -557,6 +779,12 @@
 </art>
 <!--
 $Log: hejm.xml,v $
+Revision 1.39  2019/09/27 16:10:18  revo
+Wolfram Diestel: pliaj ekz-oj, germ trd-oj
+
+Revision 1.38  2019/09/27 15:10:18  revo
+Wolfram Diestel: ~o...~i: ekz-oj
+
 Revision 1.37  2018/05/14 22:10:16  revo
 Benoit Soubeyran: +he
 
@@ -573,11 +801,5 @@ Revision 1.33  2011/06/22 18:10:37  revo
 Sebastian Cyprych: +~igita +trd pl
 
 Revision 1.32  2011/01/04 21:10:10  revo
-Jeromo Vasxe: kor. 1 fusxitan fnt
-
-Revision 1.31  2010/10/08 16:30:16  revo
-Agustin Garcia Lopez: +trd es (-i)
-
-Revision 1.30  2010/01/25 17:30:28  revo
 -->
 </vortaro>

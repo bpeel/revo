@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: specia.xml,v 1.23 2018/06/20 20:10:14 revo Exp $">
+<art mrk="$Id: specia.xml,v 1.24 2019/06/30 18:21:49 revo Exp $">
 <kap>
 <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
 <rad>special</rad>/a
@@ -295,7 +295,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garvan Makaj (Garbhan Macaoidh)</aut>
-          <vrk><url ref="http://www.monato.net/2013/010673.php">Malgravaj lingvoj gravas</url></vrk>
+          <vrk><url ref="&Monato;/2013/010673.php">Malgravaj lingvoj gravas</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -390,6 +390,9 @@
 </art>
 <!--
 $Log: specia.xml,v $
+Revision 1.24  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
 Revision 1.23  2018/06/20 20:10:14  revo
 Wolfram Diestel: + ~igho, prilaboris ekz-ojn, germ trd-ojn
 

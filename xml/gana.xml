@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gana.xml,v 1.9 2019/02/10 21:10:17 revo Exp $">
+<art mrk="$Id: gana.xml,v 1.10 2019/06/30 18:21:01 revo Exp $">
 <kap>
   <rad>Gana</rad>/o
   <fnt><bib>RLN</bib></fnt>
@@ -31,7 +31,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Prince Henry Oguinye</aut>
-          <vrk><url ref="https://www.monato.net/2005/008501.php"
+          <vrk><url ref="&Monato;/2005/008501.php"
               >Kune labori, kune solvi</url></vrk>
         </fnt>;
       </ekz>
@@ -40,7 +40,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Princo Henriko Oguinye</aut>
-          <vrk><url ref="https://www.monato.net/2009/009728.php"
+          <vrk><url ref="&Monato;/2009/009728.php"
               >Bele modele</url></vrk>
         </fnt>;
       </ekz>
@@ -51,7 +51,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Sagbadjelou Kokou</aut>
-          <vrk><url ref="https://www.monato.net/2005/008725.php"
+          <vrk><url ref="&Monato;/2005/008725.php"
               >Vivo nevivebla</url></vrk>
         </fnt>;
       </ekz>
@@ -60,7 +60,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Princo Henriko Oguinye/pg</aut>
-          <vrk><url ref="https://www.monato.net/2009/009869.php"
+          <vrk><url ref="&Monato;/2009/009869.php"
               >Obama: For la fortuloj!</url></vrk>
         </fnt>;
       </ekz>
@@ -69,7 +69,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Adj&eacute; Adj&eacute;vi</aut>
-          <vrk><url ref="https://www.monato.net/2012/010810.php"
+          <vrk><url ref="&Monato;/2012/010810.php"
               >Nova prezidanto</url></vrk>
         </fnt>.
       </ekz>
@@ -98,6 +98,9 @@
 
 <!--
 $Log: gana.xml,v $
+Revision 1.10  2019/06/30 18:21:01  revo
+adaptis URL de Monato
+
 Revision 1.9  2019/02/10 21:10:17  revo
 Wolfram Diestel: +ekz-oj
 

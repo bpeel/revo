@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: krement.xml,v 1.1 2018/11/12 04:10:13 revo Exp $">
+  <art mrk="$Id: krement.xml,v 1.2 2019/09/01 16:10:14 revo Exp $">
     <kap>
       <rad>krement</rad>/o <fnt><bib>KompLeks</bib></fnt>
       <fnt><bib>PIV2</bib></fnt>
@@ -22,6 +22,8 @@
           </ekz>
         </dif>
       </snc>
+      <trd lng="pl">inkrementacja</trd>     
+      <trd lng="ro">cre&#537;tere</trd>
     </drv>
 
     <drv mrk="krement.al0i">
@@ -37,6 +39,8 @@
         </dif>
       </snc>
       <trd lng="en"><klr>to </klr>increment</trd>
+      <trd lng="pl">zwi&eogonek;ksza&cacute; o 1</trd>     
+      <trd lng="ro">crescut cu unul</trd>
     </drv>
 
     <drv mrk="krement.de0i">
@@ -52,12 +56,17 @@
         </dif>
       </snc>
       <trd lng="en"><klr>to </klr>decrement</trd>
+      <trd lng="pl">zmniejsza&cacute; o 1</trd>     
+      <trd lng="ro">redus 1</trd>
     </drv>
 
   </art>
 
 <!--
 $Log: krement.xml,v $
+Revision 1.2  2019/09/01 16:10:14  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.1  2018/11/12 04:10:13  revo
 Sergio Pokrovskij: nova artikolo
 

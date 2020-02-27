@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: prun.xml,v 1.34 2018/11/20 20:10:16 revo Exp $">
+<art mrk="$Id: prun.xml,v 1.35 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>prun</rad>/o
@@ -38,7 +38,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Albisturo Kvinke</aut>
-          <vrk><url ref="http://www.monato.net/2012/010361.php"
+          <vrk><url ref="&Monato;/2012/010361.php"
               >Lisuarte</url></vrk>
         </fnt>.
       </ekz>
@@ -152,6 +152,9 @@ tip="amb">(&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;)</klr></trd>
 </art>
 <!--
 $Log: prun.xml,v $
+Revision 1.35  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
 Revision 1.34  2018/11/20 20:10:16  revo
 Wolfram Diestel: +ekz-oj, +bld
 

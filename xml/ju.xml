@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ju.xml,v 1.20 2015/08/24 12:10:15 revo Exp $">
+<art mrk="$Id: ju.xml,v 1.21 2019/06/01 20:10:14 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>ju</rad></kap>
@@ -26,6 +26,7 @@ kritiko<fnt><bib>PrV</bib></fnt>;</ekz>
   <trd>com...</trd>,
   <trd>com m&eacute;s...</trd>
 </trdgrp>
+<trd lng="cs">&ccaron;&iacute;m <klr>(&ccaron;&iacute;m-t&iacute;m)</klr></trd>
 <trd lng="de">je <klr tip="amb">[... desto]</klr></trd>
 <trd lng="en">the (more, less)</trd>
 <trd lng="es">cuanto (m&aacute;s, menos, mayor, menor)<klr tip="amb">
@@ -41,6 +42,9 @@ kritiko<fnt><bib>PrV</bib></fnt>;</ekz>
 </art>
 <!--
 $Log: ju.xml,v $
+Revision 1.21  2019/06/01 20:10:14  revo
+Michal Sirucek: Czech translation added
+
 Revision 1.20  2015/08/24 12:10:15  revo
 Guillermo Molleda Jimena: trd es
 
@@ -60,8 +64,5 @@ Revision 1.15  2009/06/29 18:06:19  revo
 Russ Williams: +trd en
 
 Revision 1.14  2007/04/19 16:31:10  revo
-Tulio Flores: +tr pt
-
-Revision 1.13  2005/04/06 16:36:14  revo
 -->
 </vortaro>

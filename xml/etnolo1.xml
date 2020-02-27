@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: etnolo1.xml,v 1.24 2019/01/22 18:10:17 revo Exp $">
+<art mrk="$Id: etnolo1.xml,v 1.25 2019/06/30 18:19:02 revo Exp $">
 <kap>
   <ofc>9</ofc>
   <rad>etnologi</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -23,7 +23,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Mireille Grosjean</aut>
-          <vrk><url ref="https://www.monato.net/2015/011395.php"
+          <vrk><url ref="&Monato;/2015/011395.php"
               >Urbo kun forta studemo</url></vrk>
         </fnt>;
       </ekz>
@@ -98,6 +98,9 @@
 </art>
 <!--
 $Log: etnolo1.xml,v $
+Revision 1.25  2019/06/30 18:19:02  revo
+adaptis URL de Monato
+
 Revision 1.24  2019/01/22 18:10:17  revo
 Wolfram Diestel: +ekz
 

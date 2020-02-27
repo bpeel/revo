@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pijxam.xml,v 1.20 2019/02/01 08:10:15 revo Exp $">
+<art mrk="$Id: pijxam.xml,v 1.21 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>pi&jcirc;am</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -21,7 +21,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julian Modest</aut>
-          <vrk><url ref="https://www.monato.net/2007/009024.php">Bela son&gcirc;o</url></vrk>
+          <vrk><url ref="&Monato;/2007/009024.php">Bela son&gcirc;o</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -29,7 +29,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Saliko</aut>
-          <vrk><url ref="https://www.monato.net/2006/008760.php">En fremda lando</url></vrk>
+          <vrk><url ref="&Monato;/2006/008760.php">En fremda lando</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -38,7 +38,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url ref="https://www.monato.net/2003/007837.html">Ne al &ccirc;iuj pla&ccirc;os &ccirc;i literatura gemeto</url></vrk>
+          <vrk><url ref="&Monato;/2003/007837.html">Ne al &ccirc;iuj pla&ccirc;os &ccirc;i literatura gemeto</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -71,6 +71,9 @@
 </art>
 <!--
 $Log: pijxam.xml,v $
+Revision 1.21  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
 Revision 1.20  2019/02/01 08:10:15  revo
 Wolfram Diestel: +ekz-oj
 

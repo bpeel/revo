@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: suspek.xml,v 1.20 2018/06/30 08:10:15 revo Exp $">
+<art mrk="$Id: suspek.xml,v 1.22 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>suspekt</rad>/i
@@ -334,7 +334,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Helga Rapley</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008356.html">Blanka dramo en Bureso</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008356.html">Blanka dramo en Bureso</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -342,7 +342,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="http://www.monato.net/2013/011166.php">Verda muro ka&scirc;is grizajn sekretojn</url></vrk>
+          <vrk><url ref="&Monato;/2013/011166.php">Verda muro ka&scirc;is grizajn sekretojn</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -351,7 +351,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vladimir Lemelev</aut>
-          <vrk><url ref="http://www.monato.net/2007/008991.php">La &ccirc;efaj murdistoj de HIV-infektitoj</url></vrk>
+          <vrk><url ref="&Monato;/2007/008991.php">La &ccirc;efaj murdistoj de HIV-infektitoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -423,6 +423,12 @@
 </art>
 <!--
 $Log: suspek.xml,v $
+Revision 1.22  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
+Revision 1.21  2019/06/30 07:43:30  revo
+adaptis URL de Monato
+
 Revision 1.20  2018/06/30 08:10:15  revo
 Wolfram Diestel: ekz-oj
 

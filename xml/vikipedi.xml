@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: vikipedi.xml,v 1.3 2016/11/20 00:10:15 revo Exp $">
+<art mrk="$Id: vikipedi.xml,v 1.6 2019/08/27 20:10:28 revo Exp $">
 <kap>
     <rad>Vikipedi</rad>/o <fnt><bib>Viki</bib></fnt>
 </kap>
@@ -64,7 +64,7 @@
   <trd lng="gu">&#2741;&#2751;&#2709;&#2751;&#2730;&#2752;&#2721;&#2751;&#2735;&#2750;</trd>
   <trd lng="ha">Wikipedia</trd>
   <trd lng="he">&vav;&yod;&qof;&yod;&pe;&dalet;&yod;&he;</trd>
-  <trd lng="hi">&#2357;&#2367;&#2325;&#2367;&#2346;&#2368;&#2337;&#2367;&#2351;&#2366;</trd>
+  <trd lng="hi">&#2357;&#2367;&#2325;&#2367;&#2346;&#2368;&#2337;&#2367;&#2351;&#2366; [<ind>vikip&#299;&#7693;iy&#257;</ind>]</trd>
   <trd lng="hr">Wikipedija</trd>
   <trd lng="hu">Wikip&eacute;dia</trd>
   <trd lng="hy">&#1358;&#1387;&#1412;&#1387;&#1402;&#1381;&#1380;&#1387;&#1377;</trd>
@@ -76,7 +76,7 @@
   <trd lng="is">Wikipedia</trd>
   <trd lng="it">Wikipedia</trd>
   <trd lng="iu">&#5125;&#5123;&#5229;&#5169;&#5198;&#5130;</trd>
-  <trd lng="ja">&#12454;&#12451;&#12461;&#12506;&#12487;&#12451;&#12450;</trd>
+  <trd lng="ja">&#12454;&#12451;&#12461;&#12506;&#12487;&#12451;&#12450; [<ind>&#12358;&#12355;&#12365;&#12410;&#12391;&#12355;&#12354;</ind>]</trd>
   <trd lng="jbo">uikipidias</trd>
   <trd lng="ka">&#4309;&#4312;&#4313;&#4312;&#4318;&#4308;&#4307;&#4312;&#4304;</trd>
   <trd lng="kk">&c_U;&c_i;&c_k;&c_i;&c_p;&c_je;&c_d;&c_i;&c_ja;</trd>
@@ -163,8 +163,18 @@
 
 <!--
 $Log: vikipedi.xml,v $
+Revision 1.6  2019/08/27 20:10:28  revo
+Sam Penter: kor. trd ja
+
+Revision 1.5  2019/07/06 09:10:59  revo
+Aleks Andre: hi: iso 15919
+
+Revision 1.4  2019/07/04 14:10:25  revo
+Aleks Andre: hi: prononcado en -ind- por la indekso
+
 Revision 1.3  2016/11/20 00:10:15  revo
-Robin van der Vliet: +trd tradukoj por cxiuj lingvoj subtenataj de Vikipedio
+Robin van der Vliet: +trd tradukoj por cxiuj lingvoj subtenataj de
+Vikipedio
 
 Revision 1.2  2015/03/11 10:10:16  revo
 Damien Brucker: +trd fr

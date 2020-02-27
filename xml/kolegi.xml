@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kolegi.xml,v 1.23 2018/04/05 19:10:18 revo Exp $">
+<art mrk="$Id: kolegi.xml,v 1.25 2019/07/17 13:10:15 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kolegi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -42,7 +42,7 @@
           <bib>Monato</bib>
           <aut>Alexander Gofen</aut>
           <vrk><url
-          ref='http://www.monato.net/2009/009811.php'>Obamena&jcirc;o, a&ubreve;
+          ref='&Monato;/2009/009811.php'>Obamena&jcirc;o, a&ubreve;
           haladzo de socialisma aventurismo</url></vrk>
           <lok>2009</lok>
         </fnt>;
@@ -53,7 +53,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref='http://www.monato.net/2005/008515.php'>E&ubreve;ropa
+          <vrk><url ref='&Monato;/2005/008515.php'>E&ubreve;ropa
           Komisiono konfirmita</url></vrk>
           <lok>2005</lok>
         </fnt>.
@@ -63,6 +63,8 @@
        <ref cel="komisi1.0o">komisiono</ref>,
        <ref cel="koleg.0aro">kolegaro</ref>
      </refgrp>
+     <trd lng="es">colegio<klr> (grupo de personas con un mismo
+     oficio)</klr></trd>
    </snc>
 
    <snc mrk="kolegi.0o.fakultato">
@@ -97,7 +99,7 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Paul Gubbins</aut>
-            <vrk><url ref='http://www.monato.net/2006/009028.php'>Angla
+            <vrk><url ref='&Monato;/2006/009028.php'>Angla
             festivalo en Kimrio</url></vrk>
             <lok>2006</lok>
           </fnt>;
@@ -108,7 +110,7 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Alice Liu</aut>
-            <vrk><url ref='http://www.monato.net/2012/010707.php'>Nova
+            <vrk><url ref='&Monato;/2012/010707.php'>Nova
             spuro pri perditaj fosilioj</url></vrk>
             <lok>2012</lok>
           </fnt>.
@@ -124,8 +126,7 @@
       </trdgrp>
       <trd lng="de">Kollegium</trd>
       <trd lng="en">college</trd>
-      <trd lng="es">colegio (de profesionales, m&eacute;dicos, abogados,
-      etc.)</trd>
+      <trd lng="es">colegio<klr> (asociaci&oacute;n)</klr></trd>
       <trd lng="fr">coll&egrave;ge<klr> (assembl&eacute;e)</klr></trd>
       <trdgrp lng="hu">
         <trd>koll&eacute;gium</trd>,
@@ -146,6 +147,10 @@
     </trdgrp>
     <trd lng="de">Mittelschule</trd>
     <trd lng="en">trade school</trd>
+    <trdgrp lng="es">
+      <trd>escuela taller</trd>,
+      <trd>formaci&oacute;n profesional</trd>
+    </trdgrp>
     <trd lng="fr">coll&egrave;ge<klr> (ens. secondaire)</klr></trd>
     <trd lng="hu">k&ouml;z&eacute;piskola</trd>    
     <trdgrp lng="ru">
@@ -179,6 +184,12 @@
 </art>
 <!--
 $Log: kolegi.xml,v $
+Revision 1.25  2019/07/17 13:10:15  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.24  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.23  2018/04/05 19:10:18  revo
 Vito Redsky: +trd pl +trd ro
 
@@ -195,11 +206,5 @@ Revision 1.19  2015/01/10 19:10:56  revo
 Jeromo Vasxe: + ref
 
 Revision 1.18  2011/12/02 16:10:08  revo
-Eduardo Navas: +trad es
-
-Revision 1.17  2005/06/26 16:32:51  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.16  2004/12/26 17:34:07  revo
 -->
 </vortaro>

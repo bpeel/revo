@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: litori1.xml,v 1.7 2017/03/29 07:10:14 revo Exp $">
+<art mrk="$Id: litori1.xml,v 1.8 2019/03/31 13:10:16 revo Exp $">
 <kap><rad>litorined</rad>/oj</kap>
 <drv mrk="litori1.0oj">
   <kap><tld/>oj</kap>
@@ -13,10 +13,14 @@
        lst="voko:zoologiaj_familioj">Familio</ref> el la klaso <ref
        tip="malprt"
        cel="gastro2.0oj">gastropodoj</ref>
-       (<trd lng="la">Littorinidae</trd>).
+       (<trd lng="la">Littorinidae</trd>):
+       <ekz>
+         <tld/>ojn oni renkontas ofte &ccirc;e la e&ubreve;ropaj marbordoj, ili adapti&gcirc;is al vivo ekster la akvo tiel,
+         ke ili povas vivi sur &scirc;tono etendi&gcirc;anta super la akvon a&ubreve; en lokoj, kien la akvo nur &scirc;pruci&gcirc;as.
+       </ekz>
      </dif>
   </snc>
-  <trd lng="de">Strandschnecke <klr>[Familie]</klr></trd>
+  <trd lng="de">Strandschnecken <klr>(Familie)</klr></trd>
   <trd lng="fr">Littorinid&eacute;s</trd>
   <trd lng="hu">parti <ind>csig&aacute;k</ind><klr tip="ind">
   (csal&aacute;d)</klr></trd>
@@ -27,6 +31,9 @@
 
 <!--
 $Log: litori1.xml,v $
+Revision 1.8  2019/03/31 13:10:16  revo
+Wolfram Diestel: +ekz
+
 Revision 1.7  2017/03/29 07:10:14  revo
 Damien Brucker: +trd fr
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: dominik.xml,v 1.8 2018/02/03 12:10:14 revo Exp $">
+<art mrk="$Id: dominik.xml,v 1.9 2019/06/30 18:19:02 revo Exp $">
 <kap>
   <rad>Dominik</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -63,7 +63,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Armando Zecchin</aut>
-          <vrk><url ref="http://www.monato.net/2008/009295.php">La 
+          <vrk><url ref="&Monato;/2008/009295.php">La 
            sor&ccirc;istin-persekutoj: rerigardo kaj reinterpretoj</url></vrk>
         </fnt>.
       </ekz>
@@ -94,6 +94,9 @@
 
 <!--
 $Log: dominik.xml,v $
+Revision 1.9  2019/06/30 18:19:02  revo
+adaptis URL de Monato
+
 Revision 1.8  2018/02/03 12:10:14  revo
 Wolfram Diestel: +ekzoj, +ref-oj
 

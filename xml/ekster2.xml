@@ -2,14 +2,17 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ekster2.xml,v 1.11 2019/01/16 18:10:16 revo Exp $">
+<art mrk="$Id: ekster2.xml,v 1.13 2019/06/30 18:19:02 revo Exp $">
 <kap>
-<rad>eksterpol</rad>/i
+  <rad>eksterpol</rad>/i <fnt><bib>MatTerm</bib><lok>p. 20</lok></fnt>,
+  <var><kap><rad>ekstrapol</rad>/i <fnt><bib>SPV</bib></fnt></kap></var>
 </kap>
+
 <drv mrk="ekster2.0i">
-  <kap><tld/>i</kap>
+  <kap><tld/>i,
+    <var><kap>ekstrapoli</kap></var>
+  </kap>
   <uzo tip="fak">MAT</uzo>
-  <fnt><bib>MatTerm</bib><lok>p. 20</lok></fnt>
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
@@ -23,15 +26,24 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hektor Alos i Font</aut>
-          <vrk><url ref="https://www.monato.net/2003/008062.html"
+          <vrk><url ref="&Monato;/2003/008062.html"
               >Spektantoj spektataj</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        studo bazita je ekstrapolo de pezo sole el tri plej grandaj ostoj de
+        reprezentantoj de genro de <nom>Indricotherium</nom> signas, ke tiuj &ccirc;i mamuloj povis
+        pezi e&ccirc; 20&#8239;&ndash;&#8239;30 tunojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=111613"
+              >Rekordoj de mamuloj</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="vid" cel="interp1.0i">interpoli</ref>
-    <ref tip="sin" cel="ekstra3.0i">ekstrapoli</ref>
     <rim>
-      Tiu &ccirc;i termino aperas en &ccirc;iuj niaj fontoj (konantaj la
+      La  termino &leftquot;<tld/>i&rightquot; aperas en &ccirc;iuj niaj fontoj (konantaj la
       nocion) malgra&ubreve; la kripligo, kiun &gcirc;i prezentas rilate
       la internacian radikon <ctl>ekstrapol</ctl>, tamen aperanta 
       &ccirc;i-sence en <fnt><bib>PIV1</bib></fnt>. La paralelo kun
@@ -66,6 +78,12 @@
 
 <!--
 $Log: ekster2.xml,v $
+Revision 1.13  2019/06/30 18:19:02  revo
+adaptis URL de Monato
+
+Revision 1.12  2019/03/24 21:10:15  revo
+Wolfram Diestel: +var, +ekz
+
 Revision 1.11  2019/01/16 18:10:16  revo
 Wolfram Diestel: +ekz
 
@@ -85,8 +103,5 @@ Revision 1.6  2005/02/18 17:35:51  revo
 Paul Peeraerts: ald trd nl
 
 Revision 1.5  2003/12/16 17:32:11  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.4  2003/09/08 16:31:51  revo
 -->
 </vortaro>

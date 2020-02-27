@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kin.xml,v 1.33 2018/08/10 07:10:13 revo Exp $">
+<art mrk="$Id: kin.xml,v 1.35 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>kin</rad>/o <fnt><bib>PV</bib></fnt>
@@ -29,7 +29,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Francisko Lorrain</aut>
-          <vrk><url ref='http://www.monato.net/2015/011537.php'>Fa&ubreve;sto
+          <vrk><url ref='&Monato;/2015/011537.php'>Fa&ubreve;sto
           hodia&ubreve;</url></vrk>
           <lok>2015</lok>
         </fnt>;
@@ -47,7 +47,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ren&eacute;e Triolle</aut>
-          <vrk><url ref='http://www.monato.net/2014/011204.php'>La plej
+          <vrk><url ref='&Monato;/2014/011204.php'>La plej
           malnova kinoteatro de la mondo</url></vrk>
           <lok>2014</lok>
         </fnt>.
@@ -91,6 +91,10 @@
   <trdgrp lng="es">
     <trd>cinematograf&iacute;a</trd>,
     <trd>cine</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kinematografia</trd>,
+    <trd>przemys&lstroke; filmowy</trd>
   </trdgrp>
   <trd lng="ro">cinematografie</trd>
   <trd lng="sk">kina</trd>
@@ -146,6 +150,8 @@
     <trd>film<klr tip="ind"> (kunstwerk)</klr></trd>,
   </trdgrp>
   <trd lng="oc">filme</trd>
+  <trd lng="pl">film</trd>     
+  <trd lng="ro">film</trd>
 </drv>
 
 <drv mrk="kin.0ejo">
@@ -168,7 +174,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lenke Sz&aacute;sz</aut>
-          <vrk><url ref='http://www.monato.net/2015/011475.php'>La klasa
+          <vrk><url ref='&Monato;/2015/011475.php'>La klasa
           fototabulo</url></vrk>
           <lok>2015</lok>
         </fnt>;
@@ -179,7 +185,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ren&eacute;e Triolle</aut>
-          <vrk><url ref='http://www.monato.net/2014/011204.php'>La plej
+          <vrk><url ref='&Monato;/2014/011204.php'>La plej
           malnova kinoteatro de la mondo</url></vrk>
           <lok>2014</lok>
         </fnt>.
@@ -227,6 +233,7 @@
   </trdgrp>
   <trd lng="id">bioskop</trd>
   <trd lng="nl">bioscoop</trd>
+  <trd lng="pl">kino <klr>(lokal)</klr></trd>  
   <trdgrp lng="ro">
     <trd>cinematograf</trd>,
     <trd>sal&abreve; de cinema</trd>
@@ -282,12 +289,19 @@
   <trd lng="id">sineas</trd>
   <trd lng="nl">cineast</trd>
   <trd lng="oc">cineasta</trd>
+  <trd lng="pl">filmowiec</trd>
   <trd lng="ro">regizor de film</trd>
   <trd lng="tr">y&ouml;netmen</trd>
 </drv>
 </art>
 <!--
 $Log: kin.xml,v $
+Revision 1.35  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
+Revision 1.34  2019/03/31 23:10:15  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.33  2018/08/10 07:10:13  revo
 Damien Brucker: -eraro cxe cel en ref
 
@@ -307,8 +321,5 @@ Revision 1.28  2014/06/30 16:10:31  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.27  2013/10/28 19:10:25  revo
-Benito Subejrano: + trd ca oc
-
-Revision 1.26  2013/09/22 18:10:24  revo
 -->
 </vortaro>

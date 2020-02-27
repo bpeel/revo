@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plor.xml,v 1.31 2018/03/03 11:10:14 revo Exp $">
+<art mrk="$Id: plor.xml,v 1.33 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>plor</rad>/i
@@ -153,7 +153,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lin Sheng</aut>
-          <vrk><url ref="http://www.monato.net/2006/008670.php">Forpasis mia karulino</url></vrk>
+          <vrk><url ref="&Monato;/2006/008670.php">Forpasis mia karulino</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -161,7 +161,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julia Sigmond</aut>
-          <vrk><url ref="http://www.monato.net/2015/011386.php">Cent fabeloj</url></vrk>
+          <vrk><url ref="&Monato;/2015/011386.php">Cent fabeloj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -218,7 +218,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="http://www.monato.net/2012/010602.php">Skeptikismo
+          <vrk><url ref="&Monato;/2012/010602.php">Skeptikismo
           e&ubreve;ropa kaj polica</url></vrk>
         </fnt>.
       </ekz>
@@ -267,7 +267,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Manuel Halvelik</aut>
-          <vrk><url ref="http://www.monato.net/2007/008949.php">Atentinda solvo por kompleksega problemo</url></vrk>
+          <vrk><url ref="&Monato;/2007/008949.php">Atentinda solvo por kompleksega problemo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -347,7 +347,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="http://www.monato.net/2005/008555.php">&Scirc;uisto kaj silkokomercisto</url></vrk>
+          <vrk><url ref="&Monato;/2005/008555.php">&Scirc;uisto kaj silkokomercisto</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -356,7 +356,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008137.html">Mondo alia</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008137.html">Mondo alia</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -461,6 +461,12 @@
 </art>
 <!--
 $Log: plor.xml,v $
+Revision 1.33  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
+Revision 1.32  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.31  2018/03/03 11:10:14  revo
 Wolfram Diestel: kor. mrk, prilaboris ekz-ojn, germ trd
 

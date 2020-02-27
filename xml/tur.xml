@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tur.xml,v 1.28 2017/12/20 00:11:07 revo Exp $">
+<art mrk="$Id: tur.xml,v 1.30 2019/07/06 09:10:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tur</rad>/o <fnt><bib>PV</bib></fnt>
@@ -30,6 +30,7 @@
     <trdgrp lng="fr">
       <trd>tour<klr> (b&acirc;timent)</klr></trd>
     </trdgrp>
+    <trd lng="hi">&#2350;&#2368;&#2344;&#2366;&#2352; [<ind>m&#299;n&#257;r</ind>]</trd>
     <trd lng="hu">torony</trd>
     <trd lng="id">menara</trd>
     <trd lng="it">torre</trd>
@@ -182,6 +183,12 @@
 </art>
 <!--
 $Log: tur.xml,v $
+Revision 1.30  2019/07/06 09:10:40  revo
+Aleks Andre: hi: iso 15919
+
+Revision 1.29  2019/07/04 16:10:17  revo
+Aleks Andre: +trd hi
+
 Revision 1.28  2017/12/20 00:11:07  revo
 Michel Cantigneaux: "lum/tur/o" fundamenta kunmetajxo el la U.V.
 
@@ -198,11 +205,5 @@ Revision 1.24  2010/07/20 16:30:27  revo
 Antonio Codazzi: +trd it
 
 Revision 1.23  2010/03/19 17:30:47  revo
-Jeromo Vasxe: + reg/kontrol~o
-
-Revision 1.22  2008/06/09 17:45:47  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.21  2008/05/25 18:38:33  revo
 -->
 </vortaro>

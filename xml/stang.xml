@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: stang.xml,v 1.20 2018/10/27 12:10:15 revo Exp $">
+<art mrk="$Id: stang.xml,v 1.22 2019/07/16 08:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>stang</rad>/o
@@ -123,6 +123,26 @@
   <trd lng="sk">ty&ccaron;inka</trd>
 </drv>
 
+<drv mrk="stang.flago0o">
+  <kap>flago<tld/>o,
+  <var><kap>flag<tld/>o</kap></var></kap>
+  <snc mrk="stang.flago0o.KOMUNE">
+    <dif>
+      Alta <tld/>o kiu supre tenas flagon:
+      <ekz>
+        &ccirc;e la enirejo de <nom>IKEA</nom> staras du flag<tld/>oj,
+        unu kun la flago de Svedio, unu kun tiu de Rusio
+        <fnt>
+          <aut>K. Kniivil&auml;</aut>
+          <vrk>Homoj de Putin</vrk>
+          <lok>2016</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">m&acirc;t de drapeau</trd>
+</drv>
+
 <drv mrk="stang.lev0o">
   <kap>lev<tld/>o</kap>
   <snc mrk="stang.lev0o.TEK">
@@ -131,13 +151,11 @@
       <ref tip="super" cel="stang.0o.TEK"><tld lit="S"/>o</ref>, kiun
       oni
       &scirc;ovas sub peza&jcirc;on, mezlonge apogas, kaj ekstreme
-subpremas por levi
-      la peza&jcirc;on:
+      subpremas por levi la peza&jcirc;on:
       <ekz>
         kvaza&ubreve; mi povus ka&scirc;i <klr>...</klr> lev<tld/>on
-sub palpebro
-        <fnt><bib>Mortul&Scirc;ip</bib>, <lok>unua libro,
-&ccirc;apitro 3a</lok></fnt>!
+        sub palpebro
+        <fnt><bib>Mortul&Scirc;ip</bib> <lok>unua libro, &ccirc;apitro 3a</lok></fnt>!
       </ekz>
     </dif>
   </snc>
@@ -160,13 +178,11 @@ sub palpebro
     <uzo tip="fak">KUI</uzo>
     <dif>
       <tld lit="S"/>o per kiu oni trapikas man&gcirc;a&jcirc;opecojn
-a&ubreve; tutan beston,
+      a&ubreve; tutan beston,
       kaj kiun oni turnas super fajro por kuiro:
       <ekz>
         leporoj kaj kunikloj estis turnataj sur rosto<tld/>o
-        <fnt><bib>Fab2</bib>, <lok>ne&gcirc;a re&gcirc;ino, kvina
-rakonto, malgranda
-        rabistinfano</lok></fnt>.
+        <fnt><bib>Fab2</bib> <lok>Ne&gcirc;a Re&gcirc;ino</lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -190,9 +206,8 @@ rakonto, malgranda
     </dif>
     <ekz>
       la &scirc;ipo <klr>...</klr> fari&gcirc;is granda, belega, kun silkaj veloj
-      kaj
-      oritaj vel<tld/>oj
-      <fnt><bib>Fab4</bib>, <lok>historio el la dunoj</lok></fnt>.
+      kaj oritaj vel<tld/>oj
+      <fnt><bib>Fab4</bib> <lok>Historio el la Dunoj</lok></fnt>.
     </ekz>
     <refgrp tip="sin">
       <ref cel="jard.0o.MAR">jardo</ref>
@@ -208,6 +223,7 @@ rakonto, malgranda
   </trdgrp>
   <trd lng="en">spar</trd>
   <trd lng="es">m&aacute;stil</trd>
+  <trd lng="fr">m&acirc;t</trd>
   <trdgrp lng="hu">
     <trd>vitorlafa</trd>,
     <trd>&aacute;rbocfa</trd>
@@ -219,6 +235,12 @@ rakonto, malgranda
 </art>
 <!--
 $Log: stang.xml,v $
+Revision 1.22  2019/07/16 08:10:15  revo
+Jeromo Vasxe: flago~o + var, vel~o + trd fr
+
+Revision 1.21  2019/07/15 17:10:16  revo
+Jeromo Vasxe: + flago~o
+
 Revision 1.20  2018/10/27 12:10:15  revo
 Petr Diblik: interpunkcio
 
@@ -235,11 +257,5 @@ Revision 1.16  2015/06/06 08:10:19  revo
 Damien Brucker: -eraro cxe ref
 
 Revision 1.15  2008/08/23 16:31:24  revo
-Russ Williams: trd +en
-
-Revision 1.14  2007/01/31 17:30:42  revo
-Eduardo Navas: +trd es
-
-Revision 1.13  2006/02/01 17:32:36  revo
 -->
 </vortaro>

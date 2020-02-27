@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tercet.xml,v 1.19 2018/11/13 07:10:17 revo Exp $">
+<art mrk="$Id: tercet.xml,v 1.20 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>tercet</rad>/o
@@ -49,7 +49,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Geraldo Mattos</aut>
-          <vrk><url ref="http://www.monato.net/2008/009422.php">Rezulto de preseraro</url></vrk>
+          <vrk><url ref="&Monato;/2008/009422.php">Rezulto de preseraro</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -63,6 +63,9 @@
 </art>
 <!--
 $Log: tercet.xml,v $
+Revision 1.20  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
 Revision 1.19  2018/11/13 07:10:17  revo
 Wolfram Diestel: +snc POE, +ekz-oj
 

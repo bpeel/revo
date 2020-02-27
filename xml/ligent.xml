@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ligent.xml,v 1.1 2018/06/12 15:10:15 revo Exp $">
+<art mrk="$Id: ligent.xml,v 1.2 2019/12/18 23:11:01 revo Exp $">
 <kap>
   <rad>ligent</rad>/o <fnt><aut>J. Werner k. a.</aut> <vrk><url
   ref="http://www.eventoj.hu/steb/ingxenierado/konstruado/beton-termin.htm">Terminaro
@@ -44,11 +44,19 @@
   <trd lng="de">Bindemittel</trd>
   <trd lng="en">binding agent</trd>
   <trd lng="fr">liant <klr>(substance)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>lepiszcze</trd>,
+    <trd>spoiwo malarskie</trd>
+  </trdgrp>  
+  <trd lng="ro">liant</trd>
 </drv>
 </art>
 
 <!--
 $Log: ligent.xml,v $
+Revision 1.2  2019/12/18 23:11:01  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.1  2018/06/12 15:10:15  revo
 Jeromo Vasxe: nova artikolo
 

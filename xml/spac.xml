@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: spac.xml,v 1.77 2018/07/16 22:10:15 revo Exp $">
+<art mrk="$Id: spac.xml,v 1.78 2019/06/30 07:43:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>spac</rad>/o <fnt><bib>PV</bib></fnt>
@@ -27,7 +27,7 @@
           <bib>Monato</bib>
           <aut>Marc Gassion</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2003/007934.html">Aude</url></vrk>
+          ref="https://www.monato.be/2003/007934.html">Aude</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -249,7 +249,7 @@
           <bib>Monato</bib>
           <aut>Garbhan Macaoidh</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/008265.html">Parakosmo</url></vrk>
+          ref="https://www.monato.be/2004/008265.html">Parakosmo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -1173,6 +1173,9 @@
 </art>
 <!--
 $Log: spac.xml,v $
+Revision 1.78  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.77  2018/07/16 22:10:15  revo
 Jeromo Vasxe: + labor~ o (komp)
 

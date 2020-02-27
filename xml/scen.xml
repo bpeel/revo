@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: scen.xml,v 1.28 2018/06/14 14:10:18 revo Exp $">
+<art mrk="$Id: scen.xml,v 1.30 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
   <rad>scen</rad>/o
@@ -191,7 +191,7 @@
           <bib>Monato</bib>
           <aut>Zofia Banet-fornalowa</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/008391.html">Listo de
+          ref="https://www.monato.be/2004/008391.html">Listo de
           Sendler</url></vrk>
         </fnt>.
       </ekz>
@@ -236,7 +236,7 @@
           <bib>Monato</bib>
           <aut>Stefan MAUL</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2003/008117.html">Grizi&gcirc;anta
+          ref="https://www.monato.be/2003/008117.html">Grizi&gcirc;anta
           mondo</url></vrk>
         </fnt>;
       </ekz>
@@ -245,7 +245,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref="http://www.monato.net/2005/008735.php">&Ccirc;u la
+          <vrk><url ref="&Monato;/2005/008735.php">&Ccirc;u la
           tero fari&gcirc;os sa&ubreve;no?</url></vrk>
         </fnt>?
       </ekz>
@@ -298,7 +298,7 @@
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
           <vrk><url
-          ref="http://www.monato.net/2008/009618.php">Kunlaboro
+          ref="&Monato;/2008/009618.php">Kunlaboro
           mielmonata</url></vrk>
         </fnt>.
       </ekz>
@@ -368,7 +368,7 @@
           <bib>Monato</bib>
           <aut>Laimius Stra&zcaron;nickas</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/008297.html">Havi
+          ref="https://www.monato.be/2004/008297.html">Havi
           &ccirc;impanzon hejme</url></vrk>
         </fnt>;
       </ekz>
@@ -385,7 +385,7 @@
           <bib>Monato</bib>
           <aut>Garbhan Macaoidh</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2004/008323.html">Le&gcirc;oj
+          ref="https://www.monato.be/2004/008323.html">Le&gcirc;oj
           landon prosperigas</url></vrk>
         </fnt>.
       </ekz>
@@ -574,7 +574,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan MacGill</aut>
-          <vrk><url ref="http://www.monato.net/2007/009029.php">Irigu
+          <vrk><url ref="&Monato;/2007/009029.php">Irigu
           vin tra intrigo vintra</url></vrk>
         </fnt>;
       </ekz>
@@ -585,7 +585,7 @@
           <bib>Monato</bib>
           <aut>Thomas S&uuml;lzle</aut>
           <vrk><url
-          ref="http://www.esperanto.be/fel/2003/007993.html">Komenco de
+          ref="https://www.monato.be/2003/007993.html">Komenco de
           la teatra maratono</url></vrk>
         </fnt>.
       </ekz>
@@ -633,6 +633,12 @@
 </art>
 <!--
 $Log: scen.xml,v $
+Revision 1.30  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
+Revision 1.29  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.28  2018/06/14 14:10:18  revo
 Dusan Juretic: -trd de
 

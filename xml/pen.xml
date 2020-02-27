@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pen.xml,v 1.34 2018/04/10 09:10:14 revo Exp $">
+<art mrk="$Id: pen.xml,v 1.36 2019/12/25 06:10:13 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>pen</rad>/i <fnt><bib>PV</bib></fnt>
@@ -103,7 +103,10 @@
      <trd>sich <ind>abm&uuml;hen</ind></trd>,
      <trd>sich <ind>anstrengen</ind></trd>
    </trdgrp>
-   <trd lng="en">try</trd>
+   <trdgrp lng="en">
+     <trd>make an effort</trd>,
+     <trd>try</trd>
+   </trdgrp>
    <trdgrp lng="es">
      <trd>esforzarse en</trd>,
      <trd>empe&ntilde;arse en</trd>
@@ -237,7 +240,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vladimir Lemelev</aut>
-          <vrk><url ref="http://www.monato.net/2005/008721.php">De 
+          <vrk><url ref="&Monato;/2005/008721.php">De 
            kie venis kaj kial &ccirc;esis netipa pne&ubreve;monio?</url></vrk>
         </fnt>;
        </ekz>
@@ -330,7 +333,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vladimir Lemelev</aut>
-          <vrk><url ref="http://www.monato.net/2005/008721.php">De kie
+          <vrk><url ref="&Monato;/2005/008721.php">De kie
           venis kaj kial &ccirc;esis netipa pne&ubreve;monio?</url></vrk>
         </fnt>;
       </ekz>
@@ -390,7 +393,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Raita Pyh&auml;l&auml;</aut>
-          <vrk><url ref="http://www.monato.net/2006/008969.php">Pensante
+          <vrk><url ref="&Monato;/2006/008969.php">Pensante
           pensie ...</url></vrk>
         </fnt>;
       </ekz>
@@ -400,7 +403,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>H. Ntawu Hubert</aut>
-          <vrk><url ref="http://www.monato.net/2006/009007.php">Kiel
+          <vrk><url ref="&Monato;/2006/009007.php">Kiel
           eskapi la pasintecon?</url></vrk>
         </fnt>.
       </ekz>
@@ -549,7 +552,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Pejno Simono</aut>
-          <vrk><url ref="http://www.monato.net/2011/010411.php">La
+          <vrk><url ref="&Monato;/2011/010411.php">La
            gramatikiloj de Esperanto la&ubreve; ABC</url></vrk>
         </fnt>.
       </ekz>
@@ -615,7 +618,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="http://www.monato.net/2010/010141.php">Homo
+          <vrk><url ref="&Monato;/2010/010141.php">Homo
           universala,
           homo moderna: Johann Joachim Becher naski&gcirc;is anta&ubreve; 375
           jaroj</url></vrk>
@@ -626,7 +629,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://www.monato.net/2008/009467.php">Pli
+          <vrk><url ref="&Monato;/2008/009467.php">Pli
           komforte labori per komputilo</url></vrk>
         </fnt>.
       </ekz>
@@ -659,6 +662,12 @@
 </art>
 <!--
 $Log: pen.xml,v $
+Revision 1.36  2019/12/25 06:10:13  revo
+Aleks Andre: en
+
+Revision 1.35  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
 Revision 1.34  2018/04/10 09:10:14  revo
 Jeromo Vasxe: + 1 ekz ~i ke
 
@@ -675,11 +684,5 @@ Revision 1.30  2015/07/04 08:37:41  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.29  2015/06/29 16:40:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.28  2014/02/08 16:10:35  revo
-Damien Brucker: -eraro cxe ref
-
-Revision 1.27  2014/01/05 02:10:16  revo
 -->
 </vortaro>

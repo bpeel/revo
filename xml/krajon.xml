@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: krajon.xml,v 1.26 2017/09/05 16:10:14 revo Exp $">
+<art mrk="$Id: krajon.xml,v 1.28 2019/09/25 09:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>krajon</rad>/o <fnt><bib>PV</bib></fnt>
@@ -63,6 +63,7 @@
   <trd lng="nl">potlood</trd>
   <trd lng="pl">o&lstroke;&oacute;wek</trd>
   <trd lng="pt">l&aacute;pis</trd>
+  <trd lng="ro">creion</trd>
   <trd lng="ru">&c_k;&c_a;&c_r;&c_a;&c_n;&c_d;&c_a;&c_sh;</trd>
   <trd lng="sk">ceruzka</trd>
   <trd lng="tr">kur&scedil;un kalem</trd>
@@ -86,9 +87,18 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd>garabatear</trd>,
+    <trd>pintarrajear</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>crayonner</trd>,
     <trd>gribouiller</trd>
+  </trdgrp>
+  <trd lng="pl">szkicowa&cacute;</trd>
+  <trdgrp lng="ro">
+    <trd>desena</trd>,
+    <trd>schi&#539;&abreve;</trd>
   </trdgrp>
 </drv>
 
@@ -113,7 +123,17 @@
     </dif>
   </snc>
   <trd lng="ca">retolador</trd>
+  <trd lng="es">rotulador</trd>
   <trd lng="fr">stylo-feutre</trd>
+  <trdgrp lng="pl">
+    <trd>flamaster</trd>,
+    <trd>mazak</trd>,
+    <trd>pisak</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>marcator</trd>,
+    <trd>carioc&abreve;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="krajon.glob0o">
@@ -144,6 +164,17 @@
     <trd>kuli&ccaron;kov&aacute; tu&zcaron;ka</trd>,
     <trd>propiska</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>bol&iacute;grafo</trd>,
+    <trd>boli</trd>,
+    <trd>esferogr&aacute;fica</trd>,
+    <trd>birome</trd>,
+    <trd>lapicero</trd>,
+    <trd>lapicerito</trd>,
+    <trd>lapicera</trd>,
+    <trd>l&aacute;piz tinta</trd>,
+    <trd>pluma at&oacute;mica</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>crayon &agrave; bille</trd>,
     <trd>stylo-bille</trd>
@@ -156,6 +187,11 @@
     <trd>ballpoint</trd>,
     <trd>kogelpen</trd>
   </trdgrp>
+  <trd lng="pl">d&lstroke;ugopis</trd>
+  <trdgrp lng="ro">
+    <trd>pix</trd>,
+    <trd>stilou</trd>
+  </trdgrp>
   <trd lng="ru">&c_sh;&c_a;&c_r;&c_i;&c_k;&c_o;&c_v;&c_a;&c_ja; &c_r;&c_u;&c_ch;&c_k;&c_a;</trd>
   <trdgrp lng="sk">
     <trd>guli&ccaron;kov&eacute; pero</trd>,
@@ -165,6 +201,12 @@
 </art>
 <!--
 $Log: krajon.xml,v $
+Revision 1.28  2019/09/25 09:10:15  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.27  2019/08/24 18:10:28  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.26  2017/09/05 16:10:14  revo
 Jeromo Vasxe: + ~umi
 
@@ -181,11 +223,5 @@ Revision 1.22  2011/11/27 17:10:08  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.21  2010/12/08 19:04:49  revo
-Jeromo Vasxe: kor. 1 ref
-
-Revision 1.20  2010/11/10 17:30:29  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.19  2010/10/23 16:30:17  revo
 -->
 </vortaro>

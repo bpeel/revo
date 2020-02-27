@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: at.xml,v 1.4 2018/11/18 11:10:18 revo Exp $">
+<art mrk="$Id: at.xml,v 1.6 2020/01/28 18:10:19 revo Exp $">
 <kap>
     <ofc>*</ofc> -<rad>at</rad>/
 </kap>
@@ -17,7 +17,8 @@
       la ago ankora&ubreve; ne fini&gcirc;is en la priparolata momento,
       tio aparte inkluzivas sen&ccirc;esajn kaj ripeti&gcirc;antajn aferojn:
       <ekz>
-        oni povu facile trovi la proverbojn, traktantajn pri &ccirc;ia dezir<tld/>a temo
+        oni povu facile trovi la proverbojn, traktantajn pri &ccirc;ia
+        dezir<tld/>a temo
         <fnt>
           <bib>PrV</bib>
         </fnt>;
@@ -46,7 +47,8 @@
         al ni per la uzado de participo aktiva a&ubreve; pasiva (ekzemple
         &leftquot;&scirc;miranta&jcirc;o&rightquot; kaj &leftquot;&scirc;mir<tld/>a&jcirc;o&rightquot; <klr>[sed ni ne]</klr>
         devas senbezone <klr>[&#8230;]</klr> uzi ekzemple la longajn
-        formojn &leftquot;estanta&jcirc;o&rightquot;, &leftquot;kreskanta&jcirc;o&rightquot;, a&ubreve; &leftquot;send<tld/>a&jcirc;o&rightquot;, &leftquot;kra&ccirc;<tld/>a&jcirc;o&rightquot;
+        formojn &leftquot;estanta&jcirc;o&rightquot;, &leftquot;kreskanta&jcirc;o&rightquot;, a&ubreve; &leftquot;send<tld/>a&jcirc;o&rightquot;,
+        &leftquot;kra&ccirc;<tld/>a&jcirc;o&rightquot;
         <fnt>
           <bib>LR</bib>
           <lok>1. Vortfarado</lok>
@@ -78,10 +80,32 @@
     </dif>
   </snc>
 </drv>
+
+<drv mrk="at.0e">
+  <kap><tld/>e</kap>
+  <snc>
+    <uzo tip="fak">GRA</uzo>
+    <ref tip="dif" cel="de.0.aganto">de<sncref/></ref>
+    <ekz> la murdo <tld/>e de la policano <klr>(=la policano
+    murdas iun)</klr></ekz>
+   <trd lng="fr">de</trd> 
+    <rim>
+    Per tiu rimedo du kontra&ubreve;aj sencoj de la sama prepozicio "de" estas
+    apartigitaj, nome la aganto disde la objekto.
+    </rim>
+    <ref tip="ant" cel="ant.0e">ante</ref>
+  </snc>
+</drv>
 </art>
 
 <!--
 $Log: at.xml,v $
+Revision 1.6  2020/01/28 18:10:19  revo
+Damien Brucker: +trd fr +ref
+
+Revision 1.5  2020/01/28 16:10:22  revo
+Damien Brucker: +drv ~e de
+
 Revision 1.4  2018/11/18 11:10:18  revo
 Wolfram Diestel: vortumo de dif lau PMEG (pli komprenebla), +ekz-oj
 

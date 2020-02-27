@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: met.xml,v 1.45 2017/12/20 00:11:11 revo Exp $">
+<art mrk="$Id: met.xml,v 1.48 2019/11/21 21:10:21 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>met</rad>/i <fnt><bib>PV</bib></fnt>
@@ -380,7 +380,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Sen Rodin</aut>
-          <vrk><url ref="http://www.monato.net/2009/009725.php">Nu,
+          <vrk><url ref="&Monato;/2009/009725.php">Nu,
           karaj fratoj ...</url></vrk>
         </fnt>.
       </ekz>
@@ -758,7 +758,7 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="arkiv.0o">arkivo</ref>,
+      <ref cel="arhxiv.0o">arkivo</ref>,
       <ref cel="forges.0i">forgesi</ref>
     </refgrp>
     <trdgrp lng="be">
@@ -1044,7 +1044,7 @@
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
           <vrk><url
-          ref="http://www.monato.net/2008/009298.php">Orient-azia
+          ref="&Monato;/2008/009298.php">Orient-azia
           itinero</url></vrk>
         </fnt>.
       </ekz>
@@ -1187,6 +1187,28 @@
   <trd lng="sv">underkasta sig</trd>
 </drv>
 
+<drv mrk="met.sub0igxema">
+  <kap>
+    sub<tld/>i&gcirc;ema
+  </kap>
+  <snc mrk="met.sub0igxema.PSI">
+    <dif>
+      Kiu facile sub<tld/>i&gcirc;as,
+      <ref tip="vid" cel="obe.0ema">obeema</ref>:
+      <ekz>
+        dum lia patro vivis, <nom>Joh</nom>
+        kondutis kiel sub<tld/>i&gcirc;ema filo
+        <fnt>
+          <aut>T. Steele</aut>
+          <vrk>Konvinka Kamufla&jcirc;o</vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">soumis</trd>
+</drv>
+
 <drv mrk="met.sur0i">
   <kap>sur<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
@@ -1305,8 +1327,8 @@
 
 <drv mrk="met.mangxo0o">
   <kap>man&gcirc;o<tld/>o</kap>
-  <uzo tip="fak">KUI</uzo>
   <snc>
+  <uzo tip="fak">KUI</uzo>
     <dif>
       &Ccirc;iu el la sinsekvaj partoj de ceremonia man&gcirc;o, la
       pladoj
@@ -1345,6 +1367,15 @@
 </art>
 <!--
 $Log: met.xml,v $
+Revision 1.48  2019/11/21 21:10:21  revo
+Jeromo Vasxe: + sub~igxema
+
+Revision 1.47  2019/08/14 07:10:15  revo
+Damien Brucker: -eraro cxe cel en ref
+
+Revision 1.46  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
 Revision 1.45  2017/12/20 00:11:11  revo
 Michel Cantigneaux: "el/met/i" fundamenta kunmetajxo el la U.V.
 
@@ -1358,14 +1389,5 @@ Revision 1.42  2017/12/17 14:10:15  revo
 Wolfram Diestel: 1a: prilaboris ekz-ojn, forigis fakindikon TEKS
 
 Revision 1.41  2017/09/29 18:10:19  revo
-Jeromo Vasxe: kor 1 ref
-
-Revision 1.40  2017/09/28 22:10:30  revo
-Jeromo Vasxe: + de~ i sur~i snc komune/teks
-
-Revision 1.39  2017/04/11 19:10:36  revo
-Wolfram Diestel: elmeti: +3 ekz-oj
-
-Revision 1.38  2016/04/21 11:10:30  revo
 -->
 </vortaro>

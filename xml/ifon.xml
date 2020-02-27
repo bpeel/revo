@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ifon.xml,v 1.4 2019/02/05 20:10:26 revo Exp $">
+<art mrk="$Id: ifon.xml,v 1.5 2019/06/30 18:21:02 revo Exp $">
 <kap>
     <rad>iFon</rad>/o <fnt><bib>Viki</bib></fnt>
 </kap>
@@ -21,7 +21,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="https://www.monato.net/2014/011257.php"
+          <vrk><url ref="&Monato;/2014/011257.php"
               >En rubujon, kulturo kaj lingvo de Italio</url></vrk>
         </fnt>;
       </ekz>
@@ -43,6 +43,9 @@
 
 <!--
 $Log: ifon.xml,v $
+Revision 1.5  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.4  2019/02/05 20:10:26  revo
 Wolfram Diestel: koncizigis dif, +ekz-oj
 

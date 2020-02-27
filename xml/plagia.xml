@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plagia.xml,v 1.18 2018/11/27 07:10:20 revo Exp $">
+<art mrk="$Id: plagia.xml,v 1.20 2019/06/30 18:21:48 revo Exp $">
 <kap>
   <ofc>5</ofc>
   <rad>plagiat</rad>/o
@@ -23,7 +23,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008052.html">Taglibro 
+          <vrk><url ref="https://www.monato.be/2003/008052.html">Taglibro 
            de l' (anta&ubreve;)milito ... el la lando de &Scirc;ekspiro</url></vrk>
         </fnt>;
       </ekz>
@@ -33,7 +33,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Reinhard F&ouml;ssmeier</aut>
-          <vrk><url ref="http://www.monato.net/2011/010330.php">Fino de ministreco: kroniko</url></vrk>
+          <vrk><url ref="&Monato;/2011/010330.php">Fino de ministreco: kroniko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -42,7 +42,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Isikawa Takasi</aut>
-          <vrk><url ref="http://www.monato.net/2015/011563.php">Pikas la Olimpikoj</url></vrk>
+          <vrk><url ref="&Monato;/2015/011563.php">Pikas la Olimpikoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -113,6 +113,12 @@
 </art>
 <!--
 $Log: plagia.xml,v $
+Revision 1.20  2019/06/30 18:21:48  revo
+adaptis URL de Monato
+
+Revision 1.19  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.18  2018/11/27 07:10:20  revo
 Wolfram Diestel: +ekz-oj
 

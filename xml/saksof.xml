@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: saksof.xml,v 1.20 2018/08/18 19:10:14 revo Exp $">
+<art mrk="$Id: saksof.xml,v 1.22 2019/06/30 18:21:49 revo Exp $">
 <kap>
    <ofc>9</ofc><rad>saksofon</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -20,7 +20,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Laimius Stra&zcaron;nickas</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2003/008095.html">La segilo sonas!</url></vrk>
+          <vrk><url ref="https://www.monato.be/2003/008095.html">La segilo sonas!</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -29,7 +29,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>pp/cs</aut>
-          <vrk><url ref="http://www.monato.net/2005/008543.php">Tiel ili protestas</url></vrk>
+          <vrk><url ref="&Monato;/2005/008543.php">Tiel ili protestas</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -71,6 +71,12 @@
 </art>
 <!--
 $Log: saksof.xml,v $
+Revision 1.22  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
+Revision 1.21  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.20  2018/08/18 19:10:14  revo
 Wolfram Diestel: +ekz-oj
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: restor.xml,v 1.17 2018/10/04 14:10:15 revo Exp $">
+<art mrk="$Id: restor.xml,v 1.22 2019/07/06 09:10:50 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>restoraci</rad>/o <fnt><bib>PV</bib></fnt>
@@ -43,6 +43,7 @@
   <trd lng="es">restaurante</trd>
   <trd lng="fa">&a_r;&a_s;&a_t;&a_w;&a_r;&a_A;&a_n;</trd>
   <trd lng="fr">restaurant</trd>
+  <trd lng="hi">&#2352;&#2375;&#2360;&#2381;&#2335;&#2379;&#2352;&#2375;&#2306;&#2335; [<ind>r&#275;s&#7789;&#333;r&#275;&#7751;&#7789;</ind>]</trd>
   <trd lng="hu">&eacute;tterem</trd>
   <trdgrp lng="id">
     <trd>restoran</trd>,
@@ -55,10 +56,26 @@
     <trd>jed&aacute;le&ncaron;</trd>,
     <trd>re&scaron;taur&aacute;cia</trd>
   </trdgrp>
+  <trd lng="zh">&#39184;&#21381; [<ind>c&#257;nt&#299;ng</ind>]</trd>
 </drv>
 </art>
 <!--
 $Log: restor.xml,v $
+Revision 1.22  2019/07/06 09:10:50  revo
+Aleks Andre: hi: iso 15919
+
+Revision 1.21  2019/07/04 15:10:40  revo
+Aleks Andre: +trd hi
+
+Revision 1.20  2019/07/04 10:10:15  revo
+Aleks Andre: zh: malgxusta loko por [ ] kaj -ind-
+
+Revision 1.19  2019/07/03 08:10:22  revo
+Aleks Andre: zh: -ind- anstataux ol -klr-
+
+Revision 1.18  2019/07/02 18:10:17  revo
+Aleks Andre: zh: restoracio
+
 Revision 1.17  2018/10/04 14:10:15  revo
 Behnam Tabatabai: +trd fa
 
@@ -66,20 +83,5 @@ Revision 1.16  2017/09/18 18:10:27  revo
 Jeromo Vasxe: preciz. dif, + ekz
 
 Revision 1.15  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.14  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.13  2014/06/30 10:10:14  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.12  2012/09/19 09:10:13  revo
-Marc Rausell: + trd ca
-
-Revision 1.11  2006/02/20 17:33:44  revo
-Tulio Flores: +trd pt
-
-Revision 1.10  2004/09/20 18:28:25  revo
 -->
 </vortaro>

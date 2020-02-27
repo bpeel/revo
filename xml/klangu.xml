@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klangu.xml,v 1.13 2019/02/04 21:10:20 revo Exp $">
+<art mrk="$Id: klangu.xml,v 1.15 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <rad>klangul</rad>/o
 </kap>
@@ -20,17 +20,20 @@
       tip="malprt" cel="anased.0oj">anasoj</ref>
       (<trd lng="la">Clangula</trd>):
       <ekz>
-        anta&ubreve; 60&#8239;-&#8239;100 jaroj oni povis profiti nestokeston, ekzemple de <tld/>o
+        anta&ubreve; 60&#8239;-&#8239;100 jaroj oni povis profiti nestokeston, ekzemple de
+        <tld/>o
         <fnt>
           <bib>Monato</bib>
           <aut>Saliko</aut>
-          <vrk><url ref="https://www.monato.net/2010/009971.php"
+          <vrk><url ref="&Monato;/2010/009971.php"
               >Nestokestoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        en la parkoj <klr>[de Moskvo]</klr> vivas <klr>[&#8230;]</klr> multaj birdoj kiel
-        granda kaj malgranda bota&ubreve;roj, knaranaso, orokula <tld/>o, mar&ccirc;a cirkuo,
+        en la parkoj <klr>[de Moskvo]</klr> vivas <klr>[&#8230;]</klr> multaj
+        birdoj kiel
+        granda kaj malgranda bota&ubreve;roj, knaranaso, orokula <tld/>o, mar&ccirc;a
+        cirkuo,
         <klr>[&#8230;]</klr>
         <fnt>
           <bib>Viki</bib>
@@ -57,12 +60,19 @@
   <trd lng="nl">ijseend</trd>
   <trd lng="hu">jeges r&eacute;ce</trd>
   <trd lng="id"><ind>bebek</ind> ekor panjang</trd>
-  <trd lng="pl">lod&oacute;wka</trd>
+  <trd lng="pl">lod&oacute;wka <klr>(ptak)</klr></trd>
+  <trd lng="ro">ra&#539;&abreve; de ghe&#539;uri</trd>
   <trd lng="ru">&c_m;&c_o;&c_r;&c_ja;&c_n;&c_k;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log: klangu.xml,v $
+Revision 1.15  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
+Revision 1.14  2019/04/23 22:10:27  revo
+Vito Redsky: +trd ro +trd pl
+
 Revision 1.13  2019/02/04 21:10:20  revo
 Wolfram Diestel: +ekz-oj, +bld
 
@@ -82,8 +92,5 @@ Revision 1.8  2004/08/19 16:33:04  revo
 Jeromo Vasxe: + trd fr
 
 Revision 1.7 2001/10/28 19:12:11 revo
-Paul Peeraerts: kor de tajperaro
-
-Revision 1.6 2001/10/27 18:11:35 revo
 -->
 </vortaro>

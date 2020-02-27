@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: guanin.xml,v 1.3 2013/12/18 14:10:14 revo Exp $">
+<art mrk="$Id: guanin.xml,v 1.4 2019/08/31 13:10:15 revo Exp $">
 <kap>
   <rad>guanin</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -12,13 +12,20 @@
     <uzo tip="fak">BIO</uzo>
     <uzo tip="fak">KEM</uzo>
     <dif>
-      Iu el la 
-      <ref tip="super" cel="nukleotid.0o.GNT">nukleotido</ref>specoj
-      de ADN a&ubreve; ARN;
-      simbole <frm>C<sub>5</sub>H<sub>5</sub>N<sub>5</sub>O</frm>:
+      <frm>C<sub>5</sub>H<sub>5</sub>N<sub>5</sub>O</frm>,
+      unu el la kvin nukleo-bazoj de DNA kaj RNA:
+      <ekz>
+        la kvar organikaj bazoj en la <ref tip="malprt" cel="nukleotid.0o.GNT">nukleotido</ref>
+        de DNA estas: <ref cel="adenin.0o">adenino</ref>, citosino, <tld/>o, kaj <ref cel="timin.0o">timino</ref>
+        <fnt>
+          <bib>Monato</bib>
+          <vrk><url ref="http://steloj.de/esperanto/monato2/007157.html"
+              >Vivo: Riboj</url></vrk>
+        </fnt>;
+      </ekz> 
       <ekz>
         notitaj A, T, G a&ubreve; C la&ubreve; ilia &hcirc;emia konsisto adenino, <tld/>o, 
-        timino kaj citozino <klr>...</klr> estas la kvar 
+        timino kaj citozino <klr>[&#8230;]</klr> estas la kvar 
         literoj de la genetika alfabeto
         <fnt>
           <aut>D. Benoit-Brow&aelig;ys, trad. J.-M. Cash</aut>,
@@ -40,6 +47,9 @@
 
 <!--
 $Log: guanin.xml,v $
+Revision 1.4  2019/08/31 13:10:15  revo
+Wolfram Diestel: +ekz, vortumo de dif, ref-oj
+
 Revision 1.3  2013/12/18 14:10:14  revo
 Joop Eggen: +trd bg de en nl
 

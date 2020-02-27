@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: genital.xml,v 1.3 2017/10/12 22:10:18 revo Exp $">
+<art mrk="$Id: genital.xml,v 1.4 2019/10/06 15:10:17 revo Exp $">
 <kap>
   <rad>genital</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -10,21 +10,33 @@
   <kap><tld/>o</kap>
   <uzo tip="stl">RAR</uzo>
   <snc mrk="genital.0o.ANA">
-    <ref tip="dif" cel="seks.0organo">seksorgano</ref>
-    <ekz>
-      homoj je jupoj havas siajn <tld/>ojn pli facile atingeblaj, dum
-      homoj je pantalonoj havas <tld/>ojn ka&scirc;itajn
-      <fnt>
-        <vrk>Jupo</vrk>,
-        <lok><url
-        ref="http://eo.wikipedia.org/wiki/Jupo">Vikipedio</url>,
-        2017-03-01</lok>
-      </fnt>.
-    </ekz>
+    <dif>
+      <ref tip="dif" cel="seks.0organo">Seksorgano</ref>:
+      <ekz>
+        homoj je jupoj havas siajn <tld/>ojn pli facile atingeblaj, dum
+        homoj je pantalonoj havas <tld/>ojn ka&scirc;itajn
+        <fnt>
+          <vrk>Jupo</vrk>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Jupo">Vikipedio</url>,
+          2017-03-01</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Ludovico Bonaccioli</nom> <klr>[&#8230;]</klr> studis &ccirc;efe la strukturon de la ina <tld/>a
+        aparato kaj la komplika&jcirc;ojn, kiuj povus interveni, en la virinoj, dum la
+        gravedeco
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=653625">Ludovico Bonaccioli</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="bg">&c_p;&c_o;&c_l;&c_o;&c_v; &c_o;&c_r;&c_g;&c_a;&c_n;</trd>
   <trd lng="cs">pohlavn&iacute; org&aacute;n</trd>
-  <trd lng="de">Geschlechtsorgan</trd>
+  <trdgrp lng="de">
+    <trd>Genital</trd>,
+  </trdgrp>
   <trdgrp lng="en">
     <trd>sex organ</trd>,
     <trd>genitalia</trd>
@@ -46,6 +58,9 @@
 
 <!--
 $Log: genital.xml,v $
+Revision 1.4  2019/10/06 15:10:17  revo
+Wolfram Diestel: +ekz
+
 Revision 1.3  2017/10/12 22:10:18  revo
 Jeromo Vasxe: + fnt
 

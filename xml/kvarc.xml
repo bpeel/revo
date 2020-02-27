@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kvarc.xml,v 1.18 2018/10/28 11:10:27 revo Exp $">
+<art mrk="$Id: kvarc.xml,v 1.19 2019/06/30 18:21:03 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kvarc</rad>/o
@@ -19,7 +19,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>last</aut>
-          <vrk><url ref="http://www.monato.net/2010/009963.php">Ora febro en Litovio</url></vrk>
+          <vrk><url ref="&Monato;/2010/009963.php">Ora febro en Litovio</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -91,6 +91,9 @@
 </art>
 <!--
 $Log: kvarc.xml,v $
+Revision 1.19  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
 Revision 1.18  2018/10/28 11:10:27  revo
 Wolfram Diestel: +ekz-oj, +bld
 

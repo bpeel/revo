@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: univer1.xml,v 1.23 2018/11/13 08:10:14 revo Exp $">
+<art mrk="$Id: univer1.xml,v 1.24 2019/06/30 18:21:50 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>universal</rad>/a
@@ -173,7 +173,7 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Kirilo Brosch</aut>
-            <vrk><url ref="http://www.monato.net/2011/010485.php"
+            <vrk><url ref="&Monato;/2011/010485.php"
             >Spaco kaj lingvo &ccirc;u facila afero?</url></vrk>
           </fnt>.
         </ekz>
@@ -206,6 +206,9 @@
 </art>
 <!--
 $Log: univer1.xml,v $
+Revision 1.24  2019/06/30 18:21:50  revo
+adaptis URL de Monato
+
 Revision 1.23  2018/11/13 08:10:14  revo
 Wolfram Diestel: +snc-oj tutmonda, cixam_tauga, ekz-oj
 

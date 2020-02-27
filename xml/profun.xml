@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: profun.xml,v 1.27 2018/03/17 21:10:16 revo Exp $">
+<art mrk="$Id: profun.xml,v 1.29 2019/06/30 18:21:49 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>profund</rad>/a
@@ -115,7 +115,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Daniel L. Mason</aut>
-          <vrk><url ref="http://www.monato.net/2011/010276.php">Matena kafo</url></vrk>
+          <vrk><url ref="&Monato;/2011/010276.php">Matena kafo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -130,19 +130,19 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008358.html">Kuracbaneje</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008358.html">Kuracbaneje</url></vrk>
         </fnt>,
         esploro
         <fnt>
           <bib>Monato</bib>
           <aut>W. H. Simcock</aut>
-          <vrk><url ref="http://www.monato.net/2006/008794.php">La&ubreve; spuroj de La Tria Viro</url></vrk>
+          <vrk><url ref="&Monato;/2006/008794.php">La&ubreve; spuroj de La Tria Viro</url></vrk>
         </fnt>,
         analizo
         <fnt>
           <bib>Monato</bib>
           <aut>Nikolao Gudskov</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008063.html">50-jara stabileco en verkado - &ccirc;u klasika?</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008063.html">50-jara stabileco en verkado - &ccirc;u klasika?</url></vrk>
         </fnt>,
         pripensado
         <fnt>
@@ -265,7 +265,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="http://www.monato.net/2014/011292.php">Oceano, 
+          <vrk><url ref="&Monato;/2014/011292.php">Oceano, 
           kaj eble vivo, sur saturna satelito</url></vrk>
         </fnt>;
       </ekz>
@@ -274,7 +274,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>last</aut>
-          <vrk><url ref="http://www.monato.net/2005/008524.php">Jen la tub-ero</url></vrk>
+          <vrk><url ref="&Monato;/2005/008524.php">Jen la tub-ero</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -721,6 +721,12 @@
 </art>
 <!--
 $Log: profun.xml,v $
+Revision 1.29  2019/06/30 18:21:49  revo
+adaptis URL de Monato
+
+Revision 1.28  2019/06/30 07:43:29  revo
+adaptis URL de Monato
+
 Revision 1.27  2018/03/17 21:10:16  revo
 Wolfram Diestel: prilaboris ekz-ojn, germ trd-oj
 

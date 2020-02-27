@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxeval.xml,v 1.72 2017/10/14 12:10:19 revo Exp $">
+<art mrk="$Id: cxeval.xml,v 1.76 2020/01/26 12:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;eval</rad>/o <fnt><bib>PV</bib></fnt>
@@ -21,8 +21,7 @@
       la antikva epoko kiel rajd- kaj tir-bestoj:
       <ekz>
         azenoj, zebroj, kaj <tld/>oj estas en la sama genro;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         &ccirc;iuj <tld/>oj kaj &ccirc;aroj de Faraono kaj liaj
         rajdantoj kaj lia militistaro atingis ilin
         <fnt><bib>MT</bib>, <lok>&Eli; 14:9</lok></fnt>.
@@ -89,7 +88,31 @@
   <trd lng="tr">at</trd>
   <trdgrp lng="zh">
     <trd>&#39532;</trd>,
-    <trd><klr>tr. </klr>&#39340;<klr> [m&#462;]</klr></trd>
+    <trd><klr>tr. </klr>&#39340; [<ind>m&#462;</ind>]</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cxeval.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <tld/>aj hufoj<fnt><bib>Marta</bib></fnt>;
+      </ekz><ekz>
+        <tld/>aj haroj;
+      </ekz><ekz>
+        <tld/>a jungilaro;
+      </ekz><ekz>
+        Pli tiras virina haro, ol <tld/>a paro
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">chevalin</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_n;&c_s;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_l;&c_o;&c_sh;&c_a;&c_d;&c_i;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
 </drv>
   
@@ -124,13 +147,11 @@
       kiu &ccirc;iam lin <ref cel="intere.0i.per_scivolo">interesas</ref>:
       <ekz>
         tio estas lia amata <tld/>eto<fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         li tuj ekrajdis sian amatan <tld/>eton pri la supersigna
         reformo;
-      </ekz>
-      <ekz>
-        la facileco de Volap&uuml;k estas la plej amata <tld/>eto,
+      </ekz><ekz>
+        la facileco de <nac>Volap&uuml;k</nac> estas la plej amata <tld/>eto,
         sur kiu ili elveturas al &ccirc;iu okazo
         <fnt><aut>&Z;</aut>,
         <lok>citite la&ubreve; PIV, p.158</lok>.
@@ -167,10 +188,9 @@
 <drv mrk="cxeval.CX0eto">
   <kap><tld lit="&Ccirc;"/>eto
     <fnt>
-      <aut>Galad&iacute;-Enr&iacute;quez, David; Wandel, Amri</aut>:
-      <vrk>La kosmo kaj ni. Galaksioj, planedoj kaj vivo en la
-      universo</vrk>.
-      <lok>FEL, Antverpeno, 2005</lok>
+      <aut>D. Galad&iacute;-Enr&iacute;quez, A. Wandel</aut>
+      <vrk>La kosmo kaj ni</vrk>
+      <lok>2005</lok>
     </fnt>
   </kap>
   <mlg>Equ</mlg>
@@ -241,15 +261,16 @@
       Ido de <tld/>o:
       <ekz>
         <tld/>ido estas nematura <tld/>o
-        <fnt><bib>F</bib>, <lok>&FE;36.</lok></fnt>;
+        <fnt><bib>F</bib> <lok>&FE; 36.</lok></fnt>;
+      </ekz><ekz>
+        sur &ccirc;evalkampoj en baritaj lokoj apud vila&gcirc;oj kuradis
+        <tld/>idoj kaj pa&scirc;tis sin belaj &ccirc;evalinoj.
+        <fnt>
+          <aut>A. Jir&aacute;sek, trad. J. Vondrou&scaron;ek</aut>
+          <vrk>Malnovaj Mitoj &Ccirc;e&hcirc;aj</vrk>
+          <lok>2001</lok>
+        </fnt>
       </ekz>
-      <ekz>sur &ccirc;evalkampoj en baritaj lokoj apud vila&gcirc;oj kuradis
-      <tld/>idoj kaj pa&scirc;tis sin belaj &ccirc;evalinoj.
-    <fnt>
-      <aut>Alois Jir&aacute;sek, trad. Josef Vondrou&scaron;ek</aut>:
-      <vrk>Malnovaj Mitoj &Ccirc;e&hcirc;aj</vrk>.
-      <lok>Inko, Tyres&ouml;, Svedio, 2001</lok>
-    </fnt></ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -283,7 +304,7 @@
       <ekz>
         Al la <tld/>ino en la &ccirc;aroj de Faraono /
         Mi komparas vin, ho mia amatino
-        <fnt><bib>MT</bib>, <lok>&Alt; 1:9</lok></fnt>.
+        <fnt><bib>MT</bib> <lok>&Alt; 1:9</lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -327,6 +348,27 @@
   <trd lng="ru">&c_s;&c_p;&c_je;&c_sh;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
 </drv>
   
+<drv mrk="cxeval.kur0o">
+  <kap>kur<tld/>o</kap>
+  <snc mrk="cxeval.kur0o.RAJ">
+    <dif>
+      <ref tip="super" cel="cxeval.0o.genro">&Ccirc;evalo</ref>
+      el malpeza, rapida raso, uzata por kurado:
+       <ekz>
+        Pli rapide ol agloj, liaj kur&ccirc;evaloj kuris |
+        Kaj li fajfis, kaj kriis, kaj nome ilin alvokis
+        <fnt>
+          <aut>C. Clarke Moore a&ubreve; H. Livingston, trad. M. Joshi</aut>
+          <vrk><url ref="https://lernu.net/eo/forumo/temo/15084">
+          La Antaukristnaska Nokto</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">cheval de course</trd>
+</drv>
+
 <drv mrk="cxeval.mar0eto">
   <kap>mar<tld/>eto</kap>
   <snc mrk="cxeval.mar0eto.ZOO">
@@ -343,9 +385,9 @@
         vere similas al la &ccirc;evala <klr>...</klr> Pro tio &ccirc;i tiu fi&scirc;o 
         ricevis en &ccirc;iuj lingvoj la saman nomon &mdash; mar<tld/>eto
         <fnt>
-          <aut>P. Giunio</aut>,
-          <vrk>Sekretoj de la maresta&jcirc;oj</vrk>,
-          <lok>Kroatia Esperanto-Servo, 1960</lok>
+          <aut>P. Giunio</aut>
+          <vrk>Sekretoj de la maresta&jcirc;oj</vrk>
+          <lok>1960</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -362,15 +404,17 @@
   <kap>sur<tld/>i&gcirc;i</kap>
   <snc mrk="cxeval.sur0igxi.RAJ">
     <dif>
-      Eksidi sur la dorso de <tld/>o, enseli&gcirc;i.
-      <ekz>ili sur<tld/>i&gcirc;is, pikis &ccirc;evalojn en ingvenojn kaj plu
-      galopis
-      al najbara gento.
-    <fnt>
-      <aut>Alois Jir&aacute;sek, trad. Josef Vondrou&scaron;ek</aut>:
-      <vrk>Malnovaj Mitoj &Ccirc;e&hcirc;aj</vrk>.
-      <lok>Inko, Tyres&ouml;, Svedio, 2001</lok>
-    </fnt></ekz>
+      Eksidi sur la dorso de <tld/>o,
+      <ref tip="vid" cel="sel.sur0igxi">surseli&gcirc;i</ref>.
+      <ekz>
+        ili sur<tld/>i&gcirc;is, pikis &ccirc;evalojn en ingvenojn kaj plu
+        galopis al najbara gento.
+        <fnt>
+          <aut>A. Jir&aacute;sek, trad. J. Vondrou&scaron;ek</aut>
+          <vrk>Malnovaj Mitoj &Ccirc;e&hcirc;aj</vrk>
+          <lok>2001</lok>
+        </fnt>
+      </ekz>
     </dif>
   </snc>
   <trd lng="de">aufsitzen<klr tip="amb"> (Pferd)</klr></trd>
@@ -416,14 +460,15 @@
       difektas, rompas sekurecon, malfermas konekton al eksterulo
       ktp:
       <ekz>
-        pkzip.300 <klr>...</klr> estas Troja <tld lit="&Ccirc;"/>o,
+        <nac>pkzip.300</nac> <klr>...</klr> estas
+        Troja <tld lit="&Ccirc;"/>o,
         ne viruso, kaj tre dan&gcirc;era
         <fnt>
-          <aut>P. Jelenc</aut>,
-          <vrk>Re: pri viruso "zip"</vrk>,
-          <lok>
-  <url ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">
-           soc.culture.esperanto</url>,
+          <aut>P. Jelenc</aut>
+          <vrk>Re: pri viruso "zip"</vrk>
+          <lok><url
+          ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">
+           soc.culture.esperanto</url>
             1996-10-20</lok>
         </fnt>.
       </ekz>
@@ -431,7 +476,7 @@
   </snc>
   <trd lng="be">&c_t;&c_r;&c_a;&c_ja;&c_n;&c_s;&c_k;&c_ib; &c_k;&c_o;&c_n;&c_mol;</trd>
   <trd lng="de">Trojanisches Pferd</trd>
-  <trd lng="fr">cheval de troie</trd>
+  <trd lng="fr">cheval de Troie</trd>
   <trd lng="en">Trojan horse</trd>
   <trd lng="id">Kuda Troya</trd>
   <trd lng="it"><ind>cavallo</ind> di Troia</trd>
@@ -520,6 +565,18 @@
 </art>
 <!--
 $Log: cxeval.xml,v $
+Revision 1.76  2020/01/26 12:10:18  revo
+Wolfram Diestel: testo
+
+Revision 1.75  2019/11/05 05:10:15  revo
+Sergio Pokrovskij: + ~a
+
+Revision 1.74  2019/07/03 08:10:19  revo
+Aleks Andre: zh: -ind- anstataux ol -klr-
+
+Revision 1.73  2019/06/20 12:10:14  revo
+Jeromo Vasxe: + kur~o
+
 Revision 1.72  2017/10/14 12:10:19  revo
 Vito Redsky: +trd ro
 
@@ -530,17 +587,5 @@ Revision 1.70  2017/04/18 14:10:25  revo
 Ludoviko Francisco: +drv +fnt
 
 Revision 1.69  2016/12/03 18:10:18  revo
-Robin van der Vliet: +trd
-
-Revision 1.68  2014/05/30 08:10:37  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.67  2013/10/27 15:10:15  revo
-Benito Subejrano: + trd ca oc
-
-Revision 1.66  2013/10/19 15:10:21  revo
-Wolfram Diestel: ref al neparhufuloj
-
-Revision 1.65  2013/09/15 11:10:22  revo
 -->
 </vortaro>

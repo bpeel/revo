@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lund.xml,v 1.36 2018/09/11 16:10:17 revo Exp $">
+<art mrk="$Id: lund.xml,v 1.38 2019/06/30 18:21:03 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lund</rad>/o
@@ -46,7 +46,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008359.html">Posta po&scirc;to</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008359.html">Posta po&scirc;to</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -54,7 +54,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Albisturo Kvinke</aut>
-          <vrk><url ref="http://www.monato.net/2008/009326.php">Analoj de Bailenambeann</url></vrk>
+          <vrk><url ref="&Monato;/2008/009326.php">Analoj de Bailenambeann</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -62,7 +62,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/2004/008359.html">Posta po&scirc;to</url></vrk>
+          <vrk><url ref="https://www.monato.be/2004/008359.html">Posta po&scirc;to</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -108,6 +108,12 @@
 </art>
 <!--
 $Log: lund.xml,v $
+Revision 1.38  2019/06/30 18:21:03  revo
+adaptis URL de Monato
+
+Revision 1.37  2019/06/30 07:42:48  revo
+adaptis URL de Monato
+
 Revision 1.36  2018/09/11 16:10:17  revo
 Wolfram Diestel: glatigis dif, +ekz-oj
 

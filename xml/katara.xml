@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: katara.xml,v 1.19 2019/01/23 23:10:14 revo Exp $">
+<art mrk="$Id: katara.xml,v 1.20 2019/06/30 18:21:02 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>katarakt</rad>/o
@@ -22,7 +22,7 @@
           <bib>Monato</bib>
           <aut>Pa&ubreve;lo Sergio Viana</aut>
           <vrk><url
-          ref="http://www.monato.net/2013/011162.php">Kataraktotrakto
+          ref="&Monato;/2013/011162.php">Kataraktotrakto
           revivigas</url></vrk>
         </fnt>;
       </ekz>
@@ -34,7 +34,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="http://www.monato.net/2014/011193.php">Malsama
+          <vrk><url ref="&Monato;/2014/011193.php">Malsama
           a&gcirc;o, malsamaj riskoj</url></vrk>
         </fnt>.
       </ekz>
@@ -76,6 +76,9 @@
 </art>
 <!--
 $Log: katara.xml,v $
+Revision 1.20  2019/06/30 18:21:02  revo
+adaptis URL de Monato
+
 Revision 1.19  2019/01/23 23:10:14  revo
 Vito Redsky: +trd pl +trd ro
 

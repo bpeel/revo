@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ir.xml,v 1.86 2019/01/29 10:10:14 revo Exp $">
+<art mrk="$Id: ir.xml,v 1.90 2019/07/20 12:10:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ir</rad>/i <fnt><bib>PV</bib></fnt>
@@ -171,6 +171,7 @@
       </ekz><ekz>
         fari longan <tld/>adon.
       </ekz>
+      <trd lng="es">ronda</trd>
       <trdgrp lng="hu">
         <trd>menet</trd>,
         <trd>&uacute;t <klr tip="ind">(mint cselekv&eacute;s)</klr></trd>
@@ -188,6 +189,10 @@
       </ekz><ekz>
         la <tld/>o de la okazinta&jcirc;oj en la mondo<fnt>Z</fnt>.
       </ekz>
+      <trdgrp lng="es">
+        <trd>gira</trd>,
+        <trd>marcha</trd>
+      </trdgrp>
       <trdgrp lng="hu">
         <trd>utaz&aacute;s</trd>,
         <trd>j&aacute;r&aacute;s</trd>
@@ -199,6 +204,10 @@
       </ekz><ekz>
         igi motoron en <tld/>adon.
       </ekz>
+      <trdgrp lng="es">
+        <trd>funcionamiento</trd>,
+        <trd>marcha</trd>
+      </trdgrp>
       <trdgrp lng="hu">
         <trd>j&aacute;r&aacute;s</trd>,
         <trd>menet</trd>
@@ -209,11 +218,16 @@
         la <tld/>ado de la societo, de la aferoj, de la negoco estas
         malvigla.
       </ekz>
+      <trd lng="es">progreso</trd>
       <trdgrp lng="hu">
         <trd>menet</trd>,
         <trd>halad&aacute;s</trd>
       </trdgrp>
     </snc>
+    <trdgrp lng="es">
+      <trd>marcha</trd>,
+      <trd>funcionamiento</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>aller<klr tip="ind"> (subst.)</klr></trd>,
       <trd>marche<klr tip="ind"> (fonctionnement)</klr></trd>,
@@ -230,6 +244,7 @@
         gracia, malpeza, flirtanta <tld/>ado.
       </ekz>
     </dif>
+    <trd lng="es">paso<klr> (manera de andar)</klr></trd>
     <trdgrp lng="fr">
       <trd>allure<klr tip="ind"> (d&eacute;marche)</klr></trd>,
       <trd>d&eacute;marche<klr tip="ind"> (mani&egrave;re de
@@ -291,6 +306,10 @@
     <trd>Weg</trd>,
     <trd>Bahn</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>camino</trd>,
+    <trd>sendero</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>chemin</trd>,
     <trd>sentier</trd>,
@@ -325,6 +344,7 @@
       </ekz>
     </dif>
     <trd lng="de">antreiben</trd>
+    <trd lng="es">mover</trd>
     <trdgrp lng="hu">
       <trd>j&aacute;rat</trd>,
       <trd>menet</trd>
@@ -346,6 +366,7 @@
       </ekz>
     </dif>
     <trd lng="de">in <ind>Gang</ind> bringen</trd>
+    <trd lng="es">hacer funcionar</trd>
     <trd lng="hu">m&udblac;k&ouml;dtet</trd>
     <trd lng="nl">doen <ind>gaan</ind></trd>
   </snc>
@@ -356,6 +377,7 @@
         tiu vojo <tld/>igas al la urbo.
       </ekz>
     </dif>
+    <trd lng="es">conducir</trd>
     <trd lng="hu">vezet</trd>
     <trd lng="nl">leiden</trd>
   </snc>
@@ -386,6 +408,11 @@
     </dif>
   </snc>
   <trd lng="de">gangbar</trd>
+  <trdgrp lng="es">
+    <trd>transitable</trd>,
+    <trd>practicable</trd>,
+    <trd>andadero</trd>
+  </trdgrp>
   <trd lng="fr">praticable<klr tip="ind"> (en p. d'une
   voie)</klr></trd>
   <trd lng="hu">j&aacute;rhat&oacute;</trd>
@@ -412,6 +439,7 @@
     </refgrp>
   </snc>
   <trd lng="de">Stelze</trd>
+  <trd lng="es">zanco</trd>
   <trd lng="fr">&eacute;chasse</trd>
   <trd lng="hu">g&oacute;lyal&aacute;b</trd>
   <trd lng="nl">stelt</trd>
@@ -482,6 +510,11 @@
     <trd>herantreten</trd>,
     <trd>herangehen</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>acceder</trd>,
+    <trd>abordar<klr> (barco)</klr></trd>,
+    <trd>aproximarse</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>aborder</trd>,
     <trd>s'<ind>approcher</ind> (de)</trd>,
@@ -518,6 +551,7 @@
     <trd>vorausgehen</trd>,
     <trd>vorgehen</trd>
   </trdgrp>
+  <trd lng="es">preceder</trd>
   <trd lng="fr">pr&eacute;c&eacute;der</trd>
   <trdgrp lng="hu">
     <trd>el&ouml;l megy</trd>,
@@ -551,6 +585,10 @@
     <trd>vorw&auml;rtsgehen</trd>,
     <trd>vorw&auml;rtsschreiten</trd>,
     <trd>vorr&uuml;cken</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>avanzar</trd>,
+    <trd>progresar</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>avancer</trd>,
@@ -596,6 +634,10 @@
     <trdgrp lng="de">
       <trd>herumgehen</trd>,
       <trd>umkreisen</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>circunvalar</trd>,
+      <trd>andar con rodeos</trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>tourner (autour de)</trd>,
@@ -645,6 +687,10 @@
     <trdgrp lng="de">
       <trd>umgehen</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>evitar</trd>,
+      <trd>rodear</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>contourner</trd>,
       <trd>faire un <ind>d&eacute;tour</ind></trd>
@@ -670,6 +716,10 @@
     </dif>
     <ref tip="sin" cel="ir.rond0i.cxien">rond<tld/>i
       <sncref/>.</ref>
+    <trdgrp lng="es">
+      <trd>circular</trd>,
+      <trd>andar por</trd>.
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>courir<klr tip="ind"> (en p. d'une rumeur)</klr></trd>,
       <trd>parcourir<klr tip="ind"> (en tous sens)</klr></trd>.
@@ -719,6 +769,10 @@
     <trd>weggehen</trd>,
     <trd>starten</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>partir</trd>,
+    <trd>distanciarse</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>partir</trd>,
     <trd>quitter</trd>,
@@ -752,6 +806,11 @@
   <trdgrp lng="de">
     <trd>auseinander gehen</trd>,
     <trd><klr>sich </klr>zerstreuen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd><ind>dispersar</ind>se</trd>,
+    <trd><ind>dividir</ind>se</trd>,
+    <trd><ind>separar</ind>se</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>disperser</ind></trd>,
@@ -794,6 +853,7 @@
     <trd>losgehen</trd>,
     <trd>aufbrechen</trd>
   </trdgrp>
+  <trd lng="es">partir</trd>
   <trd lng="fr">partir</trd>
   <trd lng="hu">elindul</trd>
   <trd lng="nl">vertrekken</trd>
@@ -846,6 +906,7 @@
         <ind>el<tld/>o</ind>
         el la lando Egipta
         <fnt><bib>MT</bib><lok>&Rea; 16:3</lok></fnt>;
+        <trd lng="es">salida</trd>
         <trd lng="fr">sortie<klr tip="ind"> (acte)</klr></trd>
         <trd lng="nl">het <ind>buitengaan</ind></trd>
       </ekz><ekz>
@@ -857,6 +918,7 @@
         la strato fini&gcirc;as per <ind>senel<tld/>ejo</ind> <klr>(vojo
           fermita
           &ccirc;e unu ekstrema&jcirc;o)</klr>;
+        <trd lng="es">callej&oacute;n sin salida</trd>
         <trdgrp lng="fr">
           <trd>impasse</trd>,
           <trd>cul-de-sac</trd>
@@ -888,6 +950,10 @@
       <trd>nach <ind>drau&szlig;en gehen</ind></trd>,
       <trd>herausgehen</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>salir</trd>,
+      <trd>apear</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>sortir</trd>,
       <trd>donner (sur)</trd>
@@ -916,7 +982,11 @@
       <trd>nach <ind>au&szlig;en</ind> gehen</trd>,
       <trd><klr>sich </klr>zeigen</trd>
     </trdgrp>
-    <trd lng="es">salir</trd> 
+    <trdgrp lng="es">
+      <trd>salir</trd>,
+      <trd>publicar</trd>,
+      <trd>aparecer</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>sortir<klr tip="ind"> (&ecirc;tre publi&eacute;)</klr></trd>,
       <trd>rendre <ind>public</ind></trd>,
@@ -940,6 +1010,7 @@
     </dif>
   </snc>
   <trd lng="de">Ausgang</trd>
+  <trd lng="es">salida</trd>
   <trdgrp lng="fr">
     <trd>sortie<klr tip="ind"> (lieu)</klr></trd>,
     <trd>issue</trd>
@@ -950,6 +1021,7 @@
   <trd lng="pt">sa&iacute;da</trd>
   <trd lng="ru">&c_v;&c_y;&c_h;&c_o;&c_d;</trd>
   <trd lng="vo">segol</trd>
+  <trd lng="zh">&#20986;&#21475; [<ind>ch&#363;k&#466;u</ind>]</trd>
 </drv>
 
 <drv mrk="ir.el0vojo">
@@ -961,6 +1033,7 @@
     </dif>
   </snc>
   <trd lng="de">Ausweg</trd>
+  <trd lng="es">camino de salida</trd>
   <trd lng="fr">issue</trd>
   <trd lng="hu">ki&uacute;t</trd>
   <trd lng="pl">droga wyj&sacute;ciowa</trd>
@@ -995,6 +1068,7 @@
       </ekz><ekz>
         &scirc;i <ind>en<tld/>igi</ind>s lin en la domon de sia patro
         <fnt><bib>MT</bib><lok>&Jug; 19:3</lok></fnt>;
+        <trd lng="es">introducir</trd>
         <trdgrp lng="fr">
           <trd>faire <ind>entrer</ind></trd>,
           <trd>introduire<klr tip="ind"> (faire entrer)</klr></trd>
@@ -1008,6 +1082,10 @@
         <ind>en<tld/>o</ind> en la templon estis permesata nur al
         privilegiuloj
         <fnt><bib>I&scirc;tar</bib><lok>&ccirc;ap.11</lok></fnt>;
+        <trdgrp lng="es">
+          <trd>acceso</trd>,
+          <trd>entrada</trd>
+        </trdgrp>
         <trd lng="fr">entr&eacute;e<klr tip="ind"> (acte)</klr></trd>
         <trdgrp lng="hu">
           <trd>bel&eacute;p&eacute;s</trd>,
@@ -1092,6 +1170,7 @@
     </dif>
   </snc>
   <trd lng="en">curfew</trd>
+  <trd lng="es">toque de queda</trd>
   <trd lng="fr">couvre-feu</trd>
   <trd lng="ru">&c_k;&c_o;&c_m;&c_je;&c_n;&c_d;&c_a;&c_n;&c_t;&c_s;&c_k;&c_i;&c_j; &c_ch;&c_a;&c_s;</trd>
 </drv>
@@ -1107,6 +1186,7 @@
     </dif>
   </snc>
   <trd lng="de">Eingang</trd>
+  <trd lng="es">entrada</trd>
   <trd lng="fr">entr&eacute;e<klr tip="ind"> (lieu)</klr></trd>
   <trd lng="hu">bej&aacute;rat</trd>
   <trd lng="nl">ingang</trd>
@@ -1130,6 +1210,10 @@
     <trdgrp lng="de">
       <trd>vorbeigehen</trd>,
       <trd>seitlich gehen</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>hacerse a un lado</trd>,
+      <trd><ind>apartar</ind>se</trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>aller &agrave; l'&eacute;cart</trd>,
@@ -1175,6 +1259,11 @@
         li <ind>for<tld/>igi</ind>s la homojn, kiuj alportis la
         donacojn
         <fnt><bib>MT</bib><lok>&Jug; 3:18</lok></fnt>.
+        <trdgrp lng="es">
+          <trd>despedir</trd>,
+          <trd>dejar ir</trd>,
+          <trd>hacer partir</trd>
+        </trdgrp>
         <trdgrp lng="fr">
           <trd>renvoyer</trd>,
           <trd>cong&eacute;dier</trd>,
@@ -1192,6 +1281,10 @@
   <trdgrp lng="de">
     <trd>weggehen</trd>,
     <trd>fortgehen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>salir</trd>,
+    <trd>partir</trd>
   </trdgrp>
   <trd lng="fr">partir</trd>
   <trdgrp lng="hu">
@@ -1212,6 +1305,7 @@
     Ago de iu for<tld/>anta.
     </dif>
   </snc>
+  <trd lng="es">salida</trd>
   <trd lng="fr">d&eacute;part</trd>
 </drv>
 
@@ -1253,8 +1347,9 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="fr">atteindre</trd>
   <trd lng="de">hingehen</trd>
+  <trd lng="es">alcanzar</trd>  
+  <trd lng="fr">atteindre</trd>
   <trdgrp lng="hu">
     <trd>elmegy <klr tip="ind">(vmeddig)</klr></trd>,
     <trd>el&eacute;r <klr tip="ind">(vhov&aacute;)</klr></trd>,
@@ -1284,6 +1379,7 @@
       <ref cel="hejm.re0igxi">rehejmi&gcirc;i</ref>
     </refgrp>
   </snc>
+  <trd lng="es">ir a casa</trd>
   <trd lng="fr">rentrer chez soi</trd>
 </drv>
 
@@ -1305,6 +1401,7 @@
     <trd>zusammen gehen</trd>,
     <trd>gemeinsam wandeln</trd>
   </trdgrp>
+  <trd lng="es">acompa&ntilde;ar</trd>
   <trdgrp lng="fr">
     <trd>accompagner</trd>,
     <trd>prendre part</trd>
@@ -1333,6 +1430,11 @@
   <trdgrp lng="de">
     <trd>entlanggehen</trd>,
     <trd>entlangschreiten</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>seguir</trd>,
+    <trd>bordear</trd>,
+    <trd>acompa&ntilde;ar</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>longer</trd>,
@@ -1366,6 +1468,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd>retroceder</trd>,
+    <trd>regresar</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>reculer</trd>,
     <trd>r&eacute;gresser</trd>,
@@ -1422,6 +1528,10 @@
       <trd>hinuntergehen</trd>,
       <trd>heruntergehen</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>descender</trd>,
+      <trd>bajar</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>descendre<klr tip="ind"> (ex. un escalier)</klr></trd>
     </trdgrp>
@@ -1469,6 +1579,10 @@
     </dif>
     <ref tip="sin" cel="sekv.0i.postiri">sekvi<sncref/></ref>
   </snc>
+  <trdgrp lng="es">
+    <trd>seguir</trd>,
+    <trd>ir detr&aacute;s</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>suivre<klr tip="ind"> (marcher derri&egrave;re)</klr></trd>
   </trdgrp>
@@ -1499,6 +1613,7 @@
     <trd>vorbeigehen</trd>,
     <trd>vor&uuml;bergehen</trd>
   </trdgrp>
+  <trd lng="es">pasar</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;passer<klr tip="ind"> (un lieu)</klr></trd>,
     <trd>passer<klr tip="ind"> (d&eacute;passer)</klr></trd>
@@ -1532,6 +1647,7 @@
     <trd>zu Fu&szlig; gehen</trd>,
     <trd>wandeln</trd>
   </trdgrp>
+  <trd lng="es">caminar</trd>
   <trdgrp lng="fr">
     <trd>marcher<klr tip="ind"> (&agrave; pied)</klr></trd>
   </trdgrp>
@@ -1551,6 +1667,7 @@
         <tld/>a kaj re<tld/>a bileto.
       </ekz>
     </dif>
+    <trd lng="es">retornar</trd>
     <trd lng="fr">revenir<klr tip="ind"> (&agrave; son point de
         d&eacute;part)</klr></trd>
     <trd lng="hu">visszamegy</trd>
@@ -1566,6 +1683,7 @@
       <trd>zur&uuml;ckgehen</trd>,
       <trd>zur&uuml;ckkehren</trd>
     </trdgrp>
+    <trd lng="es">volver</trd>
     <trdgrp lng="fr">
       <trd>retourner<klr tip="ind"> (aller de nouveau)</klr></trd>,
       <trd>revenir<klr tip="ind"> (aller de nouveau)</klr></trd>,
@@ -1621,6 +1739,10 @@
       <trd>herumgehen</trd>,
       <trd>im <ind>Kreis laufen</ind></trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>girar (alrededor de)</trd>,
+      <trd>orbitar a</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>tourner (autour de)</trd>,
       <trd>faire le <ind>tour</ind><klr> (de)</klr></trd>
@@ -1653,6 +1775,10 @@
     </dif>
     <ref tip="sin" cel="ir.cxirkaux0i.cxien">&ccirc;irka&ubreve;<tld/>i
       <sncref/>.</ref>
+    <trdgrp lng="es">
+      <trd>deambular<klr tip="ind"> (en todas direcciones)</klr></trd>,
+      <trd>rondar</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>courir<klr tip="ind"> (en p. d'une rumeur)</klr></trd>,
       <trd>parcourir<klr tip="ind"> (en tous sens)</klr></trd>,
@@ -1725,6 +1851,7 @@
   <refgrp tip="vid">
     <ref cel="strat.sak0o">sakstrato</ref>
   </refgrp>
+  <trd lng="es">calle <ind>sin salida</ind></trd>
   <trd lng="fr">voie <ind>sans issue</ind></trd>
 </drv>
 
@@ -1738,6 +1865,7 @@
         sub<tld/>i tegmenton, bran&ccirc;aron;
       </ekz>
     </dif>
+    <trd lng="es"><ind>meterse</ind> debajo de</trd>
     <trd lng="fr">se <ind>mettre</ind> sous</trd>
   </snc>
   <snc mrk="ir.sub0i.ASTR">
@@ -1777,6 +1905,10 @@
         cardinal)</klr></trd>
       </ekz>
     </dif>
+    <trdgrp lng="es">
+      <trd><ind>ocultarse</ind> bajo el horizonte</trd>,
+      <trd>ponerse</trd>
+    </trdgrp>
     <trd lng="fr">se <ind>coucher</ind></trd>
   </snc>
   <trdgrp lng="de">
@@ -1785,6 +1917,7 @@
     <trd>heruntergehen</trd>,
     <trd>unten gehen</trd>
   </trdgrp>
+  <trd lng="es">bajar</trd>
   <trdgrp lng="hu">
     <trd>lemegy</trd>,
     <trd>al&aacute;megy</trd>
@@ -1826,6 +1959,11 @@
       <trd>ersteigen</trd>,
       <trd>erklimmen</trd>
     </trdgrp>
+    <trdgrp lng="es">
+      <trd>subir</trd>,
+      <trd>ascender</trd>,
+      <trd><ind>elevar</ind>se</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>monter<klr tip="ind"> (gravir)</klr></trd>,
       <trd>gravir</trd>,
@@ -1864,6 +2002,10 @@
     <trd>dahingehen</trd>,
     <trd>beschreiten</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>montar (sobre)</trd>,
+    <trd>subir (sobre)</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>monter (sur)</trd>,
     <trd>grimper (sur)</trd>
@@ -1896,6 +2038,7 @@
     <trd>mit dem Schiff fahren</trd>,
     <trd>schifffahren</trd>
   </trdgrp>
+  <trd lng="es">navegar</trd>
   <trd lng="fr">naviguer</trd>
   <trd lng="hu">haj&oacute;zik</trd>
   <trd lng="pl">p&lstroke;yn&aogonek;&cacute; statkiem</trd>
@@ -1930,6 +2073,7 @@
     <trd>&c_k;&c_r;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_ja;</trd>,
     <trd>&c_p;&c_a;&c_d;&c_k;&c_r;&c_a;&c_d;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trd lng="es">ir furtivamente</trd>
   <trd lng="hu">lopakodik</trd>
   <trd lng="nl">sluipen</trd>
   <trd lng="pl">skrada&cacute; si&eogonek;</trd>
@@ -1954,10 +2098,12 @@
         tra<tld/>i na&gcirc;ante la riveron;
       </ekz><ekz>
         <ind>tra<tld/>ebla</ind> torento;
+        <trd lng="es">franqueable</trd>
         <trd lng="fr">franchissable</trd>
         <trd lng="hu">&aacute;tg&aacute;zolhat&oacute;</trd>
       </ekz><ekz>
         <ind>netra<tld/>ebla</ind> dezerto;
+        <trd lng="es">infranqueable</trd>
         <trd lng="fr">infranchissable</trd>
         <trd lng="hu">&aacute;tj&aacute;rhatatlan</trd>
       </ekz><ekz>
@@ -1965,6 +2111,7 @@
         de sia
         lo&gcirc;ejo &gcirc;is &scirc;ia
         <fnt><bib>Fab1</bib><lok>Elinjo-fingreto</lok></fnt>;
+        <trd lng="es">pasaje<klr tip="ind"> (camino)</klr></trd>
         <trd lng="fr">passage<klr tip="ind"> (chemin)</klr></trd>
       </ekz><ekz>
         &ccirc;ion, kio povas <tld/>i en fajron, tra<tld/>igu tra fajro,
@@ -1976,6 +2123,9 @@
       <trd>hindurchgehen</trd>,
       <trd>durchgehen</trd>,
       <trd>durchqueren</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>atravesar</trd>
     </trdgrp>
     <trd lng="fr">traverser</trd>
     <trdgrp lng="hu">
@@ -2013,6 +2163,11 @@
     Punkt)</klr></trd>
     <trd lng="en">pass<klr tip="ind"> (e.g. through a
     point)</klr></trd>
+    <trdgrp lng="es">
+      <trd>pasar<klr tip="ind"> (ej. por un
+      punto)</klr></trd>,
+      <trd>cruzar</trd>
+    </trdgrp>
     <trd lng="fr">passer<klr tip="ind"> (ex. par un
     point)</klr></trd>
     <trd lng="hu">&aacute;tmegy <klr tip="ind"> (vmin
@@ -2039,6 +2194,10 @@
         Jordan,
         kondukantan al Moab, kaj permesis al neniu trans<tld/>i
         <fnt><bib>MT</bib><lok>&Jug; 3:28</lok></fnt>;
+        <trdgrp lng="es">
+          <trd>paso</trd>,
+          <trd>vado</trd>
+        </trdgrp>
         <trdgrp lng="fr">
           <trd>passage</trd>,
           <trd>gu&eacute;</trd>
@@ -2053,6 +2212,10 @@
         <klr>(estas ja troa, tute ne tolerebla)</klr>.
       </ekz>
     </dif>
+    <trdgrp lng="es">
+      <trd>franquear<klr tip="ind"> (un l&iacute;mite)</klr></trd>,
+      <trd>rebasar<klr tip="ind"> (el borde)</klr></trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>franchir<klr tip="ind"> (une limite)</klr></trd>,
       <trd>d&eacute;passer<klr tip="ind"> (les bornes)</klr></trd>
@@ -2080,6 +2243,10 @@
         &scirc;ia amo trans<tld/>is al la konkuranto<fnt>Z</fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="es">
+      <trd>cambiar<klr> (de parecer)</klr></trd>,
+      <trd>cambiar<klr> (de due&ntilde;o)</klr></trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>passer<klr tip="ind"> (d'un point de vue &agrave; un
           autre)</klr></trd>,
@@ -2105,6 +2272,7 @@
         sub la prusan regadon.
       </ekz>
     </dif>
+    <trd lng="es">cambiar<klr> de estado</klr></trd>
     <trd lng="fr">passer<klr tip="ind"> (changer
     d'&eacute;tat)</klr></trd>
     <trd lng="hu">&aacute;tmegy <klr tip="ind">(vmibe)</klr></trd>
@@ -2128,6 +2296,11 @@
     <dif>
       Neda&ubreve;ra, pasa, provizora, transita.
     </dif>
+    <trdgrp lng="es">
+      <trd>transitorio</trd>,
+      <trd>temporal</trd>,
+      <trd>pasajero</trd>
+    </trdgrp>
     <trd lng="fr">transitoire</trd>
     <trd lng="hu">&aacute;tmeneti</trd>
     <trdgrp lng="pt">
@@ -2164,6 +2337,7 @@
         se iu estos en malproksima <ind>voj<tld/>o</ind>, tamen li
         faru Paskon al la Eternulo
         <fnt><bib>MT</bib>, <lok>&Nom; 9:10</lok></fnt>;
+        <trd lng="es">viaje</trd>
         <trd lng="fr">voyage</trd>
       </ekz><ekz>
         krom tio li faris sufi&ccirc;e grandan voj<tld/>on flanken,
@@ -2185,6 +2359,9 @@
       </ekz><ekz>
         la vojoj senhomi&gcirc;is, <ind>voj<tld/>anto</ind> jam ne pasas
         <fnt><bib>MT</bib>, <lok>&Jes; 33:8</lok></fnt>.
+        <trdgrp lng="es">
+          <trd>viajero</trd>
+        </trdgrp>
         <trdgrp lng="fr">
           <trd>voyageur</trd>,
           <trd>chemineau</trd>
@@ -2196,6 +2373,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="es">
+    <trd>caminar</trd>,
+    <trd>viajar<klr tip="ind"> (a pie)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>cheminer</trd>,
     <trd>voyager<klr tip="ind"> (&agrave; pied)</klr></trd>
@@ -2212,6 +2393,18 @@
 </art>
 <!--
 $Log: ir.xml,v $
+Revision 1.90  2019/07/20 12:10:13  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.89  2019/07/18 17:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.88  2019/07/07 11:10:24  revo
+Aleks Andre: zh: indekso
+
+Revision 1.87  2019/07/02 17:10:20  revo
+Aleks Andre: zh: elirejo
+
 Revision 1.86  2019/01/29 10:10:14  revo
 Jeromo Vasxe: + hejmen~i
 
@@ -2222,17 +2415,5 @@ Revision 1.84  2017/12/19 17:10:25  revo
 Michel Cantigneaux: "ir/il/o" fundamenta kunmetajxo el la U.V.
 
 Revision 1.83  2017/12/19 08:10:18  revo
-Michel Cantigneaux: fundamentaj "irado" kaj "disiri" el la Universala
-Vortaro
-
-Revision 1.82  2017/04/17 08:51:26  revo
-remetis subdrv, la eraro estis aliloke
-
-Revision 1.81  2017/04/17 07:19:09  revo
-revenis al ir v1.78 pro strukturaj problemoj kun nova versio
-
-Revision 1.78  2015/03/23 09:10:15  revo
-Alain Gerard: +klr
-
 -->
 </vortaro>

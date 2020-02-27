@@ -2,12 +2,13 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: hxiron.xml,v 1.6 2018/09/10 20:10:18 revo Exp $">
+<art mrk="$Id: hxiron.xml,v 1.7 2019/10/13 07:10:17 revo Exp $">
 <kap>
-<rad>&Hcirc;iron</rad>/o
+  <rad>&Hcirc;iron</rad>/o,
+  <var><kap><rad>Kiron</rad>/o</kap></var>
 </kap>
 <drv mrk="hxiron.0o">
-  <kap><tld/>o</kap>
+  <kap><tld/>o, <var><kap>Kirono</kap></var></kap>
   <snc mrk="hxiron.0o.MIT">
     <uzo tip="fak">MIT</uzo>
     <dif>
@@ -19,7 +20,13 @@
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=194421">Antigona (mitologio)</url></lok>
-        </fnt>.
+        </fnt>;
+      </ekz>
+      <ekz>
+        A&hcirc;ilo, filo de Diino kaj Peleo, plej prudenta viro kaj nepo de
+        Ze&ubreve;so, kaj edukita de sagaca Kirono
+        <fnt><aut>Platon, trad. Donald Broadribb</aut><vrk>La
+        Respubliko</vrk><lok>parto 3a</lok></fnt>.
       </ekz>
     </dif>
     <trd lng="de">Cheiron</trd>
@@ -52,6 +59,9 @@
 
 <!--
 $Log: hxiron.xml,v $
+Revision 1.7  2019/10/13 07:10:17  revo
+Wolfram Diestel: kunigo kun Kiron'
+
 Revision 1.6  2018/09/10 20:10:18  revo
 Wolfram Diestel: +ekz-oj, germ trd-oj
 
