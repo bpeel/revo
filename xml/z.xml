@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: z.xml,v 1.14 2019/09/11 17:10:15 revo Exp $">
+  <art mrk="$Id: z.xml,v 1.15 2020/02/16 11:10:23 revo Exp $">
     <kap>
       <ofc>*</ofc><ofc>7</ofc><rad>zo</rad>
     </kap>
@@ -12,10 +12,12 @@
   <uzo tip="fak">GRA</uzo>
   <snc mrk="z.0.FON">
     <dif>
-      La dudekoka (kaj lasta) <ref tip="super" cel="liter.0o.propra">litero</ref> de la
+      La dudekoka (kaj lasta) <ref tip="super"
+      cel="liter.0o.propra">litero</ref> de la
       Esperanta alfabeto:
       <ekz>
-        nomoj de la literoj: <nom>a</nom>, <nom>bo</nom>, <nom>co</nom>, <klr>[...]</klr>,
+        nomoj de la literoj: <nom>a</nom>, <nom>bo</nom>, <nom>co</nom>,
+        <klr>[...]</klr>,
         <nom>u</nom>, <nom>&ubreve;o</nom>, <nom>vo</nom>, <nom>zo</nom>
         <fnt>
           <bib>F</bib>
@@ -48,8 +50,10 @@
     </subsnc>
     <subsnc>
       <uzo tip="fak">MAT</uzo>
-      <dif>(majuskle kaj grase) simbolo por la aro de &ccirc;iuj entjeroj
-        <em>Z</em>: -2, -1, 0, 1, 2, ...,
+      <dif>(majuskle kaj duobla a&ubreve; grase) simbolo por la aro de &ccirc;iuj
+      entjeroj
+        <frm am="ZZ"><g>Z</g></frm>: <frm am="..., -2, -1, 0, 1, 2,
+        ...">..., -2, -1, 0, 1, 2, ...</frm>
       </dif>
       <trd lng="fr">Z<klr> (ensemble des entiers)</klr></trd>
     </subsnc>
@@ -68,6 +72,9 @@
 
   <!--
   $Log: z.xml,v $
+  Revision 1.15  2020/02/16 11:10:23  revo
+  Wolfram Diestel: formuloj per am
+
   Revision 1.14  2019/09/11 17:10:15  revo
   Wolfram Diestel: +ekz, sintaksaj adaptoj
 

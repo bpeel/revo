@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: parabo.xml,v 1.24 2015/07/04 08:37:41 revo Exp $">
+  <art mrk="$Id: parabo.xml,v 1.25 2020/02/15 23:10:31 revo Exp $">
     <kap>
       <ofc>2</ofc><rad>parabol</rad>/o
     </kap>
@@ -22,7 +22,8 @@
             <tld/>o havas unu fokuson;
           </ekz><ekz>
             la kartezia ekvacio de <tld/>o estas de la tipo
-            <frm><k>y</k> = <k>a</k><k>x</k><sup>2</sup></frm>;
+            <frm am="y=ax^2"><k>y</k> =
+            <k>a</k><k>x</k><sup>2</sup></frm>;
           </ekz><ekz>
             la trajektorio de pafa&jcirc;o estas <tld/>o.
           </ekz>
@@ -69,7 +70,7 @@
   <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_b;&c_a;&c_l;&c_a;</trd>
   <trdgrp lng="cs">
     <trd>parabola</trd>,
-    <trd>podobenství</trd>
+    <trd>podobenstv&iacute;</trd>
   </trdgrp>
   <trd lng="de">Parabel</trd>
   <trd lng="en">parable</trd>
@@ -88,6 +89,9 @@
   </art>
   <!--
   $Log: parabo.xml,v $
+  Revision 1.25  2020/02/15 23:10:31  revo
+  Wolfram Diestel: formuloj per am
+
   Revision 1.24  2015/07/04 08:37:41  revo
   aldono de trd cs per skripto de M. von Laer
 

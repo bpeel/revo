@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: nask.xml,v 1.79 2019/09/25 20:10:18 revo Exp $">
+  <art mrk="$Id: nask.xml,v 1.80 2020/02/15 19:10:16 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>nask</rad>/i
@@ -141,27 +141,33 @@
     <fnt><bib>MatTerm</bib>, <lok>p. 25</lok></fnt>
     <uzo tip="klr">(fakula &jcirc;argono, p.p. pri du aroj)</uzo>
     <dif>
-      Diri, ke aro <frm><g>A</g></frm> naskas aron
-      <frm><g>B</g></frm> signifas, ke aro
-      <frm><g>B</g></frm> inkluzivas <frm><g>A</g></frm> kaj
+      Diri, ke aro <frm am="bb A"><g>A</g></frm> naskas aron
+      <frm am="bb B"><g>B</g></frm> signifas, ke aro
+      <frm am="bb B"><g>B</g></frm> inkluzivas <frm am="bb
+      A"><g>A</g></frm> kaj
       &ccirc;iujn rezultojn de iuj operacioj inter elementoj
-      de <frm><g>B</g></frm>, sed nenion pli. Oni nomas aron
-      <frm><g>A</g></frm> la <tld/>anta aro, &gcirc;iajn elementojn
-      la <tld/>antoj, kaj aron <frm><g>B</g></frm> la <tld/>ita aro:
+      de <frm am="bb B"><g>B</g></frm>, sed nenion pli. Oni nomas aron
+      <frm am="bb A"><g>A</g></frm> la <tld/>anta aro, &gcirc;iajn elementojn
+      la <tld/>antoj, kaj aron <frm am="bb B"><g>B</g></frm> la
+      <tld/>ita aro:
       <ekz>
         la <ref cel="ideal.0o.MAT">idealo</ref> <tld/>ita en ringo
-        per <tld/>anta aro <frm>{<k>a</k>,<k>b</k>}</frm> estas aro
+        per <tld/>anta aro <frm am="{a,b}">{<k>a</k>,<k>b</k>}</frm>
+        estas aro
         de &ccirc;iuj elementoj
-        <frm><k>p</k>×<k>a</k>+<k>q</k>×<k>b</k></frm>;
+        <frm am="p xx a+q xx b"
+        ><k>p</k>&#215;<k>a</k>+<k>q</k>&#215;<k>b</k></frm>;
       </ekz><ekz>
         en <ref cel="modul.0o.strukt">modulo</ref> a&ubreve;
         <ref cel="spac.vektora0o">vektora spaco</ref>, la subaro
-        <tld/>ita de <frm><g>A</g></frm> estas la subaro de &ccirc;iuj
+        <tld/>ita de <frm am="bb A"><g>A</g></frm> estas la subaro de
+        &ccirc;iuj
         <ref cel="kombin.lineara0ajxo">linearaj kombina&jcirc;oj</ref>
-        el elementoj de <frm><g>A</g></frm>;
+        el elementoj de <frm am="bb A"><g>A</g></frm>;
       </ekz><ekz>
-        por <tld/>i <frm><k>n</k></frm>-dimensian vektoran spacon,
-        sufi&ccirc;as <frm><k>n</k></frm> <tld/>antoj.
+        por <tld/>i <frm am="n"><k>n</k></frm>-dimensian vektoran
+        spacon,
+        sufi&ccirc;as <frm am="n"><k>n</k></frm> <tld/>antoj.
       </ekz>
     </dif>
     <ref tip="sin" cel="gener.0i.MAT">generi.</ref>
@@ -506,7 +512,8 @@
     <dif>
       Okazigi la <tld/>on de ido:
       <ekz>
-        <nom>Jehojada</nom> prenis por li du edzinojn, kaj li <tld/>igis filojn kaj
+        <nom>Jehojada</nom> prenis por li du edzinojn, kaj li <tld/>igis
+        filojn kaj
         filinojn
         <fnt>
           <bib>MT</bib>
@@ -1209,14 +1216,17 @@
     <dif>
       Tiu el la idoj, <tld/>ita la unua:
       <ekz>
-        <nom>Habel</nom> anka&ubreve; alportis el la unue<tld/>itoj de siaj &scirc;afoj
+        <nom>Habel</nom> anka&ubreve; alportis el la unue<tld/>itoj de siaj
+        &scirc;afoj
         kaj el ilia graso
         <fnt><bib>MT</bib><lok>&Gen; 4:4</lok></fnt>;
       </ekz><ekz>
-        <nom>Jakob</nom> diris al sia patro: Mi estas <nom>Esav</nom>, via unue<tld/>ito
+        <nom>Jakob</nom> diris al sia patro: Mi estas <nom>Esav</nom>,
+        via unue<tld/>ito
         <fnt><bib>MT</bib><lok>&Gen; 27:19</lok></fnt>;
       </ekz><ekz>
-        kvankam <klr>[<nom>&Scirc;imri</nom>]</klr> ne estis unue<tld/>ito, tamen
+        kvankam <klr>[<nom>&Scirc;imri</nom>]</klr> ne estis unue<tld/>ito,
+        tamen
         lia patro faris lin &ccirc;efo
         <fnt><bib>MT</bib><lok>&Kr1; 26:10</lok></fnt>;
       </ekz><ekz>
@@ -1351,6 +1361,9 @@
   </art>
   <!--
   $Log: nask.xml,v $
+  Revision 1.80  2020/02/15 19:10:16  revo
+  Wolfram Diestel: formuloj per am
+
   Revision 1.79  2019/09/25 20:10:18  revo
   Wolfram Diestel: sintakso
 

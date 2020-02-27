@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: c.xml,v 1.14 2018/11/14 18:10:21 revo Exp $">
+<art mrk="$Id: c.xml,v 1.15 2020/02/16 11:10:26 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>7</ofc><rad>co</rad> <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -71,8 +71,9 @@
      <subsnc>
        <uzo tip="fak">MAT</uzo>
        <dif>
-         (maj. kaj grase) simbolo por la aro de &ccirc;iuj kompleksaj
-         nombroj: <ekz><em>C</em></ekz>.
+         (maj. kaj duoble a&ubreve; grase) simbolo por la aro de &ccirc;iuj
+         kompleksaj
+         nombroj: <frm am="CC"><g>C</g></frm>.
        </dif>
        <trd lng="fr">C<klr> (ensemble des nombres complexes)</klr></trd>
     </subsnc>
@@ -86,6 +87,9 @@
 
 <!--
 $Log: c.xml,v $
+Revision 1.15  2020/02/16 11:10:26  revo
+Wolfram Diestel: formuloj per am
+
 Revision 1.14  2018/11/14 18:10:21  revo
 Sergio Pokrovskij: punktokomo de ekz
 
@@ -104,9 +108,6 @@ Michel Cantigneaux: aldonita kaj fundamenta per 7a OA
 
 Revision 1.9  2017/02/26 17:10:13  revo
 Wolfram Diestel: Priskribo de liternomo "co" anst. litero "c"
-
-Revision 1.8  2015/10/09 11:10:16  revo
-Evandro Avellar: +trd pt
 
 -->
 </vortaro>

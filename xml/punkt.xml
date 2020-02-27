@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: punkt.xml,v 1.49 2019/09/28 12:10:20 revo Exp $">
+<art mrk="$Id: punkt.xml,v 1.50 2020/02/14 17:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>punkt</rad>/o
@@ -961,9 +961,9 @@
   <fnt><bib>EKV</bib><lok>&FE;130</lok></fnt>
     <dif>
       <klr>(de <ref cel="bild.0igo.MAT">bildigo</ref>
-        <frm><k>f</k></frm>)</klr>
-      Tia elemento <frm><k>x</k></frm>, ke
-      <frm><k>f</k>(<k>x</k>) = <k>x</k></frm>:
+        <frm am="f"><k>f</k></frm>)</klr>
+      Tia elemento <frm am="x"><k>x</k></frm>, ke
+      <frm am="f(x)=x"><k>f</k>(<k>x</k>) = <k>x</k></frm>:
       <ekz>
         <ref cel="tir.kun0o.bildigo">kuntiro</ref>
         de kompleta metrika spaco
@@ -971,11 +971,11 @@
       </ekz>
     </dif>
     <rim>
-      Oni diras sendistinge <ctl><frm><k>a</k></frm> estas fiksa
+      Oni diras sendistinge <ctl><frm am="a"><k>a</k></frm> estas fiksa
       <tld/>o
-        de <frm><k>f</k></frm></ctl>, a&ubreve; <ctl>punkto
-        <frm><k>a</k></frm>
-        estas fiksa per <frm><k>f</k></frm></ctl>.
+        de <frm am="f"><k>f</k></frm></ctl>, a&ubreve; <ctl>punkto
+        <frm am="a"><k>a</k></frm>
+        estas fiksa per <frm am="f"><k>f</k></frm></ctl>.
     </rim>
   </snc>
   <trdgrp lng="cs">
@@ -997,6 +997,9 @@
   </art>
   <!--
   $Log: punkt.xml,v $
+  Revision 1.50  2020/02/14 17:10:17  revo
+  Wolfram Diestel: formuloj per am
+
   Revision 1.49  2019/09/28 12:10:20  revo
   Wolfram Diestel: subsnc-mrk
 

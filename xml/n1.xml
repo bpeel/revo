@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: n1.xml,v 1.10 2018/09/02 20:10:45 revo Exp $">
+<art mrk="$Id: n1.xml,v 1.11 2020/02/15 21:10:15 revo Exp $">
 <kap>
    <ofc>*</ofc><ofc>7</ofc><rad>no</rad>
 </kap>
@@ -38,10 +38,8 @@
     <subsnc>
       <uzo tip="fak">MAT</uzo>
       <dif>
-        (maj. kaj grase) simbolo por la aro de &ccirc;iuj naturaj nombroj 1,
-        2, 3,
-        ...:
-      <ekz><em>N</em></ekz>.
+        (maj. kaj duoble a&ubreve; grase) simbolo por la aro de 
+        &ccirc;iuj naturaj nombroj 1, 2, 3, ...: <frm am="NN"><g>N</g></frm>.
       </dif>
       <trd lng="fr">N<klr> (ensemble des nombres naturels)</klr></trd>
     </subsnc>
@@ -59,6 +57,9 @@
 
 <!--
 $Log: n1.xml,v $
+Revision 1.11  2020/02/15 21:10:15  revo
+Wolfram Diestel: formuloj per am
+
 Revision 1.10  2018/09/02 20:10:45  revo
 Michel Cantigneaux: teknika ripareto de indikiloj
 
@@ -77,9 +78,6 @@ Damien Brucker: aldono (dauxrigo)
 
 Revision 1.5  2014/04/10 16:10:39  revo
 Damien Brucker: fak
-
-Revision 1.4  2014/02/11 15:10:11  revo
-Damien Brucker: +trd fr
 
 -->
 </vortaro>

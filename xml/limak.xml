@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: limak.xml,v 1.37 2018/06/08 12:10:13 revo Exp $">
+<art mrk="$Id: limak.xml,v 1.38 2020/02/15 23:10:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>limak</rad>/o <fnt><bib>PV</bib></fnt>
@@ -108,10 +108,10 @@
       el ties fokusoj:
       <ekz>
         la polusa ekvacio de paskala <tld/>o estas de la tipo
-        <frm>&rho; = <k>a</k>(cos&theta;+<k>l</k>)</frm>;
+        <frm am="rho=a(cos theta+l)">&rho; = <k>a</k>(cos&theta;+<k>l</k>)</frm>;
       </ekz>
       <ekz>
-        se <frm><k>l</k> = 1</frm>, la paskala <tld/>o fari&gcirc;as
+        se <frm am="l=1"><k>l</k> = 1</frm>, la paskala <tld/>o fari&gcirc;as
         <ref cel="kardio.0o">kardioido</ref>.
       </ekz>
     </dif>
@@ -152,6 +152,9 @@
 </art>
 <!--
 $Log: limak.xml,v $
+Revision 1.38  2020/02/15 23:10:35  revo
+Wolfram Diestel: formuloj per am
+
 Revision 1.37  2018/06/08 12:10:13  revo
 Jeromo Vasxe: + mar~o
 
@@ -171,8 +174,5 @@ Revision 1.32  2013/08/31 17:10:35  revo
 Carlos Garcia: +trd es -o
 
 Revision 1.31  2012/08/10 14:11:24  revo
-Marc Rausell: + trd ca
-
-Revision 1.30  2010/01/18 17:31:28  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: modal.xml,v 1.20 2017/12/26 16:10:16 revo Exp $">
+  <art mrk="$Id: modal.xml,v 1.21 2020/02/15 18:10:19 revo Exp $">
     <kap>
       <rad>modal</rad>/o
     </kap>
@@ -71,11 +71,13 @@
     <uzo tip="fak">MUZ</uzo>
     <dif>
        <ref tip="dif" cel="gam.0o.MUZ">Gamo<sncref/></ref>; 
-       la maniero, kiel plentonoj kaj duontonoj estas aran&gcirc;itaj en la gamo:
+       la maniero, kiel plentonoj kaj duontonoj estas aran&gcirc;itaj en la
+       gamo:
        <ekz>~o minora, ma&jcirc;ora, doria, lidia, frigia, miksolidia ktp
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=18036">Modalo (muziko)</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=18036">Modalo
+          (muziko)</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -149,10 +151,13 @@
       <ekz>
         la normala Devo-Logiko (SDL) <klr>(difinita de la finna
         filozofo Georg Henrik von Wright)</klr> estas normala <tld/>a
-         logiko kun <tld/>aj operatoroj O por devo kaj P por permeso
+         logiko kun <tld/>aj operatoroj <frm am="O">O</frm> por devo kaj
+         
+         <frm am="P">P</frm> por permeso
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=554539">Devo-logiko</url></lok>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=554539">Devo-logiko</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -253,6 +258,9 @@ la vorton
   </art>
   <!--
   $Log: modal.xml,v $
+  Revision 1.21  2020/02/15 18:10:19  revo
+  Wolfram Diestel: formuloj per am
+
   Revision 1.20  2017/12/26 16:10:16  revo
   Wolfram Diestel: + snc MUZ
 

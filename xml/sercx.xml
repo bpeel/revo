@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: sercx.xml,v 1.22 2019/11/26 00:10:22 revo Exp $">
+  <art mrk="$Id: sercx.xml,v 1.23 2020/02/16 08:10:15 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>ser&ccirc;</rad>/i
@@ -271,7 +271,8 @@
     <dif>
       Palpe <tld/>i, per mano:
       <ekz>
-        la sudulo ekstaras kaj treme man<tld/>as ion en sia malpura mantelo
+        la sudulo ekstaras kaj treme man<tld/>as ion en sia malpura
+        mantelo
         <fnt>
           <aut>T. Steele</aut>
           <vrk>Konvinka Kamufla&jcirc;o</vrk>
@@ -317,14 +318,19 @@
           kutime en la formo de la <em>minimumiga &my;-operatoro</em>
           <klr>(mu-operatoro)</klr>, jene difinebla.
 
-          Estu <frm>f(y,<g>x</g>)</frm> iea funkcio; tiam por argumenta
-          opo <frm><g>x</g></frm> la senbara <tld/>o liveras la
+          Estu <frm am="f(y,bb x)">f(y,<g>x</g>)</frm> iea funkcio;
+
+          tiam por argumenta
+          opo <frm am="bb x"><g>x</g></frm> la senbara <tld/>o liveras
+          la
           minimuman nuliganton, kondi&ccirc;e ke tia ekzistas kaj ke por
           &ccirc;iuj malpliaj argumentovaloroj la
           funkcio <ref cel="konver.0i.KOMP">konver&gcirc;as<sncref/></ref>;
-          t.e. <frm>(&my;f)(<g>x</g>) =
-<g>min</g><sub>y</sub>{f(y,<g>x</g>)=0 &#8743; (&#8704;z&lt;y)
-f(z,<g>x</g>)&#8595;},</frm>
+          t.e. <frm am="(mu f)(bb x)=min_y{f(y,bb x)=0^^(AA z lt y):
+          f(z,bb x)darr}"
+          >(&my;f)(<g>x</g>) = <g>min</g><sub>y</sub>{f(y,<g>x</g>)=0 &#8743;
+          (&#8704;z&lt;y)
+f(z,<g>x</g>)&#8595;}</frm>,
           se ekzistas almena&ubreve; unu tia nuliganto; la rezulto estas
           nedifinita (la <tld/>o diver&gcirc;as) aliokaze.
         </dif>
@@ -336,6 +342,9 @@ f(z,<g>x</g>)&#8595;},</frm>
   </art>
   <!--
   $Log: sercx.xml,v $
+  Revision 1.23  2020/02/16 08:10:15  revo
+  Wolfram Diestel: formuloj per am
+
   Revision 1.22  2019/11/26 00:10:22  revo
   Jeromo Vasxe: + man~i
 
