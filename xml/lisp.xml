@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lisp.xml,v 1.4 2016/02/10 21:10:17 revo Exp $">
+<art mrk="$Id: lisp.xml,v 1.5 2020/01/30 23:10:50 revo Exp $">
 <kap>
     <rad>lisp</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -25,6 +25,8 @@
   </trdgrp>
   <trd lng="de">lispeln</trd>
   <trd lng="fr">z&eacute;zayer</trd>
+  <trd lng="pl">sepleni&cacute;</trd>     
+  <trd lng="ro">s&acirc;s&acirc;i</trd>
   <trd lng="ru">&c_sh;&c_je;&c_p;&c_je;&c_l;&c_ja;&#769;&c_v;&c_i;&c_t;&c_mol;</trd>
   <trd lng="sk">&scaron;u&scaron;la&tcaron;</trd>
 </drv>
@@ -46,11 +48,15 @@
     </dif>
   </snc>
   <trd lng="fr">z&eacute;zaiement</trd>
+  <trd lng="pl">seplenienie</trd>
 </drv>
 </art>
 
 <!--
 $Log: lisp.xml,v $
+Revision 1.5  2020/01/30 23:10:50  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.4  2016/02/10 21:10:17  revo
 Alain Gerard: + ~o
 
