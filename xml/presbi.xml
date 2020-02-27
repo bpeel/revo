@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-  <art mrk="$Id: presbi.xml,v 1.21 2015/07/04 08:37:42 revo Exp $">
+  <art mrk="$Id: presbi.xml,v 1.22 2020/02/27 18:10:29 revo Exp $">
     <kap>
       <rad>presbiter</rad>/o
       <fnt>Z</fnt>
@@ -67,10 +67,10 @@ lng="grc">&pi;&rho;&epsilon;&sigma;&beta;&ypsilon_acute;&tau;&epsilon;&rho;&omik
         <trd lng="hu">presbiter</trd>
       </snc>
   <trdgrp lng="cs">
-    <trd>duchovní</trd>,
-    <trd>kněz</trd>,
+    <trd>duchovn&iacute;</trd>,
+    <trd>kn&ecaron;z</trd>,
     <trd>presbyter</trd>,
-    <trd>starší</trd>
+    <trd>star&scaron;&iacute;</trd>
   </trdgrp>
   <trd lng="de">Presbyter</trd>
   <trd lng="en">presbyter</trd>
@@ -79,9 +79,9 @@ lng="grc">&pi;&rho;&epsilon;&sigma;&beta;&ypsilon_acute;&tau;&epsilon;&rho;&omik
   <trd lng="pt">presb&iacute;tero</trd>
   <trd lng="ru">&c_p;&c_r;&c_je;&c_s;&c_v;&c_i;&c_t;&c_je;&c_r;</trd>
   <trdgrp lng="sk">
-    <trd>duchovný</trd>,
+    <trd>duchovn&yacute;</trd>,
     <trd>presbyter</trd>,
-    <trd>starší</trd>
+    <trd>star&scaron;&iacute;</trd>
   </trdgrp>
 </drv>
 
@@ -90,7 +90,7 @@ lng="grc">&pi;&rho;&epsilon;&sigma;&beta;&ypsilon_acute;&tau;&epsilon;&rho;&omik
       <uzo tip="fak">KRI</uzo>
       <snc mrk="presbi.cxef0o.duagrada">
         <dif>
-          Honortitolo de <tld/>o <sncref ref="presbi.0o.dugrada"/>
+          Honortitolo de <tld/>o <sncref ref="presbi.0o.duagrada"/>
           (speciale, la unua inter la <tld/>oj de unu sama kirko):
           <ekz>
             <ctl>La vivo de &ccirc;ef<tld/>o Abakumo</ctl>
@@ -131,6 +131,9 @@ lng="grc">&pi;&rho;&epsilon;&sigma;&beta;&ypsilon_acute;&tau;&epsilon;&rho;&omik
   </art>
   <!--
   $Log: presbi.xml,v $
+  Revision 1.22  2020/02/27 18:10:29  revo
+  Neil Roberts: Ripari ref
+
   Revision 1.21  2015/07/04 08:37:42  revo
   aldono de trd cs per skripto de M. von Laer
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: invest.xml,v 1.19 2017/07/13 06:10:13 revo Exp $">
+  <art mrk="$Id: invest.xml,v 1.20 2020/02/27 18:10:28 revo Exp $">
     <kap>
       <rad>invest</rad>/i
     </kap>
@@ -64,7 +64,8 @@
       <trd>&c_i;&c_n;&c_v;&c_je;&c_s;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
-  <ref tip="hom" cel="invest1.0i.enoficigi">investi<sncref/> <klr>(al ofico)</klr></ref>
+  <ref tip="hom" cel="invest2.0i.enoficigi">investi<sncref/> <klr>(al
+  ofico)</klr></ref>
   <trdgrp lng="cs">
     <trd>investovat</trd>,
     <trd>uv&eacute;st do &uacute;&rcaron;adu</trd>
@@ -134,7 +135,8 @@
       <trd>&c_i;&c_n;&c_v;&c_je;&c_s;&c_t;&c_i;&c_c;&c_i;&c_ja;</trd>
     </trdgrp>
   </snc>
-  <ref tip="hom" cel="invest1.0o.enoficigi">investo<sncref/> <klr>(al ofico)</klr></ref>
+  <ref tip="hom" cel="invest2.0o.enoficigo">investo<sncref/> <klr>(al
+  ofico)</klr></ref>
   <trd lng="cs">investov&aacute;n&iacute;</trd>
   <trd lng="en">investment</trd>
   <trd lng="sk">investovanie</trd>
@@ -145,7 +147,7 @@
   <snc mrk="invest.0ado.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Ago <tld/>i <sncref ref="invest.0o.EKON"/>:
+      Ago <tld/>i <sncref ref="invest.0i.EKON"/>:
       <ekz>
         tiuj 40 milionoj da e&ubreve;roj de <tld/>ado el Belgio en Kongo,
         lando kun &ccirc;irka&ubreve; 50 milionoj da lo&gcirc;antoj,
@@ -207,7 +209,7 @@
   <snc mrk="invest.0ajxo.ajxo_acxetita">
     <fnt><bib>PIV1</bib></fnt>
     <dif>
-      A&jcirc;o, a&ccirc;etita por <tld/>i<sncref ref="invest.0o.EKON"/>,
+      A&jcirc;o, a&ccirc;etita por <tld/>i<sncref ref="invest.0i.EKON"/>,
       <ref cel="lok.0umi.arangxi">lokumi</ref> monon.
     </dif>
     <trdgrp lng="ru">
@@ -237,6 +239,9 @@
 </art>
   <!--
   $Log: invest.xml,v $
+  Revision 1.20  2020/02/27 18:10:28  revo
+  Neil Roberts: Ripari ref
+
   Revision 1.19  2017/07/13 06:10:13  revo
   Wolfram Diestel: apartigis artikolon investi (al ofico)
 

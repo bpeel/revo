@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pun.xml,v 1.35 2018/03/06 17:10:14 revo Exp $">
+<art mrk="$Id: pun.xml,v 1.36 2020/02/27 18:10:27 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pun</rad>/i <fnt><bib>PV</bib></fnt>
@@ -40,7 +40,8 @@
   <snc mrk="pun.0i.malbonagon">
     <uzo tip="klr">(malbonagon)</uzo>
     <dif>
-      <tld lit="P"/>i <sncref ref="pun.0i.iun"/> ties farinton:
+      <tld lit="P"/>i <sncref ref="pun.0i.malbonaginton"/> ties
+      farinton:
       <ekz>
         <tld/>i ies malobeon;
       </ekz>
@@ -288,6 +289,9 @@
 </art>
 <!--
 $Log: pun.xml,v $
+Revision 1.36  2020/02/27 18:10:27  revo
+Neil Roberts: Ripari ref
+
 Revision 1.35  2018/03/06 17:10:14  revo
 Jeromo Vasxe: + sen~a/eco
 
@@ -307,8 +311,5 @@ Revision 1.30  2013/04/01 11:10:14  revo
 Jeromo Vasxe: + kk trd el mon.xml
 
 Revision 1.29  2009/07/05 16:39:20  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.28  2008/11/01 17:30:30  revo
 -->
 </vortaro>

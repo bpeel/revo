@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: plauxd.xml,v 1.18 2016/05/06 22:10:19 revo Exp $">
+<art mrk="$Id: plauxd.xml,v 1.19 2020/02/27 18:10:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pla&ubreve;d</rad>/i <fnt><bib>PV</bib></fnt>
@@ -43,7 +43,7 @@
       </ekz>
       <ekz>
         li <tld/>os
-        <klr>(pene vados; <ref tip="sin" cel="padel.0i">padeli
+        <klr>(pene vados; <ref tip="sin" cel="padel.0i.VAD">padeli
         <sncref/></ref>)</klr>
         en sia vomado<fnt>Z</fnt>.
       </ekz>
@@ -183,6 +183,9 @@
 </art>
 <!--
 $Log: plauxd.xml,v $
+Revision 1.19  2020/02/27 18:10:24  revo
+Neil Roberts: Ripari ref
+
 Revision 1.18  2016/05/06 22:10:19  revo
 Jeromo Vasxe: Kvazau -> Kvazaux
 
@@ -202,8 +205,5 @@ Revision 1.13  2008/11/23 19:12:05  revo
 Wieland Pusch: entoj por unikodo, sncref
 
 Revision 1.12  2008/10/31 17:30:44  revo
-Russ Williams: +trd en
-
-Revision 1.11  2006/03/06 17:32:32  revo
 -->
 </vortaro>

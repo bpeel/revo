@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: pri.xml,v 1.29 2019/06/30 18:21:49 revo Exp $">
+  <art mrk="$Id: pri.xml,v 1.30 2020/02/27 17:10:27 revo Exp $">
     <kap>
       <ofc>*</ofc> <rad>pri</rad>
     </kap>
@@ -552,7 +552,7 @@
     <subsnc mrk="pri.0.pref_aliobjekta">
       <dif>
         Kun la &scirc;an&gcirc;o de la objekto, kiel &ccirc;e
-        <tld/>-<sncref ref="pri.0.pref.objekta"/>:
+        <tld/>-<sncref ref="pri.0.pref_objekta"/>:
       </dif>
       <ekz>
         <ind><tld/>paroli</ind> demandon
@@ -739,6 +739,9 @@
   </art>
   <!--
   $Log: pri.xml,v $
+  Revision 1.30  2020/02/27 17:10:27  revo
+  Neil Roberts: Ripari mrk
+
   Revision 1.29  2019/06/30 18:21:49  revo
   adaptis URL de Monato
 
