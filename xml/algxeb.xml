@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: algxeb.xml,v 1.10 2019/03/10 17:10:17 revo Exp $">
+<art mrk="$Id: algxeb.xml,v 1.12 2020/02/13 13:10:23 revo Exp $">
   <kap>
     <rad>al&gcirc;ebr</rad>/o
   </kap>
@@ -16,9 +16,10 @@
       <ref tip="dif" cel="algebr.lineara0o.strukturo">Lineara
       algebro<sncref/></ref>:
       <ekz>
-        prezento de la al&gcirc;ebro <frm><k>Cg</k></frm> sur 
-        vektora spaco <frm><k>V</k></frm> estas la al&gcirc;ebra 
-        homomorfio <frm><k>&#x2102;G</k> &#x27F6; <k>End(V)</k></frm>
+        prezento de la al&gcirc;ebro <frm am="Cg">Cg</frm> sur 
+        vektora spaco <frm am="V">V</frm> estas la al&gcirc;ebra 
+        homomorfio <frm am="CCG->End(V)"><k>&#8450;G</k> &#10230;
+        <k>End(V)</k></frm>
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=87410"
@@ -38,6 +39,12 @@
 
 <!--
 $Log: algxeb.xml,v $
+Revision 1.12  2020/02/13 13:10:23  revo
+Wolfram Diestel: redakto: formulo per atributo am
+
+Revision 1.11  2020/02/11 20:10:23  revo
+Wolfram Diestel: formuloj per AsciiMath
+
 Revision 1.10  2019/03/10 17:10:17  revo
 Wolfram Diestel: +ekz
 
@@ -54,11 +61,5 @@ Revision 1.6  2005/04/06 16:35:44  revo
 Raul Salinas Monteagudo: +trd es
 
 Revision 1.5  2004/07/26 17:23:56  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.4  2003/01/13 17:33:31  revo
-Marc Bavant: +trd
-
-Revision 1.3  2002/10/01 16:36:00  revo
 -->
 </vortaro>
