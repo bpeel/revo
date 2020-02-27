@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: parabo.xml,v 1.25 2020/02/15 23:10:31 revo Exp $">
+  <art mrk="$Id: parabo.xml,v 1.26 2020/02/22 19:10:29 revo Exp $">
     <kap>
       <ofc>2</ofc><rad>parabol</rad>/o
     </kap>
@@ -28,7 +28,7 @@
             la trajektorio de pafa&jcirc;o estas <tld/>o.
           </ekz>
         </dif>
-        <bld lok="../bld/k_parabolo.svg.gif" alt="300" lrg="300">
+        <bld lok="../bld/k_parabolo.svg" tip="svg" alt="400" lrg="400">
           <tld/>o
         </bld>
         <trd lng="ca">par&agrave;bola<klr> (geom.)</klr></trd>
@@ -48,7 +48,7 @@
           <ekz>
             kaj aperis al mi vorto de la Eternulo, dirante:
             Ho filo de homo, proponu enigmon kaj <tld/>on al la domo
-            de Izrael, kaj diru: <klr>(...)</klr>
+            de <nom>Izrael</nom>, kaj diru: <klr>[&#8230;]</klr>
             <fnt><bib>MT</bib>, <lok>&Jeh; 17:1&ndash;3</lok></fnt>;
           </ekz><ekz>
             tion la poeto skribis, li skribis tion en formo de <tld/>o 
@@ -89,6 +89,9 @@
   </art>
   <!--
   $Log: parabo.xml,v $
+  Revision 1.26  2020/02/22 19:10:29  revo
+  Wolfram Diestel: svg anst. gif
+
   Revision 1.25  2020/02/15 23:10:31  revo
   Wolfram Diestel: formuloj per am
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: gri.xml,v 1.26 2019/09/27 06:10:16 revo Exp $">
+<art mrk="$Id: gri.xml,v 1.27 2020/02/22 18:10:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>gri</rad>/o
@@ -80,7 +80,7 @@
     </dif>
     <trd lng="de">Grie&szlig;</trd>
   </snc>
-  <bld lok="../bld/grenproduktoj.svg.gif">
+  <bld lok="../bld/grenproduktoj.svg" tip="svg" alt="520" lrg="600">
     grenproduktoj
   </bld>
   <trd lng="be">&c_k;&c_r;&c_u;&c_p;&c_y;</trd>
@@ -166,6 +166,9 @@
 </art>
 <!--
 $Log: gri.xml,v $
+Revision 1.27  2020/02/22 18:10:31  revo
+Wolfram Diestel: svg anst. gif
+
 Revision 1.26  2019/09/27 06:10:16  revo
 Wolfram Diestel: +snc "semolo", + ekz-oj
 
@@ -185,8 +188,5 @@ Revision 1.21  2011/12/28 21:10:08  revo
 Wolfram Diestel: aldonis adm
 
 Revision 1.20  2011/12/28 20:10:07  revo
-Wolfram Diestel: adaptis bildgrandecon
-
-Revision 1.19  2011/12/28 15:10:08  revo
 -->
 </vortaro>

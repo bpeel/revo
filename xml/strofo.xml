@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: strofo.xml,v 1.7 2020/02/16 09:10:17 revo Exp $">
+<art mrk="$Id: strofo.xml,v 1.8 2020/02/22 19:10:34 revo Exp $">
 <kap>
   <rad>strofoid</rad>/o
 </kap>
@@ -22,7 +22,7 @@
       </ekz>
     </dif>
   </snc>
-  <bld lok="../bld/k_strofoido.svg.gif" alt="300" lrg="300">
+  <bld lok="../bld/k_strofoido.svg" tip="svg" alt="400" lrg="400">
     <tld/>o
   </bld>
   <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_f;&c_o;&c_ib;&c_d;&c_a;</trd>
@@ -37,6 +37,9 @@
 
 <!--
 $Log: strofo.xml,v $
+Revision 1.8  2020/02/22 19:10:34  revo
+Wolfram Diestel: svg anst. gif
+
 Revision 1.7  2020/02/16 09:10:17  revo
 Wolfram Diestel: formuloj per am
 

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: volv.xml,v 1.43 2020/02/14 16:10:31 revo Exp $">
+<art mrk="$Id: volv.xml,v 1.44 2020/02/22 19:10:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>volv</rad>/i
@@ -595,7 +595,7 @@
     </dif>
     <ref tip="sin" cel="evolve.0o">evolvento.</ref>
   </snc>
-  <bld lok="../bld/k_elvolvanto_de_cirklo.svg.gif" alt="300" lrg="300">
+  <bld lok="../bld/k_elvolvanto_de_cirklo.svg" tip="svg" alt="400" lrg="400">
     el<tld/>anto de cirklo
   </bld>
   <trd lng="be">&c_r;&c_a;&c_z;&c_g;&c_o;&c_r;&c_t;&c_k;&c_a;</trd>
@@ -977,6 +977,9 @@
 </art>
   <!--
   $Log: volv.xml,v $
+  Revision 1.44  2020/02/22 19:10:36  revo
+  Wolfram Diestel: svg anst. gif
+
   Revision 1.43  2020/02/14 16:10:31  revo
   Wolfram Diestel: formuloj per am
 

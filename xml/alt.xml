@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: alt.xml,v 1.62 2018/08/21 16:10:14 revo Exp $">
+<art mrk="$Id: alt.xml,v 1.63 2020/02/22 17:10:20 revo Exp $">
  <kap>
    <ofc>*</ofc><rad>alt</rad>/a <fnt><bib>PV</bib></fnt>
  </kap>
@@ -12,10 +12,6 @@
      <dif>
        Granda la&ubreve; la dimensio <tld/>o;
        havanta difinitan grandon la&ubreve; tiu dimensio:
-       <ekz>
-       alt' high &#8208; mal'alt' low
-       <fnt><bib>F</bib>, <lok>Universala Vortaro, mal'</lok></fnt>
-       </ekz>
        <ekz>
          <tld/>a arbo, monto, domo;
        </ekz>
@@ -183,7 +179,7 @@
            &gcirc;ia latero per la responda <tld/>o.
          </ekz>
        </dif>
-       <bld lok="../bld/e_altoj.svg.gif" alt="300" lrg="300">
+       <bld lok="../bld/e_altoj.svg" tip="svg">
          <tld/>oj de triangulo
        </bld>
        <trd lng="nl">hoogte<klr tip="ind"> (v.e.hoek)</klr></trd>
@@ -654,6 +650,9 @@
 </art>
 <!--
 $Log: alt.xml,v $
+Revision 1.63  2020/02/22 17:10:20  revo
+Wolfram Diestel: svg anst. gif
+
 Revision 1.62  2018/08/21 16:10:14  revo
 Warut Bunprasert: +trd th
 
@@ -672,9 +671,6 @@ Warut Bunprasert: +trd th
 
 Revision 1.57  2017/01/27 12:10:19  revo
 Lyubomir Vasilev: +trd bg
-
-Revision 1.56  2016/08/14 00:10:58  revo
-Alejandro Escobedo: +trd es
 
 -->
 </vortaro>
