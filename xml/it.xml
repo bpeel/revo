@@ -2,19 +2,18 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: it.xml,v 1.4 2018/11/18 12:10:13 revo Exp $">
+<art mrk="$Id: it.xml,v 1.5 2020/03/08 08:14:06 revo Exp $">
 <kap>
-    <ofc>*</ofc> -<rad>it</rad>/
+  <ofc>*</ofc> -<rad>it</rad>/
 </kap>
 <drv mrk="it.0">
   <kap>-<tld/></kap>
   <snc mrk="it.0.SNC">
     <uzo tip="fak">GRA</uzo>
     <dif>
-      <ref tip="super" cel="sufiks.0o">Sufikso</ref> de 
-      pasiva <ref tip="malprt" cel="partic.0o">participo</ref>, kiu
-      prezentas agon a&ubreve; staton de &gcirc;ia objekto post la ago,
-      t.e. la ago jam fini&gcirc;is:
+      <ref tip="super" cel="sufiks.0o">Sufikso</ref> de pasiva <ref
+      tip="malprt" cel="partic.0o">participo</ref>, kiu prezentas agon
+      a&ubreve; staton de &gcirc;ia objekto post la ago, t.e. la ago jam fini&gcirc;is:
       <ekz>
         la teksto estas t<tld/>olita &leftquot;Anta&ubreve;klarigo&rightquot;
         <fnt>
@@ -22,7 +21,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        beda&ubreve;rinde mia patro mortis, kiam nur duono de lia verko estis eldon<tld/>a
+        beda&ubreve;rinde mia patro mortis, kiam nur duono de lia verko estis
+        eldon<tld/>a
         <fnt>
           <bib>PrV</bib>
         </fnt>;
@@ -86,6 +86,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="io">-it</trd>
 </drv>
 
 <drv mrk="it.0ismo">
@@ -114,6 +115,9 @@
 
 <!--
 $Log: it.xml,v $
+Revision 1.5  2020/03/08 08:14:06  revo
+Robin van der Vliet: +trd
+
 Revision 1.4  2018/11/18 12:10:13  revo
 Wolfram Diestel: vortumo de dif lau PMEG (pli komprenebla), +ekz-oj
 
