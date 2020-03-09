@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: detru.xml,v 1.30 2017/10/01 19:10:15 revo Exp $">
+<art mrk="$Id: detru.xml,v 1.31 2020/03/03 07:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>detru</rad>/i
@@ -261,8 +261,12 @@
     <trd>ni&ccaron;iv&yacute;</trd>
   </trdgrp>
   <trd lng="de">zerst&ouml;rerisch</trd>
+  <trd lng="en">destructive</trd>
   <trd lng="es">destructor</trd>
-  <trd lng="fr">destructeur</trd>
+  <trdgrp lng="fr">
+    <trd>destructeur<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>destructrice<klr tip="ind"> (adj.)</klr></trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>rombol&oacute;</trd>,
     <trd>destrukt&iacute;v</trd>
@@ -396,6 +400,9 @@
 </art>
 <!--
 $Log: detru.xml,v $
+Revision 1.31  2020/03/03 07:10:17  revo
+Aleks Andre: en, fr
+
 Revision 1.30  2017/10/01 19:10:15  revo
 Vito Redsky: trd ro
 
@@ -414,9 +421,6 @@ Damien Brucker: +trd fr
 
 Revision 1.25  2012/10/23 00:11:32  revo
 Neil Roberts: aldonu la etikedon <var>
-
-Revision 1.24  2009/06/09 16:31:11  revo
-Sebastian Cyprych: +trd pl
 
 -->
 </vortaro>
